@@ -1,0 +1,22 @@
+sections:
+  Global Economy:
+    - economy
+    - inflation
+    - central bank
+    - recession
+    - gdp
+    - growth
+    - trade
+
+  Energy:
+    - oil
+    - gas
+    - power
+    - electricity
+    - coal
+    - renewable
+    - solar
+    - wind
+    - battery
+    - grid
+    - lng
