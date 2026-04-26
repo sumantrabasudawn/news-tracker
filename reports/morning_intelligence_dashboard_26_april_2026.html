@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title>Aion Intelligence</title>
 
   <style>
@@ -17,8 +18,6 @@
       margin: 0 auto;
       padding: 50px 20px;
     }
-
-    /* MASTHEAD */
 
     .masthead {
       text-align: center;
@@ -40,8 +39,6 @@
       color: #6b6b6b;
     }
 
-    /* TICKER */
-
     .market-bar {
       border-top: 1px solid #ded8cf;
       border-bottom: 1px solid #ded8cf;
@@ -55,7 +52,7 @@
     .market-track {
       display: inline-block;
       padding-left: 100%;
-      animation: scroll 45s linear infinite;
+      animation: scroll 55s linear infinite;
     }
 
     .market-item {
@@ -65,34 +62,30 @@
       color: #444;
     }
 
-    .market-item span {
+    .market-value {
       font-weight: 700;
       color: #2b2b2b;
+    }
+
+    .market-up {
+      color: #0a8f3c;
+      font-weight: 800;
+    }
+
+    .market-down {
+      color: #c62828;
+      font-weight: 800;
+    }
+
+    .market-flat {
+      color: #777;
+      font-weight: 700;
     }
 
     @keyframes scroll {
       0% { transform: translateX(0); }
       100% { transform: translateX(-100%); }
     }
-
-    /* COLOR LOGIC */
-
-    .market-up {
-      color: #0a8f3c;
-      font-weight: 700;
-    }
-
-    .market-down {
-      color: #c62828;
-      font-weight: 700;
-    }
-
-    .market-flat {
-      color: #777;
-      font-weight: 600;
-    }
-
-    /* CONTENT */
 
     .section {
       margin-bottom: 30px;
@@ -106,7 +99,6 @@
       font-size: 16px;
       line-height: 1.6;
     }
-
   </style>
 </head>
 
@@ -114,9 +106,7 @@
 
 <div class="container">
 
-  <!-- MASTHEAD -->
   <div class="masthead">
-
     <div class="brand">
       <span class="aion">AION</span>
       <span class="intelligence">INTELLIGENCE</span>
@@ -125,15 +115,12 @@
     <div class="subhead" id="timestamp">
       Pulse Briefing and Analyses
     </div>
-
   </div>
 
-  <!-- MARKET TICKER -->
   <div class="market-bar">
     <div class="market-track" id="market-data"></div>
   </div>
 
-  <!-- CONTENT -->
   <div class="section">
     <div class="card">
       Your intelligence content goes here.
@@ -142,7 +129,6 @@
 
 </div>
 
-<!-- DYNAMIC TIMESTAMP -->
 <script>
   const options = {
     timeZone: 'Asia/Kolkata',
@@ -160,33 +146,32 @@
     "Pulse Briefing and Analyses | " + now + " IST";
 </script>
 
-<!-- MARKET DATA WITH COLOR LOGIC -->
 <script>
   const marketData = [
-    { name: "DOW JONES", value: "38,900", change: "+0.6%" },
-    { name: "NASDAQ", value: "16,200", change: "-0.3%" },
-    { name: "S&P 500", value: "5,150", change: "+0.4%" },
-    { name: "NIFTY 50", value: "22,400", change: "-0.2%" },
-    { name: "SENSEX", value: "73,800", change: "-0.1%" },
-    { name: "NIKKEI", value: "38,200", change: "+0.7%" },
-    { name: "FTSE 100", value: "8,150", change: "+0.2%" },
-    { name: "BRENT CRUDE", value: "$98.5", change: "+1.1%" },
-    { name: "NYMEX CRUDE", value: "$94.2", change: "+0.9%" },
-    { name: "MSCI EM", value: "+0.6%", change: "+0.6%" },
-    { name: "DOLLAR INDEX", value: "104.3", change: "+0.2%" },
-    { name: "INDIA VIX", value: "12.8", change: "-1.5%" }
+    { name: "DOW JONES", value: "38,900", change: "+0.6" },
+    { name: "NASDAQ", value: "16,200", change: "-0.3" },
+    { name: "S&P 500", value: "5,150", change: "+0.4" },
+    { name: "NIFTY 50", value: "22,400", change: "-0.2" },
+    { name: "SENSEX", value: "73,800", change: "-0.1" },
+    { name: "NIKKEI", value: "38,200", change: "+0.7" },
+    { name: "FTSE 100", value: "8,150", change: "+0.2" },
+    { name: "BRENT CRUDE", value: "$98.5", change: "+1.1" },
+    { name: "NYMEX CRUDE", value: "$94.2", change: "+0.9" },
+    { name: "MSCI EM", value: "1,065", change: "+0.6" },
+    { name: "DOLLAR INDEX", value: "104.3", change: "+0.2" },
+    { name: "INDIA VIX", value: "12.8", change: "-1.5" }
   ];
 
   function getClass(change) {
-    if (change.includes("+")) return "market-up";
-    if (change.includes("-")) return "market-down";
+    if (change.startsWith("+")) return "market-up";
+    if (change.startsWith("-")) return "market-down";
     return "market-flat";
   }
 
   function getArrow(change) {
-    if (change.includes("+")) return "▲";
-    if (change.includes("-")) return "▼";
-    return "■";
+    if (change.startsWith("+")) return "&#9650;";
+    if (change.startsWith("-")) return "&#9660;";
+    return "&#9632;";
   }
 
   const container = document.getElementById("market-data");
@@ -198,8 +183,8 @@
     return `
       <div class="market-item">
         ${item.name}: 
-        <span>${item.value}</span>
-        <span class="${cls}"> ${arrow} ${item.change}</span>
+        <span class="market-value">${item.value}</span>
+        <span class="${cls}">${arrow} ${item.change}%</span>
       </div>
     `;
   }).join("");
