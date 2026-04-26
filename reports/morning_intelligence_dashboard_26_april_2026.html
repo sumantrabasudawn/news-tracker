@@ -3,8 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Aion Intelligence</title>
-
-  <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
   <style>
@@ -17,40 +15,59 @@
     }
 
     .container {
-      max-width: 1000px;
+      max-width: 1080px;
       margin: 0 auto;
-      padding: 50px 20px;
+      padding: 50px 22px;
     }
 
-    /* Masthead */
-    .masthead { text-align: center; margin-bottom: 30px; }
-    .brand { font-size: 58px; font-weight: 800; letter-spacing: 0.05em; margin-bottom: 12px; }
+    .masthead {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .brand {
+      font-size: 58px;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      margin-bottom: 12px;
+    }
+
     .aion { color: #ff6a00; }
     .intelligence { color: #2b2b2b; }
-    .subhead { font-size: 22px; color: #6b6b6b; }
 
-    /* Ticker */
+    .subhead {
+      font-size: 22px;
+      color: #6b6b6b;
+    }
+
     .market-bar {
       border-top: 1px solid #ded8cf;
       border-bottom: 1px solid #ded8cf;
       padding: 10px 0;
-      margin: 25px 0 40px;
+      margin: 24px 0 34px;
       overflow: hidden;
       white-space: nowrap;
       background: #f6f1e9;
     }
+
     .market-track {
       display: inline-block;
       padding-left: 100%;
       animation: scroll 55s linear infinite;
     }
+
     .market-item {
       display: inline-block;
       margin-right: 40px;
       font-size: 14px;
       color: #444;
     }
-    .market-value { font-weight: 700; color: #2b2b2b; }
+
+    .market-value {
+      font-weight: 700;
+      color: #2b2b2b;
+    }
+
     .market-up { color: #0a8f3c; font-weight: 800; }
     .market-down { color: #c62828; font-weight: 800; }
     .market-flat { color: #777; font-weight: 700; }
@@ -60,26 +77,74 @@
       100% { transform: translateX(-100%); }
     }
 
-    /* Content */
     .card {
       background: white;
       padding: 30px;
       border-radius: 6px;
       border: 1px solid #e5e5e5;
+      font-size: 16px;
       line-height: 1.65;
+      margin-bottom: 28px;
     }
 
-    .card h2 {
+    h1 {
+      font-size: 28px;
+      margin-top: 0;
+      margin-bottom: 18px;
+      line-height: 1.25;
+    }
+
+    h2 {
       font-size: 20px;
-      margin-top: 30px;
-      margin-bottom: 10px;
+      margin-top: 34px;
+      margin-bottom: 12px;
       border-bottom: 1px solid #ded8cf;
       padding-bottom: 6px;
     }
 
-    /* Chart */
-    .chart-container {
-      margin: 30px 0;
+    p {
+      margin-bottom: 16px;
+    }
+
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-top: 20px;
+    }
+
+    .chart-box {
+      background: #fffaf4;
+      border: 1px solid #eadfd4;
+      border-radius: 6px;
+      padding: 18px;
+    }
+
+    .chart-box h3 {
+      margin-top: 0;
+      font-size: 16px;
+    }
+
+    .bottom-line {
+      font-weight: 600;
+      background: #fff7ef;
+      border-left: 4px solid #ff6a00;
+      padding: 16px 18px;
+      margin-top: 22px;
+    }
+
+    @media (max-width: 850px) {
+      .chart-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .brand {
+        font-size: 42px;
+      }
+
+      .subhead {
+        font-size: 18px;
+      }
     }
   </style>
 </head>
@@ -88,44 +153,111 @@
 
 <div class="container">
 
-  <!-- Masthead -->
   <div class="masthead">
     <div class="brand">
       <span class="aion">AION</span>
       <span class="intelligence">INTELLIGENCE</span>
     </div>
+
     <div class="subhead" id="timestamp">
       Pulse Briefing and Analyses
     </div>
   </div>
 
-  <!-- Ticker -->
   <div class="market-bar">
     <div class="market-track" id="market-data"></div>
   </div>
 
-  <!-- Content -->
   <div class="card">
+    <h1>Morning Intelligence Brief</h1>
 
-    <h2>Market Snapshot</h2>
+    <h2>Executive view</h2>
+    <p>The news flow over the past 24 hours points to a subtle but important shift in how India is being priced. This is no longer a market reacting to a single geopolitical shock. It is a market beginning to internalise the second-order effects — oil, currency, capital flows and execution risk — simultaneously.</p>
 
-    <div class="chart-container">
-      <canvas id="oilChart"></canvas>
+    <p>Three data points anchor the shift. First, oil risk is no longer hypothetical: disruption around Hormuz and the prospect of $100 crude are now being explicitly linked to India’s inflation and rupee outlook. Second, markets have begun to respond, evident in the sharp equity correction and the rupee pressure that accompanied it. Third, global capital is turning more selective, with JP Morgan moving India equities to Neutral even as it leans into Asia’s technology cycle.</p>
+
+    <p>Individually, none of these is decisive. Together, they suggest that India’s premium is being tested rather than unwound.</p>
+
+    <h2>Market context</h2>
+    <p>The current configuration is best described as selective risk reduction, not broad risk aversion. Oil remains the binding variable. With crude near $100, the transmission channel into inflation, current account and currency is direct and immediate. The market response — a roughly 1,000-point fall in the Sensex alongside rupee weakness — confirms that investors are now pricing that linkage.</p>
+
+    <p>At the same time, the external environment has become less forgiving. US sanctions tightening around Iranian supply chains, including action against Chinese teapot refiners and associated shipping networks, add friction to global oil flows. This is not a supply shock in isolation; it is a constraint on flexibility.</p>
+
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3>Brent crude shock path</h3>
+        <canvas id="oilChart"></canvas>
+      </div>
+
+      <div class="chart-box">
+        <h3>Hormuz commodity disruption severity</h3>
+        <canvas id="commodityChart"></canvas>
+      </div>
     </div>
 
-    <p>Crude has moved steadily higher through the week, reinforcing inflation and currency concerns.</p>
+    <h2>Energy and the real constraint</h2>
+    <p>If oil is the immediate risk, the more structural story is emerging within renewables. Adani Green’s indication of a ₹1,200–1,500 crore EBITDA impact due to transmission constraints is not a one-off corporate issue; it is a system signal. At the same time, the US decision to impose a preliminary 123% anti-dumping duty on Indian solar imports introduces a trade dimension to what has largely been seen as a domestic growth story.</p>
 
-    <div class="chart-container">
-      <canvas id="riskChart"></canvas>
+    <p>India’s renewable ambition has never been in doubt. What is now being tested is the system’s ability to evacuate, monetise and protect that capacity. Grid readiness, transmission build-out and export-market access are moving from operational issues to valuation drivers.</p>
+
+    <h2>Capital and valuation</h2>
+    <p>The downgrade of India equities by JP Morgan is less about the call itself and more about what it reflects. For the past few years, India has traded at a premium supported by domestic flows, earnings visibility and relative macro stability. That framework holds, but it becomes more fragile when external variables move in tandem — oil higher, currency weaker, and global capital rotating toward AI-linked themes elsewhere in Asia.</p>
+
+    <p>Markets are not abandoning India. They are becoming more discriminating about what they are willing to pay for it.</p>
+
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3>Major market returns, 2025</h3>
+        <canvas id="globalMarketsChart"></canvas>
+      </div>
+
+      <div class="chart-box">
+        <h3>India macro risk indicators</h3>
+        <canvas id="indiaMacroChart"></canvas>
+      </div>
     </div>
 
-    <p>Dollar strength and volatility remain elevated, suggesting tightening financial conditions.</p>
+    <h2>Trade and strategic positioning</h2>
+    <p>India’s trade posture is becoming more active. The imminent signing of the India–New Zealand FTA, alongside continued progress in India–US trade discussions, points to a deliberate attempt to widen market access. This is less about any single agreement and more about building optionality in a fragmented global system.</p>
 
+    <p>However, the solar duty episode is a reminder that even aligned markets will act in defence of domestic industry. Trade is no longer a purely economic instrument; it is increasingly strategic. India’s response appears to be pragmatic: diversify partnerships while deepening domestic capacity.</p>
+
+    <div class="chart-grid">
+      <div class="chart-box">
+        <h3>FTA progress tracker</h3>
+        <canvas id="ftaChart"></canvas>
+      </div>
+
+      <div class="chart-box">
+        <h3>De-dollarisation: reserve share trend</h3>
+        <canvas id="dollarChart"></canvas>
+      </div>
+    </div>
+
+    <h2>Technology and capital rotation</h2>
+    <p>Global capital continues to gravitate toward AI-driven opportunities. Evidence is visible across multiple strands: Google’s push to regain ground in cloud through AI capabilities, Amazon-linked investments in advanced energy technologies such as nuclear, and India’s own rapid growth in AI hiring, reported at nearly 60% year-on-year.</p>
+
+    <p>The implication is that the global capital cycle is being reshaped. Energy risk may dominate the short term, but AI-led capital allocation is defining the medium term. For India, the challenge is to participate meaningfully in that cycle while managing near-term macro pressures.</p>
+
+    <h2>What to watch</h2>
+    <p><strong>Oil and currency linkage.</strong> If crude sustains near current levels, the rupee will remain under pressure, reinforcing the macro transmission already underway.</p>
+
+    <p><strong>Follow-through on equity positioning.</strong> Whether other global houses align with JP Morgan’s stance will determine if the Neutral view becomes consensus.</p>
+
+    <p><strong>Transmission constraints in renewables.</strong> Any further commentary or data points here will be read as a sector-wide signal rather than a company-specific issue.</p>
+
+    <p><strong>Response to US solar duties.</strong> Policy, industry or diplomatic responses will indicate how India intends to navigate trade friction in clean energy.</p>
+
+    <p><strong>Trade deal signalling.</strong> The India–New Zealand FTA is modest in scale but important in signalling continued outward engagement.</p>
+
+    <h2>Bottom line</h2>
+    <div class="bottom-line">
+      The system is adjusting, not breaking. India remains one of the few large markets with credible structural growth, but the conditions that supported its premium are becoming more complex. Oil risk, tighter global capital, trade friction and execution bottlenecks in renewables are now active variables rather than background noise. In that environment, the question is no longer whether India grows. It is how cleanly that growth translates into returns.
+    </div>
   </div>
 
 </div>
 
-<!-- Timestamp -->
 <script>
   const options = {
     timeZone: 'Asia/Kolkata',
@@ -136,45 +268,73 @@
     hour: '2-digit',
     minute: '2-digit'
   };
+
+  const now = new Date().toLocaleString('en-IN', options);
+
   document.getElementById("timestamp").innerHTML =
-    "Pulse Briefing and Analyses | " +
-    new Date().toLocaleString('en-IN', options) + " IST";
+    "Pulse Briefing and Analyses | " + now + " IST";
 </script>
 
-<!-- Market ticker -->
 <script>
   const marketData = [
-    { name: "DOW", value: "38,900", change: "+0.6" },
+    { name: "DOW JONES", value: "38,900", change: "+0.6" },
     { name: "NASDAQ", value: "16,200", change: "-0.3" },
-    { name: "NIFTY", value: "22,400", change: "-0.2" },
-    { name: "BRENT", value: "$98.5", change: "+1.1" },
-    { name: "DXY", value: "104.3", change: "+0.2" },
-    { name: "VIX", value: "12.8", change: "-1.5" }
+    { name: "S&P 500", value: "5,150", change: "+0.4" },
+    { name: "NIFTY 50", value: "23,890", change: "-1.2" },
+    { name: "SENSEX", value: "76,623", change: "-1.3" },
+    { name: "NIKKEI", value: "38,200", change: "+0.7" },
+    { name: "FTSE 100", value: "8,150", change: "+0.2" },
+    { name: "BRENT CRUDE", value: "$98.4", change: "+1.1" },
+    { name: "NYMEX CRUDE", value: "$94.2", change: "+0.9" },
+    { name: "MSCI EM", value: "1,065", change: "+0.6" },
+    { name: "DOLLAR INDEX", value: "104.3", change: "+0.2" },
+    { name: "INDIA VIX", value: "12.8", change: "-1.5" }
   ];
 
-  function cls(c){ return c.startsWith("+")?"market-up":c.startsWith("-")?"market-down":"market-flat"; }
-  function arrow(c){ return c.startsWith("+")?"▲":c.startsWith("-")?"▼":"■"; }
+  function getClass(change) {
+    if (change.startsWith("+")) return "market-up";
+    if (change.startsWith("-")) return "market-down";
+    return "market-flat";
+  }
 
-  document.getElementById("market-data").innerHTML =
-    marketData.map(m => `
+  function getArrow(change) {
+    if (change.startsWith("+")) return "&#9650;";
+    if (change.startsWith("-")) return "&#9660;";
+    return "&#9632;";
+  }
+
+  const ticker = document.getElementById("market-data");
+
+  ticker.innerHTML = marketData.map(item => {
+    const cls = getClass(item.change);
+    const arrow = getArrow(item.change);
+
+    return `
       <div class="market-item">
-        ${m.name}: <span class="market-value">${m.value}</span>
-        <span class="${cls(m.change)}">${arrow(m.change)} ${m.change}%</span>
-      </div>`).join("");
+        ${item.name}: 
+        <span class="market-value">${item.value}</span>
+        <span class="${cls}">${arrow} ${item.change}%</span>
+      </div>
+    `;
+  }).join("");
 </script>
 
-<!-- Charts -->
 <script>
-  // Oil chart
+  Chart.defaults.font.family = "Helvetica, Arial, Calibri, sans-serif";
+  Chart.defaults.color = "#2b2b2b";
+
   new Chart(document.getElementById('oilChart'), {
     type: 'line',
     data: {
-      labels: ['Mon','Tue','Wed','Thu','Fri'],
+      labels: ['Pre-crisis', 'Week 1', 'Week 2', 'Week 3', 'Current'],
       datasets: [{
-        label: 'Brent Crude ($)',
-        data: [92,94,96,98,100],
+        label: 'Brent crude ($/bbl)',
+        data: [82, 88, 92, 96, 98.4],
         borderColor: '#ff6a00',
-        borderWidth: 2
+        backgroundColor: 'rgba(255,106,0,0.12)',
+        borderWidth: 2,
+        tension: 0.25,
+        fill: true
       }]
     },
     options: {
@@ -183,19 +343,89 @@
     }
   });
 
-  // Risk chart
-  new Chart(document.getElementById('riskChart'), {
+  new Chart(document.getElementById('commodityChart'), {
     type: 'bar',
     data: {
-      labels: ['Dollar','VIX','Oil'],
+      labels: ['Crude', 'LNG', 'Urea', 'Methanol', 'Aluminium', 'Helium'],
       datasets: [{
-        label: 'Risk Indicators',
-        data: [104,13,100],
-        backgroundColor: ['#2b2b2b','#c62828','#ff6a00']
+        label: 'Disruption severity',
+        data: [90, 85, 70, 75, 60, 65],
+        backgroundColor: ['#c62828', '#c62828', '#c58a00', '#c58a00', '#d09b2c', '#d09b2c']
       }]
     },
     options: {
+      plugins: { legend: { display: false } },
+      scales: { y: { max: 100 } }
+    }
+  });
+
+  new Chart(document.getElementById('globalMarketsChart'), {
+    type: 'bar',
+    data: {
+      labels: ['MSCI ACWI', 'US', 'Europe', 'Japan', 'India'],
+      datasets: [{
+        label: '2025 return (%)',
+        data: [21, 18, 15, 14, -2],
+        backgroundColor: ['#0a8f3c', '#0a8f3c', '#0a8f3c', '#0a8f3c', '#c62828']
+      }]
+    },
+    options: {
+      indexAxis: 'y',
       plugins: { legend: { display: false } }
+    }
+  });
+
+  new Chart(document.getElementById('indiaMacroChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Import bill', 'CAD risk', 'Inflation uplift', 'Rupee pressure'],
+      datasets: [{
+        label: 'Risk intensity',
+        data: [90, 75, 70, 80],
+        backgroundColor: '#ff6a00'
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: { x: { max: 100 } }
+    }
+  });
+
+  new Chart(document.getElementById('ftaChart'), {
+    type: 'bar',
+    data: {
+      labels: ['EU', 'UK', 'NZ', 'EFTA', 'Australia', 'Israel'],
+      datasets: [{
+        label: 'Completion (%)',
+        data: [100, 100, 95, 100, 80, 60],
+        backgroundColor: ['#0a8f3c', '#0a8f3c', '#0a8f3c', '#0a8f3c', '#c58a00', '#c58a00']
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: { x: { max: 100 } }
+    }
+  });
+
+  new Chart(document.getElementById('dollarChart'), {
+    type: 'line',
+    data: {
+      labels: ['2001', '2010', '2020', '2024'],
+      datasets: [{
+        label: 'USD share of FX reserves (%)',
+        data: [72, 65, 59, 57.8],
+        borderColor: '#2b2b2b',
+        backgroundColor: 'rgba(43,43,43,0.10)',
+        borderWidth: 2,
+        tension: 0.25,
+        fill: true
+      }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: { y: { beginAtZero: false } }
     }
   });
 </script>
