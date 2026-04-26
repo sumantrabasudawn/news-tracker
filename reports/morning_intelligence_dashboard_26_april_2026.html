@@ -40,7 +40,7 @@
       color: #6b6b6b;
     }
 
-    /* TICKER STRIP */
+    /* TICKER */
 
     .market-bar {
       border-top: 1px solid #ded8cf;
@@ -73,6 +73,23 @@
     @keyframes scroll {
       0% { transform: translateX(0); }
       100% { transform: translateX(-100%); }
+    }
+
+    /* COLOR LOGIC */
+
+    .market-up {
+      color: #0a8f3c;
+      font-weight: 700;
+    }
+
+    .market-down {
+      color: #c62828;
+      font-weight: 700;
+    }
+
+    .market-flat {
+      color: #777;
+      font-weight: 600;
     }
 
     /* CONTENT */
@@ -143,28 +160,49 @@
     "Pulse Briefing and Analyses | " + now + " IST";
 </script>
 
-<!-- MARKET DATA -->
+<!-- MARKET DATA WITH COLOR LOGIC -->
 <script>
-  const marketValues = [
-    "DOW JONES: <span>38,900</span>",
-    "NASDAQ: <span>16,200</span>",
-    "S&P 500: <span>5,150</span>",
-    "NIFTY 50: <span>22,400</span>",
-    "SENSEX: <span>73,800</span>",
-    "NIKKEI: <span>38,200</span>",
-    "FTSE 100: <span>8,150</span>",
-    "BRENT CRUDE: <span>$98.5</span>",
-    "NYMEX CRUDE: <span>$94.2</span>",
-    "MSCI EM: <span>+0.6%</span>",
-    "DOLLAR INDEX: <span>104.3</span>",
-    "INDIA VIX: <span>12.8</span>"
+  const marketData = [
+    { name: "DOW JONES", value: "38,900", change: "+0.6%" },
+    { name: "NASDAQ", value: "16,200", change: "-0.3%" },
+    { name: "S&P 500", value: "5,150", change: "+0.4%" },
+    { name: "NIFTY 50", value: "22,400", change: "-0.2%" },
+    { name: "SENSEX", value: "73,800", change: "-0.1%" },
+    { name: "NIKKEI", value: "38,200", change: "+0.7%" },
+    { name: "FTSE 100", value: "8,150", change: "+0.2%" },
+    { name: "BRENT CRUDE", value: "$98.5", change: "+1.1%" },
+    { name: "NYMEX CRUDE", value: "$94.2", change: "+0.9%" },
+    { name: "MSCI EM", value: "+0.6%", change: "+0.6%" },
+    { name: "DOLLAR INDEX", value: "104.3", change: "+0.2%" },
+    { name: "INDIA VIX", value: "12.8", change: "-1.5%" }
   ];
+
+  function getClass(change) {
+    if (change.includes("+")) return "market-up";
+    if (change.includes("-")) return "market-down";
+    return "market-flat";
+  }
+
+  function getArrow(change) {
+    if (change.includes("+")) return "▲";
+    if (change.includes("-")) return "▼";
+    return "■";
+  }
 
   const container = document.getElementById("market-data");
 
-  container.innerHTML = marketValues
-    .map(item => `<div class="market-item">${item}</div>`)
-    .join("");
+  container.innerHTML = marketData.map(item => {
+    const cls = getClass(item.change);
+    const arrow = getArrow(item.change);
+
+    return `
+      <div class="market-item">
+        ${item.name}: 
+        <span>${item.value}</span>
+        <span class="${cls}"> ${arrow} ${item.change}</span>
+      </div>
+    `;
+  }).join("");
 </script>
 
 </body>
