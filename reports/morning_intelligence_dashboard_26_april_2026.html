@@ -13,7 +13,7 @@
     }
 
     .container {
-      max-width: 900px;
+      max-width: 1000px;
       margin: 0 auto;
       padding: 50px 20px;
     }
@@ -22,11 +22,11 @@
 
     .masthead {
       text-align: center;
-      margin-bottom: 40px;
+      margin-bottom: 30px;
     }
 
     .brand {
-      font-size: 56px;
+      font-size: 58px;
       font-weight: 800;
       letter-spacing: 0.05em;
       margin-bottom: 12px;
@@ -36,50 +36,43 @@
     .intelligence { color: #2b2b2b; }
 
     .subhead {
-      font-size: 24px;
+      font-size: 22px;
       color: #6b6b6b;
     }
 
-    /* MARKET STRIP */
+    /* TICKER STRIP */
 
-    .market-strip {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 14px;
-      margin: 30px 0 40px;
+    .market-bar {
+      border-top: 1px solid #ded8cf;
+      border-bottom: 1px solid #ded8cf;
+      padding: 10px 0;
+      margin: 25px 0 40px;
+      overflow: hidden;
+      white-space: nowrap;
+      background: #f6f1e9;
     }
 
-    .market-tile {
-      background: #ffffff;
-      border: 1px solid #e5dfd6;
-      border-radius: 6px;
-      padding: 14px 16px;
+    .market-track {
+      display: inline-block;
+      padding-left: 100%;
+      animation: scroll 45s linear infinite;
     }
 
-    .market-label {
-      font-size: 12px;
-      color: #777;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
+    .market-item {
+      display: inline-block;
+      margin-right: 40px;
+      font-size: 14px;
+      color: #444;
     }
 
-    .market-value {
-      font-size: 22px;
+    .market-item span {
       font-weight: 700;
-      margin-top: 6px;
       color: #2b2b2b;
     }
 
-    .market-note {
-      font-size: 12px;
-      color: #777;
-      margin-top: 4px;
-    }
-
-    @media (max-width: 800px) {
-      .market-strip {
-        grid-template-columns: repeat(2, 1fr);
-      }
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
     }
 
     /* CONTENT */
@@ -90,9 +83,11 @@
 
     .card {
       background: white;
-      padding: 20px;
+      padding: 22px;
       border-radius: 6px;
       border: 1px solid #e5e5e5;
+      font-size: 16px;
+      line-height: 1.6;
     }
 
   </style>
@@ -116,33 +111,9 @@
 
   </div>
 
-  <!-- MARKET STRIP -->
-  <div class="market-strip">
-
-    <div class="market-tile">
-      <div class="market-label">Brent Crude</div>
-      <div class="market-value">$100+</div>
-      <div class="market-note">Oil-risk regime intact</div>
-    </div>
-
-    <div class="market-tile">
-      <div class="market-label">USD / INR</div>
-      <div class="market-value">~83–84</div>
-      <div class="market-note">External pressure building</div>
-    </div>
-
-    <div class="market-tile">
-      <div class="market-label">India Equities</div>
-      <div class="market-value">Soft bias</div>
-      <div class="market-note">FPI + oil drag</div>
-    </div>
-
-    <div class="market-tile">
-      <div class="market-label">Trade Cue</div>
-      <div class="market-value">FTA watch</div>
-      <div class="market-note">NZ / EU / US tracks</div>
-    </div>
-
+  <!-- MARKET TICKER -->
+  <div class="market-bar">
+    <div class="market-track" id="market-data"></div>
   </div>
 
   <!-- CONTENT -->
@@ -170,6 +141,30 @@
 
   document.getElementById("timestamp").innerHTML =
     "Pulse Briefing and Analyses | " + now + " IST";
+</script>
+
+<!-- MARKET DATA -->
+<script>
+  const marketValues = [
+    "DOW JONES: <span>38,900</span>",
+    "NASDAQ: <span>16,200</span>",
+    "S&P 500: <span>5,150</span>",
+    "NIFTY 50: <span>22,400</span>",
+    "SENSEX: <span>73,800</span>",
+    "NIKKEI: <span>38,200</span>",
+    "FTSE 100: <span>8,150</span>",
+    "BRENT CRUDE: <span>$98.5</span>",
+    "NYMEX CRUDE: <span>$94.2</span>",
+    "MSCI EM: <span>+0.6%</span>",
+    "DOLLAR INDEX: <span>104.3</span>",
+    "INDIA VIX: <span>12.8</span>"
+  ];
+
+  const container = document.getElementById("market-data");
+
+  container.innerHTML = marketValues
+    .map(item => `<div class="market-item">${item}</div>`)
+    .join("");
 </script>
 
 </body>
