@@ -1,0 +1,275 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Morning Intelligence Dashboard | 26 April 2026</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<style>
+    :root {
+        --bg: #0b1020;
+        --panel: #131a2d;
+        --panel2: #18213a;
+        --text: #e8edf8;
+        --muted: #aeb8cc;
+        --line: #2d395c;
+        --accent: #d7b46a;
+        --good: #8fd19e;
+        --warn: #ffd166;
+        --bad: #ff8a8a;
+        --white: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, Arial, sans-serif;
+        background: radial-gradient(circle at top left, #1a2440 0%, var(--bg) 42%, #070b16 100%);
+        color: var(--text);
+        line-height: 1.55;
+    }
+    .wrap { max-width: 1240px; margin: 0 auto; padding: 28px; }
+    .hero {
+        border: 1px solid var(--line);
+        background: linear-gradient(135deg, rgba(19,26,45,0.95), rgba(11,16,32,0.92));
+        border-radius: 24px;
+        padding: 34px;
+        box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+    }
+    .eyebrow { color: var(--accent); letter-spacing: .12em; text-transform: uppercase; font-size: 12px; font-weight: 700; }
+    h1 { margin: 10px 0 8px; font-size: 36px; line-height: 1.1; }
+    h2 { margin-top: 0; font-size: 22px; }
+    h3 { margin-bottom: 6px; font-size: 17px; color: var(--white); }
+    p { color: var(--muted); }
+    .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 18px; margin-top: 18px; }
+    .card {
+        background: rgba(19,26,45,0.86);
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        padding: 20px;
+        box-shadow: 0 12px 36px rgba(0,0,0,0.20);
+    }
+    .span-4 { grid-column: span 4; }
+    .span-5 { grid-column: span 5; }
+    .span-6 { grid-column: span 6; }
+    .span-7 { grid-column: span 7; }
+    .span-8 { grid-column: span 8; }
+    .span-12 { grid-column: span 12; }
+    .metric { font-size: 31px; font-weight: 800; margin: 4px 0; color: #fff; }
+    .label { color: var(--muted); font-size: 13px; }
+    .tag { display:inline-block; padding: 4px 9px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 12px; margin-right: 6px; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { padding: 12px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: #fff; text-align: left; font-size: 12px; letter-spacing: .06em; text-transform: uppercase; }
+    td { color: var(--muted); }
+    .section-title { margin: 34px 0 10px; }
+    .note { font-size: 13px; color: var(--muted); }
+    .callout {
+        border-left: 4px solid var(--accent);
+        padding: 14px 18px;
+        background: rgba(215,180,106,0.08);
+        border-radius: 12px;
+        color: #dfe6f5;
+    }
+    details {
+        background: rgba(19,26,45,0.75);
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 14px 18px;
+        margin: 10px 0;
+    }
+    summary { cursor: pointer; color: #fff; font-weight: 700; }
+    .footer { margin-top: 30px; color: var(--muted); font-size: 12px; }
+    @media (max-width: 900px) {
+        .span-4, .span-5, .span-6, .span-7, .span-8, .span-12 { grid-column: span 12; }
+        h1 { font-size: 29px; }
+    }
+</style>
+</head>
+<body>
+<div class="wrap">
+    <div class="hero">
+        <div class="eyebrow">For Limited Circulation Only</div>
+        <h1>Morning Intelligence Dashboard</h1>
+        <p><strong>26 April 2026</strong> | Market structure, India’s FTA architecture and the de-dollarisation test.</p>
+        <div class="callout">
+            <strong>Executive read:</strong> The current configuration is not a generic risk-off market. It is a more selective repricing regime: global equities remain supported, but India is being re-scored through oil sensitivity, foreign outflows, valuation risk and trade-policy optionality. The dollar system is fragmenting at the margins, but its core market plumbing remains intact.
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="card span-4">
+            <div class="label">Global equity proxy</div>
+            <div class="metric">ACWI +0.84%</div>
+            <div class="label">Latest daily move via iShares MSCI ACWI ETF proxy</div>
+        </div>
+        <div class="card span-4">
+            <div class="label">India equity proxy</div>
+            <div class="metric">INDA +0.26%</div>
+            <div class="label">India continues to lag global beta in this snapshot</div>
+        </div>
+        <div class="card span-4">
+            <div class="label">Dollar system score</div>
+            <div class="metric">Core intact</div>
+            <div class="label">Reserve share down, FX/payment plumbing still USD-led</div>
+        </div>
+    </div>
+
+    <h2 class="section-title">1. Global market proxy chart</h2>
+    <div class="grid">
+        <div class="card span-7">
+            <div id="marketBar" style="height:420px;"></div>
+        </div>
+        <div class="card span-5">
+            <h3>Institutional interpretation</h3>
+            <p>ACWI remains the appropriate reference point for global beta, but the day’s dispersion shows why a single global index can be misleading. China and Germany led this ETF-proxy snapshot, while India lagged. For India, this is consistent with a market where domestic growth remains credible but external variables—oil, rupee pressure and FPI outflows—are now applying a valuation discount.</p>
+            <p class="note">Note: ETF proxies are used for shareable HTML rendering: ACWI, SPY, INDA, EWU, EWJ, FXI and EWG. These are not exact local-exchange index levels, but investable proxies for institutional market direction.</p>
+            <span class="tag">ETF proxy</span><span class="tag">Daily move</span><span class="tag">Global beta</span>
+        </div>
+        <div class="card span-12">
+            <div id="marketScatter" style="height:420px;"></div>
+        </div>
+    </div>
+
+    <h2 class="section-title">2. India’s FTA architecture since Trump’s return</h2>
+    <div class="card span-12">
+        <table>
+            <thead>
+                <tr>
+                    <th>Country / bloc</th>
+                    <th>Instrument</th>
+                    <th>Status</th>
+                    <th>Strategic read</th>
+                    <th>Source base</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>United Kingdom</td><td>Comprehensive Economic and Trade Agreement</td><td>Signed in July 2025</td><td>Developed-market access; services, investment, premium goods and financial corridor deepening.</td><td>Government of India / UK Government</td></tr><tr><td>Oman</td><td>Comprehensive Economic Partnership Agreement</td><td>Signed in December 2025</td><td>Gulf corridor, energy security, logistics and West Asia trade diversification.</td><td>Government of India</td></tr><tr><td>New Zealand</td><td>Free Trade Agreement</td><td>Announced Dec 2025; scheduled for signing Apr 2026</td><td>Indo-Pacific trade diversification; agri, education, services and investment bridge.</td><td>Reuters / Government statements</td></tr><tr><td>European Union</td><td>Free Trade Agreement</td><td>Concluded / announced January 2026</td><td>Largest developed-market architecture; complements UK and EFTA access.</td><td>Government of India</td></tr><tr><td>United States</td><td>Bilateral Trade Agreement / interim framework</td><td>Negotiations advanced; framework announced Feb 2026</td><td>Tariff-risk management, supply-chain alignment and technology corridor expansion.</td><td>MEA / White House / Reuters</td></tr><tr><td>EFTA</td><td>Trade and Economic Partnership Agreement</td><td>Signed Mar 2024; entered into force Oct 2025</td><td>Investment-heavy European access, Switzerland/Norway corridor, manufacturing capital.</td><td>Government of India</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="grid">
+        <div class="card span-6">
+            <h3>FTA intelligence read</h3>
+            <p>India’s trade outreach is no longer a purely export-market exercise. It is a hedge against tariff volatility, supply-chain fragmentation and geopolitical concentration. The UK, EU and EFTA corridor gives India a developed-market platform; Oman anchors Gulf-linked energy and logistics relevance; New Zealand extends Indo-Pacific diversification; and the US track is the most consequential because it directly intersects with tariff risk, technology access and strategic alignment.</p>
+        </div>
+        <div class="card span-6">
+            <h3>What to track next</h3>
+            <p>The key variable is not the number of FTAs signed, but whether they translate into rules-of-origin flexibility, services mobility, investment commitments, tariff relief, and China+1 supply-chain allocation. For CXO decision-making, the correct question is: which sectors acquire market-access advantage before the next tariff cycle hardens?</p>
+        </div>
+    </div>
+
+    <h2 class="section-title">3. De-dollarisation tracker</h2>
+    <div class="grid">
+        <div class="card span-7">
+            <div id="dedollarBar" style="height:420px;"></div>
+        </div>
+        <div class="card span-5">
+            <h3>Conclusion</h3>
+            <p>De-dollarisation is occurring at the margin, not at the core. The dollar’s reserve share has drifted down to 56.77%, but the US dollar remains on one side of 89.2% of global FX transactions. Gold purchases by central banks are elevated, which indicates diversification away from pure fiat reserve exposure. But there is still no credible monetary architecture that replaces the dollar in trade finance, liquidity, collateral, derivatives and crisis hedging.</p>
+        </div>
+        <div class="card span-12">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Value</th>
+                        <th>Direction</th>
+                        <th>Signal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>USD share of global FX reserves</td><td>56.77 %</td><td>Slow decline</td><td>Dedollarisation visible at reserve margin, not systemic.</td></tr><tr><td>EUR share of global FX reserves</td><td>20.25 %</td><td>Range-bound</td><td>Euro is not absorbing most of the dollar decline.</td></tr><tr><td>RMB share of global FX reserves</td><td>1.95 %</td><td>Marginal rise</td><td>RMB remains too small as a reserve substitute.</td></tr><tr><td>USD share of FX transactions</td><td>89.2 % of trades with USD on one side</td><td>Dominant</td><td>FX market plumbing remains dollar-centric.</td></tr><tr><td>Central bank gold purchases</td><td>863 tonnes in 2025</td><td>Elevated</td><td>Gold is the real reserve-diversification asset, not a currency replacement.</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <h2 class="section-title">4. What to watch in the next 24–48 hours</h2>
+    <details open>
+        <summary>Oil, rupee and FPI triangulation</summary>
+        <p>India’s near-term market tone will be decided by whether Brent remains above the $100 threshold, whether the rupee requires visible smoothing, and whether FPI selling continues into the new week. A simultaneous deterioration in all three would move the market from tactical correction to deeper external repricing.</p>
+    </details>
+    <details>
+        <summary>FTA follow-through</summary>
+        <p>Watch whether the India–New Zealand signing narrative is used by policymakers as part of a broader trade-diversification message. The more consequential track remains the US interim framework and whether tariff relief becomes bankable for Indian exporters.</p>
+    </details>
+    <details>
+        <summary>De-dollarisation signal quality</summary>
+        <p>Do not overread bilateral non-dollar settlement headlines. The harder metrics are reserve composition, SWIFT/payment shares, FX turnover, oil invoicing, and central bank gold accumulation. On those measures, fragmentation is visible but dollar displacement remains premature.</p>
+    </details>
+
+    <h2 class="section-title">5. Source panel</h2>
+    <div class="card span-12">
+        <table>
+            <thead><tr><th>Area</th><th>Source base</th></tr></thead>
+            <tbody>
+                <tr><td>Market proxy data</td><td>ETF proxy prices from finance feed for ACWI, SPY, INDA, EWU, EWJ, FXI and EWG as of latest available US close, 25 April 2026 UTC.</td></tr><tr><td>FTA architecture</td><td>Government of India PIB releases; MEA India-US joint statement; Reuters reporting on India-US and India-New Zealand trade talks.</td></tr><tr><td>De-dollarisation</td><td>IMF COFER Q4 2025; BIS 2025 Triennial FX Survey; SWIFT Global Currency Tracker; World Gold Council 2025 data.</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer">
+        Prepared as a static interactive HTML prototype. For external circulation, host this file through Netlify, Vercel, GitHub Pages or an authenticated internal page. Local file paths beginning with file:/// will not open for recipients.
+    </div>
+</div>
+
+<script>
+const marketData = [{"proxy": "MSCI ACWI", "ticker": "ACWI", "price": 150.49, "daily_change_pct": 0.844, "region": "Global"}, {"proxy": "S&P 500", "ticker": "SPY", "price": 713.94, "daily_change_pct": 0.776, "region": "United States"}, {"proxy": "MSCI India", "ticker": "INDA", "price": 49.58, "daily_change_pct": 0.263, "region": "India"}, {"proxy": "MSCI UK", "ticker": "EWU", "price": 46.99, "daily_change_pct": 0.406, "region": "United Kingdom"}, {"proxy": "MSCI Japan", "ticker": "EWJ", "price": 87.32, "daily_change_pct": 0.293, "region": "Japan"}, {"proxy": "China Large Cap", "ticker": "FXI", "price": 36.86, "daily_change_pct": 1.014, "region": "China"}, {"proxy": "MSCI Germany", "ticker": "EWG", "price": 42.35, "daily_change_pct": 1.073, "region": "Germany"}];
+const dedollarData = [{"metric": "USD share of global FX reserves", "value": 56.77, "unit": "%", "direction": "Slow decline", "signal": "Dedollarisation visible at reserve margin, not systemic."}, {"metric": "EUR share of global FX reserves", "value": 20.25, "unit": "%", "direction": "Range-bound", "signal": "Euro is not absorbing most of the dollar decline."}, {"metric": "RMB share of global FX reserves", "value": 1.95, "unit": "%", "direction": "Marginal rise", "signal": "RMB remains too small as a reserve substitute."}, {"metric": "USD share of FX transactions", "value": 89.2, "unit": "% of trades with USD on one side", "direction": "Dominant", "signal": "FX market plumbing remains dollar-centric."}, {"metric": "Central bank gold purchases", "value": 863, "unit": "tonnes in 2025", "direction": "Elevated", "signal": "Gold is the real reserve-diversification asset, not a currency replacement."}];
+
+const axisColor = '#aeb8cc';
+const gridColor = '#2d395c';
+
+Plotly.newPlot('marketBar', [{
+    x: marketData.map(d => d.proxy),
+    y: marketData.map(d => d.daily_change_pct),
+    text: marketData.map(d => d.ticker + ': ' + d.daily_change_pct.toFixed(2) + '%'),
+    hovertemplate: '<b>%{x}</b><br>Daily change: %{y:.2f}%<extra></extra>',
+    type: 'bar'
+}], {
+    title: {text: 'MSCI ACWI vs major market proxies | daily move', font: {color: '#ffffff'}},
+    paper_bgcolor: 'rgba(0,0,0,0)',
+    plot_bgcolor: 'rgba(0,0,0,0)',
+    font: {color: axisColor},
+    xaxis: {gridcolor: gridColor, tickangle: -20},
+    yaxis: {gridcolor: gridColor, title: 'Daily change (%)'},
+    margin: {l: 55, r: 20, t: 60, b: 90}
+}, {responsive: true, displayModeBar: true});
+
+Plotly.newPlot('marketScatter', [{
+    x: marketData.map(d => d.price),
+    y: marketData.map(d => d.daily_change_pct),
+    text: marketData.map(d => d.proxy + ' (' + d.ticker + ')'),
+    mode: 'markers+text',
+    textposition: 'top center',
+    marker: {size: marketData.map(d => Math.max(14, d.price/7)), opacity: 0.82},
+    hovertemplate: '<b>%{text}</b><br>Price: %{x}<br>Daily move: %{y:.2f}%<extra></extra>'
+}], {
+    title: {text: 'Proxy price vs daily change | dispersion map', font: {color: '#ffffff'}},
+    paper_bgcolor: 'rgba(0,0,0,0)',
+    plot_bgcolor: 'rgba(0,0,0,0)',
+    font: {color: axisColor},
+    xaxis: {gridcolor: gridColor, title: 'ETF proxy price'},
+    yaxis: {gridcolor: gridColor, title: 'Daily change (%)'},
+    margin: {l: 55, r: 20, t: 60, b: 60}
+}, {responsive: true, displayModeBar: true});
+
+Plotly.newPlot('dedollarBar', [{
+    x: dedollarData.slice(0,4).map(d => d.metric),
+    y: dedollarData.slice(0,4).map(d => d.value),
+    text: dedollarData.slice(0,4).map(d => d.value + ' ' + d.unit),
+    hovertemplate: '<b>%{x}</b><br>%{text}<extra></extra>',
+    type: 'bar'
+}], {
+    title: {text: 'Dollar system indicators | reserve vs market plumbing', font: {color: '#ffffff'}},
+    paper_bgcolor: 'rgba(0,0,0,0)',
+    plot_bgcolor: 'rgba(0,0,0,0)',
+    font: {color: axisColor},
+    xaxis: {gridcolor: gridColor, tickangle: -25},
+    yaxis: {gridcolor: gridColor, title: 'Share / value'},
+    margin: {l: 55, r: 20, t: 60, b: 140}
+}, {responsive: true, displayModeBar: true});
+</script>
+</body>
+</html>

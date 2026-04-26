@@ -14,38 +14,38 @@ feeds:
   - name: Mint News
     url: https://www.livemint.com/rss/newsRSS
 
-  - name: Mint Markets
-    url: https://www.livemint.com/rss/marketsRSS
-
-  - name: Mint Companies
-    url: https://www.livemint.com/rss/companiesRSS
-
-  - name: Times of India Home
-    url: https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
-
   - name: Times of India Business
     url: https://timesofindia.indiatimes.com/rssfeeds/1898055.cms
 
   - name: Hindustan Times India
     url: https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
 
-  - name: Hindustan Times World
-    url: https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml
-
   - name: Indian Express Latest
     url: https://indianexpress.com/feed/
-
-  - name: Indian Express India
-    url: https://indianexpress.com/section/india/feed/
-
-  - name: SCMP China
-    url: https://www.scmp.com/rss/91/feed
 
   - name: SCMP Asia
     url: https://www.scmp.com/rss/92/feed
 
-  - name: SCMP World
-    url: https://www.scmp.com/rss/95/feed
+  - name: Foreign Policy
+    url: https://foreignpolicy.com/feed/
+
+  - name: The Diplomat
+    url: https://thediplomat.com/feed/
+
+  - name: War on the Rocks
+    url: https://warontherocks.com/feed/
+
+  - name: CSIS
+    url: https://www.csis.org/rss.xml
+
+  - name: ORF
+    url: https://www.orfonline.org/feed/
+
+  - name: Reuters World
+    url: https://www.reutersagency.com/feed/?best-topics=world
+
+  - name: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
 
   - name: ET B2B Top Stories
     url: https://b2b.economictimes.indiatimes.com/rss/topstories
