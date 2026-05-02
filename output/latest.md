@@ -2,6 +2,8 @@
 
 ## Other
 
+- [Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient](https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f) — Financial Times World (2026-05-02T18:49:24+00:00)
+- [Trump administration fast-tracks $8.6bn in arms sales to Middle East allies](https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f) — Financial Times World (2026-05-02T18:36:28+00:00)
 - [Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T16:06:14+00:00)
 - [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74) — Financial Times World (2026-05-02T13:54:14+00:00)
 - [Canada’s diamond industry begins a long goodbye](https://www.ft.com/content/dbfe9e3e-f8c0-4f8e-a4eb-e82d7ee7a8cf) — Financial Times World (2026-05-02T12:00:08+00:00)
@@ -21,8 +23,6 @@
 - [English councils to trial Google AI tool to speed up planning decisions](https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [Dividend payments from UK companies up ‘over a fifth’ on last year](https://www.ft.com/content/2c8dfbf3-cb8b-4507-9bf2-5937638cbb4d) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [Iran war withers Kenya’s roses and strands its tea](https://www.ft.com/content/3b0438dc-7d8a-4564-9ce6-9d66b735eaae) — Financial Times World (2026-05-02T04:00:35+00:00)
-- [How a lawless Istanbul neighbourhood weathered a decade of political shocks](https://www.ft.com/content/1b4d5776-f72d-4466-9e5b-a6e623a9e4c4) — Financial Times World (2026-05-02T04:00:16+00:00)
-- [‘I’m fighting two wars. One against the Russians. And one inside myself.’](https://www.ft.com/content/95f501d0-1493-47b0-8ada-dc7c942036c9) — Financial Times World (2026-05-02T04:00:16+00:00)
 - [Adidas sprints ahead of Nike in recovery race](https://www.ft.com/content/ed0b46dd-0838-466a-a93c-ff570a533fae) — Financial Times Companies (2026-05-02T08:00:07+00:00)
 - [The luxuries I can’t give up (even as prices rise)](https://www.ft.com/content/9aaeb0c9-3963-4b88-862b-6a34470c6bdf) — Financial Times Companies (2026-05-02T04:00:35+00:00)
 - [‘I don’t see it as fighting’: the nun challenging Citibank and Palantir](https://www.ft.com/content/5c242543-6bc0-48bf-af85-7143cab05715) — Financial Times Companies (2026-05-02T04:00:16+00:00)
