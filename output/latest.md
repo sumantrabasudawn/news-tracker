@@ -2,7 +2,7 @@
 
 ## Other
 
-- [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74) — Financial Times World (2026-05-02T12:39:44+00:00)
+- [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74) — Financial Times World (2026-05-02T13:54:14+00:00)
 - [Canada’s diamond industry begins a long goodbye](https://www.ft.com/content/dbfe9e3e-f8c0-4f8e-a4eb-e82d7ee7a8cf) — Financial Times World (2026-05-02T12:00:08+00:00)
 - [Mexican president caught between Trump and her party](https://www.ft.com/content/cc580d74-8adc-47df-b7ee-43767ee6572a) — Financial Times World (2026-05-02T11:00:08+00:00)
 - [US should ‘finish the job’ if Iran does not yield, says Lindsey Graham](https://www.ft.com/content/359e5fdd-b56f-46cb-b3fd-70b367f3e2ef) — Financial Times World (2026-05-02T11:00:08+00:00)
@@ -41,8 +41,6 @@
 - [India's food delivery sector poised for double-digit growth as tier-2 adoption and frequency rise: Report](https://www.thehindubusinessline.com/economy/indias-food-delivery-sector-poised-for-double-digit-growth-as-tier-2-adoption-and-frequency-rise-report/article70931196.ece) — The Hindu BusinessLine (2026-05-02T14:20:48+05:30)
 - [TVS Motor records 7% YOY growth in sales in April, flags supply chain disruptions](https://www.thehindubusinessline.com/companies/tvs-motor-records-7-yoy-growth-in-sales-in-april-flags-supply-chain-disruptions/article70931201.ece) — The Hindu BusinessLine (2026-05-02T14:10:49+05:30)
 - [Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal](https://www.thehindubusinessline.com/news/world/trump-says-hell-place-25-tariff-on-autos-from-the-eu-accusing-it-of-not-complying-with-trade-deal/article70930732.ece) — The Hindu BusinessLine (2026-05-02T09:20:50+05:30)
-- [Apple posts record March quarter and strong double-digit revenue growth in India in Q2](https://www.thehindubusinessline.com/info-tech/apple-posts-record-march-quarter-and-strong-double-digit-revenue-growth-in-india-in-q2/article70927681.ece) — The Hindu BusinessLine (2026-05-01T21:30:24+05:30)
-- [Should MPC have hiked rates?](https://www.thehindubusinessline.com/opinion/should-mpc-have-hiked-rates/article70929357.ece) — The Hindu BusinessLine (2026-05-01T21:20:19+05:30)
 - [The Parmigiano vault: How Italy’s ‘cheese banks’ power a 4 billion euro industry](https://timesofindia.indiatimes.com/business/international-business/the-parmigiano-vault-how-italys-cheese-banks-power-a-4-billion-euro-industry/articleshow/130715514.cms) — Times of India Business (2026-05-02T17:13:55+05:30)
 - [Oil marketing companies seek LPG, petrol, diesel price hike as Iran war deepens losses](https://timesofindia.indiatimes.com/business/india-business/oil-marketing-companies-seek-lpg-petrol-diesel-price-hike-as-iran-war-deepens-losses/articleshow/130712617.cms) — Times of India Business (2026-05-02T14:04:27+05:30)
 - [RBI DG: Macro factors strong, no pressure on balance of payments](https://timesofindia.indiatimes.com/business/india-business/rbi-dg-macro-factors-strong-no-pressure-on-balance-of-payments/articleshow/130708688.cms) — Times of India Business (2026-05-02T07:44:35+05:30)
@@ -55,6 +53,8 @@
 - [Commercial LPG price hiked by nearly  ₹1,000 in setback for migrant workers, restaurants](https://www.hindustantimes.com/india-news/commercial-lpg-price-hiked-by-nearly-1-000-in-setback-for-migrant-workers-restaurants-101777705961328.html) — Hindustan Times India (2026-05-02T12:56:53+05:30)
 - [Lights, camera, traction: film-projecting headlights steer China’s EV feature fight](https://www.scmp.com/business/china-business/article/3352100/lights-camera-traction-film-projecting-headlights-steer-chinas-ev-feature-fight?utm_source=rss_feed) — SCMP Asia (2026-05-01T09:00:09+00:00)
 - [China’s Big Four banks post stronger earnings as policy lending lifts growth](https://www.scmp.com/business/china-business/article/3351965/chinas-big-four-banks-post-stronger-earnings-policy-lending-lifts-growth?utm_source=rss_feed) — SCMP Asia (2026-04-30T07:00:09+00:00)
+- [HKMA warns of interest-rate uncertainty as Fed’s trajectory remains unclear](https://www.scmp.com/business/banking-finance/article/3351921/hkma-holds-base-interest-rate-4-following-fed-war-inflation-worries-persist?utm_source=rss_feed) — SCMP Asia (2026-04-29T23:27:32+00:00)
+- [Capitalizing on the AI Computing Industry Upgrade Boom: Victory Giant Technology Achieves a Steady Start in Q1 Performance](https://www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1?utm_source=rss_feed) — SCMP Asia (2026-04-29T16:00:14+00:00)
 
 ## Energy
 
@@ -62,6 +62,7 @@
 - [Wall Street traders post triple the gains of European rivals](https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4) — Financial Times World (2026-05-02T04:00:41+00:00)
 - [South Africa now has a power surplus, says Eskom chief](https://www.ft.com/content/79aa1056-1303-4bf8-8968-b444509cd21b) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d) — Financial Times Companies (2026-05-02T04:00:16+00:00)
+- [APTransco taps young tech talent to power next-gen grid transformation](https://www.thehindubusinessline.com/news/national/aptransco-taps-young-tech-talent-to-power-next-gen-grid-transformation/article70931720.ece) — The Hindu BusinessLine (2026-05-02T19:23:06+05:30)
 - [Crude surge is a price shock, not supply shock for India: CEA Nageswaran](https://www.thehindubusinessline.com/economy/crude-surge-is-a-price-shock-not-supply-shock-for-india-cea-nageswaran/article70931788.ece) — The Hindu BusinessLine (2026-05-02T18:20:52+05:30)
 - [Power Ministry mandates phased rollout of local content in HVDC substations](https://www.thehindubusinessline.com/economy/policy/power-ministry-mandates-phased-rollout-of-local-content-in-hvdc-substations/article70931566.ece) — The Hindu BusinessLine (2026-05-02T17:10:52+05:30)
 - [FPIs pull out ₹13,944 crore in holiday-shortened week, equities hit hardest](https://www.thehindubusinessline.com/markets/stock-markets/fpis-pull-out-13944-crore-in-holiday-shortened-week-equities-hit-hardest/article70931468.ece) — The Hindu BusinessLine (2026-05-02T17:00:51+05:30)
@@ -82,4 +83,3 @@
 - [‘We’re not like India’: Pakistan minister admits to no strategic oil reserves, says stocks for only '5-7 days’](https://www.hindustantimes.com/india-news/were-not-like-india-pakistan-admits-no-strategic-oil-reserves-says-stocks-there-can-be-released-with-just-a-signat-101777699271975.html) — Hindustan Times India (2026-05-02T13:39:32+05:30)
 - ['First gas, next strike on petrol-diesel': Rahul Gandhi's prediction after steep commercial LPG price hike](https://www.hindustantimes.com/india-news/first-gas-next-strike-on-petrol-diesel-rahul-gandhi-prediction-after-steep-commercial-lpg-price-hike-101777626797254.html) — Hindustan Times India (2026-05-01T15:00:38+05:30)
 - [Madras HC dismisses petitions by advocates challenging misconduct proceedings](https://www.hindustantimes.com/india-news/madras-hc-dismisses-petitions-by-advocates-challenging-misconduct-proceedings-101777627623915.html) — Hindustan Times India (2026-05-01T14:57:03+05:30)
-- [Commercial LPG cylinder prices hiked by nearly  ₹1,000, check city-wise rates today](https://www.hindustantimes.com/india-news/commercial-lpg-cylinder-prices-hiked-from-today-check-latest-city-wise-rates-101777609692168.html) — Hindustan Times India (2026-05-01T10:26:54+05:30)
