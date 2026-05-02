@@ -2,9 +2,9 @@
 
 ## Other
 
+- [Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T23:36:15+00:00)
 - [Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient](https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f) — Financial Times World (2026-05-02T18:49:24+00:00)
 - [Trump administration fast-tracks $8.6bn in arms sales to Middle East allies](https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f) — Financial Times World (2026-05-02T18:36:28+00:00)
-- [Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T16:06:14+00:00)
 - [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74) — Financial Times World (2026-05-02T13:54:14+00:00)
 - [Canada’s diamond industry begins a long goodbye](https://www.ft.com/content/dbfe9e3e-f8c0-4f8e-a4eb-e82d7ee7a8cf) — Financial Times World (2026-05-02T12:00:08+00:00)
 - [Mexican president caught between Trump and her party](https://www.ft.com/content/cc580d74-8adc-47df-b7ee-43767ee6572a) — Financial Times World (2026-05-02T11:00:08+00:00)
