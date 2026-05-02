@@ -46,7 +46,6 @@
 - [In 4 months, FPI selling in stocks surpasses $20 billion](https://timesofindia.indiatimes.com/business/india-business/in-4-months-fpi-selling-in-stocks-surpasses-20-billion/articleshow/130708641.cms) — Times of India Business (2026-05-02T07:34:52+05:30)
 - [Banks should get more active in offshore rupee trade: RBI](https://timesofindia.indiatimes.com/business/india-business/banks-should-get-more-active-in-offshore-rupee-trade-rbi/articleshow/130708623.cms) — Times of India Business (2026-05-02T07:32:24+05:30)
 - [Car sales surge, SUVs drive growth](https://timesofindia.indiatimes.com/business/india-business/car-sales-surge-suvs-drive-growth/articleshow/130708583.cms) — Times of India Business (2026-05-02T07:27:38+05:30)
-- [Over the moon excited about India, says Tim Cook](https://timesofindia.indiatimes.com/business/india-business/over-the-moon-excited-about-india-says-tim-cook/articleshow/130708558.cms) — Times of India Business (2026-05-02T07:25:00+05:30)
 - [India and Ecuador exploring preferential trade deal to boost economic ties](https://www.hindustantimes.com/india-news/india-and-ecuador-exploring-preferential-trade-deal-to-boost-economic-ties-101777713290520.html) — Hindustan Times India (2026-05-02T14:44:50+05:30)
 - [Commercial LPG price hiked by nearly  ₹1,000 in setback for migrant workers, restaurants](https://www.hindustantimes.com/india-news/commercial-lpg-price-hiked-by-nearly-1-000-in-setback-for-migrant-workers-restaurants-101777705961328.html) — Hindustan Times India (2026-05-02T12:56:53+05:30)
 - [Lights, camera, traction: film-projecting headlights steer China’s EV feature fight](https://www.scmp.com/business/china-business/article/3352100/lights-camera-traction-film-projecting-headlights-steer-chinas-ev-feature-fight?utm_source=rss_feed) — SCMP Asia (2026-05-01T09:00:09+00:00)
@@ -55,6 +54,7 @@
 - [Capitalizing on the AI Computing Industry Upgrade Boom: Victory Giant Technology Achieves a Steady Start in Q1 Performance](https://www.scmp.com/presented/business/topics/vgt-steady-growth-26q1-results/article/3351790/capitalizing-ai-computing-industry-upgrade-boom-victory-giant-technology-achieves-steady-start-q1?utm_source=rss_feed) — SCMP Asia (2026-04-29T16:00:14+00:00)
 - [AI chip designer Cambricon vaults to China’s costliest stock after profits soar 185%](https://www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips?utm_source=rss_feed) — SCMP Asia (2026-04-29T13:15:23+00:00)
 - [WuXi AppTec posts record first-quarter revenue on strong global demand](https://www.scmp.com/business/china-business/article/3351591/wuxi-apptec-posts-record-first-quarter-revenue-strong-global-demand?utm_source=rss_feed) — SCMP Asia (2026-04-27T11:30:12+00:00)
+- [Turning cast-offs into cash: China’s Zhuanzhuan looks to Europe and the US for growth](https://www.scmp.com/business/china-business/article/3351394/turning-cast-offs-cash-chinas-zhuanzhuan-looks-europe-and-us-growth?utm_source=rss_feed) — SCMP Asia (2026-04-27T01:00:32+00:00)
 
 ## Energy
 
