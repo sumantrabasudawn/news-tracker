@@ -2,6 +2,7 @@
 
 ## Other
 
+- [Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T16:06:14+00:00)
 - [Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter](https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74) — Financial Times World (2026-05-02T13:54:14+00:00)
 - [Canada’s diamond industry begins a long goodbye](https://www.ft.com/content/dbfe9e3e-f8c0-4f8e-a4eb-e82d7ee7a8cf) — Financial Times World (2026-05-02T12:00:08+00:00)
 - [Mexican president caught between Trump and her party](https://www.ft.com/content/cc580d74-8adc-47df-b7ee-43767ee6572a) — Financial Times World (2026-05-02T11:00:08+00:00)
@@ -9,7 +10,6 @@
 - [Bringing Ukraine into the EU fold](https://www.ft.com/content/b1b93809-7d89-4feb-b671-640f4013eb80) — Financial Times World (2026-05-02T10:00:07+00:00)
 - [US warns Europe of delays to arms shipments as Iran war drains stockpiles](https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff) — Financial Times World (2026-05-02T09:51:05+00:00)
 - [EM’s vanishing diversification](https://www.ft.com/content/e64263ae-8197-4824-be95-451c08d3539a) — Financial Times World (2026-05-02T09:30:07+00:00)
-- [US to withdraw 5,000 troops from Germany in dispute over Iran conflict](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T09:14:25+00:00)
 - [The physical world strikes back](https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6) — Financial Times World (2026-05-02T04:03:06+00:00)
 - [The problem with healthy life expectancy](https://www.ft.com/content/766eee31-d73d-441d-8772-6fd426d2b7e2) — Financial Times World (2026-05-02T04:00:41+00:00)
 - [Meta stock might look cheap if it weren’t for Mark Zuckerberg](https://www.ft.com/content/85732906-e384-4706-be04-644023d18121) — Financial Times World (2026-05-02T04:00:41+00:00)
@@ -69,7 +69,6 @@
 - [FPIs pull out ₹13,944 crore in holiday-shortened week, equities hit hardest](https://www.thehindubusinessline.com/markets/stock-markets/fpis-pull-out-13944-crore-in-holiday-shortened-week-equities-hit-hardest/article70931468.ece) — The Hindu BusinessLine (2026-05-02T17:00:51+05:30)
 - [GST strong, consumption faces headwinds as risks mount](https://www.thehindubusinessline.com/multimedia/audio/gst-strong-consumption-faces-headwinds-as-risks-mount/article70931330.ece) — The Hindu BusinessLine (2026-05-02T15:00:49+05:30)
 - [“Preparing to move fast”, says Adani Power as it lines up land & SPVs for nuclear projects](https://www.thehindubusinessline.com/companies/preparing-to-move-fast-says-adani-power-as-it-lines-up-land-spvs-for-nuclear-projects/article70931032.ece) — The Hindu BusinessLine (2026-05-02T13:03:03+05:30)
-- [AI capex boom strains hyperscalers' cash flow as DRAM makers gain pricing power, says Jefferies](https://www.thehindubusinessline.com/info-tech/ai-capex-boom-strains-hyperscalers-cash-flow-as-dram-makers-gain-pricing-power-says-jefferies/article70930735.ece) — The Hindu BusinessLine (2026-05-02T09:40:48+05:30)
 - [The Parmigiano vault: How Italy’s ‘cheese banks’ power a 4 billion euro industry](https://timesofindia.indiatimes.com/business/international-business/the-parmigiano-vault-how-italys-cheese-banks-power-a-4-billion-euro-industry/articleshow/130715514.cms) — Times of India Business (2026-05-02T17:13:55+05:30)
 - [Oil’s well: Venezuela’s crude exports hit highest since 2018 — India, US and other buyers line up](https://timesofindia.indiatimes.com/business/international-business/oils-well-venezuelas-crude-exports-hit-highest-since-2018-india-us-and-other-buyers-line-up/articleshow/130714100.cms) — Times of India Business (2026-05-02T16:06:04+05:30)
 - [The Great 'Gas-by': 45,000-tonne LPG tanker braces for Hormuz crossing — why it matters for India](https://timesofindia.indiatimes.com/business/india-business/the-great-gas-by-45000-tonne-lpg-tanker-braces-for-hormuz-crossing-why-it-matters-for-india/articleshow/130713369.cms) — Times of India Business (2026-05-02T15:18:50+05:30)
@@ -83,3 +82,4 @@
 - ['First gas, next strike on petrol-diesel': Rahul Gandhi's prediction after steep commercial LPG price hike](https://www.hindustantimes.com/india-news/first-gas-next-strike-on-petrol-diesel-rahul-gandhi-prediction-after-steep-commercial-lpg-price-hike-101777626797254.html) — Hindustan Times India (2026-05-01T15:00:38+05:30)
 - [Madras HC dismisses petitions by advocates challenging misconduct proceedings](https://www.hindustantimes.com/india-news/madras-hc-dismisses-petitions-by-advocates-challenging-misconduct-proceedings-101777627623915.html) — Hindustan Times India (2026-05-01T14:57:03+05:30)
 - [Western disturbance to bring thunderstorm, hail, gusty winds in Punjab, Haryana on May 4–5](https://indianexpress.com/article/cities/chandigarh/western-disturbance-to-bring-thunderstorm-hail-gusty-winds-in-punjab-haryana-on-may-4-5-10667952/) — Indian Express Latest (2026-05-02T14:53:51+00:00)
+- [Trump tells Congress hostilities in Iran have ‘terminated’. Does War Powers Act still apply?](https://indianexpress.com/article/explained/explained-global/war-powers-act-trump-ceasefire-60-day-rule-10667532/) — Indian Express Latest (2026-05-02T10:18:38+00:00)
