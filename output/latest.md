@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Global News Wrap - 03 May 2026
 
 ## Other
@@ -83,3 +84,10 @@
 - [Western disturbance to bring thunderstorm, hail, gusty winds in Punjab, Haryana on May 4–5](https://indianexpress.com/article/cities/chandigarh/western-disturbance-to-bring-thunderstorm-hail-gusty-winds-in-punjab-haryana-on-may-4-5-10667952/) — Indian Express Latest (2026-05-02T14:53:51+00:00)
 - [Trump tells Congress hostilities in Iran have ‘terminated’. Does War Powers Act still apply?](https://indianexpress.com/article/explained/explained-global/war-powers-act-trump-ceasefire-60-day-rule-10667532/) — Indian Express Latest (2026-05-02T10:18:38+00:00)
 - [GSPC, GSPL merge into Gujarat Gas; entity to be renamed Gujarat Energy Limited](https://indianexpress.com/article/cities/ahmedabad/gspc-gspl-merge-into-gujarat-gas-entity-to-be-renamed-gujarat-energy-limited-10667472/) — Indian Express Latest (2026-05-02T09:32:16+00:00)
+=======
+# AION Intelligence
+
+Last updated: 2026-05-03 10:40:29
+
+Pipeline running.
+>>>>>>> Stashed changes
