@@ -1,7 +1,9 @@
-# Global News Wrap - 02 May 2026
+# Global News Wrap - 03 May 2026
 
 ## Other
 
+- [Canada exchange group aims to spur mining listings boom in Australia](https://www.ft.com/content/a5ca62bd-7e04-4f1c-9714-3fa4af18b126) — Financial Times World (2026-05-03T02:34:08+00:00)
+- [Trump says he is reviewing Iran peace plan but would consider new strikes](https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3) — Financial Times World (2026-05-03T01:19:06+00:00)
 - [Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war](https://www.ft.com/content/4cabedc3-0119-4c3f-9867-094b7e1398f6) — Financial Times World (2026-05-02T23:36:15+00:00)
 - [Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient](https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f) — Financial Times World (2026-05-02T18:49:24+00:00)
 - [Trump administration fast-tracks $8.6bn in arms sales to Middle East allies](https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f) — Financial Times World (2026-05-02T18:36:28+00:00)
@@ -22,11 +24,9 @@
 - [The euro’s urgent need](https://www.ft.com/content/5f02bb2e-f621-4369-8ce0-55f6d6b839c7) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [English councils to trial Google AI tool to speed up planning decisions](https://www.ft.com/content/91ce4475-d325-4d65-babb-4214996bc0f6) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [Dividend payments from UK companies up ‘over a fifth’ on last year](https://www.ft.com/content/2c8dfbf3-cb8b-4507-9bf2-5937638cbb4d) — Financial Times World (2026-05-02T04:00:35+00:00)
-- [Iran war withers Kenya’s roses and strands its tea](https://www.ft.com/content/3b0438dc-7d8a-4564-9ce6-9d66b735eaae) — Financial Times World (2026-05-02T04:00:35+00:00)
 - [Adidas sprints ahead of Nike in recovery race](https://www.ft.com/content/ed0b46dd-0838-466a-a93c-ff570a533fae) — Financial Times Companies (2026-05-02T08:00:07+00:00)
 - [The luxuries I can’t give up (even as prices rise)](https://www.ft.com/content/9aaeb0c9-3963-4b88-862b-6a34470c6bdf) — Financial Times Companies (2026-05-02T04:00:35+00:00)
-- [‘I don’t see it as fighting’: the nun challenging Citibank and Palantir](https://www.ft.com/content/5c242543-6bc0-48bf-af85-7143cab05715) — Financial Times Companies (2026-05-02T04:00:16+00:00)
-- [It’s over. Net-a-Porter has sent me packing](https://www.ft.com/content/330d3506-706a-4f1d-8095-23a44efc2d2c) — Financial Times Companies (2026-05-02T04:00:16+00:00)
+- [Iran war withers Kenya’s roses and strands its tea](https://www.ft.com/content/3b0438dc-7d8a-4564-9ce6-9d66b735eaae) — Financial Times Companies (2026-05-02T04:00:35+00:00)
 
 ## Global Economy
 
@@ -39,11 +39,10 @@
 - [Electric 3-wheeler sales steady in April; fuel cost worries push shift to L5](https://www.thehindubusinessline.com/economy/electric-3-wheeler-sales-steady-in-april-fuel-cost-worries-push-shift-to-l5/article70931117.ece) — The Hindu BusinessLine (2026-05-02T17:03:26+05:30)
 - [Specialised investment funds see rapid growth, attract beyond top 30 cities](https://www.thehindubusinessline.com/markets/specialised-investment-funds-see-rapid-growth-attract-beyond-top-30-cities/article70931544.ece) — The Hindu BusinessLine (2026-05-02T16:50:50+05:30)
 - [IRCON celebrates golden jubilee, showcases 50-year journey and future roadmap](https://www.thehindubusinessline.com/economy/logistics/ircon-celebrates-golden-jubilee-showcases-50-year-journey-and-future-roadmap/article70931508.ece) — The Hindu BusinessLine (2026-05-02T16:30:51+05:30)
+- [Adam Back again denies he is Satoshi, Bitcoin’s inventor](https://timesofindia.indiatimes.com/business/international-business/adam-back-again-denies-he-is-satoshi-bitcoins-inventor/articleshow/130726502.cms) — Times of India Business (2026-05-03T07:08:23+05:30)
 - [The Parmigiano vault: How Italy’s ‘cheese banks’ power a 4 billion euro industry](https://timesofindia.indiatimes.com/business/international-business/the-parmigiano-vault-how-italys-cheese-banks-power-a-4-billion-euro-industry/articleshow/130715514.cms) — Times of India Business (2026-05-02T17:13:55+05:30)
 - [Oil marketing companies seek LPG, petrol, diesel price hike as Iran war deepens losses](https://timesofindia.indiatimes.com/business/india-business/oil-marketing-companies-seek-lpg-petrol-diesel-price-hike-as-iran-war-deepens-losses/articleshow/130712617.cms) — Times of India Business (2026-05-02T14:04:27+05:30)
 - [RBI DG: Macro factors strong, no pressure on balance of payments](https://timesofindia.indiatimes.com/business/india-business/rbi-dg-macro-factors-strong-no-pressure-on-balance-of-payments/articleshow/130708688.cms) — Times of India Business (2026-05-02T07:44:35+05:30)
-- [NBFCs’ share of incremental bank credit doubles to 14%](https://timesofindia.indiatimes.com/business/india-business/nbfcs-share-of-incremental-bank-credit-doubles-to-14/articleshow/130708665.cms) — Times of India Business (2026-05-02T07:39:59+05:30)
-- [In 4 months, FPI selling in stocks surpasses $20 billion](https://timesofindia.indiatimes.com/business/india-business/in-4-months-fpi-selling-in-stocks-surpasses-20-billion/articleshow/130708641.cms) — Times of India Business (2026-05-02T07:34:52+05:30)
 - [India and Ecuador exploring preferential trade deal to boost economic ties](https://www.hindustantimes.com/india-news/india-and-ecuador-exploring-preferential-trade-deal-to-boost-economic-ties-101777713290520.html) — Hindustan Times India (2026-05-02T14:44:50+05:30)
 - [Commercial LPG price hiked by nearly  ₹1,000 in setback for migrant workers, restaurants](https://www.hindustantimes.com/india-news/commercial-lpg-price-hiked-by-nearly-1-000-in-setback-for-migrant-workers-restaurants-101777705961328.html) — Hindustan Times India (2026-05-02T12:56:53+05:30)
 - [Lights, camera, traction: film-projecting headlights steer China’s EV feature fight](https://www.scmp.com/business/china-business/article/3352100/lights-camera-traction-film-projecting-headlights-steer-chinas-ev-feature-fight?utm_source=rss_feed) — SCMP Asia (2026-05-01T09:00:09+00:00)
@@ -55,12 +54,13 @@
 - [Turning cast-offs into cash: China’s Zhuanzhuan looks to Europe and the US for growth](https://www.scmp.com/business/china-business/article/3351394/turning-cast-offs-cash-chinas-zhuanzhuan-looks-europe-and-us-growth?utm_source=rss_feed) — SCMP Asia (2026-04-27T01:00:32+00:00)
 - [Trump’s Plan B for Tariffs Rests on Shaky Foundations](https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/) — Foreign Policy (2026-05-01T10:00:53+00:00)
 - [Why China Treats ‘Lying Flat’ as a National Security Threat](https://thediplomat.com/2026/05/why-china-treats-lying-flat-as-a-national-security-threat/) — The Diplomat (2026-05-01T21:48:00+09:00)
+- [China’s Economy: By the Numbers](https://thediplomat.com/2026/04/chinas-economy-by-the-numbers/) — The Diplomat (2026-04-30T21:26:00+09:00)
 
 ## Energy
 
 - [Spirit Airlines winds down operations after bailout talks founder](https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1) — Financial Times World (2026-05-02T07:31:06+00:00)
 - [Wall Street traders post triple the gains of European rivals](https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4) — Financial Times World (2026-05-02T04:00:41+00:00)
-- [South Africa now has a power surplus, says Eskom chief](https://www.ft.com/content/79aa1056-1303-4bf8-8968-b444509cd21b) — Financial Times World (2026-05-02T04:00:35+00:00)
+- [South Africa now has a power surplus, says Eskom chief](https://www.ft.com/content/79aa1056-1303-4bf8-8968-b444509cd21b) — Financial Times Companies (2026-05-02T04:00:35+00:00)
 - [Libya reaps oil bonanza from Iran war price surge](https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d) — Financial Times Companies (2026-05-02T04:00:16+00:00)
 - [India launches first barrier-less toll system on NH-48 in Gujarat](https://www.thehindubusinessline.com/economy/logistics/india-launches-first-barrier-less-toll-system-on-nh-48-in-gujarat/article70932870.ece) — The Hindu BusinessLine (2026-05-02T21:50:59+05:30)
 - [Crude Check: Oil futures within range despite rally](https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-range-holds/article70931219.ece) — The Hindu BusinessLine (2026-05-02T20:40:58+05:30)
@@ -74,7 +74,6 @@
 - [Oil marketing companies seek LPG, petrol, diesel price hike as Iran war deepens losses](https://timesofindia.indiatimes.com/business/india-business/oil-marketing-companies-seek-lpg-petrol-diesel-price-hike-as-iran-war-deepens-losses/articleshow/130712617.cms) — Times of India Business (2026-05-02T14:04:27+05:30)
 - [Air India to cut nearly 100 flights till July: CEO Campbell Wilson](https://timesofindia.indiatimes.com/business/india-business/air-india-to-cut-nearly-100-domestic-and-international-flights-amid-rising-atf-prices-and-middle-east-conflict/articleshow/130712308.cms) — Times of India Business (2026-05-02T13:06:25+05:30)
 - [Power usage up 4% in April](https://timesofindia.indiatimes.com/business/india-business/power-usage-up-4-in-april/articleshow/130708782.cms) — Times of India Business (2026-05-02T07:53:58+05:30)
-- [In 4 months, FPI selling in stocks surpasses $20 billion](https://timesofindia.indiatimes.com/business/india-business/in-4-months-fpi-selling-in-stocks-surpasses-20-billion/articleshow/130708641.cms) — Times of India Business (2026-05-02T07:34:52+05:30)
 - [‘Save me…’: Delhi woman recalls last video call to sister who died in Jabalpur boat tragedy](https://www.hindustantimes.com/india-news/save-me-delhi-womans-last-call-before-tragedy-struck-boat-in-jabalpurs-bargi-reservoir-101777718947959.html) — Hindustan Times India (2026-05-02T17:20:03+05:30)
 - [‘Those who misuse state power…’: Pawan Khera reacts to SC relief, cites ‘political vendetta’](https://www.hindustantimes.com/india-news/those-who-misuse-state-power-pawan-khera-reacts-to-sc-relief-cites-political-vendetta-101777707844667.html) — Hindustan Times India (2026-05-02T14:41:04+05:30)
 - [‘We’re not like India’: Pakistan minister admits to no strategic oil reserves, says stocks for only '5-7 days’](https://www.hindustantimes.com/india-news/were-not-like-india-pakistan-admits-no-strategic-oil-reserves-says-stocks-there-can-be-released-with-just-a-signat-101777699271975.html) — Hindustan Times India (2026-05-02T13:39:32+05:30)
@@ -83,3 +82,4 @@
 - [Power, politics and the chair: The hidden stories of seating in India](https://indianexpress.com/article/express-sunday-eye/power-politics-and-the-chair-the-hidden-stories-of-seating-in-india-10667576/) — Indian Express Latest (2026-05-02T21:30:04+00:00)
 - [Western disturbance to bring thunderstorm, hail, gusty winds in Punjab, Haryana on May 4–5](https://indianexpress.com/article/cities/chandigarh/western-disturbance-to-bring-thunderstorm-hail-gusty-winds-in-punjab-haryana-on-may-4-5-10667952/) — Indian Express Latest (2026-05-02T14:53:51+00:00)
 - [Trump tells Congress hostilities in Iran have ‘terminated’. Does War Powers Act still apply?](https://indianexpress.com/article/explained/explained-global/war-powers-act-trump-ceasefire-60-day-rule-10667532/) — Indian Express Latest (2026-05-02T10:18:38+00:00)
+- [GSPC, GSPL merge into Gujarat Gas; entity to be renamed Gujarat Energy Limited](https://indianexpress.com/article/cities/ahmedabad/gspc-gspl-merge-into-gujarat-gas-entity-to-be-renamed-gujarat-energy-limited-10667472/) — Indian Express Latest (2026-05-02T09:32:16+00:00)
