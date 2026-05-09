@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name "AION-Bot"
           git config --global user.email "bot@aionintelligence.net"
-          git add output/market_data.csv reports/*.html state/checkpoints.json
+          git add output/market_data.csv reports/*.html
           git commit -m "Auto-update: Intelligence Dashboard [skip ci]" || exit 0
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
