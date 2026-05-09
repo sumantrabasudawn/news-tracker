@@ -32,7 +32,6 @@
 <p class="p1"><span class="Apple-converted-space">      </span>background: #0f172a;</p>
 <p class="p1"><span class="Apple-converted-space">      </span>overflow: hidden;</p>
 <p class="p1"><span class="Apple-converted-space">      </span>white-space: nowrap;</p>
-<p class="p1"><span class="Apple-converted-space">      </span>position: relative;</p>
 <p class="p1"><span class="Apple-converted-space">      </span>border-bottom: 1px solid #1e293b;</p>
 <p class="p1"><span class="Apple-converted-space">    </span>}</p>
 <p class="p2"><br></p>
@@ -48,13 +47,8 @@
 <p class="p1"><span class="Apple-converted-space">      </span>font-size: 14px;</p>
 <p class="p1"><span class="Apple-converted-space">    </span>}</p>
 <p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>.up {</p>
-<p class="p1"><span class="Apple-converted-space">      </span>color: #22c55e;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>.down {</p>
-<p class="p1"><span class="Apple-converted-space">      </span>color: #ef4444;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>.up { color: #22c55e; }</p>
+<p class="p1"><span class="Apple-converted-space">    </span>.down { color: #ef4444; }</p>
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">    </span>@keyframes scroll {</p>
 <p class="p1"><span class="Apple-converted-space">      </span>0% { transform: translateX(0); }</p>
@@ -81,9 +75,19 @@
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">    </span>/* ---------------- CONTENT ---------------- */</p>
 <p class="p1"><span class="Apple-converted-space">    </span>.content {</p>
-<p class="p1"><span class="Apple-converted-space">      </span>padding: 30px;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>padding: 40px;</p>
 <p class="p1"><span class="Apple-converted-space">      </span>text-align: center;</p>
 <p class="p1"><span class="Apple-converted-space">      </span>color: #cbd5f5;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>.btn {</p>
+<p class="p1"><span class="Apple-converted-space">      </span>margin-top: 20px;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>padding: 10px 18px;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>background: #ff6a00;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>color: white;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>border: none;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>cursor: pointer;</p>
+<p class="p1"><span class="Apple-converted-space">      </span>border-radius: 6px;</p>
 <p class="p1"><span class="Apple-converted-space">    </span>}</p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;/style&gt;</p>
 <p class="p1">&lt;/head&gt;</p>
@@ -103,14 +107,16 @@
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;!-- CONTENT --&gt;</p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;div class="content"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;p&gt;Live intelligence system running.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;p&gt;Loading latest intelligence briefing...&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;button class="btn" onclick="goToLatest()"&gt;Open Latest Report&lt;/button&gt;</p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;/div&gt;</p>
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;!-- 🔥 SCRIPT --&gt;</p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;script&gt;</p>
+<p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">    </span>async function loadTicker() {</p>
 <p class="p1"><span class="Apple-converted-space">      </span>try {</p>
-<p class="p1"><span class="Apple-converted-space">        </span>const res = await fetch("output/market_data.csv");</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const res = await fetch("https://aionintelligence.net/output/market_data.csv");</p>
 <p class="p1"><span class="Apple-converted-space">        </span>const text = await res.text();</p>
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">        </span>const rows = text.split("\n").slice(1);</p>
@@ -121,18 +127,19 @@
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">          </span>const [asset, price, change] = row.split(",");</p>
 <p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">          </span>const changeNum = parseFloat(change);</p>
+<p class="p1"><span class="Apple-converted-space">          </span>// 🔥 FIX: decimal → percentage</p>
+<p class="p1"><span class="Apple-converted-space">          </span>const changeNum = parseFloat(change) * 100;</p>
+<p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">          </span>const direction = changeNum &gt;= 0 ? "up" : "down";</p>
 <p class="p1"><span class="Apple-converted-space">          </span>const arrow = changeNum &gt;= 0 ? "▲" : "▼";</p>
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">          </span>tickerHTML += `</p>
 <p class="p1"><span class="Apple-converted-space">            </span>&lt;span class="${direction}"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">              </span>${asset} ${arrow} ${changeNum.toFixed(2)}%</p>
+<p class="p1"><span class="Apple-converted-space">              </span>${asset} ${parseFloat(price).toFixed(2)} ${arrow} ${changeNum.toFixed(2)}%</p>
 <p class="p1"><span class="Apple-converted-space">            </span>&lt;/span&gt;</p>
 <p class="p1"><span class="Apple-converted-space">          </span>`;</p>
 <p class="p1"><span class="Apple-converted-space">        </span>});</p>
 <p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>// Duplicate content for smooth infinite scroll</p>
 <p class="p1"><span class="Apple-converted-space">        </span>document.getElementById("ticker-track").innerHTML = tickerHTML + tickerHTML;</p>
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">      </span>} catch (err) {</p>
@@ -142,6 +149,19 @@
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">    </span>loadTicker();</p>
 <p class="p1"><span class="Apple-converted-space">    </span>setInterval(loadTicker, 60000);</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>// 🔴 UPDATE THIS DAILY (or automate later)</p>
+<p class="p1"><span class="Apple-converted-space">    </span>const latestReport = "/reports/morning_intelligence_dashboard_26_april_2026.html";</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>function goToLatest() {</p>
+<p class="p1"><span class="Apple-converted-space">      </span>window.location.href = latestReport;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>// Auto redirect after 2 sec</p>
+<p class="p1"><span class="Apple-converted-space">    </span>setTimeout(() =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">      </span>window.location.href = latestReport;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>}, 2000);</p>
+<p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">  </span>&lt;/script&gt;</p>
 <p class="p2"><br></p>
 <p class="p1">&lt;/body&gt;</p>
