@@ -1,0 +1,36 @@
+name: AION Auto-Update
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run AION Pipeline
+        run: python src/main.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "AION-Bot"
+          git config --global user.email "bot@aionintelligence.net"
+          git add output/market_data.csv reports/*.html state/checkpoints.json
+          git commit -m "Auto-update: Intelligence Dashboard [skip ci]" || exit 0
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
