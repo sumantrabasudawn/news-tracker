@@ -1,202 +1,277 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2685.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-  </style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AION Intelligence</title>
+
+    <style>
+
+        body {
+            margin: 0;
+            background: #020617;
+            color: white;
+            font-family: "Segoe UI", Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        /* =========================
+           MARKET TICKER
+        ========================== */
+
+        .ticker {
+            width: 100%;
+            height: 42px;
+            background: #0f172a;
+            border-bottom: 1px solid #1e293b;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        .ticker-track {
+            display: inline-block;
+            padding-left: 100%;
+            animation: tickerScroll 35s linear infinite;
+        }
+
+        .ticker span {
+            display: inline-block;
+            margin-right: 60px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .up {
+            color: #22c55e;
+        }
+
+        .down {
+            color: #ef4444;
+        }
+
+        @keyframes tickerScroll {
+            0% {
+                transform: translateX(0%);
+            }
+
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+
+        /* =========================
+           HEADER
+        ========================== */
+
+        .hero {
+
+            text-align: center;
+            padding-top: 120px;
+            padding-bottom: 100px;
+
+        }
+
+        .logo {
+
+            font-size: 60px;
+            font-weight: 800;
+            letter-spacing: 4px;
+            color: #ff6a00;
+
+        }
+
+        .subtitle {
+
+            margin-top: 18px;
+            font-size: 20px;
+            color: #94a3b8;
+
+        }
+
+        .description {
+
+            margin-top: 28px;
+            color: #cbd5e1;
+            font-size: 17px;
+            line-height: 1.7;
+            max-width: 850px;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+
+        /* =========================
+           BUTTONS
+        ========================== */
+
+        .buttons {
+
+            margin-top: 50px;
+
+        }
+
+        .btn {
+
+            padding: 16px 34px;
+            margin: 10px;
+            border: none;
+            border-radius: 8px;
+            background: #ff6a00;
+            color: white;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+
+        }
+
+        .btn:hover {
+
+            background: #e65c00;
+            transform: translateY(-2px);
+
+        }
+
+        .btn-secondary {
+
+            background: #1e293b;
+
+        }
+
+        .btn-secondary:hover {
+
+            background: #334155;
+
+        }
+
+        /* =========================
+           FOOTER
+        ========================== */
+
+        .footer {
+
+            text-align: center;
+            color: #64748b;
+            font-size: 13px;
+            padding-bottom: 40px;
+
+        }
+
+    </style>
+
 </head>
+
 <body>
-<p class="p1">&lt;!DOCTYPE html&gt;</p>
-<p class="p1">&lt;html lang="en"&gt;</p>
-<p class="p1">&lt;head&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta charset="UTF-8"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;title&gt;AION Intelligence&lt;/title&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;style&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>body {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>margin: 0;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>background: #020617;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>color: white;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>overflow-x: hidden;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>/* ---------------- TICKER ---------------- */</p>
-<p class="p1"><span class="Apple-converted-space">        </span>.ticker {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>width: 100%;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>background: #0f172a;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>overflow: hidden;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>white-space: nowrap;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border-bottom: 1px solid #1e293b;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>height: 40px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>display: flex;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>align-items: center;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.ticker-track {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>display: inline-block;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>white-space: nowrap;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>will-change: transform;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>animation: scroll 30s linear infinite;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.ticker span {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>display: inline-block;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>margin-right: 50px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-size: 14px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 500;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.up { color: #22c55e; }</p>
-<p class="p1"><span class="Apple-converted-space">        </span>.down { color: #ef4444; }</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>@keyframes scroll {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>0% { transform: translateX(0); }</p>
-<p class="p1"><span class="Apple-converted-space">            </span>100% { transform: translateX(-50%); }</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>/* ---------------- HEADER ---------------- */</p>
-<p class="p1"><span class="Apple-converted-space">        </span>.header {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>padding: 40px 20px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>text-align: center;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border-bottom: 1px solid #1e293b;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>background: linear-gradient(to bottom, #020617, #0f172a);</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.title {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-size: 32px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-weight: 800;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>letter-spacing: 2px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>color: #ff6a00;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>text-transform: uppercase;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.subtitle {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-size: 14px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>color: #94a3b8;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>margin-top: 8px;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>/* ---------------- CONTENT ---------------- */</p>
-<p class="p1"><span class="Apple-converted-space">        </span>.content {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>padding: 60px 20px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>text-align: center;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>color: #cbd5f1;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.loader {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border: 3px solid #1e293b;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 50%;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border-top: 3px solid #ff6a00;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>width: 30px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>height: 30px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>animation: spin 1s linear infinite;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>margin: 20px auto;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>@keyframes spin {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>0% { transform: rotate(0deg); }</p>
-<p class="p1"><span class="Apple-converted-space">            </span>100% { transform: rotate(360deg); }</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.btn {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>margin-top: 30px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>padding: 12px 24px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>background: #ff6a00;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>color: white;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border: none;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>cursor: pointer;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>border-radius: 4px;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>font-weight: bold;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>transition: background 0.3s;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>.btn:hover {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>background: #e55a00;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/style&gt;</p>
-<p class="p1">&lt;/head&gt;</p>
-<p class="p1">&lt;body&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;div class="ticker"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;div id="ticker-track" class="ticker-track"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">            </span>&lt;span&gt;Loading Market Intelligence...&lt;/span&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;div class="header"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="title"&gt;AION INTELLIGENCE&lt;/div&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="subtitle"&gt;Institutional-Grade Market Insights [cite: 4]&lt;/div&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;div class="content"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="loader"&gt;&lt;/div&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;p id="status-msg"&gt;Synchronizing latest intelligence briefing...&lt;/p&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>&lt;button class="btn" onclick="goToLatest()"&gt;Access Dashboard&lt;/button&gt;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;script&gt;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>// 1. TICKER ENGINE: Fetches market data [cite: 48, 49]</p>
-<p class="p1"><span class="Apple-converted-space">        </span>async function loadTicker() {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>try {</p>
-<p class="p1"><span class="Apple-converted-space">                </span>// Cache-busting added to ensure real-time updates</p>
-<p class="p1"><span class="Apple-converted-space">                </span>const res = await fetch(`output/market_data.csv?t=${Date.now()}`);</p>
-<p class="p1"><span class="Apple-converted-space">                </span>if (!res.ok) throw new Error('Network response was not ok');</p>
-<p class="p2"><span class="Apple-converted-space">                </span></p>
-<p class="p1"><span class="Apple-converted-space">                </span>const text = await res.text();</p>
-<p class="p1"><span class="Apple-converted-space">                </span>const rows = text.trim().split("\n").slice(1);</p>
-<p class="p1"><span class="Apple-converted-space">                </span>let tickerHTML = "";</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">                </span>rows.forEach(row =&gt; {</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>if (!row) return;</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>const [asset, price, change] = row.split(",");</p>
-<p class="p2"><span class="Apple-converted-space">                    </span></p>
-<p class="p1"><span class="Apple-converted-space">                    </span>const changeNum = parseFloat(change) * 100;</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>const direction = changeNum &gt;= 0 ? "up" : "down";</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>const arrow = changeNum &gt;= 0 ? "▲" : "▼";</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">                    </span>tickerHTML += `</p>
-<p class="p1"><span class="Apple-converted-space">                        </span>&lt;span class="${direction}"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">                            </span>${asset} ${parseFloat(price).toLocaleString(undefined, {minimumFractionDigits: 2})}<span class="Apple-converted-space"> </span></p>
-<p class="p1"><span class="Apple-converted-space">                            </span>${arrow} ${Math.abs(changeNum).toFixed(2)}%</p>
-<p class="p1"><span class="Apple-converted-space">                        </span>&lt;/span&gt;</p>
-<p class="p1"><span class="Apple-converted-space">                    </span>`;</p>
-<p class="p1"><span class="Apple-converted-space">                </span>});</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">                </span>// Double the content for a seamless infinite loop</p>
-<p class="p1"><span class="Apple-converted-space">                </span>document.getElementById("ticker-track").innerHTML = tickerHTML + tickerHTML;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">            </span>} catch (err) {</p>
-<p class="p1"><span class="Apple-converted-space">                </span>console.error("Ticker error:", err);</p>
-<p class="p1"><span class="Apple-converted-space">                </span>document.getElementById("ticker-track").innerHTML = "&lt;span&gt;Market Data Temporarily Unavailable&lt;/span&gt;";</p>
-<p class="p1"><span class="Apple-converted-space">            </span>}</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>// 2. ROUTING ENGINE: Redirects to latest report [cite: 53]</p>
-<p class="p1"><span class="Apple-converted-space">        </span>// Currently hardcoded to April 26 as per system state [cite: 35]</p>
-<p class="p1"><span class="Apple-converted-space">        </span>const latestReport = "reports/morning_intelligence_dashboard_26_april_2026.html";</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>function goToLatest() {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>window.location.href = latestReport;</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>// Initialize System</p>
-<p class="p1"><span class="Apple-converted-space">        </span>loadTicker();</p>
-<p class="p1"><span class="Apple-converted-space">        </span>setInterval(loadTicker, 60000); // Auto-refresh every 60s</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">        </span>// Auto-redirect after 3 seconds</p>
-<p class="p1"><span class="Apple-converted-space">        </span>setTimeout(() =&gt; {</p>
-<p class="p1"><span class="Apple-converted-space">            </span>document.getElementById("status-msg").innerText = "Redirecting to Intelligence Dashboard...";</p>
-<p class="p1"><span class="Apple-converted-space">            </span>goToLatest();</p>
-<p class="p1"><span class="Apple-converted-space">        </span>}, 3000);</p>
-<p class="p1"><span class="Apple-converted-space">    </span>&lt;/script&gt;</p>
-<p class="p1">&lt;/body&gt;</p>
-<p class="p1">&lt;/html&gt;</p>
+
+    <!-- =========================
+         MARKET TICKER
+    ========================== -->
+
+    <div class="ticker">
+
+        <div class="ticker-track">
+
+            <span class="up">NIFTY 50 ▲ 1.24%</span>
+
+            <span class="up">SENSEX ▲ 1.11%</span>
+
+            <span class="up">NASDAQ ▲ 0.82%</span>
+
+            <span class="up">S&P 500 ▲ 0.56%</span>
+
+            <span class="down">BRENT ▼ 0.44%</span>
+
+            <span class="up">GOLD ▲ 0.61%</span>
+
+            <span class="down">DOLLAR INDEX ▼ 0.09%</span>
+
+            <span class="up">INDIA VIX ▲ 0.72%</span>
+
+            <span class="up">USD/INR ▲ 0.12%</span>
+
+        </div>
+
+    </div>
+
+    <!-- =========================
+         HERO SECTION
+    ========================== -->
+
+    <div class="hero">
+
+        <div class="logo">
+            AION INTELLIGENCE
+        </div>
+
+        <div class="subtitle">
+            Pulse Briefing and Analyses
+        </div>
+
+        <div class="description">
+
+            Institutional-grade intelligence architecture integrating
+            markets, geopolitics, energy systems, macroeconomics,
+            technology shifts, and strategic signal analysis.
+
+            <br><br>
+
+            Built as an evolving intelligence operating system for
+            decision-makers, investors, policy observers, and
+            strategic communications leadership.
+
+        </div>
+
+        <div class="buttons">
+
+            <button class="btn" onclick="openDashboard()">
+                Open AION Command
+            </button>
+
+            <button class="btn btn-secondary" onclick="openArchive()">
+                Intelligence Archive
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <div class="footer">
+
+        AION Intelligence • Strategic Signal Infrastructure
+
+    </div>
+
+    <!-- =========================
+         JAVASCRIPT
+    ========================== -->
+
+    <script>
+
+        function openDashboard() {
+
+            window.location.href =
+                "reports/morning_intelligence_dashboard_26_april_2026.html";
+
+        }
+
+        function openArchive() {
+
+            window.location.href =
+                "reports/";
+
+        }
+
+    </script>
+
 </body>
+
 </html>
