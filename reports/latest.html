@@ -1,542 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AION Command</title>
+  <link rel="icon" type="image/png" href="../AION%20Logo.png">
+  <style>
+    body {
+      margin: 0;
+      background: #020617;
+      color: #f8fafc;
+      font-family: "Segoe UI", Arial, sans-serif;
+    }
+    .ticker {
+      width: 100%;
+      height: 42px;
+      background: #0f172a;
+      border-bottom: 1px solid #1e293b;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
+    }
+    .ticker-track {
+      display: inline-block;
+      padding-left: 100%;
+      animation: tickerScroll 38s linear infinite;
+    }
+    .ticker span {
+      display: inline-block;
+      margin-right: 60px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+    .up { color: #22c55e; }
+    .down { color: #ef4444; }
+    @keyframes tickerScroll {
+      0% { transform: translateX(0%); }
+      100% { transform: translateX(-100%); }
+    }
+    .wrap {
+      max-width: 1100px;
+      margin: auto;
+      padding: 70px 28px;
+    }
+    .topline {
+      color: #ff6a00;
+      font-size: 14px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+    }
+    h1 {
+      font-size: 48px;
+      margin: 0;
+      letter-spacing: 1px;
+    }
+    .date {
+      color: #94a3b8;
+      margin-top: 14px;
+      font-size: 16px;
+    }
+    .card {
+      margin-top: 45px;
+      background: rgba(15, 23, 42, 0.65);
+      border: 1px solid #1e293b;
+      border-radius: 14px;
+      padding: 30px;
+    }
+    h2 {
+      color: #ff6a00;
+      margin-top: 0;
+    }
+    p {
+      color: #cbd5e1;
+      line-height: 1.8;
+      font-size: 17px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 22px;
+      margin-top: 28px;
+    }
+    .mini {
+      background: #0f172a;
+      border: 1px solid #1e293b;
+      border-radius: 12px;
+      padding: 22px;
+    }
+    .mini h3 {
+      margin-top: 0;
+      color: #f8fafc;
+    }
+    .mini p {
+      font-size: 15px;
+      color: #94a3b8;
+    }
+    a {
+      color: #ff6a00;
+      text-decoration: none;
+    }
+  </style>
+</head>
 
-    <html>
+<body>
 
-    <head>
+  <div class="ticker">
+    <div id="ticker-track" class="ticker-track">
+      <span>Loading Market Intelligence...</span>
+    </div>
+  </div>
 
-        <title>AION Intelligence</title>
+  <div class="wrap">
+    <div class="topline">AION Command</div>
+    <h1>Morning Intelligence Brief</h1>
+    <div class="date">Latest Command Page • Live Market Layer Connected</div>
 
-        <style>
+    <div class="card">
+      <h2>Executive View</h2>
+      <p>
+        AION Command is now being transitioned from a dated static report into a live strategic intelligence interface. 
+        The market ticker is connected to the current data layer, while the next step is to connect the daily news pipeline 
+        and automated briefing engine into this Command surface.
+      </p>
+      <p>
+        This page is now the stable destination for the homepage button. Every future briefing should overwrite this file:
+        <strong>reports/latest.html</strong>.
+      </p>
+    </div>
 
-        body {
+    <div class="grid">
+      <div class="mini">
+        <h3>Markets</h3>
+        <p>Live ticker layer connected through output/market_data.csv.</p>
+      </div>
 
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f6f1e9;
-            color: #222;
-            max-width: 1200px;
-            margin: auto;
-            padding: 40px;
-            line-height: 1.8;
+      <div class="mini">
+        <h3>Strategic Signals</h3>
+        <p>Designed to integrate news flow, geopolitics, sector shifts, policy signals, and reputation events.</p>
+      </div>
+
+      <div class="mini">
+        <h3>Next Build</h3>
+        <p>Connect fresh daily reports, charts, archive indexing, and Claude/GPT orchestration.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>System Note</h2>
+      <p>
+        This placeholder replaces the old 26 April report. The architecture is now correct: 
+        homepage → reports/latest.html. The next build step is to make the AION pipeline generate this page automatically.
+      </p>
+      <p><a href="../index.html">← Back to AION Intelligence</a></p>
+    </div>
+  </div>
+
+  <script>
+    async function loadTicker() {
+      try {
+        const res = await fetch("../output/market_data.csv?t=" + Date.now());
+
+        if (!res.ok) {
+          throw new Error("Market data file not found");
         }
 
-        h1 {
+        const text = await res.text();
+        const rows = text.trim().split("\n").slice(1);
 
-            color: #ff6a00;
-            font-size: 46px;
-            border-bottom: 2px solid #ddd;
-            padding-bottom: 15px;
-        }
+        let tickerHTML = "";
 
-        h2 {
+        rows.forEach(row => {
+          const [asset, price, change] = row.split(",");
+          if (!asset || !price || !change) return;
 
-            color: #2b2b2b;
-            margin-top: 60px;
-        }
+          const changeNum = parseFloat(change) * 100;
+          const direction = changeNum >= 0 ? "up" : "down";
+          const arrow = changeNum >= 0 ? "▲" : "▼";
 
-        h3 {
-            margin-top: 30px;
-        }
+          tickerHTML += `
+            <span class="${direction}">
+              ${asset} ${parseFloat(price).toLocaleString(undefined, { maximumFractionDigits: 2 })}
+              ${arrow} ${Math.abs(changeNum).toFixed(2)}%
+            </span>
+          `;
+        });
 
-        table {
+        document.getElementById("ticker-track").innerHTML =
+          tickerHTML || "<span>Market Data Temporarily Unavailable</span>";
 
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-        }
+      } catch (error) {
+        document.getElementById("ticker-track").innerHTML =
+          "<span>Market Data Temporarily Unavailable</span>";
+      }
+    }
 
-        th, td {
+    loadTicker();
+  </script>
 
-            border: 1px solid #ccc;
-            padding: 12px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #eee;
-        }
-
-        a {
-
-            color: #ff6a00;
-            text-decoration: none;
-        }
-
-        blockquote {
-
-            border-left: 4px solid #ff6a00;
-            padding-left: 15px;
-            color: #666;
-        }
-
-        code {
-
-            background: #efefef;
-            padding: 2px 5px;
-        }
-
-        </style>
-
-    </head>
-
-    <body>
-
-        <h1>AION INTELLIGENCE</h1>
-
-        <h1>AION Intelligence Briefing</h1>
-<p>Date: 2026-05-24</p>
-<hr />
-<h2>1. Executive Intelligence Summary</h2>
-<p>Global instability surrounding the Iran conflict and Strait of Hormuz blockade stands as the dominant signal today, reverberating across energy markets, geopolitical alliances, and trade flows. The tentative advance towards a US-Iran ceasefire and reopening of the Hormuz chokepoint signals a potential easing of the sharp supply shocks that have driven up crude and LNG prices. However, the deal’s fragility and ongoing military tensions underscore persistent risks to global energy security, with implications for inflationary pressures worldwide, including India.</p>
-<p>Energy security concerns remain paramount for India, demonstrated by the first LNG tanker transiting Hormuz since the war began and dialogue between Prime Minister Modi and US Secretary of State Rubio on this crisis. India’s import dependence combined with rising global oil prices—subject to sustained volatility from geopolitical conflict—makes fuel price inflation inevitable in the near term, constraining domestic consumption and increasing input costs for industry.</p>
-<p>In financial markets, the spotlight is on the emboldened AI boom with IPOs from SpaceX, OpenAI, and Anthropic poised to test capital allocation amid exuberance. This tech race, accompanied by record M&amp;A volumes fueled by AI overhang, highlights structural transformation but also bubbles of overvaluation, raising questions around sustainability and investor discipline. Bond market jitters signal increasing concern over inflation persistence and the limits of central bank tightening, notably in the US, where Fed policy faces conflicting signals.</p>
-<p>In the UK, political uncertainty impedes progress on deeper EU cooperation, while incumbents in the mobile sector suffer losses as virtual competitors win market share—reflecting disruptive pressures across incumbent industries. Globally, strategic competitions are intensifying in maritime chokepoints beyond Hormuz, with Britain preparing to clear mines—a move indicating global powers prioritizing control over critical logistics corridors.</p>
-<p>India’s macroeconomic indicators reveal resilience but with inflationary and capital market headwinds. Corporate actions signal strategic sectoral consolidation and growth, such as Anupam Rasayan’s pharma acquisition and NTPC’s profit growth despite income pressure. The Telangana life sciences policy and expanding cybersecurity revenues point to innovation-driven growth trajectories, aligned with digital and healthcare sector priorities.</p>
-<p>Finally, public health risks mount with WHO’s declaration of Ebola as a global emergency, raising travel advisories for India and potential disruptions. Meanwhile, extreme weather and heatwaves exacerbate health system pressures domestically and may impact agricultural productivity, thereby influencing inflation and supply chains.</p>
-<hr />
-<h2>2. News Flow Quantitative Snapshot</h2>
-<ul>
-<li><strong>Total stories analysed:</strong> 50+</li>
-<li><strong>Dominant sectors/themes:</strong>  </li>
-<li>Energy &amp; Geopolitics (Iran war, Strait of Hormuz, LNG supplies) ~15  </li>
-<li>Capital Markets &amp; Tech IPOs (AI, SpaceX, M&amp;A activity) ~7  </li>
-<li>Political instability &amp; security (US, UK leadership, Middle East tensions) ~8  </li>
-<li>Indian economy &amp; corporate developments (fuel pricing, acquisitions, policy) ~10  </li>
-<li>Public health &amp; environment (Ebola, heatwaves) ~5  </li>
-<li><strong>Most repeated risks:</strong> Energy supply disruption, geopolitical instability, inflation pressures, market valuations/bubbles, public health emergencies</li>
-<li><strong>Source concentration:</strong> Financial Times (global majority), The Hindu BusinessLine (India-specific)</li>
-<li><strong>India relevance:</strong> High – direct energy security impacts, policy dialogues, corporate actions, inflation, public health advisories  </li>
-<li><strong>Global macro relevance:</strong> Strong – energy shocks, inflation outlook, geopolitical security, AI-technology capital dynamics</li>
-</ul>
-<hr />
-<h2>3. Top 10 Strategic Signals</h2>
-<table>
-<thead>
-<tr>
-<th>Rank</th>
-<th>Signal</th>
-<th>Why It Matters</th>
-<th>Second-Order Implications</th>
-<th>Stakeholders Impacted</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>US-Iran draft ceasefire and Strait of Hormuz reopening proposal</td>
-<td>Potential to lift key geopolitical risk premium from energy markets, stabilizing supply</td>
-<td>Reduced volatility in oil prices; increased energy trade flows; shifting alliances in Middle East</td>
-<td>Global energy markets, Indian energy security, geopolitical strategists</td>
-</tr>
-<tr>
-<td>2</td>
-<td>LNG tanker passage through Hormuz to India for first time since conflict began</td>
-<td>Demonstrates tentative normalization of critical supply lines supporting India’s gas needs</td>
-<td>Potential easing of domestic energy constraints and import cost inflation; renewed investment confidence</td>
-<td>Indian energy firms, industrial consumers, policy makers</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Global crude oil price surge forcing US producers to boost output</td>
-<td>US supply response will cap runaway prices but infrastructure and time lag exist</td>
-<td>Ongoing inflationary pressures, energy market tightness, potential policy scrutiny of oil producers</td>
-<td>Energy producers, consumers globally, financial markets</td>
-</tr>
-<tr>
-<td>4</td>
-<td>AI mega-IPO wave (SpaceX, OpenAI, Anthropic) challenges capital markets</td>
-<td>Valuation extremes risk bubble dynamics with tech transformation at stake</td>
-<td>Potential re-rating of AI sector; volatility impacting broader capital markets; reshaped investment landscape</td>
-<td>Global investors, tech corporates, regulators</td>
-</tr>
-<tr>
-<td>5</td>
-<td>UK Labour leadership crisis stalling EU trade and defence cooperation</td>
-<td>Political uncertainty impairs strategic and economic recalibration post-Brexit</td>
-<td>Lowered confidence in UK-EU relations; potential delay in regional security frameworks</td>
-<td>UK businesses, EU policy makers, defence sector</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Retail fuel price hikes in India linked to sustained global oil price volatility</td>
-<td>Rising input and transportation costs add to inflationary pressures</td>
-<td>Pressure on consumer spending, monetary policy balancing act, possible social discontent</td>
-<td>Indian consumers, policy makers, oil marketing companies</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Britain prepares to clear mines in Strait of Hormuz</td>
-<td>Indicates potential protracted military/logistical tension with possibility of naval escalation</td>
-<td>Heightened risk premium on maritime security; increased insurance and shipping costs</td>
-<td>Global shipping, energy traders, naval strategy planners</td>
-</tr>
-<tr>
-<td>8</td>
-<td>WHO declares Ebola outbreak as public health emergency</td>
-<td>Increased risk of cross-border spread; travel and trade disruptions possible</td>
-<td>Raised health system vigilance globally, including India; potential economic shocks in affected regions</td>
-<td>Public health bodies, travellers, business continuity planners</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Surat-based Anupam Rasayan’s ₹1360 crore pharma acquisition</td>
-<td>Illustrates consolidation and expansion in Indian life sciences sector</td>
-<td>Strengthened domestic pharma capacity; enhanced export competitiveness; R&amp;D focus</td>
-<td>Indian pharma industry, investors, policy bodies</td>
-</tr>
-<tr>
-<td>10</td>
-<td>NTPC Q4 profit jump despite revenue slip</td>
-<td>Energy sector operating margins improving amid volatility signal operational resilience</td>
-<td>Improved investor sentiment for power utilities; balanced energy mix and tariff impacts</td>
-<td>Indian energy sector, investors, regulators</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2>4. Energy, Infrastructure and Markets Analysis</h2>
-<p>The Iran-led disruption of the Strait of Hormuz, a choke point for approximately 20% of global crude and LNG shipments, has heightened systemic vulnerabilities in energy supply chains. The current draft ceasefire extending peace and reopening Hormuz is a critical pivot that could reverse the energy squeeze. The first LNG tanker to India via Hormuz since onset of conflict is a tangible marker of easing but remains highly contingent on the fragile diplomatic process.</p>
-<p>US oil producers’ ramped output aims to capitalize on near-term price surges caused by the Iranian war, potentially capping price spikes and dampening inflation momentum but risking longer-term supply-demand mismatches and infrastructure strain. For India, dependence on oil imports (~85%) means imported inflation feeds through to fuel prices as validated by BPCL’s warnings on inevitable retail price hikes, which risk delivering persistent cost-push inflation.</p>
-<p>Britain’s curtailment of electricity trading across European grids due to strain points to transmission and grid integration challenges amid increased volatility and demand spikes in power markets. Reliance on gas-fired plants to balance grids could increase carbon footprint challenges, complicating energy transition objectives. India’s power sector growth remains challenged but profitable pockets (e.g., NTPC) reflect an ability to withstand market pressure via operational efficiencies.</p>
-<p>In capital markets, the intersection of soaring AI company valuations and record M&amp;A activity signals a ‘frothy’ environment. IPOs of tech giants like SpaceX and AI firms test limits of speculative capital, potentially exposing systemic risks if valuations decouple from fundamentals. Inflation fears and bond market volatility compound uncertainties for liquidity and risk pricing.</p>
-<hr />
-<h2>5. India Implications</h2>
-<p>India’s energy security sits at a volatile crossroads. The reopening of the Strait of Hormuz offers hope of easing LNG and crude oil supply disruptions critical for India’s industrial and transport sectors but is precariously dependent on continuing geopolitical negotiations. Rising global oil prices translate quickly into domestic fuel cost inflation, straining households and input costs for manufacturing and transportation, potentially undermining growth momentum and complicating inflation targeting for the RBI.</p>
-<p>The Modi-Rubio dialogue underscores the strategic imperative for India to diversify its energy portfolio, accelerating investments in renewables, storage, and diplomatic engagement to hedge against supply shocks. The Telangana life sciences policy signals governmental commitment to technological and R&amp;D-driven sectors that could anchor export-led growth and innovation, important for post-pandemic economic rebalancing.</p>
-<p>Capital markets are underpinned by resilience stories such as NTPC and cybersecurity firm TechD gaining marked profitability, suggesting pockets of growth despite macro headwinds. The rise in IPOs and consolidation in consumer and pharma sectors reflect ongoing structural shifts prompting upgraded corporate strategies and capital allocation decisions.</p>
-<p>Public health alerts following WHO’s Ebola emergency designation necessitate vigilant border health controls and public communication plans to avoid trade and labour disruptions. Climate-driven extreme heat impacting parts of India also raises urgency around adaptive infrastructure investments and public health preparedness.</p>
-<hr />
-<h2>6. Risk Register</h2>
-<table>
-<thead>
-<tr>
-<th>Risk</th>
-<th>Probability</th>
-<th>Impact</th>
-<th>Why It Matters</th>
-<th>Watch Indicator</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Renewed Iran-Hormuz conflict</td>
-<td>Medium-High</td>
-<td>Very High</td>
-<td>Disrupts 20% global oil/LNG flows; spikes inflation, global trade disruption</td>
-<td>Military incidents in Gulf, ceasefire talks status</td>
-</tr>
-<tr>
-<td>Sustained high global oil prices</td>
-<td>High</td>
-<td>High</td>
-<td>Fuels inflation, pressures India’s fuel subsidy and consumption</td>
-<td>Crude futures, OPEC and US output data</td>
-</tr>
-<tr>
-<td>AI bubble burst post-IPO wave</td>
-<td>Medium</td>
-<td>Medium-High</td>
-<td>Investor losses, tech sector valuations recalibration</td>
-<td>IPO pricing vs. aftermarket performance</td>
-</tr>
-<tr>
-<td>Domestic inflation surge from energy</td>
-<td>High</td>
-<td>Medium-High</td>
-<td>Erodes consumer spending, tightens monetary policy</td>
-<td>CPI inflation trends, fuel price hikes</td>
-</tr>
-<tr>
-<td>Power grid strain amid energy transition</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>Could cause blackouts, increase reliance on fossil fuels</td>
-<td>Grid stability reports, electricity market prices</td>
-</tr>
-<tr>
-<td>Public health emergencies (Ebola)</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>Disrupts travel, labour, and trade with economic fallout</td>
-<td>WHO alerts, case numbers near India borders</td>
-</tr>
-<tr>
-<td>Political instability in UK/EU</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>Impedes trade negotiations, defence cooperation</td>
-<td>UK party leadership developments</td>
-</tr>
-<tr>
-<td>Bond market volatility and tightening</td>
-<td>High</td>
-<td>Medium</td>
-<td>Increases cost of capital, pressures financial stability</td>
-<td>Bond yields, Fed policy announcements</td>
-</tr>
-<tr>
-<td>Geopolitical escalation in Middle East/Mali</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>Instability spreads, affects energy and security</td>
-<td>Local conflict news, terrorist activity reports</td>
-</tr>
-<tr>
-<td>Domestic corporate insolvencies amid inflation</td>
-<td>Medium</td>
-<td>Medium</td>
-<td>Supply chain shocks, employment impacts</td>
-<td>Corporate earnings warnings, credit spreads</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2>7. Opportunity Register</h2>
-<table>
-<thead>
-<tr>
-<th>Opportunity</th>
-<th>Sector</th>
-<th>Time Horizon</th>
-<th>Why It Matters</th>
-<th>Potential Beneficiaries</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Renewed LNG supply normalization</td>
-<td>Energy</td>
-<td>6-12 months</td>
-<td>Reduces energy cost uncertainty, secures imports</td>
-<td>Indian importers, gas distribution companies</td>
-</tr>
-<tr>
-<td>Tech IPO boom monetization</td>
-<td>Capital Markets</td>
-<td>3-6 months</td>
-<td>Enables capital raise, sector innovation funding</td>
-<td>Investors, AI/tech firms, venture funds</td>
-</tr>
-<tr>
-<td>Life sciences R&amp;D in Telangana</td>
-<td>Pharma/Biotech</td>
-<td>2-5 years</td>
-<td>Fosters innovation, exports, employment growth</td>
-<td>Pharma companies, startups, R&amp;D centers</td>
-</tr>
-<tr>
-<td>Energy transition investments in grids</td>
-<td>Power/Infrastructure</td>
-<td>3-7 years</td>
-<td>Improves stability, reduces carbon footprint</td>
-<td>Utilities, transmission firms, technology providers</td>
-</tr>
-<tr>
-<td>Corporate consolidation in pharma</td>
-<td>Pharma</td>
-<td>1-3 years</td>
-<td>Creates scale advantages, market share growth</td>
-<td>Acquirers like Anupam Rasayan</td>
-</tr>
-<tr>
-<td>Public health infrastructure build-out</td>
-<td>Health</td>
-<td>1-3 years</td>
-<td>Strengthens pandemic resilience</td>
-<td>Hospitals, medical device firms, insurers</td>
-</tr>
-<tr>
-<td>Selective equity investments in PSU utilities</td>
-<td>Energy/Finance</td>
-<td>1-2 years</td>
-<td>Potential stable returns amid volatility</td>
-<td>Institutional investors</td>
-</tr>
-<tr>
-<td>Alternative fuel and EV second-hand market</td>
-<td>Auto/Finance</td>
-<td>1-3 years</td>
-<td>Addresses residual value gap, expands market</td>
-<td>Automakers, financial institutions</td>
-</tr>
-<tr>
-<td>Cross-border trade in West Asia</td>
-<td>Trade/Logistics</td>
-<td>1-2 years</td>
-<td>Enhances regional collaboration benefits</td>
-<td>Exporters, logistics firms</td>
-</tr>
-<tr>
-<td>Digital security and cybersecurity growth</td>
-<td>IT/Services</td>
-<td>2-4 years</td>
-<td>Meets rising demand from digitization</td>
-<td>Cybersecurity firms, IT service providers</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h2>8. Watch Points for the Next 24-72 Hours</h2>
-<ul>
-<li>Confirmed details on US-Iran ceasefire and Strait of Hormuz reopening deal outcome and timeline  </li>
-<li>Updates on military incidents or escalations in Gulf region and UK Mine clearance operations  </li>
-<li>US Fed statements and bond market reactions amid inflation concerns  </li>
-<li>Progress of SpaceX, OpenAI, Anthropic IPO filings and investor sentiment shifts  </li>
-<li>India’s domestic fuel pricing trajectory following global oil price movements  </li>
-<li>WHO announcements regarding Ebola outbreak evolution and travel advisories impact  </li>
-<li>Telangana life sciences policy implementation announcements and investment inflows  </li>
-<li>UK Labour Party leadership developments affecting Brexit-related cooperation talks  </li>
-</ul>
-<hr />
-<h2>9. AION Judgement</h2>
-<p>Today’s news flow crystallizes a confluence of geopolitical tension, inflationary pressures, and transformative technological shifts that will dominate strategic decision-making over the near and medium term. The tentative US-Iran ceasefire and reopening of the Strait of Hormuz emerge as a pivotal turning point. Success here could alleviate severe energy supply shocks, lowering crude and LNG prices and mitigating inflation worldwide. However, the deal remains fragile and contingent on complex proxy dynamics and military posturing, making energy markets and global trade flows inherently volatile in the coming months.</p>
-<p>For India, this fluidity in energy security necessitates dynamic risk management including accelerated diversification and investment in renewables alongside active diplomatic engagement. Domestic inflationary pressures related to fuel costs are poised to persist, demanding calibrated monetary and fiscal policies to sustain growth momentum without fueling overheating.</p>
-<p>Concurrently, the surge in AI-related IPOs and M&amp;A activity signals both opportunity and systemic risk in capital markets. While AI-driven productivity gains and innovation are undeniable, the disconnect between hype-driven valuations and fundamentals advises institutional investors to tread cautiously, balancing exposure with rigorous due diligence.</p>
-<p>Operational challenges in energy grids and evolving public health risks from diseases such as Ebola underscore the need for infrastructural resilience and proactive policy frameworks. The interplay between climate extremes like heatwaves and health system capacity adds an additional layer of uncertainty impacting workforce productivity and economic stability.</p>
-<p>Taken together, these dynamics suggest a period of uneven recovery and strategic recalibration for global and Indian stakeholders alike. Leaders must navigate uncertain geopolitical fault lines while harnessing innovation-led growth opportunities amid inflationary and systemic risks. Prudent, flexible strategies anchored in scenario planning and diversified portfolios will define institutional success in this complex environment.</p>
-<hr />
-<h1>RAW NEWS FLOW</h1>
-<h1>Global News Wrap - 24 May 2026</h1>
-<h2>Technology</h2>
-<ul>
-<li><a href="https://www.ft.com/content/065b4aff-422d-4d43-a0ea-592e57fde2d1">Starmer’s EU drive put in doubt by ‘rejoin’ calls from leadership hopefuls</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://www.ft.com/content/8e81a505-7aa4-4c42-a103-f89b5e095901">Egypt deploys jets to UAE as Iran war strains Arab alliances</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/a133ed00-17a0-4d20-8ff6-c471d16055bc">Andy Burnham’s social media posts: the political everyman?</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://ig.ft.com/maritime-chokepoints/">The power struggle in the world’s narrow seas</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413">Russia pounds Kyiv with missiles and drones in heavy overnight assault</a> — Financial Times World (2026-05-23T23:25:31+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times World (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85">US and Iran move closer to extending ceasefire by 60 days, say mediators</a> — Financial Times World (2026-05-23T18:31:47+00:00)</li>
-<li><a href="https://www.ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184">Delivery Hero reveals Uber takeover bid at €10bn valuation</a> — Financial Times World (2026-05-23T17:35:44+00:00)</li>
-<li><a href="https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12">SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom</a> — Financial Times World (2026-05-23T08:00:06+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times Companies (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/6d5df0df-74b3-4be9-a1ec-27322e1c3184">Delivery Hero reveals Uber takeover bid at €10bn valuation</a> — Financial Times Companies (2026-05-23T17:35:44+00:00)</li>
-<li><a href="https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12">SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom</a> — Financial Times Companies (2026-05-23T08:00:06+00:00)</li>
-<li><a href="https://www.ft.com/content/20aed12e-b196-44f8-8a9d-54ba5e37979f">How the AI revolution has turbocharged M&amp;A</a> — Financial Times Companies (2026-05-23T04:00:40+00:00)</li>
-<li><a href="https://www.ft.com/content/f11e025d-bc28-49ac-a8ca-a881275f4f2b">Get ready to take sides in Big Tech’s giant IPO bake-off</a> — Financial Times Companies (2026-05-23T04:00:40+00:00)</li>
-<li><a href="https://www.ft.com/content/330b5a09-6cb8-4f8d-b5da-7c86d0565411">Britain curbs electricity trading after straining Europe’s power grids</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.ft.com/content/ab51d558-c9fc-499c-97b9-4cebc0218c17">Time to ‘do the splits’ on your mortgage?</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.ft.com/content/38f96013-448a-421c-a90e-5009342db807">Air travel sucks — now more than ever</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.ft.com/content/0216ee07-6523-4c3e-967a-ea3905cfff9d">Classical music has survived for centuries. Will AI kill it?</a> — Financial Times Companies (2026-05-23T04:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/0c81cbb2-bd96-48b1-bac5-b97ab6f56762">Britain’s EV boom hits second-hand bump in the road</a> — Financial Times Companies (2026-05-23T04:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91">SpaceX launches redesigned Starship in successful pre-IPO test</a> — Financial Times Companies (2026-05-23T00:30:23+00:00)</li>
-<li><a href="https://www.ft.com/content/d9d38ec0-9635-4ac0-b087-e297e9352b01">Richard Desmond’s group faces £40mn-plus bill from failed lottery lawsuit</a> — Financial Times Companies (2026-05-22T17:02:34+00:00)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/retail-fuel-price-hike-inevitable-if-global-oil-pressures-persist-bpcls-director-hr/article71016901.ece">Retail fuel price hike 'inevitable' if global oil pressures persist: BPCL's Director HR</a> — The Hindu BusinessLine (2026-05-24T10:13:21+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began/article71016917.ece">LNG tanker exits Hormuz for India for first time since war began</a> — The Hindu BusinessLine (2026-05-24T10:03:08+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/axios-says-proposed-us-iran-deal-involves-opening-strait-during-60-day-ceasefire-extension/article71016902.ece">Axios says proposed US-Iran deal involves opening strait during 60-day ceasefire extension</a> — The Hindu BusinessLine (2026-05-24T09:50:42+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/who-declares-ebola-outbreak-public-health-emergency-of-international-concern/article71016890.ece">WHO declares Ebola outbreak 'public health emergency' of international concern</a> — The Hindu BusinessLine (2026-05-24T09:29:57+05:30)</li>
-</ul>
-<h2>Geopolitics</h2>
-<ul>
-<li><a href="https://www.ft.com/content/065b4aff-422d-4d43-a0ea-592e57fde2d1">Starmer’s EU drive put in doubt by ‘rejoin’ calls from leadership hopefuls</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://www.ft.com/content/8e81a505-7aa4-4c42-a103-f89b5e095901">Egypt deploys jets to UAE as Iran war strains Arab alliances</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/a133ed00-17a0-4d20-8ff6-c471d16055bc">Andy Burnham’s social media posts: the political everyman?</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f">Trump says deal with Iran to reopen Hormuz ‘largely negotiated’</a> — Financial Times World (2026-05-24T01:29:52+00:00)</li>
-<li><a href="https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989">South-east Asian economies struggle to counter energy shock</a> — Financial Times World (2026-05-24T01:06:58+00:00)</li>
-<li><a href="https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413">Russia pounds Kyiv with missiles and drones in heavy overnight assault</a> — Financial Times World (2026-05-23T23:25:31+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times World (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/4fd37931-1f30-43e7-92ed-3ae26c87a00f">Pakistan army chief visits Tehran in push for US-Iran deal</a> — Financial Times World (2026-05-23T12:46:35+00:00)</li>
-<li><a href="https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24">US oil producers increase output to capture price surge from Iran war</a> — Financial Times World (2026-05-23T11:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times Companies (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24">US oil producers increase output to capture price surge from Iran war</a> — Financial Times Companies (2026-05-23T11:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/566af9d9-db4c-4e01-9e3c-dd1e3cc06374">BYD’s long and winding road towards the F1 grid</a> — Financial Times Companies (2026-05-23T08:00:06+00:00)</li>
-<li><a href="https://www.ft.com/content/52677cd0-7edb-4c77-8a8b-7ea252e9eeba">Superdrug owner shrugs off volatility to press ahead with $30bn dual listing</a> — Financial Times Companies (2026-05-23T04:00:40+00:00)</li>
-<li><a href="https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640">China Inc goes shopping for western consumer brands</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.thehindubusinessline.com/news/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began/article71016917.ece">LNG tanker exits Hormuz for India for first time since war began</a> — The Hindu BusinessLine (2026-05-24T10:03:08+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/rubio-modi-discuss-bilateral-trade-energy-security-west-asia-crisis/article71014627.ece">Rubio, Modi discuss bilateral trade, energy security, West Asia crisis</a> — The Hindu BusinessLine (2026-05-24T09:09:19+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/britains-navy-prepares-to-clear-mines-in-strait-of-hormuz-while-waiting-for-peace-deal/article71016861.ece">Britain's navy prepares to clear mines in Strait of Hormuz while waiting for peace deal</a> — The Hindu BusinessLine (2026-05-24T08:52:41+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/science/china-to-send-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing/article71016761.ece">China to send astronaut on year-long space mission as it eyes 2030 moon landing</a> — The Hindu BusinessLine (2026-05-24T06:10:46+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/personal-finance/pack-peace-of-mind-for-foreign-trips/article71011749.ece">Pack peace of mind for foreign trips</a> — The Hindu BusinessLine (2026-05-23T21:02:36+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/commodity-analysis/mastering-derivatives-trading-without-a-model/article71001439.ece">Mastering Derivatives: Trading without a model</a> — The Hindu BusinessLine (2026-05-23T20:53:24+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/companies/cafe-iii-adas-norms-set-to-drive-next-growth-cycle-for-auto-component-makers/article71011908.ece">CAFE III, ADAS norms set to drive next growth cycle for auto-component makers</a> — The Hindu BusinessLine (2026-05-23T20:01:41+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-tamilnad-mercantile-bank-zee-entertainment-enterprises-cartrade-tech-railtel-corporation-of-india-what-is-the-outlook-where-are-these-stocks-headed/article71010964.ece">Tech Query: Tamilnad Mercantile Bank (TMB), Zee Entertainment Enterprises (ZEEL), CarTrade Tech, RailTel Corporation of India - What is the outlook? Where are these stocks headed?</a> — The Hindu BusinessLine (2026-05-23T19:37:18+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/goyal-to-meet-canadian-pm-mark-carney-to-fast-track-trade-pact/article71014740.ece">Goyal to meet Canadian PM Mark Carney to fast-track trade pact</a> — The Hindu BusinessLine (2026-05-23T19:14:13+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/piyush-goyal-to-visit-canada-with-150-business-leaders-to-boost-trade-ties/article71014238.ece">Piyush Goyal to visit Canada with 150 business leaders to boost trade ties</a> — The Hindu BusinessLine (2026-05-23T18:50:53+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/piyush-goyal-to-lead-150-strong-industry-delegation-to-canada-next-week-trade-talks-on-table/articleshow/131285479.cms">Goyal to lead 150-strong industry delegation to Canada next week, trade talks on table</a> — Times of India Business (2026-05-24T01:42:54+05:30)</li>
-</ul>
-<h2>Markets</h2>
-<ul>
-<li><a href="https://www.ft.com/content/8bb4960d-e824-47ff-9400-9c40b7ebece4">Will US inflation pressures unsettle the Fed?</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://ig.ft.com/maritime-chokepoints/">The power struggle in the world’s narrow seas</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989">South-east Asian economies struggle to counter energy shock</a> — Financial Times World (2026-05-24T01:06:58+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times World (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/e16e6cdf-e824-4bc1-a199-e42746e602bb">Bond slump stirs vigilante fears</a> — Financial Times World (2026-05-23T04:00:46+00:00)</li>
-<li><a href="https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70">US warns Japan of severe delays in Tomahawk deliveries due to Iran war</a> — Financial Times Companies (2026-05-23T19:00:01+00:00)</li>
-<li><a href="https://www.ft.com/content/ee775809-b4df-4856-bbe9-6294bbf16ac0">Swatch and Audemars Piguet’s collab provides a much-needed pop</a> — Financial Times Companies (2026-05-23T04:00:46+00:00)</li>
-<li><a href="https://www.ft.com/content/f11e025d-bc28-49ac-a8ca-a881275f4f2b">Get ready to take sides in Big Tech’s giant IPO bake-off</a> — Financial Times Companies (2026-05-23T04:00:40+00:00)</li>
-<li><a href="https://www.ft.com/content/ab51d558-c9fc-499c-97b9-4cebc0218c17">Time to ‘do the splits’ on your mortgage?</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.ft.com/content/cc479c63-1734-4411-b68f-680b6f3c31ab">BrewDog co-founder to attempt comeback with ‘Second Best’ beer brand</a> — Financial Times Companies (2026-05-22T16:42:55+00:00)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/big-story/sensex-midcap-smallcap-sectors-what-they-dont-tell-you-about-mutual-fund-sips/article71010621.ece">Sensex, Midcap, Smallcap, Sectors: What they don’t tell you about mutual fund SIPs</a> — The Hindu BusinessLine (2026-05-23T22:27:41+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/personal-finance/tax-query-is-withdrawal-from-nps-tier-ii-equity-fund-taxable-as-ltcg/article71011592.ece">Tax Query: Is withdrawal from NPS Tier II equity fund taxable as LTCG?</a> — The Hindu BusinessLine (2026-05-23T22:07:21+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/one-more-hike-petrol-prices-by-087-diesel-by-091-a-litre/article71013455.ece">In third hike in 10 days, petrol costlier by ₹0.87/litre, diesel by ₹0.91/litre, CNG by ₹1/kg</a> — The Hindu BusinessLine (2026-05-23T21:04:27+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-bullish-bias-intact/article71013431.ece">US Market Outlook: Bullish bias intact</a> — The Hindu BusinessLine (2026-05-23T20:42:49+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/technical-analysis/movers-amp-shakers-stocks-that-will-see-action-this-week/article71014935.ece">Movers &amp; Shakers: Stocks that will see action this week</a> — The Hindu BusinessLine (2026-05-23T19:49:14+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-tamilnad-mercantile-bank-zee-entertainment-enterprises-cartrade-tech-railtel-corporation-of-india-what-is-the-outlook-where-are-these-stocks-headed/article71010964.ece">Tech Query: Tamilnad Mercantile Bank (TMB), Zee Entertainment Enterprises (ZEEL), CarTrade Tech, RailTel Corporation of India - What is the outlook? Where are these stocks headed?</a> — The Hindu BusinessLine (2026-05-23T19:37:18+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/goyal-to-meet-canadian-pm-mark-carney-to-fast-track-trade-pact/article71014740.ece">Goyal to meet Canadian PM Mark Carney to fast-track trade pact</a> — The Hindu BusinessLine (2026-05-23T19:14:13+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/info-tech/deepseek-to-make-permanent-75-discount-on-flagship-ai-model/article71014316.ece">DeepSeek to make permanent 75% discount on flagship AI model</a> — The Hindu BusinessLine (2026-05-23T18:54:59+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/companies/wholeleaf-eyes-pan-india-expansion-targets-key-markets-this-year/article71014516.ece">Wholeleaf eyes pan-India expansion, targets key markets this year</a> — The Hindu BusinessLine (2026-05-23T18:15:26+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/international-business/petrol-prices-and-pressure-how-the-iran-war-is-hitting-american-households/articleshow/131279045.cms">Petrol, prices and pressure: How the Iran war is hitting American households</a> — Times of India Business (2026-05-23T19:13:39+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/potential-to-diversify-us-state-secretary-rubio-pushes-for-us-energy-supplies-to-india-in-meeting-with-pm-modi/articleshow/131280110.cms">'Potential to diversify': US state secretary Rubio pushes for US energy supplies to India in meeting with PM Modi</a> — Times of India Business (2026-05-23T18:59:51+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/the-big-ai-shock-have-indian-it-sector-stocks-lost-their-lustre/articleshow/131278633.cms">The big AI shock: Have Indian IT sector stocks lost their lustre?</a> — Times of India Business (2026-05-23T17:15:16+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/economy-resilient-supply-a-worry/articleshow/131270450.cms">'Economy resilient, supply a worry'</a> — Times of India Business (2026-05-23T04:58:05+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/international-business/warsh-takes-the-feds-helm-as-inflation-climbs/articleshow/131270468.cms">Warsh takes the Fed's helm as inflation climbs</a> — Times of India Business (2026-05-23T05:13:55+05:30)</li>
-<li><a href="https://www.hindustantimes.com/india-news/hike-cycle-is-unlikely-to-end-soon-experts-as-petrol-diesel-prices-increased-for-third-time-in-10-days-101779580093903.html">‘Hike cycle is unlikely to end soon’: Experts as petrol, diesel prices increased for third time in 10 days</a> — Hindustan Times India (2026-05-24T06:26:09+05:30)</li>
-</ul>
-<h2>Other</h2>
-<ul>
-<li><a href="https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44">Iran’s Guards used UAE company to buy military satellite equipment</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://www.ft.com/content/483369a6-f3e3-4252-b508-1889a3a9a473">If you’re in a spiral, you’re doing it right</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://www.ft.com/content/85db8dba-fcf1-4925-9ca9-971a13321a4d">Biggest UK mobile groups suffer worst year of customer losses</a> — Financial Times World (2026-05-24T04:00:16+00:00)</li>
-<li><a href="https://www.ft.com/content/a1be6a28-5ee3-4edb-9494-c9add3e63f88">Gap between London house prices and other UK cities at narrowest since 2009</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/7cb36760-767c-4652-a2a5-82e24d28caf9">French nicotine pouch ban is ‘attack on Swedish way of life’, minister says</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/f0ab5773-2834-4eed-b3a2-19def85957e1">‘Kidults’ fuel Japan’s ‘gacha gacha’ capsule toy mania</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/a4b3f6e0-c0e7-4a80-b5ea-7d8dd4dd4de8">Suspect killed after gunfire exchange with Secret Service outside White House</a> — Financial Times World (2026-05-24T01:04:40+00:00)</li>
-<li><a href="https://www.ft.com/content/b3eff5d9-10e9-407c-ab6b-1daeeed63a3c">Marco Rubio combats Cuban-American backlash as he seeks Havana deal</a> — Financial Times World (2026-05-23T11:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/af214775-519b-4c94-8db7-6b5207cc70bd">Boards of Canada fuse esoteric knowledge and science on Inferno</a> — Financial Times World (2026-05-23T05:00:05+00:00)</li>
-<li><a href="https://www.ft.com/content/9095be50-5a7d-47fe-b68c-260b5ebb9de4">Starmer urges TNT to screen Champions League final for free</a> — Financial Times Companies (2026-05-23T16:00:09+00:00)</li>
-<li><a href="https://www.ft.com/content/f4da6ec3-c56b-4b0b-b8a1-62ca7b0e6bed">US crime and mortality is declining fast — what can the rest of us learn?</a> — Financial Times Companies (2026-05-23T04:00:46+00:00)</li>
-<li><a href="https://www.ft.com/content/151a0cfa-2341-490f-b47f-e36988fbf3ec">The dos and don’ts of travel insurance when you’re over 50</a> — Financial Times Companies (2026-05-23T04:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/5d4c3de6-07d9-436e-8822-2dbafd10774a">Trump administration to make foreigners leave US to apply for green cards</a> — Financial Times Companies (2026-05-22T22:48:37+00:00)</li>
-<li><a href="https://www.ft.com/content/0a69e869-11ba-429d-94be-2801ec5133d4">The risks to the legacy of Barney Frank</a> — Financial Times Companies (2026-05-22T17:00:10+00:00)</li>
-<li><a href="https://www.ft.com/content/7d3d48e5-97ae-4f7e-95e9-d2c87e1aa82f">Directors’ Deals: New IG Design chief buys shares in turnaround vote</a> — Financial Times Companies (2026-05-22T17:00:10+00:00)</li>
-<li><a href="https://www.thehindubusinessline.com/news/national/centre-advises-citizens-to-avoid-non-essential-travel-to-ebola-affected-regions/article71016903.ece">Centre advises citizens to avoid non-essential travel to Ebola-affected regions</a> — The Hindu BusinessLine (2026-05-24T09:59:50+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/suspect-dead-after-approaching-white-house-checkpoint-with-weapon-says-us-secret-service/article71016899.ece">Suspect dead after approaching White House checkpoint with weapon, says US Secret Service</a> — The Hindu BusinessLine (2026-05-24T09:38:23+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/national/scorching-days-restless-nights-heatwave-tightens-grip-across-parts-of-india/article71016850.ece">Scorching days, restless nights: Heatwave tightens grip across parts of India</a> — The Hindu BusinessLine (2026-05-24T08:41:42+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/us-secret-service-shoots-suspect-near-white-house-bystander-critically-injured/article71016754.ece">US Secret Service shoots suspect near White House; bystander critically injured</a> — The Hindu BusinessLine (2026-05-24T05:40:22+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/nifty-50s-long-term-historical-performance-reassures-to-fpis-dont-write-me-off-just-yet/article71015466.ece">Nifty 50’s long-term historical performance reassures to FPIs ‘don’t write me off just yet’</a> — The Hindu BusinessLine (2026-05-24T01:03:15+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/spacex-ipo-and-the-big-bang-bubble/article71015048.ece">SpaceX IPO and the Big Bang Bubble</a> — The Hindu BusinessLine (2026-05-24T00:19:32+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/national/surat-based-anupam-rasayan-india-to-acquire-upto-742-per-cent-in-bliss-gvs-pharma/article71015542.ece">Surat-based Anupam Rasayan India to acquire upto 74.2 per cent in Bliss GVS Pharma</a> — The Hindu BusinessLine (2026-05-23T22:36:34+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/medanta-stock-what-should-investors-do/article71007329.ece">Medanta stock: What should investors do?</a> — The Hindu BusinessLine (2026-05-23T22:29:26+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/should-investors-buy-hdfc-bank-now/article71007841.ece">Should investors buy HDFC Bank now?</a> — The Hindu BusinessLine (2026-05-23T22:19:07+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/who-am-i-may-24-2026/article71011541.ece">Who Am I? May 24, 2026</a> — The Hindu BusinessLine (2026-05-23T22:07:10+05:30)</li>
-</ul>
-<h2>Energy</h2>
-<ul>
-<li><a href="https://www.ft.com/content/c19f91a1-3e19-43bc-b436-5e6dfdf01e66">The al-Qaeda offshoot looking to Syria as a blueprint</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://ig.ft.com/maritime-chokepoints/">The power struggle in the world’s narrow seas</a> — Financial Times World (2026-05-24T04:00:08+00:00)</li>
-<li><a href="https://www.ft.com/content/746e3cbc-ebfd-40cc-915e-718643372989">South-east Asian economies struggle to counter energy shock</a> — Financial Times World (2026-05-24T01:06:58+00:00)</li>
-<li><a href="https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24">US oil producers increase output to capture price surge from Iran war</a> — Financial Times World (2026-05-23T11:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24">US oil producers increase output to capture price surge from Iran war</a> — Financial Times Companies (2026-05-23T11:00:07+00:00)</li>
-<li><a href="https://www.ft.com/content/330b5a09-6cb8-4f8d-b5da-7c86d0565411">Britain curbs electricity trading after straining Europe’s power grids</a> — Financial Times Companies (2026-05-23T04:00:28+00:00)</li>
-<li><a href="https://www.ft.com/content/829a26b4-8fdd-4f05-a601-646095ff64ba">Stockpickers: National Grid, Jadestone Energy, SSP Group</a> — Financial Times Companies (2026-05-22T17:00:10+00:00)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/retail-fuel-price-hike-inevitable-if-global-oil-pressures-persist-bpcls-director-hr/article71016901.ece">Retail fuel price hike 'inevitable' if global oil pressures persist: BPCL's Director HR</a> — The Hindu BusinessLine (2026-05-24T10:13:21+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/axios-says-proposed-us-iran-deal-involves-opening-strait-during-60-day-ceasefire-extension/article71016902.ece">Axios says proposed US-Iran deal involves opening strait during 60-day ceasefire extension</a> — The Hindu BusinessLine (2026-05-24T09:50:42+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/rubio-modi-discuss-bilateral-trade-energy-security-west-asia-crisis/article71014627.ece">Rubio, Modi discuss bilateral trade, energy security, West Asia crisis</a> — The Hindu BusinessLine (2026-05-24T09:09:19+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/news/world/britains-navy-prepares-to-clear-mines-in-strait-of-hormuz-while-waiting-for-peace-deal/article71016861.ece">Britain's navy prepares to clear mines in Strait of Hormuz while waiting for peace deal</a> — The Hindu BusinessLine (2026-05-24T08:52:41+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/markets/qatar-holding-sells-over-48-lakh-shares-of-adani-energy-solutions-for-643-crore/article71015339.ece">Qatar Holding sells over 48 lakh shares of Adani Energy Solutions for ₹643 crore</a> — The Hindu BusinessLine (2026-05-23T21:19:33+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/economy/one-more-hike-petrol-prices-by-087-diesel-by-091-a-litre/article71013455.ece">In third hike in 10 days, petrol costlier by ₹0.87/litre, diesel by ₹0.91/litre, CNG by ₹1/kg</a> — The Hindu BusinessLine (2026-05-23T21:04:27+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-positive-bias-holds/article71014378.ece">Crude Check: Oil futures hold positive bias</a> — The Hindu BusinessLine (2026-05-23T20:50:32+05:30)</li>
-<li><a href="https://www.thehindubusinessline.com/info-tech/hyderabad-police-deploys-ai-powered-mobile-app-that-can-record-transcribe-and-translate-complaints-in-10-indian-languages/article71014253.ece">Hyderabad police deploys AI-powered mobile app that can record, transcribe, translate complaints in 10 Indian languages</a> — The Hindu BusinessLine (2026-05-23T18:53:30+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/energy-boost-oil-strikes-gas-in-rajasthans-dandewala/articleshow/131285498.cms">Energy boost: OIL strikes gas in Rajasthan's Dandewala</a> — Times of India Business (2026-05-24T01:50:16+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/skilled-worker-shortage-poses-challenge-to-governments-major-png-expansion-drive/articleshow/131276949.cms">Skilled worker shortage poses challenge to government’s major PNG expansion drive</a> — Times of India Business (2026-05-23T21:34:01+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/potential-to-diversify-us-state-secretary-rubio-pushes-for-us-energy-supplies-to-india-in-meeting-with-pm-modi/articleshow/131280110.cms">'Potential to diversify': US state secretary Rubio pushes for US energy supplies to India in meeting with PM Modi</a> — Times of India Business (2026-05-23T18:59:51+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/after-petrol-diesel-cng-prices-hiked-for-third-time-fuel-rates-increased-by-re-1-per-kg-check-rates-in-your-city/articleshow/131271317.cms">After petrol, diesel, CNG prices hiked for third time by Re 1 per kg - check rates in your city</a> — Times of India Business (2026-05-23T08:53:35+05:30)</li>
-<li><a href="https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-prices-hiked-third-time-on-may-23-check-fuel-rates-in-delhi-mumbai-chennai-kolkata-and-other-metro-cities/articleshow/131270853.cms">Petrol, diesel prices hiked third time, sees increase by around 90 paise — check rates in your city</a> — Times of India Business (2026-05-23T07:06:25+05:30)</li>
-<li><a href="https://www.hindustantimes.com/india-news/india-advisory-ebola-outbreak-countries-to-avoid-travel-congo-uganda-south-sudan-who-emergency-101779594024138.html">India issues advisory on Ebola outbreak, lists countries to avoid for travel</a> — Hindustan Times India (2026-05-24T09:16:13+05:30)</li>
-<li><a href="https://www.hindustantimes.com/india-news/hike-cycle-is-unlikely-to-end-soon-experts-as-petrol-diesel-prices-increased-for-third-time-in-10-days-101779580093903.html">‘Hike cycle is unlikely to end soon’: Experts as petrol, diesel prices increased for third time in 10 days</a> — Hindustan Times India (2026-05-24T06:26:09+05:30)</li>
-<li><a href="https://www.hindustantimes.com/india-news/energy-us-iran-war-and-an-invite-from-trump-inside-marco-rubio-pm-narendra-modi-meeting-101779546346206.html">Energy, US-Iran war and an invite from Trump: Inside Marco Rubio-PM Modi meeting</a> — Hindustan Times India (2026-05-23T20:30:21+05:30)</li>
-<li><a href="https://www.hindustantimes.com/india-news/water-shortage-heatwave-shankargarh-block-prayagraj-people-walking-10-kms-temperatures-banda-uttar-pradesh-101779512137329.html">'No water, no electricity': 3 hours from India's hottest city, this block is walking long paths amid scorching heat</a> — Hindustan Times India (2026-05-23T11:14:31+05:30)</li>
-<li><a href="https://indianexpress.com/article/entertainment/movie-review/elephants-in-the-fog-review-nepals-cannes-jury-prize-winner-is-powerful-10704333/">Elephants in the Fog review: Nepal’s Cannes Jury Prize winner is quietly powerful</a> — Indian Express Latest (2026-05-23T10:41:16+00:00)</li>
-</ul>
-
-    </body>
-
-    </html>
-    
+</body>
+</html>
