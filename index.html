@@ -10,19 +10,26 @@
 
     <style>
 
-        body {
-            margin: 0;
-            background: #020617;
-            color: white;
-            font-family: "Segoe UI", Arial, sans-serif;
-            overflow-x: hidden;
+        * {
+            box-sizing: border-box;
         }
 
-        /* =========================
+        body {
+
+            margin: 0;
+            background: #020617;
+            color: #f8fafc;
+            font-family: "Segoe UI", Arial, sans-serif;
+            overflow-x: hidden;
+
+        }
+
+        /* =========================================
            MARKET TICKER
-        ========================== */
+        ========================================= */
 
         .ticker {
+
             width: 100%;
             height: 42px;
             background: #0f172a;
@@ -31,19 +38,24 @@
             display: flex;
             align-items: center;
             white-space: nowrap;
+
         }
 
         .ticker-track {
+
             display: inline-block;
             padding-left: 100%;
-            animation: tickerScroll 35s linear infinite;
+            animation: tickerScroll 38s linear infinite;
+
         }
 
         .ticker span {
+
             display: inline-block;
             margin-right: 60px;
-            font-size: 14px;
+            font-size: 13px;
             font-weight: 500;
+
         }
 
         .up {
@@ -55,6 +67,7 @@
         }
 
         @keyframes tickerScroll {
+
             0% {
                 transform: translateX(0%);
             }
@@ -62,70 +75,127 @@
             100% {
                 transform: translateX(-100%);
             }
+
         }
 
-        /* =========================
-           HEADER
-        ========================== */
+        /* =========================================
+           HERO SECTION
+        ========================================= */
 
         .hero {
 
+            max-width: 1200px;
+            margin: auto;
             text-align: center;
-            padding-top: 120px;
-            padding-bottom: 100px;
+
+            padding-top: 90px;
+            padding-bottom: 90px;
+            padding-left: 30px;
+            padding-right: 30px;
+
+        }
+
+        .shield-logo {
+
+            width: 130px;
+            height: auto;
+
+            margin-bottom: 36px;
+
+            filter:
+            drop-shadow(0 0 24px rgba(255,106,0,0.18));
 
         }
 
         .logo {
 
-            font-size: 60px;
+            font-size: 62px;
             font-weight: 800;
             letter-spacing: 4px;
-            color: #ff6a00;
+
+            color: #f8fafc;
 
         }
 
         .subtitle {
 
-            margin-top: 18px;
-            font-size: 20px;
-            color: #94a3b8;
+            margin-top: 20px;
+
+            color: #ff6a00;
+
+            font-size: 24px;
+            letter-spacing: 1px;
+            font-weight: 500;
 
         }
 
         .description {
 
-            margin-top: 28px;
-            color: #cbd5e1;
-            font-size: 17px;
-            line-height: 1.7;
-            max-width: 850px;
+            margin-top: 42px;
+
+            max-width: 980px;
+
             margin-left: auto;
             margin-right: auto;
 
+            font-size: 19px;
+            line-height: 1.95;
+
+            color: #cbd5e1;
+
         }
 
-        /* =========================
+        .description strong {
+
+            color: #f8fafc;
+            font-weight: 600;
+
+        }
+
+        /* =========================================
+           CATEGORY STRIP
+        ========================================= */
+
+        .categories {
+
+            margin-top: 55px;
+
+            color: #94a3b8;
+
+            font-size: 14px;
+            letter-spacing: 1px;
+            line-height: 2;
+
+        }
+
+        /* =========================================
            BUTTONS
-        ========================== */
+        ========================================= */
 
         .buttons {
 
-            margin-top: 50px;
+            margin-top: 65px;
 
         }
 
         .btn {
 
-            padding: 16px 34px;
+            padding: 17px 34px;
+
             margin: 10px;
+
             border: none;
             border-radius: 8px;
+
             background: #ff6a00;
+
             color: white;
-            font-size: 16px;
+
+            font-size: 15px;
             font-weight: 600;
+
             cursor: pointer;
+
             transition: all 0.3s ease;
 
         }
@@ -133,6 +203,7 @@
         .btn:hover {
 
             background: #e65c00;
+
             transform: translateY(-2px);
 
         }
@@ -149,16 +220,128 @@
 
         }
 
-        /* =========================
+        /* =========================================
+           STRATEGIC PANEL
+        ========================================= */
+
+        .panel {
+
+            max-width: 1200px;
+
+            margin: auto;
+
+            margin-top: 30px;
+
+            border-top: 1px solid #1e293b;
+            border-bottom: 1px solid #1e293b;
+
+            padding-top: 55px;
+            padding-bottom: 55px;
+
+            padding-left: 30px;
+            padding-right: 30px;
+
+        }
+
+        .panel-grid {
+
+            display: grid;
+
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+            gap: 35px;
+
+        }
+
+        .panel-card {
+
+            background: rgba(15, 23, 42, 0.55);
+
+            border: 1px solid #1e293b;
+
+            border-radius: 12px;
+
+            padding: 28px;
+
+            text-align: left;
+
+            backdrop-filter: blur(8px);
+
+        }
+
+        .panel-card h3 {
+
+            margin-top: 0;
+
+            font-size: 18px;
+
+            color: #ff6a00;
+
+        }
+
+        .panel-card p {
+
+            color: #cbd5e1;
+
+            line-height: 1.7;
+
+            font-size: 15px;
+
+        }
+
+        /* =========================================
            FOOTER
-        ========================== */
+        ========================================= */
 
         .footer {
 
             text-align: center;
+
             color: #64748b;
+
             font-size: 13px;
-            padding-bottom: 40px;
+
+            padding-top: 55px;
+            padding-bottom: 45px;
+
+            padding-left: 20px;
+            padding-right: 20px;
+
+            line-height: 1.8;
+
+        }
+
+        /* =========================================
+           MOBILE
+        ========================================= */
+
+        @media(max-width: 768px) {
+
+            .logo {
+
+                font-size: 40px;
+
+            }
+
+            .subtitle {
+
+                font-size: 20px;
+
+            }
+
+            .description {
+
+                font-size: 17px;
+
+            }
+
+            .btn {
+
+                width: 100%;
+
+                max-width: 320px;
+
+            }
 
         }
 
@@ -168,9 +351,9 @@
 
 <body>
 
-    <!-- =========================
+    <!-- =========================================
          MARKET TICKER
-    ========================== -->
+    ========================================== -->
 
     <div class="ticker">
 
@@ -198,75 +381,147 @@
 
     </div>
 
-    <!-- =========================
-         HERO SECTION
-    ========================== -->
+    <!-- =========================================
+         HERO
+    ========================================== -->
 
     <div class="hero">
 
+        <img src="AION%20Logo.png"
+             class="shield-logo"
+             alt="AION Shield">
+
         <div class="logo">
+
             AION INTELLIGENCE
+
         </div>
 
         <div class="subtitle">
-            Pulse Briefing and Analyses
+
+            Signal. Context. Judgement.
+
         </div>
 
         <div class="description">
 
-            Institutional-grade intelligence architecture integrating
-            markets, geopolitics, energy systems, macroeconomics,
-            technology shifts, and strategic signal analysis.
+            <strong>AION Intelligence</strong> is strategic intelligence infrastructure designed to integrate markets, geopolitics, reputation, media systems, policy signals, capital flows, and narrative dynamics into institutional decision-making environments.
 
             <br><br>
 
-            Built as an evolving intelligence operating system for
-            decision-makers, investors, policy observers, and
-            strategic communications leadership.
+            Built as an evolving system-embedded intelligence layer, AION transforms fragmented information velocity into structured strategic judgement for leadership, enterprise, capital, and public-influence ecosystems.
+
+        </div>
+
+        <div class="categories">
+
+            Strategic Communications • Market Intelligence • Reputation Systems • Narrative Infrastructure • Geopolitical Intelligence • Strategic Signal Analysis
 
         </div>
 
         <div class="buttons">
 
             <button class="btn" onclick="openDashboard()">
-                Open AION Command
+
+                Enter AION Command
+
             </button>
 
             <button class="btn btn-secondary" onclick="openArchive()">
+
                 Intelligence Archive
+
             </button>
 
         </div>
 
     </div>
 
-    <!-- =========================
-         FOOTER
-    ========================== -->
+    <!-- =========================================
+         STRATEGIC PANELS
+    ========================================== -->
 
-    <div class="footer">
+    <div class="panel">
 
-        AION Intelligence • Strategic Signal Infrastructure
+        <div class="panel-grid">
+
+            <div class="panel-card">
+
+                <h3>
+                    Strategic Signal Infrastructure
+                </h3>
+
+                <p>
+
+                    AION is designed to transform fragmented information systems into structured institutional judgement architectures spanning markets, policy, reputation, and geopolitical environments.
+
+                </p>
+
+            </div>
+
+            <div class="panel-card">
+
+                <h3>
+                    Narrative Intelligence Systems
+                </h3>
+
+                <p>
+
+                    Built to embed contextual awareness into enterprise communications, capital-market positioning, strategic influence systems, and leadership decision frameworks.
+
+                </p>
+
+            </div>
+
+            <div class="panel-card">
+
+                <h3>
+                    Institutional Decision Velocity
+                </h3>
+
+                <p>
+
+                    Integrating AI-assisted synthesis, intelligence workflows, strategic communications, and market-context analysis into a unified operating layer.
+
+                </p>
+
+            </div>
+
+        </div>
 
     </div>
 
-    <!-- =========================
+    <!-- =========================================
+         FOOTER
+    ========================================== -->
+
+    <div class="footer">
+
+        Embedding Strategic Judgement into Enterprise Systems
+
+        <br><br>
+
+        AION Intelligence © 2026
+
+    </div>
+
+    <!-- =========================================
          JAVASCRIPT
-    ========================== -->
+    ========================================== -->
 
     <script>
 
         function openDashboard() {
 
             window.location.href =
-                "reports/morning_intelligence_dashboard_26_april_2026.html";
+            "reports/morning_intelligence_dashboard_26_april_2026.html";
 
         }
 
         function openArchive() {
 
             window.location.href =
-                "reports/";
+            "reports/";
 
         }
 
