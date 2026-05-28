@@ -1,10 +1,25 @@
 import os
+import re
+import html
 import pandas as pd
 import yfinance as yf
+import feedparser
+import yaml
 from datetime import datetime
+from dateutil import parser
 
 os.makedirs("output", exist_ok=True)
 os.makedirs("reports", exist_ok=True)
+
+
+def clean_text(text):
+    if not text:
+        return ""
+
+    text = re.sub(r"<.*?>", "", text)
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 
 def fetch_market_data():
@@ -44,48 +59,120 @@ def fetch_market_data():
         except Exception as e:
             print(f"❌ Error fetching {name}: {e}")
 
-    if data:
-        df = pd.DataFrame(data)
+    df = pd.DataFrame(data)
+
+    if not df.empty:
         df.to_csv("output/market_data.csv", index=False)
         print("✅ Market data updated")
-        return df
+    else:
+        print("❌ No market data fetched")
 
-    print("❌ No market data fetched")
-    return pd.DataFrame()
+    return df
 
 
-def generate_news_stub():
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+def classify_story(text):
+    text = text.lower()
 
-    stories = [
-        {
-            "section": "Executive Signal",
-            "title": "AION Command is now active",
-            "summary": "The intelligence surface is now connected to the pipeline and will generate a fresh command page whenever the system is run."
-        },
-        {
-            "section": "Markets",
-            "title": "Market layer refreshed",
-            "summary": "The AION ticker is now powered through Yahoo Finance and written into the live data layer."
-        },
-        {
-            "section": "Next Build",
-            "title": "GPT synthesis layer pending full activation",
-            "summary": "The next build stage will connect RSS ingestion and GPT-generated strategic interpretation into this page."
-        }
-    ]
+    if any(word in text for word in [
+        "oil", "gas", "power", "energy", "renewable", "solar",
+        "grid", "electricity", "battery", "transmission", "coal"
+    ]):
+        return "Energy & Infrastructure"
+
+    if any(word in text for word in [
+        "rbi", "inflation", "gdp", "rupee", "bond", "markets",
+        "stocks", "fii", "capital", "ipo", "sensex", "nifty"
+    ]):
+        return "Markets & Macro"
+
+    if any(word in text for word in [
+        "china", "us", "america", "iran", "israel", "russia",
+        "ukraine", "war", "tariff", "geopolitical", "trade"
+    ]):
+        return "Geopolitics"
+
+    if any(word in text for word in [
+        "policy", "government", "ministry", "sebi", "regulator",
+        "cabinet", "supreme court", "rbi", "budget"
+    ]):
+        return "Policy & Regulation"
+
+    if any(word in text for word in [
+        "company", "ceo", "earnings", "profit", "revenue",
+        "merger", "acquisition", "investment", "funding"
+    ]):
+        return "Corporate Signals"
+
+    return "Strategic Signals"
+
+
+def fetch_news_feeds():
+    with open("config/feeds.yaml", "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+
+    stories = []
+    seen_links = set()
+
+    for feed in config.get("feeds", []):
+        name = feed.get("name")
+        url = feed.get("url")
+
+        try:
+            parsed = feedparser.parse(url)
+
+            for entry in parsed.entries[:8]:
+                title = clean_text(entry.get("title", ""))
+                link = entry.get("link", "").strip()
+                summary = clean_text(entry.get("summary", ""))[:300]
+                published_raw = entry.get("published") or entry.get("updated") or ""
+
+                if not title or not link or link in seen_links:
+                    continue
+
+                try:
+                    published_at = parser.parse(published_raw).strftime("%d %b %Y, %H:%M") if published_raw else ""
+                except Exception:
+                    published_at = ""
+
+                section = classify_story(title + " " + summary)
+
+                stories.append({
+                    "section": section,
+                    "source": name,
+                    "title": title,
+                    "summary": summary if summary else "Summary unavailable from source feed.",
+                    "link": link,
+                    "published_at": published_at
+                })
+
+                seen_links.add(link)
+
+        except Exception as e:
+            print(f"❌ Feed error: {name} — {e}")
 
     df = pd.DataFrame(stories)
-    df.to_csv("output/latest.csv", index=False)
 
-    with open("output/latest.md", "w", encoding="utf-8") as f:
-        f.write(f"# AION Intelligence\n\nLast updated: {now}\n\n")
-        for story in stories:
-            f.write(f"## {story['section']}\n")
-            f.write(f"### {story['title']}\n")
-            f.write(f"{story['summary']}\n\n")
+    if not df.empty:
+        df.to_csv("output/latest.csv", index=False)
 
-    print("✅ News output updated")
+        with open("output/latest.md", "w", encoding="utf-8") as f:
+            f.write(f"# AION Intelligence\n\n")
+            f.write(f"Last updated: {datetime.now().strftime('%d %B %Y, %I:%M %p IST')}\n\n")
+
+            for section in df["section"].drop_duplicates():
+                f.write(f"## {section}\n\n")
+                section_df = df[df["section"] == section].head(8)
+
+                for _, row in section_df.iterrows():
+                    f.write(f"### {row['title']}\n")
+                    f.write(f"Source: {row['source']} | {row['published_at']}\n\n")
+                    f.write(f"{row['summary']}\n\n")
+                    f.write(f"{row['link']}\n\n")
+
+        print(f"✅ News feeds updated: {len(stories)} stories")
+    else:
+        print("❌ No news stories fetched")
+
     return df
 
 
@@ -114,23 +201,53 @@ def generate_command_page(market_df, news_df):
                 <td class="{direction}">{arrow} {abs(change):.2f}%</td>
             </tr>
             """
-
     else:
         ticker_spans = "<span>Market Data Temporarily Unavailable</span>"
         market_rows = "<tr><td colspan='3'>Market data unavailable</td></tr>"
 
+    sections = [
+        "Markets & Macro",
+        "Energy & Infrastructure",
+        "Geopolitics",
+        "Policy & Regulation",
+        "Corporate Signals",
+        "Strategic Signals"
+    ]
+
     news_cards = ""
 
-    for _, row in news_df.iterrows():
-        news_cards += f"""
+    if not news_df.empty:
+        for section in sections:
+            section_df = news_df[news_df["section"] == section].head(5)
+
+            if section_df.empty:
+                continue
+
+            news_cards += f"""
+            <div class="card">
+                <div class="section-label">{section}</div>
+            """
+
+            for _, row in section_df.iterrows():
+                news_cards += f"""
+                <div class="story">
+                    <h3><a href="{row['link']}" target="_blank">{row['title']}</a></h3>
+                    <div class="meta">{row['source']} {row['published_at']}</div>
+                    <p>{row['summary']}</p>
+                </div>
+                """
+
+            news_cards += "</div>"
+    else:
+        news_cards = """
         <div class="card">
-            <div class="section-label">{row['section']}</div>
-            <h2>{row['title']}</h2>
-            <p>{row['summary']}</p>
+            <div class="section-label">System Note</div>
+            <h2>No live news available</h2>
+            <p>The feed layer did not return stories in this run.</p>
         </div>
         """
 
-    html = f"""<!DOCTYPE html>
+    html_page = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -203,7 +320,7 @@ h1 {{
 
 .grid {{
     display: grid;
-    grid-template-columns: 1.2fr 0.8fr;
+    grid-template-columns: 1.25fr 0.75fr;
     gap: 26px;
     margin-top: 42px;
 }}
@@ -222,7 +339,19 @@ h1 {{
     letter-spacing: 1.5px;
     text-transform: uppercase;
     font-weight: 700;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
+}}
+
+.story {{
+    padding-bottom: 18px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid #1e293b;
+}}
+
+.story:last-child {{
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }}
 
 h2 {{
@@ -230,10 +359,31 @@ h2 {{
     font-size: 24px;
 }}
 
+h3 {{
+    margin: 0 0 8px;
+    font-size: 18px;
+    line-height: 1.45;
+}}
+
+a {{
+    color: #f8fafc;
+    text-decoration: none;
+}}
+
+a:hover {{
+    color: #ff6a00;
+}}
+
+.meta {{
+    color: #94a3b8;
+    font-size: 13px;
+    margin-bottom: 8px;
+}}
+
 p {{
     color: #cbd5e1;
-    font-size: 16px;
-    line-height: 1.75;
+    font-size: 15.5px;
+    line-height: 1.7;
 }}
 
 table {{
@@ -289,16 +439,6 @@ th {{
     <div class="grid">
         <div>
             {news_cards}
-
-            <div class="card">
-                <div class="section-label">Strategic Watch</div>
-                <h2>Next 24 Hours</h2>
-                <p>
-                    Monitor market direction, energy prices, currency movement, India policy signals,
-                    geopolitical stress points, and corporate reputation triggers. The next upgrade will
-                    replace this system-generated note with full GPT-led synthesis from live news feeds.
-                </p>
-            </div>
         </div>
 
         <div>
@@ -317,10 +457,19 @@ th {{
 
             <div class="card">
                 <div class="section-label">System Status</div>
-                <h2>Pipeline Active</h2>
+                <h2>Content Automation Active</h2>
                 <p>
-                    AION Command is now generated by the local pipeline. Each run of
-                    <strong>python src/main.py</strong> refreshes market data and rebuilds this page.
+                    AION Command is now pulling live RSS feeds, classifying stories into strategic sections,
+                    refreshing market data, and generating this page from the pipeline.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="section-label">Next Upgrade</div>
+                <h2>GPT Synthesis Layer</h2>
+                <p>
+                    The next phase will convert this live news layer into a boardroom-grade intelligence brief
+                    with implications, watch-outs, and strategic interpretation.
                 </p>
             </div>
         </div>
@@ -334,7 +483,7 @@ th {{
 """
 
     with open("reports/latest.html", "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(html_page)
 
     print("✅ AION Command page generated")
 
@@ -343,7 +492,7 @@ if __name__ == "__main__":
     print("🔄 Running AION pipeline...")
 
     market_df = fetch_market_data()
-    news_df = generate_news_stub()
+    news_df = fetch_news_feeds()
     generate_command_page(market_df, news_df)
 
     print("✅ Pipeline complete")
