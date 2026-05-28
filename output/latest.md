@@ -1,31 +1,31 @@
 # AION Intelligence
 
-## Can the UK economy be revived? You asked, we answered
-Economics leader writer Tej Parikh and economics commentator Chris Giles replied to reader questions
+## Israel attacks Beirut in new wave of bombing
+Strike on capital’s southern suburbs comes day before two countries due to hold ‘security talks’ in Washington
 
-## EU wants crisis powers to seize control of chip supplies
-Chipmakers could be forced to override existing contracts under draft law
+## Netanyahu orders Israeli forces to take control of 70% of Gaza
+Prime minister says Israel is ‘squeezing Hamas’ in the enclave at the same time as escalating attacks in southern Lebanon
 
-## Billionaire Tilman Fertitta to buy Caesars Entertainment in $17.6bn deal
-All-cash takeover will be one of the biggest gaming deals in years
+## Washington nearing deal to extend Iran ceasefire, US officials say
+Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
 
-## Germany shifts on EU oversight of financial services
-Capital markets union ‘more important than clinging to national interests’, says finance minister
+## Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal
+Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days
 
-## The Bethlehem Project Podcast: An immigration raid divides a community
-In this first episode, we explore how an immigration raid sent a chill through the community
+## Chevron CEO warns oil prices to jump over summer as supplies dwindle
+Blockade in Strait of Hormuz has removed up to 13mn barrels a day from global markets and drawn down ‘shock absorbers’
 
-## Meloni spars with defence minister over EU rearmament loans
-Italian PM threatens to reject bloc’s funding unless Brussels shows more leniency on energy crisis
+## FT quiz: the week in news
+Ten topical questions to test your news nous
 
-## EU to broaden import quotas and tariffs against China
-Trade defences needed to combat ‘existential’ threat to key sectors, industry commissioner Stéphane Séjourné says
-
-## US core PCE inflation continues to rise
-Higher inflation in April is due to energy, tariffs and AI-related spending
+## AkzoNobel should avoid painting itself into a corner
+Dutch paint maker’s original tie-up with Axalta doesn’t look especially compelling
 
 ## Caesars’ billionaire buyer hopes luck and leverage go hand in hand
-Fertitta’s gamble looks like a long shot, given the casino operator and Las Vegas have both been struggling
+The transaction comes at a time when Caesars and Las Vegas have been struggling
+
+## Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation
+New round values Claude AI maker at $965bn including the new money
 
 ## And just like that, the software apocalypse was over
 Snowflake’s stock pop demonstrates what companies must do to escape the sector downturn
@@ -35,9 +35,6 @@ Finances of UK-based broadcaster Iran International, a leading platform for oppo
 
 ## SpaceX IPO boldly steps into the unknown of AI economics
 We still need to learn many things about the basic business model of frontier models
-
-## BP should never have made Manifold chair
-The UK energy company’s board took an unwise gamble on a dominant executive
 
 ## US and Iran agree to 60-day ceasefire extension, Trump approval pending
 The agreement comes amid repeated claims by the Trump administration that a deal to halt hostilities is close, even as Iran has occasionally disputed or downplayed such assertions
@@ -87,6 +84,9 @@ Indian markets remained steady near record highs despite rising oil prices due t
 ## LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary
 LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic
 
+## 12 injured in clashes between rival groups in Nuh villages after Eid prayers
+The two groups pelted stones at each other and also used sticks and axes in the fight, creating panic in the village.
+
 ## ‘Highly objectionable’: FSSAI issues notice to IRCTC over viral video of utensils being ‘washed’ in train toilet
 The Food Safety and Standards Authority of India (FSSAI) termed the act, if true, objectionable as it could lead to food contamination.
 
@@ -108,31 +108,28 @@ Abdul Rahim was jailed for allegedly causing the accidental death of a specially
 ## India, China review border situation, discuss normalisation of ties
 India and China expressed satisfaction over peace along the LAC during border talks held under the WMCC mechanism in Beijing.
 
-## Delhi airport, airlines issue advisory as heavy rain disrupts flight ops
-Weather in Delhi: In view of unfavourable weather conditions, the Delhi airport along with airlines have issued advisory for passangers.
-
-## BREAKING: Hardik Pandya set to lose Mumbai Indians captaincy
+## File chargesheet within two weeks if suspect caught red-handed, Delhi police chief directs cops
 
 
-## 8 breathtaking pink lakes around the world
+## As West Asia war continues, anti-dumping duties on chemicals a key ‘concern’
 
 
-## US reaches 60-day truce ‘deal’ with Iran, but Trump approval pending: Report
+## Outlook for oil remains extremely vulnerable to geopolitical risks: Reliance Industries Ltd
 
 
-## ‘Dushmani jam kar karo lekin…’ : Bashir Badr, poet who modernised the Urdu ghazal, passes away at 91
+## Court reserves order on former Bengal DCP’s plea for Grade 1 status in jail
 
 
-## Nhava Sheva transporters call off proposed stir after port authority meeting
+## TMC in disarray, Mamata Banerjee targets turncoats with ‘Girgit’ poem
 
 
-## ‘Nice it go so much attention’: Gukesh revisits Carlsen’s table slam one year later
+## Gujarat woman killed in knife attack during ‘attempted robbery’ in Canada
 
 
-## Delhi man uses AI tools to morph pictures, videos of Gujarat woman, uploads them on social media, held
+## Major temperature drop in Delhi-NCR after rain brings relief from days of punishing heat
 
 
-## Police arrest two from Indo-Pak border in 65 lakh jewellery theft case
+## Why you may not feel hungry in the morning
 
 
 ## China’s BYD aims for zero accidents with ‘God’s Eye’, vows crash cost coverage
@@ -183,29 +180,32 @@ The Iran war was obviously a mistake. Why not say so?
 ## Can the U.S. End Nigeria’s Insurgency?
 Despite recent successful strikes, experts doubt the campaign’s long-term success.
 
-## ICC Announces November 30 as Start Date for Trial of Former Philippine President
-Rodrigo Duterte faces three counts of crimes against humanity involving the murders of at least ⁠76 people during violent anti-drug crackdowns.
+## What the Latest China-Russia Summit Means for Ukraine
+The Putin-Xi joint statement is not merely a statement of bilateral friendship. It is a war-era manifesto.
 
-## The Strategic Corridor Turning Singapore Into China’s Indispensable Partner
-Beijing’s New International Land-Sea Trade Corridor is emerging as a strategic supply line for Beijing – and Singapore helped design it.
+## When Buddhist Robes Meet Sri Lankan Law
+Recently, the chief prelate or custodian of eight sacred sites in Sri Lanka was arrested on charges of sexually assaulting and raping a child. He is out on bail.
 
-## Singaporean Foreign Minister Winds Up Working Visit to North Korea
-The visit, which coincided with the 50th anniversary of relations between the two countries, came as part of a tour that also included stops in China and South Korea.
+## The Double China Shock: How Beijing Is Disrupting Both Developing and Advanced Economies
+China intends to keep making low-tech goods alongside its push into advanced technology. That's bad news for advanced and developing economies alike.
 
-## Where Does Bangladesh’s Once Dominant Awami League Stand Today?
-The former ruling party, once a mainstay of Bangladeshi politics, has largely disappeared from public political life. But its leaders remain defiant.
+## Rethinking the ‘Absolute Bar’ on Scheduled Caste Status in India
+By tying caste recognition to religion, the law risks excluding those who continue to face the same discrimination it seeks to remedy.
 
-## A Textbook Debate: Why Russian Historians Told Kyrgyz Historians to Ditch the Term ‘Colonialism’
-If legitimacy is tied to history, then exactly how that history is interpreted matters beyond conference rooms packed with historians.
+## Transporting Oil to China by Rail Will Not Solve Iran’s Export Headache
+The overland route presents a limited lifeline for Tehran, but cannot substitute for sea-based oil trade.
 
-## What’s Driving Anti-Qing Sentiment in Contemporary China?
-A patriotic film backfired because a growing number of Han Chinese don’t see the Manchu-origin Qing dynasty as a part of their history.
+## The Manus Fallout Highlights Structural Problems in China’s Industrial Policy Ecosystem
+China wants to welcome foreign investment, but its red lines are shifting. That’s not an attractive proposition for many companies.
 
-## China’s Rise and the Challenge to US Maritime Security
-Insights from James R. Holmes.
+## Australia’s View of the Evolving Quad
+Canberra’s position – that Indo-Pacific stability depends not only on military deterrence, but also on the protection of trade flows, energy supplies, critical technologies, and economic sovereignty – has moved to the fore.
 
-## Understanding Cambodia’s Scam Economy, with Jacob Sims
-The scam economy is an industrialized system that merges cyber fraud with human trafficking and money laundering, all thriving under political protection.
+## China’s Navy Is Shifting Pressure Beyond the Taiwan Strait
+China did not launch a large-scale, Taiwan-specific military exercise after the Trump-Xi meeting. But that doesn’t mean the PLAN has been inactive.
+
+## Hollow Deals, Tricky Negotiations, and State Visits
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThere has been increasing chatter that Washington and Tehran are nearing an agreement that might wind down t
 
 ## What Would Relations with Post-War Russia Look Like?
 Rose Gottemoeller joined Ryan in Washington. They discussed how the West might think about relations with Russia once the war with Ukraine ends, as well as nuclear diplomacy and other critical issues. Gottemoeller was the deputy secretary general of NATO and, before that, served as a senior State De
@@ -227,9 +227,6 @@ In 2025, Nazmelis Zengin wrote, “The Fragility of U.S. Space Power in a Multip
 
 ## Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies
 Is it too late to stop criminals and American adversaries from exploiting AI to conduct cyberattacks or design novel pathogens? Has regulation kept pace with the threat civilian drones pose to critical infrastructure? AI researcher Lennart Heim, Army drone strategist Paul Lushenko, and CEO of Sentin
-
-## The Road to Space Runs through the Poles
-Why are there more antennas on Svalbard than anywhere else on Earth? Svalbard of all places, where cats and childbirth are banned and there are more polar bears than people? This cluster of islands in the Arctic, one thousand kilometers from Norway, is key to everything from your weather forecast to
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump administration sues states for denying ICE agents undercover plates
+The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates.
+
+## Three wounded in Swiss train station stabbing labelled ‘act of terror’
+Swiss authorities arrest suspect who had come to authorities' attention in 2015 for distributing ISIL propaganda.
+
+## What’s behind South Africa’s anti-migrant protests?
+Thousands of foreign workers are under increasing pressure to leave the country.
+
+## Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip
+Israeli army has already expanded its control of Gaza by 11 percent over the 'Yellow Line', beyond terms of 'ceasefire'.
+
+## Rebuilding US weapons stockpile may ‘take years’ post-Iran war
+Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report.
+
+## US, Iran reach MoU on 60-day truce, Trump’s approval pending
+US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension.
+
+## US and Iran reach tentative deal for 60-day truce extension, officials say
+The memorandum of understanding, which would enable further negotiations, still requires Donald Trump's final approval.
+
 ## CNN sues Perplexity, alleging unlawful distribution of copyrighted content
 Perplexity unlawfully copied thousands of CNN stories, videos and images to power its products, CNN said in its lawsuit.
-
-## How War Changed Eid in Lebanon
-After nearly three years of war and displacement, Eid in Lebanon no longer feels like celebration for many families.
-
-## UN ‘adds Israel to blacklist’ for conflict-related sexual violence
-Israeli ambassador to the UN says Tel Aviv will cut ties with UN chief Antonio Guterres over the upcoming report.
-
-## Latvia parliament approves new gov’t after drone dispute toppled coalition
-Latvia's government reform ensures a pro-Western path as regional drone incidents heighten security concerns.
-
-## US inflation surges to three-year high amid tensions with Iran
-Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.
-
-## Smoke rises over Beirut after Israeli strike
-Footage shows smoke billowing over south Beirut following an Israeli attack on the Lebanese capital.
-
-## Hundreds flee India crackdown on undocumented migrants
-Hundreds flee India crackdown on undocumented migrants
-
-## Fire kills 16 students at Kenyan girls’ boarding school
-At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
