@@ -1,142 +1,151 @@
 # AION Intelligence
 
-## Israel attacks Tyre in new strikes on southern Lebanon
-Escalation comes a day before two countries were set to hold ‘security talks’ in Washington
+## US core PCE inflation continues to rise
+Higher inflation in April is due to energy, tariffs and AI-related spending
+
+## Ministers must make fresh push for welfare reform says UK government adviser
+Number of young Britons out of work or training climbs above 1mn
+
+## Billionaire Tilman Fertitta to buy Caesars Entertainment in $17.6bn deal
+All-cash takeover will be one of the biggest gaming deals in years
+
+## Why Democrats are feeling optimistic in the US Senate race in Texas
+Also in today’s newsletter, how historically low tax refund numbers are adding more financial pressure for US consumers
+
+## Can the UK economy be revived? You asked, we answered
+Economics leader writer Tej Parikh and economics commentator Chris Giles replied to reader questions
+
+## US and Iran exchange fire amid increasingly strained truce
+Official says American forces shot down Iranian drones in move that prompted retaliation from Tehran
+
+## Meloni at odds with defence minister over EU rearmament loans
+Italian PM threatens to reject bloc’s funding unless Brussels shows more leniency on energy crisis
+
+## How Texas utilities are preparing for more extreme storms
+The humble utility pole, a key part of the power distribution system, is getting an upgrade
+
+## Ousted BP chair clashed with company secretary
+Ben Mathews has taken time off work following upheaval at oil major
+
+## Ex-SJP partners allege wealth manager took clients without paying
+Former advisers preparing legal action over claims St James’s Place failed to pay compensation after taking their business
 
 ## EU fines China’s Temu €200mn for failing to prevent sale of illegal goods
 Online retailer becomes second company to be punished under bloc’s Digital Services Act after Elon Musk’s X
 
-## Farage is facing his own menace on the right
-The rise of Restore Britain may force Reform’s leader to switch strategies
-
-## Temperatures likely to breach record levels over next five years, WMO says
-Scientists put 91% chance of global average rise of more than 1.5C by 2030
-
-## Colombia’s erratic leader refuses to be a lame duck
-Scandals and social media spats have not dented Gustavo Petro’s popularity. As the end of his term nears, he plans to keep a hand in politics
-
-## Iraq faces summer blackouts as Iran war upends energy flows
-Conflict has exposed oil-rich nation’s dependence on Iranian gas for electricity as temperatures exceed 45C
-
-## A tale of two EU-US comparisons
-There is no well-defined single answer to whether the US has been outgrowing Europe
-
-## Submit your questions: How to revive the UK economy?
-Take part in a live Ask an Expert Q&A with economics leader writer Tej Parikh and economics commentator Chris Giles today from 1pm to 2pm (BST)
+## Iraq faces summer blackouts
+Iran war has exposed oil-rich nation’s dependence on Iranian gas for electricity as temperatures exceed 45C
 
 ## FirstFT: Democrats’ hopes for victory in Texas rise after Paxton’s win
 Also in today’s newsletter: US hits Iran with fresh strikes while Kirkland & Ellis develops its own AI platform
 
-## Ousted BP chair hits out at ‘lies’ over his conduct
+## Manifold hits out at ‘lies’ over his conduct
 Albert Manifold says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour
 
-## BDO fined £2mn for ‘pervasive breaches’ in audit of collapsed NMCN
-UK regulator says mistakes in work for construction company were ‘significant and serious’
+## TCS, Mistral partner to become first Global Systems Integrator (GSI) for enterprises
+TCS will leverage Mistral Forge to build custom AI models for enterprises for better decision outcomes.
 
-## Belgian gunmaker FN Browning to buy UK sniper producer
-Acquisition comes as state-owned group looks to compete in British government rifle tender
+## Global temperatures likely to remain near record high levels until 2030, says WMO report
+The report flags higher El Nino risks and recurring temporary 1.5°C threshold breaches globally
 
-## Payments group accused of being ‘Chinese backdoor’ moves staff out of China
-Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing
+## PB Fintech Co-founders plan ₹653.6-crore share sale via block deal
+According to the term sheet, the transaction involves the sale of up to 3.8 million shares, representing around 0.8 per cent of the company’s total outstanding shares
 
-## AI boom squeezes optical tech and Huawei makes a chip comeback
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Illegal ads and scams outpace misinformation in ad violations: ASCI
+Offshore betting ads flout rules the most followed by realty, personal care and food and beverages
 
-## TCS partners with Mistral to build frontier-grade AI solutions for enterprises
-The partnership will initially focus on sectors such as BFSI, healthcare, manufacturing and the public sector, while TCS will also establish a dedicated centre of excellence to support joint innovation, AI deployment and talent development.
+## No need to reduce GST on flex-fuel vehicles: Tata Motors MD
+Rising fuel prices remain a key concern for the auto industry, says Chandra
 
-## Q4 Results Today Live: Ashok Leyland & JSW Holdings Q4 profit up, Graphite India reports Q4 loss, Bharat Dynamics, Alkem Lab & Anup Engineering profit down, Finolex Cables, Lemon Tree Hotels to announce Q4 results
-Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
+## Govt in damage control over NEET leak, CBSE evaluation row
+Air Force role in transporting NEET question paper mooted in high-level meet
 
-## H-1B returnees face cautious AI-led job market in India, say experts
-Despite an increase in Indian tech professionals returning from the US, the current hiring environment in India may not be suitable for large-scale absorption of H-1B talent, particularly in traditional IT roles
+## The long wait for the chair: Inside DKS and Siddaramaiah’s political journeys
+Shivakumar and Karnataka Chief Minister Siddaramaiah jointly announced that the latter had tendered his resignation
 
-## Small businesses record strongest growth since Covid despite rising cost pressures: Report
-Improvements in customer experience and technology adoption were identified as key drivers supporting business growth
+## Ashok Leyland Q4 profit rises 11% as CV volumes hit record high
+Commercial vehicle volumes, light commercial vehicle sales and exports all touched record highs, while Switch Mobility and the company’s finance businesses also delivered strong growth
 
-## Early May trends show weakening demand for commuter bikes and small cars
-Brokerages say demand is increasingly shifting toward fuel-efficient and premium segments as consumers become more cost-conscious.
+## US stock markets today (May 28, 2026): Wall Street stays near record highs despite fresh jump in oil prices
+Indian markets remained steady near record highs despite rising oil prices due to Iran tensions. Strong corporate earnings, particularly from Dollar Tree and Kohl's, bolstered investor confidence. While some companies faced headwinds from higher fuel costs, others like Snowflake saw significant gain
 
-## IBM commits $5 billion to secure open-source software
-The initiative, called Project Lightwell, ​seeks to create a “clearinghouse” for open ⁠source security, establishing a model for managing risks across the software supply chain.
+## US GDP growth revised down to 1.6% in first quarter as consumer spending slows
 
-## Siddaramaiah says he is resigning following Congress high command’s instructions
-Siddaramaiah arrived at Lok Bhavan to submit his resignation to Governor’s Special Secretary, Prabhushankar, after a breakfast meeting with Deputy Chief Minister DK Shivakumar, the frontrunner to succeed him
 
-## NHAI identifies 1,692.5 km of highway assets for monetisation in FY27
-Projects across nine States proposed to be monetised under TOT and InvIT modes
+## US key inflation rises to 3-year high as fuel, food costs squeeze households
+
+
+## LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary
+LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic
+
+## Labour codes and nomination processes: What employees need to know about securing their benefits
+Nomination assumes greater importance in the context of gratuity, given that it is a long-term benefit and often represents a significant financial entitlement.
+
+## Setback for Indian mango exports! Why Japan has stopped imports of Kesar, Alphonso, Langra & other varieties from India
+During 2025-26, Gujarat’s Kesar mango emerged as the biggest contributor to India’s mango exports to Japan, accounting for shipments worth nearly $0.2 million out of the total $1.54 million earned from fresh and processed mango exports to the country.
+
+## Payday pain: 81% of Indians hunting for better salary - what is their next move?
+A recent survey reveals that only 29% of Indian employees are satisfied with their salaries, with 81% planning to ask for a raise due to rising living costs. Millennials are most proactive, with 90% seeking increases, and a significant 68% of Indian respondents expect over a 10% pay rise, exceeding 
 
 ## Rich families cut US dollar exposure as geopolitical tensions reshape investment strategy: UBS report
 Global wealth is shifting away from the US dollar, with wealthy families and their offices expressing declining confidence in its reserve currency status. Driven by geopolitical worries and sovereign debt concerns, nearly two-thirds anticipate a weaker dollar.
 
-## Banks are lenient with big borrowers, harsh with common people: Supreme Court slams SBI while refusing relief to defaulting company
-The matter was heard by a Bench of Justice Ahsanuddin Amanullah and Justice R. Mahadevan in a Special Leave Petition filed by M/s Bhaskar International Private Limited and others against SBI. M/s Bhaskar International Private Limited v. State Bank of India
+## 20 years in Saudi jail, ₹34 crore blood money: Kerala man returns home after facing death sentence
+Abdul Rahim was jailed for allegedly causing the accidental death of a specially-abled Saudi boy whom he was supposed to be taking care of.
 
-## Gold, silver price prediction: Where are gold & silver prices headed in the near future? Check MCX Gold, MCX Silver price outlook
-Gold and silver price prediction today: MCX Gold is showing a bearish bias and MCX Silver is consolidating this week, according to Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+## India, China review border situation, discuss normalisation of ties
+India and China expressed satisfaction over peace along the LAC during border talks held under the WMCC mechanism in Beijing.
 
-## Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
-Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo
+## Delhi airport, airlines issue advisory as heavy rain disrupts flight ops
+Weather in Delhi: In view of unfavourable weather conditions, the Delhi airport along with airlines have issued advisory for passangers.
 
-## Shampoo, sacks and more: How is Middle East conflict making your groceries costlier?
-Your daily essentials, from shampoo to biscuits, are set to become pricier. A global conflict is driving up raw material costs, forcing companies to hike prices by 3-7% and potentially reduce product sizes. Expect further increases in food, beverage, and personal care items as businesses grapple wit
+## Not interested in national politics, says Siddaramaiah after resigning as Karnataka CM
+Siddaramaiah, who made it clear that he was stepping down on instructions of the Congress leadership, said he would complete his term as an MLA in the state
 
-## Hyundai to hike car prices from June 1
+## Uttarakhand govt plans to regulate trekking, mountaineering under new framework
+Uttarakhand is considering mandatory registration, fitness certificates and stricter safety norms for trekking and mountaineering activities.
 
+## 5 Tamil Nadu tourists injured as amusement park ride collapses Keralam capital
+The mishap occurred at Happyland Amusement Park around 2 pm during peak holiday rush.
 
-## SBI chief flags inflation, growth worries
+## Heavy rain, thunderstorm in Delhi, parts of NCR, bring respite from intense heat
+Weather in Delhi: Heavy rain and thunderstorms lashed Delhi-NCR, bringing much-needed relief from scorching heat and lowering temperatures across the region.
 
+## Rahul Gandhi hits out at Centre over CBSE OSM row: ‘Attacks on me won’t absolve crimes’
+Dharmendra Pradhan earlier called Rahul Gandhi ‘frustrated’, accusing LoP of consistently opposing India’s technological and scientific advancements.
 
-## 2025-26 foodgrain production estimated at record 376 MT
-
-
-## Famous Urdu poet Bashir Badr dies in Bhopal
-“Bashir Sahib left us… Prayers,” his wife, Rahat Badr, said in a social media post. He is survived by his wife and two children.
-
-## ‘No double standards on terrorism’: Ajit Doval at Moscow security forum
-Ajit Doval said responsible nations must make clear choices on whether they support sponsors of terrorism or counter them with decisive action.
-
-## Global temperatures may hit record highs over next five years: WMO, UK Met
-WMO and UK Met Office warn global temperatures could remain at record levels through 2030, with rising risks of El Niño and Arctic warming.
-
-## NHAI finalises 1,692.5km highway list for ₹30,000 cr FY27 monetisation push
-These 17 projects identified for FY26-27 exclude assets proposed for monetisation through the newly self-sponsored Raajmarg Infra Investment Trust (RIIT), which will be a separate monetisation vehicle
-
-## Siddaramaiah tenders resignation as Karnataka chief minister
-Siddaramaiah submitted his resignation to special secretary to Karnataka Governor Thaawarchand Gehlot as he is currently out of town.
-
-## Another jolt to Mamata as TMC's Santanu Sen quits party post day after Kakoli Ghosh Dastidar
-Santanu Sen resignation, addressed to Mamata Banerjee, stated that his mind no longer agrees to support TMC as a national spokesperson on “immoral acts”.
-
-## 'Gujarat model has blown out': Akhilesh Yadav attacks BJP over UP power crisis
-Samajwadi Party's Akhilesh Yadav has criticised the ruling Party for electricity shortages and summer power cuts.
-
-## 550 police personnel deployed, social media monitored to ensure peaceful Bakrid celebrations in Mumbai
-Officials said the deployment is aimed at maintaining communal harmony and ensuring that the festival passes off peacefully across the region.
-
-## ‘We’re all for peace, but…’: Mistral CEO pushes back on Pope’s warning over AI warfare
+## Shahana Goswami on open relationships and dating Milind Soman; expert weighs in
 
 
-## Sussanne Khan remembers late mom Zarine Khan on Eid al-Adha: ‘Missing you always’
+## Kerala High Court denies bail to Palakkad councillor for cheating orphan with fake job
 
 
-## Meta unveils ‘Plus’ tier subscriptions for Instagram, Facebook, WhatsApp alongside new AI plan trials
+## Why Shubman Gill’s strong IPL 2026 has revived his India T20I hopes
 
 
-## Sharp rise in out-of-pocket health spending, 11% fall in government expenditure in FY23: Ministry report
+## Rain lashes Delhi, flights operations likely to be hit
 
 
-## Elderly couple found murdered at Maharashtra home, killer threw ash on bodies
+## Chinese activist who fled on rubber boat lands in South Korean custody
 
 
-## Kolkata Metro completes Aluminium third rail upgrade on underground Blue Line for faster train operations
+## Twisha Sharma death: New phase in investigation after ex-judge Giribala Singh’s arrest
 
 
-## Knowledge Nugget | How countries join the WTO: From Application to Accession explained
+## ‘Hopefully, we will try to get him out at…’: GT’s Parthiv Patel on Sooryavanshi
 
 
-## Why Rajeev Khandelwal drinks tea in 56-year-old cups every morning
+## Uttarakhand High Court says compassionate appointment not ‘alternative recruitment mode’, rejects man’s re-appointment plea
 
+
+## Why MuleRun could be the next craze: new Alibaba AI agent platform promises safer adoption
+A new Chinese artificial intelligence agent platform is looking to replicate the “lobster craze” sparked by AI agent tool OpenClaw earlier this year, while avoiding some of the privacy and security risks associated with the open-source software. MuleRun, developed by Chinese tech giant Alibaba Group
+
+## ChinaAMC launches low-cost gold ETF as Hong Kong links bullion trading with blockchain
+China Asset Management (Hong Kong) launched a new gold exchange-traded fund (ETF) on Thursday, giving retail investors low-cost access to physical gold as the city pushes to link traditional financial products with digital-asset infrastructure. The ChinaAMC Digital Gold ETF, to be listed on the Hong
+
+## CATL set to boost global energy storage with world’s largest testing facility in Xiamen
+Contemporary Amperex Technology Ltd (CATL) hopes to use its energy-storage business to build on its global dominance in electric vehicle (EV) batteries, as the global oil crisis creates a surge in demand for its technologies and products. The company, which commands nearly 40 per cent of the world’s
 
 ## HKEX revamps US$812m headquarters with new entrance, finance museum in Central
 Hong Kong Exchanges and Clearing (HKEX) will revamp its HK$6.3 billion (US$812 million) headquarters in June next year, as the bourse operator upgrades its facilities in a bid to boost its competitiveness as a leading initial public offerings market and a fixed-income and commodities trading hub. Th
@@ -153,14 +162,14 @@ Gold extended its downturn despite rising hopes for a diplomatic solution to Mid
 ## Charles Li on making Hong Kong a magnet for global IPOs
 Charles Li Xiaojia, the longest-serving CEO of Hong Kong Exchanges and Clearing (HKEX), defined a decade of city finance by bridging the gap between Chinese and global capital. From his early days as an offshore oil worker in northeastern China to serving as chairman of JPMorgan Chase’s China divisi
 
-## Appeal of China assets keeps rising among global investors, JPMorgan research says
-Global investors’ appetite for Chinese equities, companies and assets continues to rise owing to rapid technological advancements and low valuations in the world’s second-largest economy, according to JPMorgan Chase. Kwang Kam Shing, Hong Kong CEO and chair for North Asia at the biggest US bank, sai
+## The Madman Strikes Back
+Nixon’s theory on the power of unpredictability didn’t account for an actual madman adversary.
 
-## China’s drug regulator clears wave of home-grown innovative medicines amid biotech boom
-Home-grown innovative drugs make up most of the medicines China’s drug regulator has approved for sale so far this year, underscoring the country’s biotech boom. Of the 19 innovative drugs cleared by the National Medical Products Administration (NMPA), 15 came from domestic companies, according to t
+## Friedrich Merz Doesn’t Understand the EU
+Germany’s chancellor keeps complaining about the source of the continent’s power.
 
-## Hong Kong overtakes Switzerland as world’s largest cross-border wealth hub, BCG finds
-Hong Kong has overtaken Switzerland as the world’s largest cross-border wealth hub, driven by an initial public offering (IPO) bonanza and capital inflows from mainland China, according to Boston Consulting Group (BCG). Cross-border wealth booked in Hong Kong climbed 10.7 per cent in 2025 to US$2.95
+## Trump Should Just Admit He Screwed Up
+The Iran war was obviously a mistake. Why not say so?
 
 ## Can the U.S. End Nigeria’s Insurgency?
 Despite recent successful strikes, experts doubt the campaign’s long-term success.
@@ -176,15 +185,6 @@ Repairing Trump’s damage to bilateral ties will require more than a charm offe
 
 ## China Needs North Korea on Its Side
 A Xi visit to Pyongyang is likely soon, after a seven-year gap.
-
-## Inside the Struggle to Build an Iranian Opposition
-A new group is trying to create what its predecessors could not: an effective democratic force for Iran.
-
-## On AI, It’s the Pope vs. Trump
-The Vatican has made a frontal challenge to the Trump administration’s approach to technology.
-
-## Indonesia’s Dive Into Economic Nationalism
-A messy rollout looks set to disrupt global commodity markets.
 
 ## ICC Announces November 30 as Start Date for Trial of Former Philippine President
 Rodrigo Duterte faces three counts of crimes against humanity involving the murders of at least ⁠76 people during violent anti-drug crackdowns.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel kills children in strikes on Gaza as fear taints Eid joy
-As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.
+## Sinner shocked in French Open exit as Cerundolo recovers from two-sets down
+World number one Jannick Sinner beaten by 56th-ranked Argentinian opponent Juan Manuel Cerundolo at Roland Garros.
 
-## Ireland football coach urges players to ‘win this war’ against Israel
-Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.
+## Teenager Kouame matches Nadal 23-year record in stunning French Open win
+French teenager Moise Kouame, who became youngest Grand Slam match winner in first round, defeats Adolfo Daniel Vallejo.
 
-## Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup
-Marcelo Bielsa's demanding coaching style faces internal threat in Uruguay camp ahead of World Cup as results slide.
+## Anti-Immigrant anger grows in South Africa as migrants forced onto streets
+Foreign nationals in Durban say they’ve been forced from their homes and businesses.
 
-## Iran says it has a new air defence system. How significant is it?
-Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment.
+## South African president to face impeachment probe over ‘Farmgate’ scandal
+Impeachment committee to hold first meeting next week as President Cyril Ramaphosa challenges findings in court.
 
-## At least 16 students killed in fire at Kenya girls school dorm
-Education minister says 16 killed, 79 injured at Utumishi Girls School in Gilgil, central Kenya.
+## Gold Rush: Did CIA agent steal $40m in gold bars via work expenses?
+FBI says ex-CIA official David Rush repeatedly lied about his credentials in US government job applications.
 
-## Germany’s Voeller urges players to avoid political statements at World Cup
-German players urged not to repeat protests in 2026 following mouth covering in pre-match photos at Qatar World Cup.
+## Italy seizes $232m in Mafia assets tied to Cosa Nostra
+Probe uncovers luxury resorts and offshore wealth as government crackdown targets Mafia networks.
 
-## Children with Down syndrome struggle with devastation of war in Gaza
-Children with Down syndrome struggle with devastation of war in Gaza
+## Mamdani wears Arsenal thobe during Eid al-Adha celebrations
+Mamdani wears Arsenal thobe during Eid al-Adha celebrations
 
-## China’s secret weapon in AI race with US? Lots of cheap energy
-China's abundant supply of cheap electricity is a key advantage in the rollout of data centres needed to run AI models.
+## Why has Trump threatened to bomb Oman, amid Iran war escalation?
+The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
