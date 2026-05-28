@@ -36,6 +36,15 @@ The inside story on the Asia tech trends that matter, from Nikkei Asia and the F
 ## Exxon fracks its blue state exit
 The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas
 
+## Australia launches record $1.4 billion lawsuit against 3M over ‘forever chemicals’ at defence bases
+Australia filed the suit against 3M Company and its subsidiary 3M Australia in the Federal Court of Minnesota, where the company is based.
+
+## Bharat Taxi emerges as World's largest mobility cooperative with over 35 lakh users, 6 lakh drivers
+Platform offers zero commission to drivers and up to 15% lower fares for passengers under cooperative model
+
+## Timex Group India Delivers 3x Growth In 4 Years, Hits INR 800 Cr Revenue; FY 25-26 Defining Year Of Its Growth Journey
+Rise in Premium category, expanded brand portfolio, operating efficiency, and a strengthened manufacturing backbone are driving the company’s accelerated growth trajectory
+
 ## ASEAN Business Advisory Council (ASEAN-BAC) and AVPN Establish Regional Platform to Strengthen Corporate Social Investment and Cross-Sector Collaboration Across Southeast Asia
 
 
@@ -50,15 +59,6 @@ Addressing the parliament in Canberra, Albanese said India, which already has th
 
 ## Woodfield to export India’s first LNG marine loading arm from facility near Mumbai
 The company said it has successfully manufactured India’s first LNG Marine Loading Arm at its Asangaon facility, using the British firm’s design expertise and intellectual property along with Indian manufacturing infrastructure
-
-## Siddaramaiah to resign at 3 pm, DK Shivakumar will become CM: Karnataka minister HK Patil
-Leadership transition follows breakfast meeting amid speculation in Congress government after three years in office
-
-## OSM system backed by secure, robust IT platform, says CBSE
-Addressing students, the Board said on X that answer books are "safe" and have been processed through "multiple quality-control mechanisms"
-
-## Merck Foundation and Ghana First Lady Underscore Their Long-Term Partnership to Build Healthcare and Media Capacity, Stop Infertility Stigma and Support Girl Education
-
 
 ## Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
 Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo
@@ -108,6 +108,21 @@ Dharmendra Pradhan said the government acknowledges the discrepancies that took 
 ## Security tightened across India amid Eid-ul-Adha celebrations
 Scattered incidents of disputes over religious practices and public gatherings have prompted heightened vigilance by authorities across the country.
 
+## JAC Delhi 2026 Counselling: Registration opens for DTU, NSUT, IIIT-Delhi for BTech
+
+
+## Five rescued from flooded Laos cave, operation underway to find two missing villagers
+
+
+## Jr NTR visits NTR Ghat to mark grandfather NT Rama Rao’s 103rd birth anniversary
+
+
+## ‘No fault of hers’: Court directs SBI to refund widow’s pension cuts after Rs 3.6 lakh paid in excess due to bank error
+
+
+## Pradhan acknowledges ‘some discrepancies’ in CBSE Class 12th revaluation, promises transparency
+
+
 ## Shamita Shetty to troll questioning her unmarried status at 47: ‘What did you achieve?’
 
 
@@ -115,21 +130,6 @@ Scattered incidents of disputes over religious practices and public gatherings h
 
 
 ## My patient had high Vitamin B12 levels and fatty liver: Why high vitamin levels are clues to diseases
-
-
-## Honey Singh wears wig, says is ‘totally bald’ due to bipolar medications: Experts explain link
-
-
-## From stereotypes to global awards: Why Bidyut Kotoky tells Assam’s stories
-
-
-## Military intelligence tip-off leads to arrest of Andekar gang members with weapons in Ahilyanagar
-
-
-## UPSC Issue at a Glance | Decoding India’s 3F Challenge: Fuel, Fertiliser and Foreign Exchange
-
-
-## Habit, not the China threat, explains why the Quad endures
 
 
 ## Gold continues decline as inflation fears outweigh hope of end to Iran war
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australia charges alleged ISIL-linked woman after return from Syria
+Case follows repatriation of women and children held for years in Syrian camps without trial.
+
+## Iran and US trade attacks after Trump rejects report of Hormuz agreement
+IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.
+
 ## What’s happening on Iran war day 90 as US launches new strikes
 The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.
 
@@ -269,12 +275,6 @@ Some countries ban arrivals from affected countries while others step up screeni
 
 ## Ghana welcomes home citizens evacuated from South Africa
 The first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions.
-
-## Google employee charged with insider trading over Polymarket bets
-Michele Spagnuolo allegedly used insider information to profit from bets on people on Google's most-searched list.
-
-## Aid cuts and climate change drive deadly malaria surge in Zimbabwe
-A surge in malaria cases in Zimbabwe is exposing fragile health systems and growing treatment shortages in rural areas.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
