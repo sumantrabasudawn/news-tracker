@@ -1,6 +1,6 @@
 # AION Intelligence
 
-## US and Iran exchange fire amid increasingly strained ceasefire
+## US and Iran exchange fire amid increasingly strained truce
 Official says American forces shot down Iranian drones in move that prompted retaliation from Tehran
 
 ## Payments group accused of being ‘Chinese backdoor’ moves staff out of China
@@ -36,6 +36,15 @@ Acquisition comes as state-owned group looks to compete in British government ri
 ## AI boom squeezes optical tech and Huawei makes a chip comeback
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
+## Tata Motors launches new Tiago starting at ₹4.69 lakh
+For Tiago.ev, keeps introductory price at ₹6.99 and also available in BaaS option at ₹4.69 lakh
+
+## Sugar export ban: What does it mean for India and the global market? | EP 99 | Subramani Ra Mancombu
+Forex pressure behind sugar export ban: What you need to know.
+
+## Wipro and ServiceNow deepen AI partnership to automate enterprise workflows
+Under the agreement, Wipro will integrate its Wipro Intelligence platform — a unified suite of AI-powered tools and solutions — with the ServiceNow AI Platform
+
 ## Royal Enfield launches Bullet 650 at ₹3.64 lakh
 The motorcycle goes on sale across all authorised dealerships in India starting today and will be offered in two colour options — Cannon Black and Battleship Blue
 
@@ -50,15 +59,6 @@ Realisations fell sharply in FY26, with recoveries dropping to 22% in H2 FY26 fr
 
 ## Panchamrutha Industries launches fortified rice
 Panchamrutha Deluxe Fortified Rice enriched with 9 essential vitamins (A, B1, B2, B3, B6, and B12) and minerals (Folic Acid, Zinc, and Iron) launched in Bengaluru
-
-## IndoStar Capital posts ₹130 crore annual profit but Q4 loss deepens on massive SR provisioning
-Q4 net loss of ₹424 crore on higher provisions for legacy Security Receipts portfolio
-
-## Australia launches record $1.4 billion lawsuit against 3M over ‘forever chemicals’ at defence bases
-Australia filed the suit against 3M Company and its subsidiary 3M Australia in the Federal Court of Minnesota, where the company is based.
-
-## Bharat Taxi emerges as World's largest mobility cooperative with over 35 lakh users, 6 lakh drivers
-Platform offers zero commission to drivers and up to 15% lower fares for passengers under cooperative model
 
 ## Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
 Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo
@@ -108,6 +108,15 @@ Eid Al-Adha or Bakra Eid, which is being observed on May 28 this year, is a sign
 ## ‘Frustrated’: Govt hits back at Rahul Gandhi after LoP’s ‘tampering’ allegations against CBSE
 Rahul Gandhi alleged tampering in CBSE’s OSM system, but the board denied the claims. Pradhan says the LoP is frustrated due to repeated election losses.
 
+## Woman found dead at in-laws’ house in Gurgaon, husband among 5 booked for dowry death
+
+
+## Rs 50 lakh dowry, suspicious death, missing infant: Why high court stepped in to find 9-month-old
+
+
+## Indian-origin couple charged in Canada after baby’s remains found in Halifax woods
+
+
 ## JAC Delhi 2026 Counselling: Registration opens for DTU, NSUT, IIIT-Delhi for BTech
 
 
@@ -121,15 +130,6 @@ Rahul Gandhi alleged tampering in CBSE’s OSM system, but the board denied the 
 
 
 ## Education Minister acknowledges ‘some discrepancies’ in CBSE Class 12th revaluation, promises transparency
-
-
-## Shamita Shetty to troll questioning her unmarried status at 47: ‘What did you achieve?’
-
-
-## Google adds ‘Preferred Sources’ feature to AI Search for personalised content discovery
-
-
-## My patient had high Vitamin B12 levels and fatty liver: Why high vitamin levels are clues to diseases
 
 
 ## China’s brokerage crackdown: banks cut stock forecasts for Futu, Tiger
