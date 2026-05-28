@@ -1,12 +1,15 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
+
 <meta charset="UTF-8">
+
 <title>AION Command</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/png" href="../AION%20Logo.png">
 
 <style>
+
 body {
     margin: 0;
     background: #020617;
@@ -15,113 +18,86 @@ body {
 }
 
 .ticker {
-    height: 42px;
     background: #0f172a;
-    border-bottom: 1px solid #1e293b;
+    padding: 12px;
     overflow: hidden;
-    display: flex;
-    align-items: center;
     white-space: nowrap;
 }
 
-.ticker-track {
-    display: inline-block;
-    padding-left: 100%;
-    animation: tickerScroll 38s linear infinite;
-}
-
 .ticker span {
-    display: inline-block;
-    margin-right: 60px;
+    margin-right: 50px;
     font-size: 13px;
     font-weight: 600;
 }
 
-.up { color: #22c55e; }
-.down { color: #ef4444; }
+.up {
+    color: #22c55e;
+}
 
-@keyframes tickerScroll {
-    0% { transform: translateX(0%); }
-    100% { transform: translateX(-100%); }
+.down {
+    color: #ef4444;
 }
 
 .wrap {
-    max-width: 1180px;
+    max-width: 1280px;
     margin: auto;
-    padding: 64px 28px;
+    padding: 50px 30px;
 }
 
 .topline {
     color: #ff6a00;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
 }
 
 h1 {
-    font-size: 48px;
-    margin: 14px 0 8px;
-}
-
-.date {
-    color: #94a3b8;
-    font-size: 15px;
+    font-size: 46px;
 }
 
 .grid {
     display: grid;
-    grid-template-columns: 1.25fr 0.75fr;
-    gap: 26px;
-    margin-top: 42px;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 24px;
 }
 
 .card {
-    background: rgba(15, 23, 42, 0.72);
+    background: rgba(15,23,42,0.75);
     border: 1px solid #1e293b;
     border-radius: 16px;
-    padding: 28px;
+    padding: 24px;
     margin-bottom: 24px;
 }
 
 .section-label {
     color: #ff6a00;
-    font-size: 12px;
-    letter-spacing: 1.5px;
     text-transform: uppercase;
+    font-size: 12px;
     font-weight: 700;
-    margin-bottom: 18px;
+    margin-bottom: 14px;
 }
 
 .story {
-    padding-bottom: 18px;
-    margin-bottom: 18px;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
     border-bottom: 1px solid #1e293b;
 }
 
 .story:last-child {
     border-bottom: none;
-    margin-bottom: 0;
-    padding-bottom: 0;
 }
 
-h2 {
-    margin: 0 0 12px;
-    font-size: 24px;
-}
-
-h3 {
+.story h3 {
     margin: 0 0 8px;
-    font-size: 18px;
-    line-height: 1.45;
 }
 
-a {
-    color: #f8fafc;
+.story a {
+    color: white;
     text-decoration: none;
 }
 
-a:hover {
+.story a:hover {
     color: #ff6a00;
 }
 
@@ -133,365 +109,706 @@ a:hover {
 
 p {
     color: #cbd5e1;
-    font-size: 15.5px;
-    line-height: 1.7;
+    line-height: 1.75;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 12px;
 }
 
 td, th {
     border-bottom: 1px solid #1e293b;
-    padding: 12px 6px;
+    padding: 10px 6px;
     text-align: left;
-    font-size: 14px;
 }
 
-th {
-    color: #94a3b8;
-    font-weight: 600;
+ul {
+    padding-left: 18px;
 }
 
-.back {
-    display: inline-block;
-    margin-top: 30px;
-    color: #ff6a00;
-    text-decoration: none;
+li {
+    margin-bottom: 10px;
+    color: #cbd5e1;
 }
 
-@media(max-width: 850px) {
-    .grid {
-        grid-template-columns: 1fr;
-    }
-
-    h1 {
-        font-size: 36px;
-    }
-}
 </style>
+
 </head>
 
 <body>
 
 <div class="ticker">
-    <div class="ticker-track">
+
+        <span class="down">
+            NIFTY 50 23,907.15 ▼ 0.03%
+        </span>
         
-            <span class="down">
-                NIFTY 50 23,907.15 ▼ 0.03%
-            </span>
-            
-            <span class="down">
-                SENSEX 75,867.8 ▼ 0.19%
-            </span>
-            
-            <span class="up">
-                NASDAQ 26,674.73 ▲ 0.07%
-            </span>
-            
-            <span class="up">
-                S&P 500 7,520.36 ▲ 0.02%
-            </span>
-            
-            <span class="up">
-                BRENT 94.65 ▲ 0.38%
-            </span>
-            
-            <span class="down">
-                GOLD 4,412.5 ▼ 0.79%
-            </span>
-            
-            <span class="down">
-                USD/INR 95.68 ▼ 0.23%
-            </span>
-            
-            <span class="down">
-                INDIA VIX 14.98 ▼ 7.13%
-            </span>
-            
-            <span class="up">
-                DOLLAR INDEX 99.33 ▲ 0.12%
-            </span>
-            
-    </div>
+        <span class="down">
+            SENSEX 75,867.8 ▼ 0.19%
+        </span>
+        
+        <span class="up">
+            NASDAQ 26,674.73 ▲ 0.07%
+        </span>
+        
+        <span class="up">
+            S&P 500 7,520.36 ▲ 0.02%
+        </span>
+        
+        <span class="up">
+            BRENT 94.53 ▲ 0.25%
+        </span>
+        
+        <span class="down">
+            GOLD 4,422.0 ▼ 0.57%
+        </span>
+        
+        <span class="down">
+            USD/INR 95.68 ▼ 0.23%
+        </span>
+        
+        <span class="down">
+            INDIA VIX 14.98 ▼ 7.13%
+        </span>
+        
+        <span class="up">
+            DOLLAR INDEX 99.33 ▲ 0.12%
+        </span>
+        
 </div>
 
 <div class="wrap">
-    <div class="topline">AION Command</div>
-    <h1>Executive Intelligence Brief</h1>
-    <div class="date">Generated: 28 May 2026, 12:38 PM IST</div>
 
-    <div class="grid">
-        <div>
-            
-            <div class="card">
-                <div class="section-label">Markets & Macro</div>
-            
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149" target="_blank">AI boom outweighs Iran war pain, Korean central bank chief says</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 04:52</div>
-                    <p>Shin Hyun-song at first policymaking meeting projects boost to GDP on chip demand and surging stocks</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/5b08f298-f66e-4bd1-a5ea-dea3d7b9b1b1" target="_blank">Analysts’ views: forecasters dispute market view of likely policy at Fed and Bank of England</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 04:30</div>
-                    <p>Disconnect between money markets and the opinions of professional forecasters remained intact in May</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://timesofindia.indiatimes.com/business/india-business/sbi-chief-flags-inflation-growth-worries/articleshow/131361678.cms" target="_blank">SBI chief flags inflation, growth worries</a></h3>
-                    <div class="meta">Times of India Business 28 May 2026, 07:50</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://indianexpress.com/article/technology/gaming/james-bonds-007-first-light-price-platforms-gameplay-details-and-more-10711883/" target="_blank">James Bond’s 007 First Light: Price, platforms, gameplay details, and more</a></h3>
-                    <div class="meta">Indian Express Latest 28 May 2026, 06:54</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.scmp.com/business/banking-finance/article/3355055/hong-kong-overtakes-switzerland-worlds-largest-cross-border-wealth-hub-bcg-finds?utm_source=rss_feed" target="_blank">Hong Kong overtakes Switzerland as world’s largest cross-border wealth hub, BCG finds</a></h3>
-                    <div class="meta">SCMP Asia 27 May 2026, 11:16</div>
-                    <p>Hong Kong has overtaken Switzerland as the world’s largest cross-border wealth hub, driven by an initial public offering (IPO) bonanza and capital inflows from mainland China, according to Boston Consulting Group (BCG). Cross-border wealth booked in Hong Kong climbed 10.7 per cent in 2025 to US$2.95</p>
-                </div>
-                </div>
-            <div class="card">
-                <div class="section-label">Energy & Infrastructure</div>
-            
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/5befcbca-876a-43bd-adde-a9da7732d218" target="_blank">Ousted BP chair Albert Manifold hits out at ‘lies’ over his conduct</a></h3>
-                    <div class="meta">Financial Times Companies 28 May 2026, 06:47</div>
-                    <p>Executive says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/3c9d2424-bd71-4190-98d4-db32f6626ef4" target="_blank">Exxon fracks its blue state exit</a></h3>
-                    <div class="meta">Financial Times Companies 28 May 2026, 04:00</div>
-                    <p>The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.thehindubusinessline.com/brandhub/pr-release/28-black-energy-drink-expands-india-footprint-with-blinkit-launch/article71032297.ece" target="_blank">28 BLACK Energy Drink Expands India Footprint With Blinkit Launch</a></h3>
-                    <div class="meta">The Hindu BusinessLine 28 May 2026, 12:35</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.thehindubusinessline.com/brandhub/pr-release/india-amongst-front-runners-to-drive-ai-augmentation-demographic-shifts-amp-energy-security-in-the-apac-region-colliers-india/article71032072.ece" target="_blank">India amongst front-runners to drive AI augmentation, demographic shifts & energy security in the APAC region: Colliers India</a></h3>
-                    <div class="meta">The Hindu BusinessLine 28 May 2026, 12:32</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://timesofindia.indiatimes.com/business/international-business/oil-price-today-on-may-28-2026-three-months-of-hormuz-chaos-oil-prices-ease-amid-hopes-of-us-iran-peace-deal/articleshow/131361433.cms" target="_blank">Three months of Hormuz chaos: Oil prices jump 3% amid US-Iran standoff</a></h3>
-                    <div class="meta">Times of India Business 28 May 2026, 07:26</div>
-                    <p>Oil prices saw a dip as hopes for a US-Iran deal to ease Middle East tensions and reopen the Strait of Hormuz emerged. Despite earlier drops, crude prices are recovering slightly. President Trump emphasized his focus on preventing Iran's nuclear ambitions and ensuring the Strait's accessibility, war</p>
-                </div>
-                </div>
-            <div class="card">
-                <div class="section-label">Geopolitics</div>
-            
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/b0b16d69-15f6-4c35-bbb4-65633fe863a5" target="_blank">Payments group accused of being ‘Chinese backdoor’ moves staff out of China</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 06:42</div>
-                    <p>Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/de9e4ee6-a370-4934-a456-41bd10a60350" target="_blank">US carries out further strikes on Iran</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 06:25</div>
-                    <p>Official says increasingly strained ceasefire continues to hold</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/6a46db1b-4012-48fe-8150-14fdf4dcc8af" target="_blank">Semiconductors: supercycle or superbubble?</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 05:30</div>
-                    <p>Plus, semis’ fragile supply chain</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/96c8fa0f-d274-4a38-b417-a6e1864fc4a8" target="_blank">Australia sues Post-it maker 3M over ‘forever chemicals’</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 05:08</div>
-                    <p>The $1.4bn case against the US company is largest filed by Canberra</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/58c35c77-8ffa-45aa-b5d0-c1cdcd15c668" target="_blank">Brussels plans to start Ukraine’s EU membership negotiations in June</a></h3>
-                    <div class="meta">Financial Times World 28 May 2026, 05:00</div>
-                    <p>Also in this newsletter: EU tech companies demand Brussels boost digital sovereignty</p>
-                </div>
-                </div>
-            <div class="card">
-                <div class="section-label">Policy & Regulation</div>
-            
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/7bf7fc61-9518-4994-b3f5-69ed983de6bd" target="_blank">Belgian gunmaker FN Browning to buy UK sniper producer</a></h3>
-                    <div class="meta">Financial Times Companies 28 May 2026, 07:00</div>
-                    <p>Acquisition comes as state-owned group looks to compete in British government rifle tender</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.thehindubusinessline.com/news/national/siddaramaiah-hosts-breakfast-for-cabinet-colleagues-amid-buzz-over-his-exit-as-cm/article71031975.ece" target="_blank">Siddaramaiah hosts breakfast for cabinet colleagues, amid buzz over his exit as CM</a></h3>
-                    <div class="meta">The Hindu BusinessLine 28 May 2026, 12:23</div>
-                    <p>The Congress leadership has reportedly asking Siddaramaiah to make way for a leadership change in the state, and offered him a central role in the party with a Rajya Sabha seat</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://timesofindia.indiatimes.com/business/india-business/cabinet-okays-rs-25k-crore-scheme-to-modernise-pds-scheme/articleshow/131361403.cms" target="_blank">Cabinet okays Rs 25k crore scheme to modernise PDS scheme</a></h3>
-                    <div class="meta">Times of India Business 28 May 2026, 07:08</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://thediplomat.com/2026/05/north-korea-returns-to-the-south-via-womens-football/" target="_blank">North Korea Returns to the South Via Women’s Football</a></h3>
-                    <div class="meta">The Diplomat 27 May 2026, 23:02</div>
-                    <p>Under Pyongyang’s new “two states” policy, sports diplomacy has been repackaged as inter-state, not inter-Korean, exchanges.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.csis.org/events/fy2017-defense-budget-and-strategic-outlook" target="_blank">The FY2017 Defense Budget and Strategic Outlook</a></h3>
-                    <div class="meta">CSIS 29 Feb 2016, 18:48</div>
-                    <p>The FY2017 Defense Budget and Strategic Outlook Listing Summary Please join the CSIS International Security Program for a half-day Defense360 conference on the recently released FY2017 defense budget request and strategic priorities. Drupal Admin Mon, 02/29/2016 - 13:48 Featured Image Image Contribu</p>
-                </div>
-                </div>
-            <div class="card">
-                <div class="section-label">Corporate Signals</div>
-            
-                <div class="story">
-                    <h3><a href="https://cfo.economictimes.indiatimes.com/news/strategy-operations/allcargo-logistics-aims-for-3000-crore-revenue-by-fy30-through-enhanced-pricing-and-service-quality/131337208" target="_blank">Allcargo Logistics targets ₹3,000 cr revenue by FY30, CFO bets on pricing and service quality</a></h3>
-                    <div class="meta">ETCFO Top Stories 27 May 2026, 07:00</div>
-                    <p>Allcargo Logistics aims for over ₹3,000 crore revenue by FY30, driven by service quality and disciplined pricing, said CFO Deepak Pareek. Pareek also spoke on how the company is navigating fuel cost volatility, the pricing actions built into FY27 assumptions, segment-wise growth outlook within consu</p>
-                </div>
-                </div>
-            <div class="card">
-                <div class="section-label">Strategic Signals</div>
-            
-                <div class="story">
-                    <h3><a href="https://www.ft.com/content/0d9fe3e2-904f-494c-b10d-6292aebc334c" target="_blank">AI boom squeezes optical tech and Huawei makes a chip comeback</a></h3>
-                    <div class="meta">Financial Times Companies 28 May 2026, 06:20</div>
-                    <p>The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.thehindubusinessline.com/brandhub/pr-release/robosense-asserts-global-dominance-in-lidar-for-robotics-with-14588-yoy-shipment-surge-in-q1-2026/article71032239.ece" target="_blank">RoboSense Asserts Global Dominance in LiDAR for Robotics with 1,458.8% YoY Shipment Surge in Q1 2026</a></h3>
-                    <div class="meta">The Hindu BusinessLine 28 May 2026, 12:33</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://www.thehindubusinessline.com/markets/taiwan-stock-exchange-plans-longer-trading-hours-odd-lot-reform/article71032344.ece" target="_blank">Taiwan Stock Exchange plans longer trading hours, odd-lot reform</a></h3>
-                    <div class="meta">The Hindu BusinessLine 28 May 2026, 12:28</div>
-                    <p>Equities bourses around the world have embarked on a trend to lengthen trading hours to better capture investor flows</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://timesofindia.indiatimes.com/business/india-business/hyundai-to-hike-car-prices-from-june-1/articleshow/131361727.cms" target="_blank">Hyundai to hike car prices from June 1</a></h3>
-                    <div class="meta">Times of India Business 28 May 2026, 07:56</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                
-                <div class="story">
-                    <h3><a href="https://timesofindia.indiatimes.com/business/india-business/2025-26-foodgrain-production-estimated-at-record-376-mt/articleshow/131361553.cms" target="_blank">2025-26 foodgrain production estimated at record 376 MT</a></h3>
-                    <div class="meta">Times of India Business 28 May 2026, 07:33</div>
-                    <p>Summary unavailable from source feed.</p>
-                </div>
-                </div>
-        </div>
+<div class="topline">
+AION Command
+</div>
 
-        <div>
-            <div class="card">
-                <div class="section-label">Market Dashboard</div>
-                <h2>Live Ticker Snapshot</h2>
-                <table>
-                    <tr>
-                        <th>Asset</th>
-                        <th>Price</th>
-                        <th>Move</th>
-                    </tr>
-                    
-            <tr>
-                <td>NIFTY 50</td>
-                <td>23,907.15</td>
-                <td class="down">▼ 0.03%</td>
-            </tr>
+<h1>
+Executive Intelligence Brief
+</h1>
+
+<p>
+Generated: 28 May 2026, 01:16 PM IST
+</p>
+
+<div class="grid">
+
+<div>
+
+<div class="card">
+
+<div class="section-label">
+AION Intelligence Assessment
+</div>
+
+<p>
+AION’s latest read suggests that the current news flow is concentrated around Strategic Signals, Geopolitics, Markets & Macro. The immediate signal is not merely the number of stories, but the clustering of developments across markets, policy, geopolitics, energy and corporate activity.
+
+Markets remain sensitive to cross-asset signals from equities, crude, gold, the dollar index and currency movement. Any simultaneous movement in crude, the dollar and risk assets should be treated as an early warning indicator for volatility in capital flows and business sentiment.
+
+For India, the most important watchpoint is the interaction between global risk appetite, domestic macro resilience, policy visibility and sector-specific investment momentum. Energy, infrastructure, financial markets and regulation remain the most decision-relevant areas.
+
+The leadership implication is clear: decision-makers should not read today’s news as isolated headlines. They should watch whether these signals begin to reinforce each other across markets, policy and reputation.
+
+AION will continue to monitor whether the day’s developments create risk, opportunity or narrative shifts for enterprises, investors, policymakers and strategic communications teams.
+</p>
+
+</div>
+
+
+        <div class="card">
+        <div class="section-label">Energy & Infrastructure</div>
+        
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/5befcbca-876a-43bd-adde-a9da7732d218" target="_blank">
+                        Ousted BP chair Albert Manifold hits out at ‘lies’ over his conduct
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times Companies | 28 May 2026, 07:27
+                </div>
+
+                <p>Executive says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour</p>
+            </div>
             
-            <tr>
-                <td>SENSEX</td>
-                <td>75,867.8</td>
-                <td class="down">▼ 0.19%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/3c9d2424-bd71-4190-98d4-db32f6626ef4" target="_blank">
+                        Exxon fracks its blue state exit
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times Companies | 28 May 2026, 04:00
+                </div>
+
+                <p>The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas</p>
+            </div>
             
-            <tr>
-                <td>NASDAQ</td>
-                <td>26,674.73</td>
-                <td class="up">▲ 0.07%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://timesofindia.indiatimes.com/business/india-business/fuel-price-hike-and-omc-profits-are-indias-oil-firms-really-making-windfall-gains/articleshow/131364222.cms" target="_blank">
+                        Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Times of India Business | 28 May 2026, 12:48
+                </div>
+
+                <p>Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo</p>
+            </div>
             
-            <tr>
-                <td>S&P 500</td>
-                <td>7,520.36</td>
-                <td class="up">▲ 0.02%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://timesofindia.indiatimes.com/business/international-business/oil-price-today-on-may-28-2026-three-months-of-hormuz-chaos-oil-prices-ease-amid-hopes-of-us-iran-peace-deal/articleshow/131361433.cms" target="_blank">
+                        Three months of Hormuz chaos: Oil prices jump 3% amid US-Iran standoff
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Times of India Business | 28 May 2026, 07:26
+                </div>
+
+                <p>Oil prices saw a dip as hopes for a US-Iran deal to ease Middle East tensions and reopen the Strait of Hormuz emerged. Despite earlier drops, crude prices are recovering slightly. President Trump emphasized his focus on preventing Iran's nuclear ambitions and ensuring the Strait's accessibility, war</p>
+            </div>
             
-            <tr>
-                <td>BRENT</td>
-                <td>94.65</td>
-                <td class="up">▲ 0.38%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.scmp.com/business/china-business/article/3355136/gold-continues-decline-inflation-fears-outweigh-hopes-end-iran-war?utm_source=rss_feed" target="_blank">
+                        Gold continues decline as inflation fears outweigh hope of end to Iran war
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    SCMP Asia | 28 May 2026, 06:23
+                </div>
+
+                <p>Gold extended its downturn despite rising hopes for a diplomatic solution to Middle East tensions, as investors priced in a sticky inflationary trend that is being driven by the continued disruption of energy supplies and the resilience of the US economy. The price of the precious metal has dropped </p>
+            </div>
+            </div>
+        <div class="card">
+        <div class="section-label">Geopolitics</div>
+        
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/b0b16d69-15f6-4c35-bbb4-65633fe863a5" target="_blank">
+                        Payments group accused of being ‘Chinese backdoor’ moves staff out of China
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 06:42
+                </div>
+
+                <p>Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing</p>
+            </div>
             
-            <tr>
-                <td>GOLD</td>
-                <td>4,412.5</td>
-                <td class="down">▼ 0.79%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/de9e4ee6-a370-4934-a456-41bd10a60350" target="_blank">
+                        US carries out further strikes on Iran
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 06:25
+                </div>
+
+                <p>Official says increasingly strained ceasefire continues to hold</p>
+            </div>
             
-            <tr>
-                <td>USD/INR</td>
-                <td>95.68</td>
-                <td class="down">▼ 0.23%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/58c35c77-8ffa-45aa-b5d0-c1cdcd15c668" target="_blank">
+                        Brussels plans to start Ukraine’s EU membership negotiations in June
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 05:00
+                </div>
+
+                <p>Also in this newsletter: EU tech companies demand Brussels boost digital sovereignty</p>
+            </div>
             
-            <tr>
-                <td>INDIA VIX</td>
-                <td>14.98</td>
-                <td class="down">▼ 7.13%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/00482f89-32f0-412e-9366-2e26d4e54e27" target="_blank">
+                        FirstFT: Strong rouble strains Russian war economy
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 04:32
+                </div>
+
+                <p>Also in today’s newsletter: fresh Iran strikes and EU trade defences</p>
+            </div>
             
-            <tr>
-                <td>DOLLAR INDEX</td>
-                <td>99.33</td>
-                <td class="up">▲ 0.12%</td>
-            </tr>
+            <div class="story">
+                <h3>
+                    <a href="https://www.thehindubusinessline.com/news/world/australian-pm-hails-indias-economic-growth-looks-forward-to-hosting-modi-again/article71032372.ece" target="_blank">
+                        Australian PM hails India’s economic growth; looks forward to hosting Modi again
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    The Hindu BusinessLine | 28 May 2026, 12:57
+                </div>
+
+                <p>Addressing the parliament in Canberra, Albanese said India, which already has the largest population in the world, was set to become the third-largest economy over this decade.</p>
+            </div>
+            </div>
+        <div class="card">
+        <div class="section-label">Markets & Macro</div>
+        
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149" target="_blank">
+                        AI boom outweighs Iran war pain, Korean central bank chief says
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 04:52
+                </div>
+
+                <p>Shin Hyun-song at first policymaking meeting projects boost to GDP on chip demand and surging stocks</p>
+            </div>
             
-                </table>
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/5b08f298-f66e-4bd1-a5ea-dea3d7b9b1b1" target="_blank">
+                        Analysts’ views: forecasters dispute market view of likely policy at Fed and Bank of England
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 04:30
+                </div>
+
+                <p>Disconnect between money markets and the opinions of professional forecasters remained intact in May</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://timesofindia.indiatimes.com/business/india-business/sbi-chief-flags-inflation-growth-worries/articleshow/131361678.cms" target="_blank">
+                        SBI chief flags inflation, growth worries
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Times of India Business | 28 May 2026, 07:50
+                </div>
+
+                <p></p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://indianexpress.com/article/lifestyle/health/yo-yo-honey-singh-wears-wig-bald-bipolar-medications-experts-10711887/" target="_blank">
+                        Honey Singh wears wig, says is ‘totally bald’ due to bipolar medications: Experts explain link
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Indian Express Latest | 28 May 2026, 07:30
+                </div>
+
+                <p></p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.scmp.com/business/banking-finance/article/3355055/hong-kong-overtakes-switzerland-worlds-largest-cross-border-wealth-hub-bcg-finds?utm_source=rss_feed" target="_blank">
+                        Hong Kong overtakes Switzerland as world’s largest cross-border wealth hub, BCG finds
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    SCMP Asia | 27 May 2026, 11:16
+                </div>
+
+                <p>Hong Kong has overtaken Switzerland as the world’s largest cross-border wealth hub, driven by an initial public offering (IPO) bonanza and capital inflows from mainland China, according to Boston Consulting Group (BCG). Cross-border wealth booked in Hong Kong climbed 10.7 per cent in 2025 to US$2.95</p>
+            </div>
+            </div>
+        <div class="card">
+        <div class="section-label">Policy & Regulation</div>
+        
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/7bf7fc61-9518-4994-b3f5-69ed983de6bd" target="_blank">
+                        Belgian gunmaker FN Browning to buy UK sniper producer
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times Companies | 28 May 2026, 07:00
+                </div>
+
+                <p>Acquisition comes as state-owned group looks to compete in British government rifle tender</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.thehindubusinessline.com/news/national/siddaramaiah-to-resign-at-3-pm-dk-shivakumar-will-become-cm-karnataka-minister-hk-patil/article71032370.ece" target="_blank">
+                        Siddaramaiah to resign at 3 pm, DK Shivakumar will become CM: Karnataka minister HK Patil
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    The Hindu BusinessLine | 28 May 2026, 12:43
+                </div>
+
+                <p>Leadership transition follows breakfast meeting amid speculation in Congress government after three years in office</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.hindustantimes.com/india-news/centre-accepts-responsibility-for-cbse-osm-glitches-dharmendra-pradhan-corrective-measures-underway-101779951363675.html" target="_blank">
+                        Centre accepts responsibility for CBSE OSM glitches, corrective measures underway
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Hindustan Times India | 28 May 2026, 12:40
+                </div>
+
+                <p>Dharmendra Pradhan said the government acknowledges the discrepancies that took place during results, adding that it accepts responsibility.</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://thediplomat.com/2026/05/north-korea-returns-to-the-south-via-womens-football/" target="_blank">
+                        North Korea Returns to the South Via Women’s Football
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    The Diplomat | 27 May 2026, 23:02
+                </div>
+
+                <p>Under Pyongyang’s new “two states” policy, sports diplomacy has been repackaged as inter-state, not inter-Korean, exchanges.</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://warontherocks.com/what-everyone-is-missing-about-north-koreas-reunification-strategy/" target="_blank">
+                        What Everyone is Missing About North Korea’s Reunification Strategy
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    War on the Rocks | 28 May 2026, 07:15
+                </div>
+
+                <p>When news broke that North Korea had revised its constitution, analysts in the West and across the Korean Peninsula rushed to declare it the formal death of Korean reunification as a policy objective. The changes were hard to ignore. Pyongyang stripped all references to a unified Korean nation, codi</p>
+            </div>
+            </div>
+        <div class="card">
+        <div class="section-label">Strategic Signals</div>
+        
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/6a46db1b-4012-48fe-8150-14fdf4dcc8af" target="_blank">
+                        Semiconductors: supercycle or superbubble?
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 05:30
+                </div>
+
+                <p>Plus, semis’ fragile supply chain</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/96c8fa0f-d274-4a38-b417-a6e1864fc4a8" target="_blank">
+                        Australia sues Post-it maker 3M over ‘forever chemicals’
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times World | 28 May 2026, 05:08
+                </div>
+
+                <p>The $1.4bn case against the US company is largest filed by Canberra</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.ft.com/content/0d9fe3e2-904f-494c-b10d-6292aebc334c" target="_blank">
+                        AI boom squeezes optical tech and Huawei makes a chip comeback
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    Financial Times Companies | 28 May 2026, 06:20
+                </div>
+
+                <p>The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times</p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.thehindubusinessline.com/brandhub/pr-release/asean-business-advisory-council-asean-bac-and-avpn-establish-regional-platform-to-strengthen-corporate-social-investment-and-cross-sector-collaboration-across-southeast-asia/article71032374.ece" target="_blank">
+                        ASEAN Business Advisory Council (ASEAN-BAC) and AVPN Establish Regional Platform to Strengthen Corporate Social Investment and Cross-Sector Collaboration Across Southeast Asia
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    The Hindu BusinessLine | 28 May 2026, 13:09
+                </div>
+
+                <p></p>
+            </div>
+            
+            <div class="story">
+                <h3>
+                    <a href="https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-ashok-leyland-alkem-apar-bharat-dynamics-finolex-cables-graphite-india-jsw-lemon-tree-cummins-tvs-ramco-gillette-bata-physicswallah-results-28-may-2026/article71031888.ece" target="_blank">
+                        Q4 Results Today Live: Anup Engineering & Bata India Q4 profit decline, Ashok Leyland, Alkem Lab, Apar, BDL, Finolex Cables, Graphite India, JSW Holdings, Lemon Tree Hotels to announce Q4 results
+                    </a>
+                </h3>
+
+                <div class="meta">
+                    The Hindu BusinessLine | 28 May 2026, 13:03
+                </div>
+
+                <p>Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.</p>
+            </div>
             </div>
 
-            <div class="card">
-                <div class="section-label">System Status</div>
-                <h2>Content Automation Active</h2>
-                <p>
-                    AION Command is now pulling live RSS feeds, classifying stories into strategic sections,
-                    refreshing market data, and generating this page from the pipeline.
-                </p>
-            </div>
+</div>
 
-            <div class="card">
-                <div class="section-label">Next Upgrade</div>
-                <h2>GPT Synthesis Layer</h2>
-                <p>
-                    The next phase will convert this live news layer into a boardroom-grade intelligence brief
-                    with implications, watch-outs, and strategic interpretation.
-                </p>
-            </div>
-        </div>
-    </div>
+<div>
 
-    <a class="back" href="../index.html">← Back to AION Intelligence</a>
+<div class="card">
+
+<div class="section-label">
+What To Watch Over Next Few Hours
+</div>
+
+<ul>
+<li>Crude oil and dollar movement through the day</li><li>Indian equity-market breadth and FII/FPI flow signals</li><li>Any RBI, SEBI, government or ministry-level policy commentary</li><li>Geopolitical headlines from West Asia, China, Russia-Ukraine and US trade policy</li><li>Energy, infrastructure and capital-market stories with corporate exposure</li><li>Any sharp movement in gold, India VIX or bond-market sentiment</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<div class="section-label">
+Market Dashboard
+</div>
+
+<table>
+
+<tr>
+<th>Asset</th>
+<th>Price</th>
+<th>Move</th>
+</tr>
+
+
+        <tr>
+            <td>NIFTY 50</td>
+            <td>23907.15</td>
+            <td class="down">
+                ▼ 0.03%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>SENSEX</td>
+            <td>75867.8</td>
+            <td class="down">
+                ▼ 0.19%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>NASDAQ</td>
+            <td>26674.73</td>
+            <td class="up">
+                ▲ 0.07%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>S&P 500</td>
+            <td>7520.36</td>
+            <td class="up">
+                ▲ 0.02%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>BRENT</td>
+            <td>94.53</td>
+            <td class="up">
+                ▲ 0.25%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>GOLD</td>
+            <td>4422.0</td>
+            <td class="down">
+                ▼ 0.57%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>USD/INR</td>
+            <td>95.68</td>
+            <td class="down">
+                ▼ 0.23%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>INDIA VIX</td>
+            <td>14.98</td>
+            <td class="down">
+                ▼ 7.13%
+            </td>
+        </tr>
+        
+        <tr>
+            <td>DOLLAR INDEX</td>
+            <td>99.33</td>
+            <td class="up">
+                ▲ 0.12%
+            </td>
+        </tr>
+        
+
+</table>
+
+</div>
+
+<div class="card">
+
+<div class="section-label">
+Macro Dashboard
+</div>
+
+<table>
+
+<tr>
+<th>Indicator</th>
+<th>Latest</th>
+<th>Signal</th>
+</tr>
+
+
+        <tr>
+            <td>RBI Repo Rate</td>
+            <td>6.50%</td>
+            <td>Policy rate to watch</td>
+        </tr>
+        
+        <tr>
+            <td>US Fed Funds Rate</td>
+            <td>5.25%–5.50%</td>
+            <td>Global liquidity anchor</td>
+        </tr>
+        
+        <tr>
+            <td>India CPI</td>
+            <td>Update manually / connect source</td>
+            <td>Inflation trajectory</td>
+        </tr>
+        
+        <tr>
+            <td>US CPI</td>
+            <td>Update manually / connect source</td>
+            <td>Fed policy sensitivity</td>
+        </tr>
+        
+        <tr>
+            <td>India IIP</td>
+            <td>Update manually / connect source</td>
+            <td>Industrial momentum</td>
+        </tr>
+        
+        <tr>
+            <td>US Jobs Data</td>
+            <td>Update manually / connect source</td>
+            <td>Dollar and yield trigger</td>
+        </tr>
+        
+
+</table>
+
+</div>
+
+<div class="card">
+
+<div class="section-label">
+Data To Watch
+</div>
+
+<table>
+
+<tr>
+<th>Event</th>
+<th>Importance</th>
+<th>Why It Matters</th>
+</tr>
+
+
+        <tr>
+            <td>US inflation / PCE data</td>
+            <td>High</td>
+            <td>Can move Fed expectations, dollar and risk assets</td>
+        </tr>
+        
+        <tr>
+            <td>US jobs data</td>
+            <td>High</td>
+            <td>Important for yields, dollar and global equities</td>
+        </tr>
+        
+        <tr>
+            <td>RBI commentary / MPC signals</td>
+            <td>High</td>
+            <td>Relevant for India rates, banks and capital flows</td>
+        </tr>
+        
+        <tr>
+            <td>China PMI / growth data</td>
+            <td>Medium</td>
+            <td>Can affect commodities and Asia risk sentiment</td>
+        </tr>
+        
+        <tr>
+            <td>OPEC / crude supply signals</td>
+            <td>High</td>
+            <td>Directly relevant for India inflation and current account</td>
+        </tr>
+        
+        <tr>
+            <td>SEBI / IPO-market developments</td>
+            <td>Medium</td>
+            <td>Important for capital-market sentiment</td>
+        </tr>
+        
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 </body>
+
 </html>
