@@ -1,70 +1,79 @@
 # AION Intelligence
 
-## US core PCE inflation continues to rise
-Higher inflation in April is due to energy, tariffs and AI-related spending
+## Can the UK economy be revived? You asked, we answered
+Economics leader writer Tej Parikh and economics commentator Chris Giles replied to reader questions
 
-## Ministers must make fresh push for welfare reform says UK government adviser
-Number of young Britons out of work or training climbs above 1mn
+## EU wants crisis powers to seize control of chip supplies
+Chipmakers could be forced to override existing contracts under draft law
 
 ## Billionaire Tilman Fertitta to buy Caesars Entertainment in $17.6bn deal
 All-cash takeover will be one of the biggest gaming deals in years
 
-## Why Democrats are feeling optimistic in the US Senate race in Texas
-Also in today’s newsletter, how historically low tax refund numbers are adding more financial pressure for US consumers
+## Germany shifts on EU oversight of financial services
+Capital markets union ‘more important than clinging to national interests’, says finance minister
 
-## Can the UK economy be revived? You asked, we answered
-Economics leader writer Tej Parikh and economics commentator Chris Giles replied to reader questions
+## The Bethlehem Project Podcast: An immigration raid divides a community
+In this first episode, we explore how an immigration raid sent a chill through the community
 
-## US and Iran exchange fire amid increasingly strained truce
-Official says American forces shot down Iranian drones in move that prompted retaliation from Tehran
-
-## Meloni at odds with defence minister over EU rearmament loans
+## Meloni spars with defence minister over EU rearmament loans
 Italian PM threatens to reject bloc’s funding unless Brussels shows more leniency on energy crisis
 
-## How Texas utilities are preparing for more extreme storms
-The humble utility pole, a key part of the power distribution system, is getting an upgrade
+## EU to broaden import quotas and tariffs against China
+Trade defences needed to combat ‘existential’ threat to key sectors, industry commissioner Stéphane Séjourné says
 
-## Ousted BP chair clashed with company secretary
-Ben Mathews has taken time off work following upheaval at oil major
+## US core PCE inflation continues to rise
+Higher inflation in April is due to energy, tariffs and AI-related spending
 
-## Ex-SJP partners allege wealth manager took clients without paying
-Former advisers preparing legal action over claims St James’s Place failed to pay compensation after taking their business
+## Caesars’ billionaire buyer hopes luck and leverage go hand in hand
+Fertitta’s gamble looks like a long shot, given the casino operator and Las Vegas have both been struggling
 
-## EU fines China’s Temu €200mn for failing to prevent sale of illegal goods
-Online retailer becomes second company to be punished under bloc’s Digital Services Act after Elon Musk’s X
+## And just like that, the software apocalypse was over
+Snowflake’s stock pop demonstrates what companies must do to escape the sector downturn
 
-## Iraq faces summer blackouts
-Iran war has exposed oil-rich nation’s dependence on Iranian gas for electricity as temperatures exceed 45C
+## Iranian dissident news network received £650mn of debt relief
+Finances of UK-based broadcaster Iran International, a leading platform for opposition to regime, shored up by shareholders
 
-## FirstFT: Democrats’ hopes for victory in Texas rise after Paxton’s win
-Also in today’s newsletter: US hits Iran with fresh strikes while Kirkland & Ellis develops its own AI platform
+## SpaceX IPO boldly steps into the unknown of AI economics
+We still need to learn many things about the basic business model of frontier models
 
-## Manifold hits out at ‘lies’ over his conduct
-Albert Manifold says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour
+## BP should never have made Manifold chair
+The UK energy company’s board took an unwise gamble on a dominant executive
 
-## TCS, Mistral partner to become first Global Systems Integrator (GSI) for enterprises
-TCS will leverage Mistral Forge to build custom AI models for enterprises for better decision outcomes.
+## US and Iran agree to 60-day ceasefire extension, Trump approval pending
+The agreement comes amid repeated claims by the Trump administration that a deal to halt hostilities is close, even as Iran has occasionally disputed or downplayed such assertions
 
-## Global temperatures likely to remain near record high levels until 2030, says WMO report
-The report flags higher El Nino risks and recurring temporary 1.5°C threshold breaches globally
-
-## PB Fintech Co-founders plan ₹653.6-crore share sale via block deal
-According to the term sheet, the transaction involves the sale of up to 3.8 million shares, representing around 0.8 per cent of the company’s total outstanding shares
-
-## Illegal ads and scams outpace misinformation in ad violations: ASCI
-Offshore betting ads flout rules the most followed by realty, personal care and food and beverages
-
-## No need to reduce GST on flex-fuel vehicles: Tata Motors MD
-Rising fuel prices remain a key concern for the auto industry, says Chandra
-
-## Govt in damage control over NEET leak, CBSE evaluation row
+## ‘All of govt’ to ensure fair NEET re-exam, CBSE Class XII evaluation
 Air Force role in transporting NEET question paper mooted in high-level meet
-
-## The long wait for the chair: Inside DKS and Siddaramaiah’s political journeys
-Shivakumar and Karnataka Chief Minister Siddaramaiah jointly announced that the latter had tendered his resignation
 
 ## Ashok Leyland Q4 profit rises 11% as CV volumes hit record high
 Commercial vehicle volumes, light commercial vehicle sales and exports all touched record highs, while Switch Mobility and the company’s finance businesses also delivered strong growth
+
+## Fearsome dinosaur-era marine reptile dubbed the T. rex of the sea
+The study, based on fossil analysis, shows that the giant mosasaur lived around 80 million years ago in an inland sea that once split North America
+
+## Editorial. Fund of options
+Third-party MF payments fine, not salary deductions
+
+## Letters to the Editor dated May 28, 2026
+
+
+## India’s concert economy set to cross ₹15,000 crore amid live events boom
+The domestic Pro-AV and LED display markets are also witnessing steady expansion, reinforcing India’s position as a fast-growing entertainment economy
+
+## How AI is redefining the advertising ecosystem
+Advertisers leveraging AI can boost return on ad spends by up to 20 per cent
+
+## US homebuyers face fresh pressure as mortgage rates climb to 9-month high
+
+
+## India’s energy investment likely to reach record $170 bn in 2026: IEA
+
+
+## Reliance bets big on AI to reshape content, streaming and viewer engagement
+Reliance Industries is making artificial intelligence central to its media and entertainment strategy. The company aims to drive growth across streaming, television, and digital content. AI will redefine entertainment and audience engagement. Reliance is integrating AI into core operations for effic
+
+## Centre plans coal gasification-based urea policy to cut gas import dependence
+India is finalizing a new policy to boost urea production using coal gasification, aiming to slash reliance on imported natural gas and enhance self-sufficiency in fertilizer. This strategic move, expected within a month, leverages domestic coal reserves to secure vital agricultural inputs and conse
 
 ## US stock markets today (May 28, 2026): Wall Street stays near record highs despite fresh jump in oil prices
 Indian markets remained steady near record highs despite rising oil prices due to Iran tensions. Strong corporate earnings, particularly from Dollar Tree and Kohl's, bolstered investor confidence. While some companies faced headwinds from higher fuel costs, others like Snowflake saw significant gain
@@ -78,17 +87,20 @@ Indian markets remained steady near record highs despite rising oil prices due t
 ## LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary
 LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic
 
-## Labour codes and nomination processes: What employees need to know about securing their benefits
-Nomination assumes greater importance in the context of gratuity, given that it is a long-term benefit and often represents a significant financial entitlement.
+## ‘Highly objectionable’: FSSAI issues notice to IRCTC over viral video of utensils being ‘washed’ in train toilet
+The Food Safety and Standards Authority of India (FSSAI) termed the act, if true, objectionable as it could lead to food contamination.
 
-## Setback for Indian mango exports! Why Japan has stopped imports of Kesar, Alphonso, Langra & other varieties from India
-During 2025-26, Gujarat’s Kesar mango emerged as the biggest contributor to India’s mango exports to Japan, accounting for shipments worth nearly $0.2 million out of the total $1.54 million earned from fresh and processed mango exports to the country.
+## 5,000-10,000 infiltrators leave Bengal daily under BJP rule, says Amit Shah in Gujarat
+Union home minister Amit Shah, who is on three-day visit to Gujarat, alleged that while 5,000 to 10,000 people earlier entered Bengal daily, the same number were now “going back each day”
 
-## Payday pain: 81% of Indians hunting for better salary - what is their next move?
-A recent survey reveals that only 29% of Indian employees are satisfied with their salaries, with 81% planning to ask for a raise due to rising living costs. Millennials are most proactive, with 90% seeking increases, and a significant 68% of Indian respondents expect over a 10% pay rise, exceeding 
+## Myanmar President to visit India from May 30; trade, border security on agenda
+Myanmar President Min Aung Hlaing will arrive in India on Saturday for a visit, his first after the formation of a new government following elections in the neighbouring country
 
-## Rich families cut US dollar exposure as geopolitical tensions reshape investment strategy: UBS report
-Global wealth is shifting away from the US dollar, with wealthy families and their offices expressing declining confidence in its reserve currency status. Driven by geopolitical worries and sovereign debt concerns, nearly two-thirds anticipate a weaker dollar.
+## In a first, Centre may use armed forces for NEET-UG re-exam logistics on June 21
+The armed forces’ role would be confined to logistical coordination, secure transportation, and emergency contingencies linked to weather, not exam oversight
+
+## Ebola scare dismissed: Gujarat Health Minister confirms negative test results
+Gujarat Health Minister Praful Pansheriya on Thursday quelled public anxiety regarding a potential Ebola outbreak in the state.
 
 ## 20 years in Saudi jail, ₹34 crore blood money: Kerala man returns home after facing death sentence
 Abdul Rahim was jailed for allegedly causing the accidental death of a specially-abled Saudi boy whom he was supposed to be taking care of.
@@ -99,44 +111,32 @@ India and China expressed satisfaction over peace along the LAC during border ta
 ## Delhi airport, airlines issue advisory as heavy rain disrupts flight ops
 Weather in Delhi: In view of unfavourable weather conditions, the Delhi airport along with airlines have issued advisory for passangers.
 
-## Not interested in national politics, says Siddaramaiah after resigning as Karnataka CM
-Siddaramaiah, who made it clear that he was stepping down on instructions of the Congress leadership, said he would complete his term as an MLA in the state
-
-## Uttarakhand govt plans to regulate trekking, mountaineering under new framework
-Uttarakhand is considering mandatory registration, fitness certificates and stricter safety norms for trekking and mountaineering activities.
-
-## 5 Tamil Nadu tourists injured as amusement park ride collapses Keralam capital
-The mishap occurred at Happyland Amusement Park around 2 pm during peak holiday rush.
-
-## Heavy rain, thunderstorm in Delhi, parts of NCR, bring respite from intense heat
-Weather in Delhi: Heavy rain and thunderstorms lashed Delhi-NCR, bringing much-needed relief from scorching heat and lowering temperatures across the region.
-
-## Rahul Gandhi hits out at Centre over CBSE OSM row: ‘Attacks on me won’t absolve crimes’
-Dharmendra Pradhan earlier called Rahul Gandhi ‘frustrated’, accusing LoP of consistently opposing India’s technological and scientific advancements.
-
-## Shahana Goswami on open relationships and dating Milind Soman; expert weighs in
+## BREAKING: Hardik Pandya set to lose Mumbai Indians captaincy
 
 
-## Kerala High Court denies bail to Palakkad councillor for cheating orphan with fake job
+## 8 breathtaking pink lakes around the world
 
 
-## Why Shubman Gill’s strong IPL 2026 has revived his India T20I hopes
+## US reaches 60-day truce ‘deal’ with Iran, but Trump approval pending: Report
 
 
-## Rain lashes Delhi, flights operations likely to be hit
+## ‘Dushmani jam kar karo lekin…’ : Bashir Badr, poet who modernised the Urdu ghazal, passes away at 91
 
 
-## Chinese activist who fled on rubber boat lands in South Korean custody
+## Nhava Sheva transporters call off proposed stir after port authority meeting
 
 
-## Twisha Sharma death: New phase in investigation after ex-judge Giribala Singh’s arrest
+## ‘Nice it go so much attention’: Gukesh revisits Carlsen’s table slam one year later
 
 
-## ‘Hopefully, we will try to get him out at…’: GT’s Parthiv Patel on Sooryavanshi
+## Delhi man uses AI tools to morph pictures, videos of Gujarat woman, uploads them on social media, held
 
 
-## Uttarakhand High Court says compassionate appointment not ‘alternative recruitment mode’, rejects man’s re-appointment plea
+## Police arrest two from Indo-Pak border in 65 lakh jewellery theft case
 
+
+## China’s BYD aims for zero accidents with ‘God’s Eye’, vows crash cost coverage
+BYD, the world’s largest electric vehicle (EV) maker, has set its sights on achieving zero traffic accidents through self-developed autonomous driving technology, aiming to assemble next-generation cars affordable for mass consumers. Founder and chairman Wang Chuanfu told a press conference in Shenz
 
 ## Why MuleRun could be the next craze: new Alibaba AI agent platform promises safer adoption
 A new Chinese artificial intelligence agent platform is looking to replicate the “lobster craze” sparked by AI agent tool OpenClaw earlier this year, while avoiding some of the privacy and security risks associated with the open-source software. MuleRun, developed by Chinese tech giant Alibaba Group
@@ -159,8 +159,17 @@ Analysts lowered their valuations on Chinese online brokerages after Beijing unv
 ## Gold continues decline as inflation fears outweigh hope of end to Iran war
 Gold extended its downturn despite rising hopes for a diplomatic solution to Middle East tensions, as investors priced in a sticky inflationary trend that is being driven by the continued disruption of energy supplies and the resilience of the US economy. The price of the precious metal has dropped 
 
-## Charles Li on making Hong Kong a magnet for global IPOs
-Charles Li Xiaojia, the longest-serving CEO of Hong Kong Exchanges and Clearing (HKEX), defined a decade of city finance by bridging the gap between Chinese and global capital. From his early days as an offshore oil worker in northeastern China to serving as chairman of JPMorgan Chase’s China divisi
+## The Iran War Has Only Worsened Sudan’s Conflict
+The country is uniquely vulnerable to regional shocks.
+
+## Erdogan Is Forcibly Designing His Own Opposition
+Turkey is moving from repressing the opposition to reshaping it.
+
+## Cubans Abandon the American Dream
+As conditions on the island worsen, people are leaving—just not for the United States.
+
+## Bibi’s Manichean Politics
+Over three decades, Netanyahu’s pivot to divisive electioneering has paid off.
 
 ## The Madman Strikes Back
 Nixon’s theory on the power of unpredictability didn’t account for an actual madman adversary.
@@ -173,18 +182,6 @@ The Iran war was obviously a mistake. Why not say so?
 
 ## Can the U.S. End Nigeria’s Insurgency?
 Despite recent successful strikes, experts doubt the campaign’s long-term success.
-
-## Trump Accuses Iran of Stalling Peace Talks
-At the same time, the White House is optimistic that a deal to end the war is in reach.
-
-## Trump Is Making NATO Stronger, Lithuania’s Foreign Minister Says
-He also said NATO allies should “take their part” in the Iran war.
-
-## Rubio’s Visit Won’t Assuage India
-Repairing Trump’s damage to bilateral ties will require more than a charm offensive.
-
-## China Needs North Korea on Its Side
-A Xi visit to Pyongyang is likely soon, after a seven-year gap.
 
 ## ICC Announces November 30 as Start Date for Trial of Former Philippine President
 Rodrigo Duterte faces three counts of crimes against humanity involving the murders of at least ⁠76 people during violent anti-drug crackdowns.
@@ -210,6 +207,9 @@ Insights from James R. Holmes.
 ## Understanding Cambodia’s Scam Economy, with Jacob Sims
 The scam economy is an industrialized system that merges cyber fraud with human trafficking and money laundering, all thriving under political protection.
 
+## What Would Relations with Post-War Russia Look Like?
+Rose Gottemoeller joined Ryan in Washington. They discussed how the West might think about relations with Russia once the war with Ukraine ends, as well as nuclear diplomacy and other critical issues. Gottemoeller was the deputy secretary general of NATO and, before that, served as a senior State De
+
 ## Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains
 In 2024, when Jiangsu Delong, the world’s second-largest stainless-steel producer, filed for bankruptcy, several Chinese firms and state-owned enterprises quietly absorbed its Indonesian assets. Among them was China First Heavy Industries, a state-owned enterprise founded in 1954 as one of China’s e
 
@@ -230,9 +230,6 @@ Is it too late to stop criminals and American adversaries from exploiting AI to 
 
 ## The Road to Space Runs through the Poles
 Why are there more antennas on Svalbard than anywhere else on Earth? Svalbard of all places, where cats and childbirth are banned and there are more polar bears than people? This cluster of islands in the Arctic, one thousand kilometers from Norway, is key to everything from your weather forecast to
-
-## Leading in the Dark: How Submarine Commanders Think Under Uncertainty
-We had been tracking the contact for six hours.The acoustic signature was ambiguous. The geometry was incomplete. The tactical picture had shifted twice in the preceding hour.I ordered battle stations anyway. Not because I was certain, I was not. I ordered it because the decision window was closing.
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sinner shocked in French Open exit as Cerundolo recovers from two-sets down
-World number one Jannick Sinner beaten by 56th-ranked Argentinian opponent Juan Manuel Cerundolo at Roland Garros.
+## CNN sues Perplexity, alleging unlawful distribution of copyrighted content
+Perplexity unlawfully copied thousands of CNN stories, videos and images to power its products, CNN said in its lawsuit.
 
-## Teenager Kouame matches Nadal 23-year record in stunning French Open win
-French teenager Moise Kouame, who became youngest Grand Slam match winner in first round, defeats Adolfo Daniel Vallejo.
+## How War Changed Eid in Lebanon
+After nearly three years of war and displacement, Eid in Lebanon no longer feels like celebration for many families.
 
-## Anti-Immigrant anger grows in South Africa as migrants forced onto streets
-Foreign nationals in Durban say they’ve been forced from their homes and businesses.
+## UN ‘adds Israel to blacklist’ for conflict-related sexual violence
+Israeli ambassador to the UN says Tel Aviv will cut ties with UN chief Antonio Guterres over the upcoming report.
 
-## South African president to face impeachment probe over ‘Farmgate’ scandal
-Impeachment committee to hold first meeting next week as President Cyril Ramaphosa challenges findings in court.
+## Latvia parliament approves new gov’t after drone dispute toppled coalition
+Latvia's government reform ensures a pro-Western path as regional drone incidents heighten security concerns.
 
-## Gold Rush: Did CIA agent steal $40m in gold bars via work expenses?
-FBI says ex-CIA official David Rush repeatedly lied about his credentials in US government job applications.
+## US inflation surges to three-year high amid tensions with Iran
+Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.
 
-## Italy seizes $232m in Mafia assets tied to Cosa Nostra
-Probe uncovers luxury resorts and offshore wealth as government crackdown targets Mafia networks.
+## Smoke rises over Beirut after Israeli strike
+Footage shows smoke billowing over south Beirut following an Israeli attack on the Lebanese capital.
 
-## Mamdani wears Arsenal thobe during Eid al-Adha celebrations
-Mamdani wears Arsenal thobe during Eid al-Adha celebrations
+## Hundreds flee India crackdown on undocumented migrants
+Hundreds flee India crackdown on undocumented migrants
 
-## Why has Trump threatened to bomb Oman, amid Iran war escalation?
-The US president has issued a stark warning to a US ally, in a sign of rising tensions over Strait of Hormuz.
+## Fire kills 16 students at Kenyan girls’ boarding school
+At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
