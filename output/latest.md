@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## US and Iran exchange fire amid increasingly strained truce
-Official says American forces shot down Iranian drones in move that prompted retaliation from Tehran
+## Israel attacks Tyre in new strikes on southern Lebanon
+Escalation comes a day before two countries were set to hold ‘security talks’ in Washington
 
-## Payments group accused of being ‘Chinese backdoor’ moves staff out of China
-Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing
+## EU fines China’s Temu €200mn for failing to prevent sale of illegal goods
+Online retailer becomes second company to be punished under bloc’s Digital Services Act after Elon Musk’s X
 
-## Semiconductors: supercycle or superbubble?
-Plus, semis’ fragile supply chain
+## Farage is facing his own menace on the right
+The rise of Restore Britain may force Reform’s leader to switch strategies
 
-## Australia sues Post-it maker 3M over ‘forever chemicals’
-The $1.4bn case against the US company is largest filed by Canberra
+## Temperatures likely to breach record levels over next five years, WMO says
+Scientists put 91% chance of global average rise of more than 1.5C by 2030
 
-## Brussels plans to start Ukraine’s EU membership negotiations in June
-Also in this newsletter: EU tech companies demand Brussels boost digital sovereignty
+## Colombia’s erratic leader refuses to be a lame duck
+Scandals and social media spats have not dented Gustavo Petro’s popularity. As the end of his term nears, he plans to keep a hand in politics
 
-## AI boom outweighs Iran war pain, Korean central bank chief says
-Shin Hyun-song at first policymaking meeting projects boost to GDP on chip demand and surging stocks
+## Iraq faces summer blackouts as Iran war upends energy flows
+Conflict has exposed oil-rich nation’s dependence on Iranian gas for electricity as temperatures exceed 45C
 
-## FirstFT: Strong rouble strains Russian war economy
-Also in today’s newsletter: fresh Iran strikes and EU trade defences
+## A tale of two EU-US comparisons
+There is no well-defined single answer to whether the US has been outgrowing Europe
 
-## Analysts’ views: forecasters dispute market view of likely policy at Fed and Bank of England
-Disconnect between money markets and the opinions of professional forecasters remained intact in May
+## Submit your questions: How to revive the UK economy?
+Take part in a live Ask an Expert Q&A with economics leader writer Tej Parikh and economics commentator Chris Giles today from 1pm to 2pm (BST)
 
-## BDO fined £2mn for ‘pervasive breaches’ in audit of collapsed NMCN
-UK regulator says mistakes in work for construction company were ‘significant and serious’
+## FirstFT: Democrats’ hopes for victory in Texas rise after Paxton’s win
+Also in today’s newsletter: US hits Iran with fresh strikes while Kirkland & Ellis develops its own AI platform
 
 ## Ousted BP chair hits out at ‘lies’ over his conduct
 Albert Manifold says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour
 
+## BDO fined £2mn for ‘pervasive breaches’ in audit of collapsed NMCN
+UK regulator says mistakes in work for construction company were ‘significant and serious’
+
 ## Belgian gunmaker FN Browning to buy UK sniper producer
 Acquisition comes as state-owned group looks to compete in British government rifle tender
+
+## Payments group accused of being ‘Chinese backdoor’ moves staff out of China
+Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing
 
 ## AI boom squeezes optical tech and Huawei makes a chip comeback
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## Tata Motors launches new Tiago starting at ₹4.69 lakh
-For Tiago.ev, keeps introductory price at ₹6.99 and also available in BaaS option at ₹4.69 lakh
+## TCS partners with Mistral to build frontier-grade AI solutions for enterprises
+The partnership will initially focus on sectors such as BFSI, healthcare, manufacturing and the public sector, while TCS will also establish a dedicated centre of excellence to support joint innovation, AI deployment and talent development.
 
-## Sugar export ban: What does it mean for India and the global market? | EP 99 | Subramani Ra Mancombu
-Forex pressure behind sugar export ban: What you need to know.
-
-## Wipro and ServiceNow deepen AI partnership to automate enterprise workflows
-Under the agreement, Wipro will integrate its Wipro Intelligence platform — a unified suite of AI-powered tools and solutions — with the ServiceNow AI Platform
-
-## Royal Enfield launches Bullet 650 at ₹3.64 lakh
-The motorcycle goes on sale across all authorised dealerships in India starting today and will be offered in two colour options — Cannon Black and Battleship Blue
-
-## Q4 Results Today Live: Alkem Lab, Anup Engineering & Bata India Q4 profit decline, Ashok Leyland, Apar, BDL, Finolex Cables, Graphite India, JSW Holdings, Lemon Tree Hotels to announce Q4 results
+## Q4 Results Today Live: Ashok Leyland & JSW Holdings Q4 profit up, Graphite India reports Q4 loss, Bharat Dynamics, Alkem Lab & Anup Engineering profit down, Finolex Cables, Lemon Tree Hotels to announce Q4 results
 Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
 
-## CWG 2030 preparations: Sports Ministry to engage IT Consultants in NSFs
-The IT Consultants would be required to assist NSFs in the "smooth onboarding, operationalisation and coordination of digital systems under the NSDE framework”
+## H-1B returnees face cautious AI-led job market in India, say experts
+Despite an increase in Indian tech professionals returning from the US, the current hiring environment in India may not be suitable for large-scale absorption of H-1B talent, particularly in traditional IT roles
 
-## Halving of recoveries under IBC a cause for concern: ICRA
-Realisations fell sharply in FY26, with recoveries dropping to 22% in H2 FY26 from 63% in H2 FY25, according to an agency study
+## Small businesses record strongest growth since Covid despite rising cost pressures: Report
+Improvements in customer experience and technology adoption were identified as key drivers supporting business growth
 
-## Panchamrutha Industries launches fortified rice
-Panchamrutha Deluxe Fortified Rice enriched with 9 essential vitamins (A, B1, B2, B3, B6, and B12) and minerals (Folic Acid, Zinc, and Iron) launched in Bengaluru
+## Early May trends show weakening demand for commuter bikes and small cars
+Brokerages say demand is increasingly shifting toward fuel-efficient and premium segments as consumers become more cost-conscious.
+
+## IBM commits $5 billion to secure open-source software
+The initiative, called Project Lightwell, ​seeks to create a “clearinghouse” for open ⁠source security, establishing a model for managing risks across the software supply chain.
+
+## Siddaramaiah says he is resigning following Congress high command’s instructions
+Siddaramaiah arrived at Lok Bhavan to submit his resignation to Governor’s Special Secretary, Prabhushankar, after a breakfast meeting with Deputy Chief Minister DK Shivakumar, the frontrunner to succeed him
+
+## NHAI identifies 1,692.5 km of highway assets for monetisation in FY27
+Projects across nine States proposed to be monetised under TOT and InvIT modes
+
+## Rich families cut US dollar exposure as geopolitical tensions reshape investment strategy: UBS report
+Global wealth is shifting away from the US dollar, with wealthy families and their offices expressing declining confidence in its reserve currency status. Driven by geopolitical worries and sovereign debt concerns, nearly two-thirds anticipate a weaker dollar.
+
+## Banks are lenient with big borrowers, harsh with common people: Supreme Court slams SBI while refusing relief to defaulting company
+The matter was heard by a Bench of Justice Ahsanuddin Amanullah and Justice R. Mahadevan in a Special Leave Petition filed by M/s Bhaskar International Private Limited and others against SBI. M/s Bhaskar International Private Limited v. State Bank of India
+
+## Gold, silver price prediction: Where are gold & silver prices headed in the near future? Check MCX Gold, MCX Silver price outlook
+Gold and silver price prediction today: MCX Gold is showing a bearish bias and MCX Silver is consolidating this week, according to Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
 
 ## Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
 Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo
@@ -75,62 +90,59 @@ Your daily essentials, from shampoo to biscuits, are set to become pricier. A gl
 ## 2025-26 foodgrain production estimated at record 376 MT
 
 
-## Three months of Hormuz chaos: Oil prices jump 3% amid US-Iran standoff
-Oil prices saw a dip as hopes for a US-Iran deal to ease Middle East tensions and reopen the Strait of Hormuz emerged. Despite earlier drops, crude prices are recovering slightly. President Trump emphasized his focus on preventing Iran's nuclear ambitions and ensuring the Strait's accessibility, war
+## Famous Urdu poet Bashir Badr dies in Bhopal
+“Bashir Sahib left us… Prayers,” his wife, Rahat Badr, said in a social media post. He is survived by his wife and two children.
 
-## Cabinet okays Rs 25k crore scheme to modernise PDS scheme
+## ‘No double standards on terrorism’: Ajit Doval at Moscow security forum
+Ajit Doval said responsible nations must make clear choices on whether they support sponsors of terrorism or counter them with decisive action.
 
+## Global temperatures may hit record highs over next five years: WMO, UK Met
+WMO and UK Met Office warn global temperatures could remain at record levels through 2030, with rising risks of El Niño and Arctic warming.
 
-## AI, AI Express, IndiGo to slash 250 domestic flights a day
+## NHAI finalises 1,692.5km highway list for ₹30,000 cr FY27 monetisation push
+These 17 projects identified for FY26-27 exclude assets proposed for monetisation through the newly self-sponsored Raajmarg Infra Investment Trust (RIIT), which will be a separate monetisation vehicle
 
+## Siddaramaiah tenders resignation as Karnataka chief minister
+Siddaramaiah submitted his resignation to special secretary to Karnataka Governor Thaawarchand Gehlot as he is currently out of town.
 
-## Right to trauma care of citizens integral part of right to life: SC
-Right to trauma care of citizens integral part of right to life: SC
+## Another jolt to Mamata as TMC's Santanu Sen quits party post day after Kakoli Ghosh Dastidar
+Santanu Sen resignation, addressed to Mamata Banerjee, stated that his mind no longer agrees to support TMC as a national spokesperson on “immoral acts”.
 
-## 8 arrested for attack on ED officials after raid at ex-Kerala CM Pinarayi Vijayan's residence
-Around 300 people have been booked by the Kerala Police following the alleged attack on ED officials and security personnel.
+## 'Gujarat model has blown out': Akhilesh Yadav attacks BJP over UP power crisis
+Samajwadi Party's Akhilesh Yadav has criticised the ruling Party for electricity shortages and summer power cuts.
 
-## Can Siddaramaiah resign with Karnataka Governor out of town? Viral itinerary, and what rules say
-Attention has now shifted to whether Karnataka chief minister Siddaramaiah would be able to tender his resignation today.
+## 550 police personnel deployed, social media monitored to ensure peaceful Bakrid celebrations in Mumbai
+Officials said the deployment is aimed at maintaining communal harmony and ensuring that the festival passes off peacefully across the region.
 
-## ‘Didn’t expect controversy’: Academic behind controversial NCERT judiciary chapter says content was ‘correct’
-Danino said that the academics involved were disappointed with the NCERT's handling of the matter.
-
-## ‘Offence heinous’, 'she's not cooperating': Why MP high court quashed Giribala Singh's bail in late-night hearing
-Retired judge Giribala Singh is an accused in her daughter-in-law Twisha Sharma's death case over allegations of harassment, dowry demands.
-
-## ‘Never insult what others worship’: Kerala moulavi calls for unity on Eid-ul-Adha
-Eid Al-Adha or Bakra Eid, which is being observed on May 28 this year, is a significant Islamic festival also referred to as the 'festival of sacrifice'.
-
-## ‘BMC must act’: BJP leader alleges illegal animal slaughter in Mumbai localities on Bakrid
-Eid Al-Adha or Bakra Eid, which is being observed on May 28 this year, is a significant Islamic festival also referred to as the 'festival of sacrifice'.
-
-## ‘Frustrated’: Govt hits back at Rahul Gandhi after LoP’s ‘tampering’ allegations against CBSE
-Rahul Gandhi alleged tampering in CBSE’s OSM system, but the board denied the claims. Pradhan says the LoP is frustrated due to repeated election losses.
-
-## Woman found dead at in-laws’ house in Gurgaon, husband among 5 booked for dowry death
+## ‘We’re all for peace, but…’: Mistral CEO pushes back on Pope’s warning over AI warfare
 
 
-## Rs 50 lakh dowry, suspicious death, missing infant: Why high court stepped in to find 9-month-old
+## Sussanne Khan remembers late mom Zarine Khan on Eid al-Adha: ‘Missing you always’
 
 
-## Indian-origin couple charged in Canada after baby’s remains found in Halifax woods
+## Meta unveils ‘Plus’ tier subscriptions for Instagram, Facebook, WhatsApp alongside new AI plan trials
 
 
-## JAC Delhi 2026 Counselling: Registration opens for DTU, NSUT, IIIT-Delhi for BTech
+## Sharp rise in out-of-pocket health spending, 11% fall in government expenditure in FY23: Ministry report
 
 
-## Five rescued from flooded Laos cave, operation underway to find two missing villagers
+## Elderly couple found murdered at Maharashtra home, killer threw ash on bodies
 
 
-## Jr NTR visits NTR Ghat to mark grandfather NT Rama Rao’s 103rd birth anniversary
+## Kolkata Metro completes Aluminium third rail upgrade on underground Blue Line for faster train operations
 
 
-## ‘No fault of hers’: Court directs SBI to refund widow’s pension cuts after Rs 3.6 lakh paid in excess due to bank error
+## Knowledge Nugget | How countries join the WTO: From Application to Accession explained
 
 
-## Education Minister acknowledges ‘some discrepancies’ in CBSE Class 12th revaluation, promises transparency
+## Why Rajeev Khandelwal drinks tea in 56-year-old cups every morning
 
+
+## HKEX revamps US$812m headquarters with new entrance, finance museum in Central
+Hong Kong Exchanges and Clearing (HKEX) will revamp its HK$6.3 billion (US$812 million) headquarters in June next year, as the bourse operator upgrades its facilities in a bid to boost its competitiveness as a leading initial public offerings market and a fixed-income and commodities trading hub. Th
+
+## China’s MiniMax records 1-million client base, fivefold growth in half a year
+Chinese artificial intelligence (AI) company MiniMax says it recorded a fivefold surge in its global enterprise and developer client base over the past six months, highlighting the sharp expansion of its international footprint, even as the Hong Kong-listed firm grapples with widening financial loss
 
 ## China’s brokerage crackdown: banks cut stock forecasts for Futu, Tiger
 Analysts lowered their valuations on Chinese online brokerages after Beijing unveiled a crackdown on unauthorised cross-border securities businesses, warning the tighter rules could slow profit growth and raise overseas customer acquisition costs. CCB International on Wednesday cut its target price 
@@ -142,19 +154,13 @@ Gold extended its downturn despite rising hopes for a diplomatic solution to Mid
 Charles Li Xiaojia, the longest-serving CEO of Hong Kong Exchanges and Clearing (HKEX), defined a decade of city finance by bridging the gap between Chinese and global capital. From his early days as an offshore oil worker in northeastern China to serving as chairman of JPMorgan Chase’s China divisi
 
 ## Appeal of China assets keeps rising among global investors, JPMorgan research says
-Global investors’ appetite for Chinese equities, companies and assets continues to rise owing to rapid technological advancements and low valuations in the world’s second-largest economy, according to JPMorgan Chase. Kwang Kam Shing, chairwoman for North Asia at the biggest US bank, said that foreig
+Global investors’ appetite for Chinese equities, companies and assets continues to rise owing to rapid technological advancements and low valuations in the world’s second-largest economy, according to JPMorgan Chase. Kwang Kam Shing, Hong Kong CEO and chair for North Asia at the biggest US bank, sai
 
 ## China’s drug regulator clears wave of home-grown innovative medicines amid biotech boom
 Home-grown innovative drugs make up most of the medicines China’s drug regulator has approved for sale so far this year, underscoring the country’s biotech boom. Of the 19 innovative drugs cleared by the National Medical Products Administration (NMPA), 15 came from domestic companies, according to t
 
 ## Hong Kong overtakes Switzerland as world’s largest cross-border wealth hub, BCG finds
 Hong Kong has overtaken Switzerland as the world’s largest cross-border wealth hub, driven by an initial public offering (IPO) bonanza and capital inflows from mainland China, according to Boston Consulting Group (BCG). Cross-border wealth booked in Hong Kong climbed 10.7 per cent in 2025 to US$2.95
-
-## Alibaba’s new AI model scores higher than OpenAI, Google rivals in coding ranking
-Alibaba Group Holding’s latest artificial intelligence model has clinched a top-tier spot on a major global coding leaderboard, making the Chinese technology giant the only developer other than Anthropic to break into the ranking’s top five spots. Qwen3.7-Max, Alibaba’s latest AI model, scored 1,541
-
-## A 30% rally in BOE Tech shows how AI buildout can galvanise Chinese LCD maker
-BOE Technology is on investors’ radar screens again after announcing its foray into a business linked to artificial intelligence infrastructure, causing the stock price of the Chinese maker of liquid-crystal displays (LCDs) to rally following years of listlessness. Yuan-denominated shares of the wor
 
 ## Can the U.S. End Nigeria’s Insurgency?
 Despite recent successful strikes, experts doubt the campaign’s long-term success.
@@ -180,6 +186,18 @@ The Vatican has made a frontal challenge to the Trump administration’s approac
 ## Indonesia’s Dive Into Economic Nationalism
 A messy rollout looks set to disrupt global commodity markets.
 
+## ICC Announces November 30 as Start Date for Trial of Former Philippine President
+Rodrigo Duterte faces three counts of crimes against humanity involving the murders of at least ⁠76 people during violent anti-drug crackdowns.
+
+## The Strategic Corridor Turning Singapore Into China’s Indispensable Partner
+Beijing’s New International Land-Sea Trade Corridor is emerging as a strategic supply line for Beijing – and Singapore helped design it.
+
+## Singaporean Foreign Minister Winds Up Working Visit to North Korea
+The visit, which coincided with the 50th anniversary of relations between the two countries, came as part of a tour that also included stops in China and South Korea.
+
+## Where Does Bangladesh’s Once Dominant Awami League Stand Today?
+The former ruling party, once a mainstay of Bangladeshi politics, has largely disappeared from public political life. But its leaders remain defiant.
+
 ## A Textbook Debate: Why Russian Historians Told Kyrgyz Historians to Ditch the Term ‘Colonialism’
 If legitimacy is tied to history, then exactly how that history is interpreted matters beyond conference rooms packed with historians.
 
@@ -191,18 +209,6 @@ Insights from James R. Holmes.
 
 ## Understanding Cambodia’s Scam Economy, with Jacob Sims
 The scam economy is an industrialized system that merges cyber fraud with human trafficking and money laundering, all thriving under political protection.
-
-## North Korea Returns to the South Via Women’s Football
-Under Pyongyang’s new “two states” policy, sports diplomacy has been repackaged as inter-state, not inter-Korean, exchanges.
-
-## The South Korea-US Alliance: What Comes After OPCON?
-OPCON transfer is not an agreement on how to separate. It's a renewed commitment that makes necessary updates to a 70-year-old framework.
-
-## The West Indulges China in Its Backing for Russia Against Ukraine
-With democracies having little appetite to take on any economic risk, China’s support for Russia continues, and so too does the war.
-
-## What the Trump-Xi Summit Means for Africa
-The détente may well have bought the world some time that can be usefully spent strategically. How can African countries respond?
 
 ## Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains
 In 2024, when Jiangsu Delong, the world’s second-largest stainless-steel producer, filed for bankruptcy, several Chinese firms and state-owned enterprises quietly absorbed its Indonesian assets. Among them was China First Heavy Industries, a state-owned enterprise founded in 1954 as one of China’s e
@@ -252,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Australia charges alleged ISIL-linked woman after return from Syria
-Case follows repatriation of women and children held for years in Syrian camps without trial.
+## Israel kills children in strikes on Gaza as fear taints Eid joy
+As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.
 
-## Iran and US trade attacks after Trump rejects report of Hormuz agreement
-IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.
+## Ireland football coach urges players to ‘win this war’ against Israel
+Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.
 
-## What’s happening on Iran war day 90 as US launches new strikes
-The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.
+## Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup
+Marcelo Bielsa's demanding coaching style faces internal threat in Uruguay camp ahead of World Cup as results slide.
 
-## Morocco tops Africa’s industrialisation index for first time
-North Africa leads Africa’s industrialisation, but continent-wide gains remain slow and uneven.
+## Iran says it has a new air defence system. How significant is it?
+Iran’s claimed drone interception has renewed attention on Tehran’s military capabilities after months of bombardment.
 
-## Palestinian graduates in the West Bank enter a collapsed job market
-Youth joblessness among West Bank graduates has nearly hit 40 percent. Many wonder what the degrees are worth.
+## At least 16 students killed in fire at Kenya girls school dorm
+Education minister says 16 killed, 79 injured at Utumishi Girls School in Gilgil, central Kenya.
 
-## Vaibhav Sooryavanshi hailed as a once-in-a-lifetime talent after IPL blitz
-Cricket greats, writers and broadcasters hail 15-year-old Rajasthan Royals opener after his 29-ball 97 in IPL playoffs.
+## Germany’s Voeller urges players to avoid political statements at World Cup
+German players urged not to repeat protests in 2026 following mouth covering in pre-match photos at Qatar World Cup.
 
-## Ebola outbreak: What travel restrictions have countries imposed?
-Some countries ban arrivals from affected countries while others step up screening in bid to contain rare strain.
+## Children with Down syndrome struggle with devastation of war in Gaza
+Children with Down syndrome struggle with devastation of war in Gaza
 
-## Ghana welcomes home citizens evacuated from South Africa
-The first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions.
+## China’s secret weapon in AI race with US? Lots of cheap energy
+China's abundant supply of cheap electricity is a key advantage in the rollout of data centres needed to run AI models.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
