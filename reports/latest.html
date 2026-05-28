@@ -1,203 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AION Command</title>
-  <link rel="icon" type="image/png" href="../AION%20Logo.png">
-  <style>
-    body {
-      margin: 0;
-      background: #020617;
-      color: #f8fafc;
-      font-family: "Segoe UI", Arial, sans-serif;
-    }
-    .ticker {
-      width: 100%;
-      height: 42px;
-      background: #0f172a;
-      border-bottom: 1px solid #1e293b;
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-      white-space: nowrap;
-    }
-    .ticker-track {
-      display: inline-block;
-      padding-left: 100%;
-      animation: tickerScroll 38s linear infinite;
-    }
-    .ticker span {
-      display: inline-block;
-      margin-right: 60px;
-      font-size: 13px;
-      font-weight: 500;
-    }
-    .up { color: #22c55e; }
-    .down { color: #ef4444; }
-    @keyframes tickerScroll {
-      0% { transform: translateX(0%); }
-      100% { transform: translateX(-100%); }
-    }
-    .wrap {
-      max-width: 1100px;
-      margin: auto;
-      padding: 70px 28px;
-    }
-    .topline {
-      color: #ff6a00;
-      font-size: 14px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      margin-bottom: 18px;
-    }
-    h1 {
-      font-size: 48px;
-      margin: 0;
-      letter-spacing: 1px;
-    }
-    .date {
-      color: #94a3b8;
-      margin-top: 14px;
-      font-size: 16px;
-    }
-    .card {
-      margin-top: 45px;
-      background: rgba(15, 23, 42, 0.65);
-      border: 1px solid #1e293b;
-      border-radius: 14px;
-      padding: 30px;
-    }
-    h2 {
-      color: #ff6a00;
-      margin-top: 0;
-    }
-    p {
-      color: #cbd5e1;
-      line-height: 1.8;
-      font-size: 17px;
-    }
+<meta charset="UTF-8">
+<title>AION Command</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="../AION%20Logo.png">
+
+<style>
+body {
+    margin: 0;
+    background: #020617;
+    color: #f8fafc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ticker {
+    height: 42px;
+    background: #0f172a;
+    border-bottom: 1px solid #1e293b;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.ticker-track {
+    display: inline-block;
+    padding-left: 100%;
+    animation: tickerScroll 38s linear infinite;
+}
+
+.ticker span {
+    display: inline-block;
+    margin-right: 60px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.up { color: #22c55e; }
+.down { color: #ef4444; }
+
+@keyframes tickerScroll {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+}
+
+.wrap {
+    max-width: 1180px;
+    margin: auto;
+    padding: 64px 28px;
+}
+
+.topline {
+    color: #ff6a00;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 14px 0 8px;
+}
+
+.date {
+    color: #94a3b8;
+    font-size: 15px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 26px;
+    margin-top: 42px;
+}
+
+.card {
+    background: rgba(15, 23, 42, 0.72);
+    border: 1px solid #1e293b;
+    border-radius: 16px;
+    padding: 28px;
+    margin-bottom: 24px;
+}
+
+.section-label {
+    color: #ff6a00;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin: 0 0 12px;
+    font-size: 24px;
+}
+
+p {
+    color: #cbd5e1;
+    font-size: 16px;
+    line-height: 1.75;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+}
+
+td, th {
+    border-bottom: 1px solid #1e293b;
+    padding: 12px 6px;
+    text-align: left;
+    font-size: 14px;
+}
+
+th {
+    color: #94a3b8;
+    font-weight: 600;
+}
+
+.back {
+    display: inline-block;
+    margin-top: 30px;
+    color: #ff6a00;
+    text-decoration: none;
+}
+
+@media(max-width: 850px) {
     .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 22px;
-      margin-top: 28px;
+        grid-template-columns: 1fr;
     }
-    .mini {
-      background: #0f172a;
-      border: 1px solid #1e293b;
-      border-radius: 12px;
-      padding: 22px;
+
+    h1 {
+        font-size: 36px;
     }
-    .mini h3 {
-      margin-top: 0;
-      color: #f8fafc;
-    }
-    .mini p {
-      font-size: 15px;
-      color: #94a3b8;
-    }
-    a {
-      color: #ff6a00;
-      text-decoration: none;
-    }
-  </style>
+}
+</style>
 </head>
 
 <body>
 
-  <div class="ticker">
-    <div id="ticker-track" class="ticker-track">
-      <span>Loading Market Intelligence...</span>
+<div class="ticker">
+    <div class="ticker-track">
+        
+            <span class="down">
+                NIFTY 50 23,907.15 ▼ 0.03%
+            </span>
+            
+            <span class="down">
+                SENSEX 75,867.8 ▼ 0.19%
+            </span>
+            
+            <span class="up">
+                NASDAQ 26,674.73 ▲ 0.07%
+            </span>
+            
+            <span class="up">
+                S&P 500 7,520.36 ▲ 0.02%
+            </span>
+            
+            <span class="up">
+                BRENT 94.87 ▲ 0.62%
+            </span>
+            
+            <span class="down">
+                GOLD 4,412.2 ▼ 0.79%
+            </span>
+            
+            <span class="down">
+                USD/INR 95.68 ▼ 0.23%
+            </span>
+            
+            <span class="down">
+                INDIA VIX 14.98 ▼ 7.13%
+            </span>
+            
+            <span class="up">
+                DOLLAR INDEX 99.35 ▲ 0.14%
+            </span>
+            
     </div>
-  </div>
+</div>
 
-  <div class="wrap">
+<div class="wrap">
     <div class="topline">AION Command</div>
-    <h1>Morning Intelligence Brief</h1>
-    <div class="date">Latest Command Page • Live Market Layer Connected</div>
-
-    <div class="card">
-      <h2>Executive View</h2>
-      <p>
-        AION Command is now being transitioned from a dated static report into a live strategic intelligence interface. 
-        The market ticker is connected to the current data layer, while the next step is to connect the daily news pipeline 
-        and automated briefing engine into this Command surface.
-      </p>
-      <p>
-        This page is now the stable destination for the homepage button. Every future briefing should overwrite this file:
-        <strong>reports/latest.html</strong>.
-      </p>
-    </div>
+    <h1>Executive Intelligence Brief</h1>
+    <div class="date">Generated: 28 May 2026, 12:18 PM IST</div>
 
     <div class="grid">
-      <div class="mini">
-        <h3>Markets</h3>
-        <p>Live ticker layer connected through output/market_data.csv.</p>
-      </div>
+        <div>
+            
+        <div class="card">
+            <div class="section-label">Executive Signal</div>
+            <h2>AION Command is now active</h2>
+            <p>The intelligence surface is now connected to the pipeline and will generate a fresh command page whenever the system is run.</p>
+        </div>
+        
+        <div class="card">
+            <div class="section-label">Markets</div>
+            <h2>Market layer refreshed</h2>
+            <p>The AION ticker is now powered through Yahoo Finance and written into the live data layer.</p>
+        </div>
+        
+        <div class="card">
+            <div class="section-label">Next Build</div>
+            <h2>GPT synthesis layer pending full activation</h2>
+            <p>The next build stage will connect RSS ingestion and GPT-generated strategic interpretation into this page.</p>
+        </div>
+        
 
-      <div class="mini">
-        <h3>Strategic Signals</h3>
-        <p>Designed to integrate news flow, geopolitics, sector shifts, policy signals, and reputation events.</p>
-      </div>
+            <div class="card">
+                <div class="section-label">Strategic Watch</div>
+                <h2>Next 24 Hours</h2>
+                <p>
+                    Monitor market direction, energy prices, currency movement, India policy signals,
+                    geopolitical stress points, and corporate reputation triggers. The next upgrade will
+                    replace this system-generated note with full GPT-led synthesis from live news feeds.
+                </p>
+            </div>
+        </div>
 
-      <div class="mini">
-        <h3>Next Build</h3>
-        <p>Connect fresh daily reports, charts, archive indexing, and Claude/GPT orchestration.</p>
-      </div>
+        <div>
+            <div class="card">
+                <div class="section-label">Market Dashboard</div>
+                <h2>Live Ticker Snapshot</h2>
+                <table>
+                    <tr>
+                        <th>Asset</th>
+                        <th>Price</th>
+                        <th>Move</th>
+                    </tr>
+                    
+            <tr>
+                <td>NIFTY 50</td>
+                <td>23,907.15</td>
+                <td class="down">▼ 0.03%</td>
+            </tr>
+            
+            <tr>
+                <td>SENSEX</td>
+                <td>75,867.8</td>
+                <td class="down">▼ 0.19%</td>
+            </tr>
+            
+            <tr>
+                <td>NASDAQ</td>
+                <td>26,674.73</td>
+                <td class="up">▲ 0.07%</td>
+            </tr>
+            
+            <tr>
+                <td>S&P 500</td>
+                <td>7,520.36</td>
+                <td class="up">▲ 0.02%</td>
+            </tr>
+            
+            <tr>
+                <td>BRENT</td>
+                <td>94.87</td>
+                <td class="up">▲ 0.62%</td>
+            </tr>
+            
+            <tr>
+                <td>GOLD</td>
+                <td>4,412.2</td>
+                <td class="down">▼ 0.79%</td>
+            </tr>
+            
+            <tr>
+                <td>USD/INR</td>
+                <td>95.68</td>
+                <td class="down">▼ 0.23%</td>
+            </tr>
+            
+            <tr>
+                <td>INDIA VIX</td>
+                <td>14.98</td>
+                <td class="down">▼ 7.13%</td>
+            </tr>
+            
+            <tr>
+                <td>DOLLAR INDEX</td>
+                <td>99.35</td>
+                <td class="up">▲ 0.14%</td>
+            </tr>
+            
+                </table>
+            </div>
+
+            <div class="card">
+                <div class="section-label">System Status</div>
+                <h2>Pipeline Active</h2>
+                <p>
+                    AION Command is now generated by the local pipeline. Each run of
+                    <strong>python src/main.py</strong> refreshes market data and rebuilds this page.
+                </p>
+            </div>
+        </div>
     </div>
 
-    <div class="card">
-      <h2>System Note</h2>
-      <p>
-        This placeholder replaces the old 26 April report. The architecture is now correct: 
-        homepage → reports/latest.html. The next build step is to make the AION pipeline generate this page automatically.
-      </p>
-      <p><a href="../index.html">← Back to AION Intelligence</a></p>
-    </div>
-  </div>
-
-  <script>
-    async function loadTicker() {
-      try {
-        const res = await fetch("../output/market_data.csv?t=" + Date.now());
-
-        if (!res.ok) {
-          throw new Error("Market data file not found");
-        }
-
-        const text = await res.text();
-        const rows = text.trim().split("\n").slice(1);
-
-        let tickerHTML = "";
-
-        rows.forEach(row => {
-          const [asset, price, change] = row.split(",");
-          if (!asset || !price || !change) return;
-
-          const changeNum = parseFloat(change) * 100;
-          const direction = changeNum >= 0 ? "up" : "down";
-          const arrow = changeNum >= 0 ? "▲" : "▼";
-
-          tickerHTML += `
-            <span class="${direction}">
-              ${asset} ${parseFloat(price).toLocaleString(undefined, { maximumFractionDigits: 2 })}
-              ${arrow} ${Math.abs(changeNum).toFixed(2)}%
-            </span>
-          `;
-        });
-
-        document.getElementById("ticker-track").innerHTML =
-          tickerHTML || "<span>Market Data Temporarily Unavailable</span>";
-
-      } catch (error) {
-        document.getElementById("ticker-track").innerHTML =
-          "<span>Market Data Temporarily Unavailable</span>";
-      }
-    }
-
-    loadTicker();
-  </script>
+    <a class="back" href="../index.html">← Back to AION Intelligence</a>
+</div>
 
 </body>
 </html>
