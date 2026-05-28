@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## US and Iran exchange fire amid increasingly strained ceasefire
+Official says American forces shot down Iranian drones in move that prompted retaliation from Tehran
+
 ## Payments group accused of being ‘Chinese backdoor’ moves staff out of China
 Australia-founded Airwallex is pursuing US expansion amid intensifying rivalry between Washington and Beijing
-
-## US carries out further strikes on Iran
-Official says increasingly strained ceasefire continues to hold
 
 ## Semiconductors: supercycle or superbubble?
 Plus, semis’ fragile supply chain
@@ -24,8 +24,11 @@ Also in today’s newsletter: fresh Iran strikes and EU trade defences
 ## Analysts’ views: forecasters dispute market view of likely policy at Fed and Bank of England
 Disconnect between money markets and the opinions of professional forecasters remained intact in May
 
-## Ousted BP chair Albert Manifold hits out at ‘lies’ over his conduct
-Executive says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour
+## BDO fined £2mn for ‘pervasive breaches’ in audit of collapsed NMCN
+UK regulator says mistakes in work for construction company were ‘significant and serious’
+
+## Ousted BP chair hits out at ‘lies’ over his conduct
+Albert Manifold says he ‘pushed hard’ at FTSE oil group but disputes criticism of his behaviour
 
 ## Belgian gunmaker FN Browning to buy UK sniper producer
 Acquisition comes as state-owned group looks to compete in British government rifle tender
@@ -33,32 +36,29 @@ Acquisition comes as state-owned group looks to compete in British government ri
 ## AI boom squeezes optical tech and Huawei makes a chip comeback
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## Exxon fracks its blue state exit
-The oil major’s investors overwhelmingly voted in favour of its proposal to move its corporate domicile to Texas
+## Royal Enfield launches Bullet 650 at ₹3.64 lakh
+The motorcycle goes on sale across all authorised dealerships in India starting today and will be offered in two colour options — Cannon Black and Battleship Blue
+
+## Q4 Results Today Live: Alkem Lab, Anup Engineering & Bata India Q4 profit decline, Ashok Leyland, Apar, BDL, Finolex Cables, Graphite India, JSW Holdings, Lemon Tree Hotels to announce Q4 results
+Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
+
+## CWG 2030 preparations: Sports Ministry to engage IT Consultants in NSFs
+The IT Consultants would be required to assist NSFs in the "smooth onboarding, operationalisation and coordination of digital systems under the NSDE framework”
+
+## Halving of recoveries under IBC a cause for concern: ICRA
+Realisations fell sharply in FY26, with recoveries dropping to 22% in H2 FY26 from 63% in H2 FY25, according to an agency study
+
+## Panchamrutha Industries launches fortified rice
+Panchamrutha Deluxe Fortified Rice enriched with 9 essential vitamins (A, B1, B2, B3, B6, and B12) and minerals (Folic Acid, Zinc, and Iron) launched in Bengaluru
+
+## IndoStar Capital posts ₹130 crore annual profit but Q4 loss deepens on massive SR provisioning
+Q4 net loss of ₹424 crore on higher provisions for legacy Security Receipts portfolio
 
 ## Australia launches record $1.4 billion lawsuit against 3M over ‘forever chemicals’ at defence bases
 Australia filed the suit against 3M Company and its subsidiary 3M Australia in the Federal Court of Minnesota, where the company is based.
 
 ## Bharat Taxi emerges as World's largest mobility cooperative with over 35 lakh users, 6 lakh drivers
 Platform offers zero commission to drivers and up to 15% lower fares for passengers under cooperative model
-
-## Timex Group India Delivers 3x Growth In 4 Years, Hits INR 800 Cr Revenue; FY 25-26 Defining Year Of Its Growth Journey
-Rise in Premium category, expanded brand portfolio, operating efficiency, and a strengthened manufacturing backbone are driving the company’s accelerated growth trajectory
-
-## ASEAN Business Advisory Council (ASEAN-BAC) and AVPN Establish Regional Platform to Strengthen Corporate Social Investment and Cross-Sector Collaboration Across Southeast Asia
-
-
-## Q4 Results Today Live: Anup Engineering & Bata India Q4 profit decline, Ashok Leyland, Alkem Lab, Apar, BDL, Finolex Cables, Graphite India, JSW Holdings, Lemon Tree Hotels to announce Q4 results
-Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
-
-## Tipco Engineering’s net profit more than doubles on strong demand
-Revenue grows 66 per cent to ₹96 crore on strong demand for industrial process equipment
-
-## Australian PM hails India’s economic growth; looks forward to hosting Modi again
-Addressing the parliament in Canberra, Albanese said India, which already has the largest population in the world, was set to become the third-largest economy over this decade.
-
-## Woodfield to export India’s first LNG marine loading arm from facility near Mumbai
-The company said it has successfully manufactured India’s first LNG Marine Loading Arm at its Asangaon facility, using the British firm’s design expertise and intellectual property along with Indian manufacturing infrastructure
 
 ## Fuel price hike and OMC profits: Are India’s oil firms really making windfall gains?
 Recent fuel price hikes have ignited debate over oil marketing companies' (OMCs) profits amid the Middle East crisis. Despite a reported Rs 77,821 crore profit for FY26, a closer look reveals thin margins, past losses, and a lag in reflecting current crude price impacts. These profits are crucial fo
@@ -84,6 +84,15 @@ Oil prices saw a dip as hopes for a US-Iran deal to ease Middle East tensions an
 ## AI, AI Express, IndiGo to slash 250 domestic flights a day
 
 
+## Right to trauma care of citizens integral part of right to life: SC
+Right to trauma care of citizens integral part of right to life: SC
+
+## 8 arrested for attack on ED officials after raid at ex-Kerala CM Pinarayi Vijayan's residence
+Around 300 people have been booked by the Kerala Police following the alleged attack on ED officials and security personnel.
+
+## Can Siddaramaiah resign with Karnataka Governor out of town? Viral itinerary, and what rules say
+Attention has now shifted to whether Karnataka chief minister Siddaramaiah would be able to tender his resignation today.
+
 ## ‘Didn’t expect controversy’: Academic behind controversial NCERT judiciary chapter says content was ‘correct’
 Danino said that the academics involved were disappointed with the NCERT's handling of the matter.
 
@@ -99,15 +108,6 @@ Eid Al-Adha or Bakra Eid, which is being observed on May 28 this year, is a sign
 ## ‘Frustrated’: Govt hits back at Rahul Gandhi after LoP’s ‘tampering’ allegations against CBSE
 Rahul Gandhi alleged tampering in CBSE’s OSM system, but the board denied the claims. Pradhan says the LoP is frustrated due to repeated election losses.
 
-## AIADMK MP Demands CBI inquiry into 4 MLAs'' Resignation, switch to TVK
-AIADMK MP Demands CBI inquiry into 4 MLAs'' Resignation, switch to TVK
-
-## Centre accepts responsibility for CBSE OSM glitches, corrective measures underway
-Dharmendra Pradhan said the government acknowledges the discrepancies that took place during results, adding that it accepts responsibility.
-
-## Security tightened across India amid Eid-ul-Adha celebrations
-Scattered incidents of disputes over religious practices and public gatherings have prompted heightened vigilance by authorities across the country.
-
 ## JAC Delhi 2026 Counselling: Registration opens for DTU, NSUT, IIIT-Delhi for BTech
 
 
@@ -120,7 +120,7 @@ Scattered incidents of disputes over religious practices and public gatherings h
 ## ‘No fault of hers’: Court directs SBI to refund widow’s pension cuts after Rs 3.6 lakh paid in excess due to bank error
 
 
-## Pradhan acknowledges ‘some discrepancies’ in CBSE Class 12th revaluation, promises transparency
+## Education Minister acknowledges ‘some discrepancies’ in CBSE Class 12th revaluation, promises transparency
 
 
 ## Shamita Shetty to troll questioning her unmarried status at 47: ‘What did you achieve?’
@@ -131,6 +131,9 @@ Scattered incidents of disputes over religious practices and public gatherings h
 
 ## My patient had high Vitamin B12 levels and fatty liver: Why high vitamin levels are clues to diseases
 
+
+## China’s brokerage crackdown: banks cut stock forecasts for Futu, Tiger
+Analysts lowered their valuations on Chinese online brokerages after Beijing unveiled a crackdown on unauthorised cross-border securities businesses, warning the tighter rules could slow profit growth and raise overseas customer acquisition costs. CCB International on Wednesday cut its target price 
 
 ## Gold continues decline as inflation fears outweigh hope of end to Iran war
 Gold extended its downturn despite rising hopes for a diplomatic solution to Middle East tensions, as investors priced in a sticky inflationary trend that is being driven by the continued disruption of energy supplies and the resilience of the US economy. The price of the precious metal has dropped 
@@ -152,9 +155,6 @@ Alibaba Group Holding’s latest artificial intelligence model has clinched a to
 
 ## A 30% rally in BOE Tech shows how AI buildout can galvanise Chinese LCD maker
 BOE Technology is on investors’ radar screens again after announcing its foray into a business linked to artificial intelligence infrastructure, causing the stock price of the Chinese maker of liquid-crystal displays (LCDs) to rally following years of listlessness. Yuan-denominated shares of the wor
-
-## Xpeng’s driverless cabs; Tesla launches FSD in China; Nio slams price wars: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Chinese firm Xpeng builds driverless cabs, challenging Tesla’s FSD software Chinese el
 
 ## Can the U.S. End Nigeria’s Insurgency?
 Despite recent successful strikes, experts doubt the campaign’s long-term success.
@@ -204,6 +204,9 @@ With democracies having little appetite to take on any economic risk, China’s 
 ## What the Trump-Xi Summit Means for Africa
 The détente may well have bought the world some time that can be usefully spent strategically. How can African countries respond?
 
+## Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains
+In 2024, when Jiangsu Delong, the world’s second-largest stainless-steel producer, filed for bankruptcy, several Chinese firms and state-owned enterprises quietly absorbed its Indonesian assets. Among them was China First Heavy Industries, a state-owned enterprise founded in 1954 as one of China’s e
+
 ## A Sea Control Revolution?
 Sea control has changed. In recent years, there has been a quiet revolution in maritime strategy that has seen navies increasingly expected to exert greater levels of control over more of the world’s oceans, more of the time. Whether it is NATO forces protecting critical maritime infrastructure in t
 
@@ -224,9 +227,6 @@ Why are there more antennas on Svalbard than anywhere else on Earth? Svalbard of
 
 ## Leading in the Dark: How Submarine Commanders Think Under Uncertainty
 We had been tracking the contact for six hours.The acoustic signature was ambiguous. The geometry was incomplete. The tactical picture had shifted twice in the preceding hour.I ordered battle stations anyway. Not because I was certain, I was not. I ordered it because the decision window was closing.
-
-## Understanding the Value of Ukrainian Railways
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
