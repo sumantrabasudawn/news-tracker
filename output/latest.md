@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: Washington nearing agreement to extend Iran ceasefire, US officials say
+Also in today’s newsletter: Anthropic finalises $65bn funding deal, and Nvidia chief Jensen Huang to join board at Tsinghua University
+
+## Amazon scraps AI leaderboard to stop workers chasing usage scores
+Senior executive Dave Treadwell tells staff ‘don’t use AI just for the sake of using AI’ as costs rise
+
 ## Israel attacks Beirut in new wave of bombing
 Strike on capital’s southern suburbs comes day before two countries due to hold ‘security talks’ in Washington
 
@@ -18,23 +24,20 @@ Blockade in Strait of Hormuz has removed up to 13mn barrels a day from global ma
 ## FT quiz: the week in news
 Ten topical questions to test your news nous
 
+## Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation
+New round values Claude AI maker at $965bn including the new money
+
 ## AkzoNobel should avoid painting itself into a corner
 Dutch paint maker’s original tie-up with Axalta doesn’t look especially compelling
 
 ## Caesars’ billionaire buyer hopes luck and leverage go hand in hand
 The transaction comes at a time when Caesars and Las Vegas have been struggling
 
-## Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation
-New round values Claude AI maker at $965bn including the new money
-
 ## And just like that, the software apocalypse was over
 Snowflake’s stock pop demonstrates what companies must do to escape the sector downturn
 
 ## Iranian dissident news network received £650mn of debt relief
 Finances of UK-based broadcaster Iran International, a leading platform for opposition to regime, shored up by shareholders
-
-## SpaceX IPO boldly steps into the unknown of AI economics
-We still need to learn many things about the basic business model of frontier models
 
 ## US and Iran agree to 60-day ceasefire extension, Trump approval pending
 The agreement comes amid repeated claims by the Trump administration that a deal to halt hostilities is close, even as Iran has occasionally disputed or downplayed such assertions
@@ -108,6 +111,9 @@ Abdul Rahim was jailed for allegedly causing the accidental death of a specially
 ## India, China review border situation, discuss normalisation of ties
 India and China expressed satisfaction over peace along the LAC during border talks held under the WMCC mechanism in Beijing.
 
+## A first-time corporator, a last-minute poll entrant and Patidar woman leader: Vadodara, Rajkot, Surat get new Mayors
+
+
 ## File chargesheet within two weeks if suspect caught red-handed, Delhi police chief directs cops
 
 
@@ -129,8 +135,8 @@ India and China expressed satisfaction over peace along the LAC during border ta
 ## Major temperature drop in Delhi-NCR after rain brings relief from days of punishing heat
 
 
-## Why you may not feel hungry in the morning
-
+## Building Smarter Human Experiences
+As Managing Director of Samsung Electronics Hong Kong, Yiyin Zhao shows that global scale and local insight can drive meaningful innovation. She is steering Samsung Hong Kong through the AI revolution with human-centred leadership, localisation and accessible innovation. A preview of Samsung technol
 
 ## China’s BYD aims for zero accidents with ‘God’s Eye’, vows crash cost coverage
 BYD, the world’s largest electric vehicle (EV) maker, has set its sights on achieving zero traffic accidents through self-developed autonomous driving technology, aiming to assemble next-generation cars affordable for mass consumers. Founder and chairman Wang Chuanfu told a press conference in Shenz
@@ -153,8 +159,14 @@ Chinese artificial intelligence (AI) company MiniMax says it recorded a fivefold
 ## China’s brokerage crackdown: banks cut stock forecasts for Futu, Tiger
 Analysts lowered their valuations on Chinese online brokerages after Beijing unveiled a crackdown on unauthorised cross-border securities businesses, warning the tighter rules could slow profit growth and raise overseas customer acquisition costs. CCB International on Wednesday cut its target price 
 
-## Gold continues decline as inflation fears outweigh hope of end to Iran war
-Gold extended its downturn despite rising hopes for a diplomatic solution to Middle East tensions, as investors priced in a sticky inflationary trend that is being driven by the continued disruption of energy supplies and the resilience of the US economy. The price of the precious metal has dropped 
+## Groundhog Day: Iran War Edition
+It’s an open question if negotiators can break the repetitive cycle engulfing the war.
+
+## Tentative U.S.-Iran Cease-Fire Extension Deal Awaits Trump’s Approval
+Tehran’s leadership has also not publicly signed off on the agreement yet.
+
+## No Commodity Is Safe From the Iran War
+From Diet Coke to condoms, the world’s supply chains have faced surprising downstream disruptions.
 
 ## The Iran War Has Only Worsened Sudan’s Conflict
 The country is uniquely vulnerable to regional shocks.
@@ -170,15 +182,6 @@ Over three decades, Netanyahu’s pivot to divisive electioneering has paid off.
 
 ## The Madman Strikes Back
 Nixon’s theory on the power of unpredictability didn’t account for an actual madman adversary.
-
-## Friedrich Merz Doesn’t Understand the EU
-Germany’s chancellor keeps complaining about the source of the continent’s power.
-
-## Trump Should Just Admit He Screwed Up
-The Iran war was obviously a mistake. Why not say so?
-
-## Can the U.S. End Nigeria’s Insurgency?
-Despite recent successful strikes, experts doubt the campaign’s long-term success.
 
 ## What the Latest China-Russia Summit Means for Ukraine
 The Putin-Xi joint statement is not merely a statement of bilateral friendship. It is a war-era manifesto.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt
+A big challenge for Colombia's next president will be how to reduce country's debt without sacrificing social gains.
+
+## Guatemala denies agreeing to US strikes against drug traffickers
+President Bernardo Arevalo's government says it requested security cooperation but did not approve US attacks.
+
+## Defiant Lebanese families refuse to leave Tyre after homes bombed
+Families in the Lebanese city of Tyre saw their homes destroyed by Israeli bombs just hours after they were ordered evac
+
+## US judge rejects immediate block on Trump’s mail-in voting executive order
+Judge Carl Nichols says Democrats’ legal challenge is premature as the administration moves to implement the measure.
+
+## Europe hit by record-breaking heatwave
+European countries are issuing heat warnings as an unseasonal heatwave drives record temperatures across the continent.
+
+## Demands grow for closure of US detention centre over inhumane conditions
+A group of US lawmakers are joining protesters in demanding a controversial immigration detention centre be shut down.
+
+## EU sanctions ‘extremist’ Israeli settlers in occupied West Bank
+European Union says sanctioned individuals and groups have violated the rights of Palestinians.
+
 ## Trump administration sues states for denying ICE agents undercover plates
 The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates.
-
-## Three wounded in Swiss train station stabbing labelled ‘act of terror’
-Swiss authorities arrest suspect who had come to authorities' attention in 2015 for distributing ISIL propaganda.
-
-## What’s behind South Africa’s anti-migrant protests?
-Thousands of foreign workers are under increasing pressure to leave the country.
-
-## Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip
-Israeli army has already expanded its control of Gaza by 11 percent over the 'Yellow Line', beyond terms of 'ceasefire'.
-
-## Rebuilding US weapons stockpile may ‘take years’ post-Iran war
-Restoring pre-war stockpiles of critical US munitions will take at least two years, according to CSIS report.
-
-## US, Iran reach MoU on 60-day truce, Trump’s approval pending
-US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension.
-
-## US and Iran reach tentative deal for 60-day truce extension, officials say
-The memorandum of understanding, which would enable further negotiations, still requires Donald Trump's final approval.
-
-## CNN sues Perplexity, alleging unlawful distribution of copyrighted content
-Perplexity unlawfully copied thousands of CNN stories, videos and images to power its products, CNN said in its lawsuit.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
