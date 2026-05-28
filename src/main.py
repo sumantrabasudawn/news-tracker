@@ -1,6 +1,6 @@
 import os
-import requests
 import pandas as pd
+import yfinance as yf
 from datetime import datetime
 
 # -----------------------------------
@@ -10,48 +10,42 @@ os.makedirs("output", exist_ok=True)
 
 
 # -----------------------------------
-# MARKET DATA (Twelve Data API - FIXED)
+# MARKET DATA (Yahoo Finance)
 # -----------------------------------
 def fetch_market_data():
-    API_KEY = os.getenv("TWELVE_API_KEY")
 
-    if not API_KEY:
-        print("❌ API key missing. Set TWELVE_API_KEY")
-        return
-
-    # ✅ Free-tier working symbols only
     symbols = {
-        "GOLD": "XAU/USD",
-        "USDINR": "USD/INR",
-        "EURUSD": "EUR/USD",
-        "GBPUSD": "GBP/USD",
-        "USDJPY": "USD/JPY"
+        "NIFTY 50": "^NSEI",
+        "SENSEX": "^BSESN",
+        "NASDAQ": "^IXIC",
+        "S&P 500": "^GSPC",
+        "BRENT": "BZ=F",
+        "GOLD": "GC=F",
+        "USD/INR": "INR=X",
+        "INDIA VIX": "^INDIAVIX",
+        "DOLLAR INDEX": "DX-Y.NYB"
     }
 
     data = []
 
-    for name, symbol in symbols.items():
+    for name, ticker in symbols.items():
         try:
-            url = f"https://api.twelvedata.com/quote?symbol={symbol}&apikey={API_KEY}"
-            res = requests.get(url, timeout=5).json()
+            asset = yf.Ticker(ticker)
+            hist = asset.history(period="5d")
 
-            # 🔥 Handle BOTH formats correctly
-            if "price" in res:
-                price = float(res["price"])
-                change = float(res.get("percent_change", 0))
-
-            elif "close" in res:
-                price = float(res["close"])
-                change = float(res.get("percent_change", 0))
-
-            else:
-                print(f"⚠️ Failed: {name} → {res}")
+            if len(hist) < 2:
+                print(f"⚠️ Not enough data for {name}")
                 continue
+
+            latest = hist["Close"].iloc[-1]
+            previous = hist["Close"].iloc[-2]
+
+            change = (latest - previous) / previous
 
             data.append({
                 "asset": name,
-                "price": price,
-                "change_percent": change
+                "price": round(float(latest), 2),
+                "change": round(float(change), 4)
             })
 
         except Exception as e:
@@ -66,7 +60,7 @@ def fetch_market_data():
 
 
 # -----------------------------------
-# NEWS PLACEHOLDER (keeps pipeline stable)
+# NEWS PLACEHOLDER
 # -----------------------------------
 def generate_news_stub():
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -79,8 +73,12 @@ def generate_news_stub():
 
     df.to_csv("output/latest.csv", index=False)
 
-    with open("output/latest.md", "w") as f:
-        f.write(f"# AION Intelligence\n\nLast updated: {now}\n\nPipeline running.")
+    with open("output/latest.md", "w", encoding="utf-8") as f:
+        f.write(
+            f"# AION Intelligence\n\n"
+            f"Last updated: {now}\n\n"
+            f"Pipeline running successfully.\n"
+        )
 
     print("✅ News stub updated")
 
