@@ -1,145 +1,151 @@
 # AION Intelligence
 
-## Russian drone hits apartment building in Romania
-Nato and Bucharest condemn ‘reckless’ escalation after two people were injured in Galaţi
+## Trump pledges ‘final determination’ on Iran deal to extend ceasefire
+US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
 
-## Should Labour heed Tony Blair?
-Plus, Restore Britain’s threat to Reform UK
+## Inflation and interest rates tracker: see how your country compares
+Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
 
-## Sports media host Stephen A Smith: ‘The audience gravitated to me’
-ESPN’s highest-paid star on his plans to be the next Joe Rogan, what the Democrats get wrong — and his thoughts on a possible White House run
+## Trump’s $1.8bn ‘anti-weaponisation’ fund blocked by judge
+In legal challenge, plaintiffs allege the money ‘rewards and incentivises unlawful behaviour’
 
-## small caged mammal on the run
-in the grim darkness of the near future, small caged mammal
+## UK struggles to adapt to hotter summers
+Significant investment required in homes and infrastructure to build resilience, say experts
 
-## Washington nearing deal to extend Iran ceasefire, US officials say
-Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
+## Kazakhstan offers to take Iran’s uranium stockpile, watchdog says
+Fate of highly enriched material is one of the thorniest issues in US-Iran talks to end war
 
-## French economy contracts by 0.1% in first quarter
-Unexpected fall driven by weak domestic demand and drop in exports
+## Poland threatens to strip Zelenskyy of state honour
+Ukrainian president offends Warsaw with reference to second world war fighters accused of murdering Poles
 
-## FirstFT: Russia overspends on Putin’s Ukraine war
-Also in today’s newsletter: US and Iran near ceasefire extension, and Blue Origin rocket explodes during testing
+## EU agrees to unlock Hungary’s frozen funds
+Péter Magyar strikes political agreement with European Commission for €16bn blocked over graft concerns
 
-## How Andy Burnham adapted his politics to skyscraper city
-Greater Manchester mayor is well-versed in showing solidarity with voters over housing, but his policy record is complicated
+## UK police charge man with assisting Iranian intelligence
+Alleged offence relates to targeting of a journalist at anti-regime Iran International Television
 
-## How the global EV shift made Ferrari Europe’s most valuable carmaker
-Fears of Chinese competition have savaged valuations of mass-market peers
+## China’s Zijin faces delays to its $4bn swoop for Allied Gold
+Allied’s biggest mine is in Mali, which has arrested a number of foreign executives in recent years
+
+## A bumpy road to electric vehicle success
+Ferrari Luce’s launch caused more heat than light but has lessons for incumbents
 
 ## Ocado shares jump after striking online grocery deal with Asda
 British technology group boosted following major blow to US business last year
 
-## CVC nears deal for IFF’s $4bn food ingredients division
-Private equity firms increasingly seek to carve out underperforming divisions of big corporate groups
+## CVC buys IFF’s food ingredients division for $4.3bn
+Deal is latest in a series of private equity swoops to carve out underperforming divisions from big corporate groups
 
-## FT Wealth: May
-In this edition: The €1bn Ponzi scheme which rocked France; what football and finance have in common; the power of Christopher Anderson’s pictures; downsides to tax moves; Monaco’s many faces; London’s priciest sushi menu
+## Rise in Neets a ‘retirement crisis in slow motion’
+Delayed pension contributions could leave higher earners with a savings shortfall of £300,000
 
-## Marc Rowan rolled in Hamptons lobster fight
-A New York court ruling puts the Apollo chief back at ‘square one’ in a tussle with locals
+## From ESPN to the White House?
+Sports media host Stephen A Smith on being the next Joe Rogan — and a possible presidential run
 
-## Several BP shareholders found ousted chair ‘challenging’
-Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major
+## How the global EV shift made Ferrari Europe’s most valuable carmaker
+Fears of Chinese competition have savaged valuations of mass-market peers
 
-## Sanstar Limited Announces Strategic Partnership with Ingredion Incorporated Through Preferential Issue and Joint Venture
+## Experts evaluate promising Ebola treatments, including vax candidate from Oxford/Serum Institute
+The vaccine could potentially become available within two to three months for efficacy assessment through a clinical trial
 
+## Pocket FM sees another senior-level exit as SVP Mayank Sancheti resigns
+Mayank Sancheti played a significant role in driving the company’s product, monetisation and growth strategies
 
-## Investing Beyond Market Cycles Through Active Allocator Long-Short Fund
+## VOC Port Authority signs MoUs for green ammonia, sustainability initiatives
+The project will include ammonia handling, storage and bunkering infrastructure, pilot bunkering operations, safety systems and training programmes
 
-
-## Zappfresh with Beti Foundation and UN IIMSAM Mark World Hunger Day with Community Outreach Initiative at IIT Delhi
-
-
-## MG MAJESTOR 4X2 Automatic Top Trim Launched at INR 40.99 Lakhs(ex-showroom price)
-
-
-## IndiGo posts ₹2,536.9 crore loss in March quarter of FY26
-Total income in the fourth quarter of the 2025-26 fiscal rose over 3% to ₹23,830.7 crore from ₹23,097.5 crore in the same period a year ago, according to a release
-
-## UN-honoured Tamil Nadu farmer turns coconut losses into profits with tree-based farming
-The farm now cultivates more than 14 crop varieties, uses significantly less water and has remained resilient during severe droughts
-
-## Godrej Foundation launches Tomorrow Makers to unlock India’s untapped talent
+## Pocket
 
 
-## Q4 Results Today Live: IndiGo posts Q4 loss, RCOM loss widens, Natco Pharma & BEML Q4 profit down, Asian Paints & IPCA Lab profit up y-o-y, Glenmark Pharma, IREDA, Gujarat Gas, NMDC, JM Financial to announce Q4 results
-Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
+## Forex exposure, fleet strategy in focus as IndiGo outlines FY27 roadmap
+The airline’s management said IndiGo’s total foreign exchange exposure currently stands at nearly $10 billion, of which around $1.3 billion has been hedged
+
+## Editorial. High stakes gamble
+Karnataka leadership change, not without political risk
+
+## Agriculture Minister asks States to be prepared to deal with below-normal monsoon
+The government is prepared to handle the situation in the event of El Nino emergence
+
+## SC says NEET paper leak traumatised entire families; points to ‘ad-hocism’ in NTA
+The court zeroed in on the problem of “ad-hocism” in the NTA, and lack of “institutional memory and framework”.
+
+## How government aims to save billions in forex with ethanol blended petrol
+Ethanol-blended petrol is made by mixing ethanol with petrol. Ethanol is a biofuel that is derived from a wide variety of food crops and feed stocks like sugarcane and petrol. Under the Ethanol Blended Petrol Programme, the original target for achieving E20 petrol sales.
+
+## IndiGo swings to Rs 2,537 crore Q4 loss as rupee depreciation, disruptions weigh on earnings
+India's largest airline, IndiGo, reported a consolidated net loss of Rs 2,536.9 crore for the March quarter, a significant shift from a profit of Rs 3,067.5 crore a year ago. The airline's performance was impacted by a sharp rupee depreciation and a challenging operating environment, despite a rise 
+
+## US stock markets today (May 30, 2026): S&P 500, Nasdaq extend record run as Dell jumps 33% on AI demand
+US stocks continued their record-setting rally, driven by strong earnings and AI optimism, pushing major indices higher. Despite inflation and geopolitical concerns, investor sentiment was buoyed by hopes of a US-Iran ceasefire extension, easing energy market pressures. Technology stocks, particular
+
+## Bloodbath on D-Street: Investors lose Rs 5.77 lakh cr in final hours of trade today
+Indian stock markets experienced a significant downturn on Friday. Investor wealth saw a substantial decline of Rs 5.77 lakh crore. Benchmark indices, Sensex and Nifty50, plunged sharply in the final trading hour. Concerns over a weaker monsoon outlook and geopolitical uncertainty fueled the sell-of
+
+## Sebi slaps Rs 28.95 crore penalty on Suzlon, promoters over misleading financial disclosure
+
+
+## Forex reserves fall $7.5 billion to $681.4 billion as gold, foreign currency assets decline
+India's foreign exchange reserves dropped by $7.511 billion to $681.384 billion in the week ending May 22, marking a second consecutive weekly decline. This decrease follows a significant fall in the previous week, with the reserves now under pressure due to the Middle East conflict and RBI's curren
 
 ## Why did stock market crash in the final hours of trade today? Sensex, Nifty50 plunge - check top reasons
-
-
-## BSE Sensex tanks 1,092 points; Nifty 50 slips below 23,600
 
 
 ## India-US partnership has ‘limitless potential’, says Sergio Gor as trade deal nears
 
 
-## Review of RBI Act, currency swap with BRICS part of FY27 agenda
+## ‘Nothing decided yet’: DK Shivakumar stays tight-lipped on Karnataka CM post, defers decision to CLP meeting
+“Everything is happening as requested by the high command. Nothing has been decided,” Shivakumar said.
+
+## Centre asks fuel retailers to maintain 30-day LPG reserves as supply concerns rise amid West Asia tensions
+The move comes after the three-month-long conflict in West Asia disrupted global energy supply chains, affecting India's energy imports from the Gulf region.
+
+## NFHS-6: Hospital births rise in India, but lifestyle disease crisis looms
+Along with the rise in hospital births, the NFHS-6 report cited an increase in percentage of deliveries attended by skilled health personnel from 89.4% to 91.3%
+
+## ‘Why do boys marry girls and then insult them?’: Supreme Court asks in dowry harassment case
+Refusing to interfere in the case, the top court made sharp observations on the treatment often faced by brides and their families in matrimonial homes.
+
+## TMC MP Kakoli Ghosh's ‘abuse’ complaint against party colleague Kalyan Banerjee to be referred to House panel
+TMC MP Kakoli Ghosh Dastidar's complaint against fellow party MP Kalyan Banerjee is to be send to a House committee
+
+## Five friends killed after car crashes into parked lorry on Karnataka highway
+Police said the group was travelling from Hanagal to Challakere when the accident took place at 9:45 pm near the Beedur–Srirangapatna stretch of the highway in Molakalmuru
+
+## 2 lakh e-rickshaws run illegally in Delhi: Why govt has capped their numbers | 5 points
+However, only 2,05,665 are officially registered, suggesting that around 2 lakh vehicles are plying illegally on city roads.
+
+## Three die after falling into septic tank in Assam’s Goalpara, one critical: Cops
+The accident happened around 9:30 am when the property owner, Josok Rabha (40), along with two labourers and a relative, was cleaning an old septic tank, officers said.
+
+## Karan Kundrra and Tejasswi Prakash’s lavish Mumbai home has hidden doors, luxury shoe vaults
 
 
-## A truce, $300 billion investment & Hormuz: What's in the draft deal that can end US-Iran war?
-Mediators are facilitating fresh US-Iran negotiations on a draft memorandum aimed at ending the ongoing conflict. The proposed agreement includes a multi-billion dollar reconstruction package for Iran's economy and a temporary non-aggression arrangement, with nuclear talks deferred to a later phase.
-
-## US-Iran conflict: India to shrug off adverse impact? RBI confident of domestic resilience - key takeaways
-Acknowledging the impact of the West Asia crisis, the RBI has said that several factors will help India counter the negative effects and emerge strong.
-
-## Gold price prediction: What's the outlook for gold prices recover on May 29, 2026 & what should investors do?
-Gold price prediction today: Gold prices seem to be seeing some rebound and the outlook remains constructive, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities recommends a buy on dip strategy.
-
-## Sanctions war on? US tightens curbs on Iran oil despite probable deal to ease Hormuz movement
+## ‘Thought Joe’s having a stroke’: Jill Biden’s 2024 presidential debate memory sparks comments from Trump
 
 
-## Assam journalist assaulted, media office vandalised in Silchar; one detained: Cops
-Raju Das, a reporter and anchor for Silchar-based newspaper-cum-digital platform Barak Bani, alleged that accused first called him to ask where he was and later entered office to assault him
-
-## CBSE postpones Class 12 re-evaluation portal launch to June 1, says website being strengthened
-OSM row: A CBSE official told Hindustan Times that the portal would not open on Friday, May 29, as earlier expected.
-
-## ‘Throats slit, bodies set on fire’: Shocking details emerge in ex-sarpanch family's murder by first wife in Rajasthan
-The former sarpanch's first wife and her children have been arrested in connection with the alleged murders stemming from a long-standing family conflict.
-
-## IndiGo posts ₹2,536.9 crore loss in March quarter of FY26
-Total income in the fourth quarter of the 2025-26 fiscal rose over 3 per cent to ₹23,830.7 crore from ₹23,097.5 crore in the same period a year ago.
-
-## How do Indian ships cross risky Strait of Hormuz? Govt reveals, keeping some details secret
-India is among the countries with the highest number of vessels passing through the Strait of Hormuz amid the US-Iran war.
-
-## One day of extreme heat tied to 3,400 excess deaths in India, nearly 30,000 over five days: Study
-Temperatures have remained above 45 degrees Celsius in parts of Madhya Pradesh, Rajasthan, Uttar Pradesh and Haryana in recent days.
-
-## Involving kids in poll campaigning inappropriate: Madras HC on plea against TVK
-The PIL specifically referred to a campaign speech delivered by CM Vijay at the YMCA grounds in Chennai on April 21, where he appealed to children to ensure that adults in their families voted for TVK
-
-## SC allows Vinesh Phogat to join Asian Games trials, takes exception to HC order
-The Delhi high court last week called the Wrestling Federation of India (WFI) policy refusing to consider past accomplishments of iconic players exclusionary
-
-## Tuner movie review: Dustin Hoffman and Leo Woodall save this chaotic musical thriller
+## Iran says ‘missiles, not dialogue’ will secure concessions as Trump weighs deal to extend ceasefire
 
 
-## 220 trees, 2 grounds to make way for redevelopment project in this Mumbai suburb
+## Parth Pawar asks NCP ministers to make routine contribution to party fund
 
 
-## ‘By no stretch of imagination’: Court rejects claim that dead pillion rider caused crash, awards Rs 12 lakh to family
+## Deliver verdicts within 3 months, upload bail orders same day: Supreme Court to High Courts
 
 
-## Rishabh Pant steps down as Lucknow Super Giants captain
+## Inside Maniesh Paul’s Mumbai home: A blend of English and European aesthetic
 
 
-## Tourist group from Rajasthan fined in Manali for reckless driving; viral video sparks outrage
+## Six hacked to death in Karnataka village over land dispute
 
 
-## ‘Unrecognised disaster’: NGT seeks response from Centre, states on heatwave conditions across India
+## Buzz around new Karnataka Cabinet as Siddaramiah, son meet Rahul
 
 
-## llegal miners extract billions in Amazon gold despite Brazil crackdown, Greenpeace finds
-
-
-## ‘No one asked me’: Saif Ali Khan says his dad spoke less but taught a lot; expert weighs in
-
+## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
+China’s ambitious urban renewal projects, from upgrading dilapidated homes to rebuilding gas pipelines, are expected to require investment of at least 15 trillion yuan (US$2.2 trillion) in the five years from 2026, offering fresh growth opportunities for construction firms. Property developers also 
 
 ## HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally
-Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks. The latest additions increase the benc
+Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks. The latest additions by Hong Kong’s bo
 
 ## Wingtech says core of Nexperia China unit now based on mainland, can operate independently
 China’s Wingtech Technology says it has developed an independent management operation for Nexperia’s Chinese unit, in a bid to insulate the local business as it fights to regain control of the Dutch chipmaker. Wingtech chairwoman Ruby Yang Mu said on Friday that the core management, research and dev
@@ -159,8 +165,11 @@ China is expected to keep adding to its gold reserves as central banks in emergi
 ## China’s Innovent Biologics signs US$10.5 billion Pfizer deal for 12 cancer drug trials
 China’s Innovent Biologics has signed a global collaboration with pharmaceutical giant Pfizer worth up to US$10.5 billion to jointly develop 12 cancer treatment programmes. The Hong Kong-listed drug maker said it would receive an upfront payment of US$650 million from Pfizer, and it is eligible for 
 
-## China launches first green bond sale in Hong Kong, aiming to raise US$886 million
-China launched the sale of 6 billion yuan (US$886 million) of green sovereign bonds in Hong Kong late on Thursday night, the first such offering in the city, as Beijing doubles down on the efforts to boost its presence in offshore debt markets and seeks funding to support climate action amid the oil
+## Syria Wants to Replace the Strait of Hormuz
+The country hopes to fund its reconstruction by serving as the Middle East’s new transit and logistics hub.
+
+## Of Course It’s a War
+Trump’s legal evasion regarding Iran reveals the rotten state of constitutional war powers.
 
 ## What’s Behind the EU-Mexico Trade Deal?
 With USMCA on ice, Mexico City is looking across the Atlantic for new partners.
@@ -179,12 +188,6 @@ From Diet Coke to condoms, the world’s supply chains have faced surprising dow
 
 ## The Iran War Has Only Worsened Sudan’s Conflict
 The country is uniquely vulnerable to regional shocks.
-
-## Erdogan Is Forcibly Designing His Own Opposition
-Turkey is moving from repressing the opposition to reshaping it.
-
-## Cubans Abandon the American Dream
-As conditions on the island worsen, people are leaving—just not for the United States.
 
 ## The United States’ Rare Earth Strategy Faces a Durability Test
 Rare earth projects require a solid commitment across political cycles, a challenge that the United States has not yet been able to overcome.
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Australian court sets August date for ‘mushroom murderer’ appeal hearing
-Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.
+## Five killed in Lebanon as Israeli forces advance across key Litani River
+Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon.
 
-## ‘Dangerous colonial occupation’: Israel’s digital West Bank land register
-A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.
+## Israel strikes building in Gaza’s Shati refugee camp
+Israel strikes building in Gaza’s Shati refugee camp.
 
-## WHO chief visits DRC amidst Ebola crisis
-WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.
+## Eid and sacrifice in Gaza
+Eid al-Adha in Gaza this year marked the third Eid in a row without animal sacrifice or Hajj.
 
-## US-Iran 60-day proposal: What we know
-US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.
+## On the road to Rogun Dam, Tajikistan’s ‘greatest dream’
+Al Jazeera visits the site of the Rogun dam construction, Tajikistan's 'project of the century'.
 
-## Kenyan court suspends US Ebola quarantine facility plan
-The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.
+## Colombia’s ‘Total Peace’ plan: A failure or unfinished business for Petro?
+As Colombia prepares to elect a new president, candidates are debating the legacy of Gustavo Petro's signature policy.
 
-## How the end of the nuclear file could reshape Iran, and the region
-A generation of nuclear ambition shaped the Islamic republic. Its end could undo the damage.
+## US federal judge temporarily blocks Trump’s ‘anti-weaponisation fund’
+The nearly $1.8bn fund stemmed from a recent IRS settlement with Donald Trump over his leaked tax records.
 
-## A visual guide to Ethiopia’s ethnic groups and conflict areas
-Ethiopia has faced near-continuous conflict since 2020, with fighting in Tigray, Oromia and Amhara.
+## PSG vs Arsenal: Champions League final – teams, start time, lineups
+PSG seek to defend the title they won for the first time, while Arsenal hope for first Champions League trophy lift.
 
-## Gaza parents brave dental dilemma: Costly treatment or food on the table?
-Many Palestinians in Gaza are forgoing expensive dental treatment, at a detriment to their health.
+## Just what are Israel’s long-term plans for Gaza?
+Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
