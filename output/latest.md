@@ -1,139 +1,142 @@
 # AION Intelligence
 
-## UK and European passports linked to restricted Chinese investors
-Critics raise concerns around critical national infrastructure and potential counterfeiting
+## FirstFT: Russia overspends on Putin’s Ukraine war by $28bn
+Also in today’s newsletter: Israel attacks Beirut and EU chip supply
 
-## Washington nearing deal to extend Iran ceasefire, US officials say
-Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
+## Marc Rowan rolled in Hamptons lobster fight
+A New York court ruling puts the Apollo chief back at ‘square one’ in a tussle with locals
 
-## FirstFT: Washington nearing agreement to extend Iran ceasefire, US officials say
-Also in today’s newsletter: Anthropic finalises $65bn funding deal, and Nvidia chief Jensen Huang to join board at Tsinghua University
+## Drone start-up Stark set for €2.5bn valuation in new fundraising
+German company aiming to secure at least €300mn from investors
 
-## Amazon scraps AI leaderboard to stop workers chasing usage scores
-Senior executive Dave Treadwell tells staff ‘don’t use AI just for the sake of using AI’ as costs rise
+## UK soft power push has fallen flat, senior figures say
+Body set up to promote British interests overseas has been ‘waste of time’ members complain
 
-## Israel attacks Beirut in new wave of bombing
-Strike on capital’s southern suburbs comes day before two countries due to hold ‘security talks’ in Washington
+## Not using AI in public services would mean ‘choosing decline’, UK minister warns
+Newly appointed chief secretary to the Treasury Lucy Rigby wants to roll out technology across Whitehall
 
-## Netanyahu orders Israeli forces to take control of 70% of Gaza
-Prime minister says Israel is ‘squeezing Hamas’ in the enclave at the same time as escalating attacks in southern Lebanon
+## ‘Bonkers’: the audacious plan for a 1mn-person city near Cambridge
+Shiv Malik, a former journalist, conceived his vision of timber skyscrapers after chronicling how young people were struggling
 
-## Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal
-Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days
+## Investors race to get exposure to SpaceX ahead of IPO
+Net $14bn pours into funds with stakes in rocket company while ETF providers line up wave of new products
 
-## Chevron CEO warns oil prices to jump over summer as supplies dwindle
-Blockade in Strait of Hormuz has removed up to 13mn barrels a day from global markets and drawn down ‘shock absorbers’
+## Poland rushes to sign contracts for EU defence loans
+Warsaw is biggest beneficiary of €150bn rearmament fund
 
-## Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation
-New round values Claude AI maker at $965bn including the latest money
+## FT Wealth: May
+In this edition: The €1bn Ponzi scheme which rocked France; what football and finance have in common; the power of Christopher Anderson’s pictures; downsides to tax moves; Monaco’s many faces; London’s priciest sushi menu
 
-## AkzoNobel should avoid painting itself into a corner
-Dutch paint maker’s original tie-up with Axalta doesn’t look especially compelling
+## Several BP shareholders found ousted chair ‘challenging’
+Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major
 
-## Caesars’ billionaire buyer hopes luck and leverage go hand in hand
-The transaction comes at a time when Caesars and Las Vegas have been struggling
+## Urgent clarity on policy needed on the energy transition
+The impact of Middle East war is a reminder why certainty is crucial to spur a shift from fossil fuels
 
-## And just like that, the software apocalypse was over
-Snowflake’s stock pop demonstrates what companies must do to escape the sector downturn
+## Sensex today | Stock Market Live 29 May: Sensex rises 200 pts, Nifty above 23,900; Infosys, Wipro top gainers
+Sensex, Nifty, Share Prices live updates: Markets opened on a cautiously positive note on Friday, with both benchmark indices edging higher in early trade, driven by gains in information technology stocks and a sharp decline in crude oil prices following reports of a 60-day U.S.-Iran ceasefire exten
 
-## Iranian dissident news network received £650mn of debt relief
-Finances of UK-based broadcaster Iran International, a leading platform for opposition to regime, shored up by shareholders
+## Q4 Results Today Live: Asian Paints, IndiGo, NMDC, Glenmark Pharma, Ipca Lab, IREDA, Gujarat Gas, Natco Pharma, Inox Wind, Rubicon Research, BEML, NMDC Steel, JM Financial, Triveni Engg to announce Q4 results, Ashok Leyland, Graphite, BDL, Alkem, Physicswallah, Bata in focus
+Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
 
-## US and Iran agree to 60-day ceasefire extension, Trump approval pending
-The agreement comes amid repeated claims by the Trump administration that a deal to halt hostilities is close, even as Iran has occasionally disputed or downplayed such assertions
+## RIL to seek shareholders' nod for ₹16.64 lakh crore transactions related to JPL, Reliance Jio
+Transactions with Jio Platforms and Reliance Jio Infocomm to continue from FY 2027-28 to FY 2031-32
 
-## ‘All of govt’ to ensure fair NEET re-exam, CBSE Class XII evaluation
-Air Force role in transporting NEET question paper mooted in high-level meet
-
-## Ashok Leyland Q4 profit rises 11% as CV volumes hit record high
-Commercial vehicle volumes, light commercial vehicle sales and exports all touched record highs, while Switch Mobility and the company’s finance businesses also delivered strong growth
-
-## Fearsome dinosaur-era marine reptile dubbed the T. rex of the sea
-The study, based on fossil analysis, shows that the giant mosasaur lived around 80 million years ago in an inland sea that once split North America
-
-## Editorial. Fund of options
-Third-party MF payments fine, not salary deductions
-
-## Letters to the Editor dated May 28, 2026
+## India expected to have below-average monsoon rains in 2026
 
 
-## India’s concert economy set to cross ₹15,000 crore amid live events boom
-The domestic Pro-AV and LED display markets are also witnessing steady expansion, reinforcing India’s position as a fast-growing entertainment economy
+## Ashok Leyland shares fall after early gains as margin concerns overshadow Q4 earnings beat
+he stock rose 1.2% in early trade to ₹165.70 against the previous close of ₹163.62 before reversing gains to fall nearly 2% below the ₹160 mark by 9.45 am
 
-## How AI is redefining the advertising ecosystem
-Advertisers leveraging AI can boost return on ad spends by up to 20 per cent
+## Rupee rises 5 paise to 95.53 against US dollar in early trade
+At the interbank foreign exchange market, the rupee opened at 95.77 against the US dollar, then gained ground and touched 95.53 in early trade, up 5 paise from its previous close
 
-## US homebuyers face fresh pressure as mortgage rates climb to 9-month high
+## Crude oil futures fall on reports of possible US-Iran ceasefire extension
+At 10:03 am on Friday, August Brent oil futures were $91.75, down 1.02%, while July WTI crude futures were $87.79, down 1.25%
 
+## Mid and small-cap earnings growth keeps broader market outlook positive: Arunasset’s Ankit Patel
+Ankit Patel noted that Nifty Midcap 150 and Nifty Smallcap 250 saw nearly 30% y-o-y EPS growth in Q4, with brokerages forecasting over 25% earnings growth for smaller companies in FY27
 
-## India’s energy investment likely to reach record $170 bn in 2026: IEA
-
-
-## Reliance bets big on AI to reshape content, streaming and viewer engagement
-Reliance Industries is making artificial intelligence central to its media and entertainment strategy. The company aims to drive growth across streaming, television, and digital content. AI will redefine entertainment and audience engagement. Reliance is integrating AI into core operations for effic
-
-## Centre plans coal gasification-based urea policy to cut gas import dependence
-India is finalizing a new policy to boost urea production using coal gasification, aiming to slash reliance on imported natural gas and enhance self-sufficiency in fertilizer. This strategic move, expected within a month, leverages domestic coal reserves to secure vital agricultural inputs and conse
-
-## US stock markets today (May 28, 2026): Wall Street stays near record highs despite fresh jump in oil prices
-Indian markets remained steady near record highs despite rising oil prices due to Iran tensions. Strong corporate earnings, particularly from Dollar Tree and Kohl's, bolstered investor confidence. While some companies faced headwinds from higher fuel costs, others like Snowflake saw significant gain
-
-## US GDP growth revised down to 1.6% in first quarter as consumer spending slows
+## Stock Market Live Updates Today: BSE Sensex opens above 76,100; Nifty50 near 24,000 as global crude oil prices drop
 
 
-## US key inflation rises to 3-year high as fuel, food costs squeeze households
+## Sanctions war on? US tightens curbs on Iran oil despite probable deal to ease Hormuz movement
 
 
-## LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary
-LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic
+## Top stocks to buy today: Stock recommendations for May 29, 2026 - check list
+Stock market recommendations: Varun Beverages (VBL), and Eternal are the top stock picks by Bajaj Broking Research has chosen for May 29, 2026:
 
-## Bashir Badr: A poet of the masses
-Badr used everyday language to great effect, ensuring that his verses spoke directly to the listener.
-
-## ‘Make reels, back OSM, don't panic’: Schools get script from CBSE amid backlash
-A document titled “Material for Principals” included scripts of what to read out. At one point, it urged principals to describe the board as “highly proactive".
-
-## Centre okays ₹70,000-crore deal for six submarines
-India's finance ministry approves a ₹70,000-crore deal for six advanced submarines, enhancing naval capabilities and promoting self-reliance in defense.
-
-## Supreme Court directs states, UTs to adopt a uniform trauma care policy
-The Supreme Court mandates a uniform trauma care policy nationwide, including a common helpline and protections for Good Samaritans, to improve emergency response.
-
-## First record of Rusty-spotted cat in UP’s National Chambal sanctuary
-The rusty-spotted cat (Prionailurus rubiginosus), among the world’s smallest cats, has been documented for the first time in the National Chambal Sanctuary in Uttar Pradesh by researchers from the Wildlife Institute of India (WII), with the research paper stating the finding also marks the species’ 
-
-## Supreme Court grants divorce even as wife wanted adultery proven first
-The Supreme Court has dissolved a marriage despite the wife opposing divorce, not because she wanted to save the relationship, but because she first wanted to prove in court that her husband committed adultery.
-
-## 12 injured in clashes between rival groups in Nuh villages after Eid prayers
-The two groups pelted stones at each other and also used sticks and axes in the fight, creating panic in the village.
-
-## ‘Highly objectionable’: FSSAI issues notice to IRCTC over viral video of utensils being ‘washed’ in train toilet
-The Food Safety and Standards Authority of India (FSSAI) termed the act, if true, objectionable as it could lead to food contamination.
-
-## Why Siddaramaiah had to go now and why Shivakumar’s moment finally arrived
+## Gold, Silver Rate Today Live Updates: International gold prices move up; all eyes on US-Iran peace deal
 
 
-## Burning SUV, 4 charred bodies, ‘staged accident’: When a domestic feud turned deadly in Ajmer
+## Tata Motors sees EV bookings surge as fuel costs climb
 
 
-## Goa nightclub blaze: ED attaches properties worth Rs 11 crore
+## 'India, Canada to skip sensitive areas in trade pact talks': Piyush Goyal
 
 
-## FIR filed 75 minutes before crime discovered? J-K High Court flags discrepancy in 2019 terror case
+## Bajaj Finserv sets up unit to invest in new age ventures
 
 
-## ‘To impress bosses in Delhi’: Sonam Wangchuk on Ladakh L-G’s warning to him over ‘honorary cockroach’ remark
+## Heat beats price hikes: Summer products' sales zoom
 
 
-## On-Screen Marking system row: Firm roped in by CBSE was under scanner for Telangana exam mess; may be fined
+## Monsoon concerns deepen as rainfall forecast falls to 90% of normal
+Monsoon concerns deepen as rainfall forecast falls to 90% of normal
+
+## 6 workers killed after part of under-construction bridge collapses in UP’s Hamirpur
+Officials said strong winds and rain swept through the area late on Wednesday night when a concrete slab of the bridge suddenly caved in
+
+## A page from arch rival’s playbook in Cong’s peaceful change of guard
+Change of CMs ahead of elections isn’t the only aspect that the Congress seems to be borrowing from the BJP playbook.
+
+## Sister's U-turn for new house, kin's compromise: 5 shocking twists in Nikki Bhati ‘dowry murder’ case
+Nikki Bhati died of severe burn injuries in August last year, allegedly after her husband and his mother poured an inflammable liquid on her.
+
+## Dharmendra Pradhan assures action on CBSE glitches
+The education minister maintained that the digital evaluation system was a “progressive instrument” aimed at improving transparency and student access.
+
+## Karnataka CM news LIVE: Governor accepts Siddaramaiah's resignation; 4-deputy CM formula floated
+Karnataka CM news LIVE: According to Congress leaders aware of developments, a proposal to create four deputy chief minister posts was floated during the party’s leadership negotiations with CM Siddaramaiah.
+
+## Karnataka Governor accepts Siddaramaiah’s resignation as chief minister, dissolves cabinet
+Siddaramaiah will continue to function as the CM until alternative arrangements are made, the governor said.
+
+## CBSE relaxed norms for OSM in third tender after no luck in previous rounds
+The third tender was issued in August 2025, at which point a mere six months remained before the system was deployed at national scale for Class 12 exams.
+
+## Expert Explains | Why Quad has never picked up momentum, and takeaways from New Delhi meet
 
 
-## Dhanendra Kumar, first chief of competition panel, dies in AC blast fire at Delhi home
+## Kailash Kher’s sharp reply to the ‘sing 2 lines’ request, decoded by experts
 
 
-## Overwhelmed & understaffed delivery wards, 53 deaths in a year: MP district is Ground Zero for maternal mortality
+## Yash-starrer Toxic changes how you see ‘man-woman dynamic, it’s gray’, says Kiara Advani
 
+
+## IMD forecasts rain in peninsular, Northeast India; thundersqualls likely to hit multiple states
+
+
+## Anupam Kher’s love letters used to come to Kirron’s house: ‘Had no idea we’d get married’
+
+
+## NEET UG 2026: Supreme Court to hear plea seeking dismantling of NTA today
+
+
+## Heatwaves and migraines: Experts reveal why summer can trigger more headaches
+
+
+## Anthropic’s valuation surges to $965 billion, surpassing OpenAI
+
+
+## China launches first green bond sale in Hong Kong, aiming to raise US$886 million
+China launched the sale of 6 billion yuan (US$886 million) of green sovereign bonds in Hong Kong late on Thursday night, the first such sale in the city, as Beijing continues to build its presence in offshore debt markets and seeks ways to fund climate action. The response was good, indicating inter
+
+## How the wine industry can stage a comeback in China – using social media
+China has lost its taste for wine in recent years, with consumption plunging dramatically since the Covid-19 pandemic. But winemakers can recover if they embrace social media and work with Chinese influencers, according to an industry insider. Wealthy Chinese are still splashing out on fine wine, wh
+
+## China’s private funds see assets soar by over US$400 billion amid tech boom
+China’s private fund industry has seen its assets under management climb to a record high, buoyed by rebounding market confidence and a surge in technology-related investments. The nation’s private investment funds had assets totalling 23.46 trillion yuan (US$3.46 trillion) as of the end of April, u
 
 ## Premium plan: China’s EV makers pin hopes on high-end models to buttress margins
 Chinese electric vehicle (EV) makers are speeding up their pivot to the premium segment, where they hope to secure higher profit margins and dodge the cutthroat market’s most vicious price competition. New models launched by carmakers including Nio and Seres also mount a challenge to Tesla’s bestsel
@@ -150,14 +153,8 @@ A new Chinese artificial intelligence agent platform is looking to replicate the
 ## ChinaAMC launches low-cost gold ETF as Hong Kong links bullion trading with blockchain
 China Asset Management (Hong Kong) launched a new gold exchange-traded fund (ETF) on Thursday, giving retail investors low-cost access to physical gold as the city pushes to link traditional financial products with digital-asset infrastructure. The ChinaAMC Digital Gold ETF, to be listed on the Hong
 
-## CATL set to boost global energy storage with world’s largest testing facility in Xiamen
-Contemporary Amperex Technology Ltd (CATL) hopes to use its energy-storage business to build on its global dominance in electric vehicle (EV) batteries, as the global oil crisis creates a surge in demand for its technologies and products. The company, which commands nearly 40 per cent of the world’s
-
-## HKEX revamps US$812m headquarters with new entrance, finance museum in Central
-Hong Kong Exchanges and Clearing (HKEX) will revamp its HK$6.3 billion (US$812 million) headquarters in June next year, as the bourse operator upgrades its facilities in a bid to boost its competitiveness as a leading initial public offerings market and a fixed-income and commodities trading hub. Th
-
-## China’s MiniMax records 1-million client base, fivefold growth in half a year
-Chinese artificial intelligence (AI) company MiniMax says it recorded a fivefold surge in its global enterprise and developer client base over the past six months, highlighting the sharp expansion of its international footprint, even as the Hong Kong-listed firm grapples with widening financial loss
+## Don’t Count the Quad Out
+A more modest agenda is also more credible.
 
 ## Groundhog Day: Iran War Edition
 It’s an open question if negotiators can break the repetitive cycle engulfing the war.
@@ -179,9 +176,6 @@ As conditions on the island worsen, people are leaving—just not for the United
 
 ## Bibi’s Manichean Politics
 Over three decades, Netanyahu’s pivot to divisive electioneering has paid off.
-
-## The Madman Strikes Back
-Nixon’s theory on the power of unpredictability didn’t account for an actual madman adversary.
 
 ## What the Latest China-Russia Summit Means for Ukraine
 The Putin-Xi joint statement is not merely a statement of bilateral friendship. It is a war-era manifesto.
@@ -255,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least three dead after fire destroys Dallas apartment complex
+A large fire destroyed an apartment complex in Dallas after crews responded to reports of a gas leak.
+
+## Blue Origin’s New Glenn rocket explodes on launchpad
+The incident is the latest setback for Jeff Bezos’s space venture as it seeks to narrow the gap with Elon Musk’s SpaceX.
+
+## Lebanon Latest: Mass evacuations as Israel expands attacks
+Al Jazeera’s Obaida Hitto brings you the latest from southern Lebanon amidst increasing Israeli attacks.
+
+## Anthropic soars to $965bn valuation, leapfrogging OpenAI
+Claude maker raises $65bn from investors ahead of expected initial public offering.
+
+## US Treasury secretary confirms plans for banknote featuring Trump’s face
+Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century.
+
+## US to designate two Brazilian gangs as ‘terrorist’ organisations
+Trump administration has used crime and drug trafficking to push for greater US military influence across Latin America.
+
+## Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan
+Lebanese PM Nawaf Salam says 'nothing can justify' Israel's military onslaught against 'peaceful people' in Lebanon.
+
 ## Netanyahu orders Israeli army to seize 70 percent of Gaza
 Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.
 
-## Iran ambassador hits out at ‘country to the north’ in US World Cup visa row
-Iran's football team still lacks US visas and is not competing on 'equal terms', Tehran's envoy to Mexico says.
-
-## Tense protests erupt outside Delaney Hall immigrant detention centre in US
-A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.
-
-## PSG vs Arsenal: UEFA Champions League final – 10 things to know
-Al Jazeera runs you through this season's UEFA Champions League final between Paris Saint-Germain and Arsenal.
-
-## Indians celebrate Eid al-Adha amid prayer restrictions
-Indians celebrate Eid al-Adha amid prayer restrictions.
-
-## Ireland and Qatar halted twice by protests against upcoming Israel fixtures
-Republic of Ireland are set to face Israel twice in UEFA Nations League matches, but are facing calls for a boycott.
-
-## Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt
-A big challenge for Colombia's next president will be how to reduce country's debt without sacrificing social gains.
-
-## Guatemala denies agreeing to US strikes against drug traffickers
-President Bernardo Arevalo's government says it requested security cooperation but did not approve US attacks.
+## India’s Emerging Businesses Thrive on Rising Consumption
+As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
@@ -299,9 +296,6 @@ Rising geopolitical tensions, volatile equity markets and weak investor sentimen
 
 ## Any tax change will only fuel FPI exodus, not stop it, former finance secretary SC Garg warns
 Former finance secretary Subhash Chandra Garg argues that slashing withholding tax won't stop FPI outflows, citing a lack of profitable investment opportunities and rupee depreciation as primary drivers. He believes tax changes are a "small irritant" compared to negative investment returns, advocati
-
-## upGrad appoints former JioStar finance head Mukesh Mundra as CFO
-Edtech firm upGrad has appointed Mukesh Mundra as its new Chief Financial Officer to bolster its financial leadership during global expansion. With over 26 years of experience in diverse sectors, Mundra will oversee finance and administration, focusing on strategy and scaling operations. This move s
 
 ## RBI panel to evaluate impact of quantum tech in finance
 The Reserve Bank of India has formed an eight-member committee to explore quantum technology's role in finance. Headed by an IIT Madras professor, the panel will assess opportunities, risks, and challenges. It will also review the financial sector's readiness for quantum-related threats. The committ
