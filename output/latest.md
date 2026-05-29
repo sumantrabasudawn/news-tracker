@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Russia overspends on Putin’s war in Ukraine by $28bn
-Finance ministry asked cabinet in February to freeze expenditure in other areas as cost of conflict mounts
-
 ## Russian drone hits apartment building in Romania
 Nato and Bucharest condemn ‘reckless’ escalation after two people were injured in Galaţi
+
+## Should Labour heed Tony Blair?
+Plus, Restore Britain’s threat to Reform UK
+
+## Sports media host Stephen A Smith: ‘The audience gravitated to me’
+ESPN’s highest-paid star on his plans to be the next Joe Rogan, what the Democrats get wrong — and his thoughts on a possible White House run
+
+## small caged mammal on the run
+in the grim darkness of the near future, small caged mammal
 
 ## Washington nearing deal to extend Iran ceasefire, US officials say
 Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
 
-## Charles Goodhart: ‘Demography is going to make life worse and worse and worse’
-The leading economist warns that fiscal pressures will constrain independent monetary policy
+## French economy contracts by 0.1% in first quarter
+Unexpected fall driven by weak domestic demand and drop in exports
 
-## Magyar pushes for breakthrough to secure frozen EU funds
-Also in this newsletter: US tech group IBM steps up lobbying efforts
+## FirstFT: Russia overspends on Putin’s Ukraine war
+Also in today’s newsletter: US and Iran near ceasefire extension, and Blue Origin rocket explodes during testing
 
-## FirstFT: Russia overspends on Putin’s Ukraine war by $28bn
-Also in today’s newsletter: Israel attacks Beirut and EU chip supply
+## How Andy Burnham adapted his politics to skyscraper city
+Greater Manchester mayor is well-versed in showing solidarity with voters over housing, but his policy record is complicated
 
-## Marc Rowan rolled in Hamptons lobster fight
-A New York court ruling puts the Apollo chief back at ‘square one’ in a tussle with locals
-
-## Drone start-up Stark set for €2.5bn valuation in new fundraising
-German company aiming to secure at least €300mn from investors
+## How the global EV shift made Ferrari Europe’s most valuable carmaker
+Fears of Chinese competition have savaged valuations of mass-market peers
 
 ## Ocado shares jump after striking online grocery deal with Asda
 British technology group boosted following major blow to US business last year
 
+## CVC nears deal for IFF’s $4bn food ingredients division
+Private equity firms increasingly seek to carve out underperforming divisions of big corporate groups
+
 ## FT Wealth: May
 In this edition: The €1bn Ponzi scheme which rocked France; what football and finance have in common; the power of Christopher Anderson’s pictures; downsides to tax moves; Monaco’s many faces; London’s priciest sushi menu
+
+## Marc Rowan rolled in Hamptons lobster fight
+A New York court ruling puts the Apollo chief back at ‘square one’ in a tussle with locals
 
 ## Several BP shareholders found ousted chair ‘challenging’
 Several large investors say it was hard to arrange meetings with Albert Manifold before his removal from oil major
 
-## ‘Bonkers’: the audacious plan for a 1mn-person city near Cambridge
-Shiv Malik, a former journalist, conceived his vision of timber skyscrapers after chronicling how young people were struggling
+## Sanstar Limited Announces Strategic Partnership with Ingredion Incorporated Through Preferential Issue and Joint Venture
 
-## Investors race to get exposure to SpaceX ahead of IPO
-Net $14bn pours into funds with stakes in rocket company while ETF providers line up wave of new products
 
-## India's semiconductor push gains momentum as Odisha signs chip technology MoU with Intel, 3DGS
-Ashwini Vaishnaw says latest pact will strengthen semiconductor ecosystem amid push for domestic chip production
+## Investing Beyond Market Cycles Through Active Allocator Long-Short Fund
 
-## India, Canada push trade pact amid parallel law enforcement focus
-Piyush Goyal, Canadian Minister Sidhu launch trade & investment forum; Canada trade mission to visit India later this year
 
-## Q4 Results Today Live: BEML shares down as Q4 profit falls, IPCA Lab profit rises y-o-y, Asian Paints, IndiGo, NMDC, Glenmark Pharma, IREDA, Gujarat Gas, Natco Pharma, Inox Wind, NMDC Steel, JM Financial to announce Q4 results
+## Zappfresh with Beti Foundation and UN IIMSAM Mark World Hunger Day with Community Outreach Initiative at IIT Delhi
+
+
+## MG MAJESTOR 4X2 Automatic Top Trim Launched at INR 40.99 Lakhs(ex-showroom price)
+
+
+## IndiGo posts ₹2,536.9 crore loss in March quarter of FY26
+Total income in the fourth quarter of the 2025-26 fiscal rose over 3% to ₹23,830.7 crore from ₹23,097.5 crore in the same period a year ago, according to a release
+
+## UN-honoured Tamil Nadu farmer turns coconut losses into profits with tree-based farming
+The farm now cultivates more than 14 crop varieties, uses significantly less water and has remained resilient during severe droughts
+
+## Godrej Foundation launches Tomorrow Makers to unlock India’s untapped talent
+
+
+## Q4 Results Today Live: IndiGo posts Q4 loss, RCOM loss widens, Natco Pharma & BEML Q4 profit down, Asian Paints & IPCA Lab profit up y-o-y, Glenmark Pharma, IREDA, Gujarat Gas, NMDC, JM Financial to announce Q4 results
 Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
 
-## With stalemate in Ukraine, discontent at home, Putin seems ready to escalate his war
-Russian Foreign Minister Sergey Lavrov calls US Secretary of State Marco Rubio to warn him of the coming strikes and push for the evacuation of its diplomats
+## Why did stock market crash in the final hours of trade today? Sensex, Nifty50 plunge - check top reasons
 
-## India may receive 90% of normal monsoon in 2026, says IMD
-Latest forecast is a downward revision from April when IMD said rainfall to be 92% of LPA
 
-## Sensex today | Stock Market Live 29 May: Sensex falls 300 pts, Nifty 50 below 23,700 in choppy trade; IT holds firm as energy, aviation stocks drag
-Sensex, Nifty, Share Prices live updates: Markets reversed their early morning gains by midday on Friday, with both benchmark indices trading in negative territory as selling pressure in energy, aviation, and infrastructure stocks outweighed continued strength in information technology. The Sensex w
+## BSE Sensex tanks 1,092 points; Nifty 50 slips below 23,600
 
-## Toyota Urban Cruiser Ebella EV launched at ₹23.60 lakh after 4-month delay; dealer arrivals by mid-June
-TKM had first unveiled the Urban Cruiser Ebella in Mumbai on January 20, 2026, while opening bookings the same day
 
-## Bank time deposits, debt MFs act as complementary investment avenues: RBI report
-“This structural segmentation minimises direct competition between the two instruments, fostering concurrent allocation rather than substitution,” per the analysis
+## India-US partnership has ‘limitless potential’, says Sergio Gor as trade deal nears
+
+
+## Review of RBI Act, currency swap with BRICS part of FY27 agenda
+
 
 ## A truce, $300 billion investment & Hormuz: What's in the draft deal that can end US-Iran war?
 Mediators are facilitating fresh US-Iran negotiations on a draft memorandum aimed at ending the ongoing conflict. The proposed agreement includes a multi-billion dollar reconstruction package for Iran's economy and a temporary non-aggression arrangement, with nuclear talks deferred to a later phase.
@@ -72,68 +87,65 @@ Acknowledging the impact of the West Asia crisis, the RBI has said that several 
 ## Gold price prediction: What's the outlook for gold prices recover on May 29, 2026 & what should investors do?
 Gold price prediction today: Gold prices seem to be seeing some rebound and the outlook remains constructive, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities recommends a buy on dip strategy.
 
-## Stock Market Live Updates Today: BSE Sensex opens above 76,100; Nifty50 near 24,000 as global crude oil prices drop
-
-
 ## Sanctions war on? US tightens curbs on Iran oil despite probable deal to ease Hormuz movement
 
 
-## Top stocks to buy today: Stock recommendations for May 29, 2026 - check list
-Stock market recommendations: Varun Beverages (VBL), and Eternal are the top stock picks by Bajaj Broking Research has chosen for May 29, 2026:
+## Assam journalist assaulted, media office vandalised in Silchar; one detained: Cops
+Raju Das, a reporter and anchor for Silchar-based newspaper-cum-digital platform Barak Bani, alleged that accused first called him to ask where he was and later entered office to assault him
 
-## Gold, Silver Rate Today Live Updates: International gold prices move up; all eyes on US-Iran peace deal
+## CBSE postpones Class 12 re-evaluation portal launch to June 1, says website being strengthened
+OSM row: A CBSE official told Hindustan Times that the portal would not open on Friday, May 29, as earlier expected.
 
+## ‘Throats slit, bodies set on fire’: Shocking details emerge in ex-sarpanch family's murder by first wife in Rajasthan
+The former sarpanch's first wife and her children have been arrested in connection with the alleged murders stemming from a long-standing family conflict.
 
-## Tata Motors sees EV bookings surge as fuel costs climb
+## IndiGo posts ₹2,536.9 crore loss in March quarter of FY26
+Total income in the fourth quarter of the 2025-26 fiscal rose over 3 per cent to ₹23,830.7 crore from ₹23,097.5 crore in the same period a year ago.
 
+## How do Indian ships cross risky Strait of Hormuz? Govt reveals, keeping some details secret
+India is among the countries with the highest number of vessels passing through the Strait of Hormuz amid the US-Iran war.
 
-## Twisha Sharma death probe: CBI gets 5-day custody of mother-in-law Giribala Singh
-The central agency also got five-day extension of custody for Samarth Singh, Twisha's husband
+## One day of extreme heat tied to 3,400 excess deaths in India, nearly 30,000 over five days: Study
+Temperatures have remained above 45 degrees Celsius in parts of Madhya Pradesh, Rajasthan, Uttar Pradesh and Haryana in recent days.
 
-## Ex-CCI chief's death in Delhi draws focus to ‘late arrival’ of fire team; neighbour recalls what happened
-Dhanendra Kumar, 79, died on Thursday after a suspected AC blast triggered a fire at his Hauz Khas home the night before.
+## Involving kids in poll campaigning inappropriate: Madras HC on plea against TVK
+The PIL specifically referred to a campaign speech delivered by CM Vijay at the YMCA grounds in Chennai on April 21, where he appealed to children to ensure that adults in their families voted for TVK
 
-## Identical videos of principals defending CBSE's OSM system go viral: ‘Fair, transparent, faster’
-The principals used similar language — describing the OSM system as “transparent”, “accurate”, “faster” and “technology-driven” while backing the decision.
+## SC allows Vinesh Phogat to join Asian Games trials, takes exception to HC order
+The Delhi high court last week called the Wrestling Federation of India (WFI) policy refusing to consider past accomplishments of iconic players exclusionary
 
-## Brutal June, above-normal heat wave days, rain forecast cut further: Key IMD projections
-IMD on Friday further reduced the monsoon rain forecast for this year and warned of above-normal heat wave days.
-
-## Congress MP alleges irregularities in candidates selection, seat allocation for Tamil Nadu polls
-Congress MP S Jothimani alleged "massive irregularities" in allocating constituencies and selecting party candidates for the April 23 Tamil Nadu Assembly polls.
-
-## India may see 90% of long-period average rainfall this monsoon: IMD
-India may see 90% of long-period average rainfall this monsoon: IMD
-
-## R B Udhayakumar warns Aadhav Arjuna of 'political consequences' if he poaches AIADMK cadre
-R B Udhayakumar warns Aadhav Arjuna of 'political consequences' if he poaches AIADMK cadre
-
-## Maharashtra: Suspected spurious liquor kills 13 in Pune, Pimpri-Chinchwad
-Residents linked the deaths to consumption of spurious liquor even as police said the exact cause of the deaths would be known only they get post-mortem reports
-
-## Shape of Momo movie review: A deeply felt tale of dreams and desires
+## Tuner movie review: Dustin Hoffman and Leo Woodall save this chaotic musical thriller
 
 
-## Took all precautions; junked NEET after inputs of malpractice: NTA to Supreme Court
+## 220 trees, 2 grounds to make way for redevelopment project in this Mumbai suburb
 
 
-## ‘One son is not enough’: Doctor raises alarm over 22-year-old expecting her sixth child
+## ‘By no stretch of imagination’: Court rejects claim that dead pillion rider caused crash, awards Rs 12 lakh to family
 
 
-## Can SSB constable reinstated on ‘sympathetic’ grounds claim back wages? Court answers
+## Rishabh Pant steps down as Lucknow Super Giants captain
 
 
-## Maatrubhumi gets first review: Subhash Ghai calls Salman Khan’s film a ‘must watch’
+## Tourist group from Rajasthan fined in Manali for reckless driving; viral video sparks outrage
 
 
-## 3 wounded in Switzerland stabbing, Winterthur authorities call it ‘act of terror’
+## ‘Unrecognised disaster’: NGT seeks response from Centre, states on heatwave conditions across India
 
 
-## ‘GT will 100% win IPL 2026’: R Ashwin predicts strong comeback for Shubman Gill’s team
+## llegal miners extract billions in Amazon gold despite Brazil crackdown, Greenpeace finds
 
 
-## TS ICET provisional answer key issued at icet.tgche.ac.in
+## ‘No one asked me’: Saif Ali Khan says his dad spoke less but taught a lot; expert weighs in
 
+
+## HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally
+Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks. The latest additions increase the benc
+
+## Wingtech says core of Nexperia China unit now based on mainland, can operate independently
+China’s Wingtech Technology says it has developed an independent management operation for Nexperia’s Chinese unit, in a bid to insulate the local business as it fights to regain control of the Dutch chipmaker. Wingtech chairwoman Ruby Yang Mu said on Friday that the core management, research and dev
+
+## Lenovo’s status as Hang Seng Index top performer in 2026 validates AI push
+Lenovo Group has unexpectedly emerged as the best performer on the Hang Seng Index this year after its shares more than doubled, as optimism builds that the Chinese personal computer (PC) maker will become more reliant on artificial intelligence for growth. The stock surged 22 per cent to HK$24 in H
 
 ## Global Prosperity Summit 2026 reinforces Hong Kong’s strategic importance in advancing Apec cooperation and global governance
 The Global Prosperity Summit 2026 (GPS 2026) highlighted Hong Kong’s expanding role in international and regional cooperation both within China’s Global Governance Initiative as well as Apec, ahead of a meeting of the bloc’s economic leaders in neighbouring Shenzhen later this year. The two-day even
@@ -150,14 +162,8 @@ China’s Innovent Biologics has signed a global collaboration with pharmaceutic
 ## China launches first green bond sale in Hong Kong, aiming to raise US$886 million
 China launched the sale of 6 billion yuan (US$886 million) of green sovereign bonds in Hong Kong late on Thursday night, the first such offering in the city, as Beijing doubles down on the efforts to boost its presence in offshore debt markets and seeks funding to support climate action amid the oil
 
-## How the wine industry can stage a comeback in China – using social media
-China has lost its taste for wine in recent years, with consumption plunging dramatically since the Covid-19 pandemic. But winemakers can recover if they embrace social media and work with Chinese influencers, according to an industry insider. Wealthy Chinese are still splashing out on fine wine, wh
-
-## China’s private funds see assets soar by over US$400 billion amid tech boom
-China’s private fund industry has seen its assets under management climb to a record high, buoyed by rebounding market confidence and a surge in technology-related investments. The nation’s private investment funds had assets totalling 23.46 trillion yuan (US$3.46 trillion) as of the end of April, u
-
-## Premium plan: China’s EV makers pin hopes on high-end models to buttress margins
-Chinese electric vehicle (EV) makers are speeding up their pivot to the premium segment, where they hope to secure higher profit margins and dodge the cutthroat market’s most vicious price competition. New models launched by carmakers including Nio and Seres also mount a challenge to Tesla’s bestsel
+## What’s Behind the EU-Mexico Trade Deal?
+With USMCA on ice, Mexico City is looking across the Atlantic for new partners.
 
 ## Don’t Count the Quad Out
 A more modest agenda is also more credible.
@@ -180,8 +186,8 @@ Turkey is moving from repressing the opposition to reshaping it.
 ## Cubans Abandon the American Dream
 As conditions on the island worsen, people are leaving—just not for the United States.
 
-## Bibi’s Manichean Politics
-Over three decades, Netanyahu’s pivot to divisive electioneering has paid off.
+## The United States’ Rare Earth Strategy Faces a Durability Test
+Rare earth projects require a solid commitment across political cycles, a challenge that the United States has not yet been able to overcome.
 
 ## What the Latest China-Russia Summit Means for Ukraine
 The Putin-Xi joint statement is not merely a statement of bilateral friendship. It is a war-era manifesto.
@@ -203,9 +209,6 @@ China wants to welcome foreign investment, but its red lines are shifting. That�
 
 ## Australia’s View of the Evolving Quad
 Canberra’s position – that Indo-Pacific stability depends not only on military deterrence, but also on the protection of trade flows, energy supplies, critical technologies, and economic sovereignty – has moved to the fore.
-
-## China’s Navy Is Shifting Pressure Beyond the Taiwan Strait
-China did not launch a large-scale, Taiwan-specific military exercise after the Trump-Xi meeting. But that doesn’t mean the PLAN has been inactive.
 
 ## How America Lost Its Most Important Defense Tech Habit
 On April 15, technology podcaster Dwarkesh Patel published a two-hour interview with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the serious cyber-offensive capabilities Anthrop
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australian court sets August date for ‘mushroom murderer’ appeal hearing
+Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.
+
+## ‘Dangerous colonial occupation’: Israel’s digital West Bank land register
+A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.
+
+## WHO chief visits DRC amidst Ebola crisis
+WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.
+
+## US-Iran 60-day proposal: What we know
+US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.
+
+## Kenyan court suspends US Ebola quarantine facility plan
+The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.
+
+## How the end of the nuclear file could reshape Iran, and the region
+A generation of nuclear ambition shaped the Islamic republic. Its end could undo the damage.
+
+## A visual guide to Ethiopia’s ethnic groups and conflict areas
+Ethiopia has faced near-continuous conflict since 2020, with fighting in Tigray, Oromia and Amhara.
+
 ## Gaza parents brave dental dilemma: Costly treatment or food on the table?
 Many Palestinians in Gaza are forgoing expensive dental treatment, at a detriment to their health.
-
-## South Korea’s SK Hynix enters exclusive $1 trillion club
-Chipmaker becomes second South Korean company in history to hit milestone.
-
-## NATO states slam Russia after drone crashes in Romania
-The incident adds to concern that Moscow's war on Ukraine risks spilling over to entangle neighbouring NATO states.
-
-## Netherlands’ World Cup 2026 team preview: Players to watch, group, squad
-The Dutch were unbeaten across their qualifiers and have a outside chance of lifting the trophy for the first time.
-
-## Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match
-Ireland's football match against Qatar was stalled by pro-Palestinian protests over upcoming games against Israel.
-
-## How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’
-Pakistan finds itself in a diplomatic sweet spot, wooed by Trump and China. Indian missteps are to blame, say analysts
-
-## Blue Origin rocket explodes on launch pad during test
-A rocket belonging to Jeff Bezos’ Blue Origin exploded during a test at the Florida launch pad Thursday night.
-
-## What’s happening on Iran war day 91 as US, Iran near 60-day deal
-US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
