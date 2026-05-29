@@ -31,7 +31,7 @@ Takeover of budget airline would lead to another UK-listed company taken off the
 Tie-up suggests the online grocery delivery group is nearing its goal after it struggled to win new partners
 
 ## US stocks post longest weekly winning streak since 2023
-Rally is latest sign of Wall Street’s exuberance over companies linked to AI
+AI enthusiasm and hopes for deal to extend US-Iran ceasefire boost markets
 
 ## IIFCL’s equity dilution gets government nod
 The company reports profit of ₹1,379 crore in FY26
@@ -57,6 +57,9 @@ Introduced under the Sagar Aankalan framework, the Logistics Port Performance In
 ## Delhi Airport becomes first Indian infrastructure facility to host ‘Skycast’ aviation weather intelligence system
 Skycast platform to provide real-time weather monitoring and hazard alerts for flight operations
 
+## Only 1% work left on India-US trade deal: US ambassador Sergio Gor
+
+
 ## Create 30-day strategic LPG reserve, govt instructs OMCs
 
 
@@ -77,9 +80,6 @@ India's largest airline, IndiGo, reported a consolidated net loss of Rs 2,536.9 
 
 ## US stock markets today (May 30, 2026): S&P 500, Nasdaq extend record run as Dell jumps 33% on AI demand
 US stocks continued their record-setting rally, driven by strong earnings and AI optimism, pushing major indices higher. Despite inflation and geopolitical concerns, investor sentiment was buoyed by hopes of a US-Iran ceasefire extension, easing energy market pressures. Technology stocks, particular
-
-## Bloodbath on D-Street: Investors lose Rs 5.77 lakh cr in final hours of trade today
-Indian stock markets experienced a significant downturn on Friday. Investor wealth saw a substantial decline of Rs 5.77 lakh crore. Benchmark indices, Sensex and Nifty50, plunged sharply in the final trading hour. Concerns over a weaker monsoon outlook and geopolitical uncertainty fueled the sell-of
 
 ## Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
 Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
@@ -153,6 +153,9 @@ China is expected to keep adding to its gold reserves as central banks in emergi
 ## China’s Innovent Biologics signs US$10.5 billion Pfizer deal for 12 cancer drug trials
 China’s Innovent Biologics has signed a global collaboration with pharmaceutical giant Pfizer worth up to US$10.5 billion to jointly develop 12 cancer treatment programmes. The Hong Kong-listed drug maker said it would receive an upfront payment of US$650 million from Pfizer, and it is eligible for 
 
+## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
+Both countries have refuted the allegations and accused the agency of bias.
+
 ## What Iran Stands to Gain From a Truce Deal With the United States
 U.S. concessions could include the unfreezing of assets and unsanctioning of oil.
 
@@ -173,9 +176,6 @@ Test yourself on the week of May 23: The U.S. strikes Iran, European countries s
 
 ## Syria Wants to Replace the Strait of Hormuz
 The country hopes to fund its reconstruction by serving as the Middle East’s new transit and logistics hub.
-
-## Of Course It’s a War
-Trump’s legal evasion regarding Iran reveals the rotten state of constitutional war powers.
 
 ## Why Does Okinawa Have So Many US Military Bases?
 Author Jon Mitchell’s new book offers some answers.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs
+Lula warned that labelling Brazil's criminal networks as 'terrorists' could 'undermine' local law enforcement efforts.
+
+## Ebola treatment centre rebuilt after being torched by protesters in DRC
+Workers in eastern DR Congo are rebuilding an Ebola treatment centre that was burned by protesters earlier this month.
+
+## UN: “100% of Gaza” should be for Palestinians
+United Nations spokesperson Stephane Dujarric said “100% of Gaza” should belong to Palestinians.
+
+## Iran denies ceasefire deal with US is “finalised”
+Iranian Foreign Ministry Spokesman Esmail Baghaei says that an agreement with the US “has not been finalised yet."
+
+## How realistic is Trump’s Iran framework?
+Analyst Alex Scheers remains skeptical Tehran will accept Washington’s demands, saying “nothing concrete is in place” ye
+
+## Could Alberta trigger Canada’s Brexit moment?
+Alberta separatists are gaining momentum as Canada faces its biggest unity crisis in decades.
+
+## Polish president threatens to strip Ukraine’s Zelenskyy of top state honour
+Ukrainian leader's move to rename army unit after fighters who killed Poles in WWII causes 'outrage' in Poland.
+
 ## Canada sidelined in USMCA renegotiations as domestic economy dips
 Canada strengthens Chinese trade ties, seeking economic diversification amid growing US–Canada trade tensions
-
-## Ex-US Attorney General Pam Bondi testifies in Epstein files probe
-Bondi, who was fired in April, defended the release of Epstein records in a closed-door congressional hearing.
-
-## Netanyahu says Israeli forces have crossed Lebanon’s Litani River
-Israeli Prime Minister Benjamin Netanyahu said Israeli forces had crossed the Litani River in southern Lebanon.
-
-## Israel, Russia among new additions on UN sexual violence ‘blacklist’
-New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year.
-
-## Trump heads into Situation Room to potentially finalise Iran deal
-Donald Trump says he’s in the Situation Room at the White House to make a “final determination” on a deal with Iran.
-
-## What’s next after scrapping the ‘Black Code’ in France?
-French MPs vote to repeal law that governed slavery in colonies.
-
-## Russian rate of losses in Ukraine almost triples in one year
-Territorially, Russia is at a standstill in 2026, assessments of its ground war reveal.
-
-## Romania to expel Russian consul after residential drone strike
-Romanian President Nicusor Dan says that the Russian consul in the southeastern city of Constanta will be expelled.
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
