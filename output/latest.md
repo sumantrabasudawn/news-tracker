@@ -3,71 +3,83 @@
 ## Trump pledges ‘final determination’ on Iran deal to extend ceasefire
 US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
 
-## Inflation and interest rates tracker: see how your country compares
-Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
+## Universal Music declines takeover offer from Bill Ackman’s Pershing Square
+Hedge fund billionaire argued moving record company’s listing from Amsterdam to New York would unlock value
 
-## Trump’s $1.8bn ‘anti-weaponisation’ fund blocked by judge
-In legal challenge, plaintiffs allege the money ‘rewards and incentivises unlawful behaviour’
+## US securities regulator seeks to end corporate disclosures on climate risk
+SEC looking to overturn Biden-era requirement after finding it a ‘dramatic over-reach’ of authority
 
-## UK struggles to adapt to hotter summers
-Significant investment required in homes and infrastructure to build resilience, say experts
+## Citadel Securities posts record $4.3bn in trading revenues on Iran volatility
+Market maker earns $1.9bn in first-quarter net income as oil prices and Treasury rates seesawed
 
-## Kazakhstan offers to take Iran’s uranium stockpile, watchdog says
-Fate of highly enriched material is one of the thorniest issues in US-Iran talks to end war
+## Oil prices fall on hopes of Strait of Hormuz reopening
+Biggest monthly decline in Brent crude since 2020 comes amid signs US and Iran could be close to a deal
 
-## Poland threatens to strip Zelenskyy of state honour
-Ukrainian president offends Warsaw with reference to second world war fighters accused of murdering Poles
+## Goldman Sachs: it isn’t coming home
+‘Major footballing nations generally get a World Cup boost, with the notable exception of England’
 
-## EU agrees to unlock Hungary’s frozen funds
-Péter Magyar strikes political agreement with European Commission for €16bn blocked over graft concerns
+## Russian drone hits apartment building in Romania
+Nato and Bucharest condemn ‘reckless’ escalation after two people injured in Galaţi city
 
-## UK police charge man with assisting Iranian intelligence
-Alleged offence relates to targeting of a journalist at anti-regime Iran International Television
+## BoE governor warns Middle East ceasefire would ‘still create uncertainty’
+Andrew Bailey says rate cuts can only come when policymakers are ‘much more confident’
 
-## China’s Zijin faces delays to its $4bn swoop for Allied Gold
-Allied’s biggest mine is in Mali, which has arrested a number of foreign executives in recent years
+## Asda might help break Ocado’s supermarket stalemate
+Tie-up suggests the online grocery delivery group is nearing its goal after it struggled to win new partners
 
-## A bumpy road to electric vehicle success
-Ferrari Luce’s launch caused more heat than light but has lessons for incumbents
+## Dell’s shares soar 35% as US computer maker taps into AI fervour
+Rally is the latest sign of Wall Street’s exuberance over companies linked to artificial intelligence
 
-## Ocado shares jump after striking online grocery deal with Asda
-British technology group boosted following major blow to US business last year
+## SpaceX and the ‘enshittification’ of markets
+The IPO of Elon Musk’s company is a big risk for the millions of investors who have put savings into passive investing
 
-## CVC buys IFF’s food ingredients division for $4.3bn
-Deal is latest in a series of private equity swoops to carve out underperforming divisions from big corporate groups
+## Directors’ Deals: Aviva chief Blanc adds to stake
+Insurer’s share price has fallen by 8 per cent so far this year
 
-## Rise in Neets a ‘retirement crisis in slow motion’
-Delayed pension contributions could leave higher earners with a savings shortfall of £300,000
+## Stockpickers: Diaceutics, Pets at Home, Autotrader Group
+Our experts discuss which companies to buy, sell or hold this week
 
-## From ESPN to the White House?
-Sports media host Stephen A Smith on being the next Joe Rogan — and a possible presidential run
+## Kenyan court blocks US Ebola quarantine camp after protests
+A doctors’ group in Kenya also protested about the use of their country as a ‘containment colony’
 
-## How the global EV shift made Ferrari Europe’s most valuable carmaker
-Fears of Chinese competition have savaged valuations of mass-market peers
+## Meg O’Neill, the no-nonsense CEO steering BP through crisis
+The ‘bullying’ scandal that led to chair Albert Manifold’s removal coincides with an attempted turnaround
 
-## Experts evaluate promising Ebola treatments, including vax candidate from Oxford/Serum Institute
-The vaccine could potentially become available within two to three months for efficacy assessment through a clinical trial
+## TotalEnergies clears path for Patrick Pouyanné to stay beyond 2030
+Shareholders approve higher age limits for top jobs at oil major as board begins planning for succession
 
-## Pocket FM sees another senior-level exit as SVP Mayank Sancheti resigns
-Mayank Sancheti played a significant role in driving the company’s product, monetisation and growth strategies
+## IIFCL’s equity dilution gets government nod
+The company reports profit of ₹1,379 crore in FY26
 
-## VOC Port Authority signs MoUs for green ammonia, sustainability initiatives
-The project will include ammonia handling, storage and bunkering infrastructure, pilot bunkering operations, safety systems and training programmes
+## Infosys CEO Salil Parekh earns ₹82.6 crore in FY26, up 2%
+His compensation was 742 times the median employee salary at Infosys, which stood at ₹11.13 lakh during the year
 
-## Pocket
+## Letters to the Editor dated May 29, 2026
 
 
-## Forex exposure, fleet strategy in focus as IndiGo outlines FY27 roadmap
-The airline’s management said IndiGo’s total foreign exchange exposure currently stands at nearly $10 billion, of which around $1.3 billion has been hedged
+## GST dept issues ₹124 crore tax demand to SpiceJet, serves show-cause notice over delayed GST filings
+Authorities said SpiceJet repeatedly delayed filings, leading to a provisional assessment under GST law
 
-## Editorial. High stakes gamble
-Karnataka leadership change, not without political risk
+## Hindustan Copper approves Lohum deal to restart Gujarat Copper plant
+The board also cleared an MoU with Engineers India Ltd for technical, engineering and exploration support, as the company looks to expand and modernise its copper operations across multiple states amid India’s push for critical mineral security.
 
-## Agriculture Minister asks States to be prepared to deal with below-normal monsoon
-The government is prepared to handle the situation in the event of El Nino emergence
+## RBI foreign exchange income jumps 52% to ₹1.69 lakh crore in FY26
+The central bank also reported higher earnings from foreign securities and interest income, contributing to an overall surplus of ₹2.86 lakh crore, which has been transferred to the government
 
-## SC says NEET paper leak traumatised entire families; points to ‘ad-hocism’ in NTA
-The court zeroed in on the problem of “ad-hocism” in the NTA, and lack of “institutional memory and framework”.
+## India introduces LPPI to improve transparency and competitiveness of ports
+Introduced under the Sagar Aankalan framework, the Logistics Port Performance Index (LPPI) benchmarks port performance across cargo segments using operational indicators
+
+## Delhi Airport becomes first Indian infrastructure facility to host ‘Skycast’ aviation weather intelligence system
+Skycast platform to provide real-time weather monitoring and hazard alerts for flight operations
+
+## Finance ministry urges spending discipline, resilience amid global uncertainties; banks post record Rs 1.98 lakh crore profit
+
+
+## Over 40L households now benefit from rooftop solar systems under Surya Ghar Yojana
+Over 40 lakh households have adopted rooftop solar under the PM Surya Ghar Yojana, significantly boosting India's clean energy transition. The scheme, launched in February 2024, is progressing at an unprecedented pace, with Gujarat leading installations. This initiative empowers citizens to become p
+
+## Govt asks oil firms to build 30-day LPG reserves; says no distributor has run dry
+
 
 ## How government aims to save billions in forex with ethanol blended petrol
 Ethanol-blended petrol is made by mixing ethanol with petrol. Ethanol is a biofuel that is derived from a wide variety of food crops and feed stocks like sugarcane and petrol. Under the Ethanol Blended Petrol Programme, the original target for achieving E20 petrol sales.
@@ -84,14 +96,20 @@ Indian stock markets experienced a significant downturn on Friday. Investor weal
 ## Sebi slaps Rs 28.95 crore penalty on Suzlon, promoters over misleading financial disclosure
 
 
-## Forex reserves fall $7.5 billion to $681.4 billion as gold, foreign currency assets decline
-India's foreign exchange reserves dropped by $7.511 billion to $681.384 billion in the week ending May 22, marking a second consecutive weekly decline. This decrease follows a significant fall in the previous week, with the reserves now under pressure due to the Middle East conflict and RBI's curren
+## Punjab civic polls: AAP dominates, Congress distant second, BJP finishes fifth; Check party-wise results
+The Bharatiya Janata Party finished a distant fifth in the elections, behind the Independents and Shiromani Akali Dal.
 
-## Why did stock market crash in the final hours of trade today? Sensex, Nifty50 plunge - check top reasons
+## Eight lion cubs die in Gir in a week; Gujarat govt steps up preventive measures
+Forest minister Arjun Modhwadia said monitoring is being carried out by the chief minister’s office and the Prime Minister’s Office, and preventive measures, including large-scale deticking operations
 
+## Wet spell forecast in Himachal till June 4; alert issued for thunderstorm
+The inclement weather warning was issued for 10 districts, barring Kinnaur and Lahaul and Spiti, for Saturday (May 30).
 
-## India-US partnership has ‘limitless potential’, says Sergio Gor as trade deal nears
+## Ajit Doval meets Russia's maritime board chief Patrushev with focus on Arctic trade corridor, defence collaboration
+Doval and Patrushev also exchanged views on key global developments and reaffirmed the importance of strengthening bilateral cooperation in strategic sectors
 
+## Six killed in Karnataka’s Vijayapura over farmland dispute: Police
+Police said more than 10 men arrived while Nirale family members were clearing the property for cultivation with the help of labourers in Govindapura village.
 
 ## ‘Nothing decided yet’: DK Shivakumar stays tight-lipped on Karnataka CM post, defers decision to CLP meeting
 “Everything is happening as requested by the high command. Nothing has been decided,” Shivakumar said.
@@ -102,43 +120,28 @@ The move comes after the three-month-long conflict in West Asia disrupted global
 ## NFHS-6: Hospital births rise in India, but lifestyle disease crisis looms
 Along with the rise in hospital births, the NFHS-6 report cited an increase in percentage of deliveries attended by skilled health personnel from 89.4% to 91.3%
 
-## ‘Why do boys marry girls and then insult them?’: Supreme Court asks in dowry harassment case
-Refusing to interfere in the case, the top court made sharp observations on the treatment often faced by brides and their families in matrimonial homes.
-
-## TMC MP Kakoli Ghosh's ‘abuse’ complaint against party colleague Kalyan Banerjee to be referred to House panel
-TMC MP Kakoli Ghosh Dastidar's complaint against fellow party MP Kalyan Banerjee is to be send to a House committee
-
-## Five friends killed after car crashes into parked lorry on Karnataka highway
-Police said the group was travelling from Hanagal to Challakere when the accident took place at 9:45 pm near the Beedur–Srirangapatna stretch of the highway in Molakalmuru
-
-## 2 lakh e-rickshaws run illegally in Delhi: Why govt has capped their numbers | 5 points
-However, only 2,05,665 are officially registered, suggesting that around 2 lakh vehicles are plying illegally on city roads.
-
-## Three die after falling into septic tank in Assam’s Goalpara, one critical: Cops
-The accident happened around 9:30 am when the property owner, Josok Rabha (40), along with two labourers and a relative, was cleaning an old septic tank, officers said.
-
-## Karan Kundrra and Tejasswi Prakash’s lavish Mumbai home has hidden doors, luxury shoe vaults
+## ‘How do you know when to take rectal bleeding seriously?’
 
 
-## ‘Thought Joe’s having a stroke’: Jill Biden’s 2024 presidential debate memory sparks comments from Trump
+## Suruchi Phogat, Esha Singh complete an Indian 1-2 at Munich Shooting World Cup
 
 
-## Iran says ‘missiles, not dialogue’ will secure concessions as Trump weighs deal to extend ceasefire
+## Shubman Gill breezes to his fifth IPL century in Qualifier 2 vs RR
 
 
-## Parth Pawar asks NCP ministers to make routine contribution to party fund
+## Sakshi Sindwani on being body shamed after recreating Alia Bhatt’s Cannes look
 
 
-## Deliver verdicts within 3 months, upload bail orders same day: Supreme Court to High Courts
+## 8 lion cubs died of suspected Babesia infection, no deaths in 2 days: Gujarat Minister
 
 
-## Inside Maniesh Paul’s Mumbai home: A blend of English and European aesthetic
+## With six hooch deaths, situation tense in Hadapsar; Rohit Pawar vandalises ‘illicit liquor den’
 
 
-## Six hacked to death in Karnataka village over land dispute
+## Rescuers pull first trapped person from flooded Laos cave
 
 
-## Buzz around new Karnataka Cabinet as Siddaramiah, son meet Rahul
+## From film Uri to watching Navy officers: NDA toppers reveal their inspirations behind dreams of the uniform
 
 
 ## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
@@ -165,6 +168,15 @@ China is expected to keep adding to its gold reserves as central banks in emergi
 ## China’s Innovent Biologics signs US$10.5 billion Pfizer deal for 12 cancer drug trials
 China’s Innovent Biologics has signed a global collaboration with pharmaceutical giant Pfizer worth up to US$10.5 billion to jointly develop 12 cancer treatment programmes. The Hong Kong-listed drug maker said it would receive an upfront payment of US$650 million from Pfizer, and it is eligible for 
 
+## The Dollar Was—and Remains—an Accident
+As a new book shows, the dollar isn’t really the United States’ currency, but a 500-year-old relic.
+
+## Authoritarian Transformation in Istanbul’s Old City
+Two new books seek to capture the changing reality of Turkey and the world.
+
+## What in the World?
+Test yourself on the week of May 23: The U.S. strikes Iran, European countries summon Russian diplomats, and the WHO calls for a cease-fire in Congo.
+
 ## Syria Wants to Replace the Strait of Hormuz
 The country hopes to fund its reconstruction by serving as the Middle East’s new transit and logistics hub.
 
@@ -180,38 +192,29 @@ A more modest agenda is also more credible.
 ## Groundhog Day: Iran War Edition
 It’s an open question if negotiators can break the repetitive cycle engulfing the war.
 
-## Tentative U.S.-Iran Cease-Fire Extension Deal Awaits Trump’s Approval
-Tehran’s leadership has also not publicly signed off on the agreement yet.
+## Why Does Okinawa Have So Many US Military Bases?
+Author Jon Mitchell’s new book offers some answers.
 
-## No Commodity Is Safe From the Iran War
-From Diet Coke to condoms, the world’s supply chains have faced surprising downstream disruptions.
+## What Does Quad’s New Surveillance Initiative Mean for Indian Ocean Security?
+An Indian Ocean-focused initiative is welcome. But it will need to support a democratic information-sharing culture, if it is to attract participation from all regional countries.
 
-## The Iran War Has Only Worsened Sudan’s Conflict
-The country is uniquely vulnerable to regional shocks.
+## No Enemies, Stronger Army: Kazakhstan’s Strategic Bet
+Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.
 
-## The United States’ Rare Earth Strategy Faces a Durability Test
-Rare earth projects require a solid commitment across political cycles, a challenge that the United States has not yet been able to overcome.
+## What the 1980s ‘Japan Panic’ Tells Us About Today’s ‘China Threat’
+It’s almost eerie how easily contemporary China discourse parallels U.S. rhetoric about Japan in the 1980s – especially given the huge differences between the two countries.
 
-## What the Latest China-Russia Summit Means for Ukraine
-The Putin-Xi joint statement is not merely a statement of bilateral friendship. It is a war-era manifesto.
+## Penpa Tsering’s Re-election and the Institutional Future of the Tibetan Movement
+The Tibetan movement has long been dependent on the personal moral authority of the Dalai Lama. In a post-Dalai Lama world, the Central Tibetan Administration will need to step up.
 
-## When Buddhist Robes Meet Sri Lankan Law
-Recently, the chief prelate or custodian of eight sacred sites in Sri Lanka was arrested on charges of sexually assaulting and raping a child. He is out on bail.
+## South Korea’s Matchmaking Boom Is Turning Inequality Into Compatibility
+South Korea’s demographic crisis is exposing a deeper problem: how class, gender, education, housing, and family background shape who is considered marriageable.
 
-## The Double China Shock: How Beijing Is Disrupting Both Developing and Advanced Economies
-China intends to keep making low-tech goods alongside its push into advanced technology. That's bad news for advanced and developing economies alike.
+## China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability
+Disruptions in Hormuz immediately generate concern regarding Malacca, another vital maritime chokepoint.
 
-## Rethinking the ‘Absolute Bar’ on Scheduled Caste Status in India
-By tying caste recognition to religion, the law risks excluding those who continue to face the same discrimination it seeks to remedy.
-
-## Transporting Oil to China by Rail Will Not Solve Iran’s Export Headache
-The overland route presents a limited lifeline for Tehran, but cannot substitute for sea-based oil trade.
-
-## The Manus Fallout Highlights Structural Problems in China’s Industrial Policy Ecosystem
-China wants to welcome foreign investment, but its red lines are shifting. That’s not an attractive proposition for many companies.
-
-## Australia’s View of the Evolving Quad
-Canberra’s position – that Indo-Pacific stability depends not only on military deterrence, but also on the protection of trade flows, energy supplies, critical technologies, and economic sovereignty – has moved to the fore.
+## Strategic Implications of Myanmar’s Offensive in Chin State
+The Tatmadaw’s advances will have implications not only for Myanmar’s internal conflict, but for neighboring India and Bangladesh.
 
 ## How America Lost Its Most Important Defense Tech Habit
 On April 15, technology podcaster Dwarkesh Patel published a two-hour interview with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the serious cyber-offensive capabilities Anthrop
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Five killed in Lebanon as Israeli forces advance across key Litani River
-Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon.
+## Russian rate of losses in Ukraine almost triples in one year
+Territorially, Russia is at a standstill in 2026, assessments of its ground war reveal.
 
-## Israel strikes building in Gaza’s Shati refugee camp
-Israel strikes building in Gaza’s Shati refugee camp.
+## Romania to expel Russian consul after residential drone strike
+Romanian President Nicusor Dan says that the Russian consul in the southeastern city of Constanta will be expelled.
 
-## Eid and sacrifice in Gaza
-Eid al-Adha in Gaza this year marked the third Eid in a row without animal sacrifice or Hajj.
+## Israeli fighter jets strike village in south Lebanon
+Video shows the moment Israeli fighter jets struck a residential building in Ain Qana village in southern Lebanon.
 
-## On the road to Rogun Dam, Tajikistan’s ‘greatest dream’
-Al Jazeera visits the site of the Rogun dam construction, Tajikistan's 'project of the century'.
+## ‘A landmark’: Brazil’s prosecutors hail court ruling to preserve Fordlandia
+Advocates have argued that Brazil's government has dragged its feat over Fordlandia's fate, leaving the site to decay.
 
-## Colombia’s ‘Total Peace’ plan: A failure or unfinished business for Petro?
-As Colombia prepares to elect a new president, candidates are debating the legacy of Gustavo Petro's signature policy.
+## Eight students arrested in deadly Kenyan school dorm fire
+Kenyan police have arrested eight students on suspicion of arson after a deadly fire ripped through a girls’ school.
 
-## US federal judge temporarily blocks Trump’s ‘anti-weaponisation fund’
-The nearly $1.8bn fund stemmed from a recent IRS settlement with Donald Trump over his leaked tax records.
+## EU to release billions in frozen funds for Hungary amid Magyar reforms
+PM Peter Magyar called ​the agreement to unlock funds frozen under former leader Orban a 'historic' breakthrough.
 
-## PSG vs Arsenal: Champions League final – teams, start time, lineups
-PSG seek to defend the title they won for the first time, while Arsenal hope for first Champions League trophy lift.
+## Trump says ‘final determination’ to be made on possible Iran deal
+Deep mistrust remains between Washington and Tehran as Iran says 'no final agreement' reached with US.
 
-## Just what are Israel’s long-term plans for Gaza?
-Despite an apparent ceasefire, Israel's leaders continue to hint at annexation and ethnic cleansing.
+## Will the AI race fuel another boom or another bubble?
+AI giants are racing towards public listings as valuations soar.
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
