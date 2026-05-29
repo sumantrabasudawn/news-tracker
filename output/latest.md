@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges
+Administration ordered to halt actions linked to legal fund and separately remove president’s name from arts complex
+
+## Durex sales hit by China’s condom crackdown
+Wide-ranging measures to boost the country’s birth rate are denting demand for China’s leading contraceptive brand
+
+## Lula slams US move to designate Brazil drug cartels as terrorist groups
+Classification reignites tensions between Donald Trump and leftwing president
+
+## BoE governor warns Middle East ceasefire would ‘still create uncertainty’
+Andrew Bailey says interest rate cuts can only come when policymakers are ‘much more confident’
+
 ## Trump pledges ‘final determination’ on Iran deal to extend ceasefire
 US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
 
@@ -12,41 +24,14 @@ SEC looking to overturn Biden-era requirement after finding it a ‘dramatic ove
 ## Citadel Securities posts record $4.3bn in trading revenues on Iran volatility
 Market maker earns $1.9bn in first-quarter net income as oil prices and Treasury rates seesawed
 
-## Oil prices fall on hopes of Strait of Hormuz reopening
-Biggest monthly decline in Brent crude since 2020 comes amid signs US and Iran could be close to a deal
-
-## Goldman Sachs: it isn’t coming home
-‘Major footballing nations generally get a World Cup boost, with the notable exception of England’
-
-## Russian drone hits apartment building in Romania
-Nato and Bucharest condemn ‘reckless’ escalation after two people injured in Galaţi city
-
-## BoE governor warns Middle East ceasefire would ‘still create uncertainty’
-Andrew Bailey says rate cuts can only come when policymakers are ‘much more confident’
+## Private credit firm Castlelake explores bid for easyJet
+Takeover of budget airline would lead to another UK-listed company taken off the stock market
 
 ## Asda might help break Ocado’s supermarket stalemate
 Tie-up suggests the online grocery delivery group is nearing its goal after it struggled to win new partners
 
-## Dell’s shares soar 35% as US computer maker taps into AI fervour
-Rally is the latest sign of Wall Street’s exuberance over companies linked to artificial intelligence
-
-## SpaceX and the ‘enshittification’ of markets
-The IPO of Elon Musk’s company is a big risk for the millions of investors who have put savings into passive investing
-
-## Directors’ Deals: Aviva chief Blanc adds to stake
-Insurer’s share price has fallen by 8 per cent so far this year
-
-## Stockpickers: Diaceutics, Pets at Home, Autotrader Group
-Our experts discuss which companies to buy, sell or hold this week
-
-## Kenyan court blocks US Ebola quarantine camp after protests
-A doctors’ group in Kenya also protested about the use of their country as a ‘containment colony’
-
-## Meg O’Neill, the no-nonsense CEO steering BP through crisis
-The ‘bullying’ scandal that led to chair Albert Manifold’s removal coincides with an attempted turnaround
-
-## TotalEnergies clears path for Patrick Pouyanné to stay beyond 2030
-Shareholders approve higher age limits for top jobs at oil major as board begins planning for succession
+## US stocks post longest weekly winning streak since 2023
+Rally is latest sign of Wall Street’s exuberance over companies linked to AI
 
 ## IIFCL’s equity dilution gets government nod
 The company reports profit of ₹1,379 crore in FY26
@@ -72,6 +57,9 @@ Introduced under the Sagar Aankalan framework, the Logistics Port Performance In
 ## Delhi Airport becomes first Indian infrastructure facility to host ‘Skycast’ aviation weather intelligence system
 Skycast platform to provide real-time weather monitoring and hazard alerts for flight operations
 
+## Create 30-day strategic LPG reserve, govt instructs OMCs
+
+
 ## Finance ministry urges spending discipline, resilience amid global uncertainties; banks post record Rs 1.98 lakh crore profit
 
 
@@ -93,8 +81,11 @@ US stocks continued their record-setting rally, driven by strong earnings and AI
 ## Bloodbath on D-Street: Investors lose Rs 5.77 lakh cr in final hours of trade today
 Indian stock markets experienced a significant downturn on Friday. Investor wealth saw a substantial decline of Rs 5.77 lakh crore. Benchmark indices, Sensex and Nifty50, plunged sharply in the final trading hour. Concerns over a weaker monsoon outlook and geopolitical uncertainty fueled the sell-of
 
-## Sebi slaps Rs 28.95 crore penalty on Suzlon, promoters over misleading financial disclosure
+## Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
+Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
 
+## Number of Indian women with digital access doubled since 2021: Survey
+Number of Indian women with digital access doubled since 2021: Survey
 
 ## Punjab civic polls: AAP dominates, Congress distant second, BJP finishes fifth; Check party-wise results
 The Bharatiya Janata Party finished a distant fifth in the elections, behind the Independents and Shiromani Akali Dal.
@@ -114,11 +105,11 @@ Police said more than 10 men arrived while Nirale family members were clearing t
 ## ‘Nothing decided yet’: DK Shivakumar stays tight-lipped on Karnataka CM post, defers decision to CLP meeting
 “Everything is happening as requested by the high command. Nothing has been decided,” Shivakumar said.
 
-## Centre asks fuel retailers to maintain 30-day LPG reserves as supply concerns rise amid West Asia tensions
-The move comes after the three-month-long conflict in West Asia disrupted global energy supply chains, affecting India's energy imports from the Gulf region.
+## Tanishaa Mukerji opens up about ‘trauma bonding’ with Armaan Kohli on Bigg Boss
 
-## NFHS-6: Hospital births rise in India, but lifestyle disease crisis looms
-Along with the rise in hospital births, the NFHS-6 report cited an increase in percentage of deliveries attended by skilled health personnel from 89.4% to 91.3%
+
+## Shubman Gill upstages Vaibhav Sooryavanshi as Gujarat Titans enter IPL final
+
 
 ## ‘How do you know when to take rectal bleeding seriously?’
 
@@ -136,12 +127,6 @@ Along with the rise in hospital births, the NFHS-6 report cited an increase in p
 
 
 ## With six hooch deaths, situation tense in Hadapsar; Rohit Pawar vandalises ‘illicit liquor den’
-
-
-## Rescuers pull first trapped person from flooded Laos cave
-
-
-## From film Uri to watching Navy officers: NDA toppers reveal their inspirations behind dreams of the uniform
 
 
 ## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
@@ -168,6 +153,15 @@ China is expected to keep adding to its gold reserves as central banks in emergi
 ## China’s Innovent Biologics signs US$10.5 billion Pfizer deal for 12 cancer drug trials
 China’s Innovent Biologics has signed a global collaboration with pharmaceutical giant Pfizer worth up to US$10.5 billion to jointly develop 12 cancer treatment programmes. The Hong Kong-listed drug maker said it would receive an upfront payment of US$650 million from Pfizer, and it is eligible for 
 
+## What Iran Stands to Gain From a Truce Deal With the United States
+U.S. concessions could include the unfreezing of assets and unsanctioning of oil.
+
+## As Trade Talks Begin, U.S.-Mexico Ties Falter
+Bilateral relations have reached a breaking point at a crucial moment for the USMCA.
+
+## What Magyar Means for MAGA
+Mellower European populists have killed some Republicans’ dreams of a far-right alliance.
+
 ## The Dollar Was—and Remains—an Accident
 As a new book shows, the dollar isn’t really the United States’ currency, but a 500-year-old relic.
 
@@ -182,15 +176,6 @@ The country hopes to fund its reconstruction by serving as the Middle East’s n
 
 ## Of Course It’s a War
 Trump’s legal evasion regarding Iran reveals the rotten state of constitutional war powers.
-
-## What’s Behind the EU-Mexico Trade Deal?
-With USMCA on ice, Mexico City is looking across the Atlantic for new partners.
-
-## Don’t Count the Quad Out
-A more modest agenda is also more credible.
-
-## Groundhog Day: Iran War Edition
-It’s an open question if negotiators can break the repetitive cycle engulfing the war.
 
 ## Why Does Okinawa Have So Many US Military Bases?
 Author Jon Mitchell’s new book offers some answers.
@@ -264,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Canada sidelined in USMCA renegotiations as domestic economy dips
+Canada strengthens Chinese trade ties, seeking economic diversification amid growing US–Canada trade tensions
+
+## Ex-US Attorney General Pam Bondi testifies in Epstein files probe
+Bondi, who was fired in April, defended the release of Epstein records in a closed-door congressional hearing.
+
+## Netanyahu says Israeli forces have crossed Lebanon’s Litani River
+Israeli Prime Minister Benjamin Netanyahu said Israeli forces had crossed the Litani River in southern Lebanon.
+
+## Israel, Russia among new additions on UN sexual violence ‘blacklist’
+New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year.
+
+## Trump heads into Situation Room to potentially finalise Iran deal
+Donald Trump says he’s in the Situation Room at the White House to make a “final determination” on a deal with Iran.
+
+## What’s next after scrapping the ‘Black Code’ in France?
+French MPs vote to repeal law that governed slavery in colonies.
+
 ## Russian rate of losses in Ukraine almost triples in one year
 Territorially, Russia is at a standstill in 2026, assessments of its ground war reveal.
 
 ## Romania to expel Russian consul after residential drone strike
 Romanian President Nicusor Dan says that the Russian consul in the southeastern city of Constanta will be expelled.
-
-## Israeli fighter jets strike village in south Lebanon
-Video shows the moment Israeli fighter jets struck a residential building in Ain Qana village in southern Lebanon.
-
-## ‘A landmark’: Brazil’s prosecutors hail court ruling to preserve Fordlandia
-Advocates have argued that Brazil's government has dragged its feat over Fordlandia's fate, leaving the site to decay.
-
-## Eight students arrested in deadly Kenyan school dorm fire
-Kenyan police have arrested eight students on suspicion of arson after a deadly fire ripped through a girls’ school.
-
-## EU to release billions in frozen funds for Hungary amid Magyar reforms
-PM Peter Magyar called ​the agreement to unlock funds frozen under former leader Orban a 'historic' breakthrough.
-
-## Trump says ‘final determination’ to be made on possible Iran deal
-Deep mistrust remains between Washington and Tehran as Iran says 'no final agreement' reached with US.
-
-## Will the AI race fuel another boom or another bubble?
-AI giants are racing towards public listings as valuations soar.
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
