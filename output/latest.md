@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## UK and European passports linked to restricted Chinese investors
+Critics raise concerns around critical national infrastructure and potential counterfeiting
+
+## Washington nearing deal to extend Iran ceasefire, US officials say
+Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
+
 ## FirstFT: Washington nearing agreement to extend Iran ceasefire, US officials say
 Also in today’s newsletter: Anthropic finalises $65bn funding deal, and Nvidia chief Jensen Huang to join board at Tsinghua University
 
@@ -12,20 +18,14 @@ Strike on capital’s southern suburbs comes day before two countries due to hol
 ## Netanyahu orders Israeli forces to take control of 70% of Gaza
 Prime minister says Israel is ‘squeezing Hamas’ in the enclave at the same time as escalating attacks in southern Lebanon
 
-## Washington nearing deal to extend Iran ceasefire, US officials say
-Trump administration’s hopes that an agreement is imminent come after both sides exchanged fire
-
 ## Musk’s tweet undermines SpaceX’s claims about Anthropic data centre deal
 Billionaire says the arrangement, described in IPO filings as a three-year agreement, only lasts for 180 days
 
 ## Chevron CEO warns oil prices to jump over summer as supplies dwindle
 Blockade in Strait of Hormuz has removed up to 13mn barrels a day from global markets and drawn down ‘shock absorbers’
 
-## FT quiz: the week in news
-Ten topical questions to test your news nous
-
 ## Anthropic finalises $65bn funding deal to surpass OpenAI’s valuation
-New round values Claude AI maker at $965bn including the new money
+New round values Claude AI maker at $965bn including the latest money
 
 ## AkzoNobel should avoid painting itself into a corner
 Dutch paint maker’s original tie-up with Axalta doesn’t look especially compelling
@@ -87,53 +87,56 @@ Indian markets remained steady near record highs despite rising oil prices due t
 ## LIC reviews Rs 60,000 crore real estate portfolio, may explore separate subsidiary
 LIC is undertaking a comprehensive review of its substantial real estate holdings, valued at over Rs 60,000 crore, to boost returns for policyholders and shareholders. The insurer is exploring options, including a potential separate subsidiary, to manage these assets more effectively. This strategic
 
+## Bashir Badr: A poet of the masses
+Badr used everyday language to great effect, ensuring that his verses spoke directly to the listener.
+
+## ‘Make reels, back OSM, don't panic’: Schools get script from CBSE amid backlash
+A document titled “Material for Principals” included scripts of what to read out. At one point, it urged principals to describe the board as “highly proactive".
+
+## Centre okays ₹70,000-crore deal for six submarines
+India's finance ministry approves a ₹70,000-crore deal for six advanced submarines, enhancing naval capabilities and promoting self-reliance in defense.
+
+## Supreme Court directs states, UTs to adopt a uniform trauma care policy
+The Supreme Court mandates a uniform trauma care policy nationwide, including a common helpline and protections for Good Samaritans, to improve emergency response.
+
+## First record of Rusty-spotted cat in UP’s National Chambal sanctuary
+The rusty-spotted cat (Prionailurus rubiginosus), among the world’s smallest cats, has been documented for the first time in the National Chambal Sanctuary in Uttar Pradesh by researchers from the Wildlife Institute of India (WII), with the research paper stating the finding also marks the species’ 
+
+## Supreme Court grants divorce even as wife wanted adultery proven first
+The Supreme Court has dissolved a marriage despite the wife opposing divorce, not because she wanted to save the relationship, but because she first wanted to prove in court that her husband committed adultery.
+
 ## 12 injured in clashes between rival groups in Nuh villages after Eid prayers
 The two groups pelted stones at each other and also used sticks and axes in the fight, creating panic in the village.
 
 ## ‘Highly objectionable’: FSSAI issues notice to IRCTC over viral video of utensils being ‘washed’ in train toilet
 The Food Safety and Standards Authority of India (FSSAI) termed the act, if true, objectionable as it could lead to food contamination.
 
-## 5,000-10,000 infiltrators leave Bengal daily under BJP rule, says Amit Shah in Gujarat
-Union home minister Amit Shah, who is on three-day visit to Gujarat, alleged that while 5,000 to 10,000 people earlier entered Bengal daily, the same number were now “going back each day”
-
-## Myanmar President to visit India from May 30; trade, border security on agenda
-Myanmar President Min Aung Hlaing will arrive in India on Saturday for a visit, his first after the formation of a new government following elections in the neighbouring country
-
-## In a first, Centre may use armed forces for NEET-UG re-exam logistics on June 21
-The armed forces’ role would be confined to logistical coordination, secure transportation, and emergency contingencies linked to weather, not exam oversight
-
-## Ebola scare dismissed: Gujarat Health Minister confirms negative test results
-Gujarat Health Minister Praful Pansheriya on Thursday quelled public anxiety regarding a potential Ebola outbreak in the state.
-
-## 20 years in Saudi jail, ₹34 crore blood money: Kerala man returns home after facing death sentence
-Abdul Rahim was jailed for allegedly causing the accidental death of a specially-abled Saudi boy whom he was supposed to be taking care of.
-
-## India, China review border situation, discuss normalisation of ties
-India and China expressed satisfaction over peace along the LAC during border talks held under the WMCC mechanism in Beijing.
-
-## A first-time corporator, a last-minute poll entrant and Patidar woman leader: Vadodara, Rajkot, Surat get new Mayors
+## Why Siddaramaiah had to go now and why Shivakumar’s moment finally arrived
 
 
-## File chargesheet within two weeks if suspect caught red-handed, Delhi police chief directs cops
+## Burning SUV, 4 charred bodies, ‘staged accident’: When a domestic feud turned deadly in Ajmer
 
 
-## As West Asia war continues, anti-dumping duties on chemicals a key ‘concern’
+## Goa nightclub blaze: ED attaches properties worth Rs 11 crore
 
 
-## Outlook for oil remains extremely vulnerable to geopolitical risks: Reliance Industries Ltd
+## FIR filed 75 minutes before crime discovered? J-K High Court flags discrepancy in 2019 terror case
 
 
-## Court reserves order on former Bengal DCP’s plea for Grade 1 status in jail
+## ‘To impress bosses in Delhi’: Sonam Wangchuk on Ladakh L-G’s warning to him over ‘honorary cockroach’ remark
 
 
-## TMC in disarray, Mamata Banerjee targets turncoats with ‘Girgit’ poem
+## On-Screen Marking system row: Firm roped in by CBSE was under scanner for Telangana exam mess; may be fined
 
 
-## Gujarat woman killed in knife attack during ‘attempted robbery’ in Canada
+## Dhanendra Kumar, first chief of competition panel, dies in AC blast fire at Delhi home
 
 
-## Major temperature drop in Delhi-NCR after rain brings relief from days of punishing heat
+## Overwhelmed & understaffed delivery wards, 53 deaths in a year: MP district is Ground Zero for maternal mortality
 
+
+## Premium plan: China’s EV makers pin hopes on high-end models to buttress margins
+Chinese electric vehicle (EV) makers are speeding up their pivot to the premium segment, where they hope to secure higher profit margins and dodge the cutthroat market’s most vicious price competition. New models launched by carmakers including Nio and Seres also mount a challenge to Tesla’s bestsel
 
 ## Building Smarter Human Experiences
 As Managing Director of Samsung Electronics Hong Kong, Yiyin Zhao shows that global scale and local insight can drive meaningful innovation. She is steering Samsung Hong Kong through the AI revolution with human-centred leadership, localisation and accessible innovation. A preview of Samsung technol
@@ -155,9 +158,6 @@ Hong Kong Exchanges and Clearing (HKEX) will revamp its HK$6.3 billion (US$812 m
 
 ## China’s MiniMax records 1-million client base, fivefold growth in half a year
 Chinese artificial intelligence (AI) company MiniMax says it recorded a fivefold surge in its global enterprise and developer client base over the past six months, highlighting the sharp expansion of its international footprint, even as the Hong Kong-listed firm grapples with widening financial loss
-
-## China’s brokerage crackdown: banks cut stock forecasts for Futu, Tiger
-Analysts lowered their valuations on Chinese online brokerages after Beijing unveiled a crackdown on unauthorised cross-border securities businesses, warning the tighter rules could slow profit growth and raise overseas customer acquisition costs. CCB International on Wednesday cut its target price 
 
 ## Groundhog Day: Iran War Edition
 It’s an open question if negotiators can break the repetitive cycle engulfing the war.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Netanyahu orders Israeli army to seize 70 percent of Gaza
+Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.
+
+## Iran ambassador hits out at ‘country to the north’ in US World Cup visa row
+Iran's football team still lacks US visas and is not competing on 'equal terms', Tehran's envoy to Mexico says.
+
+## Tense protests erupt outside Delaney Hall immigrant detention centre in US
+A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.
+
+## PSG vs Arsenal: UEFA Champions League final – 10 things to know
+Al Jazeera runs you through this season's UEFA Champions League final between Paris Saint-Germain and Arsenal.
+
+## Indians celebrate Eid al-Adha amid prayer restrictions
+Indians celebrate Eid al-Adha amid prayer restrictions.
+
+## Ireland and Qatar halted twice by protests against upcoming Israel fixtures
+Republic of Ireland are set to face Israel twice in UEFA Nations League matches, but are facing calls for a boycott.
+
 ## Colombia’s first left-wing gov’t has reduced poverty, but has pile of debt
 A big challenge for Colombia's next president will be how to reduce country's debt without sacrificing social gains.
 
 ## Guatemala denies agreeing to US strikes against drug traffickers
 President Bernardo Arevalo's government says it requested security cooperation but did not approve US attacks.
-
-## Defiant Lebanese families refuse to leave Tyre after homes bombed
-Families in the Lebanese city of Tyre saw their homes destroyed by Israeli bombs just hours after they were ordered evac
-
-## US judge rejects immediate block on Trump’s mail-in voting executive order
-Judge Carl Nichols says Democrats’ legal challenge is premature as the administration moves to implement the measure.
-
-## Europe hit by record-breaking heatwave
-European countries are issuing heat warnings as an unseasonal heatwave drives record temperatures across the continent.
-
-## Demands grow for closure of US detention centre over inhumane conditions
-A group of US lawmakers are joining protesters in demanding a controversial immigration detention centre be shut down.
-
-## EU sanctions ‘extremist’ Israeli settlers in occupied West Bank
-European Union says sanctioned individuals and groups have violated the rights of Palestinians.
-
-## Trump administration sues states for denying ICE agents undercover plates
-The Department of Justice has argued that states are obliged to give ICE vehicles confidential licence plates.
 
 ## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
 Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
