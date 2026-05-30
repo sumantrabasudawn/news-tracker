@@ -3,6 +3,9 @@
 ## Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges
 Administration ordered to halt actions linked to legal fund and separately remove president’s name from arts complex
 
+## UN accuses Israel of committing sexual violence against Palestinians
+Report by secretary-general says perpetrators include Israel Defense Forces
+
 ## Durex sales hit by China’s condom crackdown
 Wide-ranging measures to boost the country’s birth rate are denting demand for China’s leading contraceptive brand
 
@@ -21,11 +24,11 @@ Hedge fund billionaire argued moving record company’s listing from Amsterdam t
 ## US securities regulator seeks to end corporate disclosures on climate risk
 SEC looking to overturn Biden-era requirement after finding it a ‘dramatic over-reach’ of authority
 
+## EasyJet draws takeover interest from private credit firm Castlelake
+Takeover of budget airline would lead to another UK-listed company taken off the stock market
+
 ## Citadel Securities posts record $4.3bn in trading revenues on Iran volatility
 Market maker earns $1.9bn in first-quarter net income as oil prices and Treasury rates seesawed
-
-## Private credit firm Castlelake explores bid for easyJet
-Takeover of budget airline would lead to another UK-listed company taken off the stock market
 
 ## Asda might help break Ocado’s supermarket stalemate
 Tie-up suggests the online grocery delivery group is nearing its goal after it struggled to win new partners
@@ -105,28 +108,28 @@ Police said more than 10 men arrived while Nirale family members were clearing t
 ## ‘Nothing decided yet’: DK Shivakumar stays tight-lipped on Karnataka CM post, defers decision to CLP meeting
 “Everything is happening as requested by the high command. Nothing has been decided,” Shivakumar said.
 
+## Delhi High Court upholds TRAI regulation fixing 12 minutes of ads per hour
+
+
+## Delhi High Court asks Google to pay Rs 30 lakh damages to sanitaryware brand for trademark infringement
+
+
+## TET mandatory for in-service teachers, says Supreme Court, rejects petition seeking review of 2025 order
+
+
+## In signal to contractors, Railway tells Faridabad station developer can’t reduce project scope
+
+
+## Sharp rise in obesity, diabetes in five years since 2019, shows latest health survey
+
+
+## 5th judge since 2022, 43 NIA cases: Supreme Court order on speedy UAPA trials and a reality check
+
+
+## Trump ponders whether to move ahead with Iran deal but still undecided
+
+
 ## Tanishaa Mukerji opens up about ‘trauma bonding’ with Armaan Kohli on Bigg Boss
-
-
-## Shubman Gill upstages Vaibhav Sooryavanshi as Gujarat Titans enter IPL final
-
-
-## ‘How do you know when to take rectal bleeding seriously?’
-
-
-## Suruchi Phogat, Esha Singh complete an Indian 1-2 at Munich Shooting World Cup
-
-
-## Shubman Gill breezes to his fifth IPL century in Qualifier 2 vs RR
-
-
-## Sakshi Sindwani on being body shamed after recreating Alia Bhatt’s Cannes look
-
-
-## 8 lion cubs died of suspected Babesia infection, no deaths in 2 days: Gujarat Minister
-
-
-## With six hooch deaths, situation tense in Hadapsar; Rohit Pawar vandalises ‘illicit liquor den’
 
 
 ## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
@@ -249,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump due to make ‘final determination’ on deal with Tehran
+Israel pushes deeper into Lebanon just days after Israel's prime minister ordered 70 percent of Gaza to be occupied.
+
+## Trump pledges to withdraw from Kennedy Center after court strikes his name
+Judge Christopher Cooper ruled against Trump's bid to add his name to the building and close the theatre for two years.
+
+## ICE agent arrested over shooting of Venezuelan man in US immigration raid
+The charges stem from the January 14 shooting of Julio Cesar Sosa-Celis in Minneapolis during Operation Metro Surge.
+
 ## ‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs
 Lula warned that labelling Brazil's criminal networks as 'terrorists' could 'undermine' local law enforcement efforts.
 
@@ -263,15 +275,6 @@ Iranian Foreign Ministry Spokesman Esmail Baghaei says that an agreement with th
 
 ## How realistic is Trump’s Iran framework?
 Analyst Alex Scheers remains skeptical Tehran will accept Washington’s demands, saying “nothing concrete is in place” ye
-
-## Could Alberta trigger Canada’s Brexit moment?
-Alberta separatists are gaining momentum as Canada faces its biggest unity crisis in decades.
-
-## Polish president threatens to strip Ukraine’s Zelenskyy of top state honour
-Ukrainian leader's move to rename army unit after fighters who killed Poles in WWII causes 'outrage' in Poland.
-
-## Canada sidelined in USMCA renegotiations as domestic economy dips
-Canada strengthens Chinese trade ties, seeking economic diversification amid growing US–Canada trade tensions
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
