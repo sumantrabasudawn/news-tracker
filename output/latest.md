@@ -69,6 +69,9 @@ Restaurants , pubs, food delivery and quick commerce platforms are all in on the
 ## Tax Query: Tax treatment of one-way switch from NPS Tier II to Tier I
 One-way switch from NPS Tier II to Tier I will be regarded as redemption of units in Tier II, followed by a fresh investment into Tier I
 
+## US tariff row: Refunds in limbo as Trump admin moves to appeal court order
+The Trump administration plans to appeal a court order allowing all importers who paid struck-down tariffs to seek refunds. This move could significantly slow down the multibillion-dollar repayment process already underway.
+
 ## Cotton duty relief: Textile industry welcomes import tax waiver, sees boost for exports and MSMEs
 The Centre has exempted customs duties on cotton imports for five months until October 30, aiming to boost availability and reduce costs for India's textile sector. This move is expected to enhance competitiveness, particularly benefiting MSMEs and enabling garment exporters to secure orders more ef
 
@@ -90,8 +93,11 @@ The government has waived customs duties on cotton imports for five months until
 ## ESG shift: Carbon rules, sustainability mandates make compliance a business priority, say experts
 New environmental regulations, like the EU's carbon tax and India's proposed credit trading scheme, are making ESG a crucial business compliance issue, not just voluntary reporting. Experts warn companies without robust carbon data systems risk losing competitiveness. Implementation readiness and da
 
-## CCPA slaps Rs 7 lakh fine on Vajiram & Ravi for misleading UPSC success claims
+## Mumbai man kills 4-year-old son after child cries for milk, say police
+The child's cries woke Rajesh, and in a fit of rage, he allegedly slammed the boy against a door before repeatedly banging his head on the floor.
 
+## ‘What is happening now?’: TMC's Derek O'Brien to Amit Shah after Abhishek Banerjee roughed up in Bengal
+Derek O'Brien alleged that Abhishek Banerjee's security had been withdrawn on the day of counting and sought an explanation from Amit Shah over the incident.
 
 ## Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval chief
 Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval Chief
@@ -111,11 +117,14 @@ Congress president Mallikarjun Kharge condemned the incident. He alleged that th
 ## Day turns dark as massive dust storm engulfs parts of Rajasthan, winds touch 80 kmph | Video
 Following the dust storm , rain along with thunderstorm also hit several areas, bringing relief from the heatwave conditions the state had been experiencing.
 
-## How the middle-class should adjust to AI economy
-One experienced engineer working alongside AI tools can increasingly perform work that once required teams beneath him
+## Salman Khan gets candid about his luxury watch collection: ‘Mere dost ki ghadi hai…’
 
-## Beyond the ‘cockroach’ meme: Info war India cannot afford to lose | Opinion
-How coordinated information warfare is targeting India's growth story and why India's youth must see through it.
+
+## At Norway Chess, the Armageddon exhausts the players and thrills the crowd
+
+
+## RCB vs GT: Teams with similar batting philosophies but different depth
+
 
 ## Best road trips near Mumbai to take this June for misty hills, beaches, and quick escapes
 
@@ -130,15 +139,6 @@ How coordinated information warfare is targeting India's growth story and why In
 
 
 ## Thousands of farmers halt trains in Rajasthan as wheat procurement row escalates
-
-
-## Hotel worker from Gujarat gets 10 years in US for sex trafficking of minors at Nebraska hotel
-
-
-## ‘Wife is always right’: Hiten Tejwani shares his simple relationship mantra
-
-
-## Punjab and Haryana High Court suspends Kaithal’s Additional District and Sessions Judge, assigns no reason
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,6 +261,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar says temporary charges ‘negotiable’
+Qatar rejects a set Strait of Hormuz toll, says temporary charges 'negotiable'.
+
+## Bruce Springsteen calls out Trump’s ‘reckless’ administration
+At a concert in the US capital, Washington, DC, musical legend Bruce Springsteen slammed US President Donald Trump.
+
+## 22 killed as truck carrying refugees overturns in Afghanistan
+22 people have been killed and 36 others injured when a truck carrying recently returned Afghan refugees overturned
+
 ## Voters in Malta head to polls for early elections
 Maltese voters are at the polls after PM Robert Abela called a snap election.
 
@@ -275,15 +284,6 @@ WHO's Tedros calls for a community-led fight as a rare Ebola strain spreads rapi
 
 ## ‘Opposite visions’: What to know about Colombia’s presidential election
 Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.
-
-## Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky
-Videos show Indonesia’s Mount Merapi spewing a column of ash around 2 kilometres high in West Sumatra.
-
-## Senior Sri Lankan monk suspended over child sex abuse allegation
-Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.
-
-## Rescuers free four more men from flooded Laos cave, two still missing
-Five of seven men who entered cave seeking gold are now out after being trapped for 10 days.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
