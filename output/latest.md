@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## It is time for a European Security Council
+Increasing US disengagement and continued Russian aggression have given the idea fresh impetus
+
+## Submit your questions: Ten years on, what’s next for Brexit?
+Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, on Thursday June 4, at 1pm BST
+
 ## Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth
 President wants to make a ‘great’ deal but defence secretary warns US is ready to restart attacks
 
@@ -18,11 +24,14 @@ Seven Dyson vacuums, two Bremont watches . . . and a Jaguar in the driveway . . 
 ## Trump gets his man in Texas. The Republicans could be the losers
 By favouring a divisive candidate, the president may have put the Senate in play
 
-## Five emerging themes for US stock investors
-Active portfolios need to take into account factors such as risk management of giga-caps
+## Historic cattle shortages push US beef prices to record highs
+High feed costs and drought have thinned herds to the lowest levels in 60 years as protein-hungry consumers drive demand
 
-## Wealth tax fears reignited by UK leadership uncertainty
-Contenders Streeting and Burnham have both hinted at tax reforms
+## Crypto treasuries turn to risky equity in drive to raise cash
+Companies that stock up on crypto assets are following Michael Saylor’s Strategy into so-called digital credit
+
+## Why does Castlelake want to buy easyJet?
+Budget carrier has large fleet and expensive airport slots, while its share price has been hit by Iran crisis
 
 ## Dotcom bubble IPOs
 Lessons for boomtime investing
@@ -36,38 +45,41 @@ Critics say John Elkann has detached the family empire from its home country
 ## Toshifumi Suzuki, convenience store king, 1932-2026
 At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail industry
 
-## Top UK building societies plot bids for digital bank Atom
-Fintech’s owners hope the business will fetch about £600mn but industry executives say final offers could be lower
+## Wealth tax fears reignited by UK leadership uncertainty
+Contenders Streeting and Burnham have both hinted at tax reforms
 
-## JPMorgan chases retail banking’s golden fleece
-US bank’s international expansion is gaining some traction
+## CUET-UG delayed at some centres due to technical glitch; afternoon session timing revised: NTA
+TCS said the issue, which caused a delay of about two hours in the morning session, was quickly resolved and did not affect the integrity of the examination
 
-## London Stadium back in spotlight after West Ham’s Premier League exit
-East London club will pay less rent for venue that has struggled to satisfy public since 2012 Olympics
+## Mutual Funds returns
+As on : May 30, 2026
 
-## Centre withdraws draft Sugarcane Control Order amid opposition from khandsari units, farmers
-The draft sought to replace the 60-year-old Sugarcane (Control) Order, 1966, with a new regulatory framework that proposed, among other things, bringing the ethanol and khandsari sectors under regulation
+## West Bengal to implement National Health Mission; Centre sanctions ₹2,103 crore
+Bengal also plans new medical colleges, tighter hospital monitoring, cheaper medicines, and reserved beds for economically weaker patients in select private hospitals.
 
-## AI to reshape hiring and work in India, but 'human ownership' key as confidence outpaces global peers: ACCA
-The report highlighted India’s strong global confidence in AI-led recruitment and upskilling, but experts stress the importance of “human ownership and intervention” to prevent past biases
+## FPIs turn net sellers for third straight month in May; DIIs absorb pressure
+Selling resumed on May 27, with net outflows of ₹1,330.07 crore; the final session of the month, May 29, closed with a marginal net inflow of ₹502.06 crore, pointing to a tentative stabilisation
 
-## Think. Over the week
+## Nifty and Bank Nifty Predictions for the week 01 Jun’26 to 05 Jun’26 by BL GURU
 
 
-## India’s student accommodation market offers $4 billion opportunity by 2028: CBRE
-The report highlights a significant demand-supply gap of 2.1 lakh beds, driven by rising migration of students and increasing preference for organised housing solutions. Hostel bed capacity is projected to reach 2.48 million by AY2027-28
+## India's irrigation water demand may reach 807 BCM by 2050; ministry pushes for water budgeting
+The ministry noted that agriculture accounts for 80-90% of water use in rural areas, adding to pressure on the country's water resources
 
-## Delhi High Court ruling on Google keyword ads could reshape online advertising
-The Delhi High Court ordered Google to pay $31,600 in damages on May 22, prompting responses from businesses
-
-## US War Secy Hegseth backs Trump’s India-Pak ceasefire claim; outlines Indo-Pacific strategy
-At the Shangri-La Dialogue in Singapore, Hegseth praised Trump’s role in easing tensions following last year’s military confrontation between India and Pakistan
-
-## Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results
+## Q4 results today live: IREDA profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
 Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
 
-## Clouds gather over Lakshadweep even as monsoon onset remains on hold
-Clouds have massed up over the Lakshadweep off Kerala coast in an encouraging signal for advancing monsoon, but onset over Kerala may have to wait
+## Karnataka CM to be sworn in on June 3; party rules out grand celebrations
+The party has decided to keep the ceremony simple and avoid large-scale mobilisation of supporters, citing fuel shortages and potential traffic congestion
+
+## CCPA slaps Rs 7 lakh fine on Vajiram & Ravi for misleading UPSC success claims
+
+
+## Centre withdraws draft Sugarcane Control Order after pushback from khandsari units, farmers
+The Centre has withdrawn the draft Sugarcane (Control) Order, 2026, following objections from state governments and stakeholders. The proposed framework aimed to update the 1966 order and regulate ethanol and khandsari sectors. Concerns over redefining khandsari units and potential impacts on small-
+
+## No need to leave US for green card, DHS clarifies
+US Homeland Security has clarified that green card applicants generally don't need to leave the country during processing, easing confusion from an earlier announcement. While officers retain case-by-case discretion, especially for those with visa overstays or reliance on public aid, no major policy
 
 ## India shows ‘cautious resilience’ despite Middle East conflict: DEA
 India's economy shows 'cautious resilience' despite global headwinds like Middle East conflict and rising oil prices. While manufacturing and services remain strong, and forex reserves offer a buffer, inflation concerns are mounting due to wholesale price surges. A weaker monsoon could further chall
@@ -84,61 +96,52 @@ India's gold demand has plummeted by nearly 70% following a government increase 
 ## SC clears RIL of making illegal gain charge in 2007 RPL trading
 
 
-## AI giants make aggressive India pitches
+## Sukesh Chandrasekhar, actor Jacqueline charged by Delhi court in ₹200cr extortion case
+The court has summoned all the accused persons on June 3 for formal framing of charges, a detail order is awaited
+
+## Delhi, Ghaziabad on IMD red alert for severe thunder, dust storm; rain brings relief
+The red warning in Delhi was for “severe thunderstorm" with maximum surface winds of 62-87 kms/hr and hail, along with dust storm as well as rain.
+
+## Rajnath Singh inaugurates Naval memorial Nausena Shaurya Vatika in Lucknow
+Built on two acres near Ekana Cricket Stadium, the vatika is dedicated to the valour, indomitable courage and modern technical proficiency of India’s maritime borders.
+
+## What caused CUET exam delay, making Opposition raise ‘educated PM’ need, mock ‘Vishwa Guru’ image?
+The NTA, which recently faced questions over the alleged NEET-UG 2026 paper leak, revised the timing of Saturday's CUET exam over technical glitch.
+
+## Temple, mosque razed in Faridabad demolition drive to make way for RRTS corridor
+According to police officials, the temple and mosque were included among the structures marked for removal.
+
+## India's image was ‘stuck with Gandhi-ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’
+“Till 10-15 years ago, Gandhiji was the brand ambassador of India for decades. And now Modiji is the brand ambassador of India," says Gajendra Shekhawat.
+
+## ‘Sold land for her studies’: Husband alleges affair after wife becomes BPSC teacher; cops called in amid public row
+Gunjan Kumari was embroiled in a heated argument with cops after her husband, Aman Kumar, alerted them, levelling allegations of an extra-marital affair on her.
+
+## Theaterisation on right track, could take shape in next 2-3 years: Army Chief
+Chief of the Army Staff (COAS) General Upendra Dwivedi was speaking on the sidelines of the 150th Course Passing Out Parade at the National Defence Academy (NDA) in Khadakwasla
+
+## Religious structures razed in Faridabad for RRTS corridor; internet suspended, traffic diverted
 
 
-## India 5th most digitalised economy: Report
+## Vinesh Phogat loses in semifinals at Asian Games trials
 
 
-## Weak monsoon may hit consumption story
-Industry Expects Rural Demand To Soften I Festive Sales May Suffer I Inflation A Worry
-
-## AIADMK leaders call on TN Guv seeking action against TVK’s ‘horse-trading’
-On Wednesday the two factions sorted their differences and withdrew the disqualification petitions against each other with assembly speaker JCD Prabhakar
-
-## Evict me by force: Rabri Devi on her bungalow being allotted to a Bihar minister
-The 10, Circular Road Patna bungalow has been the proverbial residence of the RJD family ever since the previous Nitish Kumar government's allotment
-
-## ‘Need educated PM’: Kejriwal revives dig at Modi as CUET glitch adds to exam controversies
-AAP chief's remark comes as NTA blames tech partner TCS for delay at centres across India
-
-## Trump's daughter Tiffany in India, visits Taj Mahal, Akshardham Temple with husband
-Tiffany Trump is accompanied by her husband Michael Buolos and a few friends on her trip to India. She shared photos from her visit to Akshardham Temple.
-
-## Bengal CM rolls out HPV vaccination drive for girls under 15: All you need to know
-The HPV vaccination campaign in Bengal aims to target approximately 7.65 lakh beneficiaries aged 14 years.
-
-## 'Why keep eye after something has happened': Cong questions PM on NEET leak probe
-Khera questioned why the PM only takes action on an issue only once it has been faced, referring to the 2024 and 2026 NEET-UG paper leak
-
-## CBSE Class 12 score drop due to OSM: Teachers' body seeks withdrawal of notices
-The Government School Teachers' Association wrote to the Delhi Education Minister Ashish Sood, claiming teachers must not be blamed for faulty OSM
-
-## Maratha quota activist Jarange-Patil begins hunger strike under scorching sun
-Maratha activist Manoj Jarange-Patil began an indefinite hunger strike in Jalna’s Antarwali Sarati over reservation demands, despite ongoing talks with Maharashtra govt.
-
-## HC stays notification extending Assam Tenancy Act to Chandigarh
+## Why did Blue Origin’s New Glenn rocket explode during a prelaunch test in Florida
 
 
-## CUET UG 2026 Disrupted: Thousands wait hours as technical glitch delays exams nationwide
+## Jaw pain and nausea together? Why doctors say it needs immediate attention
 
 
-## SIR battle begins: Parties deploy booth armies across Maharashtra
+## What is R Ashwin’s high point of Vaibhav Sooryavanshi’s 776-run IPL 2026 season?
 
 
-## Arvind Kejriwal’s ‘IB conspiracy’ claim backfires: Gujarat Police trace ‘threat call’ to party’s own city president
+## How Michael Jackson moonwalked back into pop culture
 
 
-## Gen Z’s walk towards luxury fashion begins at Sarojini Nagar
+## ‘Dangal 2, let’s go’: Chinese UFC fighter beats Indian wrestler, says she loves Aamir Khan
 
 
-## In last act as Karnataka caretaker CM, Siddaramaiah hears public grievances at home
-
-
-## If the AC makes your skin dry, here’s a simple tip to fix it
-
-
-## Watch | Myanmar President Hlaing offers prayers at Maha Bodhi Temple during India visit
+## 30 lakh migrant workers may miss voter roll revision in Odisha, BJD cautions Election Commission
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,6 +264,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy
+The US has addressed defence leaders in Singapore, outlining America's geopolitical goals.
+
+## Israel launches more than 10 strikes across southern Lebanon
+Videos show the aftermath of renewed Israeli strikes on southern Lebanon that killed at least three people.
+
+## Rubio says Trump envoy Barrack to step down from Syria post
+Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq.
+
+## Damage seen in northern Israel after Hezbollah launches rocket barrages
+Israel says it has intercepted an air attack from Hezbollah on Saturday, May 30th.
+
+## Vallejo fined for sexist remarks about female referee at French Open
+Paraguayan blames Brazilian referee Ana Carvalho for failing to control the home crowd during his second-round loss.
+
 ## Police fire tear gas during protest outside New Jersey ICE facility
 Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.
 
@@ -269,21 +287,6 @@ A traffic stop in Florida has gone viral after an officer accused a disabled dri
 
 ## Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows
 Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks.
-
-## Voting ongoing in snap elections in Malta, governing party expected to win
-Malta's economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates.
-
-## Senegal’s World Cup 2026 team preview: Players to watch, group, squad list
-Senegal arrive for their third consecutive World Cup as arguably the best side in Africa - and aim to lift the trophy.
-
-## Iran war: What is happening on day 92 as Trump weighs Iran deal
-Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.
-
-## Satire, social media and India’s Gen Z revolt
-A satirical online movement challenges power and propaganda in India.
-
-## Barcelona sign England winger Anthony Gordon from Newcastle
-Gordon netted 17 goals for Newcastle in all competitions this season, including 10 in 12 Champions League games.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
