@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Hegseth lauds better US ties with China
+Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
+
+## China’s coal heartlands reel from worst disaster in a decade
+Deaths of 82 miners recall era of accidents many hoped was in the past
+
 ## Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges
 Administration ordered to halt actions linked to legal fund and separately remove president’s name from arts complex
 
@@ -18,47 +24,71 @@ Andrew Bailey says interest rate cuts can only come when policymakers are ‘muc
 ## Trump pledges ‘final determination’ on Iran deal to extend ceasefire
 US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
 
-## Universal Music declines takeover offer from Bill Ackman’s Pershing Square
-Hedge fund billionaire argued moving record company’s listing from Amsterdam to New York would unlock value
+## Ferrari’s new EV sparks Italian angst over Agnelli legacy
+Critics say John Elkann has detached the family empire from its home country
 
-## US securities regulator seeks to end corporate disclosures on climate risk
-SEC looking to overturn Biden-era requirement after finding it a ‘dramatic over-reach’ of authority
+## Toshifumi Suzuki, convenience store king, 1932-2026
+At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail industry
 
-## EasyJet draws takeover interest from private credit firm Castlelake
-Takeover of budget airline would lead to another UK-listed company taken off the stock market
+## Wealth tax fears reignited by UK leadership uncertainty
+Contenders Streeting and Burnham have both hinted at tax reforms
 
-## Citadel Securities posts record $4.3bn in trading revenues on Iran volatility
-Market maker earns $1.9bn in first-quarter net income as oil prices and Treasury rates seesawed
+## Top UK building societies plot bids for digital bank Atom
+Fintech’s owners hope the business will fetch about $600mn but industry executives say final offers could be lower
 
-## Asda might help break Ocado’s supermarket stalemate
-Tie-up suggests the online grocery delivery group is nearing its goal after it struggled to win new partners
+## JPMorgan chases retail banking’s golden fleece
+US bank’s international expansion is gaining some traction
 
-## US stocks post longest weekly winning streak since 2023
-AI enthusiasm and hopes for deal to extend US-Iran ceasefire boost markets
+## London Stadium back in spotlight after West Ham’s Premier League exit
+East London club will pay less rent for venue that has struggled to satisfy public since 2012 Olympics
 
-## IIFCL’s equity dilution gets government nod
-The company reports profit of ₹1,379 crore in FY26
+## Your wine collection may be worth less than you think
+There are three main factors when it comes to valuing a fine wine
 
-## Infosys CEO Salil Parekh earns ₹82.6 crore in FY26, up 2%
-His compensation was 742 times the median employee salary at Infosys, which stood at ₹11.13 lakh during the year
+## Should AI steal your job?
+The real question is not what the technology can do but what it ought to do. Sarah O’Connor on the people fighting for the future of work
 
-## Letters to the Editor dated May 29, 2026
+## Non-food bank credit growth jumps to 15.8% in April 2026; services, industry lead expansion: RBI
+Credit to agriculture and allied activities registered a year-on-year growth of 13.7% as on the fortnight ended April 30, 2026, against 9.2% in the corresponding fortnight last year, the RBI said
+
+## TN govt to continue free bus pass scheme for students
+The Minister announced that for the 2026–27 academic year, free bus passes for students will be issued at their institutions through the Tamil Nadu State Transport Corporations
+
+## CBSE portal was hit by malicious attack; 50 children got into system: Sources
+According to the sources, the issue led to abnormal fee displays on the portal, where the payable amount in some cases fluctuated from around Re 1 to nearly ₹67,000-68,000
+
+## "Trade priority for US, expect more meetings": State Dept Spox Tommy Pigott on India deal
+Pigott said that the "balanced trade relationship" with India opens allow US to "realise the full economic potential"
+
+## Dr Reddy’s Laboratories rings closing bell at New York Stock Exchange to mark 25 years of its listing
+Dr Reddy’s Chairman Satish Reddy, accompanied by the company’s senior management team, rang the closing bell at the NYSE on Friday afternoon
+
+## India is 'powerful' and 'modernising' its military, says Hegseth
+He also assessed defence-related relations with Japan, South Korea, ASEAN and Australia
+
+## AI boosts productivity by 25%, but humans remain critical: Zoho Corporation exec
+He noted that one possible driver behind recent global layoffs could instead be the rising cost of infrastructure and compute required to support AI deployments
+
+## Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results
+Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
+
+## RBI's income rose 26% to '4.3 lakh crore over dollar gains in FY26
 
 
-## GST dept issues ₹124 crore tax demand to SpiceJet, serves show-cause notice over delayed GST filings
-Authorities said SpiceJet repeatedly delayed filings, leading to a provisional assessment under GST law
+## SC clears RIL of making illegal gain charge in 2007 RPL trading
 
-## Hindustan Copper approves Lohum deal to restart Gujarat Copper plant
-The board also cleared an MoU with Engineers India Ltd for technical, engineering and exploration support, as the company looks to expand and modernise its copper operations across multiple states amid India’s push for critical mineral security.
 
-## RBI foreign exchange income jumps 52% to ₹1.69 lakh crore in FY26
-The central bank also reported higher earnings from foreign securities and interest income, contributing to an overall surplus of ₹2.86 lakh crore, which has been transferred to the government
+## AI giants make aggressive India pitches
 
-## India introduces LPPI to improve transparency and competitiveness of ports
-Introduced under the Sagar Aankalan framework, the Logistics Port Performance Index (LPPI) benchmarks port performance across cargo segments using operational indicators
 
-## Delhi Airport becomes first Indian infrastructure facility to host ‘Skycast’ aviation weather intelligence system
-Skycast platform to provide real-time weather monitoring and hazard alerts for flight operations
+## India 5th most digitalised economy: Report
+
+
+## Weak monsoon may hit consumption story
+Industry Expects Rural Demand To Soften I Festive Sales May Suffer I Inflation A Worry
+
+## Fuel price hikes to be passed on, says IndiGo
+Loss on slide, P 9
 
 ## Only 1% work left on India-US trade deal: US ambassador Sergio Gor
 
@@ -66,71 +96,56 @@ Skycast platform to provide real-time weather monitoring and hazard alerts for f
 ## Create 30-day strategic LPG reserve, govt instructs OMCs
 
 
-## Finance ministry urges spending discipline, resilience amid global uncertainties; banks post record Rs 1.98 lakh crore profit
+## ‘Modi also supervised NEET leak’: Rahul Gandhi jabs PM after govt's submissions to Supreme Court; BJP reacts
+The Supreme Court was informed on Friday that PM Modi was personally monitoring concerns regarding the cancellation of NEET-UG.
+
+## Madhya Pradesh HC seeks report on eight tiger deaths at Kanha National Park
+A divisional bench of vacation judges Vivek Jain and Ajay Kumar Nirankari directed the state government and forest department to file their reply within two weeks.
+
+## Karnataka CM news LIVE: Shivakumar's swearing-in on June 3, Sidda's son to be in new CM's cabinet
+Karnataka CM news LIVE: Two days after Siddaramaiah left the chief minister post on a cliffhanger amid expectations of him announcing Shivakumar as his successor, the Congress is scheduled to hold a key meet at 4 pm today at Vidhana Soudha to seal its decision on its pick for the CM chair.
+
+## ‘Matter of life and death’: Owaisi calls voters to be ‘very serious’ about SIR in Telangana, shares AIMIM's roadmap
+The SIR will begin in Telangana from June 15, with booth level officers carrying out door-to-door verification from June 25 onwards.
+
+## Centre planning to expand audit of CBSE's on-screen marking system amid concerns
+The move follows anger among parents and teachers, and a series of HT reports covering what appears to be a rushed process to roll out an entirely new mechanism
+
+## HCs must deliver bail rulings within 24 hrs of hearing: Top court
+SC mandated high courts to decide bail applications within 24 hours and set a three-month limit for reserved judgments, enhancing judicial efficiency.
+
+## AAP wins over 48% wards in big Punjab sweep, results seen as ‘semi-final’ before 2027 elections
+AAP won 954 of the total 1,977 wards, while the Congress secured 393 wards. The Shiromani Akali Dal (SAD) won 192 wards and BJP 172.
+
+## Hectic parleys continue inside Congress for new Karnataka cabinet after Siddaramaiah exit
+Key to these discussions were the future role of Siddaramaiah – who resigned on Thursday as CM but refused the offer to move to the Rajya Sabha.
+
+## ‘Playing interview-interview’, ‘insult to journalists’: SP chief Akhilesh, Brajesh Pathak trade barbs
 
 
-## Over 40L households now benefit from rooftop solar systems under Surya Ghar Yojana
-Over 40 lakh households have adopted rooftop solar under the PM Surya Ghar Yojana, significantly boosting India's clean energy transition. The scheme, launched in February 2024, is progressing at an unprecedented pace, with Gujarat leading installations. This initiative empowers citizens to become p
-
-## Govt asks oil firms to build 30-day LPG reserves; says no distributor has run dry
+## Maharashtra forms task force to review NEP 2020 implementation in higher education sector
 
 
-## How government aims to save billions in forex with ethanol blended petrol
-Ethanol-blended petrol is made by mixing ethanol with petrol. Ethanol is a biofuel that is derived from a wide variety of food crops and feed stocks like sugarcane and petrol. Under the Ethanol Blended Petrol Programme, the original target for achieving E20 petrol sales.
-
-## IndiGo swings to Rs 2,537 crore Q4 loss as rupee depreciation, disruptions weigh on earnings
-India's largest airline, IndiGo, reported a consolidated net loss of Rs 2,536.9 crore for the March quarter, a significant shift from a profit of Rs 3,067.5 crore a year ago. The airline's performance was impacted by a sharp rupee depreciation and a challenging operating environment, despite a rise 
-
-## US stock markets today (May 30, 2026): S&P 500, Nasdaq extend record run as Dell jumps 33% on AI demand
-US stocks continued their record-setting rally, driven by strong earnings and AI optimism, pushing major indices higher. Despite inflation and geopolitical concerns, investor sentiment was buoyed by hopes of a US-Iran ceasefire extension, easing energy market pressures. Technology stocks, particular
-
-## Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
-Institutional deliveries in India up from 88.6% in 2019-2020 to 90.6% in 2023-24: Survey
-
-## Number of Indian women with digital access doubled since 2021: Survey
-Number of Indian women with digital access doubled since 2021: Survey
-
-## Punjab civic polls: AAP dominates, Congress distant second, BJP finishes fifth; Check party-wise results
-The Bharatiya Janata Party finished a distant fifth in the elections, behind the Independents and Shiromani Akali Dal.
-
-## Eight lion cubs die in Gir in a week; Gujarat govt steps up preventive measures
-Forest minister Arjun Modhwadia said monitoring is being carried out by the chief minister’s office and the Prime Minister’s Office, and preventive measures, including large-scale deticking operations
-
-## Wet spell forecast in Himachal till June 4; alert issued for thunderstorm
-The inclement weather warning was issued for 10 districts, barring Kinnaur and Lahaul and Spiti, for Saturday (May 30).
-
-## Ajit Doval meets Russia's maritime board chief Patrushev with focus on Arctic trade corridor, defence collaboration
-Doval and Patrushev also exchanged views on key global developments and reaffirmed the importance of strengthening bilateral cooperation in strategic sectors
-
-## Six killed in Karnataka’s Vijayapura over farmland dispute: Police
-Police said more than 10 men arrived while Nirale family members were clearing the property for cultivation with the help of labourers in Govindapura village.
-
-## ‘Nothing decided yet’: DK Shivakumar stays tight-lipped on Karnataka CM post, defers decision to CLP meeting
-“Everything is happening as requested by the high command. Nothing has been decided,” Shivakumar said.
-
-## Delhi High Court upholds TRAI regulation fixing 12 minutes of ads per hour
+## Allahabad High Court grants Rs 5 lakh payout to man after police defy order, arrest him
 
 
-## Delhi High Court asks Google to pay Rs 30 lakh damages to sanitaryware brand for trademark infringement
+## Iran-US War News Live Updates | ‘Any deal with Iran would be a good deal’: Pete Hegseth, says US has ‘global obligation’ to ensure Iran never gets nuclear weapon
 
 
-## TET mandatory for in-service teachers, says Supreme Court, rejects petition seeking review of 2025 order
+## Gujarat: Rajkot man arrested 120 km away near toll plaza hours after allegedly hammering wife to death
 
 
-## In signal to contractors, Railway tells Faridabad station developer can’t reduce project scope
+## UPSC Prelims 2026 cut-offs may drop to a record low after ‘lengthy and unpredictable’ exam: Here’s a 5-year overview
 
 
-## Sharp rise in obesity, diabetes in five years since 2019, shows latest health survey
+## ‘Saw him playing for Surrey’: RR head coach Sangakkara blasts Sam Curran for skipping IPL 2026 season
 
 
-## 5th judge since 2022, 43 NIA cases: Supreme Court order on speedy UAPA trials and a reality check
+## Delhi constable booked under stringent MCOCA after arrest in dacoity case
 
 
-## Trump ponders whether to move ahead with Iran deal but still undecided
-
-
-## Tanishaa Mukerji opens up about ‘trauma bonding’ with Armaan Kohli on Bigg Boss
-
+## Chip boom powers Hong Kong stock exchange at 40. Innovation, resilience set next stage
+Stepping into the former trading hall in Exchange Square on Thursday was like walking through a doorway into the 1980s. Brokers, wearing the iconic red jackets of the period, stood alongside Cathay Pacific Airways flight attendants in retro uniforms, evoking memories of the hall before its closure. 
 
 ## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
 China’s ambitious urban renewal projects, from upgrading dilapidated homes to rebuilding gas pipelines, are expected to require investment of at least 15 trillion yuan (US$2.2 trillion) in the five years from 2026, offering fresh growth opportunities for construction firms. Property developers also 
@@ -152,9 +167,6 @@ Futu Holdings disclosed that its mainland Chinese clients account for about one-
 
 ## World Gold Council says diversification driving China’s growing reserves
 China is expected to keep adding to its gold reserves as central banks in emerging markets turn to the precious metal to diversify their reserve assets, the World Gold Council said. “We expect central banks, including China’s, to continue increasing gold holdings, though the pace may vary,” Joe Cava
-
-## China’s Innovent Biologics signs US$10.5 billion Pfizer deal for 12 cancer drug trials
-China’s Innovent Biologics has signed a global collaboration with pharmaceutical giant Pfizer worth up to US$10.5 billion to jointly develop 12 cancer treatment programmes. The Hong Kong-listed drug maker said it would receive an upfront payment of US$650 million from Pfizer, and it is eligible for 
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -252,6 +264,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Louisiana lawmakers pass congressional map favouring Republicans
+Louisiana approves new congressional map eliminating a majority-Black district after an April Supreme Court ruling.
+
+## First survivor rescued from flooded cave in Laos
+Divers in Laos have rescued the first of five villagers trapped in a flooded cave for more than a week.
+
 ## Iran war live: Trump due to make ‘final determination’ on deal with Tehran
 Israel pushes deeper into Lebanon just days after Israel's prime minister ordered 70 percent of Gaza to be occupied.
 
@@ -269,12 +287,6 @@ Workers in eastern DR Congo are rebuilding an Ebola treatment centre that was bu
 
 ## UN: “100% of Gaza” should be for Palestinians
 United Nations spokesperson Stephane Dujarric said “100% of Gaza” should belong to Palestinians.
-
-## Iran denies ceasefire deal with US is “finalised”
-Iranian Foreign Ministry Spokesman Esmail Baghaei says that an agreement with the US “has not been finalised yet."
-
-## How realistic is Trump’s Iran framework?
-Analyst Alex Scheers remains skeptical Tehran will accept Washington’s demands, saying “nothing concrete is in place” ye
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
