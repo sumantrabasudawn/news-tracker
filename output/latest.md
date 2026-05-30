@@ -66,6 +66,9 @@ Restaurants , pubs, food delivery and quick commerce platforms are all in on the
 ## Tax Query: Tax treatment of one-way switch from NPS Tier II to Tier I
 One-way switch from NPS Tier II to Tier I will be regarded as redemption of units in Tier II, followed by a fresh investment into Tier I
 
+## 5-month duty relief for cotton imports
+Move To Keep Prices In Check, Aid Textile Industry
+
 ## US tariff row: Refunds in limbo as Trump admin moves to appeal court order
 The Trump administration plans to appeal a court order allowing all importers who paid struck-down tariffs to seek refunds. This move could significantly slow down the multibillion-dollar repayment process already underway.
 
@@ -87,8 +90,17 @@ The All India Motor & Goods Transport Association (AIMGTA) has called on the cen
 ## Govt waives cotton import duty till October 30 to boost supplies, ease input costs
 The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit th
 
-## ESG shift: Carbon rules, sustainability mandates make compliance a business priority, say experts
-New environmental regulations, like the EU's carbon tax and India's proposed credit trading scheme, are making ESG a crucial business compliance issue, not just voluntary reporting. Experts warn companies without robust carbon data systems risk losing competitiveness. Implementation readiness and da
+## Officials blame cyberattack for CBSE revaluation portal glitches
+CBSE's revaluation portal faced a cyberattack, disrupting payments for 50 students and deferring the re-evaluation process until June 1.
+
+## CEC Gyanesh Kumar defends SIR, says it led to ‘purest’ electoral lists
+Gyanesh Kumar defended the Special Intensive Revision of electoral rolls, calling it the world's most accurate voter list, despite opposition criticism.
+
+## As Siddaramaiah steps aside, Congress confronts lessons from Karnataka’s past
+Siddaramaiah’s political identity has been constructed around the AHINDA coalition of minorities, backward classes and Dalits, alongside welfare beneficiaries
+
+## After attack on Abhishek, Mamata Banerjee claims hospitals were told not to admit him: ‘Pressure exerted on doctors’
+Mamata Banerjee alleged that a hospital administrator told her he was receiving threat calls from the police.
 
 ## Mumbai man kills 4-year-old son after child cries for milk, say police
 The child's cries woke Rajesh, and in a fit of rage, he allegedly slammed the boy against a door before repeatedly banging his head on the floor.
@@ -102,17 +114,8 @@ Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's 
 ## Harbhajan meets Shah weeks after BJP switch amid ‘Rajya Sabha seat sale’ feud with AAP: 'Extensive discussion'
 Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urged cooperation from the Central Government” for Punjab from Amit Shah.
 
-## Govt exempts cotton import duty for five months till October 30
-The import duty on cotton was reinstated on January 1, 2026, after a brief hiatus from August to December 2025
+## True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin
 
-## 'Even if you slit my throat...won't cower down': Abhishek Banerjee vows to move SC after attack allegedly by BJP workers
-TMC MP Abhishek Banerjee on Saturday alleged that BJP workers attacked his convoy during a visit to West Bengal's South 24 Parganas district.
-
-## 'Rulers became killers': Rahul, Mamata and Akhilesh condemn attack on Abhishek Banerjee, accuse BJP of violence
-Congress president Mallikarjun Kharge condemned the incident. He alleged that the lack of security arrangements reflected the BJP's politics.
-
-## Day turns dark as massive dust storm engulfs parts of Rajasthan, winds touch 80 kmph | Video
-Following the dust storm , rain along with thunderstorm also hit several areas, bringing relief from the heatwave conditions the state had been experiencing.
 
 ## PSG crowned UEFA Champions League winners; Arsenal crumble in penalty shootout
 
@@ -133,9 +136,6 @@ Following the dust storm , rain along with thunderstorm also hit several areas, 
 
 
 ## Wife of key accused held from Ahmedabad airport; ‘had flown in from Dubai’
-
-
-## Panghal sidesteps Phogat show to book Asian Games ticket
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## PSG beat Arsenal to win back-to-back Champions League titles after shootout
+PSG win back-to-back Champions League titles with 4-3 shoot-out win over Arsenal following a 1-1 draw after extra time.
+
+## Women bear the brunt of DRC’s Ebola outbreak
+Women bear the brunt of DRC's Ebola outbreak.
+
+## Putin says drone that crashed in Romania likely Ukrainian
+Putin says drone that crashed in Romania likely Ukrainian.
+
 ## Is the war in Ukraine entering a new phase?
 NATO says it is ready to defend allied territory against Russian attacks.
 
@@ -272,15 +281,6 @@ At a concert in the US capital, Washington, DC, musical legend Bruce Springsteen
 
 ## 22 killed as truck carrying refugees overturns in Afghanistan
 22 people have been killed and 36 others injured when a truck carrying recently returned Afghan refugees overturned
-
-## Voters in Malta head to polls for early elections
-Maltese voters are at the polls after PM Robert Abela called a snap election.
-
-## Two killed, including Palestinian doctor, in Israeli attacks on Gaza
-Several injured in Gaza, while Israeli settlers attack Palestinian homes and property across the occupied West Bank.
-
-## Liverpool sack Arne Slot after disastrous Premier League title defence
-Liverpool have sacked head coach Arne Slot after a fifth-place finish in their Premier League title defence.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
