@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Hegseth says US-China ties are ‘better than in years’
+Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
+
+## Historic cattle shortages push US beef prices to record highs
+High feed costs and drought have thinned herds to the lowest levels in 60 years as protein-hungry consumers drive demand
+
 ## It is time for a European Security Council
 Increasing US disengagement and continued Russian aggression have given the idea fresh impetus
 
@@ -9,9 +15,6 @@ Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and
 ## Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth
 President wants to make a ‘great’ deal but defence secretary warns US is ready to restart attacks
 
-## Hegseth says US-China ties are ‘better than in years’
-Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
-
 ## Greens discuss downgrading some policies to prepare for possible UK coalition
 A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said
 
@@ -20,12 +23,6 @@ European Commission to place Sofia under ‘excessive deficit procedure’ for b
 
 ## The very British banality of the SNP’s shopping scandal
 Seven Dyson vacuums, two Bremont watches . . . and a Jaguar in the driveway . . .
-
-## Trump gets his man in Texas. The Republicans could be the losers
-By favouring a divisive candidate, the president may have put the Senate in play
-
-## Historic cattle shortages push US beef prices to record highs
-High feed costs and drought have thinned herds to the lowest levels in 60 years as protein-hungry consumers drive demand
 
 ## Crypto treasuries turn to risky equity in drive to raise cash
 Companies that stock up on crypto assets are following Michael Saylor’s Strategy into so-called digital credit
@@ -48,29 +45,35 @@ At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail i
 ## Wealth tax fears reignited by UK leadership uncertainty
 Contenders Streeting and Burnham have both hinted at tax reforms
 
+## Gujarat Energy FY26 profit drops 48% as West Asia turmoil weighs on gas business
+The company, a major consumer of imported liquefied natural gas (LNG), reported a 14% decline in consolidated revenue from operations to ₹24,425 crore in FY26
+
+## Andhra rice heads to China via Chennai in revived multimodal export operation
+The rice consignment from Samalkot and Tanuku in Andhra Pradesh travelled around 575 km by rail wagons to arrive at Concor ICD in Tondiarpet; shifted to sea containers at the ICD and moved to the Chennai port by road and will move by sea to Chinese ports.
+
 ## CUET-UG delayed at some centres due to technical glitch; afternoon session timing revised: NTA
 TCS said the issue, which caused a delay of about two hours in the morning session, was quickly resolved and did not affect the integrity of the examination
 
-## Mutual Funds returns
-As on : May 30, 2026
+## Veranda Learning clocks first full year net profit since listing
+Revenue from operations for the quarter ended March 2026 stood at Rs ₹132 crore, up 52% per cent
 
-## West Bengal to implement National Health Mission; Centre sanctions ₹2,103 crore
-Bengal also plans new medical colleges, tighter hospital monitoring, cheaper medicines, and reserved beds for economically weaker patients in select private hospitals.
-
-## FPIs turn net sellers for third straight month in May; DIIs absorb pressure
-Selling resumed on May 27, with net outflows of ₹1,330.07 crore; the final session of the month, May 29, closed with a marginal net inflow of ₹502.06 crore, pointing to a tentative stabilisation
-
-## Nifty and Bank Nifty Predictions for the week 01 Jun’26 to 05 Jun’26 by BL GURU
-
-
-## India's irrigation water demand may reach 807 BCM by 2050; ministry pushes for water budgeting
-The ministry noted that agriculture accounts for 80-90% of water use in rural areas, adding to pressure on the country's water resources
-
-## Q4 results today live: IREDA profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
+## Q4 results today live: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
 Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
 
-## Karnataka CM to be sworn in on June 3; party rules out grand celebrations
-The party has decided to keep the ceremony simple and avoid large-scale mobilisation of supporters, citing fuel shortages and potential traffic congestion
+## Customs system outage hits courier shipments
+The outage, second in this month, was reported on Thursday evening
+
+## ArcelorMittal Nippon Steel India-led Visakhapatnam ITI project gets PM-SETU nod
+The approval positions Andhra Pradesh as the first state to roll out an industry partnership under PM-SETU
+
+## Samsung Galaxy Book6 Pro review: Everyday power, stunning display, premium pricing
+Thin, light and capable, the Galaxy Book6 Pro is built for productivity with a strong ecosystem edge.
+
+## Govt waives cotton import duty till October 30 to boost supplies, ease input costs
+The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit th
+
+## ESG shift: Carbon rules, sustainability mandates make compliance a business priority, say experts
+New environmental regulations, like the EU's carbon tax and India's proposed credit trading scheme, are making ESG a crucial business compliance issue, not just voluntary reporting. Experts warn companies without robust carbon data systems risk losing competitiveness. Implementation readiness and da
 
 ## CCPA slaps Rs 7 lakh fine on Vajiram & Ravi for misleading UPSC success claims
 
@@ -90,58 +93,52 @@ Tesla has significantly reduced Model Y prices in India, with the Premium RWD no
 ## 70% drop in gold demand: Import duty hike from 6% to 15% rattles buyers
 India's gold demand has plummeted by nearly 70% following a government increase in import duty from 6% to 15%. This, coupled with rising fuel and food prices, has significantly dampened consumer sentiment and spending on discretionary items like gold.
 
-## RBI's income rose 26% to '4.3 lakh crore over dollar gains in FY26
+## Beyond the ‘cockroach’ meme: Info war India cannot afford to lose | Opinion
+How coordinated information warfare is targeting India's growth story and why India's youth must see through it.
 
+## Abhishek Banerjee assaulted allegedly by BJP workers: Eggs, stones, shoes hurled at TMC general secretary
+TMC's Abhishek Banerjee assaulted as he visits post-poll violence
 
-## SC clears RIL of making illegal gain charge in 2007 RPL trading
+## Did petrol, diesel prices rise on May 30? Check latest fuel rates in Delhi, Mumbai, Hyderabad
+The prices have remained constant after the last hike on May 25, which was the fourth straight hike this month.
 
+## NTA promises fresh attempt for 5% candidates who missed CUET-UG 2026 exam due to tech glitch
+A technical snag impacted the CUET-UG 2026 exams for admissions into undergraduate degree programmes across India, the NTA said.
+
+## DK Shivakumar chosen as Karnataka's next chief minister at CLP meet; oath likely on June 3
+Shivakumar arrived at the Vidhana Soudha for the Congress Legislature Party (CLP) meeting, where his appointment was formalised.
+
+## Phones across Delhi-NCR buzz with ‘extremely severe alert’ for thunderstorm, lightning, hailstorm
+The text on screen for some people in Noida was titled ‘Extremely severe alert’.
+
+## Gen-Z blog explodes: How 17-yr-old Sarthak's investigation of CBSE OSM tenders became centrepiece of a mega row
+Sarthak Sidhant published findings after reviewing tender documents; Rahul Gandhi, Arvind Kejriwal among leaders who's pointed to his blog to question PM Modi
 
 ## Sukesh Chandrasekhar, actor Jacqueline charged by Delhi court in ₹200cr extortion case
 The court has summoned all the accused persons on June 3 for formal framing of charges, a detail order is awaited
 
-## Delhi, Ghaziabad on IMD red alert for severe thunder, dust storm; rain brings relief
-The red warning in Delhi was for “severe thunderstorm" with maximum surface winds of 62-87 kms/hr and hail, along with dust storm as well as rain.
-
-## Rajnath Singh inaugurates Naval memorial Nausena Shaurya Vatika in Lucknow
-Built on two acres near Ekana Cricket Stadium, the vatika is dedicated to the valour, indomitable courage and modern technical proficiency of India’s maritime borders.
-
-## What caused CUET exam delay, making Opposition raise ‘educated PM’ need, mock ‘Vishwa Guru’ image?
-The NTA, which recently faced questions over the alleged NEET-UG 2026 paper leak, revised the timing of Saturday's CUET exam over technical glitch.
-
-## Temple, mosque razed in Faridabad demolition drive to make way for RRTS corridor
-According to police officials, the temple and mosque were included among the structures marked for removal.
-
-## India's image was ‘stuck with Gandhi-ji’: Tourism minister says PM Modi is now ‘biggest brand ambassador’
-“Till 10-15 years ago, Gandhiji was the brand ambassador of India for decades. And now Modiji is the brand ambassador of India," says Gajendra Shekhawat.
-
-## ‘Sold land for her studies’: Husband alleges affair after wife becomes BPSC teacher; cops called in amid public row
-Gunjan Kumari was embroiled in a heated argument with cops after her husband, Aman Kumar, alerted them, levelling allegations of an extra-marital affair on her.
-
-## Theaterisation on right track, could take shape in next 2-3 years: Army Chief
-Chief of the Army Staff (COAS) General Upendra Dwivedi was speaking on the sidelines of the 150th Course Passing Out Parade at the National Defence Academy (NDA) in Khadakwasla
-
-## Religious structures razed in Faridabad for RRTS corridor; internet suspended, traffic diverted
+## Vinesh falls in Asian Games trials but remains defiant: ‘Olympics my target’
 
 
-## Vinesh Phogat loses in semifinals at Asian Games trials
+## No AI play: Declining trend of India’s MSCI weight continues
 
 
-## Why did Blue Origin’s New Glenn rocket explode during a prelaunch test in Florida
+## Wanted for gangraping teen, UP sub-inspector arrested after a 4-month-long manhunt
 
 
-## Jaw pain and nausea together? Why doctors say it needs immediate attention
+## Beyond Cyber Hub: How global manufacturing is quietly reshaping the real estate map around Gurgaon
 
 
-## What is R Ashwin’s high point of Vaibhav Sooryavanshi’s 776-run IPL 2026 season?
+## Rajat Patidar on India comeback after strong IPL 2026: ‘Not looking forward’
 
 
-## How Michael Jackson moonwalked back into pop culture
+## Gunmen shoot down RTI activist near LPU gate in Phagwara, police probe motive
 
 
-## ‘Dangal 2, let’s go’: Chinese UFC fighter beats Indian wrestler, says she loves Aamir Khan
+## ‘Stop spreading false news’: Esha Gupta gives update on Premanand Maharaj’s health
 
 
-## 30 lakh migrant workers may miss voter roll revision in Odisha, BJD cautions Election Commission
+## Monsoon at Kerala’s doorstep but likely to miss June 1 onset
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -264,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## WHO chief visits Bunia, epicentre of the Ebola outbreak
+WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.
+
+## The Iran war is dividing Muslims in the Philippines
+Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.
+
+## Cuba Calls Guantanamo Talks with U.S. General ‘Positive’
+Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.
+
+## Egypt warns Israel that dangerous Gaza escalations threaten ceasefire
+Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.
+
+## LIVE: PSG vs Arsenal – Champions League final
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream of UEFA's showpiece final.
+
+## Liverpool sack Arne Slot after disastrous Premier League title defence
+The Dutchman won the Premier League title in his first season but Liverpool finished fifth in the 2025/26 season.
+
+## North Korean POWs: Political pawns in Russia’s war on Ukraine?
+101 East investigates the plight of two North Korean POWs in Ukraine and the campaign to transfer them to South Korea.
+
 ## What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy
 The US has addressed defence leaders in Singapore, outlining America's geopolitical goals.
-
-## Israel launches more than 10 strikes across southern Lebanon
-Videos show the aftermath of renewed Israeli strikes on southern Lebanon that killed at least three people.
-
-## Rubio says Trump envoy Barrack to step down from Syria post
-Trump envoy Tom Barrack to exit formal Syria post but retain key role managing US policy in Syria and Iraq.
-
-## Damage seen in northern Israel after Hezbollah launches rocket barrages
-Israel says it has intercepted an air attack from Hezbollah on Saturday, May 30th.
-
-## Vallejo fined for sexist remarks about female referee at French Open
-Paraguayan blames Brazilian referee Ana Carvalho for failing to control the home crowd during his second-round loss.
-
-## Police fire tear gas during protest outside New Jersey ICE facility
-Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.
-
-## Officer accuses disabled driver of holding phone with missing hand
-A traffic stop in Florida has gone viral after an officer accused a disabled driver of holding a phone in her right hand
-
-## Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows
-Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
