@@ -45,29 +45,32 @@ At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail i
 ## Wealth tax fears reignited by UK leadership uncertainty
 Contenders Streeting and Burnham have both hinted at tax reforms
 
-## Retirement income scheme for steady pay
-Pension fund regulator PFRDA has launched a Retirement Income Scheme (RIS) under NPS
+## Who Am I? May 31, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Karnataka Governor invites D K Shivakumar to form government, oath on June 3
-The swearing-in ceremony is scheduled for 4:05 pm on June 3
+## Micron, Samsung, SK hynix, TSMC, Nvidia: When bits and bytes take a large bite of the stock markets
+While current semiconductor cycle appears rock solid, history indicates it can end in tearsAre you an investor bedazzled by the AI gold rush? If yes, read on to know if the rally is for real or a mere speculation, whether it still has legs and if should you hop on to the bandwagon
 
-## Q4 results today live: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
-Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
+## Will the base metals remain hot?
+Upside at risk. While supply disruptions can support rally, possible interest rate hikes later in the year can halt the same
 
-## India’s student accommodation market offers $4 billion opportunity by 2028: CBRE
-The report highlights a significant demand-supply gap of 2.1 lakh beds, driven by rising migration of students and increasing preference for organised housing solutions. Hostel bed capacity is projected to reach 2.48 million by AY2027-28
+## Bandu’s Blockbusters for May 31, 2026
+Guess the stock that will give the best return by next Friday
 
-## CUET-UG delayed at some centres due to technical glitch; NTA asks report from TCS-iON
-NTA will hold a one-time CUET-UG 2026 re-test for 3,765 candidates affected by a technical glitch on Saturday.
+## Why your health insurance may not cover as much as you think
+Plugging loopholes in a health insurance cover is as important as getting one
 
-## DK Shivakumar elected Congress Legislature Party leader, set to take oath as Karnataka CM on June 3
-Shivakumar’s elevation follows Siddaramaiah’s resignation, which was accepted by Governor Thaawarchand Gehlot on Friday
+## Short Take: Bank of Baroda F&O adjustments
+Reference rate will be the mark-to-market settlement price of the relevant futures contract
 
-## Textile industry welcomes cotton import duty waiver, sees boost for exports
-The sector hopes the relief will help revive exports and strengthen India’s position against competing textile-producing nations.
+## Mastering Derivatives: Will ATM strike do?
+At-the-money strike is one just above the current price of the underlying price
 
-## Andhra rice heads to China via Chennai in revived multimodal export operation
-The rice consignment from Samalkot and Tanuku in Andhra Pradesh travelled around 575 km by rail wagons to arrive at Concor ICD in Tondiarpet; shifted to sea containers at the ICD and moved to the Chennai port by road and will move by sea to Chinese ports.
+## F&O Tracker: Nifty futures and Nifty Bank futures yet to breach the final hurdle
+Bearish conviction softens across derivatives, although charts continue to show resistance at higher levels
+
+## India-EAEU trade talks gain momentum; interim deal for select goods under discussion
+India and the Eurasian Economic Union (EAEU) are currently negotiating a limited, temporary trade arrangement for specific goods as part of broader free trade agreement talks. Russian Economic Development Minister Maxim Reshetnikov described the discussions as complex, with India's requests being am
 
 ## India’s bullet train project: Nine years later, is the dream finally nearing reality?
 India's ambitious first bullet train project, launched in 2017, is now in its advanced construction phase, with viaducts and tunnels taking shape. Despite delays and cost escalations, the Mumbai-Ahmedabad corridor is set to revolutionize travel, with the first operational section anticipated by mid-
@@ -90,8 +93,14 @@ The Centre has withdrawn the draft Sugarcane (Control) Order, 2026, following ob
 ## No need to leave US for green card, DHS clarifies
 US Homeland Security has clarified that green card applicants generally don't need to leave the country during processing, easing confusion from an earlier announcement. While officers retain case-by-case discretion, especially for those with visa overstays or reliance on public aid, no major policy
 
-## India shows ‘cautious resilience’ despite Middle East conflict: DEA
-India's economy shows 'cautious resilience' despite global headwinds like Middle East conflict and rising oil prices. While manufacturing and services remain strong, and forex reserves offer a buffer, inflation concerns are mounting due to wholesale price surges. A weaker monsoon could further chall
+## Harbhajan meets Shah weeks after BJP switch amid ‘Rajya Sabha seat sale’ feud with AAP: 'Extensive discussion'
+Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urged cooperation from the Central Government” for Punjab from Amit Shah.
+
+## Govt exempts cotton import duty for five months till October 30
+The import duty on cotton was reinstated on January 1, 2026, after a brief hiatus from August to December 2025
+
+## ‘They wanted to kill me’: Abhishek vows to move Supreme Court after attack allegedly by BJP workers
+TMC MP Abhishek Banerjee on Saturday alleged that BJP workers attacked his convoy during a visit to West Bengal's South 24 Parganas district.
 
 ## 'Rulers became killers': Mamata, Akhilesh, Kharge condemn attack on Abhishek Banerjee, accuse BJP of violence
 Congress president Mallikarjun Kharge condemned the incident. He alleged that the lack of security arrangements reflected the BJP's politics.
@@ -105,40 +114,31 @@ One experienced engineer working alongside AI tools can increasingly perform wor
 ## Beyond the ‘cockroach’ meme: Info war India cannot afford to lose | Opinion
 How coordinated information warfare is targeting India's growth story and why India's youth must see through it.
 
-## Abhishek Banerjee assaulted allegedly by BJP workers: Eggs, stones, shoes hurled at TMC general secretary
+## Eggs, stones, shoes hurled at Abhishek Banerjee as 'BJP workers' rough up TMC MP | WATCH
 Men allegedly pushed the TMC MP and hitting him even as security personnel tried to shield him.
 
-## Did petrol, diesel prices rise on May 30? Check latest fuel rates in Delhi, Mumbai, Hyderabad
-The prices have remained constant after the last hike on May 25, which was the fourth straight hike this month.
-
-## NTA promises fresh attempt for 5% candidates who missed CUET-UG 2026 exam due to tech glitch
-A technical snag impacted the CUET-UG 2026 exams for admissions into undergraduate degree programmes across India, the NTA said.
-
-## DK Shivakumar chosen as Karnataka's next chief minister at CLP meet; oath likely on June 3
-The decision was taken in a Congress legislators meeting at Vidhana Soudha, where leadership transition was completed after deliberations.
-
-## Methanol in Pune hooch deaths traced to Rex International in Bhiwandi; 22 officials suspended
+## ‘Matthe ke Aloo’: The gut-friendly UP dish nutritionists swear by with a ‘Gen Z’ twist
 
 
-## Kylie Jenner talks about gaining almost 30kg during second pregnancy: ‘I was huge’
+## Bengaluru restaurant sealed for allegedly selling beef as mutton, 2 arrested
 
 
-## Made debut with Salman Khan, now runs a hotel in Bhopal: Why Rajeev Verma quit movies
+## CUET UG 2026: Technical glitch strands thousands, as NTA claims contradict ground reality
 
 
-## Why is RCB’s biggest test for Sunday is most complete GT bowling attack
+## Make dope tests mandatory for individuals joining govt services: Himachal Pradesh CM Sukhu
 
 
-## HIV+ Syrian man gets bail; ‘his ill-health not in dispute’, says Gujarat High Court
+## Stage set for DK Shivakumar’s swearing-in as CM on June 3; government, party rejigs on cards
 
 
-## Karnataka SSLC Exam-2 2026 Results Out: 68,802 students qualify, overall pass-rate now at 93.13%
+## ‘Stop construction activities at Cubbon Park’: Walkers’ association stages protest
 
 
-## Weeks after Gujarat woman’s murder in Canada, parents’ wait continues: ‘Please bring her body home’
+## UPSC Weekly Current Affairs Quiz (May 24 – May 30) : 10 key questions with detailed answers for Prelims 2027
 
 
-## ‘Got my family into it’: Manoj Bajpayee opens up about threats during Ghooskhor Pandat row
+## Kerala school principal was suspended 2 days before retirement for ‘insulting’ CM. To his rescue: The CM
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,6 +261,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Senior Sri Lankan monk suspended over child sex abuse allegation
+Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.
+
+## Rescuers free four more men from flooded Laos cave, two still missing
+Five of seven men who entered cave seeking gold are now out after being trapped for 10 days.
+
 ## Truck carrying Afghan returnees from Pakistan flips on highway, killing 18
 At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.
 
@@ -278,12 +284,6 @@ Divisive foreign political narratives are being wrongly cast as religious discou
 
 ## Cuba Calls Guantanamo Talks with U.S. General ‘Positive’
 Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.
-
-## Egypt warns Israel that dangerous Gaza escalations threaten ceasefire
-Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.
-
-## LIVE: PSG vs Arsenal – Champions League final
-Follow our live build-up, with full team news coverage, ahead of our text commentary stream of UEFA's showpiece final.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
