@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## SoftBank pledges €75bn to build Europe’s biggest AI facility in France
+Masayoshi Son places France at the centre of his global AI ambitions
+
+## Jill Biden’s memoir revives painful memories as Democrats try to move on
+First Lady’s book raises awkward questions for a party trying to rebuild itself for midterm elections
+
 ## Hegseth says US-China ties are ‘better than in years’
 Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
 
@@ -18,11 +24,8 @@ President wants to make a ‘great’ deal but defence secretary warns US is rea
 ## Greens discuss downgrading some policies to prepare for possible UK coalition
 A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said
 
-## Bulgaria to be punished for deficit only months after joining euro
-European Commission to place Sofia under ‘excessive deficit procedure’ for breaching budget rules
-
-## The very British banality of the SNP’s shopping scandal
-Seven Dyson vacuums, two Bremont watches . . . and a Jaguar in the driveway . . .
+## Paris Saint-Germain retain Champions League with victory over Arsenal
+French club triumph in penalty shootout over London side in win for Gulf sovereign wealth over US capital
 
 ## Crypto treasuries turn to risky equity in drive to raise cash
 Companies that stock up on crypto assets are following Michael Saylor’s Strategy into so-called digital credit
@@ -38,12 +41,6 @@ Also in today’s newsletter: how the Knicks built a championship contender
 
 ## Ferrari’s new EV sparks Italian angst over Agnelli legacy
 Critics say John Elkann has detached the family empire from its home country
-
-## Toshifumi Suzuki, convenience store king, 1932-2026
-At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail industry
-
-## Wealth tax fears reignited by UK leadership uncertainty
-Contenders Streeting and Burnham have both hinted at tax reforms
 
 ## India signs BrahMos missile deal with Vietnam, Indonesia pact in final stages
 India has already exported BrahMos missiles to the Philippines, while the Vietnam deal is reportedly valued at around ₹6,000 crore, including training and logistical support
@@ -117,6 +114,9 @@ Congress president Mallikarjun Kharge condemned the incident. He alleged that th
 ## Day turns dark as massive dust storm engulfs parts of Rajasthan, winds touch 80 kmph | Video
 Following the dust storm , rain along with thunderstorm also hit several areas, bringing relief from the heatwave conditions the state had been experiencing.
 
+## PSG crowned UEFA Champions League winners; Arsenal crumble in penalty shootout
+
+
 ## Salman Khan gets candid about his luxury watch collection: ‘Mere dost ki ghadi hai…’
 
 
@@ -136,9 +136,6 @@ Following the dust storm , rain along with thunderstorm also hit several areas, 
 
 
 ## Panghal sidesteps Phogat show to book Asian Games ticket
-
-
-## Thousands of farmers halt trains in Rajasthan as wheat procurement row escalates
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is the war in Ukraine entering a new phase?
+NATO says it is ready to defend allied territory against Russian attacks.
+
+## Iran reasserts control over Hormuz Strait as deal with US remains elusive
+Pentagon chief Pete Hegseth says US 'more than capable' of restarting war if satisfactory deal not reached.
+
 ## Qatar says temporary charges ‘negotiable’
 Qatar rejects a set Strait of Hormuz toll, says temporary charges 'negotiable'.
 
@@ -273,17 +276,11 @@ At a concert in the US capital, Washington, DC, musical legend Bruce Springsteen
 ## Voters in Malta head to polls for early elections
 Maltese voters are at the polls after PM Robert Abela called a snap election.
 
-## Palestinian doctor killed, three people injured in Israeli attack on Gaza
-Israeli settlers attacked Palestinian homes and property across the occupied West Bank.
+## Two killed, including Palestinian doctor, in Israeli attacks on Gaza
+Several injured in Gaza, while Israeli settlers attack Palestinian homes and property across the occupied West Bank.
 
 ## Liverpool sack Arne Slot after disastrous Premier League title defence
 Liverpool have sacked head coach Arne Slot after a fifth-place finish in their Premier League title defence.
-
-## Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo
-WHO's Tedros calls for a community-led fight as a rare Ebola strain spreads rapidly through conflict-hit eastern DRC.
-
-## ‘Opposite visions’: What to know about Colombia’s presidential election
-Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
