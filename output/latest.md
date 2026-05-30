@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Hegseth lauds better US ties with China
+## Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth
+President wants to make a ‘great’ deal but defence secretary warns US is ready to restart attacks
+
+## Hegseth says US-China ties are ‘better than in years’
 Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
 
-## China’s coal heartlands reel from worst disaster in a decade
-Deaths of 82 miners recall era of accidents many hoped was in the past
+## Greens discuss downgrading some policies to prepare for possible UK coalition
+A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said
 
-## Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges
-Administration ordered to halt actions linked to legal fund and separately remove president’s name from arts complex
+## Bulgaria to be punished for deficit only months after joining euro
+European Commission to place Sofia under ‘excessive deficit procedure’ for breaching budget rules
 
-## UN accuses Israel of committing sexual violence against Palestinians
-Report by secretary-general says perpetrators include Israel Defense Forces
+## The very British banality of the SNP’s shopping scandal
+Seven Dyson vacuums, two Bremont watches . . . and a Jaguar in the driveway . . .
 
-## Durex sales hit by China’s condom crackdown
-Wide-ranging measures to boost the country’s birth rate are denting demand for China’s leading contraceptive brand
+## Trump gets his man in Texas. The Republicans could be the losers
+By favouring a divisive candidate, the president may have put the Senate in play
 
-## Lula slams US move to designate Brazil drug cartels as terrorist groups
-Classification reignites tensions between Donald Trump and leftwing president
+## Five emerging themes for US stock investors
+Active portfolios need to take into account factors such as risk management of giga-caps
 
-## BoE governor warns Middle East ceasefire would ‘still create uncertainty’
-Andrew Bailey says interest rate cuts can only come when policymakers are ‘much more confident’
-
-## Trump pledges ‘final determination’ on Iran deal to extend ceasefire
-US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz
+## Wealth tax fears reignited by UK leadership uncertainty
+Contenders Streeting and Burnham have both hinted at tax reforms
 
 ## Ferrari’s new EV sparks Italian angst over Agnelli legacy
 Critics say John Elkann has detached the family empire from its home country
@@ -30,11 +30,8 @@ Critics say John Elkann has detached the family empire from its home country
 ## Toshifumi Suzuki, convenience store king, 1932-2026
 At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail industry
 
-## Wealth tax fears reignited by UK leadership uncertainty
-Contenders Streeting and Burnham have both hinted at tax reforms
-
 ## Top UK building societies plot bids for digital bank Atom
-Fintech’s owners hope the business will fetch about $600mn but industry executives say final offers could be lower
+Fintech’s owners hope the business will fetch about £600mn but industry executives say final offers could be lower
 
 ## JPMorgan chases retail banking’s golden fleece
 US bank’s international expansion is gaining some traction
@@ -48,29 +45,29 @@ There are three main factors when it comes to valuing a fine wine
 ## Should AI steal your job?
 The real question is not what the technology can do but what it ought to do. Sarah O’Connor on the people fighting for the future of work
 
-## Non-food bank credit growth jumps to 15.8% in April 2026; services, industry lead expansion: RBI
-Credit to agriculture and allied activities registered a year-on-year growth of 13.7% as on the fortnight ended April 30, 2026, against 9.2% in the corresponding fortnight last year, the RBI said
-
-## TN govt to continue free bus pass scheme for students
-The Minister announced that for the 2026–27 academic year, free bus passes for students will be issued at their institutions through the Tamil Nadu State Transport Corporations
-
-## CBSE portal was hit by malicious attack; 50 children got into system: Sources
-According to the sources, the issue led to abnormal fee displays on the portal, where the payable amount in some cases fluctuated from around Re 1 to nearly ₹67,000-68,000
-
-## "Trade priority for US, expect more meetings": State Dept Spox Tommy Pigott on India deal
-Pigott said that the "balanced trade relationship" with India opens allow US to "realise the full economic potential"
-
-## Dr Reddy’s Laboratories rings closing bell at New York Stock Exchange to mark 25 years of its listing
-Dr Reddy’s Chairman Satish Reddy, accompanied by the company’s senior management team, rang the closing bell at the NYSE on Friday afternoon
-
-## India is 'powerful' and 'modernising' its military, says Hegseth
-He also assessed defence-related relations with Japan, South Korea, ASEAN and Australia
-
-## AI boosts productivity by 25%, but humans remain critical: Zoho Corporation exec
-He noted that one possible driver behind recent global layoffs could instead be the rising cost of infrastructure and compute required to support AI deployments
-
 ## Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results
 Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
+
+## Clouds gather over Lakshadweep even as monsoon onset remains on hold
+Clouds have massed up over the Lakshadweep off Kerala coast in an encouraging signal for advancing monsoon, but onset over Kerala may have to wait
+
+## Upstream cost pressures build, pass-through to consumers may not be far behind, says Finmin report
+The report stated that the near-term outlook for the Indian economy is one of cautious resilience
+
+## India’s agri crossroads: Growth, gaps and the road ahead Agrispective | EP 10 |
+In this episode of BusinessLine’s Agrispective podcast, host Subramani Ra Mancombu explores the evolving landscape of Indian agriculture with M Ramakrishnan, Managing Director at Primus Partners.
+
+## Mizoram govt launches taxi app to enforce govt-approved fares
+The app is designed to help people using taxis, two-wheeler taxis, and auto-rickshaws verify and pay the correct fares approved by the government
+
+## Indian court ruling on Google keyword ads could reshape online advertising
+The Delhi High Court ordered Google to pay $31,600 in damages on May 22, prompting responses from businesses
+
+## TN govt makes biometric, face-id attendance mandatory for HR dept staff from Jun 1
+The move to introduce a new attendance system came following complaints that many employees were allegedly failing to arrive at the office on time
+
+## Iran's new Strait of Hormuz body condemns US sanctions, vows 'no interruptions'
+The body said that it will continue to review and grant passage permits to "non-hostile" vessels in order to facilitate navigation
 
 ## RBI's income rose 26% to '4.3 lakh crore over dollar gains in FY26
 
@@ -96,53 +93,56 @@ Loss on slide, P 9
 ## Create 30-day strategic LPG reserve, govt instructs OMCs
 
 
-## ‘Modi also supervised NEET leak’: Rahul Gandhi jabs PM after govt's submissions to Supreme Court; BJP reacts
-The Supreme Court was informed on Friday that PM Modi was personally monitoring concerns regarding the cancellation of NEET-UG.
+## ‘Blind checking’, series of technical issues: Red flags CBSE ‘ignored’ before OSM rollout
+A report prepared after a trial of the on-screen marking system in January 2026 flagged at least 36 technical, operational and evaluation-related concerns.
 
-## Madhya Pradesh HC seeks report on eight tiger deaths at Kanha National Park
-A divisional bench of vacation judges Vivek Jain and Ajay Kumar Nirankari directed the state government and forest department to file their reply within two weeks.
+## ‘India a critical anchor’: US war secy Hegseth stresses Delhi must act in self-interest, points to China buildup
+Praising India's defence manufacturing capabilities, Pete Hegseth said India could “support US Navy vessels” in future; he also spoke of joint manufacturing.
 
-## Karnataka CM news LIVE: Shivakumar's swearing-in on June 3, Sidda's son to be in new CM's cabinet
-Karnataka CM news LIVE: Two days after Siddaramaiah left the chief minister post on a cliffhanger amid expectations of him announcing Shivakumar as his successor, the Congress is scheduled to hold a key meet at 4 pm today at Vidhana Soudha to seal its decision on its pick for the CM chair.
+## TN CM, political leaders condole passing of actor Ajith Kumar's mother
+TN CM, political leaders condole passing of actor Ajith Kumar's mother
 
-## ‘Matter of life and death’: Owaisi calls voters to be ‘very serious’ about SIR in Telangana, shares AIMIM's roadmap
-The SIR will begin in Telangana from June 15, with booth level officers carrying out door-to-door verification from June 25 onwards.
+## The pain principle
+A new Rafael Nadal documentary shows us an old, now unpopular way of building a legacy — powering through suffering and impossible odds
 
-## Centre planning to expand audit of CBSE's on-screen marking system amid concerns
-The move follows anger among parents and teachers, and a series of HT reports covering what appears to be a rushed process to roll out an entirely new mechanism
+## Internet suspension in parts of Haryana's Faridabad today in view of demolition drive
+According to the Haryana government's Home Affairs department, the measure has been taken to maintain public order during the demolition drive.
 
-## HCs must deliver bail rulings within 24 hrs of hearing: Top court
-SC mandated high courts to decide bail applications within 24 hours and set a three-month limit for reserved judgments, enhancing judicial efficiency.
+## Allegations of missing valuables at Padmanabhaswamy temple to be probed: Kerala Devaswom Minister
+Allegations of missing valuables at Padmanabhaswamy temple to be probed: Kerala Devaswom Minister
 
-## AAP wins over 48% wards in big Punjab sweep, results seen as ‘semi-final’ before 2027 elections
-AAP won 954 of the total 1,977 wards, while the Congress secured 393 wards. The Shiromani Akali Dal (SAD) won 192 wards and BJP 172.
+## Have repeatedly told Delhi Golf Club not to obstruct tomb visitors: ASI chief
+ASI director-general Yadubir Singh Rawat has been battling demands of access to ancient monuments their use as commercial venues
 
-## Hectic parleys continue inside Congress for new Karnataka cabinet after Siddaramaiah exit
-Key to these discussions were the future role of Siddaramaiah – who resigned on Thursday as CM but refused the offer to move to the Rajya Sabha.
+## 2 deputies, spot for Siddaramaiah's son: What Karnataka cabinet under ‘CM’ Shivakumar can look like
+The official announcement of Shivakumar becoming the next Karnataka CM is expected after Congress legislature party meeting taking place at 4 pm today.
 
-## ‘Playing interview-interview’, ‘insult to journalists’: SP chief Akhilesh, Brajesh Pathak trade barbs
-
-
-## Maharashtra forms task force to review NEP 2020 implementation in higher education sector
+## Ukraine is using ‘AI-trained drones’ to hit Russian supply convoys, says report
 
 
-## Allahabad High Court grants Rs 5 lakh payout to man after police defy order, arrest him
+## RCB vs GT IPL 2026 Final Match: Date, timing, venue, playing 11 predicted, head-to-head, weather-pitch report
 
 
-## Iran-US War News Live Updates | ‘Any deal with Iran would be a good deal’: Pete Hegseth, says US has ‘global obligation’ to ensure Iran never gets nuclear weapon
+## Ranveer Singh poses with Declan Rice in Budapest, fan calls him ‘real Dhurandhar’
 
 
-## Gujarat: Rajkot man arrested 120 km away near toll plaza hours after allegedly hammering wife to death
+## Bengal booth data lays bare scale of TMC collapse: 9 senior leaders lost from home booths
 
 
-## UPSC Prelims 2026 cut-offs may drop to a record low after ‘lengthy and unpredictable’ exam: Here’s a 5-year overview
+## Hidden Stories | The Pune doctor whose memory lives on in Ghole Road
 
 
-## ‘Saw him playing for Surrey’: RR head coach Sangakkara blasts Sam Curran for skipping IPL 2026 season
+## Did Rafael Jodar push a ball girl at Roland Garros? Spanish tennis player responds to viral clip
 
 
-## Delhi constable booked under stringent MCOCA after arrest in dacoity case
+## Maharashtra gets healthier kids, sicker adults: NFHS sounds alarm on obesity, diabetes surge
 
+
+## Blow to Sharad Pawar’s NCP: Jayant Patil’s nephew Prajakt Tanpure set to join BJP, may get MLC nomination
+
+
+## Unicorn born in record time amid ‘arms race’ among China’s robotic hand developers
+Venture capitalists and industrial giants in China are aggressively backing developers of dexterous robotic hands – the toughest bottleneck in the global humanoid hardware arms race – in a funding blitz that is rapidly driving up start-up valuations. The latest capital injection was announced on Fri
 
 ## Chip boom powers Hong Kong stock exchange at 40. Innovation, resilience set next stage
 Stepping into the former trading hall in Exchange Square on Thursday was like walking through a doorway into the 1980s. Brokers, wearing the iconic red jackets of the period, stood alongside Cathay Pacific Airways flight attendants in retro uniforms, evoking memories of the hall before its closure. 
@@ -164,9 +164,6 @@ The Global Prosperity Summit 2026 (GPS 2026) highlighted Hong Kong’s expanding
 
 ## Futu first-quarter profit down 61% following US$272 million regulatory fine
 Futu Holdings disclosed that its mainland Chinese clients account for about one-fifth of its assets and revenue after it reported a 61.2 per cent drop in first-quarter profit, as analysts warned Beijing’s latest crackdown on cross-border trading will weigh on earnings growth in the near term. The Na
-
-## World Gold Council says diversification driving China’s growing reserves
-China is expected to keep adding to its gold reserves as central banks in emerging markets turn to the precious metal to diversify their reserve assets, the World Gold Council said. “We expect central banks, including China’s, to continue increasing gold holdings, though the pace may vary,” Joe Cava
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -264,6 +261,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Satire, social media and India’s Gen Z revolt
+A satirical online movement challenges power and propaganda in India.
+
+## Barcelona sign England winger Anthony Gordon from Newcastle
+Gordon netted 17 goals for Newcastle in all competitions this season, including 10 in 12 Champions League games.
+
+## Rwanda-Russia nuclear deal underscores Africa’s shifting power balance
+Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.
+
+## Frustration in Lebanon as Israel expands invasion
+Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.
+
 ## Louisiana lawmakers pass congressional map favouring Republicans
 Louisiana approves new congressional map eliminating a majority-Black district after an April Supreme Court ruling.
 
@@ -276,17 +285,8 @@ Israel pushes deeper into Lebanon just days after Israel's prime minister ordere
 ## Trump pledges to withdraw from Kennedy Center after court strikes his name
 Judge Christopher Cooper ruled against Trump's bid to add his name to the building and close the theatre for two years.
 
-## ICE agent arrested over shooting of Venezuelan man in US immigration raid
-The charges stem from the January 14 shooting of Julio Cesar Sosa-Celis in Minneapolis during Operation Metro Surge.
-
-## ‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs
-Lula warned that labelling Brazil's criminal networks as 'terrorists' could 'undermine' local law enforcement efforts.
-
-## Ebola treatment centre rebuilt after being torched by protesters in DRC
-Workers in eastern DR Congo are rebuilding an Ebola treatment centre that was burned by protesters earlier this month.
-
-## UN: “100% of Gaza” should be for Palestinians
-United Nations spokesperson Stephane Dujarric said “100% of Gaza” should belong to Palestinians.
+## Govt amends CSR norms; provides more leeway for companies
+Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
 
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
@@ -308,9 +308,6 @@ Haryana BJP CA Cell seeks relief on legacy GST disputes, refund bottlenecks and 
 
 ## Indian firms opt for confidential IPO route amid West Asia-led market volatility
 Rising geopolitical tensions, volatile equity markets and weak investor sentiment are pushing more companies towards SEBI’s confidential filing route, allowing them to keep listing plans flexible while protecting sensitive business information.
-
-## Any tax change will only fuel FPI exodus, not stop it, former finance secretary SC Garg warns
-Former finance secretary Subhash Chandra Garg argues that slashing withholding tax won't stop FPI outflows, citing a lack of profitable investment opportunities and rupee depreciation as primary drivers. He believes tax changes are a "small irritant" compared to negative investment returns, advocati
 
 ## PLI 2.0: India bets big on making more of the smartphone at home
 India is updating its mobile phone production incentive scheme. The new plan targets over 55% domestic value addition. It will also link with component manufacturing schemes. This aims to boost local sourcing of crucial parts. The government wants to reduce reliance on imports for high-value compone
