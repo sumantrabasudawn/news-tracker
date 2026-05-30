@@ -90,6 +90,9 @@ The All India Motor & Goods Transport Association (AIMGTA) has called on the cen
 ## Govt waives cotton import duty till October 30 to boost supplies, ease input costs
 The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit th
 
+## India ‘critical anchor’ in South Asia: US defence chief
+In a speech at the Shangri-La Dialogues, Pete Hegseth pointed to closer cooperation between India and the United States on naval matters and co-production of Javelin anti-tank guided munitions
+
 ## Officials blame cyberattack for CBSE revaluation portal glitches
 CBSE's revaluation portal faced a cyberattack, disrupting payments for 50 students and deferring the re-evaluation process until June 1.
 
@@ -111,8 +114,14 @@ Derek O'Brien alleged that Abhishek Banerjee's security had been withdrawn on th
 ## Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval chief
 Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval Chief
 
-## Harbhajan meets Shah weeks after BJP switch amid ‘Rajya Sabha seat sale’ feud with AAP: 'Extensive discussion'
-Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urged cooperation from the Central Government” for Punjab from Amit Shah.
+## In multi-state operation, police say Pakistan-backed terror group busted, 8 held
+
+
+## Champagne parties to Interpol notice: Rise and fall of a Dehradun power couple
+
+
+## US Defence Secretary Pete Hegseth in Singapore: ‘No China hegemony, India critical anchor, helps maintain balance of power’
+
 
 ## True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin
 
@@ -127,15 +136,6 @@ Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urg
 
 
 ## RCB vs GT: Teams with similar batting philosophies but different depth
-
-
-## Best road trips near Mumbai to take this June for misty hills, beaches, and quick escapes
-
-
-## Several feared trapped as five-storey building reduced to rubble in Delhi’s Saket
-
-
-## Wife of key accused held from Ahmedabad airport; ‘had flown in from Dubai’
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US Congress advances American-Israeli military integration plan
+A provision in the 2027 draft US defence bill could bind the two countries' weapons industries closer than ever.
+
+## Al Jazeera exclusive interview with rebel FARC faction in Colombia
+In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security
+
+## Lebanese army ‘overly stretched’ to fight off latest Israeli invasion
+Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’ as Israeli troops expand their occupation.
+
 ## PSG beat Arsenal to win back-to-back Champions League titles after shootout
 PSG win back-to-back Champions League titles with 4-3 shoot-out win over Arsenal following a 1-1 draw after extra time.
 
@@ -272,15 +281,6 @@ NATO says it is ready to defend allied territory against Russian attacks.
 
 ## Iran reasserts control over Hormuz Strait as deal with US remains elusive
 Pentagon chief Pete Hegseth says US 'more than capable' of restarting war if satisfactory deal not reached.
-
-## Qatar says temporary charges ‘negotiable’
-Qatar rejects a set Strait of Hormuz toll, says temporary charges 'negotiable'.
-
-## Bruce Springsteen calls out Trump’s ‘reckless’ administration
-At a concert in the US capital, Washington, DC, musical legend Bruce Springsteen slammed US President Donald Trump.
-
-## 22 killed as truck carrying refugees overturns in Afghanistan
-22 people have been killed and 36 others injured when a truck carrying recently returned Afghan refugees overturned
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
