@@ -24,6 +24,12 @@ Active portfolios need to take into account factors such as risk management of g
 ## Wealth tax fears reignited by UK leadership uncertainty
 Contenders Streeting and Burnham have both hinted at tax reforms
 
+## Dotcom bubble IPOs
+Lessons for boomtime investing
+
+## Arsenal’s dance with history
+Also in today’s newsletter: how the Knicks built a championship contender
+
 ## Ferrari’s new EV sparks Italian angst over Agnelli legacy
 Critics say John Elkann has detached the family empire from its home country
 
@@ -39,11 +45,23 @@ US bank’s international expansion is gaining some traction
 ## London Stadium back in spotlight after West Ham’s Premier League exit
 East London club will pay less rent for venue that has struggled to satisfy public since 2012 Olympics
 
-## Your wine collection may be worth less than you think
-There are three main factors when it comes to valuing a fine wine
+## Centre withdraws draft Sugarcane Control Order amid opposition from khandsari units, farmers
+The draft sought to replace the 60-year-old Sugarcane (Control) Order, 1966, with a new regulatory framework that proposed, among other things, bringing the ethanol and khandsari sectors under regulation
 
-## Should AI steal your job?
-The real question is not what the technology can do but what it ought to do. Sarah O’Connor on the people fighting for the future of work
+## AI to reshape hiring and work in India, but 'human ownership' key as confidence outpaces global peers: ACCA
+The report highlighted India’s strong global confidence in AI-led recruitment and upskilling, but experts stress the importance of “human ownership and intervention” to prevent past biases
+
+## Think. Over the week
+
+
+## India’s student accommodation market offers $4 billion opportunity by 2028: CBRE
+The report highlights a significant demand-supply gap of 2.1 lakh beds, driven by rising migration of students and increasing preference for organised housing solutions. Hostel bed capacity is projected to reach 2.48 million by AY2027-28
+
+## Delhi High Court ruling on Google keyword ads could reshape online advertising
+The Delhi High Court ordered Google to pay $31,600 in damages on May 22, prompting responses from businesses
+
+## US War Secy Hegseth backs Trump’s India-Pak ceasefire claim; outlines Indo-Pacific strategy
+At the Shangri-La Dialogue in Singapore, Hegseth praised Trump’s role in easing tensions following last year’s military confrontation between India and Pakistan
 
 ## Q4 Results Today Live: Linde India, Patanjali Foods, Gujarat Gas, PTC Ind, Jupiter Wagons, Titagarh Rail Systems, Jindal Poly Films, Steelcast, Easy Trip to announce Q4 results
 Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
@@ -51,23 +69,14 @@ Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons
 ## Clouds gather over Lakshadweep even as monsoon onset remains on hold
 Clouds have massed up over the Lakshadweep off Kerala coast in an encouraging signal for advancing monsoon, but onset over Kerala may have to wait
 
-## Upstream cost pressures build, pass-through to consumers may not be far behind, says Finmin report
-The report stated that the near-term outlook for the Indian economy is one of cautious resilience
+## India shows ‘cautious resilience’ despite Middle East conflict: DEA
+India's economy shows 'cautious resilience' despite global headwinds like Middle East conflict and rising oil prices. While manufacturing and services remain strong, and forex reserves offer a buffer, inflation concerns are mounting due to wholesale price surges. A weaker monsoon could further chall
 
-## India’s agri crossroads: Growth, gaps and the road ahead Agrispective | EP 10 |
-In this episode of BusinessLine’s Agrispective podcast, host Subramani Ra Mancombu explores the evolving landscape of Indian agriculture with M Ramakrishnan, Managing Director at Primus Partners.
+## Tesla slashes Model Y price by up to Rs 9 lakh in India to spur demand
+Tesla has significantly reduced Model Y prices in India, with the Premium RWD now costing Rs 9 lakh less. This strategic move aims to boost demand for its imported EVs, making them more accessible to a wider audience.
 
-## Mizoram govt launches taxi app to enforce govt-approved fares
-The app is designed to help people using taxis, two-wheeler taxis, and auto-rickshaws verify and pay the correct fares approved by the government
-
-## Indian court ruling on Google keyword ads could reshape online advertising
-The Delhi High Court ordered Google to pay $31,600 in damages on May 22, prompting responses from businesses
-
-## TN govt makes biometric, face-id attendance mandatory for HR dept staff from Jun 1
-The move to introduce a new attendance system came following complaints that many employees were allegedly failing to arrive at the office on time
-
-## Iran's new Strait of Hormuz body condemns US sanctions, vows 'no interruptions'
-The body said that it will continue to review and grant passage permits to "non-hostile" vessels in order to facilitate navigation
+## 70% drop in gold demand: Import duty hike from 6% to 15% rattles buyers
+India's gold demand has plummeted by nearly 70% following a government increase in import duty from 6% to 15%. This, coupled with rising fuel and food prices, has significantly dampened consumer sentiment and spending on discretionary items like gold.
 
 ## RBI's income rose 26% to '4.3 lakh crore over dollar gains in FY26
 
@@ -84,62 +93,56 @@ The body said that it will continue to review and grant passage permits to "non-
 ## Weak monsoon may hit consumption story
 Industry Expects Rural Demand To Soften I Festive Sales May Suffer I Inflation A Worry
 
-## Fuel price hikes to be passed on, says IndiGo
-Loss on slide, P 9
+## AIADMK leaders call on TN Guv seeking action against TVK’s ‘horse-trading’
+On Wednesday the two factions sorted their differences and withdrew the disqualification petitions against each other with assembly speaker JCD Prabhakar
 
-## Only 1% work left on India-US trade deal: US ambassador Sergio Gor
+## Evict me by force: Rabri Devi on her bungalow being allotted to a Bihar minister
+The 10, Circular Road Patna bungalow has been the proverbial residence of the RJD family ever since the previous Nitish Kumar government's allotment
 
+## ‘Need educated PM’: Kejriwal revives dig at Modi as CUET glitch adds to exam controversies
+AAP chief's remark comes as NTA blames tech partner TCS for delay at centres across India
 
-## Create 30-day strategic LPG reserve, govt instructs OMCs
+## Trump's daughter Tiffany in India, visits Taj Mahal, Akshardham Temple with husband
+Tiffany Trump is accompanied by her husband Michael Buolos and a few friends on her trip to India. She shared photos from her visit to Akshardham Temple.
 
+## Bengal CM rolls out HPV vaccination drive for girls under 15: All you need to know
+The HPV vaccination campaign in Bengal aims to target approximately 7.65 lakh beneficiaries aged 14 years.
 
-## ‘Blind checking’, series of technical issues: Red flags CBSE ‘ignored’ before OSM rollout
-A report prepared after a trial of the on-screen marking system in January 2026 flagged at least 36 technical, operational and evaluation-related concerns.
+## 'Why keep eye after something has happened': Cong questions PM on NEET leak probe
+Khera questioned why the PM only takes action on an issue only once it has been faced, referring to the 2024 and 2026 NEET-UG paper leak
 
-## ‘India a critical anchor’: US war secy Hegseth stresses Delhi must act in self-interest, points to China buildup
-Praising India's defence manufacturing capabilities, Pete Hegseth said India could “support US Navy vessels” in future; he also spoke of joint manufacturing.
+## CBSE Class 12 score drop due to OSM: Teachers' body seeks withdrawal of notices
+The Government School Teachers' Association wrote to the Delhi Education Minister Ashish Sood, claiming teachers must not be blamed for faulty OSM
 
-## TN CM, political leaders condole passing of actor Ajith Kumar's mother
-TN CM, political leaders condole passing of actor Ajith Kumar's mother
+## Maratha quota activist Jarange-Patil begins hunger strike under scorching sun
+Maratha activist Manoj Jarange-Patil began an indefinite hunger strike in Jalna’s Antarwali Sarati over reservation demands, despite ongoing talks with Maharashtra govt.
 
-## The pain principle
-A new Rafael Nadal documentary shows us an old, now unpopular way of building a legacy — powering through suffering and impossible odds
-
-## Internet suspension in parts of Haryana's Faridabad today in view of demolition drive
-According to the Haryana government's Home Affairs department, the measure has been taken to maintain public order during the demolition drive.
-
-## Allegations of missing valuables at Padmanabhaswamy temple to be probed: Kerala Devaswom Minister
-Allegations of missing valuables at Padmanabhaswamy temple to be probed: Kerala Devaswom Minister
-
-## Have repeatedly told Delhi Golf Club not to obstruct tomb visitors: ASI chief
-ASI director-general Yadubir Singh Rawat has been battling demands of access to ancient monuments their use as commercial venues
-
-## 2 deputies, spot for Siddaramaiah's son: What Karnataka cabinet under ‘CM’ Shivakumar can look like
-The official announcement of Shivakumar becoming the next Karnataka CM is expected after Congress legislature party meeting taking place at 4 pm today.
-
-## Ukraine is using ‘AI-trained drones’ to hit Russian supply convoys, says report
+## HC stays notification extending Assam Tenancy Act to Chandigarh
 
 
-## RCB vs GT IPL 2026 Final Match: Date, timing, venue, playing 11 predicted, head-to-head, weather-pitch report
+## CUET UG 2026 Disrupted: Thousands wait hours as technical glitch delays exams nationwide
 
 
-## Ranveer Singh poses with Declan Rice in Budapest, fan calls him ‘real Dhurandhar’
+## SIR battle begins: Parties deploy booth armies across Maharashtra
 
 
-## Bengal booth data lays bare scale of TMC collapse: 9 senior leaders lost from home booths
+## Arvind Kejriwal’s ‘IB conspiracy’ claim backfires: Gujarat Police trace ‘threat call’ to party’s own city president
 
 
-## Hidden Stories | The Pune doctor whose memory lives on in Ghole Road
+## Gen Z’s walk towards luxury fashion begins at Sarojini Nagar
 
 
-## Did Rafael Jodar push a ball girl at Roland Garros? Spanish tennis player responds to viral clip
+## In last act as Karnataka caretaker CM, Siddaramaiah hears public grievances at home
 
 
-## Maharashtra gets healthier kids, sicker adults: NFHS sounds alarm on obesity, diabetes surge
+## If the AC makes your skin dry, here’s a simple tip to fix it
 
 
-## Blow to Sharad Pawar’s NCP: Jayant Patil’s nephew Prajakt Tanpure set to join BJP, may get MLC nomination
+## Watch | Myanmar President Hlaing offers prayers at Maha Bodhi Temple during India visit
 
+
+## Writing’s on the wall for the bond market – for those who can read it
+There is a good deal more to the rapid rise in bond yields around the world, not least in Asia, than meets the eye. It suggests a recognition by financial markets that governments are spending beyond their means, tax revenues and borrowing power. The implication is that either taxes need to rise or 
 
 ## Unicorn born in record time amid ‘arms race’ among China’s robotic hand developers
 Venture capitalists and industrial giants in China are aggressively backing developers of dexterous robotic hands – the toughest bottleneck in the global humanoid hardware arms race – in a funding blitz that is rapidly driving up start-up valuations. The latest capital injection was announced on Fri
@@ -161,9 +164,6 @@ Lenovo Group has unexpectedly emerged as the best performer on the Hang Seng Ind
 
 ## Global Prosperity Summit 2026 reinforces Hong Kong’s strategic importance in advancing Apec cooperation and global governance
 The Global Prosperity Summit 2026 (GPS 2026) highlighted Hong Kong’s expanding role in international and regional cooperation both within China’s Global Governance Initiative as well as Apec, ahead of a meeting of the bloc’s economic leaders in neighbouring Shenzhen later this year. The two-day even
-
-## Futu first-quarter profit down 61% following US$272 million regulatory fine
-Futu Holdings disclosed that its mainland Chinese clients account for about one-fifth of its assets and revenue after it reported a 61.2 per cent drop in first-quarter profit, as analysts warned Beijing’s latest crackdown on cross-border trading will weigh on earnings growth in the near term. The Na
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Police fire tear gas during protest outside New Jersey ICE facility
+Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.
+
+## Officer accuses disabled driver of holding phone with missing hand
+A traffic stop in Florida has gone viral after an officer accused a disabled driver of holding a phone in her right hand
+
+## Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows
+Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks.
+
+## Voting ongoing in snap elections in Malta, governing party expected to win
+Malta's economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates.
+
+## Senegal’s World Cup 2026 team preview: Players to watch, group, squad list
+Senegal arrive for their third consecutive World Cup as arguably the best side in Africa - and aim to lift the trophy.
+
+## Iran war: What is happening on day 92 as Trump weighs Iran deal
+Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.
+
 ## Satire, social media and India’s Gen Z revolt
 A satirical online movement challenges power and propaganda in India.
 
 ## Barcelona sign England winger Anthony Gordon from Newcastle
 Gordon netted 17 goals for Newcastle in all competitions this season, including 10 in 12 Champions League games.
-
-## Rwanda-Russia nuclear deal underscores Africa’s shifting power balance
-Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.
-
-## Frustration in Lebanon as Israel expands invasion
-Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.
-
-## Louisiana lawmakers pass congressional map favouring Republicans
-Louisiana approves new congressional map eliminating a majority-Black district after an April Supreme Court ruling.
-
-## First survivor rescued from flooded cave in Laos
-Divers in Laos have rescued the first of five villagers trapped in a flooded cave for more than a week.
-
-## Iran war live: Trump due to make ‘final determination’ on deal with Tehran
-Israel pushes deeper into Lebanon just days after Israel's prime minister ordered 70 percent of Gaza to be occupied.
-
-## Trump pledges to withdraw from Kennedy Center after court strikes his name
-Judge Christopher Cooper ruled against Trump's bid to add his name to the building and close the theatre for two years.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
