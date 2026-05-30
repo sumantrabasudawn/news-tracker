@@ -45,29 +45,35 @@ At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail i
 ## Wealth tax fears reignited by UK leadership uncertainty
 Contenders Streeting and Burnham have both hinted at tax reforms
 
-## Gujarat Energy FY26 profit drops 48% as West Asia turmoil weighs on gas business
-The company, a major consumer of imported liquefied natural gas (LNG), reported a 14% decline in consolidated revenue from operations to ₹24,425 crore in FY26
+## Retirement income scheme for steady pay
+Pension fund regulator PFRDA has launched a Retirement Income Scheme (RIS) under NPS
 
-## Andhra rice heads to China via Chennai in revived multimodal export operation
-The rice consignment from Samalkot and Tanuku in Andhra Pradesh travelled around 575 km by rail wagons to arrive at Concor ICD in Tondiarpet; shifted to sea containers at the ICD and moved to the Chennai port by road and will move by sea to Chinese ports.
-
-## CUET-UG delayed at some centres due to technical glitch; afternoon session timing revised: NTA
-TCS said the issue, which caused a delay of about two hours in the morning session, was quickly resolved and did not affect the integrity of the examination
-
-## Veranda Learning clocks first full year net profit since listing
-Revenue from operations for the quarter ended March 2026 stood at Rs ₹132 crore, up 52% per cent
+## Karnataka Governor invites D K Shivakumar to form government, oath on June 3
+The swearing-in ceremony is scheduled for 4:05 pm on June 3
 
 ## Q4 results today live: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
 Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
 
-## Customs system outage hits courier shipments
-The outage, second in this month, was reported on Thursday evening
+## India’s student accommodation market offers $4 billion opportunity by 2028: CBRE
+The report highlights a significant demand-supply gap of 2.1 lakh beds, driven by rising migration of students and increasing preference for organised housing solutions. Hostel bed capacity is projected to reach 2.48 million by AY2027-28
 
-## ArcelorMittal Nippon Steel India-led Visakhapatnam ITI project gets PM-SETU nod
-The approval positions Andhra Pradesh as the first state to roll out an industry partnership under PM-SETU
+## CUET-UG delayed at some centres due to technical glitch; NTA asks report from TCS-iON
+NTA will hold a one-time CUET-UG 2026 re-test for 3,765 candidates affected by a technical glitch on Saturday.
 
-## Samsung Galaxy Book6 Pro review: Everyday power, stunning display, premium pricing
-Thin, light and capable, the Galaxy Book6 Pro is built for productivity with a strong ecosystem edge.
+## DK Shivakumar elected Congress Legislature Party leader, set to take oath as Karnataka CM on June 3
+Shivakumar’s elevation follows Siddaramaiah’s resignation, which was accepted by Governor Thaawarchand Gehlot on Friday
+
+## Textile industry welcomes cotton import duty waiver, sees boost for exports
+The sector hopes the relief will help revive exports and strengthen India’s position against competing textile-producing nations.
+
+## Andhra rice heads to China via Chennai in revived multimodal export operation
+The rice consignment from Samalkot and Tanuku in Andhra Pradesh travelled around 575 km by rail wagons to arrive at Concor ICD in Tondiarpet; shifted to sea containers at the ICD and moved to the Chennai port by road and will move by sea to Chinese ports.
+
+## India’s bullet train project: Nine years later, is the dream finally nearing reality?
+India's ambitious first bullet train project, launched in 2017, is now in its advanced construction phase, with viaducts and tunnels taking shape. Despite delays and cost escalations, the Mumbai-Ahmedabad corridor is set to revolutionize travel, with the first operational section anticipated by mid-
+
+## Fuel price cut call: Transporters body urge Centre to cut petrol, diesel prices as crude falls to $90 per barrel
+The All India Motor & Goods Transport Association (AIMGTA) has called on the central government to lower petrol and diesel prices. They argue that the significant drop in international crude oil prices, from $104 to $90 per barrel, should be reflected domestically. This reduction, they state, is cru
 
 ## Govt waives cotton import duty till October 30 to boost supplies, ease input costs
 The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit th
@@ -87,17 +93,20 @@ US Homeland Security has clarified that green card applicants generally don't ne
 ## India shows ‘cautious resilience’ despite Middle East conflict: DEA
 India's economy shows 'cautious resilience' despite global headwinds like Middle East conflict and rising oil prices. While manufacturing and services remain strong, and forex reserves offer a buffer, inflation concerns are mounting due to wholesale price surges. A weaker monsoon could further chall
 
-## Tesla slashes Model Y price by up to Rs 9 lakh in India to spur demand
-Tesla has significantly reduced Model Y prices in India, with the Premium RWD now costing Rs 9 lakh less. This strategic move aims to boost demand for its imported EVs, making them more accessible to a wider audience.
+## 'Rulers became killers': Mamata, Akhilesh, Kharge condemn attack on Abhishek Banerjee, accuse BJP of violence
+Congress president Mallikarjun Kharge condemned the incident. He alleged that the lack of security arrangements reflected the BJP's politics.
 
-## 70% drop in gold demand: Import duty hike from 6% to 15% rattles buyers
-India's gold demand has plummeted by nearly 70% following a government increase in import duty from 6% to 15%. This, coupled with rising fuel and food prices, has significantly dampened consumer sentiment and spending on discretionary items like gold.
+## Day turns dark as massive dust storm engulfs parts of Rajasthan, winds touch 80 kmph | Video
+Following the dust storm , rain along with thunderstorm also hit several areas, bringing relief from the heatwave conditions the state had been experiencing.
+
+## How the middle-class should adjust to AI economy
+One experienced engineer working alongside AI tools can increasingly perform work that once required teams beneath him
 
 ## Beyond the ‘cockroach’ meme: Info war India cannot afford to lose | Opinion
 How coordinated information warfare is targeting India's growth story and why India's youth must see through it.
 
 ## Abhishek Banerjee assaulted allegedly by BJP workers: Eggs, stones, shoes hurled at TMC general secretary
-TMC's Abhishek Banerjee assaulted as he visits post-poll violence
+Men allegedly pushed the TMC MP and hitting him even as security personnel tried to shield him.
 
 ## Did petrol, diesel prices rise on May 30? Check latest fuel rates in Delhi, Mumbai, Hyderabad
 The prices have remained constant after the last hike on May 25, which was the fourth straight hike this month.
@@ -106,39 +115,30 @@ The prices have remained constant after the last hike on May 25, which was the f
 A technical snag impacted the CUET-UG 2026 exams for admissions into undergraduate degree programmes across India, the NTA said.
 
 ## DK Shivakumar chosen as Karnataka's next chief minister at CLP meet; oath likely on June 3
-Shivakumar arrived at the Vidhana Soudha for the Congress Legislature Party (CLP) meeting, where his appointment was formalised.
+The decision was taken in a Congress legislators meeting at Vidhana Soudha, where leadership transition was completed after deliberations.
 
-## Phones across Delhi-NCR buzz with ‘extremely severe alert’ for thunderstorm, lightning, hailstorm
-The text on screen for some people in Noida was titled ‘Extremely severe alert’.
-
-## Gen-Z blog explodes: How 17-yr-old Sarthak's investigation of CBSE OSM tenders became centrepiece of a mega row
-Sarthak Sidhant published findings after reviewing tender documents; Rahul Gandhi, Arvind Kejriwal among leaders who's pointed to his blog to question PM Modi
-
-## Sukesh Chandrasekhar, actor Jacqueline charged by Delhi court in ₹200cr extortion case
-The court has summoned all the accused persons on June 3 for formal framing of charges, a detail order is awaited
-
-## Vinesh falls in Asian Games trials but remains defiant: ‘Olympics my target’
+## Methanol in Pune hooch deaths traced to Rex International in Bhiwandi; 22 officials suspended
 
 
-## No AI play: Declining trend of India’s MSCI weight continues
+## Kylie Jenner talks about gaining almost 30kg during second pregnancy: ‘I was huge’
 
 
-## Wanted for gangraping teen, UP sub-inspector arrested after a 4-month-long manhunt
+## Made debut with Salman Khan, now runs a hotel in Bhopal: Why Rajeev Verma quit movies
 
 
-## Beyond Cyber Hub: How global manufacturing is quietly reshaping the real estate map around Gurgaon
+## Why is RCB’s biggest test for Sunday is most complete GT bowling attack
 
 
-## Rajat Patidar on India comeback after strong IPL 2026: ‘Not looking forward’
+## HIV+ Syrian man gets bail; ‘his ill-health not in dispute’, says Gujarat High Court
 
 
-## Gunmen shoot down RTI activist near LPU gate in Phagwara, police probe motive
+## Karnataka SSLC Exam-2 2026 Results Out: 68,802 students qualify, overall pass-rate now at 93.13%
 
 
-## ‘Stop spreading false news’: Esha Gupta gives update on Premanand Maharaj’s health
+## Weeks after Gujarat woman’s murder in Canada, parents’ wait continues: ‘Please bring her body home’
 
 
-## Monsoon at Kerala’s doorstep but likely to miss June 1 onset
+## ‘Got my family into it’: Manoj Bajpayee opens up about threats during Ghooskhor Pandat row
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,6 +261,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Truck carrying Afghan returnees from Pakistan flips on highway, killing 18
+At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.
+
+## Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities
+Israel’s military has advanced beyond Lebanon's Litani River for the first time since 2006.
+
+## Violence against foreign-owned shops in South Africa
+Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.
+
 ## WHO chief visits Bunia, epicentre of the Ebola outbreak
 WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.
 
@@ -275,15 +284,6 @@ Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threat
 
 ## LIVE: PSG vs Arsenal – Champions League final
 Follow our live build-up, with full team news coverage, ahead of our text commentary stream of UEFA's showpiece final.
-
-## Liverpool sack Arne Slot after disastrous Premier League title defence
-The Dutchman won the Premier League title in his first season but Liverpool finished fifth in the 2025/26 season.
-
-## North Korean POWs: Political pawns in Russia’s war on Ukraine?
-101 East investigates the plight of two North Korean POWs in Ukraine and the campaign to transfer them to South Korea.
-
-## What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy
-The US has addressed defence leaders in Singapore, outlining America's geopolitical goals.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
