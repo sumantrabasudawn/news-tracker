@@ -45,29 +45,35 @@ At the helm of the Japanese 7-Eleven, he revolutionised the country’s retail i
 ## Wealth tax fears reignited by UK leadership uncertainty
 Contenders Streeting and Burnham have both hinted at tax reforms
 
-## Who Am I? May 31, 2026
-Are you an avid investor? How well do you know corporate India?
+## India signs BrahMos missile deal with Vietnam, Indonesia pact in final stages
+India has already exported BrahMos missiles to the Philippines, while the Vietnam deal is reportedly valued at around ₹6,000 crore, including training and logistical support
+
+## Blending credit bets with equity flexibility
+SBI Conservative Hybrid Fund combines active duration management with a relatively higher-yielding debt strategy
+
+## Why investors can accumulate this well-known FMCG stock near its 52-week low
+Seasonal dependence persists for this 54-year old company, making volume revival and margin delivery key monitorables
+
+## India Post unveils permanent pictorial cancellation celebrating Swamimalai heritage
+The initiative aims to promote Swamimalai’s rich heritage and religious importance across India and internationally through postal articles processed at the post office
 
 ## Micron, Samsung, SK hynix, TSMC, Nvidia: When bits and bytes take a large bite of the stock markets
 While current semiconductor cycle appears rock solid, history indicates it can end in tearsAre you an investor bedazzled by the AI gold rush? If yes, read on to know if the rally is for real or a mere speculation, whether it still has legs and if should you hop on to the bandwagon
 
-## Will the base metals remain hot?
-Upside at risk. While supply disruptions can support rally, possible interest rate hikes later in the year can halt the same
+## Kotak Mahindra Bank to acquire ₹10,639 crore loan portfolio from subsidiary KMIL
+The transaction, expected to be completed in the second quarter of FY27, follows the bank’s decision to conduct KMIL’s business activities directly within the bank from April 1, 2026
 
-## Bandu’s Blockbusters for May 31, 2026
-Guess the stock that will give the best return by next Friday
+## Eateries, theatres, airlines pad up for IPL final
+Restaurants , pubs, food delivery and quick commerce platforms are all in on the cricket party doling out special offers
 
-## Why your health insurance may not cover as much as you think
-Plugging loopholes in a health insurance cover is as important as getting one
+## Tax Query: Tax treatment of one-way switch from NPS Tier II to Tier I
+One-way switch from NPS Tier II to Tier I will be regarded as redemption of units in Tier II, followed by a fresh investment into Tier I
 
-## Short Take: Bank of Baroda F&O adjustments
-Reference rate will be the mark-to-market settlement price of the relevant futures contract
+## Cotton duty relief: Textile industry welcomes import tax waiver, sees boost for exports and MSMEs
+The Centre has exempted customs duties on cotton imports for five months until October 30, aiming to boost availability and reduce costs for India's textile sector. This move is expected to enhance competitiveness, particularly benefiting MSMEs and enabling garment exporters to secure orders more ef
 
-## Mastering Derivatives: Will ATM strike do?
-At-the-money strike is one just above the current price of the underlying price
+## DigiYatra to expand to 27 more airports by next year, 10 crore journeys completed
 
-## F&O Tracker: Nifty futures and Nifty Bank futures yet to breach the final hurdle
-Bearish conviction softens across derivatives, although charts continue to show resistance at higher levels
 
 ## India-EAEU trade talks gain momentum; interim deal for select goods under discussion
 India and the Eurasian Economic Union (EAEU) are currently negotiating a limited, temporary trade arrangement for specific goods as part of broader free trade agreement talks. Russian Economic Development Minister Maxim Reshetnikov described the discussions as complex, with India's requests being am
@@ -87,11 +93,8 @@ New environmental regulations, like the EU's carbon tax and India's proposed cre
 ## CCPA slaps Rs 7 lakh fine on Vajiram & Ravi for misleading UPSC success claims
 
 
-## Centre withdraws draft Sugarcane Control Order after pushback from khandsari units, farmers
-The Centre has withdrawn the draft Sugarcane (Control) Order, 2026, following objections from state governments and stakeholders. The proposed framework aimed to update the 1966 order and regulate ethanol and khandsari sectors. Concerns over redefining khandsari units and potential impacts on small-
-
-## No need to leave US for green card, DHS clarifies
-US Homeland Security has clarified that green card applicants generally don't need to leave the country during processing, easing confusion from an earlier announcement. While officers retain case-by-case discretion, especially for those with visa overstays or reliance on public aid, no major policy
+## Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval chief
+Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval Chief
 
 ## Harbhajan meets Shah weeks after BJP switch amid ‘Rajya Sabha seat sale’ feud with AAP: 'Extensive discussion'
 Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urged cooperation from the Central Government” for Punjab from Amit Shah.
@@ -99,10 +102,10 @@ Raghav Chadha-led rebel group's member, ex-cricketer Harbhajan Singh says “urg
 ## Govt exempts cotton import duty for five months till October 30
 The import duty on cotton was reinstated on January 1, 2026, after a brief hiatus from August to December 2025
 
-## ‘They wanted to kill me’: Abhishek vows to move Supreme Court after attack allegedly by BJP workers
+## 'Even if you slit my throat...won't cower down': Abhishek Banerjee vows to move SC after attack allegedly by BJP workers
 TMC MP Abhishek Banerjee on Saturday alleged that BJP workers attacked his convoy during a visit to West Bengal's South 24 Parganas district.
 
-## 'Rulers became killers': Mamata, Akhilesh, Kharge condemn attack on Abhishek Banerjee, accuse BJP of violence
+## 'Rulers became killers': Rahul, Mamata and Akhilesh condemn attack on Abhishek Banerjee, accuse BJP of violence
 Congress president Mallikarjun Kharge condemned the incident. He alleged that the lack of security arrangements reflected the BJP's politics.
 
 ## Day turns dark as massive dust storm engulfs parts of Rajasthan, winds touch 80 kmph | Video
@@ -114,31 +117,28 @@ One experienced engineer working alongside AI tools can increasingly perform wor
 ## Beyond the ‘cockroach’ meme: Info war India cannot afford to lose | Opinion
 How coordinated information warfare is targeting India's growth story and why India's youth must see through it.
 
-## Eggs, stones, shoes hurled at Abhishek Banerjee as 'BJP workers' rough up TMC MP | WATCH
-Men allegedly pushed the TMC MP and hitting him even as security personnel tried to shield him.
-
-## ‘Matthe ke Aloo’: The gut-friendly UP dish nutritionists swear by with a ‘Gen Z’ twist
+## Best road trips near Mumbai to take this June for misty hills, beaches, and quick escapes
 
 
-## Bengaluru restaurant sealed for allegedly selling beef as mutton, 2 arrested
+## Several feared trapped as five-storey building reduced to rubble in Delhi’s Saket
 
 
-## CUET UG 2026: Technical glitch strands thousands, as NTA claims contradict ground reality
+## Wife of key accused held from Ahmedabad airport; ‘had flown in from Dubai’
 
 
-## Make dope tests mandatory for individuals joining govt services: Himachal Pradesh CM Sukhu
+## Panghal sidesteps Phogat show to book Asian Games ticket
 
 
-## Stage set for DK Shivakumar’s swearing-in as CM on June 3; government, party rejigs on cards
+## Thousands of farmers halt trains in Rajasthan as wheat procurement row escalates
 
 
-## ‘Stop construction activities at Cubbon Park’: Walkers’ association stages protest
+## Hotel worker from Gujarat gets 10 years in US for sex trafficking of minors at Nebraska hotel
 
 
-## UPSC Weekly Current Affairs Quiz (May 24 – May 30) : 10 key questions with detailed answers for Prelims 2027
+## ‘Wife is always right’: Hiten Tejwani shares his simple relationship mantra
 
 
-## Kerala school principal was suspended 2 days before retirement for ‘insulting’ CM. To his rescue: The CM
+## Punjab and Haryana High Court suspends Kaithal’s Additional District and Sessions Judge, assigns no reason
 
 
 ## Writing’s on the wall for the bond market – for those who can read it
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Voters in Malta head to polls for early elections
+Maltese voters are at the polls after PM Robert Abela called a snap election.
+
+## Palestinian doctor killed, three people injured in Israeli attack on Gaza
+Israeli settlers attacked Palestinian homes and property across the occupied West Bank.
+
+## Liverpool sack Arne Slot after disastrous Premier League title defence
+Liverpool have sacked head coach Arne Slot after a fifth-place finish in their Premier League title defence.
+
+## Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo
+WHO's Tedros calls for a community-led fight as a rare Ebola strain spreads rapidly through conflict-hit eastern DRC.
+
+## ‘Opposite visions’: What to know about Colombia’s presidential election
+Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.
+
+## Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky
+Videos show Indonesia’s Mount Merapi spewing a column of ash around 2 kilometres high in West Sumatra.
+
 ## Senior Sri Lankan monk suspended over child sex abuse allegation
 Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.
 
 ## Rescuers free four more men from flooded Laos cave, two still missing
 Five of seven men who entered cave seeking gold are now out after being trapped for 10 days.
-
-## Truck carrying Afghan returnees from Pakistan flips on highway, killing 18
-At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.
-
-## Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities
-Israel’s military has advanced beyond Lebanon's Litani River for the first time since 2006.
-
-## Violence against foreign-owned shops in South Africa
-Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.
-
-## WHO chief visits Bunia, epicentre of the Ebola outbreak
-WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.
-
-## The Iran war is dividing Muslims in the Philippines
-Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.
-
-## Cuba Calls Guantanamo Talks with U.S. General ‘Positive’
-Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
