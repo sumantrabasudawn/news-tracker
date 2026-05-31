@@ -255,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Can AI cure loneliness? South Korea’s robot companions for seniors
+South Korea is using AI-powered companion dolls to help tackle loneliness in its ageing population
+
+## New Jersey orders curfew after immigration protests escalate
+New Jersey orders curfew after immigration protests escalate.
+
+## Ethiopia to vote in first elections since Tigray peace deal
+Four years after the formal end of Ethiopia's Tigray war, Ethiopians will be voting in general elections.
+
+## Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles
+Having never previously won the Indian Premier League, Virat Kohli seals consecutive titles as Gujarat Titans defeated.
+
 ## As Ethiopia votes, its deepening human rights crisis must be addressed
 Continuing internal conflicts and deepening repression are casting a long shadow over the general election.
 
@@ -266,18 +278,6 @@ New Jersey Governor Mikie Sherrill has called for the establishment of protest z
 
 ## What’s at stake in Ethiopia’s elections?
 Ethiopia's governing party is seeking to cement its grip on power amid a fragmented electorate.
-
-## Explosives store blast kills dozens in Myanmar village
-Explosives store blast kills dozens in Myanmar village.
-
-## Building collapses in New Delhi, some people rescued, more feared trapped
-Nine people have reportedly been rescued from the rubble of a collapsed five-storey building in New Delhi, India.
-
-## US measure to deepen Israel military cooperation faces bipartisan pushback
-Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.
-
-## US Congress moves to deepen military ties with Israel: Why it matters
-Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
