@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## How Maine’s lobster revolt could cost Trump the Senate
+Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
+
+## Africa’s response to Ebola must be defined by Africa itself
+International support matters when it aligns with strategies built alongside regional institutions and governments
+
+## Growing US reliance on Chinese biotechs prompts national security fears
+Global pharmaceutical companies are increasingly looking to China as patents on best-selling medicines expire
+
+## Wall Street bulls bet US stocks rally will defy bubble fears
+Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares
+
+## Scottish opposition leaders criticise Sturgeon interview
+Former first minister of Scotland says she is ‘not responsible’ for Peter Murrell’s theft
+
 ## Israel captures Crusader castle in deepening Lebanon push
 Seizure of 12th-century hilltop fortress comes as Israeli prime minister orders expanded offensive against Hizbollah
 
@@ -8,21 +23,6 @@ Market Questions is the FT’s guide to the week ahead
 
 ## China’s comparative advantage is industrial policy
 Western attempts to imitate Beijing’s state-funded model are unwise
-
-## England’s treatment of vulnerable children is a scandal
-Care system is warped by incentives that put helpless young people at greater risk
-
-## How Maine’s lobster revolt could cost Trump the Senate
-Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
-
-## Petro’s leftwing project faces split opposition in Colombia presidential vote
-Trump-loving populist and establishment rightwinger strive to end nation’s progressive experiment
-
-## Japan’s Koizumi rejects China accusations of ‘new militarism’
-Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region
-
-## South Africa’s anti-migrant rallies trigger repatriations
-Ghana charters flights to evacuate hundreds of citizens as political backlash over xenophobic attacks grows on the continent
 
 ## Paris Saint-Germain retain Champions League with victory over Arsenal
 780 arrests made in France after celebrations marred by acts of vandalism and violence
@@ -39,38 +39,32 @@ Continent risks losing critical medicine capacity without stronger protections, 
 ## Defence group CSG still pursuing stake in Franco-German tank maker
 Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
 
-## How Iran’s military harnesses ChatGPT
-Western AI models are turbocharging Tehran’s cyber operations, helping it develop malware and launch attacks
+## Santosh Iyer on Luxury EV resale: ‘Buyers are benchmarking replacement cost’
+Mercedes-Benz India MD says rising replacement costs, tighter supply and fading battery anxiety are helping luxury EVs retain stronger resale values
 
-## China’s activewear boom puts spring in foreign brands’ step
-Rapha and Lululemon among groups riding wave of interest in wellbeing
+## FSSAI seeks explanation from Blinkit over a consumer complaint
+In a letter written to Blinkit’s senior executives, FSSAI has stated that it has received a complaint from a consumer who had ordered curd through the Blinkit app and fell sick after consumption of the product, they added
 
-## Top health official held shares in key children’s home operator
-Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests
+## PM Modi lauds dedicated dolphin rescue ambulance at Mann Ki Baat
+Speaking during the 134th episode of Mann Ki Baat, Modi referred to a widely shared video of a 13-hour rescue operation in which a dolphin trapped in a canal was safely retrieved, treated and released into the Rapti River.
 
-## As Chinars decline, one Kashmiri’s green crusade gains ground
-42-year-old resident Abdul Ahad Khan has planted over 1,500 Chinar saplings in Kashmir
+## DTDC eyes global growth, strengthens capabilities for Indian D2C brands
+Alongside its international push, DTDC is expanding its domestic footprint to tap growing consumption and manufacturing activity beyond metros
 
-## Taj debuts in Frankfurt as IHCL expands footprint
-Move strengthens overseas footprint as company eyes growth in key international markets
+## Patni family’s pharma foray: Raay Neo looks at smaller cities, less expensive medicines
+Patni family venture to price medicines 15-20 per cent lower and target ₹1,000 crore revenue in five years
 
-## The Art of Letting Go - at every stage, not just when we retire
-Only when we let go will we be able to reach out for something new
+## Why used BMW i7, Mercedes EQS, Defender and G-Wagon prices are rising
+Used luxury EV prices in India are rising again as BMW i7s, Mercedes-Benz EQS SUVs and Audi e-trons rebound from recent lows, while Defenders, G-Wagons, GLS and Mercedes-Maybach models continue to command scarcity premiums amid tightening supply, rising replacement costs and improving buyer confiden
 
-## SBI Research calls for stronger RBI intervention as rupee slide outpaces fundamentals
-Depreciation excessive and not aligned with India’s strong fundamentals, says report
+## India-Oman to implement CEPA on Monday
+Pact to boost Indian exports in key sectors and strengthen strategic Gulf ties
 
-## RBI likely to maintain status quo on rates, adopt cautious approach amid West Asia crisis
-With surging energy prices, continuing supply chain woes and a depreciating rupee, experts see RBI raising its inflation forecast and lower GDP growth estimate at its bi-monthly monetary policy meet from June 3 to 5.
+## Interim trade deal: US may offer to lock-in India’s tariffs to insulate from Section 301 penalties
+The US trade team visiting Delhi this week may also propose a further lowering of tariffs linked to deficit reduction, but India would also want guaranteed competitive advantage.
 
-## DoT Spectrum move paves way for vehicle-to-vehicle safety network
-The objective is to provide advance warnings of potential hazards, such as sudden braking by a vehicle ahead, blind-spot risks, accidents, slippery roads or poor visibility, allowing drivers to react sooner and avoid collisions
-
-## We’re excited for India’s AI leadership plans: Sam Burd, Chief Strategy Officer, Dell Technologies
-Looking back at India’s enterprise ambitions since the Y2K era, the country has travelled a long way as a market, Burd said in an exclusive interaction with businessline.
-
-## Underlying momentum in industrial sector remains intact, set to get further boost, says Finmin report
-The reports states that the electronics and semiconductor value chain is gathering momentum and India’s military drone manufacturing industry is expected to grow four-to-five-fold by March 2028
+## India’s domestic air traffic falls 4.2% in April amid weak demand and rising costs
+Domestic air travel experienced a dip in April, with passenger numbers falling 4.2% from March and 3.47% year-on-year. Airlines faced headwinds from softer demand and rising costs, leading to network adjustments. IndiGo expanded its market share to 65%, while Air India Group saw a decline. Operation
 
 ## Stock market recap: Seven of top-10 firms lose Rs 1.54 lakh crore
 Seven of India's top 10 companies experienced a combined market valuation drop of Rs 1.54 lakh crore last week, with Reliance Industries leading the decline. This occurred as the BSE Sensex and NSE Nifty saw minor dips. Despite the losses, Reliance Industries maintained its position as the country's
@@ -93,8 +87,14 @@ Geopolitical tensions in the Middle East are directly impacting household budget
 ## Indian crude basket below $100/bbl, 1st since March 6
 
 
-## 5-month duty relief for cotton imports
-Move To Keep Prices In Check, Aid Textile Industry
+## What's a Honey Singh song doing in the CBSE row? Teen hacker's mic-drop meme as board 'admits' gaps
+Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have driven the controversy over CBSE's On-Screen Marking (OSM) system for Class 12.
+
+## Gusty winds likely in Delhi tonight, Rajasthan under dust storm alert for one week
+Rain, thunderstorms, and gusty winds will also affect Jammu & Kashmir, Punjab, Haryana, Uttar Pradesh, Rajasthan, and Uttarakhand.
+
+## Saket building collapse: MCD takes action after six killed; 2 engineers suspended
+A four-storey commercial buidling collapsed near Saket metro station in Delhi on Saturday (May 30) evening
 
 ## 'Issue dates back to British India': Nepal ropes in UK, China amid dispute over Lipulekh Pass
 The Nepali leader also added that it had come to his attention that Nepal has also encroached on Indian land in multiple places.
@@ -109,39 +109,30 @@ Following the building's collapse on Saturday evening, rescue operations carried
 DMK’s youth wing secretary Udhayanidhi Stalin claimed that the governor was testing the self-respect of Tamils all over again
 
 ## 3 teens vs CBSE: How the Class 12 paper-checking system OSM blew up, and the board corrected, defended, countered
-Vedant, Sidhant and Nisarga fueled nationwide row over CBSE's On-Screen Marking system, highlighting flaws, sparking "questions from Gen Z for Modi govt”
+Vedant, Sarthak and Nisarga fueled nationwide row over CBSE's On-Screen Marking system, highlighting flaws, sparking "questions from Gen Z for Modi govt”
 
-## DK Shivakumar to take oath as Karnataka CM on June 3, Cabinet entry of Siddaramaiah's son Yathindra likely. What we know
-MB Patil -- a Lingayat -- and Dalit leader Priyank Kharge -- Mallikarjun Kharge's son – have emerged as leading contenders for the deputy CMs posts.
-
-## India, US chief negotiators to hold four-day trade talks to finalise interim pact from June 1
-The US team will be led by its chief negotiator Brendan Lynch. Team India is led by Darpan Jain, who is an additional secretary in the Department of Commerce.
-
-## No tussle at all with judiciary over appointment of judges: Union law minister Arjun Ram Meghwal
-Meghwal's comments come amid a government search to analyse models for appointment of judges while the SC struck down a bill overturning the collegium system
-
-## Ruturaj Gaikwad replaces injured Riyan Parag in India A squad for SL tri-series
+## Ahead of D K Shivakumar’s swearing-in, lobbying grows for deputy CM, Cabinet posts
 
 
-## Sumukhi Suresh says female comics get cancelled every day: ‘Just read our comments section’
+## Inside Mohanlal’s green haven: How actor turned passion for organic farming into a success
 
 
-## Don’t act like you’re tough: Frances Tiafoe’s tiff with opponent at French Open
+## China This Week | EU’s ‘Chemotherapy’ for battling trade surplus, changes in household system, and new nuclear test site photos
 
 
-## Unsung Heroes | How a monkey licking water spilt on road in Bidar sparked a thirst to help wildlife in summer
+## Mira Kapoor shares her ‘dream kitchen’ blueprint, hosting secrets: ‘Guest drawer of snacks’
 
 
-## Sonakshi Sinha shares DIY hack for natural curls, credits mother-in-law for recipe
+## Rayagada Railway Division starts June 1: What it means for passengers, routes and train operations
 
 
-## Maharashtra’s biggest cooperative milk dairy gets ready for polls
+## ‘Some resentment natural … reuniting party is priority’: New Goa Congress chief Chodankar amid unease over his appointment
 
 
-## Satwik-Chirag win Singapore Open: Furious rallies, Yorker-smash, celebratory dances
+## From the Opinions Editor: What we don’t talk about when we talk about sexual violence
 
 
-## Sena UBT to Maharashtra Minister Aditi Tatkare: ‘Explain why 80 lakh women were disqualified from Ladki Bahin scheme’
+## ‘You cannot reduce Aishwarya Rai to a number on a scale’: Madhuri Dixit slams trolls
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -264,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World Health Organization hails recovery of five Ebola patients
+More than 220 people are suspected to have died from the disease's latest outbreak, which was declared two weeks ago.
+
+## Protesters want to send ‘fascists to Mars’ aboard mock rocket
+Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.
+
+## Israeli forces push past Lebanon’s Litani River: How significant is it?
+Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.
+
+## Satellite imagery shows erasure of southern Gaza as Israel expands control
+Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.
+
+## Japan rejects ‘new militarism’, says China is rapidly arming
+Japan accuses China of lacking military transparency and stresses the importance of dialogue for regional stability.
+
 ## South Africa’s World Cup 2026 departure delayed over Mexican visa debacle
 World Cup delegation held up as players await visas for Mexico, whom South Africa face in the opening game in 11 days.
 
@@ -272,21 +278,6 @@ Swiatek handed straight-sets defeat by Ukraine's Marta Kostyuk in the round of 1
 
 ## Dublin protesters demand justice over death of Congolese man
 Dublin protesters demand justice over death of Congolese man
-
-## Rio’s Forever War
-In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.
-
-## Israeli forces cross Lebanon’s Litani River and seize 12th century castle
-Invading Israeli forces have crossed north of Lebanon's Litani River and seized the medieval Beaufort Castle.
-
-## From AFCON to World Cup 2026: How Morocco became a football powerhouse
-Morocco's success is built on an effective strategy, but there has been some upheaval in the run-up to FIFA World Cup.
-
-## Labour triumphs in Malta election, preliminary results show
-Labour Party secures historic fourth term in Malta amid geopolitical and economic instability concerns.
-
-## Ukrainian drone attacks hit multiple Russian targets, including refinery
-Saratov refinery hit as Ukrainian strikes intensify across Russian regions, damaging civilian infrastructure.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
