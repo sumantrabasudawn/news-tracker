@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Brussels officials head east with tour of Balkan capitals
+EU-western Balkan summit on expansion of bloc, Netflix co-founder Reed Hastings steps down, Peru goes to the polls
+
+## Operation Jailbreak: lessons from Ukraine on making weapons talk to each other
+Defence companies join with Army personnel in hackathon to apply AI to ‘interoperability’ puzzle
+
 ## The end of cheap
 After 50 years of falling capital, labour and energy prices, the next half-century will look very different for America
 
@@ -18,14 +24,11 @@ Investors and strategists shrug off worries that markets could be overheating by
 ## Scottish opposition leaders criticise Sturgeon interview
 Former first minister of Scotland says she is ‘not responsible’ for Peter Murrell’s theft
 
-## Israel captures Crusader castle in Lebanon push
-Seizure of 12th-century hilltop fortress comes as Israeli prime minister orders expanded offensive against Hizbollah
+## Violence mars PSG celebrations after Champions League victory over Arsenal
+French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
 
-## Is the US jobs market immune to the Iran war?
-Market Questions is the FT’s guide to the week ahead
-
-## Paris Saint-Germain retain Champions League with victory over Arsenal
-780 arrests made in France after celebrations marred by acts of vandalism and violence
+## Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat
+Owners of troubled travel group inject $275mn in return for creditors delaying payment dates and relaxing terms
 
 ## Ferrari’s Luce is a free option on a whole new market
 Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
@@ -36,10 +39,7 @@ Ageing sanctioned ships should be scrapped, says leading ship recycler
 ## Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply
 Continent risks losing critical medicine capacity without stronger protections, says chief executive
 
-## Defence group CSG still pursuing stake in Franco-German tank maker
-Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
-
-## Stay the course
+## Editorial. Stay the course
 MPC should retain status quo in difficult times
 
 ## Telangana wants the duty on crude palm oil to be increased
@@ -87,6 +87,15 @@ Foreign portfolio investors continued their exit from Indian equities in May, wi
 ## Middle East conflict is rewriting your kitchen math — Explained in 10 charts
 Geopolitical tensions in the Middle East are directly impacting household budgets, driving up prices for everyday essentials like cooking oil, milk, and bread. Soaring global crude oil prices and a weakening rupee are increasing import, fuel, and transportation costs, leading to a domino effect on c
 
+## All about Lipulekh: The key pass that has India and Nepal locked in a 210-year-old dispute | Explained
+The latest dispute over the pass follows India and China's announcement of the 2026 Kailash Mansarovar Yatra.
+
+## Myanmar President Min Aung Hlaing meets NSA Ajit Doval on first India visit since taking office
+The visit comes less than two months after Min Aung Hlaing became President following Myanmar's parliamentary elections held in December and January.
+
+## 'He was to come home for holidays': Dreams cut short as Delhi building collapse kills two friends
+At least 6 people have so far been killed after a building collapsed near Delhi's Saket Metro Station at around 7:30 pm on Saturday.
+
 ## Ex-ED officer Satyabrata Kumar who probed Nirav Modi, Vijay Mallya cases takes voluntary retirement from IRS
 2004-batch Indian Revenue Service officer was posted as Commissioner (Appeals) in West Bengal's Siliguri after he was repatriated from the ED a year back
 
@@ -102,37 +111,28 @@ Rain, thunderstorms, and gusty winds will also affect Jammu & Kashmir, Punjab, H
 ## Saket building collapse: MCD takes action after six killed; 2 engineers suspended
 A four-storey commercial buidling collapsed near Saket metro station in Delhi on Saturday (May 30) evening
 
-## 'Issue dates back to British India': Nepal ropes in UK, China amid dispute over Lipulekh Pass
-The Nepali leader also added that it had come to his attention that Nepal has also encroached on Indian land in multiple places.
-
-## 'Drink lassi, sattu, aam panna': PM Modi suggests cooling measures in midsummer Mann ki Baat
-"There's no big branding, but they embody the experience of generations. Enjoy these desi drinks during the summer," PM Modi said in his monthly programme.
-
-## Delhi building collapse caught on camera: 6 dead, 10 injured so far in incident near Saket metro station
-Following the building's collapse on Saturday evening, rescue operations carried on overnight to pull survivors out of the debris
-
-## ‘Right of sex workers can exist without a right to sex work: SC asks Government to make law exempting trafficked sex workers from criminal charges
+## Orange vs kinnow: Which has more Vitamin C? Expert answers
 
 
-## From West Bengal’s new Annapurna scheme to CBSE re-evaluation: Key changes from June 1
+## Record alert: Virat Kohli scores his fastest IPL half-century in final
 
 
-## Cancer screening after 40: Why tumour markers can create ‘more confusion than clarity’
+## Legislative Council election: Seat sharing finalised but Mahayuti and MVA camps yet to announce candidates
 
 
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 164) — Check out answers with explanations
+## Firozabad horror: Trader slams toddler to death after mother rejects marriage proposal
 
 
-## UP gets full-time DGP after four years, Rajeev Krishna takes charge
+## NADA finds unused syringes and Russian medicines during checks at wrestling trials
 
 
-## Sewage manhole claims lives of woman, six-month-old son in Punjab’s Moga city
+## 6 injured after chlorine gas leak from closed sewage plant near IIM Mumbai campus gate
 
 
-## Silent in Question Hour: 14 Haryana MLAs ask fewer than five questions
+## Dua Lipa ties the knot with Callum Turner in London, see photos
 
 
-## Central Railway steps up anti-plastic, sustainability drive ahead of World Environment Day
+## Junior college teachers across Maharashtra oppose new draft on staffing approval norms
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -255,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The Bazaar of Return in Aida Refugee Camp
+The Bazaar of Return in Aida Refugee Camp
+
+## Ethiopia’s election: Parties, coalitions and candidates explained
+Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate.
+
+## Iran ⁠restores some gas production at South Pars facility
+Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.
+
+## Colombians head to the polls to choose President Gustavo Petro’s successor
+The contest is largely a three-horse race between a left-wing senator, a businessman and a right-wing lawmaker.
+
 ## Juan Manuel Santos on Colombia’s peace process, 10 years on
 The former Colombian president reflects on peace, conflict and the return of violence.
 
@@ -266,18 +278,6 @@ Rescuers face heavy rains, equipment failures in search for two people trapped i
 
 ## Could Democrats be shut out of the California governor’s race?
 California is a Democrat stronghold, but thanks to the state's jungle primary, Republicans are frontrunners to advance.
-
-## Iran reinstates some internet access but restrictions remain for most
-Not all data centres are back online while internet protocols remain blocked, restricted or 'whitelisted'.
-
-## What are the chances for the Iran-US ‘Declaration of Principles’?
-Analysts Negar Mortazavi and Colin Clarke dissect the complications surrounding the Iran-US deal.
-
-## Not just the US: How 51 countries armed Israel during Gaza war
-An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e
-
-## Israeli airstrikes devastate Lebanon’s Tyre
-Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
