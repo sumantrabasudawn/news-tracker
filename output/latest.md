@@ -24,6 +24,9 @@ President wants to make a ‘great’ deal but defence secretary warns US is rea
 ## Greens discuss downgrading some policies to prepare for possible UK coalition
 A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said
 
+## Jes Staley to appear before Congress over ties to Jeffrey Epstein
+Former Barclays boss agrees to in-person interview with US lawmakers over his relationship with paedophile
+
 ## Paris Saint-Germain retain Champions League with victory over Arsenal
 French club triumph in penalty shootout over London side in win for Gulf sovereign wealth over US capital
 
@@ -39,8 +42,8 @@ Lessons for boomtime investing
 ## Arsenal’s dance with history
 Also in today’s newsletter: how the Knicks built a championship contender
 
-## Ferrari’s new EV sparks Italian angst over Agnelli legacy
-Critics say John Elkann has detached the family empire from its home country
+## Q4 results highlights today: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
+Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
 
 ## India signs BrahMos missile deal with Vietnam, Indonesia pact in final stages
 India has already exported BrahMos missiles to the Philippines, while the Vietnam deal is reportedly valued at around ₹6,000 crore, including training and logistical support
@@ -63,8 +66,8 @@ The transaction, expected to be completed in the second quarter of FY27, follows
 ## Eateries, theatres, airlines pad up for IPL final
 Restaurants , pubs, food delivery and quick commerce platforms are all in on the cricket party doling out special offers
 
-## Tax Query: Tax treatment of one-way switch from NPS Tier II to Tier I
-One-way switch from NPS Tier II to Tier I will be regarded as redemption of units in Tier II, followed by a fresh investment into Tier I
+## Indian crude basket below $100/bbl, 1st since March 6
+
 
 ## 5-month duty relief for cotton imports
 Move To Keep Prices In Check, Aid Textile Industry
@@ -87,32 +90,29 @@ India's ambitious first bullet train project, launched in 2017, is now in its ad
 ## Fuel price cut call: Transporters body urge Centre to cut petrol, diesel prices as crude falls to $90 per barrel
 The All India Motor & Goods Transport Association (AIMGTA) has called on the central government to lower petrol and diesel prices. They argue that the significant drop in international crude oil prices, from $104 to $90 per barrel, should be reflected domestically. This reduction, they state, is cru
 
-## Govt waives cotton import duty till October 30 to boost supplies, ease input costs
-The government has waived customs duties on cotton imports for five months until October 30, 2026, effective June 1, 2026. This measure aims to boost cotton availability for the domestic textile industry, reduce input costs for manufacturers, and support SMEs. The exemption is intended to benefit th
+## 'Busted myth of short wars': Navy chief on US-Iran conflict in West Asia
+In an interview with HT, Admiral Dinesh K Tripathi spoke about several issues, including the need for theatre commands and lessons from the war in West Asia.
 
-## India ‘critical anchor’ in South Asia: US defence chief
-In a speech at the Shangri-La Dialogues, Pete Hegseth pointed to closer cooperation between India and the United States on naval matters and co-production of Javelin anti-tank guided munitions
+## CUET retest to be held for over 3,700 students as glitch mars exam
+The delay affected over 73,100 students in 533 examination centres spanning 306 cities.
 
-## Officials blame cyberattack for CBSE revaluation portal glitches
-CBSE's revaluation portal faced a cyberattack, disrupting payments for 50 students and deferring the re-evaluation process until June 1.
+## FinMin flags inflation risks, calls for sustained vigilance
+The Union finance ministry warns of inflation risks due to rising fuel prices and global volatility, despite retail inflation staying within target limits.
 
-## CEC Gyanesh Kumar defends SIR, says it led to ‘purest’ electoral lists
-Gyanesh Kumar defended the Special Intensive Revision of electoral rolls, calling it the world's most accurate voter list, despite opposition criticism.
+## DK Shivakumar gets CLP’s nod as next CM of Karnataka, oath-taking on June 3
+Shivakumar, accompanied by Siddaramaiah, called on governor Thaawarchand Gehlot at the Lok Bhavan and staked claim to form a new government.
 
-## As Siddaramaiah steps aside, Congress confronts lessons from Karnataka’s past
-Siddaramaiah’s political identity has been constructed around the AHINDA coalition of minorities, backward classes and Dalits, alongside welfare beneficiaries
+## Govt exempts import duty on cotton till October
+The government has exempted customs duty on cotton imports for five months to support the textile industry, reducing costs and boosting competitiveness.
 
-## After attack on Abhishek, Mamata Banerjee claims hospitals were told not to admit him: ‘Pressure exerted on doctors’
-Mamata Banerjee alleged that a hospital administrator told her he was receiving threat calls from the police.
+## Monitor demographic changes: Shah to DMs; orders special groups
+Amit Shah directs district magistrates to monitor demographic changes in border areas, establish Security Coordination Groups, and enhance enforcement against illegal activities.
 
-## Mumbai man kills 4-year-old son after child cries for milk, say police
-The child's cries woke Rajesh, and in a fit of rage, he allegedly slammed the boy against a door before repeatedly banging his head on the floor.
+## Charges to be framed against Sukesh, Jacqueline
+A Delhi court has ordered money laundering charges against conman Sukesh Chandrashekar and 16 others, including actress Jacqueline Fernandez, in a ₹200 crore extortion case.
 
-## ‘What is happening now?’: TMC's Derek O'Brien to Amit Shah after Abhishek Banerjee roughed up in Bengal
-Derek O'Brien alleged that Abhishek Banerjee's security had been withdrawn on the day of counting and sought an explanation from Amit Shah over the incident.
-
-## Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval chief
-Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's maritime trade: Naval Chief
+## New CDS, navy chief to take charge today
+General NS Raja Subramani becomes India's new chief of defence staff, while Admiral Krishna Swaminathan takes over as navy chief amid military reforms.
 
 ## In multi-state operation, police say Pakistan-backed terror group busted, 8 held
 
@@ -138,6 +138,9 @@ Indian Navy's aggressive posture during 'Operation Sindoor' crippled Pakistan's 
 ## RCB vs GT: Teams with similar batting philosophies but different depth
 
 
+## Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada
+Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who
+
 ## Writing’s on the wall for the bond market – for those who can read it
 There is a good deal more to the rapid rise in bond yields around the world, not least in Asia, than meets the eye. It suggests a recognition by financial markets that governments are spending beyond their means, tax revenues and borrowing power. The implication is that either taxes need to rise or 
 
@@ -158,9 +161,6 @@ China’s Wingtech Technology says it has developed an independent management op
 
 ## Lenovo’s status as Hang Seng Index top performer in 2026 validates AI push
 Lenovo Group has unexpectedly emerged as the best performer on the Hang Seng Index this year after its shares more than doubled, as optimism builds that the Chinese personal computer (PC) maker will become more reliant on artificial intelligence for growth. The stock surged 22 per cent to HK$24 in H
-
-## Global Prosperity Summit 2026 reinforces Hong Kong’s strategic importance in advancing Apec cooperation and global governance
-The Global Prosperity Summit 2026 (GPS 2026) highlighted Hong Kong’s expanding role in international and regional cooperation both within China’s Global Governance Initiative as well as Apec, ahead of a meeting of the bloc’s economic leaders in neighbouring Shenzhen later this year. The two-day even
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rescues in eastern Syria after the Euphrates River bursts its banks
+Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.
+
+## Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo
+Lebanese PM describes Israel's attacks as collective punishment as US warns Iran of strikes if no deal is reached.
+
 ## US Congress advances American-Israeli military integration plan
 A provision in the 2027 draft US defence bill could bind the two countries' weapons industries closer than ever.
 
@@ -275,12 +281,6 @@ Women bear the brunt of DRC's Ebola outbreak.
 
 ## Putin says drone that crashed in Romania likely Ukrainian
 Putin says drone that crashed in Romania likely Ukrainian.
-
-## Is the war in Ukraine entering a new phase?
-NATO says it is ready to defend allied territory against Russian attacks.
-
-## Iran reasserts control over Hormuz Strait as deal with US remains elusive
-Pentagon chief Pete Hegseth says US 'more than capable' of restarting war if satisfactory deal not reached.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
