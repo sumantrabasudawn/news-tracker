@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Fed and BoE signal little desire to change monetary policy
+Whether it was the effects of AI or energy, they saw the benefits of an active hold at the Reykjavik Economic Conference
+
 ## Brussels officials head east with tour of Balkan capitals
 EU-western Balkan summit on expansion of bloc, Netflix co-founder Reed Hastings steps down, Peru goes to the polls
 
@@ -20,9 +23,6 @@ Global pharmaceutical companies are increasingly looking to China as patents on 
 
 ## Wall Street bulls bet US stocks rally will defy bubble fears
 Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares
-
-## Scottish opposition leaders criticise Sturgeon interview
-Former first minister of Scotland says she is ‘not responsible’ for Peter Murrell’s theft
 
 ## Violence mars PSG celebrations after Champions League victory over Arsenal
 French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
@@ -63,6 +63,9 @@ Ethical hacker contradicts Board’s claims
 ## PRS report flags legislative rush: Over 600 State bills passed in 2025 with limited scrutiny
 30% of the bills were passed on the day they were introduced, with 7 assemblies of Andhra Pradesh, Bihar, Gujarat, Jharkhand, Mizoram, Puducherry and the Punjab passing legislations either on the day of introduction or the next
 
+## FPIs take out nearly Rs 33k cr from Indian equities in May
+
+
 ## RBI MPC may hike inflation forecast, trim growth rate
 All Eyes On June 5 Statement As Gulf Crisis Nears 100 Days
 
@@ -83,9 +86,6 @@ Senior officials from India and the US are meeting in New Delhi to finalize an i
 
 ## Dalal Street outlook: What will guide market sentiments this week?
 Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.
-
-## FPI profile: Foreign investors continue selling spree in May, pull out Rs 32,000 crore
-Foreign portfolio investors continued their exit from Indian equities in May, withdrawing Rs 32,963 crore due to concerns over earnings growth and a weakening rupee. This outflow has pushed cumulative FPI withdrawals in 2026 to Rs 2.25 lakh crore, surpassing the entire previous year's figure. While 
 
 ## 'Injustice done to RCB fans': DK Shivakumar slams IPL final venue, says Bengaluru was sidelined
 As celebrations broke out across Karnataka, Shivakumar said RCB fans in Bengaluru had missed out on witnessing the title triumph in their home city.
@@ -111,7 +111,13 @@ Besides discussions with India, Nepal was also in touch with China and Britain r
 ## What's a Honey Singh song doing in the CBSE row? Teen hacker's mic-drop meme as board 'admits' gaps
 Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have driven the controversy over CBSE's On-Screen Marking (OSM) system for Class 12.
 
-## South Coast Railway zone operational from June 1: How divisions, routes and train operations will change
+## Anushka Sharma and Virat Kohli trade flying kisses as RCB wins IPL 2026 final, watch
+
+
+## ‘It’s stuff that you dream of’: Virat Kohli after guiding RCB to 2nd title
+
+
+## South Coast Railway zone operational from today: How divisions, routes and train operations will change
 
 
 ## IPL Rollercoaster: Hazlewood’s counterpunch, Unsung Rasikh & King Kohli on a kill
@@ -127,12 +133,6 @@ Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have drive
 
 
 ## ‘For perfume manufacturing’: Over 200 litres of methanol led to Pune hooch tragedy
-
-
-## Ukraine hits Russian energy targets, denies striking Kremlin-occupied nuclear plant
-
-
-## JoSAA Counselling: Will CBSE Class 12th scores affect eligibility for IIT seat amid OSM controversy?
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## As Ethiopia votes, its deepening human rights crisis must be addressed
+Continuing internal conflicts and deepening repression are casting a long shadow over the general election.
+
+## Ethiopia’s election is about affirming national commitment to democracy
+A national vote alone can't address all challenges in the country, but it can be a step toward democratic consolidation.
+
+## Newark mayor imposes curfew at Delaney Hall immigration detention centre
+New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.
+
+## What’s at stake in Ethiopia’s elections?
+Ethiopia's governing party is seeking to cement its grip on power amid a fragmented electorate.
+
+## Explosives store blast kills dozens in Myanmar village
+Explosives store blast kills dozens in Myanmar village.
+
 ## Building collapses in New Delhi, some people rescued, more feared trapped
 Nine people have reportedly been rescued from the rubble of a collapsed five-storey building in New Delhi, India.
 
@@ -263,21 +278,6 @@ Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the 
 
 ## US Congress moves to deepen military ties with Israel: Why it matters
 Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy.
-
-## The largest Israeli advance into Lebanon in years
-Israel’s military presence in southern Lebanon has expanded dramatically.
-
-## Polls open in Colombia’s pivotal presidential election
-Colombians headed to the polls to choose a new president in a high-stakes election.
-
-## Dozens killed in explosives depot blast in northeast Myanmar
-At least 46 people have been killed and 70 wounded in explosion in rebel-held area, local media report.
-
-## The Bazaar of Return in Aida Refugee Camp
-The Bazaar of Return in Aida Refugee Camp
-
-## Ethiopia’s election: Parties, coalitions and candidates explained
-Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
