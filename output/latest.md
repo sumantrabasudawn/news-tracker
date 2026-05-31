@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## England’s treatment of vulnerable children is a scandal
+Care system is warped by incentives that put helpless young people at greater risk
+
+## How Maine’s lobster revolt could cost Trump the Senate
+Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
+
+## Petro’s leftwing project faces split opposition in Colombia presidential vote
+Trump-loving populist and establishment rightwinger strive to end nation’s progressive experiment
+
 ## Japan’s Koizumi rejects China accusations of ‘new militarism’
 Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region
 
@@ -15,15 +24,6 @@ Leftwing politician faces allegations that he misled the public on issues such a
 ## There can only be one President Donald Trump, forever
 By snubbing his son’s wedding he seemed intent on making sure Don Jr knows his place
 
-## How Iran’s military harnesses ChatGPT
-Western AI models are turbocharging Tehran’s cyber operations, helping it develop malware and launch attacks
-
-## China’s activewear boom puts spring in foreign brands’ step
-Rapha and Lululemon among groups riding wave of interest in wellbeing
-
-## Top health official held shares in key children’s home operator
-Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests
-
 ## Ferrari’s Luce is a free option on a whole new market
 Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
 
@@ -33,32 +33,50 @@ Ageing sanctioned ships should be scrapped, says leading ship recycler
 ## Defence group CSG still pursuing stake in Franco-German tank maker
 Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
 
+## How Iran’s military harnesses ChatGPT
+Western AI models are turbocharging Tehran’s cyber operations, helping it develop malware and launch attacks
+
+## China’s activewear boom puts spring in foreign brands’ step
+Rapha and Lululemon among groups riding wave of interest in wellbeing
+
+## Top health official held shares in key children’s home operator
+Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests
+
 ## Race for rare earths sparks concern about environmental damage
 Companies seeking to boost western supplies face legal and community obstacles
 
-## Minda Corporation reports fire at Noida manufacturing facility; no casualties reported
-In an exchange filing, Minda Corporation said the fire occurred at around 4:15 pm on May 30 at its plant located in Sector-59, Noida
+## RBI likely to maintain status quo on rates, adopt cautious approach amid West Asia crisis
+With surging energy prices, continuing supply chain woes and a depreciating rupee, experts see RBI raising its inflation forecast and lower GDP growth estimate at its bi-monthly monetary policy meet from June 3 to 5.
 
-## Signpost India net up 20 times in Q4 on strong demand
-Signpost added 67 stations to the Bangalore Metro (BMRCL) network, Kolkata Streetscape Renaissance project, and deployed over 1,000 green fleet buses across Mumbai and Goa
+## DoT Spectrum move paves way for vehicle-to-vehicle safety network
+The objective is to provide advance warnings of potential hazards, such as sudden braking by a vehicle ahead, blind-spot risks, accidents, slippery roads or poor visibility, allowing drivers to react sooner and avoid collisions
 
-## CMR Green and Hexagon Nutrition set to launch IPOs next week
-Shares are likely to list on the bourses in the second week of June.
+## We’re excited for India’s AI leadership plans: Sam Burd, Chief Strategy Officer, Dell Technologies
+Looking back at India’s enterprise ambitions since the Y2K era, the country has travelled a long way as a market, Burd said in an exclusive interaction with businessline.
 
-## Why your health insurance may not cover as much as you think
-Plugging loopholes in a health insurance cover is as important as getting one
+## Underlying momentum in industrial sector remains intact, set to get further boost, says Finmin report
+The reports states that the electronics and semiconductor value chain is gathering momentum and India’s military drone manufacturing industry is expected to grow four-to-five-fold by March 2028
 
-## Coffee Day Global returns to profit in FY26; revenue rises 5.7% to ₹1,094 crore
-Coffee Day Global’s Average Sales Per Day witnessed a marginal increase to ₹21,101 in the financial year ended March 31, 2026, compared with ₹21,016 in FY25.
+## Deep tech start-up Impensus Electronics raises pre Series A funding
+The start-up plans to use the capital towards scaling commercial operations, product development, and regulatory approvals for its solutions that helps reduce post harvest losses in the agricultural supply chain
 
-## Cash market ADT hits 22-month high as FOMO grips retail investors
-Retail investors continue to bet big on equity investments and use every fall in market to pump in more money
+## From CM race to DCM race: Congress’s next test in Karnataka
+The new cabinet will have to balance regional and caste representation. Kharge also said the search for a new KPCC president is underway
 
-## Adani Power ramps up to meet record power demand
-In the last 40-45 days, the company’s power plants have operated at an average Plant Load Factor of 77%, significantly higher than the national thermal average of about 65%, with plant availability at 96%
+## Central Bank to enter wealth management, credit card biz in H2 FY27
+Bank to target its own corporate customers who are availing these facilities from other banks.
 
-## NSE welcomes MCA decision on 10% CSR spending via Social Stock Exchange
-The Social Stock Exchange was first proposed by Finance Minister Nirmala Sitharaman in the Union Budget 2019.
+## US Market Outlook: Dow Jones and S&P 500 index have more room to rise, NASDAQ nearing a key resistance
+Dow Jones, S&P 500 and NASDAQ Composite have surged to new record highs
+
+## Stock market recap: Seven of top-10 firms lose Rs 1.54 lakh crore
+Seven of India's top 10 companies experienced a combined market valuation drop of Rs 1.54 lakh crore last week, with Reliance Industries leading the decline. This occurred as the BSE Sensex and NSE Nifty saw minor dips. Despite the losses, Reliance Industries maintained its position as the country's
+
+## India-US trade talks to resume on June 1 as both sides push to finalise interim pact
+Senior officials from India and the US are meeting in New Delhi to finalize an interim trade agreement and advance broader bilateral trade talks. Discussions will cover market access, customs, and investment, with potential recalibration of the deal due to recent US tariff changes. The agreement aim
+
+## Dalal Street outlook: What will guide market sentiments this week?
+Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.
 
 ## FPI profile: Foreign investors continue selling spree in May, pull out Rs 32,000 crore
 Foreign portfolio investors continued their exit from Indian equities in May, withdrawing Rs 32,963 crore due to concerns over earnings growth and a weakening rupee. This outflow has pushed cumulative FPI withdrawals in 2026 to Rs 2.25 lakh crore, surpassing the entire previous year's figure. While 
@@ -75,61 +93,52 @@ Geopolitical tensions in the Middle East are directly impacting household budget
 ## 5-month duty relief for cotton imports
 Move To Keep Prices In Check, Aid Textile Industry
 
-## US tariff row: Refunds in limbo as Trump admin moves to appeal court order
-The Trump administration plans to appeal a court order allowing all importers who paid struck-down tariffs to seek refunds. This move could significantly slow down the multibillion-dollar repayment process already underway.
+## No tussle at all with judiciary over appointment of judges: Union Law Minister Arjun Ram Meghwal
+Meghwal's comments come amid a government search to analyse models for appointment of judges while the SC struck down a bill overturning the collegium system
 
-## Cotton duty relief: Textile industry welcomes import tax waiver, sees boost for exports and MSMEs
-The Centre has exempted customs duties on cotton imports for five months until October 30, aiming to boost availability and reduce costs for India's textile sector. This move is expected to enhance competitiveness, particularly benefiting MSMEs and enabling garment exporters to secure orders more ef
+## Mann Ki Baat: PM Modi urges people to stay safe amid heatwaves
+His remarks come days after he chaired a Union Cabinet meeting on Wednesday where ministers discussed measures to tackle the heatwave situation
 
-## DigiYatra to expand to 27 more airports by next year, 10 crore journeys completed
+## After hacker flags concerns in OSM portal, CBSE says 'closely monitoring' problems
+This statement from CBSE comes after a 19-year-old Nisarga Adhikary claimed he was able to hack the OSM portal.
 
+## Abhishek Banerjee condemns ‘political violence’ day after assault, thanks Rahul Gandhi for support
+On Saturday, TMC MP Abhishek Banerjee suffered minor injuries after stones and eggs were allegedly hurled at him in Sonarpur.
+
+## Abhishek Banerjee ‘attack’ accused linked to ex-TMC MLA Lovely Maitra? What we know
+Abhishek Banerjee sustained minor injuries after he was attacked with stones and eggs in Sonarpur, where he went to meet families of post-poll violence victims.
+
+## General Subramani takes charge as India's new CDS: All about the 'Pakistan-China expert'
+A primary mandate of Gen Subramani is to implement the ambitious military theaterisation plan and bolster tri-services synergy.
+
+## 'Attempt to murder me': Kalyan Banerjee's big allegations after 'attack by BJP goons with saffron clothes'
+Calling the attack an “attempt to murder” him, Kalyan Banerjee said a serious condition is prevailing in Bengal and that there was a total lawlessness condition
 
 ## CM Rekha Gupta orders strict action against officials after Saidulajab collapse
 Officials have been directed to inspect dilapidated and hazardous buildings in the vicinity and to take strict action wherever necessary
 
-## Repeated reminders, resolute Rabri: Why a high-profile address in Patna is at centre of BJP-RJD tiff
-10, Circular Road is one of those addresses in Bihar, which holds prominence in state politics. The house is adjacent to the chief minister's residence in Patna
-
-## TVK, DMK criticise Guv paying tribute to Thiruvalluvar image in saffron attire
-TVK, DMK criticise Guv paying tribute to Thiruvalluvar image in saffron attire
-
-## PM Modi applauds five national record breakers, athletes in latest Mann ki Baat episode
-Gurindervir Singh, Vishal TK, Tejaswin Shankar, Dev Meena and Kuldeep Kumar broke national records at the Federation Cup 2026 in Ranchi
-
-## ‘Show the terrorists' faces!’: Rahul Gandhi meets Vedant, student at centre of CBSE row, mocks familiar insults
-Vedant's Physics answer-sheet scanning mix-up was also acknowledged and corrected by CBSE; but he was abused by several handles on X and otherwise
-
-## Encroachments cleared in Delhi’s Shalimar Bagh to improve emergency access
-According to the DM, notices were served to all affected persons and adequate opportunities were provided for them to present their cases
-
-## States to create destination management organisations at tourist sites across country: Shekhawat
-States to create destination management organisations at tourist sites across country: Shekhawat
-
-## On Cam: TMC's Kalyan Banerjee holds head, falls to the ground after ‘attack’ in West Bengal's Hooghly
-TMC MP Kalyan Banerjee was allegedly mobbed when he went to Hooghly to submit a memorandum against the arrest of party workers after the assembly polls.
-
-## IPL 2026 Final, RCB vs GT Live Streaming: Where to Watch Royal Challengers Bengaluru vs Gujarat Titans Match Live Online & TV
+## From corridors of power: Sunil Jakhar’s tragedy, CM Mann’s walk that never was and Rahul Gandhi’s ‘third warning’
 
 
-## Delhi Police starts review of promotion policy, executive cadre structure
+## Mumbai records driest May in 3 years despite season’s first pre-monsoon rain
 
 
-## Rupali Ganguly slams authorities over hours-long power outage at her Mumbai home
+## Lions have died in Gujarat’s Gir due to a suspected infection. An Expert Explains why this isn’t an emergency
 
 
-## 9-year-old boy killed after BEST bus hits bicycle in Malad East, driver arrested
+## Tendulkar calls for 3 radical changes in T20 rules, starting with Impact Player
 
 
-## ‘Vulnerabilities contained, weaknesses being ruled out’: CBSE deploys team from IITs, government to secure system
+## Ravi Mohan joins the sets of Benz weeks after announcing acting break, see photos
 
 
-## Deepest incursion in 26 years: Israeli forces capture strategic Beaufort Castle in southern Lebanon
+## Just 2 weeks after launch, Ludhiana’s Halwara airport damaged during thunderstorm
 
 
-## ‘Karnataka Cabinet to be inducted in phases; no call on deputy CMs yet’: Mallikarjun Kharge
+## Spurred by his mother’s knee pain, this Hyderabad pharmacist built a wearable for chronic pain relief
 
 
-## As city braces for monsoon, over 300 landslide mitigation works left incomplete, shows BMC data
+## DU BTech Admissions 2026-27 Open: Apply at engineering.uod.ac.in using JEE Main scores
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -252,6 +261,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## From AFCON to World Cup 2026: How Morocco became a football powerhouse
+Morocco's success is built on an effective strategy, but there has been some upheaval in the run-up to FIFA World Cup.
+
+## Labour triumphs in Malta election, preliminary results show
+Labour Party secures historic fourth term in Malta amid geopolitical and economic instability concerns.
+
+## Ukrainian drone attacks hit multiple Russian targets, including refinery
+Saratov refinery hit as Ukrainian strikes intensify across Russian regions, damaging civilian infrastructure.
+
+## Trump tightens terms on Iran war deal, US media say
+US officials indicate Tehran may take days to respond to Trump's tougher terms on a potential peace agreement.
+
 ## Israel issues more displacement orders in Lebanon, seizes strategic castle
 Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.
 
@@ -263,18 +284,6 @@ Donald Trump says talks with Iran are progressing 'slowly but surely', as Israel
 
 ## Holder Gauff beaten by Potapova; Sabalenka solid at French Open
 Gauff's exit leaves four-time champion Swiatek and world number one Sabalenka as top contenders for the women's title.
-
-## Missing Syrian chess champion’s children likely dead, authorities say
-Syrian commission confirms deaths of Rania al-Abbasi's six children, missing since 2013 under Bashar al-Assad's rule.
-
-## Panic on beach in northern Israel during Hezbollah strikes
-Videos show people on a beach in Nahariya, Israel running for shelter as Hezbollah rockets are launched.
-
-## France arrests hundreds of rioters nationwide as PSG win Champions League
-French Ministry of Interior says 416 people detained nationwide, including 283 in Paris, after PSG's win over Arsenal.
-
-## Mexico beat Australia 1-0 before World Cup squad submission deadline
-The warm-up friendly simulated World Cup conditions, including cooling breaks for the players, at the Rose Bowl stadium.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
