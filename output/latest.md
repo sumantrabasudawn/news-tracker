@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Israel captures Crusader castle in deepening Lebanon push
+Seizure of 12th-century hilltop fortress comes as Israeli prime minister orders expanded offensive against Hizbollah
+
+## Is the US jobs market immune to the Iran war?
+Market Questions is the FT’s guide to the week ahead
+
+## China’s comparative advantage is industrial policy
+Western attempts to imitate Beijing’s state-funded model are unwise
+
 ## England’s treatment of vulnerable children is a scandal
 Care system is warped by incentives that put helpless young people at greater risk
 
@@ -15,20 +24,17 @@ Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacifi
 ## South Africa’s anti-migrant rallies trigger repatriations
 Ghana charters flights to evacuate hundreds of citizens as political backlash over xenophobic attacks grows on the continent
 
-## Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply
-Continent risks losing critical medicine capacity without stronger protections, says chief executive
-
-## Zack Polanski’s journey from Liberal Democrat convert to Green leader
-Leftwing politician faces allegations that he misled the public on issues such as his career
-
-## There can only be one President Donald Trump, forever
-By snubbing his son’s wedding he seemed intent on making sure Don Jr knows his place
+## Paris Saint-Germain retain Champions League with victory over Arsenal
+780 arrests made in France after celebrations marred by acts of vandalism and violence
 
 ## Ferrari’s Luce is a free option on a whole new market
 Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
 
 ## More than half of shadow fleet oil tankers pose environmental disaster risk
 Ageing sanctioned ships should be scrapped, says leading ship recycler
+
+## Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply
+Continent risks losing critical medicine capacity without stronger protections, says chief executive
 
 ## Defence group CSG still pursuing stake in Franco-German tank maker
 Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
@@ -42,8 +48,17 @@ Rapha and Lululemon among groups riding wave of interest in wellbeing
 ## Top health official held shares in key children’s home operator
 Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests
 
-## Race for rare earths sparks concern about environmental damage
-Companies seeking to boost western supplies face legal and community obstacles
+## As Chinars decline, one Kashmiri’s green crusade gains ground
+42-year-old resident Abdul Ahad Khan has planted over 1,500 Chinar saplings in Kashmir
+
+## Taj debuts in Frankfurt as IHCL expands footprint
+Move strengthens overseas footprint as company eyes growth in key international markets
+
+## The Art of Letting Go - at every stage, not just when we retire
+Only when we let go will we be able to reach out for something new
+
+## SBI Research calls for stronger RBI intervention as rupee slide outpaces fundamentals
+Depreciation excessive and not aligned with India’s strong fundamentals, says report
 
 ## RBI likely to maintain status quo on rates, adopt cautious approach amid West Asia crisis
 With surging energy prices, continuing supply chain woes and a depreciating rupee, experts see RBI raising its inflation forecast and lower GDP growth estimate at its bi-monthly monetary policy meet from June 3 to 5.
@@ -56,18 +71,6 @@ Looking back at India’s enterprise ambitions since the Y2K era, the country ha
 
 ## Underlying momentum in industrial sector remains intact, set to get further boost, says Finmin report
 The reports states that the electronics and semiconductor value chain is gathering momentum and India’s military drone manufacturing industry is expected to grow four-to-five-fold by March 2028
-
-## Deep tech start-up Impensus Electronics raises pre Series A funding
-The start-up plans to use the capital towards scaling commercial operations, product development, and regulatory approvals for its solutions that helps reduce post harvest losses in the agricultural supply chain
-
-## From CM race to DCM race: Congress’s next test in Karnataka
-The new cabinet will have to balance regional and caste representation. Kharge also said the search for a new KPCC president is underway
-
-## Central Bank to enter wealth management, credit card biz in H2 FY27
-Bank to target its own corporate customers who are availing these facilities from other banks.
-
-## US Market Outlook: Dow Jones and S&P 500 index have more room to rise, NASDAQ nearing a key resistance
-Dow Jones, S&P 500 and NASDAQ Composite have surged to new record highs
 
 ## Stock market recap: Seven of top-10 firms lose Rs 1.54 lakh crore
 Seven of India's top 10 companies experienced a combined market valuation drop of Rs 1.54 lakh crore last week, with Reliance Industries leading the decline. This occurred as the BSE Sensex and NSE Nifty saw minor dips. Despite the losses, Reliance Industries maintained its position as the country's
@@ -93,52 +96,52 @@ Geopolitical tensions in the Middle East are directly impacting household budget
 ## 5-month duty relief for cotton imports
 Move To Keep Prices In Check, Aid Textile Industry
 
-## No tussle at all with judiciary over appointment of judges: Union Law Minister Arjun Ram Meghwal
+## 'Issue dates back to British India': Nepal ropes in UK, China amid dispute over Lipulekh Pass
+The Nepali leader also added that it had come to his attention that Nepal has also encroached on Indian land in multiple places.
+
+## 'Drink lassi, sattu, aam panna': PM Modi suggests cooling measures in midsummer Mann ki Baat
+"There's no big branding, but they embody the experience of generations. Enjoy these desi drinks during the summer," PM Modi said in his monthly programme.
+
+## Delhi building collapse caught on camera: 6 dead, 10 injured so far in incident near Saket metro station
+Following the building's collapse on Saturday evening, rescue operations carried on overnight to pull survivors out of the debris
+
+## TVK, DMK criticise Guv paying tribute to Thiruvalluvar’s photo in saffron attire
+DMK’s youth wing secretary Udhayanidhi Stalin claimed that the governor was testing the self-respect of Tamils all over again
+
+## 3 teens vs CBSE: How the Class 12 paper-checking system OSM blew up, and the board corrected, defended, countered
+Vedant, Sidhant and Nisarga fueled nationwide row over CBSE's On-Screen Marking system, highlighting flaws, sparking "questions from Gen Z for Modi govt”
+
+## DK Shivakumar to take oath as Karnataka CM on June 3, Cabinet entry of Siddaramaiah's son Yathindra likely. What we know
+MB Patil -- a Lingayat -- and Dalit leader Priyank Kharge -- Mallikarjun Kharge's son – have emerged as leading contenders for the deputy CMs posts.
+
+## India, US chief negotiators to hold four-day trade talks to finalise interim pact from June 1
+The US team will be led by its chief negotiator Brendan Lynch. Team India is led by Darpan Jain, who is an additional secretary in the Department of Commerce.
+
+## No tussle at all with judiciary over appointment of judges: Union law minister Arjun Ram Meghwal
 Meghwal's comments come amid a government search to analyse models for appointment of judges while the SC struck down a bill overturning the collegium system
 
-## Mann Ki Baat: PM Modi urges people to stay safe amid heatwaves
-His remarks come days after he chaired a Union Cabinet meeting on Wednesday where ministers discussed measures to tackle the heatwave situation
-
-## After hacker flags concerns in OSM portal, CBSE says 'closely monitoring' problems
-This statement from CBSE comes after a 19-year-old Nisarga Adhikary claimed he was able to hack the OSM portal.
-
-## Abhishek Banerjee condemns ‘political violence’ day after assault, thanks Rahul Gandhi for support
-On Saturday, TMC MP Abhishek Banerjee suffered minor injuries after stones and eggs were allegedly hurled at him in Sonarpur.
-
-## Abhishek Banerjee ‘attack’ accused linked to ex-TMC MLA Lovely Maitra? What we know
-Abhishek Banerjee sustained minor injuries after he was attacked with stones and eggs in Sonarpur, where he went to meet families of post-poll violence victims.
-
-## General Subramani takes charge as India's new CDS: All about the 'Pakistan-China expert'
-A primary mandate of Gen Subramani is to implement the ambitious military theaterisation plan and bolster tri-services synergy.
-
-## 'Attempt to murder me': Kalyan Banerjee's big allegations after 'attack by BJP goons with saffron clothes'
-Calling the attack an “attempt to murder” him, Kalyan Banerjee said a serious condition is prevailing in Bengal and that there was a total lawlessness condition
-
-## CM Rekha Gupta orders strict action against officials after Saidulajab collapse
-Officials have been directed to inspect dilapidated and hazardous buildings in the vicinity and to take strict action wherever necessary
-
-## From corridors of power: Sunil Jakhar’s tragedy, CM Mann’s walk that never was and Rahul Gandhi’s ‘third warning’
+## Ruturaj Gaikwad replaces injured Riyan Parag in India A squad for SL tri-series
 
 
-## Mumbai records driest May in 3 years despite season’s first pre-monsoon rain
+## Sumukhi Suresh says female comics get cancelled every day: ‘Just read our comments section’
 
 
-## Lions have died in Gujarat’s Gir due to a suspected infection. An Expert Explains why this isn’t an emergency
+## Don’t act like you’re tough: Frances Tiafoe’s tiff with opponent at French Open
 
 
-## Tendulkar calls for 3 radical changes in T20 rules, starting with Impact Player
+## Unsung Heroes | How a monkey licking water spilt on road in Bidar sparked a thirst to help wildlife in summer
 
 
-## Ravi Mohan joins the sets of Benz weeks after announcing acting break, see photos
+## Sonakshi Sinha shares DIY hack for natural curls, credits mother-in-law for recipe
 
 
-## Just 2 weeks after launch, Ludhiana’s Halwara airport damaged during thunderstorm
+## Maharashtra’s biggest cooperative milk dairy gets ready for polls
 
 
-## Spurred by his mother’s knee pain, this Hyderabad pharmacist built a wearable for chronic pain relief
+## Satwik-Chirag win Singapore Open: Furious rallies, Yorker-smash, celebratory dances
 
 
-## DU BTech Admissions 2026-27 Open: Apply at engineering.uod.ac.in using JEE Main scores
+## Sena UBT to Maharashtra Minister Aditi Tatkare: ‘Explain why 80 lakh women were disqualified from Ladki Bahin scheme’
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -261,6 +264,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## South Africa’s World Cup 2026 departure delayed over Mexican visa debacle
+World Cup delegation held up as players await visas for Mexico, whom South Africa face in the opening game in 11 days.
+
+## Four-time champion Swiatek out as French Open continues to deliver shocks
+Swiatek handed straight-sets defeat by Ukraine's Marta Kostyuk in the round of 16 a day after Gauff's ouster.
+
+## Dublin protesters demand justice over death of Congolese man
+Dublin protesters demand justice over death of Congolese man
+
+## Rio’s Forever War
+In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.
+
+## Israeli forces cross Lebanon’s Litani River and seize 12th century castle
+Invading Israeli forces have crossed north of Lebanon's Litani River and seized the medieval Beaufort Castle.
+
 ## From AFCON to World Cup 2026: How Morocco became a football powerhouse
 Morocco's success is built on an effective strategy, but there has been some upheaval in the run-up to FIFA World Cup.
 
@@ -269,21 +287,6 @@ Labour Party secures historic fourth term in Malta amid geopolitical and economi
 
 ## Ukrainian drone attacks hit multiple Russian targets, including refinery
 Saratov refinery hit as Ukrainian strikes intensify across Russian regions, damaging civilian infrastructure.
-
-## Trump tightens terms on Iran war deal, US media say
-US officials indicate Tehran may take days to respond to Trump's tougher terms on a potential peace agreement.
-
-## Israel issues more displacement orders in Lebanon, seizes strategic castle
-Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.
-
-## The strait may reopen, but global confidence may not return
-The next phase of the Strait of Hormuz crisis may be defined less by its closure than by conditional access.
-
-## Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion
-Donald Trump says talks with Iran are progressing 'slowly but surely', as Israel intensifies operations in Lebanon.
-
-## Holder Gauff beaten by Potapova; Sabalenka solid at French Open
-Gauff's exit leaves four-time champion Swiatek and world number one Sabalenka as top contenders for the women's title.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
