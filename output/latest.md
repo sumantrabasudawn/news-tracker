@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## SoftBank pledges €75bn to build Europe’s biggest AI facility in France
-Masayoshi Son places France at the centre of his global AI ambitions
+## Japan defence minister rejects China accusations of ‘new militarism’
+Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region
 
-## Jill Biden’s memoir revives painful memories as Democrats try to move on
-First Lady’s book raises awkward questions for a party trying to rebuild itself for midterm elections
+## South Africa’s anti-migrant rallies trigger repatriations
+Ghana charters flights to evacuate hundreds of citizens as political backlash over xenophobic attacks grows on the continent
 
-## Hegseth says US-China ties are ‘better than in years’
-Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing
+## Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply
+Continent risks losing critical medicine capacity without stronger protections, says chief executive
 
-## Historic cattle shortages push US beef prices to record highs
-High feed costs and drought have thinned herds to the lowest levels in 60 years as protein-hungry consumers drive demand
+## Zack Polanski’s journey from Liberal Democrat convert to Green leader
+Leftwing politician faces allegations that he misled the public on issues such as his career
 
-## It is time for a European Security Council
-Increasing US disengagement and continued Russian aggression have given the idea fresh impetus
+## There can only be one President Donald Trump, forever
+By snubbing his son’s wedding he seemed intent on making sure Don Jr knows his place
 
-## Submit your questions: Ten years on, what’s next for Brexit?
-Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, on Thursday June 4, at 1pm BST
+## How Iran’s military harnesses ChatGPT
+Western AI models are turbocharging Tehran’s cyber operations, helping it develop malware and launch attacks
 
-## Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth
-President wants to make a ‘great’ deal but defence secretary warns US is ready to restart attacks
+## China’s activewear boom puts spring in foreign brands’ step
+Rapha and Lululemon among groups riding wave of interest in wellbeing
 
-## Greens discuss downgrading some policies to prepare for possible UK coalition
-A wealth tax would be one of their non-negotiable pledges after the next general election, a senior party figure said
+## Top health official held shares in key children’s home operator
+Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests
 
-## Jes Staley to appear before Congress over ties to Jeffrey Epstein
-Former Barclays boss agrees to in-person interview with US lawmakers over his relationship with paedophile
+## Ferrari’s Luce is a free option on a whole new market
+Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
 
-## Paris Saint-Germain retain Champions League with victory over Arsenal
-French club triumph in penalty shootout over London side in win for Gulf sovereign wealth over US capital
+## More than half of shadow fleet oil tankers pose environmental disaster risk
+Ageing sanctioned ships should be scrapped, says leading ship recycler
 
-## Crypto treasuries turn to risky equity in drive to raise cash
-Companies that stock up on crypto assets are following Michael Saylor’s Strategy into so-called digital credit
+## Defence group CSG still pursuing stake in Franco-German tank maker
+Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
 
-## Why does Castlelake want to buy easyJet?
-Budget carrier has large fleet and expensive airport slots, while its share price has been hit by Iran crisis
+## Race for rare earths sparks concern about environmental damage
+Companies seeking to boost western supplies face legal and community obstacles
 
-## Dotcom bubble IPOs
-Lessons for boomtime investing
+## SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners
+The battle for AI leadership has driven massive expenditures on computing networks by the likes of Meta Platforms Inc. and Amazon.com Inc
 
-## Arsenal’s dance with history
-Also in today’s newsletter: how the Knicks built a championship contender
+## Trent still in early phase of growth; confident of achieving 10x revenue milestone: Noel Tata
+Trent owns lifestyle and fashion department store chain Westside, value-fashion chain Zudio and hypermarket Star Bazaar
 
-## Q4 results highlights today: IREDA, Triveni Engg, Gujarat Energy profit dips, Zara India revenue slips; Tilaknagar, Genesys, Univastu and Veranda Learning shine
-Patanjali Foods, Gujarat Gas, Linde India, Titagarh Rail Systems, Jupiter Wagons, Easy Trip Planners, Ahluwalia Contracts, Indo Count Industries, Uflex and Rajesh Exports in focus.
+## Indian Market Outlook: Nifty 50, Sensex and Nifty Bank index struggle to rise
+The Indian benchmark indices look vulnerable to fall more
 
-## India signs BrahMos missile deal with Vietnam, Indonesia pact in final stages
-India has already exported BrahMos missiles to the Philippines, while the Vietnam deal is reportedly valued at around ₹6,000 crore, including training and logistical support
+## EaseMyTrip posts 8.9% revenue growth in Q4FY26
+The quarter witnessed particularly strong traction across hotels, holidays and international operations.
 
-## Blending credit bets with equity flexibility
-SBI Conservative Hybrid Fund combines active duration management with a relatively higher-yielding debt strategy
+## Reliance Industries, NLC India sign pact to explore underground lignite gasification project in Gujarat
+The move is aimed at partially addressing domestic gas shortage exacerbated by the ongoing global fuel crisis.
 
-## Why investors can accumulate this well-known FMCG stock near its 52-week low
-Seasonal dependence persists for this 54-year old company, making volume revival and margin delivery key monitorables
+## Western disturbance turns violent, may be last before monsoon onset
+Kicks up severe thunderstorms, sand storms, lightning, damaging winds, and hail in Rajasthan
 
-## India Post unveils permanent pictorial cancellation celebrating Swamimalai heritage
-The initiative aims to promote Swamimalai’s rich heritage and religious importance across India and internationally through postal articles processed at the post office
+## Digital payments have significant room for expansion; no slowdown in transaction growth: Paytm CEO
+According to Sharma, AI can help businesses improve customer engagement, discover new ways of reaching consumers and enhance operational efficiency, making companies more scalable and competitive
 
-## Micron, Samsung, SK hynix, TSMC, Nvidia: When bits and bytes take a large bite of the stock markets
-While current semiconductor cycle appears rock solid, history indicates it can end in tearsAre you an investor bedazzled by the AI gold rush? If yes, read on to know if the rally is for real or a mere speculation, whether it still has legs and if should you hop on to the bandwagon
+## US Market Outlook: Dow Jones, S&P 500 and NASDAQ Composite surge to record highs
+Dow Jones and S&P 500 index have more room to rise, NASDAQ nearing a key resistance
 
-## Kotak Mahindra Bank to acquire ₹10,639 crore loan portfolio from subsidiary KMIL
-The transaction, expected to be completed in the second quarter of FY27, follows the bank’s decision to conduct KMIL’s business activities directly within the bank from April 1, 2026
+## Special additional excise duty on fuel exports reduced
 
-## Eateries, theatres, airlines pad up for IPL final
-Restaurants , pubs, food delivery and quick commerce platforms are all in on the cricket party doling out special offers
 
 ## Indian crude basket below $100/bbl, 1st since March 6
 
@@ -87,56 +84,56 @@ India and the Eurasian Economic Union (EAEU) are currently negotiating a limited
 ## India’s bullet train project: Nine years later, is the dream finally nearing reality?
 India's ambitious first bullet train project, launched in 2017, is now in its advanced construction phase, with viaducts and tunnels taking shape. Despite delays and cost escalations, the Mumbai-Ahmedabad corridor is set to revolutionize travel, with the first operational section anticipated by mid-
 
-## Fuel price cut call: Transporters body urge Centre to cut petrol, diesel prices as crude falls to $90 per barrel
-The All India Motor & Goods Transport Association (AIMGTA) has called on the central government to lower petrol and diesel prices. They argue that the significant drop in international crude oil prices, from $104 to $90 per barrel, should be reflected domestically. This reduction, they state, is cru
+## Vietnam BrahMos deal already signed, Indonesia pact in final stages
+The Philippines, which signed a contract worth nearly USD 375 million in 2022, was the first foreign buyer of the BrahMos missile system from India.
 
-## 'Busted myth of short wars': Navy chief on US-Iran conflict in West Asia
-In an interview with HT, Admiral Dinesh K Tripathi spoke about several issues, including the need for theatre commands and lessons from the war in West Asia.
+## Delhi may see light rain again as dip in temperature brings respite from heat | Check IMD forecast
+The same forecast has also been released for other parts of the NCR, including Haryana's Gurugram and Faridabad, as well as Uttar Pradesh’s Noida and Ghaziabad.
 
-## CUET retest to be held for over 3,700 students as glitch mars exam
-The delay affected over 73,100 students in 533 examination centres spanning 306 cities.
+## Earth Sciences Secretary Ravichandran retires; to take up teaching at IIT-M
+Earth Sciences Secretary Ravichandran retires; to take up teaching at IIT-M
 
-## FinMin flags inflation risks, calls for sustained vigilance
-The Union finance ministry warns of inflation risks due to rising fuel prices and global volatility, despite retail inflation staying within target limits.
+## Man accused of murdering Ghaziabad teen on Bakrid killed in encounter
+The accused behind the murder of a 17-year-old in Ghaziabad's Khoda has been killed following an encounter with the police in the early hours of Sunday.
 
-## DK Shivakumar gets CLP’s nod as next CM of Karnataka, oath-taking on June 3
-Shivakumar, accompanied by Siddaramaiah, called on governor Thaawarchand Gehlot at the Lok Bhavan and staked claim to form a new government.
+## India's new chief of defence staff, navy chief take charge
+The appointments come as the armed forces advance theatreisation, a reform aimed at bringing together military resources and capabilities for future warfare.
 
-## Govt exempts import duty on cotton till October
-The government has exempted customs duty on cotton imports for five months to support the textile industry, reducing costs and boosting competitiveness.
+## Book Box: How to read Taiwan Travelogue
+A third time try of this year’s International Booker Prize winner holds up a mirror to my own history
 
-## Monitor demographic changes: Shah to DMs; orders special groups
-Amit Shah directs district magistrates to monitor demographic changes in border areas, establish Security Coordination Groups, and enhance enforcement against illegal activities.
+## ‘All we could hear were screams’: Witnesses recall building collapse horror in Delhi's Saidulajab
+Amid confusion and anxiety, several people remained near the site for information about friends and relatives believed to be trapped inside.
 
-## Charges to be framed against Sukesh, Jacqueline
-A Delhi court has ordered money laundering charges against conman Sukesh Chandrashekar and 16 others, including actress Jacqueline Fernandez, in a ₹200 crore extortion case.
+## Delhi Police bust ISI-backed terror module with links to Mumbai underworld, terrorist Shehzad Bhatti
+The arrests were made by Delhi Police’s Special Cell from Delhi, Maharashtra, and Jharkhand over a 17-day operation, said police officials.
 
-## New CDS, navy chief to take charge today
-General NS Raja Subramani becomes India's new chief of defence staff, while Admiral Krishna Swaminathan takes over as navy chief amid military reforms.
-
-## In multi-state operation, police say Pakistan-backed terror group busted, 8 held
+## Success Story | From Chandigarh’s stage to global boardrooms
 
 
-## Champagne parties to Interpol notice: Rise and fall of a Dehradun power couple
+## Khatron Ke Khiladi 15: Rohit Shetty announces new season in his signature style, watch
 
 
-## US Defence Secretary Pete Hegseth in Singapore: ‘No China hegemony, India critical anchor, helps maintain balance of power’
+## Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids
 
 
-## True Gen-Z defined by both its culture and contribution towards nation building: BJP president Nitin Nabin
+## Despite looming inflationary pressures, why RBI could defer rate hikes at policy meeting this week
 
 
-## PSG crowned UEFA Champions League winners; Arsenal crumble in penalty shootout
+## Bihar MLC polls: NDA eyes 9 seats as political heirs enter the race
 
 
-## Salman Khan gets candid about his luxury watch collection: ‘Mere dost ki ghadi hai…’
+## Nvidia-powered Windows PCs to make debut at Computex 2026: Report
 
 
-## At Norway Chess, the Armageddon exhausts the players and thrills the crowd
+## Parvesh Sahib Singh files defamation suits against AAP’s Bharadwaj, seeks Rs 5 crore in damages
 
 
-## RCB vs GT: Teams with similar batting philosophies but different depth
+## Pune hooch tragedy | Blurred vision, chest pain, failed kidneys: All patients had similar symptoms
 
+
+## Hong Kong property recovery tested as bigger student housing deals gain traction
+Hong Kong’s student housing sector is entering a new phase as larger institutional-style deals emerge from the city’s distressed commercial property market, signalling that professional investors are cautiously returning after years of falling asset values. Investors and analysts said the market was
 
 ## Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada
 Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who
@@ -158,9 +155,6 @@ Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, addin
 
 ## Wingtech says core of Nexperia China unit now based on mainland, can operate independently
 China’s Wingtech Technology says it has developed an independent management operation for Nexperia’s Chinese unit, in a bid to insulate the local business as it fights to regain control of the Dutch chipmaker. Wingtech chairwoman Ruby Yang Mu said on Friday that the core management, research and dev
-
-## Lenovo’s status as Hang Seng Index top performer in 2026 validates AI push
-Lenovo Group has unexpectedly emerged as the best performer on the Hang Seng Index this year after its shares more than doubled, as optimism builds that the Chinese personal computer (PC) maker will become more reliant on artificial intelligence for growth. The stock surged 22 per cent to HK$24 in H
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -258,10 +252,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures
+Unverified herbal remedies promoted on social media are driving rising health risks and delayed treatment in Nigeria.
+
+## The world hit a 44-year high in executions
+Governments around the world executed more people in 2025 than at any point since 1981.
+
+## Thousands in Peru protest Fujimori presidential run
+Thousands of demonstrators took to the streets of Lima to protest the presidential bid of Keiko Fujimori.
+
+## Emotional scenes as more survivors pulled from flooded Laos cave
+Divers in Laos have rescued four more villagers trapped in a flooded cave. The first survivor was pulled out on Friday.
+
 ## Rescues in eastern Syria after the Euphrates River bursts its banks
 Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.
 
-## Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo
+## Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo
 Lebanese PM describes Israel's attacks as collective punishment as US warns Iran of strikes if no deal is reached.
 
 ## US Congress advances American-Israeli military integration plan
@@ -269,18 +275,6 @@ A provision in the 2027 draft US defence bill could bind the two countries' weap
 
 ## Al Jazeera exclusive interview with rebel FARC faction in Colombia
 In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security
-
-## Lebanese army ‘overly stretched’ to fight off latest Israeli invasion
-Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’ as Israeli troops expand their occupation.
-
-## PSG beat Arsenal to win back-to-back Champions League titles after shootout
-PSG win back-to-back Champions League titles with 4-3 shoot-out win over Arsenal following a 1-1 draw after extra time.
-
-## Women bear the brunt of DRC’s Ebola outbreak
-Women bear the brunt of DRC's Ebola outbreak.
-
-## Putin says drone that crashed in Romania likely Ukrainian
-Putin says drone that crashed in Romania likely Ukrainian.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
