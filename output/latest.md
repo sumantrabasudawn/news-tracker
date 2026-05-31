@@ -27,6 +27,9 @@ Investors and strategists shrug off worries that markets could be overheating by
 ## Violence mars PSG celebrations after Champions League victory over Arsenal
 French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
 
+## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
+First substantial acquisition under new CEO is bet on eventual recovery in property sector
+
 ## Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat
 Owners of troubled travel group inject $275mn in return for creditors delaying payment dates and relaxing terms
 
@@ -35,9 +38,6 @@ Italian company’s valuation stacks up even if it never figures out a workable 
 
 ## More than half of shadow fleet oil tankers pose environmental disaster risk
 Ageing sanctioned ships should be scrapped, says leading ship recycler
-
-## Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply
-Continent risks losing critical medicine capacity without stronger protections, says chief executive
 
 ## Editorial. Stay the course
 MPC should retain status quo in difficult times
@@ -87,6 +87,15 @@ Senior officials from India and the US are meeting in New Delhi to finalize an i
 ## Dalal Street outlook: What will guide market sentiments this week?
 Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.
 
+## UDF govt’s proposal for menstrual leave in school stirs criticism
+BJP and IUML leaders criticized Kerala's proposal for menstrual leave for schoolgirls, raising concerns about privacy and suggesting alternative support.
+
+## Kerala mother, partner held for toddler’s death
+A 1.5-year-old boy in Kerala died from severe abuse by his mother and her partner, who face murder charges after the child sustained 51 injuries.
+
+## West Bengal cabinet expansion today, 35 ministers to take oath
+West Bengal CM Suvendu Adhikari to swear in 35 new ministers on Monday, finalizing a cabinet after BJP's electoral victory over TMC.
+
 ## 'Injustice done to RCB fans': DK Shivakumar slams IPL final venue, says Bengaluru was sidelined
 As celebrations broke out across Karnataka, Shivakumar said RCB fans in Bengaluru had missed out on witnessing the title triumph in their home city.
 
@@ -102,14 +111,8 @@ The visit comes less than two months after Min Aung Hlaing became President foll
 ## 'He was to come home for holidays': Dreams cut short as Delhi building collapse kills two friends
 At least 6 people have so far been killed after a building collapsed near Delhi's Saket Metro Station at around 7:30 pm on Saturday.
 
-## Ex-ED officer Satyabrata Kumar who probed Nirav Modi, Vijay Mallya cases takes voluntary retirement from IRS
-2004-batch Indian Revenue Service officer was posted as Commissioner (Appeals) in West Bengal's Siliguri after he was repatriated from the ED a year back
+## CBSE row: Rahul Gandhi Meets students, takes dig at government
 
-## Nepal PM seeks China, UK role in resolving border dispute with India
-Besides discussions with India, Nepal was also in touch with China and Britain regarding the border issue, Shah said
-
-## What's a Honey Singh song doing in the CBSE row? Teen hacker's mic-drop meme as board 'admits' gaps
-Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have driven the controversy over CBSE's On-Screen Marking (OSM) system for Class 12.
 
 ## Anushka Sharma and Virat Kohli trade flying kisses as RCB wins IPL 2026 final, watch
 
@@ -132,8 +135,11 @@ Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have drive
 ## WHO chief reports 5 Ebola recoveries as new treatment center opens in Congo
 
 
-## ‘For perfume manufacturing’: Over 200 litres of methanol led to Pune hooch tragedy
+## Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley
+The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations, according to Morgan Stanley. The push in AI would likely bring models with conditionally autonomous driv
 
+## Hong Kong must embrace ‘bipolar’ role to thrive in ‘Stage 3.0’: ex-HKEX boss Charles Li
+Charles Li Xiaojia, the longest-serving CEO of Hong Kong Exchanges and Clearing (HKEX), defined a decade of city finance by bridging the gap between Chinese and global capital. From his early days as an offshore oil worker in northeastern China to serving as chairman of JPMorgan Chase’s China divisi
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
 MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company si
@@ -152,12 +158,6 @@ Venture capitalists and industrial giants in China are aggressively backing deve
 
 ## Chip boom powers Hong Kong stock exchange at 40. Innovation, resilience set next stage
 Stepping into the former trading hall in Exchange Square on Thursday was like walking through a doorway into the 1980s. Brokers, wearing the iconic red jackets of the period, stood alongside Cathay Pacific Airways flight attendants in retro uniforms, evoking memories of the hall before its closure. 
-
-## China’s US$2.2 trillion urban renewal plan to boost construction, property sectors
-China’s ambitious urban renewal projects, from upgrading dilapidated homes to rebuilding gas pipelines, are expected to require investment of at least 15 trillion yuan (US$2.2 trillion) in the five years from 2026, offering fresh growth opportunities for construction firms. Property developers also 
-
-## HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally
-Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks. The latest additions by Hong Kong’s bo
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -255,6 +255,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera
+Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.
+
 ## Can AI cure loneliness? South Korea’s robot companions for seniors
 South Korea is using AI-powered companion dolls to help tackle loneliness in its ageing population
 
@@ -275,9 +278,6 @@ A national vote alone can't address all challenges in the country, but it can be
 
 ## Newark mayor imposes curfew at Delaney Hall immigration detention centre
 New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.
-
-## What’s at stake in Ethiopia’s elections?
-Ethiopia's governing party is seeking to cement its grip on power amid a fragmented electorate.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
