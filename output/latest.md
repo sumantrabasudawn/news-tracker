@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## The end of cheap
+After 50 years of falling capital, labour and energy prices, the next half-century will look very different for America
+
 ## How Maine’s lobster revolt could cost Trump the Senate
 Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
 
@@ -15,14 +18,11 @@ Investors and strategists shrug off worries that markets could be overheating by
 ## Scottish opposition leaders criticise Sturgeon interview
 Former first minister of Scotland says she is ‘not responsible’ for Peter Murrell’s theft
 
-## Israel captures Crusader castle in deepening Lebanon push
+## Israel captures Crusader castle in Lebanon push
 Seizure of 12th-century hilltop fortress comes as Israeli prime minister orders expanded offensive against Hizbollah
 
 ## Is the US jobs market immune to the Iran war?
 Market Questions is the FT’s guide to the week ahead
-
-## China’s comparative advantage is industrial policy
-Western attempts to imitate Beijing’s state-funded model are unwise
 
 ## Paris Saint-Germain retain Champions League with victory over Arsenal
 780 arrests made in France after celebrations marred by acts of vandalism and violence
@@ -39,29 +39,35 @@ Continent risks losing critical medicine capacity without stronger protections, 
 ## Defence group CSG still pursuing stake in Franco-German tank maker
 Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief executive says
 
-## Santosh Iyer on Luxury EV resale: ‘Buyers are benchmarking replacement cost’
-Mercedes-Benz India MD says rising replacement costs, tighter supply and fading battery anxiety are helping luxury EVs retain stronger resale values
+## Stay the course
+MPC should retain status quo in difficult times
 
-## FSSAI seeks explanation from Blinkit over a consumer complaint
-In a letter written to Blinkit’s senior executives, FSSAI has stated that it has received a complaint from a consumer who had ordered curd through the Blinkit app and fell sick after consumption of the product, they added
+## Telangana wants the duty on crude palm oil to be increased
+The State Government pointed out that when the duty rate was 44% in 2018, oil palm farmers witnessed good prices; currently the duty rate has fallen to 16.50% from 27.50% last year
 
-## PM Modi lauds dedicated dolphin rescue ambulance at Mann Ki Baat
-Speaking during the 134th episode of Mann Ki Baat, Modi referred to a widely shared video of a 13-hour rescue operation in which a dolphin trapped in a canal was safely retrieved, treated and released into the Rapti River.
+## As Chinars decline, one Kashmiri’s green crusade gains ground
+42-year-old resident Abdul Ahad Khan has planted over 1,500 Chinar saplings in Kashmir
 
-## DTDC eyes global growth, strengthens capabilities for Indian D2C brands
-Alongside its international push, DTDC is expanding its domestic footprint to tap growing consumption and manufacturing activity beyond metros
+## Fire at Hyundai Mobis plant near Chennai; No casualties reported
+Officials indicated that a detailed evaluation would be carried out once the fire was completely extinguished and the site declared safe for inspection
 
-## Patni family’s pharma foray: Raay Neo looks at smaller cities, less expensive medicines
-Patni family venture to price medicines 15-20 per cent lower and target ₹1,000 crore revenue in five years
+## RBI’s rate setting panel may keep repo rate on hold
+Risks to inflation and growth stem from spike in global fuel and commodity prices, supply chain disruptions, financial markets volatility, weather-related disruptions and a depreciating Rupee
 
-## Why used BMW i7, Mercedes EQS, Defender and G-Wagon prices are rising
-Used luxury EV prices in India are rising again as BMW i7s, Mercedes-Benz EQS SUVs and Audi e-trons rebound from recent lows, while Defenders, G-Wagons, GLS and Mercedes-Maybach models continue to command scarcity premiums amid tightening supply, rising replacement costs and improving buyer confiden
+## CBSE acknowledges vulnerabilities in evaluation portal a week after rejecting concerns
+Ethical hacker contradicts Board’s claims
 
-## India-Oman to implement CEPA on Monday
-Pact to boost Indian exports in key sectors and strengthen strategic Gulf ties
+## New CDS Gen Subramani & Navy Chief Admiral Swaminathan join office
 
-## Interim trade deal: US may offer to lock-in India’s tariffs to insulate from Section 301 penalties
-The US trade team visiting Delhi this week may also propose a further lowering of tariffs linked to deficit reduction, but India would also want guaranteed competitive advantage.
+
+## PRS report flags legislative rush: Over 600 State bills passed in 2025 with limited scrutiny
+30% of the bills were passed on the day they were introduced, with 7 assemblies of Andhra Pradesh, Bihar, Gujarat, Jharkhand, Mizoram, Puducherry and the Punjab passing legislations either on the day of introduction or the next
+
+## Bullion movement: Gold prices to track US–Iran peace talks, Fed signals and key data releases this week
+Gold prices face a mixed outlook this week, influenced by US-Iran peace talks, oil market shifts, and crucial US economic data. Federal Reserve officials' speeches will also guide interest rate expectations, impacting bullion's near-term trajectory. Analysts suggest a sideways to corrective momentum
+
+## June 2026 bank holidays: When and where will banks remain closed? Check state-wise list
+Planning a bank visit in June requires checking the holiday list as branches in several states will be closed on specific dates for festivals like YMA Day, Raja Sankranti, Moharrum, and Muharram. Additionally, banks observe closures on the second and fourth Saturdays of each month, impacting physica
 
 ## India’s domestic air traffic falls 4.2% in April amid weak demand and rising costs
 Domestic air travel experienced a dip in April, with passenger numbers falling 4.2% from March and 3.47% year-on-year. Airlines faced headwinds from softer demand and rising costs, leading to network adjustments. IndiGo expanded its market share to 65%, while Air India Group saw a decline. Operation
@@ -81,11 +87,11 @@ Foreign portfolio investors continued their exit from Indian equities in May, wi
 ## Middle East conflict is rewriting your kitchen math — Explained in 10 charts
 Geopolitical tensions in the Middle East are directly impacting household budgets, driving up prices for everyday essentials like cooking oil, milk, and bread. Soaring global crude oil prices and a weakening rupee are increasing import, fuel, and transportation costs, leading to a domino effect on c
 
-## Special additional excise duty on fuel exports reduced
+## Ex-ED officer Satyabrata Kumar who probed Nirav Modi, Vijay Mallya cases takes voluntary retirement from IRS
+2004-batch Indian Revenue Service officer was posted as Commissioner (Appeals) in West Bengal's Siliguri after he was repatriated from the ED a year back
 
-
-## Indian crude basket below $100/bbl, 1st since March 6
-
+## Nepal PM seeks China, UK role in resolving border dispute with India
+Besides discussions with India, Nepal was also in touch with China and Britain regarding the border issue, Shah said
 
 ## What's a Honey Singh song doing in the CBSE row? Teen hacker's mic-drop meme as board 'admits' gaps
 Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have driven the controversy over CBSE's On-Screen Marking (OSM) system for Class 12.
@@ -105,34 +111,28 @@ The Nepali leader also added that it had come to his attention that Nepal has al
 ## Delhi building collapse caught on camera: 6 dead, 10 injured so far in incident near Saket metro station
 Following the building's collapse on Saturday evening, rescue operations carried on overnight to pull survivors out of the debris
 
-## TVK, DMK criticise Guv paying tribute to Thiruvalluvar’s photo in saffron attire
-DMK’s youth wing secretary Udhayanidhi Stalin claimed that the governor was testing the self-respect of Tamils all over again
-
-## 3 teens vs CBSE: How the Class 12 paper-checking system OSM blew up, and the board corrected, defended, countered
-Vedant, Sarthak and Nisarga fueled nationwide row over CBSE's On-Screen Marking system, highlighting flaws, sparking "questions from Gen Z for Modi govt”
-
-## Ahead of D K Shivakumar’s swearing-in, lobbying grows for deputy CM, Cabinet posts
+## ‘Right of sex workers can exist without a right to sex work: SC asks Government to make law exempting trafficked sex workers from criminal charges
 
 
-## Inside Mohanlal’s green haven: How actor turned passion for organic farming into a success
+## From West Bengal’s new Annapurna scheme to CBSE re-evaluation: Key changes from June 1
 
 
-## China This Week | EU’s ‘Chemotherapy’ for battling trade surplus, changes in household system, and new nuclear test site photos
+## Cancer screening after 40: Why tumour markers can create ‘more confusion than clarity’
 
 
-## Mira Kapoor shares her ‘dream kitchen’ blueprint, hosting secrets: ‘Guest drawer of snacks’
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 164) — Check out answers with explanations
 
 
-## Rayagada Railway Division starts June 1: What it means for passengers, routes and train operations
+## UP gets full-time DGP after four years, Rajeev Krishna takes charge
 
 
-## ‘Some resentment natural … reuniting party is priority’: New Goa Congress chief Chodankar amid unease over his appointment
+## Sewage manhole claims lives of woman, six-month-old son in Punjab’s Moga city
 
 
-## From the Opinions Editor: What we don’t talk about when we talk about sexual violence
+## Silent in Question Hour: 14 Haryana MLAs ask fewer than five questions
 
 
-## ‘You cannot reduce Aishwarya Rai to a number on a scale’: Madhuri Dixit slams trolls
+## Central Railway steps up anti-plastic, sustainability drive ahead of World Environment Day
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Health Organization hails recovery of five Ebola patients
-More than 220 people are suspected to have died from the disease's latest outbreak, which was declared two weeks ago.
+## Juan Manuel Santos on Colombia’s peace process, 10 years on
+The former Colombian president reflects on peace, conflict and the return of violence.
 
-## Protesters want to send ‘fascists to Mars’ aboard mock rocket
-Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.
+## Germany World Cup 2026 team preview: Players to watch, group and squad list
+The 2014 champs exited in the group stages of the last two World Cups but look a stronger force under Julian Nagelsmann.
 
-## Israeli forces push past Lebanon’s Litani River: How significant is it?
-Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.
+## Rescuers race to save two people still trapped in cave in Laos
+Rescuers face heavy rains, equipment failures in search for two people trapped in central Laos cave by flash floods.
 
-## Satellite imagery shows erasure of southern Gaza as Israel expands control
-Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.
+## Could Democrats be shut out of the California governor’s race?
+California is a Democrat stronghold, but thanks to the state's jungle primary, Republicans are frontrunners to advance.
 
-## Japan rejects ‘new militarism’, says China is rapidly arming
-Japan accuses China of lacking military transparency and stresses the importance of dialogue for regional stability.
+## Iran reinstates some internet access but restrictions remain for most
+Not all data centres are back online while internet protocols remain blocked, restricted or 'whitelisted'.
 
-## South Africa’s World Cup 2026 departure delayed over Mexican visa debacle
-World Cup delegation held up as players await visas for Mexico, whom South Africa face in the opening game in 11 days.
+## What are the chances for the Iran-US ‘Declaration of Principles’?
+Analysts Negar Mortazavi and Colin Clarke dissect the complications surrounding the Iran-US deal.
 
-## Four-time champion Swiatek out as French Open continues to deliver shocks
-Swiatek handed straight-sets defeat by Ukraine's Marta Kostyuk in the round of 16 a day after Gauff's ouster.
+## Not just the US: How 51 countries armed Israel during Gaza war
+An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e
 
-## Dublin protesters demand justice over death of Congolese man
-Dublin protesters demand justice over death of Congolese man
+## Israeli airstrikes devastate Lebanon’s Tyre
+Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
