@@ -1,6 +1,6 @@
 # AION Intelligence
 
-## Japan defence minister rejects China accusations of ‘new militarism’
+## Japan’s Koizumi rejects China accusations of ‘new militarism’
 Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region
 
 ## South Africa’s anti-migrant rallies trigger repatriations
@@ -36,29 +36,35 @@ Czech ammunition manufacturer is in discussions with KNDS stakeholders, chief ex
 ## Race for rare earths sparks concern about environmental damage
 Companies seeking to boost western supplies face legal and community obstacles
 
-## SpaceX, OpenAI windfall fuels bets on next-wave Asian AI winners
-The battle for AI leadership has driven massive expenditures on computing networks by the likes of Meta Platforms Inc. and Amazon.com Inc
+## Minda Corporation reports fire at Noida manufacturing facility; no casualties reported
+In an exchange filing, Minda Corporation said the fire occurred at around 4:15 pm on May 30 at its plant located in Sector-59, Noida
 
-## Trent still in early phase of growth; confident of achieving 10x revenue milestone: Noel Tata
-Trent owns lifestyle and fashion department store chain Westside, value-fashion chain Zudio and hypermarket Star Bazaar
+## Signpost India net up 20 times in Q4 on strong demand
+Signpost added 67 stations to the Bangalore Metro (BMRCL) network, Kolkata Streetscape Renaissance project, and deployed over 1,000 green fleet buses across Mumbai and Goa
 
-## Indian Market Outlook: Nifty 50, Sensex and Nifty Bank index struggle to rise
-The Indian benchmark indices look vulnerable to fall more
+## CMR Green and Hexagon Nutrition set to launch IPOs next week
+Shares are likely to list on the bourses in the second week of June.
 
-## EaseMyTrip posts 8.9% revenue growth in Q4FY26
-The quarter witnessed particularly strong traction across hotels, holidays and international operations.
+## Why your health insurance may not cover as much as you think
+Plugging loopholes in a health insurance cover is as important as getting one
 
-## Reliance Industries, NLC India sign pact to explore underground lignite gasification project in Gujarat
-The move is aimed at partially addressing domestic gas shortage exacerbated by the ongoing global fuel crisis.
+## Coffee Day Global returns to profit in FY26; revenue rises 5.7% to ₹1,094 crore
+Coffee Day Global’s Average Sales Per Day witnessed a marginal increase to ₹21,101 in the financial year ended March 31, 2026, compared with ₹21,016 in FY25.
 
-## Western disturbance turns violent, may be last before monsoon onset
-Kicks up severe thunderstorms, sand storms, lightning, damaging winds, and hail in Rajasthan
+## Cash market ADT hits 22-month high as FOMO grips retail investors
+Retail investors continue to bet big on equity investments and use every fall in market to pump in more money
 
-## Digital payments have significant room for expansion; no slowdown in transaction growth: Paytm CEO
-According to Sharma, AI can help businesses improve customer engagement, discover new ways of reaching consumers and enhance operational efficiency, making companies more scalable and competitive
+## Adani Power ramps up to meet record power demand
+In the last 40-45 days, the company’s power plants have operated at an average Plant Load Factor of 77%, significantly higher than the national thermal average of about 65%, with plant availability at 96%
 
-## US Market Outlook: Dow Jones, S&P 500 and NASDAQ Composite surge to record highs
-Dow Jones and S&P 500 index have more room to rise, NASDAQ nearing a key resistance
+## NSE welcomes MCA decision on 10% CSR spending via Social Stock Exchange
+The Social Stock Exchange was first proposed by Finance Minister Nirmala Sitharaman in the Union Budget 2019.
+
+## FPI profile: Foreign investors continue selling spree in May, pull out Rs 32,000 crore
+Foreign portfolio investors continued their exit from Indian equities in May, withdrawing Rs 32,963 crore due to concerns over earnings growth and a weakening rupee. This outflow has pushed cumulative FPI withdrawals in 2026 to Rs 2.25 lakh crore, surpassing the entire previous year's figure. While 
+
+## Middle East conflict is rewriting your kitchen math — Explained in 10 charts
+Geopolitical tensions in the Middle East are directly impacting household budgets, driving up prices for everyday essentials like cooking oil, milk, and bread. Soaring global crude oil prices and a weakening rupee are increasing import, fuel, and transportation costs, leading to a domino effect on c
 
 ## Special additional excise duty on fuel exports reduced
 
@@ -78,59 +84,56 @@ The Centre has exempted customs duties on cotton imports for five months until O
 ## DigiYatra to expand to 27 more airports by next year, 10 crore journeys completed
 
 
-## India-EAEU trade talks gain momentum; interim deal for select goods under discussion
-India and the Eurasian Economic Union (EAEU) are currently negotiating a limited, temporary trade arrangement for specific goods as part of broader free trade agreement talks. Russian Economic Development Minister Maxim Reshetnikov described the discussions as complex, with India's requests being am
+## CM Rekha Gupta orders strict action against officials after Saidulajab collapse
+Officials have been directed to inspect dilapidated and hazardous buildings in the vicinity and to take strict action wherever necessary
 
-## India’s bullet train project: Nine years later, is the dream finally nearing reality?
-India's ambitious first bullet train project, launched in 2017, is now in its advanced construction phase, with viaducts and tunnels taking shape. Despite delays and cost escalations, the Mumbai-Ahmedabad corridor is set to revolutionize travel, with the first operational section anticipated by mid-
+## Repeated reminders, resolute Rabri: Why a high-profile address in Patna is at centre of BJP-RJD tiff
+10, Circular Road is one of those addresses in Bihar, which holds prominence in state politics. The house is adjacent to the chief minister's residence in Patna
 
-## Vietnam BrahMos deal already signed, Indonesia pact in final stages
-The Philippines, which signed a contract worth nearly USD 375 million in 2022, was the first foreign buyer of the BrahMos missile system from India.
+## TVK, DMK criticise Guv paying tribute to Thiruvalluvar image in saffron attire
+TVK, DMK criticise Guv paying tribute to Thiruvalluvar image in saffron attire
 
-## Delhi may see light rain again as dip in temperature brings respite from heat | Check IMD forecast
-The same forecast has also been released for other parts of the NCR, including Haryana's Gurugram and Faridabad, as well as Uttar Pradesh’s Noida and Ghaziabad.
+## PM Modi applauds five national record breakers, athletes in latest Mann ki Baat episode
+Gurindervir Singh, Vishal TK, Tejaswin Shankar, Dev Meena and Kuldeep Kumar broke national records at the Federation Cup 2026 in Ranchi
 
-## Earth Sciences Secretary Ravichandran retires; to take up teaching at IIT-M
-Earth Sciences Secretary Ravichandran retires; to take up teaching at IIT-M
+## ‘Show the terrorists' faces!’: Rahul Gandhi meets Vedant, student at centre of CBSE row, mocks familiar insults
+Vedant's Physics answer-sheet scanning mix-up was also acknowledged and corrected by CBSE; but he was abused by several handles on X and otherwise
 
-## Man accused of murdering Ghaziabad teen on Bakrid killed in encounter
-The accused behind the murder of a 17-year-old in Ghaziabad's Khoda has been killed following an encounter with the police in the early hours of Sunday.
+## Encroachments cleared in Delhi’s Shalimar Bagh to improve emergency access
+According to the DM, notices were served to all affected persons and adequate opportunities were provided for them to present their cases
 
-## India's new chief of defence staff, navy chief take charge
-The appointments come as the armed forces advance theatreisation, a reform aimed at bringing together military resources and capabilities for future warfare.
+## States to create destination management organisations at tourist sites across country: Shekhawat
+States to create destination management organisations at tourist sites across country: Shekhawat
 
-## Book Box: How to read Taiwan Travelogue
-A third time try of this year’s International Booker Prize winner holds up a mirror to my own history
+## On Cam: TMC's Kalyan Banerjee holds head, falls to the ground after ‘attack’ in West Bengal's Hooghly
+TMC MP Kalyan Banerjee was allegedly mobbed when he went to Hooghly to submit a memorandum against the arrest of party workers after the assembly polls.
 
-## ‘All we could hear were screams’: Witnesses recall building collapse horror in Delhi's Saidulajab
-Amid confusion and anxiety, several people remained near the site for information about friends and relatives believed to be trapped inside.
-
-## Delhi Police bust ISI-backed terror module with links to Mumbai underworld, terrorist Shehzad Bhatti
-The arrests were made by Delhi Police’s Special Cell from Delhi, Maharashtra, and Jharkhand over a 17-day operation, said police officials.
-
-## Success Story | From Chandigarh’s stage to global boardrooms
+## IPL 2026 Final, RCB vs GT Live Streaming: Where to Watch Royal Challengers Bengaluru vs Gujarat Titans Match Live Online & TV
 
 
-## Khatron Ke Khiladi 15: Rohit Shetty announces new season in his signature style, watch
+## Delhi Police starts review of promotion policy, executive cadre structure
 
 
-## Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids
+## Rupali Ganguly slams authorities over hours-long power outage at her Mumbai home
 
 
-## Despite looming inflationary pressures, why RBI could defer rate hikes at policy meeting this week
+## 9-year-old boy killed after BEST bus hits bicycle in Malad East, driver arrested
 
 
-## Bihar MLC polls: NDA eyes 9 seats as political heirs enter the race
+## ‘Vulnerabilities contained, weaknesses being ruled out’: CBSE deploys team from IITs, government to secure system
 
 
-## Nvidia-powered Windows PCs to make debut at Computex 2026: Report
+## Deepest incursion in 26 years: Israeli forces capture strategic Beaufort Castle in southern Lebanon
 
 
-## Parvesh Sahib Singh files defamation suits against AAP’s Bharadwaj, seeks Rs 5 crore in damages
+## ‘Karnataka Cabinet to be inducted in phases; no call on deputy CMs yet’: Mallikarjun Kharge
 
 
-## Pune hooch tragedy | Blurred vision, chest pain, failed kidneys: All patients had similar symptoms
+## As city braces for monsoon, over 300 landslide mitigation works left incomplete, shows BMC data
 
+
+## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
+MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company si
 
 ## Hong Kong property recovery tested as bigger student housing deals gain traction
 Hong Kong’s student housing sector is entering a new phase as larger institutional-style deals emerge from the city’s distressed commercial property market, signalling that professional investors are cautiously returning after years of falling asset values. Investors and analysts said the market was
@@ -152,9 +155,6 @@ China’s ambitious urban renewal projects, from upgrading dilapidated homes to 
 
 ## HKEX revamps Tech 100 Index as Hong Kong benchmark struggles to keep pace with AI rally
 Hong Kong Exchanges and Clearing (HKEX) has overhauled its Tech 100 Index, adding seven technology-focused companies and removing seven others, as Hong Kong’s benchmark providers face growing pressure to reflect the rapid rise of artificial intelligence stocks. The latest additions by Hong Kong’s bo
-
-## Wingtech says core of Nexperia China unit now based on mainland, can operate independently
-China’s Wingtech Technology says it has developed an independent management operation for Nexperia’s Chinese unit, in a bid to insulate the local business as it fights to regain control of the Dutch chipmaker. Wingtech chairwoman Ruby Yang Mu said on Friday that the core management, research and dev
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures
-Unverified herbal remedies promoted on social media are driving rising health risks and delayed treatment in Nigeria.
+## Israel issues more displacement orders in Lebanon, seizes strategic castle
+Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.
 
-## The world hit a 44-year high in executions
-Governments around the world executed more people in 2025 than at any point since 1981.
+## The strait may reopen, but global confidence may not return
+The next phase of the Strait of Hormuz crisis may be defined less by its closure than by conditional access.
 
-## Thousands in Peru protest Fujimori presidential run
-Thousands of demonstrators took to the streets of Lima to protest the presidential bid of Keiko Fujimori.
+## Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion
+Donald Trump says talks with Iran are progressing 'slowly but surely', as Israel intensifies operations in Lebanon.
 
-## Emotional scenes as more survivors pulled from flooded Laos cave
-Divers in Laos have rescued four more villagers trapped in a flooded cave. The first survivor was pulled out on Friday.
+## Holder Gauff beaten by Potapova; Sabalenka solid at French Open
+Gauff's exit leaves four-time champion Swiatek and world number one Sabalenka as top contenders for the women's title.
 
-## Rescues in eastern Syria after the Euphrates River bursts its banks
-Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.
+## Missing Syrian chess champion’s children likely dead, authorities say
+Syrian commission confirms deaths of Rania al-Abbasi's six children, missing since 2013 under Bashar al-Assad's rule.
 
-## Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo
-Lebanese PM describes Israel's attacks as collective punishment as US warns Iran of strikes if no deal is reached.
+## Panic on beach in northern Israel during Hezbollah strikes
+Videos show people on a beach in Nahariya, Israel running for shelter as Hezbollah rockets are launched.
 
-## US Congress advances American-Israeli military integration plan
-A provision in the 2027 draft US defence bill could bind the two countries' weapons industries closer than ever.
+## France arrests hundreds of rioters nationwide as PSG win Champions League
+French Ministry of Interior says 416 people detained nationwide, including 283 in Paris, after PSG's win over Arsenal.
 
-## Al Jazeera exclusive interview with rebel FARC faction in Colombia
-In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security
+## Mexico beat Australia 1-0 before World Cup squad submission deadline
+The warm-up friendly simulated World Cup conditions, including cooling breaks for the players, at the Rose Bowl stadium.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
