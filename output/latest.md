@@ -63,6 +63,9 @@ Ethical hacker contradicts Board’s claims
 ## PRS report flags legislative rush: Over 600 State bills passed in 2025 with limited scrutiny
 30% of the bills were passed on the day they were introduced, with 7 assemblies of Andhra Pradesh, Bihar, Gujarat, Jharkhand, Mizoram, Puducherry and the Punjab passing legislations either on the day of introduction or the next
 
+## RBI MPC may hike inflation forecast, trim growth rate
+All Eyes On June 5 Statement As Gulf Crisis Nears 100 Days
+
 ## Bullion movement: Gold prices to track US–Iran peace talks, Fed signals and key data releases this week
 Gold prices face a mixed outlook this week, influenced by US-Iran peace talks, oil market shifts, and crucial US economic data. Federal Reserve officials' speeches will also guide interest rate expectations, impacting bullion's near-term trajectory. Analysts suggest a sideways to corrective momentum
 
@@ -84,8 +87,11 @@ Dalal Street anticipates a busy week driven by the RBI's interest rate decision,
 ## FPI profile: Foreign investors continue selling spree in May, pull out Rs 32,000 crore
 Foreign portfolio investors continued their exit from Indian equities in May, withdrawing Rs 32,963 crore due to concerns over earnings growth and a weakening rupee. This outflow has pushed cumulative FPI withdrawals in 2026 to Rs 2.25 lakh crore, surpassing the entire previous year's figure. While 
 
-## Middle East conflict is rewriting your kitchen math — Explained in 10 charts
-Geopolitical tensions in the Middle East are directly impacting household budgets, driving up prices for everyday essentials like cooking oil, milk, and bread. Soaring global crude oil prices and a weakening rupee are increasing import, fuel, and transportation costs, leading to a domino effect on c
+## 'Injustice done to RCB fans': DK Shivakumar slams IPL final venue, says Bengaluru was sidelined
+As celebrations broke out across Karnataka, Shivakumar said RCB fans in Bengaluru had missed out on witnessing the title triumph in their home city.
+
+## Doctor accused of raping 15-year-old patient at Haryana hospital
+The girl was later moved to the emergency ward after she began bleeding. It was there that she confided in senior doctors about the incident.
 
 ## All about Lipulekh: The key pass that has India and Nepal locked in a 210-year-old dispute | Explained
 The latest dispute over the pass follows India and China's announcement of the 2026 Kailash Mansarovar Yatra.
@@ -105,34 +111,28 @@ Besides discussions with India, Nepal was also in touch with China and Britain r
 ## What's a Honey Singh song doing in the CBSE row? Teen hacker's mic-drop meme as board 'admits' gaps
 Ethical hacker Nisarga Adhikary is one of three teenagers whose posts have driven the controversy over CBSE's On-Screen Marking (OSM) system for Class 12.
 
-## Gusty winds likely in Delhi tonight, Rajasthan under dust storm alert for one week
-Rain, thunderstorms, and gusty winds will also affect Jammu & Kashmir, Punjab, Haryana, Uttar Pradesh, Rajasthan, and Uttarakhand.
-
-## Saket building collapse: MCD takes action after six killed; 2 engineers suspended
-A four-storey commercial buidling collapsed near Saket metro station in Delhi on Saturday (May 30) evening
-
-## Orange vs kinnow: Which has more Vitamin C? Expert answers
+## South Coast Railway zone operational from June 1: How divisions, routes and train operations will change
 
 
-## Record alert: Virat Kohli scores his fastest IPL half-century in final
+## IPL Rollercoaster: Hazlewood’s counterpunch, Unsung Rasikh & King Kohli on a kill
 
 
-## Legislative Council election: Seat sharing finalised but Mahayuti and MVA camps yet to announce candidates
+## 384 structures to be demolished: BMC begins demolition drive in Mulund for GMLR project
 
 
-## Firozabad horror: Trader slams toddler to death after mother rejects marriage proposal
+## Paradise retained: How Virat Kohli and RCB defended the title
 
 
-## NADA finds unused syringes and Russian medicines during checks at wrestling trials
+## WHO chief reports 5 Ebola recoveries as new treatment center opens in Congo
 
 
-## 6 injured after chlorine gas leak from closed sewage plant near IIM Mumbai campus gate
+## ‘For perfume manufacturing’: Over 200 litres of methanol led to Pune hooch tragedy
 
 
-## Dua Lipa ties the knot with Callum Turner in London, see photos
+## Ukraine hits Russian energy targets, denies striking Kremlin-occupied nuclear plant
 
 
-## Junior college teachers across Maharashtra oppose new draft on staffing approval norms
+## JoSAA Counselling: Will CBSE Class 12th scores affect eligibility for IIT seat amid OSM controversy?
 
 
 ## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Building collapses in New Delhi, some people rescued, more feared trapped
+Nine people have reportedly been rescued from the rubble of a collapsed five-storey building in New Delhi, India.
+
+## US measure to deepen Israel military cooperation faces bipartisan pushback
+Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.
+
+## US Congress moves to deepen military ties with Israel: Why it matters
+Analysts say the plan would weave Israeli military interests more deeply into the fabric of US national security policy.
+
+## The largest Israeli advance into Lebanon in years
+Israel’s military presence in southern Lebanon has expanded dramatically.
+
+## Polls open in Colombia’s pivotal presidential election
+Colombians headed to the polls to choose a new president in a high-stakes election.
+
+## Dozens killed in explosives depot blast in northeast Myanmar
+At least 46 people have been killed and 70 wounded in explosion in rebel-held area, local media report.
+
 ## The Bazaar of Return in Aida Refugee Camp
 The Bazaar of Return in Aida Refugee Camp
 
 ## Ethiopia’s election: Parties, coalitions and candidates explained
 Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate.
-
-## Iran ⁠restores some gas production at South Pars facility
-Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.
-
-## Colombians head to the polls to choose President Gustavo Petro’s successor
-The contest is largely a three-horse race between a left-wing senator, a businessman and a right-wing lawmaker.
-
-## Juan Manuel Santos on Colombia’s peace process, 10 years on
-The former Colombian president reflects on peace, conflict and the return of violence.
-
-## Germany World Cup 2026 team preview: Players to watch, group and squad list
-The 2014 champs exited in the group stages of the last two World Cups but look a stronger force under Julian Nagelsmann.
-
-## Rescuers race to save two people still trapped in cave in Laos
-Rescuers face heavy rains, equipment failures in search for two people trapped in central Laos cave by flash floods.
-
-## Could Democrats be shut out of the California governor’s race?
-California is a Democrat stronghold, but thanks to the state's jungle primary, Republicans are frontrunners to advance.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
