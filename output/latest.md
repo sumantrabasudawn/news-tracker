@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Italy labour abuse crackdown spreads to US group building Milan consulate
+Caddell Construction executive detained amid investigation into alleged ‘quasi-slavery’ of migrant workers
+
+## Trump claims Israel and Hizbollah agree ceasefire after Iran threats
+President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher
+
 ## How Maine’s lobster revolt could cost Trump the Senate
 Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
 
@@ -18,11 +24,11 @@ The plans are undoubtedly grand but it’s impossible to tell what capacity will
 ## Anthropic files for blockbuster initial public offering
 Move sets up race with OpenAI and SpaceX, testing Wall Street’s appetite for the AI boom
 
-## Mandelson files expose criticism of Starmer’s ‘advance/buckle’ premiership
-Documents reveal remarkable extent of former envoy’s influence across government policy
+## Alphabet to sell up to $80bn in shares to fund its AI build-out
+Capital raising includes $10bn private placement to Berkshire Hathaway
 
-## Iran suspends peace talks and threatens ‘closure’ of Strait of Hormuz
-Tehran escalates tensions to protest against Israeli offensive in Lebanon
+## BP backs Amanda Blanc to lead second chair search despite City unease
+Oil major’s senior independent director took lead on appointing shortlived chair Albert Manifold
 
 ## Florida sues OpenAI and Altman for ‘hurting’ children
 State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused
@@ -32,18 +38,6 @@ Ofcom says postal service has started to improve but bemoans continuing ‘deep 
 
 ## Drahi’s indebted US cable group escalates fight with creditors
 Optimum Communications transfers its most valuable US pay-TV and broadband assets out of reach
-
-## Barry Diller launches $18bn takeover offer for MGM Resorts
-Casino resort group’s shares jump 15% after media veteran’s company People Inc makes take-private bid
-
-## BP’s head of gas and low carbon to leave group
-William Lin’s departure after 30 years at energy company follows sacking of chair last week
-
-## EasyJet says takeover bid would be ‘highly opportunistic’ as shares jump
-US private credit group Castlelake says it is considering an approach for low-cost carrier
-
-## Wise shares slump over money laundering investigation
-London-headquartered fintech says it is responding to questions from Belgian authorities
 
 ## Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand
 
@@ -69,29 +63,32 @@ Despite global economic challenges, factory output grew by 4.9% in April, accord
 ## Carmakers see high demand in May despite West Asia disturbance
 Maruti Suzuki records highest-ever monthly sales, Tata Motors dethrones M&M to become No.2 in May
 
-## Anthropic eyes Wall Street debut; Claude maker files confidentially for IPO
+## India reviews duty sop on Scotch in UK trade deal
+India is reviewing tariff concessions on Scotch and other goods in its trade deal with the UK. This action is contingent on the UK addressing India's concerns regarding steel quotas and duties. UK Trade Secretary Peter Kyle is set to meet with India's Commerce and Industry Minister Piyush Goyal to r
+
+## Oman offers to up petchem, fertiliser supply as FTA kicks in
+India and Oman have launched a free trade agreement, enabling concessional or zero tariffs on a vast majority of goods. Oman also offered a food security pact, willing to supply more fertilizer and petrochemicals to India. The agreement includes visa benefits for Indian workers and faster pharmaceut
+
+## UPI transactions near 30L cr, increase 19%
+Digital payments are booming as UPI transactions hit 2,320 crore in May, a significant jump from April. This surge reflects a robust 24% year-on-year volume growth. Meanwhile, National Electronic Toll Collection also saw a healthy month-on-month increase in both transaction numbers and value, indica
+
+## Car sales resilient in May as industry braves headwinds
 
 
-## Sovereign Gold Bond redemption in June 2026: Check SGB premature withdrawal dates, eligibility and process
-Sovereign Gold Bond (SGB) investors who purchased bonds between 2019 and 2021 can now apply for premature redemption in June 2026. The Reserve Bank of India has opened redemption windows for five specific bond tranches, requiring investors to submit requests within strict timelines to avoid rejectio
+## At 3.2%, GST collection growth slowest in 6 months
+GST collections in May saw a modest 3.2% rise to Rs 1.94 lakh crore. While domestic revenue dipped, officials attribute this to a one-off telecom payment in the previous year, asserting underlying consumption remains robust across sectors. Import GST also surged, driven by increased demand for commo
 
-## GVK Group forays into fertility care with Oval Fertility
+## Nandan Nilekani at 71: Steering Infosys through two critical successions
+Nandan Nilekani is poised for a third term as Infosys chairman. His focus will be on succession planning, with rules requiring his exit at 75. The company is strengthening its leadership bench. Nilekani also faces the challenge of preparing Infosys for the evolving AI-driven technology landscape. Th
 
-
-## Sebi proposes relief for road InvITs, may allow maintenance debt to be added back in cash flow calculations
-Sebi has proposed allowing road InvITs to add back major maintenance expenses funded by external debt when calculating Net Distributable Cash Flow (NDCF). This move aims to address industry concerns about reduced distributable cash, as these expenses, though crucial for asset longevity, cannot be ca
-
-## Rupee falls 34 paise to close at 95.19 against US dollar amid rising crude prices
-The rupee weakened by 34 paise to 95.19 against the US dollar on Monday, impacted by escalating US-Iran tensions, soaring crude oil prices, and a stronger dollar. Global risk sentiment soured due to West Asia concerns. Analysts anticipate continued negative bias for the rupee, with a trading range o
-
-## Brajesh Kumar Singh appointed MD & CEO Canara Bank
+## Noel's daughter Maya may exit Tata Digital
 
 
-## Keeping India's growth story intact: 5 lessons from Middle East conflict that should not be ignored
-Short-term global economic shocks, like the ongoing Middle East conflict, have the potential to temporarily slow the growth story - a fact that cannot be ignored if India hopes to be among the top three world economies in the coming years.
+## Industrial output growth slows to 4.9% from 5.7%
+Industrial production growth eased to 4.9% in April 2026, impacted by a dip in mining. However, manufacturing and electricity generation showed robust gains, pushing sequential output higher. Capital goods and infrastructure segments continue to expand strongly, indicating sustained investment, thou
 
-## US stock market today (June 1, 2026): S&P 500 hovers near record as Nvidia gains offset oil price worries
-Indian markets shrugged off rising oil prices due to US-Iran tensions, as tech giants like Nvidia propelled stocks near record highs. Strong corporate earnings, particularly from Science Applications International Corp., also bolstered investor confidence. Despite concerns about market concentration
+## CBSE misses June 1 deadline to relaunch Class 12 verification and re-evaluation portal
+A four-member team comprising experts each from IIT was deputed to conduct a technical audit of the portal, examine workflows and help resolve glitches.
 
 ## Students protest outside education ministry, demand Dharmendra Pradhan's resignation
 Fresh protests erupted outside the Ministry of Education on Monday amid continuing outrage over recent exam glitches regarding NEET-UG, CBSE and CUET
@@ -114,8 +111,14 @@ The Congress leader criticised the administration for their “system” which h
 ## Six arrested in Assam after months of abuse leaves 12-year-old girl pregnant
 The arrests took place in Majuli, a river island district in Assam, following a criminal complaint filed by the girl’s family on Sunday.
 
-## Teens and the 'Cockroach': Online anger hits the ground with CJP's Delhi protest plan, Dipke says ‘meet me at airport’
-Cockroach Janta Party's Abhijeet Dipke plans return from US; his protest call caps weeks of anger over four examinations in particular.
+## Lactose intolerant patches are here: Expert urges caution
+
+
+## Trump says Israel won’t attack Lebanon after call with Netanyahu
+
+
+## ‘He’d come straight to my house’: Ahaan Panday on his bond with childhood friend Aryan Khan; expert weighs in
+
 
 ## Teams can shift from red ball to pink in Test to deal with bad light
 
@@ -130,15 +133,6 @@ Cockroach Janta Party's Abhijeet Dipke plans return from US; his protest call ca
 
 
 ## Mumbai’s legendary Ashok Vada Pav ranks 25th in TasteAtlas’ ‘World’s Most Iconic Sandwiches’ list
-
-
-## Myanmar explosion toll rises to 55. What we know so far
-
-
-## The Four Eyes that keep Satwik & Chirag on the right track
-
-
-## Ladakh eases excise rules, expands hard liquor sales to boost tourism
 
 
 ## Chinese EV makers recover in May but competition remains fierce amid overcapacity woes
@@ -165,6 +159,9 @@ Businesses around the world are confronting a painful – and potentially long-l
 ## Hong Kong government’s venture fund eyes bigger bankroll after double-digit return
 The government’s investment arm achieved a double-digit internal rate of return last year, greater than many newly established venture capital funds, according to its CEO. “Many overseas funds have a J-curve performance, as they tend to suffer an initial loss before a gain,” said Clara Chan Ka-chai,
 
+## A Trump Deal With Iran Could Spell Trouble for Netanyahu
+The Israeli leader needs a win ahead of a key election.
+
 ## Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
 Islamabad is happy to give the U.S. president the image he craves.
 
@@ -186,32 +183,29 @@ Berlin has already made a huge commitment to its military—but is facing new ob
 ## Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
 What a very 1990s scandal says about corruption during the second Trump administration.
 
-## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
-Both countries have refuted the allegations and accused the agency of bias.
+## Vietnam’s Quiet Strategy at the Shangri-La Dialogue
+At the Shangri-La Dialogue, Hanoi has sought to shape the terms of the regional security debate.
 
-## Philippines, Vietnam Upgrade Diplomatic Partnership Amid Maritime Tensions With China
-President Ferdinand Marcos Jr. stated that maintaining peace, stability, and the freedom of navigation in the South China Sea "remains non-negotiable" for both nations.
+## The Real Crisis in Andhra Pradesh is Development, Not Demography
+When the Andhra government cannot sustain existing welfare systems, why is it promising financial incentives to couples to have three or four children?
 
-## What to Expect from the Impeachment Trial of the Philippine Vice President Duterte
-Various contending political blocs are looking to capitalize politically on Sara Duterte's trial as they look ahead to the presidential election of 2028.
+## Uzbekistan’s Emergence as Central Asia’s Mobility Hub
+Behind Uzbekistan's record visitor numbers, rooted in social and economic ties, lies a larger story of regional reintegration expanding Tashkent's influence across Central Asia.
 
-## India Has Signed BrahMos Missile Deal With Vietnam, Indian Minister Says
-The country is set to become the third in Southeast Asia to purchase the powerful Indo-Russian missile system, after the Philippines and Indonesia.
+## Taiwan and Poland on the Frontline of Hybrid Conflict
+An interview with Aleksandra Gasztold on what Taiwan and Eastern Europe can learn from each other.
 
-## Why Does Okinawa Have So Many US Military Bases?
-Author Jon Mitchell’s new book offers some answers.
+## The EU’s New Economic Security Tools and China’s Countermeasure Calculus
+The central issue in China-EU economic relations is no longer only trade imbalance, but the growing political anxiety in Europe over the speed of China’s industrial upgrading.
 
-## What Does Quad’s New Surveillance Initiative Mean for Indian Ocean Security?
-An Indian Ocean-focused initiative is welcome. But it will need to support a democratic information-sharing culture, if it is to attract participation from all regional countries.
+## Can Pakistan Win Bangladesh’s Trust Without Apologizing for the Genocide of 1971?
+The current warmth in Bangladesh-Pakistan bilateral relations is less a product of mutual trust and more a function of geopolitical calculations.
 
-## No Enemies, Stronger Army: Kazakhstan’s Strategic Bet
-Kazakhstan’s military modernization efforts reflect an adaptive response to growing great power competition.
+## Why China Needs High GDP Growth Rates to Avoid a Crisis
+While Western nations might view a 2 percent or 4 percent growth rate as a spectacular success, China faces a shock even with a slight dip in its much higher figures.
 
-## What the 1980s ‘Japan Panic’ Tells Us About Today’s ‘China Threat’
-It’s almost eerie how easily contemporary China discourse parallels U.S. rhetoric about Japan in the 1980s – especially given the huge differences between the two countries.
-
-## Penpa Tsering’s Re-election and the Institutional Future of the Tibetan Movement
-The Tibetan movement has long been dependent on the personal moral authority of the Dalai Lama. In a post-Dalai Lama world, the Central Tibetan Administration will need to step up.
+## The Awakening of Koizumi Shinjiro
+How a defense portfolio transformed Japan’s most underestimated politician.
 
 ## Building a Better Ukraine Requires Accessibility Reforms
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -261,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli strike damages hospital in southern Lebanon
-An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.
+## Who attended this year’s Israel Day Parade in New York?
+Al Jazeera’s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade.
 
-## Ethiopians head to polls as millions excluded from elections
-Ethiopians head to polls as millions excluded from elections.
+## Video: Presidential election has Colombia on edge
+Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the run-off for Colombia’s presidential election.
 
-## Activists plaster missing posters around Mexico stadiums ahead of World Cup
-Activists put up missing persons posters to raise awareness of the disappearance crisis ahead of the 2026 World Cup.
+## Foreign Christians ask for forgiveness over failure to support Israel at Knesset
+‘Lord, please forgive us for all the things that we did that we did not support Israel.’
 
-## Former general for Syria’s Assad pleads not guilty in torture trial
-Brigadier General Khaled al-Halabi faces charges of aggravated torture, coercion, sexual coercion and bodily harm.
+## Denmark gets new government as Greenland crisis persists
+End of election deadlock will see PM Frederiksen continue her stewardship of response to Trump's Greenland lust.
 
-## Nvidia unveils new chip to bring AI directly to personal computers
-Nvidia's new chip will power new Windows laptop and desktop computer models to make 'AI personal computers'.
+## Kenyans protest Ebola quarantine centre for US citizens
+Hundreds have protested in central Kenya against a US-funded plan to quarantine Americans exposed to Ebola there.
 
-## Can cohosts Canada reach the knockout stages at World Cup 2026?
-Canada are playing only their third World Cup, but have high hopes for a talented squad under coach Jesse Marsch.
+## Is the US-backed Gaza peace process in serious danger?
+Israel killing more Palestinians, moves to seize 70 percent of Gaza Strip
 
-## International court rejects Rwanda’s claim over UK migration deal
-Rwanda's $134m claim has been thrown out, which bodes ill for other governments seeking 'return hubs'.
+## Protesters call on Kenyan government to halt femicide crisis
+Advocacy groups have given the government 40 days to intervene to deal with the plague of gender-based violence.
 
-## Protest outside Kenya’s planned US Ebola quarantine centre
-Hundreds rally against plan to send US nationals exposed to the virus to Laikipia Air Base.
+## Armenian PM rejects Russia’s demand for EU referendum as relations nosedive
+Russia is raising the pressure on Armenia as traditional ally looks to the West.
 
 ## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
 Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
