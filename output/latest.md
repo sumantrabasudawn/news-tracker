@@ -1,133 +1,154 @@
 # AION Intelligence
 
-## AI and real GDP: how big and how fast?
-Plus more on the chip cycle
+## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
+First substantial acquisition under new chief is a bet on eventual recovery in property sector
 
-## SoftBank overtakes Toyota after more than 20 years to become Japan’s largest company
-Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation
+## FirstFT: Nvidia targets consumer PC market
+Also in today’s newsletter: SoftBank becomes Japan’s largest company by market value and Powell says Fed in the throes of a ‘stress test’
 
-## Why Nato fears splintering unanimity on higher defence spending
-Also in this newsletter: Is the EU’s new stance on M&A already having an impact?
+## Transcript of an interview with Andrew Bailey
+Transcript from an interview with the governor of the Bank of England
 
 ## US and Iran launch fresh strikes as peace efforts continue
 Washington and Tehran are still trying to formalise a ceasefire
 
-## Nvidia unveils PC ‘superchip’ in challenge to Apple and Intel
-Semiconductor paired with Microsoft Windows will allow computers to run AI apps
+## Hungarian PM to remove president and other ‘Orbán puppets’ from office
+Péter Magyar to use parliamentary majority against predecessor’s appointees
 
-## FirstFT: Intel to challenge Nvidia with AI chip
-Also in today’s newsletter: Roche reinvention and Russian LNG
+## Submit your questions: Ten years on, what’s next for Brexit?
+Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, on Thursday June 4, at 1pm BST
 
-## UK warns it could take action over crown dependencies’ lack of transparency
-Government in fresh bid to persuade likes of Guernsey as well as overseas territories to go further in tackling illicit finance
+## Chinese firms’ market share gains driven by subsidies, says OECD
+Companies in China benefit from eight times more state support on average than rich-world rivals, report claims
 
-## US tax adviser Ryan strikes $400mn deal to take on Big Four in Europe
-Texas-based group agrees to buy Svalner Atlas, which had been expected to attract bids from private equity firms
+## UK house prices fall in May amid Iran turmoil
+Higher mortgage rates blamed for Nationwide index’s first monthly decline this year
 
-## EasyJet says takeover bid would be ‘highly opportunistic’
-Budget carrier says it has not received an approach from US private credit firm Castlelake
+## Wise shares slump over money laundering investigation
+London-headquartered fintech says it is responding to questions from Belgian authorities
 
-## Saikat Chakrabarti is a leftist running for Congress. So what’s in his nine-figure portfolio?
-Avowed progressive rejects the Golden Age of Private Credit
+## EasyJet says takeover bid would be ‘highly opportunistic’ as shares jump
+US private credit group Castlelake says it is considering an approach for low-cost carrier
 
-## FTSE 100’s likely new entrant puts a British spin on the AI boom
-Hardware reseller’s trick will be to convince investors artificial intelligence can augment its services rather than replace them
+## SoftBank overtakes Toyota after over 20 years to become Japan’s largest company
+Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation
 
-## Sensex today | Stock Market Live: Sensex volatile in noon trade, Nifty holds above 23,500 amid Iran talks caution and FPI outflows
-Sensex, Nifty, Share Prices LIVE: Indian equities turned range-bound on Monday after a mildly positive start, as investors weighed geopolitical uncertainties, persistent FPI outflows, MSCI-related concerns and upcoming RBI policy decisions, keeping sentiment cautious despite support from lower crude
+## French private equity group Ardian backs €5bn AI ‘gigafactory’ outside Paris
+Data centre and research facility to be built as Europe seeks to create ‘digital backbone for the future’
 
-## JSW MG Motor India sells 6,048 units in May
+## Cochin Port Authority’s outsourcing plans spark union protest
+The Forum also expressed concern over the sharp decline in the workforce, which has reportedly fallen to 475 regular workers, excluding officers, due to the non-filling of vacancies arising from retirements over several years. T
 
+## Karnataka Bank conducts annual conference of concurrent and internal auditors
+The conference served as an important platform for discussions on best practices in internal control and governance
 
-## Q4 Results Outcome Live: IndiGo & NMDC Steel soar post Q4, IREDA, Natco Pharma & Glenmark shares fall
-Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
+## Royal Enfield sales up 15% in May at 1,03,231 units
+Exports were down 33 per cent at 9,116 units in May, from 13,609 units in the comparable month of last year
 
-## Suraj Estate acquires Mahim land for ₹75 crore; stock slides 4% on Monday
-The acquired plot is contiguous to the company's ongoing commercial project, Suraj One Business Bay
+## Asian Granito India net profit jumps 90% in FY26, revenue at ₹1,858 crore
+Revenue rises 8.6% to ₹1,858 crore on strong domestic demand
 
-## Urban India in ‘Good’ band, neither thriving nor struggling with 5 health dimensions: ManipalCigna survey
-The “overall health of Urban India” score of 65/100 comprises five dimensions — physical (68/100), mental (65/100), financial (62/100), occupational (65/100), and social (66/100).
+## Major hydropower expansion in J&K underway as Uri-I Stage-II moves ahead
+The hydropower project, coming up in north Kashmir’s Baramulla district, is expected to add 240 megawatts of electricity generation capacity to Jammu and Kashmir’s power sector once completed.
 
-## GST revenue tops ₹1.94 lakh crore in May, driven by broad-based growth in consumption
-Government sources said growth was broad-based across all major goods and services categories, with taxable supplies in the goods sector rising 26.9 per cent and services sector growing 22.2 per cent.
+## India, Myanmar to stay in touch on issue of critical minerals, rare earths; take cooperation forward: MEA
+Modi and U Min Aung Hlaing discuss defence training, border security and bilateral ties during Delhi talks
 
-## Kings Infra Ventures post 24% rise in PAT at ₹16.36 crore in FY26
-Revenue from operations for FY 2025–26 grew to ₹162.15 crore, up 30.13% from ₹124.63 crore in FY25
-
-## MCX starts trading in ‘Silver 100’ futures
-Currently, the exchange has Silver Futures contracts on 30kg, 5kg, 1kg contracts and in Options, it trades in 5kg, 30kg monthly contracts
-
-## Gross GST revenues rise 3.2% to over Rs 1.94 lakh crore in May
-India's Goods and Services Tax collections in May surpassed Rs 1.94 lakh crore, marking a 3.2% year-on-year increase. While domestic revenue saw a slight dip, robust growth in import-linked taxes fueled the overall rise. Several states reported healthy SGST collection increases, though Delhi experie
-
-## Stocks to buy: What's the outlook for Nifty for June 1-June 5 week? Check list of top stock recommendations
-Stock market recommendations: Nuvama Wealth Management Ltd, and R R Kabel Ltd have been picked as the top stocks to buy in the June 1-June 5, 2026 week by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities:
-
-## Gold price prediction today: Will gold prices see limited upside? Key levels to watch out for June 1, 2026 week
-Gold price prediction today: Momentum in gold prices remains weak, and markets will track the US-Iran developments for cues, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
-
-## Stock Market Live Updates Today: BSE Sensex opens over 400 points up, Nifty50 above 23,600; crude oil prices rise 2%
+## Crypto exchange Binance rolls out trading in US stocks, ETFs
 
 
-## Top stocks to buy: Stock recommendations for June 1, 2026 week - check list
-Stock market recommendations: Astra Microwave, and Shaily Engineering Plastics have been recommended by Motilal Oswal Wealth Management Research Desk as the top stocks to buy for the week starting June 1, 2026:
+## Delhi’s Jan-May average AQI lowest in 8 years barring 2020: CAQM
+According to the CAQM, Delhi also witnessed a higher number of days with relatively cleaner air during the January-May period this year
 
-## Gold, Silver Rate Today Live Updates: International gold prices slip on inflation concerns, rising crude prices & US-Iran talks uncertainty
+## Centre floats second global tender for 70 lakh tonne urea despite surge in prices
+Amidst a volatile global market and Middle East disruptions, India has launched a second tender for 70 lakh tonnes of urea to secure sufficient fertilizer for the kharif season. Despite soaring international prices, the government is ensuring supplies, with 25 lakh tonnes of urea and 50 lakh tonnes 
 
+## New IIP series shows factory output rises 4.9% in April, manufacturing leads with 6.2% expansion
+India's industrial production saw a robust 4.9% growth in April 2026, propelled by a strong manufacturing sector. The newly revised IIP series, with a 2022-23 base year, highlights significant gains in motor vehicles, electrical equipment, and machinery. Investment-linked sectors like capital goods 
 
-## Oil prices today: Crude jumps over 2% after Israel intensifies attacks in Lebanon despite ceasefire
-Oil prices surged over 2% as Israel ordered troop deployments into southern Lebanon, escalating tensions with Hezbollah. This renewed fighting raises concerns for a US-Iran ceasefire extension and regional stability, impacting global energy supply outlooks. Mines in the Strait of Hormuz further comp
+## UPI clocked its biggest month in May, transactions surpass Rs 29.90 lakh crore
+India's UPI transactions reached record highs in May, with 23.2 billion transactions valued at Rs 29.90 lakh crore. This growth, driven by summer travel and seasonal spending, signifies a healthy upward trajectory for the digital payments ecosystem. Future expansion is anticipated through Credit-on-
 
-## Oman FTA benefits kick in from today
-
-
-## CBC undertakes structural transformation of 700-plus training institutions for government employees
-CBC undertakes structural transformation of 700-plus training institutions for government employees
-
-## Baggage curbs at Srinagar airport force returning Hajj pilgrims to stopover at Ahmedabad
-Five kg check-in baggage per pilgrim will be carried on the Ahmedabad-Srinagar flight, while the remaining 30 kg baggage will be transported separately.
-
-## Keeping up with UP: Why parties court Bahujan Samaj Party despite its decline
-A more plausible reason for Congress’s keenness to ally with the BSP could be a possible alliance also in Punjab and Uttarakhand as well
-
-## LPG prices today: Check rates across Delhi, Mumbai, Chennai and Kolkata
-On Monday, the price of commercial LPG cylinders in Delhi was reportedly increased by ₹42 per 19-kg cylinder.
-
-## Suvendu Adhikari expands West Bengal cabinet, 35 more ministers sworn-in
-BJP MLAs Rajesh Mahata, Indranil Khan and Malati Rava Roy were sworn in as ministers of state with independent charge in the Adhikari government.
-
-## Just like that: The curious case of Delhi’s iconic Gymkhana Club
-Does the Gymkhana Club represent a lingering Macaulayan legacy of English-speaking elitism inherited from colonial rule?
-
-## Fire breaks out in 4-storey building in Delhi's Mukherjee Nagar, all residents evacuated
-Fire broke out in Delhi's Mukherjee Nagar, DFS rushed to site. No survivors in Mehrauli building collapse near Saket metro station.
-
-## Wanted in six criminal cases, man shot dead in Bihar's Muzaffarpur district
-A criminal wanted in six cases was shot dead by unknown assailants in Bihar's Muzaffarpur district, a team led by the SSP is investigating the case.
-
-## Bawa White House–Airport Link Road nears completion
+## I-T relief over flat from dad sans gift deed
 
 
-## US hits military sites, radars inside Iranian territory in ‘self-defence’ strikes
+## 'All major issues settled': Centre's big update on US-India trade deal
+India and the United States are nearing the finalization of their first bilateral trade agreement tranche, with most key details settled. A high-level US delegation is in New Delhi for crucial negotiations, aiming to conclude an interim pact. Both nations are confident of signing the agreement soon,
+
+## India-Oman trade pact: Govt builds 'Plan B' amid Hormuz crisis - why deal is key for energy future
+Amidst Middle East chaos impacting the Strait of Hormuz, India's new free trade agreement with Oman, effective June 1, offers a strategic alternative. Oman's location outside the Strait provides a reliable gateway for trade and energy, as evidenced by recent import surges from the nation.
+
+## IT stocks rally: Why are Infosys, TCS and Tech Mahindra shares surging despite AI disruption fears?
+Indian IT stocks surged Monday, with major players like Infosys and TCS gaining up to 5%. This rebound follows months of AI-driven pessimism, as investors reassess sector valuations ahead of a key US Federal Reserve meeting. Technical indicators suggest a potential short-term recovery, though analys
+
+## Trump once slammed Biden for touching US oil reserves, now he's draining it: Report
+The U.S. is drawing heavily from its Strategic Petroleum Reserve, releasing approximately 50 million barrels since the conflict with Iran began. These withdrawals are pushing emergency oil stockpiles to multi-decade lows, with significant amounts being exported. Analysts warn this depletion necessit
+
+## TMC forgery case filed by 2 MLAs, says Suvendu Adhikari; Mamata expels them
+Ritabrata, who referred to himself as a whistleblower, said the May 6 meeting was only called to give Abhishek Banerjee a standing ovation and no resolution was passed
+
+## 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal
+Speaking at a press conference, the BJP leader added that all major points have been settled between the delegations.
+
+## Twisha ‘dowry death’ case: CBI recreates crime scene with mother-in-law Giribala, husband Samarth in Bhopal
+According to officials, the CBI team also reportedly attempted to establish a minute-by-minute timeline to understand Twisha Sharma's death.
+
+## Monkey's cash heist at UP court: ₹2 lakh bag snatched, currency notes rain from tree | Video
+The bizarre incident happened within the district court premises of Bulandshahr in Uttar Pradesh
+
+## Fire rips through fish market in Odisha’s Cuttack, guts over 30 shops, bank
+According to preliminary estimates, around 17 fish traders who operated from the market suffered extensive losses
+
+## Manipur: Minors caught in crossfire pick up guns, bombs, lose their innocence
+114 minors allegedly involved in 95 cases have been booked under Unlawful Activities (Prevention) Act (UAPA) between May, 2023 and April this year, state social welfare department data showed
+
+## Govt to retain AI labelling rule, bring schedule for advisories
+The proposals are part of amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, released for public consultation earlier this year
+
+## ‘Beware of pickpockets’: Rahul Gandhi slams CBSE, Modi govt over re-evaluation process
+Sharing a snippet of his conversation with some students on X, Gandhi said that students are having to pay for CBSE's mistakes.
+
+## 13 cities, 30 days, Rs 10 lakh: Why an American couple’s India travel bill has stunned the Internet
 
 
-## NMC proposes restoring 10-year limit for completing MBBS course
+## PAK Vs AUS 2nd ODI Live Streaming: When, Where To Watch Pakistan Vs Australia Live On TV & Online
 
 
-## West Bengal cabinet expansion: Full list of ministers inducted into the BJP government
+## 24 years in Army, stroke during service: Court upholds disability pension for veteran
 
 
-## 3 workers die, 2 ill after gas leak in Ludhiana factory
+## ‘I wish for her to be an athlete’: Alia Bhatt explains why she wants a non-Bollywood future for daughter Raha; expert weighs in
 
 
-## CBSE Class 12 Re-evaluation Portal: Board to opens window today; know steps to apply
+## CPM’s young Turk to Trinamool’s expelled MLA: Ritabrata Banerjee’s political arc
 
 
-## Who was Sayoni Chakraborty, the 22-year-old pet influencer found dead days after her graduation?
+## Rashmika Mandanna admits ‘Japan was extra fun this year’ with husband Vijay Deverakonda. Watch
 
 
-## Court allows police station construction in ‘oxygen zone’, asks Chhattisgarh how it will compensate for lost trees
+## Beyond NEET paper leak: Expanding supply is the only lasting solution
 
+
+## J-K Lt Governor’s anti-drug drive gets unlikely ally — Jamaat splinter group JDF
+
+
+## Closure of Hong Kong’s Casa Hotel tied to student-housing trend after failed sale attempts
+Casa Hotel, a boutique hotel in Hong Kong’s Yau Ma Tei district, has ceased operations after nearly two decades, with market speculation suggesting the building has been leased to a student-housing operator after repeated attempts to sell it failed. A notice posted outside the three-star hotel said 
+
+## Akeso lung cancer drug shines in trials, boosting hopes in US$20b market
+Akeso, whose drug ivonescimab was hailed as biotech’s “DeepSeek moment” amid US competition last year, announced better-than-expected clinical results showing it can treat a type of lung cancer commonly found in smokers, potentially expanding its approved uses. Analysts suggest it could become a bac
+
+## Unitree clears key hurdle to Shanghai IPO as China’s humanoid robot wave gathers pace
+Unitree Robotics, one of the leading forces in mainland China’s booming humanoid robot sector, has cleared a major hurdle for its highly anticipated initial public offering (IPO) after passing a listing committee hearing on Monday. The Hangzhou-based company filed to list on Shanghai’s Star Market o
+
+## China index reshuffle to entrench tech trades and boost AI rally: brokerages
+A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks is set to boost the representation of technology companies, a move expected to lure more inflows and further increase the sector’s appeal, according to investment banks. The shake-up was projected to spur US$3.1 billion o
+
+## China’s property market shows more positive signs with price, sales upticks
+China’s home prices saw a modest recovery in May, adding to growth in March and April, as positive signs of a gradually stabilising property market continued to accumulate after five years of weakness, according to analysts. In May, the average price of newly built residential properties across 100 
+
+## Businesses face huge spike in shipping costs as Hormuz fuel crisis deepens
+Businesses around the world are confronting a painful – and potentially long-lasting – rise in costs amid the US-Israel war on Iran, as global shipping firms introduce steep price increases to offset a mounting fuel crisis. In Shanghai, one of the world’s busiest ports, the price of shipping a conta
 
 ## Hong Kong government’s venture fund eyes bigger bankroll after double-digit return
 The government’s investment arm achieved a double-digit internal rate of return last year, greater than many newly established venture capital funds, according to its CEO. “Many overseas funds have a J-curve performance, as they tend to suffer an initial loss before a gain,” said Clara Chan Ka-chai,
@@ -135,23 +156,11 @@ The government’s investment arm achieved a double-digit internal rate of retur
 ## Nvidia, Unitree and Sharpa unite to design humanoid robot that can perform ‘real work’
 Nvidia has partnered with Chinese robotics champion Unitree Robotics and Singapore robotic hand maker Sharpa to release a new humanoid robot reference design to accelerate innovation in the global humanoid industry, the US chip giant’s CEO, Jensen Huang, announced on Monday. The new design, called H
 
-## Hong Kong’s insurance boom risks cooling as regulators curb mainland China fund flows
-Hong Kong’s record-breaking insurance sales may face headwinds as mainland China visitors struggle to transfer large sums across the border to buy policies, after Beijing and the city’s regulators tightened rules, according to industry players and analysts. A spokeswoman for the Insurance Authority 
+## The Energy Crisis Will Long Outlast the Iran War
+The baked-in damage to oil and gas production will take months to undo.
 
-## Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley
-The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations, according to Morgan Stanley. The push in AI would likely bring models with conditionally autonomous driv
-
-## Hong Kong must embrace ‘bipolar’ role to thrive in ‘Stage 3.0’: ex-HKEX boss Charles Li
-Charles Li Xiaojia, the longest-serving CEO of Hong Kong Exchanges and Clearing (HKEX), defined a decade of city finance by bridging the gap between Chinese and global capital. From his early days as an offshore oil worker in northeastern China to serving as chairman of JPMorgan Chase’s China divisi
-
-## AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong
-MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company si
-
-## Hong Kong property recovery tested as bigger student housing deals gain traction
-Hong Kong’s student housing sector is entering a new phase as larger institutional-style deals emerge from the city’s distressed commercial property market, signalling that professional investors are cautiously returning after years of falling asset values. Investors and analysts said the market was
-
-## Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada
-Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who
+## Germany Is Scrambling to Speed Up Its Rearmament
+Berlin has already made a huge commitment to its military—but is facing new obstacles at home and abroad.
 
 ## Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
 What a very 1990s scandal says about corruption during the second Trump administration.
@@ -171,11 +180,14 @@ Mellower European populists have killed some Republicans’ dreams of a far-righ
 ## The Dollar Was—and Remains—an Accident
 As a new book shows, the dollar isn’t really the United States’ currency, but a 500-year-old relic.
 
-## Authoritarian Transformation in Istanbul’s Old City
-Two new books seek to capture the changing reality of Turkey and the world.
+## Philippines, Vietnam Upgrade Diplomatic Partnership Amid Maritime Tensions With China
+President Ferdinand Marcos Jr. stated that maintaining peace, stability, and the freedom of navigation in the South China Sea "remains non-negotiable" for both nations.
 
-## What in the World?
-Test yourself on the week of May 23: The U.S. strikes Iran, European countries summon Russian diplomats, and the WHO calls for a cease-fire in Congo.
+## What to Expect from the Impeachment Trial of the Philippine Vice President Duterte
+Various contending political blocs are looking to capitalize politically on Sara Duterte's trial as they look ahead to the presidential election of 2028.
+
+## India Has Signed BrahMos Missile Deal With Vietnam, Indian Minister Says
+The country is set to become the third in Southeast Asia to purchase the powerful Indo-Russian missile system, after the Philippines and Indonesia.
 
 ## Why Does Okinawa Have So Many US Military Bases?
 Author Jon Mitchell’s new book offers some answers.
@@ -192,14 +204,11 @@ It’s almost eerie how easily contemporary China discourse parallels U.S. rheto
 ## Penpa Tsering’s Re-election and the Institutional Future of the Tibetan Movement
 The Tibetan movement has long been dependent on the personal moral authority of the Dalai Lama. In a post-Dalai Lama world, the Central Tibetan Administration will need to step up.
 
-## South Korea’s Matchmaking Boom Is Turning Inequality Into Compatibility
-South Korea’s demographic crisis is exposing a deeper problem: how class, gender, education, housing, and family background shape who is considered marriageable.
+## Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement
+One of the most effective counter-drone systems in the largest drone war in history between Ukraine and Russia is a German anti-aircraft gun designed during the Cold War. The Gepard — a self-propelled 35 mm cannon that first entered service in 1976 — has earned recognition from Ukrainian military ex
 
-## China and Maritime Chokepoints: Hormuz, Malacca, and Indo-Pacific Vulnerability
-Disruptions in Hormuz immediately generate concern regarding Malacca, another vital maritime chokepoint.
-
-## Strategic Implications of Myanmar’s Offensive in Chin State
-The Tatmadaw’s advances will have implications not only for Myanmar’s internal conflict, but for neighboring India and Bangladesh.
+## Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure
+What would happen if you woke up one morning and the internet was gone — not from a software glitch, but because someone had simply cut the wire?Threats to critical undersea infrastructure are rapidly escalating. In 2023, the Balticonnector pipeline and several Baltic data cables were damaged. A yea
 
 ## How America Lost Its Most Important Defense Tech Habit
 On April 15, technology podcaster Dwarkesh Patel published a two-hour interview with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the serious cyber-offensive capabilities Anthrop
@@ -218,12 +227,6 @@ Rose Gottemoeller joined Ryan in Washington. They discussed how the West might t
 
 ## Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains
 In 2024, when Jiangsu Delong, the world’s second-largest stainless-steel producer, filed for bankruptcy, several Chinese firms and state-owned enterprises quietly absorbed its Indonesian assets. Among them was China First Heavy Industries, a state-owned enterprise founded in 1954 as one of China’s e
-
-## A Sea Control Revolution?
-Sea control has changed. In recent years, there has been a quiet revolution in maritime strategy that has seen navies increasingly expected to exert greater levels of control over more of the world’s oceans, more of the time. Whether it is NATO forces protecting critical maritime infrastructure in t
-
-## What Everyone is Missing About North Korea’s Reunification Strategy
-When news broke that North Korea had revised its constitution, analysts in the West and across the Korean Peninsula rushed to declare it the formal death of Korean reunification as a policy objective. The changes were hard to ignore. Pyongyang stripped all references to a unified Korean nation, codi
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tense election night in Colombia as country heads to presidential runoff
-Colombia’s election heads to a June 21 runoff after a tight first round between de la Espriella and Cepeda.
+## How could El Nino reshape tropical storms around the world this year?
+El Nino tends to reduce hurricanes in the Atlantic while increasing storms in the Pacific Ocean.
 
-## Israel airstrike kills at least two Palestinians at Gaza port
-At least two Palestinians were killed and around a dozen wounded when an Israeli air strike hit a crowded cafe.
+## Greece reopens Syrian and Afghan asylum cases, hoping for returns
+Greece's migration minister recently said Athens does not share common values with 'hardcore Islam'.
 
-## Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
-Jerome Powell says the US central bank is undergoing a 'stress test' like other institutions in the current era.
+## England World Cup 2026 team preview: Players to watch, group and squad list
+England cruised through qualifying, but some fans are concerned over the squad selection and the form against top teams.
 
-## Sheinbaum accuses US of ‘interference’ amid probe of Mexican officials
-Mexican President Claudia Sheinbaum has accused the United States of interfering in Mexico’s internal affairs.
+## French Navy seizes Russian oil tanker
+French Navy seizes Russian oil tanker
 
-## US says ban on AI chip shipments applies to Chinese firms outside China
-Department of Commerce issues guidance on chip restrictions amid concerns about loopholes in export control regime.
+## What is Lebanon’s Beaufort Castle, and why has Israel captured it?
+The fortress, a historical battleground, is playing a central role in Israel’s military campaign against Hezbollah.
 
-## ‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?
-The country has vast reserves of the ore, a source material for aluminium. But citizens still languish in poverty.
+## Kuwait condemns Iranian attack as Iran-US trade new strikes
+Kuwait activated its air defences after what its foreign ministry later described as a ‘heinous Iranian attack’.
 
-## Colombia’s outsider candidate defied the polls
-Far-right outsider, Abelardo de la Espriella, will face leftist senator, Ivan Cepeda on June 21.
+## French navy, backed by the UK, intercepts Russian oil tanker
+According to France, the tanker, which had sailed from Murmansk, was trying to 'skirt international sanctions'.
 
-## Donated milk reaches Cuba amid deepening shortages
-Cuba has begun distributing donated powdered milk from Mexico and Uruguay as the island faces severe shortages.
+## Ethiopia holds elections with PM Abiy’s party expected to dominate
+Voting will not take place in northern Tigray region and some parts of the Amhara region amid insecurity.
 
 ## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
 Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
