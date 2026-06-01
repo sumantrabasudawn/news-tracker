@@ -1,145 +1,142 @@
 # AION Intelligence
 
-## Singapore tries to keep Asia’s oil flowing
-City-state is conduit for big share of regional energy cargoes
+## AI and real GDP: how big and how fast?
+Plus more on the chip cycle
 
-## Populist to face outgoing president’s candidate in Colombian run-off election
-Conservative Abelardo de la Espriella won most votes against leftist senator Iván Cepeda in close poll
+## SoftBank overtakes Toyota after more than 20 years to become Japan’s largest company
+Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation
 
-## Jay Powell warns Federal Reserve is undergoing ‘stress test’
-Former chair says Donald Trump’s attempts to fire central bankers undermine the rule of law
+## Why Nato fears splintering unanimity on higher defence spending
+Also in this newsletter: Is the EU’s new stance on M&A already having an impact?
 
-## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
-First substantial acquisition under new CEO is bet on eventual recovery in property sector
+## US and Iran launch fresh strikes as peace efforts continue
+Washington and Tehran are still trying to formalise a ceasefire
 
-## FirstFT: Japan’s defence minister calls for talks with Beijing to resolve row
-Also in today’s newsletter: SoftBank pledges €75bn to build Europe’s biggest AI facility and EU alarm over China’s industrial base in Morocco
+## Nvidia unveils PC ‘superchip’ in challenge to Apple and Intel
+Semiconductor paired with Microsoft Windows will allow computers to run AI apps
 
-## Fed and BoE signal little desire to change monetary policy
-Whether it was the effects of AI or energy, they saw the benefits of an active hold at the Reykjavik Economic Conference
+## FirstFT: Intel to challenge Nvidia with AI chip
+Also in today’s newsletter: Roche reinvention and Russian LNG
 
-## Brussels officials head east with tour of Balkan capitals
-EU-western Balkan summit on expansion of bloc, Netflix co-founder Reed Hastings steps down, Peru goes to the polls
+## UK warns it could take action over crown dependencies’ lack of transparency
+Government in fresh bid to persuade likes of Guernsey as well as overseas territories to go further in tackling illicit finance
 
-## Operation Jailbreak: lessons from Ukraine on making weapons talk to each other
-Defence companies join with Army personnel in hackathon to apply AI to ‘interoperability’ puzzle
+## US tax adviser Ryan strikes $400mn deal to take on Big Four in Europe
+Texas-based group agrees to buy Svalner Atlas, which had been expected to attract bids from private equity firms
 
-## Violence mars PSG celebrations after Champions League victory over Arsenal
-French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
+## EasyJet says takeover bid would be ‘highly opportunistic’
+Budget carrier says it has not received an approach from US private credit firm Castlelake
 
-## Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat
-Owners of troubled travel group inject $275mn in return for creditors delaying payment dates and relaxing terms
+## Saikat Chakrabarti is a leftist running for Congress. So what’s in his nine-figure portfolio?
+Avowed progressive rejects the Golden Age of Private Credit
 
-## Africa’s response to Ebola must be defined by Africa itself
-International support matters when it aligns with strategies built alongside regional institutions and governments
+## FTSE 100’s likely new entrant puts a British spin on the AI boom
+Hardware reseller’s trick will be to convince investors artificial intelligence can augment its services rather than replace them
 
-## Growing US reliance on Chinese biotechs prompts national security fears
-Global pharmaceutical companies are increasingly looking to China as patents on best-selling medicines expire
+## Sensex today | Stock Market Live: Sensex volatile in noon trade, Nifty holds above 23,500 amid Iran talks caution and FPI outflows
+Sensex, Nifty, Share Prices LIVE: Indian equities turned range-bound on Monday after a mildly positive start, as investors weighed geopolitical uncertainties, persistent FPI outflows, MSCI-related concerns and upcoming RBI policy decisions, keeping sentiment cautious despite support from lower crude
 
-## Wall Street bulls bet US stocks rally will defy bubble fears
-Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares
-
-## Ferrari’s Luce is a free option on a whole new market
-Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
-
-## More than half of shadow fleet oil tankers pose environmental disaster risk
-Ageing sanctioned ships should be scrapped, says leading ship recycler
-
-## South Coast Railway, Indian Railways’ 18th Zone, begins operations
-The new zone oversees the divisions of Visakhapatnam, Vijayawada, Guntakal and Guntur, following a gazette notification issued by the Ministry of Railways on May 4
-
-## Sensex today | Stock Market Live: Stock to buy today: Chennai Petroleum Corporation
-Sensex, Nifty, Share Prices LIVE: The stock of Chennai Petroleum Corporation has been in an uptrend since March 2025. After hitting a one-year high of ₹1,159 last month, the price moderated. However, the broader bull trend remains positive and the price stays above both 21- and 50-day moving average
-
-## Stock to buy today: Chennai Petroleum Corporation (₹1,056.50)
-After hitting a one-year high of ₹1,159 last month, the price moderated
-
-## What is Beaufort Castle and why has Israel captured it again?
-The advance comes despite a U.S.-brokered ceasefire and ongoing direct talks between Israel and Lebanon.
-
-## Israel captures historic Beaufort Castle in deepest Lebanon advance in decades
-The Crusader-era fortress overlooks large parts of southern Lebanon and northern Israel, making it a valuable military position.
-
-## Vaibhav Sooryavanshi reflects on record-breaking IPL 2026 season after winning MVP award
-The Orange Cap winner averaged 48.50 and struck at a remarkable 237.30, smashing one century, five fifties and a record 72 sixes, surpassing the previous mark held by Chris Gayle
-
-## Mumbai property registrations rise 7% in May to highest level in 14 years
-Industry experts attributed the growth to sustained end-user demand and continued confidence in Mumbai’s housing market despite global economic uncertainties.
-
-## Bapu and Bajaj
+## JSW MG Motor India sells 6,048 units in May
 
 
-## FPIs take out nearly Rs 33k cr from Indian equities in May
+## Q4 Results Outcome Live: IndiGo & NMDC Steel soar post Q4, IREDA, Natco Pharma & Glenmark shares fall
+Q4 Results Highlights Today Live Updates: Stay tuned to businessline for the latest live updates on Q4 earnings.
+
+## Suraj Estate acquires Mahim land for ₹75 crore; stock slides 4% on Monday
+The acquired plot is contiguous to the company's ongoing commercial project, Suraj One Business Bay
+
+## Urban India in ‘Good’ band, neither thriving nor struggling with 5 health dimensions: ManipalCigna survey
+The “overall health of Urban India” score of 65/100 comprises five dimensions — physical (68/100), mental (65/100), financial (62/100), occupational (65/100), and social (66/100).
+
+## GST revenue tops ₹1.94 lakh crore in May, driven by broad-based growth in consumption
+Government sources said growth was broad-based across all major goods and services categories, with taxable supplies in the goods sector rising 26.9 per cent and services sector growing 22.2 per cent.
+
+## Kings Infra Ventures post 24% rise in PAT at ₹16.36 crore in FY26
+Revenue from operations for FY 2025–26 grew to ₹162.15 crore, up 30.13% from ₹124.63 crore in FY25
+
+## MCX starts trading in ‘Silver 100’ futures
+Currently, the exchange has Silver Futures contracts on 30kg, 5kg, 1kg contracts and in Options, it trades in 5kg, 30kg monthly contracts
+
+## Gross GST revenues rise 3.2% to over Rs 1.94 lakh crore in May
+India's Goods and Services Tax collections in May surpassed Rs 1.94 lakh crore, marking a 3.2% year-on-year increase. While domestic revenue saw a slight dip, robust growth in import-linked taxes fueled the overall rise. Several states reported healthy SGST collection increases, though Delhi experie
+
+## Stocks to buy: What's the outlook for Nifty for June 1-June 5 week? Check list of top stock recommendations
+Stock market recommendations: Nuvama Wealth Management Ltd, and R R Kabel Ltd have been picked as the top stocks to buy in the June 1-June 5, 2026 week by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities:
+
+## Gold price prediction today: Will gold prices see limited upside? Key levels to watch out for June 1, 2026 week
+Gold price prediction today: Momentum in gold prices remains weak, and markets will track the US-Iran developments for cues, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+
+## Stock Market Live Updates Today: BSE Sensex opens over 400 points up, Nifty50 above 23,600; crude oil prices rise 2%
 
 
-## RBI MPC may hike inflation forecast, trim growth rate
-All Eyes On June 5 Statement As Gulf Crisis Nears 100 Days
+## Top stocks to buy: Stock recommendations for June 1, 2026 week - check list
+Stock market recommendations: Astra Microwave, and Shaily Engineering Plastics have been recommended by Motilal Oswal Wealth Management Research Desk as the top stocks to buy for the week starting June 1, 2026:
 
-## Bullion movement: Gold prices to track US–Iran peace talks, Fed signals and key data releases this week
-Gold prices face a mixed outlook this week, influenced by US-Iran peace talks, oil market shifts, and crucial US economic data. Federal Reserve officials' speeches will also guide interest rate expectations, impacting bullion's near-term trajectory. Analysts suggest a sideways to corrective momentum
-
-## June 2026 bank holidays: When and where will banks remain closed? Check state-wise list
-Planning a bank visit in June requires checking the holiday list as branches in several states will be closed on specific dates for festivals like YMA Day, Raja Sankranti, Moharrum, and Muharram. Additionally, banks observe closures on the second and fourth Saturdays of each month, impacting physica
-
-## India’s domestic air traffic falls 4.2% in April amid weak demand and rising costs
-Domestic air travel experienced a dip in April, with passenger numbers falling 4.2% from March and 3.47% year-on-year. Airlines faced headwinds from softer demand and rising costs, leading to network adjustments. IndiGo expanded its market share to 65%, while Air India Group saw a decline. Operation
-
-## Stock market recap: Seven of top-10 firms lose Rs 1.54 lakh crore
-Seven of India's top 10 companies experienced a combined market valuation drop of Rs 1.54 lakh crore last week, with Reliance Industries leading the decline. This occurred as the BSE Sensex and NSE Nifty saw minor dips. Despite the losses, Reliance Industries maintained its position as the country's
-
-## India-US trade talks to resume on June 1 as both sides push to finalise interim pact
-Senior officials from India and the US are meeting in New Delhi to finalize an interim trade agreement and advance broader bilateral trade talks. Discussions will cover market access, customs, and investment, with potential recalibration of the deal due to recent US tariff changes. The agreement aim
-
-## Dalal Street outlook: What will guide market sentiments this week?
-Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.
-
-## Centre to set up air-raid warning systems in 244 districts, IAF experts to be roped in
-The project will ensure that all 244 vulnerable districts have a standard, modern, and fully functional warning network to alert in the event of aerial threats
-
-## Long queues to check-in gaps: Soon, airports could be penalised over passenger service lapses
-The framework, expected to be notified by the civil aviation ministry this year, will be first attempt to create uniform service standards for major airports.
-
-## TMC claims BJP behind attacks on Abhishek, Kalyan Banerjee, plans protest
-The TMC alleged that West Bengal was witnessing complete lawlessness after its defeat to BJP in the assembly polls.
-
-## CBSE may penalise vendor over OSM flaws, blacklisting unlikely
-A CBSE official who asked not to be named acknowledged the vulnerabilities and confirmed that the contractor would be penalised.
-
-## Row erupts over Tamil poet’s saffron-clad attire
-A political controversy in Tamil Nadu arose over Thiruvalluvar depicted in saffron attire, prompting criticism from DMK and allies, while BJP defended the color.
-
-## UDF govt’s proposal for menstrual leave in Kerala schools stirs criticism
-BJP and IUML leaders criticized Kerala's proposal for menstrual leave for schoolgirls, raising concerns about privacy and suggesting alternative support.
-
-## Kerala mother, partner held for toddler’s death
-A 1.5-year-old boy in Kerala died from severe abuse by his mother and her partner, who face murder charges after the child sustained 51 injuries.
-
-## West Bengal cabinet expansion today, 35 ministers to take oath
-West Bengal CM Suvendu Adhikari to swear in 35 new ministers on Monday, finalizing a cabinet after BJP's electoral victory over TMC.
-
-## Magnus Carlsen pulls out ‘proper old guy move’ in win over Alireza Firouzja
+## Gold, Silver Rate Today Live Updates: International gold prices slip on inflation concerns, rising crude prices & US-Iran talks uncertainty
 
 
-## ‘He is a drug addict, was lured by easy money’: Family of Mumbai man accused in Pakistan gangster Shahzad Bhatti-linked terror module
+## Oil prices today: Crude jumps over 2% after Israel intensifies attacks in Lebanon despite ceasefire
+Oil prices surged over 2% as Israel ordered troop deployments into southern Lebanon, escalating tensions with Hezbollah. This renewed fighting raises concerns for a US-Iran ceasefire extension and regional stability, impacting global energy supply outlooks. Mines in the Strait of Hormuz further comp
+
+## Oman FTA benefits kick in from today
 
 
-## IPL 2026 Awards Winners List: Orange Cap, Purple Cap Holders, Most Runs and Most Wickets
+## CBC undertakes structural transformation of 700-plus training institutions for government employees
+CBC undertakes structural transformation of 700-plus training institutions for government employees
+
+## Baggage curbs at Srinagar airport force returning Hajj pilgrims to stopover at Ahmedabad
+Five kg check-in baggage per pilgrim will be carried on the Ahmedabad-Srinagar flight, while the remaining 30 kg baggage will be transported separately.
+
+## Keeping up with UP: Why parties court Bahujan Samaj Party despite its decline
+A more plausible reason for Congress’s keenness to ally with the BSP could be a possible alliance also in Punjab and Uttarakhand as well
+
+## LPG prices today: Check rates across Delhi, Mumbai, Chennai and Kolkata
+On Monday, the price of commercial LPG cylinders in Delhi was reportedly increased by ₹42 per 19-kg cylinder.
+
+## Suvendu Adhikari expands West Bengal cabinet, 35 more ministers sworn-in
+BJP MLAs Rajesh Mahata, Indranil Khan and Malati Rava Roy were sworn in as ministers of state with independent charge in the Adhikari government.
+
+## Just like that: The curious case of Delhi’s iconic Gymkhana Club
+Does the Gymkhana Club represent a lingering Macaulayan legacy of English-speaking elitism inherited from colonial rule?
+
+## Fire breaks out in 4-storey building in Delhi's Mukherjee Nagar, all residents evacuated
+Fire broke out in Delhi's Mukherjee Nagar, DFS rushed to site. No survivors in Mehrauli building collapse near Saket metro station.
+
+## Wanted in six criminal cases, man shot dead in Bihar's Muzaffarpur district
+A criminal wanted in six cases was shot dead by unknown assailants in Bihar's Muzaffarpur district, a team led by the SSP is investigating the case.
+
+## Bawa White House–Airport Link Road nears completion
 
 
-## Researchers find a protein that halts brain decline
+## US hits military sites, radars inside Iranian territory in ‘self-defence’ strikes
 
 
-## Centre aims to revive delimitation Bill, push joint polls by 2029
+## NMC proposes restoring 10-year limit for completing MBBS course
 
 
-## 40 years ago June 1, 1986: Plan to bomb plane foiled
+## West Bengal cabinet expansion: Full list of ministers inducted into the BJP government
 
 
-## India-Oman pact holds promises for farms, factories and small businesses
+## 3 workers die, 2 ill after gas leak in Ludhiana factory
 
 
-## Monthly Horoscope June-2026: Aries, Taurus and Gemini – What astrological predictions have in store for you in June
+## CBSE Class 12 Re-evaluation Portal: Board to opens window today; know steps to apply
 
+
+## Who was Sayoni Chakraborty, the 22-year-old pet influencer found dead days after her graduation?
+
+
+## Court allows police station construction in ‘oxygen zone’, asks Chhattisgarh how it will compensate for lost trees
+
+
+## Hong Kong government’s venture fund eyes bigger bankroll after double-digit return
+The government’s investment arm achieved a double-digit internal rate of return last year, greater than many newly established venture capital funds, according to its CEO. “Many overseas funds have a J-curve performance, as they tend to suffer an initial loss before a gain,” said Clara Chan Ka-chai,
+
+## Nvidia, Unitree and Sharpa unite to design humanoid robot that can perform ‘real work’
+Nvidia has partnered with Chinese robotics champion Unitree Robotics and Singapore robotic hand maker Sharpa to release a new humanoid robot reference design to accelerate innovation in the global humanoid industry, the US chip giant’s CEO, Jensen Huang, announced on Monday. The new design, called H
+
+## Hong Kong’s insurance boom risks cooling as regulators curb mainland China fund flows
+Hong Kong’s record-breaking insurance sales may face headwinds as mainland China visitors struggle to transfer large sums across the border to buy policies, after Beijing and the city’s regulators tightened rules, according to industry players and analysts. A spokeswoman for the Insurance Authority 
 
 ## Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley
 The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations, according to Morgan Stanley. The push in AI would likely bring models with conditionally autonomous driv
@@ -156,14 +153,8 @@ Hong Kong’s student housing sector is entering a new phase as larger instituti
 ## Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada
 Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who
 
-## Writing’s on the wall for the bond market – for those who can read it
-There is a good deal more to the rapid rise in bond yields around the world, not least in Asia, than meets the eye. It suggests a recognition by financial markets that governments are spending beyond their means, tax revenues and borrowing power. The implication is that either taxes need to rise or 
-
-## Unicorn born in record time amid ‘arms race’ among China’s robotic hand developers
-Venture capitalists and industrial giants in China are aggressively backing developers of dexterous robotic hands – the toughest bottleneck in the global humanoid hardware arms race – in a funding blitz that is rapidly driving up start-up valuations. The latest capital injection was announced on Fri
-
-## Chip boom powers Hong Kong stock exchange at 40. Innovation, resilience set next stage
-Stepping into the former trading hall in Exchange Square on Thursday was like walking through a doorway into the 1980s. Brokers, wearing the iconic red jackets of the period, stood alongside Cathay Pacific Airways flight attendants in retro uniforms, evoking memories of the hall before its closure. 
+## Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
+What a very 1990s scandal says about corruption during the second Trump administration.
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
@@ -185,9 +176,6 @@ Two new books seek to capture the changing reality of Turkey and the world.
 
 ## What in the World?
 Test yourself on the week of May 23: The U.S. strikes Iran, European countries summon Russian diplomats, and the WHO calls for a cease-fire in Congo.
-
-## Syria Wants to Replace the Strait of Hormuz
-The country hopes to fund its reconstruction by serving as the Middle East’s new transit and logistics hub.
 
 ## Why Does Okinawa Have So Many US Military Bases?
 Author Jon Mitchell’s new book offers some answers.
@@ -261,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tense election night in Colombia as country heads to presidential runoff
+Colombia’s election heads to a June 21 runoff after a tight first round between de la Espriella and Cepeda.
+
+## Israel airstrike kills at least two Palestinians at Gaza port
+At least two Palestinians were killed and around a dozen wounded when an Israeli air strike hit a crowded cafe.
+
+## Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks
+Jerome Powell says the US central bank is undergoing a 'stress test' like other institutions in the current era.
+
+## Sheinbaum accuses US of ‘interference’ amid probe of Mexican officials
+Mexican President Claudia Sheinbaum has accused the United States of interfering in Mexico’s internal affairs.
+
+## US says ban on AI chip shipments applies to Chinese firms outside China
+Department of Commerce issues guidance on chip restrictions amid concerns about loopholes in export control regime.
+
 ## ‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?
 The country has vast reserves of the ore, a source material for aluminium. But citizens still languish in poverty.
 
@@ -270,20 +273,23 @@ Far-right outsider, Abelardo de la Espriella, will face leftist senator, Ivan Ce
 ## Donated milk reaches Cuba amid deepening shortages
 Cuba has begun distributing donated powdered milk from Mexico and Uruguay as the island faces severe shortages.
 
-## Iran war live: Israel’s expanding invasion of Lebanon draws global alarm
-France requests UN Security Council meeting over Israel's invasion of Lebanon, as Iran says talks with US continue.
+## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
+Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
 
-## Cepeda, de la Espriella advance in Colombia’s presidential election
-The left-wing senator and far-right newcomer will face each other in a run-off on June 21, with security a top issue.
+## MCA brings Social Stock Exchange instruments under CSR ambit, permits 10% allocation
+Subscription to zero coupon zero principal instruments recognised as an eligible CSR activity; companies subscribing through the route get impact assessment exemption.
 
-## Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera
-Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.
+## At Big 4 firms, AI is starting to reshape the tax profession
+Major accounting firms in India are embracing artificial intelligence for tax services. AI is automating routine tasks, research, and drafting, allowing consultants to focus on complex interpretations and client strategy. This shift is significantly increasing efficiency and changing traditional con
 
-## Can AI cure loneliness? South Korea’s robot companions for seniors
-South Korea is using AI-powered companion dolls to help tackle loneliness in its ageing population
+## Corporate India posts 25% profit surge in Q4 FY26, but rising costs squeeze margins
+Corporate India's March quarter net profit surged 25.3%, driven by non-operating factors, masking operating challenges like rising input costs that squeezed margins. While FY27 outlook is positive with infrastructure focus, risks include commodity inflation and geopolitical issues. Sector-specific p
 
-## New Jersey orders curfew after immigration protests escalate
-New Jersey orders curfew after immigration protests escalate.
+## I-T department to move Supreme Court against HC relief in public trust row
+The rift stems from the Income-tax department's demand that deeds of these religious and charitable trusts must categorically state that the trusts are 'irrevocable'.
+
+## AI bubble debate gets real as chip stocks rally
+Bulls see a boom driven by structural changes that are transforming the notoriously cyclical semiconductor industry. Bears see an overheated market fascinated by the latest shiny object. And investors are caught in the middle, transfixed by the momentum, but wary of what could come next.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
@@ -291,23 +297,8 @@ Companies can now invest up to ten percent of their Corporate Social Responsibil
 ## India’s Emerging Businesses Thrive on Rising Consumption
 As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
 
-## Supreme Court upholds retrospective GST on online gaming; experts warn of Rs 1 lakh crore ‘balance sheet event’
-Apex court validates 28% GST levy on real money gaming platforms; tax experts say ruling could trigger massive financial and regulatory reset for industry.
-
-## Greenwashing in ESG reporting in India : with impunity and without accountability
-Can India’s ESG regime remain credible if companies disclose sustainability claims without verifiable data or accountability? Seasoned finance expert Ashok Haldia warns that despite near-total compliance under the Business Responsibility and Sustainability Reporting framework, weak enforcement, poor
-
-## AI, purpose-led careers and salary pressures redefine India’s finance workforce: ACCA
-81% of finance professionals aspire for social-impact roles while AI adoption surges amid rising inflation concerns, says ACCA India Talent Trends 2026 report.
-
-## Allcargo Logistics targets ₹3,000 cr revenue by FY30, CFO bets on pricing and service quality
-Allcargo Logistics aims for over ₹3,000 crore revenue by FY30, driven by service quality and disciplined pricing, said CFO Deepak Pareek. Pareek also spoke on how the company is navigating fuel cost volatility, the pricing actions built into FY27 assumptions, segment-wise growth outlook within consu
-
-## BJP CA Cell writes to Centre as delay in 57th GST Council meet keeps key reforms pending
-Haryana BJP CA Cell seeks relief on legacy GST disputes, refund bottlenecks and procedural lapses; experts warn prolonged gap in GST Council meetings is delaying critical reforms and increasing compliance uncertainty for businesses.
-
-## Indian firms opt for confidential IPO route amid West Asia-led market volatility
-Rising geopolitical tensions, volatile equity markets and weak investor sentiment are pushing more companies towards SEBI’s confidential filing route, allowing them to keep listing plans flexible while protecting sensitive business information.
+## Localisation lens on 500 most-imported items: DPIIT analysing data; move aims to reduce country’s import bill
+The Indian government is scrutinizing over 500 imported products, including machinery, fertilizers, and electronics, to identify opportunities for domestic manufacturing and reduce reliance on foreign supply chains. This initiative aims to curb the country's import bill and bolster supply resilience
 
 ## PLI 2.0: India bets big on making more of the smartphone at home
 India is updating its mobile phone production incentive scheme. The new plan targets over 55% domestic value addition. It will also link with component manufacturing schemes. This aims to boost local sourcing of crucial parts. The government wants to reduce reliance on imports for high-value compone
@@ -326,10 +317,4 @@ A pivotal trade agreement between India and the United States is soon to be conc
 
 ## PM Modi, Italy's Meloni script new chapter with ‘Special Strategic Partnership’; push defence, trade cooperation
 India and Italy have elevated their relationship to a Special Strategic Partnership. Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni announced a roadmap for cooperation. This includes defence, innovation, manufacturing, logistics, and maritime sectors. The leaders emphasized g
-
-## As India's R&D faces funding & talent crunch, Niti panel suggests 50+ fixes
-India's research and development spending lags behind global leaders. A Niti Aayog report highlights funding issues and bureaucratic delays. The report suggests increasing R&D investment to 2% of GDP. It also calls for streamlining processes and boosting manpower. Reforms aim to enhance India's rese
-
-## China's new supply chain curbs threaten India's electronics hub ambitions, industry seeks relief
-New Chinese regulations are impacting India's goal to become a global electronics manufacturing center. These curbs aim to control supply chains and can lead to penalties for companies shifting production. India's electronics industry is seeking urgent government help. The measures could affect supp
 
