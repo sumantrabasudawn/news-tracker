@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Singapore tries to keep Asia’s oil flowing
+City-state is conduit for big share of regional energy cargoes
+
+## Populist to face outgoing president’s candidate in Colombian run-off election
+Conservative Abelardo de la Espriella won most votes against leftist senator Iván Cepeda in close poll
+
+## Jay Powell warns Federal Reserve is undergoing ‘stress test’
+Former chair says Donald Trump’s attempts to fire central bankers undermine the rule of law
+
+## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
+First substantial acquisition under new CEO is bet on eventual recovery in property sector
+
+## FirstFT: Japan’s defence minister calls for talks with Beijing to resolve row
+Also in today’s newsletter: SoftBank pledges €75bn to build Europe’s biggest AI facility and EU alarm over China’s industrial base in Morocco
+
 ## Fed and BoE signal little desire to change monetary policy
 Whether it was the effects of AI or energy, they saw the benefits of an active hold at the Reykjavik Economic Conference
 
@@ -9,11 +24,11 @@ EU-western Balkan summit on expansion of bloc, Netflix co-founder Reed Hastings 
 ## Operation Jailbreak: lessons from Ukraine on making weapons talk to each other
 Defence companies join with Army personnel in hackathon to apply AI to ‘interoperability’ puzzle
 
-## The end of cheap
-After 50 years of falling capital, labour and energy prices, the next half-century will look very different for America
+## Violence mars PSG celebrations after Champions League victory over Arsenal
+French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
 
-## How Maine’s lobster revolt could cost Trump the Senate
-Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
+## Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat
+Owners of troubled travel group inject $275mn in return for creditors delaying payment dates and relaxing terms
 
 ## Africa’s response to Ebola must be defined by Africa itself
 International support matters when it aligns with strategies built alongside regional institutions and governments
@@ -24,44 +39,35 @@ Global pharmaceutical companies are increasingly looking to China as patents on 
 ## Wall Street bulls bet US stocks rally will defy bubble fears
 Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares
 
-## Violence mars PSG celebrations after Champions League victory over Arsenal
-French police make 780 arrests after Qatar-owned Paris Saint-Germain win trophy for second year running
-
-## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
-First substantial acquisition under new CEO is bet on eventual recovery in property sector
-
-## Ritz-Carlton Yacht lenders ease terms to keep luxury cruise line afloat
-Owners of troubled travel group inject $275mn in return for creditors delaying payment dates and relaxing terms
-
 ## Ferrari’s Luce is a free option on a whole new market
 Italian company’s valuation stacks up even if it never figures out a workable electric vehicle strategy
 
 ## More than half of shadow fleet oil tankers pose environmental disaster risk
 Ageing sanctioned ships should be scrapped, says leading ship recycler
 
-## Editorial. Stay the course
-MPC should retain status quo in difficult times
+## South Coast Railway, Indian Railways’ 18th Zone, begins operations
+The new zone oversees the divisions of Visakhapatnam, Vijayawada, Guntakal and Guntur, following a gazette notification issued by the Ministry of Railways on May 4
 
-## Telangana wants the duty on crude palm oil to be increased
-The State Government pointed out that when the duty rate was 44% in 2018, oil palm farmers witnessed good prices; currently the duty rate has fallen to 16.50% from 27.50% last year
+## Sensex today | Stock Market Live: Stock to buy today: Chennai Petroleum Corporation
+Sensex, Nifty, Share Prices LIVE: The stock of Chennai Petroleum Corporation has been in an uptrend since March 2025. After hitting a one-year high of ₹1,159 last month, the price moderated. However, the broader bull trend remains positive and the price stays above both 21- and 50-day moving average
 
-## As Chinars decline, one Kashmiri’s green crusade gains ground
-42-year-old resident Abdul Ahad Khan has planted over 1,500 Chinar saplings in Kashmir
+## Stock to buy today: Chennai Petroleum Corporation (₹1,056.50)
+After hitting a one-year high of ₹1,159 last month, the price moderated
 
-## Fire at Hyundai Mobis plant near Chennai; No casualties reported
-Officials indicated that a detailed evaluation would be carried out once the fire was completely extinguished and the site declared safe for inspection
+## What is Beaufort Castle and why has Israel captured it again?
+The advance comes despite a U.S.-brokered ceasefire and ongoing direct talks between Israel and Lebanon.
 
-## RBI’s rate setting panel may keep repo rate on hold
-Risks to inflation and growth stem from spike in global fuel and commodity prices, supply chain disruptions, financial markets volatility, weather-related disruptions and a depreciating Rupee
+## Israel captures historic Beaufort Castle in deepest Lebanon advance in decades
+The Crusader-era fortress overlooks large parts of southern Lebanon and northern Israel, making it a valuable military position.
 
-## CBSE acknowledges vulnerabilities in evaluation portal a week after rejecting concerns
-Ethical hacker contradicts Board’s claims
+## Vaibhav Sooryavanshi reflects on record-breaking IPL 2026 season after winning MVP award
+The Orange Cap winner averaged 48.50 and struck at a remarkable 237.30, smashing one century, five fifties and a record 72 sixes, surpassing the previous mark held by Chris Gayle
 
-## New CDS Gen Subramani & Navy Chief Admiral Swaminathan join office
+## Mumbai property registrations rise 7% in May to highest level in 14 years
+Industry experts attributed the growth to sustained end-user demand and continued confidence in Mumbai’s housing market despite global economic uncertainties.
 
+## Bapu and Bajaj
 
-## PRS report flags legislative rush: Over 600 State bills passed in 2025 with limited scrutiny
-30% of the bills were passed on the day they were introduced, with 7 assemblies of Andhra Pradesh, Bihar, Gujarat, Jharkhand, Mizoram, Puducherry and the Punjab passing legislations either on the day of introduction or the next
 
 ## FPIs take out nearly Rs 33k cr from Indian equities in May
 
@@ -87,7 +93,22 @@ Senior officials from India and the US are meeting in New Delhi to finalize an i
 ## Dalal Street outlook: What will guide market sentiments this week?
 Dalal Street anticipates a busy week driven by the RBI's interest rate decision, key economic data, and global developments like the US-Iran situation and crude oil prices. Investors will closely track manufacturing and services PMI, GDP growth, and foreign exchange reserves for market direction.
 
-## UDF govt’s proposal for menstrual leave in school stirs criticism
+## Centre to set up air-raid warning systems in 244 districts, IAF experts to be roped in
+The project will ensure that all 244 vulnerable districts have a standard, modern, and fully functional warning network to alert in the event of aerial threats
+
+## Long queues to check-in gaps: Soon, airports could be penalised over passenger service lapses
+The framework, expected to be notified by the civil aviation ministry this year, will be first attempt to create uniform service standards for major airports.
+
+## TMC claims BJP behind attacks on Abhishek, Kalyan Banerjee, plans protest
+The TMC alleged that West Bengal was witnessing complete lawlessness after its defeat to BJP in the assembly polls.
+
+## CBSE may penalise vendor over OSM flaws, blacklisting unlikely
+A CBSE official who asked not to be named acknowledged the vulnerabilities and confirmed that the contractor would be penalised.
+
+## Row erupts over Tamil poet’s saffron-clad attire
+A political controversy in Tamil Nadu arose over Thiruvalluvar depicted in saffron attire, prompting criticism from DMK and allies, while BJP defended the color.
+
+## UDF govt’s proposal for menstrual leave in Kerala schools stirs criticism
 BJP and IUML leaders criticized Kerala's proposal for menstrual leave for schoolgirls, raising concerns about privacy and suggesting alternative support.
 
 ## Kerala mother, partner held for toddler’s death
@@ -96,43 +117,28 @@ A 1.5-year-old boy in Kerala died from severe abuse by his mother and her partne
 ## West Bengal cabinet expansion today, 35 ministers to take oath
 West Bengal CM Suvendu Adhikari to swear in 35 new ministers on Monday, finalizing a cabinet after BJP's electoral victory over TMC.
 
-## 'Injustice done to RCB fans': DK Shivakumar slams IPL final venue, says Bengaluru was sidelined
-As celebrations broke out across Karnataka, Shivakumar said RCB fans in Bengaluru had missed out on witnessing the title triumph in their home city.
-
-## Doctor accused of raping 15-year-old patient at Haryana hospital
-The girl was later moved to the emergency ward after she began bleeding. It was there that she confided in senior doctors about the incident.
-
-## All about Lipulekh: The key pass that has India and Nepal locked in a 210-year-old dispute | Explained
-The latest dispute over the pass follows India and China's announcement of the 2026 Kailash Mansarovar Yatra.
-
-## Myanmar President Min Aung Hlaing meets NSA Ajit Doval on first India visit since taking office
-The visit comes less than two months after Min Aung Hlaing became President following Myanmar's parliamentary elections held in December and January.
-
-## 'He was to come home for holidays': Dreams cut short as Delhi building collapse kills two friends
-At least 6 people have so far been killed after a building collapsed near Delhi's Saket Metro Station at around 7:30 pm on Saturday.
-
-## CBSE row: Rahul Gandhi Meets students, takes dig at government
+## Magnus Carlsen pulls out ‘proper old guy move’ in win over Alireza Firouzja
 
 
-## Anushka Sharma and Virat Kohli trade flying kisses as RCB wins IPL 2026 final, watch
+## ‘He is a drug addict, was lured by easy money’: Family of Mumbai man accused in Pakistan gangster Shahzad Bhatti-linked terror module
 
 
-## ‘It’s stuff that you dream of’: Virat Kohli after guiding RCB to 2nd title
+## IPL 2026 Awards Winners List: Orange Cap, Purple Cap Holders, Most Runs and Most Wickets
 
 
-## South Coast Railway zone operational from today: How divisions, routes and train operations will change
+## Researchers find a protein that halts brain decline
 
 
-## IPL Rollercoaster: Hazlewood’s counterpunch, Unsung Rasikh & King Kohli on a kill
+## Centre aims to revive delimitation Bill, push joint polls by 2029
 
 
-## 384 structures to be demolished: BMC begins demolition drive in Mulund for GMLR project
+## 40 years ago June 1, 1986: Plan to bomb plane foiled
 
 
-## Paradise retained: How Virat Kohli and RCB defended the title
+## India-Oman pact holds promises for farms, factories and small businesses
 
 
-## WHO chief reports 5 Ebola recoveries as new treatment center opens in Congo
+## Monthly Horoscope June-2026: Aries, Taurus and Gemini – What astrological predictions have in store for you in June
 
 
 ## Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley
@@ -255,6 +261,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?
+The country has vast reserves of the ore, a source material for aluminium. But citizens still languish in poverty.
+
+## Colombia’s outsider candidate defied the polls
+Far-right outsider, Abelardo de la Espriella, will face leftist senator, Ivan Cepeda on June 21.
+
+## Donated milk reaches Cuba amid deepening shortages
+Cuba has begun distributing donated powdered milk from Mexico and Uruguay as the island faces severe shortages.
+
+## Iran war live: Israel’s expanding invasion of Lebanon draws global alarm
+France requests UN Security Council meeting over Israel's invasion of Lebanon, as Iran says talks with US continue.
+
+## Cepeda, de la Espriella advance in Colombia’s presidential election
+The left-wing senator and far-right newcomer will face each other in a run-off on June 21, with security a top issue.
+
 ## Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera
 Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.
 
@@ -263,21 +284,6 @@ South Korea is using AI-powered companion dolls to help tackle loneliness in its
 
 ## New Jersey orders curfew after immigration protests escalate
 New Jersey orders curfew after immigration protests escalate.
-
-## Ethiopia to vote in first elections since Tigray peace deal
-Four years after the formal end of Ethiopia's Tigray war, Ethiopians will be voting in general elections.
-
-## Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles
-Having never previously won the Indian Premier League, Virat Kohli seals consecutive titles as Gujarat Titans defeated.
-
-## As Ethiopia votes, its deepening human rights crisis must be addressed
-Continuing internal conflicts and deepening repression are casting a long shadow over the general election.
-
-## Ethiopia’s election is about affirming national commitment to democracy
-A national vote alone can't address all challenges in the country, but it can be a step toward democratic consolidation.
-
-## Newark mayor imposes curfew at Delaney Hall immigration detention centre
-New Jersey Governor Mikie Sherrill has called for the establishment of protest zones to minimise clashes with police.
 
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
