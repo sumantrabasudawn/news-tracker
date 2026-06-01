@@ -1,136 +1,148 @@
 # AION Intelligence
 
-## Berkshire buys homebuilder Taylor Morrison for $8.5bn in Abel’s first big deal
-First substantial acquisition under new chief is a bet on eventual recovery in property sector
+## How Maine’s lobster revolt could cost Trump the Senate
+Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
 
-## FirstFT: Nvidia targets consumer PC market
-Also in today’s newsletter: SoftBank becomes Japan’s largest company by market value and Powell says Fed in the throes of a ‘stress test’
+## Home Office bans pro-Palestinian influencers from entering the UK
+US commentators Cenk Uygur and Hasan Piker were due to attend London’s SXSW ideas festival
 
-## Transcript of an interview with Andrew Bailey
-Transcript from an interview with the governor of the Bank of England
+## Britain re-entering the EU ‘an inevitability’, says Treasury minister
+Lord Spencer Livermore said Brexit has caused the nation the loss of between 6% and 8% of GDP
 
-## US and Iran launch fresh strikes as peace efforts continue
-Washington and Tehran are still trying to formalise a ceasefire
+## Eight things we learnt from the latest Mandelson files
+Documents contain nuggets about the peer’s appointment as US envoy and the workings of Sir Keir Starmer’s government
 
-## Hungarian PM to remove president and other ‘Orbán puppets’ from office
-Péter Magyar to use parliamentary majority against predecessor’s appointees
+## SoftBank data centre offers France AI sovereignty with strings
+The plans are undoubtedly grand but it’s impossible to tell what capacity will be required when the 2030s kick off
 
-## Submit your questions: Ten years on, what’s next for Brexit?
-Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, on Thursday June 4, at 1pm BST
+## Anthropic files for blockbuster initial public offering
+Move sets up race with OpenAI and SpaceX, testing Wall Street’s appetite for the AI boom
 
-## Chinese firms’ market share gains driven by subsidies, says OECD
-Companies in China benefit from eight times more state support on average than rich-world rivals, report claims
+## Mandelson files expose criticism of Starmer’s ‘advance/buckle’ premiership
+Documents reveal remarkable extent of former envoy’s influence across government policy
 
-## UK house prices fall in May amid Iran turmoil
-Higher mortgage rates blamed for Nationwide index’s first monthly decline this year
+## Iran suspends peace talks and threatens ‘closure’ of Strait of Hormuz
+Tehran escalates tensions to protest against Israeli offensive in Lebanon
 
-## Wise shares slump over money laundering investigation
-London-headquartered fintech says it is responding to questions from Belgian authorities
+## Florida sues OpenAI and Altman for ‘hurting’ children
+State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused
+
+## Royal Mail faces UK regulatory probe over ‘unacceptable’ service levels
+Ofcom says postal service has started to improve but bemoans continuing ‘deep frustrations’ for customers
+
+## Drahi’s indebted US cable group escalates fight with creditors
+Optimum Communications transfers its most valuable US pay-TV and broadband assets out of reach
+
+## Barry Diller launches $18bn takeover offer for MGM Resorts
+Casino resort group’s shares jump 15% after media veteran’s company People Inc makes take-private bid
+
+## BP’s head of gas and low carbon to leave group
+William Lin’s departure after 30 years at energy company follows sacking of chair last week
 
 ## EasyJet says takeover bid would be ‘highly opportunistic’ as shares jump
 US private credit group Castlelake says it is considering an approach for low-cost carrier
 
-## SoftBank overtakes Toyota after over 20 years to become Japan’s largest company
-Demand for AI stocks powers tech giant’s shares as it takes top spot by market capitalisation
+## Wise shares slump over money laundering investigation
+London-headquartered fintech says it is responding to questions from Belgian authorities
 
-## French private equity group Ardian backs €5bn AI ‘gigafactory’ outside Paris
-Data centre and research facility to be built as Europe seeks to create ‘digital backbone for the future’
-
-## Cochin Port Authority’s outsourcing plans spark union protest
-The Forum also expressed concern over the sharp decline in the workforce, which has reportedly fallen to 475 regular workers, excluding officers, due to the non-filling of vacancies arising from retirements over several years. T
-
-## Karnataka Bank conducts annual conference of concurrent and internal auditors
-The conference served as an important platform for discussions on best practices in internal control and governance
-
-## Royal Enfield sales up 15% in May at 1,03,231 units
-Exports were down 33 per cent at 9,116 units in May, from 13,609 units in the comparable month of last year
-
-## Asian Granito India net profit jumps 90% in FY26, revenue at ₹1,858 crore
-Revenue rises 8.6% to ₹1,858 crore on strong domestic demand
-
-## Major hydropower expansion in J&K underway as Uri-I Stage-II moves ahead
-The hydropower project, coming up in north Kashmir’s Baramulla district, is expected to add 240 megawatts of electricity generation capacity to Jammu and Kashmir’s power sector once completed.
-
-## India, Myanmar to stay in touch on issue of critical minerals, rare earths; take cooperation forward: MEA
-Modi and U Min Aung Hlaing discuss defence training, border security and bilateral ties during Delhi talks
-
-## Crypto exchange Binance rolls out trading in US stocks, ETFs
+## Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand
 
 
-## Delhi’s Jan-May average AQI lowest in 8 years barring 2020: CAQM
-According to the CAQM, Delhi also witnessed a higher number of days with relatively cleaner air during the January-May period this year
+## Editorial. Market for charity
+Reform of social stock exchanges, a work in progress
 
-## Centre floats second global tender for 70 lakh tonne urea despite surge in prices
-Amidst a volatile global market and Middle East disruptions, India has launched a second tender for 70 lakh tonnes of urea to secure sufficient fertilizer for the kharif season. Despite soaring international prices, the government is ensuring supplies, with 25 lakh tonnes of urea and 50 lakh tonnes 
+## West Asia impact: Fiscal deficit in April doubled
+Government’s fiscal deficit surged nearly 94 per cent in April due to falling tax revenue and rising expenditures, raising economic concerns.
 
-## New IIP series shows factory output rises 4.9% in April, manufacturing leads with 6.2% expansion
-India's industrial production saw a robust 4.9% growth in April 2026, propelled by a strong manufacturing sector. The newly revised IIP series, with a 2022-23 base year, highlights significant gains in motor vehicles, electrical equipment, and machinery. Investment-linked sectors like capital goods 
+## GST revenue tops ₹1.94 lakh crore in May, driven by broad-based growth in consumption
+Government sources said growth was broad-based across all major goods and services categories, with taxable supplies in the goods sector rising 26.9 per cent and services sector growing 22.2 per cent.
 
-## UPI clocked its biggest month in May, transactions surpass Rs 29.90 lakh crore
-India's UPI transactions reached record highs in May, with 23.2 billion transactions valued at Rs 29.90 lakh crore. This growth, driven by summer travel and seasonal spending, signifies a healthy upward trajectory for the digital payments ecosystem. Future expansion is anticipated through Credit-on-
+## Nifty-50 valuation faces test as global capital chases faster earnings growth
+Nifty 50 companies recorded year-to-date earnings growth of just 1.3 per cent, placing India ahead of only China’s SHCOMP (-3.8 per cent) and Singapore’s STI (-5.8 per cent) among the major emerging market indices tracked
 
-## I-T relief over flat from dad sans gift deed
+## E4W registrations surge 82% in May as rising fuel prices and new model launches accelerate EV adoption
+Steep increase in petrol and diesel prices during May widened the running-cost advantage of EVs, while a growing range of products across segments, attracted a broader set of buyers, say experts
 
+## Factory output expanded by 4.9% in April
+Despite global economic challenges, factory output grew by 4.9% in April, according to the new Index of Industrial Production
 
-## 'All major issues settled': Centre's big update on US-India trade deal
-India and the United States are nearing the finalization of their first bilateral trade agreement tranche, with most key details settled. A high-level US delegation is in New Delhi for crucial negotiations, aiming to conclude an interim pact. Both nations are confident of signing the agreement soon,
+## Carmakers see high demand in May despite West Asia disturbance
+Maruti Suzuki records highest-ever monthly sales, Tata Motors dethrones M&M to become No.2 in May
 
-## India-Oman trade pact: Govt builds 'Plan B' amid Hormuz crisis - why deal is key for energy future
-Amidst Middle East chaos impacting the Strait of Hormuz, India's new free trade agreement with Oman, effective June 1, offers a strategic alternative. Oman's location outside the Strait provides a reliable gateway for trade and energy, as evidenced by recent import surges from the nation.
-
-## IT stocks rally: Why are Infosys, TCS and Tech Mahindra shares surging despite AI disruption fears?
-Indian IT stocks surged Monday, with major players like Infosys and TCS gaining up to 5%. This rebound follows months of AI-driven pessimism, as investors reassess sector valuations ahead of a key US Federal Reserve meeting. Technical indicators suggest a potential short-term recovery, though analys
-
-## Trump once slammed Biden for touching US oil reserves, now he's draining it: Report
-The U.S. is drawing heavily from its Strategic Petroleum Reserve, releasing approximately 50 million barrels since the conflict with Iran began. These withdrawals are pushing emergency oil stockpiles to multi-decade lows, with significant amounts being exported. Analysts warn this depletion necessit
-
-## TMC forgery case filed by 2 MLAs, says Suvendu Adhikari; Mamata expels them
-Ritabrata, who referred to himself as a whistleblower, said the May 6 meeting was only called to give Abhishek Banerjee a standing ovation and no resolution was passed
-
-## 'All major points settled': First tranche of India-US trade deal soon, says Piyush Goyal
-Speaking at a press conference, the BJP leader added that all major points have been settled between the delegations.
-
-## Twisha ‘dowry death’ case: CBI recreates crime scene with mother-in-law Giribala, husband Samarth in Bhopal
-According to officials, the CBI team also reportedly attempted to establish a minute-by-minute timeline to understand Twisha Sharma's death.
-
-## Monkey's cash heist at UP court: ₹2 lakh bag snatched, currency notes rain from tree | Video
-The bizarre incident happened within the district court premises of Bulandshahr in Uttar Pradesh
-
-## Fire rips through fish market in Odisha’s Cuttack, guts over 30 shops, bank
-According to preliminary estimates, around 17 fish traders who operated from the market suffered extensive losses
-
-## Manipur: Minors caught in crossfire pick up guns, bombs, lose their innocence
-114 minors allegedly involved in 95 cases have been booked under Unlawful Activities (Prevention) Act (UAPA) between May, 2023 and April this year, state social welfare department data showed
-
-## Govt to retain AI labelling rule, bring schedule for advisories
-The proposals are part of amendments to the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, released for public consultation earlier this year
-
-## ‘Beware of pickpockets’: Rahul Gandhi slams CBSE, Modi govt over re-evaluation process
-Sharing a snippet of his conversation with some students on X, Gandhi said that students are having to pay for CBSE's mistakes.
-
-## 13 cities, 30 days, Rs 10 lakh: Why an American couple’s India travel bill has stunned the Internet
+## Anthropic eyes Wall Street debut; Claude maker files confidentially for IPO
 
 
-## PAK Vs AUS 2nd ODI Live Streaming: When, Where To Watch Pakistan Vs Australia Live On TV & Online
+## Sovereign Gold Bond redemption in June 2026: Check SGB premature withdrawal dates, eligibility and process
+Sovereign Gold Bond (SGB) investors who purchased bonds between 2019 and 2021 can now apply for premature redemption in June 2026. The Reserve Bank of India has opened redemption windows for five specific bond tranches, requiring investors to submit requests within strict timelines to avoid rejectio
+
+## GVK Group forays into fertility care with Oval Fertility
 
 
-## 24 years in Army, stroke during service: Court upholds disability pension for veteran
+## Sebi proposes relief for road InvITs, may allow maintenance debt to be added back in cash flow calculations
+Sebi has proposed allowing road InvITs to add back major maintenance expenses funded by external debt when calculating Net Distributable Cash Flow (NDCF). This move aims to address industry concerns about reduced distributable cash, as these expenses, though crucial for asset longevity, cannot be ca
+
+## Rupee falls 34 paise to close at 95.19 against US dollar amid rising crude prices
+The rupee weakened by 34 paise to 95.19 against the US dollar on Monday, impacted by escalating US-Iran tensions, soaring crude oil prices, and a stronger dollar. Global risk sentiment soured due to West Asia concerns. Analysts anticipate continued negative bias for the rupee, with a trading range o
+
+## Brajesh Kumar Singh appointed MD & CEO Canara Bank
 
 
-## ‘I wish for her to be an athlete’: Alia Bhatt explains why she wants a non-Bollywood future for daughter Raha; expert weighs in
+## Keeping India's growth story intact: 5 lessons from Middle East conflict that should not be ignored
+Short-term global economic shocks, like the ongoing Middle East conflict, have the potential to temporarily slow the growth story - a fact that cannot be ignored if India hopes to be among the top three world economies in the coming years.
+
+## US stock market today (June 1, 2026): S&P 500 hovers near record as Nvidia gains offset oil price worries
+Indian markets shrugged off rising oil prices due to US-Iran tensions, as tech giants like Nvidia propelled stocks near record highs. Strong corporate earnings, particularly from Science Applications International Corp., also bolstered investor confidence. Despite concerns about market concentration
+
+## Students protest outside education ministry, demand Dharmendra Pradhan's resignation
+Fresh protests erupted outside the Ministry of Education on Monday amid continuing outrage over recent exam glitches regarding NEET-UG, CBSE and CUET
+
+## INDIA bloc likely to meet in Delhi on June 8 to discuss strategy, reinforce unity
+The last official meeting of the Indian National Developmental Inclusive Alliance (INDIA) was held in New Delhi in 2024, ahead of the Lok Sabha election.
+
+## Assam man arrested for 10-yr-old’s rape shot. Cops say he tried to escape
+Additional superintendent of police (Addl SP) Kamrup Metro district Daisy Gogoi said the suspect was accused of raping the minor girl around 15 days back.
+
+## Australia-India target maritime security road map during PM Modi’s visit: Marles
+Marles noted that he and Singh had met ahead of Modi’s visit to Australia for an annual summit with Prime Minister Anthony Albanese
+
+## CBSE's own ‘corrigendum’ means it can't blacklist company linked to OSM mess. Here's how that unfolded in tender process
+A September 2025 corrigendum removed blacklisting provisions from the tender before Coempt Edu Teck won the contract on December 5, sources told HT
+
+## No 'clean chit' to PM over NEET: Congress leader Jairam Ramesh on paper leak
+The Congress leader criticised the administration for their “system” which has affected examinations conducted by the CBSE as well
+
+## Six arrested in Assam after months of abuse leaves 12-year-old girl pregnant
+The arrests took place in Majuli, a river island district in Assam, following a criminal complaint filed by the girl’s family on Sunday.
+
+## Teens and the 'Cockroach': Online anger hits the ground with CJP's Delhi protest plan, Dipke says ‘meet me at airport’
+Cockroach Janta Party's Abhijeet Dipke plans return from US; his protest call caps weeks of anger over four examinations in particular.
+
+## Teams can shift from red ball to pink in Test to deal with bad light
 
 
-## CPM’s young Turk to Trinamool’s expelled MLA: Ritabrata Banerjee’s political arc
+## Power, blood, glory: Sumit Antil’s arduous road to world record number 10
 
 
-## Rashmika Mandanna admits ‘Japan was extra fun this year’ with husband Vijay Deverakonda. Watch
+## ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
 
 
-## Beyond NEET paper leak: Expanding supply is the only lasting solution
+## Peter Heine Nielsen: ‘Gukesh’s team had courageous strategy vs Ding Liren’
 
 
-## J-K Lt Governor’s anti-drug drive gets unlikely ally — Jamaat splinter group JDF
+## Mumbai’s legendary Ashok Vada Pav ranks 25th in TasteAtlas’ ‘World’s Most Iconic Sandwiches’ list
 
+
+## Myanmar explosion toll rises to 55. What we know so far
+
+
+## The Four Eyes that keep Satwik & Chirag on the right track
+
+
+## Ladakh eases excise rules, expands hard liquor sales to boost tourism
+
+
+## Chinese EV makers recover in May but competition remains fierce amid overcapacity woes
+Sales of electric vehicles (EVs) in China recovered on solid footing in May, as new models fitted with higher-performance batteries and more advanced driver assistance systems drew consumers amid intensified competition. Zeekr, a premium EV brand owned by Geely Auto, the country’s second-largest car
 
 ## Closure of Hong Kong’s Casa Hotel tied to student-housing trend after failed sale attempts
 Casa Hotel, a boutique hotel in Hong Kong’s Yau Ma Tei district, has ceased operations after nearly two decades, with market speculation suggesting the building has been leased to a student-housing operator after repeated attempts to sell it failed. A notice posted outside the three-star hotel said 
@@ -153,8 +165,17 @@ Businesses around the world are confronting a painful – and potentially long-l
 ## Hong Kong government’s venture fund eyes bigger bankroll after double-digit return
 The government’s investment arm achieved a double-digit internal rate of return last year, greater than many newly established venture capital funds, according to its CEO. “Many overseas funds have a J-curve performance, as they tend to suffer an initial loss before a gain,” said Clara Chan Ka-chai,
 
-## Nvidia, Unitree and Sharpa unite to design humanoid robot that can perform ‘real work’
-Nvidia has partnered with Chinese robotics champion Unitree Robotics and Singapore robotic hand maker Sharpa to release a new humanoid robot reference design to accelerate innovation in the global humanoid industry, the US chip giant’s CEO, Jensen Huang, announced on Monday. The new design, called H
+## Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
+Islamabad is happy to give the U.S. president the image he craves.
+
+## The Epidemic of GPS Jamming
+Across the world, signals crucial for safe air and sea travel are being disrupted.
+
+## Washington Wants Myanmar’s Minerals
+Democracy promotion is out, and the race to engage the country’s junta is on.
+
+## Can the State Department Make Europe Great Again?
+A small but influential office will soon announce grants to support Trump administration causes in Europe.
 
 ## The Energy Crisis Will Long Outlast the Iran War
 The baked-in damage to oil and gas production will take months to undo.
@@ -167,18 +188,6 @@ What a very 1990s scandal says about corruption during the second Trump administ
 
 ## U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Both countries have refuted the allegations and accused the agency of bias.
-
-## What Iran Stands to Gain From a Truce Deal With the United States
-U.S. concessions could include the unfreezing of assets and unsanctioning of oil.
-
-## As Trade Talks Begin, U.S.-Mexico Ties Falter
-Bilateral relations have reached a breaking point at a crucial moment for the USMCA.
-
-## What Magyar Means for MAGA
-Mellower European populists have killed some Republicans’ dreams of a far-right alliance.
-
-## The Dollar Was—and Remains—an Accident
-As a new book shows, the dollar isn’t really the United States’ currency, but a 500-year-old relic.
 
 ## Philippines, Vietnam Upgrade Diplomatic Partnership Amid Maritime Tensions With China
 President Ferdinand Marcos Jr. stated that maintaining peace, stability, and the freedom of navigation in the South China Sea "remains non-negotiable" for both nations.
@@ -204,6 +213,9 @@ It’s almost eerie how easily contemporary China discourse parallels U.S. rheto
 ## Penpa Tsering’s Re-election and the Institutional Future of the Tibetan Movement
 The Tibetan movement has long been dependent on the personal moral authority of the Dalai Lama. In a post-Dalai Lama world, the Central Tibetan Administration will need to step up.
 
+## Building a Better Ukraine Requires Accessibility Reforms
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
+
 ## Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement
 One of the most effective counter-drone systems in the largest drone war in history between Ukraine and Russia is a German anti-aircraft gun designed during the Cold War. The Gepard — a self-propelled 35 mm cannon that first entered service in 1976 — has earned recognition from Ukrainian military ex
 
@@ -224,9 +236,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## What Would Relations with Post-War Russia Look Like?
 Rose Gottemoeller joined Ryan in Washington. They discussed how the West might think about relations with Russia once the war with Ukraine ends, as well as nuclear diplomacy and other critical issues. Gottemoeller was the deputy secretary general of NATO and, before that, served as a senior State De
-
-## Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains
-In 2024, when Jiangsu Delong, the world’s second-largest stainless-steel producer, filed for bankruptcy, several Chinese firms and state-owned enterprises quietly absorbed its Indonesian assets. Among them was China First Heavy Industries, a state-owned enterprise founded in 1954 as one of China’s e
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How could El Nino reshape tropical storms around the world this year?
-El Nino tends to reduce hurricanes in the Atlantic while increasing storms in the Pacific Ocean.
+## Israeli strike damages hospital in southern Lebanon
+An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.
 
-## Greece reopens Syrian and Afghan asylum cases, hoping for returns
-Greece's migration minister recently said Athens does not share common values with 'hardcore Islam'.
+## Ethiopians head to polls as millions excluded from elections
+Ethiopians head to polls as millions excluded from elections.
 
-## England World Cup 2026 team preview: Players to watch, group and squad list
-England cruised through qualifying, but some fans are concerned over the squad selection and the form against top teams.
+## Activists plaster missing posters around Mexico stadiums ahead of World Cup
+Activists put up missing persons posters to raise awareness of the disappearance crisis ahead of the 2026 World Cup.
 
-## French Navy seizes Russian oil tanker
-French Navy seizes Russian oil tanker
+## Former general for Syria’s Assad pleads not guilty in torture trial
+Brigadier General Khaled al-Halabi faces charges of aggravated torture, coercion, sexual coercion and bodily harm.
 
-## What is Lebanon’s Beaufort Castle, and why has Israel captured it?
-The fortress, a historical battleground, is playing a central role in Israel’s military campaign against Hezbollah.
+## Nvidia unveils new chip to bring AI directly to personal computers
+Nvidia's new chip will power new Windows laptop and desktop computer models to make 'AI personal computers'.
 
-## Kuwait condemns Iranian attack as Iran-US trade new strikes
-Kuwait activated its air defences after what its foreign ministry later described as a ‘heinous Iranian attack’.
+## Can cohosts Canada reach the knockout stages at World Cup 2026?
+Canada are playing only their third World Cup, but have high hopes for a talented squad under coach Jesse Marsch.
 
-## French navy, backed by the UK, intercepts Russian oil tanker
-According to France, the tanker, which had sailed from Murmansk, was trying to 'skirt international sanctions'.
+## International court rejects Rwanda’s claim over UK migration deal
+Rwanda's $134m claim has been thrown out, which bodes ill for other governments seeking 'return hubs'.
 
-## Ethiopia holds elections with PM Abiy’s party expected to dominate
-Voting will not take place in northern Tigray region and some parts of the Amhara region amid insecurity.
+## Protest outside Kenya’s planned US Ebola quarantine centre
+Hundreds rally against plan to send US nationals exposed to the virus to Laikipia Air Base.
 
 ## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
 Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
