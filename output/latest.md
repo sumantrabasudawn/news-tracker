@@ -1,22 +1,34 @@
 # AION Intelligence
 
-## Italy labour abuse crackdown spreads to US group building Milan consulate
-Caddell Construction executive detained amid investigation into alleged ‘quasi-slavery’ of migrant workers
+## Alphabet to sell $80bn in stock to fund AI spending spree
+Landmark fundraising plans include $10bn private placement to Berkshire Hathaway
+
+## Confidence in the value of a degree hits record low in England
+BSA survey results come as the student loan system faces growing scrutiny
+
+## UK cancer services left ‘fragile’ by the pandemic
+More than one in five cases were missed during lockdowns according to new research
+
+## Trump drops $1.8bn ‘anti-weaponisation’ fund
+Legal challenges and pushback from Republican lawmakers prompt U-turn from the US president
 
 ## Trump claims Israel and Hizbollah agree ceasefire after Iran threats
 President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher
 
-## How Maine’s lobster revolt could cost Trump the Senate
-Soaring prices as a result of tariffs and fuel prices leave fishermen and farmers rethinking support for US president ahead of midterms
+## FirstFT: SoftBank overtakes Toyota to become Japan’s largest company
+Also in today’s newsletter: Iran suspends peace talks with US, and China’s last frontier
 
-## Home Office bans pro-Palestinian influencers from entering the UK
-US commentators Cenk Uygur and Hasan Piker were due to attend London’s SXSW ideas festival
+## HPE shares soar 37% on booming demand for AI infrastructure
+Data centre equipment provider says sales of servers and networking equipment are rising rapidly
 
-## Britain re-entering the EU ‘an inevitability’, says Treasury minister
-Lord Spencer Livermore said Brexit has caused the nation the loss of between 6% and 8% of GDP
+## Mette Frederiksen secures third term as Danish premier after coalition deal
+Nordic leader cobbles together a four-party centre-left government after more than two months of talks
 
-## Eight things we learnt from the latest Mandelson files
-Documents contain nuggets about the peer’s appointment as US envoy and the workings of Sir Keir Starmer’s government
+## Italy labour abuse crackdown spreads to US group building Milan consulate
+Caddell Construction executive detained amid investigation into alleged ‘quasi-slavery’ of migrant workers
+
+## BP backs Amanda Blanc to lead second chair search despite City unease
+Oil major’s senior independent director took lead on appointing shortlived chair Albert Manifold
 
 ## SoftBank data centre offers France AI sovereignty with strings
 The plans are undoubtedly grand but it’s impossible to tell what capacity will be required when the 2030s kick off
@@ -24,20 +36,8 @@ The plans are undoubtedly grand but it’s impossible to tell what capacity will
 ## Anthropic files for blockbuster initial public offering
 Move sets up race with OpenAI and SpaceX, testing Wall Street’s appetite for the AI boom
 
-## Alphabet to sell up to $80bn in shares to fund its AI build-out
-Capital raising includes $10bn private placement to Berkshire Hathaway
-
-## BP backs Amanda Blanc to lead second chair search despite City unease
-Oil major’s senior independent director took lead on appointing shortlived chair Albert Manifold
-
 ## Florida sues OpenAI and Altman for ‘hurting’ children
 State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused
-
-## Royal Mail faces UK regulatory probe over ‘unacceptable’ service levels
-Ofcom says postal service has started to improve but bemoans continuing ‘deep frustrations’ for customers
-
-## Drahi’s indebted US cable group escalates fight with creditors
-Optimum Communications transfers its most valuable US pay-TV and broadband assets out of reach
 
 ## Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand
 
@@ -87,6 +87,15 @@ Nandan Nilekani is poised for a third term as Infosys chairman. His focus will b
 ## Industrial output growth slows to 4.9% from 5.7%
 Industrial production growth eased to 4.9% in April 2026, impacted by a dip in mining. However, manufacturing and electricity generation showed robust gains, pushing sequential output higher. Capital goods and infrastructure segments continue to expand strongly, indicating sustained investment, thou
 
+## Centre notifies appointment of five Supreme Court judges
+The Union government appointed four high court chief justices and V Mohana as Supreme Court judges, expanding the court's strength to 36 judges.
+
+## Gavi commits $50mn to support the response to Bundibugyo Ebola
+Gavi will allocate up to $50 million to combat the Bundibugyo ebola outbreak, focusing on vaccine development and outbreak response efforts.
+
+## Supreme Court orders sweeping clean-up of Agasthyamalai landscape
+The court directed stringent disciplinary, penal and criminal action against officials who facilitated or permitted unlawful infrastructure inside forest areas and warning that paramilitary forces may be deployed if state authorities fail to enforce its directions.
+
 ## CBSE misses June 1 deadline to relaunch Class 12 verification and re-evaluation portal
 A four-member team comprising experts each from IIT was deputed to conduct a technical audit of the portal, examine workflows and help resolve glitches.
 
@@ -102,14 +111,17 @@ Additional superintendent of police (Addl SP) Kamrup Metro district Daisy Gogoi 
 ## Australia-India target maritime security road map during PM Modi’s visit: Marles
 Marles noted that he and Singh had met ahead of Modi’s visit to Australia for an annual summit with Prime Minister Anthony Albanese
 
-## CBSE's own ‘corrigendum’ means it can't blacklist company linked to OSM mess. Here's how that unfolded in tender process
-A September 2025 corrigendum removed blacklisting provisions from the tender before Coempt Edu Teck won the contract on December 5, sources told HT
+## TMC will be stronger, says Mamata Banerjee as she sits on dharna today
 
-## No 'clean chit' to PM over NEET: Congress leader Jairam Ramesh on paper leak
-The Congress leader criticised the administration for their “system” which has affected examinations conducted by the CBSE as well
 
-## Six arrested in Assam after months of abuse leaves 12-year-old girl pregnant
-The arrests took place in Majuli, a river island district in Assam, following a criminal complaint filed by the girl’s family on Sunday.
+## ‘House built on govt land’: Main suspect’s family gets notice to remove ‘violation’ within 15 days
+
+
+## Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says
+
+
+## Rank wasn’t my focus: Pune’s Arohi tops JEE (Advanced) among girls
+
 
 ## Lactose intolerant patches are here: Expert urges caution
 
@@ -123,17 +135,8 @@ The arrests took place in Majuli, a river island district in Assam, following a 
 ## Teams can shift from red ball to pink in Test to deal with bad light
 
 
-## Power, blood, glory: Sumit Antil’s arduous road to world record number 10
-
-
-## ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
-
-
-## Peter Heine Nielsen: ‘Gukesh’s team had courageous strategy vs Ding Liren’
-
-
-## Mumbai’s legendary Ashok Vada Pav ranks 25th in TasteAtlas’ ‘World’s Most Iconic Sandwiches’ list
-
+## Food Republic joins wave of foreign brands retreating in China
+Food Republic, the Singaporean food court chain owned by BreadTalk Group, is set to close its last remaining outlet in Beijing on June 15, ending more than two decades in the Chinese capital, according to a notice outside the location in late May. Its closure comes amid a wave of store shutdowns amo
 
 ## Chinese EV makers recover in May but competition remains fierce amid overcapacity woes
 Sales of electric vehicles (EVs) in China recovered on solid footing in May, as new models fitted with higher-performance batteries and more advanced driver assistance systems drew consumers amid intensified competition. Zeekr, a premium EV brand owned by Geely Auto, the country’s second-largest car
@@ -156,8 +159,8 @@ China’s home prices saw a modest recovery in May, adding to growth in March an
 ## Businesses face huge spike in shipping costs as Hormuz fuel crisis deepens
 Businesses around the world are confronting a painful – and potentially long-lasting – rise in costs amid the US-Israel war on Iran, as global shipping firms introduce steep price increases to offset a mounting fuel crisis. In Shanghai, one of the world’s busiest ports, the price of shipping a conta
 
-## Hong Kong government’s venture fund eyes bigger bankroll after double-digit return
-The government’s investment arm achieved a double-digit internal rate of return last year, greater than many newly established venture capital funds, according to its CEO. “Many overseas funds have a J-curve performance, as they tend to suffer an initial loss before a gain,” said Clara Chan Ka-chai,
+## Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
+Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
 
 ## A Trump Deal With Iran Could Spell Trouble for Netanyahu
 The Israeli leader needs a win ahead of a key election.
@@ -179,9 +182,6 @@ The baked-in damage to oil and gas production will take months to undo.
 
 ## Germany Is Scrambling to Speed Up Its Rearmament
 Berlin has already made a huge commitment to its military—but is facing new obstacles at home and abroad.
-
-## Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
-What a very 1990s scandal says about corruption during the second Trump administration.
 
 ## Vietnam’s Quiet Strategy at the Shangri-La Dialogue
 At the Shangri-La Dialogue, Hanoi has sought to shape the terms of the regional security debate.
@@ -255,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Violent protests erupt in Chile over government cuts of social programmes
+Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.
+
+## US court upholds injunction against Trump policy banning transgender troops
+The decision was split, allowing the Trump administration to continue barring transgender people from enlisting.
+
 ## Who attended this year’s Israel Day Parade in New York?
 Al Jazeera’s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade.
 
@@ -272,12 +278,6 @@ Hundreds have protested in central Kenya against a US-funded plan to quarantine 
 
 ## Is the US-backed Gaza peace process in serious danger?
 Israel killing more Palestinians, moves to seize 70 percent of Gaza Strip
-
-## Protesters call on Kenyan government to halt femicide crisis
-Advocacy groups have given the government 40 days to intervene to deal with the plague of gender-based violence.
-
-## Armenian PM rejects Russia’s demand for EU referendum as relations nosedive
-Russia is raising the pressure on Armenia as traditional ally looks to the West.
 
 ## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
 Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
