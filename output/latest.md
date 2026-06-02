@@ -1,43 +1,58 @@
 # AION Intelligence
 
+## Trump signs watered-down AI vetting order after Maga infighting
+President’s directive will allow the US government to gain early access to cutting-edge models
+
 ## Kyle included ‘more positive language’ in AI speech after Mandelson advice
 Documents raise questions since the advisory firm co-founded by Labour veteran represented big AI companies
 
-## Starmer uses disappearing messages, admits Downing Street
-Use of function on mobile devices prompts fresh scrutiny of transparency over appointment of former US ambassador
+## UK rightwing leaders call for ‘rage’ in response to student’s murder
+Nigel Farage urges probe into police handling of case after killer accused victim of racial abuse
 
-## The China-US tech truce is fragile
-A new wave of supply chain conflict is brewing
+## Seven states sue US for paying $1bn to make Total exit wind power
+New York leads lawsuit challenging Trump administration’s effort to make French company reinvest in fossil fuels
 
-## Trump appoints real estate heir as head of US national intelligence
-Housing industry executive Bill Pulte has no known experience in national security
+## Anthropic to expand Mythos access to more than 15 countries
+About 150 organisations will be given advanced cyber security model following requests from around the world
 
-## Shipping tycoon prefers $200,000 fee to cross Strait of Hormuz to ‘this hassle’
-Paying a toll would be better than strategic waterway remaining closed, says billionaire football club owner
+## Goldman’s David Solomon sees ‘more greed than fear’ on Wall Street
+Comments underscore bullish outlook that helped push S&P 500 to records on half of all trading days last month
 
-## Jolts data shows US labour market is in stagnation not freefall
-Lay-offs rate has remained stable and few signs of downturn in cyclical industries weaken case for rate cuts
+## Mexico rebukes US ambassador in growing narco spat
+President Claudia Sheinbaum says Washington must ‘respect’ internal issues in row over US indictments of politicians
 
-## Ex-SNP chief used false invoices to cover up his £400,000 embezzlement
-Peter Murrell utilised party account and charge card to buy goods including vehicles and watches for personal use, court told
+## Cuba’s unavoidable reckoning
+US pressure is of dubious morality, but Havana has little choice but to do a deal
 
-## Ed Miliband calls for UK to cut greenhouse gas emissions by 87% by 2040
-Energy secretary’s proposed legally binding target sets up battle with opposition parties over ‘net zero’ policies
+## Microsoft targets Anthropic with new model releases
+Software giant’s AI chief Mustafa Suleyman says focus is on developing products for business users
+
+## BP held talks about selling £2bn of UK North Sea assets to Ithaca
+Oil major still exploring a deal despite failed discussions as CEO Meg O’Neill pursues restructuring
+
+## South West Water fined record £1.9mn after parasite outbreak
+Pennon-owned utility pleaded guilty to supplying water unfit for human consumption
 
 ## Most activist investors are not really activist investors
 Persistent bullying works best: study
 
-## Gunvor offices raided by Swiss prosecutor as part of bribery probe
-Commodity trader claims it is victim of $2mn fraud perpetrated by counterparty and ex-employee
+## Mamata Banerjee leads protest against BJP over alleged attacks on Trinamool leaders and workers
+TMC supremo vows to fight BJP, announces INDIA bloc meeting in Delhi soon
 
-## Wise money laundering probe hits at fintech’s fundamental flaw
-Investigation comes at a particularly bad time given its recent transatlantic stock market move
+## Maharashtra cabinet clears ₹2 lakh farm loan waiver scheme, adds repayment incentives
+The scheme is expected to benefit around 56 lakh farmers and includes three components — loan waiver, one-time settlement and repayment incentives.
 
-## Adnoc plans new UAE pipeline to bypass Strait of Hormuz
-Move by state-run oil group comes as Iran war highlights region’s reliance on key shipping route
+## IndiGo to suspend Manchester flights from August 31 amid rising costs and airspace constraints
+As part of the move, IndiGo will return one of the Boeing 787-9 Dreamliners leased from Norse Atlantic Airways
 
-## Anthropic to expand Mythos access to more than 15 countries
-About 150 organisations will be given advanced cyber security model following requests from around the world
+## Balmer Lawrie expects rail logistics revenue to cross ₹200 crore annually from FY28
+Balmer Lawrie has secured a 10-year NMDC Steel contract worth about ₹2,500 crore, marking the largest revenue win in the PSU’s history and significantly boosting its rail logistics business
+
+## Unilever CEO reaffirms focus on India opportunity, eyes premium segment growth
+Despite intense price competition, the company remains focused on defending market share and driving volume-led growth
+
+## India, UK discuss sticking points delaying free trade pact implementation
+India has raised concerns over Britain’s new steel safeguard measures and the proposed Carbon Border Adjustment Mechanism, which could impact Indian exports
 
 ## Alkem Laboratories promoters sell 1.5% stake for ₹930 crore via block deal
 Following the transaction, promoter group member Jayanti Sinha exited the company, while overall promoter holding declined to 49.71% from 51.20%
@@ -45,53 +60,41 @@ Following the transaction, promoter group member Jayanti Sinha exited the compan
 ## Tata Sons Chairman Chandrasekaran visits TASL’s upcoming Defence MRO facility in Bengaluru
 Spread across 16 acres and spanning 15,000 square metres, the facility is scheduled to be commissioned by December-end 2026
 
-## Excise collection rises to highest in three years in April despite fuel duty cut
-Expenditure on fertiliser subsidies surges with urea subsidy rising 56%
+## Citi: India's AI advantage needs better articulation
+Citi's Vis Raghavan notes muted FDI in India due to energy dependency and AI uncertainty, despite strong domestic sentiment. He highlights the need for India to articulate its AI-driven global economy position, emphasizing its cost advantage in compute and potential as a global AI hub.
 
-## India cuts foodgrains output target amid below normal monsoon forecast
-No release of separate target for each kharif crop seen as the move to avert price rise
+## IPO plans: Oyo gets nod, Coke eyes listing of bottler's parent
+Despite challenging global markets, several major Indian companies are pushing ahead with IPO plans. Oyo's parent, Prism, received regulatory approval for a Rs 6,650 crore offering. Coca-Cola is also exploring a $1 billion listing for its Indian bottling arm, Hindustan Coca-Cola Holdings, in 2027. O
 
-## Developers say red tape, not just land prices, is driving Bengaluru home costs
-Multiple approvals, including B Khata-to-A Khata conversions, land-use changes and registrations, continue to delay projects and slow Bengaluru’s urban development
+## High costs dampen summer for beverage companies
+Companies are facing rising costs for both cans and glass bottles this summer, impacting beer and soft drink manufacturers. Supply disruptions from West Asia for aluminium cans and increased LPG costs have led to price hikes of 15-20% for packaging. Distributors anticipate a Rs 10 price increase for
 
-## India’s air cargo grows despite West Asia disruptions; Chennai leads growth among major airports
-Strong export demand and e-commerce drive air freight growth higher
+## Producer price index, revised wholesale price index set to come on June 15
+India is set to introduce a Producer Price Index (PPI) on June 15, alongside a revised Wholesale Price Index (WPI). The government plans to phase out WPI within five years, adopting PPI as the primary measure for factory gate inflation. This move aligns India with global standards, offering a more c
 
-## Cash market ADT hits 22-month high as FOMO grips retail investors
-Retail investors continue to bet big on equity investments and use every fall in market to pump in more money
+## RBI to inject liquidity via Rs 50,000 crore repo auction ahead of MPC meeting
 
-## India’s LPG consumption hits over 5-year low in May
-This is the lowest monthly consumption in the last 62 months. The lowest before this was in Covid-impacted April 2021
+
+## US again throws India over the Russian oil barrel
+
+
+## India, UK work to resolve trade pact hurdles as CETA rollout faces delays
+India and the UK are addressing key issues delaying the Comprehensive Economic and Trade Agreement (CETA) implementation, including Britain's steel safeguard measure and carbon border adjustment mechanism. These concerns could lead India to rebalance duty concessions on British products like Scotch 
 
 ## Why did Taiwan, South Korea overtake India? Drop from 5th to 7th largest stock market - explained in 10 charts
 At a time of global economic turmoil, why are some global markets like the US, Taiwan and South Korea rallying? Why has the Indian stock market slipped from record highs, giving negative returns over the last few quarters?
 
-## India tightens silver import curbs; DGFT approval now mandatory for grains, powder
+## CBSE ‘tender investigator’ Sarthak Sidhant's big day in Delhi: Two meetings, and a govt move spurred by his blog
+Congress leader Rahul Gandhi also met Sarthak Sidhant and his family members, and posted for him on X alongside a photo: “Sarthak, stay firm on your principles”
 
-
-## Oyo parent Prism gets Sebi nod for Rs 6,650 crore IPO
-
-
-## US stock markets today (June 2, 2026): Alphabet slides on $80 billion stock sale plan, Wall Street rally loses steam
-Indian markets saw a mixed trend. Wall Street's record rally paused on Tuesday. Alphabet's shares dropped significantly after the Google parent announced plans to raise capital for its artificial intelligence investments. Other tech companies like Hewlett Packard Enterprise and Broadcom saw gains. O
-
-## India-US agriculture cooperation discussed at USIBC-hosted meeting led by IFFCO chairman
-
-
-## RBI MPC meeting: Will the central bank cut, pause or hike rates amid Middle East crisis & inflation fears? What economists say
-The Reserve Bank of India's Monetary Policy Committee begins its meeting amid inflation concerns. While interest rates are expected to remain unchanged this week, economists anticipate a tighter monetary stance later in the financial year. The RBI may also revise its inflation and GDP growth forecas
-
-## Petrol, diesel price hikes could push up inflation and transport costs, says Crisil
-Rising fuel prices are poised to reignite inflation, a Crisil report warns. Expect higher costs for transport, logistics, and manufacturing, directly impacting food and consumer goods. Direct fuel price hikes could add nearly 48 basis points to inflation, with broader effects on supply chains. While
-
-## Delhi jobseeker says he spent ₹14,000 flying to Hyderabad for interview, only to be rejected in 10 mins
-A user on the r/delhi forum of Reddit shared the incident, saying he works in industrial fermentation and had been shortlisted for a fermentation-related role at a “major pharma company” in Hyderabad.
+## US looks to end waiver on Russian oil purchase, says Rubio | Here's how it will hit India
+The US first announced the waiver in March. Since then, it has been extended twice, with the latest extension set to expire on June 17.
 
 ## Siddaramaiah in national fray, appointed to top Congress panel as he makes way for Shivakumar as Karnataka CM
 Siddaramaiah resigned as chief minister on May 28, saying he had been asked by the Congress high command to step down to make way for his deputy.
 
 ## 'Unfavourable cost': IndiGo pauses flight from Mumbai to UK's Manchester
-Owing to “unfavourable cost and environment,” IndiGo announced a pause in its flight to UK's Manchester.
+The airline will return one of its six Boeing 787-9 Dreamliner aircraft, which had been taken on damp or wet lease from Norse Atlantic Airways.
 
 ## Red carpet for Nepal’s Rabi Lamichhane as New Delhi resets ties with Kathmandu
 Nitin Nabin and Rabi Lamichhane also spoke about the need to reach out to the youth or “Gen Z”, as they are colloquially known
@@ -105,34 +108,28 @@ The incident occurred on National Highway No. 53 near Uva village, officials sai
 ## 'Tender Investigator': Rahul meets Gen-Z blogger Sarthak as govt finally acts on CBSE amid paper-checking scandal
 Sarthak Sidhant is the second teenaged whistleblower — of the three overall — whom Gandhi has publicly backed in three days.
 
-## Venezuela’s acting President to visit India; energy security tops agenda
-Rodríguez, who earlier served as foreign minister and vice president, became acting head of the government of Venezuela in January
-
-## Explained: Supreme Court verdict that delivers twin blow to online gaming
-The two decisions came on separate appeals filed against multiple verdicts by high courts, both on taxation and on state laws banning such games
-
-## Buttler hails Sooryavanshi’s impact in IPL 2026: ‘He was the IPL this year’
+## Ankur Warikoo shares life lessons to learn from stars like Shah Rukh Khan and Hrithik Roshan
 
 
-## ‘If Rahul, Priyanka can go to Wayanad…’: Andhra Deputy CM Pawan Kalyan’s JSP plans to contest polls in Telangana
+## Rucking shows how walking with load can transform your fitness routine
 
 
-## ‘I’m not hiding from that’: UK Cabinet Office minister concedes leaked Mandelson messages on Starmer’s Downing Street are ’embarrassing’
+## Gajewski: ‘Meeting expectations of ex-champ not Gukesh’s main goal’
 
 
-## Mephedrone worth Rs 75 cr seized as drug factory busted in Gujarat; ‘mastermind’, aide held from Mumbai
+## Shivakumar set to take oath as Karnataka CM in lowkey ceremony
 
 
-## Who is Rahul Singh? IAS officer behind NEP reforms shunted from CBSE amid OSM row
+## Sindhu, Arjun-Hariharan make Round 2 at Indonesia
 
 
-## Kangana Ranaut says distance from Bollywood helped her play a nurse: ‘We live in a bubble’
+## Kangana Ranaut says parents accepted her career after National Award; expert reflects
 
 
-## Mouth ulcer that wouldn’t heal: Why doctor warns against ignoring persistent oral symptoms
+## 3 killed as signboard put up under Smart City Mission’ collapses in Dahod
 
 
-## ‘A full protectorate’: Netanyahu faces domestic backlash as Trump halts Israel’s planned Beirut strike on Hezbollah
+## Marco Rubio warns Iran on Hormuz, says US wants Russia oil waivers ended
 
 
 ## China’s Tiger Brokers reports strong results, with no mention of trading crackdown
@@ -159,6 +156,9 @@ The surge of interest in Chinese humanoid robotics has raised a practical questi
 ## Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns
 Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tuesday. Some 37 per cent of organisations in the region admitted to investing agg
 
+## The Gulf Crisis Is Forcing Japan Into an Energy Rethink
+Tokyo spent decades preparing for disruption—then found its options narrowing.
+
 ## Israel Has a Growing Anti-Christian Problem
 A recent attack in Jerusalem highlights a worrying trend intensified by wartime nationalism.
 
@@ -180,32 +180,32 @@ Islamabad is happy to give the U.S. president the image he craves.
 ## The Epidemic of GPS Jamming
 Across the world, signals crucial for safe air and sea travel are being disrupted.
 
-## Washington Wants Myanmar’s Minerals
-Democracy promotion is out, and the race to engage the country’s junta is on.
+## Kazakhstan, Russia Step Forward With $16.4 Billion Nuclear Power Plant Plan
+Moscow is reportedly furnishing as much as 85 percent of the financing for the project.
 
-## 2026 Has Been a Wild Ride for Southeast Asian Stock Markets
-Transparency concerns and the turmoil in global energy markets have created an unusual volatility in the region's capital markets.
+## Nepal’s Prime Minister Mistakes Mandate for Immunity
+Balendra Shah, who assumed office just two months ago, does as he pleases, with little regard for constitutional norms, parliamentary procedures or diplomatic niceties.
 
-## The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It
-This year's Balikatan exercise oriented itself more closely than ever to the Taiwan Strait -- and the possibility of a future conflict over the island.
+## Beyond China and the US: How Japan is Incrementally Rebalancing Its Foreign Policy
+Neither the Japan-U.S. alliance nor the Sino-Japanese economic relationship will completely unravel overnight. However, the overall trendlines have led Tokyo to seek further hedges.
 
-## Philippine Senator Estrada Surrenders After Anti-graft Court Orders His Arrest
-Jose “Jinggoy” Estrada claims that the charges of plunder are a politically motivated outgrowth of the political feud between the Marcos and Duterte clans.
+## Moscow’s New Military Partner Has Something Russia Needs More Than Allies
+The security provisions in recent agreements with the Taliban may reflect intent, but the more immediate benefit on the Russian side appears to be addressing the labor shortage.
 
-## Indian PM Hosts Head of Myanmar’s Military Government in New Delhi
-New Delhi has defended its decision to engage with Min Aung Hlaing, who led the coup against Myanmar's democratically elected government in 2021.
+## Unholy Violence: Weaponizing Religion Against Gender Rights Defenders in Myanmar
+Buddhist fundamentalism functions in post-coup Myanmar not as a parallel force to military authoritarianism, but as an integral component of it.
 
-## Vietnam’s Quiet Strategy at the Shangri-La Dialogue
-At the Shangri-La Dialogue, Hanoi has sought to shape the terms of the regional security debate.
+## Why India Cannot Let the Rupee Float
+Imported inflation, fragile manufacturing, and unequal burdens complicate textbook arguments supporting unrestricted currency depreciation across India.
 
-## The Real Crisis in Andhra Pradesh is Development, Not Demography
-When the Andhra government cannot sustain existing welfare systems, why is it promising financial incentives to couples to have three or four children?
+## The Politics Behind Taiwan’s Soft Power
+“Taiwan Travelogue” and its Booker Prize win highlight the nuances – and controversies – of contemporary culture in Taiwan.
 
-## Uzbekistan’s Emergence as Central Asia’s Mobility Hub
-Behind Uzbekistan's record visitor numbers, rooted in social and economic ties, lies a larger story of regional reintegration expanding Tashkent's influence across Central Asia.
+## Kashmir’s Uneasy Calm: Silent Guns, Muted Hope
+True integration, it appears, will remain elusive until New Delhi stops treating Kashmir as a security variable to be managed.
 
-## Taiwan and Poland on the Frontline of Hybrid Conflict
-An interview with Aleksandra Gasztold on what Taiwan and Eastern Europe can learn from each other.
+## Does the Quad Still Matter?
+On May 26, India hosted a formal meeting of the foreign ministers of the Quad — comprising the United States, Australia, India, and Japan. Since its initial creation in 2007 and revival in 2017, foreign policy analysts have debated the usefulness of the organization, which was designed as a group of
 
 ## Between Beijing and the Budget: The Domestic Realities of Taiwan’s Defense Spending Drama
 On May 8, Taiwan’s Legislative Yuan broke a grueling six-month stalemate by passing a landmark $25 billion defense budget, catching many observers off guard. The vote brought sudden end to an agonizing legislative deadlock that had pushed U.S.-Taiwanese relations to the edge. For months, long-simmer
@@ -227,9 +227,6 @@ On April 15, technology podcaster Dwarkesh Patel published a two-hour interview 
 
 ## Contriving Imaginary Gaps in Nuclear Deterrence
 Among some nuclear strategists, military officers, and lawmakers, a belief bordering on the canonical has taken root that the United States is on the short end of a “deterrence gap” with Russia and China. Both countries, and especially Russia, possess theater-range nuclear weapons, whose comparative
-
-## Glass Jaw? The New Economic Fragility Recasting American Power
-A pair of children’s shoes is an odd place to look for the changing dynamics of American power. But stick with me because, after the past year, it is one of the clearest places to see them.Long before those shoes reach a store shelf, tariffs have raised the cost of materials, components, and importa
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN tells world to brace for extreme weather as El Nino looms
-Potential impacts, including floods, drought and heatwaves, could 'hit even harder' this year, UN chief warns.
+## What to know about Tuesday’s primaries in California, New Jersey, Montana
+Voters in six US states are casting primary ballots that will set the battle lines for November's midterm elections.
 
-## China opens its markets to African exports. Who benefits?
-China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.
+## Blue Origin failure sets back NASA lunar goals
+Blue Origin’s latest rocket test didn’t just end in a fireball — it may have burned a hole in NASA’s timeline.
 
-## Intisar Shanib becomes first woman to head football club in Libya
-Shanib has been appointed as the president of Darnes Sports Club, a prominent football club in Libya's Derna city.
+## Inside the billion-dollar business of getting a visa
+An investigation reveals how visa giant VFS Global profits from millions of visa applications from the Global South.
 
-## Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?
-Norwegian defence minister warns Russia could pose a grave risk and must not be allowed to control the corridor.
+## Spain bans DR Congo World Cup warm-up due to Ebola fears
+Spanish mayor bans DR Congo pre-World Cup 2026 game in La Linea de la Concepcion due to Ebola fears.
 
-## The Horn of Africa needs reconciliation, not new borders
-Recognising Somaliland would not deliver stability. It would entrench division, in Somalia and well beyond it.
+## Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza
+International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory.
 
-## Could Trump’s government be influencing Canada’s separatist movement?
-Alberta will vote in a referendum over whether to separate from Canada, but how is the US President involved?
+## Lebanon hopes crunch talks in Washington will halt an Israeli invasion
+What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.
 
-## Is the Taliban-Russia MoU good for Afghanistan?
-The recently signed agreement is unlikely to advance the country's long-term national interests.
+## Who are the best young players to watch at FIFA World Cup 2026?
+Al Jazeera counts down the top young footballers who could emerge as global names at the tournament in North America.
 
-## Albanians protest Kushner plan for Sazan Island luxury resort
-Hundreds have rallied in Albania against plans by a Jared Kushner-linked investment firm to develop Sazan Island.
+## US says Iran’s new supreme leader alive and ‘increasingly engaging’
+US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
