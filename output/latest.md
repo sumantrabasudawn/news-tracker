@@ -1,13 +1,22 @@
 # AION Intelligence
 
+## Home Secretary condemns riots after UK rightwing leaders call for public ‘rage’
+Nigel Farage urges probe into police handling of case after killer accused victim of racial abuse
+
+## Cliffwater’s flagship private credit fund redemption requests hit 17%
+Fund with net assets of $31bn aimed at retail investors limits withdrawals in latest sign of exodus from sector
+
+## Trump appoints real estate heir Bill Pulte as national intelligence chief
+Housing industry executive and staunch ally of the president to take up role in acting capacity
+
+## Chinese investors fear missing out on SpaceX IPO after crackdown
+Beijing warns brokers about overseas share sales amid fears of capital flight
+
 ## Trump signs watered-down AI vetting order after Maga infighting
 President’s directive will allow the US government to gain early access to cutting-edge models
 
 ## Kyle included ‘more positive language’ in AI speech after Mandelson advice
 Documents raise questions since the advisory firm co-founded by Labour veteran represented big AI companies
-
-## UK rightwing leaders call for ‘rage’ in response to student’s murder
-Nigel Farage urges probe into police handling of case after killer accused victim of racial abuse
 
 ## Seven states sue US for paying $1bn to make Total exit wind power
 New York leads lawsuit challenging Trump administration’s effort to make French company reinvest in fossil fuels
@@ -15,26 +24,14 @@ New York leads lawsuit challenging Trump administration’s effort to make Frenc
 ## Anthropic to expand Mythos access to more than 15 countries
 About 150 organisations will be given advanced cyber security model following requests from around the world
 
-## Goldman’s David Solomon sees ‘more greed than fear’ on Wall Street
-Comments underscore bullish outlook that helped push S&P 500 to records on half of all trading days last month
-
-## Mexico rebukes US ambassador in growing narco spat
-President Claudia Sheinbaum says Washington must ‘respect’ internal issues in row over US indictments of politicians
-
-## Cuba’s unavoidable reckoning
-US pressure is of dubious morality, but Havana has little choice but to do a deal
+## Why ultra-luxury cruises are at risk of running aground
+The core principles of luxury can lose their efficacy on the high seas
 
 ## Microsoft targets Anthropic with new model releases
 Software giant’s AI chief Mustafa Suleyman says focus is on developing products for business users
 
-## BP held talks about selling £2bn of UK North Sea assets to Ithaca
-Oil major still exploring a deal despite failed discussions as CEO Meg O’Neill pursues restructuring
-
-## South West Water fined record £1.9mn after parasite outbreak
-Pennon-owned utility pleaded guilty to supplying water unfit for human consumption
-
-## Most activist investors are not really activist investors
-Persistent bullying works best: study
+## Goldman’s David Solomon sees ‘more greed than fear’ on Wall Street
+Comments underscore bullish outlook that helped push S&P 500 to records on half of all trading days last month
 
 ## Mamata Banerjee leads protest against BJP over alleged attacks on Trinamool leaders and workers
 TMC supremo vows to fight BJP, announces INDIA bloc meeting in Delhi soon
@@ -60,6 +57,21 @@ Following the transaction, promoter group member Jayanti Sinha exited the compan
 ## Tata Sons Chairman Chandrasekaran visits TASL’s upcoming Defence MRO facility in Bengaluru
 Spread across 16 acres and spanning 15,000 square metres, the facility is scheduled to be commissioned by December-end 2026
 
+## Godrej starts wealth management business
+Godrej Industries Group has unveiled its new wealth management venture, Godrej Wealth, aiming for a substantial Rs 1,00,000 crore in assets under management by 2031. This expansion into financial services targets affluent clients with investable assets of Rs 2 crore and above, offering comprehensive
+
+## Kotak prods India Inc to start investing again
+Billionaire Uday Kotak urged Indian businesses to invest in the future, highlighting a global lag in AI technology. He cited Google's massive $80 billion AI infrastructure investment, noting its scale dwarfs India's entire listed market. Kotak called this a wake-up call for companies to prioritize f
+
+## India slips to seventh in global market capitalisation ranking
+India has dropped to seventh in global stock market valuation, overtaken by South Korea and Taiwan. This decline, attributed to sustained foreign fund selling and muted corporate earnings, contrasts with the AI chip leadership of South Korean and Taiwanese firms. Despite a recent Sensex uptick drive
+
+## India, UK to narrow gaps to roll out trade deal
+India and the UK are working to resolve outstanding issues, including steel quotas and duties, to expedite the implementation of their bilateral trade agreement. Discussions between Commerce Minister Piyush Goyal and UK Secretary of State Peter Kyle focused on overcoming these sticking points to adv
+
+## Government plans new indices to track informal mfg, services
+The government is developing new indices to measure industrial and service sector production in India's vast informal economy. These will draw from extensive surveys to provide a clearer picture of the unorganized sector, moving beyond proxy methods that distorted data, especially post-pandemic. The
+
 ## Citi: India's AI advantage needs better articulation
 Citi's Vis Raghavan notes muted FDI in India due to energy dependency and AI uncertainty, despite strong domestic sentiment. He highlights the need for India to articulate its AI-driven global economy position, emphasizing its cost advantage in compute and potential as a global AI hub.
 
@@ -69,25 +81,16 @@ Despite challenging global markets, several major Indian companies are pushing a
 ## High costs dampen summer for beverage companies
 Companies are facing rising costs for both cans and glass bottles this summer, impacting beer and soft drink manufacturers. Supply disruptions from West Asia for aluminium cans and increased LPG costs have led to price hikes of 15-20% for packaging. Distributors anticipate a Rs 10 price increase for
 
-## Producer price index, revised wholesale price index set to come on June 15
-India is set to introduce a Producer Price Index (PPI) on June 15, alongside a revised Wholesale Price Index (WPI). The government plans to phase out WPI within five years, adopting PPI as the primary measure for factory gate inflation. This move aligns India with global standards, offering a more c
+## Venezuela’s acting President Delcy Rodriguez’s visit this week to focus on energy ties
+Venezuela’s acting President Delcy Rodríguez will visit India this week for talks with Prime Minister Narendra Modi to bolster bilateral ties against the backdrop of growing energy cooperation, with the South American state becoming the country’s third-largest supplier of oil this month.
 
-## RBI to inject liquidity via Rs 50,000 crore repo auction ahead of MPC meeting
-
-
-## US again throws India over the Russian oil barrel
-
-
-## India, UK work to resolve trade pact hurdles as CETA rollout faces delays
-India and the UK are addressing key issues delaying the Comprehensive Economic and Trade Agreement (CETA) implementation, including Britain's steel safeguard measure and carbon border adjustment mechanism. These concerns could lead India to rebalance duty concessions on British products like Scotch 
-
-## Why did Taiwan, South Korea overtake India? Drop from 5th to 7th largest stock market - explained in 10 charts
-At a time of global economic turmoil, why are some global markets like the US, Taiwan and South Korea rallying? Why has the Indian stock market slipped from record highs, giving negative returns over the last few quarters?
+## A teen whistleblower, portal chaos, cyberattacks and a leadership shake-up: How CBSE's OSM row snowballed
+The OSM row centres on CBSE's new digital evaluation system for Class 12 board exams and the awarding of its contract to Coempt EduTeck.
 
 ## CBSE ‘tender investigator’ Sarthak Sidhant's big day in Delhi: Two meetings, and a govt move spurred by his blog
 Congress leader Rahul Gandhi also met Sarthak Sidhant and his family members, and posted for him on X alongside a photo: “Sarthak, stay firm on your principles”
 
-## US looks to end waiver on Russian oil purchase, says Rubio | Here's how it will hit India
+## US looks to end waiver on Russian oil purchase, says Rubio: Here's how it will hit India
 The US first announced the waiver in March. Since then, it has been extended twice, with the latest extension set to expire on June 17.
 
 ## Siddaramaiah in national fray, appointed to top Congress panel as he makes way for Shivakumar as Karnataka CM
@@ -101,12 +104,6 @@ Nitin Nabin and Rabi Lamichhane also spoke about the need to reach out to the yo
 
 ## ‘No locus standi’: India blasts Pak-EU joint statement on Jammu and Kashmir
 A joint communique issued in Islamabad contained a reference to the “issue of Jammu and Kashmir” and “Russia’s war against Ukraine” in the same paragraph
-
-## At least seven killed, 40 injured as two Maharashtra state-run buses collide near Surat; one catches fire
-The incident occurred on National Highway No. 53 near Uva village, officials said, adding that the road connects Maharashtra with Gujarat.
-
-## 'Tender Investigator': Rahul meets Gen-Z blogger Sarthak as govt finally acts on CBSE amid paper-checking scandal
-Sarthak Sidhant is the second teenaged whistleblower — of the three overall — whom Gandhi has publicly backed in three days.
 
 ## Ankur Warikoo shares life lessons to learn from stars like Shah Rukh Khan and Hrithik Roshan
 
@@ -156,6 +153,12 @@ The surge of interest in Chinese humanoid robotics has raised a practical questi
 ## Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns
 Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tuesday. Some 37 per cent of organisations in the region admitted to investing agg
 
+## Russia Pounds Ukraine With Missile, Drone Strikes
+Moscow warned of a massive attack on Kyiv. And it delivered.
+
+## Two Senators Just Blew Up Trump’s Boat-Strike Justifications
+Sens. Kaine and Paul say that the military’s targeting criteria don’t include the presence of drugs or arms.
+
 ## The Gulf Crisis Is Forcing Japan Into an Energy Rethink
 Tokyo spent decades preparing for disruption—then found its options narrowing.
 
@@ -173,12 +176,6 @@ Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
 
 ## A Trump Deal With Iran Could Spell Trouble for Netanyahu
 The Israeli leader needs a win ahead of a key election.
-
-## Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
-Islamabad is happy to give the U.S. president the image he craves.
-
-## The Epidemic of GPS Jamming
-Across the world, signals crucial for safe air and sea travel are being disrupted.
 
 ## Kazakhstan, Russia Step Forward With $16.4 Billion Nuclear Power Plant Plan
 Moscow is reportedly furnishing as much as 85 percent of the financing for the project.
@@ -252,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump berated Netanyahu? Analysts question US-Israel feud rumours
+Analysts say 'strategic leaks' aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.
+
+## Drones light up Taipei’s night sky for Computex trade show
+Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in a dazzling display for the Computex trade show.
+
+## Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’
+DOJ's agreement with President Donald Trump to bar future audits into his or his family's past tax records will remain.
+
+## Russia launches massive overnight attack on Ukraine
+Russia launched a massive overnight attack on cities across Ukraine, killing at least 22 people including children.
+
+## ‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims
+President Macron, acknowledging France's 'responsibility' in the genocide, calls memorial a reconciliation 'milestone'.
+
 ## What to know about Tuesday’s primaries in California, New Jersey, Montana
 Voters in six US states are casting primary ballots that will set the battle lines for November's midterm elections.
 
@@ -260,21 +272,6 @@ Blue Origin’s latest rocket test didn’t just end in a fireball — it may ha
 
 ## Inside the billion-dollar business of getting a visa
 An investigation reveals how visa giant VFS Global profits from millions of visa applications from the Global South.
-
-## Spain bans DR Congo World Cup warm-up due to Ebola fears
-Spanish mayor bans DR Congo pre-World Cup 2026 game in La Linea de la Concepcion due to Ebola fears.
-
-## Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza
-International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory.
-
-## Lebanon hopes crunch talks in Washington will halt an Israeli invasion
-What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.
-
-## Who are the best young players to watch at FIFA World Cup 2026?
-Al Jazeera counts down the top young footballers who could emerge as global names at the tournament in North America.
-
-## US says Iran’s new supreme leader alive and ‘increasingly engaging’
-US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
