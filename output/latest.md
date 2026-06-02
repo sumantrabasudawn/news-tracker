@@ -1,130 +1,133 @@
 # AION Intelligence
 
+## IPO boom, market doom?
+Plus: not now, Godzilla
+
+## This will be an absolutely mammoth year for IPOs. Probably
+Partying like it’s 1999
+
+## How do you solve a problem like China? The EU has no answer
+Also in this newsletter: Magyar meets Merz and Macron
+
 ## Activist fund Elliott calls for sale of Australia’s largest gold miner
 US firm builds up stake in Northern Star Resources
 
-## General Mills sells Häagen-Dazs ice cream stores in China
-Transaction is the latest in shift towards local management for well-known foreign brands
+## FirstFT: US in talks to widen nuclear arms deployments in Europe
+Also in today’s newsletter: BP chair search and Macron’s fading legacy
 
-## Tencent moves closer to launching AI agent for China’s most-used app
-Maker of WeChat has fallen behind domestic rivals in artificial intelligence models
+## EasyJet’s summer sale reaches Wall Street
+Europe’s famed budget airline has become a potential takeover target as war in Iran hits industry
 
-## Florida sues OpenAI and Altman for ‘hurting’ children
-State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused
+## Castlelake: the private credit lender taking a run at easyJet
+The $37bn investment manager is little known in the UK, but that could change if it bids on the British budget carrier
 
-## Court ruling against Google could change online ad sales in India
-Also in this newsletter, Indian stock markets continue to struggle
+## What matters in Tuesday’s US primaries: LA ‘jungles’ and another Trump test
+Votes from California to Iowa offer gauge of Americans’ mood for more Maga, reality TV and David Cameron’s ex-adviser
 
-## Short seller Andrew Left found guilty of securities fraud
-Case could have significant implications for investors publishing commentary on stocks
+## Scottish EV start-up plans new UK plant in 2027
+Munro is to build a new facility for industrial-use electric vehicles
 
-## China’s housing market could have further to fall
-To make real estate attractive for investors, prices must go lower
+## British Land picks Canadian pension fund executive as next boss
+Joanne McNamara will become one of a select group of women running FTSE 100 groups
 
-## Aspiration Partners’ co-founder Joe Sanberg gets 14-year fraud sentence
-Case has thrown spotlight on dealings with Wall Street and Hollywood elites including billionaire Steve Ballmer
+## Mother Dairy unveils India's first naturally degradable milk pouch
+To begin with, the company will use this new degradable milk pouch in its cow milk variant sold across Delhi-NCR from June 5, the World Environment Day
 
-## Alphabet to sell $80bn in stock to fund AI spending spree
-Landmark fundraising plans include $10bn private placement to Berkshire Hathaway
+## Anthropic vs OpenAI: AI's new rivalry moves to the stock market
+The Deutsche Bank report noted that "OpenAI is in a race with Anthropic, which overtook it in sales last month and is on track to generate $40 billion in annual recurring revenue this month"
 
-## UK cancer services left ‘fragile’ by the pandemic
-More than one in five cases were missed during lockdowns according to new research
+## Sensex today | Stock Market Live: Markets recover in afternoon trade; Sensex gains over 370 pts amid volatility
+Sensex, Nifty, Share Prices LIVE: Indian equities traded volatile on Tuesday, recovering in afternoon trade as IT stocks surged over 4%, even as broader markets remained under pressure from West Asia tensions, FPI outflows and weak rupee, with investors tracking crude oil and global cues.
 
-## 30 Indians living and working illegally in US as truck drivers arrested, will be deported
-Out of the 36 illegal semi-truck drivers arrested, 30 were from India, while the remaining six were from Mexico, El Salvador, and Russia
+## Aluminium futures: Hold the longs
+₹400 in sight for June contract
 
-## Sensex today | Stock Market Live: Nifty seen opening sharply lower as West Asia tensions, FPI selling weigh on sentiment
-Sensex, Nifty, Share Prices LIVE: Indian equities are set for a cautious start, with Gift Nifty signalling a sharp gap-down opening as escalating West Asia tensions, rising crude oil prices, persistent FPI outflows and a weaker rupee overshadow strong domestic macroeconomic fundamentals.
+## India slips to seventh in global market cap rankings as South Korea pulls ahead
+Driven by AI chipmakers, South Korean stocks have rallied ​this year lifting ⁠the combined value of companies listed on its exchanges to $5.01 trillion, surpassing the $4.85 trillion value of firms on India’s NSE
 
-## Stocks to Watch June 2: Groww, Wipro, PNC Infratech, NMDC, NHPC, Ola Electric, Axis Bank, Indian Hotels Co
-Several companies remained in focus after announcing regulatory approvals, strategic investments, fund-raising plans, stake sales, business expansion and infrastructure projects. Key stocks include Groww, Wipro, PNC Infratech, NMDC, NHPC, Ola Electric, Axis Bank and Indian Hotels Co.
+## Meesho partners BSE to help MSMEs list on SME platform via Project Shikhar
+The programme will provide structured support, including compliance guidance, entity conversion and listing preparation
 
-## MRPL appoints Pattathil Sujith as ED (Projects)
-Veteran mechanical engineer with three decades at the company to lead major capital and energy transition initiatives
+## Transrail bags new orders worth ₹575 crore
+As of March 31, the company's unexecuted order book (including L1 or Lowest Bidder position) stood at ₹16,361 crore, up 12% year-on-year, Transrail Lighting said in an exchange filing
 
-## Industrial growth at 4.9% in April as new 2022-23 base series debuts
-Manufacturing and capital goods drive IIP while mining records contraction
+## LG inagurates 15 common facility centres across Ladakh to boost rural livelihoods
+He said the CFCs will function as shared workspaces for weavers, spinners, tailors, artisans and women self-help groups (SHGs), providing them with access to modern facilities for producing high-quality products
 
-## LIC staff can be deployed for census work, rules Allahabad High Court
-The court ruled that the competent authority acted within its powers in appointing LIC employees as enumerators and supervisors for census operations
+## Mumbai-Ahmedabad bullet train project achieves major milestone as mountain tunnel breakthrough completed
+India's first bullet train project, linking Mumbai and Ahmedabad, has reached a significant milestone with the successful launch of a viaduct over Ahmedabad's Kalupur flyover. This marks another engineering feat for the high-speed rail corridor, which is now in its advanced construction phase, promi
 
-## Indian Railways freight loading rises to 145 million tonnes in May, passenger traffic crosses 61 crore
-Indian Railways also expanded its modern train network, operating 164 Vande Bharat services and 68 Amrit Bharat services, including new additions during May.
+## Gold price prediction today: Will gold prices continue to be range-bound? Check June 2, 2026 outlook
+Gold price prediction today: Gold prices continue to be weighed down by inflation concerns amid geopolitical tensions and rising oil prices, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## CBSE Class 12 verification and re-evaluation portal goes live after delay
-Students can now apply online for verification of marks and re-evaluation of answer books through the post-result activities portal
+## US-Iran war impact: RBI likely sold $12 billion gold reserves to shield foreign currency assets, says report
+To limit the impact of these external shocks, the government has stepped up measures aimed at reducing foreign exchange outflows and stabilising the economy. These steps include increases in fuel prices and a sharp rise in import duties on precious metals.
+
+## H-1B hiring boost: Nvidia offers top salaries despite slowdown in foreign recruitment
+While many tech firms scale back, Nvidia is aggressively hiring foreign talent via the H-1B visa program, increasing its certified positions. This surge reflects the company's immense demand for AI specialists and engineers, contrasting with competitors like Google and Amazon. CEO Jensen Huang empha
+
+## Oil prices today: Crude rises amid uncertainty over US-Iran negotiations and Hormuz reopening
+Oil prices saw a slight uptick as US-Iran talks and the potential reopening of the Strait of Hormuz created market jitters. Conflicting signals from Washington and Tehran fueled uncertainty, with traders closely watching any progress or breakdown in negotiations. Developments around the crucial ener
+
+## Stock Market Live Updates Today: BSE Sensex opens around 400 points down, Nifty50 below 23,300 as crude oil prices remain high
+
+
+## After Taiwan, South Korea overtakes India to become world’s sixth largest stock market; here’s why
+In the cases of both South Korea and Taiwan, the stock market rally is fuelled by a powerful surge in semiconductor giants that are benefiting from the global artificial intelligence boom.
 
 ## Top stocks to buy or sell today: Stock market recommendations for June 2, 2026 - check list
 Stock market recommendations: Infosys has been recommended as a top buy call by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan on June 2, 2026. The expert has recommended DLF, and Cholamandalam Investment and Finance Company as sell calls. Target prices, stop loss and ranges have been
 
-## Goldman Sachs, HDFC Securities & more: Top stocks to watch on June 02
+## Tamil Nadu: Palaniswami questions delay in launch of TVK’s women’s safety task force
+He urged the chief minister to “step out of his fantasy world” and stop acting like a movie hero delivering punchlines.
+
+## Balen Shah stirs controversy in Nepal with ‘encroaching India’ remark. What did he say? Row explained
+Nepal PM Balen Shah made these remarks while answering questions in Parliament on a long-running border dispute with India, only to trigger controversy.
+
+## Ghaziabad fire: Family of 4 rescued, 3 pet dogs die
+According to fire officials the fire incident happened around 3am in third floor where Pawan Sharma (52), resided with his family and three dogs
+
+## India signals re-engagement of neighborhood with visit of Myanmar and Nepal leaders
+PM Modi wants the MEA to focus more on neighbours, stressing that India cannot be a global power without strong ties across the subcontinent.
+
+## Another paper leak? FTII orders re-exam for the joint entrance test, students protest
+Several videos on social media show students claiming that they got “photocopies” of question papers at the Delhi centre.
+
+## India issues fresh advisory amid Ebola scare: ‘Isolate if travelled through affected country'
+The government said that those who have travelled to Ebola-affected countries and are developing some particular symptoms, should isolate.
+
+## Murder, encounter, 'nalayak aulad', bulldozer: Why Ghaziabad is at the centre of a political storm
+A 17-yr old boy was on May 28 allegedly stabbed to death in Ghaziabad's Khoda by a suspect who was killed in a police encounter on Sunday, May 31.
+
+## ‘Unnecessary imposition’: Tharoor on full Vande Mataram rendition; BJP reacts
+The controversy centres on whether the complete version of Vande Mataram should be rendered at the beginning and end of official events.
+
+## Twisha Sharma and the mother-in-law trope in India
 
 
-## India reviews duty sop on Scotch in UK trade deal
-India is reviewing tariff concessions on Scotch and other goods in its trade deal with the UK. This action is contingent on the UK addressing India's concerns regarding steel quotas and duties. UK Trade Secretary Peter Kyle is set to meet with India's Commerce and Industry Minister Piyush Goyal to r
-
-## Oman offers to up petchem, fertiliser supply as FTA kicks in
-India and Oman have launched a free trade agreement, enabling concessional or zero tariffs on a vast majority of goods. Oman also offered a food security pact, willing to supply more fertilizer and petrochemicals to India. The agreement includes visa benefits for Indian workers and faster pharmaceut
-
-## UPI transactions near 30L cr, increase 19%
-Digital payments are booming as UPI transactions hit 2,320 crore in May, a significant jump from April. This surge reflects a robust 24% year-on-year volume growth. Meanwhile, National Electronic Toll Collection also saw a healthy month-on-month increase in both transaction numbers and value, indica
-
-## Car sales resilient in May as industry braves headwinds
+## TMC MP Abhishek Banerjee’s parents move Calcutta High Court to quash KMC notice on ‘unauthorised construction’
 
 
-## At 3.2%, GST collection growth slowest in 6 months
-GST collections in May saw a modest 3.2% rise to Rs 1.94 lakh crore. While domestic revenue dipped, officials attribute this to a one-off telecom payment in the previous year, asserting underlying consumption remains robust across sectors. Import GST also surged, driven by increased demand for commo
-
-## Nandan Nilekani at 71: Steering Infosys through two critical successions
-Nandan Nilekani is poised for a third term as Infosys chairman. His focus will be on succession planning, with rules requiring his exit at 75. The company is strengthening its leadership bench. Nilekani also faces the challenge of preparing Infosys for the evolving AI-driven technology landscape. Th
-
-## Court deadlines, repeated warnings: 6 years on, Delhi’s building safety audits remain far from complete
-The high court had remarked that “mere paperwork and consultations would not solve the eminent threat” that Delhi residents face.
-
-## Amid Delhi Gymkhana Club row, minister says Centre ‘can take back leased land whenever needed’
-Manohar Lal Khattar said rapid urbanisation and the growing scarcity of developable land have made such re-entry provisions increasingly important.
-
-## India AI Mission gets new CEO as Centre appoints IAS officer Saurabh Vijay
-Vijay, a 1998-batch officer of the Maharashtra cadre, has been given the additional charge alongside his role as CEO of UIDAI.
-
-## JEE Advanced 2026 results declared: 56,880 qualify for admissions; 4.6% rise from last year
-The qualified candidates will now compete for 18,951 undergraduate engineering (BTech) seats across 23 IITs.
-
-## CBSE Class 12 results 2026: How to apply for re-evaluation and verification of marks | Step-by-step guide
-In a notification to students, the board announced that the verification and re-evaluation portal is now live.
-
-## CBSE opens portal for Class 12 results re-evaluation, verification of marks after multiple delays
-Candidates who want to apply for the re-evaluation process and verification can find the direct link to do it on the official website of CBSE at cbse.gov.in.
-
-## Teen rescued as UP Police busts child trafficking gang in Hapur; 4 arrested
-Police said that the gang was busted during an investigation launched to trace the missing child.
-
-## Exclusive: How can an aspirational Nepal and a rising India reconnect?
-Today’s Nepal is not heading toward an uncertain future; it is embracing a strikingly aspirational vision.
-
-## Karnataka Cyber Command unit blocks 8,750 sites ahead of IPL final, news sites hit
+## ‘Your son will die’: Pune woman tricked into Rs 3.9 lakh ‘black magic’ rituals
 
 
-## Kerala yet to see Monsoon onset; IMD says Delhi’s weather to remain ‘pleasant’ till Friday
+## Anushka Sharma, Virat Kohli visit Premanand Maharaj’s ashram after RCB’s IPL 2026 win
 
 
-## Why a Balasore land loser failed in 30-year-old recruitment fight against Indian Oil despite being ‘eligible’
+## No physical papers, multi-set questions, AI checks: Inside the proposed blueprint to fix NEET UG exam
 
 
-## ‘Difficult emotional journey’: Pune girl becomes topper among female candidates in JEE (Advanced)
+## ‘BJP is slow-poisoning us’: Shinde Sena leader Abdul Sattar hints at merger with Uddhav faction
 
 
-## ‘Used to limp every day’: Siddharth Shaw on physical toll of Chiraiya; psychiatrist weighs in
+## UP’s Fazil Nagar renamed Pavagadh
 
 
-## Daily Briefing: Donald Trump signals progress in Iran talks, ceasefire extension likely
+## ‘Moving back to India after 12 years in the US’: Startup founder shares toll of immigration uncertainty
 
 
-## Top Pimpri NCP leaders unhappy over Kakade nomination
-
-
-## CBSE opens Class 12 re-evaluation portal, releases video guide on application process
-
+## Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns
+Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tuesday. Some 37 per cent of organisations in the region admitted to investing agg
 
 ## Global Prosperity Summit 2026 maps out Hong Kong’s aerospace potential as city’s first astronaut takes flight
 As Hong Kong sent its first astronaut into space, leading industry experts at the Global Prosperity Summit 2026 (GPS 2026) said the city was well positioned to be a facilitator of aerospace development by tapping into emerging opportunities in the aerospace economy and contributing its professional 
@@ -146,9 +149,6 @@ Unitree Robotics, one of the leading forces in mainland China’s booming humano
 
 ## China index reshuffle to entrench tech trades and boost AI rally: brokerages
 A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks is set to boost the representation of technology companies, a move expected to lure more inflows and further increase the sector’s appeal, according to investment banks. The shake-up was projected to spur US$3.1 billion o
-
-## China’s property market shows more positive signs with price, sales upticks
-China’s home prices saw a modest recovery in May, adding to growth in March and April, as positive signs of a gradually stabilising property market continued to accumulate after five years of weakness, according to analysts. In May, the average price of newly built residential properties across 100 
 
 ## Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
 Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
@@ -198,6 +198,12 @@ While Western nations might view a 2 percent or 4 percent growth rate as a spect
 ## The Awakening of Koizumi Shinjiro
 How a defense portfolio transformed Japan’s most underestimated politician.
 
+## Between Beijing and the Budget: The Domestic Realities of Taiwan’s Defense Spending Drama
+On May 8, Taiwan’s Legislative Yuan broke a grueling six-month stalemate by passing a landmark $25 billion defense budget, catching many observers off guard. The vote brought sudden end to an agonizing legislative deadlock that had pushed U.S.-Taiwanese relations to the edge. For months, long-simmer
+
+## The Toll Booth at the Throat of World Trade
+In late February 2026, Iran closed the Strait of Hormuz to foreign shipping. What began as a chaotic wartime closure has, in the past few days, hardened into something more consequential: an official sovereign toll regime, codified in Iranian law, and priced in cryptocurrency.On May 18, Iran operati
+
 ## Building a Better Ukraine Requires Accessibility Reforms
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -215,12 +221,6 @@ Among some nuclear strategists, military officers, and lawmakers, a belief borde
 
 ## Glass Jaw? The New Economic Fragility Recasting American Power
 A pair of children’s shoes is an odd place to look for the changing dynamics of American power. But stick with me because, after the past year, it is one of the clearest places to see them.Long before those shoes reach a store shelf, tariffs have raised the cost of materials, components, and importa
-
-## Hollow Deals, Tricky Negotiations, and State Visits
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThere has been increasing chatter that Washington and Tehran are nearing an agreement that might wind down t
-
-## What Would Relations with Post-War Russia Look Like?
-Rose Gottemoeller joined Ryan in Washington. They discussed how the West might think about relations with Russia once the war with Ukraine ends, as well as nuclear diplomacy and other critical issues. Gottemoeller was the deputy secretary general of NATO and, before that, served as a senior State De
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Woman assaulted by Dutch police at asylum centre speaks to Al Jazeera
-Malak Mahmoud, the pregnant woman filmed being thrown to the ground by a Dutch police officer has spoken to Al Jazeera.
+## Hailstorm hits Denver and causes widespread disruption
+A powerful hailstorm swept through the US city of Denver, bringing hailstones reportedly as large as golf balls.
 
-## US Defense Department bars journalists from its press office
-Media freedom advocates condemn move as latest effort to curtail independent reporting on the US military.
+## Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa
+The violence prompted 300 Mozambicans to return home over the weekend.
 
-## President Trump attempts to end hostilities in Lebanon
-US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut.
+## China opens its markets to African exports. Who benefits?
+China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.
 
-## Celebration, shock and scepticism follow Colombia’s presidential election
-Far-right lawyer Abelardo de la Espriella beat left-wing Senator Ivan Cepeda in the first round, upending expectations.
+## Senegal president names government, boycotted by ally-turned-rival
+Ousted PM says his party, which holds the parliamentary majority, will not participate in the new government.
 
-## Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges
-Israeli National Security Minister Ben-Gvir says 'time' to say 'no' to Trump and continue striking Hezbollah in Lebanon.
+## At least 12 people killed, dozens wounded in Russian attacks on Ukraine
+Russia launches 656 drones and 73 missiles at Ukraine overnight, according to Ukraine's air force.
 
-## Ultra-Orthodox protesters clash with Israeli police over army draft
-Police seen dragging ultra-Orthodox protesters from under a bus after they blocked roads in Jerusalem over conscription.
+## South Africa’s World Cup delegation departs for Mexico without coach
+Bafana Bafana's departure was delayed due to non-issuance of visas for several players and support staff.
 
-## Violent protests erupt in Chile over government cuts of social programmes
-Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.
+## Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
+Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.
 
-## US court upholds injunction against Trump policy banning transgender troops
-The decision was split, allowing the Trump administration to continue barring transgender people from enlisting.
+## India’s Zee Entertainment signs World Cup 2026 broadcast deal with FIFA
+Zee will broadcast the 2026 and 2030 World Cups and the 2027 Women's World Cup among 39 FIFA tournaments until 2034.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
