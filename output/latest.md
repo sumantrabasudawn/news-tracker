@@ -1,67 +1,64 @@
 # AION Intelligence
 
-## Alphabet to sell $80bn in stock to fund AI spending spree
-Landmark fundraising plans include $10bn private placement to Berkshire Hathaway
+## Activist fund Elliott calls for sale of Australia’s largest gold miner
+US firm builds up stake in Northern Star Resources
 
-## Confidence in the value of a degree hits record low in England
-BSA survey results come as the student loan system faces growing scrutiny
+## General Mills sells Häagen-Dazs ice cream stores in China
+Transaction is the latest in shift towards local management for well-known foreign brands
 
-## UK cancer services left ‘fragile’ by the pandemic
-More than one in five cases were missed during lockdowns according to new research
-
-## Trump drops $1.8bn ‘anti-weaponisation’ fund
-Legal challenges and pushback from Republican lawmakers prompt U-turn from the US president
-
-## Trump claims Israel and Hizbollah agree ceasefire after Iran threats
-President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher
-
-## FirstFT: SoftBank overtakes Toyota to become Japan’s largest company
-Also in today’s newsletter: Iran suspends peace talks with US, and China’s last frontier
-
-## HPE shares soar 37% on booming demand for AI infrastructure
-Data centre equipment provider says sales of servers and networking equipment are rising rapidly
-
-## Mette Frederiksen secures third term as Danish premier after coalition deal
-Nordic leader cobbles together a four-party centre-left government after more than two months of talks
-
-## Italy labour abuse crackdown spreads to US group building Milan consulate
-Caddell Construction executive detained amid investigation into alleged ‘quasi-slavery’ of migrant workers
-
-## BP backs Amanda Blanc to lead second chair search despite City unease
-Oil major’s senior independent director took lead on appointing shortlived chair Albert Manifold
-
-## SoftBank data centre offers France AI sovereignty with strings
-The plans are undoubtedly grand but it’s impossible to tell what capacity will be required when the 2030s kick off
-
-## Anthropic files for blockbuster initial public offering
-Move sets up race with OpenAI and SpaceX, testing Wall Street’s appetite for the AI boom
+## Tencent moves closer to launching AI agent for China’s most-used app
+Maker of WeChat has fallen behind domestic rivals in artificial intelligence models
 
 ## Florida sues OpenAI and Altman for ‘hurting’ children
 State files lawsuit over ‘litany of harms’ it claims the company’s chatbots have caused
 
-## Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand
+## Court ruling against Google could change online ad sales in India
+Also in this newsletter, Indian stock markets continue to struggle
 
+## Short seller Andrew Left found guilty of securities fraud
+Case could have significant implications for investors publishing commentary on stocks
 
-## Editorial. Market for charity
-Reform of social stock exchanges, a work in progress
+## China’s housing market could have further to fall
+To make real estate attractive for investors, prices must go lower
 
-## West Asia impact: Fiscal deficit in April doubled
-Government’s fiscal deficit surged nearly 94 per cent in April due to falling tax revenue and rising expenditures, raising economic concerns.
+## Aspiration Partners’ co-founder Joe Sanberg gets 14-year fraud sentence
+Case has thrown spotlight on dealings with Wall Street and Hollywood elites including billionaire Steve Ballmer
 
-## GST revenue tops ₹1.94 lakh crore in May, driven by broad-based growth in consumption
-Government sources said growth was broad-based across all major goods and services categories, with taxable supplies in the goods sector rising 26.9 per cent and services sector growing 22.2 per cent.
+## Alphabet to sell $80bn in stock to fund AI spending spree
+Landmark fundraising plans include $10bn private placement to Berkshire Hathaway
 
-## Nifty-50 valuation faces test as global capital chases faster earnings growth
-Nifty 50 companies recorded year-to-date earnings growth of just 1.3 per cent, placing India ahead of only China’s SHCOMP (-3.8 per cent) and Singapore’s STI (-5.8 per cent) among the major emerging market indices tracked
+## UK cancer services left ‘fragile’ by the pandemic
+More than one in five cases were missed during lockdowns according to new research
 
-## E4W registrations surge 82% in May as rising fuel prices and new model launches accelerate EV adoption
-Steep increase in petrol and diesel prices during May widened the running-cost advantage of EVs, while a growing range of products across segments, attracted a broader set of buyers, say experts
+## 30 Indians living and working illegally in US as truck drivers arrested, will be deported
+Out of the 36 illegal semi-truck drivers arrested, 30 were from India, while the remaining six were from Mexico, El Salvador, and Russia
 
-## Factory output expanded by 4.9% in April
-Despite global economic challenges, factory output grew by 4.9% in April, according to the new Index of Industrial Production
+## Sensex today | Stock Market Live: Nifty seen opening sharply lower as West Asia tensions, FPI selling weigh on sentiment
+Sensex, Nifty, Share Prices LIVE: Indian equities are set for a cautious start, with Gift Nifty signalling a sharp gap-down opening as escalating West Asia tensions, rising crude oil prices, persistent FPI outflows and a weaker rupee overshadow strong domestic macroeconomic fundamentals.
 
-## Carmakers see high demand in May despite West Asia disturbance
-Maruti Suzuki records highest-ever monthly sales, Tata Motors dethrones M&M to become No.2 in May
+## Stocks to Watch June 2: Groww, Wipro, PNC Infratech, NMDC, NHPC, Ola Electric, Axis Bank, Indian Hotels Co
+Several companies remained in focus after announcing regulatory approvals, strategic investments, fund-raising plans, stake sales, business expansion and infrastructure projects. Key stocks include Groww, Wipro, PNC Infratech, NMDC, NHPC, Ola Electric, Axis Bank and Indian Hotels Co.
+
+## MRPL appoints Pattathil Sujith as ED (Projects)
+Veteran mechanical engineer with three decades at the company to lead major capital and energy transition initiatives
+
+## Industrial growth at 4.9% in April as new 2022-23 base series debuts
+Manufacturing and capital goods drive IIP while mining records contraction
+
+## LIC staff can be deployed for census work, rules Allahabad High Court
+The court ruled that the competent authority acted within its powers in appointing LIC employees as enumerators and supervisors for census operations
+
+## Indian Railways freight loading rises to 145 million tonnes in May, passenger traffic crosses 61 crore
+Indian Railways also expanded its modern train network, operating 164 Vande Bharat services and 68 Amrit Bharat services, including new additions during May.
+
+## CBSE Class 12 verification and re-evaluation portal goes live after delay
+Students can now apply online for verification of marks and re-evaluation of answer books through the post-result activities portal
+
+## Top stocks to buy or sell today: Stock market recommendations for June 2, 2026 - check list
+Stock market recommendations: Infosys has been recommended as a top buy call by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan on June 2, 2026. The expert has recommended DLF, and Cholamandalam Investment and Finance Company as sell calls. Target prices, stop loss and ranges have been
+
+## Goldman Sachs, HDFC Securities & more: Top stocks to watch on June 02
+
 
 ## India reviews duty sop on Scotch in UK trade deal
 India is reviewing tariff concessions on Scotch and other goods in its trade deal with the UK. This action is contingent on the UK addressing India's concerns regarding steel quotas and duties. UK Trade Secretary Peter Kyle is set to meet with India's Commerce and Industry Minister Piyush Goyal to r
@@ -81,59 +78,56 @@ GST collections in May saw a modest 3.2% rise to Rs 1.94 lakh crore. While domes
 ## Nandan Nilekani at 71: Steering Infosys through two critical successions
 Nandan Nilekani is poised for a third term as Infosys chairman. His focus will be on succession planning, with rules requiring his exit at 75. The company is strengthening its leadership bench. Nilekani also faces the challenge of preparing Infosys for the evolving AI-driven technology landscape. Th
 
-## Noel's daughter Maya may exit Tata Digital
+## Court deadlines, repeated warnings: 6 years on, Delhi’s building safety audits remain far from complete
+The high court had remarked that “mere paperwork and consultations would not solve the eminent threat” that Delhi residents face.
+
+## Amid Delhi Gymkhana Club row, minister says Centre ‘can take back leased land whenever needed’
+Manohar Lal Khattar said rapid urbanisation and the growing scarcity of developable land have made such re-entry provisions increasingly important.
+
+## India AI Mission gets new CEO as Centre appoints IAS officer Saurabh Vijay
+Vijay, a 1998-batch officer of the Maharashtra cadre, has been given the additional charge alongside his role as CEO of UIDAI.
+
+## JEE Advanced 2026 results declared: 56,880 qualify for admissions; 4.6% rise from last year
+The qualified candidates will now compete for 18,951 undergraduate engineering (BTech) seats across 23 IITs.
+
+## CBSE Class 12 results 2026: How to apply for re-evaluation and verification of marks | Step-by-step guide
+In a notification to students, the board announced that the verification and re-evaluation portal is now live.
+
+## CBSE opens portal for Class 12 results re-evaluation, verification of marks after multiple delays
+Candidates who want to apply for the re-evaluation process and verification can find the direct link to do it on the official website of CBSE at cbse.gov.in.
+
+## Teen rescued as UP Police busts child trafficking gang in Hapur; 4 arrested
+Police said that the gang was busted during an investigation launched to trace the missing child.
+
+## Exclusive: How can an aspirational Nepal and a rising India reconnect?
+Today’s Nepal is not heading toward an uncertain future; it is embracing a strikingly aspirational vision.
+
+## Karnataka Cyber Command unit blocks 8,750 sites ahead of IPL final, news sites hit
 
 
-## Industrial output growth slows to 4.9% from 5.7%
-Industrial production growth eased to 4.9% in April 2026, impacted by a dip in mining. However, manufacturing and electricity generation showed robust gains, pushing sequential output higher. Capital goods and infrastructure segments continue to expand strongly, indicating sustained investment, thou
-
-## Centre notifies appointment of five Supreme Court judges
-The Union government appointed four high court chief justices and V Mohana as Supreme Court judges, expanding the court's strength to 36 judges.
-
-## Gavi commits $50mn to support the response to Bundibugyo Ebola
-Gavi will allocate up to $50 million to combat the Bundibugyo ebola outbreak, focusing on vaccine development and outbreak response efforts.
-
-## Supreme Court orders sweeping clean-up of Agasthyamalai landscape
-The court directed stringent disciplinary, penal and criminal action against officials who facilitated or permitted unlawful infrastructure inside forest areas and warning that paramilitary forces may be deployed if state authorities fail to enforce its directions.
-
-## CBSE misses June 1 deadline to relaunch Class 12 verification and re-evaluation portal
-A four-member team comprising experts each from IIT was deputed to conduct a technical audit of the portal, examine workflows and help resolve glitches.
-
-## Students protest outside education ministry, demand Dharmendra Pradhan's resignation
-Fresh protests erupted outside the Ministry of Education on Monday amid continuing outrage over recent exam glitches regarding NEET-UG, CBSE and CUET
-
-## INDIA bloc likely to meet in Delhi on June 8 to discuss strategy, reinforce unity
-The last official meeting of the Indian National Developmental Inclusive Alliance (INDIA) was held in New Delhi in 2024, ahead of the Lok Sabha election.
-
-## Assam man arrested for 10-yr-old’s rape shot. Cops say he tried to escape
-Additional superintendent of police (Addl SP) Kamrup Metro district Daisy Gogoi said the suspect was accused of raping the minor girl around 15 days back.
-
-## Australia-India target maritime security road map during PM Modi’s visit: Marles
-Marles noted that he and Singh had met ahead of Modi’s visit to Australia for an annual summit with Prime Minister Anthony Albanese
-
-## TMC will be stronger, says Mamata Banerjee as she sits on dharna today
+## Kerala yet to see Monsoon onset; IMD says Delhi’s weather to remain ‘pleasant’ till Friday
 
 
-## ‘House built on govt land’: Main suspect’s family gets notice to remove ‘violation’ within 15 days
+## Why a Balasore land loser failed in 30-year-old recruitment fight against Indian Oil despite being ‘eligible’
 
 
-## Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says
+## ‘Difficult emotional journey’: Pune girl becomes topper among female candidates in JEE (Advanced)
 
 
-## Rank wasn’t my focus: Pune’s Arohi tops JEE (Advanced) among girls
+## ‘Used to limp every day’: Siddharth Shaw on physical toll of Chiraiya; psychiatrist weighs in
 
 
-## Lactose intolerant patches are here: Expert urges caution
+## Daily Briefing: Donald Trump signals progress in Iran talks, ceasefire extension likely
 
 
-## Trump says Israel won’t attack Lebanon after call with Netanyahu
+## Top Pimpri NCP leaders unhappy over Kakade nomination
 
 
-## ‘He’d come straight to my house’: Ahaan Panday on his bond with childhood friend Aryan Khan; expert weighs in
+## CBSE opens Class 12 re-evaluation portal, releases video guide on application process
 
 
-## Teams can shift from red ball to pink in Test to deal with bad light
-
+## Global Prosperity Summit 2026 maps out Hong Kong’s aerospace potential as city’s first astronaut takes flight
+As Hong Kong sent its first astronaut into space, leading industry experts at the Global Prosperity Summit 2026 (GPS 2026) said the city was well positioned to be a facilitator of aerospace development by tapping into emerging opportunities in the aerospace economy and contributing its professional 
 
 ## Food Republic joins wave of foreign brands retreating in China
 Food Republic, the Singaporean food court chain owned by BreadTalk Group, is set to close its last remaining outlet in Beijing on June 15, ending more than two decades in the Chinese capital, according to a notice outside the location in late May. Its closure comes amid a wave of store shutdowns amo
@@ -155,9 +149,6 @@ A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks
 
 ## China’s property market shows more positive signs with price, sales upticks
 China’s home prices saw a modest recovery in May, adding to growth in March and April, as positive signs of a gradually stabilising property market continued to accumulate after five years of weakness, according to analysts. In May, the average price of newly built residential properties across 100 
-
-## Businesses face huge spike in shipping costs as Hormuz fuel crisis deepens
-Businesses around the world are confronting a painful – and potentially long-lasting – rise in costs amid the US-Israel war on Iran, as global shipping firms introduce steep price increases to offset a mounting fuel crisis. In Shanghai, one of the world’s busiest ports, the price of shipping a conta
 
 ## Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
 Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
@@ -255,29 +246,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Woman assaulted by Dutch police at asylum centre speaks to Al Jazeera
+Malak Mahmoud, the pregnant woman filmed being thrown to the ground by a Dutch police officer has spoken to Al Jazeera.
+
+## US Defense Department bars journalists from its press office
+Media freedom advocates condemn move as latest effort to curtail independent reporting on the US military.
+
+## President Trump attempts to end hostilities in Lebanon
+US President Trump claims a diplomatic breakthrough after speaking with Israeli PM to halt escalation toward Beirut.
+
+## Celebration, shock and scepticism follow Colombia’s presidential election
+Far-right lawyer Abelardo de la Espriella beat left-wing Senator Ivan Cepeda in the first round, upending expectations.
+
+## Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges
+Israeli National Security Minister Ben-Gvir says 'time' to say 'no' to Trump and continue striking Hezbollah in Lebanon.
+
+## Ultra-Orthodox protesters clash with Israeli police over army draft
+Police seen dragging ultra-Orthodox protesters from under a bus after they blocked roads in Jerusalem over conscription.
+
 ## Violent protests erupt in Chile over government cuts of social programmes
 Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.
 
 ## US court upholds injunction against Trump policy banning transgender troops
 The decision was split, allowing the Trump administration to continue barring transgender people from enlisting.
 
-## Who attended this year’s Israel Day Parade in New York?
-Al Jazeera’s Ava Warriner takes a look at the Israeli and US officials who joined the annual Israel Day parade.
-
-## Video: Presidential election has Colombia on edge
-Abelardo de la Espriella will face left-wing Senator Ivan Cepeda in the run-off for Colombia’s presidential election.
-
-## Foreign Christians ask for forgiveness over failure to support Israel at Knesset
-‘Lord, please forgive us for all the things that we did that we did not support Israel.’
-
-## Denmark gets new government as Greenland crisis persists
-End of election deadlock will see PM Frederiksen continue her stewardship of response to Trump's Greenland lust.
-
-## Kenyans protest Ebola quarantine centre for US citizens
-Hundreds have protested in central Kenya against a US-funded plan to quarantine Americans exposed to Ebola there.
-
-## Is the US-backed Gaza peace process in serious danger?
-Israel killing more Palestinians, moves to seize 70 percent of Gaza Strip
+## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
+Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
 
 ## ICAI proposes sustainability assurance framework to bring audit like rigour to ESG disclosures
 Exposure draft lays foundation for sustainability assurance standards, outlining requirements on evidence, independence, quality control and assurance reporting; comments invited till June 19.
@@ -300,8 +294,8 @@ Bulls see a boom driven by structural changes that are transforming the notoriou
 ## Govt amends CSR norms; provides more leeway for companies
 Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
 
-## India’s Emerging Businesses Thrive on Rising Consumption
-As the world moves forward and digital ecosystems grow rapidly, consumption habits are changing dramatically. Quick snacks, coffees, medicines, gifts, groceries and even fashion are available almost instantly as delivery riders steer through crowded lanes to fulfil impulse demand.
+## RBI likely to pause repo rate at 5.25% in June policy, signal caution
+The six-member Monetary Policy Committee, headed by Governor Sanjay Malhotra, will meet from June 3 to 5 and announce its decision on June 5. Economists expect the central bank to retain a neutral stance while using the policy statement to signal caution, with greater focus on inflation risks rather
 
 ## Localisation lens on 500 most-imported items: DPIIT analysing data; move aims to reduce country’s import bill
 The Indian government is scrutinizing over 500 imported products, including machinery, fertilizers, and electronics, to identify opportunities for domestic manufacturing and reduce reliance on foreign supply chains. This initiative aims to curb the country's import bill and bolster supply resilience
@@ -320,7 +314,4 @@ Bank economists have advised the Reserve Bank of India that interest rate increa
 
 ## "Confident" US-India trade deal will be finalised in "coming weeks": Ambassador Gor
 A pivotal trade agreement between India and the United States is soon to be concluded, promising a new chapter in their bilateral relations. US Ambassador Sergio Gor is confident that we will see a resolution in the upcoming weeks. High-ranking officials from both sides are preparing to engage in di
-
-## PM Modi, Italy's Meloni script new chapter with ‘Special Strategic Partnership’; push defence, trade cooperation
-India and Italy have elevated their relationship to a Special Strategic Partnership. Prime Minister Narendra Modi and Italian Prime Minister Giorgia Meloni announced a roadmap for cooperation. This includes defence, innovation, manufacturing, logistics, and maritime sectors. The leaders emphasized g
 
