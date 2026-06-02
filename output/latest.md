@@ -1,58 +1,73 @@
 # AION Intelligence
 
-## IPO boom, market doom?
-Plus: not now, Godzilla
+## Why young America is trending socialist
+Democrats need to show they can deliver for a disaffected Gen Z
 
-## This will be an absolutely mammoth year for IPOs. Probably
-Partying like it’s 1999
+## Martin Wolf honoured by European institutions for defending ‘open and united’ Europe
+Spain’s Cercle d’Economia and Germany-based Kiel Institute for the World Economy hand prizes to FT chief economics commentator
 
-## How do you solve a problem like China? The EU has no answer
-Also in this newsletter: Magyar meets Merz and Macron
+## Murrell used false invoices and expense claims to hide £400,000 embezzlement
+Ex-SNP chief used party account and charge card to buy goods from vehicles to watches for personal use, court told
 
-## Activist fund Elliott calls for sale of Australia’s largest gold miner
-US firm builds up stake in Northern Star Resources
+## Castlelake to hunt partner on easyJet bid to navigate EU ownership rules
+US private credit group would be bound by rules requiring airline to be majority owned by EU nationals
+
+## Oil industry faces ‘gruesome’ demand shock from Iran crisis
+The prospects for a rapid and full reopening of the Strait of Hormuz look bleak
+
+## Hot property: five homes for sale in Lake Maggiore, Italy
+From a quirky modernist design minutes from the water’s edge to an art nouveau villa with frescoed ceilings and formal gardens
+
+## Russia launches deadly strikes on Ukraine
+Overnight bombardment on Kyiv and other cities is third large-scale attack in past month
+
+## Google’s $80bn equity raise adds to that giant AI sucking sound
+Search engine’s move is a good example of how artificial intelligence has made big numbers all but meaningless
+
+## The Proxies 2026: A celebration of substantial corporate perks
+When salary isn’t enough
+
+## US boosts nuclear fuel supply chain as Russia import ban looms
+Urenco announces multibillion-dollar investment to build second uranium enrichment plant in New Mexico
+
+## China’s hunt for US tungsten escalates global critical minerals race
+Effort has driven up prices and prompted calls to restrict sales of a vital national security resource to overseas buyers
 
 ## FirstFT: US in talks to widen nuclear arms deployments in Europe
-Also in today’s newsletter: BP chair search and Macron’s fading legacy
+Also in today’s newsletter: Alphabet to raise $80bn from share sale and gold overtakes US Treasuries as the world’s leading reserve asset
 
-## EasyJet’s summer sale reaches Wall Street
-Europe’s famed budget airline has become a potential takeover target as war in Iran hits industry
+## Tencent moves closer to launching AI agent for China’s most-used app
+Maker of WeChat has fallen behind domestic rivals in artificial intelligence models
 
-## Castlelake: the private credit lender taking a run at easyJet
-The $37bn investment manager is little known in the UK, but that could change if it bids on the British budget carrier
+## Energy autonomy, the need of the hour
+Increasing petroleum storage capacity, a push towards renewables and EVs are the short-term goals India must pursue
 
-## What matters in Tuesday’s US primaries: LA ‘jungles’ and another Trump test
-Votes from California to Iowa offer gauge of Americans’ mood for more Maga, reality TV and David Cameron’s ex-adviser
+## Competition policy: The missing pillar of Viksit Bharat
+Well-designed competition frameworks actually strengthen industrial growth by encouraging innovation, productivity and efficient allocation of capital
 
-## Scottish EV start-up plans new UK plant in 2027
-Munro is to build a new facility for industrial-use electric vehicles
+## Coca-Cola says it’s looking at listing its leading bottler HCCH
+The company says potential listing will be a significant milestone, completing the refranchising of HCCH and positioning it well to capitalise on the opportunities in the Indian market
 
-## British Land picks Canadian pension fund executive as next boss
-Joanne McNamara will become one of a select group of women running FTSE 100 groups
+## Mother Dairy to introduce first naturally degradable milk pouch
+Witnessing over 30% growth in summer season, no intention to take further price hikes
 
-## Mother Dairy unveils India's first naturally degradable milk pouch
-To begin with, the company will use this new degradable milk pouch in its cow milk variant sold across Delhi-NCR from June 5, the World Environment Day
+## Extreme heat tests India's record milk production
+The dairy sector accounts for roughly 5% of India's GDP and supports more than 80 million farmers
 
-## Anthropic vs OpenAI: AI's new rivalry moves to the stock market
-The Deutsche Bank report noted that "OpenAI is in a race with Anthropic, which overtook it in sales last month and is on track to generate $40 billion in annual recurring revenue this month"
+## Sensex today | Stock Market Highlights: Sensex closes 382 points higher at 74,650; Nifty settles at 23,484 on strong IT Rally
+Sensex, Nifty, Share Prices Highlights: The 30-share BSE Sensex climbed 382.50 points, or 0.52 per cent, to settle at 74,649.84 with 20 of its constituents ending higher and 10 with losses. The barometer jumped 1,047.07 points to 74,862.19 from its intra-day low of 73,815.12.
 
-## Sensex today | Stock Market Live: Markets recover in afternoon trade; Sensex gains over 370 pts amid volatility
-Sensex, Nifty, Share Prices LIVE: Indian equities traded volatile on Tuesday, recovering in afternoon trade as IT stocks surged over 4%, even as broader markets remained under pressure from West Asia tensions, FPI outflows and weak rupee, with investors tracking crude oil and global cues.
+## E4W registrations surge 82% in May as rising fuel prices and new model launches accelerate EV adoption
+Steep increase in petrol and diesel prices during May widened the running-cost advantage of EVs, while a growing range of products across segments, attracted a broader set of buyers, say experts
 
-## Aluminium futures: Hold the longs
-₹400 in sight for June contract
+## El Nino knocking on the door as oceans warm rapidly, says UN weather body
+World Meteorological Organisation sees 80% chance of El Nino by August; the chances of the drought-bearing weather persisting beyond November exceed 90%
 
-## India slips to seventh in global market cap rankings as South Korea pulls ahead
-Driven by AI chipmakers, South Korean stocks have rallied ​this year lifting ⁠the combined value of companies listed on its exchanges to $5.01 trillion, surpassing the $4.85 trillion value of firms on India’s NSE
+## Petrol, diesel price hikes could push up inflation and transport costs, says Crisil
+Rising fuel prices are poised to reignite inflation, a Crisil report warns. Expect higher costs for transport, logistics, and manufacturing, directly impacting food and consumer goods. Direct fuel price hikes could add nearly 48 basis points to inflation, with broader effects on supply chains. While
 
-## Meesho partners BSE to help MSMEs list on SME platform via Project Shikhar
-The programme will provide structured support, including compliance guidance, entity conversion and listing preparation
-
-## Transrail bags new orders worth ₹575 crore
-As of March 31, the company's unexecuted order book (including L1 or Lowest Bidder position) stood at ₹16,361 crore, up 12% year-on-year, Transrail Lighting said in an exchange filing
-
-## LG inagurates 15 common facility centres across Ladakh to boost rural livelihoods
-He said the CFCs will function as shared workspaces for weavers, spinners, tailors, artisans and women self-help groups (SHGs), providing them with access to modern facilities for producing high-quality products
+## Delhi jobseeker says he spent ₹14,000 flying to Hyderabad for interview, only to be rejected in 10 mins
+A user on the r/delhi forum of Reddit shared the incident, saying he works in industrial fermentation and had been shortlisted for a fermentation-related role at a “major pharma company” in Hyderabad.
 
 ## Mumbai-Ahmedabad bullet train project achieves major milestone as mountain tunnel breakthrough completed
 India's first bullet train project, linking Mumbai and Ahmedabad, has reached a significant milestone with the successful launch of a viaduct over Ahmedabad's Kalupur flyover. This marks another engineering feat for the high-speed rail corridor, which is now in its advanced construction phase, promi
@@ -69,62 +84,68 @@ While many tech firms scale back, Nvidia is aggressively hiring foreign talent v
 ## Oil prices today: Crude rises amid uncertainty over US-Iran negotiations and Hormuz reopening
 Oil prices saw a slight uptick as US-Iran talks and the potential reopening of the Strait of Hormuz created market jitters. Conflicting signals from Washington and Tehran fueled uncertainty, with traders closely watching any progress or breakdown in negotiations. Developments around the crucial ener
 
-## Stock Market Live Updates Today: BSE Sensex opens around 400 points down, Nifty50 below 23,300 as crude oil prices remain high
+## Stock Market Highlights Today: BSE Sensex ends over 380 points up, Nifty50 crosses 23,450; IT stocks rally strongly
 
 
-## After Taiwan, South Korea overtakes India to become world’s sixth largest stock market; here’s why
-In the cases of both South Korea and Taiwan, the stock market rally is fuelled by a powerful surge in semiconductor giants that are benefiting from the global artificial intelligence boom.
+## Venezuela interim president, Delcy Rodriguez, to visit India from June 3-7 to discuss energy ties
+During her visit, Rodriguez will hold talks with Indian Prime Minister Narendra Modi, Indian foreign ministry spokesperson Randhir Jaiswal told media
 
-## Top stocks to buy or sell today: Stock market recommendations for June 2, 2026 - check list
-Stock market recommendations: Infosys has been recommended as a top buy call by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan on June 2, 2026. The expert has recommended DLF, and Cholamandalam Investment and Finance Company as sell calls. Target prices, stop loss and ranges have been
+## Civil society groups launch Urban Reforms Collective to push city policy reforms
+URC will act as a platform aimed at pushing policy reforms in Indian cities through coordinated advocacy and engagement
 
-## Tamil Nadu: Palaniswami questions delay in launch of TVK’s women’s safety task force
-He urged the chief minister to “step out of his fantasy world” and stop acting like a movie hero delivering punchlines.
+## Sarthak Sidhant, teen who probed CBSE tenders, appears before Parliament panel: What it means for Modi govt
+Sarthak Sidhant, who has dug into CBSE OSM system and tenders, presented his findings to Standing Committee on Education at Parliament
 
-## Balen Shah stirs controversy in Nepal with ‘encroaching India’ remark. What did he say? Row explained
-Nepal PM Balen Shah made these remarks while answering questions in Parliament on a long-running border dispute with India, only to trigger controversy.
+## 'No role for third party in India-Nepal border issue': MEA after Balen Shah's 'encroachment' comment
+Shah, the rapper-turned-politician, said that apart from discussions with India on the border dispute, Nepal was in touch with China and Britain as well.
 
-## Ghaziabad fire: Family of 4 rescued, 3 pet dogs die
-According to fire officials the fire incident happened around 3am in third floor where Pawan Sharma (52), resided with his family and three dogs
+## Army passing-out parade in Nashik ends with Captain down on one knee, a surprise marriage proposal | Watch
+The passing out parade at the Combat Army Aviation Training School ended with a surprise proposal by Captain Bharat Bhardwaj to his partner.
 
-## India signals re-engagement of neighborhood with visit of Myanmar and Nepal leaders
-PM Modi wants the MEA to focus more on neighbours, stressing that India cannot be a global power without strong ties across the subcontinent.
+## 'Voice of Hind Rajab' set to release on June 19 in India after clearance from censor board
+The movie was initially set to release in India in March but was stuck with CBFC, the body that certifies theatrical releases.
 
-## Another paper leak? FTII orders re-exam for the joint entrance test, students protest
-Several videos on social media show students claiming that they got “photocopies” of question papers at the Delhi centre.
+## Shanimol Usman becomes Kerala’s 4th woman deputy speaker, first in over 3 decades
+The election took place during the first assembly session after the Congress-led UDF returned to power and formed the government
 
-## India issues fresh advisory amid Ebola scare: ‘Isolate if travelled through affected country'
-The government said that those who have travelled to Ebola-affected countries and are developing some particular symptoms, should isolate.
+## 'Our lives in danger': Giribala Singh and son sent to judicial custody after heated court hearing in Twisha case
+Retired judge Giribala Singh is an accused in her daughter-in-law Twisha Sharma's death case along with her son Samarth.
 
-## Murder, encounter, 'nalayak aulad', bulldozer: Why Ghaziabad is at the centre of a political storm
-A 17-yr old boy was on May 28 allegedly stabbed to death in Ghaziabad's Khoda by a suspect who was killed in a police encounter on Sunday, May 31.
-
-## ‘Unnecessary imposition’: Tharoor on full Vande Mataram rendition; BJP reacts
-The controversy centres on whether the complete version of Vande Mataram should be rendered at the beginning and end of official events.
-
-## Twisha Sharma and the mother-in-law trope in India
+## ‘Number does not exist, LinkedIn not found’: How a new hire at Uber ‘vanished’ with company’s MacBook
 
 
-## TMC MP Abhishek Banerjee’s parents move Calcutta High Court to quash KMC notice on ‘unauthorised construction’
+## Bengaluru man loses Rs 5.95 crore in online trading scam linked to fake investment platform
 
 
-## ‘Your son will die’: Pune woman tricked into Rs 3.9 lakh ‘black magic’ rituals
+## Claude AI down: Users report problems accessing chatbot and API
 
 
-## Anushka Sharma, Virat Kohli visit Premanand Maharaj’s ashram after RCB’s IPL 2026 win
+## Vivek Dahiya breaks down after Divyanka Tripathi’s delivery; couple names twins ‘T1, T2’. Watch
 
 
-## No physical papers, multi-set questions, AI checks: Inside the proposed blueprint to fix NEET UG exam
+## CGBSE Chhattisgarh Board 2026: Schedule out for Class 10, 12 second main, supplementary exams
 
 
-## ‘BJP is slow-poisoning us’: Shinde Sena leader Abdul Sattar hints at merger with Uddhav faction
+## AAP’s Vadodara city president Ashok Oza arrested in rape case
 
 
-## UP’s Fazil Nagar renamed Pavagadh
+## ‘We are looking for him and his moustache, he is a paper tiger’: Bhagwant Mann targets Bikram Majithia over FIR
 
 
-## ‘Moving back to India after 12 years in the US’: Startup founder shares toll of immigration uncertainty
+## People will obey laws if hands and legs are chopped, says Karnataka High Court
 
+
+## The big scoop: lemon tea chain Ningji to revamp Haagen-Dazs’ struggling China business
+General Mills is following in the footsteps of Starbucks and Burger King by offloading its mainland China Haagen-Dazs stores to an investor group led by local chain Ningji Lemon Tea, in a move analysts see as a proactive revamp of foreign business models amid China’s fast-evolving competitive landsc
+
+## AI, biotech and new energy likely targets of HKIC yuan fund
+The Hong Kong government’s planned offshore yuan-denominated venture capital fund is set to attract investors looking to invest in a wide range of artificial intelligence, biotechnology and new energy firms in the coming years, according to industry players. Financial Secretary Paul Chan Mo-po said 
+
+## Why Hong Kong is now the launch pad for mainland China’s AI champions
+Chinese artificial intelligence companies are upending a decades-old dual-listing practice of selling shares domestically first and then in Hong Kong, as they reverse the sequence to anchor market-based valuations from global investors and tap more sophisticated capital to support growth. AI model d
+
+## How foreign investors should view China’s ‘little giants’ scheme
+The surge of interest in Chinese humanoid robotics has raised a practical question for investors, corporate strategists and supply chain executives: who makes the parts? Reduction gears. Torque sensors. Precision bearings. Industrial software. The further one traces the supply chain, the more often 
 
 ## Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns
 Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tuesday. Some 37 per cent of organisations in the region admitted to investing agg
@@ -138,17 +159,14 @@ Food Republic, the Singaporean food court chain owned by BreadTalk Group, is set
 ## Chinese EV makers recover in May but competition remains fierce amid overcapacity woes
 Sales of electric vehicles (EVs) in China recovered on solid footing in May, as new models fitted with higher-performance batteries and more advanced driver assistance systems drew consumers amid intensified competition. Zeekr, a premium EV brand owned by Geely Auto, the country’s second-largest car
 
-## Closure of Hong Kong’s Casa Hotel tied to student-housing trend after failed sale attempts
-Casa Hotel, a boutique hotel in Hong Kong’s Yau Ma Tei district, has ceased operations after nearly two decades, with market speculation suggesting the building has been leased to a student-housing operator after repeated attempts to sell it failed. A notice posted outside the three-star hotel said 
+## Israel Has a Growing Anti-Christian Problem
+A recent attack in Jerusalem highlights a worrying trend intensified by wartime nationalism.
 
-## Akeso lung cancer drug shines in trials, boosting hopes in US$20b market
-Akeso, whose drug ivonescimab was hailed as biotech’s “DeepSeek moment” amid US competition last year, announced better-than-expected clinical results showing it can treat a type of lung cancer commonly found in smokers, potentially expanding its approved uses. Analysts suggest it could become a bac
+## The World’s Mineral Powers Seize Their Moment
+Resource-rich countries haven’t always benefited from extraction. Can this time be different?
 
-## Unitree clears key hurdle to Shanghai IPO as China’s humanoid robot wave gathers pace
-Unitree Robotics, one of the leading forces in mainland China’s booming humanoid robot sector, has cleared a major hurdle for its highly anticipated initial public offering (IPO) after passing a listing committee hearing on Monday. The Hangzhou-based company filed to list on Shanghai’s Star Market o
-
-## China index reshuffle to entrench tech trades and boost AI rally: brokerages
-A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks is set to boost the representation of technology companies, a move expected to lure more inflows and further increase the sector’s appeal, according to investment banks. The shake-up was projected to spur US$3.1 billion o
+## There Are Only Four Great Powers
+An era of great-power competition has started—but not all would-be competitors qualify.
 
 ## Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
 Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
@@ -165,14 +183,17 @@ Across the world, signals crucial for safe air and sea travel are being disrupte
 ## Washington Wants Myanmar’s Minerals
 Democracy promotion is out, and the race to engage the country’s junta is on.
 
-## Can the State Department Make Europe Great Again?
-A small but influential office will soon announce grants to support Trump administration causes in Europe.
+## 2026 Has Been a Wild Ride for Southeast Asian Stock Markets
+Transparency concerns and the turmoil in global energy markets have created an unusual volatility in the region's capital markets.
 
-## The Energy Crisis Will Long Outlast the Iran War
-The baked-in damage to oil and gas production will take months to undo.
+## The Next Challenge Facing the US-Philippine Alliance, and How They Plan to Overcome It
+This year's Balikatan exercise oriented itself more closely than ever to the Taiwan Strait -- and the possibility of a future conflict over the island.
 
-## Germany Is Scrambling to Speed Up Its Rearmament
-Berlin has already made a huge commitment to its military—but is facing new obstacles at home and abroad.
+## Philippine Senator Estrada Surrenders After Anti-graft Court Orders His Arrest
+Jose “Jinggoy” Estrada claims that the charges of plunder are a politically motivated outgrowth of the political feud between the Marcos and Duterte clans.
+
+## Indian PM Hosts Head of Myanmar’s Military Government in New Delhi
+New Delhi has defended its decision to engage with Min Aung Hlaing, who led the coup against Myanmar's democratically elected government in 2021.
 
 ## Vietnam’s Quiet Strategy at the Shangri-La Dialogue
 At the Shangri-La Dialogue, Hanoi has sought to shape the terms of the regional security debate.
@@ -185,18 +206,6 @@ Behind Uzbekistan's record visitor numbers, rooted in social and economic ties, 
 
 ## Taiwan and Poland on the Frontline of Hybrid Conflict
 An interview with Aleksandra Gasztold on what Taiwan and Eastern Europe can learn from each other.
-
-## The EU’s New Economic Security Tools and China’s Countermeasure Calculus
-The central issue in China-EU economic relations is no longer only trade imbalance, but the growing political anxiety in Europe over the speed of China’s industrial upgrading.
-
-## Can Pakistan Win Bangladesh’s Trust Without Apologizing for the Genocide of 1971?
-The current warmth in Bangladesh-Pakistan bilateral relations is less a product of mutual trust and more a function of geopolitical calculations.
-
-## Why China Needs High GDP Growth Rates to Avoid a Crisis
-While Western nations might view a 2 percent or 4 percent growth rate as a spectacular success, China faces a shock even with a slight dip in its much higher figures.
-
-## The Awakening of Koizumi Shinjiro
-How a defense portfolio transformed Japan’s most underestimated politician.
 
 ## Between Beijing and the Budget: The Domestic Realities of Taiwan’s Defense Spending Drama
 On May 8, Taiwan’s Legislative Yuan broke a grueling six-month stalemate by passing a landmark $25 billion defense budget, catching many observers off guard. The vote brought sudden end to an agonizing legislative deadlock that had pushed U.S.-Taiwanese relations to the edge. For months, long-simmer
@@ -246,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hailstorm hits Denver and causes widespread disruption
-A powerful hailstorm swept through the US city of Denver, bringing hailstones reportedly as large as golf balls.
+## Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss
+Southampton back Tonda Eckert despite missing out on a playoff final for a Premier League place due to spying scandal.
 
-## Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa
-The violence prompted 300 Mozambicans to return home over the weekend.
+## Mamdani signs ‘executive order’ letting kids stay up late for NBA Finals
+Mamdani signs ‘executive order’ letting kids stay up late for NBA Finals.
 
-## China opens its markets to African exports. Who benefits?
-China's tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.
+## What are the FIFA World Cup 2026 squads for all 48 teams?
+From icons bidding adieu, to upcoming stars looking to make their mark on the biggest, Al Jazeera lists all the players.
 
-## Senegal president names government, boycotted by ally-turned-rival
-Ousted PM says his party, which holds the parliamentary majority, will not participate in the new government.
+## Underground drug smuggling tunnel discovered from Tijuana to San Diego
+A tunnel was discovered running underneath the US-Mexico border, allegedly used to smuggle drugs and weapons.
 
-## At least 12 people killed, dozens wounded in Russian attacks on Ukraine
-Russia launches 656 drones and 73 missiles at Ukraine overnight, according to Ukraine's air force.
+## Every world leader who has visited China in 2026 in one chart
+China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence.
 
-## South Africa’s World Cup delegation departs for Mexico without coach
-Bafana Bafana's departure was delayed due to non-issuance of visas for several players and support staff.
+## Israel kills five in attacks on Lebanon after Trump announces de-escalation
+The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.
 
-## Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
-Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.
+## Trump says Israel, Hezbollah to stop fighting: What we know
+Netanyahu agrees to halt operations near Beirut; Hezbollah to stop attacks on Israel under new truce arrangement.
 
-## India’s Zee Entertainment signs World Cup 2026 broadcast deal with FIFA
-Zee will broadcast the 2026 and 2030 World Cups and the 2027 Women's World Cup among 39 FIFA tournaments until 2034.
+## How social media is turning African life into content at a cost
+Across Africa, social media redefines politics, culture, identity, and connection, blurring community and performance.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
