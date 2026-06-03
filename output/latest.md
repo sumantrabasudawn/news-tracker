@@ -1,37 +1,34 @@
 # AION Intelligence
 
-## Trump’s Iran war drains US oil stocks to lowest level since 2004
-Industry warns prices could soon jump as inventories reach ‘critically low’ threshold
+## SpaceX pitches investors $1.8tn valuation in historic IPO
+Rocket and AI group is seeking to raise up to $86bn in biggest Wall Street debut of all time
+
+## Trump’s pick of Pulte as spy chief threatens foreign surveillance bill
+Republican and Democratic lawmakers say choice imperils extension of expiring Foreign Intelligence Surveillance Act
+
+## SpaceX wins tax exemption for $55bn AI chip plant despite local backlash
+Elon Musk’s Terafab plant sparks fierce opposition and threat of legal action from residents of Texas county
+
+## Senior official from Germany’s AfD meets top Kremlin associates
+Executives hold talks with far-right party, which leads German polls and supports restarting gas flows through Nord Stream
+
+## Saudi wealth fund replaces foreign CEOs with locals
+Public Investment Fund focuses on domestic investments ahead of country hosting 2034 World Cup
+
+## Online adverts for UK starter jobs halve over past decade
+Sharp drop comes as ministers try to tackle how many young people are not in education, employment or training
+
+## UK Treasury set to take control of fighter jet spending after defence ministry mishaps
+Move comes as Keir Starmer prepares to announce £15bn increase in military expenditure
+
+## Meta bets on AI agents to unlock WhatsApp revenues
+Mark Zuckerberg expands group’s push into the technology as it seeks to turn messaging app into a bigger business
 
 ## Google upsizes historic equity raising to $85bn to back AI spending spree
 Tech giant’s first stock offering in more than two decades gets strong demand as investors shrug off huge investment plans
 
-## Europe’s tightrope walk on tech sovereignty
-EU should be wary of curbing access to US providers as it tries to nurture its own
-
-## UK government urges companies to share data about AI effects on workforce
-Move comes amid concerns that AI will exacerbate youth unemployment
-
-## Barclays hopes to boost UK economy with enlightened self-interest
-Bank wants the government to make changes that encourage more foreign companies to manage their cash from the UK
-
-## Elon Musk shifts social media focus from SpaceX to UK far-right politics
-Tech billionaire writes 110 posts, retweets and replies about British affairs in space of week
-
-## Starmer pushes ‘bucket list’ policies as fatalistic mood descends on Number 10
-UK prime minister could be ousted within weeks if Andy Burnham wins Makerfield by-election
-
-## UK government adviser urges clarity on Palantir access to NHS patient data
-Move by Nicola Byrne comes after FT reported that health service had agreed new ‘admin’ role for some external staff
-
-## Ebola spreads to new areas of DR Congo as outbreak widens
-One infected person in Uganda is known to have travelled to the United Arab Emirates before falling ill
-
-## Gulf states in talks for oil pipelines to bypass Hormuz
-Oil exporters seek alternative ways to export, as crucial waterway has been disrupted for over three months
-
-## MP sues Musk’s xAI in UK test case over fake sexual images
-Legal claim by Jess Asato challenges whether AI model-makers are liable for what their systems produce
+## Trump’s proposed grant rules could destroy US science, researcher warns
+Additional funding controls by Office of Management and Budget will make new discoveries less likely, say critics
 
 ## Led by Poland & China, central banks turned net buyers of gold in April
 The development comes after they were net sellers of the precious metal in March; Russia continues to offload the yellow metal
@@ -57,29 +54,32 @@ The pace of expansion accelerated after 2015-16, when coverage stood at 28.7 per
 ## Wheels India appoints Harsha Viji as Additional Director
 
 
+## Sebi bans Rajesh Exports' CMD for fin irregularities
+Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an "egregious" 97%-99%. The company also failed 
+
+## RBI rejects bids for treasury bills, move signals lower rates
+The RBI rejected bids for longer-term treasury bills, signaling discomfort with rising short-term yields ahead of its monetary policy decision. This move, aimed at softening interest rates, comes as the MPC meets to decide on rates, with a pause widely expected. Yields on government bonds subsequent
+
+## Interest in India strong despite volatility: Bank of America chief
+Despite near-term volatility, India's appeal remains strong for strategic investors due to its scale and growth prospects. While foreign institutional investor participation has declined, Bank of America's India CEO Vikram Sahu believes capital will follow as regulatory friction eases and business c
+
+## Govt sets aside Rs 10k crore to cap jet fuel price, keep air fares in check
+The Indian government has allocated Rs 10,000 crore to stabilize jet fuel prices. This move aims to prevent airfares from becoming unaffordable for citizens and to support airline operations. The support will be provided as an interest-free advance to oil companies. This initiative is expected to ma
+
+## Exporters keep tabs on USTR probe, trade talks
+Indian exporters are closely monitoring US trade investigations and bilateral deal talks, expecting an advantage over rivals. While not overly concerned about a proposed 12.5% tariff on 54 countries, they are apprehensive about the same levy on China. Exporters are confident that ongoing negotiation
+
+## Tech stocks slide on AI fears, oil gives Dalal Street a headache
+Persian Gulf tensions pushed crude prices near $100, weakening the rupee and causing the Sensex to plunge over 1,100 points mid-session. Despite initial losses, banking stocks rallied, aiding a partial recovery, while IT stocks crashed due to AI disruption fears. Foreign funds saw significant outflo
+
 ## BHEL secures order worth over Rs 2,000 crore from Nigerian firm
 
 
 ## District economy data: Govt issues uniform framework for district GDP estimates with 2022-23 base year
 The statistics ministry has released a uniform framework for district-level economic output estimates with a revised base year of 2022-23. This move aims to enhance consistency and comparability of economic data across all states and Union Territories. The guideline, incorporating stakeholder feedba
 
-## Rupee slides 40 paise to 95.76 against dollar as tariff concerns, oil prices weigh on sentiment
-The rupee weakened by 40 paise to 95.76 against the US dollar due to proposed US tariffs, rising crude oil prices, and foreign fund outflows. Escalating geopolitical tensions in West Asia also contributed to the decline, impacting investor sentiment. Market participants now await the Reserve Bank of
-
-## India’s 500 GW clean energy goal could create 44 lakh jobs, says study
-
-
-## India's economy shows resilience amid geopolitical uncertainty, says RBI deputy governor
-India's economy is showing remarkable resilience amidst global challenges, driven by robust industrial and services sectors, strong demand, and improved corporate performance. RBI Deputy Governor Swaminathan highlighted the nation's strong macroeconomic footing, with inflation within limits and mana
-
-## Grid stability, large-scale integration of renewable energy discussed in Parl panel meet
-
-
-## LPG sales down 19% year-on-year in May
-
-
-## Coal gasification has saved Rs 28,000 crore in forex so far
-
+## Delhi hotel building owner Lavkesh Bajaj arrested after Malviya Nagar fire kills 21
+Police had earlier issued a lookout circular against Bajaj and his wife before launching a search operation to trace them.
 
 ## 'Much-needed support’: Air India on Centre’s ₹10,000-crore aviation fuel price relief package
 The government has approved a ₹10,000-crore fund to help keep aviation fuel prices stable for airlines amid rising global fuel costs.
@@ -102,31 +102,28 @@ The passenger, who had arrived from Sharjah by Flight No. IX-136 on June 1, was 
 ## Delhi weather: Yellow alert in capital for light rain, thunderstorms over next two days
 The weather department said “partly to generally cloudy skies” would persist for the next couple of days.
 
-## Delhi fire: Hotel under scanner, owner detained, 18 foreign nationals killed | Top points on Malviya Nagar blaze
-While police officials believe the death toll may increase, it has been confirmed that at least 18 foreign nationals were killed in the fire.
-
-## 24 high-tide days this year during monsoon, says BMC
+## Surat bus crash: Kin provide blood samples for DNA matching
 
 
-## Several IT firms faced FIRs in past year for fraud
+## TMC leader Jay Prakash Majumdar held over ‘grabbing’ woman’s house
 
 
-## ‘Doctoron ne mana…’: Gurmeet Choudhary on wife Debinna’s miscarriages; expert weighs in
+## 2025 murder of gold merchant: HC asks DGP to take action against absconding BDO, orders action against investigation officer
 
 
-## D K Shivakumar sworn in as 24th state CM, ex-CM Siddaramaiah’s son gets cabinet berth
+## CID arrests two in methanol supply chain in hooch tragedy, 20 deaths confirmed
 
 
-## How Pune IT firm duped nearly 700 techies before vanishing
+## Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam
 
 
-## Ukraine drones hit St Petersburg oil terminal as Putin’s ‘Russian Davos’ opens
+## Application by driver’s mother in Porsche crash: Prosecution opposes plea for blood reports of victims, calls it ‘roving and fishing inquiry
 
 
-## British Foreign Secretary to meet PM Modi, Jaishankar on June 3
+## ‘Unauthorised’ school in Chunabhatti ordered shut, students told to relocate
 
 
-## How hyenas are secretly saving an Ethiopian city 5,000 tonnes of urban waste
+## Sex determination racket: 12th passout used portable sonography machine,15 doctors under scanner for female foeticide
 
 
 ## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
@@ -153,6 +150,18 @@ GenScript Biotech Holdings surged in Hong Kong after its associate company discl
 ## Inside Central Crossing: the dual-tower development built for the future of work
 For decades, the best office spaces in Hong Kong’s Central district sold the same promise: proximity to capital, clients and decision-makers. Today, that is just the baseline. The next generation of tenants is weighing if the office experience feels as modern as the businesses operating inside it. C
 
+## India’s Cockroach Movement Gains Momentum
+A satirical political party has tapped into the discontent among unemployed youth.
+
+## Iran Launches Deadly Attack on Kuwait’s Main Airport
+Experts warn that continued strikes could jeopardize peace talks.
+
+## What to Know About Ethiopia’s Election
+Abiy’s all-but-certain victory threatens to destabilize the African nation.
+
+## Why Is Trump Targeting Brazilian Gangs?
+The U.S. designation of two Brazilian crime groups as terrorist organizations scrambles already tense bilateral relations.
+
 ## The New Weapon Behind Ukraine’s Battlefield Success
 Mid-range drones that can hit targets almost 100 miles behind Russian lines have changed the game.
 
@@ -164,18 +173,6 @@ A joint campaign to defend the island would struggle to operate effectively.
 
 ## America Enabled the Gulf’s African Adventurism
 Why Washington let its Middle Eastern partners wreak havoc in Africa.
-
-## Middle East Cease-Fires Matter Even When They’re Broken
-De-escalation, rather than lasting peace, is still important.
-
-## Why Asia’s Not Buying What Hegseth’s Selling
-A Shangri-La charm offensive collided with regional values.
-
-## The Deadly Price of China’s Coal Boom
-Two fatal disasters highlight enduring problems in the mining industry.
-
-## Russia Pounds Ukraine With Missile, Drone Strikes
-Moscow warned of a massive attack on Kyiv. And it delivered.
 
 ## Uzbekistan’s New Migration Destination? America.
 From irregular border crossings to bilateral training agreements, Uzbekistan is working to carve out a formal pathway to U.S. employment.
@@ -249,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran faces a new energy imbalance, but its options are limited
-Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.
+## Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress
+Hamawy's victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.
 
-## Israeli attacks kill nine in Lebanon, reach Beirut outskirts
-The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.
+## Kuwait labels Iran attack ‘heinous aggression’
+Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.
 
-## Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed
-Brazil's president says he was surprised by the proposed 25 percent tariffs, which came amid signs relations improving.
+## Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’
+Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.
 
-## US cites forced labour concerns as grounds for new tariffs
-USTR's proposal comes from a Section 301 unfair trade practices investigation designed to help rebuild Trump's tariffs.
+## Deadly fire rips through New Delhi hotel
+A fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.
 
-## Netanyahu downplays US-Israel rift after Trump confirms criticism
-US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he 'likes' the Israeli leader.
+## Japan’s football team sports cowboy hats ahead of World Cup
+Japan's national football team wore cowboy hats as fans welcomed them to Monterrey, Mexico.
 
-## FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?
-Al Jazeera speaks to Qatar coach Julen Lopetegui ahead of the World Cup, with a shot at knockouts within their grasp.
+## Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio
+US secretary of state dodges question at congressional hearing on Washington's position on Israel's nuclear programme.
 
-## ‘Disgraceful’: Egypt jails activist Douma after article on its prisons
-Rights group PEN America says Douma's 'case embodies part of an escalating crackdown on writers in Egypt'.
+## Ten years on, world remembers Muhammad Ali ‘the Greatest’
+Ten years on, world remembers Muhammad Ali 'the Greatest'
 
-## Bangladesh’s top diplomat elected UN General Assembly leader in tight race
-Khalilur Rahman elected as the president of the UNGA's 81st session, garnering 99 votes in secret ballot.
+## Israel’s decades-long history of invading Lebanon
+Israel has invaded Lebanon for the sixth time in 48 years. Al Jazeera’s Hala Al Shami outlines this history.
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
