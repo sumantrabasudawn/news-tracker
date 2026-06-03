@@ -1,133 +1,139 @@
 # AION Intelligence
 
-## Palantir should not have ‘significant role’ in UK public data systems, MPs say
-Technology committee calls on government to trigger break clause in flashpoint NHS contract
+## Brussels unveils sweeping plan to boost Europe’s digital sovereignty
+Also in this newsletter: Counterfeit cigarette use surges across Europe, new report finds
 
-## Premier League clubs could face legal action over sponsorship deals with crypto firms
-UK regulator focuses on teams with partnerships with digital assets companies that are not authorised to operate in Britain
+## FirstFT: Can the Middle East crisis save Jim Ratcliffe’s Ineos empire?
+Also in today’s newsletter: renewed Gulf strikes and Fed ‘forward guidance’
 
-## Minister condemns riots after UK rightwing leaders call for ‘rage’ over student killing
-Home Secretary says violent scenes in Southampton ‘completely unacceptable’ after Nigel Farage urges probe into police handling of case
+## The risk manager who revived Deutsche Bank
+The European bank has finally learned that it doesn’t need the US to reach success
 
-## Cliffwater’s flagship private credit fund redemption requests hit 17%
-Fund with net assets of $31bn aimed at retail investors limits withdrawals in latest sign of exodus from sector
+## How can the UK catch up on stablecoins?
+Inquiry warns country risks missing out on potential benefits of new form of digital money because of excessive regulation
 
-## Trump appoints real estate heir Bill Pulte as national intelligence chief
-Housing industry executive and staunch ally of the president to take up role in acting capacity
+## Andrew Left’s fraud conviction leaves Wall Street asking: what are the rules?
+Guilty verdict for famed short seller raises questions on line between public commentary and illegal trading
 
-## Chinese investors fear missing out on SpaceX IPO after crackdown
-Beijing warns brokers about overseas share sales amid fears of capital flight
+## Ebola outbreak stirs familiar grim sense of foreboding
+The Bundibugyo strain is a reminder that serious health threats can escalate from under-the-radar pathogens
 
-## Trump signs watered-down AI vetting order after Maga infighting
-President’s directive will allow the US government to gain early access to cutting-edge models
+## Hungary secures more EU funds than it can spend
+Budapest has to find projects for €10bn from pandemic recovery fund which lapses in December
 
-## Kyle included ‘more positive language’ in AI speech after Mandelson advice
-Documents raise questions since the advisory firm co-founded by Labour veteran represented big AI companies
+## Swedish business bristles over EU interventions
+Lawyers and financiers complain that policymakers could be undermining the success of the country’s model
 
-## Why ultra-luxury cruises are at risk of running aground
-The core principles of luxury can lose their efficacy on the high seas
+## Your chance to buy alleged MFS fraudster Paresh Raja’s Ferrari
+Eight used supercars, one incautious owner
 
-## Seven states sue US for paying $1bn to make Total exit wind power
-New York leads lawsuit challenging Trump administration’s effort to make French company reinvest in fossil fuels
+## Florentino Pérez: Real Madrid offers investors prestige not profits
+Club president says illustrious brand will lure outside capital at €10bn-plus valuation as he fights for re-election
 
-## Anthropic to expand Mythos access to more than 15 countries
-About 150 organisations will be given advanced cyber security model following requests from around the world
+## New York Knicks title run gives besieged owner a rare reprieve
+Long assailed for banning fans who yell ‘sell the team!’, James Dolan gets a break after decades without a championship
 
-## Mamata Banerjee leads protest against BJP over alleged attacks on Trinamool leaders and workers
-TMC supremo vows to fight BJP, announces INDIA bloc meeting in Delhi soon
+## Sensex today | Stock Market Live: Sensex falls over 872 points, Nifty below 23,300 as IT stocks drag markets lower
+Sensex, Nifty, Stock Price Live Updates: Indian equities fell sharply despite strong global cues, with Sensex and Nifty dragged lower by IT stocks while healthcare provided support. Investors now await the RBI policy decision, with analysts expecting stock-specific action amid sector rotation and ra
 
-## Maharashtra cabinet clears ₹2 lakh farm loan waiver scheme, adds repayment incentives
-The scheme is expected to benefit around 56 lakh farmers and includes three components — loan waiver, one-time settlement and repayment incentives.
+## IT stocks tumble: TCS logs biggest single-day fall, Nifty IT slides 5%
+TCS shares fell over 7 per cent to hit a low of ₹2,265.20 in Wednesday’s trade.
 
-## IndiGo to suspend Manchester flights from August 31 amid rising costs and airspace constraints
-As part of the move, IndiGo will return one of the Boeing 787-9 Dreamliners leased from Norse Atlantic Airways
+## IndusInd Bank slips on report of whistleblower complaint
+The ⁠lender's shares have fallen 5.1% over the ‌past 15 months
 
-## Balmer Lawrie expects rail logistics revenue to cross ₹200 crore annually from FY28
-Balmer Lawrie has secured a 10-year NMDC Steel contract worth about ₹2,500 crore, marking the largest revenue win in the PSU’s history and significantly boosting its rail logistics business
+## India's inflation might move higher to 5% in FY27 led by food, energy prices: BoB report
+The report stated that core inflation is expected to remain anchored around 4.5% during the same period, suggesting that the potential of El Nino might require some additional monitoring
 
-## Unilever CEO reaffirms focus on India opportunity, eyes premium segment growth
-Despite intense price competition, the company remains focused on defending market share and driving volume-led growth
+## Copper futures can rise to ₹1,430
+The June futures was oscillating in the narrow range of ₹1,342-1,374 between May 18 and June 1. But on Tuesday (June 2), it broke out of the resistance at ₹1,374 and closed at ₹1,379.30
 
-## India, UK discuss sticking points delaying free trade pact implementation
-India has raised concerns over Britain’s new steel safeguard measures and the proposed Carbon Border Adjustment Mechanism, which could impact Indian exports
+## Vedanta, Hindustan Zinc shares decline amid ED searches under FEMA
+Investor sentiment turned cautious amid concerns over potential regulatory scrutiny and alleged foreign exchange violations
 
-## Alkem Laboratories promoters sell 1.5% stake for ₹930 crore via block deal
-Following the transaction, promoter group member Jayanti Sinha exited the company, while overall promoter holding declined to 49.71% from 51.20%
+## Stocks to Watch, June 3: Infosys, Canara Bank, Vedanta, REC, Shelter Pharma, JSW Steel, Magellanic Cloud
+Several stocks will remain in focus after key corporate developments, including Infosys’ banking partnership expansion, ED searches at Vedanta, Canara Bank’s fundraising plan, UPL’s restructuring approval, REC’s asset transfers, and fresh order wins, investments and stake-sale transactions
 
-## Tata Sons Chairman Chandrasekaran visits TASL’s upcoming Defence MRO facility in Bengaluru
-Spread across 16 acres and spanning 15,000 square metres, the facility is scheduled to be commissioned by December-end 2026
+## CA firms to onboard interns under PMIS, allowed to advertise under ICAI’s revised code
+The Institute of Chartered Accountants of India has resolved earlier funding concerns and aligned implementation with firms that lack CSR budgets
 
-## Godrej starts wealth management business
-Godrej Industries Group has unveiled its new wealth management venture, Godrej Wealth, aiming for a substantial Rs 1,00,000 crore in assets under management by 2031. This expansion into financial services targets affluent clients with investable assets of Rs 2 crore and above, offering comprehensive
+## Why is stock market down today? BSE Sensex, Nifty50 crash around 1% - top reasons for fall
+Both the Sensex and Nifty declined more than 1% as investor sentiment weakened amid growing concerns over the Iran-US conflict, continued foreign institutional investor (FII) outflows and a host of other market challenges.
 
-## Kotak prods India Inc to start investing again
-Billionaire Uday Kotak urged Indian businesses to invest in the future, highlighting a global lag in AI technology. He cited Google's massive $80 billion AI infrastructure investment, noting its scale dwarfs India's entire listed market. Kotak called this a wake-up call for companies to prioritize f
+## 'Economic Fury' on Iran: US seizes Tehran's biggest crypto network amid peace talks
+The US has imposed sanctions on Iran's largest cryptocurrency exchange, Nobitex, and its executives, accusing them of aiding the Iranian government and sanctioned entities in bypassing Western restrictions. This move, dubbed 'Economic Fury,' aims to increase economic pressure on Tehran amid ongoing 
 
-## India slips to seventh in global market capitalisation ranking
-India has dropped to seventh in global stock market valuation, overtaken by South Korea and Taiwan. This decline, attributed to sustained foreign fund selling and muted corporate earnings, contrasts with the AI chip leadership of South Korean and Taiwanese firms. Despite a recent Sensex uptick drive
-
-## India, UK to narrow gaps to roll out trade deal
-India and the UK are working to resolve outstanding issues, including steel quotas and duties, to expedite the implementation of their bilateral trade agreement. Discussions between Commerce Minister Piyush Goyal and UK Secretary of State Peter Kyle focused on overcoming these sticking points to adv
-
-## Government plans new indices to track informal mfg, services
-The government is developing new indices to measure industrial and service sector production in India's vast informal economy. These will draw from extensive surveys to provide a clearer picture of the unorganized sector, moving beyond proxy methods that distorted data, especially post-pandemic. The
-
-## Citi: India's AI advantage needs better articulation
-Citi's Vis Raghavan notes muted FDI in India due to energy dependency and AI uncertainty, despite strong domestic sentiment. He highlights the need for India to articulate its AI-driven global economy position, emphasizing its cost advantage in compute and potential as a global AI hub.
-
-## IPO plans: Oyo gets nod, Coke eyes listing of bottler's parent
-Despite challenging global markets, several major Indian companies are pushing ahead with IPO plans. Oyo's parent, Prism, received regulatory approval for a Rs 6,650 crore offering. Coca-Cola is also exploring a $1 billion listing for its Indian bottling arm, Hindustan Coca-Cola Holdings, in 2027. O
-
-## High costs dampen summer for beverage companies
-Companies are facing rising costs for both cans and glass bottles this summer, impacting beer and soft drink manufacturers. Supply disruptions from West Asia for aluminium cans and increased LPG costs have led to price hikes of 15-20% for packaging. Distributors anticipate a Rs 10 price increase for
-
-## Would like to end sanctions waivers on Russian oil: Rubio
-In March this year, the Trump administration issued two 30-day licences which allowed the purchase of previously sanctioned Russian and Iranian energy
-
-## India joins global cyber elite as Anthropic expands ultra-powerful ‘Mythos’ AI beyond US
-Countries in the Five Eyes alliance, including Canada, Australia and New Zealand, will be granted access to Mythos, alongside key European and Asian economies.
-
-## Venezuela’s acting President Delcy Rodriguez’s visit this week to focus on energy ties
-Venezuela’s acting President Delcy Rodríguez will visit India this week for talks with Prime Minister Narendra Modi to bolster bilateral ties against the backdrop of growing energy cooperation, with the South American state becoming the country’s third-largest supplier of oil this month.
-
-## A teen whistleblower, portal chaos, cyberattacks and a leadership shake-up: How CBSE's OSM row snowballed
-The OSM row centres on CBSE's new digital evaluation system for Class 12 board exams and the awarding of its contract to Coempt EduTeck.
-
-## CBSE ‘tender investigator’ Sarthak Sidhant's big day in Delhi: Two meetings, and a govt move spurred by his blog
-Congress leader Rahul Gandhi also met Sarthak Sidhant and his family members, and posted for him on X alongside a photo: “Sarthak, stay firm on your principles”
-
-## US looks to end waiver on Russian oil purchase, says Rubio: Here's how it will hit India
-The US first announced the waiver in March. Since then, it has been extended twice, with the latest extension set to expire on June 17.
-
-## Siddaramaiah in national fray, appointed to top Congress panel as he makes way for Shivakumar as Karnataka CM
-Siddaramaiah resigned as chief minister on May 28, saying he had been asked by the Congress high command to step down to make way for his deputy.
-
-## 'Unfavourable cost': IndiGo pauses flight from Mumbai to UK's Manchester
-The airline will return one of its six Boeing 787-9 Dreamliner aircraft, which had been taken on damp or wet lease from Norse Atlantic Airways.
-
-## 7 killed, 40 injured as 2 buses collide in Surat; 4 critical
+## Stock market today: BSE Sensex tanks over 800 points, Nifty50 goes below 23,300
 
 
-## 1.5 crore artificial groundwater recharge, storage works under JSJB initiative: Minister C R Patil
+## More Trump tariffs? Amid trade deal talks, US names India in its Section 301 findings; proposes additional duties
+The USTR released the outcome of 60 investigations conducted under Section 301, identifying India among 54 economies that, according to its assessment, do not have adequate measures in place to prohibit or effectively prevent the import of goods allegedly produced using forced labour.
+
+## Top stocks to buy today: Stock recommendations for June 3, 2026 - check list
+Stock market recommendations: JSW Energy, Adani Energy Solutions, and IFCI have been picked by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as the top stocks that you can consider buying on June 3, 2026:
+
+## Gold, Silver Rate Today Live Updates: International gold prices edge down on renewed US-Iran tensions
 
 
-## Supreme Court appoints high-powered panel to review Aravalli definition report
+## Month four of Hormuz blockade: Oil prices jump after Iran attacks Kuwait, Bahrain
+Middle East tensions surged as Iran launched missiles towards Kuwait and Bahrain, prompting US retaliatory strikes. Despite ongoing peace talks, no breakthrough has occurred, and the Strait of Hormuz remains disrupted for 96 days. Meanwhile, US crude inventories saw a significant drop for the sevent
+
+## Stock Market Highlights Today: BSE Sensex ends over 380 points up, Nifty50 crosses 23,450; IT stocks rally strongly
 
 
-## Abhijeet Dipke to land in Delhi on June 6; Sonam Wangchuk lends support to Cockroach Janata Party
+## Four HCs to have women chief justices simultaneously
+The notification comes days after the Supreme Court collegium, headed by Chief Justice of India Surya Kant, recommended Justice Rai’s appointment on May 22
+
+## Firing outside Khan Sir coaching centre in Bihar's Patna, educator cites ‘blow up’ threat from institute nearby
+Reacting to the firing outside his institute in Patna, Khan Sir blamed a coaching centre nearby, citing an alleged threat to “blow up” his centre.
+
+## ‘The Nehru-Gandhi family deserves the titles of traitor, deceiver’: Nishikant Dubey
+“In the Mountbatten-Nehru-Jinnah agreement, Mountbatten kept Kashmir separate--a problem with which India has been grappling to this day”.
+
+## 'Cigarettes burns, fatal head injury': Kerala toddler abused ‘extremely brutally’ by mother, her lover
+Doctors who examined the body noted several healed scars, suggesting earlier injuries. The body was then sent for a post-mortem examination.
+
+## 'Guise of friendship unacceptable': CM Yogi Adityanath on Ghaziabad teen murder
+Police have said that the main accused along with his father and associates, conspired to attack the teenager after a dispute over riding a bike.
+
+## Monsoon set to enter India, Mumbai on IMD yellow alert; thunderstorms in store for Delhi | Weather wrap
+Southwest monsoon is expected to enter India via Kerala around June 4, according to the India Meteorological Department (IMD).
+
+## 16-year-old flags data issues on JEE Advanced results site; IIT Roorkee says ‘thank you’, takes corrective action
+Rylen Anil (@DarthKermy72747) claimed that the JEE Advanced 2026 candidate result infrastructure had a public cloud storage misconfiguration.
+
+## CBFC clears ‘Voice of Hind Rajab’ without cuts, will be released on June 19 in India
+Speaking with HT, CBFC chairperson Shashi Shekhar declined to comment on reasons behind the board’s decision to certify the film after months of uncertainty.
+
+## Writer’s Corner: From Lalbagh to Cubbon Park, Suresh Jayaram on what it takes to document Bengaluru’s green spaces
 
 
-## Halima & Gudiya, in queue at Bengal tribunals as cloud darkens over citizenship
+## Ranveer Singh sends legal notice to film body over Don 3 ‘ban’; press conference today
 
 
-## Latest family health survey: Rajasthan sees rise in teen pregnancies, dip in child nutrition indicators
+## After South Delhi building collapse, CM asks MCD Commissioner to conduct citywide audit
 
 
-## For larger PNG footprint, Government looks at consumer-friendly centralised portal
+## Can pending case prevent foreign trip? Court defends doctor’s right to travel
 
 
-## How runaway tigress’s cubs could save Similipal’s big cat population
+## Heavy rain lashes Mumbai’s western suburbs, temperatures dip
 
+
+## Saket building collapse: Owner earned Rs 10 lakh monthly in rent; hoped to get more from new floors, probe reveals
+
+
+## Career Focused Finance Programs: 6 Features That Are Helping Students Break Into Top Roles Faster
+
+
+## US proposes fresh 12.5% tariffs on India amid trade talks, 10% on Pak, Canada, EU
+
+
+## Chinese biotech GenScript surges as it rebuffs US lawmakers’ allegations
+GenScript Biotech Holdings surged in Hong Kong after the Chinese biotechnology company pushed back against renewed scrutiny from US lawmakers over alleged national security concerns. The shares rose as much as 29 per cent on Wednesday before trimming gains to trade 18 per cent higher at HK$14.35 by 
+
+## Inside Central Crossing: the dual-tower development built for the future of work
+For decades, the best office spaces in Hong Kong’s Central district sold the same promise: proximity to capital, clients and decision-makers. Today, that is just the baseline. The next generation of tenants is weighing if the office experience feels as modern as the businesses operating inside it. C
 
 ## Why Shanghai’s property market is rebounding faster than most other cities in China
 Shanghai’s second-hand housing market picked up steam in May, with transaction activity accelerating significantly, while the city’s new home market has also seen robust sales. Industry experts believe Shanghai’s property sales volume and home prices will recover faster than most cities in China aft
@@ -146,12 +152,6 @@ General Mills is following in the footsteps of Starbucks and Burger King by offl
 
 ## AI, biotech and new energy likely targets of HKIC yuan fund
 The Hong Kong government’s planned offshore yuan-denominated venture capital fund is set to attract investors looking to invest in a wide range of artificial intelligence, biotechnology and new energy firms in the coming years, according to industry players. Financial Secretary Paul Chan Mo-po said 
-
-## Why Hong Kong is now the launch pad for mainland China’s AI champions
-Chinese artificial intelligence companies are upending a decades-old dual-listing practice of selling shares domestically first and then in Hong Kong, as they reverse the sequence to anchor market-based valuations from global investors and tap more sophisticated capital to support growth. AI model d
-
-## How foreign investors should view China’s ‘little giants’ scheme
-The surge of interest in Chinese humanoid robotics has raised a practical question for investors, corporate strategists and supply chain executives: who makes the parts? Reduction gears. Torque sensors. Precision bearings. Industrial software. The further one traces the supply chain, the more often 
 
 ## The Deadly Price of China’s Coal Boom
 Two fatal disasters highlight enduring problems in the mining industry.
@@ -249,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Rania al‑Abbasi’s children: The truth revealed
-Syrian commission confirms the deaths of Rania al-Abbasi’s six children, missing under Bashar al-Assad’s rule.
+## Accident on Kuwait motorway as Iranian missiles fly overhead
+Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead.
 
-## Italy celebrates 80 years of democracy
-A colossal 400-kilogram flag was draped over Rome’s Colosseum as Italy marked the 80th anniversary of its republic.
+## Rebecca Bennett wins New Jersey Democratic primary, to face Trump ally Kean
+Democrats pick former Navy commander to challenge Republican Tom Kean in New Jersey's 7th District.
 
-## Actor Idris Elba knighted by King Charles at Windsor Castle
-British actor Idris Elba was knighted by King Charles III at Windsor Castle on Tuesday.
+## Benjamin Netanyahu faces Israeli backlash over Lebanon strategy
+Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut.
 
-## Protesters use ‘Ebola coffin’ to rally against US quarantine centre
-Demonstrators in Nairobi have carried an ‘Ebola’ coffin to protest a proposed US quarantine facility.
+## Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison
+Opposition leader and dozens of other defendants handed lengthy prison terms for 'forming a terrorist alliance'.
 
-## European election monitor dismisses rumours of fraud in Colombia’s election
-The electoral mission described the first round of voting in Colombia's presidential race as 'a lesson in democracy'.
+## Mexico and Canada push to extend USMCA trade pact
+Mexico and Canada have backed extending the USMCA trade agreement for another 16 years.
 
-## Trump berated Netanyahu? Analysts question US-Israel feud rumours
-Analysts say 'strategic leaks' aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.
+## US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain
+The US military says it carried out ‘self-defence’ strikes on Iran’s Qeshm Island.
 
-## Drones light up Taipei’s night sky for Computex trade show
-Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in a dazzling display for the Computex trade show.
+## Zimbabwe’s e-tricycle crackdown puts rural women’s livelihoods at risk
+Zimbabwe’s e-tricycle scheme for rural women is being squeezed by high fees, licensing rules and police enforcement.
 
-## Trump administration scraps $1.8bn ‘anti-weaponisation fund’
-US Justice Department, however, plans to keep a settlement provision to bar audits of Trump's past tax records.
+## Why women go to war
+The untold story of women on the battlefield.
+
+## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
+Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
@@ -294,8 +297,14 @@ The rift stems from the Income-tax department's demand that deeds of these relig
 ## AI bubble debate gets real as chip stocks rally
 Bulls see a boom driven by structural changes that are transforming the notoriously cyclical semiconductor industry. Bears see an overheated market fascinated by the latest shiny object. And investors are caught in the middle, transfixed by the momentum, but wary of what could come next.
 
-## Govt amends CSR norms; provides more leeway for companies
-Companies can now invest up to ten percent of their Corporate Social Responsibility funds into special instruments. These instruments are called zero coupon zero principal instruments. They are issued by not-for-profit organizations. This investment will happen through a Social Stock Exchange. This 
+## RBI to conduct Rs 50,000 cr 2-day variable rate repo auction on Jun 3
+The Reserve Bank of India will conduct a two-day variable rate repo auction worth Rs 50,000 crore on June 3. This move aims to manage liquidity in the banking system. The auction will occur between 9:30 am and 10 am. Funds will be reversed on June 5.
+
+## Iran war puts RBI in razor-edge policy bind over inflation, growth and rupee
+INDIA-ECONOMY-Iran war puts RBI in razor-edge policy bind over inflation, growth and rupee
+
+## SBI Chairman, Apple India MD among 29 members appointed to Board of Trade
+The government has appointed 29 non-official members to the Board of Trade. This includes prominent figures like SBI Chairman CS Setty and Apple India MD Virat Bhatia. The board will discuss strategies to enhance manufacturing and exports. These industry leaders will help implement export hub events
 
 ## RBI likely to pause repo rate at 5.25% in June policy, signal caution
 The six-member Monetary Policy Committee, headed by Governor Sanjay Malhotra, will meet from June 3 to 5 and announce its decision on June 5. Economists expect the central bank to retain a neutral stance while using the policy statement to signal caution, with greater focus on inflation risks rather
@@ -308,13 +317,4 @@ India is updating its mobile phone production incentive scheme. The new plan tar
 
 ## RBI panel to evaluate impact of quantum tech in finance
 The Reserve Bank of India has formed an eight-member committee to explore quantum technology's role in finance. Headed by an IIT Madras professor, the panel will assess opportunities, risks, and challenges. It will also review the financial sector's readiness for quantum-related threats. The committ
-
-## Trump says any Iran deal will involve 'no cash', differ from Obama-era agreement
-Donald Trump outlined his vision for a future Iran deal. He emphasized no financial concessions would be made, contrasting it with the Obama administration's agreement. Trump asserted his proposed deal would prevent Iran from acquiring nuclear weapons. Senator Lindsey Graham supported Trump's strate
-
-## RBI MPC: Bank economists back a rate hike in H2 of FY27
-Bank economists have advised the Reserve Bank of India that interest rate increases will be necessary later this financial year. This is to manage the effects of the West Asia conflict and ensure economic stability. Most economists do not expect a rate hike in the upcoming June policy meeting.
-
-## "Confident" US-India trade deal will be finalised in "coming weeks": Ambassador Gor
-A pivotal trade agreement between India and the United States is soon to be concluded, promising a new chapter in their bilateral relations. US Ambassador Sergio Gor is confident that we will see a resolution in the upcoming weeks. High-ranking officials from both sides are preparing to engage in di
 
