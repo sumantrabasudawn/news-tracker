@@ -1,7 +1,13 @@
 # AION Intelligence
 
-## Home Secretary condemns riots after UK rightwing leaders call for public ‘rage’
-Nigel Farage urges probe into police handling of case after killer accused victim of racial abuse
+## Palantir should not have ‘significant role’ in UK public data systems, MPs say
+Technology committee calls on government to trigger break clause in flashpoint NHS contract
+
+## Premier League clubs could face legal action over sponsorship deals with crypto firms
+UK regulator focuses on teams with partnerships with digital assets companies that are not authorised to operate in Britain
+
+## Minister condemns riots after UK rightwing leaders call for ‘rage’ over student killing
+Home Secretary says violent scenes in Southampton ‘completely unacceptable’ after Nigel Farage urges probe into police handling of case
 
 ## Cliffwater’s flagship private credit fund redemption requests hit 17%
 Fund with net assets of $31bn aimed at retail investors limits withdrawals in latest sign of exodus from sector
@@ -18,20 +24,14 @@ President’s directive will allow the US government to gain early access to cut
 ## Kyle included ‘more positive language’ in AI speech after Mandelson advice
 Documents raise questions since the advisory firm co-founded by Labour veteran represented big AI companies
 
+## Why ultra-luxury cruises are at risk of running aground
+The core principles of luxury can lose their efficacy on the high seas
+
 ## Seven states sue US for paying $1bn to make Total exit wind power
 New York leads lawsuit challenging Trump administration’s effort to make French company reinvest in fossil fuels
 
 ## Anthropic to expand Mythos access to more than 15 countries
 About 150 organisations will be given advanced cyber security model following requests from around the world
-
-## Why ultra-luxury cruises are at risk of running aground
-The core principles of luxury can lose their efficacy on the high seas
-
-## Microsoft targets Anthropic with new model releases
-Software giant’s AI chief Mustafa Suleyman says focus is on developing products for business users
-
-## Goldman’s David Solomon sees ‘more greed than fear’ on Wall Street
-Comments underscore bullish outlook that helped push S&P 500 to records on half of all trading days last month
 
 ## Mamata Banerjee leads protest against BJP over alleged attacks on Trinamool leaders and workers
 TMC supremo vows to fight BJP, announces INDIA bloc meeting in Delhi soon
@@ -81,6 +81,12 @@ Despite challenging global markets, several major Indian companies are pushing a
 ## High costs dampen summer for beverage companies
 Companies are facing rising costs for both cans and glass bottles this summer, impacting beer and soft drink manufacturers. Supply disruptions from West Asia for aluminium cans and increased LPG costs have led to price hikes of 15-20% for packaging. Distributors anticipate a Rs 10 price increase for
 
+## Would like to end sanctions waivers on Russian oil: Rubio
+In March this year, the Trump administration issued two 30-day licences which allowed the purchase of previously sanctioned Russian and Iranian energy
+
+## India joins global cyber elite as Anthropic expands ultra-powerful ‘Mythos’ AI beyond US
+Countries in the Five Eyes alliance, including Canada, Australia and New Zealand, will be granted access to Mythos, alongside key European and Asian economies.
+
 ## Venezuela’s acting President Delcy Rodriguez’s visit this week to focus on energy ties
 Venezuela’s acting President Delcy Rodríguez will visit India this week for talks with Prime Minister Narendra Modi to bolster bilateral ties against the backdrop of growing energy cooperation, with the South American state becoming the country’s third-largest supplier of oil this month.
 
@@ -99,35 +105,32 @@ Siddaramaiah resigned as chief minister on May 28, saying he had been asked by t
 ## 'Unfavourable cost': IndiGo pauses flight from Mumbai to UK's Manchester
 The airline will return one of its six Boeing 787-9 Dreamliner aircraft, which had been taken on damp or wet lease from Norse Atlantic Airways.
 
-## Red carpet for Nepal’s Rabi Lamichhane as New Delhi resets ties with Kathmandu
-Nitin Nabin and Rabi Lamichhane also spoke about the need to reach out to the youth or “Gen Z”, as they are colloquially known
-
-## ‘No locus standi’: India blasts Pak-EU joint statement on Jammu and Kashmir
-A joint communique issued in Islamabad contained a reference to the “issue of Jammu and Kashmir” and “Russia’s war against Ukraine” in the same paragraph
-
-## Ankur Warikoo shares life lessons to learn from stars like Shah Rukh Khan and Hrithik Roshan
+## 7 killed, 40 injured as 2 buses collide in Surat; 4 critical
 
 
-## Rucking shows how walking with load can transform your fitness routine
+## 1.5 crore artificial groundwater recharge, storage works under JSJB initiative: Minister C R Patil
 
 
-## Gajewski: ‘Meeting expectations of ex-champ not Gukesh’s main goal’
+## Supreme Court appoints high-powered panel to review Aravalli definition report
 
 
-## Shivakumar set to take oath as Karnataka CM in lowkey ceremony
+## Abhijeet Dipke to land in Delhi on June 6; Sonam Wangchuk lends support to Cockroach Janata Party
 
 
-## Sindhu, Arjun-Hariharan make Round 2 at Indonesia
+## Halima & Gudiya, in queue at Bengal tribunals as cloud darkens over citizenship
 
 
-## Kangana Ranaut says parents accepted her career after National Award; expert reflects
+## Latest family health survey: Rajasthan sees rise in teen pregnancies, dip in child nutrition indicators
 
 
-## 3 killed as signboard put up under Smart City Mission’ collapses in Dahod
+## For larger PNG footprint, Government looks at consumer-friendly centralised portal
 
 
-## Marco Rubio warns Iran on Hormuz, says US wants Russia oil waivers ended
+## How runaway tigress’s cubs could save Similipal’s big cat population
 
+
+## Why Shanghai’s property market is rebounding faster than most other cities in China
+Shanghai’s second-hand housing market picked up steam in May, with transaction activity accelerating significantly, while the city’s new home market has also seen robust sales. Industry experts believe Shanghai’s property sales volume and home prices will recover faster than most cities in China aft
 
 ## China’s Tiger Brokers reports strong results, with no mention of trading crackdown
 Tiger Brokers reported a 17.5 per cent year-on-year jump in first-quarter operating profit in an announcement on Tuesday, without any mention of the looming punishment from China’s securities regulator over alleged unlicensed cross-border trading services. Tiger Brokers said its operating profit ros
@@ -150,8 +153,8 @@ Chinese artificial intelligence companies are upending a decades-old dual-listin
 ## How foreign investors should view China’s ‘little giants’ scheme
 The surge of interest in Chinese humanoid robotics has raised a practical question for investors, corporate strategists and supply chain executives: who makes the parts? Reduction gears. Torque sensors. Precision bearings. Industrial software. The further one traces the supply chain, the more often 
 
-## Fear of missing out: why Asia-Pacific firms pour money into AI despite scant returns
-Enterprises across the Asia-Pacific region are investing heavily in artificial intelligence with limited evaluation of its effectiveness, driven largely by fears of being left behind, according to a survey released on Tuesday. Some 37 per cent of organisations in the region admitted to investing agg
+## The Deadly Price of China’s Coal Boom
+Two fatal disasters highlight enduring problems in the mining industry.
 
 ## Russia Pounds Ukraine With Missile, Drone Strikes
 Moscow warned of a massive attack on Kyiv. And it delivered.
@@ -173,9 +176,6 @@ An era of great-power competition has started—but not all would-be competitors
 
 ## Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
 Tehran had said it would suspend negotiations over Israeli strikes in Lebanon.
-
-## A Trump Deal With Iran Could Spell Trouble for Netanyahu
-The Israeli leader needs a win ahead of a key election.
 
 ## Kazakhstan, Russia Step Forward With $16.4 Billion Nuclear Power Plant Plan
 Moscow is reportedly furnishing as much as 85 percent of the financing for the project.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Rania al‑Abbasi’s children: The truth revealed
+Syrian commission confirms the deaths of Rania al-Abbasi’s six children, missing under Bashar al-Assad’s rule.
+
+## Italy celebrates 80 years of democracy
+A colossal 400-kilogram flag was draped over Rome’s Colosseum as Italy marked the 80th anniversary of its republic.
+
+## Actor Idris Elba knighted by King Charles at Windsor Castle
+British actor Idris Elba was knighted by King Charles III at Windsor Castle on Tuesday.
+
+## Protesters use ‘Ebola coffin’ to rally against US quarantine centre
+Demonstrators in Nairobi have carried an ‘Ebola’ coffin to protest a proposed US quarantine facility.
+
+## European election monitor dismisses rumours of fraud in Colombia’s election
+The electoral mission described the first round of voting in Colombia's presidential race as 'a lesson in democracy'.
+
 ## Trump berated Netanyahu? Analysts question US-Israel feud rumours
 Analysts say 'strategic leaks' aim to influence public perceptions amid diplomatic impasse in US-Israel war on Iran.
 
 ## Drones light up Taipei’s night sky for Computex trade show
 Drones lit up the evening sky near Taiwan’s Taipei 101 skyscraper in a dazzling display for the Computex trade show.
 
-## Trump administration is scrapping the $1.8bn ‘anti-weaponisation fund’
-DOJ's agreement with President Donald Trump to bar future audits into his or his family's past tax records will remain.
-
-## Russia launches massive overnight attack on Ukraine
-Russia launched a massive overnight attack on cities across Ukraine, killing at least 22 people including children.
-
-## ‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims
-President Macron, acknowledging France's 'responsibility' in the genocide, calls memorial a reconciliation 'milestone'.
-
-## What to know about Tuesday’s primaries in California, New Jersey, Montana
-Voters in six US states are casting primary ballots that will set the battle lines for November's midterm elections.
-
-## Blue Origin failure sets back NASA lunar goals
-Blue Origin’s latest rocket test didn’t just end in a fireball — it may have burned a hole in NASA’s timeline.
-
-## Inside the billion-dollar business of getting a visa
-An investigation reveals how visa giant VFS Global profits from millions of visa applications from the Global South.
+## Trump administration scraps $1.8bn ‘anti-weaponisation fund’
+US Justice Department, however, plans to keep a settlement provision to bar audits of Trump's past tax records.
 
 ## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
 Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
