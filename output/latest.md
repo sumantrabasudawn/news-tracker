@@ -1,127 +1,136 @@
 # AION Intelligence
 
-## Nissan signs deal with China’s Chery for Sunderland car production
-Future of UK’s largest car plant was thrown into doubt by massive restructuring of Japanese group
+## Trump’s Iran war drains US oil stocks to lowest level since 2004
+Industry warns prices could soon jump as inventories reach ‘critically low’ threshold
 
-## Google parent Alphabet upsizes record-breaking equity raise to $85bn
-Tech giant launches first stock offering in more than two decades in effort to fund AI spending
+## Google upsizes historic equity raising to $85bn to back AI spending spree
+Tech giant’s first stock offering in more than two decades gets strong demand as investors shrug off huge investment plans
 
-## Vanguard fund becomes first ETF to top $1tn in assets
-Rapid growth shows volume of passive money ready to buy IPOs such as SpaceX and Anthropic
+## Europe’s tightrope walk on tech sovereignty
+EU should be wary of curbing access to US providers as it tries to nurture its own
 
-## Meta bets on AI agents to unlock WhatsApp revenues
-Mark Zuckerberg expands group’s AI push as it seeks to turn messaging app into bigger business
+## UK government urges companies to share data about AI effects on workforce
+Move comes amid concerns that AI will exacerbate youth unemployment
 
-## Warsh needs to separate his roles at the Fed
-This is how the new chair should approach his first rate-setting meeting
+## Barclays hopes to boost UK economy with enlightened self-interest
+Bank wants the government to make changes that encourage more foreign companies to manage their cash from the UK
 
-## UK to spend £1.3bn supporting Bedford theme park project
-Comcast’s £5bn Universal resort is due to open in 2031 and employ 20,000 during construction
+## Elon Musk shifts social media focus from SpaceX to UK far-right politics
+Tech billionaire writes 110 posts, retweets and replies about British affairs in space of week
 
-## Sorry Marc, it’s just not that big
-Sizing up private credit
+## Starmer pushes ‘bucket list’ policies as fatalistic mood descends on Number 10
+UK prime minister could be ousted within weeks if Andy Burnham wins Makerfield by-election
 
-## Nigel Farage gambles on playing to the far right
-Pollsters warn that Reform UK leader’s response to Southampton murder risks alienating moderate voters
+## UK government adviser urges clarity on Palantir access to NHS patient data
+Move by Nicola Byrne comes after FT reported that health service had agreed new ‘admin’ role for some external staff
 
-## Partners Group limits withdrawals at private equity fund for wealthy individuals
-Swiss private capital firm caps redemptions from its $8.6bn flagship vehicle
+## Ebola spreads to new areas of DR Congo as outbreak widens
+One infected person in Uganda is known to have travelled to the United Arab Emirates before falling ill
 
-## TVK allots lone Rajya Sabha seat in Tamil Nadu to its ally Congress
+## Gulf states in talks for oil pipelines to bypass Hormuz
+Oil exporters seek alternative ways to export, as crucial waterway has been disrupted for over three months
 
+## MP sues Musk’s xAI in UK test case over fake sexual images
+Legal claim by Jess Asato challenges whether AI model-makers are liable for what their systems produce
+
+## Led by Poland & China, central banks turned net buyers of gold in April
+The development comes after they were net sellers of the precious metal in March; Russia continues to offload the yellow metal
+
+## Letters to the Editor dated June 3, 2026
+
+
+## Editorial. Prepare the ground
+IMD forecast points to a deficient agri season this year
+
+## Sensex, Nifty trim losses as banking stocks offset IT rout, focus shifts to RBI MPC meeting
+BSE Sensex ends 303.67 points lower at 73,492.60; NSE Nifty 50 settles 78 points lower at 23,405.60
 
 ## IT sector headwinds leave a mixed mark on CEO remuneration in FY26
 Variable payouts and stock-linked rewards shape executive remuneration trends
 
-## India shifting towards long-cycle defence drone procurement
-Tactical drones, loitering munitions and other unmanned systems could collectively exceed $2 billion over the next 18 to 24 months
+## Brands toggle smartphone features to adjust memory costs
+To off-set costs, brands have settled on the quality of camera resolution, display technology and weight for newer models while improving the quality of older models and increasing their price
 
-## D K Shivakumar becomes Karnataka’s Mukhyamantri, Parameshwara takes Deputy’s Chair
-Shivakumar took the oath in the name of Veera Gangadhara Ajja, the deity he worships, and held a copy of the Constitution while taking the oath of office and secrecy
+## Health insurance coverage crosses 60% of households, NFHS
+The pace of expansion accelerated after 2015-16, when coverage stood at 28.7 per cent, rising to 41 per cent in 2019-21
 
-## SEBI bars Rajesh Mehta from trading in Rajesh Exports shares
-Regulator alleges misrepresentation of over ₹15 lakh crore in revenues linked to overseas subsidiaries; orders fresh forensic audit
+## Wheels India appoints Harsha Viji as Additional Director
 
-## AP Minister Nara Lokesh meets Sberbank’s team in Russia
-Lokeh is leading a delegation in Russia to attract investments to Andhra Pradesh
 
-## Hindustan Unilever Ltd narrows its bets as FMCG giant chases faster growth
-HUL had announced investing up to ₹2,000 crore to expand manufacturing capacity in fast-growing premium categories, particularly Beauty & Wellbeing and Home Care liquids
+## BHEL secures order worth over Rs 2,000 crore from Nigerian firm
 
-## Bengaluru based prop-tech startup Propsoch secures $2 million in seed funding
-The funding will strengthen its core research and advisory capabilities, expand its internal teams across various business functions, and support its strategic expansion into new regional markets
+
+## District economy data: Govt issues uniform framework for district GDP estimates with 2022-23 base year
+The statistics ministry has released a uniform framework for district-level economic output estimates with a revised base year of 2022-23. This move aims to enhance consistency and comparability of economic data across all states and Union Territories. The guideline, incorporating stakeholder feedba
+
+## Rupee slides 40 paise to 95.76 against dollar as tariff concerns, oil prices weigh on sentiment
+The rupee weakened by 40 paise to 95.76 against the US dollar due to proposed US tariffs, rising crude oil prices, and foreign fund outflows. Escalating geopolitical tensions in West Asia also contributed to the decline, impacting investor sentiment. Market participants now await the Reserve Bank of
+
+## India’s 500 GW clean energy goal could create 44 lakh jobs, says study
+
+
+## India's economy shows resilience amid geopolitical uncertainty, says RBI deputy governor
+India's economy is showing remarkable resilience amidst global challenges, driven by robust industrial and services sectors, strong demand, and improved corporate performance. RBI Deputy Governor Swaminathan highlighted the nation's strong macroeconomic footing, with inflation within limits and mana
+
+## Grid stability, large-scale integration of renewable energy discussed in Parl panel meet
+
+
+## LPG sales down 19% year-on-year in May
+
 
 ## Coal gasification has saved Rs 28,000 crore in forex so far
 
 
-## Planning to get your first loan or credit card? How lenders evaluate new-to-credit customers - explained
-Not having any credit accounts is a big disadvantage when looking to access new credit. But what can help is your existing relationship with banks, particularly those that hold your salary or savings account.
+## 'Much-needed support’: Air India on Centre’s ₹10,000-crore aviation fuel price relief package
+The government has approved a ₹10,000-crore fund to help keep aviation fuel prices stable for airlines amid rising global fuel costs.
 
-## US stock markets today (June 3, 2026): Oil nears $100 amid Iran tensions, Wall Street stays close to record highs
-US stocks saw a slight dip on Wednesday. Rising oil prices and tensions with Iran impacted the market. However, Wall Street stayed close to record levels. Investors are hopeful about the Strait of Hormuz reopening. Strong corporate earnings also provided support. Macy's and GameStop reported positiv
+## TMC's rebel leader now LoP, ED summons Abhishek, mayor ‘quits’: Mamata faces many setbacks
+This blow for TMC also comes a month after it suffered a major loss against the Bharatiya Janata Party in the West Bengal Assembly elections.
 
-## Ford recalls nearly 4.2 lakh vehicles over seat belt defect linked to injury risk
-Ford is recalling nearly 4.2 lakh Expedition and Lincoln Navigator vehicles (2018-2022) in the US due to a seat belt defect. The issue can cause seat belts to lock unexpectedly, hindering retraction or extension, potentially leading to injuries in crashes. Ford will replace affected front seat belt 
+## UK foreign secretary Yvette Cooper to meet Jaishankar to review ties
+Yvette Cooper, who completed a trip to China on Wednesday, travelled to India close on the heels of a visit by UK business and trade secretary Peter Kyle
 
-## Why did TCS shares crash over 8% today? Stock logs worst single-day fall since Covid-era rout
-Tata Consultancy Services (TCS) experienced its steepest single-day decline since March 2020, plunging over 8% and erasing recent gains. Market experts attribute the sharp reversal to strong resistance near a key technical zone, triggering profit-booking and renewed selling pressure. Analysts are no
+## 58 TMC rebels are Bengal’s main Oppn party; Ritabrata Banerjee their leader
+Ritabrata Banerjee and Sandipan Saha, the two lawmakers expelled by the TMC, have been recognised as the leader and deputy leader of the Opposition respectively
 
-## Dip in foreign investment is part of a self-correcting cycle : Bank of America’s Sahu
+## Free bus passes, jobs, pvt employment exchange: CM Shivakumar's first announcement after oath-taking
+Among the announcements made after his first cabinet meeting in the state was the decision to issue free bus passes to students in non-luxury government buses.
 
+## Traveller from Sharjah arrested with 2.75 kg gold worth ₹3.8 crore at Delhi airport
+The passenger, who had arrived from Sharjah by Flight No. IX-136 on June 1, was intercepted at the bus gate upon arrival.
 
-## India-US trade deal within reach, final 1% remains under discussion: Sergio Gor
-India and the US are nearing the finalization of a proposed trade agreement, with US envoy Sergio Gor expressing optimism for a resolution within weeks. Top negotiators are currently in New Delhi to iron out the remaining details of the interim pact. Gor also clarified that recent US tariffs were no
+## Delhi weather: Yellow alert in capital for light rain, thunderstorms over next two days
+The weather department said “partly to generally cloudy skies” would persist for the next couple of days.
 
-## Stock Market Highlights Today: BSE Sensex closes over 300 points down, Nifty50 above 23,400 on mixed global cues
+## Delhi fire: Hotel under scanner, owner detained, 18 foreign nationals killed | Top points on Malviya Nagar blaze
+While police officials believe the death toll may increase, it has been confirmed that at least 18 foreign nationals were killed in the fire.
 
-
-## Malviya Nagar hotel hub serving medical tourists under spotlight after deadly fire
-Locals estimate that more than 35 hotels and guest houses operate in the neighbourhood, with many offering budget accommodation for patients and attendants.
-
-## From student activist to Karnataka chief minister: The rise of DK Shivakumar
-For Shivakumar, popularly known as 'Kanakapura Bande' (the Rock of Kanakapura), patience had become a political necessity.
-
-## IRCTC sets new records in online ticket booking, blocks 3 crore suspicious IDs in 2025-26
-As part of these efforts, IRCTC informed that the corporation deactivated 3.03 crore suspicious user IDs in 2025.
-
-## Delhi CM Gupta seeks report from DM in Malviya Nagar fire tragedy; officials probe alleged lapses
-The tragedy claimed 21 lives at Flourish Stay Guest House in Hauz Rani area of Malviya Nagar.
-
-## Why Cockroach Janata Party has no woman spokesperson? Abhijeet Dipke answers
-After the CJP announced 3 spokespersons ahead of its press conference on Wednesday, social media users pointed out that no female had been named for the roles.
-
-## ‘Cities of future cannot be hotter versions of today’s cities’: UNDP India head
-As India continues its rapid development journey and invests in new infrastructure, the key will be to integrate climate and biodiversity considerations
-
-## Tortured, trapped, starved by in-laws for a year: Dehradun woman freed by parents
-Woman Kept Prisoner in Toilet, Tortured and Starved by Husband and In-Laws
-
-## ‘Stop hitting civilians’: India tells Iran after deadly Kuwait strike kills citizen
-The dead Indian was a worker at the airport. Kuwait is home to more than one million Indians, the country’s largest expatriate community
-
-## Court remands Anil Ambani’s former aide Jhunjhunwala to CBI custody till June 5
+## 24 high-tide days this year during monsoon, says BMC
 
 
-## Dhurandhar to release in Japan after earning Rs 3100 cr, can it break Dangal’s record?
+## Several IT firms faced FIRs in past year for fraud
 
 
-## Ronaldo, Taylor Swift and Mickey Mouse are fighting for your attention
+## ‘Doctoron ne mana…’: Gurmeet Choudhary on wife Debinna’s miscarriages; expert weighs in
 
 
-## Deserted streets, people glued to TV: D K Shivakumar’s Dodda Alahalli during his swearing-in
+## D K Shivakumar sworn in as 24th state CM, ex-CM Siddaramaiah’s son gets cabinet berth
 
 
-## Watch | Stone-faced winning AFC Champions League, then weeping with Kim Jong-Un: North Korean women’s football team’s emotional homecoming
+## How Pune IT firm duped nearly 700 techies before vanishing
 
 
-## ARG coach Scaloni cried before 2022 World Cup final, couldn’t deliver team talk
+## Ukraine drones hit St Petersburg oil terminal as Putin’s ‘Russian Davos’ opens
 
 
-## 10 must-read Julia Quinn Regency romances for Bridgerton fans
+## British Foreign Secretary to meet PM Modi, Jaishankar on June 3
 
 
-## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on stealth technology, Dual Frequency Synthetic Aperture Radar and more (Week 165)
+## How hyenas are secretly saving an Ethiopian city 5,000 tonnes of urban waste
 
+
+## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
+A favourite topic which often comes up in conversations with advertising friends concerns the history, emergence and creative heyday of the industry in Hong Kong. A story I usually speak about with some authority, seeing as I have been privileged enough to play a part in it over the years, as well a
 
 ## China’s fund managers face new rules to curb risky investment strategies
 With mutual fund companies having to adhere to investment mandates as part of the regulatory revamp of the 40 trillion yuan (US$5.9 trillion) industry, Chinese money managers may find it difficult to improve fund performance. China Asset Management and E Fund Management, the industry’s biggest playe
@@ -144,8 +153,17 @@ GenScript Biotech Holdings surged in Hong Kong after its associate company discl
 ## Inside Central Crossing: the dual-tower development built for the future of work
 For decades, the best office spaces in Hong Kong’s Central district sold the same promise: proximity to capital, clients and decision-makers. Today, that is just the baseline. The next generation of tenants is weighing if the office experience feels as modern as the businesses operating inside it. C
 
-## Why Shanghai’s property market is rebounding faster than most other cities in China
-Shanghai’s second-hand housing market picked up steam in May, with transaction activity accelerating significantly, while the city’s new home market has also seen robust sales. Industry experts believe Shanghai’s property sales volume and home prices will recover faster than most cities in China aft
+## The New Weapon Behind Ukraine’s Battlefield Success
+Mid-range drones that can hit targets almost 100 miles behind Russian lines have changed the game.
+
+## Congress Prepares for a Consequential Iran Vote
+Tehran may feel empowered to wait out U.S. demands for concessions in face of war-weary American public.
+
+## The U.S. and Taiwanese Militaries Can’t Really Fight Together
+A joint campaign to defend the island would struggle to operate effectively.
+
+## America Enabled the Gulf’s African Adventurism
+Why Washington let its Middle Eastern partners wreak havoc in Africa.
 
 ## Middle East Cease-Fires Matter Even When They’re Broken
 De-escalation, rather than lasting peace, is still important.
@@ -159,41 +177,32 @@ Two fatal disasters highlight enduring problems in the mining industry.
 ## Russia Pounds Ukraine With Missile, Drone Strikes
 Moscow warned of a massive attack on Kyiv. And it delivered.
 
-## Two Senators Just Blew Up Trump’s Boat-Strike Justifications
-Sens. Kaine and Paul say that the military’s targeting criteria don’t include the presence of drugs or arms.
+## Uzbekistan’s New Migration Destination? America.
+From irregular border crossings to bilateral training agreements, Uzbekistan is working to carve out a formal pathway to U.S. employment.
 
-## The Gulf Crisis Is Forcing Japan Into an Energy Rethink
-Tokyo spent decades preparing for disruption—then found its options narrowing.
+## Trump’s New AI Order Raises the Stakes in China-US Tech Competition
+Advanced AI models are no longer treated simply as commercial products; they are increasingly regarded as strategic assets linked to national power.
 
-## Israel Has a Growing Anti-Christian Problem
-A recent attack in Jerusalem highlights a worrying trend intensified by wartime nationalism.
+## Neutralizing Chokepoints: Lessons From the Hormuz Strait, Malacca, and Baltic Sea
+Insights from Pekka Virkki.
 
-## The World’s Mineral Powers Seize Their Moment
-Resource-rich countries haven’t always benefited from extraction. Can this time be different?
+## Bangladesh’s Twin Challenges: Economic Revival and Great Power Balancing
+Bangladesh’s security lies not in becoming part of someone else’s strategic rivalry, but in becoming economically strong, diplomatically flexible, and internally legitimate.
 
-## Kazakhstan, Russia Step Forward With $16.4 Billion Nuclear Power Plant Plan
-Moscow is reportedly furnishing as much as 85 percent of the financing for the project.
+## Can a Takaichi Government Stabilize China-Japan Relations?
+What Abe's post-2014 rapprochement with Beijing can teach Tokyo today.
 
-## Nepal’s Prime Minister Mistakes Mandate for Immunity
-Balendra Shah, who assumed office just two months ago, does as he pleases, with little regard for constitutional norms, parliamentary procedures or diplomatic niceties.
+## EBRD Dials Down Kyrgyz GDP Forecast Over Sanctions Worries
+While still growing, Kyrgyzstan’s GDP may slow due to increasing weight of sanctions.
 
-## Beyond China and the US: How Japan is Incrementally Rebalancing Its Foreign Policy
-Neither the Japan-U.S. alliance nor the Sino-Japanese economic relationship will completely unravel overnight. However, the overall trendlines have led Tokyo to seek further hedges.
+## Exit Polls Suggest Ruling Democratic Party’s Victory in Local Elections
+Exit polls suggest the DP will win 11 of 16 regional posts, with Seoul and Busan producing the night’s most closely watched results.
 
-## Moscow’s New Military Partner Has Something Russia Needs More Than Allies
-The security provisions in recent agreements with the Taliban may reflect intent, but the more immediate benefit on the Russian side appears to be addressing the labor shortage.
+## In Inner Mongolia, China’s Assimilation Campaign Moves Online
+A January 2026 report suggests Beijing is now targeting the digital communities that were Mongolian speakers’ last refuge – in a region that never posed a separatist threat.
 
-## Unholy Violence: Weaponizing Religion Against Gender Rights Defenders in Myanmar
-Buddhist fundamentalism functions in post-coup Myanmar not as a parallel force to military authoritarianism, but as an integral component of it.
-
-## Why India Cannot Let the Rupee Float
-Imported inflation, fragile manufacturing, and unequal burdens complicate textbook arguments supporting unrestricted currency depreciation across India.
-
-## The Politics Behind Taiwan’s Soft Power
-“Taiwan Travelogue” and its Booker Prize win highlight the nuances – and controversies – of contemporary culture in Taiwan.
-
-## Kashmir’s Uneasy Calm: Silent Guns, Muted Hope
-True integration, it appears, will remain elusive until New Delhi stops treating Kashmir as a security variable to be managed.
+## Will China and the United States Pursue Strategic Stability?
+In 2024, Michael Swaine wrote, “How to Stop the United States and China from Sliding into War,” where he identified areas that could increase the possibility of an armed conflict between the United States and China. Two years later, after recent talks between President Trump and President Xi, we ask
 
 ## The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy
 In 2023, the NATO Baltic Defense College in Tartu, Estonia devoted its entire annual conference to the Interwar Period (1919 to 1939), a theme repeated at subsequent conferences sponsored by national militaries and academic societies throughout the United States and Europe. Western scholars and fore
@@ -215,9 +224,6 @@ One of the most effective counter-drone systems in the largest drone war in hist
 
 ## Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure
 What would happen if you woke up one morning and the internet was gone — not from a software glitch, but because someone had simply cut the wire?Threats to critical undersea infrastructure are rapidly escalating. In 2023, the Balticonnector pipeline and several Baltic data cables were damaged. A yea
-
-## How America Lost Its Most Important Defense Tech Habit
-On April 15, technology podcaster Dwarkesh Patel published a two-hour interview with Nvidia CEO Jensen Huang. For roughly forty minutes, Patel asked one question six different ways. The question was this: If American-made compute trains AI models with the serious cyber-offensive capabilities Anthrop
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -243,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Doesn’t seem qualified’: Who is Bill Pulte, acting US intelligence chief?
-Republican and Democratic lawmakers have questioned the credentials of President Trump's latest appointee.
+## Iran faces a new energy imbalance, but its options are limited
+Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.
 
-## Lamine Yamal and Nico Williams set to be fit for Spain’s World Cup opener
-Barcelona's Lamine Yamal and Athletic's Nico Williams are expected to shake injuries in time to face Cape Verde.
+## Israeli attacks kill nine in Lebanon, reach Beirut outskirts
+The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.
 
-## The Population Bust
-A revealing global journey into declining birth rates, ageing societies, and their far-reaching impact.
+## Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed
+Brazil's president says he was surprised by the proposed 25 percent tariffs, which came amid signs relations improving.
 
-## Israel detains Palestine international women’s football player
-Rand Halawani's detention also saw four other women arrested on Tuesday, including a former Palestine player.
+## US cites forced labour concerns as grounds for new tariffs
+USTR's proposal comes from a Section 301 unfair trade practices investigation designed to help rebuild Trump's tariffs.
 
-## Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay
-Squad's visas for the US haven't been issued, with Marco Rubio saying IRGC-linked members won't be allowed to 'embed'.
+## Netanyahu downplays US-Israel rift after Trump confirms criticism
+US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he 'likes' the Israeli leader.
 
-## DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat
-Mayor of Spain's La Linea de la Concepcion bans friendly between DR Congo and Chile due to health concerns.
+## FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?
+Al Jazeera speaks to Qatar coach Julen Lopetegui ahead of the World Cup, with a shot at knockouts within their grasp.
 
-## Why is France so invested in the future of Lebanon?
-Analysts say France is hoping to reassert its diminishing influence in the region.
+## ‘Disgraceful’: Egypt jails activist Douma after article on its prisons
+Rights group PEN America says Douma's 'case embodies part of an escalating crackdown on writers in Egypt'.
 
-## Kuwait and Bahrain attacked as Iran launches missile and drone barrage
-Kuwait and Bahrain attacked as Iran launches missile and drone barrage
+## Bangladesh’s top diplomat elected UN General Assembly leader in tight race
+Khalilur Rahman elected as the president of the UNGA's 81st session, garnering 99 votes in secret ballot.
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
