@@ -1,132 +1,126 @@
 # AION Intelligence
 
-## Partners Group limits withdrawals in private equity fund for wealthy individuals
+## Nissan signs deal with China’s Chery for Sunderland car production
+Future of UK’s largest car plant was thrown into doubt by massive restructuring of Japanese group
+
+## Google parent Alphabet upsizes record-breaking equity raise to $85bn
+Tech giant launches first stock offering in more than two decades in effort to fund AI spending
+
+## Vanguard fund becomes first ETF to top $1tn in assets
+Rapid growth shows volume of passive money ready to buy IPOs such as SpaceX and Anthropic
+
+## Meta bets on AI agents to unlock WhatsApp revenues
+Mark Zuckerberg expands group’s AI push as it seeks to turn messaging app into bigger business
+
+## Warsh needs to separate his roles at the Fed
+This is how the new chair should approach his first rate-setting meeting
+
+## UK to spend £1.3bn supporting Bedford theme park project
+Comcast’s £5bn Universal resort is due to open in 2031 and employ 20,000 during construction
+
+## Sorry Marc, it’s just not that big
+Sizing up private credit
+
+## Nigel Farage gambles on playing to the far right
+Pollsters warn that Reform UK leader’s response to Southampton murder risks alienating moderate voters
+
+## Partners Group limits withdrawals at private equity fund for wealthy individuals
 Swiss private capital firm caps redemptions from its $8.6bn flagship vehicle
 
-## What Henry Nowak’s murder does — and does not — tell us about policing
-Kemi Badenoch says his killing needs to be seen as a ‘Stephen Lawrence moment’ but the failures in both cases differ
-
-## US proposes tariffs of at least 10% after forced labour probe
-White House makes first significant effort to resurrect sweeping tariffs since its defeat at US Supreme Court
-
-## OECD warns of ‘dark scenario’ if Gulf energy crisis drags on
-Growth rates would tumble to levels rarely seen outside of major global events such as the Covid-19 pandemic
-
-## Hyperscalers and the equity tap: more to come
-Plus, corporate culture and returns
-
-## Brussels unveils sweeping plan to boost Europe’s digital sovereignty
-Also in this newsletter: Counterfeit cigarette use surges across Europe, new report finds
-
-## FirstFT: Can the Middle East crisis save Jim Ratcliffe’s Ineos empire?
-Also in today’s newsletter: renewed Gulf strikes and Fed ‘forward guidance’
-
-## The risk manager who revived Deutsche Bank
-The European bank has finally learned that it doesn’t need the US to reach success
-
-## B&M profits drop 47% in tough turnaround year
-Discount retailer’s results follow series of profit warnings and finance chief’s resignation after accounting error
-
-## Your chance to buy alleged MFS fraudster Paresh Raja’s Ferrari
-Eight used supercars, one incautious owner
-
-## How can the UK catch up on stablecoins?
-Inquiry warns country risks missing out on potential benefits of new form of digital money because of excessive regulation
-
-## CMR Green Technologies IPO Day 1: subscribed 1.83 times so far, NIIs lead demand
-Non-institutional investor portion subscribed 3.83 times, retail category subscribed 1.99 times, and employee segment booked 2.64 times
-
-## Sensex today | Stock Market Live: Indian markets trim losses; Sensex down 499 pts, Nifty slips 139 pts
-Sensex, Nifty, Stock Price Live Updates: Indian equities traded lower despite strong global cues, though markets recovered from intraday lows. At 1:39 p.m., Sensex was down 498.80 points at 74,151.05 and Nifty 50 fell 138.75 points to 23,344.80, as investors awaited the RBI policy decision.
-
-## Scale of financing required by India over the coming decades is unprecedented: SBI chief
-These investments will be required across infrastructure, manufacturing, energy transition, urban development, MSMEs and innovation, Setty said at the Citi Investor Conference
-
-## RIL arm inks MoUs with Haryana Govt, to invest ₹8,646 cr in Jhajjar township project
-Model Economic Township said it has signed two Memorandums of Understanding (MoUs) at the launch of the Government of Haryana's Make in Haryana Industrial Policy 2026.
-
-## AI-driven cost cuts, insourcing trends may weigh on Indian IT firms: Kotak
-Kotak prefers TCS, Infosys and Tech Mahindra among largecaps; stays cautious on HCL Tech, LTIMindtree, Mphasis and Wipro
-
-## T-Hub launches third space-tech startup cohort
-The cohort includes Sanyark Space Technologies, Trishul Space, Kessler Dynamics, Velotrax, Zoove Space, Space OS, Humanity Space, and Landlens
-
-## Nvidia and Marvell CEOs highlight role of connectivity in powering next-generation AI infra
-Huang on Tuesday highlighted the importance of connectivity in enabling AI infrastructure, with Marvell's technology playing a crucial role in scaling and interconnecting data centres
-
-## Natco-Lupin get USFDA’s nod for Eribulin Mesylate injection
-Eribulin Mesylate Injection is indicated for the treatment of adults with metastatic breast cancer
-
-## Cabinet approves scheme worth Rs 5,041 crore to replace old trucks and buses in Delhi-NCR
+## TVK allots lone Rajya Sabha seat in Tamil Nadu to its ally Congress
 
 
-## US-Iran war: Rs 10,000 crore ATF Price Stabilization Fund approved for OMCs - how it aims to benefit airlines, passengers
-The Union Cabinet on Wednesday approved Aviation Turbine Fuel (ATF) Price Stabilisation Fund of Rs 10,000 crore which will be made available for domestic and international operations.
+## IT sector headwinds leave a mixed mark on CEO remuneration in FY26
+Variable payouts and stock-linked rewards shape executive remuneration trends
 
-## Trump’s 12.5% additional tariffs move under Section 301: What does it mean for India & trade deal talks?
-The Section 301 probe launched by the US in March 2026 is a known variable in India’s trade deal talks with America. Yet, the proposal to impose duties on around 60 countries assumes significance at a time when a delegation from the US is in India to finalise terms of the India-US trade deal.
+## India shifting towards long-cycle defence drone procurement
+Tactical drones, loitering munitions and other unmanned systems could collectively exceed $2 billion over the next 18 to 24 months
 
-## Cheaper gold by Rs 10 lakh - 15% import duty prompts smuggling wave in India
-A recent surge in gold import duty has fueled a wave of smuggling, with illicit gold now available at discounts of up to Rs 10 lakh per kilogram. This creates a significant price disparity with legally imported bullion, mirroring trends seen after a similar duty hike in 2013. Industry experts warn o
+## D K Shivakumar becomes Karnataka’s Mukhyamantri, Parameshwara takes Deputy’s Chair
+Shivakumar took the oath in the name of Veera Gangadhara Ajja, the deity he worships, and held a copy of the Constitution while taking the oath of office and secrecy
 
-## A new trade hurdle? India engaged with US over Section 301 probe linked to forced labour concerns
-The Union government is engaging with the US concerning a Section 301 investigation into forced labor and industrial capacity. The US Trade Representative has identified India among countries with inadequate measures against goods made with forced labor, proposing potential tariffs. This occurs amid
+## SEBI bars Rajesh Mehta from trading in Rajesh Exports shares
+Regulator alleges misrepresentation of over ₹15 lakh crore in revenues linked to overseas subsidiaries; orders fresh forensic audit
 
-## Gold price prediction today: Will gold, silver prices continue to be stuck in a range? Check June 3, 2026 outlook
-Gold price prediction today: While gold and silver prices are seeing some weakness, in the domestic market gold has managed to exhibit some resilience, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## AP Minister Nara Lokesh meets Sberbank’s team in Russia
+Lokeh is leading a delegation in Russia to attract investments to Andhra Pradesh
 
-## US proposes action against 60 countries over forced labour concerns: Why India is on the list
-The US Trade Representative has proposed additional tariffs on goods from 54 economies, including India, over concerns about forced labor in supply chains. This move, stemming from a Section 301 investigation, could impact India's exports, particularly those relying on Chinese inputs, despite existi
+## Hindustan Unilever Ltd narrows its bets as FMCG giant chases faster growth
+HUL had announced investing up to ₹2,000 crore to expand manufacturing capacity in fast-growing premium categories, particularly Beauty & Wellbeing and Home Care liquids
 
-## Why is stock market down today? BSE Sensex, Nifty50 crash around 1% - top reasons for fall
-Both the Sensex and Nifty declined more than 1% as investor sentiment weakened amid growing concerns over the Iran-US conflict, continued foreign institutional investor (FII) outflows and a host of other market challenges.
+## Bengaluru based prop-tech startup Propsoch secures $2 million in seed funding
+The funding will strengthen its core research and advisory capabilities, expand its internal teams across various business functions, and support its strategic expansion into new regional markets
 
-## Govt creates aviation fuel price 'stabilisation fund' in bid to shield domestic passengers from Iran war impact
-Govt forms fund to stabilise aviation fuel to cushion war impact on domestic passengers
-
-## Cockroach Janata Party names 3 spokespersons ahead of June 6 protest: Who are they?
-The online movement introduced Saurav Das, Vijeta Dahiya and Ashutosh Ranka and stated that they will be speaking on behalf of the movement.
-
-## PM Modi to become India's longest-serving elected PM on June 10, surpass Nehru
-Modi, who first took oath as prime minister on May 26, 2014, will complete 4,399 consecutive days in office on June 10.
-
-## Bengal launches Annapurna Yojana, over 28 lakh women to receive ₹3,000 monthly aid in first phase
-Inaugurating the scheme, Chief Minister Suvendu Adhikari said that 28,25,769 verified beneficiaries had been enrolled on the dedicated portal.
-
-## Take immediate steps to curb illegal sand mining in Chhattisgarh: Governor Deka directs officials
-Take immediate steps to curb illegal sand mining in Chhattisgarh: Governor Deka directs officials
-
-## Unnatural death of young married women demands prompt police investigation:Delhi HC
-Unnatural death of young married women demands prompt police investigation:Delhi HC
-
-## Siddaramaiah's son, Priyank Kharge, G Parameshwar to be part of DK Shivakumar's Karnataka cabinet | See full list
-According to a statement from Siddaramaiah's office, G Parameshwar will take over as the new deputy CM of the state.
-
-## ‘No ventilation’ in shaft-like building, chilling escape video: 5 shocking details in Delhi Malviya Nagar fire
-Locals and eyewitnesses in Delhi's Malviya Nagar described how the structure where fire broke out lacked proper windows for ventilation.
-
-## Cannes and the feminist blind spot
+## Coal gasification has saved Rs 28,000 crore in forex so far
 
 
-## Peddi Box Office Collection Prediction Day 1: Ram Charan’s film earns Rs 35 cr worldwide
+## Planning to get your first loan or credit card? How lenders evaluate new-to-credit customers - explained
+Not having any credit accounts is a big disadvantage when looking to access new credit. But what can help is your existing relationship with banks, particularly those that hold your salary or savings account.
+
+## US stock markets today (June 3, 2026): Oil nears $100 amid Iran tensions, Wall Street stays close to record highs
+US stocks saw a slight dip on Wednesday. Rising oil prices and tensions with Iran impacted the market. However, Wall Street stayed close to record levels. Investors are hopeful about the Strait of Hormuz reopening. Strong corporate earnings also provided support. Macy's and GameStop reported positiv
+
+## Ford recalls nearly 4.2 lakh vehicles over seat belt defect linked to injury risk
+Ford is recalling nearly 4.2 lakh Expedition and Lincoln Navigator vehicles (2018-2022) in the US due to a seat belt defect. The issue can cause seat belts to lock unexpectedly, hindering retraction or extension, potentially leading to injuries in crashes. Ford will replace affected front seat belt 
+
+## Why did TCS shares crash over 8% today? Stock logs worst single-day fall since Covid-era rout
+Tata Consultancy Services (TCS) experienced its steepest single-day decline since March 2020, plunging over 8% and erasing recent gains. Market experts attribute the sharp reversal to strong resistance near a key technical zone, triggering profit-booking and renewed selling pressure. Analysts are no
+
+## Dip in foreign investment is part of a self-correcting cycle : Bank of America’s Sahu
 
 
-## Zirakpur Penthouse dispute: Consumer panel orders against Barnala builders
+## India-US trade deal within reach, final 1% remains under discussion: Sergio Gor
+India and the US are nearing the finalization of a proposed trade agreement, with US envoy Sergio Gor expressing optimism for a resolution within weeks. Top negotiators are currently in New Delhi to iron out the remaining details of the interim pact. Gor also clarified that recent US tariffs were no
+
+## Stock Market Highlights Today: BSE Sensex closes over 300 points down, Nifty50 above 23,400 on mixed global cues
 
 
-## After NEET leak storm, Latur’s coaching capital faces closure
+## Malviya Nagar hotel hub serving medical tourists under spotlight after deadly fire
+Locals estimate that more than 35 hotels and guest houses operate in the neighbourhood, with many offering budget accommodation for patients and attendants.
+
+## From student activist to Karnataka chief minister: The rise of DK Shivakumar
+For Shivakumar, popularly known as 'Kanakapura Bande' (the Rock of Kanakapura), patience had become a political necessity.
+
+## IRCTC sets new records in online ticket booking, blocks 3 crore suspicious IDs in 2025-26
+As part of these efforts, IRCTC informed that the corporation deactivated 3.03 crore suspicious user IDs in 2025.
+
+## Delhi CM Gupta seeks report from DM in Malviya Nagar fire tragedy; officials probe alleged lapses
+The tragedy claimed 21 lives at Flourish Stay Guest House in Hauz Rani area of Malviya Nagar.
+
+## Why Cockroach Janata Party has no woman spokesperson? Abhijeet Dipke answers
+After the CJP announced 3 spokespersons ahead of its press conference on Wednesday, social media users pointed out that no female had been named for the roles.
+
+## ‘Cities of future cannot be hotter versions of today’s cities’: UNDP India head
+As India continues its rapid development journey and invests in new infrastructure, the key will be to integrate climate and biodiversity considerations
+
+## Tortured, trapped, starved by in-laws for a year: Dehradun woman freed by parents
+Woman Kept Prisoner in Toilet, Tortured and Starved by Husband and In-Laws
+
+## ‘Stop hitting civilians’: India tells Iran after deadly Kuwait strike kills citizen
+The dead Indian was a worker at the airport. Kuwait is home to more than one million Indians, the country’s largest expatriate community
+
+## Court remands Anil Ambani’s former aide Jhunjhunwala to CBI custody till June 5
 
 
-## Binge-watching Reels? Meta tests new ‘Series’ feature for episodic Reels on Instagram and Facebook
+## Dhurandhar to release in Japan after earning Rs 3100 cr, can it break Dangal’s record?
 
 
-## Vicky Kaushal on his controversial ‘wife joke’ getting backlash: ‘Deserved the brickbats’
+## Ronaldo, Taylor Swift and Mickey Mouse are fighting for your attention
 
 
-## Trinamool dissolves party units after rebels’ defiance show, says will introspect
+## Deserted streets, people glued to TV: D K Shivakumar’s Dodda Alahalli during his swearing-in
 
 
-## Indians run some of the world’s biggest companies. Why do we build so few of them?
+## Watch | Stone-faced winning AFC Champions League, then weeping with Kim Jong-Un: North Korean women’s football team’s emotional homecoming
+
+
+## ARG coach Scaloni cried before 2022 World Cup final, couldn’t deliver team talk
+
+
+## 10 must-read Julia Quinn Regency romances for Bridgerton fans
+
+
+## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on stealth technology, Dual Frequency Synthetic Aperture Radar and more (Week 165)
 
 
 ## China’s fund managers face new rules to curb risky investment strategies
@@ -153,6 +147,9 @@ For decades, the best office spaces in Hong Kong’s Central district sold the s
 ## Why Shanghai’s property market is rebounding faster than most other cities in China
 Shanghai’s second-hand housing market picked up steam in May, with transaction activity accelerating significantly, while the city’s new home market has also seen robust sales. Industry experts believe Shanghai’s property sales volume and home prices will recover faster than most cities in China aft
 
+## Middle East Cease-Fires Matter Even When They’re Broken
+De-escalation, rather than lasting peace, is still important.
+
 ## Why Asia’s Not Buying What Hegseth’s Selling
 A Shangri-La charm offensive collided with regional values.
 
@@ -173,9 +170,6 @@ A recent attack in Jerusalem highlights a worrying trend intensified by wartime 
 
 ## The World’s Mineral Powers Seize Their Moment
 Resource-rich countries haven’t always benefited from extraction. Can this time be different?
-
-## There Are Only Four Great Powers
-An era of great-power competition has started—but not all would-be competitors qualify.
 
 ## Kazakhstan, Russia Step Forward With $16.4 Billion Nuclear Power Plant Plan
 Moscow is reportedly furnishing as much as 85 percent of the financing for the project.
@@ -249,29 +243,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cape Verde football team arrives in the US for the World Cup
-Cape Verde’s national football team has arrived in the US ahead to take part in their first ever FIFA World Cup.
+## ‘Doesn’t seem qualified’: Who is Bill Pulte, acting US intelligence chief?
+Republican and Democratic lawmakers have questioned the credentials of President Trump's latest appointee.
 
-## US artist sues FIFA over destruction of Dallas whale mural for World Cup
-Wyland's mural stood for nearly three decades before workers began painting over it last month to promote the World Cup.
+## Lamine Yamal and Nico Williams set to be fit for Spain’s World Cup opener
+Barcelona's Lamine Yamal and Athletic's Nico Williams are expected to shake injuries in time to face Cape Verde.
 
-## Hilton, Becerra lead California governor race: Key primary election results
-California, Iowa, New Jersey, New Mexico, Montana and South Dakota held key primaries on Tuesday.
+## The Population Bust
+A revealing global journey into declining birth rates, ageing societies, and their far-reaching impact.
 
-## Fire at New Delhi hotel kills at least 21 people
-It took eight fire engines to extinguish the blaze, as more than 40 people were rescued and taken to nearby hospitals.
+## Israel detains Palestine international women’s football player
+Rand Halawani's detention also saw four other women arrested on Tuesday, including a former Palestine player.
 
-## Remembering Muhammad Ali’s message of peace
-Ten years after his passing, Ali’s words remind us of what we must do amid today’s conflicts and divisions.
+## Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay
+Squad's visas for the US haven't been issued, with Marco Rubio saying IRGC-linked members won't be allowed to 'embed'.
 
-## How social media changes the way we see war
-We see war now as we see everything else - through a screen.
+## DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat
+Mayor of Spain's La Linea de la Concepcion bans friendly between DR Congo and Chile due to health concerns.
 
-## Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle
-Hezbollah has released drone video showing attacks targeting Israeli forces occupying Beaufort Castle
+## Why is France so invested in the future of Lebanon?
+Analysts say France is hoping to reassert its diminishing influence in the region.
 
-## UK-China ‘ice age’ thaws: Why the West needs Beijing
-British Foreign Secretary Yvette Cooper hails ‘candour and respect’ in new ties with Beijing, despite differences.
+## Kuwait and Bahrain attacked as Iran launches missile and drone barrage
+Kuwait and Bahrain attacked as Iran launches missile and drone barrage
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
