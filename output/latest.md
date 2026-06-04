@@ -1,40 +1,49 @@
 # AION Intelligence
 
+## Broadcom suffers $285bn rout as revenue outlook disappoints
+Chip company notches one of the biggest valuation wipeouts on record as shares drop 12% on Thursday
+
+## Trump family’s planned luxury resort sparks protests in Albania
+Demonstrators oppose $4bn resort backed by investment firm founded by US president’s son-in-law Jared Kushner
+
+## NSA using Anthropic’s Mythos for cyber attacks
+Arrangement comes as AI lab is locked in legal battle with Pentagon over Claude model
+
+## Bitcoin tumbles after Strategy sale unnerves crypto traders
+Cryptocurrency is heading for biggest weekly loss since November 2022
+
+## Mandelson investigation may take more than a year, says top UK prosecutor
+Director of Public Prosecutions says same dynamic applied to the investigation into former prince Andrew
+
+## HSBC placed under formal investigation over Lebanese central bank scandal
+French prosecutors bring preliminary charges against bank’s Swiss unit over allegations linked to former governor Riad Salameh
+
+## Tech groups find a new way to monetise AI hype: selling volatility
+Elevated convertible bond issuance is, at heart, a response to the market being twitchier than usual
+
 ## Hizbollah rejects US-brokered ceasefire as Israel pursues offensive
 Fresh strikes come after US announced deal to implement truce in Lebanon
 
-## Private schools in England lose 20,000 pupils in first full year of VAT on fees
-Drop faster than decline in state sector but government figures say numbers within expectations
-
-## Broadcom suffers $300bn rout as revenue outlook disappoints
-Shares in chip company down about 15% in afternoon trading on Thursday
+## Ultra-processed food harms tied to content not manufacture, review says
+Some UPFs are benign, while others are unhealthy because of their contents, according to a study published in Science
 
 ## Blackstone caps withdrawals from flagship private credit fund
 Redemption requests surged to $4.5bn in second quarter
 
-## Taxpayers suffer from ‘permafrost’ of allowances frozen for decades
-Study calls for comprehensive review of tax system in which thresholds have ceased to be uprated for inflation over many years
-
 ## SpaceX IPO shows Musk’s genius is in mythmaking
 How exactly the company plans to support its gargantuan valuation is not obvious
 
-## The coming equity surge will test the US bull run
-Mega IPOs and share offerings challenge the appetite for AI stocks
+## Rajesh Exports’ ‘gilded’ accounts
+SEBI exposes a multi-layered deception that went undetected by the auditors, institutional investors
 
-## The case for raising UK interest rates is growing
-The Bank of England should proactively lean against second-round effects from the energy shock
+## “This is a misunderstanding” says Rajesh Mehta in response to SEBI’s interim order
+We have not received any communication from SEBI in the last three months
 
-## KPMG’s global bosses refused to probe Australia whistleblower claims
-Revelation draws international chief into scandal that has prompted resignation of top executives in the country
+## Strong farm cash flows drive tractor demand; registrations rise 11.6% in May
+Resilient agricultural sentiment, replacement demand boosts registrations; Mahindra & Mahindra, TAFE and International Tractors report robust performance
 
-## Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030
-Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO
-
-## Betfair targeted gambling addict, court hears in landmark case
-Flutter-owned company accused of worsening addiction of Luke Ashton before he took his life
-
-## Europe is finally flexing its innovation muscles
-The new EU tech sovereignty package shows a welcome shift from defensive regulation
+## ChatGPT app crosses 1 billion active users in 3 years of launch; India 20% of this user base
+ChatGPT has in many ways become synonymous to Generative AI being the first such tool experienced by customers
 
 ## Tajpur deep sea port declared unviable, Bengal proposes new site at Dadanpatrabar
 Bengal is also advancing plans to connect Kolkata with the Water Metro network and has reviewed a ₹19,209 crore maritime investment roadmap aimed at boosting ports, logistics, and employment
@@ -47,18 +56,6 @@ Closure of the Strait of Hormuz forced New Delhi to turn to the US to fill the g
 
 ## India, US had positive discussions on trade deal: Commerce Department
 No clarity has been provided on when the India-US BTA is likely to be concluded
-
-## Assam gets high-quality second flush tea this year on favourable weather
-The second flush crop accounts for around 15% of Assam’s annual tea production
-
-## Japanese robotics start-up seeks Indian partners to manufacture humanoid robots
-Automation, electronics and smart manufacturing emerge key themes at INTEC 2026
-
-## “This is a misunderstanding” says Rajesh Mehta in response to SEBI’s interim order
-We have not received any communication from SEBI in the last three months
-
-## Zepto likely to cross $ 1 billion-mark in net order value in June quarter
-Sources said that the quick commerce platform’s net order value is expected to grow to over $1 billion in June quarter from about $500 million in late 2025 and has been scaling up despite growing competitive intensity in the sector.
 
 ## Gulf crisis: IndiGo grounds flights to six overseas destinations amid cost pressures
 IndiGo is temporarily halting flights to six international destinations, including Hong Kong and Shanghai, until September 30. This strategic move aims to optimize its network amidst softer travel demand and escalating operating costs. The airline plans to resume services on October 1, contingent on
@@ -84,6 +81,12 @@ India is accelerating its ethanol drive, planning to establish 5,000 ethanol fue
 ## For first time, Russia admits oil production has declined amid Ukraine's attacks on refineries
 Russia has publicly acknowledged a dip in oil production due to unscheduled refinery repairs, marking the first such admission. This comes amid intensified Ukrainian drone attacks targeting Russian energy infrastructure, which have disrupted operations and pushed Moscow to increase crude exports. De
 
+## ‘India will resist such efforts’: Putin backs New Delhi amid ‘US pressure’ over Russian oil
+Vladimir Putin's remarks come at a time when the US is reconsidering a waiver that has allowed countries, including India, to continue purchasing Russian oil.
+
+## Muddy site, worker's legs crushed, 3 bodies: What we know so far about Faridabad's deadly crane collapse
+The crane came crashing down onto a shipping container being used as a temporary site office and resting area for workers, officials said.
+
 ## Man flees after allegedly strangling wife to death in Gurugram; manhunt underway
 The altercation ensued after the husband demanded to know who his wife was speaking to over the phone, information that she refused to reveal
 
@@ -102,11 +105,20 @@ Nepal Foreign Minister Shisir Khanal will meet S Jaishankar to discuss trade, co
 ## 7-year-old girl abducted at night, raped in UP's Mathura; accused arrested
 The girl was allegedly abducted at night as she slept next to her mother and was raped at a nearby crematorium
 
-## Malviya Nagar hotel owner showed ‘Delhi mai sab chalta hai’ attitude, ‘uncooperative’ during investigation, claim cops
-Investigators said their questioning revealed a pattern of greed, regulatory violations, and disregard for safety norms on Bajaj's part, according to PTI.
+## Twinkle Khanna’s ‘travel lighter’ message highlights burden of emotional baggage
 
-## PM Modi to visit Gujarat, Daman to inaugurate development projects worth ₹22,000 crore
-The projects scheduled to receive their foundation stones include a 200-bed ESIC Hospital in Surat and a new terminal building of NAMO Airport in Daman
+
+## Why Trump’s ex-advisor John Bolton is pleading guilty in classified documents case
+
+
+## Rumesh Pathirage becomes first Javelin Thrower to cross 90m in 2026 season
+
+
+## 3 killed as crane overturns on under construction flyover linking Noida airport to Faridabad
+
+
+## ‘6.30 am office shuru hota hai’: Indian man reflects on US work culture; expert weighs in
+
 
 ## WFI acknowledges receiving Vinesh Phogat’s reply to show cause notice
 
@@ -115,21 +127,6 @@ The projects scheduled to receive their foundation stones include a 200-bed ESIC
 
 
 ## Expert reflects on Pooja Bhatt’s reasons for ending marriage after 11 years: ‘Felt lonely’
-
-
-## 2 workers killed as crane collapses at Jewar airport flyover construction site
-
-
-## India not Vishwaguru yet, still inadequately prepared: RSS chief Mohan Bhagwat
-
-
-## Seeking Centre’s intervention, Aaditya alleges state diluted tiger corridor for mining project
-
-
-## BJP sends Tarun Chugh to Rajya Sabha, fuels speculation over Bittu’s Punjab role
-
-
-## Malviya Nagar fire: CM Rekha Gupta meet victims, announces compensation; LG hold high-level meet
 
 
 ## AI isn’t just a compute race. It’s a data race – and storage will decide the winners, WD shares
@@ -180,29 +177,29 @@ There is a brief lull in violence, but the root causes of the conflict haven’t
 ## India’s Cockroach Movement Gains Momentum
 A satirical political party has tapped into the discontent among unemployed youth.
 
+## What India’s Latest Press Freedom Ranking Reveals About Its Democratic Trajectory
+The RSF’s score for India is significant not for the number itself, but for what that ranking reflects about deeper structural trends affecting journalism, media ownership, and democratic accountability.
+
+## Trilateral Dynamics: China’s Strategy to Test US Restraint of Japan
+Takaichi’s overwhelming victory during the February election suggests China’s coercive approach might be counterproductive. But Beijing’s tactics are not aimed only at the bilateral relationship.
+
+## China, India, and the Emerging Green Divide
+Clean technology has become embedded within a wider geopolitical contest over industrial leadership, technological sovereignty, and influence in the world, especially in the Global South.
+
+## Quetta Train Bombing Points to Escalating Insurgent Violence in Balochistan
+The attack, which coincided with Prime Minister Shehbaz Sharif’s visit to China, was aimed at sending China a message that its investments in Balochistan are not safe.
+
+## Russia’s Dual Afghan Strategy and Pakistan’s Shrinking Room for Maneuver
+Moscow's deepening relations with the Taliban hint at growing doubts about Pakistan as a counterterrorism partner.
+
+## Journalism and Fighting for Indigenous Rights in Myanmar
+Scott Johnson talks about drones and meeting Nerdah Bo Mya in Kawthoolei.
+
 ## Major ASEAN Economies In Line For New US Tariffs Over Forced Labor
 U.S. Trade Representative Jamieson Greer has recommended the imposition 10-12.5 percent levies on 60 major trading partners.
 
 ## To Lam’s Southeast Asia Visits Expand Vietnam’s ‘Neighborhood Bamboo Diplomacy’
 Hanoi's closer engagement with its ASEAN neighbors represents an enhancement of its flexible, omnidirectional foreign policy doctrine.
-
-## Can ASEAN’s Green Goals Survive Its Data Center Boom?
-Data centers are critical enablers of ASEAN’s digital economy, but rapid digitalization presents a number of serious sustainability challenges.
-
-## Can ‘Compulsory Conciliation’ Resolve the Cambodia-Thailand Maritime Border Dispute?
-Bangkok's recent withdrawal from a 2001 MoU governing maritime border talks has prompted Phnom Penh to internationalize the dispute.
-
-## Tiananmen Is Not Just China’s Story
-The 1989 crackdown reinforced a political order that made independent worker organizing nearly impossible. The effects have been felt across the global economy.
-
-## Australia’s Strategic Ambiguity Is Running Out of Road
-Washington wants allies to spend more on defense, while Beijing judges Australia by what it does, not what it says. Canberra needs to take stock of its own interests.
-
-## Why Beijing Still Fears the Tiananmen Mothers
-Thirty-seven years later, the regime’s legitimacy still rests on suppressing the truth of what happened on June 4, 1989.
-
-## Nature and Concrete: The Eco-Brutalist Resistance in Central Asia
-Eco-brutalism is an aesthetic appeal to a healthier, greener future, and one that can be built atop existing realities.
 
 ## Is Time on China’s Side? Beijing’s Taiwan Calculus and the Balance of Power
 When is the risk of war the highest? And what should the United States be doing about it? One of the most important but underappreciated questions in international politics is how states think about the future balance of power. Countries that believe their position is improving often choose patience
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ecuador’s disappeared: Inside one family’s search for answers
-Advocates warn that 51 people have disappeared during Ecuador's military operations, leaving loved ones without answers.
+## Block the bombs: Support grows for US bill to restrict arms for Israel
+'Long road' remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.
 
-## Trump official-turned-foe John Bolton accepts plea deal in documents case
-Despite serving as Trump's national security adviser, Bolton has emerged as a top critic of the president.
+## History-making qualifier Chwalinska sets up Andreeva French Open final
+Poland's Maja Chwalinska beats Diana Shnaider to reach French Open final and makes history after qualifying run.
 
-## Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
-Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.
+## Liverpool appoint Spaniard Iraola as new manager in place of Slot
+Andoni Iraola left his role at Bournemouth at the end of the season and takes over at Liverpool in place of Arne Slot.
 
-## Ronaldo, Messi at World Cup: Who else is playing their final tournament?
-The World Cup is set to be the swansong for some big names, including Cristiano Ronaldo and Lionel Messi, but who else?
+## Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
+Russia's latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.
 
-## Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi
-No handshake and no photo as Mirra Andreeva of Russia beats Marta Kostyuk of Ukraine to reach French Open final.
+## Hundreds protest in Libya outside UN agency against undocumented migrants
+Protesters accuse the UN of settling undocumented migrants in the country, a claim the agency rejects.
 
-## The making of Sudan’s RSF
-Sudan’s Rapid Support Forces have a long history of violations, going back to when they were known as the ‘Janjaweed'.
+## Sherpa found alive on Mount Everest after six days missing
+A Nepali Sherpa has been found alive on the slopes of Mount Everest after missing for six days without food or oxygen.
 
-## Pro-Palestinian badges should not be worn by NHS staff, UK review suggests
-Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers
+## Saudi energy minister calls for ‘stable energy sector’ during Russia visit
+Prince Abdulaziz bin Salman and other top OPEC officials visit the St Petersburg International Economic Forum.
 
-## ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
-Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.
+## Marjane Satrapi, the author of ‘Persepolis,’ dies at 56
+Known for her graphic novel ‘Persepolis,’ Iranian-French artist and filmmaker Marjane Satrapi has died at the age of 56.
 
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
