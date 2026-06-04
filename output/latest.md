@@ -1,10 +1,37 @@
 # AION Intelligence
 
+## Submit your questions: Ten years on, what’s next for Brexit?
+Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, today at 1pm BST
+
+## Disparities between ethnic groups are not always cause for alarm
+Different outcomes merit investigation, but we should not assume reducing the gaps is desirable or necessary
+
+## Darren Jones told Mandelson he was ‘so sorry’ he was sacked as US envoy
+Chief secretary to PM discussed his own ambitions with the disgraced peer and sniped about colleagues, leaked messages show
+
+## Israel and Lebanon agree to implement ceasefire
+Deal announced by US state department calls for Hizbollah to stop all attacks
+
+## Japan’s bonds
+Plus, India’s wobble
+
+## Hungary lifts 17-month veto on Ukraine’s EU membership bid
+Also in this newsletter: Talking tough and acting soft on migration
+
 ## FirstFT: Trump’s US manufacturing push falters
 Also in today’s newsletter: Russian drone warfare and SpaceX IPO
 
 ## Trump to nominate his former lawyer as US attorney-general
 Blanche has been justice department’s acting leader since Pam Bondi was ousted in early April
+
+## Partners Group prepares to cap withdrawals at US fund for wealthy individuals
+Swiss group faces increasing strains as redemption requests from investors rise
+
+## Nvidia’s CPU move and China’s EV makers go solid
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
+## Accelerating Business
+A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: how legal tech stalwarts plan to maintain their service to clients as challengers mount incursions
 
 ## Europe’s Best Employers
 In the report, we look at defence groups rise up in the FT’s employer ranking; Amsterdam as an attractive employment hub; engineering’s gender gap; debate over work-life balance in start-ups; Americans look abroad for the longer term
@@ -12,47 +39,44 @@ In the report, we look at defence groups rise up in the FT’s employer ranking;
 ## Kirkland & Ellis and Palantir to build AI tool to assist private equity firms
 Technology to be used to advise buyout groups on bringing in money from investors such as public pension funds
 
-## Russia prunes Armenian rose trade ahead of election
-Moscow’s trade restrictions put pressure on western-friendly government in Yerevan
-
 ## America’s ‘other’ economy tells a different growth story
 Investors should pay attention to the struggles of the consumer packaged goods industry
 
 ## AI cyber security risk ‘top of list’ for banking threats, says UK regulator
 Sam Woods, the outgoing chief of the PRA, says he is ‘very concerned’ about vulnerabilities in lenders’ IT systems
 
-## Indian stocks lose out to Asian rivals in global hunt for AI winners
-Exchanges in Taiwan and South Korea have overtaken India’s in the past week as the two countries’ chipmakers surge
+## Tata Communications stock rises 2%; new study exposes AI infrastructure gap in global enterprises
+The stock has gained over 25% in the past month and trades at a price-to-earnings ratio of 54.77, with a total market capitalisation of approximately ₹56,259 crore
 
-## Accelerating Business
-A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: how legal tech stalwarts plan to maintain their service to clients as challengers mount incursions
+## Need to reduce fossil fuel imports through alternative fuels, biofuels: Nitin Gadkari
+From an economic standpoint, the minister stressed the need to reduce India's dependence on imported fossil fuels
 
-## The Knicks’ Wall Street odyssey
-How NBA owner James Dolan righted the ship at his sports teams and business empire
+## Sensex today | Stock Market Live: Sensex trades flat, Nifty near 23,400 as geopolitical tensions weigh on sentiment
+Sensex, Nifty, Stock Price Live Updates: Indian equities traded weak in a lacklustre midday session on Thursday as global cues stayed subdued and West Asia tensions escalated, with Sensex and Nifty slipping amid persistent FII selling and cautious derivatives positioning.
 
-## Rajesh Exports stock hits lower circuit after SEBI action against promoter
-Slide follows SEBI’s interim findings that Rajesh Exports had prima facie misrepresented nearly ₹15.15 lakh crore in revenues linked to its subsidiaries between FY21 and FY25
+## Blue Energy Motors crosses 100 million kms of fleet operations
+The development comes when the commercial vehicle industry is undergoing a significant transformation, driven by rising fuel costs, sustainability commitments from corporates and India’s long-term decarbonisation goals
 
-## Sensex today | Stock Market Live: Indian equities trade flat amid global, West Asia tensions
-Sensex, Nifty, Stock Price Live Updates: Indian equities traded flat in volatile Thursday trade as global cues remained subdued and West Asia tensions persisted. Investors stayed cautious ahead of the RBI policy decision, while FII outflows and rising volatility kept sentiment fragile with limited u
+## BIS studying implementation challenges for mandatory silver hallmarking, says DG
+Silver hallmarking has been voluntary since 2005 and from September 2025 onwards, hallmarked silver articles carry a Hallmark Unique Identification (HUID) number, enabling buyers to verify purity.
 
-## Audio book platform Kuku files confidential papers for up to ₹3,500-cr IPO
-The IPO, expected in the later part of this financial year, will comprise a mix of fresh issue of shares and an offer-for-sale (OFS) by existing investors.
+## L&T to invest ₹18,600 cr in Tamil Nadu, signs MoU in presence of CM Vijay
+The MoU is the first industrial agreement signed after the Vijay-led government took office
 
-## Nifty Prediction Today – June 4, 2026: Nifty futures: Intraday rally on the cards, go long
-Nifty futures (Jun) can see an uptick to 23,640 today
+## Energy price shocks may slow down economic recovery but inflation to remain stable: Report
+As per ICICI Bank Global Markets report, inflation is speedily increasing, majorly led by food which now should also be driven by energy prices
 
-## IEX shares rise 2% after May electricity trade volumes jump
-The exchange reported total electricity traded volume of 12,983 million units (MU) in May 2026 compared with 10,946 MU in the corresponding month last year
+## Silver drops in futures trade on weak global cues, inflation worries
+On the MCX, the white metal for July delivery depreciated by ₹621, or 0.24%, to ₹2,62,337 per kg in a business turnover of 11,830 lots.
 
-## India EV bus registrations fall 7% in May; JBM Auto captures nearly half the market
-Depot infrastructure shortages, charging delays and financing bottlenecks slow down deployment
+## ‘World's long-term capital is looking at India’: Global investors betting big, says Piyush Goyal
+Global investors are showing strong confidence in India's future. Union Minister Piyush Goyal stated that India is set to be the world's fastest-growing economy for more than twenty years. Companies like Hyundai and JCB have seen significant returns by investing in India. The nation is becoming a ma
 
-## BHEL shares dip; announces Nigeria contract win worth up to ₹2,500 crore
-The stock opened at ₹410.40 on the NSE, touching an intraday high of ₹411, before slipping to ₹405.65 as of 10.01 AM — down 0.16% from its previous close of ₹406.30
+## Rajesh Exports share price today: Stock tanks 5% to hit lower circuit as SEBI bans CMD for financial irregularities
+On the BSE, the stock fell 4.99% to Rs 104.65, reaching its daily lower limit. A similar trend was seen on the NSE, where the share price declined 4.99% to Rs 103.92, also locking into the lower circuit.
 
-## Stocks to Watch, June 4: Rajesh Exports, HFCL, Hero MotoCorp, BHEL, Aurobindo Pharma, GMR Airports
-Indian corporates saw a flurry of activity with regulatory action, expansion plans, large contract wins and stake transactions dominating headlines. Key developments included SEBI’s restrictions on Rajesh Exports, HFCL’s defence push, BHEL’s Nigeria order, and SoftBank’s Lenskart stake sale
+## Gold, silver price prediction: Will gold hit Rs 1.65 lakh/10 grams & silver rise to Rs 2.85 lakh per kg? Check outlook
+Gold and silver price prediction today: The base trendline for MCX Gold, and MCX Silver remains bullish according to Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
 
 ## Stock Market Live Updates Today: BSE Sensex opens over 450 points down, Nifty50 below 23,350; crude oil prices drop
 
@@ -69,62 +93,59 @@ Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company
 ## RBI rejects bids for treasury bills, move signals lower rates
 The RBI rejected bids for longer-term treasury bills, signaling discomfort with rising short-term yields ahead of its monetary policy decision. This move, aimed at softening interest rates, comes as the MPC meets to decide on rates, with a pause widely expected. Yields on government bonds subsequent
 
-## Interest in India strong despite volatility: Bank of America chief
-Despite near-term volatility, India's appeal remains strong for strategic investors due to its scale and growth prospects. While foreign institutional investor participation has declined, Bank of America's India CEO Vikram Sahu believes capital will follow as regulatory friction eases and business c
+## 'Want him to sacrifice life, but...': Ex-officer backs Army captain amid row over proposal
+A newly commissioned Army captain's proposal to his girlfriend after a passing-out parade ceremony has gone viral and drawn mixed reactions.
 
-## Govt sets aside Rs 10k crore to cap jet fuel price, keep air fares in check
-The Indian government has allocated Rs 10,000 crore to stabilize jet fuel prices. This move aims to prevent airfares from becoming unaffordable for citizens and to support airline operations. The support will be provided as an interest-free advance to oil companies. This initiative is expected to ma
+## ‘Consequence of corrupt system’: NEET aspirant's suicide ahead of re-exam sparks Opposition fury
+Rahul blamed the Centre for the aspirant's death and said it was a consequence of a corrupt and broken system being run under Prime Minister Narendra Modi.
 
-## Exporters keep tabs on USTR probe, trade talks
-Indian exporters are closely monitoring US trade investigations and bilateral deal talks, expecting an advantage over rivals. While not overly concerned about a proposed 12.5% tariff on 54 countries, they are apprehensive about the same levy on China. Exporters are confident that ongoing negotiation
+## List of places Monsoon has covered so far and where it is headed next
+Along with Kerala, the monsoon has advanced across several parts of the Arabian Sea and the Bay of Bengal and is expected to expand further.
 
-## Tabling of White Paper in Assembly on Kerala financial health leads to war of words
-Tabling of White Paper in Assembly on Kerala financial health leads to war of words
+## Delhi govt to scrap B&B scheme after Malviya Nagar fire: ‘All establishments to be checked’
+Tourism Minister Kapil Mishra said the government would formally withdraw the scheme and take action against operators violating licence conditions.
 
-## CCTV captures Panchkula club firing that left two injured, suspected Godara gang shooters arrested | Watch
-According to police sources, the incident took place around 1 am when Ratan Lubana, a relative of a local BJP leader, was coming out of a club in Sector 5.
+## Heatwave conditions to intensify in parts of Andhra Pradesh
+Heatwave conditions to intensify in parts of Andhra Pradesh
 
-## 8 of family visiting Gurugram man in hospital die in Delhi's Hauz Rani fire
-They had all come to meet Vivek’s 77-year-old father, Radhe Shyam Aggarwal, who was critically ill and, doctors at Max Hospital had told them, may not survive.
+## Terms of Trade: India’s democracy needs a bonfire of the alibis
+It is not democracy which has failed the TMC, it is the TMC which has failed democracy in West Bengal
 
-## NEET aspirant dies by suicide in Nagpur before re-exam: 'No guarantee I would do well again'
-The girl from Mauganj district of Madhya Pradesh used to live in Nagpur, where her father works as a cook.
+## Congress stands by BK Hariprasad; Karnataka CM to decide portfolios, says minister Priyank Kharge
+Karnataka Minister Priyank Kharge said that the Congress party stands by leader BK Hariprasad, and that the Chief Minister will decide on cabinet portfolios.
 
-## Room permit, closed exit: How safety gaps sparked another Delhi tragedy in BnB blaze, killing 21
-Most of the victims of the fire, one of Delhi's worst in years, were either people visiting India for their medical treatment or caregivers of patients.
+## Bengal minister backs NIA action against ex-Trinamool MLA Saokat Molla
+An NIA team on Thursday carried out search and questioning operations at the residence of former Trinamool Congress (TMC) MLA Saokat Molla.
 
-## Abhijeet Dipke’s family relocates as his political steps spark worries
-The Dipkes have temporarily shifted from their home in the MIDC Waluj area of Chhatrapati Sambhaji Nagar, formerly Aurangabad, to an undisclosed location.
-
-## Cabinet clears ₹10,000-cr fund to shield airlines, offset jet fuel price swings
-The one-time budgetary support of ₹10,000 crore will allow Oil Marketing Companies (OMCs) to provide Aviation Turbine Fuel (ATF) at stable prices to airlines.
-
-## Modi won't be PM after a year: Rahul Gandhi's prediction amid CBSE, paper leak row
-Rahul Gandhi said the system that had previously functioned under Prime Minister Narendra Modi's control was now "shaking and collapsing".
-
-## Punjab Board Supplementary Exams 2026: PSEB class 10th &12th registration process starts
+## Donald Trump’s new definition of ‘ceasefire’ amid latest Iran flare-up
 
 
-## ‘We will get it, and destroy it’, Trump says US will retrieve Iran’s enriched uranium after conflict ends
+## At least 11 killed in massive fire at elderly care home in Sri Lanka
 
 
-## Child not ‘pawn’: Court orders father to return son taken from school against custody decree
+## Palak Tiwari’s workout hack is to ‘clock’ 10K steps daily: ‘I don’t sleep until…’
 
 
-## TS LAWCET, PGLCET Results 2026: Scorecards releasing today at 4 pm at lawcet.tgche.ac.in
+## Content creation vs legal etiquette: Kerala High Court cracks down on reels by lawyers
 
 
-## South Delhi hotel owner saw property up in flames, fled: Police
+## Pahlaj Nihalani launched Govinda despite not ‘liking his face’: ‘I hired him for his dance’
 
 
-## Exclusive | Licence in accountant’s name: How South Delhi hotel owner bypassed rules
+## In an era of wedding aesthetics and algorithms, the missing conversation is dowry
 
 
-## ‘Ranveer Singh’s team misguided him by sending us a legal notice’: Cine body’s president
+## Why court refused to clear Madurai cop over Rs 1.45 crore counterfeit notes at abandoned quarters
 
 
-## Failing to get remarried, Pune villager kills father and brother
+## Cab driver killed after BEST bus crashes into parked vehicle in Mumbai’s Malad East
 
+
+## World champion swimmer Siobhan Haughey reflects on life outside the pool
+Siobhan Haughey, one of Hong Kong’s most successful athletes with four Olympic swimming medals, has her sights set on more success in the pool at this September’s Asian Games in Nagoya and Aichi prefecture in Japan. The 28 year-old, who won silver medals in both the women’s 100m and 200m freestyle a
+
+## More US firms turn to China’s DeepSeek over pricey Silicon Valley AI
+Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, surging as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from N
 
 ## IPOs, expansion plans give China’s US$16 billion pet food sector paws for thought
 Home-grown and foreign pet business operators are bullish on China’s booming pet market this year, eyeing initial public offerings and localising supply chains, fuelled by young consumers’ growing interest in their animals’ health and wellness. Fubei, a major domestic pet food maker based in Shangha
@@ -143,12 +164,6 @@ China’s second-largest provincial economy is accelerating the integration of i
 
 ## Tesla’s China sales surge to 2026 high, but rivals crowd the rear-view mirror
 Tesla’s Shanghai Gigafactory recorded its strongest monthly deliveries of the year in May as a broader recovery in China’s electric vehicle market gathered pace, although the US carmaker is likely to face intensifying competition from domestic rivals launching a wave of new models. The factory in Sh
-
-## Global oil stockpiles could fall to ‘critical levels’ by summer, IEA warns
-Global oil inventories risk declining to “critical levels” before the peak summer season – and the energy crisis could drag on for months even if a deal is agreed to end the US-Israel war on Iran, according to the International Energy Agency (IEA). While China’s crude reserves remain relatively resi
-
-## The price of a long life: Hongkongers may need US$910,000 to retire
-Hong Kong’s exceptional longevity means some individual retirees may need as much as HK$7.1 million (US$910,000) to support themselves after leaving work, exposing a wide gap between retirement needs and actual pension savings, according to a new study. The finding contrasts sharply with the average
 
 ## The Threat of Unrest Is Decarbonizing the Global South
 Oil and gas price spikes are doing what decades of climate diplomacy struggled to achieve.
@@ -198,6 +213,15 @@ While still growing, Kyrgyzstan’s GDP may slow due to increasing weight of san
 ## Exit Polls Suggest Ruling Democratic Party’s Victory in Local Elections
 Exit polls suggest the DP will win 11 of 16 regional posts, with Seoul and Busan producing the night’s most closely watched results.
 
+## Forged in a Knife Fight: China’s Brutal Domestic AI Competition
+China’s plan to become a world leader in AI by 2030 is a fixture of practically every Congressional briefing and expert commentary on Beijing’s AI ambitions. The plan’s logic — introduced in 2017 — was simple and alarming: Beijing would direct capital, mobilize its firms, recruit talent, and execute
+
+## Revisiting The Importance of the Battle of Midway
+The Battle of Midway has assumed a place in American naval lore that has put it on par with other great battles in world naval history. What Salamis was for the Greeks, Trafalgar for the British Royal Navy, and Tsushima for the Japanese, the clash northwest of Midway Island on June 4, 1942, represen
+
+## Wrong Audience, Wrong Ask: Why Trump’s Abraham Accords Gambit Falls on Deaf Ears
+When President Donald Trump repeatedly pressed regional leaders on Abraham Accords expansion late last month — framing Arab-Israeli normalization as a debt owed and a condition for a settlement to end the Iran war — he apparently commented there had been silence on the other end of the line.Arab and
+
 ## Will China and the United States Pursue Strategic Stability?
 In 2024, Michael Swaine wrote, “How to Stop the United States and China from Sliding into War,” where he identified areas that could increase the possibility of an armed conflict between the United States and China. Two years later, after recent talks between President Trump and President Xi, we ask
 
@@ -212,15 +236,6 @@ On May 8, Taiwan’s Legislative Yuan broke a grueling six-month stalemate by pa
 
 ## The Toll Booth at the Throat of World Trade
 In late February 2026, Iran closed the Strait of Hormuz to foreign shipping. What began as a chaotic wartime closure has, in the past few days, hardened into something more consequential: an official sovereign toll regime, codified in Iranian law, and priced in cryptocurrency.On May 18, Iran operati
-
-## Building a Better Ukraine Requires Accessibility Reforms
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement
-One of the most effective counter-drone systems in the largest drone war in history between Ukraine and Russia is a German anti-aircraft gun designed during the Cold War. The Gepard — a self-propelled 35 mm cannon that first entered service in 1976 — has earned recognition from Ukrainian military ex
-
-## Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure
-What would happen if you woke up one morning and the internet was gone — not from a software glitch, but because someone had simply cut the wire?Threats to critical undersea infrastructure are rapidly escalating. In 2023, the Balticonnector pipeline and several Baltic data cables were damaged. A yea
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,32 +261,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli strikes on residential buildings kill nine in Gaza City
-Israeli strikes on residential buildings have killed nine Palestinians, setting homes ablaze and leaving destruction.
+## Video: US House of Representatives votes to block further war on Iran
+Republican-led US House of Representatives passed a resolution to halt any further push of the war on Iran.
 
-## Indonesia’s rupiah falls to record low against US dollar
-Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies.
+## World Cup 2026: What are the key dates from the opening match to the final?
+From must-watch games to the grand finale, here's a list of all the important dates on the 2026 World Cup schedule.
 
-## UK far-right accused of exploiting killing of Henry Nowak
-UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.
+## China bans four New Zealand lawmakers over visit to Taiwan
+China says the MPs' visit sends the 'wrong signals' to Taiwan's ruling party.
 
-## Elon Musk’s SpaceX eyes $1.77tn valuation ahead of blockbuster IPO
-Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.
+## Brunson scores 30 as Knicks upset Spurs in NBA Finals opener
+Led by Jalen Brunson, the New York Knicks steal a road win against the San Antonio Spurs in game one of the NBA Finals.
 
-## Rubio distances himself from Netanyahu’s Gaza plan
-House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.
+## Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’
+World number one Aryna Sabalenka let a two-set lead slip in a French Open quarterfinal defeat by Diana Shnaider.
 
-## Nigeria’s second-chance schools: women balancing study and survival
-Women in northern Nigeria return to school after years out, but must balance childcare, duties and costs.
+## How does football influence who we are?
+How does football influence who we are?
 
-## Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza
-Lebanon's Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.
+## Israel and Lebanon agree to conditional ceasefire
+Deal is made through US-brokered talks in Washington, DC, that did not include Hezbollah.
 
-## London activists try to erect statue of jailed Palestinian leader
-Activists have tried to erect a statue of Marwan Barghouti in London’s Parliament Square, but police intervened.
+## Indonesia arrests officials in crackdown on corruption
+Indonesia’s deputy minister for immigration affairs has been arrested after about 10 hours of questioning.
 
 ## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
 The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
+
+## ICAI reinforces mandatory forensic audit, sustainability assurance norms in revised Code of Ethics
+Updated framework reiterates applicability of forensic investigation, ESG assurance and social impact assessment standards, underscoring the profession's expanding assurance responsibilities.
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
@@ -290,9 +308,6 @@ Major accounting firms in India are embracing artificial intelligence for tax se
 
 ## Corporate India posts 25% profit surge in Q4 FY26, but rising costs squeeze margins
 Corporate India's March quarter net profit surged 25.3%, driven by non-operating factors, masking operating challenges like rising input costs that squeezed margins. While FY27 outlook is positive with infrastructure focus, risks include commodity inflation and geopolitical issues. Sector-specific p
-
-## I-T department to move Supreme Court against HC relief in public trust row
-The rift stems from the Income-tax department's demand that deeds of these religious and charitable trusts must categorically state that the trusts are 'irrevocable'.
 
 ## RBI likely to hold rates as West Asia crisis impact on growth remains unclear: Bank of Baroda Report
 The Reserve Bank of India (RBI) is likely to maintain status quo on interest rates in its monetary policy announcement on Friday as the impact of the ongoing crisis in West Asia on economic growth remains difficult to assess, according to a report by Bank of Baroda.
