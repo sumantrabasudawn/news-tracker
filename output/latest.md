@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## Burnham confirms he will seek to replace Starmer as UK prime minister
+Greater Manchester mayor says he will aim to join a Labour leadership race if he wins upcoming by-election
+
 ## FirstFT: China’s falling oil imports ‘shield’ global market from higher prices
 Also in today’s newsletter: global flight of the wealthy slows and a Japanese corporate scandal
-
-## Burnham confirms he will seek to replace Starmer as prime minister
-Greater Manchester mayor says he will aim to join a Labour leadership race if he wins upcoming by-election
 
 ## Broadcom suffers $285bn rout as revenue outlook disappoints
 Chip company notches one of the biggest valuation wipeouts on record as shares drop 12% on Thursday
@@ -84,6 +84,12 @@ Digital entertainment startup Kuku Technologies has confidentially filed for an 
 ## Gulf crisis: IndiGo grounds flights to six overseas destinations amid cost pressures
 IndiGo is temporarily halting flights to six international destinations, including Hong Kong and Shanghai, until September 30. This strategic move aims to optimize its network amidst softer travel demand and escalating operating costs. The airline plans to resume services on October 1, contingent on
 
+## Broken lock, missed calls: DU professor found dead in east Delhi home; murder probe on
+The body has been sent to Lal Bahadur Shastri Hospital for post-mortem. Officials said the exact cause of death will be confirmed after the autopsy report.
+
+## Water metro for Kolkata, separate shipping division likely: Bengal CM Suvendu Adhikari
+Suvendu Adhikari said Bengal was keen to strengthen maritime infrastructure and inland water transport and was examining structural reforms to boost the sector.
+
 ## ‘Making lot of money with India’: Trump says trade deal with ‘good friend’ PM Modi coming
 Donald Trump said India previously imposed high tariffs on US goods but added that the situation had now reversed.
 
@@ -102,35 +108,32 @@ The altercation ensued after the husband demanded to know who his wife was speak
 ## Man accused of religious conversions in Rajasthan, assaulted by right-wing group
 The accused was taken into custody following alleged conversion activities in Alwar's Tanwar Colony
 
-## 'Don't come to Delhi airport': CJP founder's fresh appeal ahead of June 6 protest
-CJP said a large gathering at the airport could disrupt normal operations and create difficulties for both travellers and security personnel.
-
-## Parliamentary debut for Pawan Khera: Congress releases list of candidates of Rajya Sabha polls
-Congress leader Pawan Khera is set to make his Rajya Sabha debut as the party has nominated him along with Mansoor Ali Khan from Karnataka.
-
-## Twinkle Khanna’s ‘travel lighter’ message highlights burden of emotional baggage
+## ‘We will get to a deal’: Trump predicts imminent breakthrough for US-India trade agreement after blasting past tariff policies
 
 
-## Why Trump’s ex-advisor John Bolton is pleading guilty in classified documents case
+## Mob in Uttar Pradesh attacks police team escorting the body of man killed in ‘encounter’
 
 
-## Rumesh Pathirage becomes first Javelin Thrower to cross 90m in 2026 season
+## Among 21 who perished in South Delhi fire | ‘Can’t forget her screams’: TISS postgrad, new job, a life cut short
 
 
-## 3 killed as crane overturns on under construction flyover linking Noida airport to Faridabad
+## Army chief General Upendra Dwivedi: Accelerating absorption of drones, better command systems
 
 
-## ‘6.30 am office shuru hota hai’: Indian man reflects on US work culture; expert weighs in
+## Who will be held accountable for exam paper leaks? Don’t bet on it, records show most get away
 
 
-## WFI acknowledges receiving Vinesh Phogat’s reply to show cause notice
+## 2018 terror conspiracy case: NIA court sentences 3 Kashmiri students to 10 years in jail, acquits one
 
 
-## Why is Trump’s son-in-law Jared Kushner’s resort plan triggering political storm in Albania
+## 45 major paper leaks in 24 years, few top officials face action
 
 
-## Expert reflects on Pooja Bhatt’s reasons for ending marriage after 11 years: ‘Felt lonely’
+## Re-evaluation: CBSE delayed login after experts flagged gaps
 
+
+## Hong Kong stocks struggle as mainland China markets ride AI wave
+Signs are omnipresent that mainland Chinese investors are rotating out of Hong Kong stocks and back to the onshore yuan-denominated market, as they recalibrate to add domestic exposure to the fervour surrounding the artificial intelligence buildout. Onshore investors sold a combined HK$3.6 billion (
 
 ## AI isn’t just a compute race. It’s a data race – and storage will decide the winners, WD shares
 [The content of this article has been produced by our advertising partner.] For years, the industry has framed AI as a compute problem: more GPUs, denser clusters, faster interconnects. That framing is now incomplete. At scale, AI is fundamentally a data system. Every training run, every inference, 
@@ -153,8 +156,8 @@ Home-grown and foreign pet business operators are bullish on China’s booming p
 ## Why China’s tighter grip on outbound capital may test Hong Kong’s housing rebound
 Beijing’s latest efforts to tighten oversight of cross-border capital flows have sparked concerns that a reduction in mainland demand for Hong Kong homes could impact the city’s recovering property market. The debate follows a series of measures unveiled in recent weeks, including tighter scrutiny o
 
-## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
-A favourite topic which often comes up in conversations with advertising friends concerns the history, emergence and creative heyday of the industry in Hong Kong. A story I usually speak about with some authority, seeing as I have been privileged enough to play a part in it over the years, as well a
+## Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania
+Thousands call for Tirana to block the investment projects, citing environmental and corruption concerns.
 
 ## Meanwhile, in the Western Hemisphere…
 The U.S. military remains extremely active in and around Latin America.
@@ -176,9 +179,6 @@ What history can and cannot explain about today’s unraveling order.
 
 ## Estonia Has Lessons for Us All
 The small Baltic country has refashioned the relationship between citizens and the state for the current moment.
-
-## Vladimir Putin’s Second-Biggest Headache
-With his war in Ukraine going badly, he may soon face another quagmire in Chechnya.
 
 ## What India’s Latest Press Freedom Ranking Reveals About Its Democratic Trajectory
 The RSF’s score for India is significant not for the number itself, but for what that ranking reflects about deeper structural trends affecting journalism, media ownership, and democratic accountability.
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Ivory Coast beats France in World Cup warning to one of the favourites
+Ivory Coast defeats France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.
+
+## Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’
+Republicans seek to pass $70bn immigration-enforcement funding, but must endure series of votes on controversial issues.
+
+## Kenyan president defends US Ebola facility amid deadly protests
+Kenyan President William Ruto said allowing the US to build an Ebola quarantine facility in Kenya was the “right thing”.
+
+## Why is the US so invested in Colombia’s election?
+Al Jazeera’s Hala Al Shami explains why US officials are invested in Colombia's presidential elections.
+
 ## Lebanon latest: Hezbollah rejects US plan as Israel continues attacks
 Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.
 
@@ -263,18 +275,6 @@ The Trump administration has supported Bolivian President Rodrigo Paz after his 
 
 ## What is the UK’s ‘two-tier policing’ debate?
 The murder of Henry Nowak has sparked a political storm in the UK, with renewed claims of ‘two-tier policing’.
-
-## Lufthansa employees injured after Boeing 787 collapses in Frankfurt
-Several Lufthansa staff members were injured when the nose gear of a Boeing 787 jetliner collapsed at Frankfurt airport.
-
-## Block the bombs: Support grows for US bill to restrict arms for Israel
-'Long road' remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.
-
-## History-making qualifier Chwalinska sets up Andreeva French Open final
-Poland's Maja Chwalinska beats Diana Shnaider to reach French Open final and makes history after qualifying run.
-
-## Liverpool appoint Spaniard Iraola as new manager in place of Slot
-Andoni Iraola left his role at Bournemouth at the end of the season and takes over at Liverpool in place of Arne Slot.
 
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
