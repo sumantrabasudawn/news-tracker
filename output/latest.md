@@ -1,61 +1,67 @@
 # AION Intelligence
 
-## SpaceX pitches investors $1.8tn valuation in historic IPO
-Rocket and AI group is seeking to raise up to $86bn in biggest Wall Street debut of all time
+## FirstFT: Trump’s US manufacturing push falters
+Also in today’s newsletter: Russian drone warfare and SpaceX IPO
 
-## Trump’s pick of Pulte as spy chief threatens foreign surveillance bill
-Republican and Democratic lawmakers say choice imperils extension of expiring Foreign Intelligence Surveillance Act
+## Trump to nominate his former lawyer as US attorney-general
+Blanche has been justice department’s acting leader since Pam Bondi was ousted in early April
 
-## Elon Musk shifts social media focus from SpaceX to UK far-right politics
-Tech billionaire has made 110 posts, retweets and replies about British affairs in the space of a week
+## Europe’s Best Employers
+In the report, we look at defence groups rise up in the FT’s employer ranking; Amsterdam as an attractive employment hub; engineering’s gender gap; debate over work-life balance in start-ups; Americans look abroad for the longer term
 
-## Japanese hardware stocks are having a moment — again
-The current surge plays to the country’s industrial strengths
+## Kirkland & Ellis and Palantir to build AI tool to assist private equity firms
+Technology to be used to advise buyout groups on bringing in money from investors such as public pension funds
 
-## FirstFT: India’s ‘cockroach’ movement founder plans protests over exam crisis
-Also in today’s newsletter: SpaceX targets $1.8tn valuation in historic IPO, and Trump’s Iran war drains US oil stocks
+## Russia prunes Armenian rose trade ahead of election
+Moscow’s trade restrictions put pressure on western-friendly government in Yerevan
 
-## SpaceX wins tax exemption for $55bn AI chip plant despite local backlash
-Elon Musk’s Terafab plant sparks fierce opposition and threat of legal action from residents of Texas county
+## America’s ‘other’ economy tells a different growth story
+Investors should pay attention to the struggles of the consumer packaged goods industry
 
-## Senior official from Germany’s AfD meets top Kremlin associates
-Executives hold talks with far-right party, which leads German polls and supports restarting gas flows through Nord Stream
+## AI cyber security risk ‘top of list’ for banking threats, says UK regulator
+Sam Woods, the outgoing chief of the PRA, says he is ‘very concerned’ about vulnerabilities in lenders’ IT systems
 
-## Saudi wealth fund replaces foreign CEOs with locals
-Public Investment Fund focuses on domestic investments ahead of country hosting 2034 World Cup
+## Indian stocks lose out to Asian rivals in global hunt for AI winners
+Exchanges in Taiwan and South Korea have overtaken India’s in the past week as the two countries’ chipmakers surge
 
-## Broadcom loses more than $250bn in market value as revenue forecast disappoints
-Shares in chip company fall as much as 15% in after-hours trading
+## Accelerating Business
+A monthly series that examines how the legal ecosystem uses new technologies to serve fast-changing business needs. This time: how legal tech stalwarts plan to maintain their service to clients as challengers mount incursions
 
-## UK Treasury set to take control of fighter jet spending after defence ministry mishaps
-Move comes as Keir Starmer prepares to announce £15bn increase in military expenditure
+## The Knicks’ Wall Street odyssey
+How NBA owner James Dolan righted the ship at his sports teams and business empire
 
-## Meta bets on AI agents to unlock WhatsApp revenues
-Mark Zuckerberg expands group’s push into the technology as it seeks to turn messaging app into a bigger business
+## Rajesh Exports stock hits lower circuit after SEBI action against promoter
+Slide follows SEBI’s interim findings that Rajesh Exports had prima facie misrepresented nearly ₹15.15 lakh crore in revenues linked to its subsidiaries between FY21 and FY25
 
-## US to invest $1.5 bn in energy security, LNG infrastructure in India & SE Asia to catalyse exports
-This deal represents the largest single project investment in the US DFC’s history
+## Sensex today | Stock Market Live: Indian equities trade flat amid global, West Asia tensions
+Sensex, Nifty, Stock Price Live Updates: Indian equities traded flat in volatile Thursday trade as global cues remained subdued and West Asia tensions persisted. Investors stayed cautious ahead of the RBI policy decision, while FII outflows and rising volatility kept sentiment fragile with limited u
 
-## Led by Poland & China, central banks turned net buyers of gold in April
-The development comes after they were net sellers of the precious metal in March; Russia continues to offload the yellow metal
+## Audio book platform Kuku files confidential papers for up to ₹3,500-cr IPO
+The IPO, expected in the later part of this financial year, will comprise a mix of fresh issue of shares and an offer-for-sale (OFS) by existing investors.
 
-## Letters to the Editor dated June 3, 2026
+## Nifty Prediction Today – June 4, 2026: Nifty futures: Intraday rally on the cards, go long
+Nifty futures (Jun) can see an uptick to 23,640 today
+
+## IEX shares rise 2% after May electricity trade volumes jump
+The exchange reported total electricity traded volume of 12,983 million units (MU) in May 2026 compared with 10,946 MU in the corresponding month last year
+
+## India EV bus registrations fall 7% in May; JBM Auto captures nearly half the market
+Depot infrastructure shortages, charging delays and financing bottlenecks slow down deployment
+
+## BHEL shares dip; announces Nigeria contract win worth up to ₹2,500 crore
+The stock opened at ₹410.40 on the NSE, touching an intraday high of ₹411, before slipping to ₹405.65 as of 10.01 AM — down 0.16% from its previous close of ₹406.30
+
+## Stocks to Watch, June 4: Rajesh Exports, HFCL, Hero MotoCorp, BHEL, Aurobindo Pharma, GMR Airports
+Indian corporates saw a flurry of activity with regulatory action, expansion plans, large contract wins and stake transactions dominating headlines. Key developments included SEBI’s restrictions on Rajesh Exports, HFCL’s defence push, BHEL’s Nigeria order, and SoftBank’s Lenskart stake sale
+
+## Stock Market Live Updates Today: BSE Sensex opens over 450 points down, Nifty50 below 23,350; crude oil prices drop
 
 
-## Editorial. Prepare the ground
-IMD forecast points to a deficient agri season this year
+## US-Iran war: India looks to attract foreign investment; capital gains tax on government securities may be scrapped
+Reports suggest that PM Narendra Modi-led Union Cabinet on Wednesday cleared an ordinance that will amend the Income Tax Act and enable the proposed tax exemption.
 
-## Sensex, Nifty trim losses as banking stocks offset IT rout, focus shifts to RBI MPC meeting
-BSE Sensex ends 303.67 points lower at 73,492.60; NSE Nifty 50 settles 78 points lower at 23,405.60
-
-## IT sector headwinds leave a mixed mark on CEO remuneration in FY26
-Variable payouts and stock-linked rewards shape executive remuneration trends
-
-## Brands toggle smartphone features to adjust memory costs
-To off-set costs, brands have settled on the quality of camera resolution, display technology and weight for newer models while improving the quality of older models and increasing their price
-
-## Health insurance coverage crosses 60% of households, NFHS
-The pace of expansion accelerated after 2015-16, when coverage stood at 28.7 per cent, rising to 41 per cent in 2019-21
+## Top stocks to buy today: Stock recommendations for June 4, 2026 - check list
+Top stock market recommendations: Cyient, Timken India, and Bosch have been shortlisted as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for June 4, 2026. The expert has also shared his outlook for Nifty, and Bank Ni
 
 ## Sebi bans Rajesh Exports' CMD for fin irregularities
 Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an "egregious" 97%-99%. The company also failed 
@@ -72,62 +78,56 @@ The Indian government has allocated Rs 10,000 crore to stabilize jet fuel prices
 ## Exporters keep tabs on USTR probe, trade talks
 Indian exporters are closely monitoring US trade investigations and bilateral deal talks, expecting an advantage over rivals. While not overly concerned about a proposed 12.5% tariff on 54 countries, they are apprehensive about the same levy on China. Exporters are confident that ongoing negotiation
 
-## Tech stocks slide on AI fears, oil gives Dalal Street a headache
-Persian Gulf tensions pushed crude prices near $100, weakening the rupee and causing the Sensex to plunge over 1,100 points mid-session. Despite initial losses, banking stocks rallied, aiding a partial recovery, while IT stocks crashed due to AI disruption fears. Foreign funds saw significant outflo
+## Tabling of White Paper in Assembly on Kerala financial health leads to war of words
+Tabling of White Paper in Assembly on Kerala financial health leads to war of words
 
-## BHEL secures order worth over Rs 2,000 crore from Nigerian firm
+## CCTV captures Panchkula club firing that left two injured, suspected Godara gang shooters arrested | Watch
+According to police sources, the incident took place around 1 am when Ratan Lubana, a relative of a local BJP leader, was coming out of a club in Sector 5.
 
+## 8 of family visiting Gurugram man in hospital die in Delhi's Hauz Rani fire
+They had all come to meet Vivek’s 77-year-old father, Radhe Shyam Aggarwal, who was critically ill and, doctors at Max Hospital had told them, may not survive.
 
-## District economy data: Govt issues uniform framework for district GDP estimates with 2022-23 base year
-The statistics ministry has released a uniform framework for district-level economic output estimates with a revised base year of 2022-23. This move aims to enhance consistency and comparability of economic data across all states and Union Territories. The guideline, incorporating stakeholder feedba
+## NEET aspirant dies by suicide in Nagpur before re-exam: 'No guarantee I would do well again'
+The girl from Mauganj district of Madhya Pradesh used to live in Nagpur, where her father works as a cook.
 
-## Amit Shah to visit Northeast for 2-day tour to review border security: Key agenda
-Amit Shah shared details of his itinerary, stating that he would visit the India-Bangladesh border and interact with Border Security Force personnel in Tripura.
+## Room permit, closed exit: How safety gaps sparked another Delhi tragedy in BnB blaze, killing 21
+Most of the victims of the fire, one of Delhi's worst in years, were either people visiting India for their medical treatment or caregivers of patients.
 
-## Delhi orders month-long fire safety crackdown after Hauz Rani tragedy
-Joint teams of district officials, police, civic authorities and fire personnel will begin inspections from June 4.
+## Abhijeet Dipke’s family relocates as his political steps spark worries
+The Dipkes have temporarily shifted from their home in the MIDC Waluj area of Chhatrapati Sambhaji Nagar, formerly Aurangabad, to an undisclosed location.
 
-## Ravneet Singh Bittu says he wants to return to Punjab politics after 17 years in Parliament
-Punjab Chief Minister Bhagwant Mann claimed that Ravneet Singh Bittu would soon lose both his ministerial berth and Rajya Sabha seat.
+## Cabinet clears ₹10,000-cr fund to shield airlines, offset jet fuel price swings
+The one-time budgetary support of ₹10,000 crore will allow Oil Marketing Companies (OMCs) to provide Aviation Turbine Fuel (ATF) at stable prices to airlines.
 
-## Fatal fires haunt Capital in absence of accountability
-Delhi faces recurring deadly fires with promises of accountability but little change. Recent tragedies highlight safety violations and weak enforcement.
+## Modi won't be PM after a year: Rahul Gandhi's prediction amid CBSE, paper leak row
+Rahul Gandhi said the system that had previously functioned under Prime Minister Narendra Modi's control was now "shaking and collapsing".
 
-## 200 electric buses to begin operations in Bihar in June across six cities
-The state government is also operating 100 'Pink buses' for women passengers in six major cities. These are equipped with CCTV cameras, GPS and panic buttons.
-
-## Three arrested in ₹43 lakh digital arrest cyber fraud case in Gurugram
-A person filed a complaint saying an individual posing as a CBI officer digitally arrested him and fraudulently induced him to transfer ₹42.92 lakh.
-
-## Delhi seeks its own disaster task force
-Delhi plans to establish State Disaster Response Force with help from NIDM and NDRF, considering retired NDRF personnel for expertise in disaster response.
-
-## After Hauz Rani fire, survivors battle injuries as families search hospitals
-Relatives moved between hospitals seeking missing people, while police personnel injured during rescue operations were discharged.
-
-## B K Hariprasad is new Karnataka Congress chief
+## Punjab Board Supplementary Exams 2026: PSEB class 10th &12th registration process starts
 
 
-## UP Cabinet gives go-ahead to compensation for next of kin of inmates dying of unnatural causes in prisons
+## ‘We will get it, and destroy it’, Trump says US will retrieve Iran’s enriched uranium after conflict ends
 
 
-## Power distribution in Gujarat cities to go underground by 2030; Cabinet gives nod
+## Child not ‘pawn’: Court orders father to return son taken from school against custody decree
 
 
-## Prayagraj family murders: A day after, police ‘solve’ case, say man killed parents, sister; hacked to death by aide over share
+## TS LAWCET, PGLCET Results 2026: Scorecards releasing today at 4 pm at lawcet.tgche.ac.in
 
 
-## South Delhi hotel fire | Bangladesh to Nigeria: Far from home, agonising wait and search
+## South Delhi hotel owner saw property up in flames, fled: Police
 
 
-## Tackling air pollution in focus: Cabinet nod for Rs 9,585 crore scheme to replace old trucks, buses in Delhi-NCR
+## Exclusive | Licence in accountant’s name: How South Delhi hotel owner bypassed rules
 
 
-## Delhi Confidential: Finding Founder
+## ‘Ranveer Singh’s team misguided him by sending us a legal notice’: Cine body’s president
 
 
-## ‘Didn’t wait for protective gear’: 10 policemen injured during rescue operation during Malviya Nagar fire
+## Failing to get remarried, Pune villager kills father and brother
 
+
+## IPOs, expansion plans give China’s US$16 billion pet food sector paws for thought
+Home-grown and foreign pet business operators are bullish on China’s booming pet market this year, eyeing initial public offerings and localising supply chains, fuelled by young consumers’ growing interest in their animals’ health and wellness. Fubei, a major domestic pet food maker based in Shangha
 
 ## Why China’s tighter grip on outbound capital may test Hong Kong’s housing rebound
 Beijing’s latest efforts to tighten oversight of cross-border capital flows have sparked concerns that a reduction in mainland demand for Hong Kong homes could impact the city’s recovering property market. The debate follows a series of measures unveiled in recent weeks, including tighter scrutiny o
@@ -150,8 +150,8 @@ Global oil inventories risk declining to “critical levels” before the peak s
 ## The price of a long life: Hongkongers may need US$910,000 to retire
 Hong Kong’s exceptional longevity means some individual retirees may need as much as HK$7.1 million (US$910,000) to support themselves after leaving work, exposing a wide gap between retirement needs and actual pension savings, according to a new study. The finding contrasts sharply with the average
 
-## GenScript rally underscores China’s rise in cancer drug innovation
-GenScript Biotech Holdings surged in Hong Kong after its associate company disclosed promising early clinical data on a potential first-in-class cell therapy for treating cancer. Shares rose as much as 29 per cent on Wednesday before trimming gains to trade 10.54 per cent higher at HK$13.42 at the c
+## The Threat of Unrest Is Decarbonizing the Global South
+Oil and gas price spikes are doing what decades of climate diplomacy struggled to achieve.
 
 ## The Afghanistan-Pakistan Border Is Still Unstable
 There is a brief lull in violence, but the root causes of the conflict haven’t been addressed.
@@ -174,8 +174,8 @@ Mid-range drones that can hit targets almost 100 miles behind Russian lines have
 ## Congress Prepares for a Pair of Consequential Iran Votes
 Tehran may feel empowered to wait out U.S. demands for concessions in face of war-weary American public.
 
-## The U.S. and Taiwanese Militaries Can’t Really Fight Together
-A joint campaign to defend the island would struggle to operate effectively.
+## Nature and Concrete: The Eco-Brutalist Resistance in Central Asia
+Eco-brutalism is an aesthetic appeal to a healthier, greener future, and one that can be built atop existing realities.
 
 ## Uzbekistan’s New Migration Destination? America.
 From irregular border crossings to bilateral training agreements, Uzbekistan is working to carve out a formal pathway to U.S. employment.
@@ -197,9 +197,6 @@ While still growing, Kyrgyzstan’s GDP may slow due to increasing weight of san
 
 ## Exit Polls Suggest Ruling Democratic Party’s Victory in Local Elections
 Exit polls suggest the DP will win 11 of 16 regional posts, with Seoul and Busan producing the night’s most closely watched results.
-
-## In Inner Mongolia, China’s Assimilation Campaign Moves Online
-A January 2026 report suggests Beijing is now targeting the digital communities that were Mongolian speakers’ last refuge – in a region that never posed a separatist threat.
 
 ## Will China and the United States Pursue Strategic Stability?
 In 2024, Michael Swaine wrote, “How to Stop the United States and China from Sliding into War,” where he identified areas that could increase the possibility of an armed conflict between the United States and China. Two years later, after recent talks between President Trump and President Xi, we ask
@@ -249,29 +246,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli strikes on residential buildings kill nine in Gaza City
+Israeli strikes on residential buildings have killed nine Palestinians, setting homes ablaze and leaving destruction.
+
+## Indonesia’s rupiah falls to record low against US dollar
+Currency plunge comes as energy shock from the Iran war casts a cloud over Southeast Asian economies.
+
+## UK far-right accused of exploiting killing of Henry Nowak
+UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.
+
+## Elon Musk’s SpaceX eyes $1.77tn valuation ahead of blockbuster IPO
+Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.
+
+## Rubio distances himself from Netanyahu’s Gaza plan
+House Democrats question US Secretary of State Marco Rubio about the lack of progress on Trump’s 20 point Gaza plan.
+
+## Nigeria’s second-chance schools: women balancing study and survival
+Women in northern Nigeria return to school after years out, but must balance childcare, duties and costs.
+
+## Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza
+Lebanon's Health Ministry reports that 3,516 people have now been killed by Israeli attacks on the country since March.
+
 ## London activists try to erect statue of jailed Palestinian leader
 Activists have tried to erect a statue of Marwan Barghouti in London’s Parliament Square, but police intervened.
 
-## Trump seeks to split Lebanon talks from war on Iran negotiations
-Trump says he wants to keep talks on the conflict in Lebanon separate from negotiations over the war with Iran.
-
-## Kuwait releases CCTV footage of deadly Iranian strike on airport
-Kuwait has released surveillance footage of what it says shows an Iranian drone strike on Kuwait International Airport.
-
-## Real Madrid will bring Mourinho back if Perez is re-elected
-Real Madrid president Florentino Perez says he will bring Jose Mourinho back as manager if he wins Sunday's election.
-
-## US House passes Iran war powers resolution in rare pushback against Trump
-Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.
-
-## Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress
-Hamawy's victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.
-
-## Kuwait labels Iran attack ‘heinous aggression’
-Kuwait’s defence ministry has labelled an attack on the country’s international airport as ‘heinous Iranian aggression’.
-
-## Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’
-Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.
+## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
+The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
@@ -294,8 +294,8 @@ Corporate India's March quarter net profit surged 25.3%, driven by non-operating
 ## I-T department to move Supreme Court against HC relief in public trust row
 The rift stems from the Income-tax department's demand that deeds of these religious and charitable trusts must categorically state that the trusts are 'irrevocable'.
 
-## AI bubble debate gets real as chip stocks rally
-Bulls see a boom driven by structural changes that are transforming the notoriously cyclical semiconductor industry. Bears see an overheated market fascinated by the latest shiny object. And investors are caught in the middle, transfixed by the momentum, but wary of what could come next.
+## RBI likely to hold rates as West Asia crisis impact on growth remains unclear: Bank of Baroda Report
+The Reserve Bank of India (RBI) is likely to maintain status quo on interest rates in its monetary policy announcement on Friday as the impact of the ongoing crisis in West Asia on economic growth remains difficult to assess, according to a report by Bank of Baroda.
 
 ## SBI chairman Shetty sees MPC’s repo rate pause ‘appropriate’ at this juncture: Report
 SBI Chairman CS Setty anticipates the Monetary Policy Committee will pause interest rates this week. This aligns with market expectations as economic growth and inflation dynamics support the decision. While a pause is expected now, some economists foresee rate hikes later. Investors await the RBI's
@@ -314,7 +314,4 @@ The six-member Monetary Policy Committee, headed by Governor Sanjay Malhotra, wi
 
 ## Localisation lens on 500 most-imported items: DPIIT analysing data; move aims to reduce country’s import bill
 The Indian government is scrutinizing over 500 imported products, including machinery, fertilizers, and electronics, to identify opportunities for domestic manufacturing and reduce reliance on foreign supply chains. This initiative aims to curb the country's import bill and bolster supply resilience
-
-## PLI 2.0: India bets big on making more of the smartphone at home
-India is updating its mobile phone production incentive scheme. The new plan targets over 55% domestic value addition. It will also link with component manufacturing schemes. This aims to boost local sourcing of crucial parts. The government wants to reduce reliance on imports for high-value compone
 
