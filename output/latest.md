@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## Betfair targeted gambling addict, court hears in landmark case
-Flutter-owned company accused of worsening addiction of Luke Ashton before he took his life
+## Hizbollah rejects US-brokered ceasefire as Israel pursues offensive
+Fresh strikes come after US announced deal to implement truce in Lebanon
 
-## US plans cuts to Nato’s rapid response force
-European allies seek clarity over removal of American naval and air assets that can be dispatched if Russia attacks
+## Private schools in England lose 20,000 pupils in first full year of VAT on fees
+Drop faster than decline in state sector but government figures say numbers within expectations
 
 ## Broadcom suffers $300bn rout as revenue outlook disappoints
-Shares in chip company fall 15% in early trading on Thursday
-
-## Israel and Lebanon agree to implement ceasefire
-Deal announced by US state department calls for Hizbollah to stop all attacks
-
-## Russia prunes Armenian rose trade ahead of election
-Moscow’s trade restrictions put pressure on western-friendly government in Yerevan
-
-## The Gulf states and Ukraine need each other
-Countries in Iran’s line of fire need to shore up their drone defences, and Kyiv is in desperate need of funding
-
-## Israel and Lebanon agree to implement a US-brokered ceasefire
-Also in today’s newsletter, a one-time adviser to the UK’s former PM David Cameron leads California’s race for a new governor
+Shares in chip company down about 15% in afternoon trading on Thursday
 
 ## Blackstone caps withdrawals from flagship private credit fund
-Redemption requests surged to $4.5bn in second quarter amid mounting fears in sector
+Redemption requests surged to $4.5bn in second quarter
+
+## Taxpayers suffer from ‘permafrost’ of allowances frozen for decades
+Study calls for comprehensive review of tax system in which thresholds have ceased to be uprated for inflation over many years
+
+## SpaceX IPO shows Musk’s genius is in mythmaking
+How exactly the company plans to support its gargantuan valuation is not obvious
+
+## The coming equity surge will test the US bull run
+Mega IPOs and share offerings challenge the appetite for AI stocks
+
+## The case for raising UK interest rates is growing
+The Bank of England should proactively lean against second-round effects from the energy shock
+
+## KPMG’s global bosses refused to probe Australia whistleblower claims
+Revelation draws international chief into scandal that has prompted resignation of top executives in the country
+
+## Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030
+Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO
+
+## Betfair targeted gambling addict, court hears in landmark case
+Flutter-owned company accused of worsening addiction of Luke Ashton before he took his life
 
 ## Europe is finally flexing its innovation muscles
 The new EU tech sovereignty package shows a welcome shift from defensive regulation
 
-## Lex Greensill banned from UK directorships for 9 years
-Financier’s disqualification from Insolvency Service comes 5 years after Greensill Capital collapse
+## Tajpur deep sea port declared unviable, Bengal proposes new site at Dadanpatrabar
+Bengal is also advancing plans to connect Kolkata with the Water Metro network and has reviewed a ₹19,209 crore maritime investment roadmap aimed at boosting ports, logistics, and employment
 
-## Lithium start-up EnergyX plans ‘Battery Mecca’ in Texas
-Project aims to disrupt China’s dominance of the supply chain
-
-## FirstFT: Trump’s push for a US manufacturing ‘golden age’ sputters
-Also in today’s newsletter: the world’s biggest IPO and the best US city for foreign multinationals to do business
-
-## Trafigura warns oil at ‘inflection point’ as Iran war stokes bumper half-year profits
-Commodity trader’s net profit more than doubles to $4.1bn for October to March period
-
-## ‘Not a single rupee has been diverted’: Rajesh Exports Chairman on SEBI charges
-Rajesh Exports Chairman denies SEBI’s fund diversion allegations, asserting all company transactions are legitimate and documented.
-
-## India’s domestic LPG under-recovery rises to around ₹700/cylinder
-Sujata Sharma, Joint Secretary in MoPNG, stated that the under recovery on LPG domestic cooking cylinders is nearly ₹700
-
-## Letters to Editor
-
-
-## Editorial. Regulatory overreach
-Micromanaging firms, no solution to customer grievances
-
-## Fire breaks out at Tata Steel UK’s Port Talbot plant, no casualties reported
-The Mid and West Wales Fire Service responded to a fire at a processing line in Port Talbot last night around 8 pm; All personnel were safely evacuated, according to the company
-
-## Larsen & Toubro inks investment MoU worth ₹18,600 cr with TN government
-The three projects will generate employment for around 8,200 people
-
-## ChatGPT app crosses 1 billion active users in 3 years of launch; India 20% of this user base
-ChatGPT has in many ways become synonymous to Generative AI being the first such tool experienced by customers
+## Neelkanth Mishra appointed Executive Director at the World Bank
+Mishra is at present working as Chief Economist with Axis Bank
 
 ## India’s LPG Imports in March-May 2026: West Asia’s loss is Washington’s gain
 Closure of the Strait of Hormuz forced New Delhi to turn to the US to fill the gap in imports left by its four top supplies in West Asia
+
+## India, US had positive discussions on trade deal: Commerce Department
+No clarity has been provided on when the India-US BTA is likely to be concluded
+
+## Assam gets high-quality second flush tea this year on favourable weather
+The second flush crop accounts for around 15% of Assam’s annual tea production
+
+## Japanese robotics start-up seeks Indian partners to manufacture humanoid robots
+Automation, electronics and smart manufacturing emerge key themes at INTEC 2026
+
+## “This is a misunderstanding” says Rajesh Mehta in response to SEBI’s interim order
+We have not received any communication from SEBI in the last three months
+
+## Zepto likely to cross $ 1 billion-mark in net order value in June quarter
+Sources said that the quick commerce platform’s net order value is expected to grow to over $1 billion in June quarter from about $500 million in late 2025 and has been scaling up despite growing competitive intensity in the sector.
+
+## Gulf crisis: IndiGo grounds flights to six overseas destinations amid cost pressures
+IndiGo is temporarily halting flights to six international destinations, including Hong Kong and Shanghai, until September 30. This strategic move aims to optimize its network amidst softer travel demand and escalating operating costs. The airline plans to resume services on October 1, contingent on
 
 ## India IPO gold rush becomes foreign firms’ cash-out machine
 Foreign firms are increasingly cashing out of India's booming IPO market, pocketing billions instead of raising capital for expansion. Recent listings, including major players like Hyundai and LG, saw over $5 billion flow overseas. This trend, driven by high valuations, raises concerns about capital
@@ -84,56 +84,56 @@ India is accelerating its ethanol drive, planning to establish 5,000 ethanol fue
 ## For first time, Russia admits oil production has declined amid Ukraine's attacks on refineries
 Russia has publicly acknowledged a dip in oil production due to unscheduled refinery repairs, marking the first such admission. This comes amid intensified Ukrainian drone attacks targeting Russian energy infrastructure, which have disrupted operations and pushed Moscow to increase crude exports. De
 
-## ‘World's long-term capital is looking at India’: Global investors betting big, says Piyush Goyal
-Global investors are showing strong confidence in India's future. Union Minister Piyush Goyal stated that India is set to be the world's fastest-growing economy for more than twenty years. Companies like Hyundai and JCB have seen significant returns by investing in India. The nation is becoming a ma
+## Man flees after allegedly strangling wife to death in Gurugram; manhunt underway
+The altercation ensued after the husband demanded to know who his wife was speaking to over the phone, information that she refused to reveal
 
-## ‘Forward-looking highway’: India, UK seal maritime, crucial mineral pacts
-External affairs minister S Jaishankar and his British counterpart Yvette Cooper reviewed security and economic cooperation and discussed the fallout of the West Asia conflict
+## Man accused of religious conversions in Rajasthan, assaulted by right-wing group
+The accused was taken into custody following alleged conversion activities in Alwar's Tanwar Colony
 
-## Crane collapses at Jewar Expressway construction site, at least 5 workers trapped
-One worker was rescued with serious injuries, while rescue teams continued efforts to reach others believed to be trapped under the heavy equipment.
+## 'Don't come to Delhi airport': CJP founder's fresh appeal ahead of June 6 protest
+CJP said a large gathering at the airport could disrupt normal operations and create difficulties for both travellers and security personnel.
 
-## Lalit Modi's big claim, says Dawood Ibrahim's control on IPL forced him to quit cricket management
-Lalit Modi said he became a primary target for the mafia as he refused to allow match-fixing in the initial years of the IPL when he was in-charge.
+## Parliamentary debut for Pawan Khera: Congress releases list of candidates of Rajya Sabha polls
+Congress leader Pawan Khera is set to make his Rajya Sabha debut as the party has nominated him along with Mansoor Ali Khan from Karnataka.
 
-## UPSC implements real-time face authentication for civil services exams
-The UPSC used real-time face authentication at all civil services prelims centres to verify candidates and prevent impersonation.
+## Nepal FM Shisir Khanal to arrive in Delhi on friday, hold key talks with Jaishankar
+Nepal Foreign Minister Shisir Khanal will meet S Jaishankar to discuss trade, connectivity, energy and bilateral cooperation.
 
-## ‘Challenging cost environment’: IndiGo pauses services to Hong Kong, Shanghai and 4 others
-IndiGo on Tuesday had announced the indefinite suspension of its Mumbai-Manchester non-stop flights from August 31 this year.
+## 7-year-old girl abducted at night, raped in UP's Mathura; accused arrested
+The girl was allegedly abducted at night as she slept next to her mother and was raped at a nearby crematorium
 
-## BJP announces candidates for RS polls in five states, fields Tarun Chugh from MP
-The names of Union ministers Ravneet Singh Bittu and George Kurian did not figure in the list of BJP candidates.
+## Malviya Nagar hotel owner showed ‘Delhi mai sab chalta hai’ attitude, ‘uncooperative’ during investigation, claim cops
+Investigators said their questioning revealed a pattern of greed, regulatory violations, and disregard for safety norms on Bajaj's part, according to PTI.
 
-## ‘Fake’: PIB Fact Check debunks claims of ‘National Student Laptop Scheme’
-It clarified that the claim is fake and said the Government of India has not announced any such scheme.
+## PM Modi to visit Gujarat, Daman to inaugurate development projects worth ₹22,000 crore
+The projects scheduled to receive their foundation stones include a 200-bed ESIC Hospital in Surat and a new terminal building of NAMO Airport in Daman
 
-## Four new faces among 12 Assam ministers to take oath tomorrow: CM Himanta Sarma
-The induction will take the strength of the council of ministers to 17, with two spots still remaining vacant in the 19-member cabinet.
-
-## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on Millets, Flex-fuel vehicles and more (Week 165)
+## WFI acknowledges receiving Vinesh Phogat’s reply to show cause notice
 
 
-## Marjane Satrapi refused to be drawn in black and white
+## Why is Trump’s son-in-law Jared Kushner’s resort plan triggering political storm in Albania
 
 
-## Govinda says Pahlaj Nihalani helped him rise above poverty: ‘He was our foundation stone’
+## Expert reflects on Pooja Bhatt’s reasons for ending marriage after 11 years: ‘Felt lonely’
 
 
-## India’s growth story remains strong, long-term outlook intact: Citigroup CEO Jane Fraser
+## 2 workers killed as crane collapses at Jewar airport flyover construction site
 
 
-## ‘Explosive, fearless, world-class’: Gopichand on doubles talent Hariharan
+## India not Vishwaguru yet, still inadequately prepared: RSS chief Mohan Bhagwat
 
 
-## Video: Lufthansa Boeing 787’s dramatic nose gear collapse before takeoff, several injured
+## Seeking Centre’s intervention, Aaditya alleges state diluted tiger corridor for mining project
 
 
-## Assam Cabinet expansion: Several new faces, no room for high-profile Congress defectors
+## BJP sends Tarun Chugh to Rajya Sabha, fuels speculation over Bittu’s Punjab role
 
 
-## Explained: Gujarat’s new police range for Pakistan border, with implications for national security
+## Malviya Nagar fire: CM Rekha Gupta meet victims, announces compensation; LG hold high-level meet
 
+
+## AI isn’t just a compute race. It’s a data race – and storage will decide the winners, WD shares
+[The content of this article has been produced by our advertising partner.] For years, the industry has framed AI as a compute problem: more GPUs, denser clusters, faster interconnects. That framing is now incomplete. At scale, AI is fundamentally a data system. Every training run, every inference, 
 
 ## Chinese carmakers BYD, Chery chart 80% growth overseas as EV demand spikes
 Leading Chinese carmakers like BYD and Chery Automobile are reaping rewards from their efforts to boost sales abroad, as they chase higher profitability amid rising demand for electric vehicles (EVs). Chery, which spearheaded the go-global drive among mainland China’s automotive groups and is the co
@@ -156,8 +156,11 @@ Beijing’s latest efforts to tighten oversight of cross-border capital flows ha
 ## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
 A favourite topic which often comes up in conversations with advertising friends concerns the history, emergence and creative heyday of the industry in Hong Kong. A story I usually speak about with some authority, seeing as I have been privileged enough to play a part in it over the years, as well a
 
-## China’s fund managers face new rules to curb risky investment strategies
-With mutual fund companies having to adhere to investment mandates as part of the regulatory revamp of the 40 trillion yuan (US$5.9 trillion) industry, Chinese money managers may find it difficult to improve fund performance. China Asset Management and E Fund Management, the industry’s biggest playe
+## China Is Too Big for Shangri-La
+Snubbing a key security forum shows Beijing’s new confidence.
+
+## Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
+The new import duties are “a solution in search of a problem.”
 
 ## Are We Reliving the 1890s, 1930s, or 1950s?
 What history can and cannot explain about today’s unraveling order.
@@ -176,12 +179,6 @@ There is a brief lull in violence, but the root causes of the conflict haven’t
 
 ## India’s Cockroach Movement Gains Momentum
 A satirical political party has tapped into the discontent among unemployed youth.
-
-## Iran Launches Deadly Attack on Kuwait’s Main Airport
-Experts warn that continued strikes could jeopardize peace talks.
-
-## What to Know About Ethiopia’s Election
-Abiy’s all-but-certain victory threatens to destabilize the African nation.
 
 ## Major ASEAN Economies In Line For New US Tariffs Over Forced Labor
 U.S. Trade Representative Jamieson Greer has recommended the imposition 10-12.5 percent levies on 60 major trading partners.
@@ -207,6 +204,9 @@ Thirty-seven years later, the regime’s legitimacy still rests on suppressing t
 ## Nature and Concrete: The Eco-Brutalist Resistance in Central Asia
 Eco-brutalism is an aesthetic appeal to a healthier, greener future, and one that can be built atop existing realities.
 
+## Is Time on China’s Side? Beijing’s Taiwan Calculus and the Balance of Power
+When is the risk of war the highest? And what should the United States be doing about it? One of the most important but underappreciated questions in international politics is how states think about the future balance of power. Countries that believe their position is improving often choose patience
+
 ## Forged in a Knife Fight: China’s Brutal Domestic AI Competition
 China’s plan to become a world leader in AI by 2030 is a fixture of practically every Congressional briefing and expert commentary on Beijing’s AI ambitions. The plan’s logic — introduced in 2017 — was simple and alarming: Beijing would direct capital, mobilize its firms, recruit talent, and execute
 
@@ -227,9 +227,6 @@ On May 26, India hosted a formal meeting of the foreign ministers of the Quad �
 
 ## Between Beijing and the Budget: The Domestic Realities of Taiwan’s Defense Spending Drama
 On May 8, Taiwan’s Legislative Yuan broke a grueling six-month stalemate by passing a landmark $25 billion defense budget, catching many observers off guard. The vote brought sudden end to an agonizing legislative deadlock that had pushed U.S.-Taiwanese relations to the edge. For months, long-simmer
-
-## The Toll Booth at the Throat of World Trade
-In late February 2026, Iran closed the Strait of Hormuz to foreign shipping. What began as a chaotic wartime closure has, in the past few days, hardened into something more consequential: an official sovereign toll regime, codified in Iranian law, and priced in cryptocurrency.On May 18, Iran operati
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,8 +252,23 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Rise of the ‘devils of horseback’: The making of Sudan’s RSF
-Previously called the ‘Janjaweed’, Sudan’s Rapid Support Forces have tried to become involved in the political field.
+## Ecuador’s disappeared: Inside one family’s search for answers
+Advocates warn that 51 people have disappeared during Ecuador's military operations, leaving loved ones without answers.
+
+## Trump official-turned-foe John Bolton accepts plea deal in documents case
+Despite serving as Trump's national security adviser, Bolton has emerged as a top critic of the president.
+
+## Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
+Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.
+
+## Ronaldo, Messi at World Cup: Who else is playing their final tournament?
+The World Cup is set to be the swansong for some big names, including Cristiano Ronaldo and Lionel Messi, but who else?
+
+## Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi
+No handshake and no photo as Mirra Andreeva of Russia beats Marta Kostyuk of Ukraine to reach French Open final.
+
+## The making of Sudan’s RSF
+Sudan’s Rapid Support Forces have a long history of violations, going back to when they were known as the ‘Janjaweed'.
 
 ## Pro-Palestinian badges should not be worn by NHS staff, UK review suggests
 Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers
@@ -264,20 +276,8 @@ Anti-Semitism review recommends that badges proclaiming political support should
 ## ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
 Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.
 
-## MAHA moms test their influence in US glyphosate fight
-'Make America Healthy Again' activists see legislative wins, White House disappointments and questions for the midterms.
-
-## Black Lung Rising
-Fault Lines investigates a surge in black lung among younger coal miners in Appalachia, and gaps in dust protections.
-
-## Lebanon’s latest truce: What is different from the April agreement?
-The ceasefire's prospects appear uncertain before its implementation has even started.
-
-## Thousands protest in Albania against coastal resort linked to Jared Kushner
-Environmental organisations have called for the project's suspension, citing threats to biodiversity.
-
-## Iran footballers describe how war with US-Israel affects their World Cup
-Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.
+## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
+Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
 
 ## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
 The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
@@ -299,9 +299,6 @@ Subscription to zero coupon zero principal instruments recognised as an eligible
 
 ## At Big 4 firms, AI is starting to reshape the tax profession
 Major accounting firms in India are embracing artificial intelligence for tax services. AI is automating routine tasks, research, and drafting, allowing consultants to focus on complex interpretations and client strategy. This shift is significantly increasing efficiency and changing traditional con
-
-## Corporate India posts 25% profit surge in Q4 FY26, but rising costs squeeze margins
-Corporate India's March quarter net profit surged 25.3%, driven by non-operating factors, masking operating challenges like rising input costs that squeezed margins. While FY27 outlook is positive with infrastructure focus, risks include commodity inflation and geopolitical issues. Sector-specific p
 
 ## Parliamentary Finance panel concerned over slow private investment despite substantial surge in public capex
 Parliamentary panel on finance raises concern over private investment not keeping pace with government capex, with Standing Committee on Finance Chairman Bhartruhari Mahtab on Thursday saying the issue remains a key challenge for the Indian economy even as public capital expenditure continues to ris
