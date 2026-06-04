@@ -1,12 +1,18 @@
 # AION Intelligence
 
+## FirstFT: China’s falling oil imports ‘shield’ global market from higher prices
+Also in today’s newsletter: global flight of the wealthy slows and a Japanese corporate scandal
+
+## Burnham confirms he will seek to replace Starmer as prime minister
+Greater Manchester mayor says he will aim to join a Labour leadership race if he wins upcoming by-election
+
 ## Broadcom suffers $285bn rout as revenue outlook disappoints
 Chip company notches one of the biggest valuation wipeouts on record as shares drop 12% on Thursday
 
 ## Trump family’s planned luxury resort sparks protests in Albania
 Demonstrators oppose $4bn resort backed by investment firm founded by US president’s son-in-law Jared Kushner
 
-## NSA using Anthropic’s Mythos for cyber attacks
+## US National Security Agency using Anthropic’s Mythos for cyber attacks
 Arrangement comes as AI lab is locked in legal battle with Pentagon over Claude model
 
 ## Bitcoin tumbles after Strategy sale unnerves crypto traders
@@ -18,14 +24,11 @@ Director of Public Prosecutions says same dynamic applied to the investigation i
 ## HSBC placed under formal investigation over Lebanese central bank scandal
 French prosecutors bring preliminary charges against bank’s Swiss unit over allegations linked to former governor Riad Salameh
 
-## Tech groups find a new way to monetise AI hype: selling volatility
-Elevated convertible bond issuance is, at heart, a response to the market being twitchier than usual
-
-## Hizbollah rejects US-brokered ceasefire as Israel pursues offensive
-Fresh strikes come after US announced deal to implement truce in Lebanon
-
 ## Ultra-processed food harms tied to content not manufacture, review says
 Some UPFs are benign, while others are unhealthy because of their contents, according to a study published in Science
+
+## Tech groups find a new way to monetise AI hype: selling volatility
+Elevated convertible bond issuance is, at heart, a response to the market being twitchier than usual
 
 ## Blackstone caps withdrawals from flagship private credit fund
 Redemption requests surged to $4.5bn in second quarter
@@ -57,29 +60,35 @@ Closure of the Strait of Hormuz forced New Delhi to turn to the US to fill the g
 ## India, US had positive discussions on trade deal: Commerce Department
 No clarity has been provided on when the India-US BTA is likely to be concluded
 
+## India, US look at non-tariff measures
+India and the US are nearing a trade agreement, with discussions extending beyond goods to encompass non-tariff measures, customs, and economic security. This comes as the US proposed additional tariffs on several countries, including India, over forced labor concerns. Both nations express optimism 
+
+## Gleaming rise and sudden retreat: How Rajesh Mehta landed in Sebi crosshairs
+Rajesh Mehta, once a prominent figure in Karnataka's jewellery scene with brands like Shubh and Laabh, has seen his retail ventures wind down amidst Sebi investigations. His journey began with gold refining and manufacturing, evolving into a global player after acquiring Swiss refinery Valcambi. A p
+
+## 'Look at India as a base and not just a market': Piyush Goyal
+Union Minister Piyush Goyal urged Indian industry and MNCs to establish manufacturing, design, and innovation hubs in India, leveraging the country for global supply chains and exports. He highlighted India's position as a credible alternative manufacturing hub and a safe investment destination, pro
+
+## Don't sell yourself short: Citi CEO Fraser to India
+Citi CEO Jane Fraser urged India to focus on execution and long-term strengths, rather than short-term challenges. She highlighted India's compelling structural drivers like demographics and digital infrastructure, which global investors recognize. Fraser noted that while global factors cause volati
+
+## Mehta contests Sebi order on Rs 15L cr inflated revenue
+Sebi has banned Rajesh Exports chief Rajesh Mehta for allegedly inflating company revenues over several years. The regulator's investigation found significant discrepancies, particularly with its Swiss subsidiary Valcambi SA. Mehta claims a communication gap with Sebi, stating revenues are correct a
+
+## HDFC agents to stop mobilising government funds
+HDFC Bank is halting its agents from collecting fixed deposits and CASA funds from government entities starting July 1. This move, which the bank attributes to its expanding branch network, comes amid scrutiny over incentives paid for government fund mobilization. The bank aims to streamline its ope
+
+## Kuku files for Rs 3.5k cr IPO confidentially
+Digital entertainment startup Kuku Technologies has confidentially filed for an IPO, aiming to raise up to Rs 3,500 crore. The company is targeting a valuation of up to Rs 15,000 crore and plans to list later this fiscal year. This move signals significant growth aspirations for the digital entertai
+
 ## Gulf crisis: IndiGo grounds flights to six overseas destinations amid cost pressures
 IndiGo is temporarily halting flights to six international destinations, including Hong Kong and Shanghai, until September 30. This strategic move aims to optimize its network amidst softer travel demand and escalating operating costs. The airline plans to resume services on October 1, contingent on
 
-## India IPO gold rush becomes foreign firms’ cash-out machine
-Foreign firms are increasingly cashing out of India's booming IPO market, pocketing billions instead of raising capital for expansion. Recent listings, including major players like Hyundai and LG, saw over $5 billion flow overseas. This trend, driven by high valuations, raises concerns about capital
+## ‘Making lot of money with India’: Trump says trade deal with ‘good friend’ PM Modi coming
+Donald Trump said India previously imposed high tariffs on US goods but added that the situation had now reversed.
 
-## US stocks today: Wall Street opens mixed as AI stocks fall and oil prices ease
-Indian markets opened mixed on Thursday. US stocks saw a mixed start as AI shares pulled back, but falling oil prices boosted investor mood. The S&P 500 edged up, while the Nasdaq dipped. The Dow Jones Industrial Average showed strong gains. Easing oil prices, driven by hopes of a Strait of Hormuz r
-
-## One vehicle, two fuels: India bets big on flex-fuel revolution - what is it?
-Maruti Suzuki's MD highlights flex-fuel vehicles as key to India's goals of cutting oil imports and emissions. These vehicles run on petrol and ethanol blends, supporting farmers and the rural economy. A robust ecosystem, including fuel availability and wider model launches, is crucial for mass adop
-
-## LPG supply stable, but oil firms still losing nearly Rs 700 on every cylinder sold
-Oil Marketing Companies are still facing significant under-recoveries of nearly Rs 700 per domestic LPG cylinder. Despite government efforts to boost domestic production and secure imports, this financial strain persists. Meanwhile, LPG demand has moderated due to reduced commercial use and improved
-
-## ‘Perfect complementarity’: India, Venezuela deepen energy ties
-India is bolstering energy ties with Venezuela, now its third-largest crude supplier, to diversify imports amidst West Asia disruptions. Discussions also explored broader economic cooperation in sectors like mining, pharmaceuticals, and agriculture, with Venezuela viewing India as a stable, long-ter
-
-## India expands ethanol map: 5,000 fuel stations planned by 2027 end
-India is accelerating its ethanol drive, planning to establish 5,000 ethanol fuel stations by the end of 2027 to reduce fossil fuel imports. This initiative, alongside the launch of flex-fuel cars, aims to cut the country's $120 billion import bill and boost farmer income. Regulatory changes are als
-
-## For first time, Russia admits oil production has declined amid Ukraine's attacks on refineries
-Russia has publicly acknowledged a dip in oil production due to unscheduled refinery repairs, marking the first such admission. This comes amid intensified Ukrainian drone attacks targeting Russian energy infrastructure, which have disrupted operations and pushed Moscow to increase crude exports. De
+## ‘No Bhagwan songs, don’t go to temple’: Woman says she was shown Pakistani preacher's videos in TCS Nashik case
+The woman alleged that a married man sexually exploited her on the promise of marriage while encouraging her to move away from Hindu religious practices.
 
 ## ‘India will resist such efforts’: Putin backs New Delhi amid ‘US pressure’ over Russian oil
 Vladimir Putin's remarks come at a time when the US is reconsidering a waiver that has allowed countries, including India, to continue purchasing Russian oil.
@@ -98,12 +107,6 @@ CJP said a large gathering at the airport could disrupt normal operations and cr
 
 ## Parliamentary debut for Pawan Khera: Congress releases list of candidates of Rajya Sabha polls
 Congress leader Pawan Khera is set to make his Rajya Sabha debut as the party has nominated him along with Mansoor Ali Khan from Karnataka.
-
-## Nepal FM Shisir Khanal to arrive in Delhi on friday, hold key talks with Jaishankar
-Nepal Foreign Minister Shisir Khanal will meet S Jaishankar to discuss trade, connectivity, energy and bilateral cooperation.
-
-## 7-year-old girl abducted at night, raped in UP's Mathura; accused arrested
-The girl was allegedly abducted at night as she slept next to her mother and was raped at a nearby crematorium
 
 ## Twinkle Khanna’s ‘travel lighter’ message highlights burden of emotional baggage
 
@@ -153,6 +156,15 @@ Beijing’s latest efforts to tighten oversight of cross-border capital flows ha
 ## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
 A favourite topic which often comes up in conversations with advertising friends concerns the history, emergence and creative heyday of the industry in Hong Kong. A story I usually speak about with some authority, seeing as I have been privileged enough to play a part in it over the years, as well a
 
+## Meanwhile, in the Western Hemisphere…
+The U.S. military remains extremely active in and around Latin America.
+
+## How Trump Should Approach an Iran Endgame
+Former Iran negotiator Robert Malley on the White House’s best options right now.
+
+## Trump Is Playing With Fire in Cuba
+The U.S. blockade on the island is unprecedented—and could lead to prolonged upheaval.
+
 ## China Is Too Big for Shangri-La
 Snubbing a key security forum shows Beijing’s new confidence.
 
@@ -167,15 +179,6 @@ The small Baltic country has refashioned the relationship between citizens and t
 
 ## Vladimir Putin’s Second-Biggest Headache
 With his war in Ukraine going badly, he may soon face another quagmire in Chechnya.
-
-## The Threat of Unrest Is Decarbonizing the Global South
-Oil and gas price spikes are doing what decades of climate diplomacy struggled to achieve.
-
-## The Afghanistan-Pakistan Border Is Still Unstable
-There is a brief lull in violence, but the root causes of the conflict haven’t been addressed.
-
-## India’s Cockroach Movement Gains Momentum
-A satirical political party has tapped into the discontent among unemployed youth.
 
 ## What India’s Latest Press Freedom Ranking Reveals About Its Democratic Trajectory
 The RSF’s score for India is significant not for the number itself, but for what that ranking reflects about deeper structural trends affecting journalism, media ownership, and democratic accountability.
@@ -249,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon latest: Hezbollah rejects US plan as Israel continues attacks
+Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.
+
+## Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon
+Hezbollah has condemned a US-brokered ceasefire framework accepted by Israel and Lebanon
+
+## US defence secretary compares Bolivia protests to government ‘overthrow’
+The Trump administration has supported Bolivian President Rodrigo Paz after his electoral victory over left-wing MAS.
+
+## What is the UK’s ‘two-tier policing’ debate?
+The murder of Henry Nowak has sparked a political storm in the UK, with renewed claims of ‘two-tier policing’.
+
+## Lufthansa employees injured after Boeing 787 collapses in Frankfurt
+Several Lufthansa staff members were injured when the nose gear of a Boeing 787 jetliner collapsed at Frankfurt airport.
+
 ## Block the bombs: Support grows for US bill to restrict arms for Israel
 'Long road' remains ahead as bill garners 73 co-sponsors one year after its introduction in Congress, advocates say.
 
@@ -257,21 +275,6 @@ Poland's Maja Chwalinska beats Diana Shnaider to reach French Open final and mak
 
 ## Liverpool appoint Spaniard Iraola as new manager in place of Slot
 Andoni Iraola left his role at Bournemouth at the end of the season and takes over at Liverpool in place of Arne Slot.
-
-## Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
-Russia's latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.
-
-## Hundreds protest in Libya outside UN agency against undocumented migrants
-Protesters accuse the UN of settling undocumented migrants in the country, a claim the agency rejects.
-
-## Sherpa found alive on Mount Everest after six days missing
-A Nepali Sherpa has been found alive on the slopes of Mount Everest after missing for six days without food or oxygen.
-
-## Saudi energy minister calls for ‘stable energy sector’ during Russia visit
-Prince Abdulaziz bin Salman and other top OPEC officials visit the St Petersburg International Economic Forum.
-
-## Marjane Satrapi, the author of ‘Persepolis,’ dies at 56
-Known for her graphic novel ‘Persepolis,’ Iranian-French artist and filmmaker Marjane Satrapi has died at the age of 56.
 
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
