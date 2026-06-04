@@ -6,6 +6,15 @@ Rocket and AI group is seeking to raise up to $86bn in biggest Wall Street debut
 ## Trump’s pick of Pulte as spy chief threatens foreign surveillance bill
 Republican and Democratic lawmakers say choice imperils extension of expiring Foreign Intelligence Surveillance Act
 
+## Elon Musk shifts social media focus from SpaceX to UK far-right politics
+Tech billionaire has made 110 posts, retweets and replies about British affairs in the space of a week
+
+## Japanese hardware stocks are having a moment — again
+The current surge plays to the country’s industrial strengths
+
+## FirstFT: India’s ‘cockroach’ movement founder plans protests over exam crisis
+Also in today’s newsletter: SpaceX targets $1.8tn valuation in historic IPO, and Trump’s Iran war drains US oil stocks
+
 ## SpaceX wins tax exemption for $55bn AI chip plant despite local backlash
 Elon Musk’s Terafab plant sparks fierce opposition and threat of legal action from residents of Texas county
 
@@ -15,8 +24,8 @@ Executives hold talks with far-right party, which leads German polls and support
 ## Saudi wealth fund replaces foreign CEOs with locals
 Public Investment Fund focuses on domestic investments ahead of country hosting 2034 World Cup
 
-## Online adverts for UK starter jobs halve over past decade
-Sharp drop comes as ministers try to tackle how many young people are not in education, employment or training
+## Broadcom loses more than $250bn in market value as revenue forecast disappoints
+Shares in chip company fall as much as 15% in after-hours trading
 
 ## UK Treasury set to take control of fighter jet spending after defence ministry mishaps
 Move comes as Keir Starmer prepares to announce £15bn increase in military expenditure
@@ -24,11 +33,8 @@ Move comes as Keir Starmer prepares to announce £15bn increase in military expe
 ## Meta bets on AI agents to unlock WhatsApp revenues
 Mark Zuckerberg expands group’s push into the technology as it seeks to turn messaging app into a bigger business
 
-## Google upsizes historic equity raising to $85bn to back AI spending spree
-Tech giant’s first stock offering in more than two decades gets strong demand as investors shrug off huge investment plans
-
-## Trump’s proposed grant rules could destroy US science, researcher warns
-Additional funding controls by Office of Management and Budget will make new discoveries less likely, say critics
+## US to invest $1.5 bn in energy security, LNG infrastructure in India & SE Asia to catalyse exports
+This deal represents the largest single project investment in the US DFC’s history
 
 ## Led by Poland & China, central banks turned net buyers of gold in April
 The development comes after they were net sellers of the precious metal in March; Russia continues to offload the yellow metal
@@ -50,9 +56,6 @@ To off-set costs, brands have settled on the quality of camera resolution, displ
 
 ## Health insurance coverage crosses 60% of households, NFHS
 The pace of expansion accelerated after 2015-16, when coverage stood at 28.7 per cent, rising to 41 per cent in 2019-21
-
-## Wheels India appoints Harsha Viji as Additional Director
-
 
 ## Sebi bans Rajesh Exports' CMD for fin irregularities
 Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an "egregious" 97%-99%. The company also failed 
@@ -78,53 +81,56 @@ Persian Gulf tensions pushed crude prices near $100, weakening the rupee and cau
 ## District economy data: Govt issues uniform framework for district GDP estimates with 2022-23 base year
 The statistics ministry has released a uniform framework for district-level economic output estimates with a revised base year of 2022-23. This move aims to enhance consistency and comparability of economic data across all states and Union Territories. The guideline, incorporating stakeholder feedba
 
-## Delhi hotel building owner Lavkesh Bajaj arrested after Malviya Nagar fire kills 21
-Police had earlier issued a lookout circular against Bajaj and his wife before launching a search operation to trace them.
+## Amit Shah to visit Northeast for 2-day tour to review border security: Key agenda
+Amit Shah shared details of his itinerary, stating that he would visit the India-Bangladesh border and interact with Border Security Force personnel in Tripura.
 
-## 'Much-needed support’: Air India on Centre’s ₹10,000-crore aviation fuel price relief package
-The government has approved a ₹10,000-crore fund to help keep aviation fuel prices stable for airlines amid rising global fuel costs.
+## Delhi orders month-long fire safety crackdown after Hauz Rani tragedy
+Joint teams of district officials, police, civic authorities and fire personnel will begin inspections from June 4.
 
-## TMC's rebel leader now LoP, ED summons Abhishek, mayor ‘quits’: Mamata faces many setbacks
-This blow for TMC also comes a month after it suffered a major loss against the Bharatiya Janata Party in the West Bengal Assembly elections.
+## Ravneet Singh Bittu says he wants to return to Punjab politics after 17 years in Parliament
+Punjab Chief Minister Bhagwant Mann claimed that Ravneet Singh Bittu would soon lose both his ministerial berth and Rajya Sabha seat.
 
-## UK foreign secretary Yvette Cooper to meet Jaishankar to review ties
-Yvette Cooper, who completed a trip to China on Wednesday, travelled to India close on the heels of a visit by UK business and trade secretary Peter Kyle
+## Fatal fires haunt Capital in absence of accountability
+Delhi faces recurring deadly fires with promises of accountability but little change. Recent tragedies highlight safety violations and weak enforcement.
 
-## 58 TMC rebels are Bengal’s main Oppn party; Ritabrata Banerjee their leader
-Ritabrata Banerjee and Sandipan Saha, the two lawmakers expelled by the TMC, have been recognised as the leader and deputy leader of the Opposition respectively
+## 200 electric buses to begin operations in Bihar in June across six cities
+The state government is also operating 100 'Pink buses' for women passengers in six major cities. These are equipped with CCTV cameras, GPS and panic buttons.
 
-## Free bus passes, jobs, pvt employment exchange: CM Shivakumar's first announcement after oath-taking
-Among the announcements made after his first cabinet meeting in the state was the decision to issue free bus passes to students in non-luxury government buses.
+## Three arrested in ₹43 lakh digital arrest cyber fraud case in Gurugram
+A person filed a complaint saying an individual posing as a CBI officer digitally arrested him and fraudulently induced him to transfer ₹42.92 lakh.
 
-## Traveller from Sharjah arrested with 2.75 kg gold worth ₹3.8 crore at Delhi airport
-The passenger, who had arrived from Sharjah by Flight No. IX-136 on June 1, was intercepted at the bus gate upon arrival.
+## Delhi seeks its own disaster task force
+Delhi plans to establish State Disaster Response Force with help from NIDM and NDRF, considering retired NDRF personnel for expertise in disaster response.
 
-## Delhi weather: Yellow alert in capital for light rain, thunderstorms over next two days
-The weather department said “partly to generally cloudy skies” would persist for the next couple of days.
+## After Hauz Rani fire, survivors battle injuries as families search hospitals
+Relatives moved between hospitals seeking missing people, while police personnel injured during rescue operations were discharged.
 
-## Surat bus crash: Kin provide blood samples for DNA matching
-
-
-## TMC leader Jay Prakash Majumdar held over ‘grabbing’ woman’s house
+## B K Hariprasad is new Karnataka Congress chief
 
 
-## 2025 murder of gold merchant: HC asks DGP to take action against absconding BDO, orders action against investigation officer
+## UP Cabinet gives go-ahead to compensation for next of kin of inmates dying of unnatural causes in prisons
 
 
-## CID arrests two in methanol supply chain in hooch tragedy, 20 deaths confirmed
+## Power distribution in Gujarat cities to go underground by 2030; Cabinet gives nod
 
 
-## Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam
+## Prayagraj family murders: A day after, police ‘solve’ case, say man killed parents, sister; hacked to death by aide over share
 
 
-## Application by driver’s mother in Porsche crash: Prosecution opposes plea for blood reports of victims, calls it ‘roving and fishing inquiry
+## South Delhi hotel fire | Bangladesh to Nigeria: Far from home, agonising wait and search
 
 
-## ‘Unauthorised’ school in Chunabhatti ordered shut, students told to relocate
+## Tackling air pollution in focus: Cabinet nod for Rs 9,585 crore scheme to replace old trucks, buses in Delhi-NCR
 
 
-## Sex determination racket: 12th passout used portable sonography machine,15 doctors under scanner for female foeticide
+## Delhi Confidential: Finding Founder
 
+
+## ‘Didn’t wait for protective gear’: 10 policemen injured during rescue operation during Malviya Nagar fire
+
+
+## Why China’s tighter grip on outbound capital may test Hong Kong’s housing rebound
+Beijing’s latest efforts to tighten oversight of cross-border capital flows have sparked concerns that a reduction in mainland demand for Hong Kong homes could impact the city’s recovering property market. The debate follows a series of measures unveiled in recent weeks, including tighter scrutiny o
 
 ## Growth Conversation: Chris Kyme on the local pioneers of the HK advertising industry
 A favourite topic which often comes up in conversations with advertising friends concerns the history, emergence and creative heyday of the industry in Hong Kong. A story I usually speak about with some authority, seeing as I have been privileged enough to play a part in it over the years, as well a
@@ -147,8 +153,8 @@ Hong Kong’s exceptional longevity means some individual retirees may need as m
 ## GenScript rally underscores China’s rise in cancer drug innovation
 GenScript Biotech Holdings surged in Hong Kong after its associate company disclosed promising early clinical data on a potential first-in-class cell therapy for treating cancer. Shares rose as much as 29 per cent on Wednesday before trimming gains to trade 10.54 per cent higher at HK$13.42 at the c
 
-## Inside Central Crossing: the dual-tower development built for the future of work
-For decades, the best office spaces in Hong Kong’s Central district sold the same promise: proximity to capital, clients and decision-makers. Today, that is just the baseline. The next generation of tenants is weighing if the office experience feels as modern as the businesses operating inside it. C
+## The Afghanistan-Pakistan Border Is Still Unstable
+There is a brief lull in violence, but the root causes of the conflict haven’t been addressed.
 
 ## India’s Cockroach Movement Gains Momentum
 A satirical political party has tapped into the discontent among unemployed youth.
@@ -165,14 +171,11 @@ The U.S. designation of two Brazilian crime groups as terrorist organizations sc
 ## The New Weapon Behind Ukraine’s Battlefield Success
 Mid-range drones that can hit targets almost 100 miles behind Russian lines have changed the game.
 
-## Congress Prepares for a Consequential Iran Vote
+## Congress Prepares for a Pair of Consequential Iran Votes
 Tehran may feel empowered to wait out U.S. demands for concessions in face of war-weary American public.
 
 ## The U.S. and Taiwanese Militaries Can’t Really Fight Together
 A joint campaign to defend the island would struggle to operate effectively.
-
-## America Enabled the Gulf’s African Adventurism
-Why Washington let its Middle Eastern partners wreak havoc in Africa.
 
 ## Uzbekistan’s New Migration Destination? America.
 From irregular border crossings to bilateral training agreements, Uzbekistan is working to carve out a formal pathway to U.S. employment.
@@ -246,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## London activists try to erect statue of jailed Palestinian leader
+Activists have tried to erect a statue of Marwan Barghouti in London’s Parliament Square, but police intervened.
+
+## Trump seeks to split Lebanon talks from war on Iran negotiations
+Trump says he wants to keep talks on the conflict in Lebanon separate from negotiations over the war with Iran.
+
+## Kuwait releases CCTV footage of deadly Iranian strike on airport
+Kuwait has released surveillance footage of what it says shows an Iranian drone strike on Kuwait International Airport.
+
+## Real Madrid will bring Mourinho back if Perez is re-elected
+Real Madrid president Florentino Perez says he will bring Jose Mourinho back as manager if he wins Sunday's election.
+
+## US House passes Iran war powers resolution in rare pushback against Trump
+Four Republicans allied with Democrats to pass bill to rein in Trump, though it is likely to face a presidential veto.
+
 ## Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress
 Hamawy's victory in New Jersey likely to make him a rare US Congress member with firsthand experience in besieged Gaza.
 
@@ -254,21 +272,6 @@ Kuwait’s defence ministry has labelled an attack on the country’s internatio
 
 ## Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’
 Ukraine launched a series of air strikes targeting an oil facility and a naval air base near St Petersburg late Tuesday.
-
-## Deadly fire rips through New Delhi hotel
-A fire has ripped through a hotel in New Delhi, killing at least 21 people including 18 foreign nationals.
-
-## Japan’s football team sports cowboy hats ahead of World Cup
-Japan's national football team wore cowboy hats as fans welcomed them to Monterrey, Mexico.
-
-## Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio
-US secretary of state dodges question at congressional hearing on Washington's position on Israel's nuclear programme.
-
-## Ten years on, world remembers Muhammad Ali ‘the Greatest’
-Ten years on, world remembers Muhammad Ali 'the Greatest'
-
-## Israel’s decades-long history of invading Lebanon
-Israel has invaded Lebanon for the sixth time in 48 years. Al Jazeera’s Hala Al Shami outlines this history.
 
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
