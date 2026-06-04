@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## Betfair targeted gambling addict, court hears in landmark case
+Flutter-owned company accused of worsening addiction of Luke Ashton before he took his life
+
+## US plans cuts to Nato’s rapid response force
+European allies seek clarity over removal of American naval and air assets that can be dispatched if Russia attacks
+
+## Broadcom suffers $300bn rout as revenue outlook disappoints
+Shares in chip company fall 15% in early trading on Thursday
+
+## Israel and Lebanon agree to implement ceasefire
+Deal announced by US state department calls for Hizbollah to stop all attacks
+
+## Russia prunes Armenian rose trade ahead of election
+Moscow’s trade restrictions put pressure on western-friendly government in Yerevan
+
+## The Gulf states and Ukraine need each other
+Countries in Iran’s line of fire need to shore up their drone defences, and Kyiv is in desperate need of funding
+
+## Israel and Lebanon agree to implement a US-brokered ceasefire
+Also in today’s newsletter, a one-time adviser to the UK’s former PM David Cameron leads California’s race for a new governor
+
 ## Blackstone caps withdrawals from flagship private credit fund
-Redemption requests surged to $4.5bn in the second quarter amid mounting fears in sector
+Redemption requests surged to $4.5bn in second quarter amid mounting fears in sector
 
-## Live reader Q&A - Ten years on, what’s next for Brexit?
-Take part in a live Ask an Expert Q&A with the FT’s Europe editor Ben Hall and Peter Foster, the FT’s World trade editor, now
+## Europe is finally flexing its innovation muscles
+The new EU tech sovereignty package shows a welcome shift from defensive regulation
 
-## Keir Starmer blasts Elon Musk for ‘interfering’ in UK politics
-Tech billionaire has made 110 posts, retweets and replies about Britain in the past week
-
-## What if Andy Burnham loses?
-Defeat would encourage Labour to believe the next election will be won by uniting voters on the left
-
-## Broadcom headed for $300bn market value wipeout as revenue forecast disappoints
-Shares in chip company fall 15 per cent in pre-market trading on Thursday
+## Lex Greensill banned from UK directorships for 9 years
+Financier’s disqualification from Insolvency Service comes 5 years after Greensill Capital collapse
 
 ## Lithium start-up EnergyX plans ‘Battery Mecca’ in Texas
 Project aims to disrupt China’s dominance of the supply chain
-
-## Reform given another £3mn by crypto billionaire Harborne
-Latest data underscores how Farage’s party remains reliant on a handful of rich donors
-
-## The rise and rise of the IMF’s mysterious ‘other’ reserve currencies
-Sing me a song, Mr Reserve Manager
-
-## Lex Greensill banned from UK directorships for 9 years
-Financier’s disqualification from Insolvency Service comes five years after Greensill Capital collapse
 
 ## FirstFT: Trump’s push for a US manufacturing ‘golden age’ sputters
 Also in today’s newsletter: the world’s biggest IPO and the best US city for foreign multinationals to do business
@@ -33,38 +39,47 @@ Also in today’s newsletter: the world’s biggest IPO and the best US city for
 ## Trafigura warns oil at ‘inflection point’ as Iran war stokes bumper half-year profits
 Commodity trader’s net profit more than doubles to $4.1bn for October to March period
 
-## Rémy Cointreau shares bounce on plan to revive cognac sales
-Spirits group projects €100mn profit boost over next 3 years as it looks for growth in emerging markets and travel retail
+## ‘Not a single rupee has been diverted’: Rajesh Exports Chairman on SEBI charges
+Rajesh Exports Chairman denies SEBI’s fund diversion allegations, asserting all company transactions are legitimate and documented.
 
-## Americans lead AI data centre backlash, global poll finds
-US has lowest support among 15 large economies for infrastructure expansion
+## India’s domestic LPG under-recovery rises to around ₹700/cylinder
+Sujata Sharma, Joint Secretary in MoPNG, stated that the under recovery on LPG domestic cooking cylinders is nearly ₹700
 
-## Partners Group prepares to cap withdrawals at US fund for wealthy individuals
-Swiss group faces increasing strains as redemption requests from investors rise
+## Letters to Editor
 
-## Manipal Health expands Bengaluru presence, adds 2.45 lakh sq ft in Yelahanka at ₹816-crore long-term deal
-The lease agreement has been signed for a period of 29 years and 11 months with a starting monthly rent of ₹1.27 crore followed by a structured rental escalation
 
-## Sahyadri Farms to roll out B2C processed horticultural foods
-Defers IPO plans due to unfavourable market conditions
+## Editorial. Regulatory overreach
+Micromanaging firms, no solution to customer grievances
 
-## Dish TV launches VZY Smart TVs in Kerala
-New range offers seamless access to live TV, OTT and regional content with FIFA-to-FIFA proposition
+## Fire breaks out at Tata Steel UK’s Port Talbot plant, no casualties reported
+The Mid and West Wales Fire Service responded to a fire at a processing line in Port Talbot last night around 8 pm; All personnel were safely evacuated, according to the company
 
-## Inox Clean to acquire Singapore-based Vena Energy’s 6 GW India portfolio for ₹6,000 crore
-The portfolio comprises 1.2 GW of operational renewable energy assets, 1.8 GW of projects at an advanced stage of development and nearing commissioning, and an additional 3 GW of development-stage projects spread across six States
+## Larsen & Toubro inks investment MoU worth ₹18,600 cr with TN government
+The three projects will generate employment for around 8,200 people
 
-## Tamara Leisure takes a leap of faith, launches new hotel brand for religious tourism
-The hotel and resorts chain are backed by families of Infosys co-founders S D Shibulal and Kris Gopalakrishnan
+## ChatGPT app crosses 1 billion active users in 3 years of launch; India 20% of this user base
+ChatGPT has in many ways become synonymous to Generative AI being the first such tool experienced by customers
 
-## TVS SCS, Italy’s ALA Group form aerospace and defence JV; target ₹2,000 crore revenue in 3-5 years
-The JV also marks TVS SCS’ entry into the high growth and globally significant aerospace and defence supply chain market, which is estimated at around $12 billion
+## India’s LPG Imports in March-May 2026: West Asia’s loss is Washington’s gain
+Closure of the Strait of Hormuz forced New Delhi to turn to the US to fill the gap in imports left by its four top supplies in West Asia
 
-## Nifty holds ground ahead of RBI decision; Midcaps outshine
-The Sensex closed at 74,360.01, up 13.84 points or 0.02%, while the Nifty 50 settled at 23,416.55, gaining just 10.95 points or 0.05%
+## India IPO gold rush becomes foreign firms’ cash-out machine
+Foreign firms are increasingly cashing out of India's booming IPO market, pocketing billions instead of raising capital for expansion. Recent listings, including major players like Hyundai and LG, saw over $5 billion flow overseas. This trend, driven by high valuations, raises concerns about capital
 
-## SC releases draft regulations on use of AI in courts, seeks comments from stakeholders, public
-The necessity for such a regulatory framework has become increasingly evident as the top court and several High Courts have raised concerns about the misuse of AI tools
+## US stocks today: Wall Street opens mixed as AI stocks fall and oil prices ease
+Indian markets opened mixed on Thursday. US stocks saw a mixed start as AI shares pulled back, but falling oil prices boosted investor mood. The S&P 500 edged up, while the Nasdaq dipped. The Dow Jones Industrial Average showed strong gains. Easing oil prices, driven by hopes of a Strait of Hormuz r
+
+## One vehicle, two fuels: India bets big on flex-fuel revolution - what is it?
+Maruti Suzuki's MD highlights flex-fuel vehicles as key to India's goals of cutting oil imports and emissions. These vehicles run on petrol and ethanol blends, supporting farmers and the rural economy. A robust ecosystem, including fuel availability and wider model launches, is crucial for mass adop
+
+## LPG supply stable, but oil firms still losing nearly Rs 700 on every cylinder sold
+Oil Marketing Companies are still facing significant under-recoveries of nearly Rs 700 per domestic LPG cylinder. Despite government efforts to boost domestic production and secure imports, this financial strain persists. Meanwhile, LPG demand has moderated due to reduced commercial use and improved
+
+## ‘Perfect complementarity’: India, Venezuela deepen energy ties
+India is bolstering energy ties with Venezuela, now its third-largest crude supplier, to diversify imports amidst West Asia disruptions. Discussions also explored broader economic cooperation in sectors like mining, pharmaceuticals, and agriculture, with Venezuela viewing India as a stable, long-ter
+
+## India expands ethanol map: 5,000 fuel stations planned by 2027 end
+India is accelerating its ethanol drive, planning to establish 5,000 ethanol fuel stations by the end of 2027 to reduce fossil fuel imports. This initiative, alongside the launch of flex-fuel cars, aims to cut the country's $120 billion import bill and boost farmer income. Regulatory changes are als
 
 ## For first time, Russia admits oil production has declined amid Ukraine's attacks on refineries
 Russia has publicly acknowledged a dip in oil production due to unscheduled refinery repairs, marking the first such admission. This comes amid intensified Ukrainian drone attacks targeting Russian energy infrastructure, which have disrupted operations and pushed Moscow to increase crude exports. De
@@ -72,71 +87,56 @@ Russia has publicly acknowledged a dip in oil production due to unscheduled refi
 ## ‘World's long-term capital is looking at India’: Global investors betting big, says Piyush Goyal
 Global investors are showing strong confidence in India's future. Union Minister Piyush Goyal stated that India is set to be the world's fastest-growing economy for more than twenty years. Companies like Hyundai and JCB have seen significant returns by investing in India. The nation is becoming a ma
 
-## Rajesh Exports share price today: Stock tanks 5% to hit lower circuit as SEBI bans CMD for financial irregularities
-On the BSE, the stock fell 4.99% to Rs 104.65, reaching its daily lower limit. A similar trend was seen on the NSE, where the share price declined 4.99% to Rs 103.92, also locking into the lower circuit.
+## ‘Forward-looking highway’: India, UK seal maritime, crucial mineral pacts
+External affairs minister S Jaishankar and his British counterpart Yvette Cooper reviewed security and economic cooperation and discussed the fallout of the West Asia conflict
 
-## Gold, silver price prediction: Will gold hit Rs 1.65 lakh/10 grams & silver rise to Rs 2.85 lakh per kg? Check outlook
-Gold and silver price prediction today: The base trendline for MCX Gold, and MCX Silver remains bullish according to Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+## Crane collapses at Jewar Expressway construction site, at least 5 workers trapped
+One worker was rescued with serious injuries, while rescue teams continued efforts to reach others believed to be trapped under the heavy equipment.
 
-## Stock Market Live Updates Today: BSE Sensex opens over 450 points down, Nifty50 below 23,350; crude oil prices drop
+## Lalit Modi's big claim, says Dawood Ibrahim's control on IPL forced him to quit cricket management
+Lalit Modi said he became a primary target for the mafia as he refused to allow match-fixing in the initial years of the IPL when he was in-charge.
 
+## UPSC implements real-time face authentication for civil services exams
+The UPSC used real-time face authentication at all civil services prelims centres to verify candidates and prevent impersonation.
 
-## US-Iran war: India looks to attract foreign investment; capital gains tax on government securities may be scrapped
-Reports suggest that PM Narendra Modi-led Union Cabinet on Wednesday cleared an ordinance that will amend the Income Tax Act and enable the proposed tax exemption.
+## ‘Challenging cost environment’: IndiGo pauses services to Hong Kong, Shanghai and 4 others
+IndiGo on Tuesday had announced the indefinite suspension of its Mumbai-Manchester non-stop flights from August 31 this year.
 
-## Top stocks to buy today: Stock recommendations for June 4, 2026 - check list
-Top stock market recommendations: Cyient, Timken India, and Bosch have been shortlisted as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for June 4, 2026. The expert has also shared his outlook for Nifty, and Bank Ni
+## BJP announces candidates for RS polls in five states, fields Tarun Chugh from MP
+The names of Union ministers Ravneet Singh Bittu and George Kurian did not figure in the list of BJP candidates.
 
-## Sebi bans Rajesh Exports' CMD for fin irregularities
-Sebi has banned Rajesh Mehta, CMD of Rajesh Exports, from dealing in the company's shares pending further orders. The regulator's investigation revealed significant manipulation of accounts, particularly overseas subsidiary revenues, inflating them by an "egregious" 97%-99%. The company also failed 
+## ‘Fake’: PIB Fact Check debunks claims of ‘National Student Laptop Scheme’
+It clarified that the claim is fake and said the Government of India has not announced any such scheme.
 
-## Massive fire guts shops in complex at Hyderabad’s Ameerpet; no casualties
-Hyderabad: The blaze began around 1 pm, sending thick plumes of smoke into the sky and triggering panic among local shop owners and commuters.
+## Four new faces among 12 Assam ministers to take oath tomorrow: CM Himanta Sarma
+The induction will take the strength of the council of ministers to 17, with two spots still remaining vacant in the 19-member cabinet.
 
-## Mekedatu dam row between Karnataka, Tamil Nadu flares up again: All you need to know
-Mekedatu is a multi-purpose project proposed by Karnataka, which involves building a balancing reservoir near Kanakapura in Bengaluru South district.
-
-## Exclusive: How CBSE whistleblower Sarthak Sidhant got into computers, hacking
-CBSE-OSM whistleblower Sarthak Sidhant shares how his interest in technology started and the career path he hopes to follow.
-
-## Missing Sherpa returns alive after six days without food or water on Everest as family prepared for last rites
-Dawa Sherpa, 52, was returning with a European climber when he went missing between Camp III and Camp IV, on May 29. He returned alive on June 4.
-
-## Rain, thunderstorms likely across Arunachal on Friday
-Rain, thunderstorms likely across Arunachal on Friday
-
-## HistoriCity: Indian history rife with games of succession rivalries
-By the time of emperor Ashoka Maurya in the 3rd century BCE, succession to kingship came to be regarded as a lineage-based right
-
-## Dry areca nut smuggling: ED carries out searches along Mizoram-Myanmar border
-Areca nut, whose smuggling is driven by high domestic demand and cheaper alternatives, is widely consumed in India, particularly in the form of pan masala and gutkha
-
-## Rebellion, mayor exits: Mamata Banerjee's TMC faces one of its biggest challenges ever
-The Mamata-led TMC is faces fresh challenges with a rebellion within the party and uncertainty surrounding future of leaders holding key mayoral positions.
-
-## Mere demand for loan repayment doesn’t amount to abetment of suicide: Bombay High Court
+## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on Millets, Flex-fuel vehicles and more (Week 165)
 
 
-## Flavio Cobolli on using Nadal’s shower at French Open: ‘More crazy than others’
+## Marjane Satrapi refused to be drawn in black and white
 
 
-## Court halts Kerala policemen’s deal to drop charges after handcuffed body found in TN well
+## Govinda says Pahlaj Nihalani helped him rise above poverty: ‘He was our foundation stone’
 
 
-## J&K HC acquits man accused in 2007 militant killing of Doda cop — ‘Not a single incriminating fact’
+## India’s growth story remains strong, long-term outlook intact: Citigroup CEO Jane Fraser
 
 
-## Trump’s $205B investment chief faces scrutiny over past links to Jeffrey Epstein: Report
+## ‘Explosive, fearless, world-class’: Gopichand on doubles talent Hariharan
 
 
-## Two-fold raise in financial ceiling for field commanders: Rajnath Singh releases revised DFPDS
+## Video: Lufthansa Boeing 787’s dramatic nose gear collapse before takeoff, several injured
 
 
-## Pune minor rape-murder case: Child witnesses among 32 examined before court
+## Assam Cabinet expansion: Several new faces, no room for high-profile Congress defectors
 
 
-## Woman’s body in a field, self-inflicted gunshot: How Kanpur Police cracked a murder case
+## Explained: Gujarat’s new police range for Pakistan border, with implications for national security
 
+
+## Chinese carmakers BYD, Chery chart 80% growth overseas as EV demand spikes
+Leading Chinese carmakers like BYD and Chery Automobile are reaping rewards from their efforts to boost sales abroad, as they chase higher profitability amid rising demand for electric vehicles (EVs). Chery, which spearheaded the go-global drive among mainland China’s automotive groups and is the co
 
 ## CLP director Betty Yuen sells Mid-Levels flat as Hong Kong luxury market improves
 Betty Yuen So Siu-mai, a non-executive director of Hong Kong power company CLP Holdings, has sold a luxury flat at Mid-Levels, joining a growing number of prominent owners taking advantage of improved market sentiment to dispose of high-end properties. Yuen sold a 1,943 sq ft home on the 11th floor 
@@ -159,8 +159,8 @@ A favourite topic which often comes up in conversations with advertising friends
 ## China’s fund managers face new rules to curb risky investment strategies
 With mutual fund companies having to adhere to investment mandates as part of the regulatory revamp of the 40 trillion yuan (US$5.9 trillion) industry, Chinese money managers may find it difficult to improve fund performance. China Asset Management and E Fund Management, the industry’s biggest playe
 
-## Jiangsu 11.5b yuan brokerage merger marks new phase of consolidation
-China’s second-largest provincial economy is accelerating the integration of its financial sector, with a proposed merger between two state-owned brokerages in Jiangsu highlighting a new phase of regional consolidation. In a filing on Tuesday, Shanghai-listed Soochow Securities disclosed plans to ac
+## Are We Reliving the 1890s, 1930s, or 1950s?
+What history can and cannot explain about today’s unraveling order.
 
 ## Estonia Has Lessons for Us All
 The small Baltic country has refashioned the relationship between citizens and the state for the current moment.
@@ -182,9 +182,6 @@ Experts warn that continued strikes could jeopardize peace talks.
 
 ## What to Know About Ethiopia’s Election
 Abiy’s all-but-certain victory threatens to destabilize the African nation.
-
-## Why Is Trump Targeting Brazilian Gangs?
-The U.S. designation of two Brazilian crime groups as terrorist organizations scrambles already tense bilateral relations.
 
 ## Major ASEAN Economies In Line For New US Tariffs Over Forced Labor
 U.S. Trade Representative Jamieson Greer has recommended the imposition 10-12.5 percent levies on 60 major trading partners.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank
-The far-right finance minister says the new houses will 'strengthen our hold on the land'.
+## Rise of the ‘devils of horseback’: The making of Sudan’s RSF
+Previously called the ‘Janjaweed’, Sudan’s Rapid Support Forces have tried to become involved in the political field.
 
-## Man City threatens legal action against Real Madrid following Haaland claim
-Enrique Riquelme held up a Real Madrid shirt bearing Erling Haaland's name, while campaigning for club presidency.
+## Pro-Palestinian badges should not be worn by NHS staff, UK review suggests
+Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers
 
-## Quiz: World Cup 2026 – player and team records, key statistics
-Test your football knowledge before the World Cup begins with a 10-question quiz.
+## ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
+Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.
 
-## Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests
-The monsoon rains are essential for driving India's $4 trillion economy.
+## MAHA moms test their influence in US glyphosate fight
+'Make America Healthy Again' activists see legislative wins, White House disappointments and questions for the midterms.
 
-## Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?
-The Venezuelan leader, who is a devotee of Sathya Sai Baba, is in India as the two countries aim to boost energy ties.
+## Black Lung Rising
+Fault Lines investigates a surge in black lung among younger coal miners in Appalachia, and gaps in dust protections.
 
-## Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?
-Despite internal criticism, analysts argue Ben-Gvir holds a mirror to much of Israeli society.
+## Lebanon’s latest truce: What is different from the April agreement?
+The ceasefire's prospects appear uncertain before its implementation has even started.
 
-## ‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news
-Facebook parent company says proposals violate Australia's commitments under its free trade agreement with the US.
+## Thousands protest in Albania against coastal resort linked to Jared Kushner
+Environmental organisations have called for the project's suspension, citing threats to biodiversity.
 
-## Argentina erupts in protest against gender violence after teen murder
-Argentina erupts in protest against gender violence after teen murder.
+## Iran footballers describe how war with US-Israel affects their World Cup
+Iran national players Saeid Ezatolahi and Mohammad Ghorbani talk about how war is overshadowing a World Cup dream.
 
 ## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
 The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
