@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Can India’s central banker calm the country’s growing economic fears?
+Also in this newsletter: Gen Z gets political
+
+## Mountbatten-Windsor earned rent by subletting Royal Lodge properties
+Revelation raises further questions about former prince’s lease with the Crown Estate
+
 ## Burnham confirms he will seek to replace Starmer as UK prime minister
 Greater Manchester mayor says he will aim to join a Labour leadership race if he wins upcoming by-election
 
@@ -18,47 +24,62 @@ Arrangement comes as AI lab is locked in legal battle with Pentagon over Claude 
 ## Bitcoin tumbles after Strategy sale unnerves crypto traders
 Cryptocurrency is heading for biggest weekly loss since November 2022
 
-## Mandelson investigation may take more than a year, says top UK prosecutor
-Director of Public Prosecutions says same dynamic applied to the investigation into former prince Andrew
+## The Business of Formula 1
+In this edition: Monaco’s ‘business race’ rivals; Iran war exposes sports’ global risk; George Russell interview; Sebastian Vettel’s fears for F1; Madrid’s new track; F1 chiefs revamp rules; the dual teams duel; watch the race from a yacht
 
-## HSBC placed under formal investigation over Lebanese central bank scandal
-French prosecutors bring preliminary charges against bank’s Swiss unit over allegations linked to former governor Riad Salameh
+## Chess fan George Russell plots his next move after tough start to F1 season
+The driver talks about a challenging 2026, sharing a garage with Kimi Antonelli, and exploiting his analytical streak
 
-## Ultra-processed food harms tied to content not manufacture, review says
-Some UPFs are benign, while others are unhealthy because of their contents, according to a study published in Science
+## The view from aboard: Monaco Grand Prix seen from a yacht
+The harbour is the most sought-after viewpoint — and that is reflected in the prices
 
-## Tech groups find a new way to monetise AI hype: selling volatility
-Elevated convertible bond issuance is, at heart, a response to the market being twitchier than usual
+## Iran war highlights geopolitical risk to globetrotting F1
+The touring series has deep economic roots and four races in the Gulf — but two have been cancelled so far
 
-## Blackstone caps withdrawals from flagship private credit fund
-Redemption requests surged to $4.5bn in second quarter
+## Sebastian Vettel says rule changes risk ‘diluting the DNA’ of F1
+Four-time world champion says contentious regulations could see driver frustration transfer to fans
 
-## SpaceX IPO shows Musk’s genius is in mythmaking
-How exactly the company plans to support its gargantuan valuation is not obvious
+## New Madrid F1 track steers a course through competing demands
+Street race economics must balance ‘Super Bowl’ race weekends with fan and driver preferences
+
+## Challengers vie for Monaco’s Formula 1 ‘business race’ crown
+Is Monte Carlo’s pulling power for dealmakers at risk from US and Asian contenders?
+
+## F1 chiefs rethink rules on fuel-electric split after bumpy start to season
+Drivers say 2026 changes demanded counterintuitive driving and pose safety risk
+
+## Sensex today | Stock Market Live: Markets eye RBI cues on rupee, inflation as GIFT Nifty signals positive start
+Sensex, Nifty, Stock Price Live Updates: Indian equities are poised for a higher opening on Friday as investors await the RBI's policy decision and Governor Sanjay Malhotra's outlook on inflation, rupee stability and rising crude oil prices amid escalating geopolitical tensions in the West Asia.
+
+## RBI MPC Meet 2026 LIVE: Will RBI Guv keep repo rate on hold? MPC decisions to be announced at 10 am today
+The Reserve Bank of India’s (RBI) Monetary Policy Committee (MPC) is set to announce the decisions taken in its second meeting of the financial year 2026-27 on Friday at 10:00 am, followed by a press conference by Governor Malhotra later in the day.
+
+## How flesh-eating screwworms in cattle could raise US beef prices
+With the US cattle herd already at a multi-decade low, the closure elevatedrecord-high beef ⁠prices by keeping more calves out of the US supply chain
+
+## Explainer: How Trump's ceasefires are failing to stop West Asia violence
+Three truces his administration has negotiated were meant ​to have stopped the warfare
+
+## Leadership exits highlight talent war in India’s GIFT City
+Talent retention remains a hurdle for GIFT City despite its growing appeal to global firms
+
+## ED froze assets worth USD 25 billion and restored USD 6.6 billion to fraud victims
+Speaking at the inaugural meeting of the BRICS Expert Network on Asset Recovery, Navin highlighted asset recovery as a key pillar in tackling corruption and financial crime
+
+## India’s hidden AI winners are powering a data centre-led stock market rally
+Strong spending by hyperscalers and rising demand for power, cooling and connectivity equipment have propelled stocks such as Sterlite Technologies, HFCL and MTAR Technologies, creating what investors call the ‘AI capex trade’
 
 ## Rajesh Exports’ ‘gilded’ accounts
 SEBI exposes a multi-layered deception that went undetected by the auditors, institutional investors
 
-## “This is a misunderstanding” says Rajesh Mehta in response to SEBI’s interim order
-We have not received any communication from SEBI in the last three months
+## Oil prices today: Crude falls as Hezbollah rejects US-backed ceasefire, traders assess conflict risks
+Oil prices saw a slight dip Friday as Middle East ceasefire hopes dimmed after Hezbollah rejected a US-backed proposal. Despite this, benchmarks are set for their first weekly gain in three weeks, buoyed by ongoing regional tensions and Strait of Hormuz disruptions. Conflicting signals from the regi
 
-## Strong farm cash flows drive tractor demand; registrations rise 11.6% in May
-Resilient agricultural sentiment, replacement demand boosts registrations; Mahindra & Mahindra, TAFE and International Tractors report robust performance
+## Gold, Silver Rate Today Live Updates: Gold prices set for weekly fall as crude oil prices remain elevated, US-Iran conflict uncertainty continues
 
-## ChatGPT app crosses 1 billion active users in 3 years of launch; India 20% of this user base
-ChatGPT has in many ways become synonymous to Generative AI being the first such tool experienced by customers
 
-## Tajpur deep sea port declared unviable, Bengal proposes new site at Dadanpatrabar
-Bengal is also advancing plans to connect Kolkata with the Water Metro network and has reviewed a ₹19,209 crore maritime investment roadmap aimed at boosting ports, logistics, and employment
-
-## Neelkanth Mishra appointed Executive Director at the World Bank
-Mishra is at present working as Chief Economist with Axis Bank
-
-## India’s LPG Imports in March-May 2026: West Asia’s loss is Washington’s gain
-Closure of the Strait of Hormuz forced New Delhi to turn to the US to fill the gap in imports left by its four top supplies in West Asia
-
-## India, US had positive discussions on trade deal: Commerce Department
-No clarity has been provided on when the India-US BTA is likely to be concluded
+## 'Our interest is ending the conflict': Putin rejects claims Russia is cashing in on Iran war oil surge
+Russian President Vladimir Putin desires a swift end to the Middle East conflict, refuting claims that Moscow profits from rising energy prices. He emphasized Iran's resilience and the need to consider its interests in any settlement. Putin also lauded India as a reliable partner, describing the Ind
 
 ## India, US look at non-tariff measures
 India and the US are nearing a trade agreement, with discussions extending beyond goods to encompass non-tariff measures, customs, and economic security. This comes as the US proposed additional tariffs on several countries, including India, over forced labor concerns. Both nations express optimism 
@@ -75,62 +96,56 @@ Citi CEO Jane Fraser urged India to focus on execution and long-term strengths, 
 ## Mehta contests Sebi order on Rs 15L cr inflated revenue
 Sebi has banned Rajesh Exports chief Rajesh Mehta for allegedly inflating company revenues over several years. The regulator's investigation found significant discrepancies, particularly with its Swiss subsidiary Valcambi SA. Mehta claims a communication gap with Sebi, stating revenues are correct a
 
-## HDFC agents to stop mobilising government funds
-HDFC Bank is halting its agents from collecting fixed deposits and CASA funds from government entities starting July 1. This move, which the bank attributes to its expanding branch network, comes amid scrutiny over incentives paid for government fund mobilization. The bank aims to streamline its ope
+## 'Mamata not merely an adviser': Dissent grows in rebel TMC camp after Ritabrata Banerjee's proposal
+The concerns emerged following a meeting of the rebel legislature bloc led by Ritabrata Banerjee, who was recently recognised as the Leader of Opposition.
 
-## Kuku files for Rs 3.5k cr IPO confidentially
-Digital entertainment startup Kuku Technologies has confidentially filed for an IPO, aiming to raise up to Rs 3,500 crore. The company is targeting a valuation of up to Rs 15,000 crore and plans to list later this fiscal year. This move signals significant growth aspirations for the digital entertai
+## For victims of Delhi blaze, hopes of healing turned into grief
+According to the Delhi Fire Services (DFS) and Delhi Police, at least 12 foreign nationals had been killed. This included three of a family from Kyrgyzstan.
 
-## Gulf crisis: IndiGo grounds flights to six overseas destinations amid cost pressures
-IndiGo is temporarily halting flights to six international destinations, including Hong Kong and Shanghai, until September 30. This strategic move aims to optimize its network amidst softer travel demand and escalating operating costs. The airline plans to resume services on October 1, contingent on
+## Owner reached fire-hit Delhi B&B, ‘stood for 15 mins’ before leaving: Eyewitness
+“I called Bajaj at 8:52am and spoke for 26 seconds. I told him the fire was massive. He said he knew. I asked him to come and then hung up,”
 
-## Broken lock, missed calls: DU professor found dead in east Delhi home; murder probe on
-The body has been sent to Lal Bahadur Shastri Hospital for post-mortem. Officials said the exact cause of death will be confirmed after the autopsy report.
+## Arunachal CM Khandu brushes aside China's territorial claims, repeated renaming of places: ‘We don’t give a damn'
+Khandu said that Beijing's claims were nothing new, while stating that China's frequent attempts to rename regions in Arunchal Pradesh were out of “habit”.
 
-## Water metro for Kolkata, separate shipping division likely: Bengal CM Suvendu Adhikari
-Suvendu Adhikari said Bengal was keen to strengthen maritime infrastructure and inland water transport and was examining structural reforms to boost the sector.
+## TDP to contest three out of four RS seats
+Telugu Desam Party to contest 3 out of 4 Rajya Sabha seats in Andhra Pradesh, leaving 1 seat for Jana Sena Party. Elections on June 18.
 
-## ‘Making lot of money with India’: Trump says trade deal with ‘good friend’ PM Modi coming
-Donald Trump said India previously imposed high tariffs on US goods but added that the situation had now reversed.
+## Shops gutted in Hyderabad commercial hub blaze
+Massive fire at Ameerpet shopping complex; no casualties reported. Firefighters control blaze at KSR Fashions showroom. Traffic affected.
 
-## ‘No Bhagwan songs, don’t go to temple’: Woman says she was shown Pakistani preacher's videos in TCS Nashik case
-The woman alleged that a married man sexually exploited her on the promise of marriage while encouraging her to move away from Hindu religious practices.
+## AP sacks cop accused of rape; manhunt on
+Andhra Pradesh police inspector dismissed for allegedly raping woman, absconding. Supreme Court denies anticipatory bail plea.
 
-## ‘India will resist such efforts’: Putin backs New Delhi amid ‘US pressure’ over Russian oil
-Vladimir Putin's remarks come at a time when the US is reconsidering a waiver that has allowed countries, including India, to continue purchasing Russian oil.
+## YSRCP launches stir against Andhra govt
+YSR Congress party launches campaign exposing alleged failures of Andhra Pradesh government in fulfilling election promises. Naidu marks two years in office, vows to fulfill aspirations.
 
-## Muddy site, worker's legs crushed, 3 bodies: What we know so far about Faridabad's deadly crane collapse
-The crane came crashing down onto a shipping container being used as a temporary site office and resting area for workers, officials said.
-
-## Man flees after allegedly strangling wife to death in Gurugram; manhunt underway
-The altercation ensued after the husband demanded to know who his wife was speaking to over the phone, information that she refused to reveal
-
-## Man accused of religious conversions in Rajasthan, assaulted by right-wing group
-The accused was taken into custody following alleged conversion activities in Alwar's Tanwar Colony
-
-## ‘We will get to a deal’: Trump predicts imminent breakthrough for US-India trade agreement after blasting past tariff policies
+## Video | Fire breaks out in Noida apartment complex
 
 
-## Mob in Uttar Pradesh attacks police team escorting the body of man killed in ‘encounter’
+## NIA court gives nod; Gujarat police to get custody of Surat bank heist ‘mastermind’ from Bihar jail
 
 
-## Among 21 who perished in South Delhi fire | ‘Can’t forget her screams’: TISS postgrad, new job, a life cut short
+## Zarin Shihab explains why Mohanlal’s tragic role in Patriot wasn’t a ‘betrayal’
 
 
-## Army chief General Upendra Dwivedi: Accelerating absorption of drones, better command systems
+## Karisma Kapoor, Soni Razdan shot for Brown around Ranbir-Alia wedding: ‘We became family’
 
 
-## Who will be held accountable for exam paper leaks? Don’t bet on it, records show most get away
+## Can mutual divorce be granted if spouses accuse each other of cruelty? Delhi High Court answers
 
 
-## 2018 terror conspiracy case: NIA court sentences 3 Kashmiri students to 10 years in jail, acquits one
+## Messi could have retired after the 2022 win, why is he back for a final fling?
 
 
-## 45 major paper leaks in 24 years, few top officials face action
+## Delhi Mayor gets bomb threat, email warned of ‘possible blasts’ in National Capital
 
 
-## Re-evaluation: CBSE delayed login after experts flagged gaps
+## Norway Chess: Gukesh, Magnus Carlsen in race to avoid last place on final day
 
+
+## Global Prosperity Summit 2026 showcases Hong Kong’s role in future-focused industries and global cooperation
+Hong Kong is embracing its growing role on the international stage in vital sectors driving global prosperity – a message highlighted at an annual gathering of international industry leaders, corporate executives and local policymakers who back the city’s upward momentum. The Global Prosperity Summi
 
 ## Hong Kong stocks struggle as mainland China markets ride AI wave
 Signs are omnipresent that mainland Chinese investors are rotating out of Hong Kong stocks and back to the onshore yuan-denominated market, as they recalibrate to add domestic exposure to the fervour surrounding the artificial intelligence buildout. Onshore investors sold a combined HK$3.6 billion (
@@ -152,9 +167,6 @@ Chinese artificial intelligence start-up DeepSeek took the top spot on a major U
 
 ## IPOs, expansion plans give China’s US$16 billion pet food sector paws for thought
 Home-grown and foreign pet business operators are bullish on China’s booming pet market this year, eyeing initial public offerings and localising supply chains, fuelled by young consumers’ growing interest in their animals’ health and wellness. Fubei, a major domestic pet food maker based in Shangha
-
-## Why China’s tighter grip on outbound capital may test Hong Kong’s housing rebound
-Beijing’s latest efforts to tighten oversight of cross-border capital flows have sparked concerns that a reduction in mainland demand for Hong Kong homes could impact the city’s recovering property market. The debate follows a series of measures unveiled in recent weeks, including tighter scrutiny o
 
 ## Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania
 Thousands call for Tirana to block the investment projects, citing environmental and corruption concerns.
@@ -180,6 +192,15 @@ What history can and cannot explain about today’s unraveling order.
 ## Estonia Has Lessons for Us All
 The small Baltic country has refashioned the relationship between citizens and the state for the current moment.
 
+## Did China Overestimate the Geopolitical Returns of Its Latin America Strategy?
+The assumption that economic leverage leads to political influence has underpinned China analysis for decades. Developments in Latin America are calling that into question.
+
+## Rising Security Risks Are Changing China’s Belt and Road Strategy
+Beijing is becoming more selective about where and what it builds overseas. That transition was already underway but it has been hastened by the Iran-U.S. war.
+
+## What Shangri-La 2026 Revealed About the Future Regional Order
+Like the CPTPP after the U.S. exit from TPP, the next phase of regional security may be shaped by what U.S. allies and partners build when Washington moves one step back.
+
 ## What India’s Latest Press Freedom Ranking Reveals About Its Democratic Trajectory
 The RSF’s score for India is significant not for the number itself, but for what that ranking reflects about deeper structural trends affecting journalism, media ownership, and democratic accountability.
 
@@ -194,15 +215,6 @@ The attack, which coincided with Prime Minister Shehbaz Sharif’s visit to Chin
 
 ## Russia’s Dual Afghan Strategy and Pakistan’s Shrinking Room for Maneuver
 Moscow's deepening relations with the Taliban hint at growing doubts about Pakistan as a counterterrorism partner.
-
-## Journalism and Fighting for Indigenous Rights in Myanmar
-Scott Johnson talks about drones and meeting Nerdah Bo Mya in Kawthoolei.
-
-## Major ASEAN Economies In Line For New US Tariffs Over Forced Labor
-U.S. Trade Representative Jamieson Greer has recommended the imposition 10-12.5 percent levies on 60 major trading partners.
-
-## To Lam’s Southeast Asia Visits Expand Vietnam’s ‘Neighborhood Bamboo Diplomacy’
-Hanoi's closer engagement with its ASEAN neighbors represents an enhancement of its flexible, omnidirectional foreign policy doctrine.
 
 ## Is Time on China’s Side? Beijing’s Taiwan Calculus and the Balance of Power
 When is the risk of war the highest? And what should the United States be doing about it? One of the most important but underappreciated questions in international politics is how states think about the future balance of power. Countries that believe their position is improving often choose patience
@@ -252,6 +264,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why Mogadishu clashes are deepening Somalia’s political crisis again
+Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.
+
+## Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes
+Israel's supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.
+
+## Democrat fails to block US measure to deepen Israel military cooperation
+Congressman Ro Khanna says the integration push only boosts Netanyahu, but his push to revoke the measure fell short.
+
 ## Ivory Coast beats France in World Cup warning to one of the favourites
 Ivory Coast defeats France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.
 
@@ -267,14 +288,8 @@ Al Jazeera’s Hala Al Shami explains why US officials are invested in Colombia'
 ## Lebanon latest: Hezbollah rejects US plan as Israel continues attacks
 Al Jazeera’s Obaida Hitto has the latest from Lebanon where a new diplomatic push has done little to quell violence.
 
-## Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon
-Hezbollah has condemned a US-brokered ceasefire framework accepted by Israel and Lebanon
-
-## US defence secretary compares Bolivia protests to government ‘overthrow’
-The Trump administration has supported Bolivian President Rodrigo Paz after his electoral victory over left-wing MAS.
-
-## What is the UK’s ‘two-tier policing’ debate?
-The murder of Henry Nowak has sparked a political storm in the UK, with renewed claims of ‘two-tier policing’.
+## Rajesh Exports: All that glitters is not gold
+Rajesh Exports, a listed entity is in the eye of the storm after the Securities and Exchange Board of India (SEBI), in its 109-page interim order, stated that 97% to 99% of the nearly Rs 15 lakh crore revenue reported by the company was "inflated, egregious, and unheard of." The obvious question is:
 
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
@@ -296,9 +311,6 @@ Exposure draft lays foundation for sustainability assurance standards, outlining
 
 ## MCA brings Social Stock Exchange instruments under CSR ambit, permits 10% allocation
 Subscription to zero coupon zero principal instruments recognised as an eligible CSR activity; companies subscribing through the route get impact assessment exemption.
-
-## At Big 4 firms, AI is starting to reshape the tax profession
-Major accounting firms in India are embracing artificial intelligence for tax services. AI is automating routine tasks, research, and drafting, allowing consultants to focus on complex interpretations and client strategy. This shift is significantly increasing efficiency and changing traditional con
 
 ## Parliamentary Finance panel concerned over slow private investment despite substantial surge in public capex
 Parliamentary panel on finance raises concern over private investment not keeping pace with government capex, with Standing Committee on Finance Chairman Bhartruhari Mahtab on Thursday saying the issue remains a key challenge for the Indian economy even as public capital expenditure continues to ris
