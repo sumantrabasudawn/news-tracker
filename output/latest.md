@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties
+General counsel resigned after revelations about relationship with disgraced financier but now will stay on as adviser
+
+## SpaceX signs $30bn deal to lease computing capacity to Google
+Agreement comes ahead of a record-breaking initial public offering for Elon Musk’s rockets-to-AI conglomerate
+
+## Number 10 hits out at people stoking ‘division’ after JD Vance’s claims about Nowak case
+Downing Street criticises those trying to ‘interfere’ in UK democracy
+
 ## Nasdaq tumbles 4% as shares in chip and memory groups sink
 Rising expectations of a Federal Reserve rate increase send US bond yields rising sharply
 
@@ -15,26 +24,11 @@ World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘t
 ## European airlines sit on €3.2bn in unpaid delay compensation
 FT calculations show just a fraction of €18bn due since 2011 has been paid out
 
-## Parents force Starmer into embracing social media ban
-Prime minister set to announce restrictions this month despite previous opposition
-
-## Burnham aims to boost social housing if he becomes prime minister
-Labour leadership hopeful sees way to funnel billions of pounds into sector while adhering to party’s fiscal rules
-
-## UK ministers consider lowering university fees for EU students
-Concession would sweeten deal as Starmer looks to get British companies under EU’s ‘economic security’ umbrella
-
 ## Meta weighs big equity raising after blockbuster Google deal
 Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure
 
 ## The ethical dilemmas of AI
 How we address the revolution is a question of how we manage its uncertainties
-
-## Raspberry Pi surges as investors bet on hardware linked to AI boom
-UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
-
-## Could you be the FT’s new stock picking champion?
-Register your portfolio now — the 8-week competition starts on 9 June
 
 ## RBI keeps repo rate unchanged at 5.25%, policy stance neutral
 The RBI upped the FY27 retail inflation projection 5.1 per cent (earlier projection: 4.6 per cent) and cut the real GDP growth projection to 6.6 per cent (6.9 per cent)
@@ -60,6 +54,15 @@ Modi said that India achieved a 7.7% growth rate in FY26, with a 7.8% expansion 
 ## Blackstone-backed AirTrunk to invest ₹3 lakh crore and over 5GW in India’s digital infrastructure
 The investment will drive cloud and AI growth, positioning India as a key market in AirTrunk’s global strategy, according to a press release
 
+## GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%
+India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momen
+
+## Retract charges or pay Rs 1,000cr: Tata Trusts
+
+
+## Bulk deposit pricing to be more transparent, flexible
+The Reserve Bank of India is introducing new rules for bank deposit interest rates. Banks must now publish their interest rate schedules online each morning and stick to them throughout the day. This ensures customers know the exact rates available. Additionally, banks can now consider withdrawal ri
+
 ## Government ready to take more measures to insulate economy
 The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced
 
@@ -75,14 +78,8 @@ Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, 
 ## RBI cuts growth, hikes inflation forecast as West Asia crisis bites
 The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.
 
-## Trump immigration push: US Treasury asks banks to flag suspicious transactions linked to illegal migrants
-
-
-## India's FPI debt inflows reached 62% of cumulative equity at $95.5 billion since FY99; $19.3 billion since FY25: Report
-Foreign investors are increasingly favoring India's debt market, with FPI debt inflows comprising a significant portion of overall foreign capital. This trend is boosted by global bond index inclusion and easier access routes. With attractive real yields and a stable currency outlook, India is poise
-
-## Lower fuel and vehicle costs key to driving ethanol demand: Experts
-
+## US court strikes down Trump's immigration freeze affecting 39 countries: Will India be impacted?
+The measures placed a blanket pause on immigration benefits for affected applicants, affecting asylum claims, work authorisations, green cards, etc.
 
 ## No relaxation in 75% class 12 marks rule for IIT admissions, says Joint Admission Board
 The demands were made in the wake of growing concerns among students over the delay in re-evaluation process of CBSE exams.
@@ -104,9 +101,6 @@ Vijay Sinha said, “Make Bihar so healthy that there would be no need for medic
 
 ## Assam cabinet approves dearness allowance hike, raises it to 60%: CM Sarma
 The decision was taken at the first cabinet meeting following its expansion with the inclusion of 12 new ministers, 11 from the Bharatiya Janata Party (BJP) and one from the Asom Gana Parishad (AGP)
-
-## Abhishek Banerjee retains his spot in TMC rejig, flanked by Mamata loyalists
-TMC parliamentary leader in the Rajya Sabha Derek O’Brien and RS member Dola Sen have been appointed national joint secretaries to assist Abhishek Banerjee
 
 ## Low magnesium levels: 3 signs that may indicate a deficiency
 
@@ -156,6 +150,12 @@ The artificial intelligence frenzy has made Zhongji Innolight, a supplier of opt
 ## Inside Labuan IBFC, the Malaysian centre built for cross-border finance
 Cross-border finance is becoming more complex, not less. Businesses operating across jurisdictions are dealing with tighter regulation and more pressure to demonstrate transparency across markets, raising the bar for the international financial centres they use. This shift helps explain why global b
 
+## The U.S. Economy Is Proving Remarkably Resilient
+Even in the face of tariffs and an energy crisis, the jobs report shows an economy that’s still humming.
+
+## Zelensky’s Pen Pal Diplomacy
+Zelensky offers in-person peace talks in a rare open letter to Putin. Moscow isn’t interested.
+
 ## Maggie O’Farrell’s Most Ambitious Novel Yet
 Plus, a Venezuelan thriller in translation.
 
@@ -173,12 +173,6 @@ Test yourself on the week of May 30: Malta votes, Japan responds to militarism a
 
 ## Myanmar’s Military Isn’t Conceding Much
 Prisoner releases mostly reflect the regime’s growing confidence five years after seizing power in a coup.
-
-## Sleeping in Mexico, Playing in America
-The journey of Iran’s World Cup team sets a dangerous precedent for international soccer.
-
-## Does the United States Have the Weapons for Trade War?
-Economic strategists are pitching tougher policies for an anxious world.
 
 ## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
 Why Seoul picked the PPP incumbent yet again, and what it means for the city.
@@ -252,6 +246,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
+Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.
+
 ## Iran footballers issued US visas for World Cup, says White House
 Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.
 
@@ -272,9 +269,6 @@ French activists who took part in a Gaza-bound foreign aid flotilla accuse Israe
 
 ## Families clear rubble after overnight Israeli strikes in Gaza
 Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli strikes in Gaza
-
-## Anthropic urges AI labs to pause, warns humans risk losing control
-It warned that rapid advances in technology could soon allow AI systems to improve themselves faster than human control.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
