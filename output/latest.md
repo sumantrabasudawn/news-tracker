@@ -1,67 +1,85 @@
 # AION Intelligence
 
+## FirstFT: SpaceX lines up retail investors for record IPO allocation
+Also in today’s newsletter: Mythos at NSA and PwC partner payouts
+
+## The Musk exception on banking fees for SpaceX
+Most companies are still likely to pay full price on smaller US deals as a prestige good
+
+## My returns have been exponential — no, seriously!
+The speed at which my portfolio is rising in value is ridiculous
+
+## Separating Manchester’s truth from the legend
+City’s success was built on a consistent and credible story that was sold by Andy Burnham — but delivery matters too
+
 ## India scraps capital gains tax for foreign bond buyers to shore up rupee
 Central bank holds interest rates despite pressure on currency from foreign outflows and war in Iran
 
-## SpaceX won’t make the S&P500
+## SpaceX won’t make the S&P 500
 Choose your index wisely
 
 ## Ireland’s Phil Hogan eyes European return with bid for top UN food job
 Also in this newsletter: Denmark eyes closer EU bonds
 
-## FirstFT: SpaceX lines up retail investors for record IPO allocation
-Also in today’s newsletter: Mythos at NSA and PwC partner payouts
-
-## Burnham looks at how to boost infrastructure spending within fiscal rules
-Greater Manchester mayor discusses proposal from economist Jim O’Neill to create independent body to assess new projects
-
 ## Wall Street’s red carpet for SpaceX
 Banks and stock exchanges have bent over backwards for the historic IPO of Elon Musk’s rocket company
 
-## Is Trump’s aura of invincibility fading?
-Setbacks to the US president’s landmark policies hint at limits being placed on his agenda
+## Raspberry Pi surges as investors bet on hardware linked to AI boom
+UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
 
-## Inside the CBS mutiny against Bari Weiss and David Ellison
-A saga that started with Donald Trump’s assault on ‘60 Minutes’ has turned into a full-blown crisis
+## BBC director-general Matt Brittin: ‘It’s worth fighting for’
+The former Google executive on the challenges facing the public service broadcaster, his plans to cut 2,000 jobs — and what impartiality means in a polarised world
+
+## Quinn Emanuel raises pay for junior lawyers in London to £189,000
+Salary increase signals elite law firms are on cusp of fresh pay war as competition intensifies
+
+## Apollo drops £1.5bn bid for London-listed Bodycote
+US private equity group will be restricted from making another offer for components maker in coming months
 
 ## William Hill owner agrees to £243mn offer from gaming group Bally’s Intralot
 Evoke put itself up for sale after taking hit from steep UK tax rises
 
-## Apollo drops £1.5bn bid for London-listed Bodycote
-US private equity group says it may make another offer for components maker in coming months
-
 ## The CPG blues
 Bad luck and bad decisions in consumer products
 
-## Heineken investors push struggling brewer to hire outsider as chief
-Family behind Dutch group under pressure to ditch custom of promoting from within as CEO search drags on
+## Protecting India’s seed sovereignty
+Over 10,500 plant varieties registered under PPV&FRA, including over 5,250 farmers’ varieties, 3,118 private-sector breeder varieties and 2,164 public-sector varieties
 
-## How much value is AI really creating?
-Eye-opening changes to the speed and volume of work are not always translating into genuine productivity
+## Forex reserve at healthy $682 billion, adequate to provide import cover for 11 months: RBI Guv
+“As of May 29, 2026, India’s foreign exchange reserves were $682.3 billion, sufficient for 11 months of imports and covering 89.1% of external debt,” he said
 
-## Sensex today | Stock Market Live: Markets turn weak post RBI pause; Sensex down 244 pts, Nifty below 23,350
-Sensex, Nifty, Stock Price Live Updates: Indian equities traded lower at mid-session after the RBI kept the repo rate unchanged at 5.25%. Weakness in rate-sensitive stocks and rising crude oil prices weighed on sentiment, despite strong stock-specific momentum in select counters.
+## Estro Tech Robotics raises ₹1 crore seed round led by Genrobotics Innovations
+The investment initiates a strategic collaboration that merges Genrobotics’ advanced robotics and tech commercialization with Estro Tech’s AIoT, automation, and intelligent systems expertise
 
-## RBI MPC Meeting 2026 LIVE: Repo rate unchanged at 5.25%, policy stance neutral; 5 measures to attract dollars
-The Reserve Bank of India has revised its GDP growth projection down to 6.6% and raised retail inflation forecast to 5.1% amid global uncertainties and elevated energy prices.
+## FY26 GDP growth beats estimates to reach 7.7%
+Q4 growth at 7.8%; real GDP crosses ₹323 lakh crore mark
 
-## RBI keeps repo rate unchanged at 5.25%, announces forex measures to attract dollars
-RBI revises real GDP projection downward to 6.6% from 6.9% and ups retail inflation projection to 5.1% from 4.6% for FY27
+## Rajesh Exports’ ‘gilded’ accounts
+SEBI exposes a multi-layered deception that went undetected by the auditors, institutional investors
 
-## Storage in India’s 166 key reservoirs falls below 30% of overall capacity
-Four of five dams in the country are half-empty as monsoon makes landfall three days late
+## India to surpass China in share of global GDP by 2060: Report
+A new report suggests that India’s growing economy will surpass China’s global GDP share by 2060 due to declining population and economic contributions from China, signaling a shift in 21st-century economic power dynamics
 
-## Gold futures drop to ₹1,58,011/10g
-Analysts attribute fall to weak global cues
+## Rupee rises 81 paise to close at 94.93 against US dollar post RBI policy decision
+In the interbank forex market, the rupee opened at 95.72, reached a high of 94.89, and closed at 94.93, up 81 paise from its previous close
 
-## Anthropic issues big AI warning, calls for slowing down development of models
-Just to show the scale of how fast AI is developing itself, the company said that Anthropic engineers, on an average, are shipping 8x as much code per quarter as they did from 2021-2025
+## Sensex today | Stock Market Highlights: Sensex ends 117 pts lower at 74,243; Nifty slips 50 pts to 23,367
+Sensex, Nifty, Stock Price Highlights: The benchmark BSE Sensex fell 0.16% to ​74,243.34, while the broader NSE Nifty ‌50 index declined 0.21% to 23,366.7, ​after the Reserve ⁠Bank of India's widely expected rate pause, as investors assessed the central ‌bank's measures to support the rupee against 
 
-## Silver futures fall to ₹2.5 lakh/kg
-Analysts say sell-off by participants mainly weighed on silver prices
+## India leads among immigrant founders of US billion-dollar startups
 
-## Annamalai resigns from BJP, to launch new political movement and contest elections
-The BJP National President Nitin Nabin on Friday accepted the resignation
+
+## India set to overtake China in share of world GDP by 2060, report says
+India is projected to overtake China in global GDP share by 2060, as China's economic contribution is expected to stabilize and decline. This shift is driven by China's rapidly falling population share, contrasting with India's trajectory. The report also notes significant inequality differences bet
+
+## Will India finally get plastic banknotes? RBI's polymer currency plan explained
+The Reserve Bank of India is considering introducing polymer currency notes, a move that could enhance durability and security. Governor Sanjay Malhotra stated the proposal is in its preliminary stages, with the central bank examining its advantages and disadvantages. This initiative aims to address
+
+## Gold exchange boom: Old jewellery swaps rise up to 60% as record prices reshape buying habits
+Soaring gold prices are driving a surge in old gold exchanges at jewellery stores, now comprising nearly half of sales for major chains. Consumers are leveraging existing jewellery to fund new purchases, a trend amplified by increased import duties and government calls to curb non-essential buying.
+
+## 'Will reach $100bn in mutual trade': Putin calls India 'reliable partner', hails PM Modi's leadership
+Russian President Vladimir Putin expressed confidence that bilateral trade with India will reach $100 billion in the coming years, citing growing cooperation in energy, investments, and strategic sectors. He highlighted India's impressive economic growth and described New Delhi as a reliable partner
 
 ## Rupee rallies strongly after RBI announces new measures to attract foreign investors amid Middle East conflict
 Currency market participants said investor confidence improved following the RBI's policy announcements, particularly after the central bank emphasised that India's foreign exchange reserves remain strong enough to cushion the economy against external disruptions.
@@ -72,68 +90,62 @@ The move is aimed at making Indian debt markets more attractive to overseas inve
 ## Strengthening forex reserves amid US-Iran war: RBI announces 5 measures to attract foreign capital - check details
 The situation assumes significance as the US-Iran conflict has led to rising global crude oil and energy prices, putting pressure on India’s balance of payments and current account deficit as the import bill goes up.
 
-## Gold price prediction: What's the outlook for gold prices on June 5, 2026 & what should investors do?
-Gold price prediction today: Gold prices seem to be exhibiting weak intraday bias, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities. He recommends a sell on rise strategy.
+## 19-year-old Ugandan tourist placed in Jaipur hospital isolation ward: Officials
+A 19-year-old Ugandan tourist has been isolated in Jaipur after showing Ebola-like symptoms, with samples sent to Pune for testing and contact tracing underway.
 
-## Top stocks to buy today: Stock recommendations for June 5, 2026 - check list
-Stock market recommendations: Power Finance Corporation (PFC), and Aequs have been recommended as the top stocks to buy today, June 5, 2026 by Bajaj Broking Research.
+## TMC's Firhad Hakim resigns as Kolkata mayor as Mamata's party spirals into chaos
+TMC's Firhad Hakim resigns as Kolkata mayor as Mamata's party spirals into chaos
 
-## Stock Market Live Updates Today: BSE Sensex opens over 200 points up, Nifty50 above 23,450 ahead of RBI monetary policy
+## Phone calls, prayers, and a Kalighat meeting: Mamata fights to keep TMC hers
+Her outreach is not confined to assembly; TMC has 28 members in Lok Sabha, 13 in Rajya Sabha, and revolt could spread to its parliamentary ranks too
 
+## Tripura: Amit Shah vows to prevent demographic change
+Union home minister Amit Shah said a pilot “smart border” project will be implemented at seven to eight places in the country
 
-## Oil prices today: Crude falls as Hezbollah rejects US-backed ceasefire, traders assess conflict risks
-Oil prices saw a slight dip Friday as Middle East ceasefire hopes dimmed after Hezbollah rejected a US-backed proposal. Despite this, benchmarks are set for their first weekly gain in three weeks, buoyed by ongoing regional tensions and Strait of Hormuz disruptions. Conflicting signals from the regi
+## Trouble for Mamata Banerjee as TMC rebel Ritabrata Banerjee claims more support
+Ritabrata Banerjee said that he hasn’t spoken to any parliamentarian in the last seven days and, therefore, does not know what they will do.
 
-## Gold, Silver Rate Today Live Updates: Gold prices set for weekly fall as crude oil prices remain elevated, US-Iran conflict uncertainty continues
+## Mamata Banerjee anticipated TMC crisis, say leaders as more members quit
+As more MLAs and councillors quit the TMC, party insiders say Mamata Banerjee anticipated the crisis but failed to prevent it.
 
+## IIT denies JEE-Advanced data breach claim: 'Minimal, temporary misconfiguration’
+Says tech interventions were carried out to ensure smooth functioning of registration process, which led to issue that was reported by a hacker and rectified
 
-## TISS postgraduate Shrutika Baranwal dies in Delhi fire tragedy, chilling screams heard in last call
-Shrutika Baranwal was among the 21 people killed on Wednesday in the massive fire that tore through a BnB facility in south Delhi's Malviya Nagar.
+## When will monsoon arrive in Delhi? IMD's latest forecast says this
+Delhi may get monsoon between June 25-30. Same timeline projected for Noida, Gurugram, Ghaziabad; northern states like Punjab, Haryana fall in bracket too.
 
-## B&B owner held in fire case was arrested for helping Bangladeshis get Indian docs
-Police said Lovkesh Bajaj allowed a Bangladeshi woman, her daughter, and grandson to use his address to obtain documents for illegal stay in India
-
-## ‘Views do not align regarding Tamil Nadu’: K Annamalai’s letter after quitting BJP
-K Annamalai, who quit the BJP on Friday, said his goals are bigger and that he would launch a new political party with an inclusive agenda and fight the next polls in Tamil Nadu
-
-## Another armyman's proposal goes viral amid row over captain, his partner
-The clip, shows an Army personnel proposing to a woman dressed in a blue saree.
-
-## Samastha cites Islamic ruling amid debate over IUML MLA lighting nilavilakku
-Samastha cites Islamic ruling amid debate over IUML MLA lighting nilavilakku
-
-## CJP protest: No urgent Delhi HC hearing in NGO’s ‘threat to public safety’ plea
-The counsel for ‘Save India Foundation’ mentioned the plea for urgent hearing before a vacation bench of Justices Saurabh Banerjee and Amit Sharma
-
-## Punjab man stabs ex in office, tries to kill himself; horror caught on CCTV
-Mohali stabbing: The gruesome incident was captured on a CCTV camera installed inside the office.
-
-## 'Beauty to be destroyed': Rahul Gandhi reiterates concern over Greater Nicobar Project
-Rahul Gandhi recounted his visit to the Nicobar region, where he said he observed pristine forests, coral ecosystems, and spoke to local residents.
-
-## How DK Shivakumar rose to power in Rahul Gandhi’s Congress
+## Beyond the Rasgulla war: Why this secret ‘sun-dried’ ingredient makes Odia cuisine better than you think
 
 
-## Private school teachers entitled to Child Care Leave at par with government ones, rules Delhi High Court
+## I was in the undivided Shiv Sena. I know what ‘ShahNeeti’ is doing to TMC
 
 
-## Annamalai LIVE Updates: After BJP exit, K Annamalai unveils plan for new political party in Tamil Nadu
+## Maharashtra hit by heatwave in May, delayed monsoon arrival; state-wide dam water level drops to 27%
 
 
-## Apple announces Poke as its 1st AI agent on Messages for Business platform
+## IIT Delhi signs MoUs with 18 NITs to introduce ALIGN for academic and research collaboration
 
 
-## Congress’s Ramalinga Reddy quits Shivakumar cabinet. Why Bengaluru ministry is so important
+## Rati Agnihotri recalls hardships on Ek Duuje Ke Liye sets: ‘We had blisters on our feet’
 
 
-## Fit at enrolment, diabetic after 27-year service: Court upholds Army veteran’s disability pension
+## Google launches Search Profiles to help creators and publishers showcase content
 
 
-## Cancer drug shortage: ‘I spent a day hopping stores,’ says patient scrambling for life-saving chemo drugs
+## After 27 deaths in a week, MCD cracks down on illegal buildings
 
 
-## Plastic currency notes in India soon, says RBI, as cash sees a surge
+## Towels, running shower, ‘how to’ video helped Nigerian couple escape Delhi fire
 
+
+## Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds
+Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from private issuers. The Hong Kong Monetary Authority (HKMA) said on Friday it had 
+
+## China sees revival of foreign investors through IPOs, convertibles: UBS
+Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chin
+
+## Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules
+Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having 
 
 ## AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark
 The artificial intelligence frenzy has made Zhongji Innolight, a supplier of optical modules to US hyperscalers, the biggest constituent of China’s stock benchmark, highlighting AI’s profound impact on the world’s second-largest equity market. The northern Shandong province-based company had a 5 per
@@ -150,14 +162,11 @@ Hong Kong is embracing its growing role on the international stage in vital sect
 ## Hong Kong stocks struggle as mainland China markets ride AI wave
 Signs are omnipresent that mainland Chinese investors are rotating out of Hong Kong stocks and back to the onshore yuan-denominated market, as they recalibrate to add domestic exposure to the fervour surrounding the artificial intelligence buildout. Onshore investors sold a combined HK$3.6 billion (
 
-## AI isn’t just a compute race. It’s a data race – and storage will decide the winners, WD shares
-[The content of this article has been produced by our advertising partner.] For years, the industry has framed AI as a compute problem: more GPUs, denser clusters, faster interconnects. That framing is now incomplete. At scale, AI is fundamentally a data system. Every training run, every inference, 
+## Washington Is Testing Singapore’s Patience
+Donald Trump is working hard to alienate yet another strategic partner.
 
-## Chinese carmakers BYD, Chery chart 80% growth overseas as EV demand spikes
-Leading Chinese carmakers like BYD and Chery Automobile are reaping rewards from their efforts to boost sales abroad, as they chase higher profitability amid rising demand for electric vehicles (EVs). Chery, which spearheaded the go-global drive among mainland China’s automotive groups and is the co
-
-## CLP director Betty Yuen sells Mid-Levels flat as Hong Kong luxury market improves
-Betty Yuen So Siu-mai, a non-executive director of Hong Kong power company CLP Holdings, has sold a luxury flat at Mid-Levels, joining a growing number of prominent owners taking advantage of improved market sentiment to dispose of high-end properties. Yuen sold a 1,943 sq ft home on the 11th floor 
+## Everyone Is Waiting for Trump’s Gaza Plan to Die
+The Board of Peace has been revealed to be so flawed as to be completely unworkable.
 
 ## To Fix Haiti, Look to Colombia
 An example—albeit an imperfect one—of how to achieve a lasting peace.
@@ -177,35 +186,29 @@ The U.S. blockade on the island is unprecedented—and could lead to prolonged u
 ## China Is Too Big for Shangri-La
 Snubbing a key security forum shows Beijing’s new confidence.
 
-## Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
-The new import duties are “a solution in search of a problem.”
+## Myanmar’s Military Is Turning to Russia to Revive Its Stalled Cyber Dream
+Could the stalled Yatarnapon Cyber City project be set for an injection of Russian assistance?
 
-## Are We Reliving the 1890s, 1930s, or 1950s?
-What history can and cannot explain about today’s unraveling order.
+## US Forced Labor Ruling Does Not Reflect Vietnam’s Efforts, Govt Says
+Hanoi is now the subject of three separate U.S. trade probes, which will likely introduce new areas of tension into ongoing trade talks.
+
+## Fixing AI in Conflict
+We already have the tools.
+
+## How Government Inaction Turned Sumatra’s Rains Into a National Catastrophe
+The Indonesian political system has enabled deforestation through weak oversight, opaque licensing, and regulations designed to favor extractive industries.
+
+## Indonesia’s Free Meal Program to Target ‘Efficiency’ After Arrest of Former Head
+The program has come under scrutiny for its implementation and high cost, which is set to total nearly $15 billion in 2026.
+
+## How Myanmar Fits Into India’s Troubled Neighborhood Policy
+Min Aung Hlaing’s visit to India may help Delhi seal deals with the military-backed government. But it has angered pro-democracy forces in Myanmar.
 
 ## Did China Overestimate the Geopolitical Returns of Its Latin America Strategy?
 The assumption that economic leverage leads to political influence has underpinned China analysis for decades. Developments in Latin America are calling that into question.
 
 ## Rising Security Risks Are Changing China’s Belt and Road Strategy
 Beijing is becoming more selective about where and what it builds overseas. That transition was already underway but it has been hastened by the Iran-U.S. war.
-
-## What Shangri-La 2026 Revealed About the Future Regional Order
-Like the CPTPP after the U.S. exit from TPP, the next phase of regional security may be shaped by what U.S. allies and partners build when Washington moves one step back.
-
-## What India’s Latest Press Freedom Ranking Reveals About Its Democratic Trajectory
-The RSF’s score for India is significant not for the number itself, but for what that ranking reflects about deeper structural trends affecting journalism, media ownership, and democratic accountability.
-
-## Trilateral Dynamics: China’s Strategy to Test US Restraint of Japan
-Takaichi’s overwhelming victory during the February election suggests China’s coercive approach might be counterproductive. But Beijing’s tactics are not aimed only at the bilateral relationship.
-
-## China, India, and the Emerging Green Divide
-Clean technology has become embedded within a wider geopolitical contest over industrial leadership, technological sovereignty, and influence in the world, especially in the Global South.
-
-## Quetta Train Bombing Points to Escalating Insurgent Violence in Balochistan
-The attack, which coincided with Prime Minister Shehbaz Sharif’s visit to China, was aimed at sending China a message that its investments in Balochistan are not safe.
-
-## Russia’s Dual Afghan Strategy and Pakistan’s Shrinking Room for Maneuver
-Moscow's deepening relations with the Taliban hint at growing doubts about Pakistan as a counterterrorism partner.
 
 ## The Pentagon’s AI Edge Is Being Distilled Away
 Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In this new context, military predominance i
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN envoys call on Trump to stop Israeli annexation
-UN envoys call on Trump to stop Israeli annexation
+## US-Iran war pushing millions into food crisis, warns UN
+WFP warns that the war is causing substantial increases in food prices in a number of countries.
 
-## China’s Xi headed to North Korea in bid to shore up ties
-The Chinese leader's visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia.
+## Ranking the World Cup 2026 groups: Which teams are favourites to progress?
+The first stage of the 2026 World Cup 2026 features 12 groups. We've ranked them and picked the favourites to advance.
 
-## Kushner Island? Why a planned resort has provoked protests in Albania
-Government hopes the project can boost Albania as a global tourism destination - but environmental concerns are rife.
+## IAEA brokers Ukraine ceasefire to allow nuclear plant repairs
+Concerns over the safety of the Zaporizhzhia plant, Europe's largest, have been rife throughout Russia's war on Ukraine.
 
-## ‘We are fighters’: Iraq aim to shock rivals at 2026 World Cup
-Coach Graham Arnold and two key players speak to Al Jazeera ahead of Iraq's first World Cup appearance since 1986.
+## Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?
+Russia and Ukraine have been holding peace talks since the war began in 2022, but with no concrete outcome.
 
-## Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues
-Israel strikes Lebanon despite ceasefire, while Hezbollah rejects deal as death toll tops 3,500.
+## How the world failed a mother’s children, killed in Israeli strikes on Gaza
+How the world failed a mother’s children, killed in Israeli strikes on Gaza
 
-## Pakistan’s Lyari defies Bollywood’s gangland label to rise as boxing haven
-Food, football and history mingle in Karachi's oldest settlement. And a boxing coach teaches girls to defy stereotypes.
+## Thousands protest in Albania over Kushner-linked resort project
+Thousands protest in Albania over Kushner-linked resort project.
 
-## Why Mogadishu clashes are deepening Somalia’s political crisis again
-Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.
+## US visa rejections, war on Iran keep fans away from World Cup
+High visa application fees, equally high rejection rates, an unwelcoming America, and the war combine to deter fans.
 
-## Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes
-Israel's supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.
+## FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more
+Al Jazeera breaks down the key talking points ahead of the FIFA World Cup 2026 which kicks off next week.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
@@ -303,6 +306,9 @@ The prolonged conflict in the Middle East has emerged more as a price shock than
 ## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
 Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
 
+## India scraps capital gains tax on foreign investors in government debt to support rupee
+India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
+
 ## Rupee inches up, defies Asian peers; caution prevails before RBI policy
 The Indian rupee strengthened today, moving against weaker Asian markets. This rise occurred before a key Reserve Bank of India policy announcement. Markets are watching closely for any interest rate changes. Economists generally do not expect a hike. The central bank faces challenges attracting cap
 
@@ -320,7 +326,4 @@ The Reserve Bank of India (RBI) is likely to maintain status quo on interest rat
 
 ## SBI chairman Shetty sees MPC’s repo rate pause ‘appropriate’ at this juncture: Report
 SBI Chairman CS Setty anticipates the Monetary Policy Committee will pause interest rates this week. This aligns with market expectations as economic growth and inflation dynamics support the decision. While a pause is expected now, some economists foresee rate hikes later. Investors await the RBI's
-
-## RBI to conduct Rs 50,000 cr 2-day variable rate repo auction on Jun 3
-The Reserve Bank of India will conduct a two-day variable rate repo auction worth Rs 50,000 crore on June 3. This move aims to manage liquidity in the banking system. The auction will occur between 9:30 am and 10 am. Funds will be reversed on June 5.
 
