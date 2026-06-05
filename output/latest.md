@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## FirstFT: SpaceX lines up retail investors for record IPO allocation
-Also in today’s newsletter: Mythos at NSA and PwC partner payouts
+## ‘Staggering’ Irish slump pushes Eurozone economy into reverse
+Economists say Ireland’s GDP ‘impossible’ to predict because of cross-border flows from multinationals
 
-## The Musk exception on banking fees for SpaceX
-Most companies are still likely to pay full price on smaller US deals as a prestige good
+## Chip sell-off threatens Wall Street’s winning streak
+Tech stocks suffer two-day decline following disappointing results from semiconductor giant Broadcom
 
-## My returns have been exponential — no, seriously!
-The speed at which my portfolio is rising in value is ridiculous
+## US economy blew past expectations to add 172,000 jobs in May
+Traders bet the Fed will have to raise rates by December
 
-## Separating Manchester’s truth from the legend
-City’s success was built on a consistent and credible story that was sold by Andy Burnham — but delivery matters too
+## Pugilistic Florida billionaire plots law firm stake sale to private equity
+Move by largest US personal injury firm could cement buyout groups’ arrival in a sector that has long been off-limits
 
-## India scraps capital gains tax for foreign bond buyers to shore up rupee
+## Bumper US non-farm payrolls in May confirm Fed rate cuts are off the table
+Job gains were twice what was expected in May and unemployment rate was unchanged
+
+## India exempts foreign investors from tax on bonds to shore up rupee
 Central bank holds interest rates despite pressure on currency from foreign outflows and war in Iran
 
-## SpaceX won’t make the S&P 500
-Choose your index wisely
+## The Nowak murder: when tragedy meets politics
+Plus, Burnham backs electoral reform
 
-## Ireland’s Phil Hogan eyes European return with bid for top UN food job
-Also in this newsletter: Denmark eyes closer EU bonds
+## The avoidable tragedy of Henry Nowak
+This case resonates because it plays into two sets of public fears
 
-## Wall Street’s red carpet for SpaceX
-Banks and stock exchanges have bent over backwards for the historic IPO of Elon Musk’s rocket company
+## Musk’s SpaceX lines up retail investors for record IPO allocation
+Up to a quarter of the rocket builder’s $75bn float will be set aside for individual investors
+
+## UK retail investor demand for SpaceX surges to tens of thousands
+More than 30,000 small investors register interest in hotly awaited IPO
 
 ## Raspberry Pi surges as investors bet on hardware linked to AI boom
 UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
@@ -33,110 +39,116 @@ The former Google executive on the challenges facing the public service broadcas
 ## Quinn Emanuel raises pay for junior lawyers in London to £189,000
 Salary increase signals elite law firms are on cusp of fresh pay war as competition intensifies
 
+## FirstFT: SpaceX lines up retail investors for record IPO allocation
+Also in today’s newsletter: Mythos at NSA and PwC partner payouts
+
+## The Musk exception on banking fees for SpaceX
+Most companies are still likely to pay full price on smaller US deals as a prestige good
+
 ## Apollo drops £1.5bn bid for London-listed Bodycote
 US private equity group will be restricted from making another offer for components maker in coming months
 
-## William Hill owner agrees to £243mn offer from gaming group Bally’s Intralot
-Evoke put itself up for sale after taking hit from steep UK tax rises
+## Nominal GDP to beat budget estimates of 10.1% in FY27: CEA Nageswaran
+Even if the growth were to slip below 7 per cent as the RBI forecast suggests… macro stability measures and supply assurances will bring us back to a 7 per cent plus growth track in FY28, says CEA
 
-## The CPG blues
-Bad luck and bad decisions in consumer products
+## Rajesh Exports plunges another 5% despite rejecting ‘scam’ allegations
+Alleged ₹15.15 lakh crore financial misrepresentation sparks market panic; investors scrutinise institutional giants, including LIC
 
-## Protecting India’s seed sovereignty
-Over 10,500 plant varieties registered under PPV&FRA, including over 5,250 farmers’ varieties, 3,118 private-sector breeder varieties and 2,164 public-sector varieties
+## Congress seeks answers from govt over alleged ₹15.15 lakh-crore revenue misrepresentation at Rajesh Exports
+The party also sought clarification on whether any complaints, whistleblower inputs or regulatory red flags relating to the company had been brought to the government’s attention before SEBI launched its investigation.
 
-## Forex reserve at healthy $682 billion, adequate to provide import cover for 11 months: RBI Guv
-“As of May 29, 2026, India’s foreign exchange reserves were $682.3 billion, sufficient for 11 months of imports and covering 89.1% of external debt,” he said
+## Tata Trusts denies 1989 share transfer allegations, plans legal action
+Tata Trusts rejects the allegations as baseless and plans legal action to protect its reputation.
 
-## Estro Tech Robotics raises ₹1 crore seed round led by Genrobotics Innovations
-The investment initiates a strategic collaboration that merges Genrobotics’ advanced robotics and tech commercialization with Estro Tech’s AIoT, automation, and intelligent systems expertise
+## TVS HLX crosses 5 million in global sales
+Strengthens leadership across Africa, the Middle East and Latin America with presence in 57+ countries globally
 
-## FY26 GDP growth beats estimates to reach 7.7%
-Q4 growth at 7.8%; real GDP crosses ₹323 lakh crore mark
+## Why SpaceX, OpenAI, Anthropic IPOs are pipe dream for Indian investors?
+Retail investors rarely get IPO allocations, as US companies allot shares largely to institutions. The chance of Indians getting allotment is almost nil
 
-## Rajesh Exports’ ‘gilded’ accounts
-SEBI exposes a multi-layered deception that went undetected by the auditors, institutional investors
+## Annamalai resigns from BJP, to launch new political movement and contest elections
+The BJP National President Nitin Nabin on Friday accepted the resignation
 
-## India to surpass China in share of global GDP by 2060: Report
-A new report suggests that India’s growing economy will surpass China’s global GDP share by 2060 due to declining population and economic contributions from China, signaling a shift in 21st-century economic power dynamics
+## Hidden AI winners in India add $48 billion on data center boom
+The poster child for this rally is Sterlite Technologies Ltd, the optical-fiber maker owned by the Vedanta Group which has surged 500% this year
 
-## Rupee rises 81 paise to close at 94.93 against US dollar post RBI policy decision
-In the interbank forex market, the rupee opened at 95.72, reached a high of 94.89, and closed at 94.93, up 81 paise from its previous close
+## US stock markets today (June 5, 2026): S&P 500, Nasdaq fall as tech stocks slide; strong jobs data dims rate-cut hopes
+Indian markets reacted to global cues as US stocks tumbled, led by tech giants like Nvidia, following a robust jobs report dampening interest rate cut hopes. Rising oil prices, fueled by Middle East tensions, also contributed to investor caution. Asian markets mirrored the downturn, with South Korea
 
-## Sensex today | Stock Market Highlights: Sensex ends 117 pts lower at 74,243; Nifty slips 50 pts to 23,367
-Sensex, Nifty, Stock Price Highlights: The benchmark BSE Sensex fell 0.16% to ​74,243.34, while the broader NSE Nifty ‌50 index declined 0.21% to 23,366.7, ​after the Reserve ⁠Bank of India's widely expected rate pause, as investors assessed the central ‌bank's measures to support the rupee against 
+## 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - watch
+Oil India Limited has discovered natural gas in the Andaman Sea at the "Sri Vijayapuram-3" exploratory well. This significant find, located 15 km off the Andaman Islands, was confirmed through continuous flaring during initial production testing. The discovery is part of the government's "Samudra Ma
 
-## India leads among immigrant founders of US billion-dollar startups
+## 'Reform Express' to drive economic momentum amid global challenges: FM Sitharaman
+Finance Minister Nirmala Sitharaman affirmed the government's commitment to economic reforms despite global challenges, even as the RBI lowered its FY27 growth forecast. The government highlighted strong FY26 performance and introduced tax exemptions for foreign investors in government securities to
 
+## Pakistan's $35 billion trade deficit rings alarm bells as PKR faces pressure despite forex gain
+Pakistan's foreign exchange reserves are nearing the $18 billion target, yet a widening trade deficit and upcoming debt payments raise economic stability concerns. Analysts warn the reserve build-up masks deeper vulnerabilities, with the rupee facing depreciation pressure. A soaring trade gap and po
 
-## India set to overtake China in share of world GDP by 2060, report says
-India is projected to overtake China in global GDP share by 2060, as China's economic contribution is expected to stabilize and decline. This shift is driven by China's rapidly falling population share, contrasting with India's trajectory. The report also notes significant inequality differences bet
+## Protecting rupee, forex & economy: Will government, RBI measures on attracting foreign capital help?
+India’s balance of payments may see a third consecutive year of deficit, and the rising crude oil prices are threatening to expand the current account deficit. So what’s the solution to the problem?
 
-## Will India finally get plastic banknotes? RBI's polymer currency plan explained
-The Reserve Bank of India is considering introducing polymer currency notes, a move that could enhance durability and security. Governor Sanjay Malhotra stated the proposal is in its preliminary stages, with the central bank examining its advantages and disadvantages. This initiative aims to address
+## 'Success of reforms and hard work of 140 crore Indians': PM Modi hails 7.7% GDP growth in FY26
+India's economy achieved a strong 7.7% growth in FY26. This expansion highlights the nation's inherent economic strength. Prime Minister Narendra Modi attributed this success to effective reforms and the diligent efforts of 140 crore Indians. The government remains committed to improving ease of liv
 
-## Gold exchange boom: Old jewellery swaps rise up to 60% as record prices reshape buying habits
-Soaring gold prices are driving a surge in old gold exchanges at jewellery stores, now comprising nearly half of sales for major chains. Consumers are leveraging existing jewellery to fund new purchases, a trend amplified by increased import duties and government calls to curb non-essential buying.
+## India can return to 7% growth by FY28 despite near-term risks, says CEA Nageswaran
+India can reclaim over 7% growth by FY28 through stable economics and supply improvements, contingent on better external factors, according to Chief Economic Adviser V Anantha Nageswaran. Despite the RBI's lowered FY27 forecast to 6.6% due to global price hikes and disruptions, Nageswaran remains op
 
-## 'Will reach $100bn in mutual trade': Putin calls India 'reliable partner', hails PM Modi's leadership
-Russian President Vladimir Putin expressed confidence that bilateral trade with India will reach $100 billion in the coming years, citing growing cooperation in energy, investments, and strategic sectors. He highlighted India's impressive economic growth and described New Delhi as a reliable partner
+## India’s GDP grows at robust 7.8% in Q4 FY26; 7.7% full year growth beats estimates
+At constant prices, real GDP for the January-March quarter is estimated to have been at Rs 87.77 lakh crore, compared with Rs 81.40 lakh crore in the corresponding period of the previous fiscal year. Nominal GDP during the quarter is estimated at Rs 94.65 lakh crore, reflecting growth of 9.1%.
 
-## Rupee rallies strongly after RBI announces new measures to attract foreign investors amid Middle East conflict
-Currency market participants said investor confidence improved following the RBI's policy announcements, particularly after the central bank emphasised that India's foreign exchange reserves remain strong enough to cushion the economy against external disruptions.
+## Goa student, heckled online for littering, dies by suicide after cops grill him
+The student’s family linked his death to the police keeping him waiting for half a day at the station. He was warned that he couldn’t leave the state till the probe was complete
 
-## Govt promulgates ordinance to exempt capital gains tax on FII investments in government securities
-The move is aimed at making Indian debt markets more attractive to overseas investors while helping shield the economy from the effects of the continuing Iran conflict.
+## Revolt-hit TMC to move HC over Ritabrata Banerjee's appointment as Bengal Leader of Oppn
+The TMC is rattled by a rebellion after 58 MLAs staked claim to become the principal Opposition party in Bengal, vertically splitting the party.
 
-## Strengthening forex reserves amid US-Iran war: RBI announces 5 measures to attract foreign capital - check details
-The situation assumes significance as the US-Iran conflict has led to rising global crude oil and energy prices, putting pressure on India’s balance of payments and current account deficit as the import bill goes up.
+## India lodges strong protest with Pakistan over election in Gilgit-Baltistan
+India lodged a strong protest against Pakistan’s decision to hold Gilgit-Baltistan Assembly elections, reiterating that the region is an integral part of Jammu and Kashmir.
 
-## 19-year-old Ugandan tourist placed in Jaipur hospital isolation ward: Officials
-A 19-year-old Ugandan tourist has been isolated in Jaipur after showing Ebola-like symptoms, with samples sent to Pune for testing and contact tracing underway.
+## Tests rule out canine distemper, Babesia in recent Gir lion deaths: Gujarat min
+Eight lion deaths in Gir, including six cubs, were not caused by canine distemper virus or Babesia, Gujarat forest minister Arjun Modhwadia said.
 
-## TMC's Firhad Hakim resigns as Kolkata mayor as Mamata's party spirals into chaos
-TMC's Firhad Hakim resigns as Kolkata mayor as Mamata's party spirals into chaos
+## ‘Have to cut it off’: Anchor stops question after CJI Surya Kant's UK lecture, sparks row on ‘hostility to dissent’
+An attendee said, “We now hear from a number of legal observers… that there's a great deal of concern about growing hostility to dissent within India.”
 
-## Phone calls, prayers, and a Kalighat meeting: Mamata fights to keep TMC hers
-Her outreach is not confined to assembly; TMC has 28 members in Lok Sabha, 13 in Rajya Sabha, and revolt could spread to its parliamentary ranks too
+## FIR now against ‘Khan Sir’ over firing outside his Patna coaching institute
+Patna police registered FIR against the educator and two others over a firing and vandalism incident at the 'Khan Global Studies' (KGS) coaching institute.
 
-## Tripura: Amit Shah vows to prevent demographic change
-Union home minister Amit Shah said a pilot “smart border” project will be implemented at seven to eight places in the country
+## 1,076 Indians deported from the US this year, says MEA
+“A total of 1,076 Indian nationals have been deported from the US to India so far this year,” external affairs ministry spokesperson Randhir Jaiswal said
 
-## Trouble for Mamata Banerjee as TMC rebel Ritabrata Banerjee claims more support
-Ritabrata Banerjee said that he hasn’t spoken to any parliamentarian in the last seven days and, therefore, does not know what they will do.
+## TMC leader Firhad Hakim resigns as Kolkata Municipal Corporation mayor
+Firhad Hakim resigned as Kolkata mayor after securing Mamata Banerjee’s approval, amid a wave of resignations by TMC leaders from civic bodies.
 
-## Mamata Banerjee anticipated TMC crisis, say leaders as more members quit
-As more MLAs and councillors quit the TMC, party insiders say Mamata Banerjee anticipated the crisis but failed to prevent it.
-
-## IIT denies JEE-Advanced data breach claim: 'Minimal, temporary misconfiguration’
-Says tech interventions were carried out to ensure smooth functioning of registration process, which led to issue that was reported by a hacker and rectified
-
-## When will monsoon arrive in Delhi? IMD's latest forecast says this
-Delhi may get monsoon between June 25-30. Same timeline projected for Noida, Gurugram, Ghaziabad; northern states like Punjab, Haryana fall in bracket too.
-
-## Beyond the Rasgulla war: Why this secret ‘sun-dried’ ingredient makes Odia cuisine better than you think
+## TMC parliamentary split ‘just a matter of time’: As Mamata fights back, cracks grow
 
 
-## I was in the undivided Shiv Sena. I know what ‘ShahNeeti’ is doing to TMC
+## Gir lion cubs’ deaths: No Babesia parasite trace found, says forest minister
 
 
-## Maharashtra hit by heatwave in May, delayed monsoon arrival; state-wide dam water level drops to 27%
+## ‘Sanjay Leela Bhansali ka pura bathroom….’: Inside Terence Lewis’ artistic Mumbai home
 
 
-## IIT Delhi signs MoUs with 18 NITs to introduce ALIGN for academic and research collaboration
+## Can adopted child inherit under Muslim Law? Madras High Court says no
 
 
-## Rati Agnihotri recalls hardships on Ek Duuje Ke Liye sets: ‘We had blisters on our feet’
+## Stonehenge mystery may be closer to being solved as scientists trace Altar Stone’s epic journey
 
 
-## Google launches Search Profiles to help creators and publishers showcase content
+## Moving fast to close ‘open-ends’; first tranche of India-US trade deal by mid-July: Piyush Goyal
 
 
-## After 27 deaths in a week, MCD cracks down on illegal buildings
+## Cockroach Janata Party Protest Live Updates: Demonstration at Jantar Mantar tomorrow, demand for Dharmendra Pradhan’s resignation
 
 
-## Towels, running shower, ‘how to’ video helped Nigerian couple escape Delhi fire
+## ‘Cockroach Janta Party’ lists dos and don’ts for Delhi protest led by founder Dipke
 
+
+## China launches space computing hub as SpaceX gears up for historic IPO
+China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes a record-shattering US$75 billion market debut to fund its own orbital AI ambit
+
+## Chinese EVs reclaim momentum as tech upgrades, incentives squeeze gains of foreign marques
+International marques have failed to sustain the market share they regained in China early this year after consumers fell back in love with electric vehicles (EVs), a sector where domestic brands continue to enjoy an overwhelming advantage. Foreign carmakers from Volkswagen to Toyota held a combined
 
 ## Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds
 Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from private issuers. The Hong Kong Monetary Authority (HKMA) said on Friday it had 
@@ -156,11 +168,11 @@ Cross-border finance is becoming more complex, not less. Businesses operating ac
 ## Hong Kong’s proposed bonus tax break for fund talent set to sharpen edge over Singapore
 Hong Kong is set to attract top global fund managers to relocate to the city, as they will no longer need to pay salaries tax on performance-linked bonuses if they meet certain criteria under a proposed law change to be submitted to the Legislative Council, according to industry sources and academia
 
-## Global Prosperity Summit 2026 showcases Hong Kong’s role in future-focused industries and global cooperation
-Hong Kong is embracing its growing role on the international stage in vital sectors driving global prosperity – a message highlighted at an annual gathering of international industry leaders, corporate executives and local policymakers who back the city’s upward momentum. The Global Prosperity Summi
+## Does the United States Have the Weapons for Trade War?
+Economic strategists are pitching tougher policies for an anxious world.
 
-## Hong Kong stocks struggle as mainland China markets ride AI wave
-Signs are omnipresent that mainland Chinese investors are rotating out of Hong Kong stocks and back to the onshore yuan-denominated market, as they recalibrate to add domestic exposure to the fervour surrounding the artificial intelligence buildout. Onshore investors sold a combined HK$3.6 billion (
+## How Brazilian Soccer Shed Protectionism
+Will openness to foreign players and coaches make a difference at the World Cup?
 
 ## Washington Is Testing Singapore’s Patience
 Donald Trump is working hard to alienate yet another strategic partner.
@@ -179,12 +191,6 @@ The U.S. military remains extremely active in and around Latin America.
 
 ## How Trump Should Approach an Iran Endgame
 Former Iran negotiator Robert Malley on the White House’s best options right now.
-
-## Trump Is Playing With Fire in Cuba
-The U.S. blockade on the island is unprecedented—and could lead to prolonged upheaval.
-
-## China Is Too Big for Shangri-La
-Snubbing a key security forum shows Beijing’s new confidence.
 
 ## Myanmar’s Military Is Turning to Russia to Revive Its Stalled Cyber Dream
 Could the stalled Yatarnapon Cyber City project be set for an injection of Russian assistance?
@@ -258,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US-Iran war pushing millions into food crisis, warns UN
-WFP warns that the war is causing substantial increases in food prices in a number of countries.
+## Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?
+International law sets rules for ceasefires, but who enforces them when violations continue? Three experts explain.
 
-## Ranking the World Cup 2026 groups: Which teams are favourites to progress?
-The first stage of the 2026 World Cup 2026 features 12 groups. We've ranked them and picked the favourites to advance.
+## FIFA cancels World Cup tickets for about 60 fans who got them for free
+Mispriced tickets were sold through the official World Cup site ahead of next week's showpiece event for FIFA.
 
-## IAEA brokers Ukraine ceasefire to allow nuclear plant repairs
-Concerns over the safety of the Zaporizhzhia plant, Europe's largest, have been rife throughout Russia's war on Ukraine.
+## Israel maintains attacks despite US-brokered deal with Lebanon
+The Israeli army also issues new forced displacement orders for several towns and villages in southern Lebanon.
 
-## Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?
-Russia and Ukraine have been holding peace talks since the war began in 2022, but with no concrete outcome.
+## Celtic fans oppose Keane as potential manager after Israel role
+Ireland's record goalscorer Robbie Keane played for Celtic but his link to manager's job is facing criticism.
 
-## How the world failed a mother’s children, killed in Israeli strikes on Gaza
-How the world failed a mother’s children, killed in Israeli strikes on Gaza
+## Iran footballers hand passports to US embassy for World Cup visa approval
+Iran will fly to Mexico on Saturday to their home base at 2026 World Cup, while all their games are played in the US.
 
-## Thousands protest in Albania over Kushner-linked resort project
-Thousands protest in Albania over Kushner-linked resort project.
+## Fujimori vs Sanchez: What to know about Peru’s presidential run-off election
+The run-off follows a tumultuous first round of voting, which saw long lines, delayed results and accusations of fraud.
 
-## US visa rejections, war on Iran keep fans away from World Cup
-High visa application fees, equally high rejection rates, an unwelcoming America, and the war combine to deter fans.
+## Ukrainian marine drone explodes at Romanian port
+A malfunctioning Ukrainian naval drone has caused an explosion at a key Black Sea port in Romania.
 
-## FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more
-Al Jazeera breaks down the key talking points ahead of the FIFA World Cup 2026 which kicks off next week.
+## How the US naval blockade has bled Iran of nearly $6bn in oil revenues
+Iran is exporting less than one-sixth of the oil it was shipping before the war began.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
@@ -294,11 +300,11 @@ Finance veteran exits home interiors company months after joining; set to take u
 ## BIT sweeter? India weighs easing treaty rules with safeguards to attract foreign capital
 As the world shifts economically, India is set to revamp its investment treaty frameworks. The government is exploring options to simplify the timelines for foreign entities aiming for global arbitration. This proactive step is aimed at enticing foreign investment into the country, while also incorp
 
-## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
-Real estate major M3M is eyeing Rs 28,000 crore in sales by the end of FY27, up from Rs 19,000 to Rs 20,000 crore clocked annually over the last three years, said Yateesh Waahal, Director Finance and Legal at M3M India in an exclusive interview with ETCFO. Wahaal said that the group is backing the g
-
 ## ICAI reinforces mandatory forensic audit, sustainability assurance norms in revised Code of Ethics
 Updated framework reiterates applicability of forensic investigation, ESG assurance and social impact assessment standards, underscoring the profession's expanding assurance responsibilities.
+
+## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
+M3M India aims to deliver nearly one crore square feet annually, backed by a pipeline of 10,000 apartment deliveries and an expanding branded residences project on Dwarka Expressway. The real estate major is focusing on scale and product elevation, targeting ultra-HNIs with premium facilities and ex
 
 ## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
 The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
