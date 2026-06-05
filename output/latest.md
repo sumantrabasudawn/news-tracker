@@ -1,10 +1,19 @@
 # AION Intelligence
 
 ## Nasdaq tumbles 4% as shares in chip and memory groups sink
-Rising expectations of Federal Reserve rate rise send US bond yields rising sharply
+Rising expectations of a Federal Reserve rate increase send US bond yields rising sharply
+
+## Inside the CBS mutiny against Bari Weiss and David Ellison
+A saga that started with Trump’s assault on ‘60 Minutes’ has turned into a full-blown crisis
+
+## Trump says US may take equity stakes in AI companies
+President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections
 
 ## Investors boost bets for Fed rate rise after bumper US jobs report
 World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’
+
+## European airlines sit on €3.2bn in unpaid delay compensation
+FT calculations show just a fraction of €18bn due since 2011 has been paid out
 
 ## Parents force Starmer into embracing social media ban
 Prime minister set to announce restrictions this month despite previous opposition
@@ -14,15 +23,6 @@ Labour leadership hopeful sees way to funnel billions of pounds into sector whil
 
 ## UK ministers consider lowering university fees for EU students
 Concession would sweeten deal as Starmer looks to get British companies under EU’s ‘economic security’ umbrella
-
-## US demands tougher rules for car parts in Mexico trade talks
-Washington wants to reduce Chinese supplies from North America’s vehicles while increasing American content
-
-## Bond investors bet Colombia’s ‘Tiger’ will slash public spending
-Rightwing populist Abelardo de la Espriella goes into second-round presidential vote
-
-## Rate cut red card
-US labour market strength has kicked Fed rate cuts into touch
 
 ## Meta weighs big equity raising after blockbuster Google deal
 Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure
@@ -35,15 +35,6 @@ UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sal
 
 ## Could you be the FT’s new stock picking champion?
 Register your portfolio now — the 8-week competition starts on 9 June
-
-## Bitcoin tumbles after Strategy sale unnerves crypto traders
-Cryptocurrency is heading for biggest weekly loss since November 2022
-
-## Mike Ashley’s Frasers seeks Big Four auditor after push to improve governance
-Retail group has tried to professionalise after previously struggling to find a firm to sign off its accounts
-
-## Pugilistic Florida billionaire plots law firm stake sale to private equity
-Move by largest US personal injury firm could cement buyout groups’ arrival in a sector that has long been off-limits
 
 ## RBI keeps repo rate unchanged at 5.25%, policy stance neutral
 The RBI upped the FY27 retail inflation projection 5.1 per cent (earlier projection: 4.6 per cent) and cut the real GDP growth projection to 6.6 per cent (6.9 per cent)
@@ -69,6 +60,21 @@ Modi said that India achieved a 7.7% growth rate in FY26, with a 7.8% expansion 
 ## Blackstone-backed AirTrunk to invest ₹3 lakh crore and over 5GW in India’s digital infrastructure
 The investment will drive cloud and AI growth, positioning India as a key market in AirTrunk’s global strategy, according to a press release
 
+## Government ready to take more measures to insulate economy
+The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced
+
+## G-Secs rally as govt and RBI ease foreign investing rules
+Government and RBI measures to boost foreign investment in government securities led to a bond rally, with benchmark 10-year G-Sec yields softening. Exemptions from long-term capital gains and withholding taxes for FPIs in G-Secs, along with expanded investment options, are seen as positive for the 
+
+## Mutual fund houses restrict investments into gold ETFs, FoFs
+Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, are temporarily restricting large lump-sum investments in gold ETFs and fund of funds. This move aligns with the government's policy to discourage gold purchases, following an increase in import duty. The restrictions pr
+
+## AirTrunk unveils $30bn India data centre push
+
+
+## RBI cuts growth, hikes inflation forecast as West Asia crisis bites
+The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.
+
 ## Trump immigration push: US Treasury asks banks to flag suspicious transactions linked to illegal migrants
 
 
@@ -78,22 +84,10 @@ Foreign investors are increasingly favoring India's debt market, with FPI debt i
 ## Lower fuel and vehicle costs key to driving ethanol demand: Experts
 
 
-## Govt extends tenure of RBI deputy governor Swaminathan J for two years
-The government has extended the tenure of Reserve Bank Deputy Governor Swaminathan Janakiraman for another two years, effective June 26, 2026. Janakiraman, who was initially appointed in June 2023, will continue in his role as the central bank maintains its four-deputy governor structure.
+## No relaxation in 75% class 12 marks rule for IIT admissions, says Joint Admission Board
+The demands were made in the wake of growing concerns among students over the delay in re-evaluation process of CBSE exams.
 
-## Rupee jumps 56 paise to 95.18 vs US dollar after RBI announces forex-support measures
-The rupee surged 56 paise to 95.18 against the US dollar following RBI's measures to attract foreign capital and boost forex liquidity. These policy announcements, including expanding the Fully Accessible Route and removing taxes on foreign investment in G-Secs, improved investor sentiment. Analysts
-
-## OIL reports presence of natural gas in its third exploratory well in Andaman block
-State-run Oil India Limited (OIL) has reported the discovery of natural gas in its third exploratory well, Vijayapuram-3, in the Andaman shallow offshore block. This finding further indicates the hydrocarbon potential in the region, following a previous discovery in the Vijayapuram-2 well. OIL is no
-
-## More than 75 lakh households to have rooftop solar systems by Dec: Pralhad Joshi
-
-
-## At 7.7%, India's GDP growth in FY26 beats slowdown predictions; but will the momentum continue amid US-Iran war?
-What does the GDP data tell us about India’s economic prospects? Will the real hit from the US-Iran conflict reflect in the first quarter GDP numbers? And, is India’s long-term growth story under threat? Let’s take a look:
-
-## ‘Trust-based, brotherly relations’: Putin on nearly 80 years of India-Russia ties
+## ‘Trust-based relations’: Putin on nearly 80 years of India-Russia ties; says Indians are talented, well educated
 Russian President Vladimir Putin spoke of both nations navigating energy supply vulnerabilities caused by the US-Israeli war near the Strait of Hormuz.
 
 ## Ex-TMC MLA Saokat Molla arrested in NIA crackdown on pre-poll Bhangar blast case
@@ -114,8 +108,14 @@ The decision was taken at the first cabinet meeting following its expansion with
 ## Abhishek Banerjee retains his spot in TMC rejig, flanked by Mamata loyalists
 TMC parliamentary leader in the Rajya Sabha Derek O’Brien and RS member Dola Sen have been appointed national joint secretaries to assist Abhishek Banerjee
 
-## It's not just Annamalai. Another BJP leader leader exits party in Tamil Nadu ‘after careful thought’
-State secretary Sumathi Venkatesh announced her decision to quit the party on Friday after K Annamalai and Karu Nagarajan's exit.
+## Low magnesium levels: 3 signs that may indicate a deficiency
+
+
+## Supreme Court orders status quo on deportation of two women declared foreigners by Assam tribunal
+
+
+## Praggnanandhaa wins Norway Chess 2026 title after stunning final round victory
+
 
 ## Neetu Kapoor calls Ranbir and Alia ‘outstanding’ parents to Raha: ‘Very scared of her mother’
 
@@ -130,15 +130,6 @@ State secretary Sumathi Venkatesh announced her decision to quit the party on Fr
 
 
 ## Buffy the Vampire Slayer actor Anthony Head dies at 72
-
-
-## Parimala and Co movie review: Jayaram, Urvashi’s comedy thriller is a lazy disaster
-
-
-## Zverev vs Cobolli set for French Open final after Arnaldi withdraws with virus
-
-
-## Delhi LG asks DTC to deploy armed female police personnel in buses for women safety
 
 
 ## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
@@ -165,6 +156,12 @@ The artificial intelligence frenzy has made Zhongji Innolight, a supplier of opt
 ## Inside Labuan IBFC, the Malaysian centre built for cross-border finance
 Cross-border finance is becoming more complex, not less. Businesses operating across jurisdictions are dealing with tighter regulation and more pressure to demonstrate transparency across markets, raising the bar for the international financial centres they use. This shift helps explain why global b
 
+## Maggie O’Farrell’s Most Ambitious Novel Yet
+Plus, a Venezuelan thriller in translation.
+
+## How Ukraine Has Turned the Tide
+Resilience, technology, and European support have put Russia on the back foot.
+
 ## Contain, Consolidate, and Co-Opt
 How Europe has learned to live with great-power politics.
 
@@ -182,12 +179,6 @@ The journey of Iran’s World Cup team sets a dangerous precedent for internatio
 
 ## Does the United States Have the Weapons for Trade War?
 Economic strategists are pitching tougher policies for an anxious world.
-
-## How Brazilian Soccer Shed Protectionism
-Will openness to foreign players and coaches make a difference at the World Cup?
-
-## Washington Is Testing Singapore’s Patience
-Donald Trump is working hard to alienate yet another strategic partner.
 
 ## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
 Why Seoul picked the PPP incumbent yet again, and what it means for the city.
@@ -261,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Judge strikes down Trump bar on asylum, visa processing for 39 countries
-Judge says restrictions put lives of immigrants in 'indeterminate legal limbo', motivated by 'anti-immigrant sentiment'.
+## Iran footballers issued US visas for World Cup, says White House
+Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.
 
-## Is the latest US ceasefire deal for Lebanon meaningless?
-Israel and Hezbollah continue fighting after truce announcement.
+## Zelenskyy: Putin choosing war by rejecting offer for in-person talks
+Russian President Vladimir Putin has turned down an offer for in-person talks with the Ukrainian President.
 
-## Huge fire erupts at Honda warehouse in Barcelona
-Around 150 workers were evacuated after a fire broke out at a Honda industrial warehouse in Barcelona.
+## Trump hails jobs surge, says Iran talks ‘going well’
+Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran "seem to be going quite well".
 
-## Trump admin’s cancellation of wind energy projects causes business turmoil
-Seven northeastern states have sued US gov't for paying TotalEnergies to withdraw from offshore wind projects.
+## Cobolli into final as virus-struck Arnaldi pulls out of French Open
+Tenth seed Flavio Cobolli will ​take on German second seed Alexander Zverev in ⁠final after Matteo Arnaldi withdrawal.
 
-## Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now
-The Russian leader insisted military action would only stop after Moscow achieves its 'goals'.
+## ‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire
+A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.
 
-## Ukraine and Russia exchange 185 prisoners of war each
-Russia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.
+## France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists
+French activists who took part in a Gaza-bound foreign aid flotilla accuse Israeli forces of abuse and torture.
 
-## Video shows moment Israeli air strike hits car in southern Lebanon
-Video shows the moment when journalist Abbas Fakih was reporting in Nabatieh, Lebanon and an Israeli air strike hit.
+## Families clear rubble after overnight Israeli strikes in Gaza
+Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli strikes in Gaza
 
-## Germany’s Merz says EU to initiate integration of Western Balkans
-Alongside Ukraine and Moldova, six Western Balkan nations wish to join the European Union.
+## Anthropic urges AI labs to pause, warns humans risk losing control
+It warned that rapid advances in technology could soon allow AI systems to improve themselves faster than human control.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
