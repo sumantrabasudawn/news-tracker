@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Chips sell-off punctures Wall Street’s winning streak
-Nasdaq Composite drops 3% as nerves spread ahead of blockbuster SpaceX listing
+## Nasdaq tumbles 4% as shares in chip and memory groups sink
+Rising expectations of Federal Reserve rate rise send US bond yields rising sharply
+
+## Investors boost bets for Fed rate rise after bumper US jobs report
+World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’
+
+## Parents force Starmer into embracing social media ban
+Prime minister set to announce restrictions this month despite previous opposition
+
+## Burnham aims to boost social housing if he becomes prime minister
+Labour leadership hopeful sees way to funnel billions of pounds into sector while adhering to party’s fiscal rules
+
+## UK ministers consider lowering university fees for EU students
+Concession would sweeten deal as Starmer looks to get British companies under EU’s ‘economic security’ umbrella
+
+## US demands tougher rules for car parts in Mexico trade talks
+Washington wants to reduce Chinese supplies from North America’s vehicles while increasing American content
 
 ## Bond investors bet Colombia’s ‘Tiger’ will slash public spending
 Rightwing populist Abelardo de la Espriella goes into second-round presidential vote
@@ -9,20 +24,11 @@ Rightwing populist Abelardo de la Espriella goes into second-round presidential 
 ## Rate cut red card
 US labour market strength has kicked Fed rate cuts into touch
 
-## Investors boost bets for Fed rate rise after bumper US jobs report
-World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’
+## Meta weighs big equity raising after blockbuster Google deal
+Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure
 
-## Steve Hilton, Tory aide turned California’s would-be governor
-The expat David Cameron adviser is seeking to follow in Arnold Schwarzenegger’s footsteps
-
-## Ten years after Brexit: can the UK deliver change?
-Join a subscriber webinar on Thursday June 25 and put your questions to FT journalists
-
-## Bitcoin tumbles after Strategy sale unnerves crypto traders
-Cryptocurrency is heading for biggest weekly loss since November 2022
-
-## Trump-run Kennedy Center took $2mn from ‘fake CIA operative’, lawsuit alleges
-Donation by alleged conman follows accusations of cronyism and corruption at Washington’s top performing arts centre
+## The ethical dilemmas of AI
+How we address the revolution is a question of how we manage its uncertainties
 
 ## Raspberry Pi surges as investors bet on hardware linked to AI boom
 UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
@@ -30,17 +36,14 @@ UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sal
 ## Could you be the FT’s new stock picking champion?
 Register your portfolio now — the 8-week competition starts on 9 June
 
+## Bitcoin tumbles after Strategy sale unnerves crypto traders
+Cryptocurrency is heading for biggest weekly loss since November 2022
+
 ## Mike Ashley’s Frasers seeks Big Four auditor after push to improve governance
 Retail group has tried to professionalise after previously struggling to find a firm to sign off its accounts
 
 ## Pugilistic Florida billionaire plots law firm stake sale to private equity
 Move by largest US personal injury firm could cement buyout groups’ arrival in a sector that has long been off-limits
-
-## Musk’s SpaceX lines up retail investors for record IPO allocation
-Up to a quarter of the rocket builder’s $75bn float will be set aside for individual investors
-
-## UK retail investor demand for SpaceX surges to tens of thousands
-More than 30,000 small investors register interest in hotly awaited IPO
 
 ## RBI keeps repo rate unchanged at 5.25%, policy stance neutral
 The RBI upped the FY27 retail inflation projection 5.1 per cent (earlier projection: 4.6 per cent) and cut the real GDP growth projection to 6.6 per cent (6.9 per cent)
@@ -66,6 +69,18 @@ Modi said that India achieved a 7.7% growth rate in FY26, with a 7.8% expansion 
 ## Blackstone-backed AirTrunk to invest ₹3 lakh crore and over 5GW in India’s digital infrastructure
 The investment will drive cloud and AI growth, positioning India as a key market in AirTrunk’s global strategy, according to a press release
 
+## Trump immigration push: US Treasury asks banks to flag suspicious transactions linked to illegal migrants
+
+
+## India's FPI debt inflows reached 62% of cumulative equity at $95.5 billion since FY99; $19.3 billion since FY25: Report
+Foreign investors are increasingly favoring India's debt market, with FPI debt inflows comprising a significant portion of overall foreign capital. This trend is boosted by global bond index inclusion and easier access routes. With attractive real yields and a stable currency outlook, India is poise
+
+## Lower fuel and vehicle costs key to driving ethanol demand: Experts
+
+
+## Govt extends tenure of RBI deputy governor Swaminathan J for two years
+The government has extended the tenure of Reserve Bank Deputy Governor Swaminathan Janakiraman for another two years, effective June 26, 2026. Janakiraman, who was initially appointed in June 2023, will continue in his role as the central bank maintains its four-deputy governor structure.
+
 ## Rupee jumps 56 paise to 95.18 vs US dollar after RBI announces forex-support measures
 The rupee surged 56 paise to 95.18 against the US dollar following RBI's measures to attract foreign capital and boost forex liquidity. These policy announcements, including expanding the Fully Accessible Route and removing taxes on foreign investment in G-Secs, improved investor sentiment. Analysts
 
@@ -78,19 +93,19 @@ State-run Oil India Limited (OIL) has reported the discovery of natural gas in i
 ## At 7.7%, India's GDP growth in FY26 beats slowdown predictions; but will the momentum continue amid US-Iran war?
 What does the GDP data tell us about India’s economic prospects? Will the real hit from the US-Iran conflict reflect in the first quarter GDP numbers? And, is India’s long-term growth story under threat? Let’s take a look:
 
-## India-US trade deal talks: Both sides hold 'positive and constructive' negotiations, says MEA
-India and the US have concluded "positive and constructive" trade talks, signaling progress towards a bilateral agreement. Discussions covered goods, non-tariff measures, and economic security. Both nations reaffirmed their commitment to advancing the pact, with a US envoy noting only a small percen
+## ‘Trust-based, brotherly relations’: Putin on nearly 80 years of India-Russia ties
+Russian President Vladimir Putin spoke of both nations navigating energy supply vulnerabilities caused by the US-Israeli war near the Strait of Hormuz.
 
-## Unicorn in the USA: Indians aren't stealing American jobs; they are building entire HR departments
-Immigrants are driving America's innovation, founding 59% of billion-dollar startups, known as unicorns. People of Indian origin lead this trend, establishing 96 such companies. These ventures employ thousands and contribute trillions to the U.S. economy, challenging narratives of immigrants harming
+## Ex-TMC MLA Saokat Molla arrested in NIA crackdown on pre-poll Bhangar blast case
+The investigation concerns a bomb blast that occurred days ahead of the West Bengal Assembly elections. One person was killed.
 
-## US stock markets today (June 5, 2026): S&P 500, Nasdaq fall as tech stocks slide; strong jobs data dims rate-cut hopes
-Indian markets reacted to global cues as US stocks tumbled, led by tech giants like Nvidia, following a robust jobs report dampening interest rate cut hopes. Rising oil prices, fueled by Middle East tensions, also contributed to investor caution. Asian markets mirrored the downturn, with South Korea
+## No relaxation in IIT admission 75% Class 12 marks rule: Joint Admission Board
+JAB says IIT admissions through JEE Advanced 2026 will continue to require 75% Class 12 marks despite demands for relaxation over CBSE delays.
 
-## 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - watch
-Oil India Limited has discovered natural gas in the Andaman Sea at the "Sri Vijayapuram-3" exploratory well. This significant find, located 15 km off the Andaman Islands, was confirmed through continuous flaring during initial production testing. The discovery is part of the government's "Samudra Ma
+## PoK would have been ours had Operation Sindoor continued for 2 more days: Rambhadracharya
+The spiritual guru also predicted a 2029 victory for PM Modi and a continued run as defence minister for Rajnath Singh
 
-## ‘No need for medical colleges, hospitals’: Ex-Bihar deputy CM lays out his health vision
+## ‘No need for medical colleges, hospitals’: Bihar minister lays out his vision
 Vijay Sinha said, “Make Bihar so healthy that there would be no need for medical colleges and hospitals.”
 
 ## Assam cabinet approves dearness allowance hike, raises it to 60%: CM Sarma
@@ -102,40 +117,28 @@ TMC parliamentary leader in the Rajya Sabha Derek O’Brien and RS member Dola S
 ## It's not just Annamalai. Another BJP leader leader exits party in Tamil Nadu ‘after careful thought’
 State secretary Sumathi Venkatesh announced her decision to quit the party on Friday after K Annamalai and Karu Nagarajan's exit.
 
-## Coal mine cave-in kills two workers, injures seven in MP’s Shahdol
-Two workers were killed, seven others injured after a section of the roof collapsed inside a Bangwar underground coal mine
-
-## Army Captain made memorable proposal to longtime partner. It soon became a war between trolls and veterans
-Captain Bharat Bhardwaj said he had been in a relationship with his partner for five years and wanted to make the day special for her as well.
-
-## India says mechanisms being used to deport illegal migrants to Bangladesh
-All foreign nationals in India, if they are here illegally, including from Bangladesh, we have laws to deal with them and they’ll be accordingly dealt with, Randhir Jaiswal said
-
-## Karnataka CM change reflects public anger against Congress: PM Modi in Surat
-PM Narendra Modi said Congress replaced Karnataka Chief Minister Siddaramaiah due to growing public anger against the party’s government.
-
-## Relief for JEE qualifiers hit by CBSE OSM: IIT Roorkee allows seat allocation below 75%
+## Neetu Kapoor calls Ranbir and Alia ‘outstanding’ parents to Raha: ‘Very scared of her mother’
 
 
-## ‘Exceptionally cruel, cold-blooded’: Jalgaon court awards death penalty to man for raping minor tribal girl, killing her and her 3 siblings
+## US adds 172,000 jobs in May, easing fears of labour market slowdown
 
 
-## ‘I landed in a ditch’: Salman Khan opens up about nearly-fatal movie stunts; expert on safety
+## Why the size of your prostate matters less than the daily symptoms
 
 
-## Gadchiroli farmers intensify agitation against airport, industrial projects
+## Extreme heat at FIFA World Cup 2026: England to use palm-cooling tech – Report
 
 
-## ‘Don’t care who we’re leaving out’: Hussain wants IND to fast-track Sooryavanshi
+## Buffy the Vampire Slayer actor Anthony Head dies at 72
 
 
-## Himanta Sarma expands Assam Cabinet, balances new faces and loyalists, groups and regions
+## Parimala and Co movie review: Jayaram, Urvashi’s comedy thriller is a lazy disaster
 
 
-## Britain’s only serving female Royal Navy Commando among 3 killed in helicopter crash
+## Zverev vs Cobolli set for French Open final after Arnaldi withdraws with virus
 
 
-## Kolkata to get water metro, will be the 18th city to be linked, says CM Adhikari
+## Delhi LG asks DTC to deploy armed female police personnel in buses for women safety
 
 
 ## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
@@ -162,6 +165,12 @@ The artificial intelligence frenzy has made Zhongji Innolight, a supplier of opt
 ## Inside Labuan IBFC, the Malaysian centre built for cross-border finance
 Cross-border finance is becoming more complex, not less. Businesses operating across jurisdictions are dealing with tighter regulation and more pressure to demonstrate transparency across markets, raising the bar for the international financial centres they use. This shift helps explain why global b
 
+## Contain, Consolidate, and Co-Opt
+How Europe has learned to live with great-power politics.
+
+## Romania Has Perfected the Art of Forgetting
+In a new memoir, Nobel laureate Herta Müller condemns her homeland for failing to reconcile with history.
+
 ## What in the World?
 Test yourself on the week of May 30: Malta votes, Japan responds to militarism accusations, and Iran pauses talks with the U.S.
 
@@ -180,35 +189,29 @@ Will openness to foreign players and coaches make a difference at the World Cup?
 ## Washington Is Testing Singapore’s Patience
 Donald Trump is working hard to alienate yet another strategic partner.
 
-## Everyone Is Waiting for Trump’s Gaza Plan to Die
-The Board of Peace has been revealed to be so flawed as to be completely unworkable.
+## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
+Why Seoul picked the PPP incumbent yet again, and what it means for the city.
 
-## To Fix Haiti, Look to Colombia
-An example—albeit an imperfect one—of how to achieve a lasting peace.
+## India’s Eye in the Sky: The Rise of a State-Deep Tech Startup Space Partnership
+India’s deep tech space startups are transforming the country’s space ambitions, as the state increasingly supports private innovation to strengthen India’s strategic and economic position in the global space race.
 
-## Myanmar’s Military Is Turning to Russia to Revive Its Stalled Cyber Dream
-Could the stalled Yatarnapon Cyber City project be set for an injection of Russian assistance?
+## The Bipolar Trap: The Real Danger in the Trump-Xi Era
+The challenge is not just preventing war between China and the U.S. It’s how to prevent their rivalry from becoming the sole organizing principle of international politics.
 
-## US Forced Labor Ruling Does Not Reflect Vietnam’s Efforts, Govt Says
-Hanoi is now the subject of three separate U.S. trade probes, which will likely introduce new areas of tension into ongoing trade talks.
+## Why Did Nepali PM Balendra Shah Call on UK to ‘Take an Interest’ in an India-Nepal Dispute?
+The controversial comment was made on the eve of ruling party chief Ravi Lamichhane’s visit to India.
 
-## Fixing AI in Conflict
-We already have the tools.
+## Uzbekistan, Russia Celebrate Start of Nuclear Power Plant Construction… Again
+Tashkent and Moscow celebrated the start of construction on the plant – two months after the companies involved celebrated the same thing.
 
-## How Government Inaction Turned Sumatra’s Rains Into a National Catastrophe
-The Indonesian political system has enabled deforestation through weak oversight, opaque licensing, and regulations designed to favor extractive industries.
+## Pete Hegseth’s Missed Chance to Reassure – and Deter – on Taiwan
+The U.S. defense secretary failed to mention Taiwan once during his closely-watched speech at the Shangri-La Dialogue.
 
-## Indonesia’s Free Meal Program to Target ‘Efficiency’ After Arrest of Former Head
-The program has come under scrutiny for its implementation and high cost, which is set to total nearly $15 billion in 2026.
+## Could a Democratic Mid-Term Win Upset the China-US Detente?
+If Democrats ride a “blue wave” to reclaim the House in November’s mid-term elections – a distinct possibility – U.S. China policy will become dangerously volatile.
 
-## How Myanmar Fits Into India’s Troubled Neighborhood Policy
-Min Aung Hlaing’s visit to India may help Delhi seal deals with the military-backed government. But it has angered pro-democracy forces in Myanmar.
-
-## Did China Overestimate the Geopolitical Returns of Its Latin America Strategy?
-The assumption that economic leverage leads to political influence has underpinned China analysis for decades. Developments in Latin America are calling that into question.
-
-## Rising Security Risks Are Changing China’s Belt and Road Strategy
-Beijing is becoming more selective about where and what it builds overseas. That transition was already underway but it has been hastened by the Iran-U.S. war.
+## Pacific Nations Adopt First Regional Climate Relocation Framework
+Pacific governments have launched the world's first regional framework for planned climate relocation, creating new guidance for communities facing displacement from rising seas, coastal erosion, and intensifying storms.
 
 ## The Pentagon’s AI Edge Is Being Distilled Away
 Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In this new context, military predominance i
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Somalia declares order restored after two days of fighting in Mogadishu
-Violence that paralysed two Mogadishu districts subsides, but opposition rejects president's rule and vows to fight on.
+## Judge strikes down Trump bar on asylum, visa processing for 39 countries
+Judge says restrictions put lives of immigrants in 'indeterminate legal limbo', motivated by 'anti-immigrant sentiment'.
 
-## Ukraine slows Russia’s army but struggles to down ballistic missiles
-Russia’s performance since December shows it can contest territory but cannot hold it, say battlefield observers.
+## Is the latest US ceasefire deal for Lebanon meaningless?
+Israel and Hezbollah continue fighting after truce announcement.
 
-## US Senate passes $70bn ICE funding bill: What comes next?
-Republicans pass key Trump initiative after marathon vote-a-rama, avoid barring controversial 'anti-weaponisation' fund.
+## Huge fire erupts at Honda warehouse in Barcelona
+Around 150 workers were evacuated after a fire broke out at a Honda industrial warehouse in Barcelona.
 
-## Zverev cruises past Mensik to reach second French Open final
-Alexander Zverev will face either Flavio Cobolli or Matteo Arnaldi in final, after beating Jakub Mensik at French Open.
+## Trump admin’s cancellation of wind energy projects causes business turmoil
+Seven northeastern states have sued US gov't for paying TotalEnergies to withdraw from offshore wind projects.
 
-## Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich
-Irish Taoiseach Martin says the ministers have shown 'a desire to see the elimination of Palestinians from Palestine'.
+## Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now
+The Russian leader insisted military action would only stop after Moscow achieves its 'goals'.
 
-## Why Washington is reducing visa processing across Africa
-US plans to centralise visa processing across Africa could increase cross-border travel for visa applicants.
+## Ukraine and Russia exchange 185 prisoners of war each
+Russia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.
 
-## Israeli Knesset member backs settlement push in southern Syria
-An Israeli Knesset member has publicly backed efforts to establish Israeli settlements in southern Syria.
+## Video shows moment Israeli air strike hits car in southern Lebanon
+Video shows the moment when journalist Abbas Fakih was reporting in Nabatieh, Lebanon and an Israeli air strike hit.
 
-## Man City chair Al Mubarak will ‘say everything’ after verdict on finances
-English Premier League side Manchester City charged with 115 alleged breaches of financial rules.
+## Germany’s Merz says EU to initiate integration of Western Balkans
+Alongside Ukraine and Moldova, six Western Balkan nations wish to join the European Union.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
