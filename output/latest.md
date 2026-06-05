@@ -1,28 +1,40 @@
 # AION Intelligence
 
-## ‘Staggering’ Irish slump pushes Eurozone economy into reverse
-Economists say Ireland’s GDP ‘impossible’ to predict because of cross-border flows from multinationals
+## Chips sell-off punctures Wall Street’s winning streak
+Nasdaq Composite drops 3% as nerves spread ahead of blockbuster SpaceX listing
 
-## Chip sell-off threatens Wall Street’s winning streak
-Tech stocks suffer two-day decline following disappointing results from semiconductor giant Broadcom
+## Bond investors bet Colombia’s ‘Tiger’ will slash public spending
+Rightwing populist Abelardo de la Espriella goes into second-round presidential vote
 
-## US economy blew past expectations to add 172,000 jobs in May
-Traders bet the Fed will have to raise rates by December
+## Rate cut red card
+US labour market strength has kicked Fed rate cuts into touch
+
+## Investors boost bets for Fed rate rise after bumper US jobs report
+World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’
+
+## Steve Hilton, Tory aide turned California’s would-be governor
+The expat David Cameron adviser is seeking to follow in Arnold Schwarzenegger’s footsteps
+
+## Ten years after Brexit: can the UK deliver change?
+Join a subscriber webinar on Thursday June 25 and put your questions to FT journalists
+
+## Bitcoin tumbles after Strategy sale unnerves crypto traders
+Cryptocurrency is heading for biggest weekly loss since November 2022
+
+## Trump-run Kennedy Center took $2mn from ‘fake CIA operative’, lawsuit alleges
+Donation by alleged conman follows accusations of cronyism and corruption at Washington’s top performing arts centre
+
+## Raspberry Pi surges as investors bet on hardware linked to AI boom
+UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
+
+## Could you be the FT’s new stock picking champion?
+Register your portfolio now — the 8-week competition starts on 9 June
+
+## Mike Ashley’s Frasers seeks Big Four auditor after push to improve governance
+Retail group has tried to professionalise after previously struggling to find a firm to sign off its accounts
 
 ## Pugilistic Florida billionaire plots law firm stake sale to private equity
 Move by largest US personal injury firm could cement buyout groups’ arrival in a sector that has long been off-limits
-
-## Bumper US non-farm payrolls in May confirm Fed rate cuts are off the table
-Job gains were twice what was expected in May and unemployment rate was unchanged
-
-## India exempts foreign investors from tax on bonds to shore up rupee
-Central bank holds interest rates despite pressure on currency from foreign outflows and war in Iran
-
-## The Nowak murder: when tragedy meets politics
-Plus, Burnham backs electoral reform
-
-## The avoidable tragedy of Henry Nowak
-This case resonates because it plays into two sets of public fears
 
 ## Musk’s SpaceX lines up retail investors for record IPO allocation
 Up to a quarter of the rocket builder’s $75bn float will be set aside for individual investors
@@ -30,47 +42,47 @@ Up to a quarter of the rocket builder’s $75bn float will be set aside for indi
 ## UK retail investor demand for SpaceX surges to tens of thousands
 More than 30,000 small investors register interest in hotly awaited IPO
 
-## Raspberry Pi surges as investors bet on hardware linked to AI boom
-UK maker of tiny low-cost computers expects ‘robust demand’ to push unit sales above 4mn in first half
+## RBI keeps repo rate unchanged at 5.25%, policy stance neutral
+The RBI upped the FY27 retail inflation projection 5.1 per cent (earlier projection: 4.6 per cent) and cut the real GDP growth projection to 6.6 per cent (6.9 per cent)
 
-## BBC director-general Matt Brittin: ‘It’s worth fighting for’
-The former Google executive on the challenges facing the public service broadcaster, his plans to cut 2,000 jobs — and what impartiality means in a polarised world
+## Maize farmers likely to shift to cotton, soybean, paddy, ragi
+Deviations in rainfall during the June-September monsoon season will have significant implications for agricultural production in India
 
-## Quinn Emanuel raises pay for junior lawyers in London to £189,000
-Salary increase signals elite law firms are on cusp of fresh pay war as competition intensifies
+## India-US interim trade deal likely by mid-July: Piyush Goyal
+Trump expresses optimism but slams India’s “tremendous tariffs”; New Delhi negotiates preferential market access over rivals like Vietnam and Bangladesh
 
-## FirstFT: SpaceX lines up retail investors for record IPO allocation
-Also in today’s newsletter: Mythos at NSA and PwC partner payouts
+## India is largest source for immigrant founders of US unicorns, but still not shooting for the stars
+Indians feature prominently among founders who first arrived in the US as international students. There are 76 Indians who came to the US as international students and founded unicorns
 
-## The Musk exception on banking fees for SpaceX
-Most companies are still likely to pay full price on smaller US deals as a prestige good
+## CMR Green Technologies IPO subscribed 127 times on final day
+The IPO, priced in the range of ₹182-₹192 per share, is entirely an offer-for-sale of up to 3.28 crore equity shares by promoters and an investor-selling shareholder
 
-## Apollo drops £1.5bn bid for London-listed Bodycote
-US private equity group will be restricted from making another offer for components maker in coming months
+## Glass maker HNGIL issues legal notice to BIRA 91 over outstanding dues and unlifted inventory
+Glassmaker seeks ₹11.19 crore and demands lifting of over 51 lakh customised bottles
 
-## Nominal GDP to beat budget estimates of 10.1% in FY27: CEA Nageswaran
-Even if the growth were to slip below 7 per cent as the RBI forecast suggests… macro stability measures and supply assurances will bring us back to a 7 per cent plus growth track in FY28, says CEA
+## India remains fastest-growing major economy despite global uncertainty : PM Modi on latest GDP numbers
+Modi said that India achieved a 7.7% growth rate in FY26, with a 7.8% expansion in Q4, highlighting the effectiveness of his government’s reforms, infrastructure development, and welfare measures
 
-## Rajesh Exports plunges another 5% despite rejecting ‘scam’ allegations
-Alleged ₹15.15 lakh crore financial misrepresentation sparks market panic; investors scrutinise institutional giants, including LIC
+## Blackstone-backed AirTrunk to invest ₹3 lakh crore and over 5GW in India’s digital infrastructure
+The investment will drive cloud and AI growth, positioning India as a key market in AirTrunk’s global strategy, according to a press release
 
-## Congress seeks answers from govt over alleged ₹15.15 lakh-crore revenue misrepresentation at Rajesh Exports
-The party also sought clarification on whether any complaints, whistleblower inputs or regulatory red flags relating to the company had been brought to the government’s attention before SEBI launched its investigation.
+## Rupee jumps 56 paise to 95.18 vs US dollar after RBI announces forex-support measures
+The rupee surged 56 paise to 95.18 against the US dollar following RBI's measures to attract foreign capital and boost forex liquidity. These policy announcements, including expanding the Fully Accessible Route and removing taxes on foreign investment in G-Secs, improved investor sentiment. Analysts
 
-## Tata Trusts denies 1989 share transfer allegations, plans legal action
-Tata Trusts rejects the allegations as baseless and plans legal action to protect its reputation.
+## OIL reports presence of natural gas in its third exploratory well in Andaman block
+State-run Oil India Limited (OIL) has reported the discovery of natural gas in its third exploratory well, Vijayapuram-3, in the Andaman shallow offshore block. This finding further indicates the hydrocarbon potential in the region, following a previous discovery in the Vijayapuram-2 well. OIL is no
 
-## TVS HLX crosses 5 million in global sales
-Strengthens leadership across Africa, the Middle East and Latin America with presence in 57+ countries globally
+## More than 75 lakh households to have rooftop solar systems by Dec: Pralhad Joshi
 
-## Why SpaceX, OpenAI, Anthropic IPOs are pipe dream for Indian investors?
-Retail investors rarely get IPO allocations, as US companies allot shares largely to institutions. The chance of Indians getting allotment is almost nil
 
-## Annamalai resigns from BJP, to launch new political movement and contest elections
-The BJP National President Nitin Nabin on Friday accepted the resignation
+## At 7.7%, India's GDP growth in FY26 beats slowdown predictions; but will the momentum continue amid US-Iran war?
+What does the GDP data tell us about India’s economic prospects? Will the real hit from the US-Iran conflict reflect in the first quarter GDP numbers? And, is India’s long-term growth story under threat? Let’s take a look:
 
-## Hidden AI winners in India add $48 billion on data center boom
-The poster child for this rally is Sterlite Technologies Ltd, the optical-fiber maker owned by the Vedanta Group which has surged 500% this year
+## India-US trade deal talks: Both sides hold 'positive and constructive' negotiations, says MEA
+India and the US have concluded "positive and constructive" trade talks, signaling progress towards a bilateral agreement. Discussions covered goods, non-tariff measures, and economic security. Both nations reaffirmed their commitment to advancing the pact, with a US envoy noting only a small percen
+
+## Unicorn in the USA: Indians aren't stealing American jobs; they are building entire HR departments
+Immigrants are driving America's innovation, founding 59% of billion-dollar startups, known as unicorns. People of Indian origin lead this trend, establishing 96 such companies. These ventures employ thousands and contribute trillions to the U.S. economy, challenging narratives of immigrants harming
 
 ## US stock markets today (June 5, 2026): S&P 500, Nasdaq fall as tech stocks slide; strong jobs data dims rate-cut hopes
 Indian markets reacted to global cues as US stocks tumbled, led by tech giants like Nvidia, following a robust jobs report dampening interest rate cut hopes. Rising oil prices, fueled by Middle East tensions, also contributed to investor caution. Asian markets mirrored the downturn, with South Korea
@@ -78,71 +90,56 @@ Indian markets reacted to global cues as US stocks tumbled, led by tech giants l
 ## 'Ocean of energy opportunities reinforced': Oil India discovers natural gas in Andaman Sea deepwater well - watch
 Oil India Limited has discovered natural gas in the Andaman Sea at the "Sri Vijayapuram-3" exploratory well. This significant find, located 15 km off the Andaman Islands, was confirmed through continuous flaring during initial production testing. The discovery is part of the government's "Samudra Ma
 
-## 'Reform Express' to drive economic momentum amid global challenges: FM Sitharaman
-Finance Minister Nirmala Sitharaman affirmed the government's commitment to economic reforms despite global challenges, even as the RBI lowered its FY27 growth forecast. The government highlighted strong FY26 performance and introduced tax exemptions for foreign investors in government securities to
+## ‘No need for medical colleges, hospitals’: Ex-Bihar deputy CM lays out his health vision
+Vijay Sinha said, “Make Bihar so healthy that there would be no need for medical colleges and hospitals.”
 
-## Pakistan's $35 billion trade deficit rings alarm bells as PKR faces pressure despite forex gain
-Pakistan's foreign exchange reserves are nearing the $18 billion target, yet a widening trade deficit and upcoming debt payments raise economic stability concerns. Analysts warn the reserve build-up masks deeper vulnerabilities, with the rupee facing depreciation pressure. A soaring trade gap and po
+## Assam cabinet approves dearness allowance hike, raises it to 60%: CM Sarma
+The decision was taken at the first cabinet meeting following its expansion with the inclusion of 12 new ministers, 11 from the Bharatiya Janata Party (BJP) and one from the Asom Gana Parishad (AGP)
 
-## Protecting rupee, forex & economy: Will government, RBI measures on attracting foreign capital help?
-India’s balance of payments may see a third consecutive year of deficit, and the rising crude oil prices are threatening to expand the current account deficit. So what’s the solution to the problem?
+## Abhishek Banerjee retains his spot in TMC rejig, flanked by Mamata loyalists
+TMC parliamentary leader in the Rajya Sabha Derek O’Brien and RS member Dola Sen have been appointed national joint secretaries to assist Abhishek Banerjee
 
-## 'Success of reforms and hard work of 140 crore Indians': PM Modi hails 7.7% GDP growth in FY26
-India's economy achieved a strong 7.7% growth in FY26. This expansion highlights the nation's inherent economic strength. Prime Minister Narendra Modi attributed this success to effective reforms and the diligent efforts of 140 crore Indians. The government remains committed to improving ease of liv
+## It's not just Annamalai. Another BJP leader leader exits party in Tamil Nadu ‘after careful thought’
+State secretary Sumathi Venkatesh announced her decision to quit the party on Friday after K Annamalai and Karu Nagarajan's exit.
 
-## India can return to 7% growth by FY28 despite near-term risks, says CEA Nageswaran
-India can reclaim over 7% growth by FY28 through stable economics and supply improvements, contingent on better external factors, according to Chief Economic Adviser V Anantha Nageswaran. Despite the RBI's lowered FY27 forecast to 6.6% due to global price hikes and disruptions, Nageswaran remains op
+## Coal mine cave-in kills two workers, injures seven in MP’s Shahdol
+Two workers were killed, seven others injured after a section of the roof collapsed inside a Bangwar underground coal mine
 
-## India’s GDP grows at robust 7.8% in Q4 FY26; 7.7% full year growth beats estimates
-At constant prices, real GDP for the January-March quarter is estimated to have been at Rs 87.77 lakh crore, compared with Rs 81.40 lakh crore in the corresponding period of the previous fiscal year. Nominal GDP during the quarter is estimated at Rs 94.65 lakh crore, reflecting growth of 9.1%.
+## Army Captain made memorable proposal to longtime partner. It soon became a war between trolls and veterans
+Captain Bharat Bhardwaj said he had been in a relationship with his partner for five years and wanted to make the day special for her as well.
 
-## Goa student, heckled online for littering, dies by suicide after cops grill him
-The student’s family linked his death to the police keeping him waiting for half a day at the station. He was warned that he couldn’t leave the state till the probe was complete
+## India says mechanisms being used to deport illegal migrants to Bangladesh
+All foreign nationals in India, if they are here illegally, including from Bangladesh, we have laws to deal with them and they’ll be accordingly dealt with, Randhir Jaiswal said
 
-## Revolt-hit TMC to move HC over Ritabrata Banerjee's appointment as Bengal Leader of Oppn
-The TMC is rattled by a rebellion after 58 MLAs staked claim to become the principal Opposition party in Bengal, vertically splitting the party.
+## Karnataka CM change reflects public anger against Congress: PM Modi in Surat
+PM Narendra Modi said Congress replaced Karnataka Chief Minister Siddaramaiah due to growing public anger against the party’s government.
 
-## India lodges strong protest with Pakistan over election in Gilgit-Baltistan
-India lodged a strong protest against Pakistan’s decision to hold Gilgit-Baltistan Assembly elections, reiterating that the region is an integral part of Jammu and Kashmir.
-
-## Tests rule out canine distemper, Babesia in recent Gir lion deaths: Gujarat min
-Eight lion deaths in Gir, including six cubs, were not caused by canine distemper virus or Babesia, Gujarat forest minister Arjun Modhwadia said.
-
-## ‘Have to cut it off’: Anchor stops question after CJI Surya Kant's UK lecture, sparks row on ‘hostility to dissent’
-An attendee said, “We now hear from a number of legal observers… that there's a great deal of concern about growing hostility to dissent within India.”
-
-## FIR now against ‘Khan Sir’ over firing outside his Patna coaching institute
-Patna police registered FIR against the educator and two others over a firing and vandalism incident at the 'Khan Global Studies' (KGS) coaching institute.
-
-## 1,076 Indians deported from the US this year, says MEA
-“A total of 1,076 Indian nationals have been deported from the US to India so far this year,” external affairs ministry spokesperson Randhir Jaiswal said
-
-## TMC leader Firhad Hakim resigns as Kolkata Municipal Corporation mayor
-Firhad Hakim resigned as Kolkata mayor after securing Mamata Banerjee’s approval, amid a wave of resignations by TMC leaders from civic bodies.
-
-## TMC parliamentary split ‘just a matter of time’: As Mamata fights back, cracks grow
+## Relief for JEE qualifiers hit by CBSE OSM: IIT Roorkee allows seat allocation below 75%
 
 
-## Gir lion cubs’ deaths: No Babesia parasite trace found, says forest minister
+## ‘Exceptionally cruel, cold-blooded’: Jalgaon court awards death penalty to man for raping minor tribal girl, killing her and her 3 siblings
 
 
-## ‘Sanjay Leela Bhansali ka pura bathroom….’: Inside Terence Lewis’ artistic Mumbai home
+## ‘I landed in a ditch’: Salman Khan opens up about nearly-fatal movie stunts; expert on safety
 
 
-## Can adopted child inherit under Muslim Law? Madras High Court says no
+## Gadchiroli farmers intensify agitation against airport, industrial projects
 
 
-## Stonehenge mystery may be closer to being solved as scientists trace Altar Stone’s epic journey
+## ‘Don’t care who we’re leaving out’: Hussain wants IND to fast-track Sooryavanshi
 
 
-## Moving fast to close ‘open-ends’; first tranche of India-US trade deal by mid-July: Piyush Goyal
+## Himanta Sarma expands Assam Cabinet, balances new faces and loyalists, groups and regions
 
 
-## Cockroach Janata Party Protest Live Updates: Demonstration at Jantar Mantar tomorrow, demand for Dharmendra Pradhan’s resignation
+## Britain’s only serving female Royal Navy Commando among 3 killed in helicopter crash
 
 
-## ‘Cockroach Janta Party’ lists dos and don’ts for Delhi protest led by founder Dipke
+## Kolkata to get water metro, will be the 18th city to be linked, says CM Adhikari
 
+
+## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
+[The content of this article has been produced by our advertising partner.] AI has long been caught in a paradox: AI workloads demand high performance storage, long associated with flash, but scaling at AI levels with all-flash is prohibitively expensive. Hard disk drives (HDDs), on the other hand, 
 
 ## China launches space computing hub as SpaceX gears up for historic IPO
 China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes a record-shattering US$75 billion market debut to fund its own orbital AI ambit
@@ -165,8 +162,14 @@ The artificial intelligence frenzy has made Zhongji Innolight, a supplier of opt
 ## Inside Labuan IBFC, the Malaysian centre built for cross-border finance
 Cross-border finance is becoming more complex, not less. Businesses operating across jurisdictions are dealing with tighter regulation and more pressure to demonstrate transparency across markets, raising the bar for the international financial centres they use. This shift helps explain why global b
 
-## Hong Kong’s proposed bonus tax break for fund talent set to sharpen edge over Singapore
-Hong Kong is set to attract top global fund managers to relocate to the city, as they will no longer need to pay salaries tax on performance-linked bonuses if they meet certain criteria under a proposed law change to be submitted to the Legislative Council, according to industry sources and academia
+## What in the World?
+Test yourself on the week of May 30: Malta votes, Japan responds to militarism accusations, and Iran pauses talks with the U.S.
+
+## Myanmar’s Military Isn’t Conceding Much
+Prisoner releases mostly reflect the regime’s growing confidence five years after seizing power in a coup.
+
+## Sleeping in Mexico, Playing in America
+The journey of Iran’s World Cup team sets a dangerous precedent for international soccer.
 
 ## Does the United States Have the Weapons for Trade War?
 Economic strategists are pitching tougher policies for an anxious world.
@@ -182,15 +185,6 @@ The Board of Peace has been revealed to be so flawed as to be completely unworka
 
 ## To Fix Haiti, Look to Colombia
 An example—albeit an imperfect one—of how to achieve a lasting peace.
-
-## Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania
-Thousands call for Tirana to block the investment projects, citing environmental and corruption concerns.
-
-## Meanwhile, in the Western Hemisphere…
-The U.S. military remains extremely active in and around Latin America.
-
-## How Trump Should Approach an Iran Endgame
-Former Iran negotiator Robert Malley on the White House’s best options right now.
 
 ## Myanmar’s Military Is Turning to Russia to Revive Its Stalled Cyber Dream
 Could the stalled Yatarnapon Cyber City project be set for an injection of Russian assistance?
@@ -264,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?
-International law sets rules for ceasefires, but who enforces them when violations continue? Three experts explain.
+## Somalia declares order restored after two days of fighting in Mogadishu
+Violence that paralysed two Mogadishu districts subsides, but opposition rejects president's rule and vows to fight on.
 
-## FIFA cancels World Cup tickets for about 60 fans who got them for free
-Mispriced tickets were sold through the official World Cup site ahead of next week's showpiece event for FIFA.
+## Ukraine slows Russia’s army but struggles to down ballistic missiles
+Russia’s performance since December shows it can contest territory but cannot hold it, say battlefield observers.
 
-## Israel maintains attacks despite US-brokered deal with Lebanon
-The Israeli army also issues new forced displacement orders for several towns and villages in southern Lebanon.
+## US Senate passes $70bn ICE funding bill: What comes next?
+Republicans pass key Trump initiative after marathon vote-a-rama, avoid barring controversial 'anti-weaponisation' fund.
 
-## Celtic fans oppose Keane as potential manager after Israel role
-Ireland's record goalscorer Robbie Keane played for Celtic but his link to manager's job is facing criticism.
+## Zverev cruises past Mensik to reach second French Open final
+Alexander Zverev will face either Flavio Cobolli or Matteo Arnaldi in final, after beating Jakub Mensik at French Open.
 
-## Iran footballers hand passports to US embassy for World Cup visa approval
-Iran will fly to Mexico on Saturday to their home base at 2026 World Cup, while all their games are played in the US.
+## Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich
+Irish Taoiseach Martin says the ministers have shown 'a desire to see the elimination of Palestinians from Palestine'.
 
-## Fujimori vs Sanchez: What to know about Peru’s presidential run-off election
-The run-off follows a tumultuous first round of voting, which saw long lines, delayed results and accusations of fraud.
+## Why Washington is reducing visa processing across Africa
+US plans to centralise visa processing across Africa could increase cross-border travel for visa applicants.
 
-## Ukrainian marine drone explodes at Romanian port
-A malfunctioning Ukrainian naval drone has caused an explosion at a key Black Sea port in Romania.
+## Israeli Knesset member backs settlement push in southern Syria
+An Israeli Knesset member has publicly backed efforts to establish Israeli settlements in southern Syria.
 
-## How the US naval blockade has bled Iran of nearly $6bn in oil revenues
-Iran is exporting less than one-sixth of the oil it was shipping before the war began.
+## Man City chair Al Mubarak will ‘say everything’ after verdict on finances
+English Premier League side Manchester City charged with 115 alleged breaches of financial rules.
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
