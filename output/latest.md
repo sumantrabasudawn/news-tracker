@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Irish government under pressure over alumina exports to Russia
+Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
+
 ## US and Iran exchange strikes in new threat to shaky ceasefire
 Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
 
@@ -21,8 +24,8 @@ Could Brent crude hit $140 per barrel?
 ## Peru to vote on ninth president in a decade
 Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
 
-## AstraZeneca chief warns group could withhold new drugs in Europe
-Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
+## West Ham co-chair quits ahead of ‘publication of serious historic allegations’
+David Sullivan departs just two weeks after club was relegated from Premier League
 
 ## One billion pints: beer giants prepare for booziest World Cup in history
 An expanded tournament held in beer-friendly countries will result in an extra 1bn pints being consumed, say analysts
@@ -30,14 +33,11 @@ An expanded tournament held in beer-friendly countries will result in an extra 1
 ## How Monaco changed for F1
 Also in today’s newsletter: The $10bn club, pickleball’s rise and more
 
+## AstraZeneca chief warns group could withhold new drugs in Europe
+Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
+
 ## Investors wake up to the merits of sleep biotech
 More people worry about poor sleep than excess weight, but drugmakers have been deterred from entering the market by costs
-
-## On yer bike! Freud and middle-aged men in Lycra
-The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature
-
-## Irish government under pressure over alumina exports to Russia
-Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
 
 ## Kotak Mahindra Bank: Good time to relook?
 Kotak Mahindra Bank’s stock trades at over 30 per cent discount to its five-year mean P/B multiple
@@ -87,6 +87,9 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## LPG price hiked again: Cooking gas rates increased by ₹29, now cost ₹942 in Delhi
+The price of an LPG cylinder in Delhi has now been raised to ₹942 from ₹913, PTI news agency cited industry sources as saying.
+
 ## Mamata's nephew Abhishek visits Delhi amid fears of TMC Bengal revolt spreading to Parliament
 While Mamata and Abhishek were earlier scheduled to travel to Delhi at the same time, the latter reached the Capital a day earlier.
 
@@ -108,8 +111,8 @@ Ex-captain said on Saturday that he is not a player in this game, as reports sai
 ## NTA dismisses chatter of NEET re-exam paper ‘leak’, warns of action: ‘Every such claim is a fabrication’
 The NTA said such messages were aimed at misleading students and parents as it warned of strict action against miscreants.
 
-## Singapore orders blocking of online content targeting Indians
-The directive from Singapore’s home ministry, said police, have targeted 14 specific posts that appeared to promote a narrative that Singapore is being over-run by Indians
+## Hemkund Sahib Yatra 2026: How to reach, trek route, and what pilgrims should know
+
 
 ## From Lego to life saving innovation: How this homeschooler reimagined laryngoscope for better airway care
 
@@ -120,7 +123,7 @@ The directive from Singapore’s home ministry, said police, have targeted 14 sp
 ## Driver who allegedly dumped accident victim’s body on roadside arrested within 48 hours
 
 
-## American student Weston Higginbotham found dead in Japan after ChatGPT argument with mother
+## US student Weston Higginbotham who vanished in Japan’s Kyoto after fight over ChatGPT found dead
 
 
 ## Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
@@ -130,9 +133,6 @@ The directive from Singapore’s home ministry, said police, have targeted 14 sp
 
 
 ## FIFA allows water bottles again at World Cup 2026, but with riders
-
-
-## Kidney disease, pregnancy, tattoos: Expert on when MRI scans may be risky
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## From first lady to president? Inside the rise of Peru’s Keiko Fujimori
+In her fourth bid to be president, Fujimori faces her best odds yet. But can she overcome scandal and her father's past?
+
+## ‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout
+Minister Daryl Vaz reassures residents that power had been restored across Jamaica after a rare islandwide outage.
+
+## Why are Armenia’s elections being so keenly watched abroad?
+Russia, the United States and European Union all have interests as geopolitics take centre-stage.
+
 ## 100 days into the war on Iran, Trump fails to rally US support
 Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.
 
@@ -269,15 +278,6 @@ Activists disrupt German military exhibit over arms sales to Israel.
 
 ## Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers
 The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.
-
-## ‘I’m a cockroach’: Gen Z protest movement lands in Indian capital
-India's Gen Z Cockroach movement stages its first protest in the capital, demanding education minister's resignation.
-
-## Videos show Kuwait intercepting ballistic missiles from Iran
-Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.
-
-## Israeli attack on Gaza City tent camp kills at least six
-Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza 'ceasefire' agreement.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
