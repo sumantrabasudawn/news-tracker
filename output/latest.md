@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Abu Dhabi’s Etihad to surpass pre-Iran War capacity without price cuts
+Airline had its planes grounded when fighting began but demand for transit through region has recovered
+
+## What we know about the plan to give Americans an equity stake in AI
+OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety about the impact of artificial intelligence
+
 ## The teenagers enlisted as agents of mayhem by Russia and Iran
 Minors are being targeted to carry out hostile acts from Ukraine to western Europe and Israel
 
@@ -18,11 +24,8 @@ President attempts to craft a regime of punitive trade measures that can survive
 ## Allegations against Maine Senate candidate plunge Democrats into turmoil
 Political outsider’s campaign is overshadowed by accusations of inappropriate behaviour
 
-## Netherlands moves to soothe rich investors over tax on paper profits
-Most countries only impose levies once gains are realised
-
-## Pricing the oil inventory drawdown
-Could Brent crude hit $140 per barrel?
+## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
+Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
 
 ## West Ham co-chair quits ahead of ‘publication of serious historic allegations’
 David Sullivan departs just two weeks after club was relegated from Premier League
@@ -32,15 +35,6 @@ An expanded tournament held in beer-friendly countries will result in an extra 1
 
 ## How Monaco changed for F1
 Also in today’s newsletter: The $10bn club, pickleball’s rise and more
-
-## Peru to vote on ninth president in a decade
-Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
-
-## AstraZeneca chief warns group could withhold new drugs in Europe
-Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
-
-## Investors wake up to the merits of sleep biotech
-More people worry about poor sleep than excess weight, but drugmakers have been deterred from entering the market by costs
 
 ## Kotak Mahindra Bank: Good time to relook?
 Kotak Mahindra Bank’s stock trades at over 30 per cent discount to its five-year mean P/B multiple
@@ -90,6 +84,9 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## TDP announces three Rajya Sabha candidates for upcoming elections
+The Telugu Desam Party (TDP) on Saturday announced its candidates for the upcoming Rajya Sabha elections.
+
 ## CJP thanks Delhi Police for ‘all possible cooperation’ during ‘Cockroach’ protest, cops's cautionary message
 The Cockroach Janta Party organised a protest led by its founder Abhijeet Dipke at the Jantar Mantar demanding Education Minister Dharmendra Pradhan's removal.
 
@@ -111,31 +108,28 @@ Some seemed to have chosen the protest as a Saturday outing. Nalin joked, "I tol
 ## Media distrust emerges as a key theme among Cockroach Janta Party protesters | Ground Report from Jantar Mantar
 The ‘Cockroach’ movement may have started as a call for accountability amid ongoing exam irregularities, but the sentiment on the ground went beyond that.
 
-## BJP chief takes a ‘puppets’ dig as Cockroach Janta Party protest sets a 7-day ‘deadline’ for education minister to quit
-BJP chief said that while youth wants to work for building the nation and secure their future, “some people labeled the youth ‘anti-establishment’”.
+## Education Minister isn’t running away… he’s taken steps to fix the problem: Kiren Rijiju
+
+
+## After NEET-UG 2026 leak, NTA wants question setters to not know which exam they’re setting papers for
+
+
+## Multiple people have been shot near a festival in Toledo, Ohio, authorities say
+
+
+## Sense in PM-EAC meeting: Moves to attract foreign funds can get $70 billion
+
+
+## Project Glasswing: Key cybersecurity agencies set to get access to Anthropic’s Mythos
+
+
+## Verify nationality of 2,860 people for their deportation, India tells Bangladesh
+
+
+## Jaishankar, Nepal’s Foreign Minister vow to take bilateral ties to new heights
+
 
 ## Malayalam actor Salim Kumar dies at 56
-
-
-## ‘They’re just more honest’: Imtiaz Ali defends Gen Z’s approach to love and romance
-
-
-## Hemkund Sahib Yatra 2026: How to reach, trek route, and what pilgrims should know
-
-
-## From Lego to life saving innovation: How this homeschooler reimagined laryngoscope for better airway care
-
-
-## Sushmita Sen says being thin is not a marker of fitness: ‘I’ll introduce you to dietitians’
-
-
-## Driver who allegedly dumped accident victim’s body on roadside arrested within 48 hours
-
-
-## US student Weston Higginbotham who vanished in Japan’s Kyoto after fight over ChatGPT found dead
-
-
-## Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
