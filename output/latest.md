@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## US and Iran exchange strikes in new threat to shaky ceasefire
-Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
+## Peru to vote on ninth president in a decade
+Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
 
-## Crisis engulfs one of world’s biggest free school meals programmes
-Indonesia has arrested top officials overseeing $15bn scheme over alleged corruption
+## AstraZeneca chief warns group could withhold new drugs in Europe
+Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
 
-## India’s exam fiasco fuels rising youth discontent
-Cancellation of medical entrance tests taken by more than 2mn people sparks anger at Narendra Modi’s government
+## Irish government under pressure over alumina exports to Russia
+Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
 
-## Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties
-General counsel resigned after revelations about relationship with disgraced financier but now will stay on as adviser
+## The Tories, Restore Britain and their ‘shared enemy’
+Nigel Farage’s populist Reform UK party leads the polls and is a target for both
 
-## SpaceX signs $30bn deal to lease computing capacity to Google
-Agreement comes ahead of a record-breaking initial public offering for Elon Musk’s rockets-to-AI conglomerate
+## Wasting China’s solar panel surplus is madness
+Clean power is within our reach — yet factories sit idle
 
-## Number 10 hits out at people stoking ‘division’ after JD Vance’s claims about Nowak case
-Downing Street criticises those trying to ‘interfere’ in UK democracy
+## Are US Treasuries becoming a financial chokepoint?
+A haven asset for the financial system is becoming a source of risk
 
-## Nasdaq tumbles 4% as shares in chip and memory groups sink
-Rising expectations of a Federal Reserve rate increase send US bond yields rising sharply
+## Why bother with university?
+As costs soar and graduate prospects dim, the value of higher education can no longer be taken for granted
 
-## Inside the CBS mutiny against Bari Weiss and David Ellison
-A saga that started with Trump’s assault on ‘60 Minutes’ has turned into a full-blown crisis
+## Pro-Russian billionaire under house arrest seeks power in Armenia
+Samvel Karapetyan is biggest challenger to pro-western incumbent in Sunday’s election
 
-## Trump says US may take equity stakes in AI companies
-President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections
+## Investors wake up to the merits of sleep biotech
+More people worry about poor sleep than excess weight, but drugmakers have been deterred from entering the market by costs
 
-## European airlines sit on €3.2bn in unpaid delay compensation
-FT calculations show just a fraction of €18bn due since 2011 has been paid out
+## On yer bike! Freud and middle-aged men in Lycra
+The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature
 
-## Meta weighs big equity raising after blockbuster Google deal
-Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure
+## In World Cup season, choose your financial trophies carefully
+Real Madrid’s president has made it very clear that investing in the club is mainly about having fun and making contacts
 
-## The ethical dilemmas of AI
-How we address the revolution is a question of how we manage its uncertainties
+## Directors’ Deals: BP veteran hives off nearly £2mn in shares ahead of Manifold brouhaha
+The group has been struggling to convince the market that it now possesses greater strategic clarity
 
-## FIFA permits sealed disposable water bottles at World Cup venues
-The decision follows concerns raised over hydration and extreme weather conditions expected during the tournament
+## Kolkata Metro to get 60 next-generation trains in five years: Ashwini Vaishnaw
+Vaishnaw also outlined proposed high-speed rail corridors, including Delhi–Varanasi and Varanasi–Siliguri routes, aimed at sharply reducing travel time and boosting regional connectivity
 
-## India entered 1,821 new markets in FY26: an agri exports keep pace without supply chain reform?
-The future of agri exports will be determined at the warehouses, logistics corridors, the cold chains, technology platforms
+## SAS says working closely with Indian govt to commence flights
+The airline’s return to India after seventeen years has hit a hurdle
 
-## Cockroach Janta Party founder Dipke arrives in Delhi, urges peaceful Jantar Mantar protest
-Group demands accountability for the alleged irregularities in examinations and recruitment tests, calls for resignation of Union Education Minister Dharmendra Pradhan
+## Praggnanandhaa calls Norway Chess win biggest achievement after historic triumph
+He credited improved time management and consistency for his four consecutive wins that sealed the title.
 
-## US grants visas to Iran World Cup team despite ongoing conflict
-The team is scheduled to play its opening matches against New Zealand and Belgium in California before travelling to Seattle to face Egypt.
+## Vizag port successfully berths 292-metre-long cape-sized bulk carrier
+MV Graceous, a cape-sized bulk carrier with 45 metres beam and a draft of 12.2 metres, had arrived at the port's EQ-1 berth, said an official press release from the Visakhapatnam Port Authority (VPA)
 
-## Scientists sharing anti-Trump editorial kicked out of conference
-Those escorted out of the American Diabetes Association’s annual meeting included Justin Ryder, a paediatric obesity researcher at Northwestern Medicine, and Steven Kahn, the editor-in-chief of Diabetes Care
+## Praggnanandhaa makes history as first Indian to win Norway Chess title
+The 20-year-old finished with 18 points, edging ahead of Wesley So and Alireza Firouzja in a closely fought contest
 
-## How Gujarat is writing India’s copper self-reliance story
-India does not have a copper shortage; it has a copper strategy shortage and the window to fix it is narrowing
+## World Cup workers threaten strike before $2,000-a-ticket game
+The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment
 
-## SpaceX inks $30 billion computing power deal with Google
-The contract gives Google access to 110,000 of Nvidia’s graphics processing unit chips, as well as central processing unit chips, memory chips and other related components
+## Israeli forces kill Palestinian infant in occupied West Bank, say health officials
+Seven-month-old Sam Fahd Abu Haikal was killed Friday evening, and his parents were wounded while driving in the Tel Rumeida area south of Hebron City, according to the Palestinian health ministry
 
-## Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures
-A worst-case scenario could approach the worst Ebola outbreak in history, the West Africa epidemic in 2014-2016 -- which resulted in more than 28,000 reported cases and more than 11,000 deaths
+## SpaceX IPO draws strong European retail demand but experts warn of high risks
+However, experts warn that the company’s high valuation, limited float and lack of voting rights could expose retail investors to significant risk.
+
+## India's stock market mania hits milestone: NSE logs 26 crore trading accounts and counting
+India's investor base has reached a new peak with over 26 crore unique trading accounts on the NSE. The exchange added the latest crore accounts in under four months, highlighting rapid growth beyond major financial hubs. This surge is fueled by digitalization, simpler KYC, and positive market perfo
+
+## E85 fuel to get Rs 20/litre cheaper as India ramps up ethanol push
+India is launching E85 petrol, an 85% ethanol blend, at discounted prices. This move aims to boost clean fuel adoption and cut reliance on imported fossil fuels. The government plans a phased rollout of E85 dispensing stations nationwide. Vehicle manufacturers are introducing E85 compatible models. 
 
 ## $1.3 trillion erased from Wall Street: Here's what slowed down AI rally
 Tech stocks, particularly semiconductors, experienced a significant downturn Friday, driven by investor caution over AI valuations and robust US jobs data. The PHLX Semiconductor Index saw its steepest drop since March 2020, erasing billions in market value. This retreat follows a period of record h
@@ -78,59 +84,56 @@ The Reserve Bank of India is introducing new rules for bank deposit interest rat
 ## Government ready to take more measures to insulate economy
 The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced
 
-## G-Secs rally as govt and RBI ease foreign investing rules
-Government and RBI measures to boost foreign investment in government securities led to a bond rally, with benchmark 10-year G-Sec yields softening. Exemptions from long-term capital gains and withholding taxes for FPIs in G-Secs, along with expanded investment options, are seen as positive for the 
+## Haircut to cost ₹180, shaving ₹120 as barbers' body revises grooming charges in Maharashtra
+A functionary of Maharashtra Nabhik Mahamandal from Nagpur said that under the revised rate chart, a haircut will now cost ₹180.
 
-## Mutual fund houses restrict investments into gold ETFs, FoFs
-Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, are temporarily restricting large lump-sum investments in gold ETFs and fund of funds. This move aligns with the government's policy to discourage gold purchases, following an increase in import duty. The restrictions pr
+## ‘Bankipur a BJP stronghold, but…’: Prashant Kishor confident of key Bihar contest
+The seat is currently vacant after BJP leader Nabin was elected to the Rajya Sabha and was elevated to the post of the party's national president in January.
 
-## Right to travel abroad cannot be viewed in isolation, says Supreme Court
-The court stressed that while the Constitution guarantees personal liberty, including the right to travel abroad, “such right cannot be viewed in isolation”.
+## Nagpur NEET aspirant's suicide note not attached to case papers, explanation sought
+When the matter was finally exposed, senior police officers conducted an inquiry to fix responsibility and submitted a report to the DCP.
 
-## ‘Indecorous audience behaviour’: Indian mission in UK condemns disruption at CJI Surya Kant's London lecture
-The viral video shows an attendee attempting to raise questions on dissent in India while the programme was underway.
+## Driver killed after trucks collide, catch fire on KMP Expressway in Gurugram: Cops
+A 22-year-old truck driver was charred to death after getting trapped inside the mangled cabin following a collision between two trucks near Patli Hajipur village
 
-## Double whammy for Mamata Banerjee? Buzz over repeat of TMC rebellion in Parliament
-Mamata Banerjee founded TMC after separating from the Congress in 1998. Ever since, the party has been a major force in West Bengal with Banerjee at its centre.
+## Former Himachal Congress VP Neeraj Bharti's Facebook account blocked amid rift with party
+The HPCC on Friday accepted the resignation of former Chief Parliamentary Secretary (CPS) Neeraj Bharti from the post of Vice-President of the state party unit.
 
-## Annamalai joined BJP because Rajinikanth didn't form party: Congress leader
-K Annamalai resigned from the BJP and launched his own political movement “against cult politics” that would eventually turn into a political party.
+## Overnight heavy rains cause waterlogging, uprooting of trees in parts of Kerala
+A tree fell on a temporary shed, destroying it and killing a 29-year-old man sleeping under it in Thrissur's Manaloor, a fire and rescue services official said.
 
-## NIA court orders framing of charges against 26 PFI leaders for seeking to establish caliphate
-The order was passed by Special NIA judge Prashant Sharma of the Patiala House courts.
+## Pro-Khalistan slogans, Bhindranwale posters raised in Golden Temple Complex on Blue Star anniversary
+The Punjab Police had established a comprehensive security grid across Amritsar and the surrounding areas to maintain security and law and order.
 
-## Why CJP chose the Jantar Mantar as its protest site: A history of the 18th-century stone observatory
-The instruments at Jantar Mantar were once used to observe celestial movements, measure time, track the sun’s position, and refine astronomical calendars.
+## ‘Sanctions threats would boomerang under PM Modi's leadership’: Putin backs India's autonomy
+Putin said that Russia's ties with India are not “subject to political environment” and that no one can dictate Russia to not deliver to India.
 
-## Reddy’s exit puts spotlight on Bengaluru development portfolio
-Ramalinga Reddy's resignation highlights the significance of the Bengaluru Development portfolio, a key center of power in the state government.
-
-## RBI keeps rates steady, takes steps to attract foreign capital
-The primary reason for the adverse movement in the growth-inflation balance is the disruption from the ongoing war in West Asia.
-
-## CBI court rejects bail plea of CSCL’s ex-chief finance officer in public funds diversion case
+## Shreyas Iyer named India’s new T20I captain, replaces Suryakumar Yadav
 
 
-## Jathedar Giani Kuldip Singh Gargajj calls for Sikh unity on 42nd anniversary of Operation Blue Star
+## Mario Miranda birth centenary: The people of Goa who lived forever in his drawings
 
 
-## Chandigarh schools converted parking into playgrounds, swimming pools; DC: restore original plan or face action
+## ‘Outsiders have it easier’: Imtiaz Ali says Ranbir-Alia face greater scrutiny as nepo kids
 
 
-## Film body urges Maharashtra CM to intervene in Shilpa Shinde’s false sexual harassment case
+## Mario Miranda birth centenary: Inside the diaries that shaped his iconic cartoon style
 
 
-## Sacked staffer arrested for setting shop on fire, causing Rs 1.5-crore loss: Chandigarh Police
+## Solving Crime: How 48 injuries and a bike named ‘Chinnu’ exposed a shocking crime in Karnataka
 
 
-## 2 masked suspects caught on CCTV entering DU assistant professor’s apartment complex day after her body found
+## Monsoon advances into Karnataka, may reach Mumbai by June 15
 
 
-## The Menin breakthrough: How a newly identified brain protein could reverse aging
+## Chembur’s Sindh Pani Puri House is here since 1951 and had star-studded clientele, including late Rishi and Raj Kapoor
 
 
-## CBSE extends Class 12th verification, re-evaluation application deadline
+## KCET Results 2026 Declared: Tanisha Karthik tops in engineering stream
 
+
+## Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA
+Mainland customers can still open bank accounts in Hong Kong, but banks must adopt stringent new checks to ensure their processes are “compliant and orderly”, the Hong Kong Monetary Authority (HKMA) said in a statement on Saturday. “The banking industry has implemented the new regulatory requirement
 
 ## Chinese carriers seize two-thirds share of post-pandemic air routes
 Chinese carriers have captured an expanding slice of the international air travel market for routes connecting Chinese and overseas cities since the Covid-19 pandemic, according to data presented at an industry summit in Beijing on Friday. Local carriers currently held a 66.5 per cent market share c
@@ -152,9 +155,6 @@ Hong Kong’s de facto central bank has formed a group of industry experts to he
 
 ## China sees revival of foreign investors through IPOs, convertibles: UBS
 Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chin
-
-## Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules
-Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having 
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US says Iranian radar sites hit in Goruk and Qeshm Island
+The US military released footage showing what they say are military strikes on Iranian radar sites.
+
+## North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media
+Kim Jong Un has continued to visit military sites before a visit by China's Xi Jinping on Monday and Tuesday.
+
+## What’s new at World Cup 2026? From match ball sensors to AI and robot dogs
+Technology, more specifically AI, will play a big role in the new additions at the upcoming World Cup.
+
+## New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead
+Spurs in need of an unprecedented comeback when the best-of-seven series shifts to New York for games three and four.
+
+## Israeli soldier shoots Palestinian baby dead near Hebron
+An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.
+
 ## Arrests of critics in Ghana provokes alarm over free speech under Mahama
 Ghana’s 14 arrests in 16 months linked to false news have raised concerns about free speech.
 
@@ -260,21 +275,6 @@ Portuguese star Cristiano Ronaldo hit the training pitch as he readies for his s
 
 ## Gaza fishermen stay afloat with dinghies made from doorframes
 Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.
-
-## Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash
-The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel's attacks on the country.
-
-## Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
-Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.
-
-## Iran footballers issued US visas for World Cup, says White House
-Iran players get visas 10 days before their opening ‌World Cup match against New Zealand in Los Angeles on June 15.
-
-## Zelenskyy: Putin choosing war by rejecting offer for in-person talks
-Russian President Vladimir Putin has turned down an offer for in-person talks with the Ukrainian President.
-
-## Trump hails jobs surge, says Iran talks ‘going well’
-Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran "seem to be going quite well".
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
