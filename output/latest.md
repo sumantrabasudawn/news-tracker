@@ -39,29 +39,29 @@ The ever-present fear of ridicule among cycling’s weekend warriors tells us a 
 ## Irish government under pressure over alumina exports to Russia
 Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
 
+## The day all hedges fell
+Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
+
+## Shyam Srinivasan shares lessons from banking and cricket in new book
+The former banker’s new release better never stops is a part memoir and part leadership guide
+
+## Shyam Srinivasan’s ‘Better Never Stops’ launched in Kochi
+Drawing on his extensive experience in steering organisational transformation, navigating market disruptions and driving sustainable growth, Srinivasan reflects on the principles that shaped his leadership journey
+
+## Bullion Cues: Gold futures and silver futures exhibit weakness
+Recovery may face hurdles
+
 ## AI will reshape jobs, but India’s bigger challenge is preparing workers, boardrooms and classrooms
 With AI set to transform everything from agriculture to healthcare, the speakers stressed that India has the chance to shift from just consuming tech to creating it, shaping a future where young minds can thrive in a rapidly changing world
 
-## Mutual Funds returns
-As on : Jun 06, 2026
+## F&O Strategy: Short Hyundai Motor
+This strategy is only for traders who can understand the risk in futures and can meet margin obligations comfortably
 
-## Cockroach Janta Party holds protest in Delhi, seeks Pradhan’s resignation
-Ladakh’s former BJP MP Sonam Wangchuk, who has since quit the party, also attended the protest and extended his support to CJP
+## Mastering Derivatives: Cash-flow factor in BTST trades
+You cannot use the capital blocked in the cash segment till the next day
 
-## Govt agencies, private companies among Indian entities given access to Anthropic's Mythos
-Sources stated that the number of Indian entities with access to the model is currently in the single digits
-
-## Pfizer's monthly obesity shot has side-effect profile similar to Wegovy in midstage trial
-The drugmaker aims for berobenatide to be the first monthly GLP-1 weight-loss injection, distinguishing it from blockbuster drugs like Wegovy and Eli Lilly’s Zepbound
-
-## US-based GE Vernova inks pact with Powerica for supply of wind turbines in Gujarat
-Powerica has secured the project's power purchase agreement (PPA) through a competitive auction conducted by Gujarat Urja Vikas Nigam Limited
-
-## India, China share two millennia of legacy of learning and dialogue: Indian envoy
-Doraiswami, India’s new envoy to China, visited Beijing Foreign Studies University last month, delivering a lecture and engaging with students and faculty
-
-## Monsoon advances even as El Niño signals strengthen
-Global climate indicators point to a strengthening likelihood of El Niño conditions in the tropical Pacific
+## Crude Check: Oil futures capped
+Further downside likely
 
 ## 5 ways IBC transformed India's corporate rescue system over the past decade
 
@@ -87,6 +87,15 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## BJP chief takes a ‘puppets’ dig as Cockroach Janta Party protest sets a 7-day ‘deadline’ for education minister to quit
+BJP chief said that while youth wants to work for building the nation and secure their future, “some people labeled the youth ‘anti-establishment’”.
+
+## Mamata's slog-over attempts to stop team collapse, then a Sourav Ganguly ‘clarification’ cameo
+Ex-captain said on Saturday that he is not a player in this game, as reports said he was tasked with getting Yusuf Pathan to quit seat for Mamata Banerjee
+
+## NTA dismisses chatter of NEET re-exam paper ‘leak’, warns of action: ‘Every such claim is a fabrication’
+The NTA said such messages were aimed at misleading students and parents as it warned of strict action against miscreants.
+
 ## Singapore orders blocking of online content targeting Indians
 The directive from Singapore’s home ministry, said police, have targeted 14 specific posts that appeared to promote a narrative that Singapore is being over-run by Indians
 
@@ -102,37 +111,28 @@ The flags were initially placed at key road intersections as a part of the AAP g
 ## Stalled railway projects worth ₹1 lakh cr to resume soon in WB: Adhikari
 Adhikari directed government and district officials to prepare a calendar for handing over land to the railways for the completion of pending projects
 
-## Court protecting rights only for those who can litigate not fulfilling constitutional function: CJI
-Court protecting rights only for those who can litigate not fulfilling constitutional function: CJI
-
-## How Asia’s largest oxbow lake is losing its fish, water, and future | HT Ground Report from a Ramsar Site in Bihar
-Kanwar Lake has rapidly shrunk in last two decades due to encroachment, climate change and conflicting interests of communities
-
-## New video shows casino floor drug deal which caused fatal overdose, took influencer Anunay Sood's life
-The travel influencer died last year in Las Vegas, with authorities citing an accidental overdose involving fentanyl and alcohol as the possible cause.
-
-## ‘I almost died there’: Vikram Bhatt recalls health crisis during 70-day Udaipur jail stay
+## Mission T20 World Cup 2028: India selectors shift from reputations to promise
 
 
-## Kota priest hacked to death inside monastery, saints launch protest over delayed arrests
+## Mumbai tanker operators announce indefinite strike from midnight amid water crisis
 
 
-## A ‘thank-you’, and a word of caution from activist Sonam Wangchuk at the Cockroach Janta Party protest
+## Heavy rain alert for Bengal in next 7 days: Kolkata to see intense spells, heavy downpour in North
 
 
-## The 4-hour aloe vera illusion: Why the brightening glow quickly fades away
+## MP teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
 
 
-## In Gujarat, Parsi woman married to Muslim ‘denied funeral rights’ by their communities given Hindu cremation
+## ‘Very happy for Shreyas’: Surya on Iyer succeeding him as India T20I captain
 
 
-## South Delhi hotel fire: Chef of B&B held as police say his ‘negligence’ may have contributed to blaze
+## ‘Iran is strong, proud’: Trump says Tehran will eventually ‘have no choice’
 
 
-## In Gujarat RS contest, BJP eyes sweep as Congress set to draw a blank for first time
+## Inspired by Rahul Gandhi’s dive, explore these 5 scuba diving spots in the Andamans
 
 
-## In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS
+## Destiny’s child: How Andreeva turned a mother’s dream into a French Open title
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Activists disrupt German military exhibit over arms sales to Israel
+Activists disrupt German military exhibit over arms sales to Israel.
+
+## Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers
+The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.
+
+## ‘I’m a cockroach’: Gen Z protest movement lands in Indian capital
+India's Gen Z Cockroach movement stages its first protest in the capital, demanding education minister's resignation.
+
+## Videos show Kuwait intercepting ballistic missiles from Iran
+Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.
+
+## Israeli strike kills at least six people at wedding in Gaza
+At least 15 people have been injured in the attack, according to local medical sources.
+
 ## What Afghanistan’s rotten apples tell us about its non-profit sector
 Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.
 
@@ -263,21 +278,6 @@ Why Lebanon remains central to Israel's multi-front wars.
 
 ## Pope calls for end to polarisation during visit to Spain
 Huge gatherings are expected in the coming days for the first visit to Spain by a pope since 2011.
-
-## ‘Elections campaigned on who can be more brutal to Palestinians’
-‘Elections campaigned on who can be more brutal to Palestinians’
-
-## Argentina’s ‘Madman’: Inside the world of Javier Milei
-Argentina’s self-styled anarcho-capitalist president impressed – and later alienated – many voters.
-
-## Pope Leo praises Spain’s ‘commitment to peace and solidarity’
-Pope Leo XIV arrived in Madrid and was welcomed by King Felipe VI and Queen Letizia.
-
-## Hegseth says Europe is being ‘invaded by dangerous migrants’
-Hegseth says Europe is being ‘invaded by dangerous migrants’.
-
-## Rescuers stop search for last two men lost in Laos cave
-The search and rescue team say it is 'high risk' to continue the operation.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
