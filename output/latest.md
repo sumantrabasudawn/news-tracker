@@ -78,29 +78,47 @@ Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, 
 ## RBI cuts growth, hikes inflation forecast as West Asia crisis bites
 The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.
 
+## Cong’s J’khand RS nomination stirs row: JMM set to field for both seats
+Ranchi: Fissures in Congress-JMM alliance over Rajya Sabha elections as JMM demands to contest both seats; Congress names candidates.
+
+## Won’t allow infiltration to change demography: Shah
+Union Home Minister Amit Shah emphasizes on preventing demographic changes through illegal infiltration in Tripura, West Bengal, Bihar. Strengthening border security with technology-driven measures.
+
+## MEA: System in place to verify illegal migrants
+India has a mechanism with Bangladesh to verify and deport suspected illegal migrants. Bilateral process in place for deportation, with pending cases.
+
+## Ramalinga resigns as K’taka minister citing ‘humiliation’
+Senior Congress leader R Ramalinga Reddy resigned from Karnataka cabinet on live TV, citing portfolio denial. Party conflict escalates in ruling dispensation.
+
+## TMC leader Firhad Hakim quits as Kolkata mayor
+Trinamool Congress leader Firhad Hakim resigns as Mayor of Kolkata Municipal Corporation, citing inability to fulfill duties post-party's assembly poll defeat.
+
+## Abhishek Banerjee stays Gen Secy, but with two joint secys
+Abhishek Banerjee reappointed as TMC national general secretary amid internal rebellion; Mamata Banerjee reshuffles party leadership in West Bengal.
+
 ## US court strikes down Trump's immigration freeze affecting 39 countries: Will India be impacted?
 The measures placed a blanket pause on immigration benefits for affected applicants, affecting asylum claims, work authorisations, green cards, etc.
 
 ## No relaxation in 75% class 12 marks rule for IIT admissions, says Joint Admission Board
 The demands were made in the wake of growing concerns among students over the delay in re-evaluation process of CBSE exams.
 
-## ‘Trust-based relations’: Putin on nearly 80 years of India-Russia ties; says Indians are talented, well educated
-Russian President Vladimir Putin spoke of both nations navigating energy supply vulnerabilities caused by the US-Israeli war near the Strait of Hormuz.
+## Govt re-appoints Swaminathan Janakiraman as RBI Deputy Governor for two years
 
-## Ex-TMC MLA Saokat Molla arrested in NIA crackdown on pre-poll Bhangar blast case
-The investigation concerns a bomb blast that occurred days ahead of the West Bengal Assembly elections. One person was killed.
 
-## No relaxation in IIT admission 75% Class 12 marks rule: Joint Admission Board
-JAB says IIT admissions through JEE Advanced 2026 will continue to require 75% Class 12 marks despite demands for relaxation over CBSE delays.
+## Nepal’s Foreign Minister begins three-day India visit
 
-## PoK would have been ours had Operation Sindoor continued for 2 more days: Rambhadracharya
-The spiritual guru also predicted a 2029 victory for PM Modi and a continued run as defence minister for Rajnath Singh
 
-## ‘No need for medical colleges, hospitals’: Bihar minister lays out his vision
-Vijay Sinha said, “Make Bihar so healthy that there would be no need for medical colleges and hospitals.”
+## Kerala High Court dismisses appeal against ED probe by firm linked to Pinarayi Vijayan’s daughter
 
-## Assam cabinet approves dearness allowance hike, raises it to 60%: CM Sarma
-The decision was taken at the first cabinet meeting following its expansion with the inclusion of 12 new ministers, 11 from the Bharatiya Janata Party (BJP) and one from the Asom Gana Parishad (AGP)
+
+## Cockroach Janta Party founder Dipke lands in Delhi today, police prepare for protest
+
+
+## Differential rates on deposits beyond RBI norms not acceptable, says Governor
+
+
+## Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots
+
 
 ## Low magnesium levels: 3 signs that may indicate a deficiency
 
@@ -108,23 +126,8 @@ The decision was taken at the first cabinet meeting following its expansion with
 ## Supreme Court orders status quo on deportation of two women declared foreigners by Assam tribunal
 
 
-## Praggnanandhaa wins Norway Chess 2026 title after stunning final round victory
-
-
-## Neetu Kapoor calls Ranbir and Alia ‘outstanding’ parents to Raha: ‘Very scared of her mother’
-
-
-## US adds 172,000 jobs in May, easing fears of labour market slowdown
-
-
-## Why the size of your prostate matters less than the daily symptoms
-
-
-## Extreme heat at FIFA World Cup 2026: England to use palm-cooling tech – Report
-
-
-## Buffy the Vampire Slayer actor Anthony Head dies at 72
-
+## Targeting US$610 billion longevity market, biotech firms race to reverse ageing
+For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs building up in a complex software system – it happens once errors begin to accumulate in the genetic code of human cells, such as their DNA sequences. “Those errors can be reprogrammed. It becomes possible to use AI to rea
 
 ## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
 [The content of this article has been produced by our advertising partner.] AI has long been caught in a paradox: AI workloads demand high performance storage, long associated with flash, but scaling at AI levels with all-flash is prohibitively expensive. Hard disk drives (HDDs), on the other hand, 
@@ -146,9 +149,6 @@ Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings
 
 ## AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark
 The artificial intelligence frenzy has made Zhongji Innolight, a supplier of optical modules to US hyperscalers, the biggest constituent of China’s stock benchmark, highlighting AI’s profound impact on the world’s second-largest equity market. The northern Shandong province-based company had a 5 per
-
-## Inside Labuan IBFC, the Malaysian centre built for cross-border finance
-Cross-border finance is becoming more complex, not less. Businesses operating across jurisdictions are dealing with tighter regulation and more pressure to demonstrate transparency across markets, raising the bar for the international financial centres they use. This shift helps explain why global b
 
 ## The U.S. Economy Is Proving Remarkably Resilient
 Even in the face of tariffs and an energy crisis, the jobs report shows an economy that’s still humming.
