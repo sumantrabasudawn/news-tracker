@@ -24,6 +24,9 @@ As costs soar and graduate prospects dim, the value of higher education can no l
 ## Pro-Russian billionaire under house arrest seeks power in Armenia
 Samvel Karapetyan is biggest challenger to pro-western incumbent in Sunday’s election
 
+## How Monaco changed for F1
+Also in today’s newsletter: The $10bn club, pickleball’s rise and more
+
 ## Investors wake up to the merits of sleep biotech
 More people worry about poor sleep than excess weight, but drugmakers have been deterred from entering the market by costs
 
@@ -36,29 +39,32 @@ Real Madrid’s president has made it very clear that investing in the club is m
 ## Directors’ Deals: BP veteran hives off nearly £2mn in shares ahead of Manifold brouhaha
 The group has been struggling to convince the market that it now possesses greater strategic clarity
 
-## Kolkata Metro to get 60 next-generation trains in five years: Ashwini Vaishnaw
-Vaishnaw also outlined proposed high-speed rail corridors, including Delhi–Varanasi and Varanasi–Siliguri routes, aimed at sharply reducing travel time and boosting regional connectivity
+## Pune court to hear Hiremath’s plea for share in family wealth
+In two separate orders passed on June 3, Joint Civil Judge, JG Pawar refused to stay the proceedings on Hiremath’s petition
 
-## SAS says working closely with Indian govt to commence flights
-The airline’s return to India after seventeen years has hit a hurdle
+## Think. Over the week
 
-## Praggnanandhaa calls Norway Chess win biggest achievement after historic triumph
-He credited improved time management and consistency for his four consecutive wins that sealed the title.
 
-## Vizag port successfully berths 292-metre-long cape-sized bulk carrier
-MV Graceous, a cape-sized bulk carrier with 45 metres beam and a draft of 12.2 metres, had arrived at the port's EQ-1 berth, said an official press release from the Visakhapatnam Port Authority (VPA)
+## TVS Motor launches premium retail channel TVS Paddock
+TVS Paddock will provide immersive brand experiences, personalized services, and improved after-sales support for premium motorcycle customers
 
-## Praggnanandhaa makes history as first Indian to win Norway Chess title
-The 20-year-old finished with 18 points, edging ahead of Wesley So and Alireza Firouzja in a closely fought contest
+## Not Just Nostalgia
+The Yezdi Scrambler gets a serious rethink from its makers. Is the result as intended? We went looking for answers in the dirt
 
-## World Cup workers threaten strike before $2,000-a-ticket game
-The union represents roughly 2,000 food service workers, including bartenders, dishwashers, cooks and concession workers at the venue; legends didn’t immediately respond to a request for comment
+## Tata Punch.ev review: Packs a Punch
+The Tata Punch.ev builds on its strong foundations to make a compelling EV that punches above its weight
 
-## Israeli forces kill Palestinian infant in occupied West Bank, say health officials
-Seven-month-old Sam Fahd Abu Haikal was killed Friday evening, and his parents were wounded while driving in the Tel Rumeida area south of Hebron City, according to the Palestinian health ministry
+## Airline chiefs grapple with fuel shock, fare test at Rio summit
+The June 6-8 annual meeting of the International AirTransport Association (IATA) comes as that fuel shock collides with another problem airlines cannot quickly ‌fix: a shortage of new aircraft
 
-## SpaceX IPO draws strong European retail demand but experts warn of high risks
-However, experts warn that the company’s high valuation, limited float and lack of voting rights could expose retail investors to significant risk.
+## 6 detained during CJP protest at Jantar Mantar
+The detentions were made as a precautionary measure to maintain law and order after police received inputs about the possibility of tensions between supporters and opposers of the online movement
+
+## Freedom does not create failure or excellence - it reveals character
+Why autonomy does not weaken organisations — it reveals the truth about accountability, ownership, and character
+
+## PM Modi chairs EAC meeting, discusses measures to boost India’s economic growth amid global turmoil
+Prime Minister Narendra Modi met with the Economic Advisory Council to discuss strengthening India's economic growth amidst global uncertainty. The Reserve Bank of India kept the repo rate unchanged at 5.25%, citing geopolitical tensions and inflation concerns, while revising GDP growth and inflatio
 
 ## India's stock market mania hits milestone: NSE logs 26 crore trading accounts and counting
 India's investor base has reached a new peak with over 26 crore unique trading accounts on the NSE. The exchange added the latest crore accounts in under four months, highlighting rapid growth beyond major financial hubs. This surge is fueled by digitalization, simpler KYC, and positive market perfo
@@ -81,8 +87,23 @@ India's economy surged by 7.8% in the Jan-March quarter, driven by strong invest
 ## Bulk deposit pricing to be more transparent, flexible
 The Reserve Bank of India is introducing new rules for bank deposit interest rates. Banks must now publish their interest rate schedules online each morning and stick to them throughout the day. This ensures customers know the exact rates available. Additionally, banks can now consider withdrawal ri
 
-## Government ready to take more measures to insulate economy
-The Indian government is preparing further policy steps to protect the economy from the West Asia conflict. These measures will ensure sufficient availability of goods and raw materials. The focus is on stabilizing the Indian currency and foreign exchange flows. Additional measures will be announced
+## ‘Abuse of its presence’: India slams Pakistan over raising Jammu and Kashmir issue at UN
+While delivering his remarks, India's UN envoy Parvathaneni Harish made it clear that Jammu and Kashmir is an integral part of India and will remain so.
+
+## 'Dissent' question stopped, 'indecorous' audience condemned: What happened at CJI Surya Kant's London event
+High Commission of India in London condemned audience conduct after video of attendee being cut off mid-question went viral. Here is the sequence of events.
+
+## 'No VIP treatment sought': CJP denies claim on Abhijeet Dipke's arrival at Delhi airport
+Abhijeet Dipke arrived in Delhi from the US to lead the CJP protest against the alleged irregularities in the education system.
+
+## 5 big demands by Cockroach Janta Party supporters as Abhijeet Dipke-led protest sees large turnout
+The protest launched by Abhijeet Dipke's CJP is taking place under heavy security deployment and has been joined by scores of young people.
+
+## Bihar’s BJP MLA convicted in 2018 Delhi celebratory firing case that killed woman
+Delhi court convicts BJP MLA Raju Kumar Singh in 2018 celebratory firing case at Fatehpur Beri farmhouse that led to the death of a 45-year-old woman.
+
+## Abhijeet Dipke's first words to supporters upon India arrival from US | Watch
+Before joining the protest, Abhijeet Dipke landed at Delhi's Indira Gandhi International (IGI) airport on Saturday morning, arriving from the US.
 
 ## Haircut to cost ₹180, shaving ₹120 as barbers' body revises grooming charges in Maharashtra
 A functionary of Maharashtra Nabhik Mahamandal from Nagpur said that under the revised rate chart, a haircut will now cost ₹180.
@@ -90,46 +111,28 @@ A functionary of Maharashtra Nabhik Mahamandal from Nagpur said that under the r
 ## ‘Bankipur a BJP stronghold, but…’: Prashant Kishor confident of key Bihar contest
 The seat is currently vacant after BJP leader Nabin was elected to the Rajya Sabha and was elevated to the post of the party's national president in January.
 
-## Nagpur NEET aspirant's suicide note not attached to case papers, explanation sought
-When the matter was finally exposed, senior police officers conducted an inquiry to fix responsibility and submitted a report to the DCP.
-
-## Driver killed after trucks collide, catch fire on KMP Expressway in Gurugram: Cops
-A 22-year-old truck driver was charred to death after getting trapped inside the mangled cabin following a collision between two trucks near Patli Hajipur village
-
-## Former Himachal Congress VP Neeraj Bharti's Facebook account blocked amid rift with party
-The HPCC on Friday accepted the resignation of former Chief Parliamentary Secretary (CPS) Neeraj Bharti from the post of Vice-President of the state party unit.
-
-## Overnight heavy rains cause waterlogging, uprooting of trees in parts of Kerala
-A tree fell on a temporary shed, destroying it and killing a 29-year-old man sleeping under it in Thrissur's Manaloor, a fire and rescue services official said.
-
-## Pro-Khalistan slogans, Bhindranwale posters raised in Golden Temple Complex on Blue Star anniversary
-The Punjab Police had established a comprehensive security grid across Amritsar and the surrounding areas to maintain security and law and order.
-
-## ‘Sanctions threats would boomerang under PM Modi's leadership’: Putin backs India's autonomy
-Putin said that Russia's ties with India are not “subject to political environment” and that no one can dictate Russia to not deliver to India.
-
-## Shreyas Iyer named India’s new T20I captain, replaces Suryakumar Yadav
+## From banned teenager to England tour: Prince Yadav’s unlikely journey to India cap
 
 
-## Mario Miranda birth centenary: The people of Goa who lived forever in his drawings
+## UGC-NET June 2026 Schedule Out: NTA to conduct exam from June 22 to 30 in CBT mode
 
 
-## ‘Outsiders have it easier’: Imtiaz Ali says Ranbir-Alia face greater scrutiny as nepo kids
+## NASA places ISS astronauts on alert during Russian module leak investigation
 
 
-## Mario Miranda birth centenary: Inside the diaries that shaped his iconic cartoon style
+## Metro man Sreedharan’s solar rail plan gets going in Kerala
 
 
-## Solving Crime: How 48 injuries and a bike named ‘Chinnu’ exposed a shocking crime in Karnataka
+## Haredi men attempt to break into Jerusalem police station, attack cops in Beit Shemesh
 
 
-## Monsoon advances into Karnataka, may reach Mumbai by June 15
+## 8 family members on way to immerse relative’s ashes killed in Ferozepur highway accident
 
 
-## Chembur’s Sindh Pani Puri House is here since 1951 and had star-studded clientele, including late Rishi and Raj Kapoor
+## ‘Sooryavanshi forced us to pick him’: Agarkar on teen sensation’s India selection
 
 
-## KCET Results 2026 Declared: Tanisha Karthik tops in engineering stream
+## With Jantar Mantar protest, it’s clear Cockroach Janata Party is not the next Anna Movement
 
 
 ## Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA
@@ -252,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Badge of honour’: Israeli settlers shrug off global condemnation
+Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.
+
+## Supporters of the Cockroach People’s Party hold protest in New Delhi
+CJP organisers rally supporters to demand the resignation of Education Minister Dharmendra Pradhan.
+
+## Man dies in Western Australia after shark attack
+The man was fishing when he was bitten by a shark, police say.
+
+## Mexico zoo animals predict World Cup winners
+Animals at Guadalajara Zoo in Mexico are making their own predictions for the 2026 FIFA World Cup.
+
+## US intercepts Iranian attacks as Israel continues to bomb Lebanon
+US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.
+
 ## US says Iranian radar sites hit in Goruk and Qeshm Island
 The US military released footage showing what they say are military strikes on Iranian radar sites.
 
@@ -260,21 +278,6 @@ Kim Jong Un has continued to visit military sites before a visit by China's Xi J
 
 ## What’s new at World Cup 2026? From match ball sensors to AI and robot dogs
 Technology, more specifically AI, will play a big role in the new additions at the upcoming World Cup.
-
-## New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead
-Spurs in need of an unprecedented comeback when the best-of-seven series shifts to New York for games three and four.
-
-## Israeli soldier shoots Palestinian baby dead near Hebron
-An Israeli soldier has shot and killed seven-month-old Palestinian infant Sam Abu Haikal.
-
-## Arrests of critics in Ghana provokes alarm over free speech under Mahama
-Ghana’s 14 arrests in 16 months linked to false news have raised concerns about free speech.
-
-## Ronaldo joins Portugal training ahead of sixth World Cup appearance
-Portuguese star Cristiano Ronaldo hit the training pitch as he readies for his sixth World Cup appearance.
-
-## Gaza fishermen stay afloat with dinghies made from doorframes
-Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
