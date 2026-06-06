@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US and Iran exchange strikes in new threat to shaky ceasefire
+Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
+
+## Oil tanker owners fear market crash after Iran war drove record profits
+Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens
+
 ## Trump relaunches tariffs war after court struck down levies
 President attempts to craft a regime of punitive trade measures that can survive legal challenges
 
@@ -18,12 +24,6 @@ Neither candidate, who offer widely differing agendas, obtained 20% in first rou
 ## AstraZeneca chief warns group could withhold new drugs in Europe
 Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
 
-## Irish government under pressure over alumina exports to Russia
-Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
-
-## The Tories, Restore Britain and their ‘shared enemy’
-Nigel Farage’s populist Reform UK party leads the polls and is a target for both
-
 ## One billion pints: beer giants prepare for booziest World Cup in history
 An expanded tournament held in beer-friendly countries will result in an extra 1bn pints being consumed, say analysts
 
@@ -36,8 +36,23 @@ More people worry about poor sleep than excess weight, but drugmakers have been 
 ## On yer bike! Freud and middle-aged men in Lycra
 The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature
 
-## In World Cup season, choose your financial trophies carefully
-Real Madrid’s president has made it very clear that investing in the club is mainly about having fun and making contacts
+## Irish government under pressure over alumina exports to Russia
+Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
+
+## AI will reshape jobs, but India’s bigger challenge is preparing workers, boardrooms and classrooms
+With AI set to transform everything from agriculture to healthcare, the speakers stressed that India has the chance to shift from just consuming tech to creating it, shaping a future where young minds can thrive in a rapidly changing world
+
+## Mutual Funds returns
+As on : Jun 06, 2026
+
+## Cockroach Janta Party holds protest in Delhi, seeks Pradhan’s resignation
+Ladakh’s former BJP MP Sonam Wangchuk, who has since quit the party, also attended the protest and extended his support to CJP
+
+## Govt agencies, private companies among Indian entities given access to Anthropic's Mythos
+Sources stated that the number of Indian entities with access to the model is currently in the single digits
+
+## Pfizer's monthly obesity shot has side-effect profile similar to Wegovy in midstage trial
+The drugmaker aims for berobenatide to be the first monthly GLP-1 weight-loss injection, distinguishing it from blockbuster drugs like Wegovy and Eli Lilly’s Zepbound
 
 ## US-based GE Vernova inks pact with Powerica for supply of wind turbines in Gujarat
 Powerica has secured the project's power purchase agreement (PPA) through a competitive auction conducted by Gujarat Urja Vikas Nigam Limited
@@ -47,21 +62,6 @@ Doraiswami, India’s new envoy to China, visited Beijing Foreign Studies Univer
 
 ## Monsoon advances even as El Niño signals strengthen
 Global climate indicators point to a strengthening likelihood of El Niño conditions in the tropical Pacific
-
-## VOC Port Authority signs MoU with H2Global to advance green hydrogen and clean shipping fuel trade corridors
-The MoU aims to explore the feasibility of developing a double auction mechanism or similar auction-based models for clean shipping fuels for the port
-
-## Tech Query: Canara Bank, Rainbow Children’s Medicare, Shriram Properties, Hatsun Agro Products – What is the outlook? Where are these stocks headed?
-We look at the prospects of Canara Bank and three other stocks – Rainbow Children’s Medicare, Shriram Properties and Hatsun Agro Products
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Caplin Point Laboratories, Kalyan Jewellers India and Quess Corp
-
-## Index Outlook: Poles apart
-Nifty Bank indicates potential to rise while Nifty and Sensex have room to fall
-
-## US Market Outlook: Dollar gets a boost
-Equities knocked down Dollar and Treasury Yields get a boost on rate hike prospects
 
 ## 5 ways IBC transformed India's corporate rescue system over the past decade
 
@@ -87,52 +87,52 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
-## BRICS nations laud Odisha for disaster management achievements: Minister
-BRICS nations laud Odisha for disaster management achievements: Minister
+## Singapore orders blocking of online content targeting Indians
+The directive from Singapore’s home ministry, said police, have targeted 14 specific posts that appeared to promote a narrative that Singapore is being over-run by Indians
 
-## 6 held as cop bust interstate child trafficking network in Rajasthan; 10 rescued
-According to the SP, the gang targeted poor families burdened by debt by allegedly luring them with promises of jobs for their daughters
+## When will monsoon enter Delhi? Check forecast amid delayed start from Kerala
+The IMD shares monsoon prediction for Delhi and NCR region amid rising temperatures and recent thunderstorms
 
-## Shekhar Suman's cryptic video on a king and a mirror gets ‘OG satire’ reactions: 'Modi ji won't forgive!'
-Congress spokesperson shared the clip too, writing, “There was a king. He broke the mirror. But why did he break the mirror? Which king's story is this?”
+## Congress protests in Haryana against paper leaks, demands minister's resignation
+The protest was joined by senior Congress leaders Deepender Singh Hooda and Digvijaya Singh alongside Uday Bhanu Chib
 
-## Union minister reviews highway projects in Sikkim
-Union minister reviews highway projects in Sikkim
+## Delhi PWD decides to bring down all 500 national flags following damage complaints
+The flags were initially placed at key road intersections as a part of the AAP government's 2022 ‘Deshbhakti’ budget
 
-## Kolkata metro to receive 60 new generation trains in next five years: Union railway minister Ashwini Vaishnaw
-The announcement was made following Vaishnaw's commute via the Kolkata metro on Saturday (June 6)
+## Stalled railway projects worth ₹1 lakh cr to resume soon in WB: Adhikari
+Adhikari directed government and district officials to prepare a calendar for handing over land to the railways for the completion of pending projects
 
-## Venus-Jupiter conjunction: Nehru Planetarium to host special viewing on June 9
-Venus-Jupiter conjunction: Nehru Planetarium to host special viewing on June 9
+## Court protecting rights only for those who can litigate not fulfilling constitutional function: CJI
+Court protecting rights only for those who can litigate not fulfilling constitutional function: CJI
 
-## As Team Mamata disintegrates, Sourav Ganguly clears the air on his ‘role’: ‘Did not approach Yusuf Pathan’
-Speculation is rife that Mamata Banerjee wants to enter Parliament and may ask one of her loyal MPs to quit seat for her to fight bypoll
+## How Asia’s largest oxbow lake is losing its fish, water, and future | HT Ground Report from a Ramsar Site in Bihar
+Kanwar Lake has rapidly shrunk in last two decades due to encroachment, climate change and conflicting interests of communities
 
-## Arms recovered, 4 held from Sandeshkhali linked to TMC strongman Sheikh Shahjahan
-West Bengal STF recovered several firearms and 56 live cartridges in Sandeshkhali and arrested four people linked to TMC strongman Sheikh Shahjahan.
+## New video shows casino floor drug deal which caused fatal overdose, took influencer Anunay Sood's life
+The travel influencer died last year in Las Vegas, with authorities citing an accidental overdose involving fentanyl and alcohol as the possible cause.
 
-## ‘Should we throw flowers?’: Videos show Khan Sir reacting to firing incident amid police search
-
-
-## ‘Who gained from communal politics?’: CJP founder Abhijeet Dipke at Jantar Mantar meet
+## ‘I almost died there’: Vikram Bhatt recalls health crisis during 70-day Udaipur jail stay
 
 
-## UPSC Prelims 2026 shocks aspirants: Why Ethics-style questions signal a major shift in civil services testing
+## Kota priest hacked to death inside monastery, saints launch protest over delayed arrests
 
 
-## India 368/3: Gill, Rahul tons put Afghanistan to the sword on Day 1
+## A ‘thank-you’, and a word of caution from activist Sonam Wangchuk at the Cockroach Janta Party protest
 
 
-## Ram Charan’s wife Upasana is an heiress to Rs 77,000 cr empire: ‘We treat men-women equally’
+## The 4-hour aloe vera illusion: Why the brightening glow quickly fades away
 
 
-## ‘It gives so much freedom when coach..’: Sai Sudharsan on Gambhir backing him
+## In Gujarat, Parsi woman married to Muslim ‘denied funeral rights’ by their communities given Hindu cremation
 
 
-## Woman quits IT manager job, drives auto and earns Rs 60,000 a month: ‘Choosing peace over prestige’
+## South Delhi hotel fire: Chef of B&B held as police say his ‘negligence’ may have contributed to blaze
 
 
-## UPSC Key: FII bond tax exemption, Nilgiri Tahr, and BS-VI transition in NCR
+## In Gujarat RS contest, BJP eyes sweep as Congress set to draw a blank for first time
+
+
+## In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What Afghanistan’s rotten apples tell us about its non-profit sector
+Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.
+
+## Lebanon and Israel’s perpetual war machine
+Why Lebanon remains central to Israel's multi-front wars.
+
+## Pope calls for end to polarisation during visit to Spain
+Huge gatherings are expected in the coming days for the first visit to Spain by a pope since 2011.
+
+## ‘Elections campaigned on who can be more brutal to Palestinians’
+‘Elections campaigned on who can be more brutal to Palestinians’
+
+## Argentina’s ‘Madman’: Inside the world of Javier Milei
+Argentina’s self-styled anarcho-capitalist president impressed – and later alienated – many voters.
+
+## Pope Leo praises Spain’s ‘commitment to peace and solidarity’
+Pope Leo XIV arrived in Madrid and was welcomed by King Felipe VI and Queen Letizia.
+
 ## Hegseth says Europe is being ‘invaded by dangerous migrants’
 Hegseth says Europe is being ‘invaded by dangerous migrants’.
 
 ## Rescuers stop search for last two men lost in Laos cave
 The search and rescue team say it is 'high risk' to continue the operation.
-
-## Groom killed hours before his wedding in Gaza
-Muhannad Farwana never got to wear his wedding suit, Israel killed him in an air strike hours before his wedding.
-
-## Hundreds brave freezing weather in La Paz to line up for affordable food
-Hundreds of Bolivian residents are braving near-freezing temperatures to queue for affordable chicken in La Paz.
-
-## Spain’s World Cup 2026 team preview: Players to watch, group matches, squad
-Led by some outrageously young and talented players, are Spain set to repeat another Euro-World Cup double in 2026?
-
-## Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts
-Iranian officials say a 'large' number of key staff denied visas as the team is set to travel to Mexico.
-
-## Russia says hundreds of Ukrainian drones downed as economic forum ends
-Russia's defence ministry said the drones were downed over 16 areas and regions, including Crimea.
-
-## ‘Cockroach Party’ leader returns to India for first New Delhi protest
-'Cockroach Party' leader returns to India for first New Delhi protest.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
