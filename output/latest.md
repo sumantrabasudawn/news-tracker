@@ -90,6 +90,9 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## CJP thanks Delhi Police for ‘all possible cooperation’ during ‘Cockroach’ protest, cops's cautionary message
+The Cockroach Janta Party organised a protest led by its founder Abhijeet Dipke at the Jantar Mantar demanding Education Minister Dharmendra Pradhan's removal.
+
 ## Foreign investment reforms to ease flux in capital account
 India's new foreign investment reforms aim to stabilize the rupee, enhance G-Sec market liquidity, and attract global investments through tax incentives.
 
@@ -111,8 +114,8 @@ The ‘Cockroach’ movement may have started as a call for accountability amid 
 ## BJP chief takes a ‘puppets’ dig as Cockroach Janta Party protest sets a 7-day ‘deadline’ for education minister to quit
 BJP chief said that while youth wants to work for building the nation and secure their future, “some people labeled the youth ‘anti-establishment’”.
 
-## Mamata's slog-over attempts to stop team collapse, then a Sourav Ganguly ‘clarification’ cameo
-Ex-captain said on Saturday that he is not a player in this game, as reports said he was tasked with getting Yusuf Pathan to quit seat for Mamata Banerjee
+## Malayalam actor Salim Kumar dies at 56
+
 
 ## ‘They’re just more honest’: Imtiaz Ali defends Gen Z’s approach to love and romance
 
@@ -133,9 +136,6 @@ Ex-captain said on Saturday that he is not a player in this game, as reports sai
 
 
 ## Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
-
-
-## ‘Officers more loyal to establishment than Constitution’: Allahabad HC quashes proceedings in Gangsters Act FIR
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -258,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Pentagon said to raise threat level on Israel spying to ‘critical’
+Department reports raise concerns about increased espionage activity amid US-Israeli war with Iran, ceasefire talks.
+
+## Tunisians protest for press freedom and release of political prisoners
+Tunisians protest for press freedom and release of political prisoners.
+
+## Cuba’s Raul Castro makes first public appearance since US charges
+Former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States
+
+## Rights group says drone strike kills 11 in central Sudan market
+Emergency Lawyers said dozens were also wounded in the strike that came less than 24 hours after similar drone attacks.
+
 ## US doctor recovers from Ebola in Germany as DRC cases surge to 488
 Berlin's Charite hospital hailed treatment as a 'significant therapeutic success' as outbreak spreads in DR Congo.
 
@@ -269,18 +281,6 @@ A Palestinian father in Hebron has buried his seven-month-old son after the baby
 
 ## Israeli attack on Gaza City tent camp kills several Palestinians
 Israeli attack on Gaza City tent camp kills several Palestinians.
-
-## From first lady to president? Inside the rise of Peru’s Keiko Fujimori
-In her fourth bid to be president, Fujimori faces her best odds yet. But can she overcome scandal and her father's past?
-
-## ‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout
-Minister Daryl Vaz reassures residents that power had been restored across Jamaica after a rare islandwide outage.
-
-## Why are Armenia’s elections being so keenly watched abroad?
-Russia, the United States and European Union all have interests as geopolitics take centre-stage.
-
-## 100 days into the war on Iran, Trump fails to rally US support
-Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
