@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Pricing the oil inventory drawdown
+Could Brent crude hit $140 per barrel?
+
 ## Peru to vote on ninth president in a decade
 Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
 
@@ -21,8 +24,8 @@ A haven asset for the financial system is becoming a source of risk
 ## Why bother with university?
 As costs soar and graduate prospects dim, the value of higher education can no longer be taken for granted
 
-## Pro-Russian billionaire under house arrest seeks power in Armenia
-Samvel Karapetyan is biggest challenger to pro-western incumbent in Sunday’s election
+## One billion pints: beer giants prepare for booziest World Cup in history
+An expanded tournament held in beer-friendly countries will result in an extra 1bn pints being consumed, say analysts
 
 ## How Monaco changed for F1
 Also in today’s newsletter: The $10bn club, pickleball’s rise and more
@@ -36,32 +39,35 @@ The ever-present fear of ridicule among cycling’s weekend warriors tells us a 
 ## In World Cup season, choose your financial trophies carefully
 Real Madrid’s president has made it very clear that investing in the club is mainly about having fun and making contacts
 
-## Directors’ Deals: BP veteran hives off nearly £2mn in shares ahead of Manifold brouhaha
-The group has been struggling to convince the market that it now possesses greater strategic clarity
+## PM chairs EAC meeting, discusses measures to boost growth
+It discussed new reforms to ease business, boost consumption, and provide relief to people
 
-## Pune court to hear Hiremath’s plea for share in family wealth
-In two separate orders passed on June 3, Joint Civil Judge, JG Pawar refused to stay the proceedings on Hiremath’s petition
+## G Square revives industrial plot business, targets ₹2,000-crore sales this fiscal
+On Saturday, the company launched an industrial plot development in Gummudipoondi bordering Andhra Pradesh
 
-## Think. Over the week
+## TVS Motor Company unveils ‘TVS Paddock’ exclusive retail channel
+Designed by Checkland Kindleysides, a boutique retail design agency specialising in culture-shaping retail experiences from London, UK, TVS Paddock meets the evolving needs and aspirations of premium motorcycle enthusiasts
 
+## Govt mandates standard packaging sizes for edible oils to help consumers compare prices
+The revised SoP prescribes nine standard pack sizes - 200 ml/g, 500 ml/g, 1 litre/kg, 2 litre/kg, 3 litre/kg, 4 litre/kg, 5 litre/kg, 15 litre/kg and 20 litre/kg-for major edible oils
 
-## TVS Motor launches premium retail channel TVS Paddock
-TVS Paddock will provide immersive brand experiences, personalized services, and improved after-sales support for premium motorcycle customers
+## Make in India efforts showing results as import dependence falls in key sectors: Bank of Baroda
+The report noted that India’s overall import intensity has remained stable, but sector-level data indicates a gradual move toward greater self-reliance
 
-## Not Just Nostalgia
-The Yezdi Scrambler gets a serious rethink from its makers. Is the result as intended? We went looking for answers in the dirt
-
-## Tata Punch.ev review: Packs a Punch
-The Tata Punch.ev builds on its strong foundations to make a compelling EV that punches above its weight
-
-## Airline chiefs grapple with fuel shock, fare test at Rio summit
-The June 6-8 annual meeting of the International AirTransport Association (IATA) comes as that fuel shock collides with another problem airlines cannot quickly ‌fix: a shortage of new aircraft
-
-## 6 detained during CJP protest at Jantar Mantar
-The detentions were made as a precautionary measure to maintain law and order after police received inputs about the possibility of tensions between supporters and opposers of the online movement
+## CarePal Money crosses ₹150 cr healthcare loan run rate
+Medical Management leads the disease mix at 33% of loans disbursed over the past 2.5 years, followed by Cardiology at 15% and Neurology at 14%, collectively representing over 60% of all disbursements
 
 ## Freedom does not create failure or excellence - it reveals character
 Why autonomy does not weaken organisations — it reveals the truth about accountability, ownership, and character
+
+## Heavy rains cause waterlogging, uprooting of trees in parts of Kerala; red alert in 5 districts
+The India Meteorological Department issued a red alert for five districts: Malappuram, Kozhikode, Wayanad, Kannur, and Kasaragod
+
+## 'US firms benefit from Hormuz closure': Russian oil company chief's big claim amid Iran war
+Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiaries of a Strait of Hormuz closure, warning of long-term damage to oil demand and a boost for alternatives. He also highlighted global resource shortages and questioned OPEC+'s effectiveness, noting Russia's production dec
+
+## Can RBI shield rupee from further fall? Analysts expect up to $75 billion in fresh inflows
+The Reserve Bank of India's recent monetary policy measures aim to bolster the rupee by attracting significant capital inflows, estimated between $40-75 billion. Despite rising inflation and revised growth forecasts, the Monetary Policy Committee is expected to maintain the repo rate at 5.25% with a
 
 ## PM Modi chairs EAC meeting, discusses measures to boost India’s economic growth amid global turmoil
 Prime Minister Narendra Modi met with the Economic Advisory Council to discuss strengthening India's economic growth amidst global uncertainty. The Reserve Bank of India kept the repo rate unchanged at 5.25%, citing geopolitical tensions and inflation concerns, while revising GDP growth and inflatio
@@ -81,59 +87,56 @@ Consumers are increasingly opting for smaller pack sizes of everyday goods, from
 ## GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%
 India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momen
 
-## Retract charges or pay Rs 1,000cr: Tata Trusts
+## Arms recovered, 4 held from Sandeshkhali linked to TMC strongman Sheikh Shahjahan
+West Bengal STF recovered several firearms and 56 live cartridges in Sandeshkhali and arrested four people linked to TMC strongman Sheikh Shahjahan.
+
+## ‘They said cockroaches would never…’: CJP founder Dipke shares video of Jantar Mantar crowd
+‘They said cockroaches would never…’: CJP founder Dipke shares video of Jantar Mantar crowd
+
+## Low metro ridership despite ₹4.5 lakh cr spend; India needs new transport policy: Study
+The review said the new policy must address several gaps that were either underestimated in 2006 or have emerged over the past two decades
+
+## Harinder Sikka's new novel 'The Chabimaster' draws inspiration from RAW operative's life
+Harinder Sikka's new novel 'The Chabimaster' draws inspiration from RAW operative's life
+
+## Migrant worker rescued from Kerala drain, claims he was trapped there by a magician
+The victim was discovered when a passerby reported a hand stretched out of a small opening in the drain
+
+## Sanskrit mandatory on Haridwar signages ahead of Ardh Kumbh
+Chief development officer (CDO) Lalit Narayan Mishra said the move would promote the language and offer a unique cultural experience to pilgrims
+
+## ‘Loyal to govt, not Constitution’: Allahabad HC tears into UP police, flags ‘encounter killings, selective crackdowns’
+UP has historically been crucible of political hegemony, driven by the feudal mindset: Justice Diwakar in judgement
+
+## 3-year-old girl, rare disease, and a 'constitutional right': Delhi HC seeks Centre's response on funding plea
+The family has urged the court to direct the Union Government to release the required funds without delay.
+
+## Virat Kohli ruled out of Afghanistan ODI series, replaced by Yashasvi Jaiswal
 
 
-## Bulk deposit pricing to be more transparent, flexible
-The Reserve Bank of India is introducing new rules for bank deposit interest rates. Banks must now publish their interest rate schedules online each morning and stick to them throughout the day. This ensures customers know the exact rates available. Additionally, banks can now consider withdrawal ri
-
-## ‘Abuse of its presence’: India slams Pakistan over raising Jammu and Kashmir issue at UN
-While delivering his remarks, India's UN envoy Parvathaneni Harish made it clear that Jammu and Kashmir is an integral part of India and will remain so.
-
-## 'Dissent' question stopped, 'indecorous' audience condemned: What happened at CJI Surya Kant's London event
-High Commission of India in London condemned audience conduct after video of attendee being cut off mid-question went viral. Here is the sequence of events.
-
-## 'No VIP treatment sought': CJP denies claim on Abhijeet Dipke's arrival at Delhi airport
-Abhijeet Dipke arrived in Delhi from the US to lead the CJP protest against the alleged irregularities in the education system.
-
-## 5 big demands by Cockroach Janta Party supporters as Abhijeet Dipke-led protest sees large turnout
-The protest launched by Abhijeet Dipke's CJP is taking place under heavy security deployment and has been joined by scores of young people.
-
-## Bihar’s BJP MLA convicted in 2018 Delhi celebratory firing case that killed woman
-Delhi court convicts BJP MLA Raju Kumar Singh in 2018 celebratory firing case at Fatehpur Beri farmhouse that led to the death of a 45-year-old woman.
-
-## Abhijeet Dipke's first words to supporters upon India arrival from US | Watch
-Before joining the protest, Abhijeet Dipke landed at Delhi's Indira Gandhi International (IGI) airport on Saturday morning, arriving from the US.
-
-## Haircut to cost ₹180, shaving ₹120 as barbers' body revises grooming charges in Maharashtra
-A functionary of Maharashtra Nabhik Mahamandal from Nagpur said that under the revised rate chart, a haircut will now cost ₹180.
-
-## ‘Bankipur a BJP stronghold, but…’: Prashant Kishor confident of key Bihar contest
-The seat is currently vacant after BJP leader Nabin was elected to the Rajya Sabha and was elevated to the post of the party's national president in January.
-
-## From banned teenager to England tour: Prince Yadav’s unlikely journey to India cap
+## As police search for Khan sir, students gather in support outside Patna institute
 
 
-## UGC-NET June 2026 Schedule Out: NTA to conduct exam from June 22 to 30 in CBT mode
+## ‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row
 
 
-## NASA places ISS astronauts on alert during Russian module leak investigation
+## Chinese Actor Jin Ze dies at 33; agency confirms he passed away at home
 
 
-## Metro man Sreedharan’s solar rail plan gets going in Kerala
+## ‘True had 107 fever’: Khloe Kardashian recalls daughter’s health scare, losing ’50-60%’ hair volume
 
 
-## Haredi men attempt to break into Jerusalem police station, attack cops in Beit Shemesh
+## Shubman Gill, KL Rahul score centuries against Afghanistan in one-off Test
 
 
-## 8 family members on way to immerse relative’s ashes killed in Ferozepur highway accident
+## Neymar skips Egypt friendly as MRI to decide World Cup fate
 
 
-## ‘Sooryavanshi forced us to pick him’: Agarkar on teen sensation’s India selection
+## Agarkar on Suryakumar’s sacking as India captain: ‘In best interest of the team’
 
 
-## With Jantar Mantar protest, it’s clear Cockroach Janata Party is not the next Anna Movement
-
+## China will enhance regulation of programme trading: CSRC chairman
+Chinese authorities plan to enhance regulation of programme trading to clamp down on market misconduct, the head of the China Securities Regulatory Commission (CSRC) said on Saturday. Hedge funds and institutional investors are increasingly managing their portfolios in China via programme trading, w
 
 ## Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA
 Mainland customers can still open bank accounts in Hong Kong, but banks must adopt stringent new checks to ensure their processes are “compliant and orderly”, the Hong Kong Monetary Authority (HKMA) said in a statement on Saturday. “The banking industry has implemented the new regulatory requirement
@@ -155,9 +158,6 @@ International marques have failed to sustain the market share they regained in C
 
 ## Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds
 Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from private issuers. The Hong Kong Monetary Authority (HKMA) said on Friday it had 
-
-## China sees revival of foreign investors through IPOs, convertibles: UBS
-Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chin
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cockroach Janta Party rallies at New Delhi for youth protests
+Protesters call for Education Minister's resignation after exam scandals, symbolizing a lost faith in India's system.
+
+## Israeli forces fatally shoot Palestinian infant, wound parents in West Bank
+Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.
+
+## Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad
+Fresh off his heroics in the IPL, teenage sensation Sooryavanshi could become the youngest-ever debutant for India.
+
+## Jordan World Cup 2026 preview: Players to watch, group matches and squad
+Jordan make their first World Cup appearance after recently making the finals at the 2023 Asian Cup and 2025 Arab Cup.
+
+## Ebola border shutdown leaves goods rotting between Uganda and DRC
+Ebola border shutdown leaves goods rotting between Uganda and DRC
+
 ## ‘Badge of honour’: Israeli settlers shrug off global condemnation
 Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.
 
@@ -263,21 +278,6 @@ CJP organisers rally supporters to demand the resignation of Education Minister 
 
 ## Man dies in Western Australia after shark attack
 The man was fishing when he was bitten by a shark, police say.
-
-## Mexico zoo animals predict World Cup winners
-Animals at Guadalajara Zoo in Mexico are making their own predictions for the 2026 FIFA World Cup.
-
-## US intercepts Iranian attacks as Israel continues to bomb Lebanon
-US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.
-
-## US says Iranian radar sites hit in Goruk and Qeshm Island
-The US military released footage showing what they say are military strikes on Iranian radar sites.
-
-## North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media
-Kim Jong Un has continued to visit military sites before a visit by China's Xi Jinping on Monday and Tuesday.
-
-## What’s new at World Cup 2026? From match ball sensors to AI and robot dogs
-Technology, more specifically AI, will play a big role in the new additions at the upcoming World Cup.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
