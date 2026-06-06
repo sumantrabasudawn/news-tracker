@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Trump relaunches tariffs war after court struck down levies
+President attempts to craft a regime of punitive trade measures that can survive legal challenges
+
+## Allegations against Maine Senate candidate plunge Democrats into turmoil
+Political outsider’s campaign is overshadowed by accusations of inappropriate behaviour
+
+## Netherlands moves to soothe rich investors over tax on paper profits
+Most countries only impose levies once gains are realised
+
 ## Pricing the oil inventory drawdown
 Could Brent crude hit $140 per barrel?
 
@@ -14,15 +23,6 @@ Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw
 
 ## The Tories, Restore Britain and their ‘shared enemy’
 Nigel Farage’s populist Reform UK party leads the polls and is a target for both
-
-## Wasting China’s solar panel surplus is madness
-Clean power is within our reach — yet factories sit idle
-
-## Are US Treasuries becoming a financial chokepoint?
-A haven asset for the financial system is becoming a source of risk
-
-## Why bother with university?
-As costs soar and graduate prospects dim, the value of higher education can no longer be taken for granted
 
 ## One billion pints: beer giants prepare for booziest World Cup in history
 An expanded tournament held in beer-friendly countries will result in an extra 1bn pints being consumed, say analysts
@@ -39,29 +39,32 @@ The ever-present fear of ridicule among cycling’s weekend warriors tells us a 
 ## In World Cup season, choose your financial trophies carefully
 Real Madrid’s president has made it very clear that investing in the club is mainly about having fun and making contacts
 
-## PM chairs EAC meeting, discusses measures to boost growth
-It discussed new reforms to ease business, boost consumption, and provide relief to people
+## US-based GE Vernova inks pact with Powerica for supply of wind turbines in Gujarat
+Powerica has secured the project's power purchase agreement (PPA) through a competitive auction conducted by Gujarat Urja Vikas Nigam Limited
 
-## G Square revives industrial plot business, targets ₹2,000-crore sales this fiscal
-On Saturday, the company launched an industrial plot development in Gummudipoondi bordering Andhra Pradesh
+## India, China share two millennia of legacy of learning and dialogue: Indian envoy
+Doraiswami, India’s new envoy to China, visited Beijing Foreign Studies University last month, delivering a lecture and engaging with students and faculty
 
-## TVS Motor Company unveils ‘TVS Paddock’ exclusive retail channel
-Designed by Checkland Kindleysides, a boutique retail design agency specialising in culture-shaping retail experiences from London, UK, TVS Paddock meets the evolving needs and aspirations of premium motorcycle enthusiasts
+## Monsoon advances even as El Niño signals strengthen
+Global climate indicators point to a strengthening likelihood of El Niño conditions in the tropical Pacific
 
-## Govt mandates standard packaging sizes for edible oils to help consumers compare prices
-The revised SoP prescribes nine standard pack sizes - 200 ml/g, 500 ml/g, 1 litre/kg, 2 litre/kg, 3 litre/kg, 4 litre/kg, 5 litre/kg, 15 litre/kg and 20 litre/kg-for major edible oils
+## VOC Port Authority signs MoU with H2Global to advance green hydrogen and clean shipping fuel trade corridors
+The MoU aims to explore the feasibility of developing a double auction mechanism or similar auction-based models for clean shipping fuels for the port
 
-## Make in India efforts showing results as import dependence falls in key sectors: Bank of Baroda
-The report noted that India’s overall import intensity has remained stable, but sector-level data indicates a gradual move toward greater self-reliance
+## Tech Query: Canara Bank, Rainbow Children’s Medicare, Shriram Properties, Hatsun Agro Products – What is the outlook? Where are these stocks headed?
+We look at the prospects of Canara Bank and three other stocks – Rainbow Children’s Medicare, Shriram Properties and Hatsun Agro Products
 
-## CarePal Money crosses ₹150 cr healthcare loan run rate
-Medical Management leads the disease mix at 33% of loans disbursed over the past 2.5 years, followed by Cardiology at 15% and Neurology at 14%, collectively representing over 60% of all disbursements
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Caplin Point Laboratories, Kalyan Jewellers India and Quess Corp
 
-## Freedom does not create failure or excellence - it reveals character
-Why autonomy does not weaken organisations — it reveals the truth about accountability, ownership, and character
+## Index Outlook: Poles apart
+Nifty Bank indicates potential to rise while Nifty and Sensex have room to fall
 
-## Heavy rains cause waterlogging, uprooting of trees in parts of Kerala; red alert in 5 districts
-The India Meteorological Department issued a red alert for five districts: Malappuram, Kozhikode, Wayanad, Kannur, and Kasaragod
+## US Market Outlook: Dollar gets a boost
+Equities knocked down Dollar and Treasury Yields get a boost on rate hike prospects
+
+## 5 ways IBC transformed India's corporate rescue system over the past decade
+
 
 ## 'US firms benefit from Hormuz closure': Russian oil company chief's big claim amid Iran war
 Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiaries of a Strait of Hormuz closure, warning of long-term damage to oil demand and a boost for alternatives. He also highlighted global resource shortages and questioned OPEC+'s effectiveness, noting Russia's production dec
@@ -84,55 +87,52 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
-## GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%
-India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momen
+## BRICS nations laud Odisha for disaster management achievements: Minister
+BRICS nations laud Odisha for disaster management achievements: Minister
+
+## 6 held as cop bust interstate child trafficking network in Rajasthan; 10 rescued
+According to the SP, the gang targeted poor families burdened by debt by allegedly luring them with promises of jobs for their daughters
+
+## Shekhar Suman's cryptic video on a king and a mirror gets ‘OG satire’ reactions: 'Modi ji won't forgive!'
+Congress spokesperson shared the clip too, writing, “There was a king. He broke the mirror. But why did he break the mirror? Which king's story is this?”
+
+## Union minister reviews highway projects in Sikkim
+Union minister reviews highway projects in Sikkim
+
+## Kolkata metro to receive 60 new generation trains in next five years: Union railway minister Ashwini Vaishnaw
+The announcement was made following Vaishnaw's commute via the Kolkata metro on Saturday (June 6)
+
+## Venus-Jupiter conjunction: Nehru Planetarium to host special viewing on June 9
+Venus-Jupiter conjunction: Nehru Planetarium to host special viewing on June 9
+
+## As Team Mamata disintegrates, Sourav Ganguly clears the air on his ‘role’: ‘Did not approach Yusuf Pathan’
+Speculation is rife that Mamata Banerjee wants to enter Parliament and may ask one of her loyal MPs to quit seat for her to fight bypoll
 
 ## Arms recovered, 4 held from Sandeshkhali linked to TMC strongman Sheikh Shahjahan
 West Bengal STF recovered several firearms and 56 live cartridges in Sandeshkhali and arrested four people linked to TMC strongman Sheikh Shahjahan.
 
-## ‘They said cockroaches would never…’: CJP founder Dipke shares video of Jantar Mantar crowd
-‘They said cockroaches would never…’: CJP founder Dipke shares video of Jantar Mantar crowd
-
-## Low metro ridership despite ₹4.5 lakh cr spend; India needs new transport policy: Study
-The review said the new policy must address several gaps that were either underestimated in 2006 or have emerged over the past two decades
-
-## Harinder Sikka's new novel 'The Chabimaster' draws inspiration from RAW operative's life
-Harinder Sikka's new novel 'The Chabimaster' draws inspiration from RAW operative's life
-
-## Migrant worker rescued from Kerala drain, claims he was trapped there by a magician
-The victim was discovered when a passerby reported a hand stretched out of a small opening in the drain
-
-## Sanskrit mandatory on Haridwar signages ahead of Ardh Kumbh
-Chief development officer (CDO) Lalit Narayan Mishra said the move would promote the language and offer a unique cultural experience to pilgrims
-
-## ‘Loyal to govt, not Constitution’: Allahabad HC tears into UP police, flags ‘encounter killings, selective crackdowns’
-UP has historically been crucible of political hegemony, driven by the feudal mindset: Justice Diwakar in judgement
-
-## 3-year-old girl, rare disease, and a 'constitutional right': Delhi HC seeks Centre's response on funding plea
-The family has urged the court to direct the Union Government to release the required funds without delay.
-
-## Virat Kohli ruled out of Afghanistan ODI series, replaced by Yashasvi Jaiswal
+## ‘Should we throw flowers?’: Videos show Khan Sir reacting to firing incident amid police search
 
 
-## As police search for Khan sir, students gather in support outside Patna institute
+## ‘Who gained from communal politics?’: CJP founder Abhijeet Dipke at Jantar Mantar meet
 
 
-## ‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row
+## UPSC Prelims 2026 shocks aspirants: Why Ethics-style questions signal a major shift in civil services testing
 
 
-## Chinese Actor Jin Ze dies at 33; agency confirms he passed away at home
+## India 368/3: Gill, Rahul tons put Afghanistan to the sword on Day 1
 
 
-## ‘True had 107 fever’: Khloe Kardashian recalls daughter’s health scare, losing ’50-60%’ hair volume
+## Ram Charan’s wife Upasana is an heiress to Rs 77,000 cr empire: ‘We treat men-women equally’
 
 
-## Shubman Gill, KL Rahul score centuries against Afghanistan in one-off Test
+## ‘It gives so much freedom when coach..’: Sai Sudharsan on Gambhir backing him
 
 
-## Neymar skips Egypt friendly as MRI to decide World Cup fate
+## Woman quits IT manager job, drives auto and earns Rs 60,000 a month: ‘Choosing peace over prestige’
 
 
-## Agarkar on Suryakumar’s sacking as India captain: ‘In best interest of the team’
+## UPSC Key: FII bond tax exemption, Nilgiri Tahr, and BS-VI transition in NCR
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cockroach Janta Party rallies at New Delhi for youth protests
-Protesters call for Education Minister's resignation after exam scandals, symbolizing a lost faith in India's system.
+## Hegseth says Europe is being ‘invaded by dangerous migrants’
+Hegseth says Europe is being ‘invaded by dangerous migrants’.
 
-## Israeli forces fatally shoot Palestinian infant, wound parents in West Bank
-Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.
+## Rescuers stop search for last two men lost in Laos cave
+The search and rescue team say it is 'high risk' to continue the operation.
 
-## Vaibhav Sooryavanshi, 15-year-old sensation, called up to India’s T20 squad
-Fresh off his heroics in the IPL, teenage sensation Sooryavanshi could become the youngest-ever debutant for India.
+## Groom killed hours before his wedding in Gaza
+Muhannad Farwana never got to wear his wedding suit, Israel killed him in an air strike hours before his wedding.
 
-## Jordan World Cup 2026 preview: Players to watch, group matches and squad
-Jordan make their first World Cup appearance after recently making the finals at the 2023 Asian Cup and 2025 Arab Cup.
+## Hundreds brave freezing weather in La Paz to line up for affordable food
+Hundreds of Bolivian residents are braving near-freezing temperatures to queue for affordable chicken in La Paz.
 
-## Ebola border shutdown leaves goods rotting between Uganda and DRC
-Ebola border shutdown leaves goods rotting between Uganda and DRC
+## Spain’s World Cup 2026 team preview: Players to watch, group matches, squad
+Led by some outrageously young and talented players, are Spain set to repeat another Euro-World Cup double in 2026?
 
-## ‘Badge of honour’: Israeli settlers shrug off global condemnation
-Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.
+## Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts
+Iranian officials say a 'large' number of key staff denied visas as the team is set to travel to Mexico.
 
-## Supporters of the Cockroach People’s Party hold protest in New Delhi
-CJP organisers rally supporters to demand the resignation of Education Minister Dharmendra Pradhan.
+## Russia says hundreds of Ukrainian drones downed as economic forum ends
+Russia's defence ministry said the drones were downed over 16 areas and regions, including Crimea.
 
-## Man dies in Western Australia after shark attack
-The man was fishing when he was bitten by a shark, police say.
+## ‘Cockroach Party’ leader returns to India for first New Delhi protest
+'Cockroach Party' leader returns to India for first New Delhi protest.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
