@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US and Iran exchange strikes in new threat to shaky ceasefire
+Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
+
+## Crisis engulfs one of world’s biggest free school meals programmes
+Indonesia has arrested top officials overseeing $15bn scheme over alleged corruption
+
+## India’s exam fiasco fuels rising youth discontent
+Cancellation of medical entrance tests taken by more than 2mn people sparks anger at Narendra Modi’s government
+
 ## Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties
 General counsel resigned after revelations about relationship with disgraced financier but now will stay on as adviser
 
@@ -18,9 +27,6 @@ A saga that started with Trump’s assault on ‘60 Minutes’ has turned into a
 ## Trump says US may take equity stakes in AI companies
 President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections
 
-## Investors boost bets for Fed rate rise after bumper US jobs report
-World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’
-
 ## European airlines sit on €3.2bn in unpaid delay compensation
 FT calculations show just a fraction of €18bn due since 2011 has been paid out
 
@@ -30,29 +36,35 @@ Facebook parent could sell tens of billions of dollars in new stock as it seeks 
 ## The ethical dilemmas of AI
 How we address the revolution is a question of how we manage its uncertainties
 
-## RBI keeps repo rate unchanged at 5.25%, policy stance neutral
-The RBI upped the FY27 retail inflation projection 5.1 per cent (earlier projection: 4.6 per cent) and cut the real GDP growth projection to 6.6 per cent (6.9 per cent)
+## FIFA permits sealed disposable water bottles at World Cup venues
+The decision follows concerns raised over hydration and extreme weather conditions expected during the tournament
 
-## Maize farmers likely to shift to cotton, soybean, paddy, ragi
-Deviations in rainfall during the June-September monsoon season will have significant implications for agricultural production in India
+## India entered 1,821 new markets in FY26: an agri exports keep pace without supply chain reform?
+The future of agri exports will be determined at the warehouses, logistics corridors, the cold chains, technology platforms
 
-## India-US interim trade deal likely by mid-July: Piyush Goyal
-Trump expresses optimism but slams India’s “tremendous tariffs”; New Delhi negotiates preferential market access over rivals like Vietnam and Bangladesh
+## Cockroach Janta Party founder Dipke arrives in Delhi, urges peaceful Jantar Mantar protest
+Group demands accountability for the alleged irregularities in examinations and recruitment tests, calls for resignation of Union Education Minister Dharmendra Pradhan
 
-## India is largest source for immigrant founders of US unicorns, but still not shooting for the stars
-Indians feature prominently among founders who first arrived in the US as international students. There are 76 Indians who came to the US as international students and founded unicorns
+## US grants visas to Iran World Cup team despite ongoing conflict
+The team is scheduled to play its opening matches against New Zealand and Belgium in California before travelling to Seattle to face Egypt.
 
-## CMR Green Technologies IPO subscribed 127 times on final day
-The IPO, priced in the range of ₹182-₹192 per share, is entirely an offer-for-sale of up to 3.28 crore equity shares by promoters and an investor-selling shareholder
+## Scientists sharing anti-Trump editorial kicked out of conference
+Those escorted out of the American Diabetes Association’s annual meeting included Justin Ryder, a paediatric obesity researcher at Northwestern Medicine, and Steven Kahn, the editor-in-chief of Diabetes Care
 
-## Glass maker HNGIL issues legal notice to BIRA 91 over outstanding dues and unlifted inventory
-Glassmaker seeks ₹11.19 crore and demands lifting of over 51 lakh customised bottles
+## How Gujarat is writing India’s copper self-reliance story
+India does not have a copper shortage; it has a copper strategy shortage and the window to fix it is narrowing
 
-## India remains fastest-growing major economy despite global uncertainty : PM Modi on latest GDP numbers
-Modi said that India achieved a 7.7% growth rate in FY26, with a 7.8% expansion in Q4, highlighting the effectiveness of his government’s reforms, infrastructure development, and welfare measures
+## SpaceX inks $30 billion computing power deal with Google
+The contract gives Google access to 110,000 of Nvidia’s graphics processing unit chips, as well as central processing unit chips, memory chips and other related components
 
-## Blackstone-backed AirTrunk to invest ₹3 lakh crore and over 5GW in India’s digital infrastructure
-The investment will drive cloud and AI growth, positioning India as a key market in AirTrunk’s global strategy, according to a press release
+## Ebola outbreak in Central Africa could reach 20,000 cases without strong public health measures
+A worst-case scenario could approach the worst Ebola outbreak in history, the West Africa epidemic in 2014-2016 -- which resulted in more than 28,000 reported cases and more than 11,000 deaths
+
+## $1.3 trillion erased from Wall Street: Here's what slowed down AI rally
+Tech stocks, particularly semiconductors, experienced a significant downturn Friday, driven by investor caution over AI valuations and robust US jobs data. The PHLX Semiconductor Index saw its steepest drop since March 2020, erasing billions in market value. This retreat follows a period of record h
+
+## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
+Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
 ## GDP rose 7.7% in FY26, 7.8% in Q4; RBI trims this year's projection to 6.6%
 India's economy surged by 7.8% in the Jan-March quarter, driven by strong investment, consistent farm output, and expansion in construction and tertiary sectors. This robust demand offset potential negative impacts from West Asian conflicts. The government remains committed to driving economic momen
@@ -72,59 +84,56 @@ Government and RBI measures to boost foreign investment in government securities
 ## Mutual fund houses restrict investments into gold ETFs, FoFs
 Leading mutual fund houses, including HDFC, ICICI Prudential, and Nippon India, are temporarily restricting large lump-sum investments in gold ETFs and fund of funds. This move aligns with the government's policy to discourage gold purchases, following an increase in import duty. The restrictions pr
 
-## AirTrunk unveils $30bn India data centre push
+## Right to travel abroad cannot be viewed in isolation, says Supreme Court
+The court stressed that while the Constitution guarantees personal liberty, including the right to travel abroad, “such right cannot be viewed in isolation”.
+
+## ‘Indecorous audience behaviour’: Indian mission in UK condemns disruption at CJI Surya Kant's London lecture
+The viral video shows an attendee attempting to raise questions on dissent in India while the programme was underway.
+
+## Double whammy for Mamata Banerjee? Buzz over repeat of TMC rebellion in Parliament
+Mamata Banerjee founded TMC after separating from the Congress in 1998. Ever since, the party has been a major force in West Bengal with Banerjee at its centre.
+
+## Annamalai joined BJP because Rajinikanth didn't form party: Congress leader
+K Annamalai resigned from the BJP and launched his own political movement “against cult politics” that would eventually turn into a political party.
+
+## NIA court orders framing of charges against 26 PFI leaders for seeking to establish caliphate
+The order was passed by Special NIA judge Prashant Sharma of the Patiala House courts.
+
+## Why CJP chose the Jantar Mantar as its protest site: A history of the 18th-century stone observatory
+The instruments at Jantar Mantar were once used to observe celestial movements, measure time, track the sun’s position, and refine astronomical calendars.
+
+## Reddy’s exit puts spotlight on Bengaluru development portfolio
+Ramalinga Reddy's resignation highlights the significance of the Bengaluru Development portfolio, a key center of power in the state government.
+
+## RBI keeps rates steady, takes steps to attract foreign capital
+The primary reason for the adverse movement in the growth-inflation balance is the disruption from the ongoing war in West Asia.
+
+## CBI court rejects bail plea of CSCL’s ex-chief finance officer in public funds diversion case
 
 
-## RBI cuts growth, hikes inflation forecast as West Asia crisis bites
-The RBI maintained the repo rate at 5.25% amidst economic slowdown fears and rising inflation risks from the West Asia conflict. Governor Sanjay Malhotra signaled concern over generalized inflation, cutting the FY27 growth forecast to 6.6% and raising inflation projections to 5.1%.
-
-## Cong’s J’khand RS nomination stirs row: JMM set to field for both seats
-Ranchi: Fissures in Congress-JMM alliance over Rajya Sabha elections as JMM demands to contest both seats; Congress names candidates.
-
-## Won’t allow infiltration to change demography: Shah
-Union Home Minister Amit Shah emphasizes on preventing demographic changes through illegal infiltration in Tripura, West Bengal, Bihar. Strengthening border security with technology-driven measures.
-
-## MEA: System in place to verify illegal migrants
-India has a mechanism with Bangladesh to verify and deport suspected illegal migrants. Bilateral process in place for deportation, with pending cases.
-
-## Ramalinga resigns as K’taka minister citing ‘humiliation’
-Senior Congress leader R Ramalinga Reddy resigned from Karnataka cabinet on live TV, citing portfolio denial. Party conflict escalates in ruling dispensation.
-
-## TMC leader Firhad Hakim quits as Kolkata mayor
-Trinamool Congress leader Firhad Hakim resigns as Mayor of Kolkata Municipal Corporation, citing inability to fulfill duties post-party's assembly poll defeat.
-
-## Abhishek Banerjee stays Gen Secy, but with two joint secys
-Abhishek Banerjee reappointed as TMC national general secretary amid internal rebellion; Mamata Banerjee reshuffles party leadership in West Bengal.
-
-## US court strikes down Trump's immigration freeze affecting 39 countries: Will India be impacted?
-The measures placed a blanket pause on immigration benefits for affected applicants, affecting asylum claims, work authorisations, green cards, etc.
-
-## No relaxation in 75% class 12 marks rule for IIT admissions, says Joint Admission Board
-The demands were made in the wake of growing concerns among students over the delay in re-evaluation process of CBSE exams.
-
-## Govt re-appoints Swaminathan Janakiraman as RBI Deputy Governor for two years
+## Jathedar Giani Kuldip Singh Gargajj calls for Sikh unity on 42nd anniversary of Operation Blue Star
 
 
-## Nepal’s Foreign Minister begins three-day India visit
+## Chandigarh schools converted parking into playgrounds, swimming pools; DC: restore original plan or face action
 
 
-## Kerala High Court dismisses appeal against ED probe by firm linked to Pinarayi Vijayan’s daughter
+## Film body urges Maharashtra CM to intervene in Shilpa Shinde’s false sexual harassment case
 
 
-## Cockroach Janta Party founder Dipke lands in Delhi today, police prepare for protest
+## Sacked staffer arrested for setting shop on fire, causing Rs 1.5-crore loss: Chandigarh Police
 
 
-## Differential rates on deposits beyond RBI norms not acceptable, says Governor
+## 2 masked suspects caught on CCTV entering DU assistant professor’s apartment complex day after her body found
 
 
-## Penguin pulls plug on Joe Sacco’s book on Muzaffarnagar riots
+## The Menin breakthrough: How a newly identified brain protein could reverse aging
 
 
-## Low magnesium levels: 3 signs that may indicate a deficiency
+## CBSE extends Class 12th verification, re-evaluation application deadline
 
 
-## Supreme Court orders status quo on deportation of two women declared foreigners by Assam tribunal
-
+## Chinese carriers seize two-thirds share of post-pandemic air routes
+Chinese carriers have captured an expanding slice of the international air travel market for routes connecting Chinese and overseas cities since the Covid-19 pandemic, according to data presented at an industry summit in Beijing on Friday. Local carriers currently held a 66.5 per cent market share c
 
 ## Targeting US$610 billion longevity market, biotech firms race to reverse ageing
 For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs building up in a complex software system – it happens once errors begin to accumulate in the genetic code of human cells, such as their DNA sequences. “Those errors can be reprogrammed. It becomes possible to use AI to rea
@@ -147,8 +156,8 @@ Foreign investors are returning to Chinese assets through convertible bonds and 
 ## Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules
 Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having 
 
-## AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark
-The artificial intelligence frenzy has made Zhongji Innolight, a supplier of optical modules to US hyperscalers, the biggest constituent of China’s stock benchmark, highlighting AI’s profound impact on the world’s second-largest equity market. The northern Shandong province-based company had a 5 per
+## Armenians Vote Under Russia’s Shadow
+Trump and Putin are backing different players in a contested country.
 
 ## The U.S. Economy Is Proving Remarkably Resilient
 Even in the face of tariffs and an energy crisis, the jobs report shows an economy that’s still humming.
@@ -170,9 +179,6 @@ In a new memoir, Nobel laureate Herta Müller condemns her homeland for failing 
 
 ## What in the World?
 Test yourself on the week of May 30: Malta votes, Japan responds to militarism accusations, and Iran pauses talks with the U.S.
-
-## Myanmar’s Military Isn’t Conceding Much
-Prisoner releases mostly reflect the regime’s growing confidence five years after seizing power in a coup.
 
 ## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
 Why Seoul picked the PPP incumbent yet again, and what it means for the city.
@@ -246,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Arrests of critics in Ghana provokes alarm over free speech under Mahama
+Ghana’s 14 arrests in 16 months linked to false news have raised concerns about free speech.
+
+## Ronaldo joins Portugal training ahead of sixth World Cup appearance
+Portuguese star Cristiano Ronaldo hit the training pitch as he readies for his sixth World Cup appearance.
+
+## Gaza fishermen stay afloat with dinghies made from doorframes
+Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.
+
+## Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash
+The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel's attacks on the country.
+
 ## Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin
 Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.
 
@@ -258,17 +276,8 @@ Russian President Vladimir Putin has turned down an offer for in-person talks wi
 ## Trump hails jobs surge, says Iran talks ‘going well’
 Trump hailed jobs growth before pivoting to Iran, saying negotiations with Tehran "seem to be going quite well".
 
-## Cobolli into final as virus-struck Arnaldi pulls out of French Open
-Tenth seed Flavio Cobolli will ​take on German second seed Alexander Zverev in ⁠final after Matteo Arnaldi withdrawal.
-
-## ‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire
-A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.
-
-## France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists
-French activists who took part in a Gaza-bound foreign aid flotilla accuse Israeli forces of abuse and torture.
-
-## Families clear rubble after overnight Israeli strikes in Gaza
-Families in Az-Zawayda, central Gaza, clear rubble after overnight Israeli strikes in Gaza
+## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
+India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
 
 ## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
 The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
@@ -290,9 +299,6 @@ M3M India aims to deliver nearly one crore square feet annually, backed by a pip
 
 ## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
 The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
-
-## SEBI clears path for promoter-group cousin to serve as independent director, clarifies LODR eligibility norms
-Informal guidance to Maithan Alloys says cousin of promoter-group member is not a 'relative' under LODR Regulations; clarification may influence board appointments across listed companies.
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
