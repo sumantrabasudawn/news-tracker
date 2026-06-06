@@ -39,29 +39,29 @@ The ever-present fear of ridicule among cycling’s weekend warriors tells us a 
 ## Irish government under pressure over alumina exports to Russia
 Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
 
-## The day all hedges fell
+## Kotak Mahindra Bank: Good time to relook?
+Kotak Mahindra Bank’s stock trades at over 30 per cent discount to its five-year mean P/B multiple
+
+## Giving employee health insurance plans an add-on boost
+POLICY-WISE Personal cover, riders and top-ups can help plug gaps in workplace health insurance scheme
+
+## The day all hedges fell in the US markets
 Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
 
-## Shyam Srinivasan shares lessons from banking and cricket in new book
-The former banker’s new release better never stops is a part memoir and part leadership guide
+## Debt funds make cautious return to credit risk
+Share of AA & below instruments in active debt funds rose from 2.3% to 3.1% over the last one year
 
-## Shyam Srinivasan’s ‘Better Never Stops’ launched in Kochi
-Drawing on his extensive experience in steering organisational transformation, navigating market disruptions and driving sustainable growth, Srinivasan reflects on the principles that shaped his leadership journey
+## USDINR and decoding the magic of ‘an idiotic idea’
+With rupee facing external pressure, here’s a lowdown on the RBI’s recent FCNR (B) swap window measure
 
-## Bullion Cues: Gold futures and silver futures exhibit weakness
-Recovery may face hurdles
+## India to account for half of global oil demand growth over next decade: Rosneft CEO
+"Over the next 10 years, this country will account for about half of the global increase in oil demand," TASS quoted Sechin
 
-## AI will reshape jobs, but India’s bigger challenge is preparing workers, boardrooms and classrooms
-With AI set to transform everything from agriculture to healthcare, the speakers stressed that India has the chance to shift from just consuming tech to creating it, shaping a future where young minds can thrive in a rapidly changing world
+## ICICI Pru Multi Sector Passive FOF: A different way to ride sectors
+FUND CALL The Fund of Funds changes allocations based on market cycles, valuations and macro signals
 
-## F&O Strategy: Short Hyundai Motor
-This strategy is only for traders who can understand the risk in futures and can meet margin obligations comfortably
-
-## Mastering Derivatives: Cash-flow factor in BTST trades
-You cannot use the capital blocked in the cash segment till the next day
-
-## Crude Check: Oil futures capped
-Further downside likely
+## Your all-round guide to NPS
+We unpack everything first-time investors need to know about NPS, from contributions to retirement income
 
 ## 5 ways IBC transformed India's corporate rescue system over the past decade
 
@@ -87,6 +87,18 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## Mamata's nephew Abhishek visits Delhi amid fears of TMC Bengal revolt spreading to Parliament
+While Mamata and Abhishek were earlier scheduled to travel to Delhi at the same time, the latter reached the Capital a day earlier.
+
+## Tamil Nadu BJP chief says 'no support to new party' as Annamalai makes big move
+The statement comes a day after the former BJP president for Tamil Nadu tendered his resignation from the party and formed a new movement
+
+## When roses, rage and ‘cockroaches’ came together in a summer swarm at Jantar Mantar | At the CJP protest in Delhi
+Some seemed to have chosen the protest as a Saturday outing. Nalin joked, "I told Shikha we are not meeting today if you won't accompany me to Jantar Mantar."
+
+## Media distrust emerges as a key theme among Cockroach Janta Party protesters | Ground Report from Jantar Mantar
+The ‘Cockroach’ movement may have started as a call for accountability amid ongoing exam irregularities, but the sentiment on the ground went beyond that.
+
 ## BJP chief takes a ‘puppets’ dig as Cockroach Janta Party protest sets a 7-day ‘deadline’ for education minister to quit
 BJP chief said that while youth wants to work for building the nation and secure their future, “some people labeled the youth ‘anti-establishment’”.
 
@@ -99,40 +111,28 @@ The NTA said such messages were aimed at misleading students and parents as it w
 ## Singapore orders blocking of online content targeting Indians
 The directive from Singapore’s home ministry, said police, have targeted 14 specific posts that appeared to promote a narrative that Singapore is being over-run by Indians
 
-## When will monsoon enter Delhi? Check forecast amid delayed start from Kerala
-The IMD shares monsoon prediction for Delhi and NCR region amid rising temperatures and recent thunderstorms
-
-## Congress protests in Haryana against paper leaks, demands minister's resignation
-The protest was joined by senior Congress leaders Deepender Singh Hooda and Digvijaya Singh alongside Uday Bhanu Chib
-
-## Delhi PWD decides to bring down all 500 national flags following damage complaints
-The flags were initially placed at key road intersections as a part of the AAP government's 2022 ‘Deshbhakti’ budget
-
-## Stalled railway projects worth ₹1 lakh cr to resume soon in WB: Adhikari
-Adhikari directed government and district officials to prepare a calendar for handing over land to the railways for the completion of pending projects
-
-## Mission T20 World Cup 2028: India selectors shift from reputations to promise
+## From Lego to life saving innovation: How this homeschooler reimagined laryngoscope for better airway care
 
 
-## Mumbai tanker operators announce indefinite strike from midnight amid water crisis
+## Sushmita Sen says being thin is not a marker of fitness: ‘I’ll introduce you to dietitians’
 
 
-## Heavy rain alert for Bengal in next 7 days: Kolkata to see intense spells, heavy downpour in North
+## Driver who allegedly dumped accident victim’s body on roadside arrested within 48 hours
 
 
-## MP teen battling for life after ‘stalker’ attacks her with axe, hangs her from rooftop
+## American student Weston Higginbotham found dead in Japan after ChatGPT argument with mother
 
 
-## ‘Very happy for Shreyas’: Surya on Iyer succeeding him as India T20I captain
+## Congress silent, its allies come out in support of Cokcroach Janta Party’s protest
 
 
-## ‘Iran is strong, proud’: Trump says Tehran will eventually ‘have no choice’
+## ‘Officers more loyal to establishment than Constitution’: Allahabad HC quashes proceedings in Gangsters Act FIR
 
 
-## Inspired by Rahul Gandhi’s dive, explore these 5 scuba diving spots in the Andamans
+## FIFA allows water bottles again at World Cup 2026, but with riders
 
 
-## Destiny’s child: How Andreeva turned a mother’s dream into a French Open title
+## Kidney disease, pregnancy, tattoos: Expert on when MRI scans may be risky
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## 100 days into the war on Iran, Trump fails to rally US support
+Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.
+
+## Which sub-Saharan Africa sides have best World Cup chance? Senegal, Ghana?
+After Morocco became the first Africans to reach a World Cup semifinal in 2022, can a sub-Saharan side step up in 2026?
+
+## Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam
+Eighth-ranked Mirra Andreeva ended the run of 114th-ranked Polish qualifier Maja Chwalinska in 6-3, 6-2 win in final.
+
 ## Activists disrupt German military exhibit over arms sales to Israel
 Activists disrupt German military exhibit over arms sales to Israel.
 
@@ -267,17 +276,8 @@ India's Gen Z Cockroach movement stages its first protest in the capital, demand
 ## Videos show Kuwait intercepting ballistic missiles from Iran
 Kuwait says it intercepted seven ballistic missiles over residential areas, resulting in some debris but no casualties.
 
-## Israeli strike kills at least six people at wedding in Gaza
-At least 15 people have been injured in the attack, according to local medical sources.
-
-## What Afghanistan’s rotten apples tell us about its non-profit sector
-Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.
-
-## Lebanon and Israel’s perpetual war machine
-Why Lebanon remains central to Israel's multi-front wars.
-
-## Pope calls for end to polarisation during visit to Spain
-Huge gatherings are expected in the coming days for the first visit to Spain by a pope since 2011.
+## Israeli attack on Gaza City tent camp kills at least six
+Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza 'ceasefire' agreement.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
