@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## The teenagers enlisted as agents of mayhem by Russia and Iran
+Minors are being targeted to carry out hostile acts from Ukraine to western Europe and Israel
+
 ## Irish government under pressure over alumina exports to Russia
 Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
 
@@ -21,9 +24,6 @@ Most countries only impose levies once gains are realised
 ## Pricing the oil inventory drawdown
 Could Brent crude hit $140 per barrel?
 
-## Peru to vote on ninth president in a decade
-Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
-
 ## West Ham co-chair quits ahead of ‘publication of serious historic allegations’
 David Sullivan departs just two weeks after club was relegated from Premier League
 
@@ -32,6 +32,9 @@ An expanded tournament held in beer-friendly countries will result in an extra 1
 
 ## How Monaco changed for F1
 Also in today’s newsletter: The $10bn club, pickleball’s rise and more
+
+## Peru to vote on ninth president in a decade
+Neither candidate, who offer widely differing agendas, obtained 20% in first round of voting
 
 ## AstraZeneca chief warns group could withhold new drugs in Europe
 Sir Pascal Soriot says countries will have to spend more on innovative medicines following US trade deal
@@ -87,6 +90,9 @@ Tech stocks, particularly semiconductors, experienced a significant downturn Fri
 ## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
 Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
 
+## Foreign investment reforms to ease flux in capital account
+India's new foreign investment reforms aim to stabilize the rupee, enhance G-Sec market liquidity, and attract global investments through tax incentives.
+
 ## LPG price hiked again: Cooking gas rates increased by ₹29, now cost ₹942 in Delhi
 The price of an LPG cylinder in Delhi has now been raised to ₹942 from ₹913, PTI news agency cited industry sources as saying.
 
@@ -108,8 +114,8 @@ BJP chief said that while youth wants to work for building the nation and secure
 ## Mamata's slog-over attempts to stop team collapse, then a Sourav Ganguly ‘clarification’ cameo
 Ex-captain said on Saturday that he is not a player in this game, as reports said he was tasked with getting Yusuf Pathan to quit seat for Mamata Banerjee
 
-## NTA dismisses chatter of NEET re-exam paper ‘leak’, warns of action: ‘Every such claim is a fabrication’
-The NTA said such messages were aimed at misleading students and parents as it warned of strict action against miscreants.
+## ‘They’re just more honest’: Imtiaz Ali defends Gen Z’s approach to love and romance
+
 
 ## Hemkund Sahib Yatra 2026: How to reach, trek route, and what pilgrims should know
 
@@ -130,9 +136,6 @@ The NTA said such messages were aimed at misleading students and parents as it w
 
 
 ## ‘Officers more loyal to establishment than Constitution’: Allahabad HC quashes proceedings in Gangsters Act FIR
-
-
-## FIFA allows water bottles again at World Cup 2026, but with riders
 
 
 ## China will enhance regulation of programme trading: CSRC chairman
@@ -255,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US doctor recovers from Ebola in Germany as DRC cases surge to 488
+Berlin's Charite hospital hailed treatment as a 'significant therapeutic success' as outbreak spreads in DR Congo.
+
+## Video shows Israeli soldier and settlers assaulting two Palestinians
+A surveillance camera caught a brutal assault by an Israeli soldier and settlers on two men in the occupied West Bank.
+
+## Palestinian father buries baby killed by Israeli gunfire in West Bank
+A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire
+
+## Israeli attack on Gaza City tent camp kills several Palestinians
+Israeli attack on Gaza City tent camp kills several Palestinians.
+
 ## From first lady to president? Inside the rise of Peru’s Keiko Fujimori
 In her fourth bid to be president, Fujimori faces her best odds yet. But can she overcome scandal and her father's past?
 
@@ -266,18 +281,6 @@ Russia, the United States and European Union all have interests as geopolitics t
 
 ## 100 days into the war on Iran, Trump fails to rally US support
 Unpopularity of the war may affect the US approach to the conflict and hurt Republicans in the elections, analysts say.
-
-## Which sub-Saharan Africa sides have best World Cup chance? Senegal, Ghana?
-After Morocco became the first Africans to reach a World Cup semifinal in 2022, can a sub-Saharan side step up in 2026?
-
-## Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam
-Eighth-ranked Mirra Andreeva ended the run of 114th-ranked Polish qualifier Maja Chwalinska in 6-3, 6-2 win in final.
-
-## Activists disrupt German military exhibit over arms sales to Israel
-Activists disrupt German military exhibit over arms sales to Israel.
-
-## Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers
-The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
