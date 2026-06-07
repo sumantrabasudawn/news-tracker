@@ -1,58 +1,61 @@
 # AION Intelligence
 
-## British Airways chief says air fares will rise again if fuel costs stay high
-Sean Doyle’s warning comes as jet fuel prices have doubled since Iran war began in February
+## Bank boss contests FCA fine for not revealing Venezuela and US penalties
+BancTrust’s Carlos Fuenmayor accuses watchdog of impinging on freedom of expression
 
-## OpenAI plots biggest ChatGPT overhaul since launch
-$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO
+## How high will the Iran war push US inflation?
+Market Questions is the FT’s guide to the week ahead
 
-## Expensive oil is making electric vehicles look positively cheap
-Petrol retails for £1.58 a litre in the UK, up about 20% since the start of the year
+## The coming rise of anti-AI populism
+Anxiety about the technology is set to generate a political backlash
 
-## We are optimising ourselves to death
-A tracker might tell you that you got to bed too late, but it doesn’t tell you that you were busy living your life
+## Russian drone hits nuclear fuel site near Chernobyl
+Radiation levels remain ‘within normal limits’, says Ukraine’s state nuclear company
 
-## Could Farage’s call for ‘rage’ cost Reform the Makerfield by-election?
-Latest polling shows Labour’s Andy Burnham pulling away from the rightwing populists, his main challengers
+## Walmart tells workers that AI will improve their jobs, not steal them
+Retailer’s embrace of artificial intelligence comes amid anxiety that the technology will create mass redundancies
 
-## Europe risks ‘mass unemployment’ without reform, warns ABB boss
-Morten Wierod calls for urgent deregulation as energy shock from Iran war dents EU competitiveness
+## Voters sour on Trump’s handling of inflation and grocery prices — FT poll
+US president blamed for high cost of living as Iran war deepens discontent
 
-## Italian defence and engineering groups enjoy Gulf deal boost
-Italy has proved it is a ‘reliable partner at the darkest of times’, say analysts
-
-## Longest-serving CEO in Fortune 250: ‘You have to know your limits’
-Dan Amos and his quacking duck advert have made insurer Aflac a household name in the US
-
-## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
-Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
+## US universities boost market risk as financial pressures mount
+Trump administration funding cuts and weak private equity performance prompt a search for higher endowment returns
 
 ## Britain’s questionable reliance on Palantir
 Government should use the best technology for any task, but be wary of ‘lock-ins’
 
-## How can retail investors buy shares in SpaceX's IPO?
-Investors usually need an eligible brokerage account, to meet funding requirements, and to submit an indication of interest before the IPO pricing
+## Incyte nears up to $2bn deal for blood disorder biotech Star
+Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
 
-## Powerlook eyes ₹1,000 crore revenue by FY30 on aggressive growth plans
-The retail expansion will initially focus on key metropolitan markets, including Mumbai, Delhi-NCR and Bengaluru.
+## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
+Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
 
-## Packaging firms remain upbeat on FY27 growth despite raw material volatility amid West Asia crisis
-Executives from major listed packaging companies in their latest quarter earnings said the crisis in West Asia has disrupted the availability of key petrochemical-based inputs and increased logistics costs
+## NTA releases NEET-UG 2026 re-exam city intimation slip; test on June 21
+Re-examination will be conducted in pen-and-paper mode from 2 pm to 5:15 pm across 551 cities in India and 14 cities abroad
 
-## From defence to trade: EAM Jaishankar outlines blueprint for deeper India-Indonesia cooperation
-Welcoming the Indonesian delegation for the 8th India-Indonesia Joint Commission Meeting (JCM), which is being held after a gap of four years, Jaishankar outlined the vast potential for multi-sectoral cooperation
+## A pragmatic monetary policy
+The policy keeps in mind the West Asian crisis and its impact on the Indian economy
 
-## FPIs pull out ₹43,000 crore in first week of Jun as AI trade, rupee weakness weigh on Indian equities
-Total outflows by Foreign Portfolio Investors (FPIs) from Indian equities in 2026 have reached ₹2.67 lakh crore, exceeding the ₹1.66 lakh crore withdrawn in all of 2025, according to NSDL data
+## India emerges as a new force in global dry bulk shipping as iron ore imports surge
+Greece-based shipping analytics firm Signal Ocean reports that India imported a record 5 million tonnes of iron ore in Q1 2026, the highest quarterly volume in three years
 
-## No blanket exemption like FPI to retail NRI investors in G‑Secs
-‘Until such relief is specifically provided, NRIs may need to explore available tax treaty benefits under applicable tax treaties or consider investing through eligible investment vehicles, subject to commercial and regulatory feasibility’
+## Nepal backs bilateral path with India to resolve border row; calls for partnership unconstrained by anxieties of past
+Three-day trip to New Delhi from Friday came against the backdrop of a raging controversy triggered by Nepalese Prime Minister Balendra Shah's recent remarks on the boundary row between the two sides
 
-## China puts EVs on a diet as battery boom adds bulk
-Family EVs have also grown wider over the years, with many popular sport utility vehicles and multipurpose vehicles now approaching or exceeding 2 meters
+## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
+For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
 
-## Tamil Nadu govt launches 24x7 online document registration system
-Facility enables people to register documents online from anywhere at any time without visiting a sub-registrar’s office
+## Tata Motors CV redraws strategy to reduce dependence on truck cycle: Chandrasekaran
+Tata Motors is revamping its commercial vehicle strategy to mitigate trucking cycle volatility, focusing on software, services, exports, and clean mobility amid global geopolitical disruptions
+
+## India must not let US Section 301 threats push it into a lopsided trade deal: Experts
+While Washington may be ready to ‘lock-in’ additional tariffs on India at around 18%, trade experts warn it won’t buy immunity from future American protectionism
+
+## Sustainable aviation fuel production volumes still disappointing: IATA DG Willie Walsh
+The EU and the UK have mandated e-SAF production of around 0.6 million tonne by 2030
+
+## Dharavi redevelopment project: Why analyst calls it one of India's biggest real estate execution challenges
+The Adani Group faces a massive execution challenge with the Dharavi Redevelopment Project, aiming to rehabilitate over one million residents and build 125,000 housing units in seven to eight years. This ambitious urban regeneration program, one of the world's largest, also includes significant infr
 
 ## Oil shock fears overdone, India can grow above 8%: Neelkanth Mishra
 India's economic growth is robust, with concerns over high crude oil prices being exaggerated, according to World Bank Executive Director Neelkanth Mishra. He highlighted strong domestic demand and refining margins as buffers, suggesting growth could exceed 8% and remain in the 7.5-8% range even wit
@@ -75,8 +78,23 @@ Domestic cooking gas prices have increased by Rs 29 per cylinder, reaching Rs 94
 ## 'US firms benefit from Hormuz closure': Russian oil company chief's big claim amid Iran war
 Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiaries of a Strait of Hormuz closure, warning of long-term damage to oil demand and a boost for alternatives. He also highlighted global resource shortages and questioned OPEC+'s effectiveness, noting Russia's production dec
 
-## Can RBI shield rupee from further fall? Analysts expect up to $75 billion in fresh inflows
-The Reserve Bank of India's recent monetary policy measures aim to bolster the rupee by attracting significant capital inflows, estimated between $40-75 billion. Despite rising inflation and revised growth forecasts, the Monetary Policy Committee is expected to maintain the repo rate at 5.25% with a
+## 28-year-old Indian man from Telangana shot dead in US during pizza delivery: Cop
+Preliminary findings suggest that the pizza order may have been placed for a vacant apartment, prompting investigators to examine further
+
+## Indicators 'missing' in NFHS factsheet being monitored via national surveys, databases: Govt sources
+Indicators 'missing' in NFHS factsheet being monitored via national surveys, databases: Govt sources
+
+## 'Was busy exposing you': Teen investigator Sarthak Sidhant to CBSE for re-evaluation deadline extension
+“Can u please extend the deadline please because i was busy this week exposing you,” Sarthak Sidhant posted as a reply to the CBSE's post.
+
+## Anshul Kuncha, Hyderabad man shot dead in US, was a data expert: How weekend pizza delivery turned fatal
+Anshul Kuncha earned a Master’s degree in Business Analytics from Drexel University’s LeBow College of Business in United States in March 2024.
+
+## DMK's Stalin says Vijay's TVK government may not last even three months
+Stalin had earlier said that TVK rode to power largely through social media platforms such as Instagram and lacked a strong organisational structure.
+
+## Let us build partnership not constrained by anxieties of past: Nepal foreign minister on India ties
+Let us build partnership not constrained by anxieties of past: Nepal foreign minister on India ties
 
 ## 'Modi wants youth to make reels instead': Rahul Gandhi at meeting with Sarthak Sidhant, teen who probed CBSE
 Sharing a video of his recent meeting with Sarthak Sidhant, Rahul Gandhi lauded the 18-year-old student for questioning the system and pursuing answers.
@@ -84,47 +102,32 @@ Sharing a video of his recent meeting with Sarthak Sidhant, Rahul Gandhi lauded 
 ## With latest hike, LPG up by ₹89 in 3 months, Oppn recalls PM Modi's claims of ‘diversification’ amid West Asia war
 Kharge said Modi government has increased domestic LPG prices by ₹530 in its 12 years: "So why aren't BJP leaders sitting on the streets with cylinders now?"
 
-## 'Haath lagakar dekho': Woman faces harassment from Mumbai auto driver; police probe launched
-The video, which was posted by the woman on Instagram shows her stepping out of the auto in a rush after the remarks were made.
-
-## Kerala saw delay, Maharashtra didn't: Will monsoon maintain its schedule for Delhi? Check IMD's forecast
-According to the IMD's monsoon tracking map, the monsoon is expected to enter Delhi and the National Capital Region sometime between June 25 and June 30.
-
-## Four-year-old dies of shigella infection in Kerala; govt steps up surveillance
-Four-year-old dies of shigella infection in Kerala; govt steps up surveillance
-
-## 'Don't send your kids to the US': Sister of Indian man shot dead in Philadelphia
-Anshul's sister further alleged that the incident was clearly a plot to murder her brother.
-
-## ABVP submits memorandum to Mansukh Mandaviya; Panjab University synthetic track proposal accepted
-ABVP submits memorandum to Mansukh Mandaviya; Panjab University synthetic track proposal accepted
-
-## Cockroach Janta Party's street debut draws 1,200 people, but vulnerablities remain
-The CJP protest was held to demand the resignation of education minister Dharmendra Pradhan over alleged irregularities in NEET, CBSE, and other exams.
-
-## UPSC Ethics Simplified : CBSE row as a case study on accountability when technology fails
+## Rafael Nadal on life after retirement: ‘I’m in a new phase’
 
 
-## Eknath Shinde invitation row: Sena minister to raise issue in Cabinet, Opposition alleges bid to sideline deputy CM
+## Unidentified attackers hurl petrol bomb at car in Ludhiana, flee
 
 
-## Salim Kumar (1969-2026): The screen titan who knew the jokes, and whom the jokes knew
+## Praggnanandhaa even more dangerous than Magnus Carlsen: Pravin Thipsay
 
 
-## Why grandmothers in Otsuchi had to improvise when ‘Japanese Messi’ Kubo’s jersey No. changed
+## Success Story | From Tapa Mandi to Chandigarh tech trailblazer, the growth of Beesolver
 
 
-## As road projects in Khed’s industrial areas stall, PMRDA orders action against obstructions
+## I don’t have to change my personality: Shreyas on getting India captaincy gig
 
 
-## Military Digest | ‘Sledgehammer to crack a nut’: How secret UK advice differed from India’s final plan in Operation Blue Star
+## Blood collection drops 43% at Mumbai’s Shatabdi Hospital; KEM gets notice over neonatal transfusion complaints
 
 
-## Can you eat UP’s famous dahi-jalebi combo daily for breakfast? Nutritionist answers
+## ‘Extremist breeding ground’: Attacks in Israel leave 1 dead, minister lambasts country’s Arabs
 
 
-## From Rs 4L to Rs 27L monthly sales in just 9 months: How two marginal farmer brothers built a thriving dairy empire
+## Why do sad songs feel heavier and more overwhelming when you’re already upset?
 
+
+## Which company could become the Chinese Pfizer? Here are analysts’ top picks
+A handful of Chinese biotechnology companies are expected to bring medications to consumers in Europe and the US under their own brand names within the next 10 to 15 years, according to policy and industry analysts. Amid China’s early-stage drug outlicensing boom, discussions have arisen among inves
 
 ## Park life: why China’s malls are building forests, waterfalls and sky walkways
 Property developers are focusing on building shopping centres featuring lush greenery, gardens and water features in mainland China, as such spaces have become more attractive to shoppers and retailers than conventional high-density malls. “Consumers increasingly view retail destinations as places t
@@ -146,9 +149,6 @@ Chinese carriers have captured an expanding slice of the international air trave
 
 ## Targeting US$610 billion longevity market, biotech firms race to reverse ageing
 For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs building up in a complex software system – it happens once errors begin to accumulate in the genetic code of human cells, such as their DNA sequences. “Those errors can be reprogrammed. It becomes possible to use AI to rea
-
-## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
-[The content of this article has been produced by our advertising partner.] AI has long been caught in a paradox: AI workloads demand high performance storage, long associated with flash, but scaling at AI levels with all-flash is prohibitively expensive. Hard disk drives (HDDs), on the other hand, 
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -246,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Los Angeles tiny homes move people off streets amid World Cup spotlight
+Thousands of people in Los Angeles are living in city-backed tiny homes as part of efforts to reduce homelessness.
+
+## Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure
+Two political blocs and 17 parties taking part in the election after campaign shaped by security and identity issues.
+
+## One killed, five wounded in shooting attack in Israel: Medics
+Israeli police say the suspect is a Palestinian with Israeli citizenship.
+
+## 1 killed and 5 injured in Israel shootings
+Multiple shooting attacks in Israel have killed 1 person and injured five others, Israeli police say.
+
+## Israeli settlers threaten to kill Palestinian farmer and harass sheep
+A Palestinian farmer recounts the moment a large group of Israeli settlers hit him and harassed his livestock.
+
+## An Eid celebration on a Gaza rooftop turns into a ‘horror movie’
+Israel's continued attacks on homes in Gaza are contributing to the ongoing genocide in the enclave.
+
 ## Kosovo votes again amid political deadlock, seeking EU and NATO progress
 Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord.
 
 ## How have countries around the world responded to the US-Israel war on Iran?
 The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders.
-
-## 100 days of the US–Israel war on Iran
-One hundred days in, the US–Israel–Iran conflict remains a bloody stalemate with mounting loss of civilian lives.
-
-## How the hosts are preparing for an Ebola outbreak during World Cup 2026
-The US, Mexico and Canada have announced Ebola-related travel restrictions before the start of the World Cup.
-
-## Iran criticizes US refusal to grant visas for World Cup delegation
-Iran’s ambassador to Mexico expressed concern over the reported denial of US visas to the World Cup delegation.
-
-## Who are the best star players to watch at World Cup 2026?
-The FIFA World Cup will bring together football stars from across the globe, ranging from legends to emerging talents.
-
-## Massive human wave in Mexico ahead of World Cup 2026
-Massive human wave in Mexico ahead of World Cup 2026
-
-## The accomplishments of 100 days of war on Iran are undeniable
-The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
