@@ -1,6 +1,15 @@
 # AION Intelligence
 
-## Abu Dhabi’s Etihad to surpass pre-Iran War capacity without price cuts
+## US weighs using Iranian assets to compensate Gulf allies for war damage
+Proposal comes as relations between Trump administration and regional partners have been strained by conflict
+
+## Tokio Marine boss to use Berkshire deal for global growth drive
+Masahiro Koike aims to turn Japanese group into top five global insurer within a decade
+
+## UK nuclear weapons spending not transparent enough, says watchdog
+Public Accounts Committee also criticises lengthy delay to government’s defence investment plan
+
+## Abu Dhabi’s Etihad to surpass pre-Iran war capacity without price cuts
 Airline had its planes grounded when fighting began but demand for transit through region has recovered
 
 ## What we know about the plan to give Americans an equity stake in AI
@@ -15,14 +24,8 @@ Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw
 ## US and Iran exchange strikes in new threat to shaky ceasefire
 Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
 
-## Oil tanker owners fear market crash after Iran war drove record profits
-Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens
-
-## Trump relaunches tariffs war after court struck down levies
-President attempts to craft a regime of punitive trade measures that can survive legal challenges
-
-## Allegations against Maine Senate candidate plunge Democrats into turmoil
-Political outsider’s campaign is overshadowed by accusations of inappropriate behaviour
+## We should be getting better at AI by now
+From cancelled novels to legal fines, the scale of blunders only halfway through the year suggests the opposite
 
 ## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
 Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
@@ -30,35 +33,32 @@ Bid from group including Orange and Free-Iliad faces showdown with antitrust reg
 ## West Ham co-chair quits ahead of ‘publication of serious historic allegations’
 David Sullivan departs just two weeks after club was relegated from Premier League
 
-## One billion pints: beer giants prepare for booziest World Cup in history
-An expanded tournament held in beer-friendly countries will result in an extra 1bn pints being consumed, say analysts
+## How geopolitical flashpoints are spurring global supply chain diversification
+India has formed various partnerships to build diversified, trusted production ecosystems in key geographies
 
-## How Monaco changed for F1
-Also in today’s newsletter: The $10bn club, pickleball’s rise and more
+## India’s fertility rate drops below replacement level, says Elon Musk
+India’s population has crossed 1.46 billion, but experts warn that falling fertility rates may eventually reverse growth and trigger a long-term population decline
 
-## Kotak Mahindra Bank: Good time to relook?
-Kotak Mahindra Bank’s stock trades at over 30 per cent discount to its five-year mean P/B multiple
+## Sriram Krishnan to leave White House as Trump advances AI agenda
+The exit of Sriram Krishnan coincides with growing White House efforts to shape the future of artificial intelligence, including exploring unprecedented government investments in AI firms.
 
-## Giving employee health insurance plans an add-on boost
-POLICY-WISE Personal cover, riders and top-ups can help plug gaps in workplace health insurance scheme
+## A new name, a new champion: Andreeva conquers Roland Garros
+The 19-year-old became the youngest Roland Garros women’s champion since Monica Seles in 1992, cementing her status as one of tennis’s brightest stars
+
+## Nestle India’s royalty payment to parent rises nearly 14% to ₹1,024 crore in FY26
+The rise came despite shareholders rejecting a proposal last year to gradually increase royalty payments
+
+## LPG price raised by ₹29 per 14.2-kg cylinder
+This is the second increase in three months as state-owned fuel retailers continue to grapple with elevated global energy costs
+
+## US weighs using Iranian assets to fund Gulf reconstruction amid escalating tensions
+The latest round of US and Iranian strikes has deepened uncertainty in the Gulf, threatening regional stability and adding to concerns over oil shipments, energy prices, and the prospects for a lasting peace deal.
 
 ## The day all hedges fell in the US markets
 Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
 
-## Debt funds make cautious return to credit risk
-Share of AA & below instruments in active debt funds rose from 2.3% to 3.1% over the last one year
-
-## USDINR and decoding the magic of ‘an idiotic idea’
-With rupee facing external pressure, here’s a lowdown on the RBI’s recent FCNR (B) swap window measure
-
-## India to account for half of global oil demand growth over next decade: Rosneft CEO
-"Over the next 10 years, this country will account for about half of the global increase in oil demand," TASS quoted Sechin
-
-## ICICI Pru Multi Sector Passive FOF: A different way to ride sectors
-FUND CALL The Fund of Funds changes allocations based on market cycles, valuations and macro signals
-
-## Your all-round guide to NPS
-We unpack everything first-time investors need to know about NPS, from contributions to retirement income
+## LPG gets Rs 29 costlier: Check the latest cylinder rates in Delhi, Mumbai and other cities
+Domestic cooking gas prices have increased by Rs 29 per cylinder, reaching Rs 942 in Delhi, marking the second revision in three months due to soaring global energy costs. This rise follows a previous Rs 60 hike and is part of a broader trend of fuel price increases, with petrol and diesel also seei
 
 ## 5 ways IBC transformed India's corporate rescue system over the past decade
 
@@ -81,56 +81,62 @@ India is launching E85 petrol, an 85% ethanol blend, at discounted prices. This 
 ## $1.3 trillion erased from Wall Street: Here's what slowed down AI rally
 Tech stocks, particularly semiconductors, experienced a significant downturn Friday, driven by investor caution over AI valuations and robust US jobs data. The PHLX Semiconductor Index saw its steepest drop since March 2020, erasing billions in market value. This retreat follows a period of record h
 
-## Pocket-friendly packets: Why Indians are swapping big snack packs for smaller ones
-Consumers are increasingly opting for smaller pack sizes of everyday goods, from edible oils to soaps, as rising costs strain monthly budgets. This shift, driven by economic stress and geopolitical factors, is leading FMCG companies to reduce grammage in popular low-priced packs to maintain affordab
+## Indian Air Force roped in to transport NEET papers as NTA tightens guard for June 21 re-exam
+The NEET-UG 2026 re-examination is expected to be conducted for more than 2.2 million students across the country, with enhanced security protocols.
 
-## TDP announces three Rajya Sabha candidates for upcoming elections
-The Telugu Desam Party (TDP) on Saturday announced its candidates for the upcoming Rajya Sabha elections.
+## Cockroach Janta Party draws BJP chief's 'puppet' jibe after first offline protest in Delhi
+Abhijeet Dipke said that right before landing at the Delhi airport on Saturday morning, he felt as though these were last few moments of freedom.
 
-## CJP thanks Delhi Police for ‘all possible cooperation’ during ‘Cockroach’ protest, cops's cautionary message
-The Cockroach Janta Party organised a protest led by its founder Abhijeet Dipke at the Jantar Mantar demanding Education Minister Dharmendra Pradhan's removal.
+## LPG prices hiked: Check how rates in Delhi, Mumbai, Kolkata and Chennai have changed
+The latest revision comes after a ₹60-per-cylinder hike on March 7, which came after the disruptions to global energy supplies caused by West Asia conflict.
 
-## Foreign investment reforms to ease flux in capital account
-India's new foreign investment reforms aim to stabilize the rupee, enhance G-Sec market liquidity, and attract global investments through tax incentives.
+## CPI (M) chief slams Rahul Gandhi for BJP-left nexus charge
+The meeting, scheduled to be held in Delhi on June 8, is being closely watched because it is the first meeting of the grouping since December 2023.
 
-## LPG price hiked again: Cooking gas rates increased by ₹29, now cost ₹942 in Delhi
-The price of an LPG cylinder in Delhi has now been raised to ₹942 from ₹913, PTI news agency cited industry sources as saying.
+## PM Modi pushes growth agenda at EAC meet amid economic pressure
+The meeting came in the backdrop of criticism from opposition, which have cited the rupee’s deterioration and rising fuel prices as evidence of policy failure.
 
-## Mamata's nephew Abhishek visits Delhi amid fears of TMC Bengal revolt spreading to Parliament
-While Mamata and Abhishek were earlier scheduled to travel to Delhi at the same time, the latter reached the Capital a day earlier.
+## Cook arrested in deadly Delhi hotel fire case, claims blaze ‘began after spark in fryer’
+Negi, who lives in Shahdara’s Dilshad Garden, had been working at Flourish Stay B&B in Malviya Nagar’s Hauz Rani for over a year, police said.
 
-## Tamil Nadu BJP chief says 'no support to new party' as Annamalai makes big move
-The statement comes a day after the former BJP president for Tamil Nadu tendered his resignation from the party and formed a new movement
+## HYDRAA reclaims land worth ₹1L-cr in T’gana
+HYDRAA reclaimed encroached government lands worth ₹1 lakh crore in Hyderabad, securing 200 acres valued at ₹30,000 crore in a recent operation.
 
-## When roses, rage and ‘cockroaches’ came together in a summer swarm at Jantar Mantar | At the CJP protest in Delhi
-Some seemed to have chosen the protest as a Saturday outing. Nalin joked, "I told Shikha we are not meeting today if you won't accompany me to Jantar Mantar."
+## India, Nepal discuss ways to take forward bilateral ties, development cooperation
+EAM Jaishankar met Khanal to review bilateral ties, including development cooperation, connectivity, trade and transit, energy and people-to-people ties.
 
-## Media distrust emerges as a key theme among Cockroach Janta Party protesters | Ground Report from Jantar Mantar
-The ‘Cockroach’ movement may have started as a call for accountability amid ongoing exam irregularities, but the sentiment on the ground went beyond that.
-
-## Education Minister isn’t running away… he’s taken steps to fix the problem: Kiren Rijiju
+## Mohali Mayor, Senior Deputy Mayor polls on May 9 following councillors’ oath
 
 
-## After NEET-UG 2026 leak, NTA wants question setters to not know which exam they’re setting papers for
+## Salim Kumar Death News Live Updates: Mammootty, Prithviraj, Manju Warrier mourn demise of actor
 
 
-## Multiple people have been shot near a festival in Toledo, Ohio, authorities say
+## SBI heist ‘mastermind’ sent to Surat jail, police say will seek custody
 
 
-## Sense in PM-EAC meeting: Moves to attract foreign funds can get $70 billion
+## UP government forms committee to probe KGMU drugs distribution ‘irregularities’
 
 
-## Project Glasswing: Key cybersecurity agencies set to get access to Anthropic’s Mythos
+## IDFC First Bank ‘fraud’: CBI raids Haryana IAS officers in Rs 645-cr embezzlement case
 
 
-## Verify nationality of 2,860 people for their deportation, India tells Bangladesh
+## Seven of 37 illegal houses near Asaram Ashram demolished
 
 
-## Jaishankar, Nepal’s Foreign Minister vow to take bilateral ties to new heights
+## Came to spend vacation, teen dies after drowning at Juhu beach
 
 
-## Malayalam actor Salim Kumar dies at 56
+## Cooking gas gets costlier: Domestic LPG price hiked by Rs 29 per cylinder
 
+
+## Park life: why China’s malls are building forests, waterfalls and sky walkways
+Property developers are focusing on building shopping centres featuring lush greenery, gardens and water features in mainland China, as such spaces have become more attractive to shoppers and retailers than conventional high-density malls. “Consumers increasingly view retail destinations as places t
+
+## Why can’t investors buy the mainland’s hottest AI stocks via Stock Connect?
+Since 2014, the Stock Connect scheme has become a major channel for Hong Kong and international investors to buy stocks on the Chinese mainland. But cross-border traders have grown frustrated in recent months, as they have been unable to access a wave of blockbuster listings by AI companies on the m
+
+## ‘It’s the wealth effect’: Hong Kong luxury malls thrive amid IPO gains, housing recovery
+Hong Kong’s new status as the world’s top cross-border wealth hub, overtaking Switzerland, alongside a recovering local housing market and strong initial public offerings (IPOs), is translating into a boom for high-end malls, with landlords enjoying improved revenues and rents. Hard luxury and jewel
 
 ## China will enhance regulation of programme trading: CSRC chairman
 Chinese authorities plan to enhance regulation of programme trading to clamp down on market misconduct, the head of the China Securities Regulatory Commission (CSRC) said on Saturday. Hedge funds and institutional investors are increasingly managing their portfolios in China via programme trading, w
@@ -146,15 +152,6 @@ For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs bu
 
 ## AI infrastructure is multi-tiered, and HDDs are central to scaling AI, WD shares
 [The content of this article has been produced by our advertising partner.] AI has long been caught in a paradox: AI workloads demand high performance storage, long associated with flash, but scaling at AI levels with all-flash is prohibitively expensive. Hard disk drives (HDDs), on the other hand, 
-
-## China launches space computing hub as SpaceX gears up for historic IPO
-China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes a record-shattering US$75 billion market debut to fund its own orbital AI ambit
-
-## Chinese EVs reclaim momentum as tech upgrades, incentives squeeze gains of foreign marques
-International marques have failed to sustain the market share they regained in China early this year after consumers fell back in love with electric vehicles (EVs), a sector where domestic brands continue to enjoy an overwhelming advantage. Foreign carmakers from Volkswagen to Toyota held a combined
-
-## Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds
-Hong Kong’s de facto central bank has formed a group of industry experts to help remove legal and regulatory hurdles to tokenized bonds, as authorities seek to move beyond pilot projects and encourage wider adoption from private issuers. The Hong Kong Monetary Authority (HKMA) said on Friday it had 
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -252,6 +249,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Protests grow in Albania against Trump-Kushner-linked resort
+Thousands of protesters have rallied in the Albanian capital against a proposed luxury beach resort linked to Trump.
+
+## Iran war live: Israel kills Lebanon general, Pakistan urges end to war
+Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait.
+
+## Trump pardons former US Congress member accused of insider trading
+Republican Stephen Buyer was convicted and sentenced to 22 months in prison, though he has maintained his innocence.
+
 ## Pentagon said to raise threat level on Israel spying to ‘critical’
 Department reports raise concerns about increased espionage activity amid US-Israeli war with Iran, ceasefire talks.
 
@@ -266,15 +272,6 @@ Emergency Lawyers said dozens were also wounded in the strike that came less tha
 
 ## US doctor recovers from Ebola in Germany as DRC cases surge to 488
 Berlin's Charite hospital hailed treatment as a 'significant therapeutic success' as outbreak spreads in DR Congo.
-
-## Video shows Israeli soldier and settlers assaulting two Palestinians
-A surveillance camera caught a brutal assault by an Israeli soldier and settlers on two men in the occupied West Bank.
-
-## Palestinian father buries baby killed by Israeli gunfire in West Bank
-A Palestinian father in Hebron has buried his seven-month-old son after the baby was killed by Israeli gunfire
-
-## Israeli attack on Gaza City tent camp kills several Palestinians
-Israeli attack on Gaza City tent camp kills several Palestinians.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
