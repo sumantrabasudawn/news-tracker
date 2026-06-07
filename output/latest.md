@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Italian bank BPM proposes €50bn merger with Monte dei Paschi
+Planned combination of ‘equals’ is latest attempt at banking consolidation in the country
+
+## Zelenskyy used Abramovich to send message to Putin about peace talks
+Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
+
+## Are we at the start of a new investment super-cycle?
+AI, clean energy and defence spending are reinforcing each other, amplifying potential spend
+
 ## Bank boss contests FCA fine for not revealing Venezuela and US penalties
 BancTrust’s Carlos Fuenmayor accuses watchdog of impinging on freedom of expression
 
@@ -15,47 +24,41 @@ Radiation levels remain ‘within normal limits’, says Ukraine’s state nucle
 ## Walmart tells workers that AI will improve their jobs, not steal them
 Retailer’s embrace of artificial intelligence comes amid anxiety that the technology will create mass redundancies
 
-## Voters sour on Trump’s handling of inflation and grocery prices — FT poll
-US president blamed for high cost of living as Iran war deepens discontent
-
-## US universities boost market risk as financial pressures mount
-Trump administration funding cuts and weak private equity performance prompt a search for higher endowment returns
-
-## Britain’s questionable reliance on Palantir
-Government should use the best technology for any task, but be wary of ‘lock-ins’
-
 ## Incyte nears up to $2bn deal for blood disorder biotech Star
 Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
+
+## Voters sour on Trump’s handling of inflation and grocery prices — FT poll
+US president blamed for high cost of living as Iran war deepens discontent
 
 ## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
 Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
 
-## NTA releases NEET-UG 2026 re-exam city intimation slip; test on June 21
-Re-examination will be conducted in pen-and-paper mode from 2 pm to 5:15 pm across 551 cities in India and 14 cities abroad
-
-## A pragmatic monetary policy
-The policy keeps in mind the West Asian crisis and its impact on the Indian economy
-
-## India emerges as a new force in global dry bulk shipping as iron ore imports surge
-Greece-based shipping analytics firm Signal Ocean reports that India imported a record 5 million tonnes of iron ore in Q1 2026, the highest quarterly volume in three years
-
-## Nepal backs bilateral path with India to resolve border row; calls for partnership unconstrained by anxieties of past
-Three-day trip to New Delhi from Friday came against the backdrop of a raging controversy triggered by Nepalese Prime Minister Balendra Shah's recent remarks on the boundary row between the two sides
-
 ## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
 For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
 
-## Tata Motors CV redraws strategy to reduce dependence on truck cycle: Chandrasekaran
-Tata Motors is revamping its commercial vehicle strategy to mitigate trucking cycle volatility, focusing on software, services, exports, and clean mobility amid global geopolitical disruptions
+## India’s dairy boom moves beyond metros as smaller cities drive demand
+Industry executives attribute this shift to a combination of rising incomes, rapid urbanisation and a growing preference for branded, quality-assured dairy products
+
+## Rajesh Exports order puts auditors, audit committee under the scanner
+Failure to independently verify overseas subsidiary revenues is as significant as the ₹15.15 lakh crore misrepresentation allegation, experts say.
+
+## IATA cuts 2026 airline profit forecast amid rising fuel costs
+The downgrade underscores airlines' exposure to geopolitical shocks and ‌fuel volatility
+
+## Rajesh Exports likely to be dropped from PLI scheme, final decision in days: Sources
+Sources in the ministry told that there is a "strong view" within the department that the company should be dropped from the scheme
+
+## MIDHANI targets rare earth independence with next-gen alloys and infrastructure push
+MIDHANI CMD Dr SVS Narayana Murty expects significant advancements in next-generation superalloys, advanced titanium alloys, and high-temperature aerospace materials over the next decade
+
+## Outbound travel plummets over 20% as West Asia conflict disrupts tourism
+Foreign travel arrivals declined by over 5 per cent and 14 per cent in March and April respectively
 
 ## India must not let US Section 301 threats push it into a lopsided trade deal: Experts
-While Washington may be ready to ‘lock-in’ additional tariffs on India at around 18%, trade experts warn it won’t buy immunity from future American protectionism
+While Washington may be ready to ‘lock-in’ additional tariffs on India at around 18%, trade experts warn it may not buy immunity from future American protectionism
 
-## Sustainable aviation fuel production volumes still disappointing: IATA DG Willie Walsh
-The EU and the UK have mandated e-SAF production of around 0.6 million tonne by 2030
-
-## Dharavi redevelopment project: Why analyst calls it one of India's biggest real estate execution challenges
-The Adani Group faces a massive execution challenge with the Dharavi Redevelopment Project, aiming to rehabilitate over one million residents and build 125,000 housing units in seven to eight years. This ambitious urban regeneration program, one of the world's largest, also includes significant infr
+## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
+Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
 
 ## Oil shock fears overdone, India can grow above 8%: Neelkanth Mishra
 India's economic growth is robust, with concerns over high crude oil prices being exaggerated, according to World Bank Executive Director Neelkanth Mishra. He highlighted strong domestic demand and refining margins as buffers, suggesting growth could exceed 8% and remain in the 7.5-8% range even wit
@@ -78,52 +81,52 @@ Domestic cooking gas prices have increased by Rs 29 per cylinder, reaching Rs 94
 ## 'US firms benefit from Hormuz closure': Russian oil company chief's big claim amid Iran war
 Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiaries of a Strait of Hormuz closure, warning of long-term damage to oil demand and a boost for alternatives. He also highlighted global resource shortages and questioned OPEC+'s effectiveness, noting Russia's production dec
 
-## 28-year-old Indian man from Telangana shot dead in US during pizza delivery: Cop
-Preliminary findings suggest that the pizza order may have been placed for a vacant apartment, prompting investigators to examine further
+## 'Inspired' by Hitler and 'his Hydra force': Telangana CM mixes up Nazi Germany with American comic books
+The Congress CM said his anti-encroachment team works like Adolf Hitler's core assassination team “Hydra” did — except, Hitler never had a team by that name.
 
-## Indicators 'missing' in NFHS factsheet being monitored via national surveys, databases: Govt sources
-Indicators 'missing' in NFHS factsheet being monitored via national surveys, databases: Govt sources
+## INDIA bloc meeting, minus DMK, tomorrow; Congress denies internal rifts
+Congress leader Jairam Ramesh said that 23 political parties will be in attendance at the meeting, which will take place in the national capital
 
-## 'Was busy exposing you': Teen investigator Sarthak Sidhant to CBSE for re-evaluation deadline extension
-“Can u please extend the deadline please because i was busy this week exposing you,” Sarthak Sidhant posted as a reply to the CBSE's post.
+## Kangana Ranaut says nurses' uniforms should be ‘Indianised’, cites ‘British look’ of current dress code
+The actor-turned-politican is slated to star in an upcoming film highlighting the unrecognised work of nurses and healthcare staff.
 
-## Anshul Kuncha, Hyderabad man shot dead in US, was a data expert: How weekend pizza delivery turned fatal
-Anshul Kuncha earned a Master’s degree in Business Analytics from Drexel University’s LeBow College of Business in United States in March 2024.
+## Kolkata to Delhi to kill a relative, then back: How couple held for DU professor's murder planned to evade scrutiny
+The 45-year-old professor was found dead at her home in Delhi's Vasundhara Enclave with wrists slit and serious head and face injuries.
 
-## DMK's Stalin says Vijay's TVK government may not last even three months
-Stalin had earlier said that TVK rode to power largely through social media platforms such as Instagram and lacked a strong organisational structure.
+## NEET-UG 2026 re-exam: NTA releases city intimation slips for June 21, here's how to download
+Over 22 lakh students appeared for the medical exam on May 3, which was then cancelled due to a paper leak.
 
-## Let us build partnership not constrained by anxieties of past: Nepal foreign minister on India ties
-Let us build partnership not constrained by anxieties of past: Nepal foreign minister on India ties
+## Assam CM Himanta Sarma allocates ‘guardian districts’ to 16 cabinet ministers
+The ministers will be responsible for coordinating overall development in the districts assigned to them in association with different government departments
 
-## 'Modi wants youth to make reels instead': Rahul Gandhi at meeting with Sarthak Sidhant, teen who probed CBSE
-Sharing a video of his recent meeting with Sarthak Sidhant, Rahul Gandhi lauded the 18-year-old student for questioning the system and pursuing answers.
+## CIC flags MCD's ‘deliberate resistance' on withholding info on stray dogs
+It also awarded ₹10,000 compensation to the applicant and ordered proactive disclosure of records, including NGO payments, sterilisation and vaccination data.
 
-## With latest hike, LPG up by ₹89 in 3 months, Oppn recalls PM Modi's claims of ‘diversification’ amid West Asia war
-Kharge said Modi government has increased domestic LPG prices by ₹530 in its 12 years: "So why aren't BJP leaders sitting on the streets with cylinders now?"
+## Dhami raises Uttarakhand cook’s arrest in B&B fire case with Delhi CM; seeks probe
+Dhami said that Gupta assured him that no innocent person would face injustice and that the investigation would be based solely on facts and evidence
 
-## Rafael Nadal on life after retirement: ‘I’m in a new phase’
-
-
-## Unidentified attackers hurl petrol bomb at car in Ludhiana, flee
+## How 6.30 am tutorials by ‘market guru’ cost IT professional Rs 4.43 crore in trading fraud
 
 
-## Praggnanandhaa even more dangerous than Magnus Carlsen: Pravin Thipsay
+## ‘Need to be quite malleable, depending on surfaces’: McCullum after ENG beat NZ
 
 
-## Success Story | From Tapa Mandi to Chandigarh tech trailblazer, the growth of Beesolver
+## In a first, Maharashtra minister joins Operation Blue Star anniversary at Damdami Taksal
 
 
-## I don’t have to change my personality: Shreyas on getting India captaincy gig
+## Cotton sowing area likely to rise by 10-15% this kharif season: Officials
 
 
-## Blood collection drops 43% at Mumbai’s Shatabdi Hospital; KEM gets notice over neonatal transfusion complaints
+## Madhavan on why he never cheated on wife Sarita: ‘I’m a darpok Madrasi middle-class man’
 
 
-## ‘Extremist breeding ground’: Attacks in Israel leave 1 dead, minister lambasts country’s Arabs
+## No powders, no meat: How to hit 120g of daily protein on a pure vegetarian diet
 
 
-## Why do sad songs feel heavier and more overwhelming when you’re already upset?
+## Karnataka rain: IMD red alert for Bengaluru for Tuesday, entire state for Wednesday
+
+
+## The Joe Sacco book that India won’t read
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -246,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Los Angeles tiny homes move people off streets amid World Cup spotlight
-Thousands of people in Los Angeles are living in city-backed tiny homes as part of efforts to reduce homelessness.
+## Fifty-two hours on an Israeli prison ship
+A flotilla activist recounts his detention after Israeli forces intercepted a Gaza-bound solidarity mission at sea.
 
-## Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure
-Two political blocs and 17 parties taking part in the election after campaign shaped by security and identity issues.
+## Missiles and negotiations: Iran 100 days into the war with US and Israel
+Talks and attacks have continued for months, and could last much longer without a breakthrough.
 
-## One killed, five wounded in shooting attack in Israel: Medics
-Israeli police say the suspect is a Palestinian with Israeli citizenship.
+## Marc Marquez hits 100 career wins with Hungarian MotoGP victory
+The seven-time MotoGP world champion beat KTM's Pedro Acosta to claim his first grand prix victory of the season.
 
-## 1 killed and 5 injured in Israel shootings
-Multiple shooting attacks in Israel have killed 1 person and injured five others, Israeli police say.
+## Israel strikes southern suburbs of Lebanon’s capital Beirut
+Videos show the aftermath of an Israeli attack on Beirut's southern suburbs, with multiple explosions reported.
 
-## Israeli settlers threaten to kill Palestinian farmer and harass sheep
-A Palestinian farmer recounts the moment a large group of Israeli settlers hit him and harassed his livestock.
+## Why has the Pentagon raised the risk of Israeli spying to the highest level?
+The US agencies warn against Israeli efforts to collect information on the talks to end the war, according to reports.
 
-## An Eid celebration on a Gaza rooftop turns into a ‘horror movie’
-Israel's continued attacks on homes in Gaza are contributing to the ongoing genocide in the enclave.
+## Pope Leo urges youth to be ‘sparks of a new humanity’
+Pope Leo XIV urged young people to be 'sparks of a new humanity'.
 
-## Kosovo votes again amid political deadlock, seeking EU and NATO progress
-Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord.
+## ‘Fear mongering is the main narrative’ in Armenia’s elections
+‘Fear mongering is the main narrative’ in Armenia’s elections
 
-## How have countries around the world responded to the US-Israel war on Iran?
-The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders.
+## ‘What ceasefire?’ Palestinians inspect destruction after Israeli strike
+Palestinians inspect the aftermath of an Israeli strike in Khan Younis.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
