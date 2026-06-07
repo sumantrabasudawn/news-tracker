@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
+Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
+
 ## Iran launches ballistic missiles at Israel
 Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah
 
@@ -14,9 +17,6 @@ SpaceX IPO launches, Apple to hit reset, Trump turns 80, Fifa World Cup 2026 kic
 
 ## Trump piles pressure on Warsh with call for rate cut
 US president raises stakes for central bank pick as expectations grow that borrowing costs will rise
-
-## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
-Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
 
 ## Airlines face $100bn hit on jet fuel from Iran energy shock
 Industry body warns that profits will be halved by surging energy costs
@@ -258,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Videos show missiles launched from Iran into Israel
+Iranian media has released video showing missiles being launched towards Israel.
+
+## Celebrations seen in Tehran as missiles fly overhead towards Israel
+Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.
+
+## Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’
+Iran's IRGC says the barrage of missiles is 'a warning' to Israel amid its ongoing siege of Lebanon.
+
+## Iran fires missiles at Israel after it attacked Beirut
+Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.
+
+## Iran losing patience with Israel and US over ceasefire violations
+Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.
+
 ## Iranian World Cup excitement dulled by war and economic crisis
 Iranian World Cup excitement dulled by war and economic crisis.
 
@@ -266,21 +281,6 @@ At least 990 refugees and migrants have died this year while attempting the peri
 
 ## Hezbollah MP: Resistance defends Lebanon where the state failed
 Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.
-
-## Lawsuit seeks to stop Trump’s planned White House UFC match
-Legal challenge claims US president did not seek proper approval for fighting event to be held on his 80th birthday.
-
-## Alexander Zverev wins French Open to claim first Grand Slam title
-Zverev's five-set defeat of Flavio Cobolli makes him the first German man to win a Slam since Boris Becker 30 years ago.
-
-## Denmark’s Christian Eriksen collapses on football pitch during friendly
-The football player has a special heart-starting device implanted since he collapsed during a match in 2021.
-
-## Bolivia’s legislature passes law allowing use of troops against protesters
-New law grants president power to use military to clear roadblocks set up amid weeks of antigovernment demonstrations.
-
-## Nigerian forces rescue 360 captives from Boko Haram
-Nigerian forces rescued 360 captives, including women and children from a Boko Haram mountain hideout in Borno State.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
