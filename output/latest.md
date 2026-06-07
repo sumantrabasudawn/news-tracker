@@ -1,61 +1,64 @@
 # AION Intelligence
 
-## US weighs using Iranian assets to compensate Gulf allies for war damage
-Proposal comes as relations between Trump administration and regional partners have been strained by conflict
+## British Airways chief says air fares will rise again if fuel costs stay high
+Sean Doyle’s warning comes as jet fuel prices have doubled since Iran war began in February
 
-## Tokio Marine boss to use Berkshire deal for global growth drive
-Masahiro Koike aims to turn Japanese group into top five global insurer within a decade
+## OpenAI plots biggest ChatGPT overhaul since launch
+$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO
 
-## UK nuclear weapons spending not transparent enough, says watchdog
-Public Accounts Committee also criticises lengthy delay to government’s defence investment plan
+## Expensive oil is making electric vehicles look positively cheap
+Petrol retails for £1.58 a litre in the UK, up about 20% since the start of the year
 
-## Abu Dhabi’s Etihad to surpass pre-Iran war capacity without price cuts
-Airline had its planes grounded when fighting began but demand for transit through region has recovered
+## We are optimising ourselves to death
+A tracker might tell you that you got to bed too late, but it doesn’t tell you that you were busy living your life
 
-## What we know about the plan to give Americans an equity stake in AI
-OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety about the impact of artificial intelligence
+## Could Farage’s call for ‘rage’ cost Reform the Makerfield by-election?
+Latest polling shows Labour’s Andy Burnham pulling away from the rightwing populists, his main challengers
 
-## The teenagers enlisted as agents of mayhem by Russia and Iran
-Minors are being targeted to carry out hostile acts from Ukraine to western Europe and Israel
+## Europe risks ‘mass unemployment’ without reform, warns ABB boss
+Morten Wierod calls for urgent deregulation as energy shock from Iran war dents EU competitiveness
 
-## Irish government under pressure over alumina exports to Russia
-Lawmakers call for EU sanctions on Oleg Deripaska-linked plant in Ireland if raw material is used in Russian weapons
+## Italian defence and engineering groups enjoy Gulf deal boost
+Italy has proved it is a ‘reliable partner at the darkest of times’, say analysts
 
-## US and Iran exchange strikes in new threat to shaky ceasefire
-Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz
+## Longest-serving CEO in Fortune 250: ‘You have to know your limits’
+Dan Amos and his quacking duck advert have made insurer Aflac a household name in the US
+
+## Ferrari diehards debate whether buying its first EV is test of loyalty
+Group has banned dealers from bundling Luce sales and access to exclusive models as it seeks new clients
 
 ## We should be getting better at AI by now
 From cancelled novels to legal fines, the scale of blunders only halfway through the year suggests the opposite
 
-## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
-Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
+## AlphaGrep enters MF space, targets ₹25,000-30,000 crore AUM in 3-5 years
+The company's maiden NFO will open for subscription on July 6, 2026.
 
-## West Ham co-chair quits ahead of ‘publication of serious historic allegations’
-David Sullivan departs just two weeks after club was relegated from Premier League
+## NCLAT quashes Ligare Aviation's insolvency; loan from Religare Enterprises round-tripping of money
+Religare Enterprises and Ligare Aviation are both group companies and related parties.
 
-## How geopolitical flashpoints are spurring global supply chain diversification
-India has formed various partnerships to build diversified, trusted production ecosystems in key geographies
+## What to know about rare visit by China's Xi to North Korea for talks with Kim Jong Un
+The meeting between the two leaders is their first since Kim travelled to Beijing for a World War II event in September 2025
 
-## India’s fertility rate drops below replacement level, says Elon Musk
-India’s population has crossed 1.46 billion, but experts warn that falling fertility rates may eventually reverse growth and trigger a long-term population decline
+## Tata Steel says UK low-emission project faces delays over electricity access
+Company had targeted starting EAF operations by late 2027 or early 2028
 
-## Sriram Krishnan to leave White House as Trump advances AI agenda
-The exit of Sriram Krishnan coincides with growing White House efforts to shape the future of artificial intelligence, including exploring unprecedented government investments in AI firms.
+## LIC discussing long-term investment instruments with regulators amid growing liabilities: CEO
+He added IRDAI is proactively addressing the insurance sector’s evolving market needs.
 
-## A new name, a new champion: Andreeva conquers Roland Garros
-The 19-year-old became the youngest Roland Garros women’s champion since Monica Seles in 1992, cementing her status as one of tennis’s brightest stars
+## Govt assures support to develop KUFOS into Centre of Excellence
+State Fisheries Minister V E Abdul Gafoor assures continued backing for university’s academic and research initiatives in fisheries and blue economy
 
-## Nestle India’s royalty payment to parent rises nearly 14% to ₹1,024 crore in FY26
-The rise came despite shareholders rejecting a proposal last year to gradually increase royalty payments
+## Student-led Crab Aquaculture Startup launched at Kerala Fisheries varsity
+The venture seeks to bridge the gap between academic research and commercial aquaculture by translating scientific innovations into practical solutions for the farming community
 
-## LPG price raised by ₹29 per 14.2-kg cylinder
-This is the second increase in three months as state-owned fuel retailers continue to grapple with elevated global energy costs
+## Generic semaglutide race hinges on API supply as China leads: Goldman Sachs
+The big unknown is whether CDMO capacity built for branded drugs gets diverted to generics, and whether SPPS can scale fast enough to meet a market Goldman models at ~99,000 kg of peptide API by 2030
 
-## US weighs using Iranian assets to fund Gulf reconstruction amid escalating tensions
-The latest round of US and Iranian strikes has deepened uncertainty in the Gulf, threatening regional stability and adding to concerns over oil shipments, energy prices, and the prospects for a lasting peace deal.
+## Mango Mayday: Dark spots on produce threaten Himsagar export shipments
+West Bengal's Himsagar mango exports face a setback due to dark spots, a weather-induced disease affecting fruit quality. Continuous rain followed by high temperatures during the bagging stage led to the issue, potentially impacting overseas shipments. Despite this, exporters remain hopeful about fu
 
-## The day all hedges fell in the US markets
-Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
+## Saved by the barrel: Why crude hasn't hit the $200 mark
+Despite fears of $200 oil following Strait of Hormuz disruptions, prices remain below $100. This resilience is attributed to increased US exports, weaker Chinese demand, and alternative supply routes. While some shipping through the strait continues, overall transits are down. Emergency measures and
 
 ## LPG gets Rs 29 costlier: Check the latest cylinder rates in Delhi, Mumbai and other cities
 Domestic cooking gas prices have increased by Rs 29 per cylinder, reaching Rs 942 in Delhi, marking the second revision in three months due to soaring global energy costs. This rise follows a previous Rs 60 hike and is part of a broader trend of fuel price increases, with petrol and diesel also seei
@@ -75,58 +78,52 @@ Prime Minister Narendra Modi met with the Economic Advisory Council to discuss s
 ## India's stock market mania hits milestone: NSE logs 26 crore trading accounts and counting
 India's investor base has reached a new peak with over 26 crore unique trading accounts on the NSE. The exchange added the latest crore accounts in under four months, highlighting rapid growth beyond major financial hubs. This surge is fueled by digitalization, simpler KYC, and positive market perfo
 
-## E85 fuel to get Rs 20/litre cheaper as India ramps up ethanol push
-India is launching E85 petrol, an 85% ethanol blend, at discounted prices. This move aims to boost clean fuel adoption and cut reliance on imported fossil fuels. The government plans a phased rollout of E85 dispensing stations nationwide. Vehicle manufacturers are introducing E85 compatible models. 
+## ‘This doesn’t end here': Cockroach Janta Party chief Abhijeet Dipke after Delhi protest
+In a statement issued after the protest, Dipke thanked those who participated, describing the gathering as a "historic" and peaceful movement.
 
-## $1.3 trillion erased from Wall Street: Here's what slowed down AI rally
-Tech stocks, particularly semiconductors, experienced a significant downturn Friday, driven by investor caution over AI valuations and robust US jobs data. The PHLX Semiconductor Index saw its steepest drop since March 2020, erasing billions in market value. This retreat follows a period of record h
+## India's fertility rate now below required level to maintain stable population, says govt report
+India’s total fertility rate has declined, according to the government report. Notably, the national TFR has moved below the replacement benchmark of 2.1.
 
-## Indian Air Force roped in to transport NEET papers as NTA tightens guard for June 21 re-exam
-The NEET-UG 2026 re-examination is expected to be conducted for more than 2.2 million students across the country, with enhanced security protocols.
+## Kolkata couple held for DU professor’s murder in Delhi, property row motive: Police
+The arrested couple are distant relatives of the deceased professor and were living as tenants in one of her ancestral properties in Kolkata, police said.
 
-## Cockroach Janta Party draws BJP chief's 'puppet' jibe after first offline protest in Delhi
-Abhijeet Dipke said that right before landing at the Delhi airport on Saturday morning, he felt as though these were last few moments of freedom.
+## Digvijaya Singh writes to PM Modi, urges to put CBSE's 3-language policy on hold
+The NCERT has not yet released graded textbooks of language, and the CBSE has, therefore, recommended the use of the NCERT's Grade 6 textbooks, he said.
 
-## LPG prices hiked: Check how rates in Delhi, Mumbai, Kolkata and Chennai have changed
-The latest revision comes after a ₹60-per-cylinder hike on March 7, which came after the disruptions to global energy supplies caused by West Asia conflict.
+## Another TMC leader 'egged' in Bengal, Kamarhati MLA Madan Mitra's car targeted
+The incident happened on Saturday night in Ariadaha in Bengal’s North 24 Parganas district.
 
-## CPI (M) chief slams Rahul Gandhi for BJP-left nexus charge
-The meeting, scheduled to be held in Delhi on June 8, is being closely watched because it is the first meeting of the grouping since December 2023.
+## Just Like That: J. Krishnamurti and Osho
+A look at why J. Krishnamurti and Osho were chosen among India’s modern philosophers and how their ideas reshaped spirituality and thought.
 
-## PM Modi pushes growth agenda at EAC meet amid economic pressure
-The meeting came in the backdrop of criticism from opposition, which have cited the rupee’s deterioration and rising fuel prices as evidence of policy failure.
+## ED approaches court seeking SFIO documents in CMRL money laundering case
+ED approaches court seeking SFIO documents in CMRL money laundering case
 
-## Cook arrested in deadly Delhi hotel fire case, claims blaze ‘began after spark in fryer’
-Negi, who lives in Shahdara’s Dilshad Garden, had been working at Flourish Stay B&B in Malviya Nagar’s Hauz Rani for over a year, police said.
+## India’s cooking gas still cheaper, says Centre; explains why LPG prices hiked again
+The petroleum ministry also said a beneficiary of the PMUY effectively pays ₹642 for a 14.2 kg LPG cylinder, while the general consumer in Delhi pays ₹942.
 
-## HYDRAA reclaims land worth ₹1L-cr in T’gana
-HYDRAA reclaimed encroached government lands worth ₹1 lakh crore in Hyderabad, securing 200 acres valued at ₹30,000 crore in a recent operation.
-
-## India, Nepal discuss ways to take forward bilateral ties, development cooperation
-EAM Jaishankar met Khanal to review bilateral ties, including development cooperation, connectivity, trade and transit, energy and people-to-people ties.
-
-## Mohali Mayor, Senior Deputy Mayor polls on May 9 following councillors’ oath
+## Tamil Nadu engineering admissions 2026: Over 3 lakh register for counselling, rank list on June 29
 
 
-## Salim Kumar Death News Live Updates: Mammootty, Prithviraj, Manju Warrier mourn demise of actor
+## ‘Messi fiasco’: Former TMC minister Aroop Biswas asked to appear before police tomorrow
 
 
-## SBI heist ‘mastermind’ sent to Surat jail, police say will seek custody
+## Saif Ali Khan on Ibrahim and Sara Ali Khan facing scrutiny: ‘People are less forgiving now’
 
 
-## UP government forms committee to probe KGMU drugs distribution ‘irregularities’
+## UPSC Mains Answer Practice — GS 1: Questions on Mountbatten Plan and Cloudbursts (Week 157)
 
 
-## IDFC First Bank ‘fraud’: CBI raids Haryana IAS officers in Rs 645-cr embezzlement case
+## NEET 2026 re-exam: 73,000 candidates to appear across 208 Telangana exam centres
 
 
-## Seven of 37 illegal houses near Asaram Ashram demolished
+## ‘Project X’ party busted at Pune bungalow: 150-plus attendees, ganja, hookah products
 
 
-## Came to spend vacation, teen dies after drowning at Juhu beach
+## Revanth Reddy says he took ‘inspiration from Hitler’ for HYDRAA, rivals slam ‘Emergency mindset’
 
 
-## Cooking gas gets costlier: Domestic LPG price hiked by Rs 29 per cylinder
+## Delhi schools face backlash for banning NIOS students from science, commerce
 
 
 ## Park life: why China’s malls are building forests, waterfalls and sky walkways
@@ -249,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Teenager Antonelli snatches Monaco pole with ‘magic lap’ for Mercedes
+F1 championship leader becomes the first Italian since Jarno Trulli in 2004 to take pole position in the principality.
+
+## Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival
+A US influencer and actor have caused outrage after mocking Palestinians subject to rape in Israeli prisons.
+
+## Why are players being issued visas just days before the World Cup?
+Last-minute visas are being issued for players competing in the FIFA World Cup. Al Jazeera's Mohammad Saleh explains.
+
+## By the numbers: 100 days of the US-Israel war on Iran
+From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28.
+
+## How many times were the US and Iran on the verge of a deal?
+One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.
+
+## Why is Chinese President Xi Jinping visiting North Korea now?
+The Chinese leader is making his first trip to Pyongyang in seven years amid significant military developments.
+
+## Kenyan graduates turn to AI tools for farming as jobs dry up
+Young farmers are combining traditional agriculture with mobile apps to build livelihoods in the absence of formal jobs.
+
 ## Protests grow in Albania against Trump-Kushner-linked resort
 Thousands of protesters have rallied in the Albanian capital against a proposed luxury beach resort linked to Trump.
-
-## Iran war live: Israel kills Lebanon general, Pakistan urges end to war
-Israeli forces kill three high-ranking Lebanese soldiers as Arab nations condemn Iran's attacks on Bahrain and Kuwait.
-
-## Trump pardons former US Congress member accused of insider trading
-Republican Stephen Buyer was convicted and sentenced to 22 months in prison, though he has maintained his innocence.
-
-## Pentagon said to raise threat level on Israel spying to ‘critical’
-Department reports raise concerns about increased espionage activity amid US-Israeli war with Iran, ceasefire talks.
-
-## Tunisians protest for press freedom and release of political prisoners
-Tunisians protest for press freedom and release of political prisoners.
-
-## Cuba’s Raul Castro makes first public appearance since US charges
-Former Cuban president Raul Castro made his first public appearance in Havana since being indicted by the United States
-
-## Rights group says drone strike kills 11 in central Sudan market
-Emergency Lawyers said dozens were also wounded in the strike that came less than 24 hours after similar drone attacks.
-
-## US doctor recovers from Ebola in Germany as DRC cases surge to 488
-Berlin's Charite hospital hailed treatment as a 'significant therapeutic success' as outbreak spreads in DR Congo.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
