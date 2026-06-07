@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Iran launches ballistic missiles at Israel
+Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah
+
+## Zelenskyy used Abramovich to send message to Putin about peace talks
+Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
+
 ## US weighs using Iranian assets to compensate Gulf allies for war damage
 Proposal comes as relations between Trump administration and regional partners have been strained by conflict
 
@@ -17,12 +23,6 @@ Industry body warns that profits will be halved by surging energy costs
 
 ## Israel attacks Beirut days after Trump’s showdown with Netanyahu
 Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid
-
-## The strange case of who chooses the next Labour prime minister
-Around three-quarters of those who can vote in any contest on who succeeds Starmer are not Labour Party members
-
-## Ministers told to cut budgets to fund boost to UK defence spending
-Keir Starmer locked in eleventh-hour wrangling with departments over how to pay for delayed investment plan
 
 ## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
 Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
@@ -94,7 +94,7 @@ Private investment announcements have surged to Rs 56 lakh crore in FY26, a sign
 The quake hit at a depth of 10 km (6.21 miles) at around 11:06 pm, according to the German Research Centre for Geosciences (GFZ).
 
 ## Tremors felt in North Bengal, northeast as 5.6 magnitude earthquake jolts Bhutan
-The earthquake struck at a depth of 10 km (6.21 miles), with tremors felt across North Bengal.
+Officials said the tremors lasted for a few seconds and there was no immediate report of any loss of life or property damage.
 
 ## LPG price hike inevitable due to global crisis, says Union Minister Prahlad Joshi
 The comment comes following the recent price hike in LPG cylinder due to choked supply chains as a result of the West Asia conflict
@@ -113,6 +113,9 @@ The Mumbai Police said an Accidental Death Report (ADR) was registered on Saturd
 
 ## CM Satheesan seeks Centre's help as Iranian hospital closure in Dubai hits Kerala-based healthcare workers
 Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based workers, facing significant visa restrictions and possibilities of losing jobs.
+
+## Rajasthan’s underwater wonder: The fascinating history of Jal Mahal Palace
+
 
 ## Denmark’s Christian Eriksen collapses on pitch vs Ukraine, match called off
 
@@ -133,9 +136,6 @@ Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based 
 
 
 ## Dhanawali – the Pune village that time, and the state, forgot
-
-
-## Olympic champion Armand ‘Mondo’ Duplantis loses for the first time in 35 months
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -258,7 +258,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Denmark’s Christian Eriksen collapses during World Cup warm-up match
+## Iranian World Cup excitement dulled by war and economic crisis
+Iranian World Cup excitement dulled by war and economic crisis.
+
+## Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta
+At least 990 refugees and migrants have died this year while attempting the perilous journey across the Mediterranean.
+
+## Hezbollah MP: Resistance defends Lebanon where the state failed
+Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.
+
+## Lawsuit seeks to stop Trump’s planned White House UFC match
+Legal challenge claims US president did not seek proper approval for fighting event to be held on his 80th birthday.
+
+## Alexander Zverev wins French Open to claim first Grand Slam title
+Zverev's five-set defeat of Flavio Cobolli makes him the first German man to win a Slam since Boris Becker 30 years ago.
+
+## Denmark’s Christian Eriksen collapses on football pitch during friendly
 The football player has a special heart-starting device implanted since he collapsed during a match in 2021.
 
 ## Bolivia’s legislature passes law allowing use of troops against protesters
@@ -266,21 +281,6 @@ New law grants president power to use military to clear roadblocks set up amid w
 
 ## Nigerian forces rescue 360 captives from Boko Haram
 Nigerian forces rescued 360 captives, including women and children from a Boko Haram mountain hideout in Borno State.
-
-## Trump says will not unfreeze Iranian assets before ceasefire deal reached
-Iranian officials have indicated the release of funds would build 'trust' needed to reach lasting deal ending war.
-
-## Police say two suspects have been shot and killed in Israel gun attack
-Police say two suspects have been shot and killed in Israel gun attack.
-
-## Al Jazeera reports from Beirut after Israeli attack
-Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.
-
-## People flood Madrid streets to see Pope Leo’s flower-carpeted procession
-Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity amid vast Corpus Domini crowds.
-
-## Authenticity is what American voters want
-Results in US Democratic primary races are showing that old establishment politics no longer work.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
