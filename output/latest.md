@@ -24,35 +24,41 @@ Italy has proved it is a ‘reliable partner at the darkest of times’, say ana
 ## Longest-serving CEO in Fortune 250: ‘You have to know your limits’
 Dan Amos and his quacking duck advert have made insurer Aflac a household name in the US
 
-## Ferrari diehards debate whether buying its first EV is test of loyalty
-Group has banned dealers from bundling Luce sales and access to exclusive models as it seeks new clients
+## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
+Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
 
-## We should be getting better at AI by now
-From cancelled novels to legal fines, the scale of blunders only halfway through the year suggests the opposite
+## Britain’s questionable reliance on Palantir
+Government should use the best technology for any task, but be wary of ‘lock-ins’
 
-## AlphaGrep enters MF space, targets ₹25,000-30,000 crore AUM in 3-5 years
-The company's maiden NFO will open for subscription on July 6, 2026.
+## How can retail investors buy shares in SpaceX's IPO?
+Investors usually need an eligible brokerage account, to meet funding requirements, and to submit an indication of interest before the IPO pricing
 
-## NCLAT quashes Ligare Aviation's insolvency; loan from Religare Enterprises round-tripping of money
-Religare Enterprises and Ligare Aviation are both group companies and related parties.
+## Powerlook eyes ₹1,000 crore revenue by FY30 on aggressive growth plans
+The retail expansion will initially focus on key metropolitan markets, including Mumbai, Delhi-NCR and Bengaluru.
 
-## What to know about rare visit by China's Xi to North Korea for talks with Kim Jong Un
-The meeting between the two leaders is their first since Kim travelled to Beijing for a World War II event in September 2025
+## Packaging firms remain upbeat on FY27 growth despite raw material volatility amid West Asia crisis
+Executives from major listed packaging companies in their latest quarter earnings said the crisis in West Asia has disrupted the availability of key petrochemical-based inputs and increased logistics costs
 
-## Tata Steel says UK low-emission project faces delays over electricity access
-Company had targeted starting EAF operations by late 2027 or early 2028
+## From defence to trade: EAM Jaishankar outlines blueprint for deeper India-Indonesia cooperation
+Welcoming the Indonesian delegation for the 8th India-Indonesia Joint Commission Meeting (JCM), which is being held after a gap of four years, Jaishankar outlined the vast potential for multi-sectoral cooperation
 
-## LIC discussing long-term investment instruments with regulators amid growing liabilities: CEO
-He added IRDAI is proactively addressing the insurance sector’s evolving market needs.
+## FPIs pull out ₹43,000 crore in first week of Jun as AI trade, rupee weakness weigh on Indian equities
+Total outflows by Foreign Portfolio Investors (FPIs) from Indian equities in 2026 have reached ₹2.67 lakh crore, exceeding the ₹1.66 lakh crore withdrawn in all of 2025, according to NSDL data
 
-## Govt assures support to develop KUFOS into Centre of Excellence
-State Fisheries Minister V E Abdul Gafoor assures continued backing for university’s academic and research initiatives in fisheries and blue economy
+## No blanket exemption like FPI to retail NRI investors in G‑Secs
+‘Until such relief is specifically provided, NRIs may need to explore available tax treaty benefits under applicable tax treaties or consider investing through eligible investment vehicles, subject to commercial and regulatory feasibility’
 
-## Student-led Crab Aquaculture Startup launched at Kerala Fisheries varsity
-The venture seeks to bridge the gap between academic research and commercial aquaculture by translating scientific innovations into practical solutions for the farming community
+## China puts EVs on a diet as battery boom adds bulk
+Family EVs have also grown wider over the years, with many popular sport utility vehicles and multipurpose vehicles now approaching or exceeding 2 meters
 
-## Generic semaglutide race hinges on API supply as China leads: Goldman Sachs
-The big unknown is whether CDMO capacity built for branded drugs gets diverted to generics, and whether SPPS can scale fast enough to meet a market Goldman models at ~99,000 kg of peptide API by 2030
+## Tamil Nadu govt launches 24x7 online document registration system
+Facility enables people to register documents online from anywhere at any time without visiting a sub-registrar’s office
+
+## Oil shock fears overdone, India can grow above 8%: Neelkanth Mishra
+India's economic growth is robust, with concerns over high crude oil prices being exaggerated, according to World Bank Executive Director Neelkanth Mishra. He highlighted strong domestic demand and refining margins as buffers, suggesting growth could exceed 8% and remain in the 7.5-8% range even wit
+
+## Maharashtra onion farmers demand Rs 3,000/quintal, say relief measures fall short
+Maharashtra farmers welcomed relaxed onion procurement rules but demand a minimum support price of Rs 3,000 per quintal, stating current rates of Rs 1,580 are below production costs. They seek transparent procurement and compensation for past losses, arguing that rule changes alone won't resolve the
 
 ## Mango Mayday: Dark spots on produce threaten Himsagar export shipments
 West Bengal's Himsagar mango exports face a setback due to dark spots, a weather-induced disease affecting fruit quality. Continuous rain followed by high temperatures during the bagging stage led to the issue, potentially impacting overseas shipments. Despite this, exporters remain hopeful about fu
@@ -72,58 +78,52 @@ Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiari
 ## Can RBI shield rupee from further fall? Analysts expect up to $75 billion in fresh inflows
 The Reserve Bank of India's recent monetary policy measures aim to bolster the rupee by attracting significant capital inflows, estimated between $40-75 billion. Despite rising inflation and revised growth forecasts, the Monetary Policy Committee is expected to maintain the repo rate at 5.25% with a
 
-## PM Modi chairs EAC meeting, discusses measures to boost India’s economic growth amid global turmoil
-Prime Minister Narendra Modi met with the Economic Advisory Council to discuss strengthening India's economic growth amidst global uncertainty. The Reserve Bank of India kept the repo rate unchanged at 5.25%, citing geopolitical tensions and inflation concerns, while revising GDP growth and inflatio
+## 'Modi wants youth to make reels instead': Rahul Gandhi at meeting with Sarthak Sidhant, teen who probed CBSE
+Sharing a video of his recent meeting with Sarthak Sidhant, Rahul Gandhi lauded the 18-year-old student for questioning the system and pursuing answers.
 
-## India's stock market mania hits milestone: NSE logs 26 crore trading accounts and counting
-India's investor base has reached a new peak with over 26 crore unique trading accounts on the NSE. The exchange added the latest crore accounts in under four months, highlighting rapid growth beyond major financial hubs. This surge is fueled by digitalization, simpler KYC, and positive market perfo
+## With latest hike, LPG up by ₹89 in 3 months, Oppn recalls PM Modi's claims of ‘diversification’ amid West Asia war
+Kharge said Modi government has increased domestic LPG prices by ₹530 in its 12 years: "So why aren't BJP leaders sitting on the streets with cylinders now?"
 
-## ‘This doesn’t end here': Cockroach Janta Party chief Abhijeet Dipke after Delhi protest
-In a statement issued after the protest, Dipke thanked those who participated, describing the gathering as a "historic" and peaceful movement.
+## 'Haath lagakar dekho': Woman faces harassment from Mumbai auto driver; police probe launched
+The video, which was posted by the woman on Instagram shows her stepping out of the auto in a rush after the remarks were made.
 
-## India's fertility rate now below required level to maintain stable population, says govt report
-India’s total fertility rate has declined, according to the government report. Notably, the national TFR has moved below the replacement benchmark of 2.1.
+## Kerala saw delay, Maharashtra didn't: Will monsoon maintain its schedule for Delhi? Check IMD's forecast
+According to the IMD's monsoon tracking map, the monsoon is expected to enter Delhi and the National Capital Region sometime between June 25 and June 30.
 
-## Kolkata couple held for DU professor’s murder in Delhi, property row motive: Police
-The arrested couple are distant relatives of the deceased professor and were living as tenants in one of her ancestral properties in Kolkata, police said.
+## Four-year-old dies of shigella infection in Kerala; govt steps up surveillance
+Four-year-old dies of shigella infection in Kerala; govt steps up surveillance
 
-## Digvijaya Singh writes to PM Modi, urges to put CBSE's 3-language policy on hold
-The NCERT has not yet released graded textbooks of language, and the CBSE has, therefore, recommended the use of the NCERT's Grade 6 textbooks, he said.
+## 'Don't send your kids to the US': Sister of Indian man shot dead in Philadelphia
+Anshul's sister further alleged that the incident was clearly a plot to murder her brother.
 
-## Another TMC leader 'egged' in Bengal, Kamarhati MLA Madan Mitra's car targeted
-The incident happened on Saturday night in Ariadaha in Bengal’s North 24 Parganas district.
+## ABVP submits memorandum to Mansukh Mandaviya; Panjab University synthetic track proposal accepted
+ABVP submits memorandum to Mansukh Mandaviya; Panjab University synthetic track proposal accepted
 
-## Just Like That: J. Krishnamurti and Osho
-A look at why J. Krishnamurti and Osho were chosen among India’s modern philosophers and how their ideas reshaped spirituality and thought.
+## Cockroach Janta Party's street debut draws 1,200 people, but vulnerablities remain
+The CJP protest was held to demand the resignation of education minister Dharmendra Pradhan over alleged irregularities in NEET, CBSE, and other exams.
 
-## ED approaches court seeking SFIO documents in CMRL money laundering case
-ED approaches court seeking SFIO documents in CMRL money laundering case
-
-## India’s cooking gas still cheaper, says Centre; explains why LPG prices hiked again
-The petroleum ministry also said a beneficiary of the PMUY effectively pays ₹642 for a 14.2 kg LPG cylinder, while the general consumer in Delhi pays ₹942.
-
-## Tamil Nadu engineering admissions 2026: Over 3 lakh register for counselling, rank list on June 29
+## UPSC Ethics Simplified : CBSE row as a case study on accountability when technology fails
 
 
-## ‘Messi fiasco’: Former TMC minister Aroop Biswas asked to appear before police tomorrow
+## Eknath Shinde invitation row: Sena minister to raise issue in Cabinet, Opposition alleges bid to sideline deputy CM
 
 
-## Saif Ali Khan on Ibrahim and Sara Ali Khan facing scrutiny: ‘People are less forgiving now’
+## Salim Kumar (1969-2026): The screen titan who knew the jokes, and whom the jokes knew
 
 
-## UPSC Mains Answer Practice — GS 1: Questions on Mountbatten Plan and Cloudbursts (Week 157)
+## Why grandmothers in Otsuchi had to improvise when ‘Japanese Messi’ Kubo’s jersey No. changed
 
 
-## NEET 2026 re-exam: 73,000 candidates to appear across 208 Telangana exam centres
+## As road projects in Khed’s industrial areas stall, PMRDA orders action against obstructions
 
 
-## ‘Project X’ party busted at Pune bungalow: 150-plus attendees, ganja, hookah products
+## Military Digest | ‘Sledgehammer to crack a nut’: How secret UK advice differed from India’s final plan in Operation Blue Star
 
 
-## Revanth Reddy says he took ‘inspiration from Hitler’ for HYDRAA, rivals slam ‘Emergency mindset’
+## Can you eat UP’s famous dahi-jalebi combo daily for breakfast? Nutritionist answers
 
 
-## Delhi schools face backlash for banning NIOS students from science, commerce
+## From Rs 4L to Rs 27L monthly sales in just 9 months: How two marginal farmer brothers built a thriving dairy empire
 
 
 ## Park life: why China’s malls are building forests, waterfalls and sky walkways
@@ -246,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Teenager Antonelli snatches Monaco pole with ‘magic lap’ for Mercedes
-F1 championship leader becomes the first Italian since Jarno Trulli in 2004 to take pole position in the principality.
+## Kosovo votes again amid political deadlock, seeking EU and NATO progress
+Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord.
 
-## Outrage over Palestinian ‘dog rape’ joke at Tribeca Film Festival
-A US influencer and actor have caused outrage after mocking Palestinians subject to rape in Israeli prisons.
+## How have countries around the world responded to the US-Israel war on Iran?
+The war, which has entered its 100th day, has triggered global energy crisis, drawing concerns from world leaders.
 
-## Why are players being issued visas just days before the World Cup?
-Last-minute visas are being issued for players competing in the FIFA World Cup. Al Jazeera's Mohammad Saleh explains.
+## 100 days of the US–Israel war on Iran
+One hundred days in, the US–Israel–Iran conflict remains a bloody stalemate with mounting loss of civilian lives.
 
-## By the numbers: 100 days of the US-Israel war on Iran
-From the human cost to the economy, Al Jazeera visualises how the US-Israel war on Iran has unfolded since February 28.
+## How the hosts are preparing for an Ebola outbreak during World Cup 2026
+The US, Mexico and Canada have announced Ebola-related travel restrictions before the start of the World Cup.
 
-## How many times were the US and Iran on the verge of a deal?
-One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.
+## Iran criticizes US refusal to grant visas for World Cup delegation
+Iran’s ambassador to Mexico expressed concern over the reported denial of US visas to the World Cup delegation.
 
-## Why is Chinese President Xi Jinping visiting North Korea now?
-The Chinese leader is making his first trip to Pyongyang in seven years amid significant military developments.
+## Who are the best star players to watch at World Cup 2026?
+The FIFA World Cup will bring together football stars from across the globe, ranging from legends to emerging talents.
 
-## Kenyan graduates turn to AI tools for farming as jobs dry up
-Young farmers are combining traditional agriculture with mobile apps to build livelihoods in the absence of formal jobs.
+## Massive human wave in Mexico ahead of World Cup 2026
+Massive human wave in Mexico ahead of World Cup 2026
 
-## Protests grow in Albania against Trump-Kushner-linked resort
-Thousands of protesters have rallied in the Albanian capital against a proposed luxury beach resort linked to Trump.
+## The accomplishments of 100 days of war on Iran are undeniable
+The US has not just decimated Iran's nuclear programme and military, it has also degraded the power of its regime.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
