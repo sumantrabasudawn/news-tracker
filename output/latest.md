@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Italian bank BPM proposes €50bn merger with Monte dei Paschi
-Planned combination of ‘equals’ is latest attempt at banking consolidation in the country
+## Airlines face $100bn hit on jet fuel from Iran energy shock
+Industry body warns that profits will be halved by surging energy costs
+
+## Israel attacks Beirut days after Trump’s showdown with Netanyahu
+Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid
+
+## The strange case of who chooses the next Labour prime minister
+Around three-quarters of those who can vote in any contest on who succeeds Starmer are not Labour Party members
+
+## Ministers told to cut budgets to fund boost to UK defence spending
+Keir Starmer locked in eleventh-hour wrangling with departments over how to pay for delayed investment plan
+
+## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
+Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
+
+## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
+Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
 
 ## Zelenskyy used Abramovich to send message to Putin about peace talks
 Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
@@ -9,11 +24,11 @@ Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker d
 ## Are we at the start of a new investment super-cycle?
 AI, clean energy and defence spending are reinforcing each other, amplifying potential spend
 
+## Opec+ increases production quotas for fourth successive month
+Impact of decision will be limited by shipping restrictions
+
 ## Bank boss contests FCA fine for not revealing Venezuela and US penalties
 BancTrust’s Carlos Fuenmayor accuses watchdog of impinging on freedom of expression
-
-## How high will the Iran war push US inflation?
-Market Questions is the FT’s guide to the week ahead
 
 ## The coming rise of anti-AI populism
 Anxiety about the technology is set to generate a political backlash
@@ -21,41 +36,41 @@ Anxiety about the technology is set to generate a political backlash
 ## Russian drone hits nuclear fuel site near Chernobyl
 Radiation levels remain ‘within normal limits’, says Ukraine’s state nuclear company
 
-## Walmart tells workers that AI will improve their jobs, not steal them
-Retailer’s embrace of artificial intelligence comes amid anxiety that the technology will create mass redundancies
-
 ## Incyte nears up to $2bn deal for blood disorder biotech Star
 Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
-
-## Voters sour on Trump’s handling of inflation and grocery prices — FT poll
-US president blamed for high cost of living as Iran war deepens discontent
-
-## Bouygues Telecom consortium agrees to buy Patrick Drahi’s SFR for €20.35bn
-Bid from group including Orange and Free-Iliad faces showdown with antitrust regulators in Paris and Brussels
 
 ## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
 For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
 
-## India’s dairy boom moves beyond metros as smaller cities drive demand
-Industry executives attribute this shift to a combination of rising incomes, rapid urbanisation and a growing preference for branded, quality-assured dairy products
+## Rajesh Exports: Sent 400 GB docs to SEBI, regulator couldn't locate files; will resubmit in 15 days
+"We had given them 300-400 GB documents, running into lakhs (of pages; I think they have not been able to find the correct documents," Mehta said
 
-## Rajesh Exports order puts auditors, audit committee under the scanner
-Failure to independently verify overseas subsidiary revenues is as significant as the ₹15.15 lakh crore misrepresentation allegation, experts say.
+## Below the line
 
-## IATA cuts 2026 airline profit forecast amid rising fuel costs
-The downgrade underscores airlines' exposure to geopolitical shocks and ‌fuel volatility
 
-## Rajesh Exports likely to be dropped from PLI scheme, final decision in days: Sources
-Sources in the ministry told that there is a "strong view" within the department that the company should be dropped from the scheme
-
-## MIDHANI targets rare earth independence with next-gen alloys and infrastructure push
-MIDHANI CMD Dr SVS Narayana Murty expects significant advancements in next-generation superalloys, advanced titanium alloys, and high-temperature aerospace materials over the next decade
-
-## Outbound travel plummets over 20% as West Asia conflict disrupts tourism
-Foreign travel arrivals declined by over 5 per cent and 14 per cent in March and April respectively
+## Sree Supranayi’s space dreams takes flight with AnduraX
+The girl who aspired to become an astronaut is building a re-entry space vehicle
 
 ## India must not let US Section 301 threats push it into a lopsided trade deal: Experts
 While Washington may be ready to ‘lock-in’ additional tariffs on India at around 18%, trade experts warn it may not buy immunity from future American protectionism
+
+## Eating through the noise
+A book that defends sensible eating
+
+## As firms go AI-native, scrutiny grows over AI-linked job cuts
+The upGrad Rekrut Tech Talent Landscape Report reveals that only 16% of organisations have fully redesigned workflows for AI, while 84% are incorporating AI into existing structures
+
+## The day all hedges fell in the US markets
+Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
+
+## US mortgage rates ease to 6.48%, slips from from nine-month high
+The average rate for a 30-year fixed mortgage eased to 6.48% last week, offering slight relief to homebuyers. This decline follows a recent climb to a nine-month high, influenced by inflation concerns and elevated oil prices. Despite the dip, rates remain higher than earlier this year, continuing to
+
+## Gautam Adani regains title of Asia's richest person as net worth hits $89.2 billion: Forbes
+Gautam Adani has reclaimed the title of Asia's richest person, surpassing Mukesh Ambani. His net worth surged by approximately $2.5 billion on Friday, driven by significant gains across Adani Group's listed companies like Adani Power and Adani Green Energy. This impressive comeback follows the dismi
+
+## Airlines face profit crash: 2026 earnings nearly halved as fuel shock hits aviation
+Global airlines face a profit plunge in 2026, nearly halving earnings to $23 billion due to soaring fuel costs and Middle East conflict disruptions. Despite strong passenger demand and projected record revenues exceeding $1.1 trillion, profitability per passenger is expected to drop significantly. T
 
 ## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
 Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
@@ -72,16 +87,22 @@ West Bengal's Himsagar mango exports face a setback due to dark spots, a weather
 ## Saved by the barrel: Why crude hasn't hit the $200 mark
 Despite fears of $200 oil following Strait of Hormuz disruptions, prices remain below $100. This resilience is attributed to increased US exports, weaker Chinese demand, and alternative supply routes. While some shipping through the strait continues, overall transits are down. Emergency measures and
 
-## LPG gets Rs 29 costlier: Check the latest cylinder rates in Delhi, Mumbai and other cities
-Domestic cooking gas prices have increased by Rs 29 per cylinder, reaching Rs 942 in Delhi, marking the second revision in three months due to soaring global energy costs. This rise follows a previous Rs 60 hike and is part of a broader trend of fuel price increases, with petrol and diesel also seei
+## 5-yr-old girl died after ‘falling asleep in the car’ in Bengaluru, mother booked for murder 3 months on
+5-year-old Vennela was found dead on March 25 and a case was registered on June 4 based on a complaint filed by the girl's father against his estranged wife.
 
-## 5 ways IBC transformed India's corporate rescue system over the past decade
+## 4 injured during protest against Assam Rifles outpost in Manipur’s Ukhrul: Cop
+Officers further said the situation turned tense when security forces attempted to disperse the protestors, allegedly firing several live rounds and resorting to a lathi charge
 
+## TVK is DMK 2.0 in a refreshed and new package: Tamil Nadu BJP secretary
+The remarks come from Vinoj P Selvam who asserted the worsening crime situation in Tamil Nadu under the TVK
 
-## 'US firms benefit from Hormuz closure': Russian oil company chief's big claim amid Iran war
-Rosneft CEO Igor Sechin stated American energy firms are the primary beneficiaries of a Strait of Hormuz closure, warning of long-term damage to oil demand and a boost for alternatives. He also highlighted global resource shortages and questioned OPEC+'s effectiveness, noting Russia's production dec
+## Nepal wants border disputes settled through existing mechanisms; rejects mediation
+Khanal said Nepal sent diplomatic notes regarding its claim on territories in Kalapani region after India and China reached an agreement on resuming the Kailash Mansarovar Yatra
 
-## 'Inspired' by Hitler and 'his Hydra force': Telangana CM mixes up Nazi Germany with American comic books
+## 'Hindu-Muslim agenda can't provide jobs': ‘Cockroach’ chief Abhijeet Dipke lists 5 takeaways day after Delhi protest
+Abhijeet Dipke said the country's political discourse needs to shift towards issues that directly affect young people, particularly employment and education.
+
+## CM Reddy's ‘inspired by Hitler’ shocker mixes up history, Marvel comics, movie: Nazi Germany had no ‘Hydra’
 The Congress CM said his anti-encroachment team works like Adolf Hitler's core assassination team “Hydra” did — except, Hitler never had a team by that name.
 
 ## INDIA bloc meeting, minus DMK, tomorrow; Congress denies internal rifts
@@ -90,43 +111,28 @@ Congress leader Jairam Ramesh said that 23 political parties will be in attendan
 ## Kangana Ranaut says nurses' uniforms should be ‘Indianised’, cites ‘British look’ of current dress code
 The actor-turned-politican is slated to star in an upcoming film highlighting the unrecognised work of nurses and healthcare staff.
 
-## Kolkata to Delhi to kill a relative, then back: How couple held for DU professor's murder planned to evade scrutiny
-The 45-year-old professor was found dead at her home in Delhi's Vasundhara Enclave with wrists slit and serious head and face injuries.
-
-## NEET-UG 2026 re-exam: NTA releases city intimation slips for June 21, here's how to download
-Over 22 lakh students appeared for the medical exam on May 3, which was then cancelled due to a paper leak.
-
-## Assam CM Himanta Sarma allocates ‘guardian districts’ to 16 cabinet ministers
-The ministers will be responsible for coordinating overall development in the districts assigned to them in association with different government departments
-
-## CIC flags MCD's ‘deliberate resistance' on withholding info on stray dogs
-It also awarded ₹10,000 compensation to the applicant and ordered proactive disclosure of records, including NGO payments, sterilisation and vaccination data.
-
-## Dhami raises Uttarakhand cook’s arrest in B&B fire case with Delhi CM; seeks probe
-Dhami said that Gupta assured him that no innocent person would face injustice and that the investigation would be based solely on facts and evidence
-
-## How 6.30 am tutorials by ‘market guru’ cost IT professional Rs 4.43 crore in trading fraud
+## Iran team permitted on US soil only on days of their World Cup matches: Report
 
 
-## ‘Need to be quite malleable, depending on surfaces’: McCullum after ENG beat NZ
+## Can you use E85 fuel in your car? Here’s what to check first
 
 
-## In a first, Maharashtra minister joins Operation Blue Star anniversary at Damdami Taksal
+## With Xi Jinping set to meet Kim Jong-Un this week, what’s driving China-North Korea relations?
 
 
-## Cotton sowing area likely to rise by 10-15% this kharif season: Officials
+## Nashik farmers say Rs 15.80/kg rate does not cover input costs
 
 
-## Madhavan on why he never cheated on wife Sarita: ‘I’m a darpok Madrasi middle-class man’
+## ’10+10+10′ parenting rule: The 30 minute secret to make your child emotionally strong
 
 
-## No powders, no meat: How to hit 120g of daily protein on a pure vegetarian diet
+## Focused on securing best deal, says Piyush Goyal on India-US trade deal
 
 
-## Karnataka rain: IMD red alert for Bengaluru for Tuesday, entire state for Wednesday
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 165) — Check out answers with explanations
 
 
-## The Joe Sacco book that India won’t read
+## Trump rejects unfreezing Iranian assets, or lifting sanctions upfront as part of deal
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Fifty-two hours on an Israeli prison ship
-A flotilla activist recounts his detention after Israeli forces intercepted a Gaza-bound solidarity mission at sea.
+## From online class to Revolution Square: A Tehran teacher’s routine amid war
+Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.
 
-## Missiles and negotiations: Iran 100 days into the war with US and Israel
-Talks and attacks have continued for months, and could last much longer without a breakthrough.
+## Iran’s World Cup squad lands in Mexico amid US visa row
+Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.
 
-## Marc Marquez hits 100 career wins with Hungarian MotoGP victory
-The seven-time MotoGP world champion beat KTM's Pedro Acosta to claim his first grand prix victory of the season.
+## Iran’s World Cup team arrives in Mexico as US visa row continues
+Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.
 
-## Israel strikes southern suburbs of Lebanon’s capital Beirut
-Videos show the aftermath of an Israeli attack on Beirut's southern suburbs, with multiple explosions reported.
+## Does Israel really think it can get rid of Hezbollah in Lebanon?
+It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.
 
-## Why has the Pentagon raised the risk of Israeli spying to the highest level?
-The US agencies warn against Israeli efforts to collect information on the talks to end the war, according to reports.
+## The Taiz transplant team looking to begin a medical revolution in Yemen
+Taiz's Cardiac and Vascular Diseases and Kidney Transplant Center provides Yemenis with affordable treatment.
 
-## Pope Leo urges youth to be ‘sparks of a new humanity’
-Pope Leo XIV urged young people to be 'sparks of a new humanity'.
+## Peru polls open in Keiko Fujimori, Roberto Sanchez presidential runoff
+Race between right-wing Fujimori, leftwing Sanchez follows first round of voting marred by logistical issues.
 
-## ‘Fear mongering is the main narrative’ in Armenia’s elections
-‘Fear mongering is the main narrative’ in Armenia’s elections
+## Army frees 360 people abducted by Boko Haram in Nigeria’s Borno State
+Two infants succumbed to the 'harsh conditions' of Boko Haram captivity in the Mandara mountains, says army.
 
-## ‘What ceasefire?’ Palestinians inspect destruction after Israeli strike
-Palestinians inspect the aftermath of an Israeli strike in Khan Younis.
+## Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks
+At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
