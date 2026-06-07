@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
-Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
-
 ## Iran launches ballistic missiles at Israel
 Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah
+
+## Oil prices jump after Iran missiles threaten fragile ceasefire
+Traders worry that the new strikes could escalate into a return to all-out conflict in the Middle East
+
+## Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran
+US president tells FT that he ‘calls the shots’ after urging the Israeli leader not to retaliate against Tehran
+
+## FirstFT: Iran launches missiles at Israel for first time since ceasefire
+Also in today’s newsletter: OpenAI plots ChatGPT overhaul, and an interview with Tokio Marine’s CEO
+
+## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
+Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
 
 ## Zelenskyy used Abramovich to send message to Putin about peace talks
 Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
@@ -15,14 +24,8 @@ Proposal comes as relations between Trump administration and regional partners h
 ## A big week for two Big Tech businesses
 SpaceX IPO launches, Apple to hit reset, Trump turns 80, Fifa World Cup 2026 kicks off
 
-## Trump piles pressure on Warsh with call for rate cut
-US president raises stakes for central bank pick as expectations grow that borrowing costs will rise
-
 ## Airlines face $100bn hit on jet fuel from Iran energy shock
 Industry body warns that profits will be halved by surging energy costs
-
-## Israel attacks Beirut days after Trump’s showdown with Netanyahu
-Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid
 
 ## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
 Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
@@ -90,6 +93,12 @@ Global airlines face a profit plunge in 2026, nearly halving earnings to $23 bil
 ## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
 Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
 
+## Centre allays concerns over ‘missing’ NHFS indicators, says fact sheets not final report
+Officials said the fact sheets are designed to present the most policy-relevant headline findings while supporting efforts to streamline reporting across India’s growing network of specialised surveys and administrative databases.
+
+## Indonesian Foreign Minister, Jaishankar discuss bilateral relations
+This come ahead of a planned visit to Jakarta next month by Prime Minister Narendra Modi that is expected to focus on advancing trade and security ties.
+
 ## Tremors felt in Kolkata: Where was the epicentre of earthquake?
 The quake hit at a depth of 10 km (6.21 miles) at around 11:06 pm, according to the German Research Centre for Geosciences (GFZ).
 
@@ -108,11 +117,8 @@ Anime references and one-liners are key parts of how he communicates, plus some 
 ## A shifting timing, weak microphone, and other lessons for ‘Cockroaches’ from their first protest on the ground
 At times, Abhijeet Dipke’s speech was almost drowned out by Delhi Police public announcements. Frustrated by interruptions, he remarked, “Ye kaun bol rha hai”
 
-## Concert in Mumbai's Worli ends in tragedy as audience member dies, another falls ill
-The Mumbai Police said an Accidental Death Report (ADR) was registered on Saturday at the Tardeo Police Station “regarding the death of a 28-year-old male."
+## Delhi Confidential: Pep Talk
 
-## CM Satheesan seeks Centre's help as Iranian hospital closure in Dubai hits Kerala-based healthcare workers
-Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based workers, facing significant visa restrictions and possibilities of losing jobs.
 
 ## Rajasthan’s underwater wonder: The fascinating history of Jal Mahal Palace
 
@@ -133,9 +139,6 @@ Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based 
 
 
 ## Wildlife sanctuaries to visit in and around Delhi this summer vacation
-
-
-## Dhanawali – the Pune village that time, and the state, forgot
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -258,6 +261,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## North Korea’s Kim Jong Un inspects munitions at weapons factory
+North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory
+
+## Iran’s attack on Israel aims to restore deterrence but avoid return to war
+Iran's attack on Israel aims to restore deterrence but avoid return to war.
+
 ## Videos show missiles launched from Iran into Israel
 Iranian media has released video showing missiles being launched towards Israel.
 
@@ -275,12 +284,6 @@ Iran’s patience has reached its limit with the continuous violations of the �
 
 ## Iranian World Cup excitement dulled by war and economic crisis
 Iranian World Cup excitement dulled by war and economic crisis.
-
-## Italy recovers 10 bodies as boat with nearly 60 on board capsizes off Malta
-At least 990 refugees and migrants have died this year while attempting the perilous journey across the Mediterranean.
-
-## Hezbollah MP: Resistance defends Lebanon where the state failed
-Ibrahim Moussawi says Hezbollah stepped in after diplomacy and the Lebanese state failed.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
