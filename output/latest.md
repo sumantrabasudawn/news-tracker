@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US weighs using Iranian assets to compensate Gulf allies for war damage
+Proposal comes as relations between Trump administration and regional partners have been strained by conflict
+
+## A big week for two Big Tech businesses
+SpaceX IPO launches, Apple to hit reset, Trump turns 80, Fifa World Cup 2026 kicks off
+
+## Trump piles pressure on Warsh with call for rate cut
+US president raises stakes for central bank pick as expectations grow that borrowing costs will rise
+
 ## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
 Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
 
@@ -17,12 +26,6 @@ Keir Starmer locked in eleventh-hour wrangling with departments over how to pay 
 
 ## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
 Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
-
-## Zelenskyy used Abramovich to send message to Putin about peace talks
-Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
-
-## Are we at the start of a new investment super-cycle?
-AI, clean energy and defence spending are reinforcing each other, amplifying potential spend
 
 ## Opec+ increases production quotas for fourth successive month
 Impact of decision will be limited by shipping restrictions
@@ -63,6 +66,15 @@ For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, 
 ## Below the line
 
 
+## Net-zero challenge: Sustainable aviation fuel account just 0.8% of aviation fuel use in 2026, says IATA
+Sustainable Aviation Fuel (SAF) production is critically low, meeting only 0.8% of demand by 2026, IATA reports. Airlines face a $4.3 billion SAF bill this year, with insufficient policy support hindering progress. Experts warn unrealistic mandates, especially for e-SAF, could inflate prices and div
+
+## Bullion outlook: Gold, silver investors to track Middle East tensions, US and India inflation readings
+
+
+## Stock market outlook: Key triggers that could shape Dalal Street next week
+
+
 ## OPEC+ approves fourth straight oil output hike, raises July targets by 188,000 bpd
 OPEC+ agreed to a fourth consecutive oil production target increase of 188,000 barrels per day from July, despite ongoing US-Iran conflict disruptions. This decision comes as major Gulf producers struggle to meet demand due to export issues through the Strait of Hormuz.
 
@@ -78,14 +90,20 @@ Global airlines face a profit plunge in 2026, nearly halving earnings to $23 bil
 ## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
 Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
 
-## Oil shock fears overdone, India can grow above 8%: Neelkanth Mishra
-India's economic growth is robust, with concerns over high crude oil prices being exaggerated, according to World Bank Executive Director Neelkanth Mishra. He highlighted strong domestic demand and refining margins as buffers, suggesting growth could exceed 8% and remain in the 7.5-8% range even wit
+## Tremors felt in Kolkata: Where was the epicentre of earthquake?
+The quake hit at a depth of 10 km (6.21 miles) at around 11:06 pm, according to the German Research Centre for Geosciences (GFZ).
 
-## Maharashtra onion farmers demand Rs 3,000/quintal, say relief measures fall short
-Maharashtra farmers welcomed relaxed onion procurement rules but demand a minimum support price of Rs 3,000 per quintal, stating current rates of Rs 1,580 are below production costs. They seek transparent procurement and compensation for past losses, arguing that rule changes alone won't resolve the
+## Tremors felt in North Bengal, northeast as 5.6 magnitude earthquake jolts Bhutan
+The earthquake struck at a depth of 10 km (6.21 miles), with tremors felt across North Bengal.
 
-## Mango Mayday: Dark spots on produce threaten Himsagar export shipments
-West Bengal's Himsagar mango exports face a setback due to dark spots, a weather-induced disease affecting fruit quality. Continuous rain followed by high temperatures during the bagging stage led to the issue, potentially impacting overseas shipments. Despite this, exporters remain hopeful about fu
+## LPG price hike inevitable due to global crisis, says Union Minister Prahlad Joshi
+The comment comes following the recent price hike in LPG cylinder due to choked supply chains as a result of the West Asia conflict
+
+## 4,800 illegal immigrants sent to Bangladesh from holding centres, 836 awaiting deportation: Bengal CM
+Adhikari asserted that illegal immigration was a big issue, and said his government has already handed over land to the BSF to erect around 100 km of fencing.
+
+## ‘Internet's kid’ who loves Sahir Ludhianvi, Dinkar: Behind Sarthak’s CBSE probe, a quest to ‘always ask questions’
+Anime references and one-liners are key parts of how he communicates, plus some serious inspiration from Urdu-Hindi poets not readily associated with Gen Z
 
 ## A shifting timing, weak microphone, and other lessons for ‘Cockroaches’ from their first protest on the ground
 At times, Abhijeet Dipke’s speech was almost drowned out by Delhi Police public announcements. Frustrated by interruptions, he remarked, “Ye kaun bol rha hai”
@@ -96,43 +114,28 @@ The Mumbai Police said an Accidental Death Report (ADR) was registered on Saturd
 ## CM Satheesan seeks Centre's help as Iranian hospital closure in Dubai hits Kerala-based healthcare workers
 Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based workers, facing significant visa restrictions and possibilities of losing jobs.
 
-## 'Shows how angry we are': When the ‘Cockroach’ meme page turned street protest | Notes from the ground
-For students and parents, the CJP protest was about more than paper leaks
+## Denmark’s Christian Eriksen collapses on pitch vs Ukraine, match called off
 
-## 5-yr-old girl died after ‘falling asleep in the car’ in Bengaluru, mother booked for murder 3 months on
-5-year-old Vennela was found dead on March 25 and a case was registered on June 4 based on a complaint filed by the girl's father against his estranged wife.
 
-## 4 injured during protest against Assam Rifles outpost in Manipur’s Ukhrul: Cop
-Officers further said the situation turned tense when security forces attempted to disperse the protestors, allegedly firing several live rounds and resorting to a lathi charge
+## Why Sonakshi Sinha thinks replying with ‘k’ to a text should be ‘illegal’
 
-## TVK is DMK 2.0 in a refreshed and new package: Tamil Nadu BJP secretary
-The remarks come from Vinoj P Selvam who asserted the worsening crime situation in Tamil Nadu under the TVK
 
-## Nepal wants border disputes settled through existing mechanisms; rejects mediation
-Khanal said Nepal sent diplomatic notes regarding its claim on territories in Kalapani region after India and China reached an agreement on resuming the Kailash Mansarovar Yatra
+## Earthquake of 5.6 magnitude strikes Bhutan
+
+
+## UzChess Cup 2026: Cold start for Indians as Vidit suffers loss, Arjun held to draw
+
+
+## Zverev makes belated Grand Slam breakthrough after five-set win over Cobolli
+
+
+## Wildlife sanctuaries to visit in and around Delhi this summer vacation
+
+
+## Dhanawali – the Pune village that time, and the state, forgot
+
 
 ## Olympic champion Armand ‘Mondo’ Duplantis loses for the first time in 35 months
-
-
-## Two who ‘assaulted, paraded’ locals for harassing minor girl, arrested
-
-
-## Iran war, Facebook plea: How Odisha woman returned home from UAE after years of no contact
-
-
-## Four die while cleaning sludge tank at jewellery making unit in Surat
-
-
-## ‘I’ll blow the hell out of them’: Trump threatens Iran if negotiations fail
-
-
-## Fire breaks out at house in New Friends Colony; 8 rescued, 2 pets killed
-
-
-## 100 days of Iran-US war: Who’s winning, who’s losing, and why India is worried
-
-
-## Bombay High Court to consider interim safeguards for advocates as protection law put on hold
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -255,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Denmark’s Christian Eriksen collapses during World Cup warm-up match
+The football player has a special heart-starting device implanted since he collapsed during a match in 2021.
+
+## Bolivia’s legislature passes law allowing use of troops against protesters
+New law grants president power to use military to clear roadblocks set up amid weeks of antigovernment demonstrations.
+
+## Nigerian forces rescue 360 captives from Boko Haram
+Nigerian forces rescued 360 captives, including women and children from a Boko Haram mountain hideout in Borno State.
+
 ## Trump says will not unfreeze Iranian assets before ceasefire deal reached
 Iranian officials have indicated the release of funds would build 'trust' needed to reach lasting deal ending war.
 
@@ -269,15 +281,6 @@ Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity a
 
 ## Authenticity is what American voters want
 Results in US Democratic primary races are showing that old establishment politics no longer work.
-
-## Kimi Antonelli wins delayed Monaco Grand Prix to extend F1 lead
-Antonelli takes his fifth successive Grand Prix win in race interrupted by crashes after asphalt breaks apart.
-
-## Ronaldo, other ageing stars push limits to make history at World Cup 2026
-Experts say sport science is just part of a complex system of factors needed to extend longevity in football.
-
-## From online class to Revolution Square: A Tehran teacher’s routine amid war
-Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
