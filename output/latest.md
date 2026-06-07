@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
+Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
+
 ## Airlines face $100bn hit on jet fuel from Iran energy shock
 Industry body warns that profits will be halved by surging energy costs
 
@@ -14,9 +17,6 @@ Keir Starmer locked in eleventh-hour wrangling with departments over how to pay 
 
 ## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
 Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
-
-## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
-Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
 
 ## Zelenskyy used Abramovich to send message to Putin about peace talks
 Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
@@ -39,29 +39,32 @@ Radiation levels remain ‘within normal limits’, says Ukraine’s state nucle
 ## Incyte nears up to $2bn deal for blood disorder biotech Star
 Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
 
-## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
-For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
+## LPG price hike inevitable due to global crisis: Union Minister Pralhad Joshi
+“We also feel very sad and sorry about the hike in gas cylinder prices, but before criticising, everyone should understand the situation in the entire world,” Joshi said
+
+## OPEC+ decides on fourth oil quota hike since Hormuz closure
+The war has cut oil flows via the Strait of Hormuz, creating the world's biggest-ever supply crisis
+
+## Editorial. Healthy data
+NFHS-6 shows better health indices; more data awaited
+
+## India is largest source for immigrant founders of US unicorns, but still not shooting for the stars
+Indians feature prominently among founders who first arrived in the US as international students. There are 76 Indians who came to the US as international students and founded unicorns
+
+## Trump says he would not unfreeze Iran's assets before peace deal is done
+Trump also said ⁠that he was not demanding that Lebanon be a part of a short-term deal with Tehran
 
 ## Rajesh Exports: Sent 400 GB docs to SEBI, regulator couldn't locate files; will resubmit in 15 days
 "We had given them 300-400 GB documents, running into lakhs (of pages; I think they have not been able to find the correct documents," Mehta said
 
+## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
+For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
+
 ## Below the line
 
 
-## Sree Supranayi’s space dreams takes flight with AnduraX
-The girl who aspired to become an astronaut is building a re-entry space vehicle
-
-## India must not let US Section 301 threats push it into a lopsided trade deal: Experts
-While Washington may be ready to ‘lock-in’ additional tariffs on India at around 18%, trade experts warn it may not buy immunity from future American protectionism
-
-## Eating through the noise
-A book that defends sensible eating
-
-## As firms go AI-native, scrutiny grows over AI-linked job cuts
-The upGrad Rekrut Tech Talent Landscape Report reveals that only 16% of organisations have fully redesigned workflows for AI, while 84% are incorporating AI into existing structures
-
-## The day all hedges fell in the US markets
-Markets grapple with the aftershocks of the AI sell-off, rising yields and mounting tensions in West Asia
+## OPEC+ approves fourth straight oil output hike, raises July targets by 188,000 bpd
+OPEC+ agreed to a fourth consecutive oil production target increase of 188,000 barrels per day from July, despite ongoing US-Iran conflict disruptions. This decision comes as major Gulf producers struggle to meet demand due to export issues through the Strait of Hormuz.
 
 ## US mortgage rates ease to 6.48%, slips from from nine-month high
 The average rate for a 30-year fixed mortgage eased to 6.48% last week, offering slight relief to homebuyers. This decline follows a recent climb to a nine-month high, influenced by inflation concerns and elevated oil prices. Despite the dip, rates remain higher than earlier this year, continuing to
@@ -84,8 +87,17 @@ Maharashtra farmers welcomed relaxed onion procurement rules but demand a minimu
 ## Mango Mayday: Dark spots on produce threaten Himsagar export shipments
 West Bengal's Himsagar mango exports face a setback due to dark spots, a weather-induced disease affecting fruit quality. Continuous rain followed by high temperatures during the bagging stage led to the issue, potentially impacting overseas shipments. Despite this, exporters remain hopeful about fu
 
-## Saved by the barrel: Why crude hasn't hit the $200 mark
-Despite fears of $200 oil following Strait of Hormuz disruptions, prices remain below $100. This resilience is attributed to increased US exports, weaker Chinese demand, and alternative supply routes. While some shipping through the strait continues, overall transits are down. Emergency measures and
+## A shifting timing, weak microphone, and other lessons for ‘Cockroaches’ from their first protest on the ground
+At times, Abhijeet Dipke’s speech was almost drowned out by Delhi Police public announcements. Frustrated by interruptions, he remarked, “Ye kaun bol rha hai”
+
+## Concert in Mumbai's Worli ends in tragedy as audience member dies, another falls ill
+The Mumbai Police said an Accidental Death Report (ADR) was registered on Saturday at the Tardeo Police Station “regarding the death of a 28-year-old male."
+
+## CM Satheesan seeks Centre's help as Iranian hospital closure in Dubai hits Kerala-based healthcare workers
+Kerala CM Satheesan wrote to PM Modi and highlighted the plight of Kerala-based workers, facing significant visa restrictions and possibilities of losing jobs.
+
+## 'Shows how angry we are': When the ‘Cockroach’ meme page turned street protest | Notes from the ground
+For students and parents, the CJP protest was about more than paper leaks
 
 ## 5-yr-old girl died after ‘falling asleep in the car’ in Bengaluru, mother booked for murder 3 months on
 5-year-old Vennela was found dead on March 25 and a case was registered on June 4 based on a complaint filed by the girl's father against his estranged wife.
@@ -99,40 +111,28 @@ The remarks come from Vinoj P Selvam who asserted the worsening crime situation 
 ## Nepal wants border disputes settled through existing mechanisms; rejects mediation
 Khanal said Nepal sent diplomatic notes regarding its claim on territories in Kalapani region after India and China reached an agreement on resuming the Kailash Mansarovar Yatra
 
-## 'Hindu-Muslim agenda can't provide jobs': ‘Cockroach’ chief Abhijeet Dipke lists 5 takeaways day after Delhi protest
-Abhijeet Dipke said the country's political discourse needs to shift towards issues that directly affect young people, particularly employment and education.
-
-## CM Reddy's ‘inspired by Hitler’ shocker mixes up history, Marvel comics, movie: Nazi Germany had no ‘Hydra’
-The Congress CM said his anti-encroachment team works like Adolf Hitler's core assassination team “Hydra” did — except, Hitler never had a team by that name.
-
-## INDIA bloc meeting, minus DMK, tomorrow; Congress denies internal rifts
-Congress leader Jairam Ramesh said that 23 political parties will be in attendance at the meeting, which will take place in the national capital
-
-## Kangana Ranaut says nurses' uniforms should be ‘Indianised’, cites ‘British look’ of current dress code
-The actor-turned-politican is slated to star in an upcoming film highlighting the unrecognised work of nurses and healthcare staff.
-
-## Iran team permitted on US soil only on days of their World Cup matches: Report
+## Olympic champion Armand ‘Mondo’ Duplantis loses for the first time in 35 months
 
 
-## Can you use E85 fuel in your car? Here’s what to check first
+## Two who ‘assaulted, paraded’ locals for harassing minor girl, arrested
 
 
-## With Xi Jinping set to meet Kim Jong-Un this week, what’s driving China-North Korea relations?
+## Iran war, Facebook plea: How Odisha woman returned home from UAE after years of no contact
 
 
-## Nashik farmers say Rs 15.80/kg rate does not cover input costs
+## Four die while cleaning sludge tank at jewellery making unit in Surat
 
 
-## ’10+10+10′ parenting rule: The 30 minute secret to make your child emotionally strong
+## ‘I’ll blow the hell out of them’: Trump threatens Iran if negotiations fail
 
 
-## Focused on securing best deal, says Piyush Goyal on India-US trade deal
+## Fire breaks out at house in New Friends Colony; 8 rescued, 2 pets killed
 
 
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 165) — Check out answers with explanations
+## 100 days of Iran-US war: Who’s winning, who’s losing, and why India is worried
 
 
-## Trump rejects unfreezing Iranian assets, or lifting sanctions upfront as part of deal
+## Bombay High Court to consider interim safeguards for advocates as protection law put on hold
 
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump says will not unfreeze Iranian assets before ceasefire deal reached
+Iranian officials have indicated the release of funds would build 'trust' needed to reach lasting deal ending war.
+
+## Police say two suspects have been shot and killed in Israel gun attack
+Police say two suspects have been shot and killed in Israel gun attack.
+
+## Al Jazeera reports from Beirut after Israeli attack
+Multiple explosions have hit Beirut’s southern suburbs as Israel launches new attacks, claiming to target Hezbollah.
+
+## People flood Madrid streets to see Pope Leo’s flower-carpeted procession
+Pope Leo XIV hails Spain’s ‘school of faith’ at Madrid Mass, urges unity amid vast Corpus Domini crowds.
+
+## Authenticity is what American voters want
+Results in US Democratic primary races are showing that old establishment politics no longer work.
+
+## Kimi Antonelli wins delayed Monaco Grand Prix to extend F1 lead
+Antonelli takes his fifth successive Grand Prix win in race interrupted by crashes after asphalt breaks apart.
+
+## Ronaldo, other ageing stars push limits to make history at World Cup 2026
+Experts say sport science is just part of a complex system of factors needed to extend longevity in football.
+
 ## From online class to Revolution Square: A Tehran teacher’s routine amid war
 Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.
-
-## Iran’s World Cup squad lands in Mexico amid US visa row
-Iranian delegation arrives at their World Cup base camp a day after several members were denied visas by the US.
-
-## Iran’s World Cup team arrives in Mexico as US visa row continues
-Iran’s national football team has arrived in Mexico ahead of its World Cup matches in the US.
-
-## Does Israel really think it can get rid of Hezbollah in Lebanon?
-It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.
-
-## The Taiz transplant team looking to begin a medical revolution in Yemen
-Taiz's Cardiac and Vascular Diseases and Kidney Transplant Center provides Yemenis with affordable treatment.
-
-## Peru polls open in Keiko Fujimori, Roberto Sanchez presidential runoff
-Race between right-wing Fujimori, leftwing Sanchez follows first round of voting marred by logistical issues.
-
-## Army frees 360 people abducted by Boko Haram in Nigeria’s Borno State
-Two infants succumbed to the 'harsh conditions' of Boko Haram captivity in the Mandara mountains, says army.
-
-## Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks
-At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
