@@ -1,40 +1,34 @@
 # AION Intelligence
 
-## Wall Street rebounds as traders race back into chip stocks
-Intel and Micron among big gainers as fervour over AI-linked shares resumes
+## OpenAI files to go public in blockbuster Wall Street listing
+ChatGPT creator has submitted paperwork for IPO expected to value company at more than $1tn
 
-## Pentagon restores Alibaba, Baidu and BYD to Chinese military blacklist
-The three groups re-established as US national security risk after sudden removal from list in February
+## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
+Three companies reinstated as US national security risk after sudden removal from list in February
 
-## Trump’s $100,000 H-1B visa fee blocked by judge
-Ruling says the six-figure charge is an unauthorised tax and ordered it to be suspended
+## FirstFT: Inside Singapore’s plan to create an Asian BlackRock
+Also in today’s newsletter: Wall Street stocks rebound and Apple unveils long-awaited AI Siri
 
-## Berlin pulls plug on Franco-German fighter jet
-Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
-
-## Starmer rallies ministers in attempt to build support against Burnham
-Prime minister insisted he would fight Greater Manchester mayor in any leadership contest
-
-## Intesa’s bid for MPS restores some sanity to Italy’s M&A scene
-An Intesa victory might be appealing to Prime Minister Giorgia Meloni
-
-## Sam Bankman-Fried seeks Trump pardon
-CEO of collapsed crypto exchange FTX has served three years in prison for misappropriating billions in customer funds
-
-## The incredible shrinking influence of Putin’s Russia
-Armenia is the latest country to leave Moscow’s orbit
-
-## AstraZeneca advances weight-loss pill to take aim at obesity leaders
-Pill from drugmaker would put it into competition with market leaders Novo Nordisk and Eli Lilly
+## Why Singapore wants to create an Asian BlackRock
+Temasek aims to turn Seviora into one of the region’s biggest asset managers
 
 ## London mansion with mystery owner close to £190mn sale
 The Holme, set in four acres in Regent’s Park, previously sold for £139mn in 2024
 
-## We need to learn how to argue with AI
-Putting humans in the loop is pointless if they simply rubber-stamp authoritative-sounding information
+## Apple unveils long-awaited AI Siri after years of delays
+Silicon Valley giant seeking to differentiate itself with a commitment to privacy
 
-## WhatsApp accuses NSO of fresh Pegasus targeting
-Court filing argues that the Israeli spyware group breached a permanent US court ban
+## Wall Street rebounds as traders race back into chip stocks
+Intel and Micron among big gainers as fervour over AI-linked shares resumes
+
+## Trump’s $100,000 H-1B visa fee blocked by judge
+Ruling says the six-figure charge is an unauthorised tax and ordered it to be suspended
+
+## AstraZeneca advances weight-loss pill to take aim at obesity leaders
+Pill from drugmaker would put it into competition with market leaders Novo Nordisk and Eli Lilly
+
+## Berlin pulls plug on Franco-German fighter jet
+Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
 
 ## From Siri AI to child safety tools: key takeaways from Apple’s WWDC 2026
 Apple unveiled a major Siri AI overhaul and expanded Apple Intelligence features at WWDC, along with new child safety tools, photo editing upgrades and deeper integration across its ecosystem
@@ -108,6 +102,9 @@ Iran’s armed forces announced the end of military strikes against Israel after
 ## Key mid-year climate meeting opens in Bonn; fossil fuels, adaptation on agenda
 The delegation from the union environment ministry which will represent India are attending the sessions virtually, according to those aware of the matter
 
+## Tata Trusts board meets ahead of key Tata Sons board meeting
+
+
 ## ‘Gross negligence’: Bombay High Court orders Maharashtra govt to pay Rs 22 lakh to family of patient killed in mental hospital
 
 
@@ -127,9 +124,6 @@ The delegation from the union environment ministry which will represent India ar
 
 
 ## Donald Trump’s $100,000 H-1B visa fee is unlawful, US judge rules
-
-
-## UzChess Cup 2026: Arjun roars back for 1st win; Vidit suffers 2nd straight loss
 
 
 ## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
@@ -156,6 +150,12 @@ Next-generation Chinese electric-vehicle (EV) batteries that charge in minutes a
 ## The ‘world’s toughest gym’: how global companies fight to survive in China
 Foreign executives used to come to China to study shoppers. Today, many come to study their future competitors. That shift, according to Joe Ngai, chairman of Greater China at McKinsey & Company, says almost everything about how China’s role in the global economy has changed. For much of the past tw
 
+## Iran, Israel Pull Back From Brink After Trading Fire
+But another Israeli assault on Beirut could collapse the two sides’ fragile truce.
+
+## Trump Started a War He Can’t Control
+He wants to end the Iran war. But Iran, Israel, and Hezbollah have other ideas.
+
 ## Show Us the Money
 How satire, social media, and shame are forging Syria’s new public square.
 
@@ -173,12 +173,6 @@ But the president’s success at purging his party could cost the GOP in the lon
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
-
-## The U.S. Economy Is Proving Remarkably Resilient
-Even in the face of tariffs and an energy crisis, the jobs report shows an economy that’s still humming.
-
-## Zelensky’s Pen Pal Diplomacy
-Zelensky offers in-person peace talks in a rare open letter to Putin. Moscow isn’t interested.
 
 ## Beyond Search and Rescue: What the Japan-South Korea SAREX Revival Really Means
 The return of the Japan-South Korea naval search and rescues exercise after a nine-year hiatus reflects strategic convergence, but history still casts a long shadow.
@@ -252,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine
-CCTV footage captured the moment a missile struck Zaporizhzhia, Ukraine, killing two people and injuring 23.
+## UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’
+Volker Turk, the UN's high commissioner for human rights, warns that 'children are dying' as result of US oil blockade.
 
-## US congressman demands probe into Israel’s 1967 attack on USS Liberty
-Thomas Massie suggests the deadly assault was not an accident and calls on the US government to honour its survivors.
+## US confirms it denied entry to Somali referee set to take part in World Cup
+Award-winning referee Omar Artan was 'determined to be inadmissible due to vetting concerns' after arriving in Miami.
 
-## Floods tear through homes and farmland in China’s Guizhou province
-Drone footage shows entire neighbourhoods, roads and farmland submerged by floodwaters in China's southwestern Guizhou.
+## Pope Leo makes visit to Spain’s Almudena Cathedral
+Crowds in Madrid were delighted to see Pope Leo make a visit to Santa Maria de la Almudena Cathedral with Queen Sofia.
 
-## China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang
-Chinese President Xi Jinping and North Korean leader Kim Jong Un met on Monday at a rare summit in Pyongyang.
+## EU planning to add to $1.5 trillion sanctions hit on Russia
+New proposed listings target Russia's 'military industrial complex, human rights violators and propagandists'.
 
-## Albanian PM Rama vows to push on with Kushner-linked luxury resort
-Albanian Prime Minister Rama vowed to press ahead with a billion-dollar luxury resort project linked to Jared Kushner.
+## Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse
+Rome is the second in Europe to launch a probe into Israel's treatment of activists detained as they headed to Gaza.
 
-## Southern Philippines hit by 7.8-magnitude earthquake
-Offshore quake rocks Mindanao, killing at least 35 and injuring more than 200.
+## Could Iran and the US play each other at the World Cup?
+Could Iran and the US play each other at the World Cup?
 
-## NATO jets shoot down drone over Latvia, extending Ukraine spillover fears
-The drone entered Latvian airspace due to 'Russian electronic warfare', the military says.
+## ‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes
+Residents in Tel Aviv voiced mixed reactions after a day of missile exchanges between Israel and Iran.
 
-## US imposes restrictions on 100 Nicaraguan officials after activist’s death
-The death of Indigenous leader Brooklyn Rivera has prompted calls from UN experts for an independent investigation.
+## Gaza cancer patient waits for a chance at life
+A school director and novelist in Gaza needs urgent life-saving cancer surgery that she cannot access inside the Strip.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
