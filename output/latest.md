@@ -1,61 +1,79 @@
 # AION Intelligence
 
-## Wall Street set for gains after AI-led rout
-US stocks poised to rebound from Friday’s fall that rattled global markets
+## Wall Street stocks rebound after AI-led rout
+Buyers step in after Friday fall that rattled global markets
 
-## Trump’s replacement tariff wall continues to rise
-Bogus arguments about forced labour are being used as an excuse for new duties
-
-## Netanyahu’s grand strategy is coming apart
-The Israeli leader has tried to secure his country by entirely military means. It isn’t working.
-
-## Those World Cup economic impacts in full…
-No look, pass
-
-## Switzerland weighs Franco-Italian alternative to US air defences
-SAMP-T emerges as strong option for Bern as Raytheon’s Patriot system deliveries delayed for at least 5 years
-
-## Canada tries to edge back into US trade talks with Trumpian sales pitch
-‘Fortress North America’ is Ottawa’s response to being cut out of negotiations on new pact with US and Mexico
-
-## FirstFT: AI sell-off spooks global markets
-Also in today’s newsletter: Iran and Israel trade fire while Intesa Sanpaolo launches €30bn bid for rival bank
-
-## Tate & Lyle agrees to £2.7bn takeover from US rival Ingredion
-Takeover of long-serving FTSE member deepens London stock market malaise
+## Berlin pulls plug on Franco-German fighter jet
+Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
 
 ## Blackstone looks to sell $2bn of stakes in private investment funds
 One of the biggest deals of its kind will test investor appetite for ageing private equity vehicles
 
-## Elon Musk’s SpaceX courts retail investors
-Plus, redemption woes at Partners Group, shorting call centre stocks and Le Parc at Tate Modern
-
-## Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer
+## Italy’s biggest lender offers €30.6bn to buy world’s oldest bank
 Italy’s largest bank says takeover would result in significant cost savings
 
-## Iranian military says it is halting offensive operations
-While announcing the pause, Tehran warned that any further aggression by Israel or its allies, including actions in southern Lebanon, would trigger a much stronger response
+## Uber’s pursuit of Delivery Hero faces fresh challenge from Saudi start-up
+Riyadh-based Ninja is considering making bid for parts of German group’s Middle East business
 
-## Smartworks leases over 400 desks to Japanese firm in Mumbai; eyes ₹35crore revenue
-In a regulatory filing on Monday, Smartworks said, "The five-year engagement is estimated to generate rental revenue of about ₹35 crore"
+## People are starting to eat the rich
+Free-floating rage against a super-wealthy elite could favour economic populists in the midterms
 
-## BMW Group India to hike prices by up to 2% across BMW, MINI vehicle portfolios from July 1
-The price hike will be applicable across locally-produced as well as CBU units
+## Turkey probes 95-year-old Rahmi Koç over ‘derogatory’ joke
+Critics warn judicial move against prominent tycoon risks undermining investment in Turkey
 
-## Broker’s Call: Yash Highvoltage (Buy)
-Choice Institutional Equities
+## Iran and Israel call halt to military operations
+Retaliatory barrages had tested two-month truce and Trump’s efforts to forge wider peace deal
 
-## Oil prices may fall in coming months despite supply disruptions, says Hardeep Puri
-Puri said India has sufficient oil and gas reserves to last 76-80 days and expects suppliers from the U.S., Canada and other Western Hemisphere nations to help bridge any shortages.
+## FCA seeks High Court injunction against Neil Woodford over new online service
+UK financial regulator alleges fund manager is providing unauthorised investment advice
 
-## TotalEnergies ENEOS Extends Solar Partnership with Ceres in Indonesia
+## Incyte strikes up to $2bn deal for blood disorder biotech
+Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
+
+## Switzerland weighs Franco-Italian alternative to US air defences
+SAMP-T emerges as strong option for Bern as Raytheon’s Patriot system deliveries delayed for at least 5 years
+
+## India, US can finalise interim trade pact only after Section 301 investigations concluded, say officials
+New Delhi wants Washington to commit that there will not be any additional tariffs after the pact was sealed
+
+## Moët Hennessy eyes bigger whisky play in India; launches Glenmorangie The Lasanta 15 Years Old
+The launch comes as parent company Moët Hennessy doubles down on India, one of its fastest-growing markets globally, amid rising premiumisation and growing demand for luxury spirits
+
+## Gold ETF investors exits highest last week for this year; outflows continue for 4th week in a row
+Net investments down 17% last week from May 23, as US, Chinese and Canadian investors lead the negative trend
+
+## Letters to the Editor dated June 8, 2026
 
 
-## Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026
+## Bengaluru vs Hyderabad: A tale of two cities that should collaborate, not compete
+While Bengaluru remains India’s undisputed tech capital, Hyderabad is increasingly positioning itself as a compelling alternative, thanks to its strong infrastructure and comparatively smoother traffic conditions
+
+## Viyona Fintech gets NPCI Bharat BillPay certification as a BOU
+The certification clears Viyona to go live as a Biller Operating Unit, enabling billers across utilities, education, insurance, and financial services to collect payments through India’s Bharat BillPay network
+
+## I want Canara Bank to become the preferred bank for the younger generation: Brajesh Kumar Singh
+For the new MD and CEO of Canara Bank, the first priority “is on the resources side, raising low-cost deposits and improving CASA, which will strengthen overall efficiency”.
+
+## Grasim Industries to invest ₹3,094 cr to add 1.10 lakh tpa Lyocell capacity in Karnataka
+The phase II expansion of Lyocell capacity will consist of two lines of 55,000 tpa each
+
+## No future tariffs, fair rates, end 'forced labour' probe: What India wants from US trade deal
+India is pushing for preferential tariffs and guarantees against future hikes in ongoing trade talks with the US. New Delhi seeks clarity on proposed US tariffs linked to forced labor and excess industrial capacity concerns. Both nations aim to finalize an interim trade agreement, with discussions g
+
+## US stock markets today (June 8, 2026): AI stocks rebound push Wall Street into recovery mode, oil prices retreat from overnight highs
+Wall Street saw a rebound on Monday, led by technology and AI-linked stocks that bounced back from Friday's sharp sell-off. The S&P 500, Dow Jones, and Nasdaq Composite all gained ground as investors reassessed recent market movements. Meanwhile, oil prices eased from overnight peaks despite ongoing
+
+## Bond rally defies oil shock, yields hit one-month low despite Middle East tensions
 
 
-## Omni HR Launches Mino, the First AI Agent Built on Unified APAC HR Data
-With Mino, Omni becomes the first AI-native HR and payroll platform built for multi-country teams in Asia.
+## SpaceX IPO this week: From listing date to valuation, 10 things to know before Elon Musk's firm goes public
+
+
+## India posts $7.1 billion current account surplus in Q4 as services exports strengthen
+India achieved a current account surplus of $7.1 billion in Q4 FY26, though it was lower than the previous year. Despite a widening merchandise trade deficit, strong growth in services exports, particularly computer and business services, helped maintain the surplus for the quarter. For the full fis
+
+## India's exports rise 15% in April-May despite global uncertainties
+
 
 ## BPCL to shut key Mumbai refinery unit in November for maintenance: Report
 
@@ -63,71 +81,62 @@ With Mino, Omni becomes the first AI-native HR and payroll platform built for mu
 ## SpaceX IPO explained: Can Indians invest and how does it work?
 SpaceX's monumental $1.75 trillion IPO is generating immense global interest, with bankers reporting double the demand for available shares. While Indian investors cannot directly participate in the IPO allotment, they can invest in SpaceX shares on secondary markets after listing through internatio
 
-## Jan Dhan milestone: Over 58 crore accounts bring millions into formal banking system, says FM Sitharaman
-Over 58 crore Jan Dhan accounts have successfully integrated millions of Indians into the formal banking system, significantly boosting financial inclusion. This initiative ensures welfare scheme benefits, insurance, and pensions reach beneficiaries directly and without leakages, empowering citizens
+## Why AAP launched fresh attack on Cong ahead of INDIA bloc's big Delhi meet: Reason lies northwards
+The one big state where Arvind Kejriwal's party and the Congress remain locked in a live, direct contest is Punjab.
 
-## View: RBI holds rates but uncertainty looms due to multiple pressure points
-The MPC raised its inflation forecast to 5.1% but chose to look through the supply-side pressures; it will remain alert to risks from global price shocks and monsoon uncertainties.
+## Oman Air Force rescues 24 Indians from tanker that caught fire after alleged hit
+The shipping ministry coordinated with MEA, the Indian mission in Oman, the defence ministry and Indian Navy to ensure the safety of the crew members
 
-## Gold price prediction today: Where are gold prices headed? Key levels to watch out for June 8, 2026 week
-Gold price prediction today: Gold prices continue to be volatile amid geopolitical developments, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## 'Meetings inside a car': BJP's Sambit Patra hits out at INDIA bloc, casts doubts on opposition unity
+BJP MP Sambit Patra made sharp remarks against Leader of the Opposition in Lok Sabha, Rahul Gandhi, saying in his presence ‘no one’s future will prosper'.
 
-## 100 days of Middle East crisis: What happens when the Strait of Hormuz opens
-Iran has indicated the Strait of Hormuz will reopen under new conditions set by Iranian and Omani authorities, potentially including transit fees for services. This comes as oil flows remain constrained following the US-Israeli conflict.
+## CID issues 3rd summons to TMC’s Abhishek Banerjee in signature forgery case
+The two legislators alleged that signatures of several TMC MLAs were forged on a May 19 resolution nominating Sobhandeb Chattopadhyay as the assembly’s LoP
 
-## Stock market crash today: Rs 5 lakh crore wealth gone! Why are BSE Sensex, Nifty50 down today? Top reasons for fall
-Selling was widespread across the market. Every stock in the Sensex basket traded in negative territory. The weakness was equally visible beyond the benchmark indices. The Nifty Midcap 100 and Nifty Smallcap 100 both lost more than 1%, reflecting a broad risk-off mood among investors.
+## Cockroach Janata Party to hold protest in Pune on June 11 seeking Pradhan's resignation
+The protest will take place at the Savitribai Phule Pune University (SPPU) at 4 pm on June 11.
 
-## Rupee begins week at 95.35 against US dollar amid Middle East chaos
-The rupee opened lower against the dollar, influenced by a stronger greenback, rising crude oil prices, and geopolitical tensions in the Middle East. This decline followed a strong gain on Friday, as investors remained cautious ahead of key US economic data and potential Federal Reserve interest rat
+## Molten metal was at 1600°C, being moved in giant bucket: What we know about Vizag steel plant mishap
+While trade union leaders reportedly claimed to have recovered nine bodies, RINL management has not yet issued an official statement confirming the death toll.
 
-## Meeting every 2 months, next huddle in August, letter to CJI on SIR: Key takeaways from INDIA bloc meet
-Leaders of the INDIA bloc gathered for a key meeting in New Delhi amid differences among the constituents and the recent poll losses of the TMC and the DMK.
+## At INDIA bloc meeting, Congress is called ‘glue’ as 23 parties target 2029
+Kharge said the INDIA bloc decided to write to the Chief Justice of India over SIR, hold more frequent meetings and seek the education minister’s resignation
 
-## As TMC crack travels to Delhi, Mamata looks for warmth in INDIA situationship: Decoding the two meets today
-The former West Bengal CM was seen seated to the right of Congress president and bloc convener Mallikarjun Kharge. To Kharge's left was Rahul Gandhi.
+## Mahua Moitra with Mamata amid TMC implosion, flays 'traitors with yellow-stained pants', targets Pathan with a Shah jibe
+“MPs won in 2024 on TMC ticket. Mandate was NOT for NDA,” the MP wrote on X on Sunday evening, even as some rebel MPs said they were aligning with BJP regime
 
-## CM Lalduhoma hails AIR as vital force for unity among Mizo ethnic groups
-CM Lalduhoma hails AIR as vital force for unity among Mizo ethnic groups
-
-## Fire breaks out on an oil tanker carrying 24 Indian seafarers; no casualties, says govt
-Shipping ministry says 24 Indian seafarers are safe after a fire on an oil tanker was reported in the Persian Gulf
-
-## India, China should stick to 'right strategic perception' of being cooperative partners, not rivals: Beijing
-On India's concerns over China's close ties with Pakistan, Lin said Beijing support both India and Pakistan in properly handling their differences.
-
-## Environmentalists welcome retention of term 'Natural Conservation Zone' in NCR Regional Plan 2041
-Environmentalists welcome retention of term 'Natural Conservation Zone' in NCR Regional Plan 2041
-
-## 3 Andhra pilgrims die after bus driver crashes into truck in Bihar’s Aurangabad
-In a separate accident around midnight, four men were killed and the driver was injured after he lost control over a speeding car
-
-## Monsoon advances into parts of Karnataka, Maharashtra; progress nearly normal
-The IMD said isolated heavy to very heavy rainfall is very likely in Kerala, Karnataka, Tamil Nadu, northeast, and sub-Himalayan West Bengal
-
-## Karnataka mulls law to ensure registration of RSS, affiliate groups
+## Bihar cleric’s train death solved: How video by exam aspirants led cops to accused
 
 
-## Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest
+## Slumdog teaser: Vijay Sethupathi issues a chilling warning in Puri Jagannadh’s next
 
 
-## Three decades after Veerappan’s allegation against actor, Madras HC holds Sun TV liable
+## 40% of Pak smugglers pushing drugs into Punjab located in Lahore, Kasur
 
 
-## JoSAA Counselling 2026: IIT Kanpur sets up helpdesk to guide JEE Advanced qualifiers
+## Sooryavanshi humiliating great bowlers exposes cricket’s systemic ills: Chappell
 
 
-## Court quashes anti-Islamic speech case against BJP leader, says ‘not a theatre for political rivalry’
+## India deploys active nuclear warheads: What changed in 2025?
 
 
-## ‘I miss him every single day’: Esha Deol remembers late father Dharmendra
+## ‘Better off that way’: Shashi Tharoor rejects viral idli-chai combo; expert weighs in
 
 
-## Can one die ‘of sadness’? An Expert Explains what science says about grief and death
+## TMC unravels: Inside party MPs’ revolt against Mamata Banerjee
 
 
-## What it was like styling Priyanka Chopra on Quantico: ‘These shoes are like $1,000’
+## Bombay High Court grants bail to Sheetal Tejwani in Rs 1,800-crore Mundhwa land deal case
 
+
+## Leaks and backdoors: China warns of security risks in relay services for foreign AI models
+China’s national security authority has warned of risks in using “artificial intelligence relay services” that provide access to overseas AI models, highlighting concerns over data leaks, privacy breaches and unauthorised cross-border data transfers amid a thriving grey market for restricted foreign
+
+## China’s EV giants challenge Tesla in race to commercialise humanoid robots
+Chinese electric vehicle (EV) makers are opening a new front in their battle with Tesla: humanoid robots. After spending years competing on electric cars and autonomous driving technology, leading Chinese manufacturers including BYD and Xpeng are now accelerating plans to mass-produce humanoid robot
+
+## NWD tests market with 28 Pavilia Rosa flats for sale amid Hang Seng slump
+Hong Kong developer New World Development (NWD) is making 28 units of its Pavilia Rosa project in Kowloon Tong available to buyers on Friday, a test of sentiment and demand in the city’s residential property market amid a slumping Hang Seng Index. NWD said the flats would be sold via a regular price
 
 ## Hong Kong-listed Tencent eyes global note issuance amid AI investment surge
 Chinese tech giant Tencent Holdings plans to issue new notes to international investors in the coming year, joining the fundraising wave by Hong Kong-listed AI companies looking to fund expansion in the rapidly growing sector. The Shenzhen-based firm updated its global medium-term note programme wit
@@ -144,14 +153,8 @@ Foreign executives used to come to China to study shoppers. Today, many come to 
 ## Hong Kong stocks pare losses as AI rallies in Asia unwind on US rate-increase anxiety
 Taking its cue, Hong Kong stocks fell alongside other markets in Asia on Monday, as rising bets on an interest-rate increase following a blowout US jobs report raised fears of capital outflows from the region alongside the unravelling of the AI rallies in mainland China and South Korea. The Hang Sen
 
-## AXA, Standard Chartered eye expansion in Hong Kong’s booming offshore wealth market
-French insurer AXA and London-headquartered Standard Chartered will both launch new offerings aimed at capturing high-net-worth clients this week, indicating that the recent regulatory tightening of cross-border investment by mainland investors has failed to dampen plans by international financial f
-
-## Which company could become the Chinese Pfizer? Here are analysts’ top picks
-A handful of Chinese biotechnology companies are expected to bring medications to consumers in Europe and the US under their own brand names within the next 10 to 15 years, according to policy and industry analysts. Amid China’s early-stage drug outlicensing boom, discussions have arisen among inves
-
-## Park life: why China’s malls are building forests, waterfalls and sky walkways
-Property developers are focusing on building shopping centres featuring lush greenery, gardens and water features in mainland China, as such spaces have become more attractive to shoppers and retailers than conventional high-density malls. “Consumers increasingly view retail destinations as places t
+## China Is Making MAHA’s Favorite Drug
+RFK fans and China hawks are on a collision course over peptides.
 
 ## The U.S. Can’t Exclude China From Latin America
 Rather than pushing Beijing out of the region, Washington should offer countries better strategic alternatives.
@@ -173,9 +176,6 @@ Plus, a Venezuelan thriller in translation.
 
 ## How Ukraine Has Turned the Tide
 Resilience, technology, and European support have put Russia on the back foot.
-
-## Contain, Consolidate, and Co-Opt
-How Europe has learned to live with great-power politics.
 
 ## Thailand Says It Will Join UN-Backed Conciliation on Maritime Dispute With Cambodia
 Thai Foreign Minister Sihasak Phuangketkeow said that Bangkok will cease all other bilateral talks while mediation is in progress.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Video: Israel claims strike on Iranian petrochemical complex
-Video shows plumes of smoke rising from Mahshahr Petrochemical Complex in Iran’s Khuzestan Province on Monday.
+## Lebanon Latest: Israel pushes deeper as conflict escalates
+The latest developments from southern Lebanon amid escalating Israeli attacks.
 
-## Which European nation has the best chance to win World Cup 2026?
-Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?
+## ‘Lives turned in a second’: Family of baby Sam, shot dead by Israel, grieve
+A father speaks of the moment his seven-month-old Palestinian son was shot dead in the West Bank by an Israeli soldier.
 
-## Armenian PM Pashinyan declares victory in parliamentary elections
-Armenian PM Pashinyan declares victory in parliamentary elections
+## IAEA chief says Iran-US nuclear talks in ‘complicated phase’
+IAEA chief says Iran-US nuclear talks in 'complicated phase'.
 
-## Could ex-ISIL fighters be used against Iran, as a Russian official claimed?
-Russia’s Federal Security Service chief said Western powers could weaponise ex-fighters, but analysts doubt the claim.
+## Why was Israel spared scrutiny for the 1967 USS Liberty attack?
+US Representative Massie set to honour the crew of the vessel on the House floor, bringing attention to the 1967 attack.
 
-## Ohio police drag away football pitch invader in pre-World Cup friendly
-US police were filmed dragging away a pitch-invading fan during a friendly football match between Ecuador and Guatemala.
+## Meta to take legal action against Israeli spyware company NSO
+WhatsApp disrupted phishing attempts linked to NSO, blacklisted by the US for security concerns.
 
-## Iran spokesman says US to blame for resumption of hostilities
-Iran’s FM spokesman Esmaeil Baghaei said Israel’s ally the US is responsible for ‘whatever happens in the region'.
+## How extreme weather and heat could affect players at World Cup 2026
+Climate experts warn that 25% of World Cup games could be played in very hot conditions, affecting fans and players.
 
-## Iran and Israel bomb each other: Is the ceasefire over?
-Analysts say both sides are pushing the ceasefire to its limits while seeking greater leverage.
+## Texas-bound jet crashes during emergency landing in Dominican Republic
+Texas-bound private jet crashes during emergency landing in Dominican Republic.
 
-## PM Pashinyan’s party wins Armenia election, preliminary results show
-Nikol Pashinyan's Civil ​Contract party wins 49.81 percent of ​the vote, the ​Central Election Commission says.
+## Al Jazeera explains China-North Korea ties as Xi visits Pyongyang
+China’s Xi Jinping is visiting North Korea for the first time in seven years.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
