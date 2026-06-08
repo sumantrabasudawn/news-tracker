@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## Tech sell-off widens as South Korea plunges
+Asian markets start the week sharply lower after Nasdaq’s big Friday fall
+
+## Chips, ships and guns: South Korea booms on AI race and global conflict
+Asia’s fourth-largest economy is in a sweet spot as its biggest companies capitalise on geopolitical trends
+
+## UK employers hiring more temps as staff costs rise
+Companies wary of committing to permanent workers amid uncertain economic outlook, according to survey
+
+## Plan to tighten healthy food rules provokes backlash from UK industry
+Businesses warn that proposed changes to ‘nutrient profiling model’ risk stoking inflation and reducing investment
+
 ## Iran launches ballistic missiles at Israel
 Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah
 
 ## Oil prices jump after Iran missiles threaten fragile ceasefire
-Traders worry that the new strikes could escalate into a return to all-out conflict in the Middle East
+Traders worry that new strikes could escalate into a return to all-out conflict in Middle East
 
 ## Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran
 US president tells FT that he ‘calls the shots’ after urging the Israeli leader not to retaliate against Tehran
@@ -13,16 +25,7 @@ US president tells FT that he ‘calls the shots’ after urging the Israeli lea
 Also in today’s newsletter: OpenAI plots ChatGPT overhaul, and an interview with Tokio Marine’s CEO
 
 ## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
-Board of Italy’s largest bank meets hours after rival proposed potential tie-up with MPS
-
-## Zelenskyy used Abramovich to send message to Putin about peace talks
-Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations
-
-## US weighs using Iranian assets to compensate Gulf allies for war damage
-Proposal comes as relations between Trump administration and regional partners have been strained by conflict
-
-## A big week for two Big Tech businesses
-SpaceX IPO launches, Apple to hit reset, Trump turns 80, Fifa World Cup 2026 kicks off
+Board of Italy’s largest lender meets hours after rival proposed potential tie-up with MPS
 
 ## Airlines face $100bn hit on jet fuel from Iran energy shock
 Industry body warns that profits will be halved by surging energy costs
@@ -33,41 +36,29 @@ Football’s governing body expects to earn record revenues from expanded tourna
 ## Opec+ increases production quotas for fourth successive month
 Impact of decision will be limited by shipping restrictions
 
-## Bank boss contests FCA fine for not revealing Venezuela and US penalties
-BancTrust’s Carlos Fuenmayor accuses watchdog of impinging on freedom of expression
+## Trump urges Netanyahu not to retaliate against Iran as peace deal nears
+According to reports, Trump told Netanyahu that a peace agreement could be reached within days and also called on Iran to return to the negotiating table.
 
-## The coming rise of anti-AI populism
-Anxiety about the technology is set to generate a political backlash
+## South Korea’s KOSPI plunges nearly 9%, circuit breakers halt trading
+The steep losses prompted the activation of market-wide circuit breakers, halting trading for 20 minutes to curb volatility.
 
-## Russian drone hits nuclear fuel site near Chernobyl
-Radiation levels remain ‘within normal limits’, says Ukraine’s state nuclear company
+## Nvidia signs AI data centre deals with South Korea’s SK Hynix, Naver and Doosan
+Nvidia strengthened its South Korea ties with new AI infrastructure deals, partnering with SK Hynix on next-generation memory technology and supporting SK Telecom’s ambitious gigawatt-scale AI cloud plans.
 
-## Incyte nears up to $2bn deal for blood disorder biotech Star
-Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
+## Israel strikes Beirut's southern suburbs days after US-supported ceasefire deal
+The strike hit a residential building, damaging four of its seven floors. An unexploded weapon was found in the rubble
 
-## LPG price hike inevitable due to global crisis: Union Minister Pralhad Joshi
-“We also feel very sad and sorry about the hike in gas cylinder prices, but before criticising, everyone should understand the situation in the entire world,” Joshi said
+## Asian stocks sink amid tech sell-off, rising oil prices and rate hike fears
+South Korea’s KOSPI dropped more than 6.8%, while Japan’s Nikkei lost 3.4%
 
-## OPEC+ decides on fourth oil quota hike since Hormuz closure
-The war has cut oil flows via the Strait of Hormuz, creating the world's biggest-ever supply crisis
+## Sensex today | Stock Market Live: Stock to buy today: The Phoenix Mills (₹1,745.20)
+Sensex, Nifty, Stock Price Live Updates: Traders can consider buying the stock of The Phoenix Mills now at ₹1,745 and accumulate if the price dips to ₹1,700
 
-## Editorial. Healthy data
-NFHS-6 shows better health indices; more data awaited
+## Powerful 8.2-magnitude earthquake strikes Philippines, tsunami threat issued
+German Research Centre for Geosciences had initially estimated the magnitude at 7.3 before revising it higher
 
-## India is largest source for immigrant founders of US unicorns, but still not shooting for the stars
-Indians feature prominently among founders who first arrived in the US as international students. There are 76 Indians who came to the US as international students and founded unicorns
-
-## Trump says he would not unfreeze Iran's assets before peace deal is done
-Trump also said ⁠that he was not demanding that Lebanon be a part of a short-term deal with Tehran
-
-## Rajesh Exports: Sent 400 GB docs to SEBI, regulator couldn't locate files; will resubmit in 15 days
-"We had given them 300-400 GB documents, running into lakhs (of pages; I think they have not been able to find the correct documents," Mehta said
-
-## Professional forecasters’ FY27 real GDP estimate of 6.5% a shade lower than RBI
-For FY28, the SPF projected real GDP growth and CPI inflation at 6.9% and 4.5%, respectively
-
-## Below the line
-
+## Iran fires missiles at Israel, raising fears of renewed West Asia conflict
+The escalation follows Israeli strikes in Beirut and comes as international mediators seek to revive negotiations between Tehran and Washington
 
 ## Net-zero challenge: Sustainable aviation fuel account just 0.8% of aviation fuel use in 2026, says IATA
 Sustainable Aviation Fuel (SAF) production is critically low, meeting only 0.8% of demand by 2026, IATA reports. Airlines face a $4.3 billion SAF bill this year, with insufficient policy support hindering progress. Experts warn unrealistic mandates, especially for e-SAF, could inflate prices and div
@@ -93,53 +84,56 @@ Global airlines face a profit plunge in 2026, nearly halving earnings to $23 bil
 ## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
 Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
 
-## Centre allays concerns over ‘missing’ NHFS indicators, says fact sheets not final report
-Officials said the fact sheets are designed to present the most policy-relevant headline findings while supporting efforts to streamline reporting across India’s growing network of specialised surveys and administrative databases.
+## TMC keeps eye on MPs as Didi arrives in Delhi
+Mamata Banerjee reconstituted the TMC’s national working committee at a party meeting at her residence on June 5.
 
-## Indonesian Foreign Minister, Jaishankar discuss bilateral relations
-This come ahead of a planned visit to Jakarta next month by Prime Minister Narendra Modi that is expected to focus on advancing trade and security ties.
+## Death toll rises to 22 in Delhi's Hauz Rani fire as 39-year-old Nigerian dies
+A total of 49 injured guests were evacuated from the Flourish Stay B&B after a fire erupted around 8:30 am on Wednesday.
 
-## Tremors felt in Kolkata: Where was the epicentre of earthquake?
-The quake hit at a depth of 10 km (6.21 miles) at around 11:06 pm, according to the German Research Centre for Geosciences (GFZ).
+## 2022 ‘rebellion’ was against Sachin Pilot, not Congress high command, says Ashok Gehlot
+Ashok Gehlot argued that if it had truly been a rebellion against the Congress high command, he would not have remained CM afterwards.
 
-## Tremors felt in North Bengal, northeast as 5.6 magnitude earthquake jolts Bhutan
-Officials said the tremors lasted for a few seconds and there was no immediate report of any loss of life or property damage.
+## ‘It was gorgeous’: Ex-US First Lady Jill Biden wanted to buy the diamond gifted by PM Modi
+However, under US ethics rules, gifts received by the president and first lady during official engagements belong to the federal government.
 
-## LPG price hike inevitable due to global crisis, says Union Minister Prahlad Joshi
-The comment comes following the recent price hike in LPG cylinder due to choked supply chains as a result of the West Asia conflict
+## Retired Bombay high court judge faces threats, family in UK attacked over 2024 Dawoodi Bohra verdict
+This alleged campaign of threats and violence arises from Justice GS Patel’s 2024 judgment affixing who the real spiritual head of the Dawoodi Bohra community.
 
-## 4,800 illegal immigrants sent to Bangladesh from holding centres, 836 awaiting deportation: Bengal CM
-Adhikari asserted that illegal immigration was a big issue, and said his government has already handed over land to the BSF to erect around 100 km of fencing.
+## ‘My father remains one of the tallest leaders’: Yatindra Siddaramaiah
+Yatindra Siddaramaiah, Karnataka's new urban development minister, discusses the Congress government's priorities, caste survey, and his father's legacy.
 
-## ‘Internet's kid’ who loves Sahir Ludhianvi, Dinkar: Behind Sarthak’s CBSE probe, a quest to ‘always ask questions’
-Anime references and one-liners are key parts of how he communicates, plus some serious inspiration from Urdu-Hindi poets not readily associated with Gen Z
+## ICSSR launches ₹18-crore research scheme for undergraduates
+The ICSSR has launched a ₹3 lakh fellowship for 600 undergraduate projects on "Youth and Decolonisation," promoting Indian-centric research approaches.
 
-## A shifting timing, weak microphone, and other lessons for ‘Cockroaches’ from their first protest on the ground
-At times, Abhijeet Dipke’s speech was almost drowned out by Delhi Police public announcements. Frustrated by interruptions, he remarked, “Ye kaun bol rha hai”
+## Nabin directs BJP Uttarakhand unit to intensify outreach initiatives
+BJP chief Nitin Nabin urges Uttarakhand unit to unite for elections, focusing on outreach and addressing concerns, while managing intra-party differences.
 
-## Delhi Confidential: Pep Talk
-
-
-## Rajasthan’s underwater wonder: The fascinating history of Jal Mahal Palace
+## 40 years ago June 8, 1986: Ten shot dead in Punjab
 
 
-## Denmark’s Christian Eriksen collapses on pitch vs Ukraine, match called off
+## Why Iran has linked US peace deal more to Lebanon than to Gaza
 
 
-## Why Sonakshi Sinha thinks replying with ‘k’ to a text should be ‘illegal’
+## NFHS-6 data on child nutrition carries sobering warnings
 
 
-## Earthquake of 5.6 magnitude strikes Bhutan
+## In cotton fields, policy is undoing what science built. That’s the challenge for the Cotton Productivity Mission
 
 
-## UzChess Cup 2026: Cold start for Indians as Vidit suffers loss, Arjun held to draw
+## What the Pope talks about when he talks about human dignity
 
 
-## Zverev makes belated Grand Slam breakthrough after five-set win over Cobolli
+## Let’s resist easy indictments of Indian Knowledge Systems
 
 
-## Wildlife sanctuaries to visit in and around Delhi this summer vacation
+## Amid rising frequency of global shocks, a moment to activate growth drivers within domestic control
 
+
+## Weekly Horoscope, 08-June to 14-June-2026: Explore our weekly horoscope and navigate the week ahead with confidence
+
+
+## AXA, Standard Chartered eye expansion in Hong Kong’s booming offshore wealth market
+French insurer AXA and London-headquartered Standard Chartered will both launch new offerings aimed at capturing high-net-worth clients this week, indicating that the recent regulatory tightening of cross-border investment by mainland investors has failed to dampen plans by international financial f
 
 ## Which company could become the Chinese Pfizer? Here are analysts’ top picks
 A handful of Chinese biotechnology companies are expected to bring medications to consumers in Europe and the US under their own brand names within the next 10 to 15 years, according to policy and industry analysts. Amid China’s early-stage drug outlicensing boom, discussions have arisen among inves
@@ -161,9 +155,6 @@ Mainland customers can still open bank accounts in Hong Kong, but banks must ado
 
 ## Chinese carriers seize two-thirds share of post-pandemic air routes
 Chinese carriers have captured an expanding slice of the international air travel market for routes connecting Chinese and overseas cities since the Covid-19 pandemic, according to data presented at an industry summit in Beijing on Friday. Local carriers currently held a 66.5 per cent market share c
-
-## Targeting US$610 billion longevity market, biotech firms race to reverse ageing
-For Beijing-based METiS TechBio CEO Lai Tsai-ta, ageing is comparable to bugs building up in a complex software system – it happens once errors begin to accumulate in the genetic code of human cells, such as their DNA sequences. “Those errors can be reprogrammed. It becomes possible to use AI to rea
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -261,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Mexican cartels turned South African farms into meth production hubs
+Raids on South African farms have uncovered meth labs linked to Mexican networks, signalling a new cartel phase.
+
+## Oppenheimer: Trump holds the reins on Netanyahu’s escalation options
+Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.
+
+## Tsunami warnings issued after powerful earthquake off Philippines
+Officials in Indonesia, Philippines and Japan warn of tsunami waves after quake off Mindanao.
+
+## Iran and Israel trade threats after Tehran launches missiles
+Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut
+
+## Iran war live: Trump urges restraint after Iranian missile attack on Israel
+Escalation comes after Israel attacked Lebanon's capital, Beirut, killing at least two people and wounding 20.
+
 ## North Korea’s Kim Jong Un inspects munitions at weapons factory
 North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory
 
@@ -269,21 +275,6 @@ Iran's attack on Israel aims to restore deterrence but avoid return to war.
 
 ## Videos show missiles launched from Iran into Israel
 Iranian media has released video showing missiles being launched towards Israel.
-
-## Celebrations seen in Tehran as missiles fly overhead towards Israel
-Iranian state TV broadcast scenes of celebration in Tehran as missiles flew overhead en route to Israel.
-
-## Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’
-Iran's IRGC says the barrage of missiles is 'a warning' to Israel amid its ongoing siege of Lebanon.
-
-## Iran fires missiles at Israel after it attacked Beirut
-Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.
-
-## Iran losing patience with Israel and US over ceasefire violations
-Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.
-
-## Iranian World Cup excitement dulled by war and economic crisis
-Iranian World Cup excitement dulled by war and economic crisis.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
