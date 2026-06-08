@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## Tech sell-off widens as South Korea index plunges
-Asian markets start week sharply lower after Nasdaq’s big Friday fall
+## Wall Street set for gains after AI-led rout
+US stocks poised to rebound from Friday’s fall that rattled global markets
+
+## Trump’s replacement tariff wall continues to rise
+Bogus arguments about forced labour are being used as an excuse for new duties
+
+## Netanyahu’s grand strategy is coming apart
+The Israeli leader has tried to secure his country by entirely military means. It isn’t working.
+
+## Those World Cup economic impacts in full…
+No look, pass
+
+## Switzerland weighs Franco-Italian alternative to US air defences
+SAMP-T emerges as strong option for Bern as Raytheon’s Patriot system deliveries delayed for at least 5 years
+
+## Canada tries to edge back into US trade talks with Trumpian sales pitch
+‘Fortress North America’ is Ottawa’s response to being cut out of negotiations on new pact with US and Mexico
+
+## FirstFT: AI sell-off spooks global markets
+Also in today’s newsletter: Iran and Israel trade fire while Intesa Sanpaolo launches €30bn bid for rival bank
+
+## Tate & Lyle agrees to £2.7bn takeover from US rival Ingredion
+Takeover of long-serving FTSE member deepens London stock market malaise
+
+## Blackstone looks to sell $2bn of stakes in private investment funds
+One of the biggest deals of its kind will test investor appetite for ageing private equity vehicles
+
+## Elon Musk’s SpaceX courts retail investors
+Plus, redemption woes at Partners Group, shorting call centre stocks and Le Parc at Tate Modern
 
 ## Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer
 Italy’s largest bank says takeover would result in significant cost savings
 
-## Israel and Iran trade air strikes as ceasefire falters
-Retaliatory barrages test 2-month truce and Donald Trump’s efforts to forge wider deal
+## Iranian military says it is halting offensive operations
+While announcing the pause, Tehran warned that any further aggression by Israel or its allies, including actions in southern Lebanon, would trigger a much stronger response
 
-## Peru’s presidential rivals in neck-and-neck race after election run-off
-Results too close to call as rightwing autocrat’s daughter vies with leftist lawmaker
+## Smartworks leases over 400 desks to Japanese firm in Mumbai; eyes ₹35crore revenue
+In a regulatory filing on Monday, Smartworks said, "The five-year engagement is estimated to generate rental revenue of about ₹35 crore"
 
-## Did jobs just kill the bull market?
-The AI trade meets higher rates
+## BMW Group India to hike prices by up to 2% across BMW, MINI vehicle portfolios from July 1
+The price hike will be applicable across locally-produced as well as CBU units
 
-## European capitals push for talks but Putin remains unmoved
-Also in this newsletter: Kosovo’s ruling party wins a second snap election in six months
+## Broker’s Call: Yash Highvoltage (Buy)
+Choice Institutional Equities
 
-## Fashion designer Nili Lotan’s Tribeca
-The minimalist womenswear designer has built her label — and her life — within a few blocks of Duane Street. She shares her perfect day
+## Oil prices may fall in coming months despite supply disruptions, says Hardeep Puri
+Puri said India has sufficient oil and gas reserves to last 76-80 days and expects suppliers from the U.S., Canada and other Western Hemisphere nations to help bridge any shortages.
 
-## FirstFT: AI-powered espionage triggers Putin camera scare
-Also in today’s newsletter: Iran deal and UK bank taxes
-
-## UK AI start-up PhysicsX hits $2.4bn valuation following Temasek-led deal
-London-based group raises $300mn to become one of the UK’s most valuable AI groups
-
-## United Airlines boss puts Rolls-Royce “in the doghouse” over contract spat
-Clash comes amid industry frustrations over engine delivery delays
-
-## The World Cup offers pubs a chance to change the story
-Tournament gives the industry a chance to pull in more punters and pull more pints
-
-## European drivers cut back on fuel as energy price shock bites
-Eurozone records largest year-on-year decline in fuel sales since October 2023
-
-## New AI espionage powers trigger Putin camera scare
-Russia paused surveillance system after killing of Iran’s Supreme Leader exposed how AI can be used on CCTV data to target enemies
-
-## What steps India has taken to stem pressure on its external balance of payments
+## TotalEnergies ENEOS Extends Solar Partnership with Ceres in Indonesia
 
 
-## China dominates low-carbon industrial projects, US lags, report says
-The total pipeline of announced low-carbon industrial projects is 969 in sectors that include ‌chemicals, aviation, cement and metals
+## Fox ESS Unveils Dynamic Energy Ecosystem Alongside Its First Rebrand Area at SNEC 2026
 
-## Saving Siri: After two years of stumbles, is Apple's AI moment here?
-Apple’s challenge is that data is locked ⁠down in its operating systems in the name of privacy and security
 
-## India Inc hikes prices, shrinks packs as Iran war squeezes margins
-Sectors with high global exposure, including aviation, oil and gas, chemicals, logistics and capital goods, may remain under margin pressure, say analysts
+## Omni HR Launches Mino, the First AI Agent Built on Unified APAC HR Data
+With Mino, Omni becomes the first AI-native HR and payroll platform built for multi-country teams in Asia.
 
-## IMF chief warns world isn’t ready for shocks that are piling up
-“I am worried that we are not completely internalizing yet that this is how the world is going to be,” International Monetary Fund Managing Director Kristalina Georgieva said.
+## BPCL to shut key Mumbai refinery unit in November for maintenance: Report
 
-## South Korea’s KOSPI plunges nearly 9%, circuit breakers halt trading
-The steep losses prompted the activation of market-wide circuit breakers, halting trading for 20 minutes to curb volatility.
 
-## Odisha SHG exports Amrapali mangoes to London
-Maa Kalijai group’s 7.5 quintal consignment highlights growing success of farmer collectives in agri-exports under PSFPO project
+## SpaceX IPO explained: Can Indians invest and how does it work?
+SpaceX's monumental $1.75 trillion IPO is generating immense global interest, with bankers reporting double the demand for available shares. While Indian investors cannot directly participate in the IPO allotment, they can invest in SpaceX shares on secondary markets after listing through internatio
 
-## Buzzing stocks: Allied Blenders, RailTel, TVS Motor Co, RInfra, Ixigo, HCC
-Focus will also be on Alembic Pharma, Glenmark, Nibe Defence, Asian Energy, Innovation, HEC Infra projects
+## Jan Dhan milestone: Over 58 crore accounts bring millions into formal banking system, says FM Sitharaman
+Over 58 crore Jan Dhan accounts have successfully integrated millions of Indians into the formal banking system, significantly boosting financial inclusion. This initiative ensures welfare scheme benefits, insurance, and pensions reach beneficiaries directly and without leakages, empowering citizens
+
+## View: RBI holds rates but uncertainty looms due to multiple pressure points
+The MPC raised its inflation forecast to 5.1% but chose to look through the supply-side pressures; it will remain alert to risks from global price shocks and monsoon uncertainties.
+
+## Gold price prediction today: Where are gold prices headed? Key levels to watch out for June 8, 2026 week
+Gold price prediction today: Gold prices continue to be volatile amid geopolitical developments, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+
+## 100 days of Middle East crisis: What happens when the Strait of Hormuz opens
+Iran has indicated the Strait of Hormuz will reopen under new conditions set by Iranian and Omani authorities, potentially including transit fees for services. This comes as oil flows remain constrained following the US-Israeli conflict.
 
 ## Stock market crash today: Rs 5 lakh crore wealth gone! Why are BSE Sensex, Nifty50 down today? Top reasons for fall
 Selling was widespread across the market. Every stock in the Sensex basket traded in negative territory. The weakness was equally visible beyond the benchmark indices. The Nifty Midcap 100 and Nifty Smallcap 100 both lost more than 1%, reflecting a broad risk-off mood among investors.
@@ -69,77 +81,68 @@ Selling was widespread across the market. Every stock in the Sensex basket trade
 ## Rupee begins week at 95.35 against US dollar amid Middle East chaos
 The rupee opened lower against the dollar, influenced by a stronger greenback, rising crude oil prices, and geopolitical tensions in the Middle East. This decline followed a strong gain on Friday, as investors remained cautious ahead of key US economic data and potential Federal Reserve interest rat
 
-## Stock Market Live Updates Today: BSE Sensex crashes over 900 points in opening trade, Nifty50 near 23,100 as fresh US-Israel-Iran tensions erupt; crude oil prices rise
+## Meeting every 2 months, next huddle in August, letter to CJI on SIR: Key takeaways from INDIA bloc meet
+Leaders of the INDIA bloc gathered for a key meeting in New Delhi amid differences among the constituents and the recent poll losses of the TMC and the DMK.
+
+## As TMC crack travels to Delhi, Mamata looks for warmth in INDIA situationship: Decoding the two meets today
+The former West Bengal CM was seen seated to the right of Congress president and bloc convener Mallikarjun Kharge. To Kharge's left was Rahul Gandhi.
+
+## CM Lalduhoma hails AIR as vital force for unity among Mizo ethnic groups
+CM Lalduhoma hails AIR as vital force for unity among Mizo ethnic groups
+
+## Fire breaks out on an oil tanker carrying 24 Indian seafarers; no casualties, says govt
+Shipping ministry says 24 Indian seafarers are safe after a fire on an oil tanker was reported in the Persian Gulf
+
+## India, China should stick to 'right strategic perception' of being cooperative partners, not rivals: Beijing
+On India's concerns over China's close ties with Pakistan, Lin said Beijing support both India and Pakistan in properly handling their differences.
+
+## Environmentalists welcome retention of term 'Natural Conservation Zone' in NCR Regional Plan 2041
+Environmentalists welcome retention of term 'Natural Conservation Zone' in NCR Regional Plan 2041
+
+## 3 Andhra pilgrims die after bus driver crashes into truck in Bihar’s Aurangabad
+In a separate accident around midnight, four men were killed and the driver was injured after he lost control over a speeding car
+
+## Monsoon advances into parts of Karnataka, Maharashtra; progress nearly normal
+The IMD said isolated heavy to very heavy rainfall is very likely in Kerala, Karnataka, Tamil Nadu, northeast, and sub-Himalayan West Bengal
+
+## Karnataka mulls law to ensure registration of RSS, affiliate groups
 
 
-## Top stocks to buy: Stock recommendations for June 8, 2026 week - check list
-Stock market recommendations: Shriram Finance, Cummins India are the top stocks that Motilal Oswal Wealth Management Research Desk has recommended for the week starting June 8, 2026. The brokerage has also shared target levels and possible upside.
-
-## Gold, Silver Rate Today Live Updates: International gold prices drop as rate hike fears on higher inflation reduce safe haven appeal
+## Messi event case: Calcutta High Court rejects former minister Aroop Biswas’s ‘urgent’ plea for protection from arrest
 
 
-## Titan, Bharti Airtel & more: Top stocks to watch on June 8
-Analysts are bullish on Titan, projecting strong jewellery revenue growth and market share gains. Bharti Airtel's mobile money arm, Airtel Money, is set for a significant IPO. Adani Ports shows robust cargo volume growth, exceeding expectations. Maruti Suzuki is poised to benefit from first-time buy
-
-## 100 days of Middle East crisis: Oil prices jump over 3% as Iran-Israel resume war
-Middle East tensions surged, pushing oil prices up over 3% as the crisis hit its 100th day with little peace progress. Recent Israeli strikes in Iran and Lebanon, despite a truce, have dimmed hopes for a deal and reopening the vital Strait of Hormuz. OPEC+'s approved output increase faces hurdles du
-
-## ‘How to have financially strong airlines,’ India finally begins to figure out
+## Three decades after Veerappan’s allegation against actor, Madras HC holds Sun TV liable
 
 
-## TMC leader Jahangir Khan arrested near India-Nepal border in extortion case
-TMC leader Jahangir Khan arrested near India-Nepal border in extortion case
-
-## 3 reasons why Vijay-led TVK will not be a part of today's INDIA bloc meeting
-Vijay's absence has raised eyebrows because the Congress, a key INDIA bloc constituent, is now a partner in the TVK-led government in Tamil Nadu.
-
-## Suraj Hegde, AICC functionary and Karnataka leader, dies of cardiac arrest at 55
-Suraj Hegde, who was the former in-charge of the Indian Youth Congress, was the grandson of former Chief Minister Devaraj Urs.
-
-## Odisha woman’s body dug out 26 days after she was killed by her boyfriend
-Police said Sahaja Alda, 26, allegedly killed the woman in Odisha’s Keonjhar suspecting she was in a relationship with another man
-
-## Orange, yellow alerts in Kerala as heavy rain continues to lash state | Check IMD forecast
-The southwest monsoon remained active in Kerala on Monday and orange and yellow alerts remain in force across the state.
-
-## What Supreme Court’s proposed regulations for AI use in courts mean
-This is a direct response to a growing global problem with lawyers citing non-existent judgments generated by AI systems
-
-## INDIA bloc meeting LIVE: Omar Abdullah, Akhilesh, Supriya Sule arrive in Delhi ahead of INDIA bloc meeting at 12pm
-INDIA bloc meeting LIVE: A total of 23 political parties will take part in the meeting and will rework the strategy to take on the Bharatiya Janata Party (BJP). However, DMK and Arvind Kejriwal's Aam Aadmi Party (AAP) are set to skip the meeting.
-
-## Jaipur on high alert ahead of temple, mosque demolition: Internet shut, 3,000 cops on duty
-Officials say the widening of Nandpuri Road will ease congestion and improve connectivity, but the demolition drive has drawn criticism.
-
-## Shivam Associates collected Rs 2,400 crore, diverted Rs 55 to personal accounts: police
+## JoSAA Counselling 2026: IIT Kanpur sets up helpdesk to guide JEE Advanced qualifiers
 
 
-## Trinamool Rajya Sabha MP Sukhendu Sekhar Roy resigns, says ‘I was unhappy in party’
+## Court quashes anti-Islamic speech case against BJP leader, says ‘not a theatre for political rivalry’
 
 
-## Why financial independence doesn’t guarantee happiness for Dia Mirza: ‘Not enjoying what I am doing’
+## ‘I miss him every single day’: Esha Deol remembers late father Dharmendra
 
 
-## Iran launches ‘Operation Nasr’, targets 2 Israeli airbases
+## Can one die ‘of sadness’? An Expert Explains what science says about grief and death
 
 
-## 525 child rape victims faced pregnancy in 5 years, Allahabad High Court slams ‘systematic denial’ of abortion
+## What it was like styling Priyanka Chopra on Quantico: ‘These shoes are like $1,000’
 
 
-## Delhi government ITI admission 2026: Registration opens today at itidelhi.admissions.nic.in
+## Hong Kong-listed Tencent eyes global note issuance amid AI investment surge
+Chinese tech giant Tencent Holdings plans to issue new notes to international investors in the coming year, joining the fundraising wave by Hong Kong-listed AI companies looking to fund expansion in the rapidly growing sector. The Shenzhen-based firm updated its global medium-term note programme wit
 
+## Hong Kong’s Hang Seng Tech Index welcomes MiniMax, Zhipu in AI milestone amid slump
+Chinese artificial intelligence firms MiniMax Group and Knowledge Atlas Technology were added to the Hang Seng Tech Index on Monday, marking the first inclusion of pure-play AI companies in Hong Kong’s benchmark technology gauge, in a move analysts said could drive substantial passive inflows. The s
 
-## Rajasthan PTET 2026 Admit Cards: Hall tickets releasing today at vmou.ac.in
-
-
-## Second theft: How scammers use a lost iPhone to steal your identity
-
+## China’s new battery tech set to turbocharge EVs, energy storage
+Next-generation Chinese electric-vehicle (EV) batteries that charge in minutes are expected to add fuel to global sales of the country’s carmakers. An EV battery that goes from a 10 per cent to a 98 per cent charge in under six-and-a-half minutes was the star of the Super Technology Day event staged
 
 ## The ‘world’s toughest gym’: how global companies fight to survive in China
 Foreign executives used to come to China to study shoppers. Today, many come to study their future competitors. That shift, according to Joe Ngai, chairman of Greater China at McKinsey & Company, says almost everything about how China’s role in the global economy has changed. For much of the past tw
 
-## Hong Kong stocks slump as AI rallies in Asia unwind on US rate-increase anxiety
-Hong Kong stocks slumped alongside other markets in Asia on Monday, as rising bets on an interest-rate increase after a blowout US jobs report raised the fear of capital outflows from the region and the unravelling of the AI rallies from the Chinese mainland and South Korea. The Hang Seng Index fell
+## Hong Kong stocks pare losses as AI rallies in Asia unwind on US rate-increase anxiety
+Taking its cue, Hong Kong stocks fell alongside other markets in Asia on Monday, as rising bets on an interest-rate increase following a blowout US jobs report raised fears of capital outflows from the region alongside the unravelling of the AI rallies in mainland China and South Korea. The Hang Sen
 
 ## AXA, Standard Chartered eye expansion in Hong Kong’s booming offshore wealth market
 French insurer AXA and London-headquartered Standard Chartered will both launch new offerings aimed at capturing high-net-worth clients this week, indicating that the recent regulatory tightening of cross-border investment by mainland investors has failed to dampen plans by international financial f
@@ -150,14 +153,8 @@ A handful of Chinese biotechnology companies are expected to bring medications t
 ## Park life: why China’s malls are building forests, waterfalls and sky walkways
 Property developers are focusing on building shopping centres featuring lush greenery, gardens and water features in mainland China, as such spaces have become more attractive to shoppers and retailers than conventional high-density malls. “Consumers increasingly view retail destinations as places t
 
-## Why can’t investors buy the mainland’s hottest AI stocks via Stock Connect?
-Since 2014, the Stock Connect scheme has become a major channel for Hong Kong and international investors to buy stocks on the Chinese mainland. But cross-border traders have grown frustrated in recent months, as they have been unable to access a wave of blockbuster listings by AI companies on the m
-
-## ‘It’s the wealth effect’: Hong Kong luxury malls thrive amid IPO gains, housing recovery
-Hong Kong’s new status as the world’s top cross-border wealth hub, overtaking Switzerland, alongside a recovering local housing market and strong initial public offerings (IPOs), is translating into growth for high-end malls, with landlords enjoying improved revenues and rents. Hard luxury and jewel
-
-## China will enhance regulation of programme trading: CSRC chairman
-Chinese authorities plan to enhance regulation of programme trading to clamp down on market misconduct, the head of the China Securities Regulatory Commission (CSRC) said on Saturday. Hedge funds and institutional investors are increasingly managing their portfolios in China via programme trading, w
+## The U.S. Can’t Exclude China From Latin America
+Rather than pushing Beijing out of the region, Washington should offer countries better strategic alternatives.
 
 ## Trump Is Doing What FDR Could Not
 But the president’s success at purging his party could cost the GOP in the long term.
@@ -180,8 +177,14 @@ Resilience, technology, and European support have put Russia on the back foot.
 ## Contain, Consolidate, and Co-Opt
 How Europe has learned to live with great-power politics.
 
-## Romania Has Perfected the Art of Forgetting
-In a new memoir, Nobel laureate Herta Müller condemns her homeland for failing to reconcile with history.
+## Thailand Says It Will Join UN-Backed Conciliation on Maritime Dispute With Cambodia
+Thai Foreign Minister Sihasak Phuangketkeow said that Bangkok will cease all other bilateral talks while mediation is in progress.
+
+## Propaganda and Fake News Editors: Myanmar’s Manufactured Transition
+Min Aung Hlaing's “civilian” government rests on a sophisticated propaganda architecture, and the independent media needed to challenge it is running out of funds.
+
+## Under Trump 2.0, the Quad’s Real Challenge to China Is Economic, Not Military
+The grouping is unlikely to harden into an “Asian NATO.” For Beijing, the more consequential contest is over supply chains, technology standards, and the rules of the Indo-Pacific economy.
 
 ## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
 Why Seoul picked the PPP incumbent yet again, and what it means for the city.
@@ -198,14 +201,11 @@ The controversial comment was made on the eve of ruling party chief Ravi Lamichh
 ## Uzbekistan, Russia Celebrate Start of Nuclear Power Plant Construction… Again
 Tashkent and Moscow celebrated the start of construction on the plant – two months after the companies involved celebrated the same thing.
 
-## Pete Hegseth’s Missed Chance to Reassure – and Deter – on Taiwan
-The U.S. defense secretary failed to mention Taiwan once during his closely-watched speech at the Shangri-La Dialogue.
+## The Lawmakers Fighting to Modernize the Pentagon
+Congress rarely moves fast, but Reps. Rob Wittman and Pat Ryan are trying to change that. The two lawmakers founded the bipartisan House Defense Modernization Caucus in 2024 and have driven reforms through two consecutive defense authorization acts, targeting acquisitions and other bottlenecks. Jona
 
-## Could a Democratic Mid-Term Win Upset the China-US Detente?
-If Democrats ride a “blue wave” to reclaim the House in November’s mid-term elections – a distinct possibility – U.S. China policy will become dangerously volatile.
-
-## Pacific Nations Adopt First Regional Climate Relocation Framework
-Pacific governments have launched the world's first regional framework for planned climate relocation, creating new guidance for communities facing displacement from rising seas, coastal erosion, and intensifying storms.
+## What Beirut’s Port Scanners Miss About Militant Supply Chains
+At the Port of Beirut, the new scanners did exactly what they were built to do. They saw the lithium batteries. They saw the drone propellers. They saw the fiber optic cable. They matched the scans against the paperwork, found no obvious deception, and cleared the cargo.That was the problem.The thre
 
 ## The Pentagon’s AI Edge Is Being Distilled Away
 Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In this new context, military predominance i
@@ -224,12 +224,6 @@ The Battle of Midway has assumed a place in American naval lore that has put it 
 
 ## Wrong Audience, Wrong Ask: Why Trump’s Abraham Accords Gambit Falls on Deaf Ears
 When President Donald Trump repeatedly pressed regional leaders on Abraham Accords expansion late last month — framing Arab-Israeli normalization as a debt owed and a condition for a settlement to end the Iran war — he apparently commented there had been silence on the other end of the line.Arab and
-
-## Will China and the United States Pursue Strategic Stability?
-In 2024, Michael Swaine wrote, “How to Stop the United States and China from Sliding into War,” where he identified areas that could increase the possibility of an armed conflict between the United States and China. Two years later, after recent talks between President Trump and President Xi, we ask
-
-## The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy
-In 2023, the NATO Baltic Defense College in Tartu, Estonia devoted its entire annual conference to the Interwar Period (1919 to 1939), a theme repeated at subsequent conferences sponsored by national militaries and academic societies throughout the United States and Europe. Western scholars and fore
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,38 +249,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Yamal, Williams to be available for Spain’s opening World Cup match
-Star forward Yamal expected to be ready after suffering a groin injury that kept him out of a pretournament friendly.
+## Video: Israel claims strike on Iranian petrochemical complex
+Video shows plumes of smoke rising from Mahshahr Petrochemical Complex in Iran’s Khuzestan Province on Monday.
 
-## Satellite images show destruction of the US-Israel war on Iran
-From Iranian naval ports to US military bases across the Gulf, Al Jazeera shows 15 sites before and after the attacks.
+## Which European nation has the best chance to win World Cup 2026?
+Europe has the most World Cup winners in the event's history, but what are the continent's chances at the 2026 edition?
 
-## Debris reported in Jordan after Iranian missiles aimed at Israel intercepte
-Missiles believed fired from Iran toward Israel were seen over Jordan, with one reportedly intercepted.
+## Armenian PM Pashinyan declares victory in parliamentary elections
+Armenian PM Pashinyan declares victory in parliamentary elections
 
-## Peru’s Sanchez visits jailed ex-president as votes are counted
-Peruvian presidential candidate Roberto Sanchez visited jailed former president Pedro Castillo.
+## Could ex-ISIL fighters be used against Iran, as a Russian official claimed?
+Russia’s Federal Security Service chief said Western powers could weaponise ex-fighters, but analysts doubt the claim.
 
-## How Mexican cartels turned South African farms into meth production hubs
-Raids on South African farms have uncovered meth labs linked to Mexican networks, signalling a new cartel phase.
+## Ohio police drag away football pitch invader in pre-World Cup friendly
+US police were filmed dragging away a pitch-invading fan during a friendly football match between Ecuador and Guatemala.
 
-## Oppenheimer: Trump holds the reins on Netanyahu’s escalation options
-Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.
+## Iran spokesman says US to blame for resumption of hostilities
+Iran’s FM spokesman Esmaeil Baghaei said Israel’s ally the US is responsible for ‘whatever happens in the region'.
 
-## Powerful earthquake hits Philippines, triggering tsunami alerts across Asia
-Officials in Indonesia, the Philippines, and Japan warn of possible tsunami waves after an earthquake off Mindanao.
+## Iran and Israel bomb each other: Is the ceasefire over?
+Analysts say both sides are pushing the ceasefire to its limits while seeking greater leverage.
 
-## Iran and Israel trade threats after Tehran launches missiles
-Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut
+## PM Pashinyan’s party wins Armenia election, preliminary results show
+Nikol Pashinyan's Civil ​Contract party wins 49.81 percent of ​the vote, the ​Central Election Commission says.
+
+## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
+Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
+
+## Why workforce planning is fast becoming the CFO’s most high-stakes investment
+Workforce planning is shifting from HR's cost-control focus to the CFO's strategic agenda. Businesses now view talent as a key asset, prioritizing skills like AI and data engineering for competitive advantage. This necessitates a move from headcount to skills-based investment, with ROI measured by i
 
 ## Indian firms received far less govt support than Chinese peers during 2005-24: OECD report
 ​OECD MAGIC Database of Industrial Subsidies measures what firms actually receive (not what governments disclose), covering 525 of the world's largest manufacturers across 15 key sectors over 2005-24, through three instruments: grants, income-tax concessions, and below-market borrowings (cheap state
 
-## SC ruling seen shaping Sebi’s fraud-finding frame
-In a ruling, the apex court had said that investor injury alone can establish fraud, although the loss isn’t quantifiable
-
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
+
+## SC ruling seen shaping Sebi’s fraud-finding frame
+In a ruling, the apex court had said that investor injury alone can establish fraud, although the loss isn’t quantifiable
 
 ## India Inc hikes prices, shrinks packs as Iran war squeezes margins
 Indian businesses face mounting pressure from soaring oil, freight, and insurance costs. Companies are increasing prices and reducing product sizes to protect profits. Many are also cutting operational expenses like advertising and travel. Supply chains are being reconfigured to manage disruptions.
@@ -296,12 +296,6 @@ Indian businesses face mounting pressure from soaring oil, freight, and insuranc
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
-
-## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
-The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
-
-## Rajesh Exports: All that glitters is not gold
-Rajesh Exports, a listed entity is in the eye of the storm after the Securities and Exchange Board of India (SEBI), in its 109-page interim order, stated that 97% to 99% of the nearly Rs 15 lakh crore revenue reported by the company was "inflated, egregious, and unheard of." The obvious question is:
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
@@ -314,6 +308,9 @@ The government is considering selling up to a 2% stake in Hindustan Zinc Ltd., a
 
 ## RBI MPC Meeting 2026: Sanjay Malhotra & co warn weak monsoon could stir food inflation despite price stability
 RBI monetary policy meeting: India's monsoon season is critical for farms and prices. A weak monsoon could impact crop yields and raise food costs. The Reserve Bank of India is watching weather closely. Inflation has already risen slightly. Experts warn of price pressures from rain, energy, and curr
+
+## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
+The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
 
 ## Parliamentary Finance panel concerned over slow private investment despite substantial surge in public capex
 Parliamentary panel on finance raises concern over private investment not keeping pace with government capex, with Standing Committee on Finance Chairman Bhartruhari Mahtab on Thursday saying the issue remains a key challenge for the Indian economy even as public capital expenditure continues to ris
