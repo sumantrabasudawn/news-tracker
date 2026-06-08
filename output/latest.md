@@ -1,61 +1,76 @@
 # AION Intelligence
 
-## Wall Street stocks rebound after AI-led rout
-Buyers step in after Friday fall that rattled global markets
+## Starmer rallies ministers in attempt to build support against Burnham
+Prime minister insisted he would fight Greater Manchester mayor in any leadership contest
+
+## Intesa’s bid for MPS restores some sanity to Italy’s M&A scene
+An Intesa victory might be appealing to Prime Minister Giorgia Meloni
+
+## Sam Bankman-Fried seeks Trump pardon
+CEO of collapsed crypto exchange FTX has served three years in prison for misappropriating billions in customer funds
+
+## The incredible shrinking influence of Putin’s Russia
+Armenia is the latest country to leave Moscow’s orbit
 
 ## Berlin pulls plug on Franco-German fighter jet
 Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
 
+## Israel and Iran halt counterstrikes
+Donald Trump urges both sides to ‘stop shooting’ as he pursues ceasefire extension
+
+## Wall Street stocks rebound after AI-led rout
+Buyers step in after Friday fall that rattled global markets
+
+## London mansion with mystery owner close to £190mn sale
+The Holme, set in four acres in Regent’s Park, previously sold for £139mn in 2024
+
+## We need to learn how to argue with AI
+Putting humans in the loop is pointless if they simply rubber-stamp authoritative-sounding information
+
+## WhatsApp accuses NSO of fresh Pegasus targeting
+Court filing argues that the Israeli spyware group breached a permanent US court ban
+
 ## Blackstone looks to sell $2bn of stakes in private investment funds
 One of the biggest deals of its kind will test investor appetite for ageing private equity vehicles
-
-## Italy’s biggest lender offers €30.6bn to buy world’s oldest bank
-Italy’s largest bank says takeover would result in significant cost savings
-
-## Uber’s pursuit of Delivery Hero faces fresh challenge from Saudi start-up
-Riyadh-based Ninja is considering making bid for parts of German group’s Middle East business
-
-## People are starting to eat the rich
-Free-floating rage against a super-wealthy elite could favour economic populists in the midterms
-
-## Turkey probes 95-year-old Rahmi Koç over ‘derogatory’ joke
-Critics warn judicial move against prominent tycoon risks undermining investment in Turkey
-
-## Iran and Israel call halt to military operations
-Retaliatory barrages had tested two-month truce and Trump’s efforts to forge wider peace deal
 
 ## FCA seeks High Court injunction against Neil Woodford over new online service
 UK financial regulator alleges fund manager is providing unauthorised investment advice
 
-## Incyte strikes up to $2bn deal for blood disorder biotech
-Midsized drug manufacturers are supplementing pipelines and scaling up in competition with Big Pharma
+## Italy’s biggest lender offers €30.6bn to buy world’s oldest bank
+Italy’s largest bank says takeover would result in significant cost savings
 
-## Switzerland weighs Franco-Italian alternative to US air defences
-SAMP-T emerges as strong option for Bern as Raytheon’s Patriot system deliveries delayed for at least 5 years
+## India willing to open market to high-quality, innovative pharma products: Goyal
+He projected that India’s pharmaceutical market could grow to USD 120 billion within five years, up from about USD 60 billion currently
 
-## India, US can finalise interim trade pact only after Section 301 investigations concluded, say officials
-New Delhi wants Washington to commit that there will not be any additional tariffs after the pact was sealed
+## 7.8-magnitude Philippines quake kills at least 35, triggers tsunami and building collapses
+The quake caused widespread damage to buildings, disrupted flights, and triggered landslides, including one in Sarangani province that killed 13 people
 
-## Moët Hennessy eyes bigger whisky play in India; launches Glenmorangie The Lasanta 15 Years Old
-The launch comes as parent company Moët Hennessy doubles down on India, one of its fastest-growing markets globally, amid rising premiumisation and growing demand for luxury spirits
+## RBI announces swap window for ECBs and FCNR (B) deposits
+Measures extended hedging support and liquidity management till January 2027
+
+## West-Asia war could reshape the AI race
+As AI spreads across every sector of human activity, the global race to scale it collides with a highly volatile force: geopolitics. This convergence exposes how dependent technology is on physical resources
 
 ## Gold ETF investors exits highest last week for this year; outflows continue for 4th week in a row
 Net investments down 17% last week from May 23, as US, Chinese and Canadian investors lead the negative trend
 
-## Letters to the Editor dated June 8, 2026
+## FY27 Disinvestment proceeds cross full FY25 collections in 2 months; Miscellaneous Capital Receipts exceeds 23% of BE
+Minority stake sales in CPSEs and and asset monetisation drive a strong start to fiscal receipts
+
+## Arnifi launches AI-powered banking, payments platform for corporates
+This platform will allow businesses to access traditional banks, digital banks and payment processors across key global jurisdictions
+
+## Current Account turns into surplus in Q4FY26
+The current account surplus in the reporting quarter, however, is lower than the year ago period’s 1.4%
+
+## Disinvestment push: Government to sell up to 3% stake in NLC India at Rs 303 per share
 
 
-## Bengaluru vs Hyderabad: A tale of two cities that should collaborate, not compete
-While Bengaluru remains India’s undisputed tech capital, Hyderabad is increasingly positioning itself as a compelling alternative, thanks to its strong infrastructure and comparatively smoother traffic conditions
+## Rupee reverses RBI-driven gains, falls 43 paise to 95.61 against US dollar
 
-## Viyona Fintech gets NPCI Bharat BillPay certification as a BOU
-The certification clears Viyona to go live as a Biller Operating Unit, enabling billers across utilities, education, insurance, and financial services to collect payments through India’s Bharat BillPay network
 
-## I want Canara Bank to become the preferred bank for the younger generation: Brajesh Kumar Singh
-For the new MD and CEO of Canara Bank, the first priority “is on the resources side, raising low-cost deposits and improving CASA, which will strengthen overall efficiency”.
+## Sigma Advanced Systems secures Rs 22 million artillery shell bodies export order from North America
 
-## Grasim Industries to invest ₹3,094 cr to add 1.10 lakh tpa Lyocell capacity in Karnataka
-The phase II expansion of Lyocell capacity will consist of two lines of 55,000 tpa each
 
 ## No future tariffs, fair rates, end 'forced labour' probe: What India wants from US trade deal
 India is pushing for preferential tariffs and guarantees against future hikes in ongoing trade talks with the US. New Delhi seeks clarity on proposed US tariffs linked to forced labor and excess industrial capacity concerns. Both nations aim to finalize an interim trade agreement, with discussions g
@@ -72,62 +87,56 @@ Wall Street saw a rebound on Monday, led by technology and AI-linked stocks that
 ## India posts $7.1 billion current account surplus in Q4 as services exports strengthen
 India achieved a current account surplus of $7.1 billion in Q4 FY26, though it was lower than the previous year. Despite a widening merchandise trade deficit, strong growth in services exports, particularly computer and business services, helped maintain the surplus for the quarter. For the full fis
 
-## India's exports rise 15% in April-May despite global uncertainties
+## Haryana groom, 3 others held for SUV stunts in wedding procession
+Sub-Inspector Yashpal was patrolling in Mandikhera village on Sunday and received a video clip of the incident on his mobile phone.
+
+## Row erupts as idol of goddess Vagdevi placed inside Bhojshala complex, ASI accused of removal
+A petitioner from the Hindu side has blamed the ASI for the removal of the idol, while a representative from the Muslim side has objected to its installation.
+
+## ‘BRS trying to defame Cong govt’: Telangana minister hits back after row over CM Revanth Reddy's Hitler remark
+Revanth Reddy's remarks that he drew inspiration from Nazi dictator Hitler while naming HYDRAA sparked a political row with BRS and BJP, criticising him.
+
+## Justice Katju floats ‘Ishq Karo Party’ to fight poverty, unemployment in India: ‘Not for romance between boys and girls’
+Justice Katju even offered Trinamool Congress MP Mahua Moitra to join his new party, with his X feed being filled with his criticism of the CJP.
+
+## India calls for de-escalation in West Asia after Iran-Israel tit-for-tat strikes
+Iran’s armed forces announced the end of military strikes against Israel after US President Donald Trump called on both countries to stop “shooting”
+
+## Key mid-year climate meeting opens in Bonn; fossil fuels, adaptation on agenda
+The delegation from the union environment ministry which will represent India are attending the sessions virtually, according to those aware of the matter
+
+## Indian workers among 7 killed in Dubai as minibus collides with truck
+The accident took place when a truck had stopped in the middle of the road due to a technical fault and the minibus rammed into it from behind.
+
+## Manipur villager who went to collect firewood shot dead in Kangpokpi district
+The local body described it as a matter of serious concern and asked for a thorough and impartial investigation by the competent authority
+
+## Inside Mithoon-Palak Muchhal’s lavish home: Gucci sheets, walk-in closet, modern décor
 
 
-## BPCL to shut key Mumbai refinery unit in November for maintenance: Report
+## Nithya Raman gains ground on Pratt for second Los Angeles Mayor spot
 
 
-## SpaceX IPO explained: Can Indians invest and how does it work?
-SpaceX's monumental $1.75 trillion IPO is generating immense global interest, with bankers reporting double the demand for available shares. While Indian investors cannot directly participate in the IPO allotment, they can invest in SpaceX shares on secondary markets after listing through internatio
-
-## Why AAP launched fresh attack on Cong ahead of INDIA bloc's big Delhi meet: Reason lies northwards
-The one big state where Arvind Kejriwal's party and the Congress remain locked in a live, direct contest is Punjab.
-
-## Oman Air Force rescues 24 Indians from tanker that caught fire after alleged hit
-The shipping ministry coordinated with MEA, the Indian mission in Oman, the defence ministry and Indian Navy to ensure the safety of the crew members
-
-## 'Meetings inside a car': BJP's Sambit Patra hits out at INDIA bloc, casts doubts on opposition unity
-BJP MP Sambit Patra made sharp remarks against Leader of the Opposition in Lok Sabha, Rahul Gandhi, saying in his presence ‘no one’s future will prosper'.
-
-## CID issues 3rd summons to TMC’s Abhishek Banerjee in signature forgery case
-The two legislators alleged that signatures of several TMC MLAs were forged on a May 19 resolution nominating Sobhandeb Chattopadhyay as the assembly’s LoP
-
-## Cockroach Janata Party to hold protest in Pune on June 11 seeking Pradhan's resignation
-The protest will take place at the Savitribai Phule Pune University (SPPU) at 4 pm on June 11.
-
-## Molten metal was at 1600°C, being moved in giant bucket: What we know about Vizag steel plant mishap
-While trade union leaders reportedly claimed to have recovered nine bodies, RINL management has not yet issued an official statement confirming the death toll.
-
-## At INDIA bloc meeting, Congress is called ‘glue’ as 23 parties target 2029
-Kharge said the INDIA bloc decided to write to the Chief Justice of India over SIR, hold more frequent meetings and seek the education minister’s resignation
-
-## Mahua Moitra with Mamata amid TMC implosion, flays 'traitors with yellow-stained pants', targets Pathan with a Shah jibe
-“MPs won in 2024 on TMC ticket. Mandate was NOT for NDA,” the MP wrote on X on Sunday evening, even as some rebel MPs said they were aligning with BJP regime
-
-## Bihar cleric’s train death solved: How video by exam aspirants led cops to accused
+## Ben Stokes, Gus Atkinson being investigated over nightclub ‘incident’
 
 
-## Slumdog teaser: Vijay Sethupathi issues a chilling warning in Puri Jagannadh’s next
+## YouTuber flags glass shards buried at Goa beach; photos trigger concern
 
 
-## 40% of Pak smugglers pushing drugs into Punjab located in Lahore, Kasur
+## Worli concert tragedy: Victim’s brother blames organizers for delayed medical aid
 
 
-## Sooryavanshi humiliating great bowlers exposes cricket’s systemic ills: Chappell
+## First a blast, then molten steel at 1,500°C falls to floor: What we know about Vizag Steel Plant accident
 
 
-## India deploys active nuclear warheads: What changed in 2025?
+## Delhi LG asks to explore inducting ex-Agniveers to strengthen fire department
 
 
-## ‘Better off that way’: Shashi Tharoor rejects viral idli-chai combo; expert weighs in
+## England hoping Jofra Archer is available for 2nd Test vs NZ, says Brendon McCullum
 
 
-## TMC unravels: Inside party MPs’ revolt against Mamata Banerjee
-
-
-## Bombay High Court grants bail to Sheetal Tejwani in Rs 1,800-crore Mundhwa land deal case
-
+## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
+[The content of this article has been produced by our advertising partner.] Across the Asia Pacific region, the economics of office occupancy have changed materially. Fit-out costs in Sydney, Tokyo, Hong Kong, and Singapore have surged past US$270 per square foot at mid-specification. Grade A rents 
 
 ## Leaks and backdoors: China warns of security risks in relay services for foreign AI models
 China’s national security authority has warned of risks in using “artificial intelligence relay services” that provide access to overseas AI models, highlighting concerns over data leaks, privacy breaches and unauthorised cross-border data transfers amid a thriving grey market for restricted foreign
@@ -150,8 +159,11 @@ Next-generation Chinese electric-vehicle (EV) batteries that charge in minutes a
 ## The ‘world’s toughest gym’: how global companies fight to survive in China
 Foreign executives used to come to China to study shoppers. Today, many come to study their future competitors. That shift, according to Joe Ngai, chairman of Greater China at McKinsey & Company, says almost everything about how China’s role in the global economy has changed. For much of the past tw
 
-## Hong Kong stocks pare losses as AI rallies in Asia unwind on US rate-increase anxiety
-Taking its cue, Hong Kong stocks fell alongside other markets in Asia on Monday, as rising bets on an interest-rate increase following a blowout US jobs report raised fears of capital outflows from the region alongside the unravelling of the AI rallies in mainland China and South Korea. The Hang Sen
+## Show Us the Money
+How satire, social media, and shame are forging Syria’s new public square.
+
+## China Is Providing AI That’s Literate in Africa’s Languages
+Chinese models have become the overwhelming choice for African developers.
 
 ## China Is Making MAHA’s Favorite Drug
 RFK fans and China hawks are on a collision course over peptides.
@@ -170,12 +182,6 @@ Even in the face of tariffs and an energy crisis, the jobs report shows an econo
 
 ## Zelensky’s Pen Pal Diplomacy
 Zelensky offers in-person peace talks in a rare open letter to Putin. Moscow isn’t interested.
-
-## Maggie O’Farrell’s Most Ambitious Novel Yet
-Plus, a Venezuelan thriller in translation.
-
-## How Ukraine Has Turned the Tide
-Resilience, technology, and European support have put Russia on the back foot.
 
 ## Thailand Says It Will Join UN-Backed Conciliation on Maritime Dispute With Cambodia
 Thai Foreign Minister Sihasak Phuangketkeow said that Bangkok will cease all other bilateral talks while mediation is in progress.
@@ -201,6 +207,9 @@ The controversial comment was made on the eve of ruling party chief Ravi Lamichh
 ## Uzbekistan, Russia Celebrate Start of Nuclear Power Plant Construction… Again
 Tashkent and Moscow celebrated the start of construction on the plant – two months after the companies involved celebrated the same thing.
 
+## Is Skepticism Ukraine’s Foreign Policy Playbook?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
+
 ## The Lawmakers Fighting to Modernize the Pentagon
 Congress rarely moves fast, but Reps. Rob Wittman and Pat Ryan are trying to change that. The two lawmakers founded the bipartisan House Defense Modernization Caucus in 2024 and have driven reforms through two consecutive defense authorization acts, targeting acquisitions and other bottlenecks. Jona
 
@@ -221,9 +230,6 @@ China’s plan to become a world leader in AI by 2030 is a fixture of practicall
 
 ## Revisiting The Importance of the Battle of Midway
 The Battle of Midway has assumed a place in American naval lore that has put it on par with other great battles in world naval history. What Salamis was for the Greeks, Trafalgar for the British Royal Navy, and Tsushima for the Japanese, the clash northwest of Midway Island on June 4, 1942, represen
-
-## Wrong Audience, Wrong Ask: Why Trump’s Abraham Accords Gambit Falls on Deaf Ears
-When President Donald Trump repeatedly pressed regional leaders on Abraham Accords expansion late last month — framing Arab-Israeli normalization as a debt owed and a condition for a settlement to end the Iran war — he apparently commented there had been silence on the other end of the line.Arab and
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge strikes down Trump’s $100,000 H1-B visa fee
+In a ruling on Monday, a federal judge said the fee was a tax that Trump didn't have authority to impose.
+
+## Race tied between left- and right-wing rivals in Peru’s presidential vote
+The split illustrates deep political polarisation in the South American country.
+
+## Three rescued, one killed in Russian drone strike on Ukraine block
+Three rescued, one killed in Russian drone strike on Ukraine block.
+
+## 7.8 magnitude earthquake leaves dozens dead in the Philippines
+A powerful 7.8 magnitude earthquake struck the southern Philippines off the island of Mindanao, killing at least 32.
+
+## How Lebanon became the breaking point for the Iran war ceasefire
+Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.
+
+## ‘Strategic doctrine’: Iran hails military shift after Beirut raid response
+Iranians describe attacks on Israel as part of military approach prioritising 'taking initiative and offensive power'.
+
+## Lebanon’s children face physical, psychological trauma amid Israel’s war
+Experts warn of lasting trauma for Lebanon's children as war continues to shatter their sense of safety.
+
 ## Lebanon Latest: Israel pushes deeper as conflict escalates
 The latest developments from southern Lebanon amid escalating Israeli attacks.
-
-## ‘Lives turned in a second’: Family of baby Sam, shot dead by Israel, grieve
-A father speaks of the moment his seven-month-old Palestinian son was shot dead in the West Bank by an Israeli soldier.
-
-## IAEA chief says Iran-US nuclear talks in ‘complicated phase’
-IAEA chief says Iran-US nuclear talks in 'complicated phase'.
-
-## Why was Israel spared scrutiny for the 1967 USS Liberty attack?
-US Representative Massie set to honour the crew of the vessel on the House floor, bringing attention to the 1967 attack.
-
-## Meta to take legal action against Israeli spyware company NSO
-WhatsApp disrupted phishing attempts linked to NSO, blacklisted by the US for security concerns.
-
-## How extreme weather and heat could affect players at World Cup 2026
-Climate experts warn that 25% of World Cup games could be played in very hot conditions, affecting fans and players.
-
-## Texas-bound jet crashes during emergency landing in Dominican Republic
-Texas-bound private jet crashes during emergency landing in Dominican Republic.
-
-## Al Jazeera explains China-North Korea ties as Xi visits Pyongyang
-China’s Xi Jinping is visiting North Korea for the first time in seven years.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
