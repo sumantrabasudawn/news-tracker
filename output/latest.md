@@ -1,136 +1,145 @@
 # AION Intelligence
 
-## Tech sell-off widens as South Korea plunges
-Asian markets start the week sharply lower after Nasdaq’s big Friday fall
+## Tech sell-off widens as South Korea index plunges
+Asian markets start week sharply lower after Nasdaq’s big Friday fall
 
-## Chips, ships and guns: South Korea booms on AI race and global conflict
-Asia’s fourth-largest economy is in a sweet spot as its biggest companies capitalise on geopolitical trends
+## Intesa gatecrashes rival’s bid for Monte dei Paschi with €30.6bn offer
+Italy’s largest bank says takeover would result in significant cost savings
 
-## UK employers hiring more temps as staff costs rise
-Companies wary of committing to permanent workers amid uncertain economic outlook, according to survey
+## Israel and Iran trade air strikes as ceasefire falters
+Retaliatory barrages test 2-month truce and Donald Trump’s efforts to forge wider deal
 
-## Plan to tighten healthy food rules provokes backlash from UK industry
-Businesses warn that proposed changes to ‘nutrient profiling model’ risk stoking inflation and reducing investment
+## Peru’s presidential rivals in neck-and-neck race after election run-off
+Results too close to call as rightwing autocrat’s daughter vies with leftist lawmaker
 
-## Iran launches ballistic missiles at Israel
-Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah
+## Did jobs just kill the bull market?
+The AI trade meets higher rates
 
-## Oil prices jump after Iran missiles threaten fragile ceasefire
-Traders worry that new strikes could escalate into a return to all-out conflict in Middle East
+## European capitals push for talks but Putin remains unmoved
+Also in this newsletter: Kosovo’s ruling party wins a second snap election in six months
 
-## Trump says Netanyahu will have ‘no choice’ but to accept a deal with Iran
-US president tells FT that he ‘calls the shots’ after urging the Israeli leader not to retaliate against Tehran
+## Fashion designer Nili Lotan’s Tribeca
+The minimalist womenswear designer has built her label — and her life — within a few blocks of Duane Street. She shares her perfect day
 
-## FirstFT: Iran launches missiles at Israel for first time since ceasefire
-Also in today’s newsletter: OpenAI plots ChatGPT overhaul, and an interview with Tokio Marine’s CEO
+## FirstFT: AI-powered espionage triggers Putin camera scare
+Also in today’s newsletter: Iran deal and UK bank taxes
 
-## Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger
-Board of Italy’s largest lender meets hours after rival proposed potential tie-up with MPS
+## UK AI start-up PhysicsX hits $2.4bn valuation following Temasek-led deal
+London-based group raises $300mn to become one of the UK’s most valuable AI groups
 
-## Airlines face $100bn hit on jet fuel from Iran energy shock
-Industry body warns that profits will be halved by surging energy costs
+## United Airlines boss puts Rolls-Royce “in the doghouse” over contract spat
+Clash comes amid industry frustrations over engine delivery delays
 
-## Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances
-Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent
+## The World Cup offers pubs a chance to change the story
+Tournament gives the industry a chance to pull in more punters and pull more pints
 
-## Opec+ increases production quotas for fourth successive month
-Impact of decision will be limited by shipping restrictions
+## European drivers cut back on fuel as energy price shock bites
+Eurozone records largest year-on-year decline in fuel sales since October 2023
 
-## Trump urges Netanyahu not to retaliate against Iran as peace deal nears
-According to reports, Trump told Netanyahu that a peace agreement could be reached within days and also called on Iran to return to the negotiating table.
+## New AI espionage powers trigger Putin camera scare
+Russia paused surveillance system after killing of Iran’s Supreme Leader exposed how AI can be used on CCTV data to target enemies
+
+## What steps India has taken to stem pressure on its external balance of payments
+
+
+## China dominates low-carbon industrial projects, US lags, report says
+The total pipeline of announced low-carbon industrial projects is 969 in sectors that include ‌chemicals, aviation, cement and metals
+
+## Saving Siri: After two years of stumbles, is Apple's AI moment here?
+Apple’s challenge is that data is locked ⁠down in its operating systems in the name of privacy and security
+
+## India Inc hikes prices, shrinks packs as Iran war squeezes margins
+Sectors with high global exposure, including aviation, oil and gas, chemicals, logistics and capital goods, may remain under margin pressure, say analysts
+
+## IMF chief warns world isn’t ready for shocks that are piling up
+“I am worried that we are not completely internalizing yet that this is how the world is going to be,” International Monetary Fund Managing Director Kristalina Georgieva said.
 
 ## South Korea’s KOSPI plunges nearly 9%, circuit breakers halt trading
 The steep losses prompted the activation of market-wide circuit breakers, halting trading for 20 minutes to curb volatility.
 
-## Nvidia signs AI data centre deals with South Korea’s SK Hynix, Naver and Doosan
-Nvidia strengthened its South Korea ties with new AI infrastructure deals, partnering with SK Hynix on next-generation memory technology and supporting SK Telecom’s ambitious gigawatt-scale AI cloud plans.
+## Odisha SHG exports Amrapali mangoes to London
+Maa Kalijai group’s 7.5 quintal consignment highlights growing success of farmer collectives in agri-exports under PSFPO project
 
-## Israel strikes Beirut's southern suburbs days after US-supported ceasefire deal
-The strike hit a residential building, damaging four of its seven floors. An unexploded weapon was found in the rubble
+## Buzzing stocks: Allied Blenders, RailTel, TVS Motor Co, RInfra, Ixigo, HCC
+Focus will also be on Alembic Pharma, Glenmark, Nibe Defence, Asian Energy, Innovation, HEC Infra projects
 
-## Asian stocks sink amid tech sell-off, rising oil prices and rate hike fears
-South Korea’s KOSPI dropped more than 6.8%, while Japan’s Nikkei lost 3.4%
+## Stock market crash today: Rs 5 lakh crore wealth gone! Why are BSE Sensex, Nifty50 down today? Top reasons for fall
+Selling was widespread across the market. Every stock in the Sensex basket traded in negative territory. The weakness was equally visible beyond the benchmark indices. The Nifty Midcap 100 and Nifty Smallcap 100 both lost more than 1%, reflecting a broad risk-off mood among investors.
 
-## Sensex today | Stock Market Live: Stock to buy today: The Phoenix Mills (₹1,745.20)
-Sensex, Nifty, Stock Price Live Updates: Traders can consider buying the stock of The Phoenix Mills now at ₹1,745 and accumulate if the price dips to ₹1,700
+## Rupee begins week at 95.35 against US dollar amid Middle East chaos
+The rupee opened lower against the dollar, influenced by a stronger greenback, rising crude oil prices, and geopolitical tensions in the Middle East. This decline followed a strong gain on Friday, as investors remained cautious ahead of key US economic data and potential Federal Reserve interest rat
 
-## Powerful 8.2-magnitude earthquake strikes Philippines, tsunami threat issued
-German Research Centre for Geosciences had initially estimated the magnitude at 7.3 before revising it higher
-
-## Iran fires missiles at Israel, raising fears of renewed West Asia conflict
-The escalation follows Israeli strikes in Beirut and comes as international mediators seek to revive negotiations between Tehran and Washington
-
-## Net-zero challenge: Sustainable aviation fuel account just 0.8% of aviation fuel use in 2026, says IATA
-Sustainable Aviation Fuel (SAF) production is critically low, meeting only 0.8% of demand by 2026, IATA reports. Airlines face a $4.3 billion SAF bill this year, with insufficient policy support hindering progress. Experts warn unrealistic mandates, especially for e-SAF, could inflate prices and div
-
-## Bullion outlook: Gold, silver investors to track Middle East tensions, US and India inflation readings
+## Stock Market Live Updates Today: BSE Sensex crashes over 900 points in opening trade, Nifty50 near 23,100 as fresh US-Israel-Iran tensions erupt; crude oil prices rise
 
 
-## Stock market outlook: Key triggers that could shape Dalal Street next week
+## Top stocks to buy: Stock recommendations for June 8, 2026 week - check list
+Stock market recommendations: Shriram Finance, Cummins India are the top stocks that Motilal Oswal Wealth Management Research Desk has recommended for the week starting June 8, 2026. The brokerage has also shared target levels and possible upside.
+
+## Gold, Silver Rate Today Live Updates: International gold prices drop as rate hike fears on higher inflation reduce safe haven appeal
 
 
-## OPEC+ approves fourth straight oil output hike, raises July targets by 188,000 bpd
-OPEC+ agreed to a fourth consecutive oil production target increase of 188,000 barrels per day from July, despite ongoing US-Iran conflict disruptions. This decision comes as major Gulf producers struggle to meet demand due to export issues through the Strait of Hormuz.
+## Titan, Bharti Airtel & more: Top stocks to watch on June 8
+Analysts are bullish on Titan, projecting strong jewellery revenue growth and market share gains. Bharti Airtel's mobile money arm, Airtel Money, is set for a significant IPO. Adani Ports shows robust cargo volume growth, exceeding expectations. Maruti Suzuki is poised to benefit from first-time buy
 
-## US mortgage rates ease to 6.48%, slips from from nine-month high
-The average rate for a 30-year fixed mortgage eased to 6.48% last week, offering slight relief to homebuyers. This decline follows a recent climb to a nine-month high, influenced by inflation concerns and elevated oil prices. Despite the dip, rates remain higher than earlier this year, continuing to
+## 100 days of Middle East crisis: Oil prices jump over 3% as Iran-Israel resume war
+Middle East tensions surged, pushing oil prices up over 3% as the crisis hit its 100th day with little peace progress. Recent Israeli strikes in Iran and Lebanon, despite a truce, have dimmed hopes for a deal and reopening the vital Strait of Hormuz. OPEC+'s approved output increase faces hurdles du
 
-## Gautam Adani regains title of Asia's richest person as net worth hits $89.2 billion: Forbes
-Gautam Adani has reclaimed the title of Asia's richest person, surpassing Mukesh Ambani. His net worth surged by approximately $2.5 billion on Friday, driven by significant gains across Adani Group's listed companies like Adani Power and Adani Green Energy. This impressive comeback follows the dismi
-
-## Airlines face profit crash: 2026 earnings nearly halved as fuel shock hits aviation
-Global airlines face a profit plunge in 2026, nearly halving earnings to $23 billion due to soaring fuel costs and Middle East conflict disruptions. Despite strong passenger demand and projected record revenues exceeding $1.1 trillion, profitability per passenger is expected to drop significantly. T
-
-## Private investment announcements jump to Rs 56 lakh crore in FY26, says SBI Research
-Private investment announcements have surged to Rs 56 lakh crore in FY26, a significant jump from Rs 37 lakh crore last year, indicating robust capital expenditure growth. Manufacturing leads new proposals, with power and building infrastructure also showing strong contributions. This trend, coupled
-
-## TMC keeps eye on MPs as Didi arrives in Delhi
-Mamata Banerjee reconstituted the TMC’s national working committee at a party meeting at her residence on June 5.
-
-## Death toll rises to 22 in Delhi's Hauz Rani fire as 39-year-old Nigerian dies
-A total of 49 injured guests were evacuated from the Flourish Stay B&B after a fire erupted around 8:30 am on Wednesday.
-
-## 2022 ‘rebellion’ was against Sachin Pilot, not Congress high command, says Ashok Gehlot
-Ashok Gehlot argued that if it had truly been a rebellion against the Congress high command, he would not have remained CM afterwards.
-
-## ‘It was gorgeous’: Ex-US First Lady Jill Biden wanted to buy the diamond gifted by PM Modi
-However, under US ethics rules, gifts received by the president and first lady during official engagements belong to the federal government.
-
-## Retired Bombay high court judge faces threats, family in UK attacked over 2024 Dawoodi Bohra verdict
-This alleged campaign of threats and violence arises from Justice GS Patel’s 2024 judgment affixing who the real spiritual head of the Dawoodi Bohra community.
-
-## ‘My father remains one of the tallest leaders’: Yatindra Siddaramaiah
-Yatindra Siddaramaiah, Karnataka's new urban development minister, discusses the Congress government's priorities, caste survey, and his father's legacy.
-
-## ICSSR launches ₹18-crore research scheme for undergraduates
-The ICSSR has launched a ₹3 lakh fellowship for 600 undergraduate projects on "Youth and Decolonisation," promoting Indian-centric research approaches.
-
-## Nabin directs BJP Uttarakhand unit to intensify outreach initiatives
-BJP chief Nitin Nabin urges Uttarakhand unit to unite for elections, focusing on outreach and addressing concerns, while managing intra-party differences.
-
-## 40 years ago June 8, 1986: Ten shot dead in Punjab
+## ‘How to have financially strong airlines,’ India finally begins to figure out
 
 
-## Why Iran has linked US peace deal more to Lebanon than to Gaza
+## TMC leader Jahangir Khan arrested near India-Nepal border in extortion case
+TMC leader Jahangir Khan arrested near India-Nepal border in extortion case
+
+## 3 reasons why Vijay-led TVK will not be a part of today's INDIA bloc meeting
+Vijay's absence has raised eyebrows because the Congress, a key INDIA bloc constituent, is now a partner in the TVK-led government in Tamil Nadu.
+
+## Suraj Hegde, AICC functionary and Karnataka leader, dies of cardiac arrest at 55
+Suraj Hegde, who was the former in-charge of the Indian Youth Congress, was the grandson of former Chief Minister Devaraj Urs.
+
+## Odisha woman’s body dug out 26 days after she was killed by her boyfriend
+Police said Sahaja Alda, 26, allegedly killed the woman in Odisha’s Keonjhar suspecting she was in a relationship with another man
+
+## Orange, yellow alerts in Kerala as heavy rain continues to lash state | Check IMD forecast
+The southwest monsoon remained active in Kerala on Monday and orange and yellow alerts remain in force across the state.
+
+## What Supreme Court’s proposed regulations for AI use in courts mean
+This is a direct response to a growing global problem with lawyers citing non-existent judgments generated by AI systems
+
+## INDIA bloc meeting LIVE: Omar Abdullah, Akhilesh, Supriya Sule arrive in Delhi ahead of INDIA bloc meeting at 12pm
+INDIA bloc meeting LIVE: A total of 23 political parties will take part in the meeting and will rework the strategy to take on the Bharatiya Janata Party (BJP). However, DMK and Arvind Kejriwal's Aam Aadmi Party (AAP) are set to skip the meeting.
+
+## Jaipur on high alert ahead of temple, mosque demolition: Internet shut, 3,000 cops on duty
+Officials say the widening of Nandpuri Road will ease congestion and improve connectivity, but the demolition drive has drawn criticism.
+
+## Shivam Associates collected Rs 2,400 crore, diverted Rs 55 to personal accounts: police
 
 
-## NFHS-6 data on child nutrition carries sobering warnings
+## Trinamool Rajya Sabha MP Sukhendu Sekhar Roy resigns, says ‘I was unhappy in party’
 
 
-## In cotton fields, policy is undoing what science built. That’s the challenge for the Cotton Productivity Mission
+## Why financial independence doesn’t guarantee happiness for Dia Mirza: ‘Not enjoying what I am doing’
 
 
-## What the Pope talks about when he talks about human dignity
+## Iran launches ‘Operation Nasr’, targets 2 Israeli airbases
 
 
-## Let’s resist easy indictments of Indian Knowledge Systems
+## 525 child rape victims faced pregnancy in 5 years, Allahabad High Court slams ‘systematic denial’ of abortion
 
 
-## Amid rising frequency of global shocks, a moment to activate growth drivers within domestic control
+## Delhi government ITI admission 2026: Registration opens today at itidelhi.admissions.nic.in
 
 
-## Weekly Horoscope, 08-June to 14-June-2026: Explore our weekly horoscope and navigate the week ahead with confidence
+## Rajasthan PTET 2026 Admit Cards: Hall tickets releasing today at vmou.ac.in
 
+
+## Second theft: How scammers use a lost iPhone to steal your identity
+
+
+## The ‘world’s toughest gym’: how global companies fight to survive in China
+Foreign executives used to come to China to study shoppers. Today, many come to study their future competitors. That shift, according to Joe Ngai, chairman of Greater China at McKinsey & Company, says almost everything about how China’s role in the global economy has changed. For much of the past tw
+
+## Hong Kong stocks slump as AI rallies in Asia unwind on US rate-increase anxiety
+Hong Kong stocks slumped alongside other markets in Asia on Monday, as rising bets on an interest-rate increase after a blowout US jobs report raised the fear of capital outflows from the region and the unravelling of the AI rallies from the Chinese mainland and South Korea. The Hang Seng Index fell
 
 ## AXA, Standard Chartered eye expansion in Hong Kong’s booming offshore wealth market
 French insurer AXA and London-headquartered Standard Chartered will both launch new offerings aimed at capturing high-net-worth clients this week, indicating that the recent regulatory tightening of cross-border investment by mainland investors has failed to dampen plans by international financial f
@@ -145,16 +154,13 @@ Property developers are focusing on building shopping centres featuring lush gre
 Since 2014, the Stock Connect scheme has become a major channel for Hong Kong and international investors to buy stocks on the Chinese mainland. But cross-border traders have grown frustrated in recent months, as they have been unable to access a wave of blockbuster listings by AI companies on the m
 
 ## ‘It’s the wealth effect’: Hong Kong luxury malls thrive amid IPO gains, housing recovery
-Hong Kong’s new status as the world’s top cross-border wealth hub, overtaking Switzerland, alongside a recovering local housing market and strong initial public offerings (IPOs), is translating into a boom for high-end malls, with landlords enjoying improved revenues and rents. Hard luxury and jewel
+Hong Kong’s new status as the world’s top cross-border wealth hub, overtaking Switzerland, alongside a recovering local housing market and strong initial public offerings (IPOs), is translating into growth for high-end malls, with landlords enjoying improved revenues and rents. Hard luxury and jewel
 
 ## China will enhance regulation of programme trading: CSRC chairman
 Chinese authorities plan to enhance regulation of programme trading to clamp down on market misconduct, the head of the China Securities Regulatory Commission (CSRC) said on Saturday. Hedge funds and institutional investors are increasingly managing their portfolios in China via programme trading, w
 
-## Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA
-Mainland customers can still open bank accounts in Hong Kong, but banks must adopt stringent new checks to ensure their processes are “compliant and orderly”, the Hong Kong Monetary Authority (HKMA) said in a statement on Saturday. “The banking industry has implemented the new regulatory requirement
-
-## Chinese carriers seize two-thirds share of post-pandemic air routes
-Chinese carriers have captured an expanding slice of the international air travel market for routes connecting Chinese and overseas cities since the Covid-19 pandemic, according to data presented at an industry summit in Beijing on Friday. Local carriers currently held a 66.5 per cent market share c
+## Trump Is Doing What FDR Could Not
+But the president’s success at purging his party could cost the GOP in the long term.
 
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
@@ -176,9 +182,6 @@ How Europe has learned to live with great-power politics.
 
 ## Romania Has Perfected the Art of Forgetting
 In a new memoir, Nobel laureate Herta Müller condemns her homeland for failing to reconcile with history.
-
-## What in the World?
-Test yourself on the week of May 30: Malta votes, Japan responds to militarism accusations, and Iran pauses talks with the U.S.
 
 ## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
 Why Seoul picked the PPP incumbent yet again, and what it means for the city.
@@ -252,29 +255,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yamal, Williams to be available for Spain’s opening World Cup match
+Star forward Yamal expected to be ready after suffering a groin injury that kept him out of a pretournament friendly.
+
+## Satellite images show destruction of the US-Israel war on Iran
+From Iranian naval ports to US military bases across the Gulf, Al Jazeera shows 15 sites before and after the attacks.
+
+## Debris reported in Jordan after Iranian missiles aimed at Israel intercepte
+Missiles believed fired from Iran toward Israel were seen over Jordan, with one reportedly intercepted.
+
+## Peru’s Sanchez visits jailed ex-president as votes are counted
+Peruvian presidential candidate Roberto Sanchez visited jailed former president Pedro Castillo.
+
 ## How Mexican cartels turned South African farms into meth production hubs
 Raids on South African farms have uncovered meth labs linked to Mexican networks, signalling a new cartel phase.
 
 ## Oppenheimer: Trump holds the reins on Netanyahu’s escalation options
 Israeli PM Benjamin Netanyahu has incentives to escalate tensions with Iran but is constrained by US President Trump.
 
-## Tsunami warnings issued after powerful earthquake off Philippines
-Officials in Indonesia, Philippines and Japan warn of tsunami waves after quake off Mindanao.
+## Powerful earthquake hits Philippines, triggering tsunami alerts across Asia
+Officials in Indonesia, the Philippines, and Japan warn of possible tsunami waves after an earthquake off Mindanao.
 
 ## Iran and Israel trade threats after Tehran launches missiles
 Iran and Israel exchanged threats after Tehran launched missiles towards Israel in response to Israeli strikes on Beirut
 
-## Iran war live: Trump urges restraint after Iranian missile attack on Israel
-Escalation comes after Israel attacked Lebanon's capital, Beirut, killing at least two people and wounding 20.
+## Indian firms received far less govt support than Chinese peers during 2005-24: OECD report
+​OECD MAGIC Database of Industrial Subsidies measures what firms actually receive (not what governments disclose), covering 525 of the world's largest manufacturers across 15 key sectors over 2005-24, through three instruments: grants, income-tax concessions, and below-market borrowings (cheap state
 
-## North Korea’s Kim Jong Un inspects munitions at weapons factory
-North Korea has released photos of Kim Jong Un inspecting huge munitions at a weapons factory
+## SC ruling seen shaping Sebi’s fraud-finding frame
+In a ruling, the apex court had said that investor injury alone can establish fraud, although the loss isn’t quantifiable
 
-## Iran’s attack on Israel aims to restore deterrence but avoid return to war
-Iran's attack on Israel aims to restore deterrence but avoid return to war.
+## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
+Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
 
-## Videos show missiles launched from Iran into Israel
-Iranian media has released video showing missiles being launched towards Israel.
+## India Inc hikes prices, shrinks packs as Iran war squeezes margins
+Indian businesses face mounting pressure from soaring oil, freight, and insurance costs. Companies are increasing prices and reducing product sizes to protect profits. Many are also cutting operational expenses like advertising and travel. Supply chains are being reconfigured to manage disruptions.
+
+## Rajesh Exports likely to be dropped from PLI scheme, final decision in days: Sources
+​The matter will be placed before Minister of Heavy Industries H D Kumaraswamy, who has returned from an official trip to Kyrgyzstan. "A final call will be taken in the coming days," a source said.
 
 ## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
 India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
@@ -284,21 +302,6 @@ The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cen
 
 ## Rajesh Exports: All that glitters is not gold
 Rajesh Exports, a listed entity is in the eye of the storm after the Securities and Exchange Board of India (SEBI), in its 109-page interim order, stated that 97% to 99% of the nearly Rs 15 lakh crore revenue reported by the company was "inflated, egregious, and unheard of." The obvious question is:
-
-## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
-Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
-
-## BIT sweeter? India weighs easing treaty rules with safeguards to attract foreign capital
-As the world shifts economically, India is set to revamp its investment treaty frameworks. The government is exploring options to simplify the timelines for foreign entities aiming for global arbitration. This proactive step is aimed at enticing foreign investment into the country, while also incorp
-
-## ICAI reinforces mandatory forensic audit, sustainability assurance norms in revised Code of Ethics
-Updated framework reiterates applicability of forensic investigation, ESG assurance and social impact assessment standards, underscoring the profession's expanding assurance responsibilities.
-
-## M3M targets Rs 28,000 crore in sales by FY27, plans to deliver one crore Sq Ft annually, Director Finance Wahaal says
-M3M India aims to deliver nearly one crore square feet annually, backed by a pipeline of 10,000 apartment deliveries and an expanding branded residences project on Dwarka Expressway. The real estate major is focusing on scale and product elevation, targeting ultra-HNIs with premium facilities and ex
-
-## Price shock: How Middle East conflict has raised inflation risks, squeezed corporate margins
-The prolonged conflict in the Middle East has emerged more as a price shock than a growth shock for India, with rising energy costs feeding into wholesale inflation and corporate margins while economic activity remains relatively resilient.
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
