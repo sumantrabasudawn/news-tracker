@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump’s $100,000 H-1B visa fee blocked by judge
+Ruling says six-figure charge is an unauthorised tax and orders it to be suspended
+
 ## OpenAI files to go public in blockbuster Wall Street listing
 ChatGPT creator has submitted paperwork for IPO expected to value company at more than $1tn
 
@@ -21,14 +24,8 @@ Silicon Valley giant seeking to differentiate itself with a commitment to privac
 ## Wall Street rebounds as traders race back into chip stocks
 Intel and Micron among big gainers as fervour over AI-linked shares resumes
 
-## Trump’s $100,000 H-1B visa fee blocked by judge
-Ruling says the six-figure charge is an unauthorised tax and ordered it to be suspended
-
 ## AstraZeneca advances weight-loss pill to take aim at obesity leaders
 Pill from drugmaker would put it into competition with market leaders Novo Nordisk and Eli Lilly
-
-## Berlin pulls plug on Franco-German fighter jet
-Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
 
 ## From Siri AI to child safety tools: key takeaways from Apple’s WWDC 2026
 Apple unveiled a major Siri AI overhaul and expanded Apple Intelligence features at WWDC, along with new child safety tools, photo editing upgrades and deeper integration across its ecosystem
@@ -78,6 +75,12 @@ Wall Street saw a rebound on Monday, led by technology and AI-linked stocks that
 ## India posts $7.1 billion current account surplus in Q4 as services exports strengthen
 India achieved a current account surplus of $7.1 billion in Q4 FY26, though it was lower than the previous year. Despite a widening merchandise trade deficit, strong growth in services exports, particularly computer and business services, helped maintain the surplus for the quarter. For the full fis
 
+## US Navy attacks tanker with 24 Indian crew, all rescued
+The fire was reported by the crew of MT Marivex, which was not carrying any cargo, at 1.30 pm, Opesh Kumar Sharma, director in the shipping ministry, told a media briefing.
+
+## Unattended oil fryer, cook on break: Police reveals series of events that led to deadly fire at Delhi's Malviya Nagar
+The cook told the police he switched on a fryer containing oil and then prepared tea for himself. While drinking tea, he forgot that the fryer was still running
+
 ## Dalit teen beaten to death in Uttarakhand's Tehri Garhwal over inter-caste friendship
 The deceased, Ketan Lal, was a resident of Deval village. His injured friend, Diwakar Dimri, was admitted to the district hospital in Baurari.
 
@@ -96,11 +99,23 @@ Revanth Reddy's remarks that he drew inspiration from Nazi dictator Hitler while
 ## After Cockroach Party, Ex-SC judge floats 'Ishq Karo Party' to fight poverty, unemployment in India
 Justice Katju even offered Trinamool Congress MP Mahua Moitra to join his new party, with his X feed being filled with his criticism of the CJP.
 
-## India calls for de-escalation in West Asia after Iran-Israel tit-for-tat strikes
-Iran’s armed forces announced the end of military strikes against Israel after US President Donald Trump called on both countries to stop “shooting”
+## ‘India-US deal only after Section 301 probe is over’
 
-## Key mid-year climate meeting opens in Bonn; fossil fuels, adaptation on agenda
-The delegation from the union environment ministry which will represent India are attending the sessions virtually, according to those aware of the matter
+
+## India’s current account surplus narrows to $7.1 billion in Q4
+
+
+## ‘Confident of high growth in Q1 despite elevated energy prices’
+
+
+## Bhagwant Singh surplus land case: Ambala officer cancels mutation of 810 acres
+
+
+## Uttar Pradesh may send satellite to space for weather warning: CM Yogi Adityanath
+
+
+## Delhi Confidential: Communication Loss On All Fronts
+
 
 ## Tata Trusts board meets ahead of key Tata Sons board meeting
 
@@ -108,23 +123,8 @@ The delegation from the union environment ministry which will represent India ar
 ## ‘Gross negligence’: Bombay High Court orders Maharashtra govt to pay Rs 22 lakh to family of patient killed in mental hospital
 
 
-## WWDC 2026 roundup: Siri AI, Apple Intelligence, iOS 26 and more
-
-
-## Expert weighs in on Pooja Bhatt’s romance with Bobby Deol: ‘It worked till it didn’t’
-
-
-## Apple’s Siri AI overhaul: A look at key features coming this year
-
-
-## At WWDC, Apple unveils its strategy to win consumer AI, starting with a revamped Siri
-
-
-## ‘You operate on patients while they are awake’: Why brain surgeries are often painless
-
-
-## Donald Trump’s $100,000 H-1B visa fee is unlawful, US judge rules
-
+## To keep up with China’s fast-changing consumers, MNCs adapt via local alliances
+Amid rapid market shifts in China, more foreign companies including retail and pharmaceutical players are adopting new approaches, selling their China businesses to local companies, teaming up with domestic partners or setting up joint ventures to stay competitive. “Everyone wants to remain in the m
 
 ## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
 [The content of this article has been produced by our advertising partner.] Across the Asia Pacific region, the economics of office occupancy have changed materially. Fit-out costs in Sydney, Tokyo, Hong Kong, and Singapore have surged past US$270 per square foot at mid-specification. Grade A rents 
@@ -146,9 +146,6 @@ Chinese artificial intelligence firms MiniMax Group and Knowledge Atlas Technolo
 
 ## China’s new battery tech set to turbocharge EVs, energy storage
 Next-generation Chinese electric-vehicle (EV) batteries that charge in minutes are expected to add fuel to global sales of the country’s carmakers. An EV battery that goes from a 10 per cent to a 98 per cent charge in under six-and-a-half minutes was the star of the Super Technology Day event staged
-
-## The ‘world’s toughest gym’: how global companies fight to survive in China
-Foreign executives used to come to China to study shoppers. Today, many come to study their future competitors. That shift, according to Joe Ngai, chairman of Greater China at McKinsey & Company, says almost everything about how China’s role in the global economy has changed. For much of the past tw
 
 ## Iran, Israel Pull Back From Brink After Trading Fire
 But another Israeli assault on Beirut could collapse the two sides’ fragile truce.
@@ -246,6 +243,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump nominates Todd Blanche as attorney general, setting up Senate fight
+Blanche, who currently serves as acting attorney general, has faced controversy over the Epstein files and January 6.
+
+## Survivors recall Israeli raid that killed 274 in Gaza refugee camp
+Two years on, witnesses recount the June 2024 Israeli raid on Nuseirat refugee camp to free four captives.
+
+## Tech giant OpenAI files for US initial public offering
+OpenAI did not disclose the size or terms of the offering and said a timeline has not yet been determined.
+
 ## UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’
 Volker Turk, the UN's high commissioner for human rights, warns that 'children are dying' as result of US oil blockade.
 
@@ -260,15 +266,6 @@ New proposed listings target Russia's 'military industrial complex, human rights
 
 ## Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse
 Rome is the second in Europe to launch a probe into Israel's treatment of activists detained as they headed to Gaza.
-
-## Could Iran and the US play each other at the World Cup?
-Could Iran and the US play each other at the World Cup?
-
-## ‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes
-Residents in Tel Aviv voiced mixed reactions after a day of missile exchanges between Israel and Iran.
-
-## Gaza cancer patient waits for a chance at life
-A school director and novelist in Gaza needs urgent life-saving cancer surgery that she cannot access inside the Strip.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
