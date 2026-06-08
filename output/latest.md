@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Wall Street rebounds as traders race back into chip stocks
+Intel and Micron among big gainers as fervour over AI-linked shares resumes
+
+## Pentagon restores Alibaba, Baidu and BYD to Chinese military blacklist
+The three groups re-established as US national security risk after sudden removal from list in February
+
+## Trump’s $100,000 H-1B visa fee blocked by judge
+Ruling says the six-figure charge is an unauthorised tax and ordered it to be suspended
+
+## Berlin pulls plug on Franco-German fighter jet
+Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
+
 ## Starmer rallies ministers in attempt to build support against Burnham
 Prime minister insisted he would fight Greater Manchester mayor in any leadership contest
 
@@ -12,14 +24,8 @@ CEO of collapsed crypto exchange FTX has served three years in prison for misapp
 ## The incredible shrinking influence of Putin’s Russia
 Armenia is the latest country to leave Moscow’s orbit
 
-## Berlin pulls plug on Franco-German fighter jet
-Chancellor Friedrich Merz proposes scaling back €100bn defence project to co-operation on ‘combat cloud’
-
-## Israel and Iran halt counterstrikes
-Donald Trump urges both sides to ‘stop shooting’ as he pursues ceasefire extension
-
-## Wall Street stocks rebound after AI-led rout
-Buyers step in after Friday fall that rattled global markets
+## AstraZeneca advances weight-loss pill to take aim at obesity leaders
+Pill from drugmaker would put it into competition with market leaders Novo Nordisk and Eli Lilly
 
 ## London mansion with mystery owner close to £190mn sale
 The Holme, set in four acres in Regent’s Park, previously sold for £139mn in 2024
@@ -30,38 +36,29 @@ Putting humans in the loop is pointless if they simply rubber-stamp authoritativ
 ## WhatsApp accuses NSO of fresh Pegasus targeting
 Court filing argues that the Israeli spyware group breached a permanent US court ban
 
-## Blackstone looks to sell $2bn of stakes in private investment funds
-One of the biggest deals of its kind will test investor appetite for ageing private equity vehicles
+## From Siri AI to child safety tools: key takeaways from Apple’s WWDC 2026
+Apple unveiled a major Siri AI overhaul and expanded Apple Intelligence features at WWDC, along with new child safety tools, photo editing upgrades and deeper integration across its ecosystem
 
-## FCA seeks High Court injunction against Neil Woodford over new online service
-UK financial regulator alleges fund manager is providing unauthorised investment advice
+## US judge strikes down Trump’s $100,000 H-1B visa fee as unlawful tax
+The court’s decision overturns a policy that had sharply reduced H-1B applications.
 
-## Italy’s biggest lender offers €30.6bn to buy world’s oldest bank
-Italy’s largest bank says takeover would result in significant cost savings
+## India aviation market exciting but high fuel costs remain a challenge: IATA chief
+Willie Walsh praised India’s airport infrastructure and support measures, stressing that stronger air connectivity will drive future aviation and economic growth
 
-## India willing to open market to high-quality, innovative pharma products: Goyal
-He projected that India’s pharmaceutical market could grow to USD 120 billion within five years, up from about USD 60 billion currently
+## 6.1 magnitude earthquake hits offshore Cuba, shakes buildings in Havana
+There were no immediate reports of damage or casualties, and no tsunami warning or watch was issued
 
-## 7.8-magnitude Philippines quake kills at least 35, triggers tsunami and building collapses
-The quake caused widespread damage to buildings, disrupted flights, and triggered landslides, including one in Sarangani province that killed 13 people
-
-## RBI announces swap window for ECBs and FCNR (B) deposits
-Measures extended hedging support and liquidity management till January 2027
-
-## West-Asia war could reshape the AI race
-As AI spreads across every sector of human activity, the global race to scale it collides with a highly volatile force: geopolitics. This convergence exposes how dependent technology is on physical resources
-
-## Gold ETF investors exits highest last week for this year; outflows continue for 4th week in a row
-Net investments down 17% last week from May 23, as US, Chinese and Canadian investors lead the negative trend
-
-## FY27 Disinvestment proceeds cross full FY25 collections in 2 months; Miscellaneous Capital Receipts exceeds 23% of BE
-Minority stake sales in CPSEs and and asset monetisation drive a strong start to fiscal receipts
+## Apple unveils new AI features with privacy focus at WWDC 2026
+While Apple continues to trail some competitors in AI development, it is attempting to differentiate itself through privacy-focused innovation
 
 ## Arnifi launches AI-powered banking, payments platform for corporates
 This platform will allow businesses to access traditional banks, digital banks and payment processors across key global jurisdictions
 
-## Current Account turns into surplus in Q4FY26
-The current account surplus in the reporting quarter, however, is lower than the year ago period’s 1.4%
+## Zepto files updated IPO papers, plans ₹8,010 crore fresh issue
+The total issue size, including an offer for sale, is expected to be around ₹11,000 crore, with a potential listing in July
+
+## India willing to open market to high-quality, innovative pharma products: Goyal
+He projected that India’s pharmaceutical market could grow to USD 120 billion within five years, up from about USD 60 billion currently
 
 ## Disinvestment push: Government to sell up to 3% stake in NLC India at Rs 303 per share
 
@@ -87,6 +84,12 @@ Wall Street saw a rebound on Monday, led by technology and AI-linked stocks that
 ## India posts $7.1 billion current account surplus in Q4 as services exports strengthen
 India achieved a current account surplus of $7.1 billion in Q4 FY26, though it was lower than the previous year. Despite a widening merchandise trade deficit, strong growth in services exports, particularly computer and business services, helped maintain the surplus for the quarter. For the full fis
 
+## Dalit teen beaten to death in Uttarakhand's Tehri Garhwal over inter-caste friendship
+The deceased, Ketan Lal, was a resident of Deval village. His injured friend, Diwakar Dimri, was admitted to the district hospital in Baurari.
+
+## We spent nine hours with 'cockroaches' from across India. Here's what they told us
+The man who had mobilised the crowd, gained overnight fame and amassed more followers than the BJP and the Congress combined had arrived at the protest venue.
+
 ## Haryana groom, 3 others held for SUV stunts in wedding procession
 Sub-Inspector Yashpal was patrolling in Mandikhera village on Sunday and received a video clip of the incident on his mobile phone.
 
@@ -96,7 +99,7 @@ A petitioner from the Hindu side has blamed the ASI for the removal of the idol,
 ## ‘BRS trying to defame Cong govt’: Telangana minister hits back after row over CM Revanth Reddy's Hitler remark
 Revanth Reddy's remarks that he drew inspiration from Nazi dictator Hitler while naming HYDRAA sparked a political row with BRS and BJP, criticising him.
 
-## Justice Katju floats ‘Ishq Karo Party’ to fight poverty, unemployment in India: ‘Not for romance between boys and girls’
+## After Cockroach Party, Ex-SC judge floats 'Ishq Karo Party' to fight poverty, unemployment in India
 Justice Katju even offered Trinamool Congress MP Mahua Moitra to join his new party, with his X feed being filled with his criticism of the CJP.
 
 ## India calls for de-escalation in West Asia after Iran-Israel tit-for-tat strikes
@@ -105,34 +108,28 @@ Iran’s armed forces announced the end of military strikes against Israel after
 ## Key mid-year climate meeting opens in Bonn; fossil fuels, adaptation on agenda
 The delegation from the union environment ministry which will represent India are attending the sessions virtually, according to those aware of the matter
 
-## Indian workers among 7 killed in Dubai as minibus collides with truck
-The accident took place when a truck had stopped in the middle of the road due to a technical fault and the minibus rammed into it from behind.
-
-## Manipur villager who went to collect firewood shot dead in Kangpokpi district
-The local body described it as a matter of serious concern and asked for a thorough and impartial investigation by the competent authority
-
-## Inside Mithoon-Palak Muchhal’s lavish home: Gucci sheets, walk-in closet, modern décor
+## ‘Gross negligence’: Bombay High Court orders Maharashtra govt to pay Rs 22 lakh to family of patient killed in mental hospital
 
 
-## Nithya Raman gains ground on Pratt for second Los Angeles Mayor spot
+## WWDC 2026 roundup: Siri AI, Apple Intelligence, iOS 26 and more
 
 
-## Ben Stokes, Gus Atkinson being investigated over nightclub ‘incident’
+## Expert weighs in on Pooja Bhatt’s romance with Bobby Deol: ‘It worked till it didn’t’
 
 
-## YouTuber flags glass shards buried at Goa beach; photos trigger concern
+## Apple’s Siri AI overhaul: A look at key features coming this year
 
 
-## Worli concert tragedy: Victim’s brother blames organizers for delayed medical aid
+## At WWDC, Apple unveils its strategy to win consumer AI, starting with a revamped Siri
 
 
-## First a blast, then molten steel at 1,500°C falls to floor: What we know about Vizag Steel Plant accident
+## ‘You operate on patients while they are awake’: Why brain surgeries are often painless
 
 
-## Delhi LG asks to explore inducting ex-Agniveers to strengthen fire department
+## Donald Trump’s $100,000 H-1B visa fee is unlawful, US judge rules
 
 
-## England hoping Jofra Archer is available for 2nd Test vs NZ, says Brendon McCullum
+## UzChess Cup 2026: Arjun roars back for 1st win; Vidit suffers 2nd straight loss
 
 
 ## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
@@ -183,29 +180,29 @@ Even in the face of tariffs and an energy crisis, the jobs report shows an econo
 ## Zelensky’s Pen Pal Diplomacy
 Zelensky offers in-person peace talks in a rare open letter to Putin. Moscow isn’t interested.
 
-## Thailand Says It Will Join UN-Backed Conciliation on Maritime Dispute With Cambodia
-Thai Foreign Minister Sihasak Phuangketkeow said that Bangkok will cease all other bilateral talks while mediation is in progress.
+## Beyond Search and Rescue: What the Japan-South Korea SAREX Revival Really Means
+The return of the Japan-South Korea naval search and rescues exercise after a nine-year hiatus reflects strategic convergence, but history still casts a long shadow.
 
-## Propaganda and Fake News Editors: Myanmar’s Manufactured Transition
-Min Aung Hlaing's “civilian” government rests on a sophisticated propaganda architecture, and the independent media needed to challenge it is running out of funds.
+## How the Dreams and Aspirations of Bangladeshi Students Have Been Crushed
+Affiliation with the Chhatra League, the students’ wing of the Awami League, before October 2024, was not an offense. It cannot be treated as one now.
 
-## Under Trump 2.0, the Quad’s Real Challenge to China Is Economic, Not Military
-The grouping is unlikely to harden into an “Asian NATO.” For Beijing, the more consequential contest is over supply chains, technology standards, and the rules of the Indo-Pacific economy.
+## Israel: An ‘Invisible’ Migration Destination for Uzbeks
+Israel is rarely mentioned in discussions of Uzbek labor migration. Yet thousands of Uzbek workers have quietly made it a significant destination.
 
-## Oh Se-hoon Becomes Seoul’s Mayor for the 5th Time
-Why Seoul picked the PPP incumbent yet again, and what it means for the city.
+## Japan’s Shifting Center: How the Left Got Left Behind
+A new political center is taking shape in Japan, one that is pushing the old center-left to the margins of the political spectrum.
 
-## India’s Eye in the Sky: The Rise of a State-Deep Tech Startup Space Partnership
-India’s deep tech space startups are transforming the country’s space ambitions, as the state increasingly supports private innovation to strengthen India’s strategic and economic position in the global space race.
+## Why Western Institutions are Hosting India’s RSS Despite Its Anti-Minority Record
+The rise of majoritarian politics globally, combined with a shifting geopolitical calculus around India, has created openings for the RSS that did not exist a decade ago.
 
-## The Bipolar Trap: The Real Danger in the Trump-Xi Era
-The challenge is not just preventing war between China and the U.S. It’s how to prevent their rivalry from becoming the sole organizing principle of international politics.
+## The North Korea Succession Issue
+Is a teenage girl being positioned as North Korea's next leader?
 
-## Why Did Nepali PM Balendra Shah Call on UK to ‘Take an Interest’ in an India-Nepal Dispute?
-The controversial comment was made on the eve of ruling party chief Ravi Lamichhane’s visit to India.
+## India-Venezuela Relations Gain Renewed Energy
+The U.S., not Delhi or Caracas, announced Venezuela’s Acting President Delcy Rodríguez’s visit to India last week. The U.S. role in pushing the oil trade is hard to ignore.
 
-## Uzbekistan, Russia Celebrate Start of Nuclear Power Plant Construction… Again
-Tashkent and Moscow celebrated the start of construction on the plant – two months after the companies involved celebrated the same thing.
+## Australia’s Rare Earth Sector
+Opportunity, risk and the commitment gap
 
 ## Is Skepticism Ukraine’s Foreign Policy Playbook?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge strikes down Trump’s $100,000 H1-B visa fee
-In a ruling on Monday, a federal judge said the fee was a tax that Trump didn't have authority to impose.
+## CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine
+CCTV footage captured the moment a missile struck Zaporizhzhia, Ukraine, killing two people and injuring 23.
 
-## Race tied between left- and right-wing rivals in Peru’s presidential vote
-The split illustrates deep political polarisation in the South American country.
+## US congressman demands probe into Israel’s 1967 attack on USS Liberty
+Thomas Massie suggests the deadly assault was not an accident and calls on the US government to honour its survivors.
 
-## Three rescued, one killed in Russian drone strike on Ukraine block
-Three rescued, one killed in Russian drone strike on Ukraine block.
+## Floods tear through homes and farmland in China’s Guizhou province
+Drone footage shows entire neighbourhoods, roads and farmland submerged by floodwaters in China's southwestern Guizhou.
 
-## 7.8 magnitude earthquake leaves dozens dead in the Philippines
-A powerful 7.8 magnitude earthquake struck the southern Philippines off the island of Mindanao, killing at least 32.
+## China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang
+Chinese President Xi Jinping and North Korean leader Kim Jong Un met on Monday at a rare summit in Pyongyang.
 
-## How Lebanon became the breaking point for the Iran war ceasefire
-Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.
+## Albanian PM Rama vows to push on with Kushner-linked luxury resort
+Albanian Prime Minister Rama vowed to press ahead with a billion-dollar luxury resort project linked to Jared Kushner.
 
-## ‘Strategic doctrine’: Iran hails military shift after Beirut raid response
-Iranians describe attacks on Israel as part of military approach prioritising 'taking initiative and offensive power'.
+## Southern Philippines hit by 7.8-magnitude earthquake
+Offshore quake rocks Mindanao, killing at least 35 and injuring more than 200.
 
-## Lebanon’s children face physical, psychological trauma amid Israel’s war
-Experts warn of lasting trauma for Lebanon's children as war continues to shatter their sense of safety.
+## NATO jets shoot down drone over Latvia, extending Ukraine spillover fears
+The drone entered Latvian airspace due to 'Russian electronic warfare', the military says.
 
-## Lebanon Latest: Israel pushes deeper as conflict escalates
-The latest developments from southern Lebanon amid escalating Israeli attacks.
+## US imposes restrictions on 100 Nicaraguan officials after activist’s death
+The death of Indigenous leader Brooklyn Rivera has prompted calls from UN experts for an independent investigation.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
