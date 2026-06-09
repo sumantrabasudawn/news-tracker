@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Trump and Netanyahu’s paths diverge
+Also in today’s newsletter, president booed at Knicks-Spurs game and will Trump abandon Taiwan?
+
+## Warsh’s narrow path to success as Fed chair
+His first rate-setting meeting sets the direction of travel for a potentially turbulent term in office
+
+## Trump is becoming Jimmy Carter
+Like the 39th US president, the current occupant of the White House has handed control of the narrative to Iran
+
+## How Poland’s Orlen kept supplies flowing during the Middle East war
+Group’s head oil trader said the company learned lessons from the 2022 shock
+
 ## ‘Rent now, pay later’ loans target US consumers squeezed by housing costs
 Demand for short-term financing expands into rental market amid deepening affordability crisis
 
@@ -12,50 +24,56 @@ Also in today’s newsletter: Europe launches new fighter jet and Trump booed at
 ## So long Tate & Lyle, stock market trivia titan
 Sweetest goodbye or sticky situation?
 
-## Oil market defies predictions of summer supply crunch
-Crude prices stay below $100 a barrel as China’s import cuts help eke out global stockpiles
+## BP investors push for change at ‘mismanaged kingdom’
+Lack of detail on why Albert Manifold was fired sows doubts over culture overhaul
 
-## GSK to buy US cancer biotech Nuvalent for $10.6bn
-New chief Luke Miels makes his mark at GSK with one of UK drugmakers’ biggest deals
+## How to Rule the World — Stanford’s lucrative bond with Silicon Valley
+The elite California university produces an outsized share of start-up entrepreneurs — and outsized profits from its proximity to Big Tech
 
-## Will Starmer fight or fold?
-No 10 tries to gauge support for PM as failing to secure backers would be embarrassing and suggest he can’t govern
+## Woodford’s W4.0 hits out at FCA’s legal threat
+Regulator said it would seek to injunct stockpicker’s new firm over alleged unauthorised advice
 
-## Indonesia unexpectedly raises interest rate to support rupiah
-Central bank’s off-cycle move follows rout in currency and stock market
+## Real Madrid and the dangers of mixing fans and finance
+Club president Florentino Pérez’s aim of bringing in outside investors is high risk
 
 ## PwC investigated by accounting regulator over WHSmith audit
 FRC to probe Big Four firm’s work after UK travel retailer revealed accounting errors in US business
 
-## Airbus plans German-led alliance to replace doomed fighter jet
-Group of eight companies wants to develop a sixth-generation fighter jet for Europe
+## Rapido aims to go deeper into every taluk/ village in India: Co-founder
+Rapido has around 30 lakh vehicles for rides in a month and the target is to reach up to 50 lakh vehicles very soon, Aravind Sanka, Co-Founder, Rapido, said
 
-## Dutch supercar brand Spyker wins crypto backing in latest revival bid
-Ukrainian billionaire Volodymyr Nosov acquires ‘significant’ stake in carmaker
-
-## Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers
-Sensex, Nifty, Stock Price Highlights: Indian share benchmarks rose on ​Tuesday, led by lenders after the central bank detailed a ‌concessional forex swap facility for banks' overseas foreign-currency borrowings, while ​a pause in Israel-Iran hostilities helped ⁠cool oil prices.
-
-## US Army helicopter crashes near Strait of Hormuz, crew members safe: Trump
-The incident comes as Iran-Israel tensions intensify, energy markets remain unsettled and diplomatic efforts continue to secure a possible ceasefire deal
-
-## India’s first defence land solar project gets MoD approval in Sitapur
-Defence Ministry has identified over 45,900 acres that can be utilised for setting up renewable energy projects
+## Hexagon Nutrition IPO Day 3: Subscribed 53.68 times, NIIs lead demand
+The non-institutional investors (NII) portion was subscribed 129.96 times, while the retail category saw subscription of 22.53 times
 
 ## Wheels India expands patent portfolio to 125, steps up R&D spend in FY26
-The company increased its R&D expenditure to 0.76 per cent of turnover in FY26 from 0.53 per cent in the previous year
+The company increased its R&D expenditure to 0.76% of turnover in FY26 from 0.53% in the previous year
 
-## Ministry, NTA, NMC officials to appear before par panel on health tomorrow over NEET re-exam
-Officials from key ministries and agencies will update MPs on the June 21 test and related issues
+## Govt notifies rules to set up coal exchanges
+The Ministry of Coal designated the Coal Controller Organisation in December 2025 as the authority responsible for registering and regulating coal exchanges
 
-## L&T turns to automation and robotics as construction faces manpower challenges
-Larsen & Toubro says rising project scale and labour availability challenges make traditional manpower-driven growth difficult, prompting greater use of prefabrication, modular structures and robotic systems
+## Weekly Rupee View: Rupee enters holding pattern
+Persistent outflows weigh on the rupee, but downside remains contained
 
-## Tamil Nadu assures support for HD Hyundai's proposed shipyard project
-Guidance Tamil Nadu, the state government’s nodal agency for investment promotion, said the minister’s visit was a signal of continuity, confidence and commitment to industry
+## South-West monsoon gets positive IOD boost even as El Nino threat looms
+Sea surface temperatures crossed El Nino threshold on June 7, while IOD may turn positive during August-September
 
-## Short-sellers to tread carefully as Musk's SpaceX debuts
-The company's valuation exceeds most other mega-caps, and the economics around its xAI platform ‌and technologies like orbital data centres are uncertain, Morningstar analysts said in a recent note
+## Enabling big ideas for Bihar
+The State must actively ‘hunt’ for investments, especially in labour-intensive sectors
+
+## Zepto co-founders Palicha & Vohra questioned by ED in FEMA case
+Zepto, the quick commerce firm which is coming with an IPO, has disclosed this in its updated Draft Red Herring Prospectus (UDRHP)
+
+## Oil shock to inflation risk: How the Iran war is reshaping India's economic outlook
+India's economic outlook is darkening due to rising oil prices, fertilizer costs, and supply disruptions from the Iran conflict. Economists warn of escalating inflation, slower growth, and strained government finances. The nation, heavily reliant on oil imports, faces significant economic challenges
+
+## Russian crude here to stay? Why India-US energy ties may be more about LPG, LNG than oil despite Trump’s push
+Geopolitical developments in the last few months have dictated India’s energy supplies. Be it crude oil, LPG or LNG, India is largely dependent on the world to meet its needs, and the US-Iran war has disrupted supplies via the Strait of Hormuz.
+
+## 'GDP momentum intact, no need for extra borrowing': Centre plays down impact of Middle East crisis
+Despite global economic headwinds from the Middle East crisis, India's government remains optimistic about growth, citing strong domestic consumption and intact GDP momentum. Officials confirm no immediate need for extra borrowing, with fiscal targets holding firm. Disinvestment plans are progressin
+
+## SpaceX IPO: Elon Musk's firm sees massive oversubscription as institutional orders top $10 billion
+SpaceX's IPO has garnered over $10 billion in institutional orders, signaling immense demand for what could be the largest public offering in history. The company is set to price its shares at $135, aiming to raise $75 billion and achieve a $1.8 trillion valuation. Retail investors can still partici
 
 ## China's exports jump 19.4 per cent in May, driven by tech and EV demand
 China's exports surged 19.4% in May, exceeding forecasts, driven by robust demand for semiconductors and electric vehicles. Shipments to the US saw a significant rebound, growing over 35%. This strong trade performance is expected to support China's economic growth targets for the year.
@@ -69,65 +87,62 @@ The government has notified rules for setting up coal exchanges to improve price
 ## Fitch trims India's growth forecast to 6.4% as Middle East turmoil clouds outlook
 Fitch Ratings has lowered India's FY27 GDP forecast to 6.4% due to rising costs from Middle East conflict impacting consumer spending. While domestic demand remains a driver, higher prices are expected to reduce purchasing power, with the most visible impact in Q2 and Q3 of FY27.
 
-## ITR filing FY 2025-26: What is Form 16 and where do you get it from? Top things salaried taxpayers should know
-Apart from Form 16, other important documents that you should keep handy are Form 26AS, Annual Information Statement (AIS), bank account interest earnings, any investment related documents etc.
+## NIA hits Shahzad Bhatti’s network, raids 18 locations in Punjab, Haryana
+Shahzad Bhatti, a gangster-turned-terrorist backed by Pakistan’s spy agency ISI, has emerged as a key figure in recent investigations into terror attacks
 
-## Zoji La tunnel's major 'breakthrough' milestone! World's longest bi-directional road tunnel at high altitude an engineering marvel; stunning pics
-The tunnel, a key strategic project that will ensure year-round connectivity between Kashmir and Ladakh, is set to reach a major milestone on Tuesday with the scheduled "breakthrough" blast.
+## CID searches Mamata’s home on Kolkata in ‘forgery’ case as she meets Sonia Gandhi in Delhi for her future
+Mamata Banerjee is fighting to control the TMC after a series of defections and rebellions rocked the party in the weeks following its electoral defeat.
 
-## More measures on gold coming? Finance Ministry asks banks for information on gold metal loans
-Despite a lower import volume of 721 tonnes compared with the previous year, India's gold import bill rose 24% to a record $71.9 billion in 2025-26.
+## 3 cricketers, 3 corners: Team India heroes across eras land amidst TMC civil war
+Pathan and Ganguly were once teammates at Kolkata; Azad and Pathan are both World Cup winners, and Ganguly has been one of Team India's most prominent leaders
 
-## Rupee rebounds 20 paise to 95.41 against US dollar
-The Indian rupee strengthened by 20 paise against the US dollar in early trade on Tuesday, opening at 95.47. This gain was attributed to easing oil prices, a weaker US dollar index, and a de-escalation of tensions between Israel and Iran. Domestic equity markets also traded higher, reflecting positi
+## Air India flyer held after breaking inner window pane, tries to flee cops at IGI
+The incident took place on flight AI1879 on the evening of June 7 as the aircraft was preparing to land at Delhi’s Indira Gandhi International Airport.
 
-## A surprise BJP candidate has turned MP's Rajya Sabha race into a thriller
-In the 230-member Madhya Pradesh Assembly, a Rajya Sabha candidate needs 58 votes to win. The BJP, with 164 MLAs, has enough strength to secure 2/3 seats.
+## Operation Blue Star a ‘black day’: Maharashtra minister Girish Mahajan's remark triggers row
+Maharashtra minister's remarks gained swift pushback from the Congress who accused BJP of raising the Khalistan issue ahead of Punjab polls
 
-## Money laundering case: SC to hear Jacqueline Fernandez’s plea on Delhi court order
-Jaqueline has challenged the trial court order directly before the top court without approaching the Delhi high court
+## India slams Pakistan over deadly crackdown on protesters in PoK
+The remarks came after more than 27 people were killed and several others injured in clashes between protesters and security forces in different parts of PoK.
 
-## Rajnath Singh approves 250 MW solar project on defence land in UP's Sitapur
-State-run power major NTPC Limited will implement the project through a competitive bidding process to ensure optimal energy pricing.
+## What is Shigella bacteria? Kerala govt warns ‘unhygienic’ eateries after shigellosis death, cases
+Kerala has confirmed one death and two more positive cases due to Shigellosis, an infection that is caused by a bacteria called Shigella.
 
-## Only surviving member of Gurugram family killed in Delhi B&B fire dies
-Eight members of the family had moved to the B&B to look after critically ill Radhe Shyam Aggarwal, 77, who was admitted to a nearby hospital
+## Santiago Martin, family moves Madras HC challenging attachment of properties by ED
+ED had first registered an Enforcement Case Information Report (ECIR) against Martin and others in 2014, on the basis of a CBI chargesheet
 
-## Israel to install Shivaji statue ‘to deepen ties’ with India, diplomat meets Fadnavis in Mumbai
-Revealing the proposal sent to Maharashtra CM, Revach said the “long-term project” would be a display for “goodwill for the Indian people” from Israel.
-
-## 'He is being framed': Khan Sir's students welcome court relief in Patna coaching centre firing case
-The order was welcomed by his students, who expressed faith in the judiciary, called it a relief for the student community.
-
-## ‘No intent to topple’ Vijay's govt: DMK clarifies Stalin’s ‘3 months’ remarks on TVK's coalition regime in Tamil Nadu
-DMK senior leader and former minister Thangam Thennarasu said there was no "intent to dissolve or topple the government" behind Stalin's comments.
-
-## PMLA case: ED summons T Veena, daughter of ex-CM Pinarayi Vijayan for questioning
-The investigation pertains to a money laundering case against a Kerala-based sand mining company and Veena’s now defunct company Exalogic Solutions Private Limited
-
-## Fake Nirmala Sitharaman video used to scam doctor of Rs 68 lakh? Court grants bail to arrested bank officials
+## It’s Ronaldo swansong, but what gives Portugal extra reason to go the distance
 
 
-## Neena Gupta shares an unusual morning dressing room ritual: ‘I get up at 5 or 5.30 am’
+## Rajya Sabha nomination of Congress’ Meenakshi Natarajan rejected
 
 
-## Maharashtra Cabinet increases departments from 33 to 43 to fast-track decisions
+## Why Drishyam 3 won’t be remade in Telugu, Kannada, and is getting a major twist in Hindi
 
 
-## Bombay High Court reinstates school employee, calls sacking arbitrary
+## UPSC daily subject quiz | History and Culture (Week 157) : Ancient India and historical personalities — think you can master these MCQs?
 
 
-## ‘Delhi has pollution, Mumbai floods, Bengaluru traffic’: Revanth’s Hyderabad pitch
+## Punjab government’s dairy giant Verka purges ‘How to Kidnap Me’ lassi Ad after backlash
 
 
-## Apple brings major updates to Image Playground, Photos: Here’s what’s new
+## From Devil Wears Prada to the Indian offices: What the perfect first boss actually looks like
 
 
-## Lionel Messi to play final warm-up game before 2026 FIFA World Cup
+## Rupali Ganguly ‘dearly misses’ Satish Shah at Sarabhai Vs Sarabhai reunion, watch
 
 
-## With record-high spending, what is driving Japan’s changing defence outlook?
+## Christian Eriksen says he’s home and ‘doing well’ after collapsing on field
 
+
+## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
+China’s market regulators will continue to support Hong Kong in consolidating its status as an international financial centre, and they expect the city to play to its advantages as an offshore yuan hub, according to the chairman of the Hong Kong Association of Banks (HKAB). To boost global adoption 
+
+## Singapore group buys distressed tower as Hong Kong’s student housing demand accelerates
+Singapore-listed developer Wee Hur Holdings is expanding its Hong Kong student accommodation platform with the acquisition of One Bedford Place, a lender-controlled office tower that it plans to convert into a 500-bed student housing project. The company said in a filing to the Singapore Exchange on
+
+## BYD playing catch-up with demand for fast-charging batteries as appeal of EVs rises
+China’s electric vehicle (EV) king BYD said demand for its second-generation blade batteries currently outstrips existing capacity, as Chinese cars gain popularity around the globe. At the company’s annual general meeting in Shenzhen on Tuesday, chairman and president Wang Chuanfu told shareholders 
 
 ## Hong Kong launches tax-break plan to strengthen role as a corporate treasury base
 The Hong Kong government has unveiled an action plan to broaden tax incentives and introduce a pre-approval mechanism aimed at attracting more companies to establish corporate treasury centres in the city, according to Secretary for Financial Services and the Treasury Christopher Hui Ching-yu. “This
@@ -144,14 +159,8 @@ Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday 
 ## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
 In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
-## MiniMax once led Zhipu in Hong Kong’s AI stock race. How the tables have turned
-When Chinese artificial intelligence developers Zhipu AI and MiniMax made their debuts on the Hong Kong stock exchange in January, investors initially saw one as a better bet than the other. Beijing-based Zhipu closed its first trading day on January 8 with a market capitalisation of HK$57.9 billion
-
-## To keep up with China’s fast-changing consumers, MNCs adapt via local alliances
-Amid rapid market shifts in China, more foreign companies including retail and pharmaceutical players are adopting new approaches, selling their China businesses to local companies, teaming up with domestic partners or setting up joint ventures to stay competitive. “Everyone wants to remain in the m
-
-## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
-[The content of this article has been produced by our advertising partner.] Across the Asia Pacific region, the economics of office occupancy have changed materially. Fit-out costs in Sydney, Tokyo, Hong Kong, and Singapore have surged past US$270 per square foot at mid-specification. Grade A rents 
+## U.S. Power Is Wrung Out
+The war in Iran has depleted the Pentagon as China’s military buildup matures.
 
 ## How to Escape Blame for Bad Advice
 If you get an important strategic issue wrong, there are still ways to avoid accountability.
@@ -174,32 +183,29 @@ Chinese models have become the overwhelming choice for African developers.
 ## China Is Making MAHA’s Favorite Drug
 RFK fans and China hawks are on a collision course over peptides.
 
-## The U.S. Can’t Exclude China From Latin America
-Rather than pushing Beijing out of the region, Washington should offer countries better strategic alternatives.
+## Brunei’s Sultan Ibrahim Reshuffles Cabinet, Appointing His Son as Foreign Minister
+The elevation of three of the sultan's sons suggest that key posts are increasingly being concentrated within the direct line of succession.
+
+## Afghanistan’s Women: Erased
+An entire generation of Afghan girls have had their aspirations suspended by policies systematically excluding them from education and public life.
+
+## At Least 32 Dead After Earthquake Hits Southern Philippines, Authorities Say
+President Ferdinand Marcos Jr. has stated that "the national government is moving and we will not leave Mindanao behind."
+
+## When Work Moves Without Workers: Nepal and Asia’s New Mobility Frontier
+Across Asia, governments are experimenting with policies designed to capitalize on the rapid expansion of remote work.
+
+## Central Asia’s Water Crisis is Becoming a Regional Economic Risk
+Climate stress, shrinking glaciers, and fragmented governance are pushing the region toward a new era of systemic vulnerability.
+
+## What the Banning of the JAAC Reveals About Power in Azad Kashmir
+The ban may remove JAAC from the formal political arena, but it cannot remove the grievances that brought it into existence.
 
 ## Lee Jae-myung’s First Year Successes Put South Korea on the Path to Tangible Results
 Last year, Lee stated in his inauguration speech that pragmatism and the national interest were the guiding principles of his presidency.
 
 ## Japan’s Security Focus Shift
 China’s reach is extending beyond the First Island Chain. Japan is taking note.
-
-## Beyond Search and Rescue: What the Japan-South Korea SAREX Revival Really Means
-The return of the Japan-South Korea naval search and rescue exercise after a nine-year hiatus reflects strategic convergence, but history still casts a long shadow.
-
-## How the Dreams and Aspirations of Bangladeshi Students Have Been Crushed
-Affiliation with the Chhatra League, the students’ wing of the Awami League, before October 2024, was not an offense. It cannot be treated as one now.
-
-## Israel: An ‘Invisible’ Migration Destination for Uzbeks
-Israel is rarely mentioned in discussions of Uzbek labor migration. Yet thousands of Uzbek workers have quietly made it a significant destination.
-
-## Japan’s Shifting Center: How the Left Got Left Behind
-A new political center is taking shape in Japan, one that is pushing the old center-left to the margins of the political spectrum.
-
-## Why Western Institutions are Hosting India’s RSS Despite Its Anti-Minority Record
-The rise of majoritarian politics globally, combined with a shifting geopolitical calculus around India, has created openings for the RSS that did not exist a decade ago.
-
-## The North Korea Succession Issue
-Is a teenage girl being positioned as North Korea's next leader?
 
 ## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
 Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump courts boos at historic New York NBA Finals appearance
-President Trump's appearance at Madison Square Garden overshadowed by boos, heavy security and political undertones.
+## Why are Nigeria-South Africa tensions rising amid xenophobic attacks?
+It's not the first time the two African giants have gone head-to-head over attacks on their nationals.
 
-## Iran conflict: Why has oil stayed near $100 a barrel?
-The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
+## World Cup opening ceremony: Who’s performing, when it starts, how to watch
+The 2026 World Cup begins with historic ceremonies across the US, Canada and Mexico, launching a record tournament.
 
-## Iran says US has revoked World Cup ticket allocation for their supporters
-Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt.
+## Venezuelans flood capital Caracas streets, demanding free elections
+Venezuelan workers, students and opposition party members marched to the US Embassy in Caracas.
 
-## Ranking the Middle East and North African teams at World Cup 2026
-Breaking down the eight Middle East and North African teams' chances at the World Cup in North America.
+## Mamdani scores goal at World Cup presser
+Footage shows New York City Mayor Zohran Mamdani scoring a goal at a World Cup press conference.
 
-## Indian crew rescued after attack on oil tanker off Oman
-Indian crew rescued after attack on oil tanker off Oman
+## Video captures Russian attack in Ukraine’s Zaporizhzhia
+Surveillance camera video captured the moment a Russian drone strike caused a blast in Zaporizhzhia, Ukraine.
 
-## Deschamps backs hat-trick hero Olise to shine for France at World Cup
-Michael Olise starred alongside Kylian Mbappe, Ousmane Dembele and Desire Doue in 3-1 win against Northern Ireland.
+## Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments
+The row erupted after Italy said it was investigating the far-right minister over treatment of Gaza flotilla activists.
 
-## Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki
-Anger grows in Kenya as residents accuse the US of offloading Ebola risks onto Kenyans.
+## New video of great white shark in Mediterranean goes viral
+New video of great white shark in Mediterranean goes viral.
 
-## World Cup 2026: What time can fans in Europe, Middle East and Africa watch?
-Are you a football fan in Europe, Africa or the Middle East? Scroll down to find out World Cup timings in your region.
+## Israel attacks Tyre in Lebanon, tells all residents to leave
+Israel attacks Tyre in Lebanon, tells all residents to leave
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
