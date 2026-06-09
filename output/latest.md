@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Nasdaq slides in volatile trading as tech sell-off reignites
-Heavy losses for AI-linked stocks overshadow gains across rest of market
+## Pope Leo meets Trump foe Bad Bunny
+Puerto Rican rapper has become a symbol of cultural resistance to US president
+
+## FirstFT: KMT leader urges US and China not to treat Taiwan as ‘pawn’
+Also in today’s newsletter: Apollo hunts for a Japanese life insurer, and Chinese exports climb
+
+## US launches strikes on Iran after downing of American helicopter
+Washington says attack is ‘proportional response to unjustified Iranian aggression’
 
 ## Oil slides as US official says Hormuz transits are ‘meaningfully’ climbing
 Energy secretary Chris Wright cautions that flows through the strait will take months to fully recover
 
-## The hard truths about England’s receding coastline
-The entire shoreline cannot be protected from erosion, but the state can mitigate future fallout
+## Apollo hunts for Japanese life insurer to boost growth
+US asset manager may face regulatory hurdles amid preference for domestic players
 
-## Trump vows to ‘respond’ after Iran ‘shot down’ a US helicopter
-US president said Tehran downed Apache aircraft over Strait of Hormuz amid fragile ceasefire
+## GM bets on homegrown battery tech to challenge Chinese dominance
+US carmakers pivot to energy storage batteries for AI as they seek to counter weak electric vehicle sales
 
-## Starmer to tell ministers to quit if they back Burnham
-Supporters of Greater Manchester mayor say he already has enough MPs to launch a leadership challenge
+## Taiwan’s opposition leader tells US and China not to use her country as ‘pawn’
+KMT chair calls for more dialogue between Taipei and Beijing in FT interview ahead of her visit to Washington
 
-## The Fed is going to have to rethink its global role
-Stabilising the finances of another country is a foreign policy decision as well as an economic one
+## Nasdaq slips in volatile trading as 2026 high-flyers pull back
+Losses for AI-linked stocks overshadow gains across rest of market
 
-## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
-Three companies reinstated as US national security risk after sudden removal in February
-
-## GSK to buy US cancer biotech Nuvalent for $10.6bn
-New chief Luke Miels makes his mark at GSK with one of UK drugmakers’ biggest deals
+## Why are investors so jumpy?
+What’s driving market volatility?
 
 ## GSK’s $10.6bn cancer deal will lead to more
 Making additional moves would be in keeping with pharma group’s strategy of building its pipeline as fast as possible
@@ -30,14 +33,11 @@ Making additional moves would be in keeping with pharma group’s strategy of bu
 ## Space strawberry grower grows share count before strawberries
 Extract on space, repent at leisure
 
+## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
+Three companies reinstated as US national security risk after sudden removal in February
+
 ## Boots in talks over $10bn sale as owners look to ditch IPO plan
 Weston family and Australian group Sigma Healthcare both interested in buying UK pharmacy chain
-
-## Brussels orders Meta to open WhatsApp to rival AI agents
-Emergency measures signal EU efforts to intervene over rapidly developing market for autonomous agents
-
-## VodafoneThree bids for TalkTalk consumer business
-Acquisition would help UK’s largest mobile operator fulfil ambition to double its broadband business
 
 ## NASA unveils Artemis III crew as moon mission plans move closer to reality
 The selected astronauts will first take part in Earth-orbiting training missions, practicing docking with lunar landers developed by competing contractors SpaceX and Blue Origin
@@ -63,6 +63,9 @@ Fertiliser Ministry seeks double the subsidy allocation
 ## RBI opens premature redemption window for SGB 2019-20 Series VII
 The redemption, due on June 10, 2026, has been fixed at Rs 15,275 per unit based on the average gold price of the previous three business days as published by IBJA
 
+## Government raises Rs 20,000cr via disinvestment, asset sale
+
+
 ## Bond market push: Govt eyes Bloomberg index inclusion with latest G-Sec reforms
 
 
@@ -84,8 +87,11 @@ A five-day BRICS meeting commenced in Indore, focusing on food security, climate
 ## Oil shock to inflation risk: How the Iran war is reshaping India's economic outlook
 India's economic outlook is darkening due to rising oil prices, fertilizer costs, and supply disruptions from the Iran conflict. Economists warn of escalating inflation, slower growth, and strained government finances. The nation, heavily reliant on oil imports, faces significant economic challenges
 
-## Russian crude here to stay? Why India-US energy ties may be more about LPG, LNG than oil despite Trump’s push
-Geopolitical developments in the last few months have dictated India’s energy supplies. Be it crude oil, LPG or LNG, India is largely dependent on the world to meet its needs, and the US-Iran war has disrupted supplies via the Strait of Hormuz.
+## We'll see if communism outlives Dalai Lama or the other way around: Sikyong
+We'll see if communism outlives Dalai Lama or the other way around: Sikyong
+
+## EC to meet Congress delegation over rejection of Meenakshi Natarajan's nomination on Wednesday
+The Election Commission, in a letter addressed to the Congress President, gave appointment to a delegation of party leaders for a meeting at 12 pm on Wednesday.
 
 ## Election Commission officials ‘refused to meet us’ over our petition: Congress leaders
 Congress leader Meenakshi Natarajan lashed out at the BJP and accused it of "attempting to manipulate the Rajya Sabha election".
@@ -105,11 +111,11 @@ PM Narendra Modi is expected to attend several key summits during his time in Fr
 ## NEET UG leak accused Yash Yadav seeks interim bail to appear in re-exam on June 21
 Special Judge (CBI) Ajay Gupta granted time to the CBI to file its reply on the application moved by Yash Yadav.
 
-## Flight aborted, RS nomination junked, Cong's Meenakshi Natarajan cries foul: MP '3rd seat' mystery ends before it begins
-Meenakshi Natarajan’s nomination was rejected on grounds of alleged non-disclosure of information related to a case in her affidavit.
+## 5 lesser-known monsoon treks in India
 
-## Modi reaches out to Kuwaiti Amir after airport attack, calls for de-escalation
-PM MOdi condemned attacks targeting Kuwaiti territory and airspace, including an assault on its airport that killed an Indian national and injured several others
+
+## ‘Be good boys off the field’: Sourav Ganguly on his aggressive Team India mindset
+
 
 ## UzChess Cup 2026: Arjun in joint lead; Vidit opens account with draw
 
@@ -127,12 +133,6 @@ PM MOdi condemned attacks targeting Kuwaiti territory and airspace, including an
 
 
 ## Soil at Shiv Shakti Point chemically close to lunar meteorite that hit Antarctica
-
-
-## Trump says Iran downed Apache helicopter, ‘US must respond to attack’
-
-
-## Arunachal village sees violence over dam: Multiple houses vandalised, prohibitory orders issued
 
 
 ## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
@@ -159,6 +159,12 @@ Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday 
 ## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
 In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
+## Why a South Korean Starbucks Ad Mocked Murdered Protesters
+Far-right meme politics shows how strong anti-democratic forces remain.
+
+## NATO’s Digital Back End Could Fall Apart Without Change
+Shared standards on cloud services are urgently needed.
+
 ## Lebanon Is No Longer About Lebanon
 Iran would rather fight than let Israel decide Lebanon’s fate.
 
@@ -176,12 +182,6 @@ But another Israeli assault on Beirut could collapse the two sides’ fragile tr
 
 ## Trump Started a War He Can’t Control
 He wants to end the Iran war. But Iran, Israel, and Hezbollah have other ideas.
-
-## Show Us the Money
-How satire, social media, and shame are forging Syria’s new public square.
-
-## China Is Providing AI That’s Literate in Africa’s Languages
-Chinese models have become the overwhelming choice for African developers.
 
 ## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
 Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel preventing more than 16,500 Palestinians from accessing medical treatment
-Israel has systematically destroyed Gaza's healthcare system since launching its genocidal war in October 2023.
+## Deadly protests in Pakistan-administered Kashmir: What’s going on?
+At least 11 people were killed on Sunday in clashes between police and protesters in Pakistan-administered Kashmir.
 
-## ‘Anything but normal’: Uncertainty as Iranians try to get by amid US war
-War damage and blockade have worsened economic conditions for many struggling Iranians.
+## Trump vows retaliation after claiming Iran shot down Apache helicopter
+President Trump accused Iran of shooting down a US Apache helicopter over the Strait of Hormuz
 
-## Palestinians confront Israeli settlers over land grab near Hebron
-Palestinians confronted Israeli settlers near Hebron over their attempt to seize Palestinian land
+## Israeli forces kill nine in Tyre after issuing forced displacement orders
+Israeli forces killed nine people in Tyre in the past 24 hours after it issued forced displacement orders on the city.
 
-## Mexico prepares for World Cup opening match amid protests
-Final preparations are underway for the opening of the 2026 FIFA World Cup at Mexico City's Azteca Stadium.
+## Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats
+Trump had threatened to halt the opening of the cross-border bridge, which is jointly owned by Michigan and Canada.
 
-## After Nagorno-Karabakh, Armenians vote for peace over nationalism
-Nikol Pashinyan's victory suggests Russia's influence in the country is waning.
+## Bear captured after days of panic and school closures in Japan
+A bear that triggered days of disruption in the Japanese city of Utsunomiya was captured.
 
-## Trump says Iran shot down US helicopter over Hormuz, vows to respond
-US president says although the pilots were rescued, Washington 'must, of necessity, respond to this attack'.
+## Iran conflict: Why has oil stayed near $100 a barrel?
+The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
 
-## Kenya’s police crack down on protest against US Ebola centre in Nanyuki
-Protesters clash with police in Kenya as they march against a US-run Ebola quarantine centre near the town of Nanyuki.
+## What will the fallout be from the unrest in Pakistan-administered Kashmir?
+Recent clashes between protesters and police killed at least 11 people.
 
-## Nigeria plays Portugal in international World Cup friendly: All to know
-All the news on the teams, lineups and start time as Portugal complete their World Cup preparations against Nigeria.
+## Why so many Americans haven’t heard about the USS Liberty
+Al Jazeera’s Ava Warriner explains what happened on the day of the attack, the alleged cover-up that followed.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
