@@ -1,28 +1,34 @@
 # AION Intelligence
 
+## Nasdaq slides in volatile trading as tech sell-off reignites
+Heavy losses for AI-linked stocks overshadow gains across rest of market
+
+## Oil slides as US official says Hormuz transits are ‘meaningfully’ climbing
+Energy secretary Chris Wright cautions that flows through the strait will take months to fully recover
+
+## The hard truths about England’s receding coastline
+The entire shoreline cannot be protected from erosion, but the state can mitigate future fallout
+
+## Trump vows to ‘respond’ after Iran ‘shot down’ a US helicopter
+US president said Tehran downed Apache aircraft over Strait of Hormuz amid fragile ceasefire
+
+## Starmer to tell ministers to quit if they back Burnham
+Supporters of Greater Manchester mayor say he already has enough MPs to launch a leadership challenge
+
+## The Fed is going to have to rethink its global role
+Stabilising the finances of another country is a foreign policy decision as well as an economic one
+
 ## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
 Three companies reinstated as US national security risk after sudden removal in February
 
 ## GSK to buy US cancer biotech Nuvalent for $10.6bn
 New chief Luke Miels makes his mark at GSK with one of UK drugmakers’ biggest deals
 
-## Lessons from Germany’s (entirely predictable) UN Security Council defeat
-In a world of aggressive great powers, middle powers must learn to forge alliances
+## GSK’s $10.6bn cancer deal will lead to more
+Making additional moves would be in keeping with pharma group’s strategy of building its pipeline as fast as possible
 
-## EU considers suspending rise in Russian oil price cap
-Limit on Russian crude was set to increase from $44 a barrel to $70 following supply disruption due to Middle East war
-
-## VodafoneThree bids for TalkTalk consumer business
-Acquisition would help UK’s largest mobile operator fulfil ambition to double its broadband business
-
-## Trump and Netanyahu’s paths diverge
-Also in today’s newsletter, president booed at Knicks-Spurs game and will Trump abandon Taiwan?
-
-## Warsh’s narrow path to success as Fed chair
-His first rate-setting meeting sets the direction of travel for a potentially turbulent term in office
-
-## Trump is becoming Jimmy Carter
-Like the 39th US president, the current occupant of the White House has handed control of the narrative to Iran
+## Space strawberry grower grows share count before strawberries
+Extract on space, repent at leisure
 
 ## Boots in talks over $10bn sale as owners look to ditch IPO plan
 Weston family and Australian group Sigma Healthcare both interested in buying UK pharmacy chain
@@ -30,38 +36,35 @@ Weston family and Australian group Sigma Healthcare both interested in buying UK
 ## Brussels orders Meta to open WhatsApp to rival AI agents
 Emergency measures signal EU efforts to intervene over rapidly developing market for autonomous agents
 
-## Urban pollution in wealthy world still adding to heart damage, study finds
-Canadian research linking CT scans to pollutants shows severity of cardiovascular effects
+## VodafoneThree bids for TalkTalk consumer business
+Acquisition would help UK’s largest mobile operator fulfil ambition to double its broadband business
 
-## BP investors push for change at ‘mismanaged kingdom’
-Lack of detail on why Albert Manifold was fired sows doubts over culture overhaul
+## NASA unveils Artemis III crew as moon mission plans move closer to reality
+The selected astronauts will first take part in Earth-orbiting training missions, practicing docking with lunar landers developed by competing contractors SpaceX and Blue Origin
 
-## How to Rule the World — Stanford’s lucrative bond with Silicon Valley
-The elite California university produces an outsized share of start-up entrepreneurs — and outsized profits from its proximity to Big Tech
+## Iran responsible for downing American helicopter, US must respond: Trump
+The incident led to a rare drone boat rescue operation by the US military, which located and retrieved the two aviators after they spent about two hours in the water
 
-## Adani Green Energy promoter sells 1.3% stake for ₹3,246 cr; Adani Infra buys shares
-According to the block deal data on the NSE, Ardour Investment Holding Ltd, a promoter entity, offloaded 2,15,00,000 shares representing a 1.3 per cent stake in Adani Green Energy
-
-## India trusted partner in quantum computing, supply chains: US official
-Sarah Rogers’ visit to India came close on the heels of the Quad foreign minister’s meeting that was attended by US Secretary of State Marco Rubio on May 24
-
-## Letters to the Editor dated June 9, 2026
-
-
-## IVRCL case: NCLAT Chennai refers Rs 150 crore forfeiture issue to chairperson after split verdict
-While the tribunal upheld the rejection of the bid due to non-payment and asset disputes, members differed on whether the deposit should be forfeited
+## PMLA case: Martin family challenges attachment of properties worth Rs 456 crore
+The petitioners have filed 39 appeals challenging orders of the Appellate Tribunal and Adjudicating Authority, which upheld the Enforcement Directorate’s attachment of assets in the alleged lottery scam case.
 
 ## Gold plunges below $4,300/oz as precious metals complex pares all gains made this year
 The complex has headed south since the Iran war broke out, Tuesday’s drop was ahead of US inflation report due on Wednesday
 
-## Bombay HC decision eases interest pressure for telcos: experts
-Bombay HC’s ruling on one-time spectrum charges relieves interest pressure for telcos, benefiting Vodafone Idea and improving industry sentiment.
+## Bombay HC refuses asset freeze plea in ₹19,500-crore EuroChem-Tecnimont dispute
+Justice Gauri Godse, in a judgment delivered on June 8, held that EuroChem had failed to establish a prima facie case for freezing Tecnimont’s assets pending trial
 
-## Editorial. Timely support
-Aviation fuel relief for airlines, a welcome move
+## MSEDCL targets IPO by 2026-end after ₹32,000 crore debt restructuring
 
-## Complex fertilizer sales up 27% in May, chops of saving from lower sales of urea
-Overall consumption of urea, DAP, muriate of potash (MOP) and complex was 39.5 lakh tonne (lt) in May against 39.4 lt a year ago
+
+## OMCs received ₹1.23 lakh crore support to hold fuel prices
+Fertiliser Ministry seeks double the subsidy allocation
+
+## RBI opens premature redemption window for SGB 2019-20 Series VII
+The redemption, due on June 10, 2026, has been fixed at Rs 15,275 per unit based on the average gold price of the previous three business days as published by IBJA
+
+## Bond market push: Govt eyes Bloomberg index inclusion with latest G-Sec reforms
+
 
 ## Rupee gains 20 paise to settle at 95.41 against US dollar
 
@@ -84,55 +87,52 @@ India's economic outlook is darkening due to rising oil prices, fertilizer costs
 ## Russian crude here to stay? Why India-US energy ties may be more about LPG, LNG than oil despite Trump’s push
 Geopolitical developments in the last few months have dictated India’s energy supplies. Be it crude oil, LPG or LNG, India is largely dependent on the world to meet its needs, and the US-Iran war has disrupted supplies via the Strait of Hormuz.
 
-## 'GDP momentum intact, no need for extra borrowing': Centre plays down impact of Middle East crisis
-Despite global economic headwinds from the Middle East crisis, India's government remains optimistic about growth, citing strong domestic consumption and intact GDP momentum. Officials confirm no immediate need for extra borrowing, with fiscal targets holding firm. Disinvestment plans are progressin
+## Election Commission officials ‘refused to meet us’ over our petition: Congress leaders
+Congress leader Meenakshi Natarajan lashed out at the BJP and accused it of "attempting to manipulate the Rajya Sabha election".
 
-## MP '3rd seat' mystery ends before it begins: Flight aborted, RS nomination junked, Cong's Meenakshi Natarajan cries foul
+## Bengal to drop ‘dham’ from Digha Jagannath temple on Odisha’s CM’s request
+The coastal temple complex was a flagship project of the previous Trinamool Congress (TMC) government, which inaugurated it in April 2025.
+
+## Sri Lanka President Disanayaka sends congratulatory message to PM Modi
+Disanayaka’s message to Modi, which was sent on June 8, also reflected the upswing in India-Sri Lanka relations in recent years.
+
+## A dam across the sea: Kalpasar gets fresh push after PM’s Netherlands visit
+The Detailed Project Report (DPR), which will determine the Kalpasar project’s technical and economic viability, is in its final stages.
+
+## PM Modi to visit France, Slovakia from June 13; G7 meeting in Evian on agenda
+PM Narendra Modi is expected to attend several key summits during his time in France followed by the G7 and bilateral talks with Slovakia
+
+## NEET UG leak accused Yash Yadav seeks interim bail to appear in re-exam on June 21
+Special Judge (CBI) Ajay Gupta granted time to the CBI to file its reply on the application moved by Yash Yadav.
+
+## Flight aborted, RS nomination junked, Cong's Meenakshi Natarajan cries foul: MP '3rd seat' mystery ends before it begins
 Meenakshi Natarajan’s nomination was rejected on grounds of alleged non-disclosure of information related to a case in her affidavit.
 
 ## Modi reaches out to Kuwaiti Amir after airport attack, calls for de-escalation
 PM MOdi condemned attacks targeting Kuwaiti territory and airspace, including an assault on its airport that killed an Indian national and injured several others
 
-## Online consumers lose over ₹25,000 cr to online traps despite norms: Survey
-The report said dark patterns risked becoming embedded in everyday online transactions unless compliance and enforcement improve substantially
-
-## Congress flags ‘discrepancies’ in BJP-backed Nathwani's RS poll nomination papers; files complaint
-Nathwani, the Rajya Sabha MP from Andhra Pradesh, filed his nomination papers for one of the two Rajya Sabha seats in Jharkhand on Monday.
-
-## Who is Meenakshi Natarajan? Rahul Gandhi's OG team member at centre of RS nomination row
-BJP candidate Mahesh Kewat, who is contesting the third Rajya Sabha seat, had submitted a complaint to the returning officer.
-
-## BJP leader seeks central probe into Ayodhya Ram Mandir fund 'embezzlement' charges
-In a letter to Prime Minister Narendra Modi, Singh demanded that the matter be investigated by an independent Central agency.
-
-## Huge row after Congress candidate Meenakshi Natarajan's RS nomination rejected in Madhya Pradesh
-A complaint alleged that Meenakshi Natarajan deliberately hid information about a case filed against her in Telangana.
-
-## All-weather ‘lifeline’ connecting Kashmir and Ladakh: Zojila tunnel's ends meet as mountain piercing complete
-The road is meant to provide year-long access for civilian and defence use to Ladakh, reducing a 3-hour travel to 15 minutes. Here are the steps towards opening
-
-## Farmer harnesses wife to plough after ox dies, Rohit Pawar seeks help
+## UzChess Cup 2026: Arjun in joint lead; Vidit opens account with draw
 
 
-## JD Vance says Charlie Kirk’s death influenced Usha’s decision to have fourth child
+## Fresh maternal health concern in Rajasthan: 4 new mothers in serious condition at Bikaner hospital
 
 
-## Mumbai water tanker strike called off after CM Fadnavis intervenes, operators assured notices will be revoked
+## Serena Williams returns to professional tennis at Queen’s Club
 
 
-## BMC vigilance department flagged structural faults in Mrinaltai Gore flyover 5 years before it was inaugurated
+## NASA unveils Artemis III astronauts to test technology for future moon landing
 
 
-## Amid CID searches and TMC rebellion, Mamata meets Sonia in Delhi
+## Why FSSAI has warned against wrapping food in newspapers
 
 
-## Infra panel clears Rs 22,611-crore tunnel, bridge & Metro projects in MMR
+## Soil at Shiv Shakti Point chemically close to lunar meteorite that hit Antarctica
 
 
-## Not a drop to drink: When FIFA didn’t allow players a sip of water during games
+## Trump says Iran downed Apache helicopter, ‘US must respond to attack’
 
 
-## Congress, Sena (UBT) seek Girish Mahajan’s removal over Operation Blue Star remarks
+## Arunachal village sees violence over dam: Multiple houses vandalised, prohibitory orders issued
 
 
 ## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
@@ -207,6 +207,9 @@ An entire generation of Afghan girls have had their aspirations suspended by pol
 ## At Least 32 Dead After Earthquake Hits Southern Philippines, Authorities Say
 President Ferdinand Marcos Jr. has stated that "the national government is moving and we will not leave Mindanao behind."
 
+## How Can Lebanon’s Partners Help Strengthen the Lebanese Armed Forces?
+The Lebanese state’s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However, figh
+
 ## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
 Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
 
@@ -227,9 +230,6 @@ In August 2024, scholars at a Xiamen-based think tank published a paper urging B
 
 ## Is Time on China’s Side? Beijing’s Taiwan Calculus and the Balance of Power
 When is the risk of war the highest? And what should the United States be doing about it? One of the most important but underappreciated questions in international politics is how states think about the future balance of power. Countries that believe their position is improving often choose patience
-
-## Forged in a Knife Fight: China’s Brutal Domestic AI Competition
-China’s plan to become a world leader in AI by 2030 is a fixture of practically every Congressional briefing and expert commentary on Beijing’s AI ambitions. The plan’s logic — introduced in 2017 — was simple and alarming: Beijing would direct capital, mobilize its firms, recruit talent, and execute
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel preventing more than 16,500 Palestinians from accessing medical treatment
+Israel has systematically destroyed Gaza's healthcare system since launching its genocidal war in October 2023.
+
+## ‘Anything but normal’: Uncertainty as Iranians try to get by amid US war
+War damage and blockade have worsened economic conditions for many struggling Iranians.
+
+## Palestinians confront Israeli settlers over land grab near Hebron
+Palestinians confronted Israeli settlers near Hebron over their attempt to seize Palestinian land
+
+## Mexico prepares for World Cup opening match amid protests
+Final preparations are underway for the opening of the 2026 FIFA World Cup at Mexico City's Azteca Stadium.
+
+## After Nagorno-Karabakh, Armenians vote for peace over nationalism
+Nikol Pashinyan's victory suggests Russia's influence in the country is waning.
+
+## Trump says Iran shot down US helicopter over Hormuz, vows to respond
+US president says although the pilots were rescued, Washington 'must, of necessity, respond to this attack'.
+
 ## Kenya’s police crack down on protest against US Ebola centre in Nanyuki
 Protesters clash with police in Kenya as they march against a US-run Ebola quarantine centre near the town of Nanyuki.
 
 ## Nigeria plays Portugal in international World Cup friendly: All to know
 All the news on the teams, lineups and start time as Portugal complete their World Cup preparations against Nigeria.
-
-## Six countries sanction enablers of settler violence in occupied West Bank
-The Western nations also say they will take further measures if Israel fails to address the situation on the ground.
-
-## Did Netanyahu really ‘defy’ Trump in bombing Iran?
-Experts say the latest confrontation has laid bare growing divisions between the two leaders.
-
-## Deadly protests in Pakistan-administered Kashmir: What’s going on?
-Experts say the current crisis is part of a deeper, long-running debate about governance in the region.
-
-## Modi is using a cannon to kill a cockroach
-A student parody account has rattled India’s most powerful man and exposed just how thin his skin has become.
-
-## Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon
-The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.
-
-## Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons
-Former detainees tell Al Jazeera they were routinely sexually abused, starved and attacked by dogs.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
