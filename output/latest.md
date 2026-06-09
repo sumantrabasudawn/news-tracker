@@ -1,61 +1,79 @@
 # AION Intelligence
 
-## GSK to buy cancer biotech Nuvalent for $10.6bn
-Deal ranks as one of UK drugmaker’s biggest as biotech M&A activity accelerates this year
+## ‘Rent now, pay later’ loans target US consumers squeezed by housing costs
+Demand for short-term financing expands into rental market amid deepening affordability crisis
 
-## Indonesia unexpectedly raises interest rate to support rupiah
-Central bank’s move at off-cycle meeting follows 0.5 percentage point rise last month
-
-## European satellite group Iceye in €1bn funding led by General Atlantic
-Capital raise values Finnish-Polish group at €10bn
-
-## We’ve died and gone to volatility heaven
-Plus non-dollar stablecoins
-
-## EU capitals to rip apart ‘sacrificial lamb’ first draft of new bloc budget
-Also in this newsletter: First discussions on proposals to reduce US tech reliance
-
-## Chinese exports climb as AI boom fuels trade
-Imports show strong growth as world’s second-biggest economy shakes off impact of energy shock
+## Too few women in leadership? Try rewriting your job postings
+Widely mocked government suggestions for gender-neutral ads are proving more popular, and effective, than critics think
 
 ## FirstFT: SpaceX investors asked to buy Musk’s ‘moonshots’
-Also in today’s newsletter: Hungary’s anti-graft AI and GSK-Nuvalent merger talks
+Also in today’s newsletter: Europe launches new fighter jet and Trump booed at Knicks game
 
-## Africa’s Fastest-Growing Companies
-South Africa dominates the 2026 rankings as Kenya leapfrogs Nigeria into second place and an Egyptian business tops the list for the first time. Plus: fintechs offer a fix to Africa’s financial problems and a solar success with more than 50mn customers across the continent
+## So long Tate & Lyle, stock market trivia titan
+Sweetest goodbye or sticky situation?
 
-## Inside the battle to break up the world’s oldest bank
-Monte dei Paschi emerged from public ownership to become an improbable consolidator. Intesa and BPM have it in their sights
+## Oil market defies predictions of summer supply crunch
+Crude prices stay below $100 a barrel as China’s import cuts help eke out global stockpiles
 
-## Italy’s World Cup of banking drama
-Rival moves for Monte dei Paschi are setting the stage for a rare takeover battle in Italian banking
+## GSK to buy US cancer biotech Nuvalent for $10.6bn
+New chief Luke Miels makes his mark at GSK with one of UK drugmakers’ biggest deals
 
-## Trump critic Doug Ford urges president to ‘get a deal’ with Canada
-Pugnacious Ontario premier who has sparred with the president takes diplomatic tone on Washington visit
+## Will Starmer fight or fold?
+No 10 tries to gauge support for PM as failing to secure backers would be embarrassing and suggest he can’t govern
 
-## Monsoon may slow down as western disturbance creeps in over north-west India
-Heavy to very heavy rain regime over parts of west coast may not sustain beyond next couple of days
+## Indonesia unexpectedly raises interest rate to support rupiah
+Central bank’s off-cycle move follows rout in currency and stock market
 
-## HDFC Bank hikes lending rates by up to 10 bps across tenors
-The benchmark one-year MCLR has been revised up by 5 basis points to 8.40%
+## PwC investigated by accounting regulator over WHSmith audit
+FRC to probe Big Four firm’s work after UK travel retailer revealed accounting errors in US business
 
-## India's May fuel consumption rises month-on-month, slips annually
-Data also showed that LPG consumption fell about ‌20% from a year earlier to 2.13 million tons
+## Airbus plans German-led alliance to replace doomed fighter jet
+Group of eight companies wants to develop a sixth-generation fighter jet for Europe
 
-## SpaceX IPO fever sparks hunt for proxy plays in Asia
-Shares of satellite and rocketry-related companies worldwide have surged as everything from Starlink component ⁠manufacturers to ETFs that own private shares in SpaceX draw strong demand.
+## Dutch supercar brand Spyker wins crypto backing in latest revival bid
+Ukrainian billionaire Volodymyr Nosov acquires ‘significant’ stake in carmaker
 
-## The biggest World Cup yet
+## Sensex today | Stock Market Highlights: Sensex gains 395 pts, Nifty rises to 23,242; Indigo, SBI top gainers
+Sensex, Nifty, Stock Price Highlights: Indian share benchmarks rose on ​Tuesday, led by lenders after the central bank detailed a ‌concessional forex swap facility for banks' overseas foreign-currency borrowings, while ​a pause in Israel-Iran hostilities helped ⁠cool oil prices.
 
+## US Army helicopter crashes near Strait of Hormuz, crew members safe: Trump
+The incident comes as Iran-Israel tensions intensify, energy markets remain unsettled and diplomatic efforts continue to secure a possible ceasefire deal
 
-## Sensex today | Stock Market Live Updates: Markets lose early gains, trade flat; Indigo, M&M, Trent top gainers
-Sensex, Nifty, Stock Price Live Updates: Indian shares were set to open little changed on Tuesday with persistent foreign outflows keeping investors cautious, while Israel and Iran halted strikes on each other but left the door open for a resumption of attacks
+## India’s first defence land solar project gets MoD approval in Sitapur
+Defence Ministry has identified over 45,900 acres that can be utilised for setting up renewable energy projects
 
-## Zepto founders received ED summons under FEMA, says updated IPO document
-Founders Aadit Palicha and Kaivalya Vohra appeared before the ED and provided the relevant information and documents requested by the directorate
+## Wheels India expands patent portfolio to 125, steps up R&D spend in FY26
+The company increased its R&D expenditure to 0.76 per cent of turnover in FY26 from 0.53 per cent in the previous year
 
-## US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms’ overseas units
-This comes after the Trump administration last week moved to halt a potential loophole that may ‌have led companies to export advanced chips such as those made by Nvidia to subsidiaries ‌of Chinese companies located outside China.
+## Ministry, NTA, NMC officials to appear before par panel on health tomorrow over NEET re-exam
+Officials from key ministries and agencies will update MPs on the June 21 test and related issues
+
+## L&T turns to automation and robotics as construction faces manpower challenges
+Larsen & Toubro says rising project scale and labour availability challenges make traditional manpower-driven growth difficult, prompting greater use of prefabrication, modular structures and robotic systems
+
+## Tamil Nadu assures support for HD Hyundai's proposed shipyard project
+Guidance Tamil Nadu, the state government’s nodal agency for investment promotion, said the minister’s visit was a signal of continuity, confidence and commitment to industry
+
+## Short-sellers to tread carefully as Musk's SpaceX debuts
+The company's valuation exceeds most other mega-caps, and the economics around its xAI platform ‌and technologies like orbital data centres are uncertain, Morningstar analysts said in a recent note
+
+## China's exports jump 19.4 per cent in May, driven by tech and EV demand
+China's exports surged 19.4% in May, exceeding forecasts, driven by robust demand for semiconductors and electric vehicles. Shipments to the US saw a significant rebound, growing over 35%. This strong trade performance is expected to support China's economic growth targets for the year.
+
+## Coal market reform: Government notifies rules for setting up coal exchanges
+The government has notified rules for setting up coal exchanges to improve price discovery and transparency in the coal market. These exchanges will facilitate market-driven trading, offering commercial and captive miners wider buyer access. This initiative aims to modernize the coal supply chain an
+
+## Strait of Hormuz closure: Why high oil prices may be a temporary shock only - explained
+“Oil prices will be lower if Hormuz reopens earlier. Uncertainty remains high regarding the timing of Hormuz reopening, and oil prices will remain volatile as a result,” Fitch says.
+
+## Fitch trims India's growth forecast to 6.4% as Middle East turmoil clouds outlook
+Fitch Ratings has lowered India's FY27 GDP forecast to 6.4% due to rising costs from Middle East conflict impacting consumer spending. While domestic demand remains a driver, higher prices are expected to reduce purchasing power, with the most visible impact in Q2 and Q3 of FY27.
+
+## ITR filing FY 2025-26: What is Form 16 and where do you get it from? Top things salaried taxpayers should know
+Apart from Form 16, other important documents that you should keep handy are Form 26AS, Annual Information Statement (AIS), bank account interest earnings, any investment related documents etc.
+
+## Zoji La tunnel's major 'breakthrough' milestone! World's longest bi-directional road tunnel at high altitude an engineering marvel; stunning pics
+The tunnel, a key strategic project that will ensure year-round connectivity between Kashmir and Ladakh, is set to reach a major milestone on Tuesday with the scheduled "breakthrough" blast.
 
 ## More measures on gold coming? Finance Ministry asks banks for information on gold metal loans
 Despite a lower import volume of 721 tonnes compared with the previous year, India's gold import bill rose 24% to a record $71.9 billion in 2025-26.
@@ -63,77 +81,65 @@ Despite a lower import volume of 721 tonnes compared with the previous year, Ind
 ## Rupee rebounds 20 paise to 95.41 against US dollar
 The Indian rupee strengthened by 20 paise against the US dollar in early trade on Tuesday, opening at 95.47. This gain was attributed to easing oil prices, a weaker US dollar index, and a de-escalation of tensions between Israel and Iran. Domestic equity markets also traded higher, reflecting positi
 
-## SpiceJet's cash crunch deepens: Many pilots unpaid since March, airline seeks emergency loan
-SpiceJet pilots and employees are still awaiting salaries owed since March, as the airline seeks an emergency government-backed loan. Internal messages reveal significant financial strain, with employees struggling to manage daily expenses. The airline acknowledges payment delays, attributing them t
+## A surprise BJP candidate has turned MP's Rajya Sabha race into a thriller
+In the 230-member Madhya Pradesh Assembly, a Rajya Sabha candidate needs 58 votes to win. The BJP, with 164 MLAs, has enough strength to secure 2/3 seats.
 
-## Gold price prediction today: Gold falls to nearly 11-week low before recovering; check June 9, 2026 outlook
-Gold price prediction today: Gold prices continue to be under pressure as crude oil prices remain high, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## Money laundering case: SC to hear Jacqueline Fernandez’s plea on Delhi court order
+Jaqueline has challenged the trial court order directly before the top court without approaching the Delhi high court
 
-## Commercial LPG shortage impact: IRCTC forced to resume cooking onboard trains; deploys induction stoves
-To maintain catering services across 1,400 trains serving around 1.7 million meals daily, the railway catering arm has begun preparing food inside Linke Hofmann Busch (LHB) pantry cars using electricity.
+## Rajnath Singh approves 250 MW solar project on defence land in UP's Sitapur
+State-run power major NTPC Limited will implement the project through a competitive bidding process to ensure optimal energy pricing.
 
-## Oil prices ease as Iran and Israel pause attacks; Brent, WTI retreat from recent highs
-Oil prices dipped Tuesday as Iran and Israel paused attacks, easing immediate supply disruption fears. This followed a sharp rise on Monday amid renewed Middle East tensions. Despite the de-escalation, concerns linger over the Strait of Hormuz and Houthi actions impacting Red Sea shipping. OPEC+ agr
+## Only surviving member of Gurugram family killed in Delhi B&B fire dies
+Eight members of the family had moved to the B&B to look after critically ill Radhe Shyam Aggarwal, 77, who was admitted to a nearby hospital
 
-## Top stocks to buy or sell today: Stock market recommendations for June 9, 2026 - check list
-Stock market recommendations: Kalyan Jewellers India, and Interglobe Aviation (IndiGo) are sell calls by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan for June 9, 2026. He recommends buying Fortis Healthcare.
+## Israel to install Shivaji statue ‘to deepen ties’ with India, diplomat meets Fadnavis in Mumbai
+Revealing the proposal sent to Maharashtra CM, Revach said the “long-term project” would be a display for “goodwill for the Indian people” from Israel.
 
-## Indian eco resilient amid global turmoil, says Sebi chief
+## 'He is being framed': Khan Sir's students welcome court relief in Patna coaching centre firing case
+The order was welcomed by his students, who expressed faith in the judiciary, called it a relief for the student community.
 
+## ‘No intent to topple’ Vijay's govt: DMK clarifies Stalin’s ‘3 months’ remarks on TVK's coalition regime in Tamil Nadu
+DMK senior leader and former minister Thangam Thennarasu said there was no "intent to dissolve or topple the government" behind Stalin's comments.
 
-## TMC crisis LIVE: MP Kakoli Ghosh, 19 rebels offer support to NDA in fresh jolt to Mamata; another party leader arrested
-TMC crisis LIVE updates: In the latest jolt for a week Mamata Banerjee after a rebellion by state legislators, party's Lok Sabha members, led by MP Kakoli Ghosh, have also indicated of splitting away to support the BJP-led National Democratic Alliance (NDA).
+## PMLA case: ED summons T Veena, daughter of ex-CM Pinarayi Vijayan for questioning
+The investigation pertains to a money laundering case against a Kerala-based sand mining company and Veena’s now defunct company Exalogic Solutions Private Limited
 
-## Wedding turns into tragedy in Uttarakhand as bride's father dies of heart attack after dowry dispute
-Angry relatives of the bride, joined by locals, held the groom and several wedding guests hostage and assaulted them.
-
-## From Mamata loyalist to rebel camp leader: Kakoli Ghosh Dastidar's journey
-Kakoli Ghosh Dastidar is now spearheading a breakaway group that claims the support of a large section of TMC MPs in the Lok Sabha.
-
-## As monsoon begins, Kerala cracks down on illegal fishing to protect breeding fresh water fish
-As monsoon begins, Kerala cracks down on illegal fishing to protect breeding fresh water fish
-
-## Indian-American Nithya Raman clinches place in run-off election for LA mayor
-Should Nithya Raman win the run-off election, Indian-American politicians will run two of the largest US cities, New York and LA
-
-## Dalit teen beaten to death in Uttarakhand over befriending girl from upper caste community
-Members of the girl's family allegedly locked the teen inside a room and beat him up. He later succumbed to the injuries.
-
-## US court strikes down Trump's ‘unlawful’ $100,000 fee for H-1B visa. What it means for Indians?
-In September last year, US President Donald Trump hiked the fee for the application of H-1B visa to a whopping $100,000.
-
-## 'Sar katega, jhukega nai': TMC's Kakoli Ghosh after bye to Mamata, hi to NDA with 19 rebels
-TMC's Kakoli Ghosh said she and 19 other MPs are willing to support the NDA - latest jolt to Mamata Banerjee who faces major internal strife after poll loss.
-
-## OpenAI files for US IPO after Anthropic as AI giants head to public markets
+## Fake Nirmala Sitharaman video used to scam doctor of Rs 68 lakh? Court grants bail to arrested bank officials
 
 
-## DASA UG, CSAB special round counselling 2026; check full schedule
+## Neena Gupta shares an unusual morning dressing room ritual: ‘I get up at 5 or 5.30 am’
 
 
-## Big win for Airtel, Vodafone Idea: The case of retrospective spectrum charge, which Bombay HC quashed
+## Maharashtra Cabinet increases departments from 33 to 43 to fast-track decisions
 
 
-## Promised Canadian PR, Rs 1.8 crore gone: How Delhi couple was scammed
+## Bombay High Court reinstates school employee, calls sacking arbitrary
 
 
-## How Bhuvneshwar Kumar became the bowler no one can read
+## ‘Delhi has pollution, Mumbai floods, Bengaluru traffic’: Revanth’s Hyderabad pitch
 
 
-## Sunny Deol’s Lahore 1947 renamed Batwara 1947; makers release motion poster, release date
+## Apple brings major updates to Image Playground, Photos: Here’s what’s new
 
 
-## ED summons Kerala ex-CM Pinarayi Vijayan’s daughter in money laundering probe
+## Lionel Messi to play final warm-up game before 2026 FIFA World Cup
 
 
-## Over 4,800 preventive detentions in Prayagraj, Ghaziabad since 2024: Court says powers ‘misused to hilt’
+## With record-high spending, what is driving Japan’s changing defence outlook?
 
+
+## Hong Kong launches tax-break plan to strengthen role as a corporate treasury base
+The Hong Kong government has unveiled an action plan to broaden tax incentives and introduce a pre-approval mechanism aimed at attracting more companies to establish corporate treasury centres in the city, according to Secretary for Financial Services and the Treasury Christopher Hui Ching-yu. “This
+
+## Pentagon blacklists China tech giants as US competition expands
+The Pentagon added tech giants Alibaba and Baidu and carmaker BYD to a blacklist of Chinese companies with military ties amid widening competition between the world’s two largest economies. Drug maker WuXi AppTec, robot company Unitree and carmaker Nio were among other businesses added to the 1260H 
 
 ## McDonald’s cashes in again as Hong Kong property sell-down continues
 McDonald’s has sold another Hong Kong retail property, continuing its years-long effort to cash in on real estate assets accumulated during its rapid expansion across the city over the past few decades. The latest disposal involved Shop 1 on the upper ground floor of Parkvale Place on King’s Road in
 
 ## Alibaba and WuXi AppTec decline in Hong Kong after addition to US blacklist
-Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday after the US placed them and several other Chinese companies on a blacklist over alleged military links. Alibaba slipped 0.3 per cent to HK$118.50 and WuXi AppTec tumbled 5.5 per cent to HK$114.60 in morning trading in H
+Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday after the US placed them and several other Chinese companies in key emerging industries on a blacklist over alleged military links. Alibaba slipped 1.4 per cent to HK$117.10 and WuXi AppTec tumbled 3.7 per cent to HK$116
 
 ## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
 In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
@@ -147,11 +153,8 @@ Amid rapid market shifts in China, more foreign companies including retail and p
 ## When Fit-Out Costs Bite, Location Strategy Matters More Than Ever — West Kowloon Shows Why
 [The content of this article has been produced by our advertising partner.] Across the Asia Pacific region, the economics of office occupancy have changed materially. Fit-out costs in Sydney, Tokyo, Hong Kong, and Singapore have surged past US$270 per square foot at mid-specification. Grade A rents 
 
-## Leaks and backdoors: China warns of security risks in relay services for foreign AI models
-China’s national security authority has warned of risks in using “artificial intelligence relay services” that provide access to overseas AI models, highlighting concerns over data leaks, privacy breaches and unauthorised cross-border data transfers amid a thriving grey market for restricted foreign
-
-## China’s EV giants challenge Tesla in race to commercialise humanoid robots
-Chinese electric vehicle (EV) makers are opening a new front in their battle with Tesla: humanoid robots. After spending years competing on electric cars and autonomous driving technology, leading Chinese manufacturers including BYD and Xpeng are now accelerating plans to mass-produce humanoid robot
+## How to Escape Blame for Bad Advice
+If you get an important strategic issue wrong, there are still ways to avoid accountability.
 
 ## The Invisible Hand Won’t Rebuild U.S. Shipyards
 War in Iran has put a spotlight on declining U.S. maritime power.
@@ -173,9 +176,6 @@ RFK fans and China hawks are on a collision course over peptides.
 
 ## The U.S. Can’t Exclude China From Latin America
 Rather than pushing Beijing out of the region, Washington should offer countries better strategic alternatives.
-
-## Trump Is Doing What FDR Could Not
-But the president’s success at purging his party could cost the GOP in the long term.
 
 ## Lee Jae-myung’s First Year Successes Put South Korea on the Path to Tangible Results
 Last year, Lee stated in his inauguration speech that pragmatism and the national interest were the guiding principles of his presidency.
@@ -201,6 +201,9 @@ The rise of majoritarian politics globally, combined with a shifting geopolitica
 ## The North Korea Succession Issue
 Is a teenage girl being positioned as North Korea's next leader?
 
+## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
+Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
+
 ## Is Skepticism Ukraine’s Foreign Policy Playbook?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -221,9 +224,6 @@ When is the risk of war the highest? And what should the United States be doing 
 
 ## Forged in a Knife Fight: China’s Brutal Domestic AI Competition
 China’s plan to become a world leader in AI by 2030 is a fixture of practically every Congressional briefing and expert commentary on Beijing’s AI ambitions. The plan’s logic — introduced in 2017 — was simple and alarming: Beijing would direct capital, mobilize its firms, recruit talent, and execute
-
-## Revisiting The Importance of the Battle of Midway
-The Battle of Midway has assumed a place in American naval lore that has put it on par with other great battles in world naval history. What Salamis was for the Greeks, Trafalgar for the British Royal Navy, and Tsushima for the Japanese, the clash northwest of Midway Island on June 4, 1942, represen
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘As close as lips and teeth’: The highs and lows of China-North Korea ties
-Chinese President Xi has been welcomed in Pyongyang for his first visit since 2019.
+## Trump courts boos at historic New York NBA Finals appearance
+President Trump's appearance at Madison Square Garden overshadowed by boos, heavy security and political undertones.
 
-## Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding
-My family survived the massacre that freed four captives. Its wounds and nightmares have not left us.
+## Iran conflict: Why has oil stayed near $100 a barrel?
+The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
 
-## India’s fertility rate falls below replacement level: Why it matters
-India's fertility rate falls to 1.9 children per woman, with consequences for the workforce, the elderly and economy.
+## Iran says US has revoked World Cup ticket allocation for their supporters
+Iranian players and support staff got US visas and landed in Mexico on Sunday for the World Cup, but now fans in doubt.
 
-## Ebola death toll in DR Congo climbs to 101
-The Democratic Republic of the Congo is grappling with its 17th Ebola outbreak since virus was first identified in 1976.
+## Ranking the Middle East and North African teams at World Cup 2026
+Breaking down the eight Middle East and North African teams' chances at the World Cup in North America.
 
-## FIFA drops Somali World Cup referee after US denies him entry
-Award-winning Somali referee, Omar Artan, has been removed from the World Cup roster after being denied entry into US
+## Indian crew rescued after attack on oil tanker off Oman
+Indian crew rescued after attack on oil tanker off Oman
 
-## Israel kills 14 in southern Lebanon after trading fire with Iran
-Killings come as Iran warned of 'crushing blows' if Israeli attacks continued in Lebanon, including in the south.
+## Deschamps backs hat-trick hero Olise to shine for France at World Cup
+Michael Olise starred alongside Kylian Mbappe, Ousmane Dembele and Desire Doue in 3-1 win against Northern Ireland.
 
-## Marwan Barghouti’s son calls for his release on stage at Berlin concert
-At Berlin’s Citadel Music Festival, activist Arab Barghouti called for the release of his father.
+## Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki
+Anger grows in Kenya as residents accuse the US of offloading Ebola risks onto Kenyans.
 
-## Israel intensifies strikes in southern Lebanon killing 12 people
-Al Jazeera’s Obaida Hitto reports on the strikes he witnessed in and around Tyre.
+## World Cup 2026: What time can fans in Europe, Middle East and Africa watch?
+Are you a football fan in Europe, Africa or the Middle East? Scroll down to find out World Cup timings in your region.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
