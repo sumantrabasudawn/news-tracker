@@ -1,127 +1,142 @@
 # AION Intelligence
 
+## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
+Three companies reinstated as US national security risk after sudden removal in February
+
+## Chinese exports climb as AI boom fuels trade
+Imports show strong growth as world’s second-biggest economy shakes off impact of energy shock
+
+## GSK in talks to buy cancer biotech Nuvalent for more than $9bn
+Deal would rank as one of UK drugmaker’s biggest as biotech M&A activity accelerates this year
+
+## Has India lost the AI race? Not entirely
+Also in this newsletter, what’s going on with Rajesh Exports?
+
+## China’s ‘silver economy’ shines as birth rate plunges
+Companies rush to develop products and services for rapidly ageing population
+
+## Apple unveils ‘Siri AI’ in challenge to rival chatbots
+Silicon Valley giant promises user privacy as it makes long-delayed overhaul of voice assistant
+
+## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
+Transaction is one of the largest private credit fundraisings, fuelling the Claude maker’s AI growth plans
+
+## Unpaid carers could get maternity-style ‘right to return’ to work
+Paid leave for employees who quit to look after a friend or relative among protections being considered by government
+
+## FT Financial Literacy and Inclusion Campaign
+The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+
 ## Trump’s $100,000 H-1B visa fee blocked by judge
 Ruling says six-figure charge is an unauthorised tax and orders it to be suspended
 
 ## OpenAI files to go public in blockbuster Wall Street listing
 ChatGPT creator has submitted paperwork for IPO expected to value company at more than $1tn
 
-## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
-Three companies reinstated as US national security risk after sudden removal from list in February
+## Sensex today | Stock Market Live Updates: Markets set to open flat amid foreign outflows and West Asia tensions
+Sensex, Nifty, Stock Price Live Updates: Indian shares were set to open little changed on Tuesday with persistent foreign outflows keeping investors cautious, while Israel and Iran halted strikes on each other but left the door open for a resumption of attacks
 
-## FirstFT: Inside Singapore’s plan to create an Asian BlackRock
-Also in today’s newsletter: Wall Street stocks rebound and Apple unveils long-awaited AI Siri
+## Indian equities set to open flat; IT stocks in focus
+NLC India OFS at ₹303; Grasim approves ₹3,094 crore capex for Lyocell expansion
 
-## Why Singapore wants to create an Asian BlackRock
-Temasek aims to turn Seviora into one of the region’s biggest asset managers
+## Dollar hovers around two-month high as Iran-Israel truce hangs in balance
+Euro and pound slip as markets eye US inflation data for clues on monetary policy
 
-## London mansion with mystery owner close to £190mn sale
-The Holme, set in four acres in Regent’s Park, previously sold for £139mn in 2024
+## Oil rises slightly as investors await clarity after Iran-Israel halt attacks
+Brent crude rises to $94.38 a barrel amid uncertainty over truce and Strait of Hormuz
 
-## Apple unveils long-awaited AI Siri after years of delays
-Silicon Valley giant seeking to differentiate itself with a commitment to privacy
+## Ukrainian strikes set off fires at oil facilities in Russia, Crimea
+Ukrainian forces targeted oil facilities in Russia and Crimea, escalating economic pressure amid ongoing conflict and diplomatic efforts
 
-## Wall Street rebounds as traders race back into chip stocks
-Intel and Micron among big gainers as fervour over AI-linked shares resumes
+## Gold steadies after Israel and Iran agree to end missile strikes
+Citigroup lowers three-month price target citing likely Fed rate hike
 
-## AstraZeneca advances weight-loss pill to take aim at obesity leaders
-Pill from drugmaker would put it into competition with market leaders Novo Nordisk and Eli Lilly
+## Apple unveils upgraded Siri voice assistant with new AI features at its annual conference
+Tim Cook’s last developers conference as CEO before handing over to John Ternus in September
 
-## From Siri AI to child safety tools: key takeaways from Apple’s WWDC 2026
-Apple unveiled a major Siri AI overhaul and expanded Apple Intelligence features at WWDC, along with new child safety tools, photo editing upgrades and deeper integration across its ecosystem
+## Buzzing stocks: Airtel, Vodafone Idea, NLC India, TCS, HCL, JSW Energy, Panacea Biotec, Simplex Castings, Avantel
+Key stock updates: Airtel, Vodafone Idea gain court relief; NLC India stake sale; TCS launches AI unit; JSW Energy expands
 
-## US judge strikes down Trump’s $100,000 H-1B visa fee as unlawful tax
-The court’s decision overturns a policy that had sharply reduced H-1B applications.
+## Indian eco resilient amid global turmoil, says Sebi chief
 
-## India aviation market exciting but high fuel costs remain a challenge: IATA chief
-Willie Walsh praised India’s airport infrastructure and support measures, stressing that stronger air connectivity will drive future aviation and economic growth
 
-## 6.1 magnitude earthquake hits offshore Cuba, shakes buildings in Havana
-There were no immediate reports of damage or casualties, and no tsunami warning or watch was issued
+## Goods export estimated to have grown 15 per cent in May
 
-## Apple unveils new AI features with privacy focus at WWDC 2026
-While Apple continues to trail some competitors in AI development, it is attempting to differentiate itself through privacy-focused innovation
 
-## Arnifi launches AI-powered banking, payments platform for corporates
-This platform will allow businesses to access traditional banks, digital banks and payment processors across key global jurisdictions
+## Haleon to set up 1st manufacturing unit in India, South Asia, invest Rs 2k cr
 
-## Zepto files updated IPO papers, plans ₹8,010 crore fresh issue
-The total issue size, including an offer for sale, is expected to be around ₹11,000 crore, with a potential listing in July
 
-## India willing to open market to high-quality, innovative pharma products: Goyal
-He projected that India’s pharmaceutical market could grow to USD 120 billion within five years, up from about USD 60 billion currently
+## Bombay high court bins government’s 12 retrospective spectrum charge; telecom companies get relief
+
+
+## OpenAI IPO: ChatGPT maker files paperwork, set to hit Wall Street soon
+AI giant OpenAI has confidentially filed paperwork for an initial public offering (IPO) with the SEC, signaling a potential Wall Street debut. While details remain undisclosed, the move aligns with a wave of anticipated tech listings, offering investors a chance to buy into leading AI firms.
+
+## Fresh tension in West Asia sinks Sensex by 719pts, Rupee falls
+
+
+## RBI to fully absorb forex risks, inflows may see $50bn boost
+
 
 ## Disinvestment push: Government to sell up to 3% stake in NLC India at Rs 303 per share
 
 
-## Rupee reverses RBI-driven gains, falls 43 paise to 95.61 against US dollar
+## 8 killed as molten steel spills on workers after Visakhapatnam plant blast
+Visakhapatnam district collector M Abhishikth Kishore said the accident happened at around 4.15pm in the central government undertaking.
+
+## Years of MCD inaction despite repeated warnings led to building collapse in Delhi's Saket, SC told
+The amicus curiae sought a city-wide structural audit of buildings under MCD’s jurisdiction and a sweeping exercise to seal and demolish illegal structures.
+
+## Airtel, Vodafone Idea eye ₹24k cr relief after Bombay HC quashes govt's one time spectrum charges
+According to the FY25 annual report, Airtel's contingent liability towards OTSC was at ₹6,600 crore. Vodafone Idea’s exposure was at ₹7,581 crore.
+
+## ‘No ID, no entry’: Govt on underage drinking
+Karnataka's home minister mandates age verification at liquor establishments to curb underage drinking, citing a study on youth health risks.
+
+## TMC crisis deepens: 14 rebel MLAs meet Suvendu Adhikari, discuss exit as Mamata attends key INDIA bloc meet
+The TMC delegation has already suffered a split after 58 lawmakers last week backed rebel leader Ritabrata Banerjee, who staked claim to the LoP position.
+
+## No RS berth for Gowda as BJP names Nagaraja
+HD Deve Gowda's parliamentary career is likely ending as BJP denies his Rajya Sabha renomination, igniting political tensions in Karnataka.
+
+## Monsoon advances deeper into Maharashtra, Karnataka, Andhra, Telangana
+IMD forecast that isolated heavy to very heavy rainfall (7-20cm) was very likely over Kerala, Karnataka, Tamil Nadu, northeast India over the next week.
+
+## Kerala state bus free rides for women, trans persons from June 15
+Kerala's transport minister announced free rides for women and transgender persons on state buses starting June 15, costing ₹712-1,300 crore annually.
+
+## Veerappan’s single TV interview derailed 90s star Sukanya’s soaring film career
 
 
-## Sigma Advanced Systems secures Rs 22 million artillery shell bodies export order from North America
+## How He-Man and the Masters of the Universe challenges as well as justifies masculinity
 
 
-## No future tariffs, fair rates, end 'forced labour' probe: What India wants from US trade deal
-India is pushing for preferential tariffs and guarantees against future hikes in ongoing trade talks with the US. New Delhi seeks clarity on proposed US tariffs linked to forced labor and excess industrial capacity concerns. Both nations aim to finalize an interim trade agreement, with discussions g
-
-## US stock markets today (June 8, 2026): AI stocks rebound push Wall Street into recovery mode, oil prices retreat from overnight highs
-Wall Street saw a rebound on Monday, led by technology and AI-linked stocks that bounced back from Friday's sharp sell-off. The S&P 500, Dow Jones, and Nasdaq Composite all gained ground as investors reassessed recent market movements. Meanwhile, oil prices eased from overnight peaks despite ongoing
-
-## Bond rally defies oil shock, yields hit one-month low despite Middle East tensions
+## Peddi Box Office Collection Day 5 Live Updates: Ram Charan film set to cross Rs 300 crore mark
 
 
-## SpaceX IPO this week: From listing date to valuation, 10 things to know before Elon Musk's firm goes public
+## Buchi Babu cuts controversial Janhvi Kapoor scenes from Peddi: ‘Few shots turned misleading’
 
 
-## India posts $7.1 billion current account surplus in Q4 as services exports strengthen
-India achieved a current account surplus of $7.1 billion in Q4 FY26, though it was lower than the previous year. Despite a widening merchandise trade deficit, strong growth in services exports, particularly computer and business services, helped maintain the surplus for the quarter. For the full fis
-
-## US Navy attacks tanker with 24 Indian crew, all rescued
-The fire was reported by the crew of MT Marivex, which was not carrying any cargo, at 1.30 pm, Opesh Kumar Sharma, director in the shipping ministry, told a media briefing.
-
-## Unattended oil fryer, cook on break: Police reveals series of events that led to deadly fire at Delhi's Malviya Nagar
-The cook told the police he switched on a fryer containing oil and then prepared tea for himself. While drinking tea, he forgot that the fryer was still running
-
-## Dalit teen beaten to death in Uttarakhand's Tehri Garhwal over inter-caste friendship
-The deceased, Ketan Lal, was a resident of Deval village. His injured friend, Diwakar Dimri, was admitted to the district hospital in Baurari.
-
-## We spent nine hours with 'cockroaches' from across India. Here's what they told us
-The man who had mobilised the crowd, gained overnight fame and amassed more followers than the BJP and the Congress combined had arrived at the protest venue.
-
-## Haryana groom, 3 others held for SUV stunts in wedding procession
-Sub-Inspector Yashpal was patrolling in Mandikhera village on Sunday and received a video clip of the incident on his mobile phone.
-
-## Row erupts as idol of goddess Vagdevi placed inside Bhojshala complex, ASI accused of removal
-A petitioner from the Hindu side has blamed the ASI for the removal of the idol, while a representative from the Muslim side has objected to its installation.
-
-## ‘BRS trying to defame Cong govt’: Telangana minister hits back after row over CM Revanth Reddy's Hitler remark
-Revanth Reddy's remarks that he drew inspiration from Nazi dictator Hitler while naming HYDRAA sparked a political row with BRS and BJP, criticising him.
-
-## After Cockroach Party, Ex-SC judge floats 'Ishq Karo Party' to fight poverty, unemployment in India
-Justice Katju even offered Trinamool Congress MP Mahua Moitra to join his new party, with his X feed being filled with his criticism of the CJP.
-
-## ‘India-US deal only after Section 301 probe is over’
+## Court rejects murder claims against NRI father as ‘figment of imagination’ after missing woman found alive in Canada
 
 
-## India’s current account surplus narrows to $7.1 billion in Q4
+## Inside Karnataka change of CM: 10 factors why Congress replaced Siddaramaiah with Shivakumar
 
 
-## ‘Confident of high growth in Q1 despite elevated energy prices’
+## Jharkhand numbers game in Rajya Sabha race heats up as BJP bets on Parimal Nathwani
 
 
-## Bhagwant Singh surplus land case: Ambala officer cancels mutation of 810 acres
+## Ayushman may cover beneficiaries of Bengal’s Swasthya Sathi; state govt set to bear full cost
 
 
-## Uttar Pradesh may send satellite to space for weather warning: CM Yogi Adityanath
+## Alibaba and WuXi AppTec decline in Hong Kong after addition to US blacklist
+Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday after the US placed them and several other Chinese companies on a blacklist over alleged military links. Alibaba slipped 0.3 per cent to HK$118.50 and WuXi AppTec tumbled 5.5 per cent to HK$114.60 in morning trading in H
 
+## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
+In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
-## Delhi Confidential: Communication Loss On All Fronts
-
-
-## Tata Trusts board meets ahead of key Tata Sons board meeting
-
-
-## ‘Gross negligence’: Bombay High Court orders Maharashtra govt to pay Rs 22 lakh to family of patient killed in mental hospital
-
+## MiniMax once led Zhipu in Hong Kong’s AI stock race. How the tables have turned
+When Chinese artificial intelligence developers Zhipu AI and MiniMax made their debuts on the Hong Kong stock exchange in January, investors initially saw one as a better bet than the other. Beijing-based Zhipu closed its first trading day on January 8 with a market capitalisation of HK$57.9 billion
 
 ## To keep up with China’s fast-changing consumers, MNCs adapt via local alliances
 Amid rapid market shifts in China, more foreign companies including retail and pharmaceutical players are adopting new approaches, selling their China businesses to local companies, teaming up with domestic partners or setting up joint ventures to stay competitive. “Everyone wants to remain in the m
@@ -137,15 +152,6 @@ Chinese electric vehicle (EV) makers are opening a new front in their battle wit
 
 ## NWD tests market with 28 Pavilia Rosa flats for sale amid Hang Seng slump
 Hong Kong developer New World Development (NWD) is making 28 units of its Pavilia Rosa project in Kowloon Tong available to buyers on Friday, a test of sentiment and demand in the city’s residential property market amid a slumping Hang Seng Index. NWD said the flats would be sold via a regular price
-
-## Hong Kong-listed Tencent eyes global note issuance amid AI investment surge
-Chinese tech giant Tencent Holdings plans to issue new notes to international investors in the coming year, joining the fundraising wave by Hong Kong-listed AI companies looking to fund expansion in the rapidly growing sector. The Shenzhen-based firm updated its global medium-term note programme wit
-
-## Hong Kong’s Hang Seng Tech Index welcomes MiniMax, Zhipu in AI milestone amid slump
-Chinese artificial intelligence firms MiniMax Group and Knowledge Atlas Technology were added to the Hang Seng Tech Index on Monday, marking the first inclusion of pure-play AI companies in Hong Kong’s benchmark technology gauge, in a move analysts said could drive substantial passive inflows. The s
-
-## China’s new battery tech set to turbocharge EVs, energy storage
-Next-generation Chinese electric-vehicle (EV) batteries that charge in minutes are expected to add fuel to global sales of the country’s carmakers. An EV battery that goes from a 10 per cent to a 98 per cent charge in under six-and-a-half minutes was the star of the Super Technology Day event staged
 
 ## Iran, Israel Pull Back From Brink After Trading Fire
 But another Israeli assault on Beirut could collapse the two sides’ fragile truce.
@@ -171,8 +177,14 @@ But the president’s success at purging his party could cost the GOP in the lon
 ## Armenians Vote Under Russia’s Shadow
 Trump and Putin are backing different players in a contested country.
 
+## Lee Jae-myung’s First Year Successes Put South Korea on the Path to Tangible Results
+Last year, Lee stated in his inauguration speech that pragmatism and the national interest were the guiding principles of his presidency.
+
+## Japan’s Security Focus Shift
+China’s reach is extending beyond the First Island Chain. Japan is taking note.
+
 ## Beyond Search and Rescue: What the Japan-South Korea SAREX Revival Really Means
-The return of the Japan-South Korea naval search and rescues exercise after a nine-year hiatus reflects strategic convergence, but history still casts a long shadow.
+The return of the Japan-South Korea naval search and rescue exercise after a nine-year hiatus reflects strategic convergence, but history still casts a long shadow.
 
 ## How the Dreams and Aspirations of Bangladeshi Students Have Been Crushed
 Affiliation with the Chhatra League, the students’ wing of the Awami League, before October 2024, was not an offense. It cannot be treated as one now.
@@ -188,12 +200,6 @@ The rise of majoritarian politics globally, combined with a shifting geopolitica
 
 ## The North Korea Succession Issue
 Is a teenage girl being positioned as North Korea's next leader?
-
-## India-Venezuela Relations Gain Renewed Energy
-The U.S., not Delhi or Caracas, announced Venezuela’s Acting President Delcy Rodríguez’s visit to India last week. The U.S. role in pushing the oil trade is hard to ignore.
-
-## Australia’s Rare Earth Sector
-Opportunity, risk and the commitment gap
 
 ## Is Skepticism Ukraine’s Foreign Policy Playbook?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -243,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump nominates Todd Blanche as attorney general, setting up Senate fight
-Blanche, who currently serves as acting attorney general, has faced controversy over the Epstein files and January 6.
+## US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’
+Chinese embassy in Washington, DC condemns designation, calling it 'discriminatory'.
 
-## Survivors recall Israeli raid that killed 274 in Gaza refugee camp
-Two years on, witnesses recount the June 2024 Israeli raid on Nuseirat refugee camp to free four captives.
+## Botswana diamond slump hits miners living on the edge of survival
+Botswana’s diamond-driven economy is under mounting strain as global demand weakens and production falls.
 
-## Tech giant OpenAI files for US initial public offering
-OpenAI did not disclose the size or terms of the offering and said a timeline has not yet been determined.
+## New York City crowd boos US President Donald Trump at NBA playoff game
+US President Donald Trump was loudly booed when he was shown on screens before Game 3 of the NBA Finals.
 
-## UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’
-Volker Turk, the UN's high commissioner for human rights, warns that 'children are dying' as result of US oil blockade.
+## UN questions legality of Israeli forced evacuation orders in Lebanon
+A UN spokesman says forced evacuation orders issued across southern and eastern Lebanon are nearly impossible to follow
 
-## US confirms it denied entry to Somali referee set to take part in World Cup
-Award-winning referee Omar Artan was 'determined to be inadmissible due to vetting concerns' after arriving in Miami.
+## ICC prosecutor suspended pending vote on sexual misconduct claims
+Karim Khan rejects suspension as ICC governing body refers him to disciplinary proceedings before member states.
 
-## Pope Leo makes visit to Spain’s Almudena Cathedral
-Crowds in Madrid were delighted to see Pope Leo make a visit to Santa Maria de la Almudena Cathedral with Queen Sofia.
+## Israel continues strikes on Lebanon despite halting attacks on Iran
+Israeli PM Benjamin Netanyahu acknowledged a halt in fighting with Iran but will continue operations against Hezbollah.
 
-## EU planning to add to $1.5 trillion sanctions hit on Russia
-New proposed listings target Russia's 'military industrial complex, human rights violators and propagandists'.
+## Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting
+Israeli strikes have killed 3,637 people in Lebanon since March, with 11,188 wounded, the Health Ministry says.
 
-## Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse
-Rome is the second in Europe to launch a probe into Israel's treatment of activists detained as they headed to Gaza.
+## Maine’s Platner faces test as four US states hold midterm primary votes
+Four states - Maine, Nevada, South Carolina and North Dakota - are holding primaries ahead of November's midterms.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
