@@ -1,133 +1,136 @@
 # AION Intelligence
 
-## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
-Three companies reinstated as US national security risk after sudden removal in February
+## GSK to buy cancer biotech Nuvalent for $10.6bn
+Deal ranks as one of UK drugmaker’s biggest as biotech M&A activity accelerates this year
+
+## Indonesia unexpectedly raises interest rate to support rupiah
+Central bank’s move at off-cycle meeting follows 0.5 percentage point rise last month
+
+## European satellite group Iceye in €1bn funding led by General Atlantic
+Capital raise values Finnish-Polish group at €10bn
+
+## We’ve died and gone to volatility heaven
+Plus non-dollar stablecoins
+
+## EU capitals to rip apart ‘sacrificial lamb’ first draft of new bloc budget
+Also in this newsletter: First discussions on proposals to reduce US tech reliance
 
 ## Chinese exports climb as AI boom fuels trade
 Imports show strong growth as world’s second-biggest economy shakes off impact of energy shock
 
-## GSK in talks to buy cancer biotech Nuvalent for more than $9bn
-Deal would rank as one of UK drugmaker’s biggest as biotech M&A activity accelerates this year
+## FirstFT: SpaceX investors asked to buy Musk’s ‘moonshots’
+Also in today’s newsletter: Hungary’s anti-graft AI and GSK-Nuvalent merger talks
 
-## Has India lost the AI race? Not entirely
-Also in this newsletter, what’s going on with Rajesh Exports?
+## Africa’s Fastest-Growing Companies
+South Africa dominates the 2026 rankings as Kenya leapfrogs Nigeria into second place and an Egyptian business tops the list for the first time. Plus: fintechs offer a fix to Africa’s financial problems and a solar success with more than 50mn customers across the continent
 
-## China’s ‘silver economy’ shines as birth rate plunges
-Companies rush to develop products and services for rapidly ageing population
+## Inside the battle to break up the world’s oldest bank
+Monte dei Paschi emerged from public ownership to become an improbable consolidator. Intesa and BPM have it in their sights
 
-## Apple unveils ‘Siri AI’ in challenge to rival chatbots
-Silicon Valley giant promises user privacy as it makes long-delayed overhaul of voice assistant
+## Italy’s World Cup of banking drama
+Rival moves for Monte dei Paschi are setting the stage for a rare takeover battle in Italian banking
 
-## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
-Transaction is one of the largest private credit fundraisings, fuelling the Claude maker’s AI growth plans
+## Trump critic Doug Ford urges president to ‘get a deal’ with Canada
+Pugnacious Ontario premier who has sparred with the president takes diplomatic tone on Washington visit
 
-## Unpaid carers could get maternity-style ‘right to return’ to work
-Paid leave for employees who quit to look after a friend or relative among protections being considered by government
+## Monsoon may slow down as western disturbance creeps in over north-west India
+Heavy to very heavy rain regime over parts of west coast may not sustain beyond next couple of days
 
-## FT Financial Literacy and Inclusion Campaign
-The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+## HDFC Bank hikes lending rates by up to 10 bps across tenors
+The benchmark one-year MCLR has been revised up by 5 basis points to 8.40%
 
-## Trump’s $100,000 H-1B visa fee blocked by judge
-Ruling says six-figure charge is an unauthorised tax and orders it to be suspended
+## India's May fuel consumption rises month-on-month, slips annually
+Data also showed that LPG consumption fell about ‌20% from a year earlier to 2.13 million tons
 
-## OpenAI files to go public in blockbuster Wall Street listing
-ChatGPT creator has submitted paperwork for IPO expected to value company at more than $1tn
+## SpaceX IPO fever sparks hunt for proxy plays in Asia
+Shares of satellite and rocketry-related companies worldwide have surged as everything from Starlink component ⁠manufacturers to ETFs that own private shares in SpaceX draw strong demand.
 
-## Sensex today | Stock Market Live Updates: Markets set to open flat amid foreign outflows and West Asia tensions
+## The biggest World Cup yet
+
+
+## Sensex today | Stock Market Live Updates: Markets lose early gains, trade flat; Indigo, M&M, Trent top gainers
 Sensex, Nifty, Stock Price Live Updates: Indian shares were set to open little changed on Tuesday with persistent foreign outflows keeping investors cautious, while Israel and Iran halted strikes on each other but left the door open for a resumption of attacks
 
-## Indian equities set to open flat; IT stocks in focus
-NLC India OFS at ₹303; Grasim approves ₹3,094 crore capex for Lyocell expansion
+## Zepto founders received ED summons under FEMA, says updated IPO document
+Founders Aadit Palicha and Kaivalya Vohra appeared before the ED and provided the relevant information and documents requested by the directorate
 
-## Dollar hovers around two-month high as Iran-Israel truce hangs in balance
-Euro and pound slip as markets eye US inflation data for clues on monetary policy
+## US lawmakers urge tighter rules on contract chipmakers supplying Chinese firms’ overseas units
+This comes after the Trump administration last week moved to halt a potential loophole that may ‌have led companies to export advanced chips such as those made by Nvidia to subsidiaries ‌of Chinese companies located outside China.
 
-## Oil rises slightly as investors await clarity after Iran-Israel halt attacks
-Brent crude rises to $94.38 a barrel amid uncertainty over truce and Strait of Hormuz
+## More measures on gold coming? Finance Ministry asks banks for information on gold metal loans
+Despite a lower import volume of 721 tonnes compared with the previous year, India's gold import bill rose 24% to a record $71.9 billion in 2025-26.
 
-## Ukrainian strikes set off fires at oil facilities in Russia, Crimea
-Ukrainian forces targeted oil facilities in Russia and Crimea, escalating economic pressure amid ongoing conflict and diplomatic efforts
+## Rupee rebounds 20 paise to 95.41 against US dollar
+The Indian rupee strengthened by 20 paise against the US dollar in early trade on Tuesday, opening at 95.47. This gain was attributed to easing oil prices, a weaker US dollar index, and a de-escalation of tensions between Israel and Iran. Domestic equity markets also traded higher, reflecting positi
 
-## Gold steadies after Israel and Iran agree to end missile strikes
-Citigroup lowers three-month price target citing likely Fed rate hike
+## SpiceJet's cash crunch deepens: Many pilots unpaid since March, airline seeks emergency loan
+SpiceJet pilots and employees are still awaiting salaries owed since March, as the airline seeks an emergency government-backed loan. Internal messages reveal significant financial strain, with employees struggling to manage daily expenses. The airline acknowledges payment delays, attributing them t
 
-## Apple unveils upgraded Siri voice assistant with new AI features at its annual conference
-Tim Cook’s last developers conference as CEO before handing over to John Ternus in September
+## Gold price prediction today: Gold falls to nearly 11-week low before recovering; check June 9, 2026 outlook
+Gold price prediction today: Gold prices continue to be under pressure as crude oil prices remain high, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## Buzzing stocks: Airtel, Vodafone Idea, NLC India, TCS, HCL, JSW Energy, Panacea Biotec, Simplex Castings, Avantel
-Key stock updates: Airtel, Vodafone Idea gain court relief; NLC India stake sale; TCS launches AI unit; JSW Energy expands
+## Commercial LPG shortage impact: IRCTC forced to resume cooking onboard trains; deploys induction stoves
+To maintain catering services across 1,400 trains serving around 1.7 million meals daily, the railway catering arm has begun preparing food inside Linke Hofmann Busch (LHB) pantry cars using electricity.
+
+## Oil prices ease as Iran and Israel pause attacks; Brent, WTI retreat from recent highs
+Oil prices dipped Tuesday as Iran and Israel paused attacks, easing immediate supply disruption fears. This followed a sharp rise on Monday amid renewed Middle East tensions. Despite the de-escalation, concerns linger over the Strait of Hormuz and Houthi actions impacting Red Sea shipping. OPEC+ agr
+
+## Top stocks to buy or sell today: Stock market recommendations for June 9, 2026 - check list
+Stock market recommendations: Kalyan Jewellers India, and Interglobe Aviation (IndiGo) are sell calls by Somil Mehta, Head of Retail Research at Mirae Asset ShareKhan for June 9, 2026. He recommends buying Fortis Healthcare.
 
 ## Indian eco resilient amid global turmoil, says Sebi chief
 
 
-## Goods export estimated to have grown 15 per cent in May
+## TMC crisis LIVE: MP Kakoli Ghosh, 19 rebels offer support to NDA in fresh jolt to Mamata; another party leader arrested
+TMC crisis LIVE updates: In the latest jolt for a week Mamata Banerjee after a rebellion by state legislators, party's Lok Sabha members, led by MP Kakoli Ghosh, have also indicated of splitting away to support the BJP-led National Democratic Alliance (NDA).
+
+## Wedding turns into tragedy in Uttarakhand as bride's father dies of heart attack after dowry dispute
+Angry relatives of the bride, joined by locals, held the groom and several wedding guests hostage and assaulted them.
+
+## From Mamata loyalist to rebel camp leader: Kakoli Ghosh Dastidar's journey
+Kakoli Ghosh Dastidar is now spearheading a breakaway group that claims the support of a large section of TMC MPs in the Lok Sabha.
+
+## As monsoon begins, Kerala cracks down on illegal fishing to protect breeding fresh water fish
+As monsoon begins, Kerala cracks down on illegal fishing to protect breeding fresh water fish
+
+## Indian-American Nithya Raman clinches place in run-off election for LA mayor
+Should Nithya Raman win the run-off election, Indian-American politicians will run two of the largest US cities, New York and LA
+
+## Dalit teen beaten to death in Uttarakhand over befriending girl from upper caste community
+Members of the girl's family allegedly locked the teen inside a room and beat him up. He later succumbed to the injuries.
+
+## US court strikes down Trump's ‘unlawful’ $100,000 fee for H-1B visa. What it means for Indians?
+In September last year, US President Donald Trump hiked the fee for the application of H-1B visa to a whopping $100,000.
+
+## 'Sar katega, jhukega nai': TMC's Kakoli Ghosh after bye to Mamata, hi to NDA with 19 rebels
+TMC's Kakoli Ghosh said she and 19 other MPs are willing to support the NDA - latest jolt to Mamata Banerjee who faces major internal strife after poll loss.
+
+## OpenAI files for US IPO after Anthropic as AI giants head to public markets
 
 
-## Haleon to set up 1st manufacturing unit in India, South Asia, invest Rs 2k cr
+## DASA UG, CSAB special round counselling 2026; check full schedule
 
 
-## Bombay high court bins government’s 12 retrospective spectrum charge; telecom companies get relief
+## Big win for Airtel, Vodafone Idea: The case of retrospective spectrum charge, which Bombay HC quashed
 
 
-## OpenAI IPO: ChatGPT maker files paperwork, set to hit Wall Street soon
-AI giant OpenAI has confidentially filed paperwork for an initial public offering (IPO) with the SEC, signaling a potential Wall Street debut. While details remain undisclosed, the move aligns with a wave of anticipated tech listings, offering investors a chance to buy into leading AI firms.
-
-## Fresh tension in West Asia sinks Sensex by 719pts, Rupee falls
+## Promised Canadian PR, Rs 1.8 crore gone: How Delhi couple was scammed
 
 
-## RBI to fully absorb forex risks, inflows may see $50bn boost
+## How Bhuvneshwar Kumar became the bowler no one can read
 
 
-## Disinvestment push: Government to sell up to 3% stake in NLC India at Rs 303 per share
+## Sunny Deol’s Lahore 1947 renamed Batwara 1947; makers release motion poster, release date
 
 
-## 8 killed as molten steel spills on workers after Visakhapatnam plant blast
-Visakhapatnam district collector M Abhishikth Kishore said the accident happened at around 4.15pm in the central government undertaking.
-
-## Years of MCD inaction despite repeated warnings led to building collapse in Delhi's Saket, SC told
-The amicus curiae sought a city-wide structural audit of buildings under MCD’s jurisdiction and a sweeping exercise to seal and demolish illegal structures.
-
-## Airtel, Vodafone Idea eye ₹24k cr relief after Bombay HC quashes govt's one time spectrum charges
-According to the FY25 annual report, Airtel's contingent liability towards OTSC was at ₹6,600 crore. Vodafone Idea’s exposure was at ₹7,581 crore.
-
-## ‘No ID, no entry’: Govt on underage drinking
-Karnataka's home minister mandates age verification at liquor establishments to curb underage drinking, citing a study on youth health risks.
-
-## TMC crisis deepens: 14 rebel MLAs meet Suvendu Adhikari, discuss exit as Mamata attends key INDIA bloc meet
-The TMC delegation has already suffered a split after 58 lawmakers last week backed rebel leader Ritabrata Banerjee, who staked claim to the LoP position.
-
-## No RS berth for Gowda as BJP names Nagaraja
-HD Deve Gowda's parliamentary career is likely ending as BJP denies his Rajya Sabha renomination, igniting political tensions in Karnataka.
-
-## Monsoon advances deeper into Maharashtra, Karnataka, Andhra, Telangana
-IMD forecast that isolated heavy to very heavy rainfall (7-20cm) was very likely over Kerala, Karnataka, Tamil Nadu, northeast India over the next week.
-
-## Kerala state bus free rides for women, trans persons from June 15
-Kerala's transport minister announced free rides for women and transgender persons on state buses starting June 15, costing ₹712-1,300 crore annually.
-
-## Veerappan’s single TV interview derailed 90s star Sukanya’s soaring film career
+## ED summons Kerala ex-CM Pinarayi Vijayan’s daughter in money laundering probe
 
 
-## How He-Man and the Masters of the Universe challenges as well as justifies masculinity
+## Over 4,800 preventive detentions in Prayagraj, Ghaziabad since 2024: Court says powers ‘misused to hilt’
 
 
-## Peddi Box Office Collection Day 5 Live Updates: Ram Charan film set to cross Rs 300 crore mark
-
-
-## Buchi Babu cuts controversial Janhvi Kapoor scenes from Peddi: ‘Few shots turned misleading’
-
-
-## Court rejects murder claims against NRI father as ‘figment of imagination’ after missing woman found alive in Canada
-
-
-## Inside Karnataka change of CM: 10 factors why Congress replaced Siddaramaiah with Shivakumar
-
-
-## Jharkhand numbers game in Rajya Sabha race heats up as BJP bets on Parimal Nathwani
-
-
-## Ayushman may cover beneficiaries of Bengal’s Swasthya Sathi; state govt set to bear full cost
-
+## McDonald’s cashes in again as Hong Kong property sell-down continues
+McDonald’s has sold another Hong Kong retail property, continuing its years-long effort to cash in on real estate assets accumulated during its rapid expansion across the city over the past few decades. The latest disposal involved Shop 1 on the upper ground floor of Parkvale Place on King’s Road in
 
 ## Alibaba and WuXi AppTec decline in Hong Kong after addition to US blacklist
 Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday after the US placed them and several other Chinese companies on a blacklist over alleged military links. Alibaba slipped 0.3 per cent to HK$118.50 and WuXi AppTec tumbled 5.5 per cent to HK$114.60 in morning trading in H
@@ -150,8 +153,8 @@ China’s national security authority has warned of risks in using “artificial
 ## China’s EV giants challenge Tesla in race to commercialise humanoid robots
 Chinese electric vehicle (EV) makers are opening a new front in their battle with Tesla: humanoid robots. After spending years competing on electric cars and autonomous driving technology, leading Chinese manufacturers including BYD and Xpeng are now accelerating plans to mass-produce humanoid robot
 
-## NWD tests market with 28 Pavilia Rosa flats for sale amid Hang Seng slump
-Hong Kong developer New World Development (NWD) is making 28 units of its Pavilia Rosa project in Kowloon Tong available to buyers on Friday, a test of sentiment and demand in the city’s residential property market amid a slumping Hang Seng Index. NWD said the flats would be sold via a regular price
+## The Invisible Hand Won’t Rebuild U.S. Shipyards
+War in Iran has put a spotlight on declining U.S. maritime power.
 
 ## Iran, Israel Pull Back From Brink After Trading Fire
 But another Israeli assault on Beirut could collapse the two sides’ fragile truce.
@@ -173,9 +176,6 @@ Rather than pushing Beijing out of the region, Washington should offer countries
 
 ## Trump Is Doing What FDR Could Not
 But the president’s success at purging his party could cost the GOP in the long term.
-
-## Armenians Vote Under Russia’s Shadow
-Trump and Putin are backing different players in a contested country.
 
 ## Lee Jae-myung’s First Year Successes Put South Korea on the Path to Tangible Results
 Last year, Lee stated in his inauguration speech that pragmatism and the national interest were the guiding principles of his presidency.
@@ -249,32 +249,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’
-Chinese embassy in Washington, DC condemns designation, calling it 'discriminatory'.
+## ‘As close as lips and teeth’: The highs and lows of China-North Korea ties
+Chinese President Xi has been welcomed in Pyongyang for his first visit since 2019.
 
-## Botswana diamond slump hits miners living on the edge of survival
-Botswana’s diamond-driven economy is under mounting strain as global demand weakens and production falls.
+## Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding
+My family survived the massacre that freed four captives. Its wounds and nightmares have not left us.
 
-## New York City crowd boos US President Donald Trump at NBA playoff game
-US President Donald Trump was loudly booed when he was shown on screens before Game 3 of the NBA Finals.
+## India’s fertility rate falls below replacement level: Why it matters
+India's fertility rate falls to 1.9 children per woman, with consequences for the workforce, the elderly and economy.
 
-## UN questions legality of Israeli forced evacuation orders in Lebanon
-A UN spokesman says forced evacuation orders issued across southern and eastern Lebanon are nearly impossible to follow
+## Ebola death toll in DR Congo climbs to 101
+The Democratic Republic of the Congo is grappling with its 17th Ebola outbreak since virus was first identified in 1976.
 
-## ICC prosecutor suspended pending vote on sexual misconduct claims
-Karim Khan rejects suspension as ICC governing body refers him to disciplinary proceedings before member states.
+## FIFA drops Somali World Cup referee after US denies him entry
+Award-winning Somali referee, Omar Artan, has been removed from the World Cup roster after being denied entry into US
 
-## Israel continues strikes on Lebanon despite halting attacks on Iran
-Israeli PM Benjamin Netanyahu acknowledged a halt in fighting with Iran but will continue operations against Hezbollah.
+## Israel kills 14 in southern Lebanon after trading fire with Iran
+Killings come as Iran warned of 'crushing blows' if Israeli attacks continued in Lebanon, including in the south.
 
-## Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting
-Israeli strikes have killed 3,637 people in Lebanon since March, with 11,188 wounded, the Health Ministry says.
+## Marwan Barghouti’s son calls for his release on stage at Berlin concert
+At Berlin’s Citadel Music Festival, activist Arab Barghouti called for the release of his father.
 
-## Maine’s Platner faces test as four US states hold midterm primary votes
-Four states - Maine, Nevada, South Carolina and North Dakota - are holding primaries ahead of November's midterms.
+## Israel intensifies strikes in southern Lebanon killing 12 people
+Al Jazeera’s Obaida Hitto reports on the strikes he witnessed in and around Tyre.
+
+## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
+With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
 
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
+
+## Indian CFOs remain Asia-Pacific's most optimistic despite Middle East conflict
+Indian chief financial officers remain the most optimistic in Asia Pacific about their businesses and the domestic economy despite escalating geopolitical tensions in the Middle East, although most expect the conflict to negatively affect economic activity and corporate performance, according to the
 
 ## Why workforce planning is fast becoming the CFO’s most high-stakes investment
 Workforce planning is shifting from HR's cost-control focus to the CFO's strategic agenda. Businesses now view talent as a key asset, prioritizing skills like AI and data engineering for competitive advantage. This necessitates a move from headcount to skills-based investment, with ROI measured by i
@@ -290,12 +296,6 @@ In a ruling, the apex court had said that investor injury alone can establish fr
 
 ## India Inc hikes prices, shrinks packs as Iran war squeezes margins
 Indian businesses face mounting pressure from soaring oil, freight, and insurance costs. Companies are increasing prices and reducing product sizes to protect profits. Many are also cutting operational expenses like advertising and travel. Supply chains are being reconfigured to manage disruptions.
-
-## Rajesh Exports likely to be dropped from PLI scheme, final decision in days: Sources
-​The matter will be placed before Minister of Heavy Industries H D Kumaraswamy, who has returned from an official trip to Kyrgyzstan. "A final call will be taken in the coming days," a source said.
-
-## India Inc CFOs flags rupee fall, input inflation, softer demand as key risks as RBI holds repo rate
-India Inc's finance chiefs laud the RBI's repo rate hold, deeming it a balanced strategy to curb inflation while fostering growth. Despite revised inflation and GDP forecasts, businesses are bracing for challenges like rupee depreciation and rising input costs, focusing on efficiency and agile plann
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
