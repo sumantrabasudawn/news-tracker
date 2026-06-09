@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
+Three companies reinstated as US national security risk after sudden removal in February
+
+## GSK to buy US cancer biotech Nuvalent for $10.6bn
+New chief Luke Miels makes his mark at GSK with one of UK drugmakers’ biggest deals
+
+## Lessons from Germany’s (entirely predictable) UN Security Council defeat
+In a world of aggressive great powers, middle powers must learn to forge alliances
+
+## EU considers suspending rise in Russian oil price cap
+Limit on Russian crude was set to increase from $44 a barrel to $70 following supply disruption due to Middle East war
+
+## VodafoneThree bids for TalkTalk consumer business
+Acquisition would help UK’s largest mobile operator fulfil ambition to double its broadband business
+
 ## Trump and Netanyahu’s paths diverge
 Also in today’s newsletter, president booed at Knicks-Spurs game and will Trump abandon Taiwan?
 
@@ -9,20 +24,14 @@ His first rate-setting meeting sets the direction of travel for a potentially tu
 ## Trump is becoming Jimmy Carter
 Like the 39th US president, the current occupant of the White House has handed control of the narrative to Iran
 
-## How Poland’s Orlen kept supplies flowing during the Middle East war
-Group’s head oil trader said the company learned lessons from the 2022 shock
+## Boots in talks over $10bn sale as owners look to ditch IPO plan
+Weston family and Australian group Sigma Healthcare both interested in buying UK pharmacy chain
 
-## ‘Rent now, pay later’ loans target US consumers squeezed by housing costs
-Demand for short-term financing expands into rental market amid deepening affordability crisis
+## Brussels orders Meta to open WhatsApp to rival AI agents
+Emergency measures signal EU efforts to intervene over rapidly developing market for autonomous agents
 
-## Too few women in leadership? Try rewriting your job postings
-Widely mocked government suggestions for gender-neutral ads are proving more popular, and effective, than critics think
-
-## FirstFT: SpaceX investors asked to buy Musk’s ‘moonshots’
-Also in today’s newsletter: Europe launches new fighter jet and Trump booed at Knicks game
-
-## So long Tate & Lyle, stock market trivia titan
-Sweetest goodbye or sticky situation?
+## Urban pollution in wealthy world still adding to heart damage, study finds
+Canadian research linking CT scans to pollutants shows severity of cardiovascular effects
 
 ## BP investors push for change at ‘mismanaged kingdom’
 Lack of detail on why Albert Manifold was fired sows doubts over culture overhaul
@@ -30,38 +39,44 @@ Lack of detail on why Albert Manifold was fired sows doubts over culture overhau
 ## How to Rule the World — Stanford’s lucrative bond with Silicon Valley
 The elite California university produces an outsized share of start-up entrepreneurs — and outsized profits from its proximity to Big Tech
 
-## Woodford’s W4.0 hits out at FCA’s legal threat
-Regulator said it would seek to injunct stockpicker’s new firm over alleged unauthorised advice
+## Adani Green Energy promoter sells 1.3% stake for ₹3,246 cr; Adani Infra buys shares
+According to the block deal data on the NSE, Ardour Investment Holding Ltd, a promoter entity, offloaded 2,15,00,000 shares representing a 1.3 per cent stake in Adani Green Energy
 
-## Real Madrid and the dangers of mixing fans and finance
-Club president Florentino Pérez’s aim of bringing in outside investors is high risk
+## India trusted partner in quantum computing, supply chains: US official
+Sarah Rogers’ visit to India came close on the heels of the Quad foreign minister’s meeting that was attended by US Secretary of State Marco Rubio on May 24
 
-## PwC investigated by accounting regulator over WHSmith audit
-FRC to probe Big Four firm’s work after UK travel retailer revealed accounting errors in US business
+## Letters to the Editor dated June 9, 2026
 
-## Rapido aims to go deeper into every taluk/ village in India: Co-founder
-Rapido has around 30 lakh vehicles for rides in a month and the target is to reach up to 50 lakh vehicles very soon, Aravind Sanka, Co-Founder, Rapido, said
 
-## Hexagon Nutrition IPO Day 3: Subscribed 53.68 times, NIIs lead demand
-The non-institutional investors (NII) portion was subscribed 129.96 times, while the retail category saw subscription of 22.53 times
+## IVRCL case: NCLAT Chennai refers Rs 150 crore forfeiture issue to chairperson after split verdict
+While the tribunal upheld the rejection of the bid due to non-payment and asset disputes, members differed on whether the deposit should be forfeited
 
-## Wheels India expands patent portfolio to 125, steps up R&D spend in FY26
-The company increased its R&D expenditure to 0.76% of turnover in FY26 from 0.53% in the previous year
+## Gold plunges below $4,300/oz as precious metals complex pares all gains made this year
+The complex has headed south since the Iran war broke out, Tuesday’s drop was ahead of US inflation report due on Wednesday
 
-## Govt notifies rules to set up coal exchanges
-The Ministry of Coal designated the Coal Controller Organisation in December 2025 as the authority responsible for registering and regulating coal exchanges
+## Bombay HC decision eases interest pressure for telcos: experts
+Bombay HC’s ruling on one-time spectrum charges relieves interest pressure for telcos, benefiting Vodafone Idea and improving industry sentiment.
 
-## Weekly Rupee View: Rupee enters holding pattern
-Persistent outflows weigh on the rupee, but downside remains contained
+## Editorial. Timely support
+Aviation fuel relief for airlines, a welcome move
 
-## South-West monsoon gets positive IOD boost even as El Nino threat looms
-Sea surface temperatures crossed El Nino threshold on June 7, while IOD may turn positive during August-September
+## Complex fertilizer sales up 27% in May, chops of saving from lower sales of urea
+Overall consumption of urea, DAP, muriate of potash (MOP) and complex was 39.5 lakh tonne (lt) in May against 39.4 lt a year ago
 
-## Enabling big ideas for Bihar
-The State must actively ‘hunt’ for investments, especially in labour-intensive sectors
+## Rupee gains 20 paise to settle at 95.41 against US dollar
 
-## Zepto co-founders Palicha & Vohra questioned by ED in FEMA case
-Zepto, the quick commerce firm which is coming with an IPO, has disclosed this in its updated Draft Red Herring Prospectus (UDRHP)
+
+## Fertiliser ministry seeks doubling of Rs 1.71 lakh crore FY27 subsidy allocation
+The Fertiliser Ministry is requesting a 100% increase in the subsidy budget for FY27, seeking to double it to Rs 1.71 lakh crore. This surge is driven by rising global fertiliser prices and import costs due to the West Asia conflict, potentially pushing the subsidy bill over Rs 3 lakh crore this fis
+
+## ATF price stabilisation plan: Jet fuel prices rise 10% as oil retailers roll out scheme
+Aviation turbine fuel prices rose by 10% as a government-backed price stabilization scheme locks in rates for airlines at Rs 115 per litre for up to three years. This voluntary scheme aims to shield carriers from global oil price volatility, with the government providing interest-free advances to oi
+
+## AI sell-off deepens as tech stocks drag Wall Street lower despite oil relief
+Indian markets saw a positive trend as US stocks rallied, driven by a strong comeback in AI-linked technology shares. Lower oil prices provided further relief, boosting airline stocks and easing bond market pressure. Investors are now keenly awaiting crucial US inflation data, with expectations of a
+
+## BRICS agriculture meet begins in Indore; food security, climate-smart farming on agenda
+A five-day BRICS meeting commenced in Indore, focusing on food security, climate-resilient agriculture, and farmer welfare. Officials are deliberating on enhancing cooperation and jointly addressing challenges like climate change's impact and agricultural financing. The discussions aim to boost trad
 
 ## Oil shock to inflation risk: How the Iran war is reshaping India's economic outlook
 India's economic outlook is darkening due to rising oil prices, fertilizer costs, and supply disruptions from the Iran conflict. Economists warn of escalating inflation, slower growth, and strained government finances. The nation, heavily reliant on oil imports, faces significant economic challenges
@@ -72,67 +87,52 @@ Geopolitical developments in the last few months have dictated India’s energy 
 ## 'GDP momentum intact, no need for extra borrowing': Centre plays down impact of Middle East crisis
 Despite global economic headwinds from the Middle East crisis, India's government remains optimistic about growth, citing strong domestic consumption and intact GDP momentum. Officials confirm no immediate need for extra borrowing, with fiscal targets holding firm. Disinvestment plans are progressin
 
-## SpaceX IPO: Elon Musk's firm sees massive oversubscription as institutional orders top $10 billion
-SpaceX's IPO has garnered over $10 billion in institutional orders, signaling immense demand for what could be the largest public offering in history. The company is set to price its shares at $135, aiming to raise $75 billion and achieve a $1.8 trillion valuation. Retail investors can still partici
+## MP '3rd seat' mystery ends before it begins: Flight aborted, RS nomination junked, Cong's Meenakshi Natarajan cries foul
+Meenakshi Natarajan’s nomination was rejected on grounds of alleged non-disclosure of information related to a case in her affidavit.
 
-## China's exports jump 19.4 per cent in May, driven by tech and EV demand
-China's exports surged 19.4% in May, exceeding forecasts, driven by robust demand for semiconductors and electric vehicles. Shipments to the US saw a significant rebound, growing over 35%. This strong trade performance is expected to support China's economic growth targets for the year.
+## Modi reaches out to Kuwaiti Amir after airport attack, calls for de-escalation
+PM MOdi condemned attacks targeting Kuwaiti territory and airspace, including an assault on its airport that killed an Indian national and injured several others
 
-## Coal market reform: Government notifies rules for setting up coal exchanges
-The government has notified rules for setting up coal exchanges to improve price discovery and transparency in the coal market. These exchanges will facilitate market-driven trading, offering commercial and captive miners wider buyer access. This initiative aims to modernize the coal supply chain an
+## Online consumers lose over ₹25,000 cr to online traps despite norms: Survey
+The report said dark patterns risked becoming embedded in everyday online transactions unless compliance and enforcement improve substantially
 
-## Strait of Hormuz closure: Why high oil prices may be a temporary shock only - explained
-“Oil prices will be lower if Hormuz reopens earlier. Uncertainty remains high regarding the timing of Hormuz reopening, and oil prices will remain volatile as a result,” Fitch says.
+## Congress flags ‘discrepancies’ in BJP-backed Nathwani's RS poll nomination papers; files complaint
+Nathwani, the Rajya Sabha MP from Andhra Pradesh, filed his nomination papers for one of the two Rajya Sabha seats in Jharkhand on Monday.
 
-## Fitch trims India's growth forecast to 6.4% as Middle East turmoil clouds outlook
-Fitch Ratings has lowered India's FY27 GDP forecast to 6.4% due to rising costs from Middle East conflict impacting consumer spending. While domestic demand remains a driver, higher prices are expected to reduce purchasing power, with the most visible impact in Q2 and Q3 of FY27.
+## Who is Meenakshi Natarajan? Rahul Gandhi's OG team member at centre of RS nomination row
+BJP candidate Mahesh Kewat, who is contesting the third Rajya Sabha seat, had submitted a complaint to the returning officer.
 
-## NIA hits Shahzad Bhatti’s network, raids 18 locations in Punjab, Haryana
-Shahzad Bhatti, a gangster-turned-terrorist backed by Pakistan’s spy agency ISI, has emerged as a key figure in recent investigations into terror attacks
+## BJP leader seeks central probe into Ayodhya Ram Mandir fund 'embezzlement' charges
+In a letter to Prime Minister Narendra Modi, Singh demanded that the matter be investigated by an independent Central agency.
 
-## CID searches Mamata’s home on Kolkata in ‘forgery’ case as she meets Sonia Gandhi in Delhi for her future
-Mamata Banerjee is fighting to control the TMC after a series of defections and rebellions rocked the party in the weeks following its electoral defeat.
+## Huge row after Congress candidate Meenakshi Natarajan's RS nomination rejected in Madhya Pradesh
+A complaint alleged that Meenakshi Natarajan deliberately hid information about a case filed against her in Telangana.
 
-## 3 cricketers, 3 corners: Team India heroes across eras land amidst TMC civil war
-Pathan and Ganguly were once teammates at Kolkata; Azad and Pathan are both World Cup winners, and Ganguly has been one of Team India's most prominent leaders
+## All-weather ‘lifeline’ connecting Kashmir and Ladakh: Zojila tunnel's ends meet as mountain piercing complete
+The road is meant to provide year-long access for civilian and defence use to Ladakh, reducing a 3-hour travel to 15 minutes. Here are the steps towards opening
 
-## Air India flyer held after breaking inner window pane, tries to flee cops at IGI
-The incident took place on flight AI1879 on the evening of June 7 as the aircraft was preparing to land at Delhi’s Indira Gandhi International Airport.
-
-## Operation Blue Star a ‘black day’: Maharashtra minister Girish Mahajan's remark triggers row
-Maharashtra minister's remarks gained swift pushback from the Congress who accused BJP of raising the Khalistan issue ahead of Punjab polls
-
-## India slams Pakistan over deadly crackdown on protesters in PoK
-The remarks came after more than 27 people were killed and several others injured in clashes between protesters and security forces in different parts of PoK.
-
-## What is Shigella bacteria? Kerala govt warns ‘unhygienic’ eateries after shigellosis death, cases
-Kerala has confirmed one death and two more positive cases due to Shigellosis, an infection that is caused by a bacteria called Shigella.
-
-## Santiago Martin, family moves Madras HC challenging attachment of properties by ED
-ED had first registered an Enforcement Case Information Report (ECIR) against Martin and others in 2014, on the basis of a CBI chargesheet
-
-## It’s Ronaldo swansong, but what gives Portugal extra reason to go the distance
+## Farmer harnesses wife to plough after ox dies, Rohit Pawar seeks help
 
 
-## Rajya Sabha nomination of Congress’ Meenakshi Natarajan rejected
+## JD Vance says Charlie Kirk’s death influenced Usha’s decision to have fourth child
 
 
-## Why Drishyam 3 won’t be remade in Telugu, Kannada, and is getting a major twist in Hindi
+## Mumbai water tanker strike called off after CM Fadnavis intervenes, operators assured notices will be revoked
 
 
-## UPSC daily subject quiz | History and Culture (Week 157) : Ancient India and historical personalities — think you can master these MCQs?
+## BMC vigilance department flagged structural faults in Mrinaltai Gore flyover 5 years before it was inaugurated
 
 
-## Punjab government’s dairy giant Verka purges ‘How to Kidnap Me’ lassi Ad after backlash
+## Amid CID searches and TMC rebellion, Mamata meets Sonia in Delhi
 
 
-## From Devil Wears Prada to the Indian offices: What the perfect first boss actually looks like
+## Infra panel clears Rs 22,611-crore tunnel, bridge & Metro projects in MMR
 
 
-## Rupali Ganguly ‘dearly misses’ Satish Shah at Sarabhai Vs Sarabhai reunion, watch
+## Not a drop to drink: When FIFA didn’t allow players a sip of water during games
 
 
-## Christian Eriksen says he’s home and ‘doing well’ after collapsing on field
+## Congress, Sena (UBT) seek Girish Mahajan’s removal over Operation Blue Star remarks
 
 
 ## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
@@ -159,6 +159,9 @@ Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday 
 ## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
 In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
+## Lebanon Is No Longer About Lebanon
+Iran would rather fight than let Israel decide Lebanon’s fate.
+
 ## U.S. Power Is Wrung Out
 The war in Iran has depleted the Pentagon as China’s military buildup matures.
 
@@ -180,32 +183,29 @@ How satire, social media, and shame are forging Syria’s new public square.
 ## China Is Providing AI That’s Literate in Africa’s Languages
 Chinese models have become the overwhelming choice for African developers.
 
-## China Is Making MAHA’s Favorite Drug
-RFK fans and China hawks are on a collision course over peptides.
+## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
+Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
 
-## Brunei’s Sultan Ibrahim Reshuffles Cabinet, Appointing His Son as Foreign Minister
-The elevation of three of the sultan's sons suggest that key posts are increasingly being concentrated within the direct line of succession.
+## The West Asia Crisis Realigns Regional Trade Through Pakistan
+Cargo-laden trucks are already plying six new overland routes linking its major ports to the Iranian border and onward to Central Asia.
+
+## Xi and Kim Agree to Strengthen ‘Strategic Relationship’ with Socialist Principles
+Touting the achievements Pyongyang has made in recent years, Xi de facto recognized North Korea as a nuclear-armed state.
+
+## How Kazakhstan Uses the Stalling Board of Peace
+Despite opting out of contributing the $1 billion fee required to become a permanent member of Donald Trump's Board of Peace, Kazakhstan has continued to publicly highlight its membership.
+
+## Is VinFast’s Costly EV Gambit Coming to an End?
+Despite its vaunting ambitions and rapid expansion, the upstart automaker has yet to prove it can compete beyond the Vietnamese market.
+
+## Brunei’s Sultan Reshuffles Cabinet, Appointing His Son as Foreign Minister
+The elevation of three of Hassanal Bolkiah's sons suggest that key posts are increasingly being concentrated within the direct line of succession.
 
 ## Afghanistan’s Women: Erased
 An entire generation of Afghan girls have had their aspirations suspended by policies systematically excluding them from education and public life.
 
 ## At Least 32 Dead After Earthquake Hits Southern Philippines, Authorities Say
 President Ferdinand Marcos Jr. has stated that "the national government is moving and we will not leave Mindanao behind."
-
-## When Work Moves Without Workers: Nepal and Asia’s New Mobility Frontier
-Across Asia, governments are experimenting with policies designed to capitalize on the rapid expansion of remote work.
-
-## Central Asia’s Water Crisis is Becoming a Regional Economic Risk
-Climate stress, shrinking glaciers, and fragmented governance are pushing the region toward a new era of systemic vulnerability.
-
-## What the Banning of the JAAC Reveals About Power in Azad Kashmir
-The ban may remove JAAC from the formal political arena, but it cannot remove the grievances that brought it into existence.
-
-## Lee Jae-myung’s First Year Successes Put South Korea on the Path to Tangible Results
-Last year, Lee stated in his inauguration speech that pragmatism and the national interest were the guiding principles of his presidency.
-
-## Japan’s Security Focus Shift
-China’s reach is extending beyond the First Island Chain. Japan is taking note.
 
 ## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
 Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why are Nigeria-South Africa tensions rising amid xenophobic attacks?
-It's not the first time the two African giants have gone head-to-head over attacks on their nationals.
+## Kenya’s police crack down on protest against US Ebola centre in Nanyuki
+Protesters clash with police in Kenya as they march against a US-run Ebola quarantine centre near the town of Nanyuki.
 
-## World Cup opening ceremony: Who’s performing, when it starts, how to watch
-The 2026 World Cup begins with historic ceremonies across the US, Canada and Mexico, launching a record tournament.
+## Nigeria plays Portugal in international World Cup friendly: All to know
+All the news on the teams, lineups and start time as Portugal complete their World Cup preparations against Nigeria.
 
-## Venezuelans flood capital Caracas streets, demanding free elections
-Venezuelan workers, students and opposition party members marched to the US Embassy in Caracas.
+## Six countries sanction enablers of settler violence in occupied West Bank
+The Western nations also say they will take further measures if Israel fails to address the situation on the ground.
 
-## Mamdani scores goal at World Cup presser
-Footage shows New York City Mayor Zohran Mamdani scoring a goal at a World Cup press conference.
+## Did Netanyahu really ‘defy’ Trump in bombing Iran?
+Experts say the latest confrontation has laid bare growing divisions between the two leaders.
 
-## Video captures Russian attack in Ukraine’s Zaporizhzhia
-Surveillance camera video captured the moment a Russian drone strike caused a blast in Zaporizhzhia, Ukraine.
+## Deadly protests in Pakistan-administered Kashmir: What’s going on?
+Experts say the current crisis is part of a deeper, long-running debate about governance in the region.
 
-## Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments
-The row erupted after Italy said it was investigating the far-right minister over treatment of Gaza flotilla activists.
+## Modi is using a cannon to kill a cockroach
+A student parody account has rattled India’s most powerful man and exposed just how thin his skin has become.
 
-## New video of great white shark in Mediterranean goes viral
-New video of great white shark in Mediterranean goes viral.
+## Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon
+The US president warned Netanyahu he would be on his own if attacks continue after Israel and Iran paused fighting.
 
-## Israel attacks Tyre in Lebanon, tells all residents to leave
-Israel attacks Tyre in Lebanon, tells all residents to leave
+## Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons
+Former detainees tell Al Jazeera they were routinely sexually abused, starved and attacked by dogs.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
