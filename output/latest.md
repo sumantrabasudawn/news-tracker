@@ -63,6 +63,9 @@ Fertiliser Ministry seeks double the subsidy allocation
 ## RBI opens premature redemption window for SGB 2019-20 Series VII
 The redemption, due on June 10, 2026, has been fixed at Rs 15,275 per unit based on the average gold price of the previous three business days as published by IBJA
 
+## Government kicks off bourse-based coal trading; rules notified
+
+
 ## Government raises Rs 20,000cr via disinvestment, asset sale
 
 
@@ -84,32 +87,35 @@ Indian markets saw a positive trend as US stocks rallied, driven by a strong com
 ## BRICS agriculture meet begins in Indore; food security, climate-smart farming on agenda
 A five-day BRICS meeting commenced in Indore, focusing on food security, climate-resilient agriculture, and farmer welfare. Officials are deliberating on enhancing cooperation and jointly addressing challenges like climate change's impact and agricultural financing. The discussions aim to boost trad
 
-## Oil shock to inflation risk: How the Iran war is reshaping India's economic outlook
-India's economic outlook is darkening due to rising oil prices, fertilizer costs, and supply disruptions from the Iran conflict. Economists warn of escalating inflation, slower growth, and strained government finances. The nation, heavily reliant on oil imports, faces significant economic challenges
+## BJP plans to allay Gen Z concerns, sharpen outreach
+The BJP aims to engage Gen Z amidst examination controversies, emphasizing their constructive role in nation-building, not just as protestors.
 
-## We'll see if communism outlives Dalai Lama or the other way around: Sikyong
-We'll see if communism outlives Dalai Lama or the other way around: Sikyong
+## NDA to revive delimitation push, may look beyond allies
+The BJP-led NDA seeks support for the delimitation bill, crucial for women's quotas, amid political shifts and concerns over state representation.
 
-## EC to meet Congress delegation over rejection of Meenakshi Natarajan's nomination on Wednesday
-The Election Commission, in a letter addressed to the Congress President, gave appointment to a delegation of party leaders for a meeting at 12 pm on Wednesday.
+## NEET-UG leak: Dehi court rejects key accused Manisha Waghmare’s bail plea
+The court observed the accused people “sabotaged” the examination process “to satisfy their greed” and eroded the trust of several honest students in the exam process.
 
-## Election Commission officials ‘refused to meet us’ over our petition: Congress leaders
-Congress leader Meenakshi Natarajan lashed out at the BJP and accused it of "attempting to manipulate the Rajya Sabha election".
+## Dharmendra Pradhan reviews NEET re-exam prep, assures smooth, error-free process
+Union Minister Dharmendra Pradhan assured NEET-UG candidates that enhanced security measures are in place for the June 21 re-exam after the May 3 paper leak.
 
-## Bengal to drop ‘dham’ from Digha Jagannath temple on Odisha’s CM’s request
-The coastal temple complex was a flagship project of the previous Trinamool Congress (TMC) government, which inaugurated it in April 2025.
+## Mapping 12 years of welfare expansion during Modi rule
+Since 2014, Modi's government has built a vast welfare system, aiding 800M with food, farmers, health, and housing, marking historic social progress.
 
-## Sri Lanka President Disanayaka sends congratulatory message to PM Modi
-Disanayaka’s message to Modi, which was sent on June 8, also reflected the upswing in India-Sri Lanka relations in recent years.
+## PM Modi’s milestone: The politics of delivery, not just a record
+India's PM Narendra Modi, now the longest-serving elected leader, has prioritized welfare and transformation, focusing on the poor, farmers, and infrastructure.
 
-## A dam across the sea: Kalpasar gets fresh push after PM’s Netherlands visit
-The Detailed Project Report (DPR), which will determine the Kalpasar project’s technical and economic viability, is in its final stages.
+## TMC’s Mamata faction accuses rebel MPs of trying to engineer split
+The Mamata camp alleged that the rebel MPs lack “political morality and ethics” and termed them opportunists for trying to engineer a split.
 
-## PM Modi to visit France, Slovakia from June 13; G7 meeting in Evian on agenda
-PM Narendra Modi is expected to attend several key summits during his time in France followed by the G7 and bilateral talks with Slovakia
+## How Modi reshaped India’s political map
+On May 20, 2014, Modi's emotional speech marked his rise as BJP leader, credited with expanding the party's power and reshaping Indian politics.
 
-## NEET UG leak accused Yash Yadav seeks interim bail to appear in re-exam on June 21
-Special Judge (CBI) Ajay Gupta granted time to the CBI to file its reply on the application moved by Yash Yadav.
+## UP, Bengal top Centre’s Rs 95,692-crore interim allocation for states under VB-G RAM G
+
+
+## Kuki farmer killed in armed attack in Manipur village
+
 
 ## 5 lesser-known monsoon treks in India
 
@@ -127,12 +133,6 @@ Special Judge (CBI) Ajay Gupta granted time to the CBI to file its reply on the 
 
 
 ## NASA unveils Artemis III astronauts to test technology for future moon landing
-
-
-## Why FSSAI has warned against wrapping food in newspapers
-
-
-## Soil at Shiv Shakti Point chemically close to lunar meteorite that hit Antarctica
 
 
 ## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
@@ -159,6 +159,12 @@ Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday 
 ## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
 In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
+## U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
+But Iranian officials reportedly claim that the downing was not deliberate.
+
+## Xi Seeks to Draw North Korea Back Into China’s Orbit
+The Chinese leader’s long-awaited visit to Pyongyang aims to counter Russian influence.
+
 ## Why a South Korean Starbucks Ad Mocked Murdered Protesters
 Far-right meme politics shows how strong anti-democratic forces remain.
 
@@ -176,12 +182,6 @@ If you get an important strategic issue wrong, there are still ways to avoid acc
 
 ## The Invisible Hand Won’t Rebuild U.S. Shipyards
 War in Iran has put a spotlight on declining U.S. maritime power.
-
-## Iran, Israel Pull Back From Brink After Trading Fire
-But another Israeli assault on Beirut could collapse the two sides’ fragile truce.
-
-## Trump Started a War He Can’t Control
-He wants to end the Iran war. But Iran, Israel, and Hezbollah have other ideas.
 
 ## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
 Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
@@ -255,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge halts execution by nitrogen gas, ruling it unconstitutional
+Judge Emily Marks had previously allowed the execution to proceed, arguing that no execution is entirely without pain.
+
+## Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’
+Three residents filed the case on behalf of a class estimated at more than 10,000 members.
+
 ## Deadly protests in Pakistan-administered Kashmir: What’s going on?
 At least 11 people were killed on Sunday in clashes between police and protesters in Pakistan-administered Kashmir.
 
@@ -272,12 +278,6 @@ A bear that triggered days of disruption in the Japanese city of Utsunomiya was 
 
 ## Iran conflict: Why has oil stayed near $100 a barrel?
 The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
-
-## What will the fallout be from the unrest in Pakistan-administered Kashmir?
-Recent clashes between protesters and police killed at least 11 people.
-
-## Why so many Americans haven’t heard about the USS Liberty
-Al Jazeera’s Ava Warriner explains what happened on the day of the attack, the alleged cover-up that followed.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
