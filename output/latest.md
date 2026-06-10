@@ -1,13 +1,28 @@
 # AION Intelligence
 
-## Pope Leo meets Trump foe Bad Bunny
-Puerto Rican rapper has become a symbol of cultural resistance to US president
-
-## FirstFT: KMT leader urges US and China not to treat Taiwan as ‘pawn’
-Also in today’s newsletter: Apollo hunts for a Japanese life insurer, and Chinese exports climb
+## China factory gate prices rise at fastest rate in 4 years
+Energy costs climb as Iran war cuts off supply through Strait of Hormuz
 
 ## US launches strikes on Iran after downing of American helicopter
 Washington says attack is ‘proportional response to unjustified Iranian aggression’
+
+## Democrat Graham Platner wins Maine US Senate primary
+Controversial candidate shrugged off misconduct allegations to challenge incumbent Susan Collins in November
+
+## Steve Hilton advances to general election for California governor
+David Cameron’s former adviser to face Democrat Xavier Becerra on November ballot
+
+## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
+Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plans
+
+## Northern Ireland battles to contain disorder after Belfast knife attack
+First Minister deplores ‘outright thuggery’ as protesters set fire to homes, cars and public transport
+
+## Magistrate shortage threatens English court reforms, MPs warn
+Recruitment shortfall threatens Labour’s pledge to reduce huge backlog of cases in criminal courts
+
+## Pope Leo meets Trump foe Bad Bunny
+Puerto Rican rapper has become a symbol of cultural resistance to US president
 
 ## Oil slides as US official says Hormuz transits are ‘meaningfully’ climbing
 Energy secretary Chris Wright cautions that flows through the strait will take months to fully recover
@@ -17,12 +32,6 @@ US asset manager may face regulatory hurdles amid preference for domestic player
 
 ## GM bets on homegrown battery tech to challenge Chinese dominance
 US carmakers pivot to energy storage batteries for AI as they seek to counter weak electric vehicle sales
-
-## Taiwan’s opposition leader tells US and China not to use her country as ‘pawn’
-KMT chair calls for more dialogue between Taipei and Beijing in FT interview ahead of her visit to Washington
-
-## Nasdaq slips in volatile trading as 2026 high-flyers pull back
-Losses for AI-linked stocks overshadow gains across rest of market
 
 ## Why are investors so jumpy?
 What’s driving market volatility?
@@ -36,104 +45,107 @@ Extract on space, repent at leisure
 ## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
 Three companies reinstated as US national security risk after sudden removal in February
 
-## Boots in talks over $10bn sale as owners look to ditch IPO plan
-Weston family and Australian group Sigma Healthcare both interested in buying UK pharmacy chain
+## Will have as many AI agents as human employees over the next three years: TCS Chairman Chandrasekaran
+There will be decreased in hiring as compared to earlier onboarding numbers, says Chairman
 
-## NASA unveils Artemis III crew as moon mission plans move closer to reality
-The selected astronauts will first take part in Earth-orbiting training missions, practicing docking with lunar landers developed by competing contractors SpaceX and Blue Origin
+## Sensex today | Stock Market Live Updates: Nifty staring at a gap down opening amid weak global cues
+Sensex, Nifty, Share Prices LIVE: Domestic markets are likely to open on a flat-to-negative note on Wednesday amid fresh escalation of tension between Iran and US. The Gift Nifty which was ruling sharply higher turned lower after the fresh attacks in Iran
 
-## Iran responsible for downing American helicopter, US must respond: Trump
-The incident led to a rare drone boat rescue operation by the US military, which located and retrieved the two aviators after they spent about two hours in the water
+## Indian students in US fast-track education loan repayments amid visa, job worries
+Borrowers opt for higher instalments and lump-sum payments citing job security and potential return to India
 
-## PMLA case: Martin family challenges attachment of properties worth Rs 456 crore
-The petitioners have filed 39 appeals challenging orders of the Appellate Tribunal and Adjudicating Authority, which upheld the Enforcement Directorate’s attachment of assets in the alleged lottery scam case.
+## More swings for AI stocks drag Wall Street back on the roller coaster
+Wall Street pulled back from highs on chip sector weakness despite broad gains; focus shifts to US inflation data and Fed outlook
 
-## Gold plunges below $4,300/oz as precious metals complex pares all gains made this year
-The complex has headed south since the Iran war broke out, Tuesday’s drop was ahead of US inflation report due on Wednesday
+## Iran says foreign forces in proximity to its territory should leave
+Iran’s Foreign Minister Abbas Araqchi urges withdrawal after Trump comments on downed US Apache helicopter in Strait of Hormuz
 
-## Bombay HC refuses asset freeze plea in ₹19,500-crore EuroChem-Tecnimont dispute
-Justice Gauri Godse, in a judgment delivered on June 8, held that EuroChem had failed to establish a prima facie case for freezing Tecnimont’s assets pending trial
+## South Korean shares fall over 2% on heightening West Asia conflict
+KOSPI drops amid US strikes on Iran; foreigners turn net sellers as bond yields edge higher
 
-## MSEDCL targets IPO by 2026-end after ₹32,000 crore debt restructuring
+## US strikes Iran after Trump blames Tehran for downing Army helicopter
+Iran's top diplomat says foreign military forces near its territory "are at constant risk" and later vowed that there would be a response to the new US strikes
 
+## Nifty staring at a gap down opening amid weak global cues
+Analysts highlight support levels in derivatives and caution over FII selling, global cues ahead of US CPI data
 
-## OMCs received ₹1.23 lakh crore support to hold fuel prices
-Fertiliser Ministry seeks double the subsidy allocation
+## Top stocks to buy today: Stock recommendations for June 10, 2026 - check list
+Stock market recommendations: Bank of India, Hindustan Zinc, and Union Bank of India are the top stock picks by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for June 10, 2026:
 
-## RBI opens premature redemption window for SGB 2019-20 Series VII
-The redemption, due on June 10, 2026, has been fixed at Rs 15,275 per unit based on the average gold price of the previous three business days as published by IBJA
-
-## Government kicks off bourse-based coal trading; rules notified
-
-
-## Government raises Rs 20,000cr via disinvestment, asset sale
+## Gold, Silver Rate Today Live Updates: Gold, silver prices drop over 1% as fresh US-Iran tensions send crude oil prices up
 
 
-## Bond market push: Govt eyes Bloomberg index inclusion with latest G-Sec reforms
+## OpenAI joins AI giants, files for US public listing
 
 
-## Rupee gains 20 paise to settle at 95.41 against US dollar
+## Adani Energy to acquire smart meter player for ₹3. 1k cr
 
 
-## Fertiliser ministry seeks doubling of Rs 1.71 lakh crore FY27 subsidy allocation
-The Fertiliser Ministry is requesting a 100% increase in the subsidy budget for FY27, seeking to double it to Rs 1.71 lakh crore. This surge is driven by rising global fertiliser prices and import costs due to the West Asia conflict, potentially pushing the subsidy bill over Rs 3 lakh crore this fis
-
-## ATF price stabilisation plan: Jet fuel prices rise 10% as oil retailers roll out scheme
-Aviation turbine fuel prices rose by 10% as a government-backed price stabilization scheme locks in rates for airlines at Rs 115 per litre for up to three years. This voluntary scheme aims to shield carriers from global oil price volatility, with the government providing interest-free advances to oi
-
-## AI sell-off deepens as tech stocks drag Wall Street lower despite oil relief
-Indian markets saw a positive trend as US stocks rallied, driven by a strong comeback in AI-linked technology shares. Lower oil prices provided further relief, boosting airline stocks and easing bond market pressure. Investors are now keenly awaiting crucial US inflation data, with expectations of a
-
-## BRICS agriculture meet begins in Indore; food security, climate-smart farming on agenda
-A five-day BRICS meeting commenced in Indore, focusing on food security, climate-resilient agriculture, and farmer welfare. Officials are deliberating on enhancing cooperation and jointly addressing challenges like climate change's impact and agricultural financing. The discussions aim to boost trad
-
-## BJP plans to allay Gen Z concerns, sharpen outreach
-The BJP aims to engage Gen Z amidst examination controversies, emphasizing their constructive role in nation-building, not just as protestors.
-
-## NDA to revive delimitation push, may look beyond allies
-The BJP-led NDA seeks support for the delimitation bill, crucial for women's quotas, amid political shifts and concerns over state representation.
-
-## NEET-UG leak: Dehi court rejects key accused Manisha Waghmare’s bail plea
-The court observed the accused people “sabotaged” the examination process “to satisfy their greed” and eroded the trust of several honest students in the exam process.
-
-## Dharmendra Pradhan reviews NEET re-exam prep, assures smooth, error-free process
-Union Minister Dharmendra Pradhan assured NEET-UG candidates that enhanced security measures are in place for the June 21 re-exam after the May 3 paper leak.
-
-## Mapping 12 years of welfare expansion during Modi rule
-Since 2014, Modi's government has built a vast welfare system, aiding 800M with food, farmers, health, and housing, marking historic social progress.
-
-## PM Modi’s milestone: The politics of delivery, not just a record
-India's PM Narendra Modi, now the longest-serving elected leader, has prioritized welfare and transformation, focusing on the poor, farmers, and infrastructure.
-
-## TMC’s Mamata faction accuses rebel MPs of trying to engineer split
-The Mamata camp alleged that the rebel MPs lack “political morality and ethics” and termed them opportunists for trying to engineer a split.
-
-## How Modi reshaped India’s political map
-On May 20, 2014, Modi's emotional speech marked his rise as BJP leader, credited with expanding the party's power and reshaping Indian politics.
-
-## UP, Bengal top Centre’s Rs 95,692-crore interim allocation for states under VB-G RAM G
+## Profitability a concern as Zepto lines up IPO
 
 
-## Kuki farmer killed in armed attack in Manipur village
+## Need to register gig workers by June 21, government tells platforms
 
 
-## 5 lesser-known monsoon treks in India
+## Apple bets on new Siri to get AI right this time
 
 
-## ‘Be good boys off the field’: Sourav Ganguly on his aggressive Team India mindset
+## Bank stocks rally as RBI pushes for forex assets
 
 
-## UzChess Cup 2026: Arjun in joint lead; Vidit opens account with draw
+## Insolvency and Bankruptcy Code prevails over apex court rules in case of conflict: Supreme Court
+The Supreme Court bench underlined that procedural rules cannot be used to dilute the strict timelines prescribed by Parliament for insolvency proceedings.
+
+## WhatsApp chats, phone calls cited to challenge arrest in US tourist's ‘rape’ at Karnataka homestay
+The case concerns the alleged rape of a 33-year-old American woman at the accused’s homestay in Karnataka's Kodagu in April.
+
+## 'Congress themselves gave us info': BJP's big claim on Meenakshi Natarajan's RS setback
+Congress leader Meenakshi Natarajan's nomination cancellation means that all three BJP candidates from Madhya Pradesh go through to the Rajya Sabha.
+
+## Student suicides reflect institutional failure: SC panel
+Student suicide represents only the visible tip of a much larger iceberg of student distress. Beneath the surface lies a wide spectrum of distress.
+
+## Minister leaves for Delhi amid row over portfolio jurisdiction
+Bengaluru's new development minister, Krishna Byre Gowda, heads to Delhi to push for agency oversight amid ongoing portfolio disputes within the Congress party.
+
+## Government sees surge in subsidies, but no hit to growth
+The department of fertilisers has sought a 100% increase in the fertiliser subsidy allocation to around ₹3.42 lakh crore for 2026-27.
+
+## Supreme Court slams threats to retired Bombay high court judge Gautam Patel over 2024 judgement
+HT first reported the matter on Monday highlighting the series of threats received by the judge’s family, the latest being on June 5.
+
+## EC rejects Meenakshi Natarajan’s Rajya Sabha nomination; Congress cries foul
+The cancellation came even as Congress was taking precautionary measures to protect its flock amidst speculation that Natarajan was not the state unit’s choice.
+
+## How a ‘free gift’ call turned into 8-year consumer battle: Country Club ordered to refund man Rs 1.8 lakh
 
 
-## Fresh maternal health concern in Rajasthan: 4 new mothers in serious condition at Bikaner hospital
+## US launches ‘proportional’ strikes on Iran over downed helicopter
 
 
-## Serena Williams returns to professional tennis at Queen’s Club
+## Ahead of Karnataka SIR, Congress seeks printed copies of 2002 electoral rolls from EC
 
 
-## NASA unveils Artemis III astronauts to test technology for future moon landing
+## Row over demolition drive in Surat slum: Over 50 detained amid protest; civic official who ‘signed notice’ goes on leave
 
+
+## Bharathiraja Death Live Updates: Tamil cinema icon dies after prolonged illness; tributes pour in
+
+
+## 2 Army soldiers killed in accidental blast in North Kashmir’s Uri
+
+
+## Surya Namaskar may help reverse key diabetes nerve disorder, says new study
+
+
+## ‘I keep telling Amazon to make spinoff on Siddhi like Marvelous Mrs Maisel’: Maanvi Gagroo
+
+
+## Chinese pharmaceutical firms’ cost advantages trump Pentagon blacklist: analysts
+The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of entities it alleges are linked to the country’s military, but the blacklisting will not stop multinational drug makers from collaborating with China’s biopharmaceutical firms, according to analysts. “We view minimal impact
+
+## US fintech firm iCapital doubles prime office space in Hong Kong amid wealth boom
+Fintech company iCapital has more than doubled its office footprint in Hong Kong, leasing a 9,000 sq ft space in One International Finance Centre in the city’s Central business district as it staffs up to capture rising demand for wealth-management services in Asia. The US company, which opened its 
 
 ## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
 China’s market regulators will continue to support Hong Kong in consolidating its status as an international financial centre, and they expect the city to play to its advantages as an offshore yuan hub, according to the chairman of the Hong Kong Association of Banks (HKAB). To boost global adoption 
@@ -152,12 +164,6 @@ The Pentagon added tech giants Alibaba and Baidu and carmaker BYD to a blacklist
 
 ## McDonald’s cashes in again as Hong Kong property sell-down continues
 McDonald’s has sold another Hong Kong retail property, continuing its years-long effort to cash in on real estate assets accumulated during its rapid expansion across the city over the past few decades. The latest disposal involved Shop 1 on the upper ground floor of Parkvale Place on King’s Road in
-
-## Alibaba and WuXi AppTec decline in Hong Kong after addition to US blacklist
-Alibaba Group Holding and pharmaceutical contractor WuXi AppTec fell on Tuesday after the US placed them and several other Chinese companies in key emerging industries on a blacklist over alleged military links. Alibaba slipped 1.4 per cent to HK$117.10 and WuXi AppTec tumbled 3.7 per cent to HK$116
-
-## Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth
-In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie 
 
 ## U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
 But Iranian officials reportedly claim that the downing was not deliberate.
@@ -255,29 +261,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge halts execution by nitrogen gas, ruling it unconstitutional
-Judge Emily Marks had previously allowed the execution to proceed, arguing that no execution is entirely without pain.
+## Bolivia approves military measures against nationwide protests
+Bolivia approves military measures against nationwide protests.
 
-## Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’
-Three residents filed the case on behalf of a class estimated at more than 10,000 members.
+## Iran strikes Bahrain and Jordan in retaliation for US attacks in Hormuz
+Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.
 
-## Deadly protests in Pakistan-administered Kashmir: What’s going on?
-At least 11 people were killed on Sunday in clashes between police and protesters in Pakistan-administered Kashmir.
+## Protesters torch cars, buildings in Belfast after knife attack
+Unrest comes after a Sudanese man was arrested over a stabbing attack in north Belfast, UK.
 
-## Trump vows retaliation after claiming Iran shot down Apache helicopter
-President Trump accused Iran of shooting down a US Apache helicopter over the Strait of Hormuz
+## Belfast plunged into chaos as vehicles set ablaze following stabbing attack
+Al Jazeera's Milena Veselinovic reports from Belfast, where protests have escalated into violent riots.
 
-## Israeli forces kill nine in Tyre after issuing forced displacement orders
-Israeli forces killed nine people in Tyre in the past 24 hours after it issued forced displacement orders on the city.
+## South Korea’s booming stock market mints generation of novice investors
+South Korean stocks are soaring, drawing first-time investors in a nation where property has long reigned supreme.
 
-## Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats
-Trump had threatened to halt the opening of the cross-border bridge, which is jointly owned by Michigan and Canada.
+## Brazil intercepts 108 Cuban immigrants amid growing asylum applications
+Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.
 
-## Bear captured after days of panic and school closures in Japan
-A bear that triggered days of disruption in the Japanese city of Utsunomiya was captured.
+## Iran war live: Tehran targets US forces in Bahrain, Jordan after south hit
+Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.
 
-## Iran conflict: Why has oil stayed near $100 a barrel?
-The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
+## US military launches ‘self-defence strikes’ targeting Iran
+US Central Command (CENTCOM) says its forces began launching ‘self-defence’ strikes against Iran.
+
+## Sky Gold eyes 30-35% CAGR revenue growth, market leadership by FY30: CFO Siddharth Sipani
+Sky Gold and Diamonds aims for a threefold revenue jump to Rs 18,000-19,000 crore by FY30. The company plans to achieve this by expanding its advance gold model, boosting exports, and diversifying its product range. Sky Gold also expects to become cash flow positive in the first half of FY27.
 
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
@@ -299,9 +308,6 @@ Finance veteran exits home interiors company months after joining; set to take u
 
 ## SC ruling seen shaping Sebi’s fraud-finding frame
 In a ruling, the apex court had said that investor injury alone can establish fraud, although the loss isn’t quantifiable
-
-## India Inc hikes prices, shrinks packs as Iran war squeezes margins
-Indian businesses face mounting pressure from soaring oil, freight, and insurance costs. Companies are increasing prices and reducing product sizes to protect profits. Many are also cutting operational expenses like advertising and travel. Supply chains are being reconfigured to manage disruptions.
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
