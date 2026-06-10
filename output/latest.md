@@ -1,73 +1,82 @@
 # AION Intelligence
 
+## Northern Ireland battles to contain disorder after Belfast knife attack
+First minister deplores ‘outright thuggery’ as protesters set fire to homes, cars and public transport
+
+## US and Iran exchange strikes after downing of American helicopter
+Tehran says it targeted US military facilities in Jordan and Bahrain following latest barrage
+
+## Gold and bitcoin: the assets the rally forgot
+Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
+
+## Why steel tariffs are rumbling the EU’s outreach to South Korea
+Also in this newsletter: Brussels looks likely to cheer Italian bank merger
+
+## Introducing: The Story of Money
+A new video podcast from The FT exploring the history of finance
+
+## FirstFT: US and Iran trade fire after downing of American helicopter
+Also in today’s newsletter: alternative to Patriots and US equity supplies
+
+## Cycling Washington DC’s 18-mile Mount Vernon Trail
+Riding south along the Potomac to George Washington’s estate, through marshes and historic sites, the FT’s Claire Jones finds a quieter America
+
 ## China factory gate prices rise at fastest rate in 4 years
 Energy costs climb as Iran war cuts off supply through Strait of Hormuz
 
-## US launches strikes on Iran after downing of American helicopter
-Washington says attack is ‘proportional response to unjustified Iranian aggression’
+## WHSmith shares tumble 17% as retailer announces capital raise
+London-listed company warns of hit to profits from the Middle East conflict
 
-## Democrat Graham Platner wins Maine US Senate primary
-Controversial candidate shrugged off misconduct allegations to challenge incumbent Susan Collins in November
+## BYD to spend €2bn to build out 5-minute flash chargers in Europe
+Chinese EV maker banks on ultrarapid battery technology to take market share from legacy rivals
 
-## Steve Hilton advances to general election for California governor
-David Cameron’s former adviser to face Democrat Xavier Becerra on November ballot
+## Apollo and Blackstone’s Large Lending Model
+The private capital groups have finalised a complex $35bn deal that will help finance Anthropic’s growth plans
 
-## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
-Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plans
+## Mercedes set to partner with drone defence start-up Tytan
+German carmaker to provide vehicles for interception of threats that pose a growing concern for Europe
 
-## Northern Ireland battles to contain disorder after Belfast knife attack
-First Minister deplores ‘outright thuggery’ as protesters set fire to homes, cars and public transport
+## Ukraine builds cheap alternative to Patriot missiles
+Arms maker Fire Point says it has successfully tested surface-to-air projectiles
 
-## Magistrate shortage threatens English court reforms, MPs warn
-Recruitment shortfall threatens Labour’s pledge to reduce huge backlog of cases in criminal courts
+## Google’s backstops underpin $35 billion chip deal for Anthropic
+Google, whose AI entries include Gemini, agreed to backstop lease payments at each location, helping Anthropic obtain what amounts to a $35 billion loan
 
-## Pope Leo meets Trump foe Bad Bunny
-Puerto Rican rapper has become a symbol of cultural resistance to US president
+## Sagar Cements commissions additional capacity plant in Madhya Pradesh
+Sagar Cements boosts production with a new 0.5 MTPA capacity plant in Madhya Pradesh, increasing total grinding capacity to 1.5 MTPA
 
-## Oil slides as US official says Hormuz transits are ‘meaningfully’ climbing
-Energy secretary Chris Wright cautions that flows through the strait will take months to fully recover
+## Sensex today | Stock Market Live Updates: Sensex up 650 pts, Nifty 50 breaches 23,400-mark amid volatility in Asian markets
+Sensex, Nifty, Share Prices LIVE: Market breadth remains negative despite the headline indices trading in the green. Of the 3,229 stocks traded on the NSE, 1,361 advanced, while 1,768 declined and 100 remain unchanged
 
-## Apollo hunts for Japanese life insurer to boost growth
-US asset manager may face regulatory hurdles amid preference for domestic players
+## Meta, CleanMax partner for 900 MW renewable energy capacity in India
+Under the partnership, CleanMax will develop and operate 837 MW of new renewable energy capacity across Rajasthan and Karnataka, comprising large-scale solar and wind projects
 
-## GM bets on homegrown battery tech to challenge Chinese dominance
-US carmakers pivot to energy storage batteries for AI as they seek to counter weak electric vehicle sales
+## Sensex sustains over 74,400 level: HUL, ICICI Bank, Axis Bank lead gains as markets defy weak global cues
+Market breadth remained negative despite the headline indices trading in the green. Of the 3,229 stocks traded on the NSE, 1,361 advanced, while 1,768 declined and 100 remained unchanged.
 
-## Why are investors so jumpy?
-What’s driving market volatility?
+## SEBI proposes new pay disclosure norms for mutual fund firms
+Asset management companies may report executive remuneration on a consolidated basis instead of naming individuals.
 
-## GSK’s $10.6bn cancer deal will lead to more
-Making additional moves would be in keeping with pharma group’s strategy of building its pipeline as fast as possible
+## 'Tax evasion' case: Anil Ambani gets interim protection from coercive action under Black Money Act
+Bombay High Court admits industrialist Anil Ambani’s petition challenging the constitutional validity of provisions of the Black Money Act
 
-## Space strawberry grower grows share count before strawberries
-Extract on space, repent at leisure
+## Indian-American co-founder’s drone boat powers historic US rescue mission in Hormuz
+The rescue operation by the drone boat Corsair, developed by Saronic Technologies, was the first of its kind mission to be carried out by the US Armed Forces
 
-## Pentagon restores Alibaba, Baidu and BYD to Chinese military groups blacklist
-Three companies reinstated as US national security risk after sudden removal in February
+## ITR filing FY 2025-26: What documents are required to file your income tax return? Quick checklist
+ITR filing FY 2025-26: Think of your documentation as evidence; the income tax department already has digital footprints of your transactions, and your job is to match them accurately.
 
-## Will have as many AI agents as human employees over the next three years: TCS Chairman Chandrasekaran
-There will be decreased in hiring as compared to earlier onboarding numbers, says Chairman
+## Another blow! After Japan, Nepal restricts mango imports from India
+Authorities said the decision was driven by reports of high pesticide content in imported mangoes as well as inadequate quarantine arrangements in border regions, particularly in Madhesh province.
 
-## Sensex today | Stock Market Live Updates: Nifty staring at a gap down opening amid weak global cues
-Sensex, Nifty, Share Prices LIVE: Domestic markets are likely to open on a flat-to-negative note on Wednesday amid fresh escalation of tension between Iran and US. The Gift Nifty which was ruling sharply higher turned lower after the fresh attacks in Iran
+## Gold price prediction today: Will gold, silver prices continue to be under pressure? Check June 10, 2026 outlook
+Gold price prediction today: The outlook for gold and silver prices remains cautious due to ongoing geopolitical pressures, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
-## Indian students in US fast-track education loan repayments amid visa, job worries
-Borrowers opt for higher instalments and lump-sum payments citing job security and potential return to India
+## Reliance and Meta to develop AI-enabled data centre in Jamnagar
+Reliance Industries and Meta Platforms are joining forces to build a massive 168 MW AI-powered data centre in Jamnagar, Gujarat. This significant collaboration marks India's first built-to-suit facility for Meta, aiming to bolster global AI infrastructure. Reliance will manage the entire project, en
 
-## More swings for AI stocks drag Wall Street back on the roller coaster
-Wall Street pulled back from highs on chip sector weakness despite broad gains; focus shifts to US inflation data and Fed outlook
+## Stock Market Live Updates Today: BSE Sensex opens almost 300 points up, Nifty50 above 23,300 despite crude oil price rise on fresh US-Iran tensions
 
-## Iran says foreign forces in proximity to its territory should leave
-Iran’s Foreign Minister Abbas Araqchi urges withdrawal after Trump comments on downed US Apache helicopter in Strait of Hormuz
-
-## South Korean shares fall over 2% on heightening West Asia conflict
-KOSPI drops amid US strikes on Iran; foreigners turn net sellers as bond yields edge higher
-
-## US strikes Iran after Trump blames Tehran for downing Army helicopter
-Iran's top diplomat says foreign military forces near its territory "are at constant risk" and later vowed that there would be a response to the new US strikes
-
-## Nifty staring at a gap down opening amid weak global cues
-Analysts highlight support levels in derivatives and caution over FII selling, global cues ahead of US CPI data
 
 ## Top stocks to buy today: Stock recommendations for June 10, 2026 - check list
 Stock market recommendations: Bank of India, Hindustan Zinc, and Union Bank of India are the top stock picks by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for June 10, 2026:
@@ -78,68 +87,65 @@ Stock market recommendations: Bank of India, Hindustan Zinc, and Union Bank of I
 ## OpenAI joins AI giants, files for US public listing
 
 
-## Adani Energy to acquire smart meter player for ₹3. 1k cr
+## ‘Action illegal, no case against Meenakshi Natarajan’: Congress after EC meeting on RS candidature
+Abhishek Manu Singhvi said the Rajya Sabha nomination was rejected by the EC citing a criminal case pending against Natarajan, but that is not the case.
+
+## COP31 hosts set 35% global electrification target
+The “35x35” target is backed by analysis from the IEA and the IRENA, and is designed to support the Paris Agreement and keep global warming within 1.5°C above pre-industrial levels
+
+## 'Been a pleasure': Italy's Giorgia Meloni congratulates Modi on becoming India's longest-serving elected PM
+PM Modi became the country’s longest continuously serving elected premier, marking 12 years in office and surpassing previous records for continuous tenure.
+
+## ₹5.38 crore-worth hydroponic weed, concealed in geysers, seized at Delhi airport
+According to Delhi Customs' statement, the two passengers from Kuala Lumpur were intercepted after they crossed the Green Channel at the airport.
+
+## 'Men, call this out': The Pranit More show, Gurugram man's ‘ ₹370 vasool’ monologue, the outrage explained
+Popular stand-up comedian Pranit More is under fire for allowing and enjoying, along with the audience, a Gurugram man's obscene monologue at his recent show.
+
+## TMC crisis deepens after Sushmita Dev resigns as Rajya Sabha MP, days after Sukhendu Sekhar Ray
+Twin resignations deepen the crisis in the TMC, which played a key role in defeating the Constitution amendment bill to implement early Delimitation.
+
+## SC quashes POCSO case against man using extraordinary power
+SC quashes POCSO case against man using extraordinary power
+
+## Union Cabinet passes resolution honouring PM Modi's record run in office
+PM Modi completed 4,399 consecutive days in office on Wednesday, overtaking Nehru's elected tenure of 4,398 days.
+
+## Know Your City: Inside Bengaluru’s world of vintage watches and time-worn clocks
 
 
-## Profitability a concern as Zepto lines up IPO
+## Stranded 25 km from exam centre by Ola driver, woman writes civil judge test in stress, wins Rs 55,000 payout
 
 
-## Need to register gig workers by June 21, government tells platforms
+## ‘World Cup of chaos’: Ian Wright blasts USA entry denials after Somali referee sent back
 
 
-## Apple bets on new Siri to get AI right this time
+## Ahmedabad plane crash: No pressure on families to accept final payout, says Air India
 
 
-## Bank stocks rally as RBI pushes for forex assets
+## Mocked online, tested in ministry: As Hyundai bets on Tamil Nadu, Keerthana has last laugh
 
 
-## Insolvency and Bankruptcy Code prevails over apex court rules in case of conflict: Supreme Court
-The Supreme Court bench underlined that procedural rules cannot be used to dilute the strict timelines prescribed by Parliament for insolvency proceedings.
-
-## WhatsApp chats, phone calls cited to challenge arrest in US tourist's ‘rape’ at Karnataka homestay
-The case concerns the alleged rape of a 33-year-old American woman at the accused’s homestay in Karnataka's Kodagu in April.
-
-## 'Congress themselves gave us info': BJP's big claim on Meenakshi Natarajan's RS setback
-Congress leader Meenakshi Natarajan's nomination cancellation means that all three BJP candidates from Madhya Pradesh go through to the Rajya Sabha.
-
-## Student suicides reflect institutional failure: SC panel
-Student suicide represents only the visible tip of a much larger iceberg of student distress. Beneath the surface lies a wide spectrum of distress.
-
-## Minister leaves for Delhi amid row over portfolio jurisdiction
-Bengaluru's new development minister, Krishna Byre Gowda, heads to Delhi to push for agency oversight amid ongoing portfolio disputes within the Congress party.
-
-## Government sees surge in subsidies, but no hit to growth
-The department of fertilisers has sought a 100% increase in the fertiliser subsidy allocation to around ₹3.42 lakh crore for 2026-27.
-
-## Supreme Court slams threats to retired Bombay high court judge Gautam Patel over 2024 judgement
-HT first reported the matter on Monday highlighting the series of threats received by the judge’s family, the latest being on June 5.
-
-## EC rejects Meenakshi Natarajan’s Rajya Sabha nomination; Congress cries foul
-The cancellation came even as Congress was taking precautionary measures to protect its flock amidst speculation that Natarajan was not the state unit’s choice.
-
-## How a ‘free gift’ call turned into 8-year consumer battle: Country Club ordered to refund man Rs 1.8 lakh
+## Bharathiraja rewrote the rules of Tamil cinema with dirt roads, real faces, and no sets
 
 
-## US launches ‘proportional’ strikes on Iran over downed helicopter
+## NTA dismisses fake notice claiming exam pattern revised for NEET re-test 2026
 
 
-## Ahead of Karnataka SIR, Congress seeks printed copies of 2002 electoral rolls from EC
+## Supreme Court grants bail to man whose murder conviction was upheld by High Court after 4 decades
 
 
-## Row over demolition drive in Surat slum: Over 50 detained amid protest; civic official who ‘signed notice’ goes on leave
+## Mainland China set to raise US$2.2b in Hong Kong bond sale amid demand for yuan assets
+The Ministry of Finance announced on Wednesday that it plans to issue 15 billion yuan (US$2.2 billion) worth of sovereign bonds in Hong Kong next week, marking its third issuance this year and strengthening the city’s role as the world’s largest offshore yuan trading hub. Analysts expected the issua
 
+## Hong Kong debt market heats up as Tencent, Swire raise US$5.2b in multi-currency deals
+Hong Kong’s debt market is surging, with Tencent Holdings and Swire Pacific raising more than US$5.2 billion in fresh funding, underscoring the city’s growing role as an international bond hub. The issuers, ranging from China’s tech champion to one of its oldest conglomerates, offered bonds across m
 
-## Bharathiraja Death Live Updates: Tamil cinema icon dies after prolonged illness; tributes pour in
+## Chinese carmakers race Tesla on humanoid robots; BYD launches ‘God’s Eye’: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s EV giants challenge Tesla in race to commercialise humanoid robots Chinese ele
 
-
-## 2 Army soldiers killed in accidental blast in North Kashmir’s Uri
-
-
-## Surya Namaskar may help reverse key diabetes nerve disorder, says new study
-
-
-## ‘I keep telling Amazon to make spinoff on Siddhi like Marvelous Mrs Maisel’: Maanvi Gagroo
-
+## Hong Kong’s Longevity Paradox
+[The content of this article has been produced by our advertising partner.] Hong Kong has one of the world’s longest life expectancies, a distinction it has maintained for much of the past decade according to data from the city’s Centre for Health Protection. But longevity alone does not guarantee a
 
 ## Chinese pharmaceutical firms’ cost advantages trump Pentagon blacklist: analysts
 The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of entities it alleges are linked to the country’s military, but the blacklisting will not stop multinational drug makers from collaborating with China’s biopharmaceutical firms, according to analysts. “We view minimal impact
@@ -153,17 +159,8 @@ China’s market regulators will continue to support Hong Kong in consolidating 
 ## Singapore group buys distressed tower as Hong Kong’s student housing demand accelerates
 Singapore-listed developer Wee Hur Holdings is expanding its Hong Kong student accommodation platform with the acquisition of One Bedford Place, a lender-controlled office tower that it plans to convert into a 500-bed student housing project. The company said in a filing to the Singapore Exchange on
 
-## BYD playing catch-up with demand for fast-charging batteries as appeal of EVs rises
-China’s electric vehicle (EV) king BYD said demand for its second-generation blade batteries currently outstrips existing capacity, as Chinese cars gain popularity around the globe. At the company’s annual general meeting in Shenzhen on Tuesday, chairman and president Wang Chuanfu told shareholders 
-
-## Hong Kong launches tax-break plan to strengthen role as a corporate treasury base
-The Hong Kong government has unveiled an action plan to broaden tax incentives and introduce a pre-approval mechanism aimed at attracting more companies to establish corporate treasury centres in the city, according to Secretary for Financial Services and the Treasury Christopher Hui Ching-yu. “This
-
-## Pentagon blacklists China tech giants as US competition expands
-The Pentagon added tech giants Alibaba and Baidu and carmaker BYD to a blacklist of Chinese companies with military ties amid widening competition between the world’s two largest economies. Drug maker WuXi AppTec, robot company Unitree and carmaker Nio were among other businesses added to the 1260H 
-
-## McDonald’s cashes in again as Hong Kong property sell-down continues
-McDonald’s has sold another Hong Kong retail property, continuing its years-long effort to cash in on real estate assets accumulated during its rapid expansion across the city over the past few decades. The latest disposal involved Shop 1 on the upper ground floor of Parkvale Place on King’s Road in
+## Why Cambodia and Thailand’s Peace Is So Uneasy
+A step forward in the maritime dispute masks dangers on the land border.
 
 ## U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
 But Iranian officials reportedly claim that the downing was not deliberate.
@@ -186,8 +183,20 @@ The war in Iran has depleted the Pentagon as China’s military buildup matures.
 ## How to Escape Blame for Bad Advice
 If you get an important strategic issue wrong, there are still ways to avoid accountability.
 
-## The Invisible Hand Won’t Rebuild U.S. Shipyards
-War in Iran has put a spotlight on declining U.S. maritime power.
+## The Democratic Dilemma in South Korea’s Local Election Ballot Shortage
+President Lee sold Korean democracy abroad as a system that fixes itself. Now his party and the administration have to prove it by holding the election commission to account without handing the conspiracy theorists a win.
+
+## Why Does the G7 Keep Inviting India to its Summits?
+India’s recurring invitations reveal as much about New Delhi’s ambitions as about the G7’s adaptation to the changing times.
+
+## Long Night Over Hualien: The China Threat Through the Eyes of Taiwan’s Indigenous Peoples
+“The current situation is not the fruit of our choosing, but of history itself.”
+
+## Can Northeast Asia’s New Geopolitical Reality Create Opportunities for Mongolia?
+Within the emerging geopolitical landscape, Mongolia may have opportunities to diversify its economic partners.
+
+## As Integration in the Greater Bay Area Accelerates, Small Businesses in Macau Suffer
+Drawn by lower prices, a wider variety of products and convenience, Macau’s residents have taken to spending in mainland China.
 
 ## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
 Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
@@ -198,20 +207,11 @@ Cargo-laden trucks are already plying six new overland routes linking its major 
 ## Xi and Kim Agree to Strengthen ‘Strategic Relationship’ with Socialist Principles
 Touting the achievements Pyongyang has made in recent years, Xi de facto recognized North Korea as a nuclear-armed state.
 
-## How Kazakhstan Uses the Stalling Board of Peace
-Despite opting out of contributing the $1 billion fee required to become a permanent member of Donald Trump's Board of Peace, Kazakhstan has continued to publicly highlight its membership.
+## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
+Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
 
-## Is VinFast’s Costly EV Gambit Coming to an End?
-Despite its vaunting ambitions and rapid expansion, the upstart automaker has yet to prove it can compete beyond the Vietnamese market.
-
-## Brunei’s Sultan Reshuffles Cabinet, Appointing His Son as Foreign Minister
-The elevation of three of Hassanal Bolkiah's sons suggest that key posts are increasingly being concentrated within the direct line of succession.
-
-## Afghanistan’s Women: Erased
-An entire generation of Afghan girls have had their aspirations suspended by policies systematically excluding them from education and public life.
-
-## At Least 32 Dead After Earthquake Hits Southern Philippines, Authorities Say
-President Ferdinand Marcos Jr. has stated that "the national government is moving and we will not leave Mindanao behind."
+## Cascading Failure: The Spanish Navy’s Reserve Squadron and the Tragedy of Unpreparedness
+It is in long periods of peace that victories and defeats are prepared. Peace is the period for men of government, just as war is for men of action. Without the calm preparation carried out by the former, the courage and energy of the latter are of no use. — Captain First Class Ramón Auñón y Villaló
 
 ## How Can Lebanon’s Partners Help Strengthen the Lebanese Armed Forces?
 The Lebanese state’s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However, figh
@@ -230,12 +230,6 @@ At the Port of Beirut, the new scanners did exactly what they were built to do. 
 
 ## The Pentagon’s AI Edge Is Being Distilled Away
 Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In this new context, military predominance i
-
-## After the Invasion: China Considers the Problem of Ruling Taiwan
-In August 2024, scholars at a Xiamen-based think tank published a paper urging Beijing to immediately establish a shadow Taiwan government on the Chinese mainland in preparation for a full takeover of the island. “It is imperative to prepare a plan for the comprehensive takeover of Taiwan after unif
-
-## Is Time on China’s Side? Beijing’s Taiwan Calculus and the Balance of Power
-When is the risk of war the highest? And what should the United States be doing about it? One of the most important but underappreciated questions in international politics is how states think about the future balance of power. Countries that believe their position is improving often choose patience
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,29 +255,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bolivia approves military measures against nationwide protests
-Bolivia approves military measures against nationwide protests.
+## Explosion in Bahrain as Iran attacks US bases
+CCTV footage shows an explosion in Bahrain’s capital Manama after what authorities say was an Iranian missile strike.
 
-## Iran strikes Bahrain and Jordan in retaliation for US attacks in Hormuz
-Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.
+## Messi comes off the bench to score in Argentina’s final World Cup warm-up
+Argentina ease past Iceland in their final friendly before the World Cup, winning 3-0 in Auburn, Alabama.
 
-## Protesters torch cars, buildings in Belfast after knife attack
-Unrest comes after a Sudanese man was arrested over a stabbing attack in north Belfast, UK.
+## Ukrainian drones strike Sevastopol museum and key Russian oil refineries
+The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis
 
-## Belfast plunged into chaos as vehicles set ablaze following stabbing attack
-Al Jazeera's Milena Veselinovic reports from Belfast, where protests have escalated into violent riots.
+## Iran war day 103: US strikes after helicopter shot down, Tehran hits back
+Analysts warn of further escalation after tit-for-tat attacks between Tehran and Washington.
 
-## South Korea’s booming stock market mints generation of novice investors
-South Korean stocks are soaring, drawing first-time investors in a nation where property has long reigned supreme.
+## Indonesia jails four military officers for acid attack on rights activist
+Prosecutors argued in court that the soldiers were motivated by anger over Yunus’s activism.
 
-## Brazil intercepts 108 Cuban immigrants amid growing asylum applications
-Last year, for the first time in a decade, Cuban asylum applications exceeded Venezuelan ones in sign of growing strain.
+## Prediction platform Kalshi to collect job details to combat insider trading
+Prediction platform says it will seek employment information for markets at 'heightened' risk of manipulation.
 
-## Iran war live: Tehran targets US forces in Bahrain, Jordan after south hit
-Lebanon's Health Ministry says the death toll from Israeli attacks on the country since March 2 has reached 3,666.
+## Platner wins Maine Democratic Senate primary, vows to oust Collins
+Platner wins Maine Senate primary despite controversies, setting up a key race against Republican Susan Collins.
 
-## US military launches ‘self-defence strikes’ targeting Iran
-US Central Command (CENTCOM) says its forces began launching ‘self-defence’ strikes against Iran.
+## Trita Parsi: Iran is pursuing a doctrine of swift retaliation
+Iran has abandoned strategic patience for a new doctrine: swift, severe retaliation against any US attack.
+
+## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
+Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
 
 ## Sky Gold eyes 30-35% CAGR revenue growth, market leadership by FY30: CFO Siddharth Sipani
 Sky Gold and Diamonds aims for a threefold revenue jump to Rs 18,000-19,000 crore by FY30. The company plans to achieve this by expanding its advance gold model, boosting exports, and diversifying its product range. Sky Gold also expects to become cash flow positive in the first half of FY27.
@@ -305,9 +302,6 @@ Workforce planning is shifting from HR's cost-control focus to the CFO's strateg
 
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
-
-## SC ruling seen shaping Sebi’s fraud-finding frame
-In a ruling, the apex court had said that investor injury alone can establish fraud, although the loss isn’t quantifiable
 
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
