@@ -1,43 +1,37 @@
 # AION Intelligence
 
-## ‘Pure racism’: East Belfast reels from riots led by masked young men
-Torched homes are a painful throwback to the Troubles that Northern Ireland is seeking to leave behind
+## US launches fresh wave of strikes on Iran
+Second day of attacks puts fragile ceasefire under new strain and pushes up oil prices
 
-## EU to protect industries from future carbon costs if they invest in the bloc
-Brussels weighs scheme to provide free emission allowances beyond the existing 2039 schedule
+## Oracle to spend $70bn on data centre build-out in coming year
+Shares in the database group drop as much as 8% in after-hours trading following flat revenue guidance
+
+## Lockheed Martin cannot say when US allies will get Patriot missiles
+Top executive says arms maker does not control allocation of PAC-3 interceptors, despite tripling production
+
+## FirstFT: Seven people charged over deadly Hong Kong fire
+Also in today’s newsletter: US launches fresh wave of strikes on Iran, and BoJ governor Kazuo Ueda admitted to hospital
 
 ## Trump warns US will soon hit Iran ‘hard’ again
 President’s remarks come after countries exchange fire following downing of American helicopter
 
-## Oil tankers increase ‘dark’ transits through Strait of Hormuz
-Donald Trump says US launched ‘secret mission’ to help move crude through the waterway
+## UK to launch CO₂ supply push as pubs prepare for bumper beer sales
+Consultation comes as football fans look forward to start of World Cup and month of drinking
 
-## Trump suggests he may not renew trade deal with Mexico and Canada
-‘We don’t need anything that they have,’ US president says of 2020 trilateral agreement
+## US tech stocks sink as volatility flares up on Wall Street
+Latest bout of selling comes ahead of SpaceX’s historic market debut
 
-## Historic Merseyside shipyard bought ahead of planned Royal Navy refresh
-Cammell Laird, once the engine room of warship building in the UK, positions for potential higher defence spending
-
-## Social media platforms warned over role in fuelling Belfast riots
-Ofcom tells sites to take action over content that may incite violence as Northern Ireland braces for further unrest
-
-## Palantir ban means frontline police will be lost in London, Met chief warns
-Comments from Mark Rowley come after Sadiq Khan blocked contract between force and US tech company
+## ‘Pure racism’: East Belfast reels from riots led by masked young men
+Torched homes are a painful throwback to the Troubles that Northern Ireland is seeking to leave behind
 
 ## Mike Ashley’s Frasers offers to buy Hugo Boss in €2.7bn deal
 Retail billionaire could use bid to increase stake in German fashion group rather than taking full control
 
-## US CEOs are getting richer and more nervous
-More than 29% of S&P 500 companies provided home security perks for their top brass in 2025
+## EU plans to protect industries from carbon costs if they invest in the bloc
+Brussels weighs scheme to provide free emission allowances beyond the existing 2039 schedule
 
-## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
-Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plans
-
-## Trump baffles Wall Street with top dealmaker praise for Citi
-A morning social media post from the president congratulates bank on a ranking it does not hold
-
-## Here’s that ‘SpaceX’s IPO is overvalued by 114%’ research in full
-Notes on a panhandle
+## Oil tankers increase ‘dark’ transits through Strait of Hormuz
+Donald Trump says US launched ‘secret mission’ to help move crude through the waterway
 
 ## Trump congratulates Modi on becoming India’s longest-serving Prime Minister
 In a post on Truth Social, Trump praised Modi as a “strong, healthy, and wise” leader and wished him continued success
@@ -63,6 +57,9 @@ Trump said Tehran had delayed negotiations and called it ‘all talk and no acti
 ## RBI may ask banks to adopt risk-based internal audit approach
 The primary objective of RBIA is to provide the Board or its committees with reasonable assurance on the adequacy and effectiveness of the institution’s risk management and internal control framework.
 
+## Government may hold off on higher ethanol mandate
+
+
 ## AI windfall for the public? Trump signals shake-up for tech giants
 US President Trump is pushing for major AI firms to "give back" to the public, potentially through government stakes or benefit mechanisms. He plans to meet top tech executives soon to discuss this proposal, aiming to enrich citizens and boost AI's popularity. Discussions about a "Public Wealth Fund
 
@@ -84,8 +81,8 @@ SpaceX's highly anticipated stock market debut could be historic, with a massive
 ## Cost of conflict: US inflation hits 3-year high as Iran war fuels energy shock
 US inflation hit a three-year high in May, soaring to 4.2% due to surging energy prices, particularly gasoline, driven by Middle East supply disruptions. This rise, the third consecutive monthly increase, pressures the Federal Reserve and poses a political challenge for the Trump administration ahea
 
-## How to protect your wealth when rupee is falling
-Is the rupee’s fall eating into your investment returns? What should investors do to protect their portfolio in the current scenario? The first thing to understand is that fundamentally, a falling rupee does not have a direct impact on your investments.
+## Manipur government will not remain mute spectator to atrocities: CM Khemchand Singh
+Manipur government will not remain mute spectator to atrocities: CM Khemchand Singh
 
 ## India summons US diplomat over attack on tanker off Oman
 India condemned a US attack on the tanker Settebello, leaving three Indian crew missing, and summoned a US diplomat to protest the incident.
@@ -108,32 +105,32 @@ Abhishek’s meeting with Rahul comes a day after TMC chief Mamata Banerjee met 
 ## ‘Not circus animals’: Bengal LoP signals more resignations in TMC after Sushmita Dev
 Sushmita Dev was the second MP in the Upper House to resign from the party, after veteran leader Sukhendu Sekhar Ray.
 
-## Amid TMC's internal crisis, Mahua Moitra calls party exodus a 'cleansing', says 'will never leave Mamata'
-Mahua also said the episode had served as a lesson for the party, suggesting that Mamata should have severed ties with some leaders much earlier.
-
-## Vadodara: Horse falls into drain after concrete cover collapses, rescued after hour-long op
+## Delhi Confidential: Guess Who?
 
 
-## Air India crash, a year later | ‘It still feels he’s abroad’: For family of last identified passenger victim, grief still waits at the door
+## Teacher suspended days after she joined ‘Cockroach Janta Part’ protest in Delhi
 
 
-## Muralidhar Mohol seeks Rajnath Singh’s help for Pune airport expansion
+## Delhi Gymkhana files: Dead members dining, drone over VIP zone, crores in legal fees, auditor exit
 
 
-## B&B blaze toll rises to 23: Bangladeshi national who had come for husband’s kidney transplant dies
+## ‘Judgment indicates what we have always held’, says Newsclick founder after Delhi HC quashes money laundering charges
 
 
-## ‘Gross abuse of law’: Delhi High Court quashes police FIR, ED probe against NewsClick, its founder
+## Complainant in POCSO FIR against Avimukteshwaranand does a U-turn: ‘Was pressured into filing a fake case’
 
 
-## ‘Even his anger…’: Bobby Deol remembers father Dharmendra; expert on memories and grief
+## Cyber fraud linked to over 159 cases across country unearthed, nearly Rs 67.92 cr routed through mule account
 
 
-## Court frames culpable homicide not amounting to murder charge against 2 accused in BMW-hit-and- run case
+## Government approves price hike for 4 medicines, including 2 cancer drugs
 
 
-## Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar
+## 3 Indians missing after attack on ship, Delhi summons US diplomat
 
+
+## Global AI trade flashing signals reminiscent of the dotcom bust, analysts warn
+The global artificial intelligence trade is flashing signals reminiscent of past market tops, with winners outpacing the broader market by a wide margin and a slew of jumbo initial public offerings (IPOs) in the pipeline. The gap between richly valued stocks and cheaper ones had reached extremes see
 
 ## From Sick Care to Healthcare
 As Hong Kong recalibrates its role in a rapidly evolving regional healthcare landscape, Tony Cheng, Managing Director and General Manager of Merck Healthcare Hong Kong & Macau, is redefining what success looks like in pharma, and explaining why prevention, not profit alone, may be the real measure o
@@ -156,8 +153,11 @@ Hong Kong’s debt market is surging, with Tencent Holdings and Swire Pacific ra
 ## Chinese carmakers race Tesla on humanoid robots; BYD launches ‘God’s Eye’: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s EV giants challenge Tesla in race to commercialise humanoid robots Chinese ele
 
-## Hong Kong’s Longevity Paradox
-[The content of this article has been produced by our advertising partner.] Hong Kong has one of the world’s longest life expectancies, a distinction it has maintained for much of the past decade according to data from the city’s Centre for Health Protection. But longevity alone does not guarantee a
+## Somalia’s Fragile Government May Be on the Verge of Collapse
+After disputes culminated in fighting last week, the country’s political system is in doubt.
+
+## Trump Says More Strikes on Iran Are Coming
+Tehran will “pay the price” for stalling negotiations, the U.S. president warned.
 
 ## Diagnosing the Israeli-Palestinian Conflict Doesn’t Solve It
 Two new books offer fresh explanations for what went wrong—but little on how to make it go right.
@@ -176,12 +176,6 @@ Middle powers have alternatives, and AI labs have opinions.
 
 ## Progressives Should Show Real Solidarity With China
 Don’t let Chinamaxxing come at the expense of meaningful engagement with Chinese workers and activists.
-
-## Why Cambodia and Thailand’s Peace Is So Uneasy
-A step forward in the maritime dispute masks dangers on the land border.
-
-## U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
-But Iranian officials reportedly claim that the downing was not deliberate.
 
 ## A Death in Detention Puts Tajikistan’s Police on Trial
 Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
@@ -255,6 +249,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Canada introduces bill to ban social media for children under 16
+The bill also aims to make AI chatbots safer by establishing a digital regulator to set safety standards.
+
+## Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria
+Portugal beat Nigeria 2-1 as Pedro Neto and Francisco Conceicao net, but Cristiano Ronaldo scuffs golden chances.
+
+## ‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran
+US Central Command has described the attacks as a result of 'Iran’s unwarranted and continued aggression'.
+
+## Trump directs interim US intelligence chief Bill Pulte to downsize agency
+Interim ODNI chief Bill Pulte has been slammed by Democrats as a Donald Trump loyalist with no intelligence background.
+
 ## Israel kills 16 in Lebanon, UN to probe international law violations
 UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.
 
@@ -266,18 +272,6 @@ Gwyneth Paltrow sparked widespread outrage by becoming the face of an Israeli re
 
 ## First image in months emerges of Dr. Hussam Abu Safia
 The first image in months of Gaza doctor Hussam Abu Safia has been released.
-
-## ‘I love the inflation’ US President Trump dismisses price concerns
-Trump said he ‘loves’ inflation as new data showed US consumer prices rose at their fastest pace in three years.
-
-## India summons US envoy over attack on ship carrying Indian sailors off Oman
-Three Indian seafarers are missing after Oman rescues 21 others following a US attack on the Palau-flagged Settebello.
-
-## Israeli strike on a car kills two in Sidon, Lebanon
-An Israeli strike on a vehicle in the southern Lebanese city of Sidon killed two people and sparked a fire.
-
-## Trump: “we’re working… to make sure the right people come in”
-When asked about people’s ability to obtain visas to attend the World Cup, Trump said administration is working hard.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
