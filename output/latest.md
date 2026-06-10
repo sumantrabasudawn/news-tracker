@@ -1,34 +1,34 @@
 # AION Intelligence
 
+## ‘Pure racism’: East Belfast reels from riots led by masked young men
+Torched homes are a painful throwback to the Troubles that Northern Ireland is seeking to leave behind
+
+## EU to protect industries from future carbon costs if they invest in the bloc
+Brussels weighs scheme to provide free emission allowances beyond the existing 2039 schedule
+
+## Trump warns US will soon hit Iran ‘hard’ again
+President’s remarks come after countries exchange fire following downing of American helicopter
+
+## Oil tankers increase ‘dark’ transits through Strait of Hormuz
+Donald Trump says US launched ‘secret mission’ to help move crude through the waterway
+
+## Trump suggests he may not renew trade deal with Mexico and Canada
+‘We don’t need anything that they have,’ US president says of 2020 trilateral agreement
+
+## Historic Merseyside shipyard bought ahead of planned Royal Navy refresh
+Cammell Laird, once the engine room of warship building in the UK, positions for potential higher defence spending
+
 ## Social media platforms warned over role in fuelling Belfast riots
 Ofcom tells sites to take action over content that may incite violence as Northern Ireland braces for further unrest
 
 ## Palantir ban means frontline police will be lost in London, Met chief warns
 Comments from Mark Rowley come after Sadiq Khan blocked contract between force and US tech company
 
-## Burnham pledges to back pension campaigners claiming billions
-Labour leadership hopeful says he’ll ‘stick by the Waspi women’, whose demands could exceed £10bn
-
-## Trump’s pick to lead statistics agency disputes president’s faked data claims
-Brett Matsumoto tells US lawmakers that Bureau of Labor Statistics’ reports are driven by science rather than politics
-
-## Oil tankers increase ‘dark’ transits through Strait of Hormuz
-Risky trips under US air cover help to cushion crude prices below $100 a barrel
-
-## Trump warns US will soon hit Iran ‘hard’ again
-President’s remarks come after countries exchange fire following downing of American helicopter
-
-## Pay trends suggest US bosses are wealthier and more nervous
-More than 29% of S&P 500 companies provided home security perks for their top brass in 2025
-
-## Seven charged after Hong Kong fire that killed 168 people
-Authorities accuse individuals and two companies of offences, including manslaughter and tax evasion, after Wang Fuk blaze
-
 ## Mike Ashley’s Frasers offers to buy Hugo Boss in €2.7bn deal
 Retail billionaire could use bid to increase stake in German fashion group rather than taking full control
 
-## Historic Merseyside shipyard bought ahead of planned Royal Navy refresh
-Cammell Laird, once the engine room of warship building in the UK, positions for potential higher defence spending
+## US CEOs are getting richer and more nervous
+More than 29% of S&P 500 companies provided home security perks for their top brass in 2025
 
 ## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
 Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plans
@@ -38,9 +38,6 @@ A morning social media post from the president congratulates bank on a ranking i
 
 ## Here’s that ‘SpaceX’s IPO is overvalued by 114%’ research in full
 Notes on a panhandle
-
-## German start-up Neura raises $1.4bn in humanoid robot push
-Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
 
 ## Trump congratulates Modi on becoming India’s longest-serving Prime Minister
 In a post on Truth Social, Trump praised Modi as a “strong, healthy, and wise” leader and wished him continued success
@@ -90,6 +87,15 @@ US inflation hit a three-year high in May, soaring to 4.2% due to surging energy
 ## How to protect your wealth when rupee is falling
 Is the rupee’s fall eating into your investment returns? What should investors do to protect their portfolio in the current scenario? The first thing to understand is that fundamentally, a falling rupee does not have a direct impact on your investments.
 
+## India summons US diplomat over attack on tanker off Oman
+India condemned a US attack on the tanker Settebello, leaving three Indian crew missing, and summoned a US diplomat to protest the incident.
+
+## COVID-19 forced vulnerable Indian households into ‘impossible choices’: Study
+The new study by researchers from Lancaster University and the Indian Institute of Technology, Kanpur (IITK) was published in PLOS One
+
+## ‘A great one he is’: Trump congratulates Modi on historic milestone; PM responds
+Trump posted his congratulatory message on his Truth Social platform shortly before 11 pm on Wednesday night. PM Modi’s reply followed about 30 minutes later.
+
 ## Modi's 'Congress growth rate' jibe as PM marks 13th year in office: 'Nation’s destiny changed in 2014'
 PM Modi said that the country's growth picked up pace only when Atal Bihari Vajpayee-led NDA government came into power.
 
@@ -105,38 +111,32 @@ Sushmita Dev was the second MP in the Upper House to resign from the party, afte
 ## Amid TMC's internal crisis, Mahua Moitra calls party exodus a 'cleansing', says 'will never leave Mamata'
 Mahua also said the episode had served as a lesson for the party, suggesting that Mamata should have severed ties with some leaders much earlier.
 
-## 3 Indians missing after tanker attack off Oman coast, MEA says search underway: ‘Targeting must end’
-The vessel, Settebello, had 24 Indians onboard at the time of the incident. Three of them are now missing.
-
-## Union cabinet celebrates PM Modi as he completes record 4,399 days in office
-The Cabinet, which gave a standing ovation to the PM, also noted that the milestone comes as the NDA government completes 12 years in office under Modi’s leadership.
-
-## Air India rejects Rupani daughter's claims of pressure on AI-171 victims' families: ‘No deadline to accept compensation’
-In a statement, the airline said there was "absolutely no deadline or pressure on any family or individual to accept our offer within a set timeframe."
-
-## UzChess Cup 2026: Arjun Erigaisi and Vidit Gujrathi battle to hard fought draw
+## Vadodara: Horse falls into drain after concrete cover collapses, rescued after hour-long op
 
 
-## Genelia D’Souza opens up about menopause shaming: ‘I’m much cooler at 40’
+## Air India crash, a year later | ‘It still feels he’s abroad’: For family of last identified passenger victim, grief still waits at the door
 
 
-## Mrinaltai Gore flyover contractor penalised Rs 27 lakh earlier: BMC on construction quality criticism
+## Muralidhar Mohol seeks Rajnath Singh’s help for Pune airport expansion
 
 
-## Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash
+## B&B blaze toll rises to 23: Bangladeshi national who had come for husband’s kidney transplant dies
 
 
-## Trump issues fresh warning to attack Iran ‘hard today’ if peace deal fails
+## ‘Gross abuse of law’: Delhi High Court quashes police FIR, ED probe against NewsClick, its founder
 
 
-## New study flags concern over sale of illegal nicotine pouches, warns of addiction
+## ‘Even his anger…’: Bobby Deol remembers father Dharmendra; expert on memories and grief
 
 
-## How did Rohit Sharma fare in nets as he returns to Indian team for Afghan ODIs
+## Court frames culpable homicide not amounting to murder charge against 2 accused in BMW-hit-and- run case
 
 
-## How an Indian student got global visitors dancing to Bengali music at Amsterdam’s Van Gogh Museum
+## Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar
 
+
+## From Sick Care to Healthcare
+As Hong Kong recalibrates its role in a rapidly evolving regional healthcare landscape, Tony Cheng, Managing Director and General Manager of Merck Healthcare Hong Kong & Macau, is redefining what success looks like in pharma, and explaining why prevention, not profit alone, may be the real measure o
 
 ## Before Elon Musk’s SpaceX, these were the world’s 5 largest IPOs
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The coming initial public offering (IPO) from Elon Musk’s SpaceX, 
@@ -159,8 +159,8 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Hong Kong’s Longevity Paradox
 [The content of this article has been produced by our advertising partner.] Hong Kong has one of the world’s longest life expectancies, a distinction it has maintained for much of the past decade according to data from the city’s Centre for Health Protection. But longevity alone does not guarantee a
 
-## Chinese pharmaceutical firms’ cost advantages trump Pentagon blacklist: analysts
-The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of entities it alleges are linked to the country’s military, but the blacklisting will not stop multinational drug makers from collaborating with China’s biopharmaceutical firms, according to analysts. “We view minimal impact
+## Diagnosing the Israeli-Palestinian Conflict Doesn’t Solve It
+Two new books offer fresh explanations for what went wrong—but little on how to make it go right.
 
 ## Europe Plans to Crack Down on Russia—but for Real This Time
 Trump and the Iran war gave Russia a boost. Brussels is fed up.
@@ -182,9 +182,6 @@ A step forward in the maritime dispute masks dangers on the land border.
 
 ## U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
 But Iranian officials reportedly claim that the downing was not deliberate.
-
-## Xi Seeks to Draw North Korea Back Into China’s Orbit
-The Chinese leader’s long-awaited visit to Pyongyang aims to counter Russian influence.
 
 ## A Death in Detention Puts Tajikistan’s Police on Trial
 Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast
-Anti-immigrant violence swept through Belfast, with homes and vehicles torched following a knife attack.
+## Israel kills 16 in Lebanon, UN to probe international law violations
+UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.
 
-## Is Fortress Europe becoming more strict?
-The new EU's Pact on Migration and Asylum is the most sweeping overhaul of European asylum law in decades.
+## Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed
+Referee Omar Artan was denied from the US, where he was set to become the first Somali to officiate at a FIFA World Cup.
 
-## US inflation hits new three-year high amid energy price surge
-US markets stumbled as inflation data sparked fears of interest rate rises in the coming months.
+## Gwyneth Paltrow’s Israeli real estate ad goes viral
+Gwyneth Paltrow sparked widespread outrage by becoming the face of an Israeli real estate project.
 
-## LIVE: Portugal vs Nigeria – World Cup 2026 international friendly
-Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the World Cup warm-up.
+## First image in months emerges of Dr. Hussam Abu Safia
+The first image in months of Gaza doctor Hussam Abu Safia has been released.
 
-## Mass shooting with at least 10 attackers in Johannesburg
-A manhunt is underway for at least 10 suspects in a mass shooting that left 12 people dead near Johannesburg.
+## ‘I love the inflation’ US President Trump dismisses price concerns
+Trump said he ‘loves’ inflation as new data showed US consumer prices rose at their fastest pace in three years.
 
-## The Light Within | Ep 5 – El Salvador
-In a Salvadoran prison, young women from rival gangs learn to co-exist and prepare for life beyond penitentiary walls.
+## India summons US envoy over attack on ship carrying Indian sailors off Oman
+Three Indian seafarers are missing after Oman rescues 21 others following a US attack on the Palau-flagged Settebello.
 
-## Trump hardens tone against Iran, says ‘may keep going’ with strikes
-US president claims Iran is 'completely defeated' and renews threats to bomb the country's civilian infrastructure.
+## Israeli strike on a car kills two in Sidon, Lebanon
+An Israeli strike on a vehicle in the southern Lebanese city of Sidon killed two people and sparked a fire.
 
-## US diplomat found dead in Myanmar, Thai woman in custody
-US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.
+## Trump: “we’re working… to make sure the right people come in”
+When asked about people’s ability to obtain visas to attend the World Cup, Trump said administration is working hard.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
