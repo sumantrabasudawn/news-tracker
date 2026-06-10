@@ -3,68 +3,80 @@
 ## Social media platforms warned over role in fuelling Belfast riots
 Ofcom tells sites to take action over content that may incite violence as Northern Ireland braces for further unrest
 
+## Palantir ban means frontline police will be lost in London, Met chief warns
+Comments from Mark Rowley come after Sadiq Khan blocked contract between force and US tech company
+
+## Burnham pledges to back pension campaigners claiming billions
+Labour leadership hopeful says he’ll ‘stick by the Waspi women’, whose demands could exceed £10bn
+
+## Trump’s pick to lead statistics agency disputes president’s faked data claims
+Brett Matsumoto tells US lawmakers that Bureau of Labor Statistics’ reports are driven by science rather than politics
+
+## Oil tankers increase ‘dark’ transits through Strait of Hormuz
+Risky trips under US air cover help to cushion crude prices below $100 a barrel
+
+## Trump warns US will soon hit Iran ‘hard’ again
+President’s remarks come after countries exchange fire following downing of American helicopter
+
+## Pay trends suggest US bosses are wealthier and more nervous
+More than 29% of S&P 500 companies provided home security perks for their top brass in 2025
+
+## Seven charged after Hong Kong fire that killed 168 people
+Authorities accuse individuals and two companies of offences, including manslaughter and tax evasion, after Wang Fuk blaze
+
+## Mike Ashley’s Frasers offers to buy Hugo Boss in €2.7bn deal
+Retail billionaire could use bid to increase stake in German fashion group rather than taking full control
+
+## Historic Merseyside shipyard bought ahead of planned Royal Navy refresh
+Cammell Laird, once the engine room of warship building in the UK, positions for potential higher defence spending
+
+## Apollo and Blackstone raise $35bn in chip financing deal for Anthropic
+Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plans
+
+## Trump baffles Wall Street with top dealmaker praise for Citi
+A morning social media post from the president congratulates bank on a ranking it does not hold
+
+## Here’s that ‘SpaceX’s IPO is overvalued by 114%’ research in full
+Notes on a panhandle
+
 ## German start-up Neura raises $1.4bn in humanoid robot push
 Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
 
-## Apollo executive says private equity got ‘a little out of whack’
-There will be a ‘price to pay’ for industry after exuberance of 2017-22, warns Scott Kleinman
+## Trump congratulates Modi on becoming India’s longest-serving Prime Minister
+In a post on Truth Social, Trump praised Modi as a “strong, healthy, and wise” leader and wished him continued success
 
-## Is the UK enjoying a productivity rebound?
-One way to find out would be to test if faster growth and lower unemployment are possible without inflation
+## India considers Canada as potential crude oil supplier, envoy says
+High Commissioner Dinesh Patnaik noted that officials from both sides are holding regular discussions to expand energy sourcing opportunities
 
-## Higher US CPI inflation adds pressure for hawkish Fed pivot
-Rising prices alongside a robust labour market point to a change in Fed communication
+## Iran conflict pushes global container shipping prices to near double levels
+Industry experts say freight rates are increasingly reflecting energy risk, particularly disruptions linked to the Strait of Hormuz, a key global oil route
 
-## Companies would like you to know they are doing things on purpose
-The resistible rise of ‘with intention’
+## India summons US envoy over strike on vessel off Oman coast, 3 Indians missing
+According to official statements, the vessel Settebello was struck during operations linked to US enforcement actions against ships allegedly violating a blockade involving Iranian ports
 
-## Trump warns Iran will ‘pay the price’ for delay in striking peace deal
-US president’s remarks come after Washington and Tehran exchange fire following downing of American helicopter
+## US dismantles overseas birth tourism networks, revokes hundreds of visas
+The State Department said embassies across Europe, West Africa, and North Africa uncovered organised schemes involving visa fraud, coaching systems, and coordinated travel arrangements
 
-## US inflation jumped to 4.2% in May amid Middle East energy shock
-Figure marks new three-year high
+## US hits Iran-linked arms network with fresh global sanctions
+According to the U.S. Treasury’s Office of Foreign Assets Control, nine of those designated are based in China and Hong Kong and were involved in facilitating procurement and financial transactions, including activity tied to a clandestine banking network
 
-## WHSmith shares tumble 19% as retailer announces capital raise
-London-listed company warns of profit hit from Iran war as it announces roughly £100mn equity raise
+## Trump says Iran will ‘pay the price’ as tensions escalate in region
+Trump said Tehran had delayed negotiations and called it ‘all talk and no action’, while hinting at possible new US strikes on Iranian infrastructure, including power plants and bridges.
 
-## Changes to small UK company filing rules prompt backlash
-Previous business secretary vowed to drop the plans to avoid imposing regulation on entrepreneurs
+## RBI may ask banks to adopt risk-based internal audit approach
+The primary objective of RBIA is to provide the Board or its committees with reasonable assurance on the adequacy and effectiveness of the institution’s risk management and internal control framework.
 
-## Octopus Energy tells regulator it has reached capital buffer target
-Rivals had hit out at UK’s largest household supplier, arguing it was unfair it could keep taking on customers
+## AI windfall for the public? Trump signals shake-up for tech giants
+US President Trump is pushing for major AI firms to "give back" to the public, potentially through government stakes or benefit mechanisms. He plans to meet top tech executives soon to discuss this proposal, aiming to enrich citizens and boost AI's popularity. Discussions about a "Public Wealth Fund
 
-## What happened to the great rebirth of American manufacturing?
-Skills shortages, shifting tariffs and complex permitting processes are major barriers
+## Markets dumped India for AI stars. BlackRock says that’s a mistake
+BlackRock believes India's equity market is unfairly penalized for its limited direct AI exposure and oil price sensitivity. Despite record foreign outflows and a challenging macro environment, the asset manager remains constructive on India's medium- to long-term prospects, citing strong demographi
 
-## Climate reporting is still a thing for US companies
-Donald Trump may have dropped Biden-era rules but state law requires sustainability reporting
+## Secret routes & ghost tankers: Here's why crude hasn't hit $200 yet
 
-## How tin went from baked beans to AI gravy train
-Higher prices are prompting some miners to take up their shovels
 
-## RBI cancels registration certificates of 135 NBFCs
-These include companies such as Express Fincap House, Akshay Fiscal Services, Times Finance (P), Jupiter Projects (P), Jupiter Finvest, Essel Finance Business Loans, and Citiwide Financial Services
-
-## Telangana tenant farmers push for loan eligibility cards
-This will give them access to institutional credit and all government schemes
-
-## Govt denies import ban on Indian mangoes by Nepal
-Since January 2026, India has been sending over 2,000 tonnes of mangoes across the border, with 18 shipments just this June
-
-## New government wants a ‘clean slate’ for renewable project applications: TANGEDCO CMD
-Tamil Nadu does not face a shortage in electricity generation but the challenge lies in transporting and distributing that power efficiently
-
-## India’s defence manufacturing faces execution bottlenecks despite booming orders
-While exports and domestic production hit record highs, clearing current backlogs could take up to a decade in some segments
-
-## KKR bullish on India’s long-term investment prospects
-Increased access to credit, financial products and digital financial services has been accelerating consumption upgrades and expanding the addressable market for businesses in India, it added.
-
-## APEDA to park maximum fee in FDs from non-Basmati export development Fund
-This decision comes after they raked in Rs 9.66 crore from rice exporters between September 2025 and April 2026
-
-## Air India says it is following industry practices in accident compensation, denies pressurising families
-A final investigation report on what caused the Boeing 787 crash in Ahmedabad is still awaited
+## US stocks today: Wall Street mixed as tech stocks slide, Iran tensions weigh on sentiment
+Indian markets mirrored global trends with a mixed opening as tech stocks faced renewed selling pressure. Investors are also wary of escalating Middle East tensions and the possibility of prolonged high interest rates. Inflation data, while meeting expectations, added to concerns, while oil prices c
 
 ## Markets shake, money slows: Equity mutual funds see sharp dip in inflows
 Investor caution gripped the Indian mutual fund market in May, with equity fund inflows plummeting to a one-year low. Geopolitical tensions and rising oil prices dampened sentiment, leading to a significant drop in net inflows. While SIPs offered stability, the broader industry saw substantial outfl
@@ -78,17 +90,23 @@ US inflation hit a three-year high in May, soaring to 4.2% due to surging energy
 ## How to protect your wealth when rupee is falling
 Is the rupee’s fall eating into your investment returns? What should investors do to protect their portfolio in the current scenario? The first thing to understand is that fundamentally, a falling rupee does not have a direct impact on your investments.
 
-## Ahmedabad Metro expansion: Cabinet approves Rs 2,169-crore airport corridor
-The Union Cabinet has greenlit Phase 2A of the Ahmedabad Metro Rail Project, a 6.032-km corridor costing Rs 2,169.04 crore. This new line will connect Koteshwar Road to Ahmedabad Airport, featuring five stations and expanding the metro network to 77.63 km. The project aims to boost connectivity, sup
+## Modi's 'Congress growth rate' jibe as PM marks 13th year in office: 'Nation’s destiny changed in 2014'
+PM Modi said that the country's growth picked up pace only when Atal Bihari Vajpayee-led NDA government came into power.
 
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Equity markets saw gains evaporate on Wednesday, with the Sensex inching up and the Nifty closing lower. Renewed US-Iran tensions rattled investor sentiment, leading to a sell-off in late trade. Geopolitical concerns overshadowed positive domestic factors, while global markets also faced pressure. B
+## MEA summons US Charge d’Affaires Jason Meeks over attack on tanker off Oman coast, lodges strong protest
+Meeks was called in as Ambassador Sergio Gor was away from Delhi.
 
-## Chinese investors blocked from SpaceX IPO: How they are finding alternative routes to gain exposure
-Chinese investors are seeking indirect exposure to SpaceX's IPO due to direct participation being blocked. They are exploring offshore accounts, proxy stocks, and domestic A-share investments linked to the commercial space sector. This surge in interest is driving speculative buying in Chinese space
+## TMC in crisis, Abhishek Banerjee meets Rahul Gandhi to repair ties with Congress
+Abhishek’s meeting with Rahul comes a day after TMC chief Mamata Banerjee met PCC chairperson Sonia Gandhi at her residence for 50 minutes
 
-## ITR filing FY 2025-26: What documents are required to file your income tax return? Quick checklist
-ITR filing FY 2025-26: Think of your documentation as evidence; the income tax department already has digital footprints of your transactions, and your job is to match them accurately.
+## ‘Not circus animals’: Bengal LoP signals more resignations in TMC after Sushmita Dev
+Sushmita Dev was the second MP in the Upper House to resign from the party, after veteran leader Sukhendu Sekhar Ray.
+
+## Amid TMC's internal crisis, Mahua Moitra calls party exodus a 'cleansing', says 'will never leave Mamata'
+Mahua also said the episode had served as a lesson for the party, suggesting that Mamata should have severed ties with some leaders much earlier.
+
+## 3 Indians missing after tanker attack off Oman coast, MEA says search underway: ‘Targeting must end’
+The vessel, Settebello, had 24 Indians onboard at the time of the incident. Three of them are now missing.
 
 ## Union cabinet celebrates PM Modi as he completes record 4,399 days in office
 The Cabinet, which gave a standing ovation to the PM, also noted that the milestone comes as the NDA government completes 12 years in office under Modi’s leadership.
@@ -96,46 +114,28 @@ The Cabinet, which gave a standing ovation to the PM, also noted that the milest
 ## Air India rejects Rupani daughter's claims of pressure on AI-171 victims' families: ‘No deadline to accept compensation’
 In a statement, the airline said there was "absolutely no deadline or pressure on any family or individual to accept our offer within a set timeframe."
 
-## New FIR against Abhishek Banerjee for 2018 attack on local Bengal BJP leader
-The complainant Abhijit Das alias Bobby, was fielded by the BJP against Banerjee from Diamond Harbour in the 2014 and 2024 Lok Sabha elections
-
-## Wildlife experts flag threats to Asiatic lions in Gir
-The signatories alleged that mining, resort-related development and the re-entry of Maldhari families into protected areas could adversely affect lion corridors
-
-## Air India: No pressure on AI-171 families for final settlement
-The Air India statement came after Radhika Mishra, daughter of former Gujarat chief minister Vijaybhai Rupani, raised concerns over the settlement terms
-
-## 'Baseless': TMC reacts to Congress merger reports, says doors open for alliance
-Sources say that both parties have kept the door open for a possible alliance and remain in touch on issues of mutual political interest
-
-## We seek peaceful resolution to the ‘Sino-Tibet’ conflict: Sikyong Penpa Tsering
-Central Tibetan Administration chief Penpa Tsering, who was sworn in on May 27 after being re-elected as Sikyong, in an exclusive interview with HT
-
-## Heat, instability, 128kmph winds: Science behind string of dust storms hitting Delhi-NCR
-A pre-monsoon storm speeds up to 128 km/hr. Trees were uprooted, roads were blocked, and most of this destruction arrived with almost no rain.
-
-## Rights panel sends notice to Goa government, SP after ‘littering’ video row
+## UzChess Cup 2026: Arjun Erigaisi and Vidit Gujrathi battle to hard fought draw
 
 
-## After Gehlot’s broadside, Pilot counters with Rahul Gandhi’s ‘mohabbat ki dukaan’
+## Genelia D’Souza opens up about menopause shaming: ‘I’m much cooler at 40’
 
 
-## 3 Indians missing after another ship attacked off Oman coast
+## Mrinaltai Gore flyover contractor penalised Rs 27 lakh earlier: BMC on construction quality criticism
 
 
-## ‘I promise you, I will attend next one’: Somali referee after return to country
+## Indian-origin billionaire offers Rs 2 crore package after 7 killed in Dubai crash
 
 
-## Meet Vibhav Altekar: The Indian-American tech mind behind US Navy’s lifesaving drone
+## Trump issues fresh warning to attack Iran ‘hard today’ if peace deal fails
 
 
-## Pawan Kalyan praises Aditya Dhar’s film, recalls time in Kashmir: ‘Saw those tremors’
+## New study flags concern over sale of illegal nicotine pouches, warns of addiction
 
 
-## Pranit More’s Bigg Boss friend Malti Chahar slams Rs 370 biryani remark: ‘Disheartening’
+## How did Rohit Sharma fare in nets as he returns to Indian team for Afghan ODIs
 
 
-## ‘Hrithik Roshan spent the night at a temple, prayed for me,’ recalls sister Sunaina
+## How an Indian student got global visitors dancing to Bengali music at Amsterdam’s Van Gogh Museum
 
 
 ## Before Elon Musk’s SpaceX, these were the world’s 5 largest IPOs
@@ -162,6 +162,15 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Chinese pharmaceutical firms’ cost advantages trump Pentagon blacklist: analysts
 The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of entities it alleges are linked to the country’s military, but the blacklisting will not stop multinational drug makers from collaborating with China’s biopharmaceutical firms, according to analysts. “We view minimal impact
 
+## Europe Plans to Crack Down on Russia—but for Real This Time
+Trump and the Iran war gave Russia a boost. Brussels is fed up.
+
+## The Geopolitics of the World Cup
+How immigration, trade, and conflict are overshadowing soccer.
+
+## What Comes After Global Order
+Rather than a new international framework, we need a system for moving from one framework to the next.
+
 ## Exporting U.S. Military AI Won’t Be Easy
 Middle powers have alternatives, and AI labs have opinions.
 
@@ -176,15 +185,6 @@ But Iranian officials reportedly claim that the downing was not deliberate.
 
 ## Xi Seeks to Draw North Korea Back Into China’s Orbit
 The Chinese leader’s long-awaited visit to Pyongyang aims to counter Russian influence.
-
-## Why a South Korean Starbucks Ad Mocked Murdered Protesters
-Far-right meme politics shows how strong anti-democratic forces remain.
-
-## NATO’s Digital Back End Could Fall Apart Without Change
-Shared standards on cloud services are urgently needed.
-
-## Lebanon Is No Longer About Lebanon
-Iran would rather fight than let Israel decide Lebanon’s fate.
 
 ## A Death in Detention Puts Tajikistan’s Police on Trial
 Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What are Lebanon’s most important political parties?
-Lebanon's many powerful parties reflect the country's social, sectarian, and political divides.
+## UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast
+Anti-immigrant violence swept through Belfast, with homes and vehicles torched following a knife attack.
 
-## Eight red cards shown to Brazil in fiery friendly against US women
-Four Brazilian players and four members of their coaching staff were sent off during a dramatic encounter in Fortaleza.
+## Is Fortress Europe becoming more strict?
+The new EU's Pact on Migration and Asylum is the most sweeping overhaul of European asylum law in decades.
 
-## US bombs Iran’s water facilities: Why that’s so significant
-The US struck several sites in Iran, saying it retaliated against the downing of a US helicopter in the Strait of Hormuz
+## US inflation hits new three-year high amid energy price surge
+US markets stumbled as inflation data sparked fears of interest rate rises in the coming months.
 
-## Mexico vs South Africa: World Cup group match – teams, start and lineups
-As the tournament kicks off, cohosts Mexico face South Africa in a replay of the 2010 edition's opening game.
+## LIVE: Portugal vs Nigeria – World Cup 2026 international friendly
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the World Cup warm-up.
 
-## West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty
-Israel uses war crimes to accelerate 'annexation agenda and settlement expansion' in occupied land, rights group says.
+## Mass shooting with at least 10 attackers in Johannesburg
+A manhunt is underway for at least 10 suspects in a mass shooting that left 12 people dead near Johannesburg.
 
-## 7-month-old baby shot by Israeli soldier in Hebron
-An Israeli soldier fired at a Palestinian family’s car in Hebron, fatally shooting a seven‑month‑old in the head.
+## The Light Within | Ep 5 – El Salvador
+In a Salvadoran prison, young women from rival gangs learn to co-exist and prepare for life beyond penitentiary walls.
 
-## Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia
-Video shows a Ukrainian-made ‘FP-5 Flamingo’ cruise missile flying deep inside Russia.
+## Trump hardens tone against Iran, says ‘may keep going’ with strikes
+US president claims Iran is 'completely defeated' and renews threats to bomb the country's civilian infrastructure.
 
-## Pakistan military helicopter crashes in Kashmir, all on board killed
-There has been a heavy security presence in Muzaffarabad amid protests in Pakistan-administered Kashmir in recent days.
+## US diplomat found dead in Myanmar, Thai woman in custody
+US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
