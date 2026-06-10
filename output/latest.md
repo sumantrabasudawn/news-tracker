@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Northern Ireland battles to contain disorder after Belfast knife attack
-First minister deplores ‘outright thuggery’ as protesters set fire to homes, cars and public transport
+## Don’t exclude Yemen from the Gulf’s new economic map
+It may be unstable, but the country is central to the region’s future — and leaving it out will spark more violence
 
-## US and Iran exchange strikes after downing of American helicopter
-Tehran says it targeted US military facilities in Jordan and Bahrain following latest barrage
+## Trump warns Iran will ‘pay the price’ for delay in striking peace deal
+US president’s remarks come after Washington and Tehran exchanged fire following downing of an American helicopter
 
-## Gold and bitcoin: the assets the rally forgot
-Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
+## Every slice of China’s bond market has now succumbed to Japanisation
+A scoop of belatedly spotting something and trying to make a thing of it
 
-## Why steel tariffs are rumbling the EU’s outreach to South Korea
-Also in this newsletter: Brussels looks likely to cheer Italian bank merger
+## Do art museums need ‘botanical curators’?
+Rahel Kesselring, recently appointed at Switzerland’s Fondation Beyeler, is focused on how art can help us improve our sensitivity to the environment
 
-## Introducing: The Story of Money
-A new video podcast from The FT exploring the history of finance
+## Why reviving US manufacturing is so hard
+Skills shortages, shifting tariffs and complex permitting processes are major barriers
+
+## Climate reporting is still a thing for US companies
+Donald Trump may have dropped Biden-era rules but state law requires sustainability reporting
+
+## Germany seeks to lead fighter jet project after ditching France
+Berlin vows to look for other partners in return for role corresponding to its ‘financial contribution’
+
+## BoJ governor Ueda hospitalised
+74-year-old set to miss next week’s meeting at which central bank is expected to raise interest rates to 1%
 
 ## FirstFT: US and Iran trade fire after downing of American helicopter
-Also in today’s newsletter: alternative to Patriots and US equity supplies
+Also in today’s newsletter: IPO boom threatens US equity supplies and newcomer wins Maine primary
 
-## Cycling Washington DC’s 18-mile Mount Vernon Trail
-Riding south along the Potomac to George Washington’s estate, through marshes and historic sites, the FT’s Claire Jones finds a quieter America
+## Barry Diller says MGM’s physical assets are more valuable in AI age
+Chair of People Inc views $18bn takeover bid for casino group as hedge against magazine business
 
-## China factory gate prices rise at fastest rate in 4 years
-Energy costs climb as Iran war cuts off supply through Strait of Hormuz
+## Workspace to raise rents as it seeks to fend off Boaz Weinstein
+Plan to boost profits comes as flexible office landlord reported a £120mn loss on falling property values and rents
 
-## WHSmith shares tumble 17% as retailer announces capital raise
-London-listed company warns of hit to profits from the Middle East conflict
+## Anthropic leans into AI’s nascent slice-and-dice era
+Clever financial engineering is allowing conservative, risk-averse investors to participate enthusiastically
+
+## WHSmith shares tumble 19% as retailer announces capital raise
+London-listed company warns of profit hit from Iran war as it announces roughly £100mn equity raise
+
+## Ares raises $8.5bn for newest fund in spite of private markets woes
+Commitments underscore demand for debt backed by data centres, railcars, music royalties and car leases
 
 ## BYD to spend €2bn to build out 5-minute flash chargers in Europe
 Chinese EV maker banks on ultrarapid battery technology to take market share from legacy rivals
 
-## Apollo and Blackstone’s Large Lending Model
-The private capital groups have finalised a complex $35bn deal that will help finance Anthropic’s growth plans
+## Copper futures turn weak
+Traders can initiate near-term short positions
 
-## Mercedes set to partner with drone defence start-up Tytan
-German carmaker to provide vehicles for interception of threats that pose a growing concern for Europe
+## Urban Vault sub-leases 16,000 sq ft Gurugram office space to Green SM
+The workspace, located on Golf Course Road in Sector 54, includes around 500 seats and marks Green SM’s first office in India
 
-## Ukraine builds cheap alternative to Patriot missiles
-Arms maker Fire Point says it has successfully tested surface-to-air projectiles
+## Textile PLI Scheme: Govt approves 96 cos in Round-III; ₹12,822 cr investment committed
+Textile ministry says 22 new applicants cleared in latest meet under Round-3 of Production Linked Incentive (PLI) Scheme for Textiles
 
-## Google’s backstops underpin $35 billion chip deal for Anthropic
-Google, whose AI entries include Gemini, agreed to backstop lease payments at each location, helping Anthropic obtain what amounts to a $35 billion loan
+## DDA auctions 142 properties, raises ₹1,321 crore revenue
+The mega e-auction attracted participation from investors, institutions and businesses, with the final bid value reaching nearly three times the cumulative reserve price.
 
-## Sagar Cements commissions additional capacity plant in Madhya Pradesh
-Sagar Cements boosts production with a new 0.5 MTPA capacity plant in Madhya Pradesh, increasing total grinding capacity to 1.5 MTPA
+## Bharti Airtel deploys over 2,900 new 5G sites across northern India
+The expansion covers 77 districts and provides high-speed services to over 28.6 million customers, including those in urban centres, towns and rural areas
 
-## Sensex today | Stock Market Live Updates: Sensex up 650 pts, Nifty 50 breaches 23,400-mark amid volatility in Asian markets
-Sensex, Nifty, Share Prices LIVE: Market breadth remains negative despite the headline indices trading in the green. Of the 3,229 stocks traded on the NSE, 1,361 advanced, while 1,768 declined and 100 remain unchanged
+## Equity MFs see 63rd straight month of inflows as SIPs cross ₹30,000 crore
+The industry’s total assets under management stood at Rs 81.58 lakh crore, with retail participation rising through higher folio additions
 
-## Meta, CleanMax partner for 900 MW renewable energy capacity in India
-Under the partnership, CleanMax will develop and operate 837 MW of new renewable energy capacity across Rajasthan and Karnataka, comprising large-scale solar and wind projects
+## West Bengal Cabinet: Swapan Dasgupta gets Finance, Tapas Roy holds Industry & Commerce
+After the induction of the 35 MLAs into the Council of Ministers, the State cabinet strength now stands at 41
 
-## Sensex sustains over 74,400 level: HUL, ICICI Bank, Axis Bank lead gains as markets defy weak global cues
-Market breadth remained negative despite the headline indices trading in the green. Of the 3,229 stocks traded on the NSE, 1,361 advanced, while 1,768 declined and 100 remained unchanged.
+## Afcons Infra shares rally after ₹5,301-cr Vadhvan Port project win
+The stock hit an intraday high of ₹346.50, compared with the previous close of ₹315.50
 
-## SEBI proposes new pay disclosure norms for mutual fund firms
-Asset management companies may report executive remuneration on a consolidated basis instead of naming individuals.
-
-## 'Tax evasion' case: Anil Ambani gets interim protection from coercive action under Black Money Act
-Bombay High Court admits industrialist Anil Ambani’s petition challenging the constitutional validity of provisions of the Black Money Act
-
-## Indian-American co-founder’s drone boat powers historic US rescue mission in Hormuz
-The rescue operation by the drone boat Corsair, developed by Saronic Technologies, was the first of its kind mission to be carried out by the US Armed Forces
+## Chinese investors blocked from SpaceX IPO: How they are finding alternative routes to gain exposure
+Chinese investors are seeking indirect exposure to SpaceX's IPO due to direct participation being blocked. They are exploring offshore accounts, proxy stocks, and domestic A-share investments linked to the commercial space sector. This surge in interest is driving speculative buying in Chinese space
 
 ## ITR filing FY 2025-26: What documents are required to file your income tax return? Quick checklist
 ITR filing FY 2025-26: Think of your documentation as evidence; the income tax department already has digital footprints of your transactions, and your job is to match them accurately.
@@ -75,7 +84,7 @@ Gold price prediction today: The outlook for gold and silver prices remains caut
 ## Reliance and Meta to develop AI-enabled data centre in Jamnagar
 Reliance Industries and Meta Platforms are joining forces to build a massive 168 MW AI-powered data centre in Jamnagar, Gujarat. This significant collaboration marks India's first built-to-suit facility for Meta, aiming to bolster global AI infrastructure. Reliance will manage the entire project, en
 
-## Stock Market Live Updates Today: BSE Sensex opens almost 300 points up, Nifty50 above 23,300 despite crude oil price rise on fresh US-Iran tensions
+## Stock Market Highlights Today: BSE Sensex ends flat, Nifty50 above 23,200; crude oil prices steady
 
 
 ## Top stocks to buy today: Stock recommendations for June 10, 2026 - check list
@@ -84,56 +93,59 @@ Stock market recommendations: Bank of India, Hindustan Zinc, and Union Bank of I
 ## Gold, Silver Rate Today Live Updates: Gold, silver prices drop over 1% as fresh US-Iran tensions send crude oil prices up
 
 
-## OpenAI joins AI giants, files for US public listing
+## CJP to launch nationwide protest demanding education minister's resignation from Thursday
+CJP to launch nationwide protest demanding education minister's resignation from Thursday
+
+## ‘I have respect for Suvendu, rebels should have quit like him’: Mahua Moitra
+Lok Sabha MP Mahua Moitra insists that the exit of some TMC leaders was a good purification, and all rumours of the party dying are just BJP’s wishful thinking
+
+## Meghalaya suspends state-funded foreign trips of ministers, officials for six months
+Meghalaya suspends state-funded foreign trips of ministers, officials for six months
+
+## Telangana woman shot dead by husband after domestic dispute; accused on the run
+A hunt is on for the husband of the woman, accused of shooting her dead after a domestic dispute in Medchal-Malkajgiri district.
+
+## Anti-drug crackdown uncovers alarming involvement of Ladakh youths in peddling
+Anti-drug crackdown uncovers alarming involvement of Ladakh youths in peddling
+
+## SC directs Kerala govt to take custody of state's tallest elephant Raman
+SC directs Kerala govt to take custody of state's tallest elephant Raman
+
+## Deve Gowda says bond with PM not tied to Rajya Sabha seat: ‘No leader matches Modi’
+The BJP's decision to field Prof M Nagaraja for the Rajya Sabha instead of renominating former prime minister Deve Gowda prompted the JD(S) patriarch's remarks.
+
+## More rain, thunderstorm expected in Kerala as IMD issues alert | Check forecast
+Thunderstorms, moderate rainfall and strong winds expected as the southwest monsoon continues to advance
+
+## Trump’s stark warning to Tehran — ‘now they will pay the price’
 
 
-## ‘Action illegal, no case against Meenakshi Natarajan’: Congress after EC meeting on RS candidature
-Abhishek Manu Singhvi said the Rajya Sabha nomination was rejected by the EC citing a criminal case pending against Natarajan, but that is not the case.
-
-## COP31 hosts set 35% global electrification target
-The “35x35” target is backed by analysis from the IEA and the IRENA, and is designed to support the Paris Agreement and keep global warming within 1.5°C above pre-industrial levels
-
-## 'Been a pleasure': Italy's Giorgia Meloni congratulates Modi on becoming India's longest-serving elected PM
-PM Modi became the country’s longest continuously serving elected premier, marking 12 years in office and surpassing previous records for continuous tenure.
-
-## ₹5.38 crore-worth hydroponic weed, concealed in geysers, seized at Delhi airport
-According to Delhi Customs' statement, the two passengers from Kuala Lumpur were intercepted after they crossed the Green Channel at the airport.
-
-## 'Men, call this out': The Pranit More show, Gurugram man's ‘ ₹370 vasool’ monologue, the outrage explained
-Popular stand-up comedian Pranit More is under fire for allowing and enjoying, along with the audience, a Gurugram man's obscene monologue at his recent show.
-
-## TMC crisis deepens after Sushmita Dev resigns as Rajya Sabha MP, days after Sukhendu Sekhar Ray
-Twin resignations deepen the crisis in the TMC, which played a key role in defeating the Constitution amendment bill to implement early Delimitation.
-
-## SC quashes POCSO case against man using extraordinary power
-SC quashes POCSO case against man using extraordinary power
-
-## Union Cabinet passes resolution honouring PM Modi's record run in office
-PM Modi completed 4,399 consecutive days in office on Wednesday, overtaking Nehru's elected tenure of 4,398 days.
-
-## Know Your City: Inside Bengaluru’s world of vintage watches and time-worn clocks
+## From phuchkas to a bulldozer: The dismantling of Kolkata’s hawker culture
 
 
-## Stranded 25 km from exam centre by Ola driver, woman writes civil judge test in stress, wins Rs 55,000 payout
+## ‘Denied sick leave’, South African woman, 29, dies after collapsing in office washroom
 
 
-## ‘World Cup of chaos’: Ian Wright blasts USA entry denials after Somali referee sent back
+## Heatwave to end; rain and thunderstorms likely in Chandigarh, Punjab and Haryana from tomorrow
 
 
-## Ahmedabad plane crash: No pressure on families to accept final payout, says Air India
+## ‘Completely egregious, blatant’: Congress approaches EC over Meenakshi Natarajan’s nomination rejection
 
 
-## Mocked online, tested in ministry: As Hyundai bets on Tamil Nadu, Keerthana has last laugh
+## Belfast unrest: How masked mobs burned homes after knife attack
 
 
-## Bharathiraja rewrote the rules of Tamil cinema with dirt roads, real faces, and no sets
+## CPI(M) post-mortem of Kerala loss: Muslim backlash, Sabarimala gold theft, Yogi message at Ayappa event
 
 
-## NTA dismisses fake notice claiming exam pattern revised for NEET re-test 2026
+## Bail is rule: Delhi court relief to Kashmiri activist Khurram Parvez in UAPA case
 
 
-## Supreme Court grants bail to man whose murder conviction was upheld by High Court after 4 decades
+## Asia-Pacific home to more than a third of world’s top finance centres: Colliers
+Asia-Pacific cities account for 39 per cent of the top global financial services companies and about 36 per cent of the world’s leading financial centres, Colliers said. Supported by strong labour markets and venture capital activity, cities such as Singapore, Beijing, Shanghai and Hong Kong ranked 
 
+## UniIC, a smaller rival to CXMT, pushes for mainland China IPO amid memory supercycle
+Xi’an UniIC, a dynamic random-access memory (DRAM) manufacturer backed by China’s technology conglomerate Tsinghua UniGroup, is accelerating its push for a public listing in Beijing, joining its larger rival ChangXin Memory Technologies (CXMT) in seeking to ride the current memory supercycle. UniIC 
 
 ## Mainland China set to raise US$2.2b in Hong Kong bond sale amid demand for yuan assets
 The Ministry of Finance announced on Wednesday that it plans to issue 15 billion yuan (US$2.2 billion) worth of sovereign bonds in Hong Kong next week, marking its third issuance this year and strengthening the city’s role as the world’s largest offshore yuan trading hub. Analysts expected the issua
@@ -152,12 +164,6 @@ The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of en
 
 ## US fintech firm iCapital doubles prime office space in Hong Kong amid wealth boom
 Fintech company iCapital has more than doubled its office footprint in Hong Kong, leasing a 9,000 sq ft space in One International Finance Centre in the city’s Central business district as it staffs up to capture rising demand for wealth-management services in Asia. The US company, which opened its 
-
-## Beijing regulators expect Hong Kong to press advantage as offshore yuan hub
-China’s market regulators will continue to support Hong Kong in consolidating its status as an international financial centre, and they expect the city to play to its advantages as an offshore yuan hub, according to the chairman of the Hong Kong Association of Banks (HKAB). To boost global adoption 
-
-## Singapore group buys distressed tower as Hong Kong’s student housing demand accelerates
-Singapore-listed developer Wee Hur Holdings is expanding its Hong Kong student accommodation platform with the acquisition of One Bedford Place, a lender-controlled office tower that it plans to convert into a 500-bed student housing project. The company said in a filing to the Singapore Exchange on
 
 ## Why Cambodia and Thailand’s Peace Is So Uneasy
 A step forward in the maritime dispute masks dangers on the land border.
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Explosion in Bahrain as Iran attacks US bases
-CCTV footage shows an explosion in Bahrain’s capital Manama after what authorities say was an Iranian missile strike.
+## Why has Belfast erupted in anti-immigrant violence after a knife attack?
+Ministers have blamed far-right online agitators for stoking racial tension following a stabbing.
 
-## Messi comes off the bench to score in Argentina’s final World Cup warm-up
-Argentina ease past Iceland in their final friendly before the World Cup, winning 3-0 in Auburn, Alabama.
+## Who pays for a supersized World Cup?
+The biggest World Cup ever, with 48 teams and 104 matches, is expected to bring a record $13bn for FIFA.
 
-## Ukrainian drones strike Sevastopol museum and key Russian oil refineries
-The multiday campaign has killed a rail worker, closed the bombed Chongar road bridge and caused a fuel crisis
+## Graham Platner wins Maine primary election: Results and key takeaways
+Platner wins in Maine, Republican Nancy Mace loses in S Carolina. Results for Nevada and North Carolina also announced.
 
-## Iran war day 103: US strikes after helicopter shot down, Tehran hits back
-Analysts warn of further escalation after tit-for-tat attacks between Tehran and Washington.
+## A four-year-old’s recovery from the trauma of war in Lebanon
+Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.
 
-## Indonesia jails four military officers for acid attack on rights activist
-Prosecutors argued in court that the soldiers were motivated by anger over Yunus’s activism.
+## Why is the FIFA World Cup 2026 being held in three countries?
+The 2026 World Cup is the first to be held in three different host nations - but why? Al Jazeera explains.
 
-## Prediction platform Kalshi to collect job details to combat insider trading
-Prediction platform says it will seek employment information for markets at 'heightened' risk of manipulation.
+## Iran fires missiles at US bases carrying images of killed commanders
+Iranian state media released video showing the launch of missiles towards US bases in the Middle East.
 
-## Platner wins Maine Democratic Senate primary, vows to oust Collins
-Platner wins Maine Senate primary despite controversies, setting up a key race against Republican Susan Collins.
+## India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions
+Hundreds 'pushed' to border and many others put in detention centres as part of a crackdown on undocumented migrants.
 
-## Trita Parsi: Iran is pursuing a doctrine of swift retaliation
-Iran has abandoned strategic patience for a new doctrine: swift, severe retaliation against any US attack.
+## Argentina World Cup 2026 preview: Players to watch, group matches and squad
+Messi is hoping to overcome injury to help Argentina become the first back-to-back World Cup champions since 1962.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
