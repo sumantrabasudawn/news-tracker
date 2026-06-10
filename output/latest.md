@@ -1,73 +1,88 @@
 # AION Intelligence
 
-## Don’t exclude Yemen from the Gulf’s new economic map
-It may be unstable, but the country is central to the region’s future — and leaving it out will spark more violence
+## Social media platforms warned over role in fuelling Belfast riots
+Ofcom tells sites to take action over content that may incite violence as Northern Ireland braces for further unrest
+
+## German start-up Neura raises $1.4bn in humanoid robot push
+Crypto group Tether, Amazon and Nvidia invest in fundraising deal that values company at about $7bn
+
+## Apollo executive says private equity got ‘a little out of whack’
+There will be a ‘price to pay’ for industry after exuberance of 2017-22, warns Scott Kleinman
+
+## Is the UK enjoying a productivity rebound?
+One way to find out would be to test if faster growth and lower unemployment are possible without inflation
+
+## Higher US CPI inflation adds pressure for hawkish Fed pivot
+Rising prices alongside a robust labour market point to a change in Fed communication
+
+## Companies would like you to know they are doing things on purpose
+The resistible rise of ‘with intention’
 
 ## Trump warns Iran will ‘pay the price’ for delay in striking peace deal
-US president’s remarks come after Washington and Tehran exchanged fire following downing of an American helicopter
+US president’s remarks come after Washington and Tehran exchange fire following downing of American helicopter
 
-## Every slice of China’s bond market has now succumbed to Japanisation
-A scoop of belatedly spotting something and trying to make a thing of it
+## US inflation jumped to 4.2% in May amid Middle East energy shock
+Figure marks new three-year high
 
-## Do art museums need ‘botanical curators’?
-Rahel Kesselring, recently appointed at Switzerland’s Fondation Beyeler, is focused on how art can help us improve our sensitivity to the environment
+## WHSmith shares tumble 19% as retailer announces capital raise
+London-listed company warns of profit hit from Iran war as it announces roughly £100mn equity raise
 
-## Why reviving US manufacturing is so hard
+## Changes to small UK company filing rules prompt backlash
+Previous business secretary vowed to drop the plans to avoid imposing regulation on entrepreneurs
+
+## Octopus Energy tells regulator it has reached capital buffer target
+Rivals had hit out at UK’s largest household supplier, arguing it was unfair it could keep taking on customers
+
+## What happened to the great rebirth of American manufacturing?
 Skills shortages, shifting tariffs and complex permitting processes are major barriers
 
 ## Climate reporting is still a thing for US companies
 Donald Trump may have dropped Biden-era rules but state law requires sustainability reporting
 
-## Germany seeks to lead fighter jet project after ditching France
-Berlin vows to look for other partners in return for role corresponding to its ‘financial contribution’
+## How tin went from baked beans to AI gravy train
+Higher prices are prompting some miners to take up their shovels
 
-## BoJ governor Ueda hospitalised
-74-year-old set to miss next week’s meeting at which central bank is expected to raise interest rates to 1%
+## RBI cancels registration certificates of 135 NBFCs
+These include companies such as Express Fincap House, Akshay Fiscal Services, Times Finance (P), Jupiter Projects (P), Jupiter Finvest, Essel Finance Business Loans, and Citiwide Financial Services
 
-## FirstFT: US and Iran trade fire after downing of American helicopter
-Also in today’s newsletter: IPO boom threatens US equity supplies and newcomer wins Maine primary
+## Telangana tenant farmers push for loan eligibility cards
+This will give them access to institutional credit and all government schemes
 
-## Barry Diller says MGM’s physical assets are more valuable in AI age
-Chair of People Inc views $18bn takeover bid for casino group as hedge against magazine business
+## Govt denies import ban on Indian mangoes by Nepal
+Since January 2026, India has been sending over 2,000 tonnes of mangoes across the border, with 18 shipments just this June
 
-## Workspace to raise rents as it seeks to fend off Boaz Weinstein
-Plan to boost profits comes as flexible office landlord reported a £120mn loss on falling property values and rents
+## New government wants a ‘clean slate’ for renewable project applications: TANGEDCO CMD
+Tamil Nadu does not face a shortage in electricity generation but the challenge lies in transporting and distributing that power efficiently
 
-## Anthropic leans into AI’s nascent slice-and-dice era
-Clever financial engineering is allowing conservative, risk-averse investors to participate enthusiastically
+## India’s defence manufacturing faces execution bottlenecks despite booming orders
+While exports and domestic production hit record highs, clearing current backlogs could take up to a decade in some segments
 
-## WHSmith shares tumble 19% as retailer announces capital raise
-London-listed company warns of profit hit from Iran war as it announces roughly £100mn equity raise
+## KKR bullish on India’s long-term investment prospects
+Increased access to credit, financial products and digital financial services has been accelerating consumption upgrades and expanding the addressable market for businesses in India, it added.
 
-## Ares raises $8.5bn for newest fund in spite of private markets woes
-Commitments underscore demand for debt backed by data centres, railcars, music royalties and car leases
+## APEDA to park maximum fee in FDs from non-Basmati export development Fund
+This decision comes after they raked in Rs 9.66 crore from rice exporters between September 2025 and April 2026
 
-## BYD to spend €2bn to build out 5-minute flash chargers in Europe
-Chinese EV maker banks on ultrarapid battery technology to take market share from legacy rivals
+## Air India says it is following industry practices in accident compensation, denies pressurising families
+A final investigation report on what caused the Boeing 787 crash in Ahmedabad is still awaited
 
-## Copper futures turn weak
-Traders can initiate near-term short positions
+## Markets shake, money slows: Equity mutual funds see sharp dip in inflows
+Investor caution gripped the Indian mutual fund market in May, with equity fund inflows plummeting to a one-year low. Geopolitical tensions and rising oil prices dampened sentiment, leading to a significant drop in net inflows. While SIPs offered stability, the broader industry saw substantial outfl
 
-## Urban Vault sub-leases 16,000 sq ft Gurugram office space to Green SM
-The workspace, located on Golf Course Road in Sector 54, includes around 500 seats and marks Green SM’s first office in India
+## 'Avoid trading this like the plague': Should you invest in SpaceX IPO?
+SpaceX's highly anticipated stock market debut could be historic, with a massive valuation and a significant portion of shares reserved for individual investors. While many are drawn to Elon Musk's vision and the company's potential, analysts and investors are divided over the lofty valuation and po
 
-## Textile PLI Scheme: Govt approves 96 cos in Round-III; ₹12,822 cr investment committed
-Textile ministry says 22 new applicants cleared in latest meet under Round-3 of Production Linked Incentive (PLI) Scheme for Textiles
+## Cost of conflict: US inflation hits 3-year high as Iran war fuels energy shock
+US inflation hit a three-year high in May, soaring to 4.2% due to surging energy prices, particularly gasoline, driven by Middle East supply disruptions. This rise, the third consecutive monthly increase, pressures the Federal Reserve and poses a political challenge for the Trump administration ahea
 
-## DDA auctions 142 properties, raises ₹1,321 crore revenue
-The mega e-auction attracted participation from investors, institutions and businesses, with the final bid value reaching nearly three times the cumulative reserve price.
+## How to protect your wealth when rupee is falling
+Is the rupee’s fall eating into your investment returns? What should investors do to protect their portfolio in the current scenario? The first thing to understand is that fundamentally, a falling rupee does not have a direct impact on your investments.
 
-## Bharti Airtel deploys over 2,900 new 5G sites across northern India
-The expansion covers 77 districts and provides high-speed services to over 28.6 million customers, including those in urban centres, towns and rural areas
+## Ahmedabad Metro expansion: Cabinet approves Rs 2,169-crore airport corridor
+The Union Cabinet has greenlit Phase 2A of the Ahmedabad Metro Rail Project, a 6.032-km corridor costing Rs 2,169.04 crore. This new line will connect Koteshwar Road to Ahmedabad Airport, featuring five stations and expanding the metro network to 77.63 km. The project aims to boost connectivity, sup
 
-## Equity MFs see 63rd straight month of inflows as SIPs cross ₹30,000 crore
-The industry’s total assets under management stood at Rs 81.58 lakh crore, with retail participation rising through higher folio additions
-
-## West Bengal Cabinet: Swapan Dasgupta gets Finance, Tapas Roy holds Industry & Commerce
-After the induction of the 35 MLAs into the Council of Ministers, the State cabinet strength now stands at 41
-
-## Afcons Infra shares rally after ₹5,301-cr Vadhvan Port project win
-The stock hit an intraday high of ₹346.50, compared with the previous close of ₹315.50
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Equity markets saw gains evaporate on Wednesday, with the Sensex inching up and the Nifty closing lower. Renewed US-Iran tensions rattled investor sentiment, leading to a sell-off in late trade. Geopolitical concerns overshadowed positive domestic factors, while global markets also faced pressure. B
 
 ## Chinese investors blocked from SpaceX IPO: How they are finding alternative routes to gain exposure
 Chinese investors are seeking indirect exposure to SpaceX's IPO due to direct participation being blocked. They are exploring offshore accounts, proxy stocks, and domestic A-share investments linked to the commercial space sector. This surge in interest is driving speculative buying in Chinese space
@@ -75,71 +90,56 @@ Chinese investors are seeking indirect exposure to SpaceX's IPO due to direct pa
 ## ITR filing FY 2025-26: What documents are required to file your income tax return? Quick checklist
 ITR filing FY 2025-26: Think of your documentation as evidence; the income tax department already has digital footprints of your transactions, and your job is to match them accurately.
 
-## Another blow! After Japan, Nepal restricts mango imports from India
-Authorities said the decision was driven by reports of high pesticide content in imported mangoes as well as inadequate quarantine arrangements in border regions, particularly in Madhesh province.
+## Union cabinet celebrates PM Modi as he completes record 4,399 days in office
+The Cabinet, which gave a standing ovation to the PM, also noted that the milestone comes as the NDA government completes 12 years in office under Modi’s leadership.
 
-## Gold price prediction today: Will gold, silver prices continue to be under pressure? Check June 10, 2026 outlook
-Gold price prediction today: The outlook for gold and silver prices remains cautious due to ongoing geopolitical pressures, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## Air India rejects Rupani daughter's claims of pressure on AI-171 victims' families: ‘No deadline to accept compensation’
+In a statement, the airline said there was "absolutely no deadline or pressure on any family or individual to accept our offer within a set timeframe."
 
-## Reliance and Meta to develop AI-enabled data centre in Jamnagar
-Reliance Industries and Meta Platforms are joining forces to build a massive 168 MW AI-powered data centre in Jamnagar, Gujarat. This significant collaboration marks India's first built-to-suit facility for Meta, aiming to bolster global AI infrastructure. Reliance will manage the entire project, en
+## New FIR against Abhishek Banerjee for 2018 attack on local Bengal BJP leader
+The complainant Abhijit Das alias Bobby, was fielded by the BJP against Banerjee from Diamond Harbour in the 2014 and 2024 Lok Sabha elections
 
-## Stock Market Highlights Today: BSE Sensex ends flat, Nifty50 above 23,200; crude oil prices steady
+## Wildlife experts flag threats to Asiatic lions in Gir
+The signatories alleged that mining, resort-related development and the re-entry of Maldhari families into protected areas could adversely affect lion corridors
 
+## Air India: No pressure on AI-171 families for final settlement
+The Air India statement came after Radhika Mishra, daughter of former Gujarat chief minister Vijaybhai Rupani, raised concerns over the settlement terms
 
-## Top stocks to buy today: Stock recommendations for June 10, 2026 - check list
-Stock market recommendations: Bank of India, Hindustan Zinc, and Union Bank of India are the top stock picks by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for June 10, 2026:
+## 'Baseless': TMC reacts to Congress merger reports, says doors open for alliance
+Sources say that both parties have kept the door open for a possible alliance and remain in touch on issues of mutual political interest
 
-## Gold, Silver Rate Today Live Updates: Gold, silver prices drop over 1% as fresh US-Iran tensions send crude oil prices up
+## We seek peaceful resolution to the ‘Sino-Tibet’ conflict: Sikyong Penpa Tsering
+Central Tibetan Administration chief Penpa Tsering, who was sworn in on May 27 after being re-elected as Sikyong, in an exclusive interview with HT
 
+## Heat, instability, 128kmph winds: Science behind string of dust storms hitting Delhi-NCR
+A pre-monsoon storm speeds up to 128 km/hr. Trees were uprooted, roads were blocked, and most of this destruction arrived with almost no rain.
 
-## CJP to launch nationwide protest demanding education minister's resignation from Thursday
-CJP to launch nationwide protest demanding education minister's resignation from Thursday
-
-## ‘I have respect for Suvendu, rebels should have quit like him’: Mahua Moitra
-Lok Sabha MP Mahua Moitra insists that the exit of some TMC leaders was a good purification, and all rumours of the party dying are just BJP’s wishful thinking
-
-## Meghalaya suspends state-funded foreign trips of ministers, officials for six months
-Meghalaya suspends state-funded foreign trips of ministers, officials for six months
-
-## Telangana woman shot dead by husband after domestic dispute; accused on the run
-A hunt is on for the husband of the woman, accused of shooting her dead after a domestic dispute in Medchal-Malkajgiri district.
-
-## Anti-drug crackdown uncovers alarming involvement of Ladakh youths in peddling
-Anti-drug crackdown uncovers alarming involvement of Ladakh youths in peddling
-
-## SC directs Kerala govt to take custody of state's tallest elephant Raman
-SC directs Kerala govt to take custody of state's tallest elephant Raman
-
-## Deve Gowda says bond with PM not tied to Rajya Sabha seat: ‘No leader matches Modi’
-The BJP's decision to field Prof M Nagaraja for the Rajya Sabha instead of renominating former prime minister Deve Gowda prompted the JD(S) patriarch's remarks.
-
-## More rain, thunderstorm expected in Kerala as IMD issues alert | Check forecast
-Thunderstorms, moderate rainfall and strong winds expected as the southwest monsoon continues to advance
-
-## Trump’s stark warning to Tehran — ‘now they will pay the price’
+## Rights panel sends notice to Goa government, SP after ‘littering’ video row
 
 
-## From phuchkas to a bulldozer: The dismantling of Kolkata’s hawker culture
+## After Gehlot’s broadside, Pilot counters with Rahul Gandhi’s ‘mohabbat ki dukaan’
 
 
-## ‘Denied sick leave’, South African woman, 29, dies after collapsing in office washroom
+## 3 Indians missing after another ship attacked off Oman coast
 
 
-## Heatwave to end; rain and thunderstorms likely in Chandigarh, Punjab and Haryana from tomorrow
+## ‘I promise you, I will attend next one’: Somali referee after return to country
 
 
-## ‘Completely egregious, blatant’: Congress approaches EC over Meenakshi Natarajan’s nomination rejection
+## Meet Vibhav Altekar: The Indian-American tech mind behind US Navy’s lifesaving drone
 
 
-## Belfast unrest: How masked mobs burned homes after knife attack
+## Pawan Kalyan praises Aditya Dhar’s film, recalls time in Kashmir: ‘Saw those tremors’
 
 
-## CPI(M) post-mortem of Kerala loss: Muslim backlash, Sabarimala gold theft, Yogi message at Ayappa event
+## Pranit More’s Bigg Boss friend Malti Chahar slams Rs 370 biryani remark: ‘Disheartening’
 
 
-## Bail is rule: Delhi court relief to Kashmiri activist Khurram Parvez in UAPA case
+## ‘Hrithik Roshan spent the night at a temple, prayed for me,’ recalls sister Sunaina
 
+
+## Before Elon Musk’s SpaceX, these were the world’s 5 largest IPOs
+This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The coming initial public offering (IPO) from Elon Musk’s SpaceX, 
 
 ## Asia-Pacific home to more than a third of world’s top finance centres: Colliers
 Asia-Pacific cities account for 39 per cent of the top global financial services companies and about 36 per cent of the world’s leading financial centres, Colliers said. Supported by strong labour markets and venture capital activity, cities such as Singapore, Beijing, Shanghai and Hong Kong ranked 
@@ -162,8 +162,11 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Chinese pharmaceutical firms’ cost advantages trump Pentagon blacklist: analysts
 The Pentagon added Chinese pharmaceutical contractor WuXi AppTec to a list of entities it alleges are linked to the country’s military, but the blacklisting will not stop multinational drug makers from collaborating with China’s biopharmaceutical firms, according to analysts. “We view minimal impact
 
-## US fintech firm iCapital doubles prime office space in Hong Kong amid wealth boom
-Fintech company iCapital has more than doubled its office footprint in Hong Kong, leasing a 9,000 sq ft space in One International Finance Centre in the city’s Central business district as it staffs up to capture rising demand for wealth-management services in Asia. The US company, which opened its 
+## Exporting U.S. Military AI Won’t Be Easy
+Middle powers have alternatives, and AI labs have opinions.
+
+## Progressives Should Show Real Solidarity With China
+Don’t let Chinamaxxing come at the expense of meaningful engagement with Chinese workers and activists.
 
 ## Why Cambodia and Thailand’s Peace Is So Uneasy
 A step forward in the maritime dispute masks dangers on the land border.
@@ -183,11 +186,11 @@ Shared standards on cloud services are urgently needed.
 ## Lebanon Is No Longer About Lebanon
 Iran would rather fight than let Israel decide Lebanon’s fate.
 
-## U.S. Power Is Wrung Out
-The war in Iran has depleted the Pentagon as China’s military buildup matures.
+## A Death in Detention Puts Tajikistan’s Police on Trial
+Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
 
-## How to Escape Blame for Bad Advice
-If you get an important strategic issue wrong, there are still ways to avoid accountability.
+## Ethnic Restaurants and Immigrant Entrepreneurs Facing Crisis Under Japan’s New Visa Rules
+While the government views the new rules as a necessary measure to curb abuse, some observers worry that they may also deter genuine entrepreneurs.
 
 ## The Democratic Dilemma in South Korea’s Local Election Ballot Shortage
 President Lee sold Korean democracy abroad as a system that fixes itself. Now his party and the administration have to prove it by holding the election commission to account without handing the conspiracy theorists a win.
@@ -206,12 +209,6 @@ Drawn by lower prices, a wider variety of products and convenience, Macau’s re
 
 ## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
 Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
-
-## The West Asia Crisis Realigns Regional Trade Through Pakistan
-Cargo-laden trucks are already plying six new overland routes linking its major ports to the Iranian border and onward to Central Asia.
-
-## Xi and Kim Agree to Strengthen ‘Strategic Relationship’ with Socialist Principles
-Touting the achievements Pyongyang has made in recent years, Xi de facto recognized North Korea as a nuclear-armed state.
 
 ## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
 Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
@@ -261,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why has Belfast erupted in anti-immigrant violence after a knife attack?
-Ministers have blamed far-right online agitators for stoking racial tension following a stabbing.
+## What are Lebanon’s most important political parties?
+Lebanon's many powerful parties reflect the country's social, sectarian, and political divides.
 
-## Who pays for a supersized World Cup?
-The biggest World Cup ever, with 48 teams and 104 matches, is expected to bring a record $13bn for FIFA.
+## Eight red cards shown to Brazil in fiery friendly against US women
+Four Brazilian players and four members of their coaching staff were sent off during a dramatic encounter in Fortaleza.
 
-## Graham Platner wins Maine primary election: Results and key takeaways
-Platner wins in Maine, Republican Nancy Mace loses in S Carolina. Results for Nevada and North Carolina also announced.
+## US bombs Iran’s water facilities: Why that’s so significant
+The US struck several sites in Iran, saying it retaliated against the downing of a US helicopter in the Strait of Hormuz
 
-## A four-year-old’s recovery from the trauma of war in Lebanon
-Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.
+## Mexico vs South Africa: World Cup group match – teams, start and lineups
+As the tournament kicks off, cohosts Mexico face South Africa in a replay of the 2010 edition's opening game.
 
-## Why is the FIFA World Cup 2026 being held in three countries?
-The 2026 World Cup is the first to be held in three different host nations - but why? Al Jazeera explains.
+## West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty
+Israel uses war crimes to accelerate 'annexation agenda and settlement expansion' in occupied land, rights group says.
 
-## Iran fires missiles at US bases carrying images of killed commanders
-Iranian state media released video showing the launch of missiles towards US bases in the Middle East.
+## 7-month-old baby shot by Israeli soldier in Hebron
+An Israeli soldier fired at a Palestinian family’s car in Hebron, fatally shooting a seven‑month‑old in the head.
 
-## India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions
-Hundreds 'pushed' to border and many others put in detention centres as part of a crackdown on undocumented migrants.
+## Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia
+Video shows a Ukrainian-made ‘FP-5 Flamingo’ cruise missile flying deep inside Russia.
 
-## Argentina World Cup 2026 preview: Players to watch, group matches and squad
-Messi is hoping to overcome injury to help Argentina become the first back-to-back World Cup champions since 1962.
+## Pakistan military helicopter crashes in Kashmir, all on board killed
+There has been a heavy security presence in Muzaffarabad amid protests in Pakistan-administered Kashmir in recent days.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
@@ -309,6 +306,9 @@ Workforce planning is shifting from HR's cost-control focus to the CFO's strateg
 ## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
 Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
 
+## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
+The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
+
 ## India scraps capital gains tax on foreign investors in government debt to support rupee
 India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
 
@@ -329,7 +329,4 @@ Parliamentary panel on finance raises concern over private investment not keepin
 
 ## RBI likely to hold rates as West Asia crisis impact on growth remains unclear: Bank of Baroda Report
 The Reserve Bank of India (RBI) is likely to maintain status quo on interest rates in its monetary policy announcement on Friday as the impact of the ongoing crisis in West Asia on economic growth remains difficult to assess, according to a report by Bank of Baroda.
-
-## SBI chairman Shetty sees MPC’s repo rate pause ‘appropriate’ at this juncture: Report
-SBI Chairman CS Setty anticipates the Monetary Policy Committee will pause interest rates this week. This aligns with market expectations as economic growth and inflation dynamics support the decision. While a pause is expected now, some economists foresee rate hikes later. Investors await the RBI's
 
