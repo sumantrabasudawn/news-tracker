@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## The unlikely alliance pushing an AI sovereign wealth fund
-Even some of the tech labs seem to agree that society as a whole should benefit from advances
-
-## ECB raises interest rates for first time since 2023
-Central bank is first in G7 to increase borrowing costs in response to Middle East energy crisis
-
-## Trump vows to take ‘total control’ of Iran’s oil and gas markets
-US president says American forces will also seize control of key export hub Kharg Island
+## Keir Starmer weakened by John Healey’s scathing resignation
+Defence secretary’s exit may turn out to be the first of many in the coming weeks
 
 ## UK defence secretary resigns over spending plan
 John Healey says Keir Starmer ‘unable’ and Treasury ‘unwilling’ to provide essential budget
 
-## Why Europe should not choose to go it alone
-A secure future depends on a revitalised transatlantic alliance
+## The AI public market floodgates are opening
+The huge sums that Wall Street is about to be asked for look like being only a down payment
+
+## Trump calls off Iran strikes planned for Thursday night
+US president claims progress in negotiations for new deal with Tehran
+
+## Trump’s Canada envoy ‘encouraged’ by Carney’s softer tone on US
+Pete Hoekstra tells Canada’s leaders to drop retaliation threats as Ottawa tries to save USMCA trade pact
+
+## ‘Toxic’ social media overwhelms police response to Belfast violence
+Fallout from knife attack and riots accelerated by online posting, current and former officers say
+
+## The Iran war is testing the limits of India’s economic resilience
+Modi will need to combine emergency measures with reforms to help the country rebound
+
+## Milei’s top aide admits hiding $500,000 from Argentine tax agency
+President’s spokesperson says he kept savings ‘off books just like the majority of Argentines’
+
+## New York Knicks’ winning streak should rub off on its owner too
+Shares in Madison Square Garden Sports, which also owns hockey team the New York Rangers, have doubled in a year
+
+## SpaceX IPO marks the end of the no-brainer benchmark index trade
+Investors do not need big benchmarks to get what they want
+
+## Time to axe ‘unfair’ pensions triple lock, says UK’s cost of living tsar
+Iceland chair Lord Richard Walker, appointed by Starmer in February, calls system ‘mathematically unsustainable’
+
+## The ‘new joule order’ is here. The west is last to realise
+Electrification is the purchase of optionality and China bought more of it than any nation in history
+
+## It’s not easy when you’re big in Seattle
+Yet another proxy oddity
+
+## The unlikely alliance pushing an AI sovereign wealth fund
+Even some of the tech labs seem to agree that society as a whole should benefit from advances
 
 ## Well actually, SpaceX is a UK growth stock
 POP goes a weasel
 
-## Do You Love Me — a head-spinning and heartfelt mosaic of Lebanon
-Images and sounds from more than 20,000 sources make up Lana Daher’s densely textured documentary essay
+## Air India Ahmedabad crash report may take a few more months to complete: sources
+Final investigation report likely in two-three months’ time; probe on track, say sources
 
-## Jeff Bezos says AI will bring ‘golden ages’ not mass job losses
-Amazon founder lays out vision for new $41bn AI lab Prometheus
-
-## India protests to US after three sailors killed in tanker attack
-New Delhi calls for ‘de-escalation’ in Gulf but appears to have little appetite for confrontation with Washington
-
-## World Bank warns El Niño risks driving up global food prices
-Weather phenomenon threatens to worsen problems for farmers dealing with high fertiliser costs due to Iran war
-
-## Russia ‘not looking for conflict’, says Nato’s top US commander
-General Grynkewich’s remarks come as Washington withdraws key assets from Europe
-
-## Arms maker Diehl in talks to build Ukrainian missile in Germany
-Groups to discuss whether they could jointly produce Fire Point’s Flamingo cruise missile
-
-## Why opposition to battery storage projects is growing across the US
-Resistance is rising as the technology becomes more essential to meet surging power demand
-
-## MFS auditors investigated by UK accountancy regulator
-FRC probes firms that signed off accounts across collapsed UK mortgage lender’s network
-
-## Govt nominates DFS Secretary Lohiya on central boards of RBI and SBI
-Lohiya nomination follows the superannuation of Nagaraju Maddirala
-
-## TN Chief Minister Vijay seeks greater Central support at NITI Aayog meet
-Addressing the 11th Governing Council Meeting of NITI Aayog in New Delhi, Vijay said, “Together, through partnership, mutual respect, and shared responsibility, we can build a prosperous, equitable, innovative, and sustainable India.”
-
-## SEBI suggests unified price bands for stocks listed on multiple exchanges
-The move aims to address price divergence caused when a stock is traded on one exchange but remains inactive on another
-
-## NCLT admits insolvency pleas against Anil Ambani and RInfra arm over ₹1,480 crore dues
-The loans, sanctioned in 2016, turned delinquent soon after, and despite invocation of Ambani’s s personal guarantee, repayment has not been made
-
-## Prestige Group, BACL partners to build convention centre in Bangalore Airport, Prestige to invest ₹1800 cr
-Prestige plans to invest approximately ₹1,800 crore for this project. The construction is scheduled to begin by 2027, and a formal inauguration is targeted for 2031
-
-## Attractive short-term interest rates trigger demand for short-term funds from banks and India Inc
-Experts observed that the current softness in money market rates makes short-term funding attractive
-
-## TCS partners with Anthropic to accelerate enterprise AI adoption with Claude
-TCS will equip 50,000 associates across engineering, finance, legal, marketing and sales with Claude through enterprise-wide licensing.
+## Zinc futures: Sell for a target of ₹350
+The contract is likely to undergo a correction
 
 ## Capex by CPSEs, Railway Board, NHAI touched over 17% in April-May
 Over ₹1.44 lakh crore spent in two months of FY27; GAIL (India) tops the table
+
+## Score goals, save more: Supplyco launches FIFA World Cup-themed discounts
+The Kerala State Civil Supplies Corporation (Supplyco) has launched ‘Supplyco Soccer Eleven’ to merge the excitement of the world’s biggest football tournament with everyday shopping
+
+## Wheeled construction equipment sales fall 17.5% in May; JCB expands market lead
+Industry sales in May 2026 declined nearly 20 per cent sequentially, indicating a broad-based demand moderation in the segment
+
+## The sectors dominating India’s start-up landscape
+In India, start-ups have been created in different sectors of the economy, apart from technology and related sectors
+
+## Gujarat to set up space manufacturing hub in Ahmedabad
+Officials said the model is designed to make it easier for start-ups and smaller companies to enter the space sector by giving them access to high-end testing infrastructure that is typically available only with large organisations.
+
+## Rafale deal unlikely to be announced during PM Modi’s France visit
+France engaging with India’s demand for access to source codes, manufacture aircraft in India
+
+## Countries protecting domestic industries, India no exception: Piyush Goyal on global trade
+India navigates global trade challenges by fostering dialogue and partnerships, even as nations increasingly protect domestic industries like steel. Minister Piyush Goyal highlighted that despite a less effective WTO, international trade largely operates under its framework. India is actively pursui
+
+## Seeds of change: How India’s agriculture went high-output in 12 years
+India's agriculture sector has seen remarkable growth over the past decade, fueled by increased government investment and record foodgrain production. Policies now prioritize productivity, market access, and farmer income security. This transformation, marked by doubled GVA and enhanced crop yields,
+
+## US stocks today: Wall Street rebounds as AI stocks recover despite Iran war worries
+
+
+## India retains growth edge with 6.6% growth, World Bank forecasts; cuts global outlook
+Global growth forecasts are down to 2.5% for 2026, with the Middle East conflict and rising energy prices cited as key reasons. Despite this, India is set to remain the world's fastest-growing major economy, projected at 6.6% in fiscal year 2026-27. However, higher energy costs may moderate India's 
 
 ## SpaceX IPO tomorrow: Could Elon Musk become world's first trillionaire? Decoding the math
 Elon Musk may soon become the world's first trillionaire. This is due to the upcoming initial public offering of his company SpaceX. The IPO is expected to be the largest in history. If valuations hold true, Musk's personal fortune could surge past the trillion-dollar mark. This event could reshape 
@@ -78,65 +93,56 @@ Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 
 ## Boost for litchi exports! Assam’s GI-tagged Tezpur litchi reaches Dubai, Singapore
 Assam's prized Tezpur litchi has made its international debut with the first export consignment reaching Dubai. This milestone, facilitated by APEDA, highlights efforts to boost Northeast agricultural exports. The GI-tagged fruit, celebrated for its exceptional taste and aroma, fetched farmers highe
 
-## Are you a contract worker? What new labour codes mean for your wage safety, overtime & other benefits - explained
-At its core, the law defines a contract labour as someone who is hired through a contractor to work in connection with the business of an establishment.
+## Stone pelted at train with RSS chief Mohan Bhagwat on board, window glass of coach broken
+RSS chief Mohan Bhagwat was travelling in the same coach but was seated on the opposite side and remained unharmed.
 
-## 'LPG well covered, crude not a problem': How much energy supplies is India left with?
-Indian refiners have secured sufficient crude oil and LPG supplies to last through August and mid-July respectively, mitigating concerns from the ongoing Middle East crisis. Purchases from ADNOC and other suppliers, including significant crude acquisitions from the UAE and Brazil, have bolstered inv
+## Owaisi demands EC accept PAN card, driving licence for voter verification in SIR
+Owaisi said that of the 12 identity proofs approved by the Election Commission, three are not available in Telangana.
 
-## 30 million barrels of oil storage: India, UAE work to expand strategic reserves - here’s why it’s significant
-As India moves to strengthen its energy security amid persistent geopolitical risks in the Middle East, New Delhi and Abu Dhabi have started implementing initiatives announced during PM Modi's visit to the UAE last month.
+## Delhi, Punjab, Odisha: States roll out free travel for NEET-UG re-exam candidates
+The NEET-UG re-examination was scheduled after the original exam was cancelled following a paper leak and allegations of irregularities.
 
-## Trump asked if he is concerned about the latest inflation numbers. His answer: 'I love it'
-President Trump expressed an unexpectedly positive view on recent inflation data, "loving" the rise in consumer prices despite it being the fastest annual pace in over three years. He attributed the increase primarily to energy costs linked to the Iran conflict, claiming his administration's actions
+## MT Marivex, Settebello, MT Jalveer: All about 3 vessels with Indian crew struck by US near Oman
+Each of the three vessels struck has had a complicated history with inspection deficiencies, detentions and sanctions.
 
-## ‘Don’t treat me like a dustbin’: Kalyan attacks Abhishek Banerjee, warns Mamata
-Kalyan Banerjee said Abhishek should understand that the party is facing this distress because of him and he couldn’t go on disrespecting people
+## Congress' Pawan Khera now Rajya Sabha MP after being elected ‘unanimously’ with Kharge, others from Karnataka
+Congress chief Mallikarjun Kharge was elected ‘unanimously’ to the Rajya Sabha along with debutants Pawan Khera and Mansoor Ali Khan.
 
-## Goa medical intern found dead at Dona Paula beach, suicide suspected
-The intern doctor, who hailed from Kerala, was found by locals at Hawaii Beach, who informed the police.
+## Compensation for exam leak, paper-based evaluation: CJP announces 5 exam reform demands
+CJP called for compensation for students affected by paper leaks, re-examinations to be conducted within three days
 
-## BJP leader Tai Tagak wins Rajya Sabha seat from Arunachal Pradesh unopposed
-Senior Bharatiya Janata Party (BJP) leader Tai Tagak on Thursday won the Rajya Sabha seat from Arunachal Pradesh unopposed
+## Pilots’ body opposes interim report on AI171 crash, demands judicial probe
+Federation of Indian Pilots (FIP) president said the Aircraft Accident Investigation Bureau should release only a final report after completing the investigation.
 
-## Maharashtra Cyber police register case against stand-up comedian Pranit More over ' ₹370 biryani' remark
-Pranit More faced backlash after a clip from his show surfaced where a man said he paid ₹370 for biryani on a date and deserved a “return” on his investment.
+## Manipur BJP leader Sharda Devi wins Rajya Sabha seat unopposed
+The returning officer-cum-secretary of the Manipur Legislative Assembly handed over election certificates to Former Manipur BJP president Adhikarimayum Sharda Devi
 
-## Mahua backs Abhishek amid nepotism jibes: 'Got first ticket due to Mamata, but has paid his dues'
-The TMC is facing one of the biggest internal challenges in its history, with a series of resignations and defections by senior leaders.
-
-## CJP files police complaint, alleges man planted at Delhi protest to make anti-India remarks
-CJP identified an individual named Mayank Bhandari, who entered the June 6 protest and allegedly made controversial remarks on camera.
-
-## Haryana tourist missing in Valley of Flowers, drones deployed in search operation
-Authorities said Gabbar Singh, a resident of Faridabad in Haryana, failed to return from a trek on Tuesday evening, prompting them to launch an extensive search and rescue operation.
-
-## 3 BJP candidates win Rajya Sabha MP race after Meenakshi Natarajan’s exit
-Returning officer Arvind Sharma handed over certificates to BJP’s Rajneesh Agrawal, Tarun Chugh, and Mahesh Kevat after the deadline for withdrawals ended
-
-## New IRCTC website to be launched by July 15: Here’s how train ticket booking may change
+## Why hasn’t Iran’s economy collapsed despite 100 days of US-Israel war
 
 
-## Janhvi Kapoor on stepping outside her comfort zone for Peddi: ‘I think it’s pretty cool’
+## Five flight round-trips under Rs 20,000 from Delhi
 
 
-## Rs 370 biryani row: Maharashtra police register case against Pranit More, Himanshu Jangra
+## ‘A smaller producer would have sold their house’: Ashoke Pandit on Ranveer Singh-Don 3 row
 
 
-## Is Shashwat Sachdev expecting a National Award for Dhurandhar?: ‘Awards are wonderful’
+## Extensive damage to vehicle: Probe into Dadar BEST bus crash hits technical block
 
 
-## Sooryavanshi shines, but Afghanistan A beat India A in Dambulla tri-series clash
+## Cool roofs, better warning system: Inside Gurgaon’s Rs 5-crore plan to tackle urban heat
 
 
-## Dubai gold buyers ‘tripled’ their money? What jewellers are saying about the UAE gold boom
+## Air India crash | ‘260 died…nobody will stay there’: Arunachal PG student who abandoned his lunch after emergency call that saved his life
 
 
-## Bombay HC asks Salman Khan’s Panvel neighbour to delete posts against actor
+## Gehlot has ‘same affection for me as he has for his son’: Sachin Pilot on ex-CM’s ‘accept mistake’ remarks
 
 
-## UPSC Key: Zojila Tunnel, Birsa Munda and Outward-Inward remittance
+## Heart of the Beast trailer: Brad Pitt and his battle-scarred dog fight to survive
 
+
+## Innovation and integration are evolving the GBA from a safe harbour to a global contender
+[The content of this article has been produced by our advertising partner.] Over the last decade, worldwide markets have faced multiple sources of intense and sustained geopolitical risk. Trade wars and tariff skirmishes have coincided with military conflicts in both Europe and the Middle East. Thro
 
 ## China’s space start-ups eye IPO boom as SpaceX heads for record listing
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The landmark listing of US aerospace giant SpaceX is expected to a
@@ -159,8 +165,8 @@ China’s biotech firms are pressing ahead with global expansion, a trend indust
 ## Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a tes
 
-## To beat chip crunch, Chinese firm inks memory deal bigger than its sales
-Chinese memory module maker Biwin has signed a two-year agreement worth US$1.86 billion to secure flash memory chips, a deal larger than its annual revenue, as demand from artificial intelligence servers and data centres squeezes supply. Under the locked-volume, locked-price arrangement, Biwin would
+## When the Beautiful Game Meets the Ugliest Ego
+A recent history of the World Cup suggests the tournament can triumph over Trump.
 
 ## Washington’s Asian Allies Need a Backup Plan
 A strategic rethink is needed in an era of U.S. unreliability.
@@ -183,32 +189,32 @@ Soccer is egalitarian. The 2026 FIFA World Cup is anything but.
 ## The Hegseth Shock for New Zealand
 Accusations of defense “freeloading” hit the third rail of Wellington’s politics.
 
-## Somalia’s Fragile Government May Be on the Verge of Collapse
-After disputes culminated in fighting last week, the country’s political system is in doubt.
+## Why Was Xi Jinping in North Korea?
+The seven-year gap since Xi’s previous visit to North Korea suggests a cooling in bilateral relations. What does it mean that he made the trip to Pyongyang at last?
+
+## Bangladesh’s Myanmar Border Challenge Is No Longer Just About the Rohingya
+Bangladeshis are being abducted and killed by the Arakan Army, the de facto authority in areas along the border. But Dhaka can’t use official channels to talk to a non-state actor.
+
+## How Tuvalu Is Rewriting the Rules of Statehood
+As rising seas threaten its territory, the Pacific nation is leading an unprecedented effort to ensure sovereignty can survive climate change.
+
+## Why Modi’s Great Nicobar Project is a Recipe for Disaster
+It will open the Andaman and Nicobar Islands to loot and plunder. It involves felling 15 million trees and encroaching upon the land of the reclusive Shompen tribals.
+
+## Climate Change and the Future of Central Asia-South Asia Connectivity
+The region’s ambitious connectivity and energy projects were conceived in a different climatic reality.
+
+## Democratizing Technology: India Stack 3.0 and the Future of Digital Public Infrastructure
+Dr. Pramod Varma joins host Tushar Shetty to discuss the design philosophy and the next stages of India's Digital Public Infrastructure.
+
+## Beijing’s Shadow Networks in Okinawa
+Organized crime groups with roots in Taiwan have become a useful tool for the CCP – in Taiwan and, increasingly, abroad.
 
 ## Why the Indo-Pacific Trade Hinges on East Africa
-The region's ports, sea lanes, and gas fields have become an important part of geopolitical competition, from the Gulf to the Pacific Ocean.
+The region's ports, sea lanes, and gas fields have become the focus of growing geopolitical competition.
 
-## Why UMNO is the Biggest Beneficiary of Malaysia’s PAS-Bersatu Divorce
-The fracturing of the opposition camp could give Malaysia's grand old party a springboard back to federal prominence.
-
-## Philippine Foreign Secretary Says She Will Meet Myanmar Opposition Groups Soon
-The announcement comes as ASEAN member states move to normalize their relations with the new "civilian" government in Naypyidaw.
-
-## Philippines Urges China to Remove ‘Movable Platform’ at Disputed South China Sea Shoal
-The country's coast guard said that the structure, which first appeared on satellite images on May 25, may be supporting unauthorized marine research.
-
-## Patent Trolls and What’s Next in Tech Competition with China
-The country's share of global patent filings has grown rapidly in recent years, part of a deliberate strategy to make IP and patents a new tool of economic competition.
-
-## What the Hormuz Energy Crisis is Teaching Taiwan About Marine Insurance
-Taipei’s energy supply is secured for now, but it faces a separate concern of whether insurers will cover the ships that are needed to deliver it.
-
-## Australia-Germany 2+2 Ministerial Highlights an Expanding Network of Partners
-Canberra likely hopes that its relationship with Berlin will come to hold a similar importance as those with Washington, London, and Tokyo.
-
-## Why the India-Oman CEPA is Special
-Much of Oman’s coastline lies outside the Strait of Hormuz. With CEPA kicking in on June 1, India will be looking to benefit from the agreement and Oman’s geography.
+## The Evolution of Ukraine’s Asymmetrical Combat Tactics
+In 2022, Scott Sweetow wrote, “Of Roadside Bombs and Drones: Putin’s Looming Insurgency Problem,” where he argued Ukraine’s fight against Russia would rely on a combination of conventional and asymmetrical insurgent tactics. Four years of combat later, we asked Scott to revisit his arguments.Image: 
 
 ## Wargaming for Improved Acquisition: What Does It Take?
 A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a leading university, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal
@@ -230,9 +236,6 @@ The Lebanese state’s lack of effective sovereignty is a crucial problem in eff
 
 ## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
 Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
-
-## Is Skepticism Ukraine’s Foreign Policy Playbook?
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel’s Darkest Weapon | Al Jazeera Originals
-Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees
+## Two sentenced to death in Bangkok bombing
+Two men were sentenced to death in the 2015 Thai Erawan shrine bombing that killed 20 people and wounded more than 100.
 
-## Somali referee banned by US to officiate European Super Cup, UEFA says
-Omar Artan ​was named among match officials ​for 2026 World Cup but will miss the tournament after US refuses him entry.
+## Pope Leo tells migrants: ‘I bow before your dignity’
+Pope Leo met with migrants and NGOs at a port in Spain’s Canary Islands dubbed the ‘dock of shame’.
 
-## Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250: All to know
-Fight time, undercard, stats and how to watch as Topuria and Gaethje tussle in front of Donald Trump at the White House.
+## Drone strikes on central Sudanese city kill up to 23: NGO
+Local rights group Emergency Lawyers blamed the attack on the RSF, which did not immediately claim responsibility.
 
-## I saw Kushner’s Albania resort up close — it is an environmental disaster
-The damage at Vjosa-Narta is not fake news. Bulldozers are tearing into one of Europe’s most precious wetlands.
+## Property deeds no protection for Palestinians as settler violence spreads
+Israeli settlers follow Palestinian Bedouins across the West Bank, chasing them from their land.
 
-## Argentina fans denied US visas get free TVs to watch World Cup
-Argentina fans denied US visas get free TVs to watch World Cup.
+## US-Iran war to pull global economy to post-COVID low: World Bank
+Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.
 
-## World chess body suspends Russia over activities in occupied-Ukraine
-Russia is accused of usurping control of the game in areas of Ukraine captured by Russian forces since 2022.
+## Gold is now the top reserve asset. Is dollar dominance at risk?
+Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.
 
-## Palestine Action activists could face UK ‘terror’ sentences: What we know
-Four members of the Palestine Action group could be sentenced as 'terrorists' over Elbit factory raid in 2024.
+## Stephen Miller’s War
+Unelected and unaccountable, Stephen Miller has become one of the most powerful figures in modern US history.
 
-## Iran shuts Hormuz strait: But wasn’t it already closed?
-The strait is a crucial maritime route, through which 20 percent of global oil and natural gas is shipped in peacetime.
+## Bahrain releases footage of damage caused by intercepted Iranian drones
+Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
