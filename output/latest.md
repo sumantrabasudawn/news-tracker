@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## US and Iran exchange fresh wave of strikes
-Oil price rises as Washington and Tehran send mixed signals over status of the Strait of Hormuz
+## Burnham rules out cash for Waspi women after Labour backlash
+Leadership hopeful’s hints at large spending commitments had raised fears over risk to UK fiscal position
 
-## Libor 2.0?
-The death of London’s infamous interest rate benchmark has left a hole
-
-## State-owned AI
-Plus sideways CPI
-
-## Brussels begins decisive phase of negotiating shared budget
-Also in this newsletter: Hungary’s anti-graft pitch to unlock billions of euros
-
-## ‘South Korea’s Amazon’ hit with record fine over data breach
-Coupang told to pay $409mn after hack that exposed personal information of nearly two-thirds of population
+## UK defence secretary resigns over spending plan
+John Healey says Keir Starmer ‘unable’ and Treasury ‘unwilling’ to provide essential budget
 
 ## FirstFT: Iran threatens Hormuz after renewed US strikes
-Also in today’s newsletter: EU’s diplomatic service and investor dispute with Spain
+Also in today’s newsletter: Brokers prepare for SpaceX test and prediction markets take $2bn bets ahead of World Cup
 
-## Private equity parties as LPs wait for cash
-The industry’s annual jamboree comes as firms struggle to sell holdings at desired valuations
+## How bond markets can learn to love public debt
+There is ample room to be expansive within market-friendly fiscal rules
 
-## Kathy Ruemmler helps search for her own replacement as Goldman’s top lawyer
-Bank’s decision to back executive after she resigned from the role over ties to Jeffrey Epstein sparked internal divisions
+## Artificial chocolate will show what really shapes global trade
+Lab-grown cocoa is the latest synthetic commodity to challenge a natural product
 
-## Toyota and JLR warn ‘Made in Europe’ plan threatens investment and jobs
-Proposals spark outcry from carmakers that export vehicles to EU from countries such as the UK, Turkey and Morocco
+## Sneaker designer Philéo Landowski’s guide to Tokyo
+The French creative prodigy on the capital’s coolest book stores, thrift finds and noodles
 
-## Can Europe build a new fighter jet after Germany scraps joint venture?
-Collapse of €100bn project with France leaves countries at a crossroads
+## The SpaceX ETF versus ‘hot money’ IPO arbitrageurs
+Daily liquidity meets SpaceX FOMO, and daily liquidity blinks first
 
-## Why the much-feared crunch in oil markets has yet to arrive
-Still-ample stocks and some more reactive producers and consumers look to have left the world better equipped to cope with disruption
+## ‘Anything could happen’: SpaceX IPO poses big test for Wall Street banks
+Elon Musk’s rockets-to-AI group is listing at a fixed price during a bout of volatility in US markets
 
-## A shorter third runway at Heathrow is better than none
-The UK airport and its airlines should stop fighting and compromise on expansion
+## MFS auditors investigated by UK accountancy regulator
+FRC probes firms that signed off accounts across collapsed UK mortgage lender’s network
 
-## Canva launches Canva Offline, enabling users to create on the go
-Canva Offline saves users’ designs for offline access across devices and formats, allowing uninterrupted creation for up to 14 days without internet connection
+## Environmental reporting non-profit group CDP strikes private equity deal
+Permira to take majority stake in core operations under energy transition strategy
 
-## Sensex today | Stock Market Live Updates: Markets off day’s low as Sensex gains 120 pts, Nifty above 23,200; investors remain cautious on West Asia tensions
-Sensex, Nifty, Share Prices LIVE: Equity benchmarks opened sharply lower on Thursday, tracking a global risk-off mood after a fresh escalation in the West Asia conflict and hotter-than-expected US inflation data rattled investor sentiment
+## Beijing online shopping warning hits shares in Chinese tech groups
+Alibaba and JD.com admonished by regulator for misleading sales tactics during ‘6.18’ event
 
-## Cabinet adopts a resolution to back Modi’s vision of Viksit Bharat@2047
-In a strong endorsement of the government’s political and developmental agenda, the Cabinet expressed its “full support” for Modi’s leadership in building a developed India by 2047 and lauded “his tireless dedication to public service”.
+## After the final whistle: media groups battle for World Cup attention
+YouTube, podcasts and live events are opening new ways to monetise the tournament
 
-## IT rout: Infosys, HCL Tech, TCS shares fall as Nifty IT declines 3% on global tech selloff
-Coforge, Persistent Systems and Tech Mahindra fell 3-4 per cent in early trade
+## Applied Materials in Singapore and Japan’s new subsea cable approach
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## NITI Aayog meet: Ramadoss urges TN CM to press the Centre on several demands
-Ramadoss says the Centre should also promote employment in Tamil Nadu by supporting the creation of new industrial estates, secure manufacturing units, shipbuilding industries, and production hubs
+## El Nino has set in, Positive IOD likely by July, says Japanese weather body
+Positive IOD emergence may partly offset South-West Monsoon risks from El Nino
 
-## Canada introduces bill to restrict social media access for under-16s
-Bill C-34, introduced by Identity and Culture Minister Marc Miller, aims to establish a legal framework to tackle online harms in Canada
+## Sensex slips 151 pts, Nifty below 23,200 as US-Iran tensions, IT & defence selloff weigh on sentiment
+Markets witnessed a brief recovery during the session amid easing crude oil prices, but the gains proved short-lived
 
-## Stocks to watch, June 11: REC/PFC, Ultratech Cements, AVG Logistics, Dhruv Consultancy, PowerGrid, 3i Infotech
-Explore key stock movements and significant corporate developments involving REC, PFC, UltraTech, AVG Logistics, and more
+## AI will create more jobs than disrupt them; engineers must adapt: Microsoft’s Rajiv Kumar
+He said Indian engineers must move beyond fears of AI replacing jobs and focus on adapting, upskilling, and collaborating with the technology
 
-## Mumbai Metro revives mobile connectivity from Aarey JVLR to Acharya Atre Chowk on Aqua Line
-Services on the rest of the metro line from Science Centre to Cuffe Parade will be connected over the coming weeks
+## Akasa Air launches SkyCadet pilot training programme to build future-ready aviation workforce
+The initiative, developed with approved Flight Training Organisations, aims to strengthen India’s pilot pipeline amid rapid growth in the aviation sector
+
+## GHIAL remits ₹12.28 cr dividend to Telangana govt
+The latest remittance followed an earlier dividend payout of ₹36.85 crore made in February 2026 to the Government of Telangana
+
+## PM Surya Ghar: Net metering consumers giving up Centre’s subsidy are exempt from domestic content norms
+Under the PMSG: MBY, residential consumers can opt out of the Central Financial Assistance (CFA) in the “Give It Up” campaign to extend benefits to more consumers
+
+## SBI, ICICI, HDFC Bank raise FCNR(B) rates to tap NRI foreign currency deposits
+The move follows the Reserve Bank of India’s foreign currency swap window announcement, which reduced the currency hedging cost for banks and enabled them to offer higher returns
+
+## India likely to boost urea imports beyond 17 LT as tender prices plunge over 50%
+Lowest bids fell below pre-Ukraine-war levels, prompting the government to consider expanding purchases if suppliers match L1 rates.
+
+## Wipro Rs 15,000 crore buyback opens - what it means for retail investors
+Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 per share, a significant premium over the current market price. The offer, valid until June 17, presents a potential arbitrage opportunity for retail investors. However, analysts suggest limited gains, with acceptance ra
+
+## Boost for litchi exports! Assam’s GI-tagged Tezpur litchi reaches Dubai, Singapore
+Assam's prized Tezpur litchi has made its international debut with the first export consignment reaching Dubai. This milestone, facilitated by APEDA, highlights efforts to boost Northeast agricultural exports. The GI-tagged fruit, celebrated for its exceptional taste and aroma, fetched farmers highe
+
+## Are you a contract worker? What new labour codes mean for your wage safety, overtime & other benefits - explained
+At its core, the law defines a contract labour as someone who is hired through a contractor to work in connection with the business of an establishment.
+
+## 'LPG well covered, crude not a problem': How much energy supplies is India left with?
+Indian refiners have secured sufficient crude oil and LPG supplies to last through August and mid-July respectively, mitigating concerns from the ongoing Middle East crisis. Purchases from ADNOC and other suppliers, including significant crude acquisitions from the UAE and Brazil, have bolstered inv
 
 ## 30 million barrels of oil storage: India, UAE work to expand strategic reserves - here’s why it’s significant
 As India moves to strengthen its energy security amid persistent geopolitical risks in the Middle East, New Delhi and Abu Dhabi have started implementing initiatives announced during PM Modi's visit to the UAE last month.
@@ -72,71 +87,65 @@ Gold and silver price prediction today: Gold prices are seeing a bearish structu
 ## ITR filing FY 2025-26: What is Form 26AS & what if it has errors? Things taxpayers should do to avoid getting a tax notice
 First, let’s understand what Form 26AS is – it’s essentially a tax statement that is linked to the taxpayer’s PAN. It shows details of tax dedicated at source and tax collected at source. It’s a key document that is essential for taxpayers when filing their income tax return.
 
-## Top stocks to buy or sell today: Stock recommendations for June 11, 2026 - check list
-Top stock market recommendations: Bank of India, and Gail (India) Ltd have been recommended as buy calls, whereas Bajaj Auto is a sell recommendation by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for June 11, 2026.
+## ‘Arrogance', ‘nepotism’: Why is Abhishek Banerjee, not Mamata, the main problem of TMC rebels
+Tensions have been escalating within the TMC as veteran leaders have launched a rebellion, criticising Abhishek Banerjee's dominance.
 
-## India slashes excise duty on ethanol-blended petrol: Key details
-India has waived excise duty on blended petrol containing 22-30% ethanol as part of a push to increase ethanol usage. This move coincides with rising fuel prices due to the Middle East crisis, prompting plans for discounted E85 fuel and continued availability of E20 petrol nationwide.
+## ‘Severed hand, as if she was pleading’: A year later, forensic expert recalls AI-171 crash horror
+HP Sanghvi, and his team of 38 forensic scientists, worked relentlessly for 15 days to sift through the biological samples.
 
-## In growth push, Zee plans to raise Rs 2. 3k crore
+## Congress to launch agitation against unemployment, paper leak from June end
+The development comes a day after the Bharatiya Janata Party (BJP) celebrated PM Modi’s achievement as the country’s longest continuously-serving elected Prime Minister
 
+## Why Kalyan Banerjee has given an ultimatum to TMC supremo Mamata
+“Let Didi decide what she wants to do. Till now I am with her,” Kalyan Banerjee said. “If Didi decides to go with Abhishek then I would decide my own."
 
-## ADIA arm to sell 2.3% stake in Lenskart
+## ‘Salary decent, but…’: CBSE OSM whistleblower Nisarga says IIT Kanpur pay is less than what he expected
+Nisarga Adhikary, who flagged vulnerabilities in CBSE's OSM system, says he misses the financial advantage of earning in dollars.
 
+## Rajasthan police rescue 15 girls, arrest 11 after busting child trafficking gang
+Police said the gang targeted poor, indebted families, primarily from the Kanjar community, and purchased girls by promising jobs
 
-## SC refuses to stall MP Rajya Sabha poll process, lists Meenakshi Natarajan’s plea for Friday
-The court’s order came amid concerns raised by the Congress that Thursday was the last date for withdrawal of nominations.
+## Three held for duping DRDO employee of over ₹15 lakh in online investment scam
+Three held for duping DRDO employee of over ₹15 lakh in online investment scam
 
-## Who is Saayoni Ghosh? Once a Mamata ally, now in focus over ‘joining’ TMC rebel camp
-Saayoni Ghosh, a prominent Trinamool Congress MP, is believed to have sided with the party's rebel faction, intensifying the internal crisis.
+## Saayoni Ghosh, Dev, Yusuf Pathan: Full list of ‘rebels’ in Mamata Banerjee's TMC
+Rebel TMC MP Kakoli Ghosh Dastidar alleged that nearly 20 party MPs had written to Lok Sabha speaker Om Birla to convey their support for the BJP-led NDA.
 
-## On cam: Bikers come, rain bullets at gym owner, kill him mid exercise in Haryana's Hansi
-A purported CCTV footage showed the gym owner, Kapil, being shot while conducting an outdoor exercise session for a group of six to seven people in Hansi.
-
-## The faces behind the TMC revolt - and why Mamata Banerjee should worry
-For Mamata Banerjee, the key concern is not the size of the Trinamool Congress dissident camp, but the stature of leaders choosing to break ranks.
-
-## Three missing Indian seafarers confirmed dead in US tanker attack near Oman: Govt
-The MT Settebello was carrying 24 Indian crew members when it was struck earlier this week, triggering a search and rescue operation.
-
-## Case filed over disappearance of reports from then Odisha CM Patnaik’s office
-One of the reports pertained to the killing of Vishva Hindu Parishad leader Swami Laxmanananda Saraswati, which triggered the 2008 Kandhamal riots
-
-## Homemakers are ‘nation builders’, their work worth minimum ₹30,000/month: Supreme Court
-Emphasising the central role played by women within families and society, the SC observed that term “homemakers” should acquire the status of “nation builders”
-
-## Orange alert for rain in Delhi, Himachal; downpour likely in Kerala: Weather wrap today
-The maximum and minimum temperatures over Delhi are likely to be in the range of 39°C to 41°C and 30°C, respectively, according to the IMD bulletin for the day.
-
-## Wanted in murder, extortion cases, Haryana gangster Venkat Garg extradited from Georgia
+## Who is Badshah’s wife Isha Rikhi? Everything you need to know about Punjabi actress
 
 
-## Kerala reports suspected Nipah virus case — trader whose godown had fruit bats
+## ‘Illiterate’ petitioner with English signature raises high court suspicion; CBI probe ordered
 
 
-## Flashy lifestyle, sex parties, and $100m fraud in US: Who is Mahender Makhijani?
+## Riddhima Kapoor recalls Ranbir Kapoor, Alia Bhatt’s feedback after her debut: ‘Be yourself’
 
 
-## Virat Kohli refuses to pose as daughter Vamika waits for him: ‘Respect his privacy’
+## Sougata Roy interview: ‘Mamata must listen to grievances…One is about high-handedness of Abhishek Banerjee’
 
 
-## Giant fan-shaped structure hidden below Antarctica’s ice, scientists find
+## Why India are moving towards a Hardik Pandya vs Nitish Kumar Reddy debate
 
 
-## Couple wins Rs 25,000 payout for ‘mental stress’ over 200 undelivered wedding photos
+## Pune bakery owner yelled at Raj Kapoor over a loaf of bread: ‘You want it or not?’
 
 
-## ‘A strange haircut’: Virat Kohli debuts new pastel hairstyle after IPL 2026, fans react
+## Holding public office doesn’t mean losing right to privacy: Karnataka High Court
 
 
-## Mohali mayorol poll exposes AAP-BJP’s tacit understanding: Congress Councillors’ leader Rangi
+## Delhi’s nights turn hotter; IMD flags fresh squalls and hail risk till Friday
 
 
-## China initiates probe into J&T Express over safety management failures
-China’s postal regulator has opened an investigation into J&T Express over failures in safety management, sending shares of the Hong Kong-listed courier down as much as 11 per cent on Thursday. The State Post Bureau said it had formally launched a case against J&T Express Co after multiple work proc
+## To beat chip crunch, Chinese firm inks memory deal bigger than its sales
+Chinese memory module maker Biwin has signed a two-year agreement worth US$1.86 billion to secure flash memory chips, a deal larger than its annual revenue, as demand from artificial intelligence servers and data centres squeezes supply. Under the locked-volume, locked-price arrangement, Biwin would
+
+## China, Hong Kong stocks fall as AI bubble fears build up
+Asia-Pacific shares fell to a three-week low as fresh US strikes on Iran and concerns about an artificial intelligence (AI) bubble rattled markets around the world. The MSCI All Country Asia-Pacific Index dropped about 0.4 per cent on Thursday. Hong Kong’s Hang Seng Index fell 0.7 per cent, while th
+
+## J&T faces risk of tougher penalties, higher costs as China opens formal safety probe
+China’s postal regulator has opened an investigation into J&T Express over failures in safety management, escalating scrutiny of the courier operator and raising investors’ concerns about the impact of heavier penalties, higher compliance costs and safety oversight on its international operations. T
 
 ## Hong Kong’s pivot to emerging sectors secures its spot as top choice for tech firms: HKEX
-Hong Kong has become the top listing choice for tech firms amid the rise of Asia in global innovation, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing (HKEX). The comments come as the city’s capital markets maintain momentum despite recent fluctuations, with over HK$166 bill
+Hong Kong has become the top listing choice for tech firms amid the rise of Asia in global innovation, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing (HKEX). The tech listings boom has prompted the city’s exchange to review its listing regime to better accommodate high grow
 
 ## China Resources New Energy’s US$3.6 billion IPO smashes records on Shenzhen exchange
 China Resources New Energy Holdings, the spin-off of a state-backed power producer, has smashed multiple records on the Shenzhen Stock Exchange, as it prepares to become the biggest initial public offering (IPO) and the first so-called red-chip company to trade on the bourse. The wind and solar powe
@@ -150,11 +159,8 @@ Our report that China’s landmark Pinglu Canal is set for trial operations in S
 ## BYD powers past Geely as oil shock charges up global EV demand
 The global energy crisis has helped propel BYD back into pole position in China’s automotive sector, allowing it to regain ground on Geely Auto as demand for battery-powered vehicles accelerates worldwide. The Shenzhen-based electric vehicle (EV) maker, which lost its title as mainland China’s large
 
-## Global AI trade flashing signals reminiscent of the dotcom bust, analysts warn
-The global artificial intelligence trade is flashing signals reminiscent of past market tops, with winners outpacing the broader market by a wide margin and a slew of jumbo initial public offerings (IPOs) in the pipeline. The gap between richly valued stocks and cheaper ones had reached extremes see
-
-## From Sick Care to Healthcare
-As Hong Kong recalibrates its role in a rapidly evolving regional healthcare landscape, Tony Cheng, Managing Director and General Manager of Merck Healthcare Hong Kong & Macau, is redefining what success looks like in pharma, and explaining why prevention, not profit alone, may be the real measure o
+## The Hegseth Shock for New Zealand
+Accusations of defense “freeloading” hit the third rail of Wellington’s politics.
 
 ## Somalia’s Fragile Government May Be on the Verge of Collapse
 After disputes culminated in fighting last week, the country’s political system is in doubt.
@@ -177,32 +183,38 @@ Rather than a new international framework, we need a system for moving from one 
 ## Exporting U.S. Military AI Won’t Be Easy
 Middle powers have alternatives, and AI labs have opinions.
 
-## Progressives Should Show Real Solidarity With China
-Don’t let Chinamaxxing come at the expense of meaningful engagement with Chinese workers and activists.
+## Why the Indo-Pacific Trade Hinges on East Africa
+The region's ports, sea lanes, and gas fields have become an important part of geopolitical competition, from the Gulf to the Pacific Ocean.
+
+## Why UMNO is the Biggest Beneficiary of Malaysia’s PAS-Bersatu Divorce
+The fracturing of the opposition camp could give Malaysia's grand old party a springboard back to federal prominence.
+
+## Philippine Foreign Secretary Says She Will Meet Myanmar Opposition Groups Soon
+The announcement comes as ASEAN member states move to normalize their relations with the new "civilian" government in Naypyidaw.
+
+## Philippines Urges China to Remove ‘Movable Platform’ at Disputed South China Sea Shoal
+The country's coast guard said that the structure, which first appeared on satellite images on May 25, may be supporting unauthorized marine research.
+
+## Patent Trolls and What’s Next in Tech Competition with China
+The country's share of global patent filings has grown rapidly in recent years, part of a deliberate strategy to make IP and patents a new tool of economic competition.
+
+## What the Hormuz Energy Crisis is Teaching Taiwan About Marine Insurance
+Taipei’s energy supply is secured for now, but it faces a separate concern of whether insurers will cover the ships that are needed to deliver it.
+
+## Australia-Germany 2+2 Ministerial Highlights an Expanding Network of Partners
+Canberra likely hopes that its relationship with Berlin will come to hold a similar importance as those with Washington, London, and Tokyo.
 
 ## Why the India-Oman CEPA is Special
 Much of Oman’s coastline lies outside the Strait of Hormuz. With CEPA kicking in on June 1, India will be looking to benefit from the agreement and Oman’s geography.
 
-## A Death in Detention Puts Tajikistan’s Police on Trial
-Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
+## Wargaming for Improved Acquisition: What Does It Take?
+A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a leading university, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal
 
-## Ethnic Restaurants and Immigrant Entrepreneurs Facing Crisis Under Japan’s New Visa Rules
-While the government views the new rules as a necessary measure to curb abuse, some observers worry that they may also deter genuine entrepreneurs.
+## The Chain of Peace: Do Supply Chain Chokepoints Deter War?
+The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. ASML, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to produce the world’s most advanced semicond
 
-## The Democratic Dilemma in South Korea’s Local Election Ballot Shortage
-President Lee sold Korean democracy abroad as a system that fixes itself. Now his party and the administration have to prove it by holding the election commission to account without handing the conspiracy theorists a win.
-
-## Why Does the G7 Keep Inviting India to its Summits?
-India’s recurring invitations reveal as much about New Delhi’s ambitions as about the G7’s adaptation to the changing times.
-
-## Long Night Over Hualien: The China Threat Through the Eyes of Taiwan’s Indigenous Peoples
-“The current situation is not the fruit of our choosing, but of history itself.”
-
-## Can Northeast Asia’s New Geopolitical Reality Create Opportunities for Mongolia?
-Within the emerging geopolitical landscape, Mongolia may have opportunities to diversify its economic partners.
-
-## As Integration in the Greater Bay Area Accelerates, Small Businesses in Macau Suffer
-Drawn by lower prices, a wider variety of products and convenience, Macau’s residents have taken to spending in mainland China.
+## The Maritime Action Plan Needs a Yardstick: Enter the Mahan Ratio
+Washington is littered with the corpses of grand plans to restore the Merchant Marine. The Trump administration’s Maritime Action Plan is the latest attempt, and to its credit, the most comprehensive since World War II.The plan is the government’s blueprint to resurrect America’s commercial shipping
 
 ## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
 Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
@@ -218,15 +230,6 @@ Rarely a week passes without a new story about Russia’s shadow fleet. Tankers 
 
 ## Is Skepticism Ukraine’s Foreign Policy Playbook?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## The Lawmakers Fighting to Modernize the Pentagon
-Congress rarely moves fast, but Reps. Rob Wittman and Pat Ryan are trying to change that. The two lawmakers founded the bipartisan House Defense Modernization Caucus in 2024 and have driven reforms through two consecutive defense authorization acts, targeting acquisitions and other bottlenecks. Jona
-
-## What Beirut’s Port Scanners Miss About Militant Supply Chains
-At the Port of Beirut, the new scanners did exactly what they were built to do. They saw the lithium batteries. They saw the drone propellers. They saw the fiber optic cable. They matched the scans against the paperwork, found no obvious deception, and cleared the cargo.That was the problem.The thre
-
-## The Pentagon’s AI Edge Is Being Distilled Away
-Adversaries do not need to breach the Pentagon’s systems: They only need to harvest the logic of the publicly released frontier AI models that underpin them. This is a defining risk as the Department of Defense pivots to an “AI-first” warfighting machine. In this new context, military predominance i
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +255,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup 2026: Full match schedule, groups, teams and start times
-Al Jazeera's teams, groups, key dates and kickoff times list for World Cup 2026 in Canada, Mexico and the United States.
+## India’s workers are training AI robots to take their jobs
+Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
 
-## How much heat does an AI data centre produce, and where are they located?
-Data centres don't just use large amounts of water and electricity, they're heating the environment too, study finds.
+## Mexico’s historic Azteca Stadium to kickoff World Cup opener: All to know
+Mexico City's iconic Estadio Azteca will become the first venue to host matches at three separate World Cups.
 
-## FIFA World Cup 2026: Haiti forced to change kit over war imagery
-An illustration of the Battle of Vertieres in 1803, with the Haitian flag, had been embedded on the kits.
+## Three Indian sailors killed in US strike on oil tanker
+A US strike on an oil tanker accused of transporting Iranian oil has killed three Indian sailors.
 
-## Thailand court sentences two men to death for 2015 Bangkok bombing
-The August 2015 attack at the popular Erawan Shrine in Bangkok's commercial heart killed 20 and wounded over 100 more.
+## World celebrates, but Gaza watches the World Cup from a distance
+Amid war and ruins, Gaza footballers keep training but feel erased from the World Cup and global football stage.
 
-## Iran war day 104: Iran says it attacks US bases after American strikes
-Iran says it launched retaliatory strikes on US bases in the region after America launched new attacks inside Iran.
+## World Cup Day 1: Schedule, predictions, opening ceremony and what to watch
+The biggest FIFA World Cup ever starts today in Mexico. Here are the schedule, predictions, key stories shaping day one.
 
-## Why India’s deadly dengue crisis is now no longer confined to the monsoons
-Experts warn that rising temperatures, erratic rainfall and rapid urbanisation have transformed the seasonal disease.
+## UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict
+Fund will provide humanitarian support to Palestinians, crack down on Israeli settlers and support Gaza peace plan.
 
-## Knicks one win away from NBA title after record comeback against Spurs
-New York Knicks rally to defeat the San Antonio Spurs by a point in a thrilling Game 4 of the NBA finals series.
+## South Korea vs Czechia: World Cup group match – teams, start and lineups
+Asian giants South Korea face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.
 
-## Bolivian farmers clash with police as ex-president vows resistance
-Bolivian farmers clash with police as ex-president vows resistance.
+## Gold is now the top reserve asset. Is dollar dominance at risk?
+Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.
+
+## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
+Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
@@ -291,14 +297,11 @@ Manikandan M says the bank has built ECL models and data sets ahead of the RBI's
 ## Indian CFOs remain Asia-Pacific's most optimistic despite Middle East conflict
 Indian chief financial officers remain the most optimistic in Asia Pacific about their businesses and the domestic economy despite escalating geopolitical tensions in the Middle East, although most expect the conflict to negatively affect economic activity and corporate performance, according to the
 
+## AI, Compliance and Margins: CFOs Say Finance Is Being Rebuilt in Real Time
+At ClearTax Presents Beyond, in association with ETCFO, finance leaders from NSDL, Tata Play, Bayer Bioscience and Trent debated the real cost of transformation, the limits of margin defence, and why the tax department now knows more about your business than you do.
+
 ## Why workforce planning is fast becoming the CFO’s most high-stakes investment
 Workforce planning is shifting from HR's cost-control focus to the CFO's strategic agenda. Businesses now view talent as a key asset, prioritizing skills like AI and data engineering for competitive advantage. This necessitates a move from headcount to skills-based investment, with ROI measured by i
-
-## Indian firms received far less govt support than Chinese peers during 2005-24: OECD report
-​OECD MAGIC Database of Industrial Subsidies measures what firms actually receive (not what governments disclose), covering 525 of the world's largest manufacturers across 15 key sectors over 2005-24, through three instruments: grants, income-tax concessions, and below-market borrowings (cheap state
-
-## Exclusive: Livspace CFO Abhishek Gupta resigns after brief stint
-Finance veteran exits home interiors company months after joining; set to take up a larger Group CFO role at a major conglomerate.
 
 ## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
 The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
