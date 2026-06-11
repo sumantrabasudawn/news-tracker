@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Trump names former SEC head Jay Clayton as US intelligence chief
-President has faced backlash in Congress over his pick of Bill Pulte as acting director of national intelligence
+## World Cup of disunity kicks off in Mexico
+Mexican beat South Africa in first game as the three hosts feud and fans fear US immigration crackdown
 
 ## Musk’s SpaceX raises $75bn in world’s biggest IPO
 Rockets-to-AI group priced its shares at $135 in deal that drew blockbuster investor demand
+
+## FirstFT: SpaceX raises $75bn in world’s biggest IPO
+Also in today’s newsletter: Trump says US close to deal with Iran, and China cancels high-level meetings with EU
+
+## Trump names former SEC head Jay Clayton as US intelligence chief
+President has faced backlash in Congress over his pick of Bill Pulte as acting director of national intelligence
 
 ## Trump says US close to deal with Iran and calls off strikes
 Markets rally and oil prices dip as US president claims agreement will reopen Strait of Hormuz
@@ -17,12 +23,6 @@ Previously talked of as a potential caretaker prime minister, his efforts as def
 
 ## Can Trump make a deal with Iran?
 What does the price of oil tell us about the possibility for peace?
-
-## Keir Starmer weakened by John Healey’s scathing resignation
-Defence secretary’s exit may turn out to be the first of many in the coming weeks
-
-## World Cup of disunity kicks off in Mexico
-Mexican team takes on South Africa as the three hosts feud and fans fear US immigration crackdown
 
 ## Corporate climate plans arbiter draws critics on new ‘net zero’ rule book
 Companies able to claim they have made ‘best efforts’ even if they fall short of climate goals
@@ -42,8 +42,14 @@ Iceland chair Lord Richard Walker, appointed by Starmer in February, calls syste
 ## The ‘new joule order’ is here. The west is last to realise
 Electrification is the purchase of optionality and China bought more of it than any nation in history
 
-## It’s not easy when you’re big in Seattle
-Yet another proxy oddity
+## Iran says no final decision on any US deal, calls reports speculation
+Iranian officials said negotiations remain incomplete, with key differences still unresolved and US position shifts slowing progress
+
+## SpaceX IPO pushes Elon Musk’s net worth past $1 trillion
+SpaceX’s record-breaking IPO highlights the extraordinary investor confidence in Musk’s vision, even as debates grow over governance, valuation, and political influence
+
+## SpaceX raises $75 billion in mega IPO as investors bet on space future
+The IPO marks the largest-ever US public offering, surpassing Saudi Aramco’s previous record
 
 ## Air India Ahmedabad crash report may take a few more months to complete: sources
 Final investigation report likely in two-three months’ time; probe on track, say sources
@@ -59,15 +65,6 @@ The Kerala State Civil Supplies Corporation (Supplyco) has launched ‘Supplyco 
 
 ## Wheeled construction equipment sales fall 17.5% in May; JCB expands market lead
 Industry sales in May 2026 declined nearly 20 per cent sequentially, indicating a broad-based demand moderation in the segment
-
-## The sectors dominating India’s start-up landscape
-In India, start-ups have been created in different sectors of the economy, apart from technology and related sectors
-
-## Gujarat to set up space manufacturing hub in Ahmedabad
-Officials said the model is designed to make it easier for start-ups and smaller companies to enter the space sector by giving them access to high-end testing infrastructure that is typically available only with large organisations.
-
-## Rafale deal unlikely to be announced during PM Modi’s France visit
-France engaging with India’s demand for access to source codes, manufacture aircraft in India
 
 ## Countries protecting domestic industries, India no exception: Piyush Goyal on global trade
 India navigates global trade challenges by fostering dialogue and partnerships, even as nations increasingly protect domestic industries like steel. Minister Piyush Goyal highlighted that despite a less effective WTO, international trade largely operates under its framework. India is actively pursui
@@ -117,6 +114,18 @@ Each of the three vessels struck has had a complicated history with inspection d
 ## Congress' Pawan Khera now Rajya Sabha MP after being elected ‘unanimously’ with Kharge, others from Karnataka
 Congress chief Mallikarjun Kharge was elected ‘unanimously’ to the Rajya Sabha along with debutants Pawan Khera and Mansoor Ali Khan.
 
+## Delhi Confidential: Taking the LEAD
+
+
+## Base MBBS admissions on Class 12 marks: Tamil Nadu CM Vijay
+
+
+## Man from UP nabbed for sacrilege bid at Golden Temple complex
+
+
+## ‘Patriarchal preference for male child’: Supreme Court says strict enforcement of PCPNDT Act needed
+
+
 ## PWD gives nod for a consultant for structural audit of Signature Bridge in Delhi
 
 
@@ -129,17 +138,8 @@ Congress chief Mallikarjun Kharge was elected ‘unanimously’ to the Rajya Sab
 ## Delhi cop booked for assaulting woman and trespassing into Gurgaon society
 
 
-## Nigerian woman jumps to death during raid to bust drug manufacturing unit
-
-
-## 1 lakh flats needed for 5L living in Yamuna riverbed’s O-Zone: Delhi government preps plan
-
-
-## Himachal Pradesh doubles entry fee to wildlife parks for Indians and foreigners
-
-
-## Tata Sons board meets today to clear accounts, key governance issues not on agenda
-
+## Hong Kong developers rediscover pricing power amid firmer demand
+Prices for some new homes in Hong Kong have rebounded by as much as a third from the housing market’s lowest level a few years ago amid robust demand, according to analysts. Developers have priced new units this year in Tseung Kwan O, Wong Chuk Hang and Tai Wai between 7 and 36 per cent higher than 
 
 ## Innovation and integration are evolving the GBA from a safe harbour to a global contender
 [The content of this article has been produced by our advertising partner.] Over the last decade, worldwide markets have faced multiple sources of intense and sustained geopolitical risk. Trade wars and tariff skirmishes have coincided with military conflicts in both Europe and the Middle East. Thro
@@ -162,8 +162,14 @@ Blockbuster initial public offerings from tech champions such as Anthropic and S
 ## China’s biotech industry sees global expansion as unstoppable, despite US pressure
 China’s biotech firms are pressing ahead with global expansion, a trend industry insiders describe as “irreversible”, even as Washington rolls out investment restrictions and national security measures aimed at slowing their advance. “The US has erected numerous regulatory and non-tariff barriers fo
 
-## Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US
-This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a tes
+## Peru’s Photo-Finish Election
+The presidential race could hinge on just a few thousand votes.
+
+## War and Circuses
+Trump juggles Iran, a World Cup, and a UFC cage fight.
+
+## Trump Backpedals on Planned Iran Strikes, Citing Deal Progress
+But Iranian news reports that Tehran has not yet agreed to a deal.
 
 ## Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
 The Trump administration is borrowing Russia’s “shadow fleet” tactics to get ships moving.
@@ -179,15 +185,6 @@ After three months of war, Tehran feels it has little left to lose.
 
 ## Sudan’s Rapid Support Forces Are Terrorists
 Designating the group as such could help bring an end to Sudan’s civil war.
-
-## How Soccer Became ‘Un-American’
-The sport is a marker of a particular relationship to the wider world.
-
-## Mexico Could Be the World Cup’s Biggest Winner
-As the United States closes itself off from the world, its co-host is doing the opposite.
-
-## FIFA’s Versailles Moment
-Soccer is egalitarian. The 2026 FIFA World Cup is anything but.
 
 ## Why Was Xi Jinping in North Korea?
 The seven-year gap since Xi’s previous visit to North Korea suggests a cooling in bilateral relations. What does it mean that he made the trip to Pyongyang at last?
@@ -261,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US lawmakers press Israel to let cancer patients out of Gaza for treatment
+Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.
+
+## Man pleads guilty to slaying top Democrat and her husband in Minnesota
+Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.
+
+## Jimenez and Quinones net as Mexico beat South Africa in World Cup opener
+World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.
+
+## World Cup mania at Mexico’s Zocalo Square
+Jubilant football fans at Mexico City’s Zocalo Square are ready for the World Cup Opener at the city’s centre.
+
+## What happened, and who performed at the World Cup 2026 opening ceremony?
+Musical performances, colour, and fan excitement precede the World Cup's opening game in Mexico City.
+
 ## How puppets are helping women and children in Gaza cope with trauma
 A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.
 
@@ -269,21 +281,6 @@ The return of unrest to the province, which suffered decades of sectarian violen
 
 ## Israel releases Hamas co-founder after two years in detention
 Israeli authorities released Hamas co-founder Hassan Yousef after more than two years in administrative detention.
-
-## Trump administration sanctions Cuba’s national oil company, blasts Castros
-Secretary of State Marco Rubio denounces Union Cuba-Petroleo as having 'unlawfully expropriated' US resources.
-
-## Mexico City dazzles as 2026 World Cup kicks off in style
-Fireworks and global stars light up Mexico City's kickoff of the 2026 World Cup at a revamped Azteca Stadium.
-
-## Trump to pick US attorney Jay Clayton for director of national intelligence
-Nomination comes amid pushback over Donald Trump's selection of Bill Pulte as acting director of the agency.
-
-## Israel deports French journalist accused of supporting Hamas
-Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.
-
-## China bars Philippines defence chief as South China Sea spat sails onwards
-Chinese individuals and organisations are also banned from doing business with Gilberto Teodoro and his family.
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
