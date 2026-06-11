@@ -1,28 +1,34 @@
 # AION Intelligence
 
+## Trump names former SEC head Jay Clayton as US intelligence chief
+President has faced backlash in Congress over his pick of Bill Pulte as acting director of national intelligence
+
+## Musk’s SpaceX raises $75bn in world’s biggest IPO
+Rockets-to-AI group priced its shares at $135 in deal that drew blockbuster investor demand
+
+## Trump says US close to deal with Iran and calls off strikes
+Markets rally and oil prices dip as US president claims agreement will reopen Strait of Hormuz
+
+## UK defence ministers resign as row over military spending escalates
+Concerns over budget spark flurry of resignations and criticism of Keir Starmer and Treasury
+
+## John Healey: the ex-trade unionist who privately battled the Treasury
+Previously talked of as a potential caretaker prime minister, his efforts as defence secretary could not generate the spending increase the military wanted
+
+## Can Trump make a deal with Iran?
+What does the price of oil tell us about the possibility for peace?
+
 ## Keir Starmer weakened by John Healey’s scathing resignation
 Defence secretary’s exit may turn out to be the first of many in the coming weeks
 
-## UK defence secretary resigns over spending plan
-John Healey says Keir Starmer ‘unable’ and Treasury ‘unwilling’ to provide essential budget
+## World Cup of disunity kicks off in Mexico
+Mexican team takes on South Africa as the three hosts feud and fans fear US immigration crackdown
+
+## Corporate climate plans arbiter draws critics on new ‘net zero’ rule book
+Companies able to claim they have made ‘best efforts’ even if they fall short of climate goals
 
 ## The AI public market floodgates are opening
 The huge sums that Wall Street is about to be asked for look like being only a down payment
-
-## Trump calls off Iran strikes planned for Thursday night
-US president claims progress in negotiations for new deal with Tehran
-
-## Trump’s Canada envoy ‘encouraged’ by Carney’s softer tone on US
-Pete Hoekstra tells Canada’s leaders to drop retaliation threats as Ottawa tries to save USMCA trade pact
-
-## ‘Toxic’ social media overwhelms police response to Belfast violence
-Fallout from knife attack and riots accelerated by online posting, current and former officers say
-
-## The Iran war is testing the limits of India’s economic resilience
-Modi will need to combine emergency measures with reforms to help the country rebound
-
-## Milei’s top aide admits hiding $500,000 from Argentine tax agency
-President’s spokesperson says he kept savings ‘off books just like the majority of Argentines’
 
 ## New York Knicks’ winning streak should rub off on its owner too
 Shares in Madison Square Garden Sports, which also owns hockey team the New York Rangers, have doubled in a year
@@ -38,12 +44,6 @@ Electrification is the purchase of optionality and China bought more of it than 
 
 ## It’s not easy when you’re big in Seattle
 Yet another proxy oddity
-
-## The unlikely alliance pushing an AI sovereign wealth fund
-Even some of the tech labs seem to agree that society as a whole should benefit from advances
-
-## Well actually, SpaceX is a UK growth stock
-POP goes a weasel
 
 ## Air India Ahmedabad crash report may take a few more months to complete: sources
 Final investigation report likely in two-three months’ time; probe on track, say sources
@@ -93,6 +93,15 @@ Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 
 ## Boost for litchi exports! Assam’s GI-tagged Tezpur litchi reaches Dubai, Singapore
 Assam's prized Tezpur litchi has made its international debut with the first export consignment reaching Dubai. This milestone, facilitated by APEDA, highlights efforts to boost Northeast agricultural exports. The GI-tagged fruit, celebrated for its exceptional taste and aroma, fetched farmers highe
 
+## Red alert in Delhi as thunderstorms, rain and strong winds likely to intensify from Friday
+The prevailing conditions are also expected to bring relief from the heat, with temperatures likely to dip over the next few days.
+
+## Nipah virus resurfaces in Kerala with 43-year-old bizman testing positive; 72 people in contact list
+Nipah virus reemerges in Kerala as a 43-year-old man tests positive. Health officials alert contacts, with 72 people identified for monitoring.
+
+## Three merchant ships hit by the US off Oman coast had a chequered past
+Three merchant ships, previously deemed unsafe or sanctioned, were struck by the US Navy off Oman, leading to the death of three Indian seafarers.
+
 ## Stone pelted at train with RSS chief Mohan Bhagwat on board, window glass of coach broken
 RSS chief Mohan Bhagwat was travelling in the same coach but was seated on the opposite side and remained unharmed.
 
@@ -108,37 +117,28 @@ Each of the three vessels struck has had a complicated history with inspection d
 ## Congress' Pawan Khera now Rajya Sabha MP after being elected ‘unanimously’ with Kharge, others from Karnataka
 Congress chief Mallikarjun Kharge was elected ‘unanimously’ to the Rajya Sabha along with debutants Pawan Khera and Mansoor Ali Khan.
 
-## Compensation for exam leak, paper-based evaluation: CJP announces 5 exam reform demands
-CJP called for compensation for students affected by paper leaks, re-examinations to be conducted within three days
-
-## Pilots’ body opposes interim report on AI171 crash, demands judicial probe
-Federation of Indian Pilots (FIP) president said the Aircraft Accident Investigation Bureau should release only a final report after completing the investigation.
-
-## Manipur BJP leader Sharda Devi wins Rajya Sabha seat unopposed
-The returning officer-cum-secretary of the Manipur Legislative Assembly handed over election certificates to Former Manipur BJP president Adhikarimayum Sharda Devi
-
-## Why hasn’t Iran’s economy collapsed despite 100 days of US-Israel war
+## PWD gives nod for a consultant for structural audit of Signature Bridge in Delhi
 
 
-## Five flight round-trips under Rs 20,000 from Delhi
+## Smoke detectors, fire extinguishers could soon be mandatory at homes in Delhi
 
 
-## ‘A smaller producer would have sold their house’: Ashoke Pandit on Ranveer Singh-Don 3 row
+## Fled over a year back, grew his network in Georgia: Gangster behind BSP leader’s murder extradited
 
 
-## Extensive damage to vehicle: Probe into Dadar BEST bus crash hits technical block
+## Delhi cop booked for assaulting woman and trespassing into Gurgaon society
 
 
-## Cool roofs, better warning system: Inside Gurgaon’s Rs 5-crore plan to tackle urban heat
+## Nigerian woman jumps to death during raid to bust drug manufacturing unit
 
 
-## Air India crash | ‘260 died…nobody will stay there’: Arunachal PG student who abandoned his lunch after emergency call that saved his life
+## 1 lakh flats needed for 5L living in Yamuna riverbed’s O-Zone: Delhi government preps plan
 
 
-## Gehlot has ‘same affection for me as he has for his son’: Sachin Pilot on ex-CM’s ‘accept mistake’ remarks
+## Himachal Pradesh doubles entry fee to wildlife parks for Indians and foreigners
 
 
-## Heart of the Beast trailer: Brad Pitt and his battle-scarred dog fight to survive
+## Tata Sons board meets today to clear accounts, key governance issues not on agenda
 
 
 ## Innovation and integration are evolving the GBA from a safe harbour to a global contender
@@ -165,6 +165,9 @@ China’s biotech firms are pressing ahead with global expansion, a trend indust
 ## Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a tes
 
+## Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
+The Trump administration is borrowing Russia’s “shadow fleet” tactics to get ships moving.
+
 ## When the Beautiful Game Meets the Ugliest Ego
 A recent history of the World Cup suggests the tournament can triumph over Trump.
 
@@ -185,9 +188,6 @@ As the United States closes itself off from the world, its co-host is doing the 
 
 ## FIFA’s Versailles Moment
 Soccer is egalitarian. The 2026 FIFA World Cup is anything but.
-
-## The Hegseth Shock for New Zealand
-Accusations of defense “freeloading” hit the third rail of Wellington’s politics.
 
 ## Why Was Xi Jinping in North Korea?
 The seven-year gap since Xi’s previous visit to North Korea suggests a cooling in bilateral relations. What does it mean that he made the trip to Pyongyang at last?
@@ -213,6 +213,9 @@ Organized crime groups with roots in Taiwan have become a useful tool for the CC
 ## Why the Indo-Pacific Trade Hinges on East Africa
 The region's ports, sea lanes, and gas fields have become the focus of growing geopolitical competition.
 
+## Strike, Counterstrike, Repeat
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Hostilities have increased notably in the last few days, effectively ending the U.S.-Iranian truce that had
+
 ## The Evolution of Ukraine’s Asymmetrical Combat Tactics
 In 2022, Scott Sweetow wrote, “Of Roadside Bombs and Drones: Putin’s Looming Insurgency Problem,” where he argued Ukraine’s fight against Russia would rely on a combination of conventional and asymmetrical insurgent tactics. Four years of combat later, we asked Scott to revisit his arguments.Image: 
 
@@ -233,9 +236,6 @@ It is in long periods of peace that victories and defeats are prepared. Peace is
 
 ## How Can Lebanon’s Partners Help Strengthen the Lebanese Armed Forces?
 The Lebanese state’s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However, figh
-
-## From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design
-Rarely a week passes without a new story about Russia’s shadow fleet. Tankers catch fire in the Mediterranean, are added to sanctions lists, or are boarded while passing through European waters. But the bigger story is not the vessels that are caught, but those that aren’t — ships moving between reg
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Two sentenced to death in Bangkok bombing
-Two men were sentenced to death in the 2015 Thai Erawan shrine bombing that killed 20 people and wounded more than 100.
+## How puppets are helping women and children in Gaza cope with trauma
+A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.
 
-## Pope Leo tells migrants: ‘I bow before your dignity’
-Pope Leo met with migrants and NGOs at a port in Spain’s Canary Islands dubbed the ‘dock of shame’.
+## Minister condemns ‘racist thuggery’ as violence returns to Northern Ireland
+The return of unrest to the province, which suffered decades of sectarian violence, has provoked deep concern.
 
-## Drone strikes on central Sudanese city kill up to 23: NGO
-Local rights group Emergency Lawyers blamed the attack on the RSF, which did not immediately claim responsibility.
+## Israel releases Hamas co-founder after two years in detention
+Israeli authorities released Hamas co-founder Hassan Yousef after more than two years in administrative detention.
 
-## Property deeds no protection for Palestinians as settler violence spreads
-Israeli settlers follow Palestinian Bedouins across the West Bank, chasing them from their land.
+## Trump administration sanctions Cuba’s national oil company, blasts Castros
+Secretary of State Marco Rubio denounces Union Cuba-Petroleo as having 'unlawfully expropriated' US resources.
 
-## US-Iran war to pull global economy to post-COVID low: World Bank
-Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.
+## Mexico City dazzles as 2026 World Cup kicks off in style
+Fireworks and global stars light up Mexico City's kickoff of the 2026 World Cup at a revamped Azteca Stadium.
 
-## Gold is now the top reserve asset. Is dollar dominance at risk?
-Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.
+## Trump to pick US attorney Jay Clayton for director of national intelligence
+Nomination comes amid pushback over Donald Trump's selection of Bill Pulte as acting director of the agency.
 
-## Stephen Miller’s War
-Unelected and unaccountable, Stephen Miller has become one of the most powerful figures in modern US history.
+## Israel deports French journalist accused of supporting Hamas
+Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.
 
-## Bahrain releases footage of damage caused by intercepted Iranian drones
-Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas
+## China bars Philippines defence chief as South China Sea spat sails onwards
+Chinese individuals and organisations are also banned from doing business with Gilberto Teodoro and his family.
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
