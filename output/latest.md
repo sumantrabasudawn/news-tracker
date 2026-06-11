@@ -1,130 +1,148 @@
 # AION Intelligence
 
-## US launches fresh wave of strikes on Iran
+## US and Iran exchange fresh wave of strikes
 Oil price rises as Washington and Tehran send mixed signals over status of the Strait of Hormuz
 
-## Trump’s Iran war has propelled China’s cleantech industry
-Disruption to global energy supplies sparks surge in demand for alternatives
+## Libor 2.0?
+The death of London’s infamous interest rate benchmark has left a hole
 
-## Oracle to spend $70bn on data centre build-out in coming year
-Shares in the database group drop as much as 8% in after-hours trading following flat revenue guidance
+## State-owned AI
+Plus sideways CPI
 
-## Lockheed Martin cannot say when US allies will get Patriot missiles
-Top executive says arms maker does not control allocation of PAC-3 interceptors, despite tripling production
+## Brussels begins decisive phase of negotiating shared budget
+Also in this newsletter: Hungary’s anti-graft pitch to unlock billions of euros
 
-## FirstFT: Seven people charged over deadly Hong Kong fire
-Also in today’s newsletter: US launches fresh wave of strikes on Iran, and BoJ governor Kazuo Ueda admitted to hospital
+## ‘South Korea’s Amazon’ hit with record fine over data breach
+Coupang told to pay $409mn after hack that exposed personal information of nearly two-thirds of population
 
-## Trump warns US will soon hit Iran ‘hard’ again
-President’s remarks come after countries exchange fire following downing of American helicopter
+## FirstFT: Iran threatens Hormuz after renewed US strikes
+Also in today’s newsletter: EU’s diplomatic service and investor dispute with Spain
 
-## UK to launch CO₂ supply push as pubs prepare for bumper beer sales
-Consultation comes as football fans look forward to start of World Cup and month of drinking
+## Private equity parties as LPs wait for cash
+The industry’s annual jamboree comes as firms struggle to sell holdings at desired valuations
 
-## US tech stocks sink as volatility flares up on Wall Street
-Latest bout of selling comes ahead of SpaceX’s historic market debut
+## Kathy Ruemmler helps search for her own replacement as Goldman’s top lawyer
+Bank’s decision to back executive after she resigned from the role over ties to Jeffrey Epstein sparked internal divisions
 
-## Mike Ashley’s Frasers offers to buy Hugo Boss in €2.7bn deal
-Retail billionaire could use bid to increase stake in German fashion group rather than taking full control
+## Toyota and JLR warn ‘Made in Europe’ plan threatens investment and jobs
+Proposals spark outcry from carmakers that export vehicles to EU from countries such as the UK, Turkey and Morocco
 
-## EU plans to protect industries from carbon costs if they invest in the bloc
-Brussels weighs scheme to provide free emission allowances beyond the existing 2039 schedule
+## Can Europe build a new fighter jet after Germany scraps joint venture?
+Collapse of €100bn project with France leaves countries at a crossroads
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Ajanta Pharma (₹3,073) – BUY
-Sensex, Nifty, Share Prices LIVE: Traders can buy Ajanta Pharma shares now at ₹3,073. Accumulate on dips at ₹3,010. Keep the stop-loss at ₹2,885. Trail the stop-loss up to ₹3,120 as soon as the stock goes up to ₹3,180
+## Why the much-feared crunch in oil markets has yet to arrive
+Still-ample stocks and some more reactive producers and consumers look to have left the world better equipped to cope with disruption
 
-## US military launches fresh strikes on Iran as Trump warns of further escalation
-US Central Command said the attacks targeted multiple Iranian sites in response to what it called continued aggression from Tehran
+## A shorter third runway at Heathrow is better than none
+The UK airport and its airlines should stop fighting and compromise on expansion
 
-## Iran closes Strait of Hormuz after US strikes, escalating Gulf tensions
-The IRGC warned that any ship attempting to pass through the strategic waterway could be targeted, raising fears of a major global oil supply disruption
+## Canva launches Canva Offline, enabling users to create on the go
+Canva Offline saves users’ designs for offline access across devices and formats, allowing uninterrupted creation for up to 14 days without internet connection
 
-## Florida Supreme Court allows new GOP-drawn US House maps ahead of midterm elections
-Critics say the map is a case of partisan gerrymandering that weakens voter representation, while supporters argue it follows constitutional rules and meets election deadlines
+## Sensex today | Stock Market Live Updates: Markets off day’s low as Sensex gains 120 pts, Nifty above 23,200; investors remain cautious on West Asia tensions
+Sensex, Nifty, Share Prices LIVE: Equity benchmarks opened sharply lower on Thursday, tracking a global risk-off mood after a fresh escalation in the West Asia conflict and hotter-than-expected US inflation data rattled investor sentiment
 
-## US inflation climbs to 4.2% and hits 3-year high amid rising fuel costs
-The increase marks the third straight monthly gain, intensifying pressure on the Federal Reserve as it weighs interest rate decisions
+## Cabinet adopts a resolution to back Modi’s vision of Viksit Bharat@2047
+In a strong endorsement of the government’s political and developmental agenda, the Cabinet expressed its “full support” for Modi’s leadership in building a developed India by 2047 and lauded “his tireless dedication to public service”.
 
-## Trump congratulates Modi on becoming India’s longest-serving Prime Minister
-In a post on Truth Social, Trump praised Modi as a “strong, healthy, and wise” leader and wished him continued success
+## IT rout: Infosys, HCL Tech, TCS shares fall as Nifty IT declines 3% on global tech selloff
+Coforge, Persistent Systems and Tech Mahindra fell 3-4 per cent in early trade
 
-## India considers Canada as potential crude oil supplier, envoy says
-High Commissioner Dinesh Patnaik noted that officials from both sides are holding regular discussions to expand energy sourcing opportunities
+## NITI Aayog meet: Ramadoss urges TN CM to press the Centre on several demands
+Ramadoss says the Centre should also promote employment in Tamil Nadu by supporting the creation of new industrial estates, secure manufacturing units, shipbuilding industries, and production hubs
 
-## Iran conflict pushes global container shipping prices to near double levels
-Industry experts say freight rates are increasingly reflecting energy risk, particularly disruptions linked to the Strait of Hormuz, a key global oil route
+## Canada introduces bill to restrict social media access for under-16s
+Bill C-34, introduced by Identity and Culture Minister Marc Miller, aims to establish a legal framework to tackle online harms in Canada
 
-## Government may hold off on higher ethanol mandate
+## Stocks to watch, June 11: REC/PFC, Ultratech Cements, AVG Logistics, Dhruv Consultancy, PowerGrid, 3i Infotech
+Explore key stock movements and significant corporate developments involving REC, PFC, UltraTech, AVG Logistics, and more
 
+## Mumbai Metro revives mobile connectivity from Aarey JVLR to Acharya Atre Chowk on Aqua Line
+Services on the rest of the metro line from Science Centre to Cuffe Parade will be connected over the coming weeks
 
-## AI windfall for the public? Trump signals shake-up for tech giants
-US President Trump is pushing for major AI firms to "give back" to the public, potentially through government stakes or benefit mechanisms. He plans to meet top tech executives soon to discuss this proposal, aiming to enrich citizens and boost AI's popularity. Discussions about a "Public Wealth Fund
+## 30 million barrels of oil storage: India, UAE work to expand strategic reserves - here’s why it’s significant
+As India moves to strengthen its energy security amid persistent geopolitical risks in the Middle East, New Delhi and Abu Dhabi have started implementing initiatives announced during PM Modi's visit to the UAE last month.
 
-## Markets dumped India for AI stars. BlackRock says that’s a mistake
-BlackRock believes India's equity market is unfairly penalized for its limited direct AI exposure and oil price sensitivity. Despite record foreign outflows and a challenging macro environment, the asset manager remains constructive on India's medium- to long-term prospects, citing strong demographi
+## Trump asked if he is concerned about the latest inflation numbers. His answer: 'I love it'
+President Trump expressed an unexpectedly positive view on recent inflation data, "loving" the rise in consumer prices despite it being the fastest annual pace in over three years. He attributed the increase primarily to energy costs linked to the Iran conflict, claiming his administration's actions
 
-## Secret routes & ghost tankers: Here's why crude hasn't hit $200 yet
+## Gold, silver price prediction: Will gold, silver rates continue to move down? Check outlook on June 11, 2026
+Gold and silver price prediction today: Gold prices are seeing a bearish structure with the downtrend in place. Silver prices are trading cautiously, though with a negative bias, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
 
+## ITR filing FY 2025-26: What is Form 26AS & what if it has errors? Things taxpayers should do to avoid getting a tax notice
+First, let’s understand what Form 26AS is – it’s essentially a tax statement that is linked to the taxpayer’s PAN. It shows details of tax dedicated at source and tax collected at source. It’s a key document that is essential for taxpayers when filing their income tax return.
 
-## US stocks today: Wall Street mixed as tech stocks slide, Iran tensions weigh on sentiment
-Indian markets mirrored global trends with a mixed opening as tech stocks faced renewed selling pressure. Investors are also wary of escalating Middle East tensions and the possibility of prolonged high interest rates. Inflation data, while meeting expectations, added to concerns, while oil prices c
+## Top stocks to buy or sell today: Stock recommendations for June 11, 2026 - check list
+Top stock market recommendations: Bank of India, and Gail (India) Ltd have been recommended as buy calls, whereas Bajaj Auto is a sell recommendation by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for June 11, 2026.
 
-## Markets shake, money slows: Equity mutual funds see sharp dip in inflows
-Investor caution gripped the Indian mutual fund market in May, with equity fund inflows plummeting to a one-year low. Geopolitical tensions and rising oil prices dampened sentiment, leading to a significant drop in net inflows. While SIPs offered stability, the broader industry saw substantial outfl
+## India slashes excise duty on ethanol-blended petrol: Key details
+India has waived excise duty on blended petrol containing 22-30% ethanol as part of a push to increase ethanol usage. This move coincides with rising fuel prices due to the Middle East crisis, prompting plans for discounted E85 fuel and continued availability of E20 petrol nationwide.
 
-## 'Avoid trading this like the plague': Should you invest in SpaceX IPO?
-SpaceX's highly anticipated stock market debut could be historic, with a massive valuation and a significant portion of shares reserved for individual investors. While many are drawn to Elon Musk's vision and the company's potential, analysts and investors are divided over the lofty valuation and po
-
-## Cost of conflict: US inflation hits 3-year high as Iran war fuels energy shock
-US inflation hit a three-year high in May, soaring to 4.2% due to surging energy prices, particularly gasoline, driven by Middle East supply disruptions. This rise, the third consecutive monthly increase, pressures the Federal Reserve and poses a political challenge for the Trump administration ahea
-
-## Actor Sunny Leone on Karnataka CID radar in investment fraud case
-The CID is examining the movement of money connected to Shivam Associates and its promoter who is accused of collecting funds from 40, 7000 investors.
-
-## Congress to challenge Meenakshi Natarajan’s RS nomination rejection in Supreme Court
-Natrajan’s nomination was rejected after BJP leaders filed an objection, alleging she had concealed details of a pending case in her election affidavit.
-
-## PM Modi sets out vision built on reforms, speed as he marks 12 years in office
-PM Modi underlined his government’s agenda for the middle class, stressed on the reforms undertaken by his administration.
-
-## GE engine review delays final Air India crash report ahead of first anniversary
-The Boeing 787 Dreamliner, operating as Air India flight AI-171 from Ahmedabad to London Gatwick, crashed into a buildings of a medical college.
-
-## El Nino declared, all eyes now on monsoon march in India
-In India, El Nino is historically associated with weaker monsoons and harsher summers; the current season is tracking that pattern in some ways.
-
-## IIT Kanpur hires Nisarg Adhikary, teen who flagged flaws with CBSE's OSM system
-This week, Nisarg Adhikary was appointed Open-Source Intelligence (OSINT) and threat intelligence engineer at IIT Kanpur’s technology innovation hub C3iHub.
-
-## Now, Sushmita Dev quits TMC, exits RS
-TMC MP Sushmita Dev resigned from Rajya Sabha, citing personal reasons, following fellow MP Roy's departure, deepening the party's crisis.
-
-## ‘No future for TMC in Assam; West Bengal mandate made me quit’: Sushmita Dev
-Sushmita Dev resigns from TMC and Rajya Sabha, citing lack of future in Assam. She met Assam's CM post-exit, indicating potential political shifts.
-
-## After ascent to CM, Shivakumar’s ties with Bengaluru real estate firms back in focus
+## In growth push, Zee plans to raise Rs 2. 3k crore
 
 
-## ‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion
+## ADIA arm to sell 2.3% stake in Lenskart
 
 
-## GI tag for rice, irrigation, sewing machines: As Chhattisgarh CM travels to villages, residents queue up with requests
+## SC refuses to stall MP Rajya Sabha poll process, lists Meenakshi Natarajan’s plea for Friday
+The court’s order came amid concerns raised by the Congress that Thursday was the last date for withdrawal of nominations.
+
+## Who is Saayoni Ghosh? Once a Mamata ally, now in focus over ‘joining’ TMC rebel camp
+Saayoni Ghosh, a prominent Trinamool Congress MP, is believed to have sided with the party's rebel faction, intensifying the internal crisis.
+
+## On cam: Bikers come, rain bullets at gym owner, kill him mid exercise in Haryana's Hansi
+A purported CCTV footage showed the gym owner, Kapil, being shot while conducting an outdoor exercise session for a group of six to seven people in Hansi.
+
+## The faces behind the TMC revolt - and why Mamata Banerjee should worry
+For Mamata Banerjee, the key concern is not the size of the Trinamool Congress dissident camp, but the stature of leaders choosing to break ranks.
+
+## Three missing Indian seafarers confirmed dead in US tanker attack near Oman: Govt
+The MT Settebello was carrying 24 Indian crew members when it was struck earlier this week, triggering a search and rescue operation.
+
+## Case filed over disappearance of reports from then Odisha CM Patnaik’s office
+One of the reports pertained to the killing of Vishva Hindu Parishad leader Swami Laxmanananda Saraswati, which triggered the 2008 Kandhamal riots
+
+## Homemakers are ‘nation builders’, their work worth minimum ₹30,000/month: Supreme Court
+Emphasising the central role played by women within families and society, the SC observed that term “homemakers” should acquire the status of “nation builders”
+
+## Orange alert for rain in Delhi, Himachal; downpour likely in Kerala: Weather wrap today
+The maximum and minimum temperatures over Delhi are likely to be in the range of 39°C to 41°C and 30°C, respectively, according to the IMD bulletin for the day.
+
+## Wanted in murder, extortion cases, Haryana gangster Venkat Garg extradited from Georgia
 
 
-## Blind, disabled girl identifies attackers by voice, court denies bail to 3 juveniles in rape case
+## Kerala reports suspected Nipah virus case — trader whose godown had fruit bats
 
 
-## India A vs Afghanistan A Live Score, Tri Series 2026: Sooryavanshi in focus as IND-A take on AFG-A
+## Flashy lifestyle, sex parties, and $100m fraud in US: Who is Mahender Makhijani?
 
 
-## Record remittances cushioned India’s finances in FY26, but this is no long-term fix
+## Virat Kohli refuses to pose as daughter Vamika waits for him: ‘Respect his privacy’
 
 
-## ‘Feels abnormal not to fetch water’: Tankers reach Nandurbar villages after Express report
+## Giant fan-shaped structure hidden below Antarctica’s ice, scientists find
 
 
-## How justified is Mumbai’s outrage over viral videos of new Mrinaltai Gore flyover?
+## Couple wins Rs 25,000 payout for ‘mental stress’ over 200 undelivered wedding photos
 
+
+## ‘A strange haircut’: Virat Kohli debuts new pastel hairstyle after IPL 2026, fans react
+
+
+## Mohali mayorol poll exposes AAP-BJP’s tacit understanding: Congress Councillors’ leader Rangi
+
+
+## China initiates probe into J&T Express over safety management failures
+China’s postal regulator has opened an investigation into J&T Express over failures in safety management, sending shares of the Hong Kong-listed courier down as much as 11 per cent on Thursday. The State Post Bureau said it had formally launched a case against J&T Express Co after multiple work proc
+
+## Hong Kong’s pivot to emerging sectors secures its spot as top choice for tech firms: HKEX
+Hong Kong has become the top listing choice for tech firms amid the rise of Asia in global innovation, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing (HKEX). The comments come as the city’s capital markets maintain momentum despite recent fluctuations, with over HK$166 bill
+
+## China Resources New Energy’s US$3.6 billion IPO smashes records on Shenzhen exchange
+China Resources New Energy Holdings, the spin-off of a state-backed power producer, has smashed multiple records on the Shenzhen Stock Exchange, as it prepares to become the biggest initial public offering (IPO) and the first so-called red-chip company to trade on the bourse. The wind and solar powe
+
+## When high jewellery becomes strategy
+[The content of this article has been produced by our advertising partner.] Richard Mille’s RM HJ-02 Automatic Tourbillon elevates haute joaillerie from embellishment to a defining force in contemporary watchmaking. Strengthening a long-term vision for haute joaillerie Across the industry, haute joa
 
 ## Why Hong Kong should be very interested in the Pinglu Canal
 Our report that China’s landmark Pinglu Canal is set for trial operations in September was one of the most read the week it was published. Interestingly, most of those who read the report were from the United States, followed by Malaysia, Singapore, Canada, Australia and Hong Kong. The report had th
@@ -137,18 +155,6 @@ The global artificial intelligence trade is flashing signals reminiscent of past
 
 ## From Sick Care to Healthcare
 As Hong Kong recalibrates its role in a rapidly evolving regional healthcare landscape, Tony Cheng, Managing Director and General Manager of Merck Healthcare Hong Kong & Macau, is redefining what success looks like in pharma, and explaining why prevention, not profit alone, may be the real measure o
-
-## Before Elon Musk’s SpaceX, these were the world’s 5 largest IPOs
-This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The coming initial public offering (IPO) from Elon Musk’s SpaceX, 
-
-## Asia-Pacific home to more than a third of world’s top finance centres: Colliers
-Asia-Pacific cities account for 39 per cent of the top global financial services companies and about 36 per cent of the world’s leading financial centres, Colliers said. Supported by strong labour markets and venture capital activity, cities such as Singapore, Beijing, Shanghai and Hong Kong ranked 
-
-## UniIC, a smaller rival to CXMT, pushes for mainland China IPO amid memory supercycle
-Xi’an UniIC, a dynamic random-access memory (DRAM) manufacturer backed by China’s technology conglomerate Tsinghua UniGroup, is accelerating its push for a public listing in Beijing, joining its larger rival ChangXin Memory Technologies (CXMT) in seeking to ride the current memory supercycle. UniIC 
-
-## Mainland China set to raise US$2.2b in Hong Kong bond sale amid demand for yuan assets
-The Ministry of Finance announced on Wednesday that it plans to issue 15 billion yuan (US$2.2 billion) worth of sovereign bonds in Hong Kong next week, marking its third issuance this year and strengthening the city’s role as the world’s largest offshore yuan trading hub. Analysts expected the issua
 
 ## Somalia’s Fragile Government May Be on the Verge of Collapse
 After disputes culminated in fighting last week, the country’s political system is in doubt.
@@ -246,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran announces closure of Strait of Hormuz following US strikes
-Iranian officials say the Strait of Hormuz has been closed in response to US strikes.
+## World Cup 2026: Full match schedule, groups, teams and start times
+Al Jazeera's teams, groups, key dates and kickoff times list for World Cup 2026 in Canada, Mexico and the United States.
 
-## FIFA boss tells critics to ‘relax’ over Somali referee deportation
-FIFA boss tells critics to ‘relax’ over Somali referee deportation
+## How much heat does an AI data centre produce, and where are they located?
+Data centres don't just use large amounts of water and electricity, they're heating the environment too, study finds.
 
-## Maasai women turn drought into income through fodder farming in Tanzania
-As drought kills livestock, Maasai women are turning drought-resistant grass into animal feed and income.
+## FIFA World Cup 2026: Haiti forced to change kit over war imagery
+An illustration of the Battle of Vertieres in 1803, with the Haitian flag, had been embedded on the kits.
 
-## Mexico braces for celebrations, protests as World Cup opens amid tensions
-President Sheinbaum promises safe World Cup as host cities ramp up security after cartel violence scare and protests.
+## Thailand court sentences two men to death for 2015 Bangkok bombing
+The August 2015 attack at the popular Erawan Shrine in Bangkok's commercial heart killed 20 and wounded over 100 more.
 
-## Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes
-Tehran remains defiant amid US attacks, orders complete closure of Strait of Hormuz to all vessels.
+## Iran war day 104: Iran says it attacks US bases after American strikes
+Iran says it launched retaliatory strikes on US bases in the region after America launched new attacks inside Iran.
 
-## Iran attacks Bahrain, Kuwait, closes Hormuz Strait after fresh US strikes
-Iran claims drone strikes on bases in Bahrain and Kuwait, as US strikes Qeshm Island and ports along Hormuz.
+## Why India’s deadly dengue crisis is now no longer confined to the monsoons
+Experts warn that rising temperatures, erratic rainfall and rapid urbanisation have transformed the seasonal disease.
 
-## Trump’s claim of escorting oil through Hormuz won’t ease crisis
-Trump’s claim of escorting oil through Hormuz won’t ease crisis
+## Knicks one win away from NBA title after record comeback against Spurs
+New York Knicks rally to defeat the San Antonio Spurs by a point in a thrilling Game 4 of the NBA finals series.
 
-## Hegseth: Guantanamo Bay prisoners ‘should have been executed’
-US Defense Secretary Pete Hegseth says the prisoners of the US at Guantanamo Bay ‘should have been executed’.
+## Bolivian farmers clash with police as ex-president vows resistance
+Bolivian farmers clash with police as ex-president vows resistance.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
