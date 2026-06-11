@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Burnham rules out cash for Waspi women after Labour backlash
-Leadership hopeful’s hints at large spending commitments had raised fears over risk to UK fiscal position
+## The unlikely alliance pushing an AI sovereign wealth fund
+Even some of the tech labs seem to agree that society as a whole should benefit from advances
+
+## ECB raises interest rates for first time since 2023
+Central bank is first in G7 to increase borrowing costs in response to Middle East energy crisis
+
+## Trump vows to take ‘total control’ of Iran’s oil and gas markets
+US president says American forces will also seize control of key export hub Kharg Island
 
 ## UK defence secretary resigns over spending plan
 John Healey says Keir Starmer ‘unable’ and Treasury ‘unwilling’ to provide essential budget
 
-## FirstFT: Iran threatens Hormuz after renewed US strikes
-Also in today’s newsletter: Brokers prepare for SpaceX test and prediction markets take $2bn bets ahead of World Cup
+## Why Europe should not choose to go it alone
+A secure future depends on a revitalised transatlantic alliance
 
-## How bond markets can learn to love public debt
-There is ample room to be expansive within market-friendly fiscal rules
+## Well actually, SpaceX is a UK growth stock
+POP goes a weasel
 
-## Artificial chocolate will show what really shapes global trade
-Lab-grown cocoa is the latest synthetic commodity to challenge a natural product
+## Do You Love Me — a head-spinning and heartfelt mosaic of Lebanon
+Images and sounds from more than 20,000 sources make up Lana Daher’s densely textured documentary essay
 
-## Sneaker designer Philéo Landowski’s guide to Tokyo
-The French creative prodigy on the capital’s coolest book stores, thrift finds and noodles
+## Jeff Bezos says AI will bring ‘golden ages’ not mass job losses
+Amazon founder lays out vision for new $41bn AI lab Prometheus
 
-## The SpaceX ETF versus ‘hot money’ IPO arbitrageurs
-Daily liquidity meets SpaceX FOMO, and daily liquidity blinks first
+## India protests to US after three sailors killed in tanker attack
+New Delhi calls for ‘de-escalation’ in Gulf but appears to have little appetite for confrontation with Washington
 
-## ‘Anything could happen’: SpaceX IPO poses big test for Wall Street banks
-Elon Musk’s rockets-to-AI group is listing at a fixed price during a bout of volatility in US markets
+## World Bank warns El Niño risks driving up global food prices
+Weather phenomenon threatens to worsen problems for farmers dealing with high fertiliser costs due to Iran war
+
+## Russia ‘not looking for conflict’, says Nato’s top US commander
+General Grynkewich’s remarks come as Washington withdraws key assets from Europe
+
+## Arms maker Diehl in talks to build Ukrainian missile in Germany
+Groups to discuss whether they could jointly produce Fire Point’s Flamingo cruise missile
+
+## Why opposition to battery storage projects is growing across the US
+Resistance is rising as the technology becomes more essential to meet surging power demand
 
 ## MFS auditors investigated by UK accountancy regulator
 FRC probes firms that signed off accounts across collapsed UK mortgage lender’s network
 
-## Environmental reporting non-profit group CDP strikes private equity deal
-Permira to take majority stake in core operations under energy transition strategy
+## Govt nominates DFS Secretary Lohiya on central boards of RBI and SBI
+Lohiya nomination follows the superannuation of Nagaraju Maddirala
 
-## Beijing online shopping warning hits shares in Chinese tech groups
-Alibaba and JD.com admonished by regulator for misleading sales tactics during ‘6.18’ event
+## TN Chief Minister Vijay seeks greater Central support at NITI Aayog meet
+Addressing the 11th Governing Council Meeting of NITI Aayog in New Delhi, Vijay said, “Together, through partnership, mutual respect, and shared responsibility, we can build a prosperous, equitable, innovative, and sustainable India.”
 
-## After the final whistle: media groups battle for World Cup attention
-YouTube, podcasts and live events are opening new ways to monetise the tournament
+## SEBI suggests unified price bands for stocks listed on multiple exchanges
+The move aims to address price divergence caused when a stock is traded on one exchange but remains inactive on another
 
-## Applied Materials in Singapore and Japan’s new subsea cable approach
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## NCLT admits insolvency pleas against Anil Ambani and RInfra arm over ₹1,480 crore dues
+The loans, sanctioned in 2016, turned delinquent soon after, and despite invocation of Ambani’s s personal guarantee, repayment has not been made
 
-## El Nino has set in, Positive IOD likely by July, says Japanese weather body
-Positive IOD emergence may partly offset South-West Monsoon risks from El Nino
+## Prestige Group, BACL partners to build convention centre in Bangalore Airport, Prestige to invest ₹1800 cr
+Prestige plans to invest approximately ₹1,800 crore for this project. The construction is scheduled to begin by 2027, and a formal inauguration is targeted for 2031
 
-## Sensex slips 151 pts, Nifty below 23,200 as US-Iran tensions, IT & defence selloff weigh on sentiment
-Markets witnessed a brief recovery during the session amid easing crude oil prices, but the gains proved short-lived
+## Attractive short-term interest rates trigger demand for short-term funds from banks and India Inc
+Experts observed that the current softness in money market rates makes short-term funding attractive
 
-## AI will create more jobs than disrupt them; engineers must adapt: Microsoft’s Rajiv Kumar
-He said Indian engineers must move beyond fears of AI replacing jobs and focus on adapting, upskilling, and collaborating with the technology
+## TCS partners with Anthropic to accelerate enterprise AI adoption with Claude
+TCS will equip 50,000 associates across engineering, finance, legal, marketing and sales with Claude through enterprise-wide licensing.
 
-## Akasa Air launches SkyCadet pilot training programme to build future-ready aviation workforce
-The initiative, developed with approved Flight Training Organisations, aims to strengthen India’s pilot pipeline amid rapid growth in the aviation sector
+## Capex by CPSEs, Railway Board, NHAI touched over 17% in April-May
+Over ₹1.44 lakh crore spent in two months of FY27; GAIL (India) tops the table
 
-## GHIAL remits ₹12.28 cr dividend to Telangana govt
-The latest remittance followed an earlier dividend payout of ₹36.85 crore made in February 2026 to the Government of Telangana
+## SpaceX IPO tomorrow: Could Elon Musk become world's first trillionaire? Decoding the math
+Elon Musk may soon become the world's first trillionaire. This is due to the upcoming initial public offering of his company SpaceX. The IPO is expected to be the largest in history. If valuations hold true, Musk's personal fortune could surge past the trillion-dollar mark. This event could reshape 
 
-## PM Surya Ghar: Net metering consumers giving up Centre’s subsidy are exempt from domestic content norms
-Under the PMSG: MBY, residential consumers can opt out of the Central Financial Assistance (CFA) in the “Give It Up” campaign to extend benefits to more consumers
-
-## SBI, ICICI, HDFC Bank raise FCNR(B) rates to tap NRI foreign currency deposits
-The move follows the Reserve Bank of India’s foreign currency swap window announcement, which reduced the currency hedging cost for banks and enabled them to offer higher returns
-
-## India likely to boost urea imports beyond 17 LT as tender prices plunge over 50%
-Lowest bids fell below pre-Ukraine-war levels, prompting the government to consider expanding purchases if suppliers match L1 rates.
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Indian equity benchmarks closed lower on Thursday, impacted by global weakness, rising crude oil, and Middle East tensions. IT stocks saw significant selling, while banking and pharma offered some support. Markets experienced volatility throughout the session, reflecting investor caution amid geopol
 
 ## Wipro Rs 15,000 crore buyback opens - what it means for retail investors
 Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 per share, a significant premium over the current market price. The offer, valid until June 17, presents a potential arbitrage opportunity for retail investors. However, analysts suggest limited gains, with acceptance ra
@@ -81,107 +90,101 @@ As India moves to strengthen its energy security amid persistent geopolitical ri
 ## Trump asked if he is concerned about the latest inflation numbers. His answer: 'I love it'
 President Trump expressed an unexpectedly positive view on recent inflation data, "loving" the rise in consumer prices despite it being the fastest annual pace in over three years. He attributed the increase primarily to energy costs linked to the Iran conflict, claiming his administration's actions
 
-## Gold, silver price prediction: Will gold, silver rates continue to move down? Check outlook on June 11, 2026
-Gold and silver price prediction today: Gold prices are seeing a bearish structure with the downtrend in place. Silver prices are trading cautiously, though with a negative bias, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+## ‘Don’t treat me like a dustbin’: Kalyan attacks Abhishek Banerjee, warns Mamata
+Kalyan Banerjee said Abhishek should understand that the party is facing this distress because of him and he couldn’t go on disrespecting people
 
-## ITR filing FY 2025-26: What is Form 26AS & what if it has errors? Things taxpayers should do to avoid getting a tax notice
-First, let’s understand what Form 26AS is – it’s essentially a tax statement that is linked to the taxpayer’s PAN. It shows details of tax dedicated at source and tax collected at source. It’s a key document that is essential for taxpayers when filing their income tax return.
+## Goa medical intern found dead at Dona Paula beach, suicide suspected
+The intern doctor, who hailed from Kerala, was found by locals at Hawaii Beach, who informed the police.
 
-## ‘Arrogance', ‘nepotism’: Why is Abhishek Banerjee, not Mamata, the main problem of TMC rebels
-Tensions have been escalating within the TMC as veteran leaders have launched a rebellion, criticising Abhishek Banerjee's dominance.
+## BJP leader Tai Tagak wins Rajya Sabha seat from Arunachal Pradesh unopposed
+Senior Bharatiya Janata Party (BJP) leader Tai Tagak on Thursday won the Rajya Sabha seat from Arunachal Pradesh unopposed
 
-## ‘Severed hand, as if she was pleading’: A year later, forensic expert recalls AI-171 crash horror
-HP Sanghvi, and his team of 38 forensic scientists, worked relentlessly for 15 days to sift through the biological samples.
+## Maharashtra Cyber police register case against stand-up comedian Pranit More over ' ₹370 biryani' remark
+Pranit More faced backlash after a clip from his show surfaced where a man said he paid ₹370 for biryani on a date and deserved a “return” on his investment.
 
-## Congress to launch agitation against unemployment, paper leak from June end
-The development comes a day after the Bharatiya Janata Party (BJP) celebrated PM Modi’s achievement as the country’s longest continuously-serving elected Prime Minister
+## Mahua backs Abhishek amid nepotism jibes: 'Got first ticket due to Mamata, but has paid his dues'
+The TMC is facing one of the biggest internal challenges in its history, with a series of resignations and defections by senior leaders.
 
-## Why Kalyan Banerjee has given an ultimatum to TMC supremo Mamata
-“Let Didi decide what she wants to do. Till now I am with her,” Kalyan Banerjee said. “If Didi decides to go with Abhishek then I would decide my own."
+## CJP files police complaint, alleges man planted at Delhi protest to make anti-India remarks
+CJP identified an individual named Mayank Bhandari, who entered the June 6 protest and allegedly made controversial remarks on camera.
 
-## ‘Salary decent, but…’: CBSE OSM whistleblower Nisarga says IIT Kanpur pay is less than what he expected
-Nisarga Adhikary, who flagged vulnerabilities in CBSE's OSM system, says he misses the financial advantage of earning in dollars.
+## Haryana tourist missing in Valley of Flowers, drones deployed in search operation
+Authorities said Gabbar Singh, a resident of Faridabad in Haryana, failed to return from a trek on Tuesday evening, prompting them to launch an extensive search and rescue operation.
 
-## Rajasthan police rescue 15 girls, arrest 11 after busting child trafficking gang
-Police said the gang targeted poor, indebted families, primarily from the Kanjar community, and purchased girls by promising jobs
+## 3 BJP candidates win Rajya Sabha MP race after Meenakshi Natarajan’s exit
+Returning officer Arvind Sharma handed over certificates to BJP’s Rajneesh Agrawal, Tarun Chugh, and Mahesh Kevat after the deadline for withdrawals ended
 
-## Three held for duping DRDO employee of over ₹15 lakh in online investment scam
-Three held for duping DRDO employee of over ₹15 lakh in online investment scam
-
-## Saayoni Ghosh, Dev, Yusuf Pathan: Full list of ‘rebels’ in Mamata Banerjee's TMC
-Rebel TMC MP Kakoli Ghosh Dastidar alleged that nearly 20 party MPs had written to Lok Sabha speaker Om Birla to convey their support for the BJP-led NDA.
-
-## Who is Badshah’s wife Isha Rikhi? Everything you need to know about Punjabi actress
+## New IRCTC website to be launched by July 15: Here’s how train ticket booking may change
 
 
-## ‘Illiterate’ petitioner with English signature raises high court suspicion; CBI probe ordered
+## Janhvi Kapoor on stepping outside her comfort zone for Peddi: ‘I think it’s pretty cool’
 
 
-## Riddhima Kapoor recalls Ranbir Kapoor, Alia Bhatt’s feedback after her debut: ‘Be yourself’
+## Rs 370 biryani row: Maharashtra police register case against Pranit More, Himanshu Jangra
 
 
-## Sougata Roy interview: ‘Mamata must listen to grievances…One is about high-handedness of Abhishek Banerjee’
+## Is Shashwat Sachdev expecting a National Award for Dhurandhar?: ‘Awards are wonderful’
 
 
-## Why India are moving towards a Hardik Pandya vs Nitish Kumar Reddy debate
+## Sooryavanshi shines, but Afghanistan A beat India A in Dambulla tri-series clash
 
 
-## Pune bakery owner yelled at Raj Kapoor over a loaf of bread: ‘You want it or not?’
+## Dubai gold buyers ‘tripled’ their money? What jewellers are saying about the UAE gold boom
 
 
-## Holding public office doesn’t mean losing right to privacy: Karnataka High Court
+## Bombay HC asks Salman Khan’s Panvel neighbour to delete posts against actor
 
 
-## Delhi’s nights turn hotter; IMD flags fresh squalls and hail risk till Friday
+## UPSC Key: Zojila Tunnel, Birsa Munda and Outward-Inward remittance
 
+
+## China’s space start-ups eye IPO boom as SpaceX heads for record listing
+This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The landmark listing of US aerospace giant SpaceX is expected to a
+
+## China’s BYD claims Germany’s plug-in hybrid crown, disrupting market of iconic auto giants
+One out of every seven plug-in hybrid vehicles registered in Germany in May came from BYD, as the Chinese carmaker’s registrations surged 232 per cent in Europe’s largest auto market from a year earlier. With 6,169 vehicles registered there in May, BYD held a 2.6 per cent share of Germany’s new-car 
+
+## Citic Securities breaks Fitch’s rating ceiling with first ‘A’ category for Chinese brokerage
+China’s most profitable brokerage, and until recently its largest by assets, has become the first mainland securities firm to enter the A-category under Fitch Ratings’ framework, a milestone in China’s efforts to build globally competitive investment banks. Fitch, one of the world’s three major rati
+
+## Hong Kong, Indonesia move towards direct transactions in yuan, rupiah
+The People’s Bank of China, Hong Kong Monetary Authority (HKMA) and Bank Indonesia signed an agreement on Thursday to create a framework for bilateral transactions between Indonesia and Hong Kong. The parties aimed to implement a currency transaction framework for the direct exchange and settlement 
+
+## Why tech titans’ IPOs matter as much in China as in the US
+Blockbuster initial public offerings from tech champions such as Anthropic and SpaceX are about to fundamentally reshape global capital markets. This wave will redirect capital flows and alter valuations across the tech sector. As competition intensifies, investors worldwide will be forced to comple
+
+## China’s biotech industry sees global expansion as unstoppable, despite US pressure
+China’s biotech firms are pressing ahead with global expansion, a trend industry insiders describe as “irreversible”, even as Washington rolls out investment restrictions and national security measures aimed at slowing their advance. “The US has erected numerous regulatory and non-tariff barriers fo
+
+## Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US
+This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a tes
 
 ## To beat chip crunch, Chinese firm inks memory deal bigger than its sales
 Chinese memory module maker Biwin has signed a two-year agreement worth US$1.86 billion to secure flash memory chips, a deal larger than its annual revenue, as demand from artificial intelligence servers and data centres squeezes supply. Under the locked-volume, locked-price arrangement, Biwin would
 
-## China, Hong Kong stocks fall as AI bubble fears build up
-Asia-Pacific shares fell to a three-week low as fresh US strikes on Iran and concerns about an artificial intelligence (AI) bubble rattled markets around the world. The MSCI All Country Asia-Pacific Index dropped about 0.4 per cent on Thursday. Hong Kong’s Hang Seng Index fell 0.7 per cent, while th
+## Washington’s Asian Allies Need a Backup Plan
+A strategic rethink is needed in an era of U.S. unreliability.
 
-## J&T faces risk of tougher penalties, higher costs as China opens formal safety probe
-China’s postal regulator has opened an investigation into J&T Express over failures in safety management, escalating scrutiny of the courier operator and raising investors’ concerns about the impact of heavier penalties, higher compliance costs and safety oversight on its international operations. T
+## Iran Is Now More Dangerous Than Ever
+After three months of war, Tehran feels it has little left to lose.
 
-## Hong Kong’s pivot to emerging sectors secures its spot as top choice for tech firms: HKEX
-Hong Kong has become the top listing choice for tech firms amid the rise of Asia in global innovation, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing (HKEX). The tech listings boom has prompted the city’s exchange to review its listing regime to better accommodate high grow
+## Sudan’s Rapid Support Forces Are Terrorists
+Designating the group as such could help bring an end to Sudan’s civil war.
 
-## China Resources New Energy’s US$3.6 billion IPO smashes records on Shenzhen exchange
-China Resources New Energy Holdings, the spin-off of a state-backed power producer, has smashed multiple records on the Shenzhen Stock Exchange, as it prepares to become the biggest initial public offering (IPO) and the first so-called red-chip company to trade on the bourse. The wind and solar powe
+## How Soccer Became ‘Un-American’
+The sport is a marker of a particular relationship to the wider world.
 
-## When high jewellery becomes strategy
-[The content of this article has been produced by our advertising partner.] Richard Mille’s RM HJ-02 Automatic Tourbillon elevates haute joaillerie from embellishment to a defining force in contemporary watchmaking. Strengthening a long-term vision for haute joaillerie Across the industry, haute joa
+## Mexico Could Be the World Cup’s Biggest Winner
+As the United States closes itself off from the world, its co-host is doing the opposite.
 
-## Why Hong Kong should be very interested in the Pinglu Canal
-Our report that China’s landmark Pinglu Canal is set for trial operations in September was one of the most read the week it was published. Interestingly, most of those who read the report were from the United States, followed by Malaysia, Singapore, Canada, Australia and Hong Kong. The report had th
-
-## BYD powers past Geely as oil shock charges up global EV demand
-The global energy crisis has helped propel BYD back into pole position in China’s automotive sector, allowing it to regain ground on Geely Auto as demand for battery-powered vehicles accelerates worldwide. The Shenzhen-based electric vehicle (EV) maker, which lost its title as mainland China’s large
+## FIFA’s Versailles Moment
+Soccer is egalitarian. The 2026 FIFA World Cup is anything but.
 
 ## The Hegseth Shock for New Zealand
 Accusations of defense “freeloading” hit the third rail of Wellington’s politics.
 
 ## Somalia’s Fragile Government May Be on the Verge of Collapse
 After disputes culminated in fighting last week, the country’s political system is in doubt.
-
-## Trump Says More Strikes on Iran Are Coming
-Tehran will “pay the price” for stalling negotiations, the U.S. president warned.
-
-## Diagnosing the Israeli-Palestinian Conflict Doesn’t Solve It
-Two new books offer fresh explanations for what went wrong—but little on how to make it go right.
-
-## Europe Plans to Crack Down on Russia—but for Real This Time
-Trump and the Iran war gave Russia a boost. Brussels is fed up.
-
-## The Geopolitics of the World Cup
-How immigration, trade, and conflict are overshadowing soccer.
-
-## What Comes After Global Order
-Rather than a new international framework, we need a system for moving from one framework to the next.
-
-## Exporting U.S. Military AI Won’t Be Easy
-Middle powers have alternatives, and AI labs have opinions.
 
 ## Why the Indo-Pacific Trade Hinges on East Africa
 The region's ports, sea lanes, and gas fields have become an important part of geopolitical competition, from the Gulf to the Pacific Ocean.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India’s workers are training AI robots to take their jobs
-Developers believe that feeding first-person footage into specialised AI models will help robots copy human behaviour.
+## Israel’s Darkest Weapon | Al Jazeera Originals
+Investigation exposes decades of alleged Israeli torture and sexual violence against Palestinian detainees
 
-## Mexico’s historic Azteca Stadium to kickoff World Cup opener: All to know
-Mexico City's iconic Estadio Azteca will become the first venue to host matches at three separate World Cups.
+## Somali referee banned by US to officiate European Super Cup, UEFA says
+Omar Artan ​was named among match officials ​for 2026 World Cup but will miss the tournament after US refuses him entry.
 
-## Three Indian sailors killed in US strike on oil tanker
-A US strike on an oil tanker accused of transporting Iranian oil has killed three Indian sailors.
+## Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250: All to know
+Fight time, undercard, stats and how to watch as Topuria and Gaethje tussle in front of Donald Trump at the White House.
 
-## World celebrates, but Gaza watches the World Cup from a distance
-Amid war and ruins, Gaza footballers keep training but feel erased from the World Cup and global football stage.
+## I saw Kushner’s Albania resort up close — it is an environmental disaster
+The damage at Vjosa-Narta is not fake news. Bulldozers are tearing into one of Europe’s most precious wetlands.
 
-## World Cup Day 1: Schedule, predictions, opening ceremony and what to watch
-The biggest FIFA World Cup ever starts today in Mexico. Here are the schedule, predictions, key stories shaping day one.
+## Argentina fans denied US visas get free TVs to watch World Cup
+Argentina fans denied US visas get free TVs to watch World Cup.
 
-## UK, Australia, Canada launch $4m peace fund for Israel-Palestine conflict
-Fund will provide humanitarian support to Palestinians, crack down on Israeli settlers and support Gaza peace plan.
+## World chess body suspends Russia over activities in occupied-Ukraine
+Russia is accused of usurping control of the game in areas of Ukraine captured by Russian forces since 2022.
 
-## South Korea vs Czechia: World Cup group match – teams, start and lineups
-Asian giants South Korea face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.
+## Palestine Action activists could face UK ‘terror’ sentences: What we know
+Four members of the Palestine Action group could be sentenced as 'terrorists' over Elbit factory raid in 2024.
 
-## Gold is now the top reserve asset. Is dollar dominance at risk?
-Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.
+## Iran shuts Hormuz strait: But wasn’t it already closed?
+The strait is a crucial maritime route, through which 20 percent of global oil and natural gas is shipped in peacetime.
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
