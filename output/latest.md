@@ -1,7 +1,10 @@
 # AION Intelligence
 
 ## US launches fresh wave of strikes on Iran
-Second day of attacks puts fragile ceasefire under new strain and pushes up oil prices
+Oil price rises as Washington and Tehran send mixed signals over status of the Strait of Hormuz
+
+## Trump’s Iran war has propelled China’s cleantech industry
+Disruption to global energy supplies sparks surge in demand for alternatives
 
 ## Oracle to spend $70bn on data centre build-out in coming year
 Shares in the database group drop as much as 8% in after-hours trading following flat revenue guidance
@@ -21,17 +24,26 @@ Consultation comes as football fans look forward to start of World Cup and month
 ## US tech stocks sink as volatility flares up on Wall Street
 Latest bout of selling comes ahead of SpaceX’s historic market debut
 
-## ‘Pure racism’: East Belfast reels from riots led by masked young men
-Torched homes are a painful throwback to the Troubles that Northern Ireland is seeking to leave behind
-
 ## Mike Ashley’s Frasers offers to buy Hugo Boss in €2.7bn deal
 Retail billionaire could use bid to increase stake in German fashion group rather than taking full control
 
 ## EU plans to protect industries from carbon costs if they invest in the bloc
 Brussels weighs scheme to provide free emission allowances beyond the existing 2039 schedule
 
-## Oil tankers increase ‘dark’ transits through Strait of Hormuz
-Donald Trump says US launched ‘secret mission’ to help move crude through the waterway
+## Sensex today | Stock Market Live Updates: Stock to buy today: Ajanta Pharma (₹3,073) – BUY
+Sensex, Nifty, Share Prices LIVE: Traders can buy Ajanta Pharma shares now at ₹3,073. Accumulate on dips at ₹3,010. Keep the stop-loss at ₹2,885. Trail the stop-loss up to ₹3,120 as soon as the stock goes up to ₹3,180
+
+## US military launches fresh strikes on Iran as Trump warns of further escalation
+US Central Command said the attacks targeted multiple Iranian sites in response to what it called continued aggression from Tehran
+
+## Iran closes Strait of Hormuz after US strikes, escalating Gulf tensions
+The IRGC warned that any ship attempting to pass through the strategic waterway could be targeted, raising fears of a major global oil supply disruption
+
+## Florida Supreme Court allows new GOP-drawn US House maps ahead of midterm elections
+Critics say the map is a case of partisan gerrymandering that weakens voter representation, while supporters argue it follows constitutional rules and meets election deadlines
+
+## US inflation climbs to 4.2% and hits 3-year high amid rising fuel costs
+The increase marks the third straight monthly gain, intensifying pressure on the Federal Reserve as it weighs interest rate decisions
 
 ## Trump congratulates Modi on becoming India’s longest-serving Prime Minister
 In a post on Truth Social, Trump praised Modi as a “strong, healthy, and wise” leader and wished him continued success
@@ -41,21 +53,6 @@ High Commissioner Dinesh Patnaik noted that officials from both sides are holdin
 
 ## Iran conflict pushes global container shipping prices to near double levels
 Industry experts say freight rates are increasingly reflecting energy risk, particularly disruptions linked to the Strait of Hormuz, a key global oil route
-
-## India summons US envoy over strike on vessel off Oman coast, 3 Indians missing
-According to official statements, the vessel Settebello was struck during operations linked to US enforcement actions against ships allegedly violating a blockade involving Iranian ports
-
-## US dismantles overseas birth tourism networks, revokes hundreds of visas
-The State Department said embassies across Europe, West Africa, and North Africa uncovered organised schemes involving visa fraud, coaching systems, and coordinated travel arrangements
-
-## US hits Iran-linked arms network with fresh global sanctions
-According to the U.S. Treasury’s Office of Foreign Assets Control, nine of those designated are based in China and Hong Kong and were involved in facilitating procurement and financial transactions, including activity tied to a clandestine banking network
-
-## Trump says Iran will ‘pay the price’ as tensions escalate in region
-Trump said Tehran had delayed negotiations and called it ‘all talk and no action’, while hinting at possible new US strikes on Iranian infrastructure, including power plants and bridges.
-
-## RBI may ask banks to adopt risk-based internal audit approach
-The primary objective of RBIA is to provide the Board or its committees with reasonable assurance on the adequacy and effectiveness of the institution’s risk management and internal control framework.
 
 ## Government may hold off on higher ethanol mandate
 
@@ -81,53 +78,59 @@ SpaceX's highly anticipated stock market debut could be historic, with a massive
 ## Cost of conflict: US inflation hits 3-year high as Iran war fuels energy shock
 US inflation hit a three-year high in May, soaring to 4.2% due to surging energy prices, particularly gasoline, driven by Middle East supply disruptions. This rise, the third consecutive monthly increase, pressures the Federal Reserve and poses a political challenge for the Trump administration ahea
 
-## Manipur government will not remain mute spectator to atrocities: CM Khemchand Singh
-Manipur government will not remain mute spectator to atrocities: CM Khemchand Singh
+## Actor Sunny Leone on Karnataka CID radar in investment fraud case
+The CID is examining the movement of money connected to Shivam Associates and its promoter who is accused of collecting funds from 40, 7000 investors.
 
-## India summons US diplomat over attack on tanker off Oman
-India condemned a US attack on the tanker Settebello, leaving three Indian crew missing, and summoned a US diplomat to protest the incident.
+## Congress to challenge Meenakshi Natarajan’s RS nomination rejection in Supreme Court
+Natrajan’s nomination was rejected after BJP leaders filed an objection, alleging she had concealed details of a pending case in her election affidavit.
 
-## COVID-19 forced vulnerable Indian households into ‘impossible choices’: Study
-The new study by researchers from Lancaster University and the Indian Institute of Technology, Kanpur (IITK) was published in PLOS One
+## PM Modi sets out vision built on reforms, speed as he marks 12 years in office
+PM Modi underlined his government’s agenda for the middle class, stressed on the reforms undertaken by his administration.
 
-## ‘A great one he is’: Trump congratulates Modi on historic milestone; PM responds
-Trump posted his congratulatory message on his Truth Social platform shortly before 11 pm on Wednesday night. PM Modi’s reply followed about 30 minutes later.
+## GE engine review delays final Air India crash report ahead of first anniversary
+The Boeing 787 Dreamliner, operating as Air India flight AI-171 from Ahmedabad to London Gatwick, crashed into a buildings of a medical college.
 
-## Modi's 'Congress growth rate' jibe as PM marks 13th year in office: 'Nation’s destiny changed in 2014'
-PM Modi said that the country's growth picked up pace only when Atal Bihari Vajpayee-led NDA government came into power.
+## El Nino declared, all eyes now on monsoon march in India
+In India, El Nino is historically associated with weaker monsoons and harsher summers; the current season is tracking that pattern in some ways.
 
-## MEA summons US Charge d’Affaires Jason Meeks over attack on tanker off Oman coast, lodges strong protest
-Meeks was called in as Ambassador Sergio Gor was away from Delhi.
+## IIT Kanpur hires Nisarg Adhikary, teen who flagged flaws with CBSE's OSM system
+This week, Nisarg Adhikary was appointed Open-Source Intelligence (OSINT) and threat intelligence engineer at IIT Kanpur’s technology innovation hub C3iHub.
 
-## TMC in crisis, Abhishek Banerjee meets Rahul Gandhi to repair ties with Congress
-Abhishek’s meeting with Rahul comes a day after TMC chief Mamata Banerjee met PCC chairperson Sonia Gandhi at her residence for 50 minutes
+## Now, Sushmita Dev quits TMC, exits RS
+TMC MP Sushmita Dev resigned from Rajya Sabha, citing personal reasons, following fellow MP Roy's departure, deepening the party's crisis.
 
-## ‘Not circus animals’: Bengal LoP signals more resignations in TMC after Sushmita Dev
-Sushmita Dev was the second MP in the Upper House to resign from the party, after veteran leader Sukhendu Sekhar Ray.
+## ‘No future for TMC in Assam; West Bengal mandate made me quit’: Sushmita Dev
+Sushmita Dev resigns from TMC and Rajya Sabha, citing lack of future in Assam. She met Assam's CM post-exit, indicating potential political shifts.
 
-## Delhi Confidential: Guess Who?
-
-
-## Teacher suspended days after she joined ‘Cockroach Janta Part’ protest in Delhi
+## After ascent to CM, Shivakumar’s ties with Bengaluru real estate firms back in focus
 
 
-## Delhi Gymkhana files: Dead members dining, drone over VIP zone, crores in legal fees, auditor exit
+## ‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion
 
 
-## ‘Judgment indicates what we have always held’, says Newsclick founder after Delhi HC quashes money laundering charges
+## GI tag for rice, irrigation, sewing machines: As Chhattisgarh CM travels to villages, residents queue up with requests
 
 
-## Complainant in POCSO FIR against Avimukteshwaranand does a U-turn: ‘Was pressured into filing a fake case’
+## Blind, disabled girl identifies attackers by voice, court denies bail to 3 juveniles in rape case
 
 
-## Cyber fraud linked to over 159 cases across country unearthed, nearly Rs 67.92 cr routed through mule account
+## India A vs Afghanistan A Live Score, Tri Series 2026: Sooryavanshi in focus as IND-A take on AFG-A
 
 
-## Government approves price hike for 4 medicines, including 2 cancer drugs
+## Record remittances cushioned India’s finances in FY26, but this is no long-term fix
 
 
-## 3 Indians missing after attack on ship, Delhi summons US diplomat
+## ‘Feels abnormal not to fetch water’: Tankers reach Nandurbar villages after Express report
 
+
+## How justified is Mumbai’s outrage over viral videos of new Mrinaltai Gore flyover?
+
+
+## Why Hong Kong should be very interested in the Pinglu Canal
+Our report that China’s landmark Pinglu Canal is set for trial operations in September was one of the most read the week it was published. Interestingly, most of those who read the report were from the United States, followed by Malaysia, Singapore, Canada, Australia and Hong Kong. The report had th
+
+## BYD powers past Geely as oil shock charges up global EV demand
+The global energy crisis has helped propel BYD back into pole position in China’s automotive sector, allowing it to regain ground on Geely Auto as demand for battery-powered vehicles accelerates worldwide. The Shenzhen-based electric vehicle (EV) maker, which lost its title as mainland China’s large
 
 ## Global AI trade flashing signals reminiscent of the dotcom bust, analysts warn
 The global artificial intelligence trade is flashing signals reminiscent of past market tops, with winners outpacing the broader market by a wide margin and a slew of jumbo initial public offerings (IPOs) in the pipeline. The gap between richly valued stocks and cheaper ones had reached extremes see
@@ -146,12 +149,6 @@ Xi’an UniIC, a dynamic random-access memory (DRAM) manufacturer backed by Chin
 
 ## Mainland China set to raise US$2.2b in Hong Kong bond sale amid demand for yuan assets
 The Ministry of Finance announced on Wednesday that it plans to issue 15 billion yuan (US$2.2 billion) worth of sovereign bonds in Hong Kong next week, marking its third issuance this year and strengthening the city’s role as the world’s largest offshore yuan trading hub. Analysts expected the issua
-
-## Hong Kong debt market heats up as Tencent, Swire raise US$5.2b in multi-currency deals
-Hong Kong’s debt market is surging, with Tencent Holdings and Swire Pacific raising more than US$5.2 billion in fresh funding, underscoring the city’s growing role as an international bond hub. The issuers, ranging from China’s tech champion to one of its oldest conglomerates, offered bonds across m
-
-## Chinese carmakers race Tesla on humanoid robots; BYD launches ‘God’s Eye’: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s EV giants challenge Tesla in race to commercialise humanoid robots Chinese ele
 
 ## Somalia’s Fragile Government May Be on the Verge of Collapse
 After disputes culminated in fighting last week, the country’s political system is in doubt.
@@ -177,6 +174,9 @@ Middle powers have alternatives, and AI labs have opinions.
 ## Progressives Should Show Real Solidarity With China
 Don’t let Chinamaxxing come at the expense of meaningful engagement with Chinese workers and activists.
 
+## Why the India-Oman CEPA is Special
+Much of Oman’s coastline lies outside the Strait of Hormuz. With CEPA kicking in on June 1, India will be looking to benefit from the agreement and Oman’s geography.
+
 ## A Death in Detention Puts Tajikistan’s Police on Trial
 Six Dushanbe officers face a rare prosecution over the death of Maksudjon Saidov in custody but none of them is charged with torture.
 
@@ -197,9 +197,6 @@ Within the emerging geopolitical landscape, Mongolia may have opportunities to d
 
 ## As Integration in the Greater Bay Area Accelerates, Small Businesses in Macau Suffer
 Drawn by lower prices, a wider variety of products and convenience, Macau’s residents have taken to spending in mainland China.
-
-## Cockroach Janta Party: Is the Modi Government Wary of a ‘Gen Z Revolt’?
-Hitherto confined to social media, the "cockroaches" emerged on the ground at Delhi’s Jantar Mantar on June 6. What started as a joke has turned serious.
 
 ## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
 Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
@@ -249,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Canada introduces bill to ban social media for children under 16
-The bill also aims to make AI chatbots safer by establishing a digital regulator to set safety standards.
+## Iran announces closure of Strait of Hormuz following US strikes
+Iranian officials say the Strait of Hormuz has been closed in response to US strikes.
 
-## Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria
-Portugal beat Nigeria 2-1 as Pedro Neto and Francisco Conceicao net, but Cristiano Ronaldo scuffs golden chances.
+## FIFA boss tells critics to ‘relax’ over Somali referee deportation
+FIFA boss tells critics to ‘relax’ over Somali referee deportation
 
-## ‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran
-US Central Command has described the attacks as a result of 'Iran’s unwarranted and continued aggression'.
+## Maasai women turn drought into income through fodder farming in Tanzania
+As drought kills livestock, Maasai women are turning drought-resistant grass into animal feed and income.
 
-## Trump directs interim US intelligence chief Bill Pulte to downsize agency
-Interim ODNI chief Bill Pulte has been slammed by Democrats as a Donald Trump loyalist with no intelligence background.
+## Mexico braces for celebrations, protests as World Cup opens amid tensions
+President Sheinbaum promises safe World Cup as host cities ramp up security after cartel violence scare and protests.
 
-## Israel kills 16 in Lebanon, UN to probe international law violations
-UN investigators to arrive in Lebanon next week to assess potential violations of international law by all parties.
+## Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes
+Tehran remains defiant amid US attacks, orders complete closure of Strait of Hormuz to all vessels.
 
-## Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed
-Referee Omar Artan was denied from the US, where he was set to become the first Somali to officiate at a FIFA World Cup.
+## Iran attacks Bahrain, Kuwait, closes Hormuz Strait after fresh US strikes
+Iran claims drone strikes on bases in Bahrain and Kuwait, as US strikes Qeshm Island and ports along Hormuz.
 
-## Gwyneth Paltrow’s Israeli real estate ad goes viral
-Gwyneth Paltrow sparked widespread outrage by becoming the face of an Israeli real estate project.
+## Trump’s claim of escorting oil through Hormuz won’t ease crisis
+Trump’s claim of escorting oil through Hormuz won’t ease crisis
 
-## First image in months emerges of Dr. Hussam Abu Safia
-The first image in months of Gaza doctor Hussam Abu Safia has been released.
+## Hegseth: Guantanamo Bay prisoners ‘should have been executed’
+US Defense Secretary Pete Hegseth says the prisoners of the US at Guantanamo Bay ‘should have been executed’.
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
