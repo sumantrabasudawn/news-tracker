@@ -1,73 +1,82 @@
 # AION Intelligence
 
-## Oil sinks to three-month low after Trump says US close to Iran deal
-Stocks and government bonds make gains on hopes energy shock could ease
-
-## UK data suggests demand weakness leads inflation risks for BoE rate-setters
-Consumers expect prices to rise in the coming months but businesses appear more hesitant given weak demand
-
-## Police officer under criminal investigation over alleged use of AI
-Derbyshire Police says officer probed over allegations of perverting the course of justice
-
-## ECB stands ready to raise rates again, says Bundesbank boss
-Joachim Nagel signals rate-setters will keep ‘all our options open’
-
-## The Brexit Effect — postmortem finds neither triumph nor closure
-A decade after the referendum, Anthony Seldon’s anthology finds Britain still trapped between the promises and impact of splitting from the EU
-
-## Can We Be Rich Again? — Jeremy Hunt on how to fix the UK economy
-The former chancellor delivers a convincing, optimistic and detailed blueprint for growth — and a candid assessment of his own time in government
-
 ## Artist David Hockney dies aged 88
 Celebrated painter was known for works including the ‘Swimming Pool’ series
 
-## FirstFT: SpaceX raises $75bn in world’s biggest IPO
-Also in today’s newsletter: oil prices fall as Trump hails deal with Iran and David Hockney dies
+## US-Iran peace deal text agreed, says Pakistan’s PM
+Shehbaz Sharif’s comments come after Trump accused Tehran of misrepresenting pact’s details
 
-## BlackRock private credit fund honours less than 40% of redemption requests
-The firm’s $13bn HPS Corporate Lending Fund limits withdrawals for a second consecutive quarter
+## European defence stocks retreat on lower spending and higher wrangling
+Resignation of UK defence secretary shows some governments will struggle to find the money
 
-## Axa chief Thomas Buberl: ‘We need to adjust our definition of war’
-The insurance boss on the risks of social fragmentation, why Europe needs a sovereign wealth fund — and putting ‘my Germanness’ aside
+## Palantir loses legal challenge against Swiss investigative magazine
+Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
 
-## Corporate climate scheme SBTi walks delicate tightrope with new rule book
-Revised Corporate Net-zero Standard faces criticism over renewable energy rules
+## Trump’s bill threatens the singleness of money
+It might be improper to put the president’s face on the currency. It might also not work
 
-## US-backed fund explores buying stake in troubled French miner Eramet
-Orion CMC looking at Duval family’s stake in group where the French state is a shareholder
+## Stockpickers: CMC Markets, VP, Motorpoint
+Our experts discuss which companies to buy, sell or hold this week
 
-## Reader callout: how to help the ‘Neet’ in your life
-We want to hear your experiences ahead of warnings of a lost generation
+## Apollo selects Austin as site of second headquarters
+Private capital giant chose Texas city over Miami and Palm Beach as private schools’ capacity fills up in Florida
 
-## Whither SpaceX? Who knows
-¯\_(ツ)_/¯
+## Oil touches three-month low after Trump says US close to Iran deal
+Stocks and government bonds make gains on hopes energy shock will ease
 
-## NEET disruptors will face full face of law: Cabinet Secretary
-NTA has doubled the number of pages provided for rough work in the question paper booklet from two to four pages
+## CEO of collapsed Prax ordered fake invoices, administrators allege
+Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
 
-## A daughter’s final selfie, unanswered questions and a year of grief: Air India crash victims’ kin reunite in Ahmedabad
-One year after the Air India AI-171 crash killed 260 people, families returned to Ahmedabad carrying photographs, unanswered questions and demands for a memorial to mark one of India’s deadliest aviation disasters
+## Sam Bankman-Fried loses fraud conviction appeal
+Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX
 
-## 50% More Efficient: iQIYI Emerging Film Project “None Shall Escape” Charts a New Path for AI Film Production With NadouPro
+## The Palantir controversy is a block on NHS progress
+Better patient outcomes are at risk in the backlash against American tech
+
+## Former star bond investor Ken Leech pleads guilty to obstructing probe
+Trial on charges of ‘cherry picking’ profitable trades for favoured portfolios was scheduled to begin on Monday
+
+## Shell prepares to sell offshore wind farms in shift away from renewable energy
+The potential divestment, advised by Rothschild & Co. and PJT Partners, could raise over $1 billion and may take place by 2027
+
+## Air India seeks to defer delivery of hundreds of Airbus and Boeing jets, sources say
+The move comes amid mounting losses, operational disruptions linked to geopolitical tensions, airspace restrictions, and rising fuel costs
+
+## Only one in four major reservoirs in India half-full as overall storage drops to 28%
+Level in the country’s 166 reservoirs down to 51.917 BCM of the 183.565 BCM capacity as nearly 2/3rds has received deficient rain so far
+
+## Markets clock biggest two-month gain on US-Iran truce hopes
+The BSE Sensex jumped 1,695.40 points, or 2.30%, to close at 75,527.95, while the Nifty rose 461.30 points, or 1.99%, settling comfortably above the 23,600 mark at 23,622.90
+
+## SpaceX stock jumps to $164, becomes sixth-largest US company by valuation
+The listing attracted strong retail and institutional demand as Elon Musk outlined ambitious plans for orbital data centres and a multiplanetary future.
+
+## India retail inflation hits 16-month high of 3.93% in May amid food, energy price rise
+With inflation expected to rise further, markets are anticipating a possible repo rate hike by the Reserve Bank of India later this year
+
+## Letters to the Editor dated June 12, 2026
 
 
-## Workmen’s Compensation for Manufacturing Business
-Insurance for Labour
+## LLM collapse: The danger of training LLMs on AI-generated data
+Human-generated content has edge over synthetic content
 
-## Fractal Launches Cogentiq E-Commerce: AI that Acts on Profit Signals in Minutes
-Cross-functional decisions across customer, supply, and media teams — at the speed of e-commerce
+## Rupee rebounds 67 paise to 95.18 against US dollar as oil prices tumble on Iran deal hopes
+The Indian Rupee experienced a significant surge, climbing 67 paise to close at 95.18 against the US dollar. This robust recovery was primarily fueled by a sharp decline in global crude oil prices, following US President Donald Trump's indication of an imminent deal with Iran. Positive domestic equi
 
-## CADFEM APAC and SilTerra Malaysia Partner to Advance Semiconductor Innovation Through Simulation-Driven Engineering
+## SpaceX, which Elon Musk gave ‘less than 10% chance of succeeding’, makes him world’s first trillionaire - but will his net worth sustain?
+It’s important to note that a big portion of Musk’s net worth is tied to SpaceX. His holding in the company is worth around $866 billion. According to Reuters calculations, Musk’s net worth adds up to over a trillion dollars after the listing of Space X.
 
+## World's first trillionaire: Elon Musk's net worth cross $1 trillion after SpaceX's stock market debut
+Elon Musk has become the world's first trillionaire following SpaceX's successful Nasdaq debut. The company's shares surged, propelling Musk's fortune and valuing SpaceX at nearly $2 trillion. Investors are betting on Musk's diverse ventures despite the company's recent losses, with its addressable 
 
-## Skylark Drones and e2E Rail Partner to Advance AI-Powered Drone Intelligence for Railway Infrastructure
-Strategic partnership combines railway engineering expertise and AI-powered asset intelligence to support smarter infrastructure monitoring, surveying, and lifecycle management
+## What Elon Musk's trillion could mean: More than double South Africa's economy, over 200 trips to the moon
+Elon Musk's potential trillion-dollar fortune is a monumental sum, dwarfing national economies and astronomical distances. This unprecedented wealth, if realized, would be enough to buy millions of homes or fuel the entire US for over a year, highlighting a growing concern over global wealth inequal
 
-## U.S. Federal Court Dismisses Natsoft’s Patent Claims Against Hexaware
-The Court found that Natsoft’s asserted patents claimed broad, abstract ideas rather than specific inventions.
+## Can India become a mango export powerhouse? Opportunities, challenges and road ahead
+Despite being the world's largest mango producer, India exports only a very small fraction of its output due. While "mango diplomacy" and processed products show promise, overcoming challenges in cold chains, treatment facilities, and traceability is crucial for India to achieve export leadership. L
 
 ## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
-US stocks showed mixed movement Friday as falling oil prices offered support, while investors awaited the highly anticipated SpaceX IPO. This debut is seen as a key test of investor appetite for AI-related investments following recent market volatility and growing doubts about high valuations.
+US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
 
 ## Synergy of steel & software: How Indian Railways got on the digital track
 Indian Railways is undergoing a massive digital overhaul, transforming the passenger and freight experience. From booking tickets on smartphones to real-time train tracking and advanced safety systems like Kavach, technology is now central. This digital shift, powered by data and AI, aims to create 
@@ -75,67 +84,52 @@ Indian Railways is undergoing a massive digital overhaul, transforming the passe
 ## Edible oil imports rise 6.7% in May, higher soyabean oil shipments drive growth
 
 
-## Forex reserves slip by $711 million to $681.6 billion, fall in foreign currency assets weighs
-India's foreign exchange reserves saw a decrease of $711 million, reaching $681.610 billion in the week ending June 5. This decline was primarily driven by a significant drop in foreign currency assets, though a rise in gold reserves partially offset the overall reduction.
+## Teacher, who was sacked for joining CJP's Delhi protest, 'gets job back' after cockroach party challenges dismissal
+A suspension order targeted at a Haryana guest teacher and CJP supporter was revoked following a public statement by the party, condemning the move
 
-## Elon Musk SpaceX IPO Live Updates: Aerospace giant set to debut Wall Street after blockbuster IPO
+## El Nino is active now in India, may get stronger this monsoon: IMD
+Both the ocean and atmosphere now show clear El Nino signals, as per weather bodies.
 
+## HC seeks NIA reply on Umesh Kolhe murder accused’s plea to drop charges
+Umesh Kolhe, who owned a medical store in Amravati, was attacked and hacked to death on June 21, 2022, while returning home on his scooter
 
-## Retail inflation climbs to 3.93% in May as food prices accelerate
-Retail inflation climbed to 3.93% in May 2026, up from 3.48% in April, driven by a surge in food prices to 4.78%. While rural areas saw higher overall inflation, urban areas experienced a notable increase in housing costs. Precious metals and certain vegetables like tomatoes and ginger saw significa
+## India joins elite club with successful ballistic missile defence, anti-ship missile trials
+DRDO has stepped up on the ballistic missile defence as Pakistan is acquiring missiles with multiple warheads
 
-## Pakistan eyes higher donkey meat, other related products export to China
-Pakistan is exploring the export of donkey meat and related products to China, driven by demand for their perceived nutritional and medicinal benefits. The government has established sanitary protocols with China and licensed a new slaughterhouse in Gwadar, aiming to boost foreign investment and loc
+## Flew from Bangkok with drugs worth ₹12 crore, arrested in Mumbai: How a beauty contest runner-up was caught
+The woman has been identified as Harsha Sunny, who landed at Mumbai airport from Bangkok on the intervening night of June 10-11.
 
-## SpaceX share listing: Analysts predict $2 trillion valuation for Elon Musk-led space firm
-SpaceX's impending Wall Street debut is generating significant investor excitement, with shadow and prediction markets valuing the aerospace giant at over $2 trillion. Derivatives and perpetual futures suggest a substantial gain from its IPO valuation, indicating strong pre-trading momentum. A succe
+## Free education till post-graduate levels in Odisha govt institutions: Majhi
+Majhi said the decision would strengthen the foundation of the state’s youth and contribute to long-term development
 
-## 'Totally unacceptable': Trump blames Iran for attack on 'Indian ships', slams Tehran on 'fake news' over peace deal
-Trump warned that Iran needed to “get their act together, and fast.”
+## Abhishek Banerjee breaks silence on Kalyan Banerjee's 'arrogance' remark, says 'he has right to express himself'
+TMC general secretary Abhishek Banerjee refused to comment on Kalyan Banerjee's scathing description of him as arrogant
 
-## ‘Were in dreamland’: Rahul recalls warning TMC leaders ahead of Bengal loss
-Rahul Gandhi urged all partners to accept, with “100%” certainty, that the elections were being stolen and to stop treating it as a matter of doubt
+## Pakistan raises defence spending 18% to ₹3 trillion in new Budget to be ‘invincible’ amid US-Iran tensions
+The defence increase followed talks with provinces over pooling fiscal space for security needs, with development plans also cut back before the Budget.
 
-## 'Mamata Banerjee is my leader, not Abhishek or anyone else': Shatrughan Sinha vows to stand by Didi amid TMC rift
-The TMC MP expressed unwavering support for party leader Mamata Banerjee, questioned the timing of leaders' exits and denied any future plans to join BJP
-
-## TN speaker issues showcause notices to four ex-AIADMK MLAs in TVK
-The Speaker said 21 of the All India Anna Dravida Munnetra Kazhagam (AIADMK) legislators were granted forgiveness, while action has been initiated against the four MLAs.
-
-## UK families seek clarity and answers a year after Air India crash
-Sanjiv Patel is based in Leicester, a city with a large Gujarati community and home to several families affected by the 2025 crash.
-
-## One year after Air India crash, AAIB says 'evidence under analysis', gives no timeline for final report
-Air India Flight AI-171, operating from Ahmedabad to London, crashed just about 30 seconds after take-off a year ago.
-
-## 'Insensitive': KEM hospital reacts to Sejal Pawar's remarks on Pranit More show, to decide action after meeting parents
-KEM hospital on Friday issued a statement saying it has taken ‘serious note’ of remarks made by Sejal Pawar, an MBBS student of the institution.
-
-## Connection with underworld, no consent: Why Salman Khan moved court against makers of 'Kala Hiran' film
-Actor Salman Khan accused the project of ‘unlawfully exploiting his personality rights’, adding that it could adversely impact his reputation.
-
-## Hwang In-beom – the no-drama K-Star who scripted Korea’s comeback win
+## Maharashtra to introduce law recognising women as independent farmers; Bill likely in monsoon session
 
 
-## TCS employee dies by suicide, FIR against 2 women colleagues, one other
+## Labourer dies at Juhu beach after falling under landscaping machine
 
 
-## Delayed due to census: Teacher training schedule for CBSE curriculum to end by July 10
+## FIFA World Cup 2026 Opening Ceremony Day 2 Live Updates: Alanis Morissette, Nora Fatehi to perform
 
 
-## SpaceX shares begin trading after record IPO, as Wall Street tests the ‘Musk premium’
+## From KG to PG, Odisha government announces ‘free and universal’ education
 
 
-## FN Souza’s Easel, Palettes and Memorabilia to be auctioned
+## US, Iran may sign Geneva memorandum by Sunday as Hormuz reopening nears
 
 
-## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on Fund of Fund, leverage and more (Week 166)
+## 14 yr old girl riding a motorcycle dies in road mishap
 
 
-## Anil Kapoor puts intelligence to the test in India Ke Top 1%. Watch teaser
+## Maharashtra to examine support measures for children of single mothers in colleges
 
 
-## Amid TMC meltdown, how Naveen Patnaik is going all out to shore up BJD
+## FIFA World Cup: How a shared border with Spain shaped Morocco’s football
 
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
@@ -162,6 +156,15 @@ This is part of a series on the global impact of SpaceX’s historic IPO, tracin
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
+## Elon Musk’s Self-Contradictory Military Policy
+The soon-to-be trillionaire’s politics undermine his own business as a government contractor.
+
+## Missile Defense Worked Against Iran. It Might Not Work Against China.
+The ongoing war has revealed vulnerabilities that could prove far more dangerous in a conflict over Taiwan.
+
+## Don’t Invite Syria Back Into Lebanon
+Washington is contemplating the one thing that could rally Lebanese around Hezbollah.
+
 ## How Russia Could Escalate
 With progress in Ukraine grinding to a halt, Moscow could seek disruption off the battlefield.
 
@@ -177,38 +180,29 @@ But Iranian news reports that Tehran has not yet agreed to a deal.
 ## Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
 The Trump administration is borrowing Russia’s “shadow fleet” tactics to get ships moving.
 
-## When the Beautiful Game Meets the Ugliest Ego
-A recent history of the World Cup suggests the tournament can triumph over Trump.
+## As Cambodia Cracks Down, Cyberscam Networks Test Sri Lanka
+What happens next will determine whether the island is a temporary refuge for foreign cybercriminals or becomes part of Asia’s cybercrime infrastructure.
 
-## Washington’s Asian Allies Need a Backup Plan
-A strategic rethink is needed in an era of U.S. unreliability.
+## Charting the Future of the Indonesian Military’s Involvement in Counterterrorism
+While TNI’s past counterterrorism involvement has proved beneficial, it is important not to overlook how a further expansion of its role could complicate existing efforts.
 
-## Iran Is Now More Dangerous Than Ever
-After three months of war, Tehran feels it has little left to lose.
+## Philippine Defense Secretary Vows to Defend Nation’s Interests After China Sanctions
+The country's Department of Foreign Affairs said that the sanctions against Gilberto Teodoro Jr. are “an unfriendly act" that "further complicates" bilateral relations.
+
+## Cambodia-Thailand Relations, Not Myanmar, Will Define ASEAN’s Immediate Future
+The ongoing conflict between the two member states is a direct challenge to the Southeast Asian bloc's founding purpose.
+
+## The Yuan’s Quiet Advance on Commodity Pricing
+A miner paid in yuan has a reason to borrow in yuan, and a miner indebted in yuan has a reason to price in it.
+
+## AUKUS After AUKMIN: The Test Beyond Washington
+While the U.S. remains the dominant partner in AUKUS, closer collaboration between Canberra and London will be vital to its success.
+
+## Xi’s Summit with Kim: Views from the Neighborhood
+By keeping neighbors guessing about his intentions and avoiding any concessions, it is Kim who appears to have gained the most from the Chinese leader's visit.
 
 ## Three Characteristics of China’s Criticism of the Takaichi Administration
 Beijing’s campaign against Tokyo is unlike anything seen before.
-
-## Has the Japan-DPRK Pyongyang Declaration Been Abandoned?
-A quiet revision to Chongryon’s platform carries significant implications for Tokyo.
-
-## What’s the Philippine Senate Drama All About?
-The country's upper house has become highly polarized, creating doubts about the upcoming impeachment trial of Vice President Sara Duterte.
-
-## Japan and South Korea Navigate a Turbulent World
-Two neighbors, one alliance, and a great deal of uncertainty.
-
-## Thai Court Sentences 2 Men to Death For Involvement in 2015 Erawan Shrine Bombing
-The attack on the popular tourist attraction in central Bangkok killed 20 people and injured around 120 more.
-
-## What Is the Threshold for Action?: A Question Afghanistan Asks the World
-How long must the Taliban continue internal repression and support for terrorist groups before the international community recognizes the real scale of the threat?
-
-## The Geopolitics of China-Israel Trade and Investment
-Insights from Tomer Fadlon.
-
-## Explaining the Philippines’ Defeat in the UN Security Council Election
-The country's loss to Kyrgyzstan points to shifting coalitions within the U.N. and exposes the limits of alliance politics in multilateral settings.
 
 ## The Gulf Arab States Need a Shield Built for Limited Trust
 Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ukraine reclaims territory as it doubles attacks on Russian logistics
-Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.
+## US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund
+Justice Department had walked back controversial plan after meeting backlash from lawmakers and lawsuits.
 
-## Indonesian students protest gov’t policies amid economic strain
-Scuffles broke out as some demonstrators attempted to break through the police lines and metal barricades.
+## Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached
+This is a breaking news story.
 
-## Video: AI models predict World Cup results
-We asked four AI models to predict the winner of the 2026 FIFA World Cup.
+## Pro-Russian opposition party calls for Armenian election result annulment
+Strong Armenia claims that incumbent Civil Contract party won Sunday's election due to voting irregularities.
 
-## Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’
-US actor Jerry Seinfeld is facing backlash after saying Palestine ‘doesn’t exist’.
+## USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies
+Fans in FIFA World Cup host city Los Angeles criticise the organisers and travel policies but are eager for the action.
 
-## Are Iran, US really close to a breakthrough ‘deal’?
-Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.
+## SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire
+The landmark listing cemented Musk's status as the first trillionaire and propelled SpaceX into ranks of most valuable.
 
-## London mayor slams event touting illegal Israeli settlement land sales
-'Great Israeli Real Estate Event' promotes the sale of stolen Palestinian land in settlements in the occupied West Bank.
+## Alarm as Ebola spreads into new areas of DR Congo
+Cases are being identified in new health zones on a near-daily basis, warns WHO's head of epidemiology.
 
-## Renowned British artist David Hockney dies aged 88
-Hockney is considered an influential and defining figure in 20th and 21st century contemporary painting.
+## Activists form human Palestine flag at World Cup opener in Mexico City
+Pro-Palestinian demonstrators gathered in Mexico City to form a giant human Palestinian flag.
 
-## Thai Princess Bajrakitiyabha dies after years in coma
-Thailand is mourning Princess Bajrakitiyabha, the king's eldest child and potential heir, who died at 47.
+## Archaeologists find ancient female-led society in Turkiye
+Archaeologists have discovered evidence of an ancient female-led society in the ruins of a city in present-day Turkiye.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
