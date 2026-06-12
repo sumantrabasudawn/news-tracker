@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## Donald Trump says US close to deal with Iran and calls off strikes
-Markets rally and oil prices dip as US president claims agreement will reopen Strait of Hormuz
+## UK economy contracted 0.1% in April
+Figure comes as businesses and households face higher energy costs
 
-## World Cup of disunity kicks off in Mexico
-Mexican team beats South Africa in first game as the three hosts feud and fans fear US immigration crackdown
+## The ECB tightens course
+Plus debt restructurings and de-dollarisation
 
-## Musk’s SpaceX raises $75bn in world’s biggest IPO
-Rockets-to-AI group priced its shares at $135 in deal that drew blockbuster investor demand
+## Ireland champions rapid EU electrification to power data centre surge
+Also in this newsletter: Revolt against deficit spending to temper energy prices
+
+## Renault joins VW and Stellantis in push for ‘Made in Europe’ plan
+Car industry is split over how Brussels can protect manufacturing against Chinese EV onslaught
 
 ## FirstFT: SpaceX raises $75bn in world’s biggest IPO
-Also in today’s newsletter: Trump says US close to deal with Iran, and China cancels high-level meetings with EU
+Also in today’s newsletter: Europe’s defence stocks retreat and quantum computing
 
-## Trump names former SEC head Jay Clayton as US intelligence chief
-President has faced backlash in Congress over his pick of Bill Pulte as acting director of national intelligence
+## What to expect from the new Fed chair’s inaugural rate meeting
+The idea Kevin Warsh would come in and cut interest rates is firmly off the table
 
-## UK defence ministers resign as row over military spending escalates
-Concerns over budget spark flurry of resignations and criticism of Keir Starmer and Treasury
+## The Iranian missile cities the US couldn’t destroy
+Weeks of bombardment appear to have only temporarily suppressed Tehran’s firepower hidden underground
 
-## John Healey: the ex-trade unionist who privately battled the Treasury
-Previously talked of as a potential caretaker prime minister, his efforts as defence secretary could not generate the spending increase the military wanted
+## Simon Kuper’s World Cup: football’s unlikely linguists
+As football globalised, many players became polyglots
 
-## Can Trump make a deal with Iran?
-What does the price of oil tell us about the possibility for peace?
+## Trading firm DRW suffered sharp loss on power market as prices gyrated
+Group took $176mn hit and parted ways with its head electricity and gas trader as winter volatility battered positions
 
-## Corporate climate plans arbiter draws critics on new ‘net zero’ rule book
-Companies able to claim they have made ‘best efforts’ even if they fall short of climate goals
+## How Elon Musk always wins
+The SpaceX IPO has proven the billionaire’s adeptness at bending Wall Street to his will
 
-## The AI public market floodgates are opening
-The huge sums that Wall Street is about to be asked for look like being only a down payment
+## Norway challenges EU to call US gas ‘safer’ than Arctic reserves
+PM Jonas Gahr Støre tells FT that Europe should seek energy security as he presses bloc to scrap drilling ban in High North
 
-## New York Knicks’ winning streak should rub off on its owner too
-Shares in Madison Square Garden Sports, which also owns hockey team the New York Rangers, have doubled in a year
+## Channel Tunnel owner threatens legal action over UK’s tripling of business rates
+Eurotunnel says it faces an ‘unreasonable’ rise in its rateable value from £40mn a year to £118mn by the Valuation Office
 
-## SpaceX IPO marks the end of the no-brainer benchmark index trade
-Investors do not need big benchmarks to get what they want
+## US-backed fund explores buying stake in troubled French miner Eramet
+Orion CMC looking at Duval family’s stake in group that boasts France’s government as shareholder
 
-## Time to axe ‘unfair’ pensions triple lock, says UK’s cost of living tsar
-Iceland chair Lord Richard Walker, appointed by Starmer in February, calls system ‘mathematically unsustainable’
+## Cancer: NPPA raises price cap on key drugs amid shortage
+Patients ‌in India have been grappling with shortages of platinum-based cancer drugs cisplatin ‌and carboplatin, as hospitals, especially government-run facilities, run ‌short
 
-## The ‘new joule order’ is here. The west is last to realise
-Electrification is the purchase of optionality and China bought more of it than any nation in history
+## Sensex today | Stock Market Live Updates: Sensex soars 812 pts, Nifty up 209 pts on weaker oil amid West Asia hopes
+Sensex, Nifty, Stock Price Live Updates: Indian shares open higher on Friday, tracking gains in other Asian markets, as oil prices fell after US President Donald Trump cancelled plans to strike Iran citing progress in talks
 
-## Buzzing stocks: Sagility, BHEL, Cipla, PCBL, NLC India, BCPL Railway, Gujarat Inject, Lancor, Astral, Alembic, Prestige, Sattrix, DSM Fresh
-Key developments in India’s healthcare, power, chemicals, and infrastructure sectors highlight significant acquisitions, partnerships, and projects across various industries.
+## Over 60% chances of Super El Nino developing by winter, says US weather body
+US National Weather Service says sea surface temperatures could exceed the super El Nino threshold by winter, declares El Nino’s onset
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Prudent Corporate Advisory Services (₹2,809) – BUY
-Sensex, Nifty, Stock Price Live Updates: Traders can buy the stock now at ₹2,809. Accumulate on dips at ₹2,760. Keep the stop-loss at ₹2,670 initially. Trail the stop-loss up to ₹2,840 when the price goes up to ₹2,875
+## SEBI proposes uniform price band framework to curb price divergence in multi-listed stocks
+In illiquid securities, prolonged non-trading on one exchange, combined with persistent buying interest on another, can result in substantial differences in market prices: SEBI
 
-## 75 IPOs unlock $31 billion worth of shares by Sept-end
-PE and VC investors gain an exit window as lock-ins expire, though sales are expected to be staggered.
+## Trump threatens to seize oil hub, ends war hours later, announces peace deal by weekend
+Having moved from threats to peace in a matter of hours, Trump says markets ‘like the deal’ and the Strait of Hormuz will reopen soon.
 
-## Rafale deal unlikely to be announced during PM Modi’s France visit
-France engaging with India’s demand for access to source codes, manufacture aircraft in India
+## Tamil Nadu CM Vijay announces "Kuruvai Special Package Scheme 2026", worth ₹134.83 crore
+The scheme has been planned at an estimated cost of ₹134.83 crore and will benefit both Delta and Non-Delta districts of Tamil Nadu
 
-## Venus flytrap mechanism decoded: Study reveals how plant traps prey
-The discovery resolves a century-old scientific debate and highlights how biological systems can inspire future innovations in soft robotics and smart materials
+## Bangladesh wheat tender’s stiff norms likely to keep Indian exporters out
+Quality specification will be tough for Indian shippers to meet in the tender that opened today and closes on June 24; New Delhi prices are higher too
 
-## India restricts diesel and petrol sales at retail pumps for bulk users
-The move, issued via notification, will remain in effect for up to 90 days unless revoked earlier
+## India willing to let fiscal deficit widen to 4.8% of GDP, Bloomberg News reports
+It is willing to let the budget gap widen to 4.8% of GDP, up from a 4.3% target for the fiscal year starting April 1, according to the report
 
-## Iran says no final decision on any US deal, calls reports speculation
-Iranian officials said negotiations remain incomplete, with key differences still unresolved and US position shifts slowing progress
+## Rupee in green: Currency jumps to 95.20 against US dollar on Middle East peace hopes
+The Indian rupee strengthened significantly on Friday, gaining 65 paise to trade at 95.20 against the US dollar. This surge was propelled by a drop in global crude oil prices and positive signals from US President Trump regarding a potential Iran deal. A weaker dollar and buoyant domestic stock mark
 
-## SpaceX IPO pushes Elon Musk’s net worth past $1 trillion
-SpaceX’s record-breaking IPO highlights the extraordinary investor confidence in Musk’s vision, even as debates grow over governance, valuation, and political influence
+## Elon Musk's SpaceX raises $75 billion in record IPO debut: 10 things to know
+SpaceX is poised for a historic Wall Street debut, aiming to raise $75 billion and achieve a valuation of nearly $1.8 trillion. The company, now encompassing rocket launches, satellite internet, and AI, has seen significant revenue growth but reported a net loss. Institutional investors are showing 
+
+## Stock Market Live Updates Today: BSE Sensex opens almost 1,000 points up, Nifty50 goes above 23,400 as Trump signals US-Iran deal; crude oil prices drop below $90
+
+
+## Top stocks to buy today: Stock recommendations for June 12, 2026 - check list
+Stock market recommendations: HDFC Bank, and NBCC are the stocks that Bajaj Broking Research recommends buying on June 12, 2026. The brokerage also shares views on Nifty and Bank Nifty:
+
+## Gold, Silver Rate Today Live Updates: Gold prices set for weekly decline as high inflation stokes rate hike fears
+
+
+## Govt bars industries from buying petrol, diesel at pumps; mandates bulk purchase route
+Government has restricted industrial, commercial, and institutional users from buying petrol and diesel at retail fuel stations. This move aims to curb abnormal demand growth, particularly in diesel, driven by price differences between retail and bulk sales. The order, effective for up to 90 days, e
 
 ## Oil prices slip below $90: Brent, WTI tumble after Trump announces ‘ending war with Iran’
 Oil prices dropped below $90 per barrel as US President Donald Trump announced a framework agreement with Iran, signaling an end to the conflict and the expected reopening of the Strait of Hormuz. This development follows a week of heightened tensions and Iran's earlier threat to close the vital shi
@@ -72,71 +87,56 @@ Oil prices dropped below $90 per barrel as US President Donald Trump announced a
 ## Credit surges 17.7% as deposit slowdown widens funding gap
 Credit growth stood at 17.7% for the fortnight ending May 31, 2026, the highest recorded so far in the current financial year and the strongest year-on-year expansion since June 2024. Outstanding bank credit rose by Rs 1.5 lakh crore since March 31, 2026, marking a 0.7% increase (year-to-date), with
 
-## FMCG companies raise prices by 4-11% after fuel price hike
-Leading consumer goods companies, including HUL, Colgate-Palmolive, Emami, Dabur and Marico, are increasing prices, as higher crude prices, freight and commodity inflation triggered, amid the West Asia conflict, pushed up input costs. For instance, Hindustan Unilever has hiked prices of Dove and Pea
+## Medical body slams female doctor's joke on male corpses in Pranit More's show: 'Mocking human remains unacceptable'
+The criticism comes amid the ongoing controversy over a joke made by a female doctor in the audience of one of the shows by comedian Pranit More.
 
-## India central to EY’s AI strategy: Truncale
+## Tripura attracted ₹30,000 cr investment proposals last year with ₹8,000 cr projects grounded: CM
+Tripura attracted ₹30,000 cr investment proposals last year with ₹8,000 cr projects grounded: CM
 
+## 'Cockroaches stay in gutter': Andhra deputy CM Pawan Kalyan reacts to CJP craze
+Pawan Kalyan shared his views on youth-led political movements, saying each generation brings its own aspirations and ideas.
 
-## Strong domestic travel since West Asia war: Marriott
-After slipping in March, business has returned to normalcy. “Right as the conflict started, we saw a lot of cancellations. In March, the first full month, we were projecting double-digit revenue per available room (Revpar) growth in India. That turned negative. Then we saw people pivoting. Travel di
+## The lone survivor of AI-171 crash: 'What came after was harder to bear'
+"People see that I've survived, but they don't always see the challenges that continue behind closed doors," Vishwas Kumar Ramesh said.
 
-## It’s a race to capture real-world AI training data
+## CM Satheesan says Sree Narayana Guru’s ideals will continue to guide Kerala
+CM Satheesan says Sree Narayana Guru’s ideals will continue to guide Kerala
 
+## SC says child victims shouldn’t face routine psychological tests, issues guidelines
+A bench of justices Sanjay Karol and N Kotiswar Singh asked courts to adopt a cautious and child-centric approach that prioritises a child’s dignity
 
-## No further excise on E22, higher grades ethanol/petrol
-The Central Board of Indirect Taxes and Customs (CBIC) issued notifications on Wednesday, exempting ethanol blended petrol (EBP) grades E22, E25, E27 and E30, containing 22% to 30% ethanol, from applicable central excise duties, subject to excise duty having already been paid on petrol and GST havin
+## Bangladesh deploys armed village guards at border
+BSF personnel reported these sightings primarily in Bangladesh’s border districts such as Chapainawabganj, Thakurgaon and Dinajpur, which share a border with West Bengal
 
-## Now, AI agents can decide when to strike deals using UPI mandate
+## Kerala HC acquits woman sentenced for killing her baby; says she was under severe mental stress
+Kerala HC acquits woman sentenced for killing her baby; says she was under severe mental stress
 
-
-## 'Can't treat me like a dustbin': Kalyan Banerjee's outburst on Abhishek worsens TMC crisis
-Kalyan has never been shy of picking a fight or attacking anyone, even Abhishek Banerjee, but his latest outburst will hit the hardest due to its timing.
-
-## Vizag-based marine engineer died in US strike on vessel, days before his 15th wedding anniversary
-Marine engineer Suresh Patnala, 44, was killed in a US military strike off Oman; his family mourns his loss before their 15th anniversary.
-
-## 25-yr-old gym owner shot dead in Hansi; gang rivalry suspected
-A gym owner, Kapil Redhu, was shot dead in Haryana's Hansi; a woman was injured. A gang member claimed responsibility, alleging Redhu was a conspirator.
-
-## 2 years in power: Naidu-led Andhra govt juggles growth, welfare
-Andhra Pradesh CM N. Chandrababu Naidu's coalition government marks two years in office, facing economic challenges amid opposition criticisms and welfare promises.
-
-## Massive fire breaks out at residential building in Delhi; 8 moved to hospitals
-Massive fire breaks out at residential building in Delhi; 8 moved to hospitals
-
-## Tiger safari in UP extended by 15 days amid delayed monsoon
-Uttar Pradesh extends its tiger reserve tourist season by 15 days to June 30 due to delayed monsoon, anticipating 10,000-15,000 more visitors.
-
-## UP varsities told to form anti-conversion cells
-Uttar Pradesh's governor orders colleges to establish anti-conversion cells, prompting support from the BJP and criticism from the opposition over priorities.
-
-## CM Revanth proposes task force for development of six major cities
-Telangana CM A Revanth Reddy proposed an "M-6 Task Force" for urban growth, seeking ₹6 lakh crore to elevate six key cities to global standards.
-
-## How a TMC split may alter Parliament arithmetic, strengthen NDA’s hand
+## A year after AI 171, Air India faces questions about the crash — and itself
 
 
-## 3 dead as massive fire breaks out in Delhi’s Tughlaqabad
+## HP ordered to refund Rs 52,990 to consumer after faulty laptop costs woman UK job, late mother’s photos
 
 
-## Mexico’s ‘cathedral of football’, the stadium Maradona never really left
+## Explained: Why Delhi cooled down, even as El Niño emerged
 
 
-## Turkish Airlines ordered to pay Rs 50,000 after 1-day baggage delay ruins man’s business trip
+## Asked India to buy Russian oil, then hit us with tariffs: Jaishankar
 
 
-## Now-missing report on 2008 killing of VHP leader in Odisha ‘mentioned conversion, Naxal activity’: Probe panel chief
+## ‘Thought I’d be praised’: Indian in Norway says boss scolded him for working too much
 
 
-## What’s behind the PoK protests: Weight of history, woes of the present
+## Meenakshi Natarajan Hearing Live Updates: Supreme Court to hear plea against rejection of Congress leader’s Rajya Sabha nomination
 
 
-## US-Canada bridge opening delayed: Gordie Howe Bridge faces issues after Trump threat
+## Arsenal’s Champions League miss – start of a Brazilian backline World Cup bond
 
 
-## FIFA World Cup: Magical strike by Mexico’s most-loved striker
+## Raakh review: Ali Fazal thriller takes the horrific Billa-Ranga case, turns it into fiction
 
+
+## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
+We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
 ## EVs capture two-thirds of China’s car market in record-breaking week
 Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting from the global energy crisis. Two out of every three new cars sold on the mainland in the seven days e
@@ -158,9 +158,6 @@ China’s most profitable brokerage, and until recently its largest by assets, h
 
 ## Hong Kong, Indonesia move towards direct transactions in yuan, rupiah
 The People’s Bank of China, Hong Kong Monetary Authority (HKMA) and Bank Indonesia signed an agreement on Thursday to create a framework for bilateral transactions between Indonesia and Hong Kong. The parties aimed to implement a currency transaction framework for the direct exchange and settlement 
-
-## Why tech titans’ IPOs matter as much in China as in the US
-Blockbuster initial public offerings from tech champions such as Anthropic and SpaceX are about to fundamentally reshape global capital markets. This wave will redirect capital flows and alter valuations across the tech sector. As competition intensifies, investors worldwide will be forced to comple
 
 ## Peru’s Photo-Finish Election
 The presidential race could hinge on just a few thousand votes.
@@ -210,30 +207,6 @@ Organized crime groups with roots in Taiwan have become a useful tool for the CC
 ## Why the Indo-Pacific Trade Hinges on East Africa
 The region's ports, sea lanes, and gas fields have become the focus of growing geopolitical competition.
 
-## Strike, Counterstrike, Repeat
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Hostilities have increased notably in the last few days, effectively ending the U.S.-Iranian truce that had
-
-## The Evolution of Ukraine’s Asymmetrical Combat Tactics
-In 2022, Scott Sweetow wrote, “Of Roadside Bombs and Drones: Putin’s Looming Insurgency Problem,” where he argued Ukraine’s fight against Russia would rely on a combination of conventional and asymmetrical insurgent tactics. Four years of combat later, we asked Scott to revisit his arguments.Image: 
-
-## Wargaming for Improved Acquisition: What Does It Take?
-A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a leading university, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal
-
-## The Chain of Peace: Do Supply Chain Chokepoints Deter War?
-The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. ASML, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to produce the world’s most advanced semicond
-
-## The Maritime Action Plan Needs a Yardstick: Enter the Mahan Ratio
-Washington is littered with the corpses of grand plans to restore the Merchant Marine. The Trump administration’s Maritime Action Plan is the latest attempt, and to its credit, the most comprehensive since World War II.The plan is the government’s blueprint to resurrect America’s commercial shipping
-
-## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
-Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
-
-## Cascading Failure: The Spanish Navy’s Reserve Squadron and the Tragedy of Unpreparedness
-It is in long periods of peace that victories and defeats are prepared. Peace is the period for men of government, just as war is for men of action. Without the calm preparation carried out by the former, the courage and energy of the latter are of no use. — Captain First Class Ramón Auñón y Villaló
-
-## How Can Lebanon’s Partners Help Strengthen the Lebanese Armed Forces?
-The Lebanese state’s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However, figh
-
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
 
@@ -258,29 +231,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Stocks markets surge as Trump calls off strikes on Iran, touts peace deal
-Wall Street, Asian markets rally on hopes for an end to US-Israeli war on Iran.
+## South Korea rally to beat Czechia 2-1 on World Cup opening day
+Second-half goals by Oh Hyeon-gyu and Hwang In-beom steered South Korea to a win over Czechia in a Group A encounter.
 
-## Iran World Cup captain reveals Mexico cartel robbery story
-Iran's World Cup captain says he’s heard Mexican cartels love Iranians and revealed his own brush with an armed group.
+## Peruvian police dress as World Cup mascots to fool suspected drug dealer
+Police officers in Peru dressed up as 2026 World Cup mascots as they targeted a suspected drug trafficker.
 
-## Can Africa turn its population boom into prosperity?
-Africa’s rapid population growth offers major economic opportunities but also deep structural constraints.
+## Iran weighs proposed deal but remains wary of US intentions
+Iran says a proposed agreement is under review by its highest leadership and could be closer than ever before.
 
-## Israel launches overnight strikes across Gaza
-Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.
+## South Korea’s ex-President Yoon gets 30 years over drone operation
+Seoul court sentences former leader for sending military drones into North Korea.
 
-## DR Congo arrive in the US for the World Cup after Ebola quarantine
-DRC squad arrived on a flight from Paris after US authorities insisted they serve a 21-day quarantine period elsewhere.
+## Amnesty and Oxfam warn of displacement in the occupied West Bank
+Amnesty International and Oxfam released reports this week documenting a rise in state-backed Israeli settler violence.
 
-## Japan’s Wataru Endo retires after injury ends World Cup 2026 dream
-Midfielder and captain quits after failing to recover from foot injury ahead of Japan's game against the Netherlands.
+## Bosnia’s Esmir Bajraktarevic: Child of Srebrenica
+As Bosnia and Herzegovina prepare to face Canada in their 2026 World Cup opener, all eyes will be on Esmir Bajraktarevic
 
-## Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes
-The International Rescue Committee warns that people displaced by Israeli attacks in Lebanon are at 'breaking point'.
+## White House shows off cage match arena as corruption lawsuit looms
+White House officials previewed the grounds where they’ll host a cage match to celebrate US President Trump’s birthday.
 
-## Who are Julian Quinones and Raul Jimenez, Mexico’s World Cup goal scorers?
-Mexico's two goal scorers were overcome with emotion as they took their team to a win in the World Cup's opening game.
+## Stock markets surge as Trump calls off strikes on Iran, touts peace deal
+Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.
+
+## India Inc CFOs : Not without AI?
+​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
@@ -302,9 +278,6 @@ Indian chief financial officers remain the most optimistic in Asia Pacific about
 
 ## AI, Compliance and Margins: CFOs Say Finance Is Being Rebuilt in Real Time
 At ClearTax Presents Beyond, in association with ETCFO, finance leaders from NSDL, Tata Play, Bayer Bioscience and Trent debated the real cost of transformation, the limits of margin defence, and why the tax department now knows more about your business than you do.
-
-## Why workforce planning is fast becoming the CFO’s most high-stakes investment
-Workforce planning is shifting from HR's cost-control focus to the CFO's strategic agenda. Businesses now view talent as a key asset, prioritizing skills like AI and data engineering for competitive advantage. This necessitates a move from headcount to skills-based investment, with ROI measured by i
 
 ## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
 The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
