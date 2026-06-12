@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## US-Iran peace deal text agreed, says Pakistan’s PM
+Senior American official says both sides expect to sign agreement in coming days
+
+## Football will eclipse politics at this World Cup
+Goals, talent and diversity are set to drown out controversy off the pitch
+
+## The strategic dilemmas behind Britain’s defence spending mess
+At the heart of the debate is not just how much the UK should spend on the military, but what types of threat it faces — and ultimately, its place in the world
+
+## SpaceX’s IPO is a display of Musk’s autocratic power
+His unrivalled grip on the public imagination has transmuted into Wall Street gold
+
+## Warsh and learn
+We will understand more about new Fed chair Kevin Warsh when he oversees his inaugural rate meeting on Wednesday
+
 ## Artist David Hockney dies aged 88
 Celebrated painter was known for works including the ‘Swimming Pool’ series
-
-## US-Iran peace deal text agreed, says Pakistan’s PM
-Shehbaz Sharif’s comments come after Trump accused Tehran of misrepresenting pact’s details
 
 ## European defence stocks retreat on lower spending and higher wrangling
 Resignation of UK defence secretary shows some governments will struggle to find the money
@@ -12,8 +24,8 @@ Resignation of UK defence secretary shows some governments will struggle to find
 ## Palantir loses legal challenge against Swiss investigative magazine
 Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
 
-## Trump’s bill threatens the singleness of money
-It might be improper to put the president’s face on the currency. It might also not work
+## CEO of collapsed Prax ordered fake invoices, administrators allege
+Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
 
 ## Stockpickers: CMC Markets, VP, Motorpoint
 Our experts discuss which companies to buy, sell or hold this week
@@ -21,20 +33,17 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Apollo selects Austin as site of second headquarters
 Private capital giant chose Texas city over Miami and Palm Beach as private schools’ capacity fills up in Florida
 
-## Oil touches three-month low after Trump says US close to Iran deal
-Stocks and government bonds make gains on hopes energy shock will ease
-
-## CEO of collapsed Prax ordered fake invoices, administrators allege
-Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
-
 ## Sam Bankman-Fried loses fraud conviction appeal
 Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX
 
-## The Palantir controversy is a block on NHS progress
-Better patient outcomes are at risk in the backlash against American tech
+## ED arrests two former Reliance Anil Ambani Group executives in money laundering case
+The accused, former Reliance Telecom directors Sateesh Seth and Gautam Doshi, are being taken to Delhi on transit remand.
 
-## Former star bond investor Ken Leech pleads guilty to obstructing probe
-Trial on charges of ‘cherry picking’ profitable trades for favoured portfolios was scheduled to begin on Monday
+## India developing multi-level missile shield under Mission Sudarshan Chakra: Rajnath Singh
+The system will protect both military and civilian infrastructure while ensuring a strong deterrence capability
+
+## What Elon Musk’s $1 trillion wealth means in real terms
+The milestone reflects the rapid rise in the value of his rocket company and broader gains across his business empire
 
 ## Shell prepares to sell offshore wind farms in shift away from renewable energy
 The potential divestment, advised by Rothschild & Co. and PJT Partners, could raise over $1 billion and may take place by 2027
@@ -51,14 +60,11 @@ The BSE Sensex jumped 1,695.40 points, or 2.30%, to close at 75,527.95, while th
 ## SpaceX stock jumps to $164, becomes sixth-largest US company by valuation
 The listing attracted strong retail and institutional demand as Elon Musk outlined ambitious plans for orbital data centres and a multiplanetary future.
 
-## India retail inflation hits 16-month high of 3.93% in May amid food, energy price rise
-With inflation expected to rise further, markets are anticipating a possible repo rate hike by the Reserve Bank of India later this year
+## Tu cheez badi hain....Musk Musk: A small step for SpaceX, a giant leap to a trillion for Elon
+Elon Musk has achieved a historic milestone by becoming the world’s first trillionaire, driven by the soaring valuation from SpaceX’s IPO. His vision for reusable rockets and interplanetary colonies has captured the imagination of investors, turning space exploration into an enticing financial front
 
-## Letters to the Editor dated June 12, 2026
-
-
-## LLM collapse: The danger of training LLMs on AI-generated data
-Human-generated content has edge over synthetic content
+## Centre opens radio spectrum to accelerate deployment of vehicle collision-avoidance systems
+India has removed licensing for crucial radio spectrum bands, specifically 77-81 GHz for automotive radar and 5.9 GHz for V2X communications. This move aims to accelerate the adoption of advanced road safety and collision-avoidance systems, aligning India with global standards and potentially reduci
 
 ## Rupee rebounds 67 paise to 95.18 against US dollar as oil prices tumble on Iran deal hopes
 The Indian Rupee experienced a significant surge, climbing 67 paise to close at 95.18 against the US dollar. This robust recovery was primarily fueled by a sharp decline in global crude oil prices, following US President Donald Trump's indication of an imminent deal with Iran. Positive domestic equi
@@ -78,12 +84,6 @@ Despite being the world's largest mango producer, India exports only a very smal
 ## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
 US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
 
-## Synergy of steel & software: How Indian Railways got on the digital track
-Indian Railways is undergoing a massive digital overhaul, transforming the passenger and freight experience. From booking tickets on smartphones to real-time train tracking and advanced safety systems like Kavach, technology is now central. This digital shift, powered by data and AI, aims to create 
-
-## Edible oil imports rise 6.7% in May, higher soyabean oil shipments drive growth
-
-
 ## Teacher, who was sacked for joining CJP's Delhi protest, 'gets job back' after cockroach party challenges dismissal
 A suspension order targeted at a Haryana guest teacher and CJP supporter was revoked following a public statement by the party, condemning the move
 
@@ -102,34 +102,34 @@ The woman has been identified as Harsha Sunny, who landed at Mumbai airport from
 ## Free education till post-graduate levels in Odisha govt institutions: Majhi
 Majhi said the decision would strengthen the foundation of the state’s youth and contribute to long-term development
 
-## Abhishek Banerjee breaks silence on Kalyan Banerjee's 'arrogance' remark, says 'he has right to express himself'
+## Abhishek Banerjee breaks silence on Kalyan Banerjee's 'arrogance' remark: 'He has right to express himself'
 TMC general secretary Abhishek Banerjee refused to comment on Kalyan Banerjee's scathing description of him as arrogant
 
 ## Pakistan raises defence spending 18% to ₹3 trillion in new Budget to be ‘invincible’ amid US-Iran tensions
 The defence increase followed talks with provinces over pooling fiscal space for security needs, with development plans also cut back before the Budget.
 
+## What ‘Rich Dad Poor Dad’ teaches about building wealth beyond a 9-to-5 job
+
+
+## David Hockney dies at 88: 5 things to know about the artist who made pools iconic
+
+
+## Manu Bhaker on Jaspal Rana’s death: ‘Shooting range will never feel same again’
+
+
+## Was Netanyahu left in the dark over Trump’s Iran deal?
+
+
+## Fame gave me visibility, medicine gave me perspective: Aditi Govitrikar on identity, ageing and reinvention
+
+
+## Express News Quiz: Ram Charan, space industry IPO & ghost of the grasslands
+
+
 ## Maharashtra to introduce law recognising women as independent farmers; Bill likely in monsoon session
 
 
 ## Labourer dies at Juhu beach after falling under landscaping machine
-
-
-## FIFA World Cup 2026 Opening Ceremony Day 2 Live Updates: Alanis Morissette, Nora Fatehi to perform
-
-
-## From KG to PG, Odisha government announces ‘free and universal’ education
-
-
-## US, Iran may sign Geneva memorandum by Sunday as Hormuz reopening nears
-
-
-## 14 yr old girl riding a motorcycle dies in road mishap
-
-
-## Maharashtra to examine support measures for children of single mothers in colleges
-
-
-## FIFA World Cup: How a shared border with Spain shaped Morocco’s football
 
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
@@ -156,6 +156,21 @@ This is part of a series on the global impact of SpaceX’s historic IPO, tracin
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
+## Russia, Land of the Unpredictable Past
+A new censorship law restricts what Russians were ever allowed to have sung, written, or published.
+
+## What in the World?
+Test yourself on the week of June 6: Peru’s presidential race heads for a photo finish, Xi Jinping visits North Korea, and the World Cup kicks off.
+
+## Trump Is Shattering the Illusion of the West
+The president’s turn to imperial civilizationalism is destroying what it claims to defend.
+
+## How Best to Look at Russian History
+A new book shows the uses and limits of microhistories in understanding the past.
+
+## Will Farmers Lose Faith With Trump?
+The economic effects of the Iran war are straining a key Republican constituency ahead of midterm elections.
+
 ## Elon Musk’s Self-Contradictory Military Policy
 The soon-to-be trillionaire’s politics undermine his own business as a government contractor.
 
@@ -164,21 +179,6 @@ The ongoing war has revealed vulnerabilities that could prove far more dangerous
 
 ## Don’t Invite Syria Back Into Lebanon
 Washington is contemplating the one thing that could rally Lebanese around Hezbollah.
-
-## How Russia Could Escalate
-With progress in Ukraine grinding to a halt, Moscow could seek disruption off the battlefield.
-
-## Peru’s Photo-Finish Election
-The presidential race could hinge on just a few thousand votes.
-
-## War and Circuses
-Trump juggles Iran, a World Cup, and a UFC cage fight.
-
-## Trump Backpedals on Planned Iran Strikes, Citing Deal Progress
-But Iranian news reports that Tehran has not yet agreed to a deal.
-
-## Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
-The Trump administration is borrowing Russia’s “shadow fleet” tactics to get ships moving.
 
 ## As Cambodia Cracks Down, Cyberscam Networks Test Sri Lanka
 What happens next will determine whether the island is a temporary refuge for foreign cybercriminals or becomes part of Asia’s cybercrime infrastructure.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund
-Justice Department had walked back controversial plan after meeting backlash from lawmakers and lawsuits.
+## How the Gulf will manage collective security after the Iran war ends
+An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.
 
-## Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached
-This is a breaking news story.
+## Sam Bankman-Fried loses appeal to overturn fraud convictions and prison
+If the former crypto billionaire loses all remaining avenues, he would be eligible for release in 2044.
 
-## Pro-Russian opposition party calls for Armenian election result annulment
-Strong Armenia claims that incumbent Civil Contract party won Sunday's election due to voting irregularities.
+## US judge refuses to block Trump’s White House UFC fight
+Federal judge rules UFC fight at White House on Trump’s birthday can proceed despite legal challenges.
 
-## USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies
-Fans in FIFA World Cup host city Los Angeles criticise the organisers and travel policies but are eager for the action.
+## Venezuela hits out at Trinidad and Tobago in oil spill spat
+Caracas warns of environmental and economic damage amid heightened tension with its neighbour.
 
-## SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire
-The landmark listing cemented Musk's status as the first trillionaire and propelled SpaceX into ranks of most valuable.
+## India’s West Bengal pushes out Muslim Bangladeshis
+Thousands of Muslim Bangladeshis have been detained or deported under West Bengal's new BJP government.
 
-## Alarm as Ebola spreads into new areas of DR Congo
-Cases are being identified in new health zones on a near-daily basis, warns WHO's head of epidemiology.
+## UN adopts treaty setting standards for gig economy workers
+The protections included in the world-first agreement include enforcing minimum wage requirements and obligations.
 
-## Activists form human Palestine flag at World Cup opener in Mexico City
-Pro-Palestinian demonstrators gathered in Mexico City to form a giant human Palestinian flag.
+## At least one killed and nine hospitalised in Midland, Texas shooting
+Authorities in Midland, Texas, say that suspected attacker confirmed dead after shooting and standoff with police.
 
-## Archaeologists find ancient female-led society in Turkiye
-Archaeologists have discovered evidence of an ancient female-led society in the ruins of a city in present-day Turkiye.
+## Musk becomes first trillionaire as SpaceX debuts on Nasdaq
+Musk becomes first trillionaire as SpaceX debuts on Nasdaq
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
