@@ -1,139 +1,151 @@
 # AION Intelligence
 
-## UK economy contracted 0.1% in April
-Figure comes as businesses and households face higher energy costs
+## Artist David Hockney dies aged 88
+Celebrated painter was known for works including the ‘Swimming Pool’ series
 
-## The ECB tightens course
-Plus debt restructurings and de-dollarisation
+## FirstFT: SpaceX raises $75bn in world’s biggest IPO
+Also in today’s newsletter: oil prices fall as Trump hails deal with Iran and David Hockney dies
+
+## Reader callout: how to help the ‘Neet’ in your life
+We want to hear your experiences ahead of warnings of a lost generation
+
+## Inflation and interest rates tracker: see how your country compares
+Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
+
+## Oil sinks to three-month low after Trump says US close to Iran deal
+Stocks and government bonds make big gains on hopes energy shock could ease
+
+## Whither SpaceX? Who knows
+¯\_(ツ)_/¯
+
+## ECB stands ready to raise rates again, says Bundesbank boss
+Joachim Nagel signals rate-setters will keep ‘all our options open’
+
+## Flutter to quit London in latest blow to UK market
+Sports betting company cites high costs and low trading levels in its decision
+
+## US-backed fund explores buying stake in troubled French miner Eramet
+Orion CMC looking at Duval family’s stake in group where the French state is a shareholder
 
 ## Ireland champions rapid EU electrification to power data centre surge
 Also in this newsletter: Revolt against deficit spending to temper energy prices
 
-## Renault joins VW and Stellantis in push for ‘Made in Europe’ plan
+## Renault joins VW and Stellantis to push ‘Made in Europe’ plan
 Car industry is split over how Brussels can protect manufacturing against Chinese EV onslaught
 
-## FirstFT: SpaceX raises $75bn in world’s biggest IPO
-Also in today’s newsletter: Europe’s defence stocks retreat and quantum computing
+## Retail inflation climbs to 3.93% in May
+Food inflation edged up to 4.78%, driving the increase in headline consumer prices.
 
-## What to expect from the new Fed chair’s inaugural rate meeting
-The idea Kevin Warsh would come in and cut interest rates is firmly off the table
+## AI-driven homes set to become mainstream as connected living gains momentum
+Unlike traditional appliances that perform fixed functions, future AI-powered refrigerators, washing machines and air conditioners will be capable of learning user behaviour, optimising operations and delivering personalised care
 
-## The Iranian missile cities the US couldn’t destroy
-Weeks of bombardment appear to have only temporarily suppressed Tehran’s firepower hidden underground
+## Rupee rallies as oil slump sparks unwinding of dollar longs
+The rupee climbed ⁠to a one-week high of 94.9550 during the session before settling at 95.11, up 0.7% on the day
 
-## Simon Kuper’s World Cup: football’s unlikely linguists
-As football globalised, many players became polyglots
+## NITES IT union writes to Maharashtra Chief Minister on TCS employee suicide
+The 48-year-old employee allegedly died following workplace harassment and humiliation by certain colleagues, as per a note left behind
 
-## Trading firm DRW suffered sharp loss on power market as prices gyrated
-Group took $176mn hit and parted ways with its head electricity and gas trader as winter volatility battered positions
+## Sensex today | Stock Market Highlights: Sensex, Nifty surge nearly 2% as falling oil prices lift market sentiment
+Sensex, Nifty, Stock Price Highlights: Indian benchmark indices surged on Friday, with Sensex rising 1,695 points and Nifty gaining 461 points, driven by broad-based buying, banking sector strength, and easing crude oil prices following improved global geopolitical sentiment.
 
-## How Elon Musk always wins
-The SpaceX IPO has proven the billionaire’s adeptness at bending Wall Street to his will
+## Singapore Court stays contempt order against Byju Raveendran pending appeal
+The stay means Raveendran will not have to surrender to authorities or face imprisonment while his appeal is heard
 
-## Norway challenges EU to call US gas ‘safer’ than Arctic reserves
-PM Jonas Gahr Støre tells FT that Europe should seek energy security as he presses bloc to scrap drilling ban in High North
+## TN Assembly Speaker issues notices to 4 former AIADMK MLAs on disqualification issue
+The members have been provided a window of seven days to provide an explanation
 
-## Channel Tunnel owner threatens legal action over UK’s tripling of business rates
-Eurotunnel says it faces an ‘unreasonable’ rise in its rateable value from £40mn a year to £118mn by the Valuation Office
+## Anupam Rasayan becomes world's first to make ETFA using flow chemistry
+The global addressable market for ETFA is estimated at approximately $500-600 million
 
-## US-backed fund explores buying stake in troubled French miner Eramet
-Orion CMC looking at Duval family’s stake in group that boasts France’s government as shareholder
+## Retail inflation climbs to 3.93% in May as food prices accelerate
 
-## Cancer: NPPA raises price cap on key drugs amid shortage
-Patients ‌in India have been grappling with shortages of platinum-based cancer drugs cisplatin ‌and carboplatin, as hospitals, especially government-run facilities, run ‌short
 
-## Sensex today | Stock Market Live Updates: Sensex soars 812 pts, Nifty up 209 pts on weaker oil amid West Asia hopes
-Sensex, Nifty, Stock Price Live Updates: Indian shares open higher on Friday, tracking gains in other Asian markets, as oil prices fell after US President Donald Trump cancelled plans to strike Iran citing progress in talks
+## Pakistan eyes higher donkey meat, other related products export to China
+Pakistan is exploring the export of donkey meat and related products to China, driven by demand for their perceived nutritional and medicinal benefits. The government has established sanitary protocols with China and licensed a new slaughterhouse in Gwadar, aiming to boost foreign investment and loc
 
-## Over 60% chances of Super El Nino developing by winter, says US weather body
-US National Weather Service says sea surface temperatures could exceed the super El Nino threshold by winter, declares El Nino’s onset
+## SpaceX share listing: Analysts predict $2 trillion valuation for Elon Musk-led space firm
+SpaceX's impending Wall Street debut is generating significant investor excitement, with shadow and prediction markets valuing the aerospace giant at over $2 trillion. Derivatives and perpetual futures suggest a substantial gain from its IPO valuation, indicating strong pre-trading momentum. A succe
 
-## SEBI proposes uniform price band framework to curb price divergence in multi-listed stocks
-In illiquid securities, prolonged non-trading on one exchange, combined with persistent buying interest on another, can result in substantial differences in market prices: SEBI
+## Why is stock market rallying today? BSE Sensex rises over 1,500 points, Nifty50 back above 23,500 - top reasons for rise
+The sharp rally boosted the cumulative market capitalisation of BSE-listed firms by more than Rs 7 lakh crore, taking the overall valuation to nearly Rs 460 lakh crore.
 
-## Trump threatens to seize oil hub, ends war hours later, announces peace deal by weekend
-Having moved from threats to peace in a matter of hours, Trump says markets ‘like the deal’ and the Strait of Hormuz will reopen soon.
+## How US went from barring oil exports to becoming world's top crude seller
+The US has surged to become the world's top oil exporter, surpassing Saudi Arabia and Russia. This significant shift, driven by robust domestic production and strategic reserve releases, marks a dramatic reversal from past dependence. Disruptions in the Middle East and sanctions on Russia have resha
 
-## Tamil Nadu CM Vijay announces "Kuruvai Special Package Scheme 2026", worth ₹134.83 crore
-The scheme has been planned at an estimated cost of ₹134.83 crore and will benefit both Delta and Non-Delta districts of Tamil Nadu
+## Stock market today: BSE Sensex rallies over 1,500 points, Nifty50 crosses 23,500
 
-## Bangladesh wheat tender’s stiff norms likely to keep Indian exporters out
-Quality specification will be tough for Indian shippers to meet in the tender that opened today and closes on June 24; New Delhi prices are higher too
 
-## India willing to let fiscal deficit widen to 4.8% of GDP, Bloomberg News reports
-It is willing to let the budget gap widen to 4.8% of GDP, up from a 4.3% target for the fiscal year starting April 1, according to the report
+## SpaceX listing: Should Indian investors buy the stock that is set to make Elon Musk a trillionaire?
+At the IPO price of $135 a share, SpaceX commands a market valuation of around $1.75 trillion, placing it among the most valuable publicly traded companies globally despite not yet turning profitable.
 
 ## Rupee in green: Currency jumps to 95.20 against US dollar on Middle East peace hopes
 The Indian rupee strengthened significantly on Friday, gaining 65 paise to trade at 95.20 against the US dollar. This surge was propelled by a drop in global crude oil prices and positive signals from US President Trump regarding a potential Iran deal. A weaker dollar and buoyant domestic stock mark
 
-## Elon Musk's SpaceX raises $75 billion in record IPO debut: 10 things to know
-SpaceX is poised for a historic Wall Street debut, aiming to raise $75 billion and achieve a valuation of nearly $1.8 trillion. The company, now encompassing rocket launches, satellite internet, and AI, has seen significant revenue growth but reported a net loss. Institutional investors are showing 
+## CRPF, CISF personnel to transport NEET-UG re-examination question papers
+The CAPF armed personnel will be assisted by state police forces at each centre when transporting the papers from airports to the banks and then to the exam centres
 
-## Stock Market Live Updates Today: BSE Sensex opens almost 1,000 points up, Nifty50 goes above 23,400 as Trump signals US-Iran deal; crude oil prices drop below $90
+## A Facebook post and ₹1 crore claim: What led to a Supreme Court battle between two top IAS and IPS officers
+The origins of the dispute date back to February 2023, when Rohini Sindhuri discovered a series of Facebook posts made by Roopa Moudgil.
 
+## NTA announces ‘student-friendly’ measures for NEET-UG 2026 re-examination
+The NTA announced a series of student-friendly measures for NEET (UG) 2026, including additional rough-work space, and an extended examination window
 
-## Top stocks to buy today: Stock recommendations for June 12, 2026 - check list
-Stock market recommendations: HDFC Bank, and NBCC are the stocks that Bajaj Broking Research recommends buying on June 12, 2026. The brokerage also shares views on Nifty and Bank Nifty:
+## Sensex closes at 75,527.95, Nifty at 23,622.90 point as hopes of Iran-US deal lift market sentiment
+The rally came after US President Donald Trump claimed a diplomatic breakthrough in talks aimed at ending the Iran war.
 
-## Gold, Silver Rate Today Live Updates: Gold prices set for weekly decline as high inflation stokes rate hike fears
+## Artery completely blocked: What led to Indian shooting coach Jaspal Rana’s sudden death
+Rana had undergone a procedure to get a stent placed in his heart recently after experiencing chest pain and discomfort during the ISSF World Cup in Munich.
 
+## ‘Please find my brother’: On day of Air India plane crash in Ahmedabad, the hour I spent with lone survivor
+The Air India flight crashed at 1.38 pm, barely half a minute after taking off from the airport in Ahmedabad. It was carrying 242 people — passengers and crew.
 
-## Govt bars industries from buying petrol, diesel at pumps; mandates bulk purchase route
-Government has restricted industrial, commercial, and institutional users from buying petrol and diesel at retail fuel stations. This move aims to curb abnormal demand growth, particularly in diesel, driven by price differences between retail and bulk sales. The order, effective for up to 90 days, e
+## Supreme Court rejects Cong leader Meenakshi Natarajan's plea against RS setback
+The Supreme Court also said that once a nomination is rejected, the only remedy is to approach the Election Commission.
 
-## Oil prices slip below $90: Brent, WTI tumble after Trump announces ‘ending war with Iran’
-Oil prices dropped below $90 per barrel as US President Donald Trump announced a framework agreement with Iran, signaling an end to the conflict and the expected reopening of the Strait of Hormuz. This development follows a week of heightened tensions and Iran's earlier threat to close the vital shi
+## Delhi's 'jinxed' CM bungalow is getting a makeover. Why it is considered ‘cursed’
+After a series of setbacks linked to the property, successive chief ministers, including Sheila Dikshit, chose not to move in.
 
-## Credit surges 17.7% as deposit slowdown widens funding gap
-Credit growth stood at 17.7% for the fortnight ending May 31, 2026, the highest recorded so far in the current financial year and the strongest year-on-year expansion since June 2024. Outstanding bank credit rose by Rs 1.5 lakh crore since March 31, 2026, marking a 0.7% increase (year-to-date), with
-
-## Medical body slams female doctor's joke on male corpses in Pranit More's show: 'Mocking human remains unacceptable'
-The criticism comes amid the ongoing controversy over a joke made by a female doctor in the audience of one of the shows by comedian Pranit More.
-
-## Tripura attracted ₹30,000 cr investment proposals last year with ₹8,000 cr projects grounded: CM
-Tripura attracted ₹30,000 cr investment proposals last year with ₹8,000 cr projects grounded: CM
-
-## 'Cockroaches stay in gutter': Andhra deputy CM Pawan Kalyan reacts to CJP craze
-Pawan Kalyan shared his views on youth-led political movements, saying each generation brings its own aspirations and ideas.
-
-## The lone survivor of AI-171 crash: 'What came after was harder to bear'
-"People see that I've survived, but they don't always see the challenges that continue behind closed doors," Vishwas Kumar Ramesh said.
-
-## CM Satheesan says Sree Narayana Guru’s ideals will continue to guide Kerala
-CM Satheesan says Sree Narayana Guru’s ideals will continue to guide Kerala
-
-## SC says child victims shouldn’t face routine psychological tests, issues guidelines
-A bench of justices Sanjay Karol and N Kotiswar Singh asked courts to adopt a cautious and child-centric approach that prioritises a child’s dignity
-
-## Bangladesh deploys armed village guards at border
-BSF personnel reported these sightings primarily in Bangladesh’s border districts such as Chapainawabganj, Thakurgaon and Dinajpur, which share a border with West Bengal
-
-## Kerala HC acquits woman sentenced for killing her baby; says she was under severe mental stress
-Kerala HC acquits woman sentenced for killing her baby; says she was under severe mental stress
-
-## A year after AI 171, Air India faces questions about the crash — and itself
+## Sanjay Raut: ‘Leaders like Sharad Pawar, Mamata, KCR who left the Congress should unite, make the party stronger’
 
 
-## HP ordered to refund Rs 52,990 to consumer after faulty laptop costs woman UK job, late mother’s photos
+## ‘Senior chefs would hit you’: Kunal Kapur says it was ‘normal’ in India’s top hotel kitchens
 
 
-## Explained: Why Delhi cooled down, even as El Niño emerged
+## Maharashtra cyber fraudster who operated from Dubai held in Bangkok, brought to India
 
 
-## Asked India to buy Russian oil, then hit us with tariffs: Jaishankar
+## This free AI music detector can scan playlists across streaming platforms
 
 
-## ‘Thought I’d be praised’: Indian in Norway says boss scolded him for working too much
+## Power cut at event to list Centre’s 12-year achievements leaves Rajasthan govt red-faced
 
 
-## Meenakshi Natarajan Hearing Live Updates: Supreme Court to hear plea against rejection of Congress leader’s Rajya Sabha nomination
+## Elgaar Parishad case: Bombay High Court seeks NIA’s reply to Varavara Rao’s plea to permanently reside in Hyderabad
 
 
-## Arsenal’s Champions League miss – start of a Brazilian backline World Cup bond
+## Curacao – blue curacao mixer, FIFA debut and a teetotaler coach in Dick Advocaat
 
 
-## Raakh review: Ali Fazal thriller takes the horrific Billa-Ranga case, turns it into fiction
+## Jeff Bezos’s Prometheus raises $12bn to build AI ‘engineer’: Here’s what it means
 
+
+## China’s chip software firms back Huawei’s new scaling law. But can they catch US rivals?
+China’s chip design software industry is rallying behind Huawei Technologies’ ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn
+
+## Hong Kong gazettes tax break for fund managers’ bonuses to bolster role as wealth hub
+The Hong Kong government gazetted a bill on Friday that, if passed, would waive salary tax on fund managers’ performance-linked bonuses, so long as they meet certain requirements, in a move to introduce further tax reform to strengthen the city as a wealth management centre. The bill, which will be 
+
+## Hong Kong regulators vow strict compliance as Beijing tightens capital controls
+Hong Kong’s financial regulators have pledged to uphold strict compliance standards and crack down on illicit activity, as Beijing intensifies efforts to tighten oversight of cross-border capital flows. “We will always be steadfast guardians of the market, driving development and encouraging innovat
+
+## ‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021
+Chinese regulators are stepping up public enforcement against the nation’s corporate giants, marking a departure from the low-key approach adopted after a bruising 2021 tech crackdown. In recent months, agencies have summoned company representatives, launched high-profile investigations, and named a
+
+## Singaporean pays US$72m to join Richard Li, Pony Ma in Hong Kong’s most exclusive enclave
+A Singaporean buyer linked to an investment firm paid HK$562.6 million (US$72 million) for a historic mansion in Hong Kong’s Shek O, gaining entry into one of the city’s most exclusive residential communities where neighbours include PCCW chairman Richard Li Tzar-kai and Tencent Holdings CEO Pony Ma
+
+## As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?
+This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. As the SpaceX initial public offering (IPO) on Friday sets the sta
 
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
@@ -141,23 +153,8 @@ We have selected seven stories from this week’s news across Hong Kong, mainlan
 ## EVs capture two-thirds of China’s car market in record-breaking week
 Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting from the global energy crisis. Two out of every three new cars sold on the mainland in the seven days e
 
-## Hong Kong developers rediscover pricing power amid firmer demand
-Prices for some new homes in Hong Kong have rebounded by as much as a third from the housing market’s lowest level a few years ago amid robust demand, according to analysts. Developers have priced new units this year in Tseung Kwan O, Wong Chuk Hang and Tai Wai between 7 and 36 per cent higher than 
-
-## Innovation and integration are evolving the GBA from a safe harbour to a global contender
-[The content of this article has been produced by our advertising partner.] Over the last decade, worldwide markets have faced multiple sources of intense and sustained geopolitical risk. Trade wars and tariff skirmishes have coincided with military conflicts in both Europe and the Middle East. Thro
-
-## China’s space start-ups eye IPO boom as SpaceX heads for record listing
-This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The landmark listing of US aerospace giant SpaceX is expected to a
-
-## China’s BYD claims Germany’s plug-in hybrid crown, disrupting market of iconic auto giants
-One out of every seven plug-in hybrid vehicles registered in Germany in May came from BYD, as the Chinese carmaker’s registrations surged 232 per cent in Europe’s largest auto market from a year earlier. With 6,169 vehicles registered there in May, BYD held a 2.6 per cent share of Germany’s new-car 
-
-## Citic Securities breaks Fitch’s rating ceiling with first ‘A’ category for Chinese brokerage
-China’s most profitable brokerage, and until recently its largest by assets, has become the first mainland securities firm to enter the A-category under Fitch Ratings’ framework, a milestone in China’s efforts to build globally competitive investment banks. Fitch, one of the world’s three major rati
-
-## Hong Kong, Indonesia move towards direct transactions in yuan, rupiah
-The People’s Bank of China, Hong Kong Monetary Authority (HKMA) and Bank Indonesia signed an agreement on Thursday to create a framework for bilateral transactions between Indonesia and Hong Kong. The parties aimed to implement a currency transaction framework for the direct exchange and settlement 
+## How Russia Could Escalate
+With progress in Ukraine grinding to a halt, Moscow could seek disruption off the battlefield.
 
 ## Peru’s Photo-Finish Election
 The presidential race could hinge on just a few thousand votes.
@@ -180,32 +177,53 @@ A strategic rethink is needed in an era of U.S. unreliability.
 ## Iran Is Now More Dangerous Than Ever
 After three months of war, Tehran feels it has little left to lose.
 
-## Sudan’s Rapid Support Forces Are Terrorists
-Designating the group as such could help bring an end to Sudan’s civil war.
+## Three Characteristics of China’s Criticism of the Takaichi Administration
+Beijing’s campaign against Tokyo is unlike anything seen before.
 
-## Why Was Xi Jinping in North Korea?
-The seven-year gap since Xi’s previous visit to North Korea suggests a cooling in bilateral relations. What does it mean that he made the trip to Pyongyang at last?
+## Has the Japan-DPRK Pyongyang Declaration Been Abandoned?
+A quiet revision to Chongryon’s platform carries significant implications for Tokyo.
 
-## Bangladesh’s Myanmar Border Challenge Is No Longer Just About the Rohingya
-Bangladeshis are being abducted and killed by the Arakan Army, the de facto authority in areas along the border. But Dhaka can’t use official channels to talk to a non-state actor.
+## What’s the Philippine Senate Drama All About?
+The country's upper house has become highly polarized, creating doubts about the upcoming impeachment trial of Vice President Sara Duterte.
 
-## How Tuvalu Is Rewriting the Rules of Statehood
-As rising seas threaten its territory, the Pacific nation is leading an unprecedented effort to ensure sovereignty can survive climate change.
+## Japan and South Korea Navigate a Turbulent World
+Two neighbors, one alliance, and a great deal of uncertainty.
 
-## Why Modi’s Great Nicobar Project is a Recipe for Disaster
-It will open the Andaman and Nicobar Islands to loot and plunder. It involves felling 15 million trees and encroaching upon the land of the reclusive Shompen tribals.
+## Thai Court Sentences 2 Men to Death For Involvement in 2015 Erawan Shrine Bombing
+The attack on the popular tourist attraction in central Bangkok killed 20 people and injured around 120 more.
 
-## Climate Change and the Future of Central Asia-South Asia Connectivity
-The region’s ambitious connectivity and energy projects were conceived in a different climatic reality.
+## What Is the Threshold for Action?: A Question Afghanistan Asks the World
+How long must the Taliban continue internal repression and support for terrorist groups before the international community recognizes the real scale of the threat?
 
-## Democratizing Technology: India Stack 3.0 and the Future of Digital Public Infrastructure
-Dr. Pramod Varma joins host Tushar Shetty to discuss the design philosophy and the next stages of India's Digital Public Infrastructure.
+## The Geopolitics of China-Israel Trade and Investment
+Insights from Tomer Fadlon.
 
-## Beijing’s Shadow Networks in Okinawa
-Organized crime groups with roots in Taiwan have become a useful tool for the CCP – in Taiwan and, increasingly, abroad.
+## Explaining the Philippines’ Defeat in the UN Security Council Election
+The country's loss to Kyrgyzstan points to shifting coalitions within the U.N. and exposes the limits of alliance politics in multilateral settings.
 
-## Why the Indo-Pacific Trade Hinges on East Africa
-The region's ports, sea lanes, and gas fields have become the focus of growing geopolitical competition.
+## The Gulf Arab States Need a Shield Built for Limited Trust
+Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re
+
+## Strike, Counterstrike, Repeat
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Hostilities have increased notably in the last few days, effectively ending the U.S.-Iranian truce that had
+
+## The Evolution of Ukraine’s Asymmetrical Combat Tactics
+In 2022, Scott Sweetow wrote, “Of Roadside Bombs and Drones: Putin’s Looming Insurgency Problem,” where he argued Ukraine’s fight against Russia would rely on a combination of conventional and asymmetrical insurgent tactics. Four years of combat later, we asked Scott to revisit his arguments.Image: 
+
+## Wargaming for Improved Acquisition: What Does It Take?
+A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a leading university, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal
+
+## The Chain of Peace: Do Supply Chain Chokepoints Deter War?
+The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. ASML, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to produce the world’s most advanced semicond
+
+## The Maritime Action Plan Needs a Yardstick: Enter the Mahan Ratio
+Washington is littered with the corpses of grand plans to restore the Merchant Marine. The Trump administration’s Maritime Action Plan is the latest attempt, and to its credit, the most comprehensive since World War II.The plan is the government’s blueprint to resurrect America’s commercial shipping
+
+## Dusting a Dirt Road: How The United States Can Break the Cycle of Failing Military Infrastructure
+Winter Storm Uri ripped through Texas in January 2021. The frigid temperatures froze pipes, which then burst and caused flooding in aging barracks at Fort Hood, many of which were overdue for renovations and had vulnerable mechanical and utility systems. The burst pipes, damaged sprinkler systems, a
+
+## Cascading Failure: The Spanish Navy’s Reserve Squadron and the Tragedy of Unpreparedness
+It is in long periods of peace that victories and defeats are prepared. Peace is the period for men of government, just as war is for men of action. Without the calm preparation carried out by the former, the courage and energy of the latter are of no use. — Captain First Class Ramón Auñón y Villaló
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -231,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Korea rally to beat Czechia 2-1 on World Cup opening day
-Second-half goals by Oh Hyeon-gyu and Hwang In-beom steered South Korea to a win over Czechia in a Group A encounter.
+## Iraq’s paramilitary groups say they will disarm. Will that ever happen?
+Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.
 
-## Peruvian police dress as World Cup mascots to fool suspected drug dealer
-Police officers in Peru dressed up as 2026 World Cup mascots as they targeted a suspected drug trafficker.
+## Family mourn Indian sailor killed in US strike on oil tanker
+The wife and family of an Indian sailor killed in a US strike on a tanker off Oman this week have gathered in mourning.
 
-## Iran weighs proposed deal but remains wary of US intentions
-Iran says a proposed agreement is under review by its highest leadership and could be closer than ever before.
+## ‘Torture isn’t new to Palestinians’: How Israel learned from colonialism
+A chain of sexual violence that Britain built, France refined and Israel inherited is being used against Palestinians.
 
-## South Korea’s ex-President Yoon gets 30 years over drone operation
-Seoul court sentences former leader for sending military drones into North Korea.
+## USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups
+FIFA World Cup cohosts United States begin their campaign against Paraguay, with Donald Trump's attendance in doubt.
 
-## Amnesty and Oxfam warn of displacement in the occupied West Bank
-Amnesty International and Oxfam released reports this week documenting a rise in state-backed Israeli settler violence.
+## Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?
+Israeli zone extends into Lebanon's maritime territory, raising fears that it could become a long-term 'resource grab'.
 
-## Bosnia’s Esmir Bajraktarevic: Child of Srebrenica
-As Bosnia and Herzegovina prepare to face Canada in their 2026 World Cup opener, all eyes will be on Esmir Bajraktarevic
+## Video: What Iran’s football fans think about the World Cup
+What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?
 
-## White House shows off cage match arena as corruption lawsuit looms
-White House officials previewed the grounds where they’ll host a cage match to celebrate US President Trump’s birthday.
+## China arrests US researcher it says is suspected of ‘spying’
+Beijing's Foreign Ministry confirms US reports about detention of scholar focusing on politics of neighbouring Myanmar.
 
-## Stock markets surge as Trump calls off strikes on Iran, touts peace deal
-Wall Street and Asian markets rally on hopes for an end to the US-Israel war on Iran.
+## One in 17 children is working: Here are the industries driving child labour
+On World Day Against Child Labour, Al Jazeera takes a look at the latest numbers on child labour worldwide.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
