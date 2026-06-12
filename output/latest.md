@@ -24,6 +24,9 @@ Resignation of UK defence secretary shows some governments will struggle to find
 ## Palantir loses legal challenge against Swiss investigative magazine
 Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
 
+## SpaceX’s surge on debut makes Musk world’s first trillionaire
+Rocket and AI group’s shares jumped by nearly a fifth after raising $75bn in record initial public offering
+
 ## CEO of collapsed Prax ordered fake invoices, administrators allege
 Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
 
@@ -32,9 +35,6 @@ Our experts discuss which companies to buy, sell or hold this week
 
 ## Apollo selects Austin as site of second headquarters
 Private capital giant chose Texas city over Miami and Palm Beach as private schools’ capacity fills up in Florida
-
-## Sam Bankman-Fried loses fraud conviction appeal
-Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX
 
 ## ED arrests two former Reliance Anil Ambani Group executives in money laundering case
 The accused, former Reliance Telecom directors Sateesh Seth and Gautam Doshi, are being taken to Delhi on transit remand.
@@ -84,6 +84,9 @@ Despite being the world's largest mango producer, India exports only a very smal
 ## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
 US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
 
+## Delhi under red alert as IMD warns of thunderstorms, lightning and winds gusting up to 80 kmph
+The weather office said that very light to light rain is likely at most places, while isolated areas may receive moderate rainfall.
+
 ## India lodges strong protest with Rubio over US Navy attacks that killed three Indian mariners
 External Affairs Minister S Jaishankar said he spoke with US Secretary of State Marco Rubio on Friday.
 
@@ -105,8 +108,11 @@ The woman has been identified as Harsha Sunny, who landed at Mumbai airport from
 ## Free education till post-graduate levels in Odisha govt institutions: Majhi
 Majhi said the decision would strengthen the foundation of the state’s youth and contribute to long-term development
 
-## Abhishek Banerjee breaks silence on Kalyan Banerjee's 'arrogance' remark: 'He has right to express himself'
-TMC general secretary Abhishek Banerjee refused to comment on Kalyan Banerjee's scathing description of him as arrogant
+## FIFA World Cup 2026 Opening Ceremony Live Updates: Katy Perry, Future to perform
+
+
+## US-Iran peace hopes spark market rally, indices surge 2%
+
 
 ## Severe thunderstorm batters Delhi-NCR; IMD issues red alert, warns of 100 kmph gusts
 
@@ -124,12 +130,6 @@ TMC general secretary Abhishek Banerjee refused to comment on Kalyan Banerjee's 
 
 
 ## Was Netanyahu left in the dark over Trump’s Iran deal?
-
-
-## Fame gave me visibility, medicine gave me perspective: Aditi Govitrikar on identity, ageing and reinvention
-
-
-## Express News Quiz: Ram Charan, space industry IPO & ghost of the grasslands
 
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
@@ -156,6 +156,12 @@ This is part of a series on the global impact of SpaceX’s historic IPO, tracin
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
+## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
+He promised Israelis “total victory” but has fallen short on three fronts.
+
+## Trump’s Big Weekend Could Derail the G-7
+With or without a deal, the Iran war looms large over the three-day leaders’ summit.
+
 ## How South Africa’s Myopia Is Harming the Entire Continent
 Xenophobia in Africa’s southernmost nation will have vast implications.
 
@@ -173,12 +179,6 @@ The president’s turn to imperial civilizationalism is destroying what it claim
 
 ## How Best to Look at Russian History
 A new book shows the uses and limits of microhistories in understanding the past.
-
-## Will Farmers Lose Faith With Trump?
-The economic effects of the Iran war are straining a key Republican constituency ahead of midterm elections.
-
-## Elon Musk’s Self-Contradictory Military Policy
-The soon-to-be trillionaire’s politics undermine his own business as a government contractor.
 
 ## As Cambodia Cracks Down, Cyberscam Networks Test Sri Lanka
 What happens next will determine whether the island is a temporary refuge for foreign cybercriminals or becomes part of Asia’s cybercrime infrastructure.
@@ -252,8 +252,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UAE to unlock frozen Iranian funds amid US ceasefire push
-Sources tell Reuters news agency UAE releasing funds to ease tensions with Iran, allow both sides to avoid 'red lines'.
+## Palestine football chief says he wasn’t granted US visa to attend World Cup
+Jibril Rajoub remains in Mexico awaiting a US visa to attend the World Cup 2026.
+
+## Bosnia, Canada share points in hard-fought draw at World Cup
+Cyle Larin's equaliser gives Canada first World Cup points after Jovo Lukic put Bosnia in the lead in the first half.
+
+## Mother sues OpenAI in US after daughter’s death linked to ChatGPT use
+The lawsuit accuses OpenAI of failing to intervene despite warning signs in daughter's ChatGPT conversations.
+
+## Judge keeps order in place to remove Trump’s name from Kennedy Center
+The US president has sought to reshape the capital city's image and institutions through series of plans and projects.
+
+## UAE to unlock frozen Iranian funds amid US ceasefire push: Sources
+Reuters reports UAE agreed to unlock billions for Iran, but Abu Dhabi swiftly issued a categorical denial.
 
 ## EU agrees launch of accession process for Ukraine and Moldova
 Progress for Kyiv's membership bid given the green light after Hungary's new government lifts Budapest's veto.
@@ -263,18 +275,6 @@ Ahead of the US’s first match, Al Jazeera spoke to World Cup fans in Los Angel
 
 ## Will there be a deal to end the Iran war this time?
 After cancelling planned strikes on Iran, Trump has said an agreement to end the war will be finalised soon.
-
-## Pope warns people smugglers they face God’s wrath
-Migration has been a central theme throughout Pope Leo's weeklong tour of Spain.
-
-## New York City catches World Cup fever amid transit chaos, high costs
-World Cup preparations are underway in New York City with more than one million visitors expected.
-
-## USA vs Paraguay live: World Cup 2026
-Follow our live build-up, with full opening ceremony and team news coverage, before our text commentary stream.
-
-## US Congressman says Trump won’t send loads of money to Iran
-US House Republican Ryan Zinke says President Donald Trump wants a deal with Iran, but will not provide funding.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
