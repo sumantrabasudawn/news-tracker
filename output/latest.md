@@ -1,64 +1,88 @@
 # AION Intelligence
 
+## Oil sinks to three-month low after Trump says US close to Iran deal
+Stocks and government bonds make gains on hopes energy shock could ease
+
+## UK data suggests demand weakness leads inflation risks for BoE rate-setters
+Consumers expect prices to rise in the coming months but businesses appear more hesitant given weak demand
+
+## Police officer under criminal investigation over alleged use of AI
+Derbyshire Police says officer probed over allegations of perverting the course of justice
+
+## ECB stands ready to raise rates again, says Bundesbank boss
+Joachim Nagel signals rate-setters will keep ‘all our options open’
+
+## The Brexit Effect — postmortem finds neither triumph nor closure
+A decade after the referendum, Anthony Seldon’s anthology finds Britain still trapped between the promises and impact of splitting from the EU
+
+## Can We Be Rich Again? — Jeremy Hunt on how to fix the UK economy
+The former chancellor delivers a convincing, optimistic and detailed blueprint for growth — and a candid assessment of his own time in government
+
 ## Artist David Hockney dies aged 88
 Celebrated painter was known for works including the ‘Swimming Pool’ series
 
 ## FirstFT: SpaceX raises $75bn in world’s biggest IPO
 Also in today’s newsletter: oil prices fall as Trump hails deal with Iran and David Hockney dies
 
-## Reader callout: how to help the ‘Neet’ in your life
-We want to hear your experiences ahead of warnings of a lost generation
+## BlackRock private credit fund honours less than 40% of redemption requests
+The firm’s $13bn HPS Corporate Lending Fund limits withdrawals for a second consecutive quarter
 
-## Inflation and interest rates tracker: see how your country compares
-Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
+## Axa chief Thomas Buberl: ‘We need to adjust our definition of war’
+The insurance boss on the risks of social fragmentation, why Europe needs a sovereign wealth fund — and putting ‘my Germanness’ aside
 
-## Oil sinks to three-month low after Trump says US close to Iran deal
-Stocks and government bonds make big gains on hopes energy shock could ease
-
-## Whither SpaceX? Who knows
-¯\_(ツ)_/¯
-
-## ECB stands ready to raise rates again, says Bundesbank boss
-Joachim Nagel signals rate-setters will keep ‘all our options open’
-
-## Flutter to quit London in latest blow to UK market
-Sports betting company cites high costs and low trading levels in its decision
+## Corporate climate scheme SBTi walks delicate tightrope with new rule book
+Revised Corporate Net-zero Standard faces criticism over renewable energy rules
 
 ## US-backed fund explores buying stake in troubled French miner Eramet
 Orion CMC looking at Duval family’s stake in group where the French state is a shareholder
 
-## Ireland champions rapid EU electrification to power data centre surge
-Also in this newsletter: Revolt against deficit spending to temper energy prices
+## Reader callout: how to help the ‘Neet’ in your life
+We want to hear your experiences ahead of warnings of a lost generation
 
-## Renault joins VW and Stellantis to push ‘Made in Europe’ plan
-Car industry is split over how Brussels can protect manufacturing against Chinese EV onslaught
+## Whither SpaceX? Who knows
+¯\_(ツ)_/¯
 
-## Retail inflation climbs to 3.93% in May
-Food inflation edged up to 4.78%, driving the increase in headline consumer prices.
+## NEET disruptors will face full face of law: Cabinet Secretary
+NTA has doubled the number of pages provided for rough work in the question paper booklet from two to four pages
 
-## AI-driven homes set to become mainstream as connected living gains momentum
-Unlike traditional appliances that perform fixed functions, future AI-powered refrigerators, washing machines and air conditioners will be capable of learning user behaviour, optimising operations and delivering personalised care
+## A daughter’s final selfie, unanswered questions and a year of grief: Air India crash victims’ kin reunite in Ahmedabad
+One year after the Air India AI-171 crash killed 260 people, families returned to Ahmedabad carrying photographs, unanswered questions and demands for a memorial to mark one of India’s deadliest aviation disasters
 
-## Rupee rallies as oil slump sparks unwinding of dollar longs
-The rupee climbed ⁠to a one-week high of 94.9550 during the session before settling at 95.11, up 0.7% on the day
+## 50% More Efficient: iQIYI Emerging Film Project “None Shall Escape” Charts a New Path for AI Film Production With NadouPro
 
-## NITES IT union writes to Maharashtra Chief Minister on TCS employee suicide
-The 48-year-old employee allegedly died following workplace harassment and humiliation by certain colleagues, as per a note left behind
 
-## Sensex today | Stock Market Highlights: Sensex, Nifty surge nearly 2% as falling oil prices lift market sentiment
-Sensex, Nifty, Stock Price Highlights: Indian benchmark indices surged on Friday, with Sensex rising 1,695 points and Nifty gaining 461 points, driven by broad-based buying, banking sector strength, and easing crude oil prices following improved global geopolitical sentiment.
+## Workmen’s Compensation for Manufacturing Business
+Insurance for Labour
 
-## Singapore Court stays contempt order against Byju Raveendran pending appeal
-The stay means Raveendran will not have to surrender to authorities or face imprisonment while his appeal is heard
+## Fractal Launches Cogentiq E-Commerce: AI that Acts on Profit Signals in Minutes
+Cross-functional decisions across customer, supply, and media teams — at the speed of e-commerce
 
-## TN Assembly Speaker issues notices to 4 former AIADMK MLAs on disqualification issue
-The members have been provided a window of seven days to provide an explanation
+## CADFEM APAC and SilTerra Malaysia Partner to Advance Semiconductor Innovation Through Simulation-Driven Engineering
 
-## Anupam Rasayan becomes world's first to make ETFA using flow chemistry
-The global addressable market for ETFA is estimated at approximately $500-600 million
+
+## Skylark Drones and e2E Rail Partner to Advance AI-Powered Drone Intelligence for Railway Infrastructure
+Strategic partnership combines railway engineering expertise and AI-powered asset intelligence to support smarter infrastructure monitoring, surveying, and lifecycle management
+
+## U.S. Federal Court Dismisses Natsoft’s Patent Claims Against Hexaware
+The Court found that Natsoft’s asserted patents claimed broad, abstract ideas rather than specific inventions.
+
+## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
+US stocks showed mixed movement Friday as falling oil prices offered support, while investors awaited the highly anticipated SpaceX IPO. This debut is seen as a key test of investor appetite for AI-related investments following recent market volatility and growing doubts about high valuations.
+
+## Synergy of steel & software: How Indian Railways got on the digital track
+Indian Railways is undergoing a massive digital overhaul, transforming the passenger and freight experience. From booking tickets on smartphones to real-time train tracking and advanced safety systems like Kavach, technology is now central. This digital shift, powered by data and AI, aims to create 
+
+## Edible oil imports rise 6.7% in May, higher soyabean oil shipments drive growth
+
+
+## Forex reserves slip by $711 million to $681.6 billion, fall in foreign currency assets weighs
+India's foreign exchange reserves saw a decrease of $711 million, reaching $681.610 billion in the week ending June 5. This decline was primarily driven by a significant drop in foreign currency assets, though a rise in gold reserves partially offset the overall reduction.
+
+## Elon Musk SpaceX IPO Live Updates: Aerospace giant set to debut Wall Street after blockbuster IPO
+
 
 ## Retail inflation climbs to 3.93% in May as food prices accelerate
-
+Retail inflation climbed to 3.93% in May 2026, up from 3.48% in April, driven by a surge in food prices to 4.78%. While rural areas saw higher overall inflation, urban areas experienced a notable increase in housing costs. Precious metals and certain vegetables like tomatoes and ginger saw significa
 
 ## Pakistan eyes higher donkey meat, other related products export to China
 Pakistan is exploring the export of donkey meat and related products to China, driven by demand for their perceived nutritional and medicinal benefits. The government has established sanitary protocols with China and licensed a new slaughterhouse in Gwadar, aiming to boost foreign investment and loc
@@ -66,70 +90,58 @@ Pakistan is exploring the export of donkey meat and related products to China, d
 ## SpaceX share listing: Analysts predict $2 trillion valuation for Elon Musk-led space firm
 SpaceX's impending Wall Street debut is generating significant investor excitement, with shadow and prediction markets valuing the aerospace giant at over $2 trillion. Derivatives and perpetual futures suggest a substantial gain from its IPO valuation, indicating strong pre-trading momentum. A succe
 
-## Why is stock market rallying today? BSE Sensex rises over 1,500 points, Nifty50 back above 23,500 - top reasons for rise
-The sharp rally boosted the cumulative market capitalisation of BSE-listed firms by more than Rs 7 lakh crore, taking the overall valuation to nearly Rs 460 lakh crore.
+## 'Totally unacceptable': Trump blames Iran for attack on 'Indian ships', slams Tehran on 'fake news' over peace deal
+Trump warned that Iran needed to “get their act together, and fast.”
 
-## How US went from barring oil exports to becoming world's top crude seller
-The US has surged to become the world's top oil exporter, surpassing Saudi Arabia and Russia. This significant shift, driven by robust domestic production and strategic reserve releases, marks a dramatic reversal from past dependence. Disruptions in the Middle East and sanctions on Russia have resha
+## ‘Were in dreamland’: Rahul recalls warning TMC leaders ahead of Bengal loss
+Rahul Gandhi urged all partners to accept, with “100%” certainty, that the elections were being stolen and to stop treating it as a matter of doubt
 
-## Stock market today: BSE Sensex rallies over 1,500 points, Nifty50 crosses 23,500
+## 'Mamata Banerjee is my leader, not Abhishek or anyone else': Shatrughan Sinha vows to stand by Didi amid TMC rift
+The TMC MP expressed unwavering support for party leader Mamata Banerjee, questioned the timing of leaders' exits and denied any future plans to join BJP
 
+## TN speaker issues showcause notices to four ex-AIADMK MLAs in TVK
+The Speaker said 21 of the All India Anna Dravida Munnetra Kazhagam (AIADMK) legislators were granted forgiveness, while action has been initiated against the four MLAs.
 
-## SpaceX listing: Should Indian investors buy the stock that is set to make Elon Musk a trillionaire?
-At the IPO price of $135 a share, SpaceX commands a market valuation of around $1.75 trillion, placing it among the most valuable publicly traded companies globally despite not yet turning profitable.
+## UK families seek clarity and answers a year after Air India crash
+Sanjiv Patel is based in Leicester, a city with a large Gujarati community and home to several families affected by the 2025 crash.
 
-## Rupee in green: Currency jumps to 95.20 against US dollar on Middle East peace hopes
-The Indian rupee strengthened significantly on Friday, gaining 65 paise to trade at 95.20 against the US dollar. This surge was propelled by a drop in global crude oil prices and positive signals from US President Trump regarding a potential Iran deal. A weaker dollar and buoyant domestic stock mark
+## One year after Air India crash, AAIB says 'evidence under analysis', gives no timeline for final report
+Air India Flight AI-171, operating from Ahmedabad to London, crashed just about 30 seconds after take-off a year ago.
 
-## CRPF, CISF personnel to transport NEET-UG re-examination question papers
-The CAPF armed personnel will be assisted by state police forces at each centre when transporting the papers from airports to the banks and then to the exam centres
+## 'Insensitive': KEM hospital reacts to Sejal Pawar's remarks on Pranit More show, to decide action after meeting parents
+KEM hospital on Friday issued a statement saying it has taken ‘serious note’ of remarks made by Sejal Pawar, an MBBS student of the institution.
 
-## A Facebook post and ₹1 crore claim: What led to a Supreme Court battle between two top IAS and IPS officers
-The origins of the dispute date back to February 2023, when Rohini Sindhuri discovered a series of Facebook posts made by Roopa Moudgil.
+## Connection with underworld, no consent: Why Salman Khan moved court against makers of 'Kala Hiran' film
+Actor Salman Khan accused the project of ‘unlawfully exploiting his personality rights’, adding that it could adversely impact his reputation.
 
-## NTA announces ‘student-friendly’ measures for NEET-UG 2026 re-examination
-The NTA announced a series of student-friendly measures for NEET (UG) 2026, including additional rough-work space, and an extended examination window
-
-## Sensex closes at 75,527.95, Nifty at 23,622.90 point as hopes of Iran-US deal lift market sentiment
-The rally came after US President Donald Trump claimed a diplomatic breakthrough in talks aimed at ending the Iran war.
-
-## Artery completely blocked: What led to Indian shooting coach Jaspal Rana’s sudden death
-Rana had undergone a procedure to get a stent placed in his heart recently after experiencing chest pain and discomfort during the ISSF World Cup in Munich.
-
-## ‘Please find my brother’: On day of Air India plane crash in Ahmedabad, the hour I spent with lone survivor
-The Air India flight crashed at 1.38 pm, barely half a minute after taking off from the airport in Ahmedabad. It was carrying 242 people — passengers and crew.
-
-## Supreme Court rejects Cong leader Meenakshi Natarajan's plea against RS setback
-The Supreme Court also said that once a nomination is rejected, the only remedy is to approach the Election Commission.
-
-## Delhi's 'jinxed' CM bungalow is getting a makeover. Why it is considered ‘cursed’
-After a series of setbacks linked to the property, successive chief ministers, including Sheila Dikshit, chose not to move in.
-
-## Sanjay Raut: ‘Leaders like Sharad Pawar, Mamata, KCR who left the Congress should unite, make the party stronger’
+## Hwang In-beom – the no-drama K-Star who scripted Korea’s comeback win
 
 
-## ‘Senior chefs would hit you’: Kunal Kapur says it was ‘normal’ in India’s top hotel kitchens
+## TCS employee dies by suicide, FIR against 2 women colleagues, one other
 
 
-## Maharashtra cyber fraudster who operated from Dubai held in Bangkok, brought to India
+## Delayed due to census: Teacher training schedule for CBSE curriculum to end by July 10
 
 
-## This free AI music detector can scan playlists across streaming platforms
+## SpaceX shares begin trading after record IPO, as Wall Street tests the ‘Musk premium’
 
 
-## Power cut at event to list Centre’s 12-year achievements leaves Rajasthan govt red-faced
+## FN Souza’s Easel, Palettes and Memorabilia to be auctioned
 
 
-## Elgaar Parishad case: Bombay High Court seeks NIA’s reply to Varavara Rao’s plea to permanently reside in Hyderabad
+## UPSC Essentials | Daily subject-wise quiz : Economy MCQs on Fund of Fund, leverage and more (Week 166)
 
 
-## Curacao – blue curacao mixer, FIFA debut and a teetotaler coach in Dick Advocaat
+## Anil Kapoor puts intelligence to the test in India Ke Top 1%. Watch teaser
 
 
-## Jeff Bezos’s Prometheus raises $12bn to build AI ‘engineer’: Here’s what it means
+## Amid TMC meltdown, how Naveen Patnaik is going all out to shore up BJD
 
 
-## China’s chip software firms back Huawei’s new scaling law. But can they catch US rivals?
+## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
+This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming l
+
+## China’s chip design software firms back Huawei’s new scaling law. But can they catch US rivals?
 China’s chip design software industry is rallying behind Huawei Technologies’ ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn
 
 ## Hong Kong gazettes tax break for fund managers’ bonuses to bolster role as wealth hub
@@ -149,9 +161,6 @@ This is part of a series on the global impact of SpaceX’s historic IPO, tracin
 
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
-
-## EVs capture two-thirds of China’s car market in record-breaking week
-Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting from the global energy crisis. Two out of every three new cars sold on the mainland in the seven days e
 
 ## How Russia Could Escalate
 With progress in Ukraine grinding to a halt, Moscow could seek disruption off the battlefield.
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq’s paramilitary groups say they will disarm. Will that ever happen?
-Powerful Shia leader Muqtada al-Sadr among those who say their groups will integrate into the state.
+## Ukraine reclaims territory as it doubles attacks on Russian logistics
+Ukraine says its 'lockdown' strategy is working as it disrupts Russian supply lines.
 
-## Family mourn Indian sailor killed in US strike on oil tanker
-The wife and family of an Indian sailor killed in a US strike on a tanker off Oman this week have gathered in mourning.
+## Indonesian students protest gov’t policies amid economic strain
+Scuffles broke out as some demonstrators attempted to break through the police lines and metal barricades.
 
-## ‘Torture isn’t new to Palestinians’: How Israel learned from colonialism
-A chain of sexual violence that Britain built, France refined and Israel inherited is being used against Palestinians.
+## Video: AI models predict World Cup results
+We asked four AI models to predict the winner of the 2026 FIFA World Cup.
 
-## USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups
-FIFA World Cup cohosts United States begin their campaign against Paraguay, with Donald Trump's attendance in doubt.
+## Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’
+US actor Jerry Seinfeld is facing backlash after saying Palestine ‘doesn’t exist’.
 
-## Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?
-Israeli zone extends into Lebanon's maritime territory, raising fears that it could become a long-term 'resource grab'.
+## Are Iran, US really close to a breakthrough ‘deal’?
+Trump says a deal with Iran could be signed in Europe over the weekend. Tehran cautions against speculation.
 
-## Video: What Iran’s football fans think about the World Cup
-What’s it like supporting your team in a World Cup hosted by a country that’s at war with yours?
+## London mayor slams event touting illegal Israeli settlement land sales
+'Great Israeli Real Estate Event' promotes the sale of stolen Palestinian land in settlements in the occupied West Bank.
 
-## China arrests US researcher it says is suspected of ‘spying’
-Beijing's Foreign Ministry confirms US reports about detention of scholar focusing on politics of neighbouring Myanmar.
+## Renowned British artist David Hockney dies aged 88
+Hockney is considered an influential and defining figure in 20th and 21st century contemporary painting.
 
-## One in 17 children is working: Here are the industries driving child labour
-On World Day Against Child Labour, Al Jazeera takes a look at the latest numbers on child labour worldwide.
+## Thai Princess Bajrakitiyabha dies after years in coma
+Thailand is mourning Princess Bajrakitiyabha, the king's eldest child and potential heir, who died at 47.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
