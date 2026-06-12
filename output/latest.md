@@ -1,7 +1,10 @@
 # AION Intelligence
 
+## Donald Trump says US close to deal with Iran and calls off strikes
+Markets rally and oil prices dip as US president claims agreement will reopen Strait of Hormuz
+
 ## World Cup of disunity kicks off in Mexico
-Mexican beat South Africa in first game as the three hosts feud and fans fear US immigration crackdown
+Mexican team beats South Africa in first game as the three hosts feud and fans fear US immigration crackdown
 
 ## Musk’s SpaceX raises $75bn in world’s biggest IPO
 Rockets-to-AI group priced its shares at $135 in deal that drew blockbuster investor demand
@@ -11,9 +14,6 @@ Also in today’s newsletter: Trump says US close to deal with Iran, and China c
 
 ## Trump names former SEC head Jay Clayton as US intelligence chief
 President has faced backlash in Congress over his pick of Bill Pulte as acting director of national intelligence
-
-## Trump says US close to deal with Iran and calls off strikes
-Markets rally and oil prices dip as US president claims agreement will reopen Strait of Hormuz
 
 ## UK defence ministers resign as row over military spending escalates
 Concerns over budget spark flurry of resignations and criticism of Keir Starmer and Treasury
@@ -42,101 +42,104 @@ Iceland chair Lord Richard Walker, appointed by Starmer in February, calls syste
 ## The ‘new joule order’ is here. The west is last to realise
 Electrification is the purchase of optionality and China bought more of it than any nation in history
 
+## Buzzing stocks: Sagility, BHEL, Cipla, PCBL, NLC India, BCPL Railway, Gujarat Inject, Lancor, Astral, Alembic, Prestige, Sattrix, DSM Fresh
+Key developments in India’s healthcare, power, chemicals, and infrastructure sectors highlight significant acquisitions, partnerships, and projects across various industries.
+
+## Sensex today | Stock Market Live Updates: Stock to buy today: Prudent Corporate Advisory Services (₹2,809) – BUY
+Sensex, Nifty, Stock Price Live Updates: Traders can buy the stock now at ₹2,809. Accumulate on dips at ₹2,760. Keep the stop-loss at ₹2,670 initially. Trail the stop-loss up to ₹2,840 when the price goes up to ₹2,875
+
+## 75 IPOs unlock $31 billion worth of shares by Sept-end
+PE and VC investors gain an exit window as lock-ins expire, though sales are expected to be staggered.
+
+## Rafale deal unlikely to be announced during PM Modi’s France visit
+France engaging with India’s demand for access to source codes, manufacture aircraft in India
+
+## Venus flytrap mechanism decoded: Study reveals how plant traps prey
+The discovery resolves a century-old scientific debate and highlights how biological systems can inspire future innovations in soft robotics and smart materials
+
+## India restricts diesel and petrol sales at retail pumps for bulk users
+The move, issued via notification, will remain in effect for up to 90 days unless revoked earlier
+
 ## Iran says no final decision on any US deal, calls reports speculation
 Iranian officials said negotiations remain incomplete, with key differences still unresolved and US position shifts slowing progress
 
 ## SpaceX IPO pushes Elon Musk’s net worth past $1 trillion
 SpaceX’s record-breaking IPO highlights the extraordinary investor confidence in Musk’s vision, even as debates grow over governance, valuation, and political influence
 
-## SpaceX raises $75 billion in mega IPO as investors bet on space future
-The IPO marks the largest-ever US public offering, surpassing Saudi Aramco’s previous record
+## Oil prices slip below $90: Brent, WTI tumble after Trump announces ‘ending war with Iran’
+Oil prices dropped below $90 per barrel as US President Donald Trump announced a framework agreement with Iran, signaling an end to the conflict and the expected reopening of the Strait of Hormuz. This development follows a week of heightened tensions and Iran's earlier threat to close the vital shi
 
-## Air India Ahmedabad crash report may take a few more months to complete: sources
-Final investigation report likely in two-three months’ time; probe on track, say sources
+## Credit surges 17.7% as deposit slowdown widens funding gap
+Credit growth stood at 17.7% for the fortnight ending May 31, 2026, the highest recorded so far in the current financial year and the strongest year-on-year expansion since June 2024. Outstanding bank credit rose by Rs 1.5 lakh crore since March 31, 2026, marking a 0.7% increase (year-to-date), with
 
-## Zinc futures: Sell for a target of ₹350
-The contract is likely to undergo a correction
+## FMCG companies raise prices by 4-11% after fuel price hike
+Leading consumer goods companies, including HUL, Colgate-Palmolive, Emami, Dabur and Marico, are increasing prices, as higher crude prices, freight and commodity inflation triggered, amid the West Asia conflict, pushed up input costs. For instance, Hindustan Unilever has hiked prices of Dove and Pea
 
-## Capex by CPSEs, Railway Board, NHAI touched over 17% in April-May
-Over ₹1.44 lakh crore spent in two months of FY27; GAIL (India) tops the table
-
-## Score goals, save more: Supplyco launches FIFA World Cup-themed discounts
-The Kerala State Civil Supplies Corporation (Supplyco) has launched ‘Supplyco Soccer Eleven’ to merge the excitement of the world’s biggest football tournament with everyday shopping
-
-## Wheeled construction equipment sales fall 17.5% in May; JCB expands market lead
-Industry sales in May 2026 declined nearly 20 per cent sequentially, indicating a broad-based demand moderation in the segment
-
-## Countries protecting domestic industries, India no exception: Piyush Goyal on global trade
-India navigates global trade challenges by fostering dialogue and partnerships, even as nations increasingly protect domestic industries like steel. Minister Piyush Goyal highlighted that despite a less effective WTO, international trade largely operates under its framework. India is actively pursui
-
-## Seeds of change: How India’s agriculture went high-output in 12 years
-India's agriculture sector has seen remarkable growth over the past decade, fueled by increased government investment and record foodgrain production. Policies now prioritize productivity, market access, and farmer income security. This transformation, marked by doubled GVA and enhanced crop yields,
-
-## US stocks today: Wall Street rebounds as AI stocks recover despite Iran war worries
+## India central to EY’s AI strategy: Truncale
 
 
-## India retains growth edge with 6.6% growth, World Bank forecasts; cuts global outlook
-Global growth forecasts are down to 2.5% for 2026, with the Middle East conflict and rising energy prices cited as key reasons. Despite this, India is set to remain the world's fastest-growing major economy, projected at 6.6% in fiscal year 2026-27. However, higher energy costs may moderate India's 
+## Strong domestic travel since West Asia war: Marriott
+After slipping in March, business has returned to normalcy. “Right as the conflict started, we saw a lot of cancellations. In March, the first full month, we were projecting double-digit revenue per available room (Revpar) growth in India. That turned negative. Then we saw people pivoting. Travel di
 
-## SpaceX IPO tomorrow: Could Elon Musk become world's first trillionaire? Decoding the math
-Elon Musk may soon become the world's first trillionaire. This is due to the upcoming initial public offering of his company SpaceX. The IPO is expected to be the largest in history. If valuations hold true, Musk's personal fortune could surge past the trillion-dollar mark. This event could reshape 
-
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Indian equity benchmarks closed lower on Thursday, impacted by global weakness, rising crude oil, and Middle East tensions. IT stocks saw significant selling, while banking and pharma offered some support. Markets experienced volatility throughout the session, reflecting investor caution amid geopol
-
-## Wipro Rs 15,000 crore buyback opens - what it means for retail investors
-Wipro's Rs 15,000 crore share buyback is now open, offering shareholders Rs 250 per share, a significant premium over the current market price. The offer, valid until June 17, presents a potential arbitrage opportunity for retail investors. However, analysts suggest limited gains, with acceptance ra
-
-## Boost for litchi exports! Assam’s GI-tagged Tezpur litchi reaches Dubai, Singapore
-Assam's prized Tezpur litchi has made its international debut with the first export consignment reaching Dubai. This milestone, facilitated by APEDA, highlights efforts to boost Northeast agricultural exports. The GI-tagged fruit, celebrated for its exceptional taste and aroma, fetched farmers highe
-
-## Red alert in Delhi as thunderstorms, rain and strong winds likely to intensify from Friday
-The prevailing conditions are also expected to bring relief from the heat, with temperatures likely to dip over the next few days.
-
-## Nipah virus resurfaces in Kerala with 43-year-old bizman testing positive; 72 people in contact list
-Nipah virus reemerges in Kerala as a 43-year-old man tests positive. Health officials alert contacts, with 72 people identified for monitoring.
-
-## Three merchant ships hit by the US off Oman coast had a chequered past
-Three merchant ships, previously deemed unsafe or sanctioned, were struck by the US Navy off Oman, leading to the death of three Indian seafarers.
-
-## Stone pelted at train with RSS chief Mohan Bhagwat on board, window glass of coach broken
-RSS chief Mohan Bhagwat was travelling in the same coach but was seated on the opposite side and remained unharmed.
-
-## Owaisi demands EC accept PAN card, driving licence for voter verification in SIR
-Owaisi said that of the 12 identity proofs approved by the Election Commission, three are not available in Telangana.
-
-## Delhi, Punjab, Odisha: States roll out free travel for NEET-UG re-exam candidates
-The NEET-UG re-examination was scheduled after the original exam was cancelled following a paper leak and allegations of irregularities.
-
-## MT Marivex, Settebello, MT Jalveer: All about 3 vessels with Indian crew struck by US near Oman
-Each of the three vessels struck has had a complicated history with inspection deficiencies, detentions and sanctions.
-
-## Congress' Pawan Khera now Rajya Sabha MP after being elected ‘unanimously’ with Kharge, others from Karnataka
-Congress chief Mallikarjun Kharge was elected ‘unanimously’ to the Rajya Sabha along with debutants Pawan Khera and Mansoor Ali Khan.
-
-## Delhi Confidential: Taking the LEAD
+## It’s a race to capture real-world AI training data
 
 
-## Base MBBS admissions on Class 12 marks: Tamil Nadu CM Vijay
+## No further excise on E22, higher grades ethanol/petrol
+The Central Board of Indirect Taxes and Customs (CBIC) issued notifications on Wednesday, exempting ethanol blended petrol (EBP) grades E22, E25, E27 and E30, containing 22% to 30% ethanol, from applicable central excise duties, subject to excise duty having already been paid on petrol and GST havin
+
+## Now, AI agents can decide when to strike deals using UPI mandate
 
 
-## Man from UP nabbed for sacrilege bid at Golden Temple complex
+## 'Can't treat me like a dustbin': Kalyan Banerjee's outburst on Abhishek worsens TMC crisis
+Kalyan has never been shy of picking a fight or attacking anyone, even Abhishek Banerjee, but his latest outburst will hit the hardest due to its timing.
+
+## Vizag-based marine engineer died in US strike on vessel, days before his 15th wedding anniversary
+Marine engineer Suresh Patnala, 44, was killed in a US military strike off Oman; his family mourns his loss before their 15th anniversary.
+
+## 25-yr-old gym owner shot dead in Hansi; gang rivalry suspected
+A gym owner, Kapil Redhu, was shot dead in Haryana's Hansi; a woman was injured. A gang member claimed responsibility, alleging Redhu was a conspirator.
+
+## 2 years in power: Naidu-led Andhra govt juggles growth, welfare
+Andhra Pradesh CM N. Chandrababu Naidu's coalition government marks two years in office, facing economic challenges amid opposition criticisms and welfare promises.
+
+## Massive fire breaks out at residential building in Delhi; 8 moved to hospitals
+Massive fire breaks out at residential building in Delhi; 8 moved to hospitals
+
+## Tiger safari in UP extended by 15 days amid delayed monsoon
+Uttar Pradesh extends its tiger reserve tourist season by 15 days to June 30 due to delayed monsoon, anticipating 10,000-15,000 more visitors.
+
+## UP varsities told to form anti-conversion cells
+Uttar Pradesh's governor orders colleges to establish anti-conversion cells, prompting support from the BJP and criticism from the opposition over priorities.
+
+## CM Revanth proposes task force for development of six major cities
+Telangana CM A Revanth Reddy proposed an "M-6 Task Force" for urban growth, seeking ₹6 lakh crore to elevate six key cities to global standards.
+
+## How a TMC split may alter Parliament arithmetic, strengthen NDA’s hand
 
 
-## ‘Patriarchal preference for male child’: Supreme Court says strict enforcement of PCPNDT Act needed
+## 3 dead as massive fire breaks out in Delhi’s Tughlaqabad
 
 
-## PWD gives nod for a consultant for structural audit of Signature Bridge in Delhi
+## Mexico’s ‘cathedral of football’, the stadium Maradona never really left
 
 
-## Smoke detectors, fire extinguishers could soon be mandatory at homes in Delhi
+## Turkish Airlines ordered to pay Rs 50,000 after 1-day baggage delay ruins man’s business trip
 
 
-## Fled over a year back, grew his network in Georgia: Gangster behind BSP leader’s murder extradited
+## Now-missing report on 2008 killing of VHP leader in Odisha ‘mentioned conversion, Naxal activity’: Probe panel chief
 
 
-## Delhi cop booked for assaulting woman and trespassing into Gurgaon society
+## What’s behind the PoK protests: Weight of history, woes of the present
 
+
+## US-Canada bridge opening delayed: Gordie Howe Bridge faces issues after Trump threat
+
+
+## FIFA World Cup: Magical strike by Mexico’s most-loved striker
+
+
+## EVs capture two-thirds of China’s car market in record-breaking week
+Electric vehicles accounted for a record 66.7 per cent of new car sales in mainland China during the first week of June, the latest sign that the country’s battery-powered carmakers are benefiting from the global energy crisis. Two out of every three new cars sold on the mainland in the seven days e
 
 ## Hong Kong developers rediscover pricing power amid firmer demand
 Prices for some new homes in Hong Kong have rebounded by as much as a third from the housing market’s lowest level a few years ago amid robust demand, according to analysts. Developers have priced new units this year in Tseung Kwan O, Wong Chuk Hang and Tai Wai between 7 and 36 per cent higher than 
@@ -158,9 +161,6 @@ The People’s Bank of China, Hong Kong Monetary Authority (HKMA) and Bank Indon
 
 ## Why tech titans’ IPOs matter as much in China as in the US
 Blockbuster initial public offerings from tech champions such as Anthropic and SpaceX are about to fundamentally reshape global capital markets. This wave will redirect capital flows and alter valuations across the tech sector. As competition intensifies, investors worldwide will be forced to comple
-
-## China’s biotech industry sees global expansion as unstoppable, despite US pressure
-China’s biotech firms are pressing ahead with global expansion, a trend industry insiders describe as “irreversible”, even as Washington rolls out investment restrictions and national security measures aimed at slowing their advance. “The US has erected numerous regulatory and non-tariff barriers fo
 
 ## Peru’s Photo-Finish Election
 The presidential race could hinge on just a few thousand votes.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US lawmakers press Israel to let cancer patients out of Gaza for treatment
-Group of lawmakers call on Trump administration to facilitate medical evacuations out of Gaza amid dearth of services.
+## Stocks markets surge as Trump calls off strikes on Iran, touts peace deal
+Wall Street, Asian markets rally on hopes for an end to US-Israeli war on Iran.
 
-## Man pleads guilty to slaying top Democrat and her husband in Minnesota
-Murder of Melissa and Mark Hortman by man disguised as police officer prompted concerns about political violence in US.
+## Iran World Cup captain reveals Mexico cartel robbery story
+Iran's World Cup captain says he’s heard Mexican cartels love Iranians and revealed his own brush with an armed group.
 
-## Jimenez and Quinones net as Mexico beat South Africa in World Cup opener
-World Cup 2026 cohosts Mexico open the tournament with 2-0 win against South Africa, who were reduced to nine men.
+## Can Africa turn its population boom into prosperity?
+Africa’s rapid population growth offers major economic opportunities but also deep structural constraints.
 
-## World Cup mania at Mexico’s Zocalo Square
-Jubilant football fans at Mexico City’s Zocalo Square are ready for the World Cup Opener at the city’s centre.
+## Israel launches overnight strikes across Gaza
+Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.
 
-## What happened, and who performed at the World Cup 2026 opening ceremony?
-Musical performances, colour, and fan excitement precede the World Cup's opening game in Mexico City.
+## DR Congo arrive in the US for the World Cup after Ebola quarantine
+DRC squad arrived on a flight from Paris after US authorities insisted they serve a 21-day quarantine period elsewhere.
 
-## How puppets are helping women and children in Gaza cope with trauma
-A puppet show project in Gaza is using storytelling and creative workshops to help women and children process trauma.
+## Japan’s Wataru Endo retires after injury ends World Cup 2026 dream
+Midfielder and captain quits after failing to recover from foot injury ahead of Japan's game against the Netherlands.
 
-## Minister condemns ‘racist thuggery’ as violence returns to Northern Ireland
-The return of unrest to the province, which suffered decades of sectarian violence, has provoked deep concern.
+## Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes
+The International Rescue Committee warns that people displaced by Israeli attacks in Lebanon are at 'breaking point'.
 
-## Israel releases Hamas co-founder after two years in detention
-Israeli authorities released Hamas co-founder Hassan Yousef after more than two years in administrative detention.
+## Who are Julian Quinones and Raul Jimenez, Mexico’s World Cup goal scorers?
+Mexico's two goal scorers were overcome with emotion as they took their team to a win in the World Cup's opening game.
 
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
