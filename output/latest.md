@@ -9,7 +9,7 @@ Goals, talent and diversity are set to drown out controversy off the pitch
 ## The strategic dilemmas behind Britain’s defence spending mess
 At the heart of the debate is not just how much the UK should spend on the military, but what types of threat it faces — and ultimately, its place in the world
 
-## SpaceX’s IPO is a display of Musk’s autocratic power
+## SpaceX’s IPO is a display of Musk’s dominance
 His unrivalled grip on the public imagination has transmuted into Wall Street gold
 
 ## Warsh and learn
@@ -84,6 +84,9 @@ Despite being the world's largest mango producer, India exports only a very smal
 ## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
 US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
 
+## India lodges strong protest with Rubio over US Navy attacks that killed three Indian mariners
+External Affairs Minister S Jaishankar said he spoke with US Secretary of State Marco Rubio on Friday.
+
 ## Teacher, who was sacked for joining CJP's Delhi protest, 'gets job back' after cockroach party challenges dismissal
 A suspension order targeted at a Haryana guest teacher and CJP supporter was revoked following a public statement by the party, condemning the move
 
@@ -105,8 +108,11 @@ Majhi said the decision would strengthen the foundation of the state’s youth a
 ## Abhishek Banerjee breaks silence on Kalyan Banerjee's 'arrogance' remark: 'He has right to express himself'
 TMC general secretary Abhishek Banerjee refused to comment on Kalyan Banerjee's scathing description of him as arrogant
 
-## Pakistan raises defence spending 18% to ₹3 trillion in new Budget to be ‘invincible’ amid US-Iran tensions
-The defence increase followed talks with provinces over pooling fiscal space for security needs, with development plans also cut back before the Budget.
+## Severe thunderstorm batters Delhi-NCR; IMD issues red alert, warns of 100 kmph gusts
+
+
+## Watch: Sonakshi Sinha reveals her simple hack for perfect winged eyeliner
+
 
 ## What ‘Rich Dad Poor Dad’ teaches about building wealth beyond a 9-to-5 job
 
@@ -124,12 +130,6 @@ The defence increase followed talks with provinces over pooling fiscal space for
 
 
 ## Express News Quiz: Ram Charan, space industry IPO & ghost of the grasslands
-
-
-## Maharashtra to introduce law recognising women as independent farmers; Bill likely in monsoon session
-
-
-## Labourer dies at Juhu beach after falling under landscaping machine
 
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
@@ -156,6 +156,12 @@ This is part of a series on the global impact of SpaceX’s historic IPO, tracin
 ## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
 We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
+## How South Africa’s Myopia Is Harming the Entire Continent
+Xenophobia in Africa’s southernmost nation will have vast implications.
+
+## The Aliens Aren’t the Most Unbelievable Part of Steven Spielberg’s New Movie
+Would even extraterrestrials inspire humanity to unite these days?
+
 ## Russia, Land of the Unpredictable Past
 A new censorship law restricts what Russians were ever allowed to have sung, written, or published.
 
@@ -173,12 +179,6 @@ The economic effects of the Iran war are straining a key Republican constituency
 
 ## Elon Musk’s Self-Contradictory Military Policy
 The soon-to-be trillionaire’s politics undermine his own business as a government contractor.
-
-## Missile Defense Worked Against Iran. It Might Not Work Against China.
-The ongoing war has revealed vulnerabilities that could prove far more dangerous in a conflict over Taiwan.
-
-## Don’t Invite Syria Back Into Lebanon
-Washington is contemplating the one thing that could rally Lebanese around Hezbollah.
 
 ## As Cambodia Cracks Down, Cyberscam Networks Test Sri Lanka
 What happens next will determine whether the island is a temporary refuge for foreign cybercriminals or becomes part of Asia’s cybercrime infrastructure.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How the Gulf will manage collective security after the Iran war ends
-An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.
+## UAE to unlock frozen Iranian funds amid US ceasefire push
+Sources tell Reuters news agency UAE releasing funds to ease tensions with Iran, allow both sides to avoid 'red lines'.
 
-## Sam Bankman-Fried loses appeal to overturn fraud convictions and prison
-If the former crypto billionaire loses all remaining avenues, he would be eligible for release in 2044.
+## EU agrees launch of accession process for Ukraine and Moldova
+Progress for Kyiv's membership bid given the green light after Hungary's new government lifts Budapest's veto.
 
-## US judge refuses to block Trump’s White House UFC fight
-Federal judge rules UFC fight at White House on Trump’s birthday can proceed despite legal challenges.
+## World Cup fans express excitement and share their predictions
+Ahead of the US’s first match, Al Jazeera spoke to World Cup fans in Los Angeles.
 
-## Venezuela hits out at Trinidad and Tobago in oil spill spat
-Caracas warns of environmental and economic damage amid heightened tension with its neighbour.
+## Will there be a deal to end the Iran war this time?
+After cancelling planned strikes on Iran, Trump has said an agreement to end the war will be finalised soon.
 
-## India’s West Bengal pushes out Muslim Bangladeshis
-Thousands of Muslim Bangladeshis have been detained or deported under West Bengal's new BJP government.
+## Pope warns people smugglers they face God’s wrath
+Migration has been a central theme throughout Pope Leo's weeklong tour of Spain.
 
-## UN adopts treaty setting standards for gig economy workers
-The protections included in the world-first agreement include enforcing minimum wage requirements and obligations.
+## New York City catches World Cup fever amid transit chaos, high costs
+World Cup preparations are underway in New York City with more than one million visitors expected.
 
-## At least one killed and nine hospitalised in Midland, Texas shooting
-Authorities in Midland, Texas, say that suspected attacker confirmed dead after shooting and standoff with police.
+## USA vs Paraguay live: World Cup 2026
+Follow our live build-up, with full opening ceremony and team news coverage, before our text commentary stream.
 
-## Musk becomes first trillionaire as SpaceX debuts on Nasdaq
-Musk becomes first trillionaire as SpaceX debuts on Nasdaq
+## US Congressman says Trump won’t send loads of money to Iran
+US House Republican Ryan Zinke says President Donald Trump wants a deal with Iran, but will not provide funding.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
