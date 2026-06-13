@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Investment firms join Donald Trump’s $100bn race for Venezuelan oil
+Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue assets in Latin American nation.
+
+## Europe’s fighter jet fiasco
+The collapse of Paris and Berlin’s joint venture raises the question of whether either country can do defence alone
+
+## How Wall Street pulled off the biggest IPO in history for SpaceX
+Bankers convinced investors to believe in a sci-fi strategy, overlook steep losses and hand full control to Elon Musk
+
+## Chart of the Week: US headline inflation matters to consumers
+The headline annual inflation rate hit 4.2%, the highest since April 2023
+
 ## Goldman and JPMorgan ease office working rules to counter World Cup disruption
 Wall Street lenders say employees can ask to work from home on match days to ease congestion in host cities
 
@@ -12,17 +24,8 @@ A ‘wait and see’ monetary policy strategy risks repeating the mistakes made 
 ## European tech sovereignty: a doubtful goal but a good investment
 Given the continent’s weak starting point, its modest ambitions could have a big impact on local companies
 
-## Why Ebola came back — and a warning for the next pandemic
-The outbreak in the DR Congo is unlikely to spread worldwide. But it comes at a time of cuts to health budgets and exposes a worrying lack of preparedness for ‘Disease X’
-
-## What Andy Burnham could mean for your money
-The Labour leadership hopeful has left clues as to his priorities on tax, investment and housing
-
-## France opposes ‘anglicisation’ of EU trade talks
-Trade commissioner argues translation into 24 languages slows down bloc’s ability to strike up deals
-
-## How video games became a channel for political influence
-From China to Saudi Arabia, governments are investing billions in gaming to project influence and assert control
+## UK housebuilder Vistry offers staff voluntary redundancy
+Company is trying to preserve cash to shore up its business amid market slowdown
 
 ## The sweet smell of World Cup dollars
 Also in today’s newsletter: a dispatch from LA and Mercedes F1’s robust finances
@@ -33,38 +36,44 @@ Mike Ashley’s penchant for stake-building is not that well suited to the publi
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-## Nationalise Heathrow to build third runway, says Emirates boss
-Tim Clark is open to a successor to the discontinued superjumbo A380, even if made in China
+## Gujarat govt to unveil New Industrial Policy 2026 on June 15
+Gujarat has emerged as a preferred destination for domestic and global investments, supported by world-class infrastructure, proactive governance, robust connectivity, and a skilled workforce, Gujarat Chief Minister’s office states
 
-## Luke Miels, the quiet GSK boss making a $10.6bn bet on cancer
-The UK pharma group has announced its biggest biotech acquisition in more than 25 years
+## What is ‘cardiac age’? Doctors warn your heart can be older than you, and it’s a risk
+Cardiac age is increasingly being used to explain cardiovascular risk in a way people can easily understand
 
-## Elite sportsman. Entrepreneur. What drives Mathieu Flamini?
-The midfielder who co-founded a biochemicals business on the difference between the locker room and the boardroom
+## India's productivity gap with China widens despite strong GDP growth: Equirus Securities
+The report noted that while emerging market labour productivity has grown steadily over the past three decades, the current phase is marked by sharp divergence across countries
 
-## Hexaware opens Gift City hub with 250 employees to serve US, Europe BFSI client; targets 1000 jobs in 3 yrs
-When asked if Hexaware has scaled down its hiring plans for GIFT City, Jain said the current expansion plan should be seen as part of a phased growth strategy, with the immediate focus on building a delivery hub for international clients
+## OFCD case: SEBI moves Supreme Court against SAT relief to SICCL managers, company secretary
+While dismissing the appeals filed by SICCL and its directors, the tribunal had allowed a separate appeal filed by four managers and the company secretary, while holding that as employees they could not be held liable for the company's actions
 
-## Ashwini Vaishnaw reviews recruitment process of the Railway Recruitment Board
-Indian Railways recruited 43,781 candidates in FY 2025-26, filling 47,084 vacancies across six major categories, highlighting an accelerated recruitment process
+## Tata Trusts CEO shifts focus from Boardroom turmoil to Philanthropy
+Tata Trusts is among India’s largest philanthropic institutions and remains the principal shareholder of Tata Sons, the holding company of the Tata group
 
-## India's FTAs set stage for $1-trillion export target: Report
-The trade agreements along with PLI schemes and ‘China+1’ diversification give india a good shot at lifting its merchandise exports to $1 trillion by 2030, the report said
+## NTA launches digital training programme for examination officials
+The course is intended for examination functionaries, in particular Centre Superintendents and Invigilators, who are involved in the conduct of the NTA examinations
 
-## India-Nepal explore AI collaboration to boost bilateral technological ties
-The event gathered stakeholders from government, academia, and the startup ecosystem to discuss how both nations can leverage artificial intelligence for shared economic growth
+## Nifty and Bank Nifty Prediction for the week 15 Jun’26 to 19 Jun’26 by BL GURU
 
-## World Bank cuts global growth forecast to 2.5% as West Asia conflict triggers energy shock
-In a report, the World Bank said commodity prices are expected to rise by 22% in 2026, in contrast to the 7% decline expected in January
 
-## IAF aircraft AN-32 crashes while landing in Assam's Jorhat
-The incident occurred while the aircraft was landing at the IAF's airbase in the Rowriah area
+## Two phones and an app: How Russians skirt Putin's digital iron curtain
+Since the Kremlin tightened internet control this year, Russians have sought complex technical solutions to bypass state monitoring and restrictions on popular apps like WhatsApp and Telegram
 
-## India will give voice to aspirations of Global South at G7 Summit: Modi
-"At the G7, India will not only speak for itself, but it will also give voice to the aspirations of the Global South," he said
+## Venezuela oil rush: US investors chase Trump's $100 billion call as funds target energy assets - report
 
-## AM Green, VOC Port partner to build green ammonia bunkering hub in Tamil Nadu
-Companies to invest over ₹22,000 crore for setting up production and bunkering infrastructure
+
+## Seventh among giants: SpaceX joins world's most valuable companies after blockbuster debut
+
+
+## SpaceX's $75 billion IPO could get an $11 billion boost — here's how
+SpaceX's IPO raised $75 billion, with a greenshoe option potentially adding another $11.2 billion. This mechanism allows underwriters to buy additional shares from the company if the stock price rises above the IPO price, boosting the total funds raised. The next few weeks will reveal if SpaceX's la
+
+## How rich is a trillionaire? Elon Musk can sponsor IPL for 17,000 years, spend Rs 1 crore daily for 23,500 years
+Elon Musk's ascent to trillionaire status, driven by Tesla, SpaceX, and xAI, redefines immense wealth. A trillion dollars, approximately Rs 86 lakh crore, dwarfs national economies and government budgets. This fortune could fund multiple Apollo missions, build numerous advanced telescopes, or purcha
+
+## 'Mega bubble or fairy tale?': Uday Kotak reacts to SpaceX's historic IPO
+Veteran banker Uday Kotak questioned SpaceX's massive valuation, calling it a "huge bet on the future" that defies traditional metrics. Elon Musk's company debuted on Wall Street, making him the world's first trillionaire. Despite concerns about unproven technologies and cash burn, investor faith re
 
 ## Property buyers beware: ITAT ruling highlights TDS pitfalls
 
@@ -75,67 +84,52 @@ Companies to invest over ₹22,000 crore for setting up production and bunkering
 ## Tata Group tells Air India to focus on cutting losses
 The carrier is also reevaluating plans to fly to new domestic and international destinations, pruning some routes and postponing launches at some airports, such as the new Noida International Airport, the people familiar with the matter said. Air India’s cowed ambitions follow a series of challenges
 
-## Despite rocky year, Tata Sons records high profit growth
-Tata Sons is understood to have recorded high-teens profit growth in FY26, a result that strengthens Chandrasekaran’s hand as he faces questions from Noel Tata, chairman of principal shareholder Tata Trusts, over losses at the company’s new businesses, including Tata Digital. Growth came despite low
+## Police raid Abhishek Banerjee’s house at 2am to trace aide in land fraud case
+Police searched Abhishek Banerjee’s house in Kolkata’s Kalighat area in connection with a land fraud case in which his personal assistant Sumit Roy is an accused
 
-## Retail inflation inches up to 5-month high in May
-Despite the staggered increase in retail fuel prices during the past month in the backdrop of persisting conflict in West Asia, fuel inflation remained contained at 0.8% in May, though marginally higher than 0.7% in April. Economists expect the pass through to become visible in June. Dipti Deshpande
+## Viral post claims re-NEET paper leaked. Here's what the govt said
+PIB fact check said, “A question paper is being circulated on social media claiming that the NEET paper has been leaked again. This Claim is fake."
 
-## AI overload: CVs no more a selling point
-The London-based company which has been operating in India for more than a decade now said that the volume of interviews that recruiters today conduct have gone up because corporates are mandating them to look beyond CVs when shortlisting a pool of candidates for a job. “Earlier CVs used to be uniqu
+## Meet next Army Chief Lt Gen Dhiraj Seth: An NDA alumnus, who led two Army commands, shaped military modernisation
+Lt Gen Seth, currently serving as the Vice Chief of the Army Staff. will succeed General Upendra Dwivedi, who will retire from service on June 30.
 
-## Byju’s founder gets relief as S’pore court stays order
-In a statement on Friday, his legal counsel, Lazareff Le Bars, said the General Division of the Singapore High Court stayed the committal and surrender provisions of the May 25 contempt order on June 10. As a result, Raveendran will not be required to surrender on June 15 as previously directed. The
+## CM Yogi directs police to file FIR against those trolling Akhilesh Yadav's daughter: 'Never made any distinction'
+Yogi Adityanath called for dignity in public discourse when referring to someone's daughter or sister, standing in defense of Akhilesh Yadav's daughter
 
-## India gets a homegrown AI video model
+## ‘If govt can’t fight, we will’: Supriya Sule demands strong action against US over seafarers’ deaths
+Calling the deaths “deeply saddening”, Supriya Sule said India must take a firm position in defence of its citizens.
 
+## ‘People may stop donating bodies': AIMSA leader slams Sejal Pawar's remarks during Pranit More's show
+Dr Kanishka Kalra, general secretary of AIMSA's Foreign Medical Students' Wing, flagged the fallout of Dr Pawar's remarks.
 
-## Assam restricts Aadhaar card issuance for people above 18 years: CM Himanta
-Himanta Sarma noted that under the leadership of PM Modi, the North East has moved from the margins of national discourse to the centre of policymaking
+## PM Modi’s France-Slovakia tour to focus on G7 Summit, bilateral ties
+Modi will criss-cross between France and Slovakia between June 13 and 18, travelling first to the French port city of Nice, where he will hold bilateral talks
 
-## IAF's AN-32 aircraft splits in two after crash landing in Assam's Jorhat: Video
-Footage from the site purportedly showed the aircraft lying adjacent to the runway after crash-landing.
+## Lt General Dhiraj Seth appointed as next Army chief, to assume office on June 30
+Lt General Seth was serving as the Vice Chief of the Army Staff (VCOAS), a position he assumed in April this year.
 
-## India must build ‘antifragile’ systems to tackle risks: PK Mishra
-Mishra said resilience must be understood not merely as the ability to absorb shocks, but as the capacity to anticipate, adapt and transform
-
-## Abhishek Banerjee loses cool after late-night search over questions about assistant 'hiding' at his home | Watch
-A video of Abhishek Banerjee's exchange with the reporters is going viral, in which he can been seen reacting to questions about his assistant's whereabouts.
-
-## Sham event, invite for speech: How Army nabbed Shahjahanpur ‘faked brigadier’ in sting operation
-It was clear on Aryan Verma's detainment that his ruse ran deep. While he was nabbed, fake government identity card was recovered from his driver.
-
-## Rahul Gandhi to launch nationwide student conventions against 'exam scandals' from June 17
-The student conventions led by Congress leader Rahul Gandhi will begin from Rajasthan's Kota on June 17.
-
-## Will work for 33% quota for women: Andhra CM Chandrababu Naidu
-Andhra Pradesh CM N Chandrababu Naidu announced that his government would work towards implementing 33% reservation for women in all legislative bodies
-
-## Hyderabad YouTuber ‘Masood Chandi’ murdered at home over family dispute: Police
-The victim had sent his wife and child to her parental home recently over some dispute, which added to the tensions.
-
-## Daughter pays tribute to ex-CM Rupani, other victims: ‘Not a day has gone by when people did not remember him’
+## Amid Don 3 row, Saif Ali Khan says Farhan Akhtar ‘was born to direct’
 
 
-## Microsoft may spin off Xbox as gaming business faces strategic overhaul
+## ‘I hope it’s not the end’: Graeme Swann on Ben Stokes after nightclub row
 
 
-## Bengaluru police suspend 3 officers over lapses in Vennela murder probe
+## El Niño emerges in Pacific Ocean, to intensify during SW monsoon season : IMD
 
 
-## Balongi residents question water bills after inclusion in MC limits
+## Trinamool MPs Sudip Bandyopadhyay, Satabdi Roy meet BJP leadership in Delhi
 
 
-## Mohali’s CGC University launches flagship programme for students to work in Japan
+## Trump wants Iran’s uranium. Tehran buried it behind collapsed tunnels and mines: Report
 
 
-## Bengaluru garbage disposal under scanner as Lokayukta seeks report
+## Kota calling: After NEET row, Rahul Gandhi to launch campaign against paper leaks from Rajasthan
 
 
-## ‘Simply baseless’: Iran hits back after Trump blames Tehran for Indian ships attack
+## ‘Facts require investigation’: Karnataka High Court refuses to quash rape case against man accused of forced conversion
 
 
-## My doors are always open for Punjabis: Haryana CM reaches out to Saini community in Rajpura
+## 50 tonnes in, 1 tonne out: Bengaluru startup turns city garbage into green energy amid LPG crisis
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Separated by the Gaza war, a Palestinian yearns to see his family again
-Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.
+## Israel attacks Lebanon despite being included in potential peace deal
+Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.
 
-## England training equipment stolen ahead of squad’s arrival in Kansas City
-Local police say an investigation is under way over the possible theft of equipment which was arriving in Kansas City.
+## The US border runs straight through the World Cup
+The tournament was sold as a symbol of unity, but Trump’s border politics have turned it into a spectacle of exclusion.
 
-## US fans celebrate victory over Paraguay in World Cup opener
-US fans celebrate victory over Paraguay in World Cup opener
+## US orders Anthropic to disable AI models for all foreign nationals
+The company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.
 
-## Lebanon war victims among 117M people displaced worldwide
-A new UNHCR report reveals that 117.8 million people worldwide were forcibly displaced by the end of 2025.
+## Knicks face Spurs in Game 5, with first NBA title in 53 years in sight
+After an epic comeback, the New York Knicks head to San Antonio, hoping to beat the Spurs to seal the 2026 championship.
 
-## One killed as Israel hits south Lebanon, issues forced displacement orders
-The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately.
+## ‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters
+As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.
 
-## Trump seeks ‘off-ramp’ from war in ‘Iran deal’
-As reports emerge of a possible US-Iran agreement, President Donald Trump is looking for an ‘off-ramp’ from Iran war.
+## Iran war day 106: US and Iran say deal close but Lebanon fighting continues
+US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.
 
-## Brazil vs Morocco World Cup team news: Neymar, start time and how to watch
-Record five-time world champions Brazil open their 2026 campaign against African heavyweights Morocco on Saturday.
+## Molokhia cigarettes: Gaza’s toxic alternative to tobacco
+Smokers in Gaza turn to toxic molokhia nicotine cigarettes as tobacco prices surge, causing serious health risks.
 
-## Trump says US strike killed Tren de Aragua gang boss with Venezuelan help
-Gang leader Flores had controlled the vast criminal syndicate from Venezuela for years.
+## Doctors Without Borders investigation finds exploitation by staff in Chad
+The organisation employs tens of thousands of workers, local and foreign, to respond to crises across several countries.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
