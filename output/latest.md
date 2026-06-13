@@ -120,7 +120,7 @@ Speculation about a possible merger with the Congress flared up following a Mama
 ## President Murmu recalls going numb after PM Modi’s call; expert decodes reactions
 
 
-## Brazil vs Morocco Live Score, FIFA World Cup 2026: BRA vs MOR shortly; QAT-SUI ends in draw
+## Brazil vs Morocco Live Score, FIFA World Cup 2026: Morocco score in 21st minute
 
 
 ## Shubman Gill leads from the front as India outclass Afghanistan in first ODI
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar net late against Switzerland to secure historic first World Cup point
+Asian Cup holders Qatar level in injury time to draw 1-1 with Switzerland in World Cup 2026 opening game.
+
+## Thousands mourn Thai princess as body taken to lie in state in Bangkok
+Thousands mourn Thai princess as body taken to lie in state in Bangkok
+
 ## Dashcam shows US cop accidentally shooting colleague during ‘horseplay’
 Dashcam shows US cop accidentally shooting colleague during ‘horseplay’.
 
@@ -269,12 +275,6 @@ The European Union's new migration policy has come into force.
 
 ## ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit
 Canada's prime minister has warned that the 'rules-based' global order is 'breaking down' amid superpower dominance.
-
-## Thousands attend anti-racism rally in Belfast
-Thousands joined anti-racism demonstrations across the UK after days of anti-immigration unrest.
-
-## ‘Not in my name’: The Jewish diaspora fighting the consensus on Israel
-The Jewish diaspora say they reject Israel’s authority over their name amid Smotrich’s Israel Day parade appearance.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
