@@ -1,0 +1,185 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>AION Sentiment Signal</title>
+<style>
+body {
+    margin: 0;
+    background: #020617;
+    color: #f8fafc;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+.container {
+    max-width: 1120px;
+    margin: auto;
+    padding: 72px 28px;
+}
+a { color: #94a3b8; text-decoration: none; }
+h1 {
+    font-size: 44px;
+    letter-spacing: 2px;
+    margin-top: 42px;
+}
+h2 {
+    color: #f8fafc;
+    margin-top: 0;
+}
+.orange { color: #ff6a00; }
+.query {
+    margin-top: 30px;
+    color: #cbd5e1;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.signal {
+    margin-top: 50px;
+    border: 1px solid #1e293b;
+    background: radial-gradient(circle at top left, rgba(255,106,0,0.18), rgba(15,23,42,0.78));
+    border-radius: 18px;
+    padding: 42px;
+}
+.state {
+    font-size: 13px;
+    letter-spacing: 3px;
+    color: #94a3b8;
+    text-transform: uppercase;
+}
+.score {
+    font-size: 72px;
+    font-weight: 800;
+    margin: 18px 0;
+}
+.mood {
+    font-size: 28px;
+    color: #ff6a00;
+    font-weight: 700;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+    margin-top: 30px;
+}
+.card {
+    background: rgba(15,23,42,0.72);
+    border: 1px solid #1e293b;
+    border-radius: 14px;
+    padding: 24px;
+}
+.label {
+    color: #94a3b8;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.value {
+    margin-top: 12px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.reading {
+    margin-top: 32px;
+    background: rgba(15,23,42,0.72);
+    border: 1px solid #1e293b;
+    border-radius: 14px;
+    padding: 28px;
+    color: #cbd5e1;
+    line-height: 1.8;
+    font-size: 17px;
+}
+.pillbox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 18px;
+}
+.pill {
+    border: 1px solid #334155;
+    background: rgba(255,106,0,0.08);
+    color: #f8fafc;
+    border-radius: 999px;
+    padding: 10px 15px;
+    font-size: 14px;
+}
+.small {
+    color: #94a3b8;
+    font-size: 14px;
+    line-height: 1.7;
+}
+.footer {
+    margin-top: 35px;
+    color: #64748b;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+    <a href="../sentiment.html">← Back to Sentiment Console</a>
+
+    <h1>AION <span class="orange">SENTIMENT SIGNAL</span></h1>
+
+    <div class="query">HORMUZ</div>
+
+    <div class="signal">
+        <div class="state">Signal Polarity</div>
+        <div class="score">0</div>
+        <div class="mood">Mixed / Neutral</div>
+    </div>
+
+    <div class="grid">
+        <div class="card">
+            <div class="label">Narrative Pressure</div>
+            <div class="value">WATCH</div>
+        </div>
+        <div class="card">
+            <div class="label">Reputation Heat</div>
+            <div class="value">WATCH</div>
+        </div>
+        <div class="card">
+            <div class="label">Signal Quality</div>
+            <div class="value">NEWS + X</div>
+        </div>
+        <div class="card">
+            <div class="label">Posture</div>
+            <div class="value">MONITOR</div>
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="card">
+            <h2>Key Organic Conversations</h2>
+            <div class="pillbox"><div class='pill'>US-Iran tit-for-tat and energy market volatility</div><div class='pill'>Speculation on weaponry/effectiveness of strikes and blockades</div><div class='pill'>Narrative framing—US as aggressor vs. Iran as defender</div><div class='pill'>Global economic fallout and who benefits (esp. US energy sector)</div><div class='pill'>Regional alarm—concerns from Gulf States about escalation</div></div>
+        </div>
+
+        <div class="card">
+            <h2>Geography Signal</h2>
+            <div class="pillbox"><div class='pill'>United States</div><div class='pill'>India</div><div class='pill'>Middle East</div><div class='pill'>United Kingdom</div></div>
+        </div>
+    </div>
+
+    <div class="reading">
+        <strong>What the Score Means</strong><br><br>
+        The polarity score ranges from <strong>-100 to +100</strong>. A negative score indicates adverse narrative pressure; a positive score indicates favourable momentum; a score around zero means the topic is contested, diffuse or still forming.
+        <br><br>
+        <strong>Term Guide</strong><br>
+        <strong>Narrative Pressure</strong> measures how forcefully the conversation is moving. <strong>Reputation Heat</strong> indicates whether the topic can affect perception. <strong>Signal Quality</strong> shows the current source base. <strong>Posture</strong> is the recommended communications stance.
+    </div>
+
+    <div class="reading">
+        <strong>Strategic Reading</strong><br><br>
+        The topic is contested or directionally unclear. The public signal is mixed, and the next movement will depend on which themes gain velocity.
+        <br><br>
+        <strong>Prescriptive View:</strong> Monitor the narrative and look for emerging directional signals.
+    </div>
+
+    <div class="footer">
+        AION INTELLIGENCE · SIGNAL CONTEXT JUDGEMENT · GENERATED 06 June 2026, 09:27 PM
+    </div>
+</div>
+</body>
+</html>

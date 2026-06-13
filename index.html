@@ -209,6 +209,7 @@
 
         <div class="buttons">
             <button class="btn" onclick="openDashboard()">Enter AION Command</button>
+            <button class="btn btn-secondary" onclick="openSentiment()">Sentiment Console</button>
             <button class="btn btn-secondary" onclick="openArchive()">Intelligence Archive</button>
         </div>
 
@@ -287,6 +288,10 @@
 
         function openDashboard() {
             window.location.href = "reports/latest.html";
+        }
+
+        function openSentiment() {
+            window.location.href = "sentiment.html";
         }
 
         function openArchive() {
