@@ -84,6 +84,12 @@ China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list o
 ## SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire
 Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to
 
+## PM Modi lands in France for G7 Summit, bilateral engagements with Macron
+PM Narendra Modi was received at the airport by France's Education Minister Edouard Geffray, Minister of Higher Education, Research and Space Philippe Baptiste.
+
+## 'Deeply shocking': Shashi Tharoor says 'friend' US offered no condolences for Indian sailors killed in Oman strike
+The Congress leader went on to question why alternative methods were not used to stop the vessel involved.
+
 ## Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
 Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
 
@@ -102,12 +108,6 @@ Gadkari also said that automobile companies would launch ethanol-compatible vehi
 ## TMC secretary Derek O'Brien labels merger with ‘any party’ as ‘baseless’
 Speculation about a possible merger with the Congress flared up following a Mamata-Sonia and Abhishek-Rahul meeting, claims now denied by Derek O'Brien
 
-## US ignores India’s concerns; Rubio says blockade violations won’t be tolerated
-According to a US state department readout, Rubio emphasised that commercial vessels should comply with orders from US forces
-
-## ‘Rahul Gandhi’s approach helps BJP, does not strengthen INDIA bloc': Vijayan hits back after Cong leader's 'hug’ remark
-Pinarayi Vijayan launched a scathing attack on Congress leader Rahul Gandhi for his ‘hug’ comment and questioned his leadership within the INDIA alliance
-
 ## First batch of NDA-trained women cadets commissioned as officers
 
 
@@ -120,7 +120,7 @@ Pinarayi Vijayan launched a scathing attack on Congress leader Rahul Gandhi for 
 ## President Murmu recalls going numb after PM Modi’s call; expert decodes reactions
 
 
-## Brazil vs Morocco Live Score, FIFA World Cup 2026: BRA vs MOR next; Swiss lead 1-0
+## Brazil vs Morocco Live Score, FIFA World Cup 2026: BRA vs MOR shortly; QAT-SUI ends in draw
 
 
 ## Shubman Gill leads from the front as India outclass Afghanistan in first ODI
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Dashcam shows US cop accidentally shooting colleague during ‘horseplay’
+Dashcam shows US cop accidentally shooting colleague during ‘horseplay’.
+
+## Thousands rally in Rome, Italy for rival pro- and anti-migration marches
+Thousands of police deployed to keep the rallies apart as far-right 'remigration' initiative gains traction.
+
+## Ten observations after attending a World Cup match in the US
+With the World Cup getting into full swing, Al Jazeera offers some tips for fans looking to attend a game in the US.
+
+## Israel attacks Lebanon as US says Iran deal to be signed on Sunday
+Explosions shook southern Lebanon on Saturday as Israel continued its attacks.
+
+## Will the new EU migration rules work?
+The European Union's new migration policy has come into force.
+
+## ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit
+Canada's prime minister has warned that the 'rules-based' global order is 'breaking down' amid superpower dominance.
+
+## Thousands attend anti-racism rally in Belfast
+Thousands joined anti-racism demonstrations across the UK after days of anti-immigration unrest.
+
 ## ‘Not in my name’: The Jewish diaspora fighting the consensus on Israel
 The Jewish diaspora say they reject Israel’s authority over their name amid Smotrich’s Israel Day parade appearance.
-
-## Hungary’s former PM Orban re-elected party leader despite election loss
-Viktor Orban, who ran unopposed, said he took full responsibility for his pro-Russian Fidesz party's defeat in April.
-
-## Ukraine to keep targeting Russian energy after hitting sea terminal
-Ukraine's SBU security service claimed attack sparking fires in Russia's Tamanneftegaz terminal.
-
-## Keepy-up cop wows fans with football skills at World Cup event in Boston
-A police officer stole the show at a World Cup fan festival in Boston, as he effortlessly juggled a football.
-
-## Trump says Iran deal to be signed tomorrow, contradicting Iranian official
-Both sides have indicated a deal to end the war is close, but have diverged on details and timeline for a breakthrough.
-
-## US President Trump says US-Iran deal to be signed tomorrow
-US President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.
-
-## Brazil vs Morocco live: World Cup 2026
-Follow the updates as five-time record champions Brazil face African giants Morocco in a blockbuster Group C clash.
-
-## Albania protests escalate over Kushner-backed coastal development
-Albania protests escalate over Kushner-backed coastal development
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
