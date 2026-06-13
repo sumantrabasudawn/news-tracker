@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Paramount’s $111bn takeover of Warner Bros wins US antitrust approval
+Deal is critical to David Ellison’s ambition to create new media empire
+
+## Citigroup CEO Jane Fraser becomes dame in King’s birthday honours list
+Barclays and LSE Group bosses miss out despite early-stage approval
+
 ## US-Iran peace deal text agreed, says Pakistan’s PM
 Senior American official says both sides expect to sign agreement in coming days
 
@@ -18,23 +24,17 @@ We will understand more about new Fed chair Kevin Warsh when he oversees his ina
 ## Artist David Hockney dies aged 88
 Celebrated painter was known for works including the ‘Swimming Pool’ series
 
-## European defence stocks retreat on lower spending and higher wrangling
-Resignation of UK defence secretary shows some governments will struggle to find the money
-
-## Palantir loses legal challenge against Swiss investigative magazine
-Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
-
 ## SpaceX’s surge on debut makes Musk world’s first trillionaire
 Rocket and AI group’s shares jumped by nearly a fifth after raising $75bn in record initial public offering
 
 ## CEO of collapsed Prax ordered fake invoices, administrators allege
 Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
 
-## Stockpickers: CMC Markets, VP, Motorpoint
-Our experts discuss which companies to buy, sell or hold this week
+## European defence stocks retreat on lower spending and higher wrangling
+Resignation of UK defence secretary shows some governments will struggle to find the money
 
-## Apollo selects Austin as site of second headquarters
-Private capital giant chose Texas city over Miami and Palm Beach as private schools’ capacity fills up in Florida
+## Palantir loses legal challenge against Swiss investigative magazine
+Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
 
 ## ED arrests two former Reliance Anil Ambani Group executives in money laundering case
 The accused, former Reliance Telecom directors Sateesh Seth and Gautam Doshi, are being taken to Delhi on transit remand.
@@ -84,29 +84,41 @@ Despite being the world's largest mango producer, India exports only a very smal
 ## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
 US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
 
+## Kolkata Police sets up SIT to probe into fire incident in which 4000 EVMs were destroyed
+A Kolkata government building fire destroyed 4,000 EVMs, prompting an SIT investigation amid suspicion and political outcry regarding the incident.
+
+## Shah: Establish Multi-layered security during Amarnath Yatra
+Amit Shah directed enhanced security for the Amarnath Yatra, using drones and tech for monitoring, ensuring safety along the pilgrimage route and tourist spots.
+
+## BGB, BSF discuss border deaths and illegal crossing; skip joint briefing
+BSF and BGB discussed border deaths and illegal crossings amid tensions at the India-Bangladesh border, stressing cooperation and preventive measures.
+
+## Renowned Mand folk singer Gavri Devi dies
+Gavri Devi, the iconic Mand folk singer from Rajasthan, passed away at 98, leaving a significant legacy in traditional music. Her death is mourned statewide.
+
+## Lutyens’ bungalow that served as TMC base in Delhi vacated
+The Trinamool Congress loses its Delhi base as MP Partha Bhowmick vacates the party's bungalow, signaling potential internal splits and operational struggles.
+
+## Union ministers, BJP CMs hail Modi government’s 12-year record
+Union ministers and BJP chief ministers praised PM Modi's 12-year tenure for transformative developments in infrastructure, women’s empowerment, and national security.
+
+## Form a ‘resistance’: Rahul to INDIA bloc
+Rahul Gandhi urges INDIA bloc partners to embrace a spirit of resistance against BJP, advocating for a shift from traditional politics to mass mobilization.
+
 ## Delhi under red alert as IMD warns of thunderstorms, lightning and winds gusting up to 80 kmph
 The weather office said that very light to light rain is likely at most places, while isolated areas may receive moderate rainfall.
 
-## India lodges strong protest with Rubio over US Navy attacks that killed three Indian mariners
-External Affairs Minister S Jaishankar said he spoke with US Secretary of State Marco Rubio on Friday.
+## Rebel TMC MPs ready game plan, look to meet Speaker Om Birla Monday for recognition
 
-## Teacher, who was sacked for joining CJP's Delhi protest, 'gets job back' after cockroach party challenges dismissal
-A suspension order targeted at a Haryana guest teacher and CJP supporter was revoked following a public statement by the party, condemning the move
 
-## El Nino is active now in India, may get stronger this monsoon: IMD
-Both the ocean and atmosphere now show clear El Nino signals, as per weather bodies.
+## Texas shooting: 1 dead, 10 injured in Midland; suspect found after standoff
 
-## HC seeks NIA reply on Umesh Kolhe murder accused’s plea to drop charges
-Umesh Kolhe, who owned a medical store in Amravati, was attacked and hacked to death on June 21, 2022, while returning home on his scooter
 
-## India joins elite club with successful ballistic missile defence, anti-ship missile trials
-DRDO has stepped up on the ballistic missile defence as Pakistan is acquiring missiles with multiple warheads
+## Pranit More biryani row: KEM probe finds MBBS student’s remarks ‘insensitive’
 
-## Flew from Bangkok with drugs worth ₹12 crore, arrested in Mumbai: How a beauty contest runner-up was caught
-The woman has been identified as Harsha Sunny, who landed at Mumbai airport from Bangkok on the intervening night of June 10-11.
 
-## Free education till post-graduate levels in Odisha govt institutions: Majhi
-Majhi said the decision would strengthen the foundation of the state’s youth and contribute to long-term development
+## Air India crash, a year later: At crash site, families and friends sift for memories and a life that once was
+
 
 ## FIFA World Cup 2026 Opening Ceremony Live Updates: Katy Perry, Future to perform
 
@@ -118,18 +130,6 @@ Majhi said the decision would strengthen the foundation of the state’s youth a
 
 
 ## Watch: Sonakshi Sinha reveals her simple hack for perfect winged eyeliner
-
-
-## What ‘Rich Dad Poor Dad’ teaches about building wealth beyond a 9-to-5 job
-
-
-## David Hockney dies at 88: 5 things to know about the artist who made pools iconic
-
-
-## Manu Bhaker on Jaspal Rana’s death: ‘Shooting range will never feel same again’
-
-
-## Was Netanyahu left in the dark over Trump’s Iran deal?
 
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
@@ -252,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: US, Tehran signal peace deal within reach but not signed yet
+Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.
+
 ## Palestine football chief says he wasn’t granted US visa to attend World Cup
 Jibril Rajoub remains in Mexico awaiting a US visa to attend the World Cup 2026.
 
@@ -272,9 +275,6 @@ Progress for Kyiv's membership bid given the green light after Hungary's new gov
 
 ## World Cup fans express excitement and share their predictions
 Ahead of the US’s first match, Al Jazeera spoke to World Cup fans in Los Angeles.
-
-## Will there be a deal to end the Iran war this time?
-After cancelling planned strikes on Iran, Trump has said an agreement to end the war will be finalised soon.
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
