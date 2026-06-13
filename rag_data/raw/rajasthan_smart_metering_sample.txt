@@ -1,0 +1,7 @@
+Rajasthan smart metering sentiment shows a mixed but politically sensitive pattern. Consumer concerns are largely focused on billing transparency, prepaid conversion, fear of higher bills, and trust in DISCOM communication. Resistance appears stronger where smart meters are framed as a tariff burden rather than a service-quality improvement.
+
+Stakeholder voices include consumers asking for clearer billing explanations, political actors amplifying affordability concerns, DISCOMs positioning smart meters as a tool for better collections and outage visibility, and industry participants highlighting loss reduction, real-time monitoring and improved grid discipline.
+
+The main risk is not technology rejection but narrative capture. If smart meters become associated with higher bills or reduced consumer control, rollout friction may rise. The opportunity is to reposition smart metering around transparency, mobile-based consumption tracking, faster complaint resolution and better outage management.
+
+Recommended action: build a consumer-facing advocacy layer around daily usage visibility, complaint tracking, prepaid budgeting, outage alerts and DISCOM accountability.
