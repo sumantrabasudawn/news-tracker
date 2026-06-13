@@ -1,40 +1,37 @@
 # AION Intelligence
 
-## US kills leader of Venezuelan Tren de Aragua gang in air strike
-Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez
-
-## Anthropic suspends latest AI models after US blocks access to foreigners
-Trump administration directs company to limit access to foreign nationals on national security grounds
-
-## AI riches turn Samsung factory town into luxury hotspot
-Windfall bonus for workers drives up property prices and department store purchases
-
-## Paramount’s $111bn takeover of Warner Bros wins US antitrust approval
-Deal is critical to David Ellison’s ambition to create new media empire
-
-## Citigroup CEO Jane Fraser becomes dame in King’s birthday honours list
-Barclays and LSE Group bosses miss out despite early-stage approval
-
-## US-Iran peace deal text agreed, says Pakistan’s PM
-Senior American official says both sides expect to sign agreement in coming days
-
-## Football will eclipse politics at this World Cup
-Goals, talent and diversity are set to drown out controversy off the pitch
-
-## The strategic dilemmas behind Britain’s defence spending mess
-At the heart of the debate is not just how much the UK should spend on the military, but what types of threat it faces — and ultimately, its place in the world
-
 ## Goldman and JPMorgan ease office working rules to counter World Cup disruption
 Wall Street lenders say employees can ask to work from home on match days to ease congestion in host cities
+
+## The consequences of online race hatred are playing out on Belfast’s streets
+Malign social media automates division — I saw the effects in our city this week
+
+## How to tame the inflation python
+A ‘wait and see’ monetary policy strategy risks repeating the mistakes made in 2008
+
+## European tech sovereignty: a doubtful goal but a good investment
+Given the continent’s weak starting point, its modest ambitions could have a big impact on local companies
+
+## Why Ebola came back — and a warning for the next pandemic
+The outbreak in the DR Congo is unlikely to spread worldwide. But it comes at a time of cuts to health budgets and exposes a worrying lack of preparedness for ‘Disease X’
+
+## What Andy Burnham could mean for your money
+The Labour leadership hopeful has left clues as to his priorities on tax, investment and housing
+
+## France opposes ‘anglicisation’ of EU trade talks
+Trade commissioner argues translation into 24 languages slows down bloc’s ability to strike up deals
+
+## How video games became a channel for political influence
+From China to Saudi Arabia, governments are investing billions in gaming to project influence and assert control
+
+## The sweet smell of World Cup dollars
+Also in today’s newsletter: a dispatch from LA and Mercedes F1’s robust finances
 
 ## Frasers is better at making headlines than creating shareholder value
 Mike Ashley’s penchant for stake-building is not that well suited to the public markets
 
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
-
-## European tech sovereignty: a doubtful goal but a good investment
-Given the continent’s weak starting point, its modest ambitions could have a big impact on local companies
 
 ## Nationalise Heathrow to build third runway, says Emirates boss
 Tim Clark is open to a successor to the discontinued superjumbo A380, even if made in China
@@ -45,32 +42,32 @@ The UK pharma group has announced its biggest biotech acquisition in more than 2
 ## Elite sportsman. Entrepreneur. What drives Mathieu Flamini?
 The midfielder who co-founded a biochemicals business on the difference between the locker room and the boardroom
 
-## ‘Rivals’ may be racy — but ITV’s real-life franchise wars were stranger still
-For veterans of Britain’s broadcast licence battles, the Disney+ Jilly Cooper adaptation paints a recognisable picture
+## Hexaware opens Gift City hub with 250 employees to serve US, Europe BFSI client; targets 1000 jobs in 3 yrs
+When asked if Hexaware has scaled down its hiring plans for GIFT City, Jain said the current expansion plan should be seen as part of a phased growth strategy, with the immediate focus on building a delivery hub for international clients
 
-## Jaishankar speaks to Rubio, lodges strong protest over US Navy attacks that killed 3 Indians
-"Such lethal actions against commercial shipping are not justified," Jaishankar said in a post on X about his talks with Rubio
+## Ashwini Vaishnaw reviews recruitment process of the Railway Recruitment Board
+Indian Railways recruited 43,781 candidates in FY 2025-26, filling 47,084 vacancies across six major categories, highlighting an accelerated recruitment process
 
-## OpenAI under investigation by coalition of US state attorneys general, WSJ reports
-OpenAI has been served a sweeping subpoena seeking documents on a wide range of its activities ⁠and the impact on users, including ⁠advertising, user engagement and retention, and the handling of consumer and health data
+## India's FTAs set stage for $1-trillion export target: Report
+The trade agreements along with PLI schemes and ‘China+1’ diversification give india a good shot at lifting its merchandise exports to $1 trillion by 2030, the report said
 
-## GRID India seeks fallback mechanism, ring-fencing in CERC market-coupling draft
-GRID India said a regulatory fallback mechanism should be introduced to allow power exchanges to undertake price discovery in the event of a technical disruption at the MCO
+## India-Nepal explore AI collaboration to boost bilateral technological ties
+The event gathered stakeholders from government, academia, and the startup ecosystem to discuss how both nations can leverage artificial intelligence for shared economic growth
 
-## A policy contradiction at the heart of India’s pulse mission
-The harder question is whether a policy design that repeatedly suppresses price-discovery infrastructure in response to retail price spikes is compatible with a six-year mission to build domestic supply through farmer-level incentives
+## World Bank cuts global growth forecast to 2.5% as West Asia conflict triggers energy shock
+In a report, the World Bank said commodity prices are expected to rise by 22% in 2026, in contrast to the 7% decline expected in January
 
-## Anthropic disables top-tier AI models after US order limiting foreign access
-Anthropic stated that the company received an export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without specific details on the national security concern
+## IAF aircraft AN-32 crashes while landing in Assam's Jorhat
+The incident occurred while the aircraft was landing at the IAF's airbase in the Rowriah area
 
-## Downed Iranian drones targeting ships in Hormuz: US Centcom
-The CentCom said US forces continue to strictly enforce a blockade against Iran, redirecting 139 compliant commercial ships and disabling nine non-compliant ships
+## India will give voice to aspirations of Global South at G7 Summit: Modi
+"At the G7, India will not only speak for itself, but it will also give voice to the aspirations of the Global South," he said
 
-## Turning surplus into success: How rejuvenated oil palm seedlings can accelerate India’s edible oil mission
-Faster plantation establishment benefits farmers, companies and the nation by accelerating future palm oil production and reducing dependence on imported edible oils
+## AM Green, VOC Port partner to build green ammonia bunkering hub in Tamil Nadu
+Companies to invest over ₹22,000 crore for setting up production and bunkering infrastructure
 
-## Pak PM Shehbaz says final text of US-Iran peace deal agreed upon
-“We can confirm that a final, agreed upon text of the peace deal has been reached and Pakistan is now working closely with both sides to finalise the next steps," he said
+## Property buyers beware: ITAT ruling highlights TDS pitfalls
+
 
 ## Sensex jumps 1.7k points as US, Iran inch closer to deal
 
@@ -93,56 +90,56 @@ In a statement on Friday, his legal counsel, Lazareff Le Bars, said the General 
 ## India gets a homegrown AI video model
 
 
-## Reinsurance buffers crash claim, Tata AIG logs Rs 1,008 crore profit
-The General Insurance Corporation had estimated claims of over $400 million last year from the Air India Ahmedabad crash. Since then, reinsurers have settled some claims. Tata AIG, which was the lead insurer, had a 45% share of the risk. “We fully provided for it in that same quarter itself. Net of 
+## Assam restricts Aadhaar card issuance for people above 18 years: CM Himanta
+Himanta Sarma noted that under the leadership of PM Modi, the North East has moved from the margins of national discourse to the centre of policymaking
 
-## El Niño conditions develop over Pacific Ocean, likely to impact monsoon: IMD
-IMD on Friday officially confirmed onset of El Niño conditions over equatorial Pacific Ocean, warning the climate phenomenon is expected to strengthen during the ongoing southwest monsoon
+## IAF's AN-32 aircraft splits in two after crash landing in Assam's Jorhat: Video
+Footage from the site purportedly showed the aircraft lying adjacent to the runway after crash-landing.
 
-## 2 days, 3 ballistic missile defence tests: Inside DRDO's major milestone that puts India in elite list
-Two interceptor missiles tested by the DRDO are capable of destroying enemy missiles with ranges between 2,000 km and 5,000 km, classified as IRBMs.
+## India must build ‘antifragile’ systems to tackle risks: PK Mishra
+Mishra said resilience must be understood not merely as the ability to absorb shocks, but as the capacity to anticipate, adapt and transform
 
-## Ex-TDB official Murari Babu, accused in Sabarimala gold loss case, dies at 54
-Ex-TDB official Murari Babu, accused in Sabarimala gold loss case, dies at 54
+## Abhishek Banerjee loses cool after late-night search over questions about assistant 'hiding' at his home | Watch
+A video of Abhishek Banerjee's exchange with the reporters is going viral, in which he can been seen reacting to questions about his assistant's whereabouts.
 
-## The tech-enabled rich face is here
-Thanks to new-age surgeries, biologics and chemicals, people, especially the rich, have started to look different after they age and they’re flaunting this rich face.
+## Sham event, invite for speech: How Army nabbed Shahjahanpur ‘faked brigadier’ in sting operation
+It was clear on Aryan Verma's detainment that his ruse ran deep. While he was nabbed, fake government identity card was recovered from his driver.
 
-## Indian-crewed vessel in Gulf stops responding, MEA says reports of US attacks 'false'
-There is no clarity yet on the extent of the attack and casualties caused by it.
+## Rahul Gandhi to launch nationwide student conventions against 'exam scandals' from June 17
+The student conventions led by Congress leader Rahul Gandhi will begin from Rajasthan's Kota on June 17.
 
-## Speaker issues notice to four former AIADMK MLAs
-Tamil Nadu's Assembly speaker issued showcause notices to four ex-AIADMK MLAs who joined TVK, following a vote breach, while 21 others received forgiveness.
+## Will work for 33% quota for women: Andhra CM Chandrababu Naidu
+Andhra Pradesh CM N Chandrababu Naidu announced that his government would work towards implementing 33% reservation for women in all legislative bodies
 
-## Ladders, saree pulleys: Neighbours turn rescuers after fire at building in Delhi's Tughlakabad
-Residents of the neighbourhood said that within minutes of the fire breaking out, at around 2.15am, the entire lane was filled with smoke.
+## Hyderabad YouTuber ‘Masood Chandi’ murdered at home over family dispute: Police
+The victim had sent his wife and child to her parental home recently over some dispute, which added to the tensions.
 
-## Noida airport to begin international flights by year-end: CEO Nitu Samra | Interview
-International services will begin towards the end of the year, said Noida airport chief executive officer Nitu Samra and vice-chairman Christoph Schnellmann.
-
-## CUET PG 2026: NTA says March 29-30 re-exam was for 565 candidates, & had no normalisation
+## Daughter pays tribute to ex-CM Rupani, other victims: ‘Not a day has gone by when people did not remember him’
 
 
-## How World War horrors advanced blood donation science
+## Microsoft may spin off Xbox as gaming business faces strategic overhaul
 
 
-## ‘Where do I go from here?’: The anxiety, anger and cost of a cancelled exam
+## Bengaluru police suspend 3 officers over lapses in Vennela murder probe
 
 
-## Another fire in Delhi, 3 of family die in early morning blaze
+## Balongi residents question water bills after inclusion in MC limits
 
 
-## 2008 Bengaluru serial blasts: Undertrial accused Abdul Khader dies before verdict
+## Mohali’s CGC University launches flagship programme for students to work in Japan
 
 
-## Raghubir Yadav recalls surviving on Rs 2.5 a day: ‘Would eat roti with chutney’
+## Bengaluru garbage disposal under scanner as Lokayukta seeks report
 
 
-## Hormuz ‘service fee’ to nuclear programme: Likely areas covered in the US-Iran deal
+## ‘Simply baseless’: Iran hits back after Trump blames Tehran for Indian ships attack
 
 
-## IDFC First Bank fraud cases: CBI files 2 chargesheets in Haryana, Chandigarh
+## My doors are always open for Punjabis: Haryana CM reaches out to Saini community in Rajpura
 
+
+## US blocks foreign access to Anthropic’s newest AI models over security risks
+Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to t
 
 ## Why gold may rebound 13% this year – and what could hold it back
 Gold prices may rise at least 13 per cent by year-end in a reversal of recent sell-offs, as diversification demand from central banks remains intact and hopes for a diplomatic solution to Middle East tensions dial back inflation expectations, according to some money managers. The precious metal coul
@@ -164,9 +161,6 @@ Chinese regulators are stepping up public enforcement against the nation’s cor
 
 ## Singaporean pays US$72m to join Richard Li, Pony Ma in Hong Kong’s most exclusive enclave
 A Singaporean buyer linked to an investment firm paid HK$562.6 million (US$72 million) for a historic mansion in Hong Kong’s Shek O, gaining entry into one of the city’s most exclusive residential communities where neighbours include PCCW chairman Richard Li Tzar-kai and Tencent Holdings CEO Pony Ma
-
-## As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?
-This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. As the SpaceX initial public offering (IPO) on Friday sets the sta
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -264,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Older runners defy age in Kenya’s central highlands
-Members of a self-funded athletics club in Meru are proving that competition does not end with age.
+## Separated by the Gaza war, a Palestinian yearns to see his family again
+Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.
 
-## UK court jails Palestine Action activists on ‘terrorism’ charges
-UK court has sentenced four pro-Palestine activists to jail for a raid on an Israeli arms factory near Bristol in 2024.
+## England training equipment stolen ahead of squad’s arrival in Kansas City
+Local police say an investigation is under way over the possible theft of equipment which was arriving in Kansas City.
 
-## Canada World Cup opener splits Bosnian fans among two ‘home nations’
-Thousands of Bosnia fans turned Toronto blue as they marched to the chants of 'Free Palestine' in Toronto.
+## US fans celebrate victory over Paraguay in World Cup opener
+US fans celebrate victory over Paraguay in World Cup opener
 
-## Canada and Bosnia fight out historic World Cup opener
-Bosnia and Herzegovina and Canada have fought out a 1–1 draw in their World Cup opening match.
+## Lebanon war victims among 117M people displaced worldwide
+A new UNHCR report reveals that 117.8 million people worldwide were forcibly displaced by the end of 2025.
 
-## USA hit Paraguay for four in dream start to their World Cup campaign
-USA beat Paraguay 4-1 in Los Angeles as each of the three World Cup cohosts have now staged a game in 2026 edition.
+## One killed as Israel hits south Lebanon, issues forced displacement orders
+The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately.
 
-## World Cup kicks off in US as Katy Perry, Future headline opening ceremony
-Tom Cruise, David Beckham, Halle Berry among celebrities in attendance at Hollywood-style opening ceremony.
+## Trump seeks ‘off-ramp’ from war in ‘Iran deal’
+As reports emerge of a possible US-Iran agreement, President Donald Trump is looking for an ‘off-ramp’ from Iran war.
 
-## Thomas Partey denied entry into Canada, will miss Ghana’s World Cup opener
-Partey's visa was denied due to the multiple charges of rape he faces in the United Kingdom.
+## Brazil vs Morocco World Cup team news: Neymar, start time and how to watch
+Record five-time world champions Brazil open their 2026 campaign against African heavyweights Morocco on Saturday.
 
-## Iran war live: US, Tehran signal peace deal within reach but not signed yet
-Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.
+## Trump says US strike killed Tren de Aragua gang boss with Venezuelan help
+Gang leader Flores had controlled the vast criminal syndicate from Venezuela for years.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
