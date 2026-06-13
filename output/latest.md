@@ -3,6 +3,9 @@
 ## Pakistan says US-Iran deal to be signed within 24 hours
 Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says
 
+## US kills leader of Venezuelan Tren de Aragua gang in air strike
+Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez
+
 ## Investment firms join Donald Trump’s $100bn race for Venezuelan oil
 Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue assets in Latin American nation.
 
@@ -21,9 +24,6 @@ Wall Street lenders say employees can ask to work from home on match days to eas
 ## The consequences of online race hatred are playing out on Belfast’s streets
 Malign social media automates division — I saw the effects in our city this week
 
-## How to tame the inflation python
-A ‘wait and see’ monetary policy strategy risks repeating the mistakes made in 2008
-
 ## UK housebuilder Vistry offers staff voluntary redundancy
 Company is trying to preserve cash to shore up its business amid market slowdown
 
@@ -36,29 +36,41 @@ Mike Ashley’s penchant for stake-building is not that well suited to the publi
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-## Global capitalism bets it all on AI future that alarms voters
-This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast
+## ‘Manic impulsiveness’ drives SpaceX-fueled retail risk complex
+The result was a market struggling to settle on a single narrative, with investors lurching between macroeconomic developments and speculative trades
 
-## Ageing An-32 crashes, takes lives of 5 onboard IAF personnel
-A court of inquiry has been constituted to ascertain the cause of the accident
+## Tech experts pitch for Sovereign AI as US blocks access to Anthropic’s Fable 5, Mythos 5
+Experts say a possible abrupt suspension of AI services could seriously hurt the business operations
 
-## Dr Reddy’s launches Bosutinib tablets in US market
-The company has collaborated with MSN Laboratories on the product
+## Coal Minister urges Telangana CM to inquire into SCCL’s coal disappearance claims
+Mines Minister Kishan Reddy emphasised that the continued growth and financial stability of SCCL are of paramount importance
 
-## ICMR team reaches Kerala’s Kozhikode after Nipah outbreak; relatives of patient test negative
-Experts from the National Centre for Disease Control (NCDC) are also scheduled to visit the district
+## Start-ups cook up a new niche – freeze drying comfort food for travellers
+New on the Menu - From lemon rice to Rajma Chawal, Indians have a choice of lightweight shelf-stable meals from D2C brands
 
-## LT Gen Dhiraj Seth appointed next Army Chief
-Lieutenant General Dhiraj Seth, who is serving as the Vice Chief of the Army Staff, will take over the charge from incumbent General Upendra Dwivedi on June 30
+## Centre takes possession of Jaipur Polo Ground in Delhi: Officials
+The IPA termed the eviction "wrongful, arbitrary and contrary to law", and said it would pursue all available legal remedies to safeguard its rights and interests
 
-## Pakistan PM Sharif says US-Iran peace deal expected to be finalised in 24 hours
-Pakistan is preparing for the electronic signing of the peace deal “immediately after, followed by technical level talks next week,” Prime Minister Shehbaz Sharif says
+## Elon Musk’s empire: Here’s a look at what the world’s first trillionaire owns
+From rockets and electric cars to social media platforms and brain implants, Elon Musk’s business empire is huge
 
-## Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker
-The IPO, the biggest in U.S. history, vaulted SpaceX's value above two Mag 7 members: CEO Elon Musk's other company, Tesla , and Meta Platforms
+## Antwerp eyes diamond polishers, clean fuels from India
+Adani group has presented itself as a possible partner for green hydrogen
 
-## India, Nepal discuss cross-border rail connectivity
-The standard operating procedures for the commencement of passenger train services on the Janakpur-Ayodhya section was one of the focus points during the engagement between the two sides
+## India demonstrates elite air defence capability against Intercontinental Ballistic Missiles
+The architecture relies heavily on next-gen, completely indigenous components, including high-power, long-range tracking radars, ultra-low latency network communication links and advanced “kill vehicles” designed to take down threats at hypersonic speeds
+
+## AI chip boom yet to lift South Korea's wider economy, Nomura economist sees limited spillover into demand
+South Korea's AI-driven semiconductor boom is not yet translating into broad economic gains, according to Nomura. Despite strong chip exports and equity markets, domestic demand shows limited improvement, with luxury spending and business investment being key drivers. Concerns over the won and finan
+
+## Explained: Layman’s guide to India’s 3Fs stress - why fuel, fertilisers and forex are so important right now
+Finance Minister Nirmala Sitharaman recently urged the country to focus on fuel, fertiliser and foreign exchange and underlined that PM Narendra Modi’s appeal to conserve foreign exchange was "very important" amid the Middle East conflict.
+
+## US-China friction returns: Beijing protests Pentagon's military-company label for BYD, Alibaba and Baidu
+China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list of firms allegedly linked to the Chinese military. Beijing argues this move undermines agreements made during President Trump and Xi Jinping's recent summit, harming bilateral economic and trade relations.
+
+## SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire
+Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to
 
 ## Venezuela oil rush: US investors chase Trump's $100 billion call as funds target energy assets - report
 US investment groups are actively pursuing opportunities in Venezuela's oil sector following the lifting of sanctions and a new hydrocarbons law. Lionheart Capital is leading the charge with a proposed merger to create the first Nasdaq-listed company offering direct access to Venezuelan oil assets, 
@@ -70,66 +82,54 @@ US investment groups are actively pursuing opportunities in Venezuela's oil sect
 SpaceX's IPO raised $75 billion, with a greenshoe option potentially adding another $11.2 billion. This mechanism allows underwriters to buy additional shares from the company if the stock price rises above the IPO price, boosting the total funds raised. The next few weeks will reveal if SpaceX's la
 
 ## How rich is a trillionaire? Elon Musk can sponsor IPL for 17,000 years, spend Rs 1 crore daily for 23,500 years
-Elon Musk's ascent to trillionaire status, driven by Tesla, SpaceX, and xAI, redefines immense wealth. A trillion dollars, approximately Rs 86 lakh crore, dwarfs national economies and government budgets. This fortune could fund multiple Apollo missions, build numerous advanced telescopes, or purcha
+Elon Musk's ascent to trillionaire status, driven by Tesla, SpaceX, and xAI, redefines immense wealth. A trillion dollars, approximately Rs 95 lakh crore, dwarfs national economies and government budgets. This fortune could fund multiple Apollo missions, build numerous advanced telescopes, or purcha
 
-## 'Mega bubble or fairy tale?': Uday Kotak reacts to SpaceX's historic IPO
-Veteran banker Uday Kotak questioned SpaceX's massive valuation, calling it a "huge bet on the future" that defies traditional metrics. Elon Musk's company debuted on Wall Street, making him the world's first trillionaire. Despite concerns about unproven technologies and cash burn, investor faith re
+## RSS largest yet ‘most misunderstood’ organisation, says Mohan Bhagwat
+He further said that the RSS was neither a reaction to any particular situation nor opposed to any section of society or political party.
 
-## Property buyers beware: ITAT ruling highlights TDS pitfalls
+## Sudip Bandyopadhyay meets Bhupender Yadav in Delhi amid TMC split buzz
+According to a section of TMC leaders, if Bandyopadhyay joins the rebel camp it would be a big blow for Mamata Banerjee
 
+## Student group alleges irregularities in CUET-PG exam; NTA rejects claims
+AISA members protested in Delhi during which activists highlighted issues related to examination management, paper "leaks" and the functioning of the NTA.
 
-## Sensex jumps 1.7k points as US, Iran inch closer to deal
+## 8th Pay Commission: Will the fitment factor for salary hikes be in the 3-5 range? Experts don't think so
+One of the aspects that employee unions and stakeholders have been vocal about is the fitment factor, which plays a key role in the revision of basic salary.
 
+## Is mystery over 20th rebel MP over? Another TMC MP reaches BJP leader's residence with Satabdi Roy
+The meeting at union minister Bhupender Yadav's residence suggested that Sudip Bandyopadhyay could join the dissident TMC group.
 
-## Tata Group tells Air India to focus on cutting losses
-The carrier is also reevaluating plans to fly to new domestic and international destinations, pruning some routes and postponing launches at some airports, such as the new Noida International Airport, the people familiar with the matter said. Air India’s cowed ambitions follow a series of challenges
+## Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed
+Rubio told Jaishankar that all commercial vessels should immediately comply with US orders in the Strait of Hormuz.
 
 ## A forged army ID, a dummy pistol and 2 bouncers: How 'fake Brigadier' Aryan Verma tricked people
-Aryan Vermahad hired two bouncers and went around introducing them as National Security Guard (NSG) commandos.
+Aryan Verma had hired two bouncers and went around introducing them as National Security Guard (NSG) commandos.
 
 ## CPI(M) attacks Rahul Gandhi over remarks on Vijayan: 'Stop being facilitator for ED, Modi govt'
 The CPI(M) general secretary expressed frustration regarding Gandhi's comments against Vijayan at the INDIA bloc meeting
 
-## Bangladeshi man shot dead by BSF at Tripura border in alleged smuggling attempt
-After BSF’s intervention, the constable was assaulted by the people from Bangladesh side, who injured his hand with a sharp weapon
-
-## Lt Gen Dhiraj Seth named next Army Chief, first from Armoured Corps in 3 decades
-Lieutenant General Dhiraj Seth will take over as the country’s next Army chief from General Upendra Dwivedi, who retires on June 30
-
-## Iran's former supreme leader Ayatollah Khamenei to be buried on July 9: Report
-The funeral cermeony is expected to be a week long event across multiple cities, as per state media reports
-
-## Customs officials seize 2.7 kg gold worth ₹4.26 crore hidden in aircraft speaker on Dubai-Ahmedabad flight | Watch
-The incident occurred on board an IndiGo flight 6E-1478, which arrived at the Sardar Vallabhbhai Patel International Airport in Ahmedabad from Dubai.
-
-## Paragliding crash, dramatic rescue, surgery: How George Richmond survived Himachal fall
-During the crash, he sustained serious injuries in the neck and was shifted to the Postgraduate Institute of Medical Education and Research in Chandigarh.
-
-## Police raid Abhishek Banerjee’s house at 2am to trace aide in land fraud case
-Police searched Abhishek Banerjee’s house in Kolkata’s Kalighat area in connection with a land fraud case in which his personal assistant Sumit Roy is an accused
-
-## Kamal Haasan’s 15-year dream turned into a Rs 300 cr disaster despite a GOAT at the helm
+## ‘Forces tried to eliminate me’: Parvathy on losing big films, facing death, rape threats
 
 
-## Clearing of Dharavi’s sector 6 faces resistance
+## ‘Extreme brutality’: 7 get life term for lynching MP man in 2022 over cow smuggling claim
 
 
-## Thomas Cup squad reassembles for Asian Games; Sindhu-Unnati for individual; Treesa-Gayatri return
+## Delhi Government floats ₹473-cr smart street light tender to boost safety and save power
 
 
-## ‘You inspired countless young girls’: Alia Bhatt’s message to Jemimah Rodrigues goes viral
+## Nothing Ear (3a) leak suggests new colours and a budget-friendly price tag
 
 
-## Top 10 loneliest countries in the world: India ranks second, Turkey tops global study
+## BMC slaps Rs 9.25 cr in penalties after AI model flags irregularities in desilting drive
 
 
-## Sadhguru links potatoes to poor focus, low energy, gas: ‘Those who are students…’
+## iOS 27 expands keyboard support with new languages, smarter typing features
 
 
-## Chhattisgarh High Court rejects TET candidates’ pleas over application error
+## Trishala Dutt recalls losing mom at 8: ‘It was already grade 4’; expert on childhood grief
 
 
-## Kangana Ranaut says she has ‘nothing against’ Diljit Dosanjh years after their public feud
+## Will Delhiites pay more for electricity after regulator’s latest move? Here’s what Minister said
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Workers remove Trump’s name from Kennedy Center after court ruling
+Judge says Trump-backed board's move to add president's name unlawful, requires Congressional approval.
+
+## From colony to cell: Sexual violence in Israeli prisons
+This testimony is part of a wider pattern documented in reports describing sexual abuse inside Israeli prisons.
+
+## Fans reveal how much they paid for World Cup tickets
+World Cup fans reveal how much they paid for a seat at the US’s opening game against Paraguay.
+
 ## ‘Lots of things can still go wrong’ with US-Iran deal to end the war
 Henry Ensher says the US–Iran agreement is not a final settlement but only the start of a process that can go wrong.
 
@@ -266,15 +275,6 @@ As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to c
 
 ## Five Indian air force staff killed as transport plane crashes in Assam
 Antonov An-32 transport plane crashed near Assam’s Jorhat region, air forces says.
-
-## Violence erupts at anti-government protest in DR Congo
-Hundreds demonstrated in Kinshasa against constitutional changes.
-
-## Qatar vs Switzerland: World Cup group match – preview, team news, lineups
-After a disappointing home World Cup in 2022, Asian Cup champions Qatar are looking for better showing in North America.
-
-## Yemen’s ‘Spider-Man’ dies while scaling volcanic crater
-Yemen’s 'Spider-Man' dies while scaling volcanic crater
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
