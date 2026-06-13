@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## Pakistan says US-Iran deal to be signed within 24 hours
-Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says
+## Trump says US and Iran will sign deal on Sunday to reopen Strait
+Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close
 
 ## US kills leader of Venezuelan Tren de Aragua gang in air strike
 Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez
@@ -84,6 +84,9 @@ China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list o
 ## SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire
 Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to
 
+## Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
+Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
+
 ## TMC targets ECI over 'mysterious' fire that gutted '4,000 EVMs' in Kolkata
 Earlier this week, Kolkata Police constituted a Special Investigation Team (SIT) to probe the fire incident at the South 24 Parganas Zilla Parishad office.
 
@@ -105,31 +108,28 @@ According to a US state department readout, Rubio emphasised that commercial ves
 ## ‘Rahul Gandhi’s approach helps BJP, does not strengthen INDIA bloc': Vijayan hits back after Cong leader's 'hug’ remark
 Pinarayi Vijayan launched a scathing attack on Congress leader Rahul Gandhi for his ‘hug’ comment and questioned his leadership within the INDIA alliance
 
-## ED raids seven Madan Mitra-linked premises in Bengal jobs irregularities case
-The search operations started around 6am and were carried out almost simultaneously at all seven locations
+## First batch of NDA-trained women cadets commissioned as officers
+
+
+## Narendra Modi in France: Tech, innovation to dominate bilateral agenda
+
+
+## Elon Musk sparks debate on India’s falling fertility rate; what it means for the future
+
+
+## President Murmu recalls going numb after PM Modi’s call; expert decodes reactions
+
+
+## Brazil vs Morocco Live Score, FIFA World Cup 2026: BRA vs MOR next; Swiss lead 1-0
+
 
 ## Shubman Gill leads from the front as India outclass Afghanistan in first ODI
 
 
-## Trump says Iran deal to be signed on Sunday, vows US will destroy uranium stockpile: ‘Strait of Hormuz to be open to all’
+## Trump says Iran peace deal to be signed on Sunday, vows US will destroy uranium stockpile: ‘Strait of Hormuz to be open to all’
 
 
 ## ‘Deeply shocking’: Tharoor slams US response on killing of Indian sailors off Oman
-
-
-## Why this author’s take on food ‘villains’ is making people rethink their diets
-
-
-## UPSC Weekly Current Affairs Quiz (June 07 – June 13) : 10 key questions with detailed answers for Prelims 2027
-
-
-## Tejas Shirse breaks national record in 110m hurdles, qualifies for CWG
-
-
-## What Iran’s nuclear programme could look like under proposed Pakistan MoU with US
-
-
-## 4 die inside illegal Jharkhand coal mine after suspected toxic gas leak
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Qatar vs Switzerland live – World Cup 2026
-Follow our live build-up, with team news as it lands, before our text commentary stream.
+## ‘Not in my name’: The Jewish diaspora fighting the consensus on Israel
+The Jewish diaspora say they reject Israel’s authority over their name amid Smotrich’s Israel Day parade appearance.
 
-## Gaza pet owners struggle to keep animals healthy amid vet crisis
-Animal lovers in Gaza are resorting to desperate measures to keep their pets alive and healthy.
+## Hungary’s former PM Orban re-elected party leader despite election loss
+Viktor Orban, who ran unopposed, said he took full responsibility for his pro-Russian Fidesz party's defeat in April.
 
-## Oval Office octagon: How Trump turned combat sports into a political weapon
-MMA event reflects career deeply intertwined with professional fighting, but risks political fallout.
+## Ukraine to keep targeting Russian energy after hitting sea terminal
+Ukraine's SBU security service claimed attack sparking fires in Russia's Tamanneftegaz terminal.
 
-## Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp
-Israeli attack kills one person in central Gaza's Bureij camp, as a disabled Palestinian is shot in occupied West Bank.
+## Keepy-up cop wows fans with football skills at World Cup event in Boston
+A police officer stole the show at a World Cup fan festival in Boston, as he effortlessly juggled a football.
 
-## As Iran and US near a deal, Tehran remembers another recent bloody conflict
-Iranian authorities say assassinations and strikes over the past year have failed to deter them.
+## Trump says Iran deal to be signed tomorrow, contradicting Iranian official
+Both sides have indicated a deal to end the war is close, but have diverged on details and timeline for a breakthrough.
 
-## Thousands attend anti-racism rallies following unrest in Belfast
-The rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.
+## US President Trump says US-Iran deal to be signed tomorrow
+US President Donald Trump says a deal between Washington and Tehran will be signed on Sunday.
 
-## Iranians divided on peace prospects after US-Iran say a deal is near
-Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.
+## Brazil vs Morocco live: World Cup 2026
+Follow the updates as five-time record champions Brazil face African giants Morocco in a blockbuster Group C clash.
 
-## Workers remove Trump’s name from Kennedy Center after court ruling
-Judge says Trump-backed board's move to add president's name unlawful, requires Congressional approval.
+## Albania protests escalate over Kushner-backed coastal development
+Albania protests escalate over Kushner-backed coastal development
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
