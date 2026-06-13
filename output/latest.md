@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Pakistan says US-Iran deal to be signed within 24 hours
+Strait of Hormuz will be reopened as part of ceasefire extension, Prime Minister Shehbaz Sharif says
+
 ## Investment firms join Donald Trump’s $100bn race for Venezuelan oil
 Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue assets in Latin American nation.
 
@@ -21,9 +24,6 @@ Malign social media automates division — I saw the effects in our city this we
 ## How to tame the inflation python
 A ‘wait and see’ monetary policy strategy risks repeating the mistakes made in 2008
 
-## European tech sovereignty: a doubtful goal but a good investment
-Given the continent’s weak starting point, its modest ambitions could have a big impact on local companies
-
 ## UK housebuilder Vistry offers staff voluntary redundancy
 Company is trying to preserve cash to shore up its business amid market slowdown
 
@@ -36,32 +36,32 @@ Mike Ashley’s penchant for stake-building is not that well suited to the publi
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-## Gujarat govt to unveil New Industrial Policy 2026 on June 15
-Gujarat has emerged as a preferred destination for domestic and global investments, supported by world-class infrastructure, proactive governance, robust connectivity, and a skilled workforce, Gujarat Chief Minister’s office states
+## Global capitalism bets it all on AI future that alarms voters
+This week’s record SpaceX IPO captured the euphoria — and made Elon Musk the world’s first trillionaire; yet all the while, much of the global public is looking on aghast
 
-## What is ‘cardiac age’? Doctors warn your heart can be older than you, and it’s a risk
-Cardiac age is increasingly being used to explain cardiovascular risk in a way people can easily understand
+## Ageing An-32 crashes, takes lives of 5 onboard IAF personnel
+A court of inquiry has been constituted to ascertain the cause of the accident
 
-## India's productivity gap with China widens despite strong GDP growth: Equirus Securities
-The report noted that while emerging market labour productivity has grown steadily over the past three decades, the current phase is marked by sharp divergence across countries
+## Dr Reddy’s launches Bosutinib tablets in US market
+The company has collaborated with MSN Laboratories on the product
 
-## OFCD case: SEBI moves Supreme Court against SAT relief to SICCL managers, company secretary
-While dismissing the appeals filed by SICCL and its directors, the tribunal had allowed a separate appeal filed by four managers and the company secretary, while holding that as employees they could not be held liable for the company's actions
+## ICMR team reaches Kerala’s Kozhikode after Nipah outbreak; relatives of patient test negative
+Experts from the National Centre for Disease Control (NCDC) are also scheduled to visit the district
 
-## Tata Trusts CEO shifts focus from Boardroom turmoil to Philanthropy
-Tata Trusts is among India’s largest philanthropic institutions and remains the principal shareholder of Tata Sons, the holding company of the Tata group
+## LT Gen Dhiraj Seth appointed next Army Chief
+Lieutenant General Dhiraj Seth, who is serving as the Vice Chief of the Army Staff, will take over the charge from incumbent General Upendra Dwivedi on June 30
 
-## NTA launches digital training programme for examination officials
-The course is intended for examination functionaries, in particular Centre Superintendents and Invigilators, who are involved in the conduct of the NTA examinations
+## Pakistan PM Sharif says US-Iran peace deal expected to be finalised in 24 hours
+Pakistan is preparing for the electronic signing of the peace deal “immediately after, followed by technical level talks next week,” Prime Minister Shehbaz Sharif says
 
-## Nifty and Bank Nifty Prediction for the week 15 Jun’26 to 19 Jun’26 by BL GURU
+## Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker
+The IPO, the biggest in U.S. history, vaulted SpaceX's value above two Mag 7 members: CEO Elon Musk's other company, Tesla , and Meta Platforms
 
-
-## Two phones and an app: How Russians skirt Putin's digital iron curtain
-Since the Kremlin tightened internet control this year, Russians have sought complex technical solutions to bypass state monitoring and restrictions on popular apps like WhatsApp and Telegram
+## India, Nepal discuss cross-border rail connectivity
+The standard operating procedures for the commencement of passenger train services on the Janakpur-Ayodhya section was one of the focus points during the engagement between the two sides
 
 ## Venezuela oil rush: US investors chase Trump's $100 billion call as funds target energy assets - report
-
+US investment groups are actively pursuing opportunities in Venezuela's oil sector following the lifting of sanctions and a new hydrocarbons law. Lionheart Capital is leading the charge with a proposed merger to create the first Nasdaq-listed company offering direct access to Venezuelan oil assets, 
 
 ## Seventh among giants: SpaceX joins world's most valuable companies after blockbuster debut
 
@@ -84,52 +84,52 @@ Veteran banker Uday Kotak questioned SpaceX's massive valuation, calling it a "h
 ## Tata Group tells Air India to focus on cutting losses
 The carrier is also reevaluating plans to fly to new domestic and international destinations, pruning some routes and postponing launches at some airports, such as the new Noida International Airport, the people familiar with the matter said. Air India’s cowed ambitions follow a series of challenges
 
+## A forged army ID, a dummy pistol and 2 bouncers: How 'fake Brigadier' Aryan Verma tricked people
+Aryan Vermahad hired two bouncers and went around introducing them as National Security Guard (NSG) commandos.
+
+## CPI(M) attacks Rahul Gandhi over remarks on Vijayan: 'Stop being facilitator for ED, Modi govt'
+The CPI(M) general secretary expressed frustration regarding Gandhi's comments against Vijayan at the INDIA bloc meeting
+
+## Bangladeshi man shot dead by BSF at Tripura border in alleged smuggling attempt
+After BSF’s intervention, the constable was assaulted by the people from Bangladesh side, who injured his hand with a sharp weapon
+
+## Lt Gen Dhiraj Seth named next Army Chief, first from Armoured Corps in 3 decades
+Lieutenant General Dhiraj Seth will take over as the country’s next Army chief from General Upendra Dwivedi, who retires on June 30
+
+## Iran's former supreme leader Ayatollah Khamenei to be buried on July 9: Report
+The funeral cermeony is expected to be a week long event across multiple cities, as per state media reports
+
+## Customs officials seize 2.7 kg gold worth ₹4.26 crore hidden in aircraft speaker on Dubai-Ahmedabad flight | Watch
+The incident occurred on board an IndiGo flight 6E-1478, which arrived at the Sardar Vallabhbhai Patel International Airport in Ahmedabad from Dubai.
+
+## Paragliding crash, dramatic rescue, surgery: How George Richmond survived Himachal fall
+During the crash, he sustained serious injuries in the neck and was shifted to the Postgraduate Institute of Medical Education and Research in Chandigarh.
+
 ## Police raid Abhishek Banerjee’s house at 2am to trace aide in land fraud case
 Police searched Abhishek Banerjee’s house in Kolkata’s Kalighat area in connection with a land fraud case in which his personal assistant Sumit Roy is an accused
 
-## Viral post claims re-NEET paper leaked. Here's what the govt said
-PIB fact check said, “A question paper is being circulated on social media claiming that the NEET paper has been leaked again. This Claim is fake."
-
-## Meet next Army Chief Lt Gen Dhiraj Seth: An NDA alumnus, who led two Army commands, shaped military modernisation
-Lt Gen Seth, currently serving as the Vice Chief of the Army Staff. will succeed General Upendra Dwivedi, who will retire from service on June 30.
-
-## CM Yogi directs police to file FIR against those trolling Akhilesh Yadav's daughter: 'Never made any distinction'
-Yogi Adityanath called for dignity in public discourse when referring to someone's daughter or sister, standing in defense of Akhilesh Yadav's daughter
-
-## ‘If govt can’t fight, we will’: Supriya Sule demands strong action against US over seafarers’ deaths
-Calling the deaths “deeply saddening”, Supriya Sule said India must take a firm position in defence of its citizens.
-
-## ‘People may stop donating bodies': AIMSA leader slams Sejal Pawar's remarks during Pranit More's show
-Dr Kanishka Kalra, general secretary of AIMSA's Foreign Medical Students' Wing, flagged the fallout of Dr Pawar's remarks.
-
-## PM Modi’s France-Slovakia tour to focus on G7 Summit, bilateral ties
-Modi will criss-cross between France and Slovakia between June 13 and 18, travelling first to the French port city of Nice, where he will hold bilateral talks
-
-## Lt General Dhiraj Seth appointed as next Army chief, to assume office on June 30
-Lt General Seth was serving as the Vice Chief of the Army Staff (VCOAS), a position he assumed in April this year.
-
-## Amid Don 3 row, Saif Ali Khan says Farhan Akhtar ‘was born to direct’
+## Kamal Haasan’s 15-year dream turned into a Rs 300 cr disaster despite a GOAT at the helm
 
 
-## ‘I hope it’s not the end’: Graeme Swann on Ben Stokes after nightclub row
+## Clearing of Dharavi’s sector 6 faces resistance
 
 
-## El Niño emerges in Pacific Ocean, to intensify during SW monsoon season : IMD
+## Thomas Cup squad reassembles for Asian Games; Sindhu-Unnati for individual; Treesa-Gayatri return
 
 
-## Trinamool MPs Sudip Bandyopadhyay, Satabdi Roy meet BJP leadership in Delhi
+## ‘You inspired countless young girls’: Alia Bhatt’s message to Jemimah Rodrigues goes viral
 
 
-## Trump wants Iran’s uranium. Tehran buried it behind collapsed tunnels and mines: Report
+## Top 10 loneliest countries in the world: India ranks second, Turkey tops global study
 
 
-## Kota calling: After NEET row, Rahul Gandhi to launch campaign against paper leaks from Rajasthan
+## Sadhguru links potatoes to poor focus, low energy, gas: ‘Those who are students…’
 
 
-## ‘Facts require investigation’: Karnataka High Court refuses to quash rape case against man accused of forced conversion
+## Chhattisgarh High Court rejects TET candidates’ pleas over application error
 
 
-## 50 tonnes in, 1 tonne out: Bengaluru startup turns city garbage into green energy amid LPG crisis
+## Kangana Ranaut says she has ‘nothing against’ Diljit Dosanjh years after their public feud
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel attacks Lebanon despite being included in potential peace deal
-Israel has continued to attack Lebanon, despite Iran saying it was included in a potential memorandum of understanding.
+## ‘Lots of things can still go wrong’ with US-Iran deal to end the war
+Henry Ensher says the US–Iran agreement is not a final settlement but only the start of a process that can go wrong.
 
-## The US border runs straight through the World Cup
-The tournament was sold as a symbol of unity, but Trump’s border politics have turned it into a spectacle of exclusion.
+## Iran announces funeral, burial dates for late Supreme Leader Khamenei
+Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.
 
-## US orders Anthropic to disable AI models for all foreign nationals
-The company said it received ⁠an export control directive to suspend access to Fable 5 and Mythos 5.
+## Deadly military plane crash in India’s Assam
+A military transport aircraft has crashed in India’s northeastern Assam during a routine fligh.
 
-## Knicks face Spurs in Game 5, with first NBA title in 53 years in sight
-After an epic comeback, the New York Knicks head to San Antonio, hoping to beat the Spurs to seal the 2026 championship.
+## Football: Why is India struggling to play the world’s most popular sport?
+As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to compete in the world's most popular sport
 
-## ‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters
-As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.
+## Five Indian air force staff killed as transport plane crashes in Assam
+Antonov An-32 transport plane crashed near Assam’s Jorhat region, air forces says.
 
-## Iran war day 106: US and Iran say deal close but Lebanon fighting continues
-US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.
+## Violence erupts at anti-government protest in DR Congo
+Hundreds demonstrated in Kinshasa against constitutional changes.
 
-## Molokhia cigarettes: Gaza’s toxic alternative to tobacco
-Smokers in Gaza turn to toxic molokhia nicotine cigarettes as tobacco prices surge, causing serious health risks.
+## Qatar vs Switzerland: World Cup group match – preview, team news, lineups
+After a disappointing home World Cup in 2022, Asian Cup champions Qatar are looking for better showing in North America.
 
-## Doctors Without Borders investigation finds exploitation by staff in Chad
-The organisation employs tens of thousands of workers, local and foreign, to respond to crises across several countries.
+## Yemen’s ‘Spider-Man’ dies while scaling volcanic crater
+Yemen’s 'Spider-Man' dies while scaling volcanic crater
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
