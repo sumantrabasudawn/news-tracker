@@ -36,6 +36,9 @@ Mike Ashley’s penchant for stake-building is not that well suited to the publi
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
+## RBI Governor Sanjay Malhotra meets West Bengal CM Suvendu Adhikari
+The meeting comes as Bengal focuses on fiscal consolidation, revenue growth and attracting investments amid a debt burden of Rs 7.6 lakh crore.
+
 ## Trump to meet PM Modi on G7 Summit sidelines in France, White House says
 Trade deal not likely to be finalised at meeting, say White House officials
 
@@ -57,8 +60,14 @@ High cost of modern treatments and rising cancer incidence make health insurance
 ## Simply Put: Significance of a log chart
 Friends Mark and Antony continue their conversation on using log charts for analysis
 
-## Mastering Derivatives: Shorting: Futures vs underlying
-Short positions in the underlying can be carried over beyond a day through SLB mechanism
+## BRICS adopts Indore Declaration; India to lead seed rights, digital agriculture initiatives
+BRICS nations have adopted the "Indore Declaration," pledging enhanced cooperation in agriculture and launching new initiatives like a global forum on farmers' seed rights and a digital agriculture network. These decisions, made under India's presidency, aim to strengthen food security, support smal
+
+## Hardeep Singh Puri says India has over 60 days of crude, gas stocks; rules out any energy supply crunch
+India assures ample energy supplies, with over 60 days of crude oil and natural gas reserves. Domestic LPG production has significantly reduced import reliance, ensuring 75-80 days of stock. Despite global price hikes due to the Iran conflict, India has kept domestic fuel prices stable, even seeing 
+
+## No fertiliser shortage for kharif, rabi crops; govt prepared for El Nino, says Shivraj Singh Chouhan
+Union Agriculture Minister Shivraj Singh Chouhan assured farmers that urea and DAP will remain affordable, with the government absorbing price increases. He stated India has sufficient fertilizer stocks for the current kharif season and is ensuring supplies for the upcoming rabi cycle. The minister 
 
 ## Will India-US trade deal be announced at G7? USTR signals more talks, says pact not imminent
 Prime Minister Narendra Modi and US President Donald Trump will discuss trade at the G7 summit. A final trade agreement is not anticipated during the meeting. US Trade Representative Jamieson Greer will visit India the following week. Negotiations are ongoing as both nations aim to strengthen econom
@@ -75,14 +84,11 @@ China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list o
 ## SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire
 Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to
 
-## Venezuela oil rush: US investors chase Trump's $100 billion call as funds target energy assets - report
-US investment groups are actively pursuing opportunities in Venezuela's oil sector following the lifting of sanctions and a new hydrocarbons law. Lionheart Capital is leading the charge with a proposed merger to create the first Nasdaq-listed company offering direct access to Venezuelan oil assets, 
+## TMC targets ECI over 'mysterious' fire that gutted '4,000 EVMs' in Kolkata
+Earlier this week, Kolkata Police constituted a Special Investigation Team (SIT) to probe the fire incident at the South 24 Parganas Zilla Parishad office.
 
-## Seventh among giants: SpaceX joins world's most valuable companies after blockbuster debut
-
-
-## SpaceX's $75 billion IPO could get an $11 billion boost — here's how
-SpaceX's IPO raised $75 billion, with a greenshoe option potentially adding another $11.2 billion. This mechanism allows underwriters to buy additional shares from the company if the stock price rises above the IPO price, boosting the total funds raised. The next few weeks will reveal if SpaceX's la
+## Wet spell to continue over North India till next week; rain, gusty winds likely in Delhi, UP, Punjab
+The IMD has forecast partly cloudy skies with thunder and lightning for Delhi on Sunday.
 
 ## Didn't lose in 2024, already won 2029: Rahul Gandhi confident of INDIA bloc win
 Rahul Gandhi reasserted the need for all opposition parties to unite in order to gain an easy victory in 2029 polls.
@@ -102,34 +108,28 @@ Pinarayi Vijayan launched a scathing attack on Congress leader Rahul Gandhi for 
 ## ED raids seven Madan Mitra-linked premises in Bengal jobs irregularities case
 The search operations started around 6am and were carried out almost simultaneously at all seven locations
 
-## Trump to meet PM Modi during G7 summit in France next week, White House says
-PM Modi has departed for a week-long visit to France and Slovakia, during which he will attend the G7 summit.
+## Shubman Gill leads from the front as India outclass Afghanistan in first ODI
 
-## RSS largest yet ‘most misunderstood’ organisation, says Mohan Bhagwat
-He further said that the RSS was neither a reaction to any particular situation nor opposed to any section of society or political party.
+
+## Trump says Iran deal to be signed on Sunday, vows US will destroy uranium stockpile: ‘Strait of Hormuz to be open to all’
+
+
+## ‘Deeply shocking’: Tharoor slams US response on killing of Indian sailors off Oman
+
+
+## Why this author’s take on food ‘villains’ is making people rethink their diets
+
+
+## UPSC Weekly Current Affairs Quiz (June 07 – June 13) : 10 key questions with detailed answers for Prelims 2027
+
+
+## Tejas Shirse breaks national record in 110m hurdles, qualifies for CWG
+
+
+## What Iran’s nuclear programme could look like under proposed Pakistan MoU with US
+
 
 ## 4 die inside illegal Jharkhand coal mine after suspected toxic gas leak
-
-
-## ‘Trafficked’ from Thailand to Laos, two Gujarat sisters return home 18 months later
-
-
-## Hug row flares in INDIA boc as Rahul Gandhi draws fire from Vijayan over remarks
-
-
-## Isha Koppikar shares her period must-haves: ‘Like you carry lipstick’
-
-
-## From a doctor’s room in Madurai to NCAA champion: the Selva Prabhu story
-
-
-## Delhi set to see mega drive led by CM to clean Yamuna across 28 ghats on Sunday
-
-
-## 2020 Delhi riots ‘larger conspiracy’ case: Umar Khalid, Sharjeel Imam move fresh bail pleas
-
-
-## We are more ‘talented’, will dominate: Turkish skipper before opener vs Australia
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Qatar vs Switzerland live – World Cup 2026
+Follow our live build-up, with team news as it lands, before our text commentary stream.
+
+## Gaza pet owners struggle to keep animals healthy amid vet crisis
+Animal lovers in Gaza are resorting to desperate measures to keep their pets alive and healthy.
+
 ## Oval Office octagon: How Trump turned combat sports into a political weapon
 MMA event reflects career deeply intertwined with professional fighting, but risks political fallout.
 
@@ -269,12 +275,6 @@ Iranians gave mixed reactions as Iran and the US said they were close to an inte
 
 ## Workers remove Trump’s name from Kennedy Center after court ruling
 Judge says Trump-backed board's move to add president's name unlawful, requires Congressional approval.
-
-## From colony to cell: Sexual violence in Israeli prisons
-This testimony is part of a wider pattern documented in reports describing sexual abuse inside Israeli prisons.
-
-## Fans reveal how much they paid for World Cup tickets
-World Cup fans reveal how much they paid for a seat at the US’s opening game against Paraguay.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
