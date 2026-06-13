@@ -36,29 +36,32 @@ Mike Ashley’s penchant for stake-building is not that well suited to the publi
 ## AI is revolutionising the stock market
 Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-## ‘Manic impulsiveness’ drives SpaceX-fueled retail risk complex
-The result was a market struggling to settle on a single narrative, with investors lurching between macroeconomic developments and speculative trades
+## Trump to meet PM Modi on G7 Summit sidelines in France, White House says
+Trade deal not likely to be finalised at meeting, say White House officials
 
-## Tech experts pitch for Sovereign AI as US blocks access to Anthropic’s Fable 5, Mythos 5
-Experts say a possible abrupt suspension of AI services could seriously hurt the business operations
+## Ipca inks licensing agreement with Bhami Research for biologics delivery platform access
+Licencing agreement grants Ipca access to Bhami Research’s proprietary high-concentration subcutaneous biologics delivery platform for the development and commercialisation of multiple monoclonal antibody products
 
-## Coal Minister urges Telangana CM to inquire into SCCL’s coal disappearance claims
-Mines Minister Kishan Reddy emphasised that the continued growth and financial stability of SCCL are of paramount importance
+## F&O Strategy: Buy LICI futures
+Going long in futures is a risky strategy and requires higher margin commitments
 
-## Start-ups cook up a new niche – freeze drying comfort food for travellers
-New on the Menu - From lemon rice to Rajma Chawal, Indians have a choice of lightweight shelf-stable meals from D2C brands
+## Tech Query: Mahindra & Mahindra (M&M), Indian Overseas Bank (IOB), Matrimony.com, EID Parry India - What is the outlook? Where are these stocks headed?
+We look at the prospects of Mahindra & Mahindra and three other stocks – Indian Overseas Bank, Matrimony.com and EID Parry
 
-## Centre takes possession of Jaipur Polo Ground in Delhi: Officials
-The IPA termed the eviction "wrongful, arbitrary and contrary to law", and said it would pursue all available legal remedies to safeguard its rights and interests
+## Index Outlook: Recovery signs
+A strong follow-through rise from here can turn the outlook positive
 
-## Elon Musk’s empire: Here’s a look at what the world’s first trillionaire owns
-From rockets and electric cars to social media platforms and brain implants, Elon Musk’s business empire is huge
+## Covers for cancer treatment
+High cost of modern treatments and rising cancer incidence make health insurance coverage important
 
-## Antwerp eyes diamond polishers, clean fuels from India
-Adani group has presented itself as a possible partner for green hydrogen
+## Simply Put: Significance of a log chart
+Friends Mark and Antony continue their conversation on using log charts for analysis
 
-## India demonstrates elite air defence capability against Intercontinental Ballistic Missiles
-The architecture relies heavily on next-gen, completely indigenous components, including high-power, long-range tracking radars, ultra-low latency network communication links and advanced “kill vehicles” designed to take down threats at hypersonic speeds
+## Mastering Derivatives: Shorting: Futures vs underlying
+Short positions in the underlying can be carried over beyond a day through SLB mechanism
+
+## Will India-US trade deal be announced at G7? USTR signals more talks, says pact not imminent
+Prime Minister Narendra Modi and US President Donald Trump will discuss trade at the G7 summit. A final trade agreement is not anticipated during the meeting. US Trade Representative Jamieson Greer will visit India the following week. Negotiations are ongoing as both nations aim to strengthen econom
 
 ## AI chip boom yet to lift South Korea's wider economy, Nomura economist sees limited spillover into demand
 South Korea's AI-driven semiconductor boom is not yet translating into broad economic gains, according to Nomura. Despite strong chip exports and equity markets, domestic demand shows limited improvement, with luxury spending and business investment being key drivers. Concerns over the won and finan
@@ -81,55 +84,52 @@ US investment groups are actively pursuing opportunities in Venezuela's oil sect
 ## SpaceX's $75 billion IPO could get an $11 billion boost — here's how
 SpaceX's IPO raised $75 billion, with a greenshoe option potentially adding another $11.2 billion. This mechanism allows underwriters to buy additional shares from the company if the stock price rises above the IPO price, boosting the total funds raised. The next few weeks will reveal if SpaceX's la
 
-## How rich is a trillionaire? Elon Musk can sponsor IPL for 17,000 years, spend Rs 1 crore daily for 23,500 years
-Elon Musk's ascent to trillionaire status, driven by Tesla, SpaceX, and xAI, redefines immense wealth. A trillion dollars, approximately Rs 95 lakh crore, dwarfs national economies and government budgets. This fortune could fund multiple Apollo missions, build numerous advanced telescopes, or purcha
+## Didn't lose in 2024, already won 2029: Rahul Gandhi confident of INDIA bloc win
+Rahul Gandhi reasserted the need for all opposition parties to unite in order to gain an easy victory in 2029 polls.
+
+## Nitin Gadkari says ‘people laughed’ at his 100% ethanol vision, now the file is signed
+Gadkari also said that automobile companies would launch ethanol-compatible vehicles within the next month-and-a-half.
+
+## TMC secretary Derek O'Brien labels merger with ‘any party’ as ‘baseless’
+Speculation about a possible merger with the Congress flared up following a Mamata-Sonia and Abhishek-Rahul meeting, claims now denied by Derek O'Brien
+
+## US ignores India’s concerns; Rubio says blockade violations won’t be tolerated
+According to a US state department readout, Rubio emphasised that commercial vessels should comply with orders from US forces
+
+## ‘Rahul Gandhi’s approach helps BJP, does not strengthen INDIA bloc': Vijayan hits back after Cong leader's 'hug’ remark
+Pinarayi Vijayan launched a scathing attack on Congress leader Rahul Gandhi for his ‘hug’ comment and questioned his leadership within the INDIA alliance
+
+## ED raids seven Madan Mitra-linked premises in Bengal jobs irregularities case
+The search operations started around 6am and were carried out almost simultaneously at all seven locations
+
+## Trump to meet PM Modi during G7 summit in France next week, White House says
+PM Modi has departed for a week-long visit to France and Slovakia, during which he will attend the G7 summit.
 
 ## RSS largest yet ‘most misunderstood’ organisation, says Mohan Bhagwat
 He further said that the RSS was neither a reaction to any particular situation nor opposed to any section of society or political party.
 
-## Sudip Bandyopadhyay meets Bhupender Yadav in Delhi amid TMC split buzz
-According to a section of TMC leaders, if Bandyopadhyay joins the rebel camp it would be a big blow for Mamata Banerjee
-
-## Student group alleges irregularities in CUET-PG exam; NTA rejects claims
-AISA members protested in Delhi during which activists highlighted issues related to examination management, paper "leaks" and the functioning of the NTA.
-
-## 8th Pay Commission: Will the fitment factor for salary hikes be in the 3-5 range? Experts don't think so
-One of the aspects that employee unions and stakeholders have been vocal about is the fitment factor, which plays a key role in the revision of basic salary.
-
-## Is mystery over 20th rebel MP over? Another TMC MP reaches BJP leader's residence with Satabdi Roy
-The meeting at union minister Bhupender Yadav's residence suggested that Sudip Bandyopadhyay could join the dissident TMC group.
-
-## Rubio tells India 'ships violating US blockade in Hormuz won't be tolerated', days after Indian seafarers killed
-Rubio told Jaishankar that all commercial vessels should immediately comply with US orders in the Strait of Hormuz.
-
-## A forged army ID, a dummy pistol and 2 bouncers: How 'fake Brigadier' Aryan Verma tricked people
-Aryan Verma had hired two bouncers and went around introducing them as National Security Guard (NSG) commandos.
-
-## CPI(M) attacks Rahul Gandhi over remarks on Vijayan: 'Stop being facilitator for ED, Modi govt'
-The CPI(M) general secretary expressed frustration regarding Gandhi's comments against Vijayan at the INDIA bloc meeting
-
-## ‘Forces tried to eliminate me’: Parvathy on losing big films, facing death, rape threats
+## 4 die inside illegal Jharkhand coal mine after suspected toxic gas leak
 
 
-## ‘Extreme brutality’: 7 get life term for lynching MP man in 2022 over cow smuggling claim
+## ‘Trafficked’ from Thailand to Laos, two Gujarat sisters return home 18 months later
 
 
-## Delhi Government floats ₹473-cr smart street light tender to boost safety and save power
+## Hug row flares in INDIA boc as Rahul Gandhi draws fire from Vijayan over remarks
 
 
-## Nothing Ear (3a) leak suggests new colours and a budget-friendly price tag
+## Isha Koppikar shares her period must-haves: ‘Like you carry lipstick’
 
 
-## BMC slaps Rs 9.25 cr in penalties after AI model flags irregularities in desilting drive
+## From a doctor’s room in Madurai to NCAA champion: the Selva Prabhu story
 
 
-## iOS 27 expands keyboard support with new languages, smarter typing features
+## Delhi set to see mega drive led by CM to clean Yamuna across 28 ghats on Sunday
 
 
-## Trishala Dutt recalls losing mom at 8: ‘It was already grade 4’; expert on childhood grief
+## 2020 Delhi riots ‘larger conspiracy’ case: Umar Khalid, Sharjeel Imam move fresh bail pleas
 
 
-## Will Delhiites pay more for electricity after regulator’s latest move? Here’s what Minister said
+## We are more ‘talented’, will dominate: Turkish skipper before opener vs Australia
 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Oval Office octagon: How Trump turned combat sports into a political weapon
+MMA event reflects career deeply intertwined with professional fighting, but risks political fallout.
+
+## Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp
+Israeli attack kills one person in central Gaza's Bureij camp, as a disabled Palestinian is shot in occupied West Bank.
+
+## As Iran and US near a deal, Tehran remembers another recent bloody conflict
+Iranian authorities say assassinations and strikes over the past year have failed to deter them.
+
+## Thousands attend anti-racism rallies following unrest in Belfast
+The rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.
+
+## Iranians divided on peace prospects after US-Iran say a deal is near
+Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.
+
 ## Workers remove Trump’s name from Kennedy Center after court ruling
 Judge says Trump-backed board's move to add president's name unlawful, requires Congressional approval.
 
@@ -260,21 +275,6 @@ This testimony is part of a wider pattern documented in reports describing sexua
 
 ## Fans reveal how much they paid for World Cup tickets
 World Cup fans reveal how much they paid for a seat at the US’s opening game against Paraguay.
-
-## ‘Lots of things can still go wrong’ with US-Iran deal to end the war
-Henry Ensher says the US–Iran agreement is not a final settlement but only the start of a process that can go wrong.
-
-## Iran announces funeral, burial dates for late Supreme Leader Khamenei
-Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.
-
-## Deadly military plane crash in India’s Assam
-A military transport aircraft has crashed in India’s northeastern Assam during a routine fligh.
-
-## Football: Why is India struggling to play the world’s most popular sport?
-As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to compete in the world's most popular sport
-
-## Five Indian air force staff killed as transport plane crashes in Assam
-Antonov An-32 transport plane crashed near Assam’s Jorhat region, air forces says.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
