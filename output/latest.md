@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US kills leader of Venezuelan Tren de Aragua gang in air strike
+Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez
+
+## Anthropic suspends latest AI models after US blocks access to foreigners
+Trump administration directs company to limit access to foreign nationals on national security grounds
+
+## AI riches turn Samsung factory town into luxury hotspot
+Windfall bonus for workers drives up property prices and department store purchases
+
 ## Paramount’s $111bn takeover of Warner Bros wins US antitrust approval
 Deal is critical to David Ellison’s ambition to create new media empire
 
@@ -15,122 +24,128 @@ Goals, talent and diversity are set to drown out controversy off the pitch
 ## The strategic dilemmas behind Britain’s defence spending mess
 At the heart of the debate is not just how much the UK should spend on the military, but what types of threat it faces — and ultimately, its place in the world
 
-## SpaceX’s IPO is a display of Musk’s dominance
-His unrivalled grip on the public imagination has transmuted into Wall Street gold
+## Goldman and JPMorgan ease office working rules to counter World Cup disruption
+Wall Street lenders say employees can ask to work from home on match days to ease congestion in host cities
 
-## Warsh and learn
-We will understand more about new Fed chair Kevin Warsh when he oversees his inaugural rate meeting on Wednesday
+## Frasers is better at making headlines than creating shareholder value
+Mike Ashley’s penchant for stake-building is not that well suited to the public markets
 
-## Artist David Hockney dies aged 88
-Celebrated painter was known for works including the ‘Swimming Pool’ series
+## AI is revolutionising the stock market
+Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
 
-## SpaceX’s surge on debut makes Musk world’s first trillionaire
-Rocket and AI group’s shares jumped by nearly a fifth after raising $75bn in record initial public offering
+## European tech sovereignty: a doubtful goal but a good investment
+Given the continent’s weak starting point, its modest ambitions could have a big impact on local companies
 
-## CEO of collapsed Prax ordered fake invoices, administrators allege
-Winston Soosaipillai accused of creating a ‘web of deceit’ before energy group collapsed
+## Nationalise Heathrow to build third runway, says Emirates boss
+Tim Clark is open to a successor to the discontinued superjumbo A380, even if made in China
 
-## European defence stocks retreat on lower spending and higher wrangling
-Resignation of UK defence secretary shows some governments will struggle to find the money
+## Luke Miels, the quiet GSK boss making a $10.6bn bet on cancer
+The UK pharma group has announced its biggest biotech acquisition in more than 25 years
 
-## Palantir loses legal challenge against Swiss investigative magazine
-Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches
+## Elite sportsman. Entrepreneur. What drives Mathieu Flamini?
+The midfielder who co-founded a biochemicals business on the difference between the locker room and the boardroom
 
-## ED arrests two former Reliance Anil Ambani Group executives in money laundering case
-The accused, former Reliance Telecom directors Sateesh Seth and Gautam Doshi, are being taken to Delhi on transit remand.
+## ‘Rivals’ may be racy — but ITV’s real-life franchise wars were stranger still
+For veterans of Britain’s broadcast licence battles, the Disney+ Jilly Cooper adaptation paints a recognisable picture
 
-## India developing multi-level missile shield under Mission Sudarshan Chakra: Rajnath Singh
-The system will protect both military and civilian infrastructure while ensuring a strong deterrence capability
+## Jaishankar speaks to Rubio, lodges strong protest over US Navy attacks that killed 3 Indians
+"Such lethal actions against commercial shipping are not justified," Jaishankar said in a post on X about his talks with Rubio
 
-## What Elon Musk’s $1 trillion wealth means in real terms
-The milestone reflects the rapid rise in the value of his rocket company and broader gains across his business empire
+## OpenAI under investigation by coalition of US state attorneys general, WSJ reports
+OpenAI has been served a sweeping subpoena seeking documents on a wide range of its activities ⁠and the impact on users, including ⁠advertising, user engagement and retention, and the handling of consumer and health data
 
-## Shell prepares to sell offshore wind farms in shift away from renewable energy
-The potential divestment, advised by Rothschild & Co. and PJT Partners, could raise over $1 billion and may take place by 2027
+## GRID India seeks fallback mechanism, ring-fencing in CERC market-coupling draft
+GRID India said a regulatory fallback mechanism should be introduced to allow power exchanges to undertake price discovery in the event of a technical disruption at the MCO
 
-## Air India seeks to defer delivery of hundreds of Airbus and Boeing jets, sources say
-The move comes amid mounting losses, operational disruptions linked to geopolitical tensions, airspace restrictions, and rising fuel costs
+## A policy contradiction at the heart of India’s pulse mission
+The harder question is whether a policy design that repeatedly suppresses price-discovery infrastructure in response to retail price spikes is compatible with a six-year mission to build domestic supply through farmer-level incentives
 
-## Only one in four major reservoirs in India half-full as overall storage drops to 28%
-Level in the country’s 166 reservoirs down to 51.917 BCM of the 183.565 BCM capacity as nearly 2/3rds has received deficient rain so far
+## Anthropic disables top-tier AI models after US order limiting foreign access
+Anthropic stated that the company received an export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without specific details on the national security concern
 
-## Markets clock biggest two-month gain on US-Iran truce hopes
-The BSE Sensex jumped 1,695.40 points, or 2.30%, to close at 75,527.95, while the Nifty rose 461.30 points, or 1.99%, settling comfortably above the 23,600 mark at 23,622.90
+## Downed Iranian drones targeting ships in Hormuz: US Centcom
+The CentCom said US forces continue to strictly enforce a blockade against Iran, redirecting 139 compliant commercial ships and disabling nine non-compliant ships
 
-## SpaceX stock jumps to $164, becomes sixth-largest US company by valuation
-The listing attracted strong retail and institutional demand as Elon Musk outlined ambitious plans for orbital data centres and a multiplanetary future.
+## Turning surplus into success: How rejuvenated oil palm seedlings can accelerate India’s edible oil mission
+Faster plantation establishment benefits farmers, companies and the nation by accelerating future palm oil production and reducing dependence on imported edible oils
 
-## Tu cheez badi hain....Musk Musk: A small step for SpaceX, a giant leap to a trillion for Elon
-Elon Musk has achieved a historic milestone by becoming the world’s first trillionaire, driven by the soaring valuation from SpaceX’s IPO. His vision for reusable rockets and interplanetary colonies has captured the imagination of investors, turning space exploration into an enticing financial front
+## Pak PM Shehbaz says final text of US-Iran peace deal agreed upon
+“We can confirm that a final, agreed upon text of the peace deal has been reached and Pakistan is now working closely with both sides to finalise the next steps," he said
 
-## Centre opens radio spectrum to accelerate deployment of vehicle collision-avoidance systems
-India has removed licensing for crucial radio spectrum bands, specifically 77-81 GHz for automotive radar and 5.9 GHz for V2X communications. This move aims to accelerate the adoption of advanced road safety and collision-avoidance systems, aligning India with global standards and potentially reduci
-
-## Rupee rebounds 67 paise to 95.18 against US dollar as oil prices tumble on Iran deal hopes
-The Indian Rupee experienced a significant surge, climbing 67 paise to close at 95.18 against the US dollar. This robust recovery was primarily fueled by a sharp decline in global crude oil prices, following US President Donald Trump's indication of an imminent deal with Iran. Positive domestic equi
-
-## SpaceX, which Elon Musk gave ‘less than 10% chance of succeeding’, makes him world’s first trillionaire - but will his net worth sustain?
-It’s important to note that a big portion of Musk’s net worth is tied to SpaceX. His holding in the company is worth around $866 billion. According to Reuters calculations, Musk’s net worth adds up to over a trillion dollars after the listing of Space X.
-
-## World's first trillionaire: Elon Musk's net worth cross $1 trillion after SpaceX's stock market debut
-Elon Musk has become the world's first trillionaire following SpaceX's successful Nasdaq debut. The company's shares surged, propelling Musk's fortune and valuing SpaceX at nearly $2 trillion. Investors are betting on Musk's diverse ventures despite the company's recent losses, with its addressable 
-
-## What Elon Musk's trillion could mean: More than double South Africa's economy, over 200 trips to the moon
-Elon Musk's potential trillion-dollar fortune is a monumental sum, dwarfing national economies and astronomical distances. This unprecedented wealth, if realized, would be enough to buy millions of homes or fuel the entire US for over a year, highlighting a growing concern over global wealth inequal
-
-## Can India become a mango export powerhouse? Opportunities, challenges and road ahead
-Despite being the world's largest mango producer, India exports only a very small fraction of its output due. While "mango diplomacy" and processed products show promise, overcoming challenges in cold chains, treatment facilities, and traceability is crucial for India to achieve export leadership. L
-
-## US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test
-US stocks saw gains on Friday as oil prices dropped, boosting market sentiment. Investors eagerly awaited the public debut of SpaceX, a listing that could test the market's appetite for artificial intelligence-related companies. Broadcom experienced a decline, while Adobe's stock fell despite positi
-
-## Kolkata Police sets up SIT to probe into fire incident in which 4000 EVMs were destroyed
-A Kolkata government building fire destroyed 4,000 EVMs, prompting an SIT investigation amid suspicion and political outcry regarding the incident.
-
-## Shah: Establish Multi-layered security during Amarnath Yatra
-Amit Shah directed enhanced security for the Amarnath Yatra, using drones and tech for monitoring, ensuring safety along the pilgrimage route and tourist spots.
-
-## BGB, BSF discuss border deaths and illegal crossing; skip joint briefing
-BSF and BGB discussed border deaths and illegal crossings amid tensions at the India-Bangladesh border, stressing cooperation and preventive measures.
-
-## Renowned Mand folk singer Gavri Devi dies
-Gavri Devi, the iconic Mand folk singer from Rajasthan, passed away at 98, leaving a significant legacy in traditional music. Her death is mourned statewide.
-
-## Lutyens’ bungalow that served as TMC base in Delhi vacated
-The Trinamool Congress loses its Delhi base as MP Partha Bhowmick vacates the party's bungalow, signaling potential internal splits and operational struggles.
-
-## Union ministers, BJP CMs hail Modi government’s 12-year record
-Union ministers and BJP chief ministers praised PM Modi's 12-year tenure for transformative developments in infrastructure, women’s empowerment, and national security.
-
-## Form a ‘resistance’: Rahul to INDIA bloc
-Rahul Gandhi urges INDIA bloc partners to embrace a spirit of resistance against BJP, advocating for a shift from traditional politics to mass mobilization.
-
-## Delhi under red alert as IMD warns of thunderstorms, lightning and winds gusting up to 80 kmph
-The weather office said that very light to light rain is likely at most places, while isolated areas may receive moderate rainfall.
-
-## Rebel TMC MPs ready game plan, look to meet Speaker Om Birla Monday for recognition
+## Sensex jumps 1.7k points as US, Iran inch closer to deal
 
 
-## Texas shooting: 1 dead, 10 injured in Midland; suspect found after standoff
+## Tata Group tells Air India to focus on cutting losses
+The carrier is also reevaluating plans to fly to new domestic and international destinations, pruning some routes and postponing launches at some airports, such as the new Noida International Airport, the people familiar with the matter said. Air India’s cowed ambitions follow a series of challenges
+
+## Despite rocky year, Tata Sons records high profit growth
+Tata Sons is understood to have recorded high-teens profit growth in FY26, a result that strengthens Chandrasekaran’s hand as he faces questions from Noel Tata, chairman of principal shareholder Tata Trusts, over losses at the company’s new businesses, including Tata Digital. Growth came despite low
+
+## Retail inflation inches up to 5-month high in May
+Despite the staggered increase in retail fuel prices during the past month in the backdrop of persisting conflict in West Asia, fuel inflation remained contained at 0.8% in May, though marginally higher than 0.7% in April. Economists expect the pass through to become visible in June. Dipti Deshpande
+
+## AI overload: CVs no more a selling point
+The London-based company which has been operating in India for more than a decade now said that the volume of interviews that recruiters today conduct have gone up because corporates are mandating them to look beyond CVs when shortlisting a pool of candidates for a job. “Earlier CVs used to be uniqu
+
+## Byju’s founder gets relief as S’pore court stays order
+In a statement on Friday, his legal counsel, Lazareff Le Bars, said the General Division of the Singapore High Court stayed the committal and surrender provisions of the May 25 contempt order on June 10. As a result, Raveendran will not be required to surrender on June 15 as previously directed. The
+
+## India gets a homegrown AI video model
 
 
-## Pranit More biryani row: KEM probe finds MBBS student’s remarks ‘insensitive’
+## Reinsurance buffers crash claim, Tata AIG logs Rs 1,008 crore profit
+The General Insurance Corporation had estimated claims of over $400 million last year from the Air India Ahmedabad crash. Since then, reinsurers have settled some claims. Tata AIG, which was the lead insurer, had a 45% share of the risk. “We fully provided for it in that same quarter itself. Net of 
+
+## El Niño conditions develop over Pacific Ocean, likely to impact monsoon: IMD
+IMD on Friday officially confirmed onset of El Niño conditions over equatorial Pacific Ocean, warning the climate phenomenon is expected to strengthen during the ongoing southwest monsoon
+
+## 2 days, 3 ballistic missile defence tests: Inside DRDO's major milestone that puts India in elite list
+Two interceptor missiles tested by the DRDO are capable of destroying enemy missiles with ranges between 2,000 km and 5,000 km, classified as IRBMs.
+
+## Ex-TDB official Murari Babu, accused in Sabarimala gold loss case, dies at 54
+Ex-TDB official Murari Babu, accused in Sabarimala gold loss case, dies at 54
+
+## The tech-enabled rich face is here
+Thanks to new-age surgeries, biologics and chemicals, people, especially the rich, have started to look different after they age and they’re flaunting this rich face.
+
+## Indian-crewed vessel in Gulf stops responding, MEA says reports of US attacks 'false'
+There is no clarity yet on the extent of the attack and casualties caused by it.
+
+## Speaker issues notice to four former AIADMK MLAs
+Tamil Nadu's Assembly speaker issued showcause notices to four ex-AIADMK MLAs who joined TVK, following a vote breach, while 21 others received forgiveness.
+
+## Ladders, saree pulleys: Neighbours turn rescuers after fire at building in Delhi's Tughlakabad
+Residents of the neighbourhood said that within minutes of the fire breaking out, at around 2.15am, the entire lane was filled with smoke.
+
+## Noida airport to begin international flights by year-end: CEO Nitu Samra | Interview
+International services will begin towards the end of the year, said Noida airport chief executive officer Nitu Samra and vice-chairman Christoph Schnellmann.
+
+## CUET PG 2026: NTA says March 29-30 re-exam was for 565 candidates, & had no normalisation
 
 
-## Air India crash, a year later: At crash site, families and friends sift for memories and a life that once was
+## How World War horrors advanced blood donation science
 
 
-## FIFA World Cup 2026 Opening Ceremony Live Updates: Katy Perry, Future to perform
+## ‘Where do I go from here?’: The anxiety, anger and cost of a cancelled exam
 
 
-## US-Iran peace hopes spark market rally, indices surge 2%
+## Another fire in Delhi, 3 of family die in early morning blaze
 
 
-## Severe thunderstorm batters Delhi-NCR; IMD issues red alert, warns of 100 kmph gusts
+## 2008 Bengaluru serial blasts: Undertrial accused Abdul Khader dies before verdict
 
 
-## Watch: Sonakshi Sinha reveals her simple hack for perfect winged eyeliner
+## Raghubir Yadav recalls surviving on Rs 2.5 a day: ‘Would eat roti with chutney’
 
+
+## Hormuz ‘service fee’ to nuclear programme: Likely areas covered in the US-Iran deal
+
+
+## IDFC First Bank fraud cases: CBI files 2 chargesheets in Haryana, Chandigarh
+
+
+## Why gold may rebound 13% this year – and what could hold it back
+Gold prices may rise at least 13 per cent by year-end in a reversal of recent sell-offs, as diversification demand from central banks remains intact and hopes for a diplomatic solution to Middle East tensions dial back inflation expectations, according to some money managers. The precious metal coul
 
 ## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming l
@@ -152,9 +167,6 @@ A Singaporean buyer linked to an investment firm paid HK$562.6 million (US$72 mi
 
 ## As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?
 This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. As the SpaceX initial public offering (IPO) on Friday sets the sta
-
-## Xi on North Korean military ties; US blacklists Chinese tech firms: SCMP’s 7 highlights
-We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Was Xi’s stance on North Korea mil
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -252,35 +264,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Older runners defy age in Kenya’s central highlands
+Members of a self-funded athletics club in Meru are proving that competition does not end with age.
+
+## UK court jails Palestine Action activists on ‘terrorism’ charges
+UK court has sentenced four pro-Palestine activists to jail for a raid on an Israeli arms factory near Bristol in 2024.
+
+## Canada World Cup opener splits Bosnian fans among two ‘home nations’
+Thousands of Bosnia fans turned Toronto blue as they marched to the chants of 'Free Palestine' in Toronto.
+
+## Canada and Bosnia fight out historic World Cup opener
+Bosnia and Herzegovina and Canada have fought out a 1–1 draw in their World Cup opening match.
+
+## USA hit Paraguay for four in dream start to their World Cup campaign
+USA beat Paraguay 4-1 in Los Angeles as each of the three World Cup cohosts have now staged a game in 2026 edition.
+
+## World Cup kicks off in US as Katy Perry, Future headline opening ceremony
+Tom Cruise, David Beckham, Halle Berry among celebrities in attendance at Hollywood-style opening ceremony.
+
+## Thomas Partey denied entry into Canada, will miss Ghana’s World Cup opener
+Partey's visa was denied due to the multiple charges of rape he faces in the United Kingdom.
+
 ## Iran war live: US, Tehran signal peace deal within reach but not signed yet
 Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.
 
-## Palestine football chief says he wasn’t granted US visa to attend World Cup
-Jibril Rajoub remains in Mexico awaiting a US visa to attend the World Cup 2026.
-
-## Bosnia, Canada share points in hard-fought draw at World Cup
-Cyle Larin's equaliser gives Canada first World Cup points after Jovo Lukic put Bosnia in the lead in the first half.
-
-## Mother sues OpenAI in US after daughter’s death linked to ChatGPT use
-The lawsuit accuses OpenAI of failing to intervene despite warning signs in daughter's ChatGPT conversations.
-
-## Judge keeps order in place to remove Trump’s name from Kennedy Center
-The US president has sought to reshape the capital city's image and institutions through series of plans and projects.
-
-## UAE to unlock frozen Iranian funds amid US ceasefire push: Sources
-Reuters reports UAE agreed to unlock billions for Iran, but Abu Dhabi swiftly issued a categorical denial.
-
-## EU agrees launch of accession process for Ukraine and Moldova
-Progress for Kyiv's membership bid given the green light after Hungary's new government lifts Budapest's veto.
-
-## World Cup fans express excitement and share their predictions
-Ahead of the US’s first match, Al Jazeera spoke to World Cup fans in Los Angeles.
+## Call to extend duty cuts on critical inputs soon
+India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
 
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
-
-## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
-Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
 
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
@@ -291,14 +303,14 @@ Sky Gold and Diamonds aims for a threefold revenue jump to Rs 18,000-19,000 cror
 ## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
 With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
 
+## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
+Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
+
 ## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
 Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
 
 ## Indian CFOs remain Asia-Pacific's most optimistic despite Middle East conflict
 Indian chief financial officers remain the most optimistic in Asia Pacific about their businesses and the domestic economy despite escalating geopolitical tensions in the Middle East, although most expect the conflict to negatively affect economic activity and corporate performance, according to the
-
-## AI, Compliance and Margins: CFOs Say Finance Is Being Rebuilt in Real Time
-At ClearTax Presents Beyond, in association with ETCFO, finance leaders from NSDL, Tata Play, Bayer Bioscience and Trent debated the real cost of transformation, the limits of margin defence, and why the tax department now knows more about your business than you do.
 
 ## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
 The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
@@ -320,7 +332,4 @@ The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cen
 
 ## Parliamentary Finance panel concerned over slow private investment despite substantial surge in public capex
 Parliamentary panel on finance raises concern over private investment not keeping pace with government capex, with Standing Committee on Finance Chairman Bhartruhari Mahtab on Thursday saying the issue remains a key challenge for the Indian economy even as public capital expenditure continues to ris
-
-## RBI likely to hold rates as West Asia crisis impact on growth remains unclear: Bank of Baroda Report
-The Reserve Bank of India (RBI) is likely to maintain status quo on interest rates in its monetary policy announcement on Friday as the impact of the ongoing crisis in West Asia on economic growth remains difficult to assess, according to a report by Bank of Baroda.
 
