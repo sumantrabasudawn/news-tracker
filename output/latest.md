@@ -108,6 +108,18 @@ Gadkari also said that automobile companies would launch ethanol-compatible vehi
 ## TMC secretary Derek O'Brien labels merger with ‘any party’ as ‘baseless’
 Speculation about a possible merger with the Congress flared up following a Mamata-Sonia and Abhishek-Rahul meeting, claims now denied by Derek O'Brien
 
+## Not just at top, TMC cracks at grassroots too as people step out against ‘syndicates’
+
+
+## Centre takes possession of Delhi’s Jaipur Polo Ground
+
+
+## ‘All we got to bury was a DNA sample’: British victim’s mother seeks answers a year after Air India crash
+
+
+## As Narendra Modi, Donald Trump head to G7, India and US face off over attacks on ships
+
+
 ## First batch of NDA-trained women cadets commissioned as officers
 
 
@@ -120,17 +132,8 @@ Speculation about a possible merger with the Congress flared up following a Mama
 ## President Murmu recalls going numb after PM Modi’s call; expert decodes reactions
 
 
-## Brazil vs Morocco Live Score, FIFA World Cup 2026: Morocco score in 21st minute
-
-
-## Shubman Gill leads from the front as India outclass Afghanistan in first ODI
-
-
-## Trump says Iran peace deal to be signed on Sunday, vows US will destroy uranium stockpile: ‘Strait of Hormuz to be open to all’
-
-
-## ‘Deeply shocking’: Tharoor slams US response on killing of Indian sailors off Oman
-
+## China’s Geely Auto to slash excess capacity amid overhaul to boost carmaker’s global edge
+Geely Auto, which is locked in a fierce battle for dominance against BYD in China’s crowded automotive market, has pledged to purge excess capacity through an asset restructuring while ramping up its go-global drive with an eye on greater international competitiveness. Chairman Li Shufu said during 
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
 Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to t
@@ -152,9 +155,6 @@ Hong Kong’s financial regulators have pledged to uphold strict compliance stan
 
 ## ‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021
 Chinese regulators are stepping up public enforcement against the nation’s corporate giants, marking a departure from the low-key approach adopted after a bruising 2021 tech crackdown. In recent months, agencies have summoned company representatives, launched high-profile investigations, and named a
-
-## Singaporean pays US$72m to join Richard Li, Pony Ma in Hong Kong’s most exclusive enclave
-A Singaporean buyer linked to an investment firm paid HK$562.6 million (US$72 million) for a historic mansion in Hong Kong’s Shek O, gaining entry into one of the city’s most exclusive residential communities where neighbours include PCCW chairman Richard Li Tzar-kai and Tencent Holdings CEO Pony Ma
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump says deal to be signed today; Tehran urges caution
+US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.
+
+## Brazil and Morocco kickoff amid electric atmosphere
+Brazil and Morocco supporters sang, danced and chanted their way to one of the most anticipated group-stage matches.
+
 ## Qatar net late against Switzerland to secure historic first World Cup point
 Asian Cup holders Qatar level in injury time to draw 1-1 with Switzerland in World Cup 2026 opening game.
 
@@ -269,12 +275,6 @@ With the World Cup getting into full swing, Al Jazeera offers some tips for fans
 
 ## Israel attacks Lebanon as US says Iran deal to be signed on Sunday
 Explosions shook southern Lebanon on Saturday as Israel continued its attacks.
-
-## Will the new EU migration rules work?
-The European Union's new migration policy has come into force.
-
-## ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit
-Canada's prime minister has warned that the 'rules-based' global order is 'breaking down' amid superpower dominance.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
