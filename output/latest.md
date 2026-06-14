@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## Swiss voters reject proposal to cap population at 10mn
+Projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
+
+## Starmer to announce Australia-style social media ban for teenagers
+PM set to announce that he will ban younger teenagers from some social media platforms and curb their daily use
+
+## Trump stages show of political domination with UFC bout on White House lawn
+US president hosts a Maga mixed martial arts spectacle inside a temporary Colosseum on his 80th birthday
+
 ## UK intercepts Russian shadow fleet oil tanker in English Channel
 Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
-
-## Swiss voters reject proposal to cap population at 10mn
-Early projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
 
 ## Trump tells Israel and Hizbollah to ‘stand down’ as he pushes for Iran deal
 US president has said he expects Washington and Tehran to seal a deal to reopen the Strait of Hormuz on Sunday
@@ -18,14 +24,11 @@ Market Questions is the FT’s guide to the week ahead
 ## Electrification jumps up corporate agenda after energy crisis, survey finds
 Security and cost concerns elevate business push for overhaul of power systems
 
-## Manchester is a triumph of private enterprise
-‘Soft left’ Labour MPs backing Andy Burnham might have learned the wrong lessons from the city’s revival
-
-## Kevin Warsh enters the arena
-The new Federal Reserve Chair will be judged on his integrity and ability
-
-## Starmer poised to weaken electric vehicle targets
+## Starmer poised to backtrack on electric vehicle targets
 Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
+
+## Macron to pull out the stops to keep Trump at G7 gathering
+First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
 
 ## Wall Street digests record fundraising haul as AI race intensifies
 SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
@@ -38,9 +41,6 @@ Stock exchange would have option to remain under domestic authority as part of n
 
 ## Defence tech start-up Anduril calls for reset of US arms export controls
 CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons
-
-## Tabletop game titans offer two ways to play the nerd economy
-While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
 ## Rebel faction of 20 Trinamool Congress MPs decide to merge with Tripura-based Nationalist Citizens Party, meet Lok Sabha Speaker Om Birla
 The rebel Trinamool Congress MPs met Lok Sabha Speaker Om Birla and conveyed their decision to him. The group requested separate seating arrangements in Parliament.
@@ -90,6 +90,15 @@ Prime Minister Modi and French President Macron inaugurated Bharat Innovates 202
 ## Dalal Street outlook: Inflation, Fed verdict and crude oil in focus; US-Iran deal hopes to steer market sentiment
 Indian stock markets are poised for a volatile week, with US inflation data, the Federal Reserve's interest rate decision, and crude oil price movements as key influencers. Investors are keenly watching the US-Iran deal's progress, which could impact global oil prices and market sentiment. Foreign i
 
+## India, France to double trade in five years, eye greater cooperation in nuclear energy
+The two leaders held a bilateral meeting at Villa Kerylos in the port city of Nice after jointly inaugurating Bharat Innovates 2026, an event aimed at matching Indian deep tech startups with global investors
+
+## 'Nice to have met you in Nice': PM Modi's X exchange in France with Macron after 'productive' first leg of meeting
+PM Modi lauded the meeting in Nice and said he was looking forward to their meetings in Evian and Paris.
+
+## Gujarat man urges govt not to deport his Bangladesh-born wife, says she has adopted Hinduism
+Patel, a resident of Lambhvel village, said he met Kajal, when she lived in Bangladesh, through Facebook in 2012-13, and the two gradually fell in love.
+
 ## BJP slams Kerala CM over criticism of VCs who shared stage with Mohan Bhagwat: ‘He must not talk about secularism’
 In a social media post, BJP's Rajeev Chandrasekhar said the chief minister had no moral authority to lecture others on secularism or constitutional values.
 
@@ -105,37 +114,28 @@ The six Nagas were allegedly abducted by a group of women belonging to Kuki comm
 ## Pilots' body writes to AAIB, flags timeline, RAT deployment in AI 171 preliminary crash report
 The pilots' body flagged the link between the fuel control switches and RAT deployment, suggesting the latter could have resulted from an electrical fault.
 
-## 'Say no to British Janata Party': Posters, Prakash Raj take spotlight at CJP's Bengaluru protest
-Actor Prakash Raj addressed the rain-soaked crowd at Bengaluru's Freedom Park that had gathered to demand Dharmendra Pradhan's resignation.
-
-## Rebel TMC MPs to join Tripura-based Nationalist Citizen Party of India, to support NDA
-Rebel TMC leader Kakoli Ghosh Dastidar said that two-thirds of TMC MPs have given letter to Lok Sabha Speaker for separate seating arrangement.
-
-## NEET re-exam: Admit card for June 21 test is out | Check how to download and other details, guidelines
-The NTA had earlier released new measures and guidelines for the exam.
-
-## ‘Dam is right in front of us, yet we struggle for water’: Pune’s villages battle deepening crisis
+## ‘Bomb our way to solutions’: Obama says Trump’s Iran deal won’t improve on his pact
 
 
-## Why dal makhani became the centre of a food debate online: ‘Tweaked it far too much’
+## India go down fighting to Netherlands in FIH Pro League
 
 
-## Trump criticizes Israel, says Lebanon strike shouldn’t derail peace deal with Iran
+## Deepti’s 5/10 cuts Pakistan’s chase as India begin T20 World Cup with a win
 
 
-## Woman adamant on staying with Dalit husband, father ‘stabs’ her to death inside Banda police station
+## Shabana Azmi recalls dad’s career advice: ‘You can become a mochi but…’; expert weighs in
 
 
-## Eye on swift complaint redressal, Delhi Police to hold Jan Sunwai weekly at all stations
+## Dhiraj Bommadevara recalls mom’s sacrifice after twin Archery World Cup titles
 
 
-## Tata Trusts to hike philanthropic spending to Rs 2,000 crore this year, says CEO
+## ‘Only in Dubai’: Indian expat pays Rs 39,000 for scratching car, gets unexpected refund 2 years later
 
 
-## BRICS Indore Declaration adopted keeping ‘farmer at centre’: Agri Minister Shivraj Singh Chouhan
+## Netherlands vs Japan Live, FIFA World Cup 2026: NED lock horns with JPN in Group f clash
 
 
-## Teacher training for new curriculum in Maharashtra postponed due to census duty
+## Deepti takes 5 wickets as India thrash Pakistan, open T20 WC campaign with win
 
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thousands protest as Trump, other world leaders set to meet for G7 summit
+Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.
+
+## Al Jazeera reports from Israeli attack site in southern Beirut
+Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.
+
 ## Knicks fans set bus alight during celebrations
 Footage shows a World Cup shuttle bus set into flames amid chaotic celebrations following Knicks NBA win.
 
@@ -275,12 +281,6 @@ British armed forces intercepted an oil tanker believed to be part of Russia’s
 
 ## Trump makes endorsement in key Georgia Republican US Senate run-off
 Trump picks Mike Collins over Derek Dooley in race to determine who will face Democrat Jon Ossoff in November midterms.
-
-## Trump condemns Israel’s attack on Beirut, says Iran deal still close
-Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed.
-
-## EU set to hold membership talks with Ukraine
-EU set to hold membership talks with Ukraine
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
