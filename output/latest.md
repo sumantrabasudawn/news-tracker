@@ -1,7 +1,13 @@
 # AION Intelligence
 
+## UK intercepts Russian shadow fleet oil tanker in English Channel
+Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
+
 ## Swiss voters reject proposal to cap population at 10mn
 Early projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
+
+## Trump tells Israel and Hizbollah to ‘stand down’ as he pushes for Iran deal
+US president has said he expects Washington and Tehran to seal a deal to reopen the Strait of Hormuz on Sunday
 
 ## Far-right activist Tommy Robinson detained under terrorism legislation
 Detention at Heathrow airport follows a week of violent racial tensions in the UK
@@ -18,14 +24,8 @@ Security and cost concerns elevate business push for overhaul of power systems
 ## Kevin Warsh enters the arena
 The new Federal Reserve Chair will be judged on his integrity and ability
 
-## UK intercepts Russian shadow fleet oil tanker in English Channel
-Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
-
-## How the screwworm broke through US defences and returned to Texas cattle
-A successful programme that contained the parasite for decades began to fail in 2023 as cases exploded in Panama
-
-## Keir Starmer poised to weaken electric vehicle targets
-Prime minister to reduce all-electric cap from 80% to 50% by end of the decade amid fears of job losses
+## Starmer poised to weaken electric vehicle targets
+Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
 
 ## Wall Street digests record fundraising haul as AI race intensifies
 SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
@@ -42,29 +42,35 @@ CEO of California-based group wants to enlist allies in helping with production 
 ## Tabletop game titans offer two ways to play the nerd economy
 While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
-## SEBI board may bring back open market buybacks on June 19
-The proposed revival and tightening of the stock exchange route for open-market buybacks, which was phased out in 2023 due to tax-related concerns, is expected to be among the most significant items on the agenda
+## Rebel faction of 20 Trinamool Congress MPs decide to merge with Tripura-based Nationalist Citizens Party, meet Lok Sabha Speaker Om Birla
+The rebel Trinamool Congress MPs met Lok Sabha Speaker Om Birla and conveyed their decision to him. The group requested separate seating arrangements in Parliament.
 
-## Small IT centres to morph into AI governance hubs
-Analysts view this as a possible repositioning of the satellite offices to take up AI governance especially for mission critical tasks that cannot be left in the hands of AI agents
+## Editorial. Hanging in balance
+Capital flows may just edge up to offset higher CAD
 
-## As healthcare costs continue to rise, long-term health cover policies gain traction
-There are several reasons behind this phenomenon. First, high inflation in healthcare expenses and hospital stays are pushing customers towards securing their health insurance policy for a prolonged period
+## How a pandemic experiment turned into Kashmir’s homegrown chocolate enterprise
+This Kashmiri man’s chocolate products now reach consumers in India and abroad, offering people a taste of Kashmir’s manufactured premium chocolates
 
-## FSSAI cracks down on misleading brand names and claims
-The food regulator has issued notices to the players stating that they are in violation of provisions of the Food Safety and Standards Act 2006
+## Blooming paradox: India’s flower industry hits record highs even as the Northeast withers
+Tamil Nadu leads in flower production
 
-## Tracing the malware path
-The book explores the history of hacking and suggests how to counter it
+## Wheels turn for over $10-billion US tariff repatriation to India
+Cross-border digital payment gateways have also stepped in, offering to route the refunds without opening foreign accounts at a fraction of standard commercial banking costs, a source tracking the matter told businessline
 
-## Peeling back Beijing’s grey-zone playbook
-The book explores China’s politics of provocation and coercive strategy. There are lessons here for India
+## Domestic tractor sales cross one lakh units for third straight month in May; exports top 10,000 units
+Domestic volumes rose 20% in May as improved rural sentiment and lower GST continued to support demand
 
-## Hydration to lead next phase of RTD growth, says Tata Consumer Products
-Tata Consumer Products’ RTD business has witnessed a fourfold increase in revenue over the last five to six years, aided by category expansion, new product launches, and distribution growth
+## Cockroach Janata Party holds protests in Hyderabad, Bengaluru
+Hyderabad protest attended by education reformer and activist Sonam Wangchuk, political analyst professor K Nageshwar, among others
 
-## Cockroach Janata Party to hold protest in Jaipur tomorrow
+## Cockroach Janata Party to hold protest in Jaipur on June 15
 Party founder Abhijeet Deepke, national spokesperson Ashutosh Ranka, education reformer and environmentalist Sonam Wangchuk and several other leaders and social activists are expected to participate in the programme
+
+## India restricts deployment of seafarers to conflict zones, Shipping authority issues fresh advisory
+Following a fatal US military strike off the Oman coast that killed three Indian seafarers, India's Directorate General of Shipping has advised recruitment agencies to halt seafarer deployments to conflict zones. Vessels in the Gulf region are urged to maintain heightened security vigilance amid esc
+
+## Fertiliser push: Two new urea plants to start production soon; govt says import dependence set to ease
+India is set to boost domestic urea production by 25.4 lakh tonnes with two new plants commencing operations soon. This move aims to reduce import reliance and shield farmers from global price volatility. The government has also absorbed rising international prices, keeping retail fertilizer costs u
 
 ## Gold sliver rate outlook: Fed, Bank of Japan decisions in focus; US-Iran deal and crude oil to guide bullion prices
 Gold prices are expected to trade within a narrow range as investors await central bank policy decisions and developments in US-Iran negotiations. Domestic gold futures saw a significant decline of over 3% during the week, influenced by easing energy market concerns and geopolitical uncertainties.
@@ -84,58 +90,52 @@ Prime Minister Modi and French President Macron inaugurated Bharat Innovates 202
 ## Dalal Street outlook: Inflation, Fed verdict and crude oil in focus; US-Iran deal hopes to steer market sentiment
 Indian stock markets are poised for a volatile week, with US inflation data, the Federal Reserve's interest rate decision, and crude oil price movements as key influencers. Investors are keenly watching the US-Iran deal's progress, which could impact global oil prices and market sentiment. Foreign i
 
-## Market rally adds Rs 1.9 lakh crore to top 10 firms' value; ICICI Bank emerges biggest gainer
-Indian equities surged last week, with the top 10 most-valued companies collectively gaining Rs 1.90 lakh crore. ICICI Bank led the rally, adding over Rs 56,000 crore to its market cap. This upturn, driven by global sentiment and RBI measures, saw most major firms post gains, with Reliance Industrie
+## BJP slams Kerala CM over criticism of VCs who shared stage with Mohan Bhagwat: ‘He must not talk about secularism’
+In a social media post, BJP's Rajeev Chandrasekhar said the chief minister had no moral authority to lecture others on secularism or constitutional values.
 
-## China beats Elon Musk's 'Jesus-level technology' to launch world's first commercial brain chip
+## Strong winds likely over Delhi-NCR over the next two hours, says regional met centre
+This came hours after the regional met center had forecast light rainfall for some parts of the Capital and its surrounding areas.
 
+## Modi, Macron launch Bharat Innovates; boost tech cooperation
+The three-day event is an effort to match Indian tech startups, innovators and researchers with global innovation funds and entrepreneurs
+
+## Manipur deputy CM Losii Dikho links SoO groups to killing of 6 Nagas
+The six Nagas were allegedly abducted by a group of women belonging to Kuki community at Leilon Vaiphei, a Kuki village in Kangpokpi district on May 13
+
+## Pilots' body writes to AAIB, flags timeline, RAT deployment in AI 171 preliminary crash report
+The pilots' body flagged the link between the fuel control switches and RAT deployment, suggesting the latter could have resulted from an electrical fault.
 
 ## 'Say no to British Janata Party': Posters, Prakash Raj take spotlight at CJP's Bengaluru protest
 Actor Prakash Raj addressed the rain-soaked crowd at Bengaluru's Freedom Park that had gathered to demand Dharmendra Pradhan's resignation.
 
-## Rebel TMC MPs to join Tripura-based Nationalist Citizen Party of India
+## Rebel TMC MPs to join Tripura-based Nationalist Citizen Party of India, to support NDA
 Rebel TMC leader Kakoli Ghosh Dastidar said that two-thirds of TMC MPs have given letter to Lok Sabha Speaker for separate seating arrangement.
 
 ## NEET re-exam: Admit card for June 21 test is out | Check how to download and other details, guidelines
 The NTA had earlier released new measures and guidelines for the exam.
 
-## TMC is a single party: Abhishek Banerjee writes to LS speaker against recognition to rebel group in parliament
-A letter from Abhishek Banerjee was handed to the Lok Sabha Speaker by MPs Kirti Azad and Sagarika Ghose on Sunday.
-
-## Four run over by train in MP's Morena after jumping onto tracks amid fire rumour
-The four reportedly got off the Khajuraho-Udaipur Intercity Express after rumours of a fire in the locomotive.
-
-## 93% students complete fitness tests under Active CISCE; board plans health indices
-Launched on July 15 last year, the programme covered more than 3.12 million students from over 3,274 CISCE-affiliated schools
-
-## Rahul Gandhi vs Pinarayi Vijayan: Is the INDIA bloc cracking after LoP's ‘hug’ remark?
-The recent incidents have indicated fractures in the opposition alliance as the DMK and AAP skipped the key INDIA bloc meeting on June 8.
-
-## Fake Army car used to smuggle 15.35 kg opium in Manipur; one arrested: Police
-Upon searching, police found, “17 packets of opium weighing around 15.35 kg”, concealed in a compartment under the rear right door of the vehicle
-
-## China This Week | China holds its ‘highest exam’, and its indirect presence at the FIFA World Cup
+## ‘Dam is right in front of us, yet we struggle for water’: Pune’s villages battle deepening crisis
 
 
-## This 14-yr-old is mapping a more accessible India — One wheelchair ramp at a time
+## Why dal makhani became the centre of a food debate online: ‘Tweaked it far too much’
 
 
-## ‘Work-from-home Google review’ task fraud costs Pune tax consultant Rs 2.72 crore
+## Trump criticizes Israel, says Lebanon strike shouldn’t derail peace deal with Iran
 
 
-## In rural Pune, over 1.9 lakh depend on tanker, dams at slightly lower capacity than last year
+## Woman adamant on staying with Dalit husband, father ‘stabs’ her to death inside Banda police station
 
 
-## ‘Communities should co-exist and respect each’, CM Fadnavis reacts to white stripes on road controversy
+## Eye on swift complaint redressal, Delhi Police to hold Jan Sunwai weekly at all stations
 
 
-## Trump wants Iran’s uranium. But can anyone really get it out?
+## Tata Trusts to hike philanthropic spending to Rs 2,000 crore this year, says CEO
 
 
-## Make way for the ‘queen’: Ahead of pineapple festival in Delhi, Tripura eyes global status for its state fruit
+## BRICS Indore Declaration adopted keeping ‘farmer at centre’: Agri Minister Shivraj Singh Chouhan
 
 
-## Delhi CM joins mega cleanliness drive on Yamuna riverbank, calls for public participation
+## Teacher training for new curriculum in Maharashtra postponed due to census duty
 
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Knicks fans set bus alight during celebrations
+Footage shows a World Cup shuttle bus set into flames amid chaotic celebrations following Knicks NBA win.
+
+## Analyst says what attacks on Lebanon could mean for potential US-Iran deal
+Israeli affairs analyst Dan Perry explains how the US, Israel and Iran may react as they get closer to an agreement.
+
+## Netherlands vs Japan live: World Cup 2026
+Follow our live build-up, with full team news coverage, ahead of our live text commentary stream.
+
+## ‘Unacceptable’: London protesters slam illegal Israeli settlement land sale
+Demonstrators denounce event promoting Israeli settlement land and property sales as a violation of international law.
+
+## UK forces seize suspected Russian oil tanker accused of funding Ukraine war
+British armed forces intercepted an oil tanker believed to be part of Russia’s sanctioned shadow fleet.
+
+## Trump makes endorsement in key Georgia Republican US Senate run-off
+Trump picks Mike Collins over Derek Dooley in race to determine who will face Democrat Jon Ossoff in November midterms.
+
+## Trump condemns Israel’s attack on Beirut, says Iran deal still close
+Donald Trump says there should be 'no more attacks' by Israel or Hezbollah on 'special day' when deal could be signed.
+
 ## EU set to hold membership talks with Ukraine
 EU set to hold membership talks with Ukraine
-
-## ‘We were herded like animals’: Freed from Boko Haram captivity
-More than 360 people abducted by Boko Haram have been rescued in northeastern Nigeria.
-
-## US asks Anthropic to block global access to top AI models: Why it matters
-Foreigners barred from accessing top AI models, underscoring Donald Trump's policy of export controls over high tech.
-
-## Donald Trump’s name removed from Kennedy Center
-Trump’s name has been removed from the Kennedy Center after a court ruling, but adorns many other things and places.
-
-## Sexual Violence in Israeli Prisons: What History Tells Us
-Sexual violence against Palestinians in Israeli custody is often framed as a post-October 7 issue. But historical record
-
-## ‘Making history’: The fight to end female genital mutilation in Colombia
-Colombia has passed the first legislation in Latin America to outlaw female genital mutilation. But barriers remain.
-
-## Anticipation, pushback in Iran as mediators work to finalise deal with US
-Israel attacked Beirut again in an apparent attempt to test and derail an agreement.
-
-## Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch
-Pre-tournament favourites Spain open their Group H campaign with a match against World Cup debutants Cape Verde.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
