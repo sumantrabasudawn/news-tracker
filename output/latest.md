@@ -1,28 +1,7 @@
 # AION Intelligence
 
-## China tees up digital payments system to compete with dollar
-Beijing’s cross-border currency platform will be backed by central banks of Hong Kong, Thailand, UAE and Saudi Arabia
-
-## Far-right activist Tommy Robinson detained under terrorism legislation
-Detention at Heathrow airport follows a week of violent racial tensions in the UK
-
-## Trump says US and Iran will sign deal on Sunday to reopen Strait
-Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close
-
-## US kills leader of Venezuelan Tren de Aragua gang in air strike
-Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez
-
-## Investment firms join Donald Trump’s $100bn race for Venezuelan oil
-Lionheart Capital and Keo Energy create Nasdaq-listed company to pursue assets in Latin American nation.
-
-## Europe’s fighter jet fiasco
-The collapse of Paris and Berlin’s joint venture raises the question of whether either country can do defence alone
-
-## How Wall Street pulled off the biggest IPO in history for SpaceX
-Bankers convinced investors to believe in a sci-fi strategy, overlook steep losses and hand full control to Elon Musk
-
-## Chart of the Week: US headline inflation matters to consumers
-The headline annual inflation rate hit 4.2%, the highest since April 2023
+## Wes Streeting: This is what progressive capitalism should look like
+Labour must be as focused on wealth creation as we are on wealth distribution
 
 ## Wall Street digests record fundraising haul as AI race intensifies
 SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
@@ -30,17 +9,23 @@ SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to 
 ## Bridgepoint weighs $1bn sale of anti-drone group guarding World Cup sites
 Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit
 
+## Macron and Trump test their bruised bromance at G7 summit
+French president will host world leaders at Évian-les-Bains from Monday
+
 ## Germany seeks Deutsche Börse exemption from EU supervision
 Stock exchange would have option to remain under domestic authority as part of new EU markets regime
+
+## On the streets of Makerfield: what the voters say
+Greater Manchester mayor Andy Burnham is trying to balance local and national issues in the run-up to Thursday’s by-election
 
 ## Defence tech start-up Anduril calls for reset of US arms export controls
 CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons
 
-## Tabletop game titans offer two ways to play the nerd economy
-While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
-
 ## Funding Circle claims two-thirds of payouts under SME loan scheme
 Lender used successor to Covid-era small business loan scheme to hand out loans to higher-risk borrowers
+
+## Tabletop game titans offer two ways to play the nerd economy
+While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
 ## DR Congo pushes Belgium to release millions of colonial-era documents
 Congolese minister met Belgian officials to discuss records mapping former colony’s mineral wealth
@@ -48,29 +33,32 @@ Congolese minister met Belgian officials to discuss records mapping former colon
 ## Fusion industry suppliers bet on race for reactors creating a $73bn market
 Groups eye windfall as technology’s potential to deliver abundant power attracts investors
 
-## Long-awaited NSE IPO set to advance as draft papers likely next week
-Comes after NSE's board approved the proposed IPO on February 6, following receipt of SEBI’s no-objection certificate
+## Vaishnaw expects more companies to start production of memory chips in India
+Ashwini Vaishnaw says rising demand for AI infrastructure is opening fresh opportunities for semiconductor investments
 
-## Trump says US-Iran deal to be signed today
-Trump’s comments on Saturday followed Pakistan’s indication that the US and Iran were nearing agreement, with an electronic signing ceremony set for today
+## Lahori Zeera maker eyes international presence, deepens India presence
+The company ended FY26 with net revenues of about ₹775 crore
 
-## Delhi records below-normal minimum temperature; AQI moderate
-Relative humidity was recorded at 61% at 8.30 am
+## Indian sailor dies from medical complications aboard tanker in Oman
+“Necessary arrangements are being ⁠made for the early repatriation of the mortal remains to India,” the embassy said in a post on ‌social media.
 
-## "Iran will open Strait of Hormuz sans tolls, there will be demining exercise," say US officials
-"Iran is going to open up the Strait of Hormuz; that is a requirement. It could be open with no tolls”
+## Dana-Eaton $5.1-billion deal set to reshape India’s EV, CV supply chain
+The $5.1-billion merger comes at a critical juncture as manufacturers pursue electrification, localisation and export-led growth simultaneously
 
-## Fuel prices to be reviewed based on crude oil supply, says Union Minister Suresh Gopi
-Replying to reporters' questions on a possible revision in fuel prices, Gopi said the situation would be assessed based on crude oil supplies
+## Domestic tractor sales cross one lakh units for third straight month in May; exports top 10,000 units
+Domestic volumes rose 20% in May as improved rural sentiment and lower GST continued to support demand
 
-## Tamil Nadu weather: Cyclonic system to bring rains to northern TN
-Moderate rain accompanied by thunderstorm and lightning is likely to occur over Chengalpattu, Kancheepuram, Chennai, Tiruvannamalai, Perambalur, Ariyalur, Pudukkottai, Cuddalore, Villupuram and Kallakurichi districts and Puducherry.
+## India known as nation with world's largest healthcare programme: PM Modi
+Modi expressed pride that India is recognised for having the world’s largest healthcare program, Ayushman Bharat, which offers top-quality care to the most vulnerable
 
-## India’s EV expansion kick-off June 15 with 16 rollouts vs 7 ICE models
-India’s automotive industry will shift significantly with 16 electric vehicles (EVs) launching on June 15, surpassing seven internal combustion engine (ICE) models. Major automakers, including Mercedes-Benz and Tata Motors, plan to release 23 new electric and hybrid vehicles in the next nine months,
+## Unauthorised absence by RBI official grave misconduct: HC; upholds his removal
+The petitioner was employed with the RBI from 2013 and was designated as a senior assistant since January 2018
 
-## Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says​
-Trump administration ordered Anthropic to block any foreign nationals, whether inside or outside ‌the U.S., from using both its latest models, Fable 5 and Mythos 5
+## Electronics, pharma and engineering goods lead India's FTA dividend as export engine shifts gears
+The brokerage views Engineering & Machinery and Pharmaceuticals as key beneficiaries, while Textiles, Gems & Jewellery, and Specialty Chemicals face structural challenges despite FTAs
+
+## China beats Elon Musk's 'Jesus-level technology' to launch world's first commercial brain chip
+
 
 ## India steps up Russian oil buying; crude imports from Moscow rise in May: Report
 
@@ -93,56 +81,62 @@ South Korea's AI-driven semiconductor boom is not yet translating into broad eco
 ## Explained: Layman’s guide to India’s 3Fs stress - why fuel, fertilisers and forex are so important right now
 Finance Minister Nirmala Sitharaman recently urged the country to focus on fuel, fertiliser and foreign exchange and underlined that PM Narendra Modi’s appeal to conserve foreign exchange was "very important" amid the Middle East conflict.
 
-## US-China friction returns: Beijing protests Pentagon's military-company label for BYD, Alibaba and Baidu
-China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list of firms allegedly linked to the Chinese military. Beijing argues this move undermines agreements made during President Trump and Xi Jinping's recent summit, harming bilateral economic and trade relations.
+## ‘Under their control’: Rahul Gandhi targets PM Modi over US' ‘won’t tolerate' remark after 3 Indian sailors killed
+The US state department said in a readout of the conversation that commercial vessels must follow instructions issued by American forces.
 
-## Rebel TMC MP Kakoli Ghosh's son sends legal notice to Mamata, others over Barasat ticket claims
-The notice issued an ultimatum for those it was addressed to, asking them to retract “all false, defamatory, and misleading statements” regarding Baidyanath.
+## Live-in couple's argument turns deadly in Bengaluru, boyfriend slits Sikkim woman's throat
+During the argument, Lepcha allegedly attacked Subba with a kitchen knife and slit her throat, police said.
 
-## ‘His mask and wig both come off’: Mahua Moitra jabs TMC MP over BJP minister meeting amid party crisis
-Mahua Moitra alleged that Bandyopadhyay had told party leaders he had gone to a hospital in Kolkata due to a stomach problem.
+## CAG flags shortcomings at Social Audit Unit of Assam; suggests corrective measures
+CAG flags shortcomings at Social Audit Unit of Assam; suggests corrective measures
 
-## PM Modi to visit President Droupadi Murmu's in-laws' village in Odisha on June 20
-President Murmu was married to Shyam Charan Murmu of Pahadpur. Her husband and two sons passed away before she assumed office in 2022.
+## President Murmu, Odisha governor, CM greet people on Raja festival
+President Murmu, Odisha governor, CM greet people on Raja festival
 
-## Summer holidays, pleasant weather bring rush to Himachal's Shimla; visitors hail traffic management
-Families travelling during summer vacations are flocking to hill stations across Himachal Pradesh to escape the intense heat in Delhi and other cities.
+## Sabarimala women entry issue resurfaces over reported claims by ex-TDB chief
+Sabarimala women entry issue resurfaces over reported claims by ex-TDB chief
 
-## Indian-origin man, 26, killed in knife attack in London's Southall
-After the brutal killing, the police urged anyone who witnessed what happened at the scene and has not spoken to the police yet to come forward and do so.
+## ‘We’re not like Hitler': RSS chief Mohan Bhagwat says doors of dialogue with Pakistan should be kept open
+The RSS chief clarified that the organisation does not have an independent policy when it comes to foreign affairs and stands with the Centre's stance.
 
-## Pariyathukavu land dispute settled: Dalit families to get 5 cents each, houses
-Pariyathukavu land dispute settled: Dalit families to get 5 cents each, houses
+## War-footing action needed to resolve power cuts in TN: Senthilbalaji
+War-footing action needed to resolve power cuts in TN: Senthilbalaji
 
-## Two suspended for power outage at Ashwini Vaishnaw's press conference in Jaipur
-The action followed an inquiry into the June 11 incident, when a power failure at the state BJP headquarters interrupted Vaishnaw's media interaction.
+## Ayodhya Ram Temple in focus over alleged disappearance of donation funds: The row explained
+The BJP-led Uttar Pradesh government on Saturday announced a three-member SIT to investigate the matter following a request from the temple trust.
 
-## Meeting with Trump, Bharat Innovates: What's on table for PM Modi's France visit
-Among the most key engagements of Modi during his France visit would be his meeting with United States President Donald Trump on sidelines of the G7 summit.
-
-## US state attorneys general are investigating OpenAI
+## Foot overbridge, staircase, pathway: How NCRTC is connecting Delhi’s biggest transport hub at Sarai Kale Khana
 
 
-## IIM-Calcutta allows MBA students to pursue start-ups without losing placement chance
+## UPSC notifies 443 posts under direct recruitment scheme, check list of vacancies
 
 
-## Google says Chinese cybercrime group used its AI in scams
+## Kerala man loses way in Bengal, language barrier cost him his life
 
 
-## How brands like Nicobar and Raw Mango are changing the way India dresses
+## Inside XERF: The viral skin tightening treatment Priyanka Chopra swears by
 
 
-## Life in an IIT | What really changes after getting into an IIT
+## UPSC Ethics Simplified | How can India’s civil services and governance rebuild Gen Z’s trust?
 
 
-## NEET exam date clash may push back Tamil Nadu engineering counselling schedule
+## Bengal eyes Guinness World Record: PM Modi to lead 30,000 people at Kolkata’s International Yoga Day event
 
 
-## Trump assures Netanyahu any Iran deal will tackle nuclear threat, Hezbollah: Report
+## Omer Bartov’s ‘Israel: What Went Wrong?’ forces the world to rethink Gaza and Zionism
 
 
-## Parul Chaudhary breaks the 5000m national record; dips below 15:10
+## Cockroach Janta Party denied permission for Jaipur protest, they ask: ‘What scared Rajasthan Police?’
 
+
+## Hong Kong commercial landlords may bet on investment to curb tenant loss from AI: analysts
+Hong Kong’s older office assets and their struggling landlords could face more challenges as the wider adoption of artificial intelligence (AI) by firms in the city leads companies to relocate to newer buildings that better support their requirements, according to real estate consultancy Knight Fran
+
+## From stadium seats to hotel suites, World Cup fever sweeps Chinese travellers
+Sarah Li, from eastern Jiangsu province, said her son – a devoted Cristiano Ronaldo fan – had just completed China’s gaokao, the national university entrance examination. To celebrate the milestone, the family will travel to Houston later this month to watch Portugal take on Uzbekistan in a World Cu
+
+## European wealth turns to Hong Kong as 30 family offices eye operations in the city
+Around 30 European family offices have expressed interest in establishing operations in Hong Kong, drawn by the city’s tax incentives and growing optimism about the prospects for China’s technology sector and Hong Kong’s property market, according to InvestHK and industry participants. Jason Fong, I
 
 ## China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says
 The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundre
@@ -158,15 +152,6 @@ Washington has ordered Anthropic – a leading entity in America’s AI sector �
 
 ## Why gold may rebound 13% this year – and what could hold it back
 Gold prices may rise at least 13 per cent by year-end in a reversal of recent sell-offs, as diversification demand from central banks remains intact and hopes for a diplomatic solution to Middle East tensions dial back inflation expectations, according to some money managers. The precious metal coul
-
-## The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO
-This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming l
-
-## China’s chip design software firms back Huawei’s new scaling law. But can they catch US rivals?
-China’s chip design software industry is rallying behind Huawei Technologies’ ambitious new architecture aimed at producing chips that can rival leading global products, but analysts warn a steep uphill climb remains before local players can break the market stranglehold of US rivals. Empyrean Techn
-
-## Hong Kong gazettes tax break for fund managers’ bonuses to bolster role as wealth hub
-The Hong Kong government gazetted a bill on Friday that, if passed, would waive salary tax on fund managers’ performance-linked bonuses, so long as they meet certain requirements, in a move to introduce further tax reform to strengthen the city as a wealth management centre. The bill, which will be 
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -264,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs
-The New York Knicks ended their championship drought on Saturday, winning the best-of-seven NBA Finals series 4-1.
+## The World Cup cicada: India’s rare insect on a four-year clock
+A rare cicada emerges from the forests of Meghalaya, every four years, in time with the World Cup.
 
-## ‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup
-Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.
+## Signing of US-Iran deal not on Trump’s public schedule
+Signing of US-Iran deal not on Trump’s public schedule.
 
-## Scotland beat Haiti 1-0 to mark a winning return to the World Cup
-John McGinn's deflected goal gives the Scots a World Cup win for the first time since 1990.
+## UK forces seize suspected Russian shadow fleet tanker in English Channel
+The UK Ministry of Defence says it captures the vessel Smyrtos in an operation that lasts six hours.
 
-## Two killed in Israeli strike on Gaza
-An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.
+## Switzerland votes on right-wing bid to cap country’s population
+A 'yes' vote would force the government to restrict asylum, residency permits, and scrap EU deal on free movement.
 
-## After battling armed attacks, Mauritania attempts to revive tourism
-Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.
+## Iran war day 107: Washington, Tehran close to signing first stage of deal
+Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.
 
-## Why is the price of gold trending down?
-Gold has been under pressure since the US and Israel launched a war against Iran in late February.
+## 2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass
+Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.
 
-## Vinicius drags low-key Brazil level against dominant Morocco at World Cup
-Vinicius Jr individual effort lift Brazil's struggle in team's 2026 tournament opener against Africa champions Morocco.
+## Smiles all around as Morocco, Brazil share spoils and Knicks make history
+World Cup opener ends in a draw for Morocco and Brazil as local fans celebrate New York Knicks' basketball triumph.
 
-## America250 versus Freedom 250: What to know about the US semiquincentennial
-The celebrations to mark the US's 250th anniversary have been overshadowed by questions about Trump's influence.
+## Costs, careers and choice: Why Indians are having fewer children
+India’s Total Fertility Rate (TFR) has dropped to 1.9 children per woman - lower than the benchmark level of 2.1.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
