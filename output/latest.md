@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Macron to pull out the stops to keep Trump at G7 gathering
+First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
+
+## Underfunded and under fire: the crises facing Northern Ireland’s police
+Service already under scrutiny for failing to attract enough Catholics and a culture of institutional misogyny before this week’s riots
+
 ## Swiss voters reject proposal to cap population at 10mn
 Projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
 
@@ -18,17 +24,11 @@ US president has said he expects Washington and Tehran to seal a deal to reopen 
 ## Far-right activist Tommy Robinson detained under terrorism legislation
 Detention at Heathrow airport follows a week of violent racial tensions in the UK
 
-## What should investors expect from Kevin Warsh’s first Fed meeting?
-Market Questions is the FT’s guide to the week ahead
-
-## Electrification jumps up corporate agenda after energy crisis, survey finds
-Security and cost concerns elevate business push for overhaul of power systems
-
 ## Starmer poised to backtrack on electric vehicle targets
 Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
 
-## Macron to pull out the stops to keep Trump at G7 gathering
-First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
+## Electrification jumps up corporate agenda after energy crisis, survey finds
+Security and cost concerns elevate business push for overhaul of power systems
 
 ## Wall Street digests record fundraising haul as AI race intensifies
 SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
@@ -66,6 +66,9 @@ Hyderabad protest attended by education reformer and activist Sonam Wangchuk, po
 ## Cockroach Janata Party to hold protest in Jaipur on June 15
 Party founder Abhijeet Deepke, national spokesperson Ashutosh Ranka, education reformer and environmentalist Sonam Wangchuk and several other leaders and social activists are expected to participate in the programme
 
+## India seeks French investment in manufacturing; Piyush Goyal pitches scale and talent
+Commerce and Industry Minister Piyush Goyal urged French companies to invest in India's manufacturing sector, highlighting the nation as a reliable partner offering scale, talent, and innovation. Speaking at the 'Bharat Innovates' event, Goyal emphasized India's potential as both a large domestic ma
+
 ## India restricts deployment of seafarers to conflict zones, Shipping authority issues fresh advisory
 Following a fatal US military strike off the Oman coast that killed three Indian seafarers, India's Directorate General of Shipping has advised recruitment agencies to halt seafarer deployments to conflict zones. Vessels in the Gulf region are urged to maintain heightened security vigilance amid esc
 
@@ -87,8 +90,8 @@ Amazon is significantly increasing its investment in India, committing $35 billi
 ## PM Modi, Macron inaugurate 'Bharat Innovates'; pitch deeper India-France partnership
 Prime Minister Modi and French President Macron inaugurated Bharat Innovates 2026 in Nice, fostering India-France tech and innovation cooperation. The event connects Indian startups and institutions with global investors. Leaders emphasized shared vision and India's growing role as a global innovati
 
-## Dalal Street outlook: Inflation, Fed verdict and crude oil in focus; US-Iran deal hopes to steer market sentiment
-Indian stock markets are poised for a volatile week, with US inflation data, the Federal Reserve's interest rate decision, and crude oil price movements as key influencers. Investors are keenly watching the US-Iran deal's progress, which could impact global oil prices and market sentiment. Foreign i
+## Mosque built on police station land sparks dispute in Meerut; Imam served 7 day notice
+Police said a seven-day notice has been served to the mosque's imam seeking ownership documents and removal of the purported encroachment.
 
 ## India, France to double trade in five years, eye greater cooperation in nuclear energy
 The two leaders held a bilateral meeting at Villa Kerylos in the port city of Nice after jointly inaugurating Bharat Innovates 2026, an event aimed at matching Indian deep tech startups with global investors
@@ -111,8 +114,14 @@ The three-day event is an effort to match Indian tech startups, innovators and r
 ## Manipur deputy CM Losii Dikho links SoO groups to killing of 6 Nagas
 The six Nagas were allegedly abducted by a group of women belonging to Kuki community at Leilon Vaiphei, a Kuki village in Kangpokpi district on May 13
 
-## Pilots' body writes to AAIB, flags timeline, RAT deployment in AI 171 preliminary crash report
-The pilots' body flagged the link between the fuel control switches and RAT deployment, suggesting the latter could have resulted from an electrical fault.
+## Nick Jonas’ morning routine makes him ‘feel fresh as a daisy’
+
+
+## Missouri plane crash: All 12 on board killed after aircraft crashes in US’ Butler
+
+
+## Why your hunger vanishes in the heat: Solving the ‘summer appetite’ mystery
+
 
 ## ‘Bomb our way to solutions’: Obama says Trump’s Iran deal won’t improve on his pact
 
@@ -127,15 +136,6 @@ The pilots' body flagged the link between the fuel control switches and RAT depl
 
 
 ## Dhiraj Bommadevara recalls mom’s sacrifice after twin Archery World Cup titles
-
-
-## ‘Only in Dubai’: Indian expat pays Rs 39,000 for scratching car, gets unexpected refund 2 years later
-
-
-## Netherlands vs Japan Live, FIFA World Cup 2026: NED lock horns with JPN in Group f clash
-
-
-## Deepti takes 5 wickets as India thrash Pakistan, open T20 WC campaign with win
 
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thousands protest as Trump, other world leaders set to meet for G7 summit
-Activists rally in Geneva to denounce policies of G7 countries ahead of group's annual meeting this week in France.
+## Lewis Hamilton wins first F1 race with Ferrari in Barcelona
+Seven-time world champion's maiden victory for the Italian manufacturer is also his first F1 win in nearly two years.
 
-## Al Jazeera reports from Israeli attack site in southern Beirut
-Al Jazeera reports from the site of an Israeli attack on a residential building in southern Beirut.
+## The president, the billionaires and the news
+A media industry weakened by marauding billionaires is dealing with a US president eager to bend it further.
 
-## Knicks fans set bus alight during celebrations
-Footage shows a World Cup shuttle bus set into flames amid chaotic celebrations following Knicks NBA win.
+## Twelve killed in plane crash in US state of Missouri
+Plane crashes near Butler Memorial Airport near Kansas City, with authorities reporting skydivers on board.
 
-## Analyst says what attacks on Lebanon could mean for potential US-Iran deal
-Israeli affairs analyst Dan Perry explains how the US, Israel and Iran may react as they get closer to an agreement.
+## Germany hit Curacao for seven to open their World Cup
+Four-time winners Germany thrash World Cup debutants Curacao 7-1 in their first group game on Sunday.
 
-## Netherlands vs Japan live: World Cup 2026
-Follow our live build-up, with full team news coverage, ahead of our live text commentary stream.
+## Israel welcomes Somaliland president in ‘historic’ visit
+Israel hosted Somaliland's President on a landmark visit to Jerusalem after recognising it as an independent state.
 
-## ‘Unacceptable’: London protesters slam illegal Israeli settlement land sale
-Demonstrators denounce event promoting Israeli settlement land and property sales as a violation of international law.
+## Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km
+AJ probe: Israel expands military control by 1,000sq km on three fronts, using land grabs to mask strategic failures.
 
-## UK forces seize suspected Russian oil tanker accused of funding Ukraine war
-British armed forces intercepted an oil tanker believed to be part of Russia’s sanctioned shadow fleet.
+## ‘Losing three years set us back 20’: Palestinian football’s future in peril
+The suspended Palestinian league is squeezing a generation of footballers, with little certainty about the future.
 
-## Trump makes endorsement in key Georgia Republican US Senate run-off
-Trump picks Mike Collins over Derek Dooley in race to determine who will face Democrat Jon Ossoff in November midterms.
+## Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk
+Trump has commented on Truth Social, condemning Israeli attacks on Beirut as the cease fire is to be extended.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
