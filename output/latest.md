@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Swiss voters reject proposal to cap population at 10mn
+Early projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
+
 ## Far-right activist Tommy Robinson detained under terrorism legislation
 Detention at Heathrow airport follows a week of violent racial tensions in the UK
 
@@ -21,9 +24,6 @@ Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp
 ## How the screwworm broke through US defences and returned to Texas cattle
 A successful programme that contained the parasite for decades began to fail in 2023 as cases exploded in Panama
 
-## Trump says US and Iran will sign deal on Sunday to reopen Strait
-Israel launched strike on Beirut as US president expects to firm agreement to extend ceasefire
-
 ## Keir Starmer poised to weaken electric vehicle targets
 Prime minister to reduce all-electric cap from 80% to 50% by end of the decade amid fears of job losses
 
@@ -42,29 +42,35 @@ CEO of California-based group wants to enlist allies in helping with production 
 ## Tabletop game titans offer two ways to play the nerd economy
 While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
+## SEBI board may bring back open market buybacks on June 19
+The proposed revival and tightening of the stock exchange route for open-market buybacks, which was phased out in 2023 due to tax-related concerns, is expected to be among the most significant items on the agenda
+
+## Small IT centres to morph into AI governance hubs
+Analysts view this as a possible repositioning of the satellite offices to take up AI governance especially for mission critical tasks that cannot be left in the hands of AI agents
+
+## As healthcare costs continue to rise, long-term health cover policies gain traction
+There are several reasons behind this phenomenon. First, high inflation in healthcare expenses and hospital stays are pushing customers towards securing their health insurance policy for a prolonged period
+
+## FSSAI cracks down on misleading brand names and claims
+The food regulator has issued notices to the players stating that they are in violation of provisions of the Food Safety and Standards Act 2006
+
+## Tracing the malware path
+The book explores the history of hacking and suggests how to counter it
+
+## Peeling back Beijing’s grey-zone playbook
+The book explores China’s politics of provocation and coercive strategy. There are lessons here for India
+
+## Hydration to lead next phase of RTD growth, says Tata Consumer Products
+Tata Consumer Products’ RTD business has witnessed a fourfold increase in revenue over the last five to six years, aided by category expansion, new product launches, and distribution growth
+
 ## Cockroach Janata Party to hold protest in Jaipur tomorrow
 Party founder Abhijeet Deepke, national spokesperson Ashutosh Ranka, education reformer and environmentalist Sonam Wangchuk and several other leaders and social activists are expected to participate in the programme
 
-## Monsoon momentum shifts east; rains may revive over west coast during June 22-23
-Incoming spell may unfold with heavy rain over Coastal Karnataka and Goa and northward across Konkan, Mumbai and south Gujarat up to Surat
+## Gold sliver rate outlook: Fed, Bank of Japan decisions in focus; US-Iran deal and crude oil to guide bullion prices
+Gold prices are expected to trade within a narrow range as investors await central bank policy decisions and developments in US-Iran negotiations. Domestic gold futures saw a significant decline of over 3% during the week, influenced by easing energy market concerns and geopolitical uncertainties.
 
-## CEA Anantha Nageswaran calls AI stock valuations a ‘bubble’, says fears over job losses may be overstated
-There is far too much fear and far little information about the AI threat currently, Nageswaran says
-
-## Rupee level not a threshold, exchange rate a shock absorber: CEA Nageswaran
-Attempting to rigidly defend a particular level could be counterproductive for the wider economy, says Nageswaran
-
-## Blooming paradox: India’s flower industry hits record highs even as the Northeast withers
-Tamil Nadu leads in flower production
-
-## Jio Platforms ranks as the only Indian company in global patent law treaty
-This places Jio among an elite group of global technology leaders like Huawei, Qualcomm, Google, Apple, etc and establishes India-origin innovation in the global technology creation landscape
-
-## Gadkari clears E100 fuel framework, paving way for ethanol-only vehicles in India
-India has cleared the regulatory framework for 100% ethanol (E100) fuel, Union Road Transport and Highways Minister Nitin Gadkari said on Saturday, paving the way for ethanol-powered cars and motorcycles while reducing dependence on crude oil imports and boosting biofuel use
-
-## Iran to give up nuclear weapons, US to lift sanctions: Here’s what’s in the final draft of the peace deal
-US has to ‌release $25 billion of Iran’s frozen assets
+## Rupee moves driven by global and domestic factors, FM Sitharaman says RBI steps in only to curb volatility
+Finance Minister Nirmala Sitharaman stated that the rupee's fluctuations are driven by global and domestic factors, with the RBI intervening only to curb excessive volatility, not to fix a specific rate. She also highlighted India's position as the fastest-growing major economy and addressed the Kar
 
 ## India does not use methodology changes to inflate growth numbers, CEA Nageswaran defends GDP data
 Chief Economic Adviser V Anantha Nageswaran defended India's GDP statistics, stating the country does not artificially inflate growth figures through methodological changes. He emphasized that India follows internationally accepted practices and that revisions, like the recent rebasing, demonstrate 
@@ -84,11 +90,23 @@ Indian equities surged last week, with the top 10 most-valued companies collecti
 ## China beats Elon Musk's 'Jesus-level technology' to launch world's first commercial brain chip
 
 
-## India steps up Russian oil buying; crude imports from Moscow rise in May: Report
+## 'Say no to British Janata Party': Posters, Prakash Raj take spotlight at CJP's Bengaluru protest
+Actor Prakash Raj addressed the rain-soaked crowd at Bengaluru's Freedom Park that had gathered to demand Dharmendra Pradhan's resignation.
 
+## Rebel TMC MPs to join Tripura-based Nationalist Citizen Party of India
+Rebel TMC leader Kakoli Ghosh Dastidar said that two-thirds of TMC MPs have given letter to Lok Sabha Speaker for separate seating arrangement.
 
-## BRICS adopts Indore Declaration; India to lead seed rights, digital agriculture initiatives
-BRICS nations have adopted the "Indore Declaration," pledging enhanced cooperation in agriculture and launching new initiatives like a global forum on farmers' seed rights and a digital agriculture network. These decisions, made under India's presidency, aim to strengthen food security, support smal
+## NEET re-exam: Admit card for June 21 test is out | Check how to download and other details, guidelines
+The NTA had earlier released new measures and guidelines for the exam.
+
+## TMC is a single party: Abhishek Banerjee writes to LS speaker against recognition to rebel group in parliament
+A letter from Abhishek Banerjee was handed to the Lok Sabha Speaker by MPs Kirti Azad and Sagarika Ghose on Sunday.
+
+## Four run over by train in MP's Morena after jumping onto tracks amid fire rumour
+The four reportedly got off the Khajuraho-Udaipur Intercity Express after rumours of a fire in the locomotive.
+
+## 93% students complete fitness tests under Active CISCE; board plans health indices
+Launched on July 15 last year, the programme covered more than 3.12 million students from over 3,274 CISCE-affiliated schools
 
 ## Rahul Gandhi vs Pinarayi Vijayan: Is the INDIA bloc cracking after LoP's ‘hug’ remark?
 The recent incidents have indicated fractures in the opposition alliance as the DMK and AAP skipped the key INDIA bloc meeting on June 8.
@@ -96,46 +114,28 @@ The recent incidents have indicated fractures in the opposition alliance as the 
 ## Fake Army car used to smuggle 15.35 kg opium in Manipur; one arrested: Police
 Upon searching, police found, “17 packets of opium weighing around 15.35 kg”, concealed in a compartment under the rear right door of the vehicle
 
-## US attack, sinking ship, death due to illness: A tough week for Indian seafarers near Gulf coast
-Indian-flagged merchant vessel, Virat 1, suffered an engine failure on Sunday morning, following which the US Navy rescued 14 Indian sailors on board.
-
-## Murder in a Dehradun village triggers violence between two communities; heavy security deployed
-While the police have pointed to a water row as the trigger, the family of the deceased has claimed a money dispute as the reason.
-
-## Baghpat woman arrested for murdering husband with lover: 'Poisoned, pressed pillow against his face'
-Sachin Dagar was allegedly killed on Friday night by his wife Rachna and her lover Sonu, who hails from the neighbouring village of Ranchhad.
-
-## Two MBBS students drown in Tigra Dam; bodies found after 18 hours: MP Police
-The State Disaster and Emergency Response Force (SDERF) assisted by police carried out an 18-hour rescue operation
-
-## 'Innovation is in India's DNA': PM Modi, French President Macron inaugurate 'Bharat Innovates' in Nice
-PM Modi highlighted the special bond between India and France, saying the two nations have connection, conviction, innovation, inspiration and shared vision.
-
-## 'His life cost just ₹2,473': FSUI claims seafarer's body is being preserved with cold water bottles, shares video
-The FSUI alleged that 35-year-old seafarer aboard MT Celestial died on June 11 after falling ill and his body is onboard without proper arrangements.
-
-## IND vs PAK, Women’s T20 World Cup: Harmanpreet, Fatima skip handshake at toss
+## China This Week | China holds its ‘highest exam’, and its indirect presence at the FIFA World Cup
 
 
-## Did Huma Qureshi just ‘hard-launch’ her boyfriend? Rachit Singh’s reply sparks buzz
+## This 14-yr-old is mapping a more accessible India — One wheelchair ramp at a time
 
 
-## UPSC Key: PM Modi’s France visit, Brain-eating amoeba and Assam-Nagaland pact
+## ‘Work-from-home Google review’ task fraud costs Pune tax consultant Rs 2.72 crore
 
 
-## Video: Israel strikes Beirut’s 5-storey building as US-Iran anticipate peace deal signing
+## In rural Pune, over 1.9 lakh depend on tanker, dams at slightly lower capacity than last year
 
 
-## Chinna Chinna Aasai trailer: 34 years after Roja, Madhoo in search of herself in Varanasi
+## ‘Communities should co-exist and respect each’, CM Fadnavis reacts to white stripes on road controversy
 
 
-## Kunal Kamra’s jibe at Pranit More apology amid Rs 370 biryani row: ‘Stop hiding behind…’
+## Trump wants Iran’s uranium. But can anyone really get it out?
 
 
-## Haryana gets 11 additional IAS posts as Centre revises cadre strength
+## Make way for the ‘queen’: Ahead of pineapple festival in Delhi, Tripura eyes global status for its state fruit
 
 
-## Today News Headlines for School Assembly, June 15, 2026: DRDO flight-tests indigenous missile defence system, brain-eating amoeba cases on the rise
+## Delhi CM joins mega cleanliness drive on Yamuna riverbank, calls for public participation
 
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## EU set to hold membership talks with Ukraine
+EU set to hold membership talks with Ukraine
+
+## ‘We were herded like animals’: Freed from Boko Haram captivity
+More than 360 people abducted by Boko Haram have been rescued in northeastern Nigeria.
+
+## US asks Anthropic to block global access to top AI models: Why it matters
+Foreigners barred from accessing top AI models, underscoring Donald Trump's policy of export controls over high tech.
+
+## Donald Trump’s name removed from Kennedy Center
+Trump’s name has been removed from the Kennedy Center after a court ruling, but adorns many other things and places.
+
+## Sexual Violence in Israeli Prisons: What History Tells Us
+Sexual violence against Palestinians in Israeli custody is often framed as a post-October 7 issue. But historical record
+
+## ‘Making history’: The fight to end female genital mutilation in Colombia
+Colombia has passed the first legislation in Latin America to outlaw female genital mutilation. But barriers remain.
+
 ## Anticipation, pushback in Iran as mediators work to finalise deal with US
 Israel attacked Beirut again in an apparent attempt to test and derail an agreement.
 
 ## Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch
 Pre-tournament favourites Spain open their Group H campaign with a match against World Cup debutants Cape Verde.
-
-## World Cup 2026: Biggest takeaways from Brazil-Morocco group match
-Vinicius Junior scored a brilliant goal to dig Brazil out of trouble after Ismael Saibari had put Morocco ahead.
-
-## Israel attacks Beirut on same day Trump says Iran deal to be signed
-Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.
-
-## Israel attacks southern Beirut after alleged Hezbollah drone fire
-Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.
-
-## Romanian president picks Liberal former mayor as PM to form new government
-Adrian Vestea nominated as prime minister after previous choice, Eugen Tomac, withdraws.
-
-## Will the US-Iran deal be signed on Sunday? What we know so far
-US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.
-
-## World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule
-The Netherlands face Japan in a must-watch game as World Cup Day 4 brings predictions, key fixtures and other headlines.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
