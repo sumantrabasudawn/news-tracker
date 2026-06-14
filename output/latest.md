@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## UK intercepts Russian shadow fleet oil tanker in English Channel
+Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
+
+## How the screwworm broke through US defences and returned to Texas cattle
+A successful programme that contained the parasite for decades began to fail in 2023 as cases exploded in Panama
+
+## Trump says US and Iran will sign deal on Sunday to reopen Strait
+Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close
+
+## How Israel’s ‘trampoline’ economy has adapted to war
+After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks
+
 ## Wes Streeting: This is what progressive capitalism should look like
 Labour must be as focused on wealth creation as we are on wealth distribution
 
@@ -15,47 +27,50 @@ French president will host world leaders at Évian-les-Bains from Monday
 ## Germany seeks Deutsche Börse exemption from EU supervision
 Stock exchange would have option to remain under domestic authority as part of new EU markets regime
 
-## On the streets of Makerfield: what the voters say
-Greater Manchester mayor Andy Burnham is trying to balance local and national issues in the run-up to Thursday’s by-election
-
 ## Defence tech start-up Anduril calls for reset of US arms export controls
 CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons
-
-## Funding Circle claims two-thirds of payouts under SME loan scheme
-Lender used successor to Covid-era small business loan scheme to hand out loans to higher-risk borrowers
 
 ## Tabletop game titans offer two ways to play the nerd economy
 While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
+## Funding Circle claims two-thirds of payouts under SME loan scheme
+Lender used successor to Covid-era small business loan scheme to hand out loans to higher-risk borrowers
+
 ## DR Congo pushes Belgium to release millions of colonial-era documents
 Congolese minister met Belgian officials to discuss records mapping former colony’s mineral wealth
 
-## Fusion industry suppliers bet on race for reactors creating a $73bn market
-Groups eye windfall as technology’s potential to deliver abundant power attracts investors
+## Jio Platforms ranks as the only Indian company in global patent law treaty
+This places Jio among an elite group of global technology leaders like Huawei, Qualcomm, Google, Apple, etc and establishes India-origin innovation in the global technology creation landscape
 
-## Vaishnaw expects more companies to start production of memory chips in India
-Ashwini Vaishnaw says rising demand for AI infrastructure is opening fresh opportunities for semiconductor investments
+## Gadkari clears E100 fuel framework, paving way for ethanol-only vehicles in India
+India has cleared the regulatory framework for 100% ethanol (E100) fuel, Union Road Transport and Highways Minister Nitin Gadkari said on Saturday, paving the way for ethanol-powered cars and motorcycles while reducing dependence on crude oil imports and boosting biofuel use
 
-## Lahori Zeera maker eyes international presence, deepens India presence
-The company ended FY26 with net revenues of about ₹775 crore
+## Iran to give up nuclear weapons, US to lift sanctions: Here’s what’s in the final draft of the peace deal
+US has to ‌release $25 billion of Iran’s frozen assets
 
-## Indian sailor dies from medical complications aboard tanker in Oman
-“Necessary arrangements are being ⁠made for the early repatriation of the mortal remains to India,” the embassy said in a post on ‌social media.
+## India Greenlights 100% Ethanol Vehicles
 
-## Dana-Eaton $5.1-billion deal set to reshape India’s EV, CV supply chain
-The $5.1-billion merger comes at a critical juncture as manufacturers pursue electrification, localisation and export-led growth simultaneously
 
-## Domestic tractor sales cross one lakh units for third straight month in May; exports top 10,000 units
-Domestic volumes rose 20% in May as improved rural sentiment and lower GST continued to support demand
+## India is country of innovation, says France President Macron at Bharat Innovates event
+“We respect the Make-in-India initiative. France has been part of it in diverse sectors,” Macron said.
 
-## India known as nation with world's largest healthcare programme: PM Modi
-Modi expressed pride that India is recognised for having the world’s largest healthcare program, Ayushman Bharat, which offers top-quality care to the most vulnerable
+## Government asks shipping companies to restrict seafarer deployment in Persian Gulf
+According to the International Maritime Organisation there have been 46 attacks on in and around Strait of Hormuz since February 28 resulting in fourteen casualties
 
-## Unauthorised absence by RBI official grave misconduct: HC; upholds his removal
-The petitioner was employed with the RBI from 2013 and was designated as a senior assistant since January 2018
+## Trump hosts UFC cage fights in White House lawn amid Iran war and economic pressures
+Trump marks 80th birthday with mixed martial arts fights to be held on Sunday inside a specially built arena on the White House’s South ‌Lawn
 
-## Electronics, pharma and engineering goods lead India's FTA dividend as export engine shifts gears
-The brokerage views Engineering & Machinery and Pharmaceuticals as key beneficiaries, while Textiles, Gems & Jewellery, and Specialty Chemicals face structural challenges despite FTAs
+## Differential fuel pricing may play a role in shaping adoption patterns: Tsutsumu Otani
+On the recent exemption of excise duty on flex-fuel, Otani said any potential impact of excise duty changes would depend on how these factors evolve together and how end customers ultimately benefit within the overall ecosystem
+
+## PM Modi, Macron inaugurate 'Bharat Innovates'; pitch deeper India-France partnership
+Prime Minister Modi and French President Macron inaugurated Bharat Innovates 2026 in Nice, fostering India-France tech and innovation cooperation. The event connects Indian startups and institutions with global investors. Leaders emphasized shared vision and India's growing role as a global innovati
+
+## Dalal Street outlook: Inflation, Fed verdict and crude oil in focus; US-Iran deal hopes to steer market sentiment
+Indian stock markets are poised for a volatile week, with US inflation data, the Federal Reserve's interest rate decision, and crude oil price movements as key influencers. Investors are keenly watching the US-Iran deal's progress, which could impact global oil prices and market sentiment. Foreign i
+
+## Market rally adds Rs 1.9 lakh crore to top 10 firms' value; ICICI Bank emerges biggest gainer
+Indian equities surged last week, with the top 10 most-valued companies collectively gaining Rs 1.90 lakh crore. ICICI Bank led the rally, adding over Rs 56,000 crore to its market cap. This upturn, driven by global sentiment and RBI measures, saw most major firms post gains, with Reliance Industrie
 
 ## China beats Elon Musk's 'Jesus-level technology' to launch world's first commercial brain chip
 
@@ -72,14 +87,23 @@ India assures ample energy supplies, with over 60 days of crude oil and natural 
 ## No fertiliser shortage for kharif, rabi crops; govt prepared for El Nino, says Shivraj Singh Chouhan
 Union Agriculture Minister Shivraj Singh Chouhan assured farmers that urea and DAP will remain affordable, with the government absorbing price increases. He stated India has sufficient fertilizer stocks for the current kharif season and is ensuring supplies for the upcoming rabi cycle. The minister 
 
-## Will India-US trade deal be announced at G7? USTR signals more talks, says pact not imminent
-Prime Minister Narendra Modi and US President Donald Trump will discuss trade at the G7 summit. A final trade agreement is not anticipated during the meeting. US Trade Representative Jamieson Greer will visit India the following week. Negotiations are ongoing as both nations aim to strengthen econom
+## Two MBBS students drown in Tigra Dam; bodies found after 18 hours: MP Police
+The State Disaster and Emergency Response Force (SDERF) assisted by police carried out an 18-hour rescue operation
 
-## AI chip boom yet to lift South Korea's wider economy, Nomura economist sees limited spillover into demand
-South Korea's AI-driven semiconductor boom is not yet translating into broad economic gains, according to Nomura. Despite strong chip exports and equity markets, domestic demand shows limited improvement, with luxury spending and business investment being key drivers. Concerns over the won and finan
+## 'Innovation is in India's DNA': PM Modi, French President Macron inaugurate 'Bharat Innovates' in Nice
+PM Modi highlighted the special bond between India and France, saying the two nations have connection, conviction, innovation, inspiration and shared vision.
 
-## Explained: Layman’s guide to India’s 3Fs stress - why fuel, fertilisers and forex are so important right now
-Finance Minister Nirmala Sitharaman recently urged the country to focus on fuel, fertiliser and foreign exchange and underlined that PM Narendra Modi’s appeal to conserve foreign exchange was "very important" amid the Middle East conflict.
+## 'His life cost just ₹2,473': FSUI claims seafarer's body is being preserved with cold water bottles, shares video
+The FSUI alleged that 35-year-old seafarer aboard MT Celestial died on June 11 after falling ill and his body is onboard without proper arrangements.
+
+## Stone pelting, vandalism at Bihar's Patliputra station as exam-bound students struggle to find trains
+The incident reportedly occurred on Saturday at midnight amid a large gathering of examinees and accompanying crowds, leading to disruption.
+
+## 'Will only speak when time is right': Saayoni Ghosh dodges questions on TMC rebel camp
+Arriving at the Delhi airport, Saayoni Ghosh declined to answer repeated questions from reporters about her loyalty.
+
+## A legal notice, more betrayals: Fresh jolts hit Mamata Banerjee as she struggles to keep TMC intact
+The dissident TMC MPs will meet Lok Sabha Speaker Om Birla on Monday with a letter seeking to be recognised as the “real TMC”.
 
 ## ‘Under their control’: Rahul Gandhi targets PM Modi over US' ‘won’t tolerate' remark after 3 Indian sailors killed
 The US state department said in a readout of the conversation that commercial vessels must follow instructions issued by American forces.
@@ -87,47 +111,32 @@ The US state department said in a readout of the conversation that commercial ve
 ## Live-in couple's argument turns deadly in Bengaluru, boyfriend slits Sikkim woman's throat
 During the argument, Lepcha allegedly attacked Subba with a kitchen knife and slit her throat, police said.
 
-## CAG flags shortcomings at Social Audit Unit of Assam; suggests corrective measures
-CAG flags shortcomings at Social Audit Unit of Assam; suggests corrective measures
-
-## President Murmu, Odisha governor, CM greet people on Raja festival
-President Murmu, Odisha governor, CM greet people on Raja festival
-
-## Sabarimala women entry issue resurfaces over reported claims by ex-TDB chief
-Sabarimala women entry issue resurfaces over reported claims by ex-TDB chief
-
-## ‘We’re not like Hitler': RSS chief Mohan Bhagwat says doors of dialogue with Pakistan should be kept open
-The RSS chief clarified that the organisation does not have an independent policy when it comes to foreign affairs and stands with the Centre's stance.
-
-## War-footing action needed to resolve power cuts in TN: Senthilbalaji
-War-footing action needed to resolve power cuts in TN: Senthilbalaji
-
-## Ayodhya Ram Temple in focus over alleged disappearance of donation funds: The row explained
-The BJP-led Uttar Pradesh government on Saturday announced a three-member SIT to investigate the matter following a request from the temple trust.
-
-## Foot overbridge, staircase, pathway: How NCRTC is connecting Delhi’s biggest transport hub at Sarai Kale Khana
+## UGC NET Admit Card 2026 Live Updates: NTA expected to issue hall tickets by next week
 
 
-## UPSC notifies 443 posts under direct recruitment scheme, check list of vacancies
+## Bihar coaching wars: Brother of institute owner jailed in Khan Sir centre attack found dead in Nepal
 
 
-## Kerala man loses way in Bengal, language barrier cost him his life
+## Why Asaduddin Owaisi is addressing a rally in Bahraich: The politics behind Maharaja Suheldev-Ghazi debate
 
 
-## Inside XERF: The viral skin tightening treatment Priyanka Chopra swears by
+## MBA vs MCom: Picking the degree that fits your career goals
 
 
-## UPSC Ethics Simplified | How can India’s civil services and governance rebuild Gen Z’s trust?
+## This Rs 2,699 gadget is a Bluetooth speaker, radio, and alarm clock—but buy it for its wireless powers
 
 
-## Bengal eyes Guinness World Record: PM Modi to lead 30,000 people at Kolkata’s International Yoga Day event
+## Assam CEE 2026 provisional answer keys today at astu.ac.in: How to raise objections
 
 
-## Omer Bartov’s ‘Israel: What Went Wrong?’ forces the world to rethink Gaza and Zionism
+## FIFA to pay Omar Artan despite World Cup heartbreak
 
 
-## Cockroach Janta Party denied permission for Jaipur protest, they ask: ‘What scared Rajasthan Police?’
+## Iran agrees to not build or buy nuclear weapons under draft US peace deal: Report
 
+
+## Demand from mainland Chinese students lifts Hong Kong rents, draws investors to flats
+Mainland Chinese students are increasingly paying a year’s rent – and sometimes much more – upfront to secure homes near Hong Kong’s universities, helping to push residential rents to record highs and drawing investors back to small flats once marketed for first-time buyers. The trend is becoming in
 
 ## Hong Kong commercial landlords may bet on investment to curb tenant loss from AI: analysts
 Hong Kong’s older office assets and their struggling landlords could face more challenges as the wider adoption of artificial intelligence (AI) by firms in the city leads companies to relocate to newer buildings that better support their requirements, according to real estate consultancy Knight Fran
@@ -149,9 +158,6 @@ Geely Auto, which is locked in a fierce battle for dominance against BYD in Chin
 
 ## US blocks foreign access to Anthropic’s newest AI models over security risks
 Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to t
-
-## Why gold may rebound 13% this year – and what could hold it back
-Gold prices may rise at least 13 per cent by year-end in a reversal of recent sell-offs, as diversification demand from central banks remains intact and hopes for a diplomatic solution to Middle East tensions dial back inflation expectations, according to some money managers. The precious metal coul
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -249,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel accuses Hezbollah of ceasefire violation, issues displacement orders
+Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.
+
+## Romanian president picks Liberal former mayor as PM to form new government
+Adrian Vestea nominated as prime minister after previous choice, Eugen Tomac, withdraws.
+
+## Will the US-Iran deal be signed on Sunday? What we know so far
+US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.
+
+## World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule
+The Netherlands face Japan in a must-watch game as World Cup Day 4 brings predictions, key fixtures and other headlines.
+
+## UK court to rule on Palestine Action ‘terrorist’ label: What we know
+Court of Appeal to rule whether government's proscription of action group was unlawful.
+
 ## The World Cup cicada: India’s rare insect on a four-year clock
 A rare cicada emerges from the forests of Meghalaya, every four years, in time with the World Cup.
 
@@ -257,21 +278,6 @@ Signing of US-Iran deal not on Trump’s public schedule.
 
 ## UK forces seize suspected Russian shadow fleet tanker in English Channel
 The UK Ministry of Defence says it captures the vessel Smyrtos in an operation that lasts six hours.
-
-## Switzerland votes on right-wing bid to cap country’s population
-A 'yes' vote would force the government to restrict asylum, residency permits, and scrap EU deal on free movement.
-
-## Iran war day 107: Washington, Tehran close to signing first stage of deal
-Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.
-
-## 2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass
-Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.
-
-## Smiles all around as Morocco, Brazil share spoils and Knicks make history
-World Cup opener ends in a draw for Morocco and Brazil as local fans celebrate New York Knicks' basketball triumph.
-
-## Costs, careers and choice: Why Indians are having fewer children
-India’s Total Fertility Rate (TFR) has dropped to 1.9 children per woman - lower than the benchmark level of 2.1.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
