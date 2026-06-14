@@ -1,13 +1,16 @@
 # AION Intelligence
 
-## Pakistan says Iran and US agree deal to open Strait of Hormuz and extend ceasefire
-Leaders expected to sign agreement on Friday for Tehran to clear mines in waterway and Washington to end blockade
-
-## Starmer to announce Australia-style social media ban for teenagers
-PM set to announce that he will ban younger teenagers from some social media platforms and curb their daily use
+## Iran and US agree deal to open Strait of Hormuz and extend ceasefire
+Leaders to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports
 
 ## Former Labour deputy leader Roy Hattersley dies aged 93
 Yorkshire politician and writer was key figure in modernising the party after its swing to the left under Michael Foot
+
+## FirstFT: Trump says US-Iran deal reached to reopen Strait of Hormuz and extend ceasefire
+Also in today’s newsletter: China preps digital payments system and Swiss voters reject proposal to cap population at 10mn
+
+## Starmer to announce Australia-style social media ban for teenagers
+PM set to announce that he will ban younger teenagers from some social media platforms and curb their daily use
 
 ## Trump tells Israel and Hizbollah to ‘stand down’ as he pushes for Iran deal
 US president has said he expects Washington and Tehran to seal a deal to reopen the Strait of Hormuz on Sunday
@@ -20,9 +23,6 @@ First rich nations summit since Iran war launched, a make-or-break British by-el
 
 ## Underfunded and under fire: the crises facing Northern Ireland’s police
 Service already under scrutiny for failing to attract enough Catholics and a culture of institutional misogyny before this week’s riots
-
-## Swiss voters reject proposal to cap population at 10mn
-Projections showed 54 per cent of voters rejected the initiative backed by the rightwing Swiss People’s party
 
 ## Starmer poised to backtrack on electric vehicle targets
 Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
@@ -41,9 +41,6 @@ Danish company MyDefence has already drawn buyout and defence sector interest as
 
 ## Germany seeks Deutsche Börse exemption from EU supervision
 Stock exchange would have option to remain under domestic authority as part of new EU markets regime
-
-## Defence tech start-up Anduril calls for reset of US arms export controls
-CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons
 
 ## Rebel faction of 20 Trinamool Congress MPs decide to merge with Tripura-based Nationalist Citizens Party, meet Lok Sabha Speaker Om Birla
 The rebel Trinamool Congress MPs met Lok Sabha Speaker Om Birla and conveyed their decision to him. The group requested separate seating arrangements in Parliament.
@@ -117,6 +114,15 @@ The three-day event is an effort to match Indian tech startups, innovators and r
 ## Manipur deputy CM Losii Dikho links SoO groups to killing of 6 Nagas
 The six Nagas were allegedly abducted by a group of women belonging to Kuki community at Leilon Vaiphei, a Kuki village in Kangpokpi district on May 13
 
+## Second murder in 24 hours shocks Chandigarh
+
+
+## Cashier had no enemies, says family as police hunt Chandigarh Sector 11 shooters
+
+
+## Bodies of six Naga men identified, handover may take time: Manipur minister
+
+
 ## US warned tanker nearly 60 times before strike killed 3 Indian sailors off Oman coast: Report
 
 
@@ -132,14 +138,8 @@ The six Nagas were allegedly abducted by a group of women belonging to Kuki comm
 ## ‘Bomb our way to solutions’: Obama says Trump’s Iran deal won’t improve on his pact
 
 
-## India go down fighting to Netherlands in FIH Pro League
-
-
-## Deepti’s 5/10 cuts Pakistan’s chase as India begin T20 World Cup with a win
-
-
-## Shabana Azmi recalls dad’s career advice: ‘You can become a mochi but…’; expert weighs in
-
+## Lower bar to entry for innovative companies to list in Hong Kong, says chamber
+The Chamber of Hong Kong Listed Companies (CHKLC) is urging Hong Kong to further lower the bar for innovative companies to go public in the city, so as to encourage more technology firms to raise funds here, according to the chamber’s chairman. The Hong Kong Exchanges and Clearing (HKEX) unveiled it
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
 Hong Kong billionaire Li Ka-shing’s flagship property developer CK Asset Holdings has sold a penthouse mansion at a luxury development in Mid-Levels in Central for HK$362 million (US$46.2 million), setting a per square foot price record for first-hand transactions this year. The 2,911 sq ft unit on 
@@ -161,9 +161,6 @@ The drive for AI monetisation among Chinese tech companies has become a battle o
 
 ## Natural diamond firms turn to blockchain traceability amid lab-grown competition
 Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jewels, in a move that industry observers say will boost sales. De Beers Group, the
-
-## China’s Geely Auto to slash excess capacity amid overhaul to boost carmaker’s global edge
-Geely Auto, which is locked in a fierce battle for dominance against BYD in China’s crowded automotive market, has pledged to purge excess capacity through an asset restructuring while ramping up its go-global drive with an eye on greater international competitiveness. Chairman Li Shufu said during 
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -261,11 +258,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Japan deny Netherlands by fighting back twice in World Cup opener
+Asia's most successful side, Japan, twice come from behind to draw 2-2 with Netherlands in Group F opener.
+
+## Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup
+‌Victor Munoz is also fit to play as coach Luis de la Fuente says he has no concerns over his players' fitness.
+
 ## India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign
 Smriti Mandhana scored 68, and Deepti Sharma took five wickets as India thrashed Pakistan in front of a sellout crowd.
 
 ## LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250
-Updates as two title fights, Topuria-Gaethje and Pereira-Gane, are staged in front of Donald Trump at the White House.
+Title fights, Topuria-Gaethje and Pereira-Gane, to be staged in front of US President Donald Trump at the White House.
 
 ## Gaza mourns four killed in Israeli strike
 Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.
@@ -278,12 +281,6 @@ Swiss voters reject a proposed population cap that would cap the country’s pop
 
 ## Medical teams in Goma face mistrust from relatives of Ebola victims
 Confirmed Ebola cases in the Democratic Republic of Congo have spiked up to 782.
-
-## Six people killed as helicopters collide over Brazil’s Rio de Janeiro
-Two helicopters collided in midair before crashing into car park of electric vehicle dealership, fire service says.
-
-## Lewis Hamilton wins first F1 race with Ferrari in Barcelona
-Seven-time world champion's maiden victory for the Italian manufacturer is also his first F1 win in nearly two years.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
