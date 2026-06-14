@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## China tees up digital payments system to compete with dollar
+Beijing’s cross-border currency platform will be backed by central banks of Hong Kong, Thailand, UAE and Saudi Arabia
+
+## Far-right activist Tommy Robinson detained under terrorism legislation
+Detention at Heathrow airport follows a week of violent racial tensions in the UK
+
 ## Trump says US and Iran will sign deal on Sunday to reopen Strait
 Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close
 
@@ -18,47 +24,56 @@ Bankers convinced investors to believe in a sci-fi strategy, overlook steep loss
 ## Chart of the Week: US headline inflation matters to consumers
 The headline annual inflation rate hit 4.2%, the highest since April 2023
 
-## Goldman and JPMorgan ease office working rules to counter World Cup disruption
-Wall Street lenders say employees can ask to work from home on match days to ease congestion in host cities
+## Wall Street digests record fundraising haul as AI race intensifies
+SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
 
-## The consequences of online race hatred are playing out on Belfast’s streets
-Malign social media automates division — I saw the effects in our city this week
+## Bridgepoint weighs $1bn sale of anti-drone group guarding World Cup sites
+Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit
 
-## UK housebuilder Vistry offers staff voluntary redundancy
-Company is trying to preserve cash to shore up its business amid market slowdown
+## Germany seeks Deutsche Börse exemption from EU supervision
+Stock exchange would have option to remain under domestic authority as part of new EU markets regime
 
-## The sweet smell of World Cup dollars
-Also in today’s newsletter: a dispatch from LA and Mercedes F1’s robust finances
+## Defence tech start-up Anduril calls for reset of US arms export controls
+CEO of California-based group wants to enlist allies in helping with production of lower-cost weapons
 
-## Frasers is better at making headlines than creating shareholder value
-Mike Ashley’s penchant for stake-building is not that well suited to the public markets
+## Tabletop game titans offer two ways to play the nerd economy
+While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
-## AI is revolutionising the stock market
-Big Tech no longer prints money; it needs it. What will that mean when confidence dips?
+## Funding Circle claims two-thirds of payouts under SME loan scheme
+Lender used successor to Covid-era small business loan scheme to hand out loans to higher-risk borrowers
 
-## RBI Governor Sanjay Malhotra meets West Bengal CM Suvendu Adhikari
-The meeting comes as Bengal focuses on fiscal consolidation, revenue growth and attracting investments amid a debt burden of Rs 7.6 lakh crore.
+## DR Congo pushes Belgium to release millions of colonial-era documents
+Congolese minister met Belgian officials to discuss records mapping former colony’s mineral wealth
 
-## Trump to meet PM Modi on G7 Summit sidelines in France, White House says
-Trade deal not likely to be finalised at meeting, say White House officials
+## Fusion industry suppliers bet on race for reactors creating a $73bn market
+Groups eye windfall as technology’s potential to deliver abundant power attracts investors
 
-## Ipca inks licensing agreement with Bhami Research for biologics delivery platform access
-Licencing agreement grants Ipca access to Bhami Research’s proprietary high-concentration subcutaneous biologics delivery platform for the development and commercialisation of multiple monoclonal antibody products
+## Long-awaited NSE IPO set to advance as draft papers likely next week
+Comes after NSE's board approved the proposed IPO on February 6, following receipt of SEBI’s no-objection certificate
 
-## F&O Strategy: Buy LICI futures
-Going long in futures is a risky strategy and requires higher margin commitments
+## Trump says US-Iran deal to be signed today
+Trump’s comments on Saturday followed Pakistan’s indication that the US and Iran were nearing agreement, with an electronic signing ceremony set for today
 
-## Tech Query: Mahindra & Mahindra (M&M), Indian Overseas Bank (IOB), Matrimony.com, EID Parry India - What is the outlook? Where are these stocks headed?
-We look at the prospects of Mahindra & Mahindra and three other stocks – Indian Overseas Bank, Matrimony.com and EID Parry
+## Delhi records below-normal minimum temperature; AQI moderate
+Relative humidity was recorded at 61% at 8.30 am
 
-## Index Outlook: Recovery signs
-A strong follow-through rise from here can turn the outlook positive
+## "Iran will open Strait of Hormuz sans tolls, there will be demining exercise," say US officials
+"Iran is going to open up the Strait of Hormuz; that is a requirement. It could be open with no tolls”
 
-## Covers for cancer treatment
-High cost of modern treatments and rising cancer incidence make health insurance coverage important
+## Fuel prices to be reviewed based on crude oil supply, says Union Minister Suresh Gopi
+Replying to reporters' questions on a possible revision in fuel prices, Gopi said the situation would be assessed based on crude oil supplies
 
-## Simply Put: Significance of a log chart
-Friends Mark and Antony continue their conversation on using log charts for analysis
+## Tamil Nadu weather: Cyclonic system to bring rains to northern TN
+Moderate rain accompanied by thunderstorm and lightning is likely to occur over Chengalpattu, Kancheepuram, Chennai, Tiruvannamalai, Perambalur, Ariyalur, Pudukkottai, Cuddalore, Villupuram and Kallakurichi districts and Puducherry.
+
+## India’s EV expansion kick-off June 15 with 16 rollouts vs 7 ICE models
+India’s automotive industry will shift significantly with 16 electric vehicles (EVs) launching on June 15, surpassing seven internal combustion engine (ICE) models. Major automakers, including Mercedes-Benz and Tata Motors, plan to release 23 new electric and hybrid vehicles in the next nine months,
+
+## Amazon voiced concerns about Anthropic AI models before US government's crackdown, source says​
+Trump administration ordered Anthropic to block any foreign nationals, whether inside or outside ‌the U.S., from using both its latest models, Fable 5 and Mythos 5
+
+## India steps up Russian oil buying; crude imports from Moscow rise in May: Report
+
 
 ## BRICS adopts Indore Declaration; India to lead seed rights, digital agriculture initiatives
 BRICS nations have adopted the "Indore Declaration," pledging enhanced cooperation in agriculture and launching new initiatives like a global forum on farmers' seed rights and a digital agriculture network. These decisions, made under India's presidency, aim to strengthen food security, support smal
@@ -81,56 +96,59 @@ Finance Minister Nirmala Sitharaman recently urged the country to focus on fuel,
 ## US-China friction returns: Beijing protests Pentagon's military-company label for BYD, Alibaba and Baidu
 China has opposed the US for adding BYD, Alibaba, and Baidu to a Pentagon list of firms allegedly linked to the Chinese military. Beijing argues this move undermines agreements made during President Trump and Xi Jinping's recent summit, harming bilateral economic and trade relations.
 
-## SpaceX made Musk a trillionaire, but what else does he own? A look at his business empire
-Elon Musk's vast business empire, encompassing SpaceX, Tesla, Neuralink, and The Boring Company, is expanding rapidly. Despite recent losses in some ventures like xAI and X, SpaceX's successful IPO highlights investor confidence in its ambitious goals for AI and space exploration. Tesla continues to
+## Rebel TMC MP Kakoli Ghosh's son sends legal notice to Mamata, others over Barasat ticket claims
+The notice issued an ultimatum for those it was addressed to, asking them to retract “all false, defamatory, and misleading statements” regarding Baidyanath.
 
-## PM Modi lands in France for G7 Summit, bilateral engagements with Macron
-PM Narendra Modi was received at the airport by France's Education Minister Edouard Geffray, Minister of Higher Education, Research and Space Philippe Baptiste.
+## ‘His mask and wig both come off’: Mahua Moitra jabs TMC MP over BJP minister meeting amid party crisis
+Mahua Moitra alleged that Bandyopadhyay had told party leaders he had gone to a hospital in Kolkata due to a stomach problem.
 
-## 'Deeply shocking': Shashi Tharoor says 'friend' US offered no condolences for Indian sailors killed in Oman strike
-The Congress leader went on to question why alternative methods were not used to stop the vessel involved.
+## PM Modi to visit President Droupadi Murmu's in-laws' village in Odisha on June 20
+President Murmu was married to Shyam Charan Murmu of Pahadpur. Her husband and two sons passed away before she assumed office in 2022.
 
-## Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
-Reference to people, not country: Bhagwat on Hosabale's remarks about dialogue with Pak
+## Summer holidays, pleasant weather bring rush to Himachal's Shimla; visitors hail traffic management
+Families travelling during summer vacations are flocking to hill stations across Himachal Pradesh to escape the intense heat in Delhi and other cities.
 
-## TMC targets ECI over 'mysterious' fire that gutted '4,000 EVMs' in Kolkata
-Earlier this week, Kolkata Police constituted a Special Investigation Team (SIT) to probe the fire incident at the South 24 Parganas Zilla Parishad office.
+## Indian-origin man, 26, killed in knife attack in London's Southall
+After the brutal killing, the police urged anyone who witnessed what happened at the scene and has not spoken to the police yet to come forward and do so.
 
-## Wet spell to continue over North India till next week; rain, gusty winds likely in Delhi, UP, Punjab
-The IMD has forecast partly cloudy skies with thunder and lightning for Delhi on Sunday.
+## Pariyathukavu land dispute settled: Dalit families to get 5 cents each, houses
+Pariyathukavu land dispute settled: Dalit families to get 5 cents each, houses
 
-## Didn't lose in 2024, already won 2029: Rahul Gandhi confident of INDIA bloc win
-Rahul Gandhi reasserted the need for all opposition parties to unite in order to gain an easy victory in 2029 polls.
+## Two suspended for power outage at Ashwini Vaishnaw's press conference in Jaipur
+The action followed an inquiry into the June 11 incident, when a power failure at the state BJP headquarters interrupted Vaishnaw's media interaction.
 
-## Nitin Gadkari says ‘people laughed’ at his 100% ethanol vision, now the file is signed
-Gadkari also said that automobile companies would launch ethanol-compatible vehicles within the next month-and-a-half.
+## Meeting with Trump, Bharat Innovates: What's on table for PM Modi's France visit
+Among the most key engagements of Modi during his France visit would be his meeting with United States President Donald Trump on sidelines of the G7 summit.
 
-## TMC secretary Derek O'Brien labels merger with ‘any party’ as ‘baseless’
-Speculation about a possible merger with the Congress flared up following a Mamata-Sonia and Abhishek-Rahul meeting, claims now denied by Derek O'Brien
-
-## Not just at top, TMC cracks at grassroots too as people step out against ‘syndicates’
+## US state attorneys general are investigating OpenAI
 
 
-## Centre takes possession of Delhi’s Jaipur Polo Ground
+## IIM-Calcutta allows MBA students to pursue start-ups without losing placement chance
 
 
-## ‘All we got to bury was a DNA sample’: British victim’s mother seeks answers a year after Air India crash
+## Google says Chinese cybercrime group used its AI in scams
 
 
-## As Narendra Modi, Donald Trump head to G7, India and US face off over attacks on ships
+## How brands like Nicobar and Raw Mango are changing the way India dresses
 
 
-## First batch of NDA-trained women cadets commissioned as officers
+## Life in an IIT | What really changes after getting into an IIT
 
 
-## Narendra Modi in France: Tech, innovation to dominate bilateral agenda
+## NEET exam date clash may push back Tamil Nadu engineering counselling schedule
 
 
-## Elon Musk sparks debate on India’s falling fertility rate; what it means for the future
+## Trump assures Netanyahu any Iran deal will tackle nuclear threat, Hezbollah: Report
 
 
-## President Murmu recalls going numb after PM Modi’s call; expert decodes reactions
+## Parul Chaudhary breaks the 5000m national record; dips below 15:10
 
+
+## China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says
+The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundre
+
+## Natural diamond firms turn to blockchain traceability amid lab-grown competition
+Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jewels, in a move that industry observers say will boost sales. De Beers Group, the
 
 ## China’s Geely Auto to slash excess capacity amid overhaul to boost carmaker’s global edge
 Geely Auto, which is locked in a fierce battle for dominance against BYD in China’s crowded automotive market, has pledged to purge excess capacity through an asset restructuring while ramping up its go-global drive with an eye on greater international competitiveness. Chairman Li Shufu said during 
@@ -149,12 +167,6 @@ China’s chip design software industry is rallying behind Huawei Technologies�
 
 ## Hong Kong gazettes tax break for fund managers’ bonuses to bolster role as wealth hub
 The Hong Kong government gazetted a bill on Friday that, if passed, would waive salary tax on fund managers’ performance-linked bonuses, so long as they meet certain requirements, in a move to introduce further tax reform to strengthen the city as a wealth management centre. The bill, which will be 
-
-## Hong Kong regulators vow strict compliance as Beijing tightens capital controls
-Hong Kong’s financial regulators have pledged to uphold strict compliance standards and crack down on illicit activity, as Beijing intensifies efforts to tighten oversight of cross-border capital flows. “We will always be steadfast guardians of the market, driving development and encouraging innovat
-
-## ‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021
-Chinese regulators are stepping up public enforcement against the nation’s corporate giants, marking a departure from the low-key approach adopted after a bruising 2021 tech crackdown. In recent months, agencies have summoned company representatives, launched high-profile investigations, and named a
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -252,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump says deal to be signed today; Tehran urges caution
-US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.
+## Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs
+The New York Knicks ended their championship drought on Saturday, winning the best-of-seven NBA Finals series 4-1.
 
-## Brazil and Morocco kickoff amid electric atmosphere
-Brazil and Morocco supporters sang, danced and chanted their way to one of the most anticipated group-stage matches.
+## ‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup
+Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.
 
-## Qatar net late against Switzerland to secure historic first World Cup point
-Asian Cup holders Qatar level in injury time to draw 1-1 with Switzerland in World Cup 2026 opening game.
+## Scotland beat Haiti 1-0 to mark a winning return to the World Cup
+John McGinn's deflected goal gives the Scots a World Cup win for the first time since 1990.
 
-## Thousands mourn Thai princess as body taken to lie in state in Bangkok
-Thousands mourn Thai princess as body taken to lie in state in Bangkok
+## Two killed in Israeli strike on Gaza
+An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.
 
-## Dashcam shows US cop accidentally shooting colleague during ‘horseplay’
-Dashcam shows US cop accidentally shooting colleague during ‘horseplay’.
+## After battling armed attacks, Mauritania attempts to revive tourism
+Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.
 
-## Thousands rally in Rome, Italy for rival pro- and anti-migration marches
-Thousands of police deployed to keep the rallies apart as far-right 'remigration' initiative gains traction.
+## Why is the price of gold trending down?
+Gold has been under pressure since the US and Israel launched a war against Iran in late February.
 
-## Ten observations after attending a World Cup match in the US
-With the World Cup getting into full swing, Al Jazeera offers some tips for fans looking to attend a game in the US.
+## Vinicius drags low-key Brazil level against dominant Morocco at World Cup
+Vinicius Jr individual effort lift Brazil's struggle in team's 2026 tournament opener against Africa champions Morocco.
 
-## Israel attacks Lebanon as US says Iran deal to be signed on Sunday
-Explosions shook southern Lebanon on Saturday as Israel continued its attacks.
+## America250 versus Freedom 250: What to know about the US semiquincentennial
+The celebrations to mark the US's 250th anniversary have been overshadowed by questions about Trump's influence.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
