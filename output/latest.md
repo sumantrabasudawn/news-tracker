@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Far-right activist Tommy Robinson detained under terrorism legislation
+Detention at Heathrow airport follows a week of violent racial tensions in the UK
+
+## What should investors expect from Kevin Warsh’s first Fed meeting?
+Market Questions is the FT’s guide to the week ahead
+
+## Electrification jumps up corporate agenda after energy crisis, survey finds
+Security and cost concerns elevate business push for overhaul of power systems
+
+## Manchester is a triumph of private enterprise
+‘Soft left’ Labour MPs backing Andy Burnham might have learned the wrong lessons from the city’s revival
+
+## Kevin Warsh enters the arena
+The new Federal Reserve Chair will be judged on his integrity and ability
+
 ## UK intercepts Russian shadow fleet oil tanker in English Channel
 Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
 
@@ -7,22 +22,16 @@ Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp
 A successful programme that contained the parasite for decades began to fail in 2023 as cases exploded in Panama
 
 ## Trump says US and Iran will sign deal on Sunday to reopen Strait
-Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close
+Israel launched strike on Beirut as US president expects to firm agreement to extend ceasefire
 
-## How Israel’s ‘trampoline’ economy has adapted to war
-After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks
-
-## Wes Streeting: This is what progressive capitalism should look like
-Labour must be as focused on wealth creation as we are on wealth distribution
+## Keir Starmer poised to weaken electric vehicle targets
+Prime minister to reduce all-electric cap from 80% to 50% by end of the decade amid fears of job losses
 
 ## Wall Street digests record fundraising haul as AI race intensifies
 SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
 
 ## Bridgepoint weighs $1bn sale of anti-drone group guarding World Cup sites
 Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit
-
-## Macron and Trump test their bruised bromance at G7 summit
-French president will host world leaders at Évian-les-Bains from Monday
 
 ## Germany seeks Deutsche Börse exemption from EU supervision
 Stock exchange would have option to remain under domestic authority as part of new EU markets regime
@@ -33,11 +42,20 @@ CEO of California-based group wants to enlist allies in helping with production 
 ## Tabletop game titans offer two ways to play the nerd economy
 While Games Workshop investors have tripled their money, Hasbro shareholders have seen barely any increase
 
-## Funding Circle claims two-thirds of payouts under SME loan scheme
-Lender used successor to Covid-era small business loan scheme to hand out loans to higher-risk borrowers
+## Cockroach Janata Party to hold protest in Jaipur tomorrow
+Party founder Abhijeet Deepke, national spokesperson Ashutosh Ranka, education reformer and environmentalist Sonam Wangchuk and several other leaders and social activists are expected to participate in the programme
 
-## DR Congo pushes Belgium to release millions of colonial-era documents
-Congolese minister met Belgian officials to discuss records mapping former colony’s mineral wealth
+## Monsoon momentum shifts east; rains may revive over west coast during June 22-23
+Incoming spell may unfold with heavy rain over Coastal Karnataka and Goa and northward across Konkan, Mumbai and south Gujarat up to Surat
+
+## CEA Anantha Nageswaran calls AI stock valuations a ‘bubble’, says fears over job losses may be overstated
+There is far too much fear and far little information about the AI threat currently, Nageswaran says
+
+## Rupee level not a threshold, exchange rate a shock absorber: CEA Nageswaran
+Attempting to rigidly defend a particular level could be counterproductive for the wider economy, says Nageswaran
+
+## Blooming paradox: India’s flower industry hits record highs even as the Northeast withers
+Tamil Nadu leads in flower production
 
 ## Jio Platforms ranks as the only Indian company in global patent law treaty
 This places Jio among an elite group of global technology leaders like Huawei, Qualcomm, Google, Apple, etc and establishes India-origin innovation in the global technology creation landscape
@@ -48,20 +66,11 @@ India has cleared the regulatory framework for 100% ethanol (E100) fuel, Union R
 ## Iran to give up nuclear weapons, US to lift sanctions: Here’s what’s in the final draft of the peace deal
 US has to ‌release $25 billion of Iran’s frozen assets
 
-## India Greenlights 100% Ethanol Vehicles
+## India does not use methodology changes to inflate growth numbers, CEA Nageswaran defends GDP data
+Chief Economic Adviser V Anantha Nageswaran defended India's GDP statistics, stating the country does not artificially inflate growth figures through methodological changes. He emphasized that India follows internationally accepted practices and that revisions, like the recent rebasing, demonstrate 
 
-
-## India is country of innovation, says France President Macron at Bharat Innovates event
-“We respect the Make-in-India initiative. France has been part of it in diverse sectors,” Macron said.
-
-## Government asks shipping companies to restrict seafarer deployment in Persian Gulf
-According to the International Maritime Organisation there have been 46 attacks on in and around Strait of Hormuz since February 28 resulting in fourteen casualties
-
-## Trump hosts UFC cage fights in White House lawn amid Iran war and economic pressures
-Trump marks 80th birthday with mixed martial arts fights to be held on Sunday inside a specially built arena on the White House’s South ‌Lawn
-
-## Differential fuel pricing may play a role in shaping adoption patterns: Tsutsumu Otani
-On the recent exemption of excise duty on flex-fuel, Otani said any potential impact of excise duty changes would depend on how these factors evolve together and how end customers ultimately benefit within the overall ecosystem
+## Amazon doubles down on India growth plans, sees current phase as its most aggressive expansion yet
+Amazon is significantly increasing its investment in India, committing $35 billion by 2030 to expand its e-commerce, quick commerce, AI, and export operations. The company is entering its most aggressive expansion phase yet, aiming for long-term leadership in the rapidly growing Indian digital marke
 
 ## PM Modi, Macron inaugurate 'Bharat Innovates'; pitch deeper India-France partnership
 Prime Minister Modi and French President Macron inaugurated Bharat Innovates 2026 in Nice, fostering India-France tech and innovation cooperation. The event connects Indian startups and institutions with global investors. Leaders emphasized shared vision and India's growing role as a global innovati
@@ -81,11 +90,20 @@ Indian equities surged last week, with the top 10 most-valued companies collecti
 ## BRICS adopts Indore Declaration; India to lead seed rights, digital agriculture initiatives
 BRICS nations have adopted the "Indore Declaration," pledging enhanced cooperation in agriculture and launching new initiatives like a global forum on farmers' seed rights and a digital agriculture network. These decisions, made under India's presidency, aim to strengthen food security, support smal
 
-## Hardeep Singh Puri says India has over 60 days of crude, gas stocks; rules out any energy supply crunch
-India assures ample energy supplies, with over 60 days of crude oil and natural gas reserves. Domestic LPG production has significantly reduced import reliance, ensuring 75-80 days of stock. Despite global price hikes due to the Iran conflict, India has kept domestic fuel prices stable, even seeing 
+## Rahul Gandhi vs Pinarayi Vijayan: Is the INDIA bloc cracking after LoP's ‘hug’ remark?
+The recent incidents have indicated fractures in the opposition alliance as the DMK and AAP skipped the key INDIA bloc meeting on June 8.
 
-## No fertiliser shortage for kharif, rabi crops; govt prepared for El Nino, says Shivraj Singh Chouhan
-Union Agriculture Minister Shivraj Singh Chouhan assured farmers that urea and DAP will remain affordable, with the government absorbing price increases. He stated India has sufficient fertilizer stocks for the current kharif season and is ensuring supplies for the upcoming rabi cycle. The minister 
+## Fake Army car used to smuggle 15.35 kg opium in Manipur; one arrested: Police
+Upon searching, police found, “17 packets of opium weighing around 15.35 kg”, concealed in a compartment under the rear right door of the vehicle
+
+## US attack, sinking ship, death due to illness: A tough week for Indian seafarers near Gulf coast
+Indian-flagged merchant vessel, Virat 1, suffered an engine failure on Sunday morning, following which the US Navy rescued 14 Indian sailors on board.
+
+## Murder in a Dehradun village triggers violence between two communities; heavy security deployed
+While the police have pointed to a water row as the trigger, the family of the deceased has claimed a money dispute as the reason.
+
+## Baghpat woman arrested for murdering husband with lover: 'Poisoned, pressed pillow against his face'
+Sachin Dagar was allegedly killed on Friday night by his wife Rachna and her lover Sonu, who hails from the neighbouring village of Ranchhad.
 
 ## Two MBBS students drown in Tigra Dam; bodies found after 18 hours: MP Police
 The State Disaster and Emergency Response Force (SDERF) assisted by police carried out an 18-hour rescue operation
@@ -96,44 +114,32 @@ PM Modi highlighted the special bond between India and France, saying the two na
 ## 'His life cost just ₹2,473': FSUI claims seafarer's body is being preserved with cold water bottles, shares video
 The FSUI alleged that 35-year-old seafarer aboard MT Celestial died on June 11 after falling ill and his body is onboard without proper arrangements.
 
-## Stone pelting, vandalism at Bihar's Patliputra station as exam-bound students struggle to find trains
-The incident reportedly occurred on Saturday at midnight amid a large gathering of examinees and accompanying crowds, leading to disruption.
-
-## 'Will only speak when time is right': Saayoni Ghosh dodges questions on TMC rebel camp
-Arriving at the Delhi airport, Saayoni Ghosh declined to answer repeated questions from reporters about her loyalty.
-
-## A legal notice, more betrayals: Fresh jolts hit Mamata Banerjee as she struggles to keep TMC intact
-The dissident TMC MPs will meet Lok Sabha Speaker Om Birla on Monday with a letter seeking to be recognised as the “real TMC”.
-
-## ‘Under their control’: Rahul Gandhi targets PM Modi over US' ‘won’t tolerate' remark after 3 Indian sailors killed
-The US state department said in a readout of the conversation that commercial vessels must follow instructions issued by American forces.
-
-## Live-in couple's argument turns deadly in Bengaluru, boyfriend slits Sikkim woman's throat
-During the argument, Lepcha allegedly attacked Subba with a kitchen knife and slit her throat, police said.
-
-## UGC NET Admit Card 2026 Live Updates: NTA expected to issue hall tickets by next week
+## IND vs PAK, Women’s T20 World Cup: Harmanpreet, Fatima skip handshake at toss
 
 
-## Bihar coaching wars: Brother of institute owner jailed in Khan Sir centre attack found dead in Nepal
+## Did Huma Qureshi just ‘hard-launch’ her boyfriend? Rachit Singh’s reply sparks buzz
 
 
-## Why Asaduddin Owaisi is addressing a rally in Bahraich: The politics behind Maharaja Suheldev-Ghazi debate
+## UPSC Key: PM Modi’s France visit, Brain-eating amoeba and Assam-Nagaland pact
 
 
-## MBA vs MCom: Picking the degree that fits your career goals
+## Video: Israel strikes Beirut’s 5-storey building as US-Iran anticipate peace deal signing
 
 
-## This Rs 2,699 gadget is a Bluetooth speaker, radio, and alarm clock—but buy it for its wireless powers
+## Chinna Chinna Aasai trailer: 34 years after Roja, Madhoo in search of herself in Varanasi
 
 
-## Assam CEE 2026 provisional answer keys today at astu.ac.in: How to raise objections
+## Kunal Kamra’s jibe at Pranit More apology amid Rs 370 biryani row: ‘Stop hiding behind…’
 
 
-## FIFA to pay Omar Artan despite World Cup heartbreak
+## Haryana gets 11 additional IAS posts as Centre revises cadre strength
 
 
-## Iran agrees to not build or buy nuclear weapons under draft US peace deal: Report
+## Today News Headlines for School Assembly, June 15, 2026: DRDO flight-tests indigenous missile defence system, brain-eating amoeba cases on the rise
 
+
+## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
+Hong Kong billionaire Li Ka-shing’s flagship property developer CK Asset Holdings has sold a penthouse mansion at a luxury development in Mid-Levels in Central for HK$362 million (US$46.2 million), setting a per square foot price record for first-hand transactions this year. The 2,911 sq ft unit on 
 
 ## Demand from mainland Chinese students lifts Hong Kong rents, draws investors to flats
 Mainland Chinese students are increasingly paying a year’s rent – and sometimes much more – upfront to secure homes near Hong Kong’s universities, helping to push residential rents to record highs and drawing investors back to small flats once marketed for first-time buyers. The trend is becoming in
@@ -155,9 +161,6 @@ Hit by competition from lab-grown diamonds and declines in pricing, the natural 
 
 ## China’s Geely Auto to slash excess capacity amid overhaul to boost carmaker’s global edge
 Geely Auto, which is locked in a fierce battle for dominance against BYD in China’s crowded automotive market, has pledged to purge excess capacity through an asset restructuring while ramping up its go-global drive with an eye on greater international competitiveness. Chairman Li Shufu said during 
-
-## US blocks foreign access to Anthropic’s newest AI models over security risks
-Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to t
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -255,7 +258,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel accuses Hezbollah of ceasefire violation, issues displacement orders
+## Anticipation, pushback in Iran as mediators work to finalise deal with US
+Israel attacked Beirut again in an apparent attempt to test and derail an agreement.
+
+## Spain vs Cape Verde: World Cup – Lamine Yamal, predictions and how to watch
+Pre-tournament favourites Spain open their Group H campaign with a match against World Cup debutants Cape Verde.
+
+## World Cup 2026: Biggest takeaways from Brazil-Morocco group match
+Vinicius Junior scored a brilliant goal to dig Brazil out of trouble after Ismael Saibari had put Morocco ahead.
+
+## Israel attacks Beirut on same day Trump says Iran deal to be signed
+Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.
+
+## Israel attacks southern Beirut after alleged Hezbollah drone fire
 Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.
 
 ## Romanian president picks Liberal former mayor as PM to form new government
@@ -266,18 +281,6 @@ US says a deal to stop the war on Iran could be signed as early as Sunday. Tehra
 
 ## World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule
 The Netherlands face Japan in a must-watch game as World Cup Day 4 brings predictions, key fixtures and other headlines.
-
-## UK court to rule on Palestine Action ‘terrorist’ label: What we know
-Court of Appeal to rule whether government's proscription of action group was unlawful.
-
-## The World Cup cicada: India’s rare insect on a four-year clock
-A rare cicada emerges from the forests of Meghalaya, every four years, in time with the World Cup.
-
-## Signing of US-Iran deal not on Trump’s public schedule
-Signing of US-Iran deal not on Trump’s public schedule.
-
-## UK forces seize suspected Russian shadow fleet tanker in English Channel
-The UK Ministry of Defence says it captures the vessel Smyrtos in an operation that lasts six hours.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
