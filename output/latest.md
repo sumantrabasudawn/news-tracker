@@ -1,40 +1,43 @@
 # AION Intelligence
 
+## SpaceX shares gain for second day after blockbuster debut
+Elon Musk’s AI, satellite and rocket group climbs 19.6% further on Monday
+
+## Stocks surge as US-Iran deal ignites global rally
+Investor sentiment also helped by SpaceX’s historic initial public offering
+
+## Gavin Newsom says Trump has ordered justice department to investigate him
+California governor is considered a potential Democratic presidential candidate for 2028
+
+## Netanyahu faces domestic backlash over US-Iran deal
+Prime minister launches a fierce defence of his wartime policies, insisting the strikes on Iran had been a success
+
+## Average US petrol price falls below $4 on deal to reopen Strait of Hormuz
+As cost at the pump declines to nearly two-month low, analysts warn risk of a surge ‘has not completely disappeared’
+
+## How the US-Iran deal came together
+Mediators spent weeks working on a plan to bridge nearly half a century of hostility between Washington and Tehran
+
 ## Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021
 Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing
 
 ## Murdochs’ aversion to big buyouts meets its match in the streaming age
 Fox’s shares dip following news of $22bn acquisition of Roku
 
-## The least bad exit from Trump’s war of choice
-To ensure deal succeeds, the US president must contain Israel’s prime minister
-
 ## AI giants are learning a hard lesson about pricing power
 Anthropic, until Friday’s White House move, looked like one of the more rationally valued companies in its peer group
 
-## Met officers make arrest over notorious ‘Putney pusher’ cold case
-Assault by a jogger on a woman crossing a London bridge in 2017 provoked viral outrage
-
-## EU starts membership talks with Ukraine
-Accession process moves ahead after Hungary’s new leadership drops its veto
-
-## Stocks surge as US-Iran deal ignites global rally
-Investor sentiment also helped by SpaceX’s historic initial public offering
-
-## Brexit, 10 years on
-The UK’s vote to leave the EU helped spark a populist wave. A decade on, voters are unhappy. Is a reset coming?
-
 ## Rolls-Royce wins contract to build small nuclear reactors for Sweden
 UK firm’s SMR unit beats competition from GE Vernova Hitachi for its third major contract
-
-## SpaceX shares gain for second day after blockbuster debut
-Stock in Elon Musk’s AI, satellite and rocket group climbs 10% on Monday
 
 ## UK financial regulator gears up to levy bigger fines
 Move by FCA comes after it was forced to reduce penalties by recent court challenges
 
 ## RSM expands transatlantic alliance in battle with private equity-backed rivals
 Mexico joins US firm’s partnership with UK, Ireland and Canada to win more clients
+
+## India hikes windfall tax on diesel and ATF exports, petrol levy unchanged
+The move comes amid ongoing West Asia tensions and aims to ensure domestic fuel availability while discouraging excess exports.
 
 ## PM Modi conferred Slovakia’s highest honour, Order of the White Double Cross
 Modi expressed gratitude to the people and government of Slovakia, dedicating the honour to 140 crore Indians and highlighting strong bilateral ties
@@ -56,9 +59,6 @@ Trump linked potential sanctions relief for Iran to compliance and behaviour, no
 
 ## Siemens secures order from Titagarh Rail Systems for Pune Metro extension project
 The order includes design, manufacturing, supply and warranty of traction converters, auxiliary converters, traction motors and TCMS for 12 trainsets.
-
-## Ashok Leyland signs MoU for old truck and bus replacement scheme in Delhi-NCR, offers 8% discount
-The MoU with MoRTH marks the rollout of incentives aimed at replacing old commercial vehicles with cleaner alternatives, including electric models
 
 ## India's silver imports plunge to over three-year low in May, curbs and higher duties hit inflows
 India's silver imports plummeted by 87% in May to their lowest in over three years, following government restrictions and increased duties. This sharp decline, with imports falling to $75.57 million and volumes dropping 94%, aims to curb precious metal purchases and ease pressure on the rupee.
@@ -84,6 +84,12 @@ India and the UK are actively engaged in resolving outstanding issues to operati
 ## India launches producer price index; wholesale inflation gauge to be phased out in five years
 India has launched its first Producer Price Index (PPI) data for goods and services, marking a shift from the Wholesale Price Index (WPI) which will be phased out over five years. This move aligns with international practices and aims to provide a more accurate measure of price changes from a produc
 
+## Banks ‘casual’ with big loans, subject common borrowers to ‘borderline harassment’: SC
+The Supreme Court criticised SBI for harsh loan processing for individuals while leniently approving large loans, urging fairer practices for ordinary borrowers
+
+## UPSC releases civil services prelims 2026 results; 13,343 shortlisted for Mains
+Last year, 14,161 candidates were shortlisted for the Civil Services (Main) Examination, 2025 against 1,087 notified vacancies.
+
 ## PM Modi conferred Slovakia's highest honour, receives 33rd international award
 With this, PM Modi has received 33 international honours conferred by countries around the world.
 
@@ -102,34 +108,28 @@ The family took an alternative route suggested by Google Maps after a road near 
 ## Karnataka Minister Priyank Kharge urges RSS to register, disclose finances on its centenary
 Kharge asked why the RSS should remain exempt when citizens, labour organisations, NGOs, trusts, temples and companies are expected comply with the law.
 
-## Bangladesh PM’s adviser redflagged at Delhi airport over blacklist, flies back
-Zahed Ur Rahman was travelling on a regular passport with a SAARC visa from Bangladesh’s foreign ministry, which had not been notified to the Indian side
+## India and Slovakia elevate bilateral ties to ‘comprehensive partnership’
 
-## Why Bangladesh PM's aide was held at Delhi's IGI Airport for over two hours, sparking 'deep disappointment' in Dhaka
-The diplomat was stopped after his name was reportedly flagged on a security watchlist during routine screening.
+
+## The surprising reason a sugar-free diet may backfire
+
+
+## How World Cup debutants Cape Verde frustrated Spain for 90 minutes
+
+
+## Trump winds down the war he started with goals unmet
+
+
+## Sunita Ahuja reveals ‘sad’ truth behind 40-year marriage with Govinda; why such feelings arise
+
+
+## ‘The Voice’ in the Cape Verde goal: Vozinha, who made 7 saves against Spain
+
 
 ## ‘Deal’s all signed’: Trump says ‘no sanctions relief’ for Iran in MoU
 
 
 ## ‘Bewildered, angry, gutted, then worried’: McCullum on Ben Stokes, Atkinson after nightclub incident
-
-
-## Tiny ‘alien-like’ blue octopus discovered near Galápagos stuns scientists
-
-
-## After two failed bids, ISRO to attempt another PSLV launch by June-end, early July
-
-
-## UPSC Civil Services Prelims 2026 Results Out: 13343 candidates qualify for Mains
-
-
-## Adani, US’ Jabil to build AI data centre infrastructure platform in India
-
-
-## Out on bail, Raushan Anand links brother’s death to ‘conspiracy’, accuses Khan Sir’s guards of ‘pressuring’ him
-
-
-## Maharashtra targets July rollout for unified MMR bus plan
 
 
 ## China Evergrande liquidators seek judicial review of SFC agreement with PwC Hong Kong
@@ -156,6 +156,12 @@ The Chamber of Hong Kong Listed Companies (CHKLC) is urging Hong Kong to further
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
 Hong Kong billionaire Li Ka-shing’s flagship property developer CK Asset Holdings has sold a penthouse mansion at a luxury development in Mid-Levels in Central for HK$362 million (US$46.2 million), setting a per square foot price record for first-hand transactions this year. The 2,911 sq ft unit on 
 
+## U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
+But continued Israeli strikes on Lebanon could derail the agreement before it takes effect.
+
+## The Truce Between the U.S. and Iran Was the Easy Part
+Getting Iran to concede on key issues will be a struggle.
+
 ## Iran Hawks Side-Eye Trump’s Deal
 The president will feel criticisms from this group most keenly.
 
@@ -173,12 +179,6 @@ The virtues it extolled—cosmopolitanism and competition—led to its demise.
 
 ## The End of the U.S.-Israel Alliance
 A joint war against Iran might be its apex.
-
-## The End of Trans-Atlanticism
-As an ideology, it’s over. But the relationship is not.
-
-## The End of Climate Politics
-As the West debated a green energy future, Beijing was building it.
 
 ## Can Central Asia Speak?
 The region is not merely a corridor to somewhere else. Nor is it a prize in someone else’s contest. It is a geopolitical space – with disparate yet largely collaborative actors – in its own right.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spain held to shock draw by Cape Verde in their World Cup opener
-Lamine Yamal comes off the bench but cannot help Spain overcome World Cup debutants Cape Verde in 0-0 draw.
+## Can a social media ban protect young users?
+The UK says it's banning access to social media for those under age 16.
 
-## As deal is agreed with US, not all in Iran are convinced that peace is here
-Iranians are sceptical that a US-Iran agreement will end their hardships.
+## 7-year-old mourns father and brother killed in Israeli strike on Gaza
+7-year-old mourns father and brother killed in Israeli strike on Gaza.
 
-## Police, mourners clash over coffin of suspected Ebola victim in DRC
-Clashes have broken out between police and mourners during a funeral of a suspected Ebola victim in the DRC.
+## EU officially launches Ukraine and Moldova accession process
+Kyiv sees EU accession as a security guarantee and alignment with Western values as it defends against Russian invasion.
 
-## US visa rules leave Iraq’s World Cup fans behind
-Iraq’s fans are celebrating their country’s first World Cup qualification in over 40 years.
+## Hungarian MPs approve PM limits to block potential return of Orban
+The reform is one of the first introduced by PM Peter Magyar as he seeks to return Hungary to the EU mainstream.
 
-## Singer Oliver Tree among six killed in Brazil helicopter collision
-Two helicopters collided in Rio de Janeiro, Brazil, killing six people, including American musician Oliver Tree.
+## Trump touts Iran deal and Ukraine ambition as he arrives at G7
+Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.
 
-## Bus crash in Ethiopian mountains kills at least 31
-Ethiopia is one of the worst countries in the world for road traffic accidents and has notoriously dangerous roads.
+## Netanyahu says Israel won’t leave occupied land in Lebanon
+Israel's occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.
 
-## Mass return to southern Lebanon following US-Iran agreement
-Mass return to southern Lebanon following US-Iran agreement
+## What Israeli leaders are saying about US-Iran ‘peace deal’
+Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.
 
-## Iran vs New Zealand: World Cup team news, start, lineups and where to watch
-After uncertainty over their participation and a disrupted build-up, Iran are set to begin their World Cup campaign.
+## California Governor Newsom says US Department of Justice investigating him
+Newsom says he and wife targeted because he is considering running for president in 2028; DOJ has not confirmed probe.
 
 ## US, Iran reach deal to end war, signing set for Friday
 In a historic turnaround, the United States and Iran have reached a landmark peace agreement aimed at ending hostilities. The accord promises to lift the US blockade on Iran and will see the Strait of Hormuz reopened, a decision anticipated to bring relief to global energy markets.
