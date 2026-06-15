@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Strait of Hormuz oil backlog could take weeks to clear after US-Iran deal
-Prices slip even as analysts warn flows may be slow to recover and remain vulnerable to renewed disruption
+## Global stocks rise with ‘risk on’ rally after US-Iran deal
+Investor sentiment also helped by SpaceX’s historic initial public offering
+
+## Russia damages historic Kyiv cathedral in massive missile strike
+Firefighters seen battling flames at Unesco-listed Dormition Cathedral after Moscow’s overnight attack
 
 ## Iran and US agree deal to open Strait of Hormuz and extend ceasefire
-Leaders to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports
+Adversaries to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports
 
-## What is in the US-Iran deal?
-Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz and begin nuclear negotiations
+## China summons Walmart chain Sam’s Club over food safety issues
+US retailer has expanded rapidly in world’s second-largest economy
 
-## Trump settles for a truce of convenience with Iran
-The US president promised ‘unconditional surrender’, but the Islamic republic survived with its leverage enhanced
+## Sweden demands other EU states tackle Russian oil tankers in their waters
+Also in this newsletter: Kallas fronts up amid EEAS reform talk
 
-## MPs warned over soaring cost of delaying work on UK parliament
-Crumbling Palace of Westminster ‘in urgent need’ of repairs already estimated at £11bn, says National Audit Office
+## How SpaceX hit its $2tn valuation
+Plus, end of an era for Asia’s slickest brokerage, the US stock supply drought is over, and some striking Kapoor in London
 
-## UK consumer losses as a result of financial fraud hit 4-year high in 2025
-Figures will intensify pressure from banks for government to force tech groups to crack down on fraudulent activity
+## FirstFT: Iran and US agree Hormuz deal
+Also in today’s newsletter: Ukraine’s drone campaign and BBC job cuts
 
-## Former Labour deputy leader Roy Hattersley dies aged 93
-Yorkshire politician and writer was key figure in modernising the party after its swing to the left under Michael Foot
+## Europe’s Climate Leaders 2026: interactive listing
+Annual list highlights companies making progress on cutting carbon emissions*
 
-## FirstFT: Trump says US-Iran deal reached to reopen Strait of Hormuz and extend ceasefire
-Also in today’s newsletter: China preps digital payments system and Swiss voters reject proposal to cap population at 10mn
+## The spectacle of SpaceX trumps DCF models
+The public focused on the mission, not the multiple
 
-## Anthropic scrambles after Trump administration freezes its top AI models
-Export controls on Fable and Mythos raise doubts over how US will police the most powerful AI systems
+## Europe’s Climate Leaders
+EU climate policy rollback highlights challenge of green transition, with early movers facing uncertainty. Plus: AI promises efficiency gains, but at a cost; and the annual FT-Statista list of companies making progress in cutting carbon emissions
 
-## Badenoch courts City with call for greater risk-taking
-UK opposition leader seeks to reset relations after market turbulence under ex-prime minister Liz Truss in 2022
+## Editorial. Hanging in balance
+Capital flows may just edge up to offset higher CAD
 
-## Starmer poised to backtrack on electric vehicle targets
-Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
+## Israel pushes back against US-Iran deal, says it is not bound by agreement
+Former Defence Minister Benny Gantz also warned that any agreement limiting Israel’s military freedom would be a strategic mistake, underscoring deep divisions within the country over the reported deal
 
-## Macron to pull out the stops to keep Trump at G7 gathering
-First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
+## Deny permission for hydrocarbon wells in Cuddalore, DMK tells TN govt
+Opposition parties, environmentalists, and local fishermen raise alarms over potential ecological damage and threats to livelihoods from the proposed ₹425 crore hydrocarbon drilling project
 
-## UK intercepts Russian shadow fleet oil tanker in English Channel
-Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
+## Centre allocates ₹8,500 crore for Bengal under VB-G RAM G scheme: Adhikari
+Adhikari made the announcement while launching the state-wide 'Jan Kalyan Shivir' programme from Nandigram in Purba Medinipur district.
 
-## Electrification jumps up corporate agenda after energy crisis, survey finds
-Security and cost concerns elevate business push for overhaul of power systems
-
-## Why these 8 pharma and healthcare stocks will be in focus on Monday
-Pharma and healthcare stocks are likely to remain in focus on Monday as companies announce key developments, including new drug launches, regulatory updates, strategic partnerships and expansion plans
-
-## Sensex today | Stock Market Live: Stock to buy today: Kotak Mahindra Bank
-Sensex, Nifty, Share Prices LIVE: The stock of Kotak Mahindra Bank has been rallying since early April as it found support at ₹350. Last week, it extended the uptrend and posted a gain of nearly 7 per cent. Consequently, it made a higher high and also broke out of resistance levels at ₹393 and ₹400,
-
-## Iran war deal may ease oil crisis, but energy supply recovery could take months
-Experts say restoring global energy flows will be a slow process, with production restarts, tanker movements and insurance approvals likely taking months
-
-## PM Modi arrives in Slovakia for second leg of two-nation visit
-Modi is set to hold talks with Slovak President Peter Pellegrini and Prime Minister Robert Fico, focusing on trade, investment, technology and bilateral cooperation.
-
-## UK, France, Germany and Italy support Iran deal with nuclear conditions
-The European nations welcomed the reported US-Iran agreement while stressing that Iran must not acquire nuclear weapons
+## Sensex today | Stock Market Live: Sensex jumps over 1,100 points, Nifty nears 24,000; rupee surges on Iran-US deal hopes
+Sensex, Nifty, Share Prices LIVE: Indian equities surged in early trade on Monday, tracking global relief after Iran-US deal reports and easing crude prices. Sensex rose 1,110 points, Nifty neared 24,000, while the rupee strengthened sharply as investors cheered improved risk sentiment and expected 
 
 ## US, Iran reach deal to end war, signing ceremony set in Switzerland on Friday
 Under the reported agreement, both sides would halt military action, reopen the Strait of Hormuz, and begin a new phase of discussions focused on Iran’s nuclear programme.
 
-## Dollar falls to 10-day low after US-Iran peace deal
-The euro, sterling and Australian dollar strengthened, though markets remained cautious over the pace of the deal’s implementation and the reopening of the Strait of Hormuz
+## Trump heads to France amid past tensions with G7 leaders
+The three-day meeting in the French Alps comes amid talks on the Iran conflict, China trade policy and the Russia-Ukraine war, underscoring rising diplomatic tensions among allies.
 
-## Oil prices drop over 4% as US-Iran ceasefire deal lifts market hopes
-Brent crude and US West Texas Intermediate prices declined as markets reacted to expectations of improved energy supply stability.
+## Wholesale price inflation rises to 9.68% in May
+The first print of the revised series with 2022-23 as the base year reflects the impact of the West Asia crisis and its spill-over effect on food prices
+
+## Stocks to buy: What's the outlook for Nifty for June 15-June 19 week? Check list of top stock recommendations
+Stock market recommendations: Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities has picked Karnataka Bank, Avalon Technologies as the stocks to buy in the June 15-June 19, 2026 week. Outlook on Nifty50 and Bank Nifty has also been shared:
+
+## US-Iran peace deal lifts markets: Asian stocks soar, dollar slides to June 5 low, oil tumbles & gold jumps 2%
+Global markets surged as the US and Iran announced a framework agreement to end their conflict, leading to hopes of lower energy prices and easing inflation. The Strait of Hormuz reopened, causing oil prices to tumble and boosting investor appetite for riskier assets. Asian equities rallied signific
+
+## Top stocks to buy: Stock recommendations for June 15, 2026 week - check list
+Stock market recommendations: Privi Speciality Chemicals, and Cummins India have been selected as the top stocks to buy for the week starting June 15, 2026 by Motilal Oswal Wealth Management Research Desk:
+
+## Gold, Silver Rate Today Live Updates: International gold, silver prices surge on US-Iran peace deal signing hopes
+
+
+## Stock Market Live Updates Today: BSE Sensex, Nifty50 see positive start on as Trump announces US-Iran peace deal; crude oil prices plunge
+
+
+## Oil prices tumble 4% as Trump announces US-Iran deal, Hormuz reopening; Brent falls below $85
+Oil prices plummeted as President Trump declared the Iran deal finalised, announcing the immediate, toll-free reopening of the Strait of Hormuz. This move eases fears of energy supply disruptions, with Brent crude and WTI futures seeing significant drops. The breakthrough follows intensive diplomati
 
 ## Is India’s AI moment here? Not yet
 At a time when two US AI startups Anthropic and OpenAI are heading towards public listings estimated to be worth several billion dollars, India is barely scratching the surface. For the first time since at least 2000, local companies are understood to be out of the top 10 constituents of the MSCI Em
@@ -72,74 +78,65 @@ At a time when two US AI startups Anthropic and OpenAI are heading towards publi
 ## ‘Success of big ticket IPOs could mean market peak is near’
 ​Now Dow Jones, Nasdaq Composite and S&, all are in record territories. SpaceX is already listed with a market cap of about $2 trillion and OpenAI and Anthropic are looking for valuations in the range of $1 trillion to $2 trillion each. “My best guess is that when (all) these companies successfully 
 
-## West Asia uncertainty, oil & gold imports hurt Rupee: FM Sitharaman
-Finance minister Nirmala Sitharaman said it’s not only the rupee that’s under pressure, as currencies such as the Japanese Yen and the Korean Won had also fallen sharply against the dollar. The minister said the more significant challenge was persistent uncertainty in West Asia, while imports of cru
+## Farmer dies after being thrashed, run over by tractor in Chhattisgarh; 8 held
+Farmer dies after being thrashed, run over by tractor in Chhattisgarh; 8 held
 
-## Currentvaluations of AI stocks a bubble: CEA
-According to the CEA, some companies are presenting AI as a tool that could sharply reduce labour costs and boost profits, creating anxiety among workers and new graduates. “They want to tell the capital owners, you will be rewarded in the process. They have induced a fear in the minds of labour,” h
+## What we envisioned is now reality, say farmers who gave land for Noida International Airport
+The inaugural journey was made special by the passengers on board—farmers from the Jewar region whose land was used to build the airport.
 
-## Skilled blue-collar talent in demand amid AI surge
-“Every AI breakthrough has a physical backbone — power grids need an upgrade, cooling systems must be built, and factories increasingly need to be automated. Behind every intelligent machine, highly specialised human expertise is required,” Viswanath P S, MD & CEO, Randstad India, said. Terming it a
+## Commercial ops begin at Noida airport; inaugural flights to, from Lko, Blr
+The 137,985 square metre Noida International Airport is the second such international facility in the National Capital Region and includes a cargo hub
 
-## Panel to examine metrics as labour market evolves
-“The committee shall, inter alia, examine the concepts, definitions, classifications, sampling and measurement frameworks adopted in labour statistics, particularly in the context of the Periodic Labour Force Survey (PLFS),” the terms of reference of the newly formed committee read. It will also rev
+## Anti-defection law: Why 20 Trinamool leaders joining a party with no MPs is a constitutional puzzle
+Twenty rebel TMC MPs have claimed a merger with a little-known party, triggering a fresh legal battle over the anti-defection law's merger exception.
 
-## KKR: Leveraged deals from 2021, treasuries to feel pressure
+## Macron's 'Dhurandhar' style welcome video for PM Modi's France visit
+The latest post is not the first time Macron has turned to Indian popular culture in his social media outreach.
 
+## ‘It was his dream to serve in IAF’: Mothers mourn loss of sons killed in Jorhat plane crash
+The exact cause of the accident has not yet been determined. Air Force officials said an investigation is under way to find out what led to the crash.
 
-## India seeks French investment in manufacturing; Piyush Goyal pitches scale and talent
-Commerce and Industry Minister Piyush Goyal urged French companies to invest in India's manufacturing sector, highlighting the nation as a reliable partner offering scale, talent, and innovation. Speaking at the 'Bharat Innovates' event, Goyal emphasized India's potential as both a large domestic ma
+## TMC crisis LIVE: NCPI leader was unaware of merger with 20 TMC rebels, found out from social media
+TMC crisis LIVE: Shantanu Dey, founder and National Organising Secretary of the Nationalist Citizens Party of India (NCPI), said he learnt about the merger of 20 rebel TMC MPs with the party through social media and news reports.
 
-## Narrow spaces, mesh of wires: The unaddressed cost of flawed planning in Delhi
-In this 4-part series, HT looks at how decades of planning failures, illegal construction and weak enforcement combined to create it vulnerable to tragedies.
+## Delhi braces for more rain; IMD issues red alert for parts of capital
+The red alert was issued for north, northwest, northeast, central, east, and parts of southeast, west, and New Delhi, along with all of Shahadara.
 
-## Naxalbari | Marx, Mao, Majumdar and a town that birthed insurgency
-In Naxalbari, the cluster of red sandstone statues of the Left icons stands by the roadside, the only few visible reminders of a history etched in blood.
-
-## ‘Grave lapse’, says Kerala CM after three VCs attend RSS chief Bhagwat’s lecture
-Kerala CM VD Satheesan condemned three vice-chancellors for attending an RSS event, calling it a grave lapse and urging them to apologize.
-
-## Building in Delhi's Tughlakabad set ablaze on purpose over ₹50,000 debt; 3 held
-The teenager has been apprehended and three adults arrested — a 27-year-old woman, Sarita, and two brothers, Niranjan, 33, and Rajkumar, 27.
-
-## B’luru: 22-yr-old Sikkim woman killed by partner
-A 22-year-old woman in Bengaluru was allegedly murdered by her boyfriend over a dispute; he was arrested after fleeing the scene, police reported.
-
-## Delhi weather: Some rain and cloudy skies this week, but temperature to soar to 44°C, says IMD
-Thunderstorms are also forecast for Tuesday afternoon, with partially cloudy skies expected to remain most of the week.
-
-## Three held for murder in Ballari
-A couple and the woman's brother in Ballari were arrested for the murder of a man who harassed the woman, whose body was found burnt near a canal.
-
-## 20 TMC MPs merge with little-known Tripura party
-The merger, if approved, will increase the NDA’s strength from 294 to 314 in the Lok Sabha, still short of 46 seats to secure a two-thirds majority in the Lower House.
-
-## Six years after Galwan: A militarised LAC, a redefined relationship
+## Ram Charan and Upasana celebrate 14th wedding anniversary, share first glimpse of twins
 
 
-## As TMC rebels make headlines, ‘absent’ MPs fuel split buzz in Uddhav Sena
+## Lagaan and Gadar clash that defied Bollywood logic, turned rivals into Rs 198 cr history
 
 
-## Why Trinamool’s rebel MPs merged with NCPI, a little-known party
+## ‘Contract said I had to talk against Salman Khan’: Actor said he quit Kala Hiran after 2 days
 
 
-## Ritabrata Banerjee eyes complete takeover of TMC: ‘Civic bodies, district units next’
+## Japan head coach the latest addition in list of World Cup social media sensations
 
 
-## ‘Went hungry for two days’: How the LPG price spike paralysed India’s biggest container port
+## IIT Kanpur, IIM Bangalore alumnus Prof Rishikesha Krishnan takes over as Ashoka University’s VC
 
 
-## India A vs Sri Lanka A Live Score, Tri Series 2026: All eyes on Sooryavanshi as IND A take on SL A
+## ‘Trump’s agreement doesn’t bind us’: Israel Minister defies US-Iran deal, vows no withdrawal from captured Lebanon territory
 
 
-## In NCERT’s Art textbook, ‘Dancing Girl’ covered up
+## Cat wanders onstage during ‘Romeo and Juliet’ finale in Turkey, paws at ‘lifeless’ actor’s hair
 
 
-## Explained: How low pressure, ageing pipes, and leaks contaminate Delhi’s water
+## Russian strikes hit Kyiv’s UNESCO monastery after Zelensky-Trump call
 
 
-## Hong Kong stocks rally after US says it reaches deal with Iran over oil flow
-Hong Kong stocks kicked off the week’s trading on a strong note on Monday after the US said that it sealed a deal with Iran to reopen the Strait of Hormuz and lift the blockade by the US Navy, sparking a “risk-on” mode across asset classes. The Hang Seng Index rose 0.8 per cent to 24,919.40 as of 9.
+## Hong Kong developer Lai Sun seeks note swap in bid to ease liquidity pressure
+Hong Kong developer Lai Sun Development, chaired by businessman Peter Lam Kin-ngok, who also chairs the city’s Tourism Board, has launched an exchange offer for its outstanding US$493 million worth of 5 per cent guaranteed notes due July 2026, in an effort to relieve short-term liquidity pressures, 
+
+## AI and global connectivity key to prosperity in an age of change
+Rapid technological advances and the ever-changing geopolitical landscape and trade relations between nations are transforming economies around the world – while creating unprecedented opportunities and challenges for businesses and investors. These changes – and their implications for markets, publ
+
+## HSBC, Hang Seng mobile apps partly restored after glitches lock out Hong Kong customers
+HSBC and its subsidiary Hang Seng Bank had resumed mobile phone service operations by lunchtime Monday after an earlier outage had locked customers out, but some online services were still temporarily unavailable, according to messages posted on the two lenders’ apps. HSBC, the biggest lender in the
+
+## Hong Kong, mainland China stocks surge as US-Iran deal drives crude to 3-month low
+Hong Kong stocks kicked off the week’s trading on a strong note on Monday after the US said that it sealed a deal with Iran to reopen the Strait of Hormuz and lift the US Navy blockade, sparking “risk-on” sentiment across asset classes. The Hang Seng Index rose 0.5 per cent to 24,840.37 as of 10.34a
 
 ## Abu Dhabi to tap Chinese tech to scale up green economy, energy chief says
 The Abu Dhabi government is fast-tracking its push to extensively tap into China’s technologies, from renewable energy and electric vehicles (EVs) to robotics, as it pursues a greener economy, according to its energy chief. Abdulla Humaid Al Jarwan, chairman of the Abu Dhabi department of energy, to
@@ -153,38 +150,38 @@ Hong Kong billionaire Li Ka-shing’s flagship property developer CK Asset Holdi
 ## Demand from mainland Chinese students lifts Hong Kong rents, draws investors to flats
 Mainland Chinese students are increasingly paying a year’s rent – and sometimes much more – upfront to secure homes near Hong Kong’s universities, helping to push residential rents to record highs and drawing investors back to small flats once marketed for first-time buyers. The trend is becoming in
 
-## Hong Kong commercial landlords may bet on investment to curb tenant loss from AI: analysts
-Hong Kong’s older office assets and their struggling landlords could face more challenges as the wider adoption of artificial intelligence (AI) by firms in the city leads companies to relocate to newer buildings that better support their requirements, according to real estate consultancy Knight Fran
+## Introducing the Summer 2026 Print Issue
+The end of the world as we know it.
 
-## From stadium seats to hotel suites, World Cup fever sweeps Chinese travellers
-Sarah Li, from eastern Jiangsu province, said her son – a devoted Cristiano Ronaldo fan – had just completed China’s gaokao, the national university entrance examination. To celebrate the milestone, the family will travel to Houston later this month to watch Portugal take on Uzbekistan in a World Cu
+## The End of Neoliberalism
+The virtues it extolled—cosmopolitanism and competition—led to its demise.
 
-## European wealth turns to Hong Kong as 30 family offices eye operations in the city
-Around 30 European family offices have expressed interest in establishing operations in Hong Kong, drawn by the city’s tax incentives and growing optimism about the prospects for China’s technology sector and Hong Kong’s property market, according to InvestHK and industry participants. Jason Fong, I
+## The End of the U.S.-Israel Alliance
+A joint war against Iran might be its apex.
 
-## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
-He promised Israelis “total victory” but has fallen short on three fronts.
+## The End of Trans-Atlanticism
+As an ideology, it’s over. But the relationship is not.
 
-## Trump’s Big Weekend Could Derail the G-7
-With or without a deal, the Iran war looms large over the three-day leaders’ summit.
+## The End of Climate Politics
+As the West debated a green energy future, Beijing was building it.
 
-## How South Africa’s Myopia Is Harming the Entire Continent
-Xenophobia in Africa’s southernmost nation will have vast implications.
+## The End of the United Nations
+To its most powerful member, it is worth more alive than dead.
 
-## The Aliens Aren’t the Most Unbelievable Part of Steven Spielberg’s New Movie
-Would even extraterrestrials inspire humanity to unite these days?
+## The End of Asylum
+States across the global north are shutting their doors permanently.
 
-## Russia, Land of the Unpredictable Past
-A new censorship law restricts what Russians were ever allowed to have sung, written, or published.
+## The End of Political Parties
+They are hardly prepared for the new system.
 
-## What in the World?
-Test yourself on the week of June 6: Peru’s presidential race heads for a photo finish, Xi Jinping visits North Korea, and the World Cup kicks off.
+## Vietnamese Police Disrupt Online Scam Operations Relocating From Cambodia
+As Phnom Penh cracks down on cyber-fraud operations, Chinese criminal syndicates are hastily seeking out more accommodating jurisdictions.
 
-## Trump Is Shattering the Illusion of the West
-The president’s turn to imperial civilizationalism is destroying what it claims to defend.
+## Georgia’s Upgraded Partnership With China: A Louder Signal, An Empty Promise
+The new "comprehensive strategic partnership" between Tbilisi and Beijing tells us more about Georgian Dream's political anxieties than about any genuine deepening of bilateral ties.
 
-## How Best to Look at Russian History
-A new book shows the uses and limits of microhistories in understanding the past.
+## Breaking Down the State of Play in Sino-North Korean Ties
+The Xi administration has been slow to adapt to its ally’s developments, and this summit represented an attempt to reset relations.
 
 ## As Cambodia Cracks Down, Cyberscam Networks Test Sri Lanka
 What happens next will determine whether the island is a temporary refuge for foreign cybercriminals or becomes part of Asia’s cybercrime infrastructure.
@@ -200,15 +197,6 @@ The ongoing conflict between the two member states is a direct challenge to the 
 
 ## The Yuan’s Quiet Advance on Commodity Pricing
 A miner paid in yuan has a reason to borrow in yuan, and a miner indebted in yuan has a reason to price in it.
-
-## AUKUS After AUKMIN: The Test Beyond Washington
-While the U.S. remains the dominant partner in AUKUS, closer collaboration between Canberra and London will be vital to its success.
-
-## Xi’s Summit with Kim: Views from the Neighborhood
-By keeping neighbors guessing about his intentions and avoiding any concessions, it is Kim who appears to have gained the most from the Chinese leader's visit.
-
-## Three Characteristics of China’s Criticism of the Takaichi Administration
-Beijing’s campaign against Tokyo is unlike anything seen before.
 
 ## The Gulf Arab States Need a Shield Built for Limited Trust
 Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re
@@ -258,29 +246,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump allies cheer Iran deal announcement as Democrats call for clarity
-US and Iran say memorandum to be signed on Friday, but no official terms yet released.
+## Global relief as Iran, US sign deal to end war
+Pakistan, Qatar applaud agreement as a step towards peace and lasting tranquillity in the region.
 
-## Zimbabwe’s climate migrants fear eviction as crackdown intensifies
-Many settled in Zimbabwe’s fertile Eastern Highlands after drought left their home areas unable to support farming.
+## Starbucks Korea to shut stores for history lessons after ‘Tank Day’ furore
+Coffee chain to hold 'historical awareness' training after backlash to ad campaign that evoked 1980 military crackdown.
 
-## Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game
-Striker Mehdi Taremi says US travel policies are dampening the usual joy that the football tournament ignites.
+## Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts
+World welcomes US-Iran agreement as Trump says Strait of Hormuz to reopen on Friday when deal is signed.
 
-## Stock markets soar, oil falls as US, Iran confirm deal to end war
-Asian stock markets surge as Washington and Tehran announce agreement to end hostiles and reopen Strait of Hormuz.
+## World Cup: Iranians in Los Angeles divided on whether to cheer or jeer Iran
+US host city braces for protests near stadium as Iran prepares to start its World Cup campaign against New Zealand.
 
-## Claims Israel’s Beirut strike pushed Trump on Iran announcement
-US diplomat Alan Eyre says despite the US-Iran ceasefire announcement, there is no deal until it has been formalised.
+## Can you spend $1 trillion? We hand you Musk’s fortune to find out
+Elon Musk just became the world's first trillionaire. We break down what $1 trillion can buy across 35 categories.
 
-## World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism
-'There's no such thing as an unimportant World Cup match,' 13 World Cup participant nations say in a statement.
+## Gaethje shocks Topuria to win UFC lightweight title at White House event
+In perhaps the biggest upset in UFC history, ‌Gaethje becomes champion after Topuria's corner stops fight.
 
-## BREAKING: US, Iran announce ceasefire agreement
-US President Donald Trump has announced a ceasefire agreement with Iran.
+## Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?
+The 22-year-old scored two goals against Tunisia but had muted celebrations against the country of his father's birth.
 
-## US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening
-Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.
+## ‘Looked so real’: How AI is being weaponised against India’s Muslim women
+Experts say a trend is reshaping online harassment: the use of AI to generate sexualised imagery of Muslim women.
+
+## US, Iran reach deal to end war, signing set for Friday
+In a historic turnaround, the United States and Iran have reached a landmark peace agreement aimed at ending hostilities. The accord promises to lift the US blockade on Iran and will see the Strait of Hormuz reopened, a decision anticipated to bring relief to global energy markets.
+
+## Fable 5 shock puts sovereign AI back on India’s agenda
+US export controls on advanced AI models have spurred India's call for sovereign AI development. Industry leaders warn against reliance on foreign providers, urging a national mission for indigenous AI capabilities, similar to UPI and Aadhaar, to secure India's technological future and support local
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
@@ -300,11 +294,11 @@ With experience spanning retail, consumer goods and e-commerce, Gupta's appointm
 ## India's corporate profit-to-GDP ratio hits all-time high of 5.2% in FY26, Nifty-500 profits nearly double in four years: Report
 Indian companies have achieved record profits. The corporate profit-to-GDP ratio for Nifty-500 firms hit an all-time high of 5.2 percent in FY26. Profits have nearly doubled in four years, significantly outpacing economic growth. This trend is expected to continue in FY27, though global commodity pr
 
-## Federal Bank eyes growth through credit cards, higher-yield assets and 100 new branches; ECL implementation on track: CFO
-Manikandan M says the bank has built ECL models and data sets ahead of the RBI's Expected Credit Loss framework, while focusing on CASA growth, margin expansion, fee income and wealth management.
+## India looking to scale up local AI infrastructure; NITI to review
+The Indian government is developing a strategy for domestically controlled AI infrastructure to enhance AI adoption in governance and cultivate skilled talent. NITI Aayog is identifying ecosystem gaps and recommending measures to bolster India's independent AI development and deployment capabilities
 
-## Indian CFOs remain Asia-Pacific's most optimistic despite Middle East conflict
-Indian chief financial officers remain the most optimistic in Asia Pacific about their businesses and the domestic economy despite escalating geopolitical tensions in the Middle East, although most expect the conflict to negatively affect economic activity and corporate performance, according to the
+## Govt said to accept tweaks to Securities Markets Code draft
+The government has accepted significant changes to the proposed Securities Markets Code. Investigation timelines will be extended to one year. Depositories will gain powers to correct records. The Centre's authority to supersede market infrastructure institution boards will now require Sebi's recomm
 
 ## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
 The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
@@ -320,10 +314,4 @@ The government is considering selling up to a 2% stake in Hindustan Zinc Ltd., a
 
 ## RBI MPC Meeting 2026: Sanjay Malhotra & co warn weak monsoon could stir food inflation despite price stability
 RBI monetary policy meeting: India's monsoon season is critical for farms and prices. A weak monsoon could impact crop yields and raise food costs. The Reserve Bank of India is watching weather closely. Inflation has already risen slightly. Experts warn of price pressures from rain, energy, and curr
-
-## RBI keeps repo rate unchanged at 5.25%; MPC retains neutral stance amid global uncertainties
-The Reserve Bank of India on Friday left the repo rate unchanged at 5.25 per cent and retained its neutral policy stance, while lowering its FY27 growth forecast to 6.6 per cent and projecting inflation at 5.1 per cent amid escalating geopolitical tensions, rising energy prices and mounting global u
-
-## Parliamentary Finance panel concerned over slow private investment despite substantial surge in public capex
-Parliamentary panel on finance raises concern over private investment not keeping pace with government capex, with Standing Committee on Finance Chairman Bhartruhari Mahtab on Thursday saying the issue remains a key challenge for the Indian economy even as public capital expenditure continues to ris
 
