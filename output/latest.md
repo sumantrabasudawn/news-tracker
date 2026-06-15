@@ -1,22 +1,28 @@
 # AION Intelligence
 
+## US billionaire owners of Crystal Palace explore sale
+South London football club is enjoying its most successful ever period
+
+## Gavin Newsom says Trump has ordered justice department to investigate him
+California governor is considered a potential Democratic presidential candidate for 2028
+
+## FirstFT: US-Iran deal sparks global rally
+Also in today’s newsletter: Starbucks Korea’s ‘Tank Day’ scandal and China summons Sam’s Club over food safety issues
+
+## EU starts membership talks with Ukraine
+Accession process moves ahead after Hungary’s new leadership drops its veto
+
+## ConocoPhillips set to sign deal with Syria to revive gas production
+Agreement will be first by a US energy major with Damascus as it aims to rebuild activity after years of civil war
+
+## Trump administration considers $300bn fund for Iran if deal is upheld
+Incentives would be tied to Tehran’s ‘performance’ including over opening of the Strait of Hormuz and nuclear talks
+
 ## SpaceX shares gain for second day after blockbuster debut
 Elon Musk’s AI, satellite and rocket group climbs 19.6% further on Monday
 
 ## Stocks surge as US-Iran deal ignites global rally
 Investor sentiment also helped by SpaceX’s historic initial public offering
-
-## Gavin Newsom says Trump has ordered justice department to investigate him
-California governor is considered a potential Democratic presidential candidate for 2028
-
-## Netanyahu faces domestic backlash over US-Iran deal
-Prime minister launches a fierce defence of his wartime policies, insisting the strikes on Iran had been a success
-
-## Average US petrol price falls below $4 on deal to reopen Strait of Hormuz
-As cost at the pump declines to nearly two-month low, analysts warn risk of a surge ‘has not completely disappeared’
-
-## How the US-Iran deal came together
-Mediators spent weeks working on a plan to bridge nearly half a century of hostility between Washington and Tehran
 
 ## Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021
 Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing
@@ -29,12 +35,6 @@ Anthropic, until Friday’s White House move, looked like one of the more ration
 
 ## Rolls-Royce wins contract to build small nuclear reactors for Sweden
 UK firm’s SMR unit beats competition from GE Vernova Hitachi for its third major contract
-
-## UK financial regulator gears up to levy bigger fines
-Move by FCA comes after it was forced to reduce penalties by recent court challenges
-
-## RSM expands transatlantic alliance in battle with private equity-backed rivals
-Mexico joins US firm’s partnership with UK, Ireland and Canada to win more clients
 
 ## India hikes windfall tax on diesel and ATF exports, petrol levy unchanged
 The move comes amid ongoing West Asia tensions and aims to ensure domestic fuel availability while discouraging excess exports.
@@ -108,29 +108,32 @@ The family took an alternative route suggested by Google Maps after a road near 
 ## Karnataka Minister Priyank Kharge urges RSS to register, disclose finances on its centenary
 Kharge asked why the RSS should remain exempt when citizens, labour organisations, NGOs, trusts, temples and companies are expected comply with the law.
 
+## 8 feared dead as US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base
+
+
+## Revenge linked to Tughlakabad fire: Accused ‘recced’ house hours before 3 killed
+
+
+## Hybrid vehicles, charging infra: What experts from IIT said on Delhi EV policy 2.0 draft
+
+
+## Horizon year for Delhi Master Plan may change from 2041 to 2047
+
+
+## Delhi Confidential: Fresh Salvo
+
+
+## FIFA World Cup 2026, Iran vs New Zealand Live Score: Iran to play WC opener today on US soil
+
+
 ## India and Slovakia elevate bilateral ties to ‘comprehensive partnership’
 
 
 ## The surprising reason a sugar-free diet may backfire
 
 
-## How World Cup debutants Cape Verde frustrated Spain for 90 minutes
-
-
-## Trump winds down the war he started with goals unmet
-
-
-## Sunita Ahuja reveals ‘sad’ truth behind 40-year marriage with Govinda; why such feelings arise
-
-
-## ‘The Voice’ in the Cape Verde goal: Vozinha, who made 7 saves against Spain
-
-
-## ‘Deal’s all signed’: Trump says ‘no sanctions relief’ for Iran in MoU
-
-
-## ‘Bewildered, angry, gutted, then worried’: McCullum on Ben Stokes, Atkinson after nightclub incident
-
+## How to ride out Hong Kong’s US$274 billion lock-up expiry wave hitting stocks this year
+Investors will soon need to contend with a side effect of Hong Kong’s initial public offering (IPO) boom over the past year, as an unprecedented number of shares are expected to flood the market once lock-up restrictions expire. Over the next 12 months, shares worth US$274 billion could potentially 
 
 ## China Evergrande liquidators seek judicial review of SFC agreement with PwC Hong Kong
 The liquidators of China Evergrande Group are in a legal battle with the city’s market regulator over its settlement agreement with PricewaterhouseCoopers (PwC) Hong Kong, claiming that the agreement leaves creditors HK$1 billion (US$128 million) worse off, according to a court document released on 
@@ -152,9 +155,6 @@ The Abu Dhabi government is fast-tracking its push to extensively tap into China
 
 ## Lower bar to entry for innovative companies to list in Hong Kong, chamber says
 The Chamber of Hong Kong Listed Companies (CHKLC) is urging Hong Kong to further lower the bar for innovative companies to go public in the city, so as to encourage more technology firms to raise funds here, according to the chamber’s chairman. The Hong Kong Exchanges and Clearing (HKEX) unveiled it
-
-## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
-Hong Kong billionaire Li Ka-shing’s flagship property developer CK Asset Holdings has sold a penthouse mansion at a luxury development in Mid-Levels in Central for HK$362 million (US$46.2 million), setting a per square foot price record for first-hand transactions this year. The 2,911 sq ft unit on 
 
 ## U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
 But continued Israeli strikes on Lebanon could derail the agreement before it takes effect.
@@ -180,6 +180,9 @@ The virtues it extolled—cosmopolitanism and competition—led to its demise.
 ## The End of the U.S.-Israel Alliance
 A joint war against Iran might be its apex.
 
+## How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance
+The strategic goal for most countries is energy systems that are affordable and cannot be blocked or held hostage. For Taiwan, the stakes are particularly high.
+
 ## Can Central Asia Speak?
 The region is not merely a corridor to somewhere else. Nor is it a prize in someone else’s contest. It is a geopolitical space – with disparate yet largely collaborative actors – in its own right.
 
@@ -200,9 +203,6 @@ Recent survey data suggest that many Taiwanese fear that Taiwan’s interests co
 
 ## Breaking Afghanistan’s Hydro-Political Trap
 Since its neighbors rely on unregulated river flows, any unilateral Afghan attempt to develop water infrastructure is perceived as a threat, risking regional destabilization.
-
-## Who Is Asim Munir, Trump’s ‘Favorite Field Marshal’?
-He's the main driving force behind Pakistan’s image overhaul and at the forefront of Pakistan’s mediation in the Iran crisis. But who, exactly, is Asim Munir?
 
 ## Can Bankova Muster Political Will to Make Institutional Reforms During War?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Journalist hit by Israeli strike while reporting in Lebanon
+A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.
+
+## Egypt draw 1–1 with Belgium at World Cup group game
+Emam Ashour's first international goal gave Egypt the lead, before veteran Romelu Lukaku forced an own goal to equalise.
+
+## Iran vs New Zealand live: World Cup 2026
+Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.
+
 ## Can a social media ban protect young users?
 The UK says it's banning access to social media for those under age 16.
 
@@ -266,15 +275,6 @@ The reform is one of the first introduced by PM Peter Magyar as he seeks to retu
 
 ## Trump touts Iran deal and Ukraine ambition as he arrives at G7
 Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.
-
-## Netanyahu says Israel won’t leave occupied land in Lebanon
-Israel's occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.
-
-## What Israeli leaders are saying about US-Iran ‘peace deal’
-Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.
-
-## California Governor Newsom says US Department of Justice investigating him
-Newsom says he and wife targeted because he is considering running for president in 2028; DOJ has not confirmed probe.
 
 ## US, Iran reach deal to end war, signing set for Friday
 In a historic turnaround, the United States and Iran have reached a landmark peace agreement aimed at ending hostilities. The accord promises to lift the US blockade on Iran and will see the Strait of Hormuz reopened, a decision anticipated to bring relief to global energy markets.
