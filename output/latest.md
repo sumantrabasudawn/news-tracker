@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## Strait of Hormuz oil backlog could take weeks to clear after US-Iran deal
+Prices slip even as analysts warn flows may be slow to recover and remain vulnerable to renewed disruption
+
 ## Iran and US agree deal to open Strait of Hormuz and extend ceasefire
 Leaders to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports
+
+## What is in the US-Iran deal?
+Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz and begin nuclear negotiations
+
+## Trump settles for a truce of convenience with Iran
+The US president promised ‘unconditional surrender’, but the Islamic republic survived with its leverage enhanced
+
+## MPs warned over soaring cost of delaying work on UK parliament
+Crumbling Palace of Westminster ‘in urgent need’ of repairs already estimated at £11bn, says National Audit Office
+
+## UK consumer losses as a result of financial fraud hit 4-year high in 2025
+Figures will intensify pressure from banks for government to force tech groups to crack down on fraudulent activity
 
 ## Former Labour deputy leader Roy Hattersley dies aged 93
 Yorkshire politician and writer was key figure in modernising the party after its swing to the left under Michael Foot
@@ -9,23 +24,17 @@ Yorkshire politician and writer was key figure in modernising the party after it
 ## FirstFT: Trump says US-Iran deal reached to reopen Strait of Hormuz and extend ceasefire
 Also in today’s newsletter: China preps digital payments system and Swiss voters reject proposal to cap population at 10mn
 
-## Starmer to announce Australia-style social media ban for teenagers
-PM set to announce that he will ban younger teenagers from some social media platforms and curb their daily use
-
-## Trump tells Israel and Hizbollah to ‘stand down’ as he pushes for Iran deal
-US president has said he expects Washington and Tehran to seal a deal to reopen the Strait of Hormuz on Sunday
+## Anthropic scrambles after Trump administration freezes its top AI models
+Export controls on Fable and Mythos raise doubts over how US will police the most powerful AI systems
 
 ## Badenoch courts City with call for greater risk-taking
 UK opposition leader seeks to reset relations after market turbulence under ex-prime minister Liz Truss in 2022
 
-## Macron to pull out the stops to keep Trump at G7 gathering
-First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
-
-## Underfunded and under fire: the crises facing Northern Ireland’s police
-Service already under scrutiny for failing to attract enough Catholics and a culture of institutional misogyny before this week’s riots
-
 ## Starmer poised to backtrack on electric vehicle targets
 Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses
+
+## Macron to pull out the stops to keep Trump at G7 gathering
+First rich nations summit since Iran war launched, a make-or-break British by-election, Warsh chairs his first FOMC meeting
 
 ## UK intercepts Russian shadow fleet oil tanker in English Channel
 Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war
@@ -33,112 +42,109 @@ Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp
 ## Electrification jumps up corporate agenda after energy crisis, survey finds
 Security and cost concerns elevate business push for overhaul of power systems
 
-## Wall Street digests record fundraising haul as AI race intensifies
-SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance
+## Why these 8 pharma and healthcare stocks will be in focus on Monday
+Pharma and healthcare stocks are likely to remain in focus on Monday as companies announce key developments, including new drug launches, regulatory updates, strategic partnerships and expansion plans
 
-## Bridgepoint weighs $1bn sale of anti-drone group guarding World Cup sites
-Danish company MyDefence has already drawn buyout and defence sector interest as demand surges for counter-UAV kit
+## Sensex today | Stock Market Live: Stock to buy today: Kotak Mahindra Bank
+Sensex, Nifty, Share Prices LIVE: The stock of Kotak Mahindra Bank has been rallying since early April as it found support at ₹350. Last week, it extended the uptrend and posted a gain of nearly 7 per cent. Consequently, it made a higher high and also broke out of resistance levels at ₹393 and ₹400,
 
-## Germany seeks Deutsche Börse exemption from EU supervision
-Stock exchange would have option to remain under domestic authority as part of new EU markets regime
+## Iran war deal may ease oil crisis, but energy supply recovery could take months
+Experts say restoring global energy flows will be a slow process, with production restarts, tanker movements and insurance approvals likely taking months
 
-## Rebel faction of 20 Trinamool Congress MPs decide to merge with Tripura-based Nationalist Citizens Party, meet Lok Sabha Speaker Om Birla
-The rebel Trinamool Congress MPs met Lok Sabha Speaker Om Birla and conveyed their decision to him. The group requested separate seating arrangements in Parliament.
+## PM Modi arrives in Slovakia for second leg of two-nation visit
+Modi is set to hold talks with Slovak President Peter Pellegrini and Prime Minister Robert Fico, focusing on trade, investment, technology and bilateral cooperation.
 
-## Editorial. Hanging in balance
-Capital flows may just edge up to offset higher CAD
+## UK, France, Germany and Italy support Iran deal with nuclear conditions
+The European nations welcomed the reported US-Iran agreement while stressing that Iran must not acquire nuclear weapons
 
-## How a pandemic experiment turned into Kashmir’s homegrown chocolate enterprise
-This Kashmiri man’s chocolate products now reach consumers in India and abroad, offering people a taste of Kashmir’s manufactured premium chocolates
+## US, Iran reach deal to end war, signing ceremony set in Switzerland on Friday
+Under the reported agreement, both sides would halt military action, reopen the Strait of Hormuz, and begin a new phase of discussions focused on Iran’s nuclear programme.
 
-## Blooming paradox: India’s flower industry hits record highs even as the Northeast withers
-Tamil Nadu leads in flower production
+## Dollar falls to 10-day low after US-Iran peace deal
+The euro, sterling and Australian dollar strengthened, though markets remained cautious over the pace of the deal’s implementation and the reopening of the Strait of Hormuz
 
-## Wheels turn for over $10-billion US tariff repatriation to India
-Cross-border digital payment gateways have also stepped in, offering to route the refunds without opening foreign accounts at a fraction of standard commercial banking costs, a source tracking the matter told businessline
+## Oil prices drop over 4% as US-Iran ceasefire deal lifts market hopes
+Brent crude and US West Texas Intermediate prices declined as markets reacted to expectations of improved energy supply stability.
 
-## Domestic tractor sales cross one lakh units for third straight month in May; exports top 10,000 units
-Domestic volumes rose 20% in May as improved rural sentiment and lower GST continued to support demand
+## Is India’s AI moment here? Not yet
+At a time when two US AI startups Anthropic and OpenAI are heading towards public listings estimated to be worth several billion dollars, India is barely scratching the surface. For the first time since at least 2000, local companies are understood to be out of the top 10 constituents of the MSCI Em
 
-## Cockroach Janata Party holds protests in Hyderabad, Bengaluru
-Hyderabad protest attended by education reformer and activist Sonam Wangchuk, political analyst professor K Nageshwar, among others
+## ‘Success of big ticket IPOs could mean market peak is near’
+​Now Dow Jones, Nasdaq Composite and S&, all are in record territories. SpaceX is already listed with a market cap of about $2 trillion and OpenAI and Anthropic are looking for valuations in the range of $1 trillion to $2 trillion each. “My best guess is that when (all) these companies successfully 
 
-## Cockroach Janata Party to hold protest in Jaipur on June 15
-Party founder Abhijeet Deepke, national spokesperson Ashutosh Ranka, education reformer and environmentalist Sonam Wangchuk and several other leaders and social activists are expected to participate in the programme
+## West Asia uncertainty, oil & gold imports hurt Rupee: FM Sitharaman
+Finance minister Nirmala Sitharaman said it’s not only the rupee that’s under pressure, as currencies such as the Japanese Yen and the Korean Won had also fallen sharply against the dollar. The minister said the more significant challenge was persistent uncertainty in West Asia, while imports of cru
+
+## Currentvaluations of AI stocks a bubble: CEA
+According to the CEA, some companies are presenting AI as a tool that could sharply reduce labour costs and boost profits, creating anxiety among workers and new graduates. “They want to tell the capital owners, you will be rewarded in the process. They have induced a fear in the minds of labour,” h
+
+## Skilled blue-collar talent in demand amid AI surge
+“Every AI breakthrough has a physical backbone — power grids need an upgrade, cooling systems must be built, and factories increasingly need to be automated. Behind every intelligent machine, highly specialised human expertise is required,” Viswanath P S, MD & CEO, Randstad India, said. Terming it a
+
+## Panel to examine metrics as labour market evolves
+“The committee shall, inter alia, examine the concepts, definitions, classifications, sampling and measurement frameworks adopted in labour statistics, particularly in the context of the Periodic Labour Force Survey (PLFS),” the terms of reference of the newly formed committee read. It will also rev
+
+## KKR: Leveraged deals from 2021, treasuries to feel pressure
+
 
 ## India seeks French investment in manufacturing; Piyush Goyal pitches scale and talent
 Commerce and Industry Minister Piyush Goyal urged French companies to invest in India's manufacturing sector, highlighting the nation as a reliable partner offering scale, talent, and innovation. Speaking at the 'Bharat Innovates' event, Goyal emphasized India's potential as both a large domestic ma
 
-## India restricts deployment of seafarers to conflict zones, Shipping authority issues fresh advisory
-Following a fatal US military strike off the Oman coast that killed three Indian seafarers, India's Directorate General of Shipping has advised recruitment agencies to halt seafarer deployments to conflict zones. Vessels in the Gulf region are urged to maintain heightened security vigilance amid esc
+## Narrow spaces, mesh of wires: The unaddressed cost of flawed planning in Delhi
+In this 4-part series, HT looks at how decades of planning failures, illegal construction and weak enforcement combined to create it vulnerable to tragedies.
 
-## Fertiliser push: Two new urea plants to start production soon; govt says import dependence set to ease
-India is set to boost domestic urea production by 25.4 lakh tonnes with two new plants commencing operations soon. This move aims to reduce import reliance and shield farmers from global price volatility. The government has also absorbed rising international prices, keeping retail fertilizer costs u
+## Naxalbari | Marx, Mao, Majumdar and a town that birthed insurgency
+In Naxalbari, the cluster of red sandstone statues of the Left icons stands by the roadside, the only few visible reminders of a history etched in blood.
 
-## Gold sliver rate outlook: Fed, Bank of Japan decisions in focus; US-Iran deal and crude oil to guide bullion prices
-Gold prices are expected to trade within a narrow range as investors await central bank policy decisions and developments in US-Iran negotiations. Domestic gold futures saw a significant decline of over 3% during the week, influenced by easing energy market concerns and geopolitical uncertainties.
+## ‘Grave lapse’, says Kerala CM after three VCs attend RSS chief Bhagwat’s lecture
+Kerala CM VD Satheesan condemned three vice-chancellors for attending an RSS event, calling it a grave lapse and urging them to apologize.
 
-## Rupee moves driven by global and domestic factors, FM Sitharaman says RBI steps in only to curb volatility
-Finance Minister Nirmala Sitharaman stated that the rupee's fluctuations are driven by global and domestic factors, with the RBI intervening only to curb excessive volatility, not to fix a specific rate. She also highlighted India's position as the fastest-growing major economy and addressed the Kar
+## Building in Delhi's Tughlakabad set ablaze on purpose over ₹50,000 debt; 3 held
+The teenager has been apprehended and three adults arrested — a 27-year-old woman, Sarita, and two brothers, Niranjan, 33, and Rajkumar, 27.
 
-## India does not use methodology changes to inflate growth numbers, CEA Nageswaran defends GDP data
-Chief Economic Adviser V Anantha Nageswaran defended India's GDP statistics, stating the country does not artificially inflate growth figures through methodological changes. He emphasized that India follows internationally accepted practices and that revisions, like the recent rebasing, demonstrate 
+## B’luru: 22-yr-old Sikkim woman killed by partner
+A 22-year-old woman in Bengaluru was allegedly murdered by her boyfriend over a dispute; he was arrested after fleeing the scene, police reported.
 
-## Amazon doubles down on India growth plans, sees current phase as its most aggressive expansion yet
-Amazon is significantly increasing its investment in India, committing $35 billion by 2030 to expand its e-commerce, quick commerce, AI, and export operations. The company is entering its most aggressive expansion phase yet, aiming for long-term leadership in the rapidly growing Indian digital marke
+## Delhi weather: Some rain and cloudy skies this week, but temperature to soar to 44°C, says IMD
+Thunderstorms are also forecast for Tuesday afternoon, with partially cloudy skies expected to remain most of the week.
 
-## PM Modi, Macron inaugurate 'Bharat Innovates'; pitch deeper India-France partnership
-Prime Minister Modi and French President Macron inaugurated Bharat Innovates 2026 in Nice, fostering India-France tech and innovation cooperation. The event connects Indian startups and institutions with global investors. Leaders emphasized shared vision and India's growing role as a global innovati
+## Three held for murder in Ballari
+A couple and the woman's brother in Ballari were arrested for the murder of a man who harassed the woman, whose body was found burnt near a canal.
 
-## Mosque built on police station land sparks dispute in Meerut; Imam served 7 day notice
-Police said a seven-day notice has been served to the mosque's imam seeking ownership documents and removal of the purported encroachment.
+## 20 TMC MPs merge with little-known Tripura party
+The merger, if approved, will increase the NDA’s strength from 294 to 314 in the Lok Sabha, still short of 46 seats to secure a two-thirds majority in the Lower House.
 
-## India, France to double trade in five years, eye greater cooperation in nuclear energy
-The two leaders held a bilateral meeting at Villa Kerylos in the port city of Nice after jointly inaugurating Bharat Innovates 2026, an event aimed at matching Indian deep tech startups with global investors
-
-## 'Nice to have met you in Nice': PM Modi's X exchange in France with Macron after 'productive' first leg of meeting
-PM Modi lauded the meeting in Nice and said he was looking forward to their meetings in Evian and Paris.
-
-## Gujarat man urges govt not to deport his Bangladesh-born wife, says she has adopted Hinduism
-Patel, a resident of Lambhvel village, said he met Kajal, when she lived in Bangladesh, through Facebook in 2012-13, and the two gradually fell in love.
-
-## BJP slams Kerala CM over criticism of VCs who shared stage with Mohan Bhagwat: ‘He must not talk about secularism’
-In a social media post, BJP's Rajeev Chandrasekhar said the chief minister had no moral authority to lecture others on secularism or constitutional values.
-
-## Strong winds likely over Delhi-NCR over the next two hours, says regional met centre
-This came hours after the regional met center had forecast light rainfall for some parts of the Capital and its surrounding areas.
-
-## Modi, Macron launch Bharat Innovates; boost tech cooperation
-The three-day event is an effort to match Indian tech startups, innovators and researchers with global innovation funds and entrepreneurs
-
-## Manipur deputy CM Losii Dikho links SoO groups to killing of 6 Nagas
-The six Nagas were allegedly abducted by a group of women belonging to Kuki community at Leilon Vaiphei, a Kuki village in Kangpokpi district on May 13
-
-## Second murder in 24 hours shocks Chandigarh
+## Six years after Galwan: A militarised LAC, a redefined relationship
 
 
-## Cashier had no enemies, says family as police hunt Chandigarh Sector 11 shooters
+## As TMC rebels make headlines, ‘absent’ MPs fuel split buzz in Uddhav Sena
 
 
-## Bodies of six Naga men identified, handover may take time: Manipur minister
+## Why Trinamool’s rebel MPs merged with NCPI, a little-known party
 
 
-## US warned tanker nearly 60 times before strike killed 3 Indian sailors off Oman coast: Report
+## Ritabrata Banerjee eyes complete takeover of TMC: ‘Civic bodies, district units next’
 
 
-## Nick Jonas’ morning routine makes him ‘feel fresh as a daisy’
+## ‘Went hungry for two days’: How the LPG price spike paralysed India’s biggest container port
 
 
-## Missouri plane crash: All 12 on board killed after aircraft crashes in US’ Butler
+## India A vs Sri Lanka A Live Score, Tri Series 2026: All eyes on Sooryavanshi as IND A take on SL A
 
 
-## Why your hunger vanishes in the heat: Solving the ‘summer appetite’ mystery
+## In NCERT’s Art textbook, ‘Dancing Girl’ covered up
 
 
-## ‘Bomb our way to solutions’: Obama says Trump’s Iran deal won’t improve on his pact
+## Explained: How low pressure, ageing pipes, and leaks contaminate Delhi’s water
 
 
-## Lower bar to entry for innovative companies to list in Hong Kong, says chamber
+## Hong Kong stocks rally after US says it reaches deal with Iran over oil flow
+Hong Kong stocks kicked off the week’s trading on a strong note on Monday after the US said that it sealed a deal with Iran to reopen the Strait of Hormuz and lift the blockade by the US Navy, sparking a “risk-on” mode across asset classes. The Hang Seng Index rose 0.8 per cent to 24,919.40 as of 9.
+
+## Abu Dhabi to tap Chinese tech to scale up green economy, energy chief says
+The Abu Dhabi government is fast-tracking its push to extensively tap into China’s technologies, from renewable energy and electric vehicles (EVs) to robotics, as it pursues a greener economy, according to its energy chief. Abdulla Humaid Al Jarwan, chairman of the Abu Dhabi department of energy, to
+
+## Lower bar to entry for innovative companies to list in Hong Kong, chamber says
 The Chamber of Hong Kong Listed Companies (CHKLC) is urging Hong Kong to further lower the bar for innovative companies to go public in the city, so as to encourage more technology firms to raise funds here, according to the chamber’s chairman. The Hong Kong Exchanges and Clearing (HKEX) unveiled it
 
 ## Li Ka-shing’s CK Asset sets a 2026 record with US$46.2 million Mid-Levels penthouse sale
@@ -155,12 +161,6 @@ Sarah Li, from eastern Jiangsu province, said her son – a devoted Cristiano Ro
 
 ## European wealth turns to Hong Kong as 30 family offices eye operations in the city
 Around 30 European family offices have expressed interest in establishing operations in Hong Kong, drawn by the city’s tax incentives and growing optimism about the prospects for China’s technology sector and Hong Kong’s property market, according to InvestHK and industry participants. Jason Fong, I
-
-## China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says
-The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundre
-
-## Natural diamond firms turn to blockchain traceability amid lab-grown competition
-Hit by competition from lab-grown diamonds and declines in pricing, the natural diamond industry is launching a large-scale traceability system to further build customer trust and establish provenance of the consumer jewels, in a move that industry observers say will boost sales. De Beers Group, the
 
 ## Netanyahu’s Reelection Could Hinge on Outcome of Iran War
 He promised Israelis “total victory” but has fallen short on three fronts.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Japan deny Netherlands by fighting back twice in World Cup opener
-Asia's most successful side, Japan, twice come from behind to draw 2-2 with Netherlands in Group F opener.
+## Trump allies cheer Iran deal announcement as Democrats call for clarity
+US and Iran say memorandum to be signed on Friday, but no official terms yet released.
 
-## Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup
-‌Victor Munoz is also fit to play as coach Luis de la Fuente says he has no concerns over his players' fitness.
+## Zimbabwe’s climate migrants fear eviction as crackdown intensifies
+Many settled in Zimbabwe’s fertile Eastern Highlands after drought left their home areas unable to support farming.
 
-## India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign
-Smriti Mandhana scored 68, and Deepti Sharma took five wickets as India thrashed Pakistan in front of a sellout crowd.
+## Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game
+Striker Mehdi Taremi says US travel policies are dampening the usual joy that the football tournament ignites.
 
-## LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250
-Title fights, Topuria-Gaethje and Pereira-Gane, to be staged in front of US President Donald Trump at the White House.
+## Stock markets soar, oil falls as US, Iran confirm deal to end war
+Asian stock markets surge as Washington and Tehran announce agreement to end hostiles and reopen Strait of Hormuz.
 
-## Gaza mourns four killed in Israeli strike
-Cries of grief echoed through Gaza City for four Palestinians killed near the Jabalia refugee camp in northern Gaza.
+## Claims Israel’s Beirut strike pushed Trump on Iran announcement
+US diplomat Alan Eyre says despite the US-Iran ceasefire announcement, there is no deal until it has been formalised.
 
-## Violence erupts during anti-G7 protests in Geneva on eve of summit
-Violence erupts during anti-G7 protests in Geneva on eve of summit.
+## World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism
+'There's no such thing as an unimportant World Cup match,' 13 World Cup participant nations say in a statement.
 
-## Swiss right-wing plan to cap population rejected by narrow margins
-Swiss voters reject a proposed population cap that would cap the country’s population at 10 million.
+## BREAKING: US, Iran announce ceasefire agreement
+US President Donald Trump has announced a ceasefire agreement with Iran.
 
-## Medical teams in Goma face mistrust from relatives of Ebola victims
-Confirmed Ebola cases in the Democratic Republic of Congo have spiked up to 782.
+## US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening
+Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.
 
 ## Call to extend duty cuts on critical inputs soon
 India is set to decide on extending customs duty relief for critical raw material imports beyond June 30. An inter-ministerial panel will review easing import curbs on key inputs and consider fresh duties on certain locally manufactured electronics. The government is also evaluating duty cut request
