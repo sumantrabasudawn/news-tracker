@@ -1,64 +1,79 @@
 # AION Intelligence
 
-## SpaceX leapfrogs Amazon to become world’s fourth-most valuable company
-Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
+## Australia-style approaches to social media ban may not work, Ofcom warns
+Government considers putting age limits on virtual private networks to help enforce social media restrictions
 
-## Reeves ‘hopes’ to fund defence without tax rises
-UK chancellor says cabinet has to decide where to cut spending to pay for extra military budget
+## GM and Lockheed Martin partner on boosting weapons production
+Pentagon requested tie-up to help defence group boost its output of critical munitions
 
 ## Oil sinks below $80 a barrel as traders bet Strait of Hormuz flows will return
 Brent crude has tumbled to three-month low following agreement to extend US-Iran ceasefire
 
-## UK-EU summit set for July 22
-Starmer seeks to flesh out plan for closer bilateral ties despite questions over his future as prime minister
+## Russian saboteurs hired third operative for UK attacks
+Footage points to the role of an unidentified man spraying anti-Muslim graffiti in London
 
-## G7 leaders agree to increase sanctions on Russian energy
-Club of wealthy nations to raise pressure on Moscow ‘notably’ through limits on its oil and gas exports
+## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company
+Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
+
+## US and Europe discuss access to AI models after Anthropic dispute
+‘Trusted partner’ scheme would allow US allies to test cutting-edge models
 
 ## France’s spy agency replaces Palantir with local rival
 Move is part of European drive to reduce dependence on US tech firms
 
-## Trump says Syria should fight Hizbollah instead of Israel
-US president says he is ‘not happy’ with Israeli military campaign against Lebanese militant group
+## Adobe paints a vivid picture of investors’ software pessimism
+Maker of creative software is hardly in crisis but it does risk losing its edge
 
-## Yum Brands to offload Pizza Hut in $2.7bn deal
-KFC and Taco Bell owner to sell bulk of fast-food chain to private equity group
+## Russian warship accused of firing warning shots towards yacht in Channel
+Ministry of Defence says it is ‘investigating reports of incident’
 
-## The best books on sport, health and wellness to read this summer
-Simon Kuper and Anjana Ahuja select their best mid-year reads
+## Environment secretary casts doubt on £10bn Thames Water rescue
+Emma Reynolds’ warning increases prospect of the nationalisation of Britain’s biggest water company
 
-## Rathbones shares sink 18% as it halts investments by high-risk clients
-Wealth manager at risk of near-£1bn hit to inflows
+## Thyssenkrupp to spin off materials trading business
+German conglomerate pushes ahead with restructuring, but struggling steel business still has no buyer
 
-## Ericsson chief to step down after stabilising scandal-hit group
-Börje Ekholm admitted possible payments by company to Isis in 2022 but then improved performance
+## Google rolls out Android 17, major AI features to follow later this year
+The update brings a strong focus on multitasking improvements, featuring floating “Bubbles,” enhanced split-screen tools and “Screen Reactions” for recording overlays.
 
-## EU resists banks’ plea for major overhaul of capital rules
-European Banking Authority sets out ‘targeted’ plan to simplify overlapping requirements for lenders
+## US uses Iranian-style ship-to-ship tactic to move oil out of Gulf
+The operation, which uses drones, helicopters and monitoring systems, has facilitated over 100 tanker-to-tanker transfers since May, according to sources and satellite data.
 
-## TCS enters multi-year digital transformation deal with Tottenham Hotspur
-This partnership marks a significant step in the integration of technology within sports, promising to transform fan interactions and operational performance.
+## Tamil Nadu pollution board drops scrutiny of Tata Electronics iPhone plant
+Tata said independent tests and official analysis found no contamination, leading to closure of the case
 
-## Air India eyes unbundled no-meal fares on around 20 domestic sectors
-Carrier may introduce pay-if-you-use model on select routes as it looks to expand ancillary revenues and sharpen fare segmentation
+## Iran deal includes $300 billion fund, over half already committed
+The fund, which has already secured more than half of its commitments, is designed as an economic incentive to support a broader peace deal, including reopening key trade routes like the Strait of Hormuz
 
-## Pocket
+## RBI eases capital norms for ECLGS 5.0 loans, cuts risk weight
+As per the revised framework, 75% of the guaranteed portion will attract a zero risk weight, while the remaining exposure will carry a 20% risk weight under existing norms
 
+## Banks dangle mega returns to lure NRIs to FCNR(B) deposits
+Besides high interest, lenders are offering significant leverage on the deposits
 
-## Agnikul, Hyperloop and other IIT M start-ups sign $100-million MoUs at Bharat Innovates 2026
-Two institutional MoUs were inked between IITM Global and Agna Capital to establish the Bharat Innovates Fund, and another between IITM Global and SouthwestX to help Indian start-ups access the German and French markets
+## Centre’s foodgrain reserves at record high as El Nino threatens kharif production
+Despite the “below normal” monsoon forecast, at 90 per cent of long period average, the government is targeting the kharif foodgrains production during 2026-27 of 176.16 mt
 
-## Monsoon delay deepens farm risk in Gujarat; crop-loss compensation crosses ₹22,700 cr in decade
-The situation is reflected in early-season rainfall data, with the State recording an 83 per cent deficit as of June 16.
+## In a first, US pips Qatar as India’s largest LNG supplier during March-May
+Washington supplies 1.5 million tonnes of LNG to India, compared to a mere 0.1 mt by Qatar
 
-## The contacts, contracts and commission model
-To phase out corruption, politicians must not get involved in clearance of specific projects, audits need to improve, and the domain of the CCI should be widened
+## India in talks with Russia-linked Siberian deposit to source rare earth Samples: Report
+India is seeking rare earth samples from Russia. This move aims to diversify critical mineral supplies away from China. State miner IREL is in talks with Rosneft for samples from Siberia's Tomtor deposit. India will study the mineral composition before further engagement. This effort supports India'
 
-## How to sustain solar energy growth sans curtailments
-Steps need to taken in advance for increasing the demand for electricity particularly in solar hours
+## Rupee snaps two-day rally, settles 2 paise lower at 94.60 against US dollar
+The rupee dipped slightly to 94.60 against the dollar on Tuesday, ending a two-day gain. Despite falling crude oil prices and hopes for a US-Iran peace deal, foreign investors selling Indian equities pressured the currency. Analysts anticipate a near-term downward trend for the rupee, with support f
 
-## How will the US-Iran peace deal turn the global oil market
+## US stocks today: Dow hits record high as easing oil prices boost Wall Street
+Indian markets mirrored global optimism as US stocks neared record highs, fueled by falling oil prices and hopes for a US-Iran peace deal. SpaceX's impressive market debut and gains in financial and chip stocks also boosted investor confidence. All eyes are now on the Federal Reserve's upcoming poli
 
+## Air India launches 'basic fare' option without complimentary meals on select domestic flights
+Air India has introduced an optional 'Basic fare' on select domestic routes, excluding complimentary meals to cater to price-sensitive travelers. This new option offers a more unbundled travel choice, while existing fare categories with meals and bundled benefits remain available. The airline will e
+
+## SpaceX soars past Amazon in market value after IPO frenzy; options trading begins
+SpaceX shares soared over 14% Tuesday, briefly surpassing Amazon and nearing Microsoft's valuation, reaching $2.85 trillion. Investor excitement surged with new options trading, despite analysts warning of extreme volatility and questioning the lofty valuation. The company also plans a $60 billion a
+
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Indian equities surged for a third day, with Sensex and Nifty climbing on positive global cues, foreign investment, and easing crude oil prices following a reported US-Iran peace deal. IT stocks led the gains, with HCL Tech announcing a significant investment. Broader markets also participated in th
 
 ## Trump says US can ‘soon’ reimpose Russian crude sanctions after Hormuz reopening
 US President Donald Trump indicated that sanctions on Russian oil could be reimposed soon, following the resumption of crude flows through the Strait of Hormuz after an Iran deal. Speaking at the G7 summit, Trump stated that with oil now moving freely, Washington can shift focus to ending the Ukrain
@@ -66,71 +81,56 @@ US President Donald Trump indicated that sanctions on Russian oil could be reimp
 ## India builds record grain reserves as El Nino returns
 India's grain reserves have reached unprecedented levels, with rice stocks soaring 15% year-on-year to a record high and wheat inventories hitting a five-year peak. This robust buffer strengthens national food security and offers flexibility for exports, even amidst El Niño concerns. Strong farmer p
 
-## Zepto IPO: Can 10-minute delivery survive public-market scrutiny?
-Zepto is preparing for its Initial Public Offering, revealing its rapid expansion and operational strengths in India's quick-commerce market. The company has achieved significant order volumes and user growth. Investors are closely examining its potential for sustainable profits amidst fierce compet
+## G7 margins: Modi, UAE President call for free navigation in Strait of Hormuz
+Modi also held a bilateral meeting with UK Prime Minister Keir Starmer and discussed steps being taken to implement Comprehensive Economic and Trade Agreement
 
-## US-Iran peace deal: What opening of Strait of Hormuz would mean for India’s crude oil supplies
-Prior to the outbreak of the conflict, the Gulf region supplied roughly 40% of India's crude oil imports. After the war began on February 28, inflows from the region declined sharply.
+## Seated next to Trump, PM Modi raises ship attacks, says must protect seafarers
+Modi welcomed progress in the peace efforts in West Asia, and noted the conflict had claimed the lives of “many Indian civilians”
 
-## Oil's not well? US emergency stockpile falls to lowest level
-The US emergency oil stockpile has hit its lowest point since 1983, with the Trump administration drawing down reserves to mitigate economic impacts from global conflicts. Recent releases have pushed the Strategic Petroleum Reserve to less than half full, raising concerns about operational capacity 
+## Jewar to Navi Mumbai flight begins; flyers cheer shorter, cheaper travel
+Tuesday’s Akasa Air’s flight was the first direct air link between NIA and the Navi Mumbai International Airport, which started operations in December 2025
 
-## Gold price prediction today: Will gold prices rise substantially from current levels? Check June 16, 2026 outlook
-Gold price prediction today: Gold prices may rise in the near-term as oil prices ease but the US Federal Reserve’s meeting is an important thing to watch, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## PM Modi, Meloni share laugh, discuss ‘Instagram’, days after viral ‘Melodi’ post gets 13M likes | Watch
+A video from the event shows PM Modi interacting with Giogia Meloni.
 
-## Middle East crisis may be over, but how long before Strait of Hormuz goes back to normal?
-A tentative US-Iran deal signals an end to a 100-day conflict impacting global oil. While prices dipped, analysts warn full recovery of Strait of Hormuz flows will take weeks, possibly months, due to shipping bottlenecks and ongoing mine clearance. Producers await lasting peace assurances before ful
+## Bhopal Court extends judicial custody of Twisha Sharma's husband, mother-in-law till June 30
+The accused were produced before the court through video conferencing after the completion of their 14-day judicial custody today.
 
-## Income Tax Return: Is Form 16 mandatory for ITR filing & what to do if the employer has not issued it?
-Ideally, you should also cross check information across all your major documents such as Form 16, Form 26AS, Annual Information Statement (AIS), interest statements etc. to see if there are any discrepancies.
+## ‘Leaks moved to other apps’: Telegram CEO Pavel Durov criticises temporary ban ahead of NEET-UG re-exam
+Pavel Durov said that the ban affects and “punishes” 150M+ ordinary users in India and not those who leaked the papers.
 
-## Chhattisgarh govt makes Gayatri Mantra mandatory in govt schools; Cong hits out
-The decision was communicated to all districts on June 12 and required schools to conduct a series of daily cultural, educational, and value-based activities
+## Protest continues against treatment of 3 Kuki men outside Imphal hospital
+A statement issued by RIMS Media Cell said that the injured Kuki persons were brought from Leimakhong for medical treatment on June 15
 
-## NDA MLAs moved to hotel 48 hours before Rajya Sabha polls, leader says ‘no kidnapping’
-The Jharkhand NDA legislators will stay at the hotel for 48 hours and will only head back after casting votes for the June 18 Rajya Sabha polls, a leader said.
+## Lakhs demanded for paper, fake proof clips: NTA exposes Telegram racket ahead of NEET re-exam
+The NTA has warned students about Telegram-based fraud networks that claim access to leaked papers and using fake chats and videos to scam aspirants.
 
-## Phase 1 of Census 2027 completed in 23 states, Union territories
-A 15-day self-enumeration process is underway in Kerala and Nagaland, followed by a field operation starting on July 1 and continuing until July 30, it said.
-
-## Uddhav's party to split up again? Big buzz in Maharashtra as MPs 'skip' meet, Sena ‘doors open’
-While Uddhav's Sena has nine MPs, at least two-thirds, or 6 MPs, are required to engineer the rift to avoid disqualification under the anti-defection law.
-
-## No more over-the-counter cough syrups? Why government took the big step
-The Health Ministry said the amendment was undertaken to strengthen regulatory oversight of syrup formulations.
-
-## IPS was rebuking officers for not saluting him, turns out he was a fraud
-Shukla said he was an “IAS officer from Noida” and reprimanded the officers for not wearing their caps and not saluting them, police said.
-
-## Gurugram launches district-wide diarrhoea prevention drive till July 31
-According to health department officials, Gurugram did not report any confirmed child deaths due to diarrhoea in the previous year
-
-## ‘Leadership is not arrogance’: Another AIADMK MLA quits, takes a swipe at EPS
-On Tuesday, Vijayabaskar called on assembly speaker Prabhakar at the Secretariat and submitted his resignation
-
-## ‘They were all there’: Tom Holland drops biggest hint yet about secret wedding to Zendaya
+## Indian ‘abducted by locals’ at Bangladesh border brought back to Assam
 
 
-## Karnataka High Court declares Gameskraft founders’ ED arrest illegal, orders release
+## ‘When I used to take…’: Instagram CEO says his kids ‘earn’ screen time; psychologist weighs in
 
 
-## Former minister Vijayabaskar latest AIADMK legislator to quit as crisis deepens for party
+## ‘My stomach was just fine,’ says Anusha Dandekar after eating raw mushrooms, expert reacts
 
 
-## To boost cancer treatment & research, medical cyclotron facility to be set up in Nagpur
+## Inside Prince George’s $85,000 school: Why Britain’s future King picked Eton College
 
 
-## Sooryavanshi got provoked, needs to learn; Lankans must behave: Sairaj Bahutule
+## Telegram ban will ‘punish’ more than 150 million Indians, says founder
 
 
-## Ashwini Vaishnaw to flag off first direct Pune–Shirdi daily express tomorrow
+## Indian expat wins over Rs 5 crore jackpot in UAE’s Sharjah bank draw
 
 
-## Pak-backed terror syndicate plotting attacks in Delhi-NCR busted; 7 held: Cops
+## Why is Israel PM Netanyahu unhappy with Trump’s Iran peace deal? 5 possible reasons
 
 
-## Panasonic wins trademark case: Delhi High Court junks ‘religious inspiration’ argument for ‘PONTA’ brand
+## In Manipur, 3 patients with gunshots and a hospital on edge
 
+
+## Hong Kong’s financial revival: trading, tokenisation and governance in focus
+[The content of this article has been produced by our advertising partner.] For a while and not so long ago, confidence in Hong Kong’s financial markets appeared fragile. Trading volumes softened, and geopolitical tensions weighed on sentiment. The city’s status as Asia’s leading international finan
 
 ## Yum China takes full slice of Pizza Hut China in US$1.2 billion deal
 Yum China, the operator of KFC and Pizza Hut in mainland China, will pay US$1.2 billion to acquire ownership of the Pizza Hut business in the market, deepening its separation from US restaurant giant Yum! Brands and gaining full control of the brand in China. The consideration will be paid entirely 
@@ -153,8 +153,8 @@ Several luxury residential projects in Shenzhen sold out quickly in May, with yo
 ## Going for gold: central banks expand bullion holdings as US dollar’s dominance wavers
 Central banks are expected to expand their gold holdings, while the US dollar’s dominance in global reserves will fade in five years, according to the World Gold Council. The push to accumulate gold reflects a broad de-dollarisation trend in recent years. About nine in 10 central banks expect global
 
-## China’s first-tier new home prices rise for third month as stabilising steps gain traction
-New home prices in China’s first-tier cities rose 0.2 per cent in May, extending a three-month rebound after nine months of losses and a flat February, pointing to a gradual recovery in confidence as stabilisation measures take hold, analysts have said. Compared with the previous month, May home pri
+## It’s Time for the United States to Leave the Middle East
+The Iran war is only the latest in a string of U.S. failures.
 
 ## It’s Time to Stop Hunting Monsters
 Foreign intervention is a policy with a long history of disaster.
@@ -177,32 +177,29 @@ Getting Iran to concede on key issues will be a struggle.
 ## Iran Hawks Side-Eye Trump’s Deal
 The president will feel criticisms from this group most keenly.
 
-## Trump Has His Iran Deal. How Soon Until Oil Prices Come Down?
-It’s complicated but not this month, most likely.
+## Japan Eyes a Homegrown FMS System as Defense Exports Become a Strategic Tool
+The government is considering establishing a new organization – to manage a Japanese-style Foreign Military Sales system and promote defense exports.
 
-## How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance
-The strategic goal for most countries is energy systems that are affordable and cannot be blocked or held hostage. For Taiwan, the stakes are particularly high.
+## Kazakhstan Admitted to Corruption. Nothing Changed.
+While the state recovers billions in London and The Hague, oil workers in Kazakhstan still receive a fraction of what they are owed.
 
-## Can Central Asia Speak?
-The region is not merely a corridor to somewhere else. Nor is it a prize in someone else’s contest. It is a geopolitical space – with disparate yet largely collaborative actors – in its own right.
+## South Korea’s Students Speak Out About the Local Election Ballot Shortage
+South Korean university students framed the issue as one of democratic accountability, while avoiding getting caught in the partisan fight that has ensued.
 
-## India’s Opposition: Stranded Between Alliance and Disarray
-The general discontent in society is palpable; the opposition can see it. But the INDIA bloc has not yet been able to convert the discontent in society into votes.
+## China’s Limited Advance in El Salvador
+In the context of El Salvador’s transformation under Bukele, its relationship with China continues to be both limited and contradictory.
 
-## South Korea Has Diversified Some Critical Minerals. The Hardest Dependencies Remain.
-For six minerals critical to South Korea’s most strategically important industries, China’s 2025 share of Korean imports ranges from 14.8 percent to 94.2 percent
+## India’s Strongest Regional Party Collapses Thanks to Modi’s BJP
+Legislators of the Trinamool Congress, which ruled West Bengal for three straight terms, have left the party in droves, leaving it a mere shadow of its former self.
 
-## What the Rapid Development of the PLA Means for Australia
-The PLA’s military expansion is steadily chipping away at one of Australia’s principal defensive assets: geography.
+## Why the US Should Back Pakistan in Blacklisting BLA in the UNSC
+The U.S. and Pakistan engage in substantial intelligence-sharing and counterterrorism cooperation. These could be at risk.
 
-## With Amanat Merger, Adilet Is on Track to Be Kazakhstan’s Next Ruling Party
-The merger is the latest step in the consolidation – or rebranding – of power under President Kassym-Jomart Tokayev. The names change; the system stays the same.
+## Why India Does Not Interest China
+The Chinese see Indians as not having absorbed the lessons that China did from its humiliation at the hands of the West.
 
-## Fear of Being Left Behind: Taiwanese Concerns After the Trump–Xi Summit
-Recent survey data suggest that many Taiwanese fear that Taiwan’s interests could be overlooked or sacrificed as Washington and Beijing seek to stabilize their relationship.
-
-## Breaking Afghanistan’s Hydro-Political Trap
-Since its neighbors rely on unregulated river flows, any unilateral Afghan attempt to develop water infrastructure is perceived as a threat, risking regional destabilization.
+## Beyond the Malacca Dilemma: China’s Emerging Corridor-Hedging Logic
+China’s approach to external connectivity recognizes that different trade routes perform different functions under different political and operational conditions.
 
 ## The Fall of Fortress Singapore: Three Lessons from the Collapse of Britain’s Great Asian Bastion
 Editor’s note: This is part of a running series of essays by Iskander Rehman, entitled “Applied History,” which seeks, through the study of the history of strategy and military operations, to better illuminate contemporary defense challenges.The fall of Singapore on February 15 stupefied the Prime M
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Lebanese rush back to their devastated homes in south after US-Iran deal
-Thousands return to their homes following Iran-US deal despite Israel saying it won't end its occupation of Lebanon.
+## Repairs begin at 1,000-year-old Kyiv monastery after Russian attack
+The Kyiv Pechersk Lavra is under repair after deadly Russian attacks on the Ukrainian capital on Monday.
 
-## Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw
-Amir Ghalenoei made the comment after Iran were forced to leave the US for their Mexico base after their opening match.
+## Israeli strikes kill four in southern Lebanon amid ceasefire talks
+Drone attacks target vehicles in Nabatieh amid fragile ceasefire negotiations between Iran and the US.
 
-## ‘Mistrust’ leaves ebola patients receiving treatment too late
-A growing sense of mistrust is hampering efforts to contain the Ebola outbreak in the Democratic Republic of the Congo.
+## Africa’s chances at the World Cup
+There are six teams from sub-Saharan Africa to watch at this World Cup.
 
-## Israeli court rules to keep prominent Palestinian doctor in detention
-The Palestinian doctor demanded his release last week after months of imprisonment and visible signs of torture.
+## Robinhood slashes workforce by 10 percent amid restructuring
+CEO Vlad Tenev said while the firm is in a strong financial position, it has been a ‘heavily-layered organization'.
 
-## ‘There’s divergence between US and Israeli objectives in the region’
-‘There’s divergence between US and Israeli objectives in the region’
+## Israel seizes power over occupied West Bank mosque from Palestinians
+Hebron's mayor warns unilateral changes breach agreements, posing significant consequences for the region's stability.
 
-## Geneva to host Iran-US deal event: What other pacts have been signed there?
-Geneva is widely recognised as the 'Peace Capital' of the world.
+## Ronaldo’s last dance as Portugal face DR Congo in World Cup: All to know
+Team news, prediction, and lineups as Cristiano Ronaldo’s Portugal begin quest for maiden Cup trophy against DR Congo.
 
-## Red Cross warns Ebola outbreak in DRC not yet peaked, could last a year
-The Red Cross says it is 'very difficult' to know the extent at which the epidemic is spreading.
+## Trump slams Israeli attacks on Lebanon at G7 summit
+US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.
 
-## India blocks Telegram until Monday due to student exam fraud concerns
-A viral youth satirical protest movement, the Cockroach Janta Party, has emerged following exam cancellations last month
+## Qatar renews mediation efforts for regional stability after US-Iran deal
+Qatar says it is working to prevent a return to war, following the signing of the MoU between the US and Iran.
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
