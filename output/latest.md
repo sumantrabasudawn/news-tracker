@@ -1,46 +1,40 @@
 # AION Intelligence
 
-## Australia-style approaches to social media ban may not work, Ofcom warns
-Government considers putting age limits on virtual private networks to help enforce social media restrictions
-
-## GM and Lockheed Martin partner on boosting weapons production
-Pentagon requested tie-up to help defence group boost its output of critical munitions
-
-## Oil sinks below $80 a barrel as traders bet Strait of Hormuz flows will return
-Brent crude has tumbled to three-month low following agreement to extend US-Iran ceasefire
-
-## Russian saboteurs hired third operative for UK attacks
-Footage points to the role of an unidentified man spraying anti-Muslim graffiti in London
-
 ## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company
 Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
 
-## US and Europe discuss access to AI models after Anthropic dispute
-‘Trusted partner’ scheme would allow US allies to test cutting-edge models
+## Ex-Citi executive says bank sacked her after raising Trump concerns
+Former employee claims in lawsuit that she identified issues with risk-management practices
 
-## France’s spy agency replaces Palantir with local rival
-Move is part of European drive to reduce dependence on US tech firms
+## Yum Brands sells struggling Pizza Hut in bet on faster-growing businesses
+KFC and Taco Bell owner to offload bulk of fast-food chain to private equity group as part of $2.7bn sale
 
-## Adobe paints a vivid picture of investors’ software pessimism
-Maker of creative software is hardly in crisis but it does risk losing its edge
+## Russian warship fires warning shots towards yacht in English Channel
+UK says incident is not linked to Britain’s interception of an oil tanker that is part of Moscow’s shadow fleet
 
-## Russian warship accused of firing warning shots towards yacht in Channel
-Ministry of Defence says it is ‘investigating reports of incident’
+## Notes from the FT Global Bond Summit
+The reordering is happening in the asset class, too
 
-## Environment secretary casts doubt on £10bn Thames Water rescue
-Emma Reynolds’ warning increases prospect of the nationalisation of Britain’s biggest water company
+## Oil sinks below $80 as traders bet Strait of Hormuz flows will return
+Brent crude has tumbled to three-month low following agreement to extend US-Iran ceasefire
 
-## Thyssenkrupp to spin off materials trading business
-German conglomerate pushes ahead with restructuring, but struggling steel business still has no buyer
+## BMW cuts profit guidance as Iran war adds to challenges in Chinese market
+Carmaker expects operating margin in its automotive division to be 1-3% in 2026, a sharp fall from previous projections
+
+## Australia-style approaches to social media ban may not work, Ofcom warns
+Government considers putting age limits on virtual private networks to help enforce social media restrictions
+
+## The White House’s capricious controls on Anthropic
+An opaque approach to US policy risks hampering AI development
+
+## Tamil Nadu pollution board drops scrutiny of Tata Electronics iPhone plant
+Tata said independent tests and official analysis found no contamination, leading to closure of the case
 
 ## Google rolls out Android 17, major AI features to follow later this year
 The update brings a strong focus on multitasking improvements, featuring floating “Bubbles,” enhanced split-screen tools and “Screen Reactions” for recording overlays.
 
 ## US uses Iranian-style ship-to-ship tactic to move oil out of Gulf
 The operation, which uses drones, helicopters and monitoring systems, has facilitated over 100 tanker-to-tanker transfers since May, according to sources and satellite data.
-
-## Tamil Nadu pollution board drops scrutiny of Tata Electronics iPhone plant
-Tata said independent tests and official analysis found no contamination, leading to closure of the case
 
 ## Iran deal includes $300 billion fund, over half already committed
 The fund, which has already secured more than half of its commitments, is designed as an economic incentive to support a broader peace deal, including reopening key trade routes like the Strait of Hormuz
@@ -81,6 +75,12 @@ US President Donald Trump indicated that sanctions on Russian oil could be reimp
 ## India builds record grain reserves as El Nino returns
 India's grain reserves have reached unprecedented levels, with rice stocks soaring 15% year-on-year to a record high and wheat inventories hitting a five-year peak. This robust buffer strengthens national food security and offers flexibility for exports, even amidst El Niño concerns. Strong farmer p
 
+## 'Several Indians have also lost their lives': PM Modi flags maritime concerns at G7 summit
+Addressing an outreach session of the G7 summit, PM Modi said India firmly believes that lasting solutions to conflicts.
+
+## Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports
+CRUISESHIP-HANTAVIRUS/:Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports
+
 ## G7 margins: Modi, UAE President call for free navigation in Strait of Hormuz
 Modi also held a bilateral meeting with UK Prime Minister Keir Starmer and discussed steps being taken to implement Comprehensive Economic and Trade Agreement
 
@@ -99,34 +99,28 @@ The accused were produced before the court through video conferencing after the 
 ## ‘Leaks moved to other apps’: Telegram CEO Pavel Durov criticises temporary ban ahead of NEET-UG re-exam
 Pavel Durov said that the ban affects and “punishes” 150M+ ordinary users in India and not those who leaked the papers.
 
-## Protest continues against treatment of 3 Kuki men outside Imphal hospital
-A statement issued by RIMS Media Cell said that the injured Kuki persons were brought from Leimakhong for medical treatment on June 15
-
-## Lakhs demanded for paper, fake proof clips: NTA exposes Telegram racket ahead of NEET re-exam
-The NTA has warned students about Telegram-based fraud networks that claim access to leaked papers and using fake chats and videos to scam aspirants.
-
-## Indian ‘abducted by locals’ at Bangladesh border brought back to Assam
+## At G7 meet, Mark Carney invites PM Narendra Modi to visit Canada; both vow to strengthen relations
 
 
-## ‘When I used to take…’: Instagram CEO says his kids ‘earn’ screen time; psychologist weighs in
+## Citizen lounge by day, study hub by evening: New Delhi DM office opens doors to students
 
 
-## ‘My stomach was just fine,’ says Anusha Dandekar after eating raw mushrooms, expert reacts
+## Schools start without Class 6 textbooks, state’s new curriculum causes delay
 
 
-## Inside Prince George’s $85,000 school: Why Britain’s future King picked Eton College
+## NIA arrests key accused in Shambhu DFC blast case; gets 8-day custody
 
 
-## Telegram ban will ‘punish’ more than 150 million Indians, says founder
+## Panchkula police arrests Delhi-based man in Rs 4-lakh online trading fraud
 
 
-## Indian expat wins over Rs 5 crore jackpot in UAE’s Sharjah bank draw
+## Maharashtra bureaucratic shake-up: Vijay Singhal appointed OSD for Dharavi redevelopment project
 
 
-## Why is Israel PM Netanyahu unhappy with Trump’s Iran peace deal? 5 possible reasons
+## Tughlakabad ‘arson’ : One more death takes toll to four
 
 
-## In Manipur, 3 patients with gunshots and a hospital on edge
+## ‘His ego couldn’t…’: When Rhea Pillai spoke of dealing with conflict after leaving Leander Paes
 
 
 ## Hong Kong’s financial revival: trading, tokenisation and governance in focus
@@ -153,6 +147,21 @@ Several luxury residential projects in Shenzhen sold out quickly in May, with yo
 ## Going for gold: central banks expand bullion holdings as US dollar’s dominance wavers
 Central banks are expected to expand their gold holdings, while the US dollar’s dominance in global reserves will fade in five years, according to the World Gold Council. The push to accumulate gold reflects a broad de-dollarisation trend in recent years. About nine in 10 central banks expect global
 
+## Trump Puts Russia-Ukraine War on the Back Burner
+A lackluster attitude highlights divisions between the United States and its G-7 allies.
+
+## ‘It’s Not Competitive in Nature’
+India’s ambassador to Washington insists “Make in India” doesn’t conflict with “America First.”
+
+## Taiwan Bet Too Big on Washington
+Trump’s willingness to sell out allies should cause a rethink in Taipei.
+
+## Iran Is a Bigger Defeat Than Vietnam
+A war of choice has turned into a strategic disaster for Washington.
+
+## Trump’s Drug War Tactics Don’t Work
+Development aid remains the best way to reduce drug production.
+
 ## It’s Time for the United States to Leave the Middle East
 The Iran war is only the latest in a string of U.S. failures.
 
@@ -161,21 +170,6 @@ Foreign intervention is a policy with a long history of disaster.
 
 ## Everyone Lost the War With Iran
 Months of fighting revealed that multiple countries can impose costs, but none can impose order.
-
-## Israel Has a Plan to Keep Calling Its Own Shots
-Israel is resisting Donald Trump’s demands that it fall in line with his Middle East policy.
-
-## How to Say No to an Imperial President
-Trump’s expansion of executive power would make even Richard Nixon blush.
-
-## U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
-But continued Israeli strikes on Lebanon could derail the agreement before it takes effect.
-
-## The Truce Between the U.S. and Iran Was the Easy Part
-Getting Iran to concede on key issues will be a struggle.
-
-## Iran Hawks Side-Eye Trump’s Deal
-The president will feel criticisms from this group most keenly.
 
 ## Japan Eyes a Homegrown FMS System as Defense Exports Become a Strategic Tool
 The government is considering establishing a new organization – to manage a Japanese-style Foreign Military Sales system and promote defense exports.
@@ -249,29 +243,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Repairs begin at 1,000-year-old Kyiv monastery after Russian attack
-The Kyiv Pechersk Lavra is under repair after deadly Russian attacks on the Ukrainian capital on Monday.
+## Argentina vs Algeria live: World Cup 2026
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream service.
 
-## Israeli strikes kill four in southern Lebanon amid ceasefire talks
-Drone attacks target vehicles in Nabatieh amid fragile ceasefire negotiations between Iran and the US.
+## South Korea World Cup squad at odds with media over Son Heung-min mockery
+South Korean players reportedly refrain from speaking to national media outside official World Cup commitments.
+
+## Palestinian Bedouin villagers demolish homes after Israeli orders
+Palestinian Bedouins in Beersheba are demolishing their own homes after Israel issued demolition orders.
+
+## US Justice Department accuses 15 Minnesota activists of ‘antifa’ activities
+Prosecutors have accused the activists of seeking 'to interfere with lawful immigration enforcement operations'.
+
+## Returning to destruction in south Lebanon
+Many Lebanese are returning to their homes in the south to face the destruction that upended their livelihoods.
+
+## Iran, Ukraine dominate G7 summit
+Here’s what came out of the G7 summit in France.
+
+## Iranian fans honour Minab victims at World Cup match
+Iranian fans turned their World Cup match against New Zealand into a moment of remembrance, raising ‘Minab 168’ banners.
 
 ## Africa’s chances at the World Cup
-There are six teams from sub-Saharan Africa to watch at this World Cup.
-
-## Robinhood slashes workforce by 10 percent amid restructuring
-CEO Vlad Tenev said while the firm is in a strong financial position, it has been a ‘heavily-layered organization'.
-
-## Israel seizes power over occupied West Bank mosque from Palestinians
-Hebron's mayor warns unilateral changes breach agreements, posing significant consequences for the region's stability.
-
-## Ronaldo’s last dance as Portugal face DR Congo in World Cup: All to know
-Team news, prediction, and lineups as Cristiano Ronaldo’s Portugal begin quest for maiden Cup trophy against DR Congo.
-
-## Trump slams Israeli attacks on Lebanon at G7 summit
-US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.
-
-## Qatar renews mediation efforts for regional stability after US-Iran deal
-Qatar says it is working to prevent a return to war, following the signing of the MoU between the US and Iran.
+From Cape Verde’s debut to Ghana’s quarter-final legacy, six teams from sub-Saharan Africa to watch at the World Cup.
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
