@@ -1,70 +1,73 @@
 # AION Intelligence
 
-## Environment secretary casts doubt on £10bn Thames Water rescue
-Emma Reynolds’ warning increases prospect of the nationalisation of Britain’s biggest water company
+## SpaceX leapfrogs Amazon to become world’s fourth-most valuable company
+Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
 
-## Fujitsu chair steps down after ‘inappropriate conduct’ claims
-Hidenori Furata departs Japanese IT services group over ‘woman-related’ allegations
+## Reeves ‘hopes’ to fund defence without tax rises
+UK chancellor says cabinet has to decide where to cut spending to pay for extra military budget
 
-## How sentencing of 3 child rapists ignited public anger
-Uproar following the Fordingbridge sentences exposes tensions between public expectation and the principles of youth rehabilitation
+## Oil sinks below $80 a barrel as traders bet Strait of Hormuz flows will return
+Brent crude has tumbled to three-month low following agreement to extend US-Iran ceasefire
 
-## Iranian football team told to return to Mexico after opening World Cup game
-Head coach of Tehran’s squad says ‘oppressed’ players instructed to go back to training base over border
+## UK-EU summit set for July 22
+Starmer seeks to flesh out plan for closer bilateral ties despite questions over his future as prime minister
 
-## Bank of Japan raises rates to 1% for first time since 1995
-Central bank says it will stop reducing level of monthly bond purchases from next year
+## G7 leaders agree to increase sanctions on Russian energy
+Club of wealthy nations to raise pressure on Moscow ‘notably’ through limits on its oil and gas exports
 
-## Bank of Japan raises rates in response to inflation risks
-BoJ notes that pass-through of high oil prices ‘progressing at a relatively fast pace’ through Japan’s economy
+## France’s spy agency replaces Palantir with local rival
+Move is part of European drive to reduce dependence on US tech firms
 
-## Met officers make arrest over notorious ‘Putney pusher’ cold case
-Assault by a jogger on a woman crossing a London bridge in 2017 provoked viral outrage
+## Trump says Syria should fight Hizbollah instead of Israel
+US president says he is ‘not happy’ with Israeli military campaign against Lebanese militant group
 
-## Central banks repatriate gold as global insecurity rises
-Conflict, sanctions and decline in trust have made the institutions more cautious about storing bullion in other countries
+## Yum Brands to offload Pizza Hut in $2.7bn deal
+KFC and Taco Bell owner to sell bulk of fast-food chain to private equity group
+
+## The best books on sport, health and wellness to read this summer
+Simon Kuper and Anjana Ahuja select their best mid-year reads
 
 ## Rathbones shares sink 18% as it halts investments by high-risk clients
 Wealth manager at risk of near-£1bn hit to inflows
 
-## Jardine Matheson, titan of Asian commerce, pivots to developed markets
-Chief executive Lincoln Pan says portfolio has become heavily skewed towards south-east Asia
+## Ericsson chief to step down after stabilising scandal-hit group
+Börje Ekholm admitted possible payments by company to Isis in 2022 but then improved performance
 
-## Treasuries shrug at the ceasefire
-Plus, tech sells bonds because they can
+## EU resists banks’ plea for major overhaul of capital rules
+European Banking Authority sets out ‘targeted’ plan to simplify overlapping requirements for lenders
 
-## FirstFT: Hormuz reset to take ‘weeks’
-Also in today’s newsletter: Russian shadow fleet and workplace AI bots
+## TCS enters multi-year digital transformation deal with Tottenham Hotspur
+This partnership marks a significant step in the integration of technology within sports, promising to transform fan interactions and operational performance.
 
-## China retail sales sink for first time since Covid
-Investment slump deepens as divergence widens in second-biggest economy
+## Air India eyes unbundled no-meal fares on around 20 domestic sectors
+Carrier may introduce pay-if-you-use model on select routes as it looks to expand ancillary revenues and sharpen fare segmentation
 
-## Women in Business
-English Football boss Carol Shanahan says: you win or you learn. Plus, newly wealthy women need better advice; Nordic fertility measures are not working; menstrual leave; sudden hair loss; and the unstoppable rise of film executive Aparna Purohit
+## Pocket
 
-## Sensex today | Stock Market Live: Sensex gains 500 pts, Nifty holds above 23,950 in volatile trade as metals drag markets lower
-Sensex, Nifty, Share Prices LIVE: Equity benchmarks traded higher but pared early gains on Tuesday afternoon as profit booking in heavyweight stocks capped upside. Metals fell over 2 per cent, while realty and media outperformed. Broader markets were mixed, with smallcaps gaining and midcaps slippin
 
-## Nifty could hit 27,000-28,000 in CY26, says Monarch Networth; bullish on banks, telecom stocks
-The brokerage estimates Nifty earnings per share (EPS) at 1,251 for FY27 and 1,443 for FY28, underpinning its positive outlook on Indian equities
+## Agnikul, Hyperloop and other IIT M start-ups sign $100-million MoUs at Bharat Innovates 2026
+Two institutional MoUs were inked between IITM Global and Agna Capital to establish the Bharat Innovates Fund, and another between IITM Global and SouthwestX to help Indian start-ups access the German and French markets
 
-## Higher prices for gas, groceries and flights will outlast Iran war, experts say
-Even after oil starts flowing again from the Middle East, it could take a while for consumers to see a difference at local fuel pumps, supermarkets and other places they shop
+## Monsoon delay deepens farm risk in Gujarat; crop-loss compensation crosses ₹22,700 cr in decade
+The situation is reflected in early-season rainfall data, with the State recording an 83 per cent deficit as of June 16.
 
-## Indian envoy meets 21 rescued crew members of MT Settebello
-MT Settebello was about 30 Nautical Miles off the coast of Oman at the time of the attack
+## The contacts, contracts and commission model
+To phase out corruption, politicians must not get involved in clearance of specific projects, audits need to improve, and the domain of the CCI should be widened
 
-## Inox Wind inks MoU with Inox Clean to supply 1,500 MW wind turbines
-Under the Memorandum of Understanding (MoU), IWL will supply its 3.3 MW and 4X MW wind turbines for renewable energy projects being developed by Inox Clean Energy across India
+## How to sustain solar energy growth sans curtailments
+Steps need to taken in advance for increasing the demand for electricity particularly in solar hours
 
-## Adani Ports expands partnership with Kaleris, to invest up to $100 million in AI-led port automation
-The company stated that it has expanded its partnership with US-based supply chain software provider Kaleris to deploy advanced optimisation, planning and automation solutions across its port network
+## How will the US-Iran peace deal turn the global oil market
 
-## Biocon aims to become world’s top insulin supplier in five years
-Chairperson Kiran Mazumdar-Shaw sees opportunity as global pharma giants pivot to GLP-1 therapies.
 
-## Iran's Araqchi says talks with US to finalise agreement will start on Friday
+## Trump says US can ‘soon’ reimpose Russian crude sanctions after Hormuz reopening
+US President Donald Trump indicated that sanctions on Russian oil could be reimposed soon, following the resumption of crude flows through the Strait of Hormuz after an Iran deal. Speaking at the G7 summit, Trump stated that with oil now moving freely, Washington can shift focus to ending the Ukrain
 
+## India builds record grain reserves as El Nino returns
+India's grain reserves have reached unprecedented levels, with rice stocks soaring 15% year-on-year to a record high and wheat inventories hitting a five-year peak. This robust buffer strengthens national food security and offers flexibility for exports, even amidst El Niño concerns. Strong farmer p
+
+## Zepto IPO: Can 10-minute delivery survive public-market scrutiny?
+Zepto is preparing for its Initial Public Offering, revealing its rapid expansion and operational strengths in India's quick-commerce market. The company has achieved significant order volumes and user growth. Investors are closely examining its potential for sustainable profits amidst fierce compet
 
 ## US-Iran peace deal: What opening of Strait of Hormuz would mean for India’s crude oil supplies
 Prior to the outbreak of the conflict, the Gulf region supplied roughly 40% of India's crude oil imports. After the war began on February 28, inflows from the region declined sharply.
@@ -81,62 +84,68 @@ A tentative US-Iran deal signals an end to a 100-day conflict impacting global o
 ## Income Tax Return: Is Form 16 mandatory for ITR filing & what to do if the employer has not issued it?
 Ideally, you should also cross check information across all your major documents such as Form 16, Form 26AS, Annual Information Statement (AIS), interest statements etc. to see if there are any discrepancies.
 
-## Stock Market Live Updates Today: BSE Sensex opens over 200 points up, Nifty50 above 23,900; Asian stocks edge up, oil prices rise marginally
+## Chhattisgarh govt makes Gayatri Mantra mandatory in govt schools; Cong hits out
+The decision was communicated to all districts on June 12 and required schools to conduct a series of daily cultural, educational, and value-based activities
+
+## NDA MLAs moved to hotel 48 hours before Rajya Sabha polls, leader says ‘no kidnapping’
+The Jharkhand NDA legislators will stay at the hotel for 48 hours and will only head back after casting votes for the June 18 Rajya Sabha polls, a leader said.
+
+## Phase 1 of Census 2027 completed in 23 states, Union territories
+A 15-day self-enumeration process is underway in Kerala and Nagaland, followed by a field operation starting on July 1 and continuing until July 30, it said.
+
+## Uddhav's party to split up again? Big buzz in Maharashtra as MPs 'skip' meet, Sena ‘doors open’
+While Uddhav's Sena has nine MPs, at least two-thirds, or 6 MPs, are required to engineer the rift to avoid disqualification under the anti-defection law.
+
+## No more over-the-counter cough syrups? Why government took the big step
+The Health Ministry said the amendment was undertaken to strengthen regulatory oversight of syrup formulations.
+
+## IPS was rebuking officers for not saluting him, turns out he was a fraud
+Shukla said he was an “IAS officer from Noida” and reprimanded the officers for not wearing their caps and not saluting them, police said.
+
+## Gurugram launches district-wide diarrhoea prevention drive till July 31
+According to health department officials, Gurugram did not report any confirmed child deaths due to diarrhoea in the previous year
+
+## ‘Leadership is not arrogance’: Another AIADMK MLA quits, takes a swipe at EPS
+On Tuesday, Vijayabaskar called on assembly speaker Prabhakar at the Secretariat and submitted his resignation
+
+## ‘They were all there’: Tom Holland drops biggest hint yet about secret wedding to Zendaya
 
 
-## Top stocks to buy today: Stock market recommendations for June 16, 2026 - check list
-Stock market recommendations: Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan recommends buying Oberoi Realty, HDFC Life Insurance, Blue Star, and Phoenix Mills as the technical top stocks for today, June 16, 2026:
-
-## Oil prices still above pre-war levels despite US-Iran truce hopes
-Global oil prices have seen a significant drop following signs of de-escalation in Middle East tensions, spurred by a US-Iran memorandum of understanding. While this offers relief to consumers, questions linger about the speed of supply recovery. The Strait of Hormuz, a vital oil route, is expected 
-
-## 'Adding more pressure': Ex-BJP leader Annamalai questions Centre's high security measures for NEET re-test
-The Tamil Nadu leader also flagged that the measures adopted by the Centre may not resolve the issue, but create problems.
-
-## Abhishek Banerjee in soup amid TMC crisis: Om Birla's 2-hour deadline, 19-hour grilling
-Abhishek days lately are mostly being spent either being searched by probe agencies or appearing before them after being summoned in multiple cases.
-
-## Govt amends rules to bring cough syrups under stricter regulatory oversight
-Govt amends rules to bring cough syrups under stricter regulatory oversight
-
-## CMFRI drafts national guidelines for marine ecolabelling to boost seafood exports
-CMFRI drafts national guidelines for marine ecolabelling to boost seafood exports
-
-## NCB asks entities handling chemical used to make mephedrone to register
-The chemical was included on the list of controlled substances due to its wide misuse by drug cartels to manufacture mephedrone
-
-## Andhra CM pitches state as semiconductor manufacturing hub at Singapore roundtable
-Andhra CM pitches state as semiconductor manufacturing hub at Singapore roundtable
-
-## TMC news LIVE updates: Got votes due to Didi, no rebellion against her, says Rebel MP Rachna Banerjee
-TMC news LIVE updates: The faction of 20 rebel MPs, which feature heavy-weights like Jadavpur MP Saayoni Ghosh, on Sunday moved to further solidify their support to the NDA by writing a letter to Lok Sabha Speaker Om Birla that said the group had merged with NCPI, a party formed in 2022.
-
-## 13 Bangladeshis living illegally in Gurugram caught, deportation to follow: Police
-Police said an ongoing identification drive is aimed at identifying people residing illegally and does not cover Indian citizens and foreigners with valid documents
-
-## What is Helium-3, the $2,000/litre rare gas sparking a race to mine the Moon?
+## Karnataka High Court declares Gameskraft founders’ ED arrest illegal, orders release
 
 
-## Annamalai questions ‘military-grade’ security for NEET retest: ‘Additional pressure on students’
+## Former minister Vijayabaskar latest AIADMK legislator to quit as crisis deepens for party
 
 
-## AP Inter Supplementary Results 2026 LIVE Updates: BIEAP Supply results expected this week at bie.ap.gov.in
+## To boost cancer treatment & research, medical cyclotron facility to be set up in Nagpur
 
 
-## After US-Iran peace deal, what is the status of ships waiting at Hormuz?
+## Sooryavanshi got provoked, needs to learn; Lankans must behave: Sairaj Bahutule
 
 
-## Court drops C-section ‘negligence’ case, notes couple returned to same doctor despite firstborn’s injury
+## Ashwini Vaishnaw to flag off first direct Pune–Shirdi daily express tomorrow
 
 
-## Salah 1, De Bruyne 0: How Egypt star won much-awaited World Cup duel
+## Pak-backed terror syndicate plotting attacks in Delhi-NCR busted; 7 held: Cops
 
 
-## Nagpur woman claims blackmail, assault, forced conversion; 2 held, cleric wanted
+## Panasonic wins trademark case: Delhi High Court junks ‘religious inspiration’ argument for ‘PONTA’ brand
 
 
-## Nephew injured critically by Chinese manjha, UP minister questions how string available despite curbs
+## Yum China takes full slice of Pizza Hut China in US$1.2 billion deal
+Yum China, the operator of KFC and Pizza Hut in mainland China, will pay US$1.2 billion to acquire ownership of the Pizza Hut business in the market, deepening its separation from US restaurant giant Yum! Brands and gaining full control of the brand in China. The consideration will be paid entirely 
 
+## Hong Kong property tycoon Mico Chung cashes out of US$13.4 million home on The Peak
+A company linked to CSI Properties chairman and founder Mico Chung and his wife has sold a luxury house on The Peak for HK$105 million (US$13.4 million), according to official records. Aqua Sole Company sold the property at 27 Plantation Road to Hu Hanyang in a transaction completed on June 12, acco
+
+## Chinese shoppers prefer domestic brands, but not when it comes to these few categories
+Domestic brands in China dominate segments from electric vehicles to electronic products to various everyday goods, but more shoppers are reaching for foreign competitors in specific categories including chocolate, infant formula, diapers and instant noodles. In chocolate, Japanese brand Meiji gaine
+
+## Motorsport new battleground for Chinese carmakers as Geely and BYD rev up global drive
+Billionaire Li Shufu, owner and chairman of Geely Auto, China’s second-largest carmaker, plans to bring the Superbike World Championship (WSBK) to the country, banking on the success of a home-grown motorcycle brand in competition. The move marked Geely’s latest step to sharpen its image as an inter
+
+## ‘Ni hao, Ah Bao’: China’s Alipay gets AI-agent overhaul to challenge big tech rivals
+Ant Group has unveiled the biggest overhaul of Alipay in two decades, transforming its ubiquitous mobile-payment app into a native AI platform with autonomous agents, as it strives to dominate China’s next-generation internet gateway. A trial version of the flagship app now features an interactive a
 
 ## Young tech elites drive rise in Shenzhen luxury home sales after purchase curbs ease
 Several luxury residential projects in Shenzhen sold out quickly in May, with young elites from the semiconductor and artificial intelligence sectors replacing traditional tycoons as the most avid buyers. Post-90s buyers, mainly technology professionals, accounted for 31 per cent of transactions for
@@ -147,20 +156,14 @@ Central banks are expected to expand their gold holdings, while the US dollar’
 ## China’s first-tier new home prices rise for third month as stabilising steps gain traction
 New home prices in China’s first-tier cities rose 0.2 per cent in May, extending a three-month rebound after nine months of losses and a flat February, pointing to a gradual recovery in confidence as stabilisation measures take hold, analysts have said. Compared with the previous month, May home pri
 
-## Chinese metal producer MMG to raise US$1.6 billion selling stocks and bonds
-MMG, the offshore metal-producing unit of state-backed China Minmetals Corp, plans to raise a combined US$1.6 billion selling placement shares and convertible bonds to fund business expansion amid rising demand for metals driven by artificial intelligence (AI) infrastructure buildout. The company, w
+## It’s Time to Stop Hunting Monsters
+Foreign intervention is a policy with a long history of disaster.
 
-## AI’s next frontier, world models, and why China is ahead of the pack
-They’ve been described as the “next frontier” of artificial intelligence (AI) – world models that go beyond large language models (LLMs) by simulating the physical environment. And in this emerging field, China has an edge over the United States. World models that understand the physical laws of the
+## Everyone Lost the War With Iran
+Months of fighting revealed that multiple countries can impose costs, but none can impose order.
 
-## Mainland China theme park operator applies for listing in Hong Kong
-Kaifeng Millennium City Park Inc., the operator of a theme park based on a famous Chinese painting dating back to the Northern Song dynasty, has submitted an initial public offering (IPO) application in Hong Kong, following similar moves by other mainland China non-tech plays recently. The company’s
-
-## Will Beijing’s tighter capital-control rules dampen Hong Kong’s housing rebound?
-New homes that Hong Kong developers will launch in the coming days and weeks will serve as a crucial test of the impact of Beijing’s latest capital-control measures, amid signs of recovery in the city’s residential property market. “Seemingly, a number of developers have turned more cautious in laun
-
-## How to ride out Hong Kong’s US$274 billion lock-up expiry wave hitting stocks this year
-Investors will soon need to contend with a side effect of Hong Kong’s initial public offering (IPO) boom over the past year, as an unprecedented number of shares are expected to flood the market once lock-up restrictions expire. Over the next 12 months, shares worth US$274 billion could potentially 
+## Israel Has a Plan to Keep Calling Its Own Shots
+Israel is resisting Donald Trump’s demands that it fall in line with his Middle East policy.
 
 ## How to Say No to an Imperial President
 Trump’s expansion of executive power would make even Richard Nixon blush.
@@ -176,15 +179,6 @@ The president will feel criticisms from this group most keenly.
 
 ## Trump Has His Iran Deal. How Soon Until Oil Prices Come Down?
 It’s complicated but not this month, most likely.
-
-## What We Do and Don’t Know About the U.S.-Iran Peace Deal
-Key issues, like Iran’s nuclear program, remain unresolved.
-
-## Introducing the Summer 2026 Print Issue
-The end of the world as we know it.
-
-## The End of Neoliberalism
-The virtues it extolled—cosmopolitanism and competition—led to its demise.
 
 ## How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance
 The strategic goal for most countries is energy systems that are affordable and cannot be blocked or held hostage. For Taiwan, the stakes are particularly high.
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran fans react to team’s first World Cup match amid political schisms
-Iran fans react to team’s first World Cup match amid political schisms
+## Lebanese rush back to their devastated homes in south after US-Iran deal
+Thousands return to their homes following Iran-US deal despite Israel saying it won't end its occupation of Lebanon.
 
-## What to know about this week’s US primary elections
-Primaries are set to take place in Alabama, California, Oklahoma, Georgia, and the capital, Washington, DC, on Tuesday.
+## Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw
+Amir Ghalenoei made the comment after Iran were forced to leave the US for their Mexico base after their opening match.
 
-## Football fans celebrate the World Cup across continents and cultures
-Fans in jerseys and painted faces gather to watch World Cup matches, celebrating unity and rivalry alike.
+## ‘Mistrust’ leaves ebola patients receiving treatment too late
+A growing sense of mistrust is hampering efforts to contain the Ebola outbreak in the Democratic Republic of the Congo.
 
-## Former CAR president on trial in absentia over crimes against humanity
-The alleged crimes committed by Bozize's security forces include murder, enforced disappearance, torture and rape.
+## Israeli court rules to keep prominent Palestinian doctor in detention
+The Palestinian doctor demanded his release last week after months of imprisonment and visible signs of torture.
 
-## Eight people killed in US Air Force B-52 bomber crash: What we know
-The aircraft, one of the US Air Force's longest-used bombers, goes down during a routine test mission.
+## ‘There’s divergence between US and Israeli objectives in the region’
+‘There’s divergence between US and Israeli objectives in the region’
 
-## Palestine weekly wrap: World sanctions settlers, Israel funds settlements
-Amnesty calls West Bank ethnic cleansing 'state-sponsored' and international allies bar Finance Minister Smotrich.
+## Geneva to host Iran-US deal event: What other pacts have been signed there?
+Geneva is widely recognised as the 'Peace Capital' of the world.
 
-## Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad
-Palestinian activists are being put on trial in Europe for supporting Hamas on the basis of Israeli evidence.
+## Red Cross warns Ebola outbreak in DRC not yet peaked, could last a year
+The Red Cross says it is 'very difficult' to know the extent at which the epidemic is spreading.
 
-## ‘My voice is being heard’: A month of India’s Cockroach Janta Party
-Satirical party launches nationwide Gen Z protest to demand federal education minister's removal over exam paper leaks.
+## India blocks Telegram until Monday due to student exam fraud concerns
+A viral youth satirical protest movement, the Cockroach Janta Party, has emerged following exam cancellations last month
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
