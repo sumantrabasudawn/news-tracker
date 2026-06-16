@@ -1,16 +1,25 @@
 # AION Intelligence
 
-## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company
-Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
-
 ## Ex-Citi executive says bank sacked her after raising Trump concerns
 Former employee claims in lawsuit that she identified issues with risk-management practices
 
-## Yum Brands sells struggling Pizza Hut in bet on faster-growing businesses
-KFC and Taco Bell owner to offload bulk of fast-food chain to private equity group as part of $2.7bn sale
-
 ## Russian warship fires warning shots towards yacht in English Channel
 UK says incident is not linked to Britain’s interception of an oil tanker that is part of Moscow’s shadow fleet
+
+## Snap defies investor pressure with ‘Specs’ smart glasses launch
+Chief Evan Spiegel describes $2,195 eyewear as his ‘life’s work’ as he faces increasing criticism over costs of project
+
+## FirstFT: Oil falls below $80 as traders bet Strait of Hormuz flows will return
+Also in today’s newsletter: Bank of Japan raises rates to 1%, and India temporarily blocks Telegram
+
+## Poland and World Bank agree end to development loans
+Deal to graduate from main borrowing programme marks milestone in country’s economic transformation
+
+## SpaceX leapfrogs Amazon to become world’s fifth-most valuable company
+Elon Musk’s AI, rocket and satellite group also announces $60bn deal for AI coding app Cursor
+
+## Yum Brands sells struggling Pizza Hut in bet on faster-growing businesses
+KFC and Taco Bell owner to offload bulk of fast-food chain to private equity group as part of $2.7bn sale
 
 ## Notes from the FT Global Bond Summit
 The reordering is happening in the asset class, too
@@ -20,9 +29,6 @@ Brent crude has tumbled to three-month low following agreement to extend US-Iran
 
 ## BMW cuts profit guidance as Iran war adds to challenges in Chinese market
 Carmaker expects operating margin in its automotive division to be 1-3% in 2026, a sharp fall from previous projections
-
-## Australia-style approaches to social media ban may not work, Ofcom warns
-Government considers putting age limits on virtual private networks to help enforce social media restrictions
 
 ## The White House’s capricious controls on Anthropic
 An opaque approach to US policy risks hampering AI development
@@ -51,6 +57,21 @@ Despite the “below normal” monsoon forecast, at 90 per cent of long period a
 ## In a first, US pips Qatar as India’s largest LNG supplier during March-May
 Washington supplies 1.5 million tonnes of LNG to India, compared to a mere 0.1 mt by Qatar
 
+## CERT-In calls for AI-assisted security testing, faster patches
+
+
+## Lower oil prices to offer relief to consumers, government
+
+
+## Inflation starting to take toll on consumers: P&G
+Procter & Gamble India is observing a noticeable impact of rising inflation on consumer spending habits, with shoppers becoming more cautious. The company anticipates short-term growth challenges due to ongoing macro-economic uncertainties, including volatile raw material costs and potential monsoon
+
+## Yum Brands sells Pizza Hut in $2.7bn deal
+Yum Brands is divesting its struggling Pizza Hut chain in a $2.7 billion deal. Private equity firm LongRange Capital will acquire Pizza Hut's global operations, excluding China, for approximately $1.5 billion. India's Pizza Hut business will also fall under LongRange Capital's management. The China 
+
+## Dalal Street cheers peace deal, oil slide; sensex up for 4th day
+
+
 ## India in talks with Russia-linked Siberian deposit to source rare earth Samples: Report
 India is seeking rare earth samples from Russia. This move aims to diversify critical mineral supplies away from China. State miner IREL is in talks with Rosneft for samples from Siberia's Tomtor deposit. India will study the mineral composition before further engagement. This effort supports India'
 
@@ -60,22 +81,13 @@ The rupee dipped slightly to 94.60 against the dollar on Tuesday, ending a two-d
 ## US stocks today: Dow hits record high as easing oil prices boost Wall Street
 Indian markets mirrored global optimism as US stocks neared record highs, fueled by falling oil prices and hopes for a US-Iran peace deal. SpaceX's impressive market debut and gains in financial and chip stocks also boosted investor confidence. All eyes are now on the Federal Reserve's upcoming poli
 
-## Air India launches 'basic fare' option without complimentary meals on select domestic flights
-Air India has introduced an optional 'Basic fare' on select domestic routes, excluding complimentary meals to cater to price-sensitive travelers. This new option offers a more unbundled travel choice, while existing fare categories with meals and bundled benefits remain available. The airline will e
+## Brother, sister-in-law held for 'killing' man over alleged harassment in Delhi
+The accused have told their interrogators that they killed the man following prolonged disputes over his alleged objectionable behaviour towards the woman.
 
-## SpaceX soars past Amazon in market value after IPO frenzy; options trading begins
-SpaceX shares soared over 14% Tuesday, briefly surpassing Amazon and nearing Microsoft's valuation, reaching $2.85 trillion. Investor excitement surged with new options trading, despite analysts warning of extreme volatility and questioning the lofty valuation. The company also plans a $60 billion a
+## PM Modi meets Canadian counterpart, discusses ways to build stronger partnership
+The two leaders met on the sidelines of the G7 Summit in Evian-les-Bains in eastern France.
 
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Indian equities surged for a third day, with Sensex and Nifty climbing on positive global cues, foreign investment, and easing crude oil prices following a reported US-Iran peace deal. IT stocks led the gains, with HCL Tech announcing a significant investment. Broader markets also participated in th
-
-## Trump says US can ‘soon’ reimpose Russian crude sanctions after Hormuz reopening
-US President Donald Trump indicated that sanctions on Russian oil could be reimposed soon, following the resumption of crude flows through the Strait of Hormuz after an Iran deal. Speaking at the G7 summit, Trump stated that with oil now moving freely, Washington can shift focus to ending the Ukrain
-
-## India builds record grain reserves as El Nino returns
-India's grain reserves have reached unprecedented levels, with rice stocks soaring 15% year-on-year to a record high and wheat inventories hitting a five-year peak. This robust buffer strengthens national food security and offers flexibility for exports, even amidst El Niño concerns. Strong farmer p
-
-## 'Several Indians have also lost their lives': PM Modi flags maritime concerns at G7 summit
+## ‘Safety of seafarers is our collective responsibility’, says PM Modi, calls for secure sea routes
 Addressing an outreach session of the G7 summit, PM Modi said India firmly believes that lasting solutions to conflicts.
 
 ## Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports
@@ -93,34 +105,28 @@ Tuesday’s Akasa Air’s flight was the first direct air link between NIA and t
 ## PM Modi, Meloni share laugh, discuss ‘Instagram’, days after viral ‘Melodi’ post gets 13M likes | Watch
 A video from the event shows PM Modi interacting with Giogia Meloni.
 
-## Bhopal Court extends judicial custody of Twisha Sharma's husband, mother-in-law till June 30
-The accused were produced before the court through video conferencing after the completion of their 14-day judicial custody today.
-
-## ‘Leaks moved to other apps’: Telegram CEO Pavel Durov criticises temporary ban ahead of NEET-UG re-exam
-Pavel Durov said that the ban affects and “punishes” 150M+ ordinary users in India and not those who leaked the papers.
-
-## At G7 meet, Mark Carney invites PM Narendra Modi to visit Canada; both vow to strengthen relations
+## CM: NEET candidates travelling in roadways buses for June 21 exam to get 50% fare concession
 
 
-## Citizen lounge by day, study hub by evening: New Delhi DM office opens doors to students
+## ‘Respond to calls on official numbers, keep phones active all the time’: DGP to on-field officials
 
 
-## Schools start without Class 6 textbooks, state’s new curriculum causes delay
+## Mumbai INOX executive duped of Rs 10.4 crore via WhatsApp, four arrested in Delhi
 
 
-## NIA arrests key accused in Shambhu DFC blast case; gets 8-day custody
+## Trump listening, Modi to G7: Shortage of trust, need to rebuild
 
 
-## Panchkula police arrests Delhi-based man in Rs 4-lakh online trading fraud
+## India seeks $900-million steel quota to end UK trade deal logjam
 
 
-## Maharashtra bureaucratic shake-up: Vijay Singhal appointed OSD for Dharavi redevelopment project
+## Jasdan Patari handicraft gets GI tag
 
 
-## Tughlakabad ‘arson’ : One more death takes toll to four
+## TMC crisis: Speaker Om Birla to hear both sides before deciding on rebel MPs
 
 
-## ‘His ego couldn’t…’: When Rhea Pillai spoke of dealing with conflict after leaving Leander Paes
+## Provide all amenities to visually impaired man and his mother living in poverty, Supreme Court tells Odisha
 
 
 ## Hong Kong’s financial revival: trading, tokenisation and governance in focus
@@ -147,6 +153,12 @@ Several luxury residential projects in Shenzhen sold out quickly in May, with yo
 ## Going for gold: central banks expand bullion holdings as US dollar’s dominance wavers
 Central banks are expected to expand their gold holdings, while the US dollar’s dominance in global reserves will fade in five years, according to the World Gold Council. The push to accumulate gold reflects a broad de-dollarisation trend in recent years. About nine in 10 central banks expect global
 
+## Why Anthropic Is Fighting With Trump (Again)
+The AI company is back in the U.S. government’s crosshairs.
+
+## What Will China Learn From the Iran War?
+As the conflict winds down, Beijing is taking notes.
+
 ## Trump Puts Russia-Ukraine War on the Back Burner
 A lackluster attitude highlights divisions between the United States and its G-7 allies.
 
@@ -165,11 +177,14 @@ Development aid remains the best way to reduce drug production.
 ## It’s Time for the United States to Leave the Middle East
 The Iran war is only the latest in a string of U.S. failures.
 
-## It’s Time to Stop Hunting Monsters
-Foreign intervention is a policy with a long history of disaster.
+## KMT Chair Returns From Her US Tour
+Cheng Li-wun's two-week trip to the U.S. didn't see the high-profile White House meetings she sought, but still served as a signal of her political ambitions.
 
-## Everyone Lost the War With Iran
-Months of fighting revealed that multiple countries can impose costs, but none can impose order.
+## Survivors of Myanmar’s Landmine Blasts Struggle With Severed Limbs and Shattered Lives
+The pain from their injuries hasn’t gone away. Meanwhile, they face challenges in earning a livelihood.
+
+## Mongolia and Africa: Time to Reignite a Forgotten Partnership
+During the Cold War, Mongolia forged surprisingly warm relationships with African countries. It’s time to resume those ties.
 
 ## Japan Eyes a Homegrown FMS System as Defense Exports Become a Strategic Tool
 The government is considering establishing a new organization – to manage a Japanese-style Foreign Military Sales system and promote defense exports.
@@ -185,15 +200,6 @@ In the context of El Salvador’s transformation under Bukele, its relationship 
 
 ## India’s Strongest Regional Party Collapses Thanks to Modi’s BJP
 Legislators of the Trinamool Congress, which ruled West Bengal for three straight terms, have left the party in droves, leaving it a mere shadow of its former self.
-
-## Why the US Should Back Pakistan in Blacklisting BLA in the UNSC
-The U.S. and Pakistan engage in substantial intelligence-sharing and counterterrorism cooperation. These could be at risk.
-
-## Why India Does Not Interest China
-The Chinese see Indians as not having absorbed the lessons that China did from its humiliation at the hands of the West.
-
-## Beyond the Malacca Dilemma: China’s Emerging Corridor-Hedging Logic
-China’s approach to external connectivity recognizes that different trade routes perform different functions under different political and operational conditions.
 
 ## The Fall of Fortress Singapore: Three Lessons from the Collapse of Britain’s Great Asian Bastion
 Editor’s note: This is part of a running series of essays by Iskander Rehman, entitled “Applied History,” which seeks, through the study of the history of strategy and military operations, to better illuminate contemporary defense challenges.The fall of Singapore on February 15 stupefied the Prime M
@@ -243,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Argentina vs Algeria live: World Cup 2026
-Follow our live build-up, with full team news coverage, ahead of our text commentary stream service.
+## Brazilian court convicts Eduardo Bolsonaro of courting US interference
+US placed tariffs on Brazilian goods and sanctioned judicial officials involved in trial of the father for coup plot.
+
+## US sprinter Noah Lyles sets world best 150m time at Golden Spike meet
+Lyles clocks 14.67 seconds, edges Dambile of South Africa for gold while Australian teenager Gout Gout finishes third.
+
+## Somaliland president visits Israeli Knesset on tour
+Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.
+
+## Ghana’s Partey loses appeal to overturn Canadian visa refusal for World Cup
+Thomas Partey will not be able to enter Canada for Ghana's first World Cup match against Panama on Wednesday.
+
+## Mbappe breaks scoring record in France win over Senegal in World Cup
+Kylian Mbappe becomes France's all-time top scorer with 58 goals, two goals off record World Cup scorer Miroslav Klose.
+
+## LIVE: Argentina vs Algeria – World Cup 2026
+Follow our live updates, with full team news coverage, ahead of our text commentary stream service.
 
 ## South Korea World Cup squad at odds with media over Son Heung-min mockery
 South Korean players reportedly refrain from speaking to national media outside official World Cup commitments.
 
 ## Palestinian Bedouin villagers demolish homes after Israeli orders
 Palestinian Bedouins in Beersheba are demolishing their own homes after Israel issued demolition orders.
-
-## US Justice Department accuses 15 Minnesota activists of ‘antifa’ activities
-Prosecutors have accused the activists of seeking 'to interfere with lawful immigration enforcement operations'.
-
-## Returning to destruction in south Lebanon
-Many Lebanese are returning to their homes in the south to face the destruction that upended their livelihoods.
-
-## Iran, Ukraine dominate G7 summit
-Here’s what came out of the G7 summit in France.
-
-## Iranian fans honour Minab victims at World Cup match
-Iranian fans turned their World Cup match against New Zealand into a moment of remembrance, raising ‘Minab 168’ banners.
-
-## Africa’s chances at the World Cup
-From Cape Verde’s debut to Ghana’s quarter-final legacy, six teams from sub-Saharan Africa to watch at the World Cup.
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
