@@ -1,64 +1,85 @@
 # AION Intelligence
 
-## How an AI windfall gave Bain Capital one of the most lucrative private equity deals ever
-US firm stands to pocket profits of $15bn on 2018 buyout of Kioxia, the former Toshiba Memory
-
-## China’s economy shows signs of weakness in May
-Retail sales decline for first time in more than three years and fixed asset investment slump deepens
-
-## How has India dealt with the economic hit from the Iran war?
-Also in this newsletter: can India’s virtual cockroaches survive in the real world?
-
 ## Environment secretary casts doubt on £10bn Thames Water rescue
 Emma Reynolds’ warning increases prospect of the nationalisation of Britain’s biggest water company
 
-## US billionaire owners of Crystal Palace explore sale
-South London football club is enjoying its most successful ever period
+## Fujitsu chair steps down after ‘inappropriate conduct’ claims
+Hidenori Furata departs Japanese IT services group over ‘woman-related’ allegations
 
-## Gavin Newsom says Trump has ordered justice department to investigate him
-California governor is considered a potential Democratic presidential candidate for 2028
+## How sentencing of 3 child rapists ignited public anger
+Uproar following the Fordingbridge sentences exposes tensions between public expectation and the principles of youth rehabilitation
 
-## FirstFT: US-Iran deal sparks global rally
-Also in today’s newsletter: Starbucks Korea’s ‘Tank Day’ scandal and China summons Sam’s Club over food safety issues
+## Iranian football team told to return to Mexico after opening World Cup game
+Head coach of Tehran’s squad says ‘oppressed’ players instructed to go back to training base over border
 
-## EU starts membership talks with Ukraine
-Accession process moves ahead after Hungary’s new leadership drops its veto
+## Bank of Japan raises rates to 1% for first time since 1995
+Central bank says it will stop reducing level of monthly bond purchases from next year
 
-## ConocoPhillips set to sign deal with Syria to revive gas production
-Agreement will be first by a US energy major with Damascus as it aims to rebuild activity after years of civil war
+## Bank of Japan raises rates in response to inflation risks
+BoJ notes that pass-through of high oil prices ‘progressing at a relatively fast pace’ through Japan’s economy
 
-## SpaceX shares gain for second day after blockbuster debut
-Elon Musk’s AI, satellite and rocket group climbs 19.6% further on Monday
+## Met officers make arrest over notorious ‘Putney pusher’ cold case
+Assault by a jogger on a woman crossing a London bridge in 2017 provoked viral outrage
 
-## Stocks surge as US-Iran deal ignites global rally
-Investor sentiment also helped by SpaceX’s historic initial public offering
+## Central banks repatriate gold as global insecurity rises
+Conflict, sanctions and decline in trust have made the institutions more cautious about storing bullion in other countries
 
-## Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021
-Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing
+## Rathbones shares sink 18% as it halts investments by high-risk clients
+Wealth manager at risk of near-£1bn hit to inflows
 
-## Sensex today | Stock Market Live: Sensex, Nifty set to extend gains as Iran-US peace deal lifts sentiment
-Sensex, Nifty, Share Prices LIVE: Indian equities are likely to extend their recovery on Tuesday as easing crude prices and optimism over a US-Iran peace deal improve investor sentiment. Lower oil costs could support inflation, the rupee and broader market stability.
+## Jardine Matheson, titan of Asian commerce, pivots to developed markets
+Chief executive Lincoln Pan says portfolio has become heavily skewed towards south-east Asia
 
-## US oil reserve hits 43-year low as emergency releases continue during Iran conflict
-The reserve dropped to 340.3 million barrels after another 8.9 million barrels were released last week.
+## Treasuries shrug at the ceasefire
+Plus, tech sells bonds because they can
 
-## India bonds seen rangebound as focus shifts to US-Iran deal details
-The yield on the ⁠benchmark 6.94% 2036 note is likely to move between 6.85% and 6.89%
+## FirstFT: Hormuz reset to take ‘weeks’
+Also in today’s newsletter: Russian shadow fleet and workplace AI bots
 
-## India and Slovakia strengthen defence, cybersecurity and connectivity cooperation
-The agreement marks a new phase in India-Slovakia defence cooperation, with a focus on joint projects, innovation and defence manufacturing.
+## China retail sales sink for first time since Covid
+Investment slump deepens as divergence widens in second-biggest economy
 
-## Assam Finance Minister stresses expansion of tax base, technology-driven revenue mobilisation
-The first budget session of the 16th Assam Legislative Assembly will begin on July 6
+## Women in Business
+English Football boss Carol Shanahan says: you win or you learn. Plus, newly wealthy women need better advice; Nordic fertility measures are not working; menstrual leave; sudden hair loss; and the unstoppable rise of film executive Aparna Purohit
 
-## Railways Minister Ashwini Vaishnaw reviews master plan for redevelopment of busy stations
-The Railway Minister emphasised that redevelopment works should be carried out with minimal inconvenience to passengers and without disrupting train operations
+## Sensex today | Stock Market Live: Sensex gains 500 pts, Nifty holds above 23,950 in volatile trade as metals drag markets lower
+Sensex, Nifty, Share Prices LIVE: Equity benchmarks traded higher but pared early gains on Tuesday afternoon as profit booking in heavyweight stocks capped upside. Metals fell over 2 per cent, while realty and media outperformed. Broader markets were mixed, with smallcaps gaining and midcaps slippin
 
-## India, Slovakia deepen ties with agreements on jobs, education and technology
-The new pacts seek to boost skilled worker mobility, deepen education and research partnerships, and strengthen people-to-people ties between the two nations.
+## Nifty could hit 27,000-28,000 in CY26, says Monarch Networth; bullish on banks, telecom stocks
+The brokerage estimates Nifty earnings per share (EPS) at 1,251 for FY27 and 1,443 for FY28, underpinning its positive outlook on Indian equities
 
-## Iran war: Just an energy shock or a turning point for global markets?
-Unlike earlier energy shocks that proved temporary, the current crisis could drive a deeper transformation as consumers and governments turn towards EVs, renewables and energy diversification
+## Higher prices for gas, groceries and flights will outlast Iran war, experts say
+Even after oil starts flowing again from the Middle East, it could take a while for consumers to see a difference at local fuel pumps, supermarkets and other places they shop
+
+## Indian envoy meets 21 rescued crew members of MT Settebello
+MT Settebello was about 30 Nautical Miles off the coast of Oman at the time of the attack
+
+## Inox Wind inks MoU with Inox Clean to supply 1,500 MW wind turbines
+Under the Memorandum of Understanding (MoU), IWL will supply its 3.3 MW and 4X MW wind turbines for renewable energy projects being developed by Inox Clean Energy across India
+
+## Adani Ports expands partnership with Kaleris, to invest up to $100 million in AI-led port automation
+The company stated that it has expanded its partnership with US-based supply chain software provider Kaleris to deploy advanced optimisation, planning and automation solutions across its port network
+
+## Biocon aims to become world’s top insulin supplier in five years
+Chairperson Kiran Mazumdar-Shaw sees opportunity as global pharma giants pivot to GLP-1 therapies.
+
+## Iran's Araqchi says talks with US to finalise agreement will start on Friday
+
+
+## US-Iran peace deal: What opening of Strait of Hormuz would mean for India’s crude oil supplies
+Prior to the outbreak of the conflict, the Gulf region supplied roughly 40% of India's crude oil imports. After the war began on February 28, inflows from the region declined sharply.
+
+## Oil's not well? US emergency stockpile falls to lowest level
+The US emergency oil stockpile has hit its lowest point since 1983, with the Trump administration drawing down reserves to mitigate economic impacts from global conflicts. Recent releases have pushed the Strategic Petroleum Reserve to less than half full, raising concerns about operational capacity 
+
+## Gold price prediction today: Will gold prices rise substantially from current levels? Check June 16, 2026 outlook
+Gold price prediction today: Gold prices may rise in the near-term as oil prices ease but the US Federal Reserve’s meeting is an important thing to watch, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+
+## Middle East crisis may be over, but how long before Strait of Hormuz goes back to normal?
+A tentative US-Iran deal signals an end to a 100-day conflict impacting global oil. While prices dipped, analysts warn full recovery of Strait of Hormuz flows will take weeks, possibly months, due to shipping bottlenecks and ongoing mine clearance. Producers await lasting peace assurances before ful
+
+## Income Tax Return: Is Form 16 mandatory for ITR filing & what to do if the employer has not issued it?
+Ideally, you should also cross check information across all your major documents such as Form 16, Form 26AS, Annual Information Statement (AIS), interest statements etc. to see if there are any discrepancies.
 
 ## Stock Market Live Updates Today: BSE Sensex opens over 200 points up, Nifty50 above 23,900; Asian stocks edge up, oil prices rise marginally
 
@@ -69,68 +90,62 @@ Stock market recommendations: Somil Mehta, Head of Retail Research at Mirae Asse
 ## Oil prices still above pre-war levels despite US-Iran truce hopes
 Global oil prices have seen a significant drop following signs of de-escalation in Middle East tensions, spurred by a US-Iran memorandum of understanding. While this offers relief to consumers, questions linger about the speed of supply recovery. The Strait of Hormuz, a vital oil route, is expected 
 
-## RIL, IndiGo & more: Top stocks to watch on June 16
-Analysts are bullish on Reliance Industries, citing strong energy policies and refining markets. LG Electronics India receives a 'buy' rating due to its dominant market share and growth potential. GMR Airports is favored for its premium travel consumption and expansion opportunities. Interglobe Avia
+## 'Adding more pressure': Ex-BJP leader Annamalai questions Centre's high security measures for NEET re-test
+The Tamil Nadu leader also flagged that the measures adopted by the Centre may not resolve the issue, but create problems.
 
-## RBI issues stricter norms to curb mis-selling by lenders
-The directions impose a strict consent-capture and interface-design protocol, closing gaps left in the Feb 11 draft. According to the framework, banks must capture explicit consent via verifiable modes such as signed physical/electronic declarations, OTP approvals, recorded confirmations or clearly 
+## Abhishek Banerjee in soup amid TMC crisis: Om Birla's 2-hour deadline, 19-hour grilling
+Abhishek days lately are mostly being spent either being searched by probe agencies or appearing before them after being summoned in multiple cases.
 
-## How the US-Iran war changed India’s trade map
-India’s hunt for LPG or cooking gas is behind US moving up, while energy also helped imports from Brazil shoot up 2.8 times to $2.7 billion during this period. Shipments from Peru too were 3.7 times higher at over $2 billion, latest numbers from the commerce department showed. The South American nat
+## Govt amends rules to bring cough syrups under stricter regulatory oversight
+Govt amends rules to bring cough syrups under stricter regulatory oversight
 
-## West Asia peace deal lifts sensex, Rupee gains 40p/$
-After the deal was announced early on Monday, markets were in an upbeat mood with sensex opening almost 1,200 points higher. It gained some more points in early trades and then as profit taking set in, it closed slightly off the intra-day high, but was still up 1%. The day’s gains made investors ric
+## CMFRI drafts national guidelines for marine ecolabelling to boost seafood exports
+CMFRI drafts national guidelines for marine ecolabelling to boost seafood exports
 
-## Sarvam joins unicorn club, raises $234 million
-The funding comes amid growing investor interest in India’s AI ecosystem. Earlier this year, AI cloud platform Neysa raised $1.2 billion in a Blackstone-led funding round to expand large-scale AI infrastructure. Sarvam co-founder Pratyush Kumar said the fresh capital will expand compute infrastructu
+## NCB asks entities handling chemical used to make mephedrone to register
+The chemical was included on the list of controlled substances due to its wide misuse by drug cartels to manufacture mephedrone
 
-## The Howrah home that has become HQ of a parliamentary revolt against Mamata Banerjee
-NCPI, a little-known Bengal party, shot to national prominence overnight after 20 rebel TMC MPs announced their merger with it.
+## Andhra CM pitches state as semiconductor manufacturing hub at Singapore roundtable
+Andhra CM pitches state as semiconductor manufacturing hub at Singapore roundtable
 
-## India releases new wholesale price inflation index; tweaks fuel, food categories
-The new Wholesale Price Index (WPI) shifted the base year from 2011-12 to 2022-23 along with a release of Producer Price Indices (PPI)
+## TMC news LIVE updates: Got votes due to Didi, no rebellion against her, says Rebel MP Rachna Banerjee
+TMC news LIVE updates: The faction of 20 rebel MPs, which feature heavy-weights like Jadavpur MP Saayoni Ghosh, on Sunday moved to further solidify their support to the NDA by writing a letter to Lok Sabha Speaker Om Birla that said the group had merged with NCPI, a party formed in 2022.
 
-## India eyes biofertilisers after Mideast war stoked supply fears
-India eyes biofertilisers after Mideast war stoked supply fears
+## 13 Bangladeshis living illegally in Gurugram caught, deportation to follow: Police
+Police said an ongoing identification drive is aimed at identifying people residing illegally and does not cover Indian citizens and foreigners with valid documents
 
-## India's Sarvam AI raises $234 million funding at $1.5 billion valuation; looks to challenge China, US
-The firm has already developed two homegrown AI models, trained in 22 languages, that are capable of operating through voice commands
-
-## Rebel faction to mirror TMC hierarchy after joining Nationalist Citizens Party of India
-The merger of the defectors from the TMC with the NCPI, and their decision to support the NDA boosted the latter, and increased its strength in the Lok Sabha.
-
-## NTA admits to NEET portal flaws as 19-year-old from Bihar siphons off refunds
-The accused targeted the NEET portal accounts of about 350 students across various states and managed to gain access to about 150 accounts, police said.
-
-## Teen footballer among 3 injured in Manipur clash
-Demonstrations were later held on the complex of the Regional Institute of Medical Sciences (RIMS) in Imphal, where the injured were brought for treatment.
-
-## BJP leaders eye early assembly elections for Goa, Punjab, Uttarakhand and Uttar Pradesh
-There is a possibility that Manipur, which was otherwise scheduled to go to the polls with these states, may have elections at a later date.
-
-## Blown by call records: Ballari woman, husband arrested in Bengaluru for killing man
+## What is Helium-3, the $2,000/litre rare gas sparking a race to mine the Moon?
 
 
-## Daily Briefing: A new Middle East? Trump’s deal faces tests and doubts
+## Annamalai questions ‘military-grade’ security for NEET retest: ‘Additional pressure on students’
 
 
-## Delhi, Northeast brace for storm, rainfall as El Nino threatens monsoon deficit
+## AP Inter Supplementary Results 2026 LIVE Updates: BIEAP Supply results expected this week at bie.ap.gov.in
 
 
-## Theatre to pay Rs 5,000 compensation after lawyer watches ‘Pushpa 2’ with no AC
+## After US-Iran peace deal, what is the status of ships waiting at Hormuz?
 
 
-## UPSC 2025 AIR 6 Zinnia Aurora writes: ‘How a failed attempt taught me to stand up again’
+## Court drops C-section ‘negligence’ case, notes couple returned to same doctor despite firstborn’s injury
 
 
-## 4 accounts, Rs 67 crore: How Delhi bank official landed in massive cyber fraud probe
+## Salah 1, De Bruyne 0: How Egypt star won much-awaited World Cup duel
 
 
-## Cape Verde hero Vozinha’s mother could not afford visa fees for World Cup
+## Nagpur woman claims blackmail, assault, forced conversion; 2 held, cleric wanted
 
 
-## Lagaan and Gadar Ek Prem Katha: 25 years later, have we become more violent?
+## Nephew injured critically by Chinese manjha, UP minister questions how string available despite curbs
 
+
+## Young tech elites drive rise in Shenzhen luxury home sales after purchase curbs ease
+Several luxury residential projects in Shenzhen sold out quickly in May, with young elites from the semiconductor and artificial intelligence sectors replacing traditional tycoons as the most avid buyers. Post-90s buyers, mainly technology professionals, accounted for 31 per cent of transactions for
+
+## Going for gold: central banks expand bullion holdings as US dollar’s dominance wavers
+Central banks are expected to expand their gold holdings, while the US dollar’s dominance in global reserves will fade in five years, according to the World Gold Council. The push to accumulate gold reflects a broad de-dollarisation trend in recent years. About nine in 10 central banks expect global
+
+## China’s first-tier new home prices rise for third month as stabilising steps gain traction
+New home prices in China’s first-tier cities rose 0.2 per cent in May, extending a three-month rebound after nine months of losses and a flat February, pointing to a gradual recovery in confidence as stabilisation measures take hold, analysts have said. Compared with the previous month, May home pri
 
 ## Chinese metal producer MMG to raise US$1.6 billion selling stocks and bonds
 MMG, the offshore metal-producing unit of state-backed China Minmetals Corp, plans to raise a combined US$1.6 billion selling placement shares and convertible bonds to fund business expansion amid rising demand for metals driven by artificial intelligence (AI) infrastructure buildout. The company, w
@@ -147,14 +162,8 @@ New homes that Hong Kong developers will launch in the coming days and weeks wil
 ## How to ride out Hong Kong’s US$274 billion lock-up expiry wave hitting stocks this year
 Investors will soon need to contend with a side effect of Hong Kong’s initial public offering (IPO) boom over the past year, as an unprecedented number of shares are expected to flood the market once lock-up restrictions expire. Over the next 12 months, shares worth US$274 billion could potentially 
 
-## China Evergrande liquidators seek judicial review of SFC agreement with PwC Hong Kong
-The liquidators of China Evergrande Group are in a legal battle with the city’s market regulator over its settlement agreement with PricewaterhouseCoopers (PwC) Hong Kong, claiming that the agreement leaves creditors HK$1 billion (US$128 million) worse off, according to a court document released on 
-
-## Hong Kong developer Lai Sun seeks note swap in bid to ease liquidity pressure
-Hong Kong developer Lai Sun Development, chaired by businessman Peter Lam Kin-ngok, who also chairs the city’s Tourism Board, has launched an exchange offer for its outstanding US$493 million worth of 5 per cent guaranteed notes due July 2026, in an effort to relieve short-term liquidity pressures, 
-
-## AI and global connectivity key to prosperity in an age of change
-Rapid technological advances and the ever-changing geopolitical landscape and trade relations between nations are transforming economies around the world – while creating unprecedented opportunities and challenges for businesses and investors. These changes – and their implications for markets, publ
+## How to Say No to an Imperial President
+Trump’s expansion of executive power would make even Richard Nixon blush.
 
 ## U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
 But continued Israeli strikes on Lebanon could derail the agreement before it takes effect.
@@ -176,9 +185,6 @@ The end of the world as we know it.
 
 ## The End of Neoliberalism
 The virtues it extolled—cosmopolitanism and competition—led to its demise.
-
-## The End of the U.S.-Israel Alliance
-A joint war against Iran might be its apex.
 
 ## How Taiwan Is Balancing Between US and Chinese Visions of Energy Dominance
 The strategic goal for most countries is energy systems that are affordable and cannot be blocked or held hostage. For Taiwan, the stakes are particularly high.
@@ -204,6 +210,9 @@ Recent survey data suggest that many Taiwanese fear that Taiwan’s interests co
 ## Breaking Afghanistan’s Hydro-Political Trap
 Since its neighbors rely on unregulated river flows, any unilateral Afghan attempt to develop water infrastructure is perceived as a threat, risking regional destabilization.
 
+## The Fall of Fortress Singapore: Three Lessons from the Collapse of Britain’s Great Asian Bastion
+Editor’s note: This is part of a running series of essays by Iskander Rehman, entitled “Applied History,” which seeks, through the study of the history of strategy and military operations, to better illuminate contemporary defense challenges.The fall of Singapore on February 15 stupefied the Prime M
+
 ## Can Bankova Muster Political Will to Make Institutional Reforms During War?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -224,9 +233,6 @@ In 2022, Scott Sweetow wrote, “Of Roadside Bombs and Drones: Putin’s Looming
 
 ## Wargaming for Improved Acquisition: What Does It Take?
 A few months ago, I attended a panel discussion for a wargame simulating rapid industrial mobilization for armed conflict. Conducted by a leading university, with teams composed of former senior defense officials, the game probed how government and industry collaboration would play out given minimal
-
-## The Chain of Peace: Do Supply Chain Chokepoints Deter War?
-The next war over Taiwan may be deterred not by aircraft carriers or nuclear arsenals, but by a Dutch lithography machine. ASML, headquartered in Veldhoven, the Netherlands, is the sole manufacturer of the extreme ultraviolet lithography systems required to produce the world’s most advanced semicond
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +258,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?
-From his hometown of Sao Vicente in Cape Verde, Vozinha has been his jersey name throughout his club career.
+## Iran fans react to team’s first World Cup match amid political schisms
+Iran fans react to team’s first World Cup match amid political schisms
 
-## US stock market climbs as US-Iran deal stirs hopes for end to energy chaos
-Benchmark S&P 500 rises 1.7 percent, while tech-heavy Nasdaq jumps 3.1 percent.
+## What to know about this week’s US primary elections
+Primaries are set to take place in Alabama, California, Oklahoma, Georgia, and the capital, Washington, DC, on Tuesday.
 
-## Saudi Arabia draw 1–1 against Uruguay in World Cup opening game
-Abdulelah Alamri gives Saudi Arabia a first-half lead before Maxi Araujo equalises late in the Group H game in Miami.
+## Football fans celebrate the World Cup across continents and cultures
+Fans in jerseys and painted faces gather to watch World Cup matches, celebrating unity and rivalry alike.
 
-## Netanyahu says Israel will remain in Lebanon, Syria, and Gaza
-Prime Minister Benjamin Netanyahu says Israeli forces will maintain a ‘security zone’ in occupied Lebanon.
+## Former CAR president on trial in absentia over crimes against humanity
+The alleged crimes committed by Bozize's security forces include murder, enforced disappearance, torture and rape.
 
-## South Sudan’s Jonglei: Who burned homes and silenced hospitals?
-Government and opposition forces accused of destruction in Jonglei amid burned villages and mass displacement.
+## Eight people killed in US Air Force B-52 bomber crash: What we know
+The aircraft, one of the US Air Force's longest-used bombers, goes down during a routine test mission.
 
-## US fuel prices to take ‘months’ to normalise after US-Iran deal to end war
-Producers will need time to ramp up output, while port bottlenecks and heightened demand will keep US prices up.
+## Palestine weekly wrap: World sanctions settlers, Israel funds settlements
+Amnesty calls West Bank ethnic cleansing 'state-sponsored' and international allies bar Finance Minister Smotrich.
 
-## US Air Force B-52 crashes in California
-Eight people are believed to have died after a US Air Force B-52 Stratofortress crashed shortly after takeoff
+## Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad
+Palestinian activists are being put on trial in Europe for supporting Hamas on the basis of Israeli evidence.
 
-## Gavin Newsom says he’s being investigated by Trump
-California’s Democratic Governor claims President Donald Trump has launched a criminal investigation against him.
+## ‘My voice is being heard’: A month of India’s Cockroach Janta Party
+Satirical party launches nationwide Gen Z protest to demand federal education minister's removal over exam paper leaks.
+
+## India Inc. is profitable. So why isn’t it investing?
+Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
 
 ## No merit in issues flagged by ex-chair of HDFC Bank: Law firms
 The reviews were prompted by former Chairman Atanu Chakraborty's dramatic March 18 resignation, a decision he had said in a letter to the exchanges was prompted by alleged deviations 'incongruent' with his ethics and value systems. The reference to possible ethical transgressions at the country's mo
@@ -297,8 +306,8 @@ Move follows market regulator's interim findings in the alleged Rs 15.15 lakh cr
 ## Sky Gold eyes 30-35% CAGR revenue growth, market leadership by FY30: CFO Siddharth Sipani
 Sky Gold and Diamonds aims for a threefold revenue jump to Rs 18,000-19,000 crore by FY30. The company plans to achieve this by expanding its advance gold model, boosting exports, and diversifying its product range. Sky Gold also expects to become cash flow positive in the first half of FY27.
 
-## Exclusive: Reliance Retail appoints Abhishek Gupta to lead finance at fashion & lifestyle vertical
-With experience spanning retail, consumer goods and e-commerce, Gupta's appointment bolsters the finance leadership of a strategically important business vertical.
+## Sebi Plans Buyback Via SEs Again, Easier MF Borrowing Rules
+merchant banker role may be cut
 
 ## SEBI overhauls ETF trading framework, introduces dynamic price bands
 The Securities and Exchange Board of India (SEBI) on Monday proposed a major overhaul of the framework governing exchange-traded funds (ETFs), introducing dynamic price bands, revised base price calculations, and new auction mechanisms to ensure ETF prices more accurately reflect the value of their 
@@ -317,7 +326,4 @@ The government has accepted significant changes to the proposed Securities Marke
 
 ## India-based entities among firms targeted in EU's proposed 21st Russia sanctions package
 The European Union is proposing new sanctions against Russia. These measures could affect companies in India and other nations. The EU aims to stop support for Russia's war efforts. Restrictions will target technology and materials crucial for Russia's defense. New designations will also impact Russ
-
-## India scraps capital gains tax on foreign investors in government debt to support rupee
-India will exempt foreign institutional investors and the Bank for International Settlements from capital gains tax on government securities. This move aims to attract more stable foreign capital. The exemption will take effect from April 1, 2026. This decision is expected to improve post-tax return
 
