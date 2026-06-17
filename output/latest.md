@@ -1,135 +1,132 @@
 # AION Intelligence
 
-## Trump says US will not invest in $300bn fund for Iran
-US president’s pushback on reports of provision in peace deal comes after fierce bipartisan backlash
-
-## Beijing fights back against a catkin fluff invasion
-The annual airborne seed attack has prompted military intervention
-
-## The electric vehicle transition gets heavy
-Chinese truckmakers spearhead challenge to diesel engine’s supremacy
-
-## Europe’s emissions trading system is not working for industry
-The choice is between a climate strategy that strengthens economic security and one that hollows it out
+## Billionaire trader Alex Gerko loses tax appeal at UK Supreme Court
+Top court rules traders should pay income tax on share of trading profits
 
 ## Trump delays confirmation hearing of former SEC head Jay Clayton as US intelligence chief
 President blames Democrats for blocking intelligence legislation over appointment of Bill Pulte in acting role
 
-## Buying Cursor could be SpaceX’s Instagram moment
-Elon Musk can learn from Mark Zuckerberg by refraining from too much meddling
+## ‘Humiliation’: Trump battles claims his Iran deal is worse than Obama’s
+US president’s critics ask if concessions to Tehran in purported agreement were worth four months of war
 
-## Architect Omar Gandhi’s guide to Nova Scotia
-Why the Toronto native made wild, windy Halifax his home
+## Brussels approaches Kremlin over potential Ukraine talks
+EU Council president António Costa’s office held calls with senior official close to Russia’s Vladimir Putin
 
-## FirstFT: Trump faces backlash over Iran deal
-Also in today’s newsletter: Former executive sues Citi and investors pile into the dollar
+## AI medical tools match or surpass doctors for advice
+Two health models displayed clinical value across a range of diagnostic and treatment decisions, studies show
+
+## Rheinmetall to partner with US satellite group to boost German intelligence capabilities
+Tankmaker and satellite imagery company Vantor to give country’s armed forces ‘sovereign control’ of technology
 
 ## Middle East peace deal could herald oil glut next year, says IEA
 ‘Gradual’ return of flows will give way to sharp rise in production, outstripping forecasts for increased demand
 
-## JLR to target US ‘millionaires and billionaires’ with hybrid and petrol cars
-Chief executive PB Balaji says America offers the British carmaker its biggest growth opportunity
+## US retail sales jump in sign consumers are weathering petrol shock
+Data shows economy remains in robust shape as Kevin Warsh takes charge of Fed
 
-## Lululemon apologises after Japanese drum controversy at Great Wall yoga event
-Canadian athleisure company says it ‘should have been more cautious and thorough’
+## CME chief Duffy to step down after reshaping global derivatives trading
+CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading
 
-## Is Lloyd’s of London the world’s oldest podshop?
-No. But it’s sort of a bit like one
+## Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses
+Consortium led by Blackstone to take over troubled software company
 
-## Sensex, Nifty rise for 4th session on easing crude ahead of US Fed outcome; defence, bank stocks shine
-Sectoral performance remained mixed, with defence, consumer durables, PSU banks and metal stocks emerging as the top performers
+## Tech’s private subsea cables are a threat to everyone else
+By building their own data highways, American hyperscalers are creating a national security risk for other countries
 
-## Western disturbances keep North-West India wet as monsoon falters
-The north-west has recorded 5% above normal rainfall so far this season; within the region, West Rajasthan has posted a surplus of 20%, while East Rajasthan leads with an impressive 80%
+## Tata Trusts backs IIM Bangalore’s undergraduate school with undisclosed grant
+The inaugural batch will comprise 80 students, with 40 students in each programme. The curriculum combines economics, data science and business studies
 
-## Milma gets Spice Coast excellence award
-Milma Chairman K S Mani received the honour at the Spice Coast Excellence Awards 2026
+## Pakistan duty drawback benefits may spoil India’s Basmati party
+Islamabad plans to extend duty drawback benefit for the fragrant rice export beyond June, when trade via Strait of Hormuz is set to normalise
 
-## NTPC, IndianOil evaluate dollar borrowings as RBI’s ECB swap window opens for PSUs
-HUDCO to raise $1 billion from overseas markets
+## Editorial. Wrong message
+Both Telegram, Centre at fault in NEET scare
 
-## Qatar Airways adds US flights to support world cup travel demand
-Frequencies increased to Boston, Los Angeles, Miami and San Francisco as part of broader network expansion
+## NTA DG holds firm on Telegram ban as platform tells Delhi HC blocking order is ‘unsustainable in law’
+Delhi High Court to hear petition on June 18
 
-## Oracle, Swades Foundation rural livelihoods programme helps women in Maharashtra
-The project has helped women farmers and entrepreneurs across Nashik and Raigad districts in Maharashtra
+## India-UK free trade pact to take effect July 15 after breakthrough in steel deadlock
+Indian exporters of textiles, footwear, gems & jewellery to gain; social security pact to protect short-term expat workers from being double taxed
 
-## Tamil Nadu and IN-SPACe partner for a testing facility in Thoothukudi
-The facility will serve as a manufacturing hub for launch vehicle components, satellite systems, propulsion systems, aerospace electronics, advanced composite structures, and other space hardware
+## RBI conducts two VRR auctions to address liquidity tightness in banking system
+The VRR auctions infused liquidity amounting to ₹72,300 crore in the banking system at a weighted average rate of 5.26%
 
-## CtrlS secures ₹7,000-crore commitment from Canada Pension Plan Investments
-Investment comes at a valuation of $4.75 billion; the two firms to set up joint venture
+## US retailer Target locks 8.3 lakh sq ft at Manyata Business Park in ₹1,250-cr mega lease deal
+Based on the contracted rentals and escalation clauses, the total value of the transaction is estimated at around ₹1,250 crore over the lease tenure
+
+## Telegram’s Founder Pavel Durov accuses RCom of sabotaging access
+While asking network operators to reject such route hijacks, Durov also threatened to report to UAE authorities about the “alarming abuse of global Internet routing.”
+
+## Fuel, forex and conflict hit airlines: Domestic carriers’ profits may fall 15% this year
+Indian airlines anticipate a 10-15% drop in operating profits this fiscal year. Soaring aviation fuel prices, airspace limitations, and a weakening rupee, exacerbated by the Middle East conflict, are significantly impacting the sector. Despite potential fuel price moderation, higher costs and lease 
+
+## 'The countdown begins': India-UK FTA to take effect from July 15, UK envoy calls it a 'historic moment'
+India and the UK will implement their landmark free trade agreement on July 15, significantly reducing tariffs on key products like whisky and automobiles. This historic pact is set to boost bilateral trade by billions and enhance economic cooperation, with businesses having 28 days to prepare for i
+
+## 'We are very close to deal': Trump signals progress on India-US trade agreement
+US President Donald Trump indicated significant progress in trade talks with India, stating a deal is "very close." This follows intensified negotiations and an upcoming visit by the US Trade Representative to finalize a bilateral trade agreement. Most issues are reportedly settled, with discussions
+
+## US stock market today: Wall Street holds steady ahead of Fed rate decision, oil stays below $80 on Iran deal hopes
+Indian markets mirrored global trends as US stocks traded cautiously, awaiting the Federal Reserve's policy decision. Easing oil prices and hopes for a US-Iran peace deal offered support. Technology and AI stocks saw a rebound, while specific companies like La-Z-Boy reported strong earnings, boostin
+
+## Hormuz reopening may not ease fertiliser woes anytime soon, say industry executives
+Fertiliser prices may remain high for another three to four months despite a US-Iran peace deal and the Strait of Hormuz reopening. Industry insiders cite the time needed to restart plants and stabilize raw material supplies, particularly sulphur, which faces ongoing shortages. Lingering shipping di
+
+## ITR filing: How to pay zero tax under new and old tax regime - know all about Section 87A rebate
+Section 87A tax relief to resident individuals whose total income is less than the prescribed limits. How does it work? The tax (before cess) is first calculated according to the applicable tax rates and then reduced by the rebate available under section 87A.
+
+## Exports hit record $863 billion in FY26 despite US tariffs & Middle East crisis: Official
+India's exports reached an all-time high of $863 billion in 2025-26, demonstrating resilience against global disruptions like the West Asia conflict and US tariffs. Key sectors like engineering goods and petroleum products drove this growth, with Gujarat emerging as a significant export hub contribu
 
 ## Stock market today: What are top gainers and losers in BSE Sensex and Nifty50 today? Check list
 Indian equity benchmarks Sensex and Nifty extended their gains for a fourth consecutive session on Wednesday, closing higher. Softer crude oil prices, influenced by a US-Iran peace deal, bolstered investor sentiment. Despite continued foreign fund outflows, the indices saw a positive uptick, with Ni
 
-## Middle East peace deal: Resuming oil exports, billions in gains — What’s in it for Iran
-The US and Iran are set to sign an interim memorandum of understanding in Switzerland, aiming to end a four-month conflict and impose strict limits on Tehran's nuclear program.
+## 6-year-old boy kidnapped, thrown into canal alive in Meerut; accused was in relationship with his mother
+The boy was later found dead in a canal after the accused was arrested and confessed to the crime.
 
-## Stock Market Live Updates Today: BSE Sensex ends over 340 points up, Nifty50 remains above 24,050 as oil prices dip below $80
+## Second pedestrian hit by roadways school trainee driver in Gurugram dies: Police
+A Haryana Roadways training bus without permission and hit several people in Gurugram’s Sector 37 last week killing one pedestrian and injuring three others.
 
+## Suspected Kuki militant killed in gunfight, AK-47 seized: Manipur Police
+Additional security personnel were deployed, and extensive search operations were underway to track down the armed cadres and secure the region
 
-## Insurers want marine insurance pool to continue even after ceasefire
+## Trump's help offer if India ever attacked, Modi's Hormuz appeal: Top quotes from G7 meet
+US President Donald Trump, while speaking on US-India ties, praised PM Modi as a “very tough negotiator”.
 
+## Global bodies must shield Global South from West Asia shock, says PM Modi at G7
+India, Brazil, Egypt, Kenya and South Korea are the partner countries invited to the G7 summit’s outreach sessions held in the French resort of Evian
 
-## India is for the first time among the top 15 markets for Mercedes
+## Calcutta HC questions appointment of Ritabrata Banerjee as LoP, reserves order
+The court also questioned Bhattacharya’s argument that Ritabrata Banerjee’s expulsion was an internal matter of the TMC
 
+## Woman Maoist leader with ₹10 lakh bounty surrenders in Kolkata: Police
+Police said Shakuntala, also known as Pushpa and Barsa, had been active for over two decades and worked under senior CPI (Maoist) leader Misir Besra in Jharkhand’s Saranda forest
 
-## MFI portfolio shrinks 17% in FY24, shows signs of stabilization in Q4
-Microfinance lenders saw stabilization in the March 2026 quarter. The industry's portfolio shrank year-on-year but grew sequentially. Lending shifted to existing borrowers. Borrower leverage moderated across key states. Loan sizes increased. Asset quality showed mixed trends with improved 30+ days p
+## India can play big role in West Asia and beyond as long as Modi is leader: Trump
+Trump's remarks on India possibly playing a role in mediating the West Asia conflict come at a time when Pakistan is the lead negotiator in US-Iran talks.
 
-## N Chandrasekaran, Tata Sons’ chairman, opts for no pay hike in FY26
-Several group companies have been dealing with cyclical headwinds, while businesses such as Air India continue to navigate challenges arising from an uncertain geopolitical and economic environment.
-
-## Investing in US stocks gets easier: Several Indian trading apps get Gift City go ahead
-The approvals place Groww and Upstox alongside firms such as Vested Finance and IndMoney, which already operate as GAPs and provide Indian investors with access to global equities.
-
-## No such incident occurred: Railways refutes Rahul Gandhi's claim of student's death on train in Bihar
-The ministry said the person seen in the viral video appeared to be suffering from a medical condition or fatigue.
-
-## Iran made them famous, India now building its own arsenal: What are Kamikaze drones?
-Kamikaze drones have proved to be effective in the recent conflicts between US-Iran and Russia-Ukraine, owing to their precision and low costs.
-
-## CM Yogi warns cops against making reels on duty, calls it indiscipline
-The CM said personnel must remain conscious of the responsibility attached to their work and avoid actions that could make the force a subject of ridicule.
-
-## Hill station rush: Police adopts 5-point traffic plan as 15 lakh vehicles enter Shimla in 45 days
-Hill station rush: Police adopts 5-point traffic plan as 15 lakh vehicles enter Shimla in 45 days
-
-## Rajya Sabha elections in Jharkhand tomorrow amid cross-voting fears
-Three candidates – JMM's Baidyanath Ram, Congress's Pranav Jha and BJP-backed Independent nominee Parimal Nathwani – are contesting the polls for the two seats.
-
-## Justice Narasimha-led bench to hear plea challenging NEET retest next month: Supreme Court
-On May 12, the NTA had cancelled the National Eligibility-cum-Entrance Test (Undergraduate), or NEET-UG, held on May 3 after paper leak allegations.
-
-## 'Dana aur gana...': What Akhilesh Yadav said on big 'letter to Amit Shah' claim and Samajwadi split buzz
-Akhilesh Yadav's reaction came hours after OP Rajbhar alleged that Samajwadi MP Ram Gopal Yadav had sent a letter to union home minister Amit Shah with names.
-
-## NEET aspirant dies by suicide in Dehradun; Parents say 'college topper' showed no signs of depression
-The victim did not show any visible signs of depression or behavioural change before the incident, her parents told police.
-
-## Can you eat home food at a restaurant citing health? Mumbai court says no
+## The 100-day vigil: How a custodial death case ended in a state-ordered cremation
 
 
-## Giorgia Meloni reveals she quit smoking a month ago during candid G7 exchange
+## ‘Sanjay Leela Bhansali would appear in my nightmares, strangling me,’ says Heeramandi actor
 
 
-## Ruined Goa trip costs MakeMyTrip, Go Air Rs 1.39 lakh after consumer body steps in
+## Ricky Kej on staying away from mainstream music: ‘Your art defines you as a person’
 
 
-## NEET re-exam 2026: Stay calm, focus on revision, say experts
+## India’s annual defence production records all-time high of Rs 1.78-lakh cr in 2025-26
 
 
-## ‘There’s almost no one to offer it’: Tiruppur Subramaniam on Ajith’s big fee demand
+## Woman climbs 220-ft tower in Ludhiana, demands action against husband
 
 
-## June Pixel Drop brings AI video tools, smarter multitasking, and Android 17
+## India-UK free trade deal to come into force from July 15, says PM Modi
 
 
-## Alireza Faghani: Iran called him a traitor. He’s refereeing their World Cup
+## BBC presenter Ashley Cain called women ‘slags’, ‘sluts’ and ‘bitches’: Report
 
 
-## UPSC Mains Answer Practice — GS 2 : Questions on Supreme Court judgment on homemakers and India’s role in global governance (Week 159)
+## ‘He was never meant to be just a hero on screen: Samantha Ruth Prabu on meeting CM Vijay
 
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
@@ -156,6 +153,9 @@ The recent escalation in the Middle East has produced an unforeseen winner. The 
 ## How Asia’s C-suite leaders cut through chaos to drive clarity, financial discipline and growth
 Growing global and economic uncertainty driven by geopolitics, advances in artificial intelligence (AI), socio-economic concerns and environmental risks are all intensifying pressure on executives as they adapt and respond to ongoing, high-stakes disruptions around the world. The World Economic Foru
 
+## Can Ships in the Gulf Take Trump at His Word?
+Amid the uncertainty of Trump’s deal, how will ships decide when to leave the Persian Gulf?
+
 ## Iran’s Victory Is More Pyrrhic Than It Looks
 The Islamic Republic has survived. Now comes the hard part.
 
@@ -177,32 +177,29 @@ A lackluster attitude highlights divisions between the United States and its G-7
 ## ‘It’s Not Competitive in Nature’
 India’s ambassador to Washington insists “Make in India” doesn’t conflict with “America First.”
 
-## Taiwan Bet Too Big on Washington
-Trump’s willingness to sell out allies should cause a rethink in Taipei.
+## India-US Relations: Too Important to Fail, Too Complicated to Trust
+The killing of Indian sailors by the U.S. military adds to the web of complications, but the structural foundations haven't changed.
+
+## Japan Is Re-engineering Its Intelligence Apparatus
+The establishment of a National Intelligence Council and a National Intelligence Bureau is part of a long series of reforms and restructuring dating back to the end of World War II.
+
+## Now Open, Tashiev Trial Proceeds in Kyrgyzstan
+The first hearings featured a verbal argument between Tashiev and a witness and were followed by a leak of interrogation videos.
+
+## Chinese Surveillance Cameras Have Become a Huge Problem for India
+The Ghaziabad CCTV espionage case is the logical outcome of a decade of unregulated Chinese surveillance hardware infiltrating India’s most sensitive locations.
+
+## Lee Jae-myung Caps First European Tour with G7 Appearance
+South Korean President Lee Jae-myung made Korean Peninsula peace a central theme of his first trip to Europe.
+
+## 6 Months Into Kazakhstan’s Year of AI
+What have the national platform, AI law, and human capital programs delivered?
 
 ## KMT Chair Returns From Her US Tour
 Cheng Li-wun's two-week trip to the U.S. didn't see the high-profile White House meetings she sought, but still served as a signal of her political ambitions.
 
 ## Survivors of Myanmar’s Landmine Blasts Struggle With Severed Limbs and Shattered Lives
 The pain from their injuries hasn’t gone away. Meanwhile, they face challenges in earning a livelihood.
-
-## Mongolia and Africa: Time to Reignite a Forgotten Partnership
-During the Cold War, Mongolia forged surprisingly warm relationships with African countries. It’s time to resume those ties.
-
-## Japan Eyes a Homegrown FMS System as Defense Exports Become a Strategic Tool
-The government is considering establishing a new organization – to manage a Japanese-style Foreign Military Sales system and promote defense exports.
-
-## Kazakhstan Admitted to Corruption. Nothing Changed.
-While the state recovers billions in London and The Hague, oil workers in Kazakhstan still receive a fraction of what they are owed.
-
-## South Korea’s Students Speak Out About the Local Election Ballot Shortage
-South Korean university students framed the issue as one of democratic accountability, while avoiding getting caught in the partisan fight that has ensued.
-
-## China’s Limited Advance in El Salvador
-In the context of El Salvador’s transformation under Bukele, its relationship with China continues to be both limited and contradictory.
-
-## India’s Strongest Regional Party Collapses Thanks to Modi’s BJP
-Legislators of the Trinamool Congress, which ruled West Bengal for three straight terms, have left the party in droves, leaving it a mere shadow of its former self.
 
 ## Macron’s Nuclear Gamble: Building a European Deterrent Faster Than French Politics Can Tear Down
 In early March, French President Emmanuel Macron stood at a windswept submarine base on the Breton coast and quietly buried four decades of French nuclear orthodoxy. The arsenal would grow. The numbers would be hidden. And for the first time, nuclear weapons that France built to defend Paris might o
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Inside Canada’s ‘troubling’ shift on migrant, refugee rights
-Experts say Canada 'closing the doors' as socioeconomic issues upend decades-long consensus on immigration.
+## Nanawati: The Last Negotiation | Ep 6 – Afghanistan
+Under Taliban rule, one woman struggles to negotiate with the men limiting the lives of Afghan women.
 
-## Taiwan accuses Kenya of deporting conference delegates on China’s behalf
-First African nation to host the global oceans conference defends deportations, saying it 'recognises only one China'.
+## Why Israel could still derail the Iran-US deal
+Trump called it a historic deal. But with nuclear talks and Israel all unresolved, what did either side actually win?
 
-## Pro-Palestine solidarity on display at the 2026 World Cup
-Fans from Algeria to Bosnia are making sure the Palestinian cause gets attention during the World Cup.
+## Trump calls Modi a ‘killer’ and an ‘angel’
+President Donald Trump praised Indian Prime Minister Narendra Modi as a “killer” and an “angel" at the G7 in France.
 
-## Israel takes control of Hebron’s Ibrahimi Mosque: What this means
-Palestinians controlled planning and construction in the entire West Bank city under the 1997 Hebron Agreement.
+## Northern Lebanon airport revival brings economic hope for the region
+Rene Mouawad Airport to serve Istanbul, Dubai, and Mersin as part of plans to revitalise northern Lebanon's economy.
 
-## Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment
-Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.
+## World Cup 2026: Day six
+Al Jazeera’s @RahulP_Journo has your #FIFAworldcup26 day 6 recap.
 
-## Floyd Mayweather faces theft charges for using bad cheque to buy a watch
-Boxing legend allegedly wrote the cheque on New Year's Eve 2024 and could face up to 20 years in jail if found guilty.
+## Tehran War Diary: Shooting war at home
+An internationally acclaimed photojournalist in Iran turns his lens on his own city, as Tehran comes under bombardment.
 
-## Why UK’s Makerfield by-election matters far beyond one parliamentary seat
-Thursday's contest could pave the way for Manchester Mayor Andy Burnham to challenge Keir Starmer's premiership.
+## Telegram challenges India app ban, calls move unconstitutional
+India blocked Telegram after exam paper leaks, prompting the legal challenge.
 
-## UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’
-Russia says shots were fired to divert a yacht outside the UK's territorial waters.
+## Russian artist and outspoken Putin critic shot dead days after protest
+Russian artist was shot dead in Poland just three days after a performance protest in Berlin near the Russian embassy.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
@@ -300,6 +297,12 @@ India is set to decide on extending customs duty relief for critical raw materia
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
 
+## RBI infuses Rs 72,300 cr transient liquidity into banking system via VRR auctions as surplus narrows
+The Reserve Bank of India injected Rs 72,300 crore into the banking system. This was done through two Variable Rate Repo auctions. The move followed a drop in surplus liquidity due to advance tax payments. Experts expect more such actions to manage liquidity. Overnight rates had risen above the RBI'
+
+## RBI's anti-mis-selling norms may redraw bancassurance business models, hit cross-sell revenues
+The final guidelines, which will come into force from January 1, 2027, ban incentive arrangements that encourage aggressive sales practices and require banks to take responsibility for all financial products sold through their branches, digital channels, agents and outsourced partners.
+
 ## Rupee touches six-week high on oil slump, RBI effect lingers
 The Indian rupee has reached a six-week peak. This strength comes as Brent crude oil prices fall below $80 a barrel. Recent actions by the Reserve Bank of India are also supporting the currency. Investors are showing renewed interest in Indian bonds. The rupee is expected to continue its upward tren
 
@@ -317,10 +320,4 @@ The Securities and Exchange Board of India (SEBI) on Monday proposed a major ove
 
 ## SEBI likely to approve major reforms in bond markets, MFs and AIFs on June 19
 India's markets regulator Securities and Exchange Board of India (SEBI) is expected to clear a package of reforms covering share buybacks, alternative investment funds, bond distribution and mutual fund liquidity at its board meeting on June 19.
-
-## India will do more to boost inflows: Finance Minister Nirmala Sitharaman
-India plans further measures to attract foreign capital. Finance Minister Nirmala Sitharaman stated that additional steps will be taken if required to boost capital inflows. These actions follow recent tax relief and banking regulator initiatives aimed at strengthening the Indian market. The governm
-
-## India looking to scale up local AI infrastructure; NITI to review
-The Indian government is developing a strategy for domestically controlled AI infrastructure to enhance AI adoption in governance and cultivate skilled talent. NITI Aayog is identifying ecosystem gaps and recommending measures to bolster India's independent AI development and deployment capabilities
 
