@@ -9,7 +9,7 @@ Labour candidate Andy Burnham hopes to win the seat and then seek to replace Kei
 ## How the oil market shrugged off the Iran crisis
 Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
 
-## Federal Reserve drops bias for rate cuts as Kevin Warsh era begins
+## Fed drops bias for rate cuts as Kevin Warsh era begins
 Donald Trump’s war in Iran has sent inflation to nearly double the central bank’s target
 
 ## The risks of borrowing from China’s economic playbook
@@ -24,6 +24,9 @@ Allies of mayor say he would turn down such a role as he is pitching himself as 
 ## Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI
 Dario Amodei is supported by rival Sam Altman in call for international co-operation
 
+## Blow to UK authorities as former Nigerian oil minister cleared in bribery case
+Diezani Alison-Madueke had been accused of receiving private jet flights and use of properties in top London districts
+
 ## Activist investor TCIM targets Devon Energy after landmark merger
 Speculation of a looming consolidation wave mounts in the heartland of the US shale oil patch
 
@@ -35,12 +38,6 @@ Group’s top team given cost-reduction targets as new CEO begins effort to revi
 
 ## Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses
 Blackstone-led consortium to take over software company and inject $150mn to help cut its debt load
-
-## Trump administration to pay $765mn to scuttle offshore wind projects
-Power developer Invenergy will redeploy funds into natural gas and geothermal projects in western US
-
-## Billionaire trader Alex Gerko loses tax appeal at UK Supreme Court
-Top court rules traders should pay income tax on share of trading profits
 
 ## Fed holds rates steady, officials split over possible hikes this year
 The meeting, chaired for the first time by Kevin Warsh, signalled a shift in the Fed’s communication strategy as it grapples with rising inflation pressures from energy costs and geopolitical tensions
@@ -114,28 +111,28 @@ A Haryana Roadways training bus without permission and hit several people in Gur
 ## Suspected Kuki militant killed in gunfight, AK-47 seized: Manipur Police
 Additional security personnel were deployed, and extensive search operations were underway to track down the armed cadres and secure the region
 
-## FDA suspends SPPU mess licence after inspection finds severe violations
+## Yoane Wissa: Congo’s hero against Portugal, who once survived an acid attack
 
 
-## ‘Form child protection panels, hold campaigns’: Delhi LG reviews implementation of POCSO Act in city
+## India’s exports hit $863 billion even amid West Asia turmoil, US tariffs: Official
 
 
-## Pune-Shirdi Express launched; Ashwini Vaishnaw outlines nearly Rs 2 lakh crore railway investment
+## Month-long nightmare ends as Gujarat man stuck in ebola-hit Congo for a month returns
 
 
-## Soha Ali Khan says father ‘enjoyed’ cooking, while mother did out of ‘obligation’; expert reflects
+## Security outside Mamata Banerjee residence withdrawn, claims TMC
 
 
-## Pune SIR pre-mapping at 54.65%; exercise to start June 20
+## ‘Stare at the wall’: Teen’s 4-word response to UK social media ban goes viral
 
 
-## Global South alone can’t bear war burden, needs financial support: Modi to G7
+## Amid West Asia conflict, bitumen woes hit India’s road infrastructure push
 
 
-## Shafali Verma’s all-round show, Smriti Mandhana’s 74 & Shree Charani 4/19 give India big win
+## Special regulatory relaxations unlikely for small nuclear reactors
 
 
-## Essel Group’s Subhash Chandra sells 3-acre bungalow on Delhi’s Bhagwan Das Road for Rs 1,260 crore
+## Is Cristiano Ronaldo past his prime? No doubt after the Congo match
 
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
@@ -162,6 +159,15 @@ The recent escalation in the Middle East has produced an unforeseen winner. The 
 ## How Asia’s C-suite leaders cut through chaos to drive clarity, financial discipline and growth
 Growing global and economic uncertainty driven by geopolitics, advances in artificial intelligence (AI), socio-economic concerns and environmental risks are all intensifying pressure on executives as they adapt and respond to ongoing, high-stakes disruptions around the world. The World Economic Foru
 
+## How RFK Jr. Managed to Block Millions in Global Vaccine Funds
+$600 million in U.S. foreign aid for global vaccines is at risk.
+
+## Public Anger Mounts as Kenya Cozies Up to Trump
+Critics accuse Nairobi of capitulating to U.S. interests over those of Kenyan citizens.
+
+## Why Trump’s Pentagon Abandoned ‘Indo-Pacific’
+A military name change signals a broader strategic and diplomatic shift.
+
 ## Can Ships in the Gulf Take Trump at His Word?
 Amid the uncertainty of Trump’s deal, how will ships decide when to leave the Persian Gulf?
 
@@ -176,15 +182,6 @@ Financing foreign elections is a curious habit for a one-party state.
 
 ## Why Anthropic Is Fighting With Trump (Again)
 The AI company is back in the U.S. government’s crosshairs.
-
-## What Will China Learn From the Iran War?
-As the conflict winds down, Beijing is taking notes.
-
-## Trump Puts Russia-Ukraine War on the Back Burner
-A lackluster attitude highlights divisions between the United States and its G-7 allies.
-
-## ‘It’s Not Competitive in Nature’
-India’s ambassador to Washington insists “Make in India” doesn’t conflict with “America First.”
 
 ## India-US Relations: Too Important to Fail, Too Complicated to Trust
 The killing of Indian sailors by the U.S. military adds to the web of complications, but the structural foundations haven't changed.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen
-Trump suggests deal signing on Friday could still fall through, vows to bomb Iran if they don't 'behave'.
+## ‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections
+Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump.
 
-## US Federal Reserve holds rates steady under new chair Warsh
-Heightened energy prices because of the US-Israel war with Iran has pushed US inflation to a three-year high.
+## Why was India’s Cockroach Janta Party founder attacked?
+Why was India’s Cockroach Janta Party founder attacked?
 
-## Thick black smoke towers over Paris skyline after warehouse blaze
-Footage shows towers of black smoke visible across Paris, billowing from a 7,000 square-metre warehouse in Bobigny.
+## Read the US account of unreleased 14-point Iran ceasefire memorandum
+US official gives clearest account yet of deal set to be signed by US and Iran Friday; Iran has not confirmed text.
 
-## Luigi Mangione to use psychiatric defence in healthcare CEO murder case
-Mangione would face lighter sentencing if jury accepts he was in a state of 'extreme emotional disturbance' during act.
+## Palestinian residents shocked by devastation in West Bank refugee camp
+Palestinian families briefly returned to Tulkarem refugee camp after more than a year of forced displacement.
 
-## Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000
-More than 1,000 people in Gaza have been killed since a US-brokered 'ceasefire' between Hamas and Israel was agreed.
+## ‘Send them back’ chants in EU Parliament after anti-migrant bill passes
+‘Send them back’ chants in EU Parliament after anti-migrant bill passes.
 
-## Young Palestinian women learn AI to tell stories of war on Gaza
-Young Palestinian women learn AI to tell stories of war on Gaza.
+## Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup
+Ana Candida Evora and Vozinha 'will be reunited in Miami' for Cape Verde's match against Uruguay on Sunday.
 
-## Trump pushes to delay appointment of new spy chief in legislative standoff
-Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law.
+## Portugal held to draw by DR Congo in World Cup 2026 opener
+Joao Neves opens the scoring for Portugal with early goal, but Yoane Wissa equalises in first-half injury time.
 
-## Massive brush fire sends thick smoke over western Miami
-Aerial footage captured a brush fire that blanketed a residential neighbourhood near Miami with heavy smoke.
+## Freed Palestinian prisoner meets son conceived with smuggled sperm
+After spending 25 years in Israeli prisons, Abdul Karim al-Rimawi embraced his son Majd for the first time.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
