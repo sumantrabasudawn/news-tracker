@@ -33,6 +33,12 @@ Carmaker expects operating margin in its automotive division to be 1-3% in 2026,
 ## The White House’s capricious controls on Anthropic
 An opaque approach to US policy risks hampering AI development
 
+## Reliance Jio IPO: Draft papers for $4 billion issue may be filed soon
+Reliance Jio’s potential IPO move is expected ahead of Mukesh Ambani’s annual shareholder address, though the development has not been independently confirmed
+
+## Sensex today | Stock Market Live: Stock to buy today: Mahanagar Gas
+Sensex, Nifty, Share Prices LIVE: The short-term outlook has turned bullish for Mahanagar Gas. The rise on Tuesday has taken the share price well above the 200-Day Moving Average (DMA). It also confirms an inverted head and shoulder pattern on the chart. The price action shows that the momentum is g
+
 ## Tamil Nadu pollution board drops scrutiny of Tata Electronics iPhone plant
 Tata said independent tests and official analysis found no contamination, leading to closure of the case
 
@@ -51,11 +57,8 @@ As per the revised framework, 75% of the guaranteed portion will attract a zero 
 ## Banks dangle mega returns to lure NRIs to FCNR(B) deposits
 Besides high interest, lenders are offering significant leverage on the deposits
 
-## Centre’s foodgrain reserves at record high as El Nino threatens kharif production
-Despite the “below normal” monsoon forecast, at 90 per cent of long period average, the government is targeting the kharif foodgrains production during 2026-27 of 176.16 mt
-
-## In a first, US pips Qatar as India’s largest LNG supplier during March-May
-Washington supplies 1.5 million tonnes of LNG to India, compared to a mere 0.1 mt by Qatar
+## Oil prices dip near $70 per barrel mark as Middle East turmoil cools
+Oil prices have significantly declined, nearing pre-conflict levels as hopes rise for a US-Iran agreement. This potential deal could reopen the Strait of Hormuz, a crucial oil transit route, though full restoration of production may take considerable time. Concerns remain regarding the truce's durab
 
 ## CERT-In calls for AI-assisted security testing, faster patches
 
@@ -78,56 +81,56 @@ India is seeking rare earth samples from Russia. This move aims to diversify cri
 ## Rupee snaps two-day rally, settles 2 paise lower at 94.60 against US dollar
 The rupee dipped slightly to 94.60 against the dollar on Tuesday, ending a two-day gain. Despite falling crude oil prices and hopes for a US-Iran peace deal, foreign investors selling Indian equities pressured the currency. Analysts anticipate a near-term downward trend for the rupee, with support f
 
-## US stocks today: Dow hits record high as easing oil prices boost Wall Street
-Indian markets mirrored global optimism as US stocks neared record highs, fueled by falling oil prices and hopes for a US-Iran peace deal. SpaceX's impressive market debut and gains in financial and chip stocks also boosted investor confidence. All eyes are now on the Federal Reserve's upcoming poli
+## Political realignment not criminal misconduct: Madras HC
+The Madras High Court dismissed a plea for a CBI probe into four AIADMK legislators’ resignations, citing lack of evidence for criminal misconduct.
 
-## Brother, sister-in-law held for 'killing' man over alleged harassment in Delhi
-The accused have told their interrogators that they killed the man following prolonged disputes over his alleged objectionable behaviour towards the woman.
+## G7 Summit 2026: Modi, Trump share a warm exchange ahead of meeting
+The two leaders were seated next to each other for an outreach session of the G7 Summit being held at the resort of Evian-les-Bain
 
-## PM Modi meets Canadian counterpart, discusses ways to build stronger partnership
-The two leaders met on the sidelines of the G7 Summit in Evian-les-Bains in eastern France.
+## TTD, CFTRI sign MoU to ensure quality of Tirupati prasadams
+CFTRI will ensure high food quality and safety for Tirumala temple's prasadams, following an MoU with TTD amid ghee contamination concerns.
 
-## ‘Safety of seafarers is our collective responsibility’, says PM Modi, calls for secure sea routes
-Addressing an outreach session of the G7 summit, PM Modi said India firmly believes that lasting solutions to conflicts.
+## White paper flags rising debts, revenue deficit in Tamil Nadu
+Tamil Nadu's finance minister released a white paper, citing poor finances left by the DMK, but assured no new taxes while proposing administrative reforms.
 
-## Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports
-CRUISESHIP-HANTAVIRUS/:Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports
+## Tamil Nadu to set up 231 substations at ₹15,032 crore amid power woes
+Tamil Nadu plans 231 new substations at ₹15,032 crore to enhance electricity supply, amid recent outages and criticism from opposition parties.
 
-## G7 margins: Modi, UAE President call for free navigation in Strait of Hormuz
-Modi also held a bilateral meeting with UK Prime Minister Keir Starmer and discussed steps being taken to implement Comprehensive Economic and Trade Agreement
+## Introspect poll defeat instead of criticising us: Congress
+Congress urges DMK to introspect on electoral defeat instead of criticizing, as tensions rise over statements and accountability within their alliance.
 
-## Seated next to Trump, PM Modi raises ship attacks, says must protect seafarers
-Modi welcomed progress in the peace efforts in West Asia, and noted the conflict had claimed the lives of “many Indian civilians”
+## From parking to garden fences: The constant battle for Delhi’s public spaces
+From parks turned into parking lots to footpaths occupied by ramps, Delhi’s public spaces are shrinking.
 
-## Jewar to Navi Mumbai flight begins; flyers cheer shorter, cheaper travel
-Tuesday’s Akasa Air’s flight was the first direct air link between NIA and the Navi Mumbai International Airport, which started operations in December 2025
+## Delhi court permits NEET leak accused to appear for June 21 re-test under judicial custody
+The order was passed by special judge Vishal Gogne of Rouse Avenue Courts, on a plea moved by Yadav, seeking interim bail of 15 days to appear for NEET retest.
 
-## PM Modi, Meloni share laugh, discuss ‘Instagram’, days after viral ‘Melodi’ post gets 13M likes | Watch
-A video from the event shows PM Modi interacting with Giogia Meloni.
-
-## CM: NEET candidates travelling in roadways buses for June 21 exam to get 50% fare concession
+## Why cough syrups need prescription: Choose the right one for dry cough, phlegm and allergies
 
 
-## ‘Respond to calls on official numbers, keep phones active all the time’: DGP to on-field officials
+## India vs Afghanistan 2nd ODI Live Streaming And Live Telecast: When And Where To Watch
 
 
-## Mumbai INOX executive duped of Rs 10.4 crore via WhatsApp, four arrested in Delhi
+## 1 in 5 sailors worldwide is Indian: What draws them to the deep sea
 
 
-## Trump listening, Modi to G7: Shortage of trust, need to rebuild
+## ‘Dancing Girl’ controversy: Revisiting Harappa’s iconic artefact, its many meanings
 
 
-## India seeks $900-million steel quota to end UK trade deal logjam
+## Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics
 
 
-## Jasdan Patari handicraft gets GI tag
+## Shoddy in the first half, divine in the second half: Mbappe turns his day around
 
 
-## TMC crisis: Speaker Om Birla to hear both sides before deciding on rebel MPs
+## What happens after the proclamation – ‘Remember the name: James Rodriguez’
 
 
-## Provide all amenities to visually impaired man and his mother living in poverty, Supreme Court tells Odisha
+## Passenger refunded Rs 5 less on cancelled ticket, railways directed to pay Rs 10,000
 
+
+## Can Hong Kong make a giant leap to commercial space insurance?
+Some may feel a lump in their throats as they watch Hong Kong’s first astronaut, Lai Ka-ying, make history, but few see it as anything more than an inspirational story for our youth. In reality, space, which can feel lofty and far away to pragmatic Hongkongers, could hold the key to our city’s econo
 
 ## Hong Kong’s financial revival: trading, tokenisation and governance in focus
 [The content of this article has been produced by our advertising partner.] For a while and not so long ago, confidence in Hong Kong’s financial markets appeared fragile. Trading volumes softened, and geopolitical tensions weighed on sentiment. The city’s status as Asia’s leading international finan
@@ -149,9 +152,6 @@ Ant Group has unveiled the biggest overhaul of Alipay in two decades, transformi
 
 ## Young tech elites drive rise in Shenzhen luxury home sales after purchase curbs ease
 Several luxury residential projects in Shenzhen sold out quickly in May, with young elites from the semiconductor and artificial intelligence sectors replacing traditional tycoons as the most avid buyers. Post-90s buyers, mainly technology professionals, accounted for 31 per cent of transactions for
-
-## Going for gold: central banks expand bullion holdings as US dollar’s dominance wavers
-Central banks are expected to expand their gold holdings, while the US dollar’s dominance in global reserves will fade in five years, according to the World Gold Council. The push to accumulate gold reflects a broad de-dollarisation trend in recent years. About nine in 10 central banks expect global
 
 ## Why Anthropic Is Fighting With Trump (Again)
 The AI company is back in the U.S. government’s crosshairs.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Brazilian court convicts Eduardo Bolsonaro of courting US interference
-US placed tariffs on Brazilian goods and sanctioned judicial officials involved in trial of the father for coup plot.
+## Smotrich says Israel taking control of Hebron
+Israeli Finance Minister Bezalel Smotrich says Israel has transferred authority over Hebron to the army.
 
-## US sprinter Noah Lyles sets world best 150m time at Golden Spike meet
-Lyles clocks 14.67 seconds, edges Dambile of South Africa for gold while Australian teenager Gout Gout finishes third.
+## UN reports decline in cross-border fire in southern Lebanon
+UN reports decline in cross-border fire in southern Lebanon
 
-## Somaliland president visits Israeli Knesset on tour
-Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.
+## Ebola patients recover in DRC amid claims of outbreak hoax
+Seven patients have left an Ebola treatment centre in the Democratic Republic of the Congo, having recovered.
 
-## Ghana’s Partey loses appeal to overturn Canadian visa refusal for World Cup
-Thomas Partey will not be able to enter Canada for Ghana's first World Cup match against Panama on Wednesday.
+## Ghosts of empire: A quarantine centre and Laikipia’s colonial past
+A US Ebola quarantine centre has sparked protests in Laikipia, Kenya, over land and sovereignty concerns.
 
-## Mbappe breaks scoring record in France win over Senegal in World Cup
-Kylian Mbappe becomes France's all-time top scorer with 58 goals, two goals off record World Cup scorer Miroslav Klose.
+## Democrat calls for Cape Verde goalkeeper Vozinha’s mother to get US visa
+Ana Candida Evora was unable to travel to watch her son star in a goalless draw with Spain due to the cost of a US visa.
 
-## LIVE: Argentina vs Algeria – World Cup 2026
-Follow our live updates, with full team news coverage, ahead of our text commentary stream service.
+## Which France and World Cup records did Mbappe break against Senegal?
+France captain overtakes Giroud with 58 goals for his country and the most for Les Bleus at a World Cup.
 
-## South Korea World Cup squad at odds with media over Son Heung-min mockery
-South Korean players reportedly refrain from speaking to national media outside official World Cup commitments.
+## Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu
+Warning comes as Trump criticises Netanyahu over Israel's attacks on Lebanon.
 
-## Palestinian Bedouin villagers demolish homes after Israeli orders
-Palestinian Bedouins in Beersheba are demolishing their own homes after Israel issued demolition orders.
+## Iran will have to leave US hours after every World Cup match, official says
+Mehdi Torabi issued a new visa after previous one expired when team returned to Mexico following the New Zealand game.
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
