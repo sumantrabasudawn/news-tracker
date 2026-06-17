@@ -1,160 +1,166 @@
 # AION Intelligence
 
-## Trump adviser pushes power-sharing plan for oil-rich Libya
-Massad Boulos tells FT he is attempting to forge ‘one unified government’ in war-torn country
+## Trump says US will not invest in $300bn fund for Iran
+US president’s pushback on reports of provision in peace deal comes after fierce bipartisan backlash
 
-## UK inflation unexpectedly held steady at 2.8% in May
-Figure will ease BoE fears of a lasting impact from the Iran war
+## Beijing fights back against a catkin fluff invasion
+The annual airborne seed attack has prompted military intervention
+
+## The electric vehicle transition gets heavy
+Chinese truckmakers spearhead challenge to diesel engine’s supremacy
+
+## Europe’s emissions trading system is not working for industry
+The choice is between a climate strategy that strengthens economic security and one that hollows it out
+
+## Trump delays confirmation hearing of former SEC head Jay Clayton as US intelligence chief
+President blames Democrats for blocking intelligence legislation over appointment of Bill Pulte in acting role
+
+## Buying Cursor could be SpaceX’s Instagram moment
+Elon Musk can learn from Mark Zuckerberg by refraining from too much meddling
+
+## Architect Omar Gandhi’s guide to Nova Scotia
+Why the Toronto native made wild, windy Halifax his home
+
+## FirstFT: Trump faces backlash over Iran deal
+Also in today’s newsletter: Former executive sues Citi and investors pile into the dollar
+
+## Middle East peace deal could herald oil glut next year, says IEA
+‘Gradual’ return of flows will give way to sharp rise in production, outstripping forecasts for increased demand
+
+## JLR to target US ‘millionaires and billionaires’ with hybrid and petrol cars
+Chief executive PB Balaji says America offers the British carmaker its biggest growth opportunity
 
 ## Lululemon apologises after Japanese drum controversy at Great Wall yoga event
 Canadian athleisure company says it ‘should have been more cautious and thorough’
 
-## EU struggles to find both unity and urgency in China crisis talks
-Also in this newsletter: EU’s former competition tsar speaks on mergers
-
-## FirstFT: Investors pile into dollar
-Also in today’s newsletter: Bezos buys into UK AI start-up and former executive sues Citi
-
-## Introducing: The Story of Money
-A new video podcast from The FT exploring the history of finance
-
-## Elon Musk: Wall Street’s new roll-up artist
-SpaceX’s IPO has given the trillionaire even more firepower for acquisitions
-
-## ‘Big spending vibes, small spending commitments’: Burnham’s tricky fiscal dance
-The Greater Manchester mayor has hinted at a number of expensive policy ambitions but vowed not to raise tax
-
 ## Is Lloyd’s of London the world’s oldest podshop?
 No. But it’s sort of a bit like one
 
-## Tech Exchange
-This series features conversations between FT journalists and the technology industry’s leaders, innovators and thinkers. In the latest instalment, Luciana Lixandru, global co-lead of Sequoia’s early-stage investment business, talks about why it is time for ‘act two’ for Europe’s tech sector
+## Sensex, Nifty rise for 4th session on easing crude ahead of US Fed outcome; defence, bank stocks shine
+Sectoral performance remained mixed, with defence, consumer durables, PSU banks and metal stocks emerging as the top performers
 
-## Amazon backs AI start-up developing models to simulate physical world
-Company joins investment arms of Nvidia and AMD in $310mn funding round for Odyssey ML
+## Western disturbances keep North-West India wet as monsoon falters
+The north-west has recorded 5% above normal rainfall so far this season; within the region, West Rajasthan has posted a surplus of 20%, while East Rajasthan leads with an impressive 80%
 
-## Jeff Bezos backs UK start-up CuspAI in $400mn funding round
-New financing will more than quadruple the two-year-old AI company’s valuation to $2.6bn
+## Milma gets Spice Coast excellence award
+Milma Chairman K S Mani received the honour at the Spice Coast Excellence Awards 2026
 
-## Sensex today | Stock Market Live: Sensex, Nifty edge higher in lacklustre trade; IT rally continues for third session
-Sensex, Nifty, Share Prices LIVE: Markets remained range-bound at 12:30 pm, with Sensex and Nifty posting modest gains led by IT stocks. The sector extended its rally for a third session as investors awaited the US Fed policy decision and global cues remained mixed.
+## NTPC, IndianOil evaluate dollar borrowings as RBI’s ECB swap window opens for PSUs
+HUDCO to raise $1 billion from overseas markets
 
-## Tin prices poised to rule elevated this year on demand from semiconductor industry
-AI capex forecast at $785 billion in 2026, with data centres springing up and higher GPU, CPU and memory chip costs
+## Qatar Airways adds US flights to support world cup travel demand
+Frequencies increased to Boston, Los Angeles, Miami and San Francisco as part of broader network expansion
 
-## Sensex, Nifty firm in midday trade, PSU Banks & consumer durables outperform
-Market breadth remained positive. Of the 4,187 stocks traded on the BSE, 2,322 advanced, 1,676 declined and 189 remained unchanged.
+## Oracle, Swades Foundation rural livelihoods programme helps women in Maharashtra
+The project has helped women farmers and entrepreneurs across Nashik and Raigad districts in Maharashtra
 
-## FTAs, agri-start-ups and FPOs to drive next phase of farm export growth: APEDA chief
-APEDA chief says recently concluded FTAs with the UK and the European Union are potential ‘game changers’ for India’s agricultural exporters
+## Tamil Nadu and IN-SPACe partner for a testing facility in Thoothukudi
+The facility will serve as a manufacturing hub for launch vehicle components, satellite systems, propulsion systems, aerospace electronics, advanced composite structures, and other space hardware
 
-## Samvardhana Motherson arm to acquire controlling stake in Shenzhen Autocruis for ₹210 crore
-The deal will expand its presence in automotive vision and camera-based systems, with the transaction expected to close by Q3 FY27.
+## CtrlS secures ₹7,000-crore commitment from Canada Pension Plan Investments
+Investment comes at a valuation of $4.75 billion; the two firms to set up joint venture
 
-## Gold futures drop to ₹1,52,530/10g
+## Stock market today: What are top gainers and losers in BSE Sensex and Nifty50 today? Check list
+Indian equity benchmarks Sensex and Nifty extended their gains for a fourth consecutive session on Wednesday, closing higher. Softer crude oil prices, influenced by a US-Iran peace deal, bolstered investor sentiment. Despite continued foreign fund outflows, the indices saw a positive uptick, with Ni
 
+## Middle East peace deal: Resuming oil exports, billions in gains — What’s in it for Iran
+The US and Iran are set to sign an interim memorandum of understanding in Switzerland, aiming to end a four-month conflict and impose strict limits on Tehran's nuclear program.
 
-## Delhi-NCR to get its first W, the disruptive modern luxury hotel brand
-DS Group to launch Marriott International’s high energy lifestyle hotel with a 200-key property near IGI Airport in 2027
-
-## China’s central bank hints at shift to fed-style rate setting
-A shorter-term policy anchor may give the PBOC greater precision and flexibility in steering market conditions
-
-## Gold price prediction today: Why gold prices will continue to find support in near-term; check June 17, 2026 outlook
-Gold price prediction today: Gold prices are holding strongly and buying from central banks is likely to continue supporting the yellow metal, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
-
-## Taking lessons from China: Why India may ask refiners to maintain significantly larger crude oil inventories
-The disruption to shipping through the Strait of Hormuz has challenged a long-standing belief among Indian policymakers that the country's proximity to the crude-rich Persian Gulf reduced the need for large strategic petroleum reserves.
-
-## Rupee continues to rebound: Currency jumps 31 paise to 94.29 against US dollar
-The Indian Rupee strengthened significantly against the US dollar on Wednesday, driven by falling crude oil prices and a weaker dollar index. This recovery, fueled by expectations of a US-Iran framework agreement and potential capital inflows, has pushed the rupee towards the 94.00-93.80 zone. Trade
-
-## How US quietly kept Gulf crude moving despite Iran's Hormuz blockade
-The US military is secretly orchestrating ship-to-ship oil transfers in the Gulf to circumvent Iran's blockade of the Strait of Hormuz. This operation, involving smaller tankers transferring oil to larger vessels offshore, aims to keep energy exports flowing despite the crisis. The system relies on 
-
-## Stock market today: BSE Sensex adds 300 points, Nifty50 jumps above 24,000
+## Stock Market Live Updates Today: BSE Sensex ends over 340 points up, Nifty50 remains above 24,050 as oil prices dip below $80
 
 
-## From passengers to parcels: Noida International Airport to see first cargo flight today
-Noida International Airport (NIA) is set to handle its first cargo flight, a domestic departure, just days after commencing passenger operations. This marks a significant step in its development as a key aviation and cargo hub for North India, boasting advanced digital infrastructure and substantial
-
-## Gold, Silver Rate Today Live Updates: International gold prices rise marginally; all eyes on US Federal Reserve decision
+## Insurers want marine insurance pool to continue even after ceasefire
 
 
-## Oil prices dip near $75 per barrel mark as Middle East turmoil cools
-Oil prices have significantly declined, nearing pre-conflict levels as hopes rise for a US-Iran agreement. This potential deal could reopen the Strait of Hormuz, a crucial oil transit route, though full restoration of production may take considerable time. Concerns remain regarding the truce's durab
-
-## Uneven rain, dry gaps: What satellite data reveals about India's monsoon, El Nino risk
-The ISRO INSAT shows active thunderstorms and strong convection over eastern India, but spare cloud cover over central and western India.
-
-## The Shiv Sena (UBT) split that could hand BJP a major win in Lok Sabha
-Shiv Sena (UBT) is on the verge of a split, days after 20 TMC parliamentarians defected and allied with the BJP-led National Democratic Alliance (NDA).
-
-## Mortal remains of 2 Indians killed in MT Settebello attack brought back to India
-The Embassy expressed condolences to the bereaved families and said the remains had been brought back to India.
-
-## Consent, crowd ratification and crassness: stand-up comedy under scanner again
-Consent, crowd ratification and crassness: stand-up comedy under scanner again
-
-## Why Mumbai's water supply is under pressure this monsoon season and who will be hit
-Mumbai tightens water restrictions due to declining reservoir levels and delayed monsoon. BMC imposes 20% cut for industrial and commercial users.
-
-## ‘MPs promised ₹50 crore’: Sanjay Raut's big claim amid Shiv Sena-UBT rebellion buzz
-Speculation grows over a potential split in the Uddhav Thackeray-led Shiv Sena's Lok Sabha unit. Sanjay Raut claims some MPs are being offered ₹50 crore.
-
-## Sundarraj Pattilingam appointed NIA IG after spearheading Bastar anti-Maoist ops
-The Union home ministry issued an order on Tuesday for Pattilingam’s new assignment, which he will take up after the Chhattisgarh government relieves him
-
-## Telegram moves Delhi HC against Centre's temporary block order ahead of NEET re-test
-Telegram moves Delhi HC against Centre's temporary block order ahead of NEET re-test
-
-## ‘Where is Sharvari?’: Alia Bhatt posts a reply to Alpha teaser row ahead of trailer
+## India is for the first time among the top 15 markets for Mercedes
 
 
-## Man challenges Rs 79,808 water bill, wins new meter, Rs 28,000 award and bill set aside
+## MFI portfolio shrinks 17% in FY24, shows signs of stabilization in Q4
+Microfinance lenders saw stabilization in the March 2026 quarter. The industry's portfolio shrank year-on-year but grew sequentially. Lending shifted to existing borrowers. Borrower leverage moderated across key states. Loan sizes increased. Asset quality showed mixed trends with improved 30+ days p
+
+## N Chandrasekaran, Tata Sons’ chairman, opts for no pay hike in FY26
+Several group companies have been dealing with cyclical headwinds, while businesses such as Air India continue to navigate challenges arising from an uncertain geopolitical and economic environment.
+
+## Investing in US stocks gets easier: Several Indian trading apps get Gift City go ahead
+The approvals place Groww and Upstox alongside firms such as Vested Finance and IndMoney, which already operate as GAPs and provide Indian investors with access to global equities.
+
+## No such incident occurred: Railways refutes Rahul Gandhi's claim of student's death on train in Bihar
+The ministry said the person seen in the viral video appeared to be suffering from a medical condition or fatigue.
+
+## Iran made them famous, India now building its own arsenal: What are Kamikaze drones?
+Kamikaze drones have proved to be effective in the recent conflicts between US-Iran and Russia-Ukraine, owing to their precision and low costs.
+
+## CM Yogi warns cops against making reels on duty, calls it indiscipline
+The CM said personnel must remain conscious of the responsibility attached to their work and avoid actions that could make the force a subject of ridicule.
+
+## Hill station rush: Police adopts 5-point traffic plan as 15 lakh vehicles enter Shimla in 45 days
+Hill station rush: Police adopts 5-point traffic plan as 15 lakh vehicles enter Shimla in 45 days
+
+## Rajya Sabha elections in Jharkhand tomorrow amid cross-voting fears
+Three candidates – JMM's Baidyanath Ram, Congress's Pranav Jha and BJP-backed Independent nominee Parimal Nathwani – are contesting the polls for the two seats.
+
+## Justice Narasimha-led bench to hear plea challenging NEET retest next month: Supreme Court
+On May 12, the NTA had cancelled the National Eligibility-cum-Entrance Test (Undergraduate), or NEET-UG, held on May 3 after paper leak allegations.
+
+## 'Dana aur gana...': What Akhilesh Yadav said on big 'letter to Amit Shah' claim and Samajwadi split buzz
+Akhilesh Yadav's reaction came hours after OP Rajbhar alleged that Samajwadi MP Ram Gopal Yadav had sent a letter to union home minister Amit Shah with names.
+
+## NEET aspirant dies by suicide in Dehradun; Parents say 'college topper' showed no signs of depression
+The victim did not show any visible signs of depression or behavioural change before the incident, her parents told police.
+
+## Can you eat home food at a restaurant citing health? Mumbai court says no
 
 
-## Resort politics returns to Karnataka: Congress, JD(S) lock in legislators ahead of MLC polls
+## Giorgia Meloni reveals she quit smoking a month ago during candid G7 exchange
 
 
-## Shiv Sena (UBT) issues whip as rebel MPs eye meeting with Speaker Om Birla
+## Ruined Goa trip costs MakeMyTrip, Go Air Rs 1.39 lakh after consumer body steps in
 
 
-## Mukesh Ambani’s Reliance Jio IPO likely this week, says report
+## NEET re-exam 2026: Stay calm, focus on revision, say experts
 
 
-## Pre-wedding party, stolen keys, Rs 3 crore theft: Inside Tanishq showroom heist
+## ‘There’s almost no one to offer it’: Tiruppur Subramaniam on Ajith’s big fee demand
 
 
-## Telegram moves Delhi High Court against ban over NEET paper leak concerns
+## June Pixel Drop brings AI video tools, smarter multitasking, and Android 17
 
 
-## Goa SP ‘registered birth, marriage’ in Portugal, suspended
+## Alireza Faghani: Iran called him a traitor. He’s refereeing their World Cup
 
 
-## China pledges support for trading of treasury bond futures in Hong Kong
-China will double down on its support for Hong Kong as a global hub for the offshore yuan, with Beijing’s top market regulator saying that the city could soon begin offering trading of yuan-denominated treasury bond futures. Beijing would support Hong Kong launching five-year Chinese government bond
+## UPSC Mains Answer Practice — GS 2 : Questions on Supreme Court judgment on homemakers and India’s role in global governance (Week 159)
 
-## Mongolian coal riding the rails towards a brighter future
-In southeastern Mongolia, not far from the Khangi border checkpoint with China, a railway track ends just short of the fence, awaiting the day when a direct connection to the country’s prosperous southern neighbour becomes a reality. But if everything goes according to plan, that day could come this
 
-## Can Hong Kong make a giant leap to commercial space insurance?
-Some may feel a lump in their throats as they watch Hong Kong’s first astronaut, Lai Ka-ying, make history, but few see it as anything more than an inspirational story for our youth. In reality, space, which can feel lofty and far away to pragmatic Hongkongers, could hold the key to our city’s econo
+## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
+Chinese authorities introduced draft regulations on Wednesday to crack down on the misuse of subsidies by food-delivery platforms, as Beijing seeks to rein in the sector’s intense competition. The proposed rules, open for public comment until July 17, identify several practices that would be banned,
 
-## Hong Kong’s financial revival: trading, tokenisation and governance in focus
-[The content of this article has been produced by our advertising partner.] For a while and not so long ago, confidence in Hong Kong’s financial markets appeared fragile. Trading volumes softened, and geopolitical tensions weighed on sentiment. The city’s status as Asia’s leading international finan
+## China accelerates digital yuan push as 26 banks join new cross-border platform
+China has onboarded a first batch of 26 domestic and overseas financial institutions to its integrated cross-border digital yuan payment platform, marking a further step in building out the digital currency’s payment infrastructure amid Beijing’s push to scale up adoption of the digital yuan, also k
 
-## Yum China takes full slice of Pizza Hut mainland subsidiary in US$1.2 billion deal
-Yum China, the operator of KFC and Pizza Hut in mainland China, will pay US$1.2 billion to acquire ownership of the Pizza Hut business in the market, deepening its separation from US restaurant giant Yum! Brands and gaining full control of the brand in China. The consideration will be paid entirely 
+## Why deeper China ties matter as Europe seeks to power its AI ambitions beyond America
+Europe should welcome more Chinese investment and deepen industrial partnerships with China as it seeks to reduce its dependence on US technology and finance the industries of the future, according to one of the architects of the euro. Christian Noyer, a founding vice-president of the European Centr
 
-## Hong Kong property tycoon Mico Chung cashes out of US$13.4 million home on The Peak
-A company linked to CSI Properties chairman and founder Mico Chung and his wife has sold a luxury house on The Peak for HK$105 million (US$13.4 million), according to official records. Aqua Sole Company sold the property at 27 Plantation Road to Hu Hanyang in a transaction completed on June 12, acco
+## HSBC China pioneers cross-border fund services for mainland investors
+HSBC China has become the first foreign bank to provide custodian services for a cross-border fund product that can help mainland clients invest in foreign markets, the lender said. Despite the recent crackdown on illegal cross-border trading, analysts believed that the move was a sign that Beijing 
 
-## Chinese shoppers prefer domestic brands, but not when it comes to these few categories
-Domestic brands in China dominate segments from electric vehicles to electronic products to various everyday goods, but more shoppers are reaching for foreign competitors in specific categories including chocolate, infant formula, diapers and instant noodles. In chocolate, Japanese brand Meiji gaine
+## Global brands in China seek local partners amid market squeeze
+Pizza Hut, the largest casual dining operator in China, has become the latest Western chain to change hands in the country, as global brands count on local companies to bolster sales in an increasingly competitive market. Yum China will pay US$1.2 billion to buy the China business from US-based Yum!
 
-## Motorsport new battleground for Chinese carmakers as Geely and BYD rev up global drive
-Billionaire Li Shufu, owner and chairman of Geely Auto, China’s second-largest carmaker, plans to bring the Superbike World Championship (WSBK) to the country, banking on the success of a home-grown motorcycle brand in competition. The move marked Geely’s latest step to sharpen its image as an inter
+## AI boom sparks Kingboard subsidiary’s US$1.5 billion stake sale to ramp up PCB capacity
+Riding on a buoyant stock market for artificial intelligence hardware components, Kingboard Holdings plans to raise HK$11.77 billion (US$1.5 billion) by selling a stake in its listed subsidiary, Kingboard Laminates Holdings, one of the world’s biggest makers of laminate materials used in circuit boa
+
+## Geopolitics is complicating the green transition – and China’s moment
+The recent escalation in the Middle East has produced an unforeseen winner. The conflict has rekindled worries about logistics and energy security, prompting governments and businesses to reconsider their reliance on fossil fuels and fragile supply routes. This has sped up the move towards renewable
+
+## How Asia’s C-suite leaders cut through chaos to drive clarity, financial discipline and growth
+Growing global and economic uncertainty driven by geopolitics, advances in artificial intelligence (AI), socio-economic concerns and environmental risks are all intensifying pressure on executives as they adapt and respond to ongoing, high-stakes disruptions around the world. The World Economic Foru
+
+## Iran’s Victory Is More Pyrrhic Than It Looks
+The Islamic Republic has survived. Now comes the hard part.
+
+## Elon Musk and the Rise of Space Capitalism
+The United States is racing ahead where Europe, China, and India struggle.
 
 ## Myanmar Is What Happens When China Fills a Vacuum
 Financing foreign elections is a curious habit for a one-party state.
@@ -173,12 +179,6 @@ India’s ambassador to Washington insists “Make in India” doesn’t conflic
 
 ## Taiwan Bet Too Big on Washington
 Trump’s willingness to sell out allies should cause a rethink in Taipei.
-
-## Iran Is a Bigger Defeat Than Vietnam
-A war of choice has turned into a strategic disaster for Washington.
-
-## Trump’s Drug War Tactics Don’t Work
-Development aid remains the best way to reduce drug production.
 
 ## KMT Chair Returns From Her US Tour
 Cheng Li-wun's two-week trip to the U.S. didn't see the high-profile White House meetings she sought, but still served as a signal of her political ambitions.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Arnautovic scores penalty as Austria beat World Cup debutants Jordan 3-1
-Austria were given a scare by debutants Jordan before securing a win, rounded off by a penalty in stoppage time.
+## Inside Canada’s ‘troubling’ shift on migrant, refugee rights
+Experts say Canada 'closing the doors' as socioeconomic issues upend decades-long consensus on immigration.
 
-## England vs Croatia – World Cup 2026: Kane, predictions, TV channel, kickoff
-Title contenders England begin their FIFA World Cup campaign against familiar foes Croatia in Group L in Dallas.
+## Taiwan accuses Kenya of deporting conference delegates on China’s behalf
+First African nation to host the global oceans conference defends deportations, saying it 'recognises only one China'.
 
-## Analysts predict no US petrol price drop until 2027
-US drivers may have to wait until 2027 for gasoline prices to fall
+## Pro-Palestine solidarity on display at the 2026 World Cup
+Fans from Algeria to Bosnia are making sure the Palestinian cause gets attention during the World Cup.
 
-## Satellite images show 10 places where water is disappearing globally
-From lakes to rivers, freshwater is declining worldwide under rising climate and land pressure.
+## Israel takes control of Hebron’s Ibrahimi Mosque: What this means
+Palestinians controlled planning and construction in the entire West Bank city under the 1997 Hebron Agreement.
 
-## How past ‘terrorist’ movements are often judged right by history
-Who decides which movements are remembered as terrorists and which are celebrated as agents of change?
+## Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment
+Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.
 
-## UN chief blames global indifference for Haiti crisis
-UN Secretary-General Antonio Guterres says the international community has failed Haiti as gang violence deepens
+## Floyd Mayweather faces theft charges for using bad cheque to buy a watch
+Boxing legend allegedly wrote the cheque on New Year's Eve 2024 and could face up to 20 years in jail if found guilty.
 
-## Vozinha’s mum celebrates hero keeper son from afar
-The mother of Cape Verde’s celebrated goalkeeper Vozinha says she watched his heroics on the TV.
+## Why UK’s Makerfield by-election matters far beyond one parliamentary seat
+Thursday's contest could pave the way for Manchester Mayor Andy Burnham to challenge Keir Starmer's premiership.
 
-## Food shortages spark scuffles outside supermarket in Bolivia
-Food shortages spark scuffles outside supermarket in Bolivia
+## UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’
+Russia says shots were fired to divert a yacht outside the UK's territorial waters.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
@@ -300,6 +300,9 @@ India is set to decide on extending customs duty relief for critical raw materia
 ## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
 Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
 
+## Rupee touches six-week high on oil slump, RBI effect lingers
+The Indian rupee has reached a six-week peak. This strength comes as Brent crude oil prices fall below $80 a barrel. Recent actions by the Reserve Bank of India are also supporting the currency. Investors are showing renewed interest in Indian bonds. The rupee is expected to continue its upward tren
+
 ## Centre's disinvestment receipts poised to cross Rs 15,000 crore in the April-June quarter
 The Centre's disinvestment receipts are set to cross Rs 15,000 crore in the April-June quarter of the financial year 2026-27, driven by the success of offer for sale transactions in the shares of public sector enterprises.
 
@@ -320,7 +323,4 @@ India plans further measures to attract foreign capital. Finance Minister Nirmal
 
 ## India looking to scale up local AI infrastructure; NITI to review
 The Indian government is developing a strategy for domestically controlled AI infrastructure to enhance AI adoption in governance and cultivate skilled talent. NITI Aayog is identifying ecosystem gaps and recommending measures to bolster India's independent AI development and deployment capabilities
-
-## Govt said to accept tweaks to Securities Markets Code draft
-The government has accepted significant changes to the proposed Securities Markets Code. Investigation timelines will be extended to one year. Depositories will gain powers to correct records. The Centre's authority to supersede market infrastructure institution boards will now require Sebi's recomm
 
