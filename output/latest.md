@@ -1,85 +1,109 @@
 # AION Intelligence
 
-## Billionaire trader Alex Gerko loses tax appeal at UK Supreme Court
-Top court rules traders should pay income tax on share of trading profits
+## Federal Reserve holds rates with short statement and hawkish projections
+Kevin Warsh has eliminated explicit forward guidance, but his colleagues project that at least one rate rise is needed
 
-## Trump delays confirmation hearing of former SEC head Jay Clayton as US intelligence chief
-President blames Democrats for blocking intelligence legislation over appointment of Bill Pulte in acting role
+## Five things to know about the high-stakes Makerfield by-election
+Labour candidate Andy Burnham hopes to win the seat and then seek to replace Keir Starmer as prime minister
 
-## ‘Humiliation’: Trump battles claims his Iran deal is worse than Obama’s
-US president’s critics ask if concessions to Tehran in purported agreement were worth four months of war
+## How the oil market shrugged off the Iran crisis
+Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
 
-## Brussels approaches Kremlin over potential Ukraine talks
-EU Council president António Costa’s office held calls with senior official close to Russia’s Vladimir Putin
+## Federal Reserve drops bias for rate cuts as Kevin Warsh era begins
+Donald Trump’s war in Iran has sent inflation to nearly double the central bank’s target
 
-## AI medical tools match or surpass doctors for advice
-Two health models displayed clinical value across a range of diagnostic and treatment decisions, studies show
-
-## Rheinmetall to partner with US satellite group to boost German intelligence capabilities
-Tankmaker and satellite imagery company Vantor to give country’s armed forces ‘sovereign control’ of technology
-
-## Middle East peace deal could herald oil glut next year, says IEA
-‘Gradual’ return of flows will give way to sharp rise in production, outstripping forecasts for increased demand
-
-## US retail sales jump in sign consumers are weathering petrol shock
-Data shows economy remains in robust shape as Kevin Warsh takes charge of Fed
+## The risks of borrowing from China’s economic playbook
+Western governments must ensure industrial policy does not turn into unchecked state expansion
 
 ## CME chief Duffy to step down after reshaping global derivatives trading
 CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading
 
+## Starmer holds out prospect of cabinet job for Burnham
+Allies of mayor say he would turn down such a role as he is pitching himself as a change from current administration
+
+## Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI
+Dario Amodei is supported by rival Sam Altman in call for international co-operation
+
+## Activist investor TCIM targets Devon Energy after landmark merger
+Speculation of a looming consolidation wave mounts in the heartland of the US shale oil patch
+
+## To avoid backlash, tech giants must share their AI wealth before it’s too late
+The US cannot wait for the worst job losses to hit before moving corporate and public policy in a pro-worker direction
+
+## Diageo boss Dave Lewis orders executives to cut jobs as restructuring kicks off
+Group’s top team given cost-reduction targets as new CEO begins effort to revive fortunes of Johnnie Walker maker
+
 ## Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses
-Consortium led by Blackstone to take over troubled software company
+Blackstone-led consortium to take over software company and inject $150mn to help cut its debt load
 
-## Tech’s private subsea cables are a threat to everyone else
-By building their own data highways, American hyperscalers are creating a national security risk for other countries
+## Trump administration to pay $765mn to scuttle offshore wind projects
+Power developer Invenergy will redeploy funds into natural gas and geothermal projects in western US
 
-## Tata Trusts backs IIM Bangalore’s undergraduate school with undisclosed grant
-The inaugural batch will comprise 80 students, with 40 students in each programme. The curriculum combines economics, data science and business studies
+## Billionaire trader Alex Gerko loses tax appeal at UK Supreme Court
+Top court rules traders should pay income tax on share of trading profits
 
-## Pakistan duty drawback benefits may spoil India’s Basmati party
-Islamabad plans to extend duty drawback benefit for the fragrant rice export beyond June, when trade via Strait of Hormuz is set to normalise
+## Fed holds rates steady, officials split over possible hikes this year
+The meeting, chaired for the first time by Kevin Warsh, signalled a shift in the Fed’s communication strategy as it grapples with rising inflation pressures from energy costs and geopolitical tensions
 
-## Editorial. Wrong message
-Both Telegram, Centre at fault in NEET scare
+## NSE IPO back on track as exchange files prospectus with SEBI for ₹30,000-crore issue
+Pure offer-for-sale of up to 149 million equity shares likely to be one of India’s biggest public issues of the year
 
-## NTA DG holds firm on Telegram ban as platform tells Delhi HC blocking order is ‘unsustainable in law’
-Delhi High Court to hear petition on June 18
+## Odisha approves Rs 76,612 crore investment proposals across 20 mega projects, to create over 50,000 jobs
+Major investments include lab-grown diamond units, solar PV manufacturing facilities, EV-grade magnet production, integrated steel plants, and power projects
 
-## India-UK free trade pact to take effect July 15 after breakthrough in steel deadlock
-Indian exporters of textiles, footwear, gems & jewellery to gain; social security pact to protect short-term expat workers from being double taxed
+## Leapfrog Engineering IPO subscribed 1.28 times on day 1, QIB demand leads surge
+The Bengaluru-based EPCC company plans to use proceeds for setting up an assembling unit, working capital needs and general corporate purposes
 
-## RBI conducts two VRR auctions to address liquidity tightness in banking system
-The VRR auctions infused liquidity amounting to ₹72,300 crore in the banking system at a weighted average rate of 5.26%
+## Everpure announces Data Stream to expand AI-ready data offerings
+Everpure Data Stream, based on NVIDIA AI Data Platform reference design, brings advanced AI capabilities directly to enterprise data
 
-## US retailer Target locks 8.3 lakh sq ft at Manyata Business Park in ₹1,250-cr mega lease deal
-Based on the contracted rentals and escalation clauses, the total value of the transaction is estimated at around ₹1,250 crore over the lease tenure
+## IPO comeback: ₹60,000 crore pipeline in next three months
+This resurgence follows a six-month slowdown, driven by easing geopolitical tensions, a rally in equity markets, and declining crude prices.
 
-## Telegram’s Founder Pavel Durov accuses RCom of sabotaging access
-While asking network operators to reject such route hijacks, Durov also threatened to report to UAE authorities about the “alarming abuse of global Internet routing.”
+## Modi, Trump talk trade, seafarer safety on G7 sidelines
+While Trump called Modi a “tough negotiator” on the interim trade deal, discussions are weighed down by recent maritime deaths and ongoing US tariff investigations
+
+## ATM usage declines, but more takers for micro-ATMs
+The number of ATMs declined for the second consecutive year to 2.51 lakh in FY25 from a peak of 2.55 lakh in FY23
+
+## US Federal Reserve policy meet: Kevin Warsh-led FOMC keeps interest rates unchanged; projects hike by year-end, raises inflation forecast
+Markets had broadly expected the US Federal Reserve to keep its benchmark interest rate unchanged, extending the pause that has been in place throughout the year.
+
+## India-UK FTA clears steel hurdle; 85% of Indian exports shielded from British curbs
+India has secured protection for 85% of its steel exports to the UK under the upcoming free trade agreement, with the remaining shipments covered by country-specific quotas and other access schemes. This agreement resolves a key sticking point ahead of the Comprehensive Economic and Trade Agreement'
+
+## PNGRB asks oil, gas firms to strengthen compensation for accident victims
+Oil and gas firms are urged by PNGRB to boost worker compensation beyond legal mandates for accident victims and their families. While some companies have improved their voluntary payouts, others lag. The regulator is also pushing for enhanced safety culture and training to prevent incidents, aiming
+
+## New resource race: G7 joins forces to challenge China’s critical minerals dominance
+G7 leaders are uniting to lessen reliance on China for vital minerals, essential for defense and green tech. Plans include coordinated stockpiling, enhanced recycling, and a new platform with the IEA. The goal is to significantly cut dependence on single suppliers by 2030, fostering more secure glob
+
+## NSE files DRHP for $2-3 billion IPO; Tiger Global, SBI among major sellers
+The National Stock Exchange has officially filed for its long-awaited IPO, aiming to raise $2-3 billion. This move follows a nine-year delay due to the co-location controversy. The offer is entirely an 'offer for sale,' with existing shareholders, including Tiger Global, divesting stakes. This listi
+
+## India's power generation capacity crosses 530 GW, set to touch 600 GW next year
+
+
+## China's export surge sparks Europe fears as G7 countries weighs response to 'China Shock 2.0'
+Europe faces a looming "China Shock" as booming exports, redirected from the US, threaten its industries. G7 leaders are discussing trade imbalances, with concerns that China's manufacturing dominance and sophisticated products could mirror past disruptions. Policymakers are considering tougher trad
 
 ## Fuel, forex and conflict hit airlines: Domestic carriers’ profits may fall 15% this year
 Indian airlines anticipate a 10-15% drop in operating profits this fiscal year. Soaring aviation fuel prices, airspace limitations, and a weakening rupee, exacerbated by the Middle East conflict, are significantly impacting the sector. Despite potential fuel price moderation, higher costs and lease 
 
-## 'The countdown begins': India-UK FTA to take effect from July 15, UK envoy calls it a 'historic moment'
-India and the UK will implement their landmark free trade agreement on July 15, significantly reducing tariffs on key products like whisky and automobiles. This historic pact is set to boost bilateral trade by billions and enhance economic cooperation, with businesses having 28 days to prepare for i
+## President Trump says US will help India if attacked under PM Modi’s leadership
+The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains
 
-## 'We are very close to deal': Trump signals progress on India-US trade agreement
-US President Donald Trump indicated significant progress in trade talks with India, stating a deal is "very close." This follows intensified negotiations and an upcoming visit by the US Trade Representative to finalize a bilateral trade agreement. Most issues are reportedly settled, with discussions
+## India's education system an extortion machine: Rahul Gandhi at Kota rally ahead of re-NEET
+India's education system an extortion machine, rejection system: Rahul Gandhi at Kota rally
 
-## US stock market today: Wall Street holds steady ahead of Fed rate decision, oil stays below $80 on Iran deal hopes
-Indian markets mirrored global trends as US stocks traded cautiously, awaiting the Federal Reserve's policy decision. Easing oil prices and hopes for a US-Iran peace deal offered support. Technology and AI stocks saw a rebound, while specific companies like La-Z-Boy reported strong earnings, boostin
+## Big trade wins for India as PM Modi attends G7 meet: UK deal date, EU FTA by year-end | Full list
+The timelines of two key trade deals for India were fixed, and US President Donald Trump also shared a big update on the ongoing trade negotiations with India.
 
-## Hormuz reopening may not ease fertiliser woes anytime soon, say industry executives
-Fertiliser prices may remain high for another three to four months despite a US-Iran peace deal and the Strait of Hormuz reopening. Industry insiders cite the time needed to restart plants and stabilize raw material supplies, particularly sulphur, which faces ongoing shortages. Lingering shipping di
+## CJP to hold second protest at Jantar Mantar in Delhi on June 20: ‘Confident police will grant permission’
+CJP chief spokesperson Saurav Das said he spent the entire day at the police station completing formalities and submitting details of the protest plan.
 
-## ITR filing: How to pay zero tax under new and old tax regime - know all about Section 87A rebate
-Section 87A tax relief to resident individuals whose total income is less than the prescribed limits. How does it work? The tax (before cess) is first calculated according to the applicable tax rates and then reduced by the rebate available under section 87A.
-
-## Exports hit record $863 billion in FY26 despite US tariffs & Middle East crisis: Official
-India's exports reached an all-time high of $863 billion in 2025-26, demonstrating resilience against global disruptions like the West Asia conflict and US tariffs. Key sectors like engineering goods and petroleum products drove this growth, with Gujarat emerging as a significant export hub contribu
-
-## Stock market today: What are top gainers and losers in BSE Sensex and Nifty50 today? Check list
-Indian equity benchmarks Sensex and Nifty extended their gains for a fourth consecutive session on Wednesday, closing higher. Softer crude oil prices, influenced by a US-Iran peace deal, bolstered investor sentiment. Despite continued foreign fund outflows, the indices saw a positive uptick, with Ni
+## Telegram vs Centre: SG Mehta says govt will reveal ‘shocking’ evidence; High court posts matter to June 18
+A vacation bench granted liberty to the Centre to file their replies along with supporting documents and posted the matter for further hearing on June 18.
 
 ## 6-year-old boy kidnapped, thrown into canal alive in Meerut; accused was in relationship with his mother
 The boy was later found dead in a canal after the accused was arrested and confessed to the crime.
@@ -90,43 +114,28 @@ A Haryana Roadways training bus without permission and hit several people in Gur
 ## Suspected Kuki militant killed in gunfight, AK-47 seized: Manipur Police
 Additional security personnel were deployed, and extensive search operations were underway to track down the armed cadres and secure the region
 
-## Trump's help offer if India ever attacked, Modi's Hormuz appeal: Top quotes from G7 meet
-US President Donald Trump, while speaking on US-India ties, praised PM Modi as a “very tough negotiator”.
-
-## Global bodies must shield Global South from West Asia shock, says PM Modi at G7
-India, Brazil, Egypt, Kenya and South Korea are the partner countries invited to the G7 summit’s outreach sessions held in the French resort of Evian
-
-## Calcutta HC questions appointment of Ritabrata Banerjee as LoP, reserves order
-The court also questioned Bhattacharya’s argument that Ritabrata Banerjee’s expulsion was an internal matter of the TMC
-
-## Woman Maoist leader with ₹10 lakh bounty surrenders in Kolkata: Police
-Police said Shakuntala, also known as Pushpa and Barsa, had been active for over two decades and worked under senior CPI (Maoist) leader Misir Besra in Jharkhand’s Saranda forest
-
-## India can play big role in West Asia and beyond as long as Modi is leader: Trump
-Trump's remarks on India possibly playing a role in mediating the West Asia conflict come at a time when Pakistan is the lead negotiator in US-Iran talks.
-
-## The 100-day vigil: How a custodial death case ended in a state-ordered cremation
+## FDA suspends SPPU mess licence after inspection finds severe violations
 
 
-## ‘Sanjay Leela Bhansali would appear in my nightmares, strangling me,’ says Heeramandi actor
+## ‘Form child protection panels, hold campaigns’: Delhi LG reviews implementation of POCSO Act in city
 
 
-## Ricky Kej on staying away from mainstream music: ‘Your art defines you as a person’
+## Pune-Shirdi Express launched; Ashwini Vaishnaw outlines nearly Rs 2 lakh crore railway investment
 
 
-## India’s annual defence production records all-time high of Rs 1.78-lakh cr in 2025-26
+## Soha Ali Khan says father ‘enjoyed’ cooking, while mother did out of ‘obligation’; expert reflects
 
 
-## Woman climbs 220-ft tower in Ludhiana, demands action against husband
+## Pune SIR pre-mapping at 54.65%; exercise to start June 20
 
 
-## India-UK free trade deal to come into force from July 15, says PM Modi
+## Global South alone can’t bear war burden, needs financial support: Modi to G7
 
 
-## BBC presenter Ashley Cain called women ‘slags’, ‘sluts’ and ‘bitches’: Report
+## Shafali Verma’s all-round show, Smriti Mandhana’s 74 & Shree Charani 4/19 give India big win
 
 
-## ‘He was never meant to be just a hero on screen: Samantha Ruth Prabu on meeting CM Vijay
+## Essel Group’s Subhash Chandra sells 3-acre bungalow on Delhi’s Bhagwan Das Road for Rs 1,260 crore
 
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Nanawati: The Last Negotiation | Ep 6 – Afghanistan
-Under Taliban rule, one woman struggles to negotiate with the men limiting the lives of Afghan women.
+## Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen
+Trump suggests deal signing on Friday could still fall through, vows to bomb Iran if they don't 'behave'.
 
-## Why Israel could still derail the Iran-US deal
-Trump called it a historic deal. But with nuclear talks and Israel all unresolved, what did either side actually win?
+## US Federal Reserve holds rates steady under new chair Warsh
+Heightened energy prices because of the US-Israel war with Iran has pushed US inflation to a three-year high.
 
-## Trump calls Modi a ‘killer’ and an ‘angel’
-President Donald Trump praised Indian Prime Minister Narendra Modi as a “killer” and an “angel" at the G7 in France.
+## Thick black smoke towers over Paris skyline after warehouse blaze
+Footage shows towers of black smoke visible across Paris, billowing from a 7,000 square-metre warehouse in Bobigny.
 
-## Northern Lebanon airport revival brings economic hope for the region
-Rene Mouawad Airport to serve Istanbul, Dubai, and Mersin as part of plans to revitalise northern Lebanon's economy.
+## Luigi Mangione to use psychiatric defence in healthcare CEO murder case
+Mangione would face lighter sentencing if jury accepts he was in a state of 'extreme emotional disturbance' during act.
 
-## World Cup 2026: Day six
-Al Jazeera’s @RahulP_Journo has your #FIFAworldcup26 day 6 recap.
+## Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000
+More than 1,000 people in Gaza have been killed since a US-brokered 'ceasefire' between Hamas and Israel was agreed.
 
-## Tehran War Diary: Shooting war at home
-An internationally acclaimed photojournalist in Iran turns his lens on his own city, as Tehran comes under bombardment.
+## Young Palestinian women learn AI to tell stories of war on Gaza
+Young Palestinian women learn AI to tell stories of war on Gaza.
 
-## Telegram challenges India app ban, calls move unconstitutional
-India blocked Telegram after exam paper leaks, prompting the legal challenge.
+## Trump pushes to delay appointment of new spy chief in legislative standoff
+Trump says plan to keep controversial acting DNI head, Bill Pulte, in role as he pushes for surveillance, voter ID law.
 
-## Russian artist and outspoken Putin critic shot dead days after protest
-Russian artist was shot dead in Poland just three days after a performance protest in Berlin near the Russian embassy.
+## Massive brush fire sends thick smoke over western Miami
+Aerial footage captured a brush fire that blanketed a residential neighbourhood near Miami with heavy smoke.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
