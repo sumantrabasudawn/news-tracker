@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US and Iran sign deal as Trump vows to release frozen funds and ease sanctions
+President says Tehran will receive incentives when they ‘behave’ and acknowledges it will keep ballistic missiles
+
+## FirstFT: Lululemon apologises after Japanese drum controversy in China
+Also in today’s newsletter: Mukesh Ambani’s Jio set to file for IPO, and Fed officials tilt towards rate rise
+
+## Fed officials tilt towards rate rise as Kevin Warsh era begins
+US government bonds drop after central bank vows to tame jolt of inflation triggered by Iran war
+
+## Crunching the numbers on Warsh’s lil’ statement statement
+It’s both the size and what you do with it
+
 ## Federal Reserve holds rates with short statement and hawkish projections
 Kevin Warsh has eliminated explicit forward guidance, but his colleagues project that at least one rate rise is needed
 
@@ -9,23 +21,17 @@ Labour candidate Andy Burnham hopes to win the seat and then seek to replace Kei
 ## How the oil market shrugged off the Iran crisis
 Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
 
-## Fed drops bias for rate cuts as Kevin Warsh era begins
+## Fed decision as it happened: US central bank drops bias for rate cuts as Kevin Warsh era begins
 Donald Trump’s war in Iran has sent inflation to nearly double the central bank’s target
 
-## The risks of borrowing from China’s economic playbook
-Western governments must ensure industrial policy does not turn into unchecked state expansion
+## Blow to UK authorities as former Nigerian oil minister cleared in bribery case
+Diezani Alison-Madueke had been accused of receiving private jet flights and use of properties in top London districts
 
 ## CME chief Duffy to step down after reshaping global derivatives trading
 CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading
 
-## Starmer holds out prospect of cabinet job for Burnham
-Allies of mayor say he would turn down such a role as he is pitching himself as a change from current administration
-
 ## Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI
 Dario Amodei is supported by rival Sam Altman in call for international co-operation
-
-## Blow to UK authorities as former Nigerian oil minister cleared in bribery case
-Diezani Alison-Madueke had been accused of receiving private jet flights and use of properties in top London districts
 
 ## Activist investor TCIM targets Devon Energy after landmark merger
 Speculation of a looming consolidation wave mounts in the heartland of the US shale oil patch
@@ -87,6 +93,9 @@ Europe faces a looming "China Shock" as booming exports, redirected from the US,
 ## Fuel, forex and conflict hit airlines: Domestic carriers’ profits may fall 15% this year
 Indian airlines anticipate a 10-15% drop in operating profits this fiscal year. Soaring aviation fuel prices, airspace limitations, and a weakening rupee, exacerbated by the Middle East conflict, are significantly impacting the sector. Despite potential fuel price moderation, higher costs and lease 
 
+## MP high court lifts stay on arrest warrant against Abhishek Banerjee
+Terming the remark defamatory and damaging to his reputation, former MLA Akash Vijayvargiya filed a complaint in the Bhopal MP-MLA court in 2021.
+
 ## President Trump says US will help India if attacked under PM Modi’s leadership
 The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains
 
@@ -108,31 +117,28 @@ The boy was later found dead in a canal after the accused was arrested and confe
 ## Second pedestrian hit by roadways school trainee driver in Gurugram dies: Police
 A Haryana Roadways training bus without permission and hit several people in Gurugram’s Sector 37 last week killing one pedestrian and injuring three others.
 
-## Suspected Kuki militant killed in gunfight, AK-47 seized: Manipur Police
-Additional security personnel were deployed, and extensive search operations were underway to track down the armed cadres and secure the region
-
-## Yoane Wissa: Congo’s hero against Portugal, who once survived an acid attack
+## EU to sign Free Trade Agreement with India by end of 2026, says Ursula at G7
 
 
-## India’s exports hit $863 billion even amid West Asia turmoil, US tariffs: Official
+## ‘We were hopeful when we voted…where will we go now?’: Fear grips Bengal hawkers amid eviction drives
 
 
-## Month-long nightmare ends as Gujarat man stuck in ebola-hit Congo for a month returns
+## Wanted in teacher suicide case, absconding BSA arrested from Delhi
 
 
-## Security outside Mamata Banerjee residence withdrawn, claims TMC
+## G7 Summit 2026: India will always be on the side of peace, PM Modi tells Zelenskyy
 
 
-## ‘Stare at the wall’: Teen’s 4-word response to UK social media ban goes viral
+## Day after protest in Falta, 8 held for bid to ‘free’ Jahangir Khan, CM says no one will be spared
 
 
-## Amid West Asia conflict, bitumen woes hit India’s road infrastructure push
+## Rehabilitation for most slum dwellers, in-situ relocation focus of new policy for Delhi
 
 
-## Special regulatory relaxations unlikely for small nuclear reactors
+## Lab tests, use of bottled water: Contamination ordeal in Delhi’s Hauz Khas still not over
 
 
-## Is Cristiano Ronaldo past his prime? No doubt after the Congo match
+## ‘Partial burning’ continues to be key hurdle in tackling farm fire pollution: Study
 
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
@@ -159,6 +165,12 @@ The recent escalation in the Middle East has produced an unforeseen winner. The 
 ## How Asia’s C-suite leaders cut through chaos to drive clarity, financial discipline and growth
 Growing global and economic uncertainty driven by geopolitics, advances in artificial intelligence (AI), socio-economic concerns and environmental risks are all intensifying pressure on executives as they adapt and respond to ongoing, high-stakes disruptions around the world. The World Economic Foru
 
+## Trump Defends His Iran Deal
+The White House detailed the deal’s terms after Trump defended it at the G-7.
+
+## U.S.-Iran Memorandum of Understanding: Full Text
+Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war.
+
 ## How RFK Jr. Managed to Block Millions in Global Vaccine Funds
 $600 million in U.S. foreign aid for global vaccines is at risk.
 
@@ -176,12 +188,6 @@ The Islamic Republic has survived. Now comes the hard part.
 
 ## Elon Musk and the Rise of Space Capitalism
 The United States is racing ahead where Europe, China, and India struggle.
-
-## Myanmar Is What Happens When China Fills a Vacuum
-Financing foreign elections is a curious habit for a one-party state.
-
-## Why Anthropic Is Fighting With Trump (Again)
-The AI company is back in the U.S. government’s crosshairs.
 
 ## India-US Relations: Too Important to Fail, Too Complicated to Trust
 The killing of Indian sailors by the U.S. military adds to the web of complications, but the structural foundations haven't changed.
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kane double fires England past Croatia in World Cup thriller
+Harry Kane scores twice, while Jude Bellingham and Marcus Rashford also net, as England beat Croatia 4-2 in 2026 opener.
+
+## Al Jazeera journalist reunited with family in Khartoum after years of war
+Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.
+
+## Huawei CFO’s admissions can be used at criminal trial, US judge rules
+CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.
+
+## Thieves with bulldozer carry out ATM heist in 4 minutes
+CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.
+
+## Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup
+Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo’s historic return to the World Cup.
+
+## Gilgo Beach killer sentenced to life without parole
+New York’s Gilgo Beach serial killer Rex Heuermann was sentenced to life without parole for the murders of eight women.
+
+## Croatia fans rock cowboy style in Dallas parade ahead of match with England
+Thousands of Croatia supporters turned downtown Dallas into a sea of red and white ahead of face-off with England.
+
 ## ‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections
 Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump.
-
-## Why was India’s Cockroach Janta Party founder attacked?
-Why was India’s Cockroach Janta Party founder attacked?
-
-## Read the US account of unreleased 14-point Iran ceasefire memorandum
-US official gives clearest account yet of deal set to be signed by US and Iran Friday; Iran has not confirmed text.
-
-## Palestinian residents shocked by devastation in West Bank refugee camp
-Palestinian families briefly returned to Tulkarem refugee camp after more than a year of forced displacement.
-
-## ‘Send them back’ chants in EU Parliament after anti-migrant bill passes
-‘Send them back’ chants in EU Parliament after anti-migrant bill passes.
-
-## Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup
-Ana Candida Evora and Vozinha 'will be reunited in Miami' for Cape Verde's match against Uruguay on Sunday.
-
-## Portugal held to draw by DR Congo in World Cup 2026 opener
-Joao Neves opens the scoring for Portugal with early goal, but Yoane Wissa equalises in first-half injury time.
-
-## Freed Palestinian prisoner meets son conceived with smuggled sperm
-After spending 25 years in Israeli prisons, Abdul Karim al-Rimawi embraced his son Majd for the first time.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
