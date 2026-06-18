@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Five things to know about Kevin Warsh’s first Fed meeting as chair
+Central bank chief says ‘new chapter’ has begun as he promised sweeping reforms
+
+## Chinese universities gain ground on UK and US in global rankings
+Britain and US retain grip on top 10, with MIT first and Imperial College London second
+
 ## US and Iran sign deal as Trump vows to release frozen funds and ease sanctions
 President says Tehran will receive incentives when they ‘behave’ and acknowledges it will keep ballistic missiles
 
@@ -18,14 +24,11 @@ Kevin Warsh has eliminated explicit forward guidance, but his colleagues project
 ## Five things to know about the high-stakes Makerfield by-election
 Labour candidate Andy Burnham hopes to win the seat and then seek to replace Keir Starmer as prime minister
 
-## How the oil market shrugged off the Iran crisis
-Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
-
-## Fed decision as it happened: US central bank drops bias for rate cuts as Kevin Warsh era begins
-Donald Trump’s war in Iran has sent inflation to nearly double the central bank’s target
-
 ## Blow to UK authorities as former Nigerian oil minister cleared in bribery case
 Diezani Alison-Madueke had been accused of receiving private jet flights and use of properties in top London districts
+
+## How the oil market shrugged off the Iran crisis
+Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
 
 ## CME chief Duffy to step down after reshaping global derivatives trading
 CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading
@@ -69,6 +72,12 @@ While Trump called Modi a “tough negotiator” on the interim trade deal, disc
 ## ATM usage declines, but more takers for micro-ATMs
 The number of ATMs declined for the second consecutive year to 2.51 lakh in FY25 from a peak of 2.55 lakh in FY23
 
+## Canada’s CPP to invest Rs 7k cr in Hyderabad-based CtrlS
+Canadian Pension Plan Investment Board is injecting up to ₹7,000 crore into CtrlS Datacenters, acquiring an 8.2% stake for ₹4,000 crore. This significant investment fuels India's booming digital infrastructure, driven by escalating demand for cloud, hyperscale, and AI-ready data centers. A joint ven
+
+## Trade deal with UK set to kick in from July 15
+India and the UK's free trade agreement, along with a social security deal, will commence on July 15. This pact eliminates tariffs on 99% of Indian exports, benefiting sectors like textiles and engineering. Discussions resolved steel trade concerns, ensuring balanced market access for exporters. Ind
+
 ## US Federal Reserve policy meet: Kevin Warsh-led FOMC keeps interest rates unchanged; projects hike by year-end, raises inflation forecast
 Markets had broadly expected the US Federal Reserve to keep its benchmark interest rate unchanged, extending the pause that has been in place throughout the year.
 
@@ -87,11 +96,8 @@ The National Stock Exchange has officially filed for its long-awaited IPO, aimin
 ## India's power generation capacity crosses 530 GW, set to touch 600 GW next year
 
 
-## China's export surge sparks Europe fears as G7 countries weighs response to 'China Shock 2.0'
-Europe faces a looming "China Shock" as booming exports, redirected from the US, threaten its industries. G7 leaders are discussing trade imbalances, with concerns that China's manufacturing dominance and sophisticated products could mirror past disruptions. Policymakers are considering tougher trad
-
-## Fuel, forex and conflict hit airlines: Domestic carriers’ profits may fall 15% this year
-Indian airlines anticipate a 10-15% drop in operating profits this fiscal year. Soaring aviation fuel prices, airspace limitations, and a weakening rupee, exacerbated by the Middle East conflict, are significantly impacting the sector. Despite potential fuel price moderation, higher costs and lease 
+## Uddhav Thackeray's Shiv Sena (UBT) in split mode again but numbers still unclear
+The Shiv Sena, led by deputy chief minister Eknath Shinde, said that six rebel Sena (UBT) MPs had signed a letter stating they had formed a separate group.
 
 ## MP high court lifts stay on arrest warrant against Abhishek Banerjee
 Terming the remark defamatory and damaging to his reputation, former MLA Akash Vijayvargiya filed a complaint in the Bhopal MP-MLA court in 2021.
@@ -114,32 +120,38 @@ A vacation bench granted liberty to the Centre to file their replies along with 
 ## 6-year-old boy kidnapped, thrown into canal alive in Meerut; accused was in relationship with his mother
 The boy was later found dead in a canal after the accused was arrested and confessed to the crime.
 
-## Second pedestrian hit by roadways school trainee driver in Gurugram dies: Police
-A Haryana Roadways training bus without permission and hit several people in Gurugram’s Sector 37 last week killing one pedestrian and injuring three others.
-
-## EU to sign Free Trade Agreement with India by end of 2026, says Ursula at G7
+## ‘Illegal and deeply inhuman’: Mamata Banerjee leads protest against hawker eviction
 
 
-## ‘We were hopeful when we voted…where will we go now?’: Fear grips Bengal hawkers amid eviction drives
+## Highways ministry must probe resident claims of expressway route being changed: Bihar opposition
 
 
-## Wanted in teacher suicide case, absconding BSA arrested from Delhi
+## QS World University Rankings 2027: IIT-Delhi tops India list for 2nd year, climbs to 118 globally
 
 
-## G7 Summit 2026: India will always be on the side of peace, PM Modi tells Zelenskyy
+## Leaks, loans and student stress: Rahul Gandhi’s Kota outreach before NEET retest
 
 
-## Day after protest in Falta, 8 held for bid to ‘free’ Jahangir Khan, CM says no one will be spared
+## Madhya Pradesh fast-tracks UCC – but there’s some opposition
 
 
-## Rehabilitation for most slum dwellers, in-situ relocation focus of new policy for Delhi
+## Goa nightclub where blaze killed 25 ran without key approvals: ED chargesheet
 
 
-## Lab tests, use of bottled water: Contamination ordeal in Delhi’s Hauz Khas still not over
+## At meet before ban on Telegram, Government flagged limited search feature, missing ‘proactive’ steps
 
 
-## ‘Partial burning’ continues to be key hurdle in tackling farm fire pollution: Study
+## CBI carries out raids in 14 places over Rs 7 crore basic education ‘scam’
 
+
+## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
+Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
+
+## Can Pop Mart sustain the Labubu juggernaut as China sales cool?
+Chinese toymaker Pop Mart recorded its first year-on-year decline in domestic online sales since 2024 in May, raising fresh questions about the sustainability of demand for its intellectual property (IP) portfolio, including its blockbuster Labubu character. Domestic online sales fell 5 per cent fro
+
+## HKMA keeps rate unchanged as new Fed chair holds steady, but a rise is expected this year
+Hong Kong’s Monetary Authority (HKMA) on Thursday left its base rate unchanged after the US Federal Reserve held interest rates steady at its first policy meeting under new chairman Kevin Warsh, but US policymakers expect an interest rate rise later this year due to worries of inflationary pressure.
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
 Chinese authorities introduced draft regulations on Wednesday to crack down on the misuse of subsidies by food-delivery platforms, as Beijing seeks to rein in the sector’s intense competition. The proposed rules, open for public comment until July 17, identify several practices that would be banned,
@@ -155,15 +167,6 @@ HSBC China has become the first foreign bank to provide custodian services for a
 
 ## Global brands in China seek local partners amid market squeeze
 Pizza Hut, the largest casual dining operator in China, has become the latest Western chain to change hands in the country, as global brands count on local companies to bolster sales in an increasingly competitive market. Yum China will pay US$1.2 billion to buy the China business from US-based Yum!
-
-## AI boom sparks Kingboard subsidiary’s US$1.5 billion stake sale to ramp up PCB capacity
-Riding on a buoyant stock market for artificial intelligence hardware components, Kingboard Holdings plans to raise HK$11.77 billion (US$1.5 billion) by selling a stake in its listed subsidiary, Kingboard Laminates Holdings, one of the world’s biggest makers of laminate materials used in circuit boa
-
-## Geopolitics is complicating the green transition – and China’s moment
-The recent escalation in the Middle East has produced an unforeseen winner. The conflict has rekindled worries about logistics and energy security, prompting governments and businesses to reconsider their reliance on fossil fuels and fragile supply routes. This has sped up the move towards renewable
-
-## How Asia’s C-suite leaders cut through chaos to drive clarity, financial discipline and growth
-Growing global and economic uncertainty driven by geopolitics, advances in artificial intelligence (AI), socio-economic concerns and environmental risks are all intensifying pressure on executives as they adapt and respond to ongoing, high-stakes disruptions around the world. The World Economic Foru
 
 ## Trump Defends His Iran Deal
 The White House detailed the deal’s terms after Trump defended it at the G-7.
@@ -189,6 +192,12 @@ The Islamic Republic has survived. Now comes the hard part.
 ## Elon Musk and the Rise of Space Capitalism
 The United States is racing ahead where Europe, China, and India struggle.
 
+## Asia Is Sprinting on AI. Europe Is Still Tying Its Laces.
+China, South Korea, Japan, India, and Singapore are all setting ambitious AI goals while the EU falls farther behind.
+
+## When Neutrality Fails: ASEAN in a Malacca Disruption Scenario
+Insights from Looi Teck Kheong.
+
 ## India-US Relations: Too Important to Fail, Too Complicated to Trust
 The killing of Indian sailors by the U.S. military adds to the web of complications, but the structural foundations haven't changed.
 
@@ -206,12 +215,6 @@ South Korean President Lee Jae-myung made Korean Peninsula peace a central theme
 
 ## 6 Months Into Kazakhstan’s Year of AI
 What have the national platform, AI law, and human capital programs delivered?
-
-## KMT Chair Returns From Her US Tour
-Cheng Li-wun's two-week trip to the U.S. didn't see the high-profile White House meetings she sought, but still served as a signal of her political ambitions.
-
-## Survivors of Myanmar’s Landmine Blasts Struggle With Severed Limbs and Shattered Lives
-The pain from their injuries hasn’t gone away. Meanwhile, they face challenges in earning a livelihood.
 
 ## Macron’s Nuclear Gamble: Building a European Deterrent Faster Than French Politics Can Tear Down
 In early March, French President Emmanuel Macron stood at a windswept submarine base on the Breton coast and quietly buried four decades of French nuclear orthodoxy. The arsenal would grow. The numbers would be hidden. And for the first time, nuclear weapons that France built to defend Paris might o
@@ -261,6 +264,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump to Netanyahu: Use a ‘softer’ touch on Lebanon
+US President Donald Trump has encouraged Israeli Prime Minister Benjamin Netanyahu to use a ‘softer touch’ in Lebanon.
+
+## Trump says it’s ‘unfair’ for Iran to lack ballistic missiles
+President Donald Trump says it’s ‘unfair’ for Iran to lack ballistic missiles if other regional countries have them.
+
+## Diplomat confirms that US and Iran have signed MoU electronically
+Foreign Ministry spokesperson Esmaeil Baghaei says the agreement has been finalised and signed with the US.
+
 ## Kane double fires England past Croatia in World Cup thriller
 Harry Kane scores twice, while Jude Bellingham and Marcus Rashford also net, as England beat Croatia 4-2 in 2026 opener.
 
@@ -275,15 +287,6 @@ CCTV footage released by police shows thieves using a bulldozer to tear an ATM f
 
 ## Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup
 Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo’s historic return to the World Cup.
-
-## Gilgo Beach killer sentenced to life without parole
-New York’s Gilgo Beach serial killer Rex Heuermann was sentenced to life without parole for the murders of eight women.
-
-## Croatia fans rock cowboy style in Dallas parade ahead of match with England
-Thousands of Croatia supporters turned downtown Dallas into a sea of red and white ahead of face-off with England.
-
-## ‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections
-Lula is currently in a tight race for re-election against right-wing candidate Flavio Bolsonaro, an ally of Trump.
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
