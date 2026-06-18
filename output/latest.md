@@ -1,76 +1,73 @@
 # AION Intelligence
 
-## Five things to know about Kevin Warsh’s first Fed meeting as chair
-Central bank chief says ‘new chapter’ has begun as he promised sweeping reforms
+## How Ukraine’s membership urgency could split the EU leaders’ summit
+Also in this newsletter: Standing up for legacy national TV
 
-## Chinese universities gain ground on UK and US in global rankings
-Britain and US retain grip on top 10, with MIT first and Imperial College London second
+## FirstFT: Warsh ushers in new Fed era
+Also in today’s newsletter: Makerfield by-election and US-Iran deal
 
-## US and Iran sign deal as Trump vows to release frozen funds and ease sanctions
-President says Tehran will receive incentives when they ‘behave’ and acknowledges it will keep ballistic missiles
+## The biggest PE loss since 2008
+Thoma Bravo will lose all of the $5bn it invested in Medallia as it hands the software group to lenders
 
-## FirstFT: Lululemon apologises after Japanese drum controversy in China
-Also in today’s newsletter: Mukesh Ambani’s Jio set to file for IPO, and Fed officials tilt towards rate rise
+## Wall Street pushes US regulators to further ease Basel capital rules
+Banks press for further gains even after winning their largest lobbying victory since the financial crisis
 
-## Fed officials tilt towards rate rise as Kevin Warsh era begins
-US government bonds drop after central bank vows to tame jolt of inflation triggered by Iran war
+## Young Moroccan star shows the psychological strength of today’s elite players
+Leading footballers now excel with their heads as well as their feet, as 18-year-old Ayyoub Bouaddi displayed against Brazil
 
-## Crunching the numbers on Warsh’s lil’ statement statement
-It’s both the size and what you do with it
+## Makerfield voters seek ‘change’ as Burnham anticipates by-election win
+Allies of Greater Manchester mayor ‘quietly confident’ of victory that would set up leadership challenge to Starmer
 
-## Federal Reserve holds rates with short statement and hawkish projections
-Kevin Warsh has eliminated explicit forward guidance, but his colleagues project that at least one rate rise is needed
+## How could Thames Water be nationalised?
+Intervention by UK environment secretary has raised prospect of utility entering government’s special administration regime
 
-## Five things to know about the high-stakes Makerfield by-election
-Labour candidate Andy Burnham hopes to win the seat and then seek to replace Keir Starmer as prime minister
+## BMW sounds the alarm as China squeezes Europe’s carmakers
+Chinese manufacturers have grown their market share in Europe while gaining share at home
 
-## Blow to UK authorities as former Nigerian oil minister cleared in bribery case
-Diezani Alison-Madueke had been accused of receiving private jet flights and use of properties in top London districts
+## JPMorgan Chase cuts off Anthropic access for its Hong Kong staff
+Bank follows Goldman Sachs in preventing use of Claude in Asian financial hub
 
-## How the oil market shrugged off the Iran crisis
-Fears of summer shortages and $200 oil have been replaced by a focus on looming gluts
+## Ships divert in hunt for fuel after Gulf conflict hits supplies
+Bosses warn of continued disruption despite Iran-US deal to end war and open the strait
 
-## CME chief Duffy to step down after reshaping global derivatives trading
-CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading
+## What is the point of Berkshire Hathaway?
+It can be bold — or become an index fund
 
-## Anthropic boss tells G7 leaders to ‘resist the temptation to splinter’ over AI
-Dario Amodei is supported by rival Sam Altman in call for international co-operation
+## HFCL shares soar after securing ₹2,666 cr BharatNet Phase-III contract from RVNL
+The stock rose as much as 4.6 per cent to ₹198.90 on the NSE after the company announced that it had secured a major contract from Rail Vikas Nigam Ltd (RVNL) for the BharatNet Phase-III project.
 
-## Activist investor TCIM targets Devon Energy after landmark merger
-Speculation of a looming consolidation wave mounts in the heartland of the US shale oil patch
+## Pune-based BioPrime improves crop nutrition by promoting efficient fertilizer use, raising nutrient uptake
 
-## To avoid backlash, tech giants must share their AI wealth before it’s too late
-The US cannot wait for the worst job losses to hit before moving corporate and public policy in a pro-worker direction
 
-## Diageo boss Dave Lewis orders executives to cut jobs as restructuring kicks off
-Group’s top team given cost-reduction targets as new CEO begins effort to revive fortunes of Johnnie Walker maker
+## FSSAI directs food business operators to use only corrosion-free knives for food preparation
+The regulator advises businesses to use only food-grade, corrosion-resistant cutting equipment; warns of action for violations.
 
-## Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses
-Blackstone-led consortium to take over software company and inject $150mn to help cut its debt load
+## US Fed's hawkish tone shuts door on India bond rally for now
+The yield on the benchmark 6.94% 2036 bond rose to 6.8639% by 10:20 ‌a.m. IST from its previous close of 6.8626%.
 
-## Fed holds rates steady, officials split over possible hikes this year
-The meeting, chaired for the first time by Kevin Warsh, signalled a shift in the Fed’s communication strategy as it grapples with rising inflation pressures from energy costs and geopolitical tensions
+## Sensex today | Stock Market Live: Sensex, Nifty trade flat as oil price relief offsets Fed rate concerns
+Sensex, Nifty, Share Prices LIVE: Indian markets trade flat as investors balanced lower crude oil prices and US Federal Reserve signals. While softer oil prices supported sentiment by easing inflation concerns, expectations of future US rate hikes kept risk appetite cautious.
 
-## NSE IPO back on track as exchange files prospectus with SEBI for ₹30,000-crore issue
-Pure offer-for-sale of up to 149 million equity shares likely to be one of India’s biggest public issues of the year
+## Sensex, Nifty cautious despite softer crude; IT shares slide after hawkish US Fed commentary
+Nifty IT index declines over 1.5%
 
-## Odisha approves Rs 76,612 crore investment proposals across 20 mega projects, to create over 50,000 jobs
-Major investments include lab-grown diamond units, solar PV manufacturing facilities, EV-grade magnet production, integrated steel plants, and power projects
+## Crude oil futures decline following reports of digitally signed US-Iran interim peace deal
+At 10.03 am on Thursday, August Brent oil futures were at $77.94, down by 2.02 per cent, and July crude oil futures on WTI (West Texas Intermediate) were at $75, down by 2.33 per cent
 
-## Leapfrog Engineering IPO subscribed 1.28 times on day 1, QIB demand leads surge
-The Bengaluru-based EPCC company plans to use proceeds for setting up an assembling unit, working capital needs and general corporate purposes
+## Nifty Prediction Today – June 18, 2026: Nifty futures: Renewed positive momentum
+Nifty futures (Jun) is likely to touch 24,300 before the end of this week
 
-## Everpure announces Data Stream to expand AI-ready data offerings
-Everpure Data Stream, based on NVIDIA AI Data Platform reference design, brings advanced AI capabilities directly to enterprise data
+## Rupee slips again: Currency tumbles 21 paise to 94.66 against US dollar
+The Indian Rupee weakened against the US dollar on Thursday, influenced by the US Federal Reserve's hawkish stance and a strengthening dollar index. Asian currencies also saw declines, impacting the rupee. Meanwhile, positive sentiment emerged from reports of a US-Iran memorandum of understanding an
 
-## IPO comeback: ₹60,000 crore pipeline in next three months
-This resurgence follows a six-month slowdown, driven by easing geopolitical tensions, a rally in equity markets, and declining crude prices.
+## Top stocks to buy today: Stock recommendations for June 18, 2026 - check list
+Top stock market recommendations: Bharat Electronics Ltd (BEL), Canara Bank, and TVS Motor Company - these are the top 3 stocks that Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has recommended.
 
-## Modi, Trump talk trade, seafarer safety on G7 sidelines
-While Trump called Modi a “tough negotiator” on the interim trade deal, discussions are weighed down by recent maritime deaths and ongoing US tariff investigations
+## Stock market today: BSE Sensex, Nifty50 open flat as US-Iran sign MoU
 
-## ATM usage declines, but more takers for micro-ATMs
-The number of ATMs declined for the second consecutive year to 2.51 lakh in FY25 from a peak of 2.55 lakh in FY23
+
+## Crude prices fall as US-Iran deal reopens Hormuz after over 100 days
+Oil prices dropped significantly as the US and Iran reached an interim agreement to end the war, reopen the Strait of Hormuz, and lift sanctions on Tehran's oil. This deal, aiming to restore pre-war conditions, could resolve a major energy supply disruption and potentially lead to a global oil surpl
 
 ## Canada’s CPP to invest Rs 7k cr in Hyderabad-based CtrlS
 Canadian Pension Plan Investment Board is injecting up to ₹7,000 crore into CtrlS Datacenters, acquiring an 8.2% stake for ₹4,000 crore. This significant investment fuels India's booming digital infrastructure, driven by escalating demand for cloud, hyperscale, and AI-ready data centers. A joint ven
@@ -84,65 +81,56 @@ Markets had broadly expected the US Federal Reserve to keep its benchmark intere
 ## India-UK FTA clears steel hurdle; 85% of Indian exports shielded from British curbs
 India has secured protection for 85% of its steel exports to the UK under the upcoming free trade agreement, with the remaining shipments covered by country-specific quotas and other access schemes. This agreement resolves a key sticking point ahead of the Comprehensive Economic and Trade Agreement'
 
-## PNGRB asks oil, gas firms to strengthen compensation for accident victims
-Oil and gas firms are urged by PNGRB to boost worker compensation beyond legal mandates for accident victims and their families. While some companies have improved their voluntary payouts, others lag. The regulator is also pushing for enhanced safety culture and training to prevent incidents, aiming
+## ‘It’s a rough profession': Trump responds to question over Indian sailors' death in US attack
+Donald Trump said: “This has been happening throughout time, but we work together. We love all of those people. They’re great people.”
 
-## New resource race: G7 joins forces to challenge China’s critical minerals dominance
-G7 leaders are uniting to lessen reliance on China for vital minerals, essential for defense and green tech. Plans include coordinated stockpiling, enhanced recycling, and a new platform with the IEA. The goal is to significantly cut dependence on single suppliers by 2030, fostering more secure glob
+## Why Uddhav Thackeray’s latest challenge may be his most difficult yet
+Analysts say Uddhav Thackeray may find it tough to cope with the latest crisis which should be seen in the context of fast-mutating character of Indian politics
 
-## NSE files DRHP for $2-3 billion IPO; Tiger Global, SBI among major sellers
-The National Stock Exchange has officially filed for its long-awaited IPO, aiming to raise $2-3 billion. This move follows a nine-year delay due to the co-location controversy. The offer is entirely an 'offer for sale,' with existing shareholders, including Tiger Global, divesting stakes. This listi
+## Shiv Sena-UBT crisis LIVE: Key meet at 11 today in Delhi after party alleges ₹50 crore offers to switch
+Shiv Sena-UBT crisis LIVE: A key meeting of the Shiv Sena (UBT) is set to take place in New Delhi today to determine whether dissident MPs' bid to form a separate group will succeed. This comes after MP Sanjay Raut alleged that Sena-UBT MPs were being offered ₹50 crore to leave the party.
 
-## India's power generation capacity crosses 530 GW, set to touch 600 GW next year
+## Justice depends on human wisdom, not AI
+The justice system depends upon the assumption that officers of the court have undergone rigorous legal training and scrutiny.
 
+## ‘Amrit Peedhi, creators of opportunities’: Developed India rests on the youth’s well-being
+With nearly 65% of its population below the age of 35, India possesses a demographic advantage unparalleled among major economies.
 
-## Uddhav Thackeray's Shiv Sena (UBT) in split mode again but numbers still unclear
-The Shiv Sena, led by deputy chief minister Eknath Shinde, said that six rebel Sena (UBT) MPs had signed a letter stating they had formed a separate group.
+## Women riders in state-run ‘ordinary’ buses up after scheme roll-out in Kerala
+Women now make up 64% of ridership on KSRTC's ordinary buses after the Priyadarshini free ride scheme, up from 50% before its launch.
 
-## MP high court lifts stay on arrest warrant against Abhishek Banerjee
-Terming the remark defamatory and damaging to his reputation, former MLA Akash Vijayvargiya filed a complaint in the Bhopal MP-MLA court in 2021.
+## 12 final-yr BDS students booked for ragging in Osmania University
+Hyderabad police registered cases against 12 final-year BDS students for ragging juniors. They've been suspended for six months as an investigation continues.
 
-## President Trump says US will help India if attacked under PM Modi’s leadership
-The two leaders met for the first time in 16 months on margins of the G7 Summit in France in an effort to repair bilateral relations that witnessed strains
+## Govt schools on par with private schools in quality education: Telangana CM
+Telangana CM Revanth Reddy launched Public Schools to improve public education quality, dispel myths, and provide modern facilities for all students.
 
-## India's education system an extortion machine: Rahul Gandhi at Kota rally ahead of re-NEET
-India's education system an extortion machine, rejection system: Rahul Gandhi at Kota rally
-
-## Big trade wins for India as PM Modi attends G7 meet: UK deal date, EU FTA by year-end | Full list
-The timelines of two key trade deals for India were fixed, and US President Donald Trump also shared a big update on the ongoing trade negotiations with India.
-
-## CJP to hold second protest at Jantar Mantar in Delhi on June 20: ‘Confident police will grant permission’
-CJP chief spokesperson Saurav Das said he spent the entire day at the police station completing formalities and submitting details of the protest plan.
-
-## Telegram vs Centre: SG Mehta says govt will reveal ‘shocking’ evidence; High court posts matter to June 18
-A vacation bench granted liberty to the Centre to file their replies along with supporting documents and posted the matter for further hearing on June 18.
-
-## 6-year-old boy kidnapped, thrown into canal alive in Meerut; accused was in relationship with his mother
-The boy was later found dead in a canal after the accused was arrested and confessed to the crime.
-
-## ‘Illegal and deeply inhuman’: Mamata Banerjee leads protest against hawker eviction
+## Same account number for 2 customers, postal department directed to pay Rs 20,000 relief
 
 
-## Highways ministry must probe resident claims of expressway route being changed: Bihar opposition
+## G7 Summit 2026: Trump’s awkward moments during summit photos go viral
 
 
-## QS World University Rankings 2027: IIT-Delhi tops India list for 2nd year, climbs to 118 globally
+## Zeenat Aman reveals her Hindu mom named her Laliteshwari, parents had an interfaith marriage
 
 
-## Leaks, loans and student stress: Rahul Gandhi’s Kota outreach before NEET retest
+## ‘Recycled suspicion’: Why court declared arrest of Gameskraft directors illegal
 
 
-## Madhya Pradesh fast-tracks UCC – but there’s some opposition
+## MHT CET PCB Results 2026: Second attempt scorecards out at cetcell.mahacet.org.
 
 
-## Goa nightclub where blaze killed 25 ran without key approvals: ED chargesheet
+## Father’s Day 2026 Date: When is Father’s Day being celebrated this year?
 
 
-## At meet before ban on Telegram, Government flagged limited search feature, missing ‘proactive’ steps
+## Man awarded Rs 50,000, replacement after washing machine malfunctions in 3 months
 
 
-## CBI carries out raids in 14 places over Rs 7 crore basic education ‘scam’
+## Khushbu Sundar’s daughter Anandita shuts down trolls, Ozempic rumours: ‘Took me 7 years’
 
+
+## Hong Kong graduates prefer careers in finance, survey finds
+Hong Kong graduates believe the city’s finance industry is its most attractive and stable sector, making them more optimistic about career opportunities than their global peers, according to a study by the CFA Institute, which trains investment managers. The US-based institute’s “2026 Graduate Outlo
 
 ## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
 Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
@@ -165,8 +153,8 @@ Europe should welcome more Chinese investment and deepen industrial partnerships
 ## HSBC China pioneers cross-border fund services for mainland investors
 HSBC China has become the first foreign bank to provide custodian services for a cross-border fund product that can help mainland clients invest in foreign markets, the lender said. Despite the recent crackdown on illegal cross-border trading, analysts believed that the move was a sign that Beijing 
 
-## Global brands in China seek local partners amid market squeeze
-Pizza Hut, the largest casual dining operator in China, has become the latest Western chain to change hands in the country, as global brands count on local companies to bolster sales in an increasingly competitive market. Yum China will pay US$1.2 billion to buy the China business from US-based Yum!
+## Multilateralism Is Dead. Long Live Plurilateralism.
+Coalitions of the willing are creating a “race to the top” on climate change, AI, and critical minerals.
 
 ## Trump Defends His Iran Deal
 The White House detailed the deal’s terms after Trump defended it at the G-7.
@@ -188,9 +176,6 @@ Amid the uncertainty of Trump’s deal, how will ships decide when to leave the 
 
 ## Iran’s Victory Is More Pyrrhic Than It Looks
 The Islamic Republic has survived. Now comes the hard part.
-
-## Elon Musk and the Rise of Space Capitalism
-The United States is racing ahead where Europe, China, and India struggle.
 
 ## Asia Is Sprinting on AI. Europe Is Still Tying Its Laces.
 China, South Korea, Japan, India, and Singapore are all setting ambitious AI goals while the EU falls farther behind.
@@ -264,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump to Netanyahu: Use a ‘softer’ touch on Lebanon
-US President Donald Trump has encouraged Israeli Prime Minister Benjamin Netanyahu to use a ‘softer touch’ in Lebanon.
+## Despair and delight in England-Croatia grudge match
+Emotions seesawed across London and Zagreb as England met Croatia in a thrilling World Cup grudge match.
 
-## Trump says it’s ‘unfair’ for Iran to lack ballistic missiles
-President Donald Trump says it’s ‘unfair’ for Iran to lack ballistic missiles if other regional countries have them.
+## Activist praises Algeria’s support for Gaza orphans following World Cup def
+Activist praises Algeria’s support for Gaza orphans following World Cup defeat
 
-## Diplomat confirms that US and Iran have signed MoU electronically
-Foreign Ministry spokesperson Esmaeil Baghaei says the agreement has been finalised and signed with the US.
+## US must ‘force’ Israel to change its policy on Lebanon
+Rami Khouri says real policy change will only happen when the US forces Israel’s hand in Lebanon.
 
-## Kane double fires England past Croatia in World Cup thriller
-Harry Kane scores twice, while Jude Bellingham and Marcus Rashford also net, as England beat Croatia 4-2 in 2026 opener.
+## Oil prices fall, stocks rally as US, Iran sign framework to end war
+Brent crude drops as much as 1.6 percent, while key stock indices in Japan, South Korea and Taiwan climb.
 
-## Al Jazeera journalist reunited with family in Khartoum after years of war
-Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.
+## Trump’s MoU with Iran draws backlash from some Republicans
+Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'.
 
-## Huawei CFO’s admissions can be used at criminal trial, US judge rules
-CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.
+## Netanyahu under pressure in Israel after US-Iran agreement
+Israeli Prime Minister Benjamin Netanyahu is facing mounting pressure after he was cut out of the US-Iran agreement.
 
-## Thieves with bulldozer carry out ATM heist in 4 minutes
-CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.
+## Who benefits from Zimbabwe’s lithium boom?
+New projects and foreign-backed mines are reshaping Zimbabwe’s lithium sector, with uneven local gains.
 
-## Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup
-Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo’s historic return to the World Cup.
+## Greta Thunberg joins Brussels protest against Israel
+Around 100 people, including Greta Thunberg and other Flotilla activists, have rallied in Brussels.
+
+## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
+Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
 
 ## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
 India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
@@ -309,8 +297,11 @@ India is set to decide on extending customs duty relief for critical raw materia
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
 
-## Exclusive: SEBI Writes to NFRA, Seeks Examination of Rajesh Exports Auditors
-Move follows market regulator's interim findings in the alleged Rs 15.15 lakh crore revenue misstatement case; audit regulator may independently examine the role of the company's statutory auditors, according to people aware of the development.
+## RBI allows banks to offer higher interest on NRI deposits to draw more foreign funds
+The Reserve Bank of India (RBI) on Wednesday temporarily eased interest rate curbs on certain non-resident deposits to enable banks to offer higher returns on fresh FCNR(B) and NRE deposits with the aim of attracting more overseas funds to prop up the country's foreign exchange reserves and strength
+
+## India-UK free trade deal to take effect on July 15, opening 99% of exports to tariff-free access
+India and the UK's Comprehensive Economic and Trade Agreement (CETA) will take effect on July 15, granting 99% of Indian exports tariff-free access. The pact, announced by Prime Ministers Modi and Starmer, also includes a social security agreement for temporary workers.
 
 ## RBI infuses Rs 72,300 cr transient liquidity into banking system via VRR auctions as surplus narrows
 The Reserve Bank of India injected Rs 72,300 crore into the banking system. This was done through two Variable Rate Repo auctions. The move followed a drop in surplus liquidity due to advance tax payments. Experts expect more such actions to manage liquidity. Overnight rates had risen above the RBI'
@@ -329,10 +320,4 @@ India and Canada are set to finalize a free trade agreement by the end of this y
 
 ## Sebi Plans Buyback Via SEs Again, Easier MF Borrowing Rules
 merchant banker role may be cut
-
-## SEBI overhauls ETF trading framework, introduces dynamic price bands
-The Securities and Exchange Board of India (SEBI) on Monday proposed a major overhaul of the framework governing exchange-traded funds (ETFs), introducing dynamic price bands, revised base price calculations, and new auction mechanisms to ensure ETF prices more accurately reflect the value of their 
-
-## SEBI likely to approve major reforms in bond markets, MFs and AIFs on June 19
-India's markets regulator Securities and Exchange Board of India (SEBI) is expected to clear a package of reforms covering share buybacks, alternative investment funds, bond distribution and mutual fund liquidity at its board meeting on June 19.
 
