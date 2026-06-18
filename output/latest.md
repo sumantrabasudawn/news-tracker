@@ -1,7 +1,40 @@
 # AION Intelligence
 
-## How Ukraine’s membership urgency could split the EU leaders’ summit
-Also in this newsletter: Standing up for legacy national TV
+## How Hizbollah made its comeback
+Lebanese militant group has been buoyed by fresh support from Tehran but its future depends on the US-Iran peace deal
+
+## More than a million landlords unprepared for tougher energy efficiency rules
+Buy-to-let lender to offer discounted loans to help borrowers fund improvements before rules tighten in 2030
+
+## Indonesia and Philippines raise rates to combat energy shock
+South-east Asian countries seek to shore up currencies that have been among region’s worst-performing this year
+
+## BBC cuts will damage broadcaster’s crown jewels
+Government should consider direct licence fee increases or give corporation greater freedom to monetise its content
+
+## UK labour market’s gradual weakening justifies extended BoE hold
+Slowing pay growth in private sector will reassure rate-setters but data provides no reason to rush into a cut
+
+## UK private sector wage growth slows to lowest rate in five years
+Slowdown will reinforce case for Bank of England to leave rates on hold
+
+## Octopus founder says climate policies must address energy costs
+Remarks come ahead of pivotal English by-election
+
+## Kevin Warsh’s debut
+Hawkish overtones, dovish undertones
+
+## Intertek board agrees £10bn takeover by EQT
+Swedish private equity group is investing alongside Emirati sovereign investors ADIA and Mubadala
+
+## Tesco’s UK sales growth slows despite rise in market share
+Britain’s biggest supermarket chain maintains cautious outlook amid conflict in Middle East
+
+## AI boosts Samsung but batters IT jobs
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
+## Toymaker Tonies strikes Bluey deal as it aims to double revenue
+German group signs agreement to bring Australian cartoon to its audio speaker Toniebox
 
 ## FirstFT: Warsh ushers in new Fed era
 Also in today’s newsletter: Makerfield by-election and US-Iran deal
@@ -9,53 +42,47 @@ Also in today’s newsletter: Makerfield by-election and US-Iran deal
 ## The biggest PE loss since 2008
 Thoma Bravo will lose all of the $5bn it invested in Medallia as it hands the software group to lenders
 
-## Wall Street pushes US regulators to further ease Basel capital rules
-Banks press for further gains even after winning their largest lobbying victory since the financial crisis
+## Sensex today | Stock Market Live: Sensex tops 77,280; Nifty climbs above 24,130 in evening trade as softer crude oil boosts sentiment
+Sensex, Nifty, Share Prices LIVE: Indian equities traded steady at noon with Sensex and Nifty posting marginal gains as investors weighed mixed global cues, including a dovish Fed stance and softer crude prices after a US-Iran deal, while foreign and domestic buying supported sentiment.
 
-## Young Moroccan star shows the psychological strength of today’s elite players
-Leading footballers now excel with their heads as well as their feet, as 18-year-old Ayyoub Bouaddi displayed against Brazil
+## OFCD case: SC agrees to hear SEBI’s plea against SAT relief to SICCL managers
+A bench of Chief Justice Surya Kant and Justice V Mohana tagged the matter with the pending petitions on the issue and listed it in the month of July.
 
-## Makerfield voters seek ‘change’ as Burnham anticipates by-election win
-Allies of Greater Manchester mayor ‘quietly confident’ of victory that would set up leadership challenge to Starmer
+## Delhi HC refuses to waive 30-day notice period under Special Marriage Act, says courts cannot override statutory mandate
+The petitioners had approached the Court seeking a direction to the Marriage Officer, Kalkaji, to exempt or relax the 30-day notice period and solemnise their marriage before June 10, 2026
 
-## How could Thames Water be nationalised?
-Intervention by UK environment secretary has raised prospect of utility entering government’s special administration regime
-
-## BMW sounds the alarm as China squeezes Europe’s carmakers
-Chinese manufacturers have grown their market share in Europe while gaining share at home
-
-## JPMorgan Chase cuts off Anthropic access for its Hong Kong staff
-Bank follows Goldman Sachs in preventing use of Claude in Asian financial hub
-
-## Ships divert in hunt for fuel after Gulf conflict hits supplies
-Bosses warn of continued disruption despite Iran-US deal to end war and open the strait
-
-## What is the point of Berkshire Hathaway?
-It can be bold — or become an index fund
-
-## HFCL shares soar after securing ₹2,666 cr BharatNet Phase-III contract from RVNL
-The stock rose as much as 4.6 per cent to ₹198.90 on the NSE after the company announced that it had secured a major contract from Rail Vikas Nigam Ltd (RVNL) for the BharatNet Phase-III project.
-
-## Pune-based BioPrime improves crop nutrition by promoting efficient fertilizer use, raising nutrient uptake
+## China’s foreign minister to attend June 22-23 BRICS meeting in India
 
 
-## FSSAI directs food business operators to use only corrosion-free knives for food preparation
-The regulator advises businesses to use only food-grade, corrosion-resistant cutting equipment; warns of action for violations.
+## Kerala Budget in focus as UDF faces tough fiscal choices
+The revised Budget comes nearly two weeks after the government tabled a white paper on Kerala’s finances, painting a grim picture of mounting debt, unpaid liabilities and shrinking fiscal space
 
-## US Fed's hawkish tone shuts door on India bond rally for now
-The yield on the benchmark 6.94% 2036 bond rose to 6.8639% by 10:20 ‌a.m. IST from its previous close of 6.8626%.
+## Global energy transition readiness dips, India among top gainers: WEF
+The proportion of low-carbon jobs increased by 24 per cent in India in 2024, as renewable energy jobs reached 1.3 million (up 25 per cent over 2023), with hydropower being the largest employment source
 
-## Sensex today | Stock Market Live: Sensex, Nifty trade flat as oil price relief offsets Fed rate concerns
-Sensex, Nifty, Share Prices LIVE: Indian markets trade flat as investors balanced lower crude oil prices and US Federal Reserve signals. While softer oil prices supported sentiment by easing inflation concerns, expectations of future US rate hikes kept risk appetite cautious.
+## Brigade Enterprises’ Perumbakkam housing project loses environmental clearance over wetland violation
+The move underscores stricter enforcement of environmental safeguards, particularly in ecologically sensitive wetland zones
 
-## Sensex, Nifty cautious despite softer crude; IT shares slide after hawkish US Fed commentary
-Nifty IT index declines over 1.5%
+## Equitas SFB hikes USD FCNR (B) deposit rate to 7.13% pa for select tenure
+The interest rate increase follows Reserve Bank of India’s special FCNR (B) swap facility, aimed at encouraging higher NRI fund inflows into India
 
-## Crude oil futures decline following reports of digitally signed US-Iran interim peace deal
-At 10.03 am on Thursday, August Brent oil futures were at $77.94, down by 2.02 per cent, and July crude oil futures on WTI (West Texas Intermediate) were at $75, down by 2.33 per cent
+## India eyes $2.5 billion loans from World Bank, ADB as subsidy costs rise
+India is in discussions with the World Bank and Asian Development Bank for approximately $2.5 billion in loans to support urban infrastructure and job creation. This move aims to bolster capital for government spending, which has been impacted by rising oil prices and increased subsidy expenditures 
 
-## Nifty Prediction Today – June 18, 2026: Nifty futures: Renewed positive momentum
-Nifty futures (Jun) is likely to touch 24,300 before the end of this week
+## Iran-US peace deal signed: 62 million barrels set to leave Hormuz as Asia braces for oil glut
+The Strait of Hormuz is set to reopen after a US-Iran deal, potentially flooding Asian markets with millions of barrels of crude. Refiners, already well-supplied and reducing processing, now face worries of oversupply. This shift from earlier fears of shortages is reflected in falling oil prices and
+
+## Trump sanctions waiver on Russian crude expires: What it means for India amid US-Iran peace deal, Strait of Hormuz opening
+The US Treasury did not issue an extension on Wednesday for its sanctions waiver covering Russian seaborne oil, which expired at midnight. However, neither President Donald Trump nor senior administration officials clarified whether the lapse would result in the sanctions being reinstated.
+
+## Gold, silver price prediction: Gold, silver prices are headed this way in the near-term - check outlook on June 18, 2026
+Gold and silver price prediction today: Gold prices are consolidating and silver prices are exhibiting a sideways to bullish bias, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+
+## India-US trade deal: PM Modi, Trump push for ‘balanced, commercially meaningful’ pact at earliest
+Prime Minister Modi and President Trump met at the G7 Summit, directing officials to finalize a balanced and commercially meaningful trade agreement. Discussions also covered progress under the India-US COMPACT initiative, spanning defense, technology, energy, and trade. Both leaders reaffirmed thei
+
+## Qatar LNG tanker sails for Hormuz as Middle East peace returns
+An LNG tanker, the Mraikh, is approaching the Strait of Hormuz after loading cargo in Qatar, signaling a potential increase in shipping activity following a US-Iran interim peace agreement. This development could ease Pakistan's gas shortage and restore global LNG supplies, which were restricted by 
 
 ## Rupee slips again: Currency tumbles 21 paise to 94.66 against US dollar
 The Indian Rupee weakened against the US dollar on Thursday, influenced by the US Federal Reserve's hawkish stance and a strengthening dollar index. Asian currencies also saw declines, impacting the rupee. Meanwhile, positive sentiment emerged from reports of a US-Iran memorandum of understanding an
@@ -63,71 +90,62 @@ The Indian Rupee weakened against the US dollar on Thursday, influenced by the U
 ## Top stocks to buy today: Stock recommendations for June 18, 2026 - check list
 Top stock market recommendations: Bharat Electronics Ltd (BEL), Canara Bank, and TVS Motor Company - these are the top 3 stocks that Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has recommended.
 
-## Stock market today: BSE Sensex, Nifty50 open flat as US-Iran sign MoU
+## ‘Inspiration, not means, drives creation’: Meet the first non-Indian curator of Kochi Biennale
+Kedar Attia is a French-Algerian artist whose works tend to investigate the impact of western modernism and colonialism on non-Western cultures.
+
+## Former Rajya Sabha MP duped of ₹7.80 crore in cyber fraud: Police
+Initial probe has revealed that the cyber fraudsters hacked into the WhatsApp account, impersonated Naresh Gujral, and tricked his employee into transferring the money
+
+## BJP rattled by Akhilesh Yadav's rising popularity, says Samajwadi MP amid split buzz
+Awadhesh Prasad's remarks came in response to Keshav Prasad Maurya's claim that several SP MPs were in touch with the BJP ahead of the 2027 UP Assembly polls.
+
+## 'Serious blow to foreign policy': Congress slams PM Modi over Pakistan's role in US-Iran deal
+Congress leader Jairam Ramesh said that Pakistan, which was once isolated globally by India during UPA govt, is now mediating peace deals.
+
+## After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit
+If the White House does announce a visit to India, it would be Trump's first since the start of his second term in 2025.
+
+## Terms of Trade: The Four Horsemen of an imminent international winter
+Countries are not companies. But national fortunes cannot be built unless leaders have a vision of what the ‘music’ might do years and decades from now
+
+## 6 Shiv Sena (UBT) MPs skip meet, more clarity after confusion over rebel number
+The rebel Shiv Sena (Uddhav Balasaheb Thackeray) MPs need a minimum of six to form a separate group to avoid disqualification under the anti-defection law
+
+## RSS chief Mohan Bhagwat says Maharana Pratap defeated Akbar during Battle of Haldighati. What does history say?
+The Battle of Haldighati took place in 1576, between the army of Maharana Pratap and Mughal troops led by Raja Man Singh of Amber on behalf of Emperor Akbar.
+
+## 17-year-old NEET aspirant ‘dies by suicide’ in Ahmedabad 3 days ahead of retest
 
 
-## Crude prices fall as US-Iran deal reopens Hormuz after over 100 days
-Oil prices dropped significantly as the US and Iran reached an interim agreement to end the war, reopen the Strait of Hormuz, and lift sanctions on Tehran's oil. This deal, aiming to restore pre-war conditions, could resolve a major energy supply disruption and potentially lead to a global oil surpl
-
-## Canada’s CPP to invest Rs 7k cr in Hyderabad-based CtrlS
-Canadian Pension Plan Investment Board is injecting up to ₹7,000 crore into CtrlS Datacenters, acquiring an 8.2% stake for ₹4,000 crore. This significant investment fuels India's booming digital infrastructure, driven by escalating demand for cloud, hyperscale, and AI-ready data centers. A joint ven
-
-## Trade deal with UK set to kick in from July 15
-India and the UK's free trade agreement, along with a social security deal, will commence on July 15. This pact eliminates tariffs on 99% of Indian exports, benefiting sectors like textiles and engineering. Discussions resolved steel trade concerns, ensuring balanced market access for exporters. Ind
-
-## US Federal Reserve policy meet: Kevin Warsh-led FOMC keeps interest rates unchanged; projects hike by year-end, raises inflation forecast
-Markets had broadly expected the US Federal Reserve to keep its benchmark interest rate unchanged, extending the pause that has been in place throughout the year.
-
-## India-UK FTA clears steel hurdle; 85% of Indian exports shielded from British curbs
-India has secured protection for 85% of its steel exports to the UK under the upcoming free trade agreement, with the remaining shipments covered by country-specific quotas and other access schemes. This agreement resolves a key sticking point ahead of the Comprehensive Economic and Trade Agreement'
-
-## ‘It’s a rough profession': Trump responds to question over Indian sailors' death in US attack
-Donald Trump said: “This has been happening throughout time, but we work together. We love all of those people. They’re great people.”
-
-## Why Uddhav Thackeray’s latest challenge may be his most difficult yet
-Analysts say Uddhav Thackeray may find it tough to cope with the latest crisis which should be seen in the context of fast-mutating character of Indian politics
-
-## Shiv Sena-UBT crisis LIVE: Key meet at 11 today in Delhi after party alleges ₹50 crore offers to switch
-Shiv Sena-UBT crisis LIVE: A key meeting of the Shiv Sena (UBT) is set to take place in New Delhi today to determine whether dissident MPs' bid to form a separate group will succeed. This comes after MP Sanjay Raut alleged that Sena-UBT MPs were being offered ₹50 crore to leave the party.
-
-## Justice depends on human wisdom, not AI
-The justice system depends upon the assumption that officers of the court have undergone rigorous legal training and scrutiny.
-
-## ‘Amrit Peedhi, creators of opportunities’: Developed India rests on the youth’s well-being
-With nearly 65% of its population below the age of 35, India possesses a demographic advantage unparalleled among major economies.
-
-## Women riders in state-run ‘ordinary’ buses up after scheme roll-out in Kerala
-Women now make up 64% of ridership on KSRTC's ordinary buses after the Priyadarshini free ride scheme, up from 50% before its launch.
-
-## 12 final-yr BDS students booked for ragging in Osmania University
-Hyderabad police registered cases against 12 final-year BDS students for ragging juniors. They've been suspended for six months as an investigation continues.
-
-## Govt schools on par with private schools in quality education: Telangana CM
-Telangana CM Revanth Reddy launched Public Schools to improve public education quality, dispel myths, and provide modern facilities for all students.
-
-## Same account number for 2 customers, postal department directed to pay Rs 20,000 relief
+## Ahead of NEET UG re-test, NTA shares advisory: ‘Remain calm, avoid sharing unverified information’
 
 
-## G7 Summit 2026: Trump’s awkward moments during summit photos go viral
+## NSE files for IPO: Could the exchange’s public offering become the largest in India’s history?
 
 
-## Zeenat Aman reveals her Hindu mom named her Laliteshwari, parents had an interfaith marriage
+## Capital Factory founder Joshua Baer killed in Texas private jet crash
 
 
-## ‘Recycled suspicion’: Why court declared arrest of Gameskraft directors illegal
+## UPSC Mains Answer Practice — GS 1: India’s Decolonisation, Nation-building after Independence, and the Harappan ‘Dancing Girl’ Figurine (Week 159)
 
 
-## MHT CET PCB Results 2026: Second attempt scorecards out at cetcell.mahacet.org.
+## International Yoga Day 2026 Date, Theme, History, Importance, Celebrations, And More | When Is Yoga Day?
 
 
-## Father’s Day 2026 Date: When is Father’s Day being celebrated this year?
+## Amazon fined Rs 13,300 for failing to deliver smartwatch, refund amount to senior citizen
 
 
-## Man awarded Rs 50,000, replacement after washing machine malfunctions in 3 months
+## Alan Walker: ‘Don’t think Faded would have the same impact if released today’
 
 
-## Khushbu Sundar’s daughter Anandita shuts down trolls, Ozempic rumours: ‘Took me 7 years’
+## Hong Kong sets August debut for long-awaited offshore yuan bond futures
+Hong Kong is aiming for an August launch date to open the trading of Chinese treasury futures, a long-anticipated move as Beijing attempts to strengthen the city’s status as a global hub for the offshore yuan and internationalise its currency. Trading for futures contracts on the five-year governmen
 
+## China touts new finance tools to fend off sanctions
+Chinese officials outlined plans for new anti-sanctions measures and unveiled initiatives to boost international use of the yuan to policymakers and bankers gathered for the nation’s most important financial conference of the year. Vice-Premier He Lifeng highlighted a draft financial law he said wou
+
+## Lenovo targets US$2 billion bond to repurchase debt amid robust AI infrastructure growth
+Lenovo Group, the world’s largest personal-computer (PC) maker, plans to raise US$2 billion through a convertible-bond offering, with the proceeds earmarked to repurchase existing debt and buy back shares. The Hong Kong-listed company’s proposed zero-coupon convertible bonds will mature in 2033 and 
 
 ## Hong Kong graduates prefer careers in finance, survey finds
 Hong Kong graduates believe the city’s finance industry is its most attractive and stable sector, making them more optimistic about career opportunities than their global peers, according to a study by the CFA Institute, which trains investment managers. The US-based institute’s “2026 Graduate Outlo
@@ -138,20 +156,14 @@ Global investors remain committed to Chinese technology companies despite concer
 ## Can Pop Mart sustain the Labubu juggernaut as China sales cool?
 Chinese toymaker Pop Mart recorded its first year-on-year decline in domestic online sales since 2024 in May, raising fresh questions about the sustainability of demand for its intellectual property (IP) portfolio, including its blockbuster Labubu character. Domestic online sales fell 5 per cent fro
 
-## HKMA keeps rate unchanged as new Fed chair holds steady, but a rise is expected this year
-Hong Kong’s Monetary Authority (HKMA) on Thursday left its base rate unchanged after the US Federal Reserve held interest rates steady at its first policy meeting under new chairman Kevin Warsh, but US policymakers expect an interest rate rise later this year due to worries of inflationary pressure.
+## Hang Seng Index hits lowest level in a year on expectations of higher interest rates
+The benchmark Hang Seng Index fell below 24,000 on Thursday morning amid growing market expectations of an interest-rate increase later this year. The index dropped 1.7 per cent to 23,900.01 in morning trading, its lowest level in a year. It ended the day down 1.6 per cent at HK$23,924.81. The decli
 
 ## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
 Chinese authorities introduced draft regulations on Wednesday to crack down on the misuse of subsidies by food-delivery platforms, as Beijing seeks to rein in the sector’s intense competition. The proposed rules, open for public comment until July 17, identify several practices that would be banned,
 
-## China accelerates digital yuan push as 26 banks join new cross-border platform
-China has onboarded a first batch of 26 domestic and overseas financial institutions to its integrated cross-border digital yuan payment platform, marking a further step in building out the digital currency’s payment infrastructure amid Beijing’s push to scale up adoption of the digital yuan, also k
-
-## Why deeper China ties matter as Europe seeks to power its AI ambitions beyond America
-Europe should welcome more Chinese investment and deepen industrial partnerships with China as it seeks to reduce its dependence on US technology and finance the industries of the future, according to one of the architects of the euro. Christian Noyer, a founding vice-president of the European Centr
-
-## HSBC China pioneers cross-border fund services for mainland investors
-HSBC China has become the first foreign bank to provide custodian services for a cross-border fund product that can help mainland clients invest in foreign markets, the lender said. Despite the recent crackdown on illegal cross-border trading, analysts believed that the move was a sign that Beijing 
+## Ireland Is Becoming a French Military Protectorate
+Literally defenseless, Dublin is outsourcing security to Paris.
 
 ## Multilateralism Is Dead. Long Live Plurilateralism.
 Coalitions of the willing are creating a “race to the top” on climate change, AI, and critical minerals.
@@ -174,8 +186,11 @@ A military name change signals a broader strategic and diplomatic shift.
 ## Can Ships in the Gulf Take Trump at His Word?
 Amid the uncertainty of Trump’s deal, how will ships decide when to leave the Persian Gulf?
 
-## Iran’s Victory Is More Pyrrhic Than It Looks
-The Islamic Republic has survived. Now comes the hard part.
+## Philippine Senate Votes to Remove Duterte Ally From Chamber’s Presidency
+The elevation of Senator Sherwin Gatchalian comes just weeks before the chamber is set to begin the impeachment trial of Vice President Sara Duterte.
+
+## China Is Indispensable, But Not Dominant
+China has drawn the great powers into its orbit without controlling their strategic choices.
 
 ## Asia Is Sprinting on AI. Europe Is Still Tying Its Laces.
 China, South Korea, Japan, India, and Singapore are all setting ambitious AI goals while the EU falls farther behind.
@@ -195,11 +210,11 @@ The first hearings featured a verbal argument between Tashiev and a witness and 
 ## Chinese Surveillance Cameras Have Become a Huge Problem for India
 The Ghaziabad CCTV espionage case is the logical outcome of a decade of unregulated Chinese surveillance hardware infiltrating India’s most sensitive locations.
 
-## Lee Jae-myung Caps First European Tour with G7 Appearance
-South Korean President Lee Jae-myung made Korean Peninsula peace a central theme of his first trip to Europe.
+## Cogs of War Turns One
+A mentor of mine, a superb scholar, once told me that good defense analysis starts with a trade-off. The classic example is combined arms doctrine, which is the foundation of modern warfare. Infantry, armor, artillery, and aviation work together to offset each other’s weaknesses. Each brings a combi
 
-## 6 Months Into Kazakhstan’s Year of AI
-What have the national platform, AI law, and human capital programs delivered?
+## Good Medicine Is Combat Power: Clinical Innovation and the Lessons of the Russo-Ukrainian War
+War is a brutal driver of medical innovation. Russia’s full-scale invasion of Ukraine has forced clinicians and commanders alike to confront a hard truth: Survival depends not only on tactics and technology, but on the ability to deliver advanced care under fire, evacuate and resuscitate the wounded
 
 ## Macron’s Nuclear Gamble: Building a European Deterrent Faster Than French Politics Can Tear Down
 In early March, French President Emmanuel Macron stood at a windswept submarine base on the Breton coast and quietly buried four decades of French nuclear orthodoxy. The arsenal would grow. The numbers would be hidden. And for the first time, nuclear weapons that France built to defend Paris might o
@@ -218,12 +233,6 @@ America’s defense industrial base cannot build the Navy out of the threat it f
 
 ## South Korea Could Build Nuclear Submarines, But It Shouldn’t
 In late May 2026, South Korean Defense Minister Ahn Gyu-back unveiled a roadmap to achieving one of Seoul’s top military acquisition goals: nuclear-powered submarines. This roadmap is heading in the wrong direction.During last month’s inaugural meeting of the Future Defense Strategy Committee, South
-
-## The Gulf Arab States Need a Shield Built for Limited Trust
-Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re
-
-## Strike, Counterstrike, Repeat
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Hostilities have increased notably in the last few days, effectively ending the U.S.-Iranian truce that had
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Despair and delight in England-Croatia grudge match
-Emotions seesawed across London and Zagreb as England met Croatia in a thrilling World Cup grudge match.
+## World Cup 2026: Full group schedule and top second-round matches to watch
+Remaining group schedule, teams, as well as the best second-round group fixtures at the tournament in North America.
 
-## Activist praises Algeria’s support for Gaza orphans following World Cup def
-Activist praises Algeria’s support for Gaza orphans following World Cup defeat
+## Why do AI models struggle with online hate speech detection?
+As the UN marks International Day for Countering Hate Speech, Al Jazeera examines how AI handles it - and falls short.
 
-## US must ‘force’ Israel to change its policy on Lebanon
-Rami Khouri says real policy change will only happen when the US forces Israel’s hand in Lebanon.
+## Is the G7 hearing the Global South?
+The G7, BRICS and emerging powers are competing for influence in a changing global order.
 
-## Oil prices fall, stocks rally as US, Iran sign framework to end war
-Brent crude drops as much as 1.6 percent, while key stock indices in Japan, South Korea and Taiwan climb.
+## Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war
+Russia's Defence Ministry says air defences shot down 555 Ukrainian drones over several regions overnight.
 
-## Trump’s MoU with Iran draws backlash from some Republicans
-Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'.
+## World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more
+World Cup Day 8 featuring Mexico vs South Korea, Canada vs Qatar and the latest tournament talking points.
 
-## Netanyahu under pressure in Israel after US-Iran agreement
-Israeli Prime Minister Benjamin Netanyahu is facing mounting pressure after he was cut out of the US-Iran agreement.
+## Iran war day 111: Tehran warns US as 14-point plan takes effect
+Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.
 
-## Who benefits from Zimbabwe’s lithium boom?
-New projects and foreign-backed mines are reshaping Zimbabwe’s lithium sector, with uneven local gains.
+## How Sweden’s far right went from political pariah to powerbroker
+Once shunned by every major party, the Sweden Democrats have gone from political pariah to the heart of government.
 
-## Greta Thunberg joins Brussels protest against Israel
-Around 100 people, including Greta Thunberg and other Flotilla activists, have rallied in Brussels.
+## Luis Diaz, Colombia defeat World Cup 2026 debutants Uzbekistan
+The star winger scores a goal and sets up another, as Colombia make a winning return to the FIFA World Cup.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
@@ -297,6 +306,9 @@ India is set to decide on extending customs duty relief for critical raw materia
 ## India Inc CFOs : Not without AI?
 ​Most CFOs are currently using AI for basic tasks such as invoice reading, document matching and accuracy checks. But the ambition is growing. Many are now exploring agentic AI, which goes beyond generating content and can execute workflows. Instead of merely reading an invoice, an AI agent could ve
 
+## RBI removes rate caps on select NRE, FCNR(B) deposits to attract foreign currency inflows
+The Reserve Bank of India is easing rules for foreign currency deposits. Interest rate caps on FCNR(B) deposits for three to five years are temporarily lifted. Restrictions on interest rates for NRE deposits of three years and above are also removed. These changes aim to attract more foreign currenc
+
 ## RBI allows banks to offer higher interest on NRI deposits to draw more foreign funds
 The Reserve Bank of India (RBI) on Wednesday temporarily eased interest rate curbs on certain non-resident deposits to enable banks to offer higher returns on fresh FCNR(B) and NRE deposits with the aim of attracting more overseas funds to prop up the country's foreign exchange reserves and strength
 
@@ -317,7 +329,4 @@ The Centre's disinvestment receipts are set to cross Rs 15,000 crore in the Apri
 
 ## India, Canada agree to conclude free trade pact talks by year-end
 India and Canada are set to finalize a free trade agreement by the end of this year. Prime Minister Narendra Modi and his Canadian counterpart Mark Carney met to strengthen bilateral ties. Discussions focused on enhancing cooperation in defense, trade, and energy sectors. Both nations aim to build a
-
-## Sebi Plans Buyback Via SEs Again, Easier MF Borrowing Rules
-merchant banker role may be cut
 
