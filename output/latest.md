@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## How Hizbollah made its comeback
-Lebanese militant group has been buoyed by fresh support from Tehran but its future depends on the US-Iran peace deal
+## Saudi wealth fund warns European regulations ‘hurting’ foreign investors
+Comments from Public Investment Fund governor come amid concerns about EU’s foreign subsidies regulation
 
-## More than a million landlords unprepared for tougher energy efficiency rules
-Buy-to-let lender to offer discounted loans to help borrowers fund improvements before rules tighten in 2030
+## Bank of England holds rates steady and waits for more information
+A majority of the committee is satisfied with waiting and watching before considering a rate rise
 
-## Indonesia and Philippines raise rates to combat energy shock
-South-east Asian countries seek to shore up currencies that have been among region’s worst-performing this year
+## Bank of England holds interest rates at 3.75%
+Deal between US and Iran has pushed oil prices down and eased inflationary risk to UK economy
 
-## BBC cuts will damage broadcaster’s crown jewels
-Government should consider direct licence fee increases or give corporation greater freedom to monetise its content
+## Hegseth unveils six-month review of US military presence in Europe
+Defence secretary announced decision as he scolded Nato allies for failing to support Washington in Iran war
 
-## UK labour market’s gradual weakening justifies extended BoE hold
-Slowing pay growth in private sector will reassure rate-setters but data provides no reason to rush into a cut
+## Andy Burnham and the search for hope in a hopeless Britain
+The alternative is despair and the uglier politics that heralds
 
-## UK private sector wage growth slows to lowest rate in five years
-Slowdown will reinforce case for Bank of England to leave rates on hold
+## Nuclear watchdog chief pitches ‘leaner’ UN in secretary-general bid
+Also in today’s newsletter: crude stocks in US Strategic Petroleum Reserve fall to lowest level since 1983
 
-## Octopus founder says climate policies must address energy costs
-Remarks come ahead of pivotal English by-election
+## Nissan in talks over more UK government help for Sunderland plant
+Any deal is likely to depend on Britain watering down its electric vehicle targets
 
-## Kevin Warsh’s debut
-Hawkish overtones, dovish undertones
+## Where next for Wes Streeting?
+Without the backing of 81 MPs, many think he might now settle for a senior role in a Burnham cabinet
 
-## Intertek board agrees £10bn takeover by EQT
-Swedish private equity group is investing alongside Emirati sovereign investors ADIA and Mubadala
+## Accenture shares set to fall to lowest since 2018 as AI threat mounts
+IT consultancy hit by concerns technology will hurt its business model
 
-## Tesco’s UK sales growth slows despite rise in market share
-Britain’s biggest supermarket chain maintains cautious outlook amid conflict in Middle East
-
-## AI boosts Samsung but batters IT jobs
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
-
-## Toymaker Tonies strikes Bluey deal as it aims to double revenue
-German group signs agreement to bring Australian cartoon to its audio speaker Toniebox
+## How AI is ‘senior-ising’ junior roles
+Changing workflows mean employers are now asking new recruits to be managers and decision makers
 
 ## FirstFT: Warsh ushers in new Fed era
-Also in today’s newsletter: Makerfield by-election and US-Iran deal
+Also in today’s newsletter: US and Iran sign interim peace deal and JPMorgan bans workers in Hong Kong from using Claude
 
-## The biggest PE loss since 2008
-Thoma Bravo will lose all of the $5bn it invested in Medallia as it hands the software group to lenders
+## Better internet, more pay: will Hormuz crisis improve life at sea?
+Months stuck on stranded vessels have exposed mental and physical strains on shipping crews
 
-## Sensex today | Stock Market Live: Sensex tops 77,280; Nifty climbs above 24,130 in evening trade as softer crude oil boosts sentiment
-Sensex, Nifty, Share Prices LIVE: Indian equities traded steady at noon with Sensex and Nifty posting marginal gains as investors weighed mixed global cues, including a dovish Fed stance and softer crude prices after a US-Iran deal, while foreign and domestic buying supported sentiment.
+## IIFL Capital Services launches next-gen algorithmic trading platform
+The platform offers access to more than 100 ready-made algorithmic trading strategies, making sophisticated trading tools accessible to a wider investor base
 
-## OFCD case: SC agrees to hear SEBI’s plea against SAT relief to SICCL managers
-A bench of Chief Justice Surya Kant and Justice V Mohana tagged the matter with the pending petitions on the issue and listed it in the month of July.
-
-## Delhi HC refuses to waive 30-day notice period under Special Marriage Act, says courts cannot override statutory mandate
-The petitioners had approached the Court seeking a direction to the Marriage Officer, Kalkaji, to exempt or relax the 30-day notice period and solemnise their marriage before June 10, 2026
-
-## China’s foreign minister to attend June 22-23 BRICS meeting in India
+## The India we dream of cannot be built by policies alone; it must be built through participation” says Sandhya Bawankule
 
 
-## Kerala Budget in focus as UDF faces tough fiscal choices
-The revised Budget comes nearly two weeks after the government tabled a white paper on Kerala’s finances, painting a grim picture of mounting debt, unpaid liabilities and shrinking fiscal space
+## MAXHUB Showcases AI-Powered Collaboration and Display Solutions at InfoComm 2026
 
-## Global energy transition readiness dips, India among top gainers: WEF
-The proportion of low-carbon jobs increased by 24 per cent in India in 2024, as renewable energy jobs reached 1.3 million (up 25 per cent over 2023), with hydropower being the largest employment source
 
-## Brigade Enterprises’ Perumbakkam housing project loses environmental clearance over wetland violation
-The move underscores stricter enforcement of environmental safeguards, particularly in ecologically sensitive wetland zones
+## Asia-Pacific Telecom Leaders Gather in Singapore for the Twimbit Telecom Summit & Awards 2026
 
-## Equitas SFB hikes USD FCNR (B) deposit rate to 7.13% pa for select tenure
-The interest rate increase follows Reserve Bank of India’s special FCNR (B) swap facility, aimed at encouraging higher NRI fund inflows into India
+
+## HDFC Parivartan and ISAP Mark Successful Completion of P0748, Benefiting 3,000 Farmers Across J&K and Ladakh
+Anantnag, Jammu and Kashmir, India – Business Wire India
+
+## Synvo AI Raises US$1 Million to Give Enterprise AI a Memory
+
+
+## Aptiv Expands Chennai Technical Center, Accelerating India for India Momentum
+Chennai, Tamil Nadu, India – Business Wire India
+
+## Carro enters Australia with CarPlace acquisition to bring better, transparent car buying and selling experience to Australians
+
+
+## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
+Indian equity benchmarks Sensex and Nifty extended their winning streak to a fifth consecutive session on Thursday, driven by falling crude oil prices and optimism surrounding a US-Iran peace deal. The markets closed higher, with gains seen across various sectors, despite some caution due to US Fede
+
+## NSE warns of regulatory, tech and AI risks as IPO papers reveal reliance on derivatives business
+National Stock Exchange flagged significant risks in its IPO filing, including regulatory changes, technology failures, and cyberattacks. Heavy reliance on derivatives trading for revenue, contributing over 78% of operating income, makes it vulnerable to Sebi's tightening measures. AI also presents 
+
+## NSE mega IPO: All you need to know about the Rs 30,000 crore offering
+The National Stock Exchange of India has filed its draft red herring prospectus for a massive IPO, aiming to raise approximately Rs 30,000 crore. This offering is set to become India's largest corporate market debut, surpassing the Rs 27,859 crore IPO of Hyundai Motor India.
+
+## India-UK social security pact to slash costs for firms; up to 95% of Indian professionals to gain
+Thousands of Indian professionals in Britain will soon stop paying dual social security contributions, a major win from the new India-UK pact. This agreement, effective July 15, exempts temporarily deputed employees from host country contributions for up to five years, significantly easing costs for
 
 ## India eyes $2.5 billion loans from World Bank, ADB as subsidy costs rise
 India is in discussions with the World Bank and Asian Development Bank for approximately $2.5 billion in loans to support urban infrastructure and job creation. This move aims to bolster capital for government spending, which has been impacted by rising oil prices and increased subsidy expenditures 
@@ -78,65 +84,62 @@ The US Treasury did not issue an extension on Wednesday for its sanctions waiver
 ## Gold, silver price prediction: Gold, silver prices are headed this way in the near-term - check outlook on June 18, 2026
 Gold and silver price prediction today: Gold prices are consolidating and silver prices are exhibiting a sideways to bullish bias, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
 
-## India-US trade deal: PM Modi, Trump push for ‘balanced, commercially meaningful’ pact at earliest
-Prime Minister Modi and President Trump met at the G7 Summit, directing officials to finalize a balanced and commercially meaningful trade agreement. Discussions also covered progress under the India-US COMPACT initiative, spanning defense, technology, energy, and trade. Both leaders reaffirmed thei
+## Railways asks mosque near Kashi station to vacate for expansion; body calls notice ‘illegal’
+Railway officials affixed a notice at Ganj Shaheeda mosque demanding it be vacated by June 20 for station expansion.
 
-## Qatar LNG tanker sails for Hormuz as Middle East peace returns
-An LNG tanker, the Mraikh, is approaching the Strait of Hormuz after loading cargo in Qatar, signaling a potential increase in shipping activity following a US-Iran interim peace agreement. This development could ease Pakistan's gas shortage and restore global LNG supplies, which were restricted by 
+## UBT Sena-Congress merger 'fear', Y-plus-like cover to rebels: Dissent deepens in Maharashtra
+The rebellion became more apparent after six of the nine Shiv Sena (UBT) Lok Sabha MPs skipped a parliamentary party meeting in New Delhi on Thursday.
 
-## Rupee slips again: Currency tumbles 21 paise to 94.66 against US dollar
-The Indian Rupee weakened against the US dollar on Thursday, influenced by the US Federal Reserve's hawkish stance and a strengthening dollar index. Asian currencies also saw declines, impacting the rupee. Meanwhile, positive sentiment emerged from reports of a US-Iran memorandum of understanding an
+## 'Curtailing rights of 150 million Telegram users as one set taking NEET retest?': Delhi High Court
+The SG also referred to a government report that described Telegram as a preferred platform for terrorist activities.
 
-## Top stocks to buy today: Stock recommendations for June 18, 2026 - check list
-Top stock market recommendations: Bharat Electronics Ltd (BEL), Canara Bank, and TVS Motor Company - these are the top 3 stocks that Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management has recommended.
+## The story beyond US strikes on ships in West Asia: Sanctions, shadow fleets & flags of convenience
+Three ships struck by American military off Oman flew flags of tiny, distant nations. Two of them were sanctioned by the US
 
-## ‘Inspiration, not means, drives creation’: Meet the first non-Indian curator of Kochi Biennale
-Kedar Attia is a French-Algerian artist whose works tend to investigate the impact of western modernism and colonialism on non-Western cultures.
+## India, Russia, China: Why so many countries have banned or suspended Telegram
+Governments across the globe have acted against popular messaging app Telegram, the latest being India.
 
-## Former Rajya Sabha MP duped of ₹7.80 crore in cyber fraud: Police
-Initial probe has revealed that the cyber fraudsters hacked into the WhatsApp account, impersonated Naresh Gujral, and tricked his employee into transferring the money
+## Police question ex-Bengal minister Aroop Biswas over Messi tour fiasco
+Most fans could not see Argentine footballer Messi despite purchasing tickets priced between ₹4,500 and ₹18,000
 
-## BJP rattled by Akhilesh Yadav's rising popularity, says Samajwadi MP amid split buzz
-Awadhesh Prasad's remarks came in response to Keshav Prasad Maurya's claim that several SP MPs were in touch with the BJP ahead of the 2027 UP Assembly polls.
+## Govt explains why only Telegram is a problem: Multiple bots, 'most preferred' for terror acts, editing feature
+SG said Telegram's bot infrastructure allows information to be disseminated in bulk, enabling creation of sophisticated networks with minimal human oversight
 
-## 'Serious blow to foreign policy': Congress slams PM Modi over Pakistan's role in US-Iran deal
-Congress leader Jairam Ramesh said that Pakistan, which was once isolated globally by India during UPA govt, is now mediating peace deals.
+## Extreme heat, rainfall, glacier loss impacted Asia in 2025: WMO report
+The annual mean surface air temperature over Asian land areas in 2025 ranked between the second and fourth warmest on record
 
-## After 2025 QUAD snub and recent thaw in ties, Trump mulls India visit
-If the White House does announce a visit to India, it would be Trump's first since the start of his second term in 2025.
-
-## Terms of Trade: The Four Horsemen of an imminent international winter
-Countries are not companies. But national fortunes cannot be built unless leaders have a vision of what the ‘music’ might do years and decades from now
-
-## 6 Shiv Sena (UBT) MPs skip meet, more clarity after confusion over rebel number
-The rebel Shiv Sena (Uddhav Balasaheb Thackeray) MPs need a minimum of six to form a separate group to avoid disqualification under the anti-defection law
-
-## RSS chief Mohan Bhagwat says Maharana Pratap defeated Akbar during Battle of Haldighati. What does history say?
-The Battle of Haldighati took place in 1576, between the army of Maharana Pratap and Mughal troops led by Raja Man Singh of Amber on behalf of Emperor Akbar.
-
-## 17-year-old NEET aspirant ‘dies by suicide’ in Ahmedabad 3 days ahead of retest
+## Meta bets on India as AI infra hub: ‘It takes a global network to enable a global network’
 
 
-## Ahead of NEET UG re-test, NTA shares advisory: ‘Remain calm, avoid sharing unverified information’
+## Bihar BEd CET 2026 Result: Result to be out on June 19 at biharcetbed-brabu.in
 
 
-## NSE files for IPO: Could the exchange’s public offering become the largest in India’s history?
+## Rejected by college theatre group, Arvind Swamy quit stardom to set up Rs 3300 cr empire
 
 
-## Capital Factory founder Joshua Baer killed in Texas private jet crash
+## Trump’s Iran deal leaves Netanyahu isolated at home and abroad
 
 
-## UPSC Mains Answer Practice — GS 1: India’s Decolonisation, Nation-building after Independence, and the Harappan ‘Dancing Girl’ Figurine (Week 159)
+## Institute ordered to pay student Rs 60,000 for using his photo, claiming ‘placement success’
 
 
-## International Yoga Day 2026 Date, Theme, History, Importance, Celebrations, And More | When Is Yoga Day?
+## Scientists discover world’s largest whale graveyard deep beneath the Indian Ocean
 
 
-## Amazon fined Rs 13,300 for failing to deliver smartwatch, refund amount to senior citizen
+## World’s most beautiful airports: 2 Indian airports earn recognition
 
 
-## Alan Walker: ‘Don’t think Faded would have the same impact if released today’
+## Ukraine war to Hormuz: 5 key takeaways from the G7 Summit in France
 
+
+## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
+For the past few days, Tan Zhaohui has seen a familiar sight every time she has returned to her home in the southwestern Chinese city of Chengdu: a mound of packages spilling out of the nearby delivery station. The huge piles of e-commerce parcels have almost become an annual tradition in China over
+
+## Mandopop star Richie Jen snaps up US$8.8 million Repulse Bay flat
+Taiwanese singer and actor Richie Jen Hsien-chi has joined a growing list of celebrities returning to Hong Kong’s luxury property market, purchasing a HK$68.8 million (US$8.8 million) flat in Repulse Bay as confidence gradually returns to the city’s high-end residential sector. Land Registry records
+
+## How Hong Kong is helping China’s carmakers road-test their global smart-car strategies
+At least 14 new smart vehicles – including both right- and left-hand-drive models – are making their debut at the International Automobile and Supply Chain Expo in Hong Kong this week, as Chinese carmakers use the city to gauge overseas demand and showcase their latest technologies. The launches und
 
 ## Hong Kong sets August debut for long-awaited offshore yuan bond futures
 Hong Kong is aiming for an August launch date to open the trading of Chinese treasury futures, a long-anticipated move as Beijing attempts to strengthen the city’s status as a global hub for the offshore yuan and internationalise its currency. Trading for futures contracts on the five-year governmen
@@ -152,15 +155,6 @@ Hong Kong graduates believe the city’s finance industry is its most attractive
 
 ## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
 Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
-
-## Can Pop Mart sustain the Labubu juggernaut as China sales cool?
-Chinese toymaker Pop Mart recorded its first year-on-year decline in domestic online sales since 2024 in May, raising fresh questions about the sustainability of demand for its intellectual property (IP) portfolio, including its blockbuster Labubu character. Domestic online sales fell 5 per cent fro
-
-## Hang Seng Index hits lowest level in a year on expectations of higher interest rates
-The benchmark Hang Seng Index fell below 24,000 on Thursday morning amid growing market expectations of an interest-rate increase later this year. The index dropped 1.7 per cent to 23,900.01 in morning trading, its lowest level in a year. It ended the day down 1.6 per cent at HK$23,924.81. The decli
-
-## China moves to end ‘irrational’ food-delivery subsidies and the sector’s price wars
-Chinese authorities introduced draft regulations on Wednesday to crack down on the misuse of subsidies by food-delivery platforms, as Beijing seeks to rein in the sector’s intense competition. The proposed rules, open for public comment until July 17, identify several practices that would be banned,
 
 ## Ireland Is Becoming a French Military Protectorate
 Literally defenseless, Dublin is outsourcing security to Paris.
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup 2026: Full group schedule and top second-round matches to watch
-Remaining group schedule, teams, as well as the best second-round group fixtures at the tournament in North America.
+## Iran says it will charge a ‘payment for services’ in the Strait of Hormuz
+Iran says it will charge a ‘payment for services’ in the Strait of Hormuz
 
-## Why do AI models struggle with online hate speech detection?
-As the UN marks International Day for Countering Hate Speech, Al Jazeera examines how AI handles it - and falls short.
+## World Cup 2026: Key takeaways from the opening group stage matches
+From viral fan moments to on-field controversies, as well as the biggest stars, best performances, upsets and more.
 
-## Is the G7 hearing the Global South?
-The G7, BRICS and emerging powers are competing for influence in a changing global order.
+## What the Trump-Iran agreement says about Lebanon, Hormuz and uranium
+The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.
 
-## Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war
-Russia's Defence Ministry says air defences shot down 555 Ukrainian drones over several regions overnight.
+## Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination
+Mass raids on Roma communities show how Europe is recasting racial discrimination as crime prevention and public order.
 
-## World Cup predictions: Mexico vs South Korea, Canada vs Qatar and more
-World Cup Day 8 featuring Mexico vs South Korea, Canada vs Qatar and the latest tournament talking points.
+## Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool
+Acquisition of the French defender, who is currently at the World Cup, is a key signing by new Real coach Jose Mourinho.
 
-## Iran war day 111: Tehran warns US as 14-point plan takes effect
-Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.
+## Apple CEO warns price rises ‘unavoidable’ amid AI boom
+The increase of AI data centres has made supply for key electronic device components dwindle, driving up prices.
 
-## How Sweden’s far right went from political pariah to powerbroker
-Once shunned by every major party, the Sweden Democrats have gone from political pariah to the heart of government.
+## World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz
+Several countries welcome deal, as IAEA chief says 'now the technical work starts' on Iran's nuclear programme.
 
-## Luis Diaz, Colombia defeat World Cup 2026 debutants Uzbekistan
-The star winger scores a goal and sets up another, as Colombia make a winning return to the FIFA World Cup.
+## Hegseth slams NATO allies during roundtable meeting
+Hegseth slams NATO allies during roundtable meeting
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
