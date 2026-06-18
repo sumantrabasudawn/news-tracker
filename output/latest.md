@@ -1,46 +1,46 @@
 # AION Intelligence
 
-## US-Iran accord opens way for Hormuz charges, industry warns
-Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
+## Albanian PM blames Iran for protests against Kushner’s luxury resort
+Edi Rama defends controversial $4bn project that has triggered weeks of angry demonstrations
 
-## Iran to get access to $6bn of frozen funds to buy US goods
-Money held in Qatar to be released in phases under interim deal with Trump administration
+## EU set to remove barriers to banks’ cross-border capital flows
+Draft report by European Commission aims to boost performance of lenders in bloc compared to US rivals
 
-## JD Vance lashes out at Israeli government over Iran deal criticism
-US vice-president says Israelis who find fault in agreement with Tehran need ‘to wake up and smell the reality’
+## SpaceX plots $20bn bond deal after record IPO
+AI and rocket group is tapping debt markets after raising $86bn in stock market debut
 
-## Rape convictions under review after UK detective allegedly used AI chatbot for paperwork
-Derbyshire Police investigating whether officer used software to secure desired court outcome
+## SpaceX warns EU satellite plan risks undermining connectivity in Ukraine
+Elon Musk’s group hits out at proposal by bloc to reserve part of spectrum band for European operators
 
-## CME sues US derivatives regulator over crypto contract approval
-Exchange operator says allowance of ‘perpetual’ futures contracts on digital currencies by Kalshi violates law
+## FirstFT: US-Iran deal opens way for Hormuz charges, shipping industry warns
+Also in today’s newsletter: JPMorgan cuts off Anthropic access for Hong Kong staff, and Gulf oil shock speeds up India’s EV drive
 
-## South Africa’s anti-migrant backlash
-The country would benefit more if it stuck to its pan-African principles
+## UK government to overhaul ‘outdated’ home-selling process
+Vendors will need to produce ‘sales packs’ containing information on the property’s condition prior to listing
 
-## The rock concerts breaking out in postwar Tehran
-Islamic Republic loosens dress codes and restrictions on music even as it keeps targeting dissidents
-
-## The world may not like Trump’s Gaza plan — but there is no alternative
-If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?
-
-## Gatwick airport launches legal action after ministers relax runway slot rules
-Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
+## Burnham hoping to win UK by-election as Starmer’s future hangs in the balance
+Victory for the Labour leadership hopeful would herald further upheaval in British politics
 
 ## Gulf oil shock speeds up India’s EV drive
 Carmakers report increasing sales and showroom enquiries as fuel costs rise
 
+## Gatwick airport launches legal action after ministers relax runway slot rules
+Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
+
+## US-Iran accord opens way for Hormuz charges, industry warns
+Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
+
 ## Accenture shares fall to lowest since 2017 as AI threat mounts
 IT consultancy hit by concerns technology will hurt its business model
+
+## CME sues US derivatives regulator over crypto contract approval
+Exchange operator says allowance of ‘perpetual’ futures contracts on digital currencies by Kalshi violates law
 
 ## Robinhood is well placed for the casino-ification of everything
 
 
 ## Is Tesla destined to be folded into SpaceX?
 Wall Street simmers with the idea of a merger of Elon Musk’s companies
-
-## Aldi takes the fight to Walmart and Costco
-After 50 years of slow US expansion the German discount grocer is upping the pace. Can it win over hard-pressed consumers?
 
 ## N Murali appointed Chairman of The Hindu Group Publishing Private Limited
 
@@ -66,6 +66,9 @@ SBI outlines a digital, sustainable growth strategy, pays an ₹8,800 crore divi
 ## Bajaj Auto sets June 24 record date for ₹5,633-crore buyback
 Investors looking to participate in Bajaj Auto’s ₹5,633-crore buyback have until June 23 to buy shares ahead of the June 24 record date
 
+## Social security relief extended for Indian execs in UK
+
+
 ## Coal gasification can cut import dependence, strengthen energy security: G Kishan Reddy
 
 
@@ -86,9 +89,6 @@ Funds linked to Indian clients in Swiss banks saw an 8% decline in 2025, totalin
 
 ## US stock market today: Wall Street rebounds as oil slides after US-Iran deal; S&P 500, Nasdaq rise over 1%
 US stocks rebounded on Thursday, recovering previous losses as falling oil prices and easing Treasury yields boosted investor sentiment following a US-Iran agreement to end hostilities. Technology stocks led the gains, with Intel surging after a manufacturing deal. European markets traded lower, whi
-
-## How Trump’s policies are turning US dream into a nightmare for Indian students, H-1B visa & green card aspirants
-For years, the path has been established - study in the US, get a job there, and eventually vie for a green card that gives American citizenship. That dream is slowly turning into a nightmare with frequent policy changes, immigration restrictions, heightened uncertainties.
 
 ## Karnataka MLC elections: Full list of winners as Congress one-ups the BJP
 Eight candidates were in the fray for the seven MLC seats to be elected by MLAs, for which voting was held on Thursday at Karnataka Vidhana Soudha.
@@ -114,28 +114,28 @@ The meeting between Modi and Trump was seen as an effort to restore normalcy to 
 ## Health minister Nadda reviews dengue preparedness ahead of monsoon season
 Health Minister JP Nadda reviews dengue and malaria preparedness, directs states to strengthen surveillance, hospital readiness and vector control ahead of monsoon.
 
-## CM, Bhupendra Patel Governor dine at farmer’s home, underline importance of water conservation & tree plantation
+## Constable ‘engaged in domestic work’, Odisha suspends senior IPS officer
 
 
-## Police on high vigil before Shiv Sena Foundation day event on June 19
+## Key distillery denied licence as Madhya Pradesh raises stakes for liquor industry
 
 
-## Delhi High Court questions Centre’s Telegram ban; reserves verdict
+## Yoga Day is latest flashpoint between Congress govt and Kerala Governor
 
 
-## ‘Took 12 hours to douse the flame’: Massive fire at Faridabad shoe factory, 21 tenders deployed
+## Bihar woman abducted from home, gangraped by 5 men
 
 
-## Court grants interim relief to BEST, restrains staff from proposed strike
+## Andhra Pradesh’s shrimp farmers can’t catch a break: New crisis looms after tariff shock
 
 
-## After ‘Modi Tattva’ module announcement, MSU’s sociology department sees ‘surge in applications, enquiries about courses’
+## Can Shiv Sena (UBT) act against 6 MPs for skipping party meeting? Experts flag legal hurdles
 
 
-## LG asks departments to finalise process for 20% quota for former Agniveers in Group C posts, sets June 30 deadline
+## 35 donation boxes, 2 shifts: As SIT probes Ram Mandir ‘fund theft’, how count is kept
 
 
-## NHAI goes AI way: In-house system deployed to flag faults in highway project reports, track road defects
+## Private schools, pricey coaching, family business, MNC jobs: They also cracked EWS list in UPSC exam
 
 
 ## SpaceX bankers prepare for potential US$20 billion bond offering, sources say
@@ -162,6 +162,9 @@ Lenovo Group, the world’s largest personal-computer (PC) maker, plans to raise
 ## Hong Kong graduates prefer careers in finance, survey finds
 Hong Kong graduates believe the city’s finance industry is its most attractive and stable sector, making them more optimistic about career opportunities than their global peers, according to a study by the CFA Institute, which trains investment managers. The US-based institute’s “2026 Graduate Outlo
 
+## The Vance Peace Deal
+The U.S. vice president has become the face of an unpopular deal.
+
 ## Israeli Officials and U.S. Lawmakers Slam Iran Deal
 The MOU is the “worst foreign policy blunder in decades,” Republican Sen. Bill Cassidy wrote.
 
@@ -183,8 +186,20 @@ Everything is clear except what will happen to shipping and oil exports.
 ## A Brief History of Political Trolling
 What was once a fringe style of provocation is now a ubiquitous weapon.
 
-## The Real Reason Nothing Works in Britain
-Two new books hint at what’s actually beneath U.K. political and economic malaise.
+## On the Bangladesh-India Border, BJP Victories Spike Anxieties
+Since the BJP takeover of West Bengal, Muslims and Rohingyas in the region talk among themselves in hushed tones and try not to attract attention, worried about their fate.
+
+## The USMCA Review Will Be a China (and Asia) Policy Test for Mexico
+Washington wants Mexico to prove it is not a backdoor for China. But Mexico’s factories still depend on Asian inputs.
+
+## Wang Yi’s Visit and Mongolia’s Foreign Policy Balancing Act
+How does the Chinese foreign minister’s trip intersect with Mongolia’s hosting of the U.N. desertification conference and its broader “third neighbor” policy?
+
+## No Reset at G7: Trump Was Trump, Modi Was Not Modi
+The Modi-Trump meeting revealed the limits of India’s willingness to speak with moral clarity when confronted with American power.
+
+## Xi’s Authoritarian Blueprint for the Myanmar Junta
+Xi implied to Min Aung Hlaing that brute military force is failing, and he must instead master CCP-style totalitarian controls to pacify the public.
 
 ## Floating Volcanic Rock Is Disrupting Life in Papua New Guinea
 The ongoing Titan Ridge eruption has left parts of PNG’s coast covered in meters of floating volcanic rock. For a community dependent on the ocean, that's a serious problem.
@@ -194,21 +209,6 @@ The image of the nude torso of a millennia-old iconic figurine of a young woman 
 
 ## Nice: France’s Mediterranean Gateway to the Indo-Pacific
 France’s fifth-largest city is increasingly serving as a showcase for Indo-Pacific diplomacy -- including the Indian PM's latest visit.
-
-## Central Asia’s Relations With Taliban-ruled Afghanistan Continue to Deepen
-In April, the first Afghanistan-Central Asia Consultative Dialogue was held in Kabul, highlighting the considerable development of relations over the last five years.
-
-## India’s 5G Fighter Aircraft Dilemma
-Russia’s recent offer to India for joint production of the SU-57 fifth-generation fighter comes amid India’s own AMCA project taking some definitive steps forward.
-
-## A Diplomatic Row Roils India-Bangladesh Relations Yet Again
-While Delhi’s ties with Dhaka are hit by one hiccup after another, Bangladesh's PM Tarique Rahman is set to visit China next week.
-
-## Fragmented Trade and the Failure of Sanctioned Oil Isolation
-The geopolitics behind how sanctioned oil continues moving through parallel trading networks despite efforts to curb its flow and what this means for global trading hubs like Singapore
-
-## Philippines Confirms Removal of Floating Platform at Scarborough Shoal
-China deployed the platform at the disputed atoll late last month, for what it described as a program of "comprehensive research" in the South China Sea.
 
 ## The World Cup: Players Vie for Goals and Countries for Influence
 The 2026 FIFA Men’s World Cup is now well underway, bringing 48 countries’ teams to compete in a soccer tournament co-hosted by the United States, Mexico, and Canada. With teams from every continent except Antarctica, the 2026 tournament is a truly global event. The World Cup is often hailed as an o
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge orders release of Palestinian rights advocate detained by ICE
+Mosque leader says he was arrested and detained by immigration authorities for his Palestine advocacy.
+
+## Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup
+All five goals were scored in the final 30 minutes as the match in Los Angeles erupted to life in the closing stages.
+
+## Mamdani gives New York Knicks keys to city after NBA title
+The New York Knicks celebrated their first NBA title in 53 years with a frenzied ticker-tape parade through Manhattan.
+
+## Are prices really dropping in the US, as Trump claims?
+Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.
+
+## Cuba’s Communist Party approves opening economy in unprecedented move
+The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.
+
+## Myanmar military airstrike kills seven civilians in Rakhine state
+A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.
+
 ## Brazil executes warrant against Lula ally in widening financial scandal
 Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.
 
 ## Conjoined twins separated after surgery in Saudi Arabia
 Filipino conjoined twins Olivia and Gianna were successfully separated during a six-hour surgery in Saudi Arabia.
-
-## Neymar will not play in Brazil’s World Cup match against Haiti due to injury
-Brazil's record goal-scorer continues to struggle with injuries after being named in their World Cup 2026 squad.
-
-## Ivory Coast’s Elye Wahi granted Canadian visa hours after denial
-The forward will now be able to join his team in Toronto when they take on Germany on Saturday.
-
-## Netanyahu says Israel must protect relationship with US
-Israeli Prime Minister Benjamin Netanyahu pressed for the ‘preservation’ of Israel’s relationship with the US.
-
-## Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump
-Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran.
-
-## Iran’s supreme leader says approved US deal despite having ‘different’ view
-Iran says it has suspended Strait of Hormuz transit charges for commercial vessels for 60 days.
-
-## Gaza fans chase World Cup joy amid blackout, displacement and war
-World Cup matches offer residents of Gaza a brief escape from war, blackouts and life in tents.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
