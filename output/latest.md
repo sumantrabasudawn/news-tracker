@@ -1,135 +1,138 @@
 # AION Intelligence
 
-## Saudi wealth fund warns European regulations ‘hurting’ foreign investors
-Comments from Public Investment Fund governor come amid concerns about EU’s foreign subsidies regulation
-
-## Bank of England holds rates steady and waits for more information
-A majority of the committee is satisfied with waiting and watching before considering a rate rise
-
 ## Bank of England holds interest rates at 3.75%
 Deal between US and Iran has pushed oil prices down and eased inflationary risk to UK economy
 
-## Hegseth unveils six-month review of US military presence in Europe
-Defence secretary announced decision as he scolded Nato allies for failing to support Washington in Iran war
+## US Supreme Court narrows law barring drug users from owning guns
+Justices side with a casual marijuana user challenging his ban under legislation used to prosecute Hunter Biden
 
-## Andy Burnham and the search for hope in a hopeless Britain
-The alternative is despair and the uglier politics that heralds
+## Zimbabwe parliament passes bill to entrench ‘Crocodile’ president
+Legislation would extend President Emmerson Mnangagwa’s term and potentially allow two more re-elections
 
-## Nuclear watchdog chief pitches ‘leaner’ UN in secretary-general bid
-Also in today’s newsletter: crude stocks in US Strategic Petroleum Reserve fall to lowest level since 1983
+## Andy Burnham being advised by former chair of UK fiscal watchdog
+Richard Hughes brought in to prepare Manchester mayor with how the markets might interpret policies should he become PM
 
-## Nissan in talks over more UK government help for Sunderland plant
-Any deal is likely to depend on Britain watering down its electric vehicle targets
+## Iran to get access to $6bn of frozen funds to buy US goods
+Money held in Qatar to be released in phases under interim deal with Trump administration
 
-## Where next for Wes Streeting?
-Without the backing of 81 MPs, many think he might now settle for a senior role in a Burnham cabinet
+## Aldi takes the fight to Walmart and Costco
+After 50 years of slow US expansion the German discount grocer is upping the pace. Can it win over hard-pressed consumers?
 
-## Accenture shares set to fall to lowest since 2018 as AI threat mounts
+## Jet fuel prices tumble on prospect of renewed Gulf exports
+Airlines get relief from soaring fuel costs following deal to reopen Strait of Hormuz
+
+## US-Iran accord opens way for Hormuz charges, industry warns
+Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
+
+## Gatwick airport launches legal action after ministers relax runway slot rules
+Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
+
+## Trump is taking a page out of China’s sovereign AI playbook
+Governments have long protected strategic industries — what is new is their willingness to become shareholders
+
+## Accenture shares fall to lowest since 2017 as AI threat mounts
 IT consultancy hit by concerns technology will hurt its business model
 
-## How AI is ‘senior-ising’ junior roles
-Changing workflows mean employers are now asking new recruits to be managers and decision makers
+## VW supervisory board member exit a ‘very negative signal’ on corporate governance
+Unexpected resignation of Susanne Wiegand deepens concerns among investors
 
-## FirstFT: Warsh ushers in new Fed era
-Also in today’s newsletter: US and Iran sign interim peace deal and JPMorgan bans workers in Hong Kong from using Claude
+## Saudi wealth fund warns European regulations ‘hurting’ foreign investors
+Comments from Public Investment Fund governor come amid concerns about EU’s foreign subsidies regulation
 
-## Better internet, more pay: will Hormuz crisis improve life at sea?
-Months stuck on stranded vessels have exposed mental and physical strains on shipping crews
+## India’s 2030 energy goal: What’s missing? | Energonomics | EP 33 | Richa Mishra
+Inside India’s energy transition with former ONGC leader A K Balyan.
 
-## IIFL Capital Services launches next-gen algorithmic trading platform
-The platform offers access to more than 100 ready-made algorithmic trading strategies, making sophisticated trading tools accessible to a wider investor base
+## Advance tax collection increased by over 15% in the first instalment of FY27
+Net income tax collection grows 14.64% between April 1 and June 17
 
-## The India we dream of cannot be built by policies alone; it must be built through participation” says Sandhya Bawankule
+## Porsche opens its largest Porsche Centre in the country in Hyderabad
+Porsche Centre Hyderabad offers sales, service and spare parts all at one site
+
+## RBI’s balance sheet expands even as global peers contract
+Data from central bank reports show a widening contrast between emerging and developed economies
+
+## Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth
+Nearly 60 per cent of FMCG companies’ D2C acquisitions over the past five years have been in the personal care segment, says Crisil Ratings
+
+## Tata’s latest CV price hike tests industry discipline as fleet operators turn cautious
+Tata Motors’ second commercial vehicle price increase in three months is emerging as a fresh test for India’s truck industry, with rivals facing pressure to protect margins while large fleet operators warn that higher vehicle costs could delay replacement demand
+
+## Advit Jewels looks to expand B2C biz, enter overseas markets
+The IPO, scheduled to open on June 23 for subscription, consists of fresh issue of up to around 1.19 crore equity shares of face value of Rs₹10 each. The company has fixed the price band at Rs ₹130-Rs ₹138 per equity share
+
+## India-UK FTA: Indian consumers will access premium brands from UK at lower prices
+Experts said robust compliance will be key as stakeholders seek finer details around rules of origin among others
+
+## Accenture shares plunge over 14% as Iran war dents outlook, sparks IT selloff
+Accenture's shares plunged over 14% after the IT giant cited the Iran war's impact, slashing its annual growth forecast and projecting lower-than-expected quarterly revenue. The conflict cost the company $400 million in its Middle East business. To counter a slowdown, Accenture announced $4.18 billi
+
+## PM-Kisan 23rd instalment on June 20: Rs 18,880 crore to be transferred to 9.44 crore farmers
+Prime Minister Narendra Modi will release the 23rd instalment of the PM-Kisan scheme on June 20 in West Bengal, transferring Rs 18,880 crore to over 9.44 crore farmers. He will also launch crop insurance schemes, an Agri-Tech platform, and the National Natural Farming Mission, alongside inaugurating
+
+## Indian funds in Swiss banks fall 8% to Rs 36,793 crore in 2025, but customer deposits climb 50%
+Funds linked to Indian clients in Swiss banks saw an 8% decline in 2025, totaling 3.25 billion Swiss francs. Despite an overall drop, direct customer account deposits surged over 50%. This follows a significant rebound in 2024, with the SNB clarifying data doesn't represent black money.
+
+## US stock market today: Wall Street rebounds as oil slides after US-Iran deal; S&P 500, Nasdaq rise over 1%
+US stocks rebounded on Thursday, recovering previous losses as falling oil prices and easing Treasury yields boosted investor sentiment following a US-Iran agreement to end hostilities. Technology stocks led the gains, with Intel surging after a manufacturing deal. European markets traded lower, whi
+
+## How Trump’s policies are turning US dream into a nightmare for Indian students, H-1B visa & green card aspirants
+For years, the path has been established - study in the US, get a job there, and eventually vie for a green card that gives American citizenship. That dream is slowly turning into a nightmare with frequent policy changes, immigration restrictions, heightened uncertainties.
+
+## Bhogapuram user fee to range from Rs 355 to Rs 1,255: AERA ad hoc tariff order
 
 
-## MAXHUB Showcases AI-Powered Collaboration and Display Solutions at InfoComm 2026
-
-
-## Asia-Pacific Telecom Leaders Gather in Singapore for the Twimbit Telecom Summit & Awards 2026
-
-
-## HDFC Parivartan and ISAP Mark Successful Completion of P0748, Benefiting 3,000 Farmers Across J&K and Ladakh
-Anantnag, Jammu and Kashmir, India – Business Wire India
-
-## Synvo AI Raises US$1 Million to Give Enterprise AI a Memory
-
-
-## Aptiv Expands Chennai Technical Center, Accelerating India for India Momentum
-Chennai, Tamil Nadu, India – Business Wire India
-
-## Carro enters Australia with CarPlace acquisition to bring better, transparent car buying and selling experience to Australians
-
+## Wipro raises Aggne stake to 80%; invests $2.1 million to deepen insurance tech play
+Wipro is increasing its ownership in Aggne Global IT Services to 80% by acquiring an additional 20% stake for USD 2.1 million. This move aims to bolster Wipro's position in the insurance technology sector, particularly in driving AI and IP-led transformations for the Property & Casualty Insurance ma
 
 ## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
 Indian equity benchmarks Sensex and Nifty extended their winning streak to a fifth consecutive session on Thursday, driven by falling crude oil prices and optimism surrounding a US-Iran peace deal. The markets closed higher, with gains seen across various sectors, despite some caution due to US Fede
 
-## NSE warns of regulatory, tech and AI risks as IPO papers reveal reliance on derivatives business
-National Stock Exchange flagged significant risks in its IPO filing, including regulatory changes, technology failures, and cyberattacks. Heavy reliance on derivatives trading for revenue, contributing over 78% of operating income, makes it vulnerable to Sebi's tightening measures. AI also presents 
+## ‘FTA in final stages…after ups and downs’: MEA drops big update after Modi-Trump meet at G7; US official to visit soon
+India's foreign secretary said the proposed trade agreement was a key focus of the Modi-Trump meeting, with both leaders directing officials to fast-track its
 
-## NSE mega IPO: All you need to know about the Rs 30,000 crore offering
-The National Stock Exchange of India has filed its draft red herring prospectus for a massive IPO, aiming to raise approximately Rs 30,000 crore. This offering is set to become India's largest corporate market debut, surpassing the Rs 27,859 crore IPO of Hyundai Motor India.
+## Netanyahu's first reaction since US-Iran deal: ‘Israel troops to remain in Lebanon'
+His comments come after Israeli strikes killed three people in Lebanon in two separate incidents.
 
-## India-UK social security pact to slash costs for firms; up to 95% of Indian professionals to gain
-Thousands of Indian professionals in Britain will soon stop paying dual social security contributions, a major win from the new India-UK pact. This agreement, effective July 15, exempts temporarily deputed employees from host country contributions for up to five years, significantly easing costs for
+## Congress's ‘used money’ charge after NDA-backed candidate wins Jharkhand Rajya Sabha seat amid cross-voting claims
+JMM candidate Baidyanath Ram and NDA-backed Independent nominee Parimal Nathwani won the two Rajya Sabha seats from Jharkhand.
 
-## India eyes $2.5 billion loans from World Bank, ADB as subsidy costs rise
-India is in discussions with the World Bank and Asian Development Bank for approximately $2.5 billion in loans to support urban infrastructure and job creation. This move aims to bolster capital for government spending, which has been impacted by rising oil prices and increased subsidy expenditures 
+## Betrayed, says Congress as NDA-backed Parimal Nathwani wins Jharkhand RS poll
+Baidyanath Ram secured 30 first-preference votes while Nathwani received 28. Pranav Jha of the Congress received only 20 votes.
 
-## Iran-US peace deal signed: 62 million barrels set to leave Hormuz as Asia braces for oil glut
-The Strait of Hormuz is set to reopen after a US-Iran deal, potentially flooding Asian markets with millions of barrels of crude. Refiners, already well-supplied and reducing processing, now face worries of oversupply. This shift from earlier fears of shortages is reflected in falling oil prices and
+## Oppn attacks govt after cops detain anti-project protesters on Goa Revolution Day
+Congress leader Yuri Alemao attacked the Pramod Sawant government, saying it only spoke of sustainable development
 
-## Trump sanctions waiver on Russian crude expires: What it means for India amid US-Iran peace deal, Strait of Hormuz opening
-The US Treasury did not issue an extension on Wednesday for its sanctions waiver covering Russian seaborne oil, which expired at midnight. However, neither President Donald Trump nor senior administration officials clarified whether the lapse would result in the sanctions being reinstated.
+## UP dhaba owner stabbed for asking customers to pay for meal; 2 arrested
+Police said the vendor was attacked after two men allegedly tried to leave without paying for the meal they had consumed.
 
-## Gold, silver price prediction: Gold, silver prices are headed this way in the near-term - check outlook on June 18, 2026
-Gold and silver price prediction today: Gold prices are consolidating and silver prices are exhibiting a sideways to bullish bias, says Abhilash Koikkara, Head - Forex & Commodities, Nuvama Professional Clients Group.
+## China’s Wang Yi to visit India for BRICS security meet next week
+Wang Yi, who also functions as the national security adviser (NSA) in his role as director of the office of the central commission for foreign affairs, will visit India during June 22-23
 
-## Railways asks mosque near Kashi station to vacate for expansion; body calls notice ‘illegal’
-Railway officials affixed a notice at Ganj Shaheeda mosque demanding it be vacated by June 20 for station expansion.
+## ZPM’s K Laltluangkima elected as Mizoram’s lone Rajya Sabha member
+The ZPM spokesperson K. Laltluangkima secured 26 of the 36 votes cast and will succeed outgoing MNF MP K. Vanlalvena in the Upper House of Parliament.
 
-## UBT Sena-Congress merger 'fear', Y-plus-like cover to rebels: Dissent deepens in Maharashtra
-The rebellion became more apparent after six of the nine Shiv Sena (UBT) Lok Sabha MPs skipped a parliamentary party meeting in New Delhi on Thursday.
-
-## 'Curtailing rights of 150 million Telegram users as one set taking NEET retest?': Delhi High Court
-The SG also referred to a government report that described Telegram as a preferred platform for terrorist activities.
-
-## The story beyond US strikes on ships in West Asia: Sanctions, shadow fleets & flags of convenience
-Three ships struck by American military off Oman flew flags of tiny, distant nations. Two of them were sanctioned by the US
-
-## India, Russia, China: Why so many countries have banned or suspended Telegram
-Governments across the globe have acted against popular messaging app Telegram, the latest being India.
-
-## Police question ex-Bengal minister Aroop Biswas over Messi tour fiasco
-Most fans could not see Argentine footballer Messi despite purchasing tickets priced between ₹4,500 and ₹18,000
-
-## Govt explains why only Telegram is a problem: Multiple bots, 'most preferred' for terror acts, editing feature
-SG said Telegram's bot infrastructure allows information to be disseminated in bulk, enabling creation of sophisticated networks with minimal human oversight
-
-## Extreme heat, rainfall, glacier loss impacted Asia in 2025: WMO report
-The annual mean surface air temperature over Asian land areas in 2025 ranked between the second and fourth warmest on record
-
-## Meta bets on India as AI infra hub: ‘It takes a global network to enable a global network’
+## Tarun Tejpal case: Trial court virtually set guidelines for victim’s response, says Goa government
 
 
-## Bihar BEd CET 2026 Result: Result to be out on June 19 at biharcetbed-brabu.in
+## Maharashtra council elections: BJP-led Mahayuti eyes clean sweep in 17 MLC seats
 
 
-## Rejected by college theatre group, Arvind Swamy quit stardom to set up Rs 3300 cr empire
+## First Indian-origin scorer, Mario Miranda and Big Foot museum of Loutolim
 
 
-## Trump’s Iran deal leaves Netanyahu isolated at home and abroad
+## Raj Nidimoru shields wife Samantha Ruth Prabhu from crowd during Tirumala visit. Watch
 
 
-## Institute ordered to pay student Rs 60,000 for using his photo, claiming ‘placement success’
+## Pune Metro Line 3 ready for July launch, full route to be operational by August end
 
 
-## Scientists discover world’s largest whale graveyard deep beneath the Indian Ocean
+## Spider-Man Brand New Day trailer: Peter Parker asks help from Banner, gets smashed by Hulk
 
 
-## World’s most beautiful airports: 2 Indian airports earn recognition
+## Why Upasana Singh lost Maine Pyaar Kiya to Bhagyashree: ‘I was taller than Salman Khan’
 
 
-## Ukraine war to Hormuz: 5 key takeaways from the G7 Summit in France
+## Counter-terrorism, narcotics control, border security discussed as Amit Shah meets US envoy Gor
 
 
 ## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
@@ -156,6 +159,12 @@ Hong Kong graduates believe the city’s finance industry is its most attractive
 ## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
 Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
 
+## The Iran War Damaged U.S.-India Ties
+Diplomatic fractures between the two strategic partners are likely to outlast the conflict.
+
+## The United States Has a Kafala Problem
+Qatar’s World Cup became known for migrant worker abuse. U.S. labor systems are similarly exploitative.
+
 ## Ireland Is Becoming a French Military Protectorate
 Literally defenseless, Dublin is outsourcing security to Paris.
 
@@ -174,35 +183,32 @@ $600 million in U.S. foreign aid for global vaccines is at risk.
 ## Public Anger Mounts as Kenya Cozies Up to Trump
 Critics accuse Nairobi of capitulating to U.S. interests over those of Kenyan citizens.
 
-## Why Trump’s Pentagon Abandoned ‘Indo-Pacific’
-A military name change signals a broader strategic and diplomatic shift.
+## Floating Volcanic Rock Is Disrupting Life in Papua New Guinea
+The ongoing Titan Ridge eruption has left parts of PNG’s coast covered in meters of floating volcanic rock. For a community dependent on the ocean, that's a serious problem.
 
-## Can Ships in the Gulf Take Trump at His Word?
-Amid the uncertainty of Trump’s deal, how will ships decide when to leave the Persian Gulf?
+## Why the 4-Inch ‘Dancing Girl’ Figurine Rattles South Asia’s Puritans
+The image of the nude torso of a millennia-old iconic figurine of a young woman was shaded in Indian school textbooks to make her appear clothed.
 
-## Philippine Senate Votes to Remove Duterte Ally From Chamber’s Presidency
-The elevation of Senator Sherwin Gatchalian comes just weeks before the chamber is set to begin the impeachment trial of Vice President Sara Duterte.
+## Nice: France’s Mediterranean Gateway to the Indo-Pacific
+France’s fifth-largest city is increasingly serving as a showcase for Indo-Pacific diplomacy -- including the Indian PM's latest visit.
 
-## China Is Indispensable, But Not Dominant
-China has drawn the great powers into its orbit without controlling their strategic choices.
+## Central Asia’s Relations With Taliban-ruled Afghanistan Continue to Deepen
+In April, the first Afghanistan-Central Asia Consultative Dialogue was held in Kabul, highlighting the considerable development of relations over the last five years.
 
-## Asia Is Sprinting on AI. Europe Is Still Tying Its Laces.
-China, South Korea, Japan, India, and Singapore are all setting ambitious AI goals while the EU falls farther behind.
+## India’s 5G Fighter Aircraft Dilemma
+Russia’s recent offer to India for joint production of the SU-57 fifth-generation fighter comes amid India’s own AMCA project taking some definitive steps forward.
 
-## When Neutrality Fails: ASEAN in a Malacca Disruption Scenario
-Insights from Looi Teck Kheong.
+## A Diplomatic Row Roils India-Bangladesh Relations Yet Again
+While Delhi’s ties with Dhaka are hit by one hiccup after another, Bangladesh's PM Tarique Rahman is set to visit China next week.
 
-## India-US Relations: Too Important to Fail, Too Complicated to Trust
-The killing of Indian sailors by the U.S. military adds to the web of complications, but the structural foundations haven't changed.
+## Fragmented Trade and the Failure of Sanctioned Oil Isolation
+The geopolitics behind how sanctioned oil continues moving through parallel trading networks despite efforts to curb its flow and what this means for global trading hubs like Singapore
 
-## Japan Is Re-engineering Its Intelligence Apparatus
-The establishment of a National Intelligence Council and a National Intelligence Bureau is part of a long series of reforms and restructuring dating back to the end of World War II.
+## Philippines Confirms Removal of Floating Platform at Scarborough Shoal
+China deployed the platform at the disputed atoll late last month, for what it described as a program of "comprehensive research" in the South China Sea.
 
-## Now Open, Tashiev Trial Proceeds in Kyrgyzstan
-The first hearings featured a verbal argument between Tashiev and a witness and were followed by a leak of interrogation videos.
-
-## Chinese Surveillance Cameras Have Become a Huge Problem for India
-The Ghaziabad CCTV espionage case is the logical outcome of a decade of unregulated Chinese surveillance hardware infiltrating India’s most sensitive locations.
+## China’s Farm Drones: A Trojan Horse Washington Overlooks
+In 2024, Emilian Kavalski and Claris Diaz argued in “Beyond TikTok – The National Security Risks of Chinese Agricultural Drones” that the national debate over foreign social media platforms risked becoming too narrow, potentially causing Washington to overlook other foreign technologies embedded in 
 
 ## Cogs of War Turns One
 A mentor of mine, a superb scholar, once told me that good defense analysis starts with a trade-off. The classic example is combined arms doctrine, which is the foundation of modern warfare. Infantry, armor, artillery, and aviation work together to offset each other’s weaknesses. Each brings a combi
@@ -224,9 +230,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## How Japan Could Co-Produce the Navy’s Future Fleet
 America’s defense industrial base cannot build the Navy out of the threat it faces. Decades of industry consolidation, persistent resource shortages, and inconsistent demand signals have delayed the production of critical vessels and munitions. With production bottlenecks stacking up, the Navy may h
-
-## South Korea Could Build Nuclear Submarines, But It Shouldn’t
-In late May 2026, South Korean Defense Minister Ahn Gyu-back unveiled a roadmap to achieving one of Seoul’s top military acquisition goals: nuclear-powered submarines. This roadmap is heading in the wrong direction.During last month’s inaugural meeting of the Future Defense Strategy Committee, South
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran says it will charge a ‘payment for services’ in the Strait of Hormuz
-Iran says it will charge a ‘payment for services’ in the Strait of Hormuz
+## Niger says soldiers, civilians killed in armed attack on Niamey airport
+Ministry of Defence says 11 soldiers, 2 civilians and 22 attackers killed in Diori Hamani International Airport assault.
 
-## World Cup 2026: Key takeaways from the opening group stage matches
-From viral fan moments to on-field controversies, as well as the biggest stars, best performances, upsets and more.
+## US progressive Lewis George on track to become DC mayor after Trump threats
+The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.
 
-## What the Trump-Iran agreement says about Lebanon, Hormuz and uranium
-The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.
+## Continuity or change? What to know about Colombia’s run-off election
+Far-right Abelardo de la Espriella and leftist Ivan Cepeda compete for the presidency on starkly different platforms.
 
-## Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination
-Mass raids on Roma communities show how Europe is recasting racial discrimination as crime prevention and public order.
+## How does Trump’s MOU with Iran compare with Obama’s nuclear pact?
+Trump promised a better deal than the 2015 JCPOA nuclear agreement with Iran - but is it?
 
-## Real Madrid sign Ibrahima Konate to multi-year deal from Liverpool
-Acquisition of the French defender, who is currently at the World Cup, is a key signing by new Real coach Jose Mourinho.
+## World Cup: Ivory Coast’s Elye Wahi denied Canada entry for Germany match
+Wahi was unauthorised for travel after he was reportedly arrested last month in a French spot-fixing investigation.
 
-## Apple CEO warns price rises ‘unavoidable’ amid AI boom
-The increase of AI data centres has made supply for key electronic device components dwindle, driving up prices.
+## World Cup 2026: Day seven
+Al Jazeera’s @RahulP_Journo has your #FIFAworldcup26 day 7 recap.
 
-## World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz
-Several countries welcome deal, as IAEA chief says 'now the technical work starts' on Iran's nuclear programme.
+## Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?
+Media reports talk about rifts between Israeli and American leaders, but it has not changed US policy towards Israel.
 
-## Hegseth slams NATO allies during roundtable meeting
-Hegseth slams NATO allies during roundtable meeting
+## These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’
+Israel has killed more than 1,000 Palestinians since agreeing to a US-brokered ‘ceasefire’ in its genocidal war.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
