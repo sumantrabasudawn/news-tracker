@@ -1,19 +1,31 @@
 # AION Intelligence
 
-## Bank of England holds interest rates at 3.75%
-Deal between US and Iran has pushed oil prices down and eased inflationary risk to UK economy
+## Rape convictions under review after UK detective allegedly used AI chatbot for paperwork
+Derbyshire Police investigating whether officer used software to secure desired court outcome
 
-## US Supreme Court narrows law barring drug users from owning guns
-Justices side with a casual marijuana user challenging his ban under legislation used to prosecute Hunter Biden
+## CME sues US derivatives regulator over crypto contract approval
+Exchange operator says allowance of ‘perpetual’ futures contracts on digital currencies by Kalshi violates law
 
-## Zimbabwe parliament passes bill to entrench ‘Crocodile’ president
-Legislation would extend President Emmerson Mnangagwa’s term and potentially allow two more re-elections
+## South Africa’s anti-migrant backlash
+The country would benefit more if it stuck to its pan-African principles
 
-## Andy Burnham being advised by former chair of UK fiscal watchdog
-Richard Hughes brought in to prepare Manchester mayor with how the markets might interpret policies should he become PM
+## The rock concerts breaking out in postwar Tehran
+Islamic Republic loosens dress codes and restrictions on music even as it keeps targeting dissidents
 
-## Iran to get access to $6bn of frozen funds to buy US goods
-Money held in Qatar to be released in phases under interim deal with Trump administration
+## The world may not like Trump’s Gaza plan — but there is no alternative
+If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?
+
+## Who is Andy Burnham, Labour’s charismatic chameleon?
+Greater Manchester mayor has earned public respect by going from insider to outsider, but economic doubts have clouded his bid for Downing Street
+
+## Robinhood is well placed for the casino-ification of everything
+
+
+## UK private sector wage growth slows to lowest rate in five years
+Slowdown will reinforce case for Bank of England to leave rates on hold
+
+## Is Tesla destined to be folded into SpaceX?
+Wall Street simmers with the idea of a merger of Elon Musk’s companies
 
 ## Aldi takes the fight to Walmart and Costco
 After 50 years of slow US expansion the German discount grocer is upping the pace. Can it win over hard-pressed consumers?
@@ -21,47 +33,47 @@ After 50 years of slow US expansion the German discount grocer is upping the pac
 ## Jet fuel prices tumble on prospect of renewed Gulf exports
 Airlines get relief from soaring fuel costs following deal to reopen Strait of Hormuz
 
-## US-Iran accord opens way for Hormuz charges, industry warns
-Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
-
 ## Gatwick airport launches legal action after ministers relax runway slot rules
 Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
+
+## US-Iran accord opens way for Hormuz charges, industry warns
+Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
 
 ## Trump is taking a page out of China’s sovereign AI playbook
 Governments have long protected strategic industries — what is new is their willingness to become shareholders
 
-## Accenture shares fall to lowest since 2017 as AI threat mounts
-IT consultancy hit by concerns technology will hurt its business model
+## N Murali appointed Chairman of The Hindu Group Publishing Private Limited
 
-## VW supervisory board member exit a ‘very negative signal’ on corporate governance
-Unexpected resignation of Susanne Wiegand deepens concerns among investors
-
-## Saudi wealth fund warns European regulations ‘hurting’ foreign investors
-Comments from Public Investment Fund governor come amid concerns about EU’s foreign subsidies regulation
-
-## India’s 2030 energy goal: What’s missing? | Energonomics | EP 33 | Richa Mishra
-Inside India’s energy transition with former ONGC leader A K Balyan.
 
 ## Advance tax collection increased by over 15% in the first instalment of FY27
 Net income tax collection grows 14.64% between April 1 and June 17
 
-## Porsche opens its largest Porsche Centre in the country in Hyderabad
-Porsche Centre Hyderabad offers sales, service and spare parts all at one site
+## Rupee closes higher for the fifth consecutive trading session
+The rupee closed 20 paise stronger at 94.33 per US dollar against the previous close of 94, lifted by the signing of an agreement by the US and Iran to end the war
 
-## RBI’s balance sheet expands even as global peers contract
-Data from central bank reports show a widening contrast between emerging and developed economies
+## NSE IPO set to deliver massive returns for legacy shareholders
+Several PSU banks and insurers acquired shares at weighted average costs of less than Re 1 apiece
 
-## Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth
-Nearly 60 per cent of FMCG companies’ D2C acquisitions over the past five years have been in the personal care segment, says Crisil Ratings
+## UK agrees to grant India higher duty-free quota to sort out steel wrangle
+India-UK trade pact leaves carbon tax concern unresolved; to be taken up later, say officials
 
-## Tata’s latest CV price hike tests industry discipline as fleet operators turn cautious
-Tata Motors’ second commercial vehicle price increase in three months is emerging as a fresh test for India’s truck industry, with rivals facing pressure to protect margins while large fleet operators warn that higher vehicle costs could delay replacement demand
+## Trump’s Iran deal extends ceasefire, opens Hormuz
+US President Donald Trump agrees interim peace deal with Iran to reopen the Strait of Hormuz and launch 60-day nuclear negotiations, easing oil price pressures
 
-## Advit Jewels looks to expand B2C biz, enter overseas markets
-The IPO, scheduled to open on June 23 for subscription, consists of fresh issue of up to around 1.19 crore equity shares of face value of Rs₹10 each. The company has fixed the price band at Rs ₹130-Rs ₹138 per equity share
+## SBI pays ₹8,800 cr dividend to govt, charts digital, green growth path
+SBI outlines a digital, sustainable growth strategy, pays an ₹8,800 crore dividend for the government amid strong profitability
 
-## India-UK FTA: Indian consumers will access premium brands from UK at lower prices
-Experts said robust compliance will be key as stakeholders seek finer details around rules of origin among others
+## Bajaj Auto sets June 24 record date for ₹5,633-crore buyback
+Investors looking to participate in Bajaj Auto’s ₹5,633-crore buyback have until June 23 to buy shares ahead of the June 24 record date
+
+## Coal gasification can cut import dependence, strengthen energy security: G Kishan Reddy
+
+
+## White House clears final reg: flexibility for international students in terms of stay and studies likely to be curbed
+
+
+## Net direct tax collections rise nearly 15% to Rs 5.21 lakh crore; advance tax growth signals strong corporate earnings
+Net direct tax collections surged 14.64% to over Rs 5.21 lakh crore by June 17, fueled by strong corporate advance tax payments and increased securities transaction tax. This robust growth signals continued corporate profitability and market activity, keeping the government on track for its ambitiou
 
 ## Accenture shares plunge over 14% as Iran war dents outlook, sparks IT selloff
 Accenture's shares plunged over 14% after the IT giant cited the Iran war's impact, slashing its annual growth forecast and projecting lower-than-expected quarterly revenue. The conflict cost the company $400 million in its Middle East business. To counter a slowdown, Accenture announced $4.18 billi
@@ -78,61 +90,52 @@ US stocks rebounded on Thursday, recovering previous losses as falling oil price
 ## How Trump’s policies are turning US dream into a nightmare for Indian students, H-1B visa & green card aspirants
 For years, the path has been established - study in the US, get a job there, and eventually vie for a green card that gives American citizenship. That dream is slowly turning into a nightmare with frequent policy changes, immigration restrictions, heightened uncertainties.
 
-## Bhogapuram user fee to range from Rs 355 to Rs 1,255: AERA ad hoc tariff order
+## Karnataka MLC elections: Full list of winners as Congress one-ups the BJP
+Eight candidates were in the fray for the seven MLC seats to be elected by MLAs, for which voting was held on Thursday at Karnataka Vidhana Soudha.
+
+## ‘Priya mitra Narendra…’: French President Emmanuel Macron's Hindi farewell message for PM Modi | Watch
+Emmanuel Macron said he planned to visit India in February next year and thanked PM Modi for visiting France.
+
+## Technology drives progress only when democratised: PM Modi at VivaTech in Paris
+Prime Minister Narendra Modi participated in the 10th edition of VivaTech in Paris along with French President Emmanuel Macron
+
+## NDA-backed Parimal Nathwani thanks people of Jharkhand, PM Modi after Rajya Sabha win
+Nathwani expressed gratitude to PM Narendra Modi, Union Home Minister Amit Shah, BJP leaders, workers, and volunteers who supported and voted for him.
+
+## Odisha to act against 128 doctors absent from duty for over 5 years: CM Majhi
+According to the chief minister’s office, medical officers and dental surgeons posted in government hospitals across were found absent from service without authorisation for prolonged periods
+
+## CJP gets police nod for June 20 protest in Delhi, renews call for Dharmendra Pradhan's resignation
+CJP said citizens from across the country would gather peacefully to demand accountability for paper leaks and the growing number of student suicides.
+
+## PM Modi, President Trump order officials to fast-track India-US trade agreement
+The meeting between Modi and Trump was seen as an effort to restore normalcy to the bilateral relationship that was hit by unprecedented strains last year
+
+## Health minister Nadda reviews dengue preparedness ahead of monsoon season
+Health Minister JP Nadda reviews dengue and malaria preparedness, directs states to strengthen surveillance, hospital readiness and vector control ahead of monsoon.
+
+## One seat down: Shiv Sena (UBT) corporator disqualified over caste certificate
 
 
-## Wipro raises Aggne stake to 80%; invests $2.1 million to deepen insurance tech play
-Wipro is increasing its ownership in Aggne Global IT Services to 80% by acquiring an additional 20% stake for USD 2.1 million. This move aims to bolster Wipro's position in the insurance technology sector, particularly in driving AI and IP-led transformations for the Property & Casualty Insurance ma
-
-## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
-Indian equity benchmarks Sensex and Nifty extended their winning streak to a fifth consecutive session on Thursday, driven by falling crude oil prices and optimism surrounding a US-Iran peace deal. The markets closed higher, with gains seen across various sectors, despite some caution due to US Fede
-
-## ‘FTA in final stages…after ups and downs’: MEA drops big update after Modi-Trump meet at G7; US official to visit soon
-India's foreign secretary said the proposed trade agreement was a key focus of the Modi-Trump meeting, with both leaders directing officials to fast-track its
-
-## Netanyahu's first reaction since US-Iran deal: ‘Israel troops to remain in Lebanon'
-His comments come after Israeli strikes killed three people in Lebanon in two separate incidents.
-
-## Congress's ‘used money’ charge after NDA-backed candidate wins Jharkhand Rajya Sabha seat amid cross-voting claims
-JMM candidate Baidyanath Ram and NDA-backed Independent nominee Parimal Nathwani won the two Rajya Sabha seats from Jharkhand.
-
-## Betrayed, says Congress as NDA-backed Parimal Nathwani wins Jharkhand RS poll
-Baidyanath Ram secured 30 first-preference votes while Nathwani received 28. Pranav Jha of the Congress received only 20 votes.
-
-## Oppn attacks govt after cops detain anti-project protesters on Goa Revolution Day
-Congress leader Yuri Alemao attacked the Pramod Sawant government, saying it only spoke of sustainable development
-
-## UP dhaba owner stabbed for asking customers to pay for meal; 2 arrested
-Police said the vendor was attacked after two men allegedly tried to leave without paying for the meal they had consumed.
-
-## China’s Wang Yi to visit India for BRICS security meet next week
-Wang Yi, who also functions as the national security adviser (NSA) in his role as director of the office of the central commission for foreign affairs, will visit India during June 22-23
-
-## ZPM’s K Laltluangkima elected as Mizoram’s lone Rajya Sabha member
-The ZPM spokesperson K. Laltluangkima secured 26 of the 36 votes cast and will succeed outgoing MNF MP K. Vanlalvena in the Upper House of Parliament.
-
-## Tarun Tejpal case: Trial court virtually set guidelines for victim’s response, says Goa government
+## Study and rest, no to smartphone phone: CA toppers in Ahmedabad reveal success mantra
 
 
-## Maharashtra council elections: BJP-led Mahayuti eyes clean sweep in 17 MLC seats
+## DTE directs Bandra college running unauthorised course to refund students 134 students
 
 
-## First Indian-origin scorer, Mario Miranda and Big Foot museum of Loutolim
+## NEET: Western Railway to run 3 pairs of special trains
 
 
-## Raj Nidimoru shields wife Samantha Ruth Prabhu from crowd during Tirumala visit. Watch
+## AMC food department: 409 samples taken from 1,027 food units in 15 days, 27 samples declared unfit & harmful
 
 
-## Pune Metro Line 3 ready for July launch, full route to be operational by August end
+## Gulmarg Gondola to Mi Teleférico: 7 highest ropeways in the world
 
 
-## Spider-Man Brand New Day trailer: Peter Parker asks help from Banner, gets smashed by Hulk
+## How Arjun Erigaisi took down Magnus Carlsen in Hong Kong
 
 
-## Why Upasana Singh lost Maine Pyaar Kiya to Bhagyashree: ‘I was taller than Salman Khan’
-
-
-## Counter-terrorism, narcotics control, border security discussed as Amit Shah meets US envoy Gor
+## Muslim families plan to leave Sangli village, protest at High Court after attack by Hindu group
 
 
 ## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
@@ -159,6 +162,9 @@ Hong Kong graduates believe the city’s finance industry is its most attractive
 ## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
 Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
 
+## The Real Reason Nothing Works in Britain
+Two new books hint at what’s actually beneath U.K. political and economic malaise.
+
 ## The Iran War Damaged U.S.-India Ties
 Diplomatic fractures between the two strategic partners are likely to outlast the conflict.
 
@@ -179,9 +185,6 @@ Read the agreement that the Trump administration has agreed to with Iran’s lea
 
 ## How RFK Jr. Managed to Block Millions in Global Vaccine Funds
 $600 million in U.S. foreign aid for global vaccines is at risk.
-
-## Public Anger Mounts as Kenya Cozies Up to Trump
-Critics accuse Nairobi of capitulating to U.S. interests over those of Kenyan citizens.
 
 ## Floating Volcanic Rock Is Disrupting Life in Papua New Guinea
 The ongoing Titan Ridge eruption has left parts of PNG’s coast covered in meters of floating volcanic rock. For a community dependent on the ocean, that's a serious problem.
@@ -207,6 +210,9 @@ The geopolitics behind how sanctioned oil continues moving through parallel trad
 ## Philippines Confirms Removal of Floating Platform at Scarborough Shoal
 China deployed the platform at the disputed atoll late last month, for what it described as a program of "comprehensive research" in the South China Sea.
 
+## The World Cup: Players Vie for Goals and Countries for Influence
+The 2026 FIFA Men’s World Cup is now well underway, bringing 48 countries’ teams to compete in a soccer tournament co-hosted by the United States, Mexico, and Canada. With teams from every continent except Antarctica, the 2026 tournament is a truly global event. The World Cup is often hailed as an o
+
 ## China’s Farm Drones: A Trojan Horse Washington Overlooks
 In 2024, Emilian Kavalski and Claris Diaz argued in “Beyond TikTok – The National Security Risks of Chinese Agricultural Drones” that the national debate over foreign social media platforms risked becoming too narrow, potentially causing Washington to overlook other foreign technologies embedded in 
 
@@ -227,9 +233,6 @@ Editor’s note: This is part of a running series of essays by Iskander Rehman, 
 
 ## Can Bankova Muster Political Will to Make Institutional Reforms During War?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## How Japan Could Co-Produce the Navy’s Future Fleet
-America’s defense industrial base cannot build the Navy out of the threat it faces. Decades of industry consolidation, persistent resource shortages, and inconsistent demand signals have delayed the production of critical vessels and munitions. With production bottlenecks stacking up, the Navy may h
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Niger says soldiers, civilians killed in armed attack on Niamey airport
-Ministry of Defence says 11 soldiers, 2 civilians and 22 attackers killed in Diori Hamani International Airport assault.
+## World Cup 2026: South Africa grab 1-1 draw with Czechia with late penalty
+Teboho Mokoena equalises through a late penalty to salvage a draw for South Africa in their Group A clash with Czechia.
 
-## US progressive Lewis George on track to become DC mayor after Trump threats
-The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.
+## Pakistan signs US-Iran MoU
+Pakistan’s Prime Minister Shehbaz Sharif signed a US-Iran memorandum of understanding aimed at ending the war.
 
-## Continuity or change? What to know about Colombia’s run-off election
-Far-right Abelardo de la Espriella and leftist Ivan Cepeda compete for the presidency on starkly different platforms.
+## Israel says cutting ties with top EU diplomat over ‘apartheid’ comments
+The UN rights office has previously found that Israel is violating international laws that prohibit apartheid.
 
-## How does Trump’s MOU with Iran compare with Obama’s nuclear pact?
-Trump promised a better deal than the 2015 JCPOA nuclear agreement with Iran - but is it?
+## Somalia warns Israel against meddling in Somaliland
+The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.
 
-## World Cup: Ivory Coast’s Elye Wahi denied Canada entry for Germany match
-Wahi was unauthorised for travel after he was reportedly arrested last month in a French spot-fixing investigation.
+## US vice president slams Israel over criticism of Trump’s Iran deal
+JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.
 
-## World Cup 2026: Day seven
-Al Jazeera’s @RahulP_Journo has your #FIFAworldcup26 day 7 recap.
+## Grief, tears as families hold rites for Indian sailors killed in US strike
+Grief, tears as families hold last rites for Indian sailors killed in US strike.
 
-## Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?
-Media reports talk about rifts between Israeli and American leaders, but it has not changed US policy towards Israel.
+## Zimbabwe lawmakers back bill to extend president’s term in office
+Lower house of parliament passes legislation to extend presidential terms from five to seven years.
 
-## These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’
-Israel has killed more than 1,000 Palestinians since agreeing to a US-brokered ‘ceasefire’ in its genocidal war.
+## Giant Messi portrait carved into a Philippine beach for the World Cup
+A Filipino artist has created a giant sand portrait of Lionel Messi on a beach in Tandag, Philippines.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
