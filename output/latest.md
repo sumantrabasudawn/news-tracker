@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US-Iran accord opens way for Hormuz charges, industry warns
+Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
+
+## Iran to get access to $6bn of frozen funds to buy US goods
+Money held in Qatar to be released in phases under interim deal with Trump administration
+
+## JD Vance lashes out at Israeli government over Iran deal criticism
+US vice-president says Israelis who find fault in agreement with Tehran need ‘to wake up and smell the reality’
+
 ## Rape convictions under review after UK detective allegedly used AI chatbot for paperwork
 Derbyshire Police investigating whether officer used software to secure desired court outcome
 
@@ -15,32 +24,23 @@ Islamic Republic loosens dress codes and restrictions on music even as it keeps 
 ## The world may not like Trump’s Gaza plan — but there is no alternative
 If even I, an implacable opponent of the president, can accept this as the best option, then surely others can too?
 
-## Who is Andy Burnham, Labour’s charismatic chameleon?
-Greater Manchester mayor has earned public respect by going from insider to outsider, but economic doubts have clouded his bid for Downing Street
+## Gatwick airport launches legal action after ministers relax runway slot rules
+Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
+
+## Gulf oil shock speeds up India’s EV drive
+Carmakers report increasing sales and showroom enquiries as fuel costs rise
+
+## Accenture shares fall to lowest since 2017 as AI threat mounts
+IT consultancy hit by concerns technology will hurt its business model
 
 ## Robinhood is well placed for the casino-ification of everything
 
-
-## UK private sector wage growth slows to lowest rate in five years
-Slowdown will reinforce case for Bank of England to leave rates on hold
 
 ## Is Tesla destined to be folded into SpaceX?
 Wall Street simmers with the idea of a merger of Elon Musk’s companies
 
 ## Aldi takes the fight to Walmart and Costco
 After 50 years of slow US expansion the German discount grocer is upping the pace. Can it win over hard-pressed consumers?
-
-## Jet fuel prices tumble on prospect of renewed Gulf exports
-Airlines get relief from soaring fuel costs following deal to reopen Strait of Hormuz
-
-## Gatwick airport launches legal action after ministers relax runway slot rules
-Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
-
-## US-Iran accord opens way for Hormuz charges, industry warns
-Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
-
-## Trump is taking a page out of China’s sovereign AI playbook
-Governments have long protected strategic industries — what is new is their willingness to become shareholders
 
 ## N Murali appointed Chairman of The Hindu Group Publishing Private Limited
 
@@ -114,29 +114,32 @@ The meeting between Modi and Trump was seen as an effort to restore normalcy to 
 ## Health minister Nadda reviews dengue preparedness ahead of monsoon season
 Health Minister JP Nadda reviews dengue and malaria preparedness, directs states to strengthen surveillance, hospital readiness and vector control ahead of monsoon.
 
-## One seat down: Shiv Sena (UBT) corporator disqualified over caste certificate
+## CM, Bhupendra Patel Governor dine at farmer’s home, underline importance of water conservation & tree plantation
 
 
-## Study and rest, no to smartphone phone: CA toppers in Ahmedabad reveal success mantra
+## Police on high vigil before Shiv Sena Foundation day event on June 19
 
 
-## DTE directs Bandra college running unauthorised course to refund students 134 students
+## Delhi High Court questions Centre’s Telegram ban; reserves verdict
 
 
-## NEET: Western Railway to run 3 pairs of special trains
+## ‘Took 12 hours to douse the flame’: Massive fire at Faridabad shoe factory, 21 tenders deployed
 
 
-## AMC food department: 409 samples taken from 1,027 food units in 15 days, 27 samples declared unfit & harmful
+## Court grants interim relief to BEST, restrains staff from proposed strike
 
 
-## Gulmarg Gondola to Mi Teleférico: 7 highest ropeways in the world
+## After ‘Modi Tattva’ module announcement, MSU’s sociology department sees ‘surge in applications, enquiries about courses’
 
 
-## How Arjun Erigaisi took down Magnus Carlsen in Hong Kong
+## LG asks departments to finalise process for 20% quota for former Agniveers in Group C posts, sets June 30 deadline
 
 
-## Muslim families plan to leave Sangli village, protest at High Court after attack by Hindu group
+## NHAI goes AI way: In-house system deployed to flag faults in highway project reports, track road defects
 
+
+## SpaceX bankers prepare for potential US$20 billion bond offering, sources say
+⁠SpaceX’s bankers are preparing to meet investors as early as next week to discuss a bond offering of at least US$20 billion, two sources familiar with the matter said ‌on Thursday, as Elon Musk’s newly public company seeks funding for an ambitious and capital-intensive AI expansion. SpaceX’s AI amb
 
 ## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
 For the past few days, Tan Zhaohui has seen a familiar sight every time she has returned to her home in the southwestern Chinese city of Chengdu: a mound of packages spilling out of the nearby delivery station. The huge piles of e-commerce parcels have almost become an annual tradition in China over
@@ -159,32 +162,29 @@ Lenovo Group, the world’s largest personal-computer (PC) maker, plans to raise
 ## Hong Kong graduates prefer careers in finance, survey finds
 Hong Kong graduates believe the city’s finance industry is its most attractive and stable sector, making them more optimistic about career opportunities than their global peers, according to a study by the CFA Institute, which trains investment managers. The US-based institute’s “2026 Graduate Outlo
 
-## Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief
-Global investors remain committed to Chinese technology companies despite concerns that SpaceX’s record-breaking initial public offering (IPO) could drain liquidity from Asian markets, according to Hong Kong Exchanges and Clearing (HKEX) CEO Bonnie Chan Yiting. Speaking at the Lujiazui Forum in Shan
+## Israeli Officials and U.S. Lawmakers Slam Iran Deal
+The MOU is the “worst foreign policy blunder in decades,” Republican Sen. Bill Cassidy wrote.
+
+## Ordinary Iranians Won’t See a Dime of Trump’s Money
+As the public suffers, a corrupt regime prepares for a bonanza.
+
+## The Era of the French Intellectual Is Over
+The recently deceased Edgar Morin was the last reminder of a bygone phenomenon.
+
+## Will Colombia Elect Its Own Bukele?
+Abelardo de la Espriella promises megaprisons and more if he wins the presidency.
+
+## How the Iran War Reshaped the Global Landscape of Power
+The United States and Israel will be weaker for years to come.
+
+## The Iran Deal Is Hazy on Hormuz
+Everything is clear except what will happen to shipping and oil exports.
+
+## A Brief History of Political Trolling
+What was once a fringe style of provocation is now a ubiquitous weapon.
 
 ## The Real Reason Nothing Works in Britain
 Two new books hint at what’s actually beneath U.K. political and economic malaise.
-
-## The Iran War Damaged U.S.-India Ties
-Diplomatic fractures between the two strategic partners are likely to outlast the conflict.
-
-## The United States Has a Kafala Problem
-Qatar’s World Cup became known for migrant worker abuse. U.S. labor systems are similarly exploitative.
-
-## Ireland Is Becoming a French Military Protectorate
-Literally defenseless, Dublin is outsourcing security to Paris.
-
-## Multilateralism Is Dead. Long Live Plurilateralism.
-Coalitions of the willing are creating a “race to the top” on climate change, AI, and critical minerals.
-
-## Trump Defends His Iran Deal
-The White House detailed the deal’s terms after Trump defended it at the G-7.
-
-## U.S.-Iran Memorandum of Understanding: Full Text
-Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war.
-
-## How RFK Jr. Managed to Block Millions in Global Vaccine Funds
-$600 million in U.S. foreign aid for global vaccines is at risk.
 
 ## Floating Volcanic Rock Is Disrupting Life in Papua New Guinea
 The ongoing Titan Ridge eruption has left parts of PNG’s coast covered in meters of floating volcanic rock. For a community dependent on the ocean, that's a serious problem.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup 2026: South Africa grab 1-1 draw with Czechia with late penalty
-Teboho Mokoena equalises through a late penalty to salvage a draw for South Africa in their Group A clash with Czechia.
+## Brazil executes warrant against Lula ally in widening financial scandal
+Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.
 
-## Pakistan signs US-Iran MoU
-Pakistan’s Prime Minister Shehbaz Sharif signed a US-Iran memorandum of understanding aimed at ending the war.
+## Conjoined twins separated after surgery in Saudi Arabia
+Filipino conjoined twins Olivia and Gianna were successfully separated during a six-hour surgery in Saudi Arabia.
 
-## Israel says cutting ties with top EU diplomat over ‘apartheid’ comments
-The UN rights office has previously found that Israel is violating international laws that prohibit apartheid.
+## Neymar will not play in Brazil’s World Cup match against Haiti due to injury
+Brazil's record goal-scorer continues to struggle with injuries after being named in their World Cup 2026 squad.
 
-## Somalia warns Israel against meddling in Somaliland
-The message came after Somaliland opened its first overseas embassy this week, in Jerusalem.
+## Ivory Coast’s Elye Wahi granted Canadian visa hours after denial
+The forward will now be able to join his team in Toronto when they take on Germany on Saturday.
 
-## US vice president slams Israel over criticism of Trump’s Iran deal
-JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.
+## Netanyahu says Israel must protect relationship with US
+Israeli Prime Minister Benjamin Netanyahu pressed for the ‘preservation’ of Israel’s relationship with the US.
 
-## Grief, tears as families hold rites for Indian sailors killed in US strike
-Grief, tears as families hold last rites for Indian sailors killed in US strike.
+## Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump
+Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran.
 
-## Zimbabwe lawmakers back bill to extend president’s term in office
-Lower house of parliament passes legislation to extend presidential terms from five to seven years.
+## Iran’s supreme leader says approved US deal despite having ‘different’ view
+Iran says it has suspended Strait of Hormuz transit charges for commercial vessels for 60 days.
 
-## Giant Messi portrait carved into a Philippine beach for the World Cup
-A Filipino artist has created a giant sand portrait of Lionel Messi on a beach in Tandag, Philippines.
+## Gaza fans chase World Cup joy amid blackout, displacement and war
+World Cup matches offer residents of Gaza a brief escape from war, blackouts and life in tents.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
