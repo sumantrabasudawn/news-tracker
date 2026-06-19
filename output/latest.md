@@ -1,31 +1,40 @@
 # AION Intelligence
 
-## Transport secretary calls on Starmer to go
-Latest cabinet member to urge prime minister to set timetable for departure after Andy Burnham’s victory in Makerfield
+## Gold coin salesman orchestrated plot to set up rival, court finds
+Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
 
-## Warsh’ed and gleaned
-The new Fed chair’s first meeting contained enough information to move rate markets higher
+## Starmer’s allies insist he is ready to fight for his job
+Andy Burnham’s victory in Makerfield clears path for attempt to become Labour leader and prime minister
 
-## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
-Measures could be communist island’s biggest shake-up since the early years of the revolution in the 1960s
+## Britain needs a Labour contest, not a coronation
+Andy Burnham should be tested on his policies against other leadership contenders
 
 ## Israel and Hizbollah agree ceasefire
 Oil price falls on hopes agreement will bolster US-Iran deal
 
+## ‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war
+The country carries the seeds of escalation that could undo Trump’s tenuous deal with Tehran
+
+## Transport secretary calls on Starmer to go
+Cabinet member urges prime minister to set timetable for departure after Andy Burnham’s victory in Makerfield
+
+## Top civil servant apologises for breaking lobbying rules over Palantir adviser
+Samantha Jones failed to get clearance for consultancy work while at the Department for Health
+
+## Warsh’ed and gleaned
+The new Fed chair’s first meeting contained enough information to move rate markets higher
+
+## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
+Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
+
 ## EU set to remove barriers to banks’ cross-border capital flows
 Draft report by European Commission aims to boost performance of lenders in bloc compared with US rivals
-
-## Russian central bank chief’s absence stirs succession talk
-Elvira Nabiullina was a no-show at several recent high-profile events, sparking speculation about a shake-up
 
 ## The Knicks’ victory points to the value of scarcity
 The NBA team’s value continues to rise as investors chase a limited number of assets
 
 ## Indian billionaire Mukesh Ambani files for blockbuster Jio float
 Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
-
-## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
-Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
 
 ## Bank of England plans to dilute capital rules for investment banks’ trading activities
 UK regulator also publishes parameters of how it will stress-test private credit markets
@@ -39,29 +48,38 @@ Conservatives win in Aberdeen after criticising high taxes and limits on new oil
 ## Iran to seek ‘insurance fees’ for passage through Strait of Hormuz
 Vessels must hold Tehran-approved insurance policy to use vital waterway, says government agency
 
-## SBI Mutual Fund IPO gets SEBI approval
-The IPO will be one of the largest offerings in India’s financial services sector so far this year, the source added
+## Petrol and diesel demand defies May price hikes
+Consumption of both petrol and diesel increased in May even as consumers faced higher fuel costs
 
-## Chennai Petroleum Corporation gets Navratna status
-Chennai Petroleum Corporation gets financial independence and enhanced investment capabilities
+## Flipkart, Myntra see resilient demand despite consumption concerns: BofA
+The brokerage said investor concerns that inflationary pressures and softer consumer spending could hurt e-commerce growth have not materialised so far
 
-## SEBI board brings back open market buybacks, formalises new code of conduct
-The board approves independent assessment of SME framework, faster AIF scheme launches, and easier transmission of securities
+## Delhi High Court dismisses Telegram’s appeal against temporary ban
+In ⁠the ruling on Friday, Delhi High Court judge Tejas Karia said the government’s order was “least restrictive” and not disproportionate
 
-## Consumer product companies hope to see inflationary pressures following the US-Iran peace deal
-Companies are witnessing some softness in demand in terms of discretionary spends.
+## Indian cumin exports drop 28% in FY26 on reduced offtake from China
+Shipments to Beijing drop 76% on higher local production; Iran war also impacts dispatch of consignments
 
-## Ladakh bans single-use plastics, imposes penalties to curb littering
-The move comes amid concerns over accelerating glacier melt and growing calls to safeguard the region’s delicate environment
+## SC declares the right to walk carefree on footpaths a fundamental right
+The apex court judgment said walking powered the Freedom Struggle, politics and social reforms, but is yet to be recognised as a fundamental right; Asks government to frame a law to protect walkers on footpaths; Establish a regulator
 
-## Letters to the Editor dated June 19, 2026
+## Reliance eyes ₹4 lakh crore EBITDA by 2031; Bets big on AI and clean energy
+Reliance accelerates AI, satellite and clean energy ambitions alongside Jio IPO
 
+## Jio files for likely record IPO as focus shifts from buildout to monetisation
+Meta, Google, Silver Lake to stay invested as company readies fresh issue of 27 crore equity shares
 
-## Editorial. Reforming gold trade
-Gold ETF curbs can do more harm than good
+## Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth
+Nearly 60 per cent of FMCG companies’ D2C acquisitions over the past five years have been in the personal care segment, says Crisil Ratings
 
-## SpiceJet secures first tranche of ECLGS funding; receives ₹150 crore from Bank of India
-Budget carrier begins drawing down government-backed emergency credit line as it looks to strengthen liquidity
+## Rupee ends higher for second day, settles at 94.33 as trade deal hopes offset oil concerns
+The Indian rupee strengthened for a second day, closing at 94.33 against the US dollar, buoyed by positive India-US trade talks. Hopes for an interim trade agreement between the two nations are rising, with negotiators urged to expedite efforts. However, global uncertainties and a stronger dollar li
+
+## Jio IPO risk factors: From spectrum renewals to AI rules, key challenges flagged in draft papers
+Jio Platforms, gearing up for a massive IPO, has revealed significant risks including spectrum renewal challenges, cybersecurity threats, and evolving AI and data privacy regulations. The company also faces uncertainties in its satellite connectivity ventures and potential competition from within th
+
+## Kisan Credit Card rules revised: RBI standardises crop season norms, retains collateral-free loan limit
+The Reserve Bank of India has revamped the Kisan Credit Card (KCC) framework, standardizing crop season definitions and aligning them with banking asset-classification norms. Effective January 2027, these changes aim to simplify farm loan processes and ensure timely credit for agriculture and allied
 
 ## Sitharaman says external aid projects should help Northeast products reach global markets
 Union finance minister Nirmala Sitharaman emphasized that externally aided projects in the Northeast should empower local products for global markets and strengthen livelihoods. She highlighted a seven-fold increase in assistance, with over 10,000 km of roads built since 2014. Sitharaman underscored
@@ -78,14 +96,17 @@ While the proposed Jio IPO drew significant attention, Ambani used the company�
 ## Sebi brings back stock exchange buybacks, clears faster fundraising route for AIFs
 Market regulator Sebi has greenlit several key reforms, including the return of open market share buybacks via stock exchanges, offering companies a faster execution route. Mutual funds will see relaxed intra-day borrowing norms, and alternative investment funds can now raise capital quicker through
 
-## India's forex reserves tumble nearly $10 billion as gold holdings see sharp drop
-India's foreign exchange reserves saw a significant dip of nearly $10 billion, reaching $671.625 billion in the week ending June 12. This sharp decline was primarily driven by a substantial drop in gold reserves, despite a modest increase in foreign currency assets. Other components like Special Dra
+## Scuffle breaks out at Kolkata airport ahead of Abhishek Banerjee's arrival, supporter blames 'BJP person'
+A supporter of Abhishek Banerjee said a “BJP person" arrived at the airport, followed by some boys with eggs in their hands.
 
-## The Mutual Fund retreat: When war panic meets your SIP - what investors should do now
-Experts warn against panic selling, emphasizing the need to maintain investment discipline. In fact, the simplest advice is this: do nothing. That is the whole answer, and it is harder to follow than it sounds, he says.
+## TMC's Abhishek Banerjee meets LS Speaker, seeks disqualification of 20 'rebels'
+Altogether, 29 MPs got elected to the Lok Sabha on TMC tickets in the 2024 general elections. One MP passed away sometime ago and the seat remains vacant.
 
-## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
-Indian markets snapped a five-day winning streak on Friday, with the Sensex and Nifty closing lower. A sharp selloff in IT stocks, sparked by Accenture's reduced growth forecast, and renewed geopolitical concerns weighed on investor sentiment. The postponement of US-Iran peace talks added to the cau
+## Yellow alert in Delhi; rain, thunderstorms and gusty winds likely tonight
+The city began the day under partly cloudy skies, with the minimum temperature recorded at 27 degrees Celsius, 0.5 notches below the seasonal average.
+
+## Dust biggest contributor to PM2.5 concentrations during summers in Delhi-NCR: Air quality panel official
+Dust's role in PM2.5 concentrations during summers stood at 27 per cent compared to 15 per cent during winters, a CAQM official said on Friday.
 
 ## ‘Apologise for defection, will step down if you don’t have trust': Uddhav to Sena workers amid rebellion buzz
 While addressing the gathering at Shiv Sena's 60th foundation day, Uddhav attacked the BJP and said the country is moving towards ‘one party, no election’
@@ -99,40 +120,28 @@ In another video purportedly linked to the same incident, Christian can be seen 
 ## UBT Sena rebels miss key party event, Uddhav clarifies on Congress 'merger' plans: Maharashtra crisis grows
 The development has further fuelled speculation of a split in the Uddhav Thackeray-led faction as it comes a day after the six MPs skipped a key party meeting.
 
-## Rajasthan-born physicist Jainendra K Jain wins Wolf Prize in Physics
-Jainendra K Jain's discovery of composite fermions transformed quantum physics and earned him the Wolf Prize, one of science's top honours.
-
-## SC rejects plea challenging NEET retest
-The Supreme Court declined an urgent hearing on NEET-UG 2026 petition, citing stress among candidates amid concerns over exam integrity and preparation time.
-
-## Delhi inaugurates first women’s police station in North district
-The station would handle cases of all categories of crimes against women, including domestic violence cases, harassment, among others.
-
-## NEET-UG retest: NMC bars leave for medical students to block proxy candidates
-NMC secretary Dr Raghav Langer said this was a preventive step to discourage any potential misuse and to support the fair conduct of the examination
-
-## UPSC Essentials daily subject quiz : Environment and Geography MCQs (Week 167)
+## What Iran’s missile warning means for the 60-day US-Iran negotiations
 
 
-## SEBI board reintroduces open-market buyback for corporates
+## Akshay Kumar opens up about his retirement plans: ‘This thought comes to me at 4 am’
 
 
-## Gippy Grewal recalls cleaning food trays at a mall in Canada: ‘Did toilet cleaning too’
+## Afghan Taliban claims air strikes on ‘ISIS hideouts’ in Pakistan’s Balochistan and Khyber Pakhtunkhwa; Islamabad calls claim ‘baseless’
 
 
-## Elected Jharkhand MP after cross-voting by Congress allies: Who is Parimal Nathwani?
+## Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships
 
 
-## Why Divyanka Tripathi had only soups, salads during pregnancy: ‘Was eating chaat also’
+## FDA denies allegations of interference in food poisoning probe
 
 
-## Nani reveals Raghav Juyal’s rage-fuelled avatar as Vikram Maalik in The Paradise, watch
+## Trump says Iran is ‘finished’; Israel and Hezbollah agree to ceasefire: 10 key developments
 
 
-## Strait of Hormuz reopens after US-Iran MoU, but world has lost 1.15 billion barrels: Report
+## How this Pune eatery is preserving a vanishing Kashmiri culinary tradition
 
 
-## No relief for woman advocate accused of creating ruckus at police station
+## Neeraj Chopra LIVE Updates, Doha Diamond League 2026: Neeraj on 4th with a 82.77m throw; Peters leads
 
 
 ## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
@@ -255,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Destruction is the goal’: Israel steers between the US, Iran, and Lebanon
-Netanyahu faces political backlash and US criticism as Israeli attacks on Lebanon defy Iran peace agreement.
+## More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’
+Aid cuts and poor sanitation are deepening fears that Ebola is spreading through displacement camps.
 
-## Cuba: Between charcoal and solar panels
-Millions of Cubans have grown accustomed to living without electricity for long periods of time.
+## Dramatic rescue as fire rips through school in Japan
+Eyewitness video shows dozens of schoolchildren forced onto a narrow window ledge after a fire broke out in Tokyo.
 
-## Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow
-Ukraine increases strikes on Russian oil and weapons infrastructure as it garners aid and begins EU talks.
+## Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story
+The Italian prime minister has accused Trump of making up a story that she 'begged' him for a photo at G7 in France.
 
-## From outsider to president? Inside de la Espriella’s bid to lead Colombia
-A political newcomer, de la Espriella has reached the last round of Colombia's presidential race. What would a win mean?
+## How is China using AI in the classroom?
+How will teaching artificial intelligence help China take on a high-tech future?
 
-## Three killed in Ukraine a day after drone attack kills child in Moscow
-The Kremlin said it will 'continue' striking Ukraine after biggest-ever drone attack on Russian capital.
+## Israeli air strikes hit Lebanon minutes after new ceasefire
+Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon
 
-## Trump’s Iran deal: A victory lap before the victory
-The MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.
+## Two men jailed for arson attacks on property linked to UK prime minister
+The Ukrainian-born men with alleged links to Russia targeted property associated with Keir Starmer in May 2025.
 
-## More than a game: Football, friendship and mental health recovery
-Men recovering from bipolar disorder, schizophrenia and other mental health challenges find help through football.
+## Israel continues attacks on Lebanon despite agreeing to ceasefire
+At least 47 people killed in Israeli attacks on Lebanon since midnight as US-Iran talks stall.
 
-## Trump takes aim at critics of US-Iran MoU, says Iran ‘finished’
-Trump says deal amounts to Iran's 'unconditional surrender'; Negotiations thrown into doubt as Vance delays trip.
+## Germany and Ivory Coast aim to seal World Cup knockout place: All to know
+Team news, prediction, and lineups as Germany and Ivory Coast meet in Group E aiming to secure last-32 qualification.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
