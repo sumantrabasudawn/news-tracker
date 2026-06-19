@@ -1,13 +1,34 @@
 # AION Intelligence
 
-## Starmer refuses to step down to make way for Burnham
-Greater Manchester mayor’s victory in pivotal Makerfield poll has turbocharged his bid for Number 10
+## Transport secretary calls on Starmer to go
+Latest cabinet member to urge prime minister to set timetable for departure after Andy Burnham’s victory in Makerfield
 
-## Meloni accuses Trump of pandering to west’s enemies
-Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
+## Warsh’ed and gleaned
+The new Fed chair’s first meeting contained enough information to move rate markets higher
 
-## Andy Burnham will need to play a new card now
-His winning campaign in Makerfield was long on hope but a vague prospectus won’t be enough in Number 10
+## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
+Measures could be communist island’s biggest shake-up since the early years of the revolution in the 1960s
+
+## Israel and Hizbollah agree ceasefire
+Oil price falls on hopes agreement will bolster US-Iran deal
+
+## EU set to remove barriers to banks’ cross-border capital flows
+Draft report by European Commission aims to boost performance of lenders in bloc compared with US rivals
+
+## Russian central bank chief’s absence stirs succession talk
+Elvira Nabiullina was a no-show at several recent high-profile events, sparking speculation about a shake-up
+
+## The Knicks’ victory points to the value of scarcity
+The NBA team’s value continues to rise as investors chase a limited number of assets
+
+## Indian billionaire Mukesh Ambani files for blockbuster Jio float
+Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
+
+## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
+Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
+
+## Bank of England plans to dilute capital rules for investment banks’ trading activities
+UK regulator also publishes parameters of how it will stress-test private credit markets
 
 ## Medallia’s collapse turns private credit into a private equity problem
 Private lenders that once fancied themselves as ‘coupon clippers’ had better be prepared to run companies as equity owners
@@ -15,50 +36,47 @@ Private lenders that once fancied themselves as ‘coupon clippers’ had better
 ## Tories’ Scotland victory adds to Reform UK’s woes
 Conservatives win in Aberdeen after criticising high taxes and limits on new oil and gas exploration
 
-## Don’t blame passive investors if SpaceX is mispriced
-Index funds don’t misallocate capital — that’s what stock pickers do
-
 ## Iran to seek ‘insurance fees’ for passage through Strait of Hormuz
 Vessels must hold Tehran-approved insurance policy to use vital waterway, says government agency
 
-## Indian billionaire Mukesh Ambani lines up blockbuster Jio float
-Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
+## SBI Mutual Fund IPO gets SEBI approval
+The IPO will be one of the largest offerings in India’s financial services sector so far this year, the source added
 
-## Bank of England plans to dilute capital rules for investment banks’ trading activities
-UK regulator also publishes parameters of how it will stress-test private credit markets
+## Chennai Petroleum Corporation gets Navratna status
+Chennai Petroleum Corporation gets financial independence and enhanced investment capabilities
 
-## The future according to Opec
-Oil cartel’s demand projections look like wishful thinking
+## SEBI board brings back open market buybacks, formalises new code of conduct
+The board approves independent assessment of SME framework, faster AIF scheme launches, and easier transmission of securities
 
-## What makes a joint venture? For Metlen, it’s complicated
-An excursion off the balance sheet of a Greek industrial curiosity
+## Consumer product companies hope to see inflationary pressures following the US-Iran peace deal
+Companies are witnessing some softness in demand in terms of discretionary spends.
 
-## Asda losses widen to nearly £1bn
-TDR-backed UK supermarket chain had slashed prices to try to win back customers
+## Ladakh bans single-use plastics, imposes penalties to curb littering
+The move comes amid concerns over accelerating glacier melt and growing calls to safeguard the region’s delicate environment
 
-## Kerala budget proposes dedicated gold corridor in Kochi-Thrissur belt
-The initiative aims to strengthen value addition within the State, create skilled employment opportunities, and position Kerala as a global centre for jewellery design, manufacturing, and trade
-
-## Budget unveils ambitious Southern Kerala economic corridor
-The Southern Kerala Economic Corridor will engineer a robust blended economy and attract massive private investment
-
-## Steelcase Expands India Presence with Flagship Dealer Showroom in Chennai
+## Letters to the Editor dated June 19, 2026
 
 
-## 1924 Clock House — India’s Premier Colonial-Era Heritage Resort Debuts in Munnar, Kerala
+## Editorial. Reforming gold trade
+Gold ETF curbs can do more harm than good
 
+## SpiceJet secures first tranche of ECLGS funding; receives ₹150 crore from Bank of India
+Budget carrier begins drawing down government-backed emergency credit line as it looks to strengthen liquidity
 
-## Harper Collins Publishers India is Delighted to Announce the Recent Publication of ‘People We Love’ by Preeti Shenoy
+## Sitharaman says external aid projects should help Northeast products reach global markets
+Union finance minister Nirmala Sitharaman emphasized that externally aided projects in the Northeast should empower local products for global markets and strengthen livelihoods. She highlighted a seven-fold increase in assistance, with over 10,000 km of roads built since 2014. Sitharaman underscored
 
+## Sebi clears SBI Mutual Fund IPO; Rs 13,000 crore share sale likely next month
+India's largest asset manager, SBI Mutual Fund, has secured Sebi's nod for its Rs 13,000 crore initial public offering. The upcoming share sale, an offer for sale by existing shareholders State Bank of India and Amundi India Holding, is slated for next month. This listing will bring the country's bi
 
-## Resilience Actions, a Re Sustainability Initiative, Launches ECOHUB.IN to Power India’s Climate and Circular Economy Innovation Ecosystem
+## Reliance’s Jio Platforms IPO: From Meta, Google backing to AI ambitions — 10 takeaways from what could be India's biggest public issue
+Jio Platforms is set to launch India's largest IPO, aiming to raise $4 billion and valuing the digital giant at $137 billion. This move by Reliance Industries aims to unlock value from its expansive digital services, including connectivity, broadband, and AI. The offering exclusively involves fresh 
 
+## RIL AGM: From Jio Platforms IPO & satellite broadband focus to big AI & renewable energy plans - top takeaways
+While the proposed Jio IPO drew significant attention, Ambani used the company’s annual shareholder meeting to lay out Reliance’s future growth strategy, identifying artificial intelligence as one of the most important pillars of the group’s next chapter.
 
-## MediThinQ and Synovis Micro Companies Alliance, Inc. Announce Strategic Global Distribution Agreement to Redefine Microsurgery with the SHIYA 3D Visualization Platform
-Multi-year exclusive agreement to expand access to next-generation 3D surgical visualization worldwide
-
-## IDBI Bank Introduces FCNR(B) Special Opportunity Deposit in USD with Attractive Returns for NRIs on Foreign Currency Deposits
-Mumbai, Maharashtra, India – Business Wire India
+## Sebi brings back stock exchange buybacks, clears faster fundraising route for AIFs
+Market regulator Sebi has greenlit several key reforms, including the return of open market share buybacks via stock exchanges, offering companies a faster execution route. Mutual funds will see relaxed intra-day borrowing norms, and alternative investment funds can now raise capital quicker through
 
 ## India's forex reserves tumble nearly $10 billion as gold holdings see sharp drop
 India's foreign exchange reserves saw a significant dip of nearly $10 billion, reaching $671.625 billion in the week ending June 12. This sharp decline was primarily driven by a substantial drop in gold reserves, despite a modest increase in foreign currency assets. Other components like Special Dra
@@ -69,68 +87,56 @@ Experts warn against panic selling, emphasizing the need to maintain investment 
 ## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
 Indian markets snapped a five-day winning streak on Friday, with the Sensex and Nifty closing lower. A sharp selloff in IT stocks, sparked by Accenture's reduced growth forecast, and renewed geopolitical concerns weighed on investor sentiment. The postponement of US-Iran peace talks added to the cau
 
-## India opens dumping probe into Chinese, Japanese chemical used in tyres and rubber products
-India has initiated an anti-dumping investigation into Resorcinol imports from China and Japan. This key chemical is vital for tyre and rubber manufacturing. The probe follows allegations that low-priced shipments are harming domestic producers. The Directorate General of Trade Remedies is conductin
+## ‘Apologise for defection, will step down if you don’t have trust': Uddhav to Sena workers amid rebellion buzz
+While addressing the gathering at Shiv Sena's 60th foundation day, Uddhav attacked the BJP and said the country is moving towards ‘one party, no election’
 
-## Stock market today: Sensex closes over 600 points down, Nifty50 above 24,000 - not just IT stocks, HDFC Bank & RIL also drag down indices
-The BSE Sensex, comprising 30 stocks, ended the session 607.08 points, or 0.78%, lower at 76,802.90. During intraday trade, the index had fallen as much as 940.26 points, or 1.21%, touching 76,469.72.The NSE Nifty closed down 154.90 points, or 0.64%, at 24,013.10.
+## IndiGo flight, with 140 onboard, suffers lightning strike at Kolkata airport
+Two IndiGo ground staff members were reportedly affected by the lightning strike and received medical treatment.
 
-## Pvt sector banks see drop in accuracy of data reporting
+## US citizen arrested for indecent behaviour in Shimla after viral video sparks outrage: Watch
+In another video purportedly linked to the same incident, Christian can be seen knocking a cap off a man's head while yelling at him.
 
+## UBT Sena rebels miss key party event, Uddhav clarifies on Congress 'merger' plans: Maharashtra crisis grows
+The development has further fuelled speculation of a split in the Uddhav Thackeray-led faction as it comes a day after the six MPs skipped a key party meeting.
 
-## India-UK trade pact to open new opportunities beyond commerce, mobility boost key benefit: Vikram Misri
-India and the UK will enter into a Comprehensive Economic and Trade Agreement on July 15, deepening ties beyond trade and technology to foster new opportunities for businesses and people. This pact aims to significantly boost annual bilateral trade from its current £48 billion.
+## Rajasthan-born physicist Jainendra K Jain wins Wolf Prize in Physics
+Jainendra K Jain's discovery of composite fermions transformed quantum physics and earned him the Wolf Prize, one of science's top honours.
 
-## India's golden treasure: Andhra Pradesh to become country's largest top gold producer
-Andhra Pradesh is set to become India's leading gold supplier, with significant reserves identified in Kurnool district. Jonnagiri village alone is estimated to hold 50 tonnes of gold. Commercial production has commenced, and further exploration is expected to boost reserves. The state aims to lever
+## SC rejects plea challenging NEET retest
+The Supreme Court declined an urgent hearing on NEET-UG 2026 petition, citing stress among candidates amid concerns over exam integrity and preparation time.
 
-## Supreme Court denies urgent hearing on plea to defer June 21 NEET-UG retest
-On May 29, the Supreme Court directed the Centre to file an affidavit in a pending case and detail how and in what manner the NEET examination would be conducted
+## Delhi inaugurates first women’s police station in North district
+The station would handle cases of all categories of crimes against women, including domestic violence cases, harassment, among others.
 
-## 'Vague, bald': SC dismisses plea for probe into TVK trust vote win in Tamil Nadu
-Terming the plea as based on “vague, bald and casual” allegations, a bench led by Chief Justice of India (CJI) Surya Kant rejected the petition
+## NEET-UG retest: NMC bars leave for medical students to block proxy candidates
+NMC secretary Dr Raghav Langer said this was a preventive step to discourage any potential misuse and to support the fair conduct of the examination
 
-## Rare handshake after Army repatriates Pakistani national who crossed LoC
-The Indian Army on Friday said it handed over Asad Khan, a resident of Pakistan's Khyber Pakhtunkhwa province, to the Pakistan Army.
-
-## Considering mandatory durability certificates for buildings: Khattar
-The Centre may require durability certifications for buildings due to safety concerns, Minister Khattar announced, amid quality crisis evidence.
-
-## At least 2 killed, 3 injured as vehicle plunges into gorge, catches fire in Uttarakhand's Barakot
-The bodies of the deceased were recovered and handed over to the district police for further legal proceedings.
-
-## 32 out of 2,766 buses on roads: BEST strike in Mumbai leaves commuters stranded
-The BEST buses are the life-blood of Mumbai and one of the most frequently used modes of transport. Only 32 buses could operate on Friday morning.
-
-## ‘You asked for a minute, we gave 7’: Supreme Court slams advocate while junking ‘wild’ plea against defections
-Dismissing the matter, the Bench said the plea was founded on "vague, wild and casual allegations" and lacked any reliable material on record.
-
-## 20-year-old due to reappear for NEET dies after falling from Indore building
-Santosh Dudhi, a police officer, said prima facie it appears to be a suicide, but they are not ruling out the possibility of an accident
-
-## Government that swears by nari shakti, fails women repeatedly
+## UPSC Essentials daily subject quiz : Environment and Geography MCQs (Week 167)
 
 
-## Tech updates (June 19, 2026): Adobe update, Haier P7 Pro TVs, Instagram’s new feature, more
+## SEBI board reintroduces open-market buyback for corporates
 
 
-## A gardener, an orderly, a writer: Ninder Ghugianvi bags a national honour
+## Gippy Grewal recalls cleaning food trays at a mall in Canada: ‘Did toilet cleaning too’
 
 
-## ‘Can’t be brushed aside’: SC backs Bar rooms for women, fund for lawyers
+## Elected Jharkhand MP after cross-voting by Congress allies: Who is Parimal Nathwani?
 
 
-## Gurgaon woman marries co-founder: ‘No clean separation between life and business’
+## Why Divyanka Tripathi had only soups, salads during pregnancy: ‘Was eating chaat also’
 
 
-## Man orders 2 Redmi phones from Flipkart, gets only 1, wins Rs 50,000 payout
+## Nani reveals Raghav Juyal’s rage-fuelled avatar as Vikram Maalik in The Paradise, watch
 
 
-## The missing ingredient in India’s innovation story is not ambition. It is competition and better policy
+## Strait of Hormuz reopens after US-Iran MoU, but world has lost 1.15 billion barrels: Report
 
 
-## For every pound gained, here’s how much extra pressure the knees endure
+## No relief for woman advocate accused of creating ruckus at police station
 
+
+## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
+Alibaba Group delivered its strongest defence yet of an “all in” artificial intelligence strategy on Thursday, with chairman Joe Tsai arguing that AI could ultimately represent a US$50 trillion market and vowing to invest across the industry’s entire value chain rather than bet on a single winner. S
 
 ## Hong Kong singer Eason Chan snaps up US$23m home as celebrities flock to luxury property
 Hong Kong actor and singer Eason Chan bought a HK$182.53 million (US$23.29 million) property in the city’s Southern district, according to official records, joining a list of the rich and famous who have recently snapped up luxury homes. Chan, whose full name on the official record was Chan Yick Shu
@@ -152,9 +158,6 @@ Hong Kong’s latest push to attract corporate treasury centres (CTCs) could pro
 
 ## SpaceX bankers prepare for potential US$20 billion bond offering, sources say
 ⁠SpaceX’s bankers are preparing to meet investors as early as next week to discuss a bond offering of at least US$20 billion, two sources familiar with the matter said ‌on Thursday, as Elon Musk’s newly public company seeks funding for an ambitious and capital-intensive AI expansion. SpaceX’s AI amb
-
-## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
-For the past few days, Tan Zhaohui has seen a familiar sight every time she has returned to her home in the southwestern Chinese city of Chengdu: a mound of packages spilling out of the nearby delivery station. The huge piles of e-commerce parcels have almost become an annual tradition in China over
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -180,29 +183,29 @@ As the public suffers, a corrupt regime prepares for a bonanza.
 ## The Era of the French Intellectual Is Over
 The recently deceased Edgar Morin was the last reminder of a bygone phenomenon.
 
-## Islamabad’s Crisis of Control in Pakistan-Administered Kashmir
-Grievances over political representation will remain a powerful means of mobilizing opposition against the Pakistani state.
+## Beijing’s Bullying of Taiwan Threatens Ocean Ecology
+China managed to secure Taiwan’s exclusion from a Track 2 platform designed to address maritime ecology. It’s a worrying escalation of China’s political warfare.
 
-## Indian Joint Air Defense Doctrine: Implications for South Asian Stability
-In the South Asian strategic environment, even defensive measures can generate negative outcomes.
+## North Korea’s Quiet Campaign to Be a ‘Responsible’ Nuclear Power
+As U.N. sanctions enforcement fragments, Pyongyang is waging a second contest – over status – that is visible only in the original Korean.
 
-## Fighting with Ghosts: Sar Sokha’s Belated Sanctions Panic
-Cambodia’s Interior Minister appears to have found an adversary in Washington: a sanctions list that no longer exists.
+## How Saudi Arabia Derailed Pakistan’s Africa Drive
+Pakistan’s aspirations in Africa are growing, but its ability to realize them remains constrained by economic weakness, dependence on external financing, and the shifting priorities of its most important allies.
 
-## MSCI Raises New Transparency Concerns About Indonesia as Emerging Markets Verdict Looms
-The global index provider has threatened to downgrade the country to "frontier market" status due to the lack of transparency in its stock market.
+## When the Davidson Window Meets the ‘Xi Window’
+The Davidson Window measures China’s military capability to invade Taiwan. Arguably more important is Xi Jinping’s confidence in his military.
 
-## Indonesia-Timor Leste Reconciliation: ‘Through Memory Towards Hope’
-The fact that the two nations managed to reconcile after their painful history is a true feat of diplomacy – one that holds lessons for the world today.
+## South Korea’s Nuclear Ambitions Clash With Political Realities
+South Korea’s ruling party failed to secure key races, underlining the need to steer the country’s nuclear future with more than just political momentum.
 
-## On the Bangladesh-India Border, BJP Victories Spike Anxieties
-Since the BJP takeover of West Bengal, Muslims and Rohingyas in the region talk among themselves in hushed tones and try not to attract attention, worried about their fate.
+## In China, Christianity Is Treated as a Cult
+The CCP has decided some fundamental tenets of Christianity mark out the world’s largest faith as a cult, and one that needs vigorous suppression.
 
-## The USMCA Review Will Be a China (and Asia) Policy Test for Mexico
-Washington wants Mexico to prove it is not a backdoor for China. But Mexico’s factories still depend on Asian inputs.
+## The Last Maoist: What Next for India?
+A victory that leaves governance deficits intact, rehabilitation frameworks underperforming, extractive interests empowered, and surveillance tools normalized is not a full resolution.
 
-## Wang Yi’s Visit and Mongolia’s Foreign Policy Balancing Act
-How does the Chinese foreign minister’s trip intersect with Mongolia’s hosting of the U.N. desertification conference and its broader “third neighbor” policy?
+## From Space to the Polar Depths: China Aims for a Three-Dimensional Presence in the Arctic
+The Arctic – where polar, deep sea, and space intersect – offers a particularly revealing case for China’s ambitions in the “strategic new frontiers.”
 
 ## Why India Will Stick with America
 The Trump administration has not been kind to India. Nevertheless, India has responded with far greater equanimity than most observers expected. Predictions that President Donald Trump’s behavior will hurt U.S.-Indian relations have not come to pass, with the leaders of the two countries remaining i
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Search continues for kidnapped Mexican journalist Roxana Guzman
-Search continues for kidnapped Mexican journalist Roxana Guzman
+## ‘Destruction is the goal’: Israel steers between the US, Iran, and Lebanon
+Netanyahu faces political backlash and US criticism as Israeli attacks on Lebanon defy Iran peace agreement.
 
-## Starmer’s future hangs in balance after Burnham’s Makerfield election win
-Ashton-in-Makerfield, a town few knew of until recently, has potentially chosen the UK's next prime minister.
+## Cuba: Between charcoal and solar panels
+Millions of Cubans have grown accustomed to living without electricity for long periods of time.
 
-## Afghanistan strikes targets in Pakistan, raising cross-border tension
-The strikes are the latest threat to the fragile ceasefire between Afghanistan and Pakistan.
+## Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow
+Ukraine increases strikes on Russian oil and weapons infrastructure as it garners aid and begins EU talks.
 
-## Could the HPV vaccine eliminate cervical cancer deaths?
-The HPV vaccine has reduced the risk of cervical cancer death before age 30 to effectively zero in the United Kingdom.
+## From outsider to president? Inside de la Espriella’s bid to lead Colombia
+A political newcomer, de la Espriella has reached the last round of Colombia's presidential race. What would a win mean?
 
-## Trump hints at new approach to North Korea’s nuclear programme
-South Korea's president said Trump had told him the 'time had come' to focus on North Korea 'issue' at the G7 summit.
+## Three killed in Ukraine a day after drone attack kills child in Moscow
+The Kremlin said it will 'continue' striking Ukraine after biggest-ever drone attack on Russian capital.
 
-## World Cup: Will Pulisic play against Australia and can USMNT qualify?
-Will Christian Pulisic be fit for United States as they seek to secure top spot in Group D with win over Australia?
+## Trump’s Iran deal: A victory lap before the victory
+The MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.
 
-## Arsenal to begin Premier League title defence against promoted Coventry
-The first match of the 2026-27 season sees the top-flight champions face the second-tier Championship winners.
+## More than a game: Football, friendship and mental health recovery
+Men recovering from bipolar disorder, schizophrenia and other mental health challenges find help through football.
 
-## Brazil vs Haiti: World Cup – Prediction, how to watch and will Neymar play?
-Five-time champions face Haiti in Philadelphia and need a win after a disappointing draw in their tournament opener.
+## Trump takes aim at critics of US-Iran MoU, says Iran ‘finished’
+Trump says deal amounts to Iran's 'unconditional surrender'; Negotiations thrown into doubt as Vance delays trip.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
