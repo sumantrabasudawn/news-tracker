@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## One person dead and 89 injured after UK train crash
+Collision on the Midland main line is the first fatal rail incident in nearly two years
+
+## Trump accepts Qatar jet as new Air Force One despite ethics concerns
+The $400mn gift has raised charges of conflicts between personal interests and official duties
+
 ## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
 Measures could be communist island’s biggest shake-up since the early years of the revolution in the 1960s
 
@@ -21,11 +27,11 @@ Plus, what Reform’s Makerfield defeat means for Farage
 ## Third Heathrow runway would add just 0.05% to UK GDP, government finds
 Forecast by Department for Transport is a tenth of level predicted by the airport
 
-## Gold coin salesmen orchestrated plot to set up rival, court finds
-Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
-
 ## Germany’s financial watchdog removes three Berenberg bosses
 BaFin’s move comes as country’s oldest lender reports possible breaches of corporate governance
+
+## Gold coin salesmen orchestrated plot to set up rival, court finds
+Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
 
 ## Directors’ Deals: Greencore’s non-executive chair spies a bargain
 Transaction expenses pushed the group into a pre-tax loss
@@ -35,12 +41,6 @@ Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster
 
 ## EU set to remove barriers to banks’ cross-border capital flows
 Draft report by European Commission aims to boost performance of lenders in bloc compared with US rivals
-
-## The Knicks’ victory points to the value of scarcity
-The NBA team’s value continues to rise as investors chase a limited number of assets
-
-## Indian billionaire Mukesh Ambani files for blockbuster Jio float
-Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
 
 ## Petrol and diesel demand defies May price hikes
 Consumption of both petrol and diesel increased in May even as consumers faced higher fuel costs
@@ -114,6 +114,9 @@ While addressing the gathering at Shiv Sena's 60th foundation day, Uddhav attack
 ## IndiGo flight, with 140 onboard, suffers lightning strike at Kolkata airport
 Two IndiGo ground staff members were reportedly affected by the lightning strike and received medical treatment.
 
+## Brazil vs Haiti, FIFA World Cup 2026 LIVE Score: Focus on Vinicius as BRA eye win over HAI at Philadelphia
+
+
 ## ‘Didn’t realise he was triggered over not firing her’: Wife of doctor who killed help
 
 
@@ -135,8 +138,8 @@ Two IndiGo ground staff members were reportedly affected by the lightning strike
 ## Two trains collide north of London, multiple injuries reported
 
 
-## On return, Neeraj Chopra qualifies for the Commonwealth Games
-
+## Energy storage: China’s battery power sets stage for global leadership
+On a sunny morning in late May, a massive laboratory designed to create extreme conditions – from melting heat to bone-cracking cold, howling sandstorms, corrosive ocean spray and even fire – officially opened in the coastal city of Xiamen, in eastern China’s Fujian province. Equivalent in size to 1
 
 ## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
 Alibaba Group delivered its strongest defence yet of an “all in” artificial intelligence strategy on Thursday, with chairman Joe Tsai arguing that AI could ultimately represent a US$50 trillion market and vowing to invest across the industry’s entire value chain rather than bet on a single winner. S
@@ -158,9 +161,6 @@ Hong Kong homebuyers showed interest in 130 flats put on sale by developers on T
 
 ## Why Hong Kong’s new corporate treasury centre plan could be a game changer
 Hong Kong’s latest push to attract corporate treasury centres (CTCs) could prove a turning point in its efforts to lure mainland Chinese and multinational companies, strengthening the city’s position as an international financial centre, according to industry participants. The government last week u
-
-## SpaceX bankers prepare for potential US$20 billion bond offering, sources say
-⁠SpaceX’s bankers are preparing to meet investors as early as next week to discuss a bond offering of at least US$20 billion, two sources familiar with the matter said ‌on Thursday, as Elon Musk’s newly public company seeks funding for an ambitious and capital-intensive AI expansion. SpaceX’s AI amb
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## USA beat Australia 2–0 to book knockout spot at World Cup
+An own goal and a goal by Alex Freeman helped the home side maintain a perfect record and progress to the Round of 32.
+
+## Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match
+'It's not the time to play a whole match,' Lamine Yamal said ahead of Spain's match against Saudi Arabia.
+
 ## Canada’s Kone undergoes major leg surgery; to miss rest of World Cup
 Kone is expected to make a full recovery after breaking his left leg, with multiple fractures, in the match against Qatar.
 
@@ -275,12 +281,6 @@ Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.
 
 ## Brazil vs Haiti LIVE: World Cup 2026
 Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the Group C clash.
-
-## The UK: No. 10 Revolving Door
-UK PM Keir Starmer faces growing pressure after Andy Burnham’s by-election win.
-
-## Iran deputy FM says ‘ready to move forward’ in deal with US
-Deputy FM Khatibzadeh tells Al Jazeera diplomacy is way forward, but US must ensure Israel stops attacks on Lebanon.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
