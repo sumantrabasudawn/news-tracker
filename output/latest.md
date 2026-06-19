@@ -1,144 +1,135 @@
 # AION Intelligence
 
-## Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say
-Tehran pushes back nuclear negotiations in Switzerland following attacks
+## Starmer refuses to step down to make way for Burnham
+Greater Manchester mayor’s victory in pivotal Makerfield poll has turbocharged his bid for Number 10
 
-## Is Rote the new Bali?
-The Indonesian island is in its Goldilocks era. Go before it gets crazy
+## Meloni accuses Trump of pandering to west’s enemies
+Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
 
-## ‘Abysmal’: Farage’s Reform UK suffers another by-election blow
-Anti-immigration party hit by candidate’s offensive comments and a progressive coalition
+## Andy Burnham will need to play a new card now
+His winning campaign in Makerfield was long on hope but a vague prospectus won’t be enough in Number 10
 
-## UK’s May borrowing surge lays bare fiscal hurdles that Burnham would face
-Higher debt interest payments drive monthly deficit to £23.3bn
+## Medallia’s collapse turns private credit into a private equity problem
+Private lenders that once fancied themselves as ‘coupon clippers’ had better be prepared to run companies as equity owners
 
-## Soft Japan inflation will not ease BoJ fears of falling behind the curve
-Fuel subsidies are keeping price pressures muted for now, but policymakers are signalling another tightening soon
+## Tories’ Scotland victory adds to Reform UK’s woes
+Conservatives win in Aberdeen after criticising high taxes and limits on new oil and gas exploration
 
-## Burnham storms to by-election victory in challenge to Starmer
-Greater Manchester mayor defeats Farage’s Reform UK in pivotal Makerfield poll
+## Don’t blame passive investors if SpaceX is mispriced
+Index funds don’t misallocate capital — that’s what stock pickers do
 
-## KPMG Australia accused of ‘culture of fear, retribution’ in bruising hearing
-Former head of audit admits to senators the firm accessed whistleblower’s laptop
+## Iran to seek ‘insurance fees’ for passage through Strait of Hormuz
+Vessels must hold Tehran-approved insurance policy to use vital waterway, says government agency
 
-## A reprieve for gilts
-Plus Asian inflation
+## Indian billionaire Mukesh Ambani lines up blockbuster Jio float
+Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
 
-## FirstFT: Labour’s Andy Burnham wins crucial UK by-election
-Also in today’s newsletter: Russia’s absent central bank chief and Palantir’s UK foes
+## Bank of England plans to dilute capital rules for investment banks’ trading activities
+UK regulator also publishes parameters of how it will stress-test private credit markets
 
-## German electricity grid equipment maker SGB-SMIT in early IPO talks
-Company’s valuation could top €4bn as investors focus on AI and data centre boom
+## The future according to Opec
+Oil cartel’s demand projections look like wishful thinking
 
-## The tech giant mining Wall Street for AI cash
-Former Goldman Sachs executive Dina Powell McCormick is helping Meta find ways to finance its AI ambitions
+## What makes a joint venture? For Metlen, it’s complicated
+An excursion off the balance sheet of a Greek industrial curiosity
 
-## Iran’s ships head homeward to Gulf for ‘business as usual’ after US deal
-Tracking data shows cargo vessels departing from Malaysian waters as Washington reaches agreement with Tehran
+## Asda losses widen to nearly £1bn
+TDR-backed UK supermarket chain had slashed prices to try to win back customers
 
-## Blavatnik’s DAZN overhauls structure for potential new equity or IPO
-Lossmaking sports streamer restructures business to make it easier to raise new money
+## Kerala budget proposes dedicated gold corridor in Kochi-Thrissur belt
+The initiative aims to strengthen value addition within the State, create skilled employment opportunities, and position Kerala as a global centre for jewellery design, manufacturing, and trade
 
-## Stockpickers: Castings, Tatton Asset Management, Boohoo Group
-Our experts discuss which companies to buy, sell or hold this week
+## Budget unveils ambitious Southern Kerala economic corridor
+The Southern Kerala Economic Corridor will engineer a robust blended economy and attract massive private investment
 
-## Are insurers becoming dangerously addicted to private credit ratings?
-We should worry about what happens when regulatory arbitrage goes unchecked
-
-## Sensex today | Stock Market Live: Sensex sheds 700 pts, Nifty slips below 24,000; Jio DRHP, IPO to be filed today
-Sensex, Nifty, Share Prices LIVE: Indian shares are set to open lower on Friday, snapping a five-session winning streak, as renewed West Asia tensions and a weak Accenture earnings outlook weigh on sentiment after a sharp recent rally in domestic equities.
-
-## VA Tech Wabag wins large order for desalination plant in Kuwait
-Upon completion, the facility will leverage advanced desalination technologies to produce high-quality potable water, helping address Kuwait’s growing water demand
-
-## Reliance Jio Board approves DHRP for IPO before SEBI on June 19
-A stock exchange filing detailed a fresh issue of up to 27,00,00,000 (twenty seven crore) equity shares of face value of ₹10 each at an issue price to be determined through the book building process
-
-## HUID helps customer recover lost jewellery
-Through the BIS hallmarking ecosystem, it was established that the jewellery was originally hallmarked for Malabar Gold & Diamonds
-
-## Alembic Pharma gets tentative nod from USFDA for generic cancer drug
-USFDA’s tentative approval is for the ANDA of Binimetinib tablets of strength 45 mg
-
-## India’s 2030 energy goal: What’s missing? | Energonomics | EP 33 | Richa Mishra
-Inside India’s energy transition with former ONGC leader A K Balyan.
-
-## Medical colleges asked not to grant leave to students during NEET-UG re-exam period
-The move comes in the backdrop of instances when students of medical colleges were found to be involved in activities that could compromise the sanctity and integrity of the examination process: National Medical Commission
-
-## Desi Chinese chain Chinese Wok achieves 50-city milestone with new Belagavi outlet
-Expected items include the Value Woks starting at ₹99, Hakka Noodles, Kurkure Momos and the newly launched Cheese and Schezwan Fries
-
-## Jio Platforms IPO announced by Mukesh Ambani at Reliance AGM; DRHP to be filed today with SEBI
-Reliance Industries' 49th AGM has once again emerged as a key event for investors, with expectations running high for significant announcements across the group's major businesses.
-
-## Gold price prediction: What's the outlook for gold prices on June 19, 2026 & what should investors do? Buy on dips recommended
-Gold price prediction today: Gold prices are showing some signs of recovery, and Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities recommends a buy on dips strategy:
-
-## US gas dips below $4 again, yet household budgets remain under pressure
-US drivers are finally seeing relief as average gas prices drop below $4 a gallon, a welcome change after months of increases. This dip follows a tentative peace agreement between the US and Iran, reopening oil shipments through the Strait of Hormuz. Despite this, fuel costs remain significantly hig
-
-## Why is stock market down today? BSE Sensex drops over 800 points, Nifty50 below 24,000 as IT stocks crash - top 5 reasons for fall
-The decline followed a robust run over the previous five sessions, during which the benchmark indices had surged nearly 5%. Adding to investor caution, India VIX, the market's volatility gauge, climbed nearly 5% to 13.30 in early trade on Friday.
-
-## Infosys, TCS & other Indian IT stocks crash! How Accenture’s warning has led to big sell-off - what brokerages are saying
-Infosys led the decline with a drop of more than 8%. Other major names, including Mphasis, TCS, Tech Mahindra, LTIMindtree, HCLTech and Persistent Systems, registered losses of around 5-6%.
-
-## Rupee rebounds 20 paise to 94.20 on hopes of India-US trade deal
-The Indian Rupee strengthened significantly against the US dollar on Friday, recovering from an all-time closing low. Optimism surrounding an India-US trade agreement, coupled with improved foreign inflows and softer crude oil prices, fueled the currency's rise. Discussions between Prime Minister Mo
-
-## Top stocks to buy today: Stock recommendations for June 19, 2026 - check list
-Stock market recommendations: Bharat Electronics, and Central Mine Planning & Design Institute (CMPDI) have been recommended as the top stocks to buy today on June 19, 2026:
-
-## Gold, Silver Rate Today Live Updates: Gold prices dip, on track for third weekly loss
+## Steelcase Expands India Presence with Flagship Dealer Showroom in Chennai
 
 
-## Ex-Bengal minister Jyoti Priya Mallick quits all TMC posts, cites health issues
-Mallick, a longtime associate of TMC supremo Mamata Banerjee, said he had already communicated his decision to the party leadership.
-
-## Chhattisgarh man 'shaves' wife's head, forces her to drink urine
-Speaking to reporters, the woman said she and the accused had married about 15 years ago and have four children who currently live with him.
-
-## Three die as speeding motorcycle hits van in Assam’s Tamulpur district: Police
-Three youths, including a 14-year-old boy, were killed after the speeding motorcycle they were riding allegedly collided head-on with an oncoming van in Assam’s Tamulpur district
-
-## Rebellion news LIVE: Abhishek Banerjee heads to Delhi for key meet with LS Speaker over TMC rebels' merger
-Rebellion crisis LIVE updates: Speculation of split and rebellion by lawmakers has gripped three major opposition parties — the Trinamool Congress, Shiv Sena-UBT and the Samajwadi Party (SP) — with allegations being made against the BJP of orchestrating turmoil.
-
-## BEST employees on indefinite strike: What are their demands and what it means for Mumbai
-The strike commenced despite an ad-interim order passed by an industrial court restraining employees from stopping work.
-
-## 75-year-old visually impaired woman killed in clash over old rivalry in Lucknow
-Based on a complaint filed by Rajendra’s brother Ravi Rawat, police have registered a case of murder and voluntarily causing hurt.
-
-## Delhi govt notifies Winter Air Quality Framework, fuel only for vehicles with PUCC
-Delhi notifies proactive winter air quality framework; fuel only for vehicles with valid PUCC, non-BS-VI commercial vehicles barred, parking charges doubled.
-
-## 'Bad vibes', a bat, 66 minutes of horror: Blow-by-blow account of house help's murder by doctor in South Delhi
-Police allege that Dr Manish Gupta, 50, fatally attacked his domestic help of more than a decade, Meena Haldar, on Thursday in Delhi's Kailash Hills area.
-
-## TMC faces fresh turbulence as Jyotipriya Mallick, Gautam Deb quit posts
+## 1924 Clock House — India’s Premier Colonial-Era Heritage Resort Debuts in Munnar, Kerala
 
 
-## Jio Platforms to file prospectus for mega IPO with Sebi today: RIL Chairman Mukesh Ambani
+## Harper Collins Publishers India is Delighted to Announce the Recent Publication of ‘People We Love’ by Preeti Shenoy
 
 
-## Anthropic blackout: This is what strategic AI dependence looks like
+## Resilience Actions, a Re Sustainability Initiative, Launches ECOHUB.IN to Power India’s Climate and Circular Economy Innovation Ecosystem
 
 
-## Could AI save a struggling tiger reserve?
+## MediThinQ and Synovis Micro Companies Alliance, Inc. Announce Strategic Global Distribution Agreement to Redefine Microsurgery with the SHIYA 3D Visualization Platform
+Multi-year exclusive agreement to expand access to next-generation 3D surgical visualization worldwide
+
+## IDBI Bank Introduces FCNR(B) Special Opportunity Deposit in USD with Attractive Returns for NRIs on Foreign Currency Deposits
+Mumbai, Maharashtra, India – Business Wire India
+
+## India's forex reserves tumble nearly $10 billion as gold holdings see sharp drop
+India's foreign exchange reserves saw a significant dip of nearly $10 billion, reaching $671.625 billion in the week ending June 12. This sharp decline was primarily driven by a substantial drop in gold reserves, despite a modest increase in foreign currency assets. Other components like Special Dra
+
+## The Mutual Fund retreat: When war panic meets your SIP - what investors should do now
+Experts warn against panic selling, emphasizing the need to maintain investment discipline. In fact, the simplest advice is this: do nothing. That is the whole answer, and it is harder to follow than it sounds, he says.
+
+## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
+Indian markets snapped a five-day winning streak on Friday, with the Sensex and Nifty closing lower. A sharp selloff in IT stocks, sparked by Accenture's reduced growth forecast, and renewed geopolitical concerns weighed on investor sentiment. The postponement of US-Iran peace talks added to the cau
+
+## India opens dumping probe into Chinese, Japanese chemical used in tyres and rubber products
+India has initiated an anti-dumping investigation into Resorcinol imports from China and Japan. This key chemical is vital for tyre and rubber manufacturing. The probe follows allegations that low-priced shipments are harming domestic producers. The Directorate General of Trade Remedies is conductin
+
+## Stock market today: Sensex closes over 600 points down, Nifty50 above 24,000 - not just IT stocks, HDFC Bank & RIL also drag down indices
+The BSE Sensex, comprising 30 stocks, ended the session 607.08 points, or 0.78%, lower at 76,802.90. During intraday trade, the index had fallen as much as 940.26 points, or 1.21%, touching 76,469.72.The NSE Nifty closed down 154.90 points, or 0.64%, at 24,013.10.
+
+## Pvt sector banks see drop in accuracy of data reporting
 
 
-## Cocktail 2 movie review: Shahid Kapoor shines as film trades its gloss for melodrama
+## India-UK trade pact to open new opportunities beyond commerce, mobility boost key benefit: Vikram Misri
+India and the UK will enter into a Comprehensive Economic and Trade Agreement on July 15, deepening ties beyond trade and technology to foster new opportunities for businesses and people. This pact aims to significantly boost annual bilateral trade from its current £48 billion.
+
+## India's golden treasure: Andhra Pradesh to become country's largest top gold producer
+Andhra Pradesh is set to become India's leading gold supplier, with significant reserves identified in Kurnool district. Jonnagiri village alone is estimated to hold 50 tonnes of gold. Commercial production has commenced, and further exploration is expected to boost reserves. The state aims to lever
+
+## Supreme Court denies urgent hearing on plea to defer June 21 NEET-UG retest
+On May 29, the Supreme Court directed the Centre to file an affidavit in a pending case and detail how and in what manner the NEET examination would be conducted
+
+## 'Vague, bald': SC dismisses plea for probe into TVK trust vote win in Tamil Nadu
+Terming the plea as based on “vague, bald and casual” allegations, a bench led by Chief Justice of India (CJI) Surya Kant rejected the petition
+
+## Rare handshake after Army repatriates Pakistani national who crossed LoC
+The Indian Army on Friday said it handed over Asad Khan, a resident of Pakistan's Khyber Pakhtunkhwa province, to the Pakistan Army.
+
+## Considering mandatory durability certificates for buildings: Khattar
+The Centre may require durability certifications for buildings due to safety concerns, Minister Khattar announced, amid quality crisis evidence.
+
+## At least 2 killed, 3 injured as vehicle plunges into gorge, catches fire in Uttarakhand's Barakot
+The bodies of the deceased were recovered and handed over to the district police for further legal proceedings.
+
+## 32 out of 2,766 buses on roads: BEST strike in Mumbai leaves commuters stranded
+The BEST buses are the life-blood of Mumbai and one of the most frequently used modes of transport. Only 32 buses could operate on Friday morning.
+
+## ‘You asked for a minute, we gave 7’: Supreme Court slams advocate while junking ‘wild’ plea against defections
+Dismissing the matter, the Bench said the plea was founded on "vague, wild and casual allegations" and lacked any reliable material on record.
+
+## 20-year-old due to reappear for NEET dies after falling from Indore building
+Santosh Dudhi, a police officer, said prima facie it appears to be a suicide, but they are not ruling out the possibility of an accident
+
+## Government that swears by nari shakti, fails women repeatedly
 
 
-## Toy Story 5 movie review: Pixar franchise feels past its prime
+## Tech updates (June 19, 2026): Adobe update, Haier P7 Pro TVs, Instagram’s new feature, more
 
 
-## ‘Indus Water Treaty outdated’: India to Pakistan at UN
+## A gardener, an orderly, a writer: Ninder Ghugianvi bags a national honour
 
 
-## Referee as the cameraman: How the World Cup is putting you right next to the action
+## ‘Can’t be brushed aside’: SC backs Bar rooms for women, fund for lawyers
+
+
+## Gurgaon woman marries co-founder: ‘No clean separation between life and business’
+
+
+## Man orders 2 Redmi phones from Flipkart, gets only 1, wins Rs 50,000 payout
+
+
+## The missing ingredient in India’s innovation story is not ambition. It is competition and better policy
+
+
+## For every pound gained, here’s how much extra pressure the knees endure
 
 
 ## Hong Kong singer Eason Chan snaps up US$23m home as celebrities flock to luxury property
@@ -165,6 +156,15 @@ Hong Kong’s latest push to attract corporate treasury centres (CTCs) could pro
 ## Has China’s ‘618’ shopping festival lost its shine as consumers turn cautious?
 For the past few days, Tan Zhaohui has seen a familiar sight every time she has returned to her home in the southwestern Chinese city of Chengdu: a mound of packages spilling out of the nearby delivery station. The huge piles of e-commerce parcels have almost become an annual tradition in China over
 
+## A Tale of Two AI Policy Regimes
+Brazil wants regulation. Argentina rejects it.
+
+## Syria’s War Crimes Dilemma
+The government can execute war criminals or get full international support—but not both.
+
+## Foreign Pressure, American Freedom
+How other countries and their citizens helped the United States live up to its ideals.
+
 ## Orban’s Defeat Is Being Dangerously Misread
 Panicking strongmen will turn to more extreme measures.
 
@@ -179,15 +179,6 @@ As the public suffers, a corrupt regime prepares for a bonanza.
 
 ## The Era of the French Intellectual Is Over
 The recently deceased Edgar Morin was the last reminder of a bygone phenomenon.
-
-## Will Colombia Elect Its Own Bukele?
-Abelardo de la Espriella promises megaprisons and more if he wins the presidency.
-
-## How the Iran War Reshaped the Global Landscape of Power
-The United States and Israel will be weaker for years to come.
-
-## The Iran Deal Is Hazy on Hormuz
-Everything is clear except what will happen to shipping and oil exports.
 
 ## Islamabad’s Crisis of Control in Pakistan-Administered Kashmir
 Grievances over political representation will remain a powerful means of mobilizing opposition against the Pakistani state.
@@ -261,35 +252,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup predictions: USA vs Australia, Brazil vs Haiti and more
-USA face Australia as Brazil seek their first win, while Canada awaits injury news on Ismael Kone and Mexico celebrate.
+## Search continues for kidnapped Mexican journalist Roxana Guzman
+Search continues for kidnapped Mexican journalist Roxana Guzman
 
-## US export ban on Anthropic’s AI models further strains alliances
-Trump administration's move to cut off allies' access to advanced AI prompts calls for greater self-reliance.
+## Starmer’s future hangs in balance after Burnham’s Makerfield election win
+Ashton-in-Makerfield, a town few knew of until recently, has potentially chosen the UK's next prime minister.
 
-## For one Yemeni, World Cup serves as a marker of war and peace
-Since 1982, a Yemeni fan's commitment to the World Cup has endured war, economic turmoil, and personal sacrifices.
+## Afghanistan strikes targets in Pakistan, raising cross-border tension
+The strikes are the latest threat to the fragile ceasefire between Afghanistan and Pakistan.
 
-## World Cup: Who is Ayyoub Bouaddi, the French teenager playing for Morocco?
-A promising midfielder marked for the French team, Bouaddi is a breakout sensation on his World Cup debut with Morocco.
+## Could the HPV vaccine eliminate cervical cancer deaths?
+The HPV vaccine has reduced the risk of cervical cancer death before age 30 to effectively zero in the United Kingdom.
 
-## US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific
-The attack is the latest in a series of strikes on vessels operated by 'narco-terrorists,' according to Washington.
+## Trump hints at new approach to North Korea’s nuclear programme
+South Korea's president said Trump had told him the 'time had come' to focus on North Korea 'issue' at the G7 summit.
 
-## Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow
-Brent crude reverses slide after oil, LNG tankers cross critical waterway.
+## World Cup: Will Pulisic play against Australia and can USMNT qualify?
+Will Christian Pulisic be fit for United States as they seek to secure top spot in Group D with win over Australia?
 
-## Fears for US-Iran deal as talks delayed by Israeli strike Lebanon
-Tehran holds back from talks to cement ceasefire due to ongoing Israeli attacks on southern Lebanon.
+## Arsenal to begin Premier League title defence against promoted Coventry
+The first match of the 2026-27 season sees the top-flight champions face the second-tier Championship winners.
 
-## Iran to lodge complaint with FIFA over World Cup 2026 travel restrictions
-Team's complaint comes amid the denial of their request to fly to the United States two days before their next match.
+## Brazil vs Haiti: World Cup – Prediction, how to watch and will Neymar play?
+Five-time champions face Haiti in Philadelphia and need a win after a disappointing draw in their tournament opener.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
 
 ## CFOs should take into account macro impact on costs and profitability: Yes Bank CFO Niranjan Banodkar
 At the 3rd edition of the ETCFO NextGen Summit 2026, finance leaders from Yes Bank, HDB Financial Services, CSB Bank and TVS Sundaram said CFOs must diversify funding channels, stay cautious on growth, and convert geopolitical disruption into strategic opportunity.
+
+## AI must be measured by enterprise value, not just immediate ROI, says NIIF Infra CFO Sudeep Bhatia
+At the ETCFO NextGen Summit 2026, finance leaders from IIFL Finance and NIIF Infrastructure Finance said CFOs are increasingly shaping AI investments as the technology moves from experimentation to business-critical decision support.
+
+## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
+At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
@@ -302,12 +299,6 @@ Indian companies are making record profits, but they are not investing in new fa
 
 ## No merit in issues flagged by ex-chair of HDFC Bank: Law firms
 The reviews were prompted by former Chairman Atanu Chakraborty's dramatic March 18 resignation, a decision he had said in a letter to the exchanges was prompted by alleged deviations 'incongruent' with his ethics and value systems. The reference to possible ethical transgressions at the country's mo
-
-## US, Iran reach deal to end war, signing set for Friday
-In a historic turnaround, the United States and Iran have reached a landmark peace agreement aimed at ending hostilities. The accord promises to lift the US blockade on Iran and will see the Strait of Hormuz reopened, a decision anticipated to bring relief to global energy markets.
-
-## Fable 5 shock puts sovereign AI back on India’s agenda
-US export controls on advanced AI models have spurred India's call for sovereign AI development. Industry leaders warn against reliance on foreign providers, urging a national mission for indigenous AI capabilities, similar to UPI and Aadhaar, to secure India's technological future and support local
 
 ## RBI removes rate caps on select NRE, FCNR(B) deposits to attract foreign currency inflows
 The Reserve Bank of India is easing rules for foreign currency deposits. Interest rate caps on FCNR(B) deposits for three to five years are temporarily lifted. Restrictions on interest rates for NRE deposits of three years and above are also removed. These changes aim to attract more foreign currenc
