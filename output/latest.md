@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
+Measures could be communist island’s biggest shake-up since the early years of the revolution in the 1960s
+
+## Labour MPs fear they will lose their seats if Starmer remains in Number 10
+Prime minister’s support in the parliamentary party is ebbing away
+
 ## Israel and Hizbollah agree ceasefire
 Oil price falls on hopes agreement will bolster US-Iran deal
 
 ## Starmer under growing pressure to quit after Burnham’s by-election victory
-Prime minister faces mutiny in his cabinet after outgoing Greater Manchester mayor sees off Reform UK in Makerfield
+PM faces cabinet mutiny after outgoing Greater Manchester mayor sees off Reform UK in Makerfield
 
 ## How Andy Burnham won Makerfield
 The Labour candidate beat Reform UK by eschewing Labour logos and focusing on local issues and his own personal appeal
@@ -15,14 +21,8 @@ Plus, what Reform’s Makerfield defeat means for Farage
 ## Third Heathrow runway would add just 0.05% to UK GDP, government finds
 Forecast by Department for Transport is a tenth of level predicted by the airport
 
-## Gold coin salesman orchestrated plot to set up rival, court finds
+## Gold coin salesmen orchestrated plot to set up rival, court finds
 Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
-
-## Starmer’s allies insist he is ready to fight for his job
-Andy Burnham’s victory in Makerfield clears path for attempt to become Labour leader and prime minister
-
-## Britain needs a Labour contest, not a coronation
-Andy Burnham should be tested on his policies against other leadership contenders
 
 ## Germany’s financial watchdog removes three Berenberg bosses
 BaFin’s move comes as country’s oldest lender reports possible breaches of corporate governance
@@ -90,6 +90,9 @@ While the proposed Jio IPO drew significant attention, Ambani used the company�
 ## Sebi brings back stock exchange buybacks, clears faster fundraising route for AIFs
 Market regulator Sebi has greenlit several key reforms, including the return of open market share buybacks via stock exchanges, offering companies a faster execution route. Mutual funds will see relaxed intra-day borrowing norms, and alternative investment funds can now raise capital quicker through
 
+## Donald Trump names two greatest leaders he likes the most, one of them is PM Modi
+Donald Trump and PM Modi met on the sidelines of the G-7 Summit in France to repair the relationship, which has been under strain over the past year.
+
 ## India's Vivek Aggarwal appointed FATF vice president, a first for the country
 The vice president of the FATF is elected by the FATF Plenary from among its members and assists the president in steering the organisation's work.
 
@@ -111,8 +114,20 @@ While addressing the gathering at Shiv Sena's 60th foundation day, Uddhav attack
 ## IndiGo flight, with 140 onboard, suffers lightning strike at Kolkata airport
 Two IndiGo ground staff members were reportedly affected by the lightning strike and received medical treatment.
 
-## US citizen arrested for indecent behaviour in Shimla after viral video sparks outrage: Watch
-In another video purportedly linked to the same incident, Christian can be seen knocking a cap off a man's head while yelling at him.
+## ‘Didn’t realise he was triggered over not firing her’: Wife of doctor who killed help
+
+
+## Infants called as ‘files’, payments in cash: Probe deepens into trafficking racket
+
+
+## Delhi government digs in heels against pushback, no new petrol 2-wheelers from April ’28
+
+
+## PM Modi to commission 3 indigenously built naval ships in Kolkata on June 21
+
+
+## 70 lakh jobs created under PM-VBRY: Narendra Modi
+
 
 ## How vitamin D supplements left a 26-year-old facing kidney failure
 
@@ -121,21 +136,6 @@ In another video purportedly linked to the same incident, Christian can be seen 
 
 
 ## On return, Neeraj Chopra qualifies for the Commonwealth Games
-
-
-## Sameer Gulia becomes junior world champion, dedicates title to Jaspal Rana
-
-
-## What Iran’s missile warning means for the 60-day US-Iran negotiations
-
-
-## Akshay Kumar opens up about his retirement plans: ‘This thought comes to me at 4 am’
-
-
-## Afghan Taliban claims air strikes on ‘ISIS hideouts’ in Pakistan’s Balochistan and Khyber Pakhtunkhwa; Islamabad calls claim ‘baseless’
-
-
-## Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships
 
 
 ## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Norway seeks to ban trade with illegal Israeli settlements in Palestine
-Norwegian government announces consultation on new bill as it steps up policies regarding 'unlawful' Israeli activities.
+## Canada’s Kone undergoes major leg surgery; to miss rest of World Cup
+Kone is expected to make a full recovery after breaking his left leg, with multiple fractures, in the match against Qatar.
 
-## Iran war: Success or disaster? Mehdi Hasan and David Des Roches
-Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on the Iran war.
+## Does Trump have to submit the Iran memorandum of understanding to Congress?
+A 2015 law requiring congressional approval for any Iran nuclear deal is in the spotlight after this week's memo.
 
-## How is the Iran-US agreement being viewed in Israel?
-Washington rebukes right-wing Israeli ministers for criticism.
+## US announces new round of Israel-Lebanon talks in Washington next week
+Talks come as Hezbollah, Israel say new ceasefire has been reached in wake of US-Iran memorandum to end war.
 
-## Two trains collide near Bedford, north of London
-Media sources say multiple injuries reported, but emergency services did not provide details.
+## Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph
+Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.
 
-## Backlash for UK MP who linked England World Cup result to women’s safety
-Backlash for UK MP who linked England World Cup result to women’s safety.
+## Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says
+'No ceasefire can be considered meaningful while children continue to be killed' says UNICEF.
 
-## More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’
-Aid cuts and poor sanitation are deepening fears that Ebola is spreading through displacement camps.
+## Brazil vs Haiti LIVE: World Cup 2026
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the Group C clash.
 
-## Dramatic rescue as fire rips through school in Japan
-Eyewitness video shows dozens of schoolchildren forced onto a narrow window ledge after a fire broke out in Tokyo.
+## The UK: No. 10 Revolving Door
+UK PM Keir Starmer faces growing pressure after Andy Burnham’s by-election win.
 
-## Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story
-The Italian prime minister has accused Trump of making up a story that she 'begged' him for a photo at G7 in France.
+## Iran deputy FM says ‘ready to move forward’ in deal with US
+Deputy FM Khatibzadeh tells Al Jazeera diplomacy is way forward, but US must ensure Israel stops attacks on Lebanon.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
