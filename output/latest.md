@@ -1,7 +1,28 @@
 # AION Intelligence
 
-## Albanian PM blames Iran for protests against Kushner’s luxury resort
-Edi Rama defends controversial $4bn project that has triggered weeks of angry demonstrations
+## Burnham’s victory sets up challenge to Starmer
+Greater Manchester mayor to return to parliament as an MP and poised to seek leadership of Labour Party
+
+## Xi wants China to boost demand. Why isn’t it working?
+Activity is sputtering midway through 2026, undercutting efforts to galvanise the economy
+
+## MSCI flags investability concerns in Indonesia over transparency
+Global index provider has warned it could downgrade south-east Asian country to a ‘frontier market’
+
+## US launches trade investigation into Germany’s spending on new medicines
+So-called Section 301 probe escalates Washington’s drug pricing war with Europe
+
+## EU delays trade confrontation with China
+Leaders opt for dialogue with Beijing rather than immediate action over fears of retaliation
+
+## JD Vance lashes out at Israeli government over Iran deal criticism
+US vice-president’s office says plans to travel to Switzerland to participate in talks with Iran are on hold
+
+## India’s late monsoon has economists, investors and farmers worried
+Also in this newsletter: some positive signs from India’s stalled IPO pipeline
+
+## Asics could run faster if it unshackled Onitsuka Tiger
+Sportswear group is separating out its coolest brand but a sale or proper spin-off might be a better fit for shareholders
 
 ## EU set to remove barriers to banks’ cross-border capital flows
 Draft report by European Commission aims to boost performance of lenders in bloc compared to US rivals
@@ -12,59 +33,56 @@ AI and rocket group is tapping debt markets after raising $86bn in stock market 
 ## SpaceX warns EU satellite plan risks undermining connectivity in Ukraine
 Elon Musk’s group hits out at proposal by bloc to reserve part of spectrum band for European operators
 
-## FirstFT: US-Iran deal opens way for Hormuz charges, shipping industry warns
-Also in today’s newsletter: JPMorgan cuts off Anthropic access for Hong Kong staff, and Gulf oil shock speeds up India’s EV drive
-
 ## UK government to overhaul ‘outdated’ home-selling process
 Vendors will need to produce ‘sales packs’ containing information on the property’s condition prior to listing
-
-## Burnham hoping to win UK by-election as Starmer’s future hangs in the balance
-Victory for the Labour leadership hopeful would herald further upheaval in British politics
-
-## Gulf oil shock speeds up India’s EV drive
-Carmakers report increasing sales and showroom enquiries as fuel costs rise
 
 ## Gatwick airport launches legal action after ministers relax runway slot rules
 Regulation was intended to protect the airline industry from jet fuel shortages following the Iran crisis
 
-## US-Iran accord opens way for Hormuz charges, industry warns
-Shipping executives fear language will enable Tehran to introduce fees after 60 days or a fund similar to Strait of Malacca
+## Gulf oil shock speeds up India’s EV drive
+Carmakers report increasing sales and showroom enquiries as fuel costs rise
 
-## Accenture shares fall to lowest since 2017 as AI threat mounts
-IT consultancy hit by concerns technology will hurt its business model
+## Gold on track for third weekly loss on firm dollar, hawkish Fed signals
+All precious metals set for weekly decline
 
-## CME sues US derivatives regulator over crypto contract approval
-Exchange operator says allowance of ‘perpetual’ futures contracts on digital currencies by Kalshi violates law
+## Sensex today | Stock Market Live: Sensex down over 700 pts as profit booking hits markets; IT stocks bleed 6%
+Sensex, Nifty, Share Prices LIVE: Indian shares are set to open lower on Friday, snapping a five-session winning streak, as renewed West Asia tensions and a weak Accenture earnings outlook weigh on sentiment after a sharp recent rally in domestic equities.
 
-## Robinhood is well placed for the casino-ification of everything
+## Reliance AGM 2026: Jio IPO, AI push and Ambani heirs face investor test
+Reliance Industries enters its 49th AGM with investors eyeing returns from Jio IPO, AI push, retail profits and new energy scale-up. The meeting is also viewed as a key test of its next-generation leadership across major growth businesses.
+
+## CBI conducts searches in Kolkata in PNB fraud cases
+Searches conducted in connection with three separate cases against Tantia Construction Ltd, Brahm Alloys Ltd and Amrit Feeds Ltd
+
+## India emerges as key player in global energy transition, says WEF report
+Amid slowing global progress driven by geopolitical disruptions and weak financial flows, India improved its ranking and stood out among emerging markets for energy security and affordability-focused growth
+
+## Vance shelves Switzerland visit as US-Iran talks hit early hurdles; Israel reaffirms commitment to peace process
+The development comes amid early challenges to the recently signed Trump-Pezeshkian 14-point agreement aimed at easing tensions and reopening key diplomatic channels
+
+## Coal gasification key to India’s energy security and import reduction: G Kishan Reddy
+Addressing a roadshow in Mumbai, he highlighted its potential to produce syngas, hydrogen, methanol and other key industrial fuels domestically
+
+## Bharat Forge arm KSSL partners US firm AM General for mounted artillery systems
+The partnership also includes participation in the US Army’s Mobile Tactical Cannon programme.
+
+## Top stocks to buy today: Stock recommendations for June 19, 2026 - check list
+Stock market recommendations: Bharat Electronics, and Central Mine Planning & Design Institute (CMPDI) have been recommended as the top stocks to buy today on June 19, 2026:
+
+## Gold, Silver Rate Today Live Updates: Gold prices dip, on track for third weekly loss
 
 
-## Is Tesla destined to be folded into SpaceX?
-Wall Street simmers with the idea of a merger of Elon Musk’s companies
-
-## N Murali appointed Chairman of The Hindu Group Publishing Private Limited
+## Stock Market Live Updates Today: Will BSE Sensex, Nifty50 extend their rally for the 6th straight session?
 
 
-## Advance tax collection increased by over 15% in the first instalment of FY27
-Net income tax collection grows 14.64% between April 1 and June 17
+## SpaceX rally loses steam: Stock price falls over 6% after blockbuster debut week at Wall Street
+SpaceX shares experienced a significant drop of over 6 percent on Thursday. This decline follows a period of strong post-IPO performance. Investors are now reassessing the company's valuation. The broader space sector also saw a dip in stock prices. SpaceX continues its focus on artificial intellige
 
-## Rupee closes higher for the fifth consecutive trading session
-The rupee closed 20 paise stronger at 94.33 per US dollar against the previous close of 94, lifted by the signing of an agreement by the US and Iran to end the war
+## Oil prices edge higher after Vance threatens Israel against violating ceasefire
+Oil prices experienced volatility following US Vice President JD Vance's comments, raising concerns about the Iran-US ceasefire's stability. Brent and WTI crude saw declines as Vance warned Israel against further attacks on Hezbollah, casting doubt on the accord's durability. The market now watches 
 
-## NSE IPO set to deliver massive returns for legacy shareholders
-Several PSU banks and insurers acquired shares at weighted average costs of less than Re 1 apiece
-
-## UK agrees to grant India higher duty-free quota to sort out steel wrangle
-India-UK trade pact leaves carbon tax concern unresolved; to be taken up later, say officials
-
-## Trump’s Iran deal extends ceasefire, opens Hormuz
-US President Donald Trump agrees interim peace deal with Iran to reopen the Strait of Hormuz and launch 60-day nuclear negotiations, easing oil price pressures
-
-## SBI pays ₹8,800 cr dividend to govt, charts digital, green growth path
-SBI outlines a digital, sustainable growth strategy, pays an ₹8,800 crore dividend for the government amid strong profitability
-
-## Bajaj Auto sets June 24 record date for ₹5,633-crore buyback
-Investors looking to participate in Bajaj Auto’s ₹5,633-crore buyback have until June 23 to buy shares ahead of the June 24 record date
+## ‘India to be among our top 5 markets’, says Hesham Abdulla Al Qassim
+Emirates NBD's significant acquisition of a 60% stake in RBL Bank for Rs 26,015 crore signifies a strategic shift in India-UAE economic ties, moving beyond trade to capital and control. This move positions India as a core growth market for the Dubai-based lender, reflecting historical financial link
 
 ## Social security relief extended for Indian execs in UK
 
@@ -72,71 +90,62 @@ Investors looking to participate in Bajaj Auto’s ₹5,633-crore buyback have u
 ## Coal gasification can cut import dependence, strengthen energy security: G Kishan Reddy
 
 
-## White House clears final reg: flexibility for international students in terms of stay and studies likely to be curbed
+## The Indian dream that ended in Hauz Rani fire: How 3 generations were wiped out
+A family tragedy struck when all eight members of the Aggarwal clan perished in a fire at a B&B in Delhi, just days after gathering for their ailing patriarch.
+
+## WhatsApp hacked, text to CFO: How ex-PM's son, a former MP, lost ₹7.68 crore to cyber fraud
+The scam reportedly took place between June 12 and 16 as the scammers posed as Naresh Gujral after hackehis WhatsApp account.
+
+## ‘She brought bad energy’: House help's chilling bat-knife murder by doctor in posh South Delhi area
+The accused, identified as Dr Manish Gupta, allegedly thrashed his domestic worker with a bat and stabbed her in his apartment in Mount Kailash.
+
+## 18-year-old POCSO accused gets temporary bail to take NEET retest
+The temporary bail was granted by the court from June 18 to June 21 on a bond of ₹50,000 with a surety of a like amount.
+
+## Cross voting helps Cong gain control of state’s upper house
+Congress unexpectedly secured a fifth seat in Karnataka's legislative council, aided by cross voting from BJP and JD(S) legislators, marking a win for CM Shivakumar.
+
+## Karnataka Ready for Dialogue on Mekedatu at Any Time, Says Shivakumar
+Karnataka's CM D.K. Shivakumar invites talks with Tamil Nadu's leader on the Mekedatu water project, emphasizing cooperation for mutual benefit.
+
+## ‘Follower of Ambedkar; afraid of none’: Priyank hits back at BJP MP Jigajinagi
+Karnataka Home Minister Priyank Kharge defends Dalits' right to question the RSS, responding to BJP MP Jigajinagi's intimidation remarks.
+
+## Modi failed to defend India’s interest during meet with Trump at G7 event
+The Congress party criticized PM Modi for failing to leverage the G7 Summit, compromising India’s strategic interests and energy sovereignty.
+
+## Nikita Dutta shares fitness ‘hacks’, reveals how she hits ’10k steps daily’
 
 
-## Net direct tax collections rise nearly 15% to Rs 5.21 lakh crore; advance tax growth signals strong corporate earnings
-Net direct tax collections surged 14.64% to over Rs 5.21 lakh crore by June 17, fueled by strong corporate advance tax payments and increased securities transaction tax. This robust growth signals continued corporate profitability and market activity, keeping the government on track for its ambitiou
-
-## Accenture shares plunge over 14% as Iran war dents outlook, sparks IT selloff
-Accenture's shares plunged over 14% after the IT giant cited the Iran war's impact, slashing its annual growth forecast and projecting lower-than-expected quarterly revenue. The conflict cost the company $400 million in its Middle East business. To counter a slowdown, Accenture announced $4.18 billi
-
-## PM-Kisan 23rd instalment on June 20: Rs 18,880 crore to be transferred to 9.44 crore farmers
-Prime Minister Narendra Modi will release the 23rd instalment of the PM-Kisan scheme on June 20 in West Bengal, transferring Rs 18,880 crore to over 9.44 crore farmers. He will also launch crop insurance schemes, an Agri-Tech platform, and the National Natural Farming Mission, alongside inaugurating
-
-## Indian funds in Swiss banks fall 8% to Rs 36,793 crore in 2025, but customer deposits climb 50%
-Funds linked to Indian clients in Swiss banks saw an 8% decline in 2025, totaling 3.25 billion Swiss francs. Despite an overall drop, direct customer account deposits surged over 50%. This follows a significant rebound in 2024, with the SNB clarifying data doesn't represent black money.
-
-## US stock market today: Wall Street rebounds as oil slides after US-Iran deal; S&P 500, Nasdaq rise over 1%
-US stocks rebounded on Thursday, recovering previous losses as falling oil prices and easing Treasury yields boosted investor sentiment following a US-Iran agreement to end hostilities. Technology stocks led the gains, with Intel surging after a manufacturing deal. European markets traded lower, whi
-
-## Karnataka MLC elections: Full list of winners as Congress one-ups the BJP
-Eight candidates were in the fray for the seven MLC seats to be elected by MLAs, for which voting was held on Thursday at Karnataka Vidhana Soudha.
-
-## ‘Priya mitra Narendra…’: French President Emmanuel Macron's Hindi farewell message for PM Modi | Watch
-Emmanuel Macron said he planned to visit India in February next year and thanked PM Modi for visiting France.
-
-## Technology drives progress only when democratised: PM Modi at VivaTech in Paris
-Prime Minister Narendra Modi participated in the 10th edition of VivaTech in Paris along with French President Emmanuel Macron
-
-## NDA-backed Parimal Nathwani thanks people of Jharkhand, PM Modi after Rajya Sabha win
-Nathwani expressed gratitude to PM Narendra Modi, Union Home Minister Amit Shah, BJP leaders, workers, and volunteers who supported and voted for him.
-
-## Odisha to act against 128 doctors absent from duty for over 5 years: CM Majhi
-According to the chief minister’s office, medical officers and dental surgeons posted in government hospitals across were found absent from service without authorisation for prolonged periods
-
-## CJP gets police nod for June 20 protest in Delhi, renews call for Dharmendra Pradhan's resignation
-CJP said citizens from across the country would gather peacefully to demand accountability for paper leaks and the growing number of student suicides.
-
-## PM Modi, President Trump order officials to fast-track India-US trade agreement
-The meeting between Modi and Trump was seen as an effort to restore normalcy to the bilateral relationship that was hit by unprecedented strains last year
-
-## Health minister Nadda reviews dengue preparedness ahead of monsoon season
-Health Minister JP Nadda reviews dengue and malaria preparedness, directs states to strengthen surveillance, hospital readiness and vector control ahead of monsoon.
-
-## Constable ‘engaged in domestic work’, Odisha suspends senior IPS officer
+## GMADA tightening noose around defaulters, but itself owes crores in property tax to MC
 
 
-## Key distillery denied licence as Madhya Pradesh raises stakes for liquor industry
+## The Voice of Hind Rajab movie review: A potent anti-war statement, if ever there was one
 
 
-## Yoga Day is latest flashpoint between Congress govt and Kerala Governor
+## IND vs AFG: Harshit Rana returns to ODI squad for Chennai match
 
 
-## Bihar woman abducted from home, gangraped by 5 men
+## Daily Briefing: Wang Yi in Delhi next week; UPSC’s EWS selections face scrutiny; and more
 
 
-## Andhra Pradesh’s shrimp farmers can’t catch a break: New crisis looms after tariff shock
+## ‘Shame on you’: Karan Kundrra defends seeking parents’ advice before proposing to Tejasswi
 
 
-## Can Shiv Sena (UBT) act against 6 MPs for skipping party meeting? Experts flag legal hurdles
+## Shiv Sena UBT Crisis Live Updates: Foundation day switch deferred, but trouble brews for Uddhav Thackeray
 
 
-## 35 donation boxes, 2 shifts: As SIT probes Ram Mandir ‘fund theft’, how count is kept
+## Family wins Rs 3.48 lakh home insurance claim 11 years after Kashmir floods
 
 
-## Private schools, pricey coaching, family business, MNC jobs: They also cracked EWS list in UPSC exam
+## Momenta moves closer to Hong Kong IPO after US listing setback
+Chinese autonomous-driving start-up Momenta moved a step closer to a Hong Kong initial public offering after mainland China’s securities regulator disclosed a filing notice approving the proposed share sale. The proposed listing would add another autonomous-driving company to Hong Kong’s market, fol
 
+## Hong Kong property sales more measured as interest rate increase looms
+Hong Kong homebuyers showed interest in 130 flats put on sale by developers on Thursday evening, but the pace of buying was more measured after an interest-rate increase later this year became more likely. Agents said 30 of the 75 units put on sale at Phase 4B of La Montagne at the Southside project
+
+## Why Hong Kong’s new corporate treasury centre plan could be a game changer
+Hong Kong’s latest push to attract corporate treasury centres (CTCs) could prove a turning point in its efforts to lure mainland Chinese and multinational companies, strengthening the city’s position as an international financial centre, according to industry participants. The government last week u
 
 ## SpaceX bankers prepare for potential US$20 billion bond offering, sources say
 ⁠SpaceX’s bankers are preparing to meet investors as early as next week to discuss a bond offering of at least US$20 billion, two sources familiar with the matter said ‌on Thursday, as Elon Musk’s newly public company seeks funding for an ambitious and capital-intensive AI expansion. SpaceX’s AI amb
@@ -152,15 +161,6 @@ At least 14 new smart vehicles – including both right- and left-hand-drive mod
 
 ## Hong Kong sets August debut for long-awaited offshore yuan bond futures
 Hong Kong is aiming for an August launch date to open the trading of Chinese treasury futures, a long-anticipated move as Beijing attempts to strengthen the city’s status as a global hub for the offshore yuan and internationalise its currency. Trading for futures contracts on the five-year governmen
-
-## China touts new finance tools to fend off sanctions
-Chinese officials outlined plans for new anti-sanctions measures and unveiled initiatives to boost international use of the yuan to policymakers and bankers gathered for the nation’s most important financial conference of the year. Vice-Premier He Lifeng highlighted a draft financial law he said wou
-
-## Lenovo targets US$2 billion bond to repurchase debt amid robust AI infrastructure growth
-Lenovo Group, the world’s largest personal-computer (PC) maker, plans to raise US$2 billion through a convertible-bond offering, with the proceeds earmarked to repurchase existing debt and buy back shares. The Hong Kong-listed company’s proposed zero-coupon convertible bonds will mature in 2033 and 
-
-## Hong Kong graduates prefer careers in finance, survey finds
-Hong Kong graduates believe the city’s finance industry is its most attractive and stable sector, making them more optimistic about career opportunities than their global peers, according to a study by the CFA Institute, which trains investment managers. The US-based institute’s “2026 Graduate Outlo
 
 ## The Vance Peace Deal
 The U.S. vice president has become the face of an unpopular deal.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge orders release of Palestinian rights advocate detained by ICE
-Mosque leader says he was arrested and detained by immigration authorities for his Palestine advocacy.
+## Norway MP’s join viral World Cup ‘Viking Row’ trend
+Norwegian lawmakers paused a parliamentary session on Thursday to perform the team's trademark “Viking Row” celebration.
 
-## Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup
-All five goals were scored in the final 30 minutes as the match in Los Angeles erupted to life in the closing stages.
+## Ukraine urges EU to pressure Russia to end war before winter
+Ukrainian President Volodymyr Zelenskyy say his country will need help if the war with Russia continues into the winter.
 
-## Mamdani gives New York Knicks keys to city after NBA title
-The New York Knicks celebrated their first NBA title in 53 years with a frenzied ticker-tape parade through Manhattan.
+## Israel strikes southern Lebanon in sudden clash surge with Hezbollah
+Israel strikes southern Lebanon in sudden clash surge with Hezbollah
 
-## Are prices really dropping in the US, as Trump claims?
-Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.
+## Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer
+Greater Manchester mayor's victory in Makerfield clears path for bid to unseat Starmer as prime minister.
 
-## Cuba’s Communist Party approves opening economy in unprecedented move
-The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.
+## Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone
+BC Place was a battlefield as Kone was stretchered off, Qatar got two red cards, and both teams brawled after full-time.
 
-## Myanmar military airstrike kills seven civilians in Rakhine state
-A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.
+## Obama opens presidential centre with call for unity
+Former US President Barack Obama opened his presidential centre in Chicago, using the occasion to call for unity.
 
-## Brazil executes warrant against Lula ally in widening financial scandal
-Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.
+## Paint peeling after $14 million memorial pool renovation
+Paint is peeling and algae is blooming less than two weeks after the $14 million renovation of DC’s Reflecting Pool.
 
-## Conjoined twins separated after surgery in Saudi Arabia
-Filipino conjoined twins Olivia and Gianna were successfully separated during a six-hour surgery in Saudi Arabia.
+## EU won’t lift key Iran sanctions until formal nuclear deal reached
+EU won't lift key Iran sanctions until formal nuclear deal reached
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
