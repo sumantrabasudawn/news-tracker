@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Israel and Hizbollah agree ceasefire
+Oil price falls on hopes agreement will bolster US-Iran deal
+
+## Starmer under growing pressure to quit after Burnham’s by-election victory
+Prime minister faces mutiny in his cabinet after outgoing Greater Manchester mayor sees off Reform UK in Makerfield
+
+## How Andy Burnham won Makerfield
+The Labour candidate beat Reform UK by eschewing Labour logos and focusing on local issues and his own personal appeal
+
+## Unseating Starmer: Burnham’s next move
+Plus, what Reform’s Makerfield defeat means for Farage
+
+## Third Heathrow runway would add just 0.05% to UK GDP, government finds
+Forecast by Department for Transport is a tenth of level predicted by the airport
+
 ## Gold coin salesman orchestrated plot to set up rival, court finds
 Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
 
@@ -9,20 +24,11 @@ Andy Burnham’s victory in Makerfield clears path for attempt to become Labour 
 ## Britain needs a Labour contest, not a coronation
 Andy Burnham should be tested on his policies against other leadership contenders
 
-## Israel and Hizbollah agree ceasefire
-Oil price falls on hopes agreement will bolster US-Iran deal
+## Germany’s financial watchdog removes three Berenberg bosses
+BaFin’s move comes as country’s oldest lender reports possible breaches of corporate governance
 
-## ‘Beware small states’: why Lebanon endangers the unfinished Israel-Iran war
-The country carries the seeds of escalation that could undo Trump’s tenuous deal with Tehran
-
-## Transport secretary calls on Starmer to go
-Cabinet member urges prime minister to set timetable for departure after Andy Burnham’s victory in Makerfield
-
-## Top civil servant apologises for breaking lobbying rules over Palantir adviser
-Samantha Jones failed to get clearance for consultancy work while at the Department for Health
-
-## Warsh’ed and gleaned
-The new Fed chair’s first meeting contained enough information to move rate markets higher
+## Directors’ Deals: Greencore’s non-executive chair spies a bargain
+Transaction expenses pushed the group into a pre-tax loss
 
 ## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
 Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
@@ -35,18 +41,6 @@ The NBA team’s value continues to rise as investors chase a limited number of 
 
 ## Indian billionaire Mukesh Ambani files for blockbuster Jio float
 Listing of Reliance Industries’ telecoms business expected to be India’s largest ever
-
-## Bank of England plans to dilute capital rules for investment banks’ trading activities
-UK regulator also publishes parameters of how it will stress-test private credit markets
-
-## Medallia’s collapse turns private credit into a private equity problem
-Private lenders that once fancied themselves as ‘coupon clippers’ had better be prepared to run companies as equity owners
-
-## Tories’ Scotland victory adds to Reform UK’s woes
-Conservatives win in Aberdeen after criticising high taxes and limits on new oil and gas exploration
-
-## Iran to seek ‘insurance fees’ for passage through Strait of Hormuz
-Vessels must hold Tehran-approved insurance policy to use vital waterway, says government agency
 
 ## Petrol and diesel demand defies May price hikes
 Consumption of both petrol and diesel increased in May even as consumers faced higher fuel costs
@@ -96,6 +90,9 @@ While the proposed Jio IPO drew significant attention, Ambani used the company�
 ## Sebi brings back stock exchange buybacks, clears faster fundraising route for AIFs
 Market regulator Sebi has greenlit several key reforms, including the return of open market share buybacks via stock exchanges, offering companies a faster execution route. Mutual funds will see relaxed intra-day borrowing norms, and alternative investment funds can now raise capital quicker through
 
+## India's Vivek Aggarwal appointed FATF vice president, a first for the country
+The vice president of the FATF is elected by the FATF Plenary from among its members and assists the president in steering the organisation's work.
+
 ## Scuffle breaks out at Kolkata airport ahead of Abhishek Banerjee's arrival, supporter blames 'BJP person'
 A supporter of Abhishek Banerjee said a “BJP person" arrived at the airport, followed by some boys with eggs in their hands.
 
@@ -117,8 +114,17 @@ Two IndiGo ground staff members were reportedly affected by the lightning strike
 ## US citizen arrested for indecent behaviour in Shimla after viral video sparks outrage: Watch
 In another video purportedly linked to the same incident, Christian can be seen knocking a cap off a man's head while yelling at him.
 
-## UBT Sena rebels miss key party event, Uddhav clarifies on Congress 'merger' plans: Maharashtra crisis grows
-The development has further fuelled speculation of a split in the Uddhav Thackeray-led faction as it comes a day after the six MPs skipped a key party meeting.
+## How vitamin D supplements left a 26-year-old facing kidney failure
+
+
+## Two trains collide north of London, multiple injuries reported
+
+
+## On return, Neeraj Chopra qualifies for the Commonwealth Games
+
+
+## Sameer Gulia becomes junior world champion, dedicates title to Jaspal Rana
+
 
 ## What Iran’s missile warning means for the 60-day US-Iran negotiations
 
@@ -130,18 +136,6 @@ The development has further fuelled speculation of a split in the Uddhav Thacker
 
 
 ## Navy to get 12 sets of indigenous 1.25 MW gas turbine generators for Kolkata-class ships
-
-
-## FDA denies allegations of interference in food poisoning probe
-
-
-## Trump says Iran is ‘finished’; Israel and Hezbollah agree to ceasefire: 10 key developments
-
-
-## How this Pune eatery is preserving a vanishing Kashmiri culinary tradition
-
-
-## Neeraj Chopra LIVE Updates, Doha Diamond League 2026: Neeraj on 4th with a 82.77m throw; Peters leads
 
 
 ## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
@@ -264,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Norway seeks to ban trade with illegal Israeli settlements in Palestine
+Norwegian government announces consultation on new bill as it steps up policies regarding 'unlawful' Israeli activities.
+
+## Iran war: Success or disaster? Mehdi Hasan and David Des Roches
+Mehdi Hasan goes Head to Head with former Pentagon official David Des Roches on the Iran war.
+
+## How is the Iran-US agreement being viewed in Israel?
+Washington rebukes right-wing Israeli ministers for criticism.
+
+## Two trains collide near Bedford, north of London
+Media sources say multiple injuries reported, but emergency services did not provide details.
+
+## Backlash for UK MP who linked England World Cup result to women’s safety
+Backlash for UK MP who linked England World Cup result to women’s safety.
+
 ## More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’
 Aid cuts and poor sanitation are deepening fears that Ebola is spreading through displacement camps.
 
@@ -272,21 +281,6 @@ Eyewitness video shows dozens of schoolchildren forced onto a narrow window ledg
 
 ## Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story
 The Italian prime minister has accused Trump of making up a story that she 'begged' him for a photo at G7 in France.
-
-## How is China using AI in the classroom?
-How will teaching artificial intelligence help China take on a high-tech future?
-
-## Israeli air strikes hit Lebanon minutes after new ceasefire
-Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon
-
-## Two men jailed for arson attacks on property linked to UK prime minister
-The Ukrainian-born men with alleged links to Russia targeted property associated with Keir Starmer in May 2025.
-
-## Israel continues attacks on Lebanon despite agreeing to ceasefire
-At least 47 people killed in Israeli attacks on Lebanon since midnight as US-Iran talks stall.
-
-## Germany and Ivory Coast aim to seal World Cup knockout place: All to know
-Team news, prediction, and lineups as Germany and Ivory Coast meet in Group E aiming to secure last-32 qualification.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
