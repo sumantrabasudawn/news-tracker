@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## Meloni accuses Trump of pandering to west’s enemies
+Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
+
 ## Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire
 Setback for Donald Trump’s push to end war with the Islamic republic
 
+## Chief whip warns Starmer that growing number of MPs want exit timetable
+Prime minister is spending the weekend discussing his future with allies and colleagues
+
 ## Pedro Sánchez’s wife ordered to face corruption trial and surrender passport
 Spanish prime minister’s office accuses judge of over-reach after shock decision
-
-## Meloni accuses Trump of pandering to west’s enemies
-Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
 
 ## Nine people in critical condition after fatal UK train collision
 Investigators work to establish what led to the first deadly rail accident in nearly two years
@@ -20,9 +23,6 @@ Move expected in British government green paper would set stage for fresh battle
 
 ## Markets get the measure of Trump
 At the very first sign that the president is buckling on an unorthodox foreign policy decision, that is the time to pounce
-
-## How Latin American World Cup jerseys became a political football
-Far-right populists have staked their claim on their team’s kit — and the left is trying to fight back
 
 ## Will football in America stick?
 Also in today’s newsletter: Kansas City Chiefs president discusses hosting the World Cup
@@ -39,29 +39,35 @@ For two decades, Hollywood’s most indispensable executive has been synonymous 
 ## Beer can boost ‘spiritual or mental’ health, says Kirin president
 Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
 
-## Rajasthan begins public transport overhaul as CM flags off 876 electric buses across eight cities
-Rajasthan is strengthening its public transport system amid rapid urbanisation, especially in Jaipur, where declining bus fleets have pushed commuters toward autos, e-rickshaws and app-based mobility options
+## Mastering Derivatives: Understanding change in OI
+Your interpretation depends on who is likely to dominate the price movement
+
+## F&O Tracker: Nifty futures and Nifty Bank futures gaining traction
+Nifty breaks above resistance and Bank Nifty builds on its breakout as bearish sentiment eases
+
+## India restores 3.4 million hectares of degraded land, boosts rural livelihoods
+Speaking at the 5th NAREDCO Mahi Real Estate Convention 2026 in New Delhi, officials emphasised the need for sustainable urbanisation alongside rural development
 
 ## West Asia crisis drives container freight spot rates sharply higher; recovery may take till September
-Before the conflict, 99 container services operated in or transited the Arabian Gulf, deploying 3.2 million TEUs, or about 10 per cent of the global container fleet
+Before the conflict, 99 container services operated in or transited the Arabian Gulf, deploying 3.2 million TEUs, or about 10% of the global container fleet
 
-## Shree Refrigerations opens new Karad facility to boost defence HVAC manufacturing
-The facility will enhance efficiency, reduce supply chain delays, and support defence manufacturing under the Make in India initiative while contributing to local employment and industrial ecosystem development.
+## Index Outlook: Lifting hopes
+The benchmark indices can rise more on a break above their immediate resistance
 
-## APEDA facilitates first export of dried egg powder from Odisha to Austria
-The export strengthens India’s presence in European markets and is expected to boost Odisha’s agro-processing ecosystem while encouraging further investment in processed food exports
+## Bandu’s Blockbusters for June 21, 2026
+Guess the stock that will give the best return by next Friday
 
-## India’s LPG demand to double in next 25 years, projects OPEC
-The outlook period is from 2026 to 2050
+## Insurance Query: Do you need to undergo medical tests for increasing policy sum assured?
+Factors to consider while increasing the insured sum on one’s existing policy
 
-## Kiren Rijiju says Great Nicobar project will boost India’s economic growth and supply-chain independence
-Rijiju defended the project, alleging opposition to India’s growth, highlighted economic resilience, dismissed fake news, and said the islands are key to Viksit Bharat 2047
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Aurobindo Pharma, Bharat Electronics and Trent
 
-## Iran says Strait of Hormuz closed again amid ceasefire breakdown claims
-The development coincides with renewed violence in the region, including Israeli strikes in southern Lebanon that killed at least 16 people, further raising concerns over regional stability and global energy security
+## 3 Indian-flagged oil tankers cross Strait of Hormuz, head home with 94 crew members
+Three Indian oil tankers, carrying over 8.6 lakh metric tonnes of cargo and 94 crew members, have successfully navigated the Strait of Hormuz and are heading home. This safe passage follows a US decision to lift its blockade on Iran, allowing resumed movement through the vital waterway. The governme
 
-## DGCA plans AI-powered eGCA 2.0 platform with blockchain, predictive surveillance tools
-New platform to leverage advanced analytics and cybersecurity frameworks
+## Monsoon, El Niño and market trends: NSE highlights key risks for India’s 2026 economy
+India's 2026 economic outlook hinges on monsoon performance, with El Niño posing a significant risk of deficient rainfall impacting agriculture. Meanwhile, the nation's equity investor base is rapidly expanding, becoming younger and more diverse, with a notable surge in participation from smaller ci
 
 ## Milk prices may rise again by July as El Niño threatens fodder supply
 Dairy consumers might face another price hike by July or August, with industry experts warning of a potential 3-4% increase. This follows a recent 2-3% rise in May. Concerns are mounting over El Niño potentially worsening fodder shortages and impacting milk production, prompting the Maharashtra gove
@@ -81,11 +87,20 @@ India significantly diversified its LPG imports, tapping the US, Iran, and other
 ## Crude comeback: 20 million barrels leave Iran port after peace breakthrough
 Iran's oil exports have surged following a peace deal with Washington, with 11 tankers carrying 20 million barrels departing the Gulf of Oman. This increase coincides with new maritime regulations for the Strait of Hormuz. However, the delay of permanent peace talks due to regional clashes casts a s
 
-## Accenture outlook cut sparks fresh fears over IT recovery
-Global tech spending concerns have intensified as Accenture lowered its FY26 revenue growth forecast to 3-4%. This outlook, despite a resilient third quarter, signals potential prolonged weak demand for Indian IT services firms, possibly extending into FY27. Analysts suggest this weakness at a leadi
+## BPSC announces 70th CCE results, Shraddha Pandey emerges topper; exam had led to protests last year
+Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and Ayush Bijoy scored 592 marks each, securing second and the third spot.
 
-## Reliance succession plan on track, enters final leg
-Chairman Mukesh Ambani Says RIL Future In Safe Hands, Conglomerate Indivisible
+## Ajit Doval to host BRICS national security advisor’s meet on June 22-23
+The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of national security challenges, and the role of new technologies
+
+## Six dead, several injured after under-construction temple roof collapses in Maharashtra's Parbhani | Video
+Maharashtra Chief Minister Devendra Fadnavis expressed grief over the loss of lives and said the injured were receiving medical care.
+
+## EU removes negative travel advisory for Assam: CM Himanta Biswa Sarma
+Earlier this month, a high-level EU delegation visited Assam on a two-day visit to explore greater engagement with the state
+
+## 1.3 lakh CCTV cams, 51k jammers: Security arrangements in place ahead of NEET-UG reexam tomorrow
+The National Testing Agency (NTA) has geared up to ensure the smooth conduct of the NEET reexam, and has significantly enhanced security arrangements.
 
 ## How a 20-year-old murder of Congress leader ‘influenced’ Shiv Sena UBT crisis
 Pawanraje Nimbalkar, a Congress leader, also happens to be the father of Om Raje Nimbalkar, one of the alleged rebel MPs.
@@ -96,43 +111,28 @@ The order also bans carrying weapons, parking vehicles, use of loudspeakers, and
 ## #Melodi moment, ‘Panvel nikalna hai’: Meme-filled posters in spotlight at CJP protest in Delhi
 The demonstrators, led by CJP founder Abhijeet Dipke, used unserious memes to raise serious issues at the rally in Delhi on Saturday.
 
-## False records, fraud, exploitation: J&K doctor suspended over alleged needless cardiac procedures
-Dr Syed Maqbool, an Associate Professor of Cardiology deputed to GMC Anantnag has been accused of manipulating official medical records.
-
-## IUML exits DMK-led Secular Progressive Alliance after aligning with TVK
-At the party’s general council meeting, a total of 14 resolutions were passed among them was the discontinuing of association with the DMK-led SPA
-
-## 'Those who looted public money in Bengal being sent to jail': PM Modi promises fast-paced changes under BJP govt
-Referring to the BJP's victory in the assembly polls, PM Modi said the transformation underway in West Bengal demonstrated the power of the democratic process.
-
-## 'Want to know whom am I giving security to?': Karnataka home minister Priyank Kharge on RSS transparency demand
-Kharge's remarks come days after he wrote to RSS chief Mohan Bhagwat seeking details on the organisation's status, funding, income, spending and assets.
-
-## A look back at Shiv Sena's 60-year political journey: Bal Thackeray's rise, Uddhav takes over and then a split
-As Shiv Sena turns 60, fresh turmoil brews as six MPs from Uddhav Thackeray camp seek a split, adding to the party's long history of rebellions.
-
-## Hollywood cinematographer’s crash puts spotlight on Himachal’s rise and challenges as paragliding destination
+## How Ukraine’s new drone strategy is choking Russia’s war machine
 
 
-## Mint water in golgappas may be a breeding ground for E coli: Here are simple ways to reduce risk
+## India should move away from being back office to world, become product nation: UIDAI chairman
 
 
-## Jaiswal’s ton powers India to 9-wicket win over Afghanistan, seals 18th ODI clean sweep
+## Eye on women’s safety, long-distance commute, DTC plans 4 am bus service
 
 
-## Nasa’s daring mission to save a space telescope from falling back to Earth
+## How undersea cables helped Britain rule its global empire
 
 
-## VLC creator turns attention to robots, raises $5 million for real-time device platform
+## Chandigarh duo of Harjai Milkha Singh and Krish star in Indian win in APGC Jr
 
 
-## ‘There was pin-drop silence’: Upasana Singh recalls saying ‘kaun hai ye aadmi’ to Salman
+## ‘Food like prasad’: Farah Khan discovers ‘Panch-Tatva’ chaat at astrologer Jai Madaan’s Delhi mansion
 
 
-## AI crash: US firm representing victims presents simulation findings contrary to Indian agency’s
+## From President Murmu’s home turf, PM Modi pitches eastern India as ‘country’s growth engine’
 
 
-## Iran closes Strait of Hormuz again as 16 killed in fresh Israeli strikes in Lebanon
+## ‘Bengal freed from shackles, looters being sent to jail’, says PM, calls for ‘new future’
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -255,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments
+Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.
+
+## Nine left in critical condition after UK train collision that killed driver
+More than 80 people received treatment after the crash and 28 remain in hospital.
+
 ## Court bans Spanish PM’s wife from leaving country amid corruption probe
 Begona Gomez is accused of using her position as the prime minister's wife ⁠to secure work contracts.
 
@@ -267,17 +273,11 @@ In Lubra, Nepal’s last Bon village, climate-driven floods are destroying homes
 ## UK condemns Israeli minister over inflammatory Lebanon remarks
 UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.
 
-## Top Ukrainian officials return Polish awards in WWII dispute
+## Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute
 The move comes after Ukrainian President Volodymyr Zelenskyy was stripped of Poland's top honour.
 
 ## Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff
 Spain face Saudi Arabia in need of a win to take control of Group H. Can they rediscover their attacking edge?
-
-## Why Tunisia’s renewable energy strategy is facing resistance
-Giving concessions for renewable projects to foreign corporations will not help solve the country’s energy crisis.
-
-## An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo
-An Israeli court has convicted seven men over the 2021 lynching of Sa’id Moussa, ending a five-year trial.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
