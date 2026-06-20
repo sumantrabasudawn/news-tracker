@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Stabbing attacks in Edinburgh investigated as anti-Muslim hate crimes
+Scottish man is arrested after rampage in capital leaves five injured
+
 ## Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire
 Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic
 
@@ -114,28 +117,28 @@ Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and 
 ## Ajit Doval to host BRICS national security advisor’s meet on June 22-23
 The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of national security challenges, and the role of new technologies
 
-## NEET again today | The art of conducting exams: As leaks stain NTA scorecard, other agencies fare well
+## Trump says US will begin charging tolls in Strait of Hormuz if final Iran deal not reached in 60 days
 
 
-## Alia Bhatt says daughter Raha is ‘always trying to win’; expert decodes fear of failure in kids
+## Dutch hero Brian Brobbey, who encountered a gangster and lived to tell the tale
 
 
-## Ghee and betel leaf: Nutritionist explains why this is a good combination for your gut
+## Peanuts vs makhana: Which one should you snack on for weight loss?
 
 
-## At least 12 shot in Chicago after SUV pulls up and opens fire on a crowd
+## Crowd work, viral clips and the changing rules of stand-up comedy
 
 
-## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Deniz Undav scores twice as GER lead 2-1
+## BJP president’s first visit to state ahead of 2027 polls: Nitin Nabin promises drug-free Punjab under double-engine BJP govt
 
 
-## ‘Yoga changed the way I listen to my body’: What experts say about Suniel Shetty’s claim
+## Meerut woman arrested for role in killing of 6-year-old son in connivance with lover
 
 
-## AAP protests statewide against SAD for circulating ‘fake’ video to defame Mann
+## In Latur, leak casts long shadow, students keep faith in their dreams
 
 
-## Monsoon around the corner, river desilting started at 52 sites against 182 identified flood-prone points
+## NEET retest today, NTA ready with more security and quick processing
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -258,6 +261,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group
+Germany come from behind to beat Ivory Coast 2-1 in Group E, sealing FIFA World Cup 2026 knockout place.
+
+## Trump vows Iran will not charge Strait of Hormuz tolls, but says US might
+The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.
+
+## Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth
+Almiron received the first red card for covering his mouth in the World Cup Group D match against Turkiye.
+
 ## Bolivia declares state of emergency to clear protest blockades
 Bolivia declares state of emergency to clear protest blockades
 
@@ -272,15 +284,6 @@ During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russi
 
 ## Are UK Prime Minister Keir Starmer’s political days numbered?
 British PM resisting intensifying party pressure to step aside.
-
-## Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza
-Al Jazeera condemned Israel's 'deliberate' targeting of Wishah, the network's 12th media worker killed during Gaza war.
-
-## US-Iran talks to kick off Sunday in Switzerland, says Pakistan
-Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.
-
-## As ILO convention turns 30, India’s home-based workers demand equal rights
-Convention 177 was adopted on 20 June 1996, recognising home-based workers on a par with traditional wage earners.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
