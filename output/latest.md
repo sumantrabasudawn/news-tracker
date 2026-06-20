@@ -114,13 +114,19 @@ Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and 
 ## Ajit Doval to host BRICS national security advisor’s meet on June 22-23
 The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of national security challenges, and the role of new technologies
 
+## NEET again today | The art of conducting exams: As leaks stain NTA scorecard, other agencies fare well
+
+
+## Alia Bhatt says daughter Raha is ‘always trying to win’; expert decodes fear of failure in kids
+
+
 ## Ghee and betel leaf: Nutritionist explains why this is a good combination for your gut
 
 
 ## At least 12 shot in Chicago after SUV pulls up and opens fire on a crowd
 
 
-## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: GER come into game after 7-1 win
+## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Kessie scores for CIV; GER have 2 goals disallowed
 
 
 ## ‘Yoga changed the way I listen to my body’: What experts say about Suniel Shetty’s claim
@@ -130,12 +136,6 @@ The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of
 
 
 ## Monsoon around the corner, river desilting started at 52 sites against 182 identified flood-prone points
-
-
-## How a marginal farming couple gave up Canada dream and built a thriving fancy bird business
-
-
-## BPSC’s biggest batch since Independence: 2,027 selections, a UP girl at the top
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -258,11 +258,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Overplaying Strait of Hormuz card will turn Iran into a pariah state
+Overplaying Strait of Hormuz card will turn Iran into a pariah state.
+
+## Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win
+The Dutch have four points after bagging their first win in Houston; Sweden are second with three points in Group F.
+
+## Ukraine says Russian attack kills five people in Zaporizhzhia
+During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russia is preparing for 'massive' attack.
+
 ## Are UK Prime Minister Keir Starmer’s political days numbered?
 British PM resisting intensifying party pressure to step aside.
 
 ## Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza
-Al Jazeera said it 'strongly condemns the heinous crime of targeting and killing' the Al Jazeera Mubasher correspondent.
+Al Jazeera condemned Israel's 'deliberate' targeting of Wishah, the network's 12th media worker killed during Gaza war.
 
 ## US-Iran talks to kick off Sunday in Switzerland, says Pakistan
 Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.
@@ -272,15 +281,6 @@ Convention 177 was adopted on 20 June 1996, recognising home-based workers on a 
 
 ## World cup wrap day 9
 World cup wrap day 9
-
-## Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes
-Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.
-
-## Bolivia declares state of emergency amid blockade crisis
-For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.
-
-## Israeli strike kills children in Gaza despite ceasefire claims
-Israeli strike kills children in Gaza despite ceasefire claims
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
