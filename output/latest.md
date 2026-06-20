@@ -1,67 +1,76 @@
 # AION Intelligence
 
+## Ministers to make YouTube and Meta boost prominence of UK news
+Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
+
+## Markets get the measure of Trump
+At the very first sign that the president is buckling on an unorthodox foreign policy decision, that is the time to pounce
+
+## How Latin American World Cup jerseys became a political football
+Far-right populists have staked their claim on their team’s kit — and the left is trying to fight back
+
+## Europe’s stocks offer a peace dividend their US peers can’t match
+European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease
+
+## Burnham camp divided over chancellor pick as UK finances worsen
+Ed Miliband, Shabana Mahmood and Yvette Cooper are all believed to be contenders as bond markets seek reassurance
+
+## This year, the Oscars of the food world wasn’t really about food
+At Monday’s James Beard Awards in Chicago, winner after winner stood up for the immigrants who keep America’s restaurants running
+
+## Big Tech is stoking unrest in the UK. Why?
+Elon Musk’s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone
+
+## Nigel Farage’s Brexit rallies were funded from the EU budget
+European monies paid for anti-immigrant posters during ‘Say No to EU’ tour
+
+## Rathbones’ blunder boosts banks in the race for the UK’s rich
+An internal review that found regulatory compliance shortcomings sent the stock down 17%
+
+## Fertiliser prices tumble as traders look beyond Middle East disruption
+Urea back to prewar levels but drop in demand ‘is not good news’
+
+## Bob Iger’s long goodbye
+For two decades, Hollywood’s most indispensable executive has been synonymous with Disney. Can he really tear himself away?
+
+## Beer can boost ‘spiritual or mental’ health, says Kirin president
+Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
+
+## America’s intractable air traffic problem
+Tech outages and staff shortages are causing traveller misery as World Cup fans arrive and summer travel peaks
+
 ## UK unveils prototype missiles for Ukraine with no US components
 Low-cost, long-range weapons could be deployed as soon as this year in war against Russia
 
 ## One person dead and 89 injured after UK train crash
 Collision on the Midland Main Line is the first fatal rail incident in nearly two years
 
-## Trump accepts Qatar jet as new Air Force One despite ethics concerns
-The $400mn gift has raised charges of conflicts between personal interests and official duties
+## Supervisory Data Quality Index score of small finance banks and private sector banks drops
+The SDQI of public sector banks declined marginally by 0.3 in March 2026 as compared to December 2025; overall, the SDQI score of scheduled commercial banks declined marginally by 0.2 in March 2026
 
-## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
-Measures could be communist island’s biggest shake-up since revolution’s early years in 1960s
+## India to host BRICS National Security Advisers' Meet from June 22-23: MEA
+During the meeting, the National Security Advisers will exchange views on the theme ‘Non-traditional security challenges confronting the world today’
 
-## Labour MPs fear they will lose their seats if Starmer remains in Number 10
-Prime minister’s support in the parliamentary party is ebbing away
+## TN govt cancels ₹246 crore projects announced under HR&CE dept during previous regime
+The move would prevent the temples under the control of Tamil Nadu Hindu Religious and Charitable Endowments Department from going bankrupt, an official said on Saturday
 
-## Israel and Hizbollah agree ceasefire
-Oil price falls on hopes agreement will bolster US-Iran deal
+## India diversifies LPG imports during West Asia conflict as OMCs absorb price shock
+Before the conflict, roughly 90% of India's LPG imports came from West Asian suppliers, leaving the country heavily exposed to regional disruptions
 
-## Starmer under growing pressure to quit after Burnham’s by-election victory
-PM faces cabinet mutiny after outgoing Greater Manchester mayor sees off Reform UK in Makerfield
+## Nationwide mock drill underway ahead of NEET-UG re-exam; security tightened
+More than 22.79 lakh medical aspirants will appear for the re-examination on June 21
 
-## How Andy Burnham won Makerfield
-The candidate beat Reform UK by eschewing Labour logos and focusing on local issues and his own personal appeal
+## Prez, PM to launch projects worth over ₹47,600 crore in Odisha on Saturday
+The projects, covering energy, infrastructure, roads, water, health, education, tourism, and irrigation, are being unveiled on the second anniversary of the BJP government in Odisha
 
-## Third Heathrow runway would add just 0.05% to UK GDP, government finds
-Forecast by Department for Transport is a tenth of level predicted by the airport
+## India preferred hub for manufacturing, GCCs: Experts at Houston roundtable
+The roundtable facilitated discussions on strengthening India-US partnerships in trade, technology and innovation while showcasing opportunities for global companies looking to expand
 
-## Germany’s financial watchdog removes three Berenberg bosses
-BaFin’s move comes as country’s oldest lender reports possible breaches of corporate governance
+## India's BoP outlook improves, INR depreciation pressure to ease: Goldman Sachs
+Goldman Sachs said India posted a $7.2bn BoP surplus in Q1 CY26 despite softer capital inflows, supported by stronger remittances, robust services exports and low oil imports
 
-## Gold coin salesmen orchestrated plot to set up rival, court finds
-Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion
-
-## Directors’ Deals: Greencore’s non-executive chair spies a bargain
-Transaction expenses pushed the group into a pre-tax loss
-
-## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
-Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
-
-## Govt asks ICANN to set up root server in India
-A root server is the core part of the internet that connects users to websites
-
-## Palestinian Embassy urges India to provide urgent medical aid amid crisis
-"It is the exact moment to save thousands of innocent lives. If not India and the Indian people; then who? If not now; then when? Every life matters," the statement said
-
-## From waste to wealth: Why crop residue burning is a system’s failure, not a seasonal
-If sustained and scaled, crop residue can cease to be a recurring environmental crisis and instead become part of a broader transformation linking agriculture with clean energy, soil regeneration, and climate resilience
-
-## Modi ‘tough cookie’, ‘great leader’ who has been in power for more than 12 years: Trump
-In an interview with Axios, Trump referred to China’s President Xi Jinping and Modi as the two greatest leaders he likes the most in terms of power and leverage and the ability to execute on that
-
-## Trump envoy, Iranian minister head to Switzerland for talks
-With the ceasefire in place, Steve Witkoff is heading to Switzerland to join Jared Kushner, President Donald Trump’s son-in-law, who is already there, Axios said
-
-## Accenture's weak Q3, West Asia conflict impact cloud FY27 start for Indian IT: Report
-Accenture's Q3 revenue growth came in below consensus estimates, while bookings were weaker than anticipated due to delayed closure of large deals amid disruptions
-
-## India seeks BRICS nations' cooperation to strengthen MSME sector, boost growth
-Union Minister Jitan Ram Manjhi says around 8.5 crore MSME units currently functioning in India, providing employment to nearly 40 crore people
-
-## Uttar Pradesh’s exports to BRICS nations cross $5.36 billion during FY2025-26: Chaudhary
-Addressing the BRICS MSME Forum, UP MSME Minister Bhupendra Singh Chaudhary said the state has been exporting machinery, garments, leather, carpets and precious stones to several countries
+## Crude comeback: 20 million barrels leave Iran port after peace breakthrough
+Iran's oil exports have surged following a peace deal with Washington, with 11 tankers carrying 20 million barrels departing the Gulf of Oman. This increase coincides with new maritime regulations for the Strait of Hormuz. However, the delay of permanent peace talks due to regional clashes casts a s
 
 ## Accenture outlook cut sparks fresh fears over IT recovery
 Global tech spending concerns have intensified as Accenture lowered its FY26 revenue growth forecast to 3-4%. This outlook, despite a resilient third quarter, signals potential prolonged weak demand for Indian IT services firms, possibly extending into FY27. Analysts suggest this weakness at a leadi
@@ -84,55 +93,52 @@ The Reserve Bank of India has revamped the Kisan Credit Card (KCC) framework, st
 ## Sitharaman says external aid projects should help Northeast products reach global markets
 Union finance minister Nirmala Sitharaman emphasized that externally aided projects in the Northeast should empower local products for global markets and strengthen livelihoods. She highlighted a seven-fold increase in assistance, with over 10,000 km of roads built since 2014. Sitharaman underscored
 
-## Sebi clears SBI Mutual Fund IPO; Rs 13,000 crore share sale likely next month
-India's largest asset manager, SBI Mutual Fund, has secured Sebi's nod for its Rs 13,000 crore initial public offering. The upcoming share sale, an offer for sale by existing shareholders State Bank of India and Amundi India Holding, is slated for next month. This listing will bring the country's bi
+## In Sena split, a tiger's tale and some canine digs: How Shinde and Uddhav’s parties are feuding with biting metaphors
+Bal Thackeray, a cartoonist, was often portrayed as a roaring tiger — logo of the Shiv Sena he founded. Factions are fighting also citing dogs and loyalty.
 
-## CJP protest in Delhi LIVE: Abhijeet Dipke's ‘Chalo Dilli’ call ahead of mega protest at Jantar Mantar
-CJP protest in Delhi LIVE: The Cockroach Janta Party (CJP) is set to hold its second major protest at Jantar Mantar in the national capital today, stepping up its campaign demanding Union education minister Dharmendra Pradhan's resignation. Activist Sonam Wangchuk is expected to attend the protest.
+## Heavy rain expected in over 10 Tamil Nadu districts as southwest monsoon intensifies
+Due to heavy rain, maximum temperatures are also expected to fall by four to five degrees Celsius over several rain-predicted districts in Tamil Nadu.
 
-## Wanted her removed, but ‘no major argument’: Why doctor killed house help in south Delhi
-Dr Manish Gupta's family said there had been differences over the domestic worker's employment, but no serious dispute.
+## Kerala high court orders police protection for viral Kumbh Mela girl
+The girl's husband, Mohd Farman, is accused of kidnapping her in a case registered by Madhya Pradesh police based on a complaint filed by her father.
 
-## Posts about CJI, Union ministers playing badminton at UK event false: Govt to Delhi HC
-The Centre further argued that despite efforts to publicly clarify the facts, the misinformation campaign continued to spread online.
+## Bihar court grants interim relief to educator Khan Sir in coaching institute firing case
+The Patna Police had registered FIR against Faisal Khan and two others in connection with the June 2 firing, but have now upheld a 'no coercive action' order.
 
-## Shiv Sena vs Sena (UBT) on foundation day: Shinde, Thackeray spar as rebel MPs stay away
-This is the third crisis in Maharashtra after vertical splits in the Shiv Sena and the Nationalist Congress Party in 2022 and 2023.
+## Second Sena split in 4 years: How Thackeray's party is unravelling again
+Uddhav Thackeray, who lost Shiv Sena's original name and the symbol in 2022, has rejected the rebel MPs' claim that they feared a Congress merger
 
-## The last army standing
-The current crisis is not merely about leaders changing sides. It reflects the weakening of the idea of Sena that sustained the party for six decades
+## NEET aspirant seeks Nagpur centre as top choice, allotted Abu Dhabi days before re-test
+The aspirant had opted for Nagpur as his preferred city for the examination, scheduled to be held on June 21.
 
-## New West Bengal government clears all CBI sanction requests
-The government also restored the general consent for prosecution -- revoked by the then TMC regime in 2018 -- last week.
+## 1994-batch IAS, 30 years of experience: Who is Vivek Aggarwal, new vice president of global body FATF
+Union culture secretary Vivek Aggarwal will take over from United Kingdom national Giles Thomson, who has held the position since July 1, 2025.
 
-## Only those on electoral rolls after SIR to get govt scheme benefits: Karnataka CM DK Shivakumar
-The meeting also brought into focus concerns over beneficiaries who had migrated from other states but continued to receive benefits under Gruha Jyothi.
+## Before India's space milestone, Isro had to put a 673kg satellite on a bullock cart
+The landmark launch of Isro's first experimental communications satellite, which gave a boost to India’s space programme.
 
-## SC bats for fund to support young lawyers
-The Supreme Court directs the creation of a 'Young Lawyers’ Assistance Fund' to support financially struggling young advocates and prevent brain drain.
-
-## TMC MLA seeks probe into party-linked bank accounts; question source of funds
+## AP EAMCET Results 2026 Live Updates: EAPCET rank card likely next week at cets.apsche.ap.gov.in
 
 
-## Knowledge Nugget: What makes Tripura’s gi-tagged ‘Queen’ pineapple unique?
+## Pawanraje Nimbalkar murder case: 8 accused, including Sunetra Pawar’s brother, acquitted
 
 
-## 3 arrested for posting AI-generated obscene images of Kannada actor Rukmani Vasanth
+## Samir Soni had a ‘panic attack’ on his first date with Neelam: ‘Was drenched in sweat’
 
 
-## Elderly couple misses US event after 10-hour flight delay, wins Rs 2.22 lakh ‘harassment’ payout
+## T20 World Cup: India’s best at No.3, Jemimah Rodrigues, needs an impactful innings
 
 
-## Happy Father’s Day 2026: Best Wishes, Quotes, Images, Messages and WhatsApp Status for Dad
+## Gold Rate Today, June 20: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
 
 
-## Why Indian Embassy in UAE is suspending appointments for 5 days
+## Monsoon in India: West remains dry, heavy rain alert issued for Northeastern states
 
 
-## India News LIVE | 12 NEET aspirants die in 37 days; Uddhav offers to step down ; Iran warns US of ‘heavy cost’ — Breaking News Today
+## Shiv Sena (UBT) issues 24-hour ultimatum to 6 absent MPs: ‘If no response received…’
 
 
-## Israel-Hezbollah fragile ceasefire back on track after 24 hours of intense violence
+## Ajit Doval to chair BRICS security advisors’ meet in India on June 22
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN meeting erupts over sexual violence allegations against Israel
-“You will be quiet.” A UN meeting descended into a heated exchange.
+## Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack
+Khalil spent more than two decades protecting the nests of endangered turtle species in southern Lebanon.
 
-## Mexico City looks to rein in street drinking after massive World Cup party
-Authorities collected some 40 tonnes of waste around Reforma Avenue, the historic centre, on Friday morning.
+## Australia pledges action on H5N1 after bird flu case confirmed
+Australia confirmed its first mainland H5N1 bird flu case in a seabird near Esperance, WA.
 
-## Hydration break boos: How FIFA united players, fans, coaches at World Cup
-Criticism surrounding the breaks has been aimed at the commercial benefits for the three-minute pauses in action.
+## US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks
+US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed.
 
-## One dead and 89 injured following train collision in Bedford, UK
-One person is dead and almost 90 injured, after two trains collided near Bedford, about 100km north of London.
+## ‘We tasted the horrors of war’: Stories of refugees who returned home
+In 2025, nearly 15 million displaced people returned - the largest surge of returns recorded by the UN.
 
-## Cunha hits Brazil double against Haiti to seal first World Cup 2026 win
-Manchester United's Matheus Cunha scores Brazil's first two goals in 3-0 win against Haiti as FIFA event progress nears.
+## Iran war day 113: Tehran presses US over Lebanon ceasefire
+Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.
 
-## Lebanese influencer organises World Cup event amid Israel’s attack on Leban
-As Israel’s war on Lebanon rages, hundreds gather in Rmeileh by Sidon Gate to watch the 2026 World Cup.
+## What pushed the number of displaced people down?
+Global displacement fell for the first time in a decade. On World Refugee Day, AJLabs looks at what drove millions home.
 
-## Morocco beat Scotland 1–0 as Saibari scores fastest World Cup 2026 goal
-Morocco hold onto slender lead despite Scotland's late charge for an equaliser in Group C match at Boston Stadium.
+## Turkiye knocked out of World Cup 2026 after 1-0 defeat to 10-man Paraguay
+Turkiye suffered their second successive defeat in North America, bringing an end to their World Cup campaign.
 
-## Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon
-Iranian deputy foreign minister says Iran 'ready to move forward' on diplomacy with US, but war must end on all fronts.
+## Inferno rips through Dominican Republic beach resort
+Inferno rips through Dominican Republic beach resort
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
