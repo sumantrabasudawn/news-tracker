@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## UK unveils prototype missiles for Ukraine with no US components
+Low-cost, long-range weapons could be deployed as soon as this year in war against Russia
+
 ## One person dead and 89 injured after UK train crash
 Collision on the Midland Main Line is the first fatal rail incident in nearly two years
 
@@ -7,7 +10,7 @@ Collision on the Midland Main Line is the first fatal rail incident in nearly tw
 The $400mn gift has raised charges of conflicts between personal interests and official duties
 
 ## Cuba passes ‘urgent’ reforms to liberalise economy under US pressure
-Measures could be communist island’s biggest shake-up since the early years of the revolution in the 1960s
+Measures could be communist island’s biggest shake-up since revolution’s early years in 1960s
 
 ## Labour MPs fear they will lose their seats if Starmer remains in Number 10
 Prime minister’s support in the parliamentary party is ebbing away
@@ -19,10 +22,7 @@ Oil price falls on hopes agreement will bolster US-Iran deal
 PM faces cabinet mutiny after outgoing Greater Manchester mayor sees off Reform UK in Makerfield
 
 ## How Andy Burnham won Makerfield
-The Labour candidate beat Reform UK by eschewing Labour logos and focusing on local issues and his own personal appeal
-
-## Unseating Starmer: Burnham’s next move
-Plus, what Reform’s Makerfield defeat means for Farage
+The candidate beat Reform UK by eschewing Labour logos and focusing on local issues and his own personal appeal
 
 ## Third Heathrow runway would add just 0.05% to UK GDP, government finds
 Forecast by Department for Transport is a tenth of level predicted by the airport
@@ -39,32 +39,35 @@ Transaction expenses pushed the group into a pre-tax loss
 ## AbbVie closes in on nearly $11bn deal for biotech Apogee Therapeutics
 Buyout comes amid an uptick in biotech dealmaking as Big Pharma seeks to bolster its drug pipelines
 
-## EU set to remove barriers to banks’ cross-border capital flows
-Draft report by European Commission aims to boost performance of lenders in bloc compared with US rivals
+## Govt asks ICANN to set up root server in India
+A root server is the core part of the internet that connects users to websites
 
-## Petrol and diesel demand defies May price hikes
-Consumption of both petrol and diesel increased in May even as consumers faced higher fuel costs
+## Palestinian Embassy urges India to provide urgent medical aid amid crisis
+"It is the exact moment to save thousands of innocent lives. If not India and the Indian people; then who? If not now; then when? Every life matters," the statement said
 
-## Flipkart, Myntra see resilient demand despite consumption concerns: BofA
-The brokerage said investor concerns that inflationary pressures and softer consumer spending could hurt e-commerce growth have not materialised so far
+## From waste to wealth: Why crop residue burning is a system’s failure, not a seasonal
+If sustained and scaled, crop residue can cease to be a recurring environmental crisis and instead become part of a broader transformation linking agriculture with clean energy, soil regeneration, and climate resilience
 
-## Delhi High Court dismisses Telegram’s appeal against temporary ban
-In ⁠the ruling on Friday, Delhi High Court judge Tejas Karia said the government’s order was “least restrictive” and not disproportionate
+## Modi ‘tough cookie’, ‘great leader’ who has been in power for more than 12 years: Trump
+In an interview with Axios, Trump referred to China’s President Xi Jinping and Modi as the two greatest leaders he likes the most in terms of power and leverage and the ability to execute on that
 
-## Indian cumin exports drop 28% in FY26 on reduced offtake from China
-Shipments to Beijing drop 76% on higher local production; Iran war also impacts dispatch of consignments
+## Trump envoy, Iranian minister head to Switzerland for talks
+With the ceasefire in place, Steve Witkoff is heading to Switzerland to join Jared Kushner, President Donald Trump’s son-in-law, who is already there, Axios said
 
-## SC declares the right to walk carefree on footpaths a fundamental right
-The apex court judgment said walking powered the Freedom Struggle, politics and social reforms, but is yet to be recognised as a fundamental right; Asks government to frame a law to protect walkers on footpaths; Establish a regulator
+## Accenture's weak Q3, West Asia conflict impact cloud FY27 start for Indian IT: Report
+Accenture's Q3 revenue growth came in below consensus estimates, while bookings were weaker than anticipated due to delayed closure of large deals amid disruptions
 
-## Reliance eyes ₹4 lakh crore EBITDA by 2031; Bets big on AI and clean energy
-Reliance accelerates AI, satellite and clean energy ambitions alongside Jio IPO
+## India seeks BRICS nations' cooperation to strengthen MSME sector, boost growth
+Union Minister Jitan Ram Manjhi says around 8.5 crore MSME units currently functioning in India, providing employment to nearly 40 crore people
 
-## Jio files for likely record IPO as focus shifts from buildout to monetisation
-Meta, Google, Silver Lake to stay invested as company readies fresh issue of 27 crore equity shares
+## Uttar Pradesh’s exports to BRICS nations cross $5.36 billion during FY2025-26: Chaudhary
+Addressing the BRICS MSME Forum, UP MSME Minister Bhupendra Singh Chaudhary said the state has been exporting machinery, garments, leather, carpets and precious stones to several countries
 
-## Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth
-Nearly 60 per cent of FMCG companies’ D2C acquisitions over the past five years have been in the personal care segment, says Crisil Ratings
+## Accenture outlook cut sparks fresh fears over IT recovery
+Global tech spending concerns have intensified as Accenture lowered its FY26 revenue growth forecast to 3-4%. This outlook, despite a resilient third quarter, signals potential prolonged weak demand for Indian IT services firms, possibly extending into FY27. Analysts suggest this weakness at a leadi
+
+## Reliance succession plan on track, enters final leg
+Chairman Mukesh Ambani Says RIL Future In Safe Hands, Conglomerate Indivisible
 
 ## Sebi allows easier transfer of shares of dead investors
 
@@ -84,59 +87,56 @@ Union finance minister Nirmala Sitharaman emphasized that externally aided proje
 ## Sebi clears SBI Mutual Fund IPO; Rs 13,000 crore share sale likely next month
 India's largest asset manager, SBI Mutual Fund, has secured Sebi's nod for its Rs 13,000 crore initial public offering. The upcoming share sale, an offer for sale by existing shareholders State Bank of India and Amundi India Holding, is slated for next month. This listing will bring the country's bi
 
-## Reliance’s Jio Platforms IPO: From Meta, Google backing to AI ambitions — 10 takeaways from what could be India's biggest public issue
-Jio Platforms is set to launch India's largest IPO, aiming to raise $4 billion and valuing the digital giant at $137 billion. This move by Reliance Industries aims to unlock value from its expansive digital services, including connectivity, broadband, and AI. The offering exclusively involves fresh 
+## CJP protest in Delhi LIVE: Abhijeet Dipke's ‘Chalo Dilli’ call ahead of mega protest at Jantar Mantar
+CJP protest in Delhi LIVE: The Cockroach Janta Party (CJP) is set to hold its second major protest at Jantar Mantar in the national capital today, stepping up its campaign demanding Union education minister Dharmendra Pradhan's resignation. Activist Sonam Wangchuk is expected to attend the protest.
 
-## RIL AGM: From Jio Platforms IPO & satellite broadband focus to big AI & renewable energy plans - top takeaways
-While the proposed Jio IPO drew significant attention, Ambani used the company’s annual shareholder meeting to lay out Reliance’s future growth strategy, identifying artificial intelligence as one of the most important pillars of the group’s next chapter.
+## Wanted her removed, but ‘no major argument’: Why doctor killed house help in south Delhi
+Dr Manish Gupta's family said there had been differences over the domestic worker's employment, but no serious dispute.
 
-## Walking on footpaths a fundamental right, Supreme Court says
-The court declared that the right to walk is fundamental flowing from the guarantees of free movement, expression, assembly, association, and the right to life.
+## Posts about CJI, Union ministers playing badminton at UK event false: Govt to Delhi HC
+The Centre further argued that despite efforts to publicly clarify the facts, the misinformation campaign continued to spread online.
 
-## With 36.5K deaths a year, SC ruling on pedestrians hailed
-The Supreme Court's ruling recognizing walking on footpaths as a fundamental right is hailed by experts, urging stronger road safety measures and enforcement.
+## Shiv Sena vs Sena (UBT) on foundation day: Shinde, Thackeray spar as rebel MPs stay away
+This is the third crisis in Maharashtra after vertical splits in the Shiv Sena and the Nationalist Congress Party in 2022 and 2023.
 
-## NMC bars leaves for medical students on June 20-21 to prevent NEET ‘proxies’
-Medical students are banned from leave on June 20-21 to prevent proxy candidates in the NEET-UG 2026 re-exam, ensuring fair conduct.
+## The last army standing
+The current crisis is not merely about leaders changing sides. It reflects the weakening of the idea of Sena that sustained the party for six decades
 
-## NTA to conduct drill to check NEET retest preparedness
-A nationwide mock drill is set for June 21 ahead of the NEET-UG 2026 re-exam, involving 250,000 personnel to ensure security and coordination.
+## New West Bengal government clears all CBI sanction requests
+The government also restored the general consent for prosecution -- revoked by the then TMC regime in 2018 -- last week.
 
-## Donald Trump names two greatest leaders he likes the most, one of them is PM Modi
-Donald Trump and PM Modi met on the sidelines of the G-7 Summit in France to repair the relationship, which has been under strain over the past year.
+## Only those on electoral rolls after SIR to get govt scheme benefits: Karnataka CM DK Shivakumar
+The meeting also brought into focus concerns over beneficiaries who had migrated from other states but continued to receive benefits under Gruha Jyothi.
 
-## India's Vivek Aggarwal appointed FATF vice president, a first for the country
-The vice president of the FATF is elected by the FATF Plenary from among its members and assists the president in steering the organisation's work.
+## SC bats for fund to support young lawyers
+The Supreme Court directs the creation of a 'Young Lawyers’ Assistance Fund' to support financially struggling young advocates and prevent brain drain.
 
-## Scuffle breaks out at Kolkata airport ahead of Abhishek Banerjee's arrival, supporter blames 'BJP person'
-A supporter of Abhishek Banerjee said a “BJP person" arrived at the airport, followed by some boys with eggs in their hands.
-
-## TMC's Abhishek Banerjee meets LS Speaker, seeks disqualification of 20 'rebels'
-Altogether, 29 MPs got elected to the Lok Sabha on TMC tickets in the 2024 general elections. One MP passed away sometime ago and the seat remains vacant.
-
-## Why a parliamentary bypoll result raises questions about Keir Starmer’s future as British PM
+## TMC MLA seeks probe into party-linked bank accounts; question source of funds
 
 
-## 29-year-old Dalit man killed in UP village, protesters set main accused’s house on fire
+## Knowledge Nugget: What makes Tripura’s gi-tagged ‘Queen’ pineapple unique?
 
 
-## For family, flight attendant killed in Air India crash lives — one message at a time
+## 3 arrested for posting AI-generated obscene images of Kannada actor Rukmani Vasanth
 
 
-## ‘All Problem Solved’: Inside Instagram scam built on faith, desperation
+## Elderly couple misses US event after 10-hour flight delay, wins Rs 2.22 lakh ‘harassment’ payout
 
 
-## Trump calls PM Modi ‘great leader,’ says India used to rip US off
+## Happy Father’s Day 2026: Best Wishes, Quotes, Images, Messages and WhatsApp Status for Dad
 
 
-## ‘What if there’s an ambush’: Across divide, aspirants dread journey to NEET centres
+## Why Indian Embassy in UAE is suspending appointments for 5 days
 
 
-## Delhi High Court upholds Government order blocking Telegram to secure NEET retest Sunday
+## India News LIVE | 12 NEET aspirants die in 37 days; Uddhav offers to step down ; Iran warns US of ‘heavy cost’ — Breaking News Today
 
 
-## Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ in degrees, marksheets
+## Israel-Hezbollah fragile ceasefire back on track after 24 hours of intense violence
 
+
+## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
+Premium and niche foreign brands are entering or returning to China as they seek to unlock growth in the country’s vast consumer market just as many international companies are either pulling out or closing shop amid fierce competition in a fast-changing environment. Foreign companies including Amer
 
 ## Energy storage: China’s battery power sets stage for global leadership
 On a sunny morning in late May, a massive laboratory designed to create extreme conditions – from melting heat to bone-cracking cold, howling sandstorms, corrosive ocean spray and even fire – officially opened in the coastal city of Xiamen, in eastern China’s Fujian province. Equivalent in size to 1
@@ -158,9 +158,6 @@ Chinese autonomous-driving start-up Momenta moved a step closer to a Hong Kong i
 
 ## Hong Kong property sales more measured as interest rate increase looms
 Hong Kong homebuyers showed interest in 130 flats put on sale by developers on Thursday evening, but the pace of buying was more measured after an interest-rate increase later this year became more likely. Agents said 30 of the 75 units put on sale at Phase 4B of La Montagne at the Southside project
-
-## Why Hong Kong’s new corporate treasury centre plan could be a game changer
-Hong Kong’s latest push to attract corporate treasury centres (CTCs) could prove a turning point in its efforts to lure mainland Chinese and multinational companies, strengthening the city’s position as an international financial centre, according to industry participants. The government last week u
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings
-Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy.
+## UN meeting erupts over sexual violence allegations against Israel
+“You will be quiet.” A UN meeting descended into a heated exchange.
 
-## Thirty dead at DRC displacement camp as Ebola threat grows
-At least 30 people have died since May in the Kigonze displacement camp in the Democratic Republic of Congo.
+## Mexico City looks to rein in street drinking after massive World Cup party
+Authorities collected some 40 tonnes of waste around Reforma Avenue, the historic centre, on Friday morning.
 
-## USA beat Australia 2–0 to book knockout spot at World Cup
-An own goal and a goal by Alex Freeman helped the home side maintain a perfect record and progress to the round of 32.
+## Hydration break boos: How FIFA united players, fans, coaches at World Cup
+Criticism surrounding the breaks has been aimed at the commercial benefits for the three-minute pauses in action.
 
-## Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match
-'It's not the time to play a whole match,' Lamine Yamal said ahead of Spain's match against Saudi Arabia.
+## One dead and 89 injured following train collision in Bedford, UK
+One person is dead and almost 90 injured, after two trains collided near Bedford, about 100km north of London.
 
-## Canada’s Kone undergoes major leg surgery; to miss rest of World Cup
-Kone is expected to make a full recovery after breaking his left leg, with multiple fractures, in the match against Qatar.
+## Cunha hits Brazil double against Haiti to seal first World Cup 2026 win
+Manchester United's Matheus Cunha scores Brazil's first two goals in 3-0 win against Haiti as FIFA event progress nears.
 
-## Does Trump have to submit the Iran memorandum of understanding to Congress?
-A 2015 law requiring congressional approval for any Iran nuclear deal is in the spotlight after this week's memo.
+## Lebanese influencer organises World Cup event amid Israel’s attack on Leban
+As Israel’s war on Lebanon rages, hundreds gather in Rmeileh by Sidon Gate to watch the 2026 World Cup.
 
-## US announces new round of Israel-Lebanon talks in Washington next week
-Talks come as Hezbollah, Israel say new ceasefire has been reached in wake of US-Iran memorandum to end war.
+## Morocco beat Scotland 1–0 as Saibari scores fastest World Cup 2026 goal
+Morocco hold onto slender lead despite Scotland's late charge for an equaliser in Group C match at Boston Stadium.
 
-## Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph
-Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.
+## Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon
+Iranian deputy foreign minister says Iran 'ready to move forward' on diplomacy with US, but war must end on all fronts.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
@@ -306,6 +303,12 @@ Indian companies are making record profits, but they are not investing in new fa
 ## No merit in issues flagged by ex-chair of HDFC Bank: Law firms
 The reviews were prompted by former Chairman Atanu Chakraborty's dramatic March 18 resignation, a decision he had said in a letter to the exchanges was prompted by alleged deviations 'incongruent' with his ethics and value systems. The reference to possible ethical transgressions at the country's mo
 
+## PLI, duty incentives soon for Lithium, Nickel processing units in India
+India is poised to approve incentives, including production-linked benefits and import duty waivers on capital goods, to establish domestic lithium and nickel processing units. This strategic move aims to reduce reliance on overseas processors and bolster the nation's critical minerals ecosystem. Th
+
+## RBI MPC member Nagesh Kumar flags import dependence, Gulf remittances, El Nino risks in minutes
+India faces significant economic risks from the West Asia conflict, including potential disruptions to oil and fertilizer imports via the Strait of Hormuz and reduced remittances from the Gulf. El Niño-induced monsoon failures also pose a threat to agriculture. Despite these vulnerabilities, the nat
+
 ## RBI removes rate caps on select NRE, FCNR(B) deposits to attract foreign currency inflows
 The Reserve Bank of India is easing rules for foreign currency deposits. Interest rate caps on FCNR(B) deposits for three to five years are temporarily lifted. Restrictions on interest rates for NRE deposits of three years and above are also removed. These changes aim to attract more foreign currenc
 
@@ -323,10 +326,4 @@ The final guidelines, which will come into force from January 1, 2027, ban incen
 
 ## Rupee touches six-week high on oil slump, RBI effect lingers
 The Indian rupee has reached a six-week peak. This strength comes as Brent crude oil prices fall below $80 a barrel. Recent actions by the Reserve Bank of India are also supporting the currency. Investors are showing renewed interest in Indian bonds. The rupee is expected to continue its upward tren
-
-## Centre's disinvestment receipts poised to cross Rs 15,000 crore in the April-June quarter
-The Centre's disinvestment receipts are set to cross Rs 15,000 crore in the April-June quarter of the financial year 2026-27, driven by the success of offer for sale transactions in the shares of public sector enterprises.
-
-## India, Canada agree to conclude free trade pact talks by year-end
-India and Canada are set to finalize a free trade agreement by the end of this year. Prime Minister Narendra Modi and his Canadian counterpart Mark Carney met to strengthen bilateral ties. Discussions focused on enhancing cooperation in defense, trade, and energy sectors. Both nations aim to build a
 
