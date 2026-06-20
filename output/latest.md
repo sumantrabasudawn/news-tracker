@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire
+Setback for Donald Trump’s push to end war with the Islamic republic
+
+## Zelenskyy returns Polish state medal in escalating dispute with ally
+Ukrainian president calls on Warsaw to show more respect in row dating back to second world war
+
+## Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal
+Possible Democratic presidential candidate describes war as historic ‘American national security mess’
+
 ## Chief whip warns Starmer that growing number of MPs want exit timetable
 Prime minister is spending the weekend discussing his future with allies and colleagues
 
 ## Meloni accuses Trump of pandering to west’s enemies
 Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
-
-## Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire
-Setback for Donald Trump’s push to end war with the Islamic republic
 
 ## Pedro Sánchez’s wife ordered to face corruption trial and surrender passport
 Spanish prime minister’s office accuses judge of over-reach after shock decision
@@ -18,14 +24,11 @@ Investigators work to establish what led to the first deadly rail accident in ne
 ## Renault to abstain on Nissan board appointment
 Non-executive director was proponent of push to merge Japanese group with rival Honda
 
-## Ministers to make YouTube and Meta boost prominence of UK news
-Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
-
-## Markets get the measure of Trump
-At the very first sign that the president is buckling on an unorthodox foreign policy decision, that is the time to pounce
-
 ## Will football in America stick?
 Also in today’s newsletter: Kansas City Chiefs president discusses hosting the World Cup
+
+## Ministers to make YouTube and Meta boost prominence of UK news
+Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
 
 ## Rathbones’ blunder boosts banks in the race for the UK’s rich
 An internal review that found regulatory compliance shortcomings sent the stock down 17%
@@ -87,6 +90,9 @@ Despite strong export growth, China's domestic economy faces significant challen
 ## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
 India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
 
+## ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India
+MEA said in a statement that the comments made by Asif Ali Zardari were “particularly absurd given Pakistan’s own abysmal record on human rights”.
+
 ## Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit
 Rahman’s decision to first travel to Malaysia is seen as part of his govt’s careful balancing between India and China in line with its “Bangladesh First” policy
 
@@ -108,10 +114,13 @@ Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and 
 ## Ajit Doval to host BRICS national security advisor’s meet on June 22-23
 The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of national security challenges, and the role of new technologies
 
-## Six dead, several injured after under-construction temple roof collapses in Maharashtra's Parbhani | Video
-Maharashtra Chief Minister Devendra Fadnavis expressed grief over the loss of lives and said the injured were receiving medical care.
+## Ghee and betel leaf: Nutritionist explains why this is a good combination for your gut
 
-## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Group E’s unbeaten sides duel today
+
+## At least 12 shot in Chicago after SUV pulls up and opens fire on a crowd
+
+
+## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: GER come into game after 7-1 win
 
 
 ## ‘Yoga changed the way I listen to my body’: What experts say about Suniel Shetty’s claim
@@ -127,12 +136,6 @@ Maharashtra Chief Minister Devendra Fadnavis expressed grief over the loss of li
 
 
 ## BPSC’s biggest batch since Independence: 2,027 selections, a UP girl at the top
-
-
-## NEET-UG re-test on June 21, Gujarat Police ramp up security across major cities
-
-
-## Rajasthan tops Northern Zone with 17.39 lakh children; Punjab, Haryana follow
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -255,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Are UK Prime Minister Keir Starmer’s political days numbered?
+British PM resisting intensifying party pressure to step aside.
+
+## Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza
+Al Jazeera said it 'strongly condemns the heinous crime of targeting and killing' the Al Jazeera Mubasher correspondent.
+
 ## US-Iran talks to kick off Sunday in Switzerland, says Pakistan
 Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.
 
@@ -272,12 +281,6 @@ For several weeks, a wave of protests has erupted over President Rodrigo Paz’s
 
 ## Israeli strike kills children in Gaza despite ceasefire claims
 Israeli strike kills children in Gaza despite ceasefire claims
-
-## ‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal
-Public outrage in Israel mounts over MoU, with many feeling betrayed by the US in its deal with Iran
-
-## How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election
-Critics say Cepeda, a soft-spoken senator, became a 'hero to the left' after he took on a right-wing president in court.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
