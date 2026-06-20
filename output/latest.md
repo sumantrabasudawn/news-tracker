@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## One person dead and 89 injured after UK train crash
+Collision on the Midland Main Line is the first fatal rail incident in nearly two years
+
 ## Ministers to make YouTube and Meta boost prominence of UK news
 Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
 
@@ -21,8 +24,8 @@ At Monday’s James Beard Awards in Chicago, winner after winner stood up for th
 ## Big Tech is stoking unrest in the UK. Why?
 Elon Musk’s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone
 
-## Nigel Farage’s Brexit rallies were funded from the EU budget
-European monies paid for anti-immigrant posters during ‘Say No to EU’ tour
+## Will football in America stick?
+Also in today’s newsletter: Kansas City Chiefs president discusses hosting the World Cup
 
 ## Rathbones’ blunder boosts banks in the race for the UK’s rich
 An internal review that found regulatory compliance shortcomings sent the stock down 17%
@@ -39,35 +42,38 @@ Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as i
 ## America’s intractable air traffic problem
 Tech outages and staff shortages are causing traveller misery as World Cup fans arrive and summer travel peaks
 
-## UK unveils prototype missiles for Ukraine with no US components
-Low-cost, long-range weapons could be deployed as soon as this year in war against Russia
+## India’s data centre capacity pipeline hits 8.33 GW amid AI and cloud boom
+Mumbai leads India’s data centre expansion with the largest pipeline, followed by Hyderabad and Chennai, while NCR, Pune and Bengaluru continue adding capacity, reflecting broad-based growth across key digital infrastructure hubs
 
-## One person dead and 89 injured after UK train crash
-Collision on the Midland Main Line is the first fatal rail incident in nearly two years
+## Apple explains why watchOS 27 ends support for Apple Watch Series 6, 7, 8 and Ultra
+The affected watches will continue receiving security updates
 
-## Supervisory Data Quality Index score of small finance banks and private sector banks drops
-The SDQI of public sector banks declined marginally by 0.3 in March 2026 as compared to December 2025; overall, the SDQI score of scheduled commercial banks declined marginally by 0.2 in March 2026
+## World Cup 2026 changes global perception of US as fans discover American warmth
+The World Cup in the United States is offering international fans unexpected experiences, with visitors praising local hospitality, culture and communities while discovering a side of America beyond familiar stereotypes.
 
-## India to host BRICS National Security Advisers' Meet from June 22-23: MEA
-During the meeting, the National Security Advisers will exchange views on the theme ‘Non-traditional security challenges confronting the world today’
+## Karnataka to launch Prajaseva Department for faster public grievance redressal
+The state cabinet also approved a 15-day window for eligible residents of older buildings to apply for permanent electricity connections
 
-## TN govt cancels ₹246 crore projects announced under HR&CE dept during previous regime
-The move would prevent the temples under the control of Tamil Nadu Hindu Religious and Charitable Endowments Department from going bankrupt, an official said on Saturday
+## How deep-sea isopods survive five years without food in the ocean’s darkest depths
+Scientists have uncovered the remarkable survival mechanism of deep-sea isopods, revealing how these ocean dwellers conserve energy, store nutrients and adapt to extreme environments with little food
 
-## India diversifies LPG imports during West Asia conflict as OMCs absorb price shock
-Before the conflict, roughly 90% of India's LPG imports came from West Asian suppliers, leaving the country heavily exposed to regional disruptions
+## Investors paying too much for future growth may be hurting returns: Morgan Stanley
+Explaining its framework, Morgan Stanley said stock prices can be viewed in two parts: the value of a company's existing business and the value of future investments that create additional returns
 
-## Nationwide mock drill underway ahead of NEET-UG re-exam; security tightened
-More than 22.79 lakh medical aspirants will appear for the re-examination on June 21
+## PhonePe wallet inactivity fee explained: No impact on UPI payments or bank accounts
+PhonePe has clarified rules around dormant prepaid wallets after users raised concerns over inactivity charges. The company said wallet balances, UPI transactions and linked bank accounts follow separate systems with different operating rules
 
-## Prez, PM to launch projects worth over ₹47,600 crore in Odisha on Saturday
-The projects, covering energy, infrastructure, roads, water, health, education, tourism, and irrigation, are being unveiled on the second anniversary of the BJP government in Odisha
+## Tamil Nadu weather today: Heavy rain expected in over 10 districts as Southwest Monsoon intensifies
+Heavy rain likely at isolated places over Nilgiris, Erode, Salem, Dharmapuri, Krishnagiri, Coimbatore, Theni, Dindigul, and Kanyakumari districts, and ghat areas of Tirunelveli district
 
-## India preferred hub for manufacturing, GCCs: Experts at Houston roundtable
-The roundtable facilitated discussions on strengthening India-US partnerships in trade, technology and innovation while showcasing opportunities for global companies looking to expand
+## 7 new bullet train corridors approved: Centre steps up high-speed rail expansion across India
+India is set to revolutionize its rail network with the approval of seven new bullet train corridors, promising significantly reduced travel times between major cities. Key routes like Mumbai-Ahmedabad will see journeys slashed to under two hours, while Bengaluru-Chennai will take just over an hour.
 
-## India's BoP outlook improves, INR depreciation pressure to ease: Goldman Sachs
-Goldman Sachs said India posted a $7.2bn BoP surplus in Q1 CY26 despite softer capital inflows, supported by stronger remittances, robust services exports and low oil imports
+## China's economy struggles to regain domestic momentum despite export boom: Report
+Despite strong export growth, China's domestic economy faces significant challenges. Consumer spending saw a decline in May, with retail sales falling for the first time since late 2022. Consumer confidence remains low, and credit demand is weak, indicating reluctance from businesses and households 
+
+## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
+India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
 
 ## Crude comeback: 20 million barrels leave Iran port after peace breakthrough
 Iran's oil exports have surged following a peace deal with Washington, with 11 tankers carrying 20 million barrels departing the Gulf of Oman. This increase coincides with new maritime regulations for the Strait of Hormuz. However, the delay of permanent peace talks due to regional clashes casts a s
@@ -84,61 +90,52 @@ Chairman Mukesh Ambani Says RIL Future In Safe Hands, Conglomerate Indivisible
 ## Rupee ends higher for second day, settles at 94.33 as trade deal hopes offset oil concerns
 The Indian rupee strengthened for a second day, closing at 94.33 against the US dollar, buoyed by positive India-US trade talks. Hopes for an interim trade agreement between the two nations are rising, with negotiators urged to expedite efforts. However, global uncertainties and a stronger dollar li
 
-## Jio IPO risk factors: From spectrum renewals to AI rules, key challenges flagged in draft papers
-Jio Platforms, gearing up for a massive IPO, has revealed significant risks including spectrum renewal challenges, cybersecurity threats, and evolving AI and data privacy regulations. The company also faces uncertainties in its satellite connectivity ventures and potential competition from within th
+## Bring Pak back on ‘grey list’: Owaisi to govt as India gets FATF vice presidency
+Asaduddin Owaisi opined that the USA list of TRF (The Resistance Force) is of "no real use".
 
-## Kisan Credit Card rules revised: RBI standardises crop season norms, retains collateral-free loan limit
-The Reserve Bank of India has revamped the Kisan Credit Card (KCC) framework, standardizing crop season definitions and aligning them with banking asset-classification norms. Effective January 2027, these changes aim to simplify farm loan processes and ensure timely credit for agriculture and allied
+## Kailash Mansarovar Yatra begins, first batch crosses into China via Nathu La pass
+First batch comprises 44 pilgrims, including four Liaison Officers and a Medical Officer. Of them, 32 are men and 12 are women representing various states
 
-## Sitharaman says external aid projects should help Northeast products reach global markets
-Union finance minister Nirmala Sitharaman emphasized that externally aided projects in the Northeast should empower local products for global markets and strengthen livelihoods. She highlighted a seven-fold increase in assistance, with over 10,000 km of roads built since 2014. Sitharaman underscored
+## PM Kisan 23rd installment today: Over 9 crore farmers to receive ₹2,000; here's how to check status
+Under the PM-KISAN scheme, eligible farmer families receive income support of ₹6,000 annually, paid in three equal installments of ₹2,000 each.
 
-## In Sena split, a tiger's tale and some canine digs: How Shinde and Uddhav’s parties are feuding with biting metaphors
-Bal Thackeray, a cartoonist, was often portrayed as a roaring tiger — logo of the Shiv Sena he founded. Factions are fighting also citing dogs and loyalty.
+## Twist in Nagpur NEET aspirant's story: NTA says candidate 'selected Abu Dhabi'; Dubai was second option for exam centre
+A senior NTA official said the candidate himself changed the city preferences through the portal, selecting Abu Dhabi and Dubai as city preferences.
 
-## Heavy rain expected in over 10 Tamil Nadu districts as southwest monsoon intensifies
-Due to heavy rain, maximum temperatures are also expected to fall by four to five degrees Celsius over several rain-predicted districts in Tamil Nadu.
+## Delhi doctor who killed house help was on depression meds for a decade, mental health under lens as motive a mystery
+“We will also question his doctors to understand if there was a trigger or a recent behavioural change. This might help establish a motive,” an officer said.
 
-## Kerala high court orders police protection for viral Kumbh Mela girl
-The girl's husband, Mohd Farman, is accused of kidnapping her in a case registered by Madhya Pradesh police based on a complaint filed by her father.
+## 'Go Pradhan Go' chants ring out at Jantar Mantar as protesters bang thalis and chammach | Video
+The protest marked the Cockroach Janta Party's (CJP) second major mobilisation after its June 6 gathering at Jantar Mantar.
 
-## Bihar court grants interim relief to educator Khan Sir in coaching institute firing case
-The Patna Police had registered FIR against Faisal Khan and two others in connection with the June 2 firing, but have now upheld a 'no coercive action' order.
+## HC upholds order to block Telegram ahead of NEET
+The NEET-UG 2026, held on May 3, was cancelled on May 12 after overlaps emerged between a leaked guess paper and the actual one
 
-## Second Sena split in 4 years: How Thackeray's party is unravelling again
-Uddhav Thackeray, who lost Shiv Sena's original name and the symbol in 2022, has rejected the rebel MPs' claim that they feared a Congress merger
+## ‘Only one Shiv Sena remains’: Amit Shah's dig at Uddhav Thackeray, says Eknath Shinde's no longer a ‘faction’
+Union hone minister and BJP leader's declaration caps a split years in the making, even as allegations of Centre's ruling party “buying” MPs fly
 
-## NEET aspirant seeks Nagpur centre as top choice, allotted Abu Dhabi days before re-test
-The aspirant had opted for Nagpur as his preferred city for the examination, scheduled to be held on June 21.
-
-## 1994-batch IAS, 30 years of experience: Who is Vivek Aggarwal, new vice president of global body FATF
-Union culture secretary Vivek Aggarwal will take over from United Kingdom national Giles Thomson, who has held the position since July 1, 2025.
-
-## Before India's space milestone, Isro had to put a 673kg satellite on a bullock cart
-The landmark launch of Isro's first experimental communications satellite, which gave a boost to India’s space programme.
-
-## AP EAMCET Results 2026 Live Updates: EAPCET rank card likely next week at cets.apsche.ap.gov.in
+## Right to walk on footpaths: Behind Supreme Court order, a surge in pedestrian deaths
 
 
-## Pawanraje Nimbalkar murder case: 8 accused, including Sunetra Pawar’s brother, acquitted
+## I watched Obsession with my girlfriend. Then she asked me one question
 
 
-## Samir Soni had a ‘panic attack’ on his first date with Neelam: ‘Was drenched in sweat’
+## Will Omraje Nimbalkar join Shinde Sena? MP says decision in 2 days
 
 
-## T20 World Cup: India’s best at No.3, Jemimah Rodrigues, needs an impactful innings
+## When Juhi Chawla’s in-laws loaned money to Gujarat government amid financial crisis
 
 
-## Gold Rate Today, June 20: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities
+## Expat shares parenting habits she ‘happily borrowed’ from Indian families
 
 
-## Monsoon in India: West remains dry, heavy rain alert issued for Northeastern states
+## Beyond the tourist trail: 10 lesser-known places to explore in Mizoram
 
 
-## Shiv Sena (UBT) issues 24-hour ultimatum to 6 absent MPs: ‘If no response received…’
+## What Sunetra Pawar brother’s acquittal in murder case means for Uddhav Sena split
 
 
-## Ajit Doval to chair BRICS security advisors’ meet in India on June 22
+## NEET re-exam 2026 on June 21: All local trains on Howrah, Sealdah routes to operate; special services announced
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -261,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Families storm Ebola treatment centre in DRC, remove patients
+Families of suspected Ebola patients in DR Congo stormed a quarantine centre, removing patients.
+
+## Trump’s Iran deal, Israel’s meltdown
+The precarious memorandum of understanding between the US and Iran.
+
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+
+## Two roadside bombs kill at least seven in northwestern Pakistan
+No group has yet claimed responsibility for the attacks.
+
+## Family, including two daughters, killed in Israeli strikes on Gaza
+Israel has repeatedly violated the October ceasefire brokered by the US.
+
+## World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights
+World Cup day 10 features Netherlands-Sweden as the USA reach the knockout stage and Brazil move closer to qualification
+
 ## Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack
 Khalil spent more than two decades protecting the nests of endangered turtle species in southern Lebanon.
 
 ## Australia pledges action on H5N1 after bird flu case confirmed
 Australia confirmed its first mainland H5N1 bird flu case in a seabird near Esperance, WA.
-
-## US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks
-US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed.
-
-## ‘We tasted the horrors of war’: Stories of refugees who returned home
-In 2025, nearly 15 million displaced people returned - the largest surge of returns recorded by the UN.
-
-## Iran war day 113: Tehran presses US over Lebanon ceasefire
-Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.
-
-## What pushed the number of displaced people down?
-Global displacement fell for the first time in a decade. On World Refugee Day, AJLabs looks at what drove millions home.
-
-## Turkiye knocked out of World Cup 2026 after 1-0 defeat to 10-man Paraguay
-Turkiye suffered their second successive defeat in North America, bringing an end to their World Cup campaign.
-
-## Inferno rips through Dominican Republic beach resort
-Inferno rips through Dominican Republic beach resort
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
