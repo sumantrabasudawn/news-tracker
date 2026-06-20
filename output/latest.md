@@ -1,13 +1,13 @@
 # AION Intelligence
 
+## Chief whip warns Starmer that growing number of MPs want exit timetable
+Prime minister is spending the weekend discussing his future with allies and colleagues
+
 ## Meloni accuses Trump of pandering to west’s enemies
 Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
 
 ## Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire
 Setback for Donald Trump’s push to end war with the Islamic republic
-
-## Chief whip warns Starmer that growing number of MPs want exit timetable
-Prime minister is spending the weekend discussing his future with allies and colleagues
 
 ## Pedro Sánchez’s wife ordered to face corruption trial and surrender passport
 Spanish prime minister’s office accuses judge of over-reach after shock decision
@@ -39,17 +39,14 @@ For two decades, Hollywood’s most indispensable executive has been synonymous 
 ## Beer can boost ‘spiritual or mental’ health, says Kirin president
 Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
 
-## Mastering Derivatives: Understanding change in OI
-Your interpretation depends on who is likely to dominate the price movement
+## Domestic flows help cash market defy correction
+The average daily turnover rose during the sell-off as MFs absorbed FPI exits; the strength has continued even after the recent recovery
 
-## F&O Tracker: Nifty futures and Nifty Bank futures gaining traction
-Nifty breaks above resistance and Bank Nifty builds on its breakout as bearish sentiment eases
+## US-Iran talks set for Sunday in Switzerland as Tehran shuts Strait of Hormuz amid Lebanon fighting
+The latest escalation has raised fresh concerns over regional stability, with diplomatic efforts and nuclear talks facing new uncertainty.
 
-## India restores 3.4 million hectares of degraded land, boosts rural livelihoods
-Speaking at the 5th NAREDCO Mahi Real Estate Convention 2026 in New Delhi, officials emphasised the need for sustainable urbanisation alongside rural development
-
-## West Asia crisis drives container freight spot rates sharply higher; recovery may take till September
-Before the conflict, 99 container services operated in or transited the Arabian Gulf, deploying 3.2 million TEUs, or about 10% of the global container fleet
+## Tech Query: Ashok Leyland, Persistent Systems, Jupiter Life Line Hospitals, Inox Wind - What is the outlook? Where are these stocks headed?
+We look at the prospects of Ashok Leyland and four other stocks – Persistent Systems, Jupiter Life Line Hospitals and Inox Wind
 
 ## Index Outlook: Lifting hopes
 The benchmark indices can rise more on a break above their immediate resistance
@@ -62,6 +59,12 @@ Factors to consider while increasing the insured sum on one’s existing policy
 
 ## Movers & Shakers: Stocks that will see action this week
 Here is what the charts say about the shares of Aurobindo Pharma, Bharat Electronics and Trent
+
+## Crude Check: Oil futures remain weak
+However, corrective rise possible
+
+## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
+Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
 
 ## 3 Indian-flagged oil tankers cross Strait of Hormuz, head home with 94 crew members
 Three Indian oil tankers, carrying over 8.6 lakh metric tonnes of cargo and 94 crew members, have successfully navigated the Strait of Hormuz and are heading home. This safe passage follows a US decision to lift its blockade on Iran, allowing resumed movement through the vital waterway. The governme
@@ -84,8 +87,20 @@ Despite strong export growth, China's domestic economy faces significant challen
 ## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
 India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
 
-## Crude comeback: 20 million barrels leave Iran port after peace breakthrough
-Iran's oil exports have surged following a peace deal with Washington, with 11 tankers carrying 20 million barrels departing the Gulf of Oman. This increase coincides with new maritime regulations for the Strait of Hormuz. However, the delay of permanent peace talks due to regional clashes casts a s
+## Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit
+Rahman’s decision to first travel to Malaysia is seen as part of his govt’s careful balancing between India and China in line with its “Bangladesh First” policy
+
+## No increase in petrol, diesel prices ‘if situation is viewed in real terms’, says Govt
+Puri said said the increase in petrol and diesel prices had been limited to ₹7.60, added that compared to prices prevailing during the Russia-Ukraine war.
+
+## After the slogans fade, what future awaits the Cockroach Janta Party?
+Abhijeet Dipke's speeches at Delhi's Jantar Mantar drew the largest crowds, and supporters frequently gathered near the stage to hear him speak.
+
+## 'May exam went well, was preparing for re-NEET': Ghaziabad student dies by suicide 2 days before June 21 exam
+The family told the police that the victim had appeared for the NEET UG exam in May and it had went well. He was preparing for the re-exam on June 21.
+
+## Delhi: Baby accidentally consumes mosquito-repellent liquid, makes remarkable recovery
+The child required prolonged Pediatric Intensive Care Unit (PICU) care, advanced ventilation, inotropic support, and renal support.
 
 ## BPSC announces 70th CCE results, Shraddha Pandey emerges topper; exam had led to protests last year
 Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and Ayush Bijoy scored 592 marks each, securing second and the third spot.
@@ -96,43 +111,28 @@ The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of
 ## Six dead, several injured after under-construction temple roof collapses in Maharashtra's Parbhani | Video
 Maharashtra Chief Minister Devendra Fadnavis expressed grief over the loss of lives and said the injured were receiving medical care.
 
-## EU removes negative travel advisory for Assam: CM Himanta Biswa Sarma
-Earlier this month, a high-level EU delegation visited Assam on a two-day visit to explore greater engagement with the state
-
-## 1.3 lakh CCTV cams, 51k jammers: Security arrangements in place ahead of NEET-UG reexam tomorrow
-The National Testing Agency (NTA) has geared up to ensure the smooth conduct of the NEET reexam, and has significantly enhanced security arrangements.
-
-## How a 20-year-old murder of Congress leader ‘influenced’ Shiv Sena UBT crisis
-Pawanraje Nimbalkar, a Congress leader, also happens to be the father of Om Raje Nimbalkar, one of the alleged rebel MPs.
-
-## Section 163 imposed in Gurugram ahead of NEET-UG re-exam: Official
-The order also bans carrying weapons, parking vehicles, use of loudspeakers, and operation of wi-fi or any electronic devices in the restricted zone
-
-## #Melodi moment, ‘Panvel nikalna hai’: Meme-filled posters in spotlight at CJP protest in Delhi
-The demonstrators, led by CJP founder Abhijeet Dipke, used unserious memes to raise serious issues at the rally in Delhi on Saturday.
-
-## How Ukraine’s new drone strategy is choking Russia’s war machine
+## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Group E’s unbeaten sides duel today
 
 
-## India should move away from being back office to world, become product nation: UIDAI chairman
+## ‘Yoga changed the way I listen to my body’: What experts say about Suniel Shetty’s claim
 
 
-## Eye on women’s safety, long-distance commute, DTC plans 4 am bus service
+## AAP protests statewide against SAD for circulating ‘fake’ video to defame Mann
 
 
-## How undersea cables helped Britain rule its global empire
+## Monsoon around the corner, river desilting started at 52 sites against 182 identified flood-prone points
 
 
-## Chandigarh duo of Harjai Milkha Singh and Krish star in Indian win in APGC Jr
+## How a marginal farming couple gave up Canada dream and built a thriving fancy bird business
 
 
-## ‘Food like prasad’: Farah Khan discovers ‘Panch-Tatva’ chaat at astrologer Jai Madaan’s Delhi mansion
+## BPSC’s biggest batch since Independence: 2,027 selections, a UP girl at the top
 
 
-## From President Murmu’s home turf, PM Modi pitches eastern India as ‘country’s growth engine’
+## NEET-UG re-test on June 21, Gujarat Police ramp up security across major cities
 
 
-## ‘Bengal freed from shackles, looters being sent to jail’, says PM, calls for ‘new future’
+## Rajasthan tops Northern Zone with 17.39 lakh children; Punjab, Haryana follow
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments
-Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.
+## US-Iran talks to kick off Sunday in Switzerland, says Pakistan
+Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.
 
-## Nine left in critical condition after UK train collision that killed driver
-More than 80 people received treatment after the crash and 28 remain in hospital.
+## As ILO convention turns 30, India’s home-based workers demand equal rights
+Convention 177 was adopted on 20 June 1996, recognising home-based workers on a par with traditional wage earners.
 
-## Court bans Spanish PM’s wife from leaving country amid corruption probe
-Begona Gomez is accused of using her position as the prime minister's wife ⁠to secure work contracts.
+## World cup wrap day 9
+World cup wrap day 9
 
-## Where do Iran’s political factions stand on the US peace deal?
-Iran's rival political camps are locking horns over a memorandum of understanding with the US.
+## Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes
+Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.
 
-## In Nepal’s highlands, climate change threatens Tibet’s Bon faith
-In Lubra, Nepal’s last Bon village, climate-driven floods are destroying homes and land, endangering ancient traditions.
+## Bolivia declares state of emergency amid blockade crisis
+For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.
 
-## UK condemns Israeli minister over inflammatory Lebanon remarks
-UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.
+## Israeli strike kills children in Gaza despite ceasefire claims
+Israeli strike kills children in Gaza despite ceasefire claims
 
-## Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute
-The move comes after Ukrainian President Volodymyr Zelenskyy was stripped of Poland's top honour.
+## ‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal
+Public outrage in Israel mounts over MoU, with many feeling betrayed by the US in its deal with Iran
 
-## Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff
-Spain face Saudi Arabia in need of a win to take control of Group H. Can they rediscover their attacking edge?
+## How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election
+Critics say Cepeda, a soft-spoken senator, became a 'hero to the left' after he took on a right-wing president in court.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
