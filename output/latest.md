@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire
-Setback for Donald Trump’s push to end war with the Islamic republic
+Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic
 
 ## Zelenskyy returns Polish state medal in escalating dispute with ally
 Ukrainian president calls on Warsaw to show more respect in row dating back to second world war
@@ -126,7 +126,7 @@ The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of
 ## At least 12 shot in Chicago after SUV pulls up and opens fire on a crowd
 
 
-## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Kessie scores for CIV; GER have 2 goals disallowed
+## Germany vs Ivory Coast, FIFA World Cup 2026 Live Score: Deniz Undav scores twice as GER lead 2-1
 
 
 ## ‘Yoga changed the way I listen to my body’: What experts say about Suniel Shetty’s claim
@@ -258,6 +258,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bolivia declares state of emergency to clear protest blockades
+Bolivia declares state of emergency to clear protest blockades
+
 ## Overplaying Strait of Hormuz card will turn Iran into a pariah state
 Overplaying Strait of Hormuz card will turn Iran into a pariah state.
 
@@ -278,9 +281,6 @@ Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran
 
 ## As ILO convention turns 30, India’s home-based workers demand equal rights
 Convention 177 was adopted on 20 June 1996, recognising home-based workers on a par with traditional wage earners.
-
-## World cup wrap day 9
-World cup wrap day 9
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
