@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## One person dead and 89 injured after UK train crash
-Collision on the Midland main line is the first fatal rail incident in nearly two years
+Collision on the Midland Main Line is the first fatal rail incident in nearly two years
 
 ## Trump accepts Qatar jet as new Air Force One despite ethics concerns
 The $400mn gift has raised charges of conflicts between personal interests and official duties
@@ -66,6 +66,9 @@ Meta, Google, Silver Lake to stay invested as company readies fresh issue of 27 
 ## Beauty becomes the crown jewel of D2C deals as FMCG giants chase premium growth
 Nearly 60 per cent of FMCG companies’ D2C acquisitions over the past five years have been in the personal care segment, says Crisil Ratings
 
+## Sebi allows easier transfer of shares of dead investors
+
+
 ## Rupee ends higher for second day, settles at 94.33 as trade deal hopes offset oil concerns
 The Indian rupee strengthened for a second day, closing at 94.33 against the US dollar, buoyed by positive India-US trade talks. Hopes for an interim trade agreement between the two nations are rising, with negotiators urged to expedite efforts. However, global uncertainties and a stronger dollar li
 
@@ -87,8 +90,17 @@ Jio Platforms is set to launch India's largest IPO, aiming to raise $4 billion a
 ## RIL AGM: From Jio Platforms IPO & satellite broadband focus to big AI & renewable energy plans - top takeaways
 While the proposed Jio IPO drew significant attention, Ambani used the company’s annual shareholder meeting to lay out Reliance’s future growth strategy, identifying artificial intelligence as one of the most important pillars of the group’s next chapter.
 
-## Sebi brings back stock exchange buybacks, clears faster fundraising route for AIFs
-Market regulator Sebi has greenlit several key reforms, including the return of open market share buybacks via stock exchanges, offering companies a faster execution route. Mutual funds will see relaxed intra-day borrowing norms, and alternative investment funds can now raise capital quicker through
+## Walking on footpaths a fundamental right, Supreme Court says
+The court declared that the right to walk is fundamental flowing from the guarantees of free movement, expression, assembly, association, and the right to life.
+
+## With 36.5K deaths a year, SC ruling on pedestrians hailed
+The Supreme Court's ruling recognizing walking on footpaths as a fundamental right is hailed by experts, urging stronger road safety measures and enforcement.
+
+## NMC bars leaves for medical students on June 20-21 to prevent NEET ‘proxies’
+Medical students are banned from leave on June 20-21 to prevent proxy candidates in the NEET-UG 2026 re-exam, ensuring fair conduct.
+
+## NTA to conduct drill to check NEET retest preparedness
+A nationwide mock drill is set for June 21 ahead of the NEET-UG 2026 re-exam, involving 250,000 personnel to ensure security and coordination.
 
 ## Donald Trump names two greatest leaders he likes the most, one of them is PM Modi
 Donald Trump and PM Modi met on the sidelines of the G-7 Summit in France to repair the relationship, which has been under strain over the past year.
@@ -102,40 +114,28 @@ A supporter of Abhishek Banerjee said a “BJP person" arrived at the airport, f
 ## TMC's Abhishek Banerjee meets LS Speaker, seeks disqualification of 20 'rebels'
 Altogether, 29 MPs got elected to the Lok Sabha on TMC tickets in the 2024 general elections. One MP passed away sometime ago and the seat remains vacant.
 
-## Yellow alert in Delhi; rain, thunderstorms and gusty winds likely tonight
-The city began the day under partly cloudy skies, with the minimum temperature recorded at 27 degrees Celsius, 0.5 notches below the seasonal average.
-
-## Dust biggest contributor to PM2.5 concentrations during summers in Delhi-NCR: Air quality panel official
-Dust's role in PM2.5 concentrations during summers stood at 27 per cent compared to 15 per cent during winters, a CAQM official said on Friday.
-
-## ‘Apologise for defection, will step down if you don’t have trust': Uddhav to Sena workers amid rebellion buzz
-While addressing the gathering at Shiv Sena's 60th foundation day, Uddhav attacked the BJP and said the country is moving towards ‘one party, no election’
-
-## IndiGo flight, with 140 onboard, suffers lightning strike at Kolkata airport
-Two IndiGo ground staff members were reportedly affected by the lightning strike and received medical treatment.
-
-## Brazil vs Haiti, FIFA World Cup 2026 LIVE Score: Focus on Vinicius as BRA eye win over HAI at Philadelphia
+## Why a parliamentary bypoll result raises questions about Keir Starmer’s future as British PM
 
 
-## ‘Didn’t realise he was triggered over not firing her’: Wife of doctor who killed help
+## 29-year-old Dalit man killed in UP village, protesters set main accused’s house on fire
 
 
-## Infants called as ‘files’, payments in cash: Probe deepens into trafficking racket
+## For family, flight attendant killed in Air India crash lives — one message at a time
 
 
-## Delhi government digs in heels against pushback, no new petrol 2-wheelers from April ’28
+## ‘All Problem Solved’: Inside Instagram scam built on faith, desperation
 
 
-## PM Modi to commission 3 indigenously built naval ships in Kolkata on June 21
+## Trump calls PM Modi ‘great leader,’ says India used to rip US off
 
 
-## 70 lakh jobs created under PM-VBRY: Narendra Modi
+## ‘What if there’s an ambush’: Across divide, aspirants dread journey to NEET centres
 
 
-## How vitamin D supplements left a 26-year-old facing kidney failure
+## Delhi High Court upholds Government order blocking Telegram to secure NEET retest Sunday
 
 
-## Two trains collide north of London, multiple injuries reported
+## Nudged by RSS-linked body, several universities replace ‘India’ with ‘Bharat’ in degrees, marksheets
 
 
 ## Energy storage: China’s battery power sets stage for global leadership
@@ -186,6 +186,15 @@ As the public suffers, a corrupt regime prepares for a bonanza.
 ## The Era of the French Intellectual Is Over
 The recently deceased Edgar Morin was the last reminder of a bygone phenomenon.
 
+## The ‘Tibet Aid’ Cadres System as a Mechanism for Political Control in Tibet
+The system, supposedly meant to aid Tibet, actually serves to sideline local Tibetan personnel while boosting the careers of Han Chinese cadres from other regions.
+
+## Why Bangladesh Is Fencing Its Border With Myanmar
+A non-state actor – the Arakan Army – now controls Myanmar’s side of the border. That forces Bangladesh to rely more on unilateral forms of border management.
+
+## What Will the End of the Iran-US War Mean for Pakistan?
+Pakistanis are hoping that their role in providing Trump with an offramp to end the war will lead to investment flows.
+
 ## Beijing’s Bullying of Taiwan Threatens Ocean Ecology
 China managed to secure Taiwan’s exclusion from a Track 2 platform designed to address maritime ecology. It’s a worrying escalation of China’s political warfare.
 
@@ -200,15 +209,6 @@ The Davidson Window measures China’s military capability to invade Taiwan. Arg
 
 ## South Korea’s Nuclear Ambitions Clash With Political Realities
 South Korea’s ruling party failed to secure key races, underlining the need to steer the country’s nuclear future with more than just political momentum.
-
-## In China, Christianity Is Treated as a Cult
-The CCP has decided some fundamental tenets of Christianity mark out the world’s largest faith as a cult, and one that needs vigorous suppression.
-
-## The Last Maoist: What Next for India?
-A victory that leaves governance deficits intact, rehabilitation frameworks underperforming, extractive interests empowered, and surveillance tools normalized is not a full resolution.
-
-## From Space to the Polar Depths: China Aims for a Three-Dimensional Presence in the Arctic
-The Arctic – where polar, deep sea, and space intersect – offers a particularly revealing case for China’s ambitions in the “strategic new frontiers.”
 
 ## Why India Will Stick with America
 The Trump administration has not been kind to India. Nevertheless, India has responded with far greater equanimity than most observers expected. Predictions that President Donald Trump’s behavior will hurt U.S.-Indian relations have not come to pass, with the leaders of the two countries remaining i
@@ -258,8 +258,14 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings
+Biden, a former Democratic president, argued that releasing the recordings would violate his right to privacy.
+
+## Thirty dead at DRC displacement camp as Ebola threat grows
+At least 30 people have died since May in the Kigonze displacement camp in the Democratic Republic of Congo.
+
 ## USA beat Australia 2–0 to book knockout spot at World Cup
-An own goal and a goal by Alex Freeman helped the home side maintain a perfect record and progress to the Round of 32.
+An own goal and a goal by Alex Freeman helped the home side maintain a perfect record and progress to the round of 32.
 
 ## Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match
 'It's not the time to play a whole match,' Lamine Yamal said ahead of Spain's match against Saudi Arabia.
@@ -275,12 +281,6 @@ Talks come as Hezbollah, Israel say new ceasefire has been reached in wake of US
 
 ## Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph
 Italian Prime Minister says she didn't ‘beg’ Trump for G7 photograph.
-
-## Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says
-'No ceasefire can be considered meaningful while children continue to be killed' says UNICEF.
-
-## Brazil vs Haiti LIVE: World Cup 2026
-Follow our live build-up, with full team news coverage, ahead of our text commentary stream of the Group C clash.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
