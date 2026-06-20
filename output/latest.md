@@ -1,7 +1,19 @@
 # AION Intelligence
 
-## One person dead and 89 injured after UK train crash
-Collision on the Midland Main Line is the first fatal rail incident in nearly two years
+## Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire
+Setback for Donald Trump’s push to end war with the Islamic republic
+
+## Pedro Sánchez’s wife ordered to face corruption trial and surrender passport
+Spanish prime minister’s office accuses judge of over-reach after shock decision
+
+## Meloni accuses Trump of pandering to west’s enemies
+Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
+
+## Nine people in critical condition after fatal UK train collision
+Investigators work to establish what led to the first deadly rail accident in nearly two years
+
+## Renault to abstain on Nissan board appointment
+Non-executive director was proponent of push to merge Japanese group with rival Honda
 
 ## Ministers to make YouTube and Meta boost prominence of UK news
 Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
@@ -11,18 +23,6 @@ At the very first sign that the president is buckling on an unorthodox foreign p
 
 ## How Latin American World Cup jerseys became a political football
 Far-right populists have staked their claim on their team’s kit — and the left is trying to fight back
-
-## Europe’s stocks offer a peace dividend their US peers can’t match
-European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease
-
-## Burnham camp divided over chancellor pick as UK finances worsen
-Ed Miliband, Shabana Mahmood and Yvette Cooper are all believed to be contenders as bond markets seek reassurance
-
-## This year, the Oscars of the food world wasn’t really about food
-At Monday’s James Beard Awards in Chicago, winner after winner stood up for the immigrants who keep America’s restaurants running
-
-## Big Tech is stoking unrest in the UK. Why?
-Elon Musk’s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone
 
 ## Will football in America stick?
 Also in today’s newsletter: Kansas City Chiefs president discusses hosting the World Cup
@@ -39,32 +39,32 @@ For two decades, Hollywood’s most indispensable executive has been synonymous 
 ## Beer can boost ‘spiritual or mental’ health, says Kirin president
 Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
 
-## America’s intractable air traffic problem
-Tech outages and staff shortages are causing traveller misery as World Cup fans arrive and summer travel peaks
+## Rajasthan begins public transport overhaul as CM flags off 876 electric buses across eight cities
+Rajasthan is strengthening its public transport system amid rapid urbanisation, especially in Jaipur, where declining bus fleets have pushed commuters toward autos, e-rickshaws and app-based mobility options
 
-## H P Singh and Roy Varghese elected as new members on board of Sa-Dhan
-Following the elections, the board was reconstituted with K Paul Thomas, Managing Director and Chief Executive Officer of ESAF Small Finance Bank, as chairperson
+## West Asia crisis drives container freight spot rates sharply higher; recovery may take till September
+Before the conflict, 99 container services operated in or transited the Arabian Gulf, deploying 3.2 million TEUs, or about 10 per cent of the global container fleet
 
-## Odisha coal gasification project to meet 35% of India's ammonium nitrate needs by 2030: Industry
-Recognising the transformative potential of coal gasification, the government has approved incentive schemes with a cumulative outlay of up to ₹46,000 crore to promote surface coal and lignite gasification projects across the country
+## Shree Refrigerations opens new Karad facility to boost defence HVAC manufacturing
+The facility will enhance efficiency, reduce supply chain delays, and support defence manufacturing under the Make in India initiative while contributing to local employment and industrial ecosystem development.
 
-## Andhra govt inks deal with Canva for visual communication in govt schools
-Through this partnership, students will gain access to world-class tools that enable them to create presentations, projects, infographics, videos, graphics and other visual learning content
+## APEDA facilitates first export of dried egg powder from Odisha to Austria
+The export strengthens India’s presence in European markets and is expected to boost Odisha’s agro-processing ecosystem while encouraging further investment in processed food exports
 
-## Mutual Funds returns
-As on : Jun 20, 2026
+## India’s LPG demand to double in next 25 years, projects OPEC
+The outlook period is from 2026 to 2050
 
-## Need to further strengthen women's contribution to make India a developed nation by 2047: Mandaviya
-Mandaviya noted that Indian women have historically played an important role in nation-building
+## Kiren Rijiju says Great Nicobar project will boost India’s economic growth and supply-chain independence
+Rijiju defended the project, alleging opposition to India’s growth, highlighted economic resilience, dismissed fake news, and said the islands are key to Viksit Bharat 2047
 
-## Unified authority to monitor Periyar river cleanliness important; lives at stake: Keralam HC
-The court said that the government had earlier suggested the creation of an Integrated River Basin Conservation and Management Plan back in September, 2025
+## Iran says Strait of Hormuz closed again amid ceasefire breakdown claims
+The development coincides with renewed violence in the region, including Israeli strikes in southern Lebanon that killed at least 16 people, further raising concerns over regional stability and global energy security
 
-## Old is gold: Jewellers efforts to promote recycling pays rich dividend
-As of June 15, domestic gold prices have fallen 3.7% while the international prices were down 4.2% from the end of May
+## DGCA plans AI-powered eGCA 2.0 platform with blockchain, predictive surveillance tools
+New platform to leverage advanced analytics and cybersecurity frameworks
 
-## India, South Korea discuss deeper cooperation in digital governance and public services
-India highlighted CPGRAMS, Digital Life Certificate systems and digital governance platforms during talks with South Korea focused on AI-driven administration, e-services and public sector innovation.
+## Milk prices may rise again by July as El Niño threatens fodder supply
+Dairy consumers might face another price hike by July or August, with industry experts warning of a potential 3-4% increase. This follows a recent 2-3% rise in May. Concerns are mounting over El Niño potentially worsening fodder shortages and impacting milk production, prompting the Maharashtra gove
 
 ## Why India, among largest economies, doesn’t rank in top 50 world’s most powerful passports
 Despite India's robust economic growth, its passport ranks surprisingly low globally, hovering around the 80th position. This reflects a slower expansion of visa-free access compared to other nations. Factors like diplomatic ties, reciprocal agreements, and perceived security influence rankings, not
@@ -87,55 +87,52 @@ Global tech spending concerns have intensified as Accenture lowered its FY26 rev
 ## Reliance succession plan on track, enters final leg
 Chairman Mukesh Ambani Says RIL Future In Safe Hands, Conglomerate Indivisible
 
-## Sebi allows easier transfer of shares of dead investors
+## How a 20-year-old murder of Congress leader ‘influenced’ Shiv Sena UBT crisis
+Pawanraje Nimbalkar, a Congress leader, also happens to be the father of Om Raje Nimbalkar, one of the alleged rebel MPs.
+
+## Section 163 imposed in Gurugram ahead of NEET-UG re-exam: Official
+The order also bans carrying weapons, parking vehicles, use of loudspeakers, and operation of wi-fi or any electronic devices in the restricted zone
+
+## #Melodi moment, ‘Panvel nikalna hai’: Meme-filled posters in spotlight at CJP protest in Delhi
+The demonstrators, led by CJP founder Abhijeet Dipke, used unserious memes to raise serious issues at the rally in Delhi on Saturday.
+
+## False records, fraud, exploitation: J&K doctor suspended over alleged needless cardiac procedures
+Dr Syed Maqbool, an Associate Professor of Cardiology deputed to GMC Anantnag has been accused of manipulating official medical records.
+
+## IUML exits DMK-led Secular Progressive Alliance after aligning with TVK
+At the party’s general council meeting, a total of 14 resolutions were passed among them was the discontinuing of association with the DMK-led SPA
+
+## 'Those who looted public money in Bengal being sent to jail': PM Modi promises fast-paced changes under BJP govt
+Referring to the BJP's victory in the assembly polls, PM Modi said the transformation underway in West Bengal demonstrated the power of the democratic process.
+
+## 'Want to know whom am I giving security to?': Karnataka home minister Priyank Kharge on RSS transparency demand
+Kharge's remarks come days after he wrote to RSS chief Mohan Bhagwat seeking details on the organisation's status, funding, income, spending and assets.
+
+## A look back at Shiv Sena's 60-year political journey: Bal Thackeray's rise, Uddhav takes over and then a split
+As Shiv Sena turns 60, fresh turmoil brews as six MPs from Uddhav Thackeray camp seek a split, adding to the party's long history of rebellions.
+
+## Hollywood cinematographer’s crash puts spotlight on Himachal’s rise and challenges as paragliding destination
 
 
-## Abhijeet Dipke says cops 'not taking calls' on protest extension: 'Won't leave until Pradhan resigns'
-Cockroach Janta Party (CJP) chief Abhijeet Dipke says police are "not taking calls" to grant permission for the protest to continue.
-
-## ‘Lost motivation, no accountability’: What protestors said at CJP protest at Jantar Mantar
-A large number of students and supporters gathered at Jantar Mantar over alleged examination irregularities, repeated paper leaks and demands for accountability
-
-## PM Modi to lead International Yoga Day celebrations in Kolkata amid rain forecast
-Modi, who reached Kolkata on Saturday for a two-day visit, will lead the 80-minute-long programme themed “Yoga for Healthy Ageing,” starting at 6:30 am.
-
-## Orange alert in Delhi over next 2 hours, rain, strong winds of upto 50 kmph on cards
-The Central, East, New Delhi, North, Northeast, Northwest, Shahdara, South, Southeast, Southwest, and Western districts of Delhi are expected to witness rain.
-
-## Uttarakhand to soon roll out bungee jumping regulations
-Tourism secretary Dheeraj Garbyal said the draft had been prepared after consultations with stakeholders and experts
-
-## BJP MP Tejasvi Surya was asked a ‘great question’ about PM Modi. He explained why press conferences are ‘redundant’
-Student asked Bengaluru South MP, “Even though we are the biggest democracy, what's your stance about… PM not attending any press conference?'
-
-## Bring Pak back on ‘grey list’: Owaisi to govt as India gets FATF vice presidency
-Asaduddin Owaisi opined that the USA list of TRF (The Resistance Force) is of "no real use".
-
-## Kailash Mansarovar Yatra begins, first batch crosses into China via Nathu La pass
-First batch comprises 44 pilgrims, including four Liaison Officers and a Medical Officer. Of them, 32 are men and 12 are women representing various states
-
-## Khatipura (Jaipur)-Darbhanga Amrit Bharat Express: Train number, route, stops, time table
+## Mint water in golgappas may be a breeding ground for E coli: Here are simple ways to reduce risk
 
 
-## Meet Khushboo: Gig worker in Mumbai, she dreams of returning to UP as police officer
+## Jaiswal’s ton powers India to 9-wicket win over Afghanistan, seals 18th ODI clean sweep
 
 
-## Parched Mumbai awaits relief as IMD issues yellow alert from Monday
+## Nasa’s daring mission to save a space telescope from falling back to Earth
 
 
-## Why Google DeepMind thinks AI agents need to be treated like ‘insider threats’
+## VLC creator turns attention to robots, raises $5 million for real-time device platform
 
 
-## Why India started their innings with 5/0 before a ball was bowled in Chennai ODI
+## ‘There was pin-drop silence’: Upasana Singh recalls saying ‘kaun hai ye aadmi’ to Salman
 
 
-## Amit Shah says Eknath Shinde-led Sena is the only Shiv Sena left
+## AI crash: US firm representing victims presents simulation findings contrary to Indian agency’s
 
 
-## Man beat girlfriend to death ‘by mistake’ while helping her lose weight
-
-
-## IMD prediction for West Bengal: Heavy rain likely in north, no cyclone threat
+## Iran closes Strait of Hormuz again as 16 killed in fresh Israeli strikes in Lebanon
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Court bans Spanish PM’s wife from leaving country amid corruption probe
+Begona Gomez is accused of using her position as the prime minister's wife ⁠to secure work contracts.
+
+## Where do Iran’s political factions stand on the US peace deal?
+Iran's rival political camps are locking horns over a memorandum of understanding with the US.
+
+## In Nepal’s highlands, climate change threatens Tibet’s Bon faith
+In Lubra, Nepal’s last Bon village, climate-driven floods are destroying homes and land, endangering ancient traditions.
+
+## UK condemns Israeli minister over inflammatory Lebanon remarks
+UK foreign secretary slams Israeli minister's inflammatory remarks amid regional tensions and fragile ceasefire.
+
+## Top Ukrainian officials return Polish awards in WWII dispute
+The move comes after Ukrainian President Volodymyr Zelenskyy was stripped of Poland's top honour.
+
+## Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff
+Spain face Saudi Arabia in need of a win to take control of Group H. Can they rediscover their attacking edge?
+
+## Why Tunisia’s renewable energy strategy is facing resistance
+Giving concessions for renewable projects to foreign corporations will not help solve the country’s energy crisis.
+
 ## An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo
 An Israeli court has convicted seven men over the 2021 lynching of Sa’id Moussa, ending a five-year trial.
-
-## Slave trade reenacted on Juneteenth as leaders demand reparations
-Ghana has been hosting a conference to advance the UN resolution declaring slavery the ‘gravest crime against humanity.'
-
-## MSF says conditions in Lebanon’s Nabatieh resemble a ‘death trap’
-Israel has stepped up attacks on parts of southern Lebanon, including Nabatieh, since midnight on Friday.
-
-## German journalist held in Syria back home, family says
-Eva Maria Michelmann's brother says she had been held in the Syrian city of Raqqa since January.
-
-## India’s revolution in women’s cricket
-In cricket-obsessed India, a women’s World Cup win and a glitzy new league are transforming the lives of female players.
-
-## What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign
-Experts hope the 'extra animosity' towards Team Melli will subside as the agreement comes into being.
-
-## Morocco fans dream of World Cup glory after Scotland win
-This is what Morocco’s fans are saying after winning their first match at the 2026 World Cup.
-
-## Families storm Ebola treatment centre in DRC, remove patients
-Families of suspected Ebola patients in DR Congo stormed a quarantine centre, removing patients.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
