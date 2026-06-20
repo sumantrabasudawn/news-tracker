@@ -42,29 +42,32 @@ Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as i
 ## America’s intractable air traffic problem
 Tech outages and staff shortages are causing traveller misery as World Cup fans arrive and summer travel peaks
 
-## India’s data centre capacity pipeline hits 8.33 GW amid AI and cloud boom
-Mumbai leads India’s data centre expansion with the largest pipeline, followed by Hyderabad and Chennai, while NCR, Pune and Bengaluru continue adding capacity, reflecting broad-based growth across key digital infrastructure hubs
+## H P Singh and Roy Varghese elected as new members on board of Sa-Dhan
+Following the elections, the board was reconstituted with K Paul Thomas, Managing Director and Chief Executive Officer of ESAF Small Finance Bank, as chairperson
 
-## Apple explains why watchOS 27 ends support for Apple Watch Series 6, 7, 8 and Ultra
-The affected watches will continue receiving security updates
+## Odisha coal gasification project to meet 35% of India's ammonium nitrate needs by 2030: Industry
+Recognising the transformative potential of coal gasification, the government has approved incentive schemes with a cumulative outlay of up to ₹46,000 crore to promote surface coal and lignite gasification projects across the country
 
-## World Cup 2026 changes global perception of US as fans discover American warmth
-The World Cup in the United States is offering international fans unexpected experiences, with visitors praising local hospitality, culture and communities while discovering a side of America beyond familiar stereotypes.
+## Andhra govt inks deal with Canva for visual communication in govt schools
+Through this partnership, students will gain access to world-class tools that enable them to create presentations, projects, infographics, videos, graphics and other visual learning content
 
-## Karnataka to launch Prajaseva Department for faster public grievance redressal
-The state cabinet also approved a 15-day window for eligible residents of older buildings to apply for permanent electricity connections
+## Mutual Funds returns
+As on : Jun 20, 2026
 
-## How deep-sea isopods survive five years without food in the ocean’s darkest depths
-Scientists have uncovered the remarkable survival mechanism of deep-sea isopods, revealing how these ocean dwellers conserve energy, store nutrients and adapt to extreme environments with little food
+## Need to further strengthen women's contribution to make India a developed nation by 2047: Mandaviya
+Mandaviya noted that Indian women have historically played an important role in nation-building
 
-## Investors paying too much for future growth may be hurting returns: Morgan Stanley
-Explaining its framework, Morgan Stanley said stock prices can be viewed in two parts: the value of a company's existing business and the value of future investments that create additional returns
+## Unified authority to monitor Periyar river cleanliness important; lives at stake: Keralam HC
+The court said that the government had earlier suggested the creation of an Integrated River Basin Conservation and Management Plan back in September, 2025
 
-## PhonePe wallet inactivity fee explained: No impact on UPI payments or bank accounts
-PhonePe has clarified rules around dormant prepaid wallets after users raised concerns over inactivity charges. The company said wallet balances, UPI transactions and linked bank accounts follow separate systems with different operating rules
+## Old is gold: Jewellers efforts to promote recycling pays rich dividend
+As of June 15, domestic gold prices have fallen 3.7% while the international prices were down 4.2% from the end of May
 
-## Tamil Nadu weather today: Heavy rain expected in over 10 districts as Southwest Monsoon intensifies
-Heavy rain likely at isolated places over Nilgiris, Erode, Salem, Dharmapuri, Krishnagiri, Coimbatore, Theni, Dindigul, and Kanyakumari districts, and ghat areas of Tirunelveli district
+## India, South Korea discuss deeper cooperation in digital governance and public services
+India highlighted CPGRAMS, Digital Life Certificate systems and digital governance platforms during talks with South Korea focused on AI-driven administration, e-services and public sector innovation.
+
+## Why India, among largest economies, doesn’t rank in top 50 world’s most powerful passports
+Despite India's robust economic growth, its passport ranks surprisingly low globally, hovering around the 80th position. This reflects a slower expansion of visa-free access compared to other nations. Factors like diplomatic ties, reciprocal agreements, and perceived security influence rankings, not
 
 ## 7 new bullet train corridors approved: Centre steps up high-speed rail expansion across India
 India is set to revolutionize its rail network with the approval of seven new bullet train corridors, promising significantly reduced travel times between major cities. Key routes like Mumbai-Ahmedabad will see journeys slashed to under two hours, while Bengaluru-Chennai will take just over an hour.
@@ -87,8 +90,23 @@ Chairman Mukesh Ambani Says RIL Future In Safe Hands, Conglomerate Indivisible
 ## Sebi allows easier transfer of shares of dead investors
 
 
-## Rupee ends higher for second day, settles at 94.33 as trade deal hopes offset oil concerns
-The Indian rupee strengthened for a second day, closing at 94.33 against the US dollar, buoyed by positive India-US trade talks. Hopes for an interim trade agreement between the two nations are rising, with negotiators urged to expedite efforts. However, global uncertainties and a stronger dollar li
+## Abhijeet Dipke says cops 'not taking calls' on protest extension: 'Won't leave until Pradhan resigns'
+Cockroach Janta Party (CJP) chief Abhijeet Dipke says police are "not taking calls" to grant permission for the protest to continue.
+
+## ‘Lost motivation, no accountability’: What protestors said at CJP protest at Jantar Mantar
+A large number of students and supporters gathered at Jantar Mantar over alleged examination irregularities, repeated paper leaks and demands for accountability
+
+## PM Modi to lead International Yoga Day celebrations in Kolkata amid rain forecast
+Modi, who reached Kolkata on Saturday for a two-day visit, will lead the 80-minute-long programme themed “Yoga for Healthy Ageing,” starting at 6:30 am.
+
+## Orange alert in Delhi over next 2 hours, rain, strong winds of upto 50 kmph on cards
+The Central, East, New Delhi, North, Northeast, Northwest, Shahdara, South, Southeast, Southwest, and Western districts of Delhi are expected to witness rain.
+
+## Uttarakhand to soon roll out bungee jumping regulations
+Tourism secretary Dheeraj Garbyal said the draft had been prepared after consultations with stakeholders and experts
+
+## BJP MP Tejasvi Surya was asked a ‘great question’ about PM Modi. He explained why press conferences are ‘redundant’
+Student asked Bengaluru South MP, “Even though we are the biggest democracy, what's your stance about… PM not attending any press conference?'
 
 ## Bring Pak back on ‘grey list’: Owaisi to govt as India gets FATF vice presidency
 Asaduddin Owaisi opined that the USA list of TRF (The Resistance Force) is of "no real use".
@@ -96,46 +114,28 @@ Asaduddin Owaisi opined that the USA list of TRF (The Resistance Force) is of "n
 ## Kailash Mansarovar Yatra begins, first batch crosses into China via Nathu La pass
 First batch comprises 44 pilgrims, including four Liaison Officers and a Medical Officer. Of them, 32 are men and 12 are women representing various states
 
-## PM Kisan 23rd installment today: Over 9 crore farmers to receive ₹2,000; here's how to check status
-Under the PM-KISAN scheme, eligible farmer families receive income support of ₹6,000 annually, paid in three equal installments of ₹2,000 each.
-
-## Twist in Nagpur NEET aspirant's story: NTA says candidate 'selected Abu Dhabi'; Dubai was second option for exam centre
-A senior NTA official said the candidate himself changed the city preferences through the portal, selecting Abu Dhabi and Dubai as city preferences.
-
-## Delhi doctor who killed house help was on depression meds for a decade, mental health under lens as motive a mystery
-“We will also question his doctors to understand if there was a trigger or a recent behavioural change. This might help establish a motive,” an officer said.
-
-## 'Go Pradhan Go' chants ring out at Jantar Mantar as protesters bang thalis and chammach | Video
-The protest marked the Cockroach Janta Party's (CJP) second major mobilisation after its June 6 gathering at Jantar Mantar.
-
-## HC upholds order to block Telegram ahead of NEET
-The NEET-UG 2026, held on May 3, was cancelled on May 12 after overlaps emerged between a leaked guess paper and the actual one
-
-## ‘Only one Shiv Sena remains’: Amit Shah's dig at Uddhav Thackeray, says Eknath Shinde's no longer a ‘faction’
-Union hone minister and BJP leader's declaration caps a split years in the making, even as allegations of Centre's ruling party “buying” MPs fly
-
-## Right to walk on footpaths: Behind Supreme Court order, a surge in pedestrian deaths
+## Khatipura (Jaipur)-Darbhanga Amrit Bharat Express: Train number, route, stops, time table
 
 
-## I watched Obsession with my girlfriend. Then she asked me one question
+## Meet Khushboo: Gig worker in Mumbai, she dreams of returning to UP as police officer
 
 
-## Will Omraje Nimbalkar join Shinde Sena? MP says decision in 2 days
+## Parched Mumbai awaits relief as IMD issues yellow alert from Monday
 
 
-## When Juhi Chawla’s in-laws loaned money to Gujarat government amid financial crisis
+## Why Google DeepMind thinks AI agents need to be treated like ‘insider threats’
 
 
-## Expat shares parenting habits she ‘happily borrowed’ from Indian families
+## Why India started their innings with 5/0 before a ball was bowled in Chennai ODI
 
 
-## Beyond the tourist trail: 10 lesser-known places to explore in Mizoram
+## Amit Shah says Eknath Shinde-led Sena is the only Shiv Sena left
 
 
-## What Sunetra Pawar brother’s acquittal in murder case means for Uddhav Sena split
+## Man beat girlfriend to death ‘by mistake’ while helping her lose weight
 
 
-## NEET re-exam 2026 on June 21: All local trains on Howrah, Sealdah routes to operate; special services announced
+## IMD prediction for West Bengal: Heavy rain likely in north, no cyclone threat
 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
@@ -258,41 +258,44 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo
+An Israeli court has convicted seven men over the 2021 lynching of Sa’id Moussa, ending a five-year trial.
+
+## Slave trade reenacted on Juneteenth as leaders demand reparations
+Ghana has been hosting a conference to advance the UN resolution declaring slavery the ‘gravest crime against humanity.'
+
+## MSF says conditions in Lebanon’s Nabatieh resemble a ‘death trap’
+Israel has stepped up attacks on parts of southern Lebanon, including Nabatieh, since midnight on Friday.
+
+## German journalist held in Syria back home, family says
+Eva Maria Michelmann's brother says she had been held in the Syrian city of Raqqa since January.
+
+## India’s revolution in women’s cricket
+In cricket-obsessed India, a women’s World Cup win and a glitzy new league are transforming the lives of female players.
+
+## What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign
+Experts hope the 'extra animosity' towards Team Melli will subside as the agreement comes into being.
+
+## Morocco fans dream of World Cup glory after Scotland win
+This is what Morocco’s fans are saying after winning their first match at the 2026 World Cup.
+
 ## Families storm Ebola treatment centre in DRC, remove patients
 Families of suspected Ebola patients in DR Congo stormed a quarantine centre, removing patients.
 
-## Trump’s Iran deal, Israel’s meltdown
-The precarious memorandum of understanding between the US and Iran.
+## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
+At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
 
-## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
-The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
+At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
-## Two roadside bombs kill at least seven in northwestern Pakistan
-No group has yet claimed responsibility for the attacks.
-
-## Family, including two daughters, killed in Israeli strikes on Gaza
-Israel has repeatedly violated the October ceasefire brokered by the US.
-
-## World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights
-World Cup day 10 features Netherlands-Sweden as the USA reach the knockout stage and Brazil move closer to qualification
-
-## Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack
-Khalil spent more than two decades protecting the nests of endangered turtle species in southern Lebanon.
-
-## Australia pledges action on H5N1 after bird flu case confirmed
-Australia confirmed its first mainland H5N1 bird flu case in a seabird near Esperance, WA.
+## AI must be measured by enterprise value, not just immediate ROI, says NIIF Infra CFO Sudeep Bhatia
+At the ETCFO NextGen Summit 2026, finance leaders from IIFL Finance and NIIF Infrastructure Finance said CFOs are increasingly shaping AI investments as the technology moves from experimentation to business-critical decision support.
 
 ## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
 Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
 
 ## CFOs should take into account macro impact on costs and profitability: Yes Bank CFO Niranjan Banodkar
 At the 3rd edition of the ETCFO NextGen Summit 2026, finance leaders from Yes Bank, HDB Financial Services, CSB Bank and TVS Sundaram said CFOs must diversify funding channels, stay cautious on growth, and convert geopolitical disruption into strategic opportunity.
-
-## AI must be measured by enterprise value, not just immediate ROI, says NIIF Infra CFO Sudeep Bhatia
-At the ETCFO NextGen Summit 2026, finance leaders from IIFL Finance and NIIF Infrastructure Finance said CFOs are increasingly shaping AI investments as the technology moves from experimentation to business-critical decision support.
-
-## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
-At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
 ## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
 Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
@@ -302,9 +305,6 @@ India has opened its stock markets to direct investment by foreign individuals, 
 
 ## India Inc. is profitable. So why isn’t it investing?
 Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
-
-## No merit in issues flagged by ex-chair of HDFC Bank: Law firms
-The reviews were prompted by former Chairman Atanu Chakraborty's dramatic March 18 resignation, a decision he had said in a letter to the exchanges was prompted by alleged deviations 'incongruent' with his ethics and value systems. The reference to possible ethical transgressions at the country's mo
 
 ## PLI, duty incentives soon for Lithium, Nickel processing units in India
 India is poised to approve incentives, including production-linked benefits and import duty waivers on capital goods, to establish domestic lithium and nickel processing units. This strategic move aims to reduce reliance on overseas processors and bolster the nation's critical minerals ecosystem. Th
