@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## India plays ‘whack-a-mole’ with online financial influencers
+Regulator targets scammers who give stock tips under guise of financial education as ranks of retail investors grow
+
+## Philippines fears China may move to seize full control of disputed atoll
+Defence secretary warns of heightened Chinese military activity around Scarborough Shoal
+
 ## US and Iran hold crunch talks in Switzerland
 Negotiations to permanently end the war focus on Israeli-Hizbollah conflict in Lebanon
 
@@ -18,12 +24,6 @@ UK braced for leadership challenge, the US updates its growth estimate, and chip
 ## Starmer retreats to Chequers to mull podium moment
 Prime minister goes ‘dark’ on colleagues as he spends weekend discussing his political future with wife, Victoria
 
-## Back-stabbing myths are driving the US and Europe further apart
-Competing narratives of abandonment — from Iran to Greenland — could lead to Nato’s permanent unravelling
-
-## Starmer on brink of quitting as UK prime minister
-US President Donald Trump says Starmer will resign after failing ‘badly’
-
 ## Wars trigger $12bn venture capital rush into defence tech
 Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle
 
@@ -41,12 +41,6 @@ Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resiste
 
 ## SpaceX handed lowest possible ESG rating by MSCI
 Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine
-
-## Workers are emerging as the next big AI logjam
-Big Tech wakes up to the need for brawn and crafts skills to build and maintain data centres
-
-## Holiday bookings surge in markets hit by Iran crisis
-Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity
 
 ## L&T sets up subsidiary for AI compute infrastructure
 A stock exchange notification on Sunday announced the formation of a step-down subsidiary, LTN Compute Private Limited, with an authorised share capital of ₹1 lakh
@@ -264,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Europe heatwave scorches cities and wildlife
-Europe heatwave scorches cities and wildlife
+## What are the end goals of Iran-US negotiations?
+Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.
 
-## Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia
-Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.
+## Mourners gather to remember Lebanese conservationist killed by Israel
+People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.
 
-## What’s next in the Strait of Hormuz crisis?
-Iranian armed forces say they've closed the vital waterway after Israeli attacks on Lebanon.
+## Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work
+Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.
 
-## Ethiopian prime minister’s party easily wins parliamentary election
-Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.
+## Serena Williams to play women’s singles at Wimbledon as wildcard entrant
+The seven-time ladies' singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.
 
-## Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland
-Supreme leader has expressed reservations about interim deal with US, but most top decision-makers back it.
+## Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks
+Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.
 
-## Iran, US, Israel: Memorandum of misunderstanding?
-Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.
+## Colombia elections take place as Abelardo de la Espriella leads polls
+Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.
 
-## The looming Super El Nino
-A powerful El Nino is expected to peak in November that could threaten food supply and increase extreme weather events.
+## Japan fans celebrate 4-0 World Cup win in Tokyo
+Fans gathered at Tokyo's Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.
 
-## India’s ‘Cockroach’ movement camps out until education minister resigns
-The viral 'Cockroach' movement's supporters occupy New Delhi's protest site, refusing to leave until minister resigns.
+## Ramiro Valdes, one of Cuba’s last living revolutionary figures, dies at 94
+Valdes was close ally of Castro brothers and helped found Cuba's notorious intelligence apparatus.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
