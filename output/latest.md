@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## Ed Miliband would be ‘noose around neck’ of UK economy as chancellor, union boss warns
-Comments by Sharon Graham come as Burnham team explores key government appointments
+## Back-stabbing myths are driving the US and Europe further apart
+Competing narratives of abandonment — from Iran to Greenland — could lead to Nato’s permanent unravelling
 
-## Crunch US-Iran talks begin in Switzerland
+## Starmer on brink of quitting as UK prime minister
+Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit
+
+## US and Iran hold crunch talks in Switzerland
 Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon
+
+## Ed Miliband would be ‘noose around neck’ of job creation as chancellor, union boss warns
+Comments by Sharon Graham come as Burnham team explores key government appointments
 
 ## We need to talk about Brexit
 Britain must rebuild EU ties, but trying to rejoin would for now be a diversion
@@ -15,14 +21,8 @@ Italian premier’s fallout with US president comes as she gears up for re-elect
 ## King Charles to be first monarch to disclose personal tax bill
 Buckingham Palace says move next week is part of an effort to ‘encourage understanding of accountability’
 
-## Starmer on brink of quitting as UK prime minister
-Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit
-
 ## Reform UK has a new set of problems
 The fight for the right is far from settled, as the Makerfield and Aberdeen by-elections showed
-
-## Ukraine warns Belarus of ‘consequences’ over drone equipment
-Volodymyr Zelenskyy threatens to remove relay stations in the country used by Russia unless Minsk acts within a week
 
 ## Michael O’Leary in line for €150mn payout in latest Ryanair contract
 Longtime boss of Europe’s biggest airline signs new deal that includes bumper share award if he hits ambitious targets
@@ -48,29 +48,32 @@ Rebound across eastern Mediterranean as travellers reassess conflict’s threat 
 ## ‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy
 Ariane 6 rocket programme gets help from Jeff Bezos as it seeks to emerge from US rival’s shadow
 
-## Vance: Trump asked us to turn over "a new leaf" in ties with Iranian people
+## L&T sets up subsidiary for AI compute infrastructure
+A stock exchange notification on Sunday announced the formation of a step-down subsidiary, LTN Compute Private Limited, with an authorised share capital of ₹1 lakh
 
+## Trump says Starmer will resign as UK prime minister
 
-## Needed, a more equitable intellectual property order
-There must be greater accountability in the enforcement of biopiracy rules
-
-## A behaviour-first approach
-A book of possibilities on what Indian businesses can achieve
-
-## CCPA fines Storia Foods, English Oven ₹1 lakh each for misleading ‘100% claim’
-The Authority said that all claims relating to composition, quality, nutrition or health benefits must be truthful, verifiable and non-deceptive
-
-## Mumbai hotels shut jacuzzis, regulate laundry operations to conserve water
-The Brihanmumbai Municipal Corporation has halted water supply to construction sites and swimming pools
-
-## Kotak Bank open to acquisitions at right price; Focus on profitability over market share, says Wholetime Director Kashyap
-Kotak Bank prioritises profitability over market share, open to acquisitions that align culturally and technologically, says Director Kashyap.
-
-## As Delhi EV Policy 2.0 nears, auto industry for phasing out older 2Ws
-Says modern BS-VI compliant 2Ws are equipped with advanced electronic fuel injection that has zero emission so need no ban
 
 ## No truth in missing coal stock allegations, says SCCL
 Coal transportation in Singareni is highly Secure and every tonne of coal is closely monitored
+
+## An insider’s autopsy of the hollowing out of Parliament
+Derek O’Brien’s clinically diagnosed book is an important chapter in opposition literature
+
+## Trump says US will resume attacks if Iran does not restrain Hezbollah allies
+
+
+## Optimistic about Bengal Budget, industries expect it to lay out clear roadmap for accelerating economic growth
+Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal’s first Budget under the new government will demonstrate its commitment of accelerating development.
+
+## Letters to the Editor dated June 21, 2026
+
+
+## Swetha Menon steps down as AMMA president; 17-member committee resigns
+The executive committee, led by Swetha Menon, assumed office in August last year
+
+## Brexit at 10: Why Britain is still divided over leaving European Union
+Ten years on, the Brexit debate rages, with economic promises unmet and businesses facing EU trade hurdles. While EU migration dipped, non-EU arrivals rose, though public ire now targets Channel crossings. Politically, the landscape shifted dramatically. Despite growing sentiment for rejoining the E
 
 ## India-US trade deal enters final lap as ministerial talks to begin this week
 India and the US are poised for crucial trade talks this week, aiming to finalize the first phase of their bilateral trade agreement. Discussions will focus on the interim pact's framework, especially as a temporary US tariff expires next month. India seeks to regain a competitive edge over rival ex
@@ -93,55 +96,52 @@ Indian equity markets witnessed a significant surge last week, adding Rs 2.15 la
 ## Exports up 15% so far in June quarter despite global headwinds, says Piyush Goyal
 India's merchandise exports have demonstrated remarkable resilience, surging approximately 15% from April 1 to June 14, despite global economic headwinds and increased US tariffs. Minister Piyush Goyal highlighted this robust growth, even as international trade faces significant challenges. This pos
 
-## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
-Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
+## Row over KMC move to rename Suhrawardy Avenue after Gopal Mukherjee
+KMC, run by a state-appointed administrator following the resignation of mayor Firhad Hakim and other TMC councillors, took the decision on Saturday
 
-## 'Not getting development funds, hurt by recent remarks': What Sena UBT MP said on crossover to Shinde's camp
-In a video posted on his Instagram handle, Nagesh Patil said he had not compromised on his ideology and "has just gone from one Shiv Sena to another".
+## Ahmedabad police nab Rauf Valiullah murder convict on the run for 7yrs in Udaipur
+The accused identified as Mohammad Taslim alias Mohammad Umer Sheikh was sentenced to life imprisonment
 
-## 'Useless fellows': Kharge loses cool at Congress workers over pro-Shivakumar slogans in Bengaluru
-A video from the event showed workers chanting Shivakumar's initials as senior Congress leaders, including Shivakumar, urged the crowd to quieten down.
+## Sena UBT MP Omprakash Raje Nimbalkar switches to Shinde's camp, second rebel to do so
+Omraje Nimbalkar's crossover comes shortly after Hingoli MP Nagesh Patil Ashtikar confirmed his move to the ruling Shiv Sena faction.
 
-## Broken ribs, injured lungs, but NEET aspirant still turned up to write exam; NTA stepped in to help
-The father requested the NTA to allow his daughter to take the examination and sought a seating arrangement with a chair and table on the ground floor of centre
+## Odisha minister’s nephew booked after student, 21, found dead in her hostel room
+A final-year BCA student was booked under Section 108 (Abetment of Suicide) of the BNS following a First Information Report (FIR) lodged by the deceased student’s maternal uncle.
 
-## Uddhav camp MP confirms crossover, Sanjay Raut says some rebels ‘in touch’: Latest in Shiv Sena UBT rebellion
-Six Shiv Sena (UBT) MPs remain in rebellion, with Dharashiv MP Omprakash Raje Nimbalkar expected to announce his political stand after consulting supporters.
+## UP infant raped by 12-year-old relative; accused was drunk, watched porn before crime
+The child was discovered near a tin shed in a field roughly 500 metres from her home. She was bleeding heavily.
 
-## Two killed in BMW crash on Mumbai–Vadodara highway near Badlapur
-The convertible BMW, which was reportedly being driven at high speed of 251 kmph with its hood open, was completely mangled in the crash.
+## NEET UG re-exam held amid tight security; lakhs retake test after paper leak row
+The re-exam was conducted across 5,440 centres in 551 cities in India and 14 centres abroad, with over 1.38 lakh CCTV cameras monitoring 95,000 centres.
 
-## Rajnath Singh backs key Meghalaya infrastructure proposals on Yoga Day
-A key focus of the discussions was the proposed Ratacherra-Ranikor road along the India-Bangladesh border
+## NEET-UG re-exam ends: Physics toughest, paper harder than first attempt, say students
+Students from Tamil Nadu, West Bengal, Kerala, and Jammu and Kashmir said the overall paper was tougher than the earlier attempt.
 
-## PK Mishra, principal secretary to PM Modi, joins Yoga Day session at Seva Teerth
-A Yoga session was held at Seva Teerth today in the national capital on the occasion of the International Day of Yoga.
+## Karnataka plans smart cards to curb Shakti scheme free bus travel fraud
+The proposal follows concerns within the government that free travel benefits have been claimed using fake Aadhaar cards
 
-## Just Like That: History of Hindu civilisation demonstrates not separation but synthesis
-In contemporary political discourse, there is often a tendency to view India through simplistic binaries: North and South
-
-## How swimmer Aryan Nehra broke the 8-minute barrier in the 800 metres
+## CBSE Class 12 re-evaluation results out for 87% of 1.6 lakh re-checking requests
 
 
-## Two killed, one injured as BMW crashes into divider, overturns on Mumbai-Vadodara highway
+## ‘No pressure’: Vaibhav Sooryavanshi after player of match performance vs SL-A
 
 
-## Railways to upgrade Rajasthan’s Sikar station; Bikaner-Chandigarh train proposal under review
+## Trump threatens, Vance reassures: Iran gets two US messages amid talks in Switzerland
 
 
-## US to ‘fundamentally transform’ Iran relations, says JD Vance amid talks in Switzerland
+## Ben Stokes returns in 3rd ENG vs NZ Test after getting dropped from 2nd match
 
 
-## This Lagaan actor met his British wife on film’s set: ‘She’s learnt Hindi now’
+## Over 20 lakh take NEET-UG retest under tight security
 
 
-## 5 must-have experiences in Mussoorie besides strolling on Mall Road
+## Why planting trees alone won’t save Indian cities from heatwaves
 
 
-## Haiti: First to abolish slavery, now gang wars disturb football, survival
+## BJP MLA wants rethink on bringing opposition MLAs to ruling alliance
 
 
-## ‘Dig your own grave’: Ex-student alleges horrific abuse at $80,000-a-year New York school
+## Maharashtra to bring bill to give legal status to women farmers: CM Devendra Fadnavis
 
 
 ## Energy security fears drive global surge in orders for Chinese storage firms
@@ -264,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Marc Marquez wins the Czech MotoGP, narrows title gap to leader Bezzecchi
-Seven-time MotoGP world champion reduces title leader Marco Bezzecchi's points lead after the Italian was suspended.
+## Syria frees activist Hassan Akkad days after he was detained
+His release comes after journalist Mousa al-Omar reportedly withdrew a complaint against Akkad over online criticism.
 
-## Why Lebanon may make or break the Iran-US deal
-Israeli escalation in Lebanon threatens to undermine agreement between Tehran and Washington, analysts say.
+## Mbappe, France play Iraq in World Cup match: prediction, team news, lineups
+Star forward Kylian Mbappe and France face Iraq in Boston with Les Bleus focused on securing a place in knockout phase.
 
-## Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win
-UK minister says Starmer considering 'political realities' after rival Andy Burnham secured decisive by-election win.
+## US-Iran negotiations in Switzerland kick off
+US-Iran talks opened in Switzerland with mediators Qatar and Pakistan hailing a ‘historic’ opportunity for stability.
 
-## Spain vs Saudi Arabia LIVE: World Cup 2026
-Live updates as Spain face Saudi Arabia in Group H - follow the build-up, analysis and live text commentary of the game.
+## Iran-U.S. launch historic peace talks with 60-day roadmap
+Iran-U.S. launch historic peace talks with 60-day roadmap
 
-## Henry stars as New Zealand wrap up victory against England in second Test
-New Zealand quick Matt Henry demolishes the England batting attack in the second innings to level the series.
+## Fans flood Atlanta streets before Spain-Saudi Arabia match
+Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.
 
-## US-Iran delegations arrive as talks begin in Switzerland
-US-Iran delegations arrive as talks begin in Switzerland.
+## Bolivian authorities say no active blockades after state of emergency decree
+State of emergency permits deployment of military to support police amid five weeks of anti-government protests.
 
-## Messi, Argentina play Austria in World Cup group match: All to know
-Hat-trick hero Lionel Messi back in action for Argentina as they look to take a huge step towards the knockout stages.
+## Gaza bids farewell to slain journalist Ahmed Wishah
+Gaza bids farewell to slain journalist Ahmed Wishah.
 
-## Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar
-Crimea's Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.
+## Police charge man after suspected anti-Muslim attacks in Edinburgh
+UK Prime Minister Keir Starmer says 'the suspect appears to be motivated by anti-Muslim hatred'.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
