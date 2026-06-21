@@ -1,10 +1,13 @@
 # AION Intelligence
 
-## Starmer could announce exit next week, some ministers believe
-UK prime minister under intense pressure to set out departure timetable after Andy Burnham’s by-election win
-
 ## Vance arrives in Switzerland for crunch US-Iran talks
 Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon
+
+## Starmer on brink of quitting as UK prime minister
+Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit
+
+## Starmer could announce exit next week, some ministers believe
+UK prime minister under intense pressure to set out departure timetable after Andy Burnham’s by-election win
 
 ## What Andy Burnham’s Westminster past reveals about him
 ‘King of the North’ started as a New Labour special adviser before serving in Corbyn’s shadow cabinet
@@ -21,8 +24,8 @@ Rebound across eastern Mediterranean as travellers reassess conflict’s threat 
 ## Putin’s war machine sputters in drone age
 Ukraine’s innovations cut into Russia’s manpower advantage
 
-## Bangladesh ‘doubles down’ on push to claw back missing $230bn
-Finance minister and central banker say they are negotiating to recoup lost assets in the UK, US, UAE and Singapore
+## Michael Bloomberg arms green lobby for fight against oil interests
+Billionaire pledges $285mn to renewable industry associations as nations face energy policy decisions in wake of Iran war
 
 ## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
 Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
@@ -36,32 +39,47 @@ Notices of cancellation sent out by marine insurers after war broke out in the G
 ## Cancer drugmaker Revolution Medicines says sale not a priority
 Sought-after biotech company pushes back against being scooped up following Merck’s unsuccessful $32bn bid
 
-## Nine people in critical condition after fatal UK train collision
-Investigators work to establish what led to the first deadly rail accident in nearly two years
+## Energy Edits Newsletter for June 21, 2026
+Hello Energy Edit readers,
 
-## India boosts Russian, UAE oil purchases in June ahead of full Hormuz recovery
-India imported an average of 2.66 million bpd of crude oil from Russia in June, through June 19, compared to 1.91 million bpd in May
+## 60% surveyed professionals say AI now central to HR operations: Report
+Over 60% of professionals view AI as a top priority in HR, with an additional 15% noting its increasing importance in recruitment, onboarding, and HR operations, according to Genius HRTech DigiPoll Survey
 
-## Voltas sells 1 million AC units in first quarter of FY27
-The RAC industry expects good sales this year after a dull year in 2025, as sales were impacted due to unseasonal rainfall, along with other factors
+## India aims to be defence manufacturer, not buyer: PM
+Nearly every few weeks the Navy has received a new capability, while 45 major naval platforms are currently under construction
 
-## India dependence on imported thermal coal to remain firm
-The import coal dependent power facilities are engineered to run on high-calorific, low-ash imported coal and face significant technical challenges in switching to domestic supply, which has much higher ash content and different combustion properties.
+## India, US to hold ministerial-level trade pact talks this week
+Ministers from both nations aim to finalise key aspects of the interim trade agreement, addressing tariff structures and market competitiveness ahead of a pivotal deadline for US trade policies
 
-## Strong maritime capabilities deciding factor for country's economic, strategic influence: Modi
-No nation can become a big power without maritime prowess. Development, security and prosperity are tied to the seas, says the Prime Minister
+## US-Iran talks, crude oil movement, macro data to dictate bullion trend next week: Analysts
+Analysts said the outcome of the talks could influence risk sentiment and energy markets, with implications for bullions.
 
-## ONGC is now a 'gas-and-oil' company as output shift accelerates toward natural gas, says chairman
-ONGC chairman says gas emerging as dominant growth driver; rising domestic demand, supportive pricing reforms and new field developments pushing production higher
+## Gold recycling doubles after PM Modi’s appeal; exchanges drive majority of sales
+Price correction fuels surge in old gold exchange as recycling share jumps to 50-60 per cent of jewellery sales
 
-## West Asia outages to keep aluminium market tight near-term: Goldman Sachs
-Even if the Strait of Hormuz reopens under the announced interim deal, smelters cannot immediately return to full capacity as damaged potlines need repairs and curtailed capacity must be restarted gradually
+## Jyothy Labs to expand Exo into broader dishwash franchise after Henkel brands exit portfolio
+Jyothy said Henkel has communicated its decision not to renew licence agreements related to the Pril and Fa brands beyond May 31, 2026
 
-## Air India Express launches Navi Mumbai-Abu Dhabi flights from July 15
-New international route boosts operations at Mumbai’s second airport
+## Slow refinery capacity additions to hit India’s diesel, ATF exports: OPEC
+India, with over 258 MTPA capacity, may add 1.2 mb/d of refining capacity by decade’s end, according to OPEC’s 2026 oil outlook
 
-## India has to invest in deep tech capabilities, build globally competitive products: Neelkanth Mishra
-Mishra spoke about the economic opportunities in the country, the challenges of escaping the middle-income trap, and the need for India to become a technology and product-driven nation
+## Gold, silver rates outlook: Bullion investors to track US-Iran talks, crude oil trends and key global data next week
+Gold and silver prices are poised for volatility this week, heavily influenced by US-Iran negotiations in Switzerland and crude oil market shifts. Analysts are closely monitoring these talks, which could impact global risk sentiment and energy prices. Domestic markets will observe Muharram closures.
+
+## ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026
+India continues to be the Asian Development Bank's top market for private sector investments. The ADB plans to inject approximately $1 billion in direct financing this year, aligning with India's development goals. This follows a significant $2 billion channeled into India's private sector last year
+
+## India ramps up Russian, UAE oil purchases as refiners hedge ahead of Hormuz reopening
+India's crude oil imports from Russia surged in June, solidifying Moscow's position as the top supplier, while UAE shipments remained strong. This strategic diversification aims to secure energy supplies amidst ongoing uncertainties surrounding the Strait of Hormuz. Despite a gradual reopening of th
+
+## India-EU FTA to open nearly entire European market for Indian exports by 2027: Goyal
+India and the European Union are poised to sign their landmark free trade agreement by December, with implementation expected by early 2027. This pact promises Indian exporters near-zero duty access to the vast European market, opening up significant opportunities. Discussions are also progressing o
+
+## Top-10 firms gain Rs 2.15 lakh crore in a week; Airtel emerges biggest winner
+Indian equity markets witnessed a significant surge last week, adding Rs 2.15 lakh crore to the valuation of nine out of the top 10 most valuable companies. Bharti Airtel emerged as the top gainer, followed by LIC and Bajaj Finance. This rally was fueled by improved global risk appetite and easing g
+
+## Exports up 15% so far in June quarter despite global headwinds, says Piyush Goyal
+India's merchandise exports have demonstrated remarkable resilience, surging approximately 15% from April 1 to June 14, despite global economic headwinds and increased US tariffs. Minister Piyush Goyal highlighted this robust growth, even as international trade faces significant challenges. This pos
 
 ## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
 Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
@@ -69,70 +87,52 @@ Petrol and diesel prices may soon see a dip as India receives cheaper crude oil,
 ## 3 Indian-flagged oil tankers cross Strait of Hormuz, head home with 94 crew members
 Three Indian oil tankers, carrying over 8.6 lakh metric tonnes of cargo and 94 crew members, have successfully navigated the Strait of Hormuz and are heading home. This safe passage follows a US decision to lift its blockade on Iran, allowing resumed movement through the vital waterway. The governme
 
-## Monsoon, El Niño and market trends: NSE highlights key risks for India’s 2026 economy
-India's 2026 economic outlook hinges on monsoon performance, with El Niño posing a significant risk of deficient rainfall impacting agriculture. Meanwhile, the nation's equity investor base is rapidly expanding, becoming younger and more diverse, with a notable surge in participation from smaller ci
+## P K Mishra joins PMO staff, officers for Yoga Day session at Seva Teerth
+A Yoga session was held at Seva Teerth today in the national capital on the occasion of the International Day of Yoga.
 
-## Milk prices may rise again by July as El Niño threatens fodder supply
-Dairy consumers might face another price hike by July or August, with industry experts warning of a potential 3-4% increase. This follows a recent 2-3% rise in May. Concerns are mounting over El Niño potentially worsening fodder shortages and impacting milk production, prompting the Maharashtra gove
+## Just Like That: History of Hindu civilisation demonstrates not separation but synthesis
+In contemporary political discourse, there is often a tendency to view India through simplistic binaries: North and South
 
-## Why India, among largest economies, doesn’t rank in top 50 world’s most powerful passports
-Despite India's robust economic growth, its passport ranks surprisingly low globally, hovering around the 80th position. This reflects a slower expansion of visa-free access compared to other nations. Factors like diplomatic ties, reciprocal agreements, and perceived security influence rankings, not
+## 7 dead, several hospitalised after suspected ammonia gas leak in Tamil Nadu's Tiruvallur
+An ammonia gas leak was reported on Sunday at the St Peter's Paul Seafoods Exports facility in Kannigaipair near Periyapalayam in Tamil Nadu's Tiruvallur.
 
-## 7 new bullet train corridors approved: Centre steps up high-speed rail expansion across India
-India is set to revolutionize its rail network with the approval of seven new bullet train corridors, promising significantly reduced travel times between major cities. Key routes like Mumbai-Ahmedabad will see journeys slashed to under two hours, while Bengaluru-Chennai will take just over an hour.
+## PM Modi delays departure from Delhi airport to avoid inconvenience for NEET aspirants
+With the NEET examination scheduled to begin at 2 pm, he delayed his departure to ensure that students faced no inconvenience.
 
-## China's economy struggles to regain domestic momentum despite export boom: Report
-Despite strong export growth, China's domestic economy faces significant challenges. Consumer spending saw a decline in May, with retail sales falling for the first time since late 2022. Consumer confidence remains low, and credit demand is weak, indicating reluctance from businesses and households 
+## PM Modi commissions 3 indigenously built and designed naval ships in Kolkata
+PM Modi focused on India’s maritime power and indigenous defence production under the ‘Make in India’ programme
 
-## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
-India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
+## Burqa-clad NEET aspirant allegedly denied entry for re-exam; police, NTA respond
+The candidate said she wore the same attire to the first exam on May 3, where she was not denied entry.
 
-## Thane businessman duped of ₹56 lakh by self-styled healer, aide for herbal treatment
-The two accused had been supplying medicines to the 75-year-old victim through courier from November last year.
+## PM Modi at Yoga Day celebrations in Kolkata says the practice connects world to India
+“Yoga is not just for a better personal life but for the world’s future,” PM Modi said in his inaugural address
 
-## Rain lashes Mumbai after delayed monsoon amid water crisis, offers respite from heat
-Mumbai Rain: The India Meteorological Department (IMD) said conditions are favourable for the southwest monsoon to advance further across parts of Maharashtra.
+## Chased, windows smashed, assault: Delhi man assaulted by two college students in Gurugram
+The attack, captured on video by the injured motorist, left him with a shoulder injury and cuts near his eyes from shattered glass.
 
-## ED summons Pinarayi Vijayan's daughter again in CMRL money laundering case
-The ED has summoned Veena T for questioning on June 29 regarding a money laundering case involving CMRL and her IT firm.
-
-## Goa 'illegal' iron ore mining case: ED attaches assets worth over ₹1,000 crore
-The Enforcement Directorate has attached assets exceeding ₹1,023 crore in a Goa illegal mining case involving Salgaocar Groups.
-
-## Book Box: The Fathers We Forgive
-A Father’s Day column that examines why we forgive fathers in literature, and blame mothers: A look at Mr. Bennet, Atticus Finch, and Ann Patchett’s Whistler.
-
-## India will be ‘nirnayak’ in maritime sector, says PM Modi as 45 large naval platforms are under construction
-The PM said that 45 large naval platforms are under construction, adding that it is not just a number, but a testament to India's industrial capacity.
-
-## What led to Great Indian Bustard conservation programme? Congress leader shares throwback
-Congress leader Jairam Ramesh also said that the Great Indian Bustard was also proposed as the national bird by the famed ornithologist Salim Ali in 1961.
-
-## Bengal finally on path envisioned in 1947: PM Modi
-Prime Minister Narendra Modi on Saturday was addressing an event in Hooghly district to mark “Paschimbanga Divas” (West Bengal Day)
-
-## ‘Seriously 4 times’: Ratan Tata on falling in love multiple times and why it didn’t succeed; psychologist weighs in
+## 14-year-old relative rapes 9-month-old girl in Gorakhpur, says he was drunk
 
 
-## TV presenter quits after false Messi father death claim: ‘I trusted it’
+## India Women vs South Africa Women Live Cricket Score, T20 World Cup 2026: Harmanpreet Kaur’s IND take on Laura Wolvaardt’s SA
 
 
-## Ferry service suspended, oil terminal ablaze: Ukraine drone attack kills 5 in Russia
+## PM Modi stayed at Delhi airport for 45 minutes during the NEET UG re-exam
 
 
-## Pune tanker crash leaves woman dead; driver arrested
+## Internet claims pillows cause cancer; oncologist begs to differ
 
 
-## El Niño: Maharashtra farmers urged to finish water conservation works fast
+## Why renting a home remains a struggle for transgender residents in Pune
 
 
-## Alerts, bans and ancient shelters: How Europe is fighting severe heatwave
+## Father’s Day: How a woman’s efforts to honour her dad’s memory led to a global tradition
 
 
-## 14 sentenced to life term in 2008 Fatehpur double murder case
+## AR Rahman shares glimpse of his last song with Asha Bhosle: ‘Soundtrack of countless lives’
 
 
-## ‘India no longer just a defence buyer’: PM Modi at Navy warship induction
+## What are AI agent loops, and could they soon make prompting obsolete?
 
 
 ## Energy security fears drive global surge in orders for Chinese storage firms
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US and Iran face make-or-break talks in Switzerland
-Iranian and US officials are set for high stakes talks in Switzerland to reinforce the Memorandum of Understanding.
+## US-Iran delegations arrive as talks begin in Switzerland
+US-Iran delegations arrive as talks begin in Switzerland.
 
-## Vance arrives in Switzerland for US-Iran talks
-Both nations seek a durable end to their war as Iran slams Israeli attacks on Lebanon as violations of interim deal.
+## Messi, Argentina play Austria in World Cup group match: All to know
+Hat-trick hero Lionel Messi back in action for Argentina as they look to take a huge step towards the knockout stages.
 
-## Iran war day 114: US, Iranian delegations in Switzerland for key talks
-Lebanon to top the agenda as US and Iran to hold talks in Switzerland’s Burgenstock mediated by Qatar and Pakistan.
+## Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar
+Crimea's Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.
 
-## Ueda’s brace helps Japan knock Tunisia out of World Cup 2026
-Two goals from Ayase Ueda, and one each from Daichi Kamada and Junya Ito, keep Asian giants Japan second in Group F.
+## ‘Kind, principled’: Palestinian journalists remember slain Gaza journalist
+Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.
 
-## Trump official says Iran World Cup visa approval ‘amazing’
-The chief of the White House World Cup task force says it’s “pretty amazing” Iran’s football team has been given visas.
+## Stop ‘Greater Israel’ to make peace
+Expansionist Israel will not stop dragging the US to war in the Middle East.
 
-## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
-The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+## Lebanon’s ancient monuments remain at risk from Israeli attack
+Lebanon’s ancient monuments remain at risk from Israeli attack
 
-## South Africa’s immigration crackdown divides Johannesburg’s inner city
-A government push to curb undocumented employment is exposing the dependence of many small businesses on migrant labour.
+## Mother of Al Jazeera’s Ahmed Wishah mourns his killing
+This is the moment the mother of Al Jazeera cameraman Ahmed Wishah first saw his body after Israel killed him in Gaza.
 
-## Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike
-Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike
+## Albanian protesters rally against Kushner-backed resort in protected area
+Demonstrators chant "Albania is not for sale," challenging coastal projects tied to Kushner amid environmental concerns.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
