@@ -1,16 +1,40 @@
 # AION Intelligence
 
-## Vance arrives in Switzerland for crunch US-Iran talks
+## Ed Miliband would be ‘noose around neck’ of UK economy as chancellor, union boss warns
+Comments by Sharon Graham come as Burnham team explores key government appointments
+
+## Crunch US-Iran talks begin in Switzerland
 Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon
+
+## We need to talk about Brexit
+Britain must rebuild EU ties, but trying to rejoin would for now be a diversion
+
+## Why Giorgia Meloni turned on Donald Trump
+Italian premier’s fallout with US president comes as she gears up for re-election battle
+
+## King Charles to be first monarch to disclose personal tax bill
+Buckingham Palace says move next week is part of an effort to ‘encourage understanding of accountability’
 
 ## Starmer on brink of quitting as UK prime minister
 Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit
 
-## Starmer could announce exit next week, some ministers believe
-UK prime minister under intense pressure to set out departure timetable after Andy Burnham’s by-election win
+## Reform UK has a new set of problems
+The fight for the right is far from settled, as the Makerfield and Aberdeen by-elections showed
 
-## What Andy Burnham’s Westminster past reveals about him
-‘King of the North’ started as a New Labour special adviser before serving in Corbyn’s shadow cabinet
+## Ukraine warns Belarus of ‘consequences’ over drone equipment
+Volodymyr Zelenskyy threatens to remove relay stations in the country used by Russia unless Minsk acts within a week
+
+## Michael O’Leary in line for €150mn payout in latest Ryanair contract
+Longtime boss of Europe’s biggest airline signs new deal that includes bumper share award if he hits ambitious targets
+
+## Electricity ‘reselling’ adds £99mn to consumer bills
+Regulator blames market design as hydropower stations and batteries repeatedly sell and curtail their output
+
+## Michael Bloomberg arms green lobby for fight against oil interests
+Billionaire pledges $285mn to renewable industry associations as nations face energy policy decisions in wake of Iran war
+
+## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
+Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
 
 ## SpaceX handed lowest possible ESG rating by MSCI
 Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine
@@ -21,47 +45,35 @@ Big Tech wakes up to the need for brawn and crafts skills to build and maintain 
 ## Holiday bookings surge in markets hit by Iran crisis
 Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity
 
-## Putin’s war machine sputters in drone age
-Ukraine’s innovations cut into Russia’s manpower advantage
-
-## Michael Bloomberg arms green lobby for fight against oil interests
-Billionaire pledges $285mn to renewable industry associations as nations face energy policy decisions in wake of Iran war
-
-## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
-Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
-
 ## ‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy
 Ariane 6 rocket programme gets help from Jeff Bezos as it seeks to emerge from US rival’s shadow
 
-## Insurers reach for Latin dictionary to rebrand practice that angered Trump
-Notices of cancellation sent out by marine insurers after war broke out in the Gulf could be renamed ‘denunciato recisiones’
+## Vance: Trump asked us to turn over "a new leaf" in ties with Iranian people
 
-## Cancer drugmaker Revolution Medicines says sale not a priority
-Sought-after biotech company pushes back against being scooped up following Merck’s unsuccessful $32bn bid
 
-## Energy Edits Newsletter for June 21, 2026
-Hello Energy Edit readers,
+## Needed, a more equitable intellectual property order
+There must be greater accountability in the enforcement of biopiracy rules
 
-## 60% surveyed professionals say AI now central to HR operations: Report
-Over 60% of professionals view AI as a top priority in HR, with an additional 15% noting its increasing importance in recruitment, onboarding, and HR operations, according to Genius HRTech DigiPoll Survey
+## A behaviour-first approach
+A book of possibilities on what Indian businesses can achieve
 
-## India aims to be defence manufacturer, not buyer: PM
-Nearly every few weeks the Navy has received a new capability, while 45 major naval platforms are currently under construction
+## CCPA fines Storia Foods, English Oven ₹1 lakh each for misleading ‘100% claim’
+The Authority said that all claims relating to composition, quality, nutrition or health benefits must be truthful, verifiable and non-deceptive
 
-## India, US to hold ministerial-level trade pact talks this week
-Ministers from both nations aim to finalise key aspects of the interim trade agreement, addressing tariff structures and market competitiveness ahead of a pivotal deadline for US trade policies
+## Mumbai hotels shut jacuzzis, regulate laundry operations to conserve water
+The Brihanmumbai Municipal Corporation has halted water supply to construction sites and swimming pools
 
-## US-Iran talks, crude oil movement, macro data to dictate bullion trend next week: Analysts
-Analysts said the outcome of the talks could influence risk sentiment and energy markets, with implications for bullions.
+## Kotak Bank open to acquisitions at right price; Focus on profitability over market share, says Wholetime Director Kashyap
+Kotak Bank prioritises profitability over market share, open to acquisitions that align culturally and technologically, says Director Kashyap.
 
-## Gold recycling doubles after PM Modi’s appeal; exchanges drive majority of sales
-Price correction fuels surge in old gold exchange as recycling share jumps to 50-60 per cent of jewellery sales
+## As Delhi EV Policy 2.0 nears, auto industry for phasing out older 2Ws
+Says modern BS-VI compliant 2Ws are equipped with advanced electronic fuel injection that has zero emission so need no ban
 
-## Jyothy Labs to expand Exo into broader dishwash franchise after Henkel brands exit portfolio
-Jyothy said Henkel has communicated its decision not to renew licence agreements related to the Pril and Fa brands beyond May 31, 2026
+## No truth in missing coal stock allegations, says SCCL
+Coal transportation in Singareni is highly Secure and every tonne of coal is closely monitored
 
-## Slow refinery capacity additions to hit India’s diesel, ATF exports: OPEC
-India, with over 258 MTPA capacity, may add 1.2 mb/d of refining capacity by decade’s end, according to OPEC’s 2026 oil outlook
+## India-US trade deal enters final lap as ministerial talks to begin this week
+India and the US are poised for crucial trade talks this week, aiming to finalize the first phase of their bilateral trade agreement. Discussions will focus on the interim pact's framework, especially as a temporary US tariff expires next month. India seeks to regain a competitive edge over rival ex
 
 ## Gold, silver rates outlook: Bullion investors to track US-Iran talks, crude oil trends and key global data next week
 Gold and silver prices are poised for volatility this week, heavily influenced by US-Iran negotiations in Switzerland and crude oil market shifts. Analysts are closely monitoring these talks, which could impact global risk sentiment and energy prices. Domestic markets will observe Muharram closures.
@@ -84,55 +96,52 @@ India's merchandise exports have demonstrated remarkable resilience, surging app
 ## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
 Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
 
-## 3 Indian-flagged oil tankers cross Strait of Hormuz, head home with 94 crew members
-Three Indian oil tankers, carrying over 8.6 lakh metric tonnes of cargo and 94 crew members, have successfully navigated the Strait of Hormuz and are heading home. This safe passage follows a US decision to lift its blockade on Iran, allowing resumed movement through the vital waterway. The governme
+## 'Not getting development funds, hurt by recent remarks': What Sena UBT MP said on crossover to Shinde's camp
+In a video posted on his Instagram handle, Nagesh Patil said he had not compromised on his ideology and "has just gone from one Shiv Sena to another".
 
-## P K Mishra joins PMO staff, officers for Yoga Day session at Seva Teerth
+## 'Useless fellows': Kharge loses cool at Congress workers over pro-Shivakumar slogans in Bengaluru
+A video from the event showed workers chanting Shivakumar's initials as senior Congress leaders, including Shivakumar, urged the crowd to quieten down.
+
+## Broken ribs, injured lungs, but NEET aspirant still turned up to write exam; NTA stepped in to help
+The father requested the NTA to allow his daughter to take the examination and sought a seating arrangement with a chair and table on the ground floor of centre
+
+## Uddhav camp MP confirms crossover, Sanjay Raut says some rebels ‘in touch’: Latest in Shiv Sena UBT rebellion
+Six Shiv Sena (UBT) MPs remain in rebellion, with Dharashiv MP Omprakash Raje Nimbalkar expected to announce his political stand after consulting supporters.
+
+## Two killed in BMW crash on Mumbai–Vadodara highway near Badlapur
+The convertible BMW, which was reportedly being driven at high speed of 251 kmph with its hood open, was completely mangled in the crash.
+
+## Rajnath Singh backs key Meghalaya infrastructure proposals on Yoga Day
+A key focus of the discussions was the proposed Ratacherra-Ranikor road along the India-Bangladesh border
+
+## PK Mishra, principal secretary to PM Modi, joins Yoga Day session at Seva Teerth
 A Yoga session was held at Seva Teerth today in the national capital on the occasion of the International Day of Yoga.
 
 ## Just Like That: History of Hindu civilisation demonstrates not separation but synthesis
 In contemporary political discourse, there is often a tendency to view India through simplistic binaries: North and South
 
-## 7 dead, several hospitalised after suspected ammonia gas leak in Tamil Nadu's Tiruvallur
-An ammonia gas leak was reported on Sunday at the St Peter's Paul Seafoods Exports facility in Kannigaipair near Periyapalayam in Tamil Nadu's Tiruvallur.
-
-## PM Modi delays departure from Delhi airport to avoid inconvenience for NEET aspirants
-With the NEET examination scheduled to begin at 2 pm, he delayed his departure to ensure that students faced no inconvenience.
-
-## PM Modi commissions 3 indigenously built and designed naval ships in Kolkata
-PM Modi focused on India’s maritime power and indigenous defence production under the ‘Make in India’ programme
-
-## Burqa-clad NEET aspirant allegedly denied entry for re-exam; police, NTA respond
-The candidate said she wore the same attire to the first exam on May 3, where she was not denied entry.
-
-## PM Modi at Yoga Day celebrations in Kolkata says the practice connects world to India
-“Yoga is not just for a better personal life but for the world’s future,” PM Modi said in his inaugural address
-
-## Chased, windows smashed, assault: Delhi man assaulted by two college students in Gurugram
-The attack, captured on video by the injured motorist, left him with a shoulder injury and cuts near his eyes from shattered glass.
-
-## 14-year-old relative rapes 9-month-old girl in Gorakhpur, says he was drunk
+## How swimmer Aryan Nehra broke the 8-minute barrier in the 800 metres
 
 
-## India Women vs South Africa Women Live Cricket Score, T20 World Cup 2026: Harmanpreet Kaur’s IND take on Laura Wolvaardt’s SA
+## Two killed, one injured as BMW crashes into divider, overturns on Mumbai-Vadodara highway
 
 
-## PM Modi stayed at Delhi airport for 45 minutes during the NEET UG re-exam
+## Railways to upgrade Rajasthan’s Sikar station; Bikaner-Chandigarh train proposal under review
 
 
-## Internet claims pillows cause cancer; oncologist begs to differ
+## US to ‘fundamentally transform’ Iran relations, says JD Vance amid talks in Switzerland
 
 
-## Why renting a home remains a struggle for transgender residents in Pune
+## This Lagaan actor met his British wife on film’s set: ‘She’s learnt Hindi now’
 
 
-## Father’s Day: How a woman’s efforts to honour her dad’s memory led to a global tradition
+## 5 must-have experiences in Mussoorie besides strolling on Mall Road
 
 
-## AR Rahman shares glimpse of his last song with Asha Bhosle: ‘Soundtrack of countless lives’
+## Haiti: First to abolish slavery, now gang wars disturb football, survival
 
 
-## What are AI agent loops, and could they soon make prompting obsolete?
+## ‘Dig your own grave’: Ex-student alleges horrific abuse at $80,000-a-year New York school
 
 
 ## Energy security fears drive global surge in orders for Chinese storage firms
@@ -255,6 +264,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Marc Marquez wins the Czech MotoGP, narrows title gap to leader Bezzecchi
+Seven-time MotoGP world champion reduces title leader Marco Bezzecchi's points lead after the Italian was suspended.
+
+## Why Lebanon may make or break the Iran-US deal
+Israeli escalation in Lebanon threatens to undermine agreement between Tehran and Washington, analysts say.
+
+## Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win
+UK minister says Starmer considering 'political realities' after rival Andy Burnham secured decisive by-election win.
+
+## Spain vs Saudi Arabia LIVE: World Cup 2026
+Live updates as Spain face Saudi Arabia in Group H - follow the build-up, analysis and live text commentary of the game.
+
+## Henry stars as New Zealand wrap up victory against England in second Test
+New Zealand quick Matt Henry demolishes the England batting attack in the second innings to level the series.
+
 ## US-Iran delegations arrive as talks begin in Switzerland
 US-Iran delegations arrive as talks begin in Switzerland.
 
@@ -263,21 +287,6 @@ Hat-trick hero Lionel Messi back in action for Argentina as they look to take a 
 
 ## Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar
 Crimea's Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.
-
-## ‘Kind, principled’: Palestinian journalists remember slain Gaza journalist
-Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.
-
-## Stop ‘Greater Israel’ to make peace
-Expansionist Israel will not stop dragging the US to war in the Middle East.
-
-## Lebanon’s ancient monuments remain at risk from Israeli attack
-Lebanon’s ancient monuments remain at risk from Israeli attack
-
-## Mother of Al Jazeera’s Ahmed Wishah mourns his killing
-This is the moment the mother of Al Jazeera cameraman Ahmed Wishah first saw his body after Israel killed him in Gaza.
-
-## Albanian protesters rally against Kushner-backed resort in protected area
-Demonstrators chant "Albania is not for sale," challenging coastal projects tied to Kushner amid environmental concerns.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
