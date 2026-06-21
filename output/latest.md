@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## US and Iran conduct tense peace talks in Switzerland
+Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon
+
+## FirstFT: US and Iran hold high-stakes talks in Switzerland
+Also in today’s newsletter: Philippines warns over Chinese military activity around Scarborough Shoal, and Keir Starmer’s premiership in doubt
+
 ## India plays ‘whack-a-mole’ with online financial influencers
 Regulator targets scammers who give stock tips under guise of financial education as ranks of retail investors grow
 
 ## Philippines fears China may move to seize full control of disputed atoll
 Defence secretary warns of heightened Chinese military activity around Scarborough Shoal
-
-## US and Iran hold crunch talks in Switzerland
-Negotiations to permanently end the war focus on Israeli-Hizbollah conflict in Lebanon
 
 ## Building materials group CRH nears its biggest-ever deal to buy Arcosa
 Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn
@@ -20,9 +23,6 @@ Traders see more volatility ahead as new central bank chair declines to give dot
 
 ## A nation still divided 10 years on from the Brexit vote
 UK braced for leadership challenge, the US updates its growth estimate, and chip designer Cerebras reports earnings
-
-## Starmer retreats to Chequers to mull podium moment
-Prime minister goes ‘dark’ on colleagues as he spends weekend discussing his political future with wife, Victoria
 
 ## Wars trigger $12bn venture capital rush into defence tech
 Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle
@@ -66,6 +66,15 @@ Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal’s first Budget unde
 ## Swetha Menon steps down as AMMA president; 17-member committee resigns
 The executive committee, led by Swetha Menon, assumed office in August last year
 
+## Why IT firms are moving beyond token maxxing
+
+
+## Govt starts wor k on steps to increase domestic resilience
+
+
+## After initial rush, semaglutide therapy market saddled with 100cr excess stock
+
+
 ## India's digital sector faces competition, policy and tech challenges despite strong growth outlook
 India's digital connectivity sector is poised for growth but faces intense competition from new players and global tech giants. Companies must innovate and invest heavily in technology to stay ahead. While satellite connectivity may serve niche markets, terrestrial solutions like FWA are expected to
 
@@ -80,15 +89,6 @@ Gold and silver prices are poised for volatility this week, heavily influenced b
 
 ## ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026
 India continues to be the Asian Development Bank's top market for private sector investments. The ADB plans to inject approximately $1 billion in direct financing this year, aligning with India's development goals. This follows a significant $2 billion channeled into India's private sector last year
-
-## India ramps up Russian, UAE oil purchases as refiners hedge ahead of Hormuz reopening
-India's crude oil imports from Russia surged in June, solidifying Moscow's position as the top supplier, while UAE shipments remained strong. This strategic diversification aims to secure energy supplies amidst ongoing uncertainties surrounding the Strait of Hormuz. Despite a gradual reopening of th
-
-## India-EU FTA to open nearly entire European market for Indian exports by 2027: Goyal
-India and the European Union are poised to sign their landmark free trade agreement by December, with implementation expected by early 2027. This pact promises Indian exporters near-zero duty access to the vast European market, opening up significant opportunities. Discussions are also progressing o
-
-## Top-10 firms gain Rs 2.15 lakh crore in a week; Airtel emerges biggest winner
-Indian equity markets witnessed a significant surge last week, adding Rs 2.15 lakh crore to the valuation of nine out of the top 10 most valuable companies. Bharti Airtel emerged as the top gainer, followed by LIC and Bajaj Finance. This rally was fueled by improved global risk appetite and easing g
 
 ## ‘Inconvenience’, ‘half-truths’: Tejasvi Surya vs Priyank Kharge over Congress rally ‘disrupting’ NEET exam in Bengaluru
 The event which Tejasvi Surya was referring to was Congress's mega convention at Palace Grounds in Bengaluru.
@@ -138,6 +138,9 @@ The accused identified as Mohammad Taslim alias Mohammad Umer Sheikh was sentenc
 ## Multigrain flour vs wheat flour for weight loss: Which is better?
 
 
+## Buyers hunt bargains amid signs that China’s home prices are bottoming out
+Expectations have heightened in major Chinese cities like Shanghai that home prices are bottoming out following a six-year property slump, as would-be buyers actively hunt bargains amid the recent policy easing. Brisk transactions are also shoring up brokers’ confidence in the market where the price
+
 ## Energy security fears drive global surge in orders for Chinese storage firms
 The lingering energy shock is driving overseas orders for China’s energy storage companies, with more than 25 gigawatt-hours (GWh) of capacity to be built in the US and European countries. The global demand for energy storage facilities has been driven by disruptions to oil and gas supply chains ste
 
@@ -158,9 +161,6 @@ Alibaba Group delivered its strongest defence yet of an “all in” artificial 
 
 ## Hong Kong singer Eason Chan snaps up US$23m home as celebrities flock to luxury property
 Hong Kong actor and singer Eason Chan bought a HK$182.53 million (US$23.29 million) property in the city’s Southern district, according to official records, joining a list of the rich and famous who have recently snapped up luxury homes. Chan, whose full name on the official record was Chan Yick Shu
-
-## Chinese EV brands signal Southeast Asia expansion at Hong Kong auto expo
-China’s electric vehicle makers are using Hong Kong’s annual auto expo this week to signal their ambitions in the Southeast Asian market, with some brands rolling out right-hand drive models for the region’s roads. “Our first priority will be Indonesia,” Amy Gong, president of Seres Group subsidiary
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -258,6 +258,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Belgium see red in goalless World Cup draw with Iran in Los Angeles
+Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in close Group G game.
+
 ## What are the end goals of Iran-US negotiations?
 Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.
 
@@ -278,9 +281,6 @@ Colombians are voting in an election where senator Ivan Cepeda is racing against
 
 ## Japan fans celebrate 4-0 World Cup win in Tokyo
 Fans gathered at Tokyo's Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.
-
-## Ramiro Valdes, one of Cuba’s last living revolutionary figures, dies at 94
-Valdes was close ally of Castro brothers and helped found Cuba's notorious intelligence apparatus.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
