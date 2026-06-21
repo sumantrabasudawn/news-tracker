@@ -45,6 +45,12 @@ For two decades, Hollywood’s most indispensable executive has been synonymous 
 ## Beer can boost ‘spiritual or mental’ health, says Kirin president
 Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
 
+## Bengaluru’s start-up ecosystem: Aiming for global top five by 2030
+BV Naidu, Chairman of the Karnataka Digital Economy Mission (KDEM), talks about why a copy-paste blueprint from Silicon Valley will not work for India
+
+## How small investors can gain global exposure without international mutual funds
+Several domestic equity schemes, mandated to hold at least 65% in Indian equities, have quietly built sizeable overseas exposure
+
 ## Domestic flows help cash market defy correction
 The average daily turnover rose during the sell-off as MFs absorbed FPI exits; the strength has continued even after the recent recovery
 
@@ -62,12 +68,6 @@ Guess the stock that will give the best return by next Friday
 
 ## Insurance Query: Do you need to undergo medical tests for increasing policy sum assured?
 Factors to consider while increasing the insured sum on one’s existing policy
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Aurobindo Pharma, Bharat Electronics and Trent
-
-## Crude Check: Oil futures remain weak
-However, corrective rise possible
 
 ## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
 Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
@@ -93,53 +93,59 @@ Despite strong export growth, China's domestic economy faces significant challen
 ## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
 India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
 
-## ‘Deliberate political attack’: MEA rejects Pakistan President's remarks on minority rights in India
-MEA said in a statement that the comments made by Asif Ali Zardari were “particularly absurd given Pakistan’s own abysmal record on human rights”.
+## CJP protest in Delhi LIVE: Abhijeet Dipke wishes NEET UG aspirants luck, requests cops to not stop people
+CJP Protest Live: Despite police orders to vacate the site, CJP founder Abhijeet Dipke and supporters remained at Jantar Mantar and will continue the protest on Sunday.
 
-## Bypassing India, Bangladesh PM Rahman picks Malaysia, China for first visit
-Rahman’s decision to first travel to Malaysia is seen as part of his govt’s careful balancing between India and China in line with its “Bangladesh First” policy
+## Yoga beyond borders: The Indian Army's global outreach
+Traditionally viewed as an instrument of national hard power, the Indian Army has increasingly become a carrier of India's soft power through Yoga.
 
-## No increase in petrol, diesel prices ‘if situation is viewed in real terms’, says Govt
-Puri said said the increase in petrol and diesel prices had been limited to ₹7.60, added that compared to prices prevailing during the Russia-Ukraine war.
+## Bangladesh on high alert ahead of Sheikh Hasina party Awami League's founding anniversary: ‘May try to create unrest’
+Bangladesh home minister Salahuddin Ahmed said intelligence agencies had flagged the possibility of disturbances around the anniversary.
 
-## After the slogans fade, what future awaits the Cockroach Janta Party?
-Abhijeet Dipke's speeches at Delhi's Jantar Mantar drew the largest crowds, and supporters frequently gathered near the stage to hear him speak.
+## 2 women abducted, gang-raped at gunpoint by 13 men in Bihar; SIT probe launched
+The victims, originally from Jharkhand’s Latehar district, are cousins and were residing in a rented house in Patna’s Mithapur area.
 
-## 'May exam went well, was preparing for re-NEET': Ghaziabad student dies by suicide 2 days before June 21 exam
-The family told the police that the victim had appeared for the NEET UG exam in May and it had went well. He was preparing for the re-exam on June 21.
+## Security, cyber surveillance stepped up ahead of NEET UG retest today
+More than 2.27 million aspirants are expected to appear for the examination on Sunday.
 
-## Delhi: Baby accidentally consumes mosquito-repellent liquid, makes remarkable recovery
-The child required prolonged Pediatric Intensive Care Unit (PICU) care, advanced ventilation, inotropic support, and renal support.
+## 'Split due to lack of leadership': BJP on recent defections in Trinamool, Shiv Sena UBT
+While the opposition has blamed the BJP, accusing it of instigating and abetting the rebellion, BJP has blamed “the leadership” of the regional satraps.
 
-## BPSC announces 70th CCE results, Shraddha Pandey emerges topper; exam had led to protests last year
-Shraddha Pandey emerged as the topper with 593 marks, while Shashank Gaurav and Ayush Bijoy scored 592 marks each, securing second and the third spot.
+## ‘Deliberate political attack’: India junks Pakistani President's charge of demolition of historic sites
+Zardari had said in a post that India should immediately stop such actions and protect minority rights and the shared cultural heritage of the two countries.
 
-## Ajit Doval to host BRICS national security advisor’s meet on June 22-23
-The meeting, to be chaired by Doval, will discuss the rapidly evolving nature of national security challenges, and the role of new technologies
+## Delhi HC orders Centre to take down ‘false’ posts on CJI, ministers playing badminton at UK event
+The court was hearing a plea which sought removal of content alleging that a delegation of senior judges and ministers attended a badminton event in the UK.
 
-## Trump says US will begin charging tolls in Strait of Hormuz if final Iran deal not reached in 60 days
-
-
-## Dutch hero Brian Brobbey, who encountered a gangster and lived to tell the tale
+## Curacao’s Eloy Room, goalkeeper without a club, just broke a World Cup record
 
 
-## Peanuts vs makhana: Which one should you snack on for weight loss?
+## Samay Raina lauds Alia Bhatt, Sharvari for being ‘chill, fun’ on India’s Got Latent S2
 
 
-## Crowd work, viral clips and the changing rules of stand-up comedy
+## Corridors of Power: A mole in AAP house, BJP’s lassi sarcasm, Johl’s recipe for Mann and Congress’ never ending meetings
 
 
-## BJP president’s first visit to state ahead of 2027 polls: Nitin Nabin promises drug-free Punjab under double-engine BJP govt
+## A two-month course, a Rs 25,000 job offer, and a new future
 
 
-## Meerut woman arrested for role in killing of 6-year-old son in connivance with lover
+## WATCH: PM Modi leads mass yoga event, guides participants through asanas in Kolkata
 
 
-## In Latur, leak casts long shadow, students keep faith in their dreams
+## Why is fighting in Lebanon threatening the US-Iran deal?
 
 
-## NEET retest today, NTA ready with more security and quick processing
+## Cocktail 2 Box Office Collection Day 2 Update: Shahid, Kriti, Rashmika’s film earns over Rs 50 cr worldwide
 
+
+## 15 saves in 90 minutes! Curacao goalkeeper Eloy Room sets World Cup record in second game
+
+
+## Thai property crackdown: Foreign buyers hit pause on villas as nominee loophole closes
+Thailand’s crackdown on a loophole that effectively bypasses its restrictions on land ownership by foreigners is causing prospective buyers to delay purchase decisions on luxury villas in resort destinations such as Phuket and Koh Samui, according to agents. Bangkok has stepped up its scrutiny of bu
+
+## Cross-border biotech deals grow more complex as US targets China investment links
+Cross-border biotech deals between China and the United States are becoming more complicated and could face a modest slowdown as Washington steps up efforts to restrict investment and technology transfers, according to industry analysts. “There will be more geopolitical scrutiny going forward. This 
 
 ## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
 Premium and niche foreign brands are entering or returning to China as they seek to unlock growth in the country’s vast consumer market just as many international companies are either pulling out or closing shop amid fierce competition in a fast-changing environment. Foreign companies including Amer
@@ -158,12 +164,6 @@ China’s electric vehicle makers are using Hong Kong’s annual auto expo this 
 
 ## China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals
 Chinese artificial intelligence developers are accelerating their push into massive foundation models with more than a trillion parameters, just as Washington moves to block foreign access to leading US software through unprecedented export controls. Parameters serve as a primary measure of an AI’s 
-
-## Momenta moves closer to Hong Kong IPO after US listing setback
-Chinese autonomous-driving start-up Momenta moved a step closer to a Hong Kong initial public offering after mainland China’s securities regulator disclosed a filing notice approving the proposed share sale. The proposed listing would add another autonomous-driving company to Hong Kong’s market, fol
-
-## Hong Kong property sales more measured as interest rate increase looms
-Hong Kong homebuyers showed interest in 130 flats put on sale by developers on Thursday evening, but the pace of buying was more measured after an interest-rate increase later this year became more likely. Agents said 30 of the 75 units put on sale at Phase 4B of La Montagne at the Southside project
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+
+## Egypt coach denies Salah rift before World Cup match against New Zealand
+'If he starts ... or if he gets substituted, it's fine - it is his role as a player,' Egypt ‌coach Hossam Hassan says.
+
+## Room the hero as tiny Curacao earn first World Cup point against Ecuador
+Eloy Room's incredible goalkeeping helped Curacao make history in a goalless draw in a Group E match in Kansas City.
+
+## Suspect arrested after anti-Muslim stabbing rampage in Scotland
+Bystanders captured the moment police arrested a machete-weilding man, suspected of anti-Muslim stabbing rampage.
+
+## Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon
+Talks come as Iran says it is closing the Strait of Hormuz over Israel's deadly attacks on Lebanon.
+
+## US refuses to ease Iran World Cup travel restrictions for Belgium match
+Andrew Giuliani says Iran's players will not be allowed to stay longer for their group matches in the US.
+
+## Iranian delegation arrives in Switzerland for US peace talks
+Iranian delegation arrives in Switzerland for US peace talks
+
 ## Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group
 Germany come from behind to beat Ivory Coast 2-1 in Group E, sealing FIFA World Cup 2026 knockout place.
-
-## Trump vows Iran will not charge Strait of Hormuz tolls, but says US might
-The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.
-
-## Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth
-Almiron received the first red card for covering his mouth in the World Cup Group D match against Turkiye.
-
-## Bolivia declares state of emergency to clear protest blockades
-Bolivia declares state of emergency to clear protest blockades
-
-## Overplaying Strait of Hormuz card will turn Iran into a pariah state
-Overplaying Strait of Hormuz card will turn Iran into a pariah state.
-
-## Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win
-The Dutch have four points after bagging their first win in Houston; Sweden are second with three points in Group F.
-
-## Ukraine says Russian attack kills five people in Zaporizhzhia
-During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russia is preparing for 'massive' attack.
-
-## Are UK Prime Minister Keir Starmer’s political days numbered?
-British PM resisting intensifying party pressure to step aside.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
