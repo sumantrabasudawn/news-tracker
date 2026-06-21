@@ -1,73 +1,67 @@
 # AION Intelligence
 
-## Stabbing attacks in Edinburgh investigated as anti-Muslim hate crimes
-Scottish man is arrested after rampage in capital leaves five injured
+## Starmer could announce exit next week, some ministers believe
+UK prime minister under intense pressure to set out departure timetable after Andy Burnham’s by-election win
 
-## Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire
-Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic
+## Vance arrives in Switzerland for crunch US-Iran talks
+Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon
 
-## Zelenskyy returns Polish state medal in escalating dispute with ally
-Ukrainian president calls on Warsaw to show more respect in row dating back to second world war
+## What Andy Burnham’s Westminster past reveals about him
+‘King of the North’ started as a New Labour special adviser before serving in Corbyn’s shadow cabinet
 
-## Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal
-Possible Democratic presidential candidate describes war as historic ‘American national security mess’
+## SpaceX handed lowest possible ESG rating by MSCI
+Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine
 
-## Chief whip warns Starmer that growing number of MPs want exit timetable
-Prime minister is spending the weekend discussing his future with allies and colleagues
+## Workers are emerging as the next big AI logjam
+Big Tech wakes up to the need for brawn and crafts skills to build and maintain data centres
 
-## Meloni accuses Trump of pandering to west’s enemies
-Italian premier on offensive after US president claimed she ‘begged’ for a photo with him
+## Holiday bookings surge in markets hit by Iran crisis
+Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity
 
-## Pedro Sánchez’s wife ordered to face corruption trial and surrender passport
-Spanish prime minister’s office accuses judge of over-reach after shock decision
+## Putin’s war machine sputters in drone age
+Ukraine’s innovations cut into Russia’s manpower advantage
+
+## Bangladesh ‘doubles down’ on push to claw back missing $230bn
+Finance minister and central banker say they are negotiating to recoup lost assets in the UK, US, UAE and Singapore
+
+## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
+Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
+
+## ‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy
+Ariane 6 rocket programme gets help from Jeff Bezos as it seeks to emerge from US rival’s shadow
+
+## Insurers reach for Latin dictionary to rebrand practice that angered Trump
+Notices of cancellation sent out by marine insurers after war broke out in the Gulf could be renamed ‘denunciato recisiones’
+
+## Cancer drugmaker Revolution Medicines says sale not a priority
+Sought-after biotech company pushes back against being scooped up following Merck’s unsuccessful $32bn bid
 
 ## Nine people in critical condition after fatal UK train collision
 Investigators work to establish what led to the first deadly rail accident in nearly two years
 
-## Renault to abstain on Nissan board appointment
-Non-executive director was proponent of push to merge Japanese group with rival Honda
+## India boosts Russian, UAE oil purchases in June ahead of full Hormuz recovery
+India imported an average of 2.66 million bpd of crude oil from Russia in June, through June 19, compared to 1.91 million bpd in May
 
-## Will football in America stick?
-Also in today’s newsletter: Kansas City Chiefs president discusses hosting the World Cup
+## Voltas sells 1 million AC units in first quarter of FY27
+The RAC industry expects good sales this year after a dull year in 2025, as sales were impacted due to unseasonal rainfall, along with other factors
 
-## Ministers to make YouTube and Meta boost prominence of UK news
-Move expected in British government green paper would set stage for fresh battle with Big Tech over online misinformation
+## India dependence on imported thermal coal to remain firm
+The import coal dependent power facilities are engineered to run on high-calorific, low-ash imported coal and face significant technical challenges in switching to domestic supply, which has much higher ash content and different combustion properties.
 
-## Rathbones’ blunder boosts banks in the race for the UK’s rich
-An internal review that found regulatory compliance shortcomings sent the stock down 17%
+## Strong maritime capabilities deciding factor for country's economic, strategic influence: Modi
+No nation can become a big power without maritime prowess. Development, security and prosperity are tied to the seas, says the Prime Minister
 
-## Fertiliser prices tumble as traders look beyond Middle East disruption
-Urea back to prewar levels but drop in demand ‘is not good news’
+## ONGC is now a 'gas-and-oil' company as output shift accelerates toward natural gas, says chairman
+ONGC chairman says gas emerging as dominant growth driver; rising domestic demand, supportive pricing reforms and new field developments pushing production higher
 
-## Bob Iger’s long goodbye
-For two decades, Hollywood’s most indispensable executive has been synonymous with Disney. Can he really tear himself away?
+## West Asia outages to keep aluminium market tight near-term: Goldman Sachs
+Even if the Strait of Hormuz reopens under the announced interim deal, smelters cannot immediately return to full capacity as damaged potlines need repairs and curtailed capacity must be restarted gradually
 
-## Beer can boost ‘spiritual or mental’ health, says Kirin president
-Japanese brewer’s Takeshi Minakata says alcohol ‘can be a good thing’ as it ‘helps make people happy’
+## Air India Express launches Navi Mumbai-Abu Dhabi flights from July 15
+New international route boosts operations at Mumbai’s second airport
 
-## Bengaluru’s start-up ecosystem: Aiming for global top five by 2030
-BV Naidu, Chairman of the Karnataka Digital Economy Mission (KDEM), talks about why a copy-paste blueprint from Silicon Valley will not work for India
-
-## How small investors can gain global exposure without international mutual funds
-Several domestic equity schemes, mandated to hold at least 65% in Indian equities, have quietly built sizeable overseas exposure
-
-## Domestic flows help cash market defy correction
-The average daily turnover rose during the sell-off as MFs absorbed FPI exits; the strength has continued even after the recent recovery
-
-## US-Iran talks set for Sunday in Switzerland as Tehran shuts Strait of Hormuz amid Lebanon fighting
-The latest escalation has raised fresh concerns over regional stability, with diplomatic efforts and nuclear talks facing new uncertainty.
-
-## Tech Query: Ashok Leyland, Persistent Systems, Jupiter Life Line Hospitals, Inox Wind - What is the outlook? Where are these stocks headed?
-We look at the prospects of Ashok Leyland and four other stocks – Persistent Systems, Jupiter Life Line Hospitals and Inox Wind
-
-## Index Outlook: Lifting hopes
-The benchmark indices can rise more on a break above their immediate resistance
-
-## Bandu’s Blockbusters for June 21, 2026
-Guess the stock that will give the best return by next Friday
-
-## Insurance Query: Do you need to undergo medical tests for increasing policy sum assured?
-Factors to consider while increasing the insured sum on one’s existing policy
+## India has to invest in deep tech capabilities, build globally competitive products: Neelkanth Mishra
+Mishra spoke about the economic opportunities in the country, the challenges of escaping the middle-income trap, and the need for India to become a technology and product-driven nation
 
 ## Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Puri
 Petrol and diesel prices may soon see a dip as India receives cheaper crude oil, Union Minister Hardeep Singh Puri indicated. He defended domestic fuel pricing, stating increases have been minimal globally despite market volatility. The government has absorbed significant costs through excise duty c
@@ -93,53 +87,56 @@ Despite strong export growth, China's domestic economy faces significant challen
 ## Middle East conflict pushes India to rethink LPG imports as OMCs continued to absorb price shocks
 India significantly diversified its LPG imports, tapping the US, Iran, and other nations to reduce Middle East dependence amid regional crisis. While state-run retailers absorbed price hikes, domestic consumption dipped due to tighter supplies and rising costs. The move, though ensuring continuity, 
 
-## CJP protest in Delhi LIVE: Abhijeet Dipke wishes NEET UG aspirants luck, requests cops to not stop people
-CJP Protest Live: Despite police orders to vacate the site, CJP founder Abhijeet Dipke and supporters remained at Jantar Mantar and will continue the protest on Sunday.
+## Thane businessman duped of ₹56 lakh by self-styled healer, aide for herbal treatment
+The two accused had been supplying medicines to the 75-year-old victim through courier from November last year.
 
-## Yoga beyond borders: The Indian Army's global outreach
-Traditionally viewed as an instrument of national hard power, the Indian Army has increasingly become a carrier of India's soft power through Yoga.
+## Rain lashes Mumbai after delayed monsoon amid water crisis, offers respite from heat
+Mumbai Rain: The India Meteorological Department (IMD) said conditions are favourable for the southwest monsoon to advance further across parts of Maharashtra.
 
-## Bangladesh on high alert ahead of Sheikh Hasina party Awami League's founding anniversary: ‘May try to create unrest’
-Bangladesh home minister Salahuddin Ahmed said intelligence agencies had flagged the possibility of disturbances around the anniversary.
+## ED summons Pinarayi Vijayan's daughter again in CMRL money laundering case
+The ED has summoned Veena T for questioning on June 29 regarding a money laundering case involving CMRL and her IT firm.
 
-## 2 women abducted, gang-raped at gunpoint by 13 men in Bihar; SIT probe launched
-The victims, originally from Jharkhand’s Latehar district, are cousins and were residing in a rented house in Patna’s Mithapur area.
+## Goa 'illegal' iron ore mining case: ED attaches assets worth over ₹1,000 crore
+The Enforcement Directorate has attached assets exceeding ₹1,023 crore in a Goa illegal mining case involving Salgaocar Groups.
 
-## Security, cyber surveillance stepped up ahead of NEET UG retest today
-More than 2.27 million aspirants are expected to appear for the examination on Sunday.
+## Book Box: The Fathers We Forgive
+A Father’s Day column that examines why we forgive fathers in literature, and blame mothers: A look at Mr. Bennet, Atticus Finch, and Ann Patchett’s Whistler.
 
-## 'Split due to lack of leadership': BJP on recent defections in Trinamool, Shiv Sena UBT
-While the opposition has blamed the BJP, accusing it of instigating and abetting the rebellion, BJP has blamed “the leadership” of the regional satraps.
+## India will be ‘nirnayak’ in maritime sector, says PM Modi as 45 large naval platforms are under construction
+The PM said that 45 large naval platforms are under construction, adding that it is not just a number, but a testament to India's industrial capacity.
 
-## ‘Deliberate political attack’: India junks Pakistani President's charge of demolition of historic sites
-Zardari had said in a post that India should immediately stop such actions and protect minority rights and the shared cultural heritage of the two countries.
+## What led to Great Indian Bustard conservation programme? Congress leader shares throwback
+Congress leader Jairam Ramesh also said that the Great Indian Bustard was also proposed as the national bird by the famed ornithologist Salim Ali in 1961.
 
-## Delhi HC orders Centre to take down ‘false’ posts on CJI, ministers playing badminton at UK event
-The court was hearing a plea which sought removal of content alleging that a delegation of senior judges and ministers attended a badminton event in the UK.
+## Bengal finally on path envisioned in 1947: PM Modi
+Prime Minister Narendra Modi on Saturday was addressing an event in Hooghly district to mark “Paschimbanga Divas” (West Bengal Day)
 
-## Curacao’s Eloy Room, goalkeeper without a club, just broke a World Cup record
-
-
-## Samay Raina lauds Alia Bhatt, Sharvari for being ‘chill, fun’ on India’s Got Latent S2
+## ‘Seriously 4 times’: Ratan Tata on falling in love multiple times and why it didn’t succeed; psychologist weighs in
 
 
-## Corridors of Power: A mole in AAP house, BJP’s lassi sarcasm, Johl’s recipe for Mann and Congress’ never ending meetings
+## TV presenter quits after false Messi father death claim: ‘I trusted it’
 
 
-## A two-month course, a Rs 25,000 job offer, and a new future
+## Ferry service suspended, oil terminal ablaze: Ukraine drone attack kills 5 in Russia
 
 
-## WATCH: PM Modi leads mass yoga event, guides participants through asanas in Kolkata
+## Pune tanker crash leaves woman dead; driver arrested
 
 
-## Why is fighting in Lebanon threatening the US-Iran deal?
+## El Niño: Maharashtra farmers urged to finish water conservation works fast
 
 
-## Cocktail 2 Box Office Collection Day 2 Update: Shahid, Kriti, Rashmika’s film earns over Rs 50 cr worldwide
+## Alerts, bans and ancient shelters: How Europe is fighting severe heatwave
 
 
-## 15 saves in 90 minutes! Curacao goalkeeper Eloy Room sets World Cup record in second game
+## 14 sentenced to life term in 2008 Fatehpur double murder case
 
+
+## ‘India no longer just a defence buyer’: PM Modi at Navy warship induction
+
+
+## Energy security fears drive global surge in orders for Chinese storage firms
+The lingering energy shock is driving overseas orders for China’s energy storage companies, with more than 25 gigawatt-hours (GWh) of capacity to be built in the US and European countries. The global demand for energy storage facilities has been driven by disruptions to oil and gas supply chains ste
 
 ## Thai property crackdown: Foreign buyers hit pause on villas as nominee loophole closes
 Thailand’s crackdown on a loophole that effectively bypasses its restrictions on land ownership by foreigners is causing prospective buyers to delay purchase decisions on luxury villas in resort destinations such as Phuket and Koh Samui, according to agents. Bangkok has stepped up its scrutiny of bu
@@ -161,9 +158,6 @@ Hong Kong actor and singer Eason Chan bought a HK$182.53 million (US$23.29 milli
 
 ## Chinese EV brands signal Southeast Asia expansion at Hong Kong auto expo
 China’s electric vehicle makers are using Hong Kong’s annual auto expo this week to signal their ambitions in the Southeast Asian market, with some brands rolling out right-hand drive models for the region’s roads. “Our first priority will be Indonesia,” Amy Gong, president of Seres Group subsidiary
-
-## China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals
-Chinese artificial intelligence developers are accelerating their push into massive foundation models with more than a trillion parameters, just as Washington moves to block foreign access to leading US software through unprecedented export controls. Parameters serve as a primary measure of an AI’s 
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -261,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US and Iran face make-or-break talks in Switzerland
+Iranian and US officials are set for high stakes talks in Switzerland to reinforce the Memorandum of Understanding.
+
+## Vance arrives in Switzerland for US-Iran talks
+Both nations seek a durable end to their war as Iran slams Israeli attacks on Lebanon as violations of interim deal.
+
+## Iran war day 114: US, Iranian delegations in Switzerland for key talks
+Lebanon to top the agenda as US and Iran to hold talks in Switzerland’s Burgenstock mediated by Qatar and Pakistan.
+
+## Ueda’s brace helps Japan knock Tunisia out of World Cup 2026
+Two goals from Ayase Ueda, and one each from Daichi Kamada and Junya Ito, keep Asian giants Japan second in Group F.
+
+## Trump official says Iran World Cup visa approval ‘amazing’
+The chief of the White House World Cup task force says it’s “pretty amazing” Iran’s football team has been given visas.
+
 ## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
 The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
 
-## Egypt coach denies Salah rift before World Cup match against New Zealand
-'If he starts ... or if he gets substituted, it's fine - it is his role as a player,' Egypt ‌coach Hossam Hassan says.
+## South Africa’s immigration crackdown divides Johannesburg’s inner city
+A government push to curb undocumented employment is exposing the dependence of many small businesses on migrant labour.
 
-## Room the hero as tiny Curacao earn first World Cup point against Ecuador
-Eloy Room's incredible goalkeeping helped Curacao make history in a goalless draw in a Group E match in Kansas City.
-
-## Suspect arrested after anti-Muslim stabbing rampage in Scotland
-Bystanders captured the moment police arrested a machete-weilding man, suspected of anti-Muslim stabbing rampage.
-
-## Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon
-Talks come as Iran says it is closing the Strait of Hormuz over Israel's deadly attacks on Lebanon.
-
-## US refuses to ease Iran World Cup travel restrictions for Belgium match
-Andrew Giuliani says Iran's players will not be allowed to stay longer for their group matches in the US.
-
-## Iranian delegation arrives in Switzerland for US peace talks
-Iranian delegation arrives in Switzerland for US peace talks
-
-## Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group
-Germany come from behind to beat Ivory Coast 2-1 in Group E, sealing FIFA World Cup 2026 knockout place.
+## Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike
+Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
