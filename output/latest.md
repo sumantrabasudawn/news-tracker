@@ -1,7 +1,19 @@
 # AION Intelligence
 
 ## US and Iran hold crunch talks in Switzerland
-Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon
+Negotiations to permanently end the war focus on Israeli-Hizbollah conflict in Lebanon
+
+## Building materials group CRH nears its biggest-ever deal to buy Arcosa
+Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn
+
+## UK statistics agency admits fresh error over key jobs data
+ONS warns of ‘level of reduced quality’, in setback to efforts to restore confidence in closely watched figures
+
+## Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn
+Traders see more volatility ahead as new central bank chair declines to give dot plot on future path of interest rates
+
+## A nation still divided 10 years on from the Brexit vote
+UK braced for leadership challenge, the US updates its growth estimate, and chip designer Cerebras reports earnings
 
 ## Starmer retreats to Chequers to mull podium moment
 Prime minister goes ‘dark’ on colleagues as he spends weekend discussing his political future with wife, Victoria
@@ -12,17 +24,8 @@ Competing narratives of abandonment — from Iran to Greenland — could lead to
 ## Starmer on brink of quitting as UK prime minister
 US President Donald Trump says Starmer will resign after failing ‘badly’
 
-## Ed Miliband would be ‘noose around neck’ of job creation as chancellor, union boss warns
-Comments by Sharon Graham come as Burnham team explores key government appointments
-
-## We need to talk about Brexit
-Britain must rebuild EU ties, but trying to rejoin would for now be a diversion
-
-## Why Giorgia Meloni turned on Donald Trump
-Italian premier’s fallout with US president comes as she gears up for re-election battle
-
-## King Charles to be first monarch to disclose personal tax bill
-Buckingham Palace says move next week is part of an effort to ‘encourage understanding of accountability’
+## Wars trigger $12bn venture capital rush into defence tech
+Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle
 
 ## Michael O’Leary in line for €150mn payout in latest Ryanair contract
 Longtime boss of Europe’s biggest airline signs new deal that includes bumper share award if he hits ambitious targets
@@ -44,9 +47,6 @@ Big Tech wakes up to the need for brawn and crafts skills to build and maintain 
 
 ## Holiday bookings surge in markets hit by Iran crisis
 Rebound across eastern Mediterranean as travellers reassess conflict’s threat and proximity
-
-## ‘You’re dead’ — Europe’s SpaceX fights back against Musk prophecy
-Ariane 6 rocket programme gets help from Jeff Bezos as it seeks to emerge from US rival’s shadow
 
 ## L&T sets up subsidiary for AI compute infrastructure
 A stock exchange notification on Sunday announced the formation of a step-down subsidiary, LTN Compute Private Limited, with an authorised share capital of ₹1 lakh
@@ -96,6 +96,9 @@ India and the European Union are poised to sign their landmark free trade agreem
 ## Top-10 firms gain Rs 2.15 lakh crore in a week; Airtel emerges biggest winner
 Indian equity markets witnessed a significant surge last week, adding Rs 2.15 lakh crore to the valuation of nine out of the top 10 most valuable companies. Bharti Airtel emerged as the top gainer, followed by LIC and Bajaj Finance. This rally was fueled by improved global risk appetite and easing g
 
+## ‘Inconvenience’, ‘half-truths’: Tejasvi Surya vs Priyank Kharge over Congress rally ‘disrupting’ NEET exam in Bengaluru
+The event which Tejasvi Surya was referring to was Congress's mega convention at Palace Grounds in Bengaluru.
+
 ## Reble’s Dhurandhar break takes Meghalaya to audiences beyond Northeast
 Reble represents a new generation of artists from Meghalaya who are leveraging digital platforms and original content to reach audiences far beyond the Northeast
 
@@ -117,31 +120,28 @@ KMC, run by a state-appointed administrator following the resignation of mayor F
 ## Ahmedabad police nab Rauf Valiullah murder convict on the run for 7yrs in Udaipur
 The accused identified as Mohammad Taslim alias Mohammad Umer Sheikh was sentenced to life imprisonment
 
-## Sena UBT MP Omprakash Raje Nimbalkar switches to Shinde's camp; Uddhav Thackeray's ‘traitor’ remark
-Omraje Nimbalkar's crossover comes shortly after Hingoli MP Nagesh Patil Ashtikar confirmed his move to the ruling Shiv Sena faction.
+## People of Punjab won’t tolerate disrespect of their Gurus, will punish…”: BJP chief Nitin Nabin slams CM Bhagwant Mann
+
+
+## ‘Here’s what I’d pack’: Doctor lists emergency items important to keep in your car
+
+
+## Spain bounce back; ride Lamine Yamal magic to thrash Saudi Arabia
+
+
+## ‘I used to be ashamed of my eyes’: Aditi Govitrikar on eve-teasing and its psychological impact
+
+
+## ‘Two important people, an Indian and a Pakistani’: JD Vance’s ‘favourite’ person remark at US-Iran talks
+
+
+## Marizanne Kapp takes South Africa to famous win as India’s semifinal hopes hit
+
 
 ## Neeraj Chopra-fan Pritam Kendre becomes junior air rifle world champion
 
 
 ## Multigrain flour vs wheat flour for weight loss: Which is better?
-
-
-## Ram Temple donation row: SIT wraps up initial probe; Kejriwal asks why no FIR filed
-
-
-## Despite Harmanpreet’s absence, India beat Olympic champions Netherlands 3-2
-
-
-## Standoff at Uttarakhand gurdwara after Nihang group storms in, occupies rooftop
-
-
-## NEET brings applause, hope to Latur, the city scarred by leak controversy
-
-
-## Sooryavanshi proves he can cut out the noise and deliver on the big stage
-
-
-## Politics to policy shifts, how Mumbai’s 640 MLD water security plans dried up
 
 
 ## Energy security fears drive global surge in orders for Chinese storage firms
@@ -264,6 +264,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Europe heatwave scorches cities and wildlife
+Europe heatwave scorches cities and wildlife
+
+## Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia
+Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.
+
 ## What’s next in the Strait of Hormuz crisis?
 Iranian armed forces say they've closed the vital waterway after Israeli attacks on Lebanon.
 
@@ -281,12 +287,6 @@ A powerful El Nino is expected to peak in November that could threaten food supp
 
 ## India’s ‘Cockroach’ movement camps out until education minister resigns
 The viral 'Cockroach' movement's supporters occupy New Delhi's protest site, refusing to leave until minister resigns.
-
-## Syria frees activist Hassan Akkad days after he was detained
-His release comes after journalist Mousa al-Omar reportedly withdrew a complaint against Akkad over online criticism.
-
-## Mbappe, France play Iraq in World Cup match: prediction, team news, lineups
-Star forward Kylian Mbappe and France face Iraq with Les Bleus focused on securing a place in knockout phase.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
