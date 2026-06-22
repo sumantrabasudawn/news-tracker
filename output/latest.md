@@ -1,70 +1,85 @@
 # AION Intelligence
 
-## US and Iran conduct tense peace talks in Switzerland
-Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon
+## Bank of England dilutes stablecoin rules with plan for £40bn issuer limit
+Proposed regulations would no longer restrict holdings by individuals and companies
+
+## EasyJet rejects £4.7bn takeover bid from Castlelake
+US private credit group goes public with latest 625p-a-share offer after airline’s board refuses to engage
+
+## Burnham cemented himself as Labour’s winner
+A coronation for the PM hopeful looks likely — unless Keir Starmer decides to fight back
+
+## Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss
+China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+
+## China restricts trading with some US rare earth companies
+Beijing introduces more export controls in retaliation for Washington’s ‘wrongful’ actions
+
+## Keir Starmer steps down as UK prime minister
+Labour leader bows to mounting pressure to resign after less than two years in office
 
 ## Rightwing populist ‘El Tigre’ wins Colombia election
 Trump-loving political outsider Abelardo de la Espriella narrowly beats leftist continuity candidate
 
-## FirstFT: US and Iran hold high-stakes talks in Switzerland
-Also in today’s newsletter: Philippines warns over Chinese military activity around Scarborough Shoal, and Keir Starmer’s premiership in doubt
+## Keep calm and carry on with EU enlargement, says Ireland’s PM
+Also in this newsletter: Meloni considers her options after Trump spat
 
-## India plays ‘whack-a-mole’ with online financial influencers
-Regulator targets scammers who give stock tips under guise of financial education as ranks of retail investors grow
+## Do US insurers arbitrage capital regulations with private ratings?
+Probably!
 
-## Philippines fears China may move to seize full control of disputed atoll
-Defence secretary warns of heightened Chinese military activity around Scarborough Shoal
+## FirstFT: Starmer’s exit plans expected
+Also in today’s newsletter: Middle East conflict and Bain’s vibecoding
 
-## Building materials group CRH nears its biggest-ever deal to buy Arcosa
-Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn
+## Italy open to Germany joining fighter jet project, says Leonardo chief
+Lorenzo Mariani says Berlin role in GCAP would slow progress but bring benefits after collapse of rival FCAS programme
 
-## UK statistics agency admits fresh error over key jobs data
-ONS warns of ‘level of reduced quality’, in setback to efforts to restore confidence in closely watched figures
+## UK’s out-of-town retail parks ‘effectively full’
+Industry says shortage of space reflects rising demand from some retailers and a dearth of new sites
 
-## Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn
-Traders see more volatility ahead as new central bank chair declines to give dot plot on future path of interest rates
+## Iran war supercharges electric vehicle uptake in Africa
+Boom in demand for electric motorbikes and buses on continent is a boost for China
 
-## FT Financial Literacy and Inclusion Campaign
-The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
+## Ambuja Cements, UK-based Leilac plan low-carbon cement projects in Gujarat
+The technology is designed to cut emissions, lower fuel consumption and increase the use of renewable electricity in cement manufacturing, with the potential to reduce coal consumption to zero, while enabling the flexible use of alternative fuels
 
-## Wars trigger $12bn venture capital rush into defence tech
-Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle
+## West Bengal Budget Live: FM Swapan Dasgupta allocates ₹36,000 cr for Annapurna scheme; ₹14,000 cr for GRAMG scheme; 20% DA increase
+After BJP’s decisive win in the 2026 assembly elections in the state and Suvendu Adhikari swearing-in as CM in early May, West Bengal will see Finance Minister Swapan Dasgupta table the document for 2026-27
 
-## Michael O’Leary in line for €150mn payout in latest Ryanair contract
-Longtime boss of Europe’s biggest airline signs new deal that includes bumper share award if he hits ambitious targets
+## Railways’ plan for fly ash transport network could prove a major freight opportunity
+The green initiative involving specialised containers and dedicated rail corridors aims to ensure the efficient transport of fly ash from the generation to the consumption centres
 
-## Electricity ‘reselling’ adds £99mn to consumer bills
-Regulator blames market design as hydropower stations and batteries repeatedly sell and curtail their output
+## Annapurna Yojana gets ₹36,000 crore in Bengal budget; beneficiary count falls to 1 crore
+Finance Minister Swapan Dasgupta announced the allocation while presenting the 2026-27 budget in the Assembly, describing the scheme as a major component of the government's welfare agenda
 
-## Michael Bloomberg arms green lobby for fight against oil interests
-Billionaire pledges $285mn to renewable industry associations as nations face energy policy decisions in wake of Iran war
+## CKGSB Hosts 10th Economic Symposium in Beijing, Spotlighting China-ASEAN and China-Europe Economic Ties
+CKGSB Hosts 10th Economic Symposium in Beijing, Spotlighting China-ASEAN and China-Europe Economic Ties
 
-## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
-Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
+## NOVVA Group acquires Colombian solar portfolio from ABO Energy, strengthening Latin American platform
+NOVVA Group acquires Colombian solar portfolio from ABO Energy, strengthening Latin American platform
 
-## US-Iran talks end, technical talks to continue after Trump shakes talks with threats
-The comments from afar – on social media and to news outlets – complicated efforts by Vice President J D Vance and mediators Pakistan and Qatar to keep Iran engaged in discussions
+## Sensex today | Stock Market Live Updates: Sensex up 350 pts, Nifty holds above 24,100; Reliance, Cipla lead gains
+Sensex, Nifty, Share Prices Live Updates: At 1:30 pm, Sensex was up 358.11 pts or 0.47% to 77,161.01, while Nifty was up 108.40 pts (0.45%) at 24,121.50
 
-## These 20 stocks will remain in focus on Monday, June 22
-Sun Pharma, Aurobindo Pharma, Tata Motors, Aavas Financiers, Patanjali, Power Mech, Texamaco, Deep Industries, Refex Industries, Cranes, Divgi, Shree Refrigeratiions, Kirloskar Oil, Century Enka, Knowledge Marine, Himadri Speciality, GRSE, RVNL will be in focus today
+## No near-term recovery in sight for IT sector as Accenture cuts growth guidance: Kotak
+Accenture reported revenue of $18.7 billion for the quarter, up 5.6% year-on-year in dollar terms and 3% in local currency, with growth landing at the midpoint of its guidance range
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Godfrey Phillips India (₹2,281.25)
-Sensex, Nifty, Share Prices Live Updates: The stock of Godfrey Phillips India has been on a rise since April after it formed a base at ₹1,850. Traders can buy now at ₹2,281 and accumulate at ₹2,200
+## ITR filing: Switched jobs? How to file tax return and mistakes to avoid
+One of the most common mistakes employees make is failing to disclose details of salary income earned from their previous employer and the tax already deducted thereon to their new employer.
 
-## Mumbai hotels shut jacuzzis, regulate laundry operations to conserve water
-The Brihanmumbai Municipal Corporation has halted water supply to construction sites and swimming pools
+## Oil prices today: Crude falls after US-Iran talks in Switzerland conclude; Brent below $80
+Following the conclusion of the US-Iran discussions in Switzerland, global oil prices have seen a decrease as Iran has successfully secured waivers for its oil exports. This alleviates concerns regarding possible supply disruptions, leading to a drop in Brent crude futures as well as WTI. The antici
 
-## We are bullish on AI-first fintechs: Cedar Hill Capital’s Sahil Anand
-VC firm Cedar Hill focuses on enterprise fintechs married to AI in the BFSI industry
+## Stock Market Live Updates Today: BSE Sensex opens over 300 points up, crosses 77,000; Nifty50 above 24,100 as US-Iran peace talks progress, oil prices slip marginally
 
-## Optimistic about Bengal Budget, industries expect it to lay out clear roadmap for accelerating economic growth
-Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal’s first Budget under the new government will demonstrate its commitment of accelerating development
 
-## SBI-Telangana face-off Over 5-acre land in Hyd raises stakes for both sides
-SBI on Friday secured a stay from the Telangana High Court on the auction of the land by the Telangana Industrial Infrastructure Corporation (TGIIC), which had earlier allotted the property to the bank.
+## Top stocks to buy: Stock recommendations for June 22, 2026 week - check list
+Stock market recommendations: Motilal Oswal Wealth Management Research Desk has picked State Bank of India (SBI), and Bharat Electronics as the top stocks to buy for the week starting June 22, 2026. Target prices and upside targets have been given:
 
-## Why jewellery, fashion and beauty brands are opting for rapid commerce
-Rapid commerce — speed meets wider choice in new delivery model
+## Gold, Silver Rate Today Live Updates: International gold, silver prices rebound on US-Iran peace talks
+
+
+## Nykaa, Bajaj Finance & more: Top stocks to watch on June 22
+Top financial analysts are optimistic about the prospects of various Indian firms. Bajaj Finance showcases remarkable resilience against economic challenges with its solid asset quality and positive margin outlook. Varun Beverages plans to diversify its product lineup via a strategic partnership. Ny
 
 ## Goods exports up 15% in 2-and-half months of 2026-27
 
@@ -72,95 +87,80 @@ Rapid commerce — speed meets wider choice in new delivery model
 ## Why IT firms are moving beyond token maxxing
 
 
-## Govt starts wor k on steps to increase domestic resilience
+## Ecostani: The time has come to overhaul the anti-defection law
+The law enacted during Prime Minister Rajiv Gandhi’s tenure aimed at preventing individual or small defections
+
+## NEET UG re-exam was ‘error-free and flawless’, says NTA chief Abhishek Singh
+NTA DG Abhishek Singh said Telegram restrictions before the NEET-UG re-exam were needed to curb fake leak rumours, reduce student stress and stop fraudsters
+
+## Teen kills brother, sister-in-law, three-year-old nephew in UP's Gorakhpur
+Teen kills brother, sister-in-law and three-year-old nephew in UP's Gorakhpur
+
+## ‘I stand with you’: Rahul Gandhi's wishes to CM Vijay add to birthday bonhomie amid Tamil Nadu alliance upheaval
+Stalin had wished Rahul last week, getting reply that fed speculation about whether INDIA bloc can weather the flux after Cong dropped DMK to go with Vijay
+
+## ‘Not given chance to speak’: AIADMK MLAs stage walkout from Tamil Nadu Assembly
+AIADMK general secretary Edappadi K Palaniswami said the opposition was denied an opportunity to speak despite repeated requests to highlight public issues.
+
+## Two killed, 16 injured in bus-lorry collision in Andhra's Kadapa district
+Andhra Pradesh Transport Minister M Ramprasad Reddy expressed shock over the accident and conveyed his condolences to the families of the deceased.
+
+## Video shows Tornado-like storm in Tamil Nadu's Thoothukudi; MeT office says ‘adverse weather’
+However, the MeT department explained the rare weather occurrence saying it was not a tornado.
+
+## Maharashtra council polls: Cross-voting charges mar ruling alliance’s clean sweep
+BJP rebel Gokul Geete, who contested as an Independent, defeated the Mahayuti’s candidate, Shiv Sena leader Narendra Darade
+
+## J D Vance’s ‘very important Pakistani’ reveals an old American habit
 
 
-## After initial rush, semaglutide therapy market saddled with Rs 100cr excess stock
+## Amol Parashar on quitting job after IIT Delhi: ‘My parents didn’t tell anyone for months’
 
 
-## India's digital sector faces competition, policy and tech challenges despite strong growth outlook
-India's digital connectivity sector is poised for growth but faces intense competition from new players and global tech giants. Companies must innovate and invest heavily in technology to stay ahead. While satellite connectivity may serve niche markets, terrestrial solutions like FWA are expected to
-
-## Brexit at 10: Why Britain is still divided over leaving European Union
-Ten years on, the Brexit debate rages, with economic promises unmet and businesses facing EU trade hurdles. While EU migration dipped, non-EU arrivals rose, though public ire now targets Channel crossings. Politically, the landscape shifted dramatically. Despite growing sentiment for rejoining the E
-
-## India-US trade deal enters final lap as ministerial talks to begin this week
-India and the US are poised for crucial trade talks this week, aiming to finalize the first phase of their bilateral trade agreement. Discussions will focus on the interim pact's framework, especially as a temporary US tariff expires next month. India seeks to regain a competitive edge over rival ex
-
-## Gold, silver rates outlook: Bullion investors to track US-Iran talks, crude oil trends and key global data next week
-Gold and silver prices are poised for volatility this week, heavily influenced by US-Iran negotiations in Switzerland and crude oil market shifts. Analysts are closely monitoring these talks, which could impact global risk sentiment and energy prices. Domestic markets will observe Muharram closures.
-
-## ‘We’re suffering from…': Two UBT MPs deliver blow to Uddhav Thackeray, switch to Shinde's Shiv Sena
-A Sena leader said the formal announcement of the MPs joining the Shiv Sena would be made in a day or two after completing the required formalities.
-
-## Licences, laws, loopholes and lost lives expose glaring violations in Delhi's spaces
-In this 4-part series, HT looks at how decades of planning failures, illegal construction and weak enforcement combine to create Delhi vulnerable to tragedies.
-
-## 'Truth must come out at temple': Karnataka BJP plans meeting over MLC election cross-voting
-The party has constituted a fact finding panel comprising CT Ravi, Mahesh Tenginakai and N Mahesh to examine the charges.
-
-## Ram temple funds row: SIT likely to submit probe report to CM Adityanath today
-The names of 150 suspects emerged during the six-day investigation and action is likely against 25 of them, people familiar with the matter said.
-
-## Malayalam film actors body AMMA governing council resigns after infighting
-The AMMA governing council, including first woman president Shweta Menon, resigned amid infighting and financial mismanagement allegations.
-
-## Two dead in ammonia leak at shrimp factory in Tamil Nadu's Tiruvallur, owners arrested
-Chief minister C Joseph ordered the formation of a three-member committee to investigate the incident.
-
-## Woman clearing tree branches falls to death
-A woman died after falling from her terrace while trying to remove tree branches. Her family claims civic authorities ignored their complaints.
-
-## Beheaded body found in Raichur, probe on
-Police in Raichur found a headless body of 35-year-old Tirupati in a locked house after complaints of a foul smell; a murder investigation is ongoing.
-
-## Kolkata’s Suhrawardy Avenue renamed. But has BJP govt confused Hassan with Huseyn Suhrawardy?
+## Eye treatment blinds man in one eye, 15-year legal battle ends in Rs 5 lakh payout
 
 
-## Alireza Beiranvand’s story: Belgium’s tormentor once slept on streets, washed cars
+## ‘Learnt so much from contemporaries like Deepika’: Kangana Ranaut on admiring peers; how it helps
 
 
-## As regional parties splinter, BJP seeks to isolate Congress, reshape Opposition
+## King Charles to be first monarch to disclose personal tax bill
 
 
-## Russian Ambassador Denis Alipov: ‘We will never allow China to affect our ties with India, which remains a high priority in our foreign policy’
+## Mehrauli building collapse: Delhi Police seeks help from IIT-D to determine cause
 
 
-## Why Jio IPO may command higher valuations than Bharti Airtel despite lagging in key financial metrics
+## AI-generated questions sold as ‘NEET paper’ on Instagram, Indore law student arrested
 
 
-## 40 years ago June 22, 1986: Vajpayee among 9 elected
+## Pankaj Tripathi’s brother hospitalised after brutal attack over land dispute, 1 arrested
 
 
-## A 10 per cent rule for sustainable development
+## Why a Chinese renewables giant is pondering a majority localisation in Europe
+Chinese renewable energy giant Envision is planning further localisation efforts in Europe, with the ambition to eventually source more than half its supply chain locally for the European market. “We are working within the European system, with the Europeans, manufacturing in Europe, for Europe, wit
 
+## China to back ‘qualified’ foreign firms for listing on domestic markets
+China will support qualified foreign-invested companies to list on its onshore stock markets, as part of a sweeping move by Beijing to further open up its mainland capital market and lure foreign direct investment back to the world’s second-largest economy. The mainland’s stock exchanges will optimi
 
-## Electoral wrongs can be corrected before it’s too late
+## Hongkongers aim for self-sufficiency in old age, but survey finds ‘clear readiness gap’
+While nine out of 10 Hongkongers aim to remain as self-sufficient as possible in their old age, they also expect 14 years of care dependency and 17 years of financial dependence, among the highest totals in Asia, according to survey results released on Monday. Based on the responses of 1,000 Hongkon
 
+## Hong Kong home sales cool off over Dragon Boat holiday ahead of new projects
+Hong Kong’s property market slowed over the Dragon Boat Festival holiday weekend as outbound travel and unstable weather dampened viewing activity, while developers held back major launches ahead of a fresh pipeline of projects expected to hit the market in the coming weeks. Developers rolled out 10
+
+## Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar
+The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American rivals. Shares of Zhipu, which trades under the name Knowledge Atlas Technology, 
 
 ## South Korean investors leverage Hong Kong to cash in on the AI and chips boom
 FOMO (the fear of missing out) is causing some South Korean retail investors to turn to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI. Analysts attributed the diversion to Hong Kong from the world’s 14th largest economy to leveraged products
 
+## Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push
+Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics. The Shenzhen-listed electronic components maker i
+
 ## Hong Kong’s commercial property slump enters new phase as lenders take tougher stance
 The recent decision by mainland developer Yuzhou Group to sell office space in Central at a substantial loss to repay debt underscores a new reality in Hong Kong’s commercial property market: banks are increasingly focused on controlling losses rather than delaying them. Yuzhou said this month it wo
 
-## Buyers hunt bargains amid signs that China’s home prices are bottoming out
-Expectations have heightened in major Chinese cities like Shanghai that home prices are bottoming out following a six-year property slump, as would-be buyers actively hunt bargains amid the recent policy easing. Brisk transactions are also shoring up brokers’ confidence in the market where the price
-
-## Energy security fears drive global surge in orders for Chinese storage firms
-The lingering energy shock is driving overseas orders for China’s energy storage companies, with more than 25 gigawatt-hours (GWh) of capacity to be built in the US and European countries. The global demand for energy storage facilities has been driven by disruptions to oil and gas supply chains ste
-
-## Thai property crackdown: Foreign buyers hit pause on villas as nominee loophole closes
-Thailand’s crackdown on a loophole that effectively bypasses its restrictions on land ownership by foreigners is causing prospective buyers to delay purchase decisions on luxury villas in resort destinations such as Phuket and Koh Samui, according to agents. Bangkok has stepped up its scrutiny of bu
-
-## Cross-border biotech deals grow more complex as US targets China investment links
-Cross-border biotech deals between China and the United States are becoming more complicated and could face a modest slowdown as Washington steps up efforts to restrict investment and technology transfers, according to industry analysts. “There will be more geopolitical scrutiny going forward. This 
-
-## From Alo to Texas Chicken, foreign brands bet on China despite stiff rivalry
-Premium and niche foreign brands are entering or returning to China as they seek to unlock growth in the country’s vast consumer market just as many international companies are either pulling out or closing shop amid fierce competition in a fast-changing environment. Foreign companies including Amer
-
-## Energy storage: China’s battery power sets stage for global leadership
-On a sunny morning in late May, a massive laboratory designed to create extreme conditions – from melting heat to bone-cracking cold, howling sandstorms, corrosive ocean spray and even fire – officially opened in the coastal city of Xiamen, in eastern China’s Fujian province. Equivalent in size to 1
+## The Obama Center Sets a Dangerous Precedent
+Some of the basic functions of presidential libraries are fading.
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -183,8 +183,8 @@ The MOU is the “worst foreign policy blunder in decades,” Republican Sen. Bi
 ## Ordinary Iranians Won’t See a Dime of Trump’s Money
 As the public suffers, a corrupt regime prepares for a bonanza.
 
-## The Era of the French Intellectual Is Over
-The recently deceased Edgar Morin was the last reminder of a bygone phenomenon.
+## Targeting ‘Budget Efficiency,’ Indonesia Announces Changes to Free Meal Program
+The scheme, which aims to provide free meals to 83 million children and pregnant women across the country, has faced scrutiny due to its high cost.
 
 ## The ‘Tibet Aid’ Cadres System as a Mechanism for Political Control in Tibet
 The system, supposedly meant to aid Tibet, actually serves to sideline local Tibetan personnel while boosting the careers of Han Chinese cadres from other regions.
@@ -207,8 +207,8 @@ Pakistan’s aspirations in Africa are growing, but its ability to realize them 
 ## When the Davidson Window Meets the ‘Xi Window’
 The Davidson Window measures China’s military capability to invade Taiwan. Arguably more important is Xi Jinping’s confidence in his military.
 
-## South Korea’s Nuclear Ambitions Clash With Political Realities
-South Korea’s ruling party failed to secure key races, underlining the need to steer the country’s nuclear future with more than just political momentum.
+## Too Big To Break Again: India, Italy, and the Defense Partnership That Almost Wasn’t
+A single bribe nearly ruined a defense partnership most people didn’t know even existed. It took India and Italy almost a decade to recover.The story of how that rupture happened — and what it exposed about Italy’s quiet but deep role in India’s military — is essential to understanding why both coun
 
 ## Why India Will Stick with America
 The Trump administration has not been kind to India. Nevertheless, India has responded with far greater equanimity than most observers expected. Predictions that President Donald Trump’s behavior will hurt U.S.-Indian relations have not come to pass, with the leaders of the two countries remaining i
@@ -230,9 +230,6 @@ In early March, French President Emmanuel Macron stood at a windswept submarine 
 
 ## Three Short Tales on War Brad Carson Wants You to Read
 Editor’s Note: This is a new occasional series brought to you by War on the Rocks. If you would like to pitch your own version, please refer to the contact information and guidance on our submissions page.Every war, it seems, produces its famous novel, a book that captures not merely the tactics and
-
-## The Fall of Fortress Singapore: Three Lessons from the Collapse of Britain’s Great Asian Bastion
-Editor’s note: This is part of a running series of essays by Iskander Rehman, entitled “Applied History,” which seeks, through the study of the history of strategy and military operations, to better illuminate contemporary defense challenges.The fall of Singapore on February 15 stupefied the Prime M
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +255,47 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks
-Negotiators from the US and Iran wrapped a day of talks in Switzerland.
+## What are the key outcomes of the Iran-US talks in Switzerland, what next?
+Experts warn unresolved questions over Lebanon could complicate efforts to secure a lasting agreement.
 
-## No pressure to pass the ball to Ronaldo in World Cup: Portugal’s Conceicao
-Ronaldo has faced criticism after his performance in Portugal’s first match of the FIFA World Cup.
+## Prime Minister Keir Starmer expected to announce exit plan: UK media
+Keir Starmer is under intense pressure from his own Labour Party to announce plans to step down as prime minister.
 
-## Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda
-Health officials defend the restrictions, but traders say the measures have disrupted the flow of goods and income.
+## US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks
+Technical talks to continue in the resort of Burgenstock after progress on issues of Strait of Hormuz and Lebanon.
 
-## Cape Verde fight back for second World Cup draw 2-2 against Uruguay
-Uruguay could need a win over Spain next weekend to avoid a second consecutive FIFA World Cup group-stage exit.
+## LIVE: UK PM Keir Starmer expected to announce his resignation
+The leader of governing Labour Party has faced growing pressure to step down after months of declining popularity.
 
-## Egyptian football fans chant for Palestine in Vancouver
-Egyptian fans gathered outside BC Place in Vancouver ahead of their World Cup match against New Zealand.
+## Far-right lawyer De La Espriella wins Colombia’s tight presidential race
+Far right lawyer Abelardo De La Espriella, who won backing of Donald Trump, seals narrow victory in run-off election.
 
-## Iranians gather in Tehran to support team in critical draw against Belgium
-Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.
+## 60-day US-Iran talks will be ‘really hard’
+60-day US-Iran talks will be ‘really hard’
 
-## Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks
-US, Iran establish committee to oversee talks and a 'de-confliction cell' to end attacks in Lebanon, mediators say.
+## Iran war day 115: Lebanon truce appears to hold as Switzerland talks end
+Mediators Qatar and Pakistan hail 'encouraging progress' on the first day of Iran-US talks.
 
-## Football fans in Gaza gather to watch Spain-Saudi Arabia match
-Palestinians in Gaza gathered to watch Spain's World Cup victory over Saudi Arabia.
+## ‘Encouraging progress’ made as first round US-Iran talks end
+The first round of US-Iran talks has ended with both sides agreeing on a roadmap towards a final deal.
+
+## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
+Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
+
+## Big Four firms' India operations shine amid global slump
+India's Big Four accounting firms have achieved remarkable growth, outperforming global peers in fiscal year 2026. PwC and Deloitte reported significant revenue increases, while KPMG and EY also saw substantial gains. Technology consulting is a major driver, contributing significantly to revenue acr
+
+## Parliament panel to review India's economy amid global turmoil and growth concerns
+A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
+
+## India on track for $1 trillion exports in FY27
+He expressed strong confidence, citing progress and the impact of free trade agreements and improved business ease. Discussions with the US on a trade pact are finalised, awaiting India's tariff advantage over rivals for implementation.
+
+## Dealmaking stays strong as startup M&A momentum carries into 2026
+Indian startups are experiencing a surge in M&A exits, particularly in consumer, fintech, and ecommerce sectors, signalling a robust recovery in dealmaking. Major acquisitions by L'Oréal and Marico have been the latest in this trend, with strategic buyers increasingly seeking to integrate new capabi
+
+## PE firms, mid-market companies drive India’s new GCC wave
+India's Global Capability Centre (GCC) landscape is shifting, with private equity-backed and mid-market firms now driving significant expansion. These companies are leveraging GCCs beyond cost savings to build advanced capabilities in AI and engineering, creating substantial value for their portfoli
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
@@ -288,23 +303,8 @@ At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shopper
 ## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
 At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
-## AI must be measured by enterprise value, not just immediate ROI, says NIIF Infra CFO Sudeep Bhatia
-At the ETCFO NextGen Summit 2026, finance leaders from IIFL Finance and NIIF Infrastructure Finance said CFOs are increasingly shaping AI investments as the technology moves from experimentation to business-critical decision support.
-
-## CFOs should build new variables into risk frameworks, shift to capability-led model: Kotak Bank Group CFO
-Speaking at the 3rd edition of the ETCFO NextGen Summit 2026, Kotak Mahindra Bank Group CFO Devang Gheewala said India’s resilience amid global uncertainty must now be backed by stronger manufacturing, digital infrastructure, entrepreneurship and prudent capital allocation.
-
-## CFOs should take into account macro impact on costs and profitability: Yes Bank CFO Niranjan Banodkar
-At the 3rd edition of the ETCFO NextGen Summit 2026, finance leaders from Yes Bank, HDB Financial Services, CSB Bank and TVS Sundaram said CFOs must diversify funding channels, stay cautious on growth, and convert geopolitical disruption into strategic opportunity.
-
-## Aye Finance bets on secured lending push and branch deepening to double AUM by FY29, CFO says
-Aye Finance is set for significant expansion. The company targets 25 to 30 percent annual growth, aiming to double its assets under management to Rs 15,000 crore by FY29. This growth will be fueled by increasing secured lending and opening new branches. Aye Finance is also leveraging AI across its o
-
-## Foreign investors may bet big on Indian stocks after regulatory clarity emerges
-India has opened its stock markets to direct investment by foreign individuals, aiming to broaden capital sources beyond FPIs. While a long-term positive, initial inflows are expected to be slow due to operational, tax, and compliance hurdles for offshore investors navigating new procedures.
-
-## India Inc. is profitable. So why isn’t it investing?
-Indian companies are making record profits, but they are not investing in new factories or infrastructure. This is creating fewer jobs and increasing inequality. Unlike China, which invests heavily, Indian businesses are hesitant. This trend risks trapping India in scarcity. Leaders must decide on a
+## Banks seek RBI clarity on leveraged NRI FCNR deposit structures
+Indian banks are seeking clarity from the RBI on allowing overseas branches to lend to non-residents for FCNR(B) deposits. Some lenders, like SBI, have already launched structured products enabling this, with deposits as collateral. Bankers hope for explicit regulatory comfort to boost NRI deposits 
 
 ## PLI, duty incentives soon for Lithium, Nickel processing units in India
 India is poised to approve incentives, including production-linked benefits and import duty waivers on capital goods, to establish domestic lithium and nickel processing units. This strategic move aims to reduce reliance on overseas processors and bolster the nation's critical minerals ecosystem. Th
@@ -323,10 +323,4 @@ India and the UK's Comprehensive Economic and Trade Agreement (CETA) will take e
 
 ## RBI infuses Rs 72,300 cr transient liquidity into banking system via VRR auctions as surplus narrows
 The Reserve Bank of India injected Rs 72,300 crore into the banking system. This was done through two Variable Rate Repo auctions. The move followed a drop in surplus liquidity due to advance tax payments. Experts expect more such actions to manage liquidity. Overnight rates had risen above the RBI'
-
-## RBI's anti-mis-selling norms may redraw bancassurance business models, hit cross-sell revenues
-The final guidelines, which will come into force from January 1, 2027, ban incentive arrangements that encourage aggressive sales practices and require banks to take responsibility for all financial products sold through their branches, digital channels, agents and outsourced partners.
-
-## Rupee touches six-week high on oil slump, RBI effect lingers
-The Indian rupee has reached a six-week peak. This strength comes as Brent crude oil prices fall below $80 a barrel. Recent actions by the Reserve Bank of India are also supporting the currency. Investors are showing renewed interest in Indian bonds. The rupee is expected to continue its upward tren
 
