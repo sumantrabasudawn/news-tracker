@@ -1,139 +1,142 @@
 # AION Intelligence
 
-## Bank of England dilutes stablecoin rules with plan for £40bn issuer limit
+## Building materials group CRH agrees record $8.5bn deal for Arcosa
+Irish company to purchase Dallas-based construction company
+
+## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug
+Drugmaker’s largest deal in more than half a decade comes amid surge of M&A in sector
+
+## Andrew Cuomo to lead new venture between NYSE parent and crypto exchange OKX
+Former New York governor’s role highlights how politicians are rushing into digital assets sector
+
+## Why Bangladesh is backing Argentina in the World Cup
+Their national team has never qualified, so Bangladeshi fans are cheering for Messi
+
+## So long Starmer, markets found you dull
+A market obituary in three charts
+
+## Northern Irish politician Jeffrey Donaldson guilty of rape
+Former leader of the Democratic Unionist Party played a key role in parliamentary debates over Brexit
+
+## America’s allies look to declare independence from the US
+Traditional partners are rethinking their economic ties
+
+## Josh Hawley and the future of pro-worker conservatism
+Where does the Missouri senator fit in a party that has long promoted the interests of the wealthy?
+
+## ‘Salt is the new oil’
+Better batteries, or Na?
+
+## Over 400 ships are waiting near Hormuz for the strait to reopen fully
+Many tanker operators reluctant to move vessels until Iran and the US strengthen ceasefire deal
+
+## AI law firm wins UK court case for first time
+Freelancer paid about £400 for technology to draft documents for £7,000 claim
+
+## Germany reaches deal to buy 40% of Europe’s biggest tank maker
+After months of wrangling over KNDS stake, Berlin’s agreement paves the way for an IPO
+
+## BoE dilutes stablecoin rules with plan for £40bn issuer limit
 Proposed regulations would no longer restrict holdings by individuals and companies
 
-## EasyJet rejects £4.7bn takeover bid from Castlelake
-US private credit group goes public with latest 625p-a-share offer after airline’s board refuses to engage
+## Governance concerns need not involve fraud to erase market value: InGovern on Kaynes
+Repeated guidance cuts, disclosure lapses and weak cash conversion undermined investor confidence despite 33 per cent revenue growth and an ₹8,000 crore order book
 
-## Burnham cemented himself as Labour’s winner
-A coronation for the PM hopeful looks likely — unless Keir Starmer decides to fight back
+## Tendercuts launches new store in Chennai
+Spread across 2,100 sq. ft., the new store has been designed to accommodate a wider assortment of meat and seafood products and includes facilities for customised cutting and processing.
 
-## Robots will replace 700,000 delivery workers ‘sooner or later’, warns JD.com boss
-China’s rapid adoption of technology threatens millions of gig-economy jobs, policymakers fear
+## Core sector’s growth dipped to 7 months low of 0.5% in May
+The Eeight Ccore Iindustries comprise 40.27 per cent of the weight of items included in the Index of Industrial Production
 
-## China restricts trading with some US rare earth companies
-Beijing introduces more export controls in retaliation for Washington’s ‘wrongful’ actions
+## As SoH blockade continues, India again pivots towards the US for LPG & LNG in June
+LPG and LNG imports from the US to India during May 2026 were at record levels, Kpler data shows
 
-## Keir Starmer steps down as UK prime minister
-Labour leader bows to mounting pressure to resign after less than two years in office
+## Indian IT sees increase in average learning hours per employee in FY26
+Indian IT companies are ramping up employee training in response to the growing integration of artificial intelligence, with major firms reporting significant increases in average learning hours for fiscal year 2026.
 
-## Rightwing populist ‘El Tigre’ wins Colombia election
-Trump-loving political outsider Abelardo de la Espriella narrowly beats leftist continuity candidate
+## CBI arrests ex-RCFL and RHFL CEOs in ₹7,623 crore bank fraud case
+The agency said the accused sanctioned loans to intermediary and conduit firms in violation of RBI and lending norms, resulting in massive losses to public sector banks
 
-## Keep calm and carry on with EU enlargement, says Ireland’s PM
-Also in this newsletter: Meloni considers her options after Trump spat
+## Elevated resin prices to boost PVC pipe makers’ profitability this fiscal: Crisil Ratings
+The ratings agency expects organised PVC pipe and fitting makers to record 10-15% revenue growth, driven by higher crude oil prices and increased selling prices
 
-## Do US insurers arbitrage capital regulations with private ratings?
-Probably!
+## India’s Desh Vibhor in Persian Gulf resumes voyage to Hormuz after U-turn
+The Shipping Corporation of India’s tanker Desh Vibhor has resumed its journey through the Strait of Hormuz, marking a pivotal moment for global oil trade stability
 
-## FirstFT: Starmer’s exit plans expected
-Also in today’s newsletter: Middle East conflict and Bain’s vibecoding
+## Non-transparency, post-claim investigation of proposals main triggers of dis-satisfaction in health inusrance
+Customer trust in health insurers is waning, with a significant rise in unexplained claim rejections and a continued reliance on reimbursement routes. Policyholders are increasingly frustrated by insurers revisiting underwriting at claim time, leading to dissatisfaction. A substantial gap exists bet
 
-## Italy open to Germany joining fighter jet project, says Leonardo chief
-Lorenzo Mariani says Berlin role in GCAP would slow progress but bring benefits after collapse of rival FCAS programme
+## US eases sanctions on Iranian oil exports as talks move towards final peace agreement
+In a significant development, the US has greenlit the production, delivery, and sale of Iranian oil for a 60-day period. This move, tied to ongoing peace talks, allows for crucial transit in the Strait of Hormuz and IAEA inspections. The temporary waiver, effective until August 21, also permits impo
 
-## UK’s out-of-town retail parks ‘effectively full’
-Industry says shortage of space reflects rising demand from some retailers and a dearth of new sites
+## RBI sold nearly $9 billion in forex spot market in April amid rupee pressure
+The Reserve Bank of India actively intervened in the forex market, selling $8.944 billion in April to bolster the rupee. This follows similar actions in March, as the currency faced pressure from global tensions and investor outflows. However, the rupee showed signs of recovery in June, aided by pol
 
-## Iran war supercharges electric vehicle uptake in Africa
-Boom in demand for electric motorbikes and buses on continent is a boost for China
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key levels. This rebound was fueled by a dip in crude oil prices, substantial foreign fund inflows, and positive developments in US-Iran diplomatic talks. Heavyweights like Reliance and HDFC Bank led the recovery, boosting o
 
-## Ambuja Cements, UK-based Leilac plan low-carbon cement projects in Gujarat
-The technology is designed to cut emissions, lower fuel consumption and increase the use of renewable electricity in cement manufacturing, with the potential to reduce coal consumption to zero, while enabling the flexible use of alternative fuels
+## Core sector growth slows to 0.5% in May as coal, refinery output contract
+India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
 
-## West Bengal Budget Live: FM Swapan Dasgupta allocates ₹36,000 cr for Annapurna scheme; ₹14,000 cr for GRAMG scheme; 20% DA increase
-After BJP’s decisive win in the 2026 assembly elections in the state and Suvendu Adhikari swearing-in as CM in early May, West Bengal will see Finance Minister Swapan Dasgupta table the document for 2026-27
+## How crude price crash could turn the tide for India's state-owned oil giants
+State-run oil companies are poised for improved profits as falling crude prices boost fuel marketing margins. While recent excise duty cuts have aided this recovery, rising debt and potential future tax hikes pose risks to long-term earnings. Analysts anticipate stronger performance from the second 
 
-## Railways’ plan for fly ash transport network could prove a major freight opportunity
-The green initiative involving specialised containers and dedicated rail corridors aims to ensure the efficient transport of fly ash from the generation to the consumption centres
-
-## Annapurna Yojana gets ₹36,000 crore in Bengal budget; beneficiary count falls to 1 crore
-Finance Minister Swapan Dasgupta announced the allocation while presenting the 2026-27 budget in the Assembly, describing the scheme as a major component of the government's welfare agenda
-
-## CKGSB Hosts 10th Economic Symposium in Beijing, Spotlighting China-ASEAN and China-Europe Economic Ties
-CKGSB Hosts 10th Economic Symposium in Beijing, Spotlighting China-ASEAN and China-Europe Economic Ties
-
-## NOVVA Group acquires Colombian solar portfolio from ABO Energy, strengthening Latin American platform
-NOVVA Group acquires Colombian solar portfolio from ABO Energy, strengthening Latin American platform
-
-## Sensex today | Stock Market Live Updates: Sensex up 350 pts, Nifty holds above 24,100; Reliance, Cipla lead gains
-Sensex, Nifty, Share Prices Live Updates: At 1:30 pm, Sensex was up 358.11 pts or 0.47% to 77,161.01, while Nifty was up 108.40 pts (0.45%) at 24,121.50
-
-## No near-term recovery in sight for IT sector as Accenture cuts growth guidance: Kotak
-Accenture reported revenue of $18.7 billion for the quarter, up 5.6% year-on-year in dollar terms and 3% in local currency, with growth landing at the midpoint of its guidance range
-
-## ITR filing: Switched jobs? How to file tax return and mistakes to avoid
-One of the most common mistakes employees make is failing to disclose details of salary income earned from their previous employer and the tax already deducted thereon to their new employer.
-
-## Oil prices today: Crude falls after US-Iran talks in Switzerland conclude; Brent below $80
-Following the conclusion of the US-Iran discussions in Switzerland, global oil prices have seen a decrease as Iran has successfully secured waivers for its oil exports. This alleviates concerns regarding possible supply disruptions, leading to a drop in Brent crude futures as well as WTI. The antici
-
-## Stock Market Live Updates Today: BSE Sensex opens over 300 points up, crosses 77,000; Nifty50 above 24,100 as US-Iran peace talks progress, oil prices slip marginally
+## India slaps anti-dumping duty on rubber chemical imports from China, EU and US
 
 
-## Top stocks to buy: Stock recommendations for June 22, 2026 week - check list
-Stock market recommendations: Motilal Oswal Wealth Management Research Desk has picked State Bank of India (SBI), and Bharat Electronics as the top stocks to buy for the week starting June 22, 2026. Target prices and upside targets have been given:
+## Piyush Goyal says ‘trying to work out’ US trade deal to give India advantage
+India is also seeking guarantees that the US will not impose fresh tariffs after the agreement is signed. Both countries are looking to finalise a pact seen as important for improving bilateral relations that have recently come under strain.
 
-## Gold, Silver Rate Today Live Updates: International gold, silver prices rebound on US-Iran peace talks
+## WhatsApp gets Indian boss: Meta picks Cred founder Kunal Shah, pumps $900 million into his company too
+Kunal Shah replaces Will Cathcart, who has been running the popular messaging service for roughly seven years
 
+## New evaluation policy for pvt Class 12 students in Gulf countries: CBSE tells SC
+The CBSE on March 27 notified a policy for the regular candidates of Class 12 across the seven countries of Gulf region
 
-## Nykaa, Bajaj Finance & more: Top stocks to watch on June 22
-Top financial analysts are optimistic about the prospects of various Indian firms. Bajaj Finance showcases remarkable resilience against economic challenges with its solid asset quality and positive margin outlook. Varun Beverages plans to diversify its product lineup via a strategic partnership. Ny
+## Crisis in AMMA: Actors Mallika Sukumaran among 17 members to resign after Shwetha Menon's exit
+The crisis unfolded during the association's annual general body meeting, where members questioned the adoption of the annual report and statement of accounts.
 
-## Goods exports up 15% in 2-and-half months of 2026-27
+## US notifies $428 million sale of support services for Apache helicopters, M777A2 howitzers to India
+According to the notification, India has requested long-term sustainment support for its M777A2 Ultra-Light Howitzers.
 
+## Lucknow fire news live updates: Death toll at 15 as CM Yogi Adityanath announces ex-gratia of ₹5 lakh
+Lucknow fire news live updates: At least 15 people died in a fire tragedy in Lucknow's Aliganj area on Monday. PM Narendra Modi expressed grief over the loss of lives, announced ₹2 lakh ex gratia for the families of the deceased and ₹50,000 for the injured.
 
-## Why IT firms are moving beyond token maxxing
+## NSA Ajit Doval meets top Iranian security official, reviews West Asia situation
+Iran is also expected to send petroleum minister Mohsin Paknejad and one of its deputy energy ministers to the Brics energy ministers’ meeting on June 25-26
 
+## 5 held in Odisha for assaulting a Kerala labourer over kidnapping rumours: Cop
+The incident follows the arrest of at least 24 people on Saturday for the alleged assault of two NGO workers in Rayagada district
 
-## Ecostani: The time has come to overhaul the anti-defection law
-The law enacted during Prime Minister Rajiv Gandhi’s tenure aimed at preventing individual or small defections
+## 15 dead, PM announces ex-gratia of ₹2 lakh, Yogi cut shorts Aligarh visit: Top points in Lucknow fire
+A total of 22 people were brought to King George's Medical University (KGMU) following the fire incident.
 
-## NEET UG re-exam was ‘error-free and flawless’, says NTA chief Abhishek Singh
-NTA DG Abhishek Singh said Telegram restrictions before the NEET-UG re-exam were needed to curb fake leak rumours, reduce student stress and stop fraudsters
-
-## Teen kills brother, sister-in-law, three-year-old nephew in UP's Gorakhpur
-Teen kills brother, sister-in-law and three-year-old nephew in UP's Gorakhpur
-
-## ‘I stand with you’: Rahul Gandhi's wishes to CM Vijay add to birthday bonhomie amid Tamil Nadu alliance upheaval
-Stalin had wished Rahul last week, getting reply that fed speculation about whether INDIA bloc can weather the flux after Cong dropped DMK to go with Vijay
-
-## ‘Not given chance to speak’: AIADMK MLAs stage walkout from Tamil Nadu Assembly
-AIADMK general secretary Edappadi K Palaniswami said the opposition was denied an opportunity to speak despite repeated requests to highlight public issues.
-
-## Two killed, 16 injured in bus-lorry collision in Andhra's Kadapa district
-Andhra Pradesh Transport Minister M Ramprasad Reddy expressed shock over the accident and conveyed his condolences to the families of the deceased.
-
-## Video shows Tornado-like storm in Tamil Nadu's Thoothukudi; MeT office says ‘adverse weather’
-However, the MeT department explained the rare weather occurrence saying it was not a tornado.
-
-## Maharashtra council polls: Cross-voting charges mar ruling alliance’s clean sweep
-BJP rebel Gokul Geete, who contested as an Independent, defeated the Mahayuti’s candidate, Shiv Sena leader Narendra Darade
-
-## J D Vance’s ‘very important Pakistani’ reveals an old American habit
+## Rs 19,000 birthday gift delivery goes wrong, Amazon ordered to pay man Rs 34,000
 
 
-## Amol Parashar on quitting job after IIT Delhi: ‘My parents didn’t tell anyone for months’
+## Covid-19, H1N1, RSV: Doctors on weather changes and rising respiratory illnesses in Mumbai
 
 
-## Eye treatment blinds man in one eye, 15-year legal battle ends in Rs 5 lakh payout
+## Why Shimla’s roads are under restrictions and why residents are protesting
 
 
-## ‘Learnt so much from contemporaries like Deepika’: Kangana Ranaut on admiring peers; how it helps
+## ‘Attention please’: Over 140 trains to skip Vadodara Junction till July 1
 
 
-## King Charles to be first monarch to disclose personal tax bill
+## The politics of BJP’s first Bengal Budget: Welfare continuity, emphasis on infra, jobs
 
 
-## Mehrauli building collapse: Delhi Police seeks help from IIT-D to determine cause
+## How India’s roads evolved into the world’s second-largest network
 
 
-## AI-generated questions sold as ‘NEET paper’ on Instagram, Indore law student arrested
+## Mamata Banerjee dumped as Trinamool chief by Ritabrata Banerjee-led rebels
 
 
-## Pankaj Tripathi’s brother hospitalised after brutal attack over land dispute, 1 arrested
+## In her first India trip as Japan PM, Sanae Takaichi likely to visit Guwahati on July 1-3
 
+
+## The panda bonds: how China uses assets to boost yuan’s profile, cement partnerships
+Brazil is set to become the latest major economy to issue panda bonds – yuan-denominated debt sold in the Chinese market – joining a growing group of countries that has embraced assets backed by China’s currency as a means of fundraising. According to analysts, the participation of Brazil – a foundi
 
 ## Why a Chinese renewables giant is pondering a majority localisation in Europe
 Chinese renewable energy giant Envision is planning further localisation efforts in Europe, with the ambition to eventually source more than half its supply chain locally for the European market. “We are working within the European system, with the Europeans, manufacturing in Europe, for Europe, wit
@@ -150,14 +153,17 @@ Hong Kong’s property market slowed over the Dragon Boat Festival holiday weeke
 ## Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar
 The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American rivals. Shares of Zhipu, which trades under the name Knowledge Atlas Technology, 
 
-## South Korean investors leverage Hong Kong to cash in on the AI and chips boom
-FOMO (the fear of missing out) is causing some South Korean retail investors to turn to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI. Analysts attributed the diversion to Hong Kong from the world’s 14th largest economy to leveraged products
+## South Korean investors leverage Hong Kong to cash in on AI and chips boom
+Analysts have credited FOMO (the fear of missing out) for the turn among some South Korean retail investors to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI. Observers said the diversion to Hong Kong could be attributed to leveraged products
 
 ## Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push
 Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics. The Shenzhen-listed electronic components maker i
 
-## Hong Kong’s commercial property slump enters new phase as lenders take tougher stance
-The recent decision by mainland developer Yuzhou Group to sell office space in Central at a substantial loss to repay debt underscores a new reality in Hong Kong’s commercial property market: banks are increasingly focused on controlling losses rather than delaying them. Yuzhou said this month it wo
+## Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
+A market maestro to some, he was criticized by others—including himself—for having too much faith in self-regulating markets.
+
+## Don’t Let China Stack the Deck
+To combat Beijing, Washington needs a program to spread its AI worldwide.
 
 ## The Obama Center Sets a Dangerous Precedent
 Some of the basic functions of presidential libraries are fading.
@@ -176,12 +182,6 @@ Panicking strongmen will turn to more extreme measures.
 
 ## The Vance Peace Deal
 The U.S. vice president has become the face of an unpopular deal.
-
-## Israeli Officials and U.S. Lawmakers Slam Iran Deal
-The MOU is the “worst foreign policy blunder in decades,” Republican Sen. Bill Cassidy wrote.
-
-## Ordinary Iranians Won’t See a Dime of Trump’s Money
-As the public suffers, a corrupt regime prepares for a bonanza.
 
 ## Targeting ‘Budget Efficiency,’ Indonesia Announces Changes to Free Meal Program
 The scheme, which aims to provide free meals to 83 million children and pregnant women across the country, has faced scrutiny due to its high cost.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What are the key outcomes of the Iran-US talks in Switzerland, what next?
-Experts warn unresolved questions over Lebanon could complicate efforts to secure a lasting agreement.
+## Why has Keir Starmer resigned as UK prime minister, and who will take over?
+The United Kingdom will have its seventh prime minister in a decade.
 
-## Prime Minister Keir Starmer expected to announce exit plan: UK media
-Keir Starmer is under intense pressure from his own Labour Party to announce plans to step down as prime minister.
+## Qatar PM denies snubbing US vice president in viral video
+Qatar's Prime Minister told Al Jazeera that reports of him snubbing the US vice president were unfounded.
 
-## US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks
-Technical talks to continue in the resort of Burgenstock after progress on issues of Strait of Hormuz and Lebanon.
+## Argentina vs Austria LIVE: World Cup 2026
+Follow updates as Messi's Argentina play Austria in Group J, including the build-up, analysis and live text commentary.
 
-## LIVE: UK PM Keir Starmer expected to announce his resignation
-The leader of governing Labour Party has faced growing pressure to step down after months of declining popularity.
+## China adds 10 US firms, including rare-earth miner, to export control list
+Export ban follows move by Pentagon to blacklist major Chinese companies such as Alibaba and Baidu.
 
-## Far-right lawyer De La Espriella wins Colombia’s tight presidential race
-Far right lawyer Abelardo De La Espriella, who won backing of Donald Trump, seals narrow victory in run-off election.
+## Pakistan issues nationwide alert over fears of heavy rains, floods
+Warning comes as country braces for likely fourth consecutive year of punishing monsoon, expected to arrive this month.
 
-## 60-day US-Iran talks will be ‘really hard’
-60-day US-Iran talks will be ‘really hard’
+## Far-right de la Espriella elected Colombia president: What’s next?
+Election results show Trump-endorsed millionaire Abelardo de la Espriella wins by razor-thin margin.
 
-## Iran war day 115: Lebanon truce appears to hold as Switzerland talks end
-Mediators Qatar and Pakistan hail 'encouraging progress' on the first day of Iran-US talks.
+## JD Vance touts progress on key issues in US-Iran negotiations
+JD Vance touts progress on key issues in US-Iran negotiations.
 
-## ‘Encouraging progress’ made as first round US-Iran talks end
-The first round of US-Iran talks has ended with both sides agreeing on a roadmap towards a final deal.
+## US strike on an alleged drug boat in eastern Pacific kills two
+SOUTHCOM said it notified the US Coast Guard about the 'six male survivors' without providing details of their rescue.
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
@@ -303,6 +303,9 @@ At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shopper
 ## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
 At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
+## 'Gulf uncertainty prompted RBI wait and watch policy'
+The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
+
 ## Banks seek RBI clarity on leveraged NRI FCNR deposit structures
 Indian banks are seeking clarity from the RBI on allowing overseas branches to lend to non-residents for FCNR(B) deposits. Some lenders, like SBI, have already launched structured products enabling this, with deposits as collateral. Bankers hope for explicit regulatory comfort to boost NRI deposits 
 
@@ -320,7 +323,4 @@ The Reserve Bank of India (RBI) on Wednesday temporarily eased interest rate cur
 
 ## India-UK free trade deal to take effect on July 15, opening 99% of exports to tariff-free access
 India and the UK's Comprehensive Economic and Trade Agreement (CETA) will take effect on July 15, granting 99% of Indian exports tariff-free access. The pact, announced by Prime Ministers Modi and Starmer, also includes a social security agreement for temporary workers.
-
-## RBI infuses Rs 72,300 cr transient liquidity into banking system via VRR auctions as surplus narrows
-The Reserve Bank of India injected Rs 72,300 crore into the banking system. This was done through two Variable Rate Repo auctions. The move followed a drop in surplus liquidity due to advance tax payments. Experts expect more such actions to manage liquidity. Overnight rates had risen above the RBI'
 
