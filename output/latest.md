@@ -3,10 +3,19 @@
 ## Burnham poised to succeed Starmer as UK prime minister
 Outgoing Greater Manchester mayor gears up for talks with civil service as he prepares to enter Number 10 within weeks
 
+## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug
+Drugmaker’s largest deal in more than half a decade comes amid surge of M&A in sector
+
+## Building materials group CRH agrees historic $8.5bn deal for Arcosa
+Irish company to purchase Dallas-based construction group
+
+## Starmer resignation as it happened: Burnham poised to become UK prime minister
+Outgoing Greater Manchester mayor could enter Downing Street within weeks
+
 ## CRH digs deep for a bigger share of the US construction boom
 Irish building materials group’s deal for Arcosa is worth doing
 
-## Labour MPs celebrate as Andy Burnham returns to Westminster
+## Labour MPs celebrate as Burnham returns to Westminster
 Greater Manchester mayor finds a clear path to replace Keir Starmer in Downing Street
 
 ## Streeting seen as frontrunner to become UK’s next chancellor
@@ -15,38 +24,20 @@ Ex-health secretary favourite after ruling out leadership run but Labour’s cen
 ## Met Office issues rare red weather warning as heatwave hits UK
 Temperatures expected to break June records, prompting concerns about public health
 
+## EasyJet should hold out for a tad more from Castlelake
+UK budget airline has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level
+
 ## Indian entrepreneur to lead WhatsApp as Zuckerberg brings in new blood
 Fintech founder Kunal Shah to replace Will Cathcart who steps down after seven years leading the Meta-owned messaging app
 
-## The revolving door of Downing Street
-To survive longer than Keir Starmer, Andy Burnham will need vision and a plan
+## EasyJet and its investors hold out for £600mn more from Castlelake
+Shareholders call for private credit group’s £4.7bn approach to be increased to at least £7-a-share
 
 ## Chevron moves into power production with Microsoft AI deal
 Company signs 20-year agreement to develop data centre in heart of US oil country that could include gas-fired plant
 
 ## AI-powered threats may succeed ‘within months’, Five Eyes warns
 Western governments and corporates cautioned that their lead in AI might not last long
-
-## Building materials group CRH agrees historic $8.5bn deal for Arcosa
-Irish company to purchase Dallas-based construction group
-
-## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug
-Drugmaker’s largest deal in more than half a decade comes amid surge of M&A in sector
-
-## Andrew Cuomo to lead new venture between NYSE parent and crypto exchange OKX
-Former New York governor’s role highlights how politicians are rushing into digital assets sector
-
-## ‘Salt is the new oil’
-Better batteries, or Na?
-
-## Over 400 ships are waiting near Hormuz for the strait to reopen fully
-Many tanker operators reluctant to move vessels until Iran and the US strengthen ceasefire deal
-
-## AI law firm wins UK court case for first time
-Freelancer paid about £400 for technology to draft documents for £7,000 claim
-
-## Germany reaches deal to buy 40% of Europe’s biggest tank maker
-After months of wrangling over KNDS stake, Berlin’s agreement paves the way for an IPO
 
 ## India’s wheat procurement by govt tops 35.5 million tonne target
 Purchases in Rajasthan at record high, UP buys double from a year ago
@@ -96,6 +87,12 @@ Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key 
 ## Core sector growth slows to 0.5% in May as coal, refinery output contract
 India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
 
+## Lucknow fire building had demolition notice over illegal construction in 2016, revoked within two months
+A demolition order against the unauthorised construction was issued on May 10, 2016 which was revoked two months later on July 5, 2016.
+
+## Fire in AC duct likely cause of Lucknow blaze that killed 15, says report
+Most of the victims were trapped on the second floor, where students were attending classes at the centre.
+
 ## Missing money, SIT probe, Oppn's ‘Ghazni’ attack and Yogi's ‘15 days’ claim: Ayodhya's Ram Temple donation row explained
 Allegations that crores of rupees in donations at the Ram Temple in Ayodhya were misappropriated have led to a political and legal controversy.
 
@@ -114,34 +111,28 @@ The massive fire that broke out on Monday afternoon in the posh Aliganj locality
 ## People cling to ropes as fire rips through Lucknow building, killing 15: Video
 Authorities have confirmed that at least 15 people were killed in the incident, while several others were injured.
 
-## Nitish Kumar was nominated to standing committee on railways; he opts out
-The standing committee on railways, which comprises members from the Lok Sabha and the Rajya Sabha, falls under the administrative purview of the Lok Sabha.
+## Legislative Council Polls | Arrogance of power of BJP-Mahayuti evident: Congress
 
-## 'Mamata welcome as chief advisor': Rebel TMC faction elects Arup Roy chairperson, names new office-bearers
-Former minister Aroop Biswas and MLAs Firhad Hakim, Rathin Ghosh and Sabina Yasmin have been appointed vice-chairpersons of the faction.
+
+## 160 farmers give consent for land acquisition in Third Mumbai, but opposition brews
+
+
+## Panchkula MC-IDFC First Bank scam | Haryana IAS officer sent to judicial custody after CBI says ‘not cooperating’ with probe
+
+
+## ‘Nahi pategi’: Suhasini Mulay on fear of her marriage not working at 60; expert weighs in
+
+
+## Messi missed the penalty. Then scored twice. Argentina are through
+
+
+## US temporarily lifts Iran oil sanctions: What does it mean for India
+
+
+## Record-breaking Lionel Messi’s longevity is truly remarkable
+
 
 ## ‘James Bond was filmed here’: Traveller gives tour of ‘nicest hotel’ she has stayed at in Udaipur
-
-
-## France vs Iraq, FIFA World Cup 2026 Live Score: Mbappe looks to break Messi’s record in focus as FRA face IRQ
-
-
-## Messi becomes FIFA World Cup’s all-time highest goal-scorer, goes past Klose
-
-
-## Documentary on Kirti Chakra awardee military hero Major Tathawade to be screened across India
-
-
-## Paresh Rawal calls Akshay Kumar ‘extremely honest’, says is a ‘family man’; expert weighs in
-
-
-## Youngster selling guns through Instagram calls arrested, 5 pistols seized
-
-
-## Messi misses penalty, spurns chance to become WC’s all-time leading scorer
-
-
-## Top goal scorers at FIFA World Cup 2026: Messi leads in golden boot’s race; Check full list
 
 
 ## European Central Bank’s President Lagarde urges talks on yuan undervaluation
@@ -168,6 +159,21 @@ Hong Kong’s property market slowed over the Dragon Boat Festival holiday weeke
 ## Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar
 The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American rivals. Shares of Zhipu, which trades under the name Knowledge Atlas Technology, 
 
+## China Flexes Its Rare-Earth Muscle—Again
+New export restrictions underscore Beijing’s supply chain grip in ongoing tensions with Washington.
+
+## Why Is Alibaba on a Pentagon Blacklist?
+Washington doesn’t know how to untangle China’s military-civil fusion.
+
+## The Strange Logic of World Cup Ticket Prices
+Aging stars and local fans dominate as Europeans stay home.
+
+## How the Iran Deal Sets the Stage for More Conflict
+As his Gaza agreement has shown, Trump is better at fanfare than follow-up.
+
+## The White House’s New Pro-Ukraine Tone Shift
+Ukrainian gains on the battlefield may be propelling a mood change among top U.S. officials.
+
 ## Trump Tests the Limits of Farcepolitik
 Will America join the long line of countries confronting defeat with self-delusion?
 
@@ -176,21 +182,6 @@ A market maestro to some, he was criticized by others—including himself—for 
 
 ## Don’t Let China Stack the Deck
 To combat Beijing, Washington needs a program to spread its AI worldwide.
-
-## The Obama Center Sets a Dangerous Precedent
-Some of the basic functions of presidential libraries are fading.
-
-## A Tale of Two AI Policy Regimes
-Brazil wants regulation. Argentina rejects it.
-
-## Syria’s War Crimes Dilemma
-The government can execute war criminals or get full international support—but not both.
-
-## Foreign Pressure, American Freedom
-How other countries and their citizens helped the United States live up to its ideals.
-
-## Orban’s Defeat Is Being Dangerously Misread
-Panicking strongmen will turn to more extreme measures.
 
 ## The AI Dimension of India’s Act East Policy
 For India’s AI vision to succeed, it will need to partner with East Asian countries. That makes AI diplomacy central to the AEP.
@@ -216,6 +207,9 @@ The system, supposedly meant to aid Tibet, actually serves to sideline local Tib
 ## Why Bangladesh Is Fencing Its Border With Myanmar
 A non-state actor – the Arakan Army – now controls Myanmar’s side of the border. That forces Bangladesh to rely more on unilateral forms of border management.
 
+## Is There a Place in Ukrainian Media for War Skeptics?
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
+
 ## Too Big To Break Again: India, Italy, and the Defense Partnership That Almost Wasn’t
 A single bribe nearly ruined a defense partnership most people didn’t know even existed. It took India and Italy almost a decade to recover.The story of how that rupture happened — and what it exposed about Italy’s quiet but deep role in India’s military — is essential to understanding why both coun
 
@@ -236,9 +230,6 @@ War is a brutal driver of medical innovation. Russia’s full-scale invasion of 
 
 ## Macron’s Nuclear Gamble: Building a European Deterrent Faster Than French Politics Can Tear Down
 In early March, French President Emmanuel Macron stood at a windswept submarine base on the Breton coast and quietly buried four decades of French nuclear orthodoxy. The arsenal would grow. The numbers would be hidden. And for the first time, nuclear weapons that France built to defend Paris might o
-
-## Three Short Tales on War Brad Carson Wants You to Read
-Editor’s Note: This is a new occasional series brought to you by War on the Rocks. If you would like to pitch your own version, please refer to the contact information and guidance on our submissions page.Every war, it seems, produces its famous novel, a book that captures not merely the tactics and
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -264,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## A leftward lurch? What to know about the Democratic primaries in New York
-Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.
+## US judge blocks Trump administration subpoena against Minnesota officials
+Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.
 
-## Messi breaks World Cup’s all-time scoring record with 17th goal vs Austria
-Lionel Messi is tournament's all-time and current edition's leading goal scorer with 17 and four goals, respectively.
+## ‘Another day, another leader’: Britons react to Keir Starmer’s exit
+Londoners shared mixed reactions to Keir Starmer's resignation.
 
-## Lebanon discusses ‘de-confliction’ mechanism ahead of Israel talks
-Mediators Qatar and Pakistan say plan seeks to ensure the end of military operations in Lebanon.
+## Fire at animation studio in India’s Lucknow kills at least 14
+The blaze broke out in a commercial building with a library and animation studio, killing mostly college students.
 
-## Qatar’s PM tells Al Jazeera progress made in US-Iran talks
-Qatar's PM said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.
+## Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank
+Israel is pushing humanitarian groups and rights defenders to scale down operations in occupied Palestinian territories.
 
-## Kenyan court finds minister in contempt over US Ebola site
-Health Minister Duale disobeyed an order to halt construction at the proposed facility for infected US nationals, court says.
+## Why has Keir Starmer resigned as UK prime minister?
+UK Prime Minister Keir Starmer has announced his resignation after just two years in office.
 
-## Will a US-Iran deal transform the Iranian economy?
-A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran's economic future.
+## 15 killed after a fire ignited in a coaching centre in Lucknow, India
+15 killed after a fire ignited in a coaching centre in Lucknow, India.
 
-## South African police tighten security as anti-migrant deadline approaches
-Xenophobic protest groups have demanded that undocumented foreigners leave the country by June 30 .
+## Artist creates Kerala’s ‘coconut rib’ World Cup trophy
+An artist in Kerala has created a handmade model of the FIFA World Cup trophy, using coconut leaf and cardboard.
 
-## Marco Rubio heads to Middle East to address Iran MoU, Hormuz
-Rubio to visit UAE, Kuwait and Bahrain for talks on Iran and Hormuz priorities from June 23 to June 25.
+## Qatar PM on preventing US-Iran talks from escalation
+Qatar's PM said that safeguards have been put in place to prevent US-Iran negotiations from regional escalation.
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
