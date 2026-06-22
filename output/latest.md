@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## SpaceX sheds $400bn in market value as debut rally hits reverse
+Shares in Elon Musk’s AI and rockets group tumble more than 16% following fresh rise in US bond yields
+
 ## Burnham poised to succeed Starmer as UK prime minister
 Outgoing Greater Manchester mayor gears up for talks with civil service as he prepares to enter Number 10 within weeks
 
@@ -21,9 +24,6 @@ Greater Manchester mayor finds a clear path to replace Keir Starmer in Downing S
 ## Streeting seen as frontrunner to become UK’s next chancellor
 Ex-health secretary favourite after ruling out leadership run but Labour’s centre-left prefers Ed Miliband
 
-## Met Office issues rare red weather warning as heatwave hits UK
-Temperatures expected to break June records, prompting concerns about public health
-
 ## EasyJet should hold out for a tad more from Castlelake
 UK budget airline has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level
 
@@ -35,9 +35,6 @@ Shareholders call for private credit group’s £4.7bn approach to be increased 
 
 ## Chevron moves into power production with Microsoft AI deal
 Company signs 20-year agreement to develop data centre in heart of US oil country that could include gas-fired plant
-
-## AI-powered threats may succeed ‘within months’, Five Eyes warns
-Western governments and corporates cautioned that their lead in AI might not last long
 
 ## India’s wheat procurement by govt tops 35.5 million tonne target
 Purchases in Rajasthan at record high, UP buys double from a year ago
@@ -87,6 +84,15 @@ Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key 
 ## Core sector growth slows to 0.5% in May as coal, refinery output contract
 India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
 
+## Man strangled to death by friend over ₹500 dispute in south Delhi; accused held
+The accused was found sitting beside the victim's body in an inebriated state and was arrested from the spot, they said.
+
+## Uddhav Thackeray cries foul as 'Operation Tiger' succeeds, six Sena (UBT) MPs join Eknath Shinde-led faction
+Addressing a press conference, Eknath Shinde said that he does not leave anything half done and "Operation Tiger is successful".
+
+## Aadhaar App crosses 31 million downloads since launch
+The new Aadhaar App enables people to avail various services including mobile number update, and address updates easily directly from their smart phones.
+
 ## Lucknow fire building had demolition notice over illegal construction in 2016, revoked within two months
 A demolition order against the unauthorised construction was issued on May 10, 2016 which was revoked two months later on July 5, 2016.
 
@@ -101,15 +107,6 @@ Outside the burning building in Aliganj, frantic SOS calls and anguished pleas f
 
 ## After Lucknow fire kills 15, UP CM orders SIT probe, report in 7 days
 The decision was finalised following a high-level review meeting where the Chief Minister expressed serious concern over the tragedy.
-
-## Doval meets China’s Wang Yi, holds ‘constructive and forward-looking discussions’
-NSA Ajit Doval “underlined that stable, predictable and constructive bilateral relations contribute to building trust and better understanding between the two sides”
-
-## Over 30 dogs and cats rescued from pet facility in Lucknow fire
-The massive fire that broke out on Monday afternoon in the posh Aliganj locality left at least 15 people dead and several others injured.
-
-## People cling to ropes as fire rips through Lucknow building, killing 15: Video
-Authorities have confirmed that at least 15 people were killed in the incident, while several others were injured.
 
 ## Legislative Council Polls | Arrogance of power of BJP-Mahayuti evident: Congress
 
@@ -135,6 +132,9 @@ Authorities have confirmed that at least 15 people were killed in the incident, 
 ## ‘James Bond was filmed here’: Traveller gives tour of ‘nicest hotel’ she has stayed at in Udaipur
 
 
+## How are Chinese firms faring as AI and tech reshape global market cap rankings?
+China’s state-owned banks and energy majors – once shoulder to shoulder with American firms at the top of market capitalisation rankings – have fallen behind as AI and technology companies capture the imagination of global investors, redirecting capital and reshaping the global corporate order. As o
+
 ## European Central Bank’s President Lagarde urges talks on yuan undervaluation
 European Central ⁠Bank President Christine Lagarde ⁠on Monday urged global leaders to discuss undervaluation of the Chinese currency as a facet of the imbalances endangering the global economy. China has ‌consistently denied that it manipulates its currency for trade advantage but its surging trade 
 
@@ -156,8 +156,8 @@ While nine out of 10 Hongkongers aim to remain as self-sufficient as possible in
 ## Hong Kong home sales cool off over Dragon Boat holiday ahead of new projects
 Hong Kong’s property market slowed over the Dragon Boat Festival holiday weekend as outbound travel and unstable weather dampened viewing activity, while developers held back major launches ahead of a fresh pipeline of projects expected to hit the market in the coming weeks. Developers rolled out 10
 
-## Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar
-The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American rivals. Shares of Zhipu, which trades under the name Knowledge Atlas Technology, 
+## Starmer Resigns as Burnham Eyes Top Job
+A decade after Brexit, the United Kingdom is still struggling to stabilize.
 
 ## China Flexes Its Rare-Earth Muscle—Again
 New export restrictions underscore Beijing’s supply chain grip in ongoing tensions with Washington.
@@ -180,8 +180,20 @@ Will America join the long line of countries confronting defeat with self-delusi
 ## Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
 A market maestro to some, he was criticized by others—including himself—for having too much faith in self-regulating markets.
 
-## Don’t Let China Stack the Deck
-To combat Beijing, Washington needs a program to spread its AI worldwide.
+## Inside the Taliban’s New Military Formation on the Durand Line
+Amid a simmering conflict with Pakistan, Taliban Supreme Leader Hibatullah Akhundzada approved the creation of a new 4,000-member military formation known as the Hebati Unit.
+
+## Kazakhstan Reverses Course on Direct Elections of District Akims
+If earlier moves toward more direct elections were indictive of Kazakhstan's political maturation, what should we make of the reversal of that effort?
+
+## Tashiev Trial Closed Again
+A week after being opened to public scrutiny, the Tashiev trial has again been closed once more.
+
+## Dushanbe’s Long Arm Reaches Into Europe
+A refugee in Vienna, a manufactured terrorism case, and a precedent Austria should not ignore.
+
+## Central Asia Is Becoming Europe’s Channel to Afghanistan
+Central Asia and the EU can deepen cooperation on food, energy, and logistics to head off a humanitarian crisis in Afghanistan, with Kazakhstan on the front line as the region's grain powerhouse.
 
 ## The AI Dimension of India’s Act East Policy
 For India’s AI vision to succeed, it will need to partner with East Asian countries. That makes AI diplomacy central to the AEP.
@@ -191,21 +203,6 @@ Besides “restoration of various Russian-made military equipment,” the Taliba
 
 ## Why Indian Women Are Being Driven to Suicide
 Harassment for dowry and failure to produce male heirs are forcing women to take their lives.
-
-## Who’s Winning Southeast Asia’s De-risking Race?
-As investment moves away from China, which countries are reaping the rewards?
-
-## Beijing’s Nepal Anxiety
-Chinese analysts say that while the core concerns of a "close neighbor," i.e., China, are sidelined, Kathmandu is making every effort to accommodate the ‘"distant relative," i.e., the U.S.
-
-## Targeting ‘Budget Efficiency,’ Indonesia Announces Changes to Free Meal Program
-The scheme, which aims to provide free meals to 83 million children and pregnant women across the country, has faced scrutiny due to its high cost.
-
-## The ‘Tibet Aid’ Cadres System as a Mechanism for Political Control in Tibet
-The system, supposedly meant to aid Tibet, actually serves to sideline local Tibetan personnel while boosting the careers of Han Chinese cadres from other regions.
-
-## Why Bangladesh Is Fencing Its Border With Myanmar
-A non-state actor – the Arakan Army – now controls Myanmar’s side of the border. That forces Bangladesh to rely more on unilateral forms of border management.
 
 ## Is There a Place in Ukrainian Media for War Skeptics?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Belgium’s Doku welcomes son during World Cup amid commentator controversy
+Doku travelled to the UK as a French presenter who said fathers 'useless' at childbirth was stood down from her show.
+
+## Egypt denied flight to Seattle ahead of final World Cup group match
+Egypt's team will return to their training base in Spokane, about 450km east of Seattle, after rejected flight.
+
+## US House committee reaches bipartisan deal on social media rules for kids
+Committee leaders did not release details but said the legislation would 'hold Big Tech accountable'.
+
+## ‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy
+An activist in Japan was surrounded by police after he approached the Israeli Embassy in Tokyo on Monday and shouted.
+
+## Hungary’s PM launches drive to free country from Orban’s ‘mafia’
+The raft of proposed changes includes a new constitution and anti-corruption office, and the ousting of the president.
+
+## Czech public media staff strike, citing government threat to independence
+Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.
+
 ## US judge blocks Trump administration subpoena against Minnesota officials
 Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.
 
 ## ‘Another day, another leader’: Britons react to Keir Starmer’s exit
 Londoners shared mixed reactions to Keir Starmer's resignation.
-
-## Fire at animation studio in India’s Lucknow kills at least 14
-The blaze broke out in a commercial building with a library and animation studio, killing mostly college students.
-
-## Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank
-Israel is pushing humanitarian groups and rights defenders to scale down operations in occupied Palestinian territories.
-
-## Why has Keir Starmer resigned as UK prime minister?
-UK Prime Minister Keir Starmer has announced his resignation after just two years in office.
-
-## 15 killed after a fire ignited in a coaching centre in Lucknow, India
-15 killed after a fire ignited in a coaching centre in Lucknow, India.
-
-## Artist creates Kerala’s ‘coconut rib’ World Cup trophy
-An artist in Kerala has created a handmade model of the FIFA World Cup trophy, using coconut leaf and cardboard.
-
-## Qatar PM on preventing US-Iran talks from escalation
-Qatar's PM said that safeguards have been put in place to prevent US-Iran negotiations from regional escalation.
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
