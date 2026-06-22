@@ -3,6 +3,9 @@
 ## US and Iran conduct tense peace talks in Switzerland
 Oil prices rise as Trump threatens new strikes if Tehran does not rein in Hizbollah in Lebanon
 
+## Rightwing populist ‘El Tigre’ wins Colombia election
+Trump-loving political outsider Abelardo de la Espriella narrowly beats leftist continuity candidate
+
 ## FirstFT: US and Iran hold high-stakes talks in Switzerland
 Also in today’s newsletter: Philippines warns over Chinese military activity around Scarborough Shoal, and Keir Starmer’s premiership in doubt
 
@@ -21,8 +24,8 @@ ONS warns of ‘level of reduced quality’, in setback to efforts to restore co
 ## Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn
 Traders see more volatility ahead as new central bank chair declines to give dot plot on future path of interest rates
 
-## A nation still divided 10 years on from the Brexit vote
-UK braced for leadership challenge, the US updates its growth estimate, and chip designer Cerebras reports earnings
+## FT Financial Literacy and Inclusion Campaign
+The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
 ## Wars trigger $12bn venture capital rush into defence tech
 Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle
@@ -39,32 +42,32 @@ Billionaire pledges $285mn to renewable industry associations as nations face en
 ## UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores
 Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measures
 
-## SpaceX handed lowest possible ESG rating by MSCI
-Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine
+## US-Iran talks end, technical talks to continue after Trump shakes talks with threats
+The comments from afar – on social media and to news outlets – complicated efforts by Vice President J D Vance and mediators Pakistan and Qatar to keep Iran engaged in discussions
 
-## L&T sets up subsidiary for AI compute infrastructure
-A stock exchange notification on Sunday announced the formation of a step-down subsidiary, LTN Compute Private Limited, with an authorised share capital of ₹1 lakh
+## These 20 stocks will remain in focus on Monday, June 22
+Sun Pharma, Aurobindo Pharma, Tata Motors, Aavas Financiers, Patanjali, Power Mech, Texamaco, Deep Industries, Refex Industries, Cranes, Divgi, Shree Refrigeratiions, Kirloskar Oil, Century Enka, Knowledge Marine, Himadri Speciality, GRSE, RVNL will be in focus today
 
-## Trump says Starmer will resign as UK prime minister
+## Sensex today | Stock Market Live Updates: Stock to buy today: Godfrey Phillips India (₹2,281.25)
+Sensex, Nifty, Share Prices Live Updates: The stock of Godfrey Phillips India has been on a rise since April after it formed a base at ₹1,850. Traders can buy now at ₹2,281 and accumulate at ₹2,200
 
+## Mumbai hotels shut jacuzzis, regulate laundry operations to conserve water
+The Brihanmumbai Municipal Corporation has halted water supply to construction sites and swimming pools
 
-## No truth in missing coal stock allegations, says SCCL
-Coal transportation in Singareni is highly Secure and every tonne of coal is closely monitored
-
-## An insider’s autopsy of the hollowing out of Parliament
-Derek O’Brien’s clinically diagnosed book is an important chapter in opposition literature
-
-## Trump says US will resume attacks if Iran does not restrain Hezbollah allies
-
+## We are bullish on AI-first fintechs: Cedar Hill Capital’s Sahil Anand
+VC firm Cedar Hill focuses on enterprise fintechs married to AI in the BFSI industry
 
 ## Optimistic about Bengal Budget, industries expect it to lay out clear roadmap for accelerating economic growth
-Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal’s first Budget under the new government will demonstrate its commitment of accelerating development.
+Luxmi Tea MD Rudra Chatterjee pointed out that West Bengal’s first Budget under the new government will demonstrate its commitment of accelerating development
 
-## Letters to the Editor dated June 21, 2026
+## SBI-Telangana face-off Over 5-acre land in Hyd raises stakes for both sides
+SBI on Friday secured a stay from the Telangana High Court on the auction of the land by the Telangana Industrial Infrastructure Corporation (TGIIC), which had earlier allotted the property to the bank.
 
+## Why jewellery, fashion and beauty brands are opting for rapid commerce
+Rapid commerce — speed meets wider choice in new delivery model
 
-## Swetha Menon steps down as AMMA president; 17-member committee resigns
-The executive committee, led by Swetha Menon, assumed office in August last year
+## Goods exports up 15% in 2-and-half months of 2026-27
+
 
 ## Why IT firms are moving beyond token maxxing
 
@@ -72,7 +75,7 @@ The executive committee, led by Swetha Menon, assumed office in August last year
 ## Govt starts wor k on steps to increase domestic resilience
 
 
-## After initial rush, semaglutide therapy market saddled with 100cr excess stock
+## After initial rush, semaglutide therapy market saddled with Rs 100cr excess stock
 
 
 ## India's digital sector faces competition, policy and tech challenges despite strong growth outlook
@@ -87,56 +90,59 @@ India and the US are poised for crucial trade talks this week, aiming to finaliz
 ## Gold, silver rates outlook: Bullion investors to track US-Iran talks, crude oil trends and key global data next week
 Gold and silver prices are poised for volatility this week, heavily influenced by US-Iran negotiations in Switzerland and crude oil market shifts. Analysts are closely monitoring these talks, which could impact global risk sentiment and energy prices. Domestic markets will observe Muharram closures.
 
-## ADB to maintain private sector funding pace in India, eyes $1 billion support in 2026
-India continues to be the Asian Development Bank's top market for private sector investments. The ADB plans to inject approximately $1 billion in direct financing this year, aligning with India's development goals. This follows a significant $2 billion channeled into India's private sector last year
+## ‘We’re suffering from…': Two UBT MPs deliver blow to Uddhav Thackeray, switch to Shinde's Shiv Sena
+A Sena leader said the formal announcement of the MPs joining the Shiv Sena would be made in a day or two after completing the required formalities.
 
-## ‘Inconvenience’, ‘half-truths’: Tejasvi Surya vs Priyank Kharge over Congress rally ‘disrupting’ NEET exam in Bengaluru
-The event which Tejasvi Surya was referring to was Congress's mega convention at Palace Grounds in Bengaluru.
+## Licences, laws, loopholes and lost lives expose glaring violations in Delhi's spaces
+In this 4-part series, HT looks at how decades of planning failures, illegal construction and weak enforcement combine to create Delhi vulnerable to tragedies.
 
-## Reble’s Dhurandhar break takes Meghalaya to audiences beyond Northeast
-Reble represents a new generation of artists from Meghalaya who are leveraging digital platforms and original content to reach audiences far beyond the Northeast
+## 'Truth must come out at temple': Karnataka BJP plans meeting over MLC election cross-voting
+The party has constituted a fact finding panel comprising CT Ravi, Mahesh Tenginakai and N Mahesh to examine the charges.
 
-## Sim card, paper in undergarments: NEET aspirant nabbed after suspicious movement during frisking at Varanasi centre
-Security personnel became suspicious during pre-examination frisking and carried out a detailed search of the candidate.
+## Ram temple funds row: SIT likely to submit probe report to CM Adityanath today
+The names of 150 suspects emerged during the six-day investigation and action is likely against 25 of them, people familiar with the matter said.
 
-## Six killed, 27 injured as govt bus hits truck in West Bengal’s Jalpaiguri: Police
-The North Bengal State Transport Corporation bus, travelling from Siliguri to Cooch Behar, hit a parked truck from behind at Ulladabri, around 8 km from Maynaguri, police said.
+## Malayalam film actors body AMMA governing council resigns after infighting
+The AMMA governing council, including first woman president Shweta Menon, resigned amid infighting and financial mismanagement allegations.
 
-## Nihangs take Sikh devotee hostage in Rudraprayag gurdwara, demand release of 4 arrested in Karnaprayag clash
-This group is demaning release of four Nihangs arrested in connection with a clash that reportedly began after a heated spat over parking in Karnaprayag.
+## Two dead in ammonia leak at shrimp factory in Tamil Nadu's Tiruvallur, owners arrested
+Chief minister C Joseph ordered the formation of a three-member committee to investigate the incident.
 
-## Gunfight erupts in Manipur’s Kangpokpi as Kuki-Zo body blocks highways: Police
-CoTU, a Kuki-Zo body, issued a statement on Sunday announcing that the indefinite blockade of the Imphal-Dimapur highway (NH-2) and the Imphal-Silchar highway via Jiribam (NH-37)
+## Woman clearing tree branches falls to death
+A woman died after falling from her terrace while trying to remove tree branches. Her family claims civic authorities ignored their complaints.
 
-## Row over KMC move to rename Suhrawardy Avenue after Gopal Mukherjee
-KMC, run by a state-appointed administrator following the resignation of mayor Firhad Hakim and other TMC councillors, took the decision on Saturday
+## Beheaded body found in Raichur, probe on
+Police in Raichur found a headless body of 35-year-old Tirupati in a locked house after complaints of a foul smell; a murder investigation is ongoing.
 
-## Ahmedabad police nab Rauf Valiullah murder convict on the run for 7yrs in Udaipur
-The accused identified as Mohammad Taslim alias Mohammad Umer Sheikh was sentenced to life imprisonment
-
-## People of Punjab won’t tolerate disrespect of their Gurus, will punish…”: BJP chief Nitin Nabin slams CM Bhagwant Mann
+## Kolkata’s Suhrawardy Avenue renamed. But has BJP govt confused Hassan with Huseyn Suhrawardy?
 
 
-## ‘Here’s what I’d pack’: Doctor lists emergency items important to keep in your car
+## Alireza Beiranvand’s story: Belgium’s tormentor once slept on streets, washed cars
 
 
-## Spain bounce back; ride Lamine Yamal magic to thrash Saudi Arabia
+## As regional parties splinter, BJP seeks to isolate Congress, reshape Opposition
 
 
-## ‘I used to be ashamed of my eyes’: Aditi Govitrikar on eve-teasing and its psychological impact
+## Russian Ambassador Denis Alipov: ‘We will never allow China to affect our ties with India, which remains a high priority in our foreign policy’
 
 
-## ‘Two important people, an Indian and a Pakistani’: JD Vance’s ‘favourite’ person remark at US-Iran talks
+## Why Jio IPO may command higher valuations than Bharti Airtel despite lagging in key financial metrics
 
 
-## Marizanne Kapp takes South Africa to famous win as India’s semifinal hopes hit
+## 40 years ago June 22, 1986: Vajpayee among 9 elected
 
 
-## Neeraj Chopra-fan Pritam Kendre becomes junior air rifle world champion
+## A 10 per cent rule for sustainable development
 
 
-## Multigrain flour vs wheat flour for weight loss: Which is better?
+## Electoral wrongs can be corrected before it’s too late
 
+
+## South Korean investors leverage Hong Kong to cash in on the AI and chips boom
+FOMO (the fear of missing out) is causing some South Korean retail investors to turn to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI. Analysts attributed the diversion to Hong Kong from the world’s 14th largest economy to leveraged products
+
+## Hong Kong’s commercial property slump enters new phase as lenders take tougher stance
+The recent decision by mainland developer Yuzhou Group to sell office space in Central at a substantial loss to repay debt underscores a new reality in Hong Kong’s commercial property market: banks are increasingly focused on controlling losses rather than delaying them. Yuzhou said this month it wo
 
 ## Buyers hunt bargains amid signs that China’s home prices are bottoming out
 Expectations have heightened in major Chinese cities like Shanghai that home prices are bottoming out following a six-year property slump, as would-be buyers actively hunt bargains amid the recent policy easing. Brisk transactions are also shoring up brokers’ confidence in the market where the price
@@ -155,12 +161,6 @@ Premium and niche foreign brands are entering or returning to China as they seek
 
 ## Energy storage: China’s battery power sets stage for global leadership
 On a sunny morning in late May, a massive laboratory designed to create extreme conditions – from melting heat to bone-cracking cold, howling sandstorms, corrosive ocean spray and even fire – officially opened in the coastal city of Xiamen, in eastern China’s Fujian province. Equivalent in size to 1
-
-## ‘We’re all in’: Alibaba’s Joe Tsai makes biggest AI push yet at VivaTech
-Alibaba Group delivered its strongest defence yet of an “all in” artificial intelligence strategy on Thursday, with chairman Joe Tsai arguing that AI could ultimately represent a US$50 trillion market and vowing to invest across the industry’s entire value chain rather than bet on a single winner. S
-
-## Hong Kong singer Eason Chan snaps up US$23m home as celebrities flock to luxury property
-Hong Kong actor and singer Eason Chan bought a HK$182.53 million (US$23.29 million) property in the city’s Southern district, according to official records, joining a list of the rich and famous who have recently snapped up luxury homes. Chan, whose full name on the official record was Chan Yick Shu
 
 ## A Tale of Two AI Policy Regimes
 Brazil wants regulation. Argentina rejects it.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Belgium see red in goalless World Cup draw with Iran in Los Angeles
-Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in close Group G game.
+## US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks
+Negotiators from the US and Iran wrapped a day of talks in Switzerland.
 
-## What are the end goals of Iran-US negotiations?
-Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.
+## No pressure to pass the ball to Ronaldo in World Cup: Portugal’s Conceicao
+Ronaldo has faced criticism after his performance in Portugal’s first match of the FIFA World Cup.
 
-## Mourners gather to remember Lebanese conservationist killed by Israel
-People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.
+## Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda
+Health officials defend the restrictions, but traders say the measures have disrupted the flow of goods and income.
 
-## Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work
-Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.
+## Cape Verde fight back for second World Cup draw 2-2 against Uruguay
+Uruguay could need a win over Spain next weekend to avoid a second consecutive FIFA World Cup group-stage exit.
 
-## Serena Williams to play women’s singles at Wimbledon as wildcard entrant
-The seven-time ladies' singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.
+## Egyptian football fans chant for Palestine in Vancouver
+Egyptian fans gathered outside BC Place in Vancouver ahead of their World Cup match against New Zealand.
 
-## Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks
-Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.
+## Iranians gather in Tehran to support team in critical draw against Belgium
+Iranian fans in Tehran watched their team secure a 0-0 draw against Belgium at the World Cup in Los Angeles.
 
-## Colombia elections take place as Abelardo de la Espriella leads polls
-Colombians are voting in an election where senator Ivan Cepeda is racing against Abelardo de la Espriella.
+## Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks
+US, Iran establish committee to oversee talks and a 'de-confliction cell' to end attacks in Lebanon, mediators say.
 
-## Japan fans celebrate 4-0 World Cup win in Tokyo
-Fans gathered at Tokyo's Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.
+## Football fans in Gaza gather to watch Spain-Saudi Arabia match
+Palestinians in Gaza gathered to watch Spain's World Cup victory over Saudi Arabia.
 
 ## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
