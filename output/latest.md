@@ -1,28 +1,40 @@
 # AION Intelligence
 
-## Building materials group CRH agrees record $8.5bn deal for Arcosa
-Irish company to purchase Dallas-based construction company
+## Burnham poised to succeed Starmer as UK prime minister
+Outgoing Greater Manchester mayor gears up for talks with civil service as he prepares to enter Number 10 within weeks
+
+## CRH digs deep for a bigger share of the US construction boom
+Irish building materials group’s deal for Arcosa is worth doing
+
+## Labour MPs celebrate as Andy Burnham returns to Westminster
+Greater Manchester mayor finds a clear path to replace Keir Starmer in Downing Street
+
+## Streeting seen as frontrunner to become UK’s next chancellor
+Ex-health secretary favourite after ruling out leadership run but Labour’s centre-left prefers Ed Miliband
+
+## Met Office issues rare red weather warning as heatwave hits UK
+Temperatures expected to break June records, prompting concerns about public health
+
+## Indian entrepreneur to lead WhatsApp as Zuckerberg brings in new blood
+Fintech founder Kunal Shah to replace Will Cathcart who steps down after seven years leading the Meta-owned messaging app
+
+## The revolving door of Downing Street
+To survive longer than Keir Starmer, Andy Burnham will need vision and a plan
+
+## Chevron moves into power production with Microsoft AI deal
+Company signs 20-year agreement to develop data centre in heart of US oil country that could include gas-fired plant
+
+## AI-powered threats may succeed ‘within months’, Five Eyes warns
+Western governments and corporates cautioned that their lead in AI might not last long
+
+## Building materials group CRH agrees historic $8.5bn deal for Arcosa
+Irish company to purchase Dallas-based construction group
 
 ## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug
 Drugmaker’s largest deal in more than half a decade comes amid surge of M&A in sector
 
 ## Andrew Cuomo to lead new venture between NYSE parent and crypto exchange OKX
 Former New York governor’s role highlights how politicians are rushing into digital assets sector
-
-## Why Bangladesh is backing Argentina in the World Cup
-Their national team has never qualified, so Bangladeshi fans are cheering for Messi
-
-## So long Starmer, markets found you dull
-A market obituary in three charts
-
-## Northern Irish politician Jeffrey Donaldson guilty of rape
-Former leader of the Democratic Unionist Party played a key role in parliamentary debates over Brexit
-
-## America’s allies look to declare independence from the US
-Traditional partners are rethinking their economic ties
-
-## Josh Hawley and the future of pro-worker conservatism
-Where does the Missouri senator fit in a party that has long promoted the interests of the wealthy?
 
 ## ‘Salt is the new oil’
 Better batteries, or Na?
@@ -36,32 +48,38 @@ Freelancer paid about £400 for technology to draft documents for £7,000 claim
 ## Germany reaches deal to buy 40% of Europe’s biggest tank maker
 After months of wrangling over KNDS stake, Berlin’s agreement paves the way for an IPO
 
-## BoE dilutes stablecoin rules with plan for £40bn issuer limit
-Proposed regulations would no longer restrict holdings by individuals and companies
+## India’s wheat procurement by govt tops 35.5 million tonne target
+Purchases in Rajasthan at record high, UP buys double from a year ago
 
-## Governance concerns need not involve fraud to erase market value: InGovern on Kaynes
-Repeated guidance cuts, disclosure lapses and weak cash conversion undermined investor confidence despite 33 per cent revenue growth and an ₹8,000 crore order book
+## Budget prioritises generating employment, incentivising industry, protecting people, says Suvendu Adhikari
+Addressing a post-Budget press conference, he said providing a “fear-free environment” to the citizens of Bengal was the priority of the government
 
-## Tendercuts launches new store in Chennai
-Spread across 2,100 sq. ft., the new store has been designed to accommodate a wider assortment of meat and seafood products and includes facilities for customised cutting and processing.
+## Key takeaways from West Bengal Budget
+
+
+## Kunal Shah to lead WhatsApp as Meta pumps $900 mn into CRED
+Funding values fintech firm at $4.5 billion; Sampat named interim CEO
+
+## Industry welcomes West Bengal Budget as forward-looking roadmap for infrastructure-led growth
+Emphasis on infrastructure, industry, technology, connectivity and clean energy has the potential to create fresh opportunities for investment, enterprise and employment across the State, they say
 
 ## Core sector’s growth dipped to 7 months low of 0.5% in May
-The Eeight Ccore Iindustries comprise 40.27 per cent of the weight of items included in the Index of Industrial Production
+The Eeight Ccore Iindustries comprise 40.27% of the weight of items included in the Index of Industrial Production
 
-## As SoH blockade continues, India again pivots towards the US for LPG & LNG in June
-LPG and LNG imports from the US to India during May 2026 were at record levels, Kpler data shows
+## Waterways Leisure Tourism IPO: Expensive ticket, uncharted oceans ahead
+Fleet expansion offers scale, but valuation for the owner of Cordelia Cruises brand leaves little room for delays, weaker occupancy or margins
 
 ## Indian IT sees increase in average learning hours per employee in FY26
 Indian IT companies are ramping up employee training in response to the growing integration of artificial intelligence, with major firms reporting significant increases in average learning hours for fiscal year 2026.
 
-## CBI arrests ex-RCFL and RHFL CEOs in ₹7,623 crore bank fraud case
-The agency said the accused sanctioned loans to intermediary and conduit firms in violation of RBI and lending norms, resulting in massive losses to public sector banks
+## Rupee falls 30 paise to 94.63 against Dollar amid Middle East uncertainty
+The Indian rupee weakened by 30 paise to 94.63 against the US dollar on Monday, pressured by a strong dollar and Middle East tensions. Despite supportive inflows and falling crude oil prices, importer demand and foreign institutional investors turning net sellers weighed on the currency. While equit
 
-## Elevated resin prices to boost PVC pipe makers’ profitability this fiscal: Crisil Ratings
-The ratings agency expects organised PVC pipe and fitting makers to record 10-15% revenue growth, driven by higher crude oil prices and increased selling prices
+## 8th Pay Commission enters crucial phase; employee groups see report before Budget 2027
+Central government employees are hopeful for revised salaries and pensions sooner than expected, with the 8th Pay Commission potentially submitting its report months ahead of its May 2027 deadline. Employee organizations anticipate recommendations before the Union Budget 2027, leading to possible im
 
-## India’s Desh Vibhor in Persian Gulf resumes voyage to Hormuz after U-turn
-The Shipping Corporation of India’s tanker Desh Vibhor has resumed its journey through the Strait of Hormuz, marking a pivotal moment for global oil trade stability
+## US stock markets today: Wall Street holds near record highs as oil prices ease on US-Iran deal hopes
+Indian markets mirrored global trends as US stocks hovered near record highs, buoyed by easing oil prices and positive US-Iran talks. While tech stocks saw a dip, optimism surrounding AI and potential interest rate hikes kept investors engaged. Key inflation data and corporate deals, like AbbVie's a
 
 ## Non-transparency, post-claim investigation of proposals main triggers of dis-satisfaction in health inusrance
 Customer trust in health insurers is waning, with a significant rise in unexplained claim rejections and a continued reliance on reimbursement routes. Policyholders are increasingly frustrated by insurers revisiting underwriting at claim time, leading to dissatisfaction. A substantial gap exists bet
@@ -78,62 +96,59 @@ Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key 
 ## Core sector growth slows to 0.5% in May as coal, refinery output contract
 India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
 
-## How crude price crash could turn the tide for India's state-owned oil giants
-State-run oil companies are poised for improved profits as falling crude prices boost fuel marketing margins. While recent excise duty cuts have aided this recovery, rising debt and potential future tax hikes pose risks to long-term earnings. Analysts anticipate stronger performance from the second 
+## Missing money, SIT probe, Oppn's ‘Ghazni’ attack and Yogi's ‘15 days’ claim: Ayodhya's Ram Temple donation row explained
+Allegations that crores of rupees in donations at the Ram Temple in Ayodhya were misappropriated have led to a political and legal controversy.
 
-## India slaps anti-dumping duty on rubber chemical imports from China, EU and US
+## 'Save me', 'let me go to my son': SOS calls, heroic rescues paint a heartbreaking story from Lucknow fire
+Outside the burning building in Aliganj, frantic SOS calls and anguished pleas from family members and friends underscored the scale of the tragedy.
 
+## After Lucknow fire kills 15, UP CM orders SIT probe, report in 7 days
+The decision was finalised following a high-level review meeting where the Chief Minister expressed serious concern over the tragedy.
 
-## Piyush Goyal says ‘trying to work out’ US trade deal to give India advantage
-India is also seeking guarantees that the US will not impose fresh tariffs after the agreement is signed. Both countries are looking to finalise a pact seen as important for improving bilateral relations that have recently come under strain.
+## Doval meets China’s Wang Yi, holds ‘constructive and forward-looking discussions’
+NSA Ajit Doval “underlined that stable, predictable and constructive bilateral relations contribute to building trust and better understanding between the two sides”
 
-## WhatsApp gets Indian boss: Meta picks Cred founder Kunal Shah, pumps $900 million into his company too
-Kunal Shah replaces Will Cathcart, who has been running the popular messaging service for roughly seven years
+## Over 30 dogs and cats rescued from pet facility in Lucknow fire
+The massive fire that broke out on Monday afternoon in the posh Aliganj locality left at least 15 people dead and several others injured.
 
-## New evaluation policy for pvt Class 12 students in Gulf countries: CBSE tells SC
-The CBSE on March 27 notified a policy for the regular candidates of Class 12 across the seven countries of Gulf region
+## People cling to ropes as fire rips through Lucknow building, killing 15: Video
+Authorities have confirmed that at least 15 people were killed in the incident, while several others were injured.
 
-## Crisis in AMMA: Actors Mallika Sukumaran among 17 members to resign after Shwetha Menon's exit
-The crisis unfolded during the association's annual general body meeting, where members questioned the adoption of the annual report and statement of accounts.
+## Nitish Kumar was nominated to standing committee on railways; he opts out
+The standing committee on railways, which comprises members from the Lok Sabha and the Rajya Sabha, falls under the administrative purview of the Lok Sabha.
 
-## US notifies $428 million sale of support services for Apache helicopters, M777A2 howitzers to India
-According to the notification, India has requested long-term sustainment support for its M777A2 Ultra-Light Howitzers.
+## 'Mamata welcome as chief advisor': Rebel TMC faction elects Arup Roy chairperson, names new office-bearers
+Former minister Aroop Biswas and MLAs Firhad Hakim, Rathin Ghosh and Sabina Yasmin have been appointed vice-chairpersons of the faction.
 
-## Lucknow fire news live updates: Death toll at 15 as CM Yogi Adityanath announces ex-gratia of ₹5 lakh
-Lucknow fire news live updates: At least 15 people died in a fire tragedy in Lucknow's Aliganj area on Monday. PM Narendra Modi expressed grief over the loss of lives, announced ₹2 lakh ex gratia for the families of the deceased and ₹50,000 for the injured.
-
-## NSA Ajit Doval meets top Iranian security official, reviews West Asia situation
-Iran is also expected to send petroleum minister Mohsin Paknejad and one of its deputy energy ministers to the Brics energy ministers’ meeting on June 25-26
-
-## 5 held in Odisha for assaulting a Kerala labourer over kidnapping rumours: Cop
-The incident follows the arrest of at least 24 people on Saturday for the alleged assault of two NGO workers in Rayagada district
-
-## 15 dead, PM announces ex-gratia of ₹2 lakh, Yogi cut shorts Aligarh visit: Top points in Lucknow fire
-A total of 22 people were brought to King George's Medical University (KGMU) following the fire incident.
-
-## Rs 19,000 birthday gift delivery goes wrong, Amazon ordered to pay man Rs 34,000
+## ‘James Bond was filmed here’: Traveller gives tour of ‘nicest hotel’ she has stayed at in Udaipur
 
 
-## Covid-19, H1N1, RSV: Doctors on weather changes and rising respiratory illnesses in Mumbai
+## France vs Iraq, FIFA World Cup 2026 Live Score: Mbappe looks to break Messi’s record in focus as FRA face IRQ
 
 
-## Why Shimla’s roads are under restrictions and why residents are protesting
+## Messi becomes FIFA World Cup’s all-time highest goal-scorer, goes past Klose
 
 
-## ‘Attention please’: Over 140 trains to skip Vadodara Junction till July 1
+## Documentary on Kirti Chakra awardee military hero Major Tathawade to be screened across India
 
 
-## The politics of BJP’s first Bengal Budget: Welfare continuity, emphasis on infra, jobs
+## Paresh Rawal calls Akshay Kumar ‘extremely honest’, says is a ‘family man’; expert weighs in
 
 
-## How India’s roads evolved into the world’s second-largest network
+## Youngster selling guns through Instagram calls arrested, 5 pistols seized
 
 
-## Mamata Banerjee dumped as Trinamool chief by Ritabrata Banerjee-led rebels
+## Messi misses penalty, spurns chance to become WC’s all-time leading scorer
 
 
-## In her first India trip as Japan PM, Sanae Takaichi likely to visit Guwahati on July 1-3
+## Top goal scorers at FIFA World Cup 2026: Messi leads in golden boot’s race; Check full list
 
+
+## European Central Bank’s President Lagarde urges talks on yuan undervaluation
+European Central ⁠Bank President Christine Lagarde ⁠on Monday urged global leaders to discuss undervaluation of the Chinese currency as a facet of the imbalances endangering the global economy. China has ‌consistently denied that it manipulates its currency for trade advantage but its surging trade 
+
+## Hard work and endurance: what Alibaba’s team-building says about its AI drive
+An Alibaba Group Holding executive has urged hard work and endurance in an internal blog post after founder Jack Ma Yun and top executives gathered for a rice-planting team-building event, as the Chinese tech giant sharpens its artificial intelligence strategies. “The laws of the fields are very sim
 
 ## The panda bonds: how China uses assets to boost yuan’s profile, cement partnerships
 Brazil is set to become the latest major economy to issue panda bonds – yuan-denominated debt sold in the Chinese market – joining a growing group of countries that has embraced assets backed by China’s currency as a means of fundraising. According to analysts, the participation of Brazil – a foundi
@@ -153,11 +168,8 @@ Hong Kong’s property market slowed over the Dragon Boat Festival holiday weeke
 ## Zhipu AI market cap tops HK$1 trillion as shares of GLM-5.2 developer soar
 The market capitalisation of Hong Kong-listed artificial intelligence pioneer Zhipu AI surpassed HK$1 trillion (US$128 billion) on Monday, fuelled by investor optimism as the company goes head-to-head with its American rivals. Shares of Zhipu, which trades under the name Knowledge Atlas Technology, 
 
-## South Korean investors leverage Hong Kong to cash in on AI and chips boom
-Analysts have credited FOMO (the fear of missing out) for the turn among some South Korean retail investors to Hong Kong-based platforms to leverage their investments and cash in on the boom in semiconductors and AI. Observers said the diversion to Hong Kong could be attributed to leveraged products
-
-## Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push
-Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics. The Shenzhen-listed electronic components maker i
+## Trump Tests the Limits of Farcepolitik
+Will America join the long line of countries confronting defeat with self-delusion?
 
 ## Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
 A market maestro to some, he was criticized by others—including himself—for having too much faith in self-regulating markets.
@@ -180,8 +192,20 @@ How other countries and their citizens helped the United States live up to its i
 ## Orban’s Defeat Is Being Dangerously Misread
 Panicking strongmen will turn to more extreme measures.
 
-## The Vance Peace Deal
-The U.S. vice president has become the face of an unpopular deal.
+## The AI Dimension of India’s Act East Policy
+For India’s AI vision to succeed, it will need to partner with East Asian countries. That makes AI diplomacy central to the AEP.
+
+## Strategic Affairs Expert Aleksei Zakharov on the Russia-Taliban Defense Deal
+Besides “restoration of various Russian-made military equipment,” the Taliban regime may be keen on “Russian air defense systems” and “attack and surveillance drones” for use in conflicts with Pakistan.
+
+## Why Indian Women Are Being Driven to Suicide
+Harassment for dowry and failure to produce male heirs are forcing women to take their lives.
+
+## Who’s Winning Southeast Asia’s De-risking Race?
+As investment moves away from China, which countries are reaping the rewards?
+
+## Beijing’s Nepal Anxiety
+Chinese analysts say that while the core concerns of a "close neighbor," i.e., China, are sidelined, Kathmandu is making every effort to accommodate the ‘"distant relative," i.e., the U.S.
 
 ## Targeting ‘Budget Efficiency,’ Indonesia Announces Changes to Free Meal Program
 The scheme, which aims to provide free meals to 83 million children and pregnant women across the country, has faced scrutiny due to its high cost.
@@ -191,21 +215,6 @@ The system, supposedly meant to aid Tibet, actually serves to sideline local Tib
 
 ## Why Bangladesh Is Fencing Its Border With Myanmar
 A non-state actor – the Arakan Army – now controls Myanmar’s side of the border. That forces Bangladesh to rely more on unilateral forms of border management.
-
-## What Will the End of the Iran-US War Mean for Pakistan?
-Pakistanis are hoping that their role in providing Trump with an offramp to end the war will lead to investment flows.
-
-## Beijing’s Bullying of Taiwan Threatens Ocean Ecology
-China managed to secure Taiwan’s exclusion from a Track 2 platform designed to address maritime ecology. It’s a worrying escalation of China’s political warfare.
-
-## North Korea’s Quiet Campaign to Be a ‘Responsible’ Nuclear Power
-As U.N. sanctions enforcement fragments, Pyongyang is waging a second contest – over status – that is visible only in the original Korean.
-
-## How Saudi Arabia Derailed Pakistan’s Africa Drive
-Pakistan’s aspirations in Africa are growing, but its ability to realize them remains constrained by economic weakness, dependence on external financing, and the shifting priorities of its most important allies.
-
-## When the Davidson Window Meets the ‘Xi Window’
-The Davidson Window measures China’s military capability to invade Taiwan. Arguably more important is Xi Jinping’s confidence in his military.
 
 ## Too Big To Break Again: India, Italy, and the Defense Partnership That Almost Wasn’t
 A single bribe nearly ruined a defense partnership most people didn’t know even existed. It took India and Italy almost a decade to recover.The story of how that rupture happened — and what it exposed about Italy’s quiet but deep role in India’s military — is essential to understanding why both coun
@@ -255,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why has Keir Starmer resigned as UK prime minister, and who will take over?
-The United Kingdom will have its seventh prime minister in a decade.
+## A leftward lurch? What to know about the Democratic primaries in New York
+Democratic socialist candidates push for an edge in US races that hinge on issues like Israel policy and inequality.
 
-## Qatar PM denies snubbing US vice president in viral video
-Qatar's Prime Minister told Al Jazeera that reports of him snubbing the US vice president were unfounded.
+## Messi breaks World Cup’s all-time scoring record with 17th goal vs Austria
+Lionel Messi is tournament's all-time and current edition's leading goal scorer with 17 and four goals, respectively.
 
-## Argentina vs Austria LIVE: World Cup 2026
-Follow updates as Messi's Argentina play Austria in Group J, including the build-up, analysis and live text commentary.
+## Lebanon discusses ‘de-confliction’ mechanism ahead of Israel talks
+Mediators Qatar and Pakistan say plan seeks to ensure the end of military operations in Lebanon.
 
-## China adds 10 US firms, including rare-earth miner, to export control list
-Export ban follows move by Pentagon to blacklist major Chinese companies such as Alibaba and Baidu.
+## Qatar’s PM tells Al Jazeera progress made in US-Iran talks
+Qatar's PM said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.
 
-## Pakistan issues nationwide alert over fears of heavy rains, floods
-Warning comes as country braces for likely fourth consecutive year of punishing monsoon, expected to arrive this month.
+## Kenyan court finds minister in contempt over US Ebola site
+Health Minister Duale disobeyed an order to halt construction at the proposed facility for infected US nationals, court says.
 
-## Far-right de la Espriella elected Colombia president: What’s next?
-Election results show Trump-endorsed millionaire Abelardo de la Espriella wins by razor-thin margin.
+## Will a US-Iran deal transform the Iranian economy?
+A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran's economic future.
 
-## JD Vance touts progress on key issues in US-Iran negotiations
-JD Vance touts progress on key issues in US-Iran negotiations.
+## South African police tighten security as anti-migrant deadline approaches
+Xenophobic protest groups have demanded that undocumented foreigners leave the country by June 30 .
 
-## US strike on an alleged drug boat in eastern Pacific kills two
-SOUTHCOM said it notified the US Coast Guard about the 'six male survivors' without providing details of their rescue.
+## Marco Rubio heads to Middle East to address Iran MoU, Hormuz
+Rubio to visit UAE, Kuwait and Bahrain for talks on Iran and Hormuz priorities from June 23 to June 25.
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
