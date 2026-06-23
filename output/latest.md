@@ -1,28 +1,43 @@
 # AION Intelligence
 
-## Labour MPs consider backing challenger to Burnham
-Favourite for next prime minister due to deliver speech on economic policy next week
+## The 10 headaches Starmer is handing to Burnham
+From energy to education and industry to immigration, the prime minister-in-waiting has to clarify his policies
+
+## Putin sours on Trump over his latest Ukraine shift
+US president ‘impressed’ with Ukrainian drones hitting targets deep into Russia, say officials
+
+## Fairytale economics holds the UK back
+Without growth, mainstream politics is doomed. Burnham’s Labour must stop telling stories that hold it back
+
+## Andrew Tate must return to UK before being told accusers’ identity, say prosecutors
+Influencer and his brother, who face charges including rape, claim that anonymity of alleged victims prevents fair trial
+
+## HMRC reveals tax charge in new Isa rules
+Interest earned from cash held in stocks-and-shares Isas will face 22 per cent tax rate
+
+## Crowd-pleasing clothes at Milan Men’s Fashion Week
+Brands such as Dolce & Gabbana and Prada prioritised what customers want over quirky statements
+
+## Europe remains the World Cup’s centre of gravity
+Having claimed 11 of the tournament’s 15 podium spots since 2006, western European teams are again leading the charge
+
+## Trump agrees to allow Iran to access $6bn of frozen funds to buy US goods
+President says that money held in Qatar to be used to buy US medical supplies and crops
+
+## Big Tech leads sell-off in global stocks
+Nasdaq declines for second day as interest rate fears hit high-flying sectors
+
+## US rare earths miner Energy Fuels buys German magnet group for $1.9bn
+Companies are racing to develop ‘mine-to-magnet’ supply chains to reduce dependency on China
+
+## China and the US, accidental climate saviours of the world
+The EU carbon pricing model is being supplanted by Beijing’s green tech spending and Donald Trump’s oil price shock
+
+## Things look bad for IT consultants — but not that bad
+Current selldown underestimates the ability of companies such as Accenture and Capgemini to fight back
 
 ## The Three AImigos versus The Magnificent Seven
 Attention Markets Hypothesis > Efficient Markets Hypothesis
-
-## Big Tech leads sell-off in global stocks
-Declines on Wall Street reverberate across global markets as SpaceX rally reverses
-
-## Starmer risks clash with Burnham over defence funding plan
-Likely successor to prime minister wants to review long-awaited military investment plan
-
-## HMRC poised to reveal tax charge in new Isa rules
-Interest earned from cash held in stocks-and-shares Isas will face 22 per cent tax rate
-
-## Ten tensions in the Kevin Warsh Fed
-Task forces cannot find simple solutions to fundamental trade-offs
-
-## Zelenskyy may get the last laugh over Trump
-Ukraine’s president increasingly looks as if he holds the future of the west in his hands
-
-## Parents fund aircon for schools as UK heatwave forces classes to end early
-Teaching unions warn that many buildings are not equipped to deal with extreme weather events
 
 ## Could the energy shock kick-start green steelmaking?
 Also in today’s newsletter: global gas flaring jumps to highest level since 2019
@@ -33,41 +48,35 @@ Brussels urged to approve three-way merger with Thales, as groups prepare EU fil
 ## FirstFT: Global markets slump as tech sell-off deepens
 SpaceX shares tumble after its blockbuster debut, also sending Asian and European markets downwards
 
-## Auditor to Gupta steel empire fined and banned over ‘egregious’ failures
-UK watchdog finds King & King guilty of ‘pervasive breaches’ and of failing to perform audits with ‘independence’
+## Prosus launches ToqanClaw platform for five million ecosystem partners
+The platform operates within Toqan, the secure internal AI infrastructure at Prosus
 
-## Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years
-China Resources New Energy Holdings attracts strong interest from retail investors ahead of Shenzhen debut
+## Fashion tech start-up NEWME aims to strengthen omnichannel play
+The brand is looking to open more stores in cities, where it already has a presence, such as Delhi, Mumbai, Bengaluru and Hyderabad
 
-## US and Qatar claim EU methane rules will trigger gas supply crunch
-Warning comes ahead of EU energy ministers meeting — but is disputed by industry experts
+## Shining light on India’s corporate bond market
 
-## StubHub UK ordered to pay £1.5mn penalty for ‘drip pricing’
-Ticket seller fined by competition watchdog for failing to include additional charges in prices advertised to customers
 
-## Nikhil Kamath sees energy transition stocks as key India bet
-IT sector, among the worst performers in equity market, is one of Kamath’s contrarian bets
+## JAMCO Interiors plans $150-million investment in India, to expand engineering and supply chain operations in India
+The company is set to open a new engineering facility in Bengaluru’s Bannerghatta
 
-## UK-India Week opens in the West Midlands with IGF Smarter Regions Forum
-UK-India Week opens in the West Midlands with IGF Smarter Regions Forum
+## Troubled finances
+TN’s fiscal white paper, a candid appraisal
 
-## ChinaMarket has embarked on a global journey
-ChinaMarket has embarked on a global journey
+## Retailers recorded 5% growth in May amidst inflationary pressures
+Retailers Association of India says the consumers remained cautious and value-conscious during the month
 
-## Monsoon enters Mumbai after a fortnight, eyes Gujarat and UP next
-For Central India, ongoing week (June 22-29) and the one that follows (June 29-July 6) may offer best opportunity for sowing; prospects during July 13-20 are less encouraging
+## Amid Cabinet reshuffle buzz, PM Modi meets President Murmu
+Earlier in the day, veteran BJP leader from Kerala George Kurian resigned from the Union Council of Ministers
 
-## Aluminium futures breach a support
-Traders can go short
+## Ola Electric secures BIS Certification for LFP 46100 cell
+In addition to BIS approval, the cell has qualified under international and domestic safety protocols
 
-## ED searches against Rajesh Exports after SEBI scrutiny
-Premises in Bengaluru and Mumbai linked to the company are being covered
+## Wall Street today: US stocks slide as IT sell-off deepens, Nasdaq trims over 2%, Dow Jones falls 750 points
+Global markets experienced a significant downturn Tuesday, with Wall Street indices plunging amid a deepening tech stock sell-off. Concerns over heavy AI spending and anticipated US interest rate hikes are fueling investor anxiety. Major tech giants and chipmakers saw substantial drops, mirroring we
 
-## RBI issues final norms for TReDS platforms to boost MSME financing
-The new framework simplifies onboarding and enables financiers to access credit guarantees
-
-## NLC India, Indian Oil join hands for solar, wind and storage projects in Tamil Nadu
-The collaboration will focus on solar, wind, hybrid power and energy storage solutions, including battery and pumped storage systems, strengthening India’s clean energy transition
+## All roads still lead to the Middle East: Why India’s energy pipeline runs through the Gulf
+India's energy sector is closely watching the Strait of Hormuz situation, highlighting a continued reliance on the Middle East for crucial LPG supplies. While alternative sources like the US were tapped during disruptions, they couldn't fully bridge the gap. Higher LNG prices also impacted demand, w
 
 ## From record highs to a sharp fall: South Korea’s market plunged 10%, here's why
 South Korea's stock market experienced a dramatic plunge, with the KOSPI tumbling nearly 10% after hitting record highs. Investors rushed to sell chip stocks, particularly Samsung Electronics and SK Hynix, amid concerns of excessive speculation and the impact of leveraged investment products. This s
@@ -87,58 +96,52 @@ Despite a sluggish stock market and foreign investor sell-offs, Indian retail in
 ## Message seen on WhatsApp: Kunal Shah gets real CRED from Meta
 Kunal Shah is an interesting choice, because WhatsApp does not need a leader to teach people how to send a message; it needs one who understands how trust, status, habit, and small transactions mutate inside closed networks, which is, almost exactly, the discipline CRED was built to practise.
 
-## El Nino woes: Why weak monsoon may turn out to be a bigger worry for India than US-Iran war
-A normal monsoon is important for several reasons - most of all for the way it feeds into the economy’s growth and inflationary routes. A below average monsoon impacts crop sowing and harvest, which in turn leads to prices of vegetables and staple food rising.
+## PM Modi meets President amid cabinet rejig buzz, 3 things in focus: Defectors, delimitation, and Punjab
+Accommodation of recent political defectors is a factor, with focus on Raghav Chadha-led group that came from AAP, and Kakoli Ghosh's TMC rebel group
 
-## ITR filing FY 2025-26: How to calculate taxes under old income tax regime - explained
-For many people the old income tax regime continues to be attractive despite the new regime offering higher basic exemption and standard deduction, rebate limits and lower tax rates.
+## Truck falls in river as bridge collapses in Himachal's Kinnaur, driver narrowly escapes: Video
+The incident took place near Urni Dhank between Reckong Peo and Tapri on National Highway 5 when a 10-tyre truck loaded with sand was crossing the bridge.
 
-## ‘Left home late, took wrong route’: Bengaluru cops on why NEET aspirant was late
-In a statement posted on X, the traffic police said CCTV footage confirmed the student had departed “only 33 minutes before the cut off time”
+## BJP leader Kailash Gahlot's daughter tops CUET UG exam: 'Immensely proud'
+Devina Gahlot, daughter of former Delhi minister and BJP MLA Kailash Gahlot, emerged as the topper of CUET-UG 2026.
 
-## TMC expels Firhad Hakim, Arup Roy, 6 others after rebel faction unveils parallel leadership
-Earlier in the day, the All India Trinamool Congress (AITC) issued show-cause notices to the leaders, accusing them of indulging in anti-party activities.
+## 11 India-bound oil, gas, and fertiliser vessels cross Hormuz after US-Iran deal
+New Delhi hopes that 10 Indian-flagged vessels that were caught to the west of the crucial waterway due to the outbreak of hostilities in February can return
 
-## How fiancee, lover conspired to kill Pune man in Lohagad fort after 'failing first attempt'
-The fiancee did not want to marry Ketan Agrawal and saw him as an obstacle to her relationship with her lover. The duo then allegedly plotted to kill him.
+## TVK gold ring scheme for newborns in Tamil Nadu to be launched on Sept 15
+The government will allocate ₹755.83 crore for the gold ring scheme, which was one of the Tamilaga Vettri Kazhagam (TVK)’s poll promises
 
-## Eknath Shinde's ‘zor ka jhatka’ jibe at Shiv Sena UBT day after Raut's 'gave birth to traitors' swipe
-Maharashtra deputy chief minister Eknath Shinde said those who boycotted the proceedings were wasting the House's time with "meaningless chatter".
+## Congress demands SC probe into Ujjain land deals, takes ‘engine of loot’ dig at Mohan Yadav's Madhya Pradesh BJP govt
+News report says land bought by family since Yadav became CM is next to road projects announced by his govt; relative says have been in realty business for long
 
-## Rajasthan Police arrest 2 Bengal men for siphoning off minority scholarship funds
-Police superintendent Harsh Vardhan Agarwala said the action followed a complaint from Ajmer’s minority welfare officer
+## Uttarakhand CM asks pilgrims to avoid rumours, says Char Dham and Hemkund Sahib yatras running smoothly
+Uttarakhand's CM Pushkar Singh Dhami reassures pilgrims about the successful conduct of Char Dham and Hemkund Sahib yatras amidst rumors.
 
-## ‘Covering up its own failings’: India shreds Pakistan's 'will go to war' remarks over Indus Waters Treaty
-Khwaja Asif's remarks came after India had said that its decision to keep the Indus Waters Treaty in abeyance would remain "unchanged".
+## Gujarat’s Shala Praveshotsav completes 23 years, focus shifts from enrolment to quality education
+Gujarat's Shala Praveshotsav celebrates 23 years of transforming education by enhancing school enrolment and emphasizing quality.
 
-## Mamata, Uddhav, Kejriwal have one big question. The answer may come via Goa
-What's the definition of a ‘party’? Are MPs are MLAs alone enough for merger? These are questions that may need further definitive answers from SC.
-
-## Anna Hazare warns of hunger strike from July 5 over Maharashtra RTI rules: Changes, objections explained
-Anna Hazare has threatened to launch an indefinite hunger strike from July 5 if the Maharashtra government does not withdraw the amendments to the RTI rules.
-
-## Trump claims Iran ‘fully agreed’ to nuclear inspections, but Tehran sharply fires back
+## Downed US F-15 pilot reveals bizarre ‘jellyfish’ drone formation before ejection over Iran
 
 
-## Why Netanyahu now wants Israel to be less dependent on US weapons
+## India banks can lend against FCNR(B) deposits, says RBI
 
 
-## ‘Not even beggars are safe from AI’: Humanoid robot asks for money to pay bills
+## Foreign funding rules tightened for NGOs, penalties revised
 
 
-## Shwetha Menon drops bombshell on cine body, claims Mohanlal panel’s accounts ‘all wrong’
+## The ‘left-turn’ bias: Why you may be walking anticlockwise without realising
 
 
-## Daughter found in Canada, NRI from Ludhiana cleared in a second murder charge
+## Ousted as TMC chief by rebels, Mamata Banerjee’s options dwindle: What next?
 
 
-## NEET aspirant from Bokaro becomes CBSE Class 12 Science topper after Biology re-evaluation
+## Complete shutdown in Ladakh: ‘Policies being forced upon us,’ say leaders
 
 
-## Kunal Shah to become WhatsApp CEO: What CRED-Meta deal means for India’s fintech sector
+## Shala Praveshotsav: CM says one can excel in life with hardwork & determination, cites PM Modi’s journey
 
 
-## Padma Awards 2026: Mammootty, Alka Yagnik receive Padma Bhushan
+## Master drains in Gurgaon desilted, work on waterlogging hotspots ahead of monsoon
 
 
 ## China’s CATL bets big on sodium-ion batteries to navigate lithium price volatility
@@ -157,13 +160,19 @@ Alibaba Group Holding’s chip design unit T-Head has more than tripled its capi
 Luxury electric vehicle (EV) brands from China are poised to enter the same elite tier as established European marques by leveraging their disruptive technologies, according to Chinese EV maker Zeekr. “There is a gap between the demand for electric luxury cars and the supply, where Chinese carmakers
 
 ## Momenta granted regulatory approval to list in Hong Kong amid rumoured crackdown
-Momenta, a leading self-driving technology start-up in China, has become the latest domestic firm to receive regulatory approval for listing in Hong Kong under an entity incorporated offshore. The nod comes over four months after the last green light given to an applicant with a similar structure. T
+Momenta, a leading self-driving technology start-up in China, has become the latest domestic firm to receive regulatory approval from Beijing for listing in Hong Kong under an entity incorporated offshore. The nod comes over four months after the last green light given to an applicant with a similar
 
 ## After Beijing’s food-safety warning, will Sam’s Club slow its China expansion?
 US membership-only retailer Sam’s Club has quickly overhauled its leadership after Beijing summoned executives over “frequent food-safety issues”, which raised questions about whether the chain would slow its nationwide expansion to focus on building more localised and responsive supply chains, acco
 
 ## China moves to raise penalties on auditors as anti-fraud campaign deepens
 China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading by the National People’s Congress Standing C
+
+## Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army
+An ugly chapter of World War II history is straining relations between Warsaw and Kyiv.
+
+## The U.S. Won the War With Iran
+It wasn’t a knockout blow, but Washington prevailed on points.
 
 ## Is the MOU a Treaty or Not? And Why Should We Care?
 Confusing language in the U.S.-Iran cease-fire agreement makes its legal status unclear.
@@ -183,11 +192,14 @@ New export restrictions underscore Beijing’s supply chain grip in ongoing tens
 ## Why Is Alibaba on a Pentagon Blacklist?
 Washington doesn’t know how to untangle China’s military-civil fusion.
 
-## The Strange Logic of World Cup Ticket Prices
-Aging stars and local fans dominate as Europeans stay home.
+## Why the China-Iran Relationship Has Been Friendly But Distant Since Ancient Times
+The two civilizations have consistently found each other to be useful, yet they haven’t invested heavily in their partnership.
 
-## How the Iran Deal Sets the Stage for More Conflict
-As his Gaza agreement has shown, Trump is better at fanfare than follow-up.
+## An Australian View of the New Trump Iran Deal
+Australia’s geography may provide it with some insulation from conflict, but its maritime dependency creates other vulnerabilities.
+
+## What Happened to Indonesia’s Booming Tech Sector?
+Despite their initial promise, many of the country's major tech firms are struggling to create value for shareholders.
 
 ## Bangladeshi PM Tarique Rahman Asks Malaysia to Lift Restrictions on Labor Migration
 Kuala Lumpur has recently tightened the intake of Bangladeshi workers due to concerns about abuse, debt bondage, and excessive recruitment fees.
@@ -203,15 +215,6 @@ If earlier moves toward more direct elections were indictive of Kazakhstan's pol
 
 ## Tashiev Trial Closed Again
 A week after being opened to public scrutiny, the Tashiev trial has again been closed once more.
-
-## Dushanbe’s Long Arm Reaches Into Europe
-A refugee in Vienna, a manufactured terrorism case, and a precedent Austria should not ignore.
-
-## Central Asia Is Becoming Europe’s Channel to Afghanistan
-Central Asia and the EU can deepen cooperation on food, energy, and logistics to head off a humanitarian crisis in Afghanistan, with Kazakhstan on the front line as the region's grain powerhouse.
-
-## The AI Dimension of India’s Act East Policy
-For India’s AI vision to succeed, it will need to partner with East Asian countries. That makes AI diplomacy central to the AEP.
 
 ## A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy
 In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy paired with a military strategy and Plan for
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Arab fans celebrate World Cup results in New York
-Arab fans have come together in New York to show support for all Arab teams at the World Cup.
+## South African police investigate murder amid rise in anti-migrant attacks
+The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.
 
-## Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry
-UN commission of inquiry says Israel's deliberate targeting of Palestinian children in Gaza resulted in genocide.
+## More than 5,300 people still held in Myanmar scam centres: rights group
+A UN report found the facilities are operated by foreign nationals who were trafficked by criminal gangs.
 
-## NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC
-Zohran Mamdani says AIPAC's has been supportive of a 'status quo for immorality' in Palestine, wider region.
+## Republican-linked PACs funding Democratic US primaries: Why it matters
+Republicans and Democrats have both employed tactics to boost weaker rivals ahead of US midterm elections.
 
-## Why is Israel being accused of meddling in Colombia presidential election?
-President Gustavo Petro claims digital manipulation affected the results, but attorney general dismisses allegations.
+## Demand for tunnel maps and personal weapons tests Gaza talks
+Gaza talks remain active, but stall as the US envoy demands the handover of tunnel maps and family arms.
 
-## How does air conditioning work, and how does it affect your body?
-While AC keeps us cool, it can also cause dry skin and irritation. Here are some tips to keep comfortable this summer.
+## Mexico exhibition relives memories of Qatar World Cup 2022
+An exhibition in Mexico held during the World Cup explores the legacy of Qatar 2022.
 
-## Mamdani defends AIPAC ‘monsters’ comment
-New York City Mayor Zohran Mamdani has defended calling AIPAC ‘monsters’.
+## Kenya minister says US-run Ebola facility plans halted after court order
+Kenya stops constructing US-run Ebola site amid public outcry; $13.5m US funding is criticised as masking health risks.
 
-## Iran’s President Pezeshkian lands in Pakistan after US deal
-Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.
+## Portugal vs Uzbekistan LIVE: World Cup 2026
+Follow live updates as Cristiano Ronaldo and Portugal face Uzbekistan, including the build-up and live text commentary.
 
-## Watch World Cup Day 12: Argentina, France advance to knockouts; Jordan out
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## What the US and Iran agreed – and disagreed – on first day of talks
+Leaders from Iran and the US have lauded progress on day one of Switzerland talks but disagree about crucial aspects.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
