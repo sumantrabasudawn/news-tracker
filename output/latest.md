@@ -1,49 +1,34 @@
 # AION Intelligence
 
-## The US Treasury market rests on shakier ground
-Reforms are necessary to bolster the financial world’s backbone
+## Alibaba sues Pentagon over inclusion on Chinese military blacklist
+Ecommerce giant claims US defence department’s ‘arbitrary and capricious’ decision lacked evidence
 
-## HMRC reveals tax charge in new Isa rules
-Interest earned from cash held in stocks-and-shares Isas will face 22% tax rate
+## SpaceX pitches investors juicy yields in $25bn bond deal
+Bankers upsize offering after high borrowing costs lure investors
 
-## Can anyone challenge Andy Burnham for PM?
-Plus: The King of the North’s Cabinet, intray and priorities
+## US chipmakers lead Wall Street slide on rate rise worries
+Nasdaq declines for second day with companies such as Nvidia under pressure
+
+## UK tax loophole used by Shein will not be closed until October 2028
+Retailers say slow pace of action undermines efforts to rejuvenate high streets
+
+## Starmer risks clash with Burnham over defence funding plan
+Likely successor to prime minister wants to review long-awaited military investment plan
+
+## Burnham set to demote Reeves to lesser cabinet role
+Britain’s probable next prime minister expected to give backroom roles to Manchester allies
+
+## Eli Lilly and Bayer hit out at Germany’s spending on new medicines
+Pharma groups indicate support for US pushback on legislation to lower drug prices
+
+## US Supreme Court limits scope of foreign human rights claims
+Justices refuse to consider complaint alleging Cisco enabled Chinese surveillance of banned religious group
+
+## EG Group files plan for US listing that could raise $1bn
+IPO could value UK-based petrol station empire at more than $9bn
 
 ## SpaceX tests its reality-warping powers on the bond market
 For some buyers, a solid rating can act as permission to buy; the lack of one can put a security off limits
-
-## US manufacturing jobs fall at fastest rate since the pandemic
-Survey finds company executives are struggling with rising costs and shifting policy
-
-## US chipmakers lead Wall Street slide on rising rate rise worries
-Nasdaq declines for second day with companies like Nvidia under pressure
-
-## Rejoining EU is ‘mirage’ but UK must get closer to bloc, says minister
-Comments by Nick Thomas-Symonds come after Brussels postpones planned summit in wake of Starmer resignation
-
-## Stream of cabinet ministers throw weight behind Andy Burnham
-Favourite for next prime minister held hour-long ‘off-site’ meeting with outgoing premier on Tuesday
-
-## AI’s money machine faces first real test in Manhattan primary
-Industry spends millions to target candidate who supports greater regulation of the technology
-
-## Drone start-up Stark wins more funding from Peter Thiel-backed firm
-US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
-
-## US rare earths miner Energy Fuels buys German magnet group for $1.9bn
-Companies are racing to develop ‘mine-to-magnet’ supply chains to reduce dependency on China
-
-## China and the US, accidental climate saviours of the world
-The EU carbon pricing model is being supplanted by Beijing’s green tech spending and Donald Trump’s oil price shock
-
-## Things look bad for IT consultants — but not that bad
-Current selldown underestimates the ability of companies such as Accenture and Capgemini to fight back
-
-## The Three AImigos versus The Magnificent Seven
-Attention Markets Hypothesis > Efficient Markets Hypothesis
-
-## Could the energy shock kick-start green steelmaking?
-Also in today’s newsletter: global gas flaring jumps to highest level since 2019
 
 ## Dining-out emerges as new growth battleground for Swiggy, Eternal
 Both companies reporting strong momentum in the segment over the past year.
@@ -93,6 +78,12 @@ Around Rs 4.61 lakh crore in investor wealth was wiped as the combined market ca
 ## Trump waives sanctions on Iran crude oil: What it means for India
 As part of a broader package designed to provide economic relief to Iran, the US Treasury announced a sanctions waiver valid until August 21. The exemption allows Tehran to export oil and related products and receive payments for those sales.
 
+## Gaurav Gogoi, Priyank Kharge among 28 leaders to address ‘Chhatron Ki Goonj’ press conferences across India
+The campaign seeks resignation of Union Education Minister Shri Dharmendra Pradhan.
+
+## CUET-UG 2026 results out; one candidate bags 100 percentile in four subjects
+A total of 22 candidates scored 100 percentile in three of their opted subjects, while 180 candidates secured 100 percentile in two subjects, the agency said.
+
 ## PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
 PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
 
@@ -111,34 +102,28 @@ Police are investigating 26-year-old Ketan Agrawal's murder, in which his fiance
 ## Odisha launches ₹500 crore scheme to transform riverfronts, urban water bodies
 The initiative aims to convert neglected and underutilised waterfront areas into environmentally sustainable, socially inclusive and economically vibrant urban assets
 
-## CJP's Abhijeet Dipke slams Pradhan's ‘terrorist’ remark, says minister has ‘blood of 17 students on his hands’
-The CJP has been protesting at Jantar Mantar since the past four days. They demand the resignation of Dharmendra Pradhan over irregularities in the system.
-
-## PM Modi meets President amid cabinet rejig buzz, 3 things in focus: Defectors, delimitation, and Punjab
-Accommodation of recent political defectors is a factor, with focus on Raghav Chadha-led group that came from AAP, and Kakoli Ghosh's TMC rebel group
-
-## England vs Ghana LIVE Score, FIFA World Cup 2026: Knockout qualification in sight for Harry Kane’s ENG vs GHA
+## Kharat’s wife granted bail in land fraud, black magic case
 
 
-## ‘Flip the pack’: FSSAI shares 5-step guide to read a food label correctly
+## ED searches at nine premises linked to Bengaluru-based gold exporter over ‘financial irregularities’
 
 
-## Nine years on, chargesheet yet to reach court: High Court seeks action against errant Thane cops
+## AAP MLA Chaitar Vasava, wife, co-accused get 7-year jail term in 2023 assault case
 
 
-## Ronaldo makes history, becomes first player to score in six different World Cups
+## Siya Goyal’s house deserted; neighbours unaware
 
 
-## 3 massive slums plots over 850 acres in Mumbai to be redeveloped soon
+## Gujarat confidential: ‘Mannequin’ guides
 
 
-## ‘We treated her like family’: Grief and disbelief at Ketan Agarwal’s Pune home
+## At 41, under fire Ronaldo proves his hunger for goals is undiminished
 
 
-## Suspect in hoodie, phone at home to mislead probe: How cops solved Lohagad murder
+## 5 months on, Pune Grand Tour roads hold steady
 
 
-## Panel led by retired judge to prepare draft for Uniform Civil Code in Maharashtra
+## Rs 10 lakh medical cover per family in new scheme for construction workers in Delhi
 
 
 ## The Intelligence Revolution: Redefining Out-of-Home Media in Hong Kong
@@ -261,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## EU hosts Taliban officials for the first time in talks on deportations
-The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.
+## Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026
+Cristiano Ronaldo becomes first player to score at six World Cup tournaments as Portugal thrash debutants Uzbekistan.
 
-## US appeals court says Trump can proceed with fast-track deportation efforts
-A panel of judges has overturned a previous ruling that found measures violated constitutional right to due process.
+## Displaced Lebanese return south under fragile ceasefire deal
+Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.
 
-## The weight of the Three Lions: Football, colonialism, diaspora
-England vs Ghana exposes football’s tangled histories of empire, diaspora and belonging.
+## Video: Israeli troops seen patrolling Syrian countryside
+Israeli troops and two Merkava tanks have been spotted in the Syrian countryside near Quneitra city.
 
-## SpaceX shares drop below debut price before jumping amid $600bn sell-off
-SpaceX shares dip below debut price, erasing $600bn in value before recovering 2.4 percent amid tech market turbulence.
+## US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure
+The US Supreme Court made it easier for US companies to seek compensation from Cuba's government for assets seized.
 
-## Missile strike kills three in Ukraine as Russia feels war’s economic strain
-Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.
+## US Supreme Court backs Trump policy on green card holder rights
+Court rules 6-3 that suspicion alone justifies placing green card holders on immigration parole at border crossings.
 
-## Israeli police clash with anti-draft ultra-Orthodox protesters
-Israeli police clashed with Ultra-Orthodox (Haredi) Jews on Monday as they protested against mandatory conscription.
+## Who’s being left out of the World Cup?
+Can football’s biggest stage stay global as visa denials and border restrictions mount?
 
-## LIVE: England vs Ghana – World Cup 2026
-All our updates as Kane's England face Ghana in Group L, with buildup, team news coverage and text commentary stream.
+## Why do the UK’s prime ministers keep resigning?
+Keir Starmer is the latest to step down, after less than two years in office.
 
-## The $3.7bn man: Inside one of US’s biggest Medicare frauds
-US businessman has been arrested in Turkiye after a year on the run from authorities.
+## Israeli forces set olive trees on fire in occupied West Bank
+Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
