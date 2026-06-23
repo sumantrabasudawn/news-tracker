@@ -1,163 +1,163 @@
 # AION Intelligence
 
-## Nissan shareholders vote out director who backed merger with Honda
-Former Mizuho executive Motoo Nagai fails to receive approval for reappointment after Renault abstains
+## Big Tech leads sell-off in global stocks
+Declines on Wall Street reverberate across global markets as SpaceX rally reverses
 
-## Kevin Warsh is throwing the reaction-function baby out with the dot-plot bathwater
-A Delphic Fed is a dangerous Fed
+## Peter Murrell sentenced to five years for embezzling SNP funds
+Estranged husband of Nicola Sturgeon pleaded guilty to charges last month
 
-## Why Denmark’s centre-left PM accepts far-right support for her migration plans
-Also in this newsletter: digital euro clears key hurdle in parliament
+## Labour MPs consider backing challenger to Andy Burnham
+Favourite for next prime minister due to deliver speech on economic policy next week
 
-## FirstFT: EU waits for Burnham
-Also in today’s newsletter: ChatGPT ads and EU deportation centres
-
-## Bank of Japan normalisation on course for December increase
-Read the BoJ’s June forecast from the FT’s Monetary Policy Radar team
+## Labour’s Burnham sceptics don’t have the numbers to stop him
+Some in parliamentary party want a leadership contest but there is not yet a clear challenger with sufficient backing
 
 ## UK ‘irritated’ by EU move to delay key summit after Starmer’s resignation
 July meeting about closer relations postponed as Brussels prepares for prospect of Burnham becoming PM
 
-## US and Iran give shipowners conflicting Hormuz orders
-Vessels given incompatible instructions on safest route to cross strait
+## Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years
+China Resources New Energy Holdings attracts strong interest from retail investors ahead of Shenzhen debut
 
-## Burnham might just have what it takes to see off Farage
-The policy differences between his future premiership and Starmer’s will be small but significant
+## Germany seeks to set up Swedish-style public pension fund
+Chancellor Friedrich Merz backs proposal of investing a share of pension contributions in capital markets
 
-## AI Exchange
-In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
+## US and Qatar claim EU methane rules will trigger gas supply crunch
+Warning comes ahead of EU energy ministers meeting — but is disputed by industry experts
 
-## Private equity’s new vibe check
-Buyout investors are recreating software products to gauge their competitiveness
+## Auditor to Gupta steel empire fined and banned over ‘egregious’ failures
+UK watchdog finds King & King guilty of ‘pervasive breaches’ and of failing to perform audits with ‘independence’
 
-## OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO
-Lossmaking AI group is presenting at Cannes Lions advertising conference for the first time
+## StubHub UK ordered to pay £1.5mn penalty for ‘drip pricing’
+Ticket seller fined by competition watchdog for failing to include additional charges in prices advertised to customers
 
-## Private equity-owned vet group IVC spends £34mn on UK competition probe
-Conclusion of industry-wide investigation by Competition and Markets Authority paves way for IPO
+## Heineken taps coffee executive to tackle sliding beer sales
+JDE Peet’s boss Rafael Oliveira will be first outsider to take charge of Dutch brewer after fraught succession process
 
-## Private equity bosses turn to carried interest loans as payouts stall
-Requests to borrow against future shares of profits are multiplying, as the buyout market remains slow
+## SpaceX sheds $400bn in market value as debut rally hits reverse
+Shares in Elon Musk’s AI and rockets group tumble more than 16% following fresh rise in US bond yields
 
-## India’s corn exports seen rising to 2.4 million tonnes for MY25-26 on weak prices, says USDA Post
-Maize sowing up 7% at 5.69 lakh ha till June 19, despite weak onset and slow monsoon progress
+## Nissan shareholders vote out director who backed merger with Honda
+Former Mizuho executive Motoo Nagai fails to receive approval for reappointment after Renault abstains
 
-## Google DeepMind signs AI research deal with film studio A24
-Studio to retain creative control as Google invests $75 million in A24
+## CRED to Raise INR 8,550 Crore (~USD 900M) From Meta
+India, Bengaluru – Business Wire India
 
-## India's LPG imports from US set to cross 1 million tons in June, sources say
-India turns to costlier American supplies to ensure uninterrupted cooking gas
+## Policy Advisors Club (PAC) Marks Its First Niti Parv, Honouring Merit in Public Policy and Celebrating Policy Professionals
+A landmark gathering of policy makers, governance leaders, and change catalysts, anchored by the inaugural Niti Parv Awards and a tribute to Policy Advisors Day
 
-## Sensex today | Stock Market Live Updates: Sensex trades flat, Nifty holds above 24,000; Cipla, Sun Pharma lead gains
-Sensex Today, Nifty 50 | Stock Market Live Updates: Equity benchmarks opened flat. BSE Sensex declined 168.59 pts or 0.22% to 76,925.48 at 9.17 am after a flat opening at 77,086.05 from the previous close of 77,094.07. Nifty 50 dipped 46.40 pts or 0.19% to 24,056.50.
+## Sensex today | Stock Market Live Updates: Sensex drops 650 pts, Nifty below 23,900 as IT, metal stocks weigh
+Sensex Today, Nifty 50 | Stock Market Live Updates: Domestic benchmark indices extended losses in afternoon trade on Tuesday after flat opening, with IT and metal stocks dragging the market despite easing geopolitical tensions in West Asia. Investors turned cautious after the recent rally, while att
 
-## Hormuz will never go back to its pre-war status: Iran's Parliament Speaker says Iran will manage the strait
-Mohammad Bagher Ghalibaf asserts international rules will be followed but insists operational control will remain with Iran.
+## Adani Group to invest about ₹1 lakh crore across airports in next 5 years; Mundra commercial operations take off
+Mundra airport launches commercial flights to Mumbai and Goa with Star Air under UDAAN scheme
 
-## US senators flag Pakistan’s history of harbouring terrorists, hiding bin Laden
-US senators criticize Pakistan and Qatar for terrorist ties, highlighting their roles in harboring bin Laden and supporting Iran
+## SIP drives India's capital despite weak equity returns: JP Morgan
+Domestic retail participation resilient even as FPIs sell $36 billion worth of Indian equities in FY25-26
 
-## Google restores Telegram on Playstore, app starts functioning for some users
-The government had ordered the ban on Telegram following its failure to prevent the circulation of fake examination papers of NEET
+## Himachal forests worth ₹22,600 crore in bioeconomy, says report
+The bioeconomy is an economic model which, instead of relying on fossil-based fuel, uses renewable biological resources such as crops, forests, animals and micro-organisms to produce food, energy, materials and services
 
-## Private sector growth slips to 3-month low in June as demand, confidence cool, PMI shows
-New orders rose at their slowest ⁠pace since March amid competitive pressures and gas shortages
+## Global funds snap Indian stock selling streak as oil shock ebbs
+Global funds purchased almost $900 million of Indian shares last week following eight consecutive weeks of selling, according to Bloomberg estimates
+
+## Akasa Air targets 30% capacity boost this fiscal year
+Akasa said that its cost per ‌available seat kilometre fell 4% on the year and that margins improved by 60%
+
+## Trump waives sanctions on Iran crude oil: What it means for India
+As part of a broader package designed to provide economic relief to Iran, the US Treasury announced a sanctions waiver valid until August 21. The exemption allows Tehran to export oil and related products and receive payments for those sales.
+
+## Why Indians aren't giving up on SIPs despite muted market returns
+Despite a sluggish stock market and foreign investor sell-offs, Indian retail investors are consistently investing through SIPs, showing remarkable resilience. Monthly SIP inflows surged significantly, becoming the primary demand driver for domestic equities. This sustained participation, fueled by 
+
+## Message seen on WhatsApp: Kunal Shah gets real CRED from Meta
+Kunal Shah is an interesting choice, because WhatsApp does not need a leader to teach people how to send a message; it needs one who understands how trust, status, habit, and small transactions mutate inside closed networks, which is, almost exactly, the discipline CRED was built to practise.
+
+## El Nino woes: Why weak monsoon may turn out to be a bigger worry for India than US-Iran war
+A normal monsoon is important for several reasons - most of all for the way it feeds into the economy’s growth and inflationary routes. A below average monsoon impacts crop sowing and harvest, which in turn leads to prices of vegetables and staple food rising.
+
+## ITR filing FY 2025-26: How to calculate taxes under old income tax regime - explained
+For many people the old income tax regime continues to be attractive despite the new regime offering higher basic exemption and standard deduction, rebate limits and lower tax rates.
+
+## India taps US for cooking gas: LPG imports to cross 1 million tonnes amid Middle East disruption
+India's LPG imports from the US are set to hit a record 1 million tonnes in June, a significant shift driven by Middle Eastern supply disruptions. Despite higher costs, New Delhi is prioritizing uninterrupted cooking fuel for households. While traditional suppliers are gradually recovering, the US h
+
+## SEBI's new ease-of-business push: What may change for stock exchanges, brokers
+SEBI is embarking on a substantial reform of stock market regulations designed to simplify operational procedures and alleviate compliance burdens. This review focuses on consolidating rules, minimizing redundancies, and reallocating responsibilities among market infrastructure institutions. Major p
 
 ## Gold price prediction today: Why is gold not rising too much despite lower oil prices? Check June 23, 2026 outlook
 Gold price prediction today: A consistent rise in gold prices due to drop in oil prices is being constrained by hawkish outlook from central banks which are signalling a possible rate hike to keep inflationary pressures in check, says Praveen Singh, Head Currencies and Commodities, Mirae Asset Share
 
-## 'Foundation for a final deal': US hits pause on Iranian oil sanctions after nuclear push
-The US has temporarily lifted sanctions on Iranian oil for 60 days, allowing its production and sale. This move follows Iran's agreement to permit UN nuclear inspectors and ensure free passage through the Strait of Hormuz. Vice President JD Vance hailed the understanding as a crucial foundation for 
+## Massive dust storm hits Gurugram, Delhi; visibility drops sharply
+Dust storm hits Gurugram as IMD issues orange alert for Delhi-NCR.
 
-## Government seeks comparative advantage in US trade deal
+## Jaipur vendor blames cops for burns suffered during road clearance for CM convoy
+The vendor alleged police forced their way to remove street vendors on Jaipur’s Mahal Road to clear the route for chief minister Bhajanlal Sharma’s convoy
 
+## 'Stale material', no summons: Why ED arrests in Gameskraft PMLA case didn't hold up before Karnataka HC
+Karnataka high court's 134-page ruling explains why ED's power to arrest under Section 19 of the money laundering act has its limits.
 
-## At 0.5%, core sector grows at slowest pace in 7 months
+## Delhi, not Assam, to host India-Japan Summit amid schedule, logistics issues
+Japanese Prime Minister Sanae Takaichi is expected to make her first official visit to India during July 1-3 for the annual summit with PM Modi.
 
+## Central Vista parking facility likely to be operational by Oct-Nov 2026: Officials
+The ₹17.7-crore project, recently awarded by the Central Public Works Department, is scheduled to be completed within five months
 
-## Oil prices rebound as US-Iran peace hopes temper Hormuz supply fears
-On Tuesday, oil prices enjoyed a modest rise as they bounced back from a previous decline. Investors are tentatively hopeful about the ongoing US-Iran peace discussions, yet they remain cautious about the reopening of the Strait of Hormuz for crude exports. Despite early indicators showing improved 
+## SIT probing alleged Ram Temple donation embezzlement submits preliminary report
+Divisional commissioner Vijay Vishwas Pant said the SIT handed over its preliminary report to additional chief secretary (home) Sanjay Prasad
 
-## From IPO boom to bond debut: Elon Musk's SpaceX seeks funds for AI and starship
-SpaceX is tapping the bond market for the first time, seeking funds for its ambitious AI and next-gen space tech projects, even as it boasts over $100 billion in cash. This move allows capital raising without diluting shareholder control. The announcement comes amid a significant drop in SpaceX shar
+## SC declines hearing plea against ration denial linked to SIR in West Bengal
+The plea was mentioned by advocate Prasanna S on behalf of Paschim Banga Khet Majoor Samity, an agricultural workers’ union
 
-## Top stocks to buy today: Stock market recommendations for June 23, 2026 - check list
-Stock market recommendations: Delhivery, Lodha Developers, REC Ltd, and Indian Energy Exchange - these are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for June 23, 2026:
+## New twist in Pune man's death during Lohagad trek as fiancée, friend held for 'murder' | Key details
+Ketan Vishal Agarwal had gone to the Lohagad fort with his fiancée and two close friends to celebrate the birthday of his to-be bride.
 
-## Kunal Shah’s move: Rewarding bills to rewiring chats
-
-
-## Mumbai, Pune under IMD orange alert amid heavy pre-monsoon rain | Top weather updates
-A nascent revival of the southwest monsoon over Maharashtra will likely take it over Mumbai in the next 48 hours, IMD said on Monday.
-
-## Delhi’s Hauz Rani, Lucknow’s Aliganj: The science of electrical fires in summer
-The Hauz Rani fire claimed 23 lives. Weeks later, another blaze in Lucknow’s Aliganj killed 15. Both are suspected to have been caused by electrical faults.
-
-## Andy Burnham, 'King of the North', sworn in as MP hours after Starmer's exit; could become next UK PM as early as July
-Even though Keir Starmer set out a timeline for September while stepping down from PM office, Andy Burnham could also take office as early as July.
-
-## 'Explosions to continue': After 6 UBT rebels shift to Shinde Sena, a warning 'for more'
-Shinde, in the presser, said the six MPs who joined his faction had done so voluntarily and without any pressure.
-
-## Mamata Banerjee ‘replaced’ as TMC chairperson in biggest blow amid turmoil; rebels served show-cause notice
-TMC rebel faction on Monday "replaced" Mamata Banerjee as the chairperson and elected senior MLA Arup Roy to the post.
-
-## Who is George Kurian? BJP leader steps down as Union minister, President accepts resignation
-George Kurian's Rajya Sabha term had expired, following which he had to give up his ministerial post.
-
-## India-US trade deal talks: India wants preferential access through US deal, says Piyush Goyal
-The talks are focused on finalising a new tariff architecture after the US Supreme Court on Feb 20 invalidated the 18% reciprocal duty on bulk of Indian goods.
-
-## Proselytisation excluded from faith-based activities as govt amends FCRA rules
-The government has issued a series of amendments tightening the FCRA Rules for NGOs and associations in India on receiving and using foreign money
-
-## IELTS, TOEFL exam racket busted in Gujarat’s Anand, 1 held, search on for masterminds: Police
+## ‘Just a reel’: Vijay to those calling TVK an ‘actor’s party’, says didn’t get power easy
 
 
-## Will Cristiano Ronaldo start in Uzbekistan match? Portugal coach refuses to answer
+## 75-year-old woman beaten to death in Bengaluru; daughter, grandson arrested
 
 
-## From Nimbalkar to Siddique: Murders of political leaders and long legal battles in Maharashtra
+## A software engineer, a 10-rupee question, and a website that tracks everyday corruption in Tamil Nadu
 
 
-## Assam HSLC Compartment Result 2026 (Out): How to check scorecards at sebaonline.org
+## Uniform Civil Code in Maharashtra: Panel led by retired judge to prepare draft
 
 
-## Uttarakhand transfers probe into Karnaprayag clash involving Sikh pilgrims
+## Lima named best city for food in 2026 report, Bengaluru hits #13 spot: Top 10 list
 
 
-## That morning ‘jhatka’ could be stressing your spine, experts warn
+## CUET UG 2026 results out, 22 secure 100 percentile scores in 3 subjects
 
 
-## CUET UG Result 2026 Date: NTA likely to declare result this week
+## Ashwin on Sooryavanshi incident in India A tri-series: ‘How can anyone hate him’
 
 
-## ‘I didn’t care’: Mouni Roy, 40, on getting hate for playing 39-year-old Varun Dhawan’s mom
+## Expert Explains | Ten years after referendum, how Brexit has reshaped UK’s economy and politics
 
+
+## Access to global network of business experts and investors sets EQT Impact Challenge apart
+Amid a growing number of business pitch competitions aimed at early-stage companies and start-ups, the EQT Impact Challenge continues to stand apart for a number of key reasons. Foremost among them is that every year the winner receives much more than simply a generous financial award and supportive
+
+## Hong Kong recorded ‘robust’ growth in ultra-wealthy class in 2025: Altrata
+Hong Kong recorded explosive growth in its population of ultra-wealthy residents last year thanks to an equity-market revival, real estate and investment reforms, and rising demand for wealth-management services, according to a recent study. The city’s headcount of ultra-high-net-worth (UHNW) indivi
+
+## Alibaba chip unit T-Head triples capital amid AI hardware bet
+Alibaba Group Holding’s chip design unit T-Head has more than tripled its capital base, as the tech giant doubles down on efforts to become a domestic semiconductor powerhouse amid the artificial intelligence boom and China’s chip self-sufficiency drive. Shanghai-headquartered T-Head last week incre
+
+## China’s EV brands have Europe’s luxury marques in their sights: Zeekr executive
+Luxury electric vehicle (EV) brands from China are poised to enter the same elite tier as established European marques by leveraging their disruptive technologies, according to Chinese EV maker Zeekr. “There is a gap between the demand for electric luxury cars and the supply, where Chinese carmakers
 
 ## Momenta granted regulatory approval to list in Hong Kong amid rumoured crackdown
-Momenta, a leading self-driving technology start-up in China, became the latest domestic firm that is incorporated offshore, but got regulatory approval from Beijing to list in Hong Kong. It is over four months after the last nod to an applicant with a similar structure, the vetting of which was rum
+Momenta, a leading self-driving technology start-up in China, has become the latest domestic firm to receive regulatory approval for listing in Hong Kong under an entity incorporated offshore. The nod comes over four months after the last green light given to an applicant with a similar structure. T
 
 ## After Beijing’s food-safety warning, will Sam’s Club slow its China expansion?
 US membership-only retailer Sam’s Club has quickly overhauled its leadership after Beijing summoned executives over “frequent food-safety issues”, which raised questions about whether the chain would slow its nationwide expansion to focus on building more localised and responsive supply chains, acco
 
 ## China moves to raise penalties on auditors as anti-fraud campaign deepens
-China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading at the 23rd session of the Standing Committe
+China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading by the National People’s Congress Standing C
 
 ## How are Chinese firms faring as AI and tech reshape global market cap rankings?
 China’s state-owned banks and energy majors – once shoulder to shoulder with American firms at the top of market capitalisation rankings – have fallen behind as AI and technology companies capture the imagination of global investors, redirecting capital and reshaping the global corporate order. As o
-
-## European Central Bank’s President Lagarde urges talks on yuan undervaluation
-European Central ⁠Bank President Christine Lagarde ⁠on Monday urged global leaders to discuss undervaluation of the Chinese currency as a facet of the imbalances endangering the global economy. China has ‌consistently denied that it manipulates its currency for trade advantage but its surging trade 
-
-## Hard work and endurance: what Alibaba’s team-building says about its AI drive
-An Alibaba Group Holding executive has urged hard work and endurance in an internal blog post after founder Jack Ma Yun and top executives gathered for a rice-planting team-building event, as the Chinese tech giant sharpens its artificial intelligence strategies. “The laws of the fields are very sim
-
-## The panda bonds: how China uses assets to boost yuan’s profile, cement partnerships
-Brazil is set to become the latest major economy to issue panda bonds – yuan-denominated debt sold in the Chinese market – joining a growing group of countries that has embraced assets backed by China’s currency as a means of fundraising. According to analysts, the participation of Brazil – a foundi
-
-## Why a Chinese renewables giant is pondering a majority localisation in Europe
-Chinese renewable energy giant Envision is planning further localisation efforts in Europe, with the ambition to eventually source more than half its supply chain locally for the European market. “We are working within the European system, with the Europeans, manufacturing in Europe, for Europe, wit
 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
@@ -183,6 +183,12 @@ Will America join the long line of countries confronting defeat with self-delusi
 ## Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
 A market maestro to some, he was criticized by others—including himself—for having too much faith in self-regulating markets.
 
+## Bangladeshi PM Tarique Rahman Asks Malaysia to Lift Restrictions on Labor Migration
+Kuala Lumpur has recently tightened the intake of Bangladeshi workers due to concerns about abuse, debt bondage, and excessive recruitment fees.
+
+## Uyghurs Wonder: Does the US Still Care About Human Rights in China?
+After a disappointing Trump-Xi summit, Uyghurs in the United States are divided on Washington’s commitment to ending abuses in China.
+
 ## Inside the Taliban’s New Military Formation on the Durand Line
 Amid a simmering conflict with Pakistan, Taliban Supreme Leader Hibatullah Akhundzada approved the creation of a new 4,000-member military formation known as the Hebati Unit.
 
@@ -201,11 +207,8 @@ Central Asia and the EU can deepen cooperation on food, energy, and logistics to
 ## The AI Dimension of India’s Act East Policy
 For India’s AI vision to succeed, it will need to partner with East Asian countries. That makes AI diplomacy central to the AEP.
 
-## Strategic Affairs Expert Aleksei Zakharov on the Russia-Taliban Defense Deal
-Besides “restoration of various Russian-made military equipment,” the Taliban regime may be keen on “Russian air defense systems” and “attack and surveillance drones” for use in conflicts with Pakistan.
-
-## Why Indian Women Are Being Driven to Suicide
-Harassment for dowry and failure to produce male heirs are forcing women to take their lives.
+## A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy
+In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy paired with a military strategy and Plan for
 
 ## Is There a Place in Ukrainian Media for War Skeptics?
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -227,9 +230,6 @@ A mentor of mine, a superb scholar, once told me that good defense analysis star
 
 ## Good Medicine Is Combat Power: Clinical Innovation and the Lessons of the Russo-Ukrainian War
 War is a brutal driver of medical innovation. Russia’s full-scale invasion of Ukraine has forced clinicians and commanders alike to confront a hard truth: Survival depends not only on tactics and technology, but on the ability to deliver advanced care under fire, evacuate and resuscitate the wounded
-
-## Macron’s Nuclear Gamble: Building a European Deterrent Faster Than French Politics Can Tear Down
-In early March, French President Emmanuel Macron stood at a windswept submarine base on the Breton coast and quietly buried four decades of French nuclear orthodoxy. The arsenal would grow. The numbers would be hidden. And for the first time, nuclear weapons that France built to defend Paris might o
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Football offers escape for Gaza, but World Cup spirit dimmed
-Palestinians in Gaza struggle to find World Cup joy amid displacement, power outages, and memories of previous lives.
+## Kane, England play Ghana at the World Cup: prediction, team news, lineups
+Harry Kane's England and Ghana meet in the 2026 FIFA World Cup Group L, with the winner advancing to the round of 32.
 
-## Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder
-Al Jazeera cameraman killed in Gaza, West Bank mosques torched, as Israeli officials describe attempt to expand control.
+## Iran says technical talks with US in Switzerland conclude successfully
+Iran's top negotiator Mohammad Ghalibaf also says an agreement reached with the US to release $12bn in frozen assets.
 
-## Algeria come from behind to win 2-1, knock Jordan out of World Cup
-Goals from Nadhir Benbouali and Amine Gouiri steered Algeria to a 2-1 win over Jordan in Group J.
+## Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry
+United Nations Commission of Inquiry says Israel's 'deliberate targeting' of Gaza children part of ongoing 'genocide'.
 
-## Colombia’s leftist presidential candidate vows to challenge election result
-Colombia’s leftist presidential candidate Ivan Cepeda has vowed to challenge the results of the presidential runoff.
+## About 20 drown in France trying to escape heatwave sweeping much of Europe
+France struggles with extreme heat and power grid challenges as temperature records also smashed in parts of UK, Spain.
 
-## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
-The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+## Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds
+US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.
 
-## Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza
-Latin Patriarch of Jerusalem, Cardinal Pizzaballa visited Gaza in a show of solidarity with its Christian community.
+## US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker
+Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman.
 
-## Iraq fans ‘proud’ and joyful despite World Cup loss to France
-Iraqis in Philadelphia weather Mbappe and a storm, but still find happiness in their team's FIFA World Cup performance.
+## What to know about Tuesday’s primary elections in Maryland, Utah, New York
+Redistricting will be central to Democratic primaries in Utah and Maryland while South Carolina faces Republican run-off.
 
-## Bullying investigated after rare Philippines school shooting kills three
-Three students are killed and seven others wounded after a rare school shooting in the central Philippines.
+## How a dead extremist Rabbi still shapes Israeli politics today
+How a dead extremist Rabbi still shapes Israeli politics today
 
 ## CFOs deserve C-Suite salaries, but they must build skills to command them, says ACCA's Lucia Real Martin
 CFOs must actively earn their higher salaries by mastering communication, strategic judgment, and ethics, moving beyond technical skills. ACCA's Lucia Real Martin emphasises that finance chiefs need to become 'Chief Value Officers,' driving digital transformation and sustainability. While AI sparks 
@@ -285,7 +285,7 @@ CFOs must actively earn their higher salaries by mastering communication, strate
 ## Financial Governance: The Bedrock We Keep Ignoring
 As corporate failures from Rajesh Exports to IL&FS expose recurring governance breakdowns, are India's boards, CFOs, auditors and audit committees truly fulfilling their fiduciary responsibilities? Ashok Haldia, former Secretary of ICAI, examines why financial governance remains the weakest link in 
 
-## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
+## Exclusive: Otis Elevator India appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
 
 ## Big Four firms' India operations shine amid global slump
