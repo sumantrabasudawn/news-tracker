@@ -1,67 +1,82 @@
 # AION Intelligence
 
+## Labour MPs consider backing challenger to Burnham
+Favourite for next prime minister due to deliver speech on economic policy next week
+
+## The Three AImigos versus The Magnificent Seven
+Attention Markets Hypothesis > Efficient Markets Hypothesis
+
 ## Big Tech leads sell-off in global stocks
 Declines on Wall Street reverberate across global markets as SpaceX rally reverses
 
-## Peter Murrell sentenced to five years for embezzling SNP funds
-Estranged husband of Nicola Sturgeon pleaded guilty to charges last month
+## Starmer risks clash with Burnham over defence funding plan
+Likely successor to prime minister wants to review long-awaited military investment plan
 
-## Labour MPs consider backing challenger to Andy Burnham
-Favourite for next prime minister due to deliver speech on economic policy next week
+## HMRC poised to reveal tax charge in new Isa rules
+Interest earned from cash held in stocks-and-shares Isas will face 22 per cent tax rate
 
-## Labour’s Burnham sceptics don’t have the numbers to stop him
-Some in parliamentary party want a leadership contest but there is not yet a clear challenger with sufficient backing
+## Ten tensions in the Kevin Warsh Fed
+Task forces cannot find simple solutions to fundamental trade-offs
 
-## UK ‘irritated’ by EU move to delay key summit after Starmer’s resignation
-July meeting about closer relations postponed as Brussels prepares for prospect of Burnham becoming PM
+## Zelenskyy may get the last laugh over Trump
+Ukraine’s president increasingly looks as if he holds the future of the west in his hands
 
-## Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years
-China Resources New Energy Holdings attracts strong interest from retail investors ahead of Shenzhen debut
+## Parents fund aircon for schools as UK heatwave forces classes to end early
+Teaching unions warn that many buildings are not equipped to deal with extreme weather events
 
-## Germany seeks to set up Swedish-style public pension fund
-Chancellor Friedrich Merz backs proposal of investing a share of pension contributions in capital markets
+## Could the energy shock kick-start green steelmaking?
+Also in today’s newsletter: global gas flaring jumps to highest level since 2019
 
-## US and Qatar claim EU methane rules will trigger gas supply crunch
-Warning comes ahead of EU energy ministers meeting — but is disputed by industry experts
+## Airbus and Leonardo call for European space champion to take on SpaceX
+Brussels urged to approve three-way merger with Thales, as groups prepare EU filing
+
+## FirstFT: Global markets slump as tech sell-off deepens
+SpaceX shares tumble after its blockbuster debut, also sending Asian and European markets downwards
 
 ## Auditor to Gupta steel empire fined and banned over ‘egregious’ failures
 UK watchdog finds King & King guilty of ‘pervasive breaches’ and of failing to perform audits with ‘independence’
 
+## Renewable energy group to raise $3.6bn in China’s biggest IPO for 4 years
+China Resources New Energy Holdings attracts strong interest from retail investors ahead of Shenzhen debut
+
+## US and Qatar claim EU methane rules will trigger gas supply crunch
+Warning comes ahead of EU energy ministers meeting — but is disputed by industry experts
+
 ## StubHub UK ordered to pay £1.5mn penalty for ‘drip pricing’
 Ticket seller fined by competition watchdog for failing to include additional charges in prices advertised to customers
 
-## Heineken taps coffee executive to tackle sliding beer sales
-JDE Peet’s boss Rafael Oliveira will be first outsider to take charge of Dutch brewer after fraught succession process
+## Nikhil Kamath sees energy transition stocks as key India bet
+IT sector, among the worst performers in equity market, is one of Kamath’s contrarian bets
 
-## SpaceX sheds $400bn in market value as debut rally hits reverse
-Shares in Elon Musk’s AI and rockets group tumble more than 16% following fresh rise in US bond yields
+## UK-India Week opens in the West Midlands with IGF Smarter Regions Forum
+UK-India Week opens in the West Midlands with IGF Smarter Regions Forum
 
-## Nissan shareholders vote out director who backed merger with Honda
-Former Mizuho executive Motoo Nagai fails to receive approval for reappointment after Renault abstains
+## ChinaMarket has embarked on a global journey
+ChinaMarket has embarked on a global journey
 
-## CRED to Raise INR 8,550 Crore (~USD 900M) From Meta
-India, Bengaluru – Business Wire India
+## Monsoon enters Mumbai after a fortnight, eyes Gujarat and UP next
+For Central India, ongoing week (June 22-29) and the one that follows (June 29-July 6) may offer best opportunity for sowing; prospects during July 13-20 are less encouraging
 
-## Policy Advisors Club (PAC) Marks Its First Niti Parv, Honouring Merit in Public Policy and Celebrating Policy Professionals
-A landmark gathering of policy makers, governance leaders, and change catalysts, anchored by the inaugural Niti Parv Awards and a tribute to Policy Advisors Day
+## Aluminium futures breach a support
+Traders can go short
 
-## Sensex today | Stock Market Live Updates: Sensex drops 650 pts, Nifty below 23,900 as IT, metal stocks weigh
-Sensex Today, Nifty 50 | Stock Market Live Updates: Domestic benchmark indices extended losses in afternoon trade on Tuesday after flat opening, with IT and metal stocks dragging the market despite easing geopolitical tensions in West Asia. Investors turned cautious after the recent rally, while att
+## ED searches against Rajesh Exports after SEBI scrutiny
+Premises in Bengaluru and Mumbai linked to the company are being covered
 
-## Adani Group to invest about ₹1 lakh crore across airports in next 5 years; Mundra commercial operations take off
-Mundra airport launches commercial flights to Mumbai and Goa with Star Air under UDAAN scheme
+## RBI issues final norms for TReDS platforms to boost MSME financing
+The new framework simplifies onboarding and enables financiers to access credit guarantees
 
-## SIP drives India's capital despite weak equity returns: JP Morgan
-Domestic retail participation resilient even as FPIs sell $36 billion worth of Indian equities in FY25-26
+## NLC India, Indian Oil join hands for solar, wind and storage projects in Tamil Nadu
+The collaboration will focus on solar, wind, hybrid power and energy storage solutions, including battery and pumped storage systems, strengthening India’s clean energy transition
 
-## Himachal forests worth ₹22,600 crore in bioeconomy, says report
-The bioeconomy is an economic model which, instead of relying on fossil-based fuel, uses renewable biological resources such as crops, forests, animals and micro-organisms to produce food, energy, materials and services
+## From record highs to a sharp fall: South Korea’s market plunged 10%, here's why
+South Korea's stock market experienced a dramatic plunge, with the KOSPI tumbling nearly 10% after hitting record highs. Investors rushed to sell chip stocks, particularly Samsung Electronics and SK Hynix, amid concerns of excessive speculation and the impact of leveraged investment products. This s
 
-## Global funds snap Indian stock selling streak as oil shock ebbs
-Global funds purchased almost $900 million of Indian shares last week following eight consecutive weeks of selling, according to Bloomberg estimates
+## FOMO about US stock market? How Indians can invest - routes, benefits, risks & tax implications explained
+Apple, Microsoft, Nvidia and Amazon don’t trade on Indian exchanges, and for investors looking to diversify beyond the rupee and beyond Indian equities, the US market remains the deepest and most liquid in the world.
 
-## Akasa Air targets 30% capacity boost this fiscal year
-Akasa said that its cost per ‌available seat kilometre fell 4% on the year and that margins improved by 60%
+## Why did stock market crash today? BSE Sensex closes almost 900 points down - top reasons for fall
+Around Rs 4.61 lakh crore in investor wealth was wiped as the combined market capitalisation of BSE-listed companies dropped to about Rs 475 lakh crore. BSE Sensex ended around 900 points down, dropped to levels just above 76,200. Nifty50 also dropped below 23,850.
 
 ## Trump waives sanctions on Iran crude oil: What it means for India
 As part of a broader package designed to provide economic relief to Iran, the US Treasury announced a sanctions waiver valid until August 21. The exemption allows Tehran to export oil and related products and receive payments for those sales.
@@ -78,68 +93,62 @@ A normal monsoon is important for several reasons - most of all for the way it f
 ## ITR filing FY 2025-26: How to calculate taxes under old income tax regime - explained
 For many people the old income tax regime continues to be attractive despite the new regime offering higher basic exemption and standard deduction, rebate limits and lower tax rates.
 
-## India taps US for cooking gas: LPG imports to cross 1 million tonnes amid Middle East disruption
-India's LPG imports from the US are set to hit a record 1 million tonnes in June, a significant shift driven by Middle Eastern supply disruptions. Despite higher costs, New Delhi is prioritizing uninterrupted cooking fuel for households. While traditional suppliers are gradually recovering, the US h
+## ‘Left home late, took wrong route’: Bengaluru cops on why NEET aspirant was late
+In a statement posted on X, the traffic police said CCTV footage confirmed the student had departed “only 33 minutes before the cut off time”
 
-## SEBI's new ease-of-business push: What may change for stock exchanges, brokers
-SEBI is embarking on a substantial reform of stock market regulations designed to simplify operational procedures and alleviate compliance burdens. This review focuses on consolidating rules, minimizing redundancies, and reallocating responsibilities among market infrastructure institutions. Major p
+## TMC expels Firhad Hakim, Arup Roy, 6 others after rebel faction unveils parallel leadership
+Earlier in the day, the All India Trinamool Congress (AITC) issued show-cause notices to the leaders, accusing them of indulging in anti-party activities.
 
-## Gold price prediction today: Why is gold not rising too much despite lower oil prices? Check June 23, 2026 outlook
-Gold price prediction today: A consistent rise in gold prices due to drop in oil prices is being constrained by hawkish outlook from central banks which are signalling a possible rate hike to keep inflationary pressures in check, says Praveen Singh, Head Currencies and Commodities, Mirae Asset Share
+## How fiancee, lover conspired to kill Pune man in Lohagad fort after 'failing first attempt'
+The fiancee did not want to marry Ketan Agrawal and saw him as an obstacle to her relationship with her lover. The duo then allegedly plotted to kill him.
 
-## Massive dust storm hits Gurugram, Delhi; visibility drops sharply
-Dust storm hits Gurugram as IMD issues orange alert for Delhi-NCR.
+## Eknath Shinde's ‘zor ka jhatka’ jibe at Shiv Sena UBT day after Raut's 'gave birth to traitors' swipe
+Maharashtra deputy chief minister Eknath Shinde said those who boycotted the proceedings were wasting the House's time with "meaningless chatter".
 
-## Jaipur vendor blames cops for burns suffered during road clearance for CM convoy
-The vendor alleged police forced their way to remove street vendors on Jaipur’s Mahal Road to clear the route for chief minister Bhajanlal Sharma’s convoy
+## Rajasthan Police arrest 2 Bengal men for siphoning off minority scholarship funds
+Police superintendent Harsh Vardhan Agarwala said the action followed a complaint from Ajmer’s minority welfare officer
 
-## 'Stale material', no summons: Why ED arrests in Gameskraft PMLA case didn't hold up before Karnataka HC
-Karnataka high court's 134-page ruling explains why ED's power to arrest under Section 19 of the money laundering act has its limits.
+## ‘Covering up its own failings’: India shreds Pakistan's 'will go to war' remarks over Indus Waters Treaty
+Khwaja Asif's remarks came after India had said that its decision to keep the Indus Waters Treaty in abeyance would remain "unchanged".
 
-## Delhi, not Assam, to host India-Japan Summit amid schedule, logistics issues
-Japanese Prime Minister Sanae Takaichi is expected to make her first official visit to India during July 1-3 for the annual summit with PM Modi.
+## Mamata, Uddhav, Kejriwal have one big question. The answer may come via Goa
+What's the definition of a ‘party’? Are MPs are MLAs alone enough for merger? These are questions that may need further definitive answers from SC.
 
-## Central Vista parking facility likely to be operational by Oct-Nov 2026: Officials
-The ₹17.7-crore project, recently awarded by the Central Public Works Department, is scheduled to be completed within five months
+## Anna Hazare warns of hunger strike from July 5 over Maharashtra RTI rules: Changes, objections explained
+Anna Hazare has threatened to launch an indefinite hunger strike from July 5 if the Maharashtra government does not withdraw the amendments to the RTI rules.
 
-## SIT probing alleged Ram Temple donation embezzlement submits preliminary report
-Divisional commissioner Vijay Vishwas Pant said the SIT handed over its preliminary report to additional chief secretary (home) Sanjay Prasad
-
-## SC declines hearing plea against ration denial linked to SIR in West Bengal
-The plea was mentioned by advocate Prasanna S on behalf of Paschim Banga Khet Majoor Samity, an agricultural workers’ union
-
-## New twist in Pune man's death during Lohagad trek as fiancée, friend held for 'murder' | Key details
-Ketan Vishal Agarwal had gone to the Lohagad fort with his fiancée and two close friends to celebrate the birthday of his to-be bride.
-
-## ‘Just a reel’: Vijay to those calling TVK an ‘actor’s party’, says didn’t get power easy
+## Trump claims Iran ‘fully agreed’ to nuclear inspections, but Tehran sharply fires back
 
 
-## 75-year-old woman beaten to death in Bengaluru; daughter, grandson arrested
+## Why Netanyahu now wants Israel to be less dependent on US weapons
 
 
-## A software engineer, a 10-rupee question, and a website that tracks everyday corruption in Tamil Nadu
+## ‘Not even beggars are safe from AI’: Humanoid robot asks for money to pay bills
 
 
-## Uniform Civil Code in Maharashtra: Panel led by retired judge to prepare draft
+## Shwetha Menon drops bombshell on cine body, claims Mohanlal panel’s accounts ‘all wrong’
 
 
-## Lima named best city for food in 2026 report, Bengaluru hits #13 spot: Top 10 list
+## Daughter found in Canada, NRI from Ludhiana cleared in a second murder charge
 
 
-## CUET UG 2026 results out, 22 secure 100 percentile scores in 3 subjects
+## NEET aspirant from Bokaro becomes CBSE Class 12 Science topper after Biology re-evaluation
 
 
-## Ashwin on Sooryavanshi incident in India A tri-series: ‘How can anyone hate him’
+## Kunal Shah to become WhatsApp CEO: What CRED-Meta deal means for India’s fintech sector
 
 
-## Expert Explains | Ten years after referendum, how Brexit has reshaped UK’s economy and politics
+## Padma Awards 2026: Mammootty, Alka Yagnik receive Padma Bhushan
 
+
+## China’s CATL bets big on sodium-ion batteries to navigate lithium price volatility
+China’s Contemporary Amperex Technology Ltd (CATL), the world’s top lithium-ion battery maker, plans a major boost in production of sodium-based cells, a move that will help it navigate volatility in material prices while affecting both the electric vehicle (EV) and grid-storage sectors. The company
 
 ## Access to global network of business experts and investors sets EQT Impact Challenge apart
 Amid a growing number of business pitch competitions aimed at early-stage companies and start-ups, the EQT Impact Challenge continues to stand apart for a number of key reasons. Foremost among them is that every year the winner receives much more than simply a generous financial award and supportive
 
-## Hong Kong recorded ‘robust’ growth in ultra-wealthy class in 2025: Altrata
-Hong Kong recorded explosive growth in its population of ultra-wealthy residents last year thanks to an equity-market revival, real estate and investment reforms, and rising demand for wealth-management services, according to a recent study. The city’s headcount of ultra-high-net-worth (UHNW) indivi
+## Growth of Hong Kong’s ultra-wealthy class outpaces super-rich rivals in 2025: Altrata
+Hong Kong recorded the fastest growth rate in ultra-wealthy residents among the cities with the 10 largest super-rich populations, an expansion researchers attributed to an equity-market revival, real estate and investment reforms, and rising demand for wealth-management services. The city’s headcou
 
 ## Alibaba chip unit T-Head triples capital amid AI hardware bet
 Alibaba Group Holding’s chip design unit T-Head has more than tripled its capital base, as the tech giant doubles down on efforts to become a domestic semiconductor powerhouse amid the artificial intelligence boom and China’s chip self-sufficiency drive. Shanghai-headquartered T-Head last week incre
@@ -156,8 +165,14 @@ US membership-only retailer Sam’s Club has quickly overhauled its leadership a
 ## China moves to raise penalties on auditors as anti-fraud campaign deepens
 China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading by the National People’s Congress Standing C
 
-## How are Chinese firms faring as AI and tech reshape global market cap rankings?
-China’s state-owned banks and energy majors – once shoulder to shoulder with American firms at the top of market capitalisation rankings – have fallen behind as AI and technology companies capture the imagination of global investors, redirecting capital and reshaping the global corporate order. As o
+## Is the MOU a Treaty or Not? And Why Should We Care?
+Confusing language in the U.S.-Iran cease-fire agreement makes its legal status unclear.
+
+## How America Made the Mafia
+Organized crime and U.S. global influence in the 20th century.
+
+## From Bloody Kansas to the Rebuilding of Europe
+In trying to restore order after World War II, U.S. leaders drew lessons from a dark chapter in their country’s history.
 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
@@ -173,15 +188,6 @@ Aging stars and local fans dominate as Europeans stay home.
 
 ## How the Iran Deal Sets the Stage for More Conflict
 As his Gaza agreement has shown, Trump is better at fanfare than follow-up.
-
-## The White House’s New Pro-Ukraine Tone Shift
-Ukrainian gains on the battlefield may be propelling a mood change among top U.S. officials.
-
-## Trump Tests the Limits of Farcepolitik
-Will America join the long line of countries confronting defeat with self-delusion?
-
-## Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
-A market maestro to some, he was criticized by others—including himself—for having too much faith in self-regulating markets.
 
 ## Bangladeshi PM Tarique Rahman Asks Malaysia to Lift Restrictions on Labor Migration
 Kuala Lumpur has recently tightened the intake of Bangladeshi workers due to concerns about abuse, debt bondage, and excessive recruitment fees.
@@ -255,29 +261,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Kane, England play Ghana at the World Cup: prediction, team news, lineups
-Harry Kane's England and Ghana meet in the 2026 FIFA World Cup Group L, with the winner advancing to the round of 32.
+## Arab fans celebrate World Cup results in New York
+Arab fans have come together in New York to show support for all Arab teams at the World Cup.
 
-## Iran says technical talks with US in Switzerland conclude successfully
-Iran's top negotiator Mohammad Ghalibaf also says an agreement reached with the US to release $12bn in frozen assets.
+## Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry
+UN commission of inquiry says Israel's deliberate targeting of Palestinian children in Gaza resulted in genocide.
 
-## Israel’s deliberate targeting of Gaza children part of genocide: UN inquiry
-United Nations Commission of Inquiry says Israel's 'deliberate targeting' of Gaza children part of ongoing 'genocide'.
+## NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC
+Zohran Mamdani says AIPAC's has been supportive of a 'status quo for immorality' in Palestine, wider region.
 
-## About 20 drown in France trying to escape heatwave sweeping much of Europe
-France struggles with extreme heat and power grid challenges as temperature records also smashed in parts of UK, Spain.
+## Why is Israel being accused of meddling in Colombia presidential election?
+President Gustavo Petro claims digital manipulation affected the results, but attorney general dismisses allegations.
 
-## Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds
-US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.
+## How does air conditioning work, and how does it affect your body?
+While AC keeps us cool, it can also cause dry skin and irritation. Here are some tips to keep comfortable this summer.
 
-## US gov’t investigates New York coffee chain over ban on pro-Israel lawmaker
-Top civil rights prosecutor announces probe after cafe chain says it will not serve Democratic lawmaker Dan Goldman.
+## Mamdani defends AIPAC ‘monsters’ comment
+New York City Mayor Zohran Mamdani has defended calling AIPAC ‘monsters’.
 
-## What to know about Tuesday’s primary elections in Maryland, Utah, New York
-Redistricting will be central to Democratic primaries in Utah and Maryland while South Carolina faces Republican run-off.
+## Iran’s President Pezeshkian lands in Pakistan after US deal
+Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.
 
-## How a dead extremist Rabbi still shapes Israeli politics today
-How a dead extremist Rabbi still shapes Israeli politics today
+## Watch World Cup Day 12: Argentina, France advance to knockouts; Jordan out
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
+Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
 
 ## CFOs deserve C-Suite salaries, but they must build skills to command them, says ACCA's Lucia Real Martin
 CFOs must actively earn their higher salaries by mastering communication, strategic judgment, and ethics, moving beyond technical skills. ACCA's Lucia Real Martin emphasises that finance chiefs need to become 'Chief Value Officers,' driving digital transformation and sustainability. While AI sparks 
@@ -299,9 +308,6 @@ He expressed strong confidence, citing progress and the impact of free trade agr
 
 ## Dealmaking stays strong as startup M&A momentum carries into 2026
 Indian startups are experiencing a surge in M&A exits, particularly in consumer, fintech, and ecommerce sectors, signalling a robust recovery in dealmaking. Major acquisitions by L'Oréal and Marico have been the latest in this trend, with strategic buyers increasingly seeking to integrate new capabi
-
-## PE firms, mid-market companies drive India’s new GCC wave
-India's Global Capability Centre (GCC) landscape is shifting, with private equity-backed and mid-market firms now driving significant expansion. These companies are leveraging GCCs beyond cost savings to build advanced capabilities in AI and engineering, creating substantial value for their portfoli
 
 ## 'Gulf uncertainty prompted RBI wait and watch policy'
 The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
