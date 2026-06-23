@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## AI money floods NY primary race in test of Big Tech’s political power
+Donors target pro-regulation Democrat Alex Bores in race against Kennedy scion Jack Schlossberg
+
+## US chipmakers lead Wall Street slide on rate rise worries
+Nasdaq declines for second day with companies such as Nvidia under pressure
+
+## Acclaimed bankruptcy lawyer James Sprayregen set to join Paul Weiss
+Former Kirkland & Ellis partner helped turn firm into a restructuring powerhouse
+
 ## Alibaba sues Pentagon over inclusion on Chinese military blacklist
 Ecommerce giant claims US defence department’s ‘arbitrary and capricious’ decision lacked evidence
 
 ## SpaceX pitches investors juicy yields in $25bn bond deal
 Bankers upsize offering after high borrowing costs lure investors
-
-## US chipmakers lead Wall Street slide on rate rise worries
-Nasdaq declines for second day with companies such as Nvidia under pressure
 
 ## UK tax loophole used by Shein will not be closed until October 2028
 Retailers say slow pace of action undermines efforts to rejuvenate high streets
@@ -18,17 +24,14 @@ Likely successor to prime minister wants to review long-awaited military investm
 ## Burnham set to demote Reeves to lesser cabinet role
 Britain’s probable next prime minister expected to give backroom roles to Manchester allies
 
-## Eli Lilly and Bayer hit out at Germany’s spending on new medicines
-Pharma groups indicate support for US pushback on legislation to lower drug prices
+## Drone start-up Stark wins more funding from Peter Thiel-backed firm
+US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
 
-## US Supreme Court limits scope of foreign human rights claims
-Justices refuse to consider complaint alleging Cisco enabled Chinese surveillance of banned religious group
+## How to surf turbulent markets
+Is the wild ride worth it?
 
 ## EG Group files plan for US listing that could raise $1bn
 IPO could value UK-based petrol station empire at more than $9bn
-
-## SpaceX tests its reality-warping powers on the bond market
-For some buyers, a solid rating can act as permission to buy; the lack of one can put a security off limits
 
 ## Dining-out emerges as new growth battleground for Swiggy, Eternal
 Both companies reporting strong momentum in the segment over the past year.
@@ -54,8 +57,17 @@ Following the sale, Twin Star will hold about 40 per cent of Vedanta Ltd, while 
 ## Haryana police files FIR over alleged pressure to declare Punjab CM Mann’s controversial video as ‘fake’
 A complaint to Gurugram police was lodged against senior officer of the Punjab government, private individuals Arun Mahendru and Ankit, and others by Jasprit alias Jassi
 
+## Overseas branches can lend to NRIs for deposits in India
+RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee
+
+## Square Yards turns unicorn with 900 crore fundraise
+
+
 ## India–US trade deal may be signed before July 24: What’s done and remaining for agreement
 India and the US are nearing a trade deal, with negotiators meeting in New Delhi to finalize an interim pact before July 24. Discussions aim to recalibrate the agreement following recent US tariff policy shifts. Both nations are pushing for a fair and reciprocal deal that benefits American exporters
+
+## Sensex slides 900 points as global tech sell-off weighs
+
 
 ## Iran rushes to sell oil to India after Trump sanctions waiver - all you need to know
 Data from Vortexa, combined with Bloomberg calculations, show that around 68 million barrels of crude and condensate were floating at sea as of June 22. More than 80% of that volume does not appear to have a confirmed destination, potentially making it available for sale.
@@ -68,15 +80,6 @@ India's energy sector is closely watching the Strait of Hormuz situation, highli
 
 ## From record highs to a sharp fall: South Korea’s market plunged 10%, here's why
 South Korea's stock market experienced a dramatic plunge, with the KOSPI tumbling nearly 10% after hitting record highs. Investors rushed to sell chip stocks, particularly Samsung Electronics and SK Hynix, amid concerns of excessive speculation and the impact of leveraged investment products. This s
-
-## FOMO about US stock market? How Indians can invest - routes, benefits, risks & tax implications explained
-Apple, Microsoft, Nvidia and Amazon don’t trade on Indian exchanges, and for investors looking to diversify beyond the rupee and beyond Indian equities, the US market remains the deepest and most liquid in the world.
-
-## Why did stock market crash today? BSE Sensex closes almost 900 points down - top reasons for fall
-Around Rs 4.61 lakh crore in investor wealth was wiped as the combined market capitalisation of BSE-listed companies dropped to about Rs 475 lakh crore. BSE Sensex ended around 900 points down, dropped to levels just above 76,200. Nifty50 also dropped below 23,850.
-
-## Trump waives sanctions on Iran crude oil: What it means for India
-As part of a broader package designed to provide economic relief to Iran, the US Treasury announced a sanctions waiver valid until August 21. The exemption allows Tehran to export oil and related products and receive payments for those sales.
 
 ## Gaurav Gogoi, Priyank Kharge among 28 leaders to address ‘Chhatron Ki Goonj’ press conferences across India
 The campaign seeks resignation of Union Education Minister Shri Dharmendra Pradhan.
@@ -126,6 +129,9 @@ The initiative aims to convert neglected and underutilised waterfront areas into
 ## Rs 10 lakh medical cover per family in new scheme for construction workers in Delhi
 
 
+## US Anthropic ban is best advert for Chinese AI
+Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artificial intelligence (AI) models from Anthropic, a pioneering American firm in the field. Goldman Sachs and JPMorgan Chase pulled the plug in April and last week respectively
+
 ## The Intelligence Revolution: Redefining Out-of-Home Media in Hong Kong
 [The content of this article has been produced by our advertising partner.] In Hong Kong, a city that famously moves at the speed of light, the modern challenge for brands is no longer just about generating broad awareness, it is about delivering the right message at precisely the right time. Rooted
 
@@ -147,8 +153,11 @@ Alibaba Group Holding’s chip design unit T-Head has more than tripled its capi
 ## China’s EV brands have Europe’s luxury marques in their sights: Zeekr executive
 Luxury electric vehicle (EV) brands from China are poised to enter the same elite tier as established European marques by leveraging their disruptive technologies, according to Chinese EV maker Zeekr. “There is a gap between the demand for electric luxury cars and the supply, where Chinese carmakers
 
-## Momenta granted regulatory approval to list in Hong Kong amid rumoured crackdown
-Momenta, a leading self-driving technology start-up in China, has become the latest domestic firm to receive regulatory approval from Beijing for listing in Hong Kong under an entity incorporated offshore. The nod comes over four months after the last green light given to an applicant with a similar
+## U.S., Iran Rally Support for Interim Peace Deal Abroad
+But competing assertions have Gulf nations worried that the agreement won’t last.
+
+## Why the World Cup Keeps Eluding China
+Xi has spent billions of dollars trying to turn Beijing into a soccer powerhouse.
 
 ## Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army
 An ugly chapter of World War II history is straining relations between Warsaw and Kyiv.
@@ -167,12 +176,6 @@ In trying to restore order after World War II, U.S. leaders drew lessons from a 
 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
-
-## China Flexes Its Rare-Earth Muscle—Again
-New export restrictions underscore Beijing’s supply chain grip in ongoing tensions with Washington.
-
-## Why Is Alibaba on a Pentagon Blacklist?
-Washington doesn’t know how to untangle China’s military-civil fusion.
 
 ## Why the China-Iran Relationship Has Been Friendly But Distant Since Ancient Times
 The two civilizations have consistently found each other to be useful, yet they haven’t invested heavily in their partnership.
@@ -246,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026
-Cristiano Ronaldo becomes first player to score at six World Cup tournaments as Portugal thrash debutants Uzbekistan.
+## Donald Trump to attend World Cup final, present trophy: Infantino
+FIFA president Gianni Infantino will be 'enjoying the final' with Trump and present the trophy together on July 19.
 
-## Displaced Lebanese return south under fragile ceasefire deal
-Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.
+## UN: Israel committed genocide by targeting Gaza children
+Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.
 
-## Video: Israeli troops seen patrolling Syrian countryside
-Israeli troops and two Merkava tanks have been spotted in the Syrian countryside near Quneitra city.
+## Paraguay’s Almiron suspended for one game after red card for covering mouth
+FIFA also stripped journalist Jorge Chipi Vera of World Cup credentials after he criticised Almiron's red card on air.
 
-## US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure
-The US Supreme Court made it easier for US companies to seek compensation from Cuba's government for assets seized.
+## Trump allies reassure Israelis amid tensions on US-Iran deal
+Trump allies reassure Israelis amid tensions on US-Iran deal
 
-## US Supreme Court backs Trump policy on green card holder rights
-Court rules 6-3 that suspicion alone justifies placing green card holders on immigration parole at border crossings.
+## Massive fire rips through Indonesia sandal factory
+A massive fire destroyed a sandal factory in Tangerang, Indonesia, after it spread to a gas storage area.
 
-## Who’s being left out of the World Cup?
-Can football’s biggest stage stay global as visa denials and border restrictions mount?
+## UN starts evacuating 11,000 stranded sailors from Strait of Hormuz
+Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.
 
-## Why do the UK’s prime ministers keep resigning?
-Keir Starmer is the latest to step down, after less than two years in office.
+## Alibaba sues US military over labelling it a ‘Chinese military company’
+E-commerce giant says that claims of affiliation with Chinese military have 'no basis in fact or law'.
 
-## Israeli forces set olive trees on fire in occupied West Bank
-Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.
+## Trump disputes Iran’s rejection of nuclear inspectors
+President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
