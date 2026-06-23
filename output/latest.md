@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Hedge fund to pay Avis $650mn in settlement after wild stock swings
+Pentwater Capital rapidly sold shares in US car rental group as price soared then plummeted
+
 ## SpaceX sheds $400bn in market value as debut rally hits reverse
 Shares in Elon Musk’s AI and rockets group tumble more than 16% following fresh rise in US bond yields
 
@@ -21,9 +24,6 @@ Irish building materials group’s deal for Arcosa is worth doing
 ## Labour MPs celebrate as Burnham returns to Westminster
 Greater Manchester mayor finds a clear path to replace Keir Starmer in Downing Street
 
-## Streeting seen as frontrunner to become UK’s next chancellor
-Ex-health secretary favourite after ruling out leadership run but Labour’s centre-left prefers Ed Miliband
-
 ## EasyJet should hold out for a tad more from Castlelake
 UK budget airline has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level
 
@@ -33,32 +33,29 @@ Fintech founder Kunal Shah to replace Will Cathcart who steps down after seven y
 ## EasyJet and its investors hold out for £600mn more from Castlelake
 Shareholders call for private credit group’s £4.7bn approach to be increased to at least £7-a-share
 
-## Chevron moves into power production with Microsoft AI deal
-Company signs 20-year agreement to develop data centre in heart of US oil country that could include gas-fired plant
+## Sensex today | Stock Market Live Updates: Stock to buy today: Gabriel India (₹1,242) – BUY
+Sensex Today, Nifty 50 | Stock Market Live Updates: Gabriel India's share price can rise to ₹1,500
 
-## India’s wheat procurement by govt tops 35.5 million tonne target
-Purchases in Rajasthan at record high, UP buys double from a year ago
+## US notifies sale of support services for India's Apache helicopters, M777A2 howitzers
+The principal contractors for the Apache support services deal will be Boeing Company and Lockheed Martin, while BAE Systems, located in Cumbria, UK, will be the principal contractor for the M777 howitzer support programme
 
 ## Budget prioritises generating employment, incentivising industry, protecting people, says Suvendu Adhikari
 Addressing a post-Budget press conference, he said providing a “fear-free environment” to the citizens of Bengal was the priority of the government
 
-## Key takeaways from West Bengal Budget
-
-
 ## Kunal Shah to lead WhatsApp as Meta pumps $900 mn into CRED
 Funding values fintech firm at $4.5 billion; Sampat named interim CEO
 
+## India’s wheat procurement by govt tops 35.5 million tonne target
+Purchases in Rajasthan at record high, UP buys double from a year ago
+
+## Persistence of gender wage gaps
+Despite slight improvement, women’s incomes from work are still only one-fifth those of men in South Asia
+
+## Key takeaways from West Bengal Budget
+
+
 ## Industry welcomes West Bengal Budget as forward-looking roadmap for infrastructure-led growth
 Emphasis on infrastructure, industry, technology, connectivity and clean energy has the potential to create fresh opportunities for investment, enterprise and employment across the State, they say
-
-## Core sector’s growth dipped to 7 months low of 0.5% in May
-The Eeight Ccore Iindustries comprise 40.27% of the weight of items included in the Index of Industrial Production
-
-## Waterways Leisure Tourism IPO: Expensive ticket, uncharted oceans ahead
-Fleet expansion offers scale, but valuation for the owner of Cordelia Cruises brand leaves little room for delays, weaker occupancy or margins
-
-## Indian IT sees increase in average learning hours per employee in FY26
-Indian IT companies are ramping up employee training in response to the growing integration of artificial intelligence, with major firms reporting significant increases in average learning hours for fiscal year 2026.
 
 ## Rupee falls 30 paise to 94.63 against Dollar amid Middle East uncertainty
 The Indian rupee weakened by 30 paise to 94.63 against the US dollar on Monday, pressured by a strong dollar and Middle East tensions. Despite supportive inflows and falling crude oil prices, importer demand and foreign institutional investors turning net sellers weighed on the currency. While equit
@@ -84,6 +81,12 @@ Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key 
 ## Core sector growth slows to 0.5% in May as coal, refinery output contract
 India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
 
+## Monsoon inches forward after stalling, set to hit Mumbai in next 48 hours
+he revival of the monsoon, which had stalled last week, was accompanied by conditions favourable for further, albeit gradual, progress along the west coast.
+
+## West Bengal budget: 100Kjobs, DA hike, doles
+West Bengal's BJP government unveiled a ₹4.39 lakh crore budget with 100,000 jobs, women’s doles, new districts, and a focus on infrastructure and welfare.
+
 ## Man strangled to death by friend over ₹500 dispute in south Delhi; accused held
 The accused was found sitting beside the victim's body in an inebriated state and was arrested from the spot, they said.
 
@@ -102,35 +105,32 @@ Most of the victims were trapped on the second floor, where students were attend
 ## Missing money, SIT probe, Oppn's ‘Ghazni’ attack and Yogi's ‘15 days’ claim: Ayodhya's Ram Temple donation row explained
 Allegations that crores of rupees in donations at the Ram Temple in Ayodhya were misappropriated have led to a political and legal controversy.
 
-## 'Save me', 'let me go to my son': SOS calls, heroic rescues paint a heartbreaking story from Lucknow fire
-Outside the burning building in Aliganj, frantic SOS calls and anguished pleas from family members and friends underscored the scale of the tragedy.
-
-## After Lucknow fire kills 15, UP CM orders SIT probe, report in 7 days
-The decision was finalised following a high-level review meeting where the Chief Minister expressed serious concern over the tragedy.
-
-## Legislative Council Polls | Arrogance of power of BJP-Mahayuti evident: Congress
+## As Centre opens purse strings, Suvendu Adhikari government cuts deficits; runs into loans, debt
 
 
-## 160 farmers give consent for land acquisition in Third Mumbai, but opposition brews
+## Western Ghats: What is the ESA plan for conservation, why states are opposing it
 
 
-## Panchkula MC-IDFC First Bank scam | Haryana IAS officer sent to judicial custody after CBI says ‘not cooperating’ with probe
+## Delhi Confidential: New Assignment
 
 
-## ‘Nahi pategi’: Suhasini Mulay on fear of her marriage not working at 60; expert weighs in
+## 40 years ago June 23, 1986: Maharashtra building collapse
 
 
-## Messi missed the penalty. Then scored twice. Argentina are through
+## Plassey: Remembering the 1757 battle that birthed the British empire in India
 
 
-## US temporarily lifts Iran oil sanctions: What does it mean for India
+## Syngene International: Could India’s WuXi moment finally be here?
 
 
-## Record-breaking Lionel Messi’s longevity is truly remarkable
+## Tubewell left dry for 3 years, farmer wins Rs 50,000 against Punjab Power Corporation
 
 
-## ‘James Bond was filmed here’: Traveller gives tour of ‘nicest hotel’ she has stayed at in Udaipur
+## Lucknow blaze: When an electric cable became a lifeline
 
+
+## China moves to raise penalties on auditors as fraud campaign deepens
+China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading at the 23rd session of the Standing Committe
 
 ## How are Chinese firms faring as AI and tech reshape global market cap rankings?
 China’s state-owned banks and energy majors – once shoulder to shoulder with American firms at the top of market capitalisation rankings – have fallen behind as AI and technology companies capture the imagination of global investors, redirecting capital and reshaping the global corporate order. As o
@@ -152,9 +152,6 @@ China will support qualified foreign-invested companies to list on its onshore s
 
 ## Hongkongers aim for self-sufficiency in old age, but survey finds ‘clear readiness gap’
 While nine out of 10 Hongkongers aim to remain as self-sufficient as possible in their old age, they also expect 14 years of care dependency and 17 years of financial dependence, among the highest totals in Asia, according to survey results released on Monday. Based on the responses of 1,000 Hongkon
-
-## Hong Kong home sales cool off over Dragon Boat holiday ahead of new projects
-Hong Kong’s property market slowed over the Dragon Boat Festival holiday weekend as outbound travel and unstable weather dampened viewing activity, while developers held back major launches ahead of a fresh pipeline of projects expected to hit the market in the coming weeks. Developers rolled out 10
 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mbappe leads France to win over Iraq in lightning-delayed World Cup tie
+Kylian Mbappe scores France's first two goals, with Ousmane Dembele adding the other in a 3-0 win against Iraq.
+
+## Messi becomes the World Cup’s all-time top goalscorer
+Lionel Messi became the highest goalscorer in World Cup history after scoring his 17th and 18th tournament goals.
+
+## How women steer youths away from gang violence in northeastern Nigeria
+Women-led campaigns are helping curb gang violence by changing young people's mindsets in conflict-scarred communities.
+
+## Iran war live: US waives oil sanctions, to release $12bn in frozen funds
+US says the decisions follow Iran's commitment to allow international nuclear inspections.
+
+## Gaza surfers seek solace from war in the sea
+Gaza’s surf community was nearly wiped out by Israel’s genocidal war. But some surfers continue to chase the waves.
+
+## Video shows deadly shooting in Montreal, Canada
+A police officer, a civilian and the suspected gunman were killed after a shooting in Montreal.
+
 ## Belgium’s Doku welcomes son during World Cup amid commentator controversy
 Doku travelled to the UK as a French presenter who said fathers 'useless' at childbirth was stood down from her show.
 
 ## Egypt denied flight to Seattle ahead of final World Cup group match
 Egypt's team will return to their training base in Spokane, about 450km east of Seattle, after rejected flight.
-
-## US House committee reaches bipartisan deal on social media rules for kids
-Committee leaders did not release details but said the legislation would 'hold Big Tech accountable'.
-
-## ‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy
-An activist in Japan was surrounded by police after he approached the Israeli Embassy in Tokyo on Monday and shouted.
-
-## Hungary’s PM launches drive to free country from Orban’s ‘mafia’
-The raft of proposed changes includes a new constitution and anti-corruption office, and the ousting of the president.
-
-## Czech public media staff strike, citing government threat to independence
-Plan to put funding under direct control has sparked widespread opposition, with critics fearing political interference.
-
-## US judge blocks Trump administration subpoena against Minnesota officials
-Ruling represents setback for investigation that targeted state Democratic officials who criticised immigration raids.
-
-## ‘Another day, another leader’: Britons react to Keir Starmer’s exit
-Londoners shared mixed reactions to Keir Starmer's resignation.
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
