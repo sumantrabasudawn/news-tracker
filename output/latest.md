@@ -1,135 +1,147 @@
 # AION Intelligence
 
-## Hedge fund to pay Avis $650mn in settlement after wild stock swings
-Pentwater Capital rapidly sold shares in US car rental group as price soared then plummeted
+## Nissan shareholders vote out director who backed merger with Honda
+Former Mizuho executive Motoo Nagai fails to receive approval for reappointment after Renault abstains
 
-## SpaceX sheds $400bn in market value as debut rally hits reverse
-Shares in Elon Musk’s AI and rockets group tumble more than 16% following fresh rise in US bond yields
+## Kevin Warsh is throwing the reaction-function baby out with the dot-plot bathwater
+A Delphic Fed is a dangerous Fed
 
-## Burnham poised to succeed Starmer as UK prime minister
-Outgoing Greater Manchester mayor gears up for talks with civil service as he prepares to enter Number 10 within weeks
+## Why Denmark’s centre-left PM accepts far-right support for her migration plans
+Also in this newsletter: digital euro clears key hurdle in parliament
 
-## AbbVie buys Apogee for $10.9bn to acquire inflammatory disease drug
-Drugmaker’s largest deal in more than half a decade comes amid surge of M&A in sector
+## FirstFT: EU waits for Burnham
+Also in today’s newsletter: ChatGPT ads and EU deportation centres
 
-## Building materials group CRH agrees historic $8.5bn deal for Arcosa
-Irish company to purchase Dallas-based construction group
+## Bank of Japan normalisation on course for December increase
+Read the BoJ’s June forecast from the FT’s Monetary Policy Radar team
 
-## Starmer resignation as it happened: Burnham poised to become UK prime minister
-Outgoing Greater Manchester mayor could enter Downing Street within weeks
+## UK ‘irritated’ by EU move to delay key summit after Starmer’s resignation
+July meeting about closer relations postponed as Brussels prepares for prospect of Burnham becoming PM
 
-## CRH digs deep for a bigger share of the US construction boom
-Irish building materials group’s deal for Arcosa is worth doing
+## US and Iran give shipowners conflicting Hormuz orders
+Vessels given incompatible instructions on safest route to cross strait
 
-## Labour MPs celebrate as Burnham returns to Westminster
-Greater Manchester mayor finds a clear path to replace Keir Starmer in Downing Street
+## Burnham might just have what it takes to see off Farage
+The policy differences between his future premiership and Starmer’s will be small but significant
 
-## EasyJet should hold out for a tad more from Castlelake
-UK budget airline has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level
+## AI Exchange
+In this monthly series, running alongside our existing Tech Exchange dialogues, FT journalists talk to the scientists, developers and business leaders exploring ever more applications for artificial intelligence in every aspect of our lives
 
-## Indian entrepreneur to lead WhatsApp as Zuckerberg brings in new blood
-Fintech founder Kunal Shah to replace Will Cathcart who steps down after seven years leading the Meta-owned messaging app
+## Private equity’s new vibe check
+Buyout investors are recreating software products to gauge their competitiveness
 
-## EasyJet and its investors hold out for £600mn more from Castlelake
-Shareholders call for private credit group’s £4.7bn approach to be increased to at least £7-a-share
+## OpenAI pitches ChatGPT ads to Cannes marketers ahead of IPO
+Lossmaking AI group is presenting at Cannes Lions advertising conference for the first time
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Gabriel India (₹1,242) – BUY
-Sensex Today, Nifty 50 | Stock Market Live Updates: Gabriel India's share price can rise to ₹1,500
+## Private equity-owned vet group IVC spends £34mn on UK competition probe
+Conclusion of industry-wide investigation by Competition and Markets Authority paves way for IPO
 
-## US notifies sale of support services for India's Apache helicopters, M777A2 howitzers
-The principal contractors for the Apache support services deal will be Boeing Company and Lockheed Martin, while BAE Systems, located in Cumbria, UK, will be the principal contractor for the M777 howitzer support programme
+## Private equity bosses turn to carried interest loans as payouts stall
+Requests to borrow against future shares of profits are multiplying, as the buyout market remains slow
 
-## Budget prioritises generating employment, incentivising industry, protecting people, says Suvendu Adhikari
-Addressing a post-Budget press conference, he said providing a “fear-free environment” to the citizens of Bengal was the priority of the government
+## India’s corn exports seen rising to 2.4 million tonnes for MY25-26 on weak prices, says USDA Post
+Maize sowing up 7% at 5.69 lakh ha till June 19, despite weak onset and slow monsoon progress
 
-## Kunal Shah to lead WhatsApp as Meta pumps $900 mn into CRED
-Funding values fintech firm at $4.5 billion; Sampat named interim CEO
+## Google DeepMind signs AI research deal with film studio A24
+Studio to retain creative control as Google invests $75 million in A24
 
-## India’s wheat procurement by govt tops 35.5 million tonne target
-Purchases in Rajasthan at record high, UP buys double from a year ago
+## India's LPG imports from US set to cross 1 million tons in June, sources say
+India turns to costlier American supplies to ensure uninterrupted cooking gas
 
-## Persistence of gender wage gaps
-Despite slight improvement, women’s incomes from work are still only one-fifth those of men in South Asia
+## Sensex today | Stock Market Live Updates: Sensex trades flat, Nifty holds above 24,000; Cipla, Sun Pharma lead gains
+Sensex Today, Nifty 50 | Stock Market Live Updates: Equity benchmarks opened flat. BSE Sensex declined 168.59 pts or 0.22% to 76,925.48 at 9.17 am after a flat opening at 77,086.05 from the previous close of 77,094.07. Nifty 50 dipped 46.40 pts or 0.19% to 24,056.50.
 
-## Key takeaways from West Bengal Budget
+## Hormuz will never go back to its pre-war status: Iran's Parliament Speaker says Iran will manage the strait
+Mohammad Bagher Ghalibaf asserts international rules will be followed but insists operational control will remain with Iran.
 
+## US senators flag Pakistan’s history of harbouring terrorists, hiding bin Laden
+US senators criticize Pakistan and Qatar for terrorist ties, highlighting their roles in harboring bin Laden and supporting Iran
 
-## Industry welcomes West Bengal Budget as forward-looking roadmap for infrastructure-led growth
-Emphasis on infrastructure, industry, technology, connectivity and clean energy has the potential to create fresh opportunities for investment, enterprise and employment across the State, they say
+## Google restores Telegram on Playstore, app starts functioning for some users
+The government had ordered the ban on Telegram following its failure to prevent the circulation of fake examination papers of NEET
 
-## Rupee falls 30 paise to 94.63 against Dollar amid Middle East uncertainty
-The Indian rupee weakened by 30 paise to 94.63 against the US dollar on Monday, pressured by a strong dollar and Middle East tensions. Despite supportive inflows and falling crude oil prices, importer demand and foreign institutional investors turning net sellers weighed on the currency. While equit
+## Private sector growth slips to 3-month low in June as demand, confidence cool, PMI shows
+New orders rose at their slowest ⁠pace since March amid competitive pressures and gas shortages
 
-## 8th Pay Commission enters crucial phase; employee groups see report before Budget 2027
-Central government employees are hopeful for revised salaries and pensions sooner than expected, with the 8th Pay Commission potentially submitting its report months ahead of its May 2027 deadline. Employee organizations anticipate recommendations before the Union Budget 2027, leading to possible im
+## Gold price prediction today: Why is gold not rising too much despite lower oil prices? Check June 23, 2026 outlook
+Gold price prediction today: A consistent rise in gold prices due to drop in oil prices is being constrained by hawkish outlook from central banks which are signalling a possible rate hike to keep inflationary pressures in check, says Praveen Singh, Head Currencies and Commodities, Mirae Asset Share
 
-## US stock markets today: Wall Street holds near record highs as oil prices ease on US-Iran deal hopes
-Indian markets mirrored global trends as US stocks hovered near record highs, buoyed by easing oil prices and positive US-Iran talks. While tech stocks saw a dip, optimism surrounding AI and potential interest rate hikes kept investors engaged. Key inflation data and corporate deals, like AbbVie's a
+## 'Foundation for a final deal': US hits pause on Iranian oil sanctions after nuclear push
+The US has temporarily lifted sanctions on Iranian oil for 60 days, allowing its production and sale. This move follows Iran's agreement to permit UN nuclear inspectors and ensure free passage through the Strait of Hormuz. Vice President JD Vance hailed the understanding as a crucial foundation for 
 
-## Non-transparency, post-claim investigation of proposals main triggers of dis-satisfaction in health inusrance
-Customer trust in health insurers is waning, with a significant rise in unexplained claim rejections and a continued reliance on reimbursement routes. Policyholders are increasingly frustrated by insurers revisiting underwriting at claim time, leading to dissatisfaction. A substantial gap exists bet
-
-## US eases sanctions on Iranian oil exports as talks move towards final peace agreement
-In a significant development, the US has greenlit the production, delivery, and sale of Iranian oil for a 60-day period. This move, tied to ongoing peace talks, allows for crucial transit in the Strait of Hormuz and IAEA inspections. The temporary waiver, effective until August 21, also permits impo
-
-## RBI sold nearly $9 billion in forex spot market in April amid rupee pressure
-The Reserve Bank of India actively intervened in the forex market, selling $8.944 billion in April to bolster the rupee. This follows similar actions in March, as the currency faced pressure from global tensions and investor outflows. However, the rupee showed signs of recovery in June, aided by pol
-
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Indian stock markets surged on Monday, with the Sensex and Nifty reclaiming key levels. This rebound was fueled by a dip in crude oil prices, substantial foreign fund inflows, and positive developments in US-Iran diplomatic talks. Heavyweights like Reliance and HDFC Bank led the recovery, boosting o
-
-## Core sector growth slows to 0.5% in May as coal, refinery output contract
-India's core infrastructure sector saw a significant slowdown in May, growing by just 0.5% year-on-year. This dip was primarily driven by sharp contractions in coal, crude oil, natural gas, and refinery products. However, the situation was partially offset by robust growth in steel, cement, and elec
-
-## Monsoon inches forward after stalling, set to hit Mumbai in next 48 hours
-he revival of the monsoon, which had stalled last week, was accompanied by conditions favourable for further, albeit gradual, progress along the west coast.
-
-## West Bengal budget: 100Kjobs, DA hike, doles
-West Bengal's BJP government unveiled a ₹4.39 lakh crore budget with 100,000 jobs, women’s doles, new districts, and a focus on infrastructure and welfare.
-
-## Man strangled to death by friend over ₹500 dispute in south Delhi; accused held
-The accused was found sitting beside the victim's body in an inebriated state and was arrested from the spot, they said.
-
-## Uddhav Thackeray cries foul as 'Operation Tiger' succeeds, six Sena (UBT) MPs join Eknath Shinde-led faction
-Addressing a press conference, Eknath Shinde said that he does not leave anything half done and "Operation Tiger is successful".
-
-## Aadhaar App crosses 31 million downloads since launch
-The new Aadhaar App enables people to avail various services including mobile number update, and address updates easily directly from their smart phones.
-
-## Lucknow fire building had demolition notice over illegal construction in 2016, revoked within two months
-A demolition order against the unauthorised construction was issued on May 10, 2016 which was revoked two months later on July 5, 2016.
-
-## Fire in AC duct likely cause of Lucknow blaze that killed 15, says report
-Most of the victims were trapped on the second floor, where students were attending classes at the centre.
-
-## Missing money, SIT probe, Oppn's ‘Ghazni’ attack and Yogi's ‘15 days’ claim: Ayodhya's Ram Temple donation row explained
-Allegations that crores of rupees in donations at the Ram Temple in Ayodhya were misappropriated have led to a political and legal controversy.
-
-## As Centre opens purse strings, Suvendu Adhikari government cuts deficits; runs into loans, debt
+## Government seeks comparative advantage in US trade deal
 
 
-## Western Ghats: What is the ESA plan for conservation, why states are opposing it
+## At 0.5%, core sector grows at slowest pace in 7 months
 
 
-## Delhi Confidential: New Assignment
+## Oil prices rebound as US-Iran peace hopes temper Hormuz supply fears
+On Tuesday, oil prices enjoyed a modest rise as they bounced back from a previous decline. Investors are tentatively hopeful about the ongoing US-Iran peace discussions, yet they remain cautious about the reopening of the Strait of Hormuz for crude exports. Despite early indicators showing improved 
+
+## From IPO boom to bond debut: Elon Musk's SpaceX seeks funds for AI and starship
+SpaceX is tapping the bond market for the first time, seeking funds for its ambitious AI and next-gen space tech projects, even as it boasts over $100 billion in cash. This move allows capital raising without diluting shareholder control. The announcement comes amid a significant drop in SpaceX shar
+
+## Top stocks to buy today: Stock market recommendations for June 23, 2026 - check list
+Stock market recommendations: Delhivery, Lodha Developers, REC Ltd, and Indian Energy Exchange - these are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for June 23, 2026:
+
+## Kunal Shah’s move: Rewarding bills to rewiring chats
 
 
-## 40 years ago June 23, 1986: Maharashtra building collapse
+## Mumbai, Pune under IMD orange alert amid heavy pre-monsoon rain | Top weather updates
+A nascent revival of the southwest monsoon over Maharashtra will likely take it over Mumbai in the next 48 hours, IMD said on Monday.
+
+## Delhi’s Hauz Rani, Lucknow’s Aliganj: The science of electrical fires in summer
+The Hauz Rani fire claimed 23 lives. Weeks later, another blaze in Lucknow’s Aliganj killed 15. Both are suspected to have been caused by electrical faults.
+
+## Andy Burnham, 'King of the North', sworn in as MP hours after Starmer's exit; could become next UK PM as early as July
+Even though Keir Starmer set out a timeline for September while stepping down from PM office, Andy Burnham could also take office as early as July.
+
+## 'Explosions to continue': After 6 UBT rebels shift to Shinde Sena, a warning 'for more'
+Shinde, in the presser, said the six MPs who joined his faction had done so voluntarily and without any pressure.
+
+## Mamata Banerjee ‘replaced’ as TMC chairperson in biggest blow amid turmoil; rebels served show-cause notice
+TMC rebel faction on Monday "replaced" Mamata Banerjee as the chairperson and elected senior MLA Arup Roy to the post.
+
+## Who is George Kurian? BJP leader steps down as Union minister, President accepts resignation
+George Kurian's Rajya Sabha term had expired, following which he had to give up his ministerial post.
+
+## India-US trade deal talks: India wants preferential access through US deal, says Piyush Goyal
+The talks are focused on finalising a new tariff architecture after the US Supreme Court on Feb 20 invalidated the 18% reciprocal duty on bulk of Indian goods.
+
+## Proselytisation excluded from faith-based activities as govt amends FCRA rules
+The government has issued a series of amendments tightening the FCRA Rules for NGOs and associations in India on receiving and using foreign money
+
+## IELTS, TOEFL exam racket busted in Gujarat’s Anand, 1 held, search on for masterminds: Police
 
 
-## Plassey: Remembering the 1757 battle that birthed the British empire in India
+## Will Cristiano Ronaldo start in Uzbekistan match? Portugal coach refuses to answer
 
 
-## Syngene International: Could India’s WuXi moment finally be here?
+## From Nimbalkar to Siddique: Murders of political leaders and long legal battles in Maharashtra
 
 
-## Tubewell left dry for 3 years, farmer wins Rs 50,000 against Punjab Power Corporation
+## Assam HSLC Compartment Result 2026 (Out): How to check scorecards at sebaonline.org
 
 
-## Lucknow blaze: When an electric cable became a lifeline
+## Uttarakhand transfers probe into Karnaprayag clash involving Sikh pilgrims
 
 
-## China moves to raise penalties on auditors as fraud campaign deepens
+## That morning ‘jhatka’ could be stressing your spine, experts warn
+
+
+## CUET UG Result 2026 Date: NTA likely to declare result this week
+
+
+## ‘I didn’t care’: Mouni Roy, 40, on getting hate for playing 39-year-old Varun Dhawan’s mom
+
+
+## Momenta granted regulatory approval to list in Hong Kong amid rumoured crackdown
+Momenta, a leading self-driving technology start-up in China, became the latest domestic firm that is incorporated offshore, but got regulatory approval from Beijing to list in Hong Kong. It is over four months after the last nod to an applicant with a similar structure, the vetting of which was rum
+
+## After Beijing’s food-safety warning, will Sam’s Club slow its China expansion?
+US membership-only retailer Sam’s Club has quickly overhauled its leadership after Beijing summoned executives over “frequent food-safety issues”, which raised questions about whether the chain would slow its nationwide expansion to focus on building more localised and responsive supply chains, acco
+
+## China moves to raise penalties on auditors as anti-fraud campaign deepens
 China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading at the 23rd session of the Standing Committe
 
 ## How are Chinese firms faring as AI and tech reshape global market cap rankings?
@@ -146,12 +158,6 @@ Brazil is set to become the latest major economy to issue panda bonds – yuan-d
 
 ## Why a Chinese renewables giant is pondering a majority localisation in Europe
 Chinese renewable energy giant Envision is planning further localisation efforts in Europe, with the ambition to eventually source more than half its supply chain locally for the European market. “We are working within the European system, with the Europeans, manufacturing in Europe, for Europe, wit
-
-## China to back ‘qualified’ foreign firms for listing on domestic markets
-China will support qualified foreign-invested companies to list on its onshore stock markets, as part of a sweeping move by Beijing to further open up its mainland capital market and lure foreign direct investment back to the world’s second-largest economy. The mainland’s stock exchanges will optimi
-
-## Hongkongers aim for self-sufficiency in old age, but survey finds ‘clear readiness gap’
-While nine out of 10 Hongkongers aim to remain as self-sufficient as possible in their old age, they also expect 14 years of care dependency and 17 years of financial dependence, among the highest totals in Asia, according to survey results released on Monday. Based on the responses of 1,000 Hongkon
 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
@@ -249,29 +255,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mbappe leads France to win over Iraq in lightning-delayed World Cup tie
-Kylian Mbappe scores France's first two goals, with Ousmane Dembele adding the other in a 3-0 win against Iraq.
+## Football offers escape for Gaza, but World Cup spirit dimmed
+Palestinians in Gaza struggle to find World Cup joy amid displacement, power outages, and memories of previous lives.
 
-## Messi becomes the World Cup’s all-time top goalscorer
-Lionel Messi became the highest goalscorer in World Cup history after scoring his 17th and 18th tournament goals.
+## Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder
+Al Jazeera cameraman killed in Gaza, West Bank mosques torched, as Israeli officials describe attempt to expand control.
 
-## How women steer youths away from gang violence in northeastern Nigeria
-Women-led campaigns are helping curb gang violence by changing young people's mindsets in conflict-scarred communities.
+## Algeria come from behind to win 2-1, knock Jordan out of World Cup
+Goals from Nadhir Benbouali and Amine Gouiri steered Algeria to a 2-1 win over Jordan in Group J.
 
-## Iran war live: US waives oil sanctions, to release $12bn in frozen funds
-US says the decisions follow Iran's commitment to allow international nuclear inspections.
+## Colombia’s leftist presidential candidate vows to challenge election result
+Colombia’s leftist presidential candidate Ivan Cepeda has vowed to challenge the results of the presidential runoff.
 
-## Gaza surfers seek solace from war in the sea
-Gaza’s surf community was nearly wiped out by Israel’s genocidal war. But some surfers continue to chase the waves.
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
 
-## Video shows deadly shooting in Montreal, Canada
-A police officer, a civilian and the suspected gunman were killed after a shooting in Montreal.
+## Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza
+Latin Patriarch of Jerusalem, Cardinal Pizzaballa visited Gaza in a show of solidarity with its Christian community.
 
-## Belgium’s Doku welcomes son during World Cup amid commentator controversy
-Doku travelled to the UK as a French presenter who said fathers 'useless' at childbirth was stood down from her show.
+## Iraq fans ‘proud’ and joyful despite World Cup loss to France
+Iraqis in Philadelphia weather Mbappe and a storm, but still find happiness in their team's FIFA World Cup performance.
 
-## Egypt denied flight to Seattle ahead of final World Cup group match
-Egypt's team will return to their training base in Spokane, about 450km east of Seattle, after rejected flight.
+## Bullying investigated after rare Philippines school shooting kills three
+Three students are killed and seven others wounded after a rare school shooting in the central Philippines.
+
+## CFOs deserve C-Suite salaries, but they must build skills to command them, says ACCA's Lucia Real Martin
+CFOs must actively earn their higher salaries by mastering communication, strategic judgment, and ethics, moving beyond technical skills. ACCA's Lucia Real Martin emphasises that finance chiefs need to become 'Chief Value Officers,' driving digital transformation and sustainability. While AI sparks 
+
+## Financial Governance: The Bedrock We Keep Ignoring
+As corporate failures from Rajesh Exports to IL&FS expose recurring governance breakdowns, are India's boards, CFOs, auditors and audit committees truly fulfilling their fiduciary responsibilities? Ashok Haldia, former Secretary of ICAI, examines why financial governance remains the weakest link in 
 
 ## Exclusive: Otis Elevator appoints former Honeywell Automation executive Pulkit Goyal as CFO
 Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
@@ -290,12 +302,6 @@ Indian startups are experiencing a surge in M&A exits, particularly in consumer,
 
 ## PE firms, mid-market companies drive India’s new GCC wave
 India's Global Capability Centre (GCC) landscape is shifting, with private equity-backed and mid-market firms now driving significant expansion. These companies are leveraging GCCs beyond cost savings to build advanced capabilities in AI and engineering, creating substantial value for their portfoli
-
-## Growth needs one foot on the accelerator and one on the brakes, says Shoppers Stop CFO Pankaj Chaturvedi
-At the 3rd edition of the ETCFO Nexgen Summit 2026, finance leaders from Shoppers Stop and Allcargo Logistics said sustainable growth depends on granular unit economics, free cash generation, disciplined capital allocation and the ability to protect margins during macro shocks.
-
-## Capital is not India Inc 2.0’s constraint; execution is, say CFOs
-At the ETCFO NextGen Summit 2026, finance leaders from The Phoenix Mills, IndiGrid and GPS Renewables said India has sufficient capital for its next growth phase, but execution efficiency, storage capacity, policy certainty and supply-chain readiness will determine outcomes.
 
 ## 'Gulf uncertainty prompted RBI wait and watch policy'
 The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
