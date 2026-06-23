@@ -1,31 +1,34 @@
 # AION Intelligence
 
-## The 10 headaches Starmer is handing to Burnham
-From energy to education and industry to immigration, the prime minister-in-waiting has to clarify his policies
-
-## Putin sours on Trump over his latest Ukraine shift
-US president ‘impressed’ with Ukrainian drones hitting targets deep into Russia, say officials
-
-## Fairytale economics holds the UK back
-Without growth, mainstream politics is doomed. Burnham’s Labour must stop telling stories that hold it back
-
-## Andrew Tate must return to UK before being told accusers’ identity, say prosecutors
-Influencer and his brother, who face charges including rape, claim that anonymity of alleged victims prevents fair trial
+## The US Treasury market rests on shakier ground
+Reforms are necessary to bolster the financial world’s backbone
 
 ## HMRC reveals tax charge in new Isa rules
-Interest earned from cash held in stocks-and-shares Isas will face 22 per cent tax rate
+Interest earned from cash held in stocks-and-shares Isas will face 22% tax rate
 
-## Crowd-pleasing clothes at Milan Men’s Fashion Week
-Brands such as Dolce & Gabbana and Prada prioritised what customers want over quirky statements
+## Can anyone challenge Andy Burnham for PM?
+Plus: The King of the North’s Cabinet, intray and priorities
 
-## Europe remains the World Cup’s centre of gravity
-Having claimed 11 of the tournament’s 15 podium spots since 2006, western European teams are again leading the charge
+## SpaceX tests its reality-warping powers on the bond market
+For some buyers, a solid rating can act as permission to buy; the lack of one can put a security off limits
 
-## Trump agrees to allow Iran to access $6bn of frozen funds to buy US goods
-President says that money held in Qatar to be used to buy US medical supplies and crops
+## US manufacturing jobs fall at fastest rate since the pandemic
+Survey finds company executives are struggling with rising costs and shifting policy
 
-## Big Tech leads sell-off in global stocks
-Nasdaq declines for second day as interest rate fears hit high-flying sectors
+## US chipmakers lead Wall Street slide on rising rate rise worries
+Nasdaq declines for second day with companies like Nvidia under pressure
+
+## Rejoining EU is ‘mirage’ but UK must get closer to bloc, says minister
+Comments by Nick Thomas-Symonds come after Brussels postpones planned summit in wake of Starmer resignation
+
+## Stream of cabinet ministers throw weight behind Andy Burnham
+Favourite for next prime minister held hour-long ‘off-site’ meeting with outgoing premier on Tuesday
+
+## AI’s money machine faces first real test in Manhattan primary
+Industry spends millions to target candidate who supports greater regulation of the technology
+
+## Drone start-up Stark wins more funding from Peter Thiel-backed firm
+US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
 
 ## US rare earths miner Energy Fuels buys German magnet group for $1.9bn
 Companies are racing to develop ‘mine-to-magnet’ supply chains to reduce dependency on China
@@ -42,35 +45,35 @@ Attention Markets Hypothesis > Efficient Markets Hypothesis
 ## Could the energy shock kick-start green steelmaking?
 Also in today’s newsletter: global gas flaring jumps to highest level since 2019
 
-## Airbus and Leonardo call for European space champion to take on SpaceX
-Brussels urged to approve three-way merger with Thales, as groups prepare EU filing
+## Dining-out emerges as new growth battleground for Swiggy, Eternal
+Both companies reporting strong momentum in the segment over the past year.
 
-## FirstFT: Global markets slump as tech sell-off deepens
-SpaceX shares tumble after its blockbuster debut, also sending Asian and European markets downwards
+## Zee’s OTT viewership doubles in first two weeks of FIFA’26
+Despite placing the World Cup as premium content, with a separate subscription package, Z5 has also become the most download OTT in the past two weeks.
 
-## Prosus launches ToqanClaw platform for five million ecosystem partners
-The platform operates within Toqan, the secure internal AI infrastructure at Prosus
+## VOC Port launches PortGPT app, becomes India’s first major port to deploy enterprise AI
+The event also featured an IIM Calcutta case study release and an MoU with Gati Shakti Vishwavidyalaya to boost maritime research, innovation and skill development
 
-## Fashion tech start-up NEWME aims to strengthen omnichannel play
-The brand is looking to open more stores in cities, where it already has a presence, such as Delhi, Mumbai, Bengaluru and Hyderabad
+## Brokers’ body seeks carve-out for liquidity providers under RBI norms
+Seeks interim relief from Finance Ministry ahead of RBI’s July 1 lending norms, recommends SPAN-based test
 
-## Shining light on India’s corporate bond market
+## Cross-border payments platform Skydo gets international payment licence in Canada
+The company also plans to support Canadian businesses with global collections, local accounts and supplier payments
 
+## India-US trade talks begin amid farmers’ concerns over agriculture market
+Farm groups cite February trade framework and repeated US calls for greater access for American farm products; Goyal has maintained sensitive sectors are protected
 
-## JAMCO Interiors plans $150-million investment in India, to expand engineering and supply chain operations in India
-The company is set to open a new engineering facility in Bengaluru’s Bannerghatta
+## Promoter co sells Vedanta shares worth ₹2,149 crore
+Following the sale, Twin Star will hold about 40 per cent of Vedanta Ltd, while overall promoter ownership remains around 56 per cent
 
-## Troubled finances
-TN’s fiscal white paper, a candid appraisal
+## Haryana police files FIR over alleged pressure to declare Punjab CM Mann’s controversial video as ‘fake’
+A complaint to Gurugram police was lodged against senior officer of the Punjab government, private individuals Arun Mahendru and Ankit, and others by Jasprit alias Jassi
 
-## Retailers recorded 5% growth in May amidst inflationary pressures
-Retailers Association of India says the consumers remained cautious and value-conscious during the month
+## India–US trade deal may be signed before July 24: What’s done and remaining for agreement
+India and the US are nearing a trade deal, with negotiators meeting in New Delhi to finalize an interim pact before July 24. Discussions aim to recalibrate the agreement following recent US tariff policy shifts. Both nations are pushing for a fair and reciprocal deal that benefits American exporters
 
-## Amid Cabinet reshuffle buzz, PM Modi meets President Murmu
-Earlier in the day, veteran BJP leader from Kerala George Kurian resigned from the Union Council of Ministers
-
-## Ola Electric secures BIS Certification for LFP 46100 cell
-In addition to BIS approval, the cell has qualified under international and domestic safety protocols
+## Iran rushes to sell oil to India after Trump sanctions waiver - all you need to know
+Data from Vortexa, combined with Bloomberg calculations, show that around 68 million barrels of crude and condensate were floating at sea as of June 22. More than 80% of that volume does not appear to have a confirmed destination, potentially making it available for sale.
 
 ## Wall Street today: US stocks slide as IT sell-off deepens, Nasdaq trims over 2%, Dow Jones falls 750 points
 Global markets experienced a significant downturn Tuesday, with Wall Street indices plunging amid a deepening tech stock sell-off. Concerns over heavy AI spending and anticipated US interest rate hikes are fueling investor anxiety. Major tech giants and chipmakers saw substantial drops, mirroring we
@@ -90,59 +93,59 @@ Around Rs 4.61 lakh crore in investor wealth was wiped as the combined market ca
 ## Trump waives sanctions on Iran crude oil: What it means for India
 As part of a broader package designed to provide economic relief to Iran, the US Treasury announced a sanctions waiver valid until August 21. The exemption allows Tehran to export oil and related products and receive payments for those sales.
 
-## Why Indians aren't giving up on SIPs despite muted market returns
-Despite a sluggish stock market and foreign investor sell-offs, Indian retail investors are consistently investing through SIPs, showing remarkable resilience. Monthly SIP inflows surged significantly, becoming the primary demand driver for domestic equities. This sustained participation, fueled by 
+## PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
+PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
 
-## Message seen on WhatsApp: Kunal Shah gets real CRED from Meta
-Kunal Shah is an interesting choice, because WhatsApp does not need a leader to teach people how to send a message; it needs one who understands how trust, status, habit, and small transactions mutate inside closed networks, which is, almost exactly, the discipline CRED was built to practise.
+## Cab driver accused of rape-murder of girl in Delhi attempts to flee, injured in police encounter
+Singh was arrested on Monday within six hours of the alleged rape and murder after police tracked him through CCTV footage and technical surveillance.
+
+## Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims
+At a meeting to decide the US role in the Ukraine war, Vance reportedly suggested the deployment of Indian troops as part of a peacekeeping mission in Ukraine.
+
+## Indian, Irish, Canadian diplomats pay tribute to 1985 Air India bombing victims
+This was the second consecutive year that the three countries jointly commemorated what was the worst act of aviation terrorism until the 9/11 attacks in the US.
+
+## A Bali trip, a missing passport and a hoodie in the heat: How cops caught Pune man's killers
+Police are investigating 26-year-old Ketan Agrawal's murder, in which his fiancee Siya Goyal and her alleged lover Chetan Chaudhary have been arrested.
+
+## Odisha launches ₹500 crore scheme to transform riverfronts, urban water bodies
+The initiative aims to convert neglected and underutilised waterfront areas into environmentally sustainable, socially inclusive and economically vibrant urban assets
+
+## CJP's Abhijeet Dipke slams Pradhan's ‘terrorist’ remark, says minister has ‘blood of 17 students on his hands’
+The CJP has been protesting at Jantar Mantar since the past four days. They demand the resignation of Dharmendra Pradhan over irregularities in the system.
 
 ## PM Modi meets President amid cabinet rejig buzz, 3 things in focus: Defectors, delimitation, and Punjab
 Accommodation of recent political defectors is a factor, with focus on Raghav Chadha-led group that came from AAP, and Kakoli Ghosh's TMC rebel group
 
-## Truck falls in river as bridge collapses in Himachal's Kinnaur, driver narrowly escapes: Video
-The incident took place near Urni Dhank between Reckong Peo and Tapri on National Highway 5 when a 10-tyre truck loaded with sand was crossing the bridge.
-
-## BJP leader Kailash Gahlot's daughter tops CUET UG exam: 'Immensely proud'
-Devina Gahlot, daughter of former Delhi minister and BJP MLA Kailash Gahlot, emerged as the topper of CUET-UG 2026.
-
-## 11 India-bound oil, gas, and fertiliser vessels cross Hormuz after US-Iran deal
-New Delhi hopes that 10 Indian-flagged vessels that were caught to the west of the crucial waterway due to the outbreak of hostilities in February can return
-
-## TVK gold ring scheme for newborns in Tamil Nadu to be launched on Sept 15
-The government will allocate ₹755.83 crore for the gold ring scheme, which was one of the Tamilaga Vettri Kazhagam (TVK)’s poll promises
-
-## Congress demands SC probe into Ujjain land deals, takes ‘engine of loot’ dig at Mohan Yadav's Madhya Pradesh BJP govt
-News report says land bought by family since Yadav became CM is next to road projects announced by his govt; relative says have been in realty business for long
-
-## Uttarakhand CM asks pilgrims to avoid rumours, says Char Dham and Hemkund Sahib yatras running smoothly
-Uttarakhand's CM Pushkar Singh Dhami reassures pilgrims about the successful conduct of Char Dham and Hemkund Sahib yatras amidst rumors.
-
-## Gujarat’s Shala Praveshotsav completes 23 years, focus shifts from enrolment to quality education
-Gujarat's Shala Praveshotsav celebrates 23 years of transforming education by enhancing school enrolment and emphasizing quality.
-
-## Downed US F-15 pilot reveals bizarre ‘jellyfish’ drone formation before ejection over Iran
+## England vs Ghana LIVE Score, FIFA World Cup 2026: Knockout qualification in sight for Harry Kane’s ENG vs GHA
 
 
-## India banks can lend against FCNR(B) deposits, says RBI
+## ‘Flip the pack’: FSSAI shares 5-step guide to read a food label correctly
 
 
-## Foreign funding rules tightened for NGOs, penalties revised
+## Nine years on, chargesheet yet to reach court: High Court seeks action against errant Thane cops
 
 
-## The ‘left-turn’ bias: Why you may be walking anticlockwise without realising
+## Ronaldo makes history, becomes first player to score in six different World Cups
 
 
-## Ousted as TMC chief by rebels, Mamata Banerjee’s options dwindle: What next?
+## 3 massive slums plots over 850 acres in Mumbai to be redeveloped soon
 
 
-## Complete shutdown in Ladakh: ‘Policies being forced upon us,’ say leaders
+## ‘We treated her like family’: Grief and disbelief at Ketan Agarwal’s Pune home
 
 
-## Shala Praveshotsav: CM says one can excel in life with hardwork & determination, cites PM Modi’s journey
+## Suspect in hoodie, phone at home to mislead probe: How cops solved Lohagad murder
 
 
-## Master drains in Gurgaon desilted, work on waterlogging hotspots ahead of monsoon
+## Panel led by retired judge to prepare draft for Uniform Civil Code in Maharashtra
 
+
+## The Intelligence Revolution: Redefining Out-of-Home Media in Hong Kong
+[The content of this article has been produced by our advertising partner.] In Hong Kong, a city that famously moves at the speed of light, the modern challenge for brands is no longer just about generating broad awareness, it is about delivering the right message at precisely the right time. Rooted
+
+## The AI enterprise that wins: why strategy, not software, makes the difference Eraneos – Anni Chi is a Business Reporter client.
+[The content of this article has been produced by our advertising partner.] Most executive teams are no longer asking whether AI matters. The harder question is why so many AI pilots, tools and experiments are yet to translate into measurable business value. Across industries, many companies struggl
 
 ## China’s CATL bets big on sodium-ion batteries to navigate lithium price volatility
 China’s Contemporary Amperex Technology Ltd (CATL), the world’s top lithium-ion battery maker, plans a major boost in production of sodium-based cells, a move that will help it navigate volatility in material prices while affecting both the electric vehicle (EV) and grid-storage sectors. The company
@@ -161,12 +164,6 @@ Luxury electric vehicle (EV) brands from China are poised to enter the same elit
 
 ## Momenta granted regulatory approval to list in Hong Kong amid rumoured crackdown
 Momenta, a leading self-driving technology start-up in China, has become the latest domestic firm to receive regulatory approval from Beijing for listing in Hong Kong under an entity incorporated offshore. The nod comes over four months after the last green light given to an applicant with a similar
-
-## After Beijing’s food-safety warning, will Sam’s Club slow its China expansion?
-US membership-only retailer Sam’s Club has quickly overhauled its leadership after Beijing summoned executives over “frequent food-safety issues”, which raised questions about whether the chain would slow its nationwide expansion to focus on building more localised and responsive supply chains, acco
-
-## China moves to raise penalties on auditors as anti-fraud campaign deepens
-China is moving to sharply increase penalties for auditors who sign off on fraudulent corporate accounts, widening a campaign against financial fraud by listed companies. A draft amendment to the Certified Public Accountants Law – set for a second reading by the National People’s Congress Standing C
 
 ## Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army
 An ugly chapter of World War II history is straining relations between Warsaw and Kyiv.
@@ -216,6 +213,9 @@ If earlier moves toward more direct elections were indictive of Kazakhstan's pol
 ## Tashiev Trial Closed Again
 A week after being opened to public scrutiny, the Tashiev trial has again been closed once more.
 
+## Adapting to Uncertainty in the Strait of Hormuz
+Iran’s threats to shipping through the Strait of Hormuz — in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 — effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased restrictions, and s
+
 ## A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy
 In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy paired with a military strategy and Plan for
 
@@ -236,9 +236,6 @@ In 2024, Emilian Kavalski and Claris Diaz argued in “Beyond TikTok – The Nat
 
 ## Cogs of War Turns One
 A mentor of mine, a superb scholar, once told me that good defense analysis starts with a trade-off. The classic example is combined arms doctrine, which is the foundation of modern warfare. Infantry, armor, artillery, and aviation work together to offset each other’s weaknesses. Each brings a combi
-
-## Good Medicine Is Combat Power: Clinical Innovation and the Lessons of the Russo-Ukrainian War
-War is a brutal driver of medical innovation. Russia’s full-scale invasion of Ukraine has forced clinicians and commanders alike to confront a hard truth: Survival depends not only on tactics and technology, but on the ability to deliver advanced care under fire, evacuate and resuscitate the wounded
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -264,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South African police investigate murder amid rise in anti-migrant attacks
-The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.
+## EU hosts Taliban officials for the first time in talks on deportations
+The Taliban government is not recognised by any European country, despite this meeting in Brussels with EU officials.
 
-## More than 5,300 people still held in Myanmar scam centres: rights group
-A UN report found the facilities are operated by foreign nationals who were trafficked by criminal gangs.
+## US appeals court says Trump can proceed with fast-track deportation efforts
+A panel of judges has overturned a previous ruling that found measures violated constitutional right to due process.
 
-## Republican-linked PACs funding Democratic US primaries: Why it matters
-Republicans and Democrats have both employed tactics to boost weaker rivals ahead of US midterm elections.
+## The weight of the Three Lions: Football, colonialism, diaspora
+England vs Ghana exposes football’s tangled histories of empire, diaspora and belonging.
 
-## Demand for tunnel maps and personal weapons tests Gaza talks
-Gaza talks remain active, but stall as the US envoy demands the handover of tunnel maps and family arms.
+## SpaceX shares drop below debut price before jumping amid $600bn sell-off
+SpaceX shares dip below debut price, erasing $600bn in value before recovering 2.4 percent amid tech market turbulence.
 
-## Mexico exhibition relives memories of Qatar World Cup 2022
-An exhibition in Mexico held during the World Cup explores the legacy of Qatar 2022.
+## Missile strike kills three in Ukraine as Russia feels war’s economic strain
+Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.
 
-## Kenya minister says US-run Ebola facility plans halted after court order
-Kenya stops constructing US-run Ebola site amid public outcry; $13.5m US funding is criticised as masking health risks.
+## Israeli police clash with anti-draft ultra-Orthodox protesters
+Israeli police clashed with Ultra-Orthodox (Haredi) Jews on Monday as they protested against mandatory conscription.
 
-## Portugal vs Uzbekistan LIVE: World Cup 2026
-Follow live updates as Cristiano Ronaldo and Portugal face Uzbekistan, including the build-up and live text commentary.
+## LIVE: England vs Ghana – World Cup 2026
+All our updates as Kane's England face Ghana in Group L, with buildup, team news coverage and text commentary stream.
 
-## What the US and Iran agreed – and disagreed – on first day of talks
-Leaders from Iran and the US have lauded progress on day one of Switzerland talks but disagree about crucial aspects.
+## The $3.7bn man: Inside one of US’s biggest Medicare frauds
+US businessman has been arrested in Turkiye after a year on the run from authorities.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
