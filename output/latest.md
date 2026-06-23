@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Germany set to scrap plans to build its biggest warship since second world war
+Berlin wants to ditch F126 frigate programme after cost overruns and delays
+
+## Senate approves war powers resolution aimed at reining in Trump on Iran war
+Largely symbolic resolution is a sign of disquiet over the US president’s handling of the conflict
+
+## FirstFT: Alibaba sues US defence department over inclusion on Chinese military blacklist
+Also in today’s newsletter, Takaichi shuns Japan’s business elites, and China’s biggest IPO in four years
+
+## US eases travel restrictions on Iran World Cup team
+Washington lengthens time period that team can arrive on American soil before last group game against Egypt
+
 ## AI money floods NY primary race in test of Big Tech’s political power
 Donors target pro-regulation Democrat Alex Bores in race against Kennedy scion Jack Schlossberg
 
@@ -12,26 +24,14 @@ Former Kirkland & Ellis partner helped turn firm into a restructuring powerhouse
 ## Alibaba sues Pentagon over inclusion on Chinese military blacklist
 Ecommerce giant claims US defence department’s ‘arbitrary and capricious’ decision lacked evidence
 
-## SpaceX pitches investors juicy yields in $25bn bond deal
-Bankers upsize offering after high borrowing costs lure investors
-
-## UK tax loophole used by Shein will not be closed until October 2028
-Retailers say slow pace of action undermines efforts to rejuvenate high streets
-
-## Starmer risks clash with Burnham over defence funding plan
-Likely successor to prime minister wants to review long-awaited military investment plan
-
-## Burnham set to demote Reeves to lesser cabinet role
-Britain’s probable next prime minister expected to give backroom roles to Manchester allies
+## Ari Emanuel in talks to buy West End and Broadway giant ATG for $6bn
+People familiar with the situation hope deal can be concluded soon with theatre group’s private equity owner Providence
 
 ## Drone start-up Stark wins more funding from Peter Thiel-backed firm
 US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
 
 ## How to surf turbulent markets
 Is the wild ride worth it?
-
-## EG Group files plan for US listing that could raise $1bn
-IPO could value UK-based petrol station empire at more than $9bn
 
 ## Dining-out emerges as new growth battleground for Swiggy, Eternal
 Both companies reporting strong momentum in the segment over the past year.
@@ -57,6 +57,21 @@ Following the sale, Twin Star will hold about 40 per cent of Vedanta Ltd, while 
 ## Haryana police files FIR over alleged pressure to declare Punjab CM Mann’s controversial video as ‘fake’
 A complaint to Gurugram police was lodged against senior officer of the Punjab government, private individuals Arun Mahendru and Ankit, and others by Jasprit alias Jassi
 
+## Sebi for celebrity brand endorsements for MFs
+
+
+## India, US look to seal trade deal before '10% tariff' expiry
+
+
+## Infosys sees $300-400billion AI opportunity by 2030
+
+
+## Q-commerce growth: Flipkart, Amazon bet on large base
+
+
+## Raymond in talks to buy German engineering firm Deharde
+
+
 ## Overseas branches can lend to NRIs for deposits in India
 RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee
 
@@ -65,21 +80,6 @@ RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee
 
 ## India–US trade deal may be signed before July 24: What’s done and remaining for agreement
 India and the US are nearing a trade deal, with negotiators meeting in New Delhi to finalize an interim pact before July 24. Discussions aim to recalibrate the agreement following recent US tariff policy shifts. Both nations are pushing for a fair and reciprocal deal that benefits American exporters
-
-## Sensex slides 900 points as global tech sell-off weighs
-
-
-## Iran rushes to sell oil to India after Trump sanctions waiver - all you need to know
-Data from Vortexa, combined with Bloomberg calculations, show that around 68 million barrels of crude and condensate were floating at sea as of June 22. More than 80% of that volume does not appear to have a confirmed destination, potentially making it available for sale.
-
-## Wall Street today: US stocks slide as IT sell-off deepens, Nasdaq trims over 2%, Dow Jones falls 750 points
-Global markets experienced a significant downturn Tuesday, with Wall Street indices plunging amid a deepening tech stock sell-off. Concerns over heavy AI spending and anticipated US interest rate hikes are fueling investor anxiety. Major tech giants and chipmakers saw substantial drops, mirroring we
-
-## All roads still lead to the Middle East: Why India’s energy pipeline runs through the Gulf
-India's energy sector is closely watching the Strait of Hormuz situation, highlighting a continued reliance on the Middle East for crucial LPG supplies. While alternative sources like the US were tapped during disruptions, they couldn't fully bridge the gap. Higher LNG prices also impacted demand, w
-
-## From record highs to a sharp fall: South Korea’s market plunged 10%, here's why
-South Korea's stock market experienced a dramatic plunge, with the KOSPI tumbling nearly 10% after hitting record highs. Investors rushed to sell chip stocks, particularly Samsung Electronics and SK Hynix, amid concerns of excessive speculation and the impact of leveraged investment products. This s
 
 ## Gaurav Gogoi, Priyank Kharge among 28 leaders to address ‘Chhatron Ki Goonj’ press conferences across India
 The campaign seeks resignation of Union Education Minister Shri Dharmendra Pradhan.
@@ -105,29 +105,32 @@ Police are investigating 26-year-old Ketan Agrawal's murder, in which his fiance
 ## Odisha launches ₹500 crore scheme to transform riverfronts, urban water bodies
 The initiative aims to convert neglected and underutilised waterfront areas into environmentally sustainable, socially inclusive and economically vibrant urban assets
 
+## ‘Which subject do you find toughest’: Gujarat education minister reaches out to school dropouts, at their doorstep
+
+
+## Raj Thackeray slams Rahul Narvekar over ‘butchered’ Marathi language
+
+
+## Uttar Pradesh government launches statewide crackdown, over 100 institutes face action
+
+
+## Bombay High Court upholds decision to restrain use of New Indian Express outside permitted territories
+
+
+## NAFED to share 1% profit for education of farmers’ children: Amit Shah
+
+
+## Resolute Ghana rip open England’s limitations
+
+
 ## Kharat’s wife granted bail in land fraud, black magic case
 
 
 ## ED searches at nine premises linked to Bengaluru-based gold exporter over ‘financial irregularities’
 
 
-## AAP MLA Chaitar Vasava, wife, co-accused get 7-year jail term in 2023 assault case
-
-
-## Siya Goyal’s house deserted; neighbours unaware
-
-
-## Gujarat confidential: ‘Mannequin’ guides
-
-
-## At 41, under fire Ronaldo proves his hunger for goals is undiminished
-
-
-## 5 months on, Pune Grand Tour roads hold steady
-
-
-## Rs 10 lakh medical cover per family in new scheme for construction workers in Delhi
-
+## China’s biotech surge sparks US security concerns as drug trials break records in 2025
+Clinical drug trial registrations in China hit a record last year, the country’s drug regulator said, with more than 5,000 trials reported in the latest sign of the nation’s growing pipeline of novel drug candidates. The total number of clinical drug trials reached 5,215 in 2025, more than double th
 
 ## US Anthropic ban is best advert for Chinese AI
 Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been miffed when they were shut off from using artificial intelligence (AI) models from Anthropic, a pioneering American firm in the field. Goldman Sachs and JPMorgan Chase pulled the plug in April and last week respectively
@@ -149,9 +152,6 @@ Hong Kong recorded the fastest growth rate in ultra-wealthy residents among the 
 
 ## Alibaba chip unit T-Head triples capital amid AI hardware bet
 Alibaba Group Holding’s chip design unit T-Head has more than tripled its capital base, as the tech giant doubles down on efforts to become a domestic semiconductor powerhouse amid the artificial intelligence boom and China’s chip self-sufficiency drive. Shanghai-headquartered T-Head last week incre
-
-## China’s EV brands have Europe’s luxury marques in their sights: Zeekr executive
-Luxury electric vehicle (EV) brands from China are poised to enter the same elite tier as established European marques by leveraging their disruptive technologies, according to Chinese EV maker Zeekr. “There is a gap between the demand for electric luxury cars and the supply, where Chinese carmakers
 
 ## U.S., Iran Rally Support for Interim Peace Deal Abroad
 But competing assertions have Gulf nations worried that the agreement won’t last.
@@ -249,6 +249,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel’s deliberate targeting of Palestinian children
+New UN report documents the toll of Israel's war on Gaza and its occupation of the West Bank on Palestinian children.
+
+## England held by Ghana at World Cup as pair close on last-32 passage
+England and Ghana share a 0-0 draw in Group L, despite a late barrage by the English.
+
 ## Donald Trump to attend World Cup final, present trophy: Infantino
 FIFA president Gianni Infantino will be 'enjoying the final' with Trump and present the trophy together on July 19.
 
@@ -266,12 +272,6 @@ A massive fire destroyed a sandal factory in Tangerang, Indonesia, after it spre
 
 ## UN starts evacuating 11,000 stranded sailors from Strait of Hormuz
 Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.
-
-## Alibaba sues US military over labelling it a ‘Chinese military company’
-E-commerce giant says that claims of affiliation with Chinese military have 'no basis in fact or law'.
-
-## Trump disputes Iran’s rejection of nuclear inspectors
-President Trump pushed back on Iran’s foreign ministry claim that there are no plans to allow IAEA nuclear inspectors.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
