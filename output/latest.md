@@ -1,28 +1,40 @@
 # AION Intelligence
 
+## Trump scraps planned signing of US housing affordability bill
+Bipartisan legislation is designed to boost supply and curb institutional investors’ role in property market
+
+## 1776 and all that — the making and remaking of the Declaration of Independence
+Ahead of its 250th anniversary, four new books examine how America’s founding document has been repurposed over time — and why it remains contested today
+
+## Train in fatal UK crash passed red signal, investigators say
+Brakes were applied nine seconds before the impact but it slowed only from 75mph to 49mph
+
+## Crimea’s big cities in total blackout after Ukrainian drone strikes
+Kyiv has been waging an intensifying campaign on the Russian-occupied peninsula’s key infrastructure
+
+## Mamdani-backed candidates sweep New York primaries
+Democrat voters shift allegiance to new generation of leftwing politicians
+
+## Putin’s system is in a state of slow implosion
+Look to the erosion of fiscal discipline to see where the problems lie
+
+## Nato chief reveals Italy allowed US planes to use bases in Iran war
+Mark Rutte puts Giorgia Meloni under pressure by disclosing Rome let 500 aircraft take off in Operation Epic Fury
+
 ## Burnham looks to move part of Number 10 operations to Manchester
 Plan marks radical attempt to shift power beyond Westminster
 
+## Berlin warship U-turn hits defence sector as KNDS heads to market
+Slump in Rheinmetall shares comes on same day tankmaker fires starting gun on long-awaited IPO
+
+## UK banks defeat watchdog in legal battle over historic loan complaints
+High Court rules that Financial Ombudsman Service unlawfully allowed consumers to challenge terms beyond 6-year limit
+
+## Stripe and Anthropic invest in combating respiratory diseases
+Consortium puts $500mn into finding new drugs and scaling up air-treatment technologies
+
 ## China detains two Japanese nationals over alleged rare earth smuggling
 Escalation of dispute with Tokyo comes as Beijing opens whistleblower hotline for violations of critical mineral exports
-
-## Britain’s grid operator calls for more electricity as temperatures soar
-Extreme heat increases demand for power and reduces efficiency of solar panels
-
-## Dassault wins EU legal claim that private jets can be environmentally sustainable
-European Court of Justice rules against Brussels’ exclusion of business jets from new green rules
-
-## EU set to clear Paramount’s $111bn takeover of Warner Bros
-David Ellison’s media group is discussing remedies with Brussels in order to clear key regulatory hurdle
-
-## Burnham draws up plans for devolution blitz ahead of key City speech
-Likely next prime minister has signalled he wants to draw on Manchester example and shift power away from Westminster
-
-## SK Hynix bets on AI demand with bumper $29bn US listing
-South Korean chipmaker capitalises on central role in global AI boom
-
-## FirstFT: Venezuela to initiate world’s largest sovereign restructuring
-Also in today’s newsletter, Hegseth forces out top US army officer in Europe and Colombian president-elect’s inspirations
 
 ## Energy Source Forum: How to power data centres
 China and the US are the clear frontrunners in data centre rollouts as they battle for AI leadership
@@ -30,35 +42,35 @@ China and the US are the clear frontrunners in data centre rollouts as they batt
 ## How AI is transforming natural disaster prediction
 Catastrophe scientists are pushing past the limits of physics-based models, improving how insurers calculate risk
 
-## What happened to Starmer’s ‘clean energy superpower’ plan?
-Outgoing UK leader was hesitant to argue the case for his government’s ambitious energy goals
+## ED accuses Rajesh Exports of FEMA violations, ‘significant departures’ from trade norms
+Rajesh Exports failed to produce critical documentation for its imports, exports, overseas investments, and foreign trade settlements
 
-## Systemic maternity failures led to hundreds of deaths and injuries, review finds
-Damning report into Nottingham NHS trust criticises culture of bullying and staff ignoring pregnant women
+## Kunal Shah’s WhatsApp role signals Meta’s push to blend commerce, payments, conversations
+Industry executives believe Meta’s bet is less about payments alone and more about creating an ecosystem where discovery, communication and transactions happen seamlessly within WhatsApp.
 
-## SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly
-SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly
+## SaaS pricing to evolve from seat-based to consumption based: Freshworks CEO
 
-## Matrixdock Expands XAUm to Stellar, Bringing Bureau Veritas-Audited and LBMA-Accredited Tokenized Gold to the Stellar Ecosystem
-Matrixdock Expands XAUm to Stellar, Bringing Bureau Veritas-Audited and LBMA-Accredited Tokenized Gold to the Stellar Ecosystem
 
-## IIM Udaipur Welcomes MBA 2026-28 Batch: A Cohort Defined by Diversity, Talent, and Ambition
-IIM Udaipur Welcomes MBA 2026-28 Batch: A Cohort Defined by Diversity, Talent, and Ambition
+## Ex-ante competition regulation is crucial in the AI age, especially for India’s start-up ecosystem: Kush Amlani, Director-Global Competition, Mozilla
+A lot of big players haven’t found the right business models to generate profit.
 
-## Style Baazar Hosts Star Cast of Upcoming Bengali Film Abhhiman at Avani Riverside Mall
-Style Baazar Hosts Star Cast of Upcoming Bengali Film Abhhiman at Avani Riverside Mall
+## Tech Mahindra CEO’s salary jumps 12% to ₹67.55 crore in FY26
+Joshi’s salary stood at £ 5.4 million for the year with £2.93 million as Employee Stock Ownership Plan and Employee Stock Ownership Plan and £1.11 million as performance pay and bonus
 
-## Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery
-One client says it lost two decades of data
+## S&P upgrades Bharti Airtel to BBB+ on strong India, Africa growth outlook
+S&P said rising data consumption, premiumisation and subscriber growth will support Airtel’s performance in India, with ARPU expected to rise steadily.
 
-## West Bengal framing rules to incentivise fresh investment; benefits must match neighbouring states, says FM Swapan Dasgupta
-Speaking at an Assocham event, he stressed competitive industrial incentives and announced a “West Bengal Investment Promotion Framework” to boost growth, investment and jobs through a cluster-based approach along industrial corridors
+## Industry leaders push for transparency, faster approvals in Tamil Nadu Industrial Policy 2026
+Industry representatives raised concerns over skilled talent migration to other states and urged Tamil Nadu to strengthen its innovation ecosystem, focusing on semiconductors, electronics and biopharma while improving single-window clearances and regulatory predictability
 
-## Kunal Shah to lead WhatsApp as Meta pumps $900 mn into CRED
-Funding values fintech firm at $4.5 billion; Sampat named interim CEO
+## India pharma sector shifts from generics to high-value innovation and biologics
+With over $30 billion in annual exports and a strong USFDA-approved manufacturing base, the industry is expanding into complex generics, biosimilars and AI-driven smart manufacturing
 
-## Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader
-Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue
+## Stock market: Which are top gainers and losers on NSE & BSE today? Check list
+Stock markets experienced a significant rebound on Wednesday, with the Sensex and Nifty surging past key levels. This rally was fueled by a sharp decline in crude oil prices, robust buying in banking and IT sectors, and growing optimism surrounding a potential India-US trade agreement. The positive 
+
+## Oil math: OPEC’s global crude share could slip from 35% to 31% without UAE
+The United Arab Emirates' exit from OPEC has significantly impacted the group's global crude oil output, reducing its share from 35% to 31%. This move, effective May 1, 2026, highlights the UAE's substantial role in the bloc. Meanwhile, regional disruptions due to the Strait of Hormuz closure are es
 
 ## ‘Constructive, forward-looking’: India, US conclude ministerial-level talks on FTA
 India and the US concluded ministerial talks on a proposed trade deal, aiming for an interim pact before a US tariff deadline next month. Discussions focused on market access, digital trade, and reducing barriers. This follows recent high-level meetings and aims to deepen economic ties, with both na
@@ -78,59 +90,59 @@ Global jet fuel supplies are facing significant pressure due to geopolitical eve
 ## Crude prices drop to lowest since February on Iran supply hopes
 Global crude oil prices have plunged to four-month lows, driven by improved tanker traffic through the Strait of Hormuz and anticipation of increased Iranian oil exports. This easing of supply disruption fears has led to significant drops in Brent and WTI futures. Despite this, underlying geopolitic
 
-## India offers up to 9% leverage to NRIs to attract fresh forex inflows; guarantees returns of over 7%
-India is actively seeking foreign currency inflows by encouraging its diaspora to deposit funds. Banks are now permitted to offer substantial leverage on these special foreign-currency deposits, with potential returns exceeding 6% and leveraged rates above 10%. This initiative aims to bolster foreig
+## Southwest monsoon reaches Gujarat; Gandhinagar, Rajkot still sizzle at 40.5°C
+Light to moderate rainfall is also likely in parts of Gujarat during the next seven days, IMD said.
 
-## RBI governor says talk of rate hike ‘premature’ amid geopolitical uncertainty
+## Mohan Yadav at centre of Ujjain land ‘scam’; BJP bombshell on Kharge family's trust: What is happening?
+A report showed that Mohan Yadav’s family bought 168 acres for ₹45 crore since December 2023, when the BJP leader become Madhya Pradesh chief minister.
 
+## Delhi court cites fundamental rights, lets money laundering accused travel to Thailand for family vacation
+According to the ED, the properties belonged to Ginni Gold Private Limited and its directors-cum-promoters Ginni Devi and Reena Goel.
 
-## Air India flight briefly enters Pakistan airspace near Amritsar, probe on
-Air India said the crew operating flight AI479 had "marginally infringed" into Pakistan airspace during the manoeuvre.
+## Ketan Agarwal's death appeared accidental, until one mistake exposed his fiancee's murder plot
+Siya Goyal was in a relationship with Chetan Chaudhary and did not want to marry Ketan Agarwal. The duo then decided to kill him, police said.
 
-## Row in Bengal over proposal to drop eggs from mid-day meal scheme: ‘Imposing vegetarianism'
-West Bengal has seen repeated incidents of protest where eggs were thrown at TMC leaders during public appearances since post-poll tensions escalated.
+## All about Devina Gahlot, daughter of a BJP MLA in spotlight after topping CUET-UG
+Despite her academic record, Devina said an all-India top rank in CUET was not something she had expected.
 
-## Supreme Court refuses to hear medical student's fee reduction plea: 'Can't say private, govt college should be at par'
-Harshvardhan Singh, the petitioner, said he was allotted a seat under the general category with an annual tuition fee of ₹18.9 lakh
+## Passport is a travel document, not proof of citizenship: MEA
+The passport remains a travel document, and not a document of citizenship, as it attests the nationality of Indians when they are abroad
 
-## Daughter arrested days after parents, sister found dead in Bengaluru; boyfriend on run
-The accused, Shwetha, allegedly carried out the murders in connivance with her boyfriend, Kenneth, who remains absconding.
+## Chetan Chaudhary merely Siya's boyfriend, no concrete claims against him in Ketan's murder: Counsel
+Advocate Ram Shahane said the FIR in Ketan Agrawal's murder case doesn't describe Chetan Chowdhury's role and that the allegations against him are not concrete.
 
-## I'm over 80': Actor Anil Kumar Rastogi slams trolls over awkward moment with PM Modi at Padma awards
-Renowned actor and scientist Dr Anil Kumar Rastogi was on Tuesday awarded the Padma Shri for his contributions to the arts and sciences.
+## Centre removes early completion incentives to ensure hill road safety
+MoRTH mandates monsoon stability checks, stricter slope monitoring and geological surveys for National Highway projects in hilly areas.
 
-## Over 6,100 new TB cases in Maharashtra in 35 days; 11,091 villages flagged as high risk
-Over 6,100 new TB cases found in Maharashtra in 35 days; 11,091 villages flagged as high risk
-
-## ₹10 lakh for doctoring video? BJP calls for Punjab CM Bhagwant Mann's arrest over ‘sacrilege’ clip
-Questioning the lack of action against the Punjab chief minister, Majinder Sirsa asked, “When will Bhagwant Mann be arrested in this case?”
-
-## One led by Mamata, other by Ritabrata: How EC's ‘two-wing test’ will decide which faction is Trinamool Congress
-Former chief minister Mamata Banerjee’s camp has lost 62 of the party’s 80 MLAs since the West Bengal assembly election
-
-## Amazon Prime Day 2026 India: Dates, deals, AI shopping tools, and more
+## 300 mm rainfall in 24 hours: First monsoon showers drown Mumbai
 
 
-## Retired Bihar employee who faced criminal cases wins back pension
+## Rajkumar Hirani admits Dunki didn’t appeal to masses: ‘Middle class get their visas easily’
 
 
-## ‘Need to fight AI with AI’: IBM India VP on the future of cybersecurity
+## Man wanted in 68 cases caught over Rs 10,000 theft in Bengaluru
 
 
-## Rakhigarhi remains sent for scientific study: What ancient human remains can tell us
+## Lucknow fire fallout: 18 engineers face the heat for ‘lapses’, action ordered
 
 
-## No CCTV, no witnesses: How Labrador Mary helped police solve UP girl assault case
+## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on ceramic-based lithium battery, Gamma rays and more (Week 168)
 
 
-## Why is Vaibhav Sooryavanshi required to use separate changing room in England tour?
+## ‘I am not comfortable’: Saniya Iyappan reveals why she stopped performing at Kerala events
 
 
-## Karnataka Police arrest UP man over foreign contacts; probe wider links
+## BMC ‘fully activated,’ but court says Kanjurmarg nuisance continues
 
 
-## Zohran Mamdani emerges as Democratic kingmaker after New York victories
+## ‘Preposterous’: Karnataka High Court cancels order to return 9 abused dogs to owner
 
+
+## Danish court orders state to pay telecoms firm US$12m for Huawei equipment removal
+A Danish court has ordered the state to pay 80 million Danish kroner (US$12 million) in compensation to TDC NET, the country’s largest digital-infrastructure operator, after authorities forced it to strip Huawei equipment from its fibre network. The Eastern High Court in Copenhagen ruled on Wednesda
+
+## China closes another offshore investing loophole as TRS faces restrictions
+Chinese regulators have tightened one of the remaining channels for gaining exposure to overseas assets through derivatives, the latest sign that authorities are continuing efforts to close regulatory loopholes and curb domestic investors’ access to higher-risk offshore markets. Rather than launchin
 
 ## Mainland Chinese mining executive buys Hong Kong trophy home at US$28m receivership sale
 The president of a Shanghai-listed mining company has been identified as the buyer of a luxury house in Hong Kong’s Stanley district, paying HK$220 million (US$28 million) for a receiver-owned property, as lenders accelerate the disposal of distressed assets and wealthy mainland Chinese buyers retur
@@ -150,11 +162,14 @@ Chinese carmakers continued their rapid expansion in Europe last month according
 ## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
 Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
-## Hong Kong stocks rebound from choppy trading triggered by overnight turmoil in US
-Hong Kong stocks rebounded on Wednesday afternoon after a jittery morning session, bucking overnight tumult in US markets spurred by concerns over frothy tech company valuations and an unwinding of leveraged bets on South Korean chipmakers. The Hang Seng Index had risen 0.3 per cent to 23,412.18 by 
+## The New Geography of the World Cup
+Migration, colonial history, and elite academies have redefined today’s national teams.
 
-## As China plans for demographic crisis, some sectors see opportunity
-As China moves towards becoming one of the world’s fastest-ageing economies – a trend causing worry over future productivity and a widening gulf between the country’s working and retired populations – Goldman Sachs said the pharmaceutical and biotechnology sectors could end up the biggest winners fr
+## China’s De-Dollarization Drive Has Hit a Wall
+Beijing can create financial instruments, but it cannot decree demand.
+
+## Washington’s Middle East Military Presence Is Uniquely Counterproductive
+Rather than ensuring the free flow of energy, U.S. intervention has only interrupted it.
 
 ## Russia Makes Inroads in Southeast Asia
 Energy is Putin’s strongest card in a fuel-hungry region.
@@ -171,38 +186,29 @@ An ugly chapter of World War II history is straining relations between Warsaw an
 ## The U.S. Won the War With Iran
 It wasn’t a knockout blow, but Washington prevailed on points.
 
-## Is the MOU a Treaty or Not? And Why Should We Care?
-Confusing language in the U.S.-Iran cease-fire agreement makes its legal status unclear.
+## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
+A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
 
-## How America Made the Mafia
-Organized crime and U.S. global influence in the 20th century.
+## How the Iran War Disrupted ASEAN’s Energy Transition
+The conflict did not derail the transition but exposed how vulnerable it remains to external disruption – and how quickly governments can fall back on fossil fuels.
 
-## From Bloody Kansas to the Rebuilding of Europe
-In trying to restore order after World War II, U.S. leaders drew lessons from a dark chapter in their country’s history.
+## Anthropic’s Export Control Crackdown Leaves South Korea Caught in Washington’s AI Crossfire
+The suspension of Anthropic’s most advanced AI model has exposed how Silicon Valley lobbying shapes U.S. export policy at the expense of allied economies.
 
-## Loyalty Without Leverage: India’s US Tilt Yields Little
-India’s attempt to balance ties with the U.S. has turned into a tilt, still deemed insufficient by Washington. For India, it is all stick and no carrots.
+## Risk Sharing Crosses Central Asian Borders: EBRD Deal Links a Kyrgyz Bank and an Uzbek Gym Chain
+A bank lending a business money is hardly cause for a headline. But this is no ordinary loan.
 
-## How the Quad Can Deliver in a New Strategic Era
-The regular tempo of on-the-ground cooperation suggests that the Quad – despite its thin institutional structure – may in fact be insulated from higher level political volatility.
+## The Future of BRICS After the Iran War
+Carlos Frederico Pereira da Silva Gama and host Tushar Shetty discuss the priorities and divergences of India’s BRICS presidency ahead of the September leaders’ summit.
 
-## How China’s ‘Red Lines’ Are Quietly Shaping Global News Reporting
-Under Xi Jinping, the CCP has expanded its control over political language to the point where it challenges journalism’s most basic task: describing the world accurately.
+## Is There a Way to Break the Deadlock in Japan-China Relations?
+Is this the new normal?
 
-## Japan Is Investing in Offshore Wind in the UK. What About at Home?
-The Japan-U.K. compact shows Japanese companies still have an appetite for offshore wind, but local communities must not be left behind.
+## Can Kazakhstan and Iran Sustain Momentum on Transport Corridor Development?
+The Iran-U.S. conflict has served to concentrate attention on the transport relationship between Kazakhstan and Iran, in development for years before the war began.
 
-## The Structural Limits of the EU’s China Policy
-The European Council’s latest mandate pairs dialogue with prospective new trade defense tools, institutionalizing an approach that complicates long-term ties with Beijing.
-
-## Why the China-Iran Relationship Has Been Friendly But Distant Since Ancient Times
-The two civilizations have consistently found each other to be useful, yet they haven’t invested heavily in their partnership.
-
-## An Australian View of the New Trump Iran Deal
-Australia’s geography may provide it with some insulation from conflict, but its maritime dependency creates other vulnerabilities.
-
-## What Happened to Indonesia’s Booming Tech Sector?
-Despite their initial promise, many of the country's major tech firms are struggling to create value for shareholders.
+## Not Just the Military: Xi Jinping’s Other Senior Party Purge
+Xi has ruthlessly gone after former Politburo Standing Committee member and one-time economic czar Wang Qishan.
 
 ## Designing Drones for Africa
 This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and chief engineer of Terra Industries, an African defense technology company building autonomous drone and counter-drone systems designed for the continent’s operating conditions. As cheap imported airframes flood African m
@@ -252,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mamdani-backed candidates defeat pro-Israel lawmakers in primaries
-Candidates backed by Zohran Mamdani have scored major wins in primaries, unseating Democrats backed by pro-Israel groups
+## Why Accra slavery reparatory justice meeting matters
+From apology to action: the renewed push for slavery reparations amid questions over delivery.
 
-## US Senate approves Iran war powers resolution: What that means for Trump
-Four Republicans cross party lines to vote in favour of the measure.
+## Rubio says Iran cannot charge tolls in Hormuz: What we know
+Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services.
 
-## North Korea commissions warship as Kim eyes nuclear navy
-Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.
+## Rubio tries to reassure Gulf allies on US-Iran deal details
+Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding.
 
-## Brazil vs Scotland World Cup 2026: Preview, prediction, team news, lineups
-Neymar could make his first appearance at this World Cup as Scotland aim to escape the group stage for the first time.
+## When Paris is hotter than Mecca: How Europe’s heatwave compares globally
+Paris and other European cities are seeing temperatures above 40C (104F), levels normally seen across the Middle East.
 
-## Kenya braces for return of Gen Z protests – how did they begin?
-Two years since Gen Z protests rocked President Ruto's government, thousands gear up to take to the streets again.
+## Deaths, disruptions across Europe: What you should know about the heatwave
+Experts say the climate crisis is making Europe's heatwaves more frequent and more intense.
 
-## France confirms first Ebola case in doctor returning from DR Congo
-The patient is in isolation, following strict biosafety protocols to prevent risk of spread in France.
+## What does Pakistan stand to gain from helping broker the US-Iran deal?
+Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance.
 
-## How to stay cool and treat heatstroke during a heatwave
-Heatstroke is a severe medical condition that occurs when a human body’s internal temperature exceeds 40C (104F).
+## Iranians cautiously optimistic about thorny deal with US
+Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes.
 
-## Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol
-The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.
+## World Cup 2026: Full group schedule and top third-round matches to watch
+Remaining group schedule, teams, as well as the best third-round group fixtures at the tournament in North America.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
