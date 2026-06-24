@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Red alerts across UK and Europe as heatwave takes a grip
+‘London is cooking’, says UN secretary-general, in call to act on global warming
+
+## Burnham set to demote Reeves to lesser cabinet role
+Britain’s probable next prime minister also expected to make James Purnell his chief of staff
+
+## British households not electrifying fast enough, says government climate adviser
+Report argues that switching to heat pumps and electric cars would bring down energy bills and avoid price shocks
+
+## Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods
+‘Unprecedented’ blockade of the strait raises concerns about the future of global maritime trade, says insurer Allianz
+
 ## Germany set to scrap plans to build its biggest warship since second world war
 Berlin wants to ditch F126 frigate programme after cost overruns and delays
 
@@ -12,26 +24,35 @@ Also in today’s newsletter, Takaichi shuns Japan’s business elites, and Chin
 ## US eases travel restrictions on Iran World Cup team
 Washington lengthens time period that team can arrive on American soil before last group game against Egypt
 
-## AI money floods NY primary race in test of Big Tech’s political power
-Donors target pro-regulation Democrat Alex Bores in race against Kennedy scion Jack Schlossberg
-
-## US chipmakers lead Wall Street slide on rate rise worries
-Nasdaq declines for second day with companies such as Nvidia under pressure
-
-## Acclaimed bankruptcy lawyer James Sprayregen set to join Paul Weiss
-Former Kirkland & Ellis partner helped turn firm into a restructuring powerhouse
-
-## Alibaba sues Pentagon over inclusion on Chinese military blacklist
-Ecommerce giant claims US defence department’s ‘arbitrary and capricious’ decision lacked evidence
+## Nvidia’s banned AI chips double in price on China’s black market
+US crackdown on illicit exports has made it riskier, harder and more expensive to buy tech giant’s processors
 
 ## Ari Emanuel in talks to buy West End and Broadway giant ATG for $6bn
 People familiar with the situation hope deal can be concluded soon with theatre group’s private equity owner Providence
 
+## AI money floods NY primary race in test of Big Tech’s political power
+Donors target pro-regulation Democrat Alex Bores in race against Kennedy scion Jack Schlossberg
+
 ## Drone start-up Stark wins more funding from Peter Thiel-backed firm
 US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
 
-## How to surf turbulent markets
-Is the wild ride worth it?
+## Oman announces temporary maritime corridor for ships transiting through Hormuz
+The vessels wanting to use the ​temporary ‌corridor would need to coordinate with the IMO, based ‌on coordinates announced ​by the organisation and Omani ⁠authorities
+
+## Sensex today | Stock Market Live Updates: Stock to buy today: Meesho (₹187) – BUY
+Sensex Today, Nifty 50 | Stock Market Live Updates: Meesho share price can rise to ₹215
+
+## Vegetable inflation soars, likely to go up further
+Experts now warn that a projected below-normal monsoon could drive vegetable prices even higher
+
+## Turtlemint IPO fetched 1.20 times overall subscription
+Stock will likely list on the stock exchanges next week.
+
+## Indian, global stocks turn weak as AI-heavy Korea plunges 10%
+South Korea’s Kospi plunged 10 per cent on Tuesday, briefly triggering a circuit breaker, and the shockwaves were felt acutely in Mumbai
+
+## NSE, SBI Mutual Fund IPOs may yield ₹5,400 crore tax bonanza
+Collection from long-term capital gains set to surge from the 2 OFS issues
 
 ## Dining-out emerges as new growth battleground for Swiggy, Eternal
 Both companies reporting strong momentum in the segment over the past year.
@@ -39,23 +60,8 @@ Both companies reporting strong momentum in the segment over the past year.
 ## Zee’s OTT viewership doubles in first two weeks of FIFA’26
 Despite placing the World Cup as premium content, with a separate subscription package, Z5 has also become the most download OTT in the past two weeks.
 
-## VOC Port launches PortGPT app, becomes India’s first major port to deploy enterprise AI
-The event also featured an IIM Calcutta case study release and an MoU with Gati Shakti Vishwavidyalaya to boost maritime research, innovation and skill development
-
-## Brokers’ body seeks carve-out for liquidity providers under RBI norms
-Seeks interim relief from Finance Ministry ahead of RBI’s July 1 lending norms, recommends SPAN-based test
-
-## Cross-border payments platform Skydo gets international payment licence in Canada
-The company also plans to support Canadian businesses with global collections, local accounts and supplier payments
-
-## India-US trade talks begin amid farmers’ concerns over agriculture market
-Farm groups cite February trade framework and repeated US calls for greater access for American farm products; Goyal has maintained sensitive sectors are protected
-
-## Promoter co sells Vedanta shares worth ₹2,149 crore
-Following the sale, Twin Star will hold about 40 per cent of Vedanta Ltd, while overall promoter ownership remains around 56 per cent
-
-## Haryana police files FIR over alleged pressure to declare Punjab CM Mann’s controversial video as ‘fake’
-A complaint to Gurugram police was lodged against senior officer of the Punjab government, private individuals Arun Mahendru and Ankit, and others by Jasprit alias Jassi
+## GE sends AI 171 engine analysis, final AAIB report likely in 2 months
+GE Aerospace has sent the analysis reports for the engines of AI171 that had crashed in Ahmedabad last June, killing 260 people. All eyes are now on the Aircraft Accident Investigation Bureau. "Air accident investigations have to zero in on what could have happened.
 
 ## Sebi for celebrity brand endorsements for MFs
 
@@ -78,56 +84,62 @@ RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee
 ## Square Yards turns unicorn with 900 crore fundraise
 
 
-## India–US trade deal may be signed before July 24: What’s done and remaining for agreement
-India and the US are nearing a trade deal, with negotiators meeting in New Delhi to finalize an interim pact before July 24. Discussions aim to recalibrate the agreement following recent US tariff policy shifts. Both nations are pushing for a fair and reciprocal deal that benefits American exporters
+## Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill
+The TVK government filed a Special Leave Petition before the Apex Court on June 11, shortly after the government led by chief minister Vijay assumed office.
 
-## Gaurav Gogoi, Priyank Kharge among 28 leaders to address ‘Chhatron Ki Goonj’ press conferences across India
-The campaign seeks resignation of Union Education Minister Shri Dharmendra Pradhan.
+## Govt notifies new FCRA rules, restricts foreign nationals as NGO functionaries
+These rules are independent of an amended bill the government introduced in March, which it is likely to try and pass in the coming session of Parliament.
 
-## CUET-UG 2026 results out; one candidate bags 100 percentile in four subjects
-A total of 22 candidates scored 100 percentile in three of their opted subjects, while 180 candidates secured 100 percentile in two subjects, the agency said.
+## Leh, Kargil shut down to push for talks with Centre over delay in constitutional safeguards for Ladakh
+Ladakh bodies have been demanding statehood and protections under the sixth schedule after the abrogation of Article 370 in 2019
 
-## PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
-PM Modi gets Qatar Emir's call after 12 Indians killed in Ras Laffan gas plant blast, thanks him for condolences
+## Crisis-hit TMC reworks party organisation, cuts role of consultants
+Facing defections post-electoral defeat, TMC shifts strategy, affirming direct leadership control and limiting external influences amid ongoing turmoil.
 
-## Cab driver accused of rape-murder of girl in Delhi attempts to flee, injured in police encounter
-Singh was arrested on Monday within six hours of the alleged rape and murder after police tracked him through CCTV footage and technical surveillance.
+## No road to have names of British, Mughals, Pathans: CM Adhikari tells Assembly
+West Bengal CM Suvendu Adhikari defends renaming Suhrawardy Avenue to Gopal Mukherjee Road, rejecting names linked to Mughals or British rulers.
 
-## Vance proposed Indian troops deployment in Ukraine, Trump said ‘Indians won’t do that’, new book claims
-At a meeting to decide the US role in the Ukraine war, Vance reportedly suggested the deployment of Indian troops as part of a peacekeeping mission in Ukraine.
+## Union minister George Kurian resigns after RS term ends
+BJP leader George Kurian resigned from the Union council after not being renominated to the Rajya Sabha, as Cabinet reshuffle speculations mount.
 
-## Indian, Irish, Canadian diplomats pay tribute to 1985 Air India bombing victims
-This was the second consecutive year that the three countries jointly commemorated what was the worst act of aviation terrorism until the 9/11 attacks in the US.
+## SC declines urgent hearing in ration denial linked to SIR
+The Supreme Court declined an urgent hearing on a plea against West Bengal's welfare benefits linked to electoral roll exclusions, directing it to the Calcutta High Court instead.
 
-## A Bali trip, a missing passport and a hoodie in the heat: How cops caught Pune man's killers
-Police are investigating 26-year-old Ketan Agrawal's murder, in which his fiancee Siya Goyal and her alleged lover Chetan Chaudhary have been arrested.
+## IAF to get its first Made-in-India C295 aircraft in Sept-end
+India's first private-sector C295 transport aircraft will be delivered to the air force on Sept 22-23, enhancing logistics and replacing old Avro aircraft.
 
-## Odisha launches ₹500 crore scheme to transform riverfronts, urban water bodies
-The initiative aims to convert neglected and underutilised waterfront areas into environmentally sustainable, socially inclusive and economically vibrant urban assets
-
-## ‘Which subject do you find toughest’: Gujarat education minister reaches out to school dropouts, at their doorstep
+## The unravelling of regional parties: Why they are imploding
 
 
-## Raj Thackeray slams Rahul Narvekar over ‘butchered’ Marathi language
+## 40 years ago June 24, 1986: PM urges action on law & order
 
 
-## Uttar Pradesh government launches statewide crackdown, over 100 institutes face action
+## Will a nation grow, stagnate, decline? Technology will tell
 
 
-## Bombay High Court upholds decision to restrain use of New Indian Express outside permitted territories
+## What is the problem if someone else is LoP: Calcutta High Court on Sovandeb plea
 
 
-## NAFED to share 1% profit for education of farmers’ children: Amit Shah
+## Heavy rains lash parts of Kolkata; trees uprooted, traffic disrupted
 
 
-## Resolute Ghana rip open England’s limitations
+## ’20 lakh set to benefit’: Slum rehabilitation eligibility cut-off gets Delhi government nod
 
 
-## Kharat’s wife granted bail in land fraud, black magic case
+## Bengal govt to bring law to confiscate, auction properties of corrupt officials, says Suvendu
 
 
-## ED searches at nine premises linked to Bengaluru-based gold exporter over ‘financial irregularities’
+## Keep calm and carry on with Larry
 
+
+## As China plans for demographic crisis, some sectors see opportunity
+As China moves towards becoming one of the world’s fastest-ageing economies – a trend causing worry over future productivity and a widening gulf between the country’s working and retired populations – Goldman Sachs said the pharmaceutical and biotechnology sectors could end up the biggest winners fr
+
+## China’s medical AI breaks ground as surgical robot wins EU approval, model tops benchmark
+Medical AI from China has reached new milestones, with a teleoperated surgical robot gaining access to the European Union market and a clinical-grade model topping a major healthcare benchmark developed by OpenAI. Shanghai MicroPort MedBot said its Toumai Remote robot, which allowed surgeons to remo
+
+## Creditors in aggressive push to sell 2 Hong Kong hotels amid banks’ drive to cut losses
+Receivers and agents of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have expressed confidence in finally finding a buyer for the dual-branded complex – which together make up Hong Kong’s third-largest hotel by room numbers – as creditors move to dispose of the asset. Sole
 
 ## China’s biotech surge sparks US security concerns as drug trials break records in 2025
 Clinical drug trial registrations in China hit a record last year, the country’s drug regulator said, with more than 5,000 trials reported in the latest sign of the nation’s growing pipeline of novel drug candidates. The total number of clinical drug trials reached 5,215 in 2025, more than double th
@@ -143,15 +155,6 @@ Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been
 
 ## China’s CATL bets big on sodium-ion batteries to navigate lithium price volatility
 China’s Contemporary Amperex Technology Ltd (CATL), the world’s top lithium-ion battery maker, plans a major boost in production of sodium-based cells, a move that will help it navigate volatility in material prices while affecting both the electric vehicle (EV) and grid-storage sectors. The company
-
-## Access to global network of business experts and investors sets EQT Impact Challenge apart
-Amid a growing number of business pitch competitions aimed at early-stage companies and start-ups, the EQT Impact Challenge continues to stand apart for a number of key reasons. Foremost among them is that every year the winner receives much more than simply a generous financial award and supportive
-
-## Growth of Hong Kong’s ultra-wealthy class outpaces super-rich rivals in 2025: Altrata
-Hong Kong recorded the fastest growth rate in ultra-wealthy residents among the cities with the 10 largest super-rich populations, an expansion researchers attributed to an equity-market revival, real estate and investment reforms, and rising demand for wealth-management services. The city’s headcou
-
-## Alibaba chip unit T-Head triples capital amid AI hardware bet
-Alibaba Group Holding’s chip design unit T-Head has more than tripled its capital base, as the tech giant doubles down on efforts to become a domestic semiconductor powerhouse amid the artificial intelligence boom and China’s chip self-sufficiency drive. Shanghai-headquartered T-Head last week incre
 
 ## U.S., Iran Rally Support for Interim Peace Deal Abroad
 But competing assertions have Gulf nations worried that the agreement won’t last.
@@ -177,6 +180,21 @@ In trying to restore order after World War II, U.S. leaders drew lessons from a 
 ## Starmer Resigns as Burnham Eyes Top Job
 A decade after Brexit, the United Kingdom is still struggling to stabilize.
 
+## Loyalty Without Leverage: India’s US Tilt Yields Little
+India’s attempt to balance ties with the U.S. has turned into a tilt, still deemed insufficient by Washington. For India, it is all stick and no carrots.
+
+## How the Quad Can Deliver in a New Strategic Era
+The regular tempo of on-the-ground cooperation suggests that the Quad – despite its thin institutional structure – may in fact be insulated from higher level political volatility.
+
+## How China’s ‘Red Lines’ Are Quietly Shaping Global News Reporting
+Under Xi Jinping, the CCP has expanded its control over political language to the point where it challenges journalism’s most basic task: describing the world accurately.
+
+## Japan Is Investing in Offshore Wind in the UK. What About at Home?
+The Japan-U.K. compact shows Japanese companies still have an appetite for offshore wind, but local communities must not be left behind.
+
+## The Structural Limits of the EU’s China Policy
+The European Council’s latest mandate pairs dialogue with prospective new trade defense tools, institutionalizing an approach that complicates long-term ties with Beijing.
+
 ## Why the China-Iran Relationship Has Been Friendly But Distant Since Ancient Times
 The two civilizations have consistently found each other to be useful, yet they haven’t invested heavily in their partnership.
 
@@ -185,21 +203,6 @@ Australia’s geography may provide it with some insulation from conflict, but i
 
 ## What Happened to Indonesia’s Booming Tech Sector?
 Despite their initial promise, many of the country's major tech firms are struggling to create value for shareholders.
-
-## Bangladeshi PM Tarique Rahman Asks Malaysia to Lift Restrictions on Labor Migration
-Kuala Lumpur has recently tightened the intake of Bangladeshi workers due to concerns about abuse, debt bondage, and excessive recruitment fees.
-
-## Uyghurs Wonder: Does the US Still Care About Human Rights in China?
-After a disappointing Trump-Xi summit, Uyghurs in the United States are divided on Washington’s commitment to ending abuses in China.
-
-## Inside the Taliban’s New Military Formation on the Durand Line
-Amid a simmering conflict with Pakistan, Taliban Supreme Leader Hibatullah Akhundzada approved the creation of a new 4,000-member military formation known as the Hebati Unit.
-
-## Kazakhstan Reverses Course on Direct Elections of District Akims
-If earlier moves toward more direct elections were indictive of Kazakhstan's political maturation, what should we make of the reversal of that effort?
-
-## Tashiev Trial Closed Again
-A week after being opened to public scrutiny, the Tashiev trial has again been closed once more.
 
 ## Adapting to Uncertainty in the Strait of Hormuz
 Iran’s threats to shipping through the Strait of Hormuz — in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 — effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased restrictions, and s
@@ -249,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz
+US and Iran offer conflicting statements as negotiators push towards reaching a final, comprehensive deal.
+
+## UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz
+The UN's maritime agency launched an operation to evacuate more than 11,000 sailors stranded in the Strait of Hormuz.
+
+## Ronaldo late to World Cup party but still able to steal the show
+Portugal coach Martinez says Ronaldo’s rivalry with the likes of Messi drives both players to stay at their best.
+
+## Protesters sentenced to decades in US prison over alleged antifa ties
+Civil liberties advocates have expressed alarm over the case involving a protest outside Prairieland Detention Center.
+
+## US Supreme Court says Rastafarian man shaved by prison guards can’t sue
+The high court has upheld ruling that prisoners cannot sue prison staff for money damages under religious liberties law.
+
 ## Israel’s deliberate targeting of Palestinian children
 New UN report documents the toll of Israel's war on Gaza and its occupation of the West Bank on Palestinian children.
 
@@ -257,21 +275,6 @@ England and Ghana share a 0-0 draw in Group L, despite a late barrage by the Eng
 
 ## Donald Trump to attend World Cup final, present trophy: Infantino
 FIFA president Gianni Infantino will be 'enjoying the final' with Trump and present the trophy together on July 19.
-
-## UN: Israel committed genocide by targeting Gaza children
-Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.
-
-## Paraguay’s Almiron suspended for one game after red card for covering mouth
-FIFA also stripped journalist Jorge Chipi Vera of World Cup credentials after he criticised Almiron's red card on air.
-
-## Trump allies reassure Israelis amid tensions on US-Iran deal
-Trump allies reassure Israelis amid tensions on US-Iran deal
-
-## Massive fire rips through Indonesia sandal factory
-A massive fire destroyed a sandal factory in Tangerang, Indonesia, after it spread to a gas storage area.
-
-## UN starts evacuating 11,000 stranded sailors from Strait of Hormuz
-Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
