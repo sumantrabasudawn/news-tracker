@@ -1,7 +1,19 @@
 # AION Intelligence
 
-## Trump scraps planned signing of US housing affordability bill
+## Trump scraps signing of US housing affordability bill
 Bipartisan legislation is designed to boost supply and curb institutional investors’ role in property market
+
+## Britain’s grid operator called for more electricity as temperatures soar
+Extreme heat increases demand for power and reduces efficiency of solar panels
+
+## The emigrants Israel can’t afford to lose
+Those inclined to leave are the ones sustaining what’s left of the country’s liberal democracy
+
+## Red alerts across UK and Europe as heatwave takes a grip
+‘London is cooking’, says UN secretary-general, as temperatures reach a new record for June
+
+## Colombia’s ‘El Tigre’ aims to mimic rightwing firebrands Milei and Bukele
+President-elect Abelardo de la Espriella wants to take a chainsaw to the state and build mega-prisons in the Amazon
 
 ## 1776 and all that — the making and remaking of the Declaration of Independence
 Ahead of its 250th anniversary, four new books examine how America’s founding document has been repurposed over time — and why it remains contested today
@@ -12,23 +24,14 @@ Brakes were applied nine seconds before the impact but it slowed only from 75mph
 ## Crimea’s big cities in total blackout after Ukrainian drone strikes
 Kyiv has been waging an intensifying campaign on the Russian-occupied peninsula’s key infrastructure
 
-## Mamdani-backed candidates sweep New York primaries
-Democrat voters shift allegiance to new generation of leftwing politicians
-
-## Putin’s system is in a state of slow implosion
-Look to the erosion of fiscal discipline to see where the problems lie
-
-## Nato chief reveals Italy allowed US planes to use bases in Iran war
-Mark Rutte puts Giorgia Meloni under pressure by disclosing Rome let 500 aircraft take off in Operation Epic Fury
-
-## Burnham looks to move part of Number 10 operations to Manchester
-Plan marks radical attempt to shift power beyond Westminster
-
-## Berlin warship U-turn hits defence sector as KNDS heads to market
-Slump in Rheinmetall shares comes on same day tankmaker fires starting gun on long-awaited IPO
+## Everything is AI
+A Nightmare on LLM Street
 
 ## UK banks defeat watchdog in legal battle over historic loan complaints
 High Court rules that Financial Ombudsman Service unlawfully allowed consumers to challenge terms beyond 6-year limit
+
+## Rheinmetall shares plunge after Germany scraps warship project
+Berlin’s move to ditch frigate programme overshadows plans for listing of tankmaker KNDS
 
 ## Stripe and Anthropic invest in combating respiratory diseases
 Consortium puts $500mn into finding new drugs and scaling up air-treatment technologies
@@ -36,35 +39,32 @@ Consortium puts $500mn into finding new drugs and scaling up air-treatment techn
 ## China detains two Japanese nationals over alleged rare earth smuggling
 Escalation of dispute with Tokyo comes as Beijing opens whistleblower hotline for violations of critical mineral exports
 
-## Energy Source Forum: How to power data centres
-China and the US are the clear frontrunners in data centre rollouts as they battle for AI leadership
+## Trump claims Iran making major concessions, says ‘we’re winning by a lot’
 
-## How AI is transforming natural disaster prediction
-Catastrophe scientists are pushing past the limits of physics-based models, improving how insurers calculate risk
+
+## SC ruling highlights gap between right to walk and reality of India’s footpaths
+Data from the Council for Active Mobility show that only 9-20% of footpaths in major Indian cities comply with official standards
+
+## Markets rebound as global uncertainty eases; crude falls, RBI calms rate hike concerns
+Equity markets rebound as easing global uncertainty and falling crude prices boost investor confidence, calming RBI rate hike fears.
+
+## Solar rooftops slash household power bills to zero in Kerala, Rajasthan
+The Centre’s flagship rooftop solar initiative is proving effective in reducing household electricity costs
+
+## Thousands in France left without power amid scorching European heatwave
+Northern France is working to restore electricity to thousands of homes after a transformer-related incident linked to extreme heat.
+
+## First Norton Atlas rolled out at TVS Motor’s Hosur factory
+The Atlas officially launches globally next month; sales to begin later in Q3
 
 ## ED accuses Rajesh Exports of FEMA violations, ‘significant departures’ from trade norms
 Rajesh Exports failed to produce critical documentation for its imports, exports, overseas investments, and foreign trade settlements
 
-## Kunal Shah’s WhatsApp role signals Meta’s push to blend commerce, payments, conversations
-Industry executives believe Meta’s bet is less about payments alone and more about creating an ecosystem where discovery, communication and transactions happen seamlessly within WhatsApp.
+## India-US trade talks progress, but pact timeline remains elusive
+Both sides signal commitment to trade deal, but offer no timeline for conclusion
 
-## SaaS pricing to evolve from seat-based to consumption based: Freshworks CEO
-
-
-## Ex-ante competition regulation is crucial in the AI age, especially for India’s start-up ecosystem: Kush Amlani, Director-Global Competition, Mozilla
-A lot of big players haven’t found the right business models to generate profit.
-
-## Tech Mahindra CEO’s salary jumps 12% to ₹67.55 crore in FY26
-Joshi’s salary stood at £ 5.4 million for the year with £2.93 million as Employee Stock Ownership Plan and Employee Stock Ownership Plan and £1.11 million as performance pay and bonus
-
-## S&P upgrades Bharti Airtel to BBB+ on strong India, Africa growth outlook
-S&P said rising data consumption, premiumisation and subscriber growth will support Airtel’s performance in India, with ARPU expected to rise steadily.
-
-## Industry leaders push for transparency, faster approvals in Tamil Nadu Industrial Policy 2026
-Industry representatives raised concerns over skilled talent migration to other states and urged Tamil Nadu to strengthen its innovation ecosystem, focusing on semiconductors, electronics and biopharma while improving single-window clearances and regulatory predictability
-
-## India pharma sector shifts from generics to high-value innovation and biologics
-With over $30 billion in annual exports and a strong USFDA-approved manufacturing base, the industry is expanding into complex generics, biosimilars and AI-driven smart manufacturing
+## Hurun India 500: NSE retains India’s most valuable unlisted company tag, ahead of Serum Institute, Adani Properties
+The National Stock Exchange (NSE) leads India's most valuable unlisted companies with a Rs 4.86 lakh crore valuation, according to the 2025 Burgundy Private Hurun India 500 report. This comes as NSE files for a massive IPO. India Inc. now surpasses $3.4 trillion in value, though top companies saw a 
 
 ## Stock market: Which are top gainers and losers on NSE & BSE today? Check list
 Stock markets experienced a significant rebound on Wednesday, with the Sensex and Nifty surging past key levels. This rally was fueled by a sharp decline in crude oil prices, robust buying in banking and IT sectors, and growing optimism surrounding a potential India-US trade agreement. The positive 
@@ -87,58 +87,55 @@ When selecting a travel credit card, you should focus on the overall value propo
 ## Airfares could rise by up to 25% as jet fuel costs surge, says McKinsey
 Global jet fuel supplies are facing significant pressure due to geopolitical events and refinery limitations, according to McKinsey. This is driving up costs for airlines, with potential airfare hikes of 20-25% expected as fuel prices surge. Inventories remain low, and key exporting regions are rest
 
-## Crude prices drop to lowest since February on Iran supply hopes
-Global crude oil prices have plunged to four-month lows, driven by improved tanker traffic through the Strait of Hormuz and anticipation of increased Iranian oil exports. This easing of supply disruption fears has led to significant drops in Brent and WTI futures. Despite this, underlying geopolitic
+## Wrong turn makes Air India, IndiGo planes come face to face at Ahmedabad airport taxiway
+The incident happened at the Ahmedabad airport taxiway at around 8 pm when the Air India plane took a wrong turn, sources told HT.
 
-## Southwest monsoon reaches Gujarat; Gandhinagar, Rajkot still sizzle at 40.5°C
-Light to moderate rainfall is also likely in parts of Gujarat during the next seven days, IMD said.
+## Man boards train at 10:42pm, stabbed minutes later: How a rain-soaked argument turned deadly on a Mumbai local
+Mayank Lohar was stabbed multiple times inside a crowded first-class compartment in a Mumbai local train.
 
-## Mohan Yadav at centre of Ujjain land ‘scam’; BJP bombshell on Kharge family's trust: What is happening?
-A report showed that Mohan Yadav’s family bought 168 acres for ₹45 crore since December 2023, when the BJP leader become Madhya Pradesh chief minister.
+## If not a passport, then what? MEA statement reignites citizenship debate
+If voter cards are not definitive proof of citizenship and passports too are not, citizens may reasonably ask which document carries that status.
 
-## Delhi court cites fundamental rights, lets money laundering accused travel to Thailand for family vacation
-According to the ED, the properties belonged to Ginni Gold Private Limited and its directors-cum-promoters Ginni Devi and Reena Goel.
+## Number of ‘dangerous humid heat days’ on the rise: Study
+Released on Wednesday by the US-based NGO Climate Central, the study attributed the increase primarily to human-induced climate crisis
 
-## Ketan Agarwal's death appeared accidental, until one mistake exposed his fiancee's murder plot
-Siya Goyal was in a relationship with Chetan Chaudhary and did not want to marry Ketan Agarwal. The duo then decided to kill him, police said.
+## Over 50 foreign medical graduates meet Delhi health minister over internship delays, stipend disparity
+During the meeting, the Delhi Health Minister assured the delegation that the issues raised would be addressed at the earliest.
 
-## All about Devina Gahlot, daughter of a BJP MLA in spotlight after topping CUET-UG
-Despite her academic record, Devina said an all-India top rank in CUET was not something she had expected.
+## ‘Providing passport without…’: Javed Akhtar reacts to MEA's citizenship remark, calls it ‘absurd’
+Javed Akhtar asked whether the authorities were issuing passports without being convinced that the person was an Indian citizen.
 
-## Passport is a travel document, not proof of citizenship: MEA
-The passport remains a travel document, and not a document of citizenship, as it attests the nationality of Indians when they are abroad
+## Piyush Goyal to visit UK ahead of July 15 deadline to implement trade pact
+During the visit, Union commerce minister Piyush Goyal will hold a high-level bilateral meeting with his British counterpart, Peter Kyle
 
-## Chetan Chaudhary merely Siya's boyfriend, no concrete claims against him in Ketan's murder: Counsel
-Advocate Ram Shahane said the FIR in Ketan Agrawal's murder case doesn't describe Chetan Chowdhury's role and that the allegations against him are not concrete.
+## Family opposed live-in relationship: Bengaluru engineer's chilling confession after triple murder
+A 25-year-old software engineer was arrested for allegedly killing her parents and younger sister. She and her live-in partner are accused of the crime.
 
-## Centre removes early completion incentives to ensure hill road safety
-MoRTH mandates monsoon stability checks, stricter slope monitoring and geological surveys for National Highway projects in hilly areas.
-
-## 300 mm rainfall in 24 hours: First monsoon showers drown Mumbai
+## RBI revamps digital fraud compensation rules; expands customer safeguards
 
 
-## Rajkumar Hirani admits Dunki didn’t appeal to masses: ‘Middle class get their visas easily’
+## Tracks cave in, trains stall, buses break down as monsoon rain disrupts Mumbai
 
 
-## Man wanted in 68 cases caught over Rs 10,000 theft in Bengaluru
+## AMC U-turn: ‘Experts say Subhash Bridge reconstruction, not repair, best option’
 
 
-## Lucknow fire fallout: 18 engineers face the heat for ‘lapses’, action ordered
+## NHAI identifies 595 accident-prone unauthorised parking areas on highways after Supreme Court order
 
 
-## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on ceramic-based lithium battery, Gamma rays and more (Week 168)
+## PNB scam: ED moves court to serve notice to Nirav Modi’s brother Neeshal in Belgium
 
 
-## ‘I am not comfortable’: Saniya Iyappan reveals why she stopped performing at Kerala events
+## B35 bullet train project: NHSRCL begins capability assessment for 350 kmph high-speed train development
 
 
-## BMC ‘fully activated,’ but court says Kanjurmarg nuisance continues
+## Delhi fire at Tata data centre behind Google connection issues, destroyed 20 years of work for another firm: Report
 
 
-## ‘Preposterous’: Karnataka High Court cancels order to return 9 abused dogs to owner
+## Delhi school rape case: Family of accused threatened survivor’s family, court told
 
 
-## Danish court orders state to pay telecoms firm US$12m for Huawei equipment removal
+## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
 A Danish court has ordered the state to pay 80 million Danish kroner (US$12 million) in compensation to TDC NET, the country’s largest digital-infrastructure operator, after authorities forced it to strip Huawei equipment from its fibre network. The Eastern High Court in Copenhagen ruled on Wednesda
 
 ## China closes another offshore investing loophole as TRS faces restrictions
@@ -162,6 +159,12 @@ Chinese carmakers continued their rapid expansion in Europe last month according
 ## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
 Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
+## What Is Iran’s Nuclear Status Quo?
+Before diplomacy can move forward, U.S. negotiators face the daunting task of reestablishing a baseline.
+
+## Why the Iran Deal Might Endure
+Both Washington and Tehran need it.
+
 ## The New Geography of the World Cup
 Migration, colonial history, and elite academies have redefined today’s national teams.
 
@@ -179,12 +182,6 @@ But competing assertions have Gulf nations worried that the agreement won’t la
 
 ## Why the World Cup Keeps Eluding China
 Xi has spent billions of dollars trying to turn Beijing into a soccer powerhouse.
-
-## Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army
-An ugly chapter of World War II history is straining relations between Warsaw and Kyiv.
-
-## The U.S. Won the War With Iran
-It wasn’t a knockout blow, but Washington prevailed on points.
 
 ## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
 A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why Accra slavery reparatory justice meeting matters
-From apology to action: the renewed push for slavery reparations amid questions over delivery.
+## The children Gaza lost
+What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?
 
-## Rubio says Iran cannot charge tolls in Hormuz: What we know
-Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services.
+## Amid Israeli incursions, this mother demands the return of her son
+Many Lebanese civilians have gone missing amid continuous Israeli incursions in the south.
 
-## Rubio tries to reassure Gulf allies on US-Iran deal details
-Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding.
+## ABC ‘fighting back’, urging US public to defend stations amid FCC scrutiny
+Donald Trump has intensified criticism of ABC, alleging bias and threatening lawsuits over network's recent coverage.
 
-## When Paris is hotter than Mecca: How Europe’s heatwave compares globally
-Paris and other European cities are seeing temperatures above 40C (104F), levels normally seen across the Middle East.
+## Has the worst of the Hormuz crisis passed?
+Ships are moving again through the Strait of Hormuz, with oil prices falling. But relief for consumers may take longer.
 
-## Deaths, disruptions across Europe: What you should know about the heatwave
-Experts say the climate crisis is making Europe's heatwaves more frequent and more intense.
+## Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestin
+Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestine protest
 
-## What does Pakistan stand to gain from helping broker the US-Iran deal?
-Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance.
+## Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks
+Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.
 
-## Iranians cautiously optimistic about thorny deal with US
-Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes.
+## Trump cancels housing bill signing, demands US voter ID law first
+The affordable housing bill had been passed by bipartisan support, a rare move in a deeply divided US Congress.
 
-## World Cup 2026: Full group schedule and top third-round matches to watch
-Remaining group schedule, teams, as well as the best third-round group fixtures at the tournament in North America.
+## What The Elephant Knows | Ep 7 – Sri Lanka
+In rural Sri Lanka, families face deadly human-elephant conflict while seeking a fragile path to co-existence.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
