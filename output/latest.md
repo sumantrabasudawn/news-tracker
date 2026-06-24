@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## Red alerts across UK and Europe as heatwave takes a grip
-‘London is cooking’, says UN secretary-general, in call to act on global warming
+## MSCI delays Indonesia downgrade verdict and frustrates South Korea
+Index provider cites need to further evaluate reforms set out by regulators
 
-## Burnham set to demote Reeves to lesser cabinet role
-Britain’s probable next prime minister also expected to make James Purnell his chief of staff
+## FirstFT: The world’s largest sovereign restructuring
+Also in today’s newsletter, US-Iran hotline and Germany’s warship fiasco
 
-## British households not electrifying fast enough, says government climate adviser
-Report argues that switching to heat pumps and electric cars would bring down energy bills and avoid price shocks
+## Most energy roads lead to another increase from the ECB
+Read the June forecast from the FT’s Monetary Policy Radar team
 
-## Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods
-‘Unprecedented’ blockade of the strait raises concerns about the future of global maritime trade, says insurer Allianz
+## The scoop on the largest restructuring in history
+Venezuela is set to reveal a $240bn debt pile, much higher than previously thought
 
-## Germany set to scrap plans to build its biggest warship since second world war
-Berlin wants to ditch F126 frigate programme after cost overruns and delays
+## UK business rejects call to set maximum workplace temperature as heatwave deepens
+Three unions say more than 1,000 people have signed up to stage a walkout on hottest day of year with a high of 39C forecast
 
-## Senate approves war powers resolution aimed at reining in Trump on Iran war
-Largely symbolic resolution is a sign of disquiet over the US president’s handling of the conflict
+## Burnham draws up plans for devolution blitz ahead of key City speech
+Likely next prime minister has signalled he wants to draw on Manchester example and shift power away from Westminster
 
-## FirstFT: Alibaba sues US defence department over inclusion on Chinese military blacklist
-Also in today’s newsletter, Takaichi shuns Japan’s business elites, and China’s biggest IPO in four years
+## Struggling European carmakers have options, none of them good
+Forging alliances with China would help the struggling sector offload some of its bloated costs. It may be the pick of a bad bunch
 
-## US eases travel restrictions on Iran World Cup team
-Washington lengthens time period that team can arrive on American soil before last group game against Egypt
+## Qatar says US-Iran hotline essential to reopen Strait of Hormuz
+Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks
 
-## Nvidia’s banned AI chips double in price on China’s black market
-US crackdown on illicit exports has made it riskier, harder and more expensive to buy tech giant’s processors
+## BT’s pension fund lost £300mn on Thames Water
+One of UK’s biggest private schemes wrote off stake in beleaguered utility in 2024
 
-## Ari Emanuel in talks to buy West End and Broadway giant ATG for $6bn
-People familiar with the situation hope deal can be concluded soon with theatre group’s private equity owner Providence
+## The red flags at HSBC over funds linked to Lebanese central bank scandal
+The lender’s Swiss unit is under formal investigation over whether it helped Riad Salame embezzle funds
 
-## AI money floods NY primary race in test of Big Tech’s political power
-Donors target pro-regulation Democrat Alex Bores in race against Kennedy scion Jack Schlossberg
+## How a $20bn bet paid off for Africa’s richest man
+Critics dub Aliko Dangote a crony capitalist. He says he is pioneering Asian-style economic development
 
-## Drone start-up Stark wins more funding from Peter Thiel-backed firm
-US billionaire’s fund participated in €500mn funding round despite previous criticism of company’s links with financier
+## Private equity’s move into youth sports brings some truths home
+Investments create benefits but also lead to higher costs and risk of inequality
 
-## Oman announces temporary maritime corridor for ships transiting through Hormuz
-The vessels wanting to use the ​temporary ‌corridor would need to coordinate with the IMO, based ‌on coordinates announced ​by the organisation and Omani ⁠authorities
+## BMS opens Mumbai tech hub to scale AI and data operations
+The Mumbai GCC is intended to provide BMS specialist capacity as it deploys AI tools across its broking and operations footwork
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Meesho (₹187) – BUY
-Sensex Today, Nifty 50 | Stock Market Live Updates: Meesho share price can rise to ₹215
+## Ethanol blending programme safe, use of E20 won't affect vehicle insurance validity: Govt
+The ethanol blending programme has helped India save more than $1.4 lakh crore in foreign exchange by reducing crude oil imports: Govt
 
-## Vegetable inflation soars, likely to go up further
-Experts now warn that a projected below-normal monsoon could drive vegetable prices even higher
+## Indian-American lawmakers urge diaspora to enter politics amid rise in anti-India sentiment
+Congressman Raja Krishnamoorthi underscored the need for the Indian-American community to ‘get more involved than you've ever been. You have to raise your voice. You have to speak up. You have to show up’
 
-## Turtlemint IPO fetched 1.20 times overall subscription
-Stock will likely list on the stock exchanges next week.
+## Trump defends unfreezing Iran funds as Senate rebukes him on war
+Trump said the money released from frozen accounts can be used only to purchase food and medicines from the US
 
-## Indian, global stocks turn weak as AI-heavy Korea plunges 10%
-South Korea’s Kospi plunged 10 per cent on Tuesday, briefly triggering a circuit breaker, and the shockwaves were felt acutely in Mumbai
+## Andhra Pradesh: CM Naidu to inaugurate gold mining project at Jonnagiri
+₹405 crore project expected to produce up to 2 tonnes of gold annually
 
-## NSE, SBI Mutual Fund IPOs may yield ₹5,400 crore tax bonanza
-Collection from long-term capital gains set to surge from the 2 OFS issues
+## Sensex today | Stock Market Live Updates: Sensex climbs 500 pts, Nifty above 23,900; Tech Mahindra, ICICI lead gains
+Sensex Today, Nifty 50 | Stock Market Live Updates: Sensex soared 139.76 pts or 0.18% to 76,340.44 at 9.17 am after flat opening at 76,229.76. Nifty 50 was up 32.15 pts or 0.13% to 23,856.25.
 
-## Dining-out emerges as new growth battleground for Swiggy, Eternal
-Both companies reporting strong momentum in the segment over the past year.
+## Axis Bank prices its $300 million 5-yr Senior Unsecured Notes at a fixed rate of 5.348%
+Moody’s Ratings has assigned a “Baa3” rating, with a Stable Outlook to the above referenced obligation, Axis Bank says in a regulatory filing
 
-## Zee’s OTT viewership doubles in first two weeks of FIFA’26
-Despite placing the World Cup as premium content, with a separate subscription package, Z5 has also become the most download OTT in the past two weeks.
+## Honasa shares slip 3% after it announces acquisition of nutraceuticals maker Fluence Pharma
+The stock opened higher at ₹429.05, before declining sharply, with sell orders outpacing buys roughly 70-30
+
+## Top stocks to buy today: Stock recommendations for June 24, 2026 - check list
+Stock market recommendations: Eicher Motors Ltd, Torrent Power, and Bajaj Auto have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as top stock picks to buy today on June 24, 2026:
+
+## Gold, Silver Rate Today Live Updates: International gold, silver prices continue to drop as dollar strengthens
+
 
 ## GE sends AI 171 engine analysis, final AAIB report likely in 2 months
 GE Aerospace has sent the analysis reports for the engines of AI171 that had crashed in Ahmedabad last June, killing 260 people. All eyes are now on the Aircraft Accident Investigation Bureau. "Air accident investigations have to zero in on what could have happened.
@@ -78,59 +84,59 @@ GE Aerospace has sent the analysis reports for the engines of AI171 that had cra
 ## Raymond in talks to buy German engineering firm Deharde
 
 
-## Overseas branches can lend to NRIs for deposits in India
-RBI Clarifies FCNR(B) Rules, NRI Inflows To Support Rupee
+## 2021 Mundra drug bust: ED raids premises in Delhi linked to businessman Kabir Talwar
+The Mundra port drug bust of around 3,000 kg Afghan heroin worth ₹21,000 crore, intercepted in September 2021, was one of the biggest consignments ever which came to India via maritime route
 
-## Square Yards turns unicorn with 900 crore fundraise
+## Flowers, surprises and a proposal: Ketan Agarwal's last gift to the fiancee accused of killing him
+Videos show Ketan Agarwal, 25, organising an elaborate birthday celebration for Siya Goyal ahead of her 20th birthday, days before he was murdered.
 
+## ‘Congress leaders have much to say’: Jairam Ramesh on Shashi Tharoor's praise for PM Modi's G7 remarks
+Congress leader Jairam Ramesh, emphasized that differing opinions among its members, like Shashi Tharoor's praise for PM Modi, reflect democratic values.
 
-## Tamil Nadu govt moves SC against HC order on lighting Karthigai Deepam on Madurai hill
-The TVK government filed a Special Leave Petition before the Apex Court on June 11, shortly after the government led by chief minister Vijay assumed office.
+## Metro services resume on Purple Line after BMRCL rectifies technical snag
+The disruption led to heavy crowding at several metro stations on the Purple line, including Cubbon Park and MG Road.
 
-## Govt notifies new FCRA rules, restricts foreign nationals as NGO functionaries
-These rules are independent of an amended bill the government introduced in March, which it is likely to try and pass in the coming session of Parliament.
+## Siya's constant phone use, mention of Chetan: Pune man's father recalls ‘ignored red flags’ about fiancée
+According to Ketan's father, Siya spent a significant amount of time on her phone. Ketan had even mentioned the name of Chetan Chaudhary.
 
-## Leh, Kargil shut down to push for talks with Centre over delay in constitutional safeguards for Ladakh
-Ladakh bodies have been demanding statehood and protections under the sixth schedule after the abrogation of Article 370 in 2019
+## CUET topper Devina, BJP leader Kailash Gahlot's daughter, has a 3-point advice for preparation
+CUET topper Devina Gahlot emphasised the importance of breaks and NCERT materials in her study routine, crediting her family's support for her success.
 
-## Crisis-hit TMC reworks party organisation, cuts role of consultants
-Facing defections post-electoral defeat, TMC shifts strategy, affirming direct leadership control and limiting external influences amid ongoing turmoil.
+## Commuters face delays as heavy rain disrupts train services in Mumbai
+Central Railway (CR) officials said rail services were immediately suspended on the Turbhe-Koparkhairane section on the Trans-Harbour corridor
 
-## No road to have names of British, Mughals, Pathans: CM Adhikari tells Assembly
-West Bengal CM Suvendu Adhikari defends renaming Suhrawardy Avenue to Gopal Mukherjee Road, rejecting names linked to Mughals or British rulers.
+## Mumbai monsoon turns chaos: Roads flooded, subway shut, vehicles stranded after heavy rain | Videos
+Mumbai Weather: After a 12-day delay, the monsoon has finally arrived in the city, bringing heavy rainfall and widespread waterlogging across several areas.
 
-## Union minister George Kurian resigns after RS term ends
-BJP leader George Kurian resigned from the Union council after not being renominated to the Rajya Sabha, as Cabinet reshuffle speculations mount.
-
-## SC declines urgent hearing in ration denial linked to SIR
-The Supreme Court declined an urgent hearing on a plea against West Bengal's welfare benefits linked to electoral roll exclusions, directing it to the Calcutta High Court instead.
-
-## IAF to get its first Made-in-India C295 aircraft in Sept-end
-India's first private-sector C295 transport aircraft will be delivered to the air force on Sept 22-23, enhancing logistics and replacing old Avro aircraft.
-
-## The unravelling of regional parties: Why they are imploding
+## Stabbed in a first-class Mumbai local: 22-year-old killed after dispute over shutting train door
 
 
-## 40 years ago June 24, 1986: PM urges action on law & order
+## Bengaluru revenue officer suspended over illegal A-Khatas for 76 properties
 
 
-## Will a nation grow, stagnate, decline? Technology will tell
+## ‘Watch me’: Pinkie Roshan, 71, returns stronger after injury
 
 
-## What is the problem if someone else is LoP: Calcutta High Court on Sovandeb plea
+## Man gets ‘dead’ smart TV on arrival from Flipkart, wins Rs 22,000 payout
 
 
-## Heavy rains lash parts of Kolkata; trees uprooted, traffic disrupted
+## ‘Court orders only burden records, show us results’: Bombay HC questions state’s claims on Melghat water supply
 
 
-## ’20 lakh set to benefit’: Slum rehabilitation eligibility cut-off gets Delhi government nod
+## Court orders refund to dentist who quit MDS course in 6 days, says can’t hold certificates
 
 
-## Bengal govt to bring law to confiscate, auction properties of corrupt officials, says Suvendu
+## OTET 2026 rescheduled to July 5 after candidates flag clash with OSSSC exam
 
 
-## Keep calm and carry on with Larry
+## PM Modi meets Panchayat actors Binod and Bhushan, asks ‘Panchayat sunta hai ki nahi?’
 
+
+## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
+Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
+
+## Hong Kong stocks waver after overnight sell-offs in US
+Hong Kong stocks swung between gains and losses on Wednesday after an overnight tumult in US markets, spurred by jitters about frothy technology company valuations and an unwinding of leveraged bets on South Korean chipmakers. The Hang Seng Index slipped 0.1 per cent to 23,309.27 by 10.24am, backsli
 
 ## As China plans for demographic crisis, some sectors see opportunity
 As China moves towards becoming one of the world’s fastest-ageing economies – a trend causing worry over future productivity and a widening gulf between the country’s working and retired populations – Goldman Sachs said the pharmaceutical and biotechnology sectors could end up the biggest winners fr
@@ -150,11 +156,8 @@ Bankers working for JPMorgan Chase and Goldman Sachs in Hong Kong must have been
 ## The Intelligence Revolution: Redefining Out-of-Home Media in Hong Kong
 [The content of this article has been produced by our advertising partner.] In Hong Kong, a city that famously moves at the speed of light, the modern challenge for brands is no longer just about generating broad awareness, it is about delivering the right message at precisely the right time. Rooted
 
-## The AI enterprise that wins: why strategy, not software, makes the difference Eraneos – Anni Chi is a Business Reporter client.
-[The content of this article has been produced by our advertising partner.] Most executive teams are no longer asking whether AI matters. The harder question is why so many AI pilots, tools and experiments are yet to translate into measurable business value. Across industries, many companies struggl
-
-## China’s CATL bets big on sodium-ion batteries to navigate lithium price volatility
-China’s Contemporary Amperex Technology Ltd (CATL), the world’s top lithium-ion battery maker, plans a major boost in production of sodium-based cells, a move that will help it navigate volatility in material prices while affecting both the electric vehicle (EV) and grid-storage sectors. The company
+## Russia Makes Inroads in Southeast Asia
+Energy is Putin’s strongest card in a fuel-hungry region.
 
 ## U.S., Iran Rally Support for Interim Peace Deal Abroad
 But competing assertions have Gulf nations worried that the agreement won’t last.
@@ -176,9 +179,6 @@ Organized crime and U.S. global influence in the 20th century.
 
 ## From Bloody Kansas to the Rebuilding of Europe
 In trying to restore order after World War II, U.S. leaders drew lessons from a dark chapter in their country’s history.
-
-## Starmer Resigns as Burnham Eyes Top Job
-A decade after Brexit, the United Kingdom is still struggling to stabilize.
 
 ## Loyalty Without Leverage: India’s US Tilt Yields Little
 India’s attempt to balance ties with the U.S. has turned into a tilt, still deemed insufficient by Washington. For India, it is all stick and no carrots.
@@ -252,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz
-US and Iran offer conflicting statements as negotiators push towards reaching a final, comprehensive deal.
+## Kenyan Health Minister orders halt of construction of US Ebola facility
+Kenya’s Health Minister has stopped the construction of a US Ebola facility in Kenya.
 
-## UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz
-The UN's maritime agency launched an operation to evacuate more than 11,000 sailors stranded in the Strait of Hormuz.
+## Ghana celebrates after holding nervous England to 0-0 draw
+Ghanaians took to the streets in celebration after the Black Stars held England to a 0-0 draw at the World Cup.
 
-## Ronaldo late to World Cup party but still able to steal the show
-Portugal coach Martinez says Ronaldo’s rivalry with the likes of Messi drives both players to stay at their best.
+## Cristiano Ronaldo becomes first player to score in six World Cups
+Cristiano Ronaldo scored twice in Portugal’s 5-0 win over Uzbekistan
 
-## Protesters sentenced to decades in US prison over alleged antifa ties
-Civil liberties advocates have expressed alarm over the case involving a protest outside Prairieland Detention Center.
+## Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil
+Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil.
 
-## US Supreme Court says Rastafarian man shaved by prison guards can’t sue
-The high court has upheld ruling that prisoners cannot sue prison staff for money damages under religious liberties law.
+## Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo
+Daniel Munoz's 76th-minute goal guided Colombia to a Group K win over DR Congo, sending them to the round of 32.
 
-## Israel’s deliberate targeting of Palestinian children
-New UN report documents the toll of Israel's war on Gaza and its occupation of the West Bank on Palestinian children.
+## NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick
+The 6ft 8in (2.03m) 19-year-old forward was scooped by the Wizards after playing just one season of college basketball.
 
-## England held by Ghana at World Cup as pair close on last-32 passage
-England and Ghana share a 0-0 draw in Group L, despite a late barrage by the English.
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
 
-## Donald Trump to attend World Cup final, present trophy: Infantino
-FIFA president Gianni Infantino will be 'enjoying the final' with Trump and present the trophy together on July 19.
+## China takes US crown on ranking of world’s fastest supercomputers
+China’s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.
+
+## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
+At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
 
 ## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
 Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
@@ -296,9 +299,6 @@ A key parliamentary panel is launching a deep dive into India's economic landsca
 
 ## India on track for $1 trillion exports in FY27
 He expressed strong confidence, citing progress and the impact of free trade agreements and improved business ease. Discussions with the US on a trade pact are finalised, awaiting India's tariff advantage over rivals for implementation.
-
-## Dealmaking stays strong as startup M&A momentum carries into 2026
-Indian startups are experiencing a surge in M&A exits, particularly in consumer, fintech, and ecommerce sectors, signalling a robust recovery in dealmaking. Major acquisitions by L'Oréal and Marico have been the latest in this trend, with strategic buyers increasingly seeking to integrate new capabi
 
 ## 'Gulf uncertainty prompted RBI wait and watch policy'
 The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
