@@ -1,28 +1,37 @@
 # AION Intelligence
 
+## Wimbledon tennis stars plan protest despite 20% rise in prize money
+Campaign that kicked off at Roland-Garros has won support of top players including Jannik Sinner
+
+## Predictions market Kalshi in talks to raise funds at $40bn valuation
+Rapidly growing company is increasingly challenging established derivatives and betting rivals
+
+## UAE billionaire’s son revealed as buyer of £190mn London mansion
+Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
+
+## UK business rejects call to set maximum working temperature
+Trades Union Congress has previously called for an indoor limit of 30C
+
 ## Trump scraps signing of US housing affordability bill
 Bipartisan legislation is designed to boost supply and curb institutional investors’ role in property market
 
-## Britain’s grid operator called for more electricity as temperatures soar
-Extreme heat increases demand for power and reduces efficiency of solar panels
+## UK takeover targets are right to set the bar high
+Rejecting bids is not a riskless strategy. But this time boards may have a point
 
-## The emigrants Israel can’t afford to lose
-Those inclined to leave are the ones sustaining what’s left of the country’s liberal democracy
+## Autocrat’s daughter Keiko Fujimori on track to win Peru election
+Rightwing candidate’s opponent has pledged to contest result of presidential run-off vote
 
-## Red alerts across UK and Europe as heatwave takes a grip
-‘London is cooking’, says UN secretary-general, as temperatures reach a new record for June
+## Latin America’s shallow shift to the right
+Colombia and other recent polls highlight polarisation rather than a decisive swing
 
-## Colombia’s ‘El Tigre’ aims to mimic rightwing firebrands Milei and Bukele
-President-elect Abelardo de la Espriella wants to take a chainsaw to the state and build mega-prisons in the Amazon
+## Prosus leads €480mn investment in French health tech start-up Alan
+Paris-based group raises one of Europe’s biggest non-AI start-up rounds this year
 
-## 1776 and all that — the making and remaking of the Declaration of Independence
-Ahead of its 250th anniversary, four new books examine how America’s founding document has been repurposed over time — and why it remains contested today
+## Credible deterrence requires a new Nato bank
+Capital rules prevent the defence ecosystem from getting financing at the volume it needs from commercial lenders
 
-## Train in fatal UK crash passed red signal, investigators say
-Brakes were applied nine seconds before the impact but it slowed only from 75mph to 49mph
-
-## Crimea’s big cities in total blackout after Ukrainian drone strikes
-Kyiv has been waging an intensifying campaign on the Russian-occupied peninsula’s key infrastructure
+## Top Andy Burnham pick advised Thames Water creditors
+James Purnell’s previous role running consultancy Flint Global has raised concerns about conflicts of interest
 
 ## Everything is AI
 A Nightmare on LLM Street
@@ -30,14 +39,8 @@ A Nightmare on LLM Street
 ## UK banks defeat watchdog in legal battle over historic loan complaints
 High Court rules that Financial Ombudsman Service unlawfully allowed consumers to challenge terms beyond 6-year limit
 
-## Rheinmetall shares plunge after Germany scraps warship project
-Berlin’s move to ditch frigate programme overshadows plans for listing of tankmaker KNDS
-
-## Stripe and Anthropic invest in combating respiratory diseases
-Consortium puts $500mn into finding new drugs and scaling up air-treatment technologies
-
-## China detains two Japanese nationals over alleged rare earth smuggling
-Escalation of dispute with Tokyo comes as Beijing opens whistleblower hotline for violations of critical mineral exports
+## Britain’s grid operator called for more electricity as temperatures soar
+Extreme heat increases demand for power and reduces efficiency of solar panels
 
 ## Trump claims Iran making major concessions, says ‘we’re winning by a lot’
 
@@ -87,6 +90,9 @@ When selecting a travel credit card, you should focus on the overall value propo
 ## Airfares could rise by up to 25% as jet fuel costs surge, says McKinsey
 Global jet fuel supplies are facing significant pressure due to geopolitical events and refinery limitations, according to McKinsey. This is driving up costs for airlines, with potential airfare hikes of 20-25% expected as fuel prices surge. Inventories remain low, and key exporting regions are rest
 
+## PM Modi thanks Qatar Amir for condolences after Ras Laffan explosion
+Modi and Al Thani spoke by phone on Tuesday, when the two sides reiterated their commitment to ensuring the safety and well-being of their citizens
+
 ## Wrong turn makes Air India, IndiGo planes come face to face at Ahmedabad airport taxiway
 The incident happened at the Ahmedabad airport taxiway at around 8 pm when the Air India plane took a wrong turn, sources told HT.
 
@@ -108,31 +114,28 @@ Javed Akhtar asked whether the authorities were issuing passports without being 
 ## Piyush Goyal to visit UK ahead of July 15 deadline to implement trade pact
 During the visit, Union commerce minister Piyush Goyal will hold a high-level bilateral meeting with his British counterpart, Peter Kyle
 
-## Family opposed live-in relationship: Bengaluru engineer's chilling confession after triple murder
-A 25-year-old software engineer was arrested for allegedly killing her parents and younger sister. She and her live-in partner are accused of the crime.
-
-## RBI revamps digital fraud compensation rules; expands customer safeguards
+## Brazil vs Scotland, FIFA World Cup 2026 Live Score: Neymar in focus as BRA look to book RO32 spot vs SCO
 
 
-## Tracks cave in, trains stall, buses break down as monsoon rain disrupts Mumbai
+## Lohagad Fort death: Accused Chetan Chaudhary’s kin says he is falsely implicated
 
 
-## AMC U-turn: ‘Experts say Subhash Bridge reconstruction, not repair, best option’
+## Southwest monsoon reaches Gujarat after 9-day delay
 
 
-## NHAI identifies 595 accident-prone unauthorised parking areas on highways after Supreme Court order
+## Kareena Kapoor once revealed why Karisma is the family’s go-to person: ‘Kuch bhi ho, call Lolo’
 
 
-## PNB scam: ED moves court to serve notice to Nirav Modi’s brother Neeshal in Belgium
+## Kolkata warehouse collapse: Doctors, staff on war footing as injured & their kin beeline SSKM hospital
 
 
-## B35 bullet train project: NHSRCL begins capability assessment for 350 kmph high-speed train development
+## Passport a travel document, not citizenship proof: Ministry of External Affairs
 
 
-## Delhi fire at Tata data centre behind Google connection issues, destroyed 20 years of work for another firm: Report
+## From AI to traffic management: Delhi LG calls for people-centric policing
 
 
-## Delhi school rape case: Family of accused threatened survivor’s family, court told
+## Restaurant license suspended | Cheese analogue sold as paneer: Pune FDA launches crackdown
 
 
 ## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
@@ -159,6 +162,12 @@ Chinese carmakers continued their rapid expansion in Europe last month according
 ## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
 Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
+## Treasury Chief Bessent Defends Trump’s Iran Deal
+Vice President J.D. Vance isn’t the only one being trotted out to sell an unpopular deal.
+
+## The Middle East’s Great Divergence Is Underway
+With economic and security interests split between great powers, the region is beginning to consider a third path.
+
 ## What Is Iran’s Nuclear Status Quo?
 Before diplomacy can move forward, U.S. negotiators face the daunting task of reestablishing a baseline.
 
@@ -176,12 +185,6 @@ Rather than ensuring the free flow of energy, U.S. intervention has only interru
 
 ## Russia Makes Inroads in Southeast Asia
 Energy is Putin’s strongest card in a fuel-hungry region.
-
-## U.S., Iran Rally Support for Interim Peace Deal Abroad
-But competing assertions have Gulf nations worried that the agreement won’t last.
-
-## Why the World Cup Keeps Eluding China
-Xi has spent billions of dollars trying to turn Beijing into a soccer powerhouse.
 
 ## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
 A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
@@ -207,6 +210,9 @@ The Iran-U.S. conflict has served to concentrate attention on the transport rela
 ## Not Just the Military: Xi Jinping’s Other Senior Party Purge
 Xi has ruthlessly gone after former Politburo Standing Committee member and one-time economic czar Wang Qishan.
 
+## Nuclear Stability in the Age of AI
+In 2024, Paul Scharre and Michael Depp wrote, “Artificial Intelligence and Nuclear Stability,” where they argued integrating artificial intelligence into the nuclear chain of command presents both opportunities and risks. Two years later, as AI becomes increasingly integrated into military systems a
+
 ## Designing Drones for Africa
 This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and chief engineer of Terra Industries, an African defense technology company building autonomous drone and counter-drone systems designed for the continent’s operating conditions. As cheap imported airframes flood African m
 
@@ -227,9 +233,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## Too Big To Break Again: India, Italy, and the Defense Partnership That Almost Wasn’t
 A single bribe nearly ruined a defense partnership most people didn’t know even existed. It took India and Italy almost a decade to recover.The story of how that rupture happened — and what it exposed about Italy’s quiet but deep role in India’s military — is essential to understanding why both coun
-
-## Why India Will Stick with America
-The Trump administration has not been kind to India. Nevertheless, India has responded with far greater equanimity than most observers expected. Predictions that President Donald Trump’s behavior will hurt U.S.-Indian relations have not come to pass, with the leaders of the two countries remaining i
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The children Gaza lost
-What does a new UN report documenting the killing and suffering of Palestinian children in Gaza reveal?
+## Our life stops’: West Bank childhood shattered by Israeli military raids
+A new UN report documents killings, detentions and lasting psychological harm to Palestinian children.
 
-## Amid Israeli incursions, this mother demands the return of her son
-Many Lebanese civilians have gone missing amid continuous Israeli incursions in the south.
+## Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win
+Presidential candidate Ivan Cepeda accepted the victory of his opponent Abelardo de la Espriella.
 
-## ABC ‘fighting back’, urging US public to defend stations amid FCC scrutiny
-Donald Trump has intensified criticism of ABC, alleging bias and threatening lawsuits over network's recent coverage.
+## Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza
+An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.
 
-## Has the worst of the Hormuz crisis passed?
-Ships are moving again through the Strait of Hormuz, with oil prices falling. But relief for consumers may take longer.
+## LIVE: Scotland vs Brazil – World Cup 2026
+Updates of Scotland vs Brazil, who have Neymar back from injury, via our buildup and text commentary stream coverage.
 
-## Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestin
-Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestine protest
+## What to know about the Israeli-developed chip in Apple’s iPhone 17e
+There’s more to the iPhone 17e than meets the eye. Like an advanced silicon chip that is said to be developed in Israel.
 
-## Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks
-Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.
+## Flash floods hit India’s Arunachal Pradesh
+Torrential rain has triggered flash floods and landslides in India's northeastern state of Arunachal Pradesh.
 
-## Trump cancels housing bill signing, demands US voter ID law first
-The affordable housing bill had been passed by bipartisan support, a rare move in a deeply divided US Congress.
+## Did Brexit actually work?
+A vote that changed Britain forever. Ten years after Brexit, the UK is still grappling with its consequences.
 
-## What The Elephant Knows | Ep 7 – Sri Lanka
-In rural Sri Lanka, families face deadly human-elephant conflict while seeking a fragile path to co-existence.
+## Iran’s president awarded honorary doctorate in Pakistan
+Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
