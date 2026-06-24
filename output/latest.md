@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## Micron posts 15-fold profit surge as AI companies clamour for chips
+Shares rally in after-hours trading as chipmaker forecasts sustained demand for computer memory
+
+## FirstFT: Anthropic says Alibaba ‘illicitly’ accessed Claude
+Also in today’s newsletter, China detains two Japanese nationals on smuggling charges, and Venezuela to reveal $240bn debt pile
+
+## IOC to pay Olympians for the first time in its history
+Governing body sets up $140mn fund covering Summer and Winter Games to disburse grants to every participant
+
+## Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
+AI company says the Chinese ecommerce giant used fake accounts to ‘extract’ chatbot’s capabilities
+
+## Qualcomm reveals Meta as first Big Tech customer for data centre chips
+Announcement of deal along with higher revenue outlook boost shares as much as 15%
+
 ## US banks would lose $700bn in economic crash, Fed stress tests find
-JPMorgan and Goldman Sachs boost dividends after receiving pass marks
+Several Wall Street lenders boost investor payouts after receiving pass grades
 
 ## Bitcoin hits 20-month low as market sentiment sours
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
@@ -9,26 +24,8 @@ Price of world’s most actively traded digital asset falls below $60,000 amid s
 ## Disney draws viewer support in deepening fight against Trump administration
 Media group calls on audience to join its defence against attacks by chair of Federal Communications Commission
 
-## Wimbledon tennis stars plan protest despite 20% rise in prize money
-Campaign that kicked off at Roland-Garros has won support of top players including Jannik Sinner
-
-## Predictions market Kalshi in talks to raise funds at $40bn valuation
-Rapidly growing company is increasingly challenging established derivatives and betting rivals
-
-## UAE billionaire’s son revealed as buyer of £190mn London mansion
-Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
-
-## UK business rejects call to set maximum working temperature
-Trades Union Congress has previously called for an indoor limit of 30C
-
-## Trump scraps signing of US housing affordability bill
-Bipartisan legislation is designed to boost supply and curb institutional investors’ role in property market
-
-## UK takeover targets are right to set the bar high
-Rejecting bids is not a riskless strategy. But this time boards may have a point
-
-## Prosus leads €480mn investment in French health tech start-up Alan
-Paris-based group raises one of Europe’s biggest non-AI start-up rounds this year
+## Bain Capital set to buy controlling stake in VW’s marine engine unit
+Carmaker moved to sell the Everllence division after pressure to cut costs and debt
 
 ## Trump claims Iran making major concessions, says ‘we’re winning by a lot’
 
@@ -78,6 +75,9 @@ A recovery in South Korean markets and supportive global developments also aided
 ## Elon Musk loses trillionaire status: Here's why his net worth fell
 Elon Musk, once the world's first trillionaire, has seen his net worth dip below the 13-figure mark to $957 billion. A significant sell-off in Tesla and SpaceX shares, following SpaceX's IPO surge, has led to this decline. Concerns over an AI market bubble and potential interest rate hikes are contr
 
+## 2015 Behbal Kalan firing case: Punjab Police SIT issues fresh summons to BJP leader Sampla
+The notice states that the SIT believes Sampla is acquainted with the facts and circumstances of the cases and warns that non-compliance may attract action.
+
 ## Pune trek case: Chetan Chaudhary's father claims son is being 'falsely implicated' in Ketan Agarwal's death
 Chetan's father Babulal Chaudhary said that he had neither heard of nor seen Siya before her name surfaced in connection with the case.
 
@@ -99,31 +99,28 @@ Released on Wednesday by the US-based NGO Climate Central, the study attributed 
 ## Over 50 foreign medical graduates meet Delhi health minister over internship delays, stipend disparity
 During the meeting, the Delhi Health Minister assured the delegation that the issues raised would be addressed at the earliest.
 
-## ‘Providing passport without…’: Javed Akhtar reacts to MEA's citizenship remark, calls it ‘absurd’
-Javed Akhtar asked whether the authorities were issuing passports without being convinced that the person was an Indian citizen.
+## Inspection, sealing amid crackdown on coaching centres in Delhi-NCR after Lucknow fire
+
+
+## Ecological concerns emerge as Delhi runs out of space to dispose drain silt
+
+
+## 10 lakh kg waste processed in 8 years: Lessons from a zero-waste residential colony in Delhi
+
+
+## If he is guilty, please hang him: Brother of accused in South Delhi rape-murder case
+
+
+## Build shelters for homeless, ensure screening of cab drivers: Delhi Police set to propose to government
+
+
+## Delhi government approves 270-km road strengthening project worth Rs 658 crore
+
 
 ## Lion cub’s carcass found with injuries in Junagadh, search on for suspect: Forest dept
 
 
 ## Local train killing: Who is Roshan Suvarna, and how police tracked him down
-
-
-## Don’t accord separate recognition to rebel MPs, Sena (UBT) MPs urge Lok Sabha Speaker Om Birla
-
-
-## Gujarat government cuts tax rate on liquor served in GIFT city
-
-
-## Family, football & faith: CA Intermediate toppers weigh in on what it takes to crack exam
-
-
-## Locked sprawling house, wary neighbours: Co-owner of commercial building at centre of Lucknow fire probe
-
-
-## Who is Vinod Doddamani? Indian-origin lawyer facing $250,000 fine over asylum fraud in US
-
-
-## Brazil vs Scotland, FIFA World Cup 2026 Live Score: Can SCO upset BRA in Miami? Starting lineups confirmed
 
 
 ## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
@@ -150,6 +147,12 @@ Chinese carmakers continued their rapid expansion in Europe last month according
 ## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
 Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
+## Will Pakistan’s Iran Gamble Pay Off?
+Islamabad could leverage its success as a mediator to secure its own interests.
+
+## Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?
+The NATO chief seeks to manage the U.S. president while appeasing other alliance members.
+
 ## Will Congo’s President Push a Third Term?
 As Kinshasa faces multiple crises, a bill risks plunging the country further into instability.
 
@@ -167,12 +170,6 @@ Both Washington and Tehran need it.
 
 ## The New Geography of the World Cup
 Migration, colonial history, and elite academies have redefined today’s national teams.
-
-## China’s De-Dollarization Drive Has Hit a Wall
-Beijing can create financial instruments, but it cannot decree demand.
-
-## Washington’s Middle East Military Presence Is Uniquely Counterproductive
-Rather than ensuring the free flow of energy, U.S. intervention has only interrupted it.
 
 ## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
 A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
@@ -246,29 +243,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## European heatwave, scorching weather triggers UK ‘red’ warning
+Britain is facing its hottest June weather on record as a blistering heatwave spreads across Europe.
+
+## Ronaldinho makes surprise return to football at 46
+Former Brazil football star Ronaldinho comes out of retirement at the age of 46, signing with Italian club Ravenna FC.
+
+## Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32
+Bosnia are in a strong position to be one of the best eight third-placed teams to progress to the last 32.
+
+## Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone
+Madibo's tackle on Kone in the team's Group B match left the Canadian player with a broken leg.
+
+## Katz: Israel will not withdraw from Lebanon even if US demands it
+Defence Minister Israel Katz said Israel will maintain its presence in Lebanon even if US demands withdrawal.
+
+## Scotland fans take over Miami ahead of Brazil World Cup clash
+Scotland fans have gathered in their thousands ahead of a blockbuster World Cup clash with Brazil.
+
 ## Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says
 Iranian team's trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.
 
 ## Palestinian activist faints after his release from Israeli prison
 Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.
-
-## Family sues Tesla for wrongful death in Autopilot crash in Texas, US
-Lawsuit claims Tesla's Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures.
-
-## Zimbabwe’s Senate approves amendment extending presidential term
-Constitutional amendment will keep President Mnangagwa in office until 2030 and allow parliament to elect the president.
-
-## US public health agency concludes hantavirus response as outbreak eases
-The US Department of Health and Human Services has announced the end of the monitoring period for the virus.
-
-## Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit
-E5 talks in Berlin took place between heads of state of Britain, France, Italy, Poland and Germany ahead of July summit.
-
-## US judge blocks Trump subpoenas into transgender care at New York hospitals
-The Trump administration has called for a probe into transgender healthcare, leading it to subpoena medical records.
-
-## At least three killed in drone strikes in Russian controlled Horlivka
-A multi-storey apartment has been hit with what Russian-installed authorities called a Ukrainian drone strike.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
