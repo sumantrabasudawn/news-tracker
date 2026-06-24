@@ -1,73 +1,79 @@
 # AION Intelligence
 
-## Is this teenage girl North Korea’s next dictator?
-Emergence of Kim Jong Un’s daughter at many public events fuels speculation that she is being lined up as a leader
+## Burnham looks to move part of Number 10 operations to Manchester
+Plan marks radical attempt to shift power beyond Westminster
 
-## Euro sinks to one-year low as falling oil prices ease pressure on ECB
-Traders back away from bets on further interest rate rises as economy slows
+## China detains two Japanese nationals over alleged rare earth smuggling
+Escalation of dispute with Tokyo comes as Beijing opens whistleblower hotline for violations of critical mineral exports
 
-## Burnham’s first hire helps win over his doubters
-James Purnell, set to be chief of staff, reassures Labour MPs about presumptive PM’s management of the economy
+## Britain’s grid operator calls for more electricity as temperatures soar
+Extreme heat increases demand for power and reduces efficiency of solar panels
 
-## Segro rejects £12.6bn takeover bid from US data centre rival Prologis
-UK landlord’s shares jump almost a fifth after its suitor urges shareholders to pressure the board to engage
+## Dassault wins EU legal claim that private jets can be environmentally sustainable
+European Court of Justice rules against Brussels’ exclusion of business jets from new green rules
 
-## Bank of Japan’s summary of opinions shows support for further rate rises
-Policymakers worried about upside risks to inflation but most did not see a case to accelerate tightening
+## EU set to clear Paramount’s $111bn takeover of Warner Bros
+David Ellison’s media group is discussing remedies with Brussels in order to clear key regulatory hurdle
 
-## South Korea stock volatility hits record high amid AI doubts
-Shares of chipmakers Samsung and SK Hynix gyrate in choppy trading
+## Burnham draws up plans for devolution blitz ahead of key City speech
+Likely next prime minister has signalled he wants to draw on Manchester example and shift power away from Westminster
 
-## Darren Jones says Burnham understands fiscal rules as he rules out leadership bid
-Former Treasury minister says prospective prime minister has reassured him over economic plans
+## SK Hynix bets on AI demand with bumper $29bn US listing
+South Korean chipmaker capitalises on central role in global AI boom
 
-## China’s premier says competitiveness not down to subsidies
-Li Qiang dismisses trading partners’ complaints at World Economic Forum’s ‘Summer Davos’
+## FirstFT: Venezuela to initiate world’s largest sovereign restructuring
+Also in today’s newsletter, Hegseth forces out top US army officer in Europe and Colombian president-elect’s inspirations
 
-## Nationalising Thames Water can be easier than it looks
-The UK’s next PM faces some hard decisions. Bringing the failing utility into state ownership isn’t one of them
+## Energy Source Forum: How to power data centres
+China and the US are the clear frontrunners in data centre rollouts as they battle for AI leadership
 
-## Tankmaker KNDS kicks off process for listing in Frankfurt and Paris
-IPO will test investor appetite for defence stocks and comes as region embarks on rearmament drive
+## How AI is transforming natural disaster prediction
+Catastrophe scientists are pushing past the limits of physics-based models, improving how insurers calculate risk
 
-## SpaceX stumbles
-Ordinary IPO behaviour
+## What happened to Starmer’s ‘clean energy superpower’ plan?
+Outgoing UK leader was hesitant to argue the case for his government’s ambitious energy goals
 
-## FirstFT: The world’s largest sovereign restructuring
-Also in today’s newsletter, US-Iran hotline and Germany’s warship fiasco
+## Systemic maternity failures led to hundreds of deaths and injuries, review finds
+Damning report into Nottingham NHS trust criticises culture of bullying and staff ignoring pregnant women
 
-## The scoop on the largest restructuring in history
-Venezuela is set to reveal a $240bn debt pile, much higher than previously thought
+## SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly
+SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly
 
-## Struggling European carmakers have options, none of them good
-Forging alliances with China would help the struggling sector offload some of its bloated costs. It may be the pick of a bad bunch
+## Matrixdock Expands XAUm to Stellar, Bringing Bureau Veritas-Audited and LBMA-Accredited Tokenized Gold to the Stellar Ecosystem
+Matrixdock Expands XAUm to Stellar, Bringing Bureau Veritas-Audited and LBMA-Accredited Tokenized Gold to the Stellar Ecosystem
 
-## Qatar says US-Iran hotline essential to reopen Strait of Hormuz
-Prime Minister Sheikh Mohammed says Gulf state will resume normal LNG production within weeks
+## IIM Udaipur Welcomes MBA 2026-28 Batch: A Cohort Defined by Diversity, Talent, and Ambition
+IIM Udaipur Welcomes MBA 2026-28 Batch: A Cohort Defined by Diversity, Talent, and Ambition
 
-## Slower deposit growth versus credit growth does not constrain banks from lending; they have sufficient capital: RBI Guv Malhotra
-Banks are constrained for credit only when they do not have sufficient capital and we (banks) have sufficient capital, RBI Governor said
+## Style Baazar Hosts Star Cast of Upcoming Bengali Film Abhhiman at Avani Riverside Mall
+Style Baazar Hosts Star Cast of Upcoming Bengali Film Abhhiman at Avani Riverside Mall
 
-## Hyderabad names a road after Donald Trump, faces backlash from the BJP
-Congress says the renaming gesture demonstrates Hyderabad’s “growing role” in the partnership of the two countries
+## Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery
+One client says it lost two decades of data
 
-## StartupTN CEO Sivarajah Ramanathan steps down; new CEO yet to be appointed
-Ramanathan’s tenure was to run till January 2027
+## West Bengal framing rules to incentivise fresh investment; benefits must match neighbouring states, says FM Swapan Dasgupta
+Speaking at an Assocham event, he stressed competitive industrial incentives and announced a “West Bengal Investment Promotion Framework” to boost growth, investment and jobs through a cluster-based approach along industrial corridors
 
-## EMA Partners acquires Taggd at ₹113 crore to create India's largest talent recruitment platform
-Taggd will continue to operate as a separate brand within EMA’s portfolio, retaining its leadership team, client relationships, and operational structure
+## Kunal Shah to lead WhatsApp as Meta pumps $900 mn into CRED
+Funding values fintech firm at $4.5 billion; Sampat named interim CEO
 
-## Dubai’s GEMS Education enters India with $30 mn investment
-Over the long term, GEMS Education aims 30 owned schools and network of over 1,000 partner schools
+## Meta’s Cox sought Kunal Shah’s WhatsApp advice — then made him leader
+Shah on Monday was announced as the new global head of WhatsApp, one of world’s largest communications services and a potentially lucrative driver of Meta’s future revenue
 
-## Sensex today | Stock Market Live Updates: Sensex jumps 950 pts, Nifty above 24,000 led by banks, financial rally
-Sensex Today, Nifty 50 | Stock Market Live Updates: Markets extended gains from the morning trade. At 1.33 pm, Sensex gained 907.77 points or 1.19% to 77,108.45, while Nifty 50 increased by 243.15 points (1.02%) to 24,067.25.
+## ‘Constructive, forward-looking’: India, US conclude ministerial-level talks on FTA
+India and the US concluded ministerial talks on a proposed trade deal, aiming for an interim pact before a US tariff deadline next month. Discussions focused on market access, digital trade, and reducing barriers. This follows recent high-level meetings and aims to deepen economic ties, with both na
 
-## Kochi-based Ikin Global raises $2 million in Pre-Series A2 round
-Funds to fuel international expansion and new product development
+## Why did stock market rally today? BSE Sensex closes around 800 points up - top reasons for rise
+A recovery in South Korean markets and supportive global developments also aided the rally. The Sensex climbed almost 791 points to settle at 76,991, while the Nifty 50 gained about 198 points to close at 24,022.
 
-## UST’s AI Cloud Centre of Excellence to help transform telecom operators
-Leverages AWS Generative AI services Kiro, AWS Bedrock, and Amazon SageMaker for customer delivery, alongside AWS Transform for accelerated modernisation
+## Elon Musk loses trillionaire status: Here's why his net worth fell
+Elon Musk, once the world's first trillionaire, has seen his net worth dip below the 13-figure mark to $957 billion. A significant sell-off in Tesla and SpaceX shares, following SpaceX's IPO surge, has led to this decline. Concerns over an AI market bubble and potential interest rate hikes are contr
+
+## Summer travel hack: How to use your credit card to save big
+When selecting a travel credit card, you should focus on the overall value proposition instead of the headline benefits. Ideally, core benefits on travel-centric cards should be evaluated.
+
+## Airfares could rise by up to 25% as jet fuel costs surge, says McKinsey
+Global jet fuel supplies are facing significant pressure due to geopolitical events and refinery limitations, according to McKinsey. This is driving up costs for airlines, with potential airfare hikes of 20-25% expected as fuel prices surge. Inventories remain low, and key exporting regions are rest
 
 ## Crude prices drop to lowest since February on Iran supply hopes
 Global crude oil prices have plunged to four-month lows, driven by improved tanker traffic through the Strait of Hormuz and anticipation of increased Iranian oil exports. This easing of supply disruption fears has led to significant drops in Brent and WTI futures. Despite this, underlying geopolitic
@@ -78,68 +84,56 @@ India is actively seeking foreign currency inflows by encouraging its diaspora t
 ## RBI governor says talk of rate hike ‘premature’ amid geopolitical uncertainty
 
 
-## ITR filing FY 2025-26: Why Form 26AS is important for tax returns & how to download it online
-Form 26AS is an important document that provides taxpayers with a consolidated view of tax related information linked to their Permanent Account Number (PAN).
+## Air India flight briefly enters Pakistan airspace near Amritsar, probe on
+Air India said the crew operating flight AI479 had "marginally infringed" into Pakistan airspace during the manoeuvre.
 
-## Adani Group AGM: From 10 GW nuclear power capacity to big energy plans - what Gautam Adani said
-The announcement comes as the conglomerate steps up investments across the energy value chain, aiming to play a central role in India's evolving energy landscape at a time when energy security has become an increasingly important national priority.
+## Row in Bengal over proposal to drop eggs from mid-day meal scheme: ‘Imposing vegetarianism'
+West Bengal has seen repeated incidents of protest where eggs were thrown at TMC leaders during public appearances since post-poll tensions escalated.
 
-## Gold price prediction today: Why gold prices may drop further in near-term; check June 24, 2026 outlook
-Gold price prediction today: Gold prices are facing upward resistance and US Federal Reserve’s policy will continue to determine prices in the near-term, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## Supreme Court refuses to hear medical student's fee reduction plea: 'Can't say private, govt college should be at par'
+Harshvardhan Singh, the petitioner, said he was allotted a seat under the general category with an annual tuition fee of ₹18.9 lakh
 
-## Why ONGC is eyeing two oilfields in Venezuela; in talks with state-run oil company PDVSA, seeks US approval
-Venezuela's oil industry has witnessed a prolonged decline due to a combination of depressed oil prices, economic mismanagement and US sanctions. During this period, PDVSA's operational capabilities have also weakened considerably.
+## Daughter arrested days after parents, sister found dead in Bengaluru; boyfriend on run
+The accused, Shwetha, allegedly carried out the murders in connivance with her boyfriend, Kenneth, who remains absconding.
 
-## Top stocks to buy today: Stock recommendations for June 24, 2026 - check list
-Stock market recommendations: Eicher Motors Ltd, Torrent Power, and Bajaj Auto have been recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares as top stock picks to buy today on June 24, 2026:
+## I'm over 80': Actor Anil Kumar Rastogi slams trolls over awkward moment with PM Modi at Padma awards
+Renowned actor and scientist Dr Anil Kumar Rastogi was on Tuesday awarded the Padma Shri for his contributions to the arts and sciences.
 
-## Jaishankar meets his South Korean counterpart Cho Hyun to bolster relations
-Jaishankar emphasised the importance of India-South Korea ties in a complicated world and called for the fashioning of a more forward-looking relationship
+## Over 6,100 new TB cases in Maharashtra in 35 days; 11,091 villages flagged as high risk
+Over 6,100 new TB cases found in Maharashtra in 35 days; 11,091 villages flagged as high risk
 
-## Two college students arrested for beating PG owner to death over water tap dispute
-The victim, 37-year-old Madhav Metli, owned the PG on Kasturinagar Main Road where the incident took place at around 6.30pm.
+## ₹10 lakh for doctoring video? BJP calls for Punjab CM Bhagwant Mann's arrest over ‘sacrilege’ clip
+Questioning the lack of action against the Punjab chief minister, Majinder Sirsa asked, “When will Bhagwant Mann be arrested in this case?”
 
-## UK court orders Nirav Modi to pay ₹100 cr to Bank of India in loan recovery case
-The ruling was in connection with a loan extended to a Dubai-based company, wherein Nirav Modi undertook personal responsibility of repayment.
+## One led by Mamata, other by Ritabrata: How EC's ‘two-wing test’ will decide which faction is Trinamool Congress
+Former chief minister Mamata Banerjee’s camp has lost 62 of the party’s 80 MLAs since the West Bengal assembly election
 
-## Who was Ketan Agarwal, the Pune businessman killed by fiancee Siya Goyal and her lover?
-Lohagad Fort murder: Ketan Agarwal belonged to a prominent Pune business family and served as a director at Success Group, a real-estate company.
-
-## Bengaluru Metro breakdown forces commuters to hitchhike on lorries; Tejasvi Surya slams Congress govt
-Tejasvi Surya said metro disruptions had become "alarmingly frequent" and argued that every breakdown throws the city's transport network into disarray.
-
-## 'Hypocrisy pro max': BJP's swipe at Congress after Hyderabad names street after Donald Trump
-The road renaming quickly drew criticism from the BJP, which pointed to Congress leader Rahul Gandhi's past criticism of Trump and US policies.
-
-## ‘We are the Trinamool Congress’: West Bengal LoP Ritabrata Banerjee amid internal rift with Mamata camp
-Bengal LoP Ritabrata Banerjee claimed that a majority of the party's elected representatives in West Bengal were aligned with his faction
-
-## 'Was saving him from snake': Inside Siya Goyal's first Lohagad murder attempt that Ketan Agarwal survived
-The death of Ketan Agarwal, initially reported as an accident, has taken a chilling turn with probe finding that he was pushed by his fiancé Siya Goyal.
-
-## Israel, Lebanon weigh US-backed project to cede some southern territory to Lebanon army
+## Amazon Prime Day 2026 India: Dates, deals, AI shopping tools, and more
 
 
-## Madras High Court mandates ‘X,Y’ anonymity for couples alleging mental illness in matrimonial cases
+## Retired Bihar employee who faced criminal cases wins back pension
 
 
-## Meet ‘Ballista’: New Australian spider that flings dangerous ants into air
+## ‘Need to fight AI with AI’: IBM India VP on the future of cybersecurity
 
 
-## 2 dozen feared trapped, army helps after Kolkata warehouse collapse
+## Rakhigarhi remains sent for scientific study: What ancient human remains can tell us
 
 
-## ‘No glorification’: Ali Fazal on Raakh; actors who played Ranga-Billa India’s most popular
+## No CCTV, no witnesses: How Labrador Mary helped police solve UP girl assault case
 
 
-## Momo seller sustains burn injuries during roadside clearance for VIP movement in Jaipur
+## Why is Vaibhav Sooryavanshi required to use separate changing room in England tour?
 
 
-## Why government has tightened FCRA rules, and put religious conversion in focus
+## Karnataka Police arrest UP man over foreign contacts; probe wider links
 
 
-## Producer Charmme Kaur reignites Vijay-Trisha buzz as she calls them ‘pure gold couple’
+## Zohran Mamdani emerges as Democratic kingmaker after New York victories
 
+
+## Mainland Chinese mining executive buys Hong Kong trophy home at US$28m receivership sale
+The president of a Shanghai-listed mining company has been identified as the buyer of a luxury house in Hong Kong’s Stanley district, paying HK$220 million (US$28 million) for a receiver-owned property, as lenders accelerate the disposal of distressed assets and wealthy mainland Chinese buyers retur
 
 ## Hong Kong readies offshore yuan initiatives after Shanghai move
 Hong Kong’s finance chief says the city is planning new measures to boost offshore yuan trading, days after mainland Chinese authorities took steps to spur such trading in Shanghai. The initiatives will be announced next month, Financial Secretary Paul Chan Mo-po said in an interview with the South 
@@ -161,9 +155,6 @@ Hong Kong stocks rebounded on Wednesday afternoon after a jittery morning sessio
 
 ## As China plans for demographic crisis, some sectors see opportunity
 As China moves towards becoming one of the world’s fastest-ageing economies – a trend causing worry over future productivity and a widening gulf between the country’s working and retired populations – Goldman Sachs said the pharmaceutical and biotechnology sectors could end up the biggest winners fr
-
-## China’s medical AI breaks ground as surgical robot wins EU approval, model tops benchmark
-Medical AI from China has reached new milestones, with a teleoperated surgical robot gaining access to the European Union market and a clinical-grade model topping a major healthcare benchmark developed by OpenAI. Shanghai MicroPort MedBot said its Toumai Remote robot, which allowed surgeons to remo
 
 ## Russia Makes Inroads in Southeast Asia
 Energy is Putin’s strongest card in a fuel-hungry region.
@@ -261,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## North Korea commissions largest-ever warship
-North Korea commissions largest-ever warship
+## Mamdani-backed candidates defeat pro-Israel lawmakers in primaries
+Candidates backed by Zohran Mamdani have scored major wins in primaries, unseating Democrats backed by pro-Israel groups
 
-## Ukraine strikes strategic Russian bridge in Crimea
-Ukraine strikes strategic Russian bridge in Crimea
+## US Senate approves Iran war powers resolution: What that means for Trump
+Four Republicans cross party lines to vote in favour of the measure.
 
-## Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat
-Amid a brewing row that tests Poland's alliance with Ukraine, President Zelenskyy will skip a key conference.
+## North Korea commissions warship as Kim eyes nuclear navy
+Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.
 
-## Mamdani-backed candidates sweep New York City Democratic primaries
-Democratic socialist candidates backed by New York City mayor win key primaries, ousting two sitting congressmen.
+## Brazil vs Scotland World Cup 2026: Preview, prediction, team news, lineups
+Neymar could make his first appearance at this World Cup as Scotland aim to escape the group stage for the first time.
 
-## Power outage in France as Europe bakes in record heat
-Italy's Ministry of Health declares red heatwave alert in 16 cities, including Milan and Rome, as schools close in UK.
+## Kenya braces for return of Gen Z protests – how did they begin?
+Two years since Gen Z protests rocked President Ruto's government, thousands gear up to take to the streets again.
 
-## Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers
-Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.
+## France confirms first Ebola case in doctor returning from DR Congo
+The patient is in isolation, following strict biosafety protocols to prevent risk of spread in France.
 
-## Diabetes patients in Gaza face survival battle amid war shortages
-Insulin and equipment shortages in Gaza pose fatal risks, leading to critical health complications.
+## How to stay cool and treat heatstroke during a heatwave
+Heatstroke is a severe medical condition that occurs when a human body’s internal temperature exceeds 40C (104F).
 
-## Watch World Cup Day 13: Portugal’s Ronaldo breaks record while England draw
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol
+The largest city on the Russia-controlled peninsula has been left without power after an attack on energy facilities.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
