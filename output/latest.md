@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US banks would lose $700bn in economic crash, Fed stress tests find
+JPMorgan and Goldman Sachs boost dividends after receiving pass marks
+
+## Bitcoin hits 20-month low as market sentiment sours
+Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
+
+## Disney draws viewer support in deepening fight against Trump administration
+Media group calls on audience to join its defence against attacks by chair of Federal Communications Commission
+
 ## Wimbledon tennis stars plan protest despite 20% rise in prize money
 Campaign that kicked off at Roland-Garros has won support of top players including Jannik Sinner
 
@@ -18,29 +27,8 @@ Bipartisan legislation is designed to boost supply and curb institutional invest
 ## UK takeover targets are right to set the bar high
 Rejecting bids is not a riskless strategy. But this time boards may have a point
 
-## Autocrat’s daughter Keiko Fujimori on track to win Peru election
-Rightwing candidate’s opponent has pledged to contest result of presidential run-off vote
-
-## Latin America’s shallow shift to the right
-Colombia and other recent polls highlight polarisation rather than a decisive swing
-
 ## Prosus leads €480mn investment in French health tech start-up Alan
 Paris-based group raises one of Europe’s biggest non-AI start-up rounds this year
-
-## Credible deterrence requires a new Nato bank
-Capital rules prevent the defence ecosystem from getting financing at the volume it needs from commercial lenders
-
-## Top Andy Burnham pick advised Thames Water creditors
-James Purnell’s previous role running consultancy Flint Global has raised concerns about conflicts of interest
-
-## Everything is AI
-A Nightmare on LLM Street
-
-## UK banks defeat watchdog in legal battle over historic loan complaints
-High Court rules that Financial Ombudsman Service unlawfully allowed consumers to challenge terms beyond 6-year limit
-
-## Britain’s grid operator called for more electricity as temperatures soar
-Extreme heat increases demand for power and reduces efficiency of solar panels
 
 ## Trump claims Iran making major concessions, says ‘we’re winning by a lot’
 
@@ -66,6 +54,12 @@ Rajesh Exports failed to produce critical documentation for its imports, exports
 ## India-US trade talks progress, but pact timeline remains elusive
 Both sides signal commitment to trade deal, but offer no timeline for conclusion
 
+## 'Wrong turn': Air India plane comes in front of IndiGo flight on same taxiway at Ahmedabad airport
+
+
+## Airlines turn to AI to save fuel; IndiGo to start trials for thriftier take-offs from today
+
+
 ## Hurun India 500: NSE retains India’s most valuable unlisted company tag, ahead of Serum Institute, Adani Properties
 The National Stock Exchange (NSE) leads India's most valuable unlisted companies with a Rs 4.86 lakh crore valuation, according to the 2025 Burgundy Private Hurun India 500 report. This comes as NSE files for a massive IPO. India Inc. now surpasses $3.4 trillion in value, though top companies saw a 
 
@@ -84,11 +78,8 @@ A recovery in South Korean markets and supportive global developments also aided
 ## Elon Musk loses trillionaire status: Here's why his net worth fell
 Elon Musk, once the world's first trillionaire, has seen his net worth dip below the 13-figure mark to $957 billion. A significant sell-off in Tesla and SpaceX shares, following SpaceX's IPO surge, has led to this decline. Concerns over an AI market bubble and potential interest rate hikes are contr
 
-## Summer travel hack: How to use your credit card to save big
-When selecting a travel credit card, you should focus on the overall value proposition instead of the headline benefits. Ideally, core benefits on travel-centric cards should be evaluated.
-
-## Airfares could rise by up to 25% as jet fuel costs surge, says McKinsey
-Global jet fuel supplies are facing significant pressure due to geopolitical events and refinery limitations, according to McKinsey. This is driving up costs for airlines, with potential airfare hikes of 20-25% expected as fuel prices surge. Inventories remain low, and key exporting regions are rest
+## Pune trek case: Chetan Chaudhary's father claims son is being 'falsely implicated' in Ketan Agarwal's death
+Chetan's father Babulal Chaudhary said that he had neither heard of nor seen Siya before her name surfaced in connection with the case.
 
 ## PM Modi thanks Qatar Amir for condolences after Ras Laffan explosion
 Modi and Al Thani spoke by phone on Tuesday, when the two sides reiterated their commitment to ensuring the safety and well-being of their citizens
@@ -111,31 +102,28 @@ During the meeting, the Delhi Health Minister assured the delegation that the is
 ## ‘Providing passport without…’: Javed Akhtar reacts to MEA's citizenship remark, calls it ‘absurd’
 Javed Akhtar asked whether the authorities were issuing passports without being convinced that the person was an Indian citizen.
 
-## Piyush Goyal to visit UK ahead of July 15 deadline to implement trade pact
-During the visit, Union commerce minister Piyush Goyal will hold a high-level bilateral meeting with his British counterpart, Peter Kyle
-
-## Brazil vs Scotland, FIFA World Cup 2026 Live Score: Neymar in focus as BRA look to book RO32 spot vs SCO
+## Lion cub’s carcass found with injuries in Junagadh, search on for suspect: Forest dept
 
 
-## Lohagad Fort death: Accused Chetan Chaudhary’s kin says he is falsely implicated
+## Local train killing: Who is Roshan Suvarna, and how police tracked him down
 
 
-## Southwest monsoon reaches Gujarat after 9-day delay
+## Don’t accord separate recognition to rebel MPs, Sena (UBT) MPs urge Lok Sabha Speaker Om Birla
 
 
-## Kareena Kapoor once revealed why Karisma is the family’s go-to person: ‘Kuch bhi ho, call Lolo’
+## Gujarat government cuts tax rate on liquor served in GIFT city
 
 
-## Kolkata warehouse collapse: Doctors, staff on war footing as injured & their kin beeline SSKM hospital
+## Family, football & faith: CA Intermediate toppers weigh in on what it takes to crack exam
 
 
-## Passport a travel document, not citizenship proof: Ministry of External Affairs
+## Locked sprawling house, wary neighbours: Co-owner of commercial building at centre of Lucknow fire probe
 
 
-## From AI to traffic management: Delhi LG calls for people-centric policing
+## Who is Vinod Doddamani? Indian-origin lawyer facing $250,000 fine over asylum fraud in US
 
 
-## Restaurant license suspended | Cheese analogue sold as paneer: Pune FDA launches crackdown
+## Brazil vs Scotland, FIFA World Cup 2026 Live Score: Can SCO upset BRA in Miami? Starting lineups confirmed
 
 
 ## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
@@ -162,6 +150,9 @@ Chinese carmakers continued their rapid expansion in Europe last month according
 ## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
 Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
+## Will Congo’s President Push a Third Term?
+As Kinshasa faces multiple crises, a bill risks plunging the country further into instability.
+
 ## Treasury Chief Bessent Defends Trump’s Iran Deal
 Vice President J.D. Vance isn’t the only one being trotted out to sell an unpopular deal.
 
@@ -182,9 +173,6 @@ Beijing can create financial instruments, but it cannot decree demand.
 
 ## Washington’s Middle East Military Presence Is Uniquely Counterproductive
 Rather than ensuring the free flow of energy, U.S. intervention has only interrupted it.
-
-## Russia Makes Inroads in Southeast Asia
-Energy is Putin’s strongest card in a fuel-hungry region.
 
 ## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
 A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
@@ -258,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Our life stops’: West Bank childhood shattered by Israeli military raids
-A new UN report documents killings, detentions and lasting psychological harm to Palestinian children.
+## Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says
+Iranian team's trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.
 
-## Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win
-Presidential candidate Ivan Cepeda accepted the victory of his opponent Abelardo de la Espriella.
+## Palestinian activist faints after his release from Israeli prison
+Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.
 
-## Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza
-An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.
+## Family sues Tesla for wrongful death in Autopilot crash in Texas, US
+Lawsuit claims Tesla's Autopilot shortcomings led to fatal crash; family seeks $1m in damages and punitive measures.
 
-## LIVE: Scotland vs Brazil – World Cup 2026
-Updates of Scotland vs Brazil, who have Neymar back from injury, via our buildup and text commentary stream coverage.
+## Zimbabwe’s Senate approves amendment extending presidential term
+Constitutional amendment will keep President Mnangagwa in office until 2030 and allow parliament to elect the president.
 
-## What to know about the Israeli-developed chip in Apple’s iPhone 17e
-There’s more to the iPhone 17e than meets the eye. Like an advanced silicon chip that is said to be developed in Israel.
+## US public health agency concludes hantavirus response as outbreak eases
+The US Department of Health and Human Services has announced the end of the monitoring period for the virus.
 
-## Flash floods hit India’s Arunachal Pradesh
-Torrential rain has triggered flash floods and landslides in India's northeastern state of Arunachal Pradesh.
+## Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit
+E5 talks in Berlin took place between heads of state of Britain, France, Italy, Poland and Germany ahead of July summit.
 
-## Did Brexit actually work?
-A vote that changed Britain forever. Ten years after Brexit, the UK is still grappling with its consequences.
+## US judge blocks Trump subpoenas into transgender care at New York hospitals
+The Trump administration has called for a probe into transgender healthcare, leading it to subpoena medical records.
 
-## Iran’s president awarded honorary doctorate in Pakistan
-Iran’s President Masoud Pezeshkian was awarded an honorary medical fellowship in cardiac surgery.
+## At least three killed in drone strikes in Russian controlled Horlivka
+A multi-storey apartment has been hit with what Russian-installed authorities called a Ukrainian drone strike.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
