@@ -1,64 +1,79 @@
 # AION Intelligence
 
+## Head of UK’s biggest union backs Ed Miliband for chancellor
+Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury
+
+## Tesco’s return to broadband should be a profitable side hustle
+Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base
+
+## Andy Burnham will have to make tough choices
+Britain’s next leader must be ready to take unpopular decisions on spending and growth
+
+## Venezuelan earthquakes leave hundreds dead and injured
+Acting president Delcy Rodríguez says 164 confirmed dead but toll is likely to rise sharply
+
 ## Oil price back at prewar levels as Gulf flows pick up
 Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted
 
 ## Bayer wins crucial US Supreme Court ruling over Roundup weedkiller
 Justices overturn verdict that became basis for billions of dollars in claims over warnings of alleged cancer risk
 
-## Andy Burnham’s 1990s football team: ‘Demon Eyes’
-From the archive: future Labour politicians, including the presumptive prime minister, played for this north London side
+## How Andy Burnham’s 1990s football team conquered UK politics
+From the archive: a north London side contained several future Labour heavyweights, including the presumptive prime minister
 
 ## Trump’s Iran deal is better than ongoing war
 The president has made many errors in his policy towards Tehran, but signing the MOU isn’t one of them
 
-## RH, the $3bn furniture brand, has moved into Mayfair
-As part of a global rollout, the US homeware behemoth now resides at a lavish London address
+## Electricity prices soar as Europe battles heatwave
+Record June temperatures are fuelling demand for air conditioning and putting pressure on energy systems
+
+## TotalEnergies to account for role in greenhouse gas emissions, court rules
+Partial victory for campaigners and city of Paris in attempt to attribute corporate responsibility for global warming
+
+## Competition intensifies for Anthropic and OpenAI ahead of IPOs
+Renewed challenge from open-source models raises stakes on AI labs to make their case
 
 ## Micron shares jump as blockbuster results spark Wall Street tech shake-up
 Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
 
-## Red alerts across UK and Europe as heatwave takes a grip
-‘London is cooking’, says UN secretary-general, as temperatures reach a new record for June
-
 ## Dimon promotes two potential successors at JPMorgan
 Marianne Lake leaves bank as Doug Petno and Troy Rohrbaugh handed two of its largest divisions
 
-## Iran tells ships in Strait of Hormuz to turn back
-At least four vessels change course as Tehran challenges International Maritime Organization’s evacuation route
+## I talk to paneer and milk”, says the man behind Milky Mist’s incredible dairy journey
 
-## Vale shareholders head to vote after board rejects push to oust chair
-Corporate governance battle at world’s largest iron ore miner revives fears of political meddling
-
-## Iraq pushes Opec to let it pump more oil
-Baghdad’s crude sales were drastically reduced when US-Iran war blocked exports via Strait of Hormuz
-
-## Ryanair scraps family seating fees after regulator launches probe
-Budget carrier says families can now opt for random allocation of free seats beside each other
-
-## APEDA facilitates first biscuit export from Varanasi to Oman
-Inaugural shipment comprises 40 tonnes of biscuits manufactured by Shree Tirupati Balajee Industries, a Varanasi-based exporter
-
-## Building skills, innovation hold the key to India’s $500 billion electronic industry target by 2030
-Experts pointed out that India’s electronics ecosystem is still heavily dependent on imported components
 
 ## Waterways Leisure IPO sails through on last-minute QIB entry
 The retail investor portion led demand, subscribing 3.63 times to the issue, the non-institutional investor segment was subscribed 0.86 times, while the qualified institutional buyers portion was subscribed 0.20 times
 
-## MSMEs must lead India’s innovation push to achieve Viksit Bharat goal, say industry leaders
-Experts call for stronger design capabilities, skilling and AI-led productivity across MSMEs nationwide
+## Lilly launches cancer therapy Tanstrive for patients with advanced or metastatic solid tumors with a RET gene alteration
+Twice a day oral drug is priced at ₹2.15 lakh for two weeks treatment
 
-## Jupiter International expands solar cell manufacturing capacity at Himachal Pradesh unit for ₹550 cr
-Jupiter International inaugurates its Unit IV at its Baddi manufacturing campus, adding 1.25 GW of TOPCon solar cell manufacturing capacity
+## Building skills, innovation hold the key to India’s $500 billion electronic industry target by 2030
+Experts pointed out that India’s electronics ecosystem is still heavily dependent on imported components
 
-## Indriya sharpens focus on diamonds, aims to be among top three jewellery brands
-The jewellery brand also introduced, SparkleScope, an innovative in-store technology that enables customers to evaluate a diamond’s sparkle
+## India sets 30% fuel-efficiency target for trucks; Bharat VECTO to anchor new norms
+Bharat VECTO set to replace laboratory testing with real-world simulations as the country rolls out a new commercial vehicle fuel-efficiency framework from April 2027
 
-## India convinces US to wait on trade pact amid tariff flux
-Goyal asserts there can be no interim deal till India gets competitive advantage over rival countries
+## Sell zinc futures
+The July contract is likely to fall to ₹340
 
-## Fiscal challenge for West Bengal govt will be to raise tax buoyancy, says SBI Research
-Presenting the first state budget of the new BJP government in West Bengal, Finance Minister Swapan Dasgupta on Monday tabled the budget of over ₹4.38 lakh crore for the financial year 2026-27
+## Profit booking trims gains; Nifty ends flat after 200-point swing from day's high
+BSE Sensex closed at 77,100.47, up 109.25 points or 0.14 per cent, while the NSE Nifty 50 settled at 24,056, gaining 34.35 points or 0.14 per cent
+
+## ‘MSMEs struggle to retain skilled workers as talent, compliance and AI challenges mount’
+Retention, skill gaps emerge as key concerns, say experts
+
+## SK Hynix overtakes Samsung: How a 14-year AI chip bet made it South Korea's most valuable listed company
+A bold gamble on high-bandwidth memory (HBM) chips has propelled SK Hynix to the forefront of the AI revolution, briefly making it South Korea's most valuable company. This strategic pivot, once met with skepticism, proved crucial as demand for AI servers surged, allowing SK Hynix to outpace rivals 
+
+## Bank holiday on June 26: Will banks be closed on Muharram? Check city-wise list of closures
+
+
+## Centre eases BIS quality compliance with new risk-based framework for manufacturers
+The government has launched a new risk-based approach to simplify quality control compliance for industries. This allows eligible manufacturers to use a streamlined certification process, easing concerns over Bureau of Indian Standards (BIS) certification hurdles. The move aims to boost domestic man
+
+## Rupee gains 10 paise as softer crude, firm equities lift sentiment
+The Indian rupee saw a modest gain of 10 paise, closing at 94.45 against the US dollar on Thursday. This appreciation was fueled by falling global crude oil prices and a stronger domestic stock market. However, foreign fund outflows prevented a more significant rise. The currency is expected to trad
 
 ## From Amazon, ABB to Google, AirTrunk & more: Global giants commit billions of dollars to India
 Large US technology companies have collectively committed billions of dollars to India, highlighting the country's growing importance as a key destination for cloud computing, artificial intelligence and deep-tech investments.
@@ -72,17 +87,23 @@ In January 2026, gold prices hit $5595 - a life-time high - they are now trading
 ## US inflation climbs above 4% for first time in three years as consumer spending stays resilient
 US inflation surged past 4% in May, primarily due to escalating energy costs linked to Middle East tensions. Despite rising living expenses, consumer spending showed resilience, buoyed by tax refunds and stock market gains. While economists anticipate persistent inflationary pressures, the Federal R
 
-## Stock market holiday on Muharram: Will NSE, BSE remain closed for trading on June 26?
-Stock market investors, mark your calendars! The market will be closed on Friday, June 26, for Muharram. Trading operates on weekdays, excluding weekends and official holidays. Remember the pre-open session from 9:00 am to 9:08 am, followed by the regular trading window from 9:15 am to 3:30 pm. Plan
+## Senior IPS officer Mahesh Dixit appointed new Intelligence Bureau chief, to succeed Tapan Deka
+An officer of the Andhra Pradesh cadre, Mahesh Dixit is currently a special director in the IB and was overseeing important operations in various sectors.
 
-## EPFO 3.0: ATM, UPI-linked withdrawals, faster claim settlement & more - what reforms will mean for subscribers
-EPFO 3.0 aims to deliver quicker automated claim settlements, instant withdrawals, multilingual self-service facilities and seamless payroll-integrated contributions.
+## India begins scaling up visa services in Bangladesh
+Tourist visa applications from Bangladesh will resume on June 28 as India reopens visa centres and restores normal visa operations.
 
-## Stock Market Live Updates Today: BSE Sensex erases most gains, ends at 77,100, Nifty50 above 24,050; oil prices fall to pre-war levels
+## Siya's family breaks silence on Ketan's murder: ‘Push the guilty off same fort, even if it’s my own daughter'
+Siya Goyal’s mother described Ketan as a very good boy and said her daughter should be given the strictest punishment if she is found guilty.
 
+## Row over Maharashtra MLA Sana Malik's remark on polygamy: ‘If its implemented in Pakistan…’
+The controversy stems from a debate held on Tuesday on atrocities faced by Muslim women due to the triple talaq practise.
 
-## $1.5 billion-crypto connection: How North Korean heist ended in Iran's central bank
-A massive crypto heist, initially linked to North Korea, has unraveled a complex financial web connecting to Iran's central bank. Investigators discovered stolen funds moving through wallets associated with Iran's central bank before reaching CoinEx, a key exchange facilitating Iranian crypto users.
+## Sonam Wangchuk warns of hunger strike on June 28 over education, Ladakh demands
+Sonam Wangchuk has publicly been supporting the CJP movement and took part in some of its protests at Jantar Mantar in Delhi.
+
+## Hub-and-spoke model launched from Varanasi; 6 more airports to join in 6 weeks
+Civil aviation minister Ram Mohan Naidu said six more airports would be brought under the hub-and-spoke model over the next six weeks
 
 ## 7 golden langurs rescued from traffickers released into wild: Assam forest minister
 The endangered primates were rescued from an alleged interstate wildlife trafficking network busted by Assam Police in Chirang district.
@@ -90,46 +111,28 @@ The endangered primates were rescued from an alleged interstate wildlife traffic
 ## 'Bhagwant Mann's silicon mask used': AAP bombshell amid Sikh Gurus clip row; video emerges
 Bhagwant Mann and AAP have maintained that the man seen in the alleged video disrespecting the Sikh Gurus is not the Punjab CM.
 
-## Global CEOs are lining up to write cheques for India, Amazon its latest example
-The e-commerce giant on June 25 announced that it would raise its India investment commitment to $48 billion by 2030.
-
-## Passport fee hiked for both fresh and re-issued documents, check new rates
-The fee for obtaining a Police Clearance Certificate (PCC) has also been increased. Applicants will now have to pay ₹750 instead of the current ₹500.
-
-## What caused Air India, IndiGo planes to come face to face at Ahmedabad airport?
-Air India, in a statement, said its flight inadvertently took a wrong turn during taxiing, adding there was no compromise on the safety of passengers and crew.
-
-## FIR filed amid Ayodhya Ram Mandir ‘donation theft’ claims, ‘strict’ recommendations made
-The FIR comes amid an ongoing probe by the Special Investigation Team into the alleged donation theft at the Ram Mandir in Ayodhya.
-
-## Who is Chetan Chaudhary? The ‘boyfriend’ whose hoodie uncovered Pune businessman's murder plot
-The police has said that when Ketan Agarwal went to Lohagad Fort in Lonavala with Siya Goyal on June 18, Chetan Chaudhary had reached the site before the two.
-
-## Gujarat HC quashes wrong charges in GPSC exam cheating case, lets probe continue
-The authorities booked the two bothers in 2018 under Section 188 of the Indian Penal Code and Section 66-E of the Information Technology Act.
-
-## Dharman makers drop poof after fans slam Rajinikanth’s ‘Deadly Doctor’ poster, watch
+## How her late father’s dream spurred Sindhushree to break national record
 
 
-## Thapelo Maseko: truck driver’s son who drove South Africa to the knockouts
+## India beat Bangladesh but concerns remain ahead of must-win game vs Australia
 
 
-## Venezuela earthquake: Video shows miracle rescue of 3 children from rubble
+## Accused carried knife in bag for two months, travelled undetected on local trains: GRP
 
 
-## Hingoli boy dies by suicide, family say he was depressed after NEET-UG cancellation
+## Chhattisgarh tightens minor mineral rules, raises penalties for illegal mining
 
 
-## ‘Who will take responsibility for so many broken dreams?’: Amid NEET row, Congress announces 40-day nationwide campaign
+## Saif Ali Khan once lost a film for refusing to leave girlfriend; impact of such choices
 
 
-## Style on the touchline: how World Cup managers are dressing in 2026
+## BJP says Mayor inspection fiasco was staged, seeks probe
 
 
-## Six nabbed from Delhi, Jharkhand for running ‘apk scam’; 93 cases in city
+## Second time in a week, Namma Metro operations briefly halted as doors fail to close
 
 
-## ED launches probe into Rs 350 crore medical procurement fraud case
+## Delhi HC allows sexual assault survivor to terminate 28-week pregnancy
 
 
 ## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## They fled war as child refugees, now they’re playing at World Cup 2026
-In a World Cup for everyone, as it has been dubbed by FIFA, players carry historic stories of war and displacement.
+## US Supreme Court scales back Roundup cancer lawsuits in victory for company
+More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup.
 
-## Israel kills three in Lebanon as Rubio praises progress in Washington talks
-Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.
+## Ukrainian attack on Crimea kills five, Russian officials say
+Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move.
 
-## Lebanon Latest: Peace talks between Lebanon and Israel, people return south
-Al Jazeera’s Robert McBride brings you the latest from Beirut as people return to the south of Lebanon.
+## Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal
+A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.
 
-## Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?
-NATO boss tries to convince Trump that European allies were there for the US during war on Iran.
+## How the HPV vaccine changes how we think about cancer
+Al Jazeera’s Linh Nguyen explains how the HPV vaccine changes the way we think about cancer.
 
-## IRGC warns against new Hormuz route for ships: What we know
-Experts say disagreements over shipping routes and transit fees could complicate efforts to reach a permanent agreement.
+## Venezuela struggles to respond to devastating twin earthquakes
+Noris Soto says authorities appear to lack a clear response plan in the aftermath of two powerful earthquakes.
 
-## Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods
-The denial contradicts the US administration, which said unfrozen funds will be spent on produce from American farmers.
+## Rubio: Gulf countries don’t support Strait of Hormuz tolls
+US Secretary of State Marco Rubio said all Gulf countries oppose a toll in the Strait of Hormuz.
 
-## UK’s hottest June: ‘The population should have been prepared for this’
-Schools are closing, public transport is slowing and cooling items are flying off shelves as Britons swelter.
+## Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza
+The deaths come amid escalating Israeli military raids and settler attacks across the occupied territories.
 
-## Deconfliction and disarmament: Can both be pursued in Lebanon?
-New deconfliction mechanism seeks to prevent return to all-out war in Lebanon and in the region.
+## US Supreme Court paves way for government to block asylum seekers at border
+Liberal justices say the ruling 'circumvents' US law by allowing agents to prevent asylum seekers from filing a claim.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
