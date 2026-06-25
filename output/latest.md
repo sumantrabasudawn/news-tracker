@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Attack in Strait of Hormuz halts evacuation plan for stranded ships
+International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+
+## Starmer locked in stand-off with Mahmood over her push to sack migration minister
+Home secretary wants Mike Tapp dismissed after calling for care workers to be exempt from tough immigration controls
+
+## Trump’s tests of the US justice system
+For the time being, it is just about holding
+
+## FirstFT: Sanae Takaichi sets out Japan’s $2.3tn investment roadmap
+Also in today’s newsletter: attack in Strait of Hormuz halts evacuation plan and Jamie Dimon promotes two potential successors
+
 ## India’s indigenous drone makers see orders surge for weaponised UAVs
 Conflict in Iran pushes New Delhi to focus on domestic defence supply chains
 
@@ -9,29 +21,26 @@ iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven me
 ## Micron shares jump as blockbuster results spark Wall Street tech shake-up
 Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
 
-## Attack in Strait of Hormuz halts evacuation plan for stranded ships
-International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
-
 ## Micron posts 15-fold profit surge in boost for global AI stocks
 Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
 
-## Live special: Ten years after Brexit
-Can the UK deliver change?
+## FT Legal Outlook
+We look at how the industry is shaping its future in response to upheaval on many fronts — from AI to new types of law firm. Plus: the inaugural FT Law 50 listing of influential individuals
 
-## Jair Bolsonaro’s wife accuses stepson of ‘stab in the back’ in election feud
-Former first lady Michelle lashes out at presidential candidate Flávio in social media video in latest setback to campaign
+## How AI is powering new law firm structures
+Interest in a model that separates legal casework from other operations exploded alongside the new tech
 
-## Head of UK’s biggest union backs Ed Miliband for chancellor
-Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury
+## Legal sector can use psychology to beat fear of AI
+Understanding the feelings that get in the way of embracing tech is important
 
-## Tech shares zigzag
-Inside a volatile week for some of the world’s most watched stocks
+## Wall Street law firms ponder fresh era of insider trading risks
+Alleged illegal misuse of private deals information at elite law firms has shaken many
 
-## VW’s Everllence sale shows even ailing carmakers have hidden charms
-Deal suggests carmakers may have more value packed away in the trunk
+## In-house lawyers aim to shed the grind, not the people
+Legal teams find that AI opens up opportunities on top of shouldering repetitive drudge work
 
-## Electricity prices soar as Europe battles heatwave
-Record June temperatures are fuelling demand for air conditioning and putting pressure on energy systems
+## Law firms look for clear gains from AI
+Despite increased spending on legal tech, barriers to its full embrace remain
 
 ## I talk to paneer and milk”, says the man behind Milky Mist’s incredible dairy journey
 
@@ -57,6 +66,9 @@ BSE Sensex closed at 77,100.47, up 109.25 points or 0.14 per cent, while the NSE
 ## ‘MSMEs struggle to retain skilled workers as talent, compliance and AI challenges mount’
 Retention, skill gaps emerge as key concerns, say experts
 
+## Indian basket crude prices return to pre-conflict levels
+
+
 ## US won't abruptly deny AI access to India: Govt
 
 
@@ -78,8 +90,8 @@ The government has launched a new risk-based approach to simplify quality contro
 ## Rupee gains 10 paise as softer crude, firm equities lift sentiment
 The Indian rupee saw a modest gain of 10 paise, closing at 94.45 against the US dollar on Thursday. This appreciation was fueled by falling global crude oil prices and a stronger domestic stock market. However, foreign fund outflows prevented a more significant rise. The currency is expected to trad
 
-## From Amazon, ABB to Google, AirTrunk & more: Global giants commit billions of dollars to India
-Large US technology companies have collectively committed billions of dollars to India, highlighting the country's growing importance as a key destination for cloud computing, artificial intelligence and deep-tech investments.
+## Delhi govt orders action against Fortis after probe flags patient care lapses; hospital assures full cooperation
+The order comes after allegations that a stabbing victim was denied timely treatment and was asked to deposit money before treatment could begin.
 
 ## ‘Happy birthday, please resign’: Abhijeet Dipke’s wish to Dharmendra Pradhan comes with a gift | Watch
 In a video, Dipke is seen writing on a whiteboard, “Happy Birthday, Pradhan. Please resign,” while supporters sing the birthday song in the background.
@@ -102,32 +114,32 @@ Sonam Wangchuk has publicly been supporting the CJP movement and took part in so
 ## Hub-and-spoke model launched from Varanasi; 6 more airports to join in 6 weeks
 Civil aviation minister Ram Mohan Naidu said six more airports would be brought under the hub-and-spoke model over the next six weeks
 
-## 7 golden langurs rescued from traffickers released into wild: Assam forest minister
-The endangered primates were rescued from an alleged interstate wildlife trafficking network busted by Assam Police in Chirang district.
-
-## Delhi Confidential: Field Duty
+## UP Congress sharpens OBC-Dalit pitch, announces to launch ‘Bahujan Vichar’ campaign
 
 
-## Mallikarjun Kharge and kin grabbed public land, gave it to shady private trust: BJP
+## Gujarat HC dismisses plea on ‘ASI survey’ of Somnath Temple, imposes Rs 2 lakh costs on petitioner
 
 
-## Ecuador stun Germany, script one of biggest upsets of FIFA World Cup 2026
+## Kolkata warehouse collapse: Among the dead, a teen’s first trip to city, a migrant from Bihar
 
 
-## Afghan among 7 held as cross-border arms, drugs network unearthed; 5-kg heroin, 10 pistols seized
+## How many are still trapped in rubble? No clarity as contractors didn’t maintain logbook of labourers
 
 
-## Poster war in Punjab: ‘Boycott Mann’ banners spread, anti-Sukhbir flex surfaces in Ludhiana
+## Congress, Left urge Centre to withdraw amended FCRA rules
 
 
-## As Akal Takht summons Sikh MLAs over anti-sacrilege law, AAP legislators restive
+## How AI-based system is expected to make AQI forecast sharper in Delhi
 
 
-## Ludhiana Mayor appoints sons of 2 AAP MLAs as F&CC members
+## Stricter action on toll tax evasion as MCD gears up for barrier-free entry to Delhi
 
 
-## In Bengal, BJP government to bring UCC Bill this Assembly session
+## Delhi CM Rekha Gupta orders inquiry after ‘negligence’ complaint over patient’s death at Fortis
 
+
+## IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom
+Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. This piece, the second in a miniseries focusing on the city’s financial industry ahead of the handover anniversary, explores the likelihood of an “IPO Co
 
 ## HKEX pushes deeper into index business as AI reshapes Hong Kong market
 Hong Kong Exchanges and Clearing (HKEX) is expanding into the index business with plans to launch more proprietary benchmarks and related investment products, as traditional market gauges have lagged regional peers during the artificial intelligence-driven technology rally. The operator of Hong Kong
@@ -150,8 +162,8 @@ China’s state-backed Big Fund has become the third-largest shareholder of the 
 ## Bank of China used disguised mutual funds to avoid paying US$348m in taxes, audit finds
 China’s top auditor has accused one of the country’s biggest state-owned banks of exploiting investment fund structures to evade billions of yuan in taxes, as Beijing steps up efforts to strengthen financial compliance. Bank of China evaded 2.37 billion yuan (US$348 million) in taxes by misusing pre
 
-## Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low
-A sell-off in Chinese technology stocks drove Hong Kong’s benchmark index briefly below the 23,000-point mark for the first time in a year, as Alibaba Group Holding slumped to a 16-month low after US artificial intelligence firm Anthropic PBC accused it of “illicitly” extracting capabilities from it
+## The Geopolitics of SpaceX and Elon Musk
+Should one company—and one person—have this much power?
 
 ## Restocking the Pentagon
 Trump urges defense manufacturers to speed up weapons production after the Iran war.
@@ -174,8 +186,17 @@ Policymakers’ approach to automation won’t work for AI.
 ## Why Latin America’s New Right Will Struggle to Govern
 In Colombia and elsewhere, winning was the easy part.
 
-## Will Pakistan’s Iran Gamble Pay Off?
-Islamabad could leverage its success as a mediator to secure its own interests.
+## EU-Kazakhstan: Connectivity at the Core
+Amid Kazakhstan and the European Union's multifaceted relations, connectivity remains a throughline.
+
+## India’s Critical Mineral Challenge in a New Global Resource Order
+Mineral security is not just about access to resources but about control over value chains. India’s response must be strategic, not reactive.
+
+## The Political Risks Facing Washington’s New Ambassador to South Korea
+Michelle Steel arrives in Seoul at a moment when ethnic affinity and political polarization make diplomacy more complicated than ever.
+
+## The Mask of Engagement: How Fragmented International Interests Normalize Gender Apartheid in Afghanistan
+The continuous compromise of human rights standards by bodies like the United Nations provides the Taliban with the precise economic, political, and psychological lifelines required to sustain their autocracy.
 
 ## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
 Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
@@ -187,19 +208,7 @@ Melbourne has joined the Global Urban Data Centers Pact, to tackle the nexus bet
 Tonnes of fertilizer are being unloaded in Brisbane for Australian farmers. It’s not a one-off deal but the product of consistent fertilizing of the relationship between Canberra and Jakarta.
 
 ## Vietnam’s National Champions
-Risks and opportunities for foreign investors
-
-## Building a Battery Champion: What CATL and Dongqiao Reveal About China’s Industrial Model
-China’s dominant role in electric vehicle batteries owes much to local government policy.
-
-## Putin and Anwar’s US Dollar Swap Deal
-Russia's assurance that it will maintain a long-term supply of oil and gas to Malaysia looks like a veiled effort to keep Putin's government stocked with U.S. dollars.
-
-## Free Theary Seng: The US Should Not Forget About Cambodia’s Political Prisoners
-The 55-year-old civil society activist and dual Cambodian-U.S. citizen has been locked up on spurious charges since 2022. She is just one of many.
-
-## How New Delhi’s Policy on Ceasefires With Rebel Groups in the Northeast Contributed to Manipur’s Crisis
-Abrogation of the ceasefires in Manipur may not be an option for the government as it could spark greater violence.
+Risks and opportunities for foreign investors.
 
 ## Open Strait, Unsettled Waters
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
@@ -249,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UN: Venezuela earthquakes will deepen already severe humanitarian crisis
+The UN says it is scaling up its response after twin earthquakes devastated Venezuela.
+
+## India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid
+Shafali Verma's half-century helps the 50-over world champions reach the target inside 17 overs at Old Trafford.
+
+## Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup
+The West Africans will face the second-place finisher between France and Norway in Group I on Tuesday in Texas.
+
+## Ecuador edge Germany 2-1 to squeeze into World Cup last 32
+Germany finish top of Group E, with Ivory Coast second and Ecuador will have a chance of qualifying on third place.
+
+## Venezuela earthquakes live: At least 188 dead as rescue efforts intensify
+Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes.
+
 ## WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat
 Both players were on the floor when Thomas pushed her fist into Clark's throat before getting up and stepping over her.
 
@@ -257,21 +281,6 @@ Rescue teams raced to find survivors and recover bodies after twin earthquakes r
 
 ## Economic losses mount as Venezuela earthquake death toll grows
 Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP.
-
-## UN agency pauses Hormuz ship evacuation initiative after vessel attacked
-Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.
-
-## Venezuela quake leaves La Guaira in almost total devastation
-La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.
-
-## Dutch fans party in Kansas City ahead of World Cup clash with Tunisia
-Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia.
-
-## Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’
-Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.
-
-## Ashura ceremonies intertwine faith and support for state in Iran
-State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
