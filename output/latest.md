@@ -1,67 +1,70 @@
 # AION Intelligence
 
-## Lessons from Brexit for the world economy
-Ten years on, it’s clear the warnings should have been heeded
+## Hospitals cancel operations because of lack of air conditioning
+Record June temperatures put up to 4,000 surgeries at risk
 
-## Trump says Burnham ‘extremely liberal’
-US president makes first comments on prospective British prime minister
+## Takaichi sets out Japan’s largest-ever investment roadmap
+$2.3tn plan combining public and private funds over 14 years implies fiscal expansion by heavily indebted government
 
-## Unions combine to try to stop Ed Miliband becoming chancellor
-Britain’s probable next prime minister, Andy Burnham, under pressure from Unite the Union and GMB
+## German drugmaker Merck to buy Bio-Techne in $11.3bn deal
+Acquisition of US medical tools maker will be German group’s biggest in over a decade
+
+## How much compute does the world really need?
+Scale cannot solve AI’s fundamental problem with accuracy
+
+## FirstFT: Oil price returns to prewar level
+Also in today’s newsletter, deadly earthquakes strike Venezuela and Meta to replace human moderation with LLMs
+
+## Cheat sheet for an EU financial geopolitics plan
+How to become an autonomous global power in monetary matters
 
 ## EasyJet in talks with Castlelake after rejecting £4.9bn takeover offer
 Budget airline turned down offer that US private credit group submitted on Tuesday
 
-## UAE billionaire’s son revealed as buyer of £190mn London mansion
-Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
+## Global tech stocks rebound after Micron’s profit surge
+US chipmaker’s bumper quarterly results calm investor fears following market sell-off this week
 
-## Venezuelan earthquakes leave ‘devastating number of deaths’
-US Geological Survey warns that will probably result in high casualties
-
-## Anthropic accuses Alibaba of obtaining illicit access to Claude
-AI company says Chinese ecommerce group used fake accounts to ‘extract’ chatbot’s capabilities
-
-## Brussels picks up pace on Draghi economic reform agenda
-Also in this newsletter: Czech court says president and prime minister can both attend Nato summit
+## Senate Democrats investigate Trump family-linked group over Venezuela business push
+Special purpose vehicle set up by Yorkville Advisors comes under scrutiny for close links to the president’s family
 
 ## Qualcomm vs Nvidia and drones vs dogs
 The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## FTAV’s further reading
-Mystery retatrutide user; the invention of Antifa; Hollywood vs Big Tech; Haaland is good at scoring goals
+## Coconut oil, copra prices slide sharply as arrivals improve
+Coconut oil is currently trading ruling at around ₹227 per kg in the Kerala market, and copra at ₹131 per kg
 
-## Micron posts 15-fold profit surge in boost for global AI stocks
-Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
+## TVS Motor rolls out one-millionth iQube electric scooter from Hosur plant
+The company said the achievement was supported by its expanding sales and service network across the country.
 
-## FirstFT: Trump demands ‘loyalty’ from Nato allies
-Also in today’s newsletter, Venezuela earthquakes and oil price back at prewar levels
+## Ernakulam KVK moots promotion of sugarcane cultivation for pure jaggery
+According to the document, scientific sugarcane cultivation linked with micro-processing units can ensure adulteration free jaggery, boost farmers’ income, create new employment opportunities, and foster entrepreneurship.
 
-## Ari Emanuel eyes Broadway and the West End
-The Hollywood power broker is in advanced talks to buy theatre group ATG Entertainment for £4.5bn
+## Tamil Nadu opposes Centre’s proposed 3% stake sale in NLC India, CM writes to PM
+NLC India’s strategic role in power generation and mineral development has prompted Tamil Nadu to seek reconsideration of the Centre’s proposed disinvestment move.
 
-## Alpha Wave sells entire 1.9% stake in Delhivery; stock falls over 2%
-The transactions executed on Wednesday in the price range of ₹460.03-460.36 apiece, taking the combined deal value to ₹664.74 crore
+## Govt mandates QR codes for vaccines, antimicrobials, narcotic and cancer Drugs
+The move is aimed at improving traceability and curbing counterfeit drugs
 
-## Sensex today | Stock Market Live: Nifty holds above 24,100, Sensex rises 500 pts led by auto, healthcare stocks
-Sensex, Nifty, Share Prices LIVE: At 1:30 pm, Sensex was up 508.34 points or 0.66% at 77,499.56, while Nifty was up 156.00 points (0.65%) to 24,177.65 .
+## India begins 2% isobutanol-diesel trials to jumpstart diesel biofuel push
+Trials involve Tata Motors, HPCL, ARAI, Praj Industries, and mark India’s first serious move towards a diesel biofuel programme after earlier ethanol-diesel blending experiments failed
 
-## Vietnam Explores Sustainable Aviation Fuel Development at International Conference in Hanoi
-Vietnam Explores Sustainable Aviation Fuel Development at International Conference in Hanoi
+## IIT Madras breaks ground on ₹400 crore student accommodation project
+The facility, being developed in partnership with Elevate Campuses, will accommodate more than 1,800 PhD students and project staff
 
-## JSW Green Mobility makes strategic investment in Lithium Urban Tech
-The strategic partnership will boost the company’s expansion as demand for reliable, tech-enabled, and sustainable mobility solutions grows
+## Sensex today | Stock Market Highlights: Sensex crosses 77,100 as Nifty ends above 24,000 in cautious trade
+Sensex, Nifty, Share Prices Highlights: Indian equities ended marginally higher as Sensex and Nifty gained 0.14 per cent each, supported by softer crude oil prices and policy measures to attract inflows, while the rupee edged up and broader markets showed mixed, cautious trading with volatility easi
 
-## Servotech's 60 kW and 120 kW EV chargers earn BEE's Top 5-Star efficiency rating
-The certification is commercially significant for Servotech as government agencies, public sector undertakings, oil marketing companies, and fleet operators increasingly weigh energy efficiency
+## Stock market holiday on Muharram: Will NSE, BSE remain closed for trading on June 26?
+Stock market investors, mark your calendars! The market will be closed on Friday, June 26, for Muharram. Trading operates on weekdays, excluding weekends and official holidays. Remember the pre-open session from 9:00 am to 9:08 am, followed by the regular trading window from 9:15 am to 3:30 pm. Plan
 
-## Henkel names Pradhyumna Ingle as Country President for India
-Ingle succeeds S Sunil Kumar, who led Henkel India over the past five years
+## EPFO 3.0: ATM, UPI-linked withdrawals, faster claim settlement & more - what reforms will mean for subscribers
+EPFO 3.0 aims to deliver quicker automated claim settlements, instant withdrawals, multilingual self-service facilities and seamless payroll-integrated contributions.
 
-## Autos and Healthcare lead Nifty past 24,200 as crude stays near $69
-Automobile and healthcare stocks drove the rally, while energy and metals saw selling as crude oil prices neared $69–70 per barrel
+## Stock Market Live Updates Today: BSE Sensex erases most gains, ends at 77,100, Nifty50 above 24,050; oil prices fall to pre-war levels
 
-## These dozen stocks will remain in focus on Thursday
-Buzzing stocks: Embassy, BDL, Vedanta, Infosys, Airtel, Apis India, Muthoot Capital, Electrosteel Castings, Shilpa Medicare, Texmaco Rail, HCL Tech, Accord Transformers, Hind Copper
+
+## $1.5 billion-crypto connection: How North Korean heist ended in Iran's central bank
+A massive crypto heist, initially linked to North Korea, has unraveled a complex financial web connecting to Iran's central bank. Investigators discovered stolen funds moving through wallets associated with Iran's central bank before reaching CoinEx, a key exchange facilitating Iranian crypto users.
 
 ## Strait of Hormuz reopens: Middle East oil exports to climb to 4-month high
 The Strait of Hormuz is reopening, paving the way for Middle Eastern fuel oil exports to reach a four-month high in June. Iraq and Saudi Arabia are leading this surge, with Iraq notably diversifying routes through Syria. While shipments are increasing, they remain below pre-war levels, and cautious 
@@ -75,71 +78,68 @@ ITR filing FY 2025-26: The two regimes differ fundamentally in structure. The ne
 ## Oil prices fall to $70: Will your flight tickets get cheaper?
 Aviation Turbine Fuel (ATF) prices, which had surged, are now under scrutiny as crude oil costs decline. The Civil Aviation Minister indicated the government may ask airlines to reassess surge charges and additional fare components if fuel prices remain stable. Discussions are ongoing with airlines 
 
-## Top stocks to buy today: Stock recommendations for June 25, 2026 - check list
-Top stock market recommendations: Olectra Greentech, GAIL, and Hindustan Aeronautics Ltd (HAL) have been picked as the top 3 stocks to buy today on June 25, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management.
+## Scientifically Speaking: The animal that can survive five years without eating
+Deep-sea isopods live on the seafloor across the Atlantic, Pacific, and Indian oceans
 
-## Gold, Silver Rate Today Live Updates: MCX Gold, MCX Silver futures tank; international gold prices drop to lowest level in almost eight months
+## Rahul Gandhi backing CJP? Congress MP slams Pradhan's 'B-team of terrorists' remark
+Rahul Gandhi criticised Pradhan for calling protesting students 'terrorists'. He demanded an apology and resignation from the education minister.
 
+## Congress campaign from June 30 seeking Dharmendra Pradhan's resignation over NEET leak
+The Congress's 40-day campaign ‘Chhatron ki Goonj’ demands the resignation of Dharmendra Pradhan and an overhaul of examination procedures
 
-## Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal
-Crude oil prices have plummeted towards pre-war levels as tanker traffic through the Strait of Hormuz resumes, alleviating supply worries. Following a surge past $126, oil is now hovering around $70. Improved shipping and potential Iranian exports have eased fears of disruptions, leading to a signif
+## Cabinet reshuffle buzz gathers pace after Amit Shah meets President, BJP may assess performance
+BJP leaders familiar with internal deliberations said the proposed rejig is expected to go beyond filling vacancies.
 
-## Premature to talk of rate hike: RBI governor Sanjay Malhotra
+## VK Pandian's wife Sujata Rout Karthikeyan joins BJD, Naveen Patnaik clarifies leadership question
+While VK Pandian is often termed as an outsider due to him being a Tamil Nadu native, Sujata Rout Karthikeyan is a native of the Kendrapara district of Odisha
 
+## Amazon CEO meets PM Modi, confirms $48 billion investment, AI expansion in India by 2030
+The Amazon CEO further stated that since 2010, the tech company has invested $40 billion into India.
 
-## ‘Challenge to Democracy’: Why NCERT's new Class 9 chapter on ‘Emergency’ is drawing attention
-In the book, Emergency has been flagged as “one of the major challenges” faced by the Indian democracy, with a majority of fundamental rights being suspended.
+## Midday meals: Oppn accuses Bengal govt of imposing vegetarianism by dropping eggs
+TMC leader Derek O’Brien said Bengal rejects depriving children of nutrition by taking eggs from midday meals and imposing vegetarianism
 
-## Chhattisgarh government tightens illegal mining rules, raises penalties
-The Chhattisgarh government has implemented tougher penalties and enforcement measures, aiming for enhanced transparency and increased revenue.
+## DVAC raids ex-TN minister EV Velu, 11 others in roadworks graft case
+Reacting to the searches, DMK president and former chief minister MK Stalin said Velu was fully cooperating with the investigation.
 
-## NEET leak row: Dharmendra Pradhan says Rahul Gandhi ‘misleading’ youth, created ‘fear' in their minds
-The education minister's remarks come amid the NEET UG row, where the opposition has called for the BJP leader's resignation over the alleged paper leak.
-
-## NCERT Class 9 social science textbook features Emergency; sparks war of words
-The new Class 9 textbook notes that democratic institutions “came under severe strain, and citizens’ freedom was restricted” during the Emergency
-
-## SC allows Jacqueline Fernandez to withdraw plea in ₹200-crore PMLA case
-Accepting the submission, the bench permitted the withdrawal and clarified that Fernandez would be free to avail any remedies available under law.
-
-## Siya Goyal didn't elope for fear of 'family shame', Chetan tells police what led to murder plot
-“Siya was not in favour of calling off the engagement, as she thought doing so would bring disrespect to her family,” Chetan allegedly told police.
-
-## ‘Papa, I’m leaving’: Delhi woman dies by suicide, alleges harassment, husband's ‘instability’ in video note
-While no suicide note was recovered from the spot, the cops came across a three-minute video clip on the woman's mobile phone.
-
-## 'Wanted to call off wedding, Ketan refused': What Pune murder accused Siya Goyal told cops
-Ketan Agarwal was with Siya Goyal at Pune's Lohagad Fort trek, when she allegedly pushed him off a cliff.
-
-## Amid fatigue in government and party, can PM Modi execute a ‘Kamaraj Plan’ in the BJP?
+## AIIMS Social Media Restriction: Posting reels or patient details can now get you suspended
 
 
-## Delhi bureaucracy rejig: Ministers’ aides, senior health officials among 50 transferred
+## IVF claim, babies for sale: How a Delhi racket trafficked infants
 
 
-## ‘100%’ on front label, disclaimers on the back: Why CCPA fined two major brands
+## Married daughter entitled to compassionate appointment, says Karnataka High Court
 
 
-## Retired man faces 3-year pension cut over ‘misconduct’, wins it back in court
+## Jacqueline Fernandez withdraws plea from Supreme Court in money laundering case
 
 
-## Karnataka tourist swept away by Goa waves; Baga Beach tragedy goes viral
+## Bombay High Court reduces death penalty of 2 men to life term in 2013 Nashik murder case
 
 
-## Mumbai shop owner booked for selling Pakistani beauty cream despite import ban
+## To reach the World Cup, Indian football must prioritise development over optics
 
 
-## He was sentenced to life in a murder case: 43 years later, Delhi man walks free
+## Bengaluru businessman found dead at actor Krishi Thapanda’s house
 
 
-## 10-year delay in filing adoption papers costs woman compassionate appointment job
+## Why can’t India qualify for the World Cup? Lack of long-term vision
 
 
-## Hang Seng Index briefly slips below 23,000 as Alibaba leads tech sell-off
-Hong Kong stocks fell, briefly driving the benchmark below the 23,000-point mark for the first time in a year, as technology companies led the decline. The Hang Seng Index slid by as much as 1.8 per cent to 22,992.62. If the decline is sustained, the benchmark would close below the threshold of 23,0
+## Brazil eyes deeper China ties to boost green investments and aid low-carbon transition
+Brazil wants to deepen its cooperation with China and explore ways to expand financing solutions and scale-up green investments to accelerate the South American country’s transition to a low-carbon economy, Brazilian Finance Minister Dario Durigan said in Beijing on Thursday. “We must build long-ter
+
+## China’s Big Fund becomes SMIC’s third-largest shareholder after record Star Market buyout
+China’s state-backed Big Fund has become the third-largest shareholder of the Semiconductor Manufacturing International Corporation (SMIC), the country’s largest wafer foundry, after SMIC completed its acquisition of a manufacturing subsidiary in the largest merger and acquisition deal ever recorded
+
+## Bank of China used disguised mutual funds to avoid paying US$348m in taxes, audit finds
+China’s top auditor has accused one of the country’s biggest state-owned banks of exploiting investment fund structures to evade billions of yuan in taxes, as Beijing steps up efforts to strengthen financial compliance. Bank of China evaded 2.37 billion yuan (US$348 million) in taxes by misusing pre
+
+## Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low
+A sell-off in Chinese technology stocks drove Hong Kong’s benchmark index briefly below the 23,000-point mark for the first time in a year, as Alibaba Group Holding slumped to a 16-month low after US artificial intelligence firm Anthropic PBC accused it of “illicitly” extracting capabilities from it
 
 ## Chinese PCB equipment maker CFMEE tops 1,000-times oversubscription in Hong Kong IPO
-Circuit Fabology Microelectronics Equipment (CFMEE), a Chinese lithography and integrated-circuit manufacturer, has seen massive oversubscription in Hong Kong, as investors aggressively chase high-growth technology themes. The company, based in Hefei, Anhui province, is scheduled to debut on Friday 
+Circuit Fabology Microelectronics Equipment (CFMEE), a Chinese lithography and integrated-circuit manufacturer, has seen massive oversubscription in Hong Kong, as investors aggressively chase high-growth technology trends. The company, based in Hefei, capital of Anhui province in central China, is s
 
 ## Is EV battery technology nearing an inflection point? CATL boss expresses doubts
 Robin Zeng Yuqun, head of the world’s largest electric vehicle (EV) battery maker, has played down expectations for the much-hyped solid-state battery technology, predicting an inflection point would not take place until 2030. The founder and chairman of Contemporary Amperex Technology Ltd (CATL) al
@@ -149,15 +149,6 @@ Chinese banks are accelerating efforts to scale back retail trading of precious 
 
 ## Can Hong Kong keep its financial crown?
 
-
-## A tale of two cities: can Shanghai challenge Hong Kong’s offshore finance crown?
-Hong Kong has been seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the first piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine what Shanghai’s rapid 
-
-## Innovation powers UOB’s vision for smarter banking
-Artificial intelligence (AI) has become the latest version of the corporate arms race, with companies under pressure to quickly adopt the newest tools or risk being left behind. But in banking, the calculation is different. These technologies cannot just be exciting or efficient; they also have to b
-
-## Southbound Stock Connect flows surge to record US$152b driven by Hong Kong’s IPO revival
-Southbound Stock Connect flows, through which mainland Chinese investors buy Hong Kong listed shares, hit a record high in the past year, reflecting strong confidence in the city’s market on the back of a booming pipeline of initial public offerings (IPO). In the 12 months to March this year, mainla
 
 ## This Industrial Revolution Is Not Like the Last One
 Policymakers’ approach to automation won’t work for AI.
@@ -255,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Africa celebrates reaching World Cup knockout stage for first time
-South Africa’s team has celebrated reaching the World Cup knockout stage for the first time after defeating South Korea.
+## Rubio tells Gulf allies that Iran deal will ensure their security
+Rubio's Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.
 
-## ICC judges sue Trump over sanctions, call measures unlawful
-Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.
+## Europe faces another day of extreme heat after more temperature records set
+France under extreme heat alert as 63 million endure 30+C temperatures, with widespread power outages in Brittany.
 
-## ‘We hugged each other and ran’: Venezuelans recount earthquake horror
-Survivors describe panic and collapsing buildings during two strong quakes as thousands of people feared dead.
+## As Ukraine seizes ‘first chance to win’, war horrors come home to Russia
+President Putin has hinted at peace talks as the economy fails, people flee cities and toxic 'oil rains' fall.
 
-## In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy
-Historic World Cup match wins for Egypt, Morocco and Algeria bring together fans from the Middle Eastern diaspora.
+## Venezuela earthquakes: Why is Central America so vulnerable to tremors?
+Venezuela and Japan are both hit by strong quakes, but Venezuela faces higher risks due to weaker building standards.
 
-## Rescuers pull survivors from rubble after Venezuela earthquakes
-A major search-and-rescue effort is underway in Venezuela after two earthquakes levelled buildings and left many trapped
+## Oil prices back to pre-war levels on rising Middle East supply
+The price of Brent crude has reached its lowest since February 27, before the war started.
 
-## Kenya passes controversial bill two years after deadly Gen Z protests
-Kenya passes controversial bill two years after deadly Gen Z protests
+## US says Iran will buy its goods: What could US-Iran trade look like?
+Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?
 
-## Ethiopia is not being ‘dragged into war’
-A response to Redwan Hussein and Getachew Reda’s misleading opinion article.
+## In pictures: Aftermath of twin earthquakes in Venezuela
+Communities in northern Venezuela struggle after deadly quakes as rescuers race against time to find survivors.
 
-## Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know
-Rescue efforts under way as Venezuela declares a state of emergency after powerful twin quakes cause widespread damage.
+## World reacts as devastating Venezuela earthquakes kill at least 32
+Global leaders express solidarity with Venezuela as dual earthquakes kill at least 32 and leave widespread devastation.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
