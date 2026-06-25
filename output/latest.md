@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## India’s indigenous drone makers see orders surge for weaponised UAVs
+Conflict in Iran pushes New Delhi to focus on domestic defence supply chains
+
 ## Apple increases MacBook and iPad prices by 20%
 iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage
 
@@ -20,9 +23,6 @@ Former first lady Michelle lashes out at presidential candidate Flávio in socia
 
 ## Head of UK’s biggest union backs Ed Miliband for chancellor
 Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury
-
-## Tesco’s return to broadband should be a profitable side hustle
-Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base
 
 ## Tech shares zigzag
 Inside a volatile week for some of the world’s most watched stocks
@@ -57,6 +57,15 @@ BSE Sensex closed at 77,100.47, up 109.25 points or 0.14 per cent, while the NSE
 ## ‘MSMEs struggle to retain skilled workers as talent, compliance and AI challenges mount’
 Retention, skill gaps emerge as key concerns, say experts
 
+## US won't abruptly deny AI access to India: Govt
+
+
+## Bigger play for corporates in debt & money markets
+
+
+## 'Excited about growth of quick commerce here'
+Increasingly Investing Substantial Amounts In AWS, Cloud & AI Biz: Amazon CEO Jassy
+
 ## SK Hynix overtakes Samsung: How a 14-year AI chip bet made it South Korea's most valuable listed company
 A bold gamble on high-bandwidth memory (HBM) chips has propelled SK Hynix to the forefront of the AI revolution, briefly making it South Korea's most valuable company. This strategic pivot, once met with skepticism, proved crucial as demand for AI servers surged, allowing SK Hynix to outpace rivals 
 
@@ -72,14 +81,8 @@ The Indian rupee saw a modest gain of 10 paise, closing at 94.45 against the US 
 ## From Amazon, ABB to Google, AirTrunk & more: Global giants commit billions of dollars to India
 Large US technology companies have collectively committed billions of dollars to India, highlighting the country's growing importance as a key destination for cloud computing, artificial intelligence and deep-tech investments.
 
-## US stock markets today: Dow rises as Micron jumps on AI outlook, Apple slides after price hikes
-Indian markets saw a mixed trading session on Thursday, with AI chipmakers like Micron Technology leading gains, while Apple faced pressure due to product price hikes. Easing Treasury yields and moderating oil prices offered some support. Asian markets largely advanced, with South Korea's Kospi and 
-
-## Gold price crash explained: Why are gold rates falling and when will yellow metal recover?
-In January 2026, gold prices hit $5595 - a life-time high - they are now trading at below $4,000. The prices are down 7.6% year-to-date. On the MCX, the decline has been lesser - at around 22% - largely due to a hike in import duties.
-
-## US inflation climbs above 4% for first time in three years as consumer spending stays resilient
-US inflation surged past 4% in May, primarily due to escalating energy costs linked to Middle East tensions. Despite rising living expenses, consumer spending showed resilience, buoyed by tax refunds and stock market gains. While economists anticipate persistent inflationary pressures, the Federal R
+## ‘Happy birthday, please resign’: Abhijeet Dipke’s wish to Dharmendra Pradhan comes with a gift | Watch
+In a video, Dipke is seen writing on a whiteboard, “Happy Birthday, Pradhan. Please resign,” while supporters sing the birthday song in the background.
 
 ## Senior IPS officer Mahesh Dixit appointed new Intelligence Bureau chief, to succeed Tapan Deka
 An officer of the Andhra Pradesh cadre, Mahesh Dixit is currently a special director in the IB and was overseeing important operations in various sectors.
@@ -102,8 +105,14 @@ Civil aviation minister Ram Mohan Naidu said six more airports would be brought 
 ## 7 golden langurs rescued from traffickers released into wild: Assam forest minister
 The endangered primates were rescued from an alleged interstate wildlife trafficking network busted by Assam Police in Chirang district.
 
-## 'Bhagwant Mann's silicon mask used': AAP bombshell amid Sikh Gurus clip row; video emerges
-Bhagwant Mann and AAP have maintained that the man seen in the alleged video disrespecting the Sikh Gurus is not the Punjab CM.
+## Delhi Confidential: Field Duty
+
+
+## Mallikarjun Kharge and kin grabbed public land, gave it to shady private trust: BJP
+
+
+## Ecuador stun Germany, script one of biggest upsets of FIFA World Cup 2026
+
 
 ## Afghan among 7 held as cross-border arms, drugs network unearthed; 5-kg heroin, 10 pistols seized
 
@@ -120,14 +129,14 @@ Bhagwant Mann and AAP have maintained that the man seen in the alleged video dis
 ## In Bengal, BJP government to bring UCC Bill this Assembly session
 
 
-## Venezuela earthquakes mapped: Where the deadly quakes struck
+## HKEX pushes deeper into index business as AI reshapes Hong Kong market
+Hong Kong Exchanges and Clearing (HKEX) is expanding into the index business with plans to launch more proprietary benchmarks and related investment products, as traditional market gauges have lagged regional peers during the artificial intelligence-driven technology rally. The operator of Hong Kong
 
+## Rewriting the Intelligence Map
+Pak-Sun Ting, Co-founder and CEO of Votee AI, outlines how sovereign AI architecture and native language models aret reshaping enterprise governance while bringing billions of underserved language speakers into the generative AI era. The AI revolution has a blind spot. While large language models (L
 
-## Plasma racket busted, 2 Maharashtra blood banks under scanner: Gujarat Police
-
-
-## Mayor issues QR-coded IDs to 100 hawkers; 99,000 more to follow
-
+## Navigating the Leviathans: Professor John Mearsheimer and the resurgence of great power politics
+In an era defined by shifting alliances and structural instability, the resurgence of great power politics has returned to the forefront of global strategic discourse. At the recent SCMP Plus fireside chat, held at the HKU iCube, a distinguished assembly of subscribers and community leaders gathered
 
 ## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
 Trip.com Group, China’s largest online travel agency, says it expects second-quarter revenue growth to be the slowest in more than three years and warns of a “significant fine” from an ongoing antitrust probe by the country’s top market regulator. The company reported on Thursday that first-quarter 
@@ -144,14 +153,17 @@ China’s top auditor has accused one of the country’s biggest state-owned ban
 ## Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low
 A sell-off in Chinese technology stocks drove Hong Kong’s benchmark index briefly below the 23,000-point mark for the first time in a year, as Alibaba Group Holding slumped to a 16-month low after US artificial intelligence firm Anthropic PBC accused it of “illicitly” extracting capabilities from it
 
-## Chinese PCB equipment maker CFMEE tops 1,000-times oversubscription in Hong Kong IPO
-Circuit Fabology Microelectronics Equipment (CFMEE), a Chinese lithography and integrated-circuit manufacturer, has seen massive oversubscription in Hong Kong, as investors aggressively chase high-growth technology trends. The company, based in Hefei, capital of Anhui province in central China, is s
+## Restocking the Pentagon
+Trump urges defense manufacturers to speed up weapons production after the Iran war.
 
-## Is EV battery technology nearing an inflection point? CATL boss expresses doubts
-Robin Zeng Yuqun, head of the world’s largest electric vehicle (EV) battery maker, has played down expectations for the much-hyped solid-state battery technology, predicting an inflection point would not take place until 2030. The founder and chairman of Contemporary Amperex Technology Ltd (CATL) al
+## Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
+The president has taken unprecedented steps to end a policy of exclusion, but suspicions remain.
 
-## Major Chinese banks suspend individual trading on Shanghai Gold Exchange amid volatility
-Chinese banks are accelerating efforts to scale back retail trading of precious metals, with the price of gold below US$4,000 an ounce for the first time since November, highlighting growing volatility in a market that has lost nearly 30 per cent of its value since peaking earlier this year. Industr
+## As the Tide Turns Against Putin, Beware the Drowning Man
+Like a struggling swimmer, he may take desperate measures to stay afloat.
+
+## Venezuela Reels From Twin Deadly Earthquakes
+With thousands of people missing, the death toll is expected to rise.
 
 ## The Quest for Nuclear Superiority Makes No Sense
 The best way for governments to save money is to stop wasting it on completely unnecessary weapons.
@@ -164,18 +176,6 @@ In Colombia and elsewhere, winning was the easy part.
 
 ## Will Pakistan’s Iran Gamble Pay Off?
 Islamabad could leverage its success as a mediator to secure its own interests.
-
-## Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?
-The NATO chief seeks to manage the U.S. president while appeasing other alliance members.
-
-## Will Congo’s President Push a Third Term?
-As Kinshasa faces multiple crises, a bill risks plunging the country further into instability.
-
-## Treasury Chief Bessent Defends Trump’s Iran Deal
-Vice President J.D. Vance isn’t the only one being trotted out to sell an unpopular deal.
-
-## The Middle East’s Great Divergence Is Underway
-With economic and security interests split between great powers, the region is beginning to consider a third path.
 
 ## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
 Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat
+Both players were on the floor when Thomas pushed her fist into Clark's throat before getting up and stepping over her.
+
+## Venezuela rescue teams race to find earthquake survivors
+Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday.
+
+## Economic losses mount as Venezuela earthquake death toll grows
+Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP.
+
+## UN agency pauses Hormuz ship evacuation initiative after vessel attacked
+Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.
+
+## Venezuela quake leaves La Guaira in almost total devastation
+La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.
+
+## Dutch fans party in Kansas City ahead of World Cup clash with Tunisia
+Netherlands supporters got the party going in Kansas City, US ahead of their final group stage game against Tunisia.
+
+## Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’
+Israeli PM Benjamin Netanyahu stated that Israeli forces will maintain a presence in southern Lebanon, Syria and Gaza.
+
 ## Ashura ceremonies intertwine faith and support for state in Iran
 State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.
-
-## Kenya’s Kandie gets seven-year ban for doping violations
-Kibiwott Kandie initially faced an eight-year ban split evenly across two violations, but received a one-year reduction.
-
-## Has Marco Rubio’s tour of the Gulf reassured US allies?
-The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security.
-
-## ‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake
-Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188.
-
-## Kenya arrests more than 350 as people mark anniversary of deadly protests
-Demonstrators mark the second anniversary of a 2024 protest where 60 people were killed by security forces.
-
-## Bedouins protest Israel’s home demolition policy in the Negev desert
-Bedouins protest Israel’s home demolition policy in the Negev desert
-
-## Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
-Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.
-
-## ‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes
-The Venezuelan government has loosened restrictions on social media as residents search for missing loved ones.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
