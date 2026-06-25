@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## US banks would lose $700bn in economic crash, Fed stress tests find
+Several Wall Street lenders boost investor payouts after receiving pass grades
+
+## Trump demands ‘loyalty’ from Nato allies and slams lack of support in Iran war
+US president singles out alliance members, including the UK, after meeting secretary-general Mark Rutte
+
+## What Ambani’s deep-tech ambitions reveal about India’s AI limits
+Country still needs to play catch-up if it is to become self-reliant in the use of the technology
+
+## Higher tax and lower earnings erode financial return for UK graduates
+Institute for Fiscal Studies says lifetime gains from degree will be third lower than it estimated in 2020
+
+## White House seeks $88bn from Congress as Trump clashes with Republicans
+Request comes hours after lunch between the US president and GOP lawmakers descends into shouting match
+
 ## Micron posts 15-fold profit surge as AI companies clamour for chips
 Shares rally in after-hours trading as chipmaker forecasts sustained demand for computer memory
 
@@ -9,23 +24,32 @@ Also in today’s newsletter, China detains two Japanese nationals on smuggling 
 ## IOC to pay Olympians for the first time in its history
 Governing body sets up $140mn fund covering Summer and Winter Games to disburse grants to every participant
 
+## Bain Capital to buy majority stake in VW’s marine engine unit in €7.4bn deal
+Private equity firm sees off bids from rivals as German carmaker looks to cut costs and debt
+
 ## Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
 AI company says the Chinese ecommerce giant used fake accounts to ‘extract’ chatbot’s capabilities
 
 ## Qualcomm reveals Meta as first Big Tech customer for data centre chips
 Announcement of deal along with higher revenue outlook boost shares as much as 15%
 
-## US banks would lose $700bn in economic crash, Fed stress tests find
-Several Wall Street lenders boost investor payouts after receiving pass grades
-
 ## Bitcoin hits 20-month low as market sentiment sours
 Price of world’s most actively traded digital asset falls below $60,000 amid shift by retail investors to AI-related stock bets
 
-## Disney draws viewer support in deepening fight against Trump administration
-Media group calls on audience to join its defence against attacks by chair of Federal Communications Commission
+## Back-to-back earthquakes hit Venezuela, buildings collapse in Caracas
+The tremors caused significant shaking in Caracas, leading to building collapses and evacuations
 
-## Bain Capital set to buy controlling stake in VW’s marine engine unit
-Carmaker moved to sell the Everllence division after pressure to cut costs and debt
+## Emergency history added to NCERT curriculum after 50 years
+The updated chapter, part of Understanding Society: India and Beyond, also outlines the political background, the protests led by Jayaprakash Narayan, and the restoration of democracy in 1977
+
+## Japan earthquake: Magnitude 6.9 quake strikes Tohoku region, no tsunami warning issued
+The quake was felt strongly in Aomori prefecture, while railway services including Tohoku Shinkansen were temporarily halted
+
+## Adani Group bribery case: Lawyer urges US court to dismiss charges
+Seeking dismissal of the case, Adani’s lawyer argued that U.S. prosecutors cannot pursue the matter under American law or prove the alleged bribery claims in India
+
+## Wrong taxiway turn by Air India aircraft triggers ground incident at Ahmedabad airport
+The Air India aircraft was later towed back to the parking bay, while the IndiGo flight departed after a brief delay.
 
 ## Trump claims Iran making major concessions, says ‘we’re winning by a lot’
 
@@ -36,20 +60,8 @@ Data from the Council for Active Mobility show that only 9-20% of footpaths in m
 ## Markets rebound as global uncertainty eases; crude falls, RBI calms rate hike concerns
 Equity markets rebound as easing global uncertainty and falling crude prices boost investor confidence, calming RBI rate hike fears.
 
-## Solar rooftops slash household power bills to zero in Kerala, Rajasthan
-The Centre’s flagship rooftop solar initiative is proving effective in reducing household electricity costs
+## Crude below $75/barrel but will take time to return to pre-war levels
 
-## Thousands in France left without power amid scorching European heatwave
-Northern France is working to restore electricity to thousands of homes after a transformer-related incident linked to extreme heat.
-
-## First Norton Atlas rolled out at TVS Motor’s Hosur factory
-The Atlas officially launches globally next month; sales to begin later in Q3
-
-## ED accuses Rajesh Exports of FEMA violations, ‘significant departures’ from trade norms
-Rajesh Exports failed to produce critical documentation for its imports, exports, overseas investments, and foreign trade settlements
-
-## India-US trade talks progress, but pact timeline remains elusive
-Both sides signal commitment to trade deal, but offer no timeline for conclusion
 
 ## 'Wrong turn': Air India plane comes in front of IndiGo flight on same taxiway at Ahmedabad airport
 
@@ -71,9 +83,6 @@ India and the US concluded ministerial talks on a proposed trade deal, aiming fo
 
 ## Why did stock market rally today? BSE Sensex closes around 800 points up - top reasons for rise
 A recovery in South Korean markets and supportive global developments also aided the rally. The Sensex climbed almost 791 points to settle at 76,991, while the Nifty 50 gained about 198 points to close at 24,022.
-
-## Elon Musk loses trillionaire status: Here's why his net worth fell
-Elon Musk, once the world's first trillionaire, has seen his net worth dip below the 13-figure mark to $957 billion. A significant sell-off in Tesla and SpaceX shares, following SpaceX's IPO surge, has led to this decline. Concerns over an AI market bubble and potential interest rate hikes are contr
 
 ## 2015 Behbal Kalan firing case: Punjab Police SIT issues fresh summons to BJP leader Sampla
 The notice states that the SIT believes Sampla is acquainted with the facts and circumstances of the cases and warns that non-compliance may attract action.
@@ -99,29 +108,32 @@ Released on Wednesday by the US-based NGO Climate Central, the study attributed 
 ## Over 50 foreign medical graduates meet Delhi health minister over internship delays, stipend disparity
 During the meeting, the Delhi Health Minister assured the delegation that the issues raised would be addressed at the earliest.
 
-## Inspection, sealing amid crackdown on coaching centres in Delhi-NCR after Lucknow fire
+## Rescued from begging, Ahmedabad Municipal Corporation opens doors of its schools to kids for a “better life, brighter future”
 
 
-## Ecological concerns emerge as Delhi runs out of space to dispose drain silt
+## Every Indian is a VIP, says Vice-President C P Radhakrishnan
 
 
-## 10 lakh kg waste processed in 8 years: Lessons from a zero-waste residential colony in Delhi
+## Delhi Confidential: Austerity Drive
 
 
-## If he is guilty, please hang him: Brother of accused in South Delhi rape-murder case
+## Cabinet Secretary’s poser: Do we want 30-year service experience or just one repeated 30 times?
 
 
-## Build shelters for homeless, ensure screening of cab drivers: Delhi Police set to propose to government
+## Row over ‘ Bhagwant Mann video’: Punjab CM digs in heels as Opposition calls for boycott
 
 
-## Delhi government approves 270-km road strengthening project worth Rs 658 crore
+## After rape and murder of minor girl: Accused with crime history drove cabs in Delhi, ride-hailing firms on police radar
 
 
-## Lion cub’s carcass found with injuries in Junagadh, search on for suspect: Forest dept
+## Lucknow blaze brings back memories of deadly 2019 Takshashila fire, Surat steps up safety checks
 
 
-## Local train killing: Who is Roshan Suvarna, and how police tracked him down
+## Bengal CM Suvendu Adhikari suspends construction work till July 31, orders audit of all ongoing projects
 
+
+## Hong Kong prime office vacancy hits 7-month low on Central spillover demand
+Hong Kong’s overall prime office vacancy rate fell to a seven-month low in May, driven by spillover demand from Central, where premium offices were close to full occupancy, according to JLL. With Central’s grade A office vacancy rate holding steady at 9.2 per cent, tenants appeared to have found the
 
 ## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
 A Danish court has ordered the state to pay 80 million Danish kroner (US$12 million) in compensation to TDC NET, the country’s largest digital-infrastructure operator, after authorities forced it to strip Huawei equipment from its fibre network. The Eastern High Court in Copenhagen ruled on Wednesda
@@ -143,9 +155,6 @@ We have put together stories from our coverage on electric and new energy vehicl
 
 ## Chinese car sales accelerate in Europe as Brussels weighs putting on the brakes
 Chinese carmakers continued their rapid expansion in Europe last month according to industry data released on Tuesday, as Brussels reportedly weighs fresh tariffs aimed at slowing their advance. Geely Group was the highest-placed Chinese carmaker, ranking eighth among all manufacturer groups in May,
-
-## Banks are rushing to recruit AI leadership – but how will the tech be implemented?
-Both regulators and clients could motivate banks to adopt artificial intelligence for greater efficiency gains in the coming years, an Amazon Web Services (AWS) executive has predicted, adding the trend could intensify the global race to embrace the cutting-edge technology. Over the past few months,
 
 ## Will Pakistan’s Iran Gamble Pay Off?
 Islamabad could leverage its success as a mediator to secure its own interests.
@@ -171,6 +180,15 @@ Both Washington and Tehran need it.
 ## The New Geography of the World Cup
 Migration, colonial history, and elite academies have redefined today’s national teams.
 
+## 2 State-owned Banks in Kyrgyzstan Drop 131 Clients Due to Sanctions Risks
+While the companies haven’t been named, what’s clear is that Bishkek wants to be seen making an effort to address the EU’s sanctions circumvention concerns.
+
+## Pax Silica and Indo-Pacific Partners
+Insights from Akhil Ramesh.
+
+## Beyond a Viral Video, What Did Bangladesh’s PM Accomplish in Malaysia?
+A Malaysian video attracted attention to the trip and its geopolitical significance.
+
 ## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
 A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
 
@@ -185,15 +203,6 @@ A bank lending a business money is hardly cause for a headline. But this is no o
 
 ## The Future of BRICS After the Iran War
 Carlos Frederico Pereira da Silva Gama and host Tushar Shetty discuss the priorities and divergences of India’s BRICS presidency ahead of the September leaders’ summit.
-
-## Is There a Way to Break the Deadlock in Japan-China Relations?
-Is this the new normal?
-
-## Can Kazakhstan and Iran Sustain Momentum on Transport Corridor Development?
-The Iran-U.S. conflict has served to concentrate attention on the transport relationship between Kazakhstan and Iran, in development for years before the war began.
-
-## Not Just the Military: Xi Jinping’s Other Senior Party Purge
-Xi has ruthlessly gone after former Politburo Standing Committee member and one-time economic czar Wang Qishan.
 
 ## Nuclear Stability in the Age of AI
 In 2024, Paul Scharre and Michael Depp wrote, “Artificial Intelligence and Nuclear Stability,” where they argued integrating artificial intelligence into the nuclear chain of command presents both opportunities and risks. Two years later, as AI becomes increasingly integrated into military systems a
@@ -243,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump White House requests $87.6bn in spending, including for Iran war
+The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump's war powers.
+
 ## European heatwave, scorching weather triggers UK ‘red’ warning
 Britain is facing its hottest June weather on record as a blistering heatwave spreads across Europe.
 
@@ -263,9 +275,6 @@ Scotland fans have gathered in their thousands ahead of a blockbuster World Cup 
 
 ## Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says
 Iranian team's trip to Seattle was delayed by 25 minutes as Taremi and Alhoei were held up for an undisclosed reason.
-
-## Palestinian activist faints after his release from Israeli prison
-Palestinian activist Abdullah Shatat collapsed moments after his release from an Israeli jail.
 
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
