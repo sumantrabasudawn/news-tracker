@@ -1,43 +1,37 @@
 # AION Intelligence
 
+## Apple increases MacBook and iPad prices by 20%
+iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage
+
+## Micron shares jump as blockbuster results spark Wall Street tech shake-up
+Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
+
+## Attack in Strait of Hormuz halts evacuation plan for stranded ships
+International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+
+## Micron posts 15-fold profit surge in boost for global AI stocks
+Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
+
+## Live special: Ten years after Brexit
+Can the UK deliver change?
+
+## Jair Bolsonaro’s wife accuses stepson of ‘stab in the back’ in election feud
+Former first lady Michelle lashes out at presidential candidate Flávio in social media video in latest setback to campaign
+
 ## Head of UK’s biggest union backs Ed Miliband for chancellor
 Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury
 
 ## Tesco’s return to broadband should be a profitable side hustle
 Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base
 
-## Andy Burnham will have to make tough choices
-Britain’s next leader must be ready to take unpopular decisions on spending and growth
+## Tech shares zigzag
+Inside a volatile week for some of the world’s most watched stocks
 
-## Venezuelan earthquakes leave hundreds dead and injured
-Acting president Delcy Rodríguez says 164 confirmed dead but toll is likely to rise sharply
-
-## Oil price back at prewar levels as Gulf flows pick up
-Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted
-
-## Bayer wins crucial US Supreme Court ruling over Roundup weedkiller
-Justices overturn verdict that became basis for billions of dollars in claims over warnings of alleged cancer risk
-
-## How Andy Burnham’s 1990s football team conquered UK politics
-From the archive: a north London side contained several future Labour heavyweights, including the presumptive prime minister
-
-## Trump’s Iran deal is better than ongoing war
-The president has made many errors in his policy towards Tehran, but signing the MOU isn’t one of them
+## VW’s Everllence sale shows even ailing carmakers have hidden charms
+Deal suggests carmakers may have more value packed away in the trunk
 
 ## Electricity prices soar as Europe battles heatwave
 Record June temperatures are fuelling demand for air conditioning and putting pressure on energy systems
-
-## TotalEnergies to account for role in greenhouse gas emissions, court rules
-Partial victory for campaigners and city of Paris in attempt to attribute corporate responsibility for global warming
-
-## Competition intensifies for Anthropic and OpenAI ahead of IPOs
-Renewed challenge from open-source models raises stakes on AI labs to make their case
-
-## Micron shares jump as blockbuster results spark Wall Street tech shake-up
-Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
-
-## Dimon promotes two potential successors at JPMorgan
-Marianne Lake leaves bank as Doug Petno and Troy Rohrbaugh handed two of its largest divisions
 
 ## I talk to paneer and milk”, says the man behind Milky Mist’s incredible dairy journey
 
@@ -111,28 +105,28 @@ The endangered primates were rescued from an alleged interstate wildlife traffic
 ## 'Bhagwant Mann's silicon mask used': AAP bombshell amid Sikh Gurus clip row; video emerges
 Bhagwant Mann and AAP have maintained that the man seen in the alleged video disrespecting the Sikh Gurus is not the Punjab CM.
 
-## How her late father’s dream spurred Sindhushree to break national record
+## Afghan among 7 held as cross-border arms, drugs network unearthed; 5-kg heroin, 10 pistols seized
 
 
-## India beat Bangladesh but concerns remain ahead of must-win game vs Australia
+## Poster war in Punjab: ‘Boycott Mann’ banners spread, anti-Sukhbir flex surfaces in Ludhiana
 
 
-## Accused carried knife in bag for two months, travelled undetected on local trains: GRP
+## As Akal Takht summons Sikh MLAs over anti-sacrilege law, AAP legislators restive
 
 
-## Chhattisgarh tightens minor mineral rules, raises penalties for illegal mining
+## Ludhiana Mayor appoints sons of 2 AAP MLAs as F&CC members
 
 
-## Saif Ali Khan once lost a film for refusing to leave girlfriend; impact of such choices
+## In Bengal, BJP government to bring UCC Bill this Assembly session
 
 
-## BJP says Mayor inspection fiasco was staged, seeks probe
+## Venezuela earthquakes mapped: Where the deadly quakes struck
 
 
-## Second time in a week, Namma Metro operations briefly halted as doors fail to close
+## Plasma racket busted, 2 Maharashtra blood banks under scanner: Gujarat Police
 
 
-## Delhi HC allows sexual assault survivor to terminate 28-week pregnancy
+## Mayor issues QR-coded IDs to 100 hawkers; 99,000 more to follow
 
 
 ## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
@@ -207,6 +201,9 @@ The 55-year-old civil society activist and dual Cambodian-U.S. citizen has been 
 ## How New Delhi’s Policy on Ceasefires With Rebel Groups in the Northeast Contributed to Manipur’s Crisis
 Abrogation of the ceasefires in Manipur may not be an option for the government as it could spark greater violence.
 
+## Open Strait, Unsettled Waters
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
+
 ## The U.S. Navy’s Subsea Rare Earth Vulnerability
 The Columbia-class ballistic missile submarine is the next generation of American nuclear deterrence. Twelve of these boats will replace the aging Ohio-class fleet, entering service over the 2030s and 2040s, each carrying 16 Trident IIs and driven by a ghost-quiet electric motor that renders them ac
 
@@ -227,9 +224,6 @@ Wars rarely end in a single act of diplomacy. More often, they pass through a su
 
 ## Adapting to Uncertainty in the Strait of Hormuz
 Iran’s threats to shipping through the Strait of Hormuz — in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 — effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased restrictions, and s
-
-## A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy
-In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy paired with a military strategy and Plan for
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US Supreme Court scales back Roundup cancer lawsuits in victory for company
-More than 100,000 plaintiffs had filed cases in US state and federal courts alleging cancer link to weedkiller Roundup.
+## Ashura ceremonies intertwine faith and support for state in Iran
+State-backed Ashura events showcase leaders killed by US, Israel, seen as martyrs in the mould of Imam Hussein.
 
-## Ukrainian attack on Crimea kills five, Russian officials say
-Attacks continue on the ground as Moscow expels Romania’s consul general in a tit-for-tat move.
+## Kenya’s Kandie gets seven-year ban for doping violations
+Kibiwott Kandie initially faced an eight-year ban split evenly across two violations, but received a one-year reduction.
 
-## Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal
-A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.
+## Has Marco Rubio’s tour of the Gulf reassured US allies?
+The US secretary of state tells Gulf Cooperation Council (GCC) states that the Iran deal will ensure their security.
 
-## How the HPV vaccine changes how we think about cancer
-Al Jazeera’s Linh Nguyen explains how the HPV vaccine changes the way we think about cancer.
+## ‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake
+Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188.
 
-## Venezuela struggles to respond to devastating twin earthquakes
-Noris Soto says authorities appear to lack a clear response plan in the aftermath of two powerful earthquakes.
+## Kenya arrests more than 350 as people mark anniversary of deadly protests
+Demonstrators mark the second anniversary of a 2024 protest where 60 people were killed by security forces.
 
-## Rubio: Gulf countries don’t support Strait of Hormuz tolls
-US Secretary of State Marco Rubio said all Gulf countries oppose a toll in the Strait of Hormuz.
+## Bedouins protest Israel’s home demolition policy in the Negev desert
+Bedouins protest Israel’s home demolition policy in the Negev desert
 
-## Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza
-The deaths come amid escalating Israeli military raids and settler attacks across the occupied territories.
+## Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
+Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.
 
-## US Supreme Court paves way for government to block asylum seekers at border
-Liberal justices say the ruling 'circumvents' US law by allowing agents to prevent asylum seekers from filing a claim.
+## ‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes
+The Venezuelan government has loosened restrictions on social media as residents search for missing loved ones.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
