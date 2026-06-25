@@ -1,136 +1,151 @@
 # AION Intelligence
 
-## FirstFT: Trump demands ‘loyalty’ from Nato allies
-Also in today’s newsletter, Venezuela earthquakes and oil price back at prewar levels
+## Lessons from Brexit for the world economy
+Ten years on, it’s clear the warnings should have been heeded
 
-## Bank of England to keep steady all year amid ‘second-round’ worries
-Read the June forecast from the FT’s Monetary Policy Radar team
-
-## South Korea delays plan for new single-stock options amid record volatility
-Concerns grow of frothiness in world’s best-performing equity market
+## Trump says Burnham ‘extremely liberal’
+US president makes first comments on prospective British prime minister
 
 ## Unions combine to try to stop Ed Miliband becoming chancellor
-Britain’s probable next prime minister, Andy Burnham, under pressure from Unite the Union and the GMB
+Britain’s probable next prime minister, Andy Burnham, under pressure from Unite the Union and GMB
 
-## Hospitals cancel operations owing to lack of air conditioning
-Record June temperatures putting up to 4,000 surgeries at risk
+## EasyJet in talks with Castlelake after rejecting £4.9bn takeover offer
+Budget airline turned down offer that US private credit group submitted on Tuesday
 
-## Patent cliffs aren’t the only driver of the biotech M&A boom
-Many deals this year have been for early-stage assets
+## UAE billionaire’s son revealed as buyer of £190mn London mansion
+Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases
 
-## Andy Burnham in a bind over tax as he seeks to shelter middle-earners
-The new Makerfield MP has tried to reassure voters they will not face big rises if he becomes prime minister
+## Venezuelan earthquakes leave ‘devastating number of deaths’
+US Geological Survey warns that will probably result in high casualties
 
-## Rome airports warn of summer ‘disaster’ unless EU border controls suspended
-Biometric checks must be put on hold to cope with passenger numbers, airports boss says
+## Anthropic accuses Alibaba of obtaining illicit access to Claude
+AI company says Chinese ecommerce group used fake accounts to ‘extract’ chatbot’s capabilities
+
+## Brussels picks up pace on Draghi economic reform agenda
+Also in this newsletter: Czech court says president and prime minister can both attend Nato summit
+
+## Qualcomm vs Nvidia and drones vs dogs
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+
+## FTAV’s further reading
+Mystery retatrutide user; the invention of Antifa; Hollywood vs Big Tech; Haaland is good at scoring goals
+
+## Micron posts 15-fold profit surge in boost for global AI stocks
+Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
+
+## FirstFT: Trump demands ‘loyalty’ from Nato allies
+Also in today’s newsletter, Venezuela earthquakes and oil price back at prewar levels
 
 ## Ari Emanuel eyes Broadway and the West End
 The Hollywood power broker is in advanced talks to buy theatre group ATG Entertainment for £4.5bn
 
-## Boaz Weinstein is half right on Workspace’s valuation rut
-London’s commercial property market is lumpy and slowing
+## Alpha Wave sells entire 1.9% stake in Delhivery; stock falls over 2%
+The transactions executed on Wednesday in the price range of ₹460.03-460.36 apiece, taking the combined deal value to ₹664.74 crore
 
-## Quinn Emanuel takes charge of £36bn BHP case from troubled boutique
-US law firm now leading UK’s biggest class action after lawyers resigned from Pogust Goodhead
+## Sensex today | Stock Market Live: Nifty holds above 24,100, Sensex rises 500 pts led by auto, healthcare stocks
+Sensex, Nifty, Share Prices LIVE: At 1:30 pm, Sensex was up 508.34 points or 0.66% at 77,499.56, while Nifty was up 156.00 points (0.65%) to 24,177.65 .
 
-## The future of TV: lots of choice, lots of hassle
-The fracturing of platforms has created both delight and frustration for viewers
+## Vietnam Explores Sustainable Aviation Fuel Development at International Conference in Hanoi
+Vietnam Explores Sustainable Aviation Fuel Development at International Conference in Hanoi
 
-## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty above 24,100 as Crude slips close to pre-war levels
-Sensex, Nifty, Share Prices LIVE: Sensex traded 400.66 pts or 0.52% higher at 77,391.88 at 9.16 am after a positive opening at 77,391.07 from the previous close of 76,991.22. Nifty 50 was up 114.90 pts or 0.48% to 24,136.55.
+## JSW Green Mobility makes strategic investment in Lithium Urban Tech
+The strategic partnership will boost the company’s expansion as demand for reliable, tech-enabled, and sustainable mobility solutions grows
 
-## Rajesh Exports stock hits fresh lower circuit as ED alleges FEMA violations, record-keeping lapses
-The stock reaction follows the agency’s claims that the gold refiner and jewellery manufacturer failed to maintain critical transaction records and could not substantiate several overseas investments and trade settlements.
+## Servotech's 60 kW and 120 kW EV chargers earn BEE's Top 5-Star efficiency rating
+The certification is commercially significant for Servotech as government agencies, public sector undertakings, oil marketing companies, and fleet operators increasingly weigh energy efficiency
 
-## India-US trade deal near, but key issues still unresolved: Asia Society Policy Institute experts
-Trust deficit and tariff clarity remain major hurdles in finalising agreement
+## Henkel names Pradhyumna Ingle as Country President for India
+Ingle succeeds S Sunil Kumar, who led Henkel India over the past five years
 
-## Insurgent consumer brands surpass $7.5 bn revenue in FY25, grow nearly 4x in five years: Report
-Insurgent brands are growing at 1.5 to 5 times their respective categories and are building new segments at breakneck speed, said the joint report by Bain & Company and DSG Consumer Partners
+## Autos and Healthcare lead Nifty past 24,200 as crude stays near $69
+Automobile and healthcare stocks drove the rally, while energy and metals saw selling as crude oil prices neared $69–70 per barrel
 
-## Meity Secretary Krishnan meets senior US official Helberg, discuss technology ties
-S. Krishnan, Secretary of MeitY, met with Jacob Helberg, US Under Secretary of State and host of the Pax Silica initiative, on Wednesday to discuss strengthening supply chain security in key technology sectors
+## These dozen stocks will remain in focus on Thursday
+Buzzing stocks: Embassy, BDL, Vedanta, Infosys, Airtel, Apis India, Muthoot Capital, Electrosteel Castings, Shilpa Medicare, Texmaco Rail, HCL Tech, Accord Transformers, Hind Copper
 
-## Vikram Solar says NCLAT stays insolvency proceedings against company
-The appellate tribunal has put on hold the NCLT Kolkata order admitting CIRP against the company until the next hearing.
+## Strait of Hormuz reopens: Middle East oil exports to climb to 4-month high
+The Strait of Hormuz is reopening, paving the way for Middle Eastern fuel oil exports to reach a four-month high in June. Iraq and Saudi Arabia are leading this surge, with Iraq notably diversifying routes through Syria. While shipments are increasing, they remain below pre-war levels, and cautious 
 
-## White House asks Congress for $87.6B for Iran war, aid to US farmers, tackling Ebola crisis
-The request is mostly for Operation Epic Fury, but it also includes a range of other items including aid to American farmers, help for the Ebola crisis in Africa and other needs closer to home
+## Beyond oil tanks: Strategic pricing reserves, the new mantra for India’s energy security
+From a storage perspective, India should enhance its SPR capacities from 17 to 45 days on land with the possibility of having another 10-15 days of SPR on sea on tankers. Incidentally, the International Energy Agency recommends a SPR of 90 days.
 
-## Emergency dark period which saw Indian democracy brutally crushed: PM Modi
-For people, the Constitution is an embodiment of the aspirations, rights and duties of 140 crore Indians, says the Prime Minister
+## ITR filing FY 2025-26: Old vs new income tax regime - how salaried taxpayers can lower tax outgo
+ITR filing FY 2025-26: The two regimes differ fundamentally in structure. The new tax regime offers lower slab rates but largely eliminates exemptions and deductions. The old tax regime, in contrast, allows taxpayers to claim a range of benefits.
 
-## Premature to talk of rate hike: RBI governor Sanjay Malhotra
-
-
-## Amazon chief Andy Jassy presses Quick-commerce pedal
-
-
-## India, US discuss ways to ink interim trade deal
-
-
-## Noel to step down from 6 Tata companies boards in November
-
-
-## No respite for Tata Sons as RBI tightens NBFC norms
-
+## Oil prices fall to $70: Will your flight tickets get cheaper?
+Aviation Turbine Fuel (ATF) prices, which had surged, are now under scrutiny as crude oil costs decline. The Civil Aviation Minister indicated the government may ask airlines to reassess surge charges and additional fare components if fuel prices remain stable. Discussions are ongoing with airlines 
 
 ## Top stocks to buy today: Stock recommendations for June 25, 2026 - check list
 Top stock market recommendations: Olectra Greentech, GAIL, and Hindustan Aeronautics Ltd (HAL) have been picked as the top 3 stocks to buy today on June 25, 2026 by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management.
 
+## Gold, Silver Rate Today Live Updates: MCX Gold, MCX Silver futures tank; international gold prices drop to lowest level in almost eight months
+
+
 ## Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal
 Crude oil prices have plummeted towards pre-war levels as tanker traffic through the Strait of Hormuz resumes, alleviating supply worries. Following a surge past $126, oil is now hovering around $70. Improved shipping and potential Iranian exports have eased fears of disruptions, leading to a signif
 
-## 'Wrong turn': Air India plane comes in front of IndiGo flight on same taxiway at Ahmedabad airport
+## Premature to talk of rate hike: RBI governor Sanjay Malhotra
 
 
-## Rain, knife and 22-year-old's death: What went down in Mumbai local | Blow-by-blow account
-The victim, Mayank Lohar, a resident of Virar who worked as a salesman at Westside's Andheri store, was attacked during his journey home after work.
+## ‘Challenge to Democracy’: Why NCERT's new Class 9 chapter on ‘Emergency’ is drawing attention
+In the book, Emergency has been flagged as “one of the major challenges” faced by the Indian democracy, with a majority of fundamental rights being suspended.
 
-## 'Not everything is about politics': Anil Kumar Rastogi's latest remark over PM Modi-Padma awards video
-The actor added that he is a supporter of the Bharatiya Janata Party (BJP) and holds high regard and respect for PM Modi.
+## Chhattisgarh government tightens illegal mining rules, raises penalties
+The Chhattisgarh government has implemented tougher penalties and enforcement measures, aiming for enhanced transparency and increased revenue.
 
-## 'Rubble of crumbling economy’: Rahul Gandhi blames lack of jobs for UP bonded labour case
-The police rescued 12 bonded labourers from captivity in UP after one of them fled the disposable leaf bowl and paper plate manufacturing unit in Mandi village.
+## NEET leak row: Dharmendra Pradhan says Rahul Gandhi ‘misleading’ youth, created ‘fear' in their minds
+The education minister's remarks come amid the NEET UG row, where the opposition has called for the BJP leader's resignation over the alleged paper leak.
 
-## ‘Which document proves citizenship?’: Opposition slams MEA's passport remark, calls it ‘absurd’
-While some pointed out that passports could only be issued to Indian citizens, others jibed at the BJP-led NDA government at the Centre.
+## NCERT Class 9 social science textbook features Emergency; sparks war of words
+The new Class 9 textbook notes that democratic institutions “came under severe strain, and citizens’ freedom was restricted” during the Emergency
 
-## 'Stood far away': Big claims made by Chetan Chaudhary's family in Pune trek murder case
-Babulal Chaudhary, Chetan's father, has refuted the allegations against his son and told HT that his son was being framed in the case.
+## SC allows Jacqueline Fernandez to withdraw plea in ₹200-crore PMLA case
+Accepting the submission, the bench permitted the withdrawal and clarified that Fernandez would be free to avail any remedies available under law.
 
-## T’gana Cong leaders told to be on alert against SIR voter deletions
-Telangana Congress leaders are urged to ensure no eligible voters are deleted during the electoral roll revision, emphasizing vigilance and accountability.
+## Siya Goyal didn't elope for fear of 'family shame', Chetan tells police what led to murder plot
+“Siya was not in favour of calling off the engagement, as she thought doing so would bring disrespect to her family,” Chetan allegedly told police.
 
-## SIT confirms missing AP man’s death in custody
-An SIT probe reveals that Gade Sai Krishna, 25, died in police custody after alleged illegal detention; footage is missing, and evidence suggests suppression.
+## ‘Papa, I’m leaving’: Delhi woman dies by suicide, alleges harassment, husband's ‘instability’ in video note
+While no suicide note was recovered from the spot, the cops came across a three-minute video clip on the woman's mobile phone.
 
-## ED searches properties of official linked to Karnataka minister
-The ED searched properties linked to Karnataka excise official Y Manjunath, investigating suspicious foreign transactions and benami assets.
+## 'Wanted to call off wedding, Ketan refused': What Pune murder accused Siya Goyal told cops
+Ketan Agarwal was with Siya Goyal at Pune's Lohagad Fort trek, when she allegedly pushed him off a cliff.
 
-## Not Alia Bhatt’s fault that she is the daughter of industry insiders, says mom Soni Razdan
-
-
-## ‘Salman Khan would take off his shirt if he forgot dance steps,’ recalls Vindu Dara Singh
+## Amid fatigue in government and party, can PM Modi execute a ‘Kamaraj Plan’ in the BJP?
 
 
-## NCERT introduces section on Emergency in Class 9 textbook, mentions Indira Gandhi
+## Delhi bureaucracy rejig: Ministers’ aides, senior health officials among 50 transferred
 
 
-## India News LIVE Updates, 25 June 2026: Venezuela Declares Emergency After Back-To-Back Earthquakes, NIA Says Pahalgam Plot Was In Motion Week Before Attack, UPSC Rejects 569 Applications
+## ‘100%’ on front label, disclaimers on the back: Why CCPA fined two major brands
 
 
-## China Takes Supercomputer Crown From U.S. for First Time Since 2017
+## Retired man faces 3-year pension cut over ‘misconduct’, wins it back in court
 
 
-## Kolkata warehouse collapse: Structural engineer among 5 arrested, SIT formed
+## Karnataka tourist swept away by Goa waves; Baga Beach tragedy goes viral
 
 
-## Cricketer Axar Patel shares morning staple: ‘Whether I have breakfast or not’
+## Mumbai shop owner booked for selling Pakistani beauty cream despite import ban
 
 
-## Avengers Endgame set for re-release ahead of Doomsday with new footage
+## He was sentenced to life in a murder case: 43 years later, Delhi man walks free
 
+
+## 10-year delay in filing adoption papers costs woman compassionate appointment job
+
+
+## Hang Seng Index briefly slips below 23,000 as Alibaba leads tech sell-off
+Hong Kong stocks fell, briefly driving the benchmark below the 23,000-point mark for the first time in a year, as technology companies led the decline. The Hang Seng Index slid by as much as 1.8 per cent to 22,992.62. If the decline is sustained, the benchmark would close below the threshold of 23,0
+
+## Chinese PCB equipment maker CFMEE tops 1,000-times oversubscription in Hong Kong IPO
+Circuit Fabology Microelectronics Equipment (CFMEE), a Chinese lithography and integrated-circuit manufacturer, has seen massive oversubscription in Hong Kong, as investors aggressively chase high-growth technology themes. The company, based in Hefei, Anhui province, is scheduled to debut on Friday 
+
+## Is EV battery technology nearing an inflection point? CATL boss expresses doubts
+Robin Zeng Yuqun, head of the world’s largest electric vehicle (EV) battery maker, has played down expectations for the much-hyped solid-state battery technology, predicting an inflection point would not take place until 2030. The founder and chairman of Contemporary Amperex Technology Ltd (CATL) al
+
+## Major Chinese banks suspend individual trading on Shanghai Gold Exchange amid volatility
+Chinese banks are accelerating efforts to scale back retail trading of precious metals, with the price of gold below US$4,000 an ounce for the first time since November, highlighting growing volatility in a market that has lost nearly 30 per cent of its value since peaking earlier this year. Industr
 
 ## Can Hong Kong keep its financial crown?
 
@@ -143,18 +158,6 @@ Artificial intelligence (AI) has become the latest version of the corporate arms
 
 ## Southbound Stock Connect flows surge to record US$152b driven by Hong Kong’s IPO revival
 Southbound Stock Connect flows, through which mainland Chinese investors buy Hong Kong listed shares, hit a record high in the past year, reflecting strong confidence in the city’s market on the back of a booming pipeline of initial public offerings (IPO). In the 12 months to March this year, mainla
-
-## China’s JCET to build new plant in Shanghai to expand advanced chip packaging
-Chinese chip-packaging and testing giant Jiangsu Changjiang Electronics Technology (JCET) says it will invest 7.8 billion yuan (US$1.15 billion) to build a new plant, as demand for home-grown chips continues to surge amid the rapid development of artificial intelligence. A controlled subsidiary with
-
-## Hong Kong prime office vacancy hits 7-month low on Central spillover demand
-Hong Kong’s overall prime office vacancy rate fell to a seven-month low in May, driven by spillover demand from Central, where premium offices were close to full occupancy, according to JLL. With Central’s grade A office vacancy rate holding steady at 9.2 per cent, tenants appeared to have found the
-
-## Denmark must pay telecoms firm US$12m for Huawei equipment removal: court
-A Danish court has ordered the state to pay 80 million Danish kroner (US$12 million) in compensation to TDC NET, the country’s largest digital-infrastructure operator, after authorities forced it to strip Huawei equipment from its fibre network. The Eastern High Court in Copenhagen ruled on Wednesda
-
-## China closes another offshore investing loophole as TRS faces restrictions
-Chinese regulators have tightened one of the remaining channels for gaining exposure to overseas assets through derivatives, the latest sign that authorities are continuing efforts to close regulatory loopholes and curb domestic investors’ access to higher-risk offshore markets. Rather than launchin
 
 ## This Industrial Revolution Is Not Like the Last One
 Policymakers’ approach to automation won’t work for AI.
@@ -180,6 +183,21 @@ With economic and security interests split between great powers, the region is b
 ## What Is Iran’s Nuclear Status Quo?
 Before diplomacy can move forward, U.S. negotiators face the daunting task of reestablishing a baseline.
 
+## US Government Imposes Fresh Sanctions Against Alleged Cambodian Scam Network
+The Treasury Department has designated nine people and 26 ‌entities linked to Prince Holding Group, which it has described as a "transnational criminal organization."
+
+## A Peacemaker Tries to Defuse Tribal Nastiness of the Thai-Cambodian Border Conflict
+Hyper-nationalistic rhetoric is complicating the resolution of the ongoing border dispute, but ending it is not an easy task.
+
+## How the Russia-Ukraine War Rewired Southeast Asia’s Arms Trade
+The war did what years of Western pressure could not, effectively removing Russia as a viable arms supplier to Southeast Asia.
+
+## MSCI Extends Review on Indonesia ‘Emerging Market’ Status Review
+The reprieve led to a brief rally on the Indonesian stock market, but the longer-term outlook is less certain.
+
+## A Taiwan Crisis and America’s Industrial Base
+The cost of offshoring would be laid bare in a crisis.
+
 ## 2 State-owned Banks in Kyrgyzstan Drop 131 Clients Due to Sanctions Risks
 While the companies haven’t been named, what’s clear is that Bishkek wants to be seen making an effort to address the EU’s sanctions circumvention concerns.
 
@@ -189,20 +207,29 @@ Insights from Akhil Ramesh.
 ## Beyond a Viral Video, What Did Bangladesh’s PM Accomplish in Malaysia?
 A Malaysian video attracted attention to the trip and its geopolitical significance.
 
-## China Reopens a Business Channel to Japan While Political Ties Remain Frozen
-A Japanese trade group’s Beijing visit, led by an LDP MP, signals a possible thaw in China-Japan relations.
+## The U.S. Navy’s Subsea Rare Earth Vulnerability
+The Columbia-class ballistic missile submarine is the next generation of American nuclear deterrence. Twelve of these boats will replace the aging Ohio-class fleet, entering service over the 2030s and 2040s, each carrying 16 Trident IIs and driven by a ghost-quiet electric motor that renders them ac
 
-## How the Iran War Disrupted ASEAN’s Energy Transition
-The conflict did not derail the transition but exposed how vulnerable it remains to external disruption – and how quickly governments can fall back on fossil fuels.
+## The Importance of the Battle of the Little Bighorn
+On June 25, 1876, Lt. Col. George Armstrong Custer and an entire battalion of the 7th Cavalry Regiment rode to their deaths and into American legend on the ridges north of Montana’s Little Bighorn River. The battle was decided in a few hours. Its meaning remains contested 150 years later.Little Bigh
 
-## Anthropic’s Export Control Crackdown Leaves South Korea Caught in Washington’s AI Crossfire
-The suspension of Anthropic’s most advanced AI model has exposed how Silicon Valley lobbying shapes U.S. export policy at the expense of allied economies.
+## Nuclear Stability in the Age of AI
+In 2024, Paul Scharre and Michael Depp wrote, “Artificial Intelligence and Nuclear Stability,” where they argued integrating artificial intelligence into the nuclear chain of command presents both opportunities and risks. Two years later, as AI becomes increasingly integrated into military systems a
 
-## Risk Sharing Crosses Central Asian Borders: EBRD Deal Links a Kyrgyz Bank and an Uzbek Gym Chain
-A bank lending a business money is hardly cause for a headline. But this is no ordinary loan.
+## Designing Drones for Africa
+This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and chief engineer of Terra Industries, an African defense technology company building autonomous drone and counter-drone systems designed for the continent’s operating conditions. As cheap imported airframes flood African m
 
-## The Future of BRICS After the Iran War
-Carlos Frederico Pereira da Silva Gama and host Tushar Shetty discuss the priorities and divergences of India’s BRICS presidency ahead of the September leaders’ summit.
+## AI Agents and the Unseen Work of War
+Armies run on more than what happens at the front. Behind every operation is a vast amount of coordination, administration, logistics, and judgment. Bill Pessin, senior vice president of national security at Salesforce and a former U.S. Army logistics officer, joins Jonathan to discuss how military 
+
+## From Vietnam to Iran: Wartime Diplomacy and Secret Deals
+Wars rarely end in a single act of diplomacy. More often, they pass through a succession of ceasefires, frameworks, understandings, as well as provisional and even secret arrangements before anyone can determine whether peace is actually at hand. The Trump administration’s memorandum with Iran is be
+
+## Adapting to Uncertainty in the Strait of Hormuz
+Iran’s threats to shipping through the Strait of Hormuz — in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 — effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased restrictions, and s
+
+## A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy
+In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always existed. Where today we have a National Security Strategy paired with a military strategy and Plan for
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -228,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Thousands feared dead as twin earthquakes cause devastation across Venezuel
-Thousands feared dead as twin earthquakes cause devastation across Venezuela.
+## South Africa celebrates reaching World Cup knockout stage for first time
+South Africa’s team has celebrated reaching the World Cup knockout stage for the first time after defeating South Korea.
 
-## Mexico triumph 3-0 to eliminate Czechia and win all three World Cup matches
-Mateo Chavez opened the scoring in the 55th minute, and Julian Quinones scored his second goal of the tournament in the 61st.
+## ICC judges sue Trump over sanctions, call measures unlawful
+Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.
 
-## Iranians mark first Ashura since Khamenei’s killing in the US-Iran war
-Thousands gathered in Tehran on the eve of Ashura, the first since the killing of Iranian supreme leader Ali Khamenei.
+## ‘We hugged each other and ran’: Venezuelans recount earthquake horror
+Survivors describe panic and collapsing buildings during two strong quakes as thousands of people feared dead.
 
-## Migrants left to endure deadly Paris heat with little shelter or aid
-Hundreds of migrants in Paris are left exposed as a heatwave sweeps Europe.
+## In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy
+Historic World Cup match wins for Egypt, Morocco and Algeria bring together fans from the Middle Eastern diaspora.
 
-## South Africa stun South Korea to reach World Cup knockouts for the first time
-Bafana Bafana, playing in the tournament for the first time since they hosted it in 2010, have reached the round of 32.
+## Rescuers pull survivors from rubble after Venezuela earthquakes
+A major search-and-rescue effort is underway in Venezuela after two earthquakes levelled buildings and left many trapped
 
-## Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit
-NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month's NATO summit.
+## Kenya passes controversial bill two years after deadly Gen Z protests
+Kenya passes controversial bill two years after deadly Gen Z protests
 
-## Russian opposition leader jailed over anti-war social media posts
-Russian opposition leader jailed over anti-war social media posts.
+## Ethiopia is not being ‘dragged into war’
+A response to Redwan Hussein and Getachew Reda’s misleading opinion article.
 
-## Venezuela earthquakes live: Tremors of 7.5, 7.2 collapse Caracas buildings
-A magnitude 7.2 earthquake hit Venezuela near city of Moron, followed by a stronger magnitude 7.5 quake in same area.
+## Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know
+Rescue efforts under way as Venezuela declares a state of emergency after powerful twin quakes cause widespread damage.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
@@ -276,6 +303,9 @@ India's Big Four accounting firms have achieved remarkable growth, outperforming
 ## Parliament panel to review India's economy amid global turmoil and growth concerns
 A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
 
+## RBI to raise large exposure limit for upper layer NBFC-IFCs to 45% from 35% of eligible capital base
+The Reserve Bank of India has boosted lending limits for top infrastructure finance firms, allowing them to extend up to 45% of their capital to connected borrowers, a significant increase from 35%. This move aims to support the crucial infrastructure sector.
+
 ## RBI eases forex exposure rules, giving banks more room to trade
 The Reserve Bank of India has updated foreign exchange exposure rules for banks. These changes simplify calculations by merging onshore and offshore positions and allow inclusion of overseas earnings. Crucially, banks can now exclude certain long-term foreign currency investments, potentially boosti
 
@@ -293,7 +323,4 @@ India faces significant economic risks from the West Asia conflict, including po
 
 ## RBI removes rate caps on select NRE, FCNR(B) deposits to attract foreign currency inflows
 The Reserve Bank of India is easing rules for foreign currency deposits. Interest rate caps on FCNR(B) deposits for three to five years are temporarily lifted. Restrictions on interest rates for NRE deposits of three years and above are also removed. These changes aim to attract more foreign currenc
-
-## RBI allows banks to offer higher interest on NRI deposits to draw more foreign funds
-The Reserve Bank of India (RBI) on Wednesday temporarily eased interest rate curbs on certain non-resident deposits to enable banks to offer higher returns on fresh FCNR(B) and NRE deposits with the aim of attracting more overseas funds to prop up the country's foreign exchange reserves and strength
 
