@@ -1,58 +1,73 @@
 # AION Intelligence
 
-## Global tech stocks rebound after Micron’s profit surge
-US chipmaker’s bumper quarterly results calm investor fears following market sell-off this week
+## Oil price back at prewar levels as Gulf flows pick up
+Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted
 
-## Jamie Dimon promotes two potential successors at JPMorgan
+## Bayer wins crucial US Supreme Court ruling over Roundup weedkiller
+Justices overturn verdict that became basis for billions of dollars in claims over warnings of alleged cancer risk
+
+## Andy Burnham’s 1990s football team: ‘Demon Eyes’
+From the archive: future Labour politicians, including the presumptive prime minister, played for this north London side
+
+## Trump’s Iran deal is better than ongoing war
+The president has made many errors in his policy towards Tehran, but signing the MOU isn’t one of them
+
+## RH, the $3bn furniture brand, has moved into Mayfair
+As part of a global rollout, the US homeware behemoth now resides at a lavish London address
+
+## Micron shares jump as blockbuster results spark Wall Street tech shake-up
+Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
+
+## Red alerts across UK and Europe as heatwave takes a grip
+‘London is cooking’, says UN secretary-general, as temperatures reach a new record for June
+
+## Dimon promotes two potential successors at JPMorgan
 Marianne Lake leaves bank as Doug Petno and Troy Rohrbaugh handed two of its largest divisions
 
-## The ever weirder world of venture capital
-Why the Power Law remains a guiding principle of the high-risk, high-reward VC game
+## Iran tells ships in Strait of Hormuz to turn back
+At least four vessels change course as Tehran challenges International Maritime Organization’s evacuation route
 
-## Trump faces off with angry Republican caucus
-Also in today’s newsletter, socialist mayor Zohran Mamdani remakes New York City politics in his image
+## Vale shareholders head to vote after board rejects push to oust chair
+Corporate governance battle at world’s largest iron ore miner revives fears of political meddling
 
-## What bond markets want from Burnham
-A credible strategy would focus on reducing the deficit over the next two years
+## Iraq pushes Opec to let it pump more oil
+Baghdad’s crude sales were drastically reduced when US-Iran war blocked exports via Strait of Hormuz
 
-## Apple increases MacBook and iPad prices by 20%
-iPhone maker blamed cost rises on memory chip shortages caused by AI boom
+## Ryanair scraps family seating fees after regulator launches probe
+Budget carrier says families can now opt for random allocation of free seats beside each other
 
-## France warns against weaker climate targets for cars as EV sales surge
-Minister says watering down European engine rules would send ‘terrible signal’ after Hormuz energy crisis
+## APEDA facilitates first biscuit export from Varanasi to Oman
+Inaugural shipment comprises 40 tonnes of biscuits manufactured by Shree Tirupati Balajee Industries, a Varanasi-based exporter
 
-## Hospitals cancel operations because of lack of air conditioning
-Record June temperatures put up to 4,000 surgeries at risk
+## Building skills, innovation hold the key to India’s $500 billion electronic industry target by 2030
+Experts pointed out that India’s electronics ecosystem is still heavily dependent on imported components
 
-## Untethered Goose Game
-Just SoftBank doing SoftBank things
+## Waterways Leisure IPO sails through on last-minute QIB entry
+The retail investor portion led demand, subscribing 3.63 times to the issue, the non-institutional investor segment was subscribed 0.86 times, while the qualified institutional buyers portion was subscribed 0.20 times
 
-## Flagship Ares private credit fund hit by 14% withdrawal requests
-Firm caps redemptions as retail investor exodus accelerates across the industry
+## MSMEs must lead India’s innovation push to achieve Viksit Bharat goal, say industry leaders
+Experts call for stronger design capabilities, skilling and AI-led productivity across MSMEs nationwide
 
-## HDFC Mid Cap Fund asset crosses ₹1 lakh cr in 19 years
-The scheme has generated a return of 17 per cent CAGR since inception, outperforming its benchmark return of 15%
+## Jupiter International expands solar cell manufacturing capacity at Himachal Pradesh unit for ₹550 cr
+Jupiter International inaugurates its Unit IV at its Baddi manufacturing campus, adding 1.25 GW of TOPCon solar cell manufacturing capacity
 
-## Sathya Agencies receives SEBI approval for ₹600 crore IPO
-The proposed IPO comprises a fresh issue of equity shares aggregating up to ₹300 crore and an Offer for Sale (OFS) of equity shares worth ₹300 crore by the promoter group
+## Indriya sharpens focus on diamonds, aims to be among top three jewellery brands
+The jewellery brand also introduced, SparkleScope, an innovative in-store technology that enables customers to evaluate a diamond’s sparkle
 
-## Don’t hold important meetings day before/after holiday: Cabinet Secretariat’s advisory to officials
-The advisory, titled ‘Conducting Effective Meeting’, has been prepared by the Cabinet Secretariat with support from the National Centre for Good Governance
+## India convinces US to wait on trade pact amid tariff flux
+Goyal asserts there can be no interim deal till India gets competitive advantage over rival countries
 
-## Move beyond ‘Made in India’ to ‘designed in India’: Karnataka Minister
-Sharan Prakash Patil, Karnataka’s Minister for Medical Education and Skill Development, calls for an aggressive push towards AI-led skilling
+## Fiscal challenge for West Bengal govt will be to raise tax buoyancy, says SBI Research
+Presenting the first state budget of the new BJP government in West Bengal, Finance Minister Swapan Dasgupta on Monday tabled the budget of over ₹4.38 lakh crore for the financial year 2026-27
 
-## New criteria for identification of NBFC-UL: Ball now in RBI court whether Tata Sons stays private or gets listed
-RBI had revised NBFC-upper layer criteria, fixed ₹1 lakh crore asset threshold
+## From Amazon, ABB to Google, AirTrunk & more: Global giants commit billions of dollars to India
+Large US technology companies have collectively committed billions of dollars to India, highlighting the country's growing importance as a key destination for cloud computing, artificial intelligence and deep-tech investments.
 
-## India to begin 2% isobutanol-diesel trials to kickstart diesel biofuel push
-Diesel, India’s largest transport fuel, accounts for nearly twice the country’s petrol consumption, making the proposed programme significantly larger than the E20 initiativeThe government-backed initiativerials involve Tata Motors, HPCL, ARAI, Praj Industries, and mark India’s first serious move to
+## US stock markets today: Dow rises as Micron jumps on AI outlook, Apple slides after price hikes
+Indian markets saw a mixed trading session on Thursday, with AI chipmakers like Micron Technology leading gains, while Apple faced pressure due to product price hikes. Easing Treasury yields and moderating oil prices offered some support. Asian markets largely advanced, with South Korea's Kospi and 
 
-## Broker’s Call: Phoenix Mills (Buy)
-SBI Securities
-
-## Bangladesh clearing dues, confident of resolving arbitration issues over Godda project: Adani Power
-Sardana said the issues currently under arbitration relate only to specific aspects of imported fuel pricing and benchmark indices and do not affect the broader power supply arrangement.
+## Gold price crash explained: Why are gold rates falling and when will yellow metal recover?
+In January 2026, gold prices hit $5595 - a life-time high - they are now trading at below $4,000. The prices are down 7.6% year-to-date. On the MCX, the decline has been lesser - at around 22% - largely due to a hike in import duties.
 
 ## US inflation climbs above 4% for first time in three years as consumer spending stays resilient
 US inflation surged past 4% in May, primarily due to escalating energy costs linked to Middle East tensions. Despite rising living expenses, consumer spending showed resilience, buoyed by tax refunds and stock market gains. While economists anticipate persistent inflationary pressures, the Federal R
@@ -69,61 +84,52 @@ EPFO 3.0 aims to deliver quicker automated claim settlements, instant withdrawal
 ## $1.5 billion-crypto connection: How North Korean heist ended in Iran's central bank
 A massive crypto heist, initially linked to North Korea, has unraveled a complex financial web connecting to Iran's central bank. Investigators discovered stolen funds moving through wallets associated with Iran's central bank before reaching CoinEx, a key exchange facilitating Iranian crypto users.
 
-## Strait of Hormuz reopens: Middle East oil exports to climb to 4-month high
-The Strait of Hormuz is reopening, paving the way for Middle Eastern fuel oil exports to reach a four-month high in June. Iraq and Saudi Arabia are leading this surge, with Iraq notably diversifying routes through Syria. While shipments are increasing, they remain below pre-war levels, and cautious 
+## 7 golden langurs rescued from traffickers released into wild: Assam forest minister
+The endangered primates were rescued from an alleged interstate wildlife trafficking network busted by Assam Police in Chirang district.
 
-## Middle East fuel oil exports hit four-month high as Hormuz shipping gradually recovers
-Middle Eastern fuel oil exports are poised for a significant rebound in June, reaching a four-month peak. This surge is attributed to Iraq and Saudi Arabia rerouting supplies via alternative ports, coupled with a gradual resumption of shipments through the Strait of Hormuz following a US-Iran interi
+## 'Bhagwant Mann's silicon mask used': AAP bombshell amid Sikh Gurus clip row; video emerges
+Bhagwant Mann and AAP have maintained that the man seen in the alleged video disrespecting the Sikh Gurus is not the Punjab CM.
 
-## Beyond oil tanks: Strategic pricing reserves, the new mantra for India’s energy security
-From a storage perspective, India should enhance its SPR capacities from 17 to 45 days on land with the possibility of having another 10-15 days of SPR on sea on tankers. Incidentally, the International Energy Agency recommends a SPR of 90 days.
+## Global CEOs are lining up to write cheques for India, Amazon its latest example
+The e-commerce giant on June 25 announced that it would raise its India investment commitment to $48 billion by 2030.
 
-## India gives new Bangladesh envoy Dinesh Trivedi cabinet minister status
-The move signals New Delhi’s focus on rebuilding relations with Bangladesh amid efforts to normalise ties after recent diplomatic strains.
+## Passport fee hiked for both fresh and re-issued documents, check new rates
+The fee for obtaining a Police Clearance Certificate (PCC) has also been increased. Applicants will now have to pay ₹750 instead of the current ₹500.
 
-## Bangladesh calls India's explanation over adviser being stopped at Delhi airport 'unsatisfactory'
-Zahed Ur Rahman, an adviser to Bangladesh Prime Minister on policy and strategy, was stopped by immigration authorities at New Delhi airport on June 14.
+## What caused Air India, IndiGo planes to come face to face at Ahmedabad airport?
+Air India, in a statement, said its flight inadvertently took a wrong turn during taxiing, adding there was no compromise on the safety of passengers and crew.
 
-## ‘Will beat you’: Sena (UBT) rebel MP loses cool, threatens reporter over question
-Sanjay Dina Patil’s fresh outburst came hours after Shiv Sena (UBT) leader Sanjay Raut released a letter that he had written to Mumbai police commissioner
+## FIR filed amid Ayodhya Ram Mandir ‘donation theft’ claims, ‘strict’ recommendations made
+The FIR comes amid an ongoing probe by the Special Investigation Team into the alleged donation theft at the Ram Mandir in Ayodhya.
 
-## Cafe meet, 2,000 calls, suitable spot: How Siya plotted fiance's murder with boyfriend's help
-On the day of the incident, Siya Goyal and Chetan Chaudhary allegedly met at a cafe and reportedly discussed the plan to kill Agarwal.
+## Who is Chetan Chaudhary? The ‘boyfriend’ whose hoodie uncovered Pune businessman's murder plot
+The police has said that when Ketan Agarwal went to Lohagad Fort in Lonavala with Siya Goyal on June 18, Chetan Chaudhary had reached the site before the two.
 
-## Amid citizenship proof debate, here's how India's passport fares globally
-After slipping to 85th in 2025, India climbed to 75th in the latest rankings, marking a 10-place jump within a year.
+## Gujarat HC quashes wrong charges in GPSC exam cheating case, lets probe continue
+The authorities booked the two bothers in 2018 under Section 188 of the Indian Penal Code and Section 66-E of the Information Technology Act.
 
-## ‘You’d win a million votes in Delhi’: Italy's Giorgia Meloni recalls 2023 India trip, says posters of her lined streets
-A book called ‘Giorgia’s Vision’ features written accounts of Italy PM Giorgia Meloni's conversations with a journalist.
-
-## ‘If not from BJP, not Indian’: Opposition corners govt over passport-citizenship remark
-Clyde Crasto said citizens may soon be told that “if you become a member of the BJP, you prove yourself to be a citizen of India.”
-
-## Raghav Chadha seeks FIR against Bhagwant Mann as Sikh Gurus video row escalates: 'AAP fabricated forensic report'
-Raghav Chadha, who was a member of the AAP till about two months ago, claimed that the Sikh community was “angry and hurt”.
-
-## New vehicle crashes on purchase day, dealer to pay Rs 3 lakh over ‘unregistered’ status
+## Dharman makers drop poof after fans slam Rajinikanth’s ‘Deadly Doctor’ poster, watch
 
 
-## Arjun Kapoor’s message for Anshula before her wedding reflects feeling many siblings share
+## Thapelo Maseko: truck driver’s son who drove South Africa to the knockouts
 
 
-## Gurgaon garbage fee has residents fuming. Now, civic body makes ‘U-turn’
+## Venezuela earthquake: Video shows miracle rescue of 3 children from rubble
 
 
-## Vishnu Vishal opens up about his autoimmune condition ahead of Gatta Kusthi 2
+## Hingoli boy dies by suicide, family say he was depressed after NEET-UG cancellation
 
 
-## World Cup 2026: Who will Brazil face in Round of 32? Netherlands, Japan, or Sweden?
+## ‘Who will take responsibility for so many broken dreams?’: Amid NEET row, Congress announces 40-day nationwide campaign
 
 
-## Why passport is not proof of citizenship, and what purpose it actually serves
+## Style on the touchline: how World Cup managers are dressing in 2026
 
 
-## Woman sold her wedding jewellery to build a collection of Hermes bags; know why
+## Six nabbed from Delhi, Jharkhand for running ‘apk scam’; 93 cases in city
 
 
-## Navi Mumbai airport to launch international flights from July 15 with Abu Dhabi service
+## ED launches probe into Rs 350 crore medical procurement fraud case
 
 
 ## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
@@ -150,6 +156,9 @@ Robin Zeng Yuqun, head of the world’s largest electric vehicle (EV) battery ma
 ## Major Chinese banks suspend individual trading on Shanghai Gold Exchange amid volatility
 Chinese banks are accelerating efforts to scale back retail trading of precious metals, with the price of gold below US$4,000 an ounce for the first time since November, highlighting growing volatility in a market that has lost nearly 30 per cent of its value since peaking earlier this year. Industr
 
+## The Quest for Nuclear Superiority Makes No Sense
+The best way for governments to save money is to stop wasting it on completely unnecessary weapons.
+
 ## This Industrial Revolution Is Not Like the Last One
 Policymakers’ approach to automation won’t work for AI.
 
@@ -171,32 +180,29 @@ Vice President J.D. Vance isn’t the only one being trotted out to sell an unpo
 ## The Middle East’s Great Divergence Is Underway
 With economic and security interests split between great powers, the region is beginning to consider a third path.
 
-## What Is Iran’s Nuclear Status Quo?
-Before diplomacy can move forward, U.S. negotiators face the daunting task of reestablishing a baseline.
+## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
+Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
 
-## US Government Imposes Fresh Sanctions Against Alleged Cambodian Scam Network
-The Treasury Department has designated nine people and 26 ‌entities linked to Prince Holding Group, which it has described as a "transnational criminal organization."
+## Australia’s Emerging Role in Climate-Tech Governance
+Melbourne has joined the Global Urban Data Centers Pact, to tackle the nexus between new technologies and climate change.
 
-## A Peacemaker Tries to Defuse Tribal Nastiness of the Thai-Cambodian Border Conflict
-Hyper-nationalistic rhetoric is complicating the resolution of the ongoing border dispute, but ending it is not an easy task.
+## The Deepening of Australia-Indonesia Ties Yields Dividends With Fertilizer Shipment
+Tonnes of fertilizer are being unloaded in Brisbane for Australian farmers. It’s not a one-off deal but the product of consistent fertilizing of the relationship between Canberra and Jakarta.
 
-## How the Russia-Ukraine War Rewired Southeast Asia’s Arms Trade
-The war did what years of Western pressure could not, effectively removing Russia as a viable arms supplier to Southeast Asia.
+## Vietnam’s National Champions
+Risks and opportunities for foreign investors
 
-## MSCI Extends Review on Indonesia ‘Emerging Market’ Status Review
-The reprieve led to a brief rally on the Indonesian stock market, but the longer-term outlook is less certain.
+## Building a Battery Champion: What CATL and Dongqiao Reveal About China’s Industrial Model
+China’s dominant role in electric vehicle batteries owes much to local government policy.
 
-## A Taiwan Crisis and America’s Industrial Base
-The cost of offshoring would be laid bare in a crisis.
+## Putin and Anwar’s US Dollar Swap Deal
+Russia's assurance that it will maintain a long-term supply of oil and gas to Malaysia looks like a veiled effort to keep Putin's government stocked with U.S. dollars.
 
-## 2 State-owned Banks in Kyrgyzstan Drop 131 Clients Due to Sanctions Risks
-While the companies haven’t been named, what’s clear is that Bishkek wants to be seen making an effort to address the EU’s sanctions circumvention concerns.
+## Free Theary Seng: The US Should Not Forget About Cambodia’s Political Prisoners
+The 55-year-old civil society activist and dual Cambodian-U.S. citizen has been locked up on spurious charges since 2022. She is just one of many.
 
-## Pax Silica and Indo-Pacific Partners
-Insights from Akhil Ramesh.
-
-## Beyond a Viral Video, What Did Bangladesh’s PM Accomplish in Malaysia?
-A Malaysian video attracted attention to the trip and its geopolitical significance.
+## How New Delhi’s Policy on Ceasefires With Rebel Groups in the Northeast Contributed to Manipur’s Crisis
+Abrogation of the ceasefires in Manipur may not be an option for the government as it could spark greater violence.
 
 ## The U.S. Navy’s Subsea Rare Earth Vulnerability
 The Columbia-class ballistic missile submarine is the next generation of American nuclear deterrence. Twelve of these boats will replace the aging Ohio-class fleet, entering service over the 2030s and 2040s, each carrying 16 Trident IIs and driven by a ghost-quiet electric motor that renders them ac
@@ -246,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Venezuela quakes: How will sanctions impact aid operations?
-Financial sanctions are known to limit the flow of aid, but political influence is also a concern amid the devastation.
+## They fled war as child refugees, now they’re playing at World Cup 2026
+In a World Cup for everyone, as it has been dubbed by FIFA, players carry historic stories of war and displacement.
 
-## ‘We did regain control’: The Brexit voters with no regrets 10 years on
-The UK may have squandered the freedoms it won, but leaving the EU was the right decision, say pro-Brexit Britons.
+## Israel kills three in Lebanon as Rubio praises progress in Washington talks
+Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.
 
-## US push for unified Libyan government tests Tripoli factions
-A US-backed initiative aiming to unify Libya's divided institutions tests political loyalties in the country's west.
+## Lebanon Latest: Peace talks between Lebanon and Israel, people return south
+Al Jazeera’s Robert McBride brings you the latest from Beirut as people return to the south of Lebanon.
 
-## Why Britain devours its prime ministers
-Weak leaders are only part of the story. Restless MPs and volatile voters have made Downing Street harder to survive.
+## Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?
+NATO boss tries to convince Trump that European allies were there for the US during war on Iran.
 
-## Israeli forces kill Palestinian man during raid on his home
-Israeli forces kill Palestinian man during raid on his home
+## IRGC warns against new Hormuz route for ships: What we know
+Experts say disagreements over shipping routes and transit fees could complicate efforts to reach a permanent agreement.
 
-## How minesweeping in the Strait of Hormuz works: A visual guide
-Clearing mines is a slow, high-risk operation that involves finding and destroying them using specialised techniques.
+## Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods
+The denial contradicts the US administration, which said unfrozen funds will be spent on produce from American farmers.
 
-## Watch World Cup Day 14: South Africa advance, with Morocco, Mexico, Brazil
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## UK’s hottest June: ‘The population should have been prepared for this’
+Schools are closing, public transport is slowing and cooling items are flying off shelves as Britons swelter.
 
-## Rubio issues Hormuz toll warning as he wraps up Gulf visit
-Rubio's Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.
+## Deconfliction and disarmament: Can both be pursued in Lebanon?
+New deconfliction mechanism seeks to prevent return to all-out war in Lebanon and in the region.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
