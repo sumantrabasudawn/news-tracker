@@ -1,58 +1,61 @@
 # AION Intelligence
 
-## Hospitals cancel operations because of lack of air conditioning
-Record June temperatures put up to 4,000 surgeries at risk
-
-## Takaichi sets out Japan’s largest-ever investment roadmap
-$2.3tn plan combining public and private funds over 14 years implies fiscal expansion by heavily indebted government
-
-## German drugmaker Merck to buy Bio-Techne in $11.3bn deal
-Acquisition of US medical tools maker will be German group’s biggest in over a decade
-
-## How much compute does the world really need?
-Scale cannot solve AI’s fundamental problem with accuracy
-
-## FirstFT: Oil price returns to prewar level
-Also in today’s newsletter, deadly earthquakes strike Venezuela and Meta to replace human moderation with LLMs
-
-## Cheat sheet for an EU financial geopolitics plan
-How to become an autonomous global power in monetary matters
-
-## EasyJet in talks with Castlelake after rejecting £4.9bn takeover offer
-Budget airline turned down offer that US private credit group submitted on Tuesday
-
 ## Global tech stocks rebound after Micron’s profit surge
 US chipmaker’s bumper quarterly results calm investor fears following market sell-off this week
 
-## Senate Democrats investigate Trump family-linked group over Venezuela business push
-Special purpose vehicle set up by Yorkville Advisors comes under scrutiny for close links to the president’s family
+## Jamie Dimon promotes two potential successors at JPMorgan
+Marianne Lake leaves bank as Doug Petno and Troy Rohrbaugh handed two of its largest divisions
 
-## Qualcomm vs Nvidia and drones vs dogs
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## The ever weirder world of venture capital
+Why the Power Law remains a guiding principle of the high-risk, high-reward VC game
 
-## Coconut oil, copra prices slide sharply as arrivals improve
-Coconut oil is currently trading ruling at around ₹227 per kg in the Kerala market, and copra at ₹131 per kg
+## Trump faces off with angry Republican caucus
+Also in today’s newsletter, socialist mayor Zohran Mamdani remakes New York City politics in his image
 
-## TVS Motor rolls out one-millionth iQube electric scooter from Hosur plant
-The company said the achievement was supported by its expanding sales and service network across the country.
+## What bond markets want from Burnham
+A credible strategy would focus on reducing the deficit over the next two years
 
-## Ernakulam KVK moots promotion of sugarcane cultivation for pure jaggery
-According to the document, scientific sugarcane cultivation linked with micro-processing units can ensure adulteration free jaggery, boost farmers’ income, create new employment opportunities, and foster entrepreneurship.
+## Apple increases MacBook and iPad prices by 20%
+iPhone maker blamed cost rises on memory chip shortages caused by AI boom
 
-## Tamil Nadu opposes Centre’s proposed 3% stake sale in NLC India, CM writes to PM
-NLC India’s strategic role in power generation and mineral development has prompted Tamil Nadu to seek reconsideration of the Centre’s proposed disinvestment move.
+## France warns against weaker climate targets for cars as EV sales surge
+Minister says watering down European engine rules would send ‘terrible signal’ after Hormuz energy crisis
 
-## Govt mandates QR codes for vaccines, antimicrobials, narcotic and cancer Drugs
-The move is aimed at improving traceability and curbing counterfeit drugs
+## Hospitals cancel operations because of lack of air conditioning
+Record June temperatures put up to 4,000 surgeries at risk
 
-## India begins 2% isobutanol-diesel trials to jumpstart diesel biofuel push
-Trials involve Tata Motors, HPCL, ARAI, Praj Industries, and mark India’s first serious move towards a diesel biofuel programme after earlier ethanol-diesel blending experiments failed
+## Untethered Goose Game
+Just SoftBank doing SoftBank things
 
-## IIT Madras breaks ground on ₹400 crore student accommodation project
-The facility, being developed in partnership with Elevate Campuses, will accommodate more than 1,800 PhD students and project staff
+## Flagship Ares private credit fund hit by 14% withdrawal requests
+Firm caps redemptions as retail investor exodus accelerates across the industry
 
-## Sensex today | Stock Market Highlights: Sensex crosses 77,100 as Nifty ends above 24,000 in cautious trade
-Sensex, Nifty, Share Prices Highlights: Indian equities ended marginally higher as Sensex and Nifty gained 0.14 per cent each, supported by softer crude oil prices and policy measures to attract inflows, while the rupee edged up and broader markets showed mixed, cautious trading with volatility easi
+## HDFC Mid Cap Fund asset crosses ₹1 lakh cr in 19 years
+The scheme has generated a return of 17 per cent CAGR since inception, outperforming its benchmark return of 15%
+
+## Sathya Agencies receives SEBI approval for ₹600 crore IPO
+The proposed IPO comprises a fresh issue of equity shares aggregating up to ₹300 crore and an Offer for Sale (OFS) of equity shares worth ₹300 crore by the promoter group
+
+## Don’t hold important meetings day before/after holiday: Cabinet Secretariat’s advisory to officials
+The advisory, titled ‘Conducting Effective Meeting’, has been prepared by the Cabinet Secretariat with support from the National Centre for Good Governance
+
+## Move beyond ‘Made in India’ to ‘designed in India’: Karnataka Minister
+Sharan Prakash Patil, Karnataka’s Minister for Medical Education and Skill Development, calls for an aggressive push towards AI-led skilling
+
+## New criteria for identification of NBFC-UL: Ball now in RBI court whether Tata Sons stays private or gets listed
+RBI had revised NBFC-upper layer criteria, fixed ₹1 lakh crore asset threshold
+
+## India to begin 2% isobutanol-diesel trials to kickstart diesel biofuel push
+Diesel, India’s largest transport fuel, accounts for nearly twice the country’s petrol consumption, making the proposed programme significantly larger than the E20 initiativeThe government-backed initiativerials involve Tata Motors, HPCL, ARAI, Praj Industries, and mark India’s first serious move to
+
+## Broker’s Call: Phoenix Mills (Buy)
+SBI Securities
+
+## Bangladesh clearing dues, confident of resolving arbitration issues over Godda project: Adani Power
+Sardana said the issues currently under arbitration relate only to specific aspects of imported fuel pricing and benchmark indices and do not affect the broader power supply arrangement.
+
+## US inflation climbs above 4% for first time in three years as consumer spending stays resilient
+US inflation surged past 4% in May, primarily due to escalating energy costs linked to Middle East tensions. Despite rising living expenses, consumer spending showed resilience, buoyed by tax refunds and stock market gains. While economists anticipate persistent inflationary pressures, the Federal R
 
 ## Stock market holiday on Muharram: Will NSE, BSE remain closed for trading on June 26?
 Stock market investors, mark your calendars! The market will be closed on Friday, June 26, for Muharram. Trading operates on weekdays, excluding weekends and official holidays. Remember the pre-open session from 9:00 am to 9:08 am, followed by the regular trading window from 9:15 am to 3:30 pm. Plan
@@ -69,62 +72,62 @@ A massive crypto heist, initially linked to North Korea, has unraveled a complex
 ## Strait of Hormuz reopens: Middle East oil exports to climb to 4-month high
 The Strait of Hormuz is reopening, paving the way for Middle Eastern fuel oil exports to reach a four-month high in June. Iraq and Saudi Arabia are leading this surge, with Iraq notably diversifying routes through Syria. While shipments are increasing, they remain below pre-war levels, and cautious 
 
+## Middle East fuel oil exports hit four-month high as Hormuz shipping gradually recovers
+Middle Eastern fuel oil exports are poised for a significant rebound in June, reaching a four-month peak. This surge is attributed to Iraq and Saudi Arabia rerouting supplies via alternative ports, coupled with a gradual resumption of shipments through the Strait of Hormuz following a US-Iran interi
+
 ## Beyond oil tanks: Strategic pricing reserves, the new mantra for India’s energy security
 From a storage perspective, India should enhance its SPR capacities from 17 to 45 days on land with the possibility of having another 10-15 days of SPR on sea on tankers. Incidentally, the International Energy Agency recommends a SPR of 90 days.
 
-## ITR filing FY 2025-26: Old vs new income tax regime - how salaried taxpayers can lower tax outgo
-ITR filing FY 2025-26: The two regimes differ fundamentally in structure. The new tax regime offers lower slab rates but largely eliminates exemptions and deductions. The old tax regime, in contrast, allows taxpayers to claim a range of benefits.
+## India gives new Bangladesh envoy Dinesh Trivedi cabinet minister status
+The move signals New Delhi’s focus on rebuilding relations with Bangladesh amid efforts to normalise ties after recent diplomatic strains.
 
-## Oil prices fall to $70: Will your flight tickets get cheaper?
-Aviation Turbine Fuel (ATF) prices, which had surged, are now under scrutiny as crude oil costs decline. The Civil Aviation Minister indicated the government may ask airlines to reassess surge charges and additional fare components if fuel prices remain stable. Discussions are ongoing with airlines 
+## Bangladesh calls India's explanation over adviser being stopped at Delhi airport 'unsatisfactory'
+Zahed Ur Rahman, an adviser to Bangladesh Prime Minister on policy and strategy, was stopped by immigration authorities at New Delhi airport on June 14.
 
-## Scientifically Speaking: The animal that can survive five years without eating
-Deep-sea isopods live on the seafloor across the Atlantic, Pacific, and Indian oceans
+## ‘Will beat you’: Sena (UBT) rebel MP loses cool, threatens reporter over question
+Sanjay Dina Patil’s fresh outburst came hours after Shiv Sena (UBT) leader Sanjay Raut released a letter that he had written to Mumbai police commissioner
 
-## Rahul Gandhi backing CJP? Congress MP slams Pradhan's 'B-team of terrorists' remark
-Rahul Gandhi criticised Pradhan for calling protesting students 'terrorists'. He demanded an apology and resignation from the education minister.
+## Cafe meet, 2,000 calls, suitable spot: How Siya plotted fiance's murder with boyfriend's help
+On the day of the incident, Siya Goyal and Chetan Chaudhary allegedly met at a cafe and reportedly discussed the plan to kill Agarwal.
 
-## Congress campaign from June 30 seeking Dharmendra Pradhan's resignation over NEET leak
-The Congress's 40-day campaign ‘Chhatron ki Goonj’ demands the resignation of Dharmendra Pradhan and an overhaul of examination procedures
+## Amid citizenship proof debate, here's how India's passport fares globally
+After slipping to 85th in 2025, India climbed to 75th in the latest rankings, marking a 10-place jump within a year.
 
-## Cabinet reshuffle buzz gathers pace after Amit Shah meets President, BJP may assess performance
-BJP leaders familiar with internal deliberations said the proposed rejig is expected to go beyond filling vacancies.
+## ‘You’d win a million votes in Delhi’: Italy's Giorgia Meloni recalls 2023 India trip, says posters of her lined streets
+A book called ‘Giorgia’s Vision’ features written accounts of Italy PM Giorgia Meloni's conversations with a journalist.
 
-## VK Pandian's wife Sujata Rout Karthikeyan joins BJD, Naveen Patnaik clarifies leadership question
-While VK Pandian is often termed as an outsider due to him being a Tamil Nadu native, Sujata Rout Karthikeyan is a native of the Kendrapara district of Odisha
+## ‘If not from BJP, not Indian’: Opposition corners govt over passport-citizenship remark
+Clyde Crasto said citizens may soon be told that “if you become a member of the BJP, you prove yourself to be a citizen of India.”
 
-## Amazon CEO meets PM Modi, confirms $48 billion investment, AI expansion in India by 2030
-The Amazon CEO further stated that since 2010, the tech company has invested $40 billion into India.
+## Raghav Chadha seeks FIR against Bhagwant Mann as Sikh Gurus video row escalates: 'AAP fabricated forensic report'
+Raghav Chadha, who was a member of the AAP till about two months ago, claimed that the Sikh community was “angry and hurt”.
 
-## Midday meals: Oppn accuses Bengal govt of imposing vegetarianism by dropping eggs
-TMC leader Derek O’Brien said Bengal rejects depriving children of nutrition by taking eggs from midday meals and imposing vegetarianism
-
-## DVAC raids ex-TN minister EV Velu, 11 others in roadworks graft case
-Reacting to the searches, DMK president and former chief minister MK Stalin said Velu was fully cooperating with the investigation.
-
-## AIIMS Social Media Restriction: Posting reels or patient details can now get you suspended
+## New vehicle crashes on purchase day, dealer to pay Rs 3 lakh over ‘unregistered’ status
 
 
-## IVF claim, babies for sale: How a Delhi racket trafficked infants
+## Arjun Kapoor’s message for Anshula before her wedding reflects feeling many siblings share
 
 
-## Married daughter entitled to compassionate appointment, says Karnataka High Court
+## Gurgaon garbage fee has residents fuming. Now, civic body makes ‘U-turn’
 
 
-## Jacqueline Fernandez withdraws plea from Supreme Court in money laundering case
+## Vishnu Vishal opens up about his autoimmune condition ahead of Gatta Kusthi 2
 
 
-## Bombay High Court reduces death penalty of 2 men to life term in 2013 Nashik murder case
+## World Cup 2026: Who will Brazil face in Round of 32? Netherlands, Japan, or Sweden?
 
 
-## To reach the World Cup, Indian football must prioritise development over optics
+## Why passport is not proof of citizenship, and what purpose it actually serves
 
 
-## Bengaluru businessman found dead at actor Krishi Thapanda’s house
+## Woman sold her wedding jewellery to build a collection of Hermes bags; know why
 
 
-## Why can’t India qualify for the World Cup? Lack of long-term vision
+## Navi Mumbai airport to launch international flights from July 15 with Abu Dhabi service
 
+
+## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
+Trip.com Group, China’s largest online travel agency, says it expects second-quarter revenue growth to be the slowest in more than three years and warns of a “significant fine” from an ongoing antitrust probe by the country’s top market regulator. The company reported on Thursday that first-quarter 
 
 ## Brazil eyes deeper China ties to boost green investments and aid low-carbon transition
 Brazil wants to deepen its cooperation with China and explore ways to expand financing solutions and scale-up green investments to accelerate the South American country’s transition to a low-carbon economy, Brazilian Finance Minister Dario Durigan said in Beijing on Thursday. “We must build long-ter
@@ -146,9 +149,6 @@ Robin Zeng Yuqun, head of the world’s largest electric vehicle (EV) battery ma
 
 ## Major Chinese banks suspend individual trading on Shanghai Gold Exchange amid volatility
 Chinese banks are accelerating efforts to scale back retail trading of precious metals, with the price of gold below US$4,000 an ounce for the first time since November, highlighting growing volatility in a market that has lost nearly 30 per cent of its value since peaking earlier this year. Industr
-
-## Can Hong Kong keep its financial crown?
-
 
 ## This Industrial Revolution Is Not Like the Last One
 Policymakers’ approach to automation won’t work for AI.
@@ -246,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Rubio tells Gulf allies that Iran deal will ensure their security
+## Venezuela quakes: How will sanctions impact aid operations?
+Financial sanctions are known to limit the flow of aid, but political influence is also a concern amid the devastation.
+
+## ‘We did regain control’: The Brexit voters with no regrets 10 years on
+The UK may have squandered the freedoms it won, but leaving the EU was the right decision, say pro-Brexit Britons.
+
+## US push for unified Libyan government tests Tripoli factions
+A US-backed initiative aiming to unify Libya's divided institutions tests political loyalties in the country's west.
+
+## Why Britain devours its prime ministers
+Weak leaders are only part of the story. Restless MPs and volatile voters have made Downing Street harder to survive.
+
+## Israeli forces kill Palestinian man during raid on his home
+Israeli forces kill Palestinian man during raid on his home
+
+## How minesweeping in the Strait of Hormuz works: A visual guide
+Clearing mines is a slow, high-risk operation that involves finding and destroying them using specialised techniques.
+
+## Watch World Cup Day 14: South Africa advance, with Morocco, Mexico, Brazil
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## Rubio issues Hormuz toll warning as he wraps up Gulf visit
 Rubio's Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.
-
-## Europe faces another day of extreme heat after more temperature records set
-France under extreme heat alert as 63 million endure 30+C temperatures, with widespread power outages in Brittany.
-
-## As Ukraine seizes ‘first chance to win’, war horrors come home to Russia
-President Putin has hinted at peace talks as the economy fails, people flee cities and toxic 'oil rains' fall.
-
-## Venezuela earthquakes: Why is Central America so vulnerable to tremors?
-Venezuela and Japan are both hit by strong quakes, but Venezuela faces higher risks due to weaker building standards.
-
-## Oil prices back to pre-war levels on rising Middle East supply
-The price of Brent crude has reached its lowest since February 27, before the war started.
-
-## US says Iran will buy its goods: What could US-Iran trade look like?
-Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?
-
-## In pictures: Aftermath of twin earthquakes in Venezuela
-Communities in northern Venezuela struggle after deadly quakes as rescuers race against time to find survivors.
-
-## World reacts as devastating Venezuela earthquakes kill at least 32
-Global leaders express solidarity with Venezuela as dual earthquakes kill at least 32 and leave widespread devastation.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
@@ -294,6 +294,9 @@ India's Big Four accounting firms have achieved remarkable growth, outperforming
 ## Parliament panel to review India's economy amid global turmoil and growth concerns
 A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
 
+## RBI's dollar push puts bank treasury desks at the centre of funding strategy
+The Reserve Bank of India's recent measures to attract foreign currency inflows are placing treasury functions at the centre of banks' funding and balance sheet decisions, with lenders relying on treasury teams to manage foreign currency mobilisation, hedging, liquidity and deployment under the temp
+
 ## RBI to raise large exposure limit for upper layer NBFC-IFCs to 45% from 35% of eligible capital base
 The Reserve Bank of India has boosted lending limits for top infrastructure finance firms, allowing them to extend up to 45% of their capital to connected borrowers, a significant increase from 35%. This move aims to support the crucial infrastructure sector.
 
@@ -311,7 +314,4 @@ India is poised to approve incentives, including production-linked benefits and 
 
 ## RBI MPC member Nagesh Kumar flags import dependence, Gulf remittances, El Nino risks in minutes
 India faces significant economic risks from the West Asia conflict, including potential disruptions to oil and fertilizer imports via the Strait of Hormuz and reduced remittances from the Gulf. El Niño-induced monsoon failures also pose a threat to agriculture. Despite these vulnerabilities, the nat
-
-## RBI removes rate caps on select NRE, FCNR(B) deposits to attract foreign currency inflows
-The Reserve Bank of India is easing rules for foreign currency deposits. Interest rate caps on FCNR(B) deposits for three to five years are temporarily lifted. Restrictions on interest rates for NRE deposits of three years and above are also removed. These changes aim to attract more foreign currenc
 
