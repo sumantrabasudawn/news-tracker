@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## OpenAI releases GPT-5.6 to select users vetted by US government
+San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
+
+## US launches strikes on Iran after Tehran’s attack on cargo ship
+Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+
+## SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal
+Yields move towards levels commonly associated with junk-rated companies
+
+## S&P 500 notches longest losing streak in 10 months as chipmakers slide
+Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session
+
 ## Trump warns of 100% tariff on countries implementing digital services tax
 US president says levy would supersede any trade deals Washington has with other capitals
 
@@ -12,29 +24,14 @@ Struggling luxury department store owned by Sir Dickson Poon is in active talks 
 ## Speed of Andy Burnham’s takeover unsettles Labour MPs
 Supporters admit there is not much time for likely next prime minister to plan for power
 
-## Brutal nights and humidity mark Europe’s record June temperatures
-Daytime peaks on the continent rising three times as fast as the wider rate of global warming, scientists say
-
-## OpenAI releases GPT-5.6 to select users vetted by US government
-San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
-
-## Congress targets Leon Black as he denies knowledge of Epstein’s ‘heinous conduct’
-Lawmakers issue subpoenas to Apollo co-founder after accusing him of failing to answer queries on sex offender
+## EU border checks hit by late kit and sweaty scanners
+Airports warn system could cause travel chaos during summer holiday season
 
 ## Stockpickers: Babcock International, Telecom Plus, Moonpig
 Our experts discuss which companies to buy, sell or hold this week
 
 ## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
 Group broadens footwear offering to curb its reliance on boots
-
-## Ill-timed deregulation is weakening bank resilience
-Thoughtful, fundamental reform is needed in finance, not an industry checklist
-
-## What Kevin Warsh can learn from Alan Greenspan
-The new Fed chair must learn from his late predecessor’s successes — and avoid his mistakes
-
-## Britain backs electricity storage projects as heatwave strains grid
-Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
 
 ## HDFC Bank legal review finds no basis for former part-time chairman’s resignation claims
 Three external law firms reviewed board records, meeting minutes, communications and interviews, concluding there was no evidence supporting Chakraborty’s resignation concerns or claims
@@ -108,6 +105,12 @@ The suspect said he had evaded law enforcement for so long because his victims, 
 ## Siya Goyal's lover Chetan ‘instigated’ her to kill her fiance Ketan Aggarwal, say cops in Pune fort murder case
 20-year-old Siya Goyal and 22-year-old Chetan Chaudhary, who were in a relationship, are accused of hatching a conspiracy to kill 25-year-old Ketan Aggarwal.
 
+## Spain vs Uruguay, FIFA World Cup 2026 Live Score: ESP take on URU in must-win clash at Guadalajara
+
+
+## Why are French away kits tinged green?
+
+
 ## ‘Already married’: Aamir Khan on relationship with Gauri Spratt; expert on emotional commitment
 
 
@@ -124,12 +127,6 @@ The suspect said he had evaded law enforcement for so long because his victims, 
 
 
 ## Maharashtra registers 627 illegal sex determination cases till March 2026
-
-
-## Sarthi event in Pune: BJP MP Medha Kulkarni walks off stage, says she felt insulted after caste remark
-
-
-## Ireland stun T20 World Cup champions India in Belfast shock
 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah
-Mehdi Hasan goes head-to-head with German MP Maximilian Krah on the AfD’s hardline immigration agenda
+## Burkina Faso cuts diplomatic ties with former colonial ruler France
+The military government, in power since 2022 coup, accused France of having 'neo-colonial ambitions'.
 
-## Israel, Lebanon sign framework deal after US-mediated talks
-US Secretary of State Marco Rubio announced a US-mediated framework agreement between Israel and Lebanon.
+## UN rights chief calls for probe into migrant deaths in US detention centres
+Deaths of immigrants held in US detention centres have surged during Donald Trump's second term.
 
-## Advocates warn of wide-ranging implications of US Supreme Court TPS ruling
-Supreme Court allows Trump to end protected status for Haiti and Syria, threatening family separation say advocates.
+## Mistrial declared in federal arson case related to California wildfires
+New trial set to take place in October after jury fails to reach decision in closely-watched case on Palisades Fire.
 
-## Rescuers race to find survivors of Venezuelan earthquakes
-Rescue teams in Venezuela are racing to find earthquake survivors as the critical 72-hour "golden window" nears.
+## Hezbollah will not support Israel-Lebanon framework deal
+Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.
 
-## Israeli prosecutors charge six settlers after West Bank mosque attack
-Israeli attacks on Palestinian villages have increased in the occupied West Bank, even as settlers charged.
+## After progressive US primary wins, Trump takes aim at ‘godless communists’
+Trump has repeatedly conflated democratic socialists and communists; no communist are running on the Democratic ticket.
 
-## Why did these World Cup ads strike a nerve in Egypt?
-A viral World Cup campaign tapped into a familiar conversation among Egyptian football fans, prompting debate.
+## Uruguay vs Spain LIVE: World Cup 2026
+All the updates, with team news coverage and our text commentary stream, as Lamine Yamal's Spain face Uruguay.
 
-## US announces framework agreement between Israel and Lebanon
-US Secretary of State Marco Rubio has announced the deal after talks in Washington, DC, calling it a 'first step'.
+## US federal judge questions DOJ decision to drop Adani charges
+Judge says DOJ's reasoning for dropping Adani charges lacks clarity; orders detailed explanation from prosecutors.
 
-## Nine people killed in building collapse in Lagos, Nigeria
-Twenty seven people were rescued with injuries of varying severity; governor orders safety checks on surrounding area.
+## Israeli attack on car in central Gaza kills three Palestinians
+Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
