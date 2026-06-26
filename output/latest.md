@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## US launches strikes on Iran after Tehran’s attack on container ship
+Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+
+## ‘Tit-for-tat’ trade warfare threatens global economy, says IMF chief economist
+Pierre-Olivier Gourinchas, who is leaving the fund, warns attempts to gain small advantages will be ‘self-defeating’
+
 ## OpenAI releases GPT-5.6 to select users vetted by US government
 San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
-
-## US launches strikes on Iran after Tehran’s attack on cargo ship
-Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
 
 ## SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal
 Yields move towards levels commonly associated with junk-rated companies
@@ -20,9 +23,6 @@ Officials put death toll at 920 and expect it to climb as victims are dug out of
 
 ## Hong Kong billionaire explores sale of Harvey Nichols
 Struggling luxury department store owned by Sir Dickson Poon is in active talks with multiple parties over a deal
-
-## Speed of Andy Burnham’s takeover unsettles Labour MPs
-Supporters admit there is not much time for likely next prime minister to plan for power
 
 ## EU border checks hit by late kit and sweaty scanners
 Airports warn system could cause travel chaos during summer holiday season
@@ -81,29 +81,29 @@ Amid escalating cyber threats, financial regulatory bodies across the globe are 
 ## India's forex reserves rise to $672.59 billion after gold holdings jump
 India's foreign exchange reserves saw a significant rebound, climbing by $963 million to $672.587 billion in the week ending June 19. This recovery was primarily driven by a substantial surge in gold reserves, which more than compensated for a dip in foreign currency assets. The overall reserves rev
 
+## Will bring laws against ‘love jihad’, table UCC in House soon: Adhikari
+West Bengal CM Suvendu Adhikari vows to enact strict laws against "love jihad" and religious conversion, and to implement a Uniform Civil Code soon.
+
+## Sindhi Sangam seeks clarity on silver bricks
+VSSS demands accountability from the Ram Mandir Trust for 200 silver bricks donated in 2021, amid concerns over financial mismanagement.
+
+## 6-storey, sea-facing bungalow in Bandra to be Salman’s new home
+Salman Khan is building a new six-storey sea-facing home in Bandra for better security after an attack in 2024, following MCZMA clearance.
+
+## On 2 yrs as LoP, Rahul says ‘will keep fighting’
+Rahul Gandhi marked two years as Lok Sabha's Leader of Opposition, vowing to fight for Indians' voices and demanding key reforms like caste census.
+
+## Names of six personnel killed during Op Sindoor added to war memorial
+Six Indian soldiers killed in Operation Sindoor in May 2025 were honored at the National War Memorial, with some receiving posthumous gallantry awards.
+
+## India, Pak conduct Track 2 diplomacy
+Indian and Pakistani delegations held informal talks in Colombo on regional security issues amid ongoing back-channel engagements post-2025 conflict.
+
 ## IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
 IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
 
 ## Himachal to make ‘anti-chitta’ test mandatory for government recruitment
 The Himachal government and police carried out a big anti-drug operation, destroying narcotic substances seized under the NDPS Act at 10 locations.
-
-## Decide in 6 months remission plea of LeT operative sentenced to life: Gujarat HC
-Shahnawaz Bhatti, a Pakistani national, was arrested near the Kutch border in 2001, along with 22 kg of RDX, an AK-56 assault rifle, and ammunition
-
-## Odisha suspends 4 SCERT officials after 1,700 mistakes in school textbooks: Govt
-The Odisha government accepted 14 reform measures after 1,678 errors were found in textbooks for Classes 1 to 8.
-
-## Delhi woman cooking rotis shot dead by husband, ‘social stigma’ had stopped her from leaving him despite violence
-The couple had frequent disputes and the husband, Shubham Rajpur, had allegedly been threatening his wife Kavita for some time.
-
-## ‘Nation shaken’: Ujjwal Nikam of Kasab 26/11 case fame is govt lawyer in Pune man Ketan's murder by fiancée Siya Goyal
-Senior advocate and Rajya Sabha MP Nikam on Friday said he accepted the responsibility following a request from CM Devendra Fadnavis and the victim's family
-
-## HIV+ Bhopal man, arrested for murder, claims he forcibly sodomised 50 people: Cop
-The suspect said he had evaded law enforcement for so long because his victims, whom he targeted late at night on Bhopal’s streets, never filed police complaints against him.
-
-## Siya Goyal's lover Chetan ‘instigated’ her to kill her fiance Ketan Aggarwal, say cops in Pune fort murder case
-20-year-old Siya Goyal and 22-year-old Chetan Chaudhary, who were in a relationship, are accused of hatching a conspiracy to kill 25-year-old Ketan Aggarwal.
 
 ## Spain vs Uruguay, FIFA World Cup 2026 Live Score: ESP take on URU in must-win clash at Guadalajara
 
@@ -153,6 +153,9 @@ Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers a
 ## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
 A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
+## U.S. Strikes Iran Over Attack on Hormuz Ship
+Washington said Tehran violated the cease-fire.
+
 ## Is Hezbollah Now More an Obligation Than an Asset to Tehran?
 How the war has shifted Iran’s relationship with its proxies.
 
@@ -173,9 +176,6 @@ Should one company—and one person—have this much power?
 
 ## Restocking the Pentagon
 Trump urges defense manufacturers to speed up weapons production after the Iran war.
-
-## Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
-The president has taken unprecedented steps to end a policy of exclusion, but suspicions remain.
 
 ## Taiwan to Build Chip and EV Factories in Poland Replacing China and the US
 In Poland's tech strategy, Taiwan is filling in for projects once envisioned for China and the U.S.
@@ -249,8 +249,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive
+Senegal currently hold the fifth-best record of third-place teams based on their plus-2 goal differential.
+
+## Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026
+Dembele's ⁠first-half hat-trick helps France to a 4-1 win over second-string Norway ⁠to finish top of Group I.
+
+## Thousands of migrants flee South Africa ahead of anti-immigrant protests
+Thousands of migrants flee South Africa ahead of anti-immigrant protests
+
 ## Burkina Faso cuts diplomatic ties with former colonial ruler France
 The military government, in power since 2022 coup, accused France of having 'neo-colonial ambitions'.
+
+## US strikes Iran in response to drone strike on commercial ship
+The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.
 
 ## UN rights chief calls for probe into migrant deaths in US detention centres
 Deaths of immigrants held in US detention centres have surged during Donald Trump's second term.
@@ -260,18 +272,6 @@ New trial set to take place in October after jury fails to reach decision in clo
 
 ## Hezbollah will not support Israel-Lebanon framework deal
 Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.
-
-## After progressive US primary wins, Trump takes aim at ‘godless communists’
-Trump has repeatedly conflated democratic socialists and communists; no communist are running on the Democratic ticket.
-
-## Uruguay vs Spain LIVE: World Cup 2026
-All the updates, with team news coverage and our text commentary stream, as Lamine Yamal's Spain face Uruguay.
-
-## US federal judge questions DOJ decision to drop Adani charges
-Judge says DOJ's reasoning for dropping Adani charges lacks clarity; orders detailed explanation from prosecutors.
-
-## Israeli attack on car in central Gaza kills three Palestinians
-Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
