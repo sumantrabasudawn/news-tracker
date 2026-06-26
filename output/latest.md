@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## Small plane crashes into Beijing’s tallest building
-Debris seen falling from Citic Tower after propeller aircraft hit skyscraper in Chinese capital’s central business district
+## OpenAI releases GPT-5.6 to select users vetted by US government
+San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
 
-## Apollo co-founder Leon Black faces US lawmakers over Epstein links
-Billionaire tells House oversight committee he had no involvement in late sex offender’s crimes
+## US lawmakers subpoena Apollo co-founder Leon Black over Epstein links
+Congress issues orders to billionaire after accusing him of failing to answer questions regarding late sex offender
 
-## US tech stocks fall for fifth day in a row
-Nasdaq Composite on track for longest losing streak of 2026 amid worries about an overstretched rally in AI-related shares
+## Trump warns of 100% tariff on countries implementing digital services tax
+US president says levy would supersede any trade deals Washington has with other capitals
 
-## Starmer commits at least £1bn more for defence
-Long-delayed plan set to be unveiled on Tuesday as prime minister tries to shore up his legacy
+## Speed of Andy Burnham’s takeover fuels jitters among Labour MPs
+Supporters admit there is not much time for likely next prime minister to plan for power
 
-## Thousands of foreign students made false qualification claims, says consultancy
-Qualification Check says many UK universities did not conduct detailed verification
+## Stockpickers: Babcock International, Telecom Plus, Moonpig
+Our experts discuss which companies to buy, sell or hold this week
 
-## The hole in British politics
-Andy Burnham must fix the widespread idea that government is not on our side
+## Ill-timed deregulation is weakening bank resilience
+Thoughtful, fundamental reform is needed in finance, not an industry checklist
 
-## EU plans 15% tax on aluminium scrap exports
-Move by Brussels aims to protect domestic producers and prevent valuable metal heading to US and Asia
+## What Kevin Warsh can learn from Alan Greenspan
+The new Fed chair must learn from his late predecessor’s successes — and avoid his mistakes
 
-## Andrew Tate fails in attempt to reveal identities of accusers
-The influencer and his brother face charges including rape but have yet to be extradited from Romania
+## Britain backs electricity storage projects as heatwave strains grid
+Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
 
-## UK tightens investment trust rules to close gaps exposed by Saba Capital
-Watchdog’s proposals may make it harder for activist investors to control listed closed-end companies
+## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
+Group broadens footwear offering to curb its reliance on boots
 
-## Germany urges EU to suspend methane rules after US pressure
-Energy minister warns of risk to gas supplies if planned rules affecting imports come into force
+## US stocks on track to break losing streak despite falls in chipmakers
+Software stocks led a recovery in the Nasdaq Composite after early losses
 
-## Parisians seek refuge from heatwave in air-conditioned hotels
-People booking rooms during the day to work while others seek night-time respite from stifling apartments
+## OpenAI names former Uber India head Prabhjeet Singh as India MD
+Prabhjeet Singh will lead OpenAI’s India operations, overseeing consumer growth, enterprise adoption and strategic partnerships
 
-## Brussels launches antitrust probe into French drugmaker Sanofi
-Competition watchdog examining whether group implemented ‘misleading’ campaign against rival flu vaccine maker
+## HDFC Bank says legal review finds no evidence backing ex-chairman’s concerns
+The three-law-firm review found no evidence supporting the concerns raised by Chakraborty, with the bank saying he did not participate despite requests
 
-## Unilever explores bid for $4bn supplement maker Thorne
-Dove soap maker seeks to boost health and wellness portfolio after spinning off food business
+## SEBI rejects Reliance Infra, Anil Ambani plea to settle ₹6,526-cr case
+In show-cause notice, regulator seeks restoration of funds pending recovery along with applicable interest
 
-## Your summer holiday is a retirement killer
-The capitalised value of that all-inclusive fortnight will scare you
+## Trump threatens 100% tariff on countries taxing US digital companies
+Trump said the proposed tariffs would apply to any nation moving forward with such taxes and could override existing trade agreements
 
-## Pocket
+## Small businesses, big impact
 
+
+## Amit Shah signals review of NDPS Act; urges states to join fight against narcotics network
+MHA launches ₹6,000-crore narcotics disposal campaign
+
+## Investment banks, rating agencies lower gold outlook after dropping over 25% since Jan 29
+Near-term for the precious metal has become challenging, driven by US Fed policy signals
 
 ## Bengal to ‘scrap’ urban land ceiling Act to attract big ticket investment
 Bengal can witness the highest growth rates in India in the next four years, given an “enabling” framework provided by the government, said West Bengal Finance Minister
 
-## Kolkata likely to host GST Council meeting next month
-Meeting likely to take up the next round of indirect tax policy reforms
+## India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY
+India's economy is poised for robust growth of 6.6-6.8% this financial year, buoyed by easing global energy prices and normalized Strait of Hormuz shipments. Inflation is expected to remain manageable around 4.5%, with the current account deficit projected at 1.5% of GDP. Strong domestic demand, par
 
-## Mahindra Finance shifts revenue mix as alternative segments grow to 8.76%
-Income generated from other financial activities expanded significantly to fill the remaining 8.76% share, up from a baseline of 0.35% in the prior period
+## '100% tariff will supersede trade deals': Trump threatens countries planning digital services tax on US firms
 
-## Centre initiates review of India’s approved basmati varieties
-To prune list of export-eligible aromatic rice strains, preserve brand identity of popular varieties
 
-## Health Ministry proposes two amendments involving drug imports
-The proposal sought to bring in ‘greater efficiency’ in the pharmaceutical supply chain, the Ministry saidAimed at facilitating research, and business, respectively
-
-## UPERC denies permission to Noida Power to procure hybrid power
-The order reflects a subtle shift in regulatory thinking—from merely adding renewable capacity to ensuring adequate round-the-clock electricity supply as the share of intermittent renewable energy rises
-
-## Tilaknagar Industries invests ₹2 crore more in Bartisans, raises stake to 41.45%
-Bartisans produces all-natural, ready-to-pour cocktail mixers across 17 flavours
+## Volkswagen considers 4 factory closures, 1 lakh job cuts amid China competition, tariff pressure: Report
+Volkswagen is reportedly considering a massive overhaul, including closing four German factories and significantly increasing job cuts, potentially impacting up to 100,000 roles. This drastic move comes as the automaker faces intense competition from Chinese rivals, US tariffs, and declining Europea
 
 ## Uber India president Prabhjeet Singh steps down after over a decade with company
 
@@ -81,14 +78,23 @@ Amid escalating cyber threats, financial regulatory bodies across the globe are 
 ## India's forex reserves rise to $672.59 billion after gold holdings jump
 India's foreign exchange reserves saw a significant rebound, climbing by $963 million to $672.587 billion in the week ending June 19. This recovery was primarily driven by a substantial surge in gold reserves, which more than compensated for a dip in foreign currency assets. The overall reserves rev
 
-## Green urea push: Centre plans 7.24 lakh MT green ammonia procurement to reduce fertiliser imports
-India is set to boost Green Urea production with a new roadmap, aiming to procure 7.24 lakh metric tonnes of Green Ammonia annually under the National Green Hydrogen Mission. This initiative seeks to cut reliance on imported urea and decarbonize fertilizer manufacturing.
+## IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
+IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
 
-## 8th Pay Commission: Will fitment factor stay close to 2.57? Why a cautious approach is expected
-8th Pay Commission: The fitment factor remains the most significant component of the pay revision process, as it is used to calculate revised salaries and pensions by applying a multiplier to the existing basic pay and pension.
+## Himachal to make ‘anti-chitta’ test mandatory for government recruitment
+The Himachal government and police carried out a big anti-drug operation, destroying narcotic substances seized under the NDPS Act at 10 locations.
 
-## US waives sanctions on Iranian crude: Here's why Indian refiners are still hesistant to buy it
-Indian refiners are unlikely to resume buying Iranian oil despite a temporary US waiver. Existing supply commitments, payment concerns, and the waiver's short duration mean most refiners have already secured other crude sources. While opportunistic purchases at steep discounts are possible, a signif
+## Decide in 6 months remission plea of LeT operative sentenced to life: Gujarat HC
+Shahnawaz Bhatti, a Pakistani national, was arrested near the Kutch border in 2001, along with 22 kg of RDX, an AK-56 assault rifle, and ammunition
+
+## Odisha suspends 4 SCERT officials after 1,700 mistakes in school textbooks: Govt
+The Odisha government accepted 14 reform measures after 1,678 errors were found in textbooks for Classes 1 to 8.
+
+## Delhi woman cooking rotis shot dead by husband, ‘social stigma’ had stopped her from leaving him despite violence
+The couple had frequent disputes and the husband, Shubham Rajpur, had allegedly been threatening his wife Kavita for some time.
+
+## ‘Nation shaken’: Ujjwal Nikam of Kasab 26/11 case fame is govt lawyer in Pune man Ketan's murder by fiancée Siya Goyal
+Senior advocate and Rajya Sabha MP Nikam on Friday said he accepted the responsibility following a request from CM Devendra Fadnavis and the victim's family
 
 ## HIV+ Bhopal man, arrested for murder, claims he forcibly sodomised 50 people: Cop
 The suspect said he had evaded law enforcement for so long because his victims, whom he targeted late at night on Bhopal’s streets, never filed police complaints against him.
@@ -96,46 +102,28 @@ The suspect said he had evaded law enforcement for so long because his victims, 
 ## Siya Goyal's lover Chetan ‘instigated’ her to kill her fiance Ketan Aggarwal, say cops in Pune fort murder case
 20-year-old Siya Goyal and 22-year-old Chetan Chaudhary, who were in a relationship, are accused of hatching a conspiracy to kill 25-year-old Ketan Aggarwal.
 
-## 'Lord Ram will drive them out': Kejriwal jabs BJP amid Ayodhya temple donation ‘theft’ row
-Arvind Kejriwal appealed for a social boycott of those accused of their involvement in the alleged embezzlement of donations to the Ram Mandir in Ayodhya.
-
-## Amid Ram Mandir row, UP deputy CM brings in Babri Masjid, madrasas: ‘Nobody asking…’
-UP deputy chief minister Brajesh Pathak questioned why no one was asking about the status of funds collected for the Babri Masjid in Ayodhya.
-
-## India sends army field hospital, rescue teams and relief materials to quake-hit Venezuela
-The assistance sent by India includes a field hospital unit of the Indian Army and more than 35 tonnes of relief supplies, medicines and medical equipment
-
-## Over 40 lakh devotees visit Char Dham; 201 health-related deaths reported: Officials
-Official data shows 201 pilgrims died due to health-related ailments as Char Dham footfall crossed the 4 million mark.
-
-## Cheetals keep flying in Ladakh amid failure probe
-Indian Army's Cheetal helicopters are flying in Ladakh despite a recent crash investigation, aiming to replace aging fleets with new helicopters in coming years.
-
-## Filed charge sheet against 11 operatives of Bangladesh-based terror group: NIA
-The accused were arrested in Assam, Tripura and West Bengal for allegedly expanding the activities of JMB offshoot Imam Mahmuder Kafila.
-
-## Juggling acts, knife throws, and a 90-minute spectacle: The circus comes to Delhi
+## ‘June Theory’ dating trend: Why singles believe summer is the season for romance
 
 
-## Inside Khushbu Sundar’s daughter’s star-studded wedding in Goa, see photos and videos
+## Forest pond ‘poisoned’ in mass hunting attempt, 3 men arrested in Madhya Pradesh
 
 
-## Bengaluru’s widest 320-foot Major Arterial Road to open tomorrow
+## Maharashtra registers 627 illegal sex determination cases till March 2026
 
 
-## No potato, onion & steep petrol: A Manipur district feels pinch of conflict
+## Sarthi event in Pune: BJP MP Medha Kulkarni walks off stage, says she felt insulted after caste remark
 
 
-## Tucker Carlson tells Trump to ‘shut up’ over Iran threats: ‘Strong people don’t brag’
+## Ireland stun T20 World Cup champions India in Belfast shock
 
 
-## More children isn’t the answer to delimitation, tax challenges
+## 18-year-old killed, friend critical after sword attack near Nayagaon; family alleges police inaction
 
 
-## Rajinikanth’s colossal disaster forced him into hiatus, ‘destroyed’ Manisha Koirala’s career
+## ‘Steps to be taken to curb man-animal conflict’: Forest minister meets family of boy killed by lioness
 
 
-## Iran offers discounted crude to India after US sanctions waiver, refiners weigh return: Report
+## Siya, her lover deleted chats before, after her fiance’s murder: Police probe
 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
@@ -258,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’
+Kinshasa takes Kigali to UN's top court over 30 years of alleged massacres, sexual violence, and forced displacement.
+
+## How did Colombia’s election split a nation in two?
+Colombia elected its first right-wing president in years by a razor-thin margin.
+
+## ‘This time’: The World Cup commercials capturing Egypt’s soaring hopes
+The advertisements play on Egypt's poor World Cup record — and the belief that 2026 is different. So far, they ring true
+
+## Hezbollah: Israel must ‘unconditionally’ leave Lebanon
+Hezbollah says Israel has "no option" but to “unconditionally” withdraw from southern Lebanon and other occupied areas.
+
+## Why did these World Cup ads strike a nerve in Egypt?
+Why did these World Cup ads strike a nerve in Egypt?
+
+## Norway vs France LIVE: FIFA World Cup 2026
+Follow live updates from the blockbuster clash in Group I - including the build-up, analysis and live text commentary.
+
 ## EU targets Somalia with visa curbs as president pushes back on returns
 President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.
 
 ## Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
 A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.
-
-## Morocco jails 29, including politicians and sports figures, in drug trial
-Casablanca court delivers landmark verdict in 'Escobar of the Sahara' case: up to 12 years for top figures.
-
-## Ex-Trump adviser Bolton pleads guilty in classified documents case
-This is a breaking news story.
-
-## Iran slams the GCC and the US for ‘interventionist’ statement: What we know
-Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.
-
-## South Korean court jails former first lady for seven years in bribery case
-Kim Keon Hee was sentenced for taking bribes including luxury items in return for political favours.
-
-## Iraq’s new PM launches anticorruption campaign, but is it enough?
-Al-Zaidi campaign to combat corruption seizes $86m, properties, vehicles and gold. But analysts say he needs to do more.
-
-## New York’s primaries signal a new force in US politics
-Progressive, Muslim and Arab American candidates are challenging old limits on debate over Israel and Palestine.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
