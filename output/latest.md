@@ -1,19 +1,31 @@
 # AION Intelligence
 
-## OpenAI releases GPT-5.6 to select users vetted by US government
-San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
-
-## US lawmakers subpoena Apollo co-founder Leon Black over Epstein links
-Congress issues orders to billionaire after accusing him of failing to answer questions regarding late sex offender
-
 ## Trump warns of 100% tariff on countries implementing digital services tax
 US president says levy would supersede any trade deals Washington has with other capitals
 
-## Speed of Andy Burnham’s takeover fuels jitters among Labour MPs
+## Venezuelans search for survivors after devastating earthquakes
+Officials put death toll at 920 and expect it to climb as victims are dug out of rubble
+
+## Hong Kong billionaire explores sale of Harvey Nichols
+Struggling luxury department store owned by Sir Dickson Poon is in active talks with multiple parties over a deal
+
+## Speed of Andy Burnham’s takeover unsettles Labour MPs
 Supporters admit there is not much time for likely next prime minister to plan for power
+
+## Brutal nights and humidity mark Europe’s record June temperatures
+Daytime peaks on the continent rising three times as fast as the wider rate of global warming, scientists say
+
+## OpenAI releases GPT-5.6 to select users vetted by US government
+San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
+
+## Congress targets Leon Black as he denies knowledge of Epstein’s ‘heinous conduct’
+Lawmakers issue subpoenas to Apollo co-founder after accusing him of failing to answer queries on sex offender
 
 ## Stockpickers: Babcock International, Telecom Plus, Moonpig
 Our experts discuss which companies to buy, sell or hold this week
+
+## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
+Group broadens footwear offering to curb its reliance on boots
 
 ## Ill-timed deregulation is weakening bank resilience
 Thoughtful, fundamental reform is needed in finance, not an industry checklist
@@ -24,17 +36,17 @@ The new Fed chair must learn from his late predecessor’s successes — and avo
 ## Britain backs electricity storage projects as heatwave strains grid
 Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
 
-## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
-Group broadens footwear offering to curb its reliance on boots
+## HDFC Bank legal review finds no basis for former part-time chairman’s resignation claims
+Three external law firms reviewed board records, meeting minutes, communications and interviews, concluding there was no evidence supporting Chakraborty’s resignation concerns or claims
 
-## US stocks on track to break losing streak despite falls in chipmakers
-Software stocks led a recovery in the Nasdaq Composite after early losses
+## Segway and Whoosh Launch Free Ride Campaign Across Mexico During the 2026 Tournament World Cup to Support Urban Mobility
+Segway and Whoosh Launch Free Ride Campaign Across Mexico During the 2026 Tournament World Cup to Support Urban Mobility
+
+## Piyush Goyal and UK-India FTA Negotiation Teams Honoured at 10th Anniversary of IGF UK-India Awards
+Piyush Goyal and UK-India FTA Negotiation Teams Honoured at 10th Anniversary of IGF UK-India Awards
 
 ## OpenAI names former Uber India head Prabhjeet Singh as India MD
 Prabhjeet Singh will lead OpenAI’s India operations, overseeing consumer growth, enterprise adoption and strategic partnerships
-
-## HDFC Bank says legal review finds no evidence backing ex-chairman’s concerns
-The three-law-firm review found no evidence supporting the concerns raised by Chakraborty, with the bank saying he did not participate despite requests
 
 ## SEBI rejects Reliance Infra, Anil Ambani plea to settle ₹6,526-cr case
 In show-cause notice, regulator seeks restoration of funds pending recovery along with applicable interest
@@ -47,12 +59,6 @@ Trump said the proposed tariffs would apply to any nation moving forward with su
 
 ## Amit Shah signals review of NDPS Act; urges states to join fight against narcotics network
 MHA launches ₹6,000-crore narcotics disposal campaign
-
-## Investment banks, rating agencies lower gold outlook after dropping over 25% since Jan 29
-Near-term for the precious metal has become challenging, driven by US Fed policy signals
-
-## Bengal to ‘scrap’ urban land ceiling Act to attract big ticket investment
-Bengal can witness the highest growth rates in India in the next four years, given an “enabling” framework provided by the government, said West Bengal Finance Minister
 
 ## India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY
 India's economy is poised for robust growth of 6.6-6.8% this financial year, buoyed by easing global energy prices and normalized Strait of Hormuz shipments. Inflation is expected to remain manageable around 4.5%, with the current account deficit projected at 1.5% of GDP. Strong domestic demand, par
@@ -102,6 +108,15 @@ The suspect said he had evaded law enforcement for so long because his victims, 
 ## Siya Goyal's lover Chetan ‘instigated’ her to kill her fiance Ketan Aggarwal, say cops in Pune fort murder case
 20-year-old Siya Goyal and 22-year-old Chetan Chaudhary, who were in a relationship, are accused of hatching a conspiracy to kill 25-year-old Ketan Aggarwal.
 
+## ‘Already married’: Aamir Khan on relationship with Gauri Spratt; expert on emotional commitment
+
+
+## Triple Jumper Praveen Chithravel qualifies for Asian Games with effort of 16.92m
+
+
+## Can’t take anything for granted, can’t just turn up & win matches: Shreyas Iyer
+
+
 ## ‘June Theory’ dating trend: Why singles believe summer is the season for romance
 
 
@@ -115,15 +130,6 @@ The suspect said he had evaded law enforcement for so long because his victims, 
 
 
 ## Ireland stun T20 World Cup champions India in Belfast shock
-
-
-## 18-year-old killed, friend critical after sword attack near Nayagaon; family alleges police inaction
-
-
-## ‘Steps to be taken to curb man-animal conflict’: Forest minister meets family of boy killed by lioness
-
-
-## Siya, her lover deleted chats before, after her fiance’s murder: Police probe
 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
@@ -150,6 +156,15 @@ Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers a
 ## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
 A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
+## Is Hezbollah Now More an Obligation Than an Asset to Tehran?
+How the war has shifted Iran’s relationship with its proxies.
+
+## The Art That Created Colonialism
+A new exhibition examines how Western art and colonial aggression made each other possible.
+
+## What in the World?
+Test yourself on the week of June 20: Colombia votes, Starmer resigns, and Rutte meets with Trump.
+
 ## Colombia Swings to the Right
 It’s the latest Latin American country to elect a Trump-backed leader.
 
@@ -164,15 +179,6 @@ Trump urges defense manufacturers to speed up weapons production after the Iran 
 
 ## Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
 The president has taken unprecedented steps to end a policy of exclusion, but suspicions remain.
-
-## As the Tide Turns Against Putin, Beware the Drowning Man
-Like a struggling swimmer, he may take desperate measures to stay afloat.
-
-## Venezuela Reels From Twin Deadly Earthquakes
-With thousands of people missing, the death toll is expected to rise.
-
-## The Quest for Nuclear Superiority Makes No Sense
-The best way for governments to save money is to stop wasting it on completely unnecessary weapons.
 
 ## Taiwan to Build Chip and EV Factories in Poland Replacing China and the US
 In Poland's tech strategy, Taiwan is filling in for projects once envisioned for China and the U.S.
@@ -246,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’
-Kinshasa takes Kigali to UN's top court over 30 years of alleged massacres, sexual violence, and forced displacement.
+## Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah
+Mehdi Hasan goes head-to-head with German MP Maximilian Krah on the AfD’s hardline immigration agenda
 
-## How did Colombia’s election split a nation in two?
-Colombia elected its first right-wing president in years by a razor-thin margin.
+## Israel, Lebanon sign framework deal after US-mediated talks
+US Secretary of State Marco Rubio announced a US-mediated framework agreement between Israel and Lebanon.
 
-## ‘This time’: The World Cup commercials capturing Egypt’s soaring hopes
-The advertisements play on Egypt's poor World Cup record — and the belief that 2026 is different. So far, they ring true
+## Advocates warn of wide-ranging implications of US Supreme Court TPS ruling
+Supreme Court allows Trump to end protected status for Haiti and Syria, threatening family separation say advocates.
 
-## Hezbollah: Israel must ‘unconditionally’ leave Lebanon
-Hezbollah says Israel has "no option" but to “unconditionally” withdraw from southern Lebanon and other occupied areas.
+## Rescuers race to find survivors of Venezuelan earthquakes
+Rescue teams in Venezuela are racing to find earthquake survivors as the critical 72-hour "golden window" nears.
+
+## Israeli prosecutors charge six settlers after West Bank mosque attack
+Israeli attacks on Palestinian villages have increased in the occupied West Bank, even as settlers charged.
 
 ## Why did these World Cup ads strike a nerve in Egypt?
-Why did these World Cup ads strike a nerve in Egypt?
+A viral World Cup campaign tapped into a familiar conversation among Egyptian football fans, prompting debate.
 
-## Norway vs France LIVE: FIFA World Cup 2026
-Follow live updates from the blockbuster clash in Group I - including the build-up, analysis and live text commentary.
+## US announces framework agreement between Israel and Lebanon
+US Secretary of State Marco Rubio has announced the deal after talks in Washington, DC, calling it a 'first step'.
 
-## EU targets Somalia with visa curbs as president pushes back on returns
-President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.
-
-## Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
-A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.
+## Nine people killed in building collapse in Lagos, Nigeria
+Twenty seven people were rescued with injuries of varying severity; governor orders safety checks on surrounding area.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
