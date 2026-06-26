@@ -1,61 +1,79 @@
 # AION Intelligence
 
-## Venezuelans search for survivors after devastating earthquakes
-Officials put death toll at 188 but expect it to climb as victims are dug out of the rubble
+## Global markets fall as investors fret about AI demand
+Apple’s price rises and fears over delay to OpenAI’s IPO send Asian bourses sharply lower
 
-## Noel Tata: How we made fashion one of our biggest businesses
-Noel Tata and P Venkatesalu on the fast-growing retail chain you have likely never heard of
+## The leadership change in US stocks
+A market seeking direction
 
-## Attack in Strait of Hormuz halts evacuation plan for stranded ships
-International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+## DeepSeek plans hiring spree in escalation of China’s AI talent war
+Advertised roles suggest company focused on commercialising frontier research
 
-## Will strongman general’s push for US-Iran peace pay off for Pakistan?
-Islamabad elites are pinning their hopes on an agreement that could unlock financial support
+## EU ministers set to curb Brussels’ powers over cross-border electricity grids
+Also in this newsletter: Europe’s top criminal networks hide behind legal businesses and carbon costs split member states
 
-## Trump administration asks OpenAI to stagger release of new model to vet users
-The US Treasury, commerce department and other government offices request limited distribution of GPT 5.6
+## Brexit has made the UK more European, says Goldman Sachs
+In the ‘lacklustre GDP growth and weak inward investment’ sense, not the ‘café culture and egalitarian social values’ sense
 
-## Dimon upends succession race at JPMorgan again
-Longtime lieutenant Marianne Lake recently informed she was no longer a CEO contender as new top deputies are named
+## FirstFT: UK higher-earners in crosshairs for job cuts
+Also in today’s newsletter: Burnham’s foreign policy and Italy’s election rules
 
-## Starmer locked in stand-off with Mahmood over her push to sack migration minister
-Home secretary wants Mike Tapp dismissed after calling for care workers to be exempt from tough immigration controls
+## Outlook for Fed interest rates shifts in a hawkish direction
+Read the June forecast from the FT’s Monetary Policy Radar team
 
-## Trump’s tests of the US justice system
-For the time being, it is just about holding
+## The AI factory: the rewiring of India’s tech industry | FT Film
+Outsourced data services may not be enough for India to thrive in the AI era
 
-## FT Legal Outlook
-We look at how the industry is shaping its future in response to upheaval on many fronts — from AI to new types of law firm. Plus: the inaugural FT Law 50 listing of influential individuals
+## Rheinmetall gambled on Germany’s doomed warship project — and lost
+Arms company’s €15bn frigate blow tests faith among investors
 
-## How AI is powering new law firm structures
-Interest in a model that separates legal casework from other operations exploded alongside the new tech
+## Binance to stop providing services to EU clients after failing to obtain licence
+World’s biggest crypto exchange tells customers how to withdraw their money as MiCA rules set to come into force
 
-## Legal sector can use psychology to beat fear of AI
-Understanding the feelings that get in the way of embracing tech is important
+## Donald Trump Jr set for Kalshi windfall after prediction platform gave him stake
+Privately owned company’s valuation has soared as US administration has adopted a light-touch approach to the sector
 
-## Battle over Basmati rice GI for Madhya Pradesh heats up
-The All-India Rice Exporters Association has opposed expansion of the notified growing regions
+## How JPMorgan became Jamie Dimon
+The 70-year-old is one of the longest-serving bosses in finance
 
-## I talk to paneer and milk”, says the man behind Milky Mist’s incredible dairy journey
+## Goldman Sachs raises India's CY26 GDP growth forecast to 6.8%, cuts inflation, CAD estimates
+Goldman Sachs raises its CY26 real GDP growth forecast for India by 0.3pp to 6.8% y-o-y, lowers headline inflation forecast by 0.2pp to 4.4% y-o-y and current account deficit forecast by 0.2pp to 1.1% of GDP
 
+## Govt increases passport fees across categories from July 1
+Fresh passports, renewals and replacements, Tatkaal services and certificates become costlier under revised fee structure
 
-## Waterways Leisure IPO sails through on last-minute QIB entry
-The retail investor portion led demand, subscribing 3.63 times to the issue, the non-institutional investor segment was subscribed 0.86 times, while the qualified institutional buyers portion was subscribed 0.20 times
+## Jefferies says cheaper AI models to boost infrastructure demand; Favours memory chip makers
+Jefferies said GLM-5.2 delivers performance close to leading enterprise AI models at a much lower operating cost. Lower costs could encourage wider AI adoption across businesses.
 
-## Lilly launches cancer therapy Tanstrive for patients with advanced or metastatic solid tumors with a RET gene alteration
-Twice a day oral drug is priced at ₹2.15 lakh for two weeks treatment
+## India's banking sector set for re-rating, but loan growth may stay moderate: Report
+The report suggests that asset quality is not a concern in the near term, with both public and private banks expected to report lower slippages
 
-## Building skills, innovation hold the key to India’s $500 billion electronic industry target by 2030
-Experts pointed out that India’s electronics ecosystem is still heavily dependent on imported components
+## ABS Marine Services secures ₹126 crore charter contract
+The contract has a firm charter tenure of 5 years from the date of mobilisation, with an option for extension of another 1,825 days at the charterer’s discretion
 
-## India sets 30% fuel-efficiency target for trucks; Bharat VECTO to anchor new norms
-Bharat VECTO set to replace laboratory testing with real-world simulations as the country rolls out a new commercial vehicle fuel-efficiency framework from April 2027
+## Gold: India swings to premium on price retreat; China demand muted
+Gold prices in India dropped to 140,543 rupees per 10 grams on Thursday, the lowest since March 27, following a decline in international spot gold prices
 
-## Sell zinc futures
-The July contract is likely to fall to ₹340
+## Cocaine production at all-time high, global drug trade booming, UN report reveals
+Crack cocaine use on the rise, particularly in Europe
 
-## Profit booking trims gains; Nifty ends flat after 200-point swing from day's high
-BSE Sensex closed at 77,100.47, up 109.25 points or 0.14 per cent, while the NSE Nifty 50 settled at 24,056, gaining 34.35 points or 0.14 per cent
+## Tata Motors ties up with UCO Bank for financing dealers
+Tie-up will provide working capital support to authorised dealers of passenger and electric vehicles.
+
+## Qatar crude enters Asian market again as Hormuz gets back to business
+The Strait of Hormuz is buzzing with activity as Qatar resumes crude oil exports to Asian refiners for the first time since the recent conflict. This resurgence in oil flows, alongside improved regional dynamics and ongoing US-Iran talks, signals a significant easing of tensions. Tanker movements ar
+
+## Five times India and US disagreed on trade, but eventually found a way forward
+Trade negotiations between major economies are rarely linear. Domestic political pressures, competing economic interests and bureaucratic processes ensure that difficult issues are seldom resolved overnight.
+
+## How Venezuela’s strongest earthquake in a century could affect India’s crude oil imports
+India's growing crude oil imports from Venezuela face uncertainty after powerful earthquakes struck the South American nation. While major oil infrastructure appears largely undamaged, power grid issues and localized disruptions are being closely monitored. This comes as India has significantly incr
+
+## Forex measures yield results! FPIs buy record $4.2 billion Indian government bonds in June; reserves may get a boost
+The sharp rise in inflows follows a series of measures by the government and the Reserve Bank of India. According to reports, this is the highest monthly inflow into sovereign debt by a wide margin. The figure comfortably exceeds the previous record of Rs 22,005 crore recorded in August 2024.
+
+## Scotch and gin get cheaper: India-UK trade deal kicks in July
+India and the UK are set to implement a landmark trade pact and a Double Contribution Convention on July 15, 2026. This comprehensive agreement promises significant benefits, including zero-duty access for nearly all Indian exports and enhanced services trade. It aims to boost bilateral trade to $12
 
 ## Crude oil stands at $75 as tankers head to Hormuz after four months of chaos
 Crude oil prices dipped Friday as tanker traffic through the Strait of Hormuz improved, easing supply disruption fears. This comes despite recent tensions after a cargo ship near Oman was struck, with Iran reportedly firing at the vessel. While geopolitical risks linger, oil shipments through the st
@@ -66,68 +84,65 @@ Crude oil prices dipped Friday as tanker traffic through the Strait of Hormuz im
 ## US won't abruptly deny AI access to India: Govt
 
 
-## Bigger play for corporates in debt & money markets
+## Berlin's new Ganesha Temple is Europe's tallest: German envoy Philip Ackermann
+Te Ganesha Temple in Berlin's Neukolln opened on June 8. Located on the edge of the Hasenheide park it has a 17 meter high tower.
+
+## Names of 6 soldiers killed in action during Operation Sindoor made public for 1st time
+The newly revealed names indicate that the casualties during Operation Sindoor were spread across the Army and the Indian Air Force.
+
+## ‘Pushed’ him to death, screamed ‘help, help’: Siya’s first words after allegedly murdering Ketan
+Siya Goyal and her lover Chetan Chaudhary are prime suspects in Pune realtor Ketan Agarwal's murder case who died after falling from Pune's Lohagad fort.
+
+## Madras HC voids TN order on BCM reservation for people who converted to Islam
+The high court held that the state’s assumption that a convert could be issued a certificate showing membership of one of those communities was “legally and conceptually unsustainable”.
+
+## Ketan Agarwal murder: Inside the 640-minute offline strategy of Siya's ‘boyfriend’ Chetan that backfired
+Siya Goyal, 20, and Chetan Chaudhary, 22, are accused of killing Ketan Agarwal, a Pune realtor, during a trek at Lohagad Fort near Lonavala on June 18.
+
+## Indian envoy Mohan Kwatra discusses bilateral trade ties with US House panel
+The meeting comes against the backdrop of the negotiations between the two countries to finalise an interim bilateral trade agreement.
+
+## Indian captain faces 10 years in jail after UK raid on ‘Russian oil tanker’: What's the case?
+Ajay Pant was serving as the master of MV Smyrtos, a tanker that British authorities allege was part of Russia's so-called “shadow fleet”.
+
+## Siya Goyal and Chetan shift blame as Pune murder investigation continues
+Digital evidence suggests Siya Goyal and Chetan Chaudhary premeditated the murder of Ketan Agarwal, her fiancee, at Lohagad fort near Pune.
+
+## ‘No special ties with CM’: Karnataka BJP chief Vijayendra amid MLC poll row
 
 
-## 'Excited about growth of quick commerce here'
-Increasingly Investing Substantial Amounts In AWS, Cloud & AI Biz: Amazon CEO Jassy
-
-## SK Hynix overtakes Samsung: How a 14-year AI chip bet made it South Korea's most valuable listed company
-A bold gamble on high-bandwidth memory (HBM) chips has propelled SK Hynix to the forefront of the AI revolution, briefly making it South Korea's most valuable company. This strategic pivot, once met with skepticism, proved crucial as demand for AI servers surged, allowing SK Hynix to outpace rivals 
-
-## Bank holiday on June 26: Will banks be closed on Muharram? Check city-wise list of closures
+## Airbag malfunction kills car dealer during vehicle inspection
 
 
-## Centre eases BIS quality compliance with new risk-based framework for manufacturers
-The government has launched a new risk-based approach to simplify quality control compliance for industries. This allows eligible manufacturers to use a streamlined certification process, easing concerns over Bureau of Indian Standards (BIS) certification hurdles. The move aims to boost domestic man
-
-## India to resume regular visa operations in Bangladesh
-The move comes following Indian High Commissioner Dinesh Trivedi's visit to Dhaka, reversing the 2024 limits imposed due to protests against Sheikh Hasina
-
-## NCERT Class 9 book adds Emergency, drops Preamble and Secularism
-The changes have reignited a political battle between the Bharatiya Janata Party (BJP) and the Congress.
-
-## Odisha Pocso court awards father 20 years imprisonment for raping minor daughter
-According to the prosecution, the abuse began in 2017 when the minor, then about 12, was staying at her maternal uncle’s house in Jajpur district while her parents visited periodically
-
-## Indian Army’s Cheetal helicopters keep flying in Ladakh amid failure probe
-Investigators are examining a suspected technical failure that caused a recent Cheetal helicopters crash, officials aware of the development said.
-
-## Those who target schools, children with impunity must be held into account: India tells UNSC
-The UN's latest report on "Children and armed conflict" said that in 2025, violations against children in armed conflict reached “shocking levels.”
-
-## Who is Mahesh Dixit? Doctor-turned-IPS officer to now head Intelligence Bureau
-Dixit succeeds Tapan Deka, and will take over after the latter's extended tenure ends on June 30.
-
-## B’luru triple murder unplanned, say police
-In Bengaluru, investigators reveal a mother was initially the target of a murder plot by her daughter Shwetha and partner Kenneth, leading to two additional killings.
-
-## Ram temple donation row: FIR against 8 on Trust’s complaint days after SIT’s preliminary report
-Senior police officials said the FIR names Rama Shankar Yadav alias Tinnu, described as a close aide of Trust general secretary Champat Rai.
-
-## World Cup 2026 Round of 32 Schedule: Brazil vs Japan, ARG await knockout opponents
+## Russia reports one of the biggest Ukrainian drone attacks on its soil and annexed Crimea
 
 
-## What is OpenAI and Broadcom’s ‘Jalapeño’ AI chip, and why does it matter?
+## Expired gear, missing records: 2 Mumbai, Thane blood centres shut over safety lapses
 
 
-## Youngest Indian debutants in Test, ODI & T20I: Full List as Sooryavanshi chases Tendulkar’s record
+## Darshan’s son Vineesh safe after Bengaluru road accident, wife says he wasn’t driving
 
 
-## The one thing Drogba never achieved. Pepe did it in the 64th minute.
+## US Supreme Court hands Trump two major wins in immigrant-linked cases
 
 
-## Banned amid Emergency, Dara Singh’s film released with Sanjay Gandhi’s help, lost Rs 10 cr
+## ‘Don’t test Ram devotees’: Yogi on Ayodhya temple donation theft allegations
 
 
-## ‘I was so angry and jealous’: Sonali Kulkarni on when Tabu won National Award for Maachis
+## Dealer ‘secretly’ repaired new Swift Dzire before delivery, buyer wins Rs 6.6 lakh refund
 
 
-## Gram Chikitsalay Season 2 is easy to love. It is also afraid of its own story
+## Manulife Longevity Insight Forum: Empowering Quality Living and Independent Ageing in the Longevity Era
+[The content of this article has been produced by our advertising partner.] The inaugural Manulife Longevity Insight Forum in Hong Kong convened executives, academics and thought leaders to explore ways in which longer lives can come with quality, self-reliance and freedom from family dependence. Ho
 
+## As Chinese EVs expand global footprint, banks raise export forecasts
+Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers are consolidating their foothold in the global auto market, prompting international banks like Goldman Sachs to significantly raise their export forecasts. Buoyant overseas shipments have also effectively created a cushio
 
-## What Norway took to USA for World Cup: 400kg fish, 180kg cheese and 3 chefs
+## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
+A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
+## Hang Seng Index heads for worst week in over a year as renewed sell-off engulfs tech names
+Stocks in Hong Kong and on mainland China tumbled on Friday, as a fresh bout of sell-offs in technology companies put the city’s equity benchmark on track for its worst weekly performance in more than a year. The Hang Seng Index fell 2.3 per cent to 22,538.65 at the noon break, heading for a 5.8 per
 
 ## ‘Do or die’ for small carmakers: China market braces for 156 new models as price war looms
 A record 156 new models are expected to hit the Chinese automotive market in the second half of 2026, intensifying concerns about small players’ profitability as a new price war looms. The mass-market segment would see an influx of intelligent electric vehicles (EVs) priced at around 100,000 yuan (U
@@ -139,19 +154,7 @@ Hong Kong is seizing every opportunity to consolidate its role as a global finan
 Hong Kong Exchanges and Clearing (HKEX) is expanding into the index business with plans to launch more proprietary benchmarks and related investment products, as traditional market gauges have lagged regional peers during the artificial intelligence-driven technology rally. The operator of Hong Kong
 
 ## Rewriting the Intelligence Map
-Pak-Sun Ting, Co-founder and CEO of Votee AI, outlines how sovereign AI architecture and native language models aret reshaping enterprise governance while bringing billions of underserved language speakers into the generative AI era. The AI revolution has a blind spot. While large language models (L
-
-## Navigating the Leviathans: Professor John Mearsheimer and the resurgence of great power politics
-In an era defined by shifting alliances and structural instability, the resurgence of great power politics has returned to the forefront of global strategic discourse. At the recent SCMP Plus fireside chat, held at the HKU iCube, a distinguished assembly of subscribers and community leaders gathered
-
-## China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe
-Trip.com Group, China’s largest online travel agency, says it expects second-quarter revenue growth to be the slowest in more than three years and warns of a “significant fine” from an ongoing antitrust probe by the country’s top market regulator. The company reported on Thursday that first-quarter 
-
-## Brazil eyes deeper China ties to boost green investments and aid low-carbon transition
-Brazil wants to deepen its cooperation with China and explore ways to expand financing solutions and scale-up green investments to accelerate the South American country’s transition to a low-carbon economy, Brazilian Finance Minister Dario Durigan said in Beijing on Thursday. “We must build long-ter
-
-## China’s Big Fund becomes SMIC’s third-largest shareholder after record Star Market buyout
-China’s state-backed Big Fund has become the third-largest shareholder of the Semiconductor Manufacturing International Corporation (SMIC), the country’s largest wafer foundry, after SMIC completed its acquisition of a manufacturing subsidiary in the largest merger and acquisition deal ever recorded
+Pak-Sun Ting, Co-founder and CEO of Votee AI, outlines how sovereign AI architecture and native language models are reshaping enterprise governance while bringing billions of underserved language speakers into the generative AI era. The AI revolution has a blind spot. While large language models (LL
 
 ## The Geopolitics of SpaceX and Elon Musk
 Should one company—and one person—have this much power?
@@ -177,6 +180,15 @@ Policymakers’ approach to automation won’t work for AI.
 ## Why Latin America’s New Right Will Struggle to Govern
 In Colombia and elsewhere, winning was the easy part.
 
+## An Overview of Corruption Investigations in the Philippines
+The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.
+
+## US Counterterrorism Aircraft Could Be Surprisingly Useful in a Taiwan War
+Some equipment central for the Global War on Terror could play important roles in a potential conflict against China.
+
+## ASEAN Membership for Timor-Leste
+Doors open, but structural risks remain.
+
 ## EU-Kazakhstan: Connectivity at the Core
 Amid Kazakhstan and the European Union's multifaceted relations, connectivity remains a throughline.
 
@@ -192,14 +204,8 @@ The continuous compromise of human rights standards by bodies like the United Na
 ## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
 Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
 
-## Australia’s Emerging Role in Climate-Tech Governance
-Melbourne has joined the Global Urban Data Centers Pact, to tackle the nexus between new technologies and climate change.
-
-## The Deepening of Australia-Indonesia Ties Yields Dividends With Fertilizer Shipment
-Tonnes of fertilizer are being unloaded in Brisbane for Australian farmers. It’s not a one-off deal but the product of consistent fertilizing of the relationship between Canberra and Jakarta.
-
-## Vietnam’s National Champions
-Risks and opportunities for foreign investors.
+## Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory
+To understand how close Myanmar’s pro-democracy resistance came to victory last year — and how far it has slipped since — there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven “Spring Revolution” a vivid foil t
 
 ## Open Strait, Unsettled Waters
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
@@ -221,9 +227,6 @@ Armies run on more than what happens at the front. Behind every operation is a v
 
 ## From Vietnam to Iran: Wartime Diplomacy and Secret Deals
 Wars rarely end in a single act of diplomacy. More often, they pass through a succession of ceasefires, frameworks, understandings, as well as provisional and even secret arrangements before anyone can determine whether peace is actually at hand. The Trump administration’s memorandum with Iran is be
-
-## Adapting to Uncertainty in the Strait of Hormuz
-Iran’s threats to shipping through the Strait of Hormuz — in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 — effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased restrictions, and s
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Oil prices climb after attack in Strait of Hormuz halts evacuation plan
-Brent crude rises after cargo ship comes under attack in key waterway.
+## Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
+Israeli and Lebanese delegations will continue their talks on Friday.
 
-## Marina Mabrey ties WNBA scoring record with 53 points; Tempo rout Sparks
-Toronto's Mabrey matches A'ja Wilson and Liz Cambage for the league's scoring record in 125-97 win for her team.
+## US ends deportation protections (TPS) for Haitians and Syrians
+The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).
 
-## Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners
-Netherlands top Group F with seven points and will face Morocco in the round of 32 in Monterrey on Monday.
+## Turkiye beat US with stoppage-time goal in World Cup dead rubber
+Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.
 
-## Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes
-Emergency crews are racing to rescue hundreds trapped under collapsed buildings after earthquakes struck Venezuela.
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
 
-## Ivory Coast coach Fae saddened by Schweinsteiger’s ‘African football’ jab
-Former German player's comments that 'African football' is ‘a bit unorthodox sometimes, a bit wild' sparked controversy.
+## Apple, Microsoft hike prices over surging chip costs
+Tech giants roll out steep price increases amid shortage of memory chips used to power AI.
 
-## Japan draw 1-1 with Sweden at World Cup to finish second in Group F
-Goals from Daizen Maeda and Anthony Elanga were enough to see both teams through to the Round of 32.
+## Australia reach World Cup knockouts after gritty draw with Paraguay
+The Socceroos finish second in Group D with four points and are through to the 2026 FIFA World Cup round of 32.
 
-## France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war
-France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.
+## Egypt coach offers support for Iranian team before crucial World Cup match
+Hossam Hassan invokes FIFA's 'respect and fair play' rules amid US restrictions on Iran, whom Egypt face in Seattle.
 
-## Who will control Africa’s AI infrastructure, and at what cost?
-Data centres and AI systems are expanding across Africa, bringing new pressure on energy and resources.
+## Satellite images show Venezuela’s La Guaira before and after twin quakes
+Satellite images compare Venezuela's coastal city of La Guaira before and after twin earthquakes struck.
+
+## Indian CFO Guide: Navigating in a Multipolar World
+As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
@@ -294,8 +300,11 @@ As corporate failures from Rajesh Exports to IL&FS expose recurring governance b
 ## Big Four firms' India operations shine amid global slump
 India's Big Four accounting firms have achieved remarkable growth, outperforming global peers in fiscal year 2026. PwC and Deloitte reported significant revenue increases, while KPMG and EY also saw substantial gains. Technology consulting is a major driver, contributing significantly to revenue acr
 
-## Parliament panel to review India's economy amid global turmoil and growth concerns
-A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
+## RBI opens term money market to AIFIs, housing finance companies
+The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. Prudential borrowing limits for primary dealers have also been significantly increased. These moves aim to deepen market participation and i
+
+## RBI draft directions open term money market to NBFCs, AIFIs and corporates to deepen liquidity
+RBI has proposed opening the term money market to NBFCs, AIFIs and corporates and raising borrowing flexibility for primary dealers, as the central bank seeks to deepen liquidity and broaden participation in India's short-term funding markets.
 
 ## RBI's dollar push puts bank treasury desks at the centre of funding strategy
 The Reserve Bank of India's recent measures to attract foreign currency inflows are placing treasury functions at the centre of banks' funding and balance sheet decisions, with lenders relying on treasury teams to manage foreign currency mobilisation, hedging, liquidity and deployment under the temp
@@ -312,9 +321,6 @@ The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wa
 ## Banks seek RBI clarity on leveraged NRI FCNR deposit structures
 Indian banks are seeking clarity from the RBI on allowing overseas branches to lend to non-residents for FCNR(B) deposits. Some lenders, like SBI, have already launched structured products enabling this, with deposits as collateral. Bankers hope for explicit regulatory comfort to boost NRI deposits 
 
-## PLI, duty incentives soon for Lithium, Nickel processing units in India
-India is poised to approve incentives, including production-linked benefits and import duty waivers on capital goods, to establish domestic lithium and nickel processing units. This strategic move aims to reduce reliance on overseas processors and bolster the nation's critical minerals ecosystem. Th
-
-## RBI MPC member Nagesh Kumar flags import dependence, Gulf remittances, El Nino risks in minutes
-India faces significant economic risks from the West Asia conflict, including potential disruptions to oil and fertilizer imports via the Strait of Hormuz and reduced remittances from the Gulf. El Niño-induced monsoon failures also pose a threat to agriculture. Despite these vulnerabilities, the nat
+## Parliament panel to review India's economy amid global turmoil and growth concerns
+A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
 
