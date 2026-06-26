@@ -1,64 +1,76 @@
 # AION Intelligence
 
-## Global markets fall as investors fret about AI demand
-Apple’s price rises and fears over delay to OpenAI’s IPO send Asian bourses sharply lower
+## US imposes sanctions on Rwanda gold refinery
+Operation accused over smuggling from mineral-rich DR Congo
+
+## How quickly should a battered Venezuela restructure its debt?
+After two devastating earthquakes, the country is trying to seal a quick deal with bondholders but some are concerned
+
+## UK government to subsidise bank loans for green home improvements
+Scheme aims to boost take-up by backing up to 20 per cent of loans for installation
+
+## German financial regulator probes Zalando over €1.1bn deal disclosure
+BaFin says fashion retailer may have failed to provide information on a transaction linked to About You acquisition
+
+## Atlanta Fed struggles to find new chief after Raphael Bostic’s departure
+Search committee has not identified a candidate to pitch to central bank’s Washington board of governors
+
+## Why poor countries won’t restructure
+Low-income countries are facing deeper shocks, but are refusing to restructure. Why?
+
+## Britain backs electricity storage projects as heatwave strains grid
+Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
+
+## Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
+Restructuring would remove close to one in six workers and rank among biggest corporate lay-offs of all time
+
+## Heathrow warns on global travel demand in wake of Iran conflict
+UK airport lowers passenger outlook as Middle East volatility weighs on traffic volumes
+
+## US tech stocks set for further declines on AI worries
+Apple’s price rises and fears over delay to OpenAI’s IPO add to concerns over high-flying sector
 
 ## The leadership change in US stocks
 A market seeking direction
 
-## DeepSeek plans hiring spree in escalation of China’s AI talent war
-Advertised roles suggest company focused on commercialising frontier research
+## India among Utah’s top priorities, says Governor Spencer Cox
+A trade mission to the country in works for next year, says Utah Governor
 
-## EU ministers set to curb Brussels’ powers over cross-border electricity grids
-Also in this newsletter: Europe’s top criminal networks hide behind legal businesses and carbon costs split member states
+## AllHome raises ₹200 crore Series B funding at ₹2,000 crore valuation
+The startup plans to use the funds to expand its technology platform, experience centres and manufacturing capabilities while scaling its building materials and interior products business
 
-## Brexit has made the UK more European, says Goldman Sachs
-In the ‘lacklustre GDP growth and weak inward investment’ sense, not the ‘café culture and egalitarian social values’ sense
+## Transrail Lighting wins ₹459 crore overseas orders, strengthens global order book
+The new wins have taken its annual order inflow to Rs 1,034 crore, while the company has also emerged as the lowest bidder for projects worth about Rs 400 crore.
 
-## FirstFT: UK higher-earners in crosshairs for job cuts
-Also in today’s newsletter: Burnham’s foreign policy and Italy’s election rules
+## Any global corporate strategy overlooking India risks missing defining growth story: Rajan Mittal
+Mittal says amid reshaping of global order, India stands out as rare bright spot of growth, stability
 
-## Outlook for Fed interest rates shifts in a hawkish direction
-Read the June forecast from the FT’s Monetary Policy Radar team
+## THE KEY TO THE VELVET ROPES: Away&Co has launched 'The Away&Co KEY'
+THE KEY TO THE VELVET ROPES: Away&Co has launched 'The Away&Co KEY'
 
-## The AI factory: the rewiring of India’s tech industry | FT Film
-Outsourced data services may not be enough for India to thrive in the AI era
+## MetaOptics Begins Shipment of Metalens Smartphone and AI Smart Glasses to European and Japanese Customers for Evaluation
+MetaOptics Begins Shipment of Metalens Smartphone and AI Smart Glasses to European and Japanese Customers for Evaluation
 
-## Rheinmetall gambled on Germany’s doomed warship project — and lost
-Arms company’s €15bn frigate blow tests faith among investors
+## Artelus wins Roche Drishti HealthTech Challenge
+Artelus wins Roche Drishti HealthTech Challenge
 
-## Binance to stop providing services to EU clients after failing to obtain licence
-World’s biggest crypto exchange tells customers how to withdraw their money as MiCA rules set to come into force
+## Fractal Appoints Leandro DalleMule as Chief Practice Officer, Financial Services & Insurance
+Fractal Appoints Leandro DalleMule as Chief Practice Officer, Financial Services & Insurance
 
-## Donald Trump Jr set for Kalshi windfall after prediction platform gave him stake
-Privately owned company’s valuation has soared as US administration has adopted a light-touch approach to the sector
+## Corporate India may avoid the worst of the Middle East crisis if US-Iran truce holds: Crisil
+Global market jitters over Middle East tensions have eased following a US-Iran ceasefire, improving the outlook for Indian corporate profitability. Crisil Ratings now anticipates a smaller 100-basis-point decline in operating margins for fiscal 2027, down from a previous 200-basis-point estimate. Wh
 
-## How JPMorgan became Jamie Dimon
-The 70-year-old is one of the longest-serving bosses in finance
+## Why India making its own bullet trains is a big deal - explained
+The trains that will run on India’s first bullet train corridor will be manufactured indigenously. And that will be a feat for India’s engineering capabilities. A Rs 866.87 crore contract has been awarded to BEML Limited by Integral Coach Factory (ICF) Chennai for manufacturing two prototype bullet 
 
-## Goldman Sachs raises India's CY26 GDP growth forecast to 6.8%, cuts inflation, CAD estimates
-Goldman Sachs raises its CY26 real GDP growth forecast for India by 0.3pp to 6.8% y-o-y, lowers headline inflation forecast by 0.2pp to 4.4% y-o-y and current account deficit forecast by 0.2pp to 1.1% of GDP
+## India's AI services revenue touches $12 billion as adoption moves beyond pilots: Nasscom
+India's tech sector is booming with AI, generating billions in revenue and moving projects from concept to reality. Industry leaders emphasize AI's role in creating new opportunities, not replacing jobs, by demanding expertise in orchestration, data, and security. This shift is projected to unlock a
 
-## Govt increases passport fees across categories from July 1
-Fresh passports, renewals and replacements, Tatkaal services and certificates become costlier under revised fee structure
+## Amid India-US trade deal talks, Trump admin’s fresh warning to world: ‘Old tariffs may return’
+The latest statements by Bessent indicate that the Donald Trump administration is looking at alternative ways to impose tariffs on its trading partners since the US Supreme Court has ruled reciprocal tariffs as illegal.
 
-## Jefferies says cheaper AI models to boost infrastructure demand; Favours memory chip makers
-Jefferies said GLM-5.2 delivers performance close to leading enterprise AI models at a much lower operating cost. Lower costs could encourage wider AI adoption across businesses.
-
-## India's banking sector set for re-rating, but loan growth may stay moderate: Report
-The report suggests that asset quality is not a concern in the near term, with both public and private banks expected to report lower slippages
-
-## ABS Marine Services secures ₹126 crore charter contract
-The contract has a firm charter tenure of 5 years from the date of mobilisation, with an option for extension of another 1,825 days at the charterer’s discretion
-
-## Gold: India swings to premium on price retreat; China demand muted
-Gold prices in India dropped to 140,543 rupees per 10 grams on Thursday, the lowest since March 27, following a decline in international spot gold prices
-
-## Cocaine production at all-time high, global drug trade booming, UN report reveals
-Crack cocaine use on the rise, particularly in Europe
-
-## Tata Motors ties up with UCO Bank for financing dealers
-Tie-up will provide working capital support to authorised dealers of passenger and electric vehicles.
+## Micron overtakes Meta in market value as AI boom fuels rally
+Micron Technology's market value soared, briefly surpassing Tesla and exceeding Meta, driven by a robust fourth-quarter forecast and significant AI sector exposure. Investors reacted positively to projected revenue and profit growth, alongside $22 billion in customer commitments for future chip supp
 
 ## Qatar crude enters Asian market again as Hormuz gets back to business
 The Strait of Hormuz is buzzing with activity as Qatar resumes crude oil exports to Asian refiners for the first time since the recent conflict. This resurgence in oil flows, alongside improved regional dynamics and ongoing US-Iran talks, signals a significant easing of tensions. Tanker movements ar
@@ -69,68 +81,68 @@ Trade negotiations between major economies are rarely linear. Domestic political
 ## How Venezuela’s strongest earthquake in a century could affect India’s crude oil imports
 India's growing crude oil imports from Venezuela face uncertainty after powerful earthquakes struck the South American nation. While major oil infrastructure appears largely undamaged, power grid issues and localized disruptions are being closely monitored. This comes as India has significantly incr
 
-## Forex measures yield results! FPIs buy record $4.2 billion Indian government bonds in June; reserves may get a boost
-The sharp rise in inflows follows a series of measures by the government and the Reserve Bank of India. According to reports, this is the highest monthly inflow into sovereign debt by a wide margin. The figure comfortably exceeds the previous record of Rs 22,005 crore recorded in August 2024.
+## Mahesh Dixit is India's first medical doctor turned Intelligence Chief
+Ranked number 35 in UPSC Civil Service Exam, Mahesh Dixit opted for IPS instead of much sought after IFS and IAS.
 
-## Scotch and gin get cheaper: India-UK trade deal kicks in July
-India and the UK are set to implement a landmark trade pact and a Double Contribution Convention on July 15, 2026. This comprehensive agreement promises significant benefits, including zero-duty access for nearly all Indian exports and enhanced services trade. It aims to boost bilateral trade to $12
+## 5 natural diamonds weighing 1.22 carats found in Chhattisgarh’s Mahasamund
+Officials said the exploration carried out this month included internationally accepted techniques such as stream sediment sampling
 
-## Crude oil stands at $75 as tankers head to Hormuz after four months of chaos
-Crude oil prices dipped Friday as tanker traffic through the Strait of Hormuz improved, easing supply disruption fears. This comes despite recent tensions after a cargo ship near Oman was struck, with Iran reportedly firing at the vessel. While geopolitical risks linger, oil shipments through the st
+## Six decades old & irreplaceable: Why Cheetah, Cheetal & Chetak continue to fly
+A May 20 crash in Ladakh has put India's oldest helicopters under scrutiny. But, for now, in Ladakh's high peaks, there is simply no substitute.
 
-## Indian basket crude prices return to pre-conflict levels
+## 'Aaditya has capability': Raut backs Uddhav Thackeray's son amid second Sena split in 4 years
+Sanjay Raut alleged that the six rebel MPs switched loyalties to the Eknath Shinde camp only for money, power and protection.
 
+## Centre proposes minimum 12-month shelf life rule for imported drugs
+Draft amendment proposes 12-month minimum shelf life for imported drugs, replacing the current 60% residual shelf-life requirement.
 
-## US won't abruptly deny AI access to India: Govt
+## 'False narrative' to arrest of Champat Rai's aide: How Ram Temple donations row escalated
+Opposition parties have amped up attack on the government on the donation issue, alleging that many valuables are now missing.
 
+## Champat Rai aide, ex-banker: Who are the 8 accused arrested in Ram Temple donation case
+Ram Shankar Yadav is one of the most prominent figures among the eight arrested in the Ram Temple donation embezzlement case.
 
-## Berlin's new Ganesha Temple is Europe's tallest: German envoy Philip Ackermann
-Te Ganesha Temple in Berlin's Neukolln opened on June 8. Located on the edge of the Hasenheide park it has a 17 meter high tower.
+## Nihang-police standoff at Himachal-Uttarakhand border: How a parking dispute has snowballed within days
+The standoff between the police and the Nihang Sikh group continued for hours and ended in the early hours on Friday after negotiations with authorities.
 
-## Names of 6 soldiers killed in action during Operation Sindoor made public for 1st time
-The newly revealed names indicate that the casualties during Operation Sindoor were spread across the Army and the Indian Air Force.
-
-## ‘Pushed’ him to death, screamed ‘help, help’: Siya’s first words after allegedly murdering Ketan
-Siya Goyal and her lover Chetan Chaudhary are prime suspects in Pune realtor Ketan Agarwal's murder case who died after falling from Pune's Lohagad fort.
-
-## Madras HC voids TN order on BCM reservation for people who converted to Islam
-The high court held that the state’s assumption that a convert could be issued a certificate showing membership of one of those communities was “legally and conceptually unsustainable”.
-
-## Ketan Agarwal murder: Inside the 640-minute offline strategy of Siya's ‘boyfriend’ Chetan that backfired
-Siya Goyal, 20, and Chetan Chaudhary, 22, are accused of killing Ketan Agarwal, a Pune realtor, during a trek at Lohagad Fort near Lonavala on June 18.
-
-## Indian envoy Mohan Kwatra discusses bilateral trade ties with US House panel
-The meeting comes against the backdrop of the negotiations between the two countries to finalise an interim bilateral trade agreement.
-
-## Indian captain faces 10 years in jail after UK raid on ‘Russian oil tanker’: What's the case?
-Ajay Pant was serving as the master of MV Smyrtos, a tanker that British authorities allege was part of Russia's so-called “shadow fleet”.
-
-## Siya Goyal and Chetan shift blame as Pune murder investigation continues
-Digital evidence suggests Siya Goyal and Chetan Chaudhary premeditated the murder of Ketan Agarwal, her fiancee, at Lohagad fort near Pune.
-
-## ‘No special ties with CM’: Karnataka BJP chief Vijayendra amid MLC poll row
+## Behind Asian markets tanking: Apple’s price hike, AI-driven chip shortage, and more
 
 
-## Airbag malfunction kills car dealer during vehicle inspection
+## Akshata Murty on growing up with grandparents, early memories of father: ‘This special person’
 
 
-## Russia reports one of the biggest Ukrainian drone attacks on its soil and annexed Crimea
+## Assam journalist who ‘defamed’ MLA gets bail from Gauhati High Court
 
 
-## Expired gear, missing records: 2 Mumbai, Thane blood centres shut over safety lapses
+## No major stars, no hype: Why Anand Pandit knew Haunted 3D Echoes of the Past would work
 
 
-## Darshan’s son Vineesh safe after Bengaluru road accident, wife says he wasn’t driving
+## Green and peeling: What to know about Trump’s ‘American Flag Blue’ Reflecting Pool
 
 
-## US Supreme Court hands Trump two major wins in immigrant-linked cases
+## Google announces new Finance app, expands portfolio tracking and market intelligence
 
 
-## ‘Don’t test Ram devotees’: Yogi on Ayodhya temple donation theft allegations
+## The Dilip Kumar film J Jayalalithaa, and every Bollywood heroine, turned down
 
 
-## Dealer ‘secretly’ repaired new Swift Dzire before delivery, buyer wins Rs 6.6 lakh refund
+## Ghaziabad family cremates son. 13 days later, a twist emerges
 
+
+## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
+Chinese sportswear maker Xtep International has opened Saucony’s first standalone store in Hong Kong, signalling the premium running brand will expand further, with the city positioned as a showcase market while the group’s core label is reserved for broader overseas growth. The outlet at K11 Art Ma
+
+## EV influx, US rare earth miners blacklisted, China-EU trade talks
+Chinese automakers will debut more than 150 electric vehicles in the second half of the year, even as the industry contends with slowing domestic demand, profit-destroying price wars and international complaints about overcapacity. BYD, Geely and other industry leaders will roll out multiple models 
+
+## China’s unicorns rise to 381 as ByteDance ranks in top 3 globally: Hurun index
+China is breeding a new generation of unicorns – start-ups currently valued at US$1 billion or more – at an accelerating pace, cementing its place alongside the United States in a major global index. The world’s second-largest economy saw 381 Chinese unicorns on the 2026 Hurun Global Unicorn Index, 
+
+## Indonesia set to issue US$1 billion in panda bonds in China
+Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of 
+
+## Hong Kong reports 36% rise in FDI inflows so far this year, InvestHK data shows
+US and European firms continued to expand their footprints in Hong Kong in the first half of the year, adding new momentum to the city’s role as a superconnector. A total of 413 companies either set up local entities or expanded their presence in Hong Kong in the first six months of 2026, representi
 
 ## Manulife Longevity Insight Forum: Empowering Quality Living and Independent Ageing in the Longevity Era
 [The content of this article has been produced by our advertising partner.] The inaugural Manulife Longevity Insight Forum in Hong Kong convened executives, academics and thought leaders to explore ways in which longer lives can come with quality, self-reliance and freedom from family dependence. Ho
@@ -141,20 +153,8 @@ Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers a
 ## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
 A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
-## Hang Seng Index heads for worst week in over a year as renewed sell-off engulfs tech names
-Stocks in Hong Kong and on mainland China tumbled on Friday, as a fresh bout of sell-offs in technology companies put the city’s equity benchmark on track for its worst weekly performance in more than a year. The Hang Seng Index fell 2.3 per cent to 22,538.65 at the noon break, heading for a 5.8 per
-
-## ‘Do or die’ for small carmakers: China market braces for 156 new models as price war looms
-A record 156 new models are expected to hit the Chinese automotive market in the second half of 2026, intensifying concerns about small players’ profitability as a new price war looms. The mass-market segment would see an influx of intelligent electric vehicles (EVs) priced at around 100,000 yuan (U
-
-## IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom
-Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. This piece, the second in a miniseries focusing on the city’s financial industry ahead of the handover anniversary, explores the likelihood of an “IPO Co
-
-## HKEX pushes deeper into index business as AI reshapes Hong Kong market
-Hong Kong Exchanges and Clearing (HKEX) is expanding into the index business with plans to launch more proprietary benchmarks and related investment products, as traditional market gauges have lagged regional peers during the artificial intelligence-driven technology rally. The operator of Hong Kong
-
-## Rewriting the Intelligence Map
-Pak-Sun Ting, Co-founder and CEO of Votee AI, outlines how sovereign AI architecture and native language models are reshaping enterprise governance while bringing billions of underserved language speakers into the generative AI era. The AI revolution has a blind spot. While large language models (LL
+## The United States Is Now a Guarantor of Last Resort
+The Gulf region has shown it’s ready to carry the diplomatic burden of managing Iran.
 
 ## The Geopolitics of SpaceX and Elon Musk
 Should one company—and one person—have this much power?
@@ -176,9 +176,6 @@ The best way for governments to save money is to stop wasting it on completely u
 
 ## This Industrial Revolution Is Not Like the Last One
 Policymakers’ approach to automation won’t work for AI.
-
-## Why Latin America’s New Right Will Struggle to Govern
-In Colombia and elsewhere, winning was the easy part.
 
 ## An Overview of Corruption Investigations in the Philippines
 The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.
@@ -204,6 +201,9 @@ The continuous compromise of human rights standards by bodies like the United Na
 ## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
 Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
 
+## The 2026 War on the Rocks Summer Fiction Reading List
+You can tell a lot about a person from what fiction they keep on their nightstand. Once a year, we make the staff, contributing editors, and show hosts of War on the Rocks tell on themselves.Kerry AndersonThe Midnight Library, Matt Haig (2020). Drawing on evergreen themes from books and movies such 
+
 ## Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory
 To understand how close Myanmar’s pro-democracy resistance came to victory last year — and how far it has slipped since — there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven “Spring Revolution” a vivid foil t
 
@@ -224,9 +224,6 @@ This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and 
 
 ## AI Agents and the Unseen Work of War
 Armies run on more than what happens at the front. Behind every operation is a vast amount of coordination, administration, logistics, and judgment. Bill Pessin, senior vice president of national security at Salesforce and a former U.S. Army logistics officer, joins Jonathan to discuss how military 
-
-## From Vietnam to Iran: Wartime Diplomacy and Secret Deals
-Wars rarely end in a single act of diplomacy. More often, they pass through a succession of ceasefires, frameworks, understandings, as well as provisional and even secret arrangements before anyone can determine whether peace is actually at hand. The Trump administration’s memorandum with Iran is be
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
-Israeli and Lebanese delegations will continue their talks on Friday.
+## Who has profited most from the war on Iran?
+Defence contractors, energy companies and investment banks saw profits soar as war and uncertainty upended markets.
 
-## US ends deportation protections (TPS) for Haitians and Syrians
-The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).
+## Baby pulled alive from rubble after Venezuela earthquake
+Baby pulled alive from rubble after Venezuela earthquake
 
-## Turkiye beat US with stoppage-time goal in World Cup dead rubber
-Kaan Ayhan scored the winner late in stoppage time as Turkiye handed the US their first defeat of 2026 FIFA World Cup.
+## Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid
+The drone attack is one of Kyiv's biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.
 
-## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
-The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
+## FIFA World Cup: Friday schedule, predictions, standings, knockout race
+World Cup knockout places are on the line as Groups G, H and I conclude, with fixtures, predictions, and standings.
 
-## Apple, Microsoft hike prices over surging chip costs
-Tech giants roll out steep price increases amid shortage of memory chips used to power AI.
+## Mother gives birth amid Venezuela earthquake devastation
+Mother gives birth amid Venezuela earthquake devastation
 
-## Australia reach World Cup knockouts after gritty draw with Paraguay
-The Socceroos finish second in Group D with four points and are through to the 2026 FIFA World Cup round of 32.
+## Venezuela earthquakes: Why is Caracas so vulnerable?
+Inadequate infrastructure in Caracas due to underfunding intensified destruction from the tremors.
 
-## Egypt coach offers support for Iranian team before crucial World Cup match
-Hossam Hassan invokes FIFA's 'respect and fair play' rules amid US restrictions on Iran, whom Egypt face in Seattle.
+## ‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?
+A nation used to cold, rainy weather is starting to discuss the value of overhauling its systems.
 
-## Satellite images show Venezuela’s La Guaira before and after twin quakes
-Satellite images compare Venezuela's coastal city of La Guaira before and after twin earthquakes struck.
+## ‘Affordability crisis’: How the Western housing crisis spiralled
+Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset?
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
