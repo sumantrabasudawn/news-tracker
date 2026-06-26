@@ -1,7 +1,31 @@
 # AION Intelligence
 
-## US tech stocks set for further declines on AI worries
-Apple’s price rises and fears over delay to OpenAI’s IPO add to concerns over high-flying sector
+## Small plane crashes into Beijing’s tallest building
+Debris seen falling from Citic Tower after propeller aircraft hit skyscraper in Chinese capital’s central business district
+
+## Apollo co-founder Leon Black faces US lawmakers over Epstein links
+Billionaire tells House oversight committee he had no involvement in late sex offender’s crimes
+
+## US tech stocks fall for fifth day in a row
+Nasdaq Composite on track for longest losing streak of 2026 amid worries about an overstretched rally in AI-related shares
+
+## Starmer commits at least £1bn more for defence
+Long-delayed plan set to be unveiled on Tuesday as prime minister tries to shore up his legacy
+
+## Thousands of foreign students made false qualification claims, says consultancy
+Qualification Check says many UK universities did not conduct detailed verification
+
+## The hole in British politics
+Andy Burnham must fix the widespread idea that government is not on our side
+
+## EU plans 15% tax on aluminium scrap exports
+Move by Brussels aims to protect domestic producers and prevent valuable metal heading to US and Asia
+
+## Andrew Tate fails in attempt to reveal identities of accusers
+The influencer and his brother face charges including rape but have yet to be extradited from Romania
+
+## UK tightens investment trust rules to close gaps exposed by Saba Capital
+Watchdog’s proposals may make it harder for activist investors to control listed closed-end companies
 
 ## Germany urges EU to suspend methane rules after US pressure
 Energy minister warns of risk to gas supplies if planned rules affecting imports come into force
@@ -12,50 +36,47 @@ People booking rooms during the day to work while others seek night-time respite
 ## Brussels launches antitrust probe into French drugmaker Sanofi
 Competition watchdog examining whether group implemented ‘misleading’ campaign against rival flu vaccine maker
 
-## Nick Clegg’s wife Miriam González registers new political party in Spain
-‘Democracia 21’ would campaign from the centre against governing Socialists and rightwing opposition
-
-## The stocks doing the earning are mostly not the stocks doing the rallying
-Alphaville’s half-year report on the US equity market
-
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
+## Unilever explores bid for $4bn supplement maker Thorne
+Dove soap maker seeks to boost health and wellness portfolio after spinning off food business
 
 ## Your summer holiday is a retirement killer
 The capitalised value of that all-inclusive fortnight will scare you
 
-## Unilever explores bid for $4bn supplement maker Thorne
-Dove soap maker seeks to boost health and wellness portfolio after spinning off food business
+## Pocket
 
-## Inheritance tax changes on UK pensions fuel surge in demand for annuities
-Increased rates add to attractiveness of regular income
 
-## US imposes sanctions on Rwanda gold refinery
-Operation accused over smuggling from mineral-rich DR Congo
+## Bengal to ‘scrap’ urban land ceiling Act to attract big ticket investment
+Bengal can witness the highest growth rates in India in the next four years, given an “enabling” framework provided by the government, said West Bengal Finance Minister
 
-## MFI sector’s portfolio quality is strengthening, liquidity is returning, says new chairperson of MFIN
-Gyan Mohan noted that microfinance has transformed millions of lives by placing financial opportunity in the hands of those who need it most - particularly women and underserved communities
+## Kolkata likely to host GST Council meeting next month
+Meeting likely to take up the next round of indirect tax policy reforms
 
-## Beyond ports and power, Adani is now selling organic fertilizers to farmers
-Waste-to-energy venture gives rise to a new farm-input-business as sales of ‘Harit Amrit’ brand of fertilisers expands across Uttar Pradesh, Madhya Pradesh & Gujarat
+## Mahindra Finance shifts revenue mix as alternative segments grow to 8.76%
+Income generated from other financial activities expanded significantly to fill the remaining 8.76% share, up from a baseline of 0.35% in the prior period
 
-## Engineering goods exports rise 24.48% in May to $12.31 billion
-Engineering products accounted for 27.2% of India’s total merchandise exports during the month, as per the government’s quick estimates
+## Centre initiates review of India’s approved basmati varieties
+To prune list of export-eligible aromatic rice strains, preserve brand identity of popular varieties
 
-## Pontaq Ventures, SIG Tattva, host manufacturing-tech founder workshop
-The workshop was attended by founders from eight selected deep-tech start-ups: Novorbis Itus, Kredily, Cairovision, mSense AI, Maxbyte Technologies, Presage Insights, Goat Robotics, and Borlaug Web Services
+## Health Ministry proposes two amendments involving drug imports
+The proposal sought to bring in ‘greater efficiency’ in the pharmaceutical supply chain, the Ministry saidAimed at facilitating research, and business, respectively
 
-## Thousands join Muharram processions in Kashmir
-Lieutenant Governor Manoj Sinha and Chief Minister Omar Abdullah joined the mourners at Zadibal.
+## UPERC denies permission to Noida Power to procure hybrid power
+The order reflects a subtle shift in regulatory thinking—from merely adding renewable capacity to ensuring adequate round-the-clock electricity supply as the share of intermittent renewable energy rises
 
-## Dvara KGFS Digital Services appoints Ramkumar Ratnam as CEO
-Ratnam has been associated with Dvara for the past 12 years most recently, as Chief Business Officer of Dvara KGFS
+## Tilaknagar Industries invests ₹2 crore more in Bartisans, raises stake to 41.45%
+Bartisans produces all-natural, ready-to-pour cocktail mixers across 17 flavours
 
-## IMC launches MSME Champions 2026 to recognise India’s emerging business leaders
-The first cohort includes MSMEs driving innovation in semiconductors, clean tech, healthcare, defence and advanced engineering
+## Uber India president Prabhjeet Singh steps down after over a decade with company
 
-## Middlemen offer Iranian oil to Indian refiners after US waiver, sources say
-On Monday, the United States waived sanctions on Iran ‌for 60 days after the first talks under a nascent peace deal, opening a narrow window for renewed energy ‌trade
+
+## US stock market today: AI stocks sink again, pulling Wall Street towards weekly loss
+Wall Street experienced a downturn Friday, primarily driven by a significant selloff in AI-linked stocks. This overshadowed gains in other sectors, pushing the S&P 500 towards its second weekly dip in three months. Investor concerns about earnings growth justifying AI stock valuations intensified, i
+
+## India-UK FTA must drive transformational growth, not just higher trade: Piyush Goyal
+Commerce and Industry Minister Piyush Goyal urged Indian and British businesses to aim for "transformational growth" with the upcoming Free Trade Agreement, effective July 15. He emphasized exploring partnerships to maximize opportunities beyond incremental gains. Goyal also highlighted the Double C
+
+## Watchdogs turn to AI: FINMA leads push to build cyber tools; US curbs hit Anthropic's Mythos
+Amid escalating cyber threats, financial regulatory bodies across the globe are increasingly leveraging AI. They are developing proprietary AI solutions to strengthen the oversight of banking and digital assets, acknowledging the necessity of keeping up with swiftly evolving risks. Moreover, interna
 
 ## India's forex reserves rise to $672.59 billion after gold holdings jump
 India's foreign exchange reserves saw a significant rebound, climbing by $963 million to $672.587 billion in the week ending June 19. This recovery was primarily driven by a substantial surge in gold reserves, which more than compensated for a dip in foreign currency assets. The overall reserves rev
@@ -69,17 +90,23 @@ India is set to boost Green Urea production with a new roadmap, aiming to procur
 ## US waives sanctions on Iranian crude: Here's why Indian refiners are still hesistant to buy it
 Indian refiners are unlikely to resume buying Iranian oil despite a temporary US waiver. Existing supply commitments, payment concerns, and the waiver's short duration mean most refiners have already secured other crude sources. While opportunistic purchases at steep discounts are possible, a signif
 
-## Corporate India may avoid the worst of the Middle East crisis if US-Iran truce holds: Crisil
-Global market jitters over Middle East tensions have eased following a US-Iran ceasefire, improving the outlook for Indian corporate profitability. Crisil Ratings now anticipates a smaller 100-basis-point decline in operating margins for fiscal 2027, down from a previous 200-basis-point estimate. Wh
+## HIV+ Bhopal man, arrested for murder, claims he forcibly sodomised 50 people: Cop
+The suspect said he had evaded law enforcement for so long because his victims, whom he targeted late at night on Bhopal’s streets, never filed police complaints against him.
 
-## Why India making its own bullet trains is a big deal - explained
-The trains that will run on India’s first bullet train corridor will be manufactured indigenously. And that will be a feat for India’s engineering capabilities. A Rs 866.87 crore contract has been awarded to BEML Limited by Integral Coach Factory (ICF) Chennai for manufacturing two prototype bullet 
+## Siya Goyal's lover Chetan ‘instigated’ her to kill her fiance Ketan Aggarwal, say cops in Pune fort murder case
+20-year-old Siya Goyal and 22-year-old Chetan Chaudhary, who were in a relationship, are accused of hatching a conspiracy to kill 25-year-old Ketan Aggarwal.
 
-## India's AI services revenue touches $12 billion as adoption moves beyond pilots: Nasscom
-India's tech sector is booming with AI, generating billions in revenue and moving projects from concept to reality. Industry leaders emphasize AI's role in creating new opportunities, not replacing jobs, by demanding expertise in orchestration, data, and security. This shift is projected to unlock a
+## 'Lord Ram will drive them out': Kejriwal jabs BJP amid Ayodhya temple donation ‘theft’ row
+Arvind Kejriwal appealed for a social boycott of those accused of their involvement in the alleged embezzlement of donations to the Ram Mandir in Ayodhya.
 
-## Amid India-US trade deal talks, Trump admin’s fresh warning to world: ‘Old tariffs may return’
-The latest statements by Bessent indicate that the Donald Trump administration is looking at alternative ways to impose tariffs on its trading partners since the US Supreme Court has ruled reciprocal tariffs as illegal.
+## Amid Ram Mandir row, UP deputy CM brings in Babri Masjid, madrasas: ‘Nobody asking…’
+UP deputy chief minister Brajesh Pathak questioned why no one was asking about the status of funds collected for the Babri Masjid in Ayodhya.
+
+## India sends army field hospital, rescue teams and relief materials to quake-hit Venezuela
+The assistance sent by India includes a field hospital unit of the Indian Army and more than 35 tonnes of relief supplies, medicines and medical equipment
+
+## Over 40 lakh devotees visit Char Dham; 201 health-related deaths reported: Officials
+Official data shows 201 pilgrims died due to health-related ailments as Char Dham footfall crossed the 4 million mark.
 
 ## Cheetals keep flying in Ladakh amid failure probe
 Indian Army's Cheetal helicopters are flying in Ladakh despite a recent crash investigation, aiming to replace aging fleets with new helicopters in coming years.
@@ -87,46 +114,28 @@ Indian Army's Cheetal helicopters are flying in Ladakh despite a recent crash in
 ## Filed charge sheet against 11 operatives of Bangladesh-based terror group: NIA
 The accused were arrested in Assam, Tripura and West Bengal for allegedly expanding the activities of JMB offshoot Imam Mahmuder Kafila.
 
-## After flying as weapons, eggs now land at centre of Bengal's mid-day meal row
-Eggs have been thrown at TMC leaders, and the party's internal battle has become entangled with the two stories around eggs or “non-veg”
-
-## 'Wig wasn't a secret': Ketan Agarwal's family on bizarre murder motive theory
-Siya Goyal allegedly disliked that Ketan Agarwal used to wear a wig, but police said this can't be called as the sole motive for the murder.
-
-## 'Long way to go': Marking 2 years as Leader of Opposition, Rahul Gandhi vows to keep fighting
-Rahul Gandhi marked two years as Leader of Opposition in the Lok Sabha on Friday, pledging to fight for social justice and defend the Constitution.
-
-## Union government to prioritise Kochi-like Goa Water Metro: Sarbananda Sonowal
-The project envisages connecting the state capital of Panaji on the banks of the River Mandovi to riverine towns and villages
-
-## SIR, Emergency in, 'secularism' out: Changes to Class 9 NCERT book spark row
-While SIR and Emergency are introduced, the definition of the word Preamble and words 'secular' and 'secularism' are no more part of the new Class 9 NCERT book.
-
-## Mahesh Dixit is India's first medical doctor turned Intelligence Chief
-Ranked number 35 in UPSC Civil Service Exam, Mahesh Dixit opted for IPS instead of much sought after IFS and IAS.
-
-## ‘When football unites, no right wing, no left wing’ – Stimac, ’98 Croatia hero
+## Juggling acts, knife throws, and a 90-minute spectacle: The circus comes to Delhi
 
 
-## Government says passport is not proof of citizenship. What is?
+## Inside Khushbu Sundar’s daughter’s star-studded wedding in Goa, see photos and videos
 
 
-## ‘I didn’t anticipate triplets’: Farah Khan on conceiving via IVF at 42
+## Bengaluru’s widest 320-foot Major Arterial Road to open tomorrow
 
 
-## Kai Trump gives rare White House tour; shows off Trump’s Oval office: ‘He loves gold’
+## No potato, onion & steep petrol: A Manipur district feels pinch of conflict
 
 
-## ‘Disaster’: SS Rajamouli reveals the pure terror and Rs 70 cr deficit behind Baahubali
+## Tucker Carlson tells Trump to ‘shut up’ over Iran threats: ‘Strong people don’t brag’
 
 
-## Shah Rukh Khan marks 34 years in cinema by revealing his shocking alternate career choice
+## More children isn’t the answer to delimitation, tax challenges
 
 
-## China plane crash: Aircraft hits CITIC Tower, debris falls from skyscraper | Videos
+## Rajinikanth’s colossal disaster forced him into hiatus, ‘destroyed’ Manisha Koirala’s career
 
 
-## Can Messi’s Argentina and Ronaldo’s Portugal meet in knockouts of World Cup?
+## Iran offers discounted crude to India after US sanctions waiver, refiners weigh return: Report
 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
@@ -177,6 +186,18 @@ With thousands of people missing, the death toll is expected to rise.
 ## The Quest for Nuclear Superiority Makes No Sense
 The best way for governments to save money is to stop wasting it on completely unnecessary weapons.
 
+## Taiwan to Build Chip and EV Factories in Poland Replacing China and the US
+In Poland's tech strategy, Taiwan is filling in for projects once envisioned for China and the U.S.
+
+## Pakistan Unveils Growth-centric Budget Amid Volatile Geopolitical Landscape
+The government expects the external account to remain stable in FY27, particularly via extended tax incentives for the IT sector, a rise in exports and workers' remittances.
+
+## Analyzing the Human Toll of Myanmar’s Civil War
+Su Mon Thant from ACLED talks about the military's mounting atrocities, and the Arakan Army's recent abuses against the Rohingya.
+
+## The Facade of the Thai Royalist Intellect
+Far from shoring up support for the Thai monarchy, the deployment of pseudo-academics and influencers is damaging the royalist cause.
+
 ## An Overview of Corruption Investigations in the Philippines
 The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.
 
@@ -189,23 +210,14 @@ Doors open, but structural risks remain.
 ## EU-Kazakhstan: Connectivity at the Core
 Amid Kazakhstan and the European Union's multifaceted relations, connectivity remains a throughline.
 
-## India’s Critical Mineral Challenge in a New Global Resource Order
-Mineral security is not just about access to resources but about control over value chains. India’s response must be strategic, not reactive.
-
-## The Political Risks Facing Washington’s New Ambassador to South Korea
-Michelle Steel arrives in Seoul at a moment when ethnic affinity and political polarization make diplomacy more complicated than ever.
-
-## The Mask of Engagement: How Fragmented International Interests Normalize Gender Apartheid in Afghanistan
-The continuous compromise of human rights standards by bodies like the United Nations provides the Taliban with the precise economic, political, and psychological lifelines required to sustain their autocracy.
-
-## Amid a Slowing Economy, China Is Changing How It Judges Local Party Leaders
-Longstanding metrics – particularly rapid GDP growth and infrastructural expansion – are no longer sufficient to sustain political legitimacy.
-
-## The 2026 War on the Rocks Summer Fiction Reading List
-You can tell a lot about a person from what fiction they keep on their nightstand. Once a year, we make the staff, contributing editors, and show hosts of War on the Rocks tell on themselves.Kerry AndersonThe Midnight Library, Matt Haig (2020). Drawing on evergreen themes from books and movies such 
+## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
+Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
 
 ## Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory
 To understand how close Myanmar’s pro-democracy resistance came to victory last year — and how far it has slipped since — there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven “Spring Revolution” a vivid foil t
+
+## The 2026 War on the Rocks Summer Fiction Reading List
+You can tell a lot about a person from what fiction they keep on their nightstand. Once a year, we make the staff, contributing editors, and show hosts of War on the Rocks tell on themselves.Kerry AndersonThe Midnight Library, Matt Haig (2020). Drawing on evergreen themes from books and movies such 
 
 ## Open Strait, Unsettled Waters
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
@@ -221,9 +233,6 @@ In 2024, Paul Scharre and Michael Depp wrote, “Artificial Intelligence and Nuc
 
 ## Designing Drones for Africa
 This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and chief engineer of Terra Industries, an African defense technology company building autonomous drone and counter-drone systems designed for the continent’s operating conditions. As cheap imported airframes flood African m
-
-## AI Agents and the Unseen Work of War
-Armies run on more than what happens at the front. Behind every operation is a vast amount of coordination, administration, logistics, and judgment. Bill Pessin, senior vice president of national security at Salesforce and a former U.S. Army logistics officer, joins Jonathan to discuss how military 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Which countries have pledged aid to Venezuela after powerful earthquakes?
-Countries in the Americas and beyond are sending aid, medical supplies and paramedics to Venezuela.
+## EU targets Somalia with visa curbs as president pushes back on returns
+President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.
 
-## Ukraine decimates Russian logistics, bringing chaos to Crimea
-Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.
+## Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
+A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.
 
-## The hands behind the beautiful game
-Pakistan's last hand-stitched football makers keep a fading craft alive as machines reshape the world's game.
+## Morocco jails 29, including politicians and sports figures, in drug trial
+Casablanca court delivers landmark verdict in 'Escobar of the Sahara' case: up to 12 years for top figures.
 
-## New synthetic drugs, cocaine and meth booming, warns UN
-A spike in potent synthetic drugs comes as manufacturers respond to geopolitical changes and look to increase profits.
+## Ex-Trump adviser Bolton pleads guilty in classified documents case
+This is a breaking news story.
 
-## Climate change the culprit for Europe’s ‘most severe’ heatwave: Report
-The extreme June temperatures would have been 'virtually impossible' 50 years ago, says World Weather Attribution group.
+## Iran slams the GCC and the US for ‘interventionist’ statement: What we know
+Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.
 
-## Venezuela earthquakes: What happens in the first 72 hours?
-Experts say the first three days following a serious quake often determine how many lives can still be saved.
+## South Korean court jails former first lady for seven years in bribery case
+Kim Keon Hee was sentenced for taking bribes including luxury items in return for political favours.
 
-## Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch
-Mohamed Salah's Egypt and Mehdi Taremi's Iran are both in the hunt for the FIFA World Cup knockouts in Group G.
+## Iraq’s new PM launches anticorruption campaign, but is it enough?
+Al-Zaidi campaign to combat corruption seizes $86m, properties, vehicles and gold. But analysts say he needs to do more.
 
-## Can Europe’s historic cities survive a warming climate?
-Heatwaves are forcing the continent to choose between preserving the past and adapting for the future.
+## New York’s primaries signal a new force in US politics
+Progressive, Muslim and Arab American candidates are challenging old limits on debate over Israel and Palestine.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
