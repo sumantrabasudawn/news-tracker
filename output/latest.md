@@ -1,61 +1,73 @@
 # AION Intelligence
 
-## US imposes sanctions on Rwanda gold refinery
-Operation accused over smuggling from mineral-rich DR Congo
-
-## How quickly should a battered Venezuela restructure its debt?
-After two devastating earthquakes, the country is trying to seal a quick deal with bondholders but some are concerned
-
-## UK government to subsidise bank loans for green home improvements
-Scheme aims to boost take-up by backing up to 20 per cent of loans for installation
-
-## German financial regulator probes Zalando over €1.1bn deal disclosure
-BaFin says fashion retailer may have failed to provide information on a transaction linked to About You acquisition
-
-## Atlanta Fed struggles to find new chief after Raphael Bostic’s departure
-Search committee has not identified a candidate to pitch to central bank’s Washington board of governors
-
-## Why poor countries won’t restructure
-Low-income countries are facing deeper shocks, but are refusing to restructure. Why?
-
-## Britain backs electricity storage projects as heatwave strains grid
-Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
-
-## Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
-Restructuring would remove close to one in six workers and rank among biggest corporate lay-offs of all time
-
-## Heathrow warns on global travel demand in wake of Iran conflict
-UK airport lowers passenger outlook as Middle East volatility weighs on traffic volumes
-
 ## US tech stocks set for further declines on AI worries
 Apple’s price rises and fears over delay to OpenAI’s IPO add to concerns over high-flying sector
 
-## The leadership change in US stocks
-A market seeking direction
+## Germany urges EU to suspend methane rules after US pressure
+Energy minister warns of risk to gas supplies if planned rules affecting imports come into force
 
-## India among Utah’s top priorities, says Governor Spencer Cox
-A trade mission to the country in works for next year, says Utah Governor
+## Parisians seek refuge from heatwave in air-conditioned hotels
+People booking rooms during the day to work while others seek night-time respite from stifling apartments
 
-## AllHome raises ₹200 crore Series B funding at ₹2,000 crore valuation
-The startup plans to use the funds to expand its technology platform, experience centres and manufacturing capabilities while scaling its building materials and interior products business
+## Brussels launches antitrust probe into French drugmaker Sanofi
+Competition watchdog examining whether group implemented ‘misleading’ campaign against rival flu vaccine maker
 
-## Transrail Lighting wins ₹459 crore overseas orders, strengthens global order book
-The new wins have taken its annual order inflow to Rs 1,034 crore, while the company has also emerged as the lowest bidder for projects worth about Rs 400 crore.
+## Nick Clegg’s wife Miriam González registers new political party in Spain
+‘Democracia 21’ would campaign from the centre against governing Socialists and rightwing opposition
 
-## Any global corporate strategy overlooking India risks missing defining growth story: Rajan Mittal
-Mittal says amid reshaping of global order, India stands out as rare bright spot of growth, stability
+## The stocks doing the earning are mostly not the stocks doing the rallying
+Alphaville’s half-year report on the US equity market
 
-## THE KEY TO THE VELVET ROPES: Away&Co has launched 'The Away&Co KEY'
-THE KEY TO THE VELVET ROPES: Away&Co has launched 'The Away&Co KEY'
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
 
-## MetaOptics Begins Shipment of Metalens Smartphone and AI Smart Glasses to European and Japanese Customers for Evaluation
-MetaOptics Begins Shipment of Metalens Smartphone and AI Smart Glasses to European and Japanese Customers for Evaluation
+## Your summer holiday is a retirement killer
+The capitalised value of that all-inclusive fortnight will scare you
 
-## Artelus wins Roche Drishti HealthTech Challenge
-Artelus wins Roche Drishti HealthTech Challenge
+## Unilever explores bid for $4bn supplement maker Thorne
+Dove soap maker seeks to boost health and wellness portfolio after spinning off food business
 
-## Fractal Appoints Leandro DalleMule as Chief Practice Officer, Financial Services & Insurance
-Fractal Appoints Leandro DalleMule as Chief Practice Officer, Financial Services & Insurance
+## Inheritance tax changes on UK pensions fuel surge in demand for annuities
+Increased rates add to attractiveness of regular income
+
+## US imposes sanctions on Rwanda gold refinery
+Operation accused over smuggling from mineral-rich DR Congo
+
+## MFI sector’s portfolio quality is strengthening, liquidity is returning, says new chairperson of MFIN
+Gyan Mohan noted that microfinance has transformed millions of lives by placing financial opportunity in the hands of those who need it most - particularly women and underserved communities
+
+## Beyond ports and power, Adani is now selling organic fertilizers to farmers
+Waste-to-energy venture gives rise to a new farm-input-business as sales of ‘Harit Amrit’ brand of fertilisers expands across Uttar Pradesh, Madhya Pradesh & Gujarat
+
+## Engineering goods exports rise 24.48% in May to $12.31 billion
+Engineering products accounted for 27.2% of India’s total merchandise exports during the month, as per the government’s quick estimates
+
+## Pontaq Ventures, SIG Tattva, host manufacturing-tech founder workshop
+The workshop was attended by founders from eight selected deep-tech start-ups: Novorbis Itus, Kredily, Cairovision, mSense AI, Maxbyte Technologies, Presage Insights, Goat Robotics, and Borlaug Web Services
+
+## Thousands join Muharram processions in Kashmir
+Lieutenant Governor Manoj Sinha and Chief Minister Omar Abdullah joined the mourners at Zadibal.
+
+## Dvara KGFS Digital Services appoints Ramkumar Ratnam as CEO
+Ratnam has been associated with Dvara for the past 12 years most recently, as Chief Business Officer of Dvara KGFS
+
+## IMC launches MSME Champions 2026 to recognise India’s emerging business leaders
+The first cohort includes MSMEs driving innovation in semiconductors, clean tech, healthcare, defence and advanced engineering
+
+## Middlemen offer Iranian oil to Indian refiners after US waiver, sources say
+On Monday, the United States waived sanctions on Iran ‌for 60 days after the first talks under a nascent peace deal, opening a narrow window for renewed energy ‌trade
+
+## India's forex reserves rise to $672.59 billion after gold holdings jump
+India's foreign exchange reserves saw a significant rebound, climbing by $963 million to $672.587 billion in the week ending June 19. This recovery was primarily driven by a substantial surge in gold reserves, which more than compensated for a dip in foreign currency assets. The overall reserves rev
+
+## Green urea push: Centre plans 7.24 lakh MT green ammonia procurement to reduce fertiliser imports
+India is set to boost Green Urea production with a new roadmap, aiming to procure 7.24 lakh metric tonnes of Green Ammonia annually under the National Green Hydrogen Mission. This initiative seeks to cut reliance on imported urea and decarbonize fertilizer manufacturing.
+
+## 8th Pay Commission: Will fitment factor stay close to 2.57? Why a cautious approach is expected
+8th Pay Commission: The fitment factor remains the most significant component of the pay revision process, as it is used to calculate revised salaries and pensions by applying a multiplier to the existing basic pay and pension.
+
+## US waives sanctions on Iranian crude: Here's why Indian refiners are still hesistant to buy it
+Indian refiners are unlikely to resume buying Iranian oil despite a temporary US waiver. Existing supply commitments, payment concerns, and the waiver's short duration mean most refiners have already secured other crude sources. While opportunistic purchases at steep discounts are possible, a signif
 
 ## Corporate India may avoid the worst of the Middle East crisis if US-Iran truce holds: Crisil
 Global market jitters over Middle East tensions have eased following a US-Iran ceasefire, improving the outlook for Indian corporate profitability. Crisil Ratings now anticipates a smaller 100-basis-point decline in operating margins for fiscal 2027, down from a previous 200-basis-point estimate. Wh
@@ -69,64 +81,52 @@ India's tech sector is booming with AI, generating billions in revenue and movin
 ## Amid India-US trade deal talks, Trump admin’s fresh warning to world: ‘Old tariffs may return’
 The latest statements by Bessent indicate that the Donald Trump administration is looking at alternative ways to impose tariffs on its trading partners since the US Supreme Court has ruled reciprocal tariffs as illegal.
 
-## Micron overtakes Meta in market value as AI boom fuels rally
-Micron Technology's market value soared, briefly surpassing Tesla and exceeding Meta, driven by a robust fourth-quarter forecast and significant AI sector exposure. Investors reacted positively to projected revenue and profit growth, alongside $22 billion in customer commitments for future chip supp
+## Cheetals keep flying in Ladakh amid failure probe
+Indian Army's Cheetal helicopters are flying in Ladakh despite a recent crash investigation, aiming to replace aging fleets with new helicopters in coming years.
 
-## Qatar crude enters Asian market again as Hormuz gets back to business
-The Strait of Hormuz is buzzing with activity as Qatar resumes crude oil exports to Asian refiners for the first time since the recent conflict. This resurgence in oil flows, alongside improved regional dynamics and ongoing US-Iran talks, signals a significant easing of tensions. Tanker movements ar
+## Filed charge sheet against 11 operatives of Bangladesh-based terror group: NIA
+The accused were arrested in Assam, Tripura and West Bengal for allegedly expanding the activities of JMB offshoot Imam Mahmuder Kafila.
 
-## Five times India and US disagreed on trade, but eventually found a way forward
-Trade negotiations between major economies are rarely linear. Domestic political pressures, competing economic interests and bureaucratic processes ensure that difficult issues are seldom resolved overnight.
+## After flying as weapons, eggs now land at centre of Bengal's mid-day meal row
+Eggs have been thrown at TMC leaders, and the party's internal battle has become entangled with the two stories around eggs or “non-veg”
 
-## How Venezuela’s strongest earthquake in a century could affect India’s crude oil imports
-India's growing crude oil imports from Venezuela face uncertainty after powerful earthquakes struck the South American nation. While major oil infrastructure appears largely undamaged, power grid issues and localized disruptions are being closely monitored. This comes as India has significantly incr
+## 'Wig wasn't a secret': Ketan Agarwal's family on bizarre murder motive theory
+Siya Goyal allegedly disliked that Ketan Agarwal used to wear a wig, but police said this can't be called as the sole motive for the murder.
+
+## 'Long way to go': Marking 2 years as Leader of Opposition, Rahul Gandhi vows to keep fighting
+Rahul Gandhi marked two years as Leader of Opposition in the Lok Sabha on Friday, pledging to fight for social justice and defend the Constitution.
+
+## Union government to prioritise Kochi-like Goa Water Metro: Sarbananda Sonowal
+The project envisages connecting the state capital of Panaji on the banks of the River Mandovi to riverine towns and villages
+
+## SIR, Emergency in, 'secularism' out: Changes to Class 9 NCERT book spark row
+While SIR and Emergency are introduced, the definition of the word Preamble and words 'secular' and 'secularism' are no more part of the new Class 9 NCERT book.
 
 ## Mahesh Dixit is India's first medical doctor turned Intelligence Chief
 Ranked number 35 in UPSC Civil Service Exam, Mahesh Dixit opted for IPS instead of much sought after IFS and IAS.
 
-## 5 natural diamonds weighing 1.22 carats found in Chhattisgarh’s Mahasamund
-Officials said the exploration carried out this month included internationally accepted techniques such as stream sediment sampling
-
-## Six decades old & irreplaceable: Why Cheetah, Cheetal & Chetak continue to fly
-A May 20 crash in Ladakh has put India's oldest helicopters under scrutiny. But, for now, in Ladakh's high peaks, there is simply no substitute.
-
-## 'Aaditya has capability': Raut backs Uddhav Thackeray's son amid second Sena split in 4 years
-Sanjay Raut alleged that the six rebel MPs switched loyalties to the Eknath Shinde camp only for money, power and protection.
-
-## Centre proposes minimum 12-month shelf life rule for imported drugs
-Draft amendment proposes 12-month minimum shelf life for imported drugs, replacing the current 60% residual shelf-life requirement.
-
-## 'False narrative' to arrest of Champat Rai's aide: How Ram Temple donations row escalated
-Opposition parties have amped up attack on the government on the donation issue, alleging that many valuables are now missing.
-
-## Champat Rai aide, ex-banker: Who are the 8 accused arrested in Ram Temple donation case
-Ram Shankar Yadav is one of the most prominent figures among the eight arrested in the Ram Temple donation embezzlement case.
-
-## Nihang-police standoff at Himachal-Uttarakhand border: How a parking dispute has snowballed within days
-The standoff between the police and the Nihang Sikh group continued for hours and ended in the early hours on Friday after negotiations with authorities.
-
-## Behind Asian markets tanking: Apple’s price hike, AI-driven chip shortage, and more
+## ‘When football unites, no right wing, no left wing’ – Stimac, ’98 Croatia hero
 
 
-## Akshata Murty on growing up with grandparents, early memories of father: ‘This special person’
+## Government says passport is not proof of citizenship. What is?
 
 
-## Assam journalist who ‘defamed’ MLA gets bail from Gauhati High Court
+## ‘I didn’t anticipate triplets’: Farah Khan on conceiving via IVF at 42
 
 
-## No major stars, no hype: Why Anand Pandit knew Haunted 3D Echoes of the Past would work
+## Kai Trump gives rare White House tour; shows off Trump’s Oval office: ‘He loves gold’
 
 
-## Green and peeling: What to know about Trump’s ‘American Flag Blue’ Reflecting Pool
+## ‘Disaster’: SS Rajamouli reveals the pure terror and Rs 70 cr deficit behind Baahubali
 
 
-## Google announces new Finance app, expands portfolio tracking and market intelligence
+## Shah Rukh Khan marks 34 years in cinema by revealing his shocking alternate career choice
 
 
-## The Dilip Kumar film J Jayalalithaa, and every Bollywood heroine, turned down
+## China plane crash: Aircraft hits CITIC Tower, debris falls from skyscraper | Videos
 
 
-## Ghaziabad family cremates son. 13 days later, a twist emerges
+## Can Messi’s Argentina and Ronaldo’s Portugal meet in knockouts of World Cup?
 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
@@ -153,6 +153,9 @@ Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers a
 ## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
 A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
+## Colombia Swings to the Right
+It’s the latest Latin American country to elect a Trump-backed leader.
+
 ## The United States Is Now a Guarantor of Last Resort
 The Gulf region has shown it’s ready to carry the diplomatic burden of managing Iran.
 
@@ -173,9 +176,6 @@ With thousands of people missing, the death toll is expected to rise.
 
 ## The Quest for Nuclear Superiority Makes No Sense
 The best way for governments to save money is to stop wasting it on completely unnecessary weapons.
-
-## This Industrial Revolution Is Not Like the Last One
-Policymakers’ approach to automation won’t work for AI.
 
 ## An Overview of Corruption Investigations in the Philippines
 The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Who has profited most from the war on Iran?
-Defence contractors, energy companies and investment banks saw profits soar as war and uncertainty upended markets.
+## Which countries have pledged aid to Venezuela after powerful earthquakes?
+Countries in the Americas and beyond are sending aid, medical supplies and paramedics to Venezuela.
 
-## Baby pulled alive from rubble after Venezuela earthquake
-Baby pulled alive from rubble after Venezuela earthquake
+## Ukraine decimates Russian logistics, bringing chaos to Crimea
+Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.
 
-## Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid
-The drone attack is one of Kyiv's biggest of the war, sustaining pressure on Russia as it struggles with fuel shortages.
+## The hands behind the beautiful game
+Pakistan's last hand-stitched football makers keep a fading craft alive as machines reshape the world's game.
 
-## FIFA World Cup: Friday schedule, predictions, standings, knockout race
-World Cup knockout places are on the line as Groups G, H and I conclude, with fixtures, predictions, and standings.
+## New synthetic drugs, cocaine and meth booming, warns UN
+A spike in potent synthetic drugs comes as manufacturers respond to geopolitical changes and look to increase profits.
 
-## Mother gives birth amid Venezuela earthquake devastation
-Mother gives birth amid Venezuela earthquake devastation
+## Climate change the culprit for Europe’s ‘most severe’ heatwave: Report
+The extreme June temperatures would have been 'virtually impossible' 50 years ago, says World Weather Attribution group.
 
-## Venezuela earthquakes: Why is Caracas so vulnerable?
-Inadequate infrastructure in Caracas due to underfunding intensified destruction from the tremors.
+## Venezuela earthquakes: What happens in the first 72 hours?
+Experts say the first three days following a serious quake often determine how many lives can still be saved.
 
-## ‘London cooking’: Why can’t the UK cope with the heat; when will it adapt?
-A nation used to cold, rainy weather is starting to discuss the value of overhauling its systems.
+## Egypt vs Iran at World Cup 2026 – Salah, prediction, lineups, how to watch
+Mohamed Salah's Egypt and Mehdi Taremi's Iran are both in the hunt for the FIFA World Cup knockouts in Group G.
 
-## ‘Affordability crisis’: How the Western housing crisis spiralled
-Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset?
+## Can Europe’s historic cities survive a warming climate?
+Heatwaves are forcing the continent to choose between preserving the past and adapting for the future.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
@@ -297,6 +297,12 @@ As corporate failures from Rajesh Exports to IL&FS expose recurring governance b
 ## Big Four firms' India operations shine amid global slump
 India's Big Four accounting firms have achieved remarkable growth, outperforming global peers in fiscal year 2026. PwC and Deloitte reported significant revenue increases, while KPMG and EY also saw substantial gains. Technology consulting is a major driver, contributing significantly to revenue acr
 
+## Eighth Pay Panel may stay cautious on fitment factor
+While the Commission hasn't yet finalised its recommendations, early discussions suggest that the fitment factor could remain close to the 2.57 multiplier adopted by the Seventh Pay Commission, even as employee unions continue to push for a higher revision.
+
+## RBI issues final norms to expand credit derivatives market, allows wider CDS use
+The Reserve Bank of India (RBI) has issued the final directions for expanding the country's credit derivatives market, paving the way for wider use of instruments such as Credit Default Swaps (CDS) and total return swaps, as per a statement by the apex bank on Thursday.
+
 ## RBI opens term money market to AIFIs, housing finance companies
 The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. Prudential borrowing limits for primary dealers have also been significantly increased. These moves aim to deepen market participation and i
 
@@ -314,10 +320,4 @@ The Reserve Bank of India has updated foreign exchange exposure rules for banks.
 
 ## 'Gulf uncertainty prompted RBI wait and watch policy'
 The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
-
-## Banks seek RBI clarity on leveraged NRI FCNR deposit structures
-Indian banks are seeking clarity from the RBI on allowing overseas branches to lend to non-residents for FCNR(B) deposits. Some lenders, like SBI, have already launched structured products enabling this, with deposits as collateral. Bankers hope for explicit regulatory comfort to boost NRI deposits 
-
-## Parliament panel to review India's economy amid global turmoil and growth concerns
-A key parliamentary panel is launching a deep dive into India's economic landscape, responding to global uncertainties like geopolitical conflicts and trade disruptions. This review, set for 2025-26, will examine growth, inflation, employment, and more, seeking insights from the Finance Ministry, RB
 
