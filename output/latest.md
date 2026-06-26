@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Venezuelans search for survivors after devastating earthquakes
+Officials put death toll at 188 but expect it to climb as victims are dug out of the rubble
+
+## Noel Tata: How we made fashion one of our biggest businesses
+Noel Tata and P Venkatesalu on the fast-growing retail chain you have likely never heard of
+
 ## Attack in Strait of Hormuz halts evacuation plan for stranded ships
 International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+
+## Will strongman general’s push for US-Iran peace pay off for Pakistan?
+Islamabad elites are pinning their hopes on an agreement that could unlock financial support
+
+## Trump administration asks OpenAI to stagger release of new model to vet users
+The US Treasury, commerce department and other government offices request limited distribution of GPT 5.6
+
+## Dimon upends succession race at JPMorgan again
+Longtime lieutenant Marianne Lake recently informed she was no longer a CEO contender as new top deputies are named
 
 ## Starmer locked in stand-off with Mahmood over her push to sack migration minister
 Home secretary wants Mike Tapp dismissed after calling for care workers to be exempt from tough immigration controls
 
 ## Trump’s tests of the US justice system
 For the time being, it is just about holding
-
-## FirstFT: Sanae Takaichi sets out Japan’s $2.3tn investment roadmap
-Also in today’s newsletter: attack in Strait of Hormuz halts evacuation plan and Jamie Dimon promotes two potential successors
-
-## India’s indigenous drone makers see orders surge for weaponised UAVs
-Conflict in Iran pushes New Delhi to focus on domestic defence supply chains
-
-## Apple increases MacBook and iPad prices by 20%
-iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage
-
-## Micron shares jump as blockbuster results spark Wall Street tech shake-up
-Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
-
-## Micron posts 15-fold profit surge in boost for global AI stocks
-Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
 
 ## FT Legal Outlook
 We look at how the industry is shaping its future in response to upheaval on many fronts — from AI to new types of law firm. Plus: the inaugural FT Law 50 listing of influential individuals
@@ -33,14 +33,8 @@ Interest in a model that separates legal casework from other operations exploded
 ## Legal sector can use psychology to beat fear of AI
 Understanding the feelings that get in the way of embracing tech is important
 
-## Wall Street law firms ponder fresh era of insider trading risks
-Alleged illegal misuse of private deals information at elite law firms has shaken many
-
-## In-house lawyers aim to shed the grind, not the people
-Legal teams find that AI opens up opportunities on top of shouldering repetitive drudge work
-
-## Law firms look for clear gains from AI
-Despite increased spending on legal tech, barriers to its full embrace remain
+## Battle over Basmati rice GI for Madhya Pradesh heats up
+The All-India Rice Exporters Association has opposed expansion of the notified growing regions
 
 ## I talk to paneer and milk”, says the man behind Milky Mist’s incredible dairy journey
 
@@ -63,8 +57,8 @@ The July contract is likely to fall to ₹340
 ## Profit booking trims gains; Nifty ends flat after 200-point swing from day's high
 BSE Sensex closed at 77,100.47, up 109.25 points or 0.14 per cent, while the NSE Nifty 50 settled at 24,056, gaining 34.35 points or 0.14 per cent
 
-## ‘MSMEs struggle to retain skilled workers as talent, compliance and AI challenges mount’
-Retention, skill gaps emerge as key concerns, say experts
+## Crude oil stands at $75 as tankers head to Hormuz after four months of chaos
+Crude oil prices dipped Friday as tanker traffic through the Strait of Hormuz improved, easing supply disruption fears. This comes despite recent tensions after a cargo ship near Oman was struck, with Iran reportedly firing at the vessel. While geopolitical risks linger, oil shipments through the st
 
 ## Indian basket crude prices return to pre-conflict levels
 
@@ -87,56 +81,56 @@ A bold gamble on high-bandwidth memory (HBM) chips has propelled SK Hynix to the
 ## Centre eases BIS quality compliance with new risk-based framework for manufacturers
 The government has launched a new risk-based approach to simplify quality control compliance for industries. This allows eligible manufacturers to use a streamlined certification process, easing concerns over Bureau of Indian Standards (BIS) certification hurdles. The move aims to boost domestic man
 
-## Rupee gains 10 paise as softer crude, firm equities lift sentiment
-The Indian rupee saw a modest gain of 10 paise, closing at 94.45 against the US dollar on Thursday. This appreciation was fueled by falling global crude oil prices and a stronger domestic stock market. However, foreign fund outflows prevented a more significant rise. The currency is expected to trad
+## India to resume regular visa operations in Bangladesh
+The move comes following Indian High Commissioner Dinesh Trivedi's visit to Dhaka, reversing the 2024 limits imposed due to protests against Sheikh Hasina
 
-## Delhi govt orders action against Fortis after probe flags patient care lapses; hospital assures full cooperation
-The order comes after allegations that a stabbing victim was denied timely treatment and was asked to deposit money before treatment could begin.
+## NCERT Class 9 book adds Emergency, drops Preamble and Secularism
+The changes have reignited a political battle between the Bharatiya Janata Party (BJP) and the Congress.
 
-## ‘Happy birthday, please resign’: Abhijeet Dipke’s wish to Dharmendra Pradhan comes with a gift | Watch
-In a video, Dipke is seen writing on a whiteboard, “Happy Birthday, Pradhan. Please resign,” while supporters sing the birthday song in the background.
+## Odisha Pocso court awards father 20 years imprisonment for raping minor daughter
+According to the prosecution, the abuse began in 2017 when the minor, then about 12, was staying at her maternal uncle’s house in Jajpur district while her parents visited periodically
 
-## Senior IPS officer Mahesh Dixit appointed new Intelligence Bureau chief, to succeed Tapan Deka
-An officer of the Andhra Pradesh cadre, Mahesh Dixit is currently a special director in the IB and was overseeing important operations in various sectors.
+## Indian Army’s Cheetal helicopters keep flying in Ladakh amid failure probe
+Investigators are examining a suspected technical failure that caused a recent Cheetal helicopters crash, officials aware of the development said.
 
-## India begins scaling up visa services in Bangladesh
-Tourist visa applications from Bangladesh will resume on June 28 as India reopens visa centres and restores normal visa operations.
+## Those who target schools, children with impunity must be held into account: India tells UNSC
+The UN's latest report on "Children and armed conflict" said that in 2025, violations against children in armed conflict reached “shocking levels.”
 
-## Siya's family breaks silence on Ketan's murder: ‘Push the guilty off same fort, even if it’s my own daughter'
-Siya Goyal’s mother described Ketan as a very good boy and said her daughter should be given the strictest punishment if she is found guilty.
+## Who is Mahesh Dixit? Doctor-turned-IPS officer to now head Intelligence Bureau
+Dixit succeeds Tapan Deka, and will take over after the latter's extended tenure ends on June 30.
 
-## Row over Maharashtra MLA Sana Malik's remark on polygamy: ‘If its implemented in Pakistan…’
-The controversy stems from a debate held on Tuesday on atrocities faced by Muslim women due to the triple talaq practise.
+## B’luru triple murder unplanned, say police
+In Bengaluru, investigators reveal a mother was initially the target of a murder plot by her daughter Shwetha and partner Kenneth, leading to two additional killings.
 
-## Sonam Wangchuk warns of hunger strike on June 28 over education, Ladakh demands
-Sonam Wangchuk has publicly been supporting the CJP movement and took part in some of its protests at Jantar Mantar in Delhi.
+## Ram temple donation row: FIR against 8 on Trust’s complaint days after SIT’s preliminary report
+Senior police officials said the FIR names Rama Shankar Yadav alias Tinnu, described as a close aide of Trust general secretary Champat Rai.
 
-## Hub-and-spoke model launched from Varanasi; 6 more airports to join in 6 weeks
-Civil aviation minister Ram Mohan Naidu said six more airports would be brought under the hub-and-spoke model over the next six weeks
-
-## UP Congress sharpens OBC-Dalit pitch, announces to launch ‘Bahujan Vichar’ campaign
+## World Cup 2026 Round of 32 Schedule: Brazil vs Japan, ARG await knockout opponents
 
 
-## Gujarat HC dismisses plea on ‘ASI survey’ of Somnath Temple, imposes Rs 2 lakh costs on petitioner
+## What is OpenAI and Broadcom’s ‘Jalapeño’ AI chip, and why does it matter?
 
 
-## Kolkata warehouse collapse: Among the dead, a teen’s first trip to city, a migrant from Bihar
+## Youngest Indian debutants in Test, ODI & T20I: Full List as Sooryavanshi chases Tendulkar’s record
 
 
-## How many are still trapped in rubble? No clarity as contractors didn’t maintain logbook of labourers
+## The one thing Drogba never achieved. Pepe did it in the 64th minute.
 
 
-## Congress, Left urge Centre to withdraw amended FCRA rules
+## Banned amid Emergency, Dara Singh’s film released with Sanjay Gandhi’s help, lost Rs 10 cr
 
 
-## How AI-based system is expected to make AQI forecast sharper in Delhi
+## ‘I was so angry and jealous’: Sonali Kulkarni on when Tabu won National Award for Maachis
 
 
-## Stricter action on toll tax evasion as MCD gears up for barrier-free entry to Delhi
+## Gram Chikitsalay Season 2 is easy to love. It is also afraid of its own story
 
 
-## Delhi CM Rekha Gupta orders inquiry after ‘negligence’ complaint over patient’s death at Fortis
+## What Norway took to USA for World Cup: 400kg fish, 180kg cheese and 3 chefs
 
+
+## ‘Do or die’ for small carmakers: China market braces for 156 new models as price war looms
+A record 156 new models are expected to hit the Chinese automotive market in the second half of 2026, intensifying concerns about small players’ profitability as a new price war looms. The mass-market segment would see an influx of intelligent electric vehicles (EVs) priced at around 100,000 yuan (U
 
 ## IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom
 Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. This piece, the second in a miniseries focusing on the city’s financial industry ahead of the handover anniversary, explores the likelihood of an “IPO Co
@@ -158,9 +152,6 @@ Brazil wants to deepen its cooperation with China and explore ways to expand fin
 
 ## China’s Big Fund becomes SMIC’s third-largest shareholder after record Star Market buyout
 China’s state-backed Big Fund has become the third-largest shareholder of the Semiconductor Manufacturing International Corporation (SMIC), the country’s largest wafer foundry, after SMIC completed its acquisition of a manufacturing subsidiary in the largest merger and acquisition deal ever recorded
-
-## Bank of China used disguised mutual funds to avoid paying US$348m in taxes, audit finds
-China’s top auditor has accused one of the country’s biggest state-owned banks of exploiting investment fund structures to evade billions of yuan in taxes, as Beijing steps up efforts to strengthen financial compliance. Bank of China evaded 2.37 billion yuan (US$348 million) in taxes by misusing pre
 
 ## The Geopolitics of SpaceX and Elon Musk
 Should one company—and one person—have this much power?
@@ -258,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN: Venezuela earthquakes will deepen already severe humanitarian crisis
-The UN says it is scaling up its response after twin earthquakes devastated Venezuela.
+## Oil prices climb after attack in Strait of Hormuz halts evacuation plan
+Brent crude rises after cargo ship comes under attack in key waterway.
 
-## India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid
-Shafali Verma's half-century helps the 50-over world champions reach the target inside 17 overs at Old Trafford.
+## Marina Mabrey ties WNBA scoring record with 53 points; Tempo rout Sparks
+Toronto's Mabrey matches A'ja Wilson and Liz Cambage for the league's scoring record in 125-97 win for her team.
 
-## Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup
-The West Africans will face the second-place finisher between France and Norway in Group I on Tuesday in Texas.
+## Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners
+Netherlands top Group F with seven points and will face Morocco in the round of 32 in Monterrey on Monday.
 
-## Ecuador edge Germany 2-1 to squeeze into World Cup last 32
-Germany finish top of Group E, with Ivory Coast second and Ecuador will have a chance of qualifying on third place.
+## Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes
+Emergency crews are racing to rescue hundreds trapped under collapsed buildings after earthquakes struck Venezuela.
 
-## Venezuela earthquakes live: At least 188 dead as rescue efforts intensify
-Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes.
+## Ivory Coast coach Fae saddened by Schweinsteiger’s ‘African football’ jab
+Former German player's comments that 'African football' is ‘a bit unorthodox sometimes, a bit wild' sparked controversy.
 
-## WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat
-Both players were on the floor when Thomas pushed her fist into Clark's throat before getting up and stepping over her.
+## Japan draw 1-1 with Sweden at World Cup to finish second in Group F
+Goals from Daizen Maeda and Anthony Elanga were enough to see both teams through to the Round of 32.
 
-## Venezuela rescue teams race to find earthquake survivors
-Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday.
+## France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war
+France seizes fifth Russian ‘shadow fleet’ tanker linked to funding Ukraine war.
 
-## Economic losses mount as Venezuela earthquake death toll grows
-Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP.
+## Who will control Africa’s AI infrastructure, and at what cost?
+Data centres and AI systems are expanding across Africa, bringing new pressure on energy and resources.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
