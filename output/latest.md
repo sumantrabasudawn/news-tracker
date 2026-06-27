@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US launches strikes on Iran after Tehran attacks container ship
+Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+
 ## US insurance rulemaker suspends investment risk designations after cyber attack
 Ratings help determine how much capital insurers must have to meet obligations to policyholders
 
@@ -33,29 +36,32 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
-## Ashok Vaswani to step down as Kotak Mahindra’s chief after current term in December 2026
-“The Board of the bank has at its meeting held today, respected his decision and has initiated the process for the appointment of a new Managing Director & CEO”
+## Bond traders stunned as losses on SpaceX’s new debt keeps growing
+The longest-dated SpaceX bonds, which drew more skepticism than those with shorter maturities, have effectively erased all the tightening from underwriters that followed as orders swelled to nearly $90 billion
 
-## Veligonda Irrigation Project: AP CM Naidu disburses ₹300 crore under R&R package
-The Government of India had given Rs ₹980 crore
+## Shipping Secretary lays foundation stones for 2 projects at NMPA
+The covered storage shed inside wharf will provide modern covered storage facilities for bulk and break-bulk cargo and significantly enhance cargo handling capacity and trade competitiveness
 
-## ‘These tactics won’t work in India’: Amit Shah says Bharat Taxi will take on private ride-hailing giants
-Union minister for cooperatives said the zero-commission platform will end exploitation by ride-hailing aggregators; claims predatory pricing by rivals won’t derail expansion plans
+## Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi
+United States Geological Survey says the quake hit 43 km south of Jurm in northeastern Afghanistan
 
 ## From milk truck to IPO: The story behind Milky Mist’s rise
 How Milky Mist built a dairy empire from Erode.
 
-## FSSAI sends notice to SAJ Food over misleading claims
-According to FSSAI, the complaint alleged that the product’s front label claimed “100% Atta,” while the ingredients list reportedly mentioned only 72.33% atta
+## China’s cheap but efficient AI models threaten major US players: Jefferies flags investment risks
+Jefferies says Anthropic’s revenue growth could slow down ahead of its planned IPO
 
-## Persistent Systems to acquire Nagarro, creating $2.9 billion AI-led digital engineering giant
-The merger would form a $2.9 billion AI-driven engineering powerhouse with over 46,000 employees in 40+ countries
+## Amit Shah orders district-wide survey to identify villages lacking basic amenities in Gandhinagar
+Gandhinagar MP asks officials to map gaps in LPG, drinking water, toilets, irrigation and electricity coverage as Centre pushes for saturation of welfare schemes
 
-## Adon Agro Commodities to raise ₹44 cr via IPO
-Issue to open for subscription on June 29
+## MSMEs should not aspire to remain small forever, says Elgi Equipments chief
+Jairam Varadaraj calls for innovation, purpose-led growth
 
-## Centre to launch affordable cloud-based hospital management system for small clinics on June 29
-The initiative addresses concerns that costly and complex hospital management software is forcing smaller healthcare facilities to rely on manual processes
+## Veligonda Irrigation Project: CM Naidu disburses ₹300 crore under R&R package
+The CM said the NDA government in the State was spending ₹900 crore as part of the R&R for those who got displaced because of the project and ₹3,000 crore for the construction of the project
+
+## Firm moved to a new GST jurisdiction? CBIC issues clarity on how pending cases will be handled
+Businesses relocating their primary operations to a new GST jurisdiction will now find that ongoing tax proceedings will seamlessly transfer. The Central Board of Indirect Taxes and Customs (CBIC) has clarified that the new tax authority will pick up cases from where they were left off, ensuring con
 
 ## China's industrial profit growth slows for first time in 6 months as weak domestic demand bites
 China's industrial profit growth saw a dip in May, despite robust exports and rising factory prices. This slowdown, the first in six months, highlights persistent weak domestic demand and sluggish investment. While global AI trends and energy market disruptions offered some support, they weren't eno
@@ -78,55 +84,52 @@ Despite India's advanced digital payments, millions of small businesses struggle
 ## 'Target Indians': NZ foreign minister alleges ‘covert’ immigration changes under FTA
 New Zealand's Foreign Minister Winston Peters has accused the government of covertly introducing discriminatory immigration rules targeting Indian citizens under the new Free Trade Agreement. He claims these changes, including stricter visa tests and residency requirements, were deliberately kept fr
 
-## Explained: How India’s transition from WPI to PPI will strengthen inflation measurement - what it means for policy making
-PPI captures the prices relevant for the production process without being complicated by inclusion of indirect taxes net of subsidies or wholesalers’ margins.
+## Delhi Police arrest alleged ₹18 crore bank fraudster after 9 years on the run
+Police said Dixit had been absconding since 2017 after escaping custody of Uttar Pradesh Police and was later declared a proclaimed offender by a Delhi court.
 
-## Three suspects detained in the Maharashtra TET 2026 question paper sale case
-The Maharashtra TET 2026 exam, scheduled for June 28, was postponed earlier in the day due to an alleged leak.
+## Rahul Gandhi urges Congress leaders to back ‘Chhatron Ki Goonj’ drive
+The appeal comes after Congress launched a nationwide campaign, ‘Chhatron Ki Goonj’ on June 25, aiming at a “comprehensive overhaul” of the education system
 
-## ‘Doubled in months’: Karnataka hoteliers seek LPG price rollback amid crude rate decline
-Hotels and restaurants are now paying ₹3,198 per commercial LPG cylinder - almost double what they were paying a few months ago.
+## ‘Rajnath Singh misled Parliament’: Oppn's big charge after soldiers killed in Op Sindoor named; Centre responds
+The Ministry of Defence clarified on Rajnath Singh's remark and said the opposition deliberately ignore the full context of the remarks.
 
-## Ram Mandir trust confirms Champat Rai's resignation, says donated silver bricks, ornaments are safe
-The temple body said it was “shocked, hurt, and deeply saddened by the incidents that have come to light in Shri Ram Temple (Ayodhya)".
+## Kerala house raided over allegations of fake treatment, black magic in name of religion
+The raid was conducted at the residence of Shihabudheen Faizy, a native of Cherkala, by local police and officials of the Health Department.
 
-## 12 Cetaphil bottles with 2028 expiry found to be 'spurious': What happened?
-The product was labelled as having been manufactured in December 2025 with an expiry date of December 2028.
+## Odisha brings back 62 migrant workers after Tamil Nadu gas leak
+Of the returnees, 58 are from Keonjhar district while others belong to Koraput, Rayagada, Mayurbhanj, and Dhenkanal
 
-## MeitY tells ministries to tighten AI cyber defences, issue OEM guidelines
-The guidelines ask OEMs and technology providers to regularly check their products for security flaws, keep an updated record of software components
+## Tremors felt in Delhi, Jammu and Kashmir after magnitude 6.2 earthquake in Afghanistan
+Social media was abuzz with reports of jolts felt in parts of India, including Delhi and Srinagar. Some posts also claimed tremors were felt in Pakistan.
 
-## BJP shares viral clip of Suniel Shetty recalling grandchild's fondness for PM Modi: 'Heartwarming'
-Suniel Shetty had said that he loves PM Modi as much as he loves the country, adding that there was something “magical about that man”.
+## Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden'
+Bhagirath Choudhary said he applied for the subsidy in 2018 like thousands of other farmers. The opposition has attacked the BJP over 'conflict of interest'
 
-## ‘They left my son on road’: Gurugram man killed after Thar rams bike in Delhi; family seeks justice
-The deceased, Sarthak Mattoo, 34, was travelling from his house in Gurugram to Noida for work when the vehicle rammed his motorbike on Saturday morning.
+## Kolkata warehouse collapse: Complaint lodged against ex-mayor Firhad Hakim
+At least 16 persons were killed and 17 others were injured when an under-construction warehouse collapsed at Taratala
 
-## Red fort blast: NIA chargesheets 3 more persons, including absconding doctor
-Officials said the accused persons have been charged under various sections that deal with terror charges in UAPA and BNS
-
-## As Ram Temple donation row rages, Akhilesh promises to turn Ayodhya into exemplary ‘Siyaram-Dham’
+## Ram Temple theft: As probe widens, Trust confirms: Gen secy Champat Rai, trustee Anil Mishra have quit
 
 
-## US blacklists Indian CEO over 200 secret shipments of explosives bound for Sudan’s military
+## PM arrives in Seychelles, to mark 50 yrs of ties, chart future
 
 
-## Williams and Pino’s injuries overshadows Spain’s Uruguay triumph
+## In gangster’s death in police encounter, 72-year-old Shamli trader finds ‘closure’ to son’s murder
 
 
-## ‘Mirzapur was indulging our male egos’: Vikrant Massey says show’s crew had 85 percent men
+## Reservations of 11,400 sq metre land parcels in Mumbai altered by BMC in a week
 
 
-## UPSC Key: Horticulture scheme, Indian diaspora in Seychelles and Genocidal intent
+## Manickam Tagore appointed new Tamil Nadu Congress chief
 
 
-## Can Nasa save its ageing Swift observatory? Inside the $30-million rescue plan
+## Gaganyaan test flight delay: Will it stall India’s first human spaceflight launch?
 
 
-## Muslera apologises after yet another mistake costs Uruguay a spot in Round of 32
+## Lionel Messi’s 85-feet-tall statue unveiled in a tiny town in Argentina, overtaking Kolkata
 
 
-## The story of the ‘Chandigarh chair’: From government office to junkyard to global icon
+## Bullet train project, GIFT City in focus at key Vibrant Gujarat growth summit in Vadodara
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Bodycam shows driver offering armed police a lift mid-chase
+Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.
+
+## Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock
+Uruguay's outgoing Argentinian coach Marcelo Bielsa has previously described himself as a 'toxic perfectionist'.
+
+## Cape Verde break record as smallest nation to reach World Cup knockouts
+Cape Verde set sights on Lionel Messi's Argentina in last 32 as dream run continues at 2026 edition of FIFA's showpiece.
+
+## Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?
+Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.
+
+## Venezuela leader jeered as rescue efforts hampered
+Venezuela’s acting President Delcy Rodriguez has been jeered by residents devastated by the earthquakes.
+
+## ‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’
+Iran's IRGC appears to have rejected US claims of a military hotline will operate between the two countries.
+
 ## Three killed as Ukraine and Russia trade attacks overnight
 Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.
 
 ## Childhood interrupted: Family awaits justice 8 years after baby was raped
 A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.
-
-## Exclusive: Infiltrating Myanmar’s scam syndicates
-101 East goes undercover to expose the playbook of Myanmar’s notorious scam industry.
-
-## No school, living in a tent, but it’s exam time in Gaza
-Dana Shabat, 18, has to walk an hour every day to go to a cafe to take her high school exams in the Gaza Strip.
-
-## Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule
-Cristiano Ronaldo's Portugal and Luis Diaz's Colombia clash in Miami, with both sides vying for the top spot in Group K.
-
-## Could Israel’s coming election see an end to Netanyahu’s political career?
-Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.
-
-## US, Iran trade strikes: What to know, will it unravel the MoU?
-As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.
-
-## Joy, disappointment, protests: A view from Egypt-Iran World Cup tie
-Egyptians hail historic qualification as Iranians voice appreciation to Team Melli who may still make it to next round.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
