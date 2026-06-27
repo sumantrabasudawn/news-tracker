@@ -36,6 +36,9 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
+## ‘MSMEs must innovate, scale up to build competitive global businesses’
+He urged companies to move away from ‘Me-too’ products and create ‘Me-First products’
+
 ## ‘Moving up the value chain key for MSMEs to capture the clean mobility opportunity’
 They need to rejig their model from being mere subcontractors to owning high value-manufacturing and assembly: Experts
 
@@ -56,9 +59,6 @@ They must shift their focus to building larger, purpose-driven enterprises, says
 
 ## India Inc and its capex chronicles
 Traditional manufacturing eyes efficiency with expansion and new-age investments are starting to take off, while India Inc financials are primed to support the growth
-
-## Down 55% from peak: Why this amusement park stock is now a buy on dips
-The small-cap company, with over 25 years in operational track record, offers recovery upside, but its newly-opened Chennai and mature asset Hyderabad have to deliver consistently
 
 ## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
 Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
@@ -84,6 +84,9 @@ Artificial intelligence is now a new driver of inflation, according to IMF Chief
 ## Pax Silica Summit: India among 35 countries backed US-led 'AI Opportunity' declaration
 India has joined 34 nations in a US-led effort to foster robust AI supply chains, signing the Joint Statement on AI Opportunity. This move champions a pro-growth, pro-innovation regulatory path for artificial intelligence. The initiative emphasizes trusted supply chains, private sector involvement, 
 
+## Maharashtra teacher recruitment test cancelled after raid reveals paper leak; 3 arrested
+School education minister Dada Bhuse said a fresh date for the exam would be announced after proper preparation and a transparent probe
+
 ## ‘Death penalty for Siya, Chetan’: Ketan Agrawal's parents join march in Pune, demand swift action
 Ketan Agarwal's family members and members of the neighbourhood held a candlelight march in Pimpri-Chinchwad to pay tribute to him.
 
@@ -105,8 +108,14 @@ The TMC has been organising a mammoth rally every year in Esplanade, the heart o
 ## Militant chief remanded to 4-day police custody in UAPA cases in Manipur
 During the hearing, the sub-divisional police officer (SDPO) of Singjamei police station sought custody of the accused for further investigation
 
-## 2 ULFA-I operatives held in Assam’s Tinsukia, arms recovered: Police
-Police on Saturday said that the duo had planned to carry out indiscriminate firing and grenade attacks on civilians in Tinsukia
+## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Ronaldo in focus in Messi’s backyard
+
+
+## Desperation mounts as earthquake death toll rises to 1,430 in in Venezuela
+
+
+## ‘Perfume is chemistry’: Why your favourite scent smells different on someone else
+
 
 ## What is Slate Auto, and how is its $25,000 electric truck different from other EVs?
 
@@ -121,15 +130,6 @@ Police on Saturday said that the duo had planned to carry out indiscriminate fir
 
 
 ## Malik Ambar Mahal: Built by a slave-turned-statesman, once a refuge for Shah Jahan
-
-
-## Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise
-
-
-## ‘Classic case of abject surrender by Kullu admn’: Himachal HC orders transfer of DC, SP, SDM
-
-
-## After much debate, Chandigarh notifies Bed and Breakfast policy in large residential houses
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why is Crimea critical to the Russia–Ukraine war?
+Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.
+
+## Israel orders troops to prepare for ‘extended stay’ in Lebanon
+Israeli Defence Minister Israel Katz says the military has been ordered to prepare for an ‘extended stay’ in Lebanon.
+
+## US Senate challenger, incumbent with same name to appear on Alaska ballot
+Republican Senator Dan Sullivan has sought to have a namesake primary challenger removed, citing midterm confusion.
+
+## South Africa’s Broos smiles and snarls before Canada World Cup showdown
+South Africa and Canada are both competing in the knockout stages of a World Cup for the first time.
+
+## Two killed, dozens injured in Israeli strike on displacement tents in Gaza
+Two killed and dozens injured in Israeli strike on displacement tents in Gaza
+
+## Kenya rights groups say protesters found dumped, tortured after arrests
+Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.
+
+## Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US
+Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.
+
 ## Australia to double fines on Big Tech as children bypass social media ban
 Canberra says tech platforms are still letting too many children bypass its under-16 social media ban.
-
-## How is framework agreement with Lebanon viewed in Israel?
-Israel, Lebanon and US have signed deal aimed at ending hostilities between Israel and Hezbollah, but group rejects it.
-
-## Tropical Storm Mekkhala leaves Taiwan underwater
-Tropical Storm Mekkhala has triggered severe flooding across parts of Taiwan.
-
-## Three security personnel killed in attack in Pakistan’s Karachi
-Police say three attackers were also killed after gunmen stormed a Rangers facility in country's commercial capital.
-
-## Lebanon divided over framework agreement signed in Washington
-Lebanon divided over framework agreement signed in Washington
-
-## Israeli drone attack kills young girl in Gaza safe zone
-Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.
-
-## Bosnia: The lilies and dragons of the World Cup
-Football is bringing out in our nation what the corrupt elite would not like to see.
-
-## Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south
-Hezbollah supporters and many others in Lebanon view latest agreement with Israel as a 'surrender of sovereignty'.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
