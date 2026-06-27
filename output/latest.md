@@ -33,6 +33,9 @@ Our experts discuss which companies to buy, sell or hold this week
 ## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
 Group broadens footwear offering to curb its reliance on boots
 
+## US strikes Iran in response to ship attack that Trump called a ceasefire violation
+The US military targeted Iranian missile, drone and coastal radar sites, marking the biggest challenge yet to recent efforts to end months of conflict
+
 ## HDFC Bank legal review finds no basis for former part-time chairman’s resignation claims
 Three external law firms reviewed board records, meeting minutes, communications and interviews, concluding there was no evidence supporting Chakraborty’s resignation concerns or claims
 
@@ -54,8 +57,8 @@ Trump said the proposed tariffs would apply to any nation moving forward with su
 ## Small businesses, big impact
 
 
-## Amit Shah signals review of NDPS Act; urges states to join fight against narcotics network
-MHA launches ₹6,000-crore narcotics disposal campaign
+## Humble Re 1 retains coining glory despite rise of digital payments
+
 
 ## India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY
 India's economy is poised for robust growth of 6.6-6.8% this financial year, buoyed by easing global energy prices and normalized Strait of Hormuz shipments. Inflation is expected to remain manageable around 4.5%, with the current account deficit projected at 1.5% of GDP. Strong domestic demand, par
@@ -78,56 +81,56 @@ Commerce and Industry Minister Piyush Goyal urged Indian and British businesses 
 ## Watchdogs turn to AI: FINMA leads push to build cyber tools; US curbs hit Anthropic's Mythos
 Amid escalating cyber threats, financial regulatory bodies across the globe are increasingly leveraging AI. They are developing proprietary AI solutions to strengthen the oversight of banking and digital assets, acknowledging the necessity of keeping up with swiftly evolving risks. Moreover, interna
 
-## India's forex reserves rise to $672.59 billion after gold holdings jump
-India's foreign exchange reserves saw a significant rebound, climbing by $963 million to $672.587 billion in the week ending June 19. This recovery was primarily driven by a substantial surge in gold reserves, which more than compensated for a dip in foreign currency assets. The overall reserves rev
+## 'First US president to be honoured this way': Trump says thank you after Hyderabad names road ‘Donald Trump Avenue’
+His comments come after Telangana government named a road adjoining the US Consulate as "Donald Trump Avenue" in honour of the country’s 250th birthday.
 
-## Will bring laws against ‘love jihad’, table UCC in House soon: Adhikari
-West Bengal CM Suvendu Adhikari vows to enact strict laws against "love jihad" and religious conversion, and to implement a Uniform Civil Code soon.
+## 50%+ surge in narcotics cases filed as crackdown intensifies
+In 2025, drug cases in India surged 53% from 2024, with 148,063 cases and 1,240 tonnes seized, as the government intensifies anti-drug efforts.
 
-## Sindhi Sangam seeks clarity on silver bricks
-VSSS demands accountability from the Ram Mandir Trust for 200 silver bricks donated in 2021, amid concerns over financial mismanagement.
+## Siya’s brother knew of her relationship with Chetan: Police
+Pune police investigate realtor Ketan Agarwal's suspected murder; fiancée Siya Goyal and friend Chetan Chaudhary arrested amid relationship complexities.
 
-## 6-storey, sea-facing bungalow in Bandra to be Salman’s new home
-Salman Khan is building a new six-storey sea-facing home in Bandra for better security after an attack in 2024, following MCZMA clearance.
+## COP30 prez says India central to $1.3 tn climate finance plan
+COP30 president announced three key roadmaps by November, focusing on $1.3T climate finance, fossil fuel transition, and ending deforestation, with India at the center.
 
-## On 2 yrs as LoP, Rahul says ‘will keep fighting’
-Rahul Gandhi marked two years as Lok Sabha's Leader of Opposition, vowing to fight for Indians' voices and demanding key reforms like caste census.
+## Shah unveils 3-yr plan to end drug trade
+Amit Shah launched a drug control plan aiming for a drug-free India by 2047, targeting trafficking networks through coordinated enforcement and rehabilitation efforts.
 
-## Names of six personnel killed during Op Sindoor added to war memorial
-Six Indian soldiers killed in Operation Sindoor in May 2025 were honored at the National War Memorial, with some receiving posthumous gallantry awards.
+## TN’s spl representative choice triggers row
+Tamil Nadu's opposition criticizes the appointment of Venkata Narayana as special representative in Delhi, questioning his relevance to state issues.
 
-## India, Pak conduct Track 2 diplomacy
-Indian and Pakistani delegations held informal talks in Colombo on regional security issues amid ongoing back-channel engagements post-2025 conflict.
+## India sends army field hospital, 35 tonnes of relief aid to Venezuela
+India sent an army field hospital and 35+ tonnes of aid to Venezuela after recent earthquakes that killed nearly 600, named "Operation Amistad".
 
-## IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
-IIT-IIM alumnus Prabhjeet Singh to be OpenAI's Managing Director for India
+## Adhir moves SC over Bengal SIR deletions
+Adhir Ranjan Chowdhury filed a PIL in the Supreme Court against the deletion of 2.7M names from West Bengal's voter list, citing welfare concerns and judicial delays.
 
-## Himachal to make ‘anti-chitta’ test mandatory for government recruitment
-The Himachal government and police carried out a big anti-drug operation, destroying narcotic substances seized under the NDPS Act at 10 locations.
-
-## Spain vs Uruguay, FIFA World Cup 2026 Live Score: ESP take on URU in must-win clash at Guadalajara
+## Key challenge to mobilise green capital for developing economies: NK Singh
 
 
-## Why are French away kits tinged green?
+## The Ousmane Dembele show: The art of minimalism and scoring goals
 
 
-## ‘Already married’: Aamir Khan on relationship with Gauri Spratt; expert on emotional commitment
+## Drone attack, US strikes, ceasefire in doubt: What is happening in the Strait of Hormuz
 
 
-## Triple Jumper Praveen Chithravel qualifies for Asian Games with effort of 16.92m
+## vir chakra for Rifleman Sunil Kumar: Agniveer among six Army, IAF personnel killed in Operation Sindoor, names made public
 
 
-## Can’t take anything for granted, can’t just turn up & win matches: Shreyas Iyer
+## Why Haryana’s villages are turning libraries into gateways to government jobs
 
 
-## ‘June Theory’ dating trend: Why singles believe summer is the season for romance
+## Venezuela reels after deadly quakes, India sends transcontinental flights with medical aid
 
 
-## Forest pond ‘poisoned’ in mass hunting attempt, 3 men arrested in Madhya Pradesh
+## Rajasthan C-sec deaths: Centre seeks report after WHO asks for info
 
 
-## Maharashtra registers 627 illegal sex determination cases till March 2026
+## Union Minister gets Rs 99-lakh subsidy for his cucumber farm — from scheme under own ministry
 
+
+## Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push
+Hong Kong is pressing ahead with an overhaul of listing rules and the launch of new product initiatives, the city’s deputy finance chief said on Friday as the bourse operator marked 26 years as a publicly traded company. Speaking at the anniversary ceremony of Hong Kong Exchanges and Clearing (HKEX)
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
 Chinese sportswear maker Xtep International has opened Saucony’s first standalone store in Hong Kong, signalling the premium running brand will expand further, with the city positioned as a showcase market while the group’s core label is reserved for broader overseas growth. The outlet at K11 Art Ma
@@ -149,9 +152,6 @@ US and European firms continued to expand their footprints in Hong Kong in the f
 
 ## As Chinese EVs expand global footprint, banks raise export forecasts
 Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers are consolidating their foothold in the global auto market, prompting international banks like Goldman Sachs to significantly raise their export forecasts. Buoyant overseas shipments have also effectively created a cushio
-
-## CK Asset sells penthouse in Hong Kong’s Mid-Levels for US$48.5m, sets pricing benchmark
-A penthouse at CK Asset Holdings’ luxury residential project in Hong Kong’s Mid-Levels has been sold via tender for HK$380.77 million (US$48.5 million), according to a statement from the flagship property developer of tycoon Li Ka-shing, underscoring the rebound in the city’s high-end residential se
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -177,29 +177,29 @@ Should one company—and one person—have this much power?
 ## Restocking the Pentagon
 Trump urges defense manufacturers to speed up weapons production after the Iran war.
 
-## Taiwan to Build Chip and EV Factories in Poland Replacing China and the US
-In Poland's tech strategy, Taiwan is filling in for projects once envisioned for China and the U.S.
+## Pakistan Wants the World to See It as a Peacemaker. I Want It to Find My Father.
+The world should not forget about Pakistan’s human rights abuses, even as the state tries to overhaul its image.
 
-## Pakistan Unveils Growth-centric Budget Amid Volatile Geopolitical Landscape
-The government expects the external account to remain stable in FY27, particularly via extended tax incentives for the IT sector, a rise in exports and workers' remittances.
+## Why India’s Foreign Minister Went to Mongolia
+Eurasian-Indo Pacific connectivity begins with Mongolia and India.
 
-## Analyzing the Human Toll of Myanmar’s Civil War
-Su Mon Thant from ACLED talks about the military's mounting atrocities, and the Arakan Army's recent abuses against the Rohingya.
+## Has China Really Entered the Three-Carrier Era?
+The Fujian’s Taiwan Strait transit highlights both the progress and the limits of China’s carrier ambitions.
 
-## The Facade of the Thai Royalist Intellect
-Far from shoring up support for the Thai monarchy, the deployment of pseudo-academics and influencers is damaging the royalist cause.
+## Tariff-Proof But Not China-Proof: The Geopolitics of India’s Pharma Power
+Washington has spared India’s generics from its new drug tariffs. But the real exposure running through India’s pharmacy lies upstream, in China – and it is the West’s problem too.
 
-## An Overview of Corruption Investigations in the Philippines
-The current ubiquity of corruption underscores the normalization of impunity in the country's politics, despite recent democratic uprisings.
+## A Fragile Framework Deal for Iran: What’s Next?
+Stylistically, the Islamabad Memorandum fits perfectly into U.S. President Donald Trump’s dealmaking and diplomatic record. It's also extremely fragile.
 
-## US Counterterrorism Aircraft Could Be Surprisingly Useful in a Taiwan War
-Some equipment central for the Global War on Terror could play important roles in a potential conflict against China.
+## 10 Years After the South China Sea Arbitration: Will ASEAN Remain Silent?
+Despite its vocal support for UNCLOS, ASEAN has not recognized a legal judgment brought under the convention’s framework.
 
-## ASEAN Membership for Timor-Leste
-Doors open, but structural risks remain.
+## After the Iran War, China’s Middle East Strategy Will Prioritize the Gulf
+China’s top priority is now keeping the Gulf states, and above all Saudi Arabia and the UAE, from drawing closer to Washington.
 
-## EU-Kazakhstan: Connectivity at the Core
-Amid Kazakhstan and the European Union's multifaceted relations, connectivity remains a throughline.
+## Can China’s Dong Minority Keep Their Unique Cultural Heritage?
+An ambitious university-led research project to document the Dong people’s distinctive architecture is revealing a great deal about this marginalized Indigenous group’s way of life.
 
 ## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
 Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge holds prosecutor in contempt in Charlie Kirk murder case
+Judge says comments to the media by prosecutors about defendant violate rules of what can be said outside of court.
+
+## Venezuela shaken by magnitude 4.9 tremor days after major earthquakes
+The country is still reeling from devastating pair of earthquakes that killed hundreds of people earlier this week.
+
+## Egypt vs Iran LIVE: FIFA World Cup 2026
+Live updates, score and commentary stream as Mohamed Salah's Egypt play Iran in the final group match in Seattle.
+
+## What is the framework agreement signed by Israel and Lebanon?
+Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land.
+
+## Desperate families search for missing loved ones in Venezuela
+Families are sharing details about their loved ones online as more than 50,000 people remain missing in Venezuela.
+
+## Why did Africa boycott the 1966 World Cup?
+Al Jazeera’s Samantha Johnson looks at why Africa boycotted the 1966 World Cup.
+
+## Heavyweight champion Usyk says vacating heavyweight world title belts
+Usyk, who had held the WBA, WBC and IBF belts, has been the world undisputed cruiserweight and heavyweight champion.
+
 ## Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive
 Senegal currently hold the fifth-best record of third-place teams based on their plus-2 goal differential.
-
-## Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026
-Dembele's ⁠first-half hat-trick helps France to a 4-1 win over second-string Norway ⁠to finish top of Group I.
-
-## Thousands of migrants flee South Africa ahead of anti-immigrant protests
-Thousands of migrants flee South Africa ahead of anti-immigrant protests
-
-## Burkina Faso cuts diplomatic ties with former colonial ruler France
-The military government, in power since 2022 coup, accused France of having 'neo-colonial ambitions'.
-
-## US strikes Iran in response to drone strike on commercial ship
-The new strikes come in response to an Iranian drone attack on the Ever Lovely in the Strait of Hormuz.
-
-## UN rights chief calls for probe into migrant deaths in US detention centres
-Deaths of immigrants held in US detention centres have surged during Donald Trump's second term.
-
-## Mistrial declared in federal arson case related to California wildfires
-New trial set to take place in October after jury fails to reach decision in closely-watched case on Palisades Fire.
-
-## Hezbollah will not support Israel-Lebanon framework deal
-Al Jazeera brings you the latest from Beirut as the US announces a framework agreement between Israel and Lebanon.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
