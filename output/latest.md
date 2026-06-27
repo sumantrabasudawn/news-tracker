@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US insurance rulemaker suspends investment risk designations after cyber attack
+Ratings help determine how much capital insurers must have to meet obligations to policyholders
+
+## New York’s socialist insurgency raises alarm among anxious Democrats
+Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections
+
+## German carmakers embark on historic job cuts as Chinese rivals flood market
+Threat to industrial model of Europe’s largest economy mounts
+
 ## Tower crash calls Beijing’s air security into question
 FT research identifies owner of vehicle under investigation at flight school linked to impact
 
@@ -15,15 +24,6 @@ Pension reform plan shows coalition government making bold moves to confront Ger
 ## Chipmakers are expensive globally
 Valuations are high for AI-exposed markets
 
-## US launches strikes on Iran after Tehran attacks container ship
-Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
-
-## UK government split over new ‘golden visa’ scheme to woo super-rich
-Anti-corruption campaigners sound the alarm after previous programme was scrapped owing to dirty money
-
-## Turkey launches security crackdown ahead of Nato summit
-Activists have been arrested, journalist accreditations denied and public assemblies banned before July meeting
-
 ## Football’s stealthy super league
 Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixing Nike
 
@@ -33,35 +33,38 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
-## Baltic states urge EU to speed up ban on Russian oil imports
-Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis
-
-## Ocado major shareholders mount rearguard action to save CEO Tim Steiner
-Multiple investors oppose plans led by chair Adam Warby and Tetra Pak billionaire board member Jörn Rausing to oust co-founder
-
-## Only 14% of India's MSMEs have access to formal credit despite digital finance boom: Deloitte report
-Report estimates India’s MSME credit gap at around ₹25 lakh crore as of March 2025
-
-## Aarogya Setu 2.0 to drug registry: Govt to launch various digital healthcare initiatives on June 29
-Health Ministry says initiatives include ‘citizen-facing applications, provider-focused solutions, interoperability frameworks, registries and data standards’
-
 ## Ashok Vaswani to step down as Kotak Mahindra’s chief after current term in December 2026
 “The Board of the bank has at its meeting held today, respected his decision and has initiated the process for the appointment of a new Managing Director & CEO”
 
-## What could end the tech rally? Jefferies flags investment risks as China’s cheap AI models threaten US players
-Jefferies says Anthropic’s revenue growth could slow down ahead of its planned IPO
+## Veligonda Irrigation Project: AP CM Naidu disburses ₹300 crore under R&R package
+The Government of India had given Rs ₹980 crore
 
-## Nifty and Nifty Bank Prediction for the week 29 Jun’26 to 03 Jul’26 by BL GURU
+## ‘These tactics won’t work in India’: Amit Shah says Bharat Taxi will take on private ride-hailing giants
+Union minister for cooperatives said the zero-commission platform will end exploitation by ride-hailing aggregators; claims predatory pricing by rivals won’t derail expansion plans
 
+## From milk truck to IPO: The story behind Milky Mist’s rise
+How Milky Mist built a dairy empire from Erode.
 
-## US President Trump thanks Telangana government for naming Hyderabad street after him
-As a tribute to the American Revolution, the Telangana Government officially named a street housing the US Consulate in the Financial District in Gachibowli here as `Donald J Trump Avenue’
+## FSSAI sends notice to SAJ Food over misleading claims
+According to FSSAI, the complaint alleged that the product’s front label claimed “100% Atta,” while the ingredients list reportedly mentioned only 72.33% atta
 
-## Companies pull back on AI as weak workplace collaboration hurts results: CambrianEdge
-The study found that organisations with structured AI collaboration systems consistently performed better; Among organisations with no collaboration infrastructure, only 32% reported a significant AI impact
+## Persistent Systems to acquire Nagarro, creating $2.9 billion AI-led digital engineering giant
+The merger would form a $2.9 billion AI-driven engineering powerhouse with over 46,000 employees in 40+ countries
 
-## Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
-Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
+## Adon Agro Commodities to raise ₹44 cr via IPO
+Issue to open for subscription on June 29
+
+## Centre to launch affordable cloud-based hospital management system for small clinics on June 29
+The initiative addresses concerns that costly and complex hospital management software is forcing smaller healthcare facilities to rely on manual processes
+
+## China's industrial profit growth slows for first time in 6 months as weak domestic demand bites
+China's industrial profit growth saw a dip in May, despite robust exports and rising factory prices. This slowdown, the first in six months, highlights persistent weak domestic demand and sluggish investment. While global AI trends and energy market disruptions offered some support, they weren't eno
+
+## Kotak Mahindra Bank CEO Ashok Vaswani to exit after term ends in December 2026
+Kotak Mahindra Bank's CEO, Ashok Vaswani, will not seek reappointment after his term ends December 31, 2026, citing personal reasons. The bank has initiated the process to find a successor. Vaswani, who took charge in January 2024, aims to elevate the bank's standing amidst a period of regulatory re
+
+## Can AI boom make everything more expensive? IMF's chief economist says the inflation story is just beginning
+Artificial intelligence is now a new driver of inflation, according to IMF Chief Economist Pierre-Olivier Gourinchas. He explains that AI is increasing costs for technology hardware and simultaneously making consumers wealthier through booming stock markets, leading to higher spending. This dual imp
 
 ## GTRI seeks clear DPIIT guidelines on new quality certification regime; warns of fresh compliance hurdles
 
@@ -78,14 +81,23 @@ New Zealand's Foreign Minister Winston Peters has accused the government of cove
 ## Explained: How India’s transition from WPI to PPI will strengthen inflation measurement - what it means for policy making
 PPI captures the prices relevant for the production process without being complicated by inclusion of indirect taxes net of subsidies or wholesalers’ margins.
 
-## Goldman, EY upbeat on India growth on lower crude prices
+## Three suspects detained in the Maharashtra TET 2026 question paper sale case
+The Maharashtra TET 2026 exam, scheduled for June 28, was postponed earlier in the day due to an alleged leak.
 
+## ‘Doubled in months’: Karnataka hoteliers seek LPG price rollback amid crude rate decline
+Hotels and restaurants are now paying ₹3,198 per commercial LPG cylinder - almost double what they were paying a few months ago.
 
-## Uber’s Prabhjeet Singh to be OpenAI’s MD in India
+## Ram Mandir trust confirms Champat Rai's resignation, says donated silver bricks, ornaments are safe
+The temple body said it was “shocked, hurt, and deeply saddened by the incidents that have come to light in Shri Ram Temple (Ayodhya)".
 
+## 12 Cetaphil bottles with 2028 expiry found to be 'spurious': What happened?
+The product was labelled as having been manufactured in December 2025 with an expiry date of December 2028.
 
-## Exporters flag concerns over revised Fema rules
+## MeitY tells ministries to tighten AI cyber defences, issue OEM guidelines
+The guidelines ask OEMs and technology providers to regularly check their products for security flaws, keep an updated record of software components
 
+## BJP shares viral clip of Suniel Shetty recalling grandchild's fondness for PM Modi: 'Heartwarming'
+Suniel Shetty had said that he loves PM Modi as much as he loves the country, adding that there was something “magical about that man”.
 
 ## ‘They left my son on road’: Gurugram man killed after Thar rams bike in Delhi; family seeks justice
 The deceased, Sarthak Mattoo, 34, was travelling from his house in Gurugram to Noida for work when the vehicle rammed his motorbike on Saturday morning.
@@ -93,46 +105,28 @@ The deceased, Sarthak Mattoo, 34, was travelling from his house in Gurugram to N
 ## Red fort blast: NIA chargesheets 3 more persons, including absconding doctor
 Officials said the accused persons have been charged under various sections that deal with terror charges in UAPA and BNS
 
-## ‘Tweet on Rafah, silent on Hindus in Dhaka’: BJP slams Sonia Gandhi's Gaza article
-BJP spokesperson Shehzad Poonawalla accused Sonia Gandhi of reducing India's foreign policy to “vote bank Niti."
-
-## PM Modi arrives in Seychelles on a three-day official visit, gets grand welcome: ‘A close friend’
-PM Modi, who is undertaking the state visit at the invitation of President Herminie, will participate in the National Day celebrations as the Guest of Honour.
-
-## ₹14 crore, luxury Udaipur resort, ‘private jets’: The big fat Siya-Ketan wedding that never happened
-Police are investigating the alleged murder of Pune realtor Ketan, engaged to Siya, who is accused of conspiring with ‘boyfriend’ Chetan to kill him at Lohagad.
-
-## Muslim woman panchayat member performs last rites for Hindu man in Kerala's Kasaragod, wins hearts
-The woman reportedly found the man in a weak and starving condition as he battled stage four cancer while his family refused to claim his body
-
-## Amid NEET backlash, govt under fire for Maharashtra TET 2026 paper leak: 'Is there any exam left?'
-This has caused a political storm for the ruling Bharatiya Janata Party (BJP), which is already under fire for the NEET paper leak and the CBSE fiasco.
-
-## Kerala CM VD Satheesan caught in controversy over ‘refusing’ to declare a public holiday, minister says ‘out of context’
-The controversy arose after a UDF MLA sought a local holiday in for a local annual boat race, a request that Satheesan seemed to dismiss in an open mic remark
-
-## ‘It’s a disaster World Cup…’ : Iran captain Mehdi Taremi lashes out at FIFA
+## As Ram Temple donation row rages, Akhilesh promises to turn Ayodhya into exemplary ‘Siyaram-Dham’
 
 
-## ‘I thought I might die’: Saif recalls being stabbed, says he wants to forgive the attacker
+## US blacklists Indian CEO over 200 secret shipments of explosives bound for Sudan’s military
 
 
-## PGDM vs Executive MBA: Which management programme is right for you?
+## Williams and Pino’s injuries overshadows Spain’s Uruguay triumph
 
 
-## Bhagyashree shares home remedy for PMOS: ‘Without side effects’
+## ‘Mirzapur was indulging our male egos’: Vikrant Massey says show’s crew had 85 percent men
 
 
-## Sadagoppan Ramesh slams Indian team: ‘…Ireland series was a picnic tour’
+## UPSC Key: Horticulture scheme, Indian diaspora in Seychelles and Genocidal intent
 
 
-## Marathon through meadows: Baramulla’s rural run draws 1,000 participants
+## Can Nasa save its ageing Swift observatory? Inside the $30-million rescue plan
 
 
-## 15-minute current booking rule boosts Vande Bharat train ridership across Southern Railway
+## Muslera apologises after yet another mistake costs Uruguay a spot in Round of 32
 
 
-## Punjab man dies in Italy police custody after sexual assault complaint
+## The story of the ‘Chandigarh chair’: From government office to junkyard to global icon
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -255,6 +249,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Three killed as Ukraine and Russia trade attacks overnight
+Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.
+
 ## Childhood interrupted: Family awaits justice 8 years after baby was raped
 A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.
 
@@ -275,9 +272,6 @@ As the latest confrontations are aimed at control of the Strait of Hormuz, analy
 
 ## Joy, disappointment, protests: A view from Egypt-Iran World Cup tie
 Egyptians hail historic qualification as Iranians voice appreciation to Team Melli who may still make it to next round.
-
-## FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions
-Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
