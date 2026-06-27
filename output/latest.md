@@ -36,29 +36,32 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
-## Value discipline, balanced growth
-FUND CALL UTI Aggressive Hybrid Fund pairs disciplined stock selection with a quality debt cushion
+## ‘Moving up the value chain key for MSMEs to capture the clean mobility opportunity’
+They need to rejig their model from being mere subcontractors to owning high value-manufacturing and assembly: Experts
 
-## Despite government initiatives, lack of awareness hindering MSME financing
-Industry heads call for better communication, education drives
+## Kerala pitches Palakkad industrial city to attract Tamil Nadu MSMEs
+Inviting entrepreneurs to expand into Kerala, Vijayan said “Kerala is rising. Please rise with us so that entire South India can rise together”
 
-## Diversification emerges as the winning strategy in H1 2026
-Mid-caps, US equities and gold shine; large-caps and silver lag
+## Self, practitioner or CA: which route should you take to file your tax returns?
+For salaried employees, small proprietors and small businessmen, the choice of filing should depend on the nature of income—not the size of the tax bill
 
-## From hiring to retention: The big talent challenge facing MSMEs
-Why MSMEs are losing skilled workers despite training them.
+## Will the old adage of ‘dumb money’ come back into play?
+The ‘buy-the-deep’ move by retail investors seems to be backfiring and it may be time to re-orient strategy
 
-## India vs China in electronics: Why skills, not scale, will decide the future
-Can India build a $500 billion electronics industry? MSMEs hold the key.
+## Make new money, not old money, says Danfoss India President
+He urged not to focus on the top line, but on profit margins and cash flow and to pivot towards new technology, innovation, intellectual property and scalable business models
 
-## Who Am I? June 28, 2026
-Are you an avid investor? How well do you know corporate India?
+## ‘MSMEs must break out of the small comfort zone and grow’
+They must shift their focus to building larger, purpose-driven enterprises, says Elgi Equipments MD
 
-## What should investors do about Tenneco Clean Air after its post IPO rally?
-TCAIL, which supplies exhaust systems for passenger vehicles and commercial vehicles, stands to gain from the next generation of stringent emission norms
+## India Inc and its capex chronicles
+Traditional manufacturing eyes efficiency with expansion and new-age investments are starting to take off, while India Inc financials are primed to support the growth
 
-## Mastering Derivatives: Futures: Discerning signals from OI
-Because it is difficult to ascertain were the balance of power lies
+## Down 55% from peak: Why this amusement park stock is now a buy on dips
+The small-cap company, with over 25 years in operational track record, offers recovery upside, but its newly-opened Chennai and mature asset Hyderabad have to deliver consistently
+
+## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
+Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
 
 ## Iran's inflation surges to 88.6% as war deepens economic crisis
 Iran's inflation has skyrocketed to 88.6%, its highest in months, as the Middle East conflict intensifies economic woes. Food prices have more than doubled, with bread, grains, and meat seeing staggering year-on-year increases. This surge compounds existing challenges of sanctions and hyperinflation
@@ -81,8 +84,14 @@ Artificial intelligence is now a new driver of inflation, according to IMF Chief
 ## Pax Silica Summit: India among 35 countries backed US-led 'AI Opportunity' declaration
 India has joined 34 nations in a US-led effort to foster robust AI supply chains, signing the Joint Statement on AI Opportunity. This move champions a pro-growth, pro-innovation regulatory path for artificial intelligence. The initiative emphasizes trusted supply chains, private sector involvement, 
 
-## Just 14% of MSMEs get formal loans despite India's digital finance boom: Report
-Despite India's advanced digital payments, millions of small businesses struggle for formal finance, with only 14% accessing institutional credit. A significant credit gap, potentially exceeding Rs 50 lakh crore, hinders economic growth. While financial account ownership is high, formal credit acces
+## ‘Death penalty for Siya, Chetan’: Ketan Agrawal's parents join march in Pune, demand swift action
+Ketan Agarwal's family members and members of the neighbourhood held a candlelight march in Pimpri-Chinchwad to pay tribute to him.
+
+## PM Modi is right person to lead India at this critical juncture of world politics: Sharmistha Mukherjee
+Sharmistha Mukherjee said the BJP's projection of Narendra Modi as the Prime Ministerial face during the 2014 Lok Sabha elections was a very "unique factor".
+
+## ‘Betrayed by our own’: Ketan's grandfather seeks capital punishment for Siya; says she was pressured for marriage
+It came even as Siya Goyal's parents and brother were questioned by the Pune Rural Police for more than 10 hours as part of the investigation.
 
 ## Nutritionist reacts to eggs being replaced by paneer, rajma, soya in Bengal mid-day meals
 The nutritionist, however, also highlighted the nutritional benefits of eggs as one of the “finest foods”.
@@ -99,37 +108,28 @@ During the hearing, the sub-divisional police officer (SDPO) of Singjamei police
 ## 2 ULFA-I operatives held in Assam’s Tinsukia, arms recovered: Police
 Police on Saturday said that the duo had planned to carry out indiscriminate firing and grenade attacks on civilians in Tinsukia
 
-## Maharashtra TET paper leak: CM Fadnavis orders SIT probe after exam postponed
-The SIT has been constituted under Thane joint commissioner of police Panjabrao Ugale.
-
-## ABVP, police clash during protest over fee hike at Himachal Pradesh University
-Several ABVP activists gathered at the university campus, a few hours before the scheduled meeting of the university's Executive Council.
-
-## Delhi Police arrest alleged ₹18 crore bank fraudster after 9 years on the run
-Police said Dixit had been absconding since 2017 after escaping custody of Uttar Pradesh Police and was later declared a proclaimed offender by a Delhi court.
-
-## Maharashtra TET paper leak: ‘Travelled nearly 160 kms’ Teachers stuck in bottleneck after exam pushed back
+## What is Slate Auto, and how is its $25,000 electric truck different from other EVs?
 
 
-## Cape Verde reach FIFA World Cup knockouts as smallest nation in tournament history
+## Honey Singh can ‘never say no’ to this Indian sweet; learn how to make it at home
 
 
-## ‘I’ve kept my wife like a flower’: Sunita says Govinda ‘tensed’ about her doing Lock Upp
+## Delhi-Varanasi bullet train to cut Jewar-Lucknow travel time to just 1 hour 40 minutes: Ashwini Vaishnaw
 
 
-## Lock Upp Season 2: Akanksha Chamola confirms divorce with Gaurav Khanna
+## The case of two dead Elenas: Chilling double murder of Russian women in Goa reaches court
 
 
-## TET Paper Leak: Opposition targets Maharashtra Government over ‘theft of youth’s future’
+## Malik Ambar Mahal: Built by a slave-turned-statesman, once a refuge for Shah Jahan
 
 
-## Plane crashed into Beijing’s tallest skyscraper, killing pilot. Why did the videos disappear?
+## Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise
 
 
-## BJP Rajya Sabha MP Harsh Mahajan falls ill during protest, rushed to IGMC
+## ‘Classic case of abject surrender by Kullu admn’: Himachal HC orders transfer of DC, SP, SDM
 
 
-## UPSC Weekly Current Affairs Quiz (June 21 – June 27) : 10 key questions with detailed answers for Prelims 2027
+## After much debate, Chandigarh notifies Bed and Breakfast policy in large residential houses
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Australia to double fines on Big Tech as children bypass social media ban
+Canberra says tech platforms are still letting too many children bypass its under-16 social media ban.
+
+## How is framework agreement with Lebanon viewed in Israel?
+Israel, Lebanon and US have signed deal aimed at ending hostilities between Israel and Hezbollah, but group rejects it.
+
+## Tropical Storm Mekkhala leaves Taiwan underwater
+Tropical Storm Mekkhala has triggered severe flooding across parts of Taiwan.
+
+## Three security personnel killed in attack in Pakistan’s Karachi
+Police say three attackers were also killed after gunmen stormed a Rangers facility in country's commercial capital.
+
+## Lebanon divided over framework agreement signed in Washington
+Lebanon divided over framework agreement signed in Washington
+
 ## Israeli drone attack kills young girl in Gaza safe zone
 Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.
 
@@ -260,21 +275,6 @@ Football is bringing out in our nation what the corrupt elite would not like to 
 
 ## Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south
 Hezbollah supporters and many others in Lebanon view latest agreement with Israel as a 'surrender of sovereignty'.
-
-## With water cuts looming in Arizona in US, locals fight data centres
-Arizona residents have campaigned against state’s data centres as they seek a share of the shrinking water supply.
-
-## Sabalenka defends Wimbledon prize protest, says it’s for struggling players
-The world number one is in a group of players seeking a greater prize return at Grand Slams.
-
-## Bodycam shows driver offering armed police a lift mid-chase
-Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.
-
-## Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock
-Uruguay's outgoing Argentinian coach Marcelo Bielsa has previously described himself as a 'toxic perfectionist'.
-
-## Cape Verde break record as smallest nation to reach World Cup knockouts
-Cape Verde set sights on Lionel Messi's Argentina in last 32 as dream run continues at 2026 edition of FIFA's showpiece.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
