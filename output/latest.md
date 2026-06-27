@@ -36,29 +36,32 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
-## Bond traders stunned as losses on SpaceX’s new debt keeps growing
-The longest-dated SpaceX bonds, which drew more skepticism than those with shorter maturities, have effectively erased all the tightening from underwriters that followed as orders swelled to nearly $90 billion
+## Value discipline, balanced growth
+FUND CALL UTI Aggressive Hybrid Fund pairs disciplined stock selection with a quality debt cushion
 
-## Shipping Secretary lays foundation stones for 2 projects at NMPA
-The covered storage shed inside wharf will provide modern covered storage facilities for bulk and break-bulk cargo and significantly enhance cargo handling capacity and trade competitiveness
+## Despite government initiatives, lack of awareness hindering MSME financing
+Industry heads call for better communication, education drives
 
-## Powerful earthquake hits Afghanistan, sending tremors across Pakistan, Delhi
-United States Geological Survey says the quake hit 43 km south of Jurm in northeastern Afghanistan
+## Diversification emerges as the winning strategy in H1 2026
+Mid-caps, US equities and gold shine; large-caps and silver lag
 
-## From milk truck to IPO: The story behind Milky Mist’s rise
-How Milky Mist built a dairy empire from Erode.
+## From hiring to retention: The big talent challenge facing MSMEs
+Why MSMEs are losing skilled workers despite training them.
 
-## China’s cheap but efficient AI models threaten major US players: Jefferies flags investment risks
-Jefferies says Anthropic’s revenue growth could slow down ahead of its planned IPO
+## India vs China in electronics: Why skills, not scale, will decide the future
+Can India build a $500 billion electronics industry? MSMEs hold the key.
 
-## Amit Shah orders district-wide survey to identify villages lacking basic amenities in Gandhinagar
-Gandhinagar MP asks officials to map gaps in LPG, drinking water, toilets, irrigation and electricity coverage as Centre pushes for saturation of welfare schemes
+## Who Am I? June 28, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## MSMEs should not aspire to remain small forever, says Elgi Equipments chief
-Jairam Varadaraj calls for innovation, purpose-led growth
+## What should investors do about Tenneco Clean Air after its post IPO rally?
+TCAIL, which supplies exhaust systems for passenger vehicles and commercial vehicles, stands to gain from the next generation of stringent emission norms
 
-## Veligonda Irrigation Project: CM Naidu disburses ₹300 crore under R&R package
-The CM said the NDA government in the State was spending ₹900 crore as part of the R&R for those who got displaced because of the project and ₹3,000 crore for the construction of the project
+## Mastering Derivatives: Futures: Discerning signals from OI
+Because it is difficult to ascertain were the balance of power lies
+
+## Iran's inflation surges to 88.6% as war deepens economic crisis
+Iran's inflation has skyrocketed to 88.6%, its highest in months, as the Middle East conflict intensifies economic woes. Food prices have more than doubled, with bread, grains, and meat seeing staggering year-on-year increases. This surge compounds existing challenges of sanctions and hyperinflation
 
 ## Firm moved to a new GST jurisdiction? CBIC issues clarity on how pending cases will be handled
 Businesses relocating their primary operations to a new GST jurisdiction will now find that ongoing tax proceedings will seamlessly transfer. The Central Board of Indirect Taxes and Customs (CBIC) has clarified that the new tax authority will pick up cases from where they were left off, ensuring con
@@ -81,55 +84,52 @@ India has joined 34 nations in a US-led effort to foster robust AI supply chains
 ## Just 14% of MSMEs get formal loans despite India's digital finance boom: Report
 Despite India's advanced digital payments, millions of small businesses struggle for formal finance, with only 14% accessing institutional credit. A significant credit gap, potentially exceeding Rs 50 lakh crore, hinders economic growth. While financial account ownership is high, formal credit acces
 
-## 'Target Indians': NZ foreign minister alleges ‘covert’ immigration changes under FTA
-New Zealand's Foreign Minister Winston Peters has accused the government of covertly introducing discriminatory immigration rules targeting Indian citizens under the new Free Trade Agreement. He claims these changes, including stricter visa tests and residency requirements, were deliberately kept fr
+## Nutritionist reacts to eggs being replaced by paneer, rajma, soya in Bengal mid-day meals
+The nutritionist, however, also highlighted the nutritional benefits of eggs as one of the “finest foods”.
+
+## '70kg silver, 1,250kg gold': Mahua Moitra slams Centre over Ram Mandir donation ‘theft’
+The Krishnanagar MP asked about the 8 people arrested in the case so far, calling them “small people”.
+
+## TMC, rebel faction seek police permission for July 21 Shahid Dibas event
+The TMC has been organising a mammoth rally every year in Esplanade, the heart of the city, to pay homage to the 13 youth Congress workers
+
+## Militant chief remanded to 4-day police custody in UAPA cases in Manipur
+During the hearing, the sub-divisional police officer (SDPO) of Singjamei police station sought custody of the accused for further investigation
+
+## 2 ULFA-I operatives held in Assam’s Tinsukia, arms recovered: Police
+Police on Saturday said that the duo had planned to carry out indiscriminate firing and grenade attacks on civilians in Tinsukia
+
+## Maharashtra TET paper leak: CM Fadnavis orders SIT probe after exam postponed
+The SIT has been constituted under Thane joint commissioner of police Panjabrao Ugale.
+
+## ABVP, police clash during protest over fee hike at Himachal Pradesh University
+Several ABVP activists gathered at the university campus, a few hours before the scheduled meeting of the university's Executive Council.
 
 ## Delhi Police arrest alleged ₹18 crore bank fraudster after 9 years on the run
 Police said Dixit had been absconding since 2017 after escaping custody of Uttar Pradesh Police and was later declared a proclaimed offender by a Delhi court.
 
-## Rahul Gandhi urges Congress leaders to back ‘Chhatron Ki Goonj’ drive
-The appeal comes after Congress launched a nationwide campaign, ‘Chhatron Ki Goonj’ on June 25, aiming at a “comprehensive overhaul” of the education system
-
-## ‘Rajnath Singh misled Parliament’: Oppn's big charge after soldiers killed in Op Sindoor named; Centre responds
-The Ministry of Defence clarified on Rajnath Singh's remark and said the opposition deliberately ignore the full context of the remarks.
-
-## Kerala house raided over allegations of fake treatment, black magic in name of religion
-The raid was conducted at the residence of Shihabudheen Faizy, a native of Cherkala, by local police and officials of the Health Department.
-
-## Odisha brings back 62 migrant workers after Tamil Nadu gas leak
-Of the returnees, 58 are from Keonjhar district while others belong to Koraput, Rayagada, Mayurbhanj, and Dhenkanal
-
-## Tremors felt in Delhi, Jammu and Kashmir after magnitude 6.2 earthquake in Afghanistan
-Social media was abuzz with reports of jolts felt in parts of India, including Delhi and Srinagar. Some posts also claimed tremors were felt in Pakistan.
-
-## Row over ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden'
-Bhagirath Choudhary said he applied for the subsidy in 2018 like thousands of other farmers. The opposition has attacked the BJP over 'conflict of interest'
-
-## Kolkata warehouse collapse: Complaint lodged against ex-mayor Firhad Hakim
-At least 16 persons were killed and 17 others were injured when an under-construction warehouse collapsed at Taratala
-
-## Ram Temple theft: As probe widens, Trust confirms: Gen secy Champat Rai, trustee Anil Mishra have quit
+## Maharashtra TET paper leak: ‘Travelled nearly 160 kms’ Teachers stuck in bottleneck after exam pushed back
 
 
-## PM arrives in Seychelles, to mark 50 yrs of ties, chart future
+## Cape Verde reach FIFA World Cup knockouts as smallest nation in tournament history
 
 
-## In gangster’s death in police encounter, 72-year-old Shamli trader finds ‘closure’ to son’s murder
+## ‘I’ve kept my wife like a flower’: Sunita says Govinda ‘tensed’ about her doing Lock Upp
 
 
-## Reservations of 11,400 sq metre land parcels in Mumbai altered by BMC in a week
+## Lock Upp Season 2: Akanksha Chamola confirms divorce with Gaurav Khanna
 
 
-## Manickam Tagore appointed new Tamil Nadu Congress chief
+## TET Paper Leak: Opposition targets Maharashtra Government over ‘theft of youth’s future’
 
 
-## Gaganyaan test flight delay: Will it stall India’s first human spaceflight launch?
+## Plane crashed into Beijing’s tallest skyscraper, killing pilot. Why did the videos disappear?
 
 
-## Lionel Messi’s 85-feet-tall statue unveiled in a tiny town in Argentina, overtaking Kolkata
+## BJP Rajya Sabha MP Harsh Mahajan falls ill during protest, rushed to IGMC
 
 
-## Bullet train project, GIFT City in focus at key Vibrant Gujarat growth summit in Vadodara
+## UPSC Weekly Current Affairs Quiz (June 21 – June 27) : 10 key questions with detailed answers for Prelims 2027
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli drone attack kills young girl in Gaza safe zone
+Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.
+
+## Bosnia: The lilies and dragons of the World Cup
+Football is bringing out in our nation what the corrupt elite would not like to see.
+
+## Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south
+Hezbollah supporters and many others in Lebanon view latest agreement with Israel as a 'surrender of sovereignty'.
+
+## With water cuts looming in Arizona in US, locals fight data centres
+Arizona residents have campaigned against state’s data centres as they seek a share of the shrinking water supply.
+
+## Sabalenka defends Wimbledon prize protest, says it’s for struggling players
+The world number one is in a group of players seeking a greater prize return at Grand Slams.
+
 ## Bodycam shows driver offering armed police a lift mid-chase
 Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.
 
@@ -260,21 +275,6 @@ Uruguay's outgoing Argentinian coach Marcelo Bielsa has previously described him
 
 ## Cape Verde break record as smallest nation to reach World Cup knockouts
 Cape Verde set sights on Lionel Messi's Argentina in last 32 as dream run continues at 2026 edition of FIFA's showpiece.
-
-## Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?
-Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.
-
-## Venezuela leader jeered as rescue efforts hampered
-Venezuela’s acting President Delcy Rodriguez has been jeered by residents devastated by the earthquakes.
-
-## ‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’
-Iran's IRGC appears to have rejected US claims of a military hotline will operate between the two countries.
-
-## Three killed as Ukraine and Russia trade attacks overnight
-Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.
-
-## Childhood interrupted: Family awaits justice 8 years after baby was raped
-A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
