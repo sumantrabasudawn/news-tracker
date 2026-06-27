@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Apple seeks to buy memory chips from blacklisted Chinese company
+iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices
+
+## Trump administration allows some access to Anthropic’s Mythos
+Move eases tension with AI lab but unease over Washington’s ad hoc regulatory approach remains
+
+## Ten years after Brexit | Political Fix
+FT columnists and correspondents consider the impact of Brexit and whether a major shift in the UK’s relationship with the bloc is on the horizon
+
 ## US launches strikes on Iran after Tehran’s attack on container ship
 Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
 
@@ -15,119 +24,113 @@ Yields move towards levels commonly associated with junk-rated companies
 ## S&P 500 notches longest losing streak in 10 months as chipmakers slide
 Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session
 
+## EU border checks hit by late kit and sweaty scanners
+Airports warn system could cause travel chaos during summer holiday season
+
 ## Trump warns of 100% tariff on countries implementing digital services tax
 US president says levy would supersede any trade deals Washington has with other capitals
-
-## Venezuelans search for survivors after devastating earthquakes
-Officials put death toll at 920 and expect it to climb as victims are dug out of rubble
 
 ## Hong Kong billionaire explores sale of Harvey Nichols
 Struggling luxury department store owned by Sir Dickson Poon is in active talks with multiple parties over a deal
 
-## EU border checks hit by late kit and sweaty scanners
-Airports warn system could cause travel chaos during summer holiday season
+## Will see greater impetus on defence, security: Indian High Commissioner on PM Modi's Seychelles visit
+According to the Ministry of External Affairs, a contingent of the Indian Armed Forces, along with two Indian Navy ships, will also participate in the National Day celebrations, underlining the close defence and maritime partnership between the two countries
 
-## Stockpickers: Babcock International, Telecom Plus, Moonpig
-Our experts discuss which companies to buy, sell or hold this week
+## Seychelles valued maritime neighbour: PM Modi ahead of 3-day visit
+Before his three-day visit to Seychelles, Modi expressed anticipation for bilateral talks aimed at strengthening their enduring friendship
 
-## Directors’ Deals: Dr Martens boss backs new strategy as a better fit
-Group broadens footwear offering to curb its reliance on boots
+## Indian firm, CEO among 8 entities sanctioned by US for 'fuelling' civil war in Sudan
+The US Treasury’s OFAC reported that targeted networks enabled the Sudanese Armed Forces and Rapid Support Forces to intensify the civil war in Sudan.
 
-## US strikes Iran in response to ship attack that Trump called a ceasefire violation
-The US military targeted Iranian missile, drone and coastal radar sites, marking the biggest challenge yet to recent efforts to end months of conflict
+## The next decade of agriculture will be defined by resource efficiency, not land ownership
+The next green revolution is about intelligence; it’s about producing smarter, not just more
 
-## HDFC Bank legal review finds no basis for former part-time chairman’s resignation claims
-Three external law firms reviewed board records, meeting minutes, communications and interviews, concluding there was no evidence supporting Chakraborty’s resignation concerns or claims
+## The invisible layer powering agriculture: Why software will matter more than soil
+The software layer above the soil will matter more- it is time the invisible layer became the most invested-in one
 
-## Segway and Whoosh Launch Free Ride Campaign Across Mexico During the 2026 Tournament World Cup to Support Urban Mobility
-Segway and Whoosh Launch Free Ride Campaign Across Mexico During the 2026 Tournament World Cup to Support Urban Mobility
+## US judge asks Justice Department to justify dropping charges against Gautam Adani
+The Justice Department said last month it would no longer pursue the prosecution, prompting Adani’s lawyers to seek formal dismissal of the case
 
-## Piyush Goyal and UK-India FTA Negotiation Teams Honoured at 10th Anniversary of IGF UK-India Awards
-Piyush Goyal and UK-India FTA Negotiation Teams Honoured at 10th Anniversary of IGF UK-India Awards
+## OpenAI names Prabhjeet Singh as Managing Director for its India ops
+Singh, who previously led Uber’s India and South Asia operations, will oversee consumer growth, enterprise adoption, partnerships, regulatory engagement and operations
 
-## OpenAI names former Uber India head Prabhjeet Singh as India MD
-Prabhjeet Singh will lead OpenAI’s India operations, overseeing consumer growth, enterprise adoption and strategic partnerships
+## OpenAI restricts new ChatGPT model release amid US cybersecurity review
+The move follows increased scrutiny of advanced AI systems after concerns that powerful models could be misused for cyberattacks
 
-## SEBI rejects Reliance Infra, Anil Ambani plea to settle ₹6,526-cr case
-In show-cause notice, regulator seeks restoration of funds pending recovery along with applicable interest
+## Goldman, EY upbeat on India growth on lower crude prices
 
-## Trump threatens 100% tariff on countries taxing US digital companies
-Trump said the proposed tariffs would apply to any nation moving forward with such taxes and could override existing trade agreements
 
-## Small businesses, big impact
+## Uber’s Prabhjeet Singh to be OpenAI’s MD in India
+
+
+## Exporters flag concerns over revised Fema rules
+
+
+## AI’s newest apprentices: Directors in boardrooms
+
+
+## US judge: No quick dismissal of Adani case
+
+
+## Make use of FTAs, other schemes to boost shipments, government tells businesses
+
+
+## HDFC review finds no evidence backing ex-chairman’s charges
 
 
 ## Humble Re 1 retains coining glory despite rise of digital payments
 
 
-## India's economy may grow up to 6.8% in FY27 as domestic demand stays resilient: EY
-India's economy is poised for robust growth of 6.6-6.8% this financial year, buoyed by easing global energy prices and normalized Strait of Hormuz shipments. Inflation is expected to remain manageable around 4.5%, with the current account deficit projected at 1.5% of GDP. Strong domestic demand, par
+## Main shooter in Lucknow property dealer murder killed in STF encounter
+Sanjeev, a resident of Chak Kodar village in Ambedkar Nagar district, was the alleged main shooter in murder of Singh in the PGI area on May 27, police said.
 
-## '100% tariff will supersede trade deals': Trump threatens countries planning digital services tax on US firms
+## Trump threatens 100% tariff on countries charging digital services tax: Will India be affected?
+US President Donald Trump has repeatedly said that the tax unfairly singles out major American tech firms, including Alphabet Inc. and Meta Platforms, Inc.
 
+## Ram Mandir donation row deepens: 8 arrested, ₹80 lakh seized, trust members quit
+Trust’s general secretary Champat Rai and prominent trust member Anil Mishra resigned on Friday, said people aware of the matter.
 
-## Volkswagen considers 4 factory closures, 1 lakh job cuts amid China competition, tariff pressure: Report
-Volkswagen is reportedly considering a massive overhaul, including closing four German factories and significantly increasing job cuts, potentially impacting up to 100,000 roles. This drastic move comes as the automaker faces intense competition from Chinese rivals, US tariffs, and declining Europea
+## 1-year detention with no trial part of new West Bengal bills on ‘anti-social activities'
+The two bills mirror similar controversial laws in Uttar Pradesh, Gujarat, Tamil Nadu and Maharashtra, said the officials cited above.
 
-## Uber India president Prabhjeet Singh steps down after over a decade with company
+## The rise of Champat Rai: From chemistry lecturer to Ram Mandir power centre
+Before this apparent downfall, the 79-year-old, Bijnor-born Rai had become the ultimate insider in Ayodhya
 
+## Ram Mandir donation row: How Samajwadi Party leader's post ballooned into raging controversy
+The controversy surfaced when Samajwadi Party leader Pawan Pandey alleged that donations worth ₹5 crore to ₹7.5 crore were siphoned off from temple offerings
 
-## US stock market today: AI stocks sink again, pulling Wall Street towards weekly loss
-Wall Street experienced a downturn Friday, primarily driven by a significant selloff in AI-linked stocks. This overshadowed gains in other sectors, pushing the S&P 500 towards its second weekly dip in three months. Investor concerns about earnings growth justifying AI stock valuations intensified, i
+## Ram Mandir donation case: Who are the 8 arrested? from trust aide to cash-counting staff
+Prosecution officer KC Verma said five to six of the arrested were bank employees who were deployed for counting cash donations received at the temple.
 
-## India-UK FTA must drive transformational growth, not just higher trade: Piyush Goyal
-Commerce and Industry Minister Piyush Goyal urged Indian and British businesses to aim for "transformational growth" with the upcoming Free Trade Agreement, effective July 15. He emphasized exploring partnerships to maximize opportunities beyond incremental gains. Goyal also highlighted the Double C
+## Tamil Nadu govt’s appointment of Special representative to Delhi triggers sharp criticism
+The Tamil Nadu government's appointment of Venkata Narayana as special representative in Delhi faces criticism from opposition parties over his Karnataka ties.
 
-## Watchdogs turn to AI: FINMA leads push to build cyber tools; US curbs hit Anthropic's Mythos
-Amid escalating cyber threats, financial regulatory bodies across the globe are increasingly leveraging AI. They are developing proprietary AI solutions to strengthen the oversight of banking and digital assets, acknowledging the necessity of keeping up with swiftly evolving risks. Moreover, interna
-
-## 'First US president to be honoured this way': Trump says thank you after Hyderabad names road ‘Donald Trump Avenue’
-His comments come after Telangana government named a road adjoining the US Consulate as "Donald Trump Avenue" in honour of the country’s 250th birthday.
-
-## 50%+ surge in narcotics cases filed as crackdown intensifies
-In 2025, drug cases in India surged 53% from 2024, with 148,063 cases and 1,240 tonnes seized, as the government intensifies anti-drug efforts.
-
-## Siya’s brother knew of her relationship with Chetan: Police
-Pune police investigate realtor Ketan Agarwal's suspected murder; fiancée Siya Goyal and friend Chetan Chaudhary arrested amid relationship complexities.
-
-## COP30 prez says India central to $1.3 tn climate finance plan
-COP30 president announced three key roadmaps by November, focusing on $1.3T climate finance, fossil fuel transition, and ending deforestation, with India at the center.
-
-## Shah unveils 3-yr plan to end drug trade
-Amit Shah launched a drug control plan aiming for a drug-free India by 2047, targeting trafficking networks through coordinated enforcement and rehabilitation efforts.
-
-## TN’s spl representative choice triggers row
-Tamil Nadu's opposition criticizes the appointment of Venkata Narayana as special representative in Delhi, questioning his relevance to state issues.
-
-## India sends army field hospital, 35 tonnes of relief aid to Venezuela
-India sent an army field hospital and 35+ tonnes of aid to Venezuela after recent earthquakes that killed nearly 600, named "Operation Amistad".
-
-## Adhir moves SC over Bengal SIR deletions
-Adhir Ranjan Chowdhury filed a PIL in the Supreme Court against the deletion of 2.7M names from West Bengal's voter list, citing welfare concerns and judicial delays.
-
-## Key challenge to mobilise green capital for developing economies: NK Singh
+## Maharashtra bets on AI to solve Konkan’s oldest mystery
 
 
-## The Ousmane Dembele show: The art of minimalism and scoring goals
+## Video: US releases footage of Iran strikes after Tehran drone struck ship in Hormuz
 
 
-## Drone attack, US strikes, ceasefire in doubt: What is happening in the Strait of Hormuz
+## Samantha was suffering from morning sickness on Maa Inti Bangaaram set; Raj confirms sequel
 
 
-## vir chakra for Rifleman Sunil Kumar: Agniveer among six Army, IAF personnel killed in Operation Sindoor, names made public
+## How a coach who watched Maradona on a village TV put Cape Verde into the knockouts
 
 
-## Why Haryana’s villages are turning libraries into gateways to government jobs
+## A step-by-step guide to Jacqueline Fernandez’s hip-opening flow mobility sequence
 
 
-## Venezuela reels after deadly quakes, India sends transcontinental flights with medical aid
+## OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models
 
 
-## Rajasthan C-sec deaths: Centre seeks report after WHO asks for info
+## Suniel Shetty on his rivalry with Akshay Kumar in films: ‘Clashes have always happened’
 
 
-## Union Minister gets Rs 99-lakh subsidy for his cucumber farm — from scheme under own ministry
+## Daily Briefing: Minister, IAS officer’s family among beneficiaries of Centre’s farm subsidy scheme
 
+
+## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
+South Korean convenience store giant CU has been testing the waters in China with a limited online trial operation, marking a different approach from other multinational brands that bet big on physical outlets. The brand, operated by BGF Retail which has around 18,600 stores in South Korea, is being
 
 ## Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push
 Hong Kong is pressing ahead with an overhaul of listing rules and the launch of new product initiatives, the city’s deputy finance chief said on Friday as the bourse operator marked 26 years as a publicly traded company. Speaking at the anniversary ceremony of Hong Kong Exchanges and Clearing (HKEX)
@@ -149,9 +152,6 @@ US and European firms continued to expand their footprints in Hong Kong in the f
 
 ## Manulife Longevity Insight Forum: Empowering Quality Living and Independent Ageing in the Longevity Era
 [The content of this article has been produced by our advertising partner.] The inaugural Manulife Longevity Insight Forum in Hong Kong convened executives, academics and thought leaders to explore ways in which longer lives can come with quality, self-reliance and freedom from family dependence. Ho
-
-## As Chinese EVs expand global footprint, banks raise export forecasts
-Spurred by the rising popularity of electric vehicles (EVs), Chinese carmakers are consolidating their foothold in the global auto market, prompting international banks like Goldman Sachs to significantly raise their export forecasts. Buoyant overseas shipments have also effectively created a cushio
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US judge holds prosecutor in contempt in Charlie Kirk murder case
-Judge says comments to the media by prosecutors about defendant violate rules of what can be said outside of court.
+## US strikes on Iran test fragile ceasefire
+The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.
 
-## Venezuela shaken by magnitude 4.9 tremor days after major earthquakes
-The country is still reeling from devastating pair of earthquakes that killed hundreds of people earlier this week.
+## Rescue efforts turn to recovery as aftershocks shake Venezuela
+Rescue workers in one Caracas neighbourhood say no help has arrived, two days after twin quakes tore through the city.
 
-## Egypt vs Iran LIVE: FIFA World Cup 2026
-Live updates, score and commentary stream as Mohamed Salah's Egypt play Iran in the final group match in Seattle.
+## Spain beat Uruguay 1-0 to clinch World Cup Group H top spot
+Spain wins World Cup group, beating Uruguay 1-0 as Fernando Muslera’s error sends two-time champions home.
 
-## What is the framework agreement signed by Israel and Lebanon?
-Deal comes after months of US-brokered direct talks, but Israel continues to occupy Lebanese land.
+## Cape Verde qualify for World Cup Round of 32, set up date with Argentina
+Cape Verde's third draw gives them a second-place finish in Group H and pits them against the world champions in the knockouts.
 
-## Desperate families search for missing loved ones in Venezuela
-Families are sharing details about their loved ones online as more than 50,000 people remain missing in Venezuela.
+## Newly released video exposes Henry Nowak killer’s lies
+Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.
 
-## Why did Africa boycott the 1966 World Cup?
-Al Jazeera’s Samantha Johnson looks at why Africa boycotted the 1966 World Cup.
+## Trump justifies strikes on Iran amid ceasefire
+The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.
 
-## Heavyweight champion Usyk says vacating heavyweight world title belts
-Usyk, who had held the WBA, WBC and IBF belts, has been the world undisputed cruiserweight and heavyweight champion.
+## Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz
+Iran's IRGC says it targeted US military in region after Trump administration launched attack on the country.
 
-## Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive
-Senegal currently hold the fifth-best record of third-place teams based on their plus-2 goal differential.
+## Paris Diamond League to go ahead with safety measures amid heatwave
+Only competitions involving professional athletes will be held, with all other activities cancelled.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
@@ -297,6 +297,9 @@ As corporate failures from Rajesh Exports to IL&FS expose recurring governance b
 ## Big Four firms' India operations shine amid global slump
 India's Big Four accounting firms have achieved remarkable growth, outperforming global peers in fiscal year 2026. PwC and Deloitte reported significant revenue increases, while KPMG and EY also saw substantial gains. Technology consulting is a major driver, contributing significantly to revenue acr
 
+## Corporate Mitra scheme to commence with 2,000 participants
+Corporate Mitras will provide affordable support to Micro, Small and Medium Enterprises (MSMEs) in various areas, including regulatory compliance, GST, accounting, financial guidance, cost accounting and secretarial services.
+
 ## Eighth Pay Panel may stay cautious on fitment factor
 While the Commission hasn't yet finalised its recommendations, early discussions suggest that the fitment factor could remain close to the 2.57 multiplier adopted by the Seventh Pay Commission, even as employee unions continue to push for a higher revision.
 
@@ -317,7 +320,4 @@ The Reserve Bank of India has boosted lending limits for top infrastructure fina
 
 ## RBI eases forex exposure rules, giving banks more room to trade
 The Reserve Bank of India has updated foreign exchange exposure rules for banks. These changes simplify calculations by merging onshore and offshore positions and allow inclusion of overseas earnings. Crucially, banks can now exclude certain long-term foreign currency investments, potentially boosti
-
-## 'Gulf uncertainty prompted RBI wait and watch policy'
-The Reserve Bank of India's Monetary Policy Committee has adopted a cautious "wait and watch" approach, keeping interest rates steady at 5.25%. This decision stems from rising inflation projections, primarily due to food and fuel price surges, coupled with global uncertainties. While core inflation 
 
