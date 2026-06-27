@@ -24,6 +24,9 @@ Diagnostic company’s shares are down 90% since its rapid antigen tests were th
 ## A shot in the arm for Merz
 Pension reform plan shows coalition government making bold moves to confront Germany’s problems
 
+## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
+London-based buyout group is looking beyond its traditional speciality in corporate buyouts
+
 ## Chipmakers are expensive globally
 Valuations are high for AI-exposed markets
 
@@ -32,9 +35,6 @@ Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixin
 
 ## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake
 Many large investors agree that private credit group’s offer must reach £7 per share
-
-## Luxury may be in the doldrums, but perfume passes the smell test
-Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
 ## ‘MSMEs must innovate, scale up to build competitive global businesses’
 He urged companies to move away from ‘Me-too’ products and create ‘Me-First products’
@@ -108,7 +108,7 @@ The TMC has been organising a mammoth rally every year in Esplanade, the heart o
 ## Militant chief remanded to 4-day police custody in UAPA cases in Manipur
 During the hearing, the sub-divisional police officer (SDPO) of Singjamei police station sought custody of the accused for further investigation
 
-## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Ronaldo in focus in Messi’s backyard
+## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Top spot in Group K on the line today
 
 
 ## Desperation mounts as earthquake death toll rises to 1,430 in in Venezuela
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Donald Trump nominates Lance Schroyer to serve as ICE director
+The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.
+
+## Colombia vs Portugal LIVE: FIFA World Cup 2026
+Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.
+
+## Serbia’s President Aleksandar Vucic says will resign within ‘weeks’
+Vucic is under ⁠pressure after months ⁠of antigovernment protests.
+
+## Another powerful 4.8 magnitude earthquake hits near Venezuela
+Latest quake comes as rescuers still searching for survivors from twin 7.2 and 7.5 quakes on Wednesday.
+
+## DR Congo superfan denied US visa to support team at World Cup
+Michel Kuka Mboladinga is iconic for his motionless tribute at DRC games, but a US World Cup repeat has been denied.
+
 ## Why is Crimea critical to the Russia–Ukraine war?
 Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.
 
@@ -260,21 +275,6 @@ Israeli Defence Minister Israel Katz says the military has been ordered to prepa
 
 ## US Senate challenger, incumbent with same name to appear on Alaska ballot
 Republican Senator Dan Sullivan has sought to have a namesake primary challenger removed, citing midterm confusion.
-
-## South Africa’s Broos smiles and snarls before Canada World Cup showdown
-South Africa and Canada are both competing in the knockout stages of a World Cup for the first time.
-
-## Two killed, dozens injured in Israeli strike on displacement tents in Gaza
-Two killed and dozens injured in Israeli strike on displacement tents in Gaza
-
-## Kenya rights groups say protesters found dumped, tortured after arrests
-Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.
-
-## Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US
-Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.
-
-## Australia to double fines on Big Tech as children bypass social media ban
-Canberra says tech platforms are still letting too many children bypass its under-16 social media ban.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
