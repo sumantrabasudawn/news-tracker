@@ -1,61 +1,64 @@
 # AION Intelligence
 
-## Apple seeks to buy memory chips from blacklisted Chinese company
-iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices
+## Owner of car searched by police after Beijing tower plane crash identified
+Vehicle was at airfield from where aircraft that hit Citic Tower took off
 
-## Trump administration allows some access to Anthropic’s Mythos
-Move eases tension with AI lab but unease over Washington’s ad hoc regulatory approach remains
+## UK government split over new ‘golden visa’ scheme to woo super-rich
+Anti-corruption campaigners sound the alarm after previous programme was scrapped owing to dirty money
 
-## Ten years after Brexit | Political Fix
-FT columnists and correspondents consider the impact of Brexit and whether a major shift in the UK’s relationship with the bloc is on the horizon
+## Turkey launches security crackdown ahead of Nato summit
+Activists have been arrested, journalist accreditations denied and public assemblies banned before July meeting
 
-## US launches strikes on Iran after Tehran’s attack on container ship
-Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+## Baltic states urge EU to speed up ban on Russian oil imports
+Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis
 
-## ‘Tit-for-tat’ trade warfare threatens global economy, says IMF chief economist
-Pierre-Olivier Gourinchas, who is leaving the fund, warns attempts to gain small advantages will be ‘self-defeating’
+## Extreme heat elevates national security risk at London climate week
+Focus shifts to physical dangers as well as energy security as temperatures break fresh records
 
-## OpenAI releases GPT-5.6 to select users vetted by US government
-San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
+## Burnham catches a bit of luck with gilts
+Global bond markets have rallied, easing pressure on UK’s prime minister-in-waiting
 
-## SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal
-Yields move towards levels commonly associated with junk-rated companies
+## Mistrust between the Treasury and MoD is holding back UK defence
+Resolving the impasse between the two departments is urgent
 
-## S&P 500 notches longest losing streak in 10 months as chipmakers slide
-Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session
+## Indian snack giant Haldiram’s cooks up European expansion
+Temasek-backed company opens first UK restaurant in London’s Leicester Square
 
-## EU border checks hit by late kit and sweaty scanners
-Airports warn system could cause travel chaos during summer holiday season
+## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake
+Many large investors agree that private credit group’s offer must reach £7 per share
 
-## Trump warns of 100% tariff on countries implementing digital services tax
-US president says levy would supersede any trade deals Washington has with other capitals
+## Luxury may be in the doldrums, but perfume passes the smell test
+Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
-## Hong Kong billionaire explores sale of Harvey Nichols
-Struggling luxury department store owned by Sir Dickson Poon is in active talks with multiple parties over a deal
+## Ocado major shareholders mount rearguard action to save CEO Tim Steiner
+Multiple investors oppose plans led by chair Adam Warby and Tetra Pak billionaire board member Jörn Rausing to oust co-founder
 
-## Will see greater impetus on defence, security: Indian High Commissioner on PM Modi's Seychelles visit
-According to the Ministry of External Affairs, a contingent of the Indian Armed Forces, along with two Indian Navy ships, will also participate in the National Day celebrations, underlining the close defence and maritime partnership between the two countries
+## The struggle over Wimbledon’s finances
+The cost of running the prestigious tournament has risen significantly and players want a greater share of revenues
 
-## Seychelles valued maritime neighbour: PM Modi ahead of 3-day visit
-Before his three-day visit to Seychelles, Modi expressed anticipation for bilateral talks aimed at strengthening their enduring friendship
+## Trump likely to visit India early next year, Rubio tells India's IANS
+“We’re ‌working ⁠towards sometime early next year ⁠to have the president come,” Rubio said, according to IAN
 
-## Indian firm, CEO among 8 entities sanctioned by US for 'fuelling' civil war in Sudan
-The US Treasury’s OFAC reported that targeted networks enabled the Sudanese Armed Forces and Rapid Support Forces to intensify the civil war in Sudan.
+## ISRO fires up next-gen rocket engine
+The test, carried out on June 24 at the ISRO Propulsion Complex, demonstrated stable operation of the engine’s power head at a thrust level of 175 tons
 
-## The next decade of agriculture will be defined by resource efficiency, not land ownership
-The next green revolution is about intelligence; it’s about producing smarter, not just more
+## GIFT City to showcase India's global financial gateway at Vibrant Gujarat Regional Summit in Vadodara
+The session will highlight the expanding financial activities in India’s sole IFSC, covering banking, capital markets, insurance, fund management, and emerging sectors
 
-## The invisible layer powering agriculture: Why software will matter more than soil
-The software layer above the soil will matter more- it is time the invisible layer became the most invested-in one
+## Southern Railway records highest passenger occupancy on special trains
+A release from the Southern Railway here said that it had operated 2,513 trips of 229 special train services, carrying 32.98 lakh passengers and earning ₹243.22 crore in revenue
 
-## US judge asks Justice Department to justify dropping charges against Gautam Adani
-The Justice Department said last month it would no longer pursue the prosecution, prompting Adani’s lawyers to seek formal dismissal of the case
+## Piyush Goyal announces deployment of 1,000 advisory personnel to help businesses maximise India-UK CETA benefits
+As India's most comprehensive free trade agreement to date, the India-UK CETA is projected to increase bilateral trade by GBP 25.5 billion annually
 
-## OpenAI names Prabhjeet Singh as Managing Director for its India ops
-Singh, who previously led Uber’s India and South Asia operations, will oversee consumer growth, enterprise adoption, partnerships, regulatory engagement and operations
+## AI, nuclear, space, Quantum among technologies to determine contours of future growth: Jitendra Singh
+He said India is rapidly emerging as a major force in frontier technologies, with the National Quantum Mission (NQM)
 
-## OpenAI restricts new ChatGPT model release amid US cybersecurity review
-The move follows increased scrutiny of advanced AI systems after concerns that powerful models could be misused for cyberattacks
+## Apple seeks approval to buy chips from blacklisted Chinese company, FT reports
+Apple has lobbied the White House for approval to ease financial pressure from rising memory chip prices
+
+## MDMK to announce its stance on alliance today
+The party's office bearers and cadres will vote on the final decision on whether to continue with the DMK or walk out of the nine-year-old alliance
 
 ## Goldman, EY upbeat on India growth on lower crude prices
 
@@ -81,52 +84,52 @@ The move follows increased scrutiny of advanced AI systems after concerns that p
 ## Humble Re 1 retains coining glory despite rise of digital payments
 
 
-## Main shooter in Lucknow property dealer murder killed in STF encounter
-Sanjeev, a resident of Chak Kodar village in Ambedkar Nagar district, was the alleged main shooter in murder of Singh in the PGI area on May 27, police said.
+## Bengal to table new bills on ‘anti-social activity’, Uniform Civil Code next week: Explained
+The Uniform Civil Code (UCC) has remained one of India's most debated issues since the period before Independence.
 
-## Trump threatens 100% tariff on countries charging digital services tax: Will India be affected?
-US President Donald Trump has repeatedly said that the tax unfairly singles out major American tech firms, including Alphabet Inc. and Meta Platforms, Inc.
+## Found Ketan with crushed skull, Siya ‘appeared calm’: Man part of Lohagad Fort rescue team
+25-year-old Ketan Agarwal died after falling from a cliff at Lohagad Fort in the Pune district on June 18.
 
-## Ram Mandir donation row deepens: 8 arrested, ₹80 lakh seized, trust members quit
-Trust’s general secretary Champat Rai and prominent trust member Anil Mishra resigned on Friday, said people aware of the matter.
+## 3 more vessels cross Hormuz; 16 vessels of Indian interest remain: Govt data
+Three more vessels cross Strait of Hormuz as 16 ships of Indian interest remain in Persian Gulf for possible evacuation, official data shows.
 
-## 1-year detention with no trial part of new West Bengal bills on ‘anti-social activities'
-The two bills mirror similar controversial laws in Uttar Pradesh, Gujarat, Tamil Nadu and Maharashtra, said the officials cited above.
+## Heavy rains likely to lash 15 Tamil Nadu districts, including Chennai and Coimbatore, from June 28
+Fishermen were warned that squally wind with speed 45-55 kmph is likely to prevail over parts of southwest and adjoining southeast Bay of Bengal from June 29.
 
-## The rise of Champat Rai: From chemistry lecturer to Ram Mandir power centre
-Before this apparent downfall, the 79-year-old, Bijnor-born Rai had become the ultimate insider in Ayodhya
+## Nihang group camping at Paonta Sahib gurdwara, say won't leave until arrested members released
+The Nihang groups held discussions to chalk out the future course of action and declared they won't return to Punjab until the 4 arrested members are released.
 
-## Ram Mandir donation row: How Samajwadi Party leader's post ballooned into raging controversy
-The controversy surfaced when Samajwadi Party leader Pawan Pandey alleged that donations worth ₹5 crore to ₹7.5 crore were siphoned off from temple offerings
+## Two 12-year-olds killed, eight injured as house roof collapses in Lucknow
+The accident happened on Friday as people were being served drinks from the roof of the house during Muharram procession
 
-## Ram Mandir donation case: Who are the 8 arrested? from trust aide to cash-counting staff
-Prosecution officer KC Verma said five to six of the arrested were bank employees who were deployed for counting cash donations received at the temple.
+## ‘India’s silence on Gaza cannot be explained’: Sonia Gandhi's sharp attack on Modi govt
+In an op-ed on Gaza, Sonia Gandhi said the deaths and injuries showed that "the targeting of children is not incidental, but a deliberate strategy".
 
-## Tamil Nadu govt’s appointment of Special representative to Delhi triggers sharp criticism
-The Tamil Nadu government's appointment of Venkata Narayana as special representative in Delhi faces criticism from opposition parties over his Karnataka ties.
+## OpenAI appoints former Uber India head Prabhjeet Singh as MD; expands operations in India
+The move signals a two-pronged strategy on OpenAI's end: deeper market penetration in India and tougher misuse controls
 
-## Maharashtra bets on AI to solve Konkan’s oldest mystery
-
-
-## Video: US releases footage of Iran strikes after Tehran drone struck ship in Hormuz
+## ‘What do I leave for Uruguayan football? Nothing…’: Bielsa after WC exit
 
 
-## Samantha was suffering from morning sickness on Maa Inti Bangaaram set; Raj confirms sequel
+## Bihar Education Minister: ‘Government will screen out defunct madrasas, rebuild Sanskrit schools’
 
 
-## How a coach who watched Maradona on a village TV put Cape Verde into the knockouts
+## Raj Thackeray to IPS officer: ‘Quit if you want to praise RSS publicly’
 
 
-## A step-by-step guide to Jacqueline Fernandez’s hip-opening flow mobility sequence
+## Weather updates: IMD warns of heavy rain in Northeast, heatwave in UP
 
 
-## OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models
+## Vadodara garment trader shot by bike-borne assailants, police launch probe
 
 
-## Suniel Shetty on his rivalry with Akshay Kumar in films: ‘Clashes have always happened’
+## Minister got subsidy, under own ministry’s scheme: How projects are cleared – Explained
 
 
-## Daily Briefing: Minister, IAS officer’s family among beneficiaries of Centre’s farm subsidy scheme
+## Poor families targeted to sell their children, racket busted in Ghaziabad
+
+
+## Dr Madhu Chopra shares habits to stay ‘healthy, hydrated and energised’ this summer
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US strikes on Iran test fragile ceasefire
-The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.
+## Who profits from Africa’s gold?
+African governments seek greater control over gold, but much of its value continues to flow abroad.
 
-## Rescue efforts turn to recovery as aftershocks shake Venezuela
-Rescue workers in one Caracas neighbourhood say no help has arrived, two days after twin quakes tore through the city.
+## Belgium reach World Cup knockouts as New Zealand exit tournament
+A double strike from Arsenal's Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.
 
-## Spain beat Uruguay 1-0 to clinch World Cup Group H top spot
-Spain wins World Cup group, beating Uruguay 1-0 as Fernando Muslera’s error sends two-time champions home.
+## Iran and US trade blame for attacks, threatening fragile ceasefire
+Vance warned 'violence will be met with violence' while the IRGC says future responses to aggression will be 'broader'.
 
-## Cape Verde qualify for World Cup Round of 32, set up date with Argentina
-Cape Verde's third draw gives them a second-place finish in Group H and pits them against the world champions in the knockouts.
+## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
+The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
 
-## Newly released video exposes Henry Nowak killer’s lies
-Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.
+## Which teams are in the World Cup round of 32, and what’s the schedule?
+Cape Verde's stunning debut headlines the team list for the World Cup knockouts, which begin on Sunday in Los Angeles.
 
-## Trump justifies strikes on Iran amid ceasefire
-The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.
+## Iran wait on World Cup progress after late goal disallowed in Egypt draw
+Egypt finish second with five points in Group G, while Iran finish third with three points.
 
-## Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz
-Iran's IRGC says it targeted US military in region after Trump administration launched attack on the country.
+## Fishermen capture the moment earthquake hits Venezuelan coast
+Fishermen have captured the moment twin earthquakes hit Venezuela’s La Guaira coastline on Wednesday.
 
-## Paris Diamond League to go ahead with safety measures amid heatwave
-Only competitions involving professional athletes will be held, with all other activities cancelled.
+## Cape Verde becomes tiniest nation to make World Cup knockouts
+Cape Verde erupted in celebration after the national team qualified for the World Cup knockout stage and made history.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
