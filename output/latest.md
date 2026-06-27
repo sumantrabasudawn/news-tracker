@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## US launches strikes on Iran after Tehran attacks container ship
+Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+
 ## Owner of car searched by police after Beijing tower plane crash identified
 Vehicle was at airfield from where aircraft that hit Citic Tower took off
 
@@ -21,8 +24,8 @@ Global bond markets have rallied, easing pressure on UK’s prime minister-in-wa
 ## Mistrust between the Treasury and MoD is holding back UK defence
 Resolving the impasse between the two departments is urgent
 
-## Indian snack giant Haldiram’s cooks up European expansion
-Temasek-backed company opens first UK restaurant in London’s Leicester Square
+## Football’s stealthy super league
+Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixing Nike
 
 ## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake
 Many large investors agree that private credit group’s offer must reach £7 per share
@@ -33,32 +36,41 @@ Fragrances are among the faster-growing areas of the beauty industry — though 
 ## Ocado major shareholders mount rearguard action to save CEO Tim Steiner
 Multiple investors oppose plans led by chair Adam Warby and Tetra Pak billionaire board member Jörn Rausing to oust co-founder
 
-## The struggle over Wimbledon’s finances
-The cost of running the prestigious tournament has risen significantly and players want a greater share of revenues
+## Indian snack giant Haldiram’s cooks up European expansion
+Temasek-backed company opens first UK restaurant in London’s Leicester Square
 
-## Trump likely to visit India early next year, Rubio tells India's IANS
-“We’re ‌working ⁠towards sometime early next year ⁠to have the president come,” Rubio said, according to IAN
+## Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
+Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
 
-## ISRO fires up next-gen rocket engine
-The test, carried out on June 24 at the ISRO Propulsion Complex, demonstrated stable operation of the engine’s power head at a thrust level of 175 tons
+## Govt to launch affordable cloud-based hospital management system for small clinics on Jun 29
+The initiative addresses concerns that costly and complex hospital management software is forcing smaller healthcare facilities to rely on manual processes
 
-## GIFT City to showcase India's global financial gateway at Vibrant Gujarat Regional Summit in Vadodara
-The session will highlight the expanding financial activities in India’s sole IFSC, covering banking, capital markets, insurance, fund management, and emerging sectors
+## Think. Over the week
 
-## Southern Railway records highest passenger occupancy on special trains
-A release from the Southern Railway here said that it had operated 2,513 trips of 229 special train services, carrying 32.98 lakh passengers and earning ₹243.22 crore in revenue
 
-## Piyush Goyal announces deployment of 1,000 advisory personnel to help businesses maximise India-UK CETA benefits
-As India's most comprehensive free trade agreement to date, the India-UK CETA is projected to increase bilateral trade by GBP 25.5 billion annually
+## Persistent Systems to acquire Nagarro, creating $2.9 bn AI-led digital engineering giant
+The merger would form a $2.9 billion AI-driven engineering powerhouse with over 46,000 employees in 40+ countries
 
-## AI, nuclear, space, Quantum among technologies to determine contours of future growth: Jitendra Singh
-He said India is rapidly emerging as a major force in frontier technologies, with the National Quantum Mission (NQM)
+## "India deserves permanent seat at UNSC given its population, global role": Seychelles Foreign Minister
+Faure stated that Seychelles backs India’s bid for a permanent UNSC seat, noting it would enhance global balance and stability
 
-## Apple seeks approval to buy chips from blacklisted Chinese company, FT reports
-Apple has lobbied the White House for approval to ease financial pressure from rising memory chip prices
+## Adani Ports secures 'Leadership' ESG rating with score of 84.3 from CareEdge ESG Ratings
+The upgrade reflects APSEZ's continued progress in strengthening ESG performance and disclosures across environmental, social and governance parameters
 
-## MDMK to announce its stance on alliance today
-The party's office bearers and cadres will vote on the final decision on whether to continue with the DMK or walk out of the nine-year-old alliance
+## Indian ambassador Kwatra meets senior US defence official
+Kwatra met US Under Secretary for Defence Elbridge Colby at the Pentagon on Friday and discussed bilateral defence cooperation
+
+## ‘These tactics won’t work in India’: Amit Shah says Bharat Taxi will take on private ride-hailing giants
+Union minister for cooperatives said the zero-commission platform will end exploitation by ride-hailing aggregators; claims predatory pricing by rivals won’t derail expansion plans
+
+## Just 14% of MSMEs get formal loans despite India's digital finance boom: Report
+Despite India's advanced digital payments, millions of small businesses struggle for formal finance, with only 14% accessing institutional credit. A significant credit gap, potentially exceeding Rs 50 lakh crore, hinders economic growth. While financial account ownership is high, formal credit acces
+
+## 'Target Indians': NZ foreign minister alleges ‘covert’ immigration changes under FTA
+New Zealand's Foreign Minister Winston Peters has accused the government of covertly introducing discriminatory immigration rules targeting Indian citizens under the new Free Trade Agreement. He claims these changes, including stricter visa tests and residency requirements, were deliberately kept fr
+
+## Explained: How India’s transition from WPI to PPI will strengthen inflation measurement - what it means for policy making
+PPI captures the prices relevant for the production process without being complicated by inclusion of indirect taxes net of subsidies or wholesalers’ margins.
 
 ## Goldman, EY upbeat on India growth on lower crude prices
 
@@ -75,61 +87,52 @@ The party's office bearers and cadres will vote on the final decision on whether
 ## US judge: No quick dismissal of Adani case
 
 
-## Make use of FTAs, other schemes to boost shipments, government tells businesses
+## Uddhav Thackeray attacks BJP over Ram temple donation row, MP defections
+He alleged that lord Ram has been politically captured by the BJP and announced that his party would soon launch a campaign to “free lord Ram”
 
+## ‘Do Bengalis know what rajma is?’: Mahua Moitra slams BJP as Bengal drops eggs from mid-day meals
+A political slugfest has broken out over ISKCON's vegetarian-only menu, as the TMC accused the BJP of seeking to impose a vegetarian cultural template.
 
-## HDFC review finds no evidence backing ex-chairman’s charges
+## Maharashtra TET 2026 exam postponed a day before test over 'paper leak'
+The TET examination was scheduled to be held on June 28 at 1,028 centres across Maharashtra.
 
+## Meet-up with world's oldest animal on PM Modi's Seychelles visit itinerary
+PM Modi has been invited as the Guest of Honour for the Golden Jubilee celebrations of the Seychelles' National Day celebrations.
 
-## Humble Re 1 retains coining glory despite rise of digital payments
+## Trump’s first India visit since 2020 may happen early next year, says US' Rubio
+A visit by Trump to India would be the US leader’s first since he visited New Delhi, Agra and Ahmedabad in 2020.
 
+## Delhi YouTuber, 32, held for stalking women, uploading harassment videos
+The YouTube channel has more than 72,000 subscribers and a combined 9 million views on all his videos, while the Facebook page has more than 2 lakh followers.
 
-## Bengal to table new bills on ‘anti-social activity’, Uniform Civil Code next week: Explained
+## ‘Anti-social activity’, Uniform Civil Code: A look at key bills set to tabled in Bengal next week
 The Uniform Civil Code (UCC) has remained one of India's most debated issues since the period before Independence.
 
 ## Found Ketan with crushed skull, Siya ‘appeared calm’: Man part of Lohagad Fort rescue team
 25-year-old Ketan Agarwal died after falling from a cliff at Lohagad Fort in the Pune district on June 18.
 
-## 3 more vessels cross Hormuz; 16 vessels of Indian interest remain: Govt data
-Three more vessels cross Strait of Hormuz as 16 ships of Indian interest remain in Persian Gulf for possible evacuation, official data shows.
-
-## Heavy rains likely to lash 15 Tamil Nadu districts, including Chennai and Coimbatore, from June 28
-Fishermen were warned that squally wind with speed 45-55 kmph is likely to prevail over parts of southwest and adjoining southeast Bay of Bengal from June 29.
-
-## Nihang group camping at Paonta Sahib gurdwara, say won't leave until arrested members released
-The Nihang groups held discussions to chalk out the future course of action and declared they won't return to Punjab until the 4 arrested members are released.
-
-## Two 12-year-olds killed, eight injured as house roof collapses in Lucknow
-The accident happened on Friday as people were being served drinks from the roof of the house during Muharram procession
-
-## ‘India’s silence on Gaza cannot be explained’: Sonia Gandhi's sharp attack on Modi govt
-In an op-ed on Gaza, Sonia Gandhi said the deaths and injuries showed that "the targeting of children is not incidental, but a deliberate strategy".
-
-## OpenAI appoints former Uber India head Prabhjeet Singh as MD; expands operations in India
-The move signals a two-pronged strategy on OpenAI's end: deeper market penetration in India and tougher misuse controls
-
-## ‘What do I leave for Uruguayan football? Nothing…’: Bielsa after WC exit
+## UK flags powerbank risk on flights amid rising heat: Why lithium ion batteries are not allowed
 
 
-## Bihar Education Minister: ‘Government will screen out defunct madrasas, rebuild Sanskrit schools’
+## This 94-year-old former US citizen has one last wish — to die an Indian
 
 
-## Raj Thackeray to IPS officer: ‘Quit if you want to praise RSS publicly’
+## I’m Gen Z. Is the teenager in a Delhi slum Gen Z too?
 
 
-## Weather updates: IMD warns of heavy rain in Northeast, heatwave in UP
+## West Bengal to mark Syama Prasad Mookerjee’s 125th birth anniversary with year-long events
 
 
-## Vadodara garment trader shot by bike-borne assailants, police launch probe
+## ‘Enormous fans’ of PM Modi: Marco Rubio hails India’s rise as global power
 
 
-## Minister got subsidy, under own ministry’s scheme: How projects are cleared – Explained
+## ‘Grave allegations’: Gurgaon court denies bail to fake Mounjaro racket mastermind
 
 
-## Poor families targeted to sell their children, racket busted in Ghaziabad
+## Badshah says watching his parents grow old is ‘painful’; psychologist explains why
 
 
-## Dr Madhu Chopra shares habits to stay ‘healthy, hydrated and energised’ this summer
+## Maharashtra businesswoman gets Rs 5 crore extortion call from ‘Bishnoi aide’
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions
+Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.
+
+## Venezuelans dig for earthquake survivors as 72-hour rescue window nears end
+At least 920 people are confirmed dead and more than 51,000 missing after two quakes struck Venezuela on Wednesday.
+
+## Watch World Cup Day 16: Spain, Egypt, Cape Verde advance to Round of 32
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## Thai police arrest Australian over killing of teenager found in suitcase
+Suspect was stopped at Bangkok's main airport as he allegedly tried to fly home.
+
+## Germany braces for record-breaking temperatures as heatwave moves east
+Several countries including the UK and Switzerland have posted record June temperatures, with deaths reported in France.
+
+## Somali intelligence helps US arrest alleged leader of Minnesota fraud
+US prosecutors reach into Somalia for a suspect in US fraud case.
+
+## Iran war day 120: Tehran condemns US strikes, says it violates MoU
+US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.
+
 ## Who profits from Africa’s gold?
 African governments seek greater control over gold, but much of its value continues to flow abroad.
-
-## Belgium reach World Cup knockouts as New Zealand exit tournament
-A double strike from Arsenal's Leandro Trossard against New Zealand carried Belgium to top of Group G, ahead of Egypt.
-
-## Iran and US trade blame for attacks, threatening fragile ceasefire
-Vance warned 'violence will be met with violence' while the IRGC says future responses to aggression will be 'broader'.
-
-## Which teams have qualified for the World Cup 2026 knockouts, round of 32?
-The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.
-
-## Which teams are in the World Cup round of 32, and what’s the schedule?
-Cape Verde's stunning debut headlines the team list for the World Cup knockouts, which begin on Sunday in Los Angeles.
-
-## Iran wait on World Cup progress after late goal disallowed in Egypt draw
-Egypt finish second with five points in Group G, while Iran finish third with three points.
-
-## Fishermen capture the moment earthquake hits Venezuelan coast
-Fishermen have captured the moment twin earthquakes hit Venezuela’s La Guaira coastline on Wednesday.
-
-## Cape Verde becomes tiniest nation to make World Cup knockouts
-Cape Verde erupted in celebration after the national team qualified for the World Cup knockout stage and made history.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
