@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Tower crash calls Beijing’s air security into question
+FT research identifies owner of vehicle under investigation at flight school linked to impact
+
+## Thousands of foreign students made false qualification claims, says consultancy
+Qualification Check says many UK universities did not conduct detailed verification
+
+## QuidelOrtho looks to sell testing unit as PE circles healthcare companies
+Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19
+
+## A shot in the arm for Merz
+Pension reform plan shows coalition government making bold moves to confront Germany’s problems
+
+## Chipmakers are expensive globally
+Valuations are high for AI-exposed markets
+
 ## US launches strikes on Iran after Tehran attacks container ship
 Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
-
-## Owner of car searched by police after Beijing tower plane crash identified
-Vehicle was at airfield from where aircraft that hit Citic Tower took off
 
 ## UK government split over new ‘golden visa’ scheme to woo super-rich
 Anti-corruption campaigners sound the alarm after previous programme was scrapped owing to dirty money
 
 ## Turkey launches security crackdown ahead of Nato summit
 Activists have been arrested, journalist accreditations denied and public assemblies banned before July meeting
-
-## Baltic states urge EU to speed up ban on Russian oil imports
-Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis
-
-## Extreme heat elevates national security risk at London climate week
-Focus shifts to physical dangers as well as energy security as temperatures break fresh records
-
-## Burnham catches a bit of luck with gilts
-Global bond markets have rallied, easing pressure on UK’s prime minister-in-waiting
-
-## Mistrust between the Treasury and MoD is holding back UK defence
-Resolving the impasse between the two departments is urgent
 
 ## Football’s stealthy super league
 Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixing Nike
@@ -33,35 +33,41 @@ Many large investors agree that private credit group’s offer must reach £7 pe
 ## Luxury may be in the doldrums, but perfume passes the smell test
 Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
 
+## Baltic states urge EU to speed up ban on Russian oil imports
+Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis
+
 ## Ocado major shareholders mount rearguard action to save CEO Tim Steiner
 Multiple investors oppose plans led by chair Adam Warby and Tetra Pak billionaire board member Jörn Rausing to oust co-founder
 
-## Indian snack giant Haldiram’s cooks up European expansion
-Temasek-backed company opens first UK restaurant in London’s Leicester Square
+## Only 14% of India's MSMEs have access to formal credit despite digital finance boom: Deloitte report
+Report estimates India’s MSME credit gap at around ₹25 lakh crore as of March 2025
+
+## Aarogya Setu 2.0 to drug registry: Govt to launch various digital healthcare initiatives on June 29
+Health Ministry says initiatives include ‘citizen-facing applications, provider-focused solutions, interoperability frameworks, registries and data standards’
+
+## Ashok Vaswani to step down as Kotak Mahindra’s chief after current term in December 2026
+“The Board of the bank has at its meeting held today, respected his decision and has initiated the process for the appointment of a new Managing Director & CEO”
+
+## What could end the tech rally? Jefferies flags investment risks as China’s cheap AI models threaten US players
+Jefferies says Anthropic’s revenue growth could slow down ahead of its planned IPO
+
+## Nifty and Nifty Bank Prediction for the week 29 Jun’26 to 03 Jul’26 by BL GURU
+
+
+## US President Trump thanks Telangana government for naming Hyderabad street after him
+As a tribute to the American Revolution, the Telangana Government officially named a street housing the US Consulate in the Financial District in Gachibowli here as `Donald J Trump Avenue’
+
+## Companies pull back on AI as weak workplace collaboration hurts results: CambrianEdge
+The study found that organisations with structured AI collaboration systems consistently performed better; Among organisations with no collaboration infrastructure, only 32% reported a significant AI impact
 
 ## Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
 Chandigarh University researchers use Artificial Intelligence to develop Model for predicting Accurate Crop Yield; Innovation to benefit Indian Farmers
 
-## Govt to launch affordable cloud-based hospital management system for small clinics on Jun 29
-The initiative addresses concerns that costly and complex hospital management software is forcing smaller healthcare facilities to rely on manual processes
-
-## Think. Over the week
+## GTRI seeks clear DPIIT guidelines on new quality certification regime; warns of fresh compliance hurdles
 
 
-## Persistent Systems to acquire Nagarro, creating $2.9 bn AI-led digital engineering giant
-The merger would form a $2.9 billion AI-driven engineering powerhouse with over 46,000 employees in 40+ countries
-
-## "India deserves permanent seat at UNSC given its population, global role": Seychelles Foreign Minister
-Faure stated that Seychelles backs India’s bid for a permanent UNSC seat, noting it would enhance global balance and stability
-
-## Adani Ports secures 'Leadership' ESG rating with score of 84.3 from CareEdge ESG Ratings
-The upgrade reflects APSEZ's continued progress in strengthening ESG performance and disclosures across environmental, social and governance parameters
-
-## Indian ambassador Kwatra meets senior US defence official
-Kwatra met US Under Secretary for Defence Elbridge Colby at the Pentagon on Friday and discussed bilateral defence cooperation
-
-## ‘These tactics won’t work in India’: Amit Shah says Bharat Taxi will take on private ride-hailing giants
-Union minister for cooperatives said the zero-commission platform will end exploitation by ride-hailing aggregators; claims predatory pricing by rivals won’t derail expansion plans
+## Pax Silica Summit: India among 35 countries backed US-led 'AI Opportunity' declaration
+India has joined 34 nations in a US-led effort to foster robust AI supply chains, signing the Joint Statement on AI Opportunity. This move champions a pro-growth, pro-innovation regulatory path for artificial intelligence. The initiative emphasizes trusted supply chains, private sector involvement, 
 
 ## Just 14% of MSMEs get formal loans despite India's digital finance boom: Report
 Despite India's advanced digital payments, millions of small businesses struggle for formal finance, with only 14% accessing institutional credit. A significant credit gap, potentially exceeding Rs 50 lakh crore, hinders economic growth. While financial account ownership is high, formal credit acces
@@ -81,58 +87,52 @@ PPI captures the prices relevant for the production process without being compli
 ## Exporters flag concerns over revised Fema rules
 
 
-## AI’s newest apprentices: Directors in boardrooms
+## ‘They left my son on road’: Gurugram man killed after Thar rams bike in Delhi; family seeks justice
+The deceased, Sarthak Mattoo, 34, was travelling from his house in Gurugram to Noida for work when the vehicle rammed his motorbike on Saturday morning.
+
+## Red fort blast: NIA chargesheets 3 more persons, including absconding doctor
+Officials said the accused persons have been charged under various sections that deal with terror charges in UAPA and BNS
+
+## ‘Tweet on Rafah, silent on Hindus in Dhaka’: BJP slams Sonia Gandhi's Gaza article
+BJP spokesperson Shehzad Poonawalla accused Sonia Gandhi of reducing India's foreign policy to “vote bank Niti."
+
+## PM Modi arrives in Seychelles on a three-day official visit, gets grand welcome: ‘A close friend’
+PM Modi, who is undertaking the state visit at the invitation of President Herminie, will participate in the National Day celebrations as the Guest of Honour.
+
+## ₹14 crore, luxury Udaipur resort, ‘private jets’: The big fat Siya-Ketan wedding that never happened
+Police are investigating the alleged murder of Pune realtor Ketan, engaged to Siya, who is accused of conspiring with ‘boyfriend’ Chetan to kill him at Lohagad.
+
+## Muslim woman panchayat member performs last rites for Hindu man in Kerala's Kasaragod, wins hearts
+The woman reportedly found the man in a weak and starving condition as he battled stage four cancer while his family refused to claim his body
+
+## Amid NEET backlash, govt under fire for Maharashtra TET 2026 paper leak: 'Is there any exam left?'
+This has caused a political storm for the ruling Bharatiya Janata Party (BJP), which is already under fire for the NEET paper leak and the CBSE fiasco.
+
+## Kerala CM VD Satheesan caught in controversy over ‘refusing’ to declare a public holiday, minister says ‘out of context’
+The controversy arose after a UDF MLA sought a local holiday in for a local annual boat race, a request that Satheesan seemed to dismiss in an open mic remark
+
+## ‘It’s a disaster World Cup…’ : Iran captain Mehdi Taremi lashes out at FIFA
 
 
-## US judge: No quick dismissal of Adani case
+## ‘I thought I might die’: Saif recalls being stabbed, says he wants to forgive the attacker
 
 
-## Uddhav Thackeray attacks BJP over Ram temple donation row, MP defections
-He alleged that lord Ram has been politically captured by the BJP and announced that his party would soon launch a campaign to “free lord Ram”
-
-## ‘Do Bengalis know what rajma is?’: Mahua Moitra slams BJP as Bengal drops eggs from mid-day meals
-A political slugfest has broken out over ISKCON's vegetarian-only menu, as the TMC accused the BJP of seeking to impose a vegetarian cultural template.
-
-## Maharashtra TET 2026 exam postponed a day before test over 'paper leak'
-The TET examination was scheduled to be held on June 28 at 1,028 centres across Maharashtra.
-
-## Meet-up with world's oldest animal on PM Modi's Seychelles visit itinerary
-PM Modi has been invited as the Guest of Honour for the Golden Jubilee celebrations of the Seychelles' National Day celebrations.
-
-## Trump’s first India visit since 2020 may happen early next year, says US' Rubio
-A visit by Trump to India would be the US leader’s first since he visited New Delhi, Agra and Ahmedabad in 2020.
-
-## Delhi YouTuber, 32, held for stalking women, uploading harassment videos
-The YouTube channel has more than 72,000 subscribers and a combined 9 million views on all his videos, while the Facebook page has more than 2 lakh followers.
-
-## ‘Anti-social activity’, Uniform Civil Code: A look at key bills set to tabled in Bengal next week
-The Uniform Civil Code (UCC) has remained one of India's most debated issues since the period before Independence.
-
-## Found Ketan with crushed skull, Siya ‘appeared calm’: Man part of Lohagad Fort rescue team
-25-year-old Ketan Agarwal died after falling from a cliff at Lohagad Fort in the Pune district on June 18.
-
-## UK flags powerbank risk on flights amid rising heat: Why lithium ion batteries are not allowed
+## PGDM vs Executive MBA: Which management programme is right for you?
 
 
-## This 94-year-old former US citizen has one last wish — to die an Indian
+## Bhagyashree shares home remedy for PMOS: ‘Without side effects’
 
 
-## I’m Gen Z. Is the teenager in a Delhi slum Gen Z too?
+## Sadagoppan Ramesh slams Indian team: ‘…Ireland series was a picnic tour’
 
 
-## West Bengal to mark Syama Prasad Mookerjee’s 125th birth anniversary with year-long events
+## Marathon through meadows: Baramulla’s rural run draws 1,000 participants
 
 
-## ‘Enormous fans’ of PM Modi: Marco Rubio hails India’s rise as global power
+## 15-minute current booking rule boosts Vande Bharat train ridership across Southern Railway
 
 
-## ‘Grave allegations’: Gurgaon court denies bail to fake Mounjaro racket mastermind
-
-
-## Badshah says watching his parents grow old is ‘painful’; psychologist explains why
-
-
-## Maharashtra businesswoman gets Rs 5 crore extortion call from ‘Bishnoi aide’
+## Punjab man dies in Italy police custody after sexual assault complaint
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Childhood interrupted: Family awaits justice 8 years after baby was raped
+A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.
+
+## Exclusive: Infiltrating Myanmar’s scam syndicates
+101 East goes undercover to expose the playbook of Myanmar’s notorious scam industry.
+
+## No school, living in a tent, but it’s exam time in Gaza
+Dana Shabat, 18, has to walk an hour every day to go to a cafe to take her high school exams in the Gaza Strip.
+
+## Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule
+Cristiano Ronaldo's Portugal and Luis Diaz's Colombia clash in Miami, with both sides vying for the top spot in Group K.
+
+## Could Israel’s coming election see an end to Netanyahu’s political career?
+Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.
+
+## US, Iran trade strikes: What to know, will it unravel the MoU?
+As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.
+
+## Joy, disappointment, protests: A view from Egypt-Iran World Cup tie
+Egyptians hail historic qualification as Iranians voice appreciation to Team Melli who may still make it to next round.
+
 ## FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions
 Six World Cup games, knockout places on the line, Cape Verde make history and Iran wait for a place in the Round of 32.
-
-## Venezuelans dig for earthquake survivors as 72-hour rescue window nears end
-At least 920 people are confirmed dead and more than 51,000 missing after two quakes struck Venezuela on Wednesday.
-
-## Watch World Cup Day 16: Spain, Egypt, Cape Verde advance to Round of 32
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## Thai police arrest Australian over killing of teenager found in suitcase
-Suspect was stopped at Bangkok's main airport as he allegedly tried to fly home.
-
-## Germany braces for record-breaking temperatures as heatwave moves east
-Several countries including the UK and Switzerland have posted record June temperatures, with deaths reported in France.
-
-## Somali intelligence helps US arrest alleged leader of Minnesota fraud
-US prosecutors reach into Somalia for a suspect in US fraud case.
-
-## Iran war day 120: Tehran condemns US strikes, says it violates MoU
-US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.
-
-## Who profits from Africa’s gold?
-African governments seek greater control over gold, but much of its value continues to flow abroad.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
