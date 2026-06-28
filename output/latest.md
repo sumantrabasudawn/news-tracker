@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## Germany’s important pension reform plan
+An ambitious move that could have positive Europe-wide implications
+
 ## US and Iran exchange strikes as ceasefire falters
 Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
+
+## Who’s next in Trump’s campaign of retribution?
+A number of US lawmakers and officials are being investigated by the justice department
+
+## Robots, not chatbots, will realise AI’s potential
+Factory-floor applications of the technology could significantly enhance rich-world economies
+
+## Are AI stocks headed for further turbulence?
+Market Questions is the FT’s guide to the week ahead
+
+## Ebola-hit DR Congo lead minnows into World Cup knockout stages
+Central African team defy odds to progress alongside Cape Verde and Bosnia and Herzegovina
 
 ## AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns
 Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
@@ -9,20 +24,8 @@ Weak returns could trigger a sharp pullback in funding for tech companies that t
 ## Rival parties see Burnham’s northern focus as potential weak point
 Tory and Reform strategists argue prospective UK PM’s devolution push may turn out to be an electoral liability
 
-## Why keeping Europe cool need not be a luxury
-In the clean energy system the continent is trying to build, air conditioning basically comes for free
-
-## Spanish import hub urges EU to delay ban on Russian gas
-LNG shipments to the bloc have risen in the wake of the Middle East war
-
-## So, about that saga of Trump’s reflecting pool . . .
-In a desperate bid to deflect attention, the president is doing what he loves to do: blaming the libs
-
-## Why is the Starmer to Burnham transition so long?
-Like St Augustine, the assumed new Labour leader appears to want to be prime minister — but not yet
-
-## Overseas pension funds rethink investments in UK housing
-Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
+## James Sprayregen’s thirst for legal showdowns prompts late career move to Paul Weiss
+Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy among Wall Street firms
 
 ## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
 London-based buyout group is looking beyond its traditional speciality in corporate buyouts
@@ -30,38 +33,41 @@ London-based buyout group is looking beyond its traditional speciality in corpor
 ## Apple to fight $500mn patent bill at UK Supreme Court
 Battle over licensing of mobile connection protocols could shape global rates for other technologies
 
-## Young Britons turn to private healthcare as faith in NHS cracks
-Backlogs, dilapidated hospitals and rising demand from an ageing population are leading younger adults to forsake the state system
+## Why keeping Europe cool need not be a luxury
+In the clean energy system the continent is trying to build, air conditioning basically comes for free
 
-## Google caps Meta’s Gemini use as AI demand strains capacity
-Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
+## Spanish import hub urges EU to delay ban on Russian gas
+LNG shipments to the bloc have risen in the wake of the Middle East war
 
-## Mines will hold back Strait of Hormuz shipping for months, CEO warns
-NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic to half prewar levels
+## Overseas pension funds rethink investments in UK housing
+Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
 
-## Gold, silver may face a tough week ahead. Here’s what analysts are saying
-Gold futures for August delivery fell ₹3,041, or 2.06%, during the week to settle at ₹1.44 lakh per 10 grams on MCX
+## Pakistan’s loss is India’s gain: Basmati rice export to Afghanistan likely to surge
+Officials familiar with the discussions said representatives from the Afghan diplomatic mission in New Delhi participated in the meeting and expressed interest in increasing procurement of Indian Basmati
 
-## Move beyond ‘Made in India’ to ‘designed in India’: Minister Sharan Prakash Patil
+## ITC shifts growth strategy to manufacturing, agriculture and distribution
+Annual report signals a strategic shift from building individual businesses to leveraging manufacturing, agriculture, sourcing, research and distribution as an integrated competitive platform
 
+## Liquor tax bonanza: States clock up to 82% jump in excise revenues; UP gets ₹10,000 cr in April-May, Haryana records 82% growth
+This surge is attributed to increased consumption, excise rate hikes by State governments, and rising base prices from manufacturers
 
-## India's vision is to make Indian Ocean an ‘ocean of opportunity’: Modi in Seychelles
-The PM said: "We believe the Indian Ocean is our shared home. Its security, sustainability and prosperity are our shared responsibility," adding that this was the core of India's MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision
+## Low birth weight babies to be added to Anaemia Mukt Bharat as Centre prepares to revamp guidelines
+Union Health Minister JP Nadda will release the operational guidelines for the revamped strategy at the 16th meeting of the Central Council of Health and Family Welfare (CCHFW) on Monday
 
-## Top MDMK leaders, district secretaries join DMK a day after alliance breaks
-Leading the exodus were high-level committee members and district secretaries, including Pulavar S Sevanthiyappan (Sivaganga), T R R Senguttuvan (Tiruvallur), propaganda secretary Thiruparankundram Azhagusundaram and R M S Sekhar (Virudhunagar).
+## Iran destroys 8 American military infrastructures in Kuwait, Bahrain in response to second US strikes, claims IRGC
+The IRGC further stated that US forces had attacked five Iranian coastal positions earlier on Sunday, accusing Washington of violating a ceasefire agreement
 
-## Board of Trade to meet on July 3 to discuss ways to boost exports
-BoT includes participants from various states, Union territories, and senior officials from the public and private sectors
+## Athulya Senior Care eyes $30 million fund raise to fuel senior care expansion
+The hospital offers outpatient and inpatient services, emergency care, dialysis, chemotherapy, rehabilitation and minor procedures, with care delivered by doctors and healthcare professionals trained specifically in geriatric medicine
 
-## India's debt market not equipped to finance next phase of growth, needs structural reforms: Deloitte
-The report stated that India’s economy needs significantly more long-term capital, but the current debt market cannot meet those financing needs efficiently
+## India, Seychelles unveil 19 outcomes spanning defence, digital payments, space, health
+Package of outcomes reflects broadening of New Delhi’s engagement with the strategically located Indian Ocean archipelagic nation
 
-## Environmental chemicals, pollution under scanner as doctors flag concerns over hypospadias
-Globally, hypospadias affects roughly one in every 150-200 male births
+## Around 11-lakh families have received assistance totalling ₹22,000 crore under ‘PMJJBY’ scheme: PM
+Addressing the 135th episode of ‘Mann Ki Baat’, the PM said these figures are massive and behind these numbers lie the individual stories of lakhs of families
 
-## MSMEs key to India’s developed nation ambition: BV Naidu, KDEM
-
+## India's debt market not ready to fund next growth phase: Report
+India's debt market requires urgent structural reforms to fund its ambitious economic growth, warns Deloitte. The report highlights that relying solely on bank deposits is no longer viable as household savings shift. To achieve its $7.3 trillion economy target by 2030, the market needs greater depth
 
 ## Gold, silver rate outlook: Prices face key test next week as US dollar, Iran tensions and jobs data take centre stage
 Gold and silver prices are poised for further pressure this week as global economic data and geopolitical tensions between the US and Iran take center stage. Analysts anticipate market participants will closely monitor key inflation and employment figures, which could sway the US Federal Reserve's i
@@ -84,56 +90,56 @@ US economic growth surprised on the upside, while job losses remained low. Howev
 ## Hormuz got busy after months, now it's facing another roadblock
 Ship traffic through the Strait of Hormuz surged briefly following US sanctions relief and a humanitarian evacuation effort. However, a fresh attack in the Gulf of Oman halted the operation, causing traffic to plummet. Iran's warning about safe passage routes further heightened concerns, leaving maj
 
-## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
-Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
+## What is the 10-hour 'offline strategy' in Pune realtor Ketan Agarwal's murder case?
+Investigators say Chaudhary remained completely disconnected from mobile internet for around 640 minutes on the day of the incident.
 
-## Drugs hidden in woman's private parts, seven arrested in MDMA haul in Kerala
-The operation began on Friday night when personnel from the Peechi police station intercepted a car during a vehicle inspection at Vaniyampara.
+## Akhilesh Yadav accuses BJP of ‘chanda chori’, Yogi says ‘your people shot at Ram devotees’
+Ram temple donation row: Samajwadi Party chief Akhilesh Yadav accused the ruling party of using religion as a cover for corruption.
 
-## 3 neighbours arrested for alleged sexual abuse of minor in Hooghly in West Bengal
-Acting on the allegations, the Police arrested 3 people, though the family has reported difficulties in obtaining copies of FIR and medical examination record.
+## MEA slams Pakistan's 'baseless' claims over Karachi attack: 'Look inward, act on terror'
+The militant group Jamaat-ul-Ahrar, a breakaway faction of the Pakistani Taliban, claimed responsibility for the attack shortly after it occurred.
 
-## NDRF intensifies search for missing persons after Arunachal flash flood, two bodies recovered
-Five people had gone missing in the flash flood. Authorities have so far recovered two bodies, while efforts are underway to locate the remaining three.
+## 'We'll stand beside you as friends': PM Modi invokes shared ties in Seychelles Parliament speech
+Modi, who became the first Indian Prime Minister to address the Seychelles parliament, invoked the first Indians to arrive at the island more than 250 years ago
 
-## PM Modi receives Seychelles' highest environmental honour, 'Guardian of the Blue Horizon'
-PM Modi dedicated the award to all nations working collectively to tackle the growing challenges of climate change.
+## Tripura man held for killing his two minor children over domestic dispute: Police
+Police arrested a 34-year-old man in Tripura for allegedly beating his two children to death following an altercation at home.
 
-## CBI must probe Ram Mandir donation embezzlement case: Acharya Pramod Krishnam
-Ex-Congress leader Acharya Pramod Krishnam demanded a CBI probe into the alleged Ram Mandir donation theft case, saying a high-level investigation was necessary
+## CJP alleges Delhi Police cut water, sanitation facilities at Jantar Mantar amid Sonam Wangchuk's hunger strike
+Sonam Wangchuk began his indefinite fast on Sunday at Jantar Mantar, where the CJP has been staging a sit-in since June 20.
 
-## 'Good initiative, reliable': Users impressed with Rapido's 'bike rated by women' option
-The rollout has drawn positive reactions from users, with many describing it as a meaningful step towards improving safety and confidence for women commuters.
+## Sour relationship and plot to die together: How a Karnataka man was killed in car fire, ex-girlfriend escapes
+The cops found the charred body of a man on reaching the spot. The deceased has been identified as Nagendran.
 
-## Man charred to death in car explosion on highway in Karnataka, ‘kidnapped’ woman survives
-Before the incident, he had hit a woman inside the car with a knife on her head. She, somehow, managed to come out of the vehicle.
+## Gurugram man killed by speeding Thar two days before 34th birthday, family demands justice
+The victim's father has vowed to seek justice and avenge his son's death as the police issues a probe and arrests the accused in the case
 
-## Health ministry proposes shorter licensing timeline for medical devices
-The draft notification was issued based on the suggestions made by the Drugs and Technical Advisory Board
-
-## Are Taylor Swift and Travis Kelce getting married at Madison Square Garden? What we know
+## Akshay Kumar’s Rustom derailed Soni Razdan’s Nanawati directorial: ‘Still want to make it’
 
 
-## Iran’s World Cup exit is no ordinary football heartbreak
+## India strongly rejects Pakistan accusations on Karachi incident
 
 
-## India vs Australia Live Score, Women T20 World Cup 2026: IND face AUS in must-win clash at Lord’s
+## Rajasthan launches primary school mental health drive; student well-being improves by 69%
 
 
-## Haryana Police on viral cow vigilante assault video: ‘No injuries found on arrested men’
+## Saudi Aramco helicopter crashes in Ras Tanura, killing 14 people
 
 
-## No ambulance, no bridge: Woman gives birth while carried on cot across river, video goes viral
+## Delhi government gives 1,000 coaching centres one month to comply, warns of shutdown
 
 
-## ‘We get angry too’: Yuzi’s parents open up on hate comments; psychiatrist weighs in
+## France plane crash: At least 11 dead after civilian aircraft crashes in Tomblaine
 
 
-## From Fariapukur murals to tea stalls, Kolkata’s unmatched FIFA World Cup frenzy
+## Dola Sen accuses rival leaders of forgery and impersonation as Trinamool rift deepens
 
 
-## Film body backs Satendra Soni, seeks FIR against filmmaker over death threat allegations
+## Expert Explains | What US-Iran negotiations mean for West Asia’s regional security, market stability
 
+
+## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
+Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience. DeepSeek, by adopting w
 
 ## How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS
 As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international organisation has warned that an AI downturn could develop into a sharper, faster crash than a traditional b
@@ -155,9 +161,6 @@ Hong Kong is pressing ahead with an overhaul of listing rules and the launch of 
 
 ## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
 Chinese sportswear maker Xtep International has opened Saucony’s first standalone store in Hong Kong, signalling the premium running brand will expand further, with the city positioned as a showcase market while the group’s core label is reserved for broader overseas growth. The outlet at K11 Art Ma
-
-## EV influx, US rare earth miners blacklisted, China-EU trade talks
-Chinese automakers will debut more than 150 electric vehicles in the second half of the year, even as the industry contends with slowing domestic demand, profit-destroying price wars and international complaints about overcapacity. BYD, Geely and other industry leaders will roll out multiple models 
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -255,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 11 dead in civilian plane crash in eastern France: Authorities
+This is a breaking news story.
+
+## World Cup 2026: Most controversial VAR officiating decisions in group stage
+From Iran's stoppage-time winner ruled out by VAR, to Ghana denied a penalty against England - all the controversies.
+
+## Uganda’s military chief orders shutdown of two media outlets
+The president's son said he did not believe in a free press as military personnel were deployed to the media offices.
+
+## ‘US trying to find its way out of MoU with Iran’
+Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.
+
 ## Iraq security forces arrest several officials in anticorruption crackdown
 Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.
 
@@ -266,18 +281,6 @@ US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in respo
 
 ## Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance
 Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## South Africa vs Canada: World Cup 2026 – prediction, team news and lineups
-Neither South Africa nor Canada has reached the knockout rounds of a World Cup before, but now a last-16 place awaits.
-
-## DR Congo fans celebrate reaching World Cup knockout stage
-DR Congo fans are celebrating after their team secured a historic place in the World Cup knockout stage.
-
-## ‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks
-Suffering of Gaza's children continues unabated due to Israeli attacks despite 'ceasefire' reached in October 2025.
-
-## Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream
-Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
