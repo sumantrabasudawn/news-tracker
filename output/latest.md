@@ -42,6 +42,15 @@ In the clean energy system the continent is trying to build, air conditioning ba
 ## Spanish import hub urges EU to delay ban on Russian gas
 LNG shipments to the bloc have risen in the wake of the Middle East war
 
+## Editorial. Inflection point
+With a little support, MSMEs can be a driving force
+
+## Persistent deal positions us for AI transformation era: Nagarro CEO Manas Human
+The CEO believes the deal is not only about adding scale, but also about creating a global leader in “AI transformation and engineering”
+
+## Monsoon update: IMD says rains likely to reach several northern states in 5-6 days
+IMD also warns of heatwave conditions -- possibly severe -- in Uttar Pradesh on July 28 and 29
+
 ## FPI debt flows hit 15-month high in June
 June accounts for 58% of fully accessible route inflows in 2026
 
@@ -57,14 +66,8 @@ Speaking about her experience shaping international health policy, Swaminathan s
 ## Indian IT faces FY27 guidance cut risk as AI, geopolitics cloud demand
 With spending shifting toward AI tokens and cloud, industry growth and recovery remain uncertain
 
-## India's construction boom fuels Quess Corp’s next staffing play
-The staffing firm entered the construction segment around two years ago and currently deploys between 3,000 and 5,000 workers across projects spanning airports, roads, industrial facilities and other infrastructure developments
-
-## Tesla knocks Delhi government’s door for incentives in EV Policy
-The flagship Tesla showrooms are open in major metro areas like Mumbai, Delhi, and Gurugram, but even without local production, the company has direct deliveries and services available across 21 States in India
-
-## ITC bets on digital rural services, life sciences and sustainable materials as next growth engines
-ITC is building three new growth platforms in digital rural services, life sciences and sustainable materials as it looks beyond its traditional consumer businesses for long-term expansion, according to its FY2026 annual report
+## Piyush Goyal heads business delegation to Greece, focus on trade and startup partnerships
+Commerce Minister Piyush Goyal is leading a delegation to Greece to boost trade, investment, and startup collaboration. The visit aims to explore new commercial partnerships, building on recent diplomatic talks. Despite growing engagement, bilateral trade remains below its potential. Greece's strate
 
 ## Wall Street outlook: Jobs data, Fed rate bets to test US stock rally after strong first half
 Wall Street braces for a crucial US jobs report that could sway Federal Reserve interest rate decisions. While the S&P 500 saw first-half gains, June's volatility, driven by AI stock swings and inflation concerns, has investors on edge. A strong jobs number might fuel fears of further rate hikes, im
@@ -87,8 +90,11 @@ India's state-run oil companies have proven indispensable during recent crises, 
 ## SEZ reforms: Commerce ministry calls stakeholders' meet on June 30 to discuss policy overhaul
 The Commerce Ministry is convening a stakeholder meeting on June 30 to discuss crucial reforms for Special Economic Zones (SEZs). The focus will be on harmonizing export promotion schemes and simplifying business operations within these enclaves. Discussions will cover issues like domestic payments,
 
-## 90% of India's planned renewable projects face climate risk. Here's how to build them safer
-A Zurich Group report reveals that most of India's planned renewable energy projects face significant climate risks by 2030. Ninety percent of these sites are at high or critical risk from hazards like floods and wildfires. However, with many projects still in development, incorporating resilience m
+## When will monsoon reach Delhi, north India? IMD says wait may be over in 5-6 days
+The IMD on Sunday said conditions are favourable for the monsoon to advance further across northern states over the next five to six days.
+
+## After back-to-back wins in northern states, BJP eyes South, sets agenda for Telangana polls
+With both Telangana and Karnataka set to vote in Assembly elections in 2028, the BJP is looking to strengthen its organisational base across the South.
 
 ## Amit Shah launches PM Family Care Tracker Pilot, Health Passport in Gandhinagar
 Shah said the integrated digital platform would strengthen governance and ensure that no eligible beneficiary is deprived of welfare benefits
@@ -108,34 +114,28 @@ Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of part
 ## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
 Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
 
-## Third front in Himachal? Ex-BJP minister says new party likely before 2027 assembly polls
-Ram Lal Markanda, a former BJP minister who was expelled from the party in 2024, said he has been meeting leaders from various parties.
-
-## From Garba to Moutya, Samosas to Chutney: PM Modi celebrates 'Creole Spirit' in historic seychelles address
-In his address to the 8th National Assembly of Seychelles, PM Modi underscored the "indivisibility" of the region's security.
-
-## Arthur Road Jail redevelopment hits a wall: Where will 3,000 inmates go
+## 18 years of tiger reintroduction in Sariska: Centre flags priority intervention need in 25 of 58 tiger reserves with low, absent tigers
 
 
-## Social media’s favourite new ‘sleep hack’: What glycine supplements actually do to your body
+## India stunned by Ireland for 2nd game in row to lose series 2-0
 
 
-## Assam: Heavy rain disrupts rail traffic, check full list of affected trains
+## TET paper leak probe widens; teams sent to Delhi, Haryana, UP, Bihar
 
 
-## ‘Fake loans, unauthorised transactions’ unearthed at bank in J-K, case filed
+## India crash out of Women’s T20 World Cup 2026 after losing to Australia in must-win clash
 
 
-## Quick Comment: Harmanpreet Kaur brings out her best once again vs Australia
+## Iran draws red line on Hormuz after fresh round of strikes with US: Major developments
 
 
-## Ahead of Ashadhi Wari, ASHA workers told to step up health awareness drive
+## Claims of lack of development funds by rebel MPs expose Mahayuti: Congress
 
 
-## Sooryavanshi warms bench as both India openers bag golden ducks for first time in T20Is
+## Muharram poisoning: Mumbai police question accused’s family, source of zinc phosphide still not found
 
 
-## Sharvari, Vedang Raina hug at Main Vaapas Aaunga screening; film earns Rs 64 cr
+## Ameesha recalls getting tanned for ‘Kaho Naa.. Pyaar Hai’: Here are some beach skin care tips
 
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Drone captures ongoing rescue efforts after Venezuela earthquakes
+Drone footage from Venezuela's La Guaira shows widespread destruction after twin earthquakes devastated the region.
+
+## Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes
+George Russell's victory over Max Verstappen further reduces teammate Kimi Antonelli’s lead in the drivers' title race.
+
+## Israel strikes Lebanon, testing days-old peace deal
+Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.
+
+## South Africa vs Canada LIVE: FIFA World Cup 2026
+Live updates, analyses and text commentary as South Africa face cohosts Canada in first knockout match in Los Angeles.
+
 ## Iraq arrests senior officials in anti-corruption raids
 Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.
+
+## Three firefighters killed in US wildfires along Colorado–Utah border
+The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes.
 
 ## Ben Stokes, England test captain, to retire from international cricket
 England test captain Ben Stokes will retire from international cricket after the ongoing test match against New Zealand.
 
 ## Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak
 Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis.
-
-## If USMCA is not renewed, analysts expect uncertainty for businesses
-US President Donald Trump has warned he would 'rather not have' the free trade agreement ahead of its July 1 review.
-
-## Pape: US trying to ‘squeak out of strategic defeat’ after Iran
-Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.
-
-## World Cup 2026 Round of 32: Biggest takeaways from the group stage
-FIFA World Cup group stage is now behind us with plenty of key talking points as the tournament enters the knockouts.
-
-## European heatwave causes 1,000 excess deaths in France
-AFP estimates that at least 191 million people are forecast to experience temperatures of at least 35C in Europe.
-
-## IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes
-Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
