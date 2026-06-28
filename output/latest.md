@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## US carries out second day of strikes against Iran
-Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire
+## US and Iran trade strikes as ceasefire falters
+Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
 
 ## Rival parties see Burnham’s northern focus as potential weak point
 Tory and Reform strategists argue prospective UK PM’s devolution push may turn out to be an electoral liability
@@ -24,53 +24,44 @@ Australia’s Aware Super and Omers of Canada have faced issues with planning po
 ## Google caps Meta’s Gemini use as AI demand strains capacity
 Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
 
-## Chinese tech hub’s shift into robotaxis leaves drivers by the wayside
-Shenzhen expands driverless vehicles as growing automation drive threatens gig economy workforce
+## Apple to fight $500mn patent bill at UK Supreme Court
+Battle over licensing of mobile connection protocols could shape global rates for other technologies
 
-## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
-London-based buyout group is looking beyond its traditional speciality in corporate buyouts
+## Growing numbers of young people in UK turning to private healthcare
+Backlogs, dilapidated hospitals and rising demand from an ageing population are leading younger adults to forsake the NHS
 
-## US insurance rulemaker suspends investment risk designations after cyber attack
-Ratings help determine how much capital insurers must have to meet obligations to policyholders
+## Mines will hold back Strait of Hormuz shipping for months, CEO warns
+NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic to half prewar levels
 
-## German carmakers embark on historic job cuts as Chinese rivals flood market
-Threat to industrial model of Europe’s largest economy mounts
+## Inside Rolls-Royce’s quest to return to powering short-haul aircraft
+CEO Tufan Erginbilgiç is seeking state backing for an engine it hopes will power the next generation of narrow-body jets
 
-## Tower crash calls Beijing’s air security into question
-FT research identifies owner of vehicle under investigation at flight school linked to impact
+## Employers across globe continue to have confidence in MBA graduates despite AI boom: GMAC report
+Across industries, more than half of employers agreed or strongly agreed that a graduate business degree is more important than ever as businesses adopt new technologies
 
-## QuidelOrtho looks to sell testing unit as PE circles healthcare companies
-Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19
+## Commerce ministry convenes stakeholders' meet on June 30 on SEZ issues
+The meeting will focus on issues related to the harmonisation of export promotion schemes and SEZ reforms, the official said.
 
-## Chipmakers are expensive globally
-Valuations are high for AI-exposed markets
+## PM Modi holds delegation-level talks with Seychelles President Herminie as part of his state visit
+External Affairs Minister S. Jaishankar, National Security Advisor A. Doval, and Foreign Secretary V. Misri attended the delegation-level talks
 
-## Football’s stealthy super league
-Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixing Nike
+## Pakistan hikes levy on petrol, diesel; retail prices unchanged
+The petroleum levy on high-speed diesel has been increased by PKR 6.57 to PKR 79.54 per litre, and the levy on petrol has risen by 39 paisa to PKR 66.64 per litre
 
-## RE projects: Build more, save ₹2.27 lakh cr
-Calls grow for halving ‘build limits’ by 50 per cent to enable faster deployment of renewable energy projects
+## Board of Trade to meet on July 3 to discuss ways to boost exports
+BoT includes participants from various states, Union territories, and senior officials from the public and private sectors
 
-## Private sector key to India-US AI tie-up: K Nagaraj Naidu, Addl Secy, MEA
-K Nagaraj Naidu said recent initiatives between India and the US were laying the foundation for long-term collaboration across strategic technology sectors
+## Eggs remain most affordable source of complete protein, say nutrition experts as West Bengal changes mid-day meals
+Dr Khanna described eggs as one of nature's finest foods, citing their high-quality protein and essential nutrients, including vitamin B12, choline, vitamin D and iron
 
-## Nagapattinam international port to get duty free shops as India-Sri Lanka ferry traffic booms
-The Tamil Nadu government will establish duty-free retail shops at the port to align it with international maritime and aviation hubs
+## Health ministry proposes amendments to Medical Devices Rules
+The draft notification seeks to simplify and expedite the licensing process while ensuring continued compliance with quality, safety and performance requirements, the ministry said on Sunday
 
-## Frustration grows in Venezuela as earthquake death toll reaches 1,430
-Experts said the destruction was amplified by the quick succession of shallow quakes
+## Around 11-lakh families have received assistance totalling ₹22,000 crore under ‘PMJJBY’ scheme: PM
+Addressing the 135th episode of ‘Mann Ki Baat’, the PM said these figures are massive and behind these numbers lie the individual stories of lakhs of families
 
-## SBI ends land dispute with Telangana govt, to withdraw case
-The State government has also agreed to offer an additional plot in the upcoming Future City for a data centre to be set up by the bank
-
-## AP govt allots land to SAF One India SPKompact for SAF production facility in Kakinada
-The proposed facility is expected to generate 2,500 directed and indirect jobs
-
-## From dam to field: How water infrastructure is India’s answer to climate-driven agricultural risk
-Qater infrastructure is not merely an enabler of growth but a foundation for climate resilience, food security and rural prosperity
-
-## How global consumers are redefining the basmati rice market
-Traceability, health credentials, packaging innovation and cooking performance are expressions of the underlying shift
+## 90% of India's planned renewable projects face climate risk. Here's how to build them safer
+A Zurich Group report reveals that most of India's planned renewable energy projects face significant climate risks by 2030. Ninety percent of these sites are at high or critical risk from hazards like floods and wildfires. However, with many projects still in development, incorporating resilience m
 
 ## From inflation to mortgage rates: What moved US economy's report card this week
 US economic growth surprised on the upside, while job losses remained low. However, persistent inflation, fueled by rising fuel and electronics costs, is squeezing consumers. Despite a slowdown in spending, businesses are investing heavily in AI, leading to price hikes on tech products like Apple's 
@@ -93,56 +84,56 @@ China's industrial profit growth saw a dip in May, despite robust exports and ri
 ## Kotak Mahindra Bank CEO Ashok Vaswani to exit after term ends in December 2026
 Kotak Mahindra Bank's CEO, Ashok Vaswani, will not seek reappointment after his term ends December 31, 2026, citing personal reasons. The bank has initiated the process to find a successor. Vaswani, who took charge in January 2024, aims to elevate the bank's standing amidst a period of regulatory re
 
-## Can AI boom make everything more expensive? IMF's chief economist says the inflation story is just beginning
-Artificial intelligence is now a new driver of inflation, according to IMF Chief Economist Pierre-Olivier Gourinchas. He explains that AI is increasing costs for technology hardware and simultaneously making consumers wealthier through booming stock markets, leading to higher spending. This dual imp
+## India's first green hydrogen train on track: It generates electricity & emits water vapour
+Indian Railways tested the train's braking and stability on the Jind-Sonipat line this week. A look at how the hydrogen fuel cell works
 
-## Govt says fallen Op Sindoor soldiers were honoured in 2025, issues clarification: ‘Paid homage at earliest opportunity'
-The defence ministry said such reports were "incorrect" and stressed that the nation had paid tribute to the fallen soldiers “at the earliest opportunity”.
+## ‘Vengeful and petty’: Congress MP Jairam Ramesh attacks Centre over VB G RAM G Act
+Criticising the lack of reference and approval from parliament, Ramesh flags additional financial burden on states caused by MGNREGA-substitute
 
-## Indian student, 25, from Telangana found dead in London; family questions circumstances surrounding his death
-The family has appealed to both the Central and Telangana governments to intervene and help bring dead son's body back to his hometown at the earliest.
+## Kerala minister points to Ram Mandir embezzlement amid Sabarimala gold loss case
+K Muraleedharan said those criticising the Kerala government should also explain why gold was allegedly stolen from the Ayodhya temple.
 
-## TMC rebels flex muscle again, hold second councillors’ meet ahead of civic polls
-People aware of the matter said 47 former TMC councillors attended the meeting at a private banquet hall in Topsia area of East Kolkata.
+## Couple returning from Haj to Srinagar win ₹62k from SpiceJet after boarding denied, luggage delayed
+The couple's son had booked SpiceJet tickets for the evening flight scheduled to depart Delhi at 6:45 pm and arrive in Srinagar at 8:20 pm.
 
-## Faridabad man, who killed pregnant wife, locked her inside house for 10 hours daily: Cops
-Police said he had been routinely locking her inside their newly constructed house in Panchsheel Colony Part II until he stopped going to the office last week.
+## Rajasthan cop suspended after boiling water splashed on momo seller during police action, causing severe burns
+Boiling water allegedly fell on Reshu Gupta after a policeman allegedly pushed and overturned the vendor’s cart following an argument on June 19.
 
-## Centre to launch Aarogya Setu 2.0 on June 29 to expand access to healthcare services
-The Centre described the new Aarogya Setu as a Personal Health Record application to build on the “trust and reach” the app established during Covid-19..
+## Book Box: Halfway through 2026, the books worth reading and skipping
+After a week of building shelves rather than reading, the author reflects on a disappointing reading year so far, seeking better book recommendations.
 
-## Just Like That | Route Laga Hai: The tyranny of VVIP movement
-From “route laga hai” to endless traffic jams, VIP motorcades highlight the growing disconnect between India’s rulers and ordinary citizens.
+## Man distributes rat poison-laced capsules at Mumbai Muharram procession to cause 'mass harm', arrested
+The police said that it is investigating if there is any foreign link to this incident and whether more people are involved.
 
-## Weak supervision, CCTV deficiencies: SIT sees pattern of lapses in Ram Mandir fund-keeping
-The SIT’s preliminary findings pointed to multiple systemic deficiencies, including weak supervision and deficiencies in CCTV monitoring, said officials.
+## Jewar to Lucknow in 100 minutes? Inside the Delhi-Varanasi bullet train project, Ashwini Vaishnaw's big plan
+Union railways minister Ashwini Vaishnaw said the proposed Delhi-Varanasi bullet train will reduce travel time across Uttar Pradesh once it becomes operational.
 
-## Indian bulk vessel APJ Priti 2 carrying 65,000 MT fertiliser crosses Strait of Hormuz safely
-Fifteen vessels of Indian interest remain stranded in the Persian Gulf, west of the strait, and were identified for evacuation, the directorate said in a report
-
-## Drug syndicate running from Delhi houses busted, 4 of family arrested
+## Punjab engineer gives up ‘Australian dream’, earns Rs 80L annually from buffalo farming and start-up consultancy
 
 
-## US seizes nearly 400 websites that were illegally streaming World Cup, DOJ says
+## Carlos Queiroz slams expanded 48-team FIFA World Cup: ‘Vulgar and ordinary’
 
 
-## Messi, Ronaldo, Mbappe, Haaland: A golden boot race unlike any other
+## Zohran Mamdani jumps into NYC swimming pool in a suit; video sparks debate
 
 
-## Australia toughens kids’ social media ban, doubles potential penalties for tech firms
+## US will win ‘either way’: JD Vance on what’s next for Iran
 
 
-## ‘They said I have double dad syndrome’: Ansiba Hassan on ex-AMMA colleagues
+## 2 dead after Mumbai office trekkers’ bus falls 50 feet into Pune’s Pabe Ghat gorge
 
 
-## ‘A ghost-self walks alongside you’: Maggie O’Farrell on Hamnet, Land, and the maps we carry within
+## India’s microdrama market is already matching the entire box office, says Shekhar Kapur
 
 
-## Varanasi-Ranchi Vande Bharat train schedule revised: Check new timings, stops, travel time, ticket price
+## How Lionel Scaloni built an Argentina side that can thrive without Lionel Messi
 
 
-## Slipper thrown at Congress MLA Pradeep Eshwar over his remarks against Kumarawamy
+## Pilgrims stranded in Nepal, MEA issues Mansarovar Yatra advisory
 
+
+## As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC
+As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help solve the technology sector’s power problem. Shenzhen-based Basic Semiconductor is the latest conten
 
 ## China’s big trucks go electric and abroad as subsidies help pave road to net-zero freight
 Domestic makers of heavy-duty trucks are emerging as the latest beneficiaries of accelerating electrification on China’s roads, as technological gains and lower ownership costs are bolstering overseas sales amid a global energy crisis. Southeast Asia and Africa, where Chinese makers have already est
@@ -164,9 +155,6 @@ Chinese automakers will debut more than 150 electric vehicles in the second half
 
 ## China’s unicorns rise to 381 as ByteDance ranks in top 3 globally: Hurun index
 China is breeding a new generation of unicorns – start-ups currently valued at US$1 billion or more – at an accelerating pace, cementing its place alongside the United States in a major global index. The world’s second-largest economy saw 381 Chinese unicorns on the 2026 Hurun Global Unicorn Index, 
-
-## Indonesia set to issue US$1 billion in panda bonds in China
-Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of 
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -264,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gulf countries attacked after US launches second round of strikes on Iran
-Gulf countries attacked after US launches second round of strikes on Iran.
+## South Africa vs Canada: World Cup 2026 – prediction, team news and lineups
+Neither South Africa nor Canada has reached the knockout rounds of a World Cup before, but now a last-16 place awaits.
 
-## Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal
-Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.
+## DR Congo fans celebrate reaching World Cup knockout stage
+DR Congo fans are celebrating after their team secured a historic place in the World Cup knockout stage.
 
-## Anger grows in Venezuela as citizens blocked from aiding earthquake rescue
-Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.
+## ‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks
+Suffering of Gaza's children continues unabated due to Israeli attacks despite 'ceasefire' reached in October 2025.
 
-## Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast
-Donald Trump threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.
+## Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream
+Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.
 
-## US launches second night of strikes on Iran after ship hit by drone
-The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.
+## Polls open in New Caledonia’s first provincial elections since 2019
+The New Zealand public broadcaster reports that about 2,500 police officers were deployed to secure and monitor polling stations.
 
-## Videos show Israeli settlers trying to seize house in occupied West Bank
-Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.
+## In pictures: Race against time to rescue Venezuela earthquake survivors
+Time is running out in Venezuela's race to locate survivors as experts highlight the crucial 72-hour rescue window.
 
-## Donald Trump nominates ex-state trooper Lance Schroyer as ICE director
-The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.
+## Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz
+US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.
 
-## Colombia vs Portugal 0-0: FIFA World Cup 2026 – as it happened
-All the updates from a lively but goalless game, as Colombia top Group K, while Portugal finish second.
+## Which teams are in World Cup last-32 knockouts, and what is the schedule?
+All the qualified teams and match schedule for the round of 32 at the 2026 FIFA World Cup, which begins on Sunday.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
