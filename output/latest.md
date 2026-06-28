@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US carries out second day of strikes against Iran
+Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire
+
+## Javier Milei’s top aide resigns over corruption scandal in Argentina
+Allegations against cabinet chief Manuel Adorni have engulfed libertarian government for months
+
 ## Venezuela earthquake death toll climbs amid anger over slow response
 Country’s US-backed interim leader Delcy Rodríguez accused of failing to provide help for the victims
 
@@ -18,14 +24,11 @@ Threat to industrial model of Europe’s largest economy mounts
 ## Tower crash calls Beijing’s air security into question
 FT research identifies owner of vehicle under investigation at flight school linked to impact
 
-## Thousands of foreign students made false qualification claims, says consultancy
-Qualification Check says many UK universities did not conduct detailed verification
+## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
+London-based buyout group is looking beyond its traditional speciality in corporate buyouts
 
 ## QuidelOrtho looks to sell testing unit as PE circles healthcare companies
 Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19
-
-## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
-London-based buyout group is looking beyond its traditional speciality in corporate buyouts
 
 ## Chipmakers are expensive globally
 Valuations are high for AI-exposed markets
@@ -36,6 +39,12 @@ Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixin
 ## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake
 Many large investors agree that private credit group’s offer must reach £7 per share
 
+## US military says it struck multiple targets in Iran as ceasefire strained by second day of attacks
+The latest escalation has intensified fears over global oil supplies and shipping security in the key maritime route.
+
+## The tax-filing trilemma: Choosing between self, practitioner or CA
+For salaried employees, small proprietors and small businessmen, the choice of filing should depend on the nature of income—not the size of the tax bill
+
 ## ‘MSMEs must innovate, scale up to build competitive global businesses’
 He urged companies to move away from ‘Me-too’ products and create ‘Me-First products’
 
@@ -45,9 +54,6 @@ They need to rejig their model from being mere subcontractors to owning high val
 ## Kerala pitches Palakkad industrial city to attract Tamil Nadu MSMEs
 Inviting entrepreneurs to expand into Kerala, Vijayan said “Kerala is rising. Please rise with us so that entire South India can rise together”
 
-## Self, practitioner or CA: which route should you take to file your tax returns?
-For salaried employees, small proprietors and small businessmen, the choice of filing should depend on the nature of income—not the size of the tax bill
-
 ## Will the old adage of ‘dumb money’ come back into play?
 The ‘buy-the-deep’ move by retail investors seems to be backfiring and it may be time to re-orient strategy
 
@@ -56,9 +62,6 @@ He urged not to focus on the top line, but on profit margins and cash flow and t
 
 ## ‘MSMEs must break out of the small comfort zone and grow’
 They must shift their focus to building larger, purpose-driven enterprises, says Elgi Equipments MD
-
-## India Inc and its capex chronicles
-Traditional manufacturing eyes efficiency with expansion and new-age investments are starting to take off, while India Inc financials are primed to support the growth
 
 ## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
 Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
@@ -108,28 +111,28 @@ The TMC has been organising a mammoth rally every year in Esplanade, the heart o
 ## Militant chief remanded to 4-day police custody in UAPA cases in Manipur
 During the hearing, the sub-divisional police officer (SDPO) of Singjamei police station sought custody of the accused for further investigation
 
-## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Focus on Ronaldo in Messi town
+## Record stores, DJs & venue owners say new generation is embracing vinyl
 
 
-## Desperation mounts as earthquake death toll rises to 1,430 in in Venezuela
+## Lodha Belmondo residents hold silent candle march for Ketan Agarwal
 
 
-## ‘Perfume is chemistry’: Why your favourite scent smells different on someone else
+## Ceasefire on the edge: How tanker attacks in two days pulled the US and Iran back to war
 
 
-## What is Slate Auto, and how is its $25,000 electric truck different from other EVs?
+## Two TMCs make a less-than-whole Opposition in West Bengal Assembly
 
 
-## Honey Singh can ‘never say no’ to this Indian sweet; learn how to make it at home
+## Mass poisoning bid at Muharram rally in Mumbai, man arrested: Police
 
 
-## Delhi-Varanasi bullet train to cut Jewar-Lucknow travel time to just 1 hour 40 minutes: Ashwini Vaishnaw
+## Express Special | From Ganga to global pet markets: Police in Madhya Pradesh map rail route of protected turtles
 
 
-## The case of two dead Elenas: Chilling double murder of Russian women in Goa reaches court
+## Jordan vs Argentina, FIFA World Cup 2026 Live Score: ARG look for perfect finish before knockouts
 
 
-## Malik Ambar Mahal: Built by a slave-turned-statesman, once a refuge for Shah Jahan
+## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Goalless after 23 mins in Miami
 
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
@@ -252,8 +255,8 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US launches second night of strikes against Iran after ship struck by drone
-The attacks come after an Iranian drone allegedly struck another commercial vessel in the Strait of Hormuz on Saturday.
+## US launches second night of strikes on Iran after ship hit by drone
+The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.
 
 ## Videos show Israeli settlers trying to seize house in occupied West Bank
 Videos show Israeli settlers trying to seize a house under construction in the occupied West Bank.
