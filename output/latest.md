@@ -24,6 +24,9 @@ The US should not look the other way as President Tshisekedi seeks an illegal th
 ## Starmer seeks to ensure legacy before Burnham ascends
 PM focuses on ‘making arguments’ about his domestic policies as he battles to avoid embarrassing rise in NHS waiting lists
 
+## FirstFT: AI ‘exuberance’ threatens the global economy, BIS warns
+Also in today’s newsletter: Aramco helicopter crashes at Saudi port, and Indian snack giant Haldiram’s preparing European expansion
+
 ## Airlines brace for up to $127bn in extra costs from carbon credit shortage
 Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says
 
@@ -38,9 +41,6 @@ Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy amo
 
 ## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
 London-based buyout group is looking beyond its traditional speciality in corporate buyouts
-
-## Apple to fight $500mn patent bill at UK Supreme Court
-Battle over licensing of mobile connection protocols could shape global rates for other technologies
 
 ## Editorial. Inflection point
 With a little support, MSMEs can be a driving force
@@ -114,6 +114,15 @@ Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of part
 ## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
 Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
 
+## Delhi Confidential: Reaching Out
+
+
+## Material sent to Sudan only for use in mining: Firm after US sanctions
+
+
+## FIFA World Cup: Canada score last-gasp winner to become 1st team in Last 16
+
+
 ## ‘I was never lonely’: Psychologist decodes why Soha Ali Khan still holds onto her childhood toy
 
 
@@ -129,14 +138,8 @@ Dave argued that coalition politics is likely to remain a defining feature of th
 ## June 2026 set to be fifth driest-ever since 1901; monsoon advance over parts of north likely in early July
 
 
-## India knocked out of Women’s T20 World Cup after being outclassed by Australia
-
-
-## Batting goes to shambles as India lose by one run against Irish pluck
-
-
-## Governor requested Centre 5 times to constitute development boards since 2022: CM tells Assembly
-
+## Will China’s new northern tech bases in Hebei and Tianjin spark local housing demand?
+Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far milder than the surges delivered by traditional tech firms in previous years. Local governments hoping th
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
 Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience. DeepSeek, by adopting w
@@ -158,9 +161,6 @@ South Korean convenience store giant CU has been testing the waters in China wit
 
 ## Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push
 Hong Kong is pressing ahead with an overhaul of listing rules and the launch of new product initiatives, the city’s deputy finance chief said on Friday as the bourse operator marked 26 years as a publicly traded company. Speaking at the anniversary ceremony of Hong Kong Exchanges and Clearing (HKEX)
-
-## Big stride: Xtep opens first Saucony store in Hong Kong, eyes more prime retail sites
-Chinese sportswear maker Xtep International has opened Saucony’s first standalone store in Hong Kong, signalling the premium running brand will expand further, with the city positioned as a showcase market while the group’s core label is reserved for broader overseas growth. The outlet at K11 Art Ma
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Heightened emotions in Iran after Team Melli knocked out of World Cup
+This is the second World Cup that comes after deadly nationwide protests inside Iran, and the first one amid a war
+
+## Ireland upstage world champions India to win T20 series at home
+Ireland won the second T20 by one run over India, who did not give a debut to teen sensation Sooryavanshi.
+
+## Canada score late to beat South Africa and reach last 16 at World Cup 2026
+Stephen Eustaquio scores in stoppage time as Canada win first knockout match in a World Cup.
+
 ## Protesters in Serbia doubt Vucic resignation will bring change
 Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.
 
@@ -272,15 +281,6 @@ Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousan
 
 ## World Cup 2026: Top matches to watch in the Round of 32 knockout stage
 We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera's guide to the best matchups.
-
-## Gaza’s displaced families face worsening living conditions
-Rats infest Gaza's camps, where sewage and tents full of waste spread disease as families live without sanitation.
-
-## Can the ICJ help end the war in the eastern DRC?
-The Democratic Republic of Congo takes Rwanda to the International Court of Justice.
-
-## Israeli forces bulldoze olive groves in the occupied West Bank
-Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
