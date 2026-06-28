@@ -3,29 +3,41 @@
 ## US carries out second day of strikes against Iran
 Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire
 
-## Javier Milei’s top aide resigns over corruption scandal in Argentina
-Allegations against cabinet chief Manuel Adorni have engulfed libertarian government for months
+## Rival parties see Burnham’s northern focus as potential weak point
+Tory and Reform strategists argue prospective UK PM’s devolution push may turn out to be an electoral liability
 
-## Venezuela earthquake death toll climbs amid anger over slow response
-Country’s US-backed interim leader Delcy Rodríguez accused of failing to provide help for the victims
+## Why keeping Europe cool need not be a luxury
+In the clean energy system the continent is trying to build, air conditioning basically comes for free
 
-## US launches strikes on Iran after Tehran attacks container ship
-Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries
+## Spanish import hub urges EU to delay ban on Russian gas
+LNG shipments to the bloc have risen in the wake of the Middle East war
+
+## So, about that saga of Trump’s reflecting pool . . .
+In a desperate bid to deflect attention, the president is doing what he loves to do: blaming the libs
+
+## Why is the Starmer to Burnham transition so long?
+Like St Augustine, the assumed new Labour leader appears to want to be prime minister — but not yet
+
+## Overseas pension funds rethink investments in UK housing
+Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
+
+## Google caps Meta’s Gemini use as AI demand strains capacity
+Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
+
+## Chinese tech hub’s shift into robotaxis leaves drivers by the wayside
+Shenzhen expands driverless vehicles as growing automation drive threatens gig economy workforce
+
+## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
+London-based buyout group is looking beyond its traditional speciality in corporate buyouts
 
 ## US insurance rulemaker suspends investment risk designations after cyber attack
 Ratings help determine how much capital insurers must have to meet obligations to policyholders
-
-## New York’s socialist insurgency raises alarm among anxious Democrats
-Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections
 
 ## German carmakers embark on historic job cuts as Chinese rivals flood market
 Threat to industrial model of Europe’s largest economy mounts
 
 ## Tower crash calls Beijing’s air security into question
 FT research identifies owner of vehicle under investigation at flight school linked to impact
-
-## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
-London-based buyout group is looking beyond its traditional speciality in corporate buyouts
 
 ## QuidelOrtho looks to sell testing unit as PE circles healthcare companies
 Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19
@@ -36,32 +48,35 @@ Valuations are high for AI-exposed markets
 ## Football’s stealthy super league
 Also in today’s newsletter, the PGA Tour’s revamp, and Elliott Hill on fixing Nike
 
-## EasyJet’s top shareholders hold out for £5.3bn bid from Castlelake
-Many large investors agree that private credit group’s offer must reach £7 per share
+## RE projects: Build more, save ₹2.27 lakh cr
+Calls grow for halving ‘build limits’ by 50 per cent to enable faster deployment of renewable energy projects
 
-## US military says it struck multiple targets in Iran as ceasefire strained by second day of attacks
-The latest escalation has intensified fears over global oil supplies and shipping security in the key maritime route.
+## Private sector key to India-US AI tie-up: K Nagaraj Naidu, Addl Secy, MEA
+K Nagaraj Naidu said recent initiatives between India and the US were laying the foundation for long-term collaboration across strategic technology sectors
 
-## The tax-filing trilemma: Choosing between self, practitioner or CA
-For salaried employees, small proprietors and small businessmen, the choice of filing should depend on the nature of income—not the size of the tax bill
+## Nagapattinam international port to get duty free shops as India-Sri Lanka ferry traffic booms
+The Tamil Nadu government will establish duty-free retail shops at the port to align it with international maritime and aviation hubs
 
-## ‘MSMEs must innovate, scale up to build competitive global businesses’
-He urged companies to move away from ‘Me-too’ products and create ‘Me-First products’
+## Frustration grows in Venezuela as earthquake death toll reaches 1,430
+Experts said the destruction was amplified by the quick succession of shallow quakes
 
-## ‘Moving up the value chain key for MSMEs to capture the clean mobility opportunity’
-They need to rejig their model from being mere subcontractors to owning high value-manufacturing and assembly: Experts
+## SBI ends land dispute with Telangana govt, to withdraw case
+The State government has also agreed to offer an additional plot in the upcoming Future City for a data centre to be set up by the bank
 
-## Kerala pitches Palakkad industrial city to attract Tamil Nadu MSMEs
-Inviting entrepreneurs to expand into Kerala, Vijayan said “Kerala is rising. Please rise with us so that entire South India can rise together”
+## AP govt allots land to SAF One India SPKompact for SAF production facility in Kakinada
+The proposed facility is expected to generate 2,500 directed and indirect jobs
 
-## Will the old adage of ‘dumb money’ come back into play?
-The ‘buy-the-deep’ move by retail investors seems to be backfiring and it may be time to re-orient strategy
+## From dam to field: How water infrastructure is India’s answer to climate-driven agricultural risk
+Qater infrastructure is not merely an enabler of growth but a foundation for climate resilience, food security and rural prosperity
 
-## Make new money, not old money, says Danfoss India President
-He urged not to focus on the top line, but on profit margins and cash flow and to pivot towards new technology, innovation, intellectual property and scalable business models
+## How global consumers are redefining the basmati rice market
+Traceability, health credentials, packaging innovation and cooking performance are expressions of the underlying shift
 
-## ‘MSMEs must break out of the small comfort zone and grow’
-They must shift their focus to building larger, purpose-driven enterprises, says Elgi Equipments MD
+## From inflation to mortgage rates: What moved US economy's report card this week
+US economic growth surprised on the upside, while job losses remained low. However, persistent inflation, fueled by rising fuel and electronics costs, is squeezing consumers. Despite a slowdown in spending, businesses are investing heavily in AI, leading to price hikes on tech products like Apple's 
+
+## Hormuz got busy after months, now it's facing another roadblock
+Ship traffic through the Strait of Hormuz surged briefly following US sanctions relief and a humanitarian evacuation effort. However, a fresh attack in the Gulf of Oman halted the operation, causing traffic to plummet. Iran's warning about safe passage routes further heightened concerns, leaving maj
 
 ## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
 Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
@@ -81,59 +96,59 @@ Kotak Mahindra Bank's CEO, Ashok Vaswani, will not seek reappointment after his 
 ## Can AI boom make everything more expensive? IMF's chief economist says the inflation story is just beginning
 Artificial intelligence is now a new driver of inflation, according to IMF Chief Economist Pierre-Olivier Gourinchas. He explains that AI is increasing costs for technology hardware and simultaneously making consumers wealthier through booming stock markets, leading to higher spending. This dual imp
 
-## GTRI seeks clear DPIIT guidelines on new quality certification regime; warns of fresh compliance hurdles
+## Govt says fallen Op Sindoor soldiers were honoured in 2025, issues clarification: ‘Paid homage at earliest opportunity'
+The defence ministry said such reports were "incorrect" and stressed that the nation had paid tribute to the fallen soldiers “at the earliest opportunity”.
+
+## Indian student, 25, from Telangana found dead in London; family questions circumstances surrounding his death
+The family has appealed to both the Central and Telangana governments to intervene and help bring dead son's body back to his hometown at the earliest.
+
+## TMC rebels flex muscle again, hold second councillors’ meet ahead of civic polls
+People aware of the matter said 47 former TMC councillors attended the meeting at a private banquet hall in Topsia area of East Kolkata.
+
+## Faridabad man, who killed pregnant wife, locked her inside house for 10 hours daily: Cops
+Police said he had been routinely locking her inside their newly constructed house in Panchsheel Colony Part II until he stopped going to the office last week.
+
+## Centre to launch Aarogya Setu 2.0 on June 29 to expand access to healthcare services
+The Centre described the new Aarogya Setu as a Personal Health Record application to build on the “trust and reach” the app established during Covid-19..
+
+## Just Like That | Route Laga Hai: The tyranny of VVIP movement
+From “route laga hai” to endless traffic jams, VIP motorcades highlight the growing disconnect between India’s rulers and ordinary citizens.
+
+## Weak supervision, CCTV deficiencies: SIT sees pattern of lapses in Ram Mandir fund-keeping
+The SIT’s preliminary findings pointed to multiple systemic deficiencies, including weak supervision and deficiencies in CCTV monitoring, said officials.
+
+## Indian bulk vessel APJ Priti 2 carrying 65,000 MT fertiliser crosses Strait of Hormuz safely
+Fifteen vessels of Indian interest remain stranded in the Persian Gulf, west of the strait, and were identified for evacuation, the directorate said in a report
+
+## Drug syndicate running from Delhi houses busted, 4 of family arrested
 
 
-## Pax Silica Summit: India among 35 countries backed US-led 'AI Opportunity' declaration
-India has joined 34 nations in a US-led effort to foster robust AI supply chains, signing the Joint Statement on AI Opportunity. This move champions a pro-growth, pro-innovation regulatory path for artificial intelligence. The initiative emphasizes trusted supply chains, private sector involvement, 
-
-## Maharashtra teacher recruitment test cancelled after raid reveals paper leak; 3 arrested
-School education minister Dada Bhuse said a fresh date for the exam would be announced after proper preparation and a transparent probe
-
-## ‘Death penalty for Siya, Chetan’: Ketan Agrawal's parents join march in Pune, demand swift action
-Ketan Agarwal's family members and members of the neighbourhood held a candlelight march in Pimpri-Chinchwad to pay tribute to him.
-
-## PM Modi is right person to lead India at this critical juncture of world politics: Sharmistha Mukherjee
-Sharmistha Mukherjee said the BJP's projection of Narendra Modi as the Prime Ministerial face during the 2014 Lok Sabha elections was a very "unique factor".
-
-## ‘Betrayed by our own’: Ketan's grandfather seeks capital punishment for Siya; says she was pressured for marriage
-It came even as Siya Goyal's parents and brother were questioned by the Pune Rural Police for more than 10 hours as part of the investigation.
-
-## Nutritionist reacts to eggs being replaced by paneer, rajma, soya in Bengal mid-day meals
-The nutritionist, however, also highlighted the nutritional benefits of eggs as one of the “finest foods”.
-
-## '70kg silver, 1,250kg gold': Mahua Moitra slams Centre over Ram Mandir donation ‘theft’
-The Krishnanagar MP asked about the 8 people arrested in the case so far, calling them “small people”.
-
-## TMC, rebel faction seek police permission for July 21 Shahid Dibas event
-The TMC has been organising a mammoth rally every year in Esplanade, the heart of the city, to pay homage to the 13 youth Congress workers
-
-## Militant chief remanded to 4-day police custody in UAPA cases in Manipur
-During the hearing, the sub-divisional police officer (SDPO) of Singjamei police station sought custody of the accused for further investigation
-
-## Record stores, DJs & venue owners say new generation is embracing vinyl
+## US seizes nearly 400 websites that were illegally streaming World Cup, DOJ says
 
 
-## Lodha Belmondo residents hold silent candle march for Ketan Agarwal
+## Messi, Ronaldo, Mbappe, Haaland: A golden boot race unlike any other
 
 
-## Ceasefire on the edge: How tanker attacks in two days pulled the US and Iran back to war
+## Australia toughens kids’ social media ban, doubles potential penalties for tech firms
 
 
-## Two TMCs make a less-than-whole Opposition in West Bengal Assembly
+## ‘They said I have double dad syndrome’: Ansiba Hassan on ex-AMMA colleagues
 
 
-## Mass poisoning bid at Muharram rally in Mumbai, man arrested: Police
+## ‘A ghost-self walks alongside you’: Maggie O’Farrell on Hamnet, Land, and the maps we carry within
 
 
-## Express Special | From Ganga to global pet markets: Police in Madhya Pradesh map rail route of protected turtles
+## Varanasi-Ranchi Vande Bharat train schedule revised: Check new timings, stops, travel time, ticket price
 
 
-## Jordan vs Argentina, FIFA World Cup 2026 Live Score: ARG look for perfect finish before knockouts
+## Slipper thrown at Congress MLA Pradeep Eshwar over his remarks against Kumarawamy
 
 
-## Portugal vs Colombia, FIFA World Cup 2026 Live Score: Goalless after 23 mins in Miami
+## China’s big trucks go electric and abroad as subsidies help pave road to net-zero freight
+Domestic makers of heavy-duty trucks are emerging as the latest beneficiaries of accelerating electrification on China’s roads, as technological gains and lower ownership costs are bolstering overseas sales amid a global energy crisis. Southeast Asia and Africa, where Chinese makers have already est
 
+## Will Japan’s tourist visa fees, interest rate policy impact its booming property market?
+With Japan imposing higher visa fees for tourists from July while moving away from an ultra-loose monetary policy, foreign investors must prepare themselves for both direct and indirect impacts on their real estate assets, according to agents and analysts. There is a dearth of data on the total numb
 
 ## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
 South Korean convenience store giant CU has been testing the waters in China with a limited online trial operation, marking a different approach from other multinational brands that bet big on physical outlets. The brand, operated by BGF Retail which has around 18,600 stores in South Korea, is being
@@ -152,12 +167,6 @@ China is breeding a new generation of unicorns – start-ups currently valued at
 
 ## Indonesia set to issue US$1 billion in panda bonds in China
 Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of 
-
-## Hong Kong reports 36% rise in FDI inflows so far this year, InvestHK data shows
-US and European firms continued to expand their footprints in Hong Kong in the first half of the year, adding new momentum to the city’s role as a superconnector. A total of 413 companies either set up local entities or expanded their presence in Hong Kong in the first six months of 2026, representi
-
-## Manulife Longevity Insight Forum: Empowering Quality Living and Independent Ageing in the Longevity Era
-[The content of this article has been produced by our advertising partner.] The inaugural Manulife Longevity Insight Forum in Hong Kong convened executives, academics and thought leaders to explore ways in which longer lives can come with quality, self-reliance and freedom from family dependence. Ho
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -255,6 +264,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gulf countries attacked after US launches second round of strikes on Iran
+Gulf countries attacked after US launches second round of strikes on Iran.
+
+## Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal
+Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.
+
+## Anger grows in Venezuela as citizens blocked from aiding earthquake rescue
+Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.
+
+## Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast
+Donald Trump threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.
+
 ## US launches second night of strikes on Iran after ship hit by drone
 The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.
 
@@ -264,20 +285,8 @@ Videos show Israeli settlers trying to seize a house under construction in the o
 ## Donald Trump nominates ex-state trooper Lance Schroyer as ICE director
 The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.
 
-## Colombia vs Portugal LIVE: FIFA World Cup 2026
-Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.
-
-## Serbia’s President Aleksandar Vucic says will resign within ‘weeks’
-Vucic is under ⁠pressure after months ⁠of antigovernment protests.
-
-## Another powerful magnitude 4.8 earthquake hits near Venezuela
-The latest quake comes as rescuers are still searching for survivors of the twin 7.2 and 7.5 earthquakes on Wednesday.
-
-## DR Congo superfan denied US visa to support team at World Cup
-Michel Kuka Mboladinga is iconic for his motionless tribute at DRC games, but a US World Cup repeat has been denied.
-
-## Why is Crimea critical to the Russia–Ukraine war?
-Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.
+## Colombia vs Portugal 0-0: FIFA World Cup 2026 – as it happened
+All the updates from a lively but goalless game, as Colombia top Group K, while Portugal finish second.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
