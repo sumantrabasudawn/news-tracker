@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Andy Burnham sets out ‘10-year mission’ to raise living standards
+Prime minister-in-waiting will also pledge to go further on devolution as scrutiny grows over his likely policies
+
+## Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response
+Socialist regime’s US-backed leader is facing a crisis as anger mounts over inadequate rescue efforts
+
 ## Ebola-hit DR Congo lead minnows into World Cup knockout stages
 Central African team defy odds to progress alongside Cape Verde and Bosnia and Herzegovina
 
@@ -17,12 +23,6 @@ The US should not look the other way as President Tshisekedi seeks an illegal th
 
 ## Starmer seeks to ensure legacy before Burnham ascends
 PM focuses on ‘making arguments’ about his domestic policies as he battles to avoid embarrassing rise in NHS waiting lists
-
-## Ukraine’s vibe shift is bad news for Russia’s economy
-As Kyiv’s battlefield fortunes change, policies long favoured by the west could now do real damage to Moscow
-
-## Germany’s important pension reform plan
-An ambitious move that could have positive Europe-wide implications
 
 ## Airlines brace for up to $127bn in extra costs from carbon credit shortage
 Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says
@@ -258,7 +258,13 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel kills three Palestinians in Gaza as attacks on tents continue
+## Protesters in Serbia doubt Vucic resignation will bring change
+Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.
+
+## Pope Leo prays for Venezuela’s recovery after deadly quakes
+Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.
+
+## Israel kills four Palestinians in Gaza as attacks on tents continue
 Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.
 
 ## Hope of finding more Venezuela quake survivors fades despite late rescues
@@ -275,12 +281,6 @@ The Democratic Republic of Congo takes Rwanda to the International Court of Just
 
 ## Israeli forces bulldoze olive groves in the occupied West Bank
 Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.
-
-## Starmer couldn’t master the media. Can Burnham?
-Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.
-
-## US and Iran trade strikes days after peace agreement
-Just days after signing a memorandum of understanding, the US and Iran have traded strikes.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
