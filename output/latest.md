@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Ebola-hit DR Congo lead minnows into World Cup knockout stages
+Central African team defy odds to progress alongside Cape Verde and Bosnia and Herzegovina
+
 ## Aramco helicopter crashes at Saudi port
 At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz
 
@@ -21,8 +24,8 @@ As Kyiv’s battlefield fortunes change, policies long favoured by the west coul
 ## Germany’s important pension reform plan
 An ambitious move that could have positive Europe-wide implications
 
-## US and Iran exchange strikes as ceasefire falters
-Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
+## Airlines brace for up to $127bn in extra costs from carbon credit shortage
+Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says
 
 ## Robots, not chatbots, will realise AI’s potential
 Factory-floor applications of the technology could significantly enhance rich-world economies
@@ -38,9 +41,6 @@ London-based buyout group is looking beyond its traditional speciality in corpor
 
 ## Apple to fight $500mn patent bill at UK Supreme Court
 Battle over licensing of mobile connection protocols could shape global rates for other technologies
-
-## Why keeping Europe cool need not be a luxury
-In the clean energy system the continent is trying to build, air conditioning basically comes for free
 
 ## Editorial. Inflection point
 With a little support, MSMEs can be a driving force
@@ -114,6 +114,15 @@ Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of part
 ## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
 Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
 
+## ‘I was never lonely’: Psychologist decodes why Soha Ali Khan still holds onto her childhood toy
+
+
+## Express News Quiz: Omega Block, WhatsApp CEO & a courtroom strategist
+
+
+## Rohit Yadav spears javelin to 87.05m becoming third Indian thrower to cross the 87-mark
+
+
 ## Ben Stokes retires: the bottle, the kit bag, and a career like no other
 
 
@@ -127,15 +136,6 @@ Dave argued that coalition politics is likely to remain a defining feature of th
 
 
 ## Governor requested Centre 5 times to constitute development boards since 2022: CM tells Assembly
-
-
-## Lakes to legends: India’s 5 most beautiful water palaces
-
-
-## Marine Drive road-widening approved, promenade reclamation awaits green nod
-
-
-## Government flags priority intervention need in 25 of 58 tiger reserves with low, absent tigers
 
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Why do reports of domestic abuse increase during World Cups?
-Why do reports of domestic abuse increase during World Cups?
+## Israel kills three Palestinians in Gaza as attacks on tents continue
+Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.
 
-## In Lebanon, framework agreement signed with Israel spurs protest, criticism
-Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.
+## Hope of finding more Venezuela quake survivors fades despite late rescues
+Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.
 
-## The aftermath of Venezuela’s deadly earthquake
-The search for survivors continues in Venezuela after a powerful earthquake left hundreds dead and thousands missing.
+## World Cup 2026: Top matches to watch in the Round of 32 knockout stage
+We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera's guide to the best matchups.
 
-## The match that changed the World Cup forever
-One of football's biggest scandals changed the World Cup forever.
+## Gaza’s displaced families face worsening living conditions
+Rats infest Gaza's camps, where sewage and tents full of waste spread disease as families live without sanitation.
 
-## Drone captures ongoing rescue efforts after Venezuela earthquakes
-Drone footage from Venezuela's La Guaira shows widespread destruction after twin earthquakes devastated the region.
+## Can the ICJ help end the war in the eastern DRC?
+The Democratic Republic of Congo takes Rwanda to the International Court of Justice.
 
-## Louisiana primary win puts Trump endorsee Letlow on path to US Senate
-Trump waded into race to defeat incumbent Bill Cassidy, a Republican and critic of Trump's actions following 2020 vote.
+## Israeli forces bulldoze olive groves in the occupied West Bank
+Israeli forces bulldozed olive trees in the village of Zububa, west of Jenin in the occupied West Bank.
 
-## Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes
-George Russell's victory over Max Verstappen further reduces teammate Kimi Antonelli’s lead in the drivers' title race.
+## Starmer couldn’t master the media. Can Burnham?
+Keir Starmer’s rapid fall from power and Britain’s revolving door of leaders.
 
-## Israel strikes Lebanon, testing days-old peace deal
-Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.
+## US and Iran trade strikes days after peace agreement
+Just days after signing a memorandum of understanding, the US and Iran have traded strikes.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
