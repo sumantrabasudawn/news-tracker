@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Aramco helicopter crashes at Saudi port
+At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz
+
+## Don’t allow Congo’s leaders to trample its constitution
+The US should not look the other way as President Tshisekedi seeks an illegal third term
+
+## Starmer seeks to ensure legacy before Burnham ascends
+PM focuses on ‘making arguments’ about his domestic policies as he battles to avoid embarrassing rise in NHS waiting lists
+
 ## Ukraine’s vibe shift is bad news for Russia’s economy
 As Kyiv’s battlefield fortunes change, policies long favoured by the west could now do real damage to Moscow
 
@@ -18,12 +27,6 @@ Factory-floor applications of the technology could significantly enhance rich-wo
 ## Are AI stocks headed for further turbulence?
 Market Questions is the FT’s guide to the week ahead
 
-## Ebola-hit DR Congo lead minnows into World Cup knockout stages
-Central African team defy odds to progress alongside Cape Verde and Bosnia and Herzegovina
-
-## AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns
-Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
-
 ## James Sprayregen’s thirst for legal showdowns prompts late career move to Paul Weiss
 Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy among Wall Street firms
 
@@ -39,8 +42,20 @@ In the clean energy system the continent is trying to build, air conditioning ba
 ## Spanish import hub urges EU to delay ban on Russian gas
 LNG shipments to the bloc have risen in the wake of the Middle East war
 
-## Overseas pension funds rethink investments in UK housing
-Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
+## FPI debt flows hit 15-month high in June
+June accounts for 58% of fully accessible route inflows in 2026
+
+## Bhogapuram international airport: Inauguration by PM Modi is likely in 3rd week of July
+Prime Minister is expected to inaugurate the first Greenfield airport in Andhra Pradesh in the third week of July
+
+## WhatsApp web, desktop users at risk of cyber attacks: CERT-In warns of large-scale malware campaign
+The national nodal agency for cybersecurity advises not to open unexpected attachments from anyone including friends, colleagues or family members
+
+## Nutrition the best vaccine: Soumya Swaminathan
+Speaking about her experience shaping international health policy, Swaminathan suggested that much of what she learnt about science and public health came from listening to communities
+
+## Indian IT faces FY27 guidance cut risk as AI, geopolitics cloud demand
+With spending shifting toward AI tokens and cloud, industry growth and recovery remain uncertain
 
 ## India's construction boom fuels Quess Corp’s next staffing play
 The staffing firm entered the construction segment around two years ago and currently deploys between 3,000 and 5,000 workers across projects spanning airports, roads, industrial facilities and other infrastructure developments
@@ -51,20 +66,8 @@ The flagship Tesla showrooms are open in major metro areas like Mumbai, Delhi, a
 ## ITC bets on digital rural services, life sciences and sustainable materials as next growth engines
 ITC is building three new growth platforms in digital rural services, life sciences and sustainable materials as it looks beyond its traditional consumer businesses for long-term expansion, according to its FY2026 annual report
 
-## A positive look at failure
-Setbacks can help shape successful ventures
-
-## Air India, Delhi airport eye bigger share of global cargo, begin transshipment trials
-The new rule, once implemented, will help Indian airlines increase loads and tap into new markets
-
-## India eyes discounted Iranian oil after US sanctions waiver
-Indian refiners had stopped buying Iranian oil after US sanctions were reimposed in 2019
-
-## Mumbai Port charts course as global cruise operators set sail for India
-In the FY27 cruise season, the port has secured eight international cruise voyages from leading global operators, including Celebrity Cruises, Oceania Cruises, Crystal Cruises, Silversea Cruises and Regent Seven Seas Cruises
-
-## What to know about Europe’s record heatwave that has already killed over a thousand people
-Scientists say heatwave would have been ‘virtually impossible’ without human-caused climate change
+## Wall Street outlook: Jobs data, Fed rate bets to test US stock rally after strong first half
+Wall Street braces for a crucial US jobs report that could sway Federal Reserve interest rate decisions. While the S&P 500 saw first-half gains, June's volatility, driven by AI stock swings and inflation concerns, has investors on edge. A strong jobs number might fuel fears of further rate hikes, im
 
 ## GenAI, geopolitics to keep India's IT sector growth under pressure, says JPMorgan
 
@@ -87,8 +90,14 @@ The Commerce Ministry is convening a stakeholder meeting on June 30 to discuss c
 ## 90% of India's planned renewable projects face climate risk. Here's how to build them safer
 A Zurich Group report reveals that most of India's planned renewable energy projects face significant climate risks by 2030. Ninety percent of these sites are at high or critical risk from hazards like floods and wildfires. However, with many projects still in development, incorporating resilience m
 
-## From inflation to mortgage rates: What moved US economy's report card this week
-US economic growth surprised on the upside, while job losses remained low. However, persistent inflation, fueled by rising fuel and electronics costs, is squeezing consumers. Despite a slowdown in spending, businesses are investing heavily in AI, leading to price hikes on tech products like Apple's 
+## Amit Shah launches PM Family Care Tracker Pilot, Health Passport in Gandhinagar
+Shah said the integrated digital platform would strengthen governance and ensure that no eligible beneficiary is deprived of welfare benefits
+
+## Kolkata trams may return under BJP; survey ordered, says transport minister
+An integral part of Kolkata’s landscape and British-Indian history, trams featured in many movies, including Satyajit Ray’s Mahanagar
+
+## Delhi cop slaps woman on camera; departmental action follows after video sparks outrage
+The incident happened in the Panchwati area after police were called to a hotel over a late-night dispute.
 
 ## Delhi swelters through its warmest morning in 2 years on Sunday amid monsoon delay
 The last time the city's minimum temperature was higher was on June 14, 2024, when it was recorded at 33.3 degrees Celsius.
@@ -105,37 +114,28 @@ Ram Lal Markanda, a former BJP minister who was expelled from the party in 2024,
 ## From Garba to Moutya, Samosas to Chutney: PM Modi celebrates 'Creole Spirit' in historic seychelles address
 In his address to the 8th National Assembly of Seychelles, PM Modi underscored the "indivisibility" of the region's security.
 
-## Strong winds in parts of Delhi-NCR bring respite from heat, IMD's orange alert for thunderstorm
-IMD warns of thunderstorms, gusty winds in Delhi-NCR; orange alert issued.
-
-## What is the 10-hour 'offline strategy' in Pune realtor Ketan Agarwal's murder case?
-Investigators say Chaudhary remained completely disconnected from mobile internet for around 640 minutes on the day of the incident.
-
-## Akhilesh Yadav accuses BJP of ‘chanda chori’, Yogi says ‘your people shot at Ram devotees’
-Ram temple donation row: Samajwadi Party chief Akhilesh Yadav accused the ruling party of using religion as a cover for corruption.
-
-## Kanpur Metro Corridor 1 nears full launch: Final CMRS inspection completed between Kanpur Central and Naubasta
+## Arthur Road Jail redevelopment hits a wall: Where will 3,000 inmates go
 
 
-## How the assassination of Archduke Franz Ferdinand led to World War 1 within a month
+## Social media’s favourite new ‘sleep hack’: What glycine supplements actually do to your body
 
 
-## Uddhav Thackeray calls BJP ‘Babar Janata Party’, says ‘Op tiger’ targeted Fadnavis
+## Assam: Heavy rain disrupts rail traffic, check full list of affected trains
 
 
-## Today News Headlines for School Assembly, June 29, 2026: Japan struck by 6.1-magnitude earthquake, PM Modi in Seychelles
+## ‘Fake loans, unauthorised transactions’ unearthed at bank in J-K, case filed
 
 
-## ‘Utterly baffled’: South Korea president rips into coach after FIFA World Cup exit
+## Quick Comment: Harmanpreet Kaur brings out her best once again vs Australia
 
 
-## Assaulted over ‘Urdu classes’, Telangana school principal speaks
+## Ahead of Ashadhi Wari, ASHA workers told to step up health awareness drive
 
 
-## Born to a throuple, 3-time State Award winner Shruthi ‘doesn’t know’ her biological mother
+## Sooryavanshi warms bench as both India openers bag golden ducks for first time in T20Is
 
 
-## What happens when you eat 3 boiled eggs and coffee every morning for a month?
+## Sharvari, Vedang Raina hug at Main Vaapas Aaunga screening; film earns Rs 64 cr
 
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
@@ -186,6 +186,9 @@ Should one company—and one person—have this much power?
 ## Restocking the Pentagon
 Trump urges defense manufacturers to speed up weapons production after the Iran war.
 
+## ASEAN and Trump’s Section 301 Tariffs
+U.S. trade pressure could prove to be exactly the catalyst ASEAN needs for integration
+
 ## Pakistan Wants the World to See It as a Peacemaker. I Want It to Find My Father.
 The world should not forget about Pakistan’s human rights abuses, even as the state tries to overhaul its image.
 
@@ -206,9 +209,6 @@ Despite its vocal support for UNCLOS, ASEAN has not recognized a legal judgment 
 
 ## After the Iran War, China’s Middle East Strategy Will Prioritize the Gulf
 China’s top priority is now keeping the Gulf states, and above all Saudi Arabia and the UAE, from drawing closer to Washington.
-
-## Can China’s Dong Minority Keep Their Unique Cultural Heritage?
-An ambitious university-led research project to document the Dong people’s distinctive architecture is revealing a great deal about this marginalized Indigenous group’s way of life.
 
 ## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
 Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iraq arrests senior officials in anti-corruption raids
+Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.
+
+## Ben Stokes, England test captain, to retire from international cricket
+England test captain Ben Stokes will retire from international cricket after the ongoing test match against New Zealand.
+
+## Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak
+Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis.
+
+## If USMCA is not renewed, analysts expect uncertainty for businesses
+US President Donald Trump has warned he would 'rather not have' the free trade agreement ahead of its July 1 review.
+
+## Pape: US trying to ‘squeak out of strategic defeat’ after Iran
+Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.
+
+## World Cup 2026 Round of 32: Biggest takeaways from the group stage
+FIFA World Cup group stage is now behind us with plenty of key talking points as the tournament enters the knockouts.
+
+## European heatwave causes 1,000 excess deaths in France
+AFP estimates that at least 191 million people are forecast to experience temperatures of at least 35C in Europe.
+
 ## IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes
 Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.
-
-## The US-Iran MoU: A mirage of an agreement
-Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause
-
-## Ukraine says it attacked two Russian oil refineries
-At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.
-
-## Adam Johnson on how US corporate media sold Israel’s genocide in Gaza
-Marc Lamont Hill speaks with author Adam Johnson on US corporate media’s role in enabling the genocide in Gaza.
-
-## Stories of survivors of Venezuela’s earthquakes
-Rescuers in Venezuela are racing against time to find survivors after twin earthquakes left thousands missing.
-
-## Paradise lost: How Israel is making war on West Bank farmers
-Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.
-
-## What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?
-Iran and the US trade attacks over navigation through the Strait of Hormuz, which has emerged as a major sticking point.
-
-## Araghchi: Strait of Hormuz remains under Iranian control for 30 days
-Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
