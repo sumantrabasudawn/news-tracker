@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Ukraine’s vibe shift is bad news for Russia’s economy
+As Kyiv’s battlefield fortunes change, policies long favoured by the west could now do real damage to Moscow
+
 ## Germany’s important pension reform plan
 An ambitious move that could have positive Europe-wide implications
 
@@ -21,9 +24,6 @@ Central African team defy odds to progress alongside Cape Verde and Bosnia and H
 ## AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns
 Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
 
-## Rival parties see Burnham’s northern focus as potential weak point
-Tory and Reform strategists argue prospective UK PM’s devolution push may turn out to be an electoral liability
-
 ## James Sprayregen’s thirst for legal showdowns prompts late career move to Paul Weiss
 Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy among Wall Street firms
 
@@ -42,29 +42,32 @@ LNG shipments to the bloc have risen in the wake of the Middle East war
 ## Overseas pension funds rethink investments in UK housing
 Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
 
-## Pakistan’s loss is India’s gain: Basmati rice export to Afghanistan likely to surge
-Officials familiar with the discussions said representatives from the Afghan diplomatic mission in New Delhi participated in the meeting and expressed interest in increasing procurement of Indian Basmati
+## India's construction boom fuels Quess Corp’s next staffing play
+The staffing firm entered the construction segment around two years ago and currently deploys between 3,000 and 5,000 workers across projects spanning airports, roads, industrial facilities and other infrastructure developments
 
-## ITC shifts growth strategy to manufacturing, agriculture and distribution
-Annual report signals a strategic shift from building individual businesses to leveraging manufacturing, agriculture, sourcing, research and distribution as an integrated competitive platform
+## Tesla knocks Delhi government’s door for incentives in EV Policy
+The flagship Tesla showrooms are open in major metro areas like Mumbai, Delhi, and Gurugram, but even without local production, the company has direct deliveries and services available across 21 States in India
 
-## Liquor tax bonanza: States clock up to 82% jump in excise revenues; UP gets ₹10,000 cr in April-May, Haryana records 82% growth
-This surge is attributed to increased consumption, excise rate hikes by State governments, and rising base prices from manufacturers
+## ITC bets on digital rural services, life sciences and sustainable materials as next growth engines
+ITC is building three new growth platforms in digital rural services, life sciences and sustainable materials as it looks beyond its traditional consumer businesses for long-term expansion, according to its FY2026 annual report
 
-## Low birth weight babies to be added to Anaemia Mukt Bharat as Centre prepares to revamp guidelines
-Union Health Minister JP Nadda will release the operational guidelines for the revamped strategy at the 16th meeting of the Central Council of Health and Family Welfare (CCHFW) on Monday
+## A positive look at failure
+Setbacks can help shape successful ventures
 
-## Iran destroys 8 American military infrastructures in Kuwait, Bahrain in response to second US strikes, claims IRGC
-The IRGC further stated that US forces had attacked five Iranian coastal positions earlier on Sunday, accusing Washington of violating a ceasefire agreement
+## Air India, Delhi airport eye bigger share of global cargo, begin transshipment trials
+The new rule, once implemented, will help Indian airlines increase loads and tap into new markets
 
-## Athulya Senior Care eyes $30 million fund raise to fuel senior care expansion
-The hospital offers outpatient and inpatient services, emergency care, dialysis, chemotherapy, rehabilitation and minor procedures, with care delivered by doctors and healthcare professionals trained specifically in geriatric medicine
+## India eyes discounted Iranian oil after US sanctions waiver
+Indian refiners had stopped buying Iranian oil after US sanctions were reimposed in 2019
 
-## India, Seychelles unveil 19 outcomes spanning defence, digital payments, space, health
-Package of outcomes reflects broadening of New Delhi’s engagement with the strategically located Indian Ocean archipelagic nation
+## Mumbai Port charts course as global cruise operators set sail for India
+In the FY27 cruise season, the port has secured eight international cruise voyages from leading global operators, including Celebrity Cruises, Oceania Cruises, Crystal Cruises, Silversea Cruises and Regent Seven Seas Cruises
 
-## Around 11-lakh families have received assistance totalling ₹22,000 crore under ‘PMJJBY’ scheme: PM
-Addressing the 135th episode of ‘Mann Ki Baat’, the PM said these figures are massive and behind these numbers lie the individual stories of lakhs of families
+## What to know about Europe’s record heatwave that has already killed over a thousand people
+Scientists say heatwave would have been ‘virtually impossible’ without human-caused climate change
+
+## GenAI, geopolitics to keep India's IT sector growth under pressure, says JPMorgan
+
 
 ## India's debt market not ready to fund next growth phase: Report
 India's debt market requires urgent structural reforms to fund its ambitious economic growth, warns Deloitte. The report highlights that relying solely on bank deposits is no longer viable as household savings shift. To achieve its $7.3 trillion economy target by 2030, the market needs greater depth
@@ -87,8 +90,23 @@ A Zurich Group report reveals that most of India's planned renewable energy proj
 ## From inflation to mortgage rates: What moved US economy's report card this week
 US economic growth surprised on the upside, while job losses remained low. However, persistent inflation, fueled by rising fuel and electronics costs, is squeezing consumers. Despite a slowdown in spending, businesses are investing heavily in AI, leading to price hikes on tech products like Apple's 
 
-## Hormuz got busy after months, now it's facing another roadblock
-Ship traffic through the Strait of Hormuz surged briefly following US sanctions relief and a humanitarian evacuation effort. However, a fresh attack in the Gulf of Oman halted the operation, causing traffic to plummet. Iran's warning about safe passage routes further heightened concerns, leaving maj
+## Delhi swelters through its warmest morning in 2 years on Sunday amid monsoon delay
+The last time the city's minimum temperature was higher was on June 14, 2024, when it was recorded at 33.3 degrees Celsius.
+
+## Punjab CM Bhagwant Mann says all Sikh MLAs to appear before Akal Takht over anti-sacrilege law
+Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of party affiliation, before the Akal Takht on June 29 regarding anti-sacrilege law.
+
+## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
+Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
+
+## Third front in Himachal? Ex-BJP minister says new party likely before 2027 assembly polls
+Ram Lal Markanda, a former BJP minister who was expelled from the party in 2024, said he has been meeting leaders from various parties.
+
+## From Garba to Moutya, Samosas to Chutney: PM Modi celebrates 'Creole Spirit' in historic seychelles address
+In his address to the 8th National Assembly of Seychelles, PM Modi underscored the "indivisibility" of the region's security.
+
+## Strong winds in parts of Delhi-NCR bring respite from heat, IMD's orange alert for thunderstorm
+IMD warns of thunderstorms, gusty winds in Delhi-NCR; orange alert issued.
 
 ## What is the 10-hour 'offline strategy' in Pune realtor Ketan Agarwal's murder case?
 Investigators say Chaudhary remained completely disconnected from mobile internet for around 640 minutes on the day of the incident.
@@ -96,46 +114,28 @@ Investigators say Chaudhary remained completely disconnected from mobile interne
 ## Akhilesh Yadav accuses BJP of ‘chanda chori’, Yogi says ‘your people shot at Ram devotees’
 Ram temple donation row: Samajwadi Party chief Akhilesh Yadav accused the ruling party of using religion as a cover for corruption.
 
-## MEA slams Pakistan's 'baseless' claims over Karachi attack: 'Look inward, act on terror'
-The militant group Jamaat-ul-Ahrar, a breakaway faction of the Pakistani Taliban, claimed responsibility for the attack shortly after it occurred.
-
-## 'We'll stand beside you as friends': PM Modi invokes shared ties in Seychelles Parliament speech
-Modi, who became the first Indian Prime Minister to address the Seychelles parliament, invoked the first Indians to arrive at the island more than 250 years ago
-
-## Tripura man held for killing his two minor children over domestic dispute: Police
-Police arrested a 34-year-old man in Tripura for allegedly beating his two children to death following an altercation at home.
-
-## CJP alleges Delhi Police cut water, sanitation facilities at Jantar Mantar amid Sonam Wangchuk's hunger strike
-Sonam Wangchuk began his indefinite fast on Sunday at Jantar Mantar, where the CJP has been staging a sit-in since June 20.
-
-## Sour relationship and plot to die together: How a Karnataka man was killed in car fire, ex-girlfriend escapes
-The cops found the charred body of a man on reaching the spot. The deceased has been identified as Nagendran.
-
-## Gurugram man killed by speeding Thar two days before 34th birthday, family demands justice
-The victim's father has vowed to seek justice and avenge his son's death as the police issues a probe and arrests the accused in the case
-
-## Akshay Kumar’s Rustom derailed Soni Razdan’s Nanawati directorial: ‘Still want to make it’
+## Kanpur Metro Corridor 1 nears full launch: Final CMRS inspection completed between Kanpur Central and Naubasta
 
 
-## India strongly rejects Pakistan accusations on Karachi incident
+## How the assassination of Archduke Franz Ferdinand led to World War 1 within a month
 
 
-## Rajasthan launches primary school mental health drive; student well-being improves by 69%
+## Uddhav Thackeray calls BJP ‘Babar Janata Party’, says ‘Op tiger’ targeted Fadnavis
 
 
-## Saudi Aramco helicopter crashes in Ras Tanura, killing 14 people
+## Today News Headlines for School Assembly, June 29, 2026: Japan struck by 6.1-magnitude earthquake, PM Modi in Seychelles
 
 
-## Delhi government gives 1,000 coaching centres one month to comply, warns of shutdown
+## ‘Utterly baffled’: South Korea president rips into coach after FIFA World Cup exit
 
 
-## France plane crash: At least 11 dead after civilian aircraft crashes in Tomblaine
+## Assaulted over ‘Urdu classes’, Telangana school principal speaks
 
 
-## Dola Sen accuses rival leaders of forgery and impersonation as Trinamool rift deepens
+## Born to a throuple, 3-time State Award winner Shruthi ‘doesn’t know’ her biological mother
 
 
-## Expert Explains | What US-Iran negotiations mean for West Asia’s regional security, market stability
+## What happens when you eat 3 boiled eggs and coffee every morning for a month?
 
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## At least 11 dead in civilian plane crash in eastern France: Authorities
-This is a breaking news story.
+## IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes
+Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.
 
-## World Cup 2026: Most controversial VAR officiating decisions in group stage
-From Iran's stoppage-time winner ruled out by VAR, to Ghana denied a penalty against England - all the controversies.
+## The US-Iran MoU: A mirage of an agreement
+Both Washington and Tehran know that current deal will not lead to lasting peace. It is merely a strategic pause
 
-## Uganda’s military chief orders shutdown of two media outlets
-The president's son said he did not believe in a free press as military personnel were deployed to the media offices.
+## Ukraine says it attacked two Russian oil refineries
+At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.
 
-## ‘US trying to find its way out of MoU with Iran’
-Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.
+## Adam Johnson on how US corporate media sold Israel’s genocide in Gaza
+Marc Lamont Hill speaks with author Adam Johnson on US corporate media’s role in enabling the genocide in Gaza.
 
-## Iraq security forces arrest several officials in anticorruption crackdown
-Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.
+## Stories of survivors of Venezuela’s earthquakes
+Rescuers in Venezuela are racing against time to find survivors after twin earthquakes left thousands missing.
 
-## FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit
-Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.
+## Paradise lost: How Israel is making war on West Bank farmers
+Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.
 
-## Iran attacks Kuwait and Bahrain in response to US strikes
-US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.
+## What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?
+Iran and the US trade attacks over navigation through the Strait of Hormuz, which has emerged as a major sticking point.
 
-## Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## Araghchi: Strait of Hormuz remains under Iranian control for 30 days
+Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
