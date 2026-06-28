@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## US and Iran trade strikes as ceasefire falters
+## US and Iran exchange strikes as ceasefire falters
 Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
+
+## AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns
+Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy
 
 ## Rival parties see Burnham’s northern focus as potential weak point
 Tory and Reform strategists argue prospective UK PM’s devolution push may turn out to be an electoral liability
@@ -21,44 +24,56 @@ Like St Augustine, the assumed new Labour leader appears to want to be prime min
 ## Overseas pension funds rethink investments in UK housing
 Australia’s Aware Super and Omers of Canada have faced issues with planning policy and retrospective liability
 
-## Google caps Meta’s Gemini use as AI demand strains capacity
-Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
+## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
+London-based buyout group is looking beyond its traditional speciality in corporate buyouts
 
 ## Apple to fight $500mn patent bill at UK Supreme Court
 Battle over licensing of mobile connection protocols could shape global rates for other technologies
 
-## Growing numbers of young people in UK turning to private healthcare
-Backlogs, dilapidated hospitals and rising demand from an ageing population are leading younger adults to forsake the NHS
+## Young Britons turn to private healthcare as faith in NHS cracks
+Backlogs, dilapidated hospitals and rising demand from an ageing population are leading younger adults to forsake the state system
+
+## Google caps Meta’s Gemini use as AI demand strains capacity
+Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity
 
 ## Mines will hold back Strait of Hormuz shipping for months, CEO warns
 NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic to half prewar levels
 
-## Inside Rolls-Royce’s quest to return to powering short-haul aircraft
-CEO Tufan Erginbilgiç is seeking state backing for an engine it hopes will power the next generation of narrow-body jets
+## Gold, silver may face a tough week ahead. Here’s what analysts are saying
+Gold futures for August delivery fell ₹3,041, or 2.06%, during the week to settle at ₹1.44 lakh per 10 grams on MCX
 
-## Employers across globe continue to have confidence in MBA graduates despite AI boom: GMAC report
-Across industries, more than half of employers agreed or strongly agreed that a graduate business degree is more important than ever as businesses adopt new technologies
+## Move beyond ‘Made in India’ to ‘designed in India’: Minister Sharan Prakash Patil
 
-## Commerce ministry convenes stakeholders' meet on June 30 on SEZ issues
-The meeting will focus on issues related to the harmonisation of export promotion schemes and SEZ reforms, the official said.
 
-## PM Modi holds delegation-level talks with Seychelles President Herminie as part of his state visit
-External Affairs Minister S. Jaishankar, National Security Advisor A. Doval, and Foreign Secretary V. Misri attended the delegation-level talks
+## India's vision is to make Indian Ocean an ‘ocean of opportunity’: Modi in Seychelles
+The PM said: "We believe the Indian Ocean is our shared home. Its security, sustainability and prosperity are our shared responsibility," adding that this was the core of India's MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions) vision
 
-## Pakistan hikes levy on petrol, diesel; retail prices unchanged
-The petroleum levy on high-speed diesel has been increased by PKR 6.57 to PKR 79.54 per litre, and the levy on petrol has risen by 39 paisa to PKR 66.64 per litre
+## Top MDMK leaders, district secretaries join DMK a day after alliance breaks
+Leading the exodus were high-level committee members and district secretaries, including Pulavar S Sevanthiyappan (Sivaganga), T R R Senguttuvan (Tiruvallur), propaganda secretary Thiruparankundram Azhagusundaram and R M S Sekhar (Virudhunagar).
 
 ## Board of Trade to meet on July 3 to discuss ways to boost exports
 BoT includes participants from various states, Union territories, and senior officials from the public and private sectors
 
-## Eggs remain most affordable source of complete protein, say nutrition experts as West Bengal changes mid-day meals
-Dr Khanna described eggs as one of nature's finest foods, citing their high-quality protein and essential nutrients, including vitamin B12, choline, vitamin D and iron
+## India's debt market not equipped to finance next phase of growth, needs structural reforms: Deloitte
+The report stated that India’s economy needs significantly more long-term capital, but the current debt market cannot meet those financing needs efficiently
 
-## Health ministry proposes amendments to Medical Devices Rules
-The draft notification seeks to simplify and expedite the licensing process while ensuring continued compliance with quality, safety and performance requirements, the ministry said on Sunday
+## Environmental chemicals, pollution under scanner as doctors flag concerns over hypospadias
+Globally, hypospadias affects roughly one in every 150-200 male births
 
-## Around 11-lakh families have received assistance totalling ₹22,000 crore under ‘PMJJBY’ scheme: PM
-Addressing the 135th episode of ‘Mann Ki Baat’, the PM said these figures are massive and behind these numbers lie the individual stories of lakhs of families
+## MSMEs key to India’s developed nation ambition: BV Naidu, KDEM
+
+
+## Gold, silver rate outlook: Prices face key test next week as US dollar, Iran tensions and jobs data take centre stage
+Gold and silver prices are poised for further pressure this week as global economic data and geopolitical tensions between the US and Iran take center stage. Analysts anticipate market participants will closely monitor key inflation and employment figures, which could sway the US Federal Reserve's i
+
+## Crude, ceasefire and economic data: What's driving Dalal Street this week
+Investors are bracing for a week dominated by Middle East geopolitical tensions, with crude oil prices and domestic economic data taking center stage. Key indicators like Industrial Production, PMI readings, and foreign exchange reserves will offer insights into India's economic health. Auto sales f
+
+## Energy security during Middle East crisis: Why India keeps relying on state-run oil firms despite privatisation bids
+India's state-run oil companies have proven indispensable during recent crises, ensuring uninterrupted fuel supplies amidst floods, the pandemic, and Middle East conflicts. Despite past privatization attempts and criticisms, these public sector oil marketing companies have consistently prioritized n
+
+## SEZ reforms: Commerce ministry calls stakeholders' meet on June 30 to discuss policy overhaul
+The Commerce Ministry is convening a stakeholder meeting on June 30 to discuss crucial reforms for Special Economic Zones (SEZs). The focus will be on harmonizing export promotion schemes and simplifying business operations within these enclaves. Discussions will cover issues like domestic payments,
 
 ## 90% of India's planned renewable projects face climate risk. Here's how to build them safer
 A Zurich Group report reveals that most of India's planned renewable energy projects face significant climate risks by 2030. Ninety percent of these sites are at high or critical risk from hazards like floods and wildfires. However, with many projects still in development, incorporating resilience m
@@ -72,65 +87,56 @@ Ship traffic through the Strait of Hormuz surged briefly following US sanctions 
 ## 'Silicon Valley of North India': Ashwini Vaishnaw sees Jewar emerging as chip manufacturing hub
 Jewar is set to become a major electronics manufacturing hub with two new projects worth Rs 6,750 crore, expected to create 3,000 jobs. Union Minister Ashwini Vaishnaw announced the foundation stones were laid for facilities producing advanced printed circuit boards and HVAC components. This move si
 
-## Iran's inflation surges to 88.6% as war deepens economic crisis
-Iran's inflation has skyrocketed to 88.6%, its highest in months, as the Middle East conflict intensifies economic woes. Food prices have more than doubled, with bread, grains, and meat seeing staggering year-on-year increases. This surge compounds existing challenges of sanctions and hyperinflation
+## Drugs hidden in woman's private parts, seven arrested in MDMA haul in Kerala
+The operation began on Friday night when personnel from the Peechi police station intercepted a car during a vehicle inspection at Vaniyampara.
 
-## Firm moved to a new GST jurisdiction? CBIC issues clarity on how pending cases will be handled
-Businesses relocating their primary operations to a new GST jurisdiction will now find that ongoing tax proceedings will seamlessly transfer. The Central Board of Indirect Taxes and Customs (CBIC) has clarified that the new tax authority will pick up cases from where they were left off, ensuring con
+## 3 neighbours arrested for alleged sexual abuse of minor in Hooghly in West Bengal
+Acting on the allegations, the Police arrested 3 people, though the family has reported difficulties in obtaining copies of FIR and medical examination record.
 
-## China's industrial profit growth slows for first time in 6 months as weak domestic demand bites
-China's industrial profit growth saw a dip in May, despite robust exports and rising factory prices. This slowdown, the first in six months, highlights persistent weak domestic demand and sluggish investment. While global AI trends and energy market disruptions offered some support, they weren't eno
+## NDRF intensifies search for missing persons after Arunachal flash flood, two bodies recovered
+Five people had gone missing in the flash flood. Authorities have so far recovered two bodies, while efforts are underway to locate the remaining three.
 
-## Kotak Mahindra Bank CEO Ashok Vaswani to exit after term ends in December 2026
-Kotak Mahindra Bank's CEO, Ashok Vaswani, will not seek reappointment after his term ends December 31, 2026, citing personal reasons. The bank has initiated the process to find a successor. Vaswani, who took charge in January 2024, aims to elevate the bank's standing amidst a period of regulatory re
+## PM Modi receives Seychelles' highest environmental honour, 'Guardian of the Blue Horizon'
+PM Modi dedicated the award to all nations working collectively to tackle the growing challenges of climate change.
 
-## India's first green hydrogen train on track: It generates electricity & emits water vapour
-Indian Railways tested the train's braking and stability on the Jind-Sonipat line this week. A look at how the hydrogen fuel cell works
+## CBI must probe Ram Mandir donation embezzlement case: Acharya Pramod Krishnam
+Ex-Congress leader Acharya Pramod Krishnam demanded a CBI probe into the alleged Ram Mandir donation theft case, saying a high-level investigation was necessary
 
-## ‘Vengeful and petty’: Congress MP Jairam Ramesh attacks Centre over VB G RAM G Act
-Criticising the lack of reference and approval from parliament, Ramesh flags additional financial burden on states caused by MGNREGA-substitute
+## 'Good initiative, reliable': Users impressed with Rapido's 'bike rated by women' option
+The rollout has drawn positive reactions from users, with many describing it as a meaningful step towards improving safety and confidence for women commuters.
 
-## Kerala minister points to Ram Mandir embezzlement amid Sabarimala gold loss case
-K Muraleedharan said those criticising the Kerala government should also explain why gold was allegedly stolen from the Ayodhya temple.
+## Man charred to death in car explosion on highway in Karnataka, ‘kidnapped’ woman survives
+Before the incident, he had hit a woman inside the car with a knife on her head. She, somehow, managed to come out of the vehicle.
 
-## Couple returning from Haj to Srinagar win ₹62k from SpiceJet after boarding denied, luggage delayed
-The couple's son had booked SpiceJet tickets for the evening flight scheduled to depart Delhi at 6:45 pm and arrive in Srinagar at 8:20 pm.
+## Health ministry proposes shorter licensing timeline for medical devices
+The draft notification was issued based on the suggestions made by the Drugs and Technical Advisory Board
 
-## Rajasthan cop suspended after boiling water splashed on momo seller during police action, causing severe burns
-Boiling water allegedly fell on Reshu Gupta after a policeman allegedly pushed and overturned the vendor’s cart following an argument on June 19.
-
-## Book Box: Halfway through 2026, the books worth reading and skipping
-After a week of building shelves rather than reading, the author reflects on a disappointing reading year so far, seeking better book recommendations.
-
-## Man distributes rat poison-laced capsules at Mumbai Muharram procession to cause 'mass harm', arrested
-The police said that it is investigating if there is any foreign link to this incident and whether more people are involved.
-
-## Jewar to Lucknow in 100 minutes? Inside the Delhi-Varanasi bullet train project, Ashwini Vaishnaw's big plan
-Union railways minister Ashwini Vaishnaw said the proposed Delhi-Varanasi bullet train will reduce travel time across Uttar Pradesh once it becomes operational.
-
-## Punjab engineer gives up ‘Australian dream’, earns Rs 80L annually from buffalo farming and start-up consultancy
+## Are Taylor Swift and Travis Kelce getting married at Madison Square Garden? What we know
 
 
-## Carlos Queiroz slams expanded 48-team FIFA World Cup: ‘Vulgar and ordinary’
+## Iran’s World Cup exit is no ordinary football heartbreak
 
 
-## Zohran Mamdani jumps into NYC swimming pool in a suit; video sparks debate
+## India vs Australia Live Score, Women T20 World Cup 2026: IND face AUS in must-win clash at Lord’s
 
 
-## US will win ‘either way’: JD Vance on what’s next for Iran
+## Haryana Police on viral cow vigilante assault video: ‘No injuries found on arrested men’
 
 
-## 2 dead after Mumbai office trekkers’ bus falls 50 feet into Pune’s Pabe Ghat gorge
+## No ambulance, no bridge: Woman gives birth while carried on cot across river, video goes viral
 
 
-## India’s microdrama market is already matching the entire box office, says Shekhar Kapur
+## ‘We get angry too’: Yuzi’s parents open up on hate comments; psychiatrist weighs in
 
 
-## How Lionel Scaloni built an Argentina side that can thrive without Lionel Messi
+## From Fariapukur murals to tea stalls, Kolkata’s unmatched FIFA World Cup frenzy
 
 
-## Pilgrims stranded in Nepal, MEA issues Mansarovar Yatra advisory
+## Film body backs Satendra Soni, seeks FIR against filmmaker over death threat allegations
 
+
+## How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS
+As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international organisation has warned that an AI downturn could develop into a sharper, faster crash than a traditional b
 
 ## As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC
 As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help solve the technology sector’s power problem. Shenzhen-based Basic Semiconductor is the latest conten
@@ -152,9 +158,6 @@ Chinese sportswear maker Xtep International has opened Saucony’s first standal
 
 ## EV influx, US rare earth miners blacklisted, China-EU trade talks
 Chinese automakers will debut more than 150 electric vehicles in the second half of the year, even as the industry contends with slowing domestic demand, profit-destroying price wars and international complaints about overcapacity. BYD, Geely and other industry leaders will roll out multiple models 
-
-## China’s unicorns rise to 381 as ByteDance ranks in top 3 globally: Hurun index
-China is breeding a new generation of unicorns – start-ups currently valued at US$1 billion or more – at an accelerating pace, cementing its place alongside the United States in a major global index. The world’s second-largest economy saw 381 Chinese unicorns on the 2026 Hurun Global Unicorn Index, 
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -252,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iraq security forces arrest several officials in anticorruption crackdown
+Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.
+
+## FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit
+Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.
+
+## Iran attacks Kuwait and Bahrain in response to US strikes
+US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.
+
+## Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
 ## South Africa vs Canada: World Cup 2026 – prediction, team news and lineups
 Neither South Africa nor Canada has reached the knockout rounds of a World Cup before, but now a last-16 place awaits.
 
@@ -263,18 +278,6 @@ Suffering of Gaza's children continues unabated due to Israeli attacks despite '
 
 ## Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream
 Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.
-
-## Polls open in New Caledonia’s first provincial elections since 2019
-The New Zealand public broadcaster reports that about 2,500 police officers were deployed to secure and monitor polling stations.
-
-## In pictures: Race against time to rescue Venezuela earthquake survivors
-Time is running out in Venezuela's race to locate survivors as experts highlight the crucial 72-hour rescue window.
-
-## Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz
-US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.
-
-## Which teams are in World Cup last-32 knockouts, and what is the schedule?
-All the qualified teams and match schedule for the round of 32 at the 2026 FIFA World Cup, which begins on Sunday.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
