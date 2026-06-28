@@ -3,6 +3,12 @@
 ## Aramco helicopter crashes at Saudi port
 At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz
 
+## US dominates news as 250th anniversary celebrations approach
+Plus, Andy Burnham is centre stage with a speech on his economic plans, Wall Street tech IPOs and US labour figures
+
+## Heathrow’s £33bn expansion is ‘like a luxury Mercedes’, says airline group boss
+Head of Star Alliance warns of ‘eye-watering’ costs of third runway project
+
 ## Don’t allow Congo’s leaders to trample its constitution
 The US should not look the other way as President Tshisekedi seeks an illegal third term
 
@@ -17,9 +23,6 @@ An ambitious move that could have positive Europe-wide implications
 
 ## US and Iran exchange strikes as ceasefire falters
 Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
-
-## Who’s next in Trump’s campaign of retribution?
-A number of US lawmakers and officials are being investigated by the justice department
 
 ## Robots, not chatbots, will realise AI’s potential
 Factory-floor applications of the technology could significantly enhance rich-world economies
@@ -39,14 +42,14 @@ Battle over licensing of mobile connection protocols could shape global rates fo
 ## Why keeping Europe cool need not be a luxury
 In the clean energy system the continent is trying to build, air conditioning basically comes for free
 
-## Spanish import hub urges EU to delay ban on Russian gas
-LNG shipments to the bloc have risen in the wake of the Middle East war
-
 ## Editorial. Inflection point
 With a little support, MSMEs can be a driving force
 
 ## Persistent deal positions us for AI transformation era: Nagarro CEO Manas Human
 The CEO believes the deal is not only about adding scale, but also about creating a global leader in “AI transformation and engineering”
+
+## HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
+HDFC Bank board may back Jagdishan’s third term, but experts say internal probe can’t replace RBI’s ‘fit and proper’ test
 
 ## Monsoon update: IMD says rains likely to reach several northern states in 5-6 days
 IMD also warns of heatwave conditions -- possibly severe -- in Uttar Pradesh on July 28 and 29
@@ -62,9 +65,6 @@ The national nodal agency for cybersecurity advises not to open unexpected attac
 
 ## Nutrition the best vaccine: Soumya Swaminathan
 Speaking about her experience shaping international health policy, Swaminathan suggested that much of what she learnt about science and public health came from listening to communities
-
-## Indian IT faces FY27 guidance cut risk as AI, geopolitics cloud demand
-With spending shifting toward AI tokens and cloud, industry growth and recovery remain uncertain
 
 ## Piyush Goyal heads business delegation to Greece, focus on trade and startup partnerships
 Commerce Minister Piyush Goyal is leading a delegation to Greece to boost trade, investment, and startup collaboration. The visit aims to explore new commercial partnerships, building on recent diplomatic talks. Despite growing engagement, bilateral trade remains below its potential. Greece's strate
@@ -114,28 +114,28 @@ Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of part
 ## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
 Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
 
-## 18 years of tiger reintroduction in Sariska: Centre flags priority intervention need in 25 of 58 tiger reserves with low, absent tigers
+## Ben Stokes retires: the bottle, the kit bag, and a career like no other
 
 
-## India stunned by Ireland for 2nd game in row to lose series 2-0
+## June 2026 set to be fifth driest-ever since 1901; monsoon advance over parts of north likely in early July
 
 
-## TET paper leak probe widens; teams sent to Delhi, Haryana, UP, Bihar
+## India knocked out of Women’s T20 World Cup after being outclassed by Australia
 
 
-## India crash out of Women’s T20 World Cup 2026 after losing to Australia in must-win clash
+## Batting goes to shambles as India lose by one run against Irish pluck
 
 
-## Iran draws red line on Hormuz after fresh round of strikes with US: Major developments
+## Governor requested Centre 5 times to constitute development boards since 2022: CM tells Assembly
 
 
-## Claims of lack of development funds by rebel MPs expose Mahayuti: Congress
+## Lakes to legends: India’s 5 most beautiful water palaces
 
 
-## Muharram poisoning: Mumbai police question accused’s family, source of zinc phosphide still not found
+## Marine Drive road-widening approved, promenade reclamation awaits green nod
 
 
-## Ameesha recalls getting tanned for ‘Kaho Naa.. Pyaar Hai’: Here are some beach skin care tips
+## Government flags priority intervention need in 25 of 58 tiger reserves with low, absent tigers
 
 
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why do reports of domestic abuse increase during World Cups?
+Why do reports of domestic abuse increase during World Cups?
+
+## In Lebanon, framework agreement signed with Israel spurs protest, criticism
+Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.
+
+## The aftermath of Venezuela’s deadly earthquake
+The search for survivors continues in Venezuela after a powerful earthquake left hundreds dead and thousands missing.
+
+## The match that changed the World Cup forever
+One of football's biggest scandals changed the World Cup forever.
+
 ## Drone captures ongoing rescue efforts after Venezuela earthquakes
 Drone footage from Venezuela's La Guaira shows widespread destruction after twin earthquakes devastated the region.
+
+## Louisiana primary win puts Trump endorsee Letlow on path to US Senate
+Trump waded into race to defeat incumbent Bill Cassidy, a Republican and critic of Trump's actions following 2020 vote.
 
 ## Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes
 George Russell's victory over Max Verstappen further reduces teammate Kimi Antonelli’s lead in the drivers' title race.
 
 ## Israel strikes Lebanon, testing days-old peace deal
 Hezbollah calls the deal a surrender as Israeli forces stay put and continue striking the south.
-
-## South Africa vs Canada LIVE: FIFA World Cup 2026
-Live updates, analyses and text commentary as South Africa face cohosts Canada in first knockout match in Los Angeles.
-
-## Iraq arrests senior officials in anti-corruption raids
-Iraqi security forces arrested several politicians, lawmakers and senior officials in dawn raids across Baghdad.
-
-## Three firefighters killed in US wildfires along Colorado–Utah border
-The US has seen a harsh wildfire season this year, with prolonged droughts and dry conditions fuelling blazes.
-
-## Ben Stokes, England test captain, to retire from international cricket
-England test captain Ben Stokes will retire from international cricket after the ongoing test match against New Zealand.
-
-## Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak
-Health officials say the Ebola response cannot succeed without addressing the humanitarian crisis.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
