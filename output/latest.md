@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Sovereign funds move from public markets to private to ride AI wave
-High concentration in stock markets and national security concerns send SWFs to private credit and infrastructure
+## US says it has agreed deal with Iran to halt strikes and resume talks
+Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz
 
-## Putin says Russia faces fuel shortages as Ukrainian drones strike refineries
-President’s comments are first admission that Kyiv’s long-range attacks have dented production
+## Samsung and SK Hynix plan $590bn chipmaking expansion
+Companies to invest alongside South Korean government in factories to meet surging demand for memory chips
 
-## FirstFT: AI ‘exuberance’ threatens the global economy, BIS warns
-Also in today’s newsletter: Aramco helicopter crashes at Saudi port, and Indian snack giant Haldiram’s preparing European expansion
+## AInflation is real but tiny
+Plus, European stocks ain’t cheap
 
-## Andy Burnham sets out ‘10-year mission’ to raise living standards
-Prime minister-in-waiting will also pledge to go further on devolution as scrutiny grows over his likely policies
+## European producers press Brussels to shut Russian aluminium loophole
+Also in this newsletter: Pharma sector push EU to close life sciences funding gap
 
-## Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response
-Socialist regime’s US-backed leader is facing a crisis as anger mounts over inadequate rescue efforts
+## FirstFT: Burnham’s ‘growth in every UK postcode’ plan
+Also in today’s newsletter: Russia’s fuel shortage and Europe’s low gas stocks
 
-## Ebola-hit DR Congo lead minnows into World Cup knockout stages
-Central African team defy odds to progress alongside Cape Verde and Bosnia and Herzegovina
+## Warsh’s Fed communication is adding volatility to rates markets
+The downsides of seeking more fundamental information from markets will be in greater surprises
 
-## Aramco helicopter crashes at Saudi port
-At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz
+## Indonesians sour on Prabowo as currency weakens
+Student-led protests are emerging as the economy falters and corruption allegations hit welfare programmes
 
-## US dominates news as 250th anniversary celebrations approach
-Plus, Andy Burnham is centre stage with a speech on his economic plans, Wall Street tech IPOs and US labour figures
+## How Vinícius Júnior became central to Brazil’s World Cup dream
+Real Madrid winger holds key to Brazil’s hopes of winning first world title since 2002
 
-## Airlines brace for up to $127bn in extra costs from carbon credit shortage
-Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says
+## BT and Verizon to create new international business in $625mn deal
+New 50:50 venture will be milestone in UK group’s strategy of refocusing on its domestic operations
 
-## Heathrow’s £33bn expansion is ‘like a luxury Mercedes’, says airline group boss
-Head of Star Alliance warns of ‘eye-watering’ costs of third runway project
+## Artificial intelligence and Engels’ Pause
+Politics could be a bigger constraint than power and compute
 
-## Robots, not chatbots, will realise AI’s potential
-Factory-floor applications of the technology could significantly enhance rich-world economies
+## How Citadel became an energy giant
+Plus, Venezuela’s huge debt pile, Japanese IPO slump and Constantin Brâncuşi in Berlin
 
-## Are AI stocks headed for further turbulence?
-Market Questions is the FT’s guide to the week ahead
+## Viral video resurfaces to haunt TN Minister, Opposition demands action
+As the controversy surrounding the white powder-like substance intensified, the TVK has distanced itself from the incident
 
-## James Sprayregen’s thirst for legal showdowns prompts late career move to Paul Weiss
-Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy among Wall Street firms
+## Sensex today | Stock Market LIVE: Sensex drops 200 pts, Nifty nears 24,000; pharma stocks lead gains; Kotak, IndiGo top losers
+Sensex, Nifty, Share Prices LIVE updates: At 12:02 pm, Sensex dropped 193.12 points or -0.25% to 76,907.35 and Nifty fell 40.25 pts (-0.17%) to trade at 24,015.75
 
-## Sensex today | Stock Market Live Updates: Stock to buy today: Pine Labs (₹160)
-Sensex, Nifty, Share Prices LIVE: While it is too early to call the recent rise as a bullish trend reversal, the breakout of a resistance at ₹155 is a positive sign
+## India seeks EU scrap export relief as curbs threaten trade pact gains
+Industry representatives discussed scrap curbs with India’s trade ministry, and India applied to keep access to recyclable materials under the new regime
 
-## Watch out these two dozen stocks in today’s trade
-Persistent Systems, Hexaware, HDFC Bank, Kotak Bank, Adani Green, Waaree Energies, Transrail Lightning, Astral, Pricol, Alembic, Aurobindo, Amber Group, Strides, Vikram stocks to be in focus today
+## Godrej Agrovet rejigs portfolio to improve earnings quality
 
-## Stock to buy today: Pine Labs (₹160)
-While it is too early to call the recent rise as a bullish trend reversal, the breakout of a resistance at ₹155 is a positive sign
 
-## Persistent deal positions us for AI transformation era: Nagarro CEO Manas Human
-The CEO believes the deal is not only about adding scale, but also about creating a global leader in “AI transformation and engineering”
+## Yash Raj Films makes strategic investment in Rusk Media
+Under the partnership, YRF will oversee the creative direction of original animation and vertical micro-drama IP, while Rusk Media will produce and distribute the content through its proprietary Alright! TV platform and global digital channels
 
-## US and Iran agree to halt strikes, plan Doha talks over Hormuz dispute, Axios reports
-The two sides are set to meet in Doha over the Strait of Hormuz dispute, a vital oil shipping route
+## Orthodox tea demand up at Coonoor auctions
+Traders attributed it to the normalisation of issues in West Asia following the recent truce in the region
 
-## Adani case: NY judge’s query procedural, unlikely to derail DoJ move to drop charges, says US lawyer
-The lawyer said courts have limited power to compel prosecutors to continue a case once the executive branch decides to withdraw the charges
+## Karnataka Deputy CM proposes sister city partnership with Peru to boost bilateral trade to $10 billion
+This is being seen as a significant step towards strengthening economic and diplomatic ties with the Republic of Peru, they said
 
-## PFC-REC merger gets board approval, creating India’s largest power sector NBFC
-The merger will create a financial entity with a loan book of ₹11 lakh crore
+## Bajaj Auto bets on a multi-platform strategy for future growth
+Freedom, Pulsar, Chetak, KTM and Riki to drive Bajaj Auto’s next decade of growth
 
-## Mission universal access to clean energy
-Nearly 655 million people globally lack access to electricity, and two billion use polluting fuels for cooking
+## 6 financial changes from July 1: What changes for ITR, Aadhaar, passport fees and bank rules
+Starting July 1, 2026, several financial changes will affect you. Income tax filing deadlines are set, and updating your Aadhaar email becomes free for a period. Expect shifts in SBI Card rewards and HDFC Bank credit card lounge access eligibility. Passport fees are rising, and new RBI rules will pr
+
+## Stock Market Live Updates Today: BSE Sensex opens in green; Nifty50 above 24,050 on US-Iran conflict uncertainties; crude oil edges up
+
+
+## Asian stocks today: Markets stay cautious as Middle East tensions, Fed rate worries keep investors on edge
+Asian markets treaded water Monday, dampened by Middle East ceasefire doubts and anticipation of more US interest rate hikes. Major indices like Japan's Nikkei and South Korea's Kospi saw declines. Investors are also reassessing AI stock valuations, with a shift towards defensive sectors. The dollar
+
+## Top stocks to buy today: Stock recommendations for June 29, 2026 week - check list
+Stock market recommendations: Which are the top stocks that you should buy this week? Gokaldas Exports, and Reliance Industries (RIL) are the top stocks that Motilal Oswal Wealth Management Research Desk has chosen as ‘buy’ recommendations for the week starting June 29, 2026. Also check what market 
+
+## Adani case: New York judge's query procedural, unlikely to derail DoJ bid to drop charges, says US lawyer
+
 
 ## AI enters cost-conscious era as enterprises chase returns
 
@@ -72,68 +81,62 @@ Nearly 655 million people globally lack access to electricity, and two billion u
 ## Turning tide: NHAI hits fast lane in arbitration on stricter monitoring
 
 
-## Payment delay puts working capital stress on MSMEs
+## VB-G Ram G to introduce new daily wage system for persons with disabilities, women and senior citizens
+Workers who are persons with disabilities will reportedly not be required to work fixed hours to receive their full daily wage.
+
+## ‘Heavens are not going to fall’: SC refuses urgent hearing of Ram temple donation case, questions rush
+‘Heavens are not going to fall’: SC refuses urgent hearing of Ram temple donation case, questions rush
+
+## CBSE vs Vedant Shrivastava: Class 12 student disputes board's claim on re-evaluation marks
+While Vedant Shrivastava claimed that his score increased by only two marks, the CBSE said that his Physics score also increased by nine marks.
+
+## Akhilesh's ‘4C formula’ jibe at BJP, Yogi's ‘challenge’: Ram Temple donation row intensifies
+The row over donations at the Ram Temple first surfaced when an SP leader alleged that between ₹5 crore and ₹7.5 crore from the offerings had been siphoned off.
+
+## The H-1B trap: How some Indian workers are exploited by 'desi consultancies'
+Commonly known in the industry as "body shops", desi consultancies act as intermediaries between Indian tech workers and American employers.
+
+## Fire breaks out at Noida high-rise, no casualties reported
+Six fire tenders were rushed to the spot and firefighting operations are underway.
+
+## 3 arrested, Bihar kingpin absconding, SIT probe: Timeline of Maharashtra TET paper leak probe
+The investigation into the Maharashtra TET 2026 paper leak has expanded beyond the state. Three men were arrested, while two are still on the run.
+
+## Scuffle breaks out at Punjab gurdwara during celebration over return of 4 Nihang Sikhs after bail
+The incident reportedly happened while the groups were celebrating the return of the four Nihang Sikhs who were granted bail and were brought back to Mohali.
+
+## Samay Raina’s sexist joke from India’s Got Latent invites comparison to ‘Rs 370 biryani’
 
 
-## In top gear: Electric passenger vehicle sales may cross 3 lakhs in 2026
+## Biker escapes alive from a collapsing mountain during Arunachal landslide
 
 
-## Persistent bids to buy German company for $1.3 billion
+## Court refuses to cancel dowry case, says previous complaint omissions don’t erase new cruelty
 
 
-## Monsoon uncertainty weighs on gains from lower oil prices
+## RRB Technical Recruitment 2026 short notification out; apply for 6565 vacancies
 
 
-## Piyush Goyal heads business delegation to Greece, focus on trade and startup partnerships
-Commerce Minister Piyush Goyal is leading a delegation to Greece to boost trade, investment, and startup collaboration. The visit aims to explore new commercial partnerships, building on recent diplomatic talks. Despite growing engagement, bilateral trade remains below its potential. Greece's strate
-
-## ‘Desi consultancies': The dark side of H-1B visa and the American dream, how it impacts Indians
-‘Desi consultancies' connect Indian tech workers to American employers through a maze of recruiters, subcontractors, universities, and corporate clients.
-
-## Interview | Schemes not reaching all, we are fixing lapse: Thulasi
-The UDF government has proposed a tribal university, housing schemes, and job drives for SC/ST communities, addressing funding and past systemic issues.
-
-## VB-G RAM G hurdles remain ahead of rollout
-The new law was originally scheduled to be launched on April 1, but it was pushed back because the portal and technical infrastructure were not ready
-
-## PM Modi’s visit deepens India-Seychelles strategic relations
-PM Modi is on a three-day visit to Seychelles as the guest of honour at celebrations marking the 50th anniversary of the archipelago nation’s independence
-
-## PM thanks citizens for heeding Iran war crisis appeal in Mann Ki Baat
-Prime Minister Narendra Modi on Sunday thanked citizens of the country for supporting his appeals, such as curbing fuel consumption and avoiding foreign travel, made in view of the West Asia crisis; and underlined the role of public participation in nation-building.
-
-## VB-G RAM G hurdles remain ahead of rollout
-The Viksit Bharat Act, replacing MGNREGS on July 1, faces delays and opposition due to unfinished works, raising concerns about centralization and labor rights.
-
-## The gastronomification of urban India: Emergence of food hubs across cities
-The dining boom is remaking neighbourhoods, high streets and the character of Indian cities — raising fears of an urban monoculture
-
-## Instructor derostered, flight grounded after trainee pilot injured at Kanpur airport
-The DGCA grounded an aircraft and instructor after a trainee at Kanpur's Chakeri Airport was injured by a running propeller during a night flight.
-
-## 40 years ago June 29, 1986: Rajya Sabha poll results
+## Jasmin Bhasin hospitalised in Dubai during birthday trip with Aly Goni: ‘Serious infection’
 
 
-## 117 dead dogs found at California ‘no-kill’ shelter
+## Tamil Nadu to start MBBS, BDS admission process for 2026 academic session
 
 
-## Far away, people die of sadness. In India, grief must stand in line
+## Shraddha Kapoor’s Eetha in trouble, Vithabai Narayangaonkar’s family demands title change
 
 
-## Slow down, write me a letter
+## Radikaa Sarathkumar slams ‘circus’ after Bhagyaraj’s death: ‘Give dignity to dead’
 
 
-## Telugu Ganga, Emergency & a formative federal moment
+## Northern Metropolis: Hong Kong launchpad for Chinese firms
+–
 
+## Bahrain doubles down on Hong Kong to woo mainland China capital amid Middle East tensions
+Bahrain has deepened its presence in Hong Kong to tap mainland China capital, as the Gulf state launches a charm offensive to court foreign investors amid the US-Israel war on Iran. Two major Bahraini investors have already placed bets in Hong Kong to seize rising opportunities in China, while the k
 
-## Ladakh shows the way: Let’s switch off the lights, bring back the starry night
-
-
-## From Gurugram, case that invites questions about trust and consent
-
-
-## PP Chaudhary at Idea Exchange: ‘We do not want the anti-defection law to be misused by either side’
-
+## China’s first AI-powered cancer vaccine production line set to launch in Beijing
+China has broken ground on what developers say is the country’s first production line for AI-assisted personalised tumour vaccines, raising hopes for millions of new cancer patients every year – a disease that ranks as the nation’s second-leading cause of death. By October, Beijing-based Likang Life
 
 ## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
 Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
@@ -150,14 +153,8 @@ Chinese technology companies establishing new headquarters and offices in northe
 ## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
 Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience. DeepSeek, by adopting w
 
-## How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS
-As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international organisation has warned that an AI downturn could develop into a sharper, faster crash than a traditional b
-
-## As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC
-As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help solve the technology sector’s power problem. Shenzhen-based Basic Semiconductor is the latest conten
-
-## China’s big trucks go electric and abroad as subsidies help pave road to net-zero freight
-Domestic makers of heavy-duty trucks are emerging as the latest beneficiaries of accelerating electrification on China’s roads, as technological gains and lower ownership costs are bolstering overseas sales amid a global energy crisis. Southeast Asia and Africa, where Chinese makers have already est
+## The Cost of America Abandoning the Military Draft
+Trump could be confident his war in Iran would not touch the daily lives of most voters.
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -179,9 +176,6 @@ The Gulf region has shown it’s ready to carry the diplomatic burden of managin
 
 ## The Geopolitics of SpaceX and Elon Musk
 Should one company—and one person—have this much power?
-
-## Restocking the Pentagon
-Trump urges defense manufacturers to speed up weapons production after the Iran war.
 
 ## ASEAN and Trump’s Section 301 Tariffs
 U.S. trade pressure could prove to be exactly the catalyst ASEAN needs for integration
@@ -255,53 +249,56 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Father and son pulled out alive four days after Venezuela earthquake
-ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.
+## Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups
+The 2026 FIFA World Cup round of 32 pits South American giants Brazil against Asian heavyweights Japan in Houston.
 
-## Who is Stephen Eustaquio, who scored for Canada against South Africa?
-Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.
+## Skydiving plane crash kills 11 in northeastern France
+11 people were killed when a plane belonging to a parachuting school crashed in Tomblaine, France.
 
-## ‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa
-A mass return of Malawians from South Africa exposes the cost of migration, violence and broken livelihoods.
+## Thousands of Kurds gather in Turkiye to demand release of PKK leader
+Thousands of Kurds in Turkiye rallied to demand the release of PKK leader Abdullah Öcalan and other prisoners.
 
-## Iran war live: Tehran insists on control of Hormuz amid reports of US talks
-Washington and Tehran have agreed to stop attacks and renew talks in the Qatari capital, Doha, Axios reports.
+## Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening
+Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.
 
-## Heightened emotions in Iran after Team Melli knocked out of World Cup
-This is the second World Cup that comes after deadly nationwide protests inside Iran, and the first one amid a war
+## Australian man charged with murder after Thai girl’s body found in suitcase
+Simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase
 
-## Ireland upstage world champions India to win T20 series at home
-Ireland won the second T20 by one run over India, who did not give a debut to teen sensation Sooryavanshi.
+## Venezuelans angry with government as time runs out to rescue survivors
+Residents and volunteers say they feel abandoned by the government as they race to save lives from the rubble.
 
-## Canada score late to beat South Africa and reach last 16 at World Cup 2026
-Stephen Eustaquio scores in stoppage time as Canada win first knockout match in a World Cup.
+## Putin says Ukraine proposed halt to deep strikes
+Russian President Vladimir Putin says Ukraine has proposed a mutual halt to long-range strikes
 
-## Protesters in Serbia doubt Vucic resignation will bring change
-Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.
+## Venezuela’s earthquakes pose first major test for President Delcy Rodriguez
+The seismic disaster has stirred public anger against government mismanagement under Venezuela's ruling socialist party.
 
-## Indian CFO Guide: Navigating in a Multipolar World
-As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
+## CEAT eyes double-digit volumes, bets on fresh price hikes to pass on high input costs, CFO says
+CEAT anticipates sustained double-digit volume growth for the next three to five years, despite recent price hikes to offset rising raw material costs. CFO Kumar Subbiah highlighted that natural rubber prices remain at a 15-year high, impacting margins. The company is strategically diversifying its 
+
+## Big Four rethink partnership as AI changes the game
+India's Big Four accounting firms, Deloitte, PwC, and EY, have surpassed 1,000 partners each, driven by rapid expansion, especially in technology consulting. This growth strains the traditional partnership model, demanding leaders adept at managing diverse businesses, embracing AI, and navigating co
+
+## Plan afoot to create index for unincorporated enterprises
+The index, proposed by the ministry of statistics and programme implementation (MoSPI), will provide insights into the health of the large yet often difficult-to-measure informal sector.
 
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
 
+## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
+The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
+
+## China, India see top firms lose market cap share in AI lag
+Major stock markets in China, India, and Hong Kong are lagging in the global AI race, with top companies now holding a smaller market share. This contrasts with Taiwan and South Korea, where AI leaders have significantly boosted their benchmarks. While diversification can offer stability, the absenc
+
+## Indian CFO Guide: Navigating in a Multipolar World
+As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
+
 ## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
 At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
 
-## Quess targets 40,000 hires in FY27 as manufacturing revival and global expansion fuel growth: CFO
-Staffing firm Quess Corp plans to add 35,000-40,000 employees in FY27 as it sharpens its focus on manufacturing, construction and international businesses, while pursuing a long-term strategy to build new growth corridors across Asia, Europe and the United States, Chief Financial Officer Neeraj Jain
-
-## CFOs deserve C-Suite salaries, but they must build skills to command them, says ACCA's Lucia Real Martin
-CFOs must actively earn their higher salaries by mastering communication, strategic judgment, and ethics, moving beyond technical skills. ACCA's Lucia Real Martin emphasises that finance chiefs need to become 'Chief Value Officers,' driving digital transformation and sustainability. While AI sparks 
-
-## Exclusive: Otis Elevator India appoints former Honeywell Automation executive Pulkit Goyal as CFO
-Finance veteran joins elevator maker after over four years at Honeywell; appointment comes amid shifts in the global elevator industry.
-
-## Financial Governance: The Bedrock We Keep Ignoring
-As corporate failures from Rajesh Exports to IL&FS expose recurring governance breakdowns, are India's boards, CFOs, auditors and audit committees truly fulfilling their fiduciary responsibilities? Ashok Haldia, former Secretary of ICAI, examines why financial governance remains the weakest link in 
-
-## Big Four firms' India operations shine amid global slump
-India's Big Four accounting firms have achieved remarkable growth, outperforming global peers in fiscal year 2026. PwC and Deloitte reported significant revenue increases, while KPMG and EY also saw substantial gains. Technology consulting is a major driver, contributing significantly to revenue acr
+## RBI's dollar inflow measures buy time, but external risks remain
+The Reserve Bank of India's recent measures to boost dollar inflows are a temporary fix, economists warn. While these steps aim to stabilize the rupee now, the country must strengthen its balance of payments over the next three to five years. Otherwise, as foreign currency borrowings and deposits ma
 
 ## Corporate Mitra scheme to commence with 2,000 participants
 Corporate Mitras will provide affordable support to Micro, Small and Medium Enterprises (MSMEs) in various areas, including regulatory compliance, GST, accounting, financial guidance, cost accounting and secretarial services.
@@ -323,7 +320,4 @@ The Reserve Bank of India's recent measures to attract foreign currency inflows 
 
 ## RBI to raise large exposure limit for upper layer NBFC-IFCs to 45% from 35% of eligible capital base
 The Reserve Bank of India has boosted lending limits for top infrastructure finance firms, allowing them to extend up to 45% of their capital to connected borrowers, a significant increase from 35%. This move aims to support the crucial infrastructure sector.
-
-## RBI eases forex exposure rules, giving banks more room to trade
-The Reserve Bank of India has updated foreign exchange exposure rules for banks. These changes simplify calculations by merging onshore and offshore positions and allow inclusion of overseas earnings. Crucially, banks can now exclude certain long-term foreign currency investments, potentially boosti
 
