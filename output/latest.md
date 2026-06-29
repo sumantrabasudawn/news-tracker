@@ -33,21 +33,6 @@ Craig Williams used inside information from his role as a parliamentary aide to 
 ## Comcast’s Hollywood break-up marks its GE moment
 Owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders
 
-## ‘The risk of a deleveraging event is rising’
-Morgan Stanley’s analysts are worried about quarter-end money tightness
-
-## Atom Bank sale on cusp of collapse
-Shareholders targeted £600mn valuation but process has failed to attract bids at desired price
-
-## AI money is going to swamp the midterms this year
-Alex Bores’ defeat in a New York congressional primary was a taste of things to come
-
-## Del Vecchio’s €10bn buyout bid hit by financing hurdles
-Holding company’s board refuses to act as backstop for deal to purchase siblings’ stakes
-
-## Head to tail: business grapples with 100 per cent fish initiative
-An ancient habit of frugality resonates with the US Midwest culture of thrift
-
 ## Persistent Systems shares tumble 11% after Nagarro acquisition
 The sharp decline in the stock came as investors assessed the size, valuation and integration implications of the proposed acquisition
 
@@ -120,6 +105,9 @@ A five-year-old boy was killed by a lioness in Gujarat, marking one of several r
 ## Amit Shah assures Centre’s support to floods-affected Assam, Arunachal Pradesh
 Assam faces severe flooding affecting 45,839 people in seven districts. While there are no fatalities, extensive damage has occurred. Rescue efforts are underway.
 
+## Netherlands vs Morocco, FIFA World Cup 2026 Live Score: NED ‘fear no one’, says Koeman
+
+
 ## Government sets up study group to strengthen film industry; Prasoon Joshi to lead team
 
 
@@ -139,9 +127,6 @@ Assam faces severe flooding affecting 45,839 people in seven districts. While th
 
 
 ## India leads democracies in transparent polls: CEC Gyanesh Kumar
-
-
-## ‘Much too late… what’s the point now?’ says family on Sarla Bhat case
 
 
 ## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
@@ -168,6 +153,9 @@ China has broken ground on what developers say is the country’s first producti
 ## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
 Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
 
+## U.S., Iran Prepare for Talks on Strait of Hormuz
+Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
+
 ## The Supreme Court Pushes Back on Trump’s Fed Assault
 Tampering with the Federal Reserve’s independence proved to be a bridge too far.
 
@@ -188,9 +176,6 @@ Europeans are gaming out their future defense, and it’s unthinkable without Ky
 
 ## Europe Will Never Be an AI Superpower
 But it’s not too late for the continent to claim some technological independence for itself.
-
-## The Cost of America Abandoning the Military Draft
-Trump could be confident his war in Iran would not touch the daily lives of most voters.
 
 ## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
 The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
@@ -264,6 +249,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sinner and Sabalenka answer doubters on Wimbledon Day one
+Naomi Osaka impresses with her outfit and performance, while British hopes are dashed on first day of championship.
+
 ## LIVE: Netherlands vs Morocco – FIFA World Cup 2026
 Follow the updates, with live build-up, team news coverage, and our text commentary stream of the last-32 match.
 
@@ -284,9 +272,6 @@ Martinelli's stoppage-time goal in Houston takes the five-time champions to the 
 
 ## Deadly heatwave grips Italy and Balkans as wildfire fears grow
 Older people remain most at risk as the heatwave drives up excess deaths across Europe.
-
-## Israeli attacks kill eight people in Gaza and a teenager in the West Bank
-Israeli rights group B’Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers"
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
