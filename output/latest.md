@@ -1,73 +1,79 @@
 # AION Intelligence
 
-## Burnham pledges biggest public housebuilding push since 1970s
-UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
-
-## Your chance to become this year’s British Solving Champion
-Event offers the chance to compete for £1,600 prize fund — plus ChessFest returns to Trafalgar Square in July
-
-## South Africa braces for unrest ahead of anti-migrant ultimatum
-Authorities and companies scale up security as hardline groups call on undocumented foreign nationals to leave by June 30
-
-## How China wriggled free when Trump closed a tariff loophole
-Chinese sales platforms and delivery services have adapted to survive the end of the ‘de minimis’ allowance
-
-## Donald Trump and how strongman leaders fall
-The downfalls of would-be autocrats in Hungary, Brazil and the Philippines hold lessons for America
-
-## Burnham plans ‘Number 10 North’ in bid to reboot Britain
+## Burnham has become more unpopular since Starmer’s resignation
 Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of power away from Westminster
 
-## And the FTAV charts quiz winner is . . .
-Charteaubriand
+## ‘The risk of a deleveraging event is rising’
+Morgan Stanley’s analysts are worried about quarter-end money tightness
 
-## FirstFT: AI fuels record number of power sector deals
-Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit
+## US says it has agreed deal with Iran to halt strikes and resume talks
+White House announces Steve Witkoff and Jared Kushner will fly to Doha for ‘high-level meetings’ but Tehran disputes that further negotiations have been confirmed
+
+## Burnham vows to ‘rewire’ British state
+UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
+
+## English cricket thrown into uncertainty by Ben Stokes’ chaotic exit
+Abrupt retirement of brilliantly aggressive captain comes after tensions with sport’s hierarchy
+
+## Supreme Court blocks Trump from sacking Fed governor Lisa Cook
+Justices say the president can fire top regulator in a separate decision
+
+## Burnham’s big challenges on devolution
+A boost for town centres and cities against the suburbs could come back to bite him
+
+## Orbán hid half of Hungary’s budget deficit, new PM says
+Péter Magyar says his predecessor ‘lied’ about 2026 shortfall of 8% of GDP
+
+## Atom Bank sale on cusp of collapse
+Shareholders targeted £600mn valuation but process has failed to attract bids at desired price
+
+## AI money is going to swamp the midterms this year
+Alex Bores’ defeat in a New York congressional primary was a taste of things to come
+
+## Del Vecchio’s €10bn buyout bid hit by financing hurdles
+Holding company’s board refuses to act as backstop for deal to purchase siblings’ stakes
+
+## Head to tail: business grapples with 100 per cent fish
+An ancient habit of frugality resonates with the US Midwest culture of thrift
 
 ## British American Tobacco slashes 9,000 jobs
 Maker of Dunhill cigarettes says cuts and outsourcing will affect about one in five jobs
 
+## FirstFT: AI fuels record number of power sector deals
+Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit
+
 ## Comcast to spin off NBCUniversal and Sky
-Shares rise 20% as media group outlines plan to split broadcast and studio businesses
+US group outlines plan to spin off broadcast and studio businesses as media industry battles to retain audiences
 
-## China grounds light aircraft after Beijing tower crash
-Flight operators say authorities issued indefinite nationwide airspace controls
+## Editorial. Pointless exercise
+Strange move to revive Calcutta Stock Exchange
 
-## Samsung and SK Hynix plan $600bn chipmaking expansion
-Companies to invest alongside South Korean government in factories to meet surging demand for memory chips
-
-## UK’s Bridgepoint buys real estate unit in $1.4bn bet on US property
-Private capital group is looking beyond its traditional speciality in corporate buyouts
-
-## China targets more Japanese companies with export controls
-Further restrictions on sales of ‘dual-use’ items with both civilian and military purposes
-
-## BT and Verizon to combine international operations in joint venture
-Verizon to pay $625mn to BT as part of deal that helps UK group refocus on its domestic operations
-
-## MSMEs must grow from being producers of ‘me-too’ products to making ‘I-first’ products: ELGI MD
+## Letters to the Editor dated June 29, 2026
 
 
-## Godrej Agrovet rejigs portfolio to improve earnings quality
+## June set to end with around 40% rainfall deficit as hopes of monsoon revival fade
+If the June rainfall ends up with 10 cm, the precipitation during July-September period needs to be 68.17 cm, which is still short of 3% of normal for the period
 
+## E100 fails the consumer test as economics fall short
+Ethanol delivers lower energy per litre than petrol, reducing mileage and diluting the benefit of a cheaper pump price
 
-## Broker’s call: Aptus Value (Buy)
-Despite seasonality, GS3/1+ DPD are expected to edge up 13–15bps/40–45bps Q-o-Q to 1.65/6.65%; Credit costs are expected to remain firmly within the guided band of 0.5% (plus or minus 10bps
+## Delhi Cabinet approves EV Policy 2.0 amidst concerns from ICE vehicle makers
+As per the policy guidelines, customers buying electric two-wheelers (E2Ws) will get a subsidy of up to ₹30,000 in the first year; ₹20,000 in the second year; and ₹10,000 in the third year
 
-## Tech Mahindra collaborates with Perplexity to boost sales with AI
-Tech Mahindra to deploy Perplexity Enterprise Pro to provide sales teams with insights
+## Merck launches GCC in Bengaluru
+Merck’s Bengaluru GCC to bring together approximately 3,300 professionals
 
-## TVS Motor steps up R&D spends in FY26 focus on electrification, connected platforms, and AI
-Over 2,000 engineers working on electrification, connected platforms and AI-driven design; company posts record FY26 performance.
+## Hero Motors setting up ₹750 crore Global Parts Centre in Madanapalem, Andhra Pradesh
+Chief Minister Naidu to lay the foundations stone on July 1
 
-## GIFT IFSC to get ‘One KYC’ system as IFSCA plans unified client onboarding framework
-Mandatory KRA integration aims to eliminate repeated KYC, speed up onboarding and build common compliance infrastructure across GIFT IFSC.
+## Amazon India on track to double Prime membership base
+This Prime Day, besides shopping deals, members will also get access to 500 new product launches from top Indian and global brands besides SMEs
 
-## INERA, CropNXT ink pact to reach 65 lakh farmers
-The multi-year, multi-million-dollar partnership will combine INERA’s science-led biological agri-input portfolio with CropNXT’s distribution and value-chain strength across key agricultural markets in India
+## US stocks today: Wall Street trades in green as Dow jumps 300 points, Nasdaq up 0.7%
+Wall Street surged on Monday, led by a strong rebound in tech stocks, particularly those linked to artificial intelligence, following significant semiconductor investment announcements. SpaceX also continued its upward trajectory, set to join the Nasdaq 100. Comcast saw a notable jump after announci
 
-## For Tamil Nadu MSMEs looking for the next chapter of growth, Kerala is not a distant option: KSIDC MD
-
+## Who is Puneet Sharma, the Axis Bank CFO who has resigned?
+Axis Bank's Chief Financial Officer, Puneet Sharma, has resigned, stepping down on Sunday, June 28, but will continue until August 31. Sharma, who joined in March 2020, oversaw finance, legal, and investor relations, during which the bank's stock nearly doubled. He is leaving to pursue new professio
 
 ## Govt plans Rs 5,000 crore scheme to help steel industry adopt green technologies
 The government is set to launch a Rs 5,000 crore scheme within three months to boost cleaner technologies in India's steel sector, a major contributor to carbon emissions. This initiative, the National Strategy for Sustainable Secondary Steel, aims to reduce the industry's environmental footprint an
@@ -87,58 +93,52 @@ China's financial watchdogs are tightening credit standards, prompting investors
 ## Stock Market Live Updates Today: BSE Sensex ends over 370 points down; Nifty50 goes below 24,000 on US-Iran conflict uncertainties; crude oil edges up
 
 
-## Gen Z is investing like a pro, but insuring like a rookie: Report
-India's Gen Z excels at investing via SIPs and mutual funds, yet many remain uninsured, relying on parents' policies. Despite digital access to financial info, a significant gap exists between research and purchasing insurance. A health emergency could destabilize nearly two-thirds of young investor
+## Meghalaya HC upholds bail to Sonam Raghuvanshi in honeymoon murder case
+The Meghalaya police have already filed a chargesheet exceeding 700 pages, alleging that the murder was premeditated
 
-## US-Iran war: Moody’s confident India can withstand fiscal deficit target breach without impacting rating
-Moody's currently rates India at Baa3, the lowest level within the investment-grade category, with a stable outlook. According to de Guzman, the rating reflects the government's consistent progress in strengthening its fiscal position since the Covid-19 pandemic.
+## 'Need to probe murder rehearsels, passport disposal': Why police sought extended custody of Siya Goyal, 'lover' Chetan
+Police said they needed to ascertain the exact spots where the alleged reconnaissance and rehearsals were carried out.
 
-## New temple, pilgrimages, and ‘Humare Ram’: In Punjab, AAP steps up Hindu outreach with Kejriwal's big promises
-Kejriwal said the Bhagwant Mann government had done more for Sanatan Dharma than previous governments in Punjab.
+## Who was Jagan Gurjar? Notorious Chambal dacoit with nearly 100 criminal cases found ‘suspiciously’ dead in Ajmer jail
+Police suspect he was murdered inside his barrack while inmates were locked in as per jail protocol.
 
-## ‘Ram ko loota, desh ko loota’: Kapil Sibal's dig at BJP over Ram Temple donation row
-The opposition has questioned Prime Minister Narendra Modi's silence on the alleged embezzlement of donations at the Ram temple in Ayodhya.
+## Bengal passes bills to remove some Muslims from OBC list as ordered by Calcutta HC
+The amendments have also revised the reservation quota for OBCs from 10% to 7% and reorganised OBC categories
 
-## ‘Show them my son’: Dipke shares video of NEET aspirant's father who dies by suicide, attacks Pradhan
-Dipke said that the father of the NEET aspirant, who died by suicide on June 18, came from Gujarat to ask a question from the education minister.
+## Telangana: Local BJP leader held for slapping school principal over Urdu classes
+The principal, the Urdu teacher and the school official who filed the complaint against the BJP leader were booked for acts promoting enmity among people
 
-## CBSE's fresh guidelines for 3-language policy: Changes for Class VI, VII, VIII, IX and X students explained
-Under the policy, students will study three languages, with at least two being Indian languages.
+## 'I mop floors, wash utensils, but still she...': Faridabad man dies by suicide after ‘harassment by wife, in-laws’
+The man said he was committing suicide because of his wife, her sister and parents and accused them of physical and mental harassment.
 
-## Who is Siya Goyal's lawyer? Fresh twist as accused's brother says Aashutosh Srivastava 'was never hired'
-Advocate Vipul Dushing claimed he was representing Siya Goyal as Aashutosh Srivastava's junior counsel spoke to reporters ahead of the hearing.
+## 'Gadkari then, Fadnavis now': RSS-backed leaders being sidelined by BJP, claims Uddhav Thackeray
+Thackery questioned the role of the RSS and whether it was willing to speak up if leaders perceived to be close to it were allegedly being sidelined.
 
-## Pune 3-year-old rape case: Why judge refused to consider 65-year-old convict's age before death sentence
-The judge, categorizing the case as the "rarest of the rare," made it clear that the brutality of the crime left no room for leniency.
+## Petrol, diesel sale restrictions to end on July 1 as India eases war-time curb
+The curbs, imposed as a precaution against potential supply shortages, had barred commercial consumers from buying petrol and diesel at retail fuel stations.
 
-## Uttarakhand CM Pushkar Singh Dhami inaugurates MRI facility in Champawat, unveils health projects worth over ₹40 crore
-Uttarakhand CM Dhami inaugurated a state-of-the-art MRI facility in Champawat, part of a major healthcare investment exceeding ₹40 crore.
-
-## West Bengal: Suvendu Adhikari warns of action against AJUP’s Humayun Kabir
-Aam Janata Unnayan Party chief Humayun Kabir maintained that his remarks were political and intended against BJP leaders
-
-## Lower fuel prices are a window. India must use it to prepare for tough times
+## 59,000 BLOs, over 46 lakh voters unmapped: Karnataka SIR begins today; final rolls to be out October 7
 
 
-## ‘As you’re not in cinema, I’m using your name’: Vishal’s hilarious exchange with CM Vijay
+## Urdu row: BJP town chief held, gets bail for assault on school principal in Telangana
 
 
-## Rajinikanth says man refused to accept he was romancing Aishwarya Rai: ‘You’re the hero?’
+## Supreme Court says Fed’s Cook can keep her job for now, but upholds other Trump firings
 
 
-## Man misses 2023 cricket world cup match due to hotel booking cancellation, wins Rs 20,000
+## Schools flouting Marathi mandate to lose recognition: Minister Bhuse
 
 
-## ‘CBSE taking credit for its own mistake’: Vedant Shrivastava hits back on marks dispute
+## Inside Madhoo Shah’s Rs 100 cr mansion with antiques from around the world
 
 
-## Family denied hotel room despite confirmed booking, Goibibo ordered to pay Rs 24,000
+## ‘Never a homebreaker’: Asha Parekh on Nasir Hussain and love beyond marriage; expert weighs in
 
 
-## Alia Bhatt says daughter Raha is ‘meant for the stage’; how to spot talent early
+## GCL could experiment with board swaps, heart-rate monitors this season
 
 
-## ‘I also attend Iftar’: Nagpur top cop defends attending RSS event amid Congress backlash
+## Former Alaska mayor charged with sexually abusing teenage girls. He was once ‘parent of the year’
 
 
 ## Fosun breaks ground at Shaw Brothers Movietown residential project
@@ -165,6 +165,15 @@ Hong Kong is seizing every opportunity to consolidate its role as a global finan
 ## Why brokers believe China’s AI-driven stock run will find fresh legs
 Chinese stocks may extend their gains in the second half of the year as resilient exports and recovering producer prices support economic growth while disruption from high oil prices fades, according to brokerages at home and abroad. Average full-year earnings growth for mainland-listed companies co
 
+## America’s Sexual Exceptionalism
+How Washington shaped global policy toward sex and prostitution.
+
+## Whales, Cars, Farms, and Parks
+How the United States remade the global environment from 1776 to today.
+
+## With America in Retreat, Europe Now Depends on Ukraine
+Europeans are gaming out their future defense, and it’s unthinkable without Kyiv.
+
 ## Europe Will Never Be an AI Superpower
 But it’s not too late for the continent to claim some technological independence for itself.
 
@@ -180,38 +189,29 @@ How the war has shifted Iran’s relationship with its proxies.
 ## The Art That Created Colonialism
 A new exhibition examines how Western art and colonial aggression made each other possible.
 
-## What in the World?
-Test yourself on the week of June 20: Colombia votes, Starmer resigns, and Rutte meets with Trump.
+## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
+The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
 
-## Colombia Swings to the Right
-It’s the latest Latin American country to elect a Trump-backed leader.
+## To Compete in the Pacific, the US Needs to Move Past Zero-Sum Alignment
+The U.S. wants explicit alignment, but China’s more flexible approach to strategic competition resonates with Pacific Island states.
 
-## The United States Is Now a Guarantor of Last Resort
-The Gulf region has shown it’s ready to carry the diplomatic burden of managing Iran.
+## China’s New Investment Regulations Block Strategic Technology Transfer
+By adding legal backup to state control of Chinese private companies, Decree No. 837 affects any country receiving their investments. This regulation matters well beyond China itself.
 
-## Indonesia Says Tech Firms Have Wiped 4.7M Child Accounts Since Govt Ban
-Jakarta is one of a growing cohort of nations seeking to safeguard under-16s from cyberbullying, online fraud, and pornography.
+## How Land Swaps Are Reshaping Border Politics Between Uzbekistan and Kyrgyzstan
+A region once associated with security crises, mined frontiers, and closed border crossings is increasingly characterized by negotiation, pragmatic compromise, and regional connectivity.
 
-## ASEAN and Trump’s Section 301 Tariffs
-U.S. trade pressure could prove to be exactly the catalyst ASEAN needs for integration
+## Why Central Asia Is Turning to Putin for Nuclear Power
+Will Central Asia’s fix for its energy crisis merely trigger another?
 
-## Pakistan Wants the World to See It as a Peacemaker. I Want It to Find My Father.
-The world should not forget about Pakistan’s human rights abuses, even as the state tries to overhaul its image.
+## Why the Heart of India’s Indigenous Fighter Ecosystem Will be American for Several Decades to Come
+While negotiations for the licensed manufacture of F414 jet engines in India continue, the off-the-shelf procurement cost of some F414 engines for the AMCA prototype has tripled.
 
-## Why India’s Foreign Minister Went to Mongolia
-Eurasian-Indo Pacific connectivity begins with Mongolia and India.
+## Why Pakistan Struggles With Violence Against Women
+There are no official statistics on acid attacks on women in Pakistan. But an estimated 200 cases are reported each year.
 
-## Has China Really Entered the Three-Carrier Era?
-The Fujian’s Taiwan Strait transit highlights both the progress and the limits of China’s carrier ambitions.
-
-## Tariff-Proof But Not China-Proof: The Geopolitics of India’s Pharma Power
-Washington has spared India’s generics from its new drug tariffs. But the real exposure running through India’s pharmacy lies upstream, in China – and it is the West’s problem too.
-
-## A Fragile Framework Deal for Iran: What’s Next?
-Stylistically, the Islamabad Memorandum fits perfectly into U.S. President Donald Trump’s dealmaking and diplomatic record. It's also extremely fragile.
-
-## 10 Years After the South China Sea Arbitration: Will ASEAN Remain Silent?
-Despite its vocal support for UNCLOS, ASEAN has not recognized a legal judgment brought under the convention’s framework.
+## 3 Governments, 1 China Policy? Dhaka’s Evolving Engagement With Beijing
+While Bangladesh's domestic politics have undergone huge change over the past two years, its relations with China have displayed greater continuity than rupture.
 
 ## The Defense Industrial Alliance Washington Is Throwing Away
 As the relationship between the United States and Canada continues to degrade, it now comes at the expense of each country’s industrial security.Last month, the Pentagon announced the unilateral suspension of the 86-year-old Canadian Permanent Joint Board on Defense in response to what the White Hou
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign
-Saudi Arabia, the three-time Asian champions, finish bottom of Group H with two points from three games.
+## JD Vance’s 2028 strategy is starting to take shape
+The vice president’s decision to criticise Israel and distance himself from rival Rubio means he is reading the base.
 
-## Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news
-A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands in the round of 32 in Monterrey, Mexico.
+## Five killed in shooting at German youth centre
+Five people were killed in a shooting at a youth welfare centre in Stade, northern Germany.
 
-## Drone relayers off: Ukraine’s diplomatic triumph over Russia ally Belarus
-President Zelenskyy demands Lukashenko shut down stations installed by Russia 'or we will'.
+## Enzo Maresca appointed Man City manager to succeed Pep Guardiola
+Former Blues manager inks a three-year deal at Manchester City and succeeds Pep Guardiola, who stepped down in May.
 
-## Nigerians return home after fleeing xenophobic attacks in South Africa
-Nigerians are returning home after facing a wave of xenophobic violence in South Africa.
+## Why the Arab League could not stop Israel’s genocide
+Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.
 
-## Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?
-The White House denied a split between the two officials who have historically held diverging foreign policy positions.
+## Sudan’s el-Obeid: Life on the edge of collapse
+Sudan's el-Obeid faces mass atrocities, like el-Fasher in 2025, the UN warns.
 
-## ‘Tit-for-tat US-Iran attacks appear to be over’
-Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.
+## Trump announces meeting with Iran in Qatar despite military skirmishes
+US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.
 
-## Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?
-Russian president claims Ukraine, which has ramped up attacks on Russia's energy sector, proposed the limits.
+## Brazil vs Japan LIVE: FIFA World Cup 2026
+Follow updates as Brazil face Japan in the last 32, as we bring you the build-up, analysis and text commentary.
 
-## ‘Erased from history’: A century on from Canada’s anti-Greek riots
-Historians and Greek community members say 1918 riots in Toronto reminiscent of anti-immigrant rhetoric, xenophobia now.
+## Is the Israeli military deliberately targeting children in Gaza?
+A UN inquiry found that children in Gaza are being shot with a single bullet.
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
