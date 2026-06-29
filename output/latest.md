@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Burnham has become more unpopular since Starmer’s resignation
-Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of power away from Westminster
+## Burnham keynote speech as it happened: plan unveiled for devolution of power
+Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of decision-making away from Westminster
 
-## ‘The risk of a deleveraging event is rising’
-Morgan Stanley’s analysts are worried about quarter-end money tightness
+## Burnham’s radical localism alone won’t fix the UK economy
+His speech hits the right political notes but fails to offer a clear roadmap for growth
 
-## US says it has agreed deal with Iran to halt strikes and resume talks
-White House announces Steve Witkoff and Jared Kushner will fly to Doha for ‘high-level meetings’ but Tehran disputes that further negotiations have been confirmed
+## Supreme Court protects the Federal Reserve, but what about everybody else?
+While the central bank’s independence was upheld, other agencies were not so lucky
+
+## Supreme Court blocks Trump from sacking Fed governor Cook
+Justices say president can fire top regulator in separate decision
 
 ## Burnham vows to ‘rewire’ British state
 UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
 
-## English cricket thrown into uncertainty by Ben Stokes’ chaotic exit
-Abrupt retirement of brilliantly aggressive captain comes after tensions with sport’s hierarchy
+## Ethiopia makes deal to cut payments on $1bn bond
+Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
 
-## Supreme Court blocks Trump from sacking Fed governor Lisa Cook
-Justices say the president can fire top regulator in a separate decision
+## Trump defeated on Lisa Cook case
+Justices ruled on the basis of due process but also indicated a desire to protect the central bank’s independence
 
-## Burnham’s big challenges on devolution
-A boost for town centres and cities against the suburbs could come back to bite him
+## Argentina’s warning for Venezuela on debt restructuring
+Caracas must secure the backing of the IMF in order to rebuild investor confidence
 
-## Orbán hid half of Hungary’s budget deficit, new PM says
-Péter Magyar says his predecessor ‘lied’ about 2026 shortfall of 8% of GDP
+## ‘The risk of a deleveraging event is rising’
+Morgan Stanley’s analysts are worried about quarter-end money tightness
 
 ## Atom Bank sale on cusp of collapse
 Shareholders targeted £600mn valuation but process has failed to attract bids at desired price
@@ -33,7 +36,7 @@ Alex Bores’ defeat in a New York congressional primary was a taste of things t
 ## Del Vecchio’s €10bn buyout bid hit by financing hurdles
 Holding company’s board refuses to act as backstop for deal to purchase siblings’ stakes
 
-## Head to tail: business grapples with 100 per cent fish
+## Head to tail: business grapples with 100 per cent fish initiative
 An ancient habit of frugality resonates with the US Midwest culture of thrift
 
 ## British American Tobacco slashes 9,000 jobs
@@ -45,29 +48,29 @@ Also in today’s newsletter: Venezuela’s government faces backlash over earth
 ## Comcast to spin off NBCUniversal and Sky
 US group outlines plan to spin off broadcast and studio businesses as media industry battles to retain audiences
 
-## Editorial. Pointless exercise
-Strange move to revive Calcutta Stock Exchange
+## Persistent Systems shares tumble 11% after Nagarro acquisition
+The sharp decline in the stock came as investors assessed the size, valuation and integration implications of the proposed acquisition
 
-## Letters to the Editor dated June 29, 2026
+## I&B Ministry constitutes study group to assess challenges faced by cinema sector
+To speed up development of cinema infrastructure, the Ministry has also prepared a set of model rules for states to put into practice
 
+## HDFC Bank’s board approves former CEC Rajiv Kumar as its PT Chairman
+Kumar, who retired as Finance Secretary in February 2020 and later also served as the 25th Chief Election Commissioner of India, is appointed as an Additional Director with effect from June 30, 2026 for 4 years
 
-## June set to end with around 40% rainfall deficit as hopes of monsoon revival fade
-If the June rainfall ends up with 10 cm, the precipitation during July-September period needs to be 68.17 cm, which is still short of 3% of normal for the period
+## Telangana mulls export policy for rice
+Telangana Civil Supplies Minister Uttam Kumar Reddy says state consumes barely one-tenth of total rice produced
 
-## E100 fails the consumer test as economics fall short
-Ethanol delivers lower energy per litre than petrol, reducing mileage and diluting the benefit of a cheaper pump price
+## US pips China as largest buyer of Indian spices in FY26
+China’s offtake of cumin and chillies declined sharply on higher domestic production
 
-## Delhi Cabinet approves EV Policy 2.0 amidst concerns from ICE vehicle makers
-As per the policy guidelines, customers buying electric two-wheelers (E2Ws) will get a subsidy of up to ₹30,000 in the first year; ₹20,000 in the second year; and ₹10,000 in the third year
+## Exits from gold ETFs last week surged to year’s highest
+WGC data show that as the precious metal slumped to near $4,000/oz, outflows were nearly $7 for every $1 investment in the funds
 
-## Merck launches GCC in Bengaluru
-Merck’s Bengaluru GCC to bring together approximately 3,300 professionals
+## India’s kharif acreage down 23%, as deficient monsoon begins to impact sowing
+Area under all crops reported at 182.72 lakh hectares against 236.46 lakh hectares a year ago
 
-## Hero Motors setting up ₹750 crore Global Parts Centre in Madanapalem, Andhra Pradesh
-Chief Minister Naidu to lay the foundations stone on July 1
-
-## Amazon India on track to double Prime membership base
-This Prime Day, besides shopping deals, members will also get access to 500 new product launches from top Indian and global brands besides SMEs
+## NIIF to get additional ₹30,000 crore, Finance Ministry announces
+With this, the government’s commitment to this fund now stands at ₹60,000 crore
 
 ## US stocks today: Wall Street trades in green as Dow jumps 300 points, Nasdaq up 0.7%
 Wall Street surged on Monday, led by a strong rebound in tech stocks, particularly those linked to artificial intelligence, following significant semiconductor investment announcements. SpaceX also continued its upward trajectory, set to join the Nasdaq 100. Comcast saw a notable jump after announci
@@ -93,53 +96,56 @@ China's financial watchdogs are tightening credit standards, prompting investors
 ## Stock Market Live Updates Today: BSE Sensex ends over 370 points down; Nifty50 goes below 24,000 on US-Iran conflict uncertainties; crude oil edges up
 
 
-## Meghalaya HC upholds bail to Sonam Raghuvanshi in honeymoon murder case
-The Meghalaya police have already filed a chargesheet exceeding 700 pages, alleging that the murder was premeditated
+## HDFC Bank appoints former Chief Election Commissioner Rajiv Kumar to top position
+Appointment ends months-long search after Atanu Chakraborty stepped down in Mar, citing "certain happenings" within the bank "not in congruence" with ethics
 
-## 'Need to probe murder rehearsels, passport disposal': Why police sought extended custody of Siya Goyal, 'lover' Chetan
-Police said they needed to ascertain the exact spots where the alleged reconnaissance and rehearsals were carried out.
+## ‘Incorrect, without any basis’: Army rejects reports of fresh Chinese encroachment in Arunachal
+The Indian Army has rejected reports of Chinese PLA setting up of camps in Arunachal Pradesh.
 
-## Who was Jagan Gurjar? Notorious Chambal dacoit with nearly 100 criminal cases found ‘suspiciously’ dead in Ajmer jail
-Police suspect he was murdered inside his barrack while inmates were locked in as per jail protocol.
+## SBI sought to replace Ram Temple's cash-counting staff months ago, Trust refused: Report
+SBI suspected that someone was siphoning money from the temple's donation boxes and wanted to remove the outsourced staff.
 
-## Bengal passes bills to remove some Muslims from OBC list as ordered by Calcutta HC
-The amendments have also revised the reservation quota for OBCs from 10% to 7% and reorganised OBC categories
+## ‘Direct threat to regional peace’: India slams Pakistan for attacks on Afghanistan
+MEA says “blatant act of aggression by Pakistan is an assault on Afghanistan's sovereignty” and the strikes show its “persistent pattern of reckless behaviour”
 
-## Telangana: Local BJP leader held for slapping school principal over Urdu classes
-The principal, the Urdu teacher and the school official who filed the complaint against the BJP leader were booked for acts promoting enmity among people
+## Incentives for EVs, no new petrol bikes, CNG autos: What is inside Delhi EV policy | Explained
+Under the policy, the government will provide a 100% fee exemption on road tax and registration fee till 2030 to selected EVs.
 
-## 'I mop floors, wash utensils, but still she...': Faridabad man dies by suicide after ‘harassment by wife, in-laws’
-The man said he was committing suicide because of his wife, her sister and parents and accused them of physical and mental harassment.
+## Data-driven governance key to Viksit Bharat, administrative data a strategic national asset: PM's principal secretary
+He credited reforms introduced in last 5 years to modernise the statistical ecosystem through new surveys, updated macroeconomic indicators
 
-## 'Gadkari then, Fadnavis now': RSS-backed leaders being sidelined by BJP, claims Uddhav Thackeray
-Thackery questioned the role of the RSS and whether it was willing to speak up if leaders perceived to be close to it were allegedly being sidelined.
+## Heat, encroachment, illegal shows fuel lion-human conflict in Gujarat
+A five-year-old boy was killed by a lioness in Gujarat, marking one of several recent human deaths from lion attacks amid rising man-lion conflicts.
 
-## Petrol, diesel sale restrictions to end on July 1 as India eases war-time curb
-The curbs, imposed as a precaution against potential supply shortages, had barred commercial consumers from buying petrol and diesel at retail fuel stations.
+## Amit Shah assures Centre’s support to floods-affected Assam, Arunachal Pradesh
+Assam faces severe flooding affecting 45,839 people in seven districts. While there are no fatalities, extensive damage has occurred. Rescue efforts are underway.
 
-## 59,000 BLOs, over 46 lakh voters unmapped: Karnataka SIR begins today; final rolls to be out October 7
-
-
-## Urdu row: BJP town chief held, gets bail for assault on school principal in Telangana
+## US at 250: How Indian-origin CEOs became the face of Corporate America
 
 
-## Supreme Court says Fed’s Cook can keep her job for now, but upholds other Trump firings
+## ‘Starting to pay off’: Anand Mahindra praises India’s non-cricketing sporting success
 
 
-## Schools flouting Marathi mandate to lose recognition: Minister Bhuse
+## Siya Goyal, family deny appointing Aashutosh Srivastava as legal counsel
 
 
-## Inside Madhoo Shah’s Rs 100 cr mansion with antiques from around the world
+## Bhumi Pednekkar’s Sikkim diaries offer the ultimate summer travel inspo: ‘What a journey’
 
 
-## ‘Never a homebreaker’: Asha Parekh on Nasir Hussain and love beyond marriage; expert weighs in
+## From ‘Nimbooda’ to ‘Rind Posh Maal’: Bollywood songs in Odisha textbooks trigger row
 
 
-## GCL could experiment with board swaps, heart-rate monitors this season
+## Jharkhand peon fired for ‘stealing tea and biscuits’, court sets aside ‘grossly disproportionate’ punishment
 
 
-## Former Alaska mayor charged with sexually abusing teenage girls. He was once ‘parent of the year’
+## Amid leadership change buzz, Warring aide appointed Punjab Youth Congress chief
 
+
+## Manchester City name Enzo Maresca as manager to succeed Guardiola
+
+
+## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
+The US Supreme Court refused on Monday to let President Donald Trump ⁠fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank’s cherished independence against an unprecedented challenge. The court, in a 5-4 ruling, blocked Trump’s bid to become the first president to re
 
 ## Fosun breaks ground at Shaw Brothers Movietown residential project
 China’s Fosun Group began construction of its first residential project in Hong Kong, encapsulating the recovery of the city’s property sector as it transforms the Shaw Brothers’ Movietown studio complex in Clear Water Bay. At the groundbreaking ceremony, Guo Guangchang, chairman of Fosun Internatio
@@ -162,8 +168,8 @@ China has broken ground on what developers say is the country’s first producti
 ## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
 Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
 
-## Why brokers believe China’s AI-driven stock run will find fresh legs
-Chinese stocks may extend their gains in the second half of the year as resilient exports and recovering producer prices support economic growth while disruption from high oil prices fades, according to brokerages at home and abroad. Average full-year earnings growth for mainland-listed companies co
+## Can NATO Pull Off a Dull Summit?
+European countries are hoping that Erdogan can keep Trump from causing chaos.
 
 ## America’s Sexual Exceptionalism
 How Washington shaped global policy toward sex and prostitution.
@@ -185,9 +191,6 @@ Washington said Tehran violated the cease-fire.
 
 ## Is Hezbollah Now More an Obligation Than an Asset to Tehran?
 How the war has shifted Iran’s relationship with its proxies.
-
-## The Art That Created Colonialism
-A new exhibition examines how Western art and colonial aggression made each other possible.
 
 ## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
 The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
@@ -213,6 +216,9 @@ There are no official statistics on acid attacks on women in Pakistan. But an es
 ## 3 Governments, 1 China Policy? Dhaka’s Evolving Engagement With Beijing
 While Bangladesh's domestic politics have undergone huge change over the past two years, its relations with China have displayed greater continuity than rupture.
 
+## The Ukrainian Push for Long-Term Strategic Planning
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
+
 ## The Defense Industrial Alliance Washington Is Throwing Away
 As the relationship between the United States and Canada continues to degrade, it now comes at the expense of each country’s industrial security.Last month, the Pentagon announced the unilateral suspension of the 86-year-old Canadian Permanent Joint Board on Defense in response to what the White Hou
 
@@ -233,9 +239,6 @@ You can tell a lot about a person from what fiction they keep on their nightstan
 
 ## Open Strait, Unsettled Waters
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
-
-## The U.S. Navy’s Subsea Rare Earth Vulnerability
-The Columbia-class ballistic missile submarine is the next generation of American nuclear deterrence. Twelve of these boats will replace the aging Ohio-class fleet, entering service over the 2030s and 2040s, each carrying 16 Trident IIs and driven by a ghost-quiet electric motor that renders them ac
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## JD Vance’s 2028 strategy is starting to take shape
-The vice president’s decision to criticise Israel and distance himself from rival Rubio means he is reading the base.
+## UK’s prime minister-in-waiting vows to shake up politics
+Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.
 
-## Five killed in shooting at German youth centre
-Five people were killed in a shooting at a youth welfare centre in Stade, northern Germany.
+## New Israeli assault in southern Syria forces families to flee their homes
+Turkiye has condemned Israel’s attacks in Syria, calling them a violation of international law.
 
-## Enzo Maresca appointed Man City manager to succeed Pep Guardiola
-Former Blues manager inks a three-year deal at Manchester City and succeeds Pep Guardiola, who stepped down in May.
+## Mehdi Hasan: Disrupting democracy’s decline
+With democracy on the decline in both the UK and US, Mehdi Hasan makes the case for independent journalism.
 
-## Why the Arab League could not stop Israel’s genocide
-Arab governments are constrained by dependency, regime survival and fear of empowering Iran-aligned rivals.
+## Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook
+Supreme Court blocks Trump's attempt to fire Fed governor Lisa Cook over unproven mortgage fraud allegations
 
-## Sudan’s el-Obeid: Life on the edge of collapse
-Sudan's el-Obeid faces mass atrocities, like el-Fasher in 2025, the UN warns.
+## Aftershock hits Caracas during critical hours for Venezuela rescue efforts
+Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week
 
-## Trump announces meeting with Iran in Qatar despite military skirmishes
-US president says talks will take place on Tuesday, but Tehran has not confirmed the negotiations in Doha.
+## Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case
+Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.
 
-## Brazil vs Japan LIVE: FIFA World Cup 2026
-Follow updates as Brazil face Japan in the last 32, as we bring you the build-up, analysis and text commentary.
+## Afghan families mourn loved ones as border tensions with Pakistan rise
+Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.
 
-## Is the Israeli military deliberately targeting children in Gaza?
-A UN inquiry found that children in Gaza are being shot with a single bullet.
+## US petrol prices ease despite ongoing uncertainties with Iran
+US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
