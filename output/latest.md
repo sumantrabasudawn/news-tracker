@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## EU sets deadline of October for reduction in trade deficit with China
+European commissioner Maroš Šefčovič demands action after meeting Chinese commerce minister Wang Wentao
+
+## ECB does not need to fight inflation with ‘same force’ as in 2022-23, Lagarde says
+President of central bank signals that there could be a modest increase in interest rates
+
+## Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response
+Socialist regime’s US-backed leader is facing a crisis as anger mounts over inadequate rescue efforts
+
+## Former Tory MP pleads guilty to cheating over bets on 2024 election date
+Craig Williams used inside information from his role as a parliamentary aide to Rishi Sunak
+
+## Resident doctors accept pay offer after three years of strike action
+Staff will receive an average 6.6 per cent raise by April 2027 and an extra 4,500 speciality training places will be created
+
+## Comcast’s Hollywood break-up marks its GE moment
+Owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders
+
 ## Burnham keynote speech as it happened: plan unveiled for devolution of power
 Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of decision-making away from Westminster
 
 ## Burnham’s radical localism alone won’t fix the UK economy
 His speech hits the right political notes but fails to offer a clear roadmap for growth
 
-## Supreme Court protects the Federal Reserve, but what about everybody else?
-While the central bank’s independence was upheld, other agencies were not so lucky
-
-## Supreme Court blocks Trump from sacking Fed governor Cook
-Justices say president can fire top regulator in separate decision
-
-## Burnham vows to ‘rewire’ British state
-UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
-
-## Ethiopia makes deal to cut payments on $1bn bond
-Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
-
-## Trump defeated on Lisa Cook case
-Justices ruled on the basis of due process but also indicated a desire to protect the central bank’s independence
-
-## Argentina’s warning for Venezuela on debt restructuring
-Caracas must secure the backing of the IMF in order to rebuild investor confidence
+## BT’s turnaround is in the home stretch
+A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
 
 ## ‘The risk of a deleveraging event is rising’
 Morgan Stanley’s analysts are worried about quarter-end money tightness
@@ -38,15 +41,6 @@ Holding company’s board refuses to act as backstop for deal to purchase siblin
 
 ## Head to tail: business grapples with 100 per cent fish initiative
 An ancient habit of frugality resonates with the US Midwest culture of thrift
-
-## British American Tobacco slashes 9,000 jobs
-Maker of Dunhill cigarettes says cuts and outsourcing will affect about one in five jobs
-
-## FirstFT: AI fuels record number of power sector deals
-Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit
-
-## Comcast to spin off NBCUniversal and Sky
-US group outlines plan to spin off broadcast and studio businesses as media industry battles to retain audiences
 
 ## Persistent Systems shares tumble 11% after Nagarro acquisition
 The sharp decline in the stock came as investors assessed the size, valuation and integration implications of the proposed acquisition
@@ -120,28 +114,28 @@ A five-year-old boy was killed by a lioness in Gujarat, marking one of several r
 ## Amit Shah assures Centre’s support to floods-affected Assam, Arunachal Pradesh
 Assam faces severe flooding affecting 45,839 people in seven districts. While there are no fatalities, extensive damage has occurred. Rescue efforts are underway.
 
-## US at 250: How Indian-origin CEOs became the face of Corporate America
+## Ketan Agarwal murder: Police to conduct Chetan Chaudhary’s gait analysis
 
 
-## ‘Starting to pay off’: Anand Mahindra praises India’s non-cricketing sporting success
+## ‘China encroaching on ancestral land’: Arunachal Pradesh to probe
 
 
-## Siya Goyal, family deny appointing Aashutosh Srivastava as legal counsel
+## India leads democracies in transparent polls: CEC Gyanesh Kumar
 
 
-## Bhumi Pednekkar’s Sikkim diaries offer the ultimate summer travel inspo: ‘What a journey’
+## Chargesheet too late, what’s the point now: Sarla Bhat’s family
 
 
-## From ‘Nimbooda’ to ‘Rind Posh Maal’: Bollywood songs in Odisha textbooks trigger row
+## Gabriel Martinelli is Brazil’s saviour as last-gasp goal breaks Japanese hearts
 
 
-## Jharkhand peon fired for ‘stealing tea and biscuits’, court sets aside ‘grossly disproportionate’ punishment
+## The curious reason time seems to ‘speed up’ as we get older
 
 
-## Amid leadership change buzz, Warring aide appointed Punjab Youth Congress chief
+## HDFC Bank appoints former CEC Rajiv Kumar as chairman
 
 
-## Manchester City name Enzo Maresca as manager to succeed Guardiola
+## Why Pakistan launched airstrikes and ground troops into Afghanistan after Karachi attack
 
 
 ## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
@@ -168,6 +162,12 @@ China has broken ground on what developers say is the country’s first producti
 ## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
 Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
 
+## The Supreme Court Pushes Back on Trump’s Fed Assault
+Tampering with the Federal Reserve’s independence proved to be a bridge too far.
+
+## Farmers Worldwide Brace for El Niño
+An intense El Niño threatens to compound trade and energy pain.
+
 ## Can NATO Pull Off a Dull Summit?
 European countries are hoping that Erdogan can keep Trump from causing chaos.
 
@@ -185,12 +185,6 @@ But it’s not too late for the continent to claim some technological independen
 
 ## The Cost of America Abandoning the Military Draft
 Trump could be confident his war in Iran would not touch the daily lives of most voters.
-
-## U.S. Strikes Iran Over Attack on Hormuz Ship
-Washington said Tehran violated the cease-fire.
-
-## Is Hezbollah Now More an Obligation Than an Asset to Tehran?
-How the war has shifted Iran’s relationship with its proxies.
 
 ## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
 The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
@@ -264,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK’s prime minister-in-waiting vows to shake up politics
-Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.
+## Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16
+Martinelli's stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.
 
-## New Israeli assault in southern Syria forces families to flee their homes
-Turkiye has condemned Israel’s attacks in Syria, calling them a violation of international law.
+## Deadly heatwave grips Italy and Balkans as wildfire fears grow
+Older people remain most at risk as the heatwave drives up excess deaths across Europe.
 
-## Mehdi Hasan: Disrupting democracy’s decline
-With democracy on the decline in both the UK and US, Mehdi Hasan makes the case for independent journalism.
+## Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank
+Israeli rights group B’Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers"
 
-## Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook
-Supreme Court blocks Trump's attempt to fire Fed governor Lisa Cook over unproven mortgage fraud allegations
+## Pakistani strikes kill dozens of Afghan villagers
+Afghan villagers inspected destroyed homes after overnight Pakistani strikes targeting Taliban-allied fighters.
 
-## Aftershock hits Caracas during critical hours for Venezuela rescue efforts
-Tens of thousands remain missing after the devastating twin earthquakes that struck Venezuela last week
+## Israel launches attacks and incursions inside southern Syria
+Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.
 
-## Ex-NBA players Malik Beasley, Ed Davis indicted in gambling case
-Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.
+## ‘Miracle’: Man pulled from rubble four days after Venezuelan quakes
+A 21-year-old man was pulled alive from the rubble of an apartment building in La Guaira, Venezuela.
 
-## Afghan families mourn loved ones as border tensions with Pakistan rise
-Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.
+## Undocumented migrants flee South Africa amid rising anti-immigrant protests
+Thousands of undocumented migrants in South Africa are rushing to leave after anti-immigrant protests.
 
-## US petrol prices ease despite ongoing uncertainties with Iran
-US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.
+## Burnham pledges devolution and discipline if he becomes UK prime minister
+The frontrunner to succeed Keir Starmer was criticised for not taking questions after setting out his policy vision
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
