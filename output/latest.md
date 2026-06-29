@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Sovereign funds move from public markets to private to ride AI wave
+High concentration in stock markets and national security concerns send SWFs to private credit and infrastructure
+
+## Putin says Russia faces fuel shortages as Ukrainian drones strike refineries
+President’s comments are first admission that Kyiv’s long-range attacks have dented production
+
+## FirstFT: AI ‘exuberance’ threatens the global economy, BIS warns
+Also in today’s newsletter: Aramco helicopter crashes at Saudi port, and Indian snack giant Haldiram’s preparing European expansion
+
 ## Andy Burnham sets out ‘10-year mission’ to raise living standards
 Prime minister-in-waiting will also pledge to go further on devolution as scrutiny grows over his likely policies
 
@@ -15,20 +24,11 @@ At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threa
 ## US dominates news as 250th anniversary celebrations approach
 Plus, Andy Burnham is centre stage with a speech on his economic plans, Wall Street tech IPOs and US labour figures
 
-## Heathrow’s £33bn expansion is ‘like a luxury Mercedes’, says airline group boss
-Head of Star Alliance warns of ‘eye-watering’ costs of third runway project
-
-## Don’t allow Congo’s leaders to trample its constitution
-The US should not look the other way as President Tshisekedi seeks an illegal third term
-
-## Starmer seeks to ensure legacy before Burnham ascends
-PM focuses on ‘making arguments’ about his domestic policies as he battles to avoid embarrassing rise in NHS waiting lists
-
-## FirstFT: AI ‘exuberance’ threatens the global economy, BIS warns
-Also in today’s newsletter: Aramco helicopter crashes at Saudi port, and Indian snack giant Haldiram’s preparing European expansion
-
 ## Airlines brace for up to $127bn in extra costs from carbon credit shortage
 Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says
+
+## Heathrow’s £33bn expansion is ‘like a luxury Mercedes’, says airline group boss
+Head of Star Alliance warns of ‘eye-watering’ costs of third runway project
 
 ## Robots, not chatbots, will realise AI’s potential
 Factory-floor applications of the technology could significantly enhance rich-world economies
@@ -39,104 +39,110 @@ Market Questions is the FT’s guide to the week ahead
 ## James Sprayregen’s thirst for legal showdowns prompts late career move to Paul Weiss
 Bankruptcy grandee’s recruitment from Kirkland sets up clash for supremacy among Wall Street firms
 
-## UK’s Bridgepoint nears deal to buy real estate unit in bet on US property
-London-based buyout group is looking beyond its traditional speciality in corporate buyouts
+## Sensex today | Stock Market Live Updates: Stock to buy today: Pine Labs (₹160)
+Sensex, Nifty, Share Prices LIVE: While it is too early to call the recent rise as a bullish trend reversal, the breakout of a resistance at ₹155 is a positive sign
 
-## Editorial. Inflection point
-With a little support, MSMEs can be a driving force
+## Watch out these two dozen stocks in today’s trade
+Persistent Systems, Hexaware, HDFC Bank, Kotak Bank, Adani Green, Waaree Energies, Transrail Lightning, Astral, Pricol, Alembic, Aurobindo, Amber Group, Strides, Vikram stocks to be in focus today
+
+## Stock to buy today: Pine Labs (₹160)
+While it is too early to call the recent rise as a bullish trend reversal, the breakout of a resistance at ₹155 is a positive sign
 
 ## Persistent deal positions us for AI transformation era: Nagarro CEO Manas Human
 The CEO believes the deal is not only about adding scale, but also about creating a global leader in “AI transformation and engineering”
 
-## HDFC Bank chief reappointment: Legal review bolsters case, but RBI unlikely to be swayed
-HDFC Bank board may back Jagdishan’s third term, but experts say internal probe can’t replace RBI’s ‘fit and proper’ test
+## US and Iran agree to halt strikes, plan Doha talks over Hormuz dispute, Axios reports
+The two sides are set to meet in Doha over the Strait of Hormuz dispute, a vital oil shipping route
 
-## Monsoon update: IMD says rains likely to reach several northern states in 5-6 days
-IMD also warns of heatwave conditions -- possibly severe -- in Uttar Pradesh on July 28 and 29
+## Adani case: NY judge’s query procedural, unlikely to derail DoJ move to drop charges, says US lawyer
+The lawyer said courts have limited power to compel prosecutors to continue a case once the executive branch decides to withdraw the charges
 
-## FPI debt flows hit 15-month high in June
-June accounts for 58% of fully accessible route inflows in 2026
+## PFC-REC merger gets board approval, creating India’s largest power sector NBFC
+The merger will create a financial entity with a loan book of ₹11 lakh crore
 
-## Bhogapuram international airport: Inauguration by PM Modi is likely in 3rd week of July
-Prime Minister is expected to inaugurate the first Greenfield airport in Andhra Pradesh in the third week of July
+## Mission universal access to clean energy
+Nearly 655 million people globally lack access to electricity, and two billion use polluting fuels for cooking
 
-## WhatsApp web, desktop users at risk of cyber attacks: CERT-In warns of large-scale malware campaign
-The national nodal agency for cybersecurity advises not to open unexpected attachments from anyone including friends, colleagues or family members
+## AI enters cost-conscious era as enterprises chase returns
 
-## Nutrition the best vaccine: Soumya Swaminathan
-Speaking about her experience shaping international health policy, Swaminathan suggested that much of what she learnt about science and public health came from listening to communities
+
+## Human, face behind $1bn German IT co Nagarro
+
+
+## Turning tide: NHAI hits fast lane in arbitration on stricter monitoring
+
+
+## Payment delay puts working capital stress on MSMEs
+
+
+## In top gear: Electric passenger vehicle sales may cross 3 lakhs in 2026
+
+
+## Persistent bids to buy German company for $1.3 billion
+
+
+## Monsoon uncertainty weighs on gains from lower oil prices
+
 
 ## Piyush Goyal heads business delegation to Greece, focus on trade and startup partnerships
 Commerce Minister Piyush Goyal is leading a delegation to Greece to boost trade, investment, and startup collaboration. The visit aims to explore new commercial partnerships, building on recent diplomatic talks. Despite growing engagement, bilateral trade remains below its potential. Greece's strate
 
-## Wall Street outlook: Jobs data, Fed rate bets to test US stock rally after strong first half
-Wall Street braces for a crucial US jobs report that could sway Federal Reserve interest rate decisions. While the S&P 500 saw first-half gains, June's volatility, driven by AI stock swings and inflation concerns, has investors on edge. A strong jobs number might fuel fears of further rate hikes, im
+## ‘Desi consultancies': The dark side of H-1B visa and the American dream, how it impacts Indians
+‘Desi consultancies' connect Indian tech workers to American employers through a maze of recruiters, subcontractors, universities, and corporate clients.
 
-## GenAI, geopolitics to keep India's IT sector growth under pressure, says JPMorgan
+## Interview | Schemes not reaching all, we are fixing lapse: Thulasi
+The UDF government has proposed a tribal university, housing schemes, and job drives for SC/ST communities, addressing funding and past systemic issues.
 
+## VB-G RAM G hurdles remain ahead of rollout
+The new law was originally scheduled to be launched on April 1, but it was pushed back because the portal and technical infrastructure were not ready
 
-## India's debt market not ready to fund next growth phase: Report
-India's debt market requires urgent structural reforms to fund its ambitious economic growth, warns Deloitte. The report highlights that relying solely on bank deposits is no longer viable as household savings shift. To achieve its $7.3 trillion economy target by 2030, the market needs greater depth
+## PM Modi’s visit deepens India-Seychelles strategic relations
+PM Modi is on a three-day visit to Seychelles as the guest of honour at celebrations marking the 50th anniversary of the archipelago nation’s independence
 
-## Gold, silver rate outlook: Prices face key test next week as US dollar, Iran tensions and jobs data take centre stage
-Gold and silver prices are poised for further pressure this week as global economic data and geopolitical tensions between the US and Iran take center stage. Analysts anticipate market participants will closely monitor key inflation and employment figures, which could sway the US Federal Reserve's i
+## PM thanks citizens for heeding Iran war crisis appeal in Mann Ki Baat
+Prime Minister Narendra Modi on Sunday thanked citizens of the country for supporting his appeals, such as curbing fuel consumption and avoiding foreign travel, made in view of the West Asia crisis; and underlined the role of public participation in nation-building.
 
-## Crude, ceasefire and economic data: What's driving Dalal Street this week
-Investors are bracing for a week dominated by Middle East geopolitical tensions, with crude oil prices and domestic economic data taking center stage. Key indicators like Industrial Production, PMI readings, and foreign exchange reserves will offer insights into India's economic health. Auto sales f
+## VB-G RAM G hurdles remain ahead of rollout
+The Viksit Bharat Act, replacing MGNREGS on July 1, faces delays and opposition due to unfinished works, raising concerns about centralization and labor rights.
 
-## Energy security during Middle East crisis: Why India keeps relying on state-run oil firms despite privatisation bids
-India's state-run oil companies have proven indispensable during recent crises, ensuring uninterrupted fuel supplies amidst floods, the pandemic, and Middle East conflicts. Despite past privatization attempts and criticisms, these public sector oil marketing companies have consistently prioritized n
+## The gastronomification of urban India: Emergence of food hubs across cities
+The dining boom is remaking neighbourhoods, high streets and the character of Indian cities — raising fears of an urban monoculture
 
-## SEZ reforms: Commerce ministry calls stakeholders' meet on June 30 to discuss policy overhaul
-The Commerce Ministry is convening a stakeholder meeting on June 30 to discuss crucial reforms for Special Economic Zones (SEZs). The focus will be on harmonizing export promotion schemes and simplifying business operations within these enclaves. Discussions will cover issues like domestic payments,
+## Instructor derostered, flight grounded after trainee pilot injured at Kanpur airport
+The DGCA grounded an aircraft and instructor after a trainee at Kanpur's Chakeri Airport was injured by a running propeller during a night flight.
 
-## When will monsoon reach Delhi, north India? IMD says wait may be over in 5-6 days
-The IMD on Sunday said conditions are favourable for the monsoon to advance further across northern states over the next five to six days.
-
-## After back-to-back wins in northern states, BJP eyes South, sets agenda for Telangana polls
-With both Telangana and Karnataka set to vote in Assembly elections in 2028, the BJP is looking to strengthen its organisational base across the South.
-
-## Amit Shah launches PM Family Care Tracker Pilot, Health Passport in Gandhinagar
-Shah said the integrated digital platform would strengthen governance and ensure that no eligible beneficiary is deprived of welfare benefits
-
-## Kolkata trams may return under BJP; survey ordered, says transport minister
-An integral part of Kolkata’s landscape and British-Indian history, trams featured in many movies, including Satyajit Ray’s Mahanagar
-
-## Delhi cop slaps woman on camera; departmental action follows after video sparks outrage
-The incident happened in the Panchwati area after police were called to a hotel over a late-night dispute.
-
-## Delhi swelters through its warmest morning in 2 years on Sunday amid monsoon delay
-The last time the city's minimum temperature was higher was on June 14, 2024, when it was recorded at 33.3 degrees Celsius.
-
-## Punjab CM Bhagwant Mann says all Sikh MLAs to appear before Akal Takht over anti-sacrilege law
-Akal Takht Jathedar had summoned all Sikh MLAs and ministers, regardless of party affiliation, before the Akal Takht on June 29 regarding anti-sacrilege law.
-
-## Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave
-Dave argued that coalition politics is likely to remain a defining feature of the political landscape, making anti-defection disputes even more significant.
-
-## Delhi Confidential: Reaching Out
+## 40 years ago June 29, 1986: Rajya Sabha poll results
 
 
-## Material sent to Sudan only for use in mining: Firm after US sanctions
+## 117 dead dogs found at California ‘no-kill’ shelter
 
 
-## FIFA World Cup: Canada score last-gasp winner to become 1st team in Last 16
+## Far away, people die of sadness. In India, grief must stand in line
 
 
-## ‘I was never lonely’: Psychologist decodes why Soha Ali Khan still holds onto her childhood toy
+## Slow down, write me a letter
 
 
-## Express News Quiz: Omega Block, WhatsApp CEO & a courtroom strategist
+## Telugu Ganga, Emergency & a formative federal moment
 
 
-## Rohit Yadav spears javelin to 87.05m becoming third Indian thrower to cross the 87-mark
+## Ladakh shows the way: Let’s switch off the lights, bring back the starry night
 
 
-## Ben Stokes retires: the bottle, the kit bag, and a career like no other
+## From Gurugram, case that invites questions about trust and consent
 
 
-## June 2026 set to be fifth driest-ever since 1901; monsoon advance over parts of north likely in early July
+## PP Chaudhary at Idea Exchange: ‘We do not want the anti-defection law to be misused by either side’
 
+
+## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
+Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
+
+## Why brokers believe China’s AI-driven stock run will find fresh legs
+Chinese stocks may extend their gains in the second half of the year as resilient exports and recovering producer prices support economic growth while disruption from high oil prices fades, according to brokerages at home and abroad. Average full-year earnings growth for mainland-listed companies co
+
+## Sovereign investors with US$29 trillion pivot to energy assets, flag dollar fears
+Sovereign wealth funds and central banks managing US$29 trillion in assets are turning to energy assets, and raising concerns about the dollar, in a portfolio reassessment driven by unprecedented geopolitical shifts, according to a survey ‌published on Monday by independent global investment managem
 
 ## Will China’s new northern tech bases in Hebei and Tianjin spark local housing demand?
 Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far milder than the surges delivered by traditional tech firms in previous years. Local governments hoping th
@@ -152,15 +158,6 @@ As the global artificial intelligence (AI) boom puts intense pressure on data ce
 
 ## China’s big trucks go electric and abroad as subsidies help pave road to net-zero freight
 Domestic makers of heavy-duty trucks are emerging as the latest beneficiaries of accelerating electrification on China’s roads, as technological gains and lower ownership costs are bolstering overseas sales amid a global energy crisis. Southeast Asia and Africa, where Chinese makers have already est
-
-## Will Japan’s tourist visa fees, interest rate policy impact its booming property market?
-With Japan imposing higher visa fees for tourists from July while moving away from an ultra-loose monetary policy, foreign investors must prepare themselves for both direct and indirect impacts on their real estate assets, according to agents and analysts. There is a dearth of data on the total numb
-
-## CU in China: Why South Korean retail giant is adopting ‘online first’ strategy
-South Korean convenience store giant CU has been testing the waters in China with a limited online trial operation, marking a different approach from other multinational brands that bet big on physical outlets. The brand, operated by BGF Retail which has around 18,600 stores in South Korea, is being
-
-## Growth agenda: Hong Kong vows stronger exchange with reforms, bond futures and gold push
-Hong Kong is pressing ahead with an overhaul of listing rules and the launch of new product initiatives, the city’s deputy finance chief said on Friday as the bourse operator marked 26 years as a publicly traded company. Speaking at the anniversary ceremony of Hong Kong Exchanges and Clearing (HKEX)
 
 ## U.S. Strikes Iran Over Attack on Hormuz Ship
 Washington said Tehran violated the cease-fire.
@@ -258,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Father and son pulled out alive four days after Venezuela earthquake
+ootage shows search and rescue workers pulling out father and son from under the rubble of a collapsed building.
+
+## Who is Stephen Eustaquio, who scored for Canada against South Africa?
+Eustaquio flip-flopped between his home country and that of his parents throughout his youth and senior career.
+
+## ‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa
+A mass return of Malawians from South Africa exposes the cost of migration, violence and broken livelihoods.
+
+## Iran war live: Tehran insists on control of Hormuz amid reports of US talks
+Washington and Tehran have agreed to stop attacks and renew talks in the Qatari capital, Doha, Axios reports.
+
 ## Heightened emotions in Iran after Team Melli knocked out of World Cup
 This is the second World Cup that comes after deadly nationwide protests inside Iran, and the first one amid a war
 
@@ -269,18 +278,6 @@ Stephen Eustaquio scores in stoppage time as Canada win first knockout match in 
 
 ## Protesters in Serbia doubt Vucic resignation will bring change
 Thousands of protesters gathered in Serbia's Kraljevo, dismissing Aleksandar Vucic's pledge to resign.
-
-## Pope Leo prays for Venezuela’s recovery after deadly quakes
-Pope Leo expressed solidarity with Venezuelans after two deadly earthquakes claimed the lives of at least 1,400.
-
-## Israel kills four Palestinians in Gaza as attacks on tents continue
-Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.
-
-## Hope of finding more Venezuela quake survivors fades despite late rescues
-Those rescued include 60-year-old woman trapped for 86 hours, as tens of thousands still reported missing.
-
-## World Cup 2026: Top matches to watch in the Round of 32 knockout stage
-We have finally reached the knockout stages of the 2026 World Cup - here is Al Jazeera's guide to the best matchups.
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
