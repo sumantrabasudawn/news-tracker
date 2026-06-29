@@ -1,135 +1,156 @@
 # AION Intelligence
 
-## US says it has agreed deal with Iran to halt strikes and resume talks
-Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz
+## Burnham pledges biggest public housebuilding push since 1970s
+UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
 
-## Samsung and SK Hynix plan $590bn chipmaking expansion
+## Your chance to become this year’s British Solving Champion
+Event offers the chance to compete for £1,600 prize fund — plus ChessFest returns to Trafalgar Square in July
+
+## South Africa braces for unrest ahead of anti-migrant ultimatum
+Authorities and companies scale up security as hardline groups call on undocumented foreign nationals to leave by June 30
+
+## How China wriggled free when Trump closed a tariff loophole
+Chinese sales platforms and delivery services have adapted to survive the end of the ‘de minimis’ allowance
+
+## Donald Trump and how strongman leaders fall
+The downfalls of would-be autocrats in Hungary, Brazil and the Philippines hold lessons for America
+
+## Burnham plans ‘Number 10 North’ in bid to reboot Britain
+Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of power away from Westminster
+
+## And the FTAV charts quiz winner is . . .
+Charteaubriand
+
+## FirstFT: AI fuels record number of power sector deals
+Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit
+
+## British American Tobacco slashes 9,000 jobs
+Maker of Dunhill cigarettes says cuts and outsourcing will affect about one in five jobs
+
+## Comcast to spin off NBCUniversal and Sky
+Shares rise 20% as media group outlines plan to split broadcast and studio businesses
+
+## China grounds light aircraft after Beijing tower crash
+Flight operators say authorities issued indefinite nationwide airspace controls
+
+## Samsung and SK Hynix plan $600bn chipmaking expansion
 Companies to invest alongside South Korean government in factories to meet surging demand for memory chips
 
-## AInflation is real but tiny
-Plus, European stocks ain’t cheap
+## UK’s Bridgepoint buys real estate unit in $1.4bn bet on US property
+Private capital group is looking beyond its traditional speciality in corporate buyouts
 
-## European producers press Brussels to shut Russian aluminium loophole
-Also in this newsletter: Pharma sector push EU to close life sciences funding gap
+## China targets more Japanese companies with export controls
+Further restrictions on sales of ‘dual-use’ items with both civilian and military purposes
 
-## FirstFT: Burnham’s ‘growth in every UK postcode’ plan
-Also in today’s newsletter: Russia’s fuel shortage and Europe’s low gas stocks
+## BT and Verizon to combine international operations in joint venture
+Verizon to pay $625mn to BT as part of deal that helps UK group refocus on its domestic operations
 
-## Warsh’s Fed communication is adding volatility to rates markets
-The downsides of seeking more fundamental information from markets will be in greater surprises
+## MSMEs must grow from being producers of ‘me-too’ products to making ‘I-first’ products: ELGI MD
 
-## Indonesians sour on Prabowo as currency weakens
-Student-led protests are emerging as the economy falters and corruption allegations hit welfare programmes
-
-## How Vinícius Júnior became central to Brazil’s World Cup dream
-Real Madrid winger holds key to Brazil’s hopes of winning first world title since 2002
-
-## BT and Verizon to create new international business in $625mn deal
-New 50:50 venture will be milestone in UK group’s strategy of refocusing on its domestic operations
-
-## Artificial intelligence and Engels’ Pause
-Politics could be a bigger constraint than power and compute
-
-## How Citadel became an energy giant
-Plus, Venezuela’s huge debt pile, Japanese IPO slump and Constantin Brâncuşi in Berlin
-
-## Viral video resurfaces to haunt TN Minister, Opposition demands action
-As the controversy surrounding the white powder-like substance intensified, the TVK has distanced itself from the incident
-
-## Sensex today | Stock Market LIVE: Sensex drops 200 pts, Nifty nears 24,000; pharma stocks lead gains; Kotak, IndiGo top losers
-Sensex, Nifty, Share Prices LIVE updates: At 12:02 pm, Sensex dropped 193.12 points or -0.25% to 76,907.35 and Nifty fell 40.25 pts (-0.17%) to trade at 24,015.75
-
-## India seeks EU scrap export relief as curbs threaten trade pact gains
-Industry representatives discussed scrap curbs with India’s trade ministry, and India applied to keep access to recyclable materials under the new regime
 
 ## Godrej Agrovet rejigs portfolio to improve earnings quality
 
 
-## Yash Raj Films makes strategic investment in Rusk Media
-Under the partnership, YRF will oversee the creative direction of original animation and vertical micro-drama IP, while Rusk Media will produce and distribute the content through its proprietary Alright! TV platform and global digital channels
+## Broker’s call: Aptus Value (Buy)
+Despite seasonality, GS3/1+ DPD are expected to edge up 13–15bps/40–45bps Q-o-Q to 1.65/6.65%; Credit costs are expected to remain firmly within the guided band of 0.5% (plus or minus 10bps
 
-## Orthodox tea demand up at Coonoor auctions
-Traders attributed it to the normalisation of issues in West Asia following the recent truce in the region
+## Tech Mahindra collaborates with Perplexity to boost sales with AI
+Tech Mahindra to deploy Perplexity Enterprise Pro to provide sales teams with insights
 
-## Karnataka Deputy CM proposes sister city partnership with Peru to boost bilateral trade to $10 billion
-This is being seen as a significant step towards strengthening economic and diplomatic ties with the Republic of Peru, they said
+## TVS Motor steps up R&D spends in FY26 focus on electrification, connected platforms, and AI
+Over 2,000 engineers working on electrification, connected platforms and AI-driven design; company posts record FY26 performance.
 
-## Bajaj Auto bets on a multi-platform strategy for future growth
-Freedom, Pulsar, Chetak, KTM and Riki to drive Bajaj Auto’s next decade of growth
+## GIFT IFSC to get ‘One KYC’ system as IFSCA plans unified client onboarding framework
+Mandatory KRA integration aims to eliminate repeated KYC, speed up onboarding and build common compliance infrastructure across GIFT IFSC.
 
-## 6 financial changes from July 1: What changes for ITR, Aadhaar, passport fees and bank rules
-Starting July 1, 2026, several financial changes will affect you. Income tax filing deadlines are set, and updating your Aadhaar email becomes free for a period. Expect shifts in SBI Card rewards and HDFC Bank credit card lounge access eligibility. Passport fees are rising, and new RBI rules will pr
+## INERA, CropNXT ink pact to reach 65 lakh farmers
+The multi-year, multi-million-dollar partnership will combine INERA’s science-led biological agri-input portfolio with CropNXT’s distribution and value-chain strength across key agricultural markets in India
 
-## Stock Market Live Updates Today: BSE Sensex opens in green; Nifty50 above 24,050 on US-Iran conflict uncertainties; crude oil edges up
-
-
-## Asian stocks today: Markets stay cautious as Middle East tensions, Fed rate worries keep investors on edge
-Asian markets treaded water Monday, dampened by Middle East ceasefire doubts and anticipation of more US interest rate hikes. Major indices like Japan's Nikkei and South Korea's Kospi saw declines. Investors are also reassessing AI stock valuations, with a shift towards defensive sectors. The dollar
-
-## Top stocks to buy today: Stock recommendations for June 29, 2026 week - check list
-Stock market recommendations: Which are the top stocks that you should buy this week? Gokaldas Exports, and Reliance Industries (RIL) are the top stocks that Motilal Oswal Wealth Management Research Desk has chosen as ‘buy’ recommendations for the week starting June 29, 2026. Also check what market 
-
-## Adani case: New York judge's query procedural, unlikely to derail DoJ bid to drop charges, says US lawyer
+## For Tamil Nadu MSMEs looking for the next chapter of growth, Kerala is not a distant option: KSIDC MD
 
 
-## AI enters cost-conscious era as enterprises chase returns
+## Govt plans Rs 5,000 crore scheme to help steel industry adopt green technologies
+The government is set to launch a Rs 5,000 crore scheme within three months to boost cleaner technologies in India's steel sector, a major contributor to carbon emissions. This initiative, the National Strategy for Sustainable Secondary Steel, aims to reduce the industry's environmental footprint an
+
+## IIP data decoded: Manufacturing, electricity lift India's industrial growth to 5.1% in May
+India's industrial activity showed robust growth in May 2026, with the IIP climbing 5.1% year-on-year, driven by strong manufacturing and electricity output. Capital goods led the expansion, surging 12.9%. The Ministry of Statistics also announced a significant methodological shift, replacing WPI wi
+
+## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
+Indian equity markets, Sensex and Nifty, closed lower on Monday, impacted by renewed US-Iran tensions and rising global crude oil prices. The Sensex shed 372 points, while the Nifty fell 109 points, dipping below the 24,000 mark. Geopolitical concerns overshadowed positive trading in some Asian mark
+
+## Gold price crash: Why Indian households are rushing to sell their old gold jewellery
+The trend comes at a time when India remains heavily dependent on imported gold. During FY26, the country imported gold worth nearly $72.4 billion, while recycled gold contributed an estimated 125-150 tonnes in 2025.
+
+## Why Chinese investors are reviewing bond portfolios as AAA ratings come under scrutiny
+China's financial watchdogs are tightening credit standards, prompting investors to re-evaluate their bond holdings for potential downgrades. This move aims to curb the unusually high number of top-rated AAA issuers, a situation exposed by recent corporate defaults. The People's Bank of China is rep
+
+## Stock Market Live Updates Today: BSE Sensex ends over 370 points down; Nifty50 goes below 24,000 on US-Iran conflict uncertainties; crude oil edges up
 
 
-## Human, face behind $1bn German IT co Nagarro
+## Gen Z is investing like a pro, but insuring like a rookie: Report
+India's Gen Z excels at investing via SIPs and mutual funds, yet many remain uninsured, relying on parents' policies. Despite digital access to financial info, a significant gap exists between research and purchasing insurance. A health emergency could destabilize nearly two-thirds of young investor
+
+## US-Iran war: Moody’s confident India can withstand fiscal deficit target breach without impacting rating
+Moody's currently rates India at Baa3, the lowest level within the investment-grade category, with a stable outlook. According to de Guzman, the rating reflects the government's consistent progress in strengthening its fiscal position since the Covid-19 pandemic.
+
+## New temple, pilgrimages, and ‘Humare Ram’: In Punjab, AAP steps up Hindu outreach with Kejriwal's big promises
+Kejriwal said the Bhagwant Mann government had done more for Sanatan Dharma than previous governments in Punjab.
+
+## ‘Ram ko loota, desh ko loota’: Kapil Sibal's dig at BJP over Ram Temple donation row
+The opposition has questioned Prime Minister Narendra Modi's silence on the alleged embezzlement of donations at the Ram temple in Ayodhya.
+
+## ‘Show them my son’: Dipke shares video of NEET aspirant's father who dies by suicide, attacks Pradhan
+Dipke said that the father of the NEET aspirant, who died by suicide on June 18, came from Gujarat to ask a question from the education minister.
+
+## CBSE's fresh guidelines for 3-language policy: Changes for Class VI, VII, VIII, IX and X students explained
+Under the policy, students will study three languages, with at least two being Indian languages.
+
+## Who is Siya Goyal's lawyer? Fresh twist as accused's brother says Aashutosh Srivastava 'was never hired'
+Advocate Vipul Dushing claimed he was representing Siya Goyal as Aashutosh Srivastava's junior counsel spoke to reporters ahead of the hearing.
+
+## Pune 3-year-old rape case: Why judge refused to consider 65-year-old convict's age before death sentence
+The judge, categorizing the case as the "rarest of the rare," made it clear that the brutality of the crime left no room for leniency.
+
+## Uttarakhand CM Pushkar Singh Dhami inaugurates MRI facility in Champawat, unveils health projects worth over ₹40 crore
+Uttarakhand CM Dhami inaugurated a state-of-the-art MRI facility in Champawat, part of a major healthcare investment exceeding ₹40 crore.
+
+## West Bengal: Suvendu Adhikari warns of action against AJUP’s Humayun Kabir
+Aam Janata Unnayan Party chief Humayun Kabir maintained that his remarks were political and intended against BJP leaders
+
+## Lower fuel prices are a window. India must use it to prepare for tough times
 
 
-## Turning tide: NHAI hits fast lane in arbitration on stricter monitoring
+## ‘As you’re not in cinema, I’m using your name’: Vishal’s hilarious exchange with CM Vijay
 
 
-## VB-G Ram G to introduce new daily wage system for persons with disabilities, women and senior citizens
-Workers who are persons with disabilities will reportedly not be required to work fixed hours to receive their full daily wage.
-
-## ‘Heavens are not going to fall’: SC refuses urgent hearing of Ram temple donation case, questions rush
-‘Heavens are not going to fall’: SC refuses urgent hearing of Ram temple donation case, questions rush
-
-## CBSE vs Vedant Shrivastava: Class 12 student disputes board's claim on re-evaluation marks
-While Vedant Shrivastava claimed that his score increased by only two marks, the CBSE said that his Physics score also increased by nine marks.
-
-## Akhilesh's ‘4C formula’ jibe at BJP, Yogi's ‘challenge’: Ram Temple donation row intensifies
-The row over donations at the Ram Temple first surfaced when an SP leader alleged that between ₹5 crore and ₹7.5 crore from the offerings had been siphoned off.
-
-## The H-1B trap: How some Indian workers are exploited by 'desi consultancies'
-Commonly known in the industry as "body shops", desi consultancies act as intermediaries between Indian tech workers and American employers.
-
-## Fire breaks out at Noida high-rise, no casualties reported
-Six fire tenders were rushed to the spot and firefighting operations are underway.
-
-## 3 arrested, Bihar kingpin absconding, SIT probe: Timeline of Maharashtra TET paper leak probe
-The investigation into the Maharashtra TET 2026 paper leak has expanded beyond the state. Three men were arrested, while two are still on the run.
-
-## Scuffle breaks out at Punjab gurdwara during celebration over return of 4 Nihang Sikhs after bail
-The incident reportedly happened while the groups were celebrating the return of the four Nihang Sikhs who were granted bail and were brought back to Mohali.
-
-## Samay Raina’s sexist joke from India’s Got Latent invites comparison to ‘Rs 370 biryani’
+## Rajinikanth says man refused to accept he was romancing Aishwarya Rai: ‘You’re the hero?’
 
 
-## Biker escapes alive from a collapsing mountain during Arunachal landslide
+## Man misses 2023 cricket world cup match due to hotel booking cancellation, wins Rs 20,000
 
 
-## Court refuses to cancel dowry case, says previous complaint omissions don’t erase new cruelty
+## ‘CBSE taking credit for its own mistake’: Vedant Shrivastava hits back on marks dispute
 
 
-## RRB Technical Recruitment 2026 short notification out; apply for 6565 vacancies
+## Family denied hotel room despite confirmed booking, Goibibo ordered to pay Rs 24,000
 
 
-## Jasmin Bhasin hospitalised in Dubai during birthday trip with Aly Goni: ‘Serious infection’
+## Alia Bhatt says daughter Raha is ‘meant for the stage’; how to spot talent early
 
 
-## Tamil Nadu to start MBBS, BDS admission process for 2026 academic session
+## ‘I also attend Iftar’: Nagpur top cop defends attending RSS event amid Congress backlash
 
 
-## Shraddha Kapoor’s Eetha in trouble, Vithabai Narayangaonkar’s family demands title change
+## Fosun breaks ground at Shaw Brothers Movietown residential project
+China’s Fosun Group began construction of its first residential project in Hong Kong, encapsulating the recovery of the city’s property sector as it transforms the Shaw Brothers’ Movietown studio complex in Clear Water Bay. At the groundbreaking ceremony, Guo Guangchang, chairman of Fosun Internatio
 
+## Pandora, Swarovski lose traction in China as shoppers shift to gold and lab-grown diamonds
+Once popular among young Chinese consumers, Danish affordable jeweller Pandora and Austria’s Swarovski have closed a large number of their mainland stores amid lost brand appeal, as shoppers now prefer high-end luxury goods or value-preserving products like gold. Copenhagen-listed Pandora was at its
 
-## Radikaa Sarathkumar slams ‘circus’ after Bhagyaraj’s death: ‘Give dignity to dead’
+## Chinese self-driving firm Momenta eyes US$750m in Hong Kong IPO
+Chinese self-driving technology start-up Momenta kicked off bookbuilding on Monday for a HK$5.89 billion (US$751 million) share listing on the Hong Kong stock exchange, testing market sentiment amid a sales slump in China’s car industry. The company is offering nearly 19.94 million shares at HK$295.
 
-
-## Northern Metropolis: Hong Kong launchpad for Chinese firms
+## Northern Metropolis: Hong Kong launch pad for Chinese firms
 –
 
 ## Bahrain doubles down on Hong Kong to woo mainland China capital amid Middle East tensions
@@ -144,14 +165,8 @@ Hong Kong is seizing every opportunity to consolidate its role as a global finan
 ## Why brokers believe China’s AI-driven stock run will find fresh legs
 Chinese stocks may extend their gains in the second half of the year as resilient exports and recovering producer prices support economic growth while disruption from high oil prices fades, according to brokerages at home and abroad. Average full-year earnings growth for mainland-listed companies co
 
-## Sovereign investors with US$29 trillion pivot to energy assets, flag dollar fears
-Sovereign wealth funds and central banks managing US$29 trillion in assets are turning to energy assets, and raising concerns about the dollar, in a portfolio reassessment driven by unprecedented geopolitical shifts, according to a survey ‌published on Monday by independent global investment managem
-
-## Will China’s new northern tech bases in Hebei and Tianjin spark local housing demand?
-Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far milder than the surges delivered by traditional tech firms in previous years. Local governments hoping th
-
-## Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek
-Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers increasingly shifts to reducing serving costs and enhancing user experience. DeepSeek, by adopting w
+## Europe Will Never Be an AI Superpower
+But it’s not too late for the continent to claim some technological independence for itself.
 
 ## The Cost of America Abandoning the Military Draft
 Trump could be confident his war in Iran would not touch the daily lives of most voters.
@@ -174,8 +189,8 @@ It’s the latest Latin American country to elect a Trump-backed leader.
 ## The United States Is Now a Guarantor of Last Resort
 The Gulf region has shown it’s ready to carry the diplomatic burden of managing Iran.
 
-## The Geopolitics of SpaceX and Elon Musk
-Should one company—and one person—have this much power?
+## Indonesia Says Tech Firms Have Wiped 4.7M Child Accounts Since Govt Ban
+Jakarta is one of a growing cohort of nations seeking to safeguard under-16s from cyberbullying, online fraud, and pornography.
 
 ## ASEAN and Trump’s Section 301 Tariffs
 U.S. trade pressure could prove to be exactly the catalyst ASEAN needs for integration
@@ -198,8 +213,14 @@ Stylistically, the Islamabad Memorandum fits perfectly into U.S. President Donal
 ## 10 Years After the South China Sea Arbitration: Will ASEAN Remain Silent?
 Despite its vocal support for UNCLOS, ASEAN has not recognized a legal judgment brought under the convention’s framework.
 
-## After the Iran War, China’s Middle East Strategy Will Prioritize the Gulf
-China’s top priority is now keeping the Gulf states, and above all Saudi Arabia and the UAE, from drawing closer to Washington.
+## The Defense Industrial Alliance Washington Is Throwing Away
+As the relationship between the United States and Canada continues to degrade, it now comes at the expense of each country’s industrial security.Last month, the Pentagon announced the unilateral suspension of the 86-year-old Canadian Permanent Joint Board on Defense in response to what the White Hou
+
+## A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence
+During the Cold War, Europe kept asking whether Washington would risk an American city to save a European one. It was an impolite question, but a useful one, which is why it never quite left the room. It has now packed its bags and moved east. Earlier this year, French President Emmanuel Macron crea
+
+## The Art of Statecraft in an Age of Strategic Failure
+Jack Watling, Statecraft: The New Rules of Power in a Divided World (Macmillan, 2026)The war against Iran exposed a multitude of forced errors and own goals in the conduct of statecraft. The purpose of sound statecraft is the integrated application of a state’s tools and its repertoire of government
 
 ## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
 Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
@@ -215,15 +236,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## The U.S. Navy’s Subsea Rare Earth Vulnerability
 The Columbia-class ballistic missile submarine is the next generation of American nuclear deterrence. Twelve of these boats will replace the aging Ohio-class fleet, entering service over the 2030s and 2040s, each carrying 16 Trident IIs and driven by a ghost-quiet electric motor that renders them ac
-
-## The Importance of the Battle of the Little Bighorn
-On June 25, 1876, Lt. Col. George Armstrong Custer and an entire battalion of the 7th Cavalry Regiment rode to their deaths and into American legend on the ridges north of Montana’s Little Bighorn River. The battle was decided in a few hours. Its meaning remains contested 150 years later.Little Bigh
-
-## Nuclear Stability in the Age of AI
-In 2024, Paul Scharre and Michael Depp wrote, “Artificial Intelligence and Nuclear Stability,” where they argued integrating artificial intelligence into the nuclear chain of command presents both opportunities and risks. Two years later, as AI becomes increasingly integrated into military systems a
-
-## Designing Drones for Africa
-This exclusive Cogs of War interview is with Maxwell Maduka, the co-founder and chief engineer of Terra Industries, an African defense technology company building autonomous drone and counter-drone systems designed for the continent’s operating conditions. As cheap imported airframes flood African m
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,32 +261,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Brazil plays Japan at World Cup knockouts: Vinicius, prediction and lineups
-The 2026 FIFA World Cup round of 32 pits South American giants Brazil against Asian heavyweights Japan in Houston.
+## Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign
+Saudi Arabia, the three-time Asian champions, finish bottom of Group H with two points from three games.
 
-## Skydiving plane crash kills 11 in northeastern France
-11 people were killed when a plane belonging to a parachuting school crashed in Tomblaine, France.
+## Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news
+A rare meeting of the top 10 ranked teams sees Morocco take on the Netherlands in the round of 32 in Monterrey, Mexico.
 
-## Thousands of Kurds gather in Turkiye to demand release of PKK leader
-Thousands of Kurds in Turkiye rallied to demand the release of PKK leader Abdullah Öcalan and other prisoners.
+## Drone relayers off: Ukraine’s diplomatic triumph over Russia ally Belarus
+President Zelenskyy demands Lukashenko shut down stations installed by Russia 'or we will'.
 
-## Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening
-Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.
+## Nigerians return home after fleeing xenophobic attacks in South Africa
+Nigerians are returning home after facing a wave of xenophobic violence in South Africa.
 
-## Australian man charged with murder after Thai girl’s body found in suitcase
-Simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase
+## Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?
+The White House denied a split between the two officials who have historically held diverging foreign policy positions.
 
-## Venezuelans angry with government as time runs out to rescue survivors
-Residents and volunteers say they feel abandoned by the government as they race to save lives from the rubble.
+## ‘Tit-for-tat US-Iran attacks appear to be over’
+Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.
 
-## Putin says Ukraine proposed halt to deep strikes
-Russian President Vladimir Putin says Ukraine has proposed a mutual halt to long-range strikes
+## Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?
+Russian president claims Ukraine, which has ramped up attacks on Russia's energy sector, proposed the limits.
 
-## Venezuela’s earthquakes pose first major test for President Delcy Rodriguez
-The seismic disaster has stirred public anger against government mismanagement under Venezuela's ruling socialist party.
+## ‘Erased from history’: A century on from Canada’s anti-Greek riots
+Historians and Greek community members say 1918 riots in Toronto reminiscent of anti-immigrant rhetoric, xenophobia now.
 
-## CEAT eyes double-digit volumes, bets on fresh price hikes to pass on high input costs, CFO says
-CEAT anticipates sustained double-digit volume growth for the next three to five years, despite recent price hikes to offset rising raw material costs. CFO Kumar Subbiah highlighted that natural rubber prices remain at a 15-year high, impacting margins. The company is strategically diversifying its 
+## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
+Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
+
+## CEAT targets one-third export revenue share, eyes double-digit volume growth over next five years: CFO Kumar Subbiah
+CEAT aims to boost international revenue to one-third of its total within five years, up from 25%, while maintaining double-digit volume growth. In the near term, however, the tyre maker plans further price hikes to offset rising raw material costs, particularly natural rubber. Significant capacity 
+
+## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
+The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
 
 ## Big Four rethink partnership as AI changes the game
 India's Big Four accounting firms, Deloitte, PwC, and EY, have surpassed 1,000 partners each, driven by rapid expansion, especially in technology consulting. This growth strains the traditional partnership model, demanding leaders adept at managing diverse businesses, embracing AI, and navigating co
@@ -285,17 +303,11 @@ The index, proposed by the ministry of statistics and programme implementation (
 ## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
 Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
 
-## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
-The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
-
 ## China, India see top firms lose market cap share in AI lag
 Major stock markets in China, India, and Hong Kong are lagging in the global AI race, with top companies now holding a smaller market share. This contrasts with Taiwan and South Korea, where AI leaders have significantly boosted their benchmarks. While diversification can offer stability, the absenc
 
 ## Indian CFO Guide: Navigating in a Multipolar World
 As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
-
-## CFOs are custodians of the enterprise’s right to act, says former Indian Hotels CFO Giridhar Sanjeevi
-At the 3rd edition of the ETCFO Nexgen Summit 2026, Sanjeevi said finance leaders must move beyond linear planning and build resilience, agility, optionality and investor trust in a multipolar world.
 
 ## RBI's dollar inflow measures buy time, but external risks remain
 The Reserve Bank of India's recent measures to boost dollar inflows are a temporary fix, economists warn. While these steps aim to stabilize the rupee now, the country must strengthen its balance of payments over the next three to five years. Otherwise, as foreign currency borrowings and deposits ma
