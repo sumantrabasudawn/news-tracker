@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## Ethiopia makes deal to cut payments on $1bn bond
+Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
+
+## Keir Starmer to unveil defence plan with £5bn for drones
+Long-delayed blueprint is unlikely to end military figures’ calls for more funding
+
+## FirstFT: Supermicro’s Taiwan offices raided in chip smuggling investigation
+Also in today’s newsletter: China grounds light aircraft after Beijing crash and foreign investors fear Japan is backsliding on reform
+
+## Foreign investors fear Japan is backsliding on reform
+Pendulum ‘swinging back towards economic nationalism’, warns one private equity executive
+
+## Maersk raises profit guidance as new US tariffs fuel demand
+American companies rush to stockpile goods ahead of fresh round of levies
+
+## Burnham vows to ‘rewire’ British state
+UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
+
+## Supermicro Taiwan offices raided in chip smuggling probe
+Server maker’s shares fell about 8% after news of the investigation
+
 ## EU sets deadline of October for reduction in trade deficit with China
 European commissioner Maroš Šefčovič demands action after meeting Chinese commerce minister Wang Wentao
 
-## ECB does not need to fight inflation with ‘same force’ as in 2022-23, Lagarde says
-President of central bank signals that there could be a modest increase in interest rates
-
-## Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response
-Socialist regime’s US-backed leader is facing a crisis as anger mounts over inadequate rescue efforts
+## BT’s turnaround is in the home stretch
+A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
 
 ## Former Tory MP pleads guilty to cheating over bets on 2024 election date
 Craig Williams used inside information from his role as a parliamentary aide to Rishi Sunak
 
-## Resident doctors accept pay offer after three years of strike action
-Staff will receive an average 6.6 per cent raise by April 2027 and an extra 4,500 speciality training places will be created
-
 ## Comcast’s Hollywood break-up marks its GE moment
 Owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders
-
-## Burnham keynote speech as it happened: plan unveiled for devolution of power
-Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of decision-making away from Westminster
-
-## Burnham’s radical localism alone won’t fix the UK economy
-His speech hits the right political notes but fails to offer a clear roadmap for growth
-
-## BT’s turnaround is in the home stretch
-A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
 
 ## ‘The risk of a deleveraging event is rising’
 Morgan Stanley’s analysts are worried about quarter-end money tightness
@@ -66,28 +72,28 @@ Area under all crops reported at 182.72 lakh hectares against 236.46 lakh hectar
 ## NIIF to get additional ₹30,000 crore, Finance Ministry announces
 With this, the government’s commitment to this fund now stands at ₹60,000 crore
 
-## US stocks today: Wall Street trades in green as Dow jumps 300 points, Nasdaq up 0.7%
-Wall Street surged on Monday, led by a strong rebound in tech stocks, particularly those linked to artificial intelligence, following significant semiconductor investment announcements. SpaceX also continued its upward trajectory, set to join the Nasdaq 100. Comcast saw a notable jump after announci
+## MSMEs’ micro segments begin seeing stress
 
-## Who is Puneet Sharma, the Axis Bank CFO who has resigned?
-Axis Bank's Chief Financial Officer, Puneet Sharma, has resigned, stepping down on Sunday, June 28, but will continue until August 31. Sharma, who joined in March 2020, oversaw finance, legal, and investor relations, during which the bank's stock nearly doubled. He is leaving to pursue new professio
 
-## Govt plans Rs 5,000 crore scheme to help steel industry adopt green technologies
-The government is set to launch a Rs 5,000 crore scheme within three months to boost cleaner technologies in India's steel sector, a major contributor to carbon emissions. This initiative, the National Strategy for Sustainable Secondary Steel, aims to reduce the industry's environmental footprint an
+## ‘Reforms have made data more credible’, says PK Mishra
 
-## IIP data decoded: Manufacturing, electricity lift India's industrial growth to 5.1% in May
-India's industrial activity showed robust growth in May 2026, with the IIP climbing 5.1% year-on-year, driven by strong manufacturing and electricity output. Capital goods led the expansion, surging 12.9%. The Ministry of Statistics also announced a significant methodological shift, replacing WPI wi
 
-## Stock market today: Which are the top gainers and losers in BSE Sensex and Nifty50 today? Check list
-Indian equity markets, Sensex and Nifty, closed lower on Monday, impacted by renewed US-Iran tensions and rising global crude oil prices. The Sensex shed 372 points, while the Nifty fell 109 points, dipping below the 24,000 mark. Geopolitical concerns overshadowed positive trading in some Asian mark
+## Metro premium: Bigger cities, higher pay
 
-## Gold price crash: Why Indian households are rushing to sell their old gold jewellery
-The trend comes at a time when India remains heavily dependent on imported gold. During FY26, the country imported gold worth nearly $72.4 billion, while recycled gold contributed an estimated 125-150 tonnes in 2025.
 
-## Why Chinese investors are reviewing bond portfolios as AAA ratings come under scrutiny
-China's financial watchdogs are tightening credit standards, prompting investors to re-evaluate their bond holdings for potential downgrades. This move aims to curb the unusually high number of top-rated AAA issuers, a situation exposed by recent corporate defaults. The People's Bank of China is rep
+## National investment fund gets another Rs 30,000 crore boost
 
-## Stock Market Live Updates Today: BSE Sensex ends over 370 points down; Nifty50 goes below 24,000 on US-Iran conflict uncertainties; crude oil edges up
+
+## Persistent CEO backs protocols amid Nagarro stock rally scrutiny
+
+
+## Pramit Jhaveri makes comeback, to join Tata-run NCPA board
+
+
+## Manufacturing powers industrial output growth of 5.1%
+
+
+## Quick commerce race intensifies as Amazon, Flipkart level up
 
 
 ## HDFC Bank appoints former Chief Election Commissioner Rajiv Kumar to top position
@@ -114,28 +120,28 @@ A five-year-old boy was killed by a lioness in Gujarat, marking one of several r
 ## Amit Shah assures Centre’s support to floods-affected Assam, Arunachal Pradesh
 Assam faces severe flooding affecting 45,839 people in seven districts. While there are no fatalities, extensive damage has occurred. Rescue efforts are underway.
 
+## Government sets up study group to strengthen film industry; Prasoon Joshi to lead team
+
+
+## Ludo, some cleaning, then ‘murder’: Cellmate ‘confesses’ to killing Chambal dacoit Jagan Gurjar
+
+
+## Surat civic chief to Gujarat High Court: No orders were passed to demolish shanties
+
+
+## Congress delegation to visit Ayodhya amid Ram Temple ‘theft’ row
+
+
 ## Ketan Agarwal murder: Police to conduct Chetan Chaudhary’s gait analysis
 
 
-## ‘China encroaching on ancestral land’: Arunachal Pradesh to probe
+## Arunachal minister says will probe claims of China encroaching on ‘ancestral land’
 
 
 ## India leads democracies in transparent polls: CEC Gyanesh Kumar
 
 
-## Chargesheet too late, what’s the point now: Sarla Bhat’s family
-
-
-## Gabriel Martinelli is Brazil’s saviour as last-gasp goal breaks Japanese hearts
-
-
-## The curious reason time seems to ‘speed up’ as we get older
-
-
-## HDFC Bank appoints former CEC Rajiv Kumar as chairman
-
-
-## Why Pakistan launched airstrikes and ground troops into Afghanistan after Karachi attack
+## ‘Much too late… what’s the point now?’ says family on Sarla Bhat case
 
 
 ## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
@@ -258,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## LIVE: Netherlands vs Morocco – FIFA World Cup 2026
+Follow the updates, with live build-up, team news coverage, and our text commentary stream of the last-32 match.
+
+## Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis
+The US top diplomat commends Libyan leaders' efforts to 'overcome divisions' after talks with LNA's Saddam Haftar.
+
+## Venezuela earthquake victims shelter at golf course
+Hundreds of Venezuelans are sheltering at a golf course in La Guaira after last week's deadly earthquakes.
+
+## Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip
+Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.
+
+## What’s behind the anti-corruption crackdown in Iraq?
+A number of senior politicians have been detained in a wave of arrests.
+
 ## Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16
 Martinelli's stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.
 
 ## Deadly heatwave grips Italy and Balkans as wildfire fears grow
 Older people remain most at risk as the heatwave drives up excess deaths across Europe.
 
-## Israeli attacks kill four men and a boy in Gaza and a teenager in West Bank
+## Israeli attacks kill eight people in Gaza and a teenager in the West Bank
 Israeli rights group B’Tselem has condemned the 'unprecedented killing of Palestinian children and teenagers"
-
-## Pakistani strikes kill dozens of Afghan villagers
-Afghan villagers inspected destroyed homes after overnight Pakistani strikes targeting Taliban-allied fighters.
-
-## Israel launches attacks and incursions inside southern Syria
-Israeli forces have shelled a village in southern Syria, firing artillery and illumination flares overnight.
-
-## ‘Miracle’: Man pulled from rubble four days after Venezuelan quakes
-A 21-year-old man was pulled alive from the rubble of an apartment building in La Guaira, Venezuela.
-
-## Undocumented migrants flee South Africa amid rising anti-immigrant protests
-Thousands of undocumented migrants in South Africa are rushing to leave after anti-immigrant protests.
-
-## Burnham pledges devolution and discipline if he becomes UK prime minister
-The frontrunner to succeed Keir Starmer was criticised for not taking questions after setting out his policy vision
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
