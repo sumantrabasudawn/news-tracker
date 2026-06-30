@@ -1,40 +1,40 @@
 # AION Intelligence
 
+## Nike earnings helped by tariff refund but sales decline in China
+Sportswear manufacturer reported $11bn in revenue in its most recent quarter, the lowest since February 2022
+
+## Trump made more than $500mn from sale of family’s crypto tokens last year
+US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office
+
+## Apple’s Cook holds ‘constructive’ talks with EU tech chief over ‘Siri AI’
+Discussions come as tech group seeks to avoid fines as it and the bloc have been deadlocked over launch of AI assistant
+
+## Alcoa strikes $4.8bn deal for South32’s alumina and bauxite assets
+US aluminium group expands as disruptions in Middle East push up grey metal prices
+
+## FirstFT: ‘Unprecedented’ plane crash raises questions about Beijing’s security
+Also in today’s newsletter: an interview with Nato chief Mark Rutte, and US Supreme Court rejects Trump’s bid to end birthright citizenship
+
 ## Satellite TV group Dish files for bankruptcy to cut $9bn debt load
 Parent company EchoStar has surged to $30bn market capitalisation from windfall on SpaceX holding
 
 ## US Supreme Court rejects Trump’s bid to end birthright citizenship
 Ruling is major blow to president’s immigration agenda
 
-## Nike earnings helped by tariff refund but performance still shows strains
-Trainer maker reported $11bn in revenue in its most recent quarter, the lowest since February 2022
-
 ## World Bank to phase out China lending
 Decision from global development institution follows years of pressure from the Trump administration
 
-## Witkoff and Kushner arrive in Doha for talks over US-Iran deal
-Mediator Qatar says there are no plans for American delegation to meet Iranian officials
+## Eni and Mercuria to form partnership to trade energy commodities
+Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
 
 ## US stocks chalk up biggest quarterly gain in six years
 Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
-
-## Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says
-Mark Rutte makes economic case for Donald Trump to remain committed to the alliance in FT interview
-
-## ‘Unprecedented’ plane crash tests Beijing’s sense of security
-Fatal flight of a light aircraft into Chinese capital’s tallest building raises questions about its defences
-
-## Eni and Mercuria to form partnership to trade energy commodities
-Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
 
 ## New UK prime minister, same bond market
 Leadership changes but the debt market remains in charge
 
 ## Anthropic launches Claude Science in push for pharma revenue
 New AI product has use cases in rendering 3D protein structures and drug discovery
-
-## Space entrepreneurs borrow some surprisingly terrestrial tactics
-Vertical integration helps to bridge the gap between today’s investments and returns that won’t come until later
 
 ## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
 The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
@@ -60,6 +60,12 @@ The report sees India’s sound macroeconomic fundamentals providing ample buffe
 ## India emerges as UK’s second biggest FDI investor, creating 12,700 jobs
 The upcoming India-UK CETA expected to further strengthen bilateral investments in financial services, manufacturing, tech and clean energy
 
+## Seeking mobile numbers for policy information ‘dark pattern’: Irdai chief Ajay Seth
+
+
+## GST rate reset led to consumption boost
+
+
 ## 45% of homes will need electrical upgrades to charge EVs: Study
 
 
@@ -78,59 +84,56 @@ US markets saw a mixed trading session as investors weighed a rebound in AI stoc
 ## Iran-US interim peace deal may support India's growth: RBI
 India's economy shows resilience despite global turbulence, with an interim Iran-US peace deal potentially boosting supply chains and easing geopolitical pressures, according to the RBI's Financial Stability Report. While macroeconomic fundamentals are strong, the nation remains vulnerable to import
 
-## Small savings schemes interest rates for July-Sept 2026 announced: Check latest rates for PPF, SSY, Kisan Vikas, NSC, SCSS & more
-The ministry has decided to leave the rates unchanged across all small savings schemes for the July-September quarter. Interest rates across these schemes have remained unchanged for a prolonged period.
+## Uttam invites global aerospace firms to invest in Telangana
+Telangana’s minister invites global aerospace firms to invest, citing strong growth, infrastructure, and support, during Aeromart-2026 in Hyderabad.
 
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Indian equity markets dipped Tuesday, with IT stocks leading the decline. However, electric vehicle companies surged following Delhi's new EV policy, signaling a boost for clean mobility. While benchmarks faltered, mid- and small-cap segments showed resilience. Analysts suggest the market is in a co
+## Naidu dissatisfied as Amaratavi works lag
+Andhra Pradesh's Amaravati construction lags at 31.9% progress with dissatisfaction from CM Naidu, urging contractors to expedite quality work.
 
-## Monsoon expected by July 3-4 as heatwave-like conditions grip Delhi
-A cyclonic circulation over the north Bay of Bengal is likely to strengthen into a low-pressure area and move westwards, an expert said.
+## BJP has made Telangana a ‘special mission’: Nitin Nabin
+BJP's Nitin Nabin declared Telangana a "special mission," urging workers to replicate successful strategies from West Bengal to win in 2028 elections.
 
-## PM Modi pushes governance reforms, Viksit Bharat agenda in meet with top officials
-A major focus of the discussions was improving the Ease of Doing Business by removing bottlenecks, reducing procedural delays and simplifying compliance
+## SIT links TDB officials to Sabarimala gold theft
+The SIT found evidence of a conspiracy involving temple officials to misappropriate gold by misrepresenting guardian idols for fraudulent re-plating.
 
-## PM Modi, Iran President discuss West Asia; India stresses peace, stability
-The two leaders spoke on the phone against the backdrop of concerns about the ceasefire in West Asia following fresh attacks by the US and Iran recently.
+## ‘India-UK FTA most economically significant pact’
+The India-UK free trade agreement, set to boost UK GDP by £4.8 billion, is considered Britain's most significant post-Brexit trade deal.
 
-## Registration without rituals, ceremonies doesn't validate Hindu marriage: Gujarat high court
-The court said in its order that the performance of essential ceremonies, such as saptapadi, is the foundation of a Hindu marriage.
+## FinMin flags risks of deficient monsoon
+India's economy shows resilience with 7.7% growth, despite healthcare risks and deficient monsoon challenges. Exports surge amid global tensions.
 
-## NHAI asks IITs to vet the design of major bridges to be built on national highways
-NHAI has enlisted IITs to vet major bridge designs for national highways, ensuring rigorous reviews for quality control and longevity in new projects.
+## Kerala assembly seeks reform of national entrance exams
+Kerala assembly urges the Union government to reform entrance exams after NEET paper leak, citing serious irregularities affecting students’ rights.
 
-## Gujarat HC denies bail to suspended IAS officer in money laundering-linked bribery case
-Court records ED’s claim of 50% share for Collector in alleged bribe network, cites digital evidence including 800 CLU file photographs
+## Economy, AI, defence ties in focus at India-Japan Summit
+Economic security, AI cooperation, and defense strategies will headline the India-Japan Summit, with discussions on resilient supply chains and energy diversification.
 
-## ‘Prove in court’: Tharoor says Umar Khalid's six years in jail sans trial ‘a travesty of justice’, shares his interview
-Umar Khalid has been in Delhi's Tihar Jail since September 2020 after being arrested in connection with the Delhi riots case.
-
-## Kerala assembly adopts resolution demanding Centre reform NEET
-Kerala assembly urges reform of NEET and entrance exams, citing irregularities, in a resolution backed by UDF and LDF, with opposition from BJP.
-
-## Delhi Confidential: Poll Priority
+## 40 lakh women to get first instalment of financial aid today as Mann rolls out scheme
 
 
-## Security tightened for judge facing social media threats over life terms in Madhya Pradesh lynching case
+## ‘Khet Bachao Abhiyan’: Why agriculture experts hopping from village to village?
 
 
-## Day after police promise swift resolution, ex-editor’s passport renewal process begins
+## In SP chief whip’s resignation, Akhilesh’s balancing act in party’s Moradabad unit
 
 
-## US-sanctioned SBL Energy made last Sudan shipment in January: Sources
+## ‘Land scam’ in Sambhal: Officials among 31 booked for illegal transfer and possession of land worth Rs 100 cr
 
 
-## ‘Dragged out of police vehicle’, stabbed: Jamshedpur ‘bar fight’ death sparks protests, political outrage
+## EV owners have to apply for subsidies within 30 days of RC generation— Delhi govt readying portal
 
 
-## Late Erling Haaland winner takes Norway past Ivory Coast and into last 16
+## Locked houses, mistaken for salespersons: BLOs distribute 1.68L forms as SIR begins in Delhi
 
 
-## Ahir’s exit dents Sena (UBT) in Worli, gives Shinde camp leader who built Aaditya’s political base
+## Months after Manesar stir, special police teams to monitor ‘anti-social elements’ in Gurgaon
 
 
-## Wrong side driving challans up by 98%: Delhi Police doubles down on traffic violations
+## Prior planning, transmission infra upgrades helped Delhi meet peak power demand: Officials
 
+
+## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
+China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
 
 ## UK investors sue Binance and founder Zhao Changpeng for US$200 million
 Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Changpeng for at least £150 million (US$200 million), alleging the crypto trading platform sold them risky, complex derivative products without regulatory authorisation. The claimants, some ‌of whom said they had lost tens of thous
@@ -153,8 +156,11 @@ Beijing’s campaign to curb disorderly low-price market competition – neijuan
 ## Chinese EV makers gain traction in South Korea’s import car market despite uphill battle
 This article was first published by The Korea Times in a partnership with the South China Morning Post. When Choi, a 35-year-old office worker in South Korea, started looking for her next car, she did not expect Chinese electric vehicle (EV) brand BYD to make her shortlist. “I’ve wanted an electric 
 
-## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
-The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
+## Anti-Immigrant Marches Held Across South Africa
+Demonstrators had given undocumented migrants until Tuesday to self-deport or face consequences.
+
+## Small-Plane Crash Tests China’s Security State
+How did a private aircraft enter Beijing’s sensitive airspace?
 
 ## Washington’s Cuba Policy Is Self-Sabotage
 The U.S. blockade is destroying Havana’s chances of becoming stable and democratic.
@@ -174,35 +180,29 @@ Andy Burnham is on the verge of taking power—and of being confronted with his 
 ## For Israel, the Oct. 7 War Is Effectively Over
 In 984 days of fighting, “total victory” eluded Netanyahu on all fronts.
 
-## Iranian Elites Are Not in Agreement About What to Do Next
-If the United States wants the cease-fire to last, it needs to take Tehran’s politics seriously.
+## In Photos: Northeast Thailand’s Rocket Festival
+The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
 
-## Trump Isn’t Actually Abandoning the U.N. System
-Even this U.S. administration is confronting limits to the politics of exit.
+## Moment of Truth: The Case Against Orda.kz Editor Begins
+The case against former Orda editor-in-chief Gulnara Bazhkenova, who was placed under house arrest in December 2025, is set to begin following months of legal proceedings.
+
+## China’s $295 Billion Ambitions for AI Will Drive up Domestic High-Tech Stocks
+Beijing’s AI data center strategy will purposefully exclude foreign firms – providing a shot in the arm for domestic companies.
+
+## China’s ‘Ethnic Unity’ Cup: Football and Assimilation in the Uyghur Region
+A football tournament is China’s latest propaganda campaign to whitewash its abuses of Uyghur people – and deconstruct Uyghur identity in favor of Chinese “unity.”
+
+## The Industrial Gap in India-Japan Economic Security
+India and Japan keep talking about diversifying supply chains, but there's a gap between diplomatic rhetoric and industrial reality.
+
+## Xi Jinping Just Made It a Crime to Be Taiwanese
+China’s attack on Taiwan has already started – with the Ethnic Unity Law as a weapon.
 
 ## Australia, Vanuatu Sign Security Pact
 The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra’s other regional pacts, but it remains significant in checking China’s influence.
 
 ## A Mid-Year Check on US Asia Policy
 Goodbye INDOPACOM and hello (again) Middle Eastern distractions.
-
-## Sri Lanka’s Easter Blasts Probe Enters the Intelligence Architecture
-While not every arrest will lead to a conviction, the old assumption that power could delay accountability indefinitely has begun to shake.
-
-## Japan-Philippines Comprehensive Strategic Partnership
-Will the rules-based order be a beacon in troubled waters?
-
-## How the Kem Ley Assassination Changed Cambodian Politics
-A decade on from one of the country's highest-profile political killings, democracy remains a dream rather than reality.
-
-## Arrests Spike as Vietnam Sees New ‘Wave of Repression,’ Rights Group Says
-The Bangkok-based advocacy group Project88 documented 56 political arrests last year, the most in any year since 2018.
-
-## Malaysia Extends Search for Missing Malaysia Airlines Flight MH370
-The maritime exploration firm Ocean Infinity will have an additional year to locate the wreckage of the Boeing 777 airliner, which vanished without trace in 2014.
-
-## Southeast Asia’s Toxic Rivers: No Easy Solutions
-Scientists warn of a regional disaster If pollution from rare earth and gold mining in Myanmar continues to spread toxins further along the Mekong River.
 
 ## The Shifting Fortunes of the Kurds
 The Kurds’ fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers’ Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous ripple effe
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## “WhatsApp Privacy Changes”
+WhatsApp is rolling out usernames to keep phone numbers private.
+
+## Mexico fans blast horns outside Ecuador hotel the night before World Cup clash
+Ecuadorian Football Federation says it has filed a formal complaint with organisers after the incident in Mexico City.
+
+## Why India’s viral youth party is still protesting
+India's viral Cockroach Janta Party spends nearly two weeks protesting, demanding the education minister resign.
+
+## Valiant Serena beaten on Wimbledon return, Swiatek survives scare
+Ben Shelton dumped out by Finland's Otto Virtanen as Taylor Fritz and Alex de Minaur progress in straight sets.
+
 ## What is birthright citizenship, and what does the Supreme Court ruling say?
 Nation's highest court strikes down executive order that would have restricted right established in US Constitution.
 
@@ -263,18 +275,6 @@ The attacks targeted a secondary school in the northeastern town of Lassa, in Bo
 
 ## Rescuers find more bodies under rubble as Venezuela death toll rises
 International and local emergency teams are continuing to recover the bodies of victims under the rubble
-
-## Five humanitarian workers killed in convoy ambush in South Sudan
-UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.
-
-## Norway edge Ivory Coast 2–1 to enter World Cup Round of 16
-Haaland scores his fifth goal of the World Cup to set up a knockout match against Brazil in New York on Sunday.
-
-## Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era
-Has Iran's regional deterrence been permanently degraded, or is its proxy network mutating into a resilient force?
-
-## Cuba’s foreign minister observes ‘no progress’ in US negotiations
-A top Cuban official has accused the US of issuing 'constant threats' and attempting to scuttle a UN debate.
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
