@@ -1,70 +1,64 @@
 # AION Intelligence
 
+## Key Burnham adviser pushes back at union call for bank tax rise
+Trades Union Congress estimates restoring previous surcharge could raise £9bn
+
+## Egg producers settle US claims they manipulated benchmark prices
+Federal and state authorities cite three-year effort to co-ordinate bids that inflated quotations
+
+## Vedanta pulls listing of copper unit day before IPO
+CopperTech Metals’ market entry was meant to take advantage of US enthusiasm for critical minerals
+
+## Britain’s defence investment predicament
+After months of wrangling, Starmer’s military funding plan still came up short
+
+## AA shifts gears towards £5bn London listing
+An IPO of UK roadside recovery business could pit it against rival flotation plans by RAC
+
+## Supreme Court reminds America (and Trump) what citizenship is
+The United States has always been based on the notion of welcoming newcomers from every country
+
+## Shetland Islands backs £1.5bn tunnels to boost population
+Number of residents on outer islands of the Scottish archipelago has fallen by a quarter in forty years
+
 ## US Supreme Court rejects Trump’s bid to end birthright citizenship
 Ruling is major blow to president’s immigration agenda
 
-## Britain has an Oxbridge innovation problem
-Universities challenged
+## Schroders close to selling its financial planning arm for more than £200mn
+UK asset manager aims to dispose of Benchmark Capital to Söderberg & Partners
 
-## Dressing for a warming world at Paris Men’s Fashion Week
-As a brutal heatwave broke French records, designers offered ideas on how to look cool — with mixed degrees of success
+## Binance and founder sued by crypto investors in London lawsuit
+Nearly 1,700 UK users allege that world’s largest crypto exchange offered risky products without regulatory approval
 
-## Witkoff and Kushner arrive in Doha for talks over US-Iran deal
-Mediator Qatar says there are no plans for American delegation to meet Iranian officials
+## Anthropic launches Claude Science in push for pharma revenue
+New AI product has use cases in rendering 3D protein structures and drug discovery
 
-## Ten years after Brexit: can the UK deliver change?
-FT journalists answered subscribers’ questions at a webinar on June 25 2026
+## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
+The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
 
-## Trump ally seeks to emulate Putin to stay in power in Serbia
-Aleksandar Vučić says he plans to step down as president and return as premier after snap elections this autumn
+## Household debt rises to 45.5% of GDP, borrower profiles improve: RBI FSR
+Despite the increase in borrowings, the RBI sees an improvement in the quality of borrowers
 
-## Judges dismiss appeal to block mass claims over UK motor finance scandal
-Lenders had sought to prevent lawyers from bringing cases on behalf of thousands of motorists
+## NetApp sees strong India momentum on AI, cloud and data infrastructure demand
+Focus on AI-ready data infrastructure and cloud transformation drives strong momentum
 
-## Trump touts Supreme Court win after day of mixed rulings
-Also in today’s newsletter, US and Iran will ‘stand down’ and halt reciprocal attacks in Strait of Hormuz
+## IPO fundraising plunges 89% in June quarter as OFS issues rise
+IPO fell to ₹3,777 crore, while OFS nearly doubled to ₹16,568 crore
 
-## Starmer’s £15bn defence plan leaves short-term gaps, say former officers
-UK’s large military investments are aimed at countering China, but questions remain about ability to withstand Russian threat
+## Delhi EV policy triggers rally in Ather Energy, Ola Electric
+Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
 
-## Shetland Islands to be connected by tunnels to try to boost growth
-The four road links will eventually replace ageing ferry fleets
+## Subsidy on food, fertilizer, fuel jumps over 47% in April-May period
+Fiscal deficit surges 9.6% to ₹1.62 lakh crore in end-May
 
-## UK weighs intervention in Paramount’s $111bn Warner Bros takeover
-Any regulatory referral on plurality grounds could delay or halt proceedings
+## RBI’s FSR flags geopolitical risks to India despite West Asia truce
+The report sees India’s sound macroeconomic fundamentals providing ample buffers to deal with external shocks
 
-## KNDS struggles to convince investors to back IPO at €12bn-plus valuation
-Blockbuster listing at risk of delay if desired price tag cannot be reached
+## India emerges as UK’s second biggest FDI investor, creating 12,700 jobs
+The upcoming India-UK CETA expected to further strengthen bilateral investments in financial services, manufacturing, tech and clean energy
 
-## BP deputy chief to leave company in latest upheaval at oil major
-Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire
-
-## Rio Tinto agrees new financial terms for $18bn copper mine project
-Oyu Tolgoi is Mongolia’s biggest mining scheme and source of foreign investment
-
-## Binance Expands Triparty Banking Network with Anchorage Digital's Atlas Integration
-Binance Expands Triparty Banking Network with Anchorage Digital's Atlas Integration
-
-## Stress test: Banks and NBFCs can withstand losses under adverse scenarios
-K Ram Kumar
-
-## Windfall levy on petrol hiked, lowered on diesel, ATF
-Revised rates effective from July 15 with exemptions extended to Mauritius and Maldives
-
-## Bima Sugam to go live by September-end: IRDAI chief
-Consultation paper on wider distribution reforms expected before the end of July
-
-## Modi discussed measures for further deregulation, promoting Aatmanirbharta with Secretaries
-“Prime Minister exhorted the Secretaries to focus on the tangible impact of Schemes on the lives of people,” the official quoted above said.
-
-## Intraday borrowing by MFs
-SEBI’s proposal on wider use of funds will help MFs
-
-## As crude oil cargoes flush market, Indian refiners book supplies for next 45 days
-Sources said that there is ample crude oil in the market currently as Ukraine’s drone attacks on Russian refineries is freeing up more barrels for export
-
-## Editorial. Power shift
-Exercise care in rationalising fixed charge in power bills
+## Centre tweaks windfall tax, raises petrol export duty
+At the same time, the export duty on diesel has been cut to Rs 8.5 per litre from Rs 14 per litre, while the levy on ATF exports has been reduced to Rs 7.5 per litre from the current Rs 12.5 per litre. The ministry said the revised duties will remain effective for the fortnight beginning July 1.
 
 ## Gold gains strategic importance as central banks hedge against geopolitical risks
 Global central banks are boosting gold reserves amidst rising geopolitical risks, with a significant portion planning to reduce US dollar exposure. A new survey reveals a strategic shift towards gold for protection, while the euro and renminbi are eyed as alternatives, though not without their own c
@@ -87,8 +81,17 @@ Indian equity markets dipped Tuesday, with IT stocks leading the decline. Howeve
 ## Nine years of GST: One tax, one market, many transformations
 India's Goods and Services Tax (GST), rolled out in 2017, has transformed indirect taxation, creating a unified national market and boosting formalisation. Collections have surged, and businesses now operate digitally, improving efficiency. Consumers benefit from reduced tax cascading and greater pr
 
-## India's Russian oil imports hit record high in June amid Hormuz disruptions
+## Monsoon expected by July 3-4 as heatwave-like conditions grip Delhi
+A cyclonic circulation over the north Bay of Bengal is likely to strengthen into a low-pressure area and move westwards, an expert said.
 
+## PM Modi pushes governance reforms, Viksit Bharat agenda in meet with top officials
+A major focus of the discussions was improving the Ease of Doing Business by removing bottlenecks, reducing procedural delays and simplifying compliance
+
+## PM Modi, Iran President discuss West Asia; India stresses peace, stability
+The two leaders spoke on the phone against the backdrop of concerns about the ceasefire in West Asia following fresh attacks by the US and Iran recently.
+
+## Registration without rituals, ceremonies doesn't validate Hindu marriage: Gujarat high court
+The court said in its order that the performance of essential ceremonies, such as saptapadi, is the foundation of a Hindu marriage.
 
 ## NHAI asks IITs to vet the design of major bridges to be built on national highways
 NHAI has enlisted IITs to vet major bridge designs for national highways, ensuring rigorous reviews for quality control and longevity in new projects.
@@ -102,41 +105,32 @@ Umar Khalid has been in Delhi's Tihar Jail since September 2020 after being arre
 ## Kerala assembly adopts resolution demanding Centre reform NEET
 Kerala assembly urges reform of NEET and entrance exams, citing irregularities, in a resolution backed by UDF and LDF, with opposition from BJP.
 
-## Economic and energy security, AI, defence ties in focus for India-Japan Summit
-Japan Prime Minister Sanae Takaichi will visit India during July 1-3 with a delegation of more than 100 businesspeople for talks with Prime Minister Narendra Modi
-
-## Delhi's temperature read 37°C. It felt like 53°C. Here's why that is dangerous
-Humidity levels, as they go up ahead of monsoon, pose a unique health risk.
-
-## ‘Told me herself’: Siya Goyal wanted to leave Chetan and marry Ketan, says her brother in Pune murder mystery
-Sahil Goyal broke his silence on the issue, saying he never told his parents about his sister's relationship because she had told him she wanted to marry Ketan
-
-## Manipur: Biometric registration of 500 displaced Myanmar nationals done
-The Assam Rifles initiated a biometric registration drive for displaced Myanmar nationals in Kamjong, enhancing border security and administrative planning.
-
-## Can key Thackeray aide Sachin Ahir be disqualified for Sena switch
+## France vs Sweden FIFA World Cup 2026 Match LIVE Updates: Mbappe resumes Golden Boot chase
 
 
-## ‘I became too secular, film flopped’: Gadar director on why his ‘surefire hit’ failed
+## Europe heatwave videos: From frying eggs to melting railway tracks. Here’s what’s happening
 
 
-## Deandra Dottin carried off by teammates, comes back to play vital knock vs AUS
+## A plant that strangles other trees to death
 
 
-## Kunal Kamra lashes out at Shiv Sena leader: ‘Your threats won’t stop me from doing my job’
+## Delhi-Mumbai Expressway tunnel cutting through tiger habitat to open in Rajasthan by July-end
 
 
-## In Jahangir ‘Pushpa’ Khan’s Falta fall, his wife’s arrest is a surprising blow
+## 2 global players to buy ‘significant’ stakes in Indian insurance firms, approvals in
 
 
-## Relationship coach explains why women fall for emotionally unavailable men
+## After June deficit, July to see below-normal rainfall too: IMD
 
 
-## Monaco parcel bomb: How Ukraine-born tycoon Vadym Yermolaiev got injured in suspected assassination bid
+## RBI flags elevated AI stock valuations as potential risk to financial stability
 
 
-## India committed to safe, orderly, and legal migration: Jaishankar
+## SIR begins on shaky note as over 300 BLOs in Mumbai skip duty, seek relief from regular work
 
+
+## UK investors sue Binance and founder Zhao Changpeng for US$200 million
+Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Changpeng for at least £150 million (US$200 million), alleging the crypto trading platform sold them risky, complex derivative products without regulatory authorisation. The claimants, some ‌of whom said they had lost tens of thous
 
 ## China’s millionaire population grows slower than global average. Is the wealth boom over?
 China’s millionaire population and personal wealth levels are estimated to have grown much more slowly than the global average last year, partly owing to the sluggish property market, though wealth creation in the world’s second-largest economy is expected to continue, according to UBS, the world’s 
@@ -159,8 +153,8 @@ This article was first published by The Korea Times in a partnership with the So
 ## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
 The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
 
-## Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami
-Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore
+## The European Country That Figured Out Trump’s White House
+Poland has been successful partly due to strong personal ties, but history suggests that its luck may not hold forever.
 
 ## Israel Has a Hezbollah Drone Problem
 “We don’t have a solution,” an Israeli military official said.
@@ -182,9 +176,6 @@ The United States should heed its own track record of backing individuals in con
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
-
-## The Supreme Court Pushes Back on Trump’s Fed Assault
-Tampering with the Federal Reserve’s independence proved to be a bridge too far.
 
 ## Australia, Vanuatu Sign Security Pact
 The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra’s other regional pacts, but it remains significant in checking China’s influence.
@@ -210,6 +201,9 @@ The maritime exploration firm Ocean Infinity will have an additional year to loc
 ## Southeast Asia’s Toxic Rivers: No Easy Solutions
 Scientists warn of a regional disaster If pollution from rare earth and gold mining in Myanmar continues to spread toxins further along the Mekong River.
 
+## The Shifting Fortunes of the Kurds
+The Kurds’ fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers’ Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous ripple effe
+
 ## Mapping America’s Domestic Drone Supply Chain
 The extent of China’s drone dominance — and how to decouple from it — has long been a source of debate and anxiety in Washington. Last month, the Wall Street Journal reignited controversy by publishing a visual analysis of military quadcopter components, exploring China’s advantages in parts manufac
 
@@ -230,9 +224,6 @@ Jack Watling, Statecraft: The New Rules of Power in a Divided World (Macmillan, 
 
 ## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
 Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
-
-## Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory
-To understand how close Myanmar’s pro-democracy resistance came to victory last year — and how far it has slipped since — there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven “Spring Revolution” a vivid foil t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## SCOTUS rules against Trump’s order limiting birthright citizenship
-The US Supreme Court has blocked President Donald Trump's executive order to end birthright citizenship.
+## LeBron James not returning to Lakers, will choose new NBA team: Report
+NBA's all-time leading scorer told Los Angeles Lakers he would not return for a ninth season with the storied franchise.
 
-## Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large
-Search under way for suspect who fled scene after explosive device placed at entrance to building wounded three.
+## US Supreme Court upholds transgender sports ban
+The court decided 9-0 that the state laws do not violate the Title IX civil rights statute.
 
-## Iran to hold talks with Qatar on MoU deal with US, frozen assets
-Iran says it will hold indirect talks with mediator Qatar, to discuss implementing its MoU deal with the US.
+## France vs Sweden LIVE: FIFA World Cup 2026
+All our updates, live build-up, team news coverage and full text commentary stream as Mbappe's France eye last-16.
 
-## US Supreme Court rules against Trump order to end birthright citizenship
-Top court's 6-3 ruling major blow to Trump, affirms nearly all infants born on US soil automatically become citizens.
+## Toddler pulled from debris six days after Venezuelan earthquakes
+A Jordanian rescue team used thermal imaging to rescue a toddler who had been trapped under rubble for six days.
 
-## World Cup 2026: What are the extra-time and penalty shootout rules?
-Both Morocco vs Netherlands and Paraguay vs Germany ended in dramatic penalty shootouts.
+## Palestine weekly: Israel accelerates land grabs in Gaza, West Bank
+Permanent alterations begin at Hebron's Ibrahimi Mosque as plans advance for settlements in Gaza.
 
-## What privacy settings has WhatsApp changed?
-The app said it will be rolling out usernames gradually, in a move meant to improve privacy.
+## The path from Gaza to Trump’s return
+How the Biden administration’s response to October 7 reshaped US politics and influenced the 2024 presidential election.
 
-## US envoys in Doha for indirect talks with Iranian technical delegation
-Iran says it has sent an expert delegation to Doha to follow up on the release of frozen Iranian funds.
+## How severe is Russia’s energy shortage because of Ukrainian strikes?
+Analysts say Russia's fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.
 
-## UK’s Starmer announces 300-billion-pound defence investment plan
-Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.
+## Heavy rainfall kills dozens in Ghana, Ivory Coast
+Greater Accra Regional Fire Command says crews rescued more than 400 people.
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
