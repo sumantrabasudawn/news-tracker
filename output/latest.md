@@ -1,31 +1,31 @@
 # AION Intelligence
 
+## Satellite TV group Dish files for bankruptcy to cut $9bn debt load
+Parent company EchoStar has surged to $30bn market capitalisation from windfall on SpaceX holding
+
+## US Supreme Court rejects Trump’s bid to end birthright citizenship
+Ruling is major blow to president’s immigration agenda
+
+## Nike earnings helped by tariff refund but performance still shows strains
+Trainer maker reported $11bn in revenue in its most recent quarter, the lowest since February 2022
+
+## World Bank to phase out China lending
+Decision from global development institution follows years of pressure from the Trump administration
+
 ## Witkoff and Kushner arrive in Doha for talks over US-Iran deal
 Mediator Qatar says there are no plans for American delegation to meet Iranian officials
+
+## US stocks chalk up biggest quarterly gain in six years
+Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
+
+## Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says
+Mark Rutte makes economic case for Donald Trump to remain committed to the alliance in FT interview
 
 ## ‘Unprecedented’ plane crash tests Beijing’s sense of security
 Fatal flight of a light aircraft into Chinese capital’s tallest building raises questions about its defences
 
-## Space entrepreneurs borrow some surprisingly terrestrial tactics
-Vertical integration helps to bridge the gap between today’s investments and returns that won’t come until later
-
-## Philip Morris allowed to market Zyn pouches in US as safer than smoking
-Nicotine pouches are a focus of the tobacco industry’s push to grow beyond cigarettes
-
-## Key Burnham adviser pushes back at union call for bank tax rise
-Trades Union Congress estimates restoring previous surcharge could raise £9bn
-
-## Egg producers settle US claims they manipulated benchmark prices
-Federal and state authorities cite three-year effort to co-ordinate bids that inflated quotations
-
-## Vedanta pulls listing of copper unit day before IPO
-CopperTech Metals’ market entry was meant to take advantage of US enthusiasm for critical minerals
-
-## Britain’s defence investment predicament
-After months of wrangling, Starmer’s military funding plan still came up short
-
-## US stocks chalk up biggest quarterly gain in six years
-Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
+## Eni and Mercuria to form partnership to trade energy commodities
+Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
 
 ## New UK prime minister, same bond market
 Leadership changes but the debt market remains in charge
@@ -33,8 +33,8 @@ Leadership changes but the debt market remains in charge
 ## Anthropic launches Claude Science in push for pharma revenue
 New AI product has use cases in rendering 3D protein structures and drug discovery
 
-## Schroders close to selling its financial planning arm for more than £200mn
-UK asset manager aims to dispose of Benchmark Capital to Söderberg & Partners
+## Space entrepreneurs borrow some surprisingly terrestrial tactics
+Vertical integration helps to bridge the gap between today’s investments and returns that won’t come until later
 
 ## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
 The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
@@ -60,6 +60,9 @@ The report sees India’s sound macroeconomic fundamentals providing ample buffe
 ## India emerges as UK’s second biggest FDI investor, creating 12,700 jobs
 The upcoming India-UK CETA expected to further strengthen bilateral investments in financial services, manufacturing, tech and clean energy
 
+## 45% of homes will need electrical upgrades to charge EVs: Study
+
+
 ## Invisible surplus widens in Q4FY26 to $90,513mn as remittances jump 30%
 
 
@@ -80,9 +83,6 @@ The ministry has decided to leave the rates unchanged across all small savings s
 
 ## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
 Indian equity markets dipped Tuesday, with IT stocks leading the decline. However, electric vehicle companies surged following Delhi's new EV policy, signaling a boost for clean mobility. While benchmarks faltered, mid- and small-cap segments showed resilience. Analysts suggest the market is in a co
-
-## Oil prices set for biggest quarterly drop since Covid as markets watch uncertain US-Iran talks
-
 
 ## Monsoon expected by July 3-4 as heatwave-like conditions grip Delhi
 A cyclonic circulation over the north Bay of Bengal is likely to strengthen into a low-pressure area and move westwards, an expert said.
@@ -108,7 +108,19 @@ Umar Khalid has been in Delhi's Tihar Jail since September 2020 after being arre
 ## Kerala assembly adopts resolution demanding Centre reform NEET
 Kerala assembly urges reform of NEET and entrance exams, citing irregularities, in a resolution backed by UDF and LDF, with opposition from BJP.
 
-## Jharkhand: Cops suspended as man ‘dragged out of police car’, stabbed in brawl
+## Delhi Confidential: Poll Priority
+
+
+## Security tightened for judge facing social media threats over life terms in Madhya Pradesh lynching case
+
+
+## Day after police promise swift resolution, ex-editor’s passport renewal process begins
+
+
+## US-sanctioned SBL Energy made last Sudan shipment in January: Sources
+
+
+## ‘Dragged out of police vehicle’, stabbed: Jamshedpur ‘bar fight’ death sparks protests, political outrage
 
 
 ## Late Erling Haaland winner takes Norway past Ivory Coast and into last 16
@@ -118,18 +130,6 @@ Kerala assembly urges reform of NEET and entrance exams, citing irregularities, 
 
 
 ## Wrong side driving challans up by 98%: Delhi Police doubles down on traffic violations
-
-
-## Kullu doctor suspended amid protest over death of woman after childbirth
-
-
-## Over 100 prominent citizens from India, Pakistan write to Modi, Shehbaz; seek end to ‘continued hostility’
-
-
-## Delhi-Mumbai e-way’s critical 8-lane tunnel in Rajasthan opens this month
-
-
-## Weak roots, recent road work under scanner after tree collapse kills schoolboy in Chembur
 
 
 ## UK investors sue Binance and founder Zhao Changpeng for US$200 million
@@ -156,6 +156,9 @@ This article was first published by The Korea Times in a partnership with the So
 ## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
 The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
 
+## Washington’s Cuba Policy Is Self-Sabotage
+The U.S. blockade is destroying Havana’s chances of becoming stable and democratic.
+
 ## Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.
 Recent scientific reassessments strengthen the case for rapid climate action rather than weaken it.
 
@@ -176,9 +179,6 @@ If the United States wants the cease-fire to last, it needs to take Tehran’s p
 
 ## Trump Isn’t Actually Abandoning the U.N. System
 Even this U.S. administration is confronting limits to the politics of exit.
-
-## Is Washington Endorsing Family Rule in Libya?
-The United States should heed its own track record of backing individuals in conflict-affected states.
 
 ## Australia, Vanuatu Sign Security Pact
 The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra’s other regional pacts, but it remains significant in checking China’s influence.
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What is birthright citizenship, and what does the Supreme Court ruling say?
+Nation's highest court strikes down executive order that would have restricted right established in US Constitution.
+
+## Emergency crews search rubble after Athens building collapse
+Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.
+
+## More than 30 students remain missing after Nigeria school attack
+The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.
+
+## Rescuers find more bodies under rubble as Venezuela death toll rises
+International and local emergency teams are continuing to recover the bodies of victims under the rubble
+
 ## Five humanitarian workers killed in convoy ambush in South Sudan
 UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.
 
@@ -263,18 +275,6 @@ Has Iran's regional deterrence been permanently degraded, or is its proxy networ
 
 ## Cuba’s foreign minister observes ‘no progress’ in US negotiations
 A top Cuban official has accused the US of issuing 'constant threats' and attempting to scuttle a UN debate.
-
-## German heatwave melts tram tracks, triggers travel disruptions
-Extreme heat melted a tramway track in Leipzig and disrupted public transport after temperatures climbed to 41C (106F).
-
-## How much of your life do you spend on social media?
-On world social media day, Al Jazeera breaks down the numbers.
-
-## Healthcare situation in DR Congo improves amidst Ebola crisis
-The Ebola virus continues to spread across the DR Congo but local healthcare workers say the situation has improved.
-
-## What happened on South Africa’s anti-migrant ‘deadline day’
-Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
