@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US Supreme Court rejects Trump’s bid to end birthright citizenship
+Ruling is major blow to president’s immigration agenda
+
+## Britain has an Oxbridge innovation problem
+Universities challenged
+
+## Dressing for a warming world at Paris Men’s Fashion Week
+As a brutal heatwave broke French records, designers offered ideas on how to look cool — with mixed degrees of success
+
+## Witkoff and Kushner arrive in Doha for talks over US-Iran deal
+Mediator Qatar says there are no plans for American delegation to meet Iranian officials
+
 ## Ten years after Brexit: can the UK deliver change?
 FT journalists answered subscribers’ questions at a webinar on June 25 2026
 
@@ -12,59 +24,53 @@ Lenders had sought to prevent lawyers from bringing cases on behalf of thousands
 ## Trump touts Supreme Court win after day of mixed rulings
 Also in today’s newsletter, US and Iran will ‘stand down’ and halt reciprocal attacks in Strait of Hormuz
 
-## Ukraine argues it can legally attack Russia’s shadow fleet
-Kyiv seeks to justify strikes on tankers after Russia accuses it of ‘terrorism’ in letter to IMO
+## Starmer’s £15bn defence plan leaves short-term gaps, say former officers
+UK’s large military investments are aimed at countering China, but questions remain about ability to withstand Russian threat
 
-## Tech founder sentenced to 10 years in prison for Chromebook ‘corruption’
-Former Gojek chief Nadiem Makarim convicted by Indonesian court in case closely watched by foreign investors
+## Shetland Islands to be connected by tunnels to try to boost growth
+The four road links will eventually replace ageing ferry fleets
 
-## Tech CEOs want AI rules — it may be too late
-A deregulated environment sounds good until it results in ad hoc political intervention
+## UK weighs intervention in Paramount’s $111bn Warner Bros takeover
+Any regulatory referral on plurality grounds could delay or halt proceedings
 
-## EU to increase steel tariffs on trading partners
-Decision to slash duty-free quotas and double rate to 50% follows similar moves by the UK, US and Canada
+## KNDS struggles to convince investors to back IPO at €12bn-plus valuation
+Blockbuster listing at risk of delay if desired price tag cannot be reached
 
-## Battery metals futures heat up as volatility stirs markets
-Trading of cobalt and lithium futures contracts has risen this year on the leading European and US exchanges
+## BP deputy chief to leave company in latest upheaval at oil major
+Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire
 
-## Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
-Publication of long-delayed blueprint is unlikely to end military figures’ calls for more funding
+## Rio Tinto agrees new financial terms for $18bn copper mine project
+Oyu Tolgoi is Mongolia’s biggest mining scheme and source of foreign investment
 
-## Apple and Google app store fees targeted by UK competition watchdog
-CMA regulator launches consultation on whether Big Tech groups should allow rival payments
+## Binance Expands Triparty Banking Network with Anchorage Digital's Atlas Integration
+Binance Expands Triparty Banking Network with Anchorage Digital's Atlas Integration
 
-## Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
-NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation
+## Stress test: Banks and NBFCs can withstand losses under adverse scenarios
+K Ram Kumar
 
-## FirstFT: The great wealth transfer
-Also in today’s newsletter: corporate AI users’ staff hires and China’s ‘ghost cities’
+## Windfall levy on petrol hiked, lowered on diesel, ATF
+Revised rates effective from July 15 with exemptions extended to Mauritius and Maldives
 
-## Sainsbury’s sales growth slows as consumer caution hits retailers
-Rival supermarket Tesco also reports slowdown
+## Bima Sugam to go live by September-end: IRDAI chief
+Consultation paper on wider distribution reforms expected before the end of July
 
-## Axis MF launches daily SIP of ₹10 across 10 schemes
-Rozana SIP is available for investors to invest across up to 10 Axis MF schemes, offering built-in diversification through a simple setup
+## Modi discussed measures for further deregulation, promoting Aatmanirbharta with Secretaries
+“Prime Minister exhorted the Secretaries to focus on the tangible impact of Schemes on the lives of people,” the official quoted above said.
 
-## Delhi EV policy triggers rally in Ather Energy, Ola Electric
-Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
+## Intraday borrowing by MFs
+SEBI’s proposal on wider use of funds will help MFs
 
-## Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0
-ISM 2.0 to focus on design start-ups that can design a product, take it to the market
+## As crude oil cargoes flush market, Indian refiners book supplies for next 45 days
+Sources said that there is ample crude oil in the market currently as Ukraine’s drone attacks on Russian refineries is freeing up more barrels for export
 
-## AP to take up mineral-mapping, frame policy value-addition
-A cluster for rare earth minerals could be set up in the State, says Chief Minister Naidu
+## Editorial. Power shift
+Exercise care in rationalising fixed charge in power bills
 
-## Scrap license fee on pure internet services-based revenue: ISPAI writes to Centre
-ISPAI said that the exemption on licence fee could ease the burden on the ecosystem, thereby enhancing competition and expanding consumer choice
+## Gold gains strategic importance as central banks hedge against geopolitical risks
+Global central banks are boosting gold reserves amidst rising geopolitical risks, with a significant portion planning to reduce US dollar exposure. A new survey reveals a strategic shift towards gold for protection, while the euro and renminbi are eyed as alternatives, though not without their own c
 
-## Full import duty waiver on critical petrochemical products extended till July 15
-The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market
-
-## From missed deadlines to gathering pace: J&K’s hydropower story
-Long-delayed Chenab Valley hydropower projects move ahead with improved execution and revised timelines now
-
-## Domestic manufacturing shielding IT supply chain from geopolitical stress: Redington India CEO
-Redington is evolving from a traditional hardware distributor to an “ecosystem orchestrator,” with cloud and services now accounting for over 20% of its India business, says Vohra
+## US stocks today: Wall Street edges higher on quarter-end optimism as Nvidia rebounds
+US markets saw a mixed trading session as investors weighed a rebound in AI stocks against persistent concerns about interest rates and global tensions. While major indices showed modest gains, the S&P 500 and Nasdaq are set for their first monthly dip in three months. Stronger-than-expected jobs da
 
 ## Iran-US interim peace deal may support India's growth: RBI
 India's economy shows resilience despite global turbulence, with an interim Iran-US peace deal potentially boosting supply chains and easing geopolitical pressures, according to the RBI's Financial Stability Report. While macroeconomic fundamentals are strong, the nation remains vulnerable to import
@@ -84,58 +90,52 @@ India's Goods and Services Tax (GST), rolled out in 2017, has transformed indire
 ## India's Russian oil imports hit record high in June amid Hormuz disruptions
 
 
-## Finance ministry panel clears Rs 1.25 lakh crore for India Semiconductor Mission 2.0; Cabinet nod next
-India's push for domestic chip manufacturing has received a significant boost with the Expenditure Finance Committee clearing a Rs 1.25 lakh crore outlay for India Semiconductor Mission 2.0. This ambitious plan, awaiting Union Cabinet approval, aims to bolster indigenous chip design, production, and
+## NHAI asks IITs to vet the design of major bridges to be built on national highways
+NHAI has enlisted IITs to vet major bridge designs for national highways, ensuring rigorous reviews for quality control and longevity in new projects.
 
-## Barrel of backups: India's crude imports bounce back despite Middle East disruptions
-India's crude oil imports are nearing pre-conflict levels, thanks to refiners diversifying away from traditional Gulf suppliers. Purchases from Russia, the US, and other regions have compensated for Middle East disruptions. Russia remains a favored source due to attractive pricing. While the Strait 
+## Gujarat HC denies bail to suspended IAS officer in money laundering-linked bribery case
+Court records ED’s claim of 50% share for Collector in alleged bribe network, cites digital evidence including 800 CLU file photographs
 
-## Man wearing ‘Modi mask’ tries burglary in Rajasthan, his failed attempt caught on camera
-CCTV footage showed the man trying to break the lock of a mobile shop using an iron rod while wearing a mask commonly seen at political rallies.
+## ‘Prove in court’: Tharoor says Umar Khalid's six years in jail sans trial ‘a travesty of justice’, shares his interview
+Umar Khalid has been in Delhi's Tihar Jail since September 2020 after being arrested in connection with the Delhi riots case.
 
-## Court rejects ‘love affair’ defence, man gets 20-year jail for raping minor in Thane: ‘Consent is immaterial’
-The minor later got pregnant and got an abortion; court says when a girl is below 18, even if sexual intercourse is with her consent, it would amount to rape.
+## Kerala assembly adopts resolution demanding Centre reform NEET
+Kerala assembly urges reform of NEET and entrance exams, citing irregularities, in a resolution backed by UDF and LDF, with opposition from BJP.
 
-## Amarnath Yatra: Enhanced security, accommodation ready for 55,000; pilgrims told to follow timings
-Lieutenant Governor Manoj Sinha, who is also the chairman of the Shri Amarnath Shrine Board (SASB), will flag off the first convoy at 4 am, officials said.
+## Economic and energy security, AI, defence ties in focus for India-Japan Summit
+Japan Prime Minister Sanae Takaichi will visit India during July 1-3 with a delegation of more than 100 businesspeople for talks with Prime Minister Narendra Modi
 
-## Digital India turns 11: UPI becomes world’s largest real-time payment system with 24,000 crore transactions in a year
-As of March 2026, DigiLocker hosts over 850 crore documents, making document storage and verification easier, particularly for students.
+## Delhi's temperature read 37°C. It felt like 53°C. Here's why that is dangerous
+Humidity levels, as they go up ahead of monsoon, pose a unique health risk.
 
-## Student dies after tree falls on school bus in Mumbai's Chembur, 4 admitted to hospital
-Four other students are currently undergoing treatment at Zen Hospital.
+## ‘Told me herself’: Siya Goyal wanted to leave Chetan and marry Ketan, says her brother in Pune murder mystery
+Sahil Goyal broke his silence on the issue, saying he never told his parents about his sister's relationship because she had told him she wanted to marry Ketan
 
-## Umar Khalid speaks on 6 years in Tihar Jail without trial: ‘Humanity a privilege, not granted to people like me’
-In his first interview since being jailed in 2020, Khalid describes the psychological toll of spending nearly six years in Delhi's Tihar Jail without a trial.
+## Manipur: Biometric registration of 500 displaced Myanmar nationals done
+The Assam Rifles initiated a biometric registration drive for displaced Myanmar nationals in Kamjong, enhancing border security and administrative planning.
 
-## Haryana man arrested in Mussoorie for attacking resident with plastic milk crate
-A video of the incident, which went viral on social media, purportedly showed the accused, Neeraj Raghav, striking a man with the crate
-
-## 'You call us jihadi, what about Ram Madhav': Owaisi's sharp attack over ‘Track 2’ talks with Pakistan
-Owaisi criticised BJP's Ram Madhav for engaging with Pak under ‘Track 2’ talks, saying Indian Muslims would be labeled as Pakistanis or jihadis for the same.
-
-## Tech updates (June 30, 2026): OnePlus N6, Galaxy A27 5G, boltt smartphones, more
+## Can key Thackeray aide Sachin Ahir be disqualified for Sena switch
 
 
-## Man not sanctioned Rs 15 lakh loan for son’s wedding, wins Rs 22,000 payout from bank
+## ‘I became too secular, film flopped’: Gadar director on why his ‘surefire hit’ failed
 
 
-## Epstein files back in focus: Trump accuser ‘Jane Doe 4’ says she’s living in fear
+## Deandra Dottin carried off by teammates, comes back to play vital knock vs AUS
 
 
-## Actor Jasmin Bhasin’s health scare puts spotlight on terminal Ileitis: What doc wants you to know
+## Kunal Kamra lashes out at Shiv Sena leader: ‘Your threats won’t stop me from doing my job’
 
 
-## From Darjeeling Tea to Baluchari Saree, West Bengal ranks 3rd in GI tags
+## In Jahangir ‘Pushpa’ Khan’s Falta fall, his wife’s arrest is a surprising blow
 
 
-## A 2-storey home for Rs 12.2 lakh: Why this New York couple dumped US for Italy
+## Relationship coach explains why women fall for emotionally unavailable men
 
 
-## ‘This takes Germany into a huge hole’: Jurgen Klinsmann after loss to Paraguay
+## Monaco parcel bomb: How Ukraine-born tycoon Vadym Yermolaiev got injured in suspected assassination bid
 
 
-## Aaditya Thackeray aide, Arun Gawli’s nephew: Sachin Ahir now in Shinde Sena
+## India committed to safe, orderly, and legal migration: Jaishankar
 
 
 ## China’s millionaire population grows slower than global average. Is the wealth boom over?
@@ -162,6 +162,9 @@ The world’s largest buyer of biopharmaceutical royalties has set up its first 
 ## Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami
 Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore
 
+## Israel Has a Hezbollah Drone Problem
+“We don’t have a solution,” an Israeli military official said.
+
 ## Britain’s New ‘King’ Will Decide Its Fate
 Andy Burnham is on the verge of taking power—and of being confronted with his own limitations.
 
@@ -183,8 +186,17 @@ Tehran insists that it has sole authority over the waterway. Washington isn’t 
 ## The Supreme Court Pushes Back on Trump’s Fed Assault
 Tampering with the Federal Reserve’s independence proved to be a bridge too far.
 
-## Farmers Worldwide Brace for El Niño
-An intense El Niño threatens to compound trade and energy pain.
+## Australia, Vanuatu Sign Security Pact
+The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra’s other regional pacts, but it remains significant in checking China’s influence.
+
+## A Mid-Year Check on US Asia Policy
+Goodbye INDOPACOM and hello (again) Middle Eastern distractions.
+
+## Sri Lanka’s Easter Blasts Probe Enters the Intelligence Architecture
+While not every arrest will lead to a conviction, the old assumption that power could delay accountability indefinitely has begun to shake.
+
+## Japan-Philippines Comprehensive Strategic Partnership
+Will the rules-based order be a beacon in troubled waters?
 
 ## How the Kem Ley Assassination Changed Cambodian Politics
 A decade on from one of the country's highest-profile political killings, democracy remains a dream rather than reality.
@@ -198,19 +210,7 @@ The maritime exploration firm Ocean Infinity will have an additional year to loc
 ## Southeast Asia’s Toxic Rivers: No Easy Solutions
 Scientists warn of a regional disaster If pollution from rare earth and gold mining in Myanmar continues to spread toxins further along the Mekong River.
 
-## What If Russia Asks Kazakhstan for Fuel?
-Kazakhstan could plug Russia's current gasoline deficit, but it's a risk. Astana struggles already with self-sufficiency.
-
-## Months After Attacks, Chinese Work Resumes on the Dushanbe-Kulma Highway
-Chinese workers have reportedly resumed construction on a critical highway along the Afghanistan-Tajikistan border where two such workers were killed in November 2025.
-
-## ‘Subversive Carrots’ and China’s Economic Influence Over the World
-“Economic statecraft is not as simple or easy as Chinese decisionmakers think or as U.S. policymakers and external observers might fear,” argues Audrye Wong, author of a new book on the topic.
-
-## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
-The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
-
-## At a Glance: American Quadcopter Component Manufacturing
+## Mapping America’s Domestic Drone Supply Chain
 The extent of China’s drone dominance — and how to decouple from it — has long been a source of debate and anxiety in Washington. Last month, the Wall Street Journal reignited controversy by publishing a visual analysis of military quadcopter components, exploring China’s advantages in parts manufac
 
 ## Lost in Translation: How A Premier Chinese Think Tank Views U.S.-Chinese Competition
@@ -258,29 +258,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Apple iPhone 18 Pro secrets leaked in Tata Electronics hack: What we know
-Documents and photos are stolen from Apple’s Indian supplier. How does this impact the US tech giant?
+## SCOTUS rules against Trump’s order limiting birthright citizenship
+The US Supreme Court has blocked President Donald Trump's executive order to end birthright citizenship.
 
-## France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups
-Kylian Mbappe's France, the title favourites for the 2026 World Cup, take on Alexander Isak's Sweden in the last 32.
+## Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large
+Search under way for suspect who fled scene after explosive device placed at entrance to building wounded three.
 
-## Islamic centre brings joy through World Cup watch parties
-At an Islamic centre in US, World Cup watch parties are giving many a place to cheer on teams chasing football history.
+## Iran to hold talks with Qatar on MoU deal with US, frozen assets
+Iran says it will hold indirect talks with mediator Qatar, to discuss implementing its MoU deal with the US.
 
-## Anti-migrant rally in South Africa demands undocumented foreigners leave
-Anti-migrant rally in South Africa demands undocumented foreigners leave.
+## US Supreme Court rules against Trump order to end birthright citizenship
+Top court's 6-3 ruling major blow to Trump, affirms nearly all infants born on US soil automatically become citizens.
 
-## South Africa deploys police as anti-immigrant protests prompt fears
-Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.
+## World Cup 2026: What are the extra-time and penalty shootout rules?
+Both Morocco vs Netherlands and Paraguay vs Germany ended in dramatic penalty shootouts.
 
-## Are US and Iranian negotiators meeting in Doha? What we know about talks
-Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.
+## What privacy settings has WhatsApp changed?
+The app said it will be rolling out usernames gradually, in a move meant to improve privacy.
 
-## Morocco player hugs mother as team celebrates win against Netherlands
-Morocco’s Ismael Saibari embraced his mother after scoring the winning penalty against Netherlands.
+## US envoys in Doha for indirect talks with Iranian technical delegation
+Iran says it has sent an expert delegation to Doha to follow up on the release of frozen Iranian funds.
 
-## Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption
-Indonesia court finds former education minister guilty of abuse of authority and of causing state losses.
+## UK’s Starmer announces 300-billion-pound defence investment plan
+Plan includes more than 5 billion pounds for drones and autonomous systems over four years, Ministry of Defence says.
+
+## India’s top 10 States by GST collections in FY26 — and who lagged behind
+India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
 
 ## ICICI Prudential Life plans 10-15% premium growth, bets on protection to outpace savings, CFO Dhiren Salian says
 ICICI Prudential Life Insurance aims for 10-15% premium growth, with protection products like term and annuity plans leading the charge. CFO Dhiren Salian highlighted that protection, currently 17% of premiums, is a key focus due to its underpenetration and higher profitability. The company is also 
@@ -302,9 +305,6 @@ The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come in
 
 ## Government extends GSTAT appeal filing deadline to July 31 amid portal rush, technical issues
 The extension applies to appeals filed under Section 112(1) read with Section 112(3) of the Central Goods and Services Tax (CGST) Act. The earlier deadline notified by the government on September 17, 2025, was June 30, 2026.
-
-## Big Four rethink partnership as AI changes the game
-India's Big Four accounting firms, Deloitte, PwC, and EY, have surpassed 1,000 partners each, driven by rapid expansion, especially in technology consulting. This growth strains the traditional partnership model, demanding leaders adept at managing diverse businesses, embracing AI, and navigating co
 
 ## RBI compounds FEMA violations in Touras India case
 The Reserve Bank of India (RBI) has issued a compounding order under Section 15 of the Foreign Exchange Management Act (FEMA), in the case of Touras India Private Limited, which has resulted in the termination of proceedings against the company for contraventions of the law's provisions with a one-t
