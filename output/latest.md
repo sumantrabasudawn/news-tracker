@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Witkoff and Kushner arrive in Doha for talks over US-Iran deal
+Mediator Qatar says there are no plans for American delegation to meet Iranian officials
+
+## ‘Unprecedented’ plane crash tests Beijing’s sense of security
+Fatal flight of a light aircraft into Chinese capital’s tallest building raises questions about its defences
+
+## Space entrepreneurs borrow some surprisingly terrestrial tactics
+Vertical integration helps to bridge the gap between today’s investments and returns that won’t come until later
+
+## Philip Morris allowed to market Zyn pouches in US as safer than smoking
+Nicotine pouches are a focus of the tobacco industry’s push to grow beyond cigarettes
+
 ## Key Burnham adviser pushes back at union call for bank tax rise
 Trades Union Congress estimates restoring previous surcharge could raise £9bn
 
@@ -12,26 +24,17 @@ CopperTech Metals’ market entry was meant to take advantage of US enthusiasm f
 ## Britain’s defence investment predicament
 After months of wrangling, Starmer’s military funding plan still came up short
 
-## AA shifts gears towards £5bn London listing
-An IPO of UK roadside recovery business could pit it against rival flotation plans by RAC
+## US stocks chalk up biggest quarterly gain in six years
+Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
 
-## Supreme Court reminds America (and Trump) what citizenship is
-The United States has always been based on the notion of welcoming newcomers from every country
-
-## Shetland Islands backs £1.5bn tunnels to boost population
-Number of residents on outer islands of the Scottish archipelago has fallen by a quarter in forty years
-
-## US Supreme Court rejects Trump’s bid to end birthright citizenship
-Ruling is major blow to president’s immigration agenda
-
-## Schroders close to selling its financial planning arm for more than £200mn
-UK asset manager aims to dispose of Benchmark Capital to Söderberg & Partners
-
-## Binance and founder sued by crypto investors in London lawsuit
-Nearly 1,700 UK users allege that world’s largest crypto exchange offered risky products without regulatory approval
+## New UK prime minister, same bond market
+Leadership changes but the debt market remains in charge
 
 ## Anthropic launches Claude Science in push for pharma revenue
 New AI product has use cases in rendering 3D protein structures and drug discovery
+
+## Schroders close to selling its financial planning arm for more than £200mn
+UK asset manager aims to dispose of Benchmark Capital to Söderberg & Partners
 
 ## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
 The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
@@ -57,6 +60,9 @@ The report sees India’s sound macroeconomic fundamentals providing ample buffe
 ## India emerges as UK’s second biggest FDI investor, creating 12,700 jobs
 The upcoming India-UK CETA expected to further strengthen bilateral investments in financial services, manufacturing, tech and clean energy
 
+## Invisible surplus widens in Q4FY26 to $90,513mn as remittances jump 30%
+
+
 ## Centre tweaks windfall tax, raises petrol export duty
 At the same time, the export duty on diesel has been cut to Rs 8.5 per litre from Rs 14 per litre, while the levy on ATF exports has been reduced to Rs 7.5 per litre from the current Rs 12.5 per litre. The ministry said the revised duties will remain effective for the fortnight beginning July 1.
 
@@ -77,9 +83,6 @@ Indian equity markets dipped Tuesday, with IT stocks leading the decline. Howeve
 
 ## Oil prices set for biggest quarterly drop since Covid as markets watch uncertain US-Iran talks
 
-
-## Nine years of GST: One tax, one market, many transformations
-India's Goods and Services Tax (GST), rolled out in 2017, has transformed indirect taxation, creating a unified national market and boosting formalisation. Collections have surged, and businesses now operate digitally, improving efficiency. Consumers benefit from reduced tax cascading and greater pr
 
 ## Monsoon expected by July 3-4 as heatwave-like conditions grip Delhi
 A cyclonic circulation over the north Bay of Bengal is likely to strengthen into a low-pressure area and move westwards, an expert said.
@@ -105,28 +108,28 @@ Umar Khalid has been in Delhi's Tihar Jail since September 2020 after being arre
 ## Kerala assembly adopts resolution demanding Centre reform NEET
 Kerala assembly urges reform of NEET and entrance exams, citing irregularities, in a resolution backed by UDF and LDF, with opposition from BJP.
 
-## France vs Sweden FIFA World Cup 2026 Match LIVE Updates: Mbappe resumes Golden Boot chase
+## Jharkhand: Cops suspended as man ‘dragged out of police car’, stabbed in brawl
 
 
-## Europe heatwave videos: From frying eggs to melting railway tracks. Here’s what’s happening
+## Late Erling Haaland winner takes Norway past Ivory Coast and into last 16
 
 
-## A plant that strangles other trees to death
+## Ahir’s exit dents Sena (UBT) in Worli, gives Shinde camp leader who built Aaditya’s political base
 
 
-## Delhi-Mumbai Expressway tunnel cutting through tiger habitat to open in Rajasthan by July-end
+## Wrong side driving challans up by 98%: Delhi Police doubles down on traffic violations
 
 
-## 2 global players to buy ‘significant’ stakes in Indian insurance firms, approvals in
+## Kullu doctor suspended amid protest over death of woman after childbirth
 
 
-## After June deficit, July to see below-normal rainfall too: IMD
+## Over 100 prominent citizens from India, Pakistan write to Modi, Shehbaz; seek end to ‘continued hostility’
 
 
-## RBI flags elevated AI stock valuations as potential risk to financial stability
+## Delhi-Mumbai e-way’s critical 8-lane tunnel in Rajasthan opens this month
 
 
-## SIR begins on shaky note as over 300 BLOs in Mumbai skip duty, seek relief from regular work
+## Weak roots, recent road work under scanner after tree collapse kills schoolboy in Chembur
 
 
 ## UK investors sue Binance and founder Zhao Changpeng for US$200 million
@@ -153,6 +156,9 @@ This article was first published by The Korea Times in a partnership with the So
 ## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
 The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
 
+## Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.
+Recent scientific reassessments strengthen the case for rapid climate action rather than weaken it.
+
 ## The European Country That Figured Out Trump’s White House
 Poland has been successful partly due to strong personal ties, but history suggests that its luck may not hold forever.
 
@@ -173,9 +179,6 @@ Even this U.S. administration is confronting limits to the politics of exit.
 
 ## Is Washington Endorsing Family Rule in Libya?
 The United States should heed its own track record of backing individuals in conflict-affected states.
-
-## U.S., Iran Prepare for Talks on Strait of Hormuz
-Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
 
 ## Australia, Vanuatu Sign Security Pact
 The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra’s other regional pacts, but it remains significant in checking China’s influence.
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LeBron James not returning to Lakers, will choose new NBA team: Report
-NBA's all-time leading scorer told Los Angeles Lakers he would not return for a ninth season with the storied franchise.
+## Five humanitarian workers killed in convoy ambush in South Sudan
+UN 'deeply saddened' by Monday attack on convoy in Jonglei State, calls for investigation.
 
-## US Supreme Court upholds transgender sports ban
-The court decided 9-0 that the state laws do not violate the Title IX civil rights statute.
+## Norway edge Ivory Coast 2–1 to enter World Cup Round of 16
+Haaland scores his fifth goal of the World Cup to set up a knockout match against Brazil in New York on Sunday.
 
-## France vs Sweden LIVE: FIFA World Cup 2026
-All our updates, live build-up, team news coverage and full text commentary stream as Mbappe's France eye last-16.
+## Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era
+Has Iran's regional deterrence been permanently degraded, or is its proxy network mutating into a resilient force?
 
-## Toddler pulled from debris six days after Venezuelan earthquakes
-A Jordanian rescue team used thermal imaging to rescue a toddler who had been trapped under rubble for six days.
+## Cuba’s foreign minister observes ‘no progress’ in US negotiations
+A top Cuban official has accused the US of issuing 'constant threats' and attempting to scuttle a UN debate.
 
-## Palestine weekly: Israel accelerates land grabs in Gaza, West Bank
-Permanent alterations begin at Hebron's Ibrahimi Mosque as plans advance for settlements in Gaza.
+## German heatwave melts tram tracks, triggers travel disruptions
+Extreme heat melted a tramway track in Leipzig and disrupted public transport after temperatures climbed to 41C (106F).
 
-## The path from Gaza to Trump’s return
-How the Biden administration’s response to October 7 reshaped US politics and influenced the 2024 presidential election.
+## How much of your life do you spend on social media?
+On world social media day, Al Jazeera breaks down the numbers.
 
-## How severe is Russia’s energy shortage because of Ukrainian strikes?
-Analysts say Russia's fuel crisis may affect its domestic economy, but the war in Ukraine will remain the priority.
+## Healthcare situation in DR Congo improves amidst Ebola crisis
+The Ebola virus continues to spread across the DR Congo but local healthcare workers say the situation has improved.
 
-## Heavy rainfall kills dozens in Ghana, Ivory Coast
-Greater Accra Regional Fire Command says crews rescued more than 400 people.
+## What happened on South Africa’s anti-migrant ‘deadline day’
+Protests in South Africa after campaign groups set June 30 as a deadline for undocumented migrants to leave the country.
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
