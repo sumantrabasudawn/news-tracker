@@ -1,130 +1,145 @@
 # AION Intelligence
 
+## EY employee charged with accessing Australian prime minister’s bank details
+Treasurer Jim Chalmers describes situation as ‘incredibly concerning’
+
+## Barclays buys Canary Wharf HQ for £750mn
+UK bank buys 999-year lease on London headquarters in one of Europe’s biggest office deals in recent years
+
+## Figuring out the Fed in the ‘say less’ era
+Plus, small-cap vulnerabilities
+
+## Scottish Power calls on regulator to securitise bad UK energy debts
+Household energy debts hit £4.8bn in the UK, adding more than £50 a year to the average bill
+
+## EU and China buy time to avoid trade fight as Brussels demands deficit cuts
+Also in this newsletter: Far-right petition pushes Meloni over mass deportation plan
+
+## EU must choose which sectors to protect or face exodus, warns Covestro chief
+Comments come as Abu Dhabi-owned German group announces investments of up to €4bn in China and the UAE
+
 ## FirstFT: How Elliott spawned a new army of activists
 Also in today’s newsletter: corporate AI users’ staff hires and Maersk raises profit guidance
+
+## Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
+Our June survey sees the Fed and Bank of England on hold with the ECB and Bank of Japan primed to raise again this year
+
+## Sainsbury’s sales growth slows as consumer caution hits retailers
+Rival supermarket Tesco also reports slowdown
 
 ## Paul Singer’s activist hedge fund factory
 Elliott Management alums have founded at least seven hedge funds since 2020
 
-## Labour can reform welfare without ‘high noon’ showdown, says McFadden
-Britain’s work and pensions secretary hopes a jobs-first drive to cut the benefits bill can avoid another backbench rebellion
-
-## Putin ties himself to ruling party as war fatigue bites
-United Russia is campaigning with the president for the first time in nearly 20 years
-
-## What would multilateral ‘AI arms control’ look like?
-Given the competition, it’s debatable whether a US-China safety deal is even possible
-
-## Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation
-Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending
-
-## Heavy corporate AI spenders add staff faster than peers
-Study of 22,000 US companies challenges fears that generative AI will trigger broad job losses
-
-## Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory
-The vaunted investor has spawned a small army of new firms mirroring Julian Robertson’s ‘Tiger cubs’
-
-## Car finance lenders say UK compensation scheme violates their human rights
+## Lenders say FCA car finance redress scheme violates their human rights
 Customer payouts on hold as groups including Volkswagen Financial Services and Crédit Agricole launch legal challenge
 
-## Wildfarmed is turning regenerative agriculture into a brand
-The grain business founded by Andy Cato of Groove Armada is going mainstream
+## India auto registrations rise 19.4% in H1FY27 as battle shifts to alternative powertrains
+VAHAN data shows PVs lead growth as EV and CNG adoption gains momentum..
 
-## Sensex today | Stock Market Live Updates: Sensex slips below 77,000, Nifty holds near 23,900 in volatile monthly expiry session
-Sensex, Nifty, Share Prices LIVE: Benchmarks opened higher on Tuesday morning but pared early gains amid monthly derivatives expiry and continuing uncertainty over US-Iran negotiations. At 10:01 am, Nifty shed 65.50 pts (-0.27%) to 23,880.75, while Sensex dropped 171.21 pts (-0.22%) to 76,557.16
+## Gold set for biggest quarterly fall since 2013 on hawkish Fed stance
+Spot gold rose 0.2% to $4,026.17 per ounce by 0732 GMT but is down 11.2% in June, potentially marking its fourth consecutive monthly decline
 
-## Rupee falls 7 paise to 94.58 against US dollar in early trade
-Forex traders said the losses for the rupee were partly cushioned by relatively stable crude oil prices globally.
+## Private sector drives rise in India's external debt as government debt declines: RBI
+RBI data showed that India's external debt increased by $26.3 billion over its level at the end of March 2025
 
-## Yes Bank shares slip; ₹16,000-crore fundraise nod, ₹879-crore tax refund
-The stock remains below its 52-week high of ₹25.78, hit on June 18, while comfortably above its 52-week low of ₹17.20 from March 30
+## India’s rooftop solar boom meets a grid reality check
+Maharashtra’s new grid charges and Karnataka’s tariff changes could increase electricity costs for residential, commercial and industrial rooftop solar users by 20–30%, extending project payback periods from about four years to seven to nine years
 
-## Delhi EV policy lifts auto and EV stocks: Ather Energy jumps 4% to fresh 52-week high
-Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
+## Roca Introduces Touch-T: A New Benchmark in Thermostatic Shower Systems
+Roca Introduces Touch-T: A New Benchmark in Thermostatic Shower Systems
 
-## "India main counterbalance to China", says US Senator Daines
-“The relationship we have between the United States and India is not only important for our two countries; I think it’s important for the world,” Daines said
+## Sensex today | Stock Market Live Updates: Sensex flat, Nifty tests 23,900 in choppy trade; Eicher Motors, TCP, Infosys, Wipro, TCS among top losers
+Sensex, Nifty, Share Prices LIVE: Benchmark equity indices traded in a narrow range after witnessing sharp intraday swings on Tuesday, as uncertainty over the next round of US-Iran negotiations in Doha kept investors cautious. However, broader markets outperformed the benchmarks, with buying interes
 
-## Coast Guard rescues 6 fishermen off Mangaluru coast
-ICG Ship Sachet intercepted and responded to a VHF RT distress call from the fishing boat that reported severe flooding and hull damage due to rough sea conditions
+## Due date for filing appeal before GSTAT extended till July 31
+Earlier, the due date was June 30
 
-## Heavy rains likely in Western Ghats region of TN
-The maximum temperatures are likely to be above normal during the day from June 30 till July 3 over Tamil Nadu, Puducherry and Karaikal area
+## Radico Khaitan launches six tiger-themed whisky editions, ties up with Corbett Foundation for conservation
+750 ml packs priced at ₹1,680 to debut in Delhi, Haryana, Uttar Pradesh
 
-## Trump's visit to India will happen ‘sooner rather than later’, says US Envoy Gor
-Gor further confirmed that Prime Minister Modi is projected to travel to the United States to attend the high-profile G20 Summit in December 2026
+## Centre extends GSTAT appeal deadline to July 31 after portal glitches
+The government has granted taxpayers an extra month to file appeals with the Goods and Services Tax Appellate Tribunal (GSTAT), extending the deadline to July 31, 2026. This decision follows concerns over technical issues on the GSTAT portal due to a recent surge in filings. The extension aims to en
 
-## India’s economy could hit $7 trillion this decade, double by mid-2030s
-India's economy is projected to reach $7 trillion by 2030, with ambitions for $14 trillion by mid-2030s and $25-30 trillion by 2047, according to Ambassador Vinay Mohan Kwatra. Meanwhile, the US Ambassador to India, Sergio Gor, expressed optimism about finalizing an interim trade deal soon and hinte
+## Strait back in business: Hormuz traffic picks up again as supertankers slide through the passage
+The Strait of Hormuz is seeing a welcome return of maritime traffic after a period of intense tension. Following recent attacks and subsequent retaliatory strikes, crude carriers are cautiously re-entering the Persian Gulf. Data indicates a significant increase in commodity vessel transits, signalin
 
-## 'We're in the final steps': US ambassador Sergio Gor signals progress on India-US trade deal
-US Ambassador Sergio Gor announced that the US-India trade agreement is in its final stages, with only a small percentage of issues remaining. He expressed confidence in a swift conclusion after 18 months of talks, highlighting the pact's potential to bring greater certainty and stability for busine
+## Japanese Yen hits four-decade low against US dollar - why the currency is depreciating
+The last time the yen traded at these levels, it was moving in the opposite direction, strengthening during a prolonged rally that followed a currency agreement brokered by the United States.
 
-## Top stocks to buy today: Stock market recommendations for June 30, 2026 - check list
-Stock market recommendations: JSW Energy, Biocon, BHEL, and City Union Bank - these are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for June 30, 2026:
+## Jio IPO: What is Project Jupiter? How Mukesh Ambani’s Reliance worked behind closed doors for India's biggest offering
+Reliance engaged with regulators to secure greater flexibility in IPO rules, encouraging key investors to divest their holdings, and designing the country's largest public offering while keeping its structure under wraps. The highly confidential initiative was internally code-named Project Jupiter, 
 
-## Gold, Silver Rate Today Live Updates: Gold prices tank over 1%, set for fourth consecutive monthly decline
+## Want to invest in US stocks via GIFT City? How Indian brokers plan to make it easier
+Leading Indian discount brokers are set to launch overseas investing via GIFT City, simplifying access to global stocks like Apple and Tesla for Indian investors. This move, facilitated by GIFT City's regulatory framework, allows investments as low as $1 through fractional ownership. Funds are trans
 
+## Gold price prediction today: Why gold prices are unlikely to rise much in near-term; check June 30, 2026 outlook
+Gold price prediction today: Gold prices are expected to continue being under pressure in the near-term as rate hike fears feed into a stronger dollar, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## Oil prices ease as investors await US-Iran talks; Brent crude falls to $72 per barrel
-Oil prices dipped as markets weighed potential US-Iran talks in Doha against ongoing regional instability. Despite recent missile exchanges and attacks on ships, crude shipments through the Strait of Hormuz have seen an uptick. Investors are cautiously optimistic about diplomatic efforts, though tan
+## OYO parent Prism files updated IPO papers for Rs 6,650 crore issue: What investors should know
+Hospitality firm Prism, parent of OYO, has filed updated papers for a Rs 6,650 crore IPO, comprising only a fresh issue of shares. The company plans to use most proceeds to repay borrowings. Prism reported a significant jump in revenue and profit for the first nine months of FY26, driven by its US b
 
-## MSMEs’ micro segments begin seeing stress
+## Pakistan backtracks on energy gamble, buys emergency LNG as Qatar exports stay in limbo
+Pakistan has urgently secured a liquefied natural gas shipment amid ongoing disruptions in the Strait of Hormuz impacting Qatari exports. The nation's energy supply chain faces strain due to regional tensions, forcing reliance on costly spot market purchases. These incidents, including attacks on ve
 
+## No bail for Asaram now: SC seeks state’s reply on challenge to rape conviction
+The bench issued notice to Raj govt on Asaram’s plea challenging HC verdict but made it clear that no interim relief would be granted without hearing the state
 
-## ‘Reforms have made data more credible’, says PK Mishra
+## India backs FATF in veiled dig at Pakistan: 'Attempts to question reflect fear of scrutiny'
+India called the FATF an “indispensable” pillar of global counterterrorism financing, and took a veiled dig at Pakistan.
 
+## How to reserve your WhatsApp username: A step-by-step guide
+The feature is being introduced in phases, meaning it may not be available to all users immediately.
 
-## Metro premium: Bigger cities, higher pay
+## Paid money for food, beaten, 'shoot' threat: Shocking allegations against IPL star Shashank Singh in cook abuse case
+In a written complaint, 31-year-old Vipendra Singh Tomar claimed that he had endured verbal and physical abuse at the cricketer's house.
 
+## Road-owning agencies asked to complete digital inventory, survey of bridges
+The survey is being done under a new Indian Bridge Management System (IBMS) aimed at improving safety through continuous monitoring
 
-## ‘Shashank Singh, his father beat me up like a dog’: IPL star's cook alleges assault, case filed
-The cook said he decided not want to work there on the first day of his job after observing abusive work environment and realising that the work was too much.
+## Air India to deploy its upgraded B777 aircraft on Delhi-Melbourne route from July 1
+Air India said that the passengers will have enhanced inflight entertainment, with a richer and more diverse content library across movies, shows and music.
 
-## Bengaluru physiotherapist found dead, boyfriend unconscious at Karnataka homestay
-Police recovered a rope, a large number of tablets, alcohol bottles, signs of vomiting and a pillow from the room.
+## DMK chief MK Stalin's mother Dayalu Ammal hospitalised in Chennai
+Dayalu Ammal, mother of DMK president M K Stalin, was admitted to a Chennai hospital after her health worsened.
 
-## Gujarat’s first 3 regional investment conferences attracted ₹13.3 lakh crore in MoUs: CM
-The earlier editions of the regional conferences, held in Mehsana, Rajkot and Surat, had together attracted investment proposals worth about ₹13.30 lakh crore through 9,499 MoUs,
+## How donations were counted at Ayodhya's Ram temple and how it differed from other UP temples
+Investigators examining the donation-counting process at the Shri Ram Janmabhoomi Teerth Kshetra Trust have identified lapses in handling the cash.
 
-## Massive fire breaks out in naphtha-carrying pipeline at refinery in Bengal's Haldia; 20 injured
-The fire broke out early in the morning, and six of the 20 people injured are in a critical state and are being shifted to a hospital in Kolkata.
-
-## Thieves break into home of Twisha's mother-in-law Giribala Singh; her family fears crime scene tampering
-After the theft, Twisha Sharma's family has urged the CBI to secure all documents at the site, fearing a potential attempt to tamper with the crime scene.
-
-## Modi set for US visit in December; his bond with Trump was ‘envy of world’: Envoys
-US Ambassador to India Sergio Gor said Secretary of State Marco Rubio had extended an invitation to Modi during his recent visit to India.
-
-## ‘Wants to divide country', ‘tukde tukde gang’: BJP chief's sharp attacks on Cockroach Janta Party
-While addressing students at an engineering college near Hyderabad, Nitin Nabin remarked that India's youth is not anti-establishment.
-
-## How does WhatsApp's new username feature work? Here's how you can chat without phone number
-WhatsApp is rolling out username reservations, allowing users to claim a unique handle for privacy. The rollout will occur gradually over the coming months.
-
-## Houses wrecked, towns cut off: How Arunachal, Assam fight raging floods
+## Bengaluru cop held on Pocso charges after video exposes ‘abuse of minor boys’
 
 
-## Harmanpreet Kaur to lead full-strength Indian women’s squad at Asian Games 2026
+## UAE’s first passenger train begins service: Inside Etihad Rail’s inaugural journey
 
 
-## Saif Ali Khan decodes complicated relationship with paparazzi: ‘My life was fine…’
+## Akanksha Chamola reveals reason for divorce from Gaurav Khanna; an expert on clarity
 
 
-## Alia Bhatt’s smart device thought she was ‘under a lot of stress’ on Samay Raina’s show
+## ‘He started bleeding’: Kayadu Lohar recalls hitting her harasser with stone as a student
 
 
-## Akanksha Chamola-Gaurav Khanna divorce: ‘He wants kids, I want to be child-free’
+## Kobo now syncs with StoryGraph, offering an alternative to Kindle-Goodreads
 
 
-## ‘Can prediabetes cause both high and low blood sugar levels?’
+## UPSC Mains Answer Practice — GS 3 : Sustainable development and digital payment fraud compensation (Week 161)
 
 
-## Delhi University releases schedule for PG upgrade, mid-entry for CSAS 2026-27 admissions
+## Justice Muralidhar’s UN Report indicts Israel for targeting Palestinian children. Civil society must act
 
 
-## Daily Briefing: Why Delhi’s EV Policy is betting big on two-wheelers
+## No Lebanon land ambitions, but will stay until Hezbollah disarmed: Israel
 
+
+## Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play
+Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put investors on tenterhooks. The Hang Seng Index dropped 11 per cent in the January-to-Ju
+
+## OTP gives Hong Kong a vote of confidence as European banks look East
+The way European banks fund themselves is quietly shifting. Geopolitical fragmentation, rising financing costs and increasingly unstable global energy supplies are pushing lenders to look beyond their traditional capital markets. And Hong Kong, which central and eastern European institutions rarely 
+
+## Energy storage sector tested as China sets 60-day payment cap in anti-involution campaign
+Beijing’s campaign to curb disorderly low-price market competition – neijuan in Chinese or involution – has reached the energy storage sector, with new rules shortening payment cycles and the financial pressure expected to ripple through leading players. A payment cap, released by the China Automoti
+
+## Chinese EV makers gain traction in South Korea’s import car market despite uphill battle
+This article was first published by The Korea Times in a partnership with the South China Morning Post. When Choi, a 35-year-old office worker in South Korea, started looking for her next car, she did not expect Chinese electric vehicle (EV) brand BYD to make her shortlist. “I’ve wanted an electric 
 
 ## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
 The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
@@ -137,18 +152,6 @@ Shanghai has been urged to build itself into a hub serving the rising outbound i
 
 ## US Supreme Court boosts Trump’s power to fire officials, but Fed’s Cook keeps job
 The US Supreme Court on Monday fortified President Donald Trump’s powers to fire members of independent government agencies, but carved out protections for the Federal Reserve by blocking the firing of Governor Lisa Cook. In a 6-3 ruling, the court’s conservative majority rejected a challenge by Dem
-
-## Fosun breaks ground at Shaw Brothers Movietown residential project
-China’s Fosun Group began construction of its first residential project in Hong Kong, encapsulating the recovery of the city’s property sector as it transforms the Shaw Brothers’ Movietown studio complex in Clear Water Bay. At the groundbreaking ceremony, Guo Guangchang, chairman of Fosun Internatio
-
-## Pandora, Swarovski lose traction in China as shoppers shift to gold and lab-grown diamonds
-Once popular among young Chinese consumers, Danish affordable jeweller Pandora and Austria’s Swarovski have closed a large number of their mainland stores amid lost brand appeal, as shoppers now prefer high-end luxury goods or value-preserving products like gold. Copenhagen-listed Pandora was at its
-
-## Chinese self-driving firm Momenta eyes US$750m in Hong Kong IPO
-Chinese self-driving technology start-up Momenta kicked off bookbuilding on Monday for a HK$5.89 billion (US$751 million) share listing on the Hong Kong stock exchange, testing market sentiment amid a sales slump in China’s car industry. The company is offering nearly 19.94 million shares at HK$295.
-
-## Northern Metropolis: Hong Kong launch pad for Chinese firms
-–
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
@@ -174,6 +177,18 @@ Europeans are gaming out their future defense, and it’s unthinkable without Ky
 ## Europe Will Never Be an AI Superpower
 But it’s not too late for the continent to claim some technological independence for itself.
 
+## How the Kem Ley Assassination Changed Cambodian Politics
+A decade on from one of the country's highest-profile political killings, democracy remains a dream rather than reality.
+
+## Arrests Spike as Vietnam Sees New ‘Wave of Repression,’ Rights Group Says
+The Bangkok-based advocacy group Project88 documented 56 political arrests last year, the most in any year since 2018.
+
+## Malaysia Extends Search for Missing Malaysia Airlines Flight MH370
+The maritime exploration firm Ocean Infinity will have an additional year to locate the wreckage of the Boeing 777 airliner, which vanished without trace in 2014.
+
+## Southeast Asia’s Toxic Rivers: No Easy Solutions
+Scientists warn of a regional disaster If pollution from rare earth and gold mining in Myanmar continues to spread toxins further along the Mekong River.
+
 ## What If Russia Asks Kazakhstan for Fuel?
 Kazakhstan could plug Russia's current gasoline deficit, but it's a risk. Astana struggles already with self-sufficiency.
 
@@ -186,17 +201,11 @@ Chinese workers have reportedly resumed construction on a critical highway along
 ## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
 The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
 
-## To Compete in the Pacific, the US Needs to Move Past Zero-Sum Alignment
-The U.S. wants explicit alignment, but China’s more flexible approach to strategic competition resonates with Pacific Island states.
+## At a Glance: American Quadcopter Component Manufacturing
+The extent of China’s drone dominance — and how to decouple from it — has long been a source of debate and anxiety in Washington. Last month, the Wall Street Journal reignited controversy by publishing a visual analysis of military quadcopter components, exploring China’s advantages in parts manufac
 
-## China’s New Investment Regulations Block Strategic Technology Transfer
-By adding legal backup to state control of Chinese private companies, Decree No. 837 affects any country receiving their investments. This regulation matters well beyond China itself.
-
-## How Land Swaps Are Reshaping Border Politics Between Uzbekistan and Kyrgyzstan
-A region once associated with security crises, mined frontiers, and closed border crossings is increasingly characterized by negotiation, pragmatic compromise, and regional connectivity.
-
-## Why Central Asia Is Turning to Putin for Nuclear Power
-Will Central Asia’s fix for its energy crisis merely trigger another?
+## Lost in Translation: How A Premier Chinese Think Tank Views U.S.-Chinese Competition
+On May 13, 2026, Air Force One landed in Beijing for President Donald Trump’s first state visit to China in nearly a decade. That same morning, the China Institutes of Contemporary International Relations published a report titled The Evolving World and the Right Way to China-US Coexistence. The sum
 
 ## The Ukrainian Push for Long-Term Strategic Planning
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -215,12 +224,6 @@ Nuclear policy debates are at their best when they force hard questions about ri
 
 ## Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory
 To understand how close Myanmar’s pro-democracy resistance came to victory last year — and how far it has slipped since — there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven “Spring Revolution” a vivid foil t
-
-## The 2026 War on the Rocks Summer Fiction Reading List
-You can tell a lot about a person from what fiction they keep on their nightstand. Once a year, we make the staff, contributing editors, and show hosts of War on the Rocks tell on themselves.Kerry AndersonThe Midnight Library, Matt Haig (2020). Drawing on evergreen themes from books and movies such 
-
-## Open Strait, Unsettled Waters
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOn June 17, U.S. President Donald Trump and Iranian President Masoud Pezeshkian separately signed a memorand
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,29 +249,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pakistan-administered Kashmir returns to daily life after deadly protests
-Shops reopened and public transport services partially resumed in Pakistan-administered Kashmir after weeks of protests.
+## How each prime minister broke Britain’s economy
+How each prime minister broke Britain’s economy
 
-## Nerves and tears as Germany exits World Cup on penalties
-Germany fans watched from Berlin’s Sony Centre as Paraguay stunned the four-time world champion 4-3 on penalties.
+## At the World Cup, the media has set up a moral checkpoint
+While US and European players just get to play football, Global South footballers are questioned about politics.
 
-## Trump tells US petrol retailers to reduce prices ‘immediately’
-US president warns of 'big problems' if retailers do not cut prices at the pumps, condemns illegal gouging.
+## DR Congo says 1,307 Ebola cases confirmed, including 377 deaths
+Outbreak spreads to a fourth province, Haut-Uele, bordering South Sudan and the CAR, according to a media report.
 
-## Morocco reach World Cup last-16 with dramatic shootout win over Netherlands
-Morocco came from behind to knock the Netherlands out in the round of 32, beating them 3-2 on penalties.
+## Social media calculator: How much of your life is spent on social media?
+The average user spends roughly two hours, 39 minutes on social media daily, adding up to more than 40 days a year.
 
-## How Germany were handed a World Cup humbling and what it means to Paraguay
-As well as Gill's heroics, Paraguay's unlikely victory was founded on coach Alfaro's unshakeable faith in his defenders.
+## WhatsApp to let users go by usernames, not phone numbers
+WhatsApp says the feature is designed to give its three billion users a new layer of control over who can contact them.
 
-## US education faces ‘a crisis for low-wealth students’
-Andre Perry tells This is America that going to college still pays, but low-wealth students carry most of the debt.
+## Peru elects Keiko Fujimori in victory for Latin American right
+Peru's conservative president-elect Keiko Fujimori vows that the ‘doors to dialogue will always be open.’
 
-## Police hunt for suspect after three wounded in Monaco blast
-Ukrainian oligarch reported to be among injured in explosion at residential building in the Mediterranean principality.
+## What is Iran looking for in any upcoming talks with the US?
+Strait of Hormuz, frozen funds, Lebanon at forefront of the minds of Iran's negotiators ahead of potential talks.
 
-## Mourners light candles after deadly German shelter shooting
-Residents lit candles on Monday evening near the site of a shooting that killed six staff members at a German shelter.
+## In pictures: Venezuela earthquakes death toll surpasses 1,700
+Rescuers race to find survivors in Venezuela's quake-hit areas as families cling to hope amid widespread devastation.
+
+## Exclusive: MCA set to notify SA 600, 40 revised audit standards by August
+The notification will conclude one of the most significant regulatory exercises in India's audit landscape in recent years, aimed at strengthening audit quality and updating the country's auditing framework in line with evolving international standards.
+
+## Government extends GSTAT appeal filing deadline to July 31 amid portal rush, technical issues
+The extension applies to appeals filed under Section 112(1) read with Section 112(3) of the Central Goods and Services Tax (CGST) Act. The earlier deadline notified by the government on September 17, 2025, was June 30, 2026.
 
 ## HDFC Bank appoints Puneet Sharma as CFO
 HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effective December 1, 2026, bringing over 26 years of financial expertise from Axis Bank. Jigar Shah will join as General Counsel from October 1, 2026. Additionally, former Finance Secretary Rajiv Kumar is set to become the ba
@@ -287,12 +296,6 @@ India's Big Four accounting firms, Deloitte, PwC, and EY, have surpassed 1,000 p
 
 ## Plan afoot to create index for unincorporated enterprises
 The index, proposed by the ministry of statistics and programme implementation (MoSPI), will provide insights into the health of the large yet often difficult-to-measure informal sector.
-
-## Syrma SGS eyes 5x growth in five years, targets $2 billion revenue: CFO Bijay Agrawal
-Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in five years, driven by backward integration into PCB manufacturing with a Rs 1,700 crore investment and expansion into defence and healthcare. The company, already seeing strong growth, leverages customer order visibilit
-
-## China, India see top firms lose market cap share in AI lag
-Major stock markets in China, India, and Hong Kong are lagging in the global AI race, with top companies now holding a smaller market share. This contrasts with Taiwan and South Korea, where AI leaders have significantly boosted their benchmarks. While diversification can offer stability, the absenc
 
 ## "It's in last 1 or 2%": US envoy Sergio Gor declares India-US trade pact nears finish line
 Dismissing rumours of diplomatic friction, United States Ambassador to India Sergio Gor on Monday (local time) announced that the highly anticipated India-US bilateral trade agreement is on the verge of completion, with negotiators hammering out the final "1 or 2 per cent" of the legal text.
