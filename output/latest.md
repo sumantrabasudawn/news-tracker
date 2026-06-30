@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Investigation into maternity care in England finds ‘overall system failure’
-Government accepts proposal to appoint a national maternity and neonatal commissioner
+## FirstFT: How Elliott spawned a new army of activists
+Also in today’s newsletter: corporate AI users’ staff hires and Maersk raises profit guidance
 
-## UK regulator waters down landmark crypto rules
-FCA eases capital and disclosure requirements after complaints that incoming digital assets regime was too onerous
+## Paul Singer’s activist hedge fund factory
+Elliott Management alums have founded at least seven hedge funds since 2020
 
-## ‘Tooth fairy’ payout nears £5 as UK childhood finances overtake inflation
-Annual survey also shows the average child gets £10 per week in pocket money
+## Labour can reform welfare without ‘high noon’ showdown, says McFadden
+Britain’s work and pensions secretary hopes a jobs-first drive to cut the benefits bill can avoid another backbench rebellion
 
-## Chinese exile Miles Guo given 30 years in prison for $550mn fraud
-Businessman had fled to the US claiming persecution and then allied himself with the Maga movement
+## Putin ties himself to ruling party as war fatigue bites
+United Russia is campaigning with the president for the first time in nearly 20 years
 
-## Ethiopia makes deal to cut payments on $1bn bond
-Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
+## What would multilateral ‘AI arms control’ look like?
+Given the competition, it’s debatable whether a US-China safety deal is even possible
 
-## Keir Starmer to unveil defence plan with £5bn for drones
-Long-delayed blueprint is unlikely to end military figures’ calls for more funding
+## Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation
+Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending
 
-## FirstFT: Supermicro’s Taiwan offices raided in chip smuggling investigation
-Also in today’s newsletter: China grounds light aircraft after Beijing crash and foreign investors fear Japan is backsliding on reform
+## Heavy corporate AI spenders add staff faster than peers
+Study of 22,000 US companies challenges fears that generative AI will trigger broad job losses
 
-## Foreign investors fear Japan is backsliding on reform
-Pendulum ‘swinging back towards economic nationalism’, warns one private equity executive
+## Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory
+The vaunted investor has spawned a small army of new firms mirroring Julian Robertson’s ‘Tiger cubs’
 
-## Maersk raises profit guidance as new US tariffs fuel demand
-American companies rush to stockpile goods ahead of fresh round of levies
+## Car finance lenders say UK compensation scheme violates their human rights
+Customer payouts on hold as groups including Volkswagen Financial Services and Crédit Agricole launch legal challenge
 
-## Supermicro Taiwan offices raided in chip smuggling probe
-Server maker’s shares fell about 8% after news of the investigation
+## Wildfarmed is turning regenerative agriculture into a brand
+The grain business founded by Andy Cato of Groove Armada is going mainstream
 
-## BT’s turnaround is in the home stretch
-A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
+## Sensex today | Stock Market Live Updates: Sensex slips below 77,000, Nifty holds near 23,900 in volatile monthly expiry session
+Sensex, Nifty, Share Prices LIVE: Benchmarks opened higher on Tuesday morning but pared early gains amid monthly derivatives expiry and continuing uncertainty over US-Iran negotiations. At 10:01 am, Nifty shed 65.50 pts (-0.27%) to 23,880.75, while Sensex dropped 171.21 pts (-0.22%) to 76,557.16
 
-## Former Tory MP pleads guilty to cheating over bets on 2024 election date
-Craig Williams used inside information from his role as a parliamentary aide to Rishi Sunak
+## Rupee falls 7 paise to 94.58 against US dollar in early trade
+Forex traders said the losses for the rupee were partly cushioned by relatively stable crude oil prices globally.
 
-## Comcast’s Hollywood break-up marks its GE moment
-Owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders
+## Yes Bank shares slip; ₹16,000-crore fundraise nod, ₹879-crore tax refund
+The stock remains below its 52-week high of ₹25.78, hit on June 18, while comfortably above its 52-week low of ₹17.20 from March 30
 
-## Persistent Systems shares tumble 11% after Nagarro acquisition
-The sharp decline in the stock came as investors assessed the size, valuation and integration implications of the proposed acquisition
+## Delhi EV policy lifts auto and EV stocks: Ather Energy jumps 4% to fresh 52-week high
+Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
 
-## I&B Ministry constitutes study group to assess challenges faced by cinema sector
-To speed up development of cinema infrastructure, the Ministry has also prepared a set of model rules for states to put into practice
+## "India main counterbalance to China", says US Senator Daines
+“The relationship we have between the United States and India is not only important for our two countries; I think it’s important for the world,” Daines said
 
-## HDFC Bank’s board approves former CEC Rajiv Kumar as its PT Chairman
-Kumar, who retired as Finance Secretary in February 2020 and later also served as the 25th Chief Election Commissioner of India, is appointed as an Additional Director with effect from June 30, 2026 for 4 years
+## Coast Guard rescues 6 fishermen off Mangaluru coast
+ICG Ship Sachet intercepted and responded to a VHF RT distress call from the fishing boat that reported severe flooding and hull damage due to rough sea conditions
 
-## Telangana mulls export policy for rice
-Telangana Civil Supplies Minister Uttam Kumar Reddy says state consumes barely one-tenth of total rice produced
+## Heavy rains likely in Western Ghats region of TN
+The maximum temperatures are likely to be above normal during the day from June 30 till July 3 over Tamil Nadu, Puducherry and Karaikal area
 
-## US pips China as largest buyer of Indian spices in FY26
-China’s offtake of cumin and chillies declined sharply on higher domestic production
+## Trump's visit to India will happen ‘sooner rather than later’, says US Envoy Gor
+Gor further confirmed that Prime Minister Modi is projected to travel to the United States to attend the high-profile G20 Summit in December 2026
 
-## Exits from gold ETFs last week surged to year’s highest
-WGC data show that as the precious metal slumped to near $4,000/oz, outflows were nearly $7 for every $1 investment in the funds
+## India’s economy could hit $7 trillion this decade, double by mid-2030s
+India's economy is projected to reach $7 trillion by 2030, with ambitions for $14 trillion by mid-2030s and $25-30 trillion by 2047, according to Ambassador Vinay Mohan Kwatra. Meanwhile, the US Ambassador to India, Sergio Gor, expressed optimism about finalizing an interim trade deal soon and hinte
 
-## India’s kharif acreage down 23%, as deficient monsoon begins to impact sowing
-Area under all crops reported at 182.72 lakh hectares against 236.46 lakh hectares a year ago
+## 'We're in the final steps': US ambassador Sergio Gor signals progress on India-US trade deal
+US Ambassador Sergio Gor announced that the US-India trade agreement is in its final stages, with only a small percentage of issues remaining. He expressed confidence in a swift conclusion after 18 months of talks, highlighting the pact's potential to bring greater certainty and stability for busine
 
-## NIIF to get additional ₹30,000 crore, Finance Ministry announces
-With this, the government’s commitment to this fund now stands at ₹60,000 crore
+## Top stocks to buy today: Stock market recommendations for June 30, 2026 - check list
+Stock market recommendations: JSW Energy, Biocon, BHEL, and City Union Bank - these are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for June 30, 2026:
+
+## Gold, Silver Rate Today Live Updates: Gold prices tank over 1%, set for fourth consecutive monthly decline
+
+
+## Oil prices ease as investors await US-Iran talks; Brent crude falls to $72 per barrel
+Oil prices dipped as markets weighed potential US-Iran talks in Doha against ongoing regional instability. Despite recent missile exchanges and attacks on ships, crude shipments through the Strait of Hormuz have seen an uptick. Investors are cautiously optimistic about diplomatic efforts, though tan
 
 ## MSMEs’ micro segments begin seeing stress
 
@@ -72,74 +78,65 @@ With this, the government’s commitment to this fund now stands at ₹60,000 cr
 ## Metro premium: Bigger cities, higher pay
 
 
-## National investment fund gets another Rs 30,000 crore boost
+## ‘Shashank Singh, his father beat me up like a dog’: IPL star's cook alleges assault, case filed
+The cook said he decided not want to work there on the first day of his job after observing abusive work environment and realising that the work was too much.
+
+## Bengaluru physiotherapist found dead, boyfriend unconscious at Karnataka homestay
+Police recovered a rope, a large number of tablets, alcohol bottles, signs of vomiting and a pillow from the room.
+
+## Gujarat’s first 3 regional investment conferences attracted ₹13.3 lakh crore in MoUs: CM
+The earlier editions of the regional conferences, held in Mehsana, Rajkot and Surat, had together attracted investment proposals worth about ₹13.30 lakh crore through 9,499 MoUs,
+
+## Massive fire breaks out in naphtha-carrying pipeline at refinery in Bengal's Haldia; 20 injured
+The fire broke out early in the morning, and six of the 20 people injured are in a critical state and are being shifted to a hospital in Kolkata.
+
+## Thieves break into home of Twisha's mother-in-law Giribala Singh; her family fears crime scene tampering
+After the theft, Twisha Sharma's family has urged the CBI to secure all documents at the site, fearing a potential attempt to tamper with the crime scene.
+
+## Modi set for US visit in December; his bond with Trump was ‘envy of world’: Envoys
+US Ambassador to India Sergio Gor said Secretary of State Marco Rubio had extended an invitation to Modi during his recent visit to India.
+
+## ‘Wants to divide country', ‘tukde tukde gang’: BJP chief's sharp attacks on Cockroach Janta Party
+While addressing students at an engineering college near Hyderabad, Nitin Nabin remarked that India's youth is not anti-establishment.
+
+## How does WhatsApp's new username feature work? Here's how you can chat without phone number
+WhatsApp is rolling out username reservations, allowing users to claim a unique handle for privacy. The rollout will occur gradually over the coming months.
+
+## Houses wrecked, towns cut off: How Arunachal, Assam fight raging floods
 
 
-## Persistent CEO backs protocols amid Nagarro stock rally scrutiny
+## Harmanpreet Kaur to lead full-strength Indian women’s squad at Asian Games 2026
 
 
-## Pramit Jhaveri makes comeback, to join Tata-run NCPA board
+## Saif Ali Khan decodes complicated relationship with paparazzi: ‘My life was fine…’
 
 
-## Manufacturing powers industrial output growth of 5.1%
+## Alia Bhatt’s smart device thought she was ‘under a lot of stress’ on Samay Raina’s show
 
 
-## Quick commerce race intensifies as Amazon, Flipkart level up
+## Akanksha Chamola-Gaurav Khanna divorce: ‘He wants kids, I want to be child-free’
 
 
-## Aarogya Setu 2.0 launched as personal health record app
-Union health minister JP Nadda launched revamped Aarogya Setu as a personal health record app and introduced a unified health interface to enhance digital health services.
-
-## Gen Seth to assume charge as army chief
-General Dhiraj Seth becomes India’s Chief of Army Staff on Tuesday, focusing on modernization and reform as the army braces for future conflicts.
-
-## How Eklavya model is changing trajectory of tribal students
-Rohit Nitwal, an EMRS alum, exemplifies how India's tribal education programme transforms lives, bridging communities to global opportunities.
-
-## Bihar guv, MoS for external affairs set to attend Khamenei’s funeral
-Indian Minister Pabitra Margherita and Bihar Governor Syed Ata Hasnain will attend the funeral of Iran’s ex-leader Khamenei on July 4, signaling ties with Tehran.
-
-## HDFC Bank appoints former Chief Election Commissioner Rajiv Kumar to top position
-Appointment ends months-long search after Atanu Chakraborty stepped down in Mar, citing "certain happenings" within the bank "not in congruence" with ethics
-
-## ‘Incorrect, without any basis’: Army rejects reports of fresh Chinese encroachment in Arunachal
-The Indian Army has rejected reports of Chinese PLA setting up of camps in Arunachal Pradesh.
-
-## SBI sought to replace Ram Temple's cash-counting staff months ago, Trust refused: Report
-SBI suspected that someone was siphoning money from the temple's donation boxes and wanted to remove the outsourced staff.
-
-## ‘Direct threat to regional peace’: India slams Pakistan for attacks on Afghanistan
-MEA says “blatant act of aggression by Pakistan is an assault on Afghanistan's sovereignty” and the strikes show its “persistent pattern of reckless behaviour”
-
-## Delhi Confidential: Missed Chance
+## ‘Can prediabetes cause both high and low blood sugar levels?’
 
 
-## Germany eliminated by Paraguay in penalty shootout after disallowed goal
+## Delhi University releases schedule for PG upgrade, mid-entry for CSAS 2026-27 admissions
 
 
-## Russian strikes across Ukraine kill at least 10, injure dozens
+## Daily Briefing: Why Delhi’s EV Policy is betting big on two-wheelers
 
 
-## Courts must remain vigilant guardians of constitutional supremacy: CJI Surya Kant in Sweden
+## Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge
+The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs. 
 
-
-## Mamata Banerjee era’s OBC quota law amended, but passage of Bills exposes chinks in rebel TMC group
-
-
-## Netherlands vs Morocco, FIFA World Cup 2026 Live Score: MOR hoping for repeat of Qatar 2022
-
-
-## Government sets up study group to strengthen film industry; Prasoon Joshi to lead team
-
-
-## Ludo, some cleaning, then ‘murder’: Cellmate ‘confesses’ to killing Chambal dacoit Jagan Gurjar
-
+## Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami
+Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore
 
 ## Shanghai should step up as finance hub, as Hong Kong ‘not enough’, proposal says
 Shanghai has been urged to build itself into a hub serving the rising outbound investment needs of Chinese firms, potentially increasing rivalry with Hong Kong as both cities race to augment their status as financial centres. The suggestion by Liu Xiaochun, vice-president of the Shanghai Finance Ins
 
-## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
-The US Supreme Court refused on Monday to let President Donald Trump ⁠fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank’s cherished independence against an unprecedented challenge. The court, in a 5-4 ruling, blocked Trump’s bid to become the first president to re
+## US Supreme Court boosts Trump’s power to fire officials, but Fed’s Cook keeps job
+The US Supreme Court on Monday fortified President Donald Trump’s powers to fire members of independent government agencies, but carved out protections for the Federal Reserve by blocking the firing of Governor Lisa Cook. In a 6-3 ruling, the court’s conservative majority rejected a challenge by Dem
 
 ## Fosun breaks ground at Shaw Brothers Movietown residential project
 China’s Fosun Group began construction of its first residential project in Hong Kong, encapsulating the recovery of the city’s property sector as it transforms the Shaw Brothers’ Movietown studio complex in Clear Water Bay. At the groundbreaking ceremony, Guo Guangchang, chairman of Fosun Internatio
@@ -152,12 +149,6 @@ Chinese self-driving technology start-up Momenta kicked off bookbuilding on Mond
 
 ## Northern Metropolis: Hong Kong launch pad for Chinese firms
 –
-
-## Bahrain doubles down on Hong Kong to woo mainland China capital amid Middle East tensions
-Bahrain has deepened its presence in Hong Kong to tap mainland China capital, as the Gulf state launches a charm offensive to court foreign investors amid the US-Israel war on Iran. Two major Bahraini investors have already placed bets in Hong Kong to seize rising opportunities in China, while the k
-
-## China’s first AI-powered cancer vaccine production line set to launch in Beijing
-China has broken ground on what developers say is the country’s first production line for AI-assisted personalised tumour vaccines, raising hopes for millions of new cancer patients every year – a disease that ranks as the nation’s second-leading cause of death. By October, Beijing-based Likang Life
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
@@ -255,29 +246,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone
-Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.
+## Pakistan-administered Kashmir returns to daily life after deadly protests
+Shops reopened and public transport services partially resumed in Pakistan-administered Kashmir after weeks of protests.
 
-## Paraguay shock Germany in shootout win for one of all-time World Cup upsets
-Germany lose on penalties to Paraguay after a 1-1 draw in their FIFA World Cup 2026 last-32 match.
+## Nerves and tears as Germany exits World Cup on penalties
+Germany fans watched from Berlin’s Sony Centre as Paraguay stunned the four-time world champion 4-3 on penalties.
 
-## Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit
-Kerr signs with the NWSL champions until 2030, returning to the US league after six years spent with Chelsea in England.
+## Trump tells US petrol retailers to reduce prices ‘immediately’
+US president warns of 'big problems' if retailers do not cut prices at the pumps, condemns illegal gouging.
 
-## Sinner and Sabalenka answer doubters on Wimbledon Day one
-Naomi Osaka impresses with her outfit and performance, while British hopes are dashed on first day of championship.
+## Morocco reach World Cup last-16 with dramatic shootout win over Netherlands
+Morocco came from behind to knock the Netherlands out in the round of 32, beating them 3-2 on penalties.
 
-## LIVE: Netherlands vs Morocco – FIFA World Cup 2026
-Follow the updates, with live build-up, team news coverage, and our text commentary stream of the last-32 match.
+## How Germany were handed a World Cup humbling and what it means to Paraguay
+As well as Gill's heroics, Paraguay's unlikely victory was founded on coach Alfaro's unshakeable faith in his defenders.
 
-## Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis
-The US top diplomat commends Libyan leaders' efforts to 'overcome divisions' after talks with LNA's Saddam Haftar.
+## US education faces ‘a crisis for low-wealth students’
+Andre Perry tells This is America that going to college still pays, but low-wealth students carry most of the debt.
 
-## Venezuela earthquake victims shelter at golf course
-Hundreds of Venezuelans are sheltering at a golf course in La Guaira after last week's deadly earthquakes.
+## Police hunt for suspect after three wounded in Monaco blast
+Ukrainian oligarch reported to be among injured in explosion at residential building in the Mediterranean principality.
 
-## Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip
-Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.
+## Mourners light candles after deadly German shelter shooting
+Residents lit candles on Monday evening near the site of a shooting that killed six staff members at a German shelter.
+
+## HDFC Bank appoints Puneet Sharma as CFO
+HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effective December 1, 2026, bringing over 26 years of financial expertise from Axis Bank. Jigar Shah will join as General Counsel from October 1, 2026. Additionally, former Finance Secretary Rajiv Kumar is set to become the ba
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
@@ -300,8 +294,11 @@ Syrma SGS Technology aims for a five-fold revenue increase to over $2 billion in
 ## China, India see top firms lose market cap share in AI lag
 Major stock markets in China, India, and Hong Kong are lagging in the global AI race, with top companies now holding a smaller market share. This contrasts with Taiwan and South Korea, where AI leaders have significantly boosted their benchmarks. While diversification can offer stability, the absenc
 
-## Indian CFO Guide: Navigating in a Multipolar World
-As geopolitical tensions intensify, a key question for India Inc CFOs is how to navigate through uncertainties. Based on my interactions with leading CFOs, here are practical insights into how India Inc is managing risks and adapting to an increasingly multipolar world.
+## "It's in last 1 or 2%": US envoy Sergio Gor declares India-US trade pact nears finish line
+Dismissing rumours of diplomatic friction, United States Ambassador to India Sergio Gor on Monday (local time) announced that the highly anticipated India-US bilateral trade agreement is on the verge of completion, with negotiators hammering out the final "1 or 2 per cent" of the legal text.
+
+## Delhi Cabinet approves EV Policy 2026 with tax waivers, purchase incentives and scrappage benefits to boost clean mobility
+The policy provides 100 per cent exemption on road tax and registration fees for electric vehicles, with the benefit applicable to four-wheelers priced up to Rs 30 lakh (ex-showroom). Purchase incentives include up to Rs 30,000 for electric two-wheelers, up to Rs 50,000 for electric three-wheelers a
 
 ## RBI's dollar inflow measures buy time, but external risks remain
 The Reserve Bank of India's recent measures to boost dollar inflows are a temporary fix, economists warn. While these steps aim to stabilize the rupee now, the country must strengthen its balance of payments over the next three to five years. Otherwise, as foreign currency borrowings and deposits ma
@@ -320,10 +317,4 @@ The Reserve Bank of India has opened the term money market to All India Financia
 
 ## RBI draft directions open term money market to NBFCs, AIFIs and corporates to deepen liquidity
 RBI has proposed opening the term money market to NBFCs, AIFIs and corporates and raising borrowing flexibility for primary dealers, as the central bank seeks to deepen liquidity and broaden participation in India's short-term funding markets.
-
-## RBI's dollar push puts bank treasury desks at the centre of funding strategy
-The Reserve Bank of India's recent measures to attract foreign currency inflows are placing treasury functions at the centre of banks' funding and balance sheet decisions, with lenders relying on treasury teams to manage foreign currency mobilisation, hedging, liquidity and deployment under the temp
-
-## RBI to raise large exposure limit for upper layer NBFC-IFCs to 45% from 35% of eligible capital base
-The Reserve Bank of India has boosted lending limits for top infrastructure finance firms, allowing them to extend up to 45% of their capital to connected borrowers, a significant increase from 35%. This move aims to support the crucial infrastructure sector.
 
