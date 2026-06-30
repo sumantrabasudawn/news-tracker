@@ -1,61 +1,76 @@
 # AION Intelligence
 
+## Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
+Publication of long-delayed blueprint is unlikely to end military figures’ calls for more funding
+
+## America’s stillborn 250th birthday
+An event that was meant to celebrate an exceptional nation has been cornered by one man
+
+## Apple and Google app store fees targeted by UK competition watchdog
+CMA regulator launches consultation on whether Big Tech groups should allow rival payments
+
+## Tech founder gets 10-year prison sentence over Chromebook corruption case
+Former Gojek chief Nadiem Makarim convicted in Indonesia in case closely watched by foreign investors
+
+## Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
+NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation
+
+## FirstFT: The great wealth transfer
+Also in today’s newsletter: corporate AI users’ staff hires and China’s ‘ghost cities’
+
+## World Bank drops climate finance target under US pressure
+Donor and client nations lobbied against concession to Trump administration’s ‘voodoo science’
+
+## Local government is a mess. Here is what Andy Burnham must decide
+Prospective PM’s challenge will be getting his devolution proposals functioning by the next election
+
+## Sainsbury’s sales growth slows as consumer caution hits retailers
+Rival supermarket Tesco also reports slowdown
+
 ## EY employee charged with accessing Australian prime minister’s bank details
 Treasurer Jim Chalmers describes situation as ‘incredibly concerning’
 
 ## Barclays buys Canary Wharf HQ for £750mn
 UK bank buys 999-year lease on London headquarters in one of Europe’s biggest office deals in recent years
 
-## Figuring out the Fed in the ‘say less’ era
-Plus, small-cap vulnerabilities
-
 ## Scottish Power calls on regulator to securitise bad UK energy debts
 Household energy debts hit £4.8bn in the UK, adding more than £50 a year to the average bill
 
-## EU and China buy time to avoid trade fight as Brussels demands deficit cuts
-Also in this newsletter: Far-right petition pushes Meloni over mass deportation plan
+## India-Peru FTA talks to resume after new government takes office
+The negotiations have been delayed following Peru’s recent presidential elections
 
-## EU must choose which sectors to protect or face exodus, warns Covestro chief
-Comments come as Abu Dhabi-owned German group announces investments of up to €4bn in China and the UAE
+## Tamil Nadu can build a ₹37,000-crore defence electronics industry by 2040: DRDO official
+Das said defence electronics will account for an increasing share of modern weapon systems as warfare becomes more software-driven and network-centric.
 
-## FirstFT: How Elliott spawned a new army of activists
-Also in today’s newsletter: corporate AI users’ staff hires and Maersk raises profit guidance
+## India crucial tech ally as US cautions nations against expensive AI sovereignty drives
+Sovereignty lies in innovation, not reinventing existing tech stacks: US Under Secretary of State for Economic Affairs Jacob Helberg
 
-## Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
-Our June survey sees the Fed and Bank of England on hold with the ECB and Bank of Japan primed to raise again this year
+## India-US interim deal: Why the final 1% matters
+That 1% is about T.R.U.S.T — tariffs, reliability, strategic interests and tech collaboration
 
-## Sainsbury’s sales growth slows as consumer caution hits retailers
-Rival supermarket Tesco also reports slowdown
-
-## Paul Singer’s activist hedge fund factory
-Elliott Management alums have founded at least seven hedge funds since 2020
-
-## Lenders say FCA car finance redress scheme violates their human rights
-Customer payouts on hold as groups including Volkswagen Financial Services and Crédit Agricole launch legal challenge
+## Sensex today | Stock Market Highlights: Stock markets decline for 2nd day as IT shares lead losses
+Sensex, Nifty, Share Prices Highlights: Benchmark stock indices Sensex and Nifty declined on Tuesday due to selling in IT, oil & gas and select banking shares amid uncertainty over the next round of US-Iran negotiations in Doha.
 
 ## India auto registrations rise 19.4% in H1FY27 as battle shifts to alternative powertrains
-VAHAN data shows PVs lead growth as EV and CNG adoption gains momentum..
+VAHAN data shows PVs lead growth as EV and CNG adoption gains momentum
 
-## Gold set for biggest quarterly fall since 2013 on hawkish Fed stance
-Spot gold rose 0.2% to $4,026.17 per ounce by 0732 GMT but is down 11.2% in June, potentially marking its fourth consecutive monthly decline
+## Industrial output outlook hinges on monsoon progress; coal stocks, exports may cushion weather risks: Report
+IIP grows 5.1% in May, but uneven rains may weigh on mining
 
-## Private sector drives rise in India's external debt as government debt declines: RBI
-RBI data showed that India's external debt increased by $26.3 billion over its level at the end of March 2025
+## Rupee falls 15 paise to close at 94.65 against US dollar
+At the interbank foreign exchange market, the rupee opened at 94.60 against the American currency and finally closed for the day at 94.65 (provisional), registering a decline of 15 paise from its previous close
 
-## India’s rooftop solar boom meets a grid reality check
-Maharashtra’s new grid charges and Karnataka’s tariff changes could increase electricity costs for residential, commercial and industrial rooftop solar users by 20–30%, extending project payback periods from about four years to seven to nine years
+## Nine years of GST: One tax, one market, many transformations
+India's Goods and Services Tax (GST), rolled out in 2017, has transformed indirect taxation, creating a unified national market and boosting formalisation. Collections have surged, and businesses now operate digitally, improving efficiency. Consumers benefit from reduced tax cascading and greater pr
 
-## Roca Introduces Touch-T: A New Benchmark in Thermostatic Shower Systems
-Roca Introduces Touch-T: A New Benchmark in Thermostatic Shower Systems
+## India's Russian oil imports hit record high in June amid Hormuz disruptions
 
-## Sensex today | Stock Market Live Updates: Sensex flat, Nifty tests 23,900 in choppy trade; Eicher Motors, TCP, Infosys, Wipro, TCS among top losers
-Sensex, Nifty, Share Prices LIVE: Benchmark equity indices traded in a narrow range after witnessing sharp intraday swings on Tuesday, as uncertainty over the next round of US-Iran negotiations in Doha kept investors cautious. However, broader markets outperformed the benchmarks, with buying interes
 
-## Due date for filing appeal before GSTAT extended till July 31
-Earlier, the due date was June 30
+## Finance ministry panel clears Rs 1.25 lakh crore for India Semiconductor Mission 2.0; Cabinet nod next
+India's push for domestic chip manufacturing has received a significant boost with the Expenditure Finance Committee clearing a Rs 1.25 lakh crore outlay for India Semiconductor Mission 2.0. This ambitious plan, awaiting Union Cabinet approval, aims to bolster indigenous chip design, production, and
 
-## Radico Khaitan launches six tiger-themed whisky editions, ties up with Corbett Foundation for conservation
-750 ml packs priced at ₹1,680 to debut in Delhi, Haryana, Uttar Pradesh
+## Barrel of backups: India's crude imports bounce back despite Middle East disruptions
+India's crude oil imports are nearing pre-conflict levels, thanks to refiners diversifying away from traditional Gulf suppliers. Purchases from Russia, the US, and other regions have compensated for Middle East disruptions. Russia remains a favored source due to attractive pricing. While the Strait 
 
 ## Centre extends GSTAT appeal deadline to July 31 after portal glitches
 The government has granted taxpayers an extra month to file appeals with the Goods and Services Tax Appellate Tribunal (GSTAT), extending the deadline to July 31, 2026. This decision follows concerns over technical issues on the GSTAT portal due to a recent surge in filings. The extension aims to en
@@ -69,65 +84,56 @@ The last time the yen traded at these levels, it was moving in the opposite dire
 ## Jio IPO: What is Project Jupiter? How Mukesh Ambani’s Reliance worked behind closed doors for India's biggest offering
 Reliance engaged with regulators to secure greater flexibility in IPO rules, encouraging key investors to divest their holdings, and designing the country's largest public offering while keeping its structure under wraps. The highly confidential initiative was internally code-named Project Jupiter, 
 
-## Want to invest in US stocks via GIFT City? How Indian brokers plan to make it easier
-Leading Indian discount brokers are set to launch overseas investing via GIFT City, simplifying access to global stocks like Apple and Tesla for Indian investors. This move, facilitated by GIFT City's regulatory framework, allows investments as low as $1 through fractional ownership. Funds are trans
+## Haryana man arrested in Mussoorie for attacking resident with plastic milk crate
+A video of the incident, which went viral on social media, purportedly showed the accused, Neeraj Raghav, striking a man with the crate
 
-## Gold price prediction today: Why gold prices are unlikely to rise much in near-term; check June 30, 2026 outlook
-Gold price prediction today: Gold prices are expected to continue being under pressure in the near-term as rate hike fears feed into a stronger dollar, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## 'You call us jihadi, what about Ram Madhav': Owaisi's sharp attack over ‘Track 2’ talks with Pakistan
+Owaisi criticised BJP's Ram Madhav for engaging with Pak under ‘Track 2’ talks, saying Indian Muslims would be labeled as Pakistanis or jihadis for the same.
 
-## OYO parent Prism files updated IPO papers for Rs 6,650 crore issue: What investors should know
-Hospitality firm Prism, parent of OYO, has filed updated papers for a Rs 6,650 crore IPO, comprising only a fresh issue of shares. The company plans to use most proceeds to repay borrowings. Prism reported a significant jump in revenue and profit for the first nine months of FY26, driven by its US b
+## NFHS-6 flags surge in spousal violence in Kerala
+The NFHS-6 reveals spousal violence among married women in Kerala nearly doubled to 17.7%, contrasting with the national decline in violence rates.
 
-## Pakistan backtracks on energy gamble, buys emergency LNG as Qatar exports stay in limbo
-Pakistan has urgently secured a liquefied natural gas shipment amid ongoing disruptions in the Strait of Hormuz impacting Qatari exports. The nation's energy supply chain faces strain due to regional tensions, forcing reliance on costly spot market purchases. These incidents, including attacks on ve
+## SC orders status quo on ethanol allocation to oil marketing companies; govt says fuel blending an experiment
+BPCL had contested an earlier order of the Karnataka high court directing them to increase ethanol allocation for 2025-26.
 
-## No bail for Asaram now: SC seeks state’s reply on challenge to rape conviction
-The bench issued notice to Raj govt on Asaram’s plea challenging HC verdict but made it clear that no interim relief would be granted without hearing the state
+## Keeping up with UP: Will there be political fallout from Ram Temple donation issue
+Concerns are growing within the BJP about the fallout of the issue ahead of the assembly elections in Uttar Pradesh due next year
 
-## India backs FATF in veiled dig at Pakistan: 'Attempts to question reflect fear of scrutiny'
-India called the FATF an “indispensable” pillar of global counterterrorism financing, and took a veiled dig at Pakistan.
+## Punjab Kings’ Shashank Singh denies assault allegations by cook; probe underway
+The complaint, filed by their domestic cook Vipendra Singh (31) at their Bhopal residence, alleged assault, verbal abuse, and illegal confinement
 
-## How to reserve your WhatsApp username: A step-by-step guide
-The feature is being introduced in phases, meaning it may not be available to all users immediately.
+## VB-G RAM G Act risks financial burden on states and farmers: Mallikarjun Kharge
+Kharge said that several states have raised questions about the structure and funding pattern of the VB-G RAM G Act
 
-## Paid money for food, beaten, 'shoot' threat: Shocking allegations against IPL star Shashank Singh in cook abuse case
-In a written complaint, 31-year-old Vipendra Singh Tomar claimed that he had endured verbal and physical abuse at the cricketer's house.
+## India's first 8-lane expressway tunnel under a tiger reserve to open in Rajasthan's Kota. All about it
+The tunnel features twin tubes, each carrying four traffic lanes, making it India's first eight-lane tunnel beneath a wildlife sanctuary.
 
-## Road-owning agencies asked to complete digital inventory, survey of bridges
-The survey is being done under a new Indian Bridge Management System (IBMS) aimed at improving safety through continuous monitoring
-
-## Air India to deploy its upgraded B777 aircraft on Delhi-Melbourne route from July 1
-Air India said that the passengers will have enhanced inflight entertainment, with a richer and more diverse content library across movies, shows and music.
-
-## DMK chief MK Stalin's mother Dayalu Ammal hospitalised in Chennai
-Dayalu Ammal, mother of DMK president M K Stalin, was admitted to a Chennai hospital after her health worsened.
-
-## How donations were counted at Ayodhya's Ram temple and how it differed from other UP temples
-Investigators examining the donation-counting process at the Shri Ram Janmabhoomi Teerth Kshetra Trust have identified lapses in handling the cash.
-
-## Bengaluru cop held on Pocso charges after video exposes ‘abuse of minor boys’
+## Over 10,000 Etihad Rail tickets sold as UAE launches first passenger train service: Routes, travel time, fares
 
 
-## UAE’s first passenger train begins service: Inside Etihad Rail’s inaugural journey
+## Google makes Gemini’s personalised image generation free for eligible users in US
 
 
-## Akanksha Chamola reveals reason for divorce from Gaurav Khanna; an expert on clarity
+## ‘I tried to talk him down’: McCullum on Ben Stokes’ sudden retirement
 
 
-## ‘He started bleeding’: Kayadu Lohar recalls hitting her harasser with stone as a student
+## Canada says ‘best time ever’ for Indian students, but numbers tell a different story
 
 
-## Kobo now syncs with StoryGraph, offering an alternative to Kindle-Goodreads
+## ‘Could be a disaster’: Ankur Warikoo on new WhatsApp username feature
 
 
-## UPSC Mains Answer Practice — GS 3 : Sustainable development and digital payment fraud compensation (Week 161)
+## CBI arrests 2 former bank officials in Rs 504-crore IDFC First fraud
 
 
-## Justice Muralidhar’s UN Report indicts Israel for targeting Palestinian children. Civil society must act
+## Asaram Bapu challenges rape sentence, Supreme Court seeks Rajasthan response
 
 
-## No Lebanon land ambitions, but will stay until Hezbollah disarmed: Israel
+## Why the Trump-Kazakhstan tungsten deal has sparked conflict of interest concerns
 
+
+## EU seeks ‘tangible results’ on China trade deficit by October
+The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, 
 
 ## Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play
 Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put investors on tenterhooks. The Hang Seng Index dropped 11 per cent in the January-to-Ju
@@ -149,9 +155,6 @@ Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX�
 
 ## Shanghai should step up as finance hub, as Hong Kong ‘not enough’, proposal says
 Shanghai has been urged to build itself into a hub serving the rising outbound investment needs of Chinese firms, potentially increasing rivalry with Hong Kong as both cities race to augment their status as financial centres. The suggestion by Liu Xiaochun, vice-president of the Shanghai Finance Ins
-
-## US Supreme Court boosts Trump’s power to fire officials, but Fed’s Cook keeps job
-The US Supreme Court on Monday fortified President Donald Trump’s powers to fire members of independent government agencies, but carved out protections for the Federal Reserve by blocking the firing of Governor Lisa Cook. In a 6-3 ruling, the court’s conservative majority rejected a challenge by Dem
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
@@ -249,35 +252,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How each prime minister broke Britain’s economy
-How each prime minister broke Britain’s economy
+## Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption
+Indonesia court finds former education minister guilty of abuse of authority and of causing state losses.
 
-## At the World Cup, the media has set up a moral checkpoint
-While US and European players just get to play football, Global South footballers are questioned about politics.
+## FIFA World Cup: Tuesday schedule, predictions and eliminated teams
+World Cup Day 20 sees France, Norway and Mexico chase Round of 16 places as the knockout stage continues.
 
-## DR Congo says 1,307 Ebola cases confirmed, including 377 deaths
-Outbreak spreads to a fourth province, Haut-Uele, bordering South Sudan and the CAR, according to a media report.
+## US Supreme Court hands Trump 3-1 defeat in key rulings: What we know
+The justices deliver consequential rulings on mail-in ballots, the E Jean Carroll case and the firing of Lisa Cook.
 
-## Social media calculator: How much of your life is spent on social media?
-The average user spends roughly two hours, 39 minutes on social media daily, adding up to more than 40 days a year.
+## Man in Gaza survives double tap Israeli strike on vehicle
+Man in Gaza survives double tap Israeli strike on vehicle
 
-## WhatsApp to let users go by usernames, not phone numbers
-WhatsApp says the feature is designed to give its three billion users a new layer of control over who can contact them.
+## Advocacy groups file complaint against Ghana over Trump deportations
+The deportees were sent to Ghana, then to their home countries, despite earlier rulings by US judges that it was unsafe.
 
-## Peru elects Keiko Fujimori in victory for Latin American right
-Peru's conservative president-elect Keiko Fujimori vows that the ‘doors to dialogue will always be open.’
+## The next British PM should steer clear of Starmer’s shameful legacy
+The outgoing PM succeeded in enabling genocide and failed miserably at improving the lives of ordinary Brits.
 
-## What is Iran looking for in any upcoming talks with the US?
-Strait of Hormuz, frozen funds, Lebanon at forefront of the minds of Iran's negotiators ahead of potential talks.
+## Top 5 World Cup knockout shocks – Paraguay win hurts Germany again
+Paraguay's longshot win against Germany in the Round of 32 is the latest in a long line of World Cup knockout boilovers.
 
-## In pictures: Venezuela earthquakes death toll surpasses 1,700
-Rescuers race to find survivors in Venezuela's quake-hit areas as families cling to hope amid widespread devastation.
+## Video: At least two killed and hundreds displaced in Israeli attack on Gaza
+An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.
+
+## ICICI Prudential Life plans 10-15% premium growth, bets on protection to outpace savings, CFO Dhiren Salian says
+ICICI Prudential Life Insurance aims for 10-15% premium growth, with protection products like term and annuity plans leading the charge. CFO Dhiren Salian highlighted that protection, currently 17% of premiums, is a key focus due to its underpenetration and higher profitability. The company is also 
 
 ## Exclusive: MCA set to notify SA 600, 40 revised audit standards by August
 The notification will conclude one of the most significant regulatory exercises in India's audit landscape in recent years, aimed at strengthening audit quality and updating the country's auditing framework in line with evolving international standards.
-
-## Government extends GSTAT appeal filing deadline to July 31 amid portal rush, technical issues
-The extension applies to appeals filed under Section 112(1) read with Section 112(3) of the Central Goods and Services Tax (CGST) Act. The earlier deadline notified by the government on September 17, 2025, was June 30, 2026.
 
 ## HDFC Bank appoints Puneet Sharma as CFO
 HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effective December 1, 2026, bringing over 26 years of financial expertise from Axis Bank. Jigar Shah will join as General Counsel from October 1, 2026. Additionally, former Finance Secretary Rajiv Kumar is set to become the ba
@@ -291,11 +294,14 @@ CEAT aims to boost international revenue to one-third of its total within five y
 ## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
 The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
 
+## Government extends GSTAT appeal filing deadline to July 31 amid portal rush, technical issues
+The extension applies to appeals filed under Section 112(1) read with Section 112(3) of the Central Goods and Services Tax (CGST) Act. The earlier deadline notified by the government on September 17, 2025, was June 30, 2026.
+
 ## Big Four rethink partnership as AI changes the game
 India's Big Four accounting firms, Deloitte, PwC, and EY, have surpassed 1,000 partners each, driven by rapid expansion, especially in technology consulting. This growth strains the traditional partnership model, demanding leaders adept at managing diverse businesses, embracing AI, and navigating co
 
-## Plan afoot to create index for unincorporated enterprises
-The index, proposed by the ministry of statistics and programme implementation (MoSPI), will provide insights into the health of the large yet often difficult-to-measure informal sector.
+## RBI compounds FEMA violations in Touras India case
+The Reserve Bank of India (RBI) has issued a compounding order under Section 15 of the Foreign Exchange Management Act (FEMA), in the case of Touras India Private Limited, which has resulted in the termination of proceedings against the company for contraventions of the law's provisions with a one-t
 
 ## "It's in last 1 or 2%": US envoy Sergio Gor declares India-US trade pact nears finish line
 Dismissing rumours of diplomatic friction, United States Ambassador to India Sergio Gor on Monday (local time) announced that the highly anticipated India-US bilateral trade agreement is on the verge of completion, with negotiators hammering out the final "1 or 2 per cent" of the legal text.
@@ -317,7 +323,4 @@ The Reserve Bank of India (RBI) has issued the final directions for expanding th
 
 ## RBI opens term money market to AIFIs, housing finance companies
 The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. Prudential borrowing limits for primary dealers have also been significantly increased. These moves aim to deepen market participation and i
-
-## RBI draft directions open term money market to NBFCs, AIFIs and corporates to deepen liquidity
-RBI has proposed opening the term money market to NBFCs, AIFIs and corporates and raising borrowing flexibility for primary dealers, as the central bank seeks to deepen liquidity and broaden participation in India's short-term funding markets.
 
