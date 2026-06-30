@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Investigation into maternity care in England finds ‘overall system failure’
+Government accepts proposal to appoint a national maternity and neonatal commissioner
+
+## UK regulator waters down landmark crypto rules
+FCA eases capital and disclosure requirements after complaints that incoming digital assets regime was too onerous
+
+## ‘Tooth fairy’ payout nears £5 as UK childhood finances overtake inflation
+Annual survey also shows the average child gets £10 per week in pocket money
+
+## Chinese exile Miles Guo given 30 years in prison for $550mn fraud
+Businessman had fled to the US claiming persecution and then allied himself with the Maga movement
+
 ## Ethiopia makes deal to cut payments on $1bn bond
 Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
 
@@ -15,14 +27,8 @@ Pendulum ‘swinging back towards economic nationalism’, warns one private equ
 ## Maersk raises profit guidance as new US tariffs fuel demand
 American companies rush to stockpile goods ahead of fresh round of levies
 
-## Burnham vows to ‘rewire’ British state
-UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
-
 ## Supermicro Taiwan offices raided in chip smuggling probe
 Server maker’s shares fell about 8% after news of the investigation
-
-## EU sets deadline of October for reduction in trade deficit with China
-European commissioner Maroš Šefčovič demands action after meeting Chinese commerce minister Wang Wentao
 
 ## BT’s turnaround is in the home stretch
 A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
@@ -81,6 +87,18 @@ With this, the government’s commitment to this fund now stands at ₹60,000 cr
 ## Quick commerce race intensifies as Amazon, Flipkart level up
 
 
+## Aarogya Setu 2.0 launched as personal health record app
+Union health minister JP Nadda launched revamped Aarogya Setu as a personal health record app and introduced a unified health interface to enhance digital health services.
+
+## Gen Seth to assume charge as army chief
+General Dhiraj Seth becomes India’s Chief of Army Staff on Tuesday, focusing on modernization and reform as the army braces for future conflicts.
+
+## How Eklavya model is changing trajectory of tribal students
+Rohit Nitwal, an EMRS alum, exemplifies how India's tribal education programme transforms lives, bridging communities to global opportunities.
+
+## Bihar guv, MoS for external affairs set to attend Khamenei’s funeral
+Indian Minister Pabitra Margherita and Bihar Governor Syed Ata Hasnain will attend the funeral of Iran’s ex-leader Khamenei on July 4, signaling ties with Tehran.
+
 ## HDFC Bank appoints former Chief Election Commissioner Rajiv Kumar to top position
 Appointment ends months-long search after Atanu Chakraborty stepped down in Mar, citing "certain happenings" within the bank "not in congruence" with ethics
 
@@ -93,19 +111,22 @@ SBI suspected that someone was siphoning money from the temple's donation boxes 
 ## ‘Direct threat to regional peace’: India slams Pakistan for attacks on Afghanistan
 MEA says “blatant act of aggression by Pakistan is an assault on Afghanistan's sovereignty” and the strikes show its “persistent pattern of reckless behaviour”
 
-## Incentives for EVs, no new petrol bikes, CNG autos: What is inside Delhi EV policy | Explained
-Under the policy, the government will provide a 100% fee exemption on road tax and registration fee till 2030 to selected EVs.
+## Delhi Confidential: Missed Chance
 
-## Data-driven governance key to Viksit Bharat, administrative data a strategic national asset: PM's principal secretary
-He credited reforms introduced in last 5 years to modernise the statistical ecosystem through new surveys, updated macroeconomic indicators
 
-## Heat, encroachment, illegal shows fuel lion-human conflict in Gujarat
-A five-year-old boy was killed by a lioness in Gujarat, marking one of several recent human deaths from lion attacks amid rising man-lion conflicts.
+## Germany eliminated by Paraguay in penalty shootout after disallowed goal
 
-## Amit Shah assures Centre’s support to floods-affected Assam, Arunachal Pradesh
-Assam faces severe flooding affecting 45,839 people in seven districts. While there are no fatalities, extensive damage has occurred. Rescue efforts are underway.
 
-## Netherlands vs Morocco, FIFA World Cup 2026 Live Score: NED ‘fear no one’, says Koeman
+## Russian strikes across Ukraine kill at least 10, injure dozens
+
+
+## Courts must remain vigilant guardians of constitutional supremacy: CJI Surya Kant in Sweden
+
+
+## Mamata Banerjee era’s OBC quota law amended, but passage of Bills exposes chinks in rebel TMC group
+
+
+## Netherlands vs Morocco, FIFA World Cup 2026 Live Score: MOR hoping for repeat of Qatar 2022
 
 
 ## Government sets up study group to strengthen film industry; Prasoon Joshi to lead team
@@ -114,20 +135,8 @@ Assam faces severe flooding affecting 45,839 people in seven districts. While th
 ## Ludo, some cleaning, then ‘murder’: Cellmate ‘confesses’ to killing Chambal dacoit Jagan Gurjar
 
 
-## Surat civic chief to Gujarat High Court: No orders were passed to demolish shanties
-
-
-## Congress delegation to visit Ayodhya amid Ram Temple ‘theft’ row
-
-
-## Ketan Agarwal murder: Police to conduct Chetan Chaudhary’s gait analysis
-
-
-## Arunachal minister says will probe claims of China encroaching on ‘ancestral land’
-
-
-## India leads democracies in transparent polls: CEC Gyanesh Kumar
-
+## Shanghai should step up as finance hub, as Hong Kong ‘not enough’, proposal says
+Shanghai has been urged to build itself into a hub serving the rising outbound investment needs of Chinese firms, potentially increasing rivalry with Hong Kong as both cities race to augment their status as financial centres. The suggestion by Liu Xiaochun, vice-president of the Shanghai Finance Ins
 
 ## US Supreme Court rejects Trump’s unprecedented bid to fire Fed governor Lisa Cook
 The US Supreme Court refused on Monday to let President Donald Trump ⁠fire Federal Reserve Governor Lisa Cook as it stood firm to preserve the central bank’s cherished independence against an unprecedented challenge. The court, in a 5-4 ruling, blocked Trump’s bid to become the first president to re
@@ -149,9 +158,6 @@ Bahrain has deepened its presence in Hong Kong to tap mainland China capital, as
 
 ## China’s first AI-powered cancer vaccine production line set to launch in Beijing
 China has broken ground on what developers say is the country’s first production line for AI-assisted personalised tumour vaccines, raising hopes for millions of new cancer patients every year – a disease that ranks as the nation’s second-leading cause of death. By October, Beijing-based Likang Life
-
-## Beijing’s handover anniversary policy gift to Hong Kong? It could be a ‘Reit Connect’
-Hong Kong is seizing every opportunity to consolidate its role as a global financial centre, leveraging unique advantages and national strategies. In the third piece of our miniseries focusing on the city’s financial industry ahead of the handover anniversary, we examine the likelihood of attainable
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
@@ -177,6 +183,15 @@ Europeans are gaming out their future defense, and it’s unthinkable without Ky
 ## Europe Will Never Be an AI Superpower
 But it’s not too late for the continent to claim some technological independence for itself.
 
+## What If Russia Asks Kazakhstan for Fuel?
+Kazakhstan could plug Russia's current gasoline deficit, but it's a risk. Astana struggles already with self-sufficiency.
+
+## Months After Attacks, Chinese Work Resumes on the Dushanbe-Kulma Highway
+Chinese workers have reportedly resumed construction on a critical highway along the Afghanistan-Tajikistan border where two such workers were killed in November 2025.
+
+## ‘Subversive Carrots’ and China’s Economic Influence Over the World
+“Economic statecraft is not as simple or easy as Chinese decisionmakers think or as U.S. policymakers and external observers might fear,” argues Audrye Wong, author of a new book on the topic.
+
 ## The 2016 South China Sea Arbitration Award at 10: Its Lasting Significance
 The award did not settle maritime disputes in the region. But it did fundamentally clarify the interpretation of maritime entitlements under UNCLOS – and forced countries to clarify their claims in turn.
 
@@ -191,15 +206,6 @@ A region once associated with security crises, mined frontiers, and closed borde
 
 ## Why Central Asia Is Turning to Putin for Nuclear Power
 Will Central Asia’s fix for its energy crisis merely trigger another?
-
-## Why the Heart of India’s Indigenous Fighter Ecosystem Will be American for Several Decades to Come
-While negotiations for the licensed manufacture of F414 jet engines in India continue, the off-the-shelf procurement cost of some F414 engines for the AMCA prototype has tripled.
-
-## Why Pakistan Struggles With Violence Against Women
-There are no official statistics on acid attacks on women in Pakistan. But an estimated 200 cases are reported each year.
-
-## 3 Governments, 1 China Policy? Dhaka’s Evolving Engagement With Beijing
-While Bangladesh's domestic politics have undergone huge change over the past two years, its relations with China have displayed greater continuity than rupture.
 
 ## The Ukrainian Push for Long-Term Strategic Planning
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -249,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone
+Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.
+
+## Paraguay shock Germany in shootout win for one of all-time World Cup upsets
+Germany lose on penalties to Paraguay after a 1-1 draw in their FIFA World Cup 2026 last-32 match.
+
+## Australian football legend Sam Kerr signs with Gotham FC after Chelsea exit
+Kerr signs with the NWSL champions until 2030, returning to the US league after six years spent with Chelsea in England.
+
 ## Sinner and Sabalenka answer doubters on Wimbledon Day one
 Naomi Osaka impresses with her outfit and performance, while British hopes are dashed on first day of championship.
 
@@ -263,15 +278,6 @@ Hundreds of Venezuelans are sheltering at a golf course in La Guaira after last 
 
 ## Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip
 Israeli Finance Minister Bezalel Smotrich calls for the immediate establishment of Jewish settlements in the Gaza Strip.
-
-## What’s behind the anti-corruption crackdown in Iraq?
-A number of senior politicians have been detained in a wave of arrests.
-
-## Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16
-Martinelli's stoppage-time goal in Houston takes the five-time champions to the Round of 16, breaking Japanese hearts.
-
-## Deadly heatwave grips Italy and Balkans as wildfire fears grow
-Older people remain most at risk as the heatwave drives up excess deaths across Europe.
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
