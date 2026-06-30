@@ -1,16 +1,37 @@
 # AION Intelligence
 
+## Ten years after Brexit: can the UK deliver change?
+FT journalists answered subscribers’ questions at a webinar on June 25 2026
+
+## Trump ally seeks to emulate Putin to stay in power in Serbia
+Aleksandar Vučić says he plans to step down as president and return as premier after snap elections this autumn
+
+## Judges dismiss appeal to block mass claims over UK motor finance scandal
+Lenders had sought to prevent lawyers from bringing cases on behalf of thousands of motorists
+
+## Trump touts Supreme Court win after day of mixed rulings
+Also in today’s newsletter, US and Iran will ‘stand down’ and halt reciprocal attacks in Strait of Hormuz
+
+## Ukraine argues it can legally attack Russia’s shadow fleet
+Kyiv seeks to justify strikes on tankers after Russia accuses it of ‘terrorism’ in letter to IMO
+
+## Tech founder sentenced to 10 years in prison for Chromebook ‘corruption’
+Former Gojek chief Nadiem Makarim convicted by Indonesian court in case closely watched by foreign investors
+
+## Tech CEOs want AI rules — it may be too late
+A deregulated environment sounds good until it results in ad hoc political intervention
+
+## EU to increase steel tariffs on trading partners
+Decision to slash duty-free quotas and double rate to 50% follows similar moves by the UK, US and Canada
+
+## Battery metals futures heat up as volatility stirs markets
+Trading of cobalt and lithium futures contracts has risen this year on the leading European and US exchanges
+
 ## Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
 Publication of long-delayed blueprint is unlikely to end military figures’ calls for more funding
 
-## America’s stillborn 250th birthday
-An event that was meant to celebrate an exceptional nation has been cornered by one man
-
 ## Apple and Google app store fees targeted by UK competition watchdog
 CMA regulator launches consultation on whether Big Tech groups should allow rival payments
-
-## Tech founder gets 10-year prison sentence over Chromebook corruption case
-Former Gojek chief Nadiem Makarim convicted in Indonesia in case closely watched by foreign investors
 
 ## Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
 NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation
@@ -18,47 +39,44 @@ NBCUniversal split sparks talk of future deals amid ongoing media and entertainm
 ## FirstFT: The great wealth transfer
 Also in today’s newsletter: corporate AI users’ staff hires and China’s ‘ghost cities’
 
-## World Bank drops climate finance target under US pressure
-Donor and client nations lobbied against concession to Trump administration’s ‘voodoo science’
-
-## Local government is a mess. Here is what Andy Burnham must decide
-Prospective PM’s challenge will be getting his devolution proposals functioning by the next election
-
 ## Sainsbury’s sales growth slows as consumer caution hits retailers
 Rival supermarket Tesco also reports slowdown
 
-## EY employee charged with accessing Australian prime minister’s bank details
-Treasurer Jim Chalmers describes situation as ‘incredibly concerning’
+## Axis MF launches daily SIP of ₹10 across 10 schemes
+Rozana SIP is available for investors to invest across up to 10 Axis MF schemes, offering built-in diversification through a simple setup
 
-## Barclays buys Canary Wharf HQ for £750mn
-UK bank buys 999-year lease on London headquarters in one of Europe’s biggest office deals in recent years
+## Delhi EV policy triggers rally in Ather Energy, Ola Electric
+Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
 
-## Scottish Power calls on regulator to securitise bad UK energy debts
-Household energy debts hit £4.8bn in the UK, adding more than £50 a year to the average bill
+## Finance Ministry clears ₹1.25-lakh crore for India Semiconductor Mission 2.0
+ISM 2.0 to focus on design start-ups that can design a product, take it to the market
 
-## India-Peru FTA talks to resume after new government takes office
-The negotiations have been delayed following Peru’s recent presidential elections
+## AP to take up mineral-mapping, frame policy value-addition
+A cluster for rare earth minerals could be set up in the State, says Chief Minister Naidu
 
-## Tamil Nadu can build a ₹37,000-crore defence electronics industry by 2040: DRDO official
-Das said defence electronics will account for an increasing share of modern weapon systems as warfare becomes more software-driven and network-centric.
+## Scrap license fee on pure internet services-based revenue: ISPAI writes to Centre
+ISPAI said that the exemption on licence fee could ease the burden on the ecosystem, thereby enhancing competition and expanding consumer choice
 
-## India crucial tech ally as US cautions nations against expensive AI sovereignty drives
-Sovereignty lies in innovation, not reinventing existing tech stacks: US Under Secretary of State for Economic Affairs Jacob Helberg
+## Full import duty waiver on critical petrochemical products extended till July 15
+The exemption was provided to ensure sufficient availability of petrochemicals in the domestic market
 
-## India-US interim deal: Why the final 1% matters
-That 1% is about T.R.U.S.T — tariffs, reliability, strategic interests and tech collaboration
+## From missed deadlines to gathering pace: J&K’s hydropower story
+Long-delayed Chenab Valley hydropower projects move ahead with improved execution and revised timelines now
 
-## Sensex today | Stock Market Highlights: Stock markets decline for 2nd day as IT shares lead losses
-Sensex, Nifty, Share Prices Highlights: Benchmark stock indices Sensex and Nifty declined on Tuesday due to selling in IT, oil & gas and select banking shares amid uncertainty over the next round of US-Iran negotiations in Doha.
+## Domestic manufacturing shielding IT supply chain from geopolitical stress: Redington India CEO
+Redington is evolving from a traditional hardware distributor to an “ecosystem orchestrator,” with cloud and services now accounting for over 20% of its India business, says Vohra
 
-## India auto registrations rise 19.4% in H1FY27 as battle shifts to alternative powertrains
-VAHAN data shows PVs lead growth as EV and CNG adoption gains momentum
+## Iran-US interim peace deal may support India's growth: RBI
+India's economy shows resilience despite global turbulence, with an interim Iran-US peace deal potentially boosting supply chains and easing geopolitical pressures, according to the RBI's Financial Stability Report. While macroeconomic fundamentals are strong, the nation remains vulnerable to import
 
-## Industrial output outlook hinges on monsoon progress; coal stocks, exports may cushion weather risks: Report
-IIP grows 5.1% in May, but uneven rains may weigh on mining
+## Small savings schemes interest rates for July-Sept 2026 announced: Check latest rates for PPF, SSY, Kisan Vikas, NSC, SCSS & more
+The ministry has decided to leave the rates unchanged across all small savings schemes for the July-September quarter. Interest rates across these schemes have remained unchanged for a prolonged period.
 
-## Rupee falls 15 paise to close at 94.65 against US dollar
-At the interbank foreign exchange market, the rupee opened at 94.60 against the American currency and finally closed for the day at 94.65 (provisional), registering a decline of 15 paise from its previous close
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Indian equity markets dipped Tuesday, with IT stocks leading the decline. However, electric vehicle companies surged following Delhi's new EV policy, signaling a boost for clean mobility. While benchmarks faltered, mid- and small-cap segments showed resilience. Analysts suggest the market is in a co
+
+## Oil prices set for biggest quarterly drop since Covid as markets watch uncertain US-Iran talks
+
 
 ## Nine years of GST: One tax, one market, many transformations
 India's Goods and Services Tax (GST), rolled out in 2017, has transformed indirect taxation, creating a unified national market and boosting formalisation. Collections have surged, and businesses now operate digitally, improving efficiency. Consumers benefit from reduced tax cascading and greater pr
@@ -72,17 +90,23 @@ India's push for domestic chip manufacturing has received a significant boost wi
 ## Barrel of backups: India's crude imports bounce back despite Middle East disruptions
 India's crude oil imports are nearing pre-conflict levels, thanks to refiners diversifying away from traditional Gulf suppliers. Purchases from Russia, the US, and other regions have compensated for Middle East disruptions. Russia remains a favored source due to attractive pricing. While the Strait 
 
-## Centre extends GSTAT appeal deadline to July 31 after portal glitches
-The government has granted taxpayers an extra month to file appeals with the Goods and Services Tax Appellate Tribunal (GSTAT), extending the deadline to July 31, 2026. This decision follows concerns over technical issues on the GSTAT portal due to a recent surge in filings. The extension aims to en
+## Man wearing ‘Modi mask’ tries burglary in Rajasthan, his failed attempt caught on camera
+CCTV footage showed the man trying to break the lock of a mobile shop using an iron rod while wearing a mask commonly seen at political rallies.
 
-## Strait back in business: Hormuz traffic picks up again as supertankers slide through the passage
-The Strait of Hormuz is seeing a welcome return of maritime traffic after a period of intense tension. Following recent attacks and subsequent retaliatory strikes, crude carriers are cautiously re-entering the Persian Gulf. Data indicates a significant increase in commodity vessel transits, signalin
+## Court rejects ‘love affair’ defence, man gets 20-year jail for raping minor in Thane: ‘Consent is immaterial’
+The minor later got pregnant and got an abortion; court says when a girl is below 18, even if sexual intercourse is with her consent, it would amount to rape.
 
-## Japanese Yen hits four-decade low against US dollar - why the currency is depreciating
-The last time the yen traded at these levels, it was moving in the opposite direction, strengthening during a prolonged rally that followed a currency agreement brokered by the United States.
+## Amarnath Yatra: Enhanced security, accommodation ready for 55,000; pilgrims told to follow timings
+Lieutenant Governor Manoj Sinha, who is also the chairman of the Shri Amarnath Shrine Board (SASB), will flag off the first convoy at 4 am, officials said.
 
-## Jio IPO: What is Project Jupiter? How Mukesh Ambani’s Reliance worked behind closed doors for India's biggest offering
-Reliance engaged with regulators to secure greater flexibility in IPO rules, encouraging key investors to divest their holdings, and designing the country's largest public offering while keeping its structure under wraps. The highly confidential initiative was internally code-named Project Jupiter, 
+## Digital India turns 11: UPI becomes world’s largest real-time payment system with 24,000 crore transactions in a year
+As of March 2026, DigiLocker hosts over 850 crore documents, making document storage and verification easier, particularly for students.
+
+## Student dies after tree falls on school bus in Mumbai's Chembur, 4 admitted to hospital
+Four other students are currently undergoing treatment at Zen Hospital.
+
+## Umar Khalid speaks on 6 years in Tihar Jail without trial: ‘Humanity a privilege, not granted to people like me’
+In his first interview since being jailed in 2020, Khalid describes the psychological toll of spending nearly six years in Delhi's Tihar Jail without a trial.
 
 ## Haryana man arrested in Mussoorie for attacking resident with plastic milk crate
 A video of the incident, which went viral on social media, purportedly showed the accused, Neeraj Raghav, striking a man with the crate
@@ -90,47 +114,32 @@ A video of the incident, which went viral on social media, purportedly showed th
 ## 'You call us jihadi, what about Ram Madhav': Owaisi's sharp attack over ‘Track 2’ talks with Pakistan
 Owaisi criticised BJP's Ram Madhav for engaging with Pak under ‘Track 2’ talks, saying Indian Muslims would be labeled as Pakistanis or jihadis for the same.
 
-## NFHS-6 flags surge in spousal violence in Kerala
-The NFHS-6 reveals spousal violence among married women in Kerala nearly doubled to 17.7%, contrasting with the national decline in violence rates.
-
-## SC orders status quo on ethanol allocation to oil marketing companies; govt says fuel blending an experiment
-BPCL had contested an earlier order of the Karnataka high court directing them to increase ethanol allocation for 2025-26.
-
-## Keeping up with UP: Will there be political fallout from Ram Temple donation issue
-Concerns are growing within the BJP about the fallout of the issue ahead of the assembly elections in Uttar Pradesh due next year
-
-## Punjab Kings’ Shashank Singh denies assault allegations by cook; probe underway
-The complaint, filed by their domestic cook Vipendra Singh (31) at their Bhopal residence, alleged assault, verbal abuse, and illegal confinement
-
-## VB-G RAM G Act risks financial burden on states and farmers: Mallikarjun Kharge
-Kharge said that several states have raised questions about the structure and funding pattern of the VB-G RAM G Act
-
-## India's first 8-lane expressway tunnel under a tiger reserve to open in Rajasthan's Kota. All about it
-The tunnel features twin tubes, each carrying four traffic lanes, making it India's first eight-lane tunnel beneath a wildlife sanctuary.
-
-## Over 10,000 Etihad Rail tickets sold as UAE launches first passenger train service: Routes, travel time, fares
+## Tech updates (June 30, 2026): OnePlus N6, Galaxy A27 5G, boltt smartphones, more
 
 
-## Google makes Gemini’s personalised image generation free for eligible users in US
+## Man not sanctioned Rs 15 lakh loan for son’s wedding, wins Rs 22,000 payout from bank
 
 
-## ‘I tried to talk him down’: McCullum on Ben Stokes’ sudden retirement
+## Epstein files back in focus: Trump accuser ‘Jane Doe 4’ says she’s living in fear
 
 
-## Canada says ‘best time ever’ for Indian students, but numbers tell a different story
+## Actor Jasmin Bhasin’s health scare puts spotlight on terminal Ileitis: What doc wants you to know
 
 
-## ‘Could be a disaster’: Ankur Warikoo on new WhatsApp username feature
+## From Darjeeling Tea to Baluchari Saree, West Bengal ranks 3rd in GI tags
 
 
-## CBI arrests 2 former bank officials in Rs 504-crore IDFC First fraud
+## A 2-storey home for Rs 12.2 lakh: Why this New York couple dumped US for Italy
 
 
-## Asaram Bapu challenges rape sentence, Supreme Court seeks Rajasthan response
+## ‘This takes Germany into a huge hole’: Jurgen Klinsmann after loss to Paraguay
 
 
-## Why the Trump-Kazakhstan tungsten deal has sparked conflict of interest concerns
+## Aaditya Thackeray aide, Arun Gawli’s nephew: Sachin Ahir now in Shinde Sena
 
+
+## China’s millionaire population grows slower than global average. Is the wealth boom over?
+China’s millionaire population and personal wealth levels are estimated to have grown much more slowly than the global average last year, partly owing to the sluggish property market, though wealth creation in the world’s second-largest economy is expected to continue, according to UBS, the world’s 
 
 ## EU seeks ‘tangible results’ on China trade deficit by October
 The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, 
@@ -153,8 +162,20 @@ The world’s largest buyer of biopharmaceutical royalties has set up its first 
 ## Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami
 Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore
 
-## Shanghai should step up as finance hub, as Hong Kong ‘not enough’, proposal says
-Shanghai has been urged to build itself into a hub serving the rising outbound investment needs of Chinese firms, potentially increasing rivalry with Hong Kong as both cities race to augment their status as financial centres. The suggestion by Liu Xiaochun, vice-president of the Shanghai Finance Ins
+## Britain’s New ‘King’ Will Decide Its Fate
+Andy Burnham is on the verge of taking power—and of being confronted with his own limitations.
+
+## For Israel, the Oct. 7 War Is Effectively Over
+In 984 days of fighting, “total victory” eluded Netanyahu on all fronts.
+
+## Iranian Elites Are Not in Agreement About What to Do Next
+If the United States wants the cease-fire to last, it needs to take Tehran’s politics seriously.
+
+## Trump Isn’t Actually Abandoning the U.N. System
+Even this U.S. administration is confronting limits to the politics of exit.
+
+## Is Washington Endorsing Family Rule in Libya?
+The United States should heed its own track record of backing individuals in conflict-affected states.
 
 ## U.S., Iran Prepare for Talks on Strait of Hormuz
 Tehran insists that it has sole authority over the waterway. Washington isn’t convinced.
@@ -164,21 +185,6 @@ Tampering with the Federal Reserve’s independence proved to be a bridge too fa
 
 ## Farmers Worldwide Brace for El Niño
 An intense El Niño threatens to compound trade and energy pain.
-
-## Can NATO Pull Off a Dull Summit?
-European countries are hoping that Erdogan can keep Trump from causing chaos.
-
-## America’s Sexual Exceptionalism
-How Washington shaped global policy toward sex and prostitution.
-
-## Whales, Cars, Farms, and Parks
-How the United States remade the global environment from 1776 to today.
-
-## With America in Retreat, Europe Now Depends on Ukraine
-Europeans are gaming out their future defense, and it’s unthinkable without Kyiv.
-
-## Europe Will Never Be an AI Superpower
-But it’s not too late for the continent to claim some technological independence for itself.
 
 ## How the Kem Ley Assassination Changed Cambodian Politics
 A decade on from one of the country's highest-profile political killings, democracy remains a dream rather than reality.
@@ -252,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Apple iPhone 18 Pro secrets leaked in Tata Electronics hack: What we know
+Documents and photos are stolen from Apple’s Indian supplier. How does this impact the US tech giant?
+
+## France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups
+Kylian Mbappe's France, the title favourites for the 2026 World Cup, take on Alexander Isak's Sweden in the last 32.
+
+## Islamic centre brings joy through World Cup watch parties
+At an Islamic centre in US, World Cup watch parties are giving many a place to cheer on teams chasing football history.
+
+## Anti-migrant rally in South Africa demands undocumented foreigners leave
+Anti-migrant rally in South Africa demands undocumented foreigners leave.
+
+## South Africa deploys police as anti-immigrant protests prompt fears
+Anti-migrant groups have demanded undocumented foreigners leave the country by Tuesday.
+
+## Are US and Iranian negotiators meeting in Doha? What we know about talks
+Trump says Iran wants to meet in Qatar after attacks, but Tehran says it is sending a delegation only over frozen funds.
+
+## Morocco player hugs mother as team celebrates win against Netherlands
+Morocco’s Ismael Saibari embraced his mother after scoring the winning penalty against Netherlands.
+
 ## Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption
 Indonesia court finds former education minister guilty of abuse of authority and of causing state losses.
-
-## FIFA World Cup: Tuesday schedule, predictions and eliminated teams
-World Cup Day 20 sees France, Norway and Mexico chase Round of 16 places as the knockout stage continues.
-
-## US Supreme Court hands Trump 3-1 defeat in key rulings: What we know
-The justices deliver consequential rulings on mail-in ballots, the E Jean Carroll case and the firing of Lisa Cook.
-
-## Man in Gaza survives double tap Israeli strike on vehicle
-Man in Gaza survives double tap Israeli strike on vehicle
-
-## Advocacy groups file complaint against Ghana over Trump deportations
-The deportees were sent to Ghana, then to their home countries, despite earlier rulings by US judges that it was unsafe.
-
-## The next British PM should steer clear of Starmer’s shameful legacy
-The outgoing PM succeeded in enabling genocide and failed miserably at improving the lives of ordinary Brits.
-
-## Top 5 World Cup knockout shocks – Paraguay win hurts Germany again
-Paraguay's longshot win against Germany in the Round of 32 is the latest in a long line of World Cup knockout boilovers.
-
-## Video: At least two killed and hundreds displaced in Israeli attack on Gaza
-An Israeli attack on the al-Mawasi camp in Khan Younis has killed several people, including a mother and her child.
 
 ## ICICI Prudential Life plans 10-15% premium growth, bets on protection to outpace savings, CFO Dhiren Salian says
 ICICI Prudential Life Insurance aims for 10-15% premium growth, with protection products like term and annuity plans leading the charge. CFO Dhiren Salian highlighted that protection, currently 17% of premiums, is a key focus due to its underpenetration and higher profitability. The company is also 
