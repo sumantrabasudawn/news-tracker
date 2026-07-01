@@ -1,130 +1,145 @@
 # AION Intelligence
 
-## FirstFT: Europe defence drive benefits US jobs, Rutte says
-Also in today’s newsletter: Made-in-Germany US weapons and French-US logistics deal
+## BlueCrest loses £200mn legal battle over trader taxes
+Investment firm warns the UK is ‘no longer a serious contender’ as a place to do business
 
-## Introducing: The Story of Money
-A new video podcast from The FT exploring the history of finance
+## Trump’s contradictions mangle a complex history of US trade
+The president’s obsession with tariffs reflects a misreading of the past 250 years
 
-## Wall Street’s $60tn nepo baby boom
-The great wealth transfer is disrupting the business of managing money for rich people
+## June inflation in the Eurozone is good news for the ECB
+Weaker headline and core inflation provide early indication that the energy shock is temporary
 
-## CMA CGM nears $1.4bn deal for FedEx logistics unit
-French shipping group aims to expand in US and strengthen foothold in supply chain
+## FirstFT: US stock markets record best quarter since 2020
+Also in today’s newsletter: Democratic socialist wins Colorado primary and Trump administration green-lights latest Anthropic AI model
 
-## Record sea temperatures in June push world into ‘uncharted’ waters
-Global warming and El Niño cycle combine to drive average to near 21C
+## Getty scraps $3.7bn Shutterstock merger after UK watchdog order
+US regulators had already cleared combination of rivals when CMA imposed conditions
 
-## How would Andy Burnham’s ‘Number 10 North’ work?
-Downing Street’s Manchester base is expected to focus on the UK’s long-term economic strategy
+## Bodies pile up at Venezuela’s morgues as state services break down
+Socialist government faces pressure as death count from twin earthquakes climbs
 
-## Germany woos Trump with plan to make US weapons in Europe
-Talks on ‘joint production concepts’ accelerate ahead of Nato summit
+## Eurozone inflation falls more than expected to 2.8% in June
+Price growth remains above central bank’s target for fourth straight month
 
-## Small fraction of EU crypto groups hold licence as new rules come into force
-Stringent bloc-wide MiCA regulations push unlicensed digital-assets companies to offload customers
+## Starmer’s ineffective defence investment plan
+Roadmap demonstrates obsession with input targets rather than strategy to properly protect UK and allies
 
-## The job market is reaccelerating. Is the economy?
-Plus the bitcoin clown car company crash
+## FT Financial Literacy and Inclusion Campaign
+The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
-## European armies already filling holes made by US withdrawals, says Rutte
-Also in this newsletter: Ireland sets out its priorities as it assumes the EU presidency
+## ABF sugar profits hit by Strait of Hormuz closure
+Primark sales decline as FTSE 100 group struggles ahead of planned split of retail and food businesses
 
-## GST mop-up grows 14% to ₹1.95 lakh crore in June
+## UK watchdog launches in-depth probe into Virgin Media O2 owners’ £2bn deal
+Review of Telefónica and Liberty Global’s planned takeover of Netomnia could delay consolidation in fibre broadband sector
 
+## UK house price inflation rises as falling energy costs soften interest rate expectations
+Annual rate of inflation rose to 2.2% in June, up from 1.7% in May, according to Nationwide
 
-## How government’s stake sales lit up a lacklustre stock market
-Government raises ₹18,560 crore by trimming its holdings in six companies in the three months through June, marking its largest such quarterly haul in recent years
+## CEOs beware — here comes the algo tone police
+What is the appropriate amount of arousal for an earnings call?
 
-## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty crosses 24,000; KPIT hits 52-week low, tanks 15%
-Sensex, Nifty, Share Prices LIVE: At 11:01 am, Sensex was up 389.37 points (+0.51%) at 76,868.04, Nifty 50 rose 113.60 points (0.48%) to 23,979.35
+## Sensex today | Stock Market Closing Bell: Sensex settled 443.97 76,922.64; NIfty 50 increased to 24,005.85
+Sensex, Nifty, Share Prices Closing Bell: Sensex settled 443.97 pts or 0.58% higher at 76,922.64, and NIfty 50 increased 140.10 pts or 0.59% to 24,005.85.
 
-## Hero MotoCorp repositions VIDA for the next phase of EV mobility
-In an exclusive interview with BusinessLine, Hero MotoCorp’s EV chief discusses Vida’s turnaround and growth roadmap
+## Aastha Spintex IPO subscribed 4.42 times on final day so far
+The NII portion was subscribed 7.56 times, while the QIB category was booked 2.70 times. The retail investor portion received 2.13 times subscription with a few hours of bidding still remaining
 
-## Government bonds rise as index-entry hopes counter rise in US yields
-Traders wait for Bloomberg Index Services’ ‌decision on whether to add Indian Fully Accessible ‌Route (FAR) ⁠bonds to its flagship index
+## Ashok Leyland introduces India’s first air suspension range of trucks
+These new trucks offer best in class payload capability, improved comfort and better performance
 
-## ICFAI Business School Opens IBSAT 2026 Registrations, Announces ₹10 Crore Scholarship Program
-ICFAI Business School Opens IBSAT 2026 Registrations, Announces ₹10 Crore Scholarship Program
+## India imported record crude volumes in June despite West Asia tensions: Kpler
+The import volumes underscore India's ability to maintain crude supplies through diversified sourcing even as conflict in West Asia raised concerns over global energy shipments & briefly pushed up oil prices
 
-## AVPN Announces New Strategy to Mobilise Capital for Asia's USD 26-Trillion Social and Environmental Transformation
-AVPN Announces New Strategy to Mobilise Capital for Asia's USD 26-Trillion Social and Environmental Transformation
+## How government’s ₹18,560-crore stake sales lit up a lacklustre stock market
+Government trims its holdings in six companies in the three months through June, resulting in its largest quarterly haul in recent years
 
-## Adani Green surpasses 20 GW renewable energy capacity, first in India to hit milestone
-The company added 5,051 megawatts (MW) in FY26, the highest annual renewable capacity addition by any company outside China
+## Accel, Nikhil Kamath-backed Sarla Aviation completes flight test campaign of demo e-aircraft
+Sylla 1.0 went from design to flight in under 12 months, a development pace that few eVTOL programmes globally have matched,
 
-## Commercial LPG, jet fuel prices cut as West Asia impact eases
+## Super El Nino threat unseen since 1950 shaping up, says Australian Met body
+It may become one of the powerful El Niño events, triggering fears of major worldwide weather and climate disruptions; global sea surface temperatures at a new high, says Copernicus
 
+## Ola Electric doubles growth in Q1 FY27, reporting 43,719 vehicles
+India’s electric 2-wheeler market continues to witness strong structural growth due to increasing consumer preferences for electric mobility and growing awareness around sustainability
 
-## Nayara Energy cuts petrol by Rs 5 per litre, diesel by Rs 3; first fuel price reduction in over 2 years
-Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first price reduction by any fuel retailer in over two years, driven by easing Middle East tensions and falling international crude oil prices. While Nayara
+## Hormuz oil shock sends India back to Russia: Is this a peak or the new normal?
+Russia has emerged as the dominant supplier of crude oil for India - with imports touching over 240 million barrels in the four months since the US-Iran conflict began. In fact, crude imports from Russia are over 4 times the nearest supplier - UAE at over 58 million barrels.
 
-## Oil prices rise as Iran-US talks hit roadblock, supply fears return
-Crude oil prices edged up as stalled Iran-US talks reignited fears of Middle East supply disruptions. Despite claims of Strait of Hormuz reopening, uncertainty persists. Analysts have lowered oil price forecasts, but US inventory data and ongoing diplomatic efforts remain key market drivers. Investo
+## Delhi EV Policy 2026: Financial incentives, digital transparency and key changes explained
+Delhi has officially launched its Electric Vehicles Policy 2026, effective July 1, 2026, aiming to boost EV adoption and improve air quality until March 2030. The policy offers significant tax exemptions for electric cars and substantial subsidies for two and three-wheelers. It also mandates the pha
 
-## Will airfares get cheaper? Jet fuel prices cut to Rs 110/litre
+## Gold price prediction today: After worst quarter in 13 years, will gold continue to fall? Check July 1, 2026 outlook
+Gold price prediction today: Gold prices will continue to be under pressure with rate hike expectations in place, with near-term outlook negative, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
+## GST revenue grows 13.9% in June, collections touch Rs 1.94 lakh crore
+India's GST collections surged 13.9% to Rs 1.95 lakh crore in June 2026, fueled by a significant 34.6% jump in import tax revenues. This robust growth, despite global uncertainties, highlights the maturing and resilient nature of India's tax system. Increased refund disbursements also supported busi
 
-## GST at 9: Making India’s auto tax framework fit for the next gear
-As GST completes nine years, the focus may now shift from implementation to the future. The next phase of reforms may ensure that India’s tax system keeps pace with the changing needs of the automotive industry.
+## India plans 30-day LPG storage buffer after Iran war exposes Hormuz supply risk
+India is bolstering its energy security by planning a 30-day strategic LPG reserve following Middle East conflict concerns. State-run oil companies are set to invest significantly in expanding storage capacity, exploring options like onshore facilities, underground caverns, and floating storage. Thi
 
-## Nine years of GST: From supply chain efficiency to capital efficiency in FMCG
-One of the most notable achievements of GST has been the reduction in the tax burden on several mass-consumption products. Over the years, the GST Council has rationalized tax rates on a range of FMCG products, making essential goods more affordable for consumers.
+## 'Long queues at petrol stations': How Ukraine’s drone strikes are hitting Russia’s fuel supply
+Russia grapples with a severe fuel shortage, a direct consequence of Ukrainian drone attacks on its oil refineries. This has led to widespread rationing, lengthy queues at petrol stations, and escalating prices, impacting everyday citizens and businesses. President Putin acknowledged the issues, tho
 
-## Commercial LPG cylinder prices slashed by Rs 183.50 from July 1: Check city-wise rates
-Commercial LPG prices have seen a significant drop of Rs 183.50 effective July 1, bringing relief to businesses like hotels and vendors. A 19 kg cylinder now costs Rs 2930 in Delhi. Meanwhile, prices for household cylinders remain unchanged. This follows a price hike in June attributed to supply iss
+## ITR filing: How to claim HRA exemption when filing income tax return - top points to keep in mind
+​It’s important to note that the HRA exemption is available only to taxpayers who opt for the old tax regime. It is not an option under the new income tax regime.
 
-## Top stocks to buy today: Stock recommendations for July 1, 2026 - check list
-Stock market recommendations: NACL Industries, Info Edge (Naukri), and Minda Corporation - these are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 1, 2026:
+## RBI’s net short forward position hits record $106.6 billion amid rupee pressure
+The Reserve Bank of India's intervention to shield the rupee from volatility, fueled by Middle East tensions, has widened its net short forward position to a record $106.6 billion. Despite a recent dip to a historic low, the rupee has shown recovery, buoyed by anticipated foreign capital inflows. Th
 
-## Chetan taken to Lohagad to recreate ‘murder’; lawyer claims ‘no specific role’
-Both Siya Goyal and Chetan Chaudhary are accused of killing Pune-based realtor Ketan Agarwal by allegedly pushing him off a cliff at the Lohagad Fort.
+## Why Indians will benefit the most by US Supreme Court's order on birthright citizenship | Explained
+Chief Justice John Roberts’ concluded that birthright citizenship has always depended primarily on birthplace — not on parents’ immigration status or domicile.
 
-## Chhattisgarh forest dept deploys locals at 30 locations in Abujhmad: Officials
-Without waiting for the survey to conclude, the department has stationed local youths at 30 strategic locations across the forest to prevent illegal felling
+## Dentist who mocked Ketan Agarwal's death suspended for 5 years by dental body
+In the viral video, Muskan Soni made objectionable remarks about Ketan Agarwal, triggering widespread outrage on social media.
 
-## Raja Raghuvanshi's family to approach Supreme Court after bail to Sonam upheld
-The Meghalaya High Court decided to grant the accused, Sonam Raghuvanshi, bail due to grave police errors in informing her about the grounds of her arrest
+## Ram Janmabhoomi Trust chairman Mahant Nritya Gopal Das admitted to ICU
+A medical bulletin issued by Medanta Hospital said Das was brought to its emergency department at around 1.30 pm on June 29 in an unconscious condition.
 
-## Big changes from July 1: Costlier passports, free Aadhaar updates, EPFO services
-The changes have been announced by the respective government authorities through official notifications and memorandums.
+## Govt moves Estate Officer for eviction of Delhi Gymkhana Club: 'Illegal occupation'
+Centre told the Estate Officer that Delhi Gymkhana Club's continued occupation after lease termination is "wholly unauthorised and illegal".
 
-## Indian techie dies after car gets swept away in flash floods in Kansas, US
-The Consulate General of India in Houston condoled the 33-year-old's demise and said it is working to provide all possible assistance to the grieving family.
+## Where is monsoon and when is it coming to Delhi? IMD shares status | Check forecast
+For Delhi, the IMD has forecast a wet spell over the next seven days, with generally cloudy skies, moderate rainfall and thunderstorms expected across the city.
 
-## US lifts sanctions on four Indian companies linked to Russia-related measures
-The entities delisted are RRG Engineering Technologies Private Limited, Lokesh Machines Limited, Galaxy Bearings Ltd, and Shaurya Aeronautics Private Limited.
+## Cities with higher manufacturing share in employment lag on wages
+Manufacturing has the highest share of salaried workers among major sectors in India
 
-## Aviation turbine fuel price slashed by ₹5 amid softening international oil rates: Report
-Aviation turbine fuel (ATF) now costs ₹110 a litre in Delhi, PTI news agency reported, citing industry sources.
+## Bengaluru’s new development minister is everywhere. Is Krishna Byre Gowda’s entry too late to save the city?
+Gowda has adopted an aggressive, hands-on approach, signalling a shift towards stricter accountability in city governance.
 
-## Viksit Bharat G Ram G Act rollout today: Full list of new state-wise daily wage rates
-Viksit Bharat G Ram G Act: Effective July 1, the revised VB-G RAM G wage structure for rural workers raises national average daily wages to ₹327.4.
+## Swahili Queen’s letters among documents surveyed at Goa archives, India’s oldest
+Goa archives director Balaji Shenvy said they launched their survey around three months ago and have since surveyed over 31,000 manuscripts and documents
 
-## When Varun Dhawan admitted to feeling insecure about Sidharth Malhotra: ‘I doubt anyone…’
-
-
-## 20-year-old beaten to death in Ghaziabad after bike grazes realtor’s car
-
-
-## Once a target of racist chants, Mexico’s Quiñones is now hero-worshipped
-
-
-## Haryana TET 2026 admit cards releasing today; where and how to download
-
-
-## Alia Bhatt’s Alpha gets UA 16+ rating: CBFC mutes expletives, cuts stabbing scenes
+## 2 weak trees, 2 young lives snuffed out in Mumbai in 2 months
 
 
-## 14 children dead after tuition centre roof collapses during class in Pakistan’s Lahore
+## Mob vandalises man’s house after he elopes with married woman in Belagavi
 
 
-## Why the US Supreme Court struck down Trump’s birthright citizenship order
+## Google brings Gemini Spark to macOS, adds app integrations and real-time tracking features
 
 
-## Miracle in Venezuela: 6 days after earthquakes, toddler rescued from rubble
+## China launches 350 kmph bullet train through Qinling Mountains, cutting travel time by 6 hours
 
+
+## EAMCET AP Results 2026 Live Updates: Results out at cets.apsche.ap.gov.in
+
+
+## Know Your City: Can a museum create innovators? This Bengaluru science centre is trying
+
+
+## ‘No hurry to tear up’ Jaipur Polo Ground, Delhi High Court tells Centre
+
+
+## India vs England 1st T20I Playing 11: IND get Varun boost but will Vaibhav get look in?
+
+
+## Hong Kong stocks tumble amid first-half global rally
+Hong Kong’s Hang Seng Index was among the worst performing major stock benchmarks in the first half of the year after missing out on the artificial intelligence (AI) boom and suffering amid concerns about China’s economy. The gauge fell 11 per cent, beating only Indonesia among major markets, while 
+
+## Buyers eye Hong Kong luxury properties as agents predict price growth will remain mild
+Hong Kong’s luxury property market will remain resilient for the rest of the year but prices could stay mild, according to property agents, following the market’s robust rebound in the first half. According to data provided by Midland Realty, the transaction volume and value of luxury properties wor
 
 ## Will slowing car sales in China reignite brutal price war in crowded market?
 In the most bearish Chinese car market forecast by an international bank or consultancy, AlixPartners has predicted that deliveries will fall by 10 per cent this year on the back of a shaky economy and softening government support. Weak buying interest was likely to fuel a brutal price war that woul
@@ -144,11 +159,14 @@ Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Chang
 ## China’s millionaire population grows slower than global average. Is the wealth boom over?
 China’s millionaire population and personal wealth levels are estimated to have grown much more slowly than the global average last year, partly owing to the sluggish property market, though wealth creation in the world’s second-largest economy is expected to continue, according to UBS, the world’s 
 
-## EU seeks ‘tangible results’ on China trade deficit by October
-The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, 
+## India Should Stop Panicking About Trump
+The emotionalism in Indian politics obscures the strategic logic of U.S.-India ties.
 
-## Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play
-Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put investors on tenterhooks. The Hang Seng Index dropped 11 per cent in the January-to-Ju
+## Trump’s Trans-Atlantic Tech Schism
+The U.S. president’s policies are driving Europe’s push for technological sovereignty.
+
+## The Middle East Has a New Saudi-Led Axis
+The newfound bloc has emerged as a potential winner from the Iran war.
 
 ## Blackouts Are Prabowo’s Latest Problem
 Why can’t coal-rich Indonesia keep the lights on?
@@ -164,15 +182,6 @@ The U.S. blockade is destroying Havana’s chances of becoming stable and democr
 
 ## Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.
 Recent scientific reassessments strengthen the case for rapid climate action rather than weaken it.
-
-## The European Country That Figured Out Trump’s White House
-Poland has been successful partly due to strong personal ties, but history suggests that its luck may not hold forever.
-
-## Israel Has a Hezbollah Drone Problem
-“We don’t have a solution,” an Israeli military official said.
-
-## Britain’s New ‘King’ Will Decide Its Fate
-Andy Burnham is on the verge of taking power—and of being confronted with his own limitations.
 
 ## In Photos: Northeast Thailand’s Rocket Festival
 The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
@@ -198,6 +207,15 @@ The Nakamal Agreement between Australia and Vanuatu may be weaker than Canberra�
 ## A Mid-Year Check on US Asia Policy
 Goodbye INDOPACOM and hello (again) Middle Eastern distractions.
 
+## Trojan Spirit, the Army’s Intelligence Backbone, Needs a Successor
+In 1990, the idea that deployed commanders could access the latest intelligence from three-letter agencies in the middle of nowhere was radical. But the Army was starting to make this idea real through a program called Trojan Spirit, so they could address a major strategic barrier: There were too ma
+
+## The Hizballah Predicament: Why An Integrated Approach Is Necessary
+What can leaders do about a transnational organization that is a militia, a political party, a social services network, and a smuggling operation at the same time — and one that has resisted various dialogues and survived repeated attacks?American, Lebanese, and other leaders should recognize Hizbal
+
+## The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice
+The amphibious invasion of Normandy on June 6, 1944, remains the largest and most complex amphibious operation in history. On the first day alone, Allied forces landed eight divisions, including five amphibious assault and three airborne, totaling roughly 160,000 personnel. That force more than doub
+
 ## The Shifting Fortunes of the Kurds
 The Kurds’ fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers’ Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous ripple effe
 
@@ -212,15 +230,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## The Defense Industrial Alliance Washington Is Throwing Away
 As the relationship between the United States and Canada continues to degrade, it now comes at the expense of each country’s industrial security.Last month, the Pentagon announced the unilateral suspension of the 86-year-old Canadian Permanent Joint Board on Defense in response to what the White Hou
-
-## A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence
-During the Cold War, Europe kept asking whether Washington would risk an American city to save a European one. It was an impolite question, but a useful one, which is why it never quite left the room. It has now packed its bags and moved east. Earlier this year, French President Emmanuel Macron crea
-
-## The Art of Statecraft in an Age of Strategic Failure
-Jack Watling, Statecraft: The New Rules of Power in a Divided World (Macmillan, 2026)The war against Iran exposed a multitude of forced errors and own goals in the conduct of statecraft. The purpose of sound statecraft is the integrated application of a state’s tools and its repertoire of government
-
-## Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes
-Nuclear policy debates are at their best when they force hard questions about risk, deterrence, and military necessity. They are at their worst when disagreement is recast as bad faith. In 2018, as an outgrowth of a rigorous policy review process, the Trump administration’s Nuclear Posture Review id
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Democratic socialist Kiros defeats longtime incumbent in Colorado primary
-Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.
+## In Pictures: Mexico celebrates historic World Cup victory
+Fireworks light up Mexico’s cities as fans toast historic knockout-round win and dream of a deeper run ahead.
 
-## ‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives
-Once a European nation receiving large numbers of refugees and migrants, Sweden completes a decade-long overhaul.
+## Russian attacks kill three in Ukraine as Kyiv hits another oil refinery
+President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia.
 
-## Why is MAGA in meltdown over the Supreme Court birthright ruling?
-The US Supreme Court has rejected Trump’s bid to stop the children of some immigrants obtaining US citizenship at birth.
+## The Possibilist | Ep 8
+Veteran mediator William Ury reflects on how the fine art of diplomacy is essential at holding the world together.
 
-## Gojek co-founder, turned Indonesian Education Minister jailed for 10 years
-Gojek co-founder and former Education Minister Nadiem Makarim has been sentenced to 10 years in prison.
+## Venezuelan sky turns deep red as sun sets over Caracas
+Venezuelan sky turns deep red as sun sets over Caracas
 
-## Tutoring centre roof collapses killing 14 children in Pakistan
-At least 14 children were killed when the roof of a private tutoring centre collapsed outside Lahore, Pakistan.
+## Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## Supreme Court’s divided ruling on birthright citizenship may be revisited
-The Supreme Court’s 6-3 ruling on birthright citizenship could signal that the issue could return to the Court.
+## US-Iran negotiations: What’s the latest?
+Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.
 
-## World’s oceans experience hottest June ever, scientists say more heat ahead
-European Union monitors say the first half of 2026 was 'marked by sustained and exceptional ocean warmth'.
+## Rescuers race to reach survivors in Venezuela
+"I'm still begging for people to help me get him out."
 
-## Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse
-Adverse weather does not dampen Mexico's party as the cohosts storm into the last 16 by beating Ecuador.
+## FIFA World Cup: Wednesday schedule, predictions and bracket update
+England, Argentina and Belgium chase round of 16 spots as World Cup underdogs eye historic upsets.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
@@ -294,6 +303,12 @@ CEAT aims to boost international revenue to one-third of its total within five y
 ## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
 The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
 
+## Indian rupee weakness to persist despite RBI measures to bring in dollars
+Despite the Reserve Bank of India's efforts to attract foreign capital, the Indian rupee is expected to remain weak against the U.S. dollar in the coming months. While recent measures and falling oil prices have offered some support, analysts predict the rupee will trade around current levels. Expec
+
+## RBI warns unwinding of leveraged hedge fund positions during stress could roil bond markets
+The Reserve Bank of India has issued a stark warning regarding the increasing influence of large, leveraged hedge funds in global sovereign bond markets. Their rapid exit during market turmoil could trigger significant sell-offs and widespread financial instability. This concern is amplified by risi
+
 ## India plans to add strategic fuel reserves after Iran war shock
 This ambitious move follows a review of existing, limited stockpiles and includes expanding underground crude storage and addressing the challenges of storing gas.
 
@@ -311,10 +326,4 @@ The Reserve Bank of India's recent measures to boost dollar inflows are a tempor
 
 ## Corporate Mitra scheme to commence with 2,000 participants
 Corporate Mitras will provide affordable support to Micro, Small and Medium Enterprises (MSMEs) in various areas, including regulatory compliance, GST, accounting, financial guidance, cost accounting and secretarial services.
-
-## Eighth Pay Panel may stay cautious on fitment factor
-While the Commission hasn't yet finalised its recommendations, early discussions suggest that the fitment factor could remain close to the 2.57 multiplier adopted by the Seventh Pay Commission, even as employee unions continue to push for a higher revision.
-
-## RBI issues final norms to expand credit derivatives market, allows wider CDS use
-The Reserve Bank of India (RBI) has issued the final directions for expanding the country's credit derivatives market, paving the way for wider use of instruments such as Credit Default Swaps (CDS) and total return swaps, as per a statement by the apex bank on Thursday.
 
