@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## BlueCrest loses £200mn legal battle over trader taxes
-Investment firm warns the UK is ‘no longer a serious contender’ as a place to do business
+## Inflation and interest rates tracker: see how your country compares
+Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
 
-## Trump’s contradictions mangle a complex history of US trade
-The president’s obsession with tariffs reflects a misreading of the past 250 years
+## Germany woos Trump with plan to make US weapons in Europe
+Talks on ‘joint production concepts’ accelerate ahead of Nato summit
 
-## June inflation in the Eurozone is good news for the ECB
-Weaker headline and core inflation provide early indication that the energy shock is temporary
+## Five things we learnt from Trump’s financial disclosure
+The US president earned more than $1bn from digital currency interests as well as real estate and stock trades
 
-## FirstFT: US stock markets record best quarter since 2020
-Also in today’s newsletter: Democratic socialist wins Colorado primary and Trump administration green-lights latest Anthropic AI model
+## Donald Trump made more than $1bn last year in return to presidency
+US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume
 
-## Getty scraps $3.7bn Shutterstock merger after UK watchdog order
-US regulators had already cleared combination of rivals when CMA imposed conditions
+## UK flood reinsurer pushes to cap claims and lift premiums
+Move follows Flood Re being saddled with expensive properties that have made scheme ‘regressive’
 
-## Bodies pile up at Venezuela’s morgues as state services break down
-Socialist government faces pressure as death count from twin earthquakes climbs
+## Lloyds scraps Halifax brand
+UK’s biggest retail bank took over 173-year-old lender as part of its rescue of HBOS during financial crisis
+
+## ‘They will come back at night’: migrants flee South Africa vigilantes
+Politicians have stoked surge in anti-foreigner unrest ahead of local elections
 
 ## Eurozone inflation falls more than expected to 2.8% in June
 Price growth remains above central bank’s target for fourth straight month
 
-## Starmer’s ineffective defence investment plan
-Roadmap demonstrates obsession with input targets rather than strategy to properly protect UK and allies
+## Self-drive start-up Wayve to be first big test of London’s Pisces market
+LSEG’s new private markets platform to host sale of shares in UK autonomous vehicle company next week
+
+## Google ordered to pay Klarna $1.5bn antitrust damages
+Swedish court rules search engine favoured its own price-comparison tool over fintech’s PriceRunner site
+
+## What Medallia’s faceplant tells us about private credit
+Equity wipeout, debt distressed . . . trebles all round?
+
+## TG Jones wins court approval to close up to 150 stores
+Proposal follows owner’s admission that WHSmith’s former high street business is ‘almost completely broken’
 
 ## FT Financial Literacy and Inclusion Campaign
 The FT invites readers to join our campaign to promote financial literacy in the UK and around the world
 
-## ABF sugar profits hit by Strait of Hormuz closure
-Primark sales decline as FTSE 100 group struggles ahead of planned split of retail and food businesses
+## GST collection surges 14% in June
+Net collections up 11.2% even as refunds accelerate 29%; first quarter sees 8.4% growth in gross collections
 
-## UK watchdog launches in-depth probe into Virgin Media O2 owners’ £2bn deal
-Review of Telefónica and Liberty Global’s planned takeover of Netomnia could delay consolidation in fibre broadband sector
+## Advit Jewels stock ends with 30% listing gains on NSE
+The ₹165.16-crore IPO was subscribed 212.63 times on the final day of biddingBengaluru
 
-## UK house price inflation rises as falling energy costs soften interest rate expectations
-Annual rate of inflation rose to 2.2% in June, up from 1.7% in May, according to Nationwide
+## Noise Master Buds 2. Bose tuned sound that rarely skips a beat
+Balanced sound, lightweight form and edgy design
 
-## CEOs beware — here comes the algo tone police
-What is the appropriate amount of arousal for an earnings call?
+## Vivo X300 FE. Size does (not) matter
+Compact form, flagship performance and a bag of camera tricks
 
-## Sensex today | Stock Market Closing Bell: Sensex settled 443.97 76,922.64; NIfty 50 increased to 24,005.85
-Sensex, Nifty, Share Prices Closing Bell: Sensex settled 443.97 pts or 0.58% higher at 76,922.64, and NIfty 50 increased 140.10 pts or 0.59% to 24,005.85.
+## PE-VC investments down 3% y-o-y in June quarter
+Mega deals rise but volume falls as early-stage activity shows signs of revival
 
-## Aastha Spintex IPO subscribed 4.42 times on final day so far
-The NII portion was subscribed 7.56 times, while the QIB category was booked 2.70 times. The retail investor portion received 2.13 times subscription with a few hours of bidding still remaining
+## JSW Infrastructure raises ₹7,503 crore in landmark QIP, stock rises 2.7%
+The first combined ‘primary and promoter OFS’ deal draws 6.7x subscription from global and domestic investors
 
-## Ashok Leyland introduces India’s first air suspension range of trucks
-These new trucks offer best in class payload capability, improved comfort and better performance
+## Roche adds second digital tech hub in Hyderabad, India
+New facility to boost data-driven innovations and IT solutions for patient care
 
-## India imported record crude volumes in June despite West Asia tensions: Kpler
-The import volumes underscore India's ability to maintain crude supplies through diversified sourcing even as conflict in West Asia raised concerns over global energy shipments & briefly pushed up oil prices
+## Mid-career executives drive online education demand
+A rapidly evolving job market is forcing mid-career executives to seek continuous upskilling to maintain their professional relevance
 
-## How government’s ₹18,560-crore stake sales lit up a lacklustre stock market
-Government trims its holdings in six companies in the three months through June, resulting in its largest quarterly haul in recent years
+## Stock market: Which are top gainers and losers on NSE & BSE today? Check list
+Indian stock markets surged on Wednesday, with the Sensex and Nifty reclaiming key levels after a two-day slump. Positive global cues, including falling crude oil prices, boosted investor confidence. Sectors like banking and consumer goods saw significant gains, while IT stocks faced pressure. Analy
 
-## Accel, Nikhil Kamath-backed Sarla Aviation completes flight test campaign of demo e-aircraft
-Sylla 1.0 went from design to flight in under 12 months, a development pace that few eVTOL programmes globally have matched,
+## Cabinet clears Rs 14,115 crore highway projects in Delhi, UP; approves Rs 6,970 crore 6-lane Dwarka tunnel
 
-## Super El Nino threat unseen since 1950 shaping up, says Australian Met body
-It may become one of the powerful El Niño events, triggering fears of major worldwide weather and climate disruptions; global sea surface temperatures at a new high, says Copernicus
-
-## Ola Electric doubles growth in Q1 FY27, reporting 43,719 vehicles
-India’s electric 2-wheeler market continues to witness strong structural growth due to increasing consumer preferences for electric mobility and growing awareness around sustainability
 
 ## Hormuz oil shock sends India back to Russia: Is this a peak or the new normal?
 Russia has emerged as the dominant supplier of crude oil for India - with imports touching over 240 million barrels in the four months since the US-Iran conflict began. In fact, crude imports from Russia are over 4 times the nearest supplier - UAE at over 58 million barrels.
@@ -81,59 +87,59 @@ India is bolstering its energy security by planning a 30-day strategic LPG reser
 ## 'Long queues at petrol stations': How Ukraine’s drone strikes are hitting Russia’s fuel supply
 Russia grapples with a severe fuel shortage, a direct consequence of Ukrainian drone attacks on its oil refineries. This has led to widespread rationing, lengthy queues at petrol stations, and escalating prices, impacting everyday citizens and businesses. President Putin acknowledged the issues, tho
 
-## ITR filing: How to claim HRA exemption when filing income tax return - top points to keep in mind
-​It’s important to note that the HRA exemption is available only to taxpayers who opt for the old tax regime. It is not an option under the new income tax regime.
+## Govt flags fraud and impersonation risks in WhatsApp username feature, MeitY to call Meta for talks
+WhatsApp has announced the introduction of usernames, a feature that will allow users to communicate without sharing their phone numbers.
 
-## RBI’s net short forward position hits record $106.6 billion amid rupee pressure
-The Reserve Bank of India's intervention to shield the rupee from volatility, fueled by Middle East tensions, has widened its net short forward position to a record $106.6 billion. Despite a recent dip to a historic low, the rupee has shown recovery, buoyed by anticipated foreign capital inflows. Th
+## Cabinet approves construction of 6-lane tunnel to connect Dwarka Expressway to Vasant Kunj | What we know
+The 8.1-km road tunnel for NH-148AE will be constructed through the hybrid annuity mode (HAM), and the project is expected to be completed in five years.
 
-## Why Indians will benefit the most by US Supreme Court's order on birthright citizenship | Explained
-Chief Justice John Roberts’ concluded that birthright citizenship has always depended primarily on birthplace — not on parents’ immigration status or domicile.
+## Karnataka Congress chief asks why BJP's Ram Madhav met retired ISI officer in Colombo
+Cong state chief asks why BJP leader Ram Madhav met retired Pakistan ISI officer
 
-## Dentist who mocked Ketan Agarwal's death suspended for 5 years by dental body
-In the viral video, Muskan Soni made objectionable remarks about Ketan Agarwal, triggering widespread outrage on social media.
+## ₹35 crore to topple Vijay govt: TVK MLA alleges horse-trading; ‘DMK link’ emerges
+TVK's N Elaiyaraja claimed he was offered ₹35 crore and threatened to influence his vote in a legislative resolution.
 
-## Ram Janmabhoomi Trust chairman Mahant Nritya Gopal Das admitted to ICU
-A medical bulletin issued by Medanta Hospital said Das was brought to its emergency department at around 1.30 pm on June 29 in an unconscious condition.
+## Nayara vs public fuel retailers: City-wise comparison of petrol and diesel prices after latest cut
+Public sector oil marketing companies have not changed their retail petrol and diesel prices.
 
-## Govt moves Estate Officer for eviction of Delhi Gymkhana Club: 'Illegal occupation'
-Centre told the Estate Officer that Delhi Gymkhana Club's continued occupation after lease termination is "wholly unauthorised and illegal".
+## Odisha govt to withdraw school textbooks after errors like Hampi-Konark mix-up
+Teachers also pointed out instances of incorrect names of personalities and swapped images in several textbooks
 
-## Where is monsoon and when is it coming to Delhi? IMD shares status | Check forecast
-For Delhi, the IMD has forecast a wet spell over the next seven days, with generally cloudy skies, moderate rainfall and thunderstorms expected across the city.
+## BJP's Nitin Nabin, Congress' Mallikarjun Kharge invited for Ayatollah Ali Khamenei's funeral in Iran next week
+Iran's Supreme Leader Ayatollah Ali Khamenei was killed in US-Israeli strikes on February 28.
 
-## Cities with higher manufacturing share in employment lag on wages
-Manufacturing has the highest share of salaried workers among major sectors in India
+## ‘Amit Shah didn't visit Ram Temple even once’: Kejriwal attacks govt amid donation row
+Arvind Kejriwal said, “I want to ask Amit Shah Ji five questions. The first question: Why have you not visited the Ram Temple?”
 
-## Bengaluru’s new development minister is everywhere. Is Krishna Byre Gowda’s entry too late to save the city?
-Gowda has adopted an aggressive, hands-on approach, signalling a shift towards stricter accountability in city governance.
-
-## Swahili Queen’s letters among documents surveyed at Goa archives, India’s oldest
-Goa archives director Balaji Shenvy said they launched their survey around three months ago and have since surveyed over 31,000 manuscripts and documents
-
-## 2 weak trees, 2 young lives snuffed out in Mumbai in 2 months
+## Led 2 Corps during Operation Sindoor: Lt Gen Rajesh Pushkar takes charge of Southern Command
 
 
-## Mob vandalises man’s house after he elopes with married woman in Belagavi
+## Delhi High Court rules against Ilaiyaraaja in copyright battle with Saregama
 
 
-## Google brings Gemini Spark to macOS, adds app integrations and real-time tracking features
+## June GST collections at Rs 1.95 lakh crore, import revenue jumps 35%
 
 
-## China launches 350 kmph bullet train through Qinling Mountains, cutting travel time by 6 hours
+## US at 250: How Indian Americans became one of America’s most influential communities
 
 
-## EAMCET AP Results 2026 Live Updates: Results out at cets.apsche.ap.gov.in
+## Prime accused’s wife knew of Teacher Eligibility Test paper leak plot, say police
 
 
-## Know Your City: Can a museum create innovators? This Bengaluru science centre is trying
+## India vs England Live Score, 1st T20: IND will to take ENG at Chester-le-Street
 
 
-## ‘No hurry to tear up’ Jaipur Polo Ground, Delhi High Court tells Centre
+## Couple loses hotel booking money after passport loss, wins Rs 1.25 lakh refund
 
 
-## India vs England 1st T20I Playing 11: IND get Varun boost but will Vaibhav get look in?
+## Runaway interfaith couple fails to prove case for safety, denied relief
 
+
+## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
+Subdued demand in China is likely to have weighed on Budweiser Brewing APAC’s second-quarter sales, according to analysts, but the ongoing Fifa World Cup might provide a brighter start to the third quarter. Citing information from investor relations personnel at Belgian beer giant Anheuser-Busch InB
+
+## ‘Upside potential’: World Gold Council counts on Asian buyers to curb price plunge
+Asian markets are a growing force in gold price discovery as the metal remains sensitive to heightened geopolitical concerns and abrupt shifts in investor sentiment, according to the World Gold Council. Asian trading hours have been a key driver at gold price rebounds during the first half of the ye
 
 ## Hong Kong stocks tumble amid first-half global rally
 Hong Kong’s Hang Seng Index was among the worst performing major stock benchmarks in the first half of the year after missing out on the artificial intelligence (AI) boom and suffering amid concerns about China’s economy. The gauge fell 11 per cent, beating only Indonesia among major markets, while 
@@ -152,12 +158,6 @@ A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its hig
 
 ## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
 China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
-
-## UK investors sue Binance and founder Zhao Changpeng for US$200 million
-Almost 1,700 British ⁠investors are suing ⁠Binance and founder ⁠Zhao Changpeng for at least £150 million (US$200 million), alleging the crypto trading platform sold them risky, complex derivative products without regulatory authorisation. The claimants, some ‌of whom said they had lost tens of thous
-
-## China’s millionaire population grows slower than global average. Is the wealth boom over?
-China’s millionaire population and personal wealth levels are estimated to have grown much more slowly than the global average last year, partly owing to the sluggish property market, though wealth creation in the world’s second-largest economy is expected to continue, according to UBS, the world’s 
 
 ## India Should Stop Panicking About Trump
 The emotionalism in Indian politics obscures the strategic logic of U.S.-India ties.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## In Pictures: Mexico celebrates historic World Cup victory
-Fireworks light up Mexico’s cities as fans toast historic knockout-round win and dream of a deeper run ahead.
+## England vs DR Congo LIVE – FIFA World Cup 2026
+Follow updates from the round of 32 clash - including the build-up, analysis and live text commentary of the game.
 
-## Russian attacks kill three in Ukraine as Kyiv hits another oil refinery
-President Zelenskyy says Ukraine is expanding its long-range drone campaign with new strikes deep inside Russia.
+## UN Human Rights Council to hold urgent meeting on Sudan crisis
+The emergency session follows warnings that 500,000 civilians around el-Obeid are at risk of large-scale atrocities.
 
-## The Possibilist | Ep 8
-Veteran mediator William Ury reflects on how the fine art of diplomacy is essential at holding the world together.
+## US Supreme Court upholds birthright citizenship: Who wins, who loses?
+Court struck down US President Trump's executive order abolishing it, but he has pledged to challenge the ruling.
 
-## Venezuelan sky turns deep red as sun sets over Caracas
-Venezuelan sky turns deep red as sun sets over Caracas
+## Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?
+Police in Monaco and France are hunting for a suspect seen leaving an explosive device at a residential building.
 
-## Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## Several people killed in fire at apartment block in Belgium’s Antwerp
+Firefighters battle blaze that has also injured a number of people in Linkeroever area of Antwerp.
 
-## US-Iran negotiations: What’s the latest?
-Iranian officials are expected in Doha for talks with Qatari mediators, a day after US negotiators arrived there.
+## Nearly three in four US scam victims report mental health harm, poll finds
+Gallup survey says the financial toll of scams in the United States in 2025 was estimated at $68bn.
 
-## Rescuers race to reach survivors in Venezuela
-"I'm still begging for people to help me get him out."
+## Two UK police officers face misconduct probe in Henry Nowak murder case
+IOPC says it is investigating whether race or religion impacted any of the officers' actions.
 
-## FIFA World Cup: Wednesday schedule, predictions and bracket update
-England, Argentina and Belgium chase round of 16 spots as World Cup underdogs eye historic upsets.
+## Trump made $1.4B from crypto ventures in first year back in office
+Trump's latest 2025 financial disclosure reveals he made more than $1.4B in income from crypto ventures.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
