@@ -1,10 +1,16 @@
 # AION Intelligence
 
+## US Supreme Court checks Trump’s power even as it bolsters the presidency
+The rulings this week serve notice that America’s top court is ‘not just rolling over’ for US president
+
+## White House lifts ban on Anthropic models
+US government move allows AI start-up to re-release Mythos and Fable models
+
+## Donald Trump made more than $1bn last year in return to presidency
+US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office
+
 ## Nike earnings helped by tariff refund but sales decline in China
 Sportswear manufacturer reported $11bn in revenue in its most recent quarter, the lowest since February 2022
-
-## Trump made more than $500mn from sale of family’s crypto tokens last year
-US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office
 
 ## Apple’s Cook holds ‘constructive’ talks with EU tech chief over ‘Siri AI’
 Discussions come as tech group seeks to avoid fines as it and the bloc have been deadlocked over launch of AI assistant
@@ -18,12 +24,6 @@ Also in today’s newsletter: an interview with Nato chief Mark Rutte, and US Su
 ## Satellite TV group Dish files for bankruptcy to cut $9bn debt load
 Parent company EchoStar has surged to $30bn market capitalisation from windfall on SpaceX holding
 
-## US Supreme Court rejects Trump’s bid to end birthright citizenship
-Ruling is major blow to president’s immigration agenda
-
-## World Bank to phase out China lending
-Decision from global development institution follows years of pressure from the Trump administration
-
 ## Eni and Mercuria to form partnership to trade energy commodities
 Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
 
@@ -33,8 +33,14 @@ Investors navigate Iran war fallout, chip stock volatility and blockbuster Space
 ## New UK prime minister, same bond market
 Leadership changes but the debt market remains in charge
 
-## Anthropic launches Claude Science in push for pharma revenue
-New AI product has use cases in rendering 3D protein structures and drug discovery
+## Microsoft to cut nearly 2.5% of workforce in latest layoffs: Report
+The layoffs will impact thousands of roles, including sales and consulting, as well as jobs at ​the Xbox gaming division, ‌the Business Insider report said
+
+## Sensex today | Stock Market Live Updates: Stock to buy today: Greaves Cotton (₹220) – BUY
+Sensex, Nifty, Share Prices LIVE: Fresh buyers are likely to come into the market and limit the downside. Greaves Cotton share price can rise to ₹245 in the coming weeks
+
+## US government lifts restrictions on Anthropic Fable 5 model
+Anthropic said it would restore access to users beginning Wednesday.
 
 ## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
 The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
@@ -51,38 +57,35 @@ IPO fell to ₹3,777 crore, while OFS nearly doubled to ₹16,568 crore
 ## Delhi EV policy triggers rally in Ather Energy, Ola Electric
 Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
 
-## Subsidy on food, fertilizer, fuel jumps over 47% in April-May period
-Fiscal deficit surges 9.6% to ₹1.62 lakh crore in end-May
-
-## RBI’s FSR flags geopolitical risks to India despite West Asia truce
-The report sees India’s sound macroeconomic fundamentals providing ample buffers to deal with external shocks
-
-## India emerges as UK’s second biggest FDI investor, creating 12,700 jobs
-The upcoming India-UK CETA expected to further strengthen bilateral investments in financial services, manufacturing, tech and clean energy
-
-## Seeking mobile numbers for policy information ‘dark pattern’: Irdai chief Ajay Seth
+## Voltas sells 1 million units in 81 days as India sizzles
 
 
-## GST rate reset led to consumption boost
+## Taj Bandstand key to IHCL’s growth strategy
 
 
-## 45% of homes will need electrical upgrades to charge EVs: Study
+## War-driven commodity inflation will take time to settle, says HUL’s Nitin Paranjpe
 
 
-## Invisible surplus widens in Q4FY26 to $90,513mn as remittances jump 30%
+## Reorient agriculture pricing policies, rain deficit a concern: Finance ministry
 
 
-## Centre tweaks windfall tax, raises petrol export duty
-At the same time, the export duty on diesel has been cut to Rs 8.5 per litre from Rs 14 per litre, while the levy on ATF exports has been reduced to Rs 7.5 per litre from the current Rs 12.5 per litre. The ministry said the revised duties will remain effective for the fortnight beginning July 1.
+## Bank of Baroda partners Mizuho bank for M&A financing
 
-## Gold gains strategic importance as central banks hedge against geopolitical risks
-Global central banks are boosting gold reserves amidst rising geopolitical risks, with a significant portion planning to reduce US dollar exposure. A new survey reveals a strategic shift towards gold for protection, while the euro and renminbi are eyed as alternatives, though not without their own c
 
-## US stocks today: Wall Street edges higher on quarter-end optimism as Nvidia rebounds
-US markets saw a mixed trading session as investors weighed a rebound in AI stocks against persistent concerns about interest rates and global tensions. While major indices showed modest gains, the S&P 500 and Nasdaq are set for their first monthly dip in three months. Stronger-than-expected jobs da
+## Gold loans swell 105%, services pip personal loan growth
 
-## Iran-US interim peace deal may support India's growth: RBI
-India's economy shows resilience despite global turbulence, with an interim Iran-US peace deal potentially boosting supply chains and easing geopolitical pressures, according to the RBI's Financial Stability Report. While macroeconomic fundamentals are strong, the nation remains vulnerable to import
+
+## Banks pass stress test, RBI flags gold loan, private credit risks
+
+
+## Oyo parent files papers for Rs 6,650 crore IPO
+
+
+## Centre notifies new rural job wages from ₹300 floor ahead of VB G RAM G rollout
+The notification introduces a ₹300 interim base wage rate, ensuring no notified daily wage falls below this threshold.
+
+## July likely to be drier, hotter than normal: IMD’s grim forecast
+IMD has warned of above-normal temperatures for large swathes of the country, in what is expected to further stress crops during India’s peak sowing period.
 
 ## Uttam invites global aerospace firms to invest in Telangana
 Telangana’s minister invites global aerospace firms to invest, citing strong growth, infrastructure, and support, during Aeromart-2026 in Hyderabad.
@@ -102,35 +105,32 @@ The India-UK free trade agreement, set to boost UK GDP by £4.8 billion, is cons
 ## FinMin flags risks of deficient monsoon
 India's economy shows resilience with 7.7% growth, despite healthcare risks and deficient monsoon challenges. Exports surge amid global tensions.
 
-## Kerala assembly seeks reform of national entrance exams
-Kerala assembly urges the Union government to reform entrance exams after NEET paper leak, citing serious irregularities affecting students’ rights.
-
-## Economy, AI, defence ties in focus at India-Japan Summit
-Economic security, AI cooperation, and defense strategies will headline the India-Japan Summit, with discussions on resilient supply chains and energy diversification.
-
-## 40 lakh women to get first instalment of financial aid today as Mann rolls out scheme
+## Why the Mexico vs Ecuador game at FIFA World Cup has been delayed
 
 
-## ‘Khet Bachao Abhiyan’: Why agriculture experts hopping from village to village?
+## Monthly Horoscope July-2026: Aries, Taurus and Gemini – What astrological predictions have in store for you in July
 
 
-## In SP chief whip’s resignation, Akhilesh’s balancing act in party’s Moradabad unit
+## Gemini Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
 
-## ‘Land scam’ in Sambhal: Officials among 31 booked for illegal transfer and possession of land worth Rs 100 cr
+## Cancer Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
 
-## EV owners have to apply for subsidies within 30 days of RC generation— Delhi govt readying portal
+## Aries Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
 
-## Locked houses, mistaken for salespersons: BLOs distribute 1.68L forms as SIR begins in Delhi
+## Aquarius Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
 
-## Months after Manesar stir, special police teams to monitor ‘anti-social elements’ in Gurgaon
+## Taurus Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
 
-## Prior planning, transmission infra upgrades helped Delhi meet peak power demand: Officials
+## Virgo Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
 
+
+## Fast lane to luxury: Hong Kong developer lures upmarket homebuyers with Mercedes giveaways
+A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its high-end homes in the Southern district, riding on a resurgence in the luxury property segment. K&K Property partnered with Zung Fu Limited to launch the promotion at One Stanley, an 82-unit project that had attracted wealt
 
 ## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
 China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
@@ -152,9 +152,6 @@ The way European banks fund themselves is quietly shifting. Geopolitical fragmen
 
 ## Energy storage sector tested as China sets 60-day payment cap in anti-involution campaign
 Beijing’s campaign to curb disorderly low-price market competition – neijuan in Chinese or involution – has reached the energy storage sector, with new rules shortening payment cycles and the financial pressure expected to ripple through leading players. A payment cap, released by the China Automoti
-
-## Chinese EV makers gain traction in South Korea’s import car market despite uphill battle
-This article was first published by The Korea Times in a partnership with the South China Morning Post. When Choi, a 35-year-old office worker in South Korea, started looking for her next car, she did not expect Chinese electric vehicle (EV) brand BYD to make her shortlist. “I’ve wanted an electric 
 
 ## Anti-Immigrant Marches Held Across South Africa
 Demonstrators had given undocumented migrants until Tuesday to self-deport or face consequences.
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mbappe, Deschamps break World Cup records in Sweden thrashing
+With his fifth and sixth goals at the tournament, Mbappe pulls even with Messi in the Golden Boot race.
+
+## Mexican fans keep Ecuador’s team awake before World Cup showdown
+Mexican fans gathered outside Ecuador’s team hotel using loudspeakers, horns and motorcycles to disturb their rest.
+
+## Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions
+Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.
+
+## ‘A rally like none other’: Trump unveils 2026 Republican midterm convention
+The Republican Party hopes to retain control of both chambers of Congress in November's US midterm elections.
+
+## Donald Trump reports $1.4bn in cryptocurrency income in government filing
+Trump has launched a slate of crypto-friendly policies since returning to the White House for a second term.
+
+## Venezuelans the US deported hours before earthquakes still missing
+The US deported at least 146 people to Venezuela, just hours before two deadly earthquakes struck last Wednesday.
+
+## France beat Sweden as Mbappe draws level with Messi in World Cup goal chart
+Kylian Mbappe and Bradley Barcola net, while Michael Olise wows, as France beat Sweden 3-0 to reach last 16.
+
 ## “WhatsApp Privacy Changes”
 WhatsApp is rolling out usernames to keep phone numbers private.
-
-## Mexico fans blast horns outside Ecuador hotel the night before World Cup clash
-Ecuadorian Football Federation says it has filed a formal complaint with organisers after the incident in Mexico City.
-
-## Why India’s viral youth party is still protesting
-India's viral Cockroach Janta Party spends nearly two weeks protesting, demanding the education minister resign.
-
-## Valiant Serena beaten on Wimbledon return, Swiatek survives scare
-Ben Shelton dumped out by Finland's Otto Virtanen as Taylor Fritz and Alex de Minaur progress in straight sets.
-
-## What is birthright citizenship, and what does the Supreme Court ruling say?
-Nation's highest court strikes down executive order that would have restricted right established in US Constitution.
-
-## Emergency crews search rubble after Athens building collapse
-Rescue teams in Greece are combing through the rubble for survivors after a four-story apartment building in Athens.
-
-## More than 30 students remain missing after Nigeria school attack
-The attacks targeted a secondary school in the northeastern town of Lassa, in Borno State.
-
-## Rescuers find more bodies under rubble as Venezuela death toll rises
-International and local emergency teams are continuing to recover the bodies of victims under the rubble
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
