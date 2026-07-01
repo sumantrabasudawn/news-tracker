@@ -1,133 +1,136 @@
 # AION Intelligence
 
-## US Supreme Court checks Trump’s power even as it bolsters the presidency
-The rulings this week serve notice that America’s top court is ‘not just rolling over’ for US president
+## FirstFT: Europe defence drive benefits US jobs, Rutte says
+Also in today’s newsletter: Made-in-Germany US weapons and French-US logistics deal
 
-## White House lifts ban on Anthropic models
-US government move allows AI start-up to re-release Mythos and Fable models
+## Introducing: The Story of Money
+A new video podcast from The FT exploring the history of finance
 
-## Donald Trump made more than $1bn last year in return to presidency
-US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office
+## Wall Street’s $60tn nepo baby boom
+The great wealth transfer is disrupting the business of managing money for rich people
 
-## Nike earnings helped by tariff refund but sales decline in China
-Sportswear manufacturer reported $11bn in revenue in its most recent quarter, the lowest since February 2022
+## CMA CGM nears $1.4bn deal for FedEx logistics unit
+French shipping group aims to expand in US and strengthen foothold in supply chain
 
-## Apple’s Cook holds ‘constructive’ talks with EU tech chief over ‘Siri AI’
-Discussions come as tech group seeks to avoid fines as it and the bloc have been deadlocked over launch of AI assistant
+## Record sea temperatures in June push world into ‘uncharted’ waters
+Global warming and El Niño cycle combine to drive average to near 21C
 
-## Alcoa strikes $4.8bn deal for South32’s alumina and bauxite assets
-US aluminium group expands as disruptions in Middle East push up grey metal prices
+## How would Andy Burnham’s ‘Number 10 North’ work?
+Downing Street’s Manchester base is expected to focus on the UK’s long-term economic strategy
 
-## FirstFT: ‘Unprecedented’ plane crash raises questions about Beijing’s security
-Also in today’s newsletter: an interview with Nato chief Mark Rutte, and US Supreme Court rejects Trump’s bid to end birthright citizenship
+## Germany woos Trump with plan to make US weapons in Europe
+Talks on ‘joint production concepts’ accelerate ahead of Nato summit
 
-## Satellite TV group Dish files for bankruptcy to cut $9bn debt load
-Parent company EchoStar has surged to $30bn market capitalisation from windfall on SpaceX holding
+## Small fraction of EU crypto groups hold licence as new rules come into force
+Stringent bloc-wide MiCA regulations push unlicensed digital-assets companies to offload customers
 
-## Eni and Mercuria to form partnership to trade energy commodities
-Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
+## The job market is reaccelerating. Is the economy?
+Plus the bitcoin clown car company crash
 
-## US stocks chalk up biggest quarterly gain in six years
-Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
+## European armies already filling holes made by US withdrawals, says Rutte
+Also in this newsletter: Ireland sets out its priorities as it assumes the EU presidency
 
-## New UK prime minister, same bond market
-Leadership changes but the debt market remains in charge
-
-## Microsoft to cut nearly 2.5% of workforce in latest layoffs: Report
-The layoffs will impact thousands of roles, including sales and consulting, as well as jobs at ​the Xbox gaming division, ‌the Business Insider report said
-
-## Sensex today | Stock Market Live Updates: Stock to buy today: Greaves Cotton (₹220) – BUY
-Sensex, Nifty, Share Prices LIVE: Fresh buyers are likely to come into the market and limit the downside. Greaves Cotton share price can rise to ₹245 in the coming weeks
-
-## US government lifts restrictions on Anthropic Fable 5 model
-Anthropic said it would restore access to users beginning Wednesday.
-
-## SC orders status quo on Karnataka HC direction to reopen ethanol allocation process
-The Attorney General argued that enhancing the allocation of one supplier at this stage would trigger similar claims from other similarly placed suppliers, thereby disrupting the entire allocation process.
-
-## Household debt rises to 45.5% of GDP, borrower profiles improve: RBI FSR
-Despite the increase in borrowings, the RBI sees an improvement in the quality of borrowers
-
-## NetApp sees strong India momentum on AI, cloud and data infrastructure demand
-Focus on AI-ready data infrastructure and cloud transformation drives strong momentum
-
-## IPO fundraising plunges 89% in June quarter as OFS issues rise
-IPO fell to ₹3,777 crore, while OFS nearly doubled to ₹16,568 crore
-
-## Delhi EV policy triggers rally in Ather Energy, Ola Electric
-Policy provides purchase incentives for electric vehicles priced below ₹30 lakh through a 100 per cent exemption on road tax and registration fee
-
-## Voltas sells 1 million units in 81 days as India sizzles
+## GST mop-up grows 14% to ₹1.95 lakh crore in June
 
 
-## Taj Bandstand key to IHCL’s growth strategy
+## How government’s stake sales lit up a lacklustre stock market
+Government raises ₹18,560 crore by trimming its holdings in six companies in the three months through June, marking its largest such quarterly haul in recent years
+
+## Sensex today | Stock Market Live: Sensex rises 500 pts, Nifty crosses 24,000; KPIT hits 52-week low, tanks 15%
+Sensex, Nifty, Share Prices LIVE: At 11:01 am, Sensex was up 389.37 points (+0.51%) at 76,868.04, Nifty 50 rose 113.60 points (0.48%) to 23,979.35
+
+## Hero MotoCorp repositions VIDA for the next phase of EV mobility
+In an exclusive interview with BusinessLine, Hero MotoCorp’s EV chief discusses Vida’s turnaround and growth roadmap
+
+## Government bonds rise as index-entry hopes counter rise in US yields
+Traders wait for Bloomberg Index Services’ ‌decision on whether to add Indian Fully Accessible ‌Route (FAR) ⁠bonds to its flagship index
+
+## ICFAI Business School Opens IBSAT 2026 Registrations, Announces ₹10 Crore Scholarship Program
+ICFAI Business School Opens IBSAT 2026 Registrations, Announces ₹10 Crore Scholarship Program
+
+## AVPN Announces New Strategy to Mobilise Capital for Asia's USD 26-Trillion Social and Environmental Transformation
+AVPN Announces New Strategy to Mobilise Capital for Asia's USD 26-Trillion Social and Environmental Transformation
+
+## Adani Green surpasses 20 GW renewable energy capacity, first in India to hit milestone
+The company added 5,051 megawatts (MW) in FY26, the highest annual renewable capacity addition by any company outside China
+
+## Commercial LPG, jet fuel prices cut as West Asia impact eases
 
 
-## War-driven commodity inflation will take time to settle, says HUL’s Nitin Paranjpe
+## Nayara Energy cuts petrol by Rs 5 per litre, diesel by Rs 3; first fuel price reduction in over 2 years
+Nayara Energy, India's largest private fuel retailer, has slashed petrol prices by Rs 5 and diesel by Rs 3 per litre nationwide. This marks the first price reduction by any fuel retailer in over two years, driven by easing Middle East tensions and falling international crude oil prices. While Nayara
+
+## Oil prices rise as Iran-US talks hit roadblock, supply fears return
+Crude oil prices edged up as stalled Iran-US talks reignited fears of Middle East supply disruptions. Despite claims of Strait of Hormuz reopening, uncertainty persists. Analysts have lowered oil price forecasts, but US inventory data and ongoing diplomatic efforts remain key market drivers. Investo
+
+## Will airfares get cheaper? Jet fuel prices cut to Rs 110/litre
 
 
-## Reorient agriculture pricing policies, rain deficit a concern: Finance ministry
+## GST at 9: Making India’s auto tax framework fit for the next gear
+As GST completes nine years, the focus may now shift from implementation to the future. The next phase of reforms may ensure that India’s tax system keeps pace with the changing needs of the automotive industry.
+
+## Nine years of GST: From supply chain efficiency to capital efficiency in FMCG
+One of the most notable achievements of GST has been the reduction in the tax burden on several mass-consumption products. Over the years, the GST Council has rationalized tax rates on a range of FMCG products, making essential goods more affordable for consumers.
+
+## Commercial LPG cylinder prices slashed by Rs 183.50 from July 1: Check city-wise rates
+Commercial LPG prices have seen a significant drop of Rs 183.50 effective July 1, bringing relief to businesses like hotels and vendors. A 19 kg cylinder now costs Rs 2930 in Delhi. Meanwhile, prices for household cylinders remain unchanged. This follows a price hike in June attributed to supply iss
+
+## Top stocks to buy today: Stock recommendations for July 1, 2026 - check list
+Stock market recommendations: NACL Industries, Info Edge (Naukri), and Minda Corporation - these are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 1, 2026:
+
+## Chetan taken to Lohagad to recreate ‘murder’; lawyer claims ‘no specific role’
+Both Siya Goyal and Chetan Chaudhary are accused of killing Pune-based realtor Ketan Agarwal by allegedly pushing him off a cliff at the Lohagad Fort.
+
+## Chhattisgarh forest dept deploys locals at 30 locations in Abujhmad: Officials
+Without waiting for the survey to conclude, the department has stationed local youths at 30 strategic locations across the forest to prevent illegal felling
+
+## Raja Raghuvanshi's family to approach Supreme Court after bail to Sonam upheld
+The Meghalaya High Court decided to grant the accused, Sonam Raghuvanshi, bail due to grave police errors in informing her about the grounds of her arrest
+
+## Big changes from July 1: Costlier passports, free Aadhaar updates, EPFO services
+The changes have been announced by the respective government authorities through official notifications and memorandums.
+
+## Indian techie dies after car gets swept away in flash floods in Kansas, US
+The Consulate General of India in Houston condoled the 33-year-old's demise and said it is working to provide all possible assistance to the grieving family.
+
+## US lifts sanctions on four Indian companies linked to Russia-related measures
+The entities delisted are RRG Engineering Technologies Private Limited, Lokesh Machines Limited, Galaxy Bearings Ltd, and Shaurya Aeronautics Private Limited.
+
+## Aviation turbine fuel price slashed by ₹5 amid softening international oil rates: Report
+Aviation turbine fuel (ATF) now costs ₹110 a litre in Delhi, PTI news agency reported, citing industry sources.
+
+## Viksit Bharat G Ram G Act rollout today: Full list of new state-wise daily wage rates
+Viksit Bharat G Ram G Act: Effective July 1, the revised VB-G RAM G wage structure for rural workers raises national average daily wages to ₹327.4.
+
+## When Varun Dhawan admitted to feeling insecure about Sidharth Malhotra: ‘I doubt anyone…’
 
 
-## Bank of Baroda partners Mizuho bank for M&A financing
+## 20-year-old beaten to death in Ghaziabad after bike grazes realtor’s car
 
 
-## Gold loans swell 105%, services pip personal loan growth
+## Once a target of racist chants, Mexico’s Quiñones is now hero-worshipped
 
 
-## Banks pass stress test, RBI flags gold loan, private credit risks
+## Haryana TET 2026 admit cards releasing today; where and how to download
 
 
-## Oyo parent files papers for Rs 6,650 crore IPO
+## Alia Bhatt’s Alpha gets UA 16+ rating: CBFC mutes expletives, cuts stabbing scenes
 
 
-## Centre notifies new rural job wages from ₹300 floor ahead of VB G RAM G rollout
-The notification introduces a ₹300 interim base wage rate, ensuring no notified daily wage falls below this threshold.
-
-## July likely to be drier, hotter than normal: IMD’s grim forecast
-IMD has warned of above-normal temperatures for large swathes of the country, in what is expected to further stress crops during India’s peak sowing period.
-
-## Uttam invites global aerospace firms to invest in Telangana
-Telangana’s minister invites global aerospace firms to invest, citing strong growth, infrastructure, and support, during Aeromart-2026 in Hyderabad.
-
-## Naidu dissatisfied as Amaratavi works lag
-Andhra Pradesh's Amaravati construction lags at 31.9% progress with dissatisfaction from CM Naidu, urging contractors to expedite quality work.
-
-## BJP has made Telangana a ‘special mission’: Nitin Nabin
-BJP's Nitin Nabin declared Telangana a "special mission," urging workers to replicate successful strategies from West Bengal to win in 2028 elections.
-
-## SIT links TDB officials to Sabarimala gold theft
-The SIT found evidence of a conspiracy involving temple officials to misappropriate gold by misrepresenting guardian idols for fraudulent re-plating.
-
-## ‘India-UK FTA most economically significant pact’
-The India-UK free trade agreement, set to boost UK GDP by £4.8 billion, is considered Britain's most significant post-Brexit trade deal.
-
-## FinMin flags risks of deficient monsoon
-India's economy shows resilience with 7.7% growth, despite healthcare risks and deficient monsoon challenges. Exports surge amid global tensions.
-
-## Why the Mexico vs Ecuador game at FIFA World Cup has been delayed
+## 14 children dead after tuition centre roof collapses during class in Pakistan’s Lahore
 
 
-## Monthly Horoscope July-2026: Aries, Taurus and Gemini – What astrological predictions have in store for you in July
+## Why the US Supreme Court struck down Trump’s birthright citizenship order
 
 
-## Gemini Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
+## Miracle in Venezuela: 6 days after earthquakes, toddler rescued from rubble
 
 
-## Cancer Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
+## Will slowing car sales in China reignite brutal price war in crowded market?
+In the most bearish Chinese car market forecast by an international bank or consultancy, AlixPartners has predicted that deliveries will fall by 10 per cent this year on the back of a shaky economy and softening government support. Weak buying interest was likely to fuel a brutal price war that woul
 
-
-## Aries Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
-
-
-## Aquarius Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
-
-
-## Taurus Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
-
-
-## Virgo Monthly Horoscope July-2026: Here is what astrological predictions tell about love, career and money
-
+## UBTech’s lifelike humanoid robots built for companionship arriving in homes across China
+UBTech Robotics, the world’s first publicly traded humanoid robot maker, has launched a consumer humanoid designed for personal companionship, featuring lifelike silicone skin and emotional artificial intelligence, as Chinese tech firms increasingly transition robots from the factory floor to the fa
 
 ## Fast lane to luxury: Hong Kong developer lures upmarket homebuyers with Mercedes giveaways
 A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its high-end homes in the Southern district, riding on a resurgence in the luxury property segment. K&K Property partnered with Zung Fu Limited to launch the promotion at One Stanley, an 82-unit project that had attracted wealt
@@ -147,11 +150,8 @@ The European Union set an October deadline for “tangible results” in tacklin
 ## Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play
 Hong Kong stocks closed out the first half with a loss, ranking the city’s market among the worst performers globally, as a shift by the Federal Reserve and a dearth of pure exposure to artificial intelligence put investors on tenterhooks. The Hang Seng Index dropped 11 per cent in the January-to-Ju
 
-## OTP gives Hong Kong a vote of confidence as European banks look East
-The way European banks fund themselves is quietly shifting. Geopolitical fragmentation, rising financing costs and increasingly unstable global energy supplies are pushing lenders to look beyond their traditional capital markets. And Hong Kong, which central and eastern European institutions rarely 
-
-## Energy storage sector tested as China sets 60-day payment cap in anti-involution campaign
-Beijing’s campaign to curb disorderly low-price market competition – neijuan in Chinese or involution – has reached the energy storage sector, with new rules shortening payment cycles and the financial pressure expected to ripple through leading players. A payment cap, released by the China Automoti
+## Blackouts Are Prabowo’s Latest Problem
+Why can’t coal-rich Indonesia keep the lights on?
 
 ## Anti-Immigrant Marches Held Across South Africa
 Demonstrators had given undocumented migrants until Tuesday to self-deport or face consequences.
@@ -173,9 +173,6 @@ Poland has been successful partly due to strong personal ties, but history sugge
 
 ## Britain’s New ‘King’ Will Decide Its Fate
 Andy Burnham is on the verge of taking power—and of being confronted with his own limitations.
-
-## For Israel, the Oct. 7 War Is Effectively Over
-In 984 days of fighting, “total victory” eluded Netanyahu on all fronts.
 
 ## In Photos: Northeast Thailand’s Rocket Festival
 The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
@@ -249,29 +246,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Mbappe, Deschamps break World Cup records in Sweden thrashing
-With his fifth and sixth goals at the tournament, Mbappe pulls even with Messi in the Golden Boot race.
+## Democratic socialist Kiros defeats longtime incumbent in Colorado primary
+Former lawyer Melat Kiros, 29, has criticised Democrats for support of Israel during its genocidal war on Gaza.
 
-## Mexican fans keep Ecuador’s team awake before World Cup showdown
-Mexican fans gathered outside Ecuador’s team hotel using loudspeakers, horns and motorcycles to disturb their rest.
+## ‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives
+Once a European nation receiving large numbers of refugees and migrants, Sweden completes a decade-long overhaul.
 
-## Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions
-Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.
+## Why is MAGA in meltdown over the Supreme Court birthright ruling?
+The US Supreme Court has rejected Trump’s bid to stop the children of some immigrants obtaining US citizenship at birth.
 
-## ‘A rally like none other’: Trump unveils 2026 Republican midterm convention
-The Republican Party hopes to retain control of both chambers of Congress in November's US midterm elections.
+## Gojek co-founder, turned Indonesian Education Minister jailed for 10 years
+Gojek co-founder and former Education Minister Nadiem Makarim has been sentenced to 10 years in prison.
 
-## Donald Trump reports $1.4bn in cryptocurrency income in government filing
-Trump has launched a slate of crypto-friendly policies since returning to the White House for a second term.
+## Tutoring centre roof collapses killing 14 children in Pakistan
+At least 14 children were killed when the roof of a private tutoring centre collapsed outside Lahore, Pakistan.
 
-## Venezuelans the US deported hours before earthquakes still missing
-The US deported at least 146 people to Venezuela, just hours before two deadly earthquakes struck last Wednesday.
+## Supreme Court’s divided ruling on birthright citizenship may be revisited
+The Supreme Court’s 6-3 ruling on birthright citizenship could signal that the issue could return to the Court.
 
-## France beat Sweden as Mbappe draws level with Messi in World Cup goal chart
-Kylian Mbappe and Bradley Barcola net, while Michael Olise wows, as France beat Sweden 3-0 to reach last 16.
+## World’s oceans experience hottest June ever, scientists say more heat ahead
+European Union monitors say the first half of 2026 was 'marked by sustained and exceptional ocean warmth'.
 
-## “WhatsApp Privacy Changes”
-WhatsApp is rolling out usernames to keep phone numbers private.
+## Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse
+Adverse weather does not dampen Mexico's party as the cohosts storm into the last 16 by beating Ecuador.
+
+## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
+Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
 
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
@@ -294,8 +294,8 @@ CEAT aims to boost international revenue to one-third of its total within five y
 ## India-UK trade pact opens new prospects, but industry readiness will decide gains, say experts
 The India-UK Comprehensive Economic and Trade Agreement (CETA) is set to come into force on July 15, 2026, unlocking lower tariffs and wider market access across sectors. However, economists and trade experts say the long-term benefits will depend on how effectively businesses adapt supply chains, m
 
-## Government extends GSTAT appeal filing deadline to July 31 amid portal rush, technical issues
-The extension applies to appeals filed under Section 112(1) read with Section 112(3) of the Central Goods and Services Tax (CGST) Act. The earlier deadline notified by the government on September 17, 2025, was June 30, 2026.
+## India plans to add strategic fuel reserves after Iran war shock
+This ambitious move follows a review of existing, limited stockpiles and includes expanding underground crude storage and addressing the challenges of storing gas.
 
 ## RBI compounds FEMA violations in Touras India case
 The Reserve Bank of India (RBI) has issued a compounding order under Section 15 of the Foreign Exchange Management Act (FEMA), in the case of Touras India Private Limited, which has resulted in the termination of proceedings against the company for contraventions of the law's provisions with a one-t
@@ -317,7 +317,4 @@ While the Commission hasn't yet finalised its recommendations, early discussions
 
 ## RBI issues final norms to expand credit derivatives market, allows wider CDS use
 The Reserve Bank of India (RBI) has issued the final directions for expanding the country's credit derivatives market, paving the way for wider use of instruments such as Credit Default Swaps (CDS) and total return swaps, as per a statement by the apex bank on Thursday.
-
-## RBI opens term money market to AIFIs, housing finance companies
-The Reserve Bank of India has opened the term money market to All India Financial Institutions and housing finance companies, allowing them to borrow and lend. Prudential borrowing limits for primary dealers have also been significantly increased. These moves aim to deepen market participation and i
 
