@@ -105,29 +105,32 @@ During the visit, the Union Finance Minister will also hold one-to-one meetings 
 ## Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 
+## Rajkot demolitions: Rs 27 lakh food bill rejected; tenders issued since 2023 ‘under review’
+
+
+## Air Marshal PV Shivanand takes over as South Western Air Command chief
+
+
+## Supreme Court stays trial against officer accused of secretly filming ex-Anand collector
+
+
+## Will visit Ram Temple after completing construction of Kedareshwar Dham: Akhilesh Yadav
+
+
+## Fake drugs racket: IPS officer arrested for seeking Rs 3 crore to ‘fix’ CBI case
+
+
+## In Delhi EV Policy, electrification roadmap: Cars next after three- & two-wheelers
+
+
+## Bihar Cabinet nod to separate temple land from Buxar jail premises
+
+
 ## India asks Pakistan to expedite release, repatriation of 188 fishermen, prisoners
 
 
-## Major changes in military leadership with new Army Chief, Vice-Chiefs, CISC and Army Commanders
-
-
-## ‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme
-
-
-## 5 Surat civic officials suspended, to face departmental inquiry
-
-
-## ‘I’ll buy pomegranates, maybe even a dragon fruit…’: As Punjab rolls out cash assistance, hope, celebration among women
-
-
-## Man, woman found dead in hotel room with bullet wounds in Khanna, police suspect ‘murder-suicide’
-
-
-## Rain misses Dev Bhoomi Dwarka in June
-
-
-## Rs 1,400 crore, 36 lakh beneficiaries: Mann launches Rs 1,000/month aid for women
-
+## Rare momentum: Hong Kong universities, schools prop up commercial property market
+Hong Kong’s educational institutions are forecast to ramp up their investment and leasing in the commercial property segment, with leading universities and international schools among those paying top dollar to acquire or lease office and retail spaces, according to Colliers. In the first five month
 
 ## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
 Subdued demand in China is likely to have weighed on Budweiser Brewing APAC’s second-quarter sales, according to analysts, but the ongoing Fifa World Cup might provide a brighter start to the third quarter. Citing information from investor relations personnel at Belgian beer giant Anheuser-Busch InB
@@ -149,9 +152,6 @@ UBTech Robotics, the world’s first publicly traded humanoid robot maker, has l
 
 ## Fast lane to luxury: Hong Kong developer lures upmarket homebuyers with Mercedes giveaways
 A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its high-end homes in the Southern district, riding on a resurgence in the luxury property segment. K&K Property partnered with Zung Fu Limited to launch the promotion at One Stanley, an 82-unit project that had attracted wealt
-
-## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
-China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
 
 ## The Political Aftershocks of Venezuela’s Earthquakes
 The disasters exposed Delcy Rodríguez’s weak grasp on power.
@@ -177,6 +177,18 @@ The fallout from the Iran conflict and the approaching U.S. midterms may change 
 ## How to Spin an Empire
 U.S. imperialism as inspiration and foil.
 
+## Koizumi’s First Trip to Seoul: A Sign of Cautious Japan-South Korea Reconciliation
+While the latest Japan-South Korea defense ministers’ meeting shows an obvious trajectory of rapprochement between the two neighbors, it also exposes certain boundaries in their defense cooperation.
+
+## China’s EUV Lithography Progress: Parsing Signal From Noise
+China faces three specific barriers as it aims to produce key chipmaking equipment. Monitoring progress in these areas would help Western countries make better chip and AI policy.
+
+## USS Ronald Reagan Drug Case Raises Questions About Off-Base Reach in Japan
+58 sailors from the U.S. aircraft carrier were punished over an LSD distribution case that began while it was homeported in Japan. Did their network reach into Japanese society?
+
+## Rubio Courts Tajikistan as Washington Hunts for Antimony
+Restarting the bilateral dialogue after a four-year freeze is a bid to loosen China’s grip on a critically-important mineral.
+
 ## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
 The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
 
@@ -188,18 +200,6 @@ The outgoing premier is expected to seek the ruling Democratic Party’s chairsh
 
 ## Is Japan a Model Middle Power?
 Japan has earned rising acclaim from U.S. observers as a middle power that complements, rather than threatens, the United States. Yet Japan is not deepening its ties with Washington out of charity.
-
-## Pakistan, the Islamabad MoU, and the Limits of Middle Power Diplomacy
-Unless the diplomatic momentum abroad translates into economic improvement at home, its impact will be limited.
-
-## Why Foreign Companies Are Re-assessing Their China Portfolio
-From the National Intelligence Law to two new State Council decrees, China’s official messaging on foreign investment doesn’t match the actual developments on the ground.
-
-## The US Congress Should Ask What Happened in Karakalpakstan
-Before granting Uzbekistan Permanent Normal Trade Relations, Washington needs to use the leverage it has to push Tashkent toward accountability.
-
-## In Photos: Northeast Thailand’s Rocket Festival
-The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
 
 ## From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence
 Editor’s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the graphi
@@ -249,6 +249,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge sides with NAACP over proposed mail-in ballot restrictions
+President Trump has sought to limit mail-in voting and has ordered his administration to impose limits on the practice.
+
+## Iran football team welcomed home after World Cup exit
+Iran’s football team has landed back in Tehran after their World Cup
+
+## E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case
+Carroll's lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.
+
 ## US signs $1 lease with Israel to build permanent embassy in West Jerusalem
 The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.
 
@@ -259,19 +268,10 @@ Critics say the ruling invites corruption, benefitting wealthy donors and amplif
 Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.
 
 ## Iran to open ‘communication channel’ on MoU with US after talks in Qatar
-Iran's Deputy FM Gharibabadi also says part of $6bn in frozen assets would be used to buy goods that Tehran needs.
+Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.
 
 ## Russian couple arrested after climbing Empire State Building
 Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.
-
-## State of emergency: Bolivia’s currency plummets as anger simmers
-Bolivia’s President Paz declared a state of emergency after 50 days of protests against his policies.
-
-## Despite marquee losses, Supreme Court term grows Trump’s presidential power
-Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.
-
-## Israeli opposition signal foreign policy change in style, but not substance
-Israeli opposition criticise the means employed by Netanyahu, but cannot risk opposing his ends.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
