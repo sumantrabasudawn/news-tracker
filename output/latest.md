@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Shares in Uber-backed Lime climb after it raised $167mn in IPO
+Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies
+
+## Mega takeovers drive record $2.8tn in dealmaking
+Companies and investors turn to M&A as they adjust to economic shifts driven by the rise of AI
+
+## KNDS puts its plans for a stock market listing on hold
+Franco-German tank maker said it would wait for ‘more favourable market conditions’
+
+## World Bank to phase out China lending
+Decision from global development institution follows years of pressure from the Trump administration
+
+## US opts not to renew Trump’s trade deal with Mexico and Canada
+Washington will instead hold annual reviews on terms of commerce with its biggest trading partners
+
 ## Supreme Court checks Trump, but empowers the presidency
 Despite losses on tariffs and birthright citizenship, the executive has emerged stronger
 
@@ -9,29 +24,11 @@ Call on the opening day of Dublin’s EU presidency adds to pressure over Aughin
 ## Millennium and Point72 gain as hedge funds rebound from Iran war
 Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
 
-## Shares in Uber-backed Lime surge after it raised $167mn in IPO
-Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies
-
-## US voters support Trump trade deal with Canada and Mexico, survey finds
-New poll finds bipartisan backing for USMCA even as president seeks to renegotiate its terms
-
-## Saks’ retail rebirth depends more on Gucci than Wall Street
-Retailer has had to repair not only the balance sheet but also the rift with luxury brands it stocked
-
-## By attacking immigrants, South Africa is destroying itself
-The latest outbreak of xenophobic violence is a betrayal of the nations that aided its freedom struggle
-
-## Syria’s president Sharaa appoints new parliament
-New body set to start replacing Assad regime legislation and clearing backlog of bills
-
-## Italian tech group Bending Spoons jumps on Nasdaq debut
-Acquisitive owner of Vimeo, AOL and Eventbrite raises $1.68bn in one of Europe’s biggest technology IPOs this year
+## AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut
+Italian tech group behind Vimeo and Evernote raises $1.68bn in one of Europe’s biggest technology IPOs this year
 
 ## This is how we can make AI safe for everyone
 The labs develop the technology, but citizens and their elected representatives must make the rules
-
-## Scientists unveil synthetic cells to power low-carbon factories
-Invention known as SpudCell is part of effort to use micro-scale bioengineering in manufacture of everyday items
 
 ## GST collection surges 14% in June
 Net collections up 11.2% even as refunds accelerate 29%; first quarter sees 8.4% growth in gross collections
@@ -105,28 +102,28 @@ During the visit, the Union Finance Minister will also hold one-to-one meetings 
 ## Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 
-## Sooryavanshi’s time will come, but India’s call to stick with top 3 justified
+## ‘I’ll buy pomegranates, maybe even a dragon fruit…’: As Punjab rolls out cash assistance, hope, celebration among women
 
 
-## Anupam Singh Gahlaut is new Ahmedabad police commissioner
+## Man, woman found dead in hotel room with bullet wounds in Khanna, police suspect ‘murder-suicide’
 
 
-## Empire State Building climbers arrested after ‘marriage proposal’ stunt atop New York landmark
+## Rain misses Dev Bhoomi Dwarka in June
 
 
-## ‘My stomach is eating itself’: Bryan Johnson reveals hidden autoimmune condition
+## Rs 1,400 crore, 36 lakh beneficiaries: Mann launches Rs 1,000/month aid for women
 
 
-## Indian seafarer’s body returns from Venezuela ‘without heart, brain, liver’; probe demanded
+## Woman raped, filmed: 11 arrested, 3 minors nabbed as video circulates on social media
 
 
-## Two organ donations in two days save six lives
+## Stone pelting during Hanuman Chalisa recital in Southwest Delhi
 
 
-## Blood-red sky over Caracas after Venezuela earthquakes: Here’s what caused it
+## ‘Those not in voters’ list can’t get govt money’: Bengal CM Suvendu Adhikari says 26 lakh applications for women cash transfer scheme rejected
 
 
-## Abhishek Sharma breaks T20I record, becomes fastest batter to hit 100 sixes
+## Maharashtra introduces bill to recognise women farmers
 
 
 ## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
@@ -153,6 +150,12 @@ A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its hig
 ## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
 China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
 
+## Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated
+Reports of NATO’s demise have been greatly exaggerated.
+
+## Is Meloni Done With Trump?
+A recent spat might be the final nail in the coffin of the trans-Atlantic far right.
+
 ## Is Cuba Really Next?
 The fallout from the Iran conflict and the approaching U.S. midterms may change Trump’s calculations.
 
@@ -170,12 +173,6 @@ The newfound bloc has emerged as a potential winner from the Iran war.
 
 ## Blackouts Are Prabowo’s Latest Problem
 Why can’t coal-rich Indonesia keep the lights on?
-
-## Anti-Immigrant Marches Held Across South Africa
-Demonstrators had given undocumented migrants until Tuesday to self-deport or face consequences.
-
-## Small-Plane Crash Tests China’s Security State
-How did a private aircraft enter Beijing’s sensitive airspace?
 
 ## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
 The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
@@ -202,7 +199,7 @@ Before granting Uzbekistan Permanent Normal Trade Relations, Washington needs to
 The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
 
 ## From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence
-In 2025, Ofek Riemer, Daniel Wajner, and Ehud Eiran wrote, “Populists vs. Spies in Israel and Beyond,” where they argued that Prime Minister Benjamin Netanyahu’s relationship with Israel’s intelligence agencies could have grave consequences for Israel’s democracy. A year later, we asked them to revi
+Editor’s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the graphi
 
 ## How a Team of Marines Built the Corps’ FPV Drone Training Program from a Cold Start
 Last fall, the U.S. Marine Corps had virtually no first-person view attack drones. That’s changed quickly. This episode is about how a team of marines at Weapons Training Battalion at Quantico went from a cold start to building a Marine Corps-wide first-person view drone training system. Ryan was pl
@@ -249,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Seven more sentenced over Texas ICE detention centre shooting
+US prosecutors have alleged those involved in the Prairieland Detention Center protest were linked to antifa.
+
+## Israel kills three Palestinians in Gaza despite ‘ceasefire’
+An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.
+
+## As Venezuela responds to earthquake devastation, volunteers take charge
+As frustration with the government disaster response grows, everyday citizens are organising to distribute aid.
+
+## One week on from Venezuela’s deadly earthquakes
+One week after Venezuela's twin earthquakes, more than 1,900 are confirmed dead while tens of thousands are missing.
+
+## Kane double fires England to comeback win over DR Congo at World Cup 2026
+England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.
+
+## How AI is being weaponised against India’s Muslim women
+For years, India's Muslim women have been subject to online abuse.
+
+## US says it won’t agree to renew USMCA
+USMCA came into effect on July 1, 2020, and is slated to expire after 16 years.
+
 ## Three dead after massive World Cup celebrations in Mexico City
 Health officials say three people died during massive celebrations in Mexico City after Mexico’s 2-0 World Cup win.
-
-## World Cup 2026: Faith and football
-From prayers on the pitch to cursing the opposing team, faith and religious belief have been prominent this World Cup.
-
-## Can Sudan’s Rapid Support Forces take control of el-Obeid?
-The RSF wants to seize the strategic southern city from the Sudanese military.
-
-## Psychological toll mounts as Lebanese villages erased by Israel’s war
-Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.
-
-## What military capabilities does Iran possess as it negotiates with US?
-US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.
-
-## The Iran talks expose the collapse of US diplomacy
-In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.
-
-## Warmest June on record for England, second-warmest for UK, says Met Office
-A punishing heatwave affected many parts of the country during the last week of the month.
-
-## Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher
-Rights group accuses the paramilitary of 'crimes against humanity' for attacks in and around North Darfur State capital.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
