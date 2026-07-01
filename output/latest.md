@@ -1,67 +1,58 @@
 # AION Intelligence
 
-## Inside Le Lappe – Remy Renzullo’s first hotel
-The interiors wunderkind has turned his eye to a ‘wonderful blank spot’ in Tuscany – we get the first look
+## Supreme Court checks Trump, but empowers the presidency
+Despite losses on tariffs and birthright citizenship, the executive has emerged stronger
+
+## Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
+Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelter
 
 ## Millennium and Point72 gain as hedge funds rebound from Iran war
 Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
 
-## FedEx strikes $1.4bn deal to sell logistics unit to CMA CGM
-French shipping group aims to expand in US and strengthen foothold in supply chain
+## Shares in Uber-backed Lime surge after it raised $167mn in IPO
+Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies
 
-## Democratic socialist wins Colorado primary
-Melat Kiros’s victory is latest challenge to Democratic Party leaders ahead of crucial US midterm elections
+## US voters support Trump trade deal with Canada and Mexico, survey finds
+New poll finds bipartisan backing for USMCA even as president seeks to renegotiate its terms
 
-## Inflation and interest rates tracker: see how your country compares
-Inflationary pressures are beginning to wane. Explore the latest data through interactive charts
+## Saks’ retail rebirth depends more on Gucci than Wall Street
+Retailer has had to repair not only the balance sheet but also the rift with luxury brands it stocked
 
-## Germany woos Trump with plan to make US weapons in Europe
-Talks on ‘joint production concepts’ accelerate ahead of Nato summit
+## By attacking immigrants, South Africa is destroying itself
+The latest outbreak of xenophobic violence is a betrayal of the nations that aided its freedom struggle
 
-## Five things we learnt from Trump’s financial disclosure
-The US president earned more than $1bn from digital currency interests as well as real estate and stock trades
+## Syria’s president Sharaa appoints new parliament
+New body set to start replacing Assad regime legislation and clearing backlog of bills
 
-## Donald Trump made more than $1bn last year in return to presidency
-US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume
+## Italian tech group Bending Spoons jumps on Nasdaq debut
+Acquisitive owner of Vimeo, AOL and Eventbrite raises $1.68bn in one of Europe’s biggest technology IPOs this year
+
+## This is how we can make AI safe for everyone
+The labs develop the technology, but citizens and their elected representatives must make the rules
 
 ## Scientists unveil synthetic cells to power low-carbon factories
 Invention known as SpudCell is part of effort to use micro-scale bioengineering in manufacture of everyday items
 
-## Self-drive start-up Wayve to be first big test of London’s Pisces market
-LSEG’s new private markets platform to host sale of shares in UK autonomous vehicle company next week
+## GST collection surges 14% in June
+Net collections up 11.2% even as refunds accelerate 29%; first quarter sees 8.4% growth in gross collections
 
-## UK flood reinsurer pushes to cap claims and lift premiums
-Move follows Flood Re being saddled with expensive properties that have made scheme ‘regressive’
+## PMI Manufacturing dipped to 54.2 in June
+Concerns over demand and market conditions dampened business confidence ​to a five-month low
 
-## Google ordered to pay Klarna $2bn antitrust damages
-Swedish court rules search engine favoured its own price-comparison tool over fintech’s PriceRunner site
+## We are all for electrification, alternative fuel vehicles: Pawan Munjal
+“Both domestic as well as export markets were doing much better than they were anticipated, and not only in internal combustion engine (ICE) products, but also electric vehicles (EVs)”
 
-## Lloyds scraps Halifax brand
-UK’s biggest retail bank took over 173-year-old lender as part of its rescue of HBOS during financial crisis
+## Vehicle makers maintain positive momentum in June dispatches
+Maruti, M&M post robust June growth; Hyundai domestic dispatches fall 10% on supply disruption
 
-## What Medallia’s faceplant tells us about private credit
-Equity wipeout, debt distressed . . . trebles all round?
-
-## Editorial. Chipping away
-Semiconductor push should be followed through
-
-## And the business end begins
-The knockout stages of the FIFA World Cup will be a treat for football fans
-
-## Three held for bid to bribe TVK MLA to vote against Speaker in no-confidence motion
-Nirmalkumar claimed that several TVK MLAs were approached by alleged associates of Senthilbalaji and his brother, V Ashok Kumar
-
-## Letters to Editor
+## GST@9
 
 
-## Govt extends Foreign Secretary Vikram Misri’s tenure by one year
-The extension comes at a time when India’s foreign policy is focused on managing multiple strategic challenges
+## Zee Entertainment to raise up to ₹3,144 crore through warrant issue to promoter group entity
+Board also clears new ESOP 2026 scheme
 
-## Trinamool Congress' breakaway faction to meet the Election Commission in Delhi to stake claim
-A 10-member delegation of the Ritabrata Banerjee-led faction will meet Chief Election Commissioner Gyanesh Kumar and other members of the poll panel
-
-## ‘Prone to impersonation’: Indian govt issues urgent notice to Meta
-Meta given three days to respond, explain username feature
+## Latent View Analytics notifies delay in Decision Point acquisition
+Disagreement over price stalls completion of 20% stake purchase
 
 ## 6 lakh retail investors, LIC, MIT suffer as KPIT Tech stock nosedives 17%
 Analysts downgrade the stock post its revenue warning; Tech major expects Q1-FY27 USD revenues to decline 1% y-o-y on abrupt spending cuts by certain European automotive OEMs
@@ -90,52 +81,52 @@ Indian stock markets surged on Wednesday, with the Sensex and Nifty reclaiming k
 ## Cabinet clears Rs 14,115 crore highway projects in Delhi, UP; approves Rs 6,970 crore 6-lane Dwarka tunnel
 
 
-## 5 Surat engineers suspended after Gujarat HC questions demolition of 100 houses
-Five Surat Municipal Corporation engineers suspended after Gujarat High Court questioned the demolition of over 100 Nasirnagar homes without formal orders.
+## SC ends 18-year land row, saves 16 Greater Noida homes from acquisition
+The court exempted residential plots of 16 families, citing nearly two decades of occupation under judicial protection while allowing the wider project to continue.
 
-## 'Deplorable, not isolated': India condemns demolition of 125-year-old gurdwara in Pakistan's Farooqabad
-The gurdwara, located in Pakistan's Punjab province, was reportedly demolished on the night of June 24.
+## Centre begins fresh eviction process against Delhi Gymkhana Club
+The June 29 notice asks the club to respond by July 7 under the Public Premises Act, warning the case may proceed ex parte if it fails to reply.
 
-## India condemns demolition of 125-yr-old gurdwara in Pakistan’s Punjab province
-External affairs ministry spokesperson Randhir Jaiswal pointed to “deeply distressing” reports about the demolition of the historic Gurdwara Singh Sabha
+## Government extends foreign secretary Vikram Misri’s term by one year
+The Centre extended Foreign Secretary Vikram Misri’s tenure by one year till July 2027 amid key diplomatic engagements and global uncertainty.
 
-## Bengaluru woman meets Bumble date in 2022, years later finds intimate videos online
-The woman has approached the police after she found the videos of their intimate moments shared on Reddit and an adult-content website.
+## Japan PM arrives in Delhi; delighted to host you on your first visit to India, says PM Modi
+This is Takaichi's first official visit to India. She is visiting at Modi's invitation from July 1 to 3 for the 16th India-Japan annual summit.
 
-## Cut GST on smartphones below ₹25,000 to 5%: GT Bharat-PWIF report
-A whitepaper jointly prepared by Grant Thornton Bharat and Policy Watch India Foundation has called for a re-examination of the GST framework
+## ‘Peace can't be one-sided’, ‘forgotten Pahalgam’: BJP, oppn react to letter calling for India-Pak talks
+On Tuesday, group of prominent citizens from India, Pakistan urged the PMs of the two countries to take steps towards restoring peace, dialogue and normalcy.
 
-## 2 Hyderabad YouTubers held by AP police over comments against CM Naidu
-The two were identified by the Telangana police as K Venkatrami Reddy alias KV Reddy and B Joseph, popularly known as Raavan
+## India one of most strategic partners for Europe, says Ireland at start of EU presidency
+Ireland says India is among the EU’s most important strategic partners as both sides target signing a landmark free trade agreement by December.
 
-## Govt issues notice to Meta over WhatsApp username feature, seeks detailed response within 3 days
-The government has directed Meta not to roll out the usernames feature in India until consultations on the matter are completed.
+## Finance Minister Nirmala Sitharaman begins official four-day visit to France to deepen strategic economic ties
+During the visit, the Union Finance Minister will also hold one-to-one meetings with select global CEOs.
 
-## India, Pakistan exchange lists of prisoners and fishermen in custody
-India and Pakistan exchanged lists of prisoners and fishermen, with New Delhi seeking consular access to 13 Indians in Pakistani custody.
+## Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
+Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 
-## Foreign Secretary Vikram Misri gets one-year extension in service
-
-
-## Spiti’s seabuckthorn, Kinnauri apple and topi among 8 Himachal products to get GI tag
+## Sooryavanshi’s time will come, but India’s call to stick with top 3 justified
 
 
-## Vadodara bus services operator suspends operations after contract expires, services resume after VMC okays extension
+## Anupam Singh Gahlaut is new Ahmedabad police commissioner
 
 
-## The Odyssey new trailer offers detailed look at Zendaya’s Athena. Watch
+## Empire State Building climbers arrested after ‘marriage proposal’ stunt atop New York landmark
 
 
-## Yash Chopra wanted white; Neeta Lulla chose grey: Story behind Juhi Chawla’s looks in ‘Darr’
+## ‘My stomach is eating itself’: Bryan Johnson reveals hidden autoimmune condition
 
 
-## Gujarat High Court grants Rs 39.8 lakh in enhanced compensation to accident victim
+## Indian seafarer’s body returns from Venezuela ‘without heart, brain, liver’; probe demanded
 
 
-## Heavy downpour continues to batter MMR; no slowdown on cards
+## Two organ donations in two days save six lives
 
 
-## Centre asks WhatsApp to not launch username feature in India
+## Blood-red sky over Caracas after Venezuela earthquakes: Here’s what caused it
+
+
+## Abhishek Sharma breaks T20I record, becomes fastest batter to hit 100 sixes
 
 
 ## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
@@ -162,6 +153,9 @@ A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its hig
 ## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
 China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
 
+## Is Cuba Really Next?
+The fallout from the Iran conflict and the approaching U.S. midterms may change Trump’s calculations.
+
 ## How to Spin an Empire
 U.S. imperialism as inspiration and foil.
 
@@ -182,9 +176,6 @@ Demonstrators had given undocumented migrants until Tuesday to self-deport or fa
 
 ## Small-Plane Crash Tests China’s Security State
 How did a private aircraft enter Beijing’s sensitive airspace?
-
-## Washington’s Cuba Policy Is Self-Sabotage
-The U.S. blockade is destroying Havana’s chances of becoming stable and democratic.
 
 ## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
 The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
@@ -210,6 +201,9 @@ Before granting Uzbekistan Permanent Normal Trade Relations, Washington needs to
 ## In Photos: Northeast Thailand’s Rocket Festival
 The annual bung bang fai festival calls on the god Phaya Thaen to bring rain at the start of the agricultural season.
 
+## From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence
+In 2025, Ofek Riemer, Daniel Wajner, and Ehud Eiran wrote, “Populists vs. Spies in Israel and Beyond,” where they argued that Prime Minister Benjamin Netanyahu’s relationship with Israel’s intelligence agencies could have grave consequences for Israel’s democracy. A year later, we asked them to revi
+
 ## How a Team of Marines Built the Corps’ FPV Drone Training Program from a Cold Start
 Last fall, the U.S. Marine Corps had virtually no first-person view attack drones. That’s changed quickly. This episode is about how a team of marines at Weapons Training Battalion at Quantico went from a cold start to building a Marine Corps-wide first-person view drone training system. Ryan was pl
 
@@ -230,9 +224,6 @@ The extent of China’s drone dominance — and how to decouple from it — has 
 
 ## Lost in Translation: How A Premier Chinese Think Tank Views U.S.-Chinese Competition
 On May 13, 2026, Air Force One landed in Beijing for President Donald Trump’s first state visit to China in nearly a decade. That same morning, the China Institutes of Contemporary International Relations published a report titled The Evolving World and the Right Way to China-US Coexistence. The sum
-
-## The Ukrainian Push for Long-Term Strategic Planning
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cape Verde: All to know before FIFA World Cup knockout against Argentina
-An island nation of just over half a million inhabitants, Cape Verde pulled off the unthinkable by reaching the last 32.
+## Three dead after massive World Cup celebrations in Mexico City
+Health officials say three people died during massive celebrations in Mexico City after Mexico’s 2-0 World Cup win.
 
-## Is Ukraine’s campaign of targeting Russian refineries working?
-Fuel shortages in the country are unlikely to force Putin into concessions for peace.
+## World Cup 2026: Faith and football
+From prayers on the pitch to cursing the opposing team, faith and religious belief have been prominent this World Cup.
 
-## ‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?
-Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle.
+## Can Sudan’s Rapid Support Forces take control of el-Obeid?
+The RSF wants to seize the strategic southern city from the Sudanese military.
 
-## First Syrian parliament since al-Assad’s ousting begins legislative duties
-The new 210-member parliament takes shape, marking a historic shift after decades of Assad family rule.
+## Psychological toll mounts as Lebanese villages erased by Israel’s war
+Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.
 
-## India’s Bengal drops eggs from school lunches: Why that’s stoking debate
-Opposition politicians say the BJP is 'imposing vegetarianism' by removing eggs from midday meals.
+## What military capabilities does Iran possess as it negotiates with US?
+US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.
 
-## How war on Iran changed the global energy sector forever
-Conflict will accelerate shift to renewables and search for alternatives to Strait of Hormuz, energy analysts say.
+## The Iran talks expose the collapse of US diplomacy
+In the Trump era, American diplomacy is being led not by impartial diplomats, but by real estate investors.
 
-## Israeli forces kill Palestinian goalkeeper in Gaza
-Palestinian goalkeeper Saleem Al-Ashqar was shot dead by Israeli forces in Gaza.
+## Warmest June on record for England, second-warmest for UK, says Met Office
+A punishing heatwave affected many parts of the country during the last week of the month.
 
-## Sabalenka overcomes Kessler at Wimbledon, sets up Ostapenko clash
-Top-seeded Aryna Sabalenka will play former French Open champion Jelena Ostapenko in a challenging last-32 matchup.
+## Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher
+Rights group accuses the paramilitary of 'crimes against humanity' for attacks in and around North Darfur State capital.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
