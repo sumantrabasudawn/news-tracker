@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## Trump made up to $1.4bn in stock purchases in 2025
+FT analysis shows US president declared more than 22,000 share transactions last year
+
+## KNDS postpones IPO after investors balk at €12bn-plus valuation
+Franco-German tank maker says it will wait for ‘more favourable’ market conditions
+
 ## Shares in Uber-backed Lime climb after it raised $167mn in IPO
 Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies
 
 ## Mega takeovers drive record $2.8tn in dealmaking
 Companies and investors turn to M&A as they adjust to economic shifts driven by the rise of AI
-
-## KNDS puts its plans for a stock market listing on hold
-Franco-German tank maker said it would wait for ‘more favourable market conditions’
 
 ## World Bank to phase out China lending
 Decision from global development institution follows years of pressure from the Trump administration
@@ -21,11 +24,11 @@ Despite losses on tariffs and birthright citizenship, the executive has emerged 
 ## Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
 Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelter
 
-## Millennium and Point72 gain as hedge funds rebound from Iran war
-Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
-
 ## AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut
 Italian tech group behind Vimeo and Evernote raises $1.68bn in one of Europe’s biggest technology IPOs this year
+
+## Millennium and Point72 gain as hedge funds rebound from Iran war
+Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
 
 ## This is how we can make AI safe for everyone
 The labs develop the technology, but citizens and their elected representatives must make the rules
@@ -54,29 +57,29 @@ Disagreement over price stalls completion of 20% stake purchase
 ## 6 lakh retail investors, LIC, MIT suffer as KPIT Tech stock nosedives 17%
 Analysts downgrade the stock post its revenue warning; Tech major expects Q1-FY27 USD revenues to decline 1% y-o-y on abrupt spending cuts by certain European automotive OEMs
 
-## Employees’ Provident Funds Scheme 2026 notified: Top things to know about contributions, withdrawals & Aadhaar details
-EPF Scheme 2026: Although the overall provident fund framework remains largely unchanged, the revised EPF scheme introduces some changes that relate to contributions, benefits and compliance requirements.
+## UPI volumes up 1.2%, rise to 76 crore
+Digital payment volumes saw a slight dip in June, with UPI transactions falling 2.1% month-on-month. Despite this, daily UPI activity remained robust, and year-on-year growth continues to impress. Other payment systems like FASTag and IMPS also experienced sequential declines, though yearly figures 
 
-## US stocks today: Wall Street under pressure as Nvidia, AMD & Micron lead AI stock sell-off
+## Car sales in June signal strong demand recovery
+India's passenger vehicle sector kicked off FY27 with robust June sales, fueled by strong demand for SUVs and EVs. Tata Motors saw a remarkable 69% surge, driven by popular models and record EV figures. Maruti Suzuki maintained its lead with a 19.3% increase, while Mahindra & Mahindra also reported 
 
+## FPIs' $5bn bond purchase offsets steady equity sales
+Foreign investors returned as net buyers in June, injecting $531 million into Indian markets after a period of outflows. This positive shift was driven by substantial inflows into sovereign debt, totaling $5.8 billion, which more than compensated for continued equity selling. The debt market's stron
 
-## India, Japan to sign LNG security pact during PM Modi-Takaichi bilateral
-India and Japan are set to sign a crucial agreement to bolster liquefied natural gas (LNG) supply security, aiming to counter global disruptions. A joint task force is anticipated to coordinate stockpiling and enhance energy cooperation. The summit, focusing on economic security and resilient supply
+## PE-VC deal value dips 5% in H1 CY2026
+Private equity and venture capital investments saw a slight dip of 5% year-on-year in the first half of 2026, reaching $17.5 billion. Despite global uncertainties, investors deployed substantial capital, particularly in data centers and NBFCs. Late-stage companies attracted the largest share of fund
 
-## 'Everybody's profiting': Trump reacts to $1.4bn income disclosure
-US President Trump reported over $1.4 billion in income from cryptocurrency ventures, including his family's World Liberty Financial and a $TRUMP meme coin. He stated he doesn't manage personal finances, attributing profits to the strong stock market. Despite ethics concerns over crypto-friendly pol
+## Hero Moto to invest 3,200 crore in Andhra Pradesh
+Hero MotoCorp is injecting Rs 3,200 crore into Andhra Pradesh over the next three to five years. This significant investment will bolster manufacturing, enhance its global supply chain, and expand into new business areas. A key part includes a new Global Parts Centre at Tirupati, alongside a doublin
 
-## China tightens curbs on foreign investments amid AI, chip tech rivalry with US
-China has unveiled stringent new regulations to bolster oversight of its overseas investments, particularly in critical tech sectors like AI and semiconductors. These rules, effective Wednesday, aim to safeguard national security and technological capabilities amidst escalating US competition. While
+## Brands get quick-comm boost in summer sales
+Scorching heatwaves have significantly boosted sales for consumer brands, with quick-commerce platforms witnessing a surge in demand for ice creams, beverages, and sunscreens. Ice cream sales alone soared by 140% year-on-year in May. This growth is attributed to expanding delivery services into smal
 
-## Silver price crash: It was being called the 'new gold'. So what went wrong?
-COMEX Silver has declined 37% since the US-Iran war and is down 52% from its all-time high. In domestic markets. MCX Silver has corrected 20% since the war and 46% from its all-time high.
+## Debt's the way for Indian IT acquisition funding
+Indian IT firms are increasingly embracing debt for significant acquisitions, a shift from their traditional cash-rich approach. Persistent Systems' $1.5 billion financing for its Nagarro deal exemplifies this trend, driven by the need to build AI capabilities and expand globally. This strategic mov
 
-## Stock market: Which are top gainers and losers on NSE & BSE today? Check list
-Indian stock markets surged on Wednesday, with the Sensex and Nifty reclaiming key levels after a two-day slump. Positive global cues, including falling crude oil prices, boosted investor confidence. Sectors like banking and consumer goods saw significant gains, while IT stocks faced pressure. Analy
-
-## Cabinet clears Rs 14,115 crore highway projects in Delhi, UP; approves Rs 6,970 crore 6-lane Dwarka tunnel
-
+## At 14%, GST collections in June grow fastest in 8 months
+GST collections surged by 13.9% to Rs 1.94 lakh crore, the fastest in eight months, driven by a significant jump in import taxes on commodities like crude and fertilizers. While domestic collections saw a modest 6.5% rise, imports contributed substantially. This indicates robust manufacturing and im
 
 ## SC ends 18-year land row, saves 16 Greater Noida homes from acquisition
 The court exempted residential plots of 16 families, citing nearly two decades of occupation under judicial protection while allowing the wider project to continue.
@@ -102,6 +105,18 @@ During the visit, the Union Finance Minister will also hold one-to-one meetings 
 ## Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
 
+## India asks Pakistan to expedite release, repatriation of 188 fishermen, prisoners
+
+
+## Major changes in military leadership with new Army Chief, Vice-Chiefs, CISC and Army Commanders
+
+
+## ‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme
+
+
+## 5 Surat civic officials suspended, to face departmental inquiry
+
+
 ## ‘I’ll buy pomegranates, maybe even a dragon fruit…’: As Punjab rolls out cash assistance, hope, celebration among women
 
 
@@ -112,18 +127,6 @@ Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kaligha
 
 
 ## Rs 1,400 crore, 36 lakh beneficiaries: Mann launches Rs 1,000/month aid for women
-
-
-## Woman raped, filmed: 11 arrested, 3 minors nabbed as video circulates on social media
-
-
-## Stone pelting during Hanuman Chalisa recital in Southwest Delhi
-
-
-## ‘Those not in voters’ list can’t get govt money’: Bengal CM Suvendu Adhikari says 26 lakh applications for women cash transfer scheme rejected
-
-
-## Maharashtra introduces bill to recognise women farmers
 
 
 ## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
@@ -150,6 +153,18 @@ A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its hig
 ## What’s driving China’s retailers to bet on own brands? Profit growth, price control: S&P
 China’s biggest retailers are increasingly betting on private-label products as a long-term engine for profit growth and customer loyalty, with the category forecast to double its share of the country’s fast-moving consumer goods (FMCG) market over the next eight years, according to S&P Global Ratin
 
+## The Political Aftershocks of Venezuela’s Earthquakes
+The disasters exposed Delcy Rodríguez’s weak grasp on power.
+
+## USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.
+The White House hopes that annual reviews will curb the United States’ trade deficit with Mexico and Canada.
+
+## Bangladesh Sends Signal With China Visit
+The two countries announce a “new era” in ties during Prime Minister Tarique Rahman’s trip.
+
+## What to Know About Ethiopia’s Debt Breakthrough
+Addis Ababa’s debt relief process has highlighted divisions in the global financial system.
+
 ## Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated
 Reports of NATO’s demise have been greatly exaggerated.
 
@@ -161,18 +176,6 @@ The fallout from the Iran conflict and the approaching U.S. midterms may change 
 
 ## How to Spin an Empire
 U.S. imperialism as inspiration and foil.
-
-## India Should Stop Panicking About Trump
-The emotionalism in Indian politics obscures the strategic logic of U.S.-India ties.
-
-## Trump’s Trans-Atlantic Tech Schism
-The U.S. president’s policies are driving Europe’s push for technological sovereignty.
-
-## The Middle East Has a New Saudi-Led Axis
-The newfound bloc has emerged as a potential winner from the Iran war.
-
-## Blackouts Are Prabowo’s Latest Problem
-Why can’t coal-rich Indonesia keep the lights on?
 
 ## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
 The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
@@ -246,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Seven more sentenced over Texas ICE detention centre shooting
-US prosecutors have alleged those involved in the Prairieland Detention Center protest were linked to antifa.
+## US signs $1 lease with Israel to build permanent embassy in West Jerusalem
+The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.
 
-## Israel kills three Palestinians in Gaza despite ‘ceasefire’
-An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.
+## US Supreme Court hands wealthy donors more sway with latest decision
+Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.
 
-## As Venezuela responds to earthquake devastation, volunteers take charge
-As frustration with the government disaster response grows, everyday citizens are organising to distribute aid.
+## LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026
+Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.
 
-## One week on from Venezuela’s deadly earthquakes
-One week after Venezuela's twin earthquakes, more than 1,900 are confirmed dead while tens of thousands are missing.
+## Iran to open ‘communication channel’ on MoU with US after talks in Qatar
+Iran's Deputy FM Gharibabadi also says part of $6bn in frozen assets would be used to buy goods that Tehran needs.
 
-## Kane double fires England to comeback win over DR Congo at World Cup 2026
-England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.
+## Russian couple arrested after climbing Empire State Building
+Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.
 
-## How AI is being weaponised against India’s Muslim women
-For years, India's Muslim women have been subject to online abuse.
+## State of emergency: Bolivia’s currency plummets as anger simmers
+Bolivia’s President Paz declared a state of emergency after 50 days of protests against his policies.
 
-## US says it won’t agree to renew USMCA
-USMCA came into effect on July 1, 2020, and is slated to expire after 16 years.
+## Despite marquee losses, Supreme Court term grows Trump’s presidential power
+Set backs on tariffs, birthright citizenship overlay broad interpretation of presidential power supported by Trump.
 
-## Three dead after massive World Cup celebrations in Mexico City
-Health officials say three people died during massive celebrations in Mexico City after Mexico’s 2-0 World Cup win.
+## Israeli opposition signal foreign policy change in style, but not substance
+Israeli opposition criticise the means employed by Netanyahu, but cannot risk opposing his ends.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
