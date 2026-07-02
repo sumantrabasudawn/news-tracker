@@ -1,16 +1,25 @@
 # AION Intelligence
 
-## Russia unleashes huge bombardment of Kyiv
-Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’
+## Morgan McSweeney: ‘I felt guilty about what I’d done to Keir’
+The former chief adviser to Keir Starmer forced out of his job over the Mandelson scandal talks for the first time about what went wrong
+
+## Record-breaking ticket sales for British Museum’s Bayeux Tapestry show
+More than £2.5mn raised in first allocation of tickets as hundreds of thousands of people queue online for hours
 
 ## Spain immigration amnesty draws 1.2mn applicants
 More than twice the expected number of unauthorised immigrants applied for legal status, mostly from Latin America
 
-## Morgan McSweeney: ‘I felt guilty about what I’d done to Keir’
-The former chief adviser to Keir Starmer forced out of his job over the Mandelson scandal talks for the first time about what went wrong
+## Ask Gideon Rachman a question — Has the Iran war changed the world order?
+Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
+
+## US unemployment ticks down in June, supporting hawkish Fed pivot
+While job growth figures underwhelmed, the overall picture of the US labour market remains robust
+
+## Russia unleashes huge bombardment on Kyiv
+Attack with 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow was preparing ‘massive strike’
 
 ## US economy undershoots forecasts with 57,000 jobs added in June
-Hiring slows after three-month streak of overperformance
+Hiring slows after 3-month streak of overperformance
 
 ## Tesla deliveries climb 25% as fuel price surge boosts Europe demand
 Strong second-quarter sales in Europe and China help offset weak US figures hit by end of EV tax credits
@@ -20,9 +29,6 @@ Students, seniors and coupon savers could all lose out under plans to make price
 
 ## There will be no more games like Minecraft without maths
 Cuts to UK higher education courses are a danger to our tech industries
-
-## Inside Donald Trump’s new financial disclosures
-Also in today’s newsletter, US opts not to renew trade deal with Mexico and Canada
 
 ## Blue Owl hit by $4.7bn of redemption requests as investor exodus persists
 Withdrawal requests at 20 private credit funds tracked by FT totalled more than $22bn in second quarter
@@ -39,29 +45,38 @@ Last month FERC gave grid operators 60 days to justify or revise how they connec
 ## FirstFT: OpenAI proposes US government stake
 Also in today’s newsletter: Asia’s biggest IPO this year, and Google loses appeal against record €4bn EU competition fine
 
-## Embassy Office Parks REIT and Hilton launch Hilton Garden Inn in Bengaluru
-The development increases Hilton's footprint in Bengaluru to 13 properties, making it the company's biggest cluster in India
+## Bank of Baroda reports 15% increase in global business
+Domestic deposits up 14.74%, advances rise 16.14% with strong retail growth
 
-## Letters to Editor
+## India’s rupee denominated external debt up 10 percentage points over the last 15 years
+This evolving debt profile underscores both the challenges and changing dynamics of India’s financial landscape as it navigates a complex global economic environment.
 
+## Ninjacart raises $6 million from existing investors
+Says it has turned EBITDA-profitable; eyes public listing in two years
 
-## Quick commerce reshapes FMCG strategy as companies bet on premium products
-What began as a channel for testing new products is now influencing boardroom decisions on portfolio mix, premiumisation, pack sizes and product innovation.
+## Arihant Foundations acquires prime land in Chennai’s Anna Salai
+To develop a boutique Grade A commercial office project on the site, with an estimated Gross Development Value of ₹300 crore
 
-## Nearly 8 lakh GST registrations in 6 months, UP leads the way
-One important reason for rise in registrations is easier process announced last September by the GST Council.
+## ‘Usernames’ of public figures restricted only to their legitimate account: WhatsApp in FAQs
+Government sends similar notice to Telegram and Signal too
 
-## Airlines shun ₹10,000-crore ATF subsidy as fuel prices fall
-The scheme was voluntary, and airlines were to sign agreements with oil marketing companies to avail of the capped price of about ₹115 per litre
+## BatX Energies bags ₹105 cr Series A for Battery Recycling
+Newly raised capital to be used to expand battery recycling capacity and develop domestic critical minerals supply chain
 
-## Energy Edits Newsletter for July 2, 2026
+## Aster DM Quality Care commences operations following corporate merger
+Company plans to decentralize advanced care by adding specialist services, updating technology, and establishing regional medical centers to bring healthcare closer to patients
 
+## India, Japan to collaborate for strategic storage, maritime transport
+The focus will be on cooperation on information-sharing on market trends and joint efforts for market stabilisation
 
-## Businessline journalist bags SOMS Thought Leadership Award in agri-journalism
-This event, part of the Specialty Fertilizer Summit & B2B Expo 2026, celebrated journalists making waves in agricultural reporting and policy discussions across India
+## US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat
+Wall Street saw a mixed trading session as a weaker-than-expected US jobs report fueled hopes the Federal Reserve might pause interest rate hikes. The Dow and S&P 500 edged up, while the Nasdaq dipped. Investors are now betting on an 80% chance of the Fed holding rates steady, influenced by easing i
 
-## Nisus Finance invests ₹70 cr in three Bengaluru residential projects
-The developments are located across key residential markets in Bengaluru and are aimed at meeting demand for mid-income and premium housing
+## US adds just 57,000 jobs in June as hiring loses momentum despite easing unemployment
+US job creation significantly decelerated in June, with only 57,000 new positions added, a stark drop from May's revised figure. While the unemployment rate dipped slightly to 4.2%, the labor force participation rate also declined. Despite job gains in sectors like healthcare and professional servic
+
+## Japan’s Rs 1 trillion investment push in India: PM Modi and Japanese PM Sanae Takaichi unveil initiatives to boost ties
+Highlighting the growing economic partnership between the two nations, PM Modi said more than 100 new business agreements had been signed over the past year, paving the way for Japanese investments worth over $10 billion in India.
 
 ## Market wrap: Top gainers and losers on NSE Nifty50 and BSE Sensex today
 Indian stock markets surged on Thursday, with Sensex and Nifty climbing nearly 1%. A significant rally in IT stocks, coupled with easing crude oil prices and positive India-Japan strategic agreements, boosted investor confidence. Despite some blue-chip weakness, the market extended its upward trend,
@@ -78,61 +93,52 @@ India and Japan elevated their trade and strategic ties with a new Memorandum of
 ## Who should file ITR & is income tax return filing mandatory for salaried taxpayers?
 The important thing to understand is that ITR filing is a statutory requirement and an important financial record-keeping. For the financial year 2025-26, the basic exemption limit for individuals below 60 years of age is Rs 2.5 lakh under the old income tax regime and Rs 4 lakh under the new income
 
-## India's EV boom could save Rs 1 lakh crore in oil imports by 2030: SBI
-India stands to save a staggering Rs 1 lakh crore by 2030 if electric vehicles capture 20% of the market, a recent SBI report reveals. The surge in EV adoption, accelerated by geopolitical events, saw registrations jump significantly. However, the report emphasizes the urgent need to expand charging
+## 'Shows BJP's doubled standards': Congress questions PM Modi's ‘silence’ over Ayodhya Ram Temple donation row
+Congress's KC Venugopal said PM Modi's silence on the Ram Temple donation scam exposes the BJP's double standards and moral failure
 
-## OpenAI weighs giving Trump administration 5% stake amid US scrutiny of AI firms: Report
-OpenAI reportedly explored offering the Trump administration a 5% stake, a move aimed at fostering government ties and addressing public profit-sharing concerns amid rising AI scrutiny. Discussions, involving Sam Altman and Trump officials, are conceptual, potentially requiring congressional approva
+## All 500 police stations in Bengal get cyber, women help desks
+West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 police stations to combat rising cybercrime and enhance women's security.
 
-## New EPF Scheme 2026: What it means for your provident fund savings
-India’s provident fund framework has now entered a new phase with the notification of the Employees’ Provident Funds Scheme, 2026 (EPF Scheme, 2026) under the Code on Social Security, 2020.
+## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
+Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
-## Books thrown away, students assaulted: CJP's Abhijeet Dipke levels fresh charges against Delhi Police
-The CJP founder alleged that ACP Ajay Sharma and his team threw away books, including those on Chhatrapati Shivaji Maharaj and Bhagat Singh.
+## Daycare abuse case: Bengaluru police to inspect all daycare centres for compliance
+In a statement, Capgemini said as a precautionary measure, they are temporarily closing the Bengaluru on-campus daycare facility.
 
-## By-election in Datia to take place in July
-Voting for the Datia assembly by-election will occur on July 30 after MLA Rajendra Bharti was disqualified due to a criminal conviction.
+## Vikram-1, India’s first private orbital rocket to launch this month
+Skyroot Aerospace announced that Vikram-1 Test Flight-1: Mission Aagaman is fully stacked at India’s historic First Launch Pad (FLP) at the Satish Dhawan Space Centre, Sriharikota.
 
-## Delhi court reserves judgment in Brij Bhushan sexual harassment case
-A Delhi court will announce its judgment on August 3 in a sexual harassment case against Brij Bhushan Singh, charged by six women wrestlers.
+## UP shocker: Man attacks wife with axe, dies by suicide moments later; woman survives
+The deceased has been identified as Govind Dubey, 50, who attacked his wife, Aarti, 46, in a fit of rage during an argument over a domestic issue.
 
-## ‘Little sister’ and a partnership of strategic convergence: 5 takeaways from PM Modi-Takaichi talks
-The summit underscored what both sides described as a "mutually complementary relationship" in an increasingly uncertain global environment
+## Will petrol, diesel prices go down soon? Govt answers big question amid easing crude oil prices
+On whether there would be a reduction in fuel prices, minister Hardeep Singh Puri said this would be a "legitimate question".
 
-## Goa police file second charge sheet in Birch by Romeo Lane nightclub fire case
-Goa Police filed a 2,306-page chargesheet in the Birch by Romeo Lane fire case, alleging forged documents and safety violations that led to 25 deaths.
+## Heavy rain, landslides put Uttarakhand authorities on high alert, pilgrimage routes affected
+Heavy monsoon rain triggered landslides in Uttarakhand, disrupting the Badrinath and Kedarnath yatras and prompting a high alert across districts.
 
-## Two deaths in 3 days: BMC faces heat after schoolboy, 60-year-old man die in separate incidents in Mumbai
-On Thursday in Mumbai's Chandivali area, where 55-year-old Aslam Easaf Shaikh died after falling into an uncovered manhole amid heavy rainfall.
-
-## Heavy rain puts Uttarakhand's Rudraprayag on alert as Alaknanda, Mandakini rivers swell; IMD issues 4-day warning
-Officials said movement of vehicles and pedestrians on the Sonprayag-Munkatiya road in Rudraprayag has been temporarily suspended as a precautionary measure.
-
-## BJP accuses Priyanka Gandhi, husband Robert Vadra of land grab attempt in Uttarakhand
-BJP national spokesperson Pradeep Bhandari alleged that the Gandhi-Vadra family's real business is not politics but "grabbing people's land".
-
-## Farah Khan says she took 4-5 years to lose postpartum weight ‘unlike today’s actors’
+## Spain vs Austria FIFA World Cup 2026 Match LIVE Updates: ESP face off with AUT with RO16 spot on the line
 
 
-## Retiree wins relief after 30 years, court sets aside recovery order over ‘Rs 3.6 lakh theft’
+## New name, double the cash: Say hello to the Bukhman International Booker Prize
 
 
-## ICAI CA Foundation Result May 2026: When and where to check
+## Court orders Surat Muncipal Corporation to rebuild homes after ‘unauthorised demolition’
 
 
-## Indian team to travel Sri Lanka for Test match series after 9-years
+## CM Fadnavis stays Maharashtra RTI Rules, 2026
 
 
-## New EPF Scheme, 2026: What changes for provident fund subscribers
+## Mumbai’s hidden death traps: Inside the city’s open manhole menace
 
 
-## ‘You should own a jet after composing DDLJ’: Biddu said Jatin-Lalit were ‘missing millions’
+## ‘No danger’: Jasmin Bhasin reveals she’s recovering at home after discharge from hospital
 
 
-## Thailand: 8 Buddhist monks killed after pickup driven by 11-year-old crashes into pilgrims
+## 4 sacrilege FIRs so far under Satkar Act, will continue to probe as ‘law still stands’, says Punjab ADGP
 
 
-## Elle review: A pitch-perfect teenaged Reese Witherspoon in a prequel one episode too long
+## Richa Chadha slams trolls for attacking Dia Mirza over son’s plastic remarks
 
 
 ## China AI drug-design deals swell as US scrutiny mounts
@@ -159,6 +165,12 @@ The operator of budget online marketplaces Temu and Pinduoduo is ramping up its 
 ## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
 China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
 
+## The U.S. at 250: Terminally Ill or Just Very Sick?
+Experts question whether one of the world’s oldest democracies can survive.
+
+## Between Independence and Freedom
+How a fundamental tension in the declaration echoed through U.S. foreign policy.
+
 ## The Hypocrisy That Shields Erdogan From Global Criticism
 Rising human rights violations in Turkey should be called out.
 
@@ -177,35 +189,29 @@ The two countries announce a “new era” in ties during Prime Minister Tarique
 ## What to Know About Ethiopia’s Debt Breakthrough
 Addis Ababa’s debt relief process has highlighted divisions in the global financial system.
 
-## Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated
-Reports of NATO’s demise have been greatly exaggerated.
+## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
+Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
 
-## Is Meloni Done With Trump?
-A recent spat might be the final nail in the coffin of the trans-Atlantic far right.
+## Guam: Where America’s 250th Birthday Will First Be Honored
+As the country celebrates its past, let it also recognize the place where its future security begins: an island that has given more to the United States than most Americans will ever know.
 
-## Mr. Prabowo Versus the Market
-The Indonesian state has a long history of inserting itself into the economy in ways that have made investors uneasy.
+## Forging China-US ‘Constructive Strategic Stability’ Starts in the Nuclear Realm
+Real strategic stability starts with recognizing mutual vulnerability.
 
-## A Rare Case of Matricide Shocked Indonesia — and Now the Verdict Is In
-AL, the perpetrator of the crime, was just 12 years of age at the time of her mother’s murder.
+## Asia Is Racing to the Arctic, But It’s Not Easy
+The political momentum for the Northern Sea Route is real. However, the actual data looks a lot less rosy.
 
-## Myanmar Denies ASEAN Chair’s Request for Meeting With Aung San Suu Kyi
-In late May, the military announced that it had transferred the 81-year-old former leader from prison to house arrest.
+## BIMSTEC, Northeast India, and an Overlooked Pillar of the Act East Policy
+India’s Act East Policy should be judged by its ability to change from articulating strategy to putting that strategy into practice in the Northeast, via BIMSETC.
 
-## Koizumi’s First Trip to Seoul: A Sign of Cautious Japan-South Korea Reconciliation
-While the latest Japan-South Korea defense ministers’ meeting shows an obvious trajectory of rapprochement between the two neighbors, it also exposes certain boundaries in their defense cooperation.
+## Taiwan’s Drone Industry Take Centerstage in Defense Spending Debate
+Funding for drones became much more hotly discussed in the wake of KMT chair Cheng Li-wun’s trip to the United States last month.
 
-## China’s EUV Lithography Progress: Parsing Signal From Noise
-China faces three specific barriers as it aims to produce key chipmaking equipment. Monitoring progress in these areas would help Western countries make better chip and AI policy.
+## Why Corruption Persists in Uzbekistan’s Water Sector
+Real reform in the water sector means building a system that makes corruption harder to commit, easier to detect, and less rewarding for those who might try.
 
-## USS Ronald Reagan Drug Case Raises Questions About Off-Base Reach in Japan
-58 sailors from the U.S. aircraft carrier were punished over an LSD distribution case that began while it was homeported in Japan. Did their network reach into Japanese society?
-
-## Rubio Courts Tajikistan as Washington Hunts for Antimony
-Restarting the bilateral dialogue after a four-year freeze is a bid to loosen China’s grip on a critically-important mineral.
-
-## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
-The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
+## Reckoning With the Evolving China-Russia Threat
+Don't underestimate the China-Russia partnership; Beijing and Moscow have already cooperated in ways that seemed unthinkable not long ago.
 
 ## The Blind Spots in Chinese Military Studies
 During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gaza’s first women’s amputee football team reclaims the pitch after war
-Gaza’s first women’s amputee football team is reclaiming a space that war tried to take from them.
+## What is the Society of St Pius X? Why Pope Leo excommunicated its bishops
+The Vatican declares 'schism' in Catholic Church after bishops were ordained without Pope Leo XIV's approval.
 
-## Explosion in Damascus cafe causes casualties
-An explosion inside a cafe in Damascus’s Hejaz district has caused casualties, according to Syrian state media.
+## Spain vs Austria LIVE: FIFA World Cup 2026
+Live coverage and text updates as Spain play Austria in Los Angeles in the Round of 32 knockout stage.
 
-## Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel
-In 1,000 days since October 7, 2023, Gaza lies in ruins, Board of Peace falters and Israel expands control of enclave.
+## Into the Darkness
+Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.
 
-## Why has Trump refused to renew the USMCA, and what will that mean?
-Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'.
+## US job growth slows in June; hospitality sheds roles despite World Cup
+Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.
 
-## German football has a bigger problem than a World Cup loss: Scapegoating
-Eight years ago, it was Mesut Ozil, who has Turkish roots. This time, German manager tries to blame Kurdish Deniz Undav.
+## UK’s Starmer apologises for the state’s role in decades of forced adoptions
+UK government and Christian churches oversaw system that separated 185,000 babies from their mothers from 1949 to 1976.
 
-## From Alabama to Yosemite: 50 US places with Native American origins
-As the US marks 250 years since its July 4 declaration, Al Jazeera traces 50 place names, their meanings and origins.
+## Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?
+Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.
 
-## What’s China’s new ethnic unity law, and what does it mean for minorities?
-Critics say it could hasten forced assimilation, lead to targeting of critics outside China. Beijing rejects charges.
+## Man City sign Elliot Anderson from Forest in record British transfer
+Anderson will become the most expensive British player in history when the transfer is finalised with Nottingham Forest.
 
-## Syria explosion live: Bomb blast kills 5 people in Damascus
-⁠An explosion rocks ​Damascus with state media reporting it was caused by a bomb.
+## With Hormuz reopened, has the oil shortage turned into a glut?
+As flow resumes through the strait, an oil surplus may yet again destabilise global energy markets.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
