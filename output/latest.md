@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Lockheed in lead to buy naval tech group Ultra Maritime in $3.5bn deal
+Agreement for defence company could be announced as soon as early next week
+
+## US economy undershoots forecasts with 57,000 jobs added in June
+Hiring slows after 3-month streak of overperformance
+
 ## Burnham insists he will be disciplined with UK public finances
 Prime minister in waiting says he will stick by Labour’s manifesto promises on tax
 
@@ -12,32 +18,26 @@ Private equity group targets valuation of up to $12bn for purveyor of cheesestea
 ## UK’s culture secretary and department quit X citing concerns over democracy
 Move by Lisa Nandy marks first exit of a major cabinet department from the platform
 
-## US economy undershoots forecasts with 57,000 jobs added in June
-Hiring slows after 3-month streak of overperformance
-
 ## Modi and Takaichi meet in the shadow of Chinese pressure
 Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
 
 ## The faltering engine of Germany’s auto industry
 VW is a test of the country’s ability to adapt
 
-## Pubs to stay open until 5am for England’s World Cup match
-Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
+## Halftime for the markets
+What have we learned in the first six months of 2026?
 
 ## Healthcare group owned by Ardian has its bank accounts seized
 Creditors told of investigation into Santé Cie and subsidiaries over dealings with healthcare professionals
+
+## Pubs to stay open until 5am for England’s World Cup match
+Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
 
 ## The chip rally is tightening tech’s grip on Wall Street
 AI spending frenzy has powered a semiconductor surge
 
 ## Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
 Investors and analysts say customers’ fear of Trump’s deportation campaign weakened the private equity-owned chain
-
-## FCA criticises investment firms for unintelligible disclosure documents
-UK financial watchdog also bans ‘double-dipping’ as it pushes to improve treatment of customers
-
-## Tesla deliveries climb 25% as fuel price surge boosts Europe demand
-Strong second-quarter sales in Europe and China help offset weak US figures hit by end of EV tax credits
 
 ## Indian tech start-ups speed up public market debut
 The time to IPO has nearly halved, from initial funding to listing is now just 8 years
@@ -63,29 +63,29 @@ STL raises INR 1500 Cr through Qualified Institutions Placement
 ## Oil Minister rules out cut in petrol, diesel prices until global crude stays low for a few weeks
 The Minister highlighted that the government has shielded the consumer from full impact of the volatility in prices of crude oil, LNG and LPG
 
+## Govt expects pick-up in economy as West Asia situation improves
+India's economy is showing robust resilience, with strong GDP growth, expanding manufacturing and services, and healthy GST collections. Despite initial global uncertainties and a weaker monsoon, domestic demand and investment remain strong. Government's sustained capital expenditure, particularly i
+
+## Cryptocurrency difficult to regulate, RBI tells Parliamentary panel
+The Reserve Bank of India has firmly stated its opposition to legalizing cryptocurrencies, citing concerns about their potential to fund illicit activities like drug trafficking and terrorism. The central bank emphasized the challenges in regulating virtual digital assets, particularly for emerging 
+
+## OMCs back in foreign exchange market? Spike in $ demand raises buzz
+The Indian rupee weakened against the dollar, closing at 95.4, as oil marketing companies reportedly resumed significant dollar purchases for upcoming crude oil imports. This renewed demand for dollars, despite positive global sentiment for Asian currencies and lower oil prices, has raised concerns 
+
+## Adani, IHC join hands for $11.5 billion aluminium project
+Abu Dhabi's International Holding Company is significantly expanding its partnership with the Adani Group by investing $11.5 billion in a massive integrated aluminium project in Odisha. This joint venture will establish one of India's largest aluminium hubs, featuring a refinery, smelter, and power 
+
+## Chipflation is here and you'll have to pay for it
+The AI boom is driving up the cost of everyday electronics, a phenomenon dubbed 'chipflation'. Memory chip prices have surged dramatically, impacting everything from smart TVs and smartphones to kitchen appliances. Manufacturers are diverting chip production to AI infrastructure, leading to scarcity
+
+## Bank of Baroda enters 5.7k crore settlement with creditors of NMC Health
+Bank of Baroda has settled a major legal dispute, agreeing to pay $600 million to administrators of the collapsed NMC Health group. This out-of-court agreement concludes years of litigation concerning cross-border insolvency and alleged fraud following NMC's 2020 downfall. The payment will be distri
+
+## Recruiters deploy AI to catch ghost coders
+Campus hiring faces a new wave of sophisticated cheating, fueled by GenAI. Recruiters are battling hidden devices, AI tools, proxy candidates, and ghost coders. To counter this, companies are increasingly deploying AI-powered proctoring and shifting away from browser-based tests. Experts highlight t
+
 ## US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat
 Wall Street saw a mixed trading session as a weaker-than-expected US jobs report fueled hopes the Federal Reserve might pause interest rate hikes. The Dow and S&P 500 edged up, while the Nasdaq dipped. Investors are now betting on an 80% chance of the Fed holding rates steady, influenced by easing i
-
-## US adds just 57,000 jobs in June as hiring loses momentum despite easing unemployment
-US job creation significantly decelerated in June, with only 57,000 new positions added, a stark drop from May's revised figure. While the unemployment rate dipped slightly to 4.2%, the labor force participation rate also declined. Despite job gains in sectors like healthcare and professional servic
-
-## Japan’s Rs 1 trillion investment push in India: PM Modi and Japanese PM Sanae Takaichi unveil initiatives to boost ties
-Highlighting the growing economic partnership between the two nations, PM Modi said more than 100 new business agreements had been signed over the past year, paving the way for Japanese investments worth over $10 billion in India.
-
-## Market wrap: Top gainers and losers on NSE Nifty50 and BSE Sensex today
-Indian stock markets surged on Thursday, with Sensex and Nifty climbing nearly 1%. A significant rally in IT stocks, coupled with easing crude oil prices and positive India-Japan strategic agreements, boosted investor confidence. Despite some blue-chip weakness, the market extended its upward trend,
-
-## Air India Express restores Middle East flights: Check routes, destinations and schedules
-Air India Express has fully reinstated its Middle East flight operations, bringing back services to Kuwait and Salalah. Flights to Kuwait from Kozhikode and Bengaluru are resuming with increased frequencies. The airline's Middle East network now spans 13 destinations, with approximately 780 weekly f
-
-## FPIs continue to exit India: June equity outflows hit Rs 49,340 crore as debt inflows persist
-Foreign investors continued their exit from Indian equities in June, withdrawing Rs 49,340 crore amid global risk aversion and domestic valuation concerns. Despite a brief February recovery, outflows have reached Rs 2.7 lakh crore this year, surpassing 2025's total. While equities saw selling, forei
-
-## India-Japan trade: PM Modi, 'younger sister' Takaichi sign MoC including $10 billion investment, AI boost
-India and Japan elevated their trade and strategic ties with a new Memorandum of Cooperation signed during the 16th Annual Summit in New Delhi. Prime Minister Modi welcomed his Japanese counterpart, highlighting shared priorities for a free and prosperous Indo-Pacific. The leaders discussed initiati
-
-## Who should file ITR & is income tax return filing mandatory for salaried taxpayers?
-The important thing to understand is that ITR filing is a statutory requirement and an important financial record-keeping. For the financial year 2025-26, the basic exemption limit for individuals below 60 years of age is Rs 2.5 lakh under the old income tax regime and Rs 4 lakh under the new income
 
 ## India, Japan deepen defence, AI, energy ties; finalise economic roadmap
 Japanese PM Sanae Takaichi , on her first visit to India since becoming PM, arrived with a high-powered business delegation and joined Modi for the 16th annual India-Japan Summit.
@@ -111,6 +111,21 @@ West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 pol
 ## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
 Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
+## Reliance on coal soars as weak rains drag hydro output by 19.5%
+
+
+## Panchkula: All street vendors, delivery personnel to be police verified
+
+
+## Delhi government notifies new winter action plan: Last few seasons, one in three winter days saw GRAP 3 and 4 curbs
+
+
+## ‘Don’t know how to take out anger and on whom’: Parents of Gurgaon hit-and-run victim await justice
+
+
+## Portugal vs Croatia Live Updates, FIFA World Cup 2026: Ronaldo likely to start in XI for Portugal
+
+
 ## Court awards life-term to nine cops for custodial death
 
 
@@ -120,20 +135,8 @@ Omar Abdullah said the conflict between the two countries was not new and has pe
 ## Delhi Confidential: Past Connection
 
 
-## TMC leader flags MPs’ safety in letter to Speaker Om Birla after mob attacks Mahua Moitra in Nadia
-
-
-## Empire State Building stunt: Couple identified as Netflix ‘Skywalkers’ stars
-
-
-## Monsoon arrives in Delhi, rain likely next week
-
-
-## Punjab clears proposal to regularise illegal colonies, tweaks land pooling policy
-
-
-## Manhole death: ‘His umbrella & slippers were lying nearby… still we couldn’t believe he had fallen in’
-
+## Summer Davos C-Suite Roundtable: A Curtain Raiser for APEC as Global Investors Align on the Future of the Greater Bay Area
+Earlier this week, the South China Morning Post and the Hong Kong Investment Corporation Limited (“HKIC”) co-hosted a special SCMP C-Suite roundtable event, featuring a keynote address from the Honourable Paul Chan, Financial Secretary of the Hong Kong SAR Government, guest speakers Clara Chan, Chie
 
 ## China AI drug-design deals swell as US scrutiny mounts
 Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms. The value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical c
@@ -156,8 +159,11 @@ Hong Kong’s stock exchange ranked second globally by capital raised in the fir
 ## PDD embraces China’s ‘city of the future’ after bruising regulatory clash and record fine
 The operator of budget online marketplaces Temu and Pinduoduo is ramping up its commitment in a state-backed development zone – dubbed a “city of the future” in official discourse – months after the e-commerce group was hit by the heaviest penalty in a record food-safety crackdown and accused by reg
 
-## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
-China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
+## Is Sports Diplomacy Still Possible?
+Hard power has left its mark on this year’s World Cup.
+
+## Russia’s 11-Hour Assault on Kyiv
+The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.
 
 ## Gen Z Goes to Hollywood
 Three summer movies reflect a generation’s sensibilities.
@@ -176,12 +182,6 @@ Experts question whether one of the world’s oldest democracies can survive.
 
 ## Between Independence and Freedom
 How a fundamental tension in the declaration echoed through U.S. foreign policy.
-
-## The Hypocrisy That Shields Erdogan From Global Criticism
-Rising human rights violations in Turkey should be called out.
-
-## The Strategy Behind the Battle for Crimea
-Ukraine’s new offensive on the territory has military stakes far beyond payback.
 
 ## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
 Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The last time Iran held a funeral for the Supreme Leader
-An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.
+## Could water become a flashpoint between Islamabad and New Delhi?
+Pakistan has warned India over the Indus Water Treaty.
 
-## Fears of new massacre in Sudan’s el-Obeid: What do we know?
-As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.
+## WHO declares cruise-linked hantavirus outbreak officially over
+WHO declares cruise-linked hantavirus outbreak over as final exposed person completes quarantine and tests negative.
 
-## UK’s likely next PM Andy Burnham faces defence funding gap
-Defence Secretary Dan Jarvis is facing questions over the funding gap and whether Burnham was blindsided.
+## UK’s likely next leader Andy Burnham vows to fully fund defence plans
+Andy Burnham says the UK must take the defence investment plan 'very seriously' despite 4.7bn-pound funding hole.
 
-## ‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes
-Attention has turned to the humanitarian response after at least 2,295 people are confirmed dead, and 13,000 homeless.
+## Trump administration aims to cut regulations on US commercial fishing
+Scallop fishing had been banned in the New England waters since 1994 on account of overfishing.
 
-## How the North American heatwave could impact the FIFA World Cup
-Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?
+## UK culture minister quits X over ‘abuse and misinformation’
+UK Department of Culture, Media and Sport will also stop using social media platform.
 
-## Deadly blast at Damascus cafe leaves 6 dead, 22 injured
-At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.
+## Violent clashes as Albania’s anti-government protests continue
+Violent clashes as Albania’s anti-government protests continue
 
-## Rally for Luxembourg teacher fired over pro-Gaza posts
-Students and supporters of a Luxembourg teacher fired over social media posts held a demonstration for her this week.
+## Trump administration renews pressure on International Criminal Court
+The US says it will reject any effort by court to assert authority over citizens, days after judges sue over sanctions.
 
-## Amid the World Cup, the new pan-Africanism is conditional
-A record number of African nations are at the 2026 World Cup, but the continent no longer backs them all.
+## Supermarket chaos for air conditioner sale in France amid heatwave
+Supermarket chaos erupted in France as shoppers raced to buy Lidl's discounted air conditioners and fans
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
