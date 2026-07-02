@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## UK car finance compensation scheme paused by tribunal
-FCA programme partially suspended after challenges from lenders and consumer group
+## Russia unleashes huge bombardment of Kyiv
+Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’
 
 ## Spain immigration amnesty draws 1.2mn applicants
-More than twice as many unauthorised immigrants applied for legal status as expected, mostly from Latin America
+More than twice the expected number of unauthorised immigrants applied for legal status, mostly from Latin America
 
-## Andy Burnham and the politics of nostalgia
-Starmer’s presumptive heir is locked in a battle over Britain’s past — and future — with Nigel Farage
+## Morgan McSweeney: ‘I felt guilty about what I’d done to Keir’
+The former chief adviser to Keir Starmer forced out of his job over the Mandelson scandal talks for the first time about what went wrong
 
-## Merz unveils €10bn tax cuts to revive German growth
-Ruling coalition overcomes divisions to agree longer Sunday opening hours and tighter sick-leave rules
+## US economy undershoots forecasts with 57,000 jobs added in June
+Hiring slows after three-month streak of overperformance
 
-## Modi and Takaichi meet in the shadow of Chinese pressure
-Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
+## Tesla deliveries climb 25% as fuel price surge boosts Europe demand
+Strong second-quarter sales in Europe and China help offset weak US figures hit by end of EV tax credits
 
-## Moscow hockey match shows limits of Trump-Putin thaw
-Russia beats US in first friendly game since full-scale invasion of Ukraine
+## Eliminate ‘personal pricing’ and you risk harming consumers
+Students, seniors and coupon savers could all lose out under plans to make prices fairer
 
-## FirstFT: OpenAI proposes US government stake
-Also in today’s newsletter: Asia’s biggest IPO this year, and Google loses appeal against record €4bn EU competition fine
+## There will be no more games like Minecraft without maths
+Cuts to UK higher education courses are a danger to our tech industries
 
-## Fear, loathing and ice cream pricing
-Japan’s food industry is a shopfront for the vulnerabilities of a weak currency
+## Inside Donald Trump’s new financial disclosures
+Also in today’s newsletter, US opts not to renew trade deal with Mexico and Canada
+
+## Blue Owl hit by $4.7bn of redemption requests as investor exodus persists
+Withdrawal requests at 20 private credit funds tracked by FT totalled more than $22bn in second quarter
+
+## UK car finance compensation delayed as tribunal pauses scheme
+FCA programme thrown into doubt by challenges from lenders and consumer group
 
 ## How capable is AI? It depends what you’re worried about
 Metrics for dangerous success and dangerous failure should be interpreted differently
@@ -30,44 +36,38 @@ Metrics for dangerous success and dangerous failure should be interpreted differ
 ## US energy regulator sets ultimatum for data centres
 Last month FERC gave grid operators 60 days to justify or revise how they connect ‘large loads’ — or the regulator will make the decision for them
 
-## Yet another ‘quant tremor’ strikes systematic investors
-The garbage rally roils quantitative investment strategies
+## FirstFT: OpenAI proposes US government stake
+Also in today’s newsletter: Asia’s biggest IPO this year, and Google loses appeal against record €4bn EU competition fine
 
-## Beijing plane crash pilot suffered from ‘insomnia and anxiety’, say police
-Pilot who was living alone after divorce had made ‘repeated references’ to suicide in his diary, according to authorities
+## Embassy Office Parks REIT and Hilton launch Hilton Garden Inn in Bengaluru
+The development increases Hilton's footprint in Bengaluru to 13 properties, making it the company's biggest cluster in India
 
-## Trump blocks long-term renewal of North America trade pact
-Washington will hold annual reviews on terms of commerce with its biggest trading partners
+## Letters to Editor
 
-## Forvis Mazars fined £600,000 for ‘pervasive’ audit failings
-Group lambasted by FRC for ‘serious’ problems in Studio Retail audit
 
-## Russian drone campaign mapped Nato air defence gaps, study finds
-Nearly 150 UAV incursions into more than a dozen European countries were made over 19 months, IISS report says
+## Quick commerce reshapes FMCG strategy as companies bet on premium products
+What began as a channel for testing new products is now influencing boardroom decisions on portfolio mix, premiumisation, pack sizes and product innovation.
 
-## IT sector leads Dalal Street's winning streak; crude slump, Japan deals lift sentiment
-The Nifty 50 closed at 24,175.70, up 0.71 per cent, while the Sensex gained 0.75 per cent to settle at 77,502.
+## Nearly 8 lakh GST registrations in 6 months, UP leads the way
+One important reason for rise in registrations is easier process announced last September by the GST Council.
 
-## Lightstorm’s new high-speed subsea cable to connect India’s east coast to Malaysia and Singapore
-Lightstorm and consortia to build low latency subsea cable in ASEAN region under multi-million dollar deal
+## Airlines shun ₹10,000-crore ATF subsidy as fuel prices fall
+The scheme was voluntary, and airlines were to sign agreements with oil marketing companies to avail of the capped price of about ₹115 per litre
 
-## PBPartners ropes in 5 lakh partners in 5 years
-The number of cities covered has grown to 703, up from 167 over the past five years
+## Energy Edits Newsletter for July 2, 2026
 
-## Merchant, arbitrage flows extend rupee's losing streak even as dollar slumps
-The currency ended at ‌95.3925 against the dollar, down 0.1% from its previous close
 
-## BatX Energies raises ₹105 cr in funding round led by IvyCap Ventures
-The Series A funding round also saw the participation of existing investors Zephyr Peacock, Mankind Pharma Family Office, Excel Industries Family Office and JITO
+## Businessline journalist bags SOMS Thought Leadership Award in agri-journalism
+This event, part of the Specialty Fertilizer Summit & B2B Expo 2026, celebrated journalists making waves in agricultural reporting and policy discussions across India
 
-## Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models
-Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models
+## Nisus Finance invests ₹70 cr in three Bengaluru residential projects
+The developments are located across key residential markets in Bengaluru and are aimed at meeting demand for mid-income and premium housing
 
-## Comviva's mobiquity Pay® Reinforces Mobile Money Leadership with Consecutive Platinum Win at Juniper Research Future Digital Awards 2026
-Comviva's mobiquity Pay® Reinforces Mobile Money Leadership with Consecutive Platinum Win at Juniper Research Future Digital Awards 2026
+## Market wrap: Top gainers and losers on NSE Nifty50 and BSE Sensex today
+Indian stock markets surged on Thursday, with Sensex and Nifty climbing nearly 1%. A significant rally in IT stocks, coupled with easing crude oil prices and positive India-Japan strategic agreements, boosted investor confidence. Despite some blue-chip weakness, the market extended its upward trend,
 
-## Saints & Masters acquires AI solutions provider Xencia Technolgies
-With this buy, S&M is targeting ₹1,000 crore revenue from its Microsoft Cloud business over the next few years
+## Air India Express restores Middle East flights: Check routes, destinations and schedules
+Air India Express has fully reinstated its Middle East flight operations, bringing back services to Kuwait and Salalah. Flights to Kuwait from Kozhikode and Bengaluru are resuming with increased frequencies. The airline's Middle East network now spans 13 destinations, with approximately 780 weekly f
 
 ## FPIs continue to exit India: June equity outflows hit Rs 49,340 crore as debt inflows persist
 Foreign investors continued their exit from Indian equities in June, withdrawing Rs 49,340 crore amid global risk aversion and domestic valuation concerns. Despite a brief February recovery, outflows have reached Rs 2.7 lakh crore this year, surpassing 2025's total. While equities saw selling, forei
@@ -87,11 +87,23 @@ OpenAI reportedly explored offering the Trump administration a 5% stake, a move 
 ## New EPF Scheme 2026: What it means for your provident fund savings
 India’s provident fund framework has now entered a new phase with the notification of the Employees’ Provident Funds Scheme, 2026 (EPF Scheme, 2026) under the Code on Social Security, 2020.
 
-## Stock Market Live Updates Today: BSE Sensex opens over 250 points up, Nifty50 above 24,050; crude oil prices continue to drop
+## Books thrown away, students assaulted: CJP's Abhijeet Dipke levels fresh charges against Delhi Police
+The CJP founder alleged that ACP Ajay Sharma and his team threw away books, including those on Chhatrapati Shivaji Maharaj and Bhagat Singh.
 
+## By-election in Datia to take place in July
+Voting for the Datia assembly by-election will occur on July 30 after MLA Rajendra Bharti was disqualified due to a criminal conviction.
 
-## Top stocks to buy today: Stock recommendations for July 2, 2026 - check list
-Top stock market recommendations: REC, Oberoi Realty, and Home First Finance Company India have been recommended by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management as top stocks to buy on July 2, 2026. He has also shared his views on Nifty and
+## Delhi court reserves judgment in Brij Bhushan sexual harassment case
+A Delhi court will announce its judgment on August 3 in a sexual harassment case against Brij Bhushan Singh, charged by six women wrestlers.
+
+## ‘Little sister’ and a partnership of strategic convergence: 5 takeaways from PM Modi-Takaichi talks
+The summit underscored what both sides described as a "mutually complementary relationship" in an increasingly uncertain global environment
+
+## Goa police file second charge sheet in Birch by Romeo Lane nightclub fire case
+Goa Police filed a 2,306-page chargesheet in the Birch by Romeo Lane fire case, alleging forged documents and safety violations that led to 25 deaths.
+
+## Two deaths in 3 days: BMC faces heat after schoolboy, 60-year-old man die in separate incidents in Mumbai
+On Thursday in Mumbai's Chandivali area, where 55-year-old Aslam Easaf Shaikh died after falling into an uncovered manhole amid heavy rainfall.
 
 ## Heavy rain puts Uttarakhand's Rudraprayag on alert as Alaknanda, Mandakini rivers swell; IMD issues 4-day warning
 Officials said movement of vehicles and pedestrians on the Sonprayag-Munkatiya road in Rudraprayag has been temporarily suspended as a precautionary measure.
@@ -99,46 +111,28 @@ Officials said movement of vehicles and pedestrians on the Sonprayag-Munkatiya r
 ## BJP accuses Priyanka Gandhi, husband Robert Vadra of land grab attempt in Uttarakhand
 BJP national spokesperson Pradeep Bhandari alleged that the Gandhi-Vadra family's real business is not politics but "grabbing people's land".
 
-## ‘Catastrophic, invisible’: Supreme Court flags use of AI in legal process as ‘misconduct’
-The top court held that production of fake, non-existent, and hallucinated materials in legal processes amounts to misconduct on the part of the advocate.
-
-## WhatsApp username rollout: All FAQs on scams, safety and privacy explained
-The clarification comes after the Centre raised concerns over potential fraud and impersonation risks, advising Meta to hold off on rollout in India.
-
-## Faridabad man crushed in rampage sparked by tip-off about suspect’s location
-A video of the incident went viral on social media and purportedly showed an SUV chasing a resident of Sirohi village and hitting him
-
-## Air India Express restarts flights to West Asia, Salalah, Kuwait back in service
-Air India Express said the frequencies of flights to and from West Asia will increase in phases over the coming days.
-
-## AI, defence, healthcare: What was discussed in Modi's meet with Japan PM Sanae Takaichi
-The two leaders met in New Delhi to sign MoUs establishing cooperation across key areas such as artificial intelligence, clean energy, defence and healthcare
-
-## 'Murdered, organs removed': Wife of Indian sailor who died in Venezuela alleges foul play
-She also alleged that the company's representatives were dismissive and failed to provide answers despite repeated requests.
-
-## Apple testing 4 new iPad Pro models, redesigned MacBook Pro: Report
+## Farah Khan says she took 4-5 years to lose postpartum weight ‘unlike today’s actors’
 
 
-## At 38, Messi has stopped running. That is what makes him impossible to stop
+## Retiree wins relief after 30 years, court sets aside recovery order over ‘Rs 3.6 lakh theft’
 
 
-## Rs 6,000 running shoes lose their soles within a month, company ordered to pay Rs 16,000
+## ICAI CA Foundation Result May 2026: When and where to check
 
 
-## Vijaya Mehta gave my words a stage, my creativity a home
+## Indian team to travel Sri Lanka for Test match series after 9-years
 
 
-## Inside India’s secret Seychelles mission: A Cold War story
+## New EPF Scheme, 2026: What changes for provident fund subscribers
 
 
-## Newly built Delhi-Dehradun expressway caves in near Shamli; NHAI says locals blocked drainage work
+## ‘You should own a jet after composing DDLJ’: Biddu said Jatin-Lalit were ‘missing millions’
 
 
-## Super Subbu review: Rural sex-ed comedy starts strong, but fails to give a satisfying finish
+## Thailand: 8 Buddhist monks killed after pickup driven by 11-year-old crashes into pilgrims
 
 
-## Akshay Kumar sells four apartments in one month for Rs 20 cr; earns Rs 7 cr profit
+## Elle review: A pitch-perfect teenaged Reese Witherspoon in a prequel one episode too long
 
 
 ## China AI drug-design deals swell as US scrutiny mounts
@@ -165,6 +159,9 @@ The operator of budget online marketplaces Temu and Pinduoduo is ramping up its 
 ## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
 China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
 
+## The Hypocrisy That Shields Erdogan From Global Criticism
+Rising human rights violations in Turkey should be called out.
+
 ## The Strategy Behind the Battle for Crimea
 Ukraine’s new offensive on the territory has military stakes far beyond payback.
 
@@ -185,9 +182,6 @@ Reports of NATO’s demise have been greatly exaggerated.
 
 ## Is Meloni Done With Trump?
 A recent spat might be the final nail in the coffin of the trans-Atlantic far right.
-
-## Is Cuba Really Next?
-The fallout from the Iran conflict and the approaching U.S. midterms may change Trump’s calculations.
 
 ## Mr. Prabowo Versus the Market
 The Indonesian state has a long history of inserting itself into the economy in ways that have made investors uneasy.
@@ -261,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jaylen Brown traded to Philadelphia 76ers from Boston Celtics
-In an unexpected move, Boston traded the All-Star guard to division rivals Philadelphia for Paul George and draft picks.
+## Gaza’s first women’s amputee football team reclaims the pitch after war
+Gaza’s first women’s amputee football team is reclaiming a space that war tried to take from them.
 
-## Vatican expels members of rebel Catholic group over unapproved ordination
-Vatican stresses only pope may approve bishop consecrations to safeguard apostolic ties to Jesus's original disciples.
+## Explosion in Damascus cafe causes casualties
+An explosion inside a cafe in Damascus’s Hejaz district has caused casualties, according to Syrian state media.
 
-## Philippines volcano erupts blasting plumes of ash and steam
-Taal Volcano in the Philippines erupted, sending a column of ash and steam 1,200 metres into the air.
+## Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel
+In 1,000 days since October 7, 2023, Gaza lies in ruins, Board of Peace falters and Israel expands control of enclave.
 
-## German coalition agrees on sweeping reform package in key breakthrough
-Under fire amid surge in far right, German chancellor unveils tax and pension reform package in bid to revive economy.
+## Why has Trump refused to renew the USMCA, and what will that mean?
+Trade ambassador says US will not approve trilateral agreement with Canada and Mexico 'in its current form'.
 
-## FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race
-Spain, Portugal and Switzerland take centre stage as the knockout drama continues across North America.
+## German football has a bigger problem than a World Cup loss: Scapegoating
+Eight years ago, it was Mesut Ozil, who has Turkish roots. This time, German manager tries to blame Kurdish Deniz Undav.
 
-## An extra 229,000 deaths: Is that the cost of US-UK drugs deal?
-Research finds that trade deal requiring UK to buy more medicines from US takes away money from other parts of NHS.
+## From Alabama to Yosemite: 50 US places with Native American origins
+As the US marks 250 years since its July 4 declaration, Al Jazeera traces 50 place names, their meanings and origins.
 
-## A Palestinian home inside a cage
-This Palestinian family's home is sealed inside an Israeli settlement and the separation wall. Al Jazeera's Leila Warah
+## What’s China’s new ethnic unity law, and what does it mean for minorities?
+Critics say it could hasten forced assimilation, lead to targeting of critics outside China. Beijing rejects charges.
 
-## Eight Thai monks killed after child drives truck into procession
-Police say 11-year-old boy who took his parents' vehicle without permission is now in custody and will be questioned.
+## Syria explosion live: Bomb blast kills 5 people in Damascus
+⁠An explosion rocks ​Damascus with state media reporting it was caused by a bomb.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
@@ -309,6 +303,9 @@ Tax professionals, industry bodies and bar association urge Finance Ministry to 
 ## CEAT targets one-third export revenue share, eyes double-digit volume growth over next five years: CFO Kumar Subbiah
 CEAT aims to boost international revenue to one-third of its total within five years, up from 25%, while maintaining double-digit volume growth. In the near term, however, the tyre maker plans further price hikes to offset rising raw material costs, particularly natural rubber. Significant capacity 
 
+## Functional & Innovative Foods files DRHP with Sebi for IPO
+Functional & Innovative Foods has filed its DRHP with Sebi for an IPO comprising a fresh issue of 60 lakh shares and an offer for sale of 25 lakh shares. The company plans to use the proceeds for capacity expansion, debt repayment, subsidiary investment, working capital and general corporate purpose
+
 ## Indian rupee weakness to persist despite RBI measures to bring in dollars
 Despite the Reserve Bank of India's efforts to attract foreign capital, the Indian rupee is expected to remain weak against the U.S. dollar in the coming months. While recent measures and falling oil prices have offered some support, analysts predict the rupee will trade around current levels. Expec
 
@@ -329,7 +326,4 @@ The policy provides 100 per cent exemption on road tax and registration fees for
 
 ## RBI's dollar inflow measures buy time, but external risks remain
 The Reserve Bank of India's recent measures to boost dollar inflows are a temporary fix, economists warn. While these steps aim to stabilize the rupee now, the country must strengthen its balance of payments over the next three to five years. Otherwise, as foreign currency borrowings and deposits ma
-
-## Corporate Mitra scheme to commence with 2,000 participants
-Corporate Mitras will provide affordable support to Micro, Small and Medium Enterprises (MSMEs) in various areas, including regulatory compliance, GST, accounting, financial guidance, cost accounting and secretarial services.
 
