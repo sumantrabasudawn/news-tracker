@@ -1,64 +1,76 @@
 # AION Intelligence
 
+## UK car finance compensation scheme paused by tribunal
+FCA programme partially suspended after challenges from lenders and consumer group
+
+## Spain immigration amnesty draws 1.2mn applicants
+More than twice as many unauthorised immigrants applied for legal status as expected, mostly from Latin America
+
+## Andy Burnham and the politics of nostalgia
+Starmer’s presumptive heir is locked in a battle over Britain’s past — and future — with Nigel Farage
+
+## Merz unveils €10bn tax cuts to revive German growth
+Ruling coalition overcomes divisions to agree longer Sunday opening hours and tighter sick-leave rules
+
+## Modi and Takaichi meet in the shadow of Chinese pressure
+Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
+
+## Moscow hockey match shows limits of Trump-Putin thaw
+Russia beats US in first friendly game since full-scale invasion of Ukraine
+
+## FirstFT: OpenAI proposes US government stake
+Also in today’s newsletter: Asia’s biggest IPO this year, and Google loses appeal against record €4bn EU competition fine
+
+## Fear, loathing and ice cream pricing
+Japan’s food industry is a shopfront for the vulnerabilities of a weak currency
+
+## How capable is AI? It depends what you’re worried about
+Metrics for dangerous success and dangerous failure should be interpreted differently
+
+## US energy regulator sets ultimatum for data centres
+Last month FERC gave grid operators 60 days to justify or revise how they connect ‘large loads’ — or the regulator will make the decision for them
+
+## Yet another ‘quant tremor’ strikes systematic investors
+The garbage rally roils quantitative investment strategies
+
+## Beijing plane crash pilot suffered from ‘insomnia and anxiety’, say police
+Pilot who was living alone after divorce had made ‘repeated references’ to suicide in his diary, according to authorities
+
 ## Trump blocks long-term renewal of North America trade pact
 Washington will hold annual reviews on terms of commerce with its biggest trading partners
 
-## What Hammersmith Bridge could teach Burnham
-Devolved authorities do not face right or wrong choices, only trade-offs
+## Forvis Mazars fined £600,000 for ‘pervasive’ audit failings
+Group lambasted by FRC for ‘serious’ problems in Studio Retail audit
 
 ## Russian drone campaign mapped Nato air defence gaps, study finds
 Nearly 150 UAV incursions into more than a dozen European countries were made over 19 months, IISS report says
 
-## UK’s next census at risk if ONS fails to boost survey response rates
-Solving institutional crisis at the statistics agency will be ‘neither quick nor entirely linear’ says top official
+## IT sector leads Dalal Street's winning streak; crude slump, Japan deals lift sentiment
+The Nifty 50 closed at 24,175.70, up 0.71 per cent, while the Sensex gained 0.75 per cent to settle at 77,502.
 
-## Russia unleashes huge bombardment of Kyiv
-Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’
+## Lightstorm’s new high-speed subsea cable to connect India’s east coast to Malaysia and Singapore
+Lightstorm and consortia to build low latency subsea cable in ASEAN region under multi-million dollar deal
 
-## Google loses appeal against record €4.1bn EU fine over Android
-European Court of Justice decision marks a significant win for Brussels’ crackdown on Big Tech
+## PBPartners ropes in 5 lakh partners in 5 years
+The number of cities covered has grown to 703, up from 167 over the past five years
 
-## Woah-oh, we’re halfway there
-A strong first half (until the last bit)
+## Merchant, arbitrage flows extend rupee's losing streak even as dollar slumps
+The currency ended at ‌95.3925 against the dollar, down 0.1% from its previous close
 
-## Chinese energy group’s shares triple in Asia’s biggest IPO this year
-China Resources New Energy raises $3.6bn amid heavy demand from retail investors
+## BatX Energies raises ₹105 cr in funding round led by IvyCap Ventures
+The Series A funding round also saw the participation of existing investors Zephyr Peacock, Mankind Pharma Family Office, Excel Industries Family Office and JITO
 
-## Forvis Mazars and partner fined £600,000 by regulator
-Group lambasted by FRC for ‘numerous, serious and pervasive failings’ in Studio Retail audit
+## Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models
+Altudo Becomes an OpenAI Services Partner to Help Enterprises Build AI Workflows Using OpenAI Models
 
-## PwC picks Canary Wharf for new London office
-Accountancy firm is taking additional office space as it considers where to base its main London headquarters
+## Comviva's mobiquity Pay® Reinforces Mobile Money Leadership with Consecutive Platinum Win at Juniper Research Future Digital Awards 2026
+Comviva's mobiquity Pay® Reinforces Mobile Money Leadership with Consecutive Platinum Win at Juniper Research Future Digital Awards 2026
 
-## AI’s big questions for humanity and Japan’s start-up mojo
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## Saints & Masters acquires AI solutions provider Xencia Technolgies
+With this buy, S&M is targeting ₹1,000 crore revenue from its Microsoft Cloud business over the next few years
 
-## Quantum Systems weighs merger with kamikaze drone start-up Stark
-German maker of unmanned surveillance aircraft says $1.2bn fundraising removed shareholder opposition to developing lethal weapons
-
-## Sensex today | Stock Market Live updates: Sensex climbs 430 pts, Nifty above 24,130; Nifty IT up 4.5% after 4-day losing streak
-Sensex, Nifty, Share Prices LIVE: At 2.23 pm, Sensex traded 472 points (+0.61%) higher at 77,394, and Nifty 50 increased by 146 points (0.61%) to 24,152.
-
-## India’s LPG consumption declined 8% in H1 2026 as West Asia conflict upended supply
-The decline in consumption was entirely due to lower availability, the Petroleum Planning and Analysis Cell said
-
-## IT surge powers Nifty past 24,100; crude below $68 lifts sentiment
-IT giants led the Nifty, with Infosys rising 5.61% to ₹1,040.60 on over 1.15 crore shares worth ₹1,194.96 crores
-
-## Adar Poonawalla Family Office invests ₹700 cr in Inox Clean Energy
-The investment values the INOXGFL Group’s renewable energy platform at ₹70,000 crore and will support expansion in renewable power and solar manufacturing.
-
-## Indian box office collections surged 21% in H1: Multiplex Association
-The improved collections have been attributed to higher footfalls across metros and even smaller centres, besides an increase in ticket prices
-
-## Gold price drops ₹166 to ₹1,44,264/10g in futures trade
-Analysts attribute decline in precious metal prices to weak spot demand
-
-## Google loses fight against record €4.1 billion EU antitrust fine
-In 2018, the European Commission fined Google €4.34 billion for forcing phone manufacturers to pre-install its services on Android devices and restricting the use of rival systems
-
-## Silver futures rise to ₹2.31 lakh per kg
-On the Multi Commodity Exchange, silver for September delivery rose by ₹1,219, or 0.53%, to ₹2,31,603 per kg with a turnover of 1,325 lots
+## FPIs continue to exit India: June equity outflows hit Rs 49,340 crore as debt inflows persist
+Foreign investors continued their exit from Indian equities in June, withdrawing Rs 49,340 crore amid global risk aversion and domestic valuation concerns. Despite a brief February recovery, outflows have reached Rs 2.7 lakh crore this year, surpassing 2025's total. While equities saw selling, forei
 
 ## India-Japan trade: PM Modi, 'younger sister' Takaichi sign MoC including $10 billion investment, AI boost
 India and Japan elevated their trade and strategic ties with a new Memorandum of Cooperation signed during the 16th Annual Summit in New Delhi. Prime Minister Modi welcomed his Japanese counterpart, highlighting shared priorities for a free and prosperous Indo-Pacific. The leaders discussed initiati
@@ -81,56 +93,59 @@ India’s provident fund framework has now entered a new phase with the notifica
 ## Top stocks to buy today: Stock recommendations for July 2, 2026 - check list
 Top stock market recommendations: REC, Oberoi Realty, and Home First Finance Company India have been recommended by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management as top stocks to buy on July 2, 2026. He has also shared his views on Nifty and
 
-## Unable to withdraw PF or file claims? EPFO services unavailable for 7 days
-Employees' Provident Fund Organisation (EPFO) services remain unavailable beyond the scheduled July 1 deadline due to a planned database consolidation and software upgrade. This outage, affecting member and employer portals, prevents access to crucial functions like claim submission and e-passbook. 
+## Heavy rain puts Uttarakhand's Rudraprayag on alert as Alaknanda, Mandakini rivers swell; IMD issues 4-day warning
+Officials said movement of vehicles and pedestrians on the Sonprayag-Munkatiya road in Rudraprayag has been temporarily suspended as a precautionary measure.
 
-## Protesters torch vehicle in Imphal East as tensions escalate in Manipur
-Protesters torched telecom vehicle in Manipur’s Imphal East, amid rising Naga-Kuki tensions, highway blockades and renewed demands for peace
+## BJP accuses Priyanka Gandhi, husband Robert Vadra of land grab attempt in Uttarakhand
+BJP national spokesperson Pradeep Bhandari alleged that the Gandhi-Vadra family's real business is not politics but "grabbing people's land".
 
-## Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video
-The tourists were travelling from Manali to Lahaul on Tuesday night when the incident took place.
+## ‘Catastrophic, invisible’: Supreme Court flags use of AI in legal process as ‘misconduct’
+The top court held that production of fake, non-existent, and hallucinated materials in legal processes amounts to misconduct on the part of the advocate.
 
-## Delhi HC sets aside conviction of former major general in asset case
-The court observed that the sanctioning authority had not been provided with complete investigative record and had instead considered only such material as the IO had chosen to place before it
+## WhatsApp username rollout: All FAQs on scams, safety and privacy explained
+The clarification comes after the Centre raised concerns over potential fraud and impersonation risks, advising Meta to hold off on rollout in India.
 
-## Akhilesh Yadav condemns alleged attack on Mahua Moitra, accuses BJP of ‘fostering political violence’
-Mahua Moitra allegedly faced protests by BJP workers, who hurled eggs at her during a visit to the Nadia district in West Bengal.
+## Faridabad man crushed in rampage sparked by tip-off about suspect’s location
+A video of the incident went viral on social media and purportedly showed an SUV chasing a resident of Sirohi village and hitting him
 
-## CM Vijay's government in danger? What we know about the TVK-DMK 'horse-trading' row
-The controversy erupted after a TVK MLA alleged he was offered ₹35 crore to vote in a particular manner in the Assembly.
+## Air India Express restarts flights to West Asia, Salalah, Kuwait back in service
+Air India Express said the frequencies of flights to and from West Asia will increase in phases over the coming days.
 
-## Off the rails and back again: The story of Kolkata's trams that BJP's Bengal govt wants to revive
-From a failed 1873 horse-tram line to a 150th birthday and a near shutdown, Kolkata's trams have a long history of being written off, and saved.
+## AI, defence, healthcare: What was discussed in Modi's meet with Japan PM Sanae Takaichi
+The two leaders met in New Delhi to sign MoUs establishing cooperation across key areas such as artificial intelligence, clean energy, defence and healthcare
 
-## 'India only country to match China's scale in...': US senator's remarks over trust and innovation
-The Republican senator from Montana said he leaves his phone behind when travelling to China but carries it with him when visiting India.
+## 'Murdered, organs removed': Wife of Indian sailor who died in Venezuela alleges foul play
+She also alleged that the company's representatives were dismissive and failed to provide answers despite repeated requests.
 
-## ‘A terrorist, is a terrorist’: India calls for collective action to root out ‘murderous ideology’
-India said counter-terrorism should not be hollowed out by false equivalences or politicised narratives.
-
-## ‘Isn’t this injustice?’: CBSE students slam Karnataka exam body in KCET rank row
+## Apple testing 4 new iPad Pro models, redesigned MacBook Pro: Report
 
 
-## As heavy rain lashes Mumbai, Colaba radar defunct for 2 weeks
+## At 38, Messi has stopped running. That is what makes him impossible to stop
 
 
-## Clean-up staged with AI, fake attendance: Why two Gurgaon civic officials lost jobs
+## Rs 6,000 running shoes lose their soles within a month, company ordered to pay Rs 16,000
 
 
-## The Odyssey in Michael Caine’s AI voice? Why I’d choose a voice artist any day
+## Vijaya Mehta gave my words a stage, my creativity a home
 
 
-## EC announces 3 Assembly by-polls, including Nitin Nabin’s seat
+## Inside India’s secret Seychelles mission: A Cold War story
 
 
-## Creator claims Ramayana makers shared ‘nerfed’ Lord Ram glimpse for publicity
+## Newly built Delhi-Dehradun expressway caves in near Shamli; NHAI says locals blocked drainage work
 
 
-## High court stays order withdrawing 52 criminal cases against Kannada groups, activists
+## Super Subbu review: Rural sex-ed comedy starts strong, but fails to give a satisfying finish
 
 
-## Court upholds order denying promotion to CRPF inspectors over tattoo on saluting arm
+## Akshay Kumar sells four apartments in one month for Rs 20 cr; earns Rs 7 cr profit
 
+
+## China AI drug-design deals swell as US scrutiny mounts
+Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms. The value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical c
+
+## Hong Kong assets hit record US$5.38 trillion on renewed China appetite: SFC
+Assets and wealth under management in Hong Kong surged to a record high last year as global investors returned to Chinese assets, underscoring the city’s edge over Switzerland as a wealth hub. Financial firms in Hong Kong managed HK$42.2 trillion (US$5.38 trillion) worth of assets last year, a 20 pe
 
 ## Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration
 A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse. More than 430 companies were currently waiting in the initial p
@@ -150,11 +165,8 @@ The operator of budget online marketplaces Temu and Pinduoduo is ramping up its 
 ## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
 China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
 
-## Can Hong Kong absorb US$100 billion of newly tradable shares amid the global AI boom?
-Hong Kong stocks have trailed other major global markets in the first half of the year, a trend analysts said could persist as sluggish consumer spending weighs on Chinese internet platforms and an entrenched AI trade risks widening the performance gap. A glut of stocks from the expiry of IPO lock-u
-
-## Rare momentum: Hong Kong universities, schools prop up commercial property market
-Hong Kong’s educational institutions are forecast to ramp up their investment and leasing in the commercial property segment, with leading universities and international schools among those paying top dollar to acquire or lease office and retail spaces, according to Colliers. In the first five month
+## The Strategy Behind the Battle for Crimea
+Ukraine’s new offensive on the territory has military stakes far beyond payback.
 
 ## The Political Aftershocks of Venezuela’s Earthquakes
 The disasters exposed Delcy Rodríguez’s weak grasp on power.
@@ -176,9 +188,6 @@ A recent spat might be the final nail in the coffin of the trans-Atlantic far ri
 
 ## Is Cuba Really Next?
 The fallout from the Iran conflict and the approaching U.S. midterms may change Trump’s calculations.
-
-## How to Spin an Empire
-U.S. imperialism as inspiration and foil.
 
 ## Mr. Prabowo Versus the Market
 The Indonesian state has a long history of inserting itself into the economy in ways that have made investors uneasy.
@@ -252,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Alibaba to pay $600m to settle illegal drug sales allegations in US probe
-E-commerce giant admitted it failed to ⁠prevent 80,000 illegal drug product sales, according to US Justice Department.
+## Jaylen Brown traded to Philadelphia 76ers from Boston Celtics
+In an unexpected move, Boston traded the All-Star guard to division rivals Philadelphia for Paul George and draft picks.
 
-## Two reported killed, dozens hurt in hospital fire in Germany
-At least 34 injured after fire at the only hospital in the town of Ludwigslust; probe into the blaze is ongoing.
+## Vatican expels members of rebel Catholic group over unapproved ordination
+Vatican stresses only pope may approve bishop consecrations to safeguard apostolic ties to Jesus's original disciples.
 
-## Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
-US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.
+## Philippines volcano erupts blasting plumes of ash and steam
+Taal Volcano in the Philippines erupted, sending a column of ash and steam 1,200 metres into the air.
 
-## ‘The crisis is deep’: The view from Russia as fuel shortages worsen
-Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.
+## German coalition agrees on sweeping reform package in key breakthrough
+Under fire amid surge in far right, German chancellor unveils tax and pension reform package in bid to revive economy.
 
-## In Pictures: Hunger, despair as Venezuela quake death toll rises
-Venezuelan rescuers fight to save lives as survivors face hunger and chaos after devastating twin earthquakes.
+## FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race
+Spain, Portugal and Switzerland take centre stage as the knockout drama continues across North America.
 
-## Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news
-Spain take on Austria in Los Angeles, with the winner facing either Portugal or Croatia in the last 16.
+## An extra 229,000 deaths: Is that the cost of US-UK drugs deal?
+Research finds that trade deal requiring UK to buy more medicines from US takes away money from other parts of NHS.
 
-## More than 900 arrested during South Africa’s antimigrant protests
-Wave of arrests made across South Africa as xenophobic tensions erupt into nationwide marches.
+## A Palestinian home inside a cage
+This Palestinian family's home is sealed inside an Israeli settlement and the separation wall. Al Jazeera's Leila Warah
 
-## Maradona to Messi: Why Bangladesh loves Argentina’s footballers
-Diego Maradona turned a nation 17,000km from Argentina into die-hard fans. Lionel Messi has enthralled a new generation.
+## Eight Thai monks killed after child drives truck into procession
+Police say 11-year-old boy who took his parents' vehicle without permission is now in custody and will be questioned.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
