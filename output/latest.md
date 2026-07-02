@@ -63,6 +63,9 @@ STL raises INR 1500 Cr through Qualified Institutions Placement
 ## Oil Minister rules out cut in petrol, diesel prices until global crude stays low for a few weeks
 The Minister highlighted that the government has shielded the consumer from full impact of the volatility in prices of crude oil, LNG and LPG
 
+## Carlsberg files IPO papers confidentially
+Danish brewer Carlsberg has confidentially submitted draft IPO papers for its Indian operations to Sebi. While the timing and progress depend on regulatory approvals and market conditions, the offering is understood to be a secondary share sale. This move signals a potential boost to the IPO market,
+
 ## Govt expects pick-up in economy as West Asia situation improves
 India's economy is showing robust resilience, with strong GDP growth, expanding manufacturing and services, and healthy GST collections. Despite initial global uncertainties and a weaker monsoon, domestic demand and investment remain strong. Government's sustained capital expenditure, particularly i
 
@@ -83,9 +86,6 @@ Bank of Baroda has settled a major legal dispute, agreeing to pay $600 million t
 
 ## Recruiters deploy AI to catch ghost coders
 Campus hiring faces a new wave of sophisticated cheating, fueled by GenAI. Recruiters are battling hidden devices, AI tools, proxy candidates, and ghost coders. To counter this, companies are increasingly deploying AI-powered proctoring and shifting away from browser-based tests. Experts highlight t
-
-## US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat
-Wall Street saw a mixed trading session as a weaker-than-expected US jobs report fueled hopes the Federal Reserve might pause interest rate hikes. The Dow and S&P 500 edged up, while the Nasdaq dipped. Investors are now betting on an 80% chance of the Fed holding rates steady, influenced by easing i
 
 ## India, Japan deepen defence, AI, energy ties; finalise economic roadmap
 Japanese PM Sanae Takaichi , on her first visit to India since becoming PM, arrived with a high-powered business delegation and joined Modi for the 16th annual India-Japan Summit.
@@ -111,6 +111,9 @@ West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 pol
 ## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
 Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
+## Raja Raghuvanshi murder: Supreme Court to hear today plea challenging bail to Sonam
+
+
 ## Reliance on coal soars as weak rains drag hydro output by 19.5%
 
 
@@ -123,7 +126,7 @@ Omar Abdullah said the conflict between the two countries was not new and has pe
 ## ‘Don’t know how to take out anger and on whom’: Parents of Gurgaon hit-and-run victim await justice
 
 
-## Portugal vs Croatia Live Updates, FIFA World Cup 2026: Ronaldo likely to start in XI for Portugal
+## Portugal vs Croatia Live Updates, FIFA World Cup 2026: Ronaldo keen to break knockout scoring jinx
 
 
 ## Court awards life-term to nine cops for custodial death
@@ -132,8 +135,8 @@ Omar Abdullah said the conflict between the two countries was not new and has pe
 ## Gujarat woman gets 10-year jail over acid attack on man over strained relationship
 
 
-## Delhi Confidential: Past Connection
-
+## Sportswear firms fail to score at the World Cup amid a China sales slump
+Big international sportswear brands like Nike, Adidas and Arc’teryx all saw declining in-store sales at Chinese shopping malls in May, according to data tracked by a third-party platform. Despite the ongoing Fifa World Cup 2026, analysts expect soft consumer demand will cause the weakening trend to 
 
 ## Summer Davos C-Suite Roundtable: A Curtain Raiser for APEC as Global Investors Align on the Future of the Greater Bay Area
 Earlier this week, the South China Morning Post and the Hong Kong Investment Corporation Limited (“HKIC”) co-hosted a special SCMP C-Suite roundtable event, featuring a keynote address from the Honourable Paul Chan, Financial Secretary of the Hong Kong SAR Government, guest speakers Clara Chan, Chie
@@ -156,8 +159,8 @@ How does an electric vehicle (EV) stand out in China’s ultra-competitive marke
 ## From AI chips to energy drinks: Hong Kong’s biggest listing deals of 2026 so far
 Hong Kong’s stock exchange ranked second globally by capital raised in the first half of 2026, with total proceeds from initial public offerings and secondary listings rising 84.3 per cent year on year to US$26.4 billion. Among the 84 new listings during the period, mainland Chinese issuers accounte
 
-## PDD embraces China’s ‘city of the future’ after bruising regulatory clash and record fine
-The operator of budget online marketplaces Temu and Pinduoduo is ramping up its commitment in a state-backed development zone – dubbed a “city of the future” in official discourse – months after the e-commerce group was hit by the heaviest penalty in a record food-safety crackdown and accused by reg
+## Angsty in Ankara
+Can NATO move past a need to keep Trump happy?
 
 ## Is Sports Diplomacy Still Possible?
 Hard power has left its mark on this year’s World Cup.
@@ -179,9 +182,6 @@ Washington and Tehran are grappling over a “memorandum of misunderstanding.”
 
 ## The U.S. at 250: Terminally Ill or Just Very Sick?
 Experts question whether one of the world’s oldest democracies can survive.
-
-## Between Independence and Freedom
-How a fundamental tension in the declaration echoed through U.S. foreign policy.
 
 ## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
 Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Portugal fans gather ahead of Ronaldo-Modric clash
+Portugal fans gather ahead of Ronaldo-Modric clash.
+
+## Senegal’s World Cup agony: Nation left rueing last-gasp collapse
+Former players and fans blame substitutions, lack of focus, and travel restrictions for Senegal's World Cup exit.
+
+## Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout
+Mikel Oyarzabal's brace allows the European champions to dominate Austria and move on to the round of 16.
+
 ## Could water become a flashpoint between Islamabad and New Delhi?
 Pakistan has warned India over the Indus Water Treaty.
 
@@ -269,15 +278,6 @@ Scallop fishing had been banned in the New England waters since 1994 on account 
 
 ## UK culture minister quits X over ‘abuse and misinformation’
 UK Department of Culture, Media and Sport will also stop using social media platform.
-
-## Violent clashes as Albania’s anti-government protests continue
-Violent clashes as Albania’s anti-government protests continue
-
-## Trump administration renews pressure on International Criminal Court
-The US says it will reject any effort by court to assert authority over citizens, days after judges sue over sanctions.
-
-## Supermarket chaos for air conditioner sale in France amid heatwave
-Supermarket chaos erupted in France as shoppers raced to buy Lidl's discounted air conditioners and fans
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
