@@ -1,25 +1,31 @@
 # AION Intelligence
 
-## Morgan McSweeney: ‘I felt guilty about what I’d done to Keir’
-The former chief adviser to Keir Starmer forced out of his job over the Mandelson scandal talks for the first time about what went wrong
-
-## Record-breaking ticket sales for British Museum’s Bayeux Tapestry show
-More than £2.5mn raised in first allocation of tickets as hundreds of thousands of people queue online for hours
-
-## Spain immigration amnesty draws 1.2mn applicants
-More than twice the expected number of unauthorised immigrants applied for legal status, mostly from Latin America
-
-## Ask Gideon Rachman a question — Has the Iran war changed the world order?
-Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
-
-## US unemployment ticks down in June, supporting hawkish Fed pivot
-While job growth figures underwhelmed, the overall picture of the US labour market remains robust
-
-## Russia unleashes huge bombardment on Kyiv
-Attack with 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow was preparing ‘massive strike’
-
 ## US economy undershoots forecasts with 57,000 jobs added in June
 Hiring slows after 3-month streak of overperformance
+
+## Modi and Takaichi meet in the shadow of Chinese pressure
+Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
+
+## The faltering engine of Germany’s auto industry
+VW is a test of the country’s ability to adapt
+
+## Pubs to stay open until 5am for England’s World Cup match
+Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
+
+## The chip rally is tightening tech’s grip on Wall Street
+AI spending frenzy has powered a semiconductor surge
+
+## Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
+Investors and analysts say customers’ fear of Trump’s deportation campaign weakened the private equity-owned chain
+
+## Teenage rapists given stricter sentence after public outcry
+Boys handed a four-year detention sentence after attorney-general’s referral to the Court of Appeal
+
+## Vatican schism puts Maga Catholics under pressure
+Pope Leo excommunicates ultra-conservative bishops whose views resonate with parts of the US right
+
+## FCA criticises investment firms for unintelligible disclosure documents
+UK financial watchdog also bans ‘double-dipping’ as it pushes to improve treatment of customers
 
 ## Tesla deliveries climb 25% as fuel price surge boosts Europe demand
 Strong second-quarter sales in Europe and China help offset weak US figures hit by end of EV tax credits
@@ -42,32 +48,29 @@ Metrics for dangerous success and dangerous failure should be interpreted differ
 ## US energy regulator sets ultimatum for data centres
 Last month FERC gave grid operators 60 days to justify or revise how they connect ‘large loads’ — or the regulator will make the decision for them
 
-## FirstFT: OpenAI proposes US government stake
-Also in today’s newsletter: Asia’s biggest IPO this year, and Google loses appeal against record €4bn EU competition fine
+## India’s coffee exports volumes rise 28% in Q1, value up 12% on higher demand
+Outlook positive for rest of the year with slowing shipments from Vietnam, Brazil, says trade
 
-## Bank of Baroda reports 15% increase in global business
-Domestic deposits up 14.74%, advances rise 16.14% with strong retail growth
+## SC scraps NCLT, NCLAT rulings over AI-generated fake precedents
+Court flags AI risks in judiciary, orders Bar Council to frame rules
 
-## India’s rupee denominated external debt up 10 percentage points over the last 15 years
-This evolving debt profile underscores both the challenges and changing dynamics of India’s financial landscape as it navigates a complex global economic environment.
+## Nearly 8 lakh GST registrations in 6 months, UP leads the way
+One important reason for rise in registrations is easier process announced last September by the GST Council.
 
-## Ninjacart raises $6 million from existing investors
-Says it has turned EBITDA-profitable; eyes public listing in two years
+## South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted
+Overcapacity fears in chip sector prompt sharp falls in KOSPI and TSMC
 
-## Arihant Foundations acquires prime land in Chennai’s Anna Salai
-To develop a boutique Grade A commercial office project on the site, with an estimated Gross Development Value of ₹300 crore
+## STL raises INR 1500 Cr through Qualified Institutions Placement
+STL raises INR 1500 Cr through Qualified Institutions Placement
 
-## ‘Usernames’ of public figures restricted only to their legitimate account: WhatsApp in FAQs
-Government sends similar notice to Telegram and Signal too
+## Oil Minister rules out cut in petrol, diesel prices until global crude stays low for a few weeks
+The Minister highlighted that the government has shielded the consumer from full impact of the volatility in prices of crude oil, LNG and LPG
 
-## BatX Energies bags ₹105 cr Series A for Battery Recycling
-Newly raised capital to be used to expand battery recycling capacity and develop domestic critical minerals supply chain
+## Updated scale-based regulations for NBFCs: Tata Sons may be required to list
+No material change in RBI’s NBFC norms; revised directions merely clarify ‘public funds’ definition
 
-## Aster DM Quality Care commences operations following corporate merger
-Company plans to decentralize advanced care by adding specialist services, updating technology, and establishing regional medical centers to bring healthcare closer to patients
-
-## India, Japan to collaborate for strategic storage, maritime transport
-The focus will be on cooperation on information-sharing on market trends and joint efforts for market stabilisation
+## BoB to pay $600 m in out-of-court settlement with UAE-based NMC Health
+This is to avoid prolonged litigation, uncertainty and associated costs
 
 ## US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat
 Wall Street saw a mixed trading session as a weaker-than-expected US jobs report fueled hopes the Federal Reserve might pause interest rate hikes. The Dow and S&P 500 edged up, while the Nasdaq dipped. Investors are now betting on an 80% chance of the Fed holding rates steady, influenced by easing i
@@ -93,7 +96,22 @@ India and Japan elevated their trade and strategic ties with a new Memorandum of
 ## Who should file ITR & is income tax return filing mandatory for salaried taxpayers?
 The important thing to understand is that ITR filing is a statutory requirement and an important financial record-keeping. For the financial year 2025-26, the basic exemption limit for individuals below 60 years of age is Rs 2.5 lakh under the old income tax regime and Rs 4 lakh under the new income
 
-## 'Shows BJP's doubled standards': Congress questions PM Modi's ‘silence’ over Ayodhya Ram Temple donation row
+## India, Japan deepen defence, AI, energy ties; finalise economic roadmap
+Japanese PM Sanae Takaichi , on her first visit to India since becoming PM, arrived with a high-powered business delegation and joined Modi for the 16th annual India-Japan Summit.
+
+## Modi, Japan PM condemn Pakistan-backed terror, call for action against LeT, JeM
+PM Modi and Japan's Takaichi condemned last year's Pahalgam terror attack and Red Fort blasts that jolted the country.
+
+## Centre revises CBSE chief’s appointment, assigns additional charge
+A month after appointing Lokhande Prashant Sitaram as CBSE chairperson, the Centre revised the order, giving him only additional charge of the post.
+
+## Ahmedabad JCP shoots history-sheeter in self-defence after knife attack
+A history-sheeter in Ahmedabad was shot in the leg by police after attacking officers with a knife during questioning; he has over 30 criminal cases.
+
+## Odisha lands largest-ever FDI as Adani-IHC JV signs ₹1 lakh cr aluminium project
+Odisha signs an $11.5 billion MoU with Adani Group and IHC for an integrated aluminium project, boosting jobs and industrialization in the state.
+
+## 'Shows BJP's double standards': Congress questions PM Modi's ‘silence’ over Ayodhya Ram Temple donation row
 Congress's KC Venugopal said PM Modi's silence on the Ram Temple donation scam exposes the BJP's double standards and moral failure
 
 ## All 500 police stations in Bengal get cyber, women help desks
@@ -102,43 +120,28 @@ West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 pol
 ## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
 Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
-## Daycare abuse case: Bengaluru police to inspect all daycare centres for compliance
-In a statement, Capgemini said as a precautionary measure, they are temporarily closing the Bengaluru on-campus daycare facility.
-
-## Vikram-1, India’s first private orbital rocket to launch this month
-Skyroot Aerospace announced that Vikram-1 Test Flight-1: Mission Aagaman is fully stacked at India’s historic First Launch Pad (FLP) at the Satish Dhawan Space Centre, Sriharikota.
-
-## UP shocker: Man attacks wife with axe, dies by suicide moments later; woman survives
-The deceased has been identified as Govind Dubey, 50, who attacked his wife, Aarti, 46, in a fit of rage during an argument over a domestic issue.
-
-## Will petrol, diesel prices go down soon? Govt answers big question amid easing crude oil prices
-On whether there would be a reduction in fuel prices, minister Hardeep Singh Puri said this would be a "legitimate question".
-
-## Heavy rain, landslides put Uttarakhand authorities on high alert, pilgrimage routes affected
-Heavy monsoon rain triggered landslides in Uttarakhand, disrupting the Badrinath and Kedarnath yatras and prompting a high alert across districts.
-
-## Spain vs Austria FIFA World Cup 2026 Match LIVE Updates: ESP face off with AUT with RO16 spot on the line
+## NIA records statement of 6 over Mumbai Press Club meet cited in Elgaar bail plea
 
 
-## New name, double the cash: Say hello to the Bukhman International Booker Prize
+## Priyanka Chopra on gender roles: ‘Cleaning and cooking aren’t women’s work’; an expert weighs in
 
 
-## Court orders Surat Muncipal Corporation to rebuild homes after ‘unauthorised demolition’
+## PMC to widen Yerawada road from Bindumadhav Thackeray Chowk to Ambedkar Chowk
 
 
-## CM Fadnavis stays Maharashtra RTI Rules, 2026
+## After WhatsApp, IT Ministry sends notice to Telegram, Signal over username feature
 
 
-## Mumbai’s hidden death traps: Inside the city’s open manhole menace
+## ‘Rain, lack of awareness’: BLOs flag difficulty in completion of SIR forms in time
 
 
-## ‘No danger’: Jasmin Bhasin reveals she’s recovering at home after discharge from hospital
+## Taylor Swift and Travis Kelce’s wedding: Leaked NYPD memo reveals key details
 
 
-## 4 sacrilege FIRs so far under Satkar Act, will continue to probe as ‘law still stands’, says Punjab ADGP
+## Revenge wears a crown: Aditya Rawal’s The Queen brings a Forgotten monarch’s fury to life
 
 
-## Richa Chadha slams trolls for attacking Dia Mirza over son’s plastic remarks
+## ‘Rains and you’: Vicky Kaushal shares dreamy monochrome photo with Katrina Kaif
 
 
 ## China AI drug-design deals swell as US scrutiny mounts
@@ -165,6 +168,15 @@ The operator of budget online marketplaces Temu and Pinduoduo is ramping up its 
 ## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
 China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
 
+## A Short Economic History of the United States
+From a slave economy to a global empire in 250 years.
+
+## America, the Once Global Nation
+At 250, the country is struggling to come to terms with the world it created.
+
+## The MOU Is Paying Off Early for Iran
+Washington and Tehran are grappling over a “memorandum of misunderstanding.”
+
 ## The U.S. at 250: Terminally Ill or Just Very Sick?
 Experts question whether one of the world’s oldest democracies can survive.
 
@@ -179,15 +191,6 @@ Ukraine’s new offensive on the territory has military stakes far beyond paybac
 
 ## The Political Aftershocks of Venezuela’s Earthquakes
 The disasters exposed Delcy Rodríguez’s weak grasp on power.
-
-## USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.
-The White House hopes that annual reviews will curb the United States’ trade deficit with Mexico and Canada.
-
-## Bangladesh Sends Signal With China Visit
-The two countries announce a “new era” in ties during Prime Minister Tarique Rahman’s trip.
-
-## What to Know About Ethiopia’s Debt Breakthrough
-Addis Ababa’s debt relief process has highlighted divisions in the global financial system.
 
 ## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
 Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## What is the Society of St Pius X? Why Pope Leo excommunicated its bishops
-The Vatican declares 'schism' in Catholic Church after bishops were ordained without Pope Leo XIV's approval.
+## How the North American heatwave could impact the FIFA World Cup
+Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?
 
-## Spain vs Austria LIVE: FIFA World Cup 2026
-Live coverage and text updates as Spain play Austria in Los Angeles in the Round of 32 knockout stage.
+## Deadly blast at Damascus cafe leaves 6 dead, 22 injured
+At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.
 
-## Into the Darkness
-Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.
+## Rally for Luxembourg teacher fired over pro-Gaza posts
+Students and supporters of a Luxembourg teacher fired over social media posts held a demonstration for her this week.
 
-## US job growth slows in June; hospitality sheds roles despite World Cup
-Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.
+## Amid the World Cup, the new pan-Africanism is conditional
+A record number of African nations are at the 2026 World Cup, but the continent no longer backs them all.
 
-## UK’s Starmer apologises for the state’s role in decades of forced adoptions
-UK government and Christian churches oversaw system that separated 185,000 babies from their mothers from 1949 to 1976.
+## How US-Iran war may push Gulf countries to ‘diversify’ security alliances
+Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.
 
-## Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?
-Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.
+## What’s behind the deadly bombing of a crowded Damascus cafe?
+The blast near Damascus's main courthouse killed five and wounded 16 as Syria's new state battles to enforce security.
 
-## Man City sign Elliot Anderson from Forest in record British transfer
-Anderson will become the most expensive British player in history when the transfer is finalised with Nottingham Forest.
+## US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip
+Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.
 
-## With Hormuz reopened, has the oil shortage turned into a glut?
-As flow resumes through the strait, an oil surplus may yet again destabilise global energy markets.
+## German prosecutors allege Ukraine ordered Nord Stream pipeline attack
+Former Ukrainian soldier accused of 'war crime' and leading a team of divers to blow up Nord Stream pipelines.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
