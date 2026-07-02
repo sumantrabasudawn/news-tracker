@@ -1,61 +1,79 @@
 # AION Intelligence
 
+## Trump blocks long-term renewal of North America trade pact
+Washington will hold annual reviews on terms of commerce with its biggest trading partners
+
+## What Hammersmith Bridge could teach Burnham
+Devolved authorities do not face right or wrong choices, only trade-offs
+
+## Russian drone campaign mapped Nato air defence gaps, study finds
+Nearly 150 UAV incursions into more than a dozen European countries were made over 19 months, IISS report says
+
+## UK’s next census at risk if ONS fails to boost survey response rates
+Solving institutional crisis at the statistics agency will be ‘neither quick nor entirely linear’ says top official
+
+## Russia unleashes huge bombardment of Kyiv
+Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’
+
+## Google loses appeal against record €4.1bn EU fine over Android
+European Court of Justice decision marks a significant win for Brussels’ crackdown on Big Tech
+
 ## Woah-oh, we’re halfway there
 A strong first half (until the last bit)
 
-## Chinese energy stock triples in Asia’s biggest IPO this year
+## Chinese energy group’s shares triple in Asia’s biggest IPO this year
 China Resources New Energy raises $3.6bn amid heavy demand from retail investors
 
-## Pay more for defence to get goodies from Trump, US tells Nato allies
-Also in this newsletter: Montenegro can get a share of the EU’s next seven-year budget
+## Forvis Mazars and partner fined £600,000 by regulator
+Group lambasted by FRC for ‘numerous, serious and pervasive failings’ in Studio Retail audit
 
-## What are the rules on insider betting, really?
-It’s more interesting than you might think
+## PwC picks Canary Wharf for new London office
+Accountancy firm is taking additional office space as it considers where to base its main London headquarters
 
-## FirstFT: OpenAI proposes US government stake
-Also in today’s newsletter: Tank maker’s postponed IPO and Burnham’s finance boost
+## AI’s big questions for humanity and Japan’s start-up mojo
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## OpenAI proposes handing Trump administration 5% stake
-Sam Altman’s start-up in early talks for a public ownership deal as political pressure rises
+## Quantum Systems weighs merger with kamikaze drone start-up Stark
+German maker of unmanned surveillance aircraft says $1.2bn fundraising removed shareholder opposition to developing lethal weapons
 
-## Andy Burnham’s team looks to revamp UK’s AI strategy
-Focus is expected to shift to making technology work for local communities rather than US companies
+## Sensex today | Stock Market Live updates: Sensex climbs 430 pts, Nifty above 24,130; Nifty IT up 4.5% after 4-day losing streak
+Sensex, Nifty, Share Prices LIVE: At 2.23 pm, Sensex traded 472 points (+0.61%) higher at 77,394, and Nifty 50 increased by 146 points (0.61%) to 24,152.
 
-## HMRC’s clampdown on the corporate structure that saves City firms millions
-UK tax authority has won a series of legal cases involving limited liability partnerships
+## India’s LPG consumption declined 8% in H1 2026 as West Asia conflict upended supply
+The decline in consumption was entirely due to lower availability, the Petroleum Planning and Analysis Cell said
 
-## Chanel acquires luxury Parisian shirtmaker Charvet
-Deal for revered brand follows earlier collaboration with Chanel creative director Matthieu Blazy
+## IT surge powers Nifty past 24,100; crude below $68 lifts sentiment
+IT giants led the Nifty, with Infosys rising 5.61% to ₹1,040.60 on over 1.15 crore shares worth ₹1,194.96 crores
 
-## Bank of England to push ahead with plan to limit hedge fund leverage
-Move to make gilt market more resilient has been criticised for potentially raising funding costs
+## Adar Poonawalla Family Office invests ₹700 cr in Inox Clean Energy
+The investment values the INOXGFL Group’s renewable energy platform at ₹70,000 crore and will support expansion in renewable power and solar manufacturing.
 
-## Bending Spoons takes private equity public
-The Italian tech group behind AOL is a good analogue for PE-backed software and tech roll-ups
+## Indian box office collections surged 21% in H1: Multiplex Association
+The improved collections have been attributed to higher footfalls across metros and even smaller centres, besides an increase in ticket prices
 
-## Sensex today | Stock Market Live updates: Sensex gains 300 pts, Nifty holds 24,000; Infy up 5%, HCL Tech, TCS lead gains
-Sensex, Nifty, Share Prices LIVE: At 10:02, Sensex gained 376.69 points (+0.49%) to 77,299.33, Nifty jumped to 24,119.05, up 113.20 points (0.47%)
+## Gold price drops ₹166 to ₹1,44,264/10g in futures trade
+Analysts attribute decline in precious metal prices to weak spot demand
 
-## Zinc futures can drop
-Traders can go short on July contract
+## Google loses fight against record €4.1 billion EU antitrust fine
+In 2018, the European Commission fined Google €4.34 billion for forcing phone manufacturers to pre-install its services on Android devices and restricting the use of rival systems
 
-## BPCL signs definitive agreements to fully acquire Brazil-based oil and gas firm
-BPCL’s acquisition includes Videocon Energy Brazil Limited’s entire stake in IBV Brazil Petroleo Limitada, occurring under VOVL Ltd’s Corporate Insolvency Resolution Process
+## Silver futures rise to ₹2.31 lakh per kg
+On the Multi Commodity Exchange, silver for September delivery rose by ₹1,219, or 0.53%, to ₹2,31,603 per kg with a turnover of 1,325 lots
 
-## Hero, Ather and Greaves drive 58% of India’s incremental electric two-wheeler sales in H1 CY26
-Hero MotoCorp, Ather Energy, Greaves Electric Mobility, River and BGauss together accounted for 190,054 of the 325,286 additional electric 2-wheelers registered during H1 CY26, signalling the emergence of a middle layer even as TVS Motor and Bajaj Auto consolidated their leadership
+## India-Japan trade: PM Modi, 'younger sister' Takaichi sign MoC including $10 billion investment, AI boost
+India and Japan elevated their trade and strategic ties with a new Memorandum of Cooperation signed during the 16th Annual Summit in New Delhi. Prime Minister Modi welcomed his Japanese counterpart, highlighting shared priorities for a free and prosperous Indo-Pacific. The leaders discussed initiati
 
-## J&K Bank hits ₹3 lakh crore business mark on 16% deposit growth
-The Bank’s total business reached ₹3.04 trillion, growing over 20% year-on-year, supported by a 16% increase in deposits and a 25% rise in gross advances
+## Who should file ITR & is income tax return filing mandatory for salaried taxpayers?
+The important thing to understand is that ITR filing is a statutory requirement and an important financial record-keeping. For the financial year 2025-26, the basic exemption limit for individuals below 60 years of age is Rs 2.5 lakh under the old income tax regime and Rs 4 lakh under the new income
 
-## Sri Lanka upgraded to upper-middle income economy by World Bank
-Reclassification comes just three years after Sri Lanka faced its worst economic crisis
+## India's EV boom could save Rs 1 lakh crore in oil imports by 2030: SBI
+India stands to save a staggering Rs 1 lakh crore by 2030 if electric vehicles capture 20% of the market, a recent SBI report reveals. The surge in EV adoption, accelerated by geopolitical events, saw registrations jump significantly. However, the report emphasizes the urgent need to expand charging
 
-## CSM Technologies lists flat at ₹113, slips 5% to lower circuit after debut
-CSM Technologies’ ₹145.78-crore IPO received bids for 1,51,27,068 shares against 1,11,30,880 shares on offer, translating into an overall subscription of 1.36 times
+## OpenAI weighs giving Trump administration 5% stake amid US scrutiny of AI firms: Report
+OpenAI reportedly explored offering the Trump administration a 5% stake, a move aimed at fostering government ties and addressing public profit-sharing concerns amid rising AI scrutiny. Discussions, involving Sam Altman and Trump officials, are conceptual, potentially requiring congressional approva
 
-## "Excited to be visiting India!": Japan thanks India for warm reception upon PM Takaichi's arrival
-PM Modi welcomed Sanae Takaichi to India, expressing delight at hosting her first visit and anticipating discussions to strengthen the India-Japan partnership
+## New EPF Scheme 2026: What it means for your provident fund savings
+India’s provident fund framework has now entered a new phase with the notification of the Employees’ Provident Funds Scheme, 2026 (EPF Scheme, 2026) under the Code on Social Security, 2020.
 
 ## Stock Market Live Updates Today: BSE Sensex opens over 250 points up, Nifty50 above 24,050; crude oil prices continue to drop
 
@@ -66,68 +84,59 @@ Top stock market recommendations: REC, Oberoi Realty, and Home First Finance Com
 ## Unable to withdraw PF or file claims? EPFO services unavailable for 7 days
 Employees' Provident Fund Organisation (EPFO) services remain unavailable beyond the scheduled July 1 deadline due to a planned database consolidation and software upgrade. This outage, affecting member and employer portals, prevents access to crucial functions like claim submission and e-passbook. 
 
-## UPI volumes up 1.2%, rise to 76 crore
-Digital payment volumes saw a slight dip in June, with UPI transactions falling 2.1% month-on-month. Despite this, daily UPI activity remained robust, and year-on-year growth continues to impress. Other payment systems like FASTag and IMPS also experienced sequential declines, though yearly figures 
+## Protesters torch vehicle in Imphal East as tensions escalate in Manipur
+Protesters torched telecom vehicle in Manipur’s Imphal East, amid rising Naga-Kuki tensions, highway blockades and renewed demands for peace
 
-## Car sales in June signal strong demand recovery
-India's passenger vehicle sector kicked off FY27 with robust June sales, fueled by strong demand for SUVs and EVs. Tata Motors saw a remarkable 69% surge, driven by popular models and record EV figures. Maruti Suzuki maintained its lead with a 19.3% increase, while Mahindra & Mahindra also reported 
+## Tourist dies as Scorpio plunges off road, crashes on under-construction bridge near Himachal's Atal Tunnel | Video
+The tourists were travelling from Manali to Lahaul on Tuesday night when the incident took place.
 
-## FPIs' $5bn bond purchase offsets steady equity sales
-Foreign investors returned as net buyers in June, injecting $531 million into Indian markets after a period of outflows. This positive shift was driven by substantial inflows into sovereign debt, totaling $5.8 billion, which more than compensated for continued equity selling. The debt market's stron
+## Delhi HC sets aside conviction of former major general in asset case
+The court observed that the sanctioning authority had not been provided with complete investigative record and had instead considered only such material as the IO had chosen to place before it
 
-## PE-VC deal value dips 5% in H1 CY2026
-Private equity and venture capital investments saw a slight dip of 5% year-on-year in the first half of 2026, reaching $17.5 billion. Despite global uncertainties, investors deployed substantial capital, particularly in data centers and NBFCs. Late-stage companies attracted the largest share of fund
+## Akhilesh Yadav condemns alleged attack on Mahua Moitra, accuses BJP of ‘fostering political violence’
+Mahua Moitra allegedly faced protests by BJP workers, who hurled eggs at her during a visit to the Nadia district in West Bengal.
 
-## Hero Moto to invest 3,200 crore in Andhra Pradesh
-Hero MotoCorp is injecting Rs 3,200 crore into Andhra Pradesh over the next three to five years. This significant investment will bolster manufacturing, enhance its global supply chain, and expand into new business areas. A key part includes a new Global Parts Centre at Tirupati, alongside a doublin
+## CM Vijay's government in danger? What we know about the TVK-DMK 'horse-trading' row
+The controversy erupted after a TVK MLA alleged he was offered ₹35 crore to vote in a particular manner in the Assembly.
 
-## Amid UBT crisis, independent MLC Kiran Sarnaik joins Eknath Shinde's Shiv Sena
-Sarnaik, an MLC from the Amravati Teachers constituency, joined the Sena late Wednesday night.
+## Off the rails and back again: The story of Kolkata's trams that BJP's Bengal govt wants to revive
+From a failed 1873 horse-tram line to a 150th birthday and a near shutdown, Kolkata's trams have a long history of being written off, and saved.
 
-## Chips over subs: Why Sanae Takaichi's India visit is about economics first
-The big focus of the visit is going to ramp up economic ties to a new level with Tokyo raising the level of investment into India.
+## 'India only country to match China's scale in...': US senator's remarks over trust and innovation
+The Republican senator from Montana said he leaves his phone behind when travelling to China but carries it with him when visiting India.
 
-## Sonam Raghuvanshi: Meghalaya moves SC to stay bail of honeymoon-murder accused
-The appeal comes days after the Meghalaya high court upheld an order of a Shillong trial court granting bail to Sonam.
+## ‘A terrorist, is a terrorist’: India calls for collective action to root out ‘murderous ideology’
+India said counter-terrorism should not be hollowed out by false equivalences or politicised narratives.
 
-## Privacy for better, worse, or both? Why WhatsApp username feature worries the government & how the concerns hold up
-WhatsApp’s username feature promises a way to message someone without handing over a phone number — a genuine privacy upgrade.
-
-## Monsoon arrives in Delhi, flooded roads in Mumbai, Rudraprayag under water as rain fury hits India
-Monsoon in India: The India Meteorological Department has issued multiple weather alerts, warning of more rain in several states over the coming days.
-
-## Sikkim: Eurasian Lynx captured on cam for 1st time; 2nd record in eastern Himalayas
-The only previous documented record of the species in the eastern Himalayas came last year with the first-ever photographic record from Arunachal Pradesh
-
-## Odisha files 8 FIRs over illegal recruitment after Tamil Nadu gas leak deaths
-The FIRs mark the first coordinated criminal action initiated in Odisha against the seafood processing company following the industrial disaster.
-
-## Alert systems to be activated as water level nears warning mark amid heavy rain in Uttarakhand's Rudraprayag
-The continuous rainfall in Rudraprayag is impacting the water levels of the rivers. The water level in both Alaknanda and Mandakini rivers has risen.
-
-## Shakira on juggling work and kids: ‘That’s why I don’t have a boyfriend’
+## ‘Isn’t this injustice?’: CBSE students slam Karnataka exam body in KCET rank row
 
 
-## Vijay’s Jana Nayagan eyes late July release, CBFC revisions underway
+## As heavy rain lashes Mumbai, Colaba radar defunct for 2 weeks
 
 
-## ‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan
+## Clean-up staged with AI, fake attendance: Why two Gurgaon civic officials lost jobs
 
 
-## ‘Illegal tree felling’: Tribunal impleads Solan civic body commissioner, landowners
+## The Odyssey in Michael Caine’s AI voice? Why I’d choose a voice artist any day
 
 
-## Why India has asked WhatsApp to halt its username feature rollout
+## EC announces 3 Assembly by-polls, including Nitin Nabin’s seat
 
 
-## Top 10 Self-Made Women Entrepreneurs in India: Radha Vembu tops list, Kiran Mazumdar-Shaw at second spot
+## Creator claims Ramayana makers shared ‘nerfed’ Lord Ram glimpse for publicity
 
 
-## Spot the difference: You have 30 seconds to find 5 changes in this kitchen
+## High court stays order withdrawing 52 criminal cases against Kannada groups, activists
 
 
-## NEET-PG 2026 to be held on August 30; NBEMS opens registration at natboard.edu.in
+## Court upholds order denying promotion to CRPF inspectors over tattoo on saluting arm
 
+
+## Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration
+A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse. More than 430 companies were currently waiting in the initial p
+
+## New technologies power China’s Tesla challengers to monthly sales records
+Chinese Tesla challengers Leapmotor and Zeekr, banking on their latest battery and self-driving technologies, bucked a downward trend in domestic electric vehicle sales with record deliveries last month, ratcheting up pressure on the US carmaker amid weak consumer sentiment towards big-ticket items.
 
 ## China’s AI-defined vehicles make smart motoring human-centred
 How does an electric vehicle (EV) stand out in China’s ultra-competitive market when batteries, behaviours and functions are so similar? Through its intelligence: how well is this robot on wheels going to get to know you, adapt to your habits and moods and anticipate your needs? Welcome to the era o
@@ -146,12 +155,6 @@ Hong Kong stocks have trailed other major global markets in the first half of th
 
 ## Rare momentum: Hong Kong universities, schools prop up commercial property market
 Hong Kong’s educational institutions are forecast to ramp up their investment and leasing in the commercial property segment, with leading universities and international schools among those paying top dollar to acquire or lease office and retail spaces, according to Colliers. In the first five month
-
-## Will Budweiser Brewing’s China sales improve on back of AB InBev’s World Cup sponsorship?
-Subdued demand in China is likely to have weighed on Budweiser Brewing APAC’s second-quarter sales, according to analysts, but the ongoing Fifa World Cup might provide a brighter start to the third quarter. Citing information from investor relations personnel at Belgian beer giant Anheuser-Busch InB
-
-## ‘Upside potential’: World Gold Council counts on Asian buyers to curb price plunge
-Asian markets are a growing force in gold price discovery as the metal remains sensitive to heightened geopolitical concerns and abrupt shifts in investor sentiment, according to the World Gold Council. Asian trading hours have been a key driver at gold price rebounds during the first half of the ye
 
 ## The Political Aftershocks of Venezuela’s Earthquakes
 The disasters exposed Delcy Rodríguez’s weak grasp on power.
@@ -177,6 +180,15 @@ The fallout from the Iran conflict and the approaching U.S. midterms may change 
 ## How to Spin an Empire
 U.S. imperialism as inspiration and foil.
 
+## Mr. Prabowo Versus the Market
+The Indonesian state has a long history of inserting itself into the economy in ways that have made investors uneasy.
+
+## A Rare Case of Matricide Shocked Indonesia — and Now the Verdict Is In
+AL, the perpetrator of the crime, was just 12 years of age at the time of her mother’s murder.
+
+## Myanmar Denies ASEAN Chair’s Request for Meeting With Aung San Suu Kyi
+In late May, the military announced that it had transferred the 81-year-old former leader from prison to house arrest.
+
 ## Koizumi’s First Trip to Seoul: A Sign of Cautious Japan-South Korea Reconciliation
 While the latest Japan-South Korea defense ministers’ meeting shows an obvious trajectory of rapprochement between the two neighbors, it also exposes certain boundaries in their defense cooperation.
 
@@ -192,14 +204,8 @@ Restarting the bilateral dialogue after a four-year freeze is a bid to loosen Ch
 ## BrahMos Advances West: The UAE, Russia, and the Next Phase of India’s Defense Export
 The BrahMos has more potential buyers than ever, but India's defense export ecosystem is still a work in progress.
 
-## What the SpaceX IPO Tells Us About China-US Competition
-Insights from Winston Ma.
-
-## South Korea Gets a New PM as Ruling Party Leadership Race Heats up
-The outgoing premier is expected to seek the ruling Democratic Party’s chairship amid mounting friction between the presidential office and the DP.
-
-## Is Japan a Model Middle Power?
-Japan has earned rising acclaim from U.S. observers as a middle power that complements, rather than threatens, the United States. Yet Japan is not deepening its ties with Washington out of charity.
+## The Blind Spots in Chinese Military Studies
+During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
 
 ## From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence
 Editor’s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the graphi
@@ -221,9 +227,6 @@ The Kurds’ fortunes have ebbed and flowed in recent years, but the fall of the
 
 ## Mapping America’s Domestic Drone Supply Chain
 The extent of China’s drone dominance — and how to decouple from it — has long been a source of debate and anxiety in Washington. Last month, the Wall Street Journal reignited controversy by publishing a visual analysis of military quadcopter components, exploring China’s advantages in parts manufac
-
-## Lost in Translation: How A Premier Chinese Think Tank Views U.S.-Chinese Competition
-On May 13, 2026, Air Force One landed in Beijing for President Donald Trump’s first state visit to China in nearly a decade. That same morning, the China Institutes of Contemporary International Relations published a report titled The Evolving World and the Right Way to China-US Coexistence. The sum
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says
-De ​facto US ambassador Raymond Greene says drones represent a 'game-changing opportunity' to enhance Taiwan's security.
+## Alibaba to pay $600m to settle illegal drug sales allegations in US probe
+E-commerce giant admitted it failed to ⁠prevent 80,000 illegal drug product sales, according to US Justice Department.
 
-## Belgium fans erupt after latest-ever goal seals place in last 16
-Belgium fans celebrate a dramatic 3-2 victory over Senegal in extra time.
+## Two reported killed, dozens hurt in hospital fire in Germany
+At least 34 injured after fire at the only hospital in the town of Ludwigslust; probe into the blaze is ongoing.
 
-## Oil prices fall to levels not seen since start of US-Israel war on Iran
-Brent falls below $71 a barrel amid reports of progress in talks to end the war.
+## Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
+US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.
 
-## Survivors look to foreign aid after the earthquakes in Venezuela
-Al Jazeera’s Teresa Bo reports from a golf course turned relief centre in Venezuela.
+## ‘The crisis is deep’: The view from Russia as fuel shortages worsen
+Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.
 
-## California gets Bruce Lee Day in a first for US state’s Chinese Americans
-Bruce Lee Day aims to honour the San Francisco-born martial arts legend as a cultural bridge and Asian-American icon.
+## In Pictures: Hunger, despair as Venezuela quake death toll rises
+Venezuelan rescuers fight to save lives as survivors face hunger and chaos after devastating twin earthquakes.
 
-## US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation
-Ecuador's government praises the US for backing President Noboa's campaign to dismantle gang-crime networks.
+## Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news
+Spain take on Austria in Los Angeles, with the winner facing either Portugal or Croatia in the last 16.
 
-## German prosecutors charge Ukrainian suspect over Nord Stream explosions
-Prosecutors allege a yacht was used in the sabotage of pipelines, with the suspect leading the operation.
+## More than 900 arrested during South Africa’s antimigrant protests
+Wave of arrests made across South Africa as xenophobic tensions erupt into nationwide marches.
 
-## Lawyer takes Trump to task over unchecked presidential powers
-Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.
+## Maradona to Messi: Why Bangladesh loves Argentina’s footballers
+Diego Maradona turned a nation 17,000km from Argentina into die-hard fans. Lionel Messi has enthralled a new generation.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
