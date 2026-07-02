@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Burnham insists he will be disciplined with UK public finances
+Prime minister in waiting says he will stick by Labour’s manifesto promises on tax
+
+## Russia unleashes huge bombardment on Kyiv
+Attack with 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow was preparing ‘massive strike’
+
+## Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall
+Private equity group targets valuation of up to $12bn for purveyor of cheesesteaks and cold-cut heroes
+
+## UK’s culture secretary and department quit X citing concerns over democracy
+Move by Lisa Nandy marks first exit of a major cabinet department from the platform
+
 ## US economy undershoots forecasts with 57,000 jobs added in June
 Hiring slows after 3-month streak of overperformance
 
@@ -12,17 +24,14 @@ VW is a test of the country’s ability to adapt
 ## Pubs to stay open until 5am for England’s World Cup match
 Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
 
+## Healthcare group owned by Ardian has its bank accounts seized
+Creditors told of investigation into Santé Cie and subsidiaries over dealings with healthcare professionals
+
 ## The chip rally is tightening tech’s grip on Wall Street
 AI spending frenzy has powered a semiconductor surge
 
 ## Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
 Investors and analysts say customers’ fear of Trump’s deportation campaign weakened the private equity-owned chain
-
-## Teenage rapists given stricter sentence after public outcry
-Boys handed a four-year detention sentence after attorney-general’s referral to the Court of Appeal
-
-## Vatican schism puts Maga Catholics under pressure
-Pope Leo excommunicates ultra-conservative bishops whose views resonate with parts of the US right
 
 ## FCA criticises investment firms for unintelligible disclosure documents
 UK financial watchdog also bans ‘double-dipping’ as it pushes to improve treatment of customers
@@ -30,23 +39,11 @@ UK financial watchdog also bans ‘double-dipping’ as it pushes to improve tre
 ## Tesla deliveries climb 25% as fuel price surge boosts Europe demand
 Strong second-quarter sales in Europe and China help offset weak US figures hit by end of EV tax credits
 
-## Eliminate ‘personal pricing’ and you risk harming consumers
-Students, seniors and coupon savers could all lose out under plans to make prices fairer
+## Indian tech start-ups speed up public market debut
+The time to IPO has nearly halved, from initial funding to listing is now just 8 years
 
-## There will be no more games like Minecraft without maths
-Cuts to UK higher education courses are a danger to our tech industries
-
-## Blue Owl hit by $4.7bn of redemption requests as investor exodus persists
-Withdrawal requests at 20 private credit funds tracked by FT totalled more than $22bn in second quarter
-
-## UK car finance compensation delayed as tribunal pauses scheme
-FCA programme thrown into doubt by challenges from lenders and consumer group
-
-## How capable is AI? It depends what you’re worried about
-Metrics for dangerous success and dangerous failure should be interpreted differently
-
-## US energy regulator sets ultimatum for data centres
-Last month FERC gave grid operators 60 days to justify or revise how they connect ‘large loads’ — or the regulator will make the decision for them
+## Telangana cabinet clears first phase of Musi river rejuvenation project at ₹7,345 crore
+The State Cabinet has also decided to approach the Supreme Court to clear the legal objections to the project
 
 ## India’s coffee exports volumes rise 28% in Q1, value up 12% on higher demand
 Outlook positive for rest of the year with slowing shipments from Vietnam, Brazil, says trade
@@ -65,12 +62,6 @@ STL raises INR 1500 Cr through Qualified Institutions Placement
 
 ## Oil Minister rules out cut in petrol, diesel prices until global crude stays low for a few weeks
 The Minister highlighted that the government has shielded the consumer from full impact of the volatility in prices of crude oil, LNG and LPG
-
-## Updated scale-based regulations for NBFCs: Tata Sons may be required to list
-No material change in RBI’s NBFC norms; revised directions merely clarify ‘public funds’ definition
-
-## BoB to pay $600 m in out-of-court settlement with UAE-based NMC Health
-This is to avoid prolonged litigation, uncertainty and associated costs
 
 ## US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat
 Wall Street saw a mixed trading session as a weaker-than-expected US jobs report fueled hopes the Federal Reserve might pause interest rate hikes. The Dow and S&P 500 edged up, while the Nasdaq dipped. Investors are now betting on an 80% chance of the Fed holding rates steady, influenced by easing i
@@ -120,28 +111,28 @@ West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 pol
 ## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
 Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
-## NIA records statement of 6 over Mumbai Press Club meet cited in Elgaar bail plea
+## Court awards life-term to nine cops for custodial death
 
 
-## Priyanka Chopra on gender roles: ‘Cleaning and cooking aren’t women’s work’; an expert weighs in
+## Gujarat woman gets 10-year jail over acid attack on man over strained relationship
 
 
-## PMC to widen Yerawada road from Bindumadhav Thackeray Chowk to Ambedkar Chowk
+## Delhi Confidential: Past Connection
 
 
-## After WhatsApp, IT Ministry sends notice to Telegram, Signal over username feature
+## TMC leader flags MPs’ safety in letter to Speaker Om Birla after mob attacks Mahua Moitra in Nadia
 
 
-## ‘Rain, lack of awareness’: BLOs flag difficulty in completion of SIR forms in time
+## Empire State Building stunt: Couple identified as Netflix ‘Skywalkers’ stars
 
 
-## Taylor Swift and Travis Kelce’s wedding: Leaked NYPD memo reveals key details
+## Monsoon arrives in Delhi, rain likely next week
 
 
-## Revenge wears a crown: Aditya Rawal’s The Queen brings a Forgotten monarch’s fury to life
+## Punjab clears proposal to regularise illegal colonies, tweaks land pooling policy
 
 
-## ‘Rains and you’: Vicky Kaushal shares dreamy monochrome photo with Katrina Kaif
+## Manhole death: ‘His umbrella & slippers were lying nearby… still we couldn’t believe he had fallen in’
 
 
 ## China AI drug-design deals swell as US scrutiny mounts
@@ -168,6 +159,9 @@ The operator of budget online marketplaces Temu and Pinduoduo is ramping up its 
 ## China’s tax crackdown shakes A-share and Hong Kong-listed firms with major payouts
 China’s anti-tax evasion campaign is sweeping across the A-share and Hong Kong stock markets, with at least 80 listed firms already having been ordered to pay back corporate income taxes and late fees to local authorities. The number of listed companies involved in the first half of the year is like
 
+## Gen Z Goes to Hollywood
+Three summer movies reflect a generation’s sensibilities.
+
 ## A Short Economic History of the United States
 From a slave economy to a global empire in 250 years.
 
@@ -188,9 +182,6 @@ Rising human rights violations in Turkey should be called out.
 
 ## The Strategy Behind the Battle for Crimea
 Ukraine’s new offensive on the territory has military stakes far beyond payback.
-
-## The Political Aftershocks of Venezuela’s Earthquakes
-The disasters exposed Delcy Rodríguez’s weak grasp on power.
 
 ## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
 Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
@@ -264,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The last time Iran held a funeral for the Supreme Leader
+An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.
+
+## Fears of new massacre in Sudan’s el-Obeid: What do we know?
+As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.
+
+## UK’s likely next PM Andy Burnham faces defence funding gap
+Defence Secretary Dan Jarvis is facing questions over the funding gap and whether Burnham was blindsided.
+
+## ‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes
+Attention has turned to the humanitarian response after at least 2,295 people are confirmed dead, and 13,000 homeless.
+
 ## How the North American heatwave could impact the FIFA World Cup
 Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?
 
@@ -275,18 +278,6 @@ Students and supporters of a Luxembourg teacher fired over social media posts he
 
 ## Amid the World Cup, the new pan-Africanism is conditional
 A record number of African nations are at the 2026 World Cup, but the continent no longer backs them all.
-
-## How US-Iran war may push Gulf countries to ‘diversify’ security alliances
-Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.
-
-## What’s behind the deadly bombing of a crowded Damascus cafe?
-The blast near Damascus's main courthouse killed five and wounded 16 as Syria's new state battles to enforce security.
-
-## US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip
-Syrian Foreign Minister al-Shaibani met Hezbollah ally Berri during visit, as Trump calls for Syria to disarm group.
-
-## German prosecutors allege Ukraine ordered Nord Stream pipeline attack
-Former Ukrainian soldier accused of 'war crime' and leading a team of divers to blow up Nord Stream pipelines.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
