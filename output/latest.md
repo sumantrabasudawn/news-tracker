@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## White House accelerates plans for AI model standards
+Guidance to be announced as soon as next week after government intervention in Anthropic and OpenAI rollouts
+
 ## Trump made up to $1.4bn in stock purchases in 2025
 FT analysis shows US president declared more than 22,000 share transactions last year
 
@@ -21,17 +24,20 @@ Washington will instead hold annual reviews on terms of commerce with its bigges
 ## Supreme Court checks Trump, but empowers the presidency
 Despite losses on tariffs and birthright citizenship, the executive has emerged stronger
 
-## Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
-Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelter
+## Playrix billionaire to fund International Booker Prize
+Daria and Dmitri Bukhman, who founded gaming app, to back award for translated fiction
+
+## FirstFT: Megadeals drive record $2.8tn in M&A
+Also in today’s newsletter: the Chinese carmakers designing AI chips, and new Fed chair vows ‘no changes’ to US central bank independence
 
 ## AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut
 Italian tech group behind Vimeo and Evernote raises $1.68bn in one of Europe’s biggest technology IPOs this year
 
-## Millennium and Point72 gain as hedge funds rebound from Iran war
-Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
+## Sensex today | Stock Market Live: Stock to buy today: TBO Tek (₹1,509.70) – BUY
+Sensex, Nifty, Share Prices LIVE updates: TBO Tek share price can rise to ₹1,650
 
-## This is how we can make AI safe for everyone
-The labs develop the technology, but citizens and their elected representatives must make the rules
+## NBFC-MFIs AUM set to accelerate to 20% in FY27 from 4% in FY26: Crisil Ratings
+Secured loans to power NBFC-MFI growth as microfinance portfolio gradually recovers
 
 ## GST collection surges 14% in June
 Net collections up 11.2% even as refunds accelerate 29%; first quarter sees 8.4% growth in gross collections
@@ -50,12 +56,6 @@ Maruti, M&M post robust June growth; Hyundai domestic dispatches fall 10% on sup
 
 ## Zee Entertainment to raise up to ₹3,144 crore through warrant issue to promoter group entity
 Board also clears new ESOP 2026 scheme
-
-## Latent View Analytics notifies delay in Decision Point acquisition
-Disagreement over price stalls completion of 20% stake purchase
-
-## 6 lakh retail investors, LIC, MIT suffer as KPIT Tech stock nosedives 17%
-Analysts downgrade the stock post its revenue warning; Tech major expects Q1-FY27 USD revenues to decline 1% y-o-y on abrupt spending cuts by certain European automotive OEMs
 
 ## UPI volumes up 1.2%, rise to 76 crore
 Digital payment volumes saw a slight dip in June, with UPI transactions falling 2.1% month-on-month. Despite this, daily UPI activity remained robust, and year-on-year growth continues to impress. Other payment systems like FASTag and IMPS also experienced sequential declines, though yearly figures 
@@ -81,13 +81,22 @@ Indian IT firms are increasingly embracing debt for significant acquisitions, a 
 ## At 14%, GST collections in June grow fastest in 8 months
 GST collections surged by 13.9% to Rs 1.94 lakh crore, the fastest in eight months, driven by a significant jump in import taxes on commodities like crude and fertilizers. While domestic collections saw a modest 6.5% rise, imports contributed substantially. This indicates robust manufacturing and im
 
+## TVK, DMK accuse each other of horse trading after ₹35 crore cash for vote arrest
+State minister R Nirmal Kumar alleged that the three men were in touch with DMK leader V Senthil Balaji and were offering around ₹35 crore to each legislator.
+
+## Ayodhya donation case: Police seek custody of Avinash Shukla after ₹20.4 lakh recovery, SBI officials under scanner
+The developments came a day after Ashutosh Tewari, the Ayodhya circle officer and the investigating officer in the case, interrogated Shukla in Ayodhya jail.
+
+## Champat Rai 'may be guilty of negligence' in Ram Temple donation case, 'admits' VHP chief Alok Kumar
+The VHP is not responsible for the donation theft at the Ram Temple and it will wait to consider action on Champat Rai, Alok Kumar said in an interview with HT.
+
 ## SC ends 18-year land row, saves 16 Greater Noida homes from acquisition
 The court exempted residential plots of 16 families, citing nearly two decades of occupation under judicial protection while allowing the wider project to continue.
 
 ## Centre begins fresh eviction process against Delhi Gymkhana Club
 The June 29 notice asks the club to respond by July 7 under the Public Premises Act, warning the case may proceed ex parte if it fails to reply.
 
-## Government extends foreign secretary Vikram Misri’s term by one year
+## Vikram Misri gets 1-year extension as foreign secretary
 The Centre extended Foreign Secretary Vikram Misri’s tenure by one year till July 2027 amid key diplomatic engagements and global uncertainty.
 
 ## Japan PM arrives in Delhi; delighted to host you on your first visit to India, says PM Modi
@@ -96,38 +105,32 @@ This is Takaichi's first official visit to India. She is visiting at Modi's invi
 ## ‘Peace can't be one-sided’, ‘forgotten Pahalgam’: BJP, oppn react to letter calling for India-Pak talks
 On Tuesday, group of prominent citizens from India, Pakistan urged the PMs of the two countries to take steps towards restoring peace, dialogue and normalcy.
 
-## India one of most strategic partners for Europe, says Ireland at start of EU presidency
-Ireland says India is among the EU’s most important strategic partners as both sides target signing a landmark free trade agreement by December.
-
-## Finance Minister Nirmala Sitharaman begins official four-day visit to France to deepen strategic economic ties
-During the visit, the Union Finance Minister will also hold one-to-one meetings with select global CEOs.
-
-## Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
-Govt to bring back AC trams in Kolkata; new route may link Dakshineswar, Kalighat temples
-
-## Rajkot demolitions: Rs 27 lakh food bill rejected; tenders issued since 2023 ‘under review’
+## Aarti Pharmalabs: Can its CDMO bet revive growth after a weak year?
 
 
-## Air Marshal PV Shivanand takes over as South Western Air Command chief
+## OBC reservation in West Bengal: From 7% to 17% and back, how legislation changed over the years
 
 
-## Supreme Court stays trial against officer accused of secretly filming ex-Anand collector
+## Michael Olise: Bringing audacity of nonchalance to places it didn’t belong
 
 
-## Will visit Ram Temple after completing construction of Kedareshwar Dham: Akhilesh Yadav
+## Miracle at 124:44: Belgium script record 3-2 comeback to sink Senegal in World Cup R32
 
 
-## Fake drugs racket: IPS officer arrested for seeking Rs 3 crore to ‘fix’ CBI case
+## Why Chandra Shekhar still matters: The rebel who never settled for No. 2
 
 
-## In Delhi EV Policy, electrification roadmap: Cars next after three- & two-wheelers
+## India’s cotton farms need better soil, not just new GM seeds
 
 
-## Bihar Cabinet nod to separate temple land from Buxar jail premises
+## A bit like a volcano, AI walks through the door
 
 
-## India asks Pakistan to expedite release, repatriation of 188 fishermen, prisoners
+## Supreme Court snubs Trump on immigration, but he could use new tools
 
+
+## Can Hong Kong absorb US$100 billion of newly tradable shares amid the global AI boom?
+Hong Kong stocks have trailed other major global markets in the first half of the year, a trend analysts said could persist as sluggish consumer spending weighs on Chinese internet platforms and an entrenched AI trade risks widening the performance gap. A glut of stocks from the expiry of IPO lock-u
 
 ## Rare momentum: Hong Kong universities, schools prop up commercial property market
 Hong Kong’s educational institutions are forecast to ramp up their investment and leasing in the commercial property segment, with leading universities and international schools among those paying top dollar to acquire or lease office and retail spaces, according to Colliers. In the first five month
@@ -149,9 +152,6 @@ In the most bearish Chinese car market forecast by an international bank or cons
 
 ## UBTech’s lifelike humanoid robots built for companionship arriving in homes across China
 UBTech Robotics, the world’s first publicly traded humanoid robot maker, has launched a consumer humanoid designed for personal companionship, featuring lifelike silicone skin and emotional artificial intelligence, as Chinese tech firms increasingly transition robots from the factory floor to the fa
-
-## Fast lane to luxury: Hong Kong developer lures upmarket homebuyers with Mercedes giveaways
-A Hong Kong developer is dangling Mercedes-Benz cars to entice buyers of its high-end homes in the Southern district, riding on a resurgence in the luxury property segment. K&K Property partnered with Zung Fu Limited to launch the promotion at One Stanley, an 82-unit project that had attracted wealt
 
 ## The Political Aftershocks of Venezuela’s Earthquakes
 The disasters exposed Delcy Rodríguez’s weak grasp on power.
@@ -249,6 +249,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16
+Tielemans's penalty late into stoppage time of extra time capped Belgium's comeback from 2-0 down in Seattle.
+
+## Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks
+Tehran says a 'communication channel' will be established with Washington to report and discuss breaches of the MoU.
+
+## Couple arrested after daring Empire State marriage proposal stunt
+Russian daredevils Vanya Beerkus and Angela Nikolau are seen as ambassadors for 'rooftopping', a climbing sport.
+
 ## US judge sides with NAACP over proposed mail-in ballot restrictions
 President Trump has sought to limit mail-in voting and has ordered his administration to impose limits on the practice.
 
@@ -263,15 +272,6 @@ The US and Israel have signed a deal allocating land for a permanent US embassy 
 
 ## US Supreme Court hands wealthy donors more sway with latest decision
 Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.
-
-## LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026
-Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.
-
-## Iran to open ‘communication channel’ on MoU with US after talks in Qatar
-Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.
-
-## Russian couple arrested after climbing Empire State Building
-Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.
 
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
