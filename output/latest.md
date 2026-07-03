@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## China steps up claims over sea east of Taiwan
+Beijing argues Japan-Philippines maritime border talks violate international law
+
+## Brent to slide as low as $60 a barrel by Christmas, forecasts Citi
+Both US and Iran have good reason to maintain ceasefire, bank’s analysts say
+
+## The June jobs report was a blip — we hope
+Plus, tricks with trimmed mean inflation
+
+## Is the EU competitiveness push stuck in the European parliament?
+Also in this newsletter: Pegasus targeted Greek former MEP while they were probing the spyware
+
 ## FirstFT: Anthropic clamps down on Chinese access to Claude
 Also in today’s newsletter: Wall Street profits and Burnham’s fiscal plans
 
@@ -7,49 +19,55 @@ Also in today’s newsletter: Wall Street profits and Burnham’s fiscal plans
 The private equity firm is struggling to sell a Hispanic grocer after US immigration raids hit sales
 
 ## Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’
-Analysts’ expectations for S&P 500 earnings are rising at fastest rate since the rebound from Covid pandemic
+Analysts’ expectations for S&P 500 earnings are rising at fastest rate since rebound from Covid pandemic
 
 ## Burnham’s devolution push to boost Treasury’s northern outpost
 Some MPs say Darlington campus has been ‘woefully underutilised’
 
-## England-Mexico ticket prices soar as host nation gripped by World Cup fever
-Resale prices are listed as high as $36,000 for tournament’s last game in Mexico
+## Starling Bank to cut jobs to simplify operations as profits dip
+Neobank plans to restructure banking and tech operations, leading to elimination of ‘duplicate’ roles
 
-## Anthropic moves to close loopholes that allow Chinese access to Claude
-Engineers are still finding ways to use AI models despite stringent restrictions
-
-## Strait of Hormuz transits increase as US-Iran ceasefire holds
-Number of ships passing via waterway quadruples over the past week as tankers cautiously return
-
-## How Jamie Dimon’s long succession race claimed another victim
-Marianne Lake spent years as a contender for the CEO job at JPMorgan. Last week, she was abruptly axed
+## Why the ‘oil price’ isn’t always the oil price
+Contango for two
 
 ## Ocado shareholders call for removal of chair Adam Warby
 Boardroom battle escalates after plot to oust founder and CEO Tim Steiner
 
-## Sensex today | Stock Market Live: Sensex gains 500 pts, Nifty holds 24,300 led by IT stocks; HCL Tech, Tata Steel top gainers
-Sensex, Nifty, Stock Price Live Updates: At 10 am, Sensex rose 489.46 points (+0.63%) to 77,991.58 while Nifty 50 jumped 159.40 points (0.66%) to 24,335.10
+## England-Mexico ticket prices soar to $36,000
+Football-obsessed Mexico fans have paid the highest prices throughout the tournament
 
-## GSP Crop Science discloses ransomware attack on non-core IT systems
-GSP Crop Science says its core business applications, ERP systems, manufacturing operations, sales, customer service, and finance functions remain unaffected and are operating normally
+## Sensex today | Stock Market Live: Sensex up 350 pts, Nifty above 24,300 as IT stocks extend rally; HCL Tech jumps 7%
+Sensex, Nifty, Stock Price Live Updates: At 1:31 pm, Sensex was up 368.77 points (+0.48%) to 77,870.89, while Nifty 50 gained 125.45 points (0.52%) to 24,301.15.
 
-## Mach Travel Solutions Limited to Voluntarily Publish Quarterly Financial Results
-Mach Travel Solutions Limited to Voluntarily Publish Quarterly Financial Results
+## Silver futures rise to ₹2.37 lakh per kg
+Comex silver futures increased 2.17% to $62.23 per ounce
 
-## iQIYI Strengthens China's Comedy Ecosystem as "The King of Stand-Up Comedy" Returns for Season 3
-iQIYI Strengthens China's Comedy Ecosystem as "The King of Stand-Up Comedy" Returns for Season 3
+## Gold futures increase to ₹1,47,710/10 gm on spot demand
+Fresh positions built up by participants led to a rise in precious metal prices, according to analysts
 
-## IEX shares rise 1% as Q1 FY27 electricity traded volume climbs
-IEX records electricity traded volume of 37,534 million units in Q1 FY27, up 15.9% y-o-y
+## PM Modi to inaugurate CG Semi’s OSAT facility at Sanand on Saturday
+The facility, developed by CG Semi Pvt Ltd in partnership with Japan’s Renesas Electronics and Thailand’s Stars Microelectronics, is among the first four semiconductor projects approved under the India Semiconductor Mission
 
-## Gujarat to set up ₹190-cr semiconductor training hub at IIT Gandhinagar, targets 10,000 professionals in 5 yrs
-The facility, being jointly funded by MeitY, the Gujarat government’s DST, and IIT Gandhinagar, aims to create a steady pool of ‘fab-ready’ engineers
+## Nifty holds above 24,350 at noon; IT, Pharma and Financials lead broad rally
+BSE market statistics painted an encouraging picture at midday. Of 4,178 stocks traded, 2,217 advanced against 1,721 declines, with 240 unchanged.
 
-## HCLTech shares surge over 4% on $1.14-billion deal win
-Despite today’s rally, the stock is down 31.25% year-to-date and 34.36% over the past year, significantly underperforming the Nifty 50
+## Adani Enterprises surges near 52-week high after QIP launch and ₹1.08 lakh crore Aluminium JV announcement
+Traded volume stood at 16.62 lakh shares, with a traded value of ₹524.17 crore
 
-## Crude oil futures rise on cautious optimism over US-Iran peace talks
-The oil market is on course for its fourth consecutive week of decline as flows through the Strait of Hormuz continue to normalise, a commodities report said
+## VBL shares rise 1.9% after subsidiary merger announcement
+The company announced two of its South African subsidiaries — Twizza Proprietary Limited and Beverage Company Proprietary Limited (Bevco) — will be absorbed into its holding company
+
+## Sensex sustains over 78,000-mark, Nifty above 24,300 as IT stocks extend rally; HCL Tech jumps
+Softer-than-expected US jobs report cools expectations for a Fed rate hike in September, boosts risk appetite for emerging markets
+
+## Govt orders removal of 3 apps being 'misused' in remotely disabling e-rickshaws
+Authorities have removed two smartphone applications, including the Chinese BAT-BMS app, from app stores following reports of e-rickshaws being remotely disabled. These apps, designed for battery management, were allegedly exploited to disrupt vehicles by connecting to unsecured Bluetooth-enabled ba
+
+## Sharp rebound! India’s crude inventory hits almost 1-year high; strong oil imports help replenish stocks depleted during US-Iran war
+According to estimates from Kpler, a global real-time data and analytics provider, India's crude oil inventory stood at 104 million barrels at the end of June, up significantly from 90.5 million barrels at the end of April. With the closure of the Strait of Hormuz during the conflict threatening nea
+
+## Gold price prediction: Will gold price rally continue & should investors buy on dips? Check July 3, 2026 outlook
+Gold price prediction today: In today’s session, gold is exhibiting a bullish bias, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities, recommending a buy on dips strategy.
 
 ## Top stocks to buy today: Stock recommendations for July 3, 2026 - check list
 Stock market recommendations: ITC, and Ramco Industries - these are the top stocks to buy recommended by Bajaj Broking Research for July 3, 2026. Let’s take a look:
@@ -66,86 +84,77 @@ Danish brewer Carlsberg has confidentially submitted draft IPO papers for its In
 ## Govt expects pick-up in economy as West Asia situation improves
 India's economy is showing robust resilience, with strong GDP growth, expanding manufacturing and services, and healthy GST collections. Despite initial global uncertainties and a weaker monsoon, domestic demand and investment remain strong. Government's sustained capital expenditure, particularly i
 
-## Cryptocurrency difficult to regulate, RBI tells Parliamentary panel
-The Reserve Bank of India has firmly stated its opposition to legalizing cryptocurrencies, citing concerns about their potential to fund illicit activities like drug trafficking and terrorism. The central bank emphasized the challenges in regulating virtual digital assets, particularly for emerging 
+## First visuals from Khamenei's funeral: Mehbooba Mufti, Salman Khurshid among Indian attendees
+Ayatollah Ali Khamenei was killed in the United States and Israeli strikes during the opening day of the war.
 
-## OMCs back in foreign exchange market? Spike in $ demand raises buzz
-The Indian rupee weakened against the dollar, closing at 95.4, as oil marketing companies reportedly resumed significant dollar purchases for upcoming crude oil imports. This renewed demand for dollars, despite positive global sentiment for Asian currencies and lower oil prices, has raised concerns 
+## Pune realtor Ketan's murder 'for wearing wig' cited in Sonam Raghuvanshi's bail hearing in Supreme Court
+The Ketan Agarwal murder case was mentioned in the Supreme Court during Sonam Raghuvanshi's bail hearing on Friday.
 
-## Adani, IHC join hands for $11.5 billion aluminium project
-Abu Dhabi's International Holding Company is significantly expanding its partnership with the Adani Group by investing $11.5 billion in a massive integrated aluminium project in Odisha. This joint venture will establish one of India's largest aluminium hubs, featuring a refinery, smelter, and power 
+## Govt orders removal of 3 battery management apps used to halt e-rickshaws: Sources
+Drivers said that e-rickshaws have long been susceptible to this problem but it has surged recently after videos of the vehicles being stopped mid-way surfaced.
 
-## New Zealand announces PM Modi's maiden visit to country; FTA to remain in focus
-The visit is scheduled as the two countries aim to strengthen their ties and take their relationship to the next level with a Free Trade Agreement
+## The invisible bridge: How digital infrastructure is redefining India–Indonesia ties
+India’s Digital Public Infrastructure model is gaining ground in Indonesia through UPI, ONDC-inspired networks and strategic digital cooperation.
 
-## ‘Consider switching sides’: Bombay HC's remarks on ‘horse-trading’ earns praise from Uddhav Sena
-The high court said people cannot be externed simply for protesting against the central government's policies or raising anti-government slogans.
+## SC halts CAG audit of Delhi power discoms
+The stay order is a setback for the Rekha Gupta-led Delhi government, which had made the CAG audit a key plank of its effort to scrutinise the finances of the capital’s private discoms
 
-## The Chinese app behind viral e-rickshaw shutdown videos: How it works and how to prevent it
-In a test conducted by Hindustan Times with a driver's consent, an e-rickshaw was switched off remotely and could only be restarted through the same app.
+## Rajasthan ATS detains suspects, raids premises of suspects linked to Pak handler
+Police superintendent Manish Tripathi said the agency received intelligence about suspects in Rajasthan linked to Shahzad Bhatti’s social media accounts
 
-## How can ‘BJP, Amit Shah murdabad’ slogans be grounds for externment, Bombay HC asks
-Justice Jamdar said that the petitioner could simply switch political sides to get the FIRs against him wiped clean through the government's “washing machine”.
+## ‘Citation doesn’t exist’: The case behind SC’s AI-hallucination order & draft rules released before
+A closer look at the insolvency case where SC found six precedents fake, wrongly cited or fabricated, and the two warnings that preceded it.
 
-## PM Modi outlines 'five resolutions' for devotees undertaking Amarnath Yatra
-The annual pilgrimage to the Amarnath cave shrine in Jammu and Kashmir began on July 3 with the first batch of pilgrims leaving from Jammu.
+## Maneka Gandhi vs Jain organisations: Row erupts over peacock feathers remarks
+Maneka Gandhi said that that back in 2001, she presented evidence regarding the matter to Atal Bihari Vajpayee and suggested amendments to protect the birds.
 
-## Ram Temple donation case accused’s wife gets notice over ‘illegal’ construction
-The Ayodhya authority served notice for an allegedly unauthorised three-storey under-construction house owned by wife of a key accused, Lavkush Mishra.
-
-## Missing additional copies of chargesheet no ticket to default bail: SC
-The ruling came on an appeal filed by Shaurya Sunil Kumar Singh, an accused in a CBI case involving an alleged cyber fraud and mule account racket.
-
-## Gangster Anmol Bishnoi moves court to surrender in 2024 Salman Khan house firing case
-Anmol Bishnoi said he wished to voluntarily surrender before the Mumbai court “to face the ongoing trial".
-
-## ‘Right to life on higher pedestal’: Court protects couple despite groom being below 21
+## Haryana TET 2026 Exam Tomorrow: Candidate guidelines, documents to carry
 
 
-## Bihar Board BSEB extends class 11 spot admission, apply at exam.biharboardonline.org
+## PM Modi’s maiden visit to New Zealand next week; first meet after trade deal
 
 
-## Livelihood hit by defective vehicle, man wins Rs 5.1 lakh consumer payout
+## When planting more trees impacts bird population
 
 
-## Mumbai Rains Today LIVE Updates: IMD issues Orange alert Mumbai, Red alert active in Odisha
+## Farah Khan Ali on dating Bobby Deol: ‘We were childhood sweethearts, held hands’
 
 
-## MHT CET CAP 2026 BTech, MBA registration starts at cetcell.mahacet.org
+## Thane woman electrocuted in flooded street following heavy rain
 
 
-## 3 Darshan fans arrested for threatening witness in Renukaswamy murder case
+## LGBTQ+ cruise ship barred by Turkiye over ‘moral, family values’
 
 
-## ICAI CA Foundation Result May 2026: Websites to check
+## Meta launches Pocket, an AI app that can generate games with simple prompts
 
 
-## Rs 83 bank balance can’t void MLA’s election, says Rajasthan High Court
+## Siya-Ketan case: As police seek polygraph nod, how ‘lie-detector’ tests work — and don’t
 
+
+## Chinese tea chain ordered to pay Louis Vuitton US$1.5 million for trademark infringement
+Chinese tea chain Molly Tea has been ordered to pay Louis Vuitton 10.3 million yuan (US$1.5 million) in damages for the unauthorised use of a logo similar to the French luxury brand’s four-petalled floral monogram. The Suzhou Intermediate People’s Court, in eastern China’s Jiangsu province, ruled th
+
+## HKMA urges banks to widen scope of yuan use as currency’s global reach expands
+Hong Kong’s financial authorities on Thursday outlined a road map to deepen the use of the yuan in corporate financing, investment and cross-border trade, as the city strives to boost its lead as an offshore hub for the Chinese currency against Shanghai and Singapore. Eddie Yue Wai-man, chief execut
+
+## Astana Finance Days 2026 - Delivering Impact: Capital in Action
+[The content of this article has been produced by our advertising partner.] Astana Finance Days (AFD), the flagship financial forum of the Astana International Financial Centre, has evolved into one of the region’s leading platform for capital markets, investment dialogue and cross-border cooperatio
+
+## AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say
+A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday. Spooked investors interpreted a potential pivot by Meta Platform
+
+## Mainland investors in buying mood for Hong Kong shares, favouring SMIC, Zhipu AI
+Investors in mainland China turned into buyers of Hong Kong stocks in June, defying weakness on the broader market as they bought on dips by artificial-intelligence plays including Semiconductor Manufacturing International Corp (SMIC) and Knowledge Atlas Technology. Onshore investors bought a combin
+
+## Henderson, Sino join JD.com in bid for Hong Kong’s first Northern Metropolis pilot project
+Henderson Land Development said it submitted a bid for Hong Kong’s first Northern Metropolis pilot project, while Sino Land said it had teamed up with five partners for the tender, as the city’s government was set to receive tenders for the development project by noon today. So far, the two Hong Kon
 
 ## Chinese banks surge ahead amid Hong Kong’s IPO wave, challenging global giants
 Chinese investment banks are raking in billions of dollars as they overtake their global rivals amid Hong Kong’s wave of initial public offerings led by technology firms, while Beijing pushes ahead with its ambition to forge a home-grown Goldman Sachs. The dominance of a handful of Chinese investmen
 
 ## Hong Kong to launch long-awaited gold clearing and settlement system next week: sources
 Hong Kong will launch a long-awaited gold clearing and settlement system next week, making a giant stride towards being an international price-setter for the precious metal, according to two sources with knowledge of the matter. The authorities plan to process the first gold settlement through the n
-
-## China’s AI stocks surge 65% in first half but bubble fears begin to weigh on sentiment
-China’s artificial intelligence stocks entered the second half of 2026 with improving earnings momentum, but first-half results and high-profile bearish positioning by US investors regarding the global AI trade have begun to weigh on sentiment. “It is only a matter of time now,” said Michael Burry, 
-
-## Sportswear firms fail to score at the World Cup amid a China sales slump
-Big international sportswear brands like Nike, Adidas and Arc’teryx all saw declining in-store sales at Chinese shopping malls in May, according to data tracked by a third-party platform. Despite the ongoing Fifa World Cup 2026, analysts expect soft consumer demand will cause the weakening trend to 
-
-## Summer Davos C-Suite Roundtable: A Curtain Raiser for APEC as Global Investors Align on the Future of the Greater Bay Area
-Last week, the South China Morning Post and the Hong Kong Investment Corporation Limited (“HKIC”) co-hosted a special SCMP C-Suite roundtable event, featuring a keynote address from the Honourable Paul Chan, Financial Secretary of the Hong Kong SAR Government, guest speakers Clara Chan, Chief Execut
-
-## China AI drug-design deals swell as US scrutiny mounts
-Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms. The value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical c
-
-## Hong Kong assets hit record US$5.38 trillion on renewed China appetite: SFC
-Assets and wealth under management in Hong Kong surged to a record high last year as global investors returned to Chinese assets, underscoring the city’s edge over Switzerland as a wealth hub. Financial firms in Hong Kong managed HK$42.2 trillion (US$5.38 trillion) worth of assets last year, a 20 pe
-
-## Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration
-A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse. More than 430 companies were currently waiting in the initial p
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
@@ -171,6 +180,15 @@ Washington and Tehran are grappling over a “memorandum of misunderstanding.”
 ## The U.S. at 250: Terminally Ill or Just Very Sick?
 Experts question whether one of the world’s oldest democracies can survive.
 
+## Indonesia Recovers Body of American Pilot Killed by Papuan Separatists
+The West Papua National Liberation Army has a history of targeting aircraft servicing remote parts of the Papuan highlands.
+
+## Understanding China’s Party-State Intelligence System
+It’s not “whole of society” – and calling it that risks discrimination against ethnic Chinese.
+
+## Myanmar to Push Ahead With Suspended Myitsone Dam Project, Officials Say
+China's government is pushing hard for the resumption of the $3.6 billion project, which was suspended in 2011 amid widespread public opposition.
+
 ## Czech-Taiwan Ties Are Cooling in Rhetoric, Not Reality
 Czechia’s new government has changed its tone on Taiwan, but left most of the substance of the relationship intact.
 
@@ -186,14 +204,11 @@ Italy is making an unexpectedly assertive return to Southeast Asia – not throu
 ## Guam: Where America’s 250th Birthday Will First Be Honored
 As the country celebrates its past, let it also recognize the place where its future security begins: an island that has given more to the United States than most Americans will ever know.
 
-## Forging China-US ‘Constructive Strategic Stability’ Starts in the Nuclear Realm
-Real strategic stability starts with recognizing mutual vulnerability.
+## The Integrated Circuit and the Future of AI Leadership
+Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
-## Asia Is Racing to the Arctic, But It’s Not Easy
-The political momentum for the Northern Sea Route is real. However, the actual data looks a lot less rosy.
-
-## BIMSTEC, Northeast India, and an Overlooked Pillar of the Act East Policy
-India’s Act East Policy should be judged by its ability to change from articulating strategy to putting that strategy into practice in the Northeast, via BIMSETC.
+## Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe
+For many observers, Secretary of Defense Pete Hegseth’s speech on the future of NATO, delivered in Brussels on June 18, 2026, constituted a perfect example of how the Trump administration is angrily abandoning the longstanding U.S. commitment to European security. The prevailing picture is that the 
 
 ## The Blind Spots in Chinese Military Studies
 During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
@@ -212,12 +227,6 @@ What can leaders do about a transnational organization that is a militia, a poli
 
 ## The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice
 The amphibious invasion of Normandy on June 6, 1944, remains the largest and most complex amphibious operation in history. On the first day alone, Allied forces landed eight divisions, including five amphibious assault and three airborne, totaling roughly 160,000 personnel. That force more than doub
-
-## The Shifting Fortunes of the Kurds
-The Kurds’ fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers’ Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous ripple effe
-
-## Mapping America’s Domestic Drone Supply Chain
-The extent of China’s drone dominance — and how to decouple from it — has long been a source of debate and anxiety in Washington. Last month, the Wall Street Journal reignited controversy by publishing a visual analysis of military quadcopter components, exploring China’s advantages in parts manufac
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -243,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Khamenei’s coffin readied as Iran prepares for seven-day funeral
-Former Supreme Leader Ali Khamenei's coffin has been readied as Iran prepares for seven-day funeral.
+## Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto
+Crowds in hundreds of Portugal football fans cheered the star team’s World Cup win.
 
-## Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day
-Funeral processions for Iran's late supreme leader will take place between July 3-9 across Iran and Iraq.
+## How New York’s ‘Little Egypt’ celebrates the World Cup
+The World Cup is bringing New York City’s Egyptian community together in Astoria, Queens.
 
-## Canada’s Carney secures deal for pipeline to expand oil exports beyond US
-Ottawa says future pipeline will reduce economic dependence on the US amid Donald Trump's trade war.
+## Iran’s Khamenei funeral: Which world leaders are attending?
+Several heads of state and other government officials will gather in Tehran for Khamenei's state funeral.
 
-## Papua rebels claim to have killed US pilot in Indonesia
-A US pilot has been killed in Indonesia’s Papua region after separatist rebels said they shot him.
+## Seven pro-Palestine protesters convicted of misdemeanour charges in US
+Activists found guilty of misdemeanour counts after blocking San Francisco's Golden Gate Bridge in a 2024 Gaza protest.
 
-## Iran warns ships against using unapproved routes in Strait of Hormuz
-Military command issues threat a day after Qatari mediators hailed 'positive progress' in indirect US-Iranian talks.
+## Ukraine strike hits Belgorod, causing fire and power outages
+Ukraine strike hits Belgorod, causing fire and power outages
 
-## Who are the rogue bishops defying Pope Leo XIV?
-A rebel group of Roman Catholics has ordained its own bishops in direct defiance of Pope Leo XIV and the Vatican order.
+## Argentina vs Cape Verde: World Cup Round of 32: Messi, prediction, kickoff
+Lionel Messi's Argentina, the reigning champions, face minnows Cape Verde in a last-32 clash in Miami.
 
-## ‘They gave their best’: Congolese reflect on historic World Cup run
-The Leopards' first World Cup in more than 50 years united Congolese supporters, despite defeat to England.
+## Man holding Tibetan flag dies after setting himself on fire outside UN
+Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital.
 
-## Powerful explosion as firefighters probe smoke at Tacoma apartment
-Powerful explosion as firefighters probe smoke at Tacoma apartment.
+## At least 40 killed in passenger bus crash in southwest Pakistan
+Bus lost control and fell into the rocky ravine near border of Balochistan and Khyber Pakhtunkhwa, officials say.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
@@ -291,6 +300,9 @@ HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effect
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
 
+## RBI backs crypto containment and keeps ban on table, officials tell house panel
+The Reserve Bank of India has strongly advised a prohibition strategy for crypto assets, recommending that banks and financial institutions be completely shielded from them. Officials argued that allowing exposure could legitimize speculative products with no economic benefit and pose financial stab
+
 ## Functional & Innovative Foods files DRHP with Sebi for IPO
 Functional & Innovative Foods has filed its DRHP with Sebi for an IPO comprising a fresh issue of 60 lakh shares and an offer for sale of 25 lakh shares. The company plans to use the proceeds for capacity expansion, debt repayment, subsidiary investment, working capital and general corporate purpose
 
@@ -311,7 +323,4 @@ Dismissing rumours of diplomatic friction, United States Ambassador to India Ser
 
 ## Delhi Cabinet approves EV Policy 2026 with tax waivers, purchase incentives and scrappage benefits to boost clean mobility
 The policy provides 100 per cent exemption on road tax and registration fees for electric vehicles, with the benefit applicable to four-wheelers priced up to Rs 30 lakh (ex-showroom). Purchase incentives include up to Rs 30,000 for electric two-wheelers, up to Rs 50,000 for electric three-wheelers a
-
-## RBI's dollar inflow measures buy time, but external risks remain
-The Reserve Bank of India's recent measures to boost dollar inflows are a temporary fix, economists warn. While these steps aim to stabilize the rupee now, the country must strengthen its balance of payments over the next three to five years. Otherwise, as foreign currency borrowings and deposits ma
 
