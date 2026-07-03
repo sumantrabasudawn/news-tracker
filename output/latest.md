@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## ‘Heat dome’ over eastern US sends electricity prices soaring
+More than 150,000 households left without power as temperatures near 40C strain utility grids
+
+## Blackstone’s QTS ends Virginia data centre project after protests
+Proposed campus becomes the latest casualty of growing backlash to the facilities in the US
+
 ## Lockheed in lead to buy naval tech group Ultra Maritime in $3.5bn deal
 Agreement for defence company could be announced as soon as early next week
 
@@ -18,32 +24,29 @@ Private equity group targets valuation of up to $12bn for purveyor of cheesestea
 ## UK’s culture secretary and department quit X citing concerns over democracy
 Move by Lisa Nandy marks first exit of a major cabinet department from the platform
 
-## Modi and Takaichi meet in the shadow of Chinese pressure
-Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
-
-## The faltering engine of Germany’s auto industry
-VW is a test of the country’s ability to adapt
-
 ## Halftime for the markets
 What have we learned in the first six months of 2026?
 
 ## Healthcare group owned by Ardian has its bank accounts seized
 Creditors told of investigation into Santé Cie and subsidiaries over dealings with healthcare professionals
 
+## The faltering engine of Germany’s auto industry
+VW is a test of the country’s ability to adapt
+
 ## Pubs to stay open until 5am for England’s World Cup match
 Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
 
-## The chip rally is tightening tech’s grip on Wall Street
-AI spending frenzy has powered a semiconductor surge
-
-## Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
-Investors and analysts say customers’ fear of Trump’s deportation campaign weakened the private equity-owned chain
+## Sensex today | Stock Market Live Updates: Adani Energy Solutions (₹1,556.50)
+Sensex, Nifty, Stock Price Live Updates: Traders can go long now at ₹1,556 and buy more shares at ₹1,460. Place initial stop-loss at ₹1,420
 
 ## Indian tech start-ups speed up public market debut
 The time to IPO has nearly halved, from initial funding to listing is now just 8 years
 
 ## Telangana cabinet clears first phase of Musi river rejuvenation project at ₹7,345 crore
 The State Cabinet has also decided to approach the Supreme Court to clear the legal objections to the project
+
+## Rupee’s pain has a global address
+The dollar trap. Much of India’s global trade is invoiced in dollars, which to an extent is inevitable -- but not entirely so
 
 ## India’s coffee exports volumes rise 28% in Q1, value up 12% on higher demand
 Outlook positive for rest of the year with slowing shipments from Vietnam, Brazil, says trade
@@ -56,12 +59,6 @@ One important reason for rise in registrations is easier process announced last 
 
 ## South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted
 Overcapacity fears in chip sector prompt sharp falls in KOSPI and TSMC
-
-## STL raises INR 1500 Cr through Qualified Institutions Placement
-STL raises INR 1500 Cr through Qualified Institutions Placement
-
-## Oil Minister rules out cut in petrol, diesel prices until global crude stays low for a few weeks
-The Minister highlighted that the government has shielded the consumer from full impact of the volatility in prices of crude oil, LNG and LPG
 
 ## Carlsberg files IPO papers confidentially
 Danish brewer Carlsberg has confidentially submitted draft IPO papers for its Indian operations to Sebi. While the timing and progress depend on regulatory approvals and market conditions, the offering is understood to be a secondary share sale. This move signals a potential boost to the IPO market,
@@ -111,29 +108,32 @@ West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 pol
 ## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
 Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
 
-## Raja Raghuvanshi murder: Supreme Court to hear today plea challenging bail to Sonam
+## Best of Both Sides: US gatekeeping AI will only lead to diffusion
 
 
-## Reliance on coal soars as weak rains drag hydro output by 19.5%
+## Best of Both Sides: Don’t bet on an AI trickle-down
 
 
-## Panchkula: All street vendors, delivery personnel to be police verified
+## Air pollution plan needs political will, not an eye on the election cycle
 
 
-## Delhi government notifies new winter action plan: Last few seasons, one in three winter days saw GRAP 3 and 4 curbs
+## Waiting for Vaibhav Sooryavanshi
 
 
-## ‘Don’t know how to take out anger and on whom’: Parents of Gurgaon hit-and-run victim await justice
+## Ram Temple Donation ‘Theft’ Probe: All eyes are on July 6 meeting of Temple Trust
 
 
-## Portugal vs Croatia Live Updates, FIFA World Cup 2026: Ronaldo keen to break knockout scoring jinx
+## Ronaldo scores first WC knockout goal, subbed out in 81st min in POR vs CRO match
 
 
-## Court awards life-term to nine cops for custodial death
+## Delhi-Tokyo ties face the future
 
 
-## Gujarat woman gets 10-year jail over acid attack on man over strained relationship
+## School van, tanker slip into ‘holes’ as Surat roads break down after 1st showers
 
+
+## China’s AI stocks surge 65% in first half but bubble fears begin to weigh on sentiment
+China’s artificial intelligence stocks entered the second half of 2026 with improving earnings momentum, but first-half results and high-profile bearish positioning by US investors regarding the global AI trade have begun to weigh on sentiment. “It is only a matter of time now,” said Michael Burry, 
 
 ## Sportswear firms fail to score at the World Cup amid a China sales slump
 Big international sportswear brands like Nike, Adidas and Arc’teryx all saw declining in-store sales at Chinese shopping malls in May, according to data tracked by a third-party platform. Despite the ongoing Fifa World Cup 2026, analysts expect soft consumer demand will cause the weakening trend to 
@@ -155,9 +155,6 @@ Chinese Tesla challengers Leapmotor and Zeekr, banking on their latest battery a
 
 ## China’s AI-defined vehicles make smart motoring human-centred
 How does an electric vehicle (EV) stand out in China’s ultra-competitive market when batteries, behaviours and functions are so similar? Through its intelligence: how well is this robot on wheels going to get to know you, adapt to your habits and moods and anticipate your needs? Welcome to the era o
-
-## From AI chips to energy drinks: Hong Kong’s biggest listing deals of 2026 so far
-Hong Kong’s stock exchange ranked second globally by capital raised in the first half of 2026, with total proceeds from initial public offerings and secondary listings rising 84.3 per cent year on year to US$26.4 billion. Among the 84 new listings during the period, mainland Chinese issuers accounte
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
@@ -183,6 +180,15 @@ Washington and Tehran are grappling over a “memorandum of misunderstanding.”
 ## The U.S. at 250: Terminally Ill or Just Very Sick?
 Experts question whether one of the world’s oldest democracies can survive.
 
+## Czech-Taiwan Ties Are Cooling in Rhetoric, Not Reality
+Czechia’s new government has changed its tone on Taiwan, but left most of the substance of the relationship intact.
+
+## Despite Chinese Mediation Efforts, Taliban-Pakistan Conflict Continues With New Strikes
+The rupture between Afghanistan’s Taliban and their erstwhile allies in Pakistan continues to cause suffering on both sides of the border.
+
+## What the ‘Mother of All Trade Deals’ Learned From the India-ASEAN FTA
+India has spent the last 16 years paying for its trade deal with ASEAN. The India-EU FTA would not repeat those mistakes.
+
 ## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
 Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
 
@@ -197,15 +203,6 @@ The political momentum for the Northern Sea Route is real. However, the actual d
 
 ## BIMSTEC, Northeast India, and an Overlooked Pillar of the Act East Policy
 India’s Act East Policy should be judged by its ability to change from articulating strategy to putting that strategy into practice in the Northeast, via BIMSETC.
-
-## Taiwan’s Drone Industry Take Centerstage in Defense Spending Debate
-Funding for drones became much more hotly discussed in the wake of KMT chair Cheng Li-wun’s trip to the United States last month.
-
-## Why Corruption Persists in Uzbekistan’s Water Sector
-Real reform in the water sector means building a system that makes corruption harder to commit, easier to detect, and less rewarding for those who might try.
-
-## Reckoning With the Evolving China-Russia Threat
-Don't underestimate the China-Russia partnership; Beijing and Moscow have already cooperated in ways that seemed unthinkable not long ago.
 
 ## The Blind Spots in Chinese Military Studies
 During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
@@ -255,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Relief efforts shift as Venezuela quake survivors seek aid
+Emergency relief is becoming the focus in Venezuela’s La Guaira state as aid stations distribute food.
+
+## Iran war live: Tehran slams US before huge funeral for Ali Khamenei
+Lebanon's Health Ministry says at least 4,298 people have been killed and 12,196 injured in Israeli attacks since March.
+
+## Trump administration indicts Olympic athlete for Reflecting Pool vandalism
+David Hearn could face up to 10 years in prison if convicted, but critics question the legitimacy of Trump's claims.
+
+## Will the end of TPS for Haitians mean a caregiving crisis in US?
+Immigrants with temporary protection more likely to work in healthcare, representing 15 percent of noncitizen workers.
+
 ## Portugal fans gather ahead of Ronaldo-Modric clash
 Portugal fans gather ahead of Ronaldo-Modric clash.
 
@@ -266,18 +275,6 @@ Mikel Oyarzabal's brace allows the European champions to dominate Austria and mo
 
 ## Could water become a flashpoint between Islamabad and New Delhi?
 Pakistan has warned India over the Indus Water Treaty.
-
-## WHO declares cruise-linked hantavirus outbreak officially over
-WHO declares cruise-linked hantavirus outbreak over as final exposed person completes quarantine and tests negative.
-
-## UK’s likely next leader Andy Burnham vows to fully fund defence plans
-Andy Burnham says the UK must take the defence investment plan 'very seriously' despite 4.7bn-pound funding hole.
-
-## Trump administration aims to cut regulations on US commercial fishing
-Scallop fishing had been banned in the New England waters since 1994 on account of overfishing.
-
-## UK culture minister quits X over ‘abuse and misinformation’
-UK Department of Culture, Media and Sport will also stop using social media platform.
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
