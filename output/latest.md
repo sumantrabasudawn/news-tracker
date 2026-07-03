@@ -1,64 +1,64 @@
 # AION Intelligence
 
-## ‘Heat dome’ over eastern US sends electricity prices soaring
-More than 150,000 households left without power as temperatures near 40C strain utility grids
+## FirstFT: Anthropic clamps down on Chinese access to Claude
+Also in today’s newsletter: Wall Street profits and Burnham’s fiscal plans
 
-## Blackstone’s QTS ends Virginia data centre project after protests
-Proposed campus becomes the latest casualty of growing backlash to the facilities in the US
+## Apollo’s grocery aisle mess
+The private equity firm is struggling to sell a Hispanic grocer after US immigration raids hit sales
 
-## Lockheed in lead to buy naval tech group Ultra Maritime in $3.5bn deal
-Agreement for defence company could be announced as soon as early next week
+## Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’
+Analysts’ expectations for S&P 500 earnings are rising at fastest rate since the rebound from Covid pandemic
 
-## US economy undershoots forecasts with 57,000 jobs added in June
-Hiring slows after 3-month streak of overperformance
+## Burnham’s devolution push to boost Treasury’s northern outpost
+Some MPs say Darlington campus has been ‘woefully underutilised’
 
-## Burnham insists he will be disciplined with UK public finances
-Prime minister in waiting says he will stick by Labour’s manifesto promises on tax
+## England-Mexico ticket prices soar as host nation gripped by World Cup fever
+Resale prices are listed as high as $36,000 for tournament’s last game in Mexico
 
-## Russia unleashes huge bombardment on Kyiv
-Attack with 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow was preparing ‘massive strike’
+## Anthropic moves to close loopholes that allow Chinese access to Claude
+Engineers are still finding ways to use AI models despite stringent restrictions
 
-## Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall
-Private equity group targets valuation of up to $12bn for purveyor of cheesesteaks and cold-cut heroes
+## Strait of Hormuz transits increase as US-Iran ceasefire holds
+Number of ships passing via waterway quadruples over the past week as tankers cautiously return
 
-## UK’s culture secretary and department quit X citing concerns over democracy
-Move by Lisa Nandy marks first exit of a major cabinet department from the platform
+## How Jamie Dimon’s long succession race claimed another victim
+Marianne Lake spent years as a contender for the CEO job at JPMorgan. Last week, she was abruptly axed
 
-## Halftime for the markets
-What have we learned in the first six months of 2026?
+## Ocado shareholders call for removal of chair Adam Warby
+Boardroom battle escalates after plot to oust founder and CEO Tim Steiner
 
-## Healthcare group owned by Ardian has its bank accounts seized
-Creditors told of investigation into Santé Cie and subsidiaries over dealings with healthcare professionals
+## Sensex today | Stock Market Live: Sensex gains 500 pts, Nifty holds 24,300 led by IT stocks; HCL Tech, Tata Steel top gainers
+Sensex, Nifty, Stock Price Live Updates: At 10 am, Sensex rose 489.46 points (+0.63%) to 77,991.58 while Nifty 50 jumped 159.40 points (0.66%) to 24,335.10
 
-## The faltering engine of Germany’s auto industry
-VW is a test of the country’s ability to adapt
+## GSP Crop Science discloses ransomware attack on non-core IT systems
+GSP Crop Science says its core business applications, ERP systems, manufacturing operations, sales, customer service, and finance functions remain unaffected and are operating normally
 
-## Pubs to stay open until 5am for England’s World Cup match
-Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
+## Mach Travel Solutions Limited to Voluntarily Publish Quarterly Financial Results
+Mach Travel Solutions Limited to Voluntarily Publish Quarterly Financial Results
 
-## Sensex today | Stock Market Live Updates: Adani Energy Solutions (₹1,556.50)
-Sensex, Nifty, Stock Price Live Updates: Traders can go long now at ₹1,556 and buy more shares at ₹1,460. Place initial stop-loss at ₹1,420
+## iQIYI Strengthens China's Comedy Ecosystem as "The King of Stand-Up Comedy" Returns for Season 3
+iQIYI Strengthens China's Comedy Ecosystem as "The King of Stand-Up Comedy" Returns for Season 3
 
-## Indian tech start-ups speed up public market debut
-The time to IPO has nearly halved, from initial funding to listing is now just 8 years
+## IEX shares rise 1% as Q1 FY27 electricity traded volume climbs
+IEX records electricity traded volume of 37,534 million units in Q1 FY27, up 15.9% y-o-y
 
-## Telangana cabinet clears first phase of Musi river rejuvenation project at ₹7,345 crore
-The State Cabinet has also decided to approach the Supreme Court to clear the legal objections to the project
+## Gujarat to set up ₹190-cr semiconductor training hub at IIT Gandhinagar, targets 10,000 professionals in 5 yrs
+The facility, being jointly funded by MeitY, the Gujarat government’s DST, and IIT Gandhinagar, aims to create a steady pool of ‘fab-ready’ engineers
 
-## Rupee’s pain has a global address
-The dollar trap. Much of India’s global trade is invoiced in dollars, which to an extent is inevitable -- but not entirely so
+## HCLTech shares surge over 4% on $1.14-billion deal win
+Despite today’s rally, the stock is down 31.25% year-to-date and 34.36% over the past year, significantly underperforming the Nifty 50
 
-## India’s coffee exports volumes rise 28% in Q1, value up 12% on higher demand
-Outlook positive for rest of the year with slowing shipments from Vietnam, Brazil, says trade
+## Crude oil futures rise on cautious optimism over US-Iran peace talks
+The oil market is on course for its fourth consecutive week of decline as flows through the Strait of Hormuz continue to normalise, a commodities report said
 
-## SC scraps NCLT, NCLAT rulings over AI-generated fake precedents
-Court flags AI risks in judiciary, orders Bar Council to frame rules
+## Top stocks to buy today: Stock recommendations for July 3, 2026 - check list
+Stock market recommendations: ITC, and Ramco Industries - these are the top stocks to buy recommended by Bajaj Broking Research for July 3, 2026. Let’s take a look:
 
-## Nearly 8 lakh GST registrations in 6 months, UP leads the way
-One important reason for rise in registrations is easier process announced last September by the GST Council.
+## Gold eyes first weekly gain in five weeks, Silver advances on weaker dollar
 
-## South Korea, Taiwan stocks fall as investors reassess AI bets; FX muted
-Overcapacity fears in chip sector prompt sharp falls in KOSPI and TSMC
+
+## Fuel-hit Russia bought gasoline produced by India’s Nayara Energy via traders: Report
+Russia is reportedly sourcing gasoline from India via international traders to counter fuel shortages stemming from Ukrainian attacks on its infrastructure. Nayara Energy, with a significant stake held by Russian oil giant Rosneft, is identified as a key supplier. While Indian officials state no dir
 
 ## Carlsberg files IPO papers confidentially
 Danish brewer Carlsberg has confidentially submitted draft IPO papers for its Indian operations to Sebi. While the timing and progress depend on regulatory approvals and market conditions, the offering is understood to be a secondary share sale. This move signals a potential boost to the IPO market,
@@ -75,62 +75,59 @@ The Indian rupee weakened against the dollar, closing at 95.4, as oil marketing 
 ## Adani, IHC join hands for $11.5 billion aluminium project
 Abu Dhabi's International Holding Company is significantly expanding its partnership with the Adani Group by investing $11.5 billion in a massive integrated aluminium project in Odisha. This joint venture will establish one of India's largest aluminium hubs, featuring a refinery, smelter, and power 
 
-## Chipflation is here and you'll have to pay for it
-The AI boom is driving up the cost of everyday electronics, a phenomenon dubbed 'chipflation'. Memory chip prices have surged dramatically, impacting everything from smart TVs and smartphones to kitchen appliances. Manufacturers are diverting chip production to AI infrastructure, leading to scarcity
+## New Zealand announces PM Modi's maiden visit to country; FTA to remain in focus
+The visit is scheduled as the two countries aim to strengthen their ties and take their relationship to the next level with a Free Trade Agreement
 
-## Bank of Baroda enters 5.7k crore settlement with creditors of NMC Health
-Bank of Baroda has settled a major legal dispute, agreeing to pay $600 million to administrators of the collapsed NMC Health group. This out-of-court agreement concludes years of litigation concerning cross-border insolvency and alleged fraud following NMC's 2020 downfall. The payment will be distri
+## ‘Consider switching sides’: Bombay HC's remarks on ‘horse-trading’ earns praise from Uddhav Sena
+The high court said people cannot be externed simply for protesting against the central government's policies or raising anti-government slogans.
 
-## Recruiters deploy AI to catch ghost coders
-Campus hiring faces a new wave of sophisticated cheating, fueled by GenAI. Recruiters are battling hidden devices, AI tools, proxy candidates, and ghost coders. To counter this, companies are increasingly deploying AI-powered proctoring and shifting away from browser-based tests. Experts highlight t
+## The Chinese app behind viral e-rickshaw shutdown videos: How it works and how to prevent it
+In a test conducted by Hindustan Times with a driver's consent, an e-rickshaw was switched off remotely and could only be restarted through the same app.
 
-## India, Japan deepen defence, AI, energy ties; finalise economic roadmap
-Japanese PM Sanae Takaichi , on her first visit to India since becoming PM, arrived with a high-powered business delegation and joined Modi for the 16th annual India-Japan Summit.
+## How can ‘BJP, Amit Shah murdabad’ slogans be grounds for externment, Bombay HC asks
+Justice Jamdar said that the petitioner could simply switch political sides to get the FIRs against him wiped clean through the government's “washing machine”.
 
-## Modi, Japan PM condemn Pakistan-backed terror, call for action against LeT, JeM
-PM Modi and Japan's Takaichi condemned last year's Pahalgam terror attack and Red Fort blasts that jolted the country.
+## PM Modi outlines 'five resolutions' for devotees undertaking Amarnath Yatra
+The annual pilgrimage to the Amarnath cave shrine in Jammu and Kashmir began on July 3 with the first batch of pilgrims leaving from Jammu.
 
-## Centre revises CBSE chief’s appointment, assigns additional charge
-A month after appointing Lokhande Prashant Sitaram as CBSE chairperson, the Centre revised the order, giving him only additional charge of the post.
+## Ram Temple donation case accused’s wife gets notice over ‘illegal’ construction
+The Ayodhya authority served notice for an allegedly unauthorised three-storey under-construction house owned by wife of a key accused, Lavkush Mishra.
 
-## Ahmedabad JCP shoots history-sheeter in self-defence after knife attack
-A history-sheeter in Ahmedabad was shot in the leg by police after attacking officers with a knife during questioning; he has over 30 criminal cases.
+## Missing additional copies of chargesheet no ticket to default bail: SC
+The ruling came on an appeal filed by Shaurya Sunil Kumar Singh, an accused in a CBI case involving an alleged cyber fraud and mule account racket.
 
-## Odisha lands largest-ever FDI as Adani-IHC JV signs ₹1 lakh cr aluminium project
-Odisha signs an $11.5 billion MoU with Adani Group and IHC for an integrated aluminium project, boosting jobs and industrialization in the state.
+## Gangster Anmol Bishnoi moves court to surrender in 2024 Salman Khan house firing case
+Anmol Bishnoi said he wished to voluntarily surrender before the Mumbai court “to face the ongoing trial".
 
-## 'Shows BJP's double standards': Congress questions PM Modi's ‘silence’ over Ayodhya Ram Temple donation row
-Congress's KC Venugopal said PM Modi's silence on the Ram Temple donation scam exposes the BJP's double standards and moral failure
-
-## All 500 police stations in Bengal get cyber, women help desks
-West Bengal's CM Suvendu Adhikari launched cyber and women help desks in 500 police stations to combat rising cybercrime and enhance women's security.
-
-## No one should object to India-Pak dialogue aimed at improving ties: Omar Abdullah
-Omar Abdullah said the conflict between the two countries was not new and has persisted for the last three to four decades.
-
-## Best of Both Sides: US gatekeeping AI will only lead to diffusion
+## ‘Right to life on higher pedestal’: Court protects couple despite groom being below 21
 
 
-## Best of Both Sides: Don’t bet on an AI trickle-down
+## Bihar Board BSEB extends class 11 spot admission, apply at exam.biharboardonline.org
 
 
-## Air pollution plan needs political will, not an eye on the election cycle
+## Livelihood hit by defective vehicle, man wins Rs 5.1 lakh consumer payout
 
 
-## Waiting for Vaibhav Sooryavanshi
+## Mumbai Rains Today LIVE Updates: IMD issues Orange alert Mumbai, Red alert active in Odisha
 
 
-## Ram Temple Donation ‘Theft’ Probe: All eyes are on July 6 meeting of Temple Trust
+## MHT CET CAP 2026 BTech, MBA registration starts at cetcell.mahacet.org
 
 
-## Ronaldo scores first WC knockout goal, subbed out in 81st min in POR vs CRO match
+## 3 Darshan fans arrested for threatening witness in Renukaswamy murder case
 
 
-## Delhi-Tokyo ties face the future
+## ICAI CA Foundation Result May 2026: Websites to check
 
 
-## School van, tanker slip into ‘holes’ as Surat roads break down after 1st showers
+## Rs 83 bank balance can’t void MLA’s election, says Rajasthan High Court
 
+
+## Chinese banks surge ahead amid Hong Kong’s IPO wave, challenging global giants
+Chinese investment banks are raking in billions of dollars as they overtake their global rivals amid Hong Kong’s wave of initial public offerings led by technology firms, while Beijing pushes ahead with its ambition to forge a home-grown Goldman Sachs. The dominance of a handful of Chinese investmen
+
+## Hong Kong to launch long-awaited gold clearing and settlement system next week: sources
+Hong Kong will launch a long-awaited gold clearing and settlement system next week, making a giant stride towards being an international price-setter for the precious metal, according to two sources with knowledge of the matter. The authorities plan to process the first gold settlement through the n
 
 ## China’s AI stocks surge 65% in first half but bubble fears begin to weigh on sentiment
 China’s artificial intelligence stocks entered the second half of 2026 with improving earnings momentum, but first-half results and high-profile bearish positioning by US investors regarding the global AI trade have begun to weigh on sentiment. “It is only a matter of time now,” said Michael Burry, 
@@ -139,7 +136,7 @@ China’s artificial intelligence stocks entered the second half of 2026 with im
 Big international sportswear brands like Nike, Adidas and Arc’teryx all saw declining in-store sales at Chinese shopping malls in May, according to data tracked by a third-party platform. Despite the ongoing Fifa World Cup 2026, analysts expect soft consumer demand will cause the weakening trend to 
 
 ## Summer Davos C-Suite Roundtable: A Curtain Raiser for APEC as Global Investors Align on the Future of the Greater Bay Area
-Earlier this week, the South China Morning Post and the Hong Kong Investment Corporation Limited (“HKIC”) co-hosted a special SCMP C-Suite roundtable event, featuring a keynote address from the Honourable Paul Chan, Financial Secretary of the Hong Kong SAR Government, guest speakers Clara Chan, Chie
+Last week, the South China Morning Post and the Hong Kong Investment Corporation Limited (“HKIC”) co-hosted a special SCMP C-Suite roundtable event, featuring a keynote address from the Honourable Paul Chan, Financial Secretary of the Hong Kong SAR Government, guest speakers Clara Chan, Chief Execut
 
 ## China AI drug-design deals swell as US scrutiny mounts
 Riding a wave of booming cross-border dealmaking, China’s AI-driven drug-design firms are charging onto the global stage despite Washington’s growing scrutiny of Chinese biotech firms. The value of out-licensing deals struck by Chinese biotech companies with top global multinational pharmaceutical c
@@ -149,12 +146,6 @@ Assets and wealth under management in Hong Kong surged to a record high last yea
 
 ## Clogged pipeline: Many Hong Kong IPO hopefuls near application expiration
 A large number of mainland Chinese companies hoping to list shares on the Hong Kong stock exchange are anxiously waiting for a nod from the mainland securities regulator, with many now at risk of having their listing applications lapse. More than 430 companies were currently waiting in the initial p
-
-## New technologies power China’s Tesla challengers to monthly sales records
-Chinese Tesla challengers Leapmotor and Zeekr, banking on their latest battery and self-driving technologies, bucked a downward trend in domestic electric vehicle sales with record deliveries last month, ratcheting up pressure on the US carmaker amid weak consumer sentiment towards big-ticket items.
-
-## China’s AI-defined vehicles make smart motoring human-centred
-How does an electric vehicle (EV) stand out in China’s ultra-competitive market when batteries, behaviours and functions are so similar? Through its intelligence: how well is this robot on wheels going to get to know you, adapt to your habits and moods and anticipate your needs? Welcome to the era o
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
@@ -252,29 +243,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Relief efforts shift as Venezuela quake survivors seek aid
-Emergency relief is becoming the focus in Venezuela’s La Guaira state as aid stations distribute food.
+## Khamenei’s coffin readied as Iran prepares for seven-day funeral
+Former Supreme Leader Ali Khamenei's coffin has been readied as Iran prepares for seven-day funeral.
 
-## Iran war live: Tehran slams US before huge funeral for Ali Khamenei
-Lebanon's Health Ministry says at least 4,298 people have been killed and 12,196 injured in Israeli attacks since March.
+## Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day
+Funeral processions for Iran's late supreme leader will take place between July 3-9 across Iran and Iraq.
 
-## Trump administration indicts Olympic athlete for Reflecting Pool vandalism
-David Hearn could face up to 10 years in prison if convicted, but critics question the legitimacy of Trump's claims.
+## Canada’s Carney secures deal for pipeline to expand oil exports beyond US
+Ottawa says future pipeline will reduce economic dependence on the US amid Donald Trump's trade war.
 
-## Will the end of TPS for Haitians mean a caregiving crisis in US?
-Immigrants with temporary protection more likely to work in healthcare, representing 15 percent of noncitizen workers.
+## Papua rebels claim to have killed US pilot in Indonesia
+A US pilot has been killed in Indonesia’s Papua region after separatist rebels said they shot him.
 
-## Portugal fans gather ahead of Ronaldo-Modric clash
-Portugal fans gather ahead of Ronaldo-Modric clash.
+## Iran warns ships against using unapproved routes in Strait of Hormuz
+Military command issues threat a day after Qatari mediators hailed 'positive progress' in indirect US-Iranian talks.
 
-## Senegal’s World Cup agony: Nation left rueing last-gasp collapse
-Former players and fans blame substitutions, lack of focus, and travel restrictions for Senegal's World Cup exit.
+## Who are the rogue bishops defying Pope Leo XIV?
+A rebel group of Roman Catholics has ordained its own bishops in direct defiance of Pope Leo XIV and the Vatican order.
 
-## Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout
-Mikel Oyarzabal's brace allows the European champions to dominate Austria and move on to the round of 16.
+## ‘They gave their best’: Congolese reflect on historic World Cup run
+The Leopards' first World Cup in more than 50 years united Congolese supporters, despite defeat to England.
 
-## Could water become a flashpoint between Islamabad and New Delhi?
-Pakistan has warned India over the Indus Water Treaty.
+## Powerful explosion as firefighters probe smoke at Tacoma apartment
+Powerful explosion as firefighters probe smoke at Tacoma apartment.
+
+## GST at 9; Over 50,000 Appeals at GSTAT
+As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
 
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
@@ -296,9 +290,6 @@ HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effect
 
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
-
-## CEAT targets one-third export revenue share, eyes double-digit volume growth over next five years: CFO Kumar Subbiah
-CEAT aims to boost international revenue to one-third of its total within five years, up from 25%, while maintaining double-digit volume growth. In the near term, however, the tyre maker plans further price hikes to offset rising raw material costs, particularly natural rubber. Significant capacity 
 
 ## Functional & Innovative Foods files DRHP with Sebi for IPO
 Functional & Innovative Foods has filed its DRHP with Sebi for an IPO comprising a fresh issue of 60 lakh shares and an offer for sale of 25 lakh shares. The company plans to use the proceeds for capacity expansion, debt repayment, subsidiary investment, working capital and general corporate purpose
