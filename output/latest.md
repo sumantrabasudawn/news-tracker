@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## Iran begins mourning for Khamenei under tight security
+Dignitaries from more than 100 nations pay respects to slain supreme leader ahead of official funeral
+
+## Andy Burnham says he will retain UK’s pension triple lock
+Keir Starmer’s likely successor also faced a question from Tory leader Kemi Badenoch during Reddit ‘ask me anything’ session
+
+## Conservative Keiko Fujimori wins knife-edge election in Peru
+Daughter of autocrat vows to boost private investment in mining sector while taking a tough line on crime
+
 ## Romanians sentenced in London for Iran-directed attack on journalist
 The two men were found to have stabbed opposition-supporting Pouria Zeraati on a Wimbledon street
 
 ## An American birthday worth celebrating
 Though its founding ideals are threatened, the US has the capacity for renewal
-
-## Iran begins mourning for Khamenei under tight security
-Dignitaries from country and neighbouring states pay respects to slain supreme leader ahead of official funeral
 
 ## Why US exceptionalism in markets is justified
 An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages
@@ -18,26 +24,23 @@ Long-running trial over blighting of Niger Delta due to begin next year
 ## Sitdown in Sintra
 Chair Kevin Warsh gave little away on the direction of Fed rates at the ECB’s annual gathering of central bankers
 
-## Russian shadow tankers avoid English Channel after naval interceptions
-Crackdown by European navies forces sanctioned vessels to take circuitous north Atlantic route around UK
-
-## Top official recuses herself from NHS Palantir contract decision after business links
-MPs had raised concerns over Samantha Jones’s previous consulting work
-
 ## StubHub under investigation over alleged ‘ghost ticketing’ at World Cup
 Texas attorney-general probes whether group is ‘cancelling or failing to provide’ purchases through its website
 
+## Top investors oppose £5.7bn private equity bid for energy group DCC
+Offer from KKR and Bridgepoint subsidiary fails to win support from Ninety One, Aviva Investors and Fidelity International
+
 ## Directors’ Deals: Burberry’s new reward policy prompts top team to buy in
 Fashion group reports operating profit again under new chief
+
+## Russian shadow tankers avoid English Channel after naval interceptions
+Crackdown by European navies forces sanctioned vessels to take circuitous north Atlantic route around UK
 
 ## Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns
 Netwealth boss condemns failure as FCA urges use of ‘plain English’
 
 ## Trump will oppose heavy US AI regulation, says outgoing tech adviser
 Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
-
-## ‘It’s whack-a-mole’: how Europe’s smart border melted down
-Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
 
 ## Prime Minister Modi to visit Indonesia, Australia, New Zealand for bilateral talks
 Will also engage with Indian diaspora, participate in business outreach events
@@ -63,6 +66,15 @@ Deal puts India on the Global Green shipping map, anchoring long-term export dem
 ## ‘Titan unfazed by global headwinds, sees bigger long-term opportunity’
 FY26 was a landmark year for Titan, says Managing Director Ajoy Chawla
 
+## Samsung phones lead in purchase via EMI route
+Contrary to popular belief, Samsung leads India's smartphone sales via easy monthly installments, outpacing even Apple. Vivo and Oppo also show strong performance in this growing financing market. As component costs rise, pushing up device prices, financing is becoming crucial for consumers, especia
+
+## Factory floor emerges as new cyber battleground
+Recent cyberattacks on Bajaj Auto and Tata Electronics have underscored the escalating cyber risks for India's manufacturing sector. As factories embrace automation and AI, their increased connectivity creates larger vulnerabilities. Experts warn that these breaches, which can halt production and co
+
+## Loan growth speeds up in Q1, deposits still lag
+Indian banks witnessed robust credit growth in the June 2026 quarter, with some lenders seeing advances surge significantly. However, a widening gap emerged as deposits declined for select banks like Bank of Baroda, IDBI, and RBL. Public sector banks maintained a steadier credit-deposit growth, whil
+
 ## PM Modi shares glimpse of new Jodhpur airport ahead of inauguration - see pics
 Prime Minister Narendra Modi inaugurated the new Jodhpur airport terminal, a significant boost for tourism and connectivity, blending modern design with Rajasthani heritage. He also launched the Modified UDAN scheme from Jodhpur, aiming to enhance regional air connectivity nationwide by developing 1
 
@@ -78,14 +90,8 @@ India's IT Minister Ashwini Vaishnaw has ordered officials to summon Meta follow
 ## India’s women-owned business map has a western tilt
 Women's entrepreneurship is growing in India, but unevenly. Cities in Gujarat and Maharashtra lead in female-owned businesses, while northern cities lag. This disparity highlights the complex interplay of economic structure, local conditions, and societal norms. While government initiatives are note
 
-## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
-Indian equity benchmarks closed higher on Friday, buoyed by positive global sentiment, falling crude oil prices, and anticipation of a softer interest rate environment. The Nifty 50 and BSE Sensex both saw gains, with the Nifty 50 ending the week nearly 1% up. Realty and IT sectors led the gains, wh
-
-## Regional connectivity to get big boost as PM to launch modified UDAN scheme
-
-
-## EU–US goods trade hits record €875 billion despite tariffs: Study
-Despite tariffs, EU-US trade hit a record €875 billion last year. However, a new study reveals underlying strain, particularly for Germany's auto sector, which saw a significant export drop. While Ireland's pharmaceutical exports surged, masking regional weakness, services trade also reached new hei
+## Tomato prices firm up as heat damages summer crop
+New Delhi: Tomato prices are rising again after excessive heat damaged the summer crop in key producing regions, tightening supplies during the lean season
 
 ## A 700-year old Banyan tree in Bihar's Munger just entered history books, here's why
 A banyan tree in Bihar's Munger, estimated to be around 700 years old, has been identified as the oldest accurately dated banyan tree using radiocarbon dating.
@@ -108,8 +114,17 @@ West Bengal chief minister Subhendu Adhikary has set up a four-member committee,
 ## Govt orders Apple and Google to remove 7 mobile apps that stall e-rickshaws
 Govt says continued hosting of the apps is a potential legal violation that could strip Apple, Google of the legal immunity they enjoy as intermediaries
 
-## Former Telegraph editor’s passport finally renewed after reverification
-The initial police verification had resulted in an adverse report over the SIR deletion, holding up the issuance of the passport for over 100 days
+## Stuck with CBFC for over three years, Diljit Dosanjh-starrer Satluj gets digital release
+
+
+## Badrinath Dham temple committee orders probe into donation theft allegations
+
+
+## ‘Will never win genuine recognition’: China on India-Japan ‘free and open Indo-Pacific’ stand
+
+
+## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi’s Golden Boot chase resumes today
+
 
 ## Jackie Shroff’s parenting advice is simple: ‘Give them ears’
 
@@ -121,18 +136,6 @@ The initial police verification had resulted in an adverse report over the SIR d
 
 
 ## Express News Quiz: Alia Bhatt, Taylor Swift and Deschamps’ tears
-
-
-## Murakami breaks his own mold with ‘The Tale of KAHO’ — his first novel with a female lead
-
-
-## Ram Mandir ‘theft’: Cops seize ‘proceeds of crime’ — car bought by accused
-
-
-## Lohagad Fort death: Seek to probe ‘code names’ in Siya, Chetan’s communication, police tell court
-
-
-## Mumbai firm director loses Rs 2 crore in cyber fraud, one arrested
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -255,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say
+Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'.
+
+## Settlers attack activists, Palestinians trying to access their land
+Israeli settlers attacked a foreign activist and another man as they blocked access to Palestinian farmland.
+
+## Saudi deputy foreign minister pays respects at Khamenei funeral
+Saudi Arabia’s Vice Foreign Minister Walid al-Khuraiji unexpectedly attended the former Supreme Leader's funeral
+
+## LIVE: Argentina vs Cape Verde – FIFA World Cup 2026
+Live coverage and text updates as Lionel Messi's Argentina play Cape Verde in the Round of 32 knockout stage.
+
 ## Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei
 Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.
 
@@ -266,18 +281,6 @@ Interpol has identified 39-year-old Anastasiia Berezovska as the main suspect in
 
 ## Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary
 Influential figures deliver speeches evoking US ideals to counter President Trump's hardline immigration policies.
-
-## What to know about Taylor Swift and Travis Kelce’s wedding in NYC
-The celebrity couple’s nuptials, dubbed 'America’s royal wedding', light up New York with excitement and speculation.
-
-## Keiko Fujimori officially declared winner of Peru presidential race
-This is a breaking news story.
-
-## Israel prevents exiled Palestinian detainees from reuniting with their families
-Palestinian prisoners released from Israeli jail but remain separated from loved ones due to travel restrictions.
-
-## Pakistan bus crash kills 40
-At least 40 people were killed and eight others injured after a passenger bus plunged into a ravine in Pakistan.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
