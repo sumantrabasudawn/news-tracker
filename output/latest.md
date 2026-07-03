@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Monaco bomb suspect is a woman from Ukraine
+Prosecutors issue international arrest warrant for woman believed to have fled to Germany
+
+## Power to the North: Burnham’s big idea
+Devolution, defence and difficult decisions. Plus, Farage lies low
+
+## Laying off cigarettes boosts Big Tobacco’s financial vitals
+Despite the decline in smoker numbers, investors are rethinking the industry’s prospects
+
+## Labour MPs jostling for jobs under Burnham discover fresh passion for devolution
+Ministers talking up benefits of giving power to the regions as UK prime minister-in-waiting mulls top team
+
 ## Europe’s dilemma over Chinese car plants
 Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
 
@@ -12,17 +24,11 @@ Political scientists are beginning to see parallels between the US president and
 ## China steps up claims over sea east of Taiwan
 Beijing argues Japan-Philippines talks on maritime boundaries violate international law as it ramps up pressure on Taipei
 
-## Iran begins mourning for Khamenei under tight security
-Dignitaries from neighbouring states pay respects to slain supreme leader ahead of funeral
-
 ## FirstFT: 130mn Americans placed under extreme heat warning
 Also in today’s newsletter: Anthropic shuts loopholes exploited by Chinese companies and the inside story of Jamie Dimon’s recent reshuffle
 
 ## German tank supplier buys UK company that helped make Spitfires
 Bavaria-based Renk acquires David Brown Defence in deal worth $200mn
-
-## What has America ever done for us?
-Jazz? The moon landings? Gerrymandering? On this 250th anniversary, it seems only right to think about this question
 
 ## Albania’s flamingos meet the Trump family bulldozers
 Jared Kushner and Ivanka Trump plan a luxury residential complex that locals say will threaten a natural reserve
@@ -33,38 +39,41 @@ MPs had raised concerns over Samantha Jones’s previous consulting work
 ## Taking the measure of the UK as a financial service centre
 Turning a data-fuelled quantitative international ranking project into a thing about London
 
-## Starling Bank to cut jobs to simplify operations as profits dip
-Neobank plans to restructure banking and tech operations, leading to elimination of ‘duplicate’ roles
+## Centre orders removal of seven apps misused to remotely disable e-rickshaws
+Experts say government needs to work on awareness and education for drivers/owners
 
-## Is the EU competitiveness push stuck in the European parliament?
-Also in this newsletter: Pegasus targeted Greek former MEP while they were probing the spyware
+## MHA, LAB and KDA sign Minutes of May 22 Talks, clearing way for next phase of Ladakh dialogue
+The minutes were finalised during a meeting between Additional Secretary (Home) Prashant Lokhande and representatives of LAB and KDA after marathon deliberations over a flurry of issues
 
-## Why the ‘oil price’ isn’t always the oil price
-Contango for two
+## Centre sets up ICAR committee to look into AP mango crisis
+This decision comes right after Chouhan’s recent visit to the State, where he listened to farmers share their challenges
 
-## BikeWo to acquire 51% stake in PositiEV mobility
-The acquisition is aimed at combining Hyderabad-based BikeWo’s ambitions with PositiEV’s expertise in EV distribution, leasing and infrastructure to create an end-to-end platform
+## ‘Nexus Innovation Hub’ inaugurated in Nellore
+The maiden hub is a result of tech firms looking at the hinterland
 
-## CBDT provides relief to charitable organisations on renewal of approval
-CBDT has waived the delay in filing form 10AB for funds and institutions from October 1, 2025, to March 31, 2026, to ease genuine hardship, per a circular
+## Punjab Basmati exporters seek assurance from Goyal on sticking to current GI area
 
-## Artha Bharat launches GIFT City’s first physical gold fund with option of gold bar redemption
-The launch is also positioned as a potential catalyst for the India International Bullion Exchange
 
-## Overseas demand lifts tea prices in Kochi auctions
-The orthodox tea market witnessed a 92% sales out of the offered quantity of 2,80,925 kg
+## Terralogic Marks Two Decades of Global Growth with Expanded AI Product Portfolio and 1,400-Strong Worldwide Team
+From a founding vision in Nellore, India, to 13 offices across the USA, India, Vietnam, and Dubai, Terralogic Solutions Inc. consolidates its global footprint as a full-stack digital transformation company with a growing suite of proprietary AI products.
 
-## Sensex today | Stock Market Highlights: Markets off the day's high, Sensex ended 261.79 pts positive at 77,763.91, and Nifty 50 was up 95.15 pts to 24,270.85
-Sensex, Nifty, Stock Price Highlights: Sensex climbs 261.79 points to settle at 77,763.91; Nifty up 95.15 points to 24,270.85.
+## Caramelo Studio Launches as India-US MarTech Company with Integrated Marketing for Growing Brands
 
-## Maruti's plant inauguration by PMs of India, Japan 'greatest possible honour': T Suzuki
-The fourth manufacturing facility of Maruti Suzuki India located at Kharkhoda in Haryana was inaugurated by Prime Minister Narendra Modi and his visiting Japanese counterpart Sanae Takaichi on Thursday virtually
 
-## Carlsberg files confidential IPO papers with SEBI to raise ₹7,100 crore
-Promoters eye $750-million (₹7,100 crore) stake sale via OFS
+## Smartail and Nexus Innovation Hub Partner to Build the Future of AI-Powered Education from Andhra Pradesh
 
-## JSW Rayalaseema Steel Plant will be completed in 2 yrs: AP CM Naidu
-Commercial production is targeted to commence by March 2028
+
+## Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material
+India's IT Minister Ashwini Vaishnaw has ordered officials to summon Meta following reports of Instagram advertisements featuring child sexual abuse material. This action highlights growing concerns about objectionable content on social media and the effectiveness of content moderation on platforms 
+
+## India’s women-owned business map has a western tilt
+Women's entrepreneurship is growing in India, but unevenly. Cities in Gujarat and Maharashtra lead in female-owned businesses, while northern cities lag. This disparity highlights the complex interplay of economic structure, local conditions, and societal norms. While government initiatives are note
+
+## Stock market: Which are top 10 gainers and losers on NSE & BSE today? Check list
+Indian equity benchmarks closed higher on Friday, buoyed by positive global sentiment, falling crude oil prices, and anticipation of a softer interest rate environment. The Nifty 50 and BSE Sensex both saw gains, with the Nifty 50 ending the week nearly 1% up. Realty and IT sectors led the gains, wh
+
+## Regional connectivity to get big boost as PM to launch modified UDAN scheme
+
 
 ## EU–US goods trade hits record €875 billion despite tariffs: Study
 Despite tariffs, EU-US trade hit a record €875 billion last year. However, a new study reveals underlying strain, particularly for Germany's auto sector, which saw a significant export drop. While Ireland's pharmaceutical exports surged, masking regional weakness, services trade also reached new hei
@@ -78,65 +87,56 @@ Petrol and diesel prices in India have risen by around Rs 7.5 per litre since Ma
 ## New Gold Monetisation Scheme in the works: How government aims to reduce dependence on imported gold
 The proposal has gained traction following multiple meetings held over the past two weeks involving senior government ministers, officials from the Reserve Bank of India, banks and representatives of the gold industry, the report said.
 
-## Why Delhi's EV policy poses big risk if adopted by other states
-Delhi's new EV Policy 2026 aims to accelerate clean mobility by phasing out petrol and CNG two-wheelers by April 2028 and mandating electric three-wheelers from 2027. While offering substantial incentives, a Morgan Stanley report warns that wider adoption by other states could pose a significant cha
+## Former Telegraph editor’s passport finally renewed after reverification
+The initial police verification had resulted in an adverse report over the SIR deletion, holding up the issuance of the passport for over 100 days
 
-## India's services sector growth falls to 17-month low as hiring stalls, demand weakens
-India's services sector experienced a significant slowdown in June, reaching a 17-month low due to weakening domestic demand and subdued hiring. While export orders provided a bright spot, overall business activity moderated. This trend also impacted the broader private sector, with the composite PM
+## Gujarat ATS arrests eight for alleged Jaish-e-Mohammed terror conspiracy
+The Gujarat ATS issued a statement saying that the suspects were working to establish an active network of the outfit in Gujarat, recruit members and spread its ideology.
 
-## Govt orders removal of 3 apps being 'misused' in remotely disabling e-rickshaws
-Authorities have removed two smartphone applications, including the Chinese BAT-BMS app, from app stores following reports of e-rickshaws being remotely disabled. These apps, designed for battery management, were allegedly exploited to disrupt vehicles by connecting to unsecured Bluetooth-enabled ba
+## Four killed, two injured in three road accidents across Uttarakhand’s Kumaon
+our people were killed and two injured in three separate road accidents across Uttarakhand’s Kumaon region; police are searching for drivers who fled two crash sites.
 
-## Sharp rebound! India’s crude inventory hits almost 1-year high; strong oil imports help replenish stocks depleted during US-Iran war
-According to estimates from Kpler, a global real-time data and analytics provider, India's crude oil inventory stood at 104 million barrels at the end of June, up significantly from 90.5 million barrels at the end of April. With the closure of the Strait of Hormuz during the conflict threatening nea
+## No child can be forced to recite Hindu prayers, rules Chhattisgarh High Court after row over govt order
+The court told the petitioners to approach it again if they found that any child was being forced to recite religious hymns.
 
-## Uddhav Thackeray alleges BJP ran 'Operation Ram Mandir', used 'stolen' temple funds to split political parties
-Shiv Sena (UBT) chief Uddhav Thackeray pointed fingers at the BJP for the Ram temple embezzlement row and questioned the use of the issue for political gains
+## Meta to submit detailed explanation on WhatsApp usernames feature to govt within 3 days: Sources
+Meta to submit explanation on WhatsApp usernames feature to govt within 3 days
 
-## 'An exception...': Why Supreme Court refused to send Sonam Raghuvanshi back to jail
-“Regardless of how heinous the crime is, we will try to think of a balanced approach,” the Supreme Court bench said.
+## Defence Acquisition Council clears military purchases worth ₹52,000 crore
+The DAC also accorded its Acceptance of Necessity for buying very short range air defence system (V-SHORADS), an active protection system for tanks, a jet-based kamikaze drone system
 
-## PM Modi to inaugurate Pachpadra refinery, lay foundation for Jaipur Metro phase 2
-PM Narendra Modi will also lay foundation stones or inaugurate several other projects via video conferencing, including the Jaipur Metro Rail Phase-2
+## Death toll climbs as rising temperatures keep Europe boiling, no relief in sight
+The worst ever heatwave in Europe was recorded between June 20-28 which led to not just more deaths but intense pressure on healthcare systems as well.
 
-## RSS demands thorough probe into Ram Temple donation row: 'Anti-national forces seeking to malign Hindu dharma'
-The RSS urged the Hindus to show “necessary patience and restraint to thwart the conspiracies of anti-Hindu and anti-national forces”
+## NGT orders probe into mining near Sariska Tiger Reserve, forms joint committee
+The National Green Tribunal (NGT) has ordered an independent inquiry into alleged irregularities in granting mining permissions near the Sariska Tiger Reserve in Rajasthan’s Alwar district
 
-## Abhishek Banerjee claims 25 associates summoned; alleges harassment by STF, CID
-Banerjee alleged that nearly 25 people connected to his office or associated with him had been summoned or picked up for questioning without proper notice.
-
-## Ram Temple donation irregularities: Congress’s Venugopal seeks SC-monitored probe
-KC Venugopal referred to the Special Investigation Team (SIT) constituted into this matter and said its actions so far “are an eyewash”
-
-## 'Have to respect CM': Madras HC backs Vijay, denies anticipatory bail to DMK MLA over ‘defamatory’ remarks
-The court said that Tamil Nadu has had a long tradition since 1967 of people from the cine industry joining state's politics after being elected to power.
-
-## ‘Carry 20,000 TBH, confirmed return tickets’: India issues 11-point travel advisory for Thailand travelers
-The advisory for Indians travelling to Thailand lists out a series of travel verifications and documents.
-
-## ‘Bought it at 20’: Inside Dia Mirza’s nature-inspired Mumbai home
+## Ayatollah Ali Khamenei’s funeral schedule: Tehran to Karbala, here’s full itinerary as India sends delegation
 
 
-## Rs 500 tip for Rs 15 order: Blinkit rider’s emotional reaction melts hearts
+## Pune SIR: Congress appoints just 225 BLAs, none in 16 of 21 Assembly segments
 
 
-## How a battery ‘hacking’ app can strand an e-rickshaw — and the risks it poses
+## A seven-year-old’s memories of when democracy was jailed and Punjab stood tall
 
 
-## WhatsApp usernames are a small feature with big regulatory lessons
+## In Punjab, why AAP govt steps up Hindu outreach with grand Luv-Kush temple plan
 
 
-## Retired naval officer promised 5-year plan, landed with 53-year policy, wins Rs 6 lakh
+## ‘You carry a gun… Does it work?’: Challenge at ‘liquor’ party leads to firing into Vadodara apartments; 6 arrested
 
 
-## Academic tribalism is preventing interdisciplinary research India needs
+## UPSC Key: India–Japan Cooperation, Virtual Private Network and Hasdeo Arand Forest
 
 
-## ‘Keep takedown plan ready’: Court tells Meta, others over Preity Zinta deepfake complaint
+## India coach on Vaibhav Sooryavanshi debut: ‘It’s not as straightforward’
 
 
-## Punjab’s mega road repair drive slows down amid US-Iran war
+## ‘Took screenshot of her profile’: Zohran Mamdani recalls meeting wife Rama Duwaji on a dating app
 
+
+## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
+Chinese autonomous-driving start-up Momenta drew massive subscription numbers for its HK$5.89 billion (US$751 million) initial public offering in Hong Kong, even as it competed against five other issuers launching their IPOs at the same time. The Suzhou-based company’s bookbuilding closed on Friday.
 
 ## China’s BYD surpasses Tesla to regain lead in global EV race
 China’s electric vehicle (EV) king BYD has leapfrogged once more over Tesla to become the world’s largest battery-powered car manufacturer, spurred by its surging overseas shipments, despite posting an 8.2 per cent year-on-year drop in deliveries. As BYD gained the upper hand in the race against the
@@ -156,11 +156,11 @@ A panic over excess computing capacity for artificial intelligence was “errone
 ## Mainland investors in buying mood for Hong Kong shares, favouring SMIC, Zhipu AI
 Investors in mainland China turned into buyers of Hong Kong stocks in June, defying weakness on the broader market as they bought on dips by artificial-intelligence plays including Semiconductor Manufacturing International Corp (SMIC) and Knowledge Atlas Technology. Onshore investors bought a combin
 
-## Henderson, Sino join JD.com in bid for Hong Kong’s first Northern Metropolis pilot project
-Henderson Land Development said it submitted a bid for Hong Kong’s first Northern Metropolis pilot project, while Sino Land said it had teamed up with five partners for the tender, as the city’s government was set to receive tenders for the development project by noon today. So far, the two Hong Kon
+## Hong Kong’s first Northern Metropolis pilot project draws only two bids
+Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers. The Development Bureau said it had received two bids by the tender
 
-## Chinese banks surge ahead amid Hong Kong’s IPO wave, challenging global giants
-Chinese investment banks are raking in billions of dollars as they overtake their global rivals amid Hong Kong’s wave of initial public offerings led by technology firms, while Beijing pushes ahead with its ambition to forge a home-grown Goldman Sachs. The dominance of a handful of Chinese investmen
+## Venezuela’s Bungled Earthquake Response
+Natural disasters have accelerated political change elsewhere in the region.
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
@@ -182,9 +182,6 @@ At 250, the country is struggling to come to terms with the world it created.
 
 ## The MOU Is Paying Off Early for Iran
 Washington and Tehran are grappling over a “memorandum of misunderstanding.”
-
-## The U.S. at 250: Terminally Ill or Just Very Sick?
-Experts question whether one of the world’s oldest democracies can survive.
 
 ## Indonesia Recovers Body of American Pilot Killed by Papuan Separatists
 The West Papua National Liberation Army has a history of targeting aircraft servicing remote parts of the Papuan highlands.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Argentina fans revel in Messi’s Miami homecoming before Cape Verde match
-Argentinian supporters turn Miami Beach into a celebratory hub ahead of their team's only World Cup match in Messi city.
+## Interpol names Ukrainian woman as suspect in Monaco bombing
+Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.
 
-## Nagelsmann quits as Germany coach after early World Cup 2026 exit
-Nagelsmann's departure leaves the door open for former Liverpool manager Jurgen Klopp to take over, if he wants the job.
+## Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule
+World Cup cohosts Canada face mighty Morocco in their first-ever last-16 appearance at the FIFA World Cup.
 
-## What is Nayara, the Indian firm Russia is reportedly importing oil from?
-Ukrainian forces have repeatedly targeted Russian oil facilities causing long queues for fuel across the country.
+## Video: The Cape Verde effect
+Cape Verde's World Cup run has become about more than football.
 
-## Moldova’s prime minister quits, triggering government’s resignation
-Alexandru Munteanu's resignation came as pressure has intensified over alleged corruption in a state-owned company.
+## UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid
+UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.
 
-## Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’
-Putin wobbles as Russia's top brass stays mum on Kyiv's long-range strikes, which analysts say look set to continue.
+## World cup wrap day 22
+World cup wrap day 22
 
-## US Police staff spark altercation with Egyptian players posing with fans
-US Police sparked a confrontation with Egypt's national team as they posed with fans at their hotel in Dallas.
+## ‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting
+Behind the global restitution story, master artisans are fighting to keep a centuries-old craft alive.
 
-## Israel approves plan to establish 13 new settlements in occupied West Bank
-Palestinian officials warn against the implications of the plan, saying it would further isolate East Jerusalem.
+## Argentina fans flood Miami for Cape Verde match
+Argentina fans flood Miami for Cape Verde match
 
-## Four killed in Ukraine a day after deadliest Russian attacks this year
-At least five people were separately killed in Ukrainian attacks on Russia's border regions.
+## Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state
+Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
@@ -306,6 +303,9 @@ HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effect
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
 
+## Banks register rise in NRI deposits under RBI's new scheme
+Banks have registered a gradual increase in the flow of overseas funds after the rollout of the Reserve Bank of India's (RBI) revised Foreign Currency Non-Resident Bank (FCNR-B) deposit scheme, and expect collections to accelerate further this month as awareness among NRIs is growing.
+
 ## SEBI proposes INR-based registration fee payment for FPIs, FVCIs to simplify processes
 The Securities and Exchange Board of India (SEBI) on Friday proposed that foreign portfolio investors (FPIs) and foreign venture capital investors (FVCIs) pay registration and related fees in Indian rupees (INR), replacing the existing system of payments in US dollars (USD), according to board meeti
 
@@ -326,7 +326,4 @@ This ambitious move follows a review of existing, limited stockpiles and include
 
 ## RBI compounds FEMA violations in Touras India case
 The Reserve Bank of India (RBI) has issued a compounding order under Section 15 of the Foreign Exchange Management Act (FEMA), in the case of Touras India Private Limited, which has resulted in the termination of proceedings against the company for contraventions of the law's provisions with a one-t
-
-## "It's in last 1 or 2%": US envoy Sergio Gor declares India-US trade pact nears finish line
-Dismissing rumours of diplomatic friction, United States Ambassador to India Sergio Gor on Monday (local time) announced that the highly anticipated India-US bilateral trade agreement is on the verge of completion, with negotiators hammering out the final "1 or 2 per cent" of the legal text.
 
