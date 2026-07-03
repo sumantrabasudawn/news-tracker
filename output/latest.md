@@ -66,6 +66,21 @@ Deal puts India on the Global Green shipping map, anchoring long-term export dem
 ## ‘Titan unfazed by global headwinds, sees bigger long-term opportunity’
 FY26 was a landmark year for Titan, says Managing Director Ajoy Chawla
 
+## AI boom lifts industrial engineers' pay packages
+India's burgeoning AI data-centre sector is creating a surge in demand for mechanical, electrical, and industrial engineers. These professionals, once overlooked, are now commanding significant salaries as companies build energy-intensive AI infrastructure. Roles like cooling specialists and power p
+
+## HCLTech wins $1.1bn AI-led deal with Mercedes
+HCLTech's stock surged almost 6% following the announcement of a massive $1.1 billion deal with a European Fortune Global 50 company, widely believed to be Mercedes-Benz. This significant AI-led agreement, set to run for five years with an extension option, will see HCLTech revamp the automaker's gl
+
+## Identify imported goods for manufacturing: Piyush Goyal tells states
+Commerce Minister Piyush Goyal has called on states to identify import-substitutable products, aiming to boost domestic manufacturing, cut foreign exchange outgo, and strengthen supply chains. He also pushed for export committees and monthly reviews to support industries facing unfair trade practice
+
+## SAP tightens hiring, travel as investments in AI zoom
+German software giant SAP is implementing hiring freezes, travel restrictions, and tighter control over external spending to fuel its significant investments in artificial intelligence. The company is prioritizing core AI roles and strategic acquisitions to bolster its AI capabilities. While interna
+
+## Nearly 500 cities set to become next economic hubs: FM Sitharaman
+India's middle class, comprising 31% of the population, is identified as the nation's primary growth engine, driving nearly all consumer spending. This demographic is expanding annually at 6.3% and is increasingly found in tier-two and tier-three cities, not just metropolises. Finance Minister Nirma
+
 ## Samsung phones lead in purchase via EMI route
 Contrary to popular belief, Samsung leads India's smartphone sales via easy monthly installments, outpacing even Apple. Vivo and Oppo also show strong performance in this growing financing market. As component costs rise, pushing up device prices, financing is becoming crucial for consumers, especia
 
@@ -74,21 +89,6 @@ Recent cyberattacks on Bajaj Auto and Tata Electronics have underscored the esca
 
 ## Loan growth speeds up in Q1, deposits still lag
 Indian banks witnessed robust credit growth in the June 2026 quarter, with some lenders seeing advances surge significantly. However, a widening gap emerged as deposits declined for select banks like Bank of Baroda, IDBI, and RBL. Public sector banks maintained a steadier credit-deposit growth, whil
-
-## PM Modi shares glimpse of new Jodhpur airport ahead of inauguration - see pics
-Prime Minister Narendra Modi inaugurated the new Jodhpur airport terminal, a significant boost for tourism and connectivity, blending modern design with Rajasthani heritage. He also launched the Modified UDAN scheme from Jodhpur, aiming to enhance regional air connectivity nationwide by developing 1
-
-## India set to contest US tariff move, calls 'forced labour' findings legally flawed
-India is set to contest proposed US tariffs on its exports next week, arguing that the US Trade Representative's findings on alleged forced labour are legally flawed. Indian officials and industry bodies will present counter-arguments, emphasizing the country's robust legal framework and compliance 
-
-## India sets $1 trillion export goal for FY26 as merchandise, services trade rise
-India aims for a monumental $1 trillion in exports this fiscal year, a goal enthusiastically embraced by industry and policymakers. Union Minister Piyush Goyal confirmed the ambitious target, highlighting strong growth in both merchandise and services sectors. Recent free trade agreements and a seve
-
-## Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material
-India's IT Minister Ashwini Vaishnaw has ordered officials to summon Meta following reports of Instagram advertisements featuring child sexual abuse material. This action highlights growing concerns about objectionable content on social media and the effectiveness of content moderation on platforms 
-
-## India’s women-owned business map has a western tilt
-Women's entrepreneurship is growing in India, but unevenly. Cities in Gujarat and Maharashtra lead in female-owned businesses, while northern cities lag. This disparity highlights the complex interplay of economic structure, local conditions, and societal norms. While government initiatives are note
 
 ## Tomato prices firm up as heat damages summer crop
 New Delhi: Tomato prices are rising again after excessive heat damaged the summer crop in key producing regions, tightening supplies during the lean season
@@ -123,7 +123,7 @@ Govt says continued hosting of the apps is a potential legal violation that coul
 ## ‘Will never win genuine recognition’: China on India-Japan ‘free and open Indo-Pacific’ stand
 
 
-## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi’s Golden Boot chase resumes today
+## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi back in ARG starting line-up
 
 
 ## Jackie Shroff’s parenting advice is simple: ‘Give them ears’
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say
-Human rights and media freedom organisations warned that the agreement prevents 'recourse to international courts'.
+## ‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes
+Many survivors are sheltering in tents set up in public parks, after twin earthquakes destroyed rows of buildings.
 
-## Settlers attack activists, Palestinians trying to access their land
-Israeli settlers attacked a foreign activist and another man as they blocked access to Palestinian farmland.
+## NASA launches robotic mission to save telescope falling back to Earth
+A three-armed spacecraft blasts into orbit to rescue a NASA telescope in danger of crashing back to Earth.
 
-## Saudi deputy foreign minister pays respects at Khamenei funeral
-Saudi Arabia’s Vice Foreign Minister Walid al-Khuraiji unexpectedly attended the former Supreme Leader's funeral
+## Salah awaits Messi as Egypt beat Australia on penalties at World Cup
+Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time, and could now face Argentina in the last 16.
 
-## LIVE: Argentina vs Cape Verde – FIFA World Cup 2026
-Live coverage and text updates as Lionel Messi's Argentina play Cape Verde in the Round of 32 knockout stage.
+## Massive wildfire spreads in Portugal amid extreme heat and strong wind
+A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat
 
-## Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei
-Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.
+## Dutch football association to sue over racist slurs after World Cup exit
+The Netherlands' penalty loss to Morocco prompted an outpouring of social media abuse directed notably at Black players.
 
-## Israeli settlers intensify attacks in West Bank, targeting water supplies
-The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.
+## Is China’s new ethnic unity law a step towards forced assimilation?
+The government says the law will help forge a shared national identity.
 
-## Ukrainian woman identified as main suspect in Monaco bombing
-Interpol has identified 39-year-old Anastasiia Berezovska as the main suspect in Monday’s bombing in Monaco.
+## Mamdani calls for unity on America’s 250th birthday
+New York City Mayor Zohran Mamdani marked the US's 250th birthday by reflecting on the nation's founding ideals.
 
-## Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary
-Influential figures deliver speeches evoking US ideals to counter President Trump's hardline immigration policies.
+## US heatwave raises alarms over AI data centre energy demands
+US heatwave exposes critical strain on power grids from growing energy demands of AI data centres.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
