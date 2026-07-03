@@ -1,64 +1,88 @@
 # AION Intelligence
 
+## Europe’s dilemma over Chinese car plants
+Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
+
+## How to sell your home in a slow market
+When sales are sluggish and the landscape has radically changed, strategies need sharpening
+
+## Trump’s $2.2bn windfall invites comparisons with global strongmen
+Political scientists are beginning to see parallels between the US president and authoritarian leaders in Africa and Asia
+
 ## China steps up claims over sea east of Taiwan
-Beijing argues Japan-Philippines maritime border talks violate international law
+Beijing argues Japan-Philippines talks on maritime boundaries violate international law as it ramps up pressure on Taipei
 
-## Brent to slide as low as $60 a barrel by Christmas, forecasts Citi
-Both US and Iran have good reason to maintain ceasefire, bank’s analysts say
+## Iran begins mourning for Khamenei under tight security
+Dignitaries from neighbouring states pay respects to slain supreme leader ahead of funeral
 
-## The June jobs report was a blip — we hope
-Plus, tricks with trimmed mean inflation
+## FirstFT: 130mn Americans placed under extreme heat warning
+Also in today’s newsletter: Anthropic shuts loopholes exploited by Chinese companies and the inside story of Jamie Dimon’s recent reshuffle
 
-## Is the EU competitiveness push stuck in the European parliament?
-Also in this newsletter: Pegasus targeted Greek former MEP while they were probing the spyware
+## German tank supplier buys UK company that helped make Spitfires
+Bavaria-based Renk acquires David Brown Defence in deal worth $200mn
 
-## FirstFT: Anthropic clamps down on Chinese access to Claude
-Also in today’s newsletter: Wall Street profits and Burnham’s fiscal plans
+## What has America ever done for us?
+Jazz? The moon landings? Gerrymandering? On this 250th anniversary, it seems only right to think about this question
 
-## Apollo’s grocery aisle mess
-The private equity firm is struggling to sell a Hispanic grocer after US immigration raids hit sales
+## Albania’s flamingos meet the Trump family bulldozers
+Jared Kushner and Ivanka Trump plan a luxury residential complex that locals say will threaten a natural reserve
 
-## Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’
-Analysts’ expectations for S&P 500 earnings are rising at fastest rate since rebound from Covid pandemic
+## Top official recuses herself from NHS Palantir contract decision after business links
+MPs had raised concerns over Samantha Jones’s previous consulting work
 
-## Burnham’s devolution push to boost Treasury’s northern outpost
-Some MPs say Darlington campus has been ‘woefully underutilised’
+## Taking the measure of the UK as a financial service centre
+Turning a data-fuelled quantitative international ranking project into a thing about London
 
 ## Starling Bank to cut jobs to simplify operations as profits dip
 Neobank plans to restructure banking and tech operations, leading to elimination of ‘duplicate’ roles
 
+## Is the EU competitiveness push stuck in the European parliament?
+Also in this newsletter: Pegasus targeted Greek former MEP while they were probing the spyware
+
 ## Why the ‘oil price’ isn’t always the oil price
 Contango for two
 
-## Ocado shareholders call for removal of chair Adam Warby
-Boardroom battle escalates after plot to oust founder and CEO Tim Steiner
+## BikeWo to acquire 51% stake in PositiEV mobility
+The acquisition is aimed at combining Hyderabad-based BikeWo’s ambitions with PositiEV’s expertise in EV distribution, leasing and infrastructure to create an end-to-end platform
 
-## England-Mexico ticket prices soar to $36,000
-Football-obsessed Mexico fans have paid the highest prices throughout the tournament
+## CBDT provides relief to charitable organisations on renewal of approval
+CBDT has waived the delay in filing form 10AB for funds and institutions from October 1, 2025, to March 31, 2026, to ease genuine hardship, per a circular
 
-## Sensex today | Stock Market Live: Sensex up 350 pts, Nifty above 24,300 as IT stocks extend rally; HCL Tech jumps 7%
-Sensex, Nifty, Stock Price Live Updates: At 1:31 pm, Sensex was up 368.77 points (+0.48%) to 77,870.89, while Nifty 50 gained 125.45 points (0.52%) to 24,301.15.
+## Artha Bharat launches GIFT City’s first physical gold fund with option of gold bar redemption
+The launch is also positioned as a potential catalyst for the India International Bullion Exchange
 
-## Silver futures rise to ₹2.37 lakh per kg
-Comex silver futures increased 2.17% to $62.23 per ounce
+## Overseas demand lifts tea prices in Kochi auctions
+The orthodox tea market witnessed a 92% sales out of the offered quantity of 2,80,925 kg
 
-## Gold futures increase to ₹1,47,710/10 gm on spot demand
-Fresh positions built up by participants led to a rise in precious metal prices, according to analysts
+## Sensex today | Stock Market Highlights: Markets off the day's high, Sensex ended 261.79 pts positive at 77,763.91, and Nifty 50 was up 95.15 pts to 24,270.85
+Sensex, Nifty, Stock Price Highlights: Sensex climbs 261.79 points to settle at 77,763.91; Nifty up 95.15 points to 24,270.85.
 
-## PM Modi to inaugurate CG Semi’s OSAT facility at Sanand on Saturday
-The facility, developed by CG Semi Pvt Ltd in partnership with Japan’s Renesas Electronics and Thailand’s Stars Microelectronics, is among the first four semiconductor projects approved under the India Semiconductor Mission
+## Maruti's plant inauguration by PMs of India, Japan 'greatest possible honour': T Suzuki
+The fourth manufacturing facility of Maruti Suzuki India located at Kharkhoda in Haryana was inaugurated by Prime Minister Narendra Modi and his visiting Japanese counterpart Sanae Takaichi on Thursday virtually
 
-## Nifty holds above 24,350 at noon; IT, Pharma and Financials lead broad rally
-BSE market statistics painted an encouraging picture at midday. Of 4,178 stocks traded, 2,217 advanced against 1,721 declines, with 240 unchanged.
+## Carlsberg files confidential IPO papers with SEBI to raise ₹7,100 crore
+Promoters eye $750-million (₹7,100 crore) stake sale via OFS
 
-## Adani Enterprises surges near 52-week high after QIP launch and ₹1.08 lakh crore Aluminium JV announcement
-Traded volume stood at 16.62 lakh shares, with a traded value of ₹524.17 crore
+## JSW Rayalaseema Steel Plant will be completed in 2 yrs: AP CM Naidu
+Commercial production is targeted to commence by March 2028
 
-## VBL shares rise 1.9% after subsidiary merger announcement
-The company announced two of its South African subsidiaries — Twizza Proprietary Limited and Beverage Company Proprietary Limited (Bevco) — will be absorbed into its holding company
+## EU–US goods trade hits record €875 billion despite tariffs: Study
+Despite tariffs, EU-US trade hit a record €875 billion last year. However, a new study reveals underlying strain, particularly for Germany's auto sector, which saw a significant export drop. While Ireland's pharmaceutical exports surged, masking regional weakness, services trade also reached new hei
 
-## Sensex sustains over 78,000-mark, Nifty above 24,300 as IT stocks extend rally; HCL Tech jumps
-Softer-than-expected US jobs report cools expectations for a Fed rate hike in September, boosts risk appetite for emerging markets
+## Oil slips to pre-Iran war levels: Is a petrol, diesel price cut coming?
+Petrol and diesel prices in India have risen by around Rs 7.5 per litre since May 15. The first hike in the retail rates came over two and a half months after the US-Iran war began. Private retailer Nayara Energy has already cut rates of petrol and diesel.
+
+## ToneTag eKosha to convert UPI soundboxes into banking touch points
+
+
+## New Gold Monetisation Scheme in the works: How government aims to reduce dependence on imported gold
+The proposal has gained traction following multiple meetings held over the past two weeks involving senior government ministers, officials from the Reserve Bank of India, banks and representatives of the gold industry, the report said.
+
+## Why Delhi's EV policy poses big risk if adopted by other states
+Delhi's new EV Policy 2026 aims to accelerate clean mobility by phasing out petrol and CNG two-wheelers by April 2028 and mandating electric three-wheelers from 2027. While offering substantial incentives, a Morgan Stanley report warns that wider adoption by other states could pose a significant cha
+
+## India's services sector growth falls to 17-month low as hiring stalls, demand weakens
+India's services sector experienced a significant slowdown in June, reaching a 17-month low due to weakening domestic demand and subdued hiring. While export orders provided a bright spot, overall business activity moderated. This trend also impacted the broader private sector, with the composite PM
 
 ## Govt orders removal of 3 apps being 'misused' in remotely disabling e-rickshaws
 Authorities have removed two smartphone applications, including the Chinese BAT-BMS app, from app stores following reports of e-rickshaws being remotely disabled. These apps, designed for battery management, were allegedly exploited to disrupt vehicles by connecting to unsecured Bluetooth-enabled ba
@@ -66,77 +90,62 @@ Authorities have removed two smartphone applications, including the Chinese BAT-
 ## Sharp rebound! India’s crude inventory hits almost 1-year high; strong oil imports help replenish stocks depleted during US-Iran war
 According to estimates from Kpler, a global real-time data and analytics provider, India's crude oil inventory stood at 104 million barrels at the end of June, up significantly from 90.5 million barrels at the end of April. With the closure of the Strait of Hormuz during the conflict threatening nea
 
-## Gold price prediction: Will gold price rally continue & should investors buy on dips? Check July 3, 2026 outlook
-Gold price prediction today: In today’s session, gold is exhibiting a bullish bias, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities, recommending a buy on dips strategy.
+## Uddhav Thackeray alleges BJP ran 'Operation Ram Mandir', used 'stolen' temple funds to split political parties
+Shiv Sena (UBT) chief Uddhav Thackeray pointed fingers at the BJP for the Ram temple embezzlement row and questioned the use of the issue for political gains
 
-## Top stocks to buy today: Stock recommendations for July 3, 2026 - check list
-Stock market recommendations: ITC, and Ramco Industries - these are the top stocks to buy recommended by Bajaj Broking Research for July 3, 2026. Let’s take a look:
+## 'An exception...': Why Supreme Court refused to send Sonam Raghuvanshi back to jail
+“Regardless of how heinous the crime is, we will try to think of a balanced approach,” the Supreme Court bench said.
 
-## Gold eyes first weekly gain in five weeks, Silver advances on weaker dollar
+## PM Modi to inaugurate Pachpadra refinery, lay foundation for Jaipur Metro phase 2
+PM Narendra Modi will also lay foundation stones or inaugurate several other projects via video conferencing, including the Jaipur Metro Rail Phase-2
 
+## RSS demands thorough probe into Ram Temple donation row: 'Anti-national forces seeking to malign Hindu dharma'
+The RSS urged the Hindus to show “necessary patience and restraint to thwart the conspiracies of anti-Hindu and anti-national forces”
 
-## Fuel-hit Russia bought gasoline produced by India’s Nayara Energy via traders: Report
-Russia is reportedly sourcing gasoline from India via international traders to counter fuel shortages stemming from Ukrainian attacks on its infrastructure. Nayara Energy, with a significant stake held by Russian oil giant Rosneft, is identified as a key supplier. While Indian officials state no dir
+## Abhishek Banerjee claims 25 associates summoned; alleges harassment by STF, CID
+Banerjee alleged that nearly 25 people connected to his office or associated with him had been summoned or picked up for questioning without proper notice.
 
-## Carlsberg files IPO papers confidentially
-Danish brewer Carlsberg has confidentially submitted draft IPO papers for its Indian operations to Sebi. While the timing and progress depend on regulatory approvals and market conditions, the offering is understood to be a secondary share sale. This move signals a potential boost to the IPO market,
+## Ram Temple donation irregularities: Congress’s Venugopal seeks SC-monitored probe
+KC Venugopal referred to the Special Investigation Team (SIT) constituted into this matter and said its actions so far “are an eyewash”
 
-## Govt expects pick-up in economy as West Asia situation improves
-India's economy is showing robust resilience, with strong GDP growth, expanding manufacturing and services, and healthy GST collections. Despite initial global uncertainties and a weaker monsoon, domestic demand and investment remain strong. Government's sustained capital expenditure, particularly i
+## 'Have to respect CM': Madras HC backs Vijay, denies anticipatory bail to DMK MLA over ‘defamatory’ remarks
+The court said that Tamil Nadu has had a long tradition since 1967 of people from the cine industry joining state's politics after being elected to power.
 
-## First visuals from Khamenei's funeral: Mehbooba Mufti, Salman Khurshid among Indian attendees
-Ayatollah Ali Khamenei was killed in the United States and Israeli strikes during the opening day of the war.
+## ‘Carry 20,000 TBH, confirmed return tickets’: India issues 11-point travel advisory for Thailand travelers
+The advisory for Indians travelling to Thailand lists out a series of travel verifications and documents.
 
-## Pune realtor Ketan's murder 'for wearing wig' cited in Sonam Raghuvanshi's bail hearing in Supreme Court
-The Ketan Agarwal murder case was mentioned in the Supreme Court during Sonam Raghuvanshi's bail hearing on Friday.
-
-## Govt orders removal of 3 battery management apps used to halt e-rickshaws: Sources
-Drivers said that e-rickshaws have long been susceptible to this problem but it has surged recently after videos of the vehicles being stopped mid-way surfaced.
-
-## The invisible bridge: How digital infrastructure is redefining India–Indonesia ties
-India’s Digital Public Infrastructure model is gaining ground in Indonesia through UPI, ONDC-inspired networks and strategic digital cooperation.
-
-## SC halts CAG audit of Delhi power discoms
-The stay order is a setback for the Rekha Gupta-led Delhi government, which had made the CAG audit a key plank of its effort to scrutinise the finances of the capital’s private discoms
-
-## Rajasthan ATS detains suspects, raids premises of suspects linked to Pak handler
-Police superintendent Manish Tripathi said the agency received intelligence about suspects in Rajasthan linked to Shahzad Bhatti’s social media accounts
-
-## ‘Citation doesn’t exist’: The case behind SC’s AI-hallucination order & draft rules released before
-A closer look at the insolvency case where SC found six precedents fake, wrongly cited or fabricated, and the two warnings that preceded it.
-
-## Maneka Gandhi vs Jain organisations: Row erupts over peacock feathers remarks
-Maneka Gandhi said that that back in 2001, she presented evidence regarding the matter to Atal Bihari Vajpayee and suggested amendments to protect the birds.
-
-## Haryana TET 2026 Exam Tomorrow: Candidate guidelines, documents to carry
+## ‘Bought it at 20’: Inside Dia Mirza’s nature-inspired Mumbai home
 
 
-## PM Modi’s maiden visit to New Zealand next week; first meet after trade deal
+## Rs 500 tip for Rs 15 order: Blinkit rider’s emotional reaction melts hearts
 
 
-## When planting more trees impacts bird population
+## How a battery ‘hacking’ app can strand an e-rickshaw — and the risks it poses
 
 
-## Farah Khan Ali on dating Bobby Deol: ‘We were childhood sweethearts, held hands’
+## WhatsApp usernames are a small feature with big regulatory lessons
 
 
-## Thane woman electrocuted in flooded street following heavy rain
+## Retired naval officer promised 5-year plan, landed with 53-year policy, wins Rs 6 lakh
 
 
-## LGBTQ+ cruise ship barred by Turkiye over ‘moral, family values’
+## Academic tribalism is preventing interdisciplinary research India needs
 
 
-## Meta launches Pocket, an AI app that can generate games with simple prompts
+## ‘Keep takedown plan ready’: Court tells Meta, others over Preity Zinta deepfake complaint
 
 
-## Siya-Ketan case: As police seek polygraph nod, how ‘lie-detector’ tests work — and don’t
+## Punjab’s mega road repair drive slows down amid US-Iran war
 
+
+## China’s BYD surpasses Tesla to regain lead in global EV race
+China’s electric vehicle (EV) king BYD has leapfrogged once more over Tesla to become the world’s largest battery-powered car manufacturer, spurred by its surging overseas shipments, despite posting an 8.2 per cent year-on-year drop in deliveries. As BYD gained the upper hand in the race against the
 
 ## Chinese tea chain ordered to pay Louis Vuitton US$1.5 million for trademark infringement
 Chinese tea chain Molly Tea has been ordered to pay Louis Vuitton 10.3 million yuan (US$1.5 million) in damages for the unauthorised use of a logo similar to the French luxury brand’s four-petalled floral monogram. The Suzhou Intermediate People’s Court, in eastern China’s Jiangsu province, ruled th
 
-## HKMA urges banks to widen scope of yuan use as currency’s global reach expands
-Hong Kong’s financial authorities on Thursday outlined a road map to deepen the use of the yuan in corporate financing, investment and cross-border trade, as the city strives to boost its lead as an offshore hub for the Chinese currency against Shanghai and Singapore. Eddie Yue Wai-man, chief execut
+## Hong Kong broadens yuan’s financial footprint as currency gains global appeal
+Hong Kong’s latest pledge to deepen the use of the yuan in corporate financing, investment and cross-border trade reflected the city’s determination to defend its status as the world’s most valuable offshore yuan hub and widen its edge over Shanghai and Singapore, analysts said. The road map, unveil
 
 ## Astana Finance Days 2026 - Delivering Impact: Capital in Action
 [The content of this article has been produced by our advertising partner.] Astana Finance Days (AFD), the flagship financial forum of the Astana International Financial Centre, has evolved into one of the region’s leading platform for capital markets, investment dialogue and cross-border cooperatio
@@ -152,9 +161,6 @@ Henderson Land Development said it submitted a bid for Hong Kong’s first North
 
 ## Chinese banks surge ahead amid Hong Kong’s IPO wave, challenging global giants
 Chinese investment banks are raking in billions of dollars as they overtake their global rivals amid Hong Kong’s wave of initial public offerings led by technology firms, while Beijing pushes ahead with its ambition to forge a home-grown Goldman Sachs. The dominance of a handful of Chinese investmen
-
-## Hong Kong to launch long-awaited gold clearing and settlement system next week: sources
-Hong Kong will launch a long-awaited gold clearing and settlement system next week, making a giant stride towards being an international price-setter for the precious metal, according to two sources with knowledge of the matter. The authorities plan to process the first gold settlement through the n
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
@@ -252,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hundreds of fans cheer Portugal’s win at star team’s residence in Toronto
-Crowds in hundreds of Portugal football fans cheered the star team’s World Cup win.
+## Argentina fans revel in Messi’s Miami homecoming before Cape Verde match
+Argentinian supporters turn Miami Beach into a celebratory hub ahead of their team's only World Cup match in Messi city.
 
-## How New York’s ‘Little Egypt’ celebrates the World Cup
-The World Cup is bringing New York City’s Egyptian community together in Astoria, Queens.
+## Nagelsmann quits as Germany coach after early World Cup 2026 exit
+Nagelsmann's departure leaves the door open for former Liverpool manager Jurgen Klopp to take over, if he wants the job.
 
-## Iran’s Khamenei funeral: Which world leaders are attending?
-Several heads of state and other government officials will gather in Tehran for Khamenei's state funeral.
+## What is Nayara, the Indian firm Russia is reportedly importing oil from?
+Ukrainian forces have repeatedly targeted Russian oil facilities causing long queues for fuel across the country.
 
-## Seven pro-Palestine protesters convicted of misdemeanour charges in US
-Activists found guilty of misdemeanour counts after blocking San Francisco's Golden Gate Bridge in a 2024 Gaza protest.
+## Moldova’s prime minister quits, triggering government’s resignation
+Alexandru Munteanu's resignation came as pressure has intensified over alleged corruption in a state-owned company.
 
-## Ukraine strike hits Belgorod, causing fire and power outages
-Ukraine strike hits Belgorod, causing fire and power outages
+## Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’
+Putin wobbles as Russia's top brass stays mum on Kyiv's long-range strikes, which analysts say look set to continue.
 
-## Argentina vs Cape Verde: World Cup Round of 32: Messi, prediction, kickoff
-Lionel Messi's Argentina, the reigning champions, face minnows Cape Verde in a last-32 clash in Miami.
+## US Police staff spark altercation with Egyptian players posing with fans
+US Police sparked a confrontation with Egypt's national team as they posed with fans at their hotel in Dallas.
 
-## Man holding Tibetan flag dies after setting himself on fire outside UN
-Man described by campaigner as 'a tireless advocate for Tibet' pronounced dead on arrival at hospital.
+## Israel approves plan to establish 13 new settlements in occupied West Bank
+Palestinian officials warn against the implications of the plan, saying it would further isolate East Jerusalem.
 
-## At least 40 killed in passenger bus crash in southwest Pakistan
-Bus lost control and fell into the rocky ravine near border of Balochistan and Khyber Pakhtunkhwa, officials say.
+## Four killed in Ukraine a day after deadliest Russian attacks this year
+At least five people were separately killed in Ukrainian attacks on Russia's border regions.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
@@ -300,6 +306,9 @@ HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effect
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
 
+## SEBI proposes INR-based registration fee payment for FPIs, FVCIs to simplify processes
+The Securities and Exchange Board of India (SEBI) on Friday proposed that foreign portfolio investors (FPIs) and foreign venture capital investors (FVCIs) pay registration and related fees in Indian rupees (INR), replacing the existing system of payments in US dollars (USD), according to board meeti
+
 ## RBI backs crypto containment and keeps ban on table, officials tell house panel
 The Reserve Bank of India has strongly advised a prohibition strategy for crypto assets, recommending that banks and financial institutions be completely shielded from them. Officials argued that allowing exposure could legitimize speculative products with no economic benefit and pose financial stab
 
@@ -320,7 +329,4 @@ The Reserve Bank of India (RBI) has issued a compounding order under Section 15 
 
 ## "It's in last 1 or 2%": US envoy Sergio Gor declares India-US trade pact nears finish line
 Dismissing rumours of diplomatic friction, United States Ambassador to India Sergio Gor on Monday (local time) announced that the highly anticipated India-US bilateral trade agreement is on the verge of completion, with negotiators hammering out the final "1 or 2 per cent" of the legal text.
-
-## Delhi Cabinet approves EV Policy 2026 with tax waivers, purchase incentives and scrappage benefits to boost clean mobility
-The policy provides 100 per cent exemption on road tax and registration fees for electric vehicles, with the benefit applicable to four-wheelers priced up to Rs 30 lakh (ex-showroom). Purchase incentives include up to Rs 30,000 for electric two-wheelers, up to Rs 50,000 for electric three-wheelers a
 
