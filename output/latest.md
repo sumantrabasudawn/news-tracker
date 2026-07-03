@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Brent could fall to $60 a barrel by Christmas, forecasts Citi
+Bearish forecast comes as Wall Street analysts predict oil market will return to surplus
+
+## ‘It’s whack-a-mole’: how Europe’s smart border melted down
+Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
+
+## Brussels rebuffs UK request for ‘decision-making’ role in EU
+Deal to reset post-Brexit relations with bloc has been further delayed
+
+## John Roberts, the US chief justice playing the long game
+Under him the Supreme Court has defied Trump, while at the same time expanding the scope of presidential power
+
 ## Monaco bomb suspect is a woman from Ukraine
 Prosecutors issue international arrest warrant for woman believed to have fled to Germany
 
@@ -12,56 +24,56 @@ Despite the decline in smoker numbers, investors are rethinking the industry’s
 ## Labour MPs jostling for jobs under Burnham discover fresh passion for devolution
 Ministers talking up benefits of giving power to the regions as UK prime minister-in-waiting mulls top team
 
+## Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns
+Netwealth boss condemns failure as FCA urges use of ‘plain English’
+
+## Trump will oppose heavy US AI regulation, says outgoing tech adviser
+Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
+
+## How crowds become stupider
+Prediction markets suffer when we all think the same way
+
 ## Europe’s dilemma over Chinese car plants
 Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
 
 ## How to sell your home in a slow market
 When sales are sluggish and the landscape has radically changed, strategies need sharpening
 
-## Trump’s $2.2bn windfall invites comparisons with global strongmen
-Political scientists are beginning to see parallels between the US president and authoritarian leaders in Africa and Asia
-
-## China steps up claims over sea east of Taiwan
-Beijing argues Japan-Philippines talks on maritime boundaries violate international law as it ramps up pressure on Taipei
-
 ## FirstFT: 130mn Americans placed under extreme heat warning
 Also in today’s newsletter: Anthropic shuts loopholes exploited by Chinese companies and the inside story of Jamie Dimon’s recent reshuffle
 
-## German tank supplier buys UK company that helped make Spitfires
-Bavaria-based Renk acquires David Brown Defence in deal worth $200mn
-
-## Albania’s flamingos meet the Trump family bulldozers
-Jared Kushner and Ivanka Trump plan a luxury residential complex that locals say will threaten a natural reserve
-
-## Top official recuses herself from NHS Palantir contract decision after business links
-MPs had raised concerns over Samantha Jones’s previous consulting work
-
-## Taking the measure of the UK as a financial service centre
-Turning a data-fuelled quantitative international ranking project into a thing about London
-
-## Centre orders removal of seven apps misused to remotely disable e-rickshaws
-Experts say government needs to work on awareness and education for drivers/owners
-
-## MHA, LAB and KDA sign Minutes of May 22 Talks, clearing way for next phase of Ladakh dialogue
-The minutes were finalised during a meeting between Additional Secretary (Home) Prashant Lokhande and representatives of LAB and KDA after marathon deliberations over a flurry of issues
-
-## Centre sets up ICAR committee to look into AP mango crisis
-This decision comes right after Chouhan’s recent visit to the State, where he listened to farmers share their challenges
-
-## ‘Nexus Innovation Hub’ inaugurated in Nellore
-The maiden hub is a result of tech firms looking at the hinterland
-
-## Punjab Basmati exporters seek assurance from Goyal on sticking to current GI area
+## Letters to the Editor dated July 3, 2026
 
 
-## Terralogic Marks Two Decades of Global Growth with Expanded AI Product Portfolio and 1,400-Strong Worldwide Team
-From a founding vision in Nellore, India, to 13 offices across the USA, India, Vietnam, and Dubai, Terralogic Solutions Inc. consolidates its global footprint as a full-stack digital transformation company with a growing suite of proprietary AI products.
+## No bill, no payment, just compassion and hope: One World One Family’s healthcare experiment
+The One World One Family Mission provides tertiary healthcare, medical education, biomedical research, nutrition and community outreach under a single ecosystem
 
-## Caramelo Studio Launches as India-US MarTech Company with Integrated Marketing for Growing Brands
+## Editorial. Mild stress
+Turbulence in global equities, bonds may impact India
 
+## AI helping Zoom transform from conversations to completion
+AI is transforming Zoom from a communication tool to a comprehensive business platform for hybrid work solutions.
 
-## Smartail and Nexus Innovation Hub Partner to Build the Future of AI-Powered Education from Andhra Pradesh
+## Temasek Holdings sells 2.37% in PB Fintech via bulk deal
+Deal size works out to ₹1,732.45 crore
 
+## CMFRI identifies new deep-sea fish from Arabian Sea
+The discovery is based on six specimens collected from deep-sea trawl landings at Sakthikulangara fishing harbour in Kollam
+
+## Garware rides non-salmon aquaculture wave
+Gradual industrialisation of aquaculture is creating demand for higher-quality netting, technical textiles solutions, says CEO Shujaul Rehman
+
+## Central banks bought 41 tonne of gold in May, says WGC
+Poland, China, Uzbekistan and Kazakhstan lead the purchases as Warsaw inches closer to its 700-tonne gold reserves target
+
+## PM Modi shares glimpse of new Jodhpur airport ahead of inauguration - see pics
+Prime Minister Narendra Modi inaugurated the new Jodhpur airport terminal, a significant boost for tourism and connectivity, blending modern design with Rajasthani heritage. He also launched the Modified UDAN scheme from Jodhpur, aiming to enhance regional air connectivity nationwide by developing 1
+
+## India set to contest US tariff move, calls 'forced labour' findings legally flawed
+India is set to contest proposed US tariffs on its exports next week, arguing that the US Trade Representative's findings on alleged forced labour are legally flawed. Indian officials and industry bodies will present counter-arguments, emphasizing the country's robust legal framework and compliance 
+
+## India sets $1 trillion export goal for FY26 as merchandise, services trade rise
+India aims for a monumental $1 trillion in exports this fiscal year, a goal enthusiastically embraced by industry and policymakers. Union Minister Piyush Goyal confirmed the ambitious target, highlighting strong growth in both merchandise and services sectors. Recent free trade agreements and a seve
 
 ## Centre cracks whip on Meta over Instagram ads promoting child sexual abuse material
 India's IT Minister Ashwini Vaishnaw has ordered officials to summon Meta following reports of Instagram advertisements featuring child sexual abuse material. This action highlights growing concerns about objectionable content on social media and the effectiveness of content moderation on platforms 
@@ -78,14 +90,17 @@ Indian equity benchmarks closed higher on Friday, buoyed by positive global sent
 ## EU–US goods trade hits record €875 billion despite tariffs: Study
 Despite tariffs, EU-US trade hit a record €875 billion last year. However, a new study reveals underlying strain, particularly for Germany's auto sector, which saw a significant export drop. While Ireland's pharmaceutical exports surged, masking regional weakness, services trade also reached new hei
 
-## Oil slips to pre-Iran war levels: Is a petrol, diesel price cut coming?
-Petrol and diesel prices in India have risen by around Rs 7.5 per litre since May 15. The first hike in the retail rates came over two and a half months after the US-Iran war began. Private retailer Nayara Energy has already cut rates of petrol and diesel.
+## India seeks Venezuela probe into missing organs of dead seafarer
+Rakesh Chauhan, 33, died in the Venezuelan state of Falcón on May 7 after a heart attack, according to a death certificate issued by a medical facility
 
-## ToneTag eKosha to convert UPI soundboxes into banking touch points
+## India asks Venezuela to probe sailor’s death after autopsy reveals missing organs
+Rakesh Chauhan, 33, died in the Venezuelan state of Falcón on May 7 after a heart attack, according to a death certificate issued by a medical facility
 
+## WB CM Adhikary promises policy reforms to boost industrialisation
+West Bengal chief minister Subhendu Adhikary has set up a four-member committee, led by Bengal’s new Industries Minister Tapas Ray, to propose a new industrial policy.
 
-## New Gold Monetisation Scheme in the works: How government aims to reduce dependence on imported gold
-The proposal has gained traction following multiple meetings held over the past two weeks involving senior government ministers, officials from the Reserve Bank of India, banks and representatives of the gold industry, the report said.
+## Govt orders Apple and Google to remove 7 mobile apps that stall e-rickshaws
+Govt says continued hosting of the apps is a potential legal violation that could strip Apple, Google of the legal immunity they enjoy as intermediaries
 
 ## Former Telegraph editor’s passport finally renewed after reverification
 The initial police verification had resulted in an adverse report over the SIR deletion, holding up the issuance of the passport for over 100 days
@@ -99,40 +114,28 @@ our people were killed and two injured in three separate road accidents across U
 ## No child can be forced to recite Hindu prayers, rules Chhattisgarh High Court after row over govt order
 The court told the petitioners to approach it again if they found that any child was being forced to recite religious hymns.
 
-## Meta to submit detailed explanation on WhatsApp usernames feature to govt within 3 days: Sources
-Meta to submit explanation on WhatsApp usernames feature to govt within 3 days
-
-## Defence Acquisition Council clears military purchases worth ₹52,000 crore
-The DAC also accorded its Acceptance of Necessity for buying very short range air defence system (V-SHORADS), an active protection system for tanks, a jet-based kamikaze drone system
-
-## Death toll climbs as rising temperatures keep Europe boiling, no relief in sight
-The worst ever heatwave in Europe was recorded between June 20-28 which led to not just more deaths but intense pressure on healthcare systems as well.
-
-## NGT orders probe into mining near Sariska Tiger Reserve, forms joint committee
-The National Green Tribunal (NGT) has ordered an independent inquiry into alleged irregularities in granting mining permissions near the Sariska Tiger Reserve in Rajasthan’s Alwar district
-
-## Ayatollah Ali Khamenei’s funeral schedule: Tehran to Karbala, here’s full itinerary as India sends delegation
+## Court refuses stay on Karnataka gig workers act, directs platforms to deposit welfare fee
 
 
-## Pune SIR: Congress appoints just 225 BLAs, none in 16 of 21 Assembly segments
+## Dharna Durga on self-doubt after sharing a film set with Madhuri Dixit: ‘I overthink’
 
 
-## A seven-year-old’s memories of when democracy was jailed and Punjab stood tall
+## Gatta Kusthi 2 review: Vishnu Vishal, Aishwarya Lekshmi can’t save poorly crafted sequel
 
 
-## In Punjab, why AAP govt steps up Hindu outreach with grand Luv-Kush temple plan
+## Google Maps Lists can make travel planning much easier; here’s how
 
 
-## ‘You carry a gun… Does it work?’: Challenge at ‘liquor’ party leads to firing into Vadodara apartments; 6 arrested
+## Nasa’s Swift boost mission begins as LINK spacecraft sets out to save observatory
 
 
-## UPSC Key: India–Japan Cooperation, Virtual Private Network and Hasdeo Arand Forest
+## No work order, missed deadline: BMC probe finds several lapses
 
 
-## India coach on Vaibhav Sooryavanshi debut: ‘It’s not as straightforward’
+## Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash
 
 
-## ‘Took screenshot of her profile’: Zohran Mamdani recalls meeting wife Rama Duwaji on a dating app
+## Satish Shah loved snakes, guns, wildlife: Ratna Pathak remembers him
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -183,6 +186,12 @@ At 250, the country is struggling to come to terms with the world it created.
 ## The MOU Is Paying Off Early for Iran
 Washington and Tehran are grappling over a “memorandum of misunderstanding.”
 
+## The Prabowo Administration’s Hostility to Expertise is Degrading Indonesian Governance
+The government needs to involve more academic institutions, think-tanks, and technical bodies in policymaking.
+
+## With Laos Trip, Min Aung Hlaing Drives a Wedge Into ASEAN
+Myanmar’s “president” is embarking on his first official visit to an ASEAN country since his appointment in April.
+
 ## Indonesia Recovers Body of American Pilot Killed by Papuan Separatists
 The West Papua National Liberation Army has a history of targeting aircraft servicing remote parts of the Papuan highlands.
 
@@ -200,12 +209,6 @@ The rupture between Afghanistan’s Taliban and their erstwhile allies in Pakist
 
 ## What the ‘Mother of All Trade Deals’ Learned From the India-ASEAN FTA
 India has spent the last 16 years paying for its trade deal with ASEAN. The India-EU FTA would not repeat those mistakes.
-
-## Italy’s Indo-Pacific Strategy Turns Toward Defense Contracts
-Italy is making an unexpectedly assertive return to Southeast Asia – not through trade or development aid, but through defense diplomacy.
-
-## Guam: Where America’s 250th Birthday Will First Be Honored
-As the country celebrates its past, let it also recognize the place where its future security begins: an island that has given more to the United States than most Americans will ever know.
 
 ## The Integrated Circuit and the Future of AI Leadership
 Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion
+This is a breaking news story.
+
+## Why is the UK mired in a maternity and neonatal deaths scandal?
+An inquiry found that more than 500 mothers and babies either came to harm or died due to poor care.
+
+## Gaza sports community pledges to continue legacy of killed goalkeeper
+Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.
+
+## Mourners bury victims of Damascus cafe bombing with six lawyers among dead
+Syrian Bar Association mourns six lawyers amid international condemnation of Thursday's attack in Damascus.
+
+## Election wins prove pro-Palestine US campus protests didn’t fail: Activists
+With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.
+
+## Osaka defeats Kasatkina to make Wimbledon round of 16
+Four-time grand slam winner continues to impress at SW19, losing only four games to Daria ⁠Kasatkina in round three.
+
+## Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June
+Ukraine's long-range strikes hit targets in Russia, where anxiety is rising.
+
 ## Interpol names Ukrainian woman as suspect in Monaco bombing
 Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.
-
-## Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule
-World Cup cohosts Canada face mighty Morocco in their first-ever last-16 appearance at the FIFA World Cup.
-
-## Video: The Cape Verde effect
-Cape Verde's World Cup run has become about more than football.
-
-## UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid
-UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.
-
-## World cup wrap day 22
-World cup wrap day 22
-
-## ‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting
-Behind the global restitution story, master artisans are fighting to keep a centuries-old craft alive.
-
-## Argentina fans flood Miami for Cape Verde match
-Argentina fans flood Miami for Cape Verde match
-
-## Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state
-Iran begins seven-day state funeral for late ayatollah as some 100 foreign delegations arrive under a tense ceasefire
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
