@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Romanians sentenced in London for Iran-directed attack on journalist
+The two men were found to have stabbed opposition-supporting Pouria Zeraati on a Wimbledon street
+
+## An American birthday worth celebrating
+Though its founding ideals are threatened, the US has the capacity for renewal
+
 ## Iran begins mourning for Khamenei under tight security
 Dignitaries from country and neighbouring states pay respects to slain supreme leader ahead of official funeral
 
@@ -18,11 +24,11 @@ Crackdown by European navies forces sanctioned vessels to take circuitous north 
 ## Top official recuses herself from NHS Palantir contract decision after business links
 MPs had raised concerns over Samantha Jones’s previous consulting work
 
-## Trump doubles down on support for Venezuela’s Delcy Rodríguez
-Washington is tying itself closely to a government that faces public anger over its response to devastating earthquakes
+## StubHub under investigation over alleged ‘ghost ticketing’ at World Cup
+Texas attorney-general probes whether group is ‘cancelling or failing to provide’ purchases through its website
 
-## Forecasting recessions? GLWT
-Alphaville 🤜 🤛 The Economics Show
+## Directors’ Deals: Burberry’s new reward policy prompts top team to buy in
+Fashion group reports operating profit again under new chief
 
 ## Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns
 Netwealth boss condemns failure as FCA urges use of ‘plain English’
@@ -32,21 +38,6 @@ Sriram Krishnan tells the FT the president is against a centralised regulator as
 
 ## ‘It’s whack-a-mole’: how Europe’s smart border melted down
 Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
-
-## How crowds become stupider
-Prediction markets suffer when we all think the same way
-
-## Laying off cigarettes boosts Big Tobacco’s financial vitals
-Despite the decline in smoker numbers, investors are rethinking the industry’s prospects
-
-## Europe’s dilemma over Chinese car plants
-Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
-
-## How to sell your home in a slow market
-When sales are sluggish and the landscape has radically changed, strategies need sharpening
-
-## FirstFT: 130mn Americans placed under extreme heat warning
-Also in today’s newsletter: Anthropic shuts loopholes exploited by Chinese companies and the inside story of Jamie Dimon’s recent reshuffle
 
 ## Prime Minister Modi to visit Indonesia, Australia, New Zealand for bilateral talks
 Will also engage with Indian diaspora, participate in business outreach events
@@ -120,6 +111,12 @@ Govt says continued hosting of the apps is a potential legal violation that coul
 ## Former Telegraph editor’s passport finally renewed after reverification
 The initial police verification had resulted in an adverse report over the SIR deletion, holding up the issuance of the passport for over 100 days
 
+## Jackie Shroff’s parenting advice is simple: ‘Give them ears’
+
+
+## Vladimir Kramnik banned for 2 years, ordered to do 12 months of unpaid service
+
+
 ## ‘He has a monthly court pass’: Kiku Sharda, Harssh roast Samay Raina over legal troubles
 
 
@@ -136,12 +133,6 @@ The initial police verification had resulted in an adverse report over the SIR d
 
 
 ## Mumbai firm director loses Rs 2 crore in cyber fraud, one arrested
-
-
-## 4 Chinese firms with factories in India cleared to bid for power projects
-
-
-## WATCH: Ronaldo super fan IShowSpeed falls on ground with tears after penalty
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -264,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Heavy rain floods Mumbai during intense monsoon spell
-Heavy monsoon rains have inundated parts of Mumbai, India's financial capital, causing widespread flooding.
+## Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei
+Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.
 
-## Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’
-Back and forth over defence spending comes as NATO leaders set to meet in Ankara next week.
+## Israeli settlers intensify attacks in West Bank, targeting water supplies
+The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.
 
-## Hottest June on record in France as heatwave deaths rise to alarming levels
-The average temperatures on June 24 and 25 this year were the highest ever recorded in the country.
+## Ukrainian woman identified as main suspect in Monaco bombing
+Interpol has identified 39-year-old Anastasiia Berezovska as the main suspect in Monday’s bombing in Monaco.
 
-## Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion
-Army says it confronted Saudi planes that ⁠⁠allegedly tried to ⁠⁠stop Iranian civilian ​aircraft from landing in Sanaa.
+## Pope Leo, Mamdani send pro-immigrant message for US’s 250th anniversary
+Influential figures deliver speeches evoking US ideals to counter President Trump's hardline immigration policies.
 
-## Why is the UK mired in a maternity and neonatal deaths scandal?
-An inquiry found that more than 500 mothers and babies either came to harm or died due to poor care.
+## What to know about Taylor Swift and Travis Kelce’s wedding in NYC
+The celebrity couple’s nuptials, dubbed 'America’s royal wedding', light up New York with excitement and speculation.
 
-## Gaza sports community pledges to continue legacy of killed goalkeeper
-Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.
+## Keiko Fujimori officially declared winner of Peru presidential race
+This is a breaking news story.
 
-## Mourners bury victims of Damascus cafe bombing with six lawyers among dead
-Syrian Bar Association mourns six lawyers amid international condemnation of Thursday's attack in Damascus.
+## Israel prevents exiled Palestinian detainees from reuniting with their families
+Palestinian prisoners released from Israeli jail but remain separated from loved ones due to travel restrictions.
 
-## Election wins prove pro-Palestine US campus protests didn’t fail: Activists
-With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.
+## Pakistan bus crash kills 40
+At least 40 people were killed and eight others injured after a passenger bus plunged into a ravine in Pakistan.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
