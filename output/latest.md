@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Brent could fall to $60 a barrel by Christmas, forecasts Citi
-Bearish forecast comes as Wall Street analysts predict oil market will return to surplus
+## Iran begins mourning for Khamenei under tight security
+Dignitaries from country and neighbouring states pay respects to slain supreme leader ahead of official funeral
 
-## ‘It’s whack-a-mole’: how Europe’s smart border melted down
-Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
+## Why US exceptionalism in markets is justified
+An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages
 
-## Brussels rebuffs UK request for ‘decision-making’ role in EU
-Deal to reset post-Brexit relations with bloc has been further delayed
+## Shell alleged to have misled UK courts in Nigeria pollution case
+Long-running trial over blighting of Niger Delta due to begin next year
 
-## John Roberts, the US chief justice playing the long game
-Under him the Supreme Court has defied Trump, while at the same time expanding the scope of presidential power
+## Sitdown in Sintra
+Chair Kevin Warsh gave little away on the direction of Fed rates at the ECB’s annual gathering of central bankers
 
-## Monaco bomb suspect is a woman from Ukraine
-Prosecutors issue international arrest warrant for woman believed to have fled to Germany
+## Russian shadow tankers avoid English Channel after naval interceptions
+Crackdown by European navies forces sanctioned vessels to take circuitous north Atlantic route around UK
 
-## Power to the North: Burnham’s big idea
-Devolution, defence and difficult decisions. Plus, Farage lies low
+## Top official recuses herself from NHS Palantir contract decision after business links
+MPs had raised concerns over Samantha Jones’s previous consulting work
 
-## Laying off cigarettes boosts Big Tobacco’s financial vitals
-Despite the decline in smoker numbers, investors are rethinking the industry’s prospects
+## Trump doubles down on support for Venezuela’s Delcy Rodríguez
+Washington is tying itself closely to a government that faces public anger over its response to devastating earthquakes
 
-## Labour MPs jostling for jobs under Burnham discover fresh passion for devolution
-Ministers talking up benefits of giving power to the regions as UK prime minister-in-waiting mulls top team
+## Forecasting recessions? GLWT
+Alphaville 🤜 🤛 The Economics Show
 
 ## Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns
 Netwealth boss condemns failure as FCA urges use of ‘plain English’
@@ -30,8 +30,14 @@ Netwealth boss condemns failure as FCA urges use of ‘plain English’
 ## Trump will oppose heavy US AI regulation, says outgoing tech adviser
 Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
 
+## ‘It’s whack-a-mole’: how Europe’s smart border melted down
+Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
+
 ## How crowds become stupider
 Prediction markets suffer when we all think the same way
+
+## Laying off cigarettes boosts Big Tobacco’s financial vitals
+Despite the decline in smoker numbers, investors are rethinking the industry’s prospects
 
 ## Europe’s dilemma over Chinese car plants
 Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
@@ -42,29 +48,29 @@ When sales are sluggish and the landscape has radically changed, strategies need
 ## FirstFT: 130mn Americans placed under extreme heat warning
 Also in today’s newsletter: Anthropic shuts loopholes exploited by Chinese companies and the inside story of Jamie Dimon’s recent reshuffle
 
-## Letters to the Editor dated July 3, 2026
+## Prime Minister Modi to visit Indonesia, Australia, New Zealand for bilateral talks
+Will also engage with Indian diaspora, participate in business outreach events
+
+## India-Japan: Strengthening bonds
 
 
-## No bill, no payment, just compassion and hope: One World One Family’s healthcare experiment
-The One World One Family Mission provides tertiary healthcare, medical education, biomedical research, nutrition and community outreach under a single ecosystem
+## Nestle India bets on deeper penetration in tier-2, tier-3 towns where consumption is rising faster: CMD
+Food inflation reshaped household choices in ways that went far beyond prices as families reconsidered pack sizes, purchase frequencies and category priorities in FY26 : Nestle India CMD Manish Tiwary
 
-## Editorial. Mild stress
-Turbulence in global equities, bonds may impact India
+## Adani Enterprises raises ₹15,000 cr as QIP draws 3.8x subscription
+The flagship Adani Group company’s QIP, which opened on July 2, was priced at ₹2,883 per equity share
 
-## AI helping Zoom transform from conversations to completion
-AI is transforming Zoom from a communication tool to a comprehensive business platform for hybrid work solutions.
+## Storage in India’s major reservoirs drops to 26% of capacity
+33% deficient monsoon drags dams level, though the deficiency has shrunk for over 40% a week ago
 
-## Temasek Holdings sells 2.37% in PB Fintech via bulk deal
-Deal size works out to ₹1,732.45 crore
+## Monsoon turns fierce: Four-day rain blitz targets West, Central India
+The Bay ‘low’ may intensify into a more marked system in next two days after moving fully over the sea, where warmer waters will fuel its strength
 
-## CMFRI identifies new deep-sea fish from Arabian Sea
-The discovery is based on six specimens collected from deep-sea trawl landings at Sakthikulangara fishing harbour in Kollam
+## ACME to invest $1 billion to supply green methanol to Japan’s Mitsubishi Gas Chemical
+Deal puts India on the Global Green shipping map, anchoring long-term export demand for Clean Marine Fuels
 
-## Garware rides non-salmon aquaculture wave
-Gradual industrialisation of aquaculture is creating demand for higher-quality netting, technical textiles solutions, says CEO Shujaul Rehman
-
-## Central banks bought 41 tonne of gold in May, says WGC
-Poland, China, Uzbekistan and Kazakhstan lead the purchases as Warsaw inches closer to its 700-tonne gold reserves target
+## ‘Titan unfazed by global headwinds, sees bigger long-term opportunity’
+FY26 was a landmark year for Titan, says Managing Director Ajoy Chawla
 
 ## PM Modi shares glimpse of new Jodhpur airport ahead of inauguration - see pics
 Prime Minister Narendra Modi inaugurated the new Jodhpur airport terminal, a significant boost for tourism and connectivity, blending modern design with Rajasthani heritage. He also launched the Modified UDAN scheme from Jodhpur, aiming to enhance regional air connectivity nationwide by developing 1
@@ -90,6 +96,15 @@ Indian equity benchmarks closed higher on Friday, buoyed by positive global sent
 ## EU–US goods trade hits record €875 billion despite tariffs: Study
 Despite tariffs, EU-US trade hit a record €875 billion last year. However, a new study reveals underlying strain, particularly for Germany's auto sector, which saw a significant export drop. While Ireland's pharmaceutical exports surged, masking regional weakness, services trade also reached new hei
 
+## A 700-year old Banyan tree in Bihar's Munger just entered history books, here's why
+A banyan tree in Bihar's Munger, estimated to be around 700 years old, has been identified as the oldest accurately dated banyan tree using radiocarbon dating.
+
+## India reacts cautiously to Dhaka’s plan to develop Teesta river with China
+India’s views on the Teesta river project “have been previously conveyed to the Bangladesh side, external affairs ministry spokesperson Randhir Jaiswal said
+
+## 'Siya, Chetan used sign, coded language in chats': Cops reveal while asking for extended police custody
+Siya and Chetan are accused of pushing Ketan to death from Lohagad Fort in Pune on June 18.
+
 ## India seeks Venezuela probe into missing organs of dead seafarer
 Rakesh Chauhan, 33, died in the Venezuelan state of Falcón on May 7 after a heart attack, according to a death certificate issued by a medical facility
 
@@ -105,37 +120,28 @@ Govt says continued hosting of the apps is a potential legal violation that coul
 ## Former Telegraph editor’s passport finally renewed after reverification
 The initial police verification had resulted in an adverse report over the SIR deletion, holding up the issuance of the passport for over 100 days
 
-## Gujarat ATS arrests eight for alleged Jaish-e-Mohammed terror conspiracy
-The Gujarat ATS issued a statement saying that the suspects were working to establish an active network of the outfit in Gujarat, recruit members and spread its ideology.
-
-## Four killed, two injured in three road accidents across Uttarakhand’s Kumaon
-our people were killed and two injured in three separate road accidents across Uttarakhand’s Kumaon region; police are searching for drivers who fled two crash sites.
-
-## No child can be forced to recite Hindu prayers, rules Chhattisgarh High Court after row over govt order
-The court told the petitioners to approach it again if they found that any child was being forced to recite religious hymns.
-
-## Court refuses stay on Karnataka gig workers act, directs platforms to deposit welfare fee
+## ‘He has a monthly court pass’: Kiku Sharda, Harssh roast Samay Raina over legal troubles
 
 
-## Dharna Durga on self-doubt after sharing a film set with Madhuri Dixit: ‘I overthink’
+## Express News Quiz: Alia Bhatt, Taylor Swift and Deschamps’ tears
 
 
-## Gatta Kusthi 2 review: Vishnu Vishal, Aishwarya Lekshmi can’t save poorly crafted sequel
+## Murakami breaks his own mold with ‘The Tale of KAHO’ — his first novel with a female lead
 
 
-## Google Maps Lists can make travel planning much easier; here’s how
+## Ram Mandir ‘theft’: Cops seize ‘proceeds of crime’ — car bought by accused
 
 
-## Nasa’s Swift boost mission begins as LINK spacecraft sets out to save observatory
+## Lohagad Fort death: Seek to probe ‘code names’ in Siya, Chetan’s communication, police tell court
 
 
-## No work order, missed deadline: BMC probe finds several lapses
+## Mumbai firm director loses Rs 2 crore in cyber fraud, one arrested
 
 
-## Bengaluru Rapido accident: Injured woman seeks accountability after near-fatal crash
+## 4 Chinese firms with factories in India cleared to bid for power projects
 
 
-## Satish Shah loved snakes, guns, wildlife: Ratna Pathak remembers him
+## WATCH: Ronaldo super fan IShowSpeed falls on ground with tears after penalty
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -258,8 +264,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Heavy rain floods Mumbai during intense monsoon spell
+Heavy monsoon rains have inundated parts of Mumbai, India's financial capital, causing widespread flooding.
+
+## Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’
+Back and forth over defence spending comes as NATO leaders set to meet in Ankara next week.
+
+## Hottest June on record in France as heatwave deaths rise to alarming levels
+The average temperatures on June 24 and 25 this year were the highest ever recorded in the country.
+
 ## Yemen’s Houthis threaten Saudi Arabia after alleged airspace intrusion
-This is a breaking news story.
+Army says it confronted Saudi planes that ⁠⁠allegedly tried to ⁠⁠stop Iranian civilian ​aircraft from landing in Sanaa.
 
 ## Why is the UK mired in a maternity and neonatal deaths scandal?
 An inquiry found that more than 500 mothers and babies either came to harm or died due to poor care.
@@ -272,15 +287,6 @@ Syrian Bar Association mourns six lawyers amid international condemnation of Thu
 
 ## Election wins prove pro-Palestine US campus protests didn’t fail: Activists
 With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.
-
-## Osaka defeats Kasatkina to make Wimbledon round of 16
-Four-time grand slam winner continues to impress at SW19, losing only four games to Daria ⁠Kasatkina in round three.
-
-## Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June
-Ukraine's long-range strikes hit targets in Russia, where anxiety is rising.
-
-## Interpol names Ukrainian woman as suspect in Monaco bombing
-Anastasiia Berezovska is named as the chief suspect responsible for injuring Ukrainian tycoon Vadym Yermolaiev.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
