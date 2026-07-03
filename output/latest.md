@@ -114,6 +114,15 @@ West Bengal chief minister Subhendu Adhikary has set up a four-member committee,
 ## Govt orders Apple and Google to remove 7 mobile apps that stall e-rickshaws
 Govt says continued hosting of the apps is a potential legal violation that could strip Apple, Google of the legal immunity they enjoy as intermediaries
 
+## Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’
+
+
+## Ram Temple ‘theft’: Probe shows pilferage surged as footfall rose during Maha Kumbh
+
+
+## Adani power infra: Gujarat agrees to key demands of protesting farmers
+
+
 ## Stuck with CBFC for over three years, Diljit Dosanjh-starrer Satluj gets digital release
 
 
@@ -123,19 +132,10 @@ Govt says continued hosting of the apps is a potential legal violation that coul
 ## ‘Will never win genuine recognition’: China on India-Japan ‘free and open Indo-Pacific’ stand
 
 
-## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi back in ARG starting line-up
+## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi’s goal gives ARG 1-0 lead at half-time
 
 
 ## Jackie Shroff’s parenting advice is simple: ‘Give them ears’
-
-
-## Vladimir Kramnik banned for 2 years, ordered to do 12 months of unpaid service
-
-
-## ‘He has a monthly court pass’: Kiku Sharda, Harssh roast Samay Raina over legal troubles
-
-
-## Express News Quiz: Alia Bhatt, Taylor Swift and Deschamps’ tears
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -258,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Egypt say Dallas police officer pushed player, team director at World Cup
+A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.
+
+## Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash
+Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.
+
+## Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash
+Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's quake response.
+
+## Thousands forced to evacuate in Colorado as wildfire spreads
+The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.
+
 ## ‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes
 Many survivors are sheltering in tents set up in public parks, after twin earthquakes destroyed rows of buildings.
 
@@ -269,18 +281,6 @@ Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time, and cou
 
 ## Massive wildfire spreads in Portugal amid extreme heat and strong wind
 A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat
-
-## Dutch football association to sue over racist slurs after World Cup exit
-The Netherlands' penalty loss to Morocco prompted an outpouring of social media abuse directed notably at Black players.
-
-## Is China’s new ethnic unity law a step towards forced assimilation?
-The government says the law will help forge a shared national identity.
-
-## Mamdani calls for unity on America’s 250th birthday
-New York City Mayor Zohran Mamdani marked the US's 250th birthday by reflecting on the nation's founding ideals.
-
-## US heatwave raises alarms over AI data centre energy demands
-US heatwave exposes critical strain on power grids from growing energy demands of AI data centres.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
