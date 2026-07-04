@@ -36,6 +36,12 @@ Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth busines
 ## Lack of data puts England’s ‘mansion tax’ valuations at risk
 Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
+## Adani Group to build 2,000-bed hospital in West Bengal’s New Town
+The proposed hospital will have 1,000 free beds and 1,000 commercial beds.
+
+## India lifts gas supply curbs as LNG shipments through Strait of Hormuz resume
+The Centre’s latest move indicates easing energy supply concerns as LNG shipments resume through the Strait of Hormuz and fuel availability improves
+
 ## Top IT stocks stare at great valuation reset
 While Indian IT valuation premium currently ranges from 40-80% over Accenture, the earnings growth outlook lacks the same optimism
 
@@ -53,12 +59,6 @@ An inverted head and shoulder pattern on the charts of Nifty and Sensex reinforc
 
 ## Movers & Shakers: Stocks that will see action this week
 Here is what the charts say about the shares of Coforge, Delhivery and Max Healthcare
-
-## Bandu’s Blockbusters for July 5, 2026
-Guess the stock that will give the best return by next Friday
-
-## This luxury hotel stock hasnt moved much from its IPO: Should you buy?
-IPO concerns have eased, but the re-rating case for this well-known hotel brand owner still needs stronger evidence
 
 ## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
 The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
@@ -108,6 +108,21 @@ Gurugram traffic police impound bike with 63 pending challans worth ₹5.45 lakh
 ## PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis
 PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
 
+## Adani power infra: Gujarat government notifies new compensation policy for farmers
+
+
+## Barmer mosque razings spark legal battle, unite residents across faith
+
+
+## ‘Saw missiles for first time’: For Paanch Saab, baptism by fire at sea near Hormuz
+
+
+## Biggest cities offer better salaries, more regular jobs for women, but stark gender disparity in income favours men
+
+
+## CM Rekha Gupta interview: ‘Delhi transforming… has chosen a new direction for cleaner, more modern future’
+
+
 ## CBI arrests former CFO of Reliance Capital in bank fraud case
 
 
@@ -115,21 +130,6 @@ PM Modi thanked citizens for standing firmly with the country during what he des
 
 
 ## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
-
-
-## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Goalless at half-time in Philadelphia as Mbappe and Co frustrated
-
-
-## Sooryavanshi shows glimpses on debut, but Bethell ensures England get the win
-
-
-## Maahi gets candid about attending Shaan’s concerts: ‘Grown ladies going berserk’; expert weighs in
-
-
-## J&K pulls school library books over content ‘glorifying’ separatist leaders, suspends 8 officials
-
-
-## Security guard dies by suicide at Pune’s Ammunition Factory Khadki
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US influence challenged by changing global order: Paolo von Schirach
+US influence challenged by changing global order: Paolo von Schirach
+
 ## Masses of Iranians defy heatwave on second day of Khamenei’s funeral
 Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.
 
@@ -272,9 +275,6 @@ Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is slidin
 
 ## Will economic pressure move the Kremlin towards talks with Kyiv?
 Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.
-
-## At least 20 drown as boat carrying students after exams sinks in DR Congo
-Witnesses say the boat may have been carrying more than 200 passengers.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
