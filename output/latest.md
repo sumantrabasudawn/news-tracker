@@ -36,29 +36,32 @@ Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth busines
 ## Lack of data puts England’s ‘mansion tax’ valuations at risk
 Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
-## No full runway closure at Srinagar Airport; relief for tourism, trade
-The decision spares travelers from major disruptions during the busy season
+## Top IT stocks stare at great valuation reset
+While Indian IT valuation premium currently ranges from 40-80% over Accenture, the earnings growth outlook lacks the same optimism
 
-## Tribe Amrapali to add up to 10 stores this year, bets on airports as silver demand rises
-The company operates 39 Tribe Amrapali stores and 15 Amrapali outlets nationwide while expanding its manufacturing capabilities
+## Things to check while upgrading term insurance policy
+A term insurance plan works best when it combines adequate financial protection with transparency and long-term discipline
 
-## No issue with old vehicles after ethanol blending raised to 20%, claims auto industry
-Maruti Suzuki’s Rahul Bharti said that its E20 compliant vehicles, those rolled out from 2023, are also ready to absorb higher blend
+## Why term insurance is a fair option for home loan customers
+Reasons why a term insurance paired with a home loan is better than home loan insurance
 
-## Engineers from 4 countries & India’s young workforce help launch CG Semi’s OSAT facility in Gujarat
-Modi said the back-to-back commissioning of semiconductor facilities by Micron, Kaynes Semicon and now CG Semi in Sanand marks the emergence of a semiconductor manufacturing cluster in India
+## US Market Outlook: Crucial juncture
+The Dow Jones is coming close to an important resistance from where it can turn down
 
-## SB Selvakumaran appointed as Station Director of Madras Atomic Power Station
-He replaces M Seshaiah
+## Nifty 50 prediction for the week: Bulls charge up
+An inverted head and shoulder pattern on the charts of Nifty and Sensex reinforce the bullish case
 
-## Laser Power & Infra’s ₹742 crore IPO to open on July 9
-The IPO includes a fresh equity issue of ₹542 crore and an offer for sale of up to ₹200 crore by promoter shareholders
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Coforge, Delhivery and Max Healthcare
 
-## India-Israel bilateral investment pact comes into effect
-The pact is expected to boost cross-border investment by protecting two-way investments, according to the finance ministry
+## Bandu’s Blockbusters for July 5, 2026
+Guess the stock that will give the best return by next Friday
 
-## Pvt sector banks log robust growth in deposits and advances in Q1FY27
-The private sector bank’s deposits rose 14.7% year-on-year, while gross advances increased by 15.4%
+## This luxury hotel stock hasnt moved much from its IPO: Should you buy?
+IPO concerns have eased, but the re-rating case for this well-known hotel brand owner still needs stronger evidence
+
+## India-UK trade pact: Centre notifies rules for determination of origin of goods
+India's Finance Ministry has finalized rules for goods eligible for benefits under the India-UK trade pact, set to begin July 15. This Comprehensive Economic and Trade Agreement (CETA) will grant duty-free access to 99% of Indian exports, boosting sectors like textiles and engineering. Exporters mus
 
 ## Chip by chip: India now world's second largest phone maker; PM Modi lays out 'Make in India' electronics roadmap
 India has ascended to become the world's second-largest mobile phone manufacturer and exporter, Prime Minister Narendra Modi announced, underscoring the nation's commitment to building a comprehensive electronics and semiconductor ecosystem. This strategic push, encompassing chip design, fabrication
@@ -81,8 +84,8 @@ India's first bullet train is set to begin its journey by 2027, with the Surat t
 ## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
 US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
 
-## India eyes $1 trillion exports milestone: Amid global turmoil, which sectors will drive growth? Decoded
-During the April-June quarter, exports saw a 15% growth in merchandise shipments and around 11% in services exports. Which sectors have contributed to exports growth? What role has the PLI scheme played and will trade deals help expedite growth? We decode:
+## E20 opponents to begin sit-in at Jantar Mantar on Sunday against govt's ethanol-blending mandate
+The protest is scheduled to begin at 2 pm and is being billed by organisers as the first of its kind against government's ethanol-bleding mandate.
 
 ## Leadership, AI, rural economy top focus at Chhattisgarh cabinet’s ‘Chintan Shivir’
 Chief minister Vishnu Deo Sai described the training camp as a necessity in changing times, saying governments must continuously learn
@@ -99,37 +102,34 @@ Gurugram traffic police impound bike with 63 pending challans worth ₹5.45 lakh
 ## PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis
 PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
 
-## ‘Galti Kiya Hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
+## ‘Galti kiya hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
 The state Home Department had earlier withdrawn the Z cover of Prasad and his wife Rabri Devi and replaced it with security by the Bihar Special Armed Police.
 
 ## Odisha court convicts 14 women in 23-year-old couple humiliation case
 The victims were allegedly stripped, garlanded with footwear, had their faces blackened, and were forced to walk through the village in broad daylight
 
-## Industry experts defend E20 petrol amid engine damage claims; say fuel safe for older vehicles: ‘Years of testing’
-Clarification came amid growing debate over E20, with even political leaders alleging the ethanol blend led to reduced fuel efficiency and engine problems.
-
-## Inside Dhvani Bhanushali’s 76th-floor Mumbai home with sea views and music studio
+## Jaishankar to travel to West Asia on July 5; US, Europe also on plan
 
 
-## I planned to set up semiconductor factory in India 2 decades ago, but government was shackled then: PM Modi
+## Stretch of road on Bhandup’s LBS Marg caves in, uproots several trees
 
 
-## From poverty in Colombia to World Cup hero, Jhon Arias sends Ghana out
+## ‘No option but to follow SC order’: Court denies bail to Umar Khalid, Sharjeel Imam
 
 
-## RTI amendments: Hazare defers fast, demands rollback despite stay
+## No Williams sisters reunion as Serena pulls out of Wimbledon doubles match
 
 
-## Indian companies in US: $40 billion investment, 425,000 jobs explained
+## Why invasive pufferfish are becoming a nightmare for Greek fishermen
 
 
-## ‘I often think I could have prevented it’: Manipur Chief Minister at slain MLA Vungzagin Valte’s funeral
+## Will maintenance work at Delhi’s major water treatment plant hit your area? Check here
 
 
-## 72nd annual convocation: Minister calls for IIT-Kharagpur’s ‘mentoring role’ in shaping Bengal’s educational landscape
+## ‘It’s ego that’s holding team hostage’: Ibrahimovic slams Cristiano Ronaldo
 
 
-## Sonakshi Sinha-Zaheer Iqbal celebrate inter-faith marriage with ‘Gayatri mantra-Kalma’ art
+## Film festival Parda Faash 3.0 turns spotlight on stories of hope
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup 2026: Best Round of 16 knockout matches to watch
+As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.
+
+## At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza
+A further nine bodies were recovered from under the rubble, according to Gaza's Ministry of Health.
+
+## Iran promotes message of continuity and revenge at Khamenei commemoration
+Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.
+
+## Russian attacks leave trail of destruction across Ukraine
+Russian attacks leave trail of destruction across Ukraine
+
 ## Canada vs Morocco LIVE: FIFA World Cup 2026 last 16
 Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.
 
@@ -263,18 +275,6 @@ A peaceful, supported end-of-life experience — focused on family and closure �
 
 ## Nabatieh recovery begins amid ongoing southern Lebanon tensions
 Nabatieh recovery begins amid ongoing southern Lebanon tensions
-
-## Pope Leo urges migrant protection, integration on visit to Lampedusa
-Pontiff urges people in Europe and US to welcome and assist migrants during symbolic trip to Italy’s frontier island.
-
-## Firefighters race to contain flames in northeastern Spain
-Firefighters race to contain flames in northeastern Spain
-
-## England vs Mexico at Azteca: Kickoff, altitude and weather explained
-The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.
-
-## Thousands protest in Germany as far-right AfD party meets
-Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
