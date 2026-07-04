@@ -24,29 +24,35 @@ There are moments to prioritise other things, but after 18 years of historic eco
 ## Taylor Swift and the allure of a big celebrity wedding
 These magnificent displays of vulgarity and vainglory offer a glimpse into the most private of worlds
 
-## StubHub under investigation over alleged ‘ghost ticketing’ at World Cup
-Texas attorney-general probes whether group is ‘cancelling or failing to provide’ purchases through its website
+## UBS makes progress in its quest for mediocrity in the US
+Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth business by 2028
 
-## Top investors oppose £5.7bn private equity bid for energy group DCC
-Offer from KKR and Bridgepoint subsidiary fails to win support from Ninety One, Aviva Investors and Fidelity International
+## Joseph Joseph co-founder: ‘We built the company from a glass chopping board’
+Richard Joseph on the homeware brand he started with his twin brother
 
-## Directors’ Deals: Burberry’s new reward policy prompts top team to buy in
-Fashion group reports operating profit again under new chief
+## How Bordeaux learnt to take American wine seriously
+The Mondavi-Mouton partnership, Opus One, began as a transatlantic shock — and transformed the reputation of California wine
 
-## Why US exceptionalism in markets is justified
-An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages
+## What happens when an online game dies?
+Games such as ‘Destiny 2’ are more than entertainment products. They are social spaces where friendships, identities and rituals are built
 
-## Shell alleged to have misled UK courts in Nigeria pollution case
-Long-running trial over blighting of Niger Delta due to begin next year
+## The rise of the modern classic car
+Once overlooked, cars from the 1980s are having a moment — but does it make financial sense to buy one?
 
-## Russian shadow tankers avoid English Channel after naval interceptions
-Crackdown by European navies forces sanctioned vessels to take circuitous north Atlantic route around UK
+## PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme
+Modi arrived in Jodhpur and was received at the airport by Governor Haribhau Bagade, Union Minister and Jodhpur MP Gajendra Singh Shekhawat, and Chief Minister Bhajanlal Sharma
 
-## Wealth managers use ‘deliberate obfuscation’ over fees, industry chief warns
-Netwealth boss condemns failure as FCA urges use of ‘plain English’
+## RDI Fund has seen a tremendous response with TDB selecting 22 start-ups to back: Abhay Karandikar
+‘Selection of second-level fund managers on track to be completed by end of this month’
 
-## Trump will oppose heavy US AI regulation, says outgoing tech adviser
-Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
+## Tamil Nadu begins extraction of ammonia gas at seafood export factory in Tiruvallur
+The extraction process, which began at 8 am, is scheduled to conclude by 5 pm, though officials are prepared to extend the operation to Sunday morning if the removal remains incomplete
+
+## Mumbai braces for heavy rains as IMD issues red alert
+Civic officials said that while the metropolis recorded over 100 mm of rain in several parts over the last 24 hours, public transport remains operational
+
+## India's VC ecosystem shifts to monetization-led growth in 2026: Bain
+The report notes that investor behaviour will be guided by firms that demonstrate durable unit economics, predictable revenue models and visible monetization outcomes
 
 ## How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
 How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
@@ -57,20 +63,17 @@ Protean eGov Technologies and NECTAR partner to accelerate technology-led govern
 ## Oil is little changed as Persian Gulf flows near pre-war levels
 Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday
 
-## ADB approves $230 million loan to modernise water supply and sanitation in Chennai
-ADB will help digitally transform water and sanitation services through real-time monitoring, data-driven decision-making, and improved customer responsiveness
+## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
+US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
 
-## Europe has replaced most US cuts within NATO: Commander
-Stringer, a former Royal Air Force fighter pilot, said that in the categories in which Europe couldn’t provide equivalent forces, they’d be looking to match the effect with different assets
+## India eyes $1 trillion exports milestone: Amid global turmoil, which sectors will drive growth? Decoded
+During the April-June quarter, exports saw a 15% growth in merchandise shipments and around 11% in services exports. Which sectors have contributed to exports growth? What role has the PLI scheme played and will trade deals help expedite growth? We decode:
 
-## Rapido founders booked on complaint for operating bike taxi service without permission
-The RTO conducted a special drive against illegal passenger transport on June 23, during which a bike ride was booked through Rapido app from Ravi Bhavan to Priyadarshini Colony for ₹22
+## India allows four Chinese firms into critical power tenders; Congress attacks move
+India has permitted four Chinese power equipment manufacturers with local production to bid on critical government power projects for two years. This relaxation, aimed at accelerating power network expansion and renewable energy integration, follows a power ministry request. The move, however, has d
 
-## India's position on Indus Waters Treaty consistent, it stands in abeyance: MEA
-The treaty, brokered by the World Bank, has governed the distribution and use of the waters of the Indus River and its tributaries between India and Pakistan since 1960
-
-## Securing India’s livestock feed supply chain in a changing climate
-Climate variability is becoming the new normal, and ensuring reliable access to feed ingredients will be essential to protecting livestock productivity
+## 'The Trump economy is soaring': US Prez cites stock market rally, tax cuts ahead of I-Day
+US President Donald Trump declared the American economy is "soaring," citing record stock market highs, increased exports, and investment as proof of a new growth era. He attributed these gains to his administration's tax cuts and trade policies, which he claims put more money in Americans' pockets 
 
 ## AI boom lifts industrial engineers' pay packages
 India's burgeoning AI data-centre sector is creating a surge in demand for mechanical, electrical, and industrial engineers. These professionals, once overlooked, are now commanding significant salaries as companies build energy-intensive AI infrastructure. Roles like cooling specialists and power p
@@ -84,64 +87,52 @@ Commerce Minister Piyush Goyal has called on states to identify import-substitut
 ## SAP tightens hiring, travel as investments in AI zoom
 German software giant SAP is implementing hiring freezes, travel restrictions, and tighter control over external spending to fuel its significant investments in artificial intelligence. The company is prioritizing core AI roles and strategic acquisitions to bolster its AI capabilities. While interna
 
-## Nearly 500 cities set to become next economic hubs: FM Sitharaman
-India's middle class, comprising 31% of the population, is identified as the nation's primary growth engine, driving nearly all consumer spending. This demographic is expanding annually at 6.3% and is increasingly found in tier-two and tier-three cities, not just metropolises. Finance Minister Nirma
+## Ketan Agarwal case probe deepens as new twist emerges from Beed; Siya-Chetan polygraph test opposed
+Pune police are investigating the alleged murder of Pune realtor Ketan Agarwal by his fiancée, Siya Goyal, and her “boyfriend”, Chetan Chaudhary.
 
-## Samsung phones lead in purchase via EMI route
-Contrary to popular belief, Samsung leads India's smartphone sales via easy monthly installments, outpacing even Apple. Vivo and Oppo also show strong performance in this growing financing market. As component costs rise, pushing up device prices, financing is becoming crucial for consumers, especia
+## Delhi woman shares parents' unexpected reaction to her being laid off: ‘Do whatever your heart wants'
+Anukriti Vidyarthi explained that her parents had been proud when she landed the job, making it even harder to tell them she no longer had it.
 
-## Factory floor emerges as new cyber battleground
-Recent cyberattacks on Bajaj Auto and Tata Electronics have underscored the escalating cyber risks for India's manufacturing sector. As factories embrace automation and AI, their increased connectivity creates larger vulnerabilities. Experts warn that these breaches, which can halt production and co
+## Three injured in accidental firing by PAC Jawan at Kashi Vishwanath Temple
+The bullet hit a stone, and the impact shattered it into chips that struck the three local bystanders identified as Nikyni Gupta, Ram Babu and Vikas Yadav, police said.
 
-## Loan growth speeds up in Q1, deposits still lag
-Indian banks witnessed robust credit growth in the June 2026 quarter, with some lenders seeing advances surge significantly. However, a widening gap emerged as deposits declined for select banks like Bank of Baroda, IDBI, and RBL. Public sector banks maintained a steadier credit-deposit growth, whil
+## ‘Ketan case is a reminder’: Rajya Sabha MP calls for National Commission for Men. What's in the Bill he proposed?
+Ashok Kumar Mittal, founder of Lovely Professional University in Punjab, shared video of Parliament from Dec 2025 when he introduced private member's bill
 
-## MHA designates 23 Pakistan-based individuals linked to JeM, LeT as terrorists under UAPA
-The Union home ministry has designated 23 individuals based in Pakistan, associated with Jaish-e-Mohammad (JeM), Lashkar-e-Taiba (LeT) and other outfits, as “terrorists”
+## '1,000 husbands' remark leads court to cut man's life term in wife's murder case: ‘Grave provocation’
+Shiva Kahar, a resident of Chhindwara district's Chaurai block, killed his wife on September 18, 2021, following an argument at their home.
 
-## Delhi govt withdraws WFH arrangement for its employees as West Asia tensions ease
-Delhi govt employees were give work-from-home (WFH) arrangement for Wednesdays and Saturdays amid fuel shortage due to West Asia conflict.
+## Gujarat revises land compensation policy for power transmission projects: Govt
+The decision comes amid an ongoing farmers’ agitation in Morbi district over compensation for land being used for a power transmission project
 
-## BJP MLA Raju Singh urges court to spare him jail term in fatal celebratory firing case
-BJP MLA Raju Singh argued that he committed the offence due to a “lack of scientific knowledge” as he could not have anticipated the parabolic trajectory the fired bullet would take.
+## ‘Govt can’t just wait…': Centre's stern warning, 15-day deadline to Telegram over flooding pirated content
+Telegram app has been asked to furnish details of its grievance redressal system for producers, OTT platforms, and law-enforcement agencies.
 
-## DMK MLA granted bail in defamation case over remarks against Tamil Nadu CM Vijay
-DMK MLA Anitha R Radhakrishnan was granted bail in a case alleging that he made defamatory remarks against the CM of Tamil Nadu C Vijay Joseph
+## Jaipur jeweller attacked, robbed of 8 kg silver, gold and cash by masked men
+The victim, Shankarlal Sharma, owner of Shri Shyam Jewellers in Nangalnadi main market, was returning home on his motorcycle after closing his shop when the attack took place.
 
-## Lok Sabha Speaker Om Birla to decide on TMC, Sena-UBT merger disputes before monsoon session begins
-Twenty rebel TMC MPs are seeking to join the NCPI and another by six Shiv Sena (UBT) lawmakers seeking to merge with the Eknath Shinde-led Shiv Sena faction.
-
-## Who represented India at slain Iran supreme leader Khamenei's funeral? Govt answers
-Khamenei, who served as Iran's supreme leader from 1989, was killed at the age of 86 on the first day of the United States-Israeli war with Iran on February 28.
-
-## Gujarat ‘suicide’ turns into murder: Parents arrested after allegedly forcing son to drink acid, strangling him
-The suicide of a 26-year-old man at his home in Rajkot has turned out to be a murder. Police arrested his parents after the autopsy found death by strangulation
-
-## Court orders FIR against 2 Delhi University professors, another over fake teaching job scam
-The woman alleged that she came into contact with 2 profs at DU who convinced her to shell out ₹1 lakh for publication of research articles, to secure the job.
-
-## ‘Not losing to Spain, Uruguay no coincidence’: Messi hails Cape Verde after Argentina’s narrow escape
+## OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report
 
 
-## IIT Delhi introduces certificate course on Intellectual Property
+## CBSE Class 10 Second Board Exam Result 2026 Live Updates: Marksheets expected soon at cbse.gov.in
 
 
-## Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
+## Bhuj assistant professor recounts month-long ordeal in Congo amid Ebola crisis
 
 
-## Most hotels and B&Bs shut since Delhi B&B fire, Hauz Rani Market awaits customers
+## Aamir Khan-Gauri Spratt Love Story: Two-decade-old friendship to lifelong partnership
 
 
-## From old Delhi to three Michelin stars: The journey of chef Himanshu Saini
+## Mumbai declares afternoon holiday for schools, colleges amid red alert
 
 
-## Why artist Aban Raza is racing to paint India’s renamed cities before they disappear
+## Monaco parcel bombing: Woman disguised as a man is ‘prime suspect’, Interpol issues Red Notice
 
 
-## Satluj movie review: Diljit Dosanjh’s performance gives this film its strength
+## Jodhpur gets a new airport terminal as Modi launches Rs 28,840 cr UDAN scheme. What this means
 
 
-## Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
+## Centre issues notice to Telegram over pirated movies, seeks action in 15 days
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -216,6 +207,9 @@ The rupture between Afghanistan’s Taliban and their erstwhile allies in Pakist
 ## What the ‘Mother of All Trade Deals’ Learned From the India-ASEAN FTA
 India has spent the last 16 years paying for its trade deal with ASEAN. The India-EU FTA would not repeat those mistakes.
 
+## Happy 250th Birthday, America!
+Editor’s Note: Few rivalries in American history have been as consequential — or as personal — as the one between John Adams and Thomas Jefferson. The two men could hardly have been more different. Adams, the stocky and combative Massachusetts lawyer, was blunt to a fault and quick to suspicion. Jef
+
 ## The Integrated Circuit and the Future of AI Leadership
 Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
@@ -236,9 +230,6 @@ In 1990, the idea that deployed commanders could access the latest intelligence 
 
 ## The Hizballah Predicament: Why An Integrated Approach Is Necessary
 What can leaders do about a transnational organization that is a militia, a political party, a social services network, and a smuggling operation at the same time — and one that has resisted various dialogues and survived repeated attacks?American, Lebanese, and other leaders should recognize Hizbal
-
-## The Three Nevers: To Invade Taiwan, China Would Have to Make Military History Thrice
-The amphibious invasion of Normandy on June 6, 1944, remains the largest and most complex amphibious operation in history. On the first day alone, Allied forces landed eight divisions, including five amphibious assault and three airborne, totaling roughly 160,000 personnel. That force more than doub
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -264,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump praises army, rails against communism in US 250th anniversary speech
+At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms.
+
+## At 250, America is still deciding who belongs
+Birthright citizenship survived, but the fight over who is fully recognised as American is far from over.
+
+## France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff
+France have been the best team so far at the World Cup, although Paraguay are confident after upsetting Germany.
+
+## Could Israel really build settlements in Gaza?
+After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.
+
+## Trump calls communism a ‘mortal threat’ at US 250th birthday event
+Trump calls communism a ‘mortal threat’ at US 250th birthday event.
+
 ## FIFA World Cup: Round of 16 match schedule and which teams qualified
 Full list of teams in the World Cup's last-16, who they play for a place in the quarterfinals and match start times.
 
@@ -272,21 +278,6 @@ For many young Rwandans, Liberation Day is as much about the future as the past.
 
 ## Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana
 The World Cup round of 32 ends with Colombia beating Ghana 1-0, as Jhon Arias sends the South Americans through.
-
-## Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team
-Despite the ups and downs between the two World Cups, Morocco have once again risen as the top Arab and African team.
-
-## ‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official
-Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, 'El Obeid crisis could be worse than El Fasher'.
-
-## Ronaldo sends message to Venezuelan earthquake survivor
-Cristiano Ronaldo has sent a message to a young Venezuelan earthquake survivor, recovering in hospital.
-
-## Messi scores again but Argentina given World Cup upset fright by Cape Verde
-Lionel Messi opens scoring but Argentina taken to extra time by Cape Verde, which threatened greatest World Cup upset.
-
-## Egypt coach dedicates World Cup win to Palestine as Gaza celebrates
-Fans in Gaza celebrated Egypt's win at match screenings held against the backdrop of bombed buildings.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
