@@ -84,6 +84,9 @@ India's first bullet train is set to begin its journey by 2027, with the Surat t
 ## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
 US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
 
+## PM Modi's 'sun rahe ho na Binod' remark during Gujarat event has audience in splits | Watch
+PM Modi was speaking in Sanand, Gujarat where he inaugurated the CG Semi Outsourced Semiconductor Assembly and Test facility.
+
 ## E20 opponents to begin sit-in at Jantar Mantar on Sunday against govt's ethanol-blending mandate
 The protest is scheduled to begin at 2 pm and is being billed by organisers as the first of its kind against government's ethanol-bleding mandate.
 
@@ -105,31 +108,28 @@ PM Modi thanked citizens for standing firmly with the country during what he des
 ## ‘Galti kiya hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
 The state Home Department had earlier withdrawn the Z cover of Prasad and his wife Rabri Devi and replaced it with security by the Bihar Special Armed Police.
 
-## Odisha court convicts 14 women in 23-year-old couple humiliation case
-The victims were allegedly stripped, garlanded with footwear, had their faces blackened, and were forced to walk through the village in broad daylight
+## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
+
+
+## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Mbappe resumes Golden Boot race
+
+
+## Sooryavanshi’s shows glimpses on debut, but Bethell ensures England get the win
+
+
+## Maahi gets candid about attending Shaan’s concerts: ‘Grown ladies going berserk’; expert weighs in
+
+
+## J&K pulls school library books over content ‘glorifying’ separatist leaders, suspends 8 officials
+
+
+## Security guard dies by suicide at Pune’s Ammunition Factory Khadki
+
+
+## 58-year-old man arrested for rape of toddler in Ghaziabad
+
 
 ## Jaishankar to travel to West Asia on July 5; US, Europe also on plan
-
-
-## Stretch of road on Bhandup’s LBS Marg caves in, uproots several trees
-
-
-## ‘No option but to follow SC order’: Court denies bail to Umar Khalid, Sharjeel Imam
-
-
-## No Williams sisters reunion as Serena pulls out of Wimbledon doubles match
-
-
-## Why invasive pufferfish are becoming a nightmare for Greek fishermen
-
-
-## Will maintenance work at Delhi’s major water treatment plant hit your area? Check here
-
-
-## ‘It’s ego that’s holding team hostage’: Ibrahimovic slams Cristiano Ronaldo
-
-
-## Film festival Parda Faash 3.0 turns spotlight on stories of hope
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week
+The visit would mark Netanyahu's seventh visit to the US since Trump returned to office for a second term as president.
+
+## Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal
+The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.
+
+## France vs Paraguay LIVE: FIFA World Cup 2026 last 16
+Live coverage and text commentary stream updates as Mbappe's France face Paraguay in the Round of 16 knockout game.
+
+## Police clash with protesters outside AfD meeting
+German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention
+
 ## FIFA World Cup 2026: Best Round of 16 knockout matches to watch
 As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.
 
@@ -263,18 +275,6 @@ Iran will be shut down on Sunday and Monday to encourage more mourners to join f
 
 ## Russian attacks leave trail of destruction across Ukraine
 Russian attacks leave trail of destruction across Ukraine
-
-## Canada vs Morocco LIVE: FIFA World Cup 2026 last 16
-Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.
-
-## Brain drain leaves Yemen’s health sector in tatters and millions helpless
-Yemen's health professionals have been leaving the country in search of higher income and a safer working environment.
-
-## Why closure matters at the end of life
-A peaceful, supported end-of-life experience — focused on family and closure — can transform both dying and grieving.
-
-## Nabatieh recovery begins amid ongoing southern Lebanon tensions
-Nabatieh recovery begins amid ongoing southern Lebanon tensions
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
