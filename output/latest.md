@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## Iran begins mourning for Khamenei under tight security
-Dignitaries from more than 100 nations pay respects to slain supreme leader ahead of official funeral
+## Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US
+President kicked off 250th anniversary events with a preview of a likely line of attack against Democrats in coming elections
 
-## Andy Burnham says he will retain UK’s pension triple lock
-Keir Starmer’s likely successor also faced a question from Tory leader Kemi Badenoch during Reddit ‘ask me anything’ session
+## America at 250: What does the US see when it looks in the mirror?
+As a nation of impossible ambition celebrates its founding, a special edition of FT Weekend Magazine asks writers, thinkers and leaders to reflect on the first 250 years
 
-## Conservative Keiko Fujimori wins knife-edge election in Peru
-Daughter of autocrat vows to boost private investment in mining sector while taking a tough line on crime
+## UK farmers embrace regenerative methods after heatwave shock
+High temperatures are leading farmers to cut out chemicals and intensive ploughing to improve soil quality so it retains water
 
-## Romanians sentenced in London for Iran-directed attack on journalist
-The two men were found to have stabbed opposition-supporting Pouria Zeraati on a Wimbledon street
+## Good vibes are masking a reset in markets
+Stock market returns should not distract investors from the new AI trade taking hold
 
-## An American birthday worth celebrating
-Though its founding ideals are threatened, the US has the capacity for renewal
+## It is investors vs gamers as Sony ditches discs
+The move is being presented as zeitgeist rather than greedy rent extraction
 
-## Why US exceptionalism in markets is justified
-An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages
+## Lack of data puts England’s ‘mansion tax’ valuations at risk
+Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
-## Shell alleged to have misled UK courts in Nigeria pollution case
-Long-running trial over blighting of Niger Delta due to begin next year
+## Burnham must learn from Starmer’s failures on UK growth
+There are moments to prioritise other things, but after 18 years of historic economic slowdown this is not one of them
 
-## Sitdown in Sintra
-Chair Kevin Warsh gave little away on the direction of Fed rates at the ECB’s annual gathering of central bankers
+## Taylor Swift and the allure of a big celebrity wedding
+These magnificent displays of vulgarity and vainglory offer a glimpse into the most private of worlds
 
 ## StubHub under investigation over alleged ‘ghost ticketing’ at World Cup
 Texas attorney-general probes whether group is ‘cancelling or failing to provide’ purchases through its website
@@ -33,6 +33,12 @@ Offer from KKR and Bridgepoint subsidiary fails to win support from Ninety One, 
 ## Directors’ Deals: Burberry’s new reward policy prompts top team to buy in
 Fashion group reports operating profit again under new chief
 
+## Why US exceptionalism in markets is justified
+An honest conclusion is that America’s centrality rests on a set of mutually reinforcing advantages
+
+## Shell alleged to have misled UK courts in Nigeria pollution case
+Long-running trial over blighting of Niger Delta due to begin next year
+
 ## Russian shadow tankers avoid English Channel after naval interceptions
 Crackdown by European navies forces sanctioned vessels to take circuitous north Atlantic route around UK
 
@@ -42,29 +48,29 @@ Netwealth boss condemns failure as FCA urges use of ‘plain English’
 ## Trump will oppose heavy US AI regulation, says outgoing tech adviser
 Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
 
-## Prime Minister Modi to visit Indonesia, Australia, New Zealand for bilateral talks
-Will also engage with Indian diaspora, participate in business outreach events
+## How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
+How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
 
-## India-Japan: Strengthening bonds
+## Protean eGov Technologies and NECTAR partner to accelerate technology-led governance and inclusive development
+Protean eGov Technologies and NECTAR partner to accelerate technology-led governance and inclusive development
 
+## Oil is little changed as Persian Gulf flows near pre-war levels
+Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday
 
-## Nestle India bets on deeper penetration in tier-2, tier-3 towns where consumption is rising faster: CMD
-Food inflation reshaped household choices in ways that went far beyond prices as families reconsidered pack sizes, purchase frequencies and category priorities in FY26 : Nestle India CMD Manish Tiwary
+## ADB approves $230 million loan to modernise water supply and sanitation in Chennai
+ADB will help digitally transform water and sanitation services through real-time monitoring, data-driven decision-making, and improved customer responsiveness
 
-## Adani Enterprises raises ₹15,000 cr as QIP draws 3.8x subscription
-The flagship Adani Group company’s QIP, which opened on July 2, was priced at ₹2,883 per equity share
+## Europe has replaced most US cuts within NATO: Commander
+Stringer, a former Royal Air Force fighter pilot, said that in the categories in which Europe couldn’t provide equivalent forces, they’d be looking to match the effect with different assets
 
-## Storage in India’s major reservoirs drops to 26% of capacity
-33% deficient monsoon drags dams level, though the deficiency has shrunk for over 40% a week ago
+## Rapido founders booked on complaint for operating bike taxi service without permission
+The RTO conducted a special drive against illegal passenger transport on June 23, during which a bike ride was booked through Rapido app from Ravi Bhavan to Priyadarshini Colony for ₹22
 
-## Monsoon turns fierce: Four-day rain blitz targets West, Central India
-The Bay ‘low’ may intensify into a more marked system in next two days after moving fully over the sea, where warmer waters will fuel its strength
+## India's position on Indus Waters Treaty consistent, it stands in abeyance: MEA
+The treaty, brokered by the World Bank, has governed the distribution and use of the waters of the Indus River and its tributaries between India and Pakistan since 1960
 
-## ACME to invest $1 billion to supply green methanol to Japan’s Mitsubishi Gas Chemical
-Deal puts India on the Global Green shipping map, anchoring long-term export demand for Clean Marine Fuels
-
-## ‘Titan unfazed by global headwinds, sees bigger long-term opportunity’
-FY26 was a landmark year for Titan, says Managing Director Ajoy Chawla
+## Securing India’s livestock feed supply chain in a changing climate
+Climate variability is becoming the new normal, and ensuring reliable access to feed ingredients will be essential to protecting livestock productivity
 
 ## AI boom lifts industrial engineers' pay packages
 India's burgeoning AI data-centre sector is creating a surge in demand for mechanical, electrical, and industrial engineers. These professionals, once overlooked, are now commanding significant salaries as companies build energy-intensive AI infrastructure. Roles like cooling specialists and power p
@@ -90,53 +96,59 @@ Recent cyberattacks on Bajaj Auto and Tata Electronics have underscored the esca
 ## Loan growth speeds up in Q1, deposits still lag
 Indian banks witnessed robust credit growth in the June 2026 quarter, with some lenders seeing advances surge significantly. However, a widening gap emerged as deposits declined for select banks like Bank of Baroda, IDBI, and RBL. Public sector banks maintained a steadier credit-deposit growth, whil
 
-## Tomato prices firm up as heat damages summer crop
-New Delhi: Tomato prices are rising again after excessive heat damaged the summer crop in key producing regions, tightening supplies during the lean season
+## MHA designates 23 Pakistan-based individuals linked to JeM, LeT as terrorists under UAPA
+The Union home ministry has designated 23 individuals based in Pakistan, associated with Jaish-e-Mohammad (JeM), Lashkar-e-Taiba (LeT) and other outfits, as “terrorists”
 
-## A 700-year old Banyan tree in Bihar's Munger just entered history books, here's why
-A banyan tree in Bihar's Munger, estimated to be around 700 years old, has been identified as the oldest accurately dated banyan tree using radiocarbon dating.
+## Delhi govt withdraws WFH arrangement for its employees as West Asia tensions ease
+Delhi govt employees were give work-from-home (WFH) arrangement for Wednesdays and Saturdays amid fuel shortage due to West Asia conflict.
 
-## India reacts cautiously to Dhaka’s plan to develop Teesta river with China
-India’s views on the Teesta river project “have been previously conveyed to the Bangladesh side, external affairs ministry spokesperson Randhir Jaiswal said
+## BJP MLA Raju Singh urges court to spare him jail term in fatal celebratory firing case
+BJP MLA Raju Singh argued that he committed the offence due to a “lack of scientific knowledge” as he could not have anticipated the parabolic trajectory the fired bullet would take.
 
-## 'Siya, Chetan used sign, coded language in chats': Cops reveal while asking for extended police custody
-Siya and Chetan are accused of pushing Ketan to death from Lohagad Fort in Pune on June 18.
+## DMK MLA granted bail in defamation case over remarks against Tamil Nadu CM Vijay
+DMK MLA Anitha R Radhakrishnan was granted bail in a case alleging that he made defamatory remarks against the CM of Tamil Nadu C Vijay Joseph
 
-## India seeks Venezuela probe into missing organs of dead seafarer
-Rakesh Chauhan, 33, died in the Venezuelan state of Falcón on May 7 after a heart attack, according to a death certificate issued by a medical facility
+## Lok Sabha Speaker Om Birla to decide on TMC, Sena-UBT merger disputes before monsoon session begins
+Twenty rebel TMC MPs are seeking to join the NCPI and another by six Shiv Sena (UBT) lawmakers seeking to merge with the Eknath Shinde-led Shiv Sena faction.
 
-## India asks Venezuela to probe sailor’s death after autopsy reveals missing organs
-Rakesh Chauhan, 33, died in the Venezuelan state of Falcón on May 7 after a heart attack, according to a death certificate issued by a medical facility
+## Who represented India at slain Iran supreme leader Khamenei's funeral? Govt answers
+Khamenei, who served as Iran's supreme leader from 1989, was killed at the age of 86 on the first day of the United States-Israeli war with Iran on February 28.
 
-## WB CM Adhikary promises policy reforms to boost industrialisation
-West Bengal chief minister Subhendu Adhikary has set up a four-member committee, led by Bengal’s new Industries Minister Tapas Ray, to propose a new industrial policy.
+## Gujarat ‘suicide’ turns into murder: Parents arrested after allegedly forcing son to drink acid, strangling him
+The suicide of a 26-year-old man at his home in Rajkot has turned out to be a murder. Police arrested his parents after the autopsy found death by strangulation
 
-## Govt orders Apple and Google to remove 7 mobile apps that stall e-rickshaws
-Govt says continued hosting of the apps is a potential legal violation that could strip Apple, Google of the legal immunity they enjoy as intermediaries
+## Court orders FIR against 2 Delhi University professors, another over fake teaching job scam
+The woman alleged that she came into contact with 2 profs at DU who convinced her to shell out ₹1 lakh for publication of research articles, to secure the job.
 
-## 40 years ago, July 4, 1986: NCR public unit offices to go
-
-
-## Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag
+## ‘Not losing to Spain, Uruguay no coincidence’: Messi hails Cape Verde after Argentina’s narrow escape
 
 
-## As Prashant Kishor eyes debut from Nitin Nabin seat, why it may make or break JSP
+## IIT Delhi introduces certificate course on Intellectual Property
 
 
-## Argentina survive Cape Verde scare with 111th-minute winner
+## Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
 
 
-## Punjab Congress row: 20 MLAs, former legislators turn up at Channi’s residence
+## Most hotels and B&Bs shut since Delhi B&B fire, Hauz Rani Market awaits customers
 
 
-## Sukhjinder Singh Randhawa meets Amit Shah; denies buzz of rift in Congress
+## From old Delhi to three Michelin stars: The journey of chef Himanshu Saini
 
 
-## Externed for protests, home after 7 months: Journey of SDPI leader Saeed Ahmed Abdul Wahid Choudhary behind HC ruling
+## Why artist Aban Raza is racing to paint India’s renamed cities before they disappear
 
 
-## FM Nirmala Sitharaman at a panel talk in France: Middle class consumption powering India’s economic growth
+## Satluj movie review: Diljit Dosanjh’s performance gives this film its strength
 
+
+## Centre names 23 Jaish, Lashkar operatives as terrorists, cites J-K attack links
+
+
+## Caution on land tenders key to Hong Kong’s property recovery: analysts
+As Hong Kong moves forward with its huge new Northern Metropolis development zone, analysts argue the government should take a cautious approach to land sales to help sustain the recent recovery in the residential property market. The large-scale project near the border with the Chinese mainland con
+
+## Why Citigroup CEO Jane Fraser left the US-China summit feeling optimistic
+For Citigroup’s global CEO Jane Fraser, her time in Beijing last month meant far more than a handshake and photograph with heads of state. Fraser was among 17 business leaders US President Donald Trump invited to China as part of his three-day visit to Beijing from May 13 to May 15. Standing on the 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
 Chinese autonomous-driving start-up Momenta drew massive subscription numbers for its HK$5.89 billion (US$751 million) initial public offering in Hong Kong, even as it competed against five other issuers launching their IPOs at the same time. The Suzhou-based company’s bookbuilding closed on Friday.
@@ -155,12 +167,6 @@ Hong Kong’s latest pledge to deepen the use of the yuan in corporate financing
 
 ## AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say
 A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday. Spooked investors interpreted a potential pivot by Meta Platform
-
-## Mainland investors in buying mood for Hong Kong shares, favouring SMIC, Zhipu AI
-Investors in mainland China turned into buyers of Hong Kong stocks in June, defying weakness on the broader market as they bought on dips by artificial-intelligence plays including Semiconductor Manufacturing International Corp (SMIC) and Knowledge Atlas Technology. Onshore investors bought a combin
-
-## Hong Kong’s first Northern Metropolis pilot project draws only two bids
-Only two bids were submitted on Friday for Hong Kong’s Northern Metropolis pilot project, with Henderson Land Development and Sino Land joining five partners in a consortium including JD.com and four mainland state-backed developers. The Development Bureau said it had received two bids by the tender
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -258,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup: Round of 16 match schedule and which teams qualified
+Full list of teams in the World Cup's last-16, who they play for a place in the quarterfinals and match start times.
+
+## Thirty-two years on, young Rwandans reflect on progress, pain and hope
+For many young Rwandans, Liberation Day is as much about the future as the past.
+
+## Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana
+The World Cup round of 32 ends with Colombia beating Ghana 1-0, as Jhon Arias sends the South Americans through.
+
+## Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team
+Despite the ups and downs between the two World Cups, Morocco have once again risen as the top Arab and African team.
+
+## ‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official
+Mukesh Kapila, ex-UN Humanitarian Coordinator for Sudan warns that, 'El Obeid crisis could be worse than El Fasher'.
+
+## Ronaldo sends message to Venezuelan earthquake survivor
+Cristiano Ronaldo has sent a message to a young Venezuelan earthquake survivor, recovering in hospital.
+
 ## Messi scores again but Argentina given World Cup upset fright by Cape Verde
 Lionel Messi opens scoring but Argentina taken to extra time by Cape Verde, which threatened greatest World Cup upset.
 
 ## Egypt coach dedicates World Cup win to Palestine as Gaza celebrates
 Fans in Gaza celebrated Egypt's win at match screenings held against the backdrop of bombed buildings.
-
-## England vs Mexico World Cup knockout match to go ahead as scheduled
-No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.
-
-## Iran war live: Millions expected in Tehran for funeral of Ali Khamenei
-Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.
-
-## Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters
-Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.
-
-## Egypt say Dallas police officer pushed player, team director at World Cup
-A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.
-
-## Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash
-Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.
-
-## Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash
-Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's quake response.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
@@ -306,6 +312,9 @@ HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effect
 ## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
 Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
 
+## China's warning reveals what really happened at Modi-Takaichi summit
+India and Japan's recent summit in Delhi has sparked concern in Beijing. Agreements on defense, critical minerals, and AI signal a strategic shift, prompting China to caution against "exclusive small groupings." The summit's focus on economic security, diversified supply chains, and defense co-devel
+
 ## Banks register rise in NRI deposits under RBI's new scheme
 Banks have registered a gradual increase in the flow of overseas funds after the rollout of the Reserve Bank of India's (RBI) revised Foreign Currency Non-Resident Bank (FCNR-B) deposit scheme, and expect collections to accelerate further this month as awareness among NRIs is growing.
 
@@ -326,7 +335,4 @@ The Reserve Bank of India has issued a stark warning regarding the increasing in
 
 ## India plans to add strategic fuel reserves after Iran war shock
 This ambitious move follows a review of existing, limited stockpiles and includes expanding underground crude storage and addressing the challenges of storing gas.
-
-## RBI compounds FEMA violations in Touras India case
-The Reserve Bank of India (RBI) has issued a compounding order under Section 15 of the Foreign Exchange Management Act (FEMA), in the case of Touras India Private Limited, which has resulted in the termination of proceedings against the company for contraventions of the law's provisions with a one-t
 
