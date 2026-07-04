@@ -36,32 +36,44 @@ Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth busines
 ## Lack of data puts England’s ‘mansion tax’ valuations at risk
 Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
+## No full runway closure at Srinagar Airport; relief for tourism, trade
+The decision spares travelers from major disruptions during the busy season
+
+## Tribe Amrapali to add up to 10 stores this year, bets on airports as silver demand rises
+The company operates 39 Tribe Amrapali stores and 15 Amrapali outlets nationwide while expanding its manufacturing capabilities
+
+## No issue with old vehicles after ethanol blending raised to 20%, claims auto industry
+Maruti Suzuki’s Rahul Bharti said that its E20 compliant vehicles, those rolled out from 2023, are also ready to absorb higher blend
+
+## Engineers from 4 countries & India’s young workforce help launch CG Semi’s OSAT facility in Gujarat
+Modi said the back-to-back commissioning of semiconductor facilities by Micron, Kaynes Semicon and now CG Semi in Sanand marks the emergence of a semiconductor manufacturing cluster in India
+
+## SB Selvakumaran appointed as Station Director of Madras Atomic Power Station
+He replaces M Seshaiah
+
+## Laser Power & Infra’s ₹742 crore IPO to open on July 9
+The IPO includes a fresh equity issue of ₹542 crore and an offer for sale of up to ₹200 crore by promoter shareholders
+
 ## India-Israel bilateral investment pact comes into effect
 The pact is expected to boost cross-border investment by protecting two-way investments, according to the finance ministry
 
 ## Pvt sector banks log robust growth in deposits and advances in Q1FY27
 The private sector bank’s deposits rose 14.7% year-on-year, while gross advances increased by 15.4%
 
-## India-Canada FTA negotiations may be conclude in six months: Goyal
-India-Peru FTA talks have hit a snag over market access concerns in some sectors
+## Chip by chip: India now world's second largest phone maker; PM Modi lays out 'Make in India' electronics roadmap
+India has ascended to become the world's second-largest mobile phone manufacturer and exporter, Prime Minister Narendra Modi announced, underscoring the nation's commitment to building a comprehensive electronics and semiconductor ecosystem. This strategic push, encompassing chip design, fabrication
 
-## Australia-India partnership in trade, defence, tech delivering results: Albanese
-Modi-Albanese summit meet in Melbourne to focus on deepening comprehensive strategic partnership; CECA talks expected to gather momentum
+## 'Criticism is welcome, rumours are not': Puri on E20 fuel buzz, engine damage claims
+Union Minister Hardeep Singh Puri has addressed social media concerns regarding ethanol-blended fuel, dismissing claims of pest attraction and engine damage. He emphasized that ethanol usage is a century-old concept and highlighted past government efforts. Recent tests by ARAI and OEMs indicate a mi
 
-## I&B Ministry directs Telegram to take action against channels circulating pirated content
-The platform has been asked to strengthen systems for detection, reporting, disabling access to and removal of pirated films and infringing audio-visual content
-
-## AP govt to take up gold exploration in Kuppam for a mining project
-Naidu said the proposed gold exploration would complement the region’s broader industrial development strategy and generate employment opportunities
-
-## Think. Over the week
-
-
-## “Dealers, OEMs on the frontline to address consumer complaints on E20, says govt”
-The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
+## Is E20 fuel safe for your vehicle? Here's what experts say
+Concerns surrounding E20 ethanol-blended petrol are being addressed by industry experts, who assure its safety for all vehicles, including older models. Years of rigorous scientific testing and consultations with automakers have confirmed its efficacy. This nationwide rollout aims to significantly r
 
 ## Beyond Hormuz: What HPCL Rajasthan Refinery Limited means for India's energy future
 India is bolstering its energy security following the Strait of Hormuz disruption. Prime Minister Modi inaugurated the HPCL Rajasthan Refinery, a crucial step towards self-reliance for a nation heavily reliant on oil imports. This project, alongside other development initiatives, aims to strengthen 
+
+## Centre raises onion procurement price by 13% — here's why
+The government has increased its onion procurement price to Rs 2,125 per quintal, a 13% jump, to boost farmer earnings and accelerate buffer stock building. This marks the fifth revision this season amidst sluggish procurement. Despite this, domestic availability remains stable with adequate stocks 
 
 ## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
 India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
@@ -72,19 +84,19 @@ US President Donald Trump has lauded India's robust economic growth, a significa
 ## India eyes $1 trillion exports milestone: Amid global turmoil, which sectors will drive growth? Decoded
 During the April-June quarter, exports saw a 15% growth in merchandise shipments and around 11% in services exports. Which sectors have contributed to exports growth? What role has the PLI scheme played and will trade deals help expedite growth? We decode:
 
-## India allows four Chinese firms into critical power tenders; Congress attacks move
-India has permitted four Chinese power equipment manufacturers with local production to bid on critical government power projects for two years. This relaxation, aimed at accelerating power network expansion and renewable energy integration, follows a power ministry request. The move, however, has d
+## Leadership, AI, rural economy top focus at Chhattisgarh cabinet’s ‘Chintan Shivir’
+Chief minister Vishnu Deo Sai described the training camp as a necessity in changing times, saying governments must continuously learn
 
-## 'The Trump economy is soaring': US Prez cites stock market rally, tax cuts ahead of I-Day
-US President Donald Trump declared the American economy is "soaring," citing record stock market highs, increased exports, and investment as proof of a new growth era. He attributed these gains to his administration's tax cuts and trade policies, which he claims put more money in Americans' pockets 
+## Trust on trial: How the Bangalore crèche case has shaken working parents
+The purported abuse of toddlers at a Capgemini daycare has shaken working parents' trust in childcare centres, prompting many to question what is truly safe
 
-## AI boom lifts industrial engineers' pay packages
-India's burgeoning AI data-centre sector is creating a surge in demand for mechanical, electrical, and industrial engineers. These professionals, once overlooked, are now commanding significant salaries as companies build energy-intensive AI infrastructure. Roles like cooling specialists and power p
+## Modi govt eyeing Constitutional amendments as monsoon session nears: The math, politics and fears — decoded
+“Despite many efforts, they didn't get a two-thirds majority... They're splitting parties,” Congress gen secy Jairam Ramesh said; monsoon session begins July 20
 
-## HCLTech wins $1.1bn AI-led deal with Mercedes
-HCLTech's stock surged almost 6% following the announcement of a massive $1.1 billion deal with a European Fortune Global 50 company, widely believed to be Mercedes-Benz. This significant AI-led agreement, set to run for five years with an extension option, will see HCLTech revamp the automaker's gl
+## One bike, 5 dozen pending challans, lakhs pending in fine: Gurugram traffic police's rare find, impounded
+Gurugram traffic police impound bike with 63 pending challans worth ₹5.45 lakh
 
-## PM Modi lauds '140 crore Indians' for defeating attempts to destabilise nation amid US-Iran war-induced energy crisis
+## PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis
 PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
 
 ## ‘Galti Kiya Hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
@@ -96,40 +108,28 @@ The victims were allegedly stripped, garlanded with footwear, had their faces bl
 ## Industry experts defend E20 petrol amid engine damage claims; say fuel safe for older vehicles: ‘Years of testing’
 Clarification came amid growing debate over E20, with even political leaders alleging the ethanol blend led to reduced fuel efficiency and engine problems.
 
-## Ending weeks of silence, Mamata praises 'original' TMC supporters for not 'seeking shelter in BJP'
-In a video message, Mamata Banerjee reiterated her claim that the BJP won the elections in Bengal by poll rigging.
-
-## Manipur CM visits Churachandpur for funeral of BJP MLA, first since 2023 violence
-CM’s visit to Churachandpur amid the boycott imposed by several Kuki bodies was the first since the May 3, 2023 clash
-
-## Bill for PM, CM removal over 30-day jail, row over Rajnath's ‘lie’ may dominate Parliament monsoon session from July 20
-Modi govt could not make constitutional amendments in last session as it did not have numbers for that. Defections have changed the math a bit since.
-
-## India-Israel bilateral investment agreement comes into force to boost trade
-The BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate, Union finance ministry said.
-
-## ‘Don’t need Singham or Pushpa’: BJP MLA gets 4-year jail in death due to celebratory firing case
+## Inside Dhvani Bhanushali’s 76th-floor Mumbai home with sea views and music studio
 
 
-## Why the Panenka, the original and first copies, remain a delight to watch
+## I planned to set up semiconductor factory in India 2 decades ago, but government was shackled then: PM Modi
 
 
-## Disha Patani praises Akshay Kumar’s work ethic: ‘So grounded’; experts weigh in
+## From poverty in Colombia to World Cup hero, Jhon Arias sends Ghana out
 
 
-## List of US presidents: From George Washington to Donald Trump and their legacy
+## RTI amendments: Hazare defers fast, demands rollback despite stay
 
 
-## He crossed the LoC for love. A month later, he was sent back to PoK
+## Indian companies in US: $40 billion investment, 425,000 jobs explained
 
 
-## UPSC Key: Tiger reserves restoration, FDC drugs, and US turns 250
+## ‘I often think I could have prevented it’: Manipur Chief Minister at slain MLA Vungzagin Valte’s funeral
 
 
-## Kajal Aggarwal backs Deepika Padukone’s 8-hour shift demand: ‘Have similar clauses in my contract’
+## 72nd annual convocation: Minister calls for IIT-Kharagpur’s ‘mentoring role’ in shaping Bengal’s educational landscape
 
 
-## Woman doctor dies after jumping from 24th floor in Pune’s Ravet
+## Sonakshi Sinha-Zaheer Iqbal celebrate inter-faith marriage with ‘Gayatri mantra-Kalma’ art
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
