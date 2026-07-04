@@ -84,6 +84,9 @@ India's first bullet train is set to begin its journey by 2027, with the Surat t
 ## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
 US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
 
+## Jaishankar to travel to West Asia, US and Belgium
+Jaishankar will travel to New York to launch on July 13 India’s official campaign for non-permanent membership of the UN Security Council during 2028-29.
+
 ## PM Modi's 'sun rahe ho na Binod' remark during Gujarat event has audience in splits | Watch
 PM Modi was speaking in Sanand, Gujarat where he inaugurated the CG Semi Outsourced Semiconductor Assembly and Test facility.
 
@@ -105,16 +108,19 @@ Gurugram traffic police impound bike with 63 pending challans worth ₹5.45 lakh
 ## PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis
 PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
 
-## ‘Galti kiya hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
-The state Home Department had earlier withdrawn the Z cover of Prasad and his wife Rabri Devi and replaced it with security by the Bihar Special Armed Police.
+## CBI arrests former CFO of Reliance Capital in bank fraud case
+
+
+## Narendra Modi greets Donald Trump, people of US on 250th anniversary of independence
+
 
 ## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
 
 
-## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Mbappe resumes Golden Boot race
+## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Line ups announced; FRA make one change
 
 
-## Sooryavanshi’s shows glimpses on debut, but Bethell ensures England get the win
+## Sooryavanshi shows glimpses on debut, but Bethell ensures England get the win
 
 
 ## Maahi gets candid about attending Shaan’s concerts: ‘Grown ladies going berserk’; expert weighs in
@@ -124,12 +130,6 @@ The state Home Department had earlier withdrawn the Z cover of Prasad and his wi
 
 
 ## Security guard dies by suicide at Pune’s Ammunition Factory Khadki
-
-
-## 58-year-old man arrested for rape of toddler in Ghaziabad
-
-
-## Jaishankar to travel to West Asia on July 5; US, Europe also on plan
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## A politically charged holiday: The US celebrates its 250th anniversary
+The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.
+
+## America’s Indigenous Legacy
+The Potomac isn't just the name of a river, it's part of a much older story. Al Jazeera's Emma Withrow explains.
+
+## Has the US reckoned with its own history?
+Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is sliding backwards on civil rights.
+
+## Will economic pressure move the Kremlin towards talks with Kyiv?
+Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.
+
+## At least 20 drown as boat carrying students after exams sinks in DR Congo
+Witnesses say the boat may have been carrying more than 200 passengers.
+
+## Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’
+Dmitry Medvedev says Iran’s ability to disrupt traffic in the Strait of Hormuz is equivalent to possession of a nuclear.
+
 ## Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week
 The visit would mark Netanyahu's seventh visit to the US since Trump returned to office for a second term as president.
 
 ## Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal
 The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.
-
-## France vs Paraguay LIVE: FIFA World Cup 2026 last 16
-Live coverage and text commentary stream updates as Mbappe's France face Paraguay in the Round of 16 knockout game.
-
-## Police clash with protesters outside AfD meeting
-German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention
-
-## FIFA World Cup 2026: Best Round of 16 knockout matches to watch
-As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.
-
-## At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza
-A further nine bodies were recovered from under the rubble, according to Gaza's Ministry of Health.
-
-## Iran promotes message of continuity and revenge at Khamenei commemoration
-Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.
-
-## Russian attacks leave trail of destruction across Ukraine
-Russian attacks leave trail of destruction across Ukraine
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
