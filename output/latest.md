@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Iran mourners demand revenge at ayatollah’s funeral
+The week-long remembrance is intended to demonstrate public support for the regime
+
+## US clean power prices set to soar as AI demand coincides with subsidy cuts
+Clean power purchase agreements, favoured by companies like Google and Meta, expected to rise sharply as Biden-era support ends
+
 ## ‘Heat dome’ over eastern US sends electricity prices soaring
 More than 800,000 households left without power after storms and temperatures near 40C straining utility grids
 
@@ -18,11 +24,8 @@ Stock market returns should not distract investors from the new AI trade taking 
 ## It is investors vs gamers as Sony ditches discs
 The move is being presented as zeitgeist rather than greedy rent extraction
 
-## Lack of data puts England’s ‘mansion tax’ valuations at risk
-Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
-
-## Burnham must learn from Starmer’s failures on UK growth
-There are moments to prioritise other things, but after 18 years of historic economic slowdown this is not one of them
+## How BlueCrest’s Michael Platt fell foul of the UK taxman
+The billionaire hedge fund manager has a history of making big bets. Not all of them have come off
 
 ## Wimbledon: the luxury marketing platform
 Also in today’s newsletter: Silverstone’s place on the grid and a Nike recovery update
@@ -30,35 +33,35 @@ Also in today’s newsletter: Silverstone’s place on the grid and a Nike recov
 ## UBS makes progress in its quest for mediocrity in the US
 Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth business by 2028
 
-## Joseph Joseph co-founder: ‘We built the company from a glass chopping board’
-Richard Joseph on the homeware brand he started with his twin brother
+## Lack of data puts England’s ‘mansion tax’ valuations at risk
+Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
-## How Bordeaux learnt to take American wine seriously
-The Mondavi-Mouton partnership, Opus One, began as a transatlantic shock — and transformed the reputation of California wine
+## India-Australia relationship has 'never been more consequential': PM Albanese
+Modi will visit Melbourne from July 8-10 as part of a three-nation tour that starts in Indonesia on July 6 and ends in New Zealand on July 11
 
-## Senco opens 8 stores in Q1, eyes 12-15 more this fiscal
-The company said the quarter's performance came despite elevated gold prices and an increase in customs duty from 6% to 15%
+## TMT rebar prices hit 6-month low at ₹50,000/tonne as monsoon impacts demand: Report
+Subdued construction activity and a typical monsoon-season slowdown, with rains disrupting site work and causing contractors to delay steel purchases, led to decline in prices
+
+## FPIs turn net buyers, clock ₹16,461 crore in this week
+On June 29, FPIs recorded their highest single-session net investment of the week at ₹5,986.33 crore, followed by ₹4,334.95 crore on June 30
+
+## ‘E20 is more a communication issue than a technology issue’: ARAI Chief Reji Mathai
+The government’s recent 10-point clarification defending India’s E20 ethanol programme cited ARAI studies to address concerns about fuel efficiency, engine durability, and older vehicles
 
 ## If you are reachable, you’re breachable: Zscaler’s Jay Chaudhry
 Why Zscaler founder-Chairman Jay Chaudhry believes his Nasdaq-listed global cybersecurity company is made for the ‘AI moment’
 
-## Monsoon session of Parliament from July 20
-The Session will commence on 20 July, 2026 and continue till 13 August, 2026
+## Indian Potash Ltd ties up with UPL arm to boost sugarcane yield around Gujarat mill
+The partnership aims to implement regenerative farm practices, advanced agronomy, crop protection, nutrition management, digitalisation and farmer capacity-building initiatives across 2,000 acres of sugarcane cultivation
 
-## Government puts dealers, OEMs on the frontline of E20 complaints after ARAI certification
-The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
+## Sobha Ltd Q1 sales bookings up 76% to ₹3,656 crore on better housing demand
+Sobha Ltd reported record quarterly sales of ₹3,656 crore in the June quarter
 
-## Mutual Funds returns
-As on : Jul 04, 2026
+## Fortis Healthcare inks pact with Dion Group for 300-bed hospital in Cuttack
+The project cost for the new facility at Dion Riverside Township, Trishulia in Cuttack is around ₹600 crore and is expected to be completed in 3-3.5 years
 
-## CBIC notifies rules for ‘determination of origin of goods’ under India-UK FTA
-It takes effect on July 15, liberalising 99% of UK tariffs and 90% of Indian tariffs
-
-## Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce
-Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce
-
-## Office leasing grows to 43 million sq feet, highest in the first half of a calendar year: Cushman & Wakefield
-Bengaluru, Pune, Delhi NCR and Mumbai together accounted for nearly 80% of total GCC leasing during the first half of the year
+## Beyond Hormuz: What HPCL Rajasthan Refinery Limited means for India's energy future
+India is bolstering its energy security following the Strait of Hormuz disruption. Prime Minister Modi inaugurated the HPCL Rajasthan Refinery, a crucial step towards self-reliance for a nation heavily reliant on oil imports. This project, alongside other development initiatives, aims to strengthen 
 
 ## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
 India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
@@ -81,55 +84,52 @@ India's burgeoning AI data-centre sector is creating a surge in demand for mecha
 ## HCLTech wins $1.1bn AI-led deal with Mercedes
 HCLTech's stock surged almost 6% following the announcement of a massive $1.1 billion deal with a European Fortune Global 50 company, widely believed to be Mercedes-Benz. This significant AI-led agreement, set to run for five years with an extension option, will see HCLTech revamp the automaker's gl
 
-## Identify imported goods for manufacturing: Piyush Goyal tells states
-Commerce Minister Piyush Goyal has called on states to identify import-substitutable products, aiming to boost domestic manufacturing, cut foreign exchange outgo, and strengthen supply chains. He also pushed for export committees and monthly reviews to support industries facing unfair trade practice
+## Manipur CM visits Churachandpur for funeral of BJP MLA, first since 2023 violence
+CM’s visit to Churachandpur amid the boycott imposed by several Kuki bodies was the first since the May 3, 2023 clash
 
-## BJP MLA Raju Kumar Singh gets 4-year jail term for 2018 celebratory firing death in Delhi farmhouse
-BJP MLA Raju Kumar Singh gets 4-year jail term for 2018 celebratory firing death in Delhi farmhouse
+## Bill for CM, PM removal over 30-day jail, row over Rajnath's ‘lie’ may dominate Parliament monsoon session from July 20
+Modi govt could not make constitutional amendments in last session as it did not have numbers for that. Defections have changed the math a bit since.
 
-## Delhi police oppose Umar Khalid bail in 2020 riots case; court reserves order
-Both Khalid and Imam in their bail applications, cited a change in circumstances, highlighting the judgment pronounced on May 18
+## India-Israel bilateral investment agreement comes into force to boost trade
+The BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate, Union finance ministry said.
 
-## 'Ram-Ram': RSS chief Mohan Bhagwat's brief, pointed first reaction on Ayodhya temple donation row
-RSS chief Mohan Bhagwat briefly responded to allegations undermining faith in Lord Ram, saying only 'Ram-Ram' when questioned by reporters.
+## 'Didi, this wasn't needed': Mamata Banerjee loyalist Chandrima Bhattacharya breaks silence on quitting TMC posts
+Chandrima Bhattacharya, a Mamata Banerjee loyalist, resigned from all TMC posts on Saturday in fresh jolt to the former Bengal chief minister.
 
-## Mumbai rains: Check status of local train services amid heavy rainfall, IMD's red alert
-The IMD said that Mumbai is likely to receive heavy to very heavy rainfall at a few places, with isolated areas expected to witness extremely heavy rain.
+## India overcame West Asia energy crisis through timely decisions, diplomacy: PM Modi
+PM Modi addressed public gathering after inaugurating the Pachpadra Refinery and launching development projects worth about ₹1.06 lakh crore in Rajasthan’s Balotra.
 
-## Maharashtra deputy CM Eknath Shinde hospitalised in Mumbai with viral fever
-Eknath Shinde had complained of a cold and fever over the last few days and sought treatment, officials said.
+## MP govt college cancels exam over paper theft; probe underway: Police
+Vice chancellor Alok Sharma confirmed the cancellation and said a probe is underway, and issued a notice to the PG exam controller
 
-## Mamata aide Chandrima Bhattacharya resigns as TMC's Bengal chief within month of appointment
-Chandrima Bhattacharya had recently replaced veteran organiser Subrata Bakshi as the party's state president.
+## Umar Khalid, Sharjeel Imam's bail application rejected by Delhi court
+The Delhi police on Saturday opposed the bail applications moved by Umar Khalid and Sharjeel Imam in the 2020 Delhi riots larger conspiracy case
 
-## Mahua Moitra joins CJP protest, jibes Dharmendra Pradhan: 'Don't celebrate birthday with children's blood'
-Mahua Moitra was among the first prominent political leaders to publicly associate herself with the Cockroach Janta Party.
+## Armed robbers hold GST officer’s family hostage, loot gold and cash in Alwar
+The robbery took place at the residence of Om Prakash, an assistant commissioner in the GST department, in Shalimar Nagar.
 
-## Jaswant Singh Khalra's wife on biopic finally released as ‘Satluj’, says no cuts made: ‘Spirit and truth preserved’
-“As the Khalra family, we wish to clarify that we have approved the version of the film that is now being released on OTT,” Paramjit Kaur Khalra said in X post.
-
-## Aamir Khan-Gauri Spratt Wedding: Actor’s Mumbai home decked up ahead of intimate July 5 ceremony
+## On its 250th, 25 novels that chase the white whale of a Great American Novel
 
 
-## The chilling, charming mystery of tradwife Natalie Heller Mills in Yesteryear
+## Top 10 most liveable cities in the world: Tokyo claims top spot, Madrid and Paris among top 10
 
 
-## Eetha title row resolved after Laxman Utekar assures Vithabai’s family: ‘No problem now’
+## ‘On field, they kick the crap out of me’: Messi jokes with Cape Verde players
 
 
-## America at 250 needs to move forward. To do so, it must look back
+## Panchkula man, brother-in-law found murdered after ‘Chhathi’ party
 
 
-## ‘India’s medical care is world class’: Accused denied plea to travel to UAE for treatment
+## Aamir Khan and Gauri Spratt Wedding Live Updates: Aamir says it’s a ‘gharelu’ ceremony
 
 
-## India vs England 2nd T20I Live Score: Shreyas Iyer’s IND will take on Harry Brook’s ENG at Manchester
+## AI hallucinated judgments: Why Supreme Court set aside a tribunal order
 
 
-## Salman Khan’s Maatrubhumi not stuck with censor board: ‘Film not submitted yet’
+## Supriya Pathak Shah swears by this ‘besan and malai ubtan’, says it helps ‘lessen’ hair growth
 
 
-## ‘Only Ramayana Part 1 filmed until now,’ reveals Kajal Aggarwal: ‘Amazing to work with Yash’
+## ‘Children care homes must restore hope’: Court denies custody of abused siblings
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## England vs Mexico at Azteca: Kickoff, altitude and weather explained
+The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.
+
+## Thousands protest in Germany as far-right AfD party meets
+Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.
+
+## America250: How the US heatwave will affect Fourth of July celebrations
+From Washington to LA, how plans to mark the United States' 250th anniversary could be disrupted by extreme heat.
+
+## In South Asia, America has stopped asking India for permission
+Washington has started dealing with regional players without regard for Indian interests.
+
+## Ukraine hits oil and military facilities near Russia’s St Petersburg
+Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.
+
+## Millions mourn Iran’s Ali Khamenei amid historic funeral procession
+Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.
+
+## Russia claims it captured the strategic key Ukrainian city of Kostiantynivk
+Russia claims it captured the strategic key Ukrainian city of Kostiantynivka
+
 ## Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss
 Tiny island nation's colossal performance against reigning world champions leaves supporters feeling incredibly proud.
-
-## Thousands gather as Khamenei funeral ceremonies open in Tehran
-Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Khamenei in Tehran.
-
-## Armed fighters attack multiple towns across Mali
-Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.
-
-## Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats
-Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.
-
-## Key takeaways from Round of 32 stage at World Cup 2026
-A thrilling Golden Boot race hots up, France in scintillating form, and Messi and Argentina squeak past Cape Verde.
-
-## Cape Verde fans celebrate history despite loss
-Cape Verde fans celebrate history despite loss
-
-## Watch World Cup Day 23: Argentina and Egypt survive thrillers to advance
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden
-A-list celebrities attend wedding at Madison Square Garden to see superstar couple tie the knot.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
