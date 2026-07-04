@@ -36,29 +36,29 @@ Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth busines
 ## Lack of data puts England’s ‘mansion tax’ valuations at risk
 Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
 
-## India-Australia relationship has 'never been more consequential': PM Albanese
-Modi will visit Melbourne from July 8-10 as part of a three-nation tour that starts in Indonesia on July 6 and ends in New Zealand on July 11
+## India-Israel bilateral investment pact comes into effect
+The pact is expected to boost cross-border investment by protecting two-way investments, according to the finance ministry
 
-## TMT rebar prices hit 6-month low at ₹50,000/tonne as monsoon impacts demand: Report
-Subdued construction activity and a typical monsoon-season slowdown, with rains disrupting site work and causing contractors to delay steel purchases, led to decline in prices
+## Pvt sector banks log robust growth in deposits and advances in Q1FY27
+The private sector bank’s deposits rose 14.7% year-on-year, while gross advances increased by 15.4%
 
-## FPIs turn net buyers, clock ₹16,461 crore in this week
-On June 29, FPIs recorded their highest single-session net investment of the week at ₹5,986.33 crore, followed by ₹4,334.95 crore on June 30
+## India-Canada FTA negotiations may be conclude in six months: Goyal
+India-Peru FTA talks have hit a snag over market access concerns in some sectors
 
-## ‘E20 is more a communication issue than a technology issue’: ARAI Chief Reji Mathai
-The government’s recent 10-point clarification defending India’s E20 ethanol programme cited ARAI studies to address concerns about fuel efficiency, engine durability, and older vehicles
+## Australia-India partnership in trade, defence, tech delivering results: Albanese
+Modi-Albanese summit meet in Melbourne to focus on deepening comprehensive strategic partnership; CECA talks expected to gather momentum
 
-## If you are reachable, you’re breachable: Zscaler’s Jay Chaudhry
-Why Zscaler founder-Chairman Jay Chaudhry believes his Nasdaq-listed global cybersecurity company is made for the ‘AI moment’
+## I&B Ministry directs Telegram to take action against channels circulating pirated content
+The platform has been asked to strengthen systems for detection, reporting, disabling access to and removal of pirated films and infringing audio-visual content
 
-## Indian Potash Ltd ties up with UPL arm to boost sugarcane yield around Gujarat mill
-The partnership aims to implement regenerative farm practices, advanced agronomy, crop protection, nutrition management, digitalisation and farmer capacity-building initiatives across 2,000 acres of sugarcane cultivation
+## AP govt to take up gold exploration in Kuppam for a mining project
+Naidu said the proposed gold exploration would complement the region’s broader industrial development strategy and generate employment opportunities
 
-## Sobha Ltd Q1 sales bookings up 76% to ₹3,656 crore on better housing demand
-Sobha Ltd reported record quarterly sales of ₹3,656 crore in the June quarter
+## Think. Over the week
 
-## Fortis Healthcare inks pact with Dion Group for 300-bed hospital in Cuttack
-The project cost for the new facility at Dion Riverside Township, Trishulia in Cuttack is around ₹600 crore and is expected to be completed in 3-3.5 years
+
+## “Dealers, OEMs on the frontline to address consumer complaints on E20, says govt”
+The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
 
 ## Beyond Hormuz: What HPCL Rajasthan Refinery Limited means for India's energy future
 India is bolstering its energy security following the Strait of Hormuz disruption. Prime Minister Modi inaugurated the HPCL Rajasthan Refinery, a crucial step towards self-reliance for a nation heavily reliant on oil imports. This project, alongside other development initiatives, aims to strengthen 
@@ -84,52 +84,52 @@ India's burgeoning AI data-centre sector is creating a surge in demand for mecha
 ## HCLTech wins $1.1bn AI-led deal with Mercedes
 HCLTech's stock surged almost 6% following the announcement of a massive $1.1 billion deal with a European Fortune Global 50 company, widely believed to be Mercedes-Benz. This significant AI-led agreement, set to run for five years with an extension option, will see HCLTech revamp the automaker's gl
 
+## PM Modi lauds '140 crore Indians' for defeating attempts to destabilise nation amid US-Iran war-induced energy crisis
+PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
+
+## ‘Galti Kiya Hai’: Lalu Yadav on reversed govt order to downgrade security, vacate bungalow
+The state Home Department had earlier withdrawn the Z cover of Prasad and his wife Rabri Devi and replaced it with security by the Bihar Special Armed Police.
+
+## Odisha court convicts 14 women in 23-year-old couple humiliation case
+The victims were allegedly stripped, garlanded with footwear, had their faces blackened, and were forced to walk through the village in broad daylight
+
+## Industry experts defend E20 petrol amid engine damage claims; say fuel safe for older vehicles: ‘Years of testing’
+Clarification came amid growing debate over E20, with even political leaders alleging the ethanol blend led to reduced fuel efficiency and engine problems.
+
+## Ending weeks of silence, Mamata praises 'original' TMC supporters for not 'seeking shelter in BJP'
+In a video message, Mamata Banerjee reiterated her claim that the BJP won the elections in Bengal by poll rigging.
+
 ## Manipur CM visits Churachandpur for funeral of BJP MLA, first since 2023 violence
 CM’s visit to Churachandpur amid the boycott imposed by several Kuki bodies was the first since the May 3, 2023 clash
 
-## Bill for CM, PM removal over 30-day jail, row over Rajnath's ‘lie’ may dominate Parliament monsoon session from July 20
+## Bill for PM, CM removal over 30-day jail, row over Rajnath's ‘lie’ may dominate Parliament monsoon session from July 20
 Modi govt could not make constitutional amendments in last session as it did not have numbers for that. Defections have changed the math a bit since.
 
 ## India-Israel bilateral investment agreement comes into force to boost trade
 The BIA is a landmark step towards strengthening bilateral economic relations and ensuring a secure and predictable investment climate, Union finance ministry said.
 
-## 'Didi, this wasn't needed': Mamata Banerjee loyalist Chandrima Bhattacharya breaks silence on quitting TMC posts
-Chandrima Bhattacharya, a Mamata Banerjee loyalist, resigned from all TMC posts on Saturday in fresh jolt to the former Bengal chief minister.
-
-## India overcame West Asia energy crisis through timely decisions, diplomacy: PM Modi
-PM Modi addressed public gathering after inaugurating the Pachpadra Refinery and launching development projects worth about ₹1.06 lakh crore in Rajasthan’s Balotra.
-
-## MP govt college cancels exam over paper theft; probe underway: Police
-Vice chancellor Alok Sharma confirmed the cancellation and said a probe is underway, and issued a notice to the PG exam controller
-
-## Umar Khalid, Sharjeel Imam's bail application rejected by Delhi court
-The Delhi police on Saturday opposed the bail applications moved by Umar Khalid and Sharjeel Imam in the 2020 Delhi riots larger conspiracy case
-
-## Armed robbers hold GST officer’s family hostage, loot gold and cash in Alwar
-The robbery took place at the residence of Om Prakash, an assistant commissioner in the GST department, in Shalimar Nagar.
-
-## On its 250th, 25 novels that chase the white whale of a Great American Novel
+## ‘Don’t need Singham or Pushpa’: BJP MLA gets 4-year jail in death due to celebratory firing case
 
 
-## Top 10 most liveable cities in the world: Tokyo claims top spot, Madrid and Paris among top 10
+## Why the Panenka, the original and first copies, remain a delight to watch
 
 
-## ‘On field, they kick the crap out of me’: Messi jokes with Cape Verde players
+## Disha Patani praises Akshay Kumar’s work ethic: ‘So grounded’; experts weigh in
 
 
-## Panchkula man, brother-in-law found murdered after ‘Chhathi’ party
+## List of US presidents: From George Washington to Donald Trump and their legacy
 
 
-## Aamir Khan and Gauri Spratt Wedding Live Updates: Aamir says it’s a ‘gharelu’ ceremony
+## He crossed the LoC for love. A month later, he was sent back to PoK
 
 
-## AI hallucinated judgments: Why Supreme Court set aside a tribunal order
+## UPSC Key: Tiger reserves restoration, FDC drugs, and US turns 250
 
 
-## Supriya Pathak Shah swears by this ‘besan and malai ubtan’, says it helps ‘lessen’ hair growth
+## Kajal Aggarwal backs Deepika Padukone’s 8-hour shift demand: ‘Have similar clauses in my contract’
 
 
-## ‘Children care homes must restore hope’: Court denies custody of abused siblings
+## Woman doctor dies after jumping from 24th floor in Pune’s Ravet
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Canada vs Morocco LIVE: FIFA World Cup 2026 last 16
+Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.
+
+## Brain drain leaves Yemen’s health sector in tatters and millions helpless
+Yemen's health professionals have been leaving the country in search of higher income and a safer working environment.
+
+## Why closure matters at the end of life
+A peaceful, supported end-of-life experience — focused on family and closure — can transform both dying and grieving.
+
+## Nabatieh recovery begins amid ongoing southern Lebanon tensions
+Nabatieh recovery begins amid ongoing southern Lebanon tensions
+
+## Pope Leo urges migrant protection, integration on visit to Lampedusa
+Pontiff urges people in Europe and US to welcome and assist migrants during symbolic trip to Italy’s frontier island.
+
+## Firefighters race to contain flames in northeastern Spain
+Firefighters race to contain flames in northeastern Spain
+
 ## England vs Mexico at Azteca: Kickoff, altitude and weather explained
 The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.
 
 ## Thousands protest in Germany as far-right AfD party meets
 Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.
-
-## America250: How the US heatwave will affect Fourth of July celebrations
-From Washington to LA, how plans to mark the United States' 250th anniversary could be disrupted by extreme heat.
-
-## In South Asia, America has stopped asking India for permission
-Washington has started dealing with regional players without regard for Indian interests.
-
-## Ukraine hits oil and military facilities near Russia’s St Petersburg
-Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.
-
-## Millions mourn Iran’s Ali Khamenei amid historic funeral procession
-Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.
-
-## Russia claims it captured the strategic key Ukrainian city of Kostiantynivk
-Russia claims it captured the strategic key Ukrainian city of Kostiantynivka
-
-## Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss
-Tiny island nation's colossal performance against reigning world champions leaves supporters feeling incredibly proud.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
