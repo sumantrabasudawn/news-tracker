@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## ‘Heat dome’ over eastern US sends electricity prices soaring
+More than 800,000 households left without power after storms and temperatures near 40C straining utility grids
+
 ## Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US
 President kicked off 250th anniversary events with a preview of a likely line of attack against Democrats in coming elections
 
-## America at 250: What does the US see when it looks in the mirror?
-As a nation of impossible ambition celebrates its founding, a special edition of FT Weekend Magazine asks writers, thinkers and leaders to reflect on the first 250 years
+## America at 250
+What does the US see when it looks in the mirror? As a nation of impossible ambition celebrates its founding, a special edition of FT Weekend Magazine asks writers, thinkers and leaders to reflect on the first 250 years
 
 ## UK farmers embrace regenerative methods after heatwave shock
 High temperatures are leading farmers to cut out chemicals and intensive ploughing to improve soil quality so it retains water
@@ -21,8 +24,8 @@ Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Re
 ## Burnham must learn from Starmer’s failures on UK growth
 There are moments to prioritise other things, but after 18 years of historic economic slowdown this is not one of them
 
-## Taylor Swift and the allure of a big celebrity wedding
-These magnificent displays of vulgarity and vainglory offer a glimpse into the most private of worlds
+## Wimbledon: the luxury marketing platform
+Also in today’s newsletter: Silverstone’s place on the grid and a Nike recovery update
 
 ## UBS makes progress in its quest for mediocrity in the US
 Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth business by 2028
@@ -33,35 +36,32 @@ Richard Joseph on the homeware brand he started with his twin brother
 ## How Bordeaux learnt to take American wine seriously
 The Mondavi-Mouton partnership, Opus One, began as a transatlantic shock — and transformed the reputation of California wine
 
-## What happens when an online game dies?
-Games such as ‘Destiny 2’ are more than entertainment products. They are social spaces where friendships, identities and rituals are built
+## Senco opens 8 stores in Q1, eyes 12-15 more this fiscal
+The company said the quarter's performance came despite elevated gold prices and an increase in customs duty from 6% to 15%
 
-## The rise of the modern classic car
-Once overlooked, cars from the 1980s are having a moment — but does it make financial sense to buy one?
+## If you are reachable, you’re breachable: Zscaler’s Jay Chaudhry
+Why Zscaler founder-Chairman Jay Chaudhry believes his Nasdaq-listed global cybersecurity company is made for the ‘AI moment’
 
-## PM Modi inaugurates new Jodhpur airport terminal, launches Modified UDAN scheme
-Modi arrived in Jodhpur and was received at the airport by Governor Haribhau Bagade, Union Minister and Jodhpur MP Gajendra Singh Shekhawat, and Chief Minister Bhajanlal Sharma
+## Monsoon session of Parliament from July 20
+The Session will commence on 20 July, 2026 and continue till 13 August, 2026
 
-## RDI Fund has seen a tremendous response with TDB selecting 22 start-ups to back: Abhay Karandikar
-‘Selection of second-level fund managers on track to be completed by end of this month’
+## Government puts dealers, OEMs on the frontline of E20 complaints after ARAI certification
+The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
 
-## Tamil Nadu begins extraction of ammonia gas at seafood export factory in Tiruvallur
-The extraction process, which began at 8 am, is scheduled to conclude by 5 pm, though officials are prepared to extend the operation to Sunday morning if the removal remains incomplete
+## Mutual Funds returns
+As on : Jul 04, 2026
 
-## Mumbai braces for heavy rains as IMD issues red alert
-Civic officials said that while the metropolis recorded over 100 mm of rain in several parts over the last 24 hours, public transport remains operational
+## CBIC notifies rules for ‘determination of origin of goods’ under India-UK FTA
+It takes effect on July 15, liberalising 99% of UK tariffs and 90% of Indian tariffs
 
-## India's VC ecosystem shifts to monetization-led growth in 2026: Bain
-The report notes that investor behaviour will be guided by firms that demonstrate durable unit economics, predictable revenue models and visible monetization outcomes
+## Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce
+Chandigarh University Uttar Pradesh Introduces 17 New-Age Academic Programs in Emerging Domains to Nurture a Futuristic Workforce
 
-## How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
-How Underrated Club Grew 400% in FY26: The D2C Streetwear Brand Nobody Saw Coming
+## Office leasing grows to 43 million sq feet, highest in the first half of a calendar year: Cushman & Wakefield
+Bengaluru, Pune, Delhi NCR and Mumbai together accounted for nearly 80% of total GCC leasing during the first half of the year
 
-## Protean eGov Technologies and NECTAR partner to accelerate technology-led governance and inclusive development
-Protean eGov Technologies and NECTAR partner to accelerate technology-led governance and inclusive development
-
-## Oil is little changed as Persian Gulf flows near pre-war levels
-Brent futures traded just above $72 a barrel, while West Texas Intermediate was below $69, with volumes depressed due to the US Independence Day holiday
+## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
+India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
 
 ## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
 US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
@@ -84,55 +84,52 @@ HCLTech's stock surged almost 6% following the announcement of a massive $1.1 bi
 ## Identify imported goods for manufacturing: Piyush Goyal tells states
 Commerce Minister Piyush Goyal has called on states to identify import-substitutable products, aiming to boost domestic manufacturing, cut foreign exchange outgo, and strengthen supply chains. He also pushed for export committees and monthly reviews to support industries facing unfair trade practice
 
-## SAP tightens hiring, travel as investments in AI zoom
-German software giant SAP is implementing hiring freezes, travel restrictions, and tighter control over external spending to fuel its significant investments in artificial intelligence. The company is prioritizing core AI roles and strategic acquisitions to bolster its AI capabilities. While interna
+## BJP MLA Raju Kumar Singh gets 4-year jail term for 2018 celebratory firing death in Delhi farmhouse
+BJP MLA Raju Kumar Singh gets 4-year jail term for 2018 celebratory firing death in Delhi farmhouse
 
-## Ketan Agarwal case probe deepens as new twist emerges from Beed; Siya-Chetan polygraph test opposed
-Pune police are investigating the alleged murder of Pune realtor Ketan Agarwal by his fiancée, Siya Goyal, and her “boyfriend”, Chetan Chaudhary.
+## Delhi police oppose Umar Khalid bail in 2020 riots case; court reserves order
+Both Khalid and Imam in their bail applications, cited a change in circumstances, highlighting the judgment pronounced on May 18
 
-## Delhi woman shares parents' unexpected reaction to her being laid off: ‘Do whatever your heart wants'
-Anukriti Vidyarthi explained that her parents had been proud when she landed the job, making it even harder to tell them she no longer had it.
+## 'Ram-Ram': RSS chief Mohan Bhagwat's brief, pointed first reaction on Ayodhya temple donation row
+RSS chief Mohan Bhagwat briefly responded to allegations undermining faith in Lord Ram, saying only 'Ram-Ram' when questioned by reporters.
 
-## Three injured in accidental firing by PAC Jawan at Kashi Vishwanath Temple
-The bullet hit a stone, and the impact shattered it into chips that struck the three local bystanders identified as Nikyni Gupta, Ram Babu and Vikas Yadav, police said.
+## Mumbai rains: Check status of local train services amid heavy rainfall, IMD's red alert
+The IMD said that Mumbai is likely to receive heavy to very heavy rainfall at a few places, with isolated areas expected to witness extremely heavy rain.
 
-## ‘Ketan case is a reminder’: Rajya Sabha MP calls for National Commission for Men. What's in the Bill he proposed?
-Ashok Kumar Mittal, founder of Lovely Professional University in Punjab, shared video of Parliament from Dec 2025 when he introduced private member's bill
+## Maharashtra deputy CM Eknath Shinde hospitalised in Mumbai with viral fever
+Eknath Shinde had complained of a cold and fever over the last few days and sought treatment, officials said.
 
-## '1,000 husbands' remark leads court to cut man's life term in wife's murder case: ‘Grave provocation’
-Shiva Kahar, a resident of Chhindwara district's Chaurai block, killed his wife on September 18, 2021, following an argument at their home.
+## Mamata aide Chandrima Bhattacharya resigns as TMC's Bengal chief within month of appointment
+Chandrima Bhattacharya had recently replaced veteran organiser Subrata Bakshi as the party's state president.
 
-## Gujarat revises land compensation policy for power transmission projects: Govt
-The decision comes amid an ongoing farmers’ agitation in Morbi district over compensation for land being used for a power transmission project
+## Mahua Moitra joins CJP protest, jibes Dharmendra Pradhan: 'Don't celebrate birthday with children's blood'
+Mahua Moitra was among the first prominent political leaders to publicly associate herself with the Cockroach Janta Party.
 
-## ‘Govt can’t just wait…': Centre's stern warning, 15-day deadline to Telegram over flooding pirated content
-Telegram app has been asked to furnish details of its grievance redressal system for producers, OTT platforms, and law-enforcement agencies.
+## Jaswant Singh Khalra's wife on biopic finally released as ‘Satluj’, says no cuts made: ‘Spirit and truth preserved’
+“As the Khalra family, we wish to clarify that we have approved the version of the film that is now being released on OTT,” Paramjit Kaur Khalra said in X post.
 
-## Jaipur jeweller attacked, robbed of 8 kg silver, gold and cash by masked men
-The victim, Shankarlal Sharma, owner of Shri Shyam Jewellers in Nangalnadi main market, was returning home on his motorcycle after closing his shop when the attack took place.
-
-## OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report
+## Aamir Khan-Gauri Spratt Wedding: Actor’s Mumbai home decked up ahead of intimate July 5 ceremony
 
 
-## CBSE Class 10 Second Board Exam Result 2026 Live Updates: Marksheets expected soon at cbse.gov.in
+## The chilling, charming mystery of tradwife Natalie Heller Mills in Yesteryear
 
 
-## Bhuj assistant professor recounts month-long ordeal in Congo amid Ebola crisis
+## Eetha title row resolved after Laxman Utekar assures Vithabai’s family: ‘No problem now’
 
 
-## Aamir Khan-Gauri Spratt Love Story: Two-decade-old friendship to lifelong partnership
+## America at 250 needs to move forward. To do so, it must look back
 
 
-## Mumbai declares afternoon holiday for schools, colleges amid red alert
+## ‘India’s medical care is world class’: Accused denied plea to travel to UAE for treatment
 
 
-## Monaco parcel bombing: Woman disguised as a man is ‘prime suspect’, Interpol issues Red Notice
+## India vs England 2nd T20I Live Score: Shreyas Iyer’s IND will take on Harry Brook’s ENG at Manchester
 
 
-## Jodhpur gets a new airport terminal as Modi launches Rs 28,840 cr UDAN scheme. What this means
+## Salman Khan’s Maatrubhumi not stuck with censor board: ‘Film not submitted yet’
 
 
-## Centre issues notice to Telegram over pirated movies, seeks action in 15 days
+## ‘Only Ramayana Part 1 filmed until now,’ reveals Kajal Aggarwal: ‘Amazing to work with Yash’
 
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump praises army, rails against communism in US 250th anniversary speech
-At Mount Rushmore Trump warns of 'communist menace', ties rhetoric to immigration ahead of November midterms.
+## Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss
+Tiny island nation's colossal performance against reigning world champions leaves supporters feeling incredibly proud.
 
-## At 250, America is still deciding who belongs
-Birthright citizenship survived, but the fight over who is fully recognised as American is far from over.
+## Thousands gather as Khamenei funeral ceremonies open in Tehran
+Thousands of mourners attended the public grand procession of Iran’s late Supreme Leader Khamenei in Tehran.
 
-## France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff
-France have been the best team so far at the World Cup, although Paraguay are confident after upsetting Germany.
+## Armed fighters attack multiple towns across Mali
+Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.
 
-## Could Israel really build settlements in Gaza?
-After a genocidal war and famine, leading Israeli politicians say they are now ready to settle Gaza.
+## Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats
+Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.
 
-## Trump calls communism a ‘mortal threat’ at US 250th birthday event
-Trump calls communism a ‘mortal threat’ at US 250th birthday event.
+## Key takeaways from Round of 32 stage at World Cup 2026
+A thrilling Golden Boot race hots up, France in scintillating form, and Messi and Argentina squeak past Cape Verde.
 
-## FIFA World Cup: Round of 16 match schedule and which teams qualified
-Full list of teams in the World Cup's last-16, who they play for a place in the quarterfinals and match start times.
+## Cape Verde fans celebrate history despite loss
+Cape Verde fans celebrate history despite loss
 
-## Thirty-two years on, young Rwandans reflect on progress, pain and hope
-For many young Rwandans, Liberation Day is as much about the future as the past.
+## Watch World Cup Day 23: Argentina and Egypt survive thrillers to advance
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## Arias sends Colombia into World Cup last-16 with 1-0 win over Ghana
-The World Cup round of 32 ends with Colombia beating Ghana 1-0, as Jhon Arias sends the South Americans through.
+## Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden
+A-list celebrities attend wedding at Madison Square Garden to see superstar couple tie the knot.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
