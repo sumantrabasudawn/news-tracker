@@ -114,28 +114,28 @@ West Bengal chief minister Subhendu Adhikary has set up a four-member committee,
 ## Govt orders Apple and Google to remove 7 mobile apps that stall e-rickshaws
 Govt says continued hosting of the apps is a potential legal violation that could strip Apple, Google of the legal immunity they enjoy as intermediaries
 
-## Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’
+## 40 years ago, July 4, 1986: NCR public unit offices to go
 
 
-## Ram Temple ‘theft’: Probe shows pilferage surged as footfall rose during Maha Kumbh
+## Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag
 
 
-## Adani power infra: Gujarat agrees to key demands of protesting farmers
+## As Prashant Kishor eyes debut from Nitin Nabin seat, why it may make or break JSP
 
 
-## Stuck with CBFC for over three years, Diljit Dosanjh-starrer Satluj gets digital release
+## Argentina survive Cape Verde scare with 111th-minute winner
 
 
-## Badrinath Dham temple committee orders probe into donation theft allegations
+## Punjab Congress row: 20 MLAs, former legislators turn up at Channi’s residence
 
 
-## ‘Will never win genuine recognition’: China on India-Japan ‘free and open Indo-Pacific’ stand
+## Sukhjinder Singh Randhawa meets Amit Shah; denies buzz of rift in Congress
 
 
-## Argentina vs Cape Verde Live Updates, FIFA World Cup 2026: Messi’s goal gives ARG 1-0 lead at half-time
+## Externed for protests, home after 7 months: Journey of SDPI leader Saeed Ahmed Abdul Wahid Choudhary behind HC ruling
 
 
-## Jackie Shroff’s parenting advice is simple: ‘Give them ears’
+## FM Nirmala Sitharaman at a panel talk in France: Middle class consumption powering India’s economic growth
 
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
@@ -258,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Messi scores again but Argentina given World Cup upset fright by Cape Verde
+Lionel Messi opens scoring but Argentina taken to extra time by Cape Verde, which threatened greatest World Cup upset.
+
+## Egypt coach dedicates World Cup win to Palestine as Gaza celebrates
+Fans in Gaza celebrated Egypt's win at match screenings held against the backdrop of bombed buildings.
+
+## England vs Mexico World Cup knockout match to go ahead as scheduled
+No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.
+
+## Iran war live: Millions expected in Tehran for funeral of Ali Khamenei
+Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.
+
+## Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters
+Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.
+
 ## Egypt say Dallas police officer pushed player, team director at World Cup
 A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.
 
@@ -266,21 +281,6 @@ Venezuela's acting president Delcy Rodriguez dismissed criticism of the governme
 
 ## Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash
 Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's quake response.
-
-## Thousands forced to evacuate in Colorado as wildfire spreads
-The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.
-
-## ‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes
-Many survivors are sheltering in tents set up in public parks, after twin earthquakes destroyed rows of buildings.
-
-## NASA launches robotic mission to save telescope falling back to Earth
-A three-armed spacecraft blasts into orbit to rescue a NASA telescope in danger of crashing back to Earth.
-
-## Salah awaits Messi as Egypt beat Australia on penalties at World Cup
-Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time, and could now face Argentina in the last 16.
-
-## Massive wildfire spreads in Portugal amid extreme heat and strong wind
-A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
