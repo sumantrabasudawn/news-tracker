@@ -60,6 +60,9 @@ Guess the stock that will give the best return by next Friday
 ## This luxury hotel stock hasnt moved much from its IPO: Should you buy?
 IPO concerns have eased, but the re-rating case for this well-known hotel brand owner still needs stronger evidence
 
+## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
+The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
+
 ## India-UK trade pact: Centre notifies rules for determination of origin of goods
 India's Finance Ministry has finalized rules for goods eligible for benefits under the India-UK trade pact, set to begin July 15. This Comprehensive Economic and Trade Agreement (CETA) will grant duty-free access to 99% of Indian exports, boosting sectors like textiles and engineering. Exporters mus
 
@@ -80,9 +83,6 @@ The government has increased its onion procurement price to Rs 2,125 per quintal
 
 ## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
 India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
-
-## Year after calling India 'dead economy', Trump says country 'doing very well at 7-8%'
-US President Donald Trump has lauded India's robust economic growth, a significant departure from his past criticisms. He cited India's 7-8% growth as an example of strong performance that shouldn't be stifled by high interest rates. This shift comes as India and the US are nearing a bilateral trade
 
 ## Jaishankar to travel to West Asia, US and Belgium
 Jaishankar will travel to New York to launch on July 13 India’s official campaign for non-permanent membership of the UN Security Council during 2028-29.
@@ -117,7 +117,7 @@ PM Modi thanked citizens for standing firmly with the country during what he des
 ## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
 
 
-## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Line ups announced; FRA make one change
+## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Kickoff in Philadelphia as FRA face PAR
 
 
 ## Sooryavanshi shows glimpses on debut, but Bethell ensures England get the win
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country
+In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.
+
+## Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada
+Azzedine Ounahi scored two of three second-half goals as Morocco ended cohosts run to reach last eight.
+
 ## A politically charged holiday: The US celebrates its 250th anniversary
 The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.
 
@@ -269,12 +275,6 @@ Witnesses say the boat may have been carrying more than 200 passengers.
 
 ## Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’
 Dmitry Medvedev says Iran’s ability to disrupt traffic in the Strait of Hormuz is equivalent to possession of a nuclear.
-
-## Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week
-The visit would mark Netanyahu's seventh visit to the US since Trump returned to office for a second term as president.
-
-## Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal
-The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
