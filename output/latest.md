@@ -117,7 +117,7 @@ PM Modi thanked citizens for standing firmly with the country during what he des
 ## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
 
 
-## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Kickoff in Philadelphia as FRA face PAR
+## France vs Paraguay Score, FIFA World Cup 2026 Live Updates: Goalless at half-time in Philadelphia as Mbappe and Co frustrated
 
 
 ## Sooryavanshi shows glimpses on debut, but Bethell ensures England get the win
@@ -252,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Masses of Iranians defy heatwave on second day of Khamenei’s funeral
+Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.
+
 ## Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country
 In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.
 
@@ -272,9 +275,6 @@ Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.
 
 ## At least 20 drown as boat carrying students after exams sinks in DR Congo
 Witnesses say the boat may have been carrying more than 200 passengers.
-
-## Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’
-Dmitry Medvedev says Iran’s ability to disrupt traffic in the Strait of Hormuz is equivalent to possession of a nuclear.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
