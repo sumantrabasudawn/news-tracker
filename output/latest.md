@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Ukraine striking Russian energy infrastructure at unprecedented rate
+Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis in decades
+
 ## French push to exclude UK from EU defence spending backfires
 Paris loses out on cheap loans due to strict eligibility criteria it had championed
 
@@ -21,14 +24,14 @@ Policymakers discuss reducing incentives for academics to submit papers to inter
 ## Burnham faces tricky electoral test as Starmer pushes through local government shake-up
 Existing ministers argue major overhaul of city boundaries will be vital for his goal of devolving power
 
-## Wall Street banks recover in China amid trading boom
-China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
-
 ## How Bending Spoons built a $23bn tech empire from struggling brands
 Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
 ## European space deal to create SpaceX rival draws antitrust claims
 Germany’s OHB warns three-way merger would hurt competition, ultimately increasing costs for taxpayers
+
+## Wall Street banks recover in China amid trading boom
+China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
 
 ## Cider wars brew in the EU as Nordic makers fight relabelling proposal
 Sweden, Denmark and Finland resist plan to label flavoured versions ‘cider-based beverages’
@@ -36,29 +39,32 @@ Sweden, Denmark and Finland resist plan to label flavoured versions ‘cider-bas
 ## US clean power prices set to soar as AI demand coincides with subsidy cuts
 Clean power purchase agreements, favoured by companies like Google and Meta, expected to rise sharply as Biden-era support ends
 
-## Aircraft, ship lease payments to IFSC units exempt from TDS for 20 years
-Leasing entities in IFSCs will enjoy improved liquidity as funds are no longer locked up in TDS credits
+## Sugar industry renews push for dedicated E100 fuel pumps
+Experts say allowing ethanol-only dispensing stations would eliminate the need to transport ethanol to fuel depots for blending with petrol
 
-## May hike localisation level of Windsor to over 70% to reduce supply chain risks: JSW MG Motor India MD
-Windsor is priced between ₹14.09 lakh and ₹18.60 lakh
+## Centre releases ₹25,863 crore first instalment under VB-G RAM G Yojana
+Shivraj Singh Chouhan launches funds for new 125-day rural employment guarantee scheme
 
-## Iconic Theyagaraja theatre in Tiruvanmiyur to make way for ₹500-crore commercial project
-BBCL signs joint development pact with the Theyagaraja family for one-acre Tiruvanmiyur property; project will house retail, offices and a new multiplex
+## Flight operations at Delhi, Mumbai airports hit due to rain, 28 flights diverted to other cities
+Thirteen flights from Mumbai were diverted from to Ahmedabad, Indore, Surat, Bengaluru, Hyderabad airports
 
-## Modi’s ethanol push comes under pressure as motorists protest
-India met its target of blending 20% ethanol into gasoline five years ahead of schedule in 2025 and is evaluating a further increase in the mandate
+## OPEC+ agrees in principle on 188K B/D hike, delegates say
+It would be in keeping with the group’s plan to finish reversing output curbs made a few years ago, and mean that, since the war began, they’ve added 940,000 barrels a day to quotas
 
-## Govt raises ONGC chairman entry age to 59, offers up to five-year tenure
-The selection will be made by a search-cum-selection committee constituted by the oil ministry instead of the normal PESB selection process
+## India hopeful of sanctions relief for Chabahar after Iran-US peace deal
+New Delhi says project activities not possible without restoration of US waiver or easing of sanctions; issue has been taken up with Washington
 
-## “Dealers, OEMs on the frontline to address consumer complaints on E20, says govt”
-The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
+## CAFE-2 penalties: Bailing out carmakers is against national interest, say industry veterans
+This decision could also prompt foreign automakers to import or assemble more gas-guzzling vehicles in India, rather than producing fuel-efficient or low-emission models
 
-## ‘E20 is more a communication issue than a technology issue’: ARAI Chief Reji Mathai
-The government’s recent 10-point clarification defending India’s E20 ethanol programme cited ARAI studies to address concerns about fuel efficiency, engine durability, and older vehicles
+## Indian government issues notice to Meta over child sexual abuse materials on Instagram
+Government demands explanation within seven days after BBC report on child sexual abuse content
 
-## Tata Steel aims to spend ₹20,000 cr in FY27 on expansion, adoption of technologies
-The capex for the ongoing FY27 will be around 38 per cent higher from ₹14,559 crore that Tata Steel has spent on capital expenditure in the preceding 2025-26 financial year
+## Stock markets to track crude oil prices, global trends, TCS earnings this week: Analysts
+The progress of the southwest monsoon and kharif sowing will remain important indicators for rural demand, inflation expectations, and overall economic growth
+
+## Market recap: Top-10 firms add Rs 1 lakh crore in market capitalisation; Airtel, Bajaj Finance lead gains
+Dalal Street concluded the past week on a high note, with top companies collectively adding over Rs 1 lakh crore to their market cap. Bharti Airtel and Bajaj Finance led the gains, buoyed by strong domestic economic data and positive global sentiment. While most of the top 10 firms saw their valuati
 
 ## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
 
@@ -81,56 +87,56 @@ Concerns surrounding E20 ethanol-blended petrol are being addressed by industry 
 ## Beyond Hormuz: What HPCL Rajasthan Refinery Limited means for India's energy future
 India is bolstering its energy security following the Strait of Hormuz disruption. Prime Minister Modi inaugurated the HPCL Rajasthan Refinery, a crucial step towards self-reliance for a nation heavily reliant on oil imports. This project, alongside other development initiatives, aims to strengthen 
 
-## Centre raises onion procurement price by 13% — here's why
-The government has increased its onion procurement price to Rs 2,125 per quintal, a 13% jump, to boost farmer earnings and accelerate buffer stock building. This marks the fifth revision this season amidst sluggish procurement. Despite this, domestic availability remains stable with adequate stocks 
+## Unnao link road to Ganga Expressway damaged in UP's first rain, 2 months after inauguration
+The seven-metre approach road on the Meerut-Prayagraj carriageway near kilometre 421 developed a washout after rain on Friday.
 
-## Modi’s Indonesia visit: Towards one of India’s most valuable strategic partnerships
-PM Modi’s visit to Indonesia comes as India seeks to deepen strategic, economic and maritime ties with one of its key Indo-Pacific partners.
+## VHP asks Ayodhya police to question Arvind Kejriwal, Priyanka Gandhi in Ram Temple donation case
+The RSS affiliate asked investigators to examine the claims made by the Opposition leaders and take action if they were found to be baseless.
 
-## Monsoon has arrived in Delhi, but where is the rain? Experts explain
-Delhi weather: Monsoon arrived in the national capital on July 2. However, the city has not received monsoon-like rainfall till now.
+## Noida woman ‘takes e-rickshaw’ to Sector 18 multi-level parking facility, dies by suicide
+According to the preliminary investigation, the woman was suffering from depression. Police said further investigation is underway.
 
-## Tamil Nadu BJP chief Nainar Nagendran alleges ‘house-trading’ in state: ‘It’s true'
-TN BJP President Nainar Nagendran alleged horse-trading in the state politics to help TVK-led government ruling alliance showcase its majority in the Assembly.
+## ‘Govt presence can’t be ignored’: CPI(M)’s Brittas on Ram Mandir Trust RTI stand
+The letter comes months after the Central Information Commission (CIC) ruled on June 6, 2025, that the Trust is not a “public authority”
 
-## IMD issues red alert as torrential rain lashes Mumbai; over 250 mm recorded in 24 hrs
-Mumbai recorded over 190 mm average rainfall in 24 hours, with some areas receiving more than 250 mm as the IMD issued a red alert.
+## 'Stop them immediately': Centre orders Meta to remove Instagram ads promoting child sex abuse content
+The notice, issued by the ministry of electronics and information technology (MeitY) on Saturday, also gives Meta seven days to submit a detailed explanation.
 
-## Chhattisgarh’s Pandavani legend Teejan Bai dies at 70
-The 70-year-old Padma Vibhushan awardee, Teejan Bai, had been undergoing treatment at the hospital since May 27.
+## Amid Ram Temple donation row, VHP to hold crucial meeting in Delhi on July 18-19
+The Vishva Hindu Parishad (VHP) is a Hindu nationalist organization founded in 1964.
 
-## Defying boycott call, Manipur CM attends BJP MLA’s funeral: ‘Dialogue only way forward’
-Manipur CM Yumnam Khemchand Singh travelled to the district by helicopter amid protests and road blockades.
+## Book Box: Building a bookshelf that tells your story
+A family debates bookshelf designs: preferences for aesthetics, organization, and practicality as they seek to store their beloved books creatively.
 
-## Search for two Lashkar-e-Taiba terrorists enters second day in J&K's Shopian
-The 2 trapped terrorists have been identified as Latif and Zakir. They opened fire on the approaching Army, who effectively retaliated, triggering a gunfight.
+## Report on Justice Varma to be tabled during Parliament's monsoon session from July 20
+According to two officials, the House can take up the impeachment proceedings against justice Varma if there is a political consensus among the parties.
 
-## 'Every tree makes us anxious': 8 years after fatal tree branch accident, Mumbai family lives with monsoon ‘trauma’
-It’s been eight years since a branch broke off and fell on his 91-year-old aunt, claiming her life, but the trauma lives on.
-
-## Taylor Swift-Travis Kelce wedding: Guests call vows ‘entertaining, emotional, irreverent’
+## Is Mbappé a dictator in France team? Deschamps speaks on criticism of captain’s leadership
 
 
-## Who will France face in Round of 16? Full bracket & path to final for Mbappe & Co.
+## Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates
 
 
-## Legendary Pandavani singer Teejan Bai, who took the art form across the world, dies at 69
+## UPSC Ethics Simplified | How to decode ethical quotes in Mains exam: An example
 
 
-## Indian shuttlers should learn to think on their feet, win without a coach around
+## What BBC’s investigation into Instagram showing child sex abuse ads in India reveals
 
 
-## Odisha has a plan to make power grid disaster-proof, but it needs over Rs 9,000 crore from Centre
+## Bengaluru swimming pools and car washes face fines for using drinking water
 
 
-## Mumbai rains: Water enters Amitabh Bachchan’s Jalsa compound in viral video
+## Peter Shilton, 40 years after Hand of God: ‘Put the beef to bed’
 
 
-## 5 everyday habits that may be quietly worsening your insulin resistance
+## Odisha SIR: 20 lakh deletions in draft voter list; Oppn flags exclusion over ‘minor anomalies’
 
 
-## Ketan Agarwal’s grandfather dies after brief illness
+## Maharashtra road accident data: Wrong side driving remains a major highway menace; 460 killed in 2025
 
+
+## Citi CEO says 2 AI races are shaping future of banking
+The global financial sector is engaged in two simultaneous and critical races as AI evolves at an unprecedented rate, according to Jane Fraser, the CEO of Citi, the third-largest bank in the United States. While artificial intelligence was likely to cause some job dislocations, new positions would b
 
 ## Why has China lowered its own ranking in global financial competitiveness?
 A Beijing-based governmental think tank has taken the rare step of lowering China’s global financial competitiveness ranking by one place, despite top leaders of the world’s second-largest economy vowing to build it into a financial superpower. China ranks fifth globally in financial competitiveness
@@ -152,9 +158,6 @@ Chinese autonomous-driving start-up Momenta drew massive subscription numbers fo
 
 ## China’s BYD surpasses Tesla to regain lead in global EV race
 China’s electric vehicle (EV) king BYD has leapfrogged once more over Tesla to become the world’s largest battery-powered car manufacturer, spurred by its surging overseas shipments, despite posting an 8.2 per cent year-on-year drop in deliveries. As BYD gained the upper hand in the race against the
-
-## Chinese tea chain ordered to pay Louis Vuitton US$1.5 million for trademark infringement
-Chinese tea chain Molly Tea has been ordered to pay Louis Vuitton 10.3 million yuan (US$1.5 million) in damages for the unauthorised use of a logo similar to the French luxury brand’s four-petalled floral monogram. The Suzhou Intermediate People’s Court, in eastern China’s Jiangsu province, ruled th
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Native Americans Resisting ICE
-A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the US.
+## FIFA World Cup round of 16: Bracket, schedule, predictions and latest news
+Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.
 
-## Trump lauds Americans in storm-delayed 250th anniversary speech
-President Trump has praised Americans as ‘a historic and heroic people’, in a speech on the nation's 250th anniversary.
+## China releases underground church pastor after months in detention
+Ezra Jin’s family says the Zion Church founder arrived in the US after months in detention in China.
 
-## A name, a document, a future: Cameroon’s fight to register every child
-Efforts to expand birth registration in Cameroon are gaining ground, but millions of children remain undocumented.
+## Watch World Cup Day 24: France and Morocco advance to quarterfinals
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## Fireworks light up New York City to mark 250 years of US independence
-Fireworks lit up the New York City skyline as America marked its 250th anniversary.
+## Palestinians in Gaza celebrate Morocco’s World Cup victory
+Palestinians in Gaza celebrate Morocco's World Cup victory
 
-## Severe weather disrupts US’s 250th celebrations
-President Trump describes milestone as 'one of the most joyous and glorious' in US's history in campaign style speech.
+## Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries
+Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.
 
-## This immigrant served in the US military. Now he faces deportation
-Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.
+## Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says
+Kremlin aide Yury Ushakov says Trump made the offer during a nearly 90-minute phone call with the Russian president.
 
-## White nationalists march on Washington DC ahead of Freedom 250 celebrations
-Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.
+## Egypt and Morocco fans celebrate World Cup wins by singing for Palestine
+Egypt and Morocco fans celebrated their World Cup success by singing ‘My Blood is Palestinian’ at a Dallas fan zone.
 
-## Iran war live: Huge crowds mourn Khamenei, Trump hints at Netanyahu meeting
-Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.
+## Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction
+Norway are one of only three countries Brazil have faced at a World Cup without registering at least one victory.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
