@@ -252,20 +252,91 @@
             line-height: 1.8;
         }
 
-        @media(max-width: 900px) {
+        @media (max-width: 900px) {
+            body {
+                overflow-y: auto;
+            }
+
+            .video-background video {
+                opacity: 0.35;
+            }
+
+            .overlay {
+                background: linear-gradient(180deg,
+                        rgba(2, 6, 23, 0.96) 0%,
+                        rgba(2, 6, 23, 0.88) 100%);
+            }
 
             .page {
+                min-height: 100vh;
                 justify-content: center;
-                padding: 24px;
+                align-items: center;
+                padding: 24px 16px;
+            }
+
+            .login-card {
+                width: 100%;
+                max-width: 420px;
+                padding: 28px 22px;
+                border-radius: 18px;
+            }
+
+            .shield-logo {
+                width: 72px;
+                margin-bottom: 18px;
+            }
+
+            .logo {
+                font-size: 30px;
+                letter-spacing: 3px;
+            }
+
+            .subtitle {
+                font-size: 13px;
+            }
+
+            .description {
+                margin-top: 18px;
+                margin-bottom: 22px;
+                font-size: 13px;
+                line-height: 1.6;
+            }
+
+            input {
+                padding: 14px;
+                font-size: 15px;
+            }
+
+            .btn {
+                padding: 14px;
+                font-size: 15px;
             }
 
             .right-tagline {
                 display: none;
             }
 
+            .footer {
+                font-size: 11px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .page {
+                padding: 18px 14px;
+            }
+
             .login-card {
-                width: 100%;
-                max-width: 430px;
+                padding: 24px 18px;
+                border-radius: 16px;
+            }
+
+            .logo {
+                font-size: 28px;
+            }
+
+            .description {
+                font-size: 12.5px;
             }
         }
     </style>
