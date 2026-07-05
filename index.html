@@ -180,6 +180,11 @@
             margin-top: 8px;
         }
 
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
         .btn-primary {
             background: #ff6a00;
             color: white;
@@ -304,17 +309,17 @@
 
             <input id="password" type="password" placeholder="Password">
 
-            <button class="btn btn-primary" id="loginBtn">
+            <button class="btn btn-primary" id="loginBtn" type="button">
                 Sign In
             </button>
 
-            <button class="btn btn-secondary" id="signupBtn">
+            <button class="btn btn-secondary" id="signupBtn" type="button">
                 Create Account
             </button>
 
             <div class="divider">or</div>
 
-            <button class="btn btn-secondary" id="googleBtn">
+            <button class="btn btn-secondary" id="googleBtn" type="button">
                 Continue with Google
             </button>
 
@@ -344,62 +349,30 @@
     </div>
 
     <script type="module">
-        import { signIn, signUp, signInWithGoogle, supabase } from "./auth.js";
+        import { signIn, signUp, signInWithGoogle } from "./auth.js";
 
-        const email = document.getElementById("email");
-        const password = document.getElementById("password");
-        const status = document.getElementById("status");
+        const statusEl = document.getElementById("status");
+        const emailEl = document.getElementById("email");
+        const passwordEl = document.getElementById("password");
 
-        const { data: { session } } =
-            await supabase.auth.getSession();
-
-        if (session) {
+        document.getElementById("loginBtn").addEventListener("click", async () => {
+            statusEl.textContent = "Signing in…";
+            const { error } = await signIn(emailEl.value, passwordEl.value);
+            if (error) { statusEl.textContent = error.message; return; }
             window.location.href = "/dashboard.html";
-        }
+        });
 
-        document.getElementById("loginBtn").onclick = async () => {
+        document.getElementById("signupBtn").addEventListener("click", async () => {
+            statusEl.textContent = "Creating account…";
+            const { error } = await signUp(emailEl.value, passwordEl.value);
+            if (error) { statusEl.textContent = error.message; return; }
+            statusEl.textContent = "Account created — check your email to confirm.";
+        });
 
-            status.innerText = "Signing in...";
-
-            const { error } =
-                await signIn(email.value, password.value);
-
-            if (error) {
-                status.innerText = error.message;
-                return;
-            }
-
-            window.location.href = "/dashboard.html";
-        };
-
-        document.getElementById("signupBtn").onclick = async () => {
-
-            status.innerText = "Creating account...";
-
-            const { error } =
-                await signUp(email.value, password.value);
-
-            if (error) {
-                status.innerText = error.message;
-                return;
-            }
-
-            status.innerText =
-                "Account created. Please check your email.";
-        };
-
-        document.getElementById("googleBtn").onclick = async () => {
-
-            status.innerText =
-                "Redirecting to Google...";
-
-            const { error } =
-                await signInWithGoogle();
-
-            if (error) {
-                status.innerText = error.message;
-            }
-        };
+        document.getElementById("googleBtn").addEventListener("click", async () => {
+            const { error } = await signInWithGoogle();
+            if (error) statusEl.textContent = error.message;
+        });
     </script>
 
 </body>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AION Intelligence</title>
+    <link rel="icon" type="image/png" href="AION%20Logo.png">
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            background: #020617;
+            color: #f8fafc;
+            font-family: "Segoe UI", Arial, sans-serif;
+            overflow-x: hidden;
+        }
+
+        .ticker {
+            width: 100%;
+            height: 42px;
+            background: #0f172a;
+            border-bottom: 1px solid #1e293b;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            white-space: nowrap;
+        }
+
+        .ticker-track {
+            display: inline-block;
+            padding-left: 100%;
+            animation: tickerScroll 38s linear infinite;
+        }
+
+        .ticker span {
+            display: inline-block;
+            margin-right: 60px;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        .up {
+            color: #22c55e;
+        }
+
+        .down {
+            color: #ef4444;
+        }
+
+        @keyframes tickerScroll {
+            0% {
+                transform: translateX(0%);
+            }
+
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+
+        .hero {
+            max-width: 1200px;
+            margin: auto;
+            text-align: center;
+            padding: 90px 30px;
+        }
+
+        .shield-logo {
+            width: 130px;
+            height: auto;
+            margin-bottom: 36px;
+            filter: drop-shadow(0 0 24px rgba(255, 106, 0, 0.18));
+        }
+
+        .logo {
+            font-size: 62px;
+            font-weight: 800;
+            letter-spacing: 4px;
+            color: #f8fafc;
+        }
+
+        .subtitle {
+            margin-top: 20px;
+            color: #ff6a00;
+            font-size: 24px;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+
+        .description {
+            margin-top: 42px;
+            max-width: 980px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 19px;
+            line-height: 1.95;
+            color: #cbd5e1;
+        }
+
+        .description strong {
+            color: #f8fafc;
+            font-weight: 600;
+        }
+
+        .categories {
+            margin-top: 55px;
+            color: #94a3b8;
+            font-size: 14px;
+            letter-spacing: 1px;
+            line-height: 2;
+        }
+
+        .buttons {
+            margin-top: 65px;
+        }
+
+        .btn {
+            padding: 17px 34px;
+            margin: 10px;
+            border: none;
+            border-radius: 8px;
+            background: #ff6a00;
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #e65c00;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: #1e293b;
+        }
+
+        .btn-secondary:hover {
+            background: #334155;
+        }
+
+        .panel {
+            max-width: 1200px;
+            margin: 30px auto 0;
+            border-top: 1px solid #1e293b;
+            border-bottom: 1px solid #1e293b;
+            padding: 55px 30px;
+        }
+
+        .panel-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 35px;
+        }
+
+        .panel-card {
+            background: rgba(15, 23, 42, 0.55);
+            border: 1px solid #1e293b;
+            border-radius: 12px;
+            padding: 28px;
+            text-align: left;
+            backdrop-filter: blur(8px);
+        }
+
+        .panel-card h3 {
+            margin-top: 0;
+            font-size: 18px;
+            color: #ff6a00;
+        }
+
+        .panel-card p {
+            color: #cbd5e1;
+            line-height: 1.7;
+            font-size: 15px;
+        }
+
+        .footer {
+            text-align: center;
+            color: #64748b;
+            font-size: 13px;
+            padding: 55px 20px 45px;
+            line-height: 1.8;
+        }
+
+        @media(max-width: 768px) {
+            .logo {
+                font-size: 40px;
+            }
+
+            .subtitle {
+                font-size: 20px;
+            }
+
+            .description {
+                font-size: 17px;
+            }
+
+            .btn {
+                width: 100%;
+                max-width: 320px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="ticker">
+        <div id="ticker-track" class="ticker-track">
+            <span>Loading Market Intelligence...</span>
+        </div>
+    </div>
+
+    <div class="hero">
+
+        <img src="AION%20Logo.png" class="shield-logo" alt="AION Shield">
+
+        <div class="logo">AION INTELLIGENCE</div>
+
+        <div class="subtitle">Signal. Context. Judgement.</div>
+
+        <div class="description">
+            <strong>AION Intelligence</strong> is strategic intelligence infrastructure designed to integrate markets,
+            geopolitics, reputation, media systems, policy signals, capital flows, and narrative dynamics into
+            institutional decision-making environments.
+
+            <br><br>
+
+            Built as an evolving system-embedded intelligence layer, AION transforms fragmented information velocity
+            into structured strategic judgement for leadership, enterprise, capital, and public-influence ecosystems.
+        </div>
+
+        <div class="categories">
+            Strategic Communications • Market Intelligence • Reputation Systems • Narrative Infrastructure •
+            Geopolitical Intelligence • Strategic Signal Analysis • Climate Risk Intelligence
+        </div>
+
+        <div class="buttons">
+            <button class="btn" onclick="openDashboard()">Enter AION Command</button>
+            <button class="btn btn-secondary" onclick="openSentiment()">Sentiment Console</button>
+            <button class="btn btn-secondary" onclick="openTerra()">TERRA Climate Console</button>
+            <button class="btn btn-secondary" onclick="openArchive()">Intelligence Archive</button>
+        </div>
+
+    </div>
+
+    <div class="panel">
+        <div class="panel-grid">
+
+            <div class="panel-card">
+                <h3>Strategic Signal Infrastructure</h3>
+                <p>AION is designed to transform fragmented information systems into structured institutional judgement
+                    architectures spanning markets, policy, reputation, and geopolitical environments.</p>
+            </div>
+
+            <div class="panel-card">
+                <h3>Narrative Intelligence Systems</h3>
+                <p>Built to embed contextual awareness into enterprise communications, capital-market positioning,
+                    strategic influence systems, and leadership decision frameworks.</p>
+            </div>
+
+            <div class="panel-card">
+                <h3>Institutional Decision Velocity</h3>
+                <p>Integrating AI-assisted synthesis, intelligence workflows, strategic communications, and
+                    market-context analysis into a unified operating layer.</p>
+            </div>
+
+            <div class="panel-card">
+                <h3>TERRA Climate Intelligence</h3>
+                <p>Transforming weather systems, climate volatility, ENSO signals, extreme-event exposure and
+                    environmental risk into actionable strategic intelligence for governments, enterprises, investors
+                    and critical infrastructure operators.</p>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer">
+        Embedding Strategic Judgement into Enterprise Systems
+        <br><br>
+        AION Intelligence © 2026
+    </div>
+
+    <script>
+        async function loadTicker() {
+            try {
+                const res = await fetch("output/market_data.csv?t=" + Date.now());
+
+                if (!res.ok) {
+                    throw new Error("Market data file not found");
+                }
+
+                const text = await res.text();
+                const rows = text.trim().split("\n").slice(1);
+
+                if (!rows.length) {
+                    throw new Error("Market data file is empty");
+                }
+
+                let tickerHTML = "";
+
+                rows.forEach(row => {
+                    const [asset, price, change] = row.split(",");
+
+                    if (!asset || !price || !change) return;
+
+                    const changeNum = parseFloat(change) * 100;
+                    const direction = changeNum >= 0 ? "up" : "down";
+                    const arrow = changeNum >= 0 ? "▲" : "▼";
+
+                    tickerHTML += `
+                        <span class="${direction}">
+                            ${asset} ${parseFloat(price).toLocaleString(undefined, { maximumFractionDigits: 2 })}
+                            ${arrow} ${Math.abs(changeNum).toFixed(2)}%
+                        </span>
+                    `;
+                });
+
+                document.getElementById("ticker-track").innerHTML =
+                    tickerHTML || "<span>Market Data Temporarily Unavailable</span>";
+
+            } catch (error) {
+                document.getElementById("ticker-track").innerHTML =
+                    "<span>Market Data Temporarily Unavailable</span>";
+            }
+        }
+
+        function openDashboard() {
+            window.location.href = "reports/latest.html";
+        }
+
+        function openSentiment() {
+            window.location.href = "sentiment.html";
+        }
+
+        function openTerra() {
+            window.location.href = "/terra";
+        }
+
+        function openArchive() {
+            window.location.href = "reports/";
+        }
+
+        loadTicker();
+    </script>
+
+</body>
+
+</html>
