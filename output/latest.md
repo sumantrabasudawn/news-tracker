@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## Storms force evacuation of July 4 celebrations in Washington
-Trump to speak at Lincoln Memorial as extreme heat and thunderstorms disrupt 250th anniversary events
+## French push to exclude UK from EU defence spending backfires
+Paris loses out on cheap loans due to strict eligibility criteria it had championed
 
-## Iran mourners demand revenge at ayatollah’s funeral
-The week-long remembrance is intended to demonstrate public support for the regime
+## Returning to pre-Trumpian politics won’t save America
+The opening of the Obama presidential library set off a wave of nostalgia for an era that is not coming back
+
+## Octopus Energy set for showdown with workers over union recognition
+Fast-growing energy supplier says employee share ownership means it’s not a ‘them and us’ company
+
+## High share prices are becoming a status symbol
+Decline in stock splits suggests dividing share count no longer rules corporate orthodoxy
+
+## Uber stalls European food delivery push as it pursues Delivery Hero takeover
+Ride-hailing company will no longer launch in five of its seven planned new markets this year
+
+## China cools on overseas publication of scientific research
+Policymakers discuss reducing incentives for academics to submit papers to international journals over leak concerns
+
+## Burnham faces tricky electoral test as Starmer pushes through local government shake-up
+Existing ministers argue major overhaul of city boundaries will be vital for his goal of devolving power
+
+## Wall Street banks recover in China amid trading boom
+China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
+
+## How Bending Spoons built a $23bn tech empire from struggling brands
+Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
+
+## European space deal to create SpaceX rival draws antitrust claims
+Germany’s OHB warns three-way merger would hurt competition, ultimately increasing costs for taxpayers
+
+## Cider wars brew in the EU as Nordic makers fight relabelling proposal
+Sweden, Denmark and Finland resist plan to label flavoured versions ‘cider-based beverages’
 
 ## US clean power prices set to soar as AI demand coincides with subsidy cuts
 Clean power purchase agreements, favoured by companies like Google and Meta, expected to rise sharply as Biden-era support ends
 
-## ‘Heat dome’ over eastern US sends electricity prices soaring
-More than 800,000 households left without power after storms and temperatures near 40C straining utility grids
+## Aircraft, ship lease payments to IFSC units exempt from TDS for 20 years
+Leasing entities in IFSCs will enjoy improved liquidity as funds are no longer locked up in TDS credits
 
-## Trump uses Mount Rushmore speech to warn of ‘communist menace’ in US
-President kicked off 250th anniversary events with a preview of a likely line of attack against Democrats in coming elections
+## May hike localisation level of Windsor to over 70% to reduce supply chain risks: JSW MG Motor India MD
+Windsor is priced between ₹14.09 lakh and ₹18.60 lakh
 
-## America at 250
-What does the US see when it looks in the mirror? As a nation of impossible ambition celebrates its founding, a special edition of FT Weekend Magazine asks writers, thinkers and leaders to reflect on the first 250 years
+## Iconic Theyagaraja theatre in Tiruvanmiyur to make way for ₹500-crore commercial project
+BBCL signs joint development pact with the Theyagaraja family for one-acre Tiruvanmiyur property; project will house retail, offices and a new multiplex
 
-## UK farmers embrace regenerative methods after heatwave shock
-High temperatures are leading farmers to cut out chemicals and intensive ploughing to improve soil quality so it retains water
+## Modi’s ethanol push comes under pressure as motorists protest
+India met its target of blending 20% ethanol into gasoline five years ahead of schedule in 2025 and is evaluating a further increase in the mandate
 
-## Good vibes are masking a reset in markets
-Stock market returns should not distract investors from the new AI trade taking hold
+## Govt raises ONGC chairman entry age to 59, offers up to five-year tenure
+The selection will be made by a search-cum-selection committee constituted by the oil ministry instead of the normal PESB selection process
 
-## How BlueCrest’s Michael Platt fell foul of the UK taxman
-The billionaire hedge fund manager has a history of making big bets. Not all of them have come off
+## “Dealers, OEMs on the frontline to address consumer complaints on E20, says govt”
+The agency maintained that its studies found only a 2–6% reduction in fuel efficiency under standard test conditions and no evidence of widespread E20-related engine or material failures, countering social media claims of mileage losses of up to 10 to 30%
 
-## Wimbledon: the luxury marketing platform
-Also in today’s newsletter: Silverstone’s place on the grid and a Nike recovery update
+## ‘E20 is more a communication issue than a technology issue’: ARAI Chief Reji Mathai
+The government’s recent 10-point clarification defending India’s E20 ethanol programme cited ARAI studies to address concerns about fuel efficiency, engine durability, and older vehicles
 
-## UBS makes progress in its quest for mediocrity in the US
-Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth business by 2028
+## Tata Steel aims to spend ₹20,000 cr in FY27 on expansion, adoption of technologies
+The capex for the ongoing FY27 will be around 38 per cent higher from ₹14,559 crore that Tata Steel has spent on capital expenditure in the preceding 2025-26 financial year
 
-## It is investors vs gamers as Sony ditches discs
-The move is being presented as zeitgeist rather than greedy rent extraction
+## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
 
-## Lack of data puts England’s ‘mansion tax’ valuations at risk
-Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
-
-## Adani Group to build 2,000-bed hospital in West Bengal’s New Town
-The proposed hospital will have 1,000 free beds and 1,000 commercial beds.
-
-## India lifts gas supply curbs as LNG shipments through Strait of Hormuz resume
-The Centre’s latest move indicates easing energy supply concerns as LNG shipments resume through the Strait of Hormuz and fuel availability improves
-
-## Top IT stocks stare at great valuation reset
-While Indian IT valuation premium currently ranges from 40-80% over Accenture, the earnings growth outlook lacks the same optimism
-
-## Things to check while upgrading term insurance policy
-A term insurance plan works best when it combines adequate financial protection with transparency and long-term discipline
-
-## Why term insurance is a fair option for home loan customers
-Reasons why a term insurance paired with a home loan is better than home loan insurance
-
-## US Market Outlook: Crucial juncture
-The Dow Jones is coming close to an important resistance from where it can turn down
-
-## Nifty 50 prediction for the week: Bulls charge up
-An inverted head and shoulder pattern on the charts of Nifty and Sensex reinforce the bullish case
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Coforge, Delhivery and Max Healthcare
 
 ## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
 The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
@@ -84,56 +84,59 @@ India is bolstering its energy security following the Strait of Hormuz disruptio
 ## Centre raises onion procurement price by 13% — here's why
 The government has increased its onion procurement price to Rs 2,125 per quintal, a 13% jump, to boost farmer earnings and accelerate buffer stock building. This marks the fifth revision this season amidst sluggish procurement. Despite this, domestic availability remains stable with adequate stocks 
 
-## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
-India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
+## Modi’s Indonesia visit: Towards one of India’s most valuable strategic partnerships
+PM Modi’s visit to Indonesia comes as India seeks to deepen strategic, economic and maritime ties with one of its key Indo-Pacific partners.
 
-## US DoJ says Adani case should never have been brought, urges judge to drop charges permanently
-The filing argued the criminal securities fraud charges against Adani and associates lacked legal basis as the misconduct occurred almost entirely outside US
+## Monsoon has arrived in Delhi, but where is the rain? Experts explain
+Delhi weather: Monsoon arrived in the national capital on July 2. However, the city has not received monsoon-like rainfall till now.
 
-## India ranks 125th in Global Passport Index 2026, slips one spot from last year
-The latest report ranks passports not only on the ease of international travel but also on the benefits they offer for living, working and investing.
+## Tamil Nadu BJP chief Nainar Nagendran alleges ‘house-trading’ in state: ‘It’s true'
+TN BJP President Nainar Nagendran alleged horse-trading in the state politics to help TVK-led government ruling alliance showcase its majority in the Assembly.
 
-## 'New EV policy will help long-term car owners': Delhi CM Rekha Gupta
-Her remarks come days after the Delhi government unveiled the EV Policy 2026 to accelerate electric vehicle adoption and expand charging infrastructure.
+## IMD issues red alert as torrential rain lashes Mumbai; over 250 mm recorded in 24 hrs
+Mumbai recorded over 190 mm average rainfall in 24 hours, with some areas receiving more than 250 mm as the IMD issued a red alert.
 
-## 9 suspended amid political row over J&K books ‘glorifying’ separatism
-The leader of the opposition in legislative assembly and BJP MLA, Sunil Sharma called the act “academic jihad” aimed at polluting young minds.
+## Chhattisgarh’s Pandavani legend Teejan Bai dies at 70
+The 70-year-old Padma Vibhushan awardee, Teejan Bai, had been undergoing treatment at the hospital since May 27.
 
-## Centre designates new crop of Pak Jihadis against India
-Out of the 23 designated terrorists, 13 belong to Lahore-based LeT and remaining 10 to the Bahawalpur-based JeM terror syndicates.
+## Defying boycott call, Manipur CM attends BJP MLA’s funeral: ‘Dialogue only way forward’
+Manipur CM Yumnam Khemchand Singh travelled to the district by helicopter amid protests and road blockades.
 
-## Chandrima Bhattacharya quits all TMC party posts as rebel camp grows; Mamata calls them ‘traitors’
-Mamata Banerjee launched a counterattack in a social media livestream later on Saturday, accusing rebel leaders of conspiring with the BJP to split the party.
+## Search for two Lashkar-e-Taiba terrorists enters second day in J&K's Shopian
+The 2 trapped terrorists have been identified as Latif and Zakir. They opened fire on the approaching Army, who effectively retaliated, triggering a gunfight.
 
-## UP Police to seek custody of Ram Temple donation case accused, probe money trail
-The police will ask the additional district judge (anti-corruption) Rajat Varma to award police custody of the two accused men, the officials cited above said.
+## 'Every tree makes us anxious': 8 years after fatal tree branch accident, Mumbai family lives with monsoon ‘trauma’
+It’s been eight years since a branch broke off and fell on his 91-year-old aunt, claiming her life, but the trauma lives on.
 
-## India overcame crisis on refining prowess, will keep building: PM Modi
-PM said India was particularly exposed as around 70% of its LPG demand relies on imports, with roughly 90% of that historically routed through Gulf countries
-
-## Nabbed with stolen mobile phones, 2 sentenced to 10 years in jail by Gujarat court
+## Taylor Swift-Travis Kelce wedding: Guests call vows ‘entertaining, emotional, irreverent’
 
 
-## A ‘supari’ from ex-employer in Fiji: Two men who shot at Vadodara trader arrested
+## Who will France face in Round of 16? Full bracket & path to final for Mbappe & Co.
 
 
-## Pre-conceived design to take over Gymkhana Club property: Civil suit in Delhi HC
+## Legendary Pandavani singer Teejan Bai, who took the art form across the world, dies at 69
 
 
-## Alpha Box Office Collection Day 2 Live Update: Alia Bhatt film earns over Rs 37 crore worldwide
+## Indian shuttlers should learn to think on their feet, win without a coach around
 
 
-## ‘EV policy for common people… maybe in next phase, will include hybrid vehicles too’: Rekha Gupta
+## Odisha has a plan to make power grid disaster-proof, but it needs over Rs 9,000 crore from Centre
 
 
-## Parvathy Thiruvothu discusses female representation, activism and I, Nobody at Expresso
+## Mumbai rains: Water enters Amitabh Bachchan’s Jalsa compound in viral video
 
 
-## ‘Exceeded jurisdiction’: Gujarat HC raps sessions court, grants bail to three accused
+## 5 everyday habits that may be quietly worsening your insulin resistance
 
 
-## Deschamps on Mbappé’s rough treatment by Paraguay: ‘I asked two biggest lads stand around Kylian’
+## Ketan Agarwal’s grandfather dies after brief illness
 
+
+## Why has China lowered its own ranking in global financial competitiveness?
+A Beijing-based governmental think tank has taken the rare step of lowering China’s global financial competitiveness ranking by one place, despite top leaders of the world’s second-largest economy vowing to build it into a financial superpower. China ranks fifth globally in financial competitiveness
+
+## Why Hong Kong’s major developers stayed out of Northern Metropolis’ first pilot tender
+Hong Kong’s first Northern Metropolis pilot tender drew only two confirmed bidders on Friday, underscoring the challenge facing the government’s effort to enlist private developers in delivering not only homes but also its broader technology and industrial ambitions. Henderson Land Development submi
 
 ## After hooking China on coffee, Starbucks ramps up consumer strategy
 When Anne walked into a Starbucks branch in Seattle more than a decade ago, she knew exactly what to expect: a latte, a comfortable chair and a place to work. Now, after living in the technology hub of Hangzhou, the capital of the eastern province of Zhejiang, and working as an English teacher for t
@@ -152,12 +155,6 @@ China’s electric vehicle (EV) king BYD has leapfrogged once more over Tesla to
 
 ## Chinese tea chain ordered to pay Louis Vuitton US$1.5 million for trademark infringement
 Chinese tea chain Molly Tea has been ordered to pay Louis Vuitton 10.3 million yuan (US$1.5 million) in damages for the unauthorised use of a logo similar to the French luxury brand’s four-petalled floral monogram. The Suzhou Intermediate People’s Court, in eastern China’s Jiangsu province, ruled th
-
-## Hong Kong broadens yuan’s financial footprint as currency gains global appeal
-Hong Kong’s latest pledge to deepen the use of the yuan in corporate financing, investment and cross-border trade reflected the city’s determination to defend its status as the world’s most valuable offshore yuan hub and widen its edge over Shanghai and Singapore, analysts said. The road map, unveil
-
-## Astana Finance Days 2026 - Delivering Impact: Capital in Action
-[The content of this article has been produced by our advertising partner.] Astana Finance Days (AFD), the flagship financial forum of the Astana International Financial Centre, has evolved into one of the region’s leading platform for capital markets, investment dialogue and cross-border cooperatio
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Native Americans Resisting ICE
+A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the US.
+
+## Trump lauds Americans in storm-delayed 250th anniversary speech
+President Trump has praised Americans as ‘a historic and heroic people’, in a speech on the nation's 250th anniversary.
+
+## A name, a document, a future: Cameroon’s fight to register every child
+Efforts to expand birth registration in Cameroon are gaining ground, but millions of children remain undocumented.
+
+## Fireworks light up New York City to mark 250 years of US independence
+Fireworks lit up the New York City skyline as America marked its 250th anniversary.
+
+## Severe weather disrupts US’s 250th celebrations
+President Trump describes milestone as 'one of the most joyous and glorious' in US's history in campaign style speech.
+
 ## This immigrant served in the US military. Now he faces deportation
 Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.
 
 ## White nationalists march on Washington DC ahead of Freedom 250 celebrations
 Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.
 
-## Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire
+## Iran war live: Huge crowds mourn Khamenei, Trump hints at Netanyahu meeting
 Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.
-
-## White nationalists march in Washington, DC, area during July 4 festivities
-Donald Trump has faced condemnation for failing to forcefully reject white nationalists during his presidency.
-
-## Ticket prices plunge for USA-Belgium World Cup last-16 match
-The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.
-
-## Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie
-Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in last 16.
-
-## US influence challenged by changing global order: Paolo von Schirach
-US influence challenged by changing global order: Paolo von Schirach
-
-## Masses of Iranians defy heatwave on second day of Khamenei’s funeral
-Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
