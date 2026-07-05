@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## FirstFT: China releases Christian pastor after Trump raised his case with Xi
+Also in today’s newsletter: Wall Street banks recover in China and Ukrainian drone strikes spur Russian fuel crisis
+
+## UK regulator warns of ‘arms race’ to keep up with AI use in financial services
+FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions
+
 ## Ask Gideon Rachman a question — Has the Iran war changed the world order?
 Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
 
@@ -18,14 +24,17 @@ Popular comedian who called President Recep Tayyip Erdoğan a ‘dictator’ is 
 ## China releases Christian pastor after Trump appeal
 US president raised case of Protestant church founder Ezra Jin during meeting with Xi Jinping in May
 
+## Fifa reverses suspension of star US striker after call from Trump
+Belgium cries foul after decision to drop red card against Folarin Balogun clears him to play World Cup match
+
+## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
+UK airline’s board says it is minded to recommend proposal by US private credit group
+
 ## ‘Heat dome’ and storms over eastern US send power prices soaring
 Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
 
 ## Data centres are a crucial test of US industrial resolve
 America must not repeat the mistakes that handed China rare-earth dominance
-
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
-UK airline’s board says it is minded to recommend proposal by US private credit group
 
 ## Lululemon’s latest struggle: slowing sales in key China market
 Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
@@ -35,12 +44,6 @@ Paris loses out on cheap loans due to strict eligibility criteria it had champio
 
 ## How Bending Spoons built a $23bn tech empire from struggling brands
 Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
-
-## Octopus Energy set for showdown with workers over union recognition
-Fast-growing energy supplier says employee share ownership means it’s not a ‘them and us’ company
-
-## Uber stalls European food delivery push as it pursues Delivery Hero takeover
-Ride-hailing company will no longer launch in five of its seven planned new markets this year
 
 ## Rise in dollar inflows may put additional pressure on Gold prices
 Strong NRI interest in FCNR(B) deposits could bolster the rupee and keep domestic gold prices under check, say analysts
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Albanian court frees protesters who rallied against Kushner-linked resort
+The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests
+
+## Mexico vs England LIVE: FIFA World Cup 2026 – last 16
+Live coverage and text updates with full build-up and team news ahead from our commentary stream of Mexico vs England.
+
+## FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16
+Cristiano Ronaldo is just one of several key talking points before Portugal and Spain clash in a round of 16 epic in Dallas.
+
+## 10,000 people evacuated as wildfire tears through southern France
+A fast-moving wildfire has forced around 10,000 people to evacuate after burning more than 1,500 hectares in France.
+
+## How will the rise of right-wing populism affect Latin America?
+Conservatives are winning elections across the region.
+
+## 8 injured, including 4 children, in New York City Fourth of July shooting
+A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.
+
 ## Volunteers vow to keep searching for Venezuela earthquake survivors
 Rescue teams in Venezuela’s La Guaira State say they’re never going to give up their search for earthquake survivors.
 
 ## Australia thrash England to win record seventh Women’s T20 World Cup
 Beth Mooney (64) and Phoebe Litchfield (48) lead Australia’s stunning seven-wicket win over the hosts at Lord’s.
-
-## 12-tonne whale removed from DR Congo beach
-A dead whale weighing about 12 tonnes has been recovered from the beaches of Muanda.
-
-## America at 250: Democracy’s greatest experiment?
-Chris Hedges reflects on 250 years of US independence - the nation's ideals, contradictions, and what it has become.
-
-## Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka
-Russia says its forces have taken the city of Kostiantynivka in Donestk, Ukraine denies that.
-
-## Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent
-Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.
-
-## Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals
-Naomi Osaka beat world number one Aryna Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.
-
-## Palestinians rally outside Al-Shifa hospital, demanding medical evacuation
-Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
