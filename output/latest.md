@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Storms force evacuation of July 4 celebrations in Washington
+Trump to speak at Lincoln Memorial as extreme heat and thunderstorms disrupt 250th anniversary events
+
 ## Iran mourners demand revenge at ayatollah’s funeral
 The week-long remembrance is intended to demonstrate public support for the regime
 
@@ -21,9 +24,6 @@ High temperatures are leading farmers to cut out chemicals and intensive ploughi
 ## Good vibes are masking a reset in markets
 Stock market returns should not distract investors from the new AI trade taking hold
 
-## It is investors vs gamers as Sony ditches discs
-The move is being presented as zeitgeist rather than greedy rent extraction
-
 ## How BlueCrest’s Michael Platt fell foul of the UK taxman
 The billionaire hedge fund manager has a history of making big bets. Not all of them have come off
 
@@ -32,6 +32,9 @@ Also in today’s newsletter: Silverstone’s place on the grid and a Nike recov
 
 ## UBS makes progress in its quest for mediocrity in the US
 Bank is aiming for an 18 per cent pre-tax profit margin in the US wealth business by 2028
+
+## It is investors vs gamers as Sony ditches discs
+The move is being presented as zeitgeist rather than greedy rent extraction
 
 ## Lack of data puts England’s ‘mansion tax’ valuations at risk
 Research finds around two-fifths of homes valued at £1.5mn-plus have no Land Registry sales records
@@ -84,53 +87,56 @@ The government has increased its onion procurement price to Rs 2,125 per quintal
 ## Mumbai-Ahmedabad bullet train: India to get its 1st high-speed rail service by 2027; check key features, travel time & more
 India's first bullet train is set to begin its journey by 2027, with the Surat to Bilimora section slated for inauguration. Union Railway Minister Ashwini Vaishnaw announced that construction on the Mumbai-Ahmedabad corridor has surpassed 80% completion. This ambitious project, utilizing Japanese Sh
 
-## Jaishankar to travel to West Asia, US and Belgium
-Jaishankar will travel to New York to launch on July 13 India’s official campaign for non-permanent membership of the UN Security Council during 2028-29.
+## US DoJ says Adani case should never have been brought, urges judge to drop charges permanently
+The filing argued the criminal securities fraud charges against Adani and associates lacked legal basis as the misconduct occurred almost entirely outside US
 
-## PM Modi's 'sun rahe ho na Binod' remark during Gujarat event has audience in splits | Watch
-PM Modi was speaking in Sanand, Gujarat where he inaugurated the CG Semi Outsourced Semiconductor Assembly and Test facility.
+## India ranks 125th in Global Passport Index 2026, slips one spot from last year
+The latest report ranks passports not only on the ease of international travel but also on the benefits they offer for living, working and investing.
 
-## E20 opponents to begin sit-in at Jantar Mantar on Sunday against govt's ethanol-blending mandate
-The protest is scheduled to begin at 2 pm and is being billed by organisers as the first of its kind against government's ethanol-bleding mandate.
+## 'New EV policy will help long-term car owners': Delhi CM Rekha Gupta
+Her remarks come days after the Delhi government unveiled the EV Policy 2026 to accelerate electric vehicle adoption and expand charging infrastructure.
 
-## Leadership, AI, rural economy top focus at Chhattisgarh cabinet’s ‘Chintan Shivir’
-Chief minister Vishnu Deo Sai described the training camp as a necessity in changing times, saying governments must continuously learn
+## 9 suspended amid political row over J&K books ‘glorifying’ separatism
+The leader of the opposition in legislative assembly and BJP MLA, Sunil Sharma called the act “academic jihad” aimed at polluting young minds.
 
-## Trust on trial: How the Bangalore crèche case has shaken working parents
-The purported abuse of toddlers at a Capgemini daycare has shaken working parents' trust in childcare centres, prompting many to question what is truly safe
+## Centre designates new crop of Pak Jihadis against India
+Out of the 23 designated terrorists, 13 belong to Lahore-based LeT and remaining 10 to the Bahawalpur-based JeM terror syndicates.
 
-## Modi govt eyeing Constitutional amendments as monsoon session nears: The math, politics and fears — decoded
-“Despite many efforts, they didn't get a two-thirds majority... They're splitting parties,” Congress gen secy Jairam Ramesh said; monsoon session begins July 20
+## Chandrima Bhattacharya quits all TMC party posts as rebel camp grows; Mamata calls them ‘traitors’
+Mamata Banerjee launched a counterattack in a social media livestream later on Saturday, accusing rebel leaders of conspiring with the BJP to split the party.
 
-## One bike, 5 dozen pending challans, lakhs pending in fine: Gurugram traffic police's rare find, impounded
-Gurugram traffic police impound bike with 63 pending challans worth ₹5.45 lakh
+## UP Police to seek custody of Ram Temple donation case accused, probe money trail
+The police will ask the additional district judge (anti-corruption) Rajat Varma to award police custody of the two accused men, the officials cited above said.
 
-## PM Modi lauds '140 crore Indians' for defeating ‘attempts to destabilise nation’ amid US-Iran war-induced energy crisis
-PM Modi thanked citizens for standing firmly with the country during what he described as one of the most challenging global energy crises.
+## India overcame crisis on refining prowess, will keep building: PM Modi
+PM said India was particularly exposed as around 70% of its LPG demand relies on imports, with roughly 90% of that historically routed through Gulf countries
 
-## Adani power infra: Gujarat government notifies new compensation policy for farmers
-
-
-## Barmer mosque razings spark legal battle, unite residents across faith
+## Nabbed with stolen mobile phones, 2 sentenced to 10 years in jail by Gujarat court
 
 
-## ‘Saw missiles for first time’: For Paanch Saab, baptism by fire at sea near Hormuz
+## A ‘supari’ from ex-employer in Fiji: Two men who shot at Vadodara trader arrested
 
 
-## Biggest cities offer better salaries, more regular jobs for women, but stark gender disparity in income favours men
+## Pre-conceived design to take over Gymkhana Club property: Civil suit in Delhi HC
 
 
-## CM Rekha Gupta interview: ‘Delhi transforming… has chosen a new direction for cleaner, more modern future’
+## Alpha Box Office Collection Day 2 Live Update: Alia Bhatt film earns over Rs 37 crore worldwide
 
 
-## CBI arrests former CFO of Reliance Capital in bank fraud case
+## ‘EV policy for common people… maybe in next phase, will include hybrid vehicles too’: Rekha Gupta
 
 
-## Narendra Modi greets Donald Trump, people of US on 250th anniversary of independence
+## Parvathy Thiruvothu discusses female representation, activism and I, Nobody at Expresso
 
 
-## Mount Everest’s ‘Green Boots’ may finally come home as India begins recovery mission
+## ‘Exceeded jurisdiction’: Gujarat HC raps sessions court, grants bail to three accused
 
+
+## Deschamps on Mbappé’s rough treatment by Paraguay: ‘I asked two biggest lads stand around Kylian’
+
+
+## After hooking China on coffee, Starbucks ramps up consumer strategy
+When Anne walked into a Starbucks branch in Seattle more than a decade ago, she knew exactly what to expect: a latte, a comfortable chair and a place to work. Now, after living in the technology hub of Hangzhou, the capital of the eastern province of Zhejiang, and working as an English teacher for t
 
 ## Caution on land tenders key to Hong Kong’s property recovery: analysts
 As Hong Kong moves forward with its huge new Northern Metropolis development zone, analysts argue the government should take a cautious approach to land sales to help sustain the recent recovery in the residential property market. The large-scale project near the border with the Chinese mainland con
@@ -152,9 +158,6 @@ Hong Kong’s latest pledge to deepen the use of the yuan in corporate financing
 
 ## Astana Finance Days 2026 - Delivering Impact: Capital in Action
 [The content of this article has been produced by our advertising partner.] Astana Finance Days (AFD), the flagship financial forum of the Astana International Financial Centre, has evolved into one of the region’s leading platform for capital markets, investment dialogue and cross-border cooperatio
-
-## AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say
-A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday. Spooked investors interpreted a potential pivot by Meta Platform
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## This immigrant served in the US military. Now he faces deportation
+Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.
+
+## White nationalists march on Washington DC ahead of Freedom 250 celebrations
+Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.
+
+## Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire
+Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.
+
+## White nationalists march in Washington, DC, area during July 4 festivities
+Donald Trump has faced condemnation for failing to forcefully reject white nationalists during his presidency.
+
+## Ticket prices plunge for USA-Belgium World Cup last-16 match
+The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.
+
+## Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie
+Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in last 16.
+
 ## US influence challenged by changing global order: Paolo von Schirach
 US influence challenged by changing global order: Paolo von Schirach
 
 ## Masses of Iranians defy heatwave on second day of Khamenei’s funeral
 Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.
-
-## Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country
-In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.
-
-## Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada
-Azzedine Ounahi scored two of three second-half goals as Morocco ended cohosts run to reach last eight.
-
-## A politically charged holiday: The US celebrates its 250th anniversary
-The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.
-
-## America’s Indigenous Legacy
-The Potomac isn't just the name of a river, it's part of a much older story. Al Jazeera's Emma Withrow explains.
-
-## Has the US reckoned with its own history?
-Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is sliding backwards on civil rights.
-
-## Will economic pressure move the Kremlin towards talks with Kyiv?
-Relentless Ukrainian strikes on refineries have caused a fuel crisis in Russia.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
