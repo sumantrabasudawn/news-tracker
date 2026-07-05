@@ -1,13 +1,28 @@
 # AION Intelligence
 
+## ‘Return’ powers to Holyrood taken after Brexit, Scottish minister tells Burnham
+SNP government says UK’s likely next leader must include the nations as well as English regions in his devolution drive
+
+## Parliament watchdog urged to investigate Nigel Farage over benefits from fraudster
+Call for new inquiry into ‘in-kind’ benefits from aide before Reform leader’s election as MP in July 2024
+
+## Bernard Arnault ordered to pay €22.5mn in back taxes
+France’s richest man and billionaire owner of luxury group LVMH will appeal against ruling
+
+## Iran leadership shows unity at ayatollah’s funeral, but successor absent
+Mojtaba Khamenei does not join other top leaders and sons alongside coffin of slain supreme leader
+
+## US voters say Trump’s Iran war not worth the cost — FT poll
+Survey shows conflict is dragging down president’s approval ratings ahead of November midterms
+
+## The Europeanisation of Nato is ever more important
+Transatlantic military alliance will be key to the continent’s future security
+
 ## Ukraine striking Russian energy infrastructure at unprecedented rate
 Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis in decades
 
 ## What will FOMC minutes reveal about Warsh’s debut at the Fed?
 Markets Questions is the FT’s guide to the week ahead
-
-## Rich nations must unleash land, labour, energy and capital
-As policymakers shift towards industrial interventionism, they risk neglecting the simplest drivers of growth
 
 ## ‘Heat dome’ and storms over eastern US sends electricity prices soaring
 Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
@@ -18,14 +33,11 @@ Growth in second-largest economy has helped activewear maker offset series of ot
 ## French push to exclude UK from EU defence spending backfires
 Paris loses out on cheap loans due to strict eligibility criteria it had championed
 
-## Returning to pre-Trumpian politics won’t save America
-The opening of the Obama presidential library set off a wave of nostalgia for an era that is not coming back
+## How Bending Spoons built a $23bn tech empire from struggling brands
+Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
 ## Octopus Energy set for showdown with workers over union recognition
 Fast-growing energy supplier says employee share ownership means it’s not a ‘them and us’ company
-
-## How Bending Spoons built a $23bn tech empire from struggling brands
-Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
 ## Uber stalls European food delivery push as it pursues Delivery Hero takeover
 Ride-hailing company will no longer launch in five of its seven planned new markets this year
@@ -36,29 +48,32 @@ Germany’s OHB warns three-way merger would hurt competition, ultimately increa
 ## Wall Street banks recover in China amid trading boom
 China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
 
-## New incentive package targets growth in Ladakh’s Pashmina economy
-Among the key measures approved is a 25 per cent % production-based incentive for Pashmina herders under the Livestock Development Incentive Programme.
+## Below the line
 
-## India’s EV firms raise nearly ₹3,800 crore as investor interest accelerate
-Four major fundraising deals worth nearly ₹3,800 crore highlight growing investor interest in India’s automobile and electric vehicle ecosystem
 
-## IIFCL mobilises ₹1,848 cr via bonds, strengthens resource base for infra financing
-In line with the policy framework of the government and the Reserve Bank of India, IIFCL said it is also evaluating opportunities to raise funds through ECBs
+## From tax portal to digital public infrastructure: GSTN’s nine-year transformation
+Explore GSTN’s evolution from a tax portal to a vital digital public infrastructure, revolutionising compliance and governance in India
 
-## India begins work on strategic natural gas storage after West Asia crisis
-Officials are evaluating a range of storage options, including salt caverns, depleted gas fields and cryogenic tanks near LNG regasification terminals
+## Radico Khaitan eyes 20% volume growth in premium portfolio in FY27
+The company had achieved an EBITDA margin of close to 16.8% last fiscal and expects this to expand by 125 basis points in FY27
 
-## A life devoted to India’s unity and progress
+## Telecom preview: Poised for steady Q1 revenue and ARPU growth on subscriber gains and premiumisation push
 
+
+## Guide to investing in Mutual Funds through SIPs
+In mutual funds, a direct plan means you invest directly with the Asset Management Company, while a regular plan involves investing through an Association of Mutual Funds in India-registered mutual fund distributors
 
 ## Adani Defence breaks ground for ₹2,500 cr complex for medium- & long-range missile systems in Madhya Pradesh
 The integrated facility will manufacture medium- and long-range missile systems while also producing critical inputs such as composite propellants, TNT and explosive-grade materials under one roof
 
-## Monsoon reloads as depression threatens to drench North-West India next
-Massive falls lead to drastic cut in rain deficit - by 23% over Central India and by 13% over entire country - with even more rain forecast this week
+## Gold, silver hammered
+The trend for both gold and silver turned negative post the breach of key support levels; the trend for precious metals would remain weak until the resistance level is not taken out
 
-## EV start-ups seek five changes in Auto PLI as Heavy Industries Minister Kumaraswamy reviews suggestions
-Having invested an estimated ₹20,000–25,000 crore in India’s EV ecosystem, startup founders are seeking five changes to the ₹25,938-crore Auto PLI scheme, arguing the current framework rewards manufacturing scale but overlooks technology, R&D and indigenous innovation
+## From cooperative reform to cooperative competitiveness
+The Tribhuvan Sahkari University must play a vital role in imparting cooperative education and training
+
+## OPEC+ agrees fresh August oil output hike as Strait of Hormuz reopens
+OPEC+ is boosting oil output by another 188,000 barrels daily from August, continuing to reverse earlier cuts. Despite this, actual supply remains below pre-conflict levels due to disruptions impacting key producers. Oil prices have already fallen to pre-war figures, influenced by weaker Chinese dem
 
 ## 'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims
 The Petroleum Ministry has debunked claims of Bhutan refusing India's E20 petrol, stating no such offer was ever made. This clarification follows opposition allegations that several neighboring countries rejected the fuel. The government assures the public that E20 has undergone extensive testing, e
@@ -81,55 +96,52 @@ Dalal Street concluded the past week on a high note, with top companies collecti
 ## Pakistan's public money a privilege? World Bank report reveals stark fiscal faultlines
 Pakistan's fiscal decentralisation efforts have failed to bridge regional spending gaps, with provincial capitals like Quetta and Lahore receiving significantly more per person than their own provinces. Despite budget surpluses in some areas, poorer regions face underinvestment. Concerns also arise 
 
-## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
-The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
+## Just over two months into marriage, Delhi woman dies after fall from NDMC flats; family alleges dowry murder
+The family alleged that the deceased had been subjected to harassment and physical assault after marriage.
 
-## Imams' association chief questions VHP over ₹1,400 crore collected during Rath Yatra
+## Jharkhand to present AI and digital governance roadmap at national consultation
+Jharkhand to unveil its vision for AI and digital governance at the National Stakeholders' Consultation 2026 in New Delhi.
+
+## Odisha SIR deletes around 2 million names; final rolls due September 6
+Chief electoral officer (CEO) of Odisha, R Sant Gopalan said the deletions were largely on account of deaths, migration and duplicate enrolments
+
+## ‘Hindus have been hypnotised’: Uddhav Thackeray revives old Sena pitch with Ayodhya Ram Mandir donation row
+Launching his party's ‘Ram Raksha Andolan’ over alleged theft of donations at Ram Mandir in Ayodhya, Uddhav Thackeray accused BJP-led Centre of “looting Hindus”
+
+## UP man raped domestic help for years, then forced her to convert religion for marriage, say Police
+The woman alleged that the man brought her to his house for domestic work, taking advantage of her poverty and the fact that she was an orphan.
+
+## Centre tightens the screw on social media apps with WhatsApp, Instagram, Telegram under scanner. But why?
+From the NEET paper leak to pirated movies and now, child sexual abuse material, the Centre is moving to tighten the screws on social media
+
+## Muslim body chief questions VHP over ₹1,400 crore collected during Rath Yatra
 Linking the current allegations to the VHP, Rashidi alleged that Ram Temple Trust general secretary Champat Rai was being deliberately kept at arm's length.
 
-## India's oil ministry vs Nepal news outlet over ‘rejection’ of E20 petrol by Balen's govt
+## India's oil ministry vs Bhutanese news outlet over 'rejection' of E20 petrol
 In ‘Fact Check’ posted on its social media accounts, ministry said: “Claims that Bhutan declined an offer to import E20 petrol from India are incorrect.”
 
-## Bengaluru reclaims 200 km of footpaths, internet split over street vendor evictions: 'Not be treated like immigrants'
-The Karnataka government's ongoing Safe Footpath Campaign has reclaimed more than 200 km of footpaths across arterial and sub-arterial roads.
-
-## Body of 12-year-old rape and murder victim recovered in Bengal's Baruipur: Police
-Police said a first information report (FIR) has been registered and an investigation is underway.
-
-## Govt extends deadline for WhatsApp to respond to username issue to July 9
-A government official told HT on Sunday that the new deadline is now July 9.
-
-## Making poll debut, Prashant Kishor's appeal to Bankipur's ‘richest, educated’ people
-Prashant Kishor hailed the people of Bankipur as Bihar's “richest” and “most educated” and urged them to vote for him.
-
-## ‘Incapable of moral courage’: Cong's Khera slams PM Modi for silence on Trump's Iran remarks during Khamenei funeral
-Pawan Khera called PM Modi ‘compromised’ and his government ‘incapable’ to condemn ‘reckless insinuations of violence by their masters in the United States.’
-
-## Robbed, pushed into well, left to die: Telangana woman survives 21-hour ordeal, student in ₹4 lakh gambling debt held
-Her rescue led investigators to Dhamma Dinesh Reddy, a student, who police say had planned the robbery while struggling with mounting debts of lakhs.
-
-## How Kamal Haasan skipped Rs 1.5 crore salary for Avvai Shanmugi and still made 3x profit
+## Rujuta Diwekar shares 3 golden rules for weight loss: ‘Magic is in the process’
 
 
-## Hindus will not spare anyone who loots a temple by misusing Hindutva, says Uddhav Thackeray
+## Puri-Koraput Express launch: Train number, route, stops, timetable
 
 
-## 5 common leftover mistakes that could put your health at risk
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 169) — Check out answers with explanations
 
 
-## Dubai Metro expansion: Road closures announced near Burj Khalifa until 2026-end
+## Ayodhya Ram Temple Donation Theft Case: After Avinash Shukla, police to seek custody of other accused
 
 
-## The dichotomy of Belgium’s Lukaku: Which version will turn up against the USA?
+## Why Shreyas needs to look beyond Arshdeep to find right bowling combination
 
 
-## West Bengal weather: Bay depression triggers heavy rain, Kolkata under thunderstorm alert
+## Maharashtra farm loan waiver: Eligibility, one-time settlement, Rs 50,000 incentive
 
 
-## ‘Newcomers are still exploited’: Parvathy Thiruvothu calls out lack of contracts in cinema
+## Plan to hold Kambala race during Mysuru Dasara celebrations runs into hot water
 
 
-## CBI arrests 2 in Bengaluru over South Western Railway paper leak case
+## Elephant that faced off with tigers, patrolled Kaziranga for decades laid to rest with guard of honour
 
 
 ## Berkshire Hathaway’s multibillion-dollar buy of Taylor Morrison to boost US housing market
@@ -252,6 +264,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Extreme weather disrupts US’s 250th anniversary celebrations
+Extreme weather disrupted the US’s 250th anniversary celebrations, forcing evacuations, cancellations and delays.
+
+## Millions attend funeral prayers for Iran’s Khamenei and family
+Millions of people have attended funeral prayers in Tehran for Iran's late Supreme Leader Ayatollah Ali Khamenei.
+
+## At least 15 Yemeni government troops killed in Hodeidah fighting
+Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.
+
+## Dr Hussam Abu Safia’s life in ‘grave danger’
+‘This is the last time you'll see me.’
+
+## What to know about the renewed coordinated attacks across Mali
+Separatist Tuareg-led group and regional al-Qaeda affiliate have claimed responsibility for attacks on army positions.
+
 ## Indonesian army recovers US pilot’s body from Papua
 Indonesian troops have recovered the body of American pilot Nicholas Goselin from the restive Papua region.
 
@@ -260,21 +287,6 @@ Elyas Abu Safia says his father Hussam can barely breathe or speak after more th
 
 ## Sooryavanshi sets record for youngest India player in international match
 Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.
-
-## Trump praises US military as it marks 250 years of independence
-Trump praises US military as it marks 250 years of independence
-
-## China and Russia to hold annual joint naval drills
-Exercises from Monday to July 13 off Qingdao to be followed by joint maritime patrols in the Pacific Ocean.
-
-## Release Dr Hussam Abu Safia immediately!
-It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.
-
-## Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude
-One of the most anticipated knockout matches takes place when Mexico plays England at the Azteca in the round of 16.
-
-## Reform UK’s Farage failed to disclose funds from convicted criminal: Report
-George Cottrell provided funds for Reform UK leader's security, drivers, staff and accommodation, Sunday Times reports.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
