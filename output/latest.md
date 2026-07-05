@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Burnham warned over lack of cabinet as Number 10 transition talks step up
+Prospective Labour prime minister could take office as soon as July 20
+
+## Nato leaders gather for crucial meeting in Ankara
+Plus, nominations open in UK’s leadership contest, Iran buries former leader, Shell gives a trading update
+
 ## Netanyahu government defies Israel’s top court over TV regulation
 Premier’s cabinet raises fears of a constitutional crisis by formally rejecting ruling by Supreme Court
 
@@ -18,13 +24,7 @@ America must not repeat the mistakes that handed China rare-earth dominance
 ## Saving Nato in the era of Trump
 The big questions hanging over the alliance will not be discussed in Ankara
 
-## ‘Return’ powers to Holyrood taken after Brexit, Scottish minister tells Burnham
-SNP government says UK’s likely next leader must include the nations as well as English regions in his devolution drive
-
-## Parliament watchdog urged to investigate Nigel Farage over benefits from fraudster
-Call for new inquiry into ‘in-kind’ benefits from aide before Reform leader’s election as MP in July 2024
-
-## EasyJet reaches outline agreement on £5bn takeover by Castlelake
+## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
 UK airline’s board says it is minded to recommend proposal by US private credit group
 
 ## Lululemon’s latest struggle: slowing sales in key China market
@@ -114,28 +114,28 @@ The Diamond Harbour police lodged a second FIR on July 3 based on a similar comp
 ## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
 The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
 
+## Turtuk to Tso Moriri: 7 offbeat places to see in Ladakh
+
+
+## Video: Mexico fans blast horns, set off fireworks outside England’s hotel before World Cup clash
+
+
+## Australia clinch 7th Women’s T20 World Cup with 7-wicket thrashing of England
+
+
+## What was Cape Verde’s welcome like?
+
+
 ## Kajol reflects on her strict childhood: ‘Couldn’t digest food until I was beaten up’
 
 
 ## ‘Inspiring learning spaces’: Project to upgrade Delhi government school infra nears completion
 
 
-## Brazil vs Norway Score, FIFA World Cup 2026 Live: Can BRA defeat NOR for first time ever?
+## Brazil vs Norway Score, FIFA World Cup 2026 Live: Haaland, Vinicius start as BRA take on NOR in RO16, lineups out
 
 
 ## Court quashes woman’s petition against police after son died in custody
-
-
-## ‘Might play in the 2027 World Cup’: Ex-wonderkid’s prediction on Sooryavanshi
-
-
-## ‘Could’ve easily batted at 3’: Manjrekar on Sanju being replaced by Sooryavanshi
-
-
-## Road caves in near Pune, admin calls it part of planned testing
-
-
-## Gujarat to have region specific anti-snake venom in a year
 
 
 ## Play big or play safe: a CEO can’t have it all
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent
+Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.
+
+## Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals
+Naomi Osaka beat world number one Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.
+
+## Palestinians rally outside Al-Shifa hospital, demanding medical evacuation
+Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.
+
+## Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match
+Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension.
+
+## Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US
+The left is rising because Americans ‘want more from the Democrats’, US Representative Jim McGovern argues.
+
+## US Congressman denies existence of Palestinians in interview
+US Congressman Randy Fine claims “there is no such thing as Palestinian”, on interview show The Next Generation.
+
 ## 50 Houthi fighters killed in renewed clashes in Yemen
 Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.
 
 ## Super Typhoon Bavi threatens Guam with catastrophic winds and flooding
 The storm system is expected to reach landfall on Monday morning.
-
-## What is the religious and political messaging behind Khamenei’s funeral?
-The Islamic Republic is leaning into religious imagery to hone its political messages locally and across the region.
-
-## Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16
-Live coverage and text updates as Brazil play Norway in the round of 16 knockout stage.
-
-## Syria delays first session of transitional parliament without explanation
-The transitional parliament aims to draft a new elections law during its 30-month term.
-
-## Charles Leclerc wins F1 British Grand Prix behind safety car
-Charles Leclerc collects his first victory of the 2026 F1 season after late safety car confusion in the final laps.
-
-## Photo of abused Palestinian detainee causes anguish for two Gaza mothers
-Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.
-
-## Cape Verde celebrates team’s return after historic World Cup
-Cape Verde's football team is getting a hero's welcome on its return home after a historic World Cup run.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
