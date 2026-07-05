@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Ask Gideon Rachman a question — Has the Iran war changed the world order?
+Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
+
 ## Burnham warned over lack of cabinet as Number 10 transition talks step up
 Prospective Labour prime minister could take office as soon as July 20
 
@@ -20,9 +23,6 @@ Almost 1mn households left without power after storms and weekend temperatures n
 
 ## Data centres are a crucial test of US industrial resolve
 America must not repeat the mistakes that handed China rare-earth dominance
-
-## Saving Nato in the era of Trump
-The big questions hanging over the alliance will not be discussed in Ankara
 
 ## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
 UK airline’s board says it is minded to recommend proposal by US private credit group
@@ -114,6 +114,15 @@ The Diamond Harbour police lodged a second FIR on July 3 based on a similar comp
 ## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
 The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
 
+## From 16 lakh Rolex to 50k Tissot: Breaking down Raghav Chadha’s wrist game
+
+
+## US urged countries to avoid Khamenei funeral, 13 withdrew: Report
+
+
+## Cristiano Ronaldo says this is his last World Cup in combative press conference
+
+
 ## Turtuk to Tso Moriri: 7 offbeat places to see in Ladakh
 
 
@@ -127,15 +136,6 @@ The weather department said rainfall activity will intensify from July 7, with w
 
 
 ## Kajol reflects on her strict childhood: ‘Couldn’t digest food until I was beaten up’
-
-
-## ‘Inspiring learning spaces’: Project to upgrade Delhi government school infra nears completion
-
-
-## Brazil vs Norway Score, FIFA World Cup 2026 Live: Haaland, Vinicius start as BRA take on NOR in RO16, lineups out
-
-
-## Court quashes woman’s petition against police after son died in custody
 
 
 ## Play big or play safe: a CEO can’t have it all
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Volunteers vow to keep searching for Venezuela earthquake survivors
+Rescue teams in Venezuela’s La Guaira State say they’re never going to give up their search for earthquake survivors.
+
+## Australia thrash England to win record seventh Women’s T20 World Cup
+Beth Mooney (64) and Phoebe Litchfield (48) lead Australia’s stunning seven-wicket win over the hosts at Lord’s.
+
+## 12-tonne whale removed from DR Congo beach
+A dead whale weighing about 12 tonnes has been recovered from the beaches of Muanda.
+
+## America at 250: Democracy’s greatest experiment?
+Chris Hedges reflects on 250 years of US independence - the nation's ideals, contradictions, and what it has become.
+
+## Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka
+Russia says its forces have taken the city of Kostiantynivka in Donestk, Ukraine denies that.
+
 ## Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent
 Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.
 
 ## Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals
-Naomi Osaka beat world number one Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.
+Naomi Osaka beat world number one Aryna Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.
 
 ## Palestinians rally outside Al-Shifa hospital, demanding medical evacuation
 Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.
-
-## Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match
-Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension.
-
-## Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US
-The left is rising because Americans ‘want more from the Democrats’, US Representative Jim McGovern argues.
-
-## US Congressman denies existence of Palestinians in interview
-US Congressman Randy Fine claims “there is no such thing as Palestinian”, on interview show The Next Generation.
-
-## 50 Houthi fighters killed in renewed clashes in Yemen
-Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.
-
-## Super Typhoon Bavi threatens Guam with catastrophic winds and flooding
-The storm system is expected to reach landfall on Monday morning.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
