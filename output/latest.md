@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Netanyahu government defies Israel’s top court over TV regulation
+Premier’s cabinet raises fears of a constitutional crisis by formally rejecting ruling by Supreme Court
+
+## Turkey detains journalists and comic in crackdown before Nato summit
+Popular comedian who called President Recep Tayyip Erdoğan a ‘dictator’ is among those arrested
+
+## China releases Christian pastor after Trump appeal
+US president raised case of Protestant church founder Ezra Jin during meeting with Xi Jinping in May
+
 ## ‘Heat dome’ and storms over eastern US send power prices soaring
 Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
 
@@ -15,14 +24,8 @@ SNP government says UK’s likely next leader must include the nations as well a
 ## Parliament watchdog urged to investigate Nigel Farage over benefits from fraudster
 Call for new inquiry into ‘in-kind’ benefits from aide before Reform leader’s election as MP in July 2024
 
-## Bernard Arnault ordered to pay €22.5mn in back taxes
-France’s richest man and billionaire owner of luxury group LVMH will appeal against ruling
-
-## Iran leadership shows unity at ayatollah’s funeral, but successor absent
-Mojtaba Khamenei does not join other top leaders and sons alongside coffin of slain supreme leader
-
-## US voters say Trump’s Iran war not worth the cost — FT poll
-Survey shows conflict is dragging down president’s approval ratings ahead of November midterms
+## EasyJet reaches outline agreement on £5bn takeover by Castlelake
+UK airline’s board says it is minded to recommend proposal by US private credit group
 
 ## Lululemon’s latest struggle: slowing sales in key China market
 Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
@@ -38,9 +41,6 @@ Fast-growing energy supplier says employee share ownership means it’s not a �
 
 ## Uber stalls European food delivery push as it pursues Delivery Hero takeover
 Ride-hailing company will no longer launch in five of its seven planned new markets this year
-
-## European space deal to create SpaceX rival draws antitrust claims
-Germany’s OHB warns three-way merger would hurt competition, ultimately increasing costs for taxpayers
 
 ## Rise in dollar inflows may put additional pressure on Gold prices
 Strong NRI interest in FCNR(B) deposits could bolster the rupee and keep domestic gold prices under check, say analysts
@@ -90,52 +90,52 @@ Dalal Street concluded the past week on a high note, with top companies collecti
 ## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
 
 
+## Mumbai schools, colleges to remain shut on Monday as IMD issues ‘orange alert’
+Government and private offices will function as usual, the release said while urging citizens to step out of their homes only if necessary.
+
+## Champat Rai's fate, SIT probe on agenda as Ram Mandir Trust to hold key meet on Monday amid donation row
+Resignation of Anil Mishra and Champat Rai are likely to be disccused at the meeting, with a briefing on interim findings of the SIT probe.
+
+## Mumbai weather tomorrow: IMD forecasts heavy rain; Thane, Palghar also on alert
+Mumbai rains update: The IMD is indicating a high probability of intense downpours through the day in Maharashtra capital
+
+## Congress attacks VHP, says it is ‘emotionally misleading Hindus’ in Ram Temple donation theft row
+Congress leader Pawan Khera said new allegations are surfacing every day regarding the "theft" of donations at the Ram temple in Ayodhya.
+
+## Mumbai man strangles neighbour to death, steals gold chain after share market losses
+Preliminary investigation indicated that the woman had been strangled to death, following which a case of murder was registered.
+
+## Tamil Nadu CM Vijay to return to Karur on July 10, first visit since stampede that killed at least 40
+TVK leader M R Vijayabaskar said preparations are underway for CM Vijay's Karur visit would also include a 'Makkal Sandhippu' (public outreach) event.
+
 ## Abhishek Banerjee faces third complaint over Sebaashray health camps
 The Diamond Harbour police lodged a second FIR on July 3 based on a similar complaint by Sukdeb Das, a local resident
 
 ## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
 The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
 
-## Global Passport Index: How it ranks passports and why India is 125th
-Singapore is the sole Asian passport to have made it to the top 20 of the Global Passport Index list.
-
-## AAP’s Arvind Kejriwal alleges ‘cover-up’ in Ram Mandir donation theft case, targets PM Modi
-Arvind Kejriwal accuses PM Modi of protecting influential figures in the alleged Ram Mandir donation theft case.
-
-## AAP accuses Congress, BJP and Akali Dal of joining hands against Bhagwant Mann
-The Aam Aadmi Party (AAP) asserts that Congress, BJP, and Akali Dal have formed an alliance to politically target Punjab's Chief Minister Bhagwant Mann.
-
-## Tripura police rescue 3 missing girls from Ahmedabad, man detained: Police
-In their preliminary probe, police found that the girls were lured with a job promise and taken to Ahmedabad via Kolkata from Agartala
-
-## Just over two months into marriage, Delhi woman dies after fall from NDMC flats; family alleges dowry murder
-The family alleged that the deceased had been subjected to harassment and physical assault after marriage.
-
-## Jharkhand to present AI and digital governance roadmap at national consultation
-Jharkhand to unveil its vision for AI and digital governance at the National Stakeholders' Consultation 2026 in New Delhi.
-
-## Delhi man kills wife by hitting her with cooking pan, arrested: Police
+## Kajol reflects on her strict childhood: ‘Couldn’t digest food until I was beaten up’
 
 
-## School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher
+## ‘Inspiring learning spaces’: Project to upgrade Delhi government school infra nears completion
 
 
-## When was the last time Mexico and England faced each other at the World Cup?
+## Brazil vs Norway Score, FIFA World Cup 2026 Live: Can BRA defeat NOR for first time ever?
 
 
-## Pune Fort death: Police bet on ‘reverse timeline’ as probe enters final lap
+## Court quashes woman’s petition against police after son died in custody
 
 
-## Why 12 hours of rest is non-negotiable for Ananya Panday: ‘Could go to the gym at 5 am…’
+## ‘Might play in the 2027 World Cup’: Ex-wonderkid’s prediction on Sooryavanshi
 
 
-## Rocket debris? Mystery ‘space balls’ found on Australian beach, trigger safety alert
+## ‘Could’ve easily batted at 3’: Manjrekar on Sanju being replaced by Sooryavanshi
 
 
-## Cape Verde: How a tiny African nation scripted 2026 World Cup’s underdog story
+## Road caves in near Pune, admin calls it part of planned testing
 
 
-## Centre issues notice to Meta on Instagram ads linked to child sexual abuse
+## Gujarat to have region specific anti-snake venom in a year
 
 
 ## Play big or play safe: a CEO can’t have it all
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## 50 Houthi fighters killed in renewed clashes in Yemen
+Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.
+
+## Super Typhoon Bavi threatens Guam with catastrophic winds and flooding
+The storm system is expected to reach landfall on Monday morning.
+
+## What is the religious and political messaging behind Khamenei’s funeral?
+The Islamic Republic is leaning into religious imagery to hone its political messages locally and across the region.
+
+## Brazil vs Norway LIVE: FIFA World Cup 2026 – last 16
+Live coverage and text updates as Brazil play Norway in the round of 16 knockout stage.
+
+## Syria delays first session of transitional parliament without explanation
+The transitional parliament aims to draft a new elections law during its 30-month term.
+
+## Charles Leclerc wins F1 British Grand Prix behind safety car
+Charles Leclerc collects his first victory of the 2026 F1 season after late safety car confusion in the final laps.
+
+## Photo of abused Palestinian detainee causes anguish for two Gaza mothers
+Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.
+
 ## Cape Verde celebrates team’s return after historic World Cup
 Cape Verde's football team is getting a hero's welcome on its return home after a historic World Cup run.
-
-## Extreme weather disrupts US’s 250th anniversary celebrations
-Extreme weather disrupted the US’s 250th anniversary celebrations, forcing evacuations, cancellations and delays.
-
-## Millions attend funeral prayers for Iran’s Khamenei and family
-Millions of people have attended funeral prayers in Tehran for Iran's late Supreme Leader Ayatollah Ali Khamenei.
-
-## Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years
-Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.
-
-## Dr Hussam Abu Safia’s life in ‘grave danger’
-‘This is the last time you'll see me.’
-
-## What to know about the renewed coordinated attacks across Mali
-Separatist Tuareg-led group and regional al-Qaeda affiliate have claimed responsibility for attacks on army positions.
-
-## Indonesian army recovers US pilot’s body from Papua
-Indonesian troops have recovered the body of American pilot Nicholas Goselin from the restive Papua region.
-
-## Jailed Gaza hospital chief in life-threatening condition, rights group says
-Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
