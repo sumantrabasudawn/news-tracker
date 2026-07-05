@@ -36,6 +36,18 @@ Germany’s OHB warns three-way merger would hurt competition, ultimately increa
 ## Wall Street banks recover in China amid trading boom
 China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
 
+## New incentive package targets growth in Ladakh’s Pashmina economy
+Among the key measures approved is a 25 per cent % production-based incentive for Pashmina herders under the Livestock Development Incentive Programme.
+
+## India’s EV firms raise nearly ₹3,800 crore as investor interest accelerate
+Four major fundraising deals worth nearly ₹3,800 crore highlight growing investor interest in India’s automobile and electric vehicle ecosystem
+
+## IIFCL mobilises ₹1,848 cr via bonds, strengthens resource base for infra financing
+In line with the policy framework of the government and the Reserve Bank of India, IIFCL said it is also evaluating opportunities to raise funds through ECBs
+
+## India begins work on strategic natural gas storage after West Asia crisis
+Officials are evaluating a range of storage options, including salt caverns, depleted gas fields and cryogenic tanks near LNG regasification terminals
+
 ## A life devoted to India’s unity and progress
 
 
@@ -48,17 +60,8 @@ Massive falls lead to drastic cut in rain deficit - by 23% over Central India an
 ## EV start-ups seek five changes in Auto PLI as Heavy Industries Minister Kumaraswamy reviews suggestions
 Having invested an estimated ₹20,000–25,000 crore in India’s EV ecosystem, startup founders are seeking five changes to the ₹25,938-crore Auto PLI scheme, arguing the current framework rewards manufacturing scale but overlooks technology, R&D and indigenous innovation
 
-## Indian government issues notice to Meta over child sexual abuse materials on Instagram
-Government demands explanation within seven days after BBC report on child sexual abuse content
-
-## IBA inks initial pact to skill 50K ex-army personnel for biogas sector
-The agreement aims to bridge the skill demand-supply gap in the bioenergy ecosystem by facilitating training, reskilling and upskilling of Ex-Servicemen for roles across India’s renewable energy industry
-
-## With focus on luxury brand Luxe, CERA eyes high-end bathroom products
-Despite intense competition from international and new entry brands, CERA has retained its position among the top three sanitaryware players in the country, registering double-digit growth
-
-## From tax portal to digital public infrastructure: GSTN’s nine-year transformation
-Explore GSTN’s evolution from a tax portal to a vital digital public infrastructure, revolutionizing compliance and governance in India
+## 'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims
+The Petroleum Ministry has debunked claims of Bhutan refusing India's E20 petrol, stating no such offer was ever made. This clarification follows opposition allegations that several neighboring countries rejected the fuel. The government assures the public that E20 has undergone extensive testing, e
 
 ## US tops the global economic chart—but for how long? Deutsche Bank flags biggest risk
 America's mounting debt is now the primary threat to its global economic dominance, surpassing external competition. Deutsche Bank warns that persistent deficits and soaring interest payments are eroding a key advantage. While the US possesses enduring strengths, the nation faces imminent fiscal cha
@@ -81,8 +84,17 @@ Pakistan's fiscal decentralisation efforts have failed to bridge regional spendi
 ## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
 The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
 
-## India-UK trade pact: Centre notifies rules for determination of origin of goods
-India's Finance Ministry has finalized rules for goods eligible for benefits under the India-UK trade pact, set to begin July 15. This Comprehensive Economic and Trade Agreement (CETA) will grant duty-free access to 99% of Indian exports, boosting sectors like textiles and engineering. Exporters mus
+## Imams' association chief questions VHP over ₹1,400 crore collected during Rath Yatra
+Linking the current allegations to the VHP, Rashidi alleged that Ram Temple Trust general secretary Champat Rai was being deliberately kept at arm's length.
+
+## India's oil ministry vs Nepal news outlet over ‘rejection’ of E20 petrol by Balen's govt
+In ‘Fact Check’ posted on its social media accounts, ministry said: “Claims that Bhutan declined an offer to import E20 petrol from India are incorrect.”
+
+## Bengaluru reclaims 200 km of footpaths, internet split over street vendor evictions: 'Not be treated like immigrants'
+The Karnataka government's ongoing Safe Footpath Campaign has reclaimed more than 200 km of footpaths across arterial and sub-arterial roads.
+
+## Body of 12-year-old rape and murder victim recovered in Bengal's Baruipur: Police
+Police said a first information report (FIR) has been registered and an investigation is underway.
 
 ## Govt extends deadline for WhatsApp to respond to username issue to July 9
 A government official told HT on Sunday that the new deadline is now July 9.
@@ -96,41 +108,32 @@ Pawan Khera called PM Modi ‘compromised’ and his government ‘incapable’ 
 ## Robbed, pushed into well, left to die: Telangana woman survives 21-hour ordeal, student in ₹4 lakh gambling debt held
 Her rescue led investigators to Dhamma Dinesh Reddy, a student, who police say had planned the robbery while struggling with mounting debts of lakhs.
 
-## 63-year-old man dies after rain-uprooted tree falls in Mumbai’s Kurla
-The victim, identified as Yunus Kundawala, was heading towards the shop when the free fell on him after he stepped off his two-wheeler
-
-## ‘Children are watching’: TMC MP and ex-cricketer Kirti Azad slams condom ads during matches
-Taking to X, Azad questioned whether such advertisements were appropriate during a sporting event watched by families and children.
-
-## Just Like That: Chanakya, the mind that conceived an empire
-Few individuals in India’s history have exercised such a profound influence on the destiny of subcontinent as Chanakya, also known as Kautilya or Vishnugupta.
-
-## Prashant Kishor to fight election finally, as Jan Suraaj candidate for July 30 bypoll in Bihar BJP fortress Bankipur
-“Even as the lone MLA of my party, I shall outweigh the remaining 242 ones in the assembly,” says strategist-turned-politician Prashant Kishor in Patna.
-
-## The question for NATO: How much, and how, to spend on collective defence
+## How Kamal Haasan skipped Rs 1.5 crore salary for Avvai Shanmugi and still made 3x profit
 
 
-## Brahmapur-Udhna Amrit Bharat Express to run daily: Train number, route, stops, time table
+## Hindus will not spare anyone who loots a temple by misusing Hindutva, says Uddhav Thackeray
 
 
-## From farms to factories, why Punjab’s urea diversion case matters nationally
+## 5 common leftover mistakes that could put your health at risk
 
 
-## DU PG Admissions 2026: Delhi University begins registration for one-year Master’s programmes under NEP
+## Dubai Metro expansion: Road closures announced near Burj Khalifa until 2026-end
 
 
-## Buda Baba reels: How Bihar workers turned Punjab fields into social media gold
+## The dichotomy of Belgium’s Lukaku: Which version will turn up against the USA?
 
 
-## From the Opinions Editor: Between Imtiaz Ali’s ‘Main Vaapas Aaunga’ and murder in Lohagad, love and its long shadow
+## West Bengal weather: Bay depression triggers heavy rain, Kolkata under thunderstorm alert
 
 
-## Meet white-browed tit-warbler, the rainbow bird that looks unreal
+## ‘Newcomers are still exploited’: Parvathy Thiruvothu calls out lack of contracts in cinema
 
 
-## Ancelotti insinuates Arsenal’s Gabriel knows how to stop Erling Haaland
+## CBI arrests 2 in Bengaluru over South Western Railway paper leak case
 
+
+## Berkshire Hathaway’s multibillion-dollar buy of Taylor Morrison to boost US housing market
+Berkshire Hathaway’s all-cash acquisition of home builder Taylor Morrison for US$6.8 billion is likely to trigger more investment in the US housing market, as institutional confidence in the segment encourages more home purchases in the world’s largest economy by local and overseas buyers, according
 
 ## Citi CEO says 2 AI races are shaping future of banking
 The global financial sector is engaged in two simultaneous and critical races as AI evolves at an unprecedented rate, according to Jane Fraser, the CEO of Citi, the third-largest bank in the United States. While artificial intelligence was likely to cause some job dislocations, new positions would b
@@ -152,9 +155,6 @@ For Citigroup’s global CEO Jane Fraser, her time in Beijing last month meant f
 
 ## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
 Chinese autonomous-driving start-up Momenta drew massive subscription numbers for its HK$5.89 billion (US$751 million) initial public offering in Hong Kong, even as it competed against five other issuers launching their IPOs at the same time. The Suzhou-based company’s bookbuilding closed on Friday.
-
-## China’s BYD surpasses Tesla to regain lead in global EV race
-China’s electric vehicle (EV) king BYD has leapfrogged once more over Tesla to become the world’s largest battery-powered car manufacturer, spurred by its surging overseas shipments, despite posting an 8.2 per cent year-on-year drop in deliveries. As BYD gained the upper hand in the race against the
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Indonesian army recovers US pilot’s body from Papua
+Indonesian troops have recovered the body of American pilot Nicholas Goselin from the restive Papua region.
+
+## Jailed Gaza hospital chief in life-threatening condition, rights group says
+Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.
+
 ## Sooryavanshi sets record for youngest India player in international match
 Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.
 
@@ -269,12 +275,6 @@ One of the most anticipated knockout matches takes place when Mexico plays Engla
 
 ## Reform UK’s Farage failed to disclose funds from convicted criminal: Report
 George Cottrell provided funds for Reform UK leader's security, drivers, staff and accommodation, Sunday Times reports.
-
-## How xenophobia went viral in South Africa
-The online campaign stoking South Africa's latest xenophobic backlash.
-
-## FIFA World Cup round of 16: Bracket, schedule, predictions and latest news
-Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
