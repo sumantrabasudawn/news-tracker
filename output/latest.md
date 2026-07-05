@@ -3,6 +3,18 @@
 ## Ukraine striking Russian energy infrastructure at unprecedented rate
 Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis in decades
 
+## What will FOMC minutes reveal about Warsh’s debut at the Fed?
+Markets Questions is the FT’s guide to the week ahead
+
+## Rich nations must unleash land, labour, energy and capital
+As policymakers shift towards industrial interventionism, they risk neglecting the simplest drivers of growth
+
+## ‘Heat dome’ and storms over eastern US sends electricity prices soaring
+Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
+
+## Lululemon’s latest struggle: slowing sales in key China market
+Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
+
 ## French push to exclude UK from EU defence spending backfires
 Paris loses out on cheap loans due to strict eligibility criteria it had championed
 
@@ -12,20 +24,11 @@ The opening of the Obama presidential library set off a wave of nostalgia for an
 ## Octopus Energy set for showdown with workers over union recognition
 Fast-growing energy supplier says employee share ownership means it’s not a ‘them and us’ company
 
-## High share prices are becoming a status symbol
-Decline in stock splits suggests dividing share count no longer rules corporate orthodoxy
+## How Bending Spoons built a $23bn tech empire from struggling brands
+Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
 ## Uber stalls European food delivery push as it pursues Delivery Hero takeover
 Ride-hailing company will no longer launch in five of its seven planned new markets this year
-
-## China cools on overseas publication of scientific research
-Policymakers discuss reducing incentives for academics to submit papers to international journals over leak concerns
-
-## Burnham faces tricky electoral test as Starmer pushes through local government shake-up
-Existing ministers argue major overhaul of city boundaries will be vital for his goal of devolving power
-
-## How Bending Spoons built a $23bn tech empire from struggling brands
-Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
 ## European space deal to create SpaceX rival draws antitrust claims
 Germany’s OHB warns three-way merger would hurt competition, ultimately increasing costs for taxpayers
@@ -33,35 +36,38 @@ Germany’s OHB warns three-way merger would hurt competition, ultimately increa
 ## Wall Street banks recover in China amid trading boom
 China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
 
-## Cider wars brew in the EU as Nordic makers fight relabelling proposal
-Sweden, Denmark and Finland resist plan to label flavoured versions ‘cider-based beverages’
+## A life devoted to India’s unity and progress
 
-## US clean power prices set to soar as AI demand coincides with subsidy cuts
-Clean power purchase agreements, favoured by companies like Google and Meta, expected to rise sharply as Biden-era support ends
 
-## Sugar industry renews push for dedicated E100 fuel pumps
-Experts say allowing ethanol-only dispensing stations would eliminate the need to transport ethanol to fuel depots for blending with petrol
+## Adani Defence breaks ground for ₹2,500 cr complex for medium- & long-range missile systems in Madhya Pradesh
+The integrated facility will manufacture medium- and long-range missile systems while also producing critical inputs such as composite propellants, TNT and explosive-grade materials under one roof
 
-## Centre releases ₹25,863 crore first instalment under VB-G RAM G Yojana
-Shivraj Singh Chouhan launches funds for new 125-day rural employment guarantee scheme
+## Monsoon reloads as depression threatens to drench North-West India next
+Massive falls lead to drastic cut in rain deficit - by 23% over Central India and by 13% over entire country - with even more rain forecast this week
 
-## Flight operations at Delhi, Mumbai airports hit due to rain, 28 flights diverted to other cities
-Thirteen flights from Mumbai were diverted from to Ahmedabad, Indore, Surat, Bengaluru, Hyderabad airports
-
-## OPEC+ agrees in principle on 188K B/D hike, delegates say
-It would be in keeping with the group’s plan to finish reversing output curbs made a few years ago, and mean that, since the war began, they’ve added 940,000 barrels a day to quotas
-
-## India hopeful of sanctions relief for Chabahar after Iran-US peace deal
-New Delhi says project activities not possible without restoration of US waiver or easing of sanctions; issue has been taken up with Washington
-
-## CAFE-2 penalties: Bailing out carmakers is against national interest, say industry veterans
-This decision could also prompt foreign automakers to import or assemble more gas-guzzling vehicles in India, rather than producing fuel-efficient or low-emission models
+## EV start-ups seek five changes in Auto PLI as Heavy Industries Minister Kumaraswamy reviews suggestions
+Having invested an estimated ₹20,000–25,000 crore in India’s EV ecosystem, startup founders are seeking five changes to the ₹25,938-crore Auto PLI scheme, arguing the current framework rewards manufacturing scale but overlooks technology, R&D and indigenous innovation
 
 ## Indian government issues notice to Meta over child sexual abuse materials on Instagram
 Government demands explanation within seven days after BBC report on child sexual abuse content
 
-## Stock markets to track crude oil prices, global trends, TCS earnings this week: Analysts
-The progress of the southwest monsoon and kharif sowing will remain important indicators for rural demand, inflation expectations, and overall economic growth
+## IBA inks initial pact to skill 50K ex-army personnel for biogas sector
+The agreement aims to bridge the skill demand-supply gap in the bioenergy ecosystem by facilitating training, reskilling and upskilling of Ex-Servicemen for roles across India’s renewable energy industry
+
+## With focus on luxury brand Luxe, CERA eyes high-end bathroom products
+Despite intense competition from international and new entry brands, CERA has retained its position among the top three sanitaryware players in the country, registering double-digit growth
+
+## From tax portal to digital public infrastructure: GSTN’s nine-year transformation
+Explore GSTN’s evolution from a tax portal to a vital digital public infrastructure, revolutionizing compliance and governance in India
+
+## US tops the global economic chart—but for how long? Deutsche Bank flags biggest risk
+America's mounting debt is now the primary threat to its global economic dominance, surpassing external competition. Deutsche Bank warns that persistent deficits and soaring interest payments are eroding a key advantage. While the US possesses enduring strengths, the nation faces imminent fiscal cha
+
+## Dalal Street outlook: TCS, crude oil and more, what's driving stock market this week?
+Indian markets brace for a pivotal week as the June-quarter earnings season kicks off with TCS on July 9. Investors will scrutinize results and management commentary on demand and AI. Global cues, including US Fed minutes and crude oil price stability, alongside domestic monsoon progress, will also 
+
+## India's top IT firms set for muted Q1 as AI spending fails to lift growth: Report
+India's top IT firms anticipate a slow start to FY27, with growth likely to remain subdued as clients focus on cost savings over major tech investments. While AI adoption is rising, it's funded by efficiency gains, not budget increases. Margins are expected to hold steady due to currency benefits an
 
 ## Market recap: Top-10 firms add Rs 1 lakh crore in market capitalisation; Airtel, Bajaj Finance lead gains
 Dalal Street concluded the past week on a high note, with top companies collectively adding over Rs 1 lakh crore to their market cap. Bharti Airtel and Bajaj Finance led the gains, buoyed by strong domestic economic data and positive global sentiment. While most of the top 10 firms saw their valuati
@@ -69,70 +75,61 @@ Dalal Street concluded the past week on a high note, with top companies collecti
 ## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
 
 
+## Pakistan's public money a privilege? World Bank report reveals stark fiscal faultlines
+Pakistan's fiscal decentralisation efforts have failed to bridge regional spending gaps, with provincial capitals like Quetta and Lahore receiving significantly more per person than their own provinces. Despite budget surpluses in some areas, poorer regions face underinvestment. Concerns also arise 
+
 ## Ex-CFO of RCap, Amit Bapna, held in connection with ADAG probe
 The Central Bureau of Investigation (CBI) has apprehended Amit Bapna, former CFO of Reliance Capital Ltd, as part of its probe into Reliance ADA Group matters. Authorities allege Bapna, a key financial decision-maker, approved loans to intermediary firms despite knowing it violated RBI guidelines. F
 
 ## India-UK trade pact: Centre notifies rules for determination of origin of goods
 India's Finance Ministry has finalized rules for goods eligible for benefits under the India-UK trade pact, set to begin July 15. This Comprehensive Economic and Trade Agreement (CETA) will grant duty-free access to 99% of Indian exports, boosting sectors like textiles and engineering. Exporters mus
 
-## Chip by chip: India now world's second largest phone maker; PM Modi lays out 'Make in India' electronics roadmap
-India has ascended to become the world's second-largest mobile phone manufacturer and exporter, Prime Minister Narendra Modi announced, underscoring the nation's commitment to building a comprehensive electronics and semiconductor ecosystem. This strategic push, encompassing chip design, fabrication
+## Govt extends deadline for WhatsApp to respond to username issue to July 9
+A government official told HT on Sunday that the new deadline is now July 9.
 
-## 'Criticism is welcome, rumours are not': Puri on E20 fuel buzz, engine damage claims
-Union Minister Hardeep Singh Puri has addressed social media concerns regarding ethanol-blended fuel, dismissing claims of pest attraction and engine damage. He emphasized that ethanol usage is a century-old concept and highlighted past government efforts. Recent tests by ARAI and OEMs indicate a mi
+## Making poll debut, Prashant Kishor's appeal to Bankipur's ‘richest, educated’ people
+Prashant Kishor hailed the people of Bankipur as Bihar's “richest” and “most educated” and urged them to vote for him.
 
-## Is E20 fuel safe for your vehicle? Here's what experts say
-Concerns surrounding E20 ethanol-blended petrol are being addressed by industry experts, who assure its safety for all vehicles, including older models. Years of rigorous scientific testing and consultations with automakers have confirmed its efficacy. This nationwide rollout aims to significantly r
+## ‘Incapable of moral courage’: Cong's Khera slams PM Modi for silence on Trump's Iran remarks during Khamenei funeral
+Pawan Khera called PM Modi ‘compromised’ and his government ‘incapable’ to condemn ‘reckless insinuations of violence by their masters in the United States.’
 
-## Beyond Hormuz: What HPCL Rajasthan Refinery Limited means for India's energy future
-India is bolstering its energy security following the Strait of Hormuz disruption. Prime Minister Modi inaugurated the HPCL Rajasthan Refinery, a crucial step towards self-reliance for a nation heavily reliant on oil imports. This project, alongside other development initiatives, aims to strengthen 
+## Robbed, pushed into well, left to die: Telangana woman survives 21-hour ordeal, student in ₹4 lakh gambling debt held
+Her rescue led investigators to Dhamma Dinesh Reddy, a student, who police say had planned the robbery while struggling with mounting debts of lakhs.
 
-## Unnao link road to Ganga Expressway damaged in UP's first rain, 2 months after inauguration
-The seven-metre approach road on the Meerut-Prayagraj carriageway near kilometre 421 developed a washout after rain on Friday.
+## 63-year-old man dies after rain-uprooted tree falls in Mumbai’s Kurla
+The victim, identified as Yunus Kundawala, was heading towards the shop when the free fell on him after he stepped off his two-wheeler
 
-## VHP asks Ayodhya police to question Arvind Kejriwal, Priyanka Gandhi in Ram Temple donation case
-The RSS affiliate asked investigators to examine the claims made by the Opposition leaders and take action if they were found to be baseless.
+## ‘Children are watching’: TMC MP and ex-cricketer Kirti Azad slams condom ads during matches
+Taking to X, Azad questioned whether such advertisements were appropriate during a sporting event watched by families and children.
 
-## Noida woman ‘takes e-rickshaw’ to Sector 18 multi-level parking facility, dies by suicide
-According to the preliminary investigation, the woman was suffering from depression. Police said further investigation is underway.
+## Just Like That: Chanakya, the mind that conceived an empire
+Few individuals in India’s history have exercised such a profound influence on the destiny of subcontinent as Chanakya, also known as Kautilya or Vishnugupta.
 
-## ‘Govt presence can’t be ignored’: CPI(M)’s Brittas on Ram Mandir Trust RTI stand
-The letter comes months after the Central Information Commission (CIC) ruled on June 6, 2025, that the Trust is not a “public authority”
+## Prashant Kishor to fight election finally, as Jan Suraaj candidate for July 30 bypoll in Bihar BJP fortress Bankipur
+“Even as the lone MLA of my party, I shall outweigh the remaining 242 ones in the assembly,” says strategist-turned-politician Prashant Kishor in Patna.
 
-## 'Stop them immediately': Centre orders Meta to remove Instagram ads promoting child sex abuse content
-The notice, issued by the ministry of electronics and information technology (MeitY) on Saturday, also gives Meta seven days to submit a detailed explanation.
-
-## Amid Ram Temple donation row, VHP to hold crucial meeting in Delhi on July 18-19
-The Vishva Hindu Parishad (VHP) is a Hindu nationalist organization founded in 1964.
-
-## Book Box: Building a bookshelf that tells your story
-A family debates bookshelf designs: preferences for aesthetics, organization, and practicality as they seek to store their beloved books creatively.
-
-## Report on Justice Varma to be tabled during Parliament's monsoon session from July 20
-According to two officials, the House can take up the impeachment proceedings against justice Varma if there is a political consensus among the parties.
-
-## Is Mbappé a dictator in France team? Deschamps speaks on criticism of captain’s leadership
+## The question for NATO: How much, and how, to spend on collective defence
 
 
-## Alibaba to ban employees using Claude Code from July 10 as US-China AI rivalry escalates
+## Brahmapur-Udhna Amrit Bharat Express to run daily: Train number, route, stops, time table
 
 
-## UPSC Ethics Simplified | How to decode ethical quotes in Mains exam: An example
+## From farms to factories, why Punjab’s urea diversion case matters nationally
 
 
-## What BBC’s investigation into Instagram showing child sex abuse ads in India reveals
+## DU PG Admissions 2026: Delhi University begins registration for one-year Master’s programmes under NEP
 
 
-## Bengaluru swimming pools and car washes face fines for using drinking water
+## Buda Baba reels: How Bihar workers turned Punjab fields into social media gold
 
 
-## Peter Shilton, 40 years after Hand of God: ‘Put the beef to bed’
+## From the Opinions Editor: Between Imtiaz Ali’s ‘Main Vaapas Aaunga’ and murder in Lohagad, love and its long shadow
 
 
-## Odisha SIR: 20 lakh deletions in draft voter list; Oppn flags exclusion over ‘minor anomalies’
+## Meet white-browed tit-warbler, the rainbow bird that looks unreal
 
 
-## Maharashtra road accident data: Wrong side driving remains a major highway menace; 460 killed in 2025
+## Ancelotti insinuates Arsenal’s Gabriel knows how to stop Erling Haaland
 
 
 ## Citi CEO says 2 AI races are shaping future of banking
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Sooryavanshi sets record for youngest India player in international match
+Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.
+
+## Trump praises US military as it marks 250 years of independence
+Trump praises US military as it marks 250 years of independence
+
+## China and Russia to hold annual joint naval drills
+Exercises from Monday to July 13 off Qingdao to be followed by joint maritime patrols in the Pacific Ocean.
+
+## Release Dr Hussam Abu Safia immediately!
+It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.
+
+## Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude
+One of the most anticipated knockout matches takes place when Mexico plays England at the Azteca in the round of 16.
+
+## Reform UK’s Farage failed to disclose funds from convicted criminal: Report
+George Cottrell provided funds for Reform UK leader's security, drivers, staff and accommodation, Sunday Times reports.
+
+## How xenophobia went viral in South Africa
+The online campaign stoking South Africa's latest xenophobic backlash.
+
 ## FIFA World Cup round of 16: Bracket, schedule, predictions and latest news
 Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.
-
-## China releases underground church pastor after months in detention
-Ezra Jin’s family says the Zion Church founder arrived in the US after months in detention in China.
-
-## Watch World Cup Day 24: France and Morocco advance to quarterfinals
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## Palestinians in Gaza celebrate Morocco’s World Cup victory
-Palestinians in Gaza celebrate Morocco's World Cup victory
-
-## Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries
-Despite US objections, ambassador insists new fees to be charged to vessels transiting Strait of Hormuz.
-
-## Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says
-Kremlin aide Yury Ushakov says Trump made the offer during a nearly 90-minute phone call with the Russian president.
-
-## Egypt and Morocco fans celebrate World Cup wins by singing for Palestine
-Egypt and Morocco fans celebrated their World Cup success by singing ‘My Blood is Palestinian’ at a Dallas fan zone.
-
-## Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction
-Norway are one of only three countries Brazil have faced at a World Cup without registering at least one victory.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
