@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## ‘Heat dome’ and storms over eastern US send power prices soaring
+Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
+
+## Data centres are a crucial test of US industrial resolve
+America must not repeat the mistakes that handed China rare-earth dominance
+
+## Saving Nato in the era of Trump
+The big questions hanging over the alliance will not be discussed in Ankara
+
 ## ‘Return’ powers to Holyrood taken after Brexit, Scottish minister tells Burnham
 SNP government says UK’s likely next leader must include the nations as well as English regions in his devolution drive
 
@@ -14,18 +23,6 @@ Mojtaba Khamenei does not join other top leaders and sons alongside coffin of sl
 
 ## US voters say Trump’s Iran war not worth the cost — FT poll
 Survey shows conflict is dragging down president’s approval ratings ahead of November midterms
-
-## The Europeanisation of Nato is ever more important
-Transatlantic military alliance will be key to the continent’s future security
-
-## Ukraine striking Russian energy infrastructure at unprecedented rate
-Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis in decades
-
-## What will FOMC minutes reveal about Warsh’s debut at the Fed?
-Markets Questions is the FT’s guide to the week ahead
-
-## ‘Heat dome’ and storms over eastern US sends electricity prices soaring
-Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
 
 ## Lululemon’s latest struggle: slowing sales in key China market
 Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
@@ -45,32 +42,32 @@ Ride-hailing company will no longer launch in five of its seven planned new mark
 ## European space deal to create SpaceX rival draws antitrust claims
 Germany’s OHB warns three-way merger would hurt competition, ultimately increasing costs for taxpayers
 
-## Wall Street banks recover in China amid trading boom
-China securities units of Goldman Sachs, Morgan Stanley and JPMorgan posted record profits last year
+## Rise in dollar inflows may put additional pressure on Gold prices
+Strong NRI interest in FCNR(B) deposits could bolster the rupee and keep domestic gold prices under check, say analysts
 
-## Below the line
+## Beyond prompts: AI loops power next generation of autonomous agents
+In a company blog, Anthropic shared that the Claude Code team defines loops as agents repeating cycles of work until a stop condition is met
 
+## US medical coding firm backtracks on layoff assurance; credits 3-months severance to workers
+Company representatives had on Friday agreed to participate in a conciliatory meeting to be chaired by the Labour Secretary on Monday, following the intervention of Uma Thomas MLA after protest by employees on sudden layoffs
 
-## From tax portal to digital public infrastructure: GSTN’s nine-year transformation
-Explore GSTN’s evolution from a tax portal to a vital digital public infrastructure, revolutionising compliance and governance in India
-
-## Radico Khaitan eyes 20% volume growth in premium portfolio in FY27
-The company had achieved an EBITDA margin of close to 16.8% last fiscal and expects this to expand by 125 basis points in FY27
-
-## Telecom preview: Poised for steady Q1 revenue and ARPU growth on subscriber gains and premiumisation push
+## A life devoted to India’s unity and progress
 
 
-## Guide to investing in Mutual Funds through SIPs
-In mutual funds, a direct plan means you invest directly with the Asset Management Company, while a regular plan involves investing through an Association of Mutual Funds in India-registered mutual fund distributors
+## Prayagraj shows highest unemployment rate, Ahmedabad lowest among million-plus cities
+The survey covered over 19,000 households with around 60,000 persons with the age of 15 year years or more in million-plus cities
 
-## Adani Defence breaks ground for ₹2,500 cr complex for medium- & long-range missile systems in Madhya Pradesh
-The integrated facility will manufacture medium- and long-range missile systems while also producing critical inputs such as composite propellants, TNT and explosive-grade materials under one roof
+## Pvt sector banks log robust growth in deposits and advances in Q1FY27
+The private sector bank’s deposits rose 14.7% year-on-year, while gross advances increased by 15.4%
 
-## Gold, silver hammered
-The trend for both gold and silver turned negative post the breach of key support levels; the trend for precious metals would remain weak until the resistance level is not taken out
+## FMCG companies witnessed steady consumption trends in June quarter
+Companies said they are closely monitoring evolving inflationary pressures and El Niño's impact on monsoons
 
-## From cooperative reform to cooperative competitiveness
-The Tribhuvan Sahkari University must play a vital role in imparting cooperative education and training
+## Editorial. Right Code
+Standardised ad rules for market products welcome
+
+## 15 India-bound ships carrying urea, DAP and sulphur cross Hormuz: Govt
+Despite Middle East conflict disruptions, India's fertilizer supply remains robust. Most shipments successfully navigated the Strait of Hormuz, while domestic production surpassed targets. Proactive planning, diplomatic outreach for new sources, and full restoration of natural gas to plants ensured 
 
 ## OPEC+ agrees fresh August oil output hike as Strait of Hormuz reopens
 OPEC+ is boosting oil output by another 188,000 barrels daily from August, continuing to reverse earlier cuts. Despite this, actual supply remains below pre-conflict levels due to disruptions impacting key producers. Oil prices have already fallen to pre-war figures, influenced by weaker Chinese dem
@@ -93,8 +90,23 @@ Dalal Street concluded the past week on a high note, with top companies collecti
 ## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
 
 
-## Pakistan's public money a privilege? World Bank report reveals stark fiscal faultlines
-Pakistan's fiscal decentralisation efforts have failed to bridge regional spending gaps, with provincial capitals like Quetta and Lahore receiving significantly more per person than their own provinces. Despite budget surpluses in some areas, poorer regions face underinvestment. Concerns also arise 
+## Abhishek Banerjee faces third complaint over Sebaashray health camps
+The Diamond Harbour police lodged a second FIR on July 3 based on a similar complaint by Sukdeb Das, a local resident
+
+## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
+The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
+
+## Global Passport Index: How it ranks passports and why India is 125th
+Singapore is the sole Asian passport to have made it to the top 20 of the Global Passport Index list.
+
+## AAP’s Arvind Kejriwal alleges ‘cover-up’ in Ram Mandir donation theft case, targets PM Modi
+Arvind Kejriwal accuses PM Modi of protecting influential figures in the alleged Ram Mandir donation theft case.
+
+## AAP accuses Congress, BJP and Akali Dal of joining hands against Bhagwant Mann
+The Aam Aadmi Party (AAP) asserts that Congress, BJP, and Akali Dal have formed an alliance to politically target Punjab's Chief Minister Bhagwant Mann.
+
+## Tripura police rescue 3 missing girls from Ahmedabad, man detained: Police
+In their preliminary probe, police found that the girls were lured with a job promise and taken to Ahmedabad via Kolkata from Agartala
 
 ## Just over two months into marriage, Delhi woman dies after fall from NDMC flats; family alleges dowry murder
 The family alleged that the deceased had been subjected to harassment and physical assault after marriage.
@@ -102,47 +114,32 @@ The family alleged that the deceased had been subjected to harassment and physic
 ## Jharkhand to present AI and digital governance roadmap at national consultation
 Jharkhand to unveil its vision for AI and digital governance at the National Stakeholders' Consultation 2026 in New Delhi.
 
-## Odisha SIR deletes around 2 million names; final rolls due September 6
-Chief electoral officer (CEO) of Odisha, R Sant Gopalan said the deletions were largely on account of deaths, migration and duplicate enrolments
-
-## ‘Hindus have been hypnotised’: Uddhav Thackeray revives old Sena pitch with Ayodhya Ram Mandir donation row
-Launching his party's ‘Ram Raksha Andolan’ over alleged theft of donations at Ram Mandir in Ayodhya, Uddhav Thackeray accused BJP-led Centre of “looting Hindus”
-
-## UP man raped domestic help for years, then forced her to convert religion for marriage, say Police
-The woman alleged that the man brought her to his house for domestic work, taking advantage of her poverty and the fact that she was an orphan.
-
-## Centre tightens the screw on social media apps with WhatsApp, Instagram, Telegram under scanner. But why?
-From the NEET paper leak to pirated movies and now, child sexual abuse material, the Centre is moving to tighten the screws on social media
-
-## Muslim body chief questions VHP over ₹1,400 crore collected during Rath Yatra
-Linking the current allegations to the VHP, Rashidi alleged that Ram Temple Trust general secretary Champat Rai was being deliberately kept at arm's length.
-
-## India's oil ministry vs Bhutanese news outlet over 'rejection' of E20 petrol
-In ‘Fact Check’ posted on its social media accounts, ministry said: “Claims that Bhutan declined an offer to import E20 petrol from India are incorrect.”
-
-## Rujuta Diwekar shares 3 golden rules for weight loss: ‘Magic is in the process’
+## Delhi man kills wife by hitting her with cooking pan, arrested: Police
 
 
-## Puri-Koraput Express launch: Train number, route, stops, timetable
+## School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher
 
 
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 169) — Check out answers with explanations
+## When was the last time Mexico and England faced each other at the World Cup?
 
 
-## Ayodhya Ram Temple Donation Theft Case: After Avinash Shukla, police to seek custody of other accused
+## Pune Fort death: Police bet on ‘reverse timeline’ as probe enters final lap
 
 
-## Why Shreyas needs to look beyond Arshdeep to find right bowling combination
+## Why 12 hours of rest is non-negotiable for Ananya Panday: ‘Could go to the gym at 5 am…’
 
 
-## Maharashtra farm loan waiver: Eligibility, one-time settlement, Rs 50,000 incentive
+## Rocket debris? Mystery ‘space balls’ found on Australian beach, trigger safety alert
 
 
-## Plan to hold Kambala race during Mysuru Dasara celebrations runs into hot water
+## Cape Verde: How a tiny African nation scripted 2026 World Cup’s underdog story
 
 
-## Elephant that faced off with tigers, patrolled Kaziranga for decades laid to rest with guard of honour
+## Centre issues notice to Meta on Instagram ads linked to child sexual abuse
 
+
+## Play big or play safe: a CEO can’t have it all
+[The content of this article has been produced by our advertising partner.] When Elon Musk declared that Tesla aims to have “hundreds of thousands, if not a million” self-driving taxis on US roads by the end of 2026 in a CNBC interview, it was another example of a CEO setting a bold target publicly.
 
 ## Berkshire Hathaway’s multibillion-dollar buy of Taylor Morrison to boost US housing market
 Berkshire Hathaway’s all-cash acquisition of home builder Taylor Morrison for US$6.8 billion is likely to trigger more investment in the US housing market, as institutional confidence in the segment encourages more home purchases in the world’s largest economy by local and overseas buyers, according
@@ -164,9 +161,6 @@ As Hong Kong moves forward with its huge new Northern Metropolis development zon
 
 ## Why Citigroup CEO Jane Fraser left the US-China summit feeling optimistic
 For Citigroup’s global CEO Jane Fraser, her time in Beijing last month meant far more than a handshake and photograph with heads of state. Fraser was among 17 business leaders US President Donald Trump invited to China as part of his three-day visit to Beijing from May 13 to May 15. Standing on the 
-
-## China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar
-Chinese autonomous-driving start-up Momenta drew massive subscription numbers for its HK$5.89 billion (US$751 million) initial public offering in Hong Kong, even as it competed against five other issuers launching their IPOs at the same time. The Suzhou-based company’s bookbuilding closed on Friday.
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -264,14 +258,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cape Verde celebrates team’s return after historic World Cup
+Cape Verde's football team is getting a hero's welcome on its return home after a historic World Cup run.
+
 ## Extreme weather disrupts US’s 250th anniversary celebrations
 Extreme weather disrupted the US’s 250th anniversary celebrations, forcing evacuations, cancellations and delays.
 
 ## Millions attend funeral prayers for Iran’s Khamenei and family
 Millions of people have attended funeral prayers in Tehran for Iran's late Supreme Leader Ayatollah Ali Khamenei.
 
-## At least 15 Yemeni government troops killed in Hodeidah fighting
-Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.
+## Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years
+Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.
 
 ## Dr Hussam Abu Safia’s life in ‘grave danger’
 ‘This is the last time you'll see me.’
@@ -284,9 +281,6 @@ Indonesian troops have recovered the body of American pilot Nicholas Goselin fro
 
 ## Jailed Gaza hospital chief in life-threatening condition, rights group says
 Elyas Abu Safia says his father Hussam can barely breathe or speak after more than 555 days in Israeli prison.
-
-## Sooryavanshi sets record for youngest India player in international match
-Fifteen-year-old Vaibhav Sooryavanshi became the youngest debutant for India in a T20 loss to England at Old Trafford.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
