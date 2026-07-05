@@ -25,7 +25,7 @@ Popular comedian who called President Recep Tayyip Erdoğan a ‘dictator’ is 
 US president raised case of Protestant church founder Ezra Jin during meeting with Xi Jinping in May
 
 ## Fifa reverses suspension of star US striker after call from Trump
-Belgium cries foul after decision to drop red card against Folarin Balogun clears him to play World Cup match
+Belgium cries foul after governing body clears Folarin Balogun to play World Cup match
 
 ## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
 UK airline’s board says it is minded to recommend proposal by US private credit group
@@ -117,6 +117,9 @@ The Diamond Harbour police lodged a second FIR on July 3 based on a similar comp
 ## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
 The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
 
+## Haaland catches up with Messi, Mbappe in Golden Boot race
+
+
 ## From 16 lakh Rolex to 50k Tissot: Breaking down Raghav Chadha’s wrist game
 
 
@@ -136,9 +139,6 @@ The weather department said rainfall activity will intensify from July 7, with w
 
 
 ## What was Cape Verde’s welcome like?
-
-
-## Kajol reflects on her strict childhood: ‘Couldn’t digest food until I was beaten up’
 
 
 ## Play big or play safe: a CEO can’t have it all
@@ -261,6 +261,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Venezuelan leader marks Independence Day with message of ‘no social unrest’
+Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.
+
+## How a son rescued his father from the rubble of Venezuela’s earthquakes
+After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.
+
+## Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16
+Haaland's brace takes him to seven goals for the tournament as Norway book quarterfinal against Mexico or England.
+
+## Palestinian baby dies in West Bank after Israel blocks urgent medical care
+Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.
+
+## Turkiye gears up for its first NATO summit in 22 years
+Leaders of the NATO member states are expected in Turkiye by July 7 for a summit - the first it will host in 22 years.
+
 ## Albanian court frees protesters who rallied against Kushner-linked resort
 The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests
 
@@ -269,21 +284,6 @@ Live coverage and text updates with full build-up and team news ahead from our c
 
 ## FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16
 Cristiano Ronaldo is just one of several key talking points before Portugal and Spain clash in a round of 16 epic in Dallas.
-
-## 10,000 people evacuated as wildfire tears through southern France
-A fast-moving wildfire has forced around 10,000 people to evacuate after burning more than 1,500 hectares in France.
-
-## How will the rise of right-wing populism affect Latin America?
-Conservatives are winning elections across the region.
-
-## 8 injured, including 4 children, in New York City Fourth of July shooting
-A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.
-
-## Volunteers vow to keep searching for Venezuela earthquake survivors
-Rescue teams in Venezuela’s La Guaira State say they’re never going to give up their search for earthquake survivors.
-
-## Australia thrash England to win record seventh Women’s T20 World Cup
-Beth Mooney (64) and Phoebe Litchfield (48) lead Australia’s stunning seven-wicket win over the hosts at Lord’s.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
