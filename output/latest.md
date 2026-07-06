@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Platner to ‘reflect’ on Senate campaign after sexual assault allegations
+Populist Democratic candidate denies accusation as deadline looms to replace him on the ballot
+
+## Canada chooses Germany’s TKMS for landmark submarine contract
+Joint German-Norwegian team wins multibillion-dollar deal as Ottawa pivots away from US
+
 ## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
 Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
 
@@ -18,12 +24,6 @@ The football body was once riven by bribery and corruption claims. Now it faces 
 ## The next frontier for defence companies is the deep blue sea
 Countries have a whole host of relatively new vulnerabilities lying on the seabed
 
-## Germany to borrow €800bn for rearmament in historic shift
-Chancellor Friedrich Merz’s debt-fuelled spending not seen since German reunification
-
-## The UK could help end Sudan’s civil war
-The British government has leverage and should use it to proscribe a terrorist militia and cut off its supply lines
-
 ## Who started it?
 CLSA offers an interesting sell-side take on some recent conflicts
 
@@ -32,9 +32,6 @@ Budget airline will comfort its competitors if the destination remains largely t
 
 ## China steps up oil purchases from Middle East as prices fall
 Move comes as Saudi Arabia cuts pricing on exports to Asia to 6-year low
-
-## Judge rules insurers do not need to pay out over Nord Stream pipeline blasts
-Lloyd’s of London and others spared potential €580mn payout as court finds ‘war exclusion’ applies for Russia’s busted pipes
 
 ## IDFC FIRST Bank launches EPFO-integrated PF payment services for businesses
 The bank said the service will help businesses improve cash flow management and ensure timely statutory compliance
@@ -108,6 +105,15 @@ Simultaneous raids were conducted across five districts, including Thane, Ahilya
 ## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
 Police said an argument broke out between the two over a mobile phone chat.
 
+## ZEE5 removes ‘Satluj’ after govt cites security, IT Rules; SGPC and SAD slam move
+
+
+## Four dead, one missing in Pune as 48 hrs of rain wreaks havoc, causes landslides
+
+
+## Cristiano Ronaldo’s last FIFA World Cup campaign ends in 1-0 defeat vs Spain
+
+
 ## How a 1962 plane crash gave a tribal village near Pune an unlikely identity
 
 
@@ -121,15 +127,6 @@ Police said an argument broke out between the two over a mobile phone chat.
 
 
 ## ‘I thought it was AI…’: Balogun’s teammate on World Cup red card overturn
-
-
-## ‘My mom thinks…’: Tejasswi Prakash on live-in relationships; expert weighs in
-
-
-## ‘Eventual loser will be Team India’: Ashwin on Samson’s omission from ZIM series
-
-
-## Over 100 tourists rescued after flash flood near popular Maharashtra waterfall, video goes viral
 
 
 ## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
@@ -156,6 +153,9 @@ Hong Kong will seek to amend its securities laws later this year and upgrade its
 ## Hong Kong’s roast meat chains expand as recovery in shop markets remains uneven
 Hong Kong’s roast meat restaurant chains are emerging as one of the more active tenants in the city’s street-shop market, expanding in tourist districts even as the broader retail property recovery remains uneven and vacancy rates stay elevated in some areas. The number of siu mei restaurants – eate
 
+## What to Expect at the 2026 NATO Summit
+It’s a precarious time for the world’s largest military alliance.
+
 ## Are U.S.-India Ties Really Thawing?
 As the two sides near a final trade deal, a few sticking points remain.
 
@@ -176,9 +176,6 @@ One of history’s most misunderstood speeches is also one of its most important
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
-
-## Angsty in Ankara
-Can NATO move past a need to keep Trump happy?
 
 ## Britain’s Farms Run on Central Asian Labor Now
 As Russia squeezes migrants, Central Asians now fill nearly four in five U.K. Seasonal Worker visas.
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## USA vs Belgium LIVE: FIFA World Cup 2026 last 16
-Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.
+## Canada picks Germany’s TKMS for new submarines
+German-owned TKMS made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.
 
-## US judge tosses out Musk’s bid to void Twitter fraud verdict
-Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.
+## USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy
+USA supporters divided on Trump's intervention and FIFA's decision to suspend striker's ban in Belgium World Cup match.
 
-## Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run
-A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.
+## One Phone Call, One Vanishing Red Card — The Balogun Scandal
+Al Jazeera's Basel Ghazoghli (@baselgazi) breaks down how the White House helped Folarin Balogun stay in the World Cup.
 
-## Prosecutors in US lay out case against alleged killer of Charlie Kirk
-Judge to decide whether there's enough evidence to bring Tyler Robinson to trial for conservative activist's killing.
+## Morocco says it has dismantled ISIL-linked cell planning attack
+Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.
 
-## What is the fallout of the increasing violence in Mali?
-Coalition of rebels and armed groups carries out another series of attacks.
+## Influencers say they’re ‘honoured’ to attend Khamenei funeral
+Several social media influencers travelled to Iran for the state funeral of Supreme Leader Ali Khamenei.
 
-## US Supreme Court clears path for Texas to enforce app age verification law
-Parents must approve app downloads for minors as legal fight over Texas age verification law continues.
+## Survivors and bodies still being pulled from rubble days after twin quakes
+International aid teams have played a key part in Venezuela’s ‘miracle rescues’, days after twin earthquakes struck.
 
-## Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom
-Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.
+## Macron arrives in Syria for talks ahead of NATO summit in Turkiye
+The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.
 
-## NATO urges members to deliver plans for reaching defence spending targets
-US warns of consequences for NATO members without clear spending plans, signalling high expectations from allies.
+## Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade
+Amarilla called Mbappe a 'colonised Cameroonian' after his penalty helped France knock Paraguay out of the World Cup.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
