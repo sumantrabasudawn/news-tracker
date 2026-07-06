@@ -108,6 +108,9 @@ Simultaneous raids were conducted across five districts, including Thane, Ahilya
 ## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
 Police said an argument broke out between the two over a mobile phone chat.
 
+## How a 1962 plane crash gave a tribal village near Pune an unlikely identity
+
+
 ## What’s behind Trump’s ‘US will finish the job’ warning to Iran amid Khamenei’s funeral
 
 
@@ -127,9 +130,6 @@ Police said an argument broke out between the two over a mobile phone chat.
 
 
 ## Over 100 tourists rescued after flash flood near popular Maharashtra waterfall, video goes viral
-
-
-## Amid IMD’s high wind speed warning, BMC issues directives for construction sites in Mumbai
 
 
 ## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Trump rings in new ‘Trump Account’ investment accounts for children
-US President Donald Trump rang the opening bells of the New York Stock Exchange and Nasdaq to welcome 'Trump Accounts'.
+## USA vs Belgium LIVE: FIFA World Cup 2026 last 16
+Live coverage and text-stream updates of USA against Belgium in last-16 game, overshadowed by Balogun suspension row.
 
-## Iran reappoints a familiar face to powerful post during Khamenei funeral
-The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign 'aggressors'.
+## US judge tosses out Musk’s bid to void Twitter fraud verdict
+Jurors had found owner Elon Musk liable for tweets questioning whether Twitter was overrun by fake and spam accounts.
 
-## Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election
-President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs.
+## Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run
+A giant banner reading ‘Destroy Israel’ was unfurled as thousands gathered for the San Fermin bull run festival.
 
-## Ticket prices continue to fall for USA-Belgium World Cup last 16 clash
-Get-in prices for the round of 16 game at Seattle Stadium fall by 27 percent over the past three days.
+## Prosecutors in US lay out case against alleged killer of Charlie Kirk
+Judge to decide whether there's enough evidence to bring Tyler Robinson to trial for conservative activist's killing.
 
-## Belgian football body challenges reversal of Balogun’s World Cup suspension
-Trump says he asked FIFA's president to review USA player Balogun's game suspension, but did not tell him what to do.
+## What is the fallout of the increasing violence in Mali?
+Coalition of rebels and armed groups carries out another series of attacks.
 
-## What makes this NATO summit high stakes?
-Al Jazeera’s James Bays explains why NATO’s Ankara summit is high stakes.
+## US Supreme Court clears path for Texas to enforce app age verification law
+Parents must approve app downloads for minors as legal fight over Texas age verification law continues.
 
-## Balogun, Garrincha and Pinochet: FIFA’s controversial World Cup decisions
-The Balogun affair has shocked football, but FIFA's showpiece has a long history of fixes, farces and failures.
+## Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom
+Ayatollah Ali Khamenei’s body arrives in Qom as millions of mourners honour his leadership over past three days.
 
-## Khamenei family mourns, but Mojtaba’s absence fuels public insecurity
-Many Tehran residents say the absence of Iran's new supreme leader makes them question their own security.
+## NATO urges members to deliver plans for reaching defence spending targets
+US warns of consequences for NATO members without clear spending plans, signalling high expectations from allies.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
