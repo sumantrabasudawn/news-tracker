@@ -3,26 +3,44 @@
 ## Germany to borrow €800bn for rearmament in historic shift
 Chancellor Friedrich Merz’s debt-fuelled spending not seen since German reunification
 
+## The UK could help end Sudan’s civil war
+The British government has leverage and should use it to proscribe a terrorist militia and cut off its supply lines
+
+## The flaws in Trump’s Venezuela strategy
+The US-backed socialist regime has botched its response to the earthquakes
+
+## Burnham must avoid Starmer’s Trump mistake
+Experience shows that voters reward leaders who stand up to the US president
+
+## China steps up oil purchases from Middle East as prices fall
+Move comes as Saudi Arabia cuts pricing on exports to Asia to 6-year low
+
+## Fifa ‘crossed a red line’ by reversing US star striker’s suspension, Uefa says
+Governing body lifted a one-match ban given to Folarin Balogun after a phone call from Donald Trump
+
+## Zelenskyy says ‘battle in the sky’ will decide outcome of war with Russia
+Ukrainian leader says Donald Trump has changed his mind about the conflict
+
+## Top Fed official urges rethink of bank’s reliance on ‘forward guidance’
+Chris Waller sides with Kevin Warsh in call for revamping how rate-setters communicate with investors
+
+## Judge rules insurers do not need to pay out over Nord Stream pipeline blasts
+Lloyd’s of London and others spared potential €580mn payout as court finds ‘war exclusion’ applies for Russia’s busted pipes
+
+## Defence groups strike $8bn of maritime tech deals
+Lockheed Martin agrees $3.45bn deal for Ultra Maritime while Thales unveils planned purchase of French naval drone maker
+
+## Microsoft axes 4,800 jobs as it resets Xbox
+Gaming unit under pressure from weak margins and the industry’s sharp hardware downturn
+
 ## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
 Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
 
-## Nato backs Ukraine’s push to hit Russia harder, says Finnish president
-Alexander Stubb tells FT that long-range drone strikes have changed US views on the war and put Kyiv in ‘best’ position since 2022
+## Maersk to send first cargo through Suez Canal since start of Iran war
+Shares drop 7% as reopening of route means shorter delivery times for customers but potentially lower freight rates
 
-## Money in politics, part 94
-The US Supreme Court handed down a potentially transformative judgment on campaign finance last week
-
-## Millions to attend funeral procession for Iran supreme leader
-Event in Tehran marks one of the largest public gatherings in country’s recent history
-
-## Lukashenko says Belarus will not join Putin’s war in Ukraine
-Kyiv feared that Moscow was pressuring its closest ally to support war effort
-
-## Erdoğan rival shuttled between trials as Nato meets in Turkey
-Jailed Istanbul mayor İmamoğlu sent to three separate criminal hearings as president readies security summit
-
-## The best exhibitions to see in London this weekend
-The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
+## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
+UK airline’s board says it is minded to recommend proposal by US private credit group
 
 ## How two hedge fund managers helped revolutionise US football
 Fifa red card scandal overshadows turnaround in US men’s football
@@ -30,44 +48,38 @@ Fifa red card scandal overshadows turnaround in US men’s football
 ## Sky agrees £1.6bn ITV deal as UK broadcasters take on streaming rivals
 Acquisition to hand owner Comcast control of group reaching 21mn British households
 
-## FirstFT: US voters say Trump’s Iran war not worth the cost — FT poll
-Also in today’s newsletter: China launches a ballistic missile into the Pacific Ocean and England defeat World Cup co-hosts Mexico
+## IDFC FIRST Bank launches EPFO-integrated PF payment services for businesses
+The bank said the service will help businesses improve cash flow management and ensure timely statutory compliance
 
-## Zuber Issa strikes deal to buy former Prax Group petrol stations
-Billionaire acquires 85 sites from collapsed Prax as he aggressively expands new venture EG On The Move
+## AAI builds a new runway, expands into the pilot training business
+Move aligns with India’s projected need for 30,000 pilots in 15-20 years
 
-## CVC sells marina business for more than €1bn as yacht market booms
-French private equity firm InfraVia’s purchase of D-Marin is latest in a flurry of investments in sector
+## No reply from CEA: CERC
+CERC flags difficulties faced by Central Transmission Utility of India in granting connectivity to renewable energy developers
 
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
-UK airline’s board says it is minded to recommend proposal by US private credit group
+## Alternative-fuel vehicles cross 40% share of India’s passenger vehicle market for first time
+Overall vehicles retail sales across segments grow 22% YoY to 25,57,234 units in June
 
-## Novartis to buy UK biotech in $1.5bn deal
-Cancer-focused company was spun out from Imperial College and the Francis Crick Institute in 2019
+## How luxury cars are becoming easier to own
+Structured ownership is rewriting India’s Rs 5,000-crore luxury car market, especially in EVs
 
-## Essar Energy Transition ties up with Petraco for crude oil supply
-The facility enables Essar Energy Transition Fuels to diversify the crude sourcing and marketing options for its products.
+## Pocket
 
-## Ashok Leyland partners with Rosmerta Recycling to drive responsible commercial vehicle scrappage
-Through this partnership, Ashok Leyland customers will benefit from competitive value for their old vehicles, scrappage-lined OEM discounts on new vehicle purchases, and waivers on road tax and registration fees
 
-## Rains paralyse Mumbai, connectivity to Pune, Ahmedabad impacted
-Overnight Mumbai received 100-160 mm of rain and gusty winds led to uprooting of around 300 trees in the city
+## Microsoft cuts 4,800 jobs, including 1,600 at Xbox
+Microsoft said the layoffs are not AI-driven and will also spin off four game development studios as part of the restructuring
 
-## Hexaware and SmartRent Enter Strategic Partnership to Transform to AI-native Customer Operations and Revenue Processes
-Hexaware and SmartRent Enter Strategic Partnership to Transform to AI-native Customer Operations and Revenue Processes
+## BJP govt in Bengal started implementing promises made by party in election manifesto, says Amit Shah
+Shah said the Centre will soon complete the process of granting citizenship to refugee families, under Citizenship Amendment Act (CAA)
 
-## Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark
-Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark
+## Wall Street opens higher as AI stocks rebound; Nasdaq gains 0.8%
+Wall Street opened higher as artificial intelligence stocks rebounded strongly. Markets also assessed a planned mega share sale by SK Hynix. Oil prices edged lower after OPEC+ agreed to increase production. US Treasury yields eased, while European and Asian markets traded lower. Hong Kong's Hang Sen
 
-## Mumbai Weather & Rains Live: Red alert for parts of Maharashtra; 13 killed in last 3-4 days, says minister
-Find here all the live updates on weather in Mumbai as the city reels under strong winds and heavy rain.
+## 'For the first time from Oval': Donald Trump rings NYSE and Nasdaq opening bell to launch Trump Accounts
+President Trump launched a new investment program for children, "Trump Accounts," from the Oval Office, coinciding with the Republican's 2025 tax law. This initiative aims to boost equity market participation, with Treasury Secretary Scott Bessent highlighting that many American families lack stock 
 
-## 22 trains affected as heavy rains disrupt rail traffic on busy Ahmedabad–Mumbai corridor
-According to the Ahmedabad division of Western Railway, waterlogging between Safale, Kelve Road, Vasai Road and Nalasopara stations in the Mumbai Central Division impacted train operations.
-
-## TCS Nashik sexual harassment case: Court grants bail to Nida Khan
-TCS has suspended the employees named in the cases and reiterated its zero-tolerance policy towards harassment and coercion
+## 145% rise in LPG imports: Gas buys to be doubled from US - how much can it help India cut reliance on Gulf supply?
+Energy imports from the US have gained importance, particularly following the West Asia conflict, helping reduce the trade imbalance between the two countries. Besides the US, India has also sourced LPG from Argentina, Nigeria and Malaysia. Data from Kpler shows that India’s LPG imports from America
 
 ## Saudi Arabia slashes August crude prices for Asia by $11 a barrel in biggest cut in over 20 years
 Saudi Arabia has slashed its crude oil prices for Asian customers by a significant $11 per barrel for August, the largest reduction in over two decades. This move reflects weakening demand in Asia and easing geopolitical tensions, which have stabilized global oil markets. With supply conditions impr
@@ -84,61 +96,52 @@ India's food regulator, FSSAI, has issued notices to several brands, including '
 ## Growth, not gloom: Morgan Stanley keeps bullish stance on Indian equities
 India's market dip is likely temporary, with Morgan Stanley predicting a rebound driven by accelerating economic growth. Concerns about long-term prospects, including demographics and AI's impact on services, are seen as overstated. Strong structural advantages and potential positive earnings surpri
 
-## Saudi low-cost carrier flyadeal begins India operations with daily Hyderabad-Riyadh flights
-Saudi Arabia's budget airline, flyadeal, has officially landed in India, commencing its maiden service between Hyderabad and Riyadh. This new daily flight, operated by an Airbus A320, significantly enhances Hyderabad Airport's global reach, particularly to the Middle East. The move is anticipated to
+## Shivakumar rejects charge of govt interference in SIR, accuses Oppn of 'indulging in politics'
+Asserting that officials involved in the SIR were working under the guidance of the Election Commission of India, he said, "Let the EC probe the allegations."
 
-## Crude comeback: IOCL, HPCL buy 7 million barrels of energy supplies
-Indian refiners Indian Oil Corp and Hindustan Petroleum Corp have secured millions of crude barrels from Angola, Nigeria, and Brazil to bolster national reserves. This strategic procurement follows a significant drawdown in stockpiles due to Strait of Hormuz disruptions. Inventories have since rebou
+## Centre to unveil digital platform TribeX as national workshop on Tribal Research Institutes begins Tuesday
+The workshop will introduce TribeX, a digital learning platform aimed at preserving and promoting tribal arts, culture, and knowledge.
 
-## ITR filing FY 2025-26: Top 10 mistakes taxpayers should avoid for income tax returns online filing - check list
-ITR filing FY 2025-26: Before filing, compare your income and TDS details with documents such as Annual Information Statement (AIS), Form 26AS, and Form 16/16A. Any mismatches in data can not only lead to income tax notices, but also delayed refunds. Here are 10 mistakes that salaried taxpayers shou
+## On camera: Lioness pins down man in Gujarat village. How he escaped
+The man, who appeared to be bleeding, remained still throughout the ordeal and at one point even gently reached out to touch the big cat
 
-## 'Theft is theft': Ram Temple Trust accepts Champat Rai's resignation
-The Shri Ram Janmabhoomi Trust accepted the resignations of general secretary Champat Rai and trustee Anil Mishra.
+## 2 Assam Rifles personnel killed in an ambush in Manipur: Official
+Manipur police in a separate statement issued on the same day said operations are underway to neutralise the militants
 
-## Goa launches mobile app to book its iconic motorcycle taxis: Govt
-The state legalised motocycle taxi services via an amendment to the Motor Vehicle Act in 1981 giving legitimacy to various informal services
+## Apple brings card payments back to App Store in India, RuPay cards are next
+Cards on Mastercard and Visa networks can be set as a payment method to add money to the Apple Account
 
-## Nida Khan granted bail by Nashik court in TCS religious conversion, sexual harassment case
-Nida Khan was arrested for her alleged role in the relgious conversion and sexual harassment case at TCS-linked BPO in Nashik in May after a 42-day hunt.
+## Who is Krishna Mohan, named Ram Temple Trust's interim general secretary after Champat Rai's resignation?
+According to the Shri Ram Janmabhoomi Teerth Kshetra Trust, Krishna Mohan is currently engaged in social service activities in Hardoi.
 
-## PM Modi begins 3-nation Indo-Pacific tour, lands to a grand welcome in Jakarta
-Modi’s special aircraft was escorted by F-16 and Su-30 combat jets of the Indonesian Air Force when it entered the country’s airspace
+## FDA busts racket of synthetic milk across five districts in Maharashtra
+Simultaneous raids were conducted across five districts, including Thane, Ahilyanagar, Solapur, Jalna and Pune
 
-## Man dies after police chase ends in a crash in Rajasthan; accomplice held
-During the inspection, officers recovered a Gujarat registration number plate, while the car was found fitted with a Karnataka registration plate
+## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
+Police said an argument broke out between the two over a mobile phone chat.
 
-## India's Indo-Pacific push puts China on notice
-PM’s 5‑day tour of Indonesia, New Zealand and Australia illustrates New Delhi’s effort to engage the first island chain and the wider Pacific on its own terms.
-
-## Class 7 student locked inside J&K school after falling asleep day before 15-day vacation; entire staff suspended
-The passerby freed him from the locked classroom and recorded a video of the incident, which later went viral on social media.
-
-## Congress MLA opposes inclusion of non-Muslim members in MP Waqf Board, to move Supreme Court
-Arif Masood claimed that the issue of including members from outside the Muslim community was one of the key points being examined by the Supreme Court.
-
-## ‘Please don’t call me… they are beating me up’: How Patna High Court scrutiny keeps focus on missing Dalit man
+## ‘Eventual loser will be Team India’: Ashwin on Samson’s omission from ZIM series
 
 
-## Supriya Sule urges state to allow IT employees to work for home amid heavy rains
+## Over 100 tourists rescued after flash flood near popular Maharashtra waterfall, video goes viral
 
 
-## Warning signs ignored? Mumbai building that killed six had begun tilting hours before collapse
+## Amid IMD’s high wind speed warning, BMC issues directives for construction sites in Mumbai
 
 
-## What are the environmental challenges of the Chenab–Beas link tunnel project?
+## ‘Review periodically’: PM’s advisor bats for cash transfer to women
 
 
-## Samson dropped, Prabhsimran called up in India squad for Zimbabwe tour
+## ‘Organisational committees valid until 2027’: Mamata Banerjee faction to poll body over rebel group’s claim on party
 
 
-## Kumaraswamy sees bid to block HMT revival behind order to recover Rs 15,000-cr land
+## Shivam Dube replaces Nitish Kumar Reddy’s in India squad for England ODIs
 
 
-## ‘Day not far when Jammu & Kashmir will have a BJP government’: BJP chief Nitin Nabin
+## 8 places in India where you might spot rare white wild animals
 
 
-## India’s forgotten soldiers of the First World War: 9,909 names recovered after a century through UKPHA research
+## Goa may stop issuing new licences for rental Thars amid rising accidents
 
 
 ## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
@@ -189,6 +192,21 @@ Hard power has left its mark on this year’s World Cup.
 ## Russia’s 11-Hour Assault on Kyiv
 The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.
 
+## Britain’s Farms Run on Central Asian Labor Now
+As Russia squeezes migrants, Central Asians now fill nearly four in five U.K. Seasonal Worker visas.
+
+## Why India Cannot Escape Blame for Dhaka’s Handing Over of Key Projects to China
+In 2015, Bangladesh allotted land to India for the development of an SEZ at Mongla port. India failed to start work on that project. Dhaka handed it to China.
+
+## Twice Stateless: The Double Erasure of Bhutanese Refugees
+They survived ethnic cleansing in Bhutan, decades living in remote camps in Nepal, and the grueling process of starting over in the United States – only to be deported.
+
+## Why is the RSS, the Parent Organization of India’s Ruling BJP, Still Unregistered?
+The century-old RSS has always maintained that it is a “body of individuals” that does not need to register and pay taxes.
+
+## Denying Great Power Interference: Vietnam’s Strategies Toward Laos and Cambodia
+Since the first Vietnamese declaration of independence in 1945, Hanoi has pursued a consistent policy toward its two western neighbors.
+
 ## The Prabowo Administration’s Hostility to Expertise is Degrading Indonesian Governance
 The government needs to involve more academic institutions, think-tanks, and technical bodies in policymaking.
 
@@ -198,20 +216,8 @@ Myanmar’s “president” is embarking on his first official visit to an ASEAN
 ## Indonesia Recovers Body of American Pilot Killed by Papuan Separatists
 The West Papua National Liberation Army has a history of targeting aircraft servicing remote parts of the Papuan highlands.
 
-## Understanding China’s Party-State Intelligence System
-It’s not “whole of society” – and calling it that risks discrimination against ethnic Chinese.
-
-## Myanmar to Push Ahead With Suspended Myitsone Dam Project, Officials Say
-China's government is pushing hard for the resumption of the $3.6 billion project, which was suspended in 2011 amid widespread public opposition.
-
-## Czech-Taiwan Ties Are Cooling in Rhetoric, Not Reality
-Czechia’s new government has changed its tone on Taiwan, but left most of the substance of the relationship intact.
-
-## Despite Chinese Mediation Efforts, Taliban-Pakistan Conflict Continues With New Strikes
-The rupture between Afghanistan’s Taliban and their erstwhile allies in Pakistan continues to cause suffering on both sides of the border.
-
-## What the ‘Mother of All Trade Deals’ Learned From the India-ASEAN FTA
-India has spent the last 16 years paying for its trade deal with ASEAN. The India-EU FTA would not repeat those mistakes.
+## Ukrainian Writers Take Aim at Government Narratives
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## A Catholic Security Scholar’s Case for Responsible Military AI
 What do you do when two identities that make up your deepest self find themselves on opposite sides of a moral and spiritual battlefield?I am Catholic. I have been one for over 20 years since I made the life-altering decision to join a friend for Mass one day. My faith became a spiritual and ethical
@@ -233,9 +239,6 @@ Editor’s Note: Rewind and Reconnoiter is one of our weekly members-only newsle
 
 ## How a Team of Marines Built the Corps’ FPV Drone Training Program from a Cold Start
 Last fall, the U.S. Marine Corps had virtually no first-person view attack drones. That’s changed quickly. This episode is about how a team of marines at Weapons Training Battalion at Quantico went from a cold start to building a Marine Corps-wide first-person view drone training system. Ryan was pl
-
-## Trojan Spirit, the Army’s Intelligence Backbone, Needs a Successor
-In 1990, the idea that deployed commanders could access the latest intelligence from three-letter agencies in the middle of nowhere was radical. But the Army was starting to make this idea real through a program called Trojan Spirit, so they could address a major strategic barrier: There were too ma
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## From Manchester to Downing Street: What Burnham could mean for Palantir
-A 330 million pound NHS contract - and Palantir's wider role in UK government - hangs on Andy Burnham's next move.
+## Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news
+Lionel Messi's Argentina go up against Mohamed Salah's Egypt in a spicy World Cup round of 16 encounter.
 
-## Hamas announces dissolution of Gaza governing body
-A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.
+## Lebanon latest: Teacher killed by Israeli airstrike
+Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.
 
-## England boss jokes Trump could help lift defender’s suspension
-England boss jokes Trump could help lift defender’s suspension
+## Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16
+Live coverage and text updates of the World Cup last-16 clash between Portugal and Spain in Dallas in the US.
 
-## Baby dies after Israeli troops block emergency journey to hospital
-A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank
+## Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye
+In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.
 
-## Refugees killed in landslides at Rohingya camps in Bangladesh
-Refugees killed in landslides at Rohingya camps in Bangladesh
+## UN discusses prevention of genocide: Six times it failed to do just that
+The UN General Assembly meets amid Israel's genocide on Gaza, Myanmar's genocide against the Rohingya, and other crises.
 
-## Large-scale Russian attack on Ukraine before NATO summit
-Large-scale Russian attack on Ukraine before NATO summit
+## US president Trump defends FIFA’s Balogun red card reversal
+US President Donald Trump defended FIFA's decision to overturn Folarin Balogun's red card suspension.
 
-## The World Cup must pay its carbon bill
-Football’s biggest tournament should fund a serious plan to measure, reduce and account for its emissions.
+## Is NATO at breaking point as it meets in Turkiye?
+NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.
 
-## El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?
-UN warns of 'catastrophe' in el-Obeid after RSF atrocities in el-Fasher last year.
+## Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion
+Smotrich declares a settlement 'revolution' as Israel approves 13 new outposts during big increase in settler violence.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
