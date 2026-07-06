@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## ‘Fundamental overhaul’ of UK police leadership needed, says David Blunkett report
+Authors point to systemic causes for concern about consistency, capability and culture in England and Wales
+
 ## FirstFT: China releases Christian pastor after Trump raised his case with Xi
 Also in today’s newsletter: Wall Street banks recover in China and Ukrainian drone strikes spur Russian fuel crisis
 
@@ -20,9 +23,6 @@ Premier’s cabinet raises fears of a constitutional crisis by formally rejectin
 
 ## Turkey detains journalists and comic in crackdown before Nato summit
 Popular comedian who called President Recep Tayyip Erdoğan a ‘dictator’ is among those arrested
-
-## China releases Christian pastor after Trump appeal
-US president raised case of Protestant church founder Ezra Jin during meeting with Xi Jinping in May
 
 ## Fifa reverses suspension of star US striker after call from Trump
 Belgium cries foul after governing body clears Folarin Balogun to play World Cup match
@@ -45,53 +45,53 @@ Paris loses out on cheap loans due to strict eligibility criteria it had champio
 ## How Bending Spoons built a $23bn tech empire from struggling brands
 Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
 
+## How India can cut dependency on global AI platforms
+A meaningful AI strategy could require ten years of massive investment
+
+## How SpaceFields is fuelling Indian rocketry’s liftoff
+Startup SpaceFields picks a least crowded, and strategic corner of the space sector: solid propulsion systems
+
+## Technology and talent transformation at TAFE
+Mother-daughter duo Mallika Srinivasan and Lakshmi Venu champion electrification and smart farm mechanisation as they sow the seeds of global growth for the tractor giant
+
+## Cars24 flattens out
+Automotive startup Cars24 eliminates job titles across organisation
+
+## Corporate trust in AI declines
+From the initial gung-ho optimism over AI, there is now a visible pullback as businesses scrutinise the investments
+
+## Solar self-reliance may cost India ₹30,000 cr this year
+
+
+## Telecom preview: Poised for steady Q1 revenue and ARPU growth on subscriber gains and premiumisation push
+Telecom firms in India are set for steady Q1 growth, driven by subscriber gains and premiumisation strategies, boosting ARPU.
+
 ## Rise in dollar inflows may put additional pressure on Gold prices
 Strong NRI interest in FCNR(B) deposits could bolster the rupee and keep domestic gold prices under check, say analysts
 
-## Beyond prompts: AI loops power next generation of autonomous agents
-In a company blog, Anthropic shared that the Claude Code team defines loops as agents repeating cycles of work until a stop condition is met
+## China's Z.ai a challenger to OpenAI and Anthropic
+A Chinese AI startup, Z.ai, is making waves with its new model, GLM-5.2, offering advanced coding and AI agent features at a lower cost than US rivals like OpenAI and Anthropic. This development is attracting developers and sparking discussions about China's growing AI competitiveness, especially as
 
-## US medical coding firm backtracks on layoff assurance; credits 3-months severance to workers
-Company representatives had on Friday agreed to participate in a conciliatory meeting to be chaired by the Labour Secretary on Monday, following the intervention of Uma Thomas MLA after protest by employees on sudden layoffs
+## USTR probe action creates uncertainty for India, others
+India faces renewed trade uncertainty as the US Trade Representative moves forward with a probe into forced labor, potentially replacing existing tariffs. Hearings are underway, with a proposed 12.5% tariff impacting over 50 nations, including India. This development could shift trade deal negotiati
 
-## A life devoted to India’s unity and progress
+## CaratLane may go to West Asia Damas way
+Titan's online jewellery arm, CaratLane, is eyeing a West Asian debut through its recent acquisition, Damas Jewellery. While recent regional conflicts have temporarily halted expansion plans, CaratLane sees Damas' extensive store network as a strategic entry point. This move could see CaratLane coun
 
+## For urban buyers, Saturdays, Sundays witness 2/3rd of weekly spend
+Urban Indians significantly boost their spending on Saturdays and Sundays, with a 1.6 times higher expenditure compared to weekdays. Fashion, entertainment, electronics, and dining see a marked increase as people enjoy leisure time. This trend is particularly strong in major metros and among higher-
 
-## Prayagraj shows highest unemployment rate, Ahmedabad lowest among million-plus cities
-The survey covered over 19,000 households with around 60,000 persons with the age of 15 year years or more in million-plus cities
+## Dalal Street to track oil, earnings, global trends
+Indian stock markets are poised for a week driven by crude oil prices, global cues, and the commencement of the corporate earnings season, with TCS set to announce its June-quarter results. Investors will also be watching the monsoon's progress and foreign investor activity. Key economic data from t
 
-## Pvt sector banks log robust growth in deposits and advances in Q1FY27
-The private sector bank’s deposits rose 14.7% year-on-year, while gross advances increased by 15.4%
+## 'Rise in early exits from life policies points to misselling'
+Life insurance policyholders are increasingly cashing out early, with surrenders now surpassing maturity payouts, according to the RBI's Financial Stability Report. This trend, particularly driven by private insurers, signals potential policyholder dissatisfaction and mis-selling concerns. Soaring d
 
-## FMCG companies witnessed steady consumption trends in June quarter
-Companies said they are closely monitoring evolving inflationary pressures and El Niño's impact on monsoons
-
-## Editorial. Right Code
-Standardised ad rules for market products welcome
+## FMCG Q1 demand stable; companies flag El Nino risk
+Household goods demand held steady in Q1 despite price hikes, as companies navigated inflation. However, concerns linger over El Nino's potential impact on monsoon rains and rural consumption. While price increases helped offset rising costs, the sector faces a potential challenge from weather volat
 
 ## 15 India-bound ships carrying urea, DAP and sulphur cross Hormuz: Govt
 Despite Middle East conflict disruptions, India's fertilizer supply remains robust. Most shipments successfully navigated the Strait of Hormuz, while domestic production surpassed targets. Proactive planning, diplomatic outreach for new sources, and full restoration of natural gas to plants ensured 
-
-## OPEC+ agrees fresh August oil output hike as Strait of Hormuz reopens
-OPEC+ is boosting oil output by another 188,000 barrels daily from August, continuing to reverse earlier cuts. Despite this, actual supply remains below pre-conflict levels due to disruptions impacting key producers. Oil prices have already fallen to pre-war figures, influenced by weaker Chinese dem
-
-## 'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims
-The Petroleum Ministry has debunked claims of Bhutan refusing India's E20 petrol, stating no such offer was ever made. This clarification follows opposition allegations that several neighboring countries rejected the fuel. The government assures the public that E20 has undergone extensive testing, e
-
-## US tops the global economic chart—but for how long? Deutsche Bank flags biggest risk
-America's mounting debt is now the primary threat to its global economic dominance, surpassing external competition. Deutsche Bank warns that persistent deficits and soaring interest payments are eroding a key advantage. While the US possesses enduring strengths, the nation faces imminent fiscal cha
-
-## Dalal Street outlook: TCS, crude oil and more, what's driving stock market this week?
-Indian markets brace for a pivotal week as the June-quarter earnings season kicks off with TCS on July 9. Investors will scrutinize results and management commentary on demand and AI. Global cues, including US Fed minutes and crude oil price stability, alongside domestic monsoon progress, will also 
-
-## India's top IT firms set for muted Q1 as AI spending fails to lift growth: Report
-India's top IT firms anticipate a slow start to FY27, with growth likely to remain subdued as clients focus on cost savings over major tech investments. While AI adoption is rising, it's funded by efficiency gains, not budget increases. Margins are expected to hold steady due to currency benefits an
-
-## Market recap: Top-10 firms add Rs 1 lakh crore in market capitalisation; Airtel, Bajaj Finance lead gains
-Dalal Street concluded the past week on a high note, with top companies collectively adding over Rs 1 lakh crore to their market cap. Bharti Airtel and Bajaj Finance led the gains, buoyed by strong domestic economic data and positive global sentiment. While most of the top 10 firms saw their valuati
-
-## India's passport ranking slips, remains outside top 100: Which nations are in top 10?
-
 
 ## Mumbai schools, colleges to remain shut on Monday as IMD issues ‘orange alert’
 Government and private offices will function as usual, the release said while urging citizens to step out of their homes only if necessary.
@@ -117,29 +117,35 @@ The Diamond Harbour police lodged a second FIR on July 3 based on a similar comp
 ## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
 The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
 
-## Haaland catches up with Messi, Mbappe in Golden Boot race
+## PM’s Indonesia visit could lay foundations of nickel diplomacy
 
 
-## From 16 lakh Rolex to 50k Tissot: Breaking down Raghav Chadha’s wrist game
+## Behind Agniveer retention move: More experienced manpower, training on new platforms
 
 
-## US urged countries to avoid Khamenei funeral, 13 withdrew: Report
+## In climate fight, panchayat must partner in planning
 
 
-## Cristiano Ronaldo says this is his last World Cup in combative press conference
+## West Asia crisis has made India more energy secure
 
 
-## Turtuk to Tso Moriri: 7 offbeat places to see in Ladakh
+## Sam Pitroda writes: In AI Age, America will need to lead with renewed generosity
 
 
-## Video: Mexico fans blast horns, set off fireworks outside England’s hotel before World Cup clash
+## Rice-to-ethanol policy is deepening economic and environmental stress
 
 
-## Australia clinch 7th Women’s T20 World Cup with 7-wicket thrashing of England
+## The Cockroach Janata Party is my generation’s attempt to reclaim the promise the Republic made to everyone
 
 
-## What was Cape Verde’s welcome like?
+## From the Iran conflict, four geopolitical shifts India cannot afford to miss
 
+
+## As tech rallies and consumer shares lag, China’s stock market forms microcosm for economy
+The unevenness of China’s economy is now well reflected in its US$16 trillion stock market, as technology companies ride a bull run but consumer stocks fall behind. Artificial intelligence chipmakers, from Cambricon Technologies to Moore Threads Technology, have led a roughly 50 per cent gain in the
+
+## China’s carmakers are rewriting Europe’s auto hierarchy as Japanese rivals lose ground
+Chinese carmakers are taking market share away from Japanese rivals in western Europe, pushing the latter’s share to its lowest level in four decades. But uncertainties over European tariff policies could weigh on exports from the world’s second-largest economy, analysts said. Since the end of last 
 
 ## Play big or play safe: a CEO can’t have it all
 [The content of this article has been produced by our advertising partner.] When Elon Musk declared that Tesla aims to have “hundreds of thousands, if not a million” self-driving taxis on US roads by the end of 2026 in a CNBC interview, it was another example of a CEO setting a bold target publicly.
@@ -158,12 +164,6 @@ Hong Kong’s first Northern Metropolis pilot tender drew only two confirmed bid
 
 ## After hooking China on coffee, Starbucks ramps up consumer strategy
 When Anne walked into a Starbucks branch in Seattle more than a decade ago, she knew exactly what to expect: a latte, a comfortable chair and a place to work. Now, after living in the technology hub of Hangzhou, the capital of the eastern province of Zhejiang, and working as an English teacher for t
-
-## Caution on land tenders key to Hong Kong’s property recovery: analysts
-As Hong Kong moves forward with its huge new Northern Metropolis development zone, analysts argue the government should take a cautious approach to land sales to help sustain the recent recovery in the residential property market. The large-scale project near the border with the Chinese mainland con
-
-## Why Citigroup CEO Jane Fraser left the US-China summit feeling optimistic
-For Citigroup’s global CEO Jane Fraser, her time in Beijing last month meant far more than a handshake and photograph with heads of state. Fraser was among 17 business leaders US President Donald Trump invited to China as part of his three-day visit to Beijing from May 13 to May 15. Standing on the 
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -261,6 +261,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match
+Belgium's football federation is 'investigating all potential options' to safeguard football after FIFA's U-turn.
+
+## Iran war live: Tehran prepares for Ali Khamenei’s funeral procession
+Millions expected at funeral procession for Iran's slain supreme leader in Tehran today.
+
 ## Venezuelan leader marks Independence Day with message of ‘no social unrest’
 Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.
 
@@ -268,7 +274,7 @@ Interim President Delcy Rodriguez once again defends her government's handling o
 After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.
 
 ## Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16
-Haaland's brace takes him to seven goals for the tournament as Norway book quarterfinal against Mexico or England.
+Haaland's brace takes him to seven goals for the tournament as Norway book a quarterfinal against Mexico or England.
 
 ## Palestinian baby dies in West Bank after Israel blocks urgent medical care
 Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.
@@ -278,12 +284,6 @@ Leaders of the NATO member states are expected in Turkiye by July 7 for a summit
 
 ## Albanian court frees protesters who rallied against Kushner-linked resort
 The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests
-
-## Mexico vs England LIVE: FIFA World Cup 2026 – last 16
-Live coverage and text updates with full build-up and team news ahead from our commentary stream of Mexico vs England.
-
-## FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16
-Cristiano Ronaldo is just one of several key talking points before Portugal and Spain clash in a round of 16 epic in Dallas.
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
