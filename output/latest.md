@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Has the Iran war changed the world order? Submit a question to Gideon Rachman
-Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
+## Germany to borrow €800bn for rearmament in historic shift
+Chancellor Friedrich Merz’s debt-fuelled spending not seen since German reunification
 
-## Trump escalates Meloni feud with ‘restraining order needed’ post
-US president renews attack on Italian leader who was previously his most devoted European ally
+## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
+Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
 
-## Millions attend funeral procession for Ayatollah Ali Khamenei
-Event in Tehran expected to be centrepiece of one of the regime’s largest public displays of support
+## Nato backs Ukraine’s push to hit Russia harder, says Finnish president
+Alexander Stubb tells FT that long-range drone strikes have changed US views on the war and put Kyiv in ‘best’ position since 2022
 
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
-UK airline’s board says it is minded to recommend proposal by US private credit group
+## Money in politics, part 94
+The US Supreme Court handed down a potentially transformative judgment on campaign finance last week
 
-## To improve policing, fix its talent problem
-The job of chief constable has become so big that hardly anyone wants to do it
+## Millions to attend funeral procession for Iran supreme leader
+Event in Tehran marks one of the largest public gatherings in country’s recent history
 
-## China fires ballistic missile into Pacific nuclear-free zone
-Submarine-launched projectile carrying dummy warhead draws condemnation from Japan, Australia and New Zealand
+## Lukashenko says Belarus will not join Putin’s war in Ukraine
+Kyiv feared that Moscow was pressuring its closest ally to support war effort
 
-## Russia hammers Kyiv with missiles and drones on eve of Nato summit
-Zelenskyy pleads with allies to provide Patriot interceptors to defend Ukraine
+## Erdoğan rival shuttled between trials as Nato meets in Turkey
+Jailed Istanbul mayor İmamoğlu sent to three separate criminal hearings as president readies security summit
 
-## Honeywell spin-off in merger talks to create $27bn materials group
-Combination with Element Solutions would boost Solstice’s role as key supplier of chipmaking inputs
+## The best exhibitions to see in London this weekend
+The FT’s critics recommend the most compelling 2026 shows, from Anish Kapoor and Barbara Hepworth to Frida Kahlo to Zurbarán
+
+## How two hedge fund managers helped revolutionise US football
+Fifa red card scandal overshadows turnaround in US men’s football
+
+## Sky agrees £1.6bn ITV deal as UK broadcasters take on streaming rivals
+Acquisition to hand owner Comcast control of group reaching 21mn British households
+
+## FirstFT: US voters say Trump’s Iran war not worth the cost — FT poll
+Also in today’s newsletter: China launches a ballistic missile into the Pacific Ocean and England defeat World Cup co-hosts Mexico
 
 ## Zuber Issa strikes deal to buy former Prax Group petrol stations
 Billionaire acquires 85 sites from collapsed Prax as he aggressively expands new venture EG On The Move
@@ -30,41 +39,50 @@ Billionaire acquires 85 sites from collapsed Prax as he aggressively expands new
 ## CVC sells marina business for more than €1bn as yacht market booms
 French private equity firm InfraVia’s purchase of D-Marin is latest in a flurry of investments in sector
 
+## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
+UK airline’s board says it is minded to recommend proposal by US private credit group
+
 ## Novartis to buy UK biotech in $1.5bn deal
 Cancer-focused company was spun out from Imperial College and the Francis Crick Institute in 2019
 
-## Ocado paves way for exit of boss Tim Steiner after succession clash
-Founder to stay in post until group concludes succession planning following boardroom pressure to remove him
+## Essar Energy Transition ties up with Petraco for crude oil supply
+The facility enables Essar Energy Transition Fuels to diversify the crude sourcing and marketing options for its products.
 
-## Sky agrees £1.6bn ITV deal as UK broadcasters take on streaming rivals
-Combination will leave US media group Comcast in control of a broadcaster that reaches 21mn households
+## Ashok Leyland partners with Rosmerta Recycling to drive responsible commercial vehicle scrappage
+Through this partnership, Ashok Leyland customers will benefit from competitive value for their old vehicles, scrappage-lined OEM discounts on new vehicle purchases, and waivers on road tax and registration fees
 
-## SaaSpocalypse deferred
-The moats hold, for now
+## Rains paralyse Mumbai, connectivity to Pune, Ahmedabad impacted
+Overnight Mumbai received 100-160 mm of rain and gusty winds led to uprooting of around 300 trees in the city
 
-## Sensex today | Stock Market Live Updates: Banks lead rally as Sensex jumps 508 pts, Nifty crosses 24,420
-Sensex, Nifty, Share Prices Live Updates: BSE Sensex was up 571.72 points, or 0.74%, at 78,335.63 after touching an intraday high above the 78,350 mark. The Nifty 50 gained 169.95 points, or 0.70%, to 24,440.80 after climbing above the 24,446 mark during the session
+## Hexaware and SmartRent Enter Strategic Partnership to Transform to AI-native Customer Operations and Revenue Processes
+Hexaware and SmartRent Enter Strategic Partnership to Transform to AI-native Customer Operations and Revenue Processes
 
-## Centre clears ₹3,400 crore expansion of IndianOil’s Ennore LNG terminal
-The project will double the terminal’s regasification capacity from 5 MTPA to 10 MTPA, increasing gas supply to industries, power plants, fertiliser units and city gas networks across Tamil Nadu, Andhra Pradesh and Karnataka
+## Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark
+Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark
 
-## Saints & Masters Acquires Xencia, Targets ₹1,000-Crore Revenue from Microsoft Cloud Business
-Saints & Masters Acquires Xencia, Targets ₹1,000-Crore Revenue from Microsoft Cloud Business
-
-## Gold slips ₹150, silver drops ₹5,000 as strong US dollar dents bullion demand
-Traders said the market remained range-bound as investors balanced lingering geopolitical risks in West Asia against a stronger greenback and expectations surrounding the US Federal Reserve's monetary policy.
-
-## Vayona Energy begins blade manufacturing operations at its Nellore facility in AP
-The company is also set to scale-up manufacturing capacity and enhance operational capabilities at the blade facility to support future growth
-
-## Ashok Leyland ties up with Rosmerta Recycling to boost commercial vehicle scrapping
-Under the partnership, Ashok Leyland will also provide customers support with de-registration and other statutory documentation
-
-## Mumbai Weather & Rains Live: Heavy rains lash Mumbai amid IMD's red alert; 13 killed in last 3-4 days, says minister
+## Mumbai Weather & Rains Live: Red alert for parts of Maharashtra; 13 killed in last 3-4 days, says minister
 Find here all the live updates on weather in Mumbai as the city reels under strong winds and heavy rain.
 
-## NaBFID backs first credit-enhanced bond issue with Think Gas Ludhiana
-NaBFID said it plans to extend the model to more A-rated infrastructure companies to deepen India’s corporate bond market and support long-term infrastructure financing
+## 22 trains affected as heavy rains disrupt rail traffic on busy Ahmedabad–Mumbai corridor
+According to the Ahmedabad division of Western Railway, waterlogging between Safale, Kelve Road, Vasai Road and Nalasopara stations in the Mumbai Central Division impacted train operations.
+
+## TCS Nashik sexual harassment case: Court grants bail to Nida Khan
+TCS has suspended the employees named in the cases and reiterated its zero-tolerance policy towards harassment and coercion
+
+## Saudi Arabia slashes August crude prices for Asia by $11 a barrel in biggest cut in over 20 years
+Saudi Arabia has slashed its crude oil prices for Asian customers by a significant $11 per barrel for August, the largest reduction in over two decades. This move reflects weakening demand in Asia and easing geopolitical tensions, which have stabilized global oil markets. With supply conditions impr
+
+## Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices
+Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. Since they continue to process higher-cost crude purchased earlier, profitability is expected to remain under pressure during the ongoing quarter.
+
+## Taiwan's Unimicron targets $1.4 billion in global share sale at discounted price amid AI-driven chip demand
+Taiwan's Unimicron Technology is aiming to raise approximately $1.4 billion through a global share offering, joining a trend of Asian semiconductor firms seeking international capital. The printed circuit board and chip substrate maker is offering 50 million global depositary shares, with proceeds e
+
+## 'Fresh Paneer' to '100% organic': FSSAI issues notices to multiple brands over misleading food claims
+India's food regulator, FSSAI, has issued notices to several brands, including 'Heritage Fresh Paneer', for misleading claims on their packaging. The authority is cracking down on labels that could deceive consumers, such as 'fresh' paneer or 'vegan' spreads. This move aims to ensure food products a
+
+## Growth, not gloom: Morgan Stanley keeps bullish stance on Indian equities
+India's market dip is likely temporary, with Morgan Stanley predicting a rebound driven by accelerating economic growth. Concerns about long-term prospects, including demographics and AI's impact on services, are seen as overstated. Strong structural advantages and potential positive earnings surpri
 
 ## Saudi low-cost carrier flyadeal begins India operations with daily Hyderabad-Riyadh flights
 Saudi Arabia's budget airline, flyadeal, has officially landed in India, commencing its maiden service between Hyderabad and Riyadh. This new daily flight, operated by an Airbus A320, significantly enhances Hyderabad Airport's global reach, particularly to the Middle East. The move is anticipated to
@@ -75,68 +93,62 @@ Indian refiners Indian Oil Corp and Hindustan Petroleum Corp have secured millio
 ## ITR filing FY 2025-26: Top 10 mistakes taxpayers should avoid for income tax returns online filing - check list
 ITR filing FY 2025-26: Before filing, compare your income and TDS details with documents such as Annual Information Statement (AIS), Form 26AS, and Form 16/16A. Any mismatches in data can not only lead to income tax notices, but also delayed refunds. Here are 10 mistakes that salaried taxpayers shou
 
-## Nuclear power push: India eyes uranium supply pact with Australia during PM Modi’s visit
-Australia, which has nearly one-third of the world's known uranium reserves, signed a framework agreement with India over a decade ago. The two countries are also likely to finalise or advance agreements in several strategic areas, including critical minerals, cybersecurity, emerging technologies, c
+## 'Theft is theft': Ram Temple Trust accepts Champat Rai's resignation
+The Shri Ram Janmabhoomi Trust accepted the resignations of general secretary Champat Rai and trustee Anil Mishra.
 
-## Gold price prediction today: Will gold prices see limited upside? Key levels to watch out for July 6, 2026 week
-Gold price prediction today: Gold prices are likely to see a limited upside because of high inflation in the US, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## Goa launches mobile app to book its iconic motorcycle taxis: Govt
+The state legalised motocycle taxi services via an amendment to the Motor Vehicle Act in 1981 giving legitimacy to various informal services
 
-## Apple not so 'fruitful' for Himachal? Climate pressures hill state's Rs 5,000 crore economy
-Himachal Pradesh's Rs 5,000 crore apple economy faces a severe climate crisis, with production projected to plummet by nearly 40% this year. Unseasonal rains, hailstorms, and erratic weather have significantly impacted output, affecting an estimated 2.5 lakh farming families. Growers are grappling w
+## Nida Khan granted bail by Nashik court in TCS religious conversion, sexual harassment case
+Nida Khan was arrested for her alleged role in the relgious conversion and sexual harassment case at TCS-linked BPO in Nashik in May after a 42-day hunt.
 
-## Rupee slips 10 paise as stronger dollar and geopolitical jitters outweigh positive cues
-The Indian rupee weakened against the US dollar, opening the week down 10 paise at 95.28 due to a stronger dollar globally and geopolitical uncertainties. Despite favorable global cues like falling oil prices, the rupee failed to gain, indicating underlying market fragility. Meanwhile, Indian stock 
+## PM Modi begins 3-nation Indo-Pacific tour, lands to a grand welcome in Jakarta
+Modi’s special aircraft was escorted by F-16 and Su-30 combat jets of the Indonesian Air Force when it entered the country’s airspace
 
-## Precious metals rate today: Gold holds near 2-week high; silver extends gains
+## Man dies after police chase ends in a crash in Rajasthan; accomplice held
+During the inspection, officers recovered a Gujarat registration number plate, while the car was found fitted with a Karnataka registration plate
 
+## India's Indo-Pacific push puts China on notice
+PM’s 5‑day tour of Indonesia, New Zealand and Australia illustrates New Delhi’s effort to engage the first island chain and the wider Pacific on its own terms.
 
-## Pahalgam attack: NIA charge sheets LeT’s Hafiz Saeed; details Pakistan’s role
-Hafiz Saeed has been named in his individual capacity for the conspiracy and also as the chief of LeT and its proxy outfit, TRF
+## Class 7 student locked inside J&K school after falling asleep day before 15-day vacation; entire staff suspended
+The passerby freed him from the locked classroom and recorded a video of the incident, which later went viral on social media.
 
-## ‘Iran will never forget': Tehran's gratitude to India for attending Ayatollah Ali Khamenei's funeral
-An Indian delegation including Congress leader Salman Khursheed and PDP chief Mehbooba Mufti represented India at Khamenei's funeral last week.
+## Congress MLA opposes inclusion of non-Muslim members in MP Waqf Board, to move Supreme Court
+Arif Masood claimed that the issue of including members from outside the Muslim community was one of the key points being examined by the Supreme Court.
 
-## Swollen Kamvari river near Mumbai sweeps away two boys in 24 hours as rain batters city
-Mumbai, Pune weather news: On Sunday, a 17-year-old boy drowned in the same Kamvari river after being swept away by strong currents.
-
-## Mumbai weather LIVE: Heavy rain throws Western Railway services off track; over 20 long-distance trains stranded
-Mumbai weather LIVE: A 10-year-old boy was swept away by the swollen Kamvari River in Bhiwandi while going out to throw garbage. A person was found dead after a landslide buried a house in Pune's Maval tehsil on Monday.
-
-## MP to buy school uniforms from pvt firms, ousting SHGs
-According to a tender, firms with at least ₹700 crore turnover in last 3 years will be considered for the contract
-
-## Car, ₹10 lakh demand after love marriage? Husband arrested in Delhi woman's death case
-The accused, identified as Arastu Sikka, was arrested after the woman's family alleged she had been subjected to dowry-related harassment.
-
-## Keeping up with UP: Congress and the quest for Dalit votes ahead of 2027 polls
-The Congress has replaced Avinash Pandey, a Brahmin, with a new entrant, Rajendra Pal Gautam, a Dalit from the Jatav sub-caste, as the state in charge
-
-## Armed forces plans higher retention as first batch of Agniveers completes 4 years: Report
-The Centre is planning to retain a larger number of Agniveers for regular service in armed forces as the first batch completes 4 years.
-
-## Akshay Kumar ‘rescued’ me during Bollywood boycott, says Vivek Oberoi: ‘Gave his work to me’
+## ‘Please don’t call me… they are beating me up’: How Patna High Court scrutiny keeps focus on missing Dalit man
 
 
-## Mumbai-Pune Expressway: Rains an ‘act of God’, landslide not a construction flaw, says authority
+## Supriya Sule urges state to allow IT employees to work for home amid heavy rains
 
 
-## 10-year-old injured on theme park ride, father wins Rs 2.27 lakh payout
+## Warning signs ignored? Mumbai building that killed six had begun tilting hours before collapse
 
 
-## Mohanlal declares 10 elephant tusks, 13 ivory idols under Kerala Amnesty Scheme
+## What are the environmental challenges of the Chenab–Beas link tunnel project?
 
 
-## 25 killed in Sri Lanka prison clash, around 100 injured
+## Samson dropped, Prabhsimran called up in India squad for Zimbabwe tour
 
 
-## Our right to walk is as broken as India’s footpaths
+## Kumaraswamy sees bid to block HMT revival behind order to recover Rs 15,000-cr land
 
 
-## Norway FIFA World Cup song: We are never going home, by French DJ
+## ‘Day not far when Jammu & Kashmir will have a BJP government’: BJP chief Nitin Nabin
 
 
-## Hafiz Saeed named in NIA supplementary chargesheet over Pahalgam terror attack
+## India’s forgotten soldiers of the First World War: 9,909 names recovered after a century through UKPHA research
 
+
+## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
+Hong Kong’s gold futures trading has surged on the back of a fee waiver and as the city government presses ahead with plans to become an international trading hub for the precious metal, with volumes breaking a record on Monday. A total of 6,676 US dollar gold futures contracts were traded during th
+
+## EU should think twice before weaponising its market against China
+For much of the post-Cold-War era, the European Union understood economic interdependence as a source of mutual prosperity. Open markets, free trade and multilateral rules were regarded not merely as economic principles but as the foundations of European normative influence. That assumption is rapid
+
+## Beijing opens lithium futures to foreign traders to cement pricing power over US
+Beijing has unveiled new measures to keep its tight grip on lithium prices, in a move that may give it an edge over the US in the key material vital for electric vehicle and energy storage. Following mining endeavours worldwide to secure supplies, Chinese authorities announced they would allow offsh
 
 ## China’s latest nuclear reactor goes live, first in Greater Bay Area with Hualong One tech
 China’s domestic design is fuelling a nuclear reactor-building spree in the country’s largest provincial economy of Guangdong, with a new Hualong One reactor counting down to entering commercial operation this week ahead of peak demand for electricity this summer. China General Nuclear Power Group (
@@ -153,14 +165,14 @@ Hong Kong will seek to amend its securities laws later this year and upgrade its
 ## Hong Kong’s roast meat chains expand as recovery in shop markets remains uneven
 Hong Kong’s roast meat restaurant chains are emerging as one of the more active tenants in the city’s street-shop market, expanding in tourist districts even as the broader retail property recovery remains uneven and vacancy rates stay elevated in some areas. The number of siu mei restaurants – eate
 
-## Hong Kong pension fund to ease rules and increase gold ETFs, source says
-Hong Kong’s pension fund will soon be able to invest in more gold exchange-traded funds (ETFs) as part of the government’s push to turn the city into a trading hub for the precious metal, a source with knowledge of the matter told the South China Morning Post. The Mandatory Provident Fund Schemes Au
+## Israel Belongs in the New Saudi-Iranian Order
+An anti-Abraham Accords is taking shape. That would be a big mistake.
 
-## As tech rallies and consumer shares lag, China’s stock market forms microcosm for economy
-The unevenness of China’s economy is now well reflected in its US$16 trillion stock market, as technology companies ride a bull run but consumer stocks fall behind. Artificial intelligence chipmakers, from Cambricon Technologies to Moore Threads Technology, have led a roughly 50 per cent gain in the
+## War Has Become Pointless
+Military conflict has always existed. It’s just stopped making sense.
 
-## China’s carmakers are rewriting Europe’s auto hierarchy as Japanese rivals lose ground
-Chinese carmakers are taking market share away from Japanese rivals in western Europe, pushing the latter’s share to its lowest level in four decades. But uncertainties over European tariff policies could weigh on exports from the world’s second-largest economy, analysts said. Since the end of last 
+## The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says
+Sen. Tammy Duckworth tells FP why she is traveling to Taiwan.
 
 ## Jimmy Carter Knew What Ails America
 One of history’s most misunderstood speeches is also one of its most important.
@@ -176,15 +188,6 @@ Hard power has left its mark on this year’s World Cup.
 
 ## Russia’s 11-Hour Assault on Kyiv
 The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.
-
-## Gen Z Goes to Hollywood
-Three summer movies reflect a generation’s sensibilities.
-
-## A Short Economic History of the United States
-From a slave economy to a global empire in 250 years.
-
-## America, the Once Global Nation
-At 250, the country is struggling to come to terms with the world it created.
 
 ## The Prabowo Administration’s Hostility to Expertise is Degrading Indonesian Governance
 The government needs to involve more academic institutions, think-tanks, and technical bodies in policymaking.
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Philippine Vice President Duterte’s impeachment trial begins: What we know
-Duterte faces charges of mishandling government funds and making threats during rift with President Ferdinand Marcos Jr.
+## From Manchester to Downing Street: What Burnham could mean for Palantir
+A 330 million pound NHS contract - and Palantir's wider role in UK government - hangs on Andy Burnham's next move.
 
-## Who is leading the race for the FIFA World Cup 2026 Golden Boot award?
-Haaland's double against Brazil takes him to seven goals, the same as Mbappe and Messi at the top of the chart.
+## Hamas announces dissolution of Gaza governing body
+A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.
 
-## FIFA World Cup round of 16: Bracket, schedule, Portugal vs Spain prediction
-Round of 16 continues as Portugal-Spain rivalry renews before USA take on Belgium.
+## England boss jokes Trump could help lift defender’s suspension
+England boss jokes Trump could help lift defender’s suspension
 
-## Mexican fans proud despite World Cup exit
-Mexican fans proud despite World Cup exit
+## Baby dies after Israeli troops block emergency journey to hospital
+A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank
 
-## Watch World Cup Day 25: England beats Mexico; Norway eliminates Brazil
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## Refugees killed in landslides at Rohingya camps in Bangladesh
+Refugees killed in landslides at Rohingya camps in Bangladesh
 
-## At least 20 people killed in Sri Lanka prison clashes
-More than 100 people wounded after violence broke out at a prison in Negombo on Sunday and continued on Monday.
+## Large-scale Russian attack on Ukraine before NATO summit
+Large-scale Russian attack on Ukraine before NATO summit
 
-## Impeachment trial of Philippines VP Sara Duterte begins
-Impeachment trial of Philippines VP Sara Duterte begins
+## The World Cup must pay its carbon bill
+Football’s biggest tournament should fund a serious plan to measure, reduce and account for its emissions.
 
-## Moment Israeli soldier hurls stun grenade into Palestinians’ car
-Security camera video appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians.
+## El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?
+UN warns of 'catastrophe' in el-Obeid after RSF atrocities in el-Fasher last year.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
@@ -306,6 +309,12 @@ The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to add
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
 
+## Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report
+India's market regulator is set to nearly double the number of stocks available for short selling, aiming to invigorate the cash market and steer investors from riskier derivatives. Collateral requirements are also slated for reduction. These moves follow past tightening of rules and seek to include
+
+## Falling crude prices give RBI more room to support growth: Standard Chartered
+Falling global crude oil prices are giving the Reserve Bank of India (RBI) and several other Asian central banks greater flexibility to focus on supporting economic growth, as lower energy costs ease inflationary pressures and improve external balances, according to Standard Chartered's Weekly Marke
+
 ## Five years of the Ministry of Cooperation: The next phase of India's cooperative revolution
 Five years after its creation, the Ministry of Cooperation is poised for a new phase focused on knowledge sharing, urban cooperatives, women-led institutions, youth engagement and innovative financing.
 
@@ -323,10 +332,4 @@ The Securities and Exchange Board of India (SEBI) on Friday proposed that foreig
 
 ## RBI backs crypto containment and keeps ban on table, officials tell house panel
 The Reserve Bank of India has strongly advised a prohibition strategy for crypto assets, recommending that banks and financial institutions be completely shielded from them. Officials argued that allowing exposure could legitimize speculative products with no economic benefit and pose financial stab
-
-## Functional & Innovative Foods files DRHP with Sebi for IPO
-Functional & Innovative Foods has filed its DRHP with Sebi for an IPO comprising a fresh issue of 60 lakh shares and an offer for sale of 25 lakh shares. The company plans to use the proceeds for capacity expansion, debt repayment, subsidiary investment, working capital and general corporate purpose
-
-## Indian rupee weakness to persist despite RBI measures to bring in dollars
-Despite the Reserve Bank of India's efforts to attract foreign capital, the Indian rupee is expected to remain weak against the U.S. dollar in the coming months. While recent measures and falling oil prices have offered some support, analysts predict the rupee will trade around current levels. Expec
 
