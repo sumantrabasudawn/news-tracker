@@ -1,52 +1,40 @@
 # AION Intelligence
 
+## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
+Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
+
+## Toronto nude spot emerges as unlikely flashpoint over Canada investment
+Airport expansion crucial to $1tn foreign investment plan threatens the birthplace of country’s gay pride movement
+
+## Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO
+Situational Awareness joins UK investor Baillie Gifford backing the South Korean memory maker’s American debut
+
+## Infantino defends Fifa integrity after Trump intervention over banned player
+Governing body under scrutiny after US president admits asking for review into one-match ban given to Folarin Balogun
+
+## Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch
+The football body was once riven by bribery and corruption claims. Now it faces accusations of interference in the game itself
+
+## The next frontier for defence companies is the deep blue sea
+Countries have a whole host of relatively new vulnerabilities lying on the seabed
+
 ## Germany to borrow €800bn for rearmament in historic shift
 Chancellor Friedrich Merz’s debt-fuelled spending not seen since German reunification
 
 ## The UK could help end Sudan’s civil war
 The British government has leverage and should use it to proscribe a terrorist militia and cut off its supply lines
 
-## The flaws in Trump’s Venezuela strategy
-The US-backed socialist regime has botched its response to the earthquakes
+## Who started it?
+CLSA offers an interesting sell-side take on some recent conflicts
 
-## Burnham must avoid Starmer’s Trump mistake
-Experience shows that voters reward leaders who stand up to the US president
+## EasyJet’s sale could be surprisingly good for its rivals
+Budget airline will comfort its competitors if the destination remains largely the same
 
 ## China steps up oil purchases from Middle East as prices fall
 Move comes as Saudi Arabia cuts pricing on exports to Asia to 6-year low
 
-## Fifa ‘crossed a red line’ by reversing US star striker’s suspension, Uefa says
-Governing body lifted a one-match ban given to Folarin Balogun after a phone call from Donald Trump
-
-## Zelenskyy says ‘battle in the sky’ will decide outcome of war with Russia
-Ukrainian leader says Donald Trump has changed his mind about the conflict
-
-## Top Fed official urges rethink of bank’s reliance on ‘forward guidance’
-Chris Waller sides with Kevin Warsh in call for revamping how rate-setters communicate with investors
-
 ## Judge rules insurers do not need to pay out over Nord Stream pipeline blasts
 Lloyd’s of London and others spared potential €580mn payout as court finds ‘war exclusion’ applies for Russia’s busted pipes
-
-## Defence groups strike $8bn of maritime tech deals
-Lockheed Martin agrees $3.45bn deal for Ultra Maritime while Thales unveils planned purchase of French naval drone maker
-
-## Microsoft axes 4,800 jobs as it resets Xbox
-Gaming unit under pressure from weak margins and the industry’s sharp hardware downturn
-
-## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
-Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
-
-## Maersk to send first cargo through Suez Canal since start of Iran war
-Shares drop 7% as reopening of route means shorter delivery times for customers but potentially lower freight rates
-
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
-UK airline’s board says it is minded to recommend proposal by US private credit group
-
-## How two hedge fund managers helped revolutionise US football
-Fifa red card scandal overshadows turnaround in US men’s football
-
-## Sky agrees £1.6bn ITV deal as UK broadcasters take on streaming rivals
-Acquisition to hand owner Comcast control of group reaching 21mn British households
 
 ## IDFC FIRST Bank launches EPFO-integrated PF payment services for businesses
 The bank said the service will help businesses improve cash flow management and ensure timely statutory compliance
@@ -72,6 +60,9 @@ Microsoft said the layoffs are not AI-driven and will also spin off four game de
 ## BJP govt in Bengal started implementing promises made by party in election manifesto, says Amit Shah
 Shah said the Centre will soon complete the process of granting citizenship to refugee families, under Citizenship Amendment Act (CAA)
 
+## Railway minister Vaishnaw launches new train services: Check routes, extensions and details
+Railway Minister Ashwini Vaishnaw launched new train services and route extensions. These improvements enhance rail connectivity across Maharashtra, Uttar Pradesh, and Uttarakhand. New services connect Nanded to Mumbai and Tanakpur to Nanded. Existing routes were extended, and special services were 
+
 ## Wall Street opens higher as AI stocks rebound; Nasdaq gains 0.8%
 Wall Street opened higher as artificial intelligence stocks rebounded strongly. Markets also assessed a planned mega share sale by SK Hynix. Oil prices edged lower after OPEC+ agreed to increase production. US Treasury yields eased, while European and Asian markets traded lower. Hong Kong's Hang Sen
 
@@ -92,9 +83,6 @@ Taiwan's Unimicron Technology is aiming to raise approximately $1.4 billion thro
 
 ## 'Fresh Paneer' to '100% organic': FSSAI issues notices to multiple brands over misleading food claims
 India's food regulator, FSSAI, has issued notices to several brands, including 'Heritage Fresh Paneer', for misleading claims on their packaging. The authority is cracking down on labels that could deceive consumers, such as 'fresh' paneer or 'vegan' spreads. This move aims to ensure food products a
-
-## Growth, not gloom: Morgan Stanley keeps bullish stance on Indian equities
-India's market dip is likely temporary, with Morgan Stanley predicting a rebound driven by accelerating economic growth. Concerns about long-term prospects, including demographics and AI's impact on services, are seen as overstated. Strong structural advantages and potential positive earnings surpri
 
 ## Shivakumar rejects charge of govt interference in SIR, accuses Oppn of 'indulging in politics'
 Asserting that officials involved in the SIR were working under the guidance of the Election Commission of India, he said, "Let the EC probe the allegations."
@@ -120,6 +108,21 @@ Simultaneous raids were conducted across five districts, including Thane, Ahilya
 ## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
 Police said an argument broke out between the two over a mobile phone chat.
 
+## What’s behind Trump’s ‘US will finish the job’ warning to Iran amid Khamenei’s funeral
+
+
+## Mumbai-Pune Missing Link reopens after 18-hour disruption amid heavy monsoon; advisory issued for travellers
+
+
+## Destiny’s least favourite child, Neymar bows out without a FIFA World Cup
+
+
+## ‘I thought it was AI…’: Balogun’s teammate on World Cup red card overturn
+
+
+## ‘My mom thinks…’: Tejasswi Prakash on live-in relationships; expert weighs in
+
+
 ## ‘Eventual loser will be Team India’: Ashwin on Samson’s omission from ZIM series
 
 
@@ -127,21 +130,6 @@ Police said an argument broke out between the two over a mobile phone chat.
 
 
 ## Amid IMD’s high wind speed warning, BMC issues directives for construction sites in Mumbai
-
-
-## ‘Review periodically’: PM’s advisor bats for cash transfer to women
-
-
-## ‘Organisational committees valid until 2027’: Mamata Banerjee faction to poll body over rebel group’s claim on party
-
-
-## Shivam Dube replaces Nitish Kumar Reddy’s in India squad for England ODIs
-
-
-## 8 places in India where you might spot rare white wild animals
-
-
-## Goa may stop issuing new licences for rental Thars amid rising accidents
 
 
 ## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
@@ -168,6 +156,12 @@ Hong Kong will seek to amend its securities laws later this year and upgrade its
 ## Hong Kong’s roast meat chains expand as recovery in shop markets remains uneven
 Hong Kong’s roast meat restaurant chains are emerging as one of the more active tenants in the city’s street-shop market, expanding in tourist districts even as the broader retail property recovery remains uneven and vacancy rates stay elevated in some areas. The number of siu mei restaurants – eate
 
+## Are U.S.-India Ties Really Thawing?
+As the two sides near a final trade deal, a few sticking points remain.
+
+## Why This Year’s NATO Summit Is Different for Ukraine
+Ukraine’s ambassador to the United States breaks it down in a new interview.
+
 ## Israel Belongs in the New Saudi-Iranian Order
 An anti-Abraham Accords is taking shape. That would be a big mistake.
 
@@ -185,12 +179,6 @@ Natural disasters have accelerated political change elsewhere in the region.
 
 ## Angsty in Ankara
 Can NATO move past a need to keep Trump happy?
-
-## Is Sports Diplomacy Still Possible?
-Hard power has left its mark on this year’s World Cup.
-
-## Russia’s 11-Hour Assault on Kyiv
-The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.
 
 ## Britain’s Farms Run on Central Asian Labor Now
 As Russia squeezes migrants, Central Asians now fill nearly four in five U.K. Seasonal Worker visas.
@@ -264,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news
-Lionel Messi's Argentina go up against Mohamed Salah's Egypt in a spicy World Cup round of 16 encounter.
+## Trump rings in new ‘Trump Account’ investment accounts for children
+US President Donald Trump rang the opening bells of the New York Stock Exchange and Nasdaq to welcome 'Trump Accounts'.
 
-## Lebanon latest: Teacher killed by Israeli airstrike
-Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.
+## Iran reappoints a familiar face to powerful post during Khamenei funeral
+The judiciary chief has emphasised the need to avenge Supreme Leader Ali Khamenei and prosecute foreign 'aggressors'.
 
-## Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16
-Live coverage and text updates of the World Cup last-16 clash between Portugal and Spain in Dallas in the US.
+## Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election
+President Lula accuses Jair Bolsonaro's son, now a presidential hopeful, of helping trigger proposed US tariffs.
 
-## Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye
-In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.
+## Ticket prices continue to fall for USA-Belgium World Cup last 16 clash
+Get-in prices for the round of 16 game at Seattle Stadium fall by 27 percent over the past three days.
 
-## UN discusses prevention of genocide: Six times it failed to do just that
-The UN General Assembly meets amid Israel's genocide on Gaza, Myanmar's genocide against the Rohingya, and other crises.
+## Belgian football body challenges reversal of Balogun’s World Cup suspension
+Trump says he asked FIFA's president to review USA player Balogun's game suspension, but did not tell him what to do.
 
-## US president Trump defends FIFA’s Balogun red card reversal
-US President Donald Trump defended FIFA's decision to overturn Folarin Balogun's red card suspension.
+## What makes this NATO summit high stakes?
+Al Jazeera’s James Bays explains why NATO’s Ankara summit is high stakes.
 
-## Is NATO at breaking point as it meets in Turkiye?
-NATO leaders gather in Ankara to tackle US-Europe tensions, defence gaps and support for Ukraine’s military resilience.
+## Balogun, Garrincha and Pinochet: FIFA’s controversial World Cup decisions
+The Balogun affair has shocked football, but FIFA's showpiece has a long history of fixes, farces and failures.
 
-## Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion
-Smotrich declares a settlement 'revolution' as Israel approves 13 new outposts during big increase in settler violence.
+## Khamenei family mourns, but Mojtaba’s absence fuels public insecurity
+Many Tehran residents say the absence of Iran's new supreme leader makes them question their own security.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
