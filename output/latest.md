@@ -1,73 +1,73 @@
 # AION Intelligence
 
-## ‘Fundamental overhaul’ of UK police leadership needed, says David Blunkett report
-Authors point to systemic causes for concern about consistency, capability and culture in England and Wales
+## FirstFT: Big investors commit billions to private credit despite turmoil
+Also in today’s newsletter: The use of AI in financial services and Turkey’s crackdown
 
-## FirstFT: China releases Christian pastor after Trump raised his case with Xi
-Also in today’s newsletter: Wall Street banks recover in China and Ukrainian drone strikes spur Russian fuel crisis
+## Why OpenAI and Anthropic may struggle to float
+The costs of remaining at the frontier of AI are punishing, but the penalties for falling behind may be even worse
 
-## UK regulator warns of ‘arms race’ to keep up with AI use in financial services
-FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions
+## Cuban farmers rush to sell land as Trump’s fuel blockade hits harvests
+Lack of funds and oil and diesel hamper access to food on communist island as some produce is left to rot in fields
 
-## Ask Gideon Rachman a question — Has the Iran war changed the world order?
-Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator on Tuesday July 7 at 10.30am BST
+## Andy Burnham needs to start by understanding how little he knows
+Even if he could do all he wants, it would be unlikely to solve the UK’s growth problem
 
-## Burnham warned over lack of cabinet as Number 10 transition talks step up
-Prospective Labour prime minister could take office as soon as July 20
+## Baillie Gifford pursues ‘voluntary exits’ under new strategy
+Scheme for UK-based staff comes as firm refocuses on areas such as family offices and financial advisers in US and Asia
 
-## Nato leaders gather for crucial meeting in Ankara
-Plus, nominations open in UK’s leadership contest, Iran buries former leader, Shell gives a trading update
+## UK ministers changed stance on biofuels after officials’ US lobbying tour
+Revelation raises concerns that US commercial pressure could weaken Britain’s efforts to reduce carbon emissions
 
-## Netanyahu government defies Israel’s top court over TV regulation
-Premier’s cabinet raises fears of a constitutional crisis by formally rejecting ruling by Supreme Court
+## Big investors commit billions to private credit despite turmoil
+Institutional investors poured money into funds as retail money fled
 
-## Turkey detains journalists and comic in crackdown before Nato summit
-Popular comedian who called President Recep Tayyip Erdoğan a ‘dictator’ is among those arrested
+## Toronto nude spot emerges as unlikely flashpoint over Canada investment
+Airport expansion key to $1tn foreign investment plan threatens the birthplace of Canada’s gay pride movement
 
-## Fifa reverses suspension of star US striker after call from Trump
-Belgium cries foul after governing body clears Folarin Balogun to play World Cup match
+## How modern drone warfare is forcing arms producers to rethink
+UK start-up Isembard is linking hundreds of small machine shops into a decentralised military manufacturing network
 
-## EasyJet reaches outline agreement on £5.5bn takeover by Castlelake
-UK airline’s board says it is minded to recommend proposal by US private credit group
+## Son remakes SoftBank in his own image
+The veteran investor has put himself at the centre of the global AI boom. Some think he now has too much control
 
-## ‘Heat dome’ and storms over eastern US send power prices soaring
-Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
+## Sensex today | Stock Market Live Updates: Sensex, Nifty open higher as HDFC Bank, Axis Bank rally; lower crude aids sentiment
+Sensex, Nifty, Share Prices Live Updates: Sensex climbs 420 points after opening at 77,940.90 against the previous close of 77,763.91. The Nifty 50 gained 101.25 points, or 0.42 per cent, to 24,372.10 after opening at 24,306.85.
 
-## Data centres are a crucial test of US industrial resolve
-America must not repeat the mistakes that handed China rare-earth dominance
+## MCX natural gas futures: Range-bound and unclear. Stay out
+A breakout on either side of ₹295-₹320 will determine the next leg of move
 
-## Lululemon’s latest struggle: slowing sales in key China market
-Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
+## Aastha Spintex debuts below IPO price, remains under offer level
+Aastha Spintex’s muted listing does not overshadow the company’s strong financial turnaround, an analyst said
 
-## French push to exclude UK from EU defence spending backfires
-Paris loses out on cheap loans due to strict eligibility criteria it had championed
+## Gold eases from two-week high as firmer US dollar weighs
+JP Morgan sees gold averaging $4,300/oz in Q3 2026
 
-## How Bending Spoons built a $23bn tech empire from struggling brands
-Nasdaq listing caps more than a decade of deals that transformed an Italian start-up into a global internet company
+## Laser Power & Infra sets IPO price band at ₹203-214/share; issue opens July 9
+The IPO comprises a fresh issue of equity shares worth ₹542 crore and an Offer for Sale (OFS) of shares aggregating ₹200 crore by promoters
 
-## How India can cut dependency on global AI platforms
-A meaningful AI strategy could require ten years of massive investment
+## Auto industry retail sales rise 22% at 25,57,234 units in June
+While passenger vehicle sales grew 29% year-on-year at 4,10,853 units, two-wheeler sales were at 18,28,458 units, up 21% on year
 
-## How SpaceFields is fuelling Indian rocketry’s liftoff
-Startup SpaceFields picks a least crowded, and strategic corner of the space sector: solid propulsion systems
+## Ather Energy said to be planning $200 million share sale
+The fundraising would provide additional capital to expand manufacturing capacity, scale the company’s retail network and invest in new products
 
-## Technology and talent transformation at TAFE
-Mother-daughter duo Mallika Srinivasan and Lakshmi Venu champion electrification and smart farm mechanisation as they sow the seeds of global growth for the tractor giant
+## IMD warns of heavy rain in Mumbai, issues ‘red’ alert
+MeT office upgrades warning from ‘orange’ to ‘red’ alert in morning after observing changes in weather conditions
 
-## Cars24 flattens out
-Automotive startup Cars24 eliminates job titles across organisation
+## Rupee slips 10 paise as stronger dollar and geopolitical jitters outweigh positive cues
+The Indian rupee weakened against the US dollar, opening the week down 10 paise at 95.28 due to a stronger dollar globally and geopolitical uncertainties. Despite favorable global cues like falling oil prices, the rupee failed to gain, indicating underlying market fragility. Meanwhile, Indian stock 
 
-## Corporate trust in AI declines
-From the initial gung-ho optimism over AI, there is now a visible pullback as businesses scrutinise the investments
-
-## Solar self-reliance may cost India ₹30,000 cr this year
+## Stock market today: BSE Sensex jumps 300 points, NSE Nifty50 opens above 24,350
 
 
-## Telecom preview: Poised for steady Q1 revenue and ARPU growth on subscriber gains and premiumisation push
-Telecom firms in India are set for steady Q1 growth, driven by subscriber gains and premiumisation strategies, boosting ARPU.
+## Bank holiday today: Where are banks shut on July 6? Check state-wise list
+Plan your bank visits carefully as several branches will be closed on specific dates this July due to regional holidays. West Bengal and Mizoram observe closures today, July 6. Further state-specific holidays are scheduled across Meghalaya, Odisha, Uttarakhand, Manipur, Sikkim, and Tripura. Remember
 
-## Rise in dollar inflows may put additional pressure on Gold prices
-Strong NRI interest in FCNR(B) deposits could bolster the rupee and keep domestic gold prices under check, say analysts
+## Precious metals rate today: Gold holds near 2-week high; silver extends gains
+
+
+## Oil price today: Crude slips after OPEC+ announces raising output targets from August
+
 
 ## China's Z.ai a challenger to OpenAI and Anthropic
 A Chinese AI startup, Z.ai, is making waves with its new model, GLM-5.2, offering advanced coding and AI agent features at a lower cost than US rivals like OpenAI and Anthropic. This development is attracting developers and sparking discussions about China's growing AI competitiveness, especially as
@@ -78,68 +78,59 @@ India faces renewed trade uncertainty as the US Trade Representative moves forwa
 ## CaratLane may go to West Asia Damas way
 Titan's online jewellery arm, CaratLane, is eyeing a West Asian debut through its recent acquisition, Damas Jewellery. While recent regional conflicts have temporarily halted expansion plans, CaratLane sees Damas' extensive store network as a strategic entry point. This move could see CaratLane coun
 
-## For urban buyers, Saturdays, Sundays witness 2/3rd of weekly spend
-Urban Indians significantly boost their spending on Saturdays and Sundays, with a 1.6 times higher expenditure compared to weekdays. Fashion, entertainment, electronics, and dining see a marked increase as people enjoy leisure time. This trend is particularly strong in major metros and among higher-
+## Mumbai issues work from home advisory for private offices, half-day for govt employees amid heavy rains
+Mumbai issues work from home advisory for private offices, half-day for govt employees amid heavy rains
 
-## Dalal Street to track oil, earnings, global trends
-Indian stock markets are poised for a week driven by crude oil prices, global cues, and the commencement of the corporate earnings season, with TCS set to announce its June-quarter results. Investors will also be watching the monsoon's progress and foreign investor activity. Key economic data from t
+## Woman, daughter wounded; 3 houses set afire in ethnic violence-hit Manipur
+Kuki-Inpi Manipur, a civil body, condemned the attack as barbaric and cowardly and blamed Naga insurgent groups
 
-## 'Rise in early exits from life policies points to misselling'
-Life insurance policyholders are increasingly cashing out early, with surrenders now surpassing maturity payouts, according to the RBI's Financial Stability Report. This trend, particularly driven by private insurers, signals potential policyholder dissatisfaction and mis-selling concerns. Soaring d
+## Mumbai braces for another day of heavy rain; exams cancelled, schools shut
+Central Railway said passengers should expect delays, plan their journey accordingly, and allow additional travel time
 
-## FMCG Q1 demand stable; companies flag El Nino risk
-Household goods demand held steady in Q1 despite price hikes, as companies navigated inflation. However, concerns linger over El Nino's potential impact on monsoon rains and rural consumption. While price increases helped offset rising costs, the sector faces a potential challenge from weather volat
+## Mercedes car hits scooter travelling on ‘wrong side’ in Gurugram, 1 killed
+The occupants of the car escaped unhurt. The impact extensively damaged the car’s front and completely crumpled the scooter, officers added.
 
-## 15 India-bound ships carrying urea, DAP and sulphur cross Hormuz: Govt
-Despite Middle East conflict disruptions, India's fertilizer supply remains robust. Most shipments successfully navigated the Strait of Hormuz, while domestic production surpassed targets. Proactive planning, diplomatic outreach for new sources, and full restoration of natural gas to plants ensured 
+## AAP’s Sanjay Singh accuses VHP chief of shielding Ram Mandir donation theft accused
+In a fiery address, AAP MP Sanjay Singh accused VHP's Alok Kumar of obscuring key figures connected to alleged financial irregularities in Ram Mandir donations.
 
-## Mumbai schools, colleges to remain shut on Monday as IMD issues ‘orange alert’
-Government and private offices will function as usual, the release said while urging citizens to step out of their homes only if necessary.
+## Man kills wife with help of girlfriend, then flees to Nepal; arrested upon return
+Investigators said the husband spent a substantial amount on a hair transplant in Rishikesh and got both ears pierced to alter his appearance.
 
-## Champat Rai's fate, SIT probe on agenda as Ram Mandir Trust to hold key meet on Monday amid donation row
-Resignation of Anil Mishra and Champat Rai are likely to be disccused at the meeting, with a briefing on interim findings of the SIT probe.
+## Mumbai local train status today: Check latest schedule amid heavy rains, IMD's orange alert
+Mumbai and nearby areas have been receiving very heavy rainfall over the past few days, causing waterlogging and several treefalls.
 
-## Mumbai weather tomorrow: IMD forecasts heavy rain; Thane, Palghar also on alert
-Mumbai rains update: The IMD is indicating a high probability of intense downpours through the day in Maharashtra capital
+## Extrajudicial killings, secret burials and Punjab's laapataa: The true story behind Diljit Dosanjh's Satluj
+Satluj features Diljit Dosanjh as Jaswant Singh Khalra, who investigated the alleged secret cremation of thousands during Punjab's militancy years.
 
-## Congress attacks VHP, says it is ‘emotionally misleading Hindus’ in Ram Temple donation theft row
-Congress leader Pawan Khera said new allegations are surfacing every day regarding the "theft" of donations at the Ram temple in Ayodhya.
-
-## Mumbai man strangles neighbour to death, steals gold chain after share market losses
-Preliminary investigation indicated that the woman had been strangled to death, following which a case of murder was registered.
-
-## Tamil Nadu CM Vijay to return to Karur on July 10, first visit since stampede that killed at least 40
-TVK leader M R Vijayabaskar said preparations are underway for CM Vijay's Karur visit would also include a 'Makkal Sandhippu' (public outreach) event.
-
-## Abhishek Banerjee faces third complaint over Sebaashray health camps
-The Diamond Harbour police lodged a second FIR on July 3 based on a similar complaint by Sukdeb Das, a local resident
-
-## Delhi set to see rain from July 6 to 11; IMD warns of heavy showers as monsoon finally takes effect
-The weather department said rainfall activity will intensify from July 7, with wet conditions expected to persist until at least July 11.
-
-## PM’s Indonesia visit could lay foundations of nickel diplomacy
+## Imran Khan on Andrew Tate: Actor says influencers prey on vulnerable boys seeking male role models
 
 
-## Behind Agniveer retention move: More experienced manpower, training on new platforms
+## Allies seek to expand their footprint, BJP chief tells them not to make claim on specific seats
 
 
-## In climate fight, panchayat must partner in planning
+## Diljit Dosanjh’s Satluj pulled from ZEE5 India after two days: What we know
 
 
-## West Asia crisis has made India more energy secure
+## ‘Trump’s murder is our responsibility’: At Khamenei’s funeral, calls for vengeance
 
 
-## Sam Pitroda writes: In AI Age, America will need to lead with renewed generosity
+## Pilot crash-lands on Manali highway after losing control, video emerges
 
 
-## Rice-to-ethanol policy is deepening economic and environmental stress
+## Government launches new DTC bus route: See which areas it will connect
 
 
-## The Cockroach Janata Party is my generation’s attempt to reclaim the promise the Republic made to everyone
+## ‘Our Kyrgyzstan e-Visa was returned’: The mistake most Indians make
 
 
-## From the Iran conflict, four geopolitical shifts India cannot afford to miss
+## Aamir Khan wears anklets with dhoti, seen barefoot after wedding with Gauri Spratt. Watch
 
+
+## Hong Kong’s roast meat chains expand as recovery in shop markets remains uneven
+Hong Kong’s roast meat restaurant chains are emerging as one of the more active tenants in the city’s street-shop market, expanding in tourist districts even as the broader retail property recovery remains uneven and vacancy rates stay elevated in some areas. The number of siu mei restaurants – eate
+
+## Hong Kong pension fund to ease rules and increase gold ETFs, source says
+Hong Kong’s pension fund will soon be able to invest in more gold exchange-traded funds (ETFs) as part of the government’s push to turn the city into a trading hub for the yellow metal, a source with knowledge of the matter told the South China Morning Post. The Mandatory Provident Fund Schemes Auth
 
 ## As tech rallies and consumer shares lag, China’s stock market forms microcosm for economy
 The unevenness of China’s economy is now well reflected in its US$16 trillion stock market, as technology companies ride a bull run but consumer stocks fall behind. Artificial intelligence chipmakers, from Cambricon Technologies to Moore Threads Technology, have led a roughly 50 per cent gain in the
@@ -159,11 +150,8 @@ The global financial sector is engaged in two simultaneous and critical races as
 ## Why has China lowered its own ranking in global financial competitiveness?
 A Beijing-based governmental think tank has taken the rare step of lowering China’s global financial competitiveness ranking by one place, despite top leaders of the world’s second-largest economy vowing to build it into a financial superpower. China ranks fifth globally in financial competitiveness
 
-## Why Hong Kong’s major developers stayed out of Northern Metropolis’ first pilot tender
-Hong Kong’s first Northern Metropolis pilot tender drew only two confirmed bidders on Friday, underscoring the challenge facing the government’s effort to enlist private developers in delivering not only homes but also its broader technology and industrial ambitions. Henderson Land Development submi
-
-## After hooking China on coffee, Starbucks ramps up consumer strategy
-When Anne walked into a Starbucks branch in Seattle more than a decade ago, she knew exactly what to expect: a latte, a comfortable chair and a place to work. Now, after living in the technology hub of Hangzhou, the capital of the eastern province of Zhejiang, and working as an English teacher for t
+## Jimmy Carter Knew What Ails America
+One of history’s most misunderstood speeches is also one of its most important.
 
 ## Venezuela’s Bungled Earthquake Response
 Natural disasters have accelerated political change elsewhere in the region.
@@ -185,9 +173,6 @@ From a slave economy to a global empire in 250 years.
 
 ## America, the Once Global Nation
 At 250, the country is struggling to come to terms with the world it created.
-
-## The MOU Is Paying Off Early for Iran
-Washington and Tehran are grappling over a “memorandum of misunderstanding.”
 
 ## The Prabowo Administration’s Hostility to Expertise is Degrading Indonesian Governance
 The government needs to involve more academic institutions, think-tanks, and technical bodies in policymaking.
@@ -261,29 +246,41 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match
-Belgium's football federation is 'investigating all potential options' to safeguard football after FIFA's U-turn.
+## Haaland inspired Norway stun Brazil in historic World Cup knockout win
+Norway fans celebrate with viking rows from outside the stadium in New Jersey to Oslo as the team stuns Brazil.
 
-## Iran war live: Tehran prepares for Ali Khamenei’s funeral procession
-Millions expected at funeral procession for Iran's slain supreme leader in Tehran today.
+## Haaland rewrites history by carrying Norway into World Cup quarterfinals
+Haaland has emerged from the shadows of Messi, Mbappe and Ronaldo to rewrite World Cup history for Norway.
 
-## Venezuelan leader marks Independence Day with message of ‘no social unrest’
-Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.
+## Which teams are in the World Cup quarterfinals, and what’s the schedule?
+The FIFA World Cup 2026 quarterfinals lineup as it builds, with match kickoff times and locations.
 
-## How a son rescued his father from the rubble of Venezuela’s earthquakes
-After the June 24 earthquakes, ex-firefighter Jesus Garcia found himself working to save his dad and younger brothers.
+## Bellingham inspires 10-man England to beat Mexico 3-2 in last-16 thriller
+England hands Mexico their first World Cup loss at Estadio Azteca, winning 3-2 to reach the 2026 quarterfinals.
 
-## Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16
-Haaland's brace takes him to seven goals for the tournament as Norway book a quarterfinal against Mexico or England.
+## OPEC+ countries say they will expand monthly oil production
+Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.
 
-## Palestinian baby dies in West Bank after Israel blocks urgent medical care
-Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.
+## Sports stadium becomes home for victims of the Venezuela earthquakes
+A sports stadium in La Guaira state has been turned into a makeshift home and logistics centre for thousands of victims.
 
-## Turkiye gears up for its first NATO summit in 22 years
-Leaders of the NATO member states are expected in Turkiye by July 7 for a summit - the first it will host in 22 years.
+## Ronaldo’s last World Cup? We will see, says Portugal star before Spain clash
+'I will finish when I choose,' Ronaldo reveals amid speculation about his World Cup future ahead of the last-16 match.
 
-## Albanian court frees protesters who rallied against Kushner-linked resort
-The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests
+## How conflict minerals fuel war in eastern DR Congo amid US sanctions
+The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.
+
+## India-UK CETA: CFOs anticipate export boom, expanding capacities ahead of July 15, 2026 implementation
+Indian companies are gearing up for a promising boost in exports to the UK as a new trade deal looms on the horizon. CFOs are ramping up production capabilities to cater to anticipated demand, especially in sectors like textiles and auto parts, which are set to benefit from zero-duty access.
+
+## FPIs double down on Indian debt, keep equity bets on hold
+Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a recent rupee recovery, concerns remain a
+
+## Income tax department slaps notices on foreign investors with no earnings
+Foreign investors are receiving unexpected tax notices in India, even for transactions where no profit or dividend was earned. The tax department is initiating reassessment proceedings, questioning the absence of income tax returns for share purchases. Experts highlight that such notices, potentiall
+
+## Fall in global crude prices brightens fiscal outlook, El Nino risks linger
+Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agr
 
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
@@ -297,17 +294,11 @@ Finance chiefs say the indirect tax reform has transformed business over the pas
 ## India’s top 10 States by GST collections in FY26 — and who lagged behind
 India's GST collections for FY2025-26 reached ₹22.27 lakh crore, a slight 0.8% rise, driven by an 11.7% surge in import-related taxes. Domestic collections saw a 2.6% dip. Maharashtra led state contributions with over ₹3.61 lakh crore. The composition of GST revenue shifted, with IGST, SGST, and CGS
 
-## ICICI Prudential Life plans 10-15% premium growth, bets on protection to outpace savings, CFO Dhiren Salian says
-ICICI Prudential Life Insurance aims for 10-15% premium growth, with protection products like term and annuity plans leading the charge. CFO Dhiren Salian highlighted that protection, currently 17% of premiums, is a key focus due to its underpenetration and higher profitability. The company is also 
+## Five years of the Ministry of Cooperation: The next phase of India's cooperative revolution
+Five years after its creation, the Ministry of Cooperation is poised for a new phase focused on knowledge sharing, urban cooperatives, women-led institutions, youth engagement and innovative financing.
 
-## Exclusive: MCA set to notify SA 600, 40 revised audit standards by August
-The notification will conclude one of the most significant regulatory exercises in India's audit landscape in recent years, aimed at strengthening audit quality and updating the country's auditing framework in line with evolving international standards.
-
-## HDFC Bank appoints Puneet Sharma as CFO
-HDFC Bank has appointed Puneet Sharma as its new Chief Financial Officer, effective December 1, 2026, bringing over 26 years of financial expertise from Axis Bank. Jigar Shah will join as General Counsel from October 1, 2026. Additionally, former Finance Secretary Rajiv Kumar is set to become the ba
-
-## Portal glitches put thousands of GST appeals at risk; experts seek deadline extension
-Tax professionals, industry bodies and bar association urge Finance Ministry to defer June 30 cut-off, citing technical issues on GSTAT portal and nearly nine years of pending litigation.
+## India, Australia set to seal uranium supply pact during PM Modi’s visit
+Discussions will also cover critical minerals, cybersecurity, and clean energy. This follows a decade-old framework and aims to deepen economic ties, building on the landmark ECTA trade agreement which has already boosted bilateral trade to $54.4 billion.
 
 ## China's warning reveals what really happened at Modi-Takaichi summit
 India and Japan's recent summit in Delhi has sparked concern in Beijing. Agreements on defense, critical minerals, and AI signal a strategic shift, prompting China to caution against "exclusive small groupings." The summit's focus on economic security, diversified supply chains, and defense co-devel
@@ -326,10 +317,4 @@ Functional & Innovative Foods has filed its DRHP with Sebi for an IPO comprising
 
 ## Indian rupee weakness to persist despite RBI measures to bring in dollars
 Despite the Reserve Bank of India's efforts to attract foreign capital, the Indian rupee is expected to remain weak against the U.S. dollar in the coming months. While recent measures and falling oil prices have offered some support, analysts predict the rupee will trade around current levels. Expec
-
-## RBI warns unwinding of leveraged hedge fund positions during stress could roil bond markets
-The Reserve Bank of India has issued a stark warning regarding the increasing influence of large, leveraged hedge funds in global sovereign bond markets. Their rapid exit during market turmoil could trigger significant sell-offs and widespread financial instability. This concern is amplified by risi
-
-## India plans to add strategic fuel reserves after Iran war shock
-This ambitious move follows a review of existing, limited stockpiles and includes expanding underground crude storage and addressing the challenges of storing gas.
 
