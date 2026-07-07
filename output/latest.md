@@ -1,13 +1,25 @@
 # AION Intelligence
 
+## A quick guide to Nigel Farage’s gamble
+Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
+
+## US launches new wave of Iran strikes after attacks on tankers
+Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher
+
+## Farage by-election gambit undercut by rivals’ refusal to participate
+Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+
+## Rachel Reeves calls for rival international defence schemes to merge
+UK chancellor says competing funding bodies should be brought together
+
+## FirstFT: US strikes Iran in response to attacks on tankers
+Also in today’s newsletter: France’s Le Pen announces run for president, and Samsung shares tumble despite record quarterly profit
+
 ## Le Pen is posing as the victim of a politicised judiciary
 The strategy might play well with the far-right leader’s core voters, but the French as a whole don’t buy it
 
 ## French far-right leader Marine Le Pen says she will run for president
 Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
-
-## US strikes Iran in response to attacks on tankers
-Move comes after US Treasury revoked a general licence allowing sales of Islamic republic’s oil in escalation of tensions
 
 ## ‘Nigel can fix it’ — what Clacton voters think of Farage’s gambit
 Many people in the seaside town, whether supporters of the rightwing populist or not, are pleased with move by Reform UK leader
@@ -15,32 +27,17 @@ Many people in the seaside town, whether supporters of the rightwing populist or
 ## US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz
 Qatari and Saudi ships among targets near Oman coast
 
-## IMF names Silvana Tenreyro as its next chief economist
-Former Bank of England policymaker will be second woman to take on the role
-
-## A quick guide to Nigel Farage’s gamble
-Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
-
-## Tories and Labour try to call Nigel Farage’s bluff
-Mainstream parties denounce Reform UK leader’s by-election ‘gimmick’ and decide not to stand against him
-
 ## Software stocks got crushed. Did they have it coming?
 The market may be overreacting to AI risks faced by software companies
 
 ## How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
 Judgment marks potentially fatal setback in self-declared crusade to hold British tabloid press accountable
 
-## Rachel Reeves calls for rival international defence schemes to merge
-UK chancellor says competing funding bodies should be brought together
-
 ## Meta releases first image model since Zuckerberg’s AI overhaul
 Muse Spark Image will be integrated into tech giant’s AI chatbot and its Instagram photo app
 
 ## Aberdeen-backed internet provider seeks buyer after steep losses
 Airband initiates process to find new owner in move that puts £200mn of investors’ money at risk
-
-## Saudi Arabia blocking payments to UAE accounts, businesses say
-Transfers from kingdom to companies and individuals in Dubai repeatedly returned or delayed in a sign of economic tension
 
 ## Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction
 Airport sources said the takeoff was aborted because an arriving Air India Express Boeing 737 had not yet vacated the runway
@@ -67,7 +64,7 @@ The deal makes Inspira the new promoter of the company, which operates Burger Ki
 The stock opened at ₹3,080, hit a low of ₹2,920, and saw heavy selling pressure with sell orders outpacing buy orders by roughly 72:28
 
 ## US revokes Iran oil waiver amid attacks on British tankers in Strait of Hormuz
-
+The United States revoked an Iran oil sanctions waiver after recent tanker attacks. Three tankers were struck by projectiles in the Strait of Hormuz. One vessel caught fire off the coast of Oman following the incident. The Iranian foreign ministry condemned the US move as a breach of commitment. The
 
 ## Getty Images calls off Shutterstock merger after UK regulator's divestment demand
 Getty Image has ended its planned $3.7 billion merger with Shutterstock. The UK competition regulator required Shutterstock to sell its editorial business. Getty's board decided this condition was not in the company's best interests. The companies had unveiled the deal in January 2025 to build a vis
@@ -114,28 +111,28 @@ The ministry of information and broadcasting (MIB) issued a takedown order to Ze
 ## 'Every time I hear Indian music, I find my body moving': Indonesian President during PM Modi's visit
 Indonesian President Prabowo Subianto revealed that he has “Indian DNA” while addressing a gathering during Prime Minister Modi's state visit
 
-## No let-up in rain in Surat, Navsari; hundreds displaced, 3 more dead
+## Audit performance of disciplinary mechanism for lawyers: Supreme Court to Bar Council of India
 
 
-## Several Gujarat district on alert for flash floods
+## Delhi Confidential: Global Capital
 
 
-## Surat man murders father with kitchen knife; arrested
+## PMO takes stock of El Nino impact, monitoring level & preparedness
 
 
-## Afzal Pathan, the modernist painter from Madhya Pradesh whom India forgot
+## Four beneficiary states sign pact on Narmada outstanding dues
 
 
-## ‘Can’t assume dual role of investigator, punisher’: Court pulls up CBI over custodial torture claims
+## ‘1.4 billion aspirations in motion’: PM Narendra Modi sums up India’s growth in Jakarta
 
 
-## School bus sinks as road caves in, traffic crawls: Gurgaon halts due to heavy rain
+## FIFA World Cup: Switzerland beat Colombia in dramatic penalty shootout
 
 
-## How doctor’s ‘servant’, small plot owner are linked to Rs 700-crore medical fraud
+## Hang him with others, if he is involved: Mother of accused in Bengal rape-murder case
 
 
-## Security guard killed, another feared trapped in landslide at Khandala
+## 5 hours 15 mins! Djokovic beats Auger-Aliassime in longest Wimbledon quarterfinal
 
 
 ## How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge
@@ -162,6 +159,9 @@ Hong Kong’s office property market is likely to see its empty spaces plateau a
 ## Hong Kong drops to 4th costliest city for wealthy amid change in luxury spending
 Hong Kong now ranks lower among the costliest cities for rich people “living well”, with Singapore the most expensive for a fourth consecutive year, according to Swiss private bank Julius Baer. This year’s “Global Wealth and Lifestyle Report”, released by the bank on Tuesday, assessed the costs of l
 
+## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
+France remains committed to bolstering cooperation with Syria.
+
 ## The Myth of Chinese Birth Tourism
 The United States has recast a small industry as a national security threat.
 
@@ -182,9 +182,6 @@ In the ongoing battle of narratives, Kyiv’s supporters have every reason to ho
 
 ## Iran Is Still Fighting a War Against Dissidents Abroad
 Iranians in Europe say governments aren’t taking threats from Tehran seriously.
-
-## Europe Is Struggling to Lead NATO
-Germany and France are at the center of a clash over the alliance’s future.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -258,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian missile strikes hit Ukraine’s capital Kyiv for third time in a week
+The attack has triggered fires in two districts of Kyiv according to the city's mayor.
+
+## Egypt buoyed by praise for World Cup heroics despite controversial exit
+From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.
+
+## Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says
+'Perhaps they wanted to keep the world champions in the competition,' Hassan said after his team was knocked out.
+
 ## US says strikes launched as explosions heard in southern Iran
 US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.
 
@@ -272,15 +278,6 @@ Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira
 
 ## Prolonged hospitalisation of US Republican Mitch McConnell raises questions
 The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.
-
-## Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings
-Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.
-
-## Trump lashes out at NATO as first day of summit wraps in Turkiye
-Leaders have gathered in Ankara for a two-day summit slated to cover defence spending and the Russia-Ukraine war.
-
-## Deadly landslide buries tunnel construction site in India
-At least five people were killed after a massive landslide buried a tunnel construction site in Kerala
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
