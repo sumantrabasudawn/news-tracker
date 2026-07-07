@@ -1,49 +1,55 @@
 # AION Intelligence
 
-## Farage by-election gambit undercut by rivals’ refusal to participate
-Kemi Badenoch said Conservatives would not field candidate in ‘fake’ vote that comes amid growing scrutiny of Reform UK leader
+## US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz
+Qatari and Saudi ships among targets near Oman coast
 
-## Saudi Arabia blocking payments to UAE accounts, businesses say
-Transfers from kingdom to companies and individuals in Dubai repeatedly returned or delayed in a sign of economic tension
-
-## Nigel Farage tries to ‘take back control’
-Why the Reform party leader is quitting as an MP
+## IMF names Silvana Tenreyro as its next chief economist
+Former Bank of England policymaker will be second woman to take on the role
 
 ## A quick guide to Nigel Farage’s gamble
 Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
 
-## High-spending online gamblers will face financial checks in UK
-People with net deposits of more than £1,000 a day will be assessed by companies for risk of vulnerability
-
 ## Tories and Labour try to call Nigel Farage’s bluff
 Mainstream parties denounce Reform UK leader’s by-election ‘gimmick’ and decide not to stand against him
 
-## Trump threatens to remove all US troops from Europe
-US president revives calls for his country to take over Greenland
+## French far-right leader Marine Le Pen says she will run for president
+Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
 
-## Nigel Farage quits as MP to force by-election
-Tories and Labour refuse to participate in contest as Reform UK leader denies wrongdoing over donations
+## Farage by-election gambit undercut by rivals’ refusal to participate
+Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+
+## How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
+Judgment marks potentially fatal setback in self-declared crusade to hold British tabloid press accountable
+
+## How far can a ‘Messi strategy’ get Argentina?
+A team shaped around the 39-year-old relies on controlled possession
+
+## Rachel Reeves calls for rival international defence schemes to merge
+UK chancellor says competing funding bodies should be brought together
+
+## Meta releases first image model since Zuckerberg’s AI overhaul
+Muse Spark Image will be integrated into tech giant’s AI chatbot and its Instagram photo app
+
+## Aberdeen-backed internet provider seeks buyer after steep losses
+Airband initiates process to find new owner in move that puts £200mn of investors’ money at risk
+
+## Saudi Arabia blocking payments to UAE accounts, businesses say
+Transfers from kingdom to companies and individuals in Dubai repeatedly returned or delayed in a sign of economic tension
+
+## High-spending online gamblers will face financial checks in UK
+People with net deposits of more than £1,000 a day will be assessed by companies for risk of vulnerability
 
 ## How AI is changing the world of retail investment
 Excessive regulation could hamper innovation and harm savers
 
-## Disney accuses US media regulator of trying ‘to sit in the editor’s chair’
-Media giant claims FCC investigation into talk show ‘The View’ could violate First Amendment of American constitution
+## Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction
+Airport sources said the takeoff was aborted because an arriving Air India Express Boeing 737 had not yet vacated the runway
 
-## Hertz gets a helping hand from an unlikely source: short sellers
-Convertible bonds should keep the rental car company out of immediate trouble
+## Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt
+A high-level review assessed the likely impact of El Nino on the kharif season and other sectors
 
-## Airbus to make first foray into engine manufacturing with hydrogen tie-up
-European aircraft maker to form joint venture with Germany’s MTU Aero Engines to take on China and US rivals
-
-## Top banking watchdogs issue stark warning over AI-driven cyber attacks
-IT weaknesses could be exploited by frontier models in a ‘matter of minutes’, say ECB and ESRB
-
-## Bank of England plans to ease capital rule for UK lenders
-Officials say move intended to boost lending and support financial markets in a crisis
-
-## Terry Smith accuses Unilever of misleading him over $66bn food deal
-Veteran fund manager says management told him before the spin-off there would not be any more major asset sales
+## Lionel Messi leads Argentina’s stunning 3-2 comeback over Egypt to reach World Cup quarter-finals
+The defending champions advanced to the quarter-finals, where they will face either Switzerland or Colombia
 
 ## Airlines seek GST on ATF at 5% with full tax credit to help cut costs
 
@@ -60,14 +66,11 @@ The deal makes Inspira the new promoter of the company, which operates Burger Ki
 ## Trent shares crash 12.4% at close as Q1 update disappoints analysts
 The stock opened at ₹3,080, hit a low of ₹2,920, and saw heavy selling pressure with sell orders outpacing buy orders by roughly 72:28
 
-## Rupee logs biggest single-day gain in over 3-weeks; closes below 95-mark
-The Indian unit closed 44 paise stronger at 94.96 per US dollar
+## US revokes Iran oil waiver amid attacks on British tankers in Strait of Hormuz
 
-## RBI lending curbs dent proprietary trading, drag derivatives turnover lower
-Average daily derivatives turnover on the NSE and BSE down 25% and 30%, respectively, over the last four trading sessions
 
-## Modi, Prabowo push deeper cooperation on critical minerals and rare earths
-The two countries also signed nearly a dozen agreements covering critical minerals, technology, food security, medicines and maritime security during Modi’s visit to Jakarta
+## Getty Images calls off Shutterstock merger after UK regulator's divestment demand
+Getty Image has ended its planned $3.7 billion merger with Shutterstock. The UK competition regulator required Shutterstock to sell its editorial business. Getty's board decided this condition was not in the company's best interests. The companies had unveiled the deal in January 2025 to build a vis
 
 ## India strengthens position as investment destination; FDI rises by 44% to $39 billion in 2025
 South Asia witnessed a sharp rise in FDI inflows, which climbed from $34 billion to $46 billion, largely driven by India, where inflows expanded to $39 billion, the report noted. At the same time, UNCTAD observed that project-related indicators suggested a more cautious investment environment despit
@@ -87,11 +90,8 @@ India has launched the National Critical Mineral Mission (NCMM) in January 2025 
 ## India's economy passed the Iran war test. Could El Nino spoil the party?
 Economists say that the world’s fastest growing economy may even end up clocking a 7% GDP growth number this year. But, domestically a poor monsoon caused by El Nino is painting a grim picture for inflation. Is the worst really over for the Indian economy?
 
-## China weighs curbs on overseas access to their advanced AI models: Report
-Chinese officials are discussing restricting overseas access to advanced artificial intelligence models. These talks involve major technology firms like Alibaba and ByteDance. The government views cutting-edge AI as a strategic national asset amid global competition. Discussions also covered strengt
-
-## The biggest hurdle in India's chip race isn't the plan—it's execution
-India's semiconductor strategy draws on proven Asian models for growth. Execution, not strategy, presents the nation's primary challenge now. Developing skilled workers and strengthening local supply chains are crucial steps. The country focuses on outsourced assembly and mature process nodes. Meeti
+## Ram Temple donation row: SIT puts Anil Mishra under lens, says he knew frisking norms weren’t enforced
+SIT attributed supervisory accountability to Dr Mishra, saying his failure to ensure enforcement of the SOP created conditions that enabled misappropriation
 
 ## 'Automobile manufacturers say no difficulty with E20 fuel': Hardeep Puri
 Petroleum minister Hardeep Puri said the government was not rushing the decision on E25, adding that tests on the blended fuel were underway.
@@ -114,31 +114,28 @@ Indonesian President Prabowo Subianto revealed that he has “Indian DNA” whil
 ## ‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
 ‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
 
-## Natural History Museum in Aizawl notified as India’s 21st ‘designated repository’
-Designated repositories are mandated to keep in safe custody the biological material including voucher specimens deposited with them
-
-## After Folarin Balogun fracas, how Belgium did their talking on the pitch vs USA
+## Ridge set to be revived in 4 years, says Amit Shah,, launches campaign to plant 70 lakh trees in Delhi
 
 
-## Messi, Argentina pull off heist, defeat Egypt 3-2 to qualify for quarterfinal
+## Dissident camp maintains distance as Bhupesh Baghel holds meetings at Punjab Congress HQs
 
 
-## Woman stabbed multiple times inside Goa hospital
+## ‘Appropriate; fair; just’: Families of those killed & injured in 2008 serial blasts on Gujarat High Court verdict
 
 
-## Isha Ambani, Cardi B add front row glam to Rahul Mishra’s show at Paris Haute Couture Week 2026
+## ‘Crimes against women should unite society, not divide it’: Students, football fans sound clarion call over Baruipur case
 
 
-## Obituary: Shapoor Zadran had you at hello
+## Lawrence Bishnoi gang charged in Hardeep Singh Nijjar murder: US indictment
 
 
-## Bobby Deol, Rakul Preet Singh join Boney Kapoor at Anshula Kapoor’s reception, see videos
+## Rain respite in Pune from today: Light to moderate rain forecast
 
 
-## Central Railway refunds Rs 5.91 crore to passengers after Karjat-Lonavala landslide
+## Rain disrupts supply chains; vegetable and fruit prices swing at Pune’s Gultekdi Market
 
 
-## Three tankers attacked in Strait of Hormuz in a day as tensions with Iran escalate
+## India crash to record 125-run defeat against England in 3rd T20I
 
 
 ## China extends gold-buying binge to 20th month amid Beijing’s de-dollarisation push
@@ -165,6 +162,12 @@ Hong Kong now ranks lower among the costliest cities for rich people “living w
 ## Singapore named world’s most expensive city for luxury spending for fourth year in a row
 Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe. Zurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 
 
+## Xi Is Defining History on His Own Terms
+The language of the “new era” leaves real reform behind.
+
+## Taiwan Believes Japan Will Help Defend Against China
+Opinion polling shows that trust in Tokyo is surprisingly deep.
+
 ## How Trump Lost America the World Cup
 A host is supposed to harvest the world’s goodwill, not burn it.
 
@@ -182,12 +185,6 @@ But is Brasília ready to meet the moment?
 
 ## Erdogan Has Laid a Trap in Ankara
 No matter what happens at the NATO summit, the Turkish strongman wins.
-
-## What to Expect at the 2026 NATO Summit
-It’s a precarious time for the world’s largest military alliance.
-
-## Are U.S.-India Ties Really Thawing?
-As the two sides near a final trade deal, a few sticking points remain.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -261,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## French far-right leader Le Pen says will run in 2027 presidential election
-Her announcement followed a court ruling that meant she would have to wear an electronic tag while campaigning.
+## Venezuela buries earthquake victims as death toll reaches 3,535
+Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira
 
-## Several hurt in Damascus blasts as Macron meets Syria’s Sharaa
-Several hurt in Damascus blasts as Macron meets Syria's Sharaa
+## Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’
+‘No one is safe anymore.’ This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.
 
-## Tornadoes kill 17 in central China as Typhoon Bavi looms offshore
-Severe rain and winds lash southern Guangxi and central Hubei provinces, with President Xi urging an 'all out' response.
+## Prolonged hospitalisation of US Republican Mitch McConnell raises questions
+The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.
 
-## How conflict minerals fuel war in eastern DR Congo amid US sanctions
-The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade
+## Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings
+Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.
 
-## South Africans line up for jobs after exodus of foreign workers
-Many South Africans are hoping to secure the jobs left vacant by the departure of foreigners
+## Trump lashes out at NATO as first day of summit wraps in Turkiye
+Leaders have gathered in Ankara for a two-day summit slated to cover defence spending and the Russia-Ukraine war.
 
-## IOC lifts suspension, paves way for Russians to compete at LA 2028 Olympics
-No decision yet on whether Russia may display its flag, colours or have its anthem played at ​the Games.
+## Deadly landslide buries tunnel construction site in India
+At least five people were killed after a massive landslide buried a tunnel construction site in Kerala
 
-## What happened in the first half of the Argentina vs Egypt World Cup match?
-Egypt score a goal and then save a Messi penalty to keep the reigning champions at bay in Atlanta.
+## What was the VAR controversy in the second half of Argentina vs Egypt?
+A disallowed goal by VAR, a string of yellow cards for Egypt, and contrasting emotions from both captains capped the match.
 
-## Switzerland vs Colombia LIVE: FIFA World Cup 2026 round of 16
-Live coverage and text updates from our commentary stream as Switzerland play Colombia in round of 16 knockout stage.
+## Trump criticises NATO allies over Iran conflict support
+US President Donald Trump criticised NATO allies for refusing to back the United States during its conflict with Iran.
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
