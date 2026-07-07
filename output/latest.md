@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## China fires ballistic missile into Pacific nuclear-free zone
+Submarine-launched projectile carrying dummy warhead draws condemnation from Japan, Australia and New Zealand
+
+## Top Fed official backs Kevin Warsh’s rethink of forward guidance
+Christopher Waller sides with central bank’s new chair in call for revamping communication to market
+
+## Samsung boasts third straight quarter of record profit on AI demand
+High memory chip prices fuel April to June earnings
+
+## Burnham urged to end freeze in salary threshold for student loan repayments
+MPs accuse ministers of mis-selling finance to young people
+
 ## Platner to ‘reflect’ on Senate campaign after sexual assault allegations
 Populist Democratic candidate denies accusation as deadline looms to replace him on the ballot
 
@@ -12,23 +24,17 @@ Deal will create a leading advanced materials company with a combined enterprise
 ## Toronto nude spot emerges as unlikely flashpoint over Canada investment
 Airport expansion crucial to $1tn foreign investment plan threatens the birthplace of country’s gay pride movement
 
-## Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO
-Situational Awareness joins UK investor Baillie Gifford backing the South Korean memory maker’s American debut
-
-## Infantino defends Fifa integrity after Trump intervention over banned player
-Governing body under scrutiny after US president admits asking for review into one-match ban given to Folarin Balogun
-
-## Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch
-The football body was once riven by bribery and corruption claims. Now it faces accusations of interference in the game itself
-
-## The next frontier for defence companies is the deep blue sea
-Countries have a whole host of relatively new vulnerabilities lying on the seabed
-
 ## Who started it?
 CLSA offers an interesting sell-side take on some recent conflicts
 
+## Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO
+Situational Awareness joins UK investor Baillie Gifford backing the South Korean memory maker’s American debut
+
 ## EasyJet’s sale could be surprisingly good for its rivals
 Budget airline will comfort its competitors if the destination remains largely the same
+
+## The next frontier for defence companies is the deep blue sea
+Countries have a whole host of relatively new vulnerabilities lying on the seabed
 
 ## China steps up oil purchases from Middle East as prices fall
 Move comes as Saudi Arabia cuts pricing on exports to Asia to 6-year low
@@ -57,6 +63,21 @@ Microsoft said the layoffs are not AI-driven and will also spin off four game de
 ## BJP govt in Bengal started implementing promises made by party in election manifesto, says Amit Shah
 Shah said the Centre will soon complete the process of granting citizenship to refugee families, under Citizenship Amendment Act (CAA)
 
+## Markets rise to 10-week high, easing crude aids climb
+
+
+## Semicon 2.0 to widen chip incentives
+
+
+## Manipal Health gets Sebi nod for Rs 8,000-crore IPO
+India's IPO pipeline is gaining momentum with significant upcoming public issues. The National Stock Exchange is planning a substantial Rs 30,000-crore offering. Manipal Health Enterprises has secured approval for its Rs 8,000-crore public issue. Rentomojo also received market regulator nod for its 
+
+## Power and infra drive behind 17% credit growth to industry
+Bank lending to industry saw power sector lead growth in early FY27. Chemicals and vehicles also experienced significant increases in credit allocation. Telecommunications exposure declined, reflecting a shift in lender priorities. Overall infrastructure sector growth was positive, excluding telecom
+
+## CNG, EV make up record 40% car sales in June
+
+
 ## Railway minister Vaishnaw launches new train services: Check routes, extensions and details
 Railway Minister Ashwini Vaishnaw launched new train services and route extensions. These improvements enhance rail connectivity across Maharashtra, Uttar Pradesh, and Uttarakhand. New services connect Nanded to Mumbai and Tanakpur to Nanded. Existing routes were extended, and special services were 
 
@@ -65,21 +86,6 @@ Wall Street opened higher as artificial intelligence stocks rebounded strongly. 
 
 ## 'For the first time from Oval': Donald Trump rings NYSE and Nasdaq opening bell to launch Trump Accounts
 President Trump launched a new investment program for children, "Trump Accounts," from the Oval Office, coinciding with the Republican's 2025 tax law. This initiative aims to boost equity market participation, with Treasury Secretary Scott Bessent highlighting that many American families lack stock 
-
-## 145% rise in LPG imports: Gas buys to be doubled from US - how much can it help India cut reliance on Gulf supply?
-Energy imports from the US have gained importance, particularly following the West Asia conflict, helping reduce the trade imbalance between the two countries. Besides the US, India has also sourced LPG from Argentina, Nigeria and Malaysia. Data from Kpler shows that India’s LPG imports from America
-
-## Saudi Arabia slashes August crude prices for Asia by $11 a barrel in biggest cut in over 20 years
-Saudi Arabia has slashed its crude oil prices for Asian customers by a significant $11 per barrel for August, the largest reduction in over two decades. This move reflects weakening demand in Asia and easing geopolitical tensions, which have stabilized global oil markets. With supply conditions impr
-
-## Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices
-Public sector refiners have collectively absorbed losses of over Rs 75,000 crore during the first quarter of the current financial year. Since they continue to process higher-cost crude purchased earlier, profitability is expected to remain under pressure during the ongoing quarter.
-
-## Taiwan's Unimicron targets $1.4 billion in global share sale at discounted price amid AI-driven chip demand
-Taiwan's Unimicron Technology is aiming to raise approximately $1.4 billion through a global share offering, joining a trend of Asian semiconductor firms seeking international capital. The printed circuit board and chip substrate maker is offering 50 million global depositary shares, with proceeds e
-
-## 'Fresh Paneer' to '100% organic': FSSAI issues notices to multiple brands over misleading food claims
-India's food regulator, FSSAI, has issued notices to several brands, including 'Heritage Fresh Paneer', for misleading claims on their packaging. The authority is cracking down on labels that could deceive consumers, such as 'fresh' paneer or 'vegan' spreads. This move aims to ensure food products a
 
 ## Shivakumar rejects charge of govt interference in SIR, accuses Oppn of 'indulging in politics'
 Asserting that officials involved in the SIR were working under the guidance of the Election Commission of India, he said, "Let the EC probe the allegations."
@@ -105,29 +111,32 @@ Simultaneous raids were conducted across five districts, including Thane, Ahilya
 ## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
 Police said an argument broke out between the two over a mobile phone chat.
 
+## Cuba hit with nationwide blackout as US pressure continues
+
+
+## Delhi govt planning major administrative rejig, officers ‘in comfort zones’ in focus
+
+
+## 7 vacancies in DCPCR 3 years on as Delhi eyes child protection panels in all schools
+
+
+## Delhi Confidential: On-field Huddles
+
+
+## Article 370 abrogation fulfilled dream of Syama Prasad Mookerjee: PM Narendra Modi
+
+
+## PM Narendra Modi’s three-nation tour: Defence, critical minerals on table at India-Indonesia meeting today
+
+
+## Two injured in separate lion attacks in Gujarat, says forest dept
+
+
 ## ZEE5 removes ‘Satluj’ after govt cites security, IT Rules; SGPC and SAD slam move
 
 
-## Four dead, one missing in Pune as 48 hrs of rain wreaks havoc, causes landslides
-
-
-## Cristiano Ronaldo’s last FIFA World Cup campaign ends in 1-0 defeat vs Spain
-
-
-## How a 1962 plane crash gave a tribal village near Pune an unlikely identity
-
-
-## What’s behind Trump’s ‘US will finish the job’ warning to Iran amid Khamenei’s funeral
-
-
-## Mumbai-Pune Missing Link reopens after 18-hour disruption amid heavy monsoon; advisory issued for travellers
-
-
-## Destiny’s least favourite child, Neymar bows out without a FIFA World Cup
-
-
-## ‘I thought it was AI…’: Balogun’s teammate on World Cup red card overturn
-
+## Hong Kong’s pension fund suffers a loss in June but reports first-half gains
+Hong Kong’s Mandatory Provident Fund (MPF), the city’s compulsory retirement scheme covering 4.8 million members, recorded a HK$24.4 billion (US$3.12 billion) loss in June, eroding the gains it made in the first half of this year to HK$88.8 billion. On average, each MPF member saw their pension savi
 
 ## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
 Hong Kong’s gold futures trading has surged on the back of a fee waiver and as the city government presses ahead with plans to become an international trading hub for the precious metal, with volumes breaking a record on Monday. A total of 6,676 US dollar gold futures contracts were traded during th
@@ -150,8 +159,8 @@ China’s electric vehicle (EV) deliveries in June failed to match their year-on
 ## Hong Kong targets 2026 securities law overhaul to boost Reits, IPOs
 Hong Kong will seek to amend its securities laws later this year and upgrade its listing regime in a bid to attract more companies and real estate investment trusts (Reits) to list in the city, strengthening its role as an international financial centre, government and regulatory officials told lawm
 
-## Hong Kong’s roast meat chains expand as recovery in shop markets remains uneven
-Hong Kong’s roast meat restaurant chains are emerging as one of the more active tenants in the city’s street-shop market, expanding in tourist districts even as the broader retail property recovery remains uneven and vacancy rates stay elevated in some areas. The number of siu mei restaurants – eate
+## Erdogan Has Laid a Trap in Ankara
+No matter what happens at the NATO summit, the Turkish strongman wins.
 
 ## What to Expect at the 2026 NATO Summit
 It’s a precarious time for the world’s largest military alliance.
@@ -174,8 +183,20 @@ Sen. Tammy Duckworth tells FP why she is traveling to Taiwan.
 ## Jimmy Carter Knew What Ails America
 One of history’s most misunderstood speeches is also one of its most important.
 
-## Venezuela’s Bungled Earthquake Response
-Natural disasters have accelerated political change elsewhere in the region.
+## Luv Puri on the Unrest Roiling Pakistan-administered Jammu and Kashmir
+“The recurring protests point to accumulating grievances over governance, representation, and the relationship between the region and Pakistan's federal establishment.”
+
+## US Tariffs Won’t End Forced Labor, But They Can Change the Incentives That Drive It
+Properly designed and tied to labor-based risk, U.S. tariffs could change the incentives that sustain labor abuse, especially in China.
+
+## Promotions Herald a New Leadership for China’s Military
+Amid an ongoing purge, Chinese leader Xi Jinping may be assembling the cornerstones of a new Central Military Commission.
+
+## Tashiev Convicted in Coup Plot, Granted Probation Instead of Prison
+That Tashiev was given probation after a coup plot conviction while Kyrgyz journalists and musicians sit in jail, or exile, for reporting on his family’s corruption says everything that needs to be said about the character of justice and politics in Kyrgyzstan.
+
+## China’s Moment to Shape a New Global Order
+Recent visits to Beijing by Trump and Putin and a more favorable geopolitical environment have given Beijing more strategic space to advance its vision.
 
 ## Britain’s Farms Run on Central Asian Labor Now
 As Russia squeezes migrants, Central Asians now fill nearly four in five U.K. Seasonal Worker visas.
@@ -185,21 +206,6 @@ In 2015, Bangladesh allotted land to India for the development of an SEZ at Mong
 
 ## Twice Stateless: The Double Erasure of Bhutanese Refugees
 They survived ethnic cleansing in Bhutan, decades living in remote camps in Nepal, and the grueling process of starting over in the United States – only to be deported.
-
-## Why is the RSS, the Parent Organization of India’s Ruling BJP, Still Unregistered?
-The century-old RSS has always maintained that it is a “body of individuals” that does not need to register and pay taxes.
-
-## Denying Great Power Interference: Vietnam’s Strategies Toward Laos and Cambodia
-Since the first Vietnamese declaration of independence in 1945, Hanoi has pursued a consistent policy toward its two western neighbors.
-
-## The Prabowo Administration’s Hostility to Expertise is Degrading Indonesian Governance
-The government needs to involve more academic institutions, think-tanks, and technical bodies in policymaking.
-
-## With Laos Trip, Min Aung Hlaing Drives a Wedge Into ASEAN
-Myanmar’s “president” is embarking on his first official visit to an ASEAN country since his appointment in April.
-
-## Indonesia Recovers Body of American Pilot Killed by Papuan Separatists
-The West Papua National Liberation Army has a history of targeting aircraft servicing remote parts of the Papuan highlands.
 
 ## Ukrainian Writers Take Aim at Government Narratives
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -249,10 +255,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Canada picks Germany’s TKMS for new submarines
-German-owned TKMS made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.
+## Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says
+Save the Children says families in and around the city of el-Obeid are facing increasingly difficult conditions.
 
-## USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy
+## Leading US Democrats withdraw support for Platner after assault allegations
+Monday's accusations are the latest in a long string of controversies surrounding the Maine Democratic Senate candidate.
+
+## All to know about Ronaldo’s World Cup career as it ends in Spain loss
+The Portuguese captain became the only player to score in six different World Cups after his brace against Uzbekistan.
+
+## Late Spain goal eliminates Portugal, ends Ronaldo’s international career?
+Sub Mikel Merino scores in stoppage time to give Spain a 1-0 win over Portugal in the last 16.
+
+## Canada picks Germany’s TKMS for new submarines
+The German-owned naval shipbuilder made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.
+
+## ‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy
 USA supporters divided on Trump's intervention and FIFA's decision to suspend striker's ban in Belgium World Cup match.
 
 ## One Phone Call, One Vanishing Red Card — The Balogun Scandal
@@ -260,18 +278,6 @@ Al Jazeera's Basel Ghazoghli (@baselgazi) breaks down how the White House helped
 
 ## Morocco says it has dismantled ISIL-linked cell planning attack
 Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.
-
-## Influencers say they’re ‘honoured’ to attend Khamenei funeral
-Several social media influencers travelled to Iran for the state funeral of Supreme Leader Ali Khamenei.
-
-## Survivors and bodies still being pulled from rubble days after twin quakes
-International aid teams have played a key part in Venezuela’s ‘miracle rescues’, days after twin earthquakes struck.
-
-## Macron arrives in Syria for talks ahead of NATO summit in Turkiye
-The French president is the first leader from western Europe to visit Syria since the overthrow of Bashar al-Assad.
-
-## Mbappe, FFF hit back at Paraguayan senator Amarilla over racist tirade
-Amarilla called Mbappe a 'colonised Cameroonian' after his penalty helped France knock Paraguay out of the World Cup.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
