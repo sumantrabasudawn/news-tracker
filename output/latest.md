@@ -1,7 +1,31 @@
 # AION Intelligence
 
+## Has the Iran war changed the world order? Submit a question to Gideon Rachman
+Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator today at 10.30am BST
+
+## Samsung shares tumble 10% despite record quarterly profit from AI boom
+Investor concerns about massive investments outweigh April-to-June earnings fuelled by high memory chip prices
+
+## K-pop, markets edition
+On Kospi index concentration
+
+## China gives its investors more access to bonds in Hong Kong
+Authorities raise quota for offshore Connect scheme in bid to boost international use of renminbi
+
+## Nato opens its cheque books in bid to keep Trump engaged
+Also in this newsletter: Poland joins UK-led push for joint European defence procurement
+
+## The death of secular stagnation
+And the interest-rate reckoning to come
+
+## Platner to ‘reflect’ on US Senate campaign after sexual assault allegations
+Populist Democratic candidate denies accusation as deadline looms to replace him on Maine ballot
+
 ## FirstFT: How Europe would fight without America
 Also in today’s newsletter: HSBC’s private credit exposure and Burnham says no to Treasury split
+
+## Google and XTX back German fusion start-up as nuclear bets proliferate
+Proxima Fusion valued at €2.4bn in €400mn funding round as AI boom spurs the race for energy’s holy grail
 
 ## UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business
 Acquistion of 580 service stations and other assets marks latest overseas expansion by Adnoc subsidiary
@@ -9,53 +33,47 @@ Acquistion of 580 service stations and other assets marks latest overseas expans
 ## Masa Son’s greatest gamble
 The SoftBank founder has bet the house on AI
 
-## Andy Burnham rules out splitting Treasury to avoid disruption
-Likely next prime minister has been rethinking Britain’s economic levers to promote regional growth
-
-## How far can a ‘Messi strategy’ get Argentina?
-A team shaped around the 39-year-old relies on controlled possession
-
-## Labour and the Tories need to outflank the extremists
-Kemi Badenoch and Andy Burnham must remember that elections are not fought and won on issues of culture alone
-
 ## How to stop AI becoming the enemy of younger workers
 ‘Seniority-biased’ hiring patterns in South Korea carry a lesson for the rest of the world
 
 ## EU to delay pre-authorised travel system after border chaos
 US-style pre-checks unlikely to be rolled out this year
 
-## Growing UK pension surpluses fuel debate over what to do with excess funds
-Corporate defined benefit schemes have seen an improvement in funding levels since 2019 thanks to rising gilt yields
+## Tata Power to set up new solar manufacturing facility in Odisha; sees renewables driving next phase of growth
+The company has crossed 26 GW of generation capacity, including projects under development
 
-## London’s Tube nears a decade without new air-conditioned trains
-The capital is experiencing its third heatwave of the year this week, with temperatures forecast to reach 34C
+## SAUDI INTRODUCES "PACKAGE VISA", INTEGRATING TRAVEL BOOKING WITH EASIER VISA APPLICATION
+SAUDI INTRODUCES "PACKAGE VISA", INTEGRATING TRAVEL BOOKING WITH EASIER VISA APPLICATION
 
-## Retailers warn over potential scale of Burnham’s proposed warehouse tax
-Prospective UK premier wants to fund business rates cut for pubs, clubs and music venues by placing higher levies on warehouses and other large commercial sites
+## Sensex today | Stock Markets Live Updates: IT stocks power Nifty; Trent crashes 12% as midday trade holds gains
+Sensex, Nifty, Share Prices LIVE: At 1.21 pm, markets erased early gains and traded flat. Sensex traded at 78,289.08, and Nifty 50 stood at 24,425.25.
 
-## FIIs return, crude eases: Markets open higher with Nifty at 24,453
-The Sensex opened at 78,461.16 against its previous close of 78,285.07
+## Smartworks acquires Singapore’s Workstudio Spaces for SGD 2.47 million
+Smartworks’ Singapore portfolio now spans four operational centres with a combined footprint of approximately 76,000 sq. ft. and seating capacity of over 1,500
 
-## Nvidia server delay report sends Asian tech stocks sliding
-The stock declines showed investors are wary of any potential negative developments after big run-ups in AI-related stocks
+## Aye Finance AUM jumps 28% to ₹7,329 crore in Q1 FY27; stock slips 5%
+Disbursements for the quarter stood at ₹1,219 crore, a 22 per cent increase year-on-year, though they declined sharply by 26 per cent compared to ₹1,655 crore in Q4 FY26
 
-## Iran missiles reportedly hit ships in Hormuz, testing US talks
-The attacks come as US President Donald Trump is set to head to a NATO leaders’ summit in Turkey
+## Titan shares hit new highs post Q1 update
+Shares climb over 2.5% as the company reports 41% YoY growth, driven by robust jewellery demand and a surge in international business.
 
-## Indian stocks to open higher on positive global cues
-Ponmudi R, CEO of Enrich Money, said Indian equities are expected to trade with a constructive bias, supported by favourable global cues, resilient domestic fundamentals and improving investor sentiment
+## Markets hit 11-week high as IT rally offsets broader market weakness
+IT stocks drive benchmarks higher; Infosys, Tech Mahindra, TCS, HCL Tech lead gainers
 
-## Sensex today | Stock Markets Live Updates: FIIs return, crude oil eases; Markets open higher with Nifty at 24,453
-Sensex, Nifty, Share Prices LIVE: Markets opened on a positive note on Tuesday, with the Nifty 50 trading at 24,453.80, up 23.45 points or 0.10%, after closing at 24,430.35 on Monday. The Sensex opened at 78,461.16 against its previous close of 78,285.07 and was trading at 78,345.45, a gain of 60.38
+## IMD: Heavy rains lash Gujarat, Konkan, Costal Karnataka, Madhya Maharashtra
+Monday’s depression weakens into well-marked low-pressure area, set to weaken further, as rains head north and east towards Himalayan foothills
 
-## Stocks surge on chip news, oil holds at pre-war levels
-The Dow Jones Industrial Average ended the day up 0.29%, while the S&P 500 jumped 0.72% and the Nasdaq Composite climbed 1.12%
+## India's strategic gas storage: LNG buffer mandate for terminals in the works - what it means
+The disruption to LNG shipments through the Strait of Hormuz during the Iran conflict highlighted India's exposure to supply disruptions, prompting the government to revisit the idea of creating strategic gas reserves. Policymakers are evaluating a plan under which LNG terminal operators would be re
 
-## Stocks to watch, July 7: Cochin Shipyard, Tanfac, Central Mine, Mamata Machinery
-Here are the latest updated for Cochin Shipyard, Tanfac, Central Mine, Mamata Machinery, Zen Tech, Mobikwik, PowerGrid, Varun Beverages, Blue Jet
+## IIM campus, UPI, AI & more: PM Modi heralds 'golden chapter' of India, Indonesia ties
+India and Indonesia are enhancing cooperation in defense and maritime security. Discussions covered trade, energy, and critical minerals for future growth. Both nations agreed to boost technology sharing and startup collaborations. Educational ties will strengthen with an Indian Institute of Managem
 
-## Crude oil futures gain on reports of attacks on ships in Strait of Hormuz
-The United Kingdom Maritime Trade Operations said a tanker has reported being hit by an unknown projectile on the port side causing a fire, whilst travelling southbound
+## Rupee recovers 15 paise to 95.28 against US dollar in early trade
+The Indian rupee opened stronger against the US dollar on Tuesday. Lower crude oil price expectations and easing Middle East tensions improved market sentiment. Saudi Arabia's decision to cut oil prices for Asian buyers added to the positive mood. Foreign institutional investors remained net buyers 
+
+## Kospi's AI party over? South Korean benchmark tumbles 7%, sell-side sidecar activated
+South Korean stocks experienced a significant decline on Tuesday. Investors rushed to secure profits after strong earnings reports were released. Heavyweight technology stocks led the broad sell-off across the market. This sharp reversal followed a period of record highs driven by AI optimism. The m
 
 ## Top stocks to buy today: Stock market recommendations for July 7, 2026 - check list
 Stock market recommendations: Mankind Pharma, Bajaj Auto, UNO Minda, and Jubilant FoodWorks - Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan has identified these four as the top stocks to buy on July 7, 2026:
@@ -69,65 +87,59 @@ Oil prices saw a slight increase Tuesday after a tanker was struck near the Stra
 ## 'Growth Gems' biz to power Mahindra's next leap
 Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These "Growth Gems" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and ae
 
-## Fuel-efficient car companies may get a new revenue stream
+## Gujarat 2008 blasts: HC upholds death sentence for 38 convicts; life term for 11
+The special court’s 2022 order also marked the first time an Indian court awarded the death penalty to 38 convicts in a single case
+
+## Prashant Kishor's bet on Nitin Nabin's bastion in focus: TMC MP calls it 'dhamaka'; BJP downplays bid
+Prashant Kishor's victory in this seat would be a big boost for the Jan Suraaj Party, which drew a blank in the Bihar Assembly elections last year.
+
+## Ahmedabad blasts: HC upholds death penalties, orders higher victim compensation
+A bench of Justice AY Kogje and Justice SJ Dave heard appeals against the 7,015-page special court judgment
+
+## Newlywed who died in Delhi's Lodhi Road hid abuse for weeks, ‘hoped job would end taunts’, says brother
+The brother alleged that she was repeatedly taunted for not bringing sufficient household items from her parental home.
+
+## India, Indonesia seal BrahMos, Astra missile deals; deepen strategic partnership
+Indonesia’s President Prabowo Subianto said both sides want an Indo-Pacific region that is open and transparent, with an order-based international law.
+
+## Baruipur rape-murder: Accused took victim to shack where two others were waiting, say police
+Incidentally, the preliminary post-mortem findings indicate ante-mortem drowning, which means the victim was alive when she was thrown into the water.
+
+## Big win for Cockroach Janta Party as Delhi HC orders unblocking of its X account: ‘Concern no longer relevant’
+The government told the court that the CJP X account was blocked light of the NEET re-exam as certain posts “could have created chaos” among students.
+
+## Bengaluru man held for murder of 11-month-old daughter; forensic evidence exposes cover-up
+His wife, who is also under investigation, has not been traced despite police notices directing her to appear for questioning.
+
+## Even Donald Trump cannot bend football to his will
 
 
-## Flipkart greenlights cashing out up to 5% of vested stock options
-Flipkart's board has approved a second employee stock option liquidity event. Eligible employees can now liquidate up to five percent of their vested options. This event is estimated to be around twenty-five million dollars. Payouts to employees are scheduled to be made in August. The company's grow
-
-## Saudi Arabia effects deepest crude price cut in 26 years
-Saudi Arabia significantly reduced crude oil prices, reflecting intense competition among producers. Major Persian Gulf nations are increasing their oil output, restoring pre-war export levels. This move coincides with OPEC+ allies agreeing to further boost production targets for August. Lower oil p
-
-## Markets rise to 10-week high, easing crude aids climb
+## NEET-UG 2027 in 1,000 centres over 5-6 days, ‘top to bottom’ NTA revamp
 
 
-## Ex-IAS officer's son brutally assaults woman for refusing proposal in UP's Bithoor, arrested
-The victim's sister alleged that Devashish Nigam had been continuously pressuring her sister to marry him and had issued threats in the past.
-
-## PM Modi receives grand welcome in Indonesia, talks on defence, food security and more on cards
-Modi arrived in Indonesia on Monday, where he was welcomes with an escort by an Indonesian Air Force fighter jet and a personal reception by the President.
-
-## Acreage gap narrows as kharif sowing picks up
-Sowing of crops in the ongoing Kharif season picked up modestly over the past week, spurred by a stronger monsoon in parts of the country
-
-## Bill to revamp Hyderabad’s civic administration on anvil
-The Telangana government has proposed introducing a new bill to replace the seven-decade-old Greater Hyderabad Municipal Corporation (GHMC) Act to govern Hyderabad’s civic administration, in view of the massive expansion of the metropolitan region over the years, officials familiar with the developm
-
-## K’taka SIR supervisor’s death in accident sparks stir, work pressure alleged
-The death of a 26-year-old village administrative officer engaged in Karnataka’s special intensive revision (SIR) of electoral rolls set off overnight protests by revenue department employees, who alleged that officials assigned to the exercise were working under excessive administrative pressure
-
-## As Rains Falter, North Karnataka’s Annual Migration Begins Early
-BIDAR/BELAGAVI: The annual migration of farm workers from North Karnataka has begun weeks earlier than residents say it ordinarily would, with inadequate monsoon rainfall leaving fields unsown, newly planted crops withering and rural employment disappearing
-
-## Bypolls to 3 Rajya Sabha seats on July 24; three assembly seats to go to polls July 30
-According to ECI, nominations for the assembly bypolls will close on July 13, scrutiny on July 14 and withdrawal by July 16. The polling will take place on July 30 and counting on August 3.
-
-## Kuki cop being questioned for death of 6 abducted Naga men in Manipur
-The National Investigation Agency (NIA) is investigating the case and questioning the suspected police constable.
-
-## India news LIVE updates, 7 July 2026: Mumbai schools shut as orange alert issued, man loses wife and four children in Mankhurd building collapse, Modi gets ceremonial welcome in Jakarta, Ronaldo’s World Cup dream ends
+## After crackdown, U-turn: Maharashtra to legalise bike taxis from Aug 1, domicile must for drivers
 
 
-## Indian-origin man poses as ‘CIA agent’ to secure Indonesia defence deal
+## ‘Whose tears were these, Cristiano’? Portugal’s press turns on Ronaldo
 
 
-## ‘Even if Govinda has 50 affairs, I won’t leave him’: Sunita Ahuja snaps at Shilpa Shinde
+## No bail to 2020 Delhi riots accused Athar Khan; HC says ‘can influence witnesses’
 
 
-## The Odyssey first reactions: Critics hail Christopher Nolan’s ‘crowning achievement’
+## India renews US lobbying contract with Trump aide Jason Miller’s firm
 
 
-## Bengaluru couple allegedly kill 11-month-old daughter, claim infant ‘fell from cot’
+## Insurer’s ‘hidden illness’ excuse backfires: Consumer court orders Rs 50.60 lakh payout
 
 
-## Daily Briefing: India’s push for cleaner transport hits roadblocks amid E25 rethink, EV challenges
+## In Mumbai’s deluge, a lesson: You can’t engineer your way around water systems
 
 
-## Serena Williams on injury that forced Wimbledon exit: ‘Photo of the syringes…’
+## Zhipu AI, MiniMax shares to provide gut check for Hong Kong investors as lock-ups end
+Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and MiniMax. Meanwhile analysts warned of rising fears of a drain on liquidity as ma
 
-
-## Adults can’t be subjected to parents’ custody battle, says Karnataka High Court
-
+## Peak oil: China’s crude demand set to fall as EV bets ease Hormuz fears
+China’s crude oil demand is expected to peak this year, according to executives from the country’s largest oil firm, a scenario set to further reshape the global energy market following the Strait of Hormuz crisis. The world’s top oil importer would record slowing demand as reductions in the use of 
 
 ## Hong Kong office vacancy rates to plateau as Central hits 43-month low
 Hong Kong’s office property market is likely to see its empty spaces plateau at 14 per cent as vacancy rates in Central fell to more than a three-and-a-half-year low in June, according to JLL. The property consultancy said that although the overall vacancy rate for the office property sector fell to
@@ -146,12 +158,6 @@ A few pages of business information, a blank sheet of paper and a room of senior
 
 ## Beijing unveils policy enhancements to give ‘vitality’ to Hong Kong markets
 Mainland China’s foreign reserves would continue to increase asset allocation in Hong Kong, providing further momentum to the city’s capital market development, the governor of the People’s Bank of China (PBOC) said on Tuesday. Speaking at the Hong Kong FIC & Bond Connect Summit, Pan Gongsheng unvei
-
-## Hong Kong inaugurates trial operation of gold clearing and settlement system
-Hong Kong inaugurated the trial operation of a gold clearing and settlement system on Tuesday, a step towards building the city into a trading hub and price-setter for the precious metal. The decision was announced at the Hong Kong FIC & Bond Connect Summit by Chief Executive John Lee Ka-chiu, who h
-
-## Hong Kong’s pension fund suffers a loss in June but reports first-half gains
-Hong Kong’s Mandatory Provident Fund (MPF), the city’s compulsory retirement scheme covering 4.8 million members, recorded a HK$24.4 billion (US$3.12 billion) loss in June, eroding the gains it made in the first half of this year to HK$88.8 billion. On average, each MPF member saw their pension savi
 
 ## Erdogan Has Laid a Trap in Ankara
 No matter what happens at the NATO summit, the Turkish strongman wins.
@@ -177,29 +183,35 @@ Sen. Tammy Duckworth tells FP why she is traveling to Taiwan.
 ## Jimmy Carter Knew What Ails America
 One of history’s most misunderstood speeches is also one of its most important.
 
+## Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’
+The affirmations come after an Indonesian minister raised the idea of imposing a levy on vessels passing through the vital chokepoint.
+
+## Malaysia’s Upcoming State Elections: Allies Are Rivals Again
+Despite being partners at the federal level, the Pakatan Harapan and Barisan Nasional coalitions are competing to become the dominant force of tomorrow.
+
+## The Rot Within: Thailand’s Interior Ministry In Focus
+A series of recent scandals within the Ministry likely reflect tensions within the leadership of the ruling Bhumjaithai party.
+
+## China’s Closest Island to Taiwan Is a Monument to Reunification
+Pingtan is marketed as mainland China's “closest point to Taiwan.” Today, the cross-strait ties that once made the island a thriving location for exchanges have all but disappeared.
+
+## Philippine Vice President Sara Duterte Responds to Impeachment Allegations
+The 48-year-old faces charges of corruption, bribery, and an alleged plot to assassinate her rival, President Ferdinand Marcos Jr.
+
+## Philippine Senate Opens Impeachment Trial of Vice President Sara Duterte
+The 48-year-old faces charges of corruption, bribery, and an alleged plot to assassinate her rival, President Ferdinand Marcos Jr.
+
 ## Luv Puri on the Unrest Roiling Pakistan-administered Jammu and Kashmir
 “The recurring protests point to accumulating grievances over governance, representation, and the relationship between the region and Pakistan's federal establishment.”
 
 ## US Tariffs Won’t End Forced Labor, But They Can Change the Incentives That Drive It
 Properly designed and tied to labor-based risk, U.S. tariffs could change the incentives that sustain labor abuse, especially in China.
 
-## Promotions Herald a New Leadership for China’s Military
-Amid an ongoing purge, Chinese leader Xi Jinping may be assembling the cornerstones of a new Central Military Commission.
+## Gathering Clouds: Building Digital Strategic Depth in the Compute Age
+The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digital backbone of military power and economic
 
-## Tashiev Convicted in Coup Plot, Granted Probation Instead of Prison
-That Tashiev was given probation after a coup plot conviction while Kyrgyz journalists and musicians sit in jail, or exile, for reporting on his family’s corruption says everything that needs to be said about the character of justice and politics in Kyrgyzstan.
-
-## China’s Moment to Shape a New Global Order
-Recent visits to Beijing by Trump and Putin and a more favorable geopolitical environment have given Beijing more strategic space to advance its vision.
-
-## Britain’s Farms Run on Central Asian Labor Now
-As Russia squeezes migrants, Central Asians now fill nearly four in five U.K. Seasonal Worker visas.
-
-## Why India Cannot Escape Blame for Dhaka’s Handing Over of Key Projects to China
-In 2015, Bangladesh allotted land to India for the development of an SEZ at Mongla port. India failed to start work on that project. Dhaka handed it to China.
-
-## Twice Stateless: The Double Erasure of Bhutanese Refugees
-They survived ethnic cleansing in Bhutan, decades living in remote camps in Nepal, and the grueling process of starting over in the United States – only to be deported.
+## Sinews of War at Sea: The Armed Services Need a Common Watercraft Family
+To sustain future maritime operations, the U.S military will need to run supplies through an environment that spans thousands of miles of open ocean, denied ports, contested straits, and archipelagic chokepoints against adversaries that have spent decades studying how to target American logistics. T
 
 ## Ukrainian Writers Take Aim at Government Narratives
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -218,12 +230,6 @@ For many observers, Secretary of Defense Pete Hegseth’s speech on the future o
 
 ## The Blind Spots in Chinese Military Studies
 During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
-
-## From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence
-Editor’s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the graphi
-
-## How a Team of Marines Built the Corps’ FPV Drone Training Program from a Cold Start
-Last fall, the U.S. Marine Corps had virtually no first-person view attack drones. That’s changed quickly. This episode is about how a team of marines at Weapons Training Battalion at Quantico went from a cold start to building a Marine Corps-wide first-person view drone training system. Ryan was pl
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hamas dissolves civilian governing body in Gaza after 20 years
-Hamas has announced the dissolution of its civilian governing body in Gaza after nearly 20 years of administration.
+## Explosions heard in Syria’s Damascus during French President Macron’s visit
+Television footage shows plumes of smoke rising in the sky; cause of the blasts not immediately clear.
 
-## Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan
-Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.
+## NATO’s Turkiye summit live: Trump, leaders to meet in Ankara
+Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.
 
-## Cuba sees nationwide power blackout for third time in six months
-People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.
+## France’s Court of Appeal to rule on Le Pen conviction – what it’s all about
+The far-right leader could be prevented from running for president in 2027 if embezzlement charges are upheld.
 
-## Russia sends weapons to help Mali’s government hold off rebel siege
-The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.
+## NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?
+Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.
 
-## FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’
-Raphael Claus is 'one of the world's leading professional referees', FIFA says, following Trump's comments.
+## China sentences former local official to death in $324m corruption case
+Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.
 
-## Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal
-Folarin Balogun's starting place, after a suspended red card, unable to influence USA, who succumb to superior Belgium.
+## Palestine weekly: One thousand days of genocide in Gaza
+Gaza marks 1,000 days of Israel's genocidal war, with at least 1,072 killed since October 'ceasefire'.
 
-## Venezuela earthquakes death toll jumps to more than 3,500
-Experts warn of an impending health crisis, with thousands sleeping in crowded temporary shelters.
+## Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve
+Belgium midfielder Nicolas Raskin said his side’s win felt like a measure of justice after FIFA’s decision on Balogun.
 
-## ‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row
-Football experts, officials warn of 'dangerous precedent' set by FIFA after U-turn on red card for USA forward Balogun.
+## ‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims
+Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially or completely blinded by pellet shotguns.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
@@ -297,6 +303,12 @@ The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to add
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
 
+## Sebi reintroduces open mkt share buyback from Aug 1
+Sebi has reintroduced open-market share buybacks through stock exchanges starting August 1. Companies can now repurchase their own shares using regular trading mechanisms without a dedicated window. The execution period for these buybacks is capped at sixty-six working days from the offer opening. T
+
+## RBI to auction Rs 32,000 crore government bonds on Friday
+The Reserve Bank of India will auction government securities worth thirty-two thousand crore rupees. This auction involves re-issuing two specific bonds with different maturity dates. The government holds an option to retain additional subscriptions for each security. Bids will be submitted electron
+
 ## Direct cash transfers to women boost savings, spending: EAC-PM
 Direct cash transfers to women boost household savings and spending effectively. Schemes in Maharashtra and Odisha showed significant improvements in savings. Monthly account balances increased substantially for beneficiaries in both states. Consumption spending also saw notable increases after thes
 
@@ -314,10 +326,4 @@ Five years after its creation, the Ministry of Cooperation is poised for a new p
 
 ## India, Australia set to seal uranium supply pact during PM Modi’s visit
 Discussions will also cover critical minerals, cybersecurity, and clean energy. This follows a decade-old framework and aims to deepen economic ties, building on the landmark ECTA trade agreement which has already boosted bilateral trade to $54.4 billion.
-
-## China's warning reveals what really happened at Modi-Takaichi summit
-India and Japan's recent summit in Delhi has sparked concern in Beijing. Agreements on defense, critical minerals, and AI signal a strategic shift, prompting China to caution against "exclusive small groupings." The summit's focus on economic security, diversified supply chains, and defense co-devel
-
-## Banks register rise in NRI deposits under RBI's new scheme
-Banks have registered a gradual increase in the flow of overseas funds after the rollout of the Reserve Bank of India's (RBI) revised Foreign Currency Non-Resident Bank (FCNR-B) deposit scheme, and expect collections to accelerate further this month as awareness among NRIs is growing.
 
