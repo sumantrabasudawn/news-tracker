@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Le Pen is posing as the victim of a politicised judiciary
+The strategy might play well with the far-right leader’s core voters, but the French as a whole don’t buy it
+
+## French far-right leader Marine Le Pen says she will run for president
+Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
+
+## US strikes Iran in response to attacks on tankers
+Move comes after US Treasury revoked a general licence allowing sales of Islamic republic’s oil in escalation of tensions
+
+## ‘Nigel can fix it’ — what Clacton voters think of Farage’s gambit
+Many people in the seaside town, whether supporters of the rightwing populist or not, are pleased with move by Reform UK leader
+
 ## US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz
 Qatari and Saudi ships among targets near Oman coast
 
@@ -12,17 +24,11 @@ Reform UK leader has responded to scrutiny of his finances by calling a by-elect
 ## Tories and Labour try to call Nigel Farage’s bluff
 Mainstream parties denounce Reform UK leader’s by-election ‘gimmick’ and decide not to stand against him
 
-## French far-right leader Marine Le Pen says she will run for president
-Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
-
-## Farage by-election gambit undercut by rivals’ refusal to participate
-Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+## Software stocks got crushed. Did they have it coming?
+The market may be overreacting to AI risks faced by software companies
 
 ## How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
 Judgment marks potentially fatal setback in self-declared crusade to hold British tabloid press accountable
-
-## How far can a ‘Messi strategy’ get Argentina?
-A team shaped around the 39-year-old relies on controlled possession
 
 ## Rachel Reeves calls for rival international defence schemes to merge
 UK chancellor says competing funding bodies should be brought together
@@ -35,12 +41,6 @@ Airband initiates process to find new owner in move that puts £200mn of investo
 
 ## Saudi Arabia blocking payments to UAE accounts, businesses say
 Transfers from kingdom to companies and individuals in Dubai repeatedly returned or delayed in a sign of economic tension
-
-## High-spending online gamblers will face financial checks in UK
-People with net deposits of more than £1,000 a day will be assessed by companies for risk of vulnerability
-
-## How AI is changing the world of retail investment
-Excessive regulation could hamper innovation and harm savers
 
 ## Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction
 Airport sources said the takeoff was aborted because an arriving Air India Express Boeing 737 had not yet vacated the runway
@@ -90,6 +90,9 @@ India has launched the National Critical Mineral Mission (NCMM) in January 2025 
 ## India's economy passed the Iran war test. Could El Nino spoil the party?
 Economists say that the world’s fastest growing economy may even end up clocking a 7% GDP growth number this year. But, domestically a poor monsoon caused by El Nino is painting a grim picture for inflation. Is the worst really over for the Indian economy?
 
+## Operation Hard Ball: 24 with links to India-based gangs arrested in US, Canada, Europe
+As part of this investigation, law enforcement has seized about 1,000 kg of cocaine and 1 kilogram of heroin along with $40,000 in cash and a dozen firearms.
+
 ## Ram Temple donation row: SIT puts Anil Mishra under lens, says he knew frisking norms weren’t enforced
 SIT attributed supervisory accountability to Dr Mishra, saying his failure to ensure enforcement of the SOP created conditions that enabled misappropriation
 
@@ -111,32 +114,32 @@ The ministry of information and broadcasting (MIB) issued a takedown order to Ze
 ## 'Every time I hear Indian music, I find my body moving': Indonesian President during PM Modi's visit
 Indonesian President Prabowo Subianto revealed that he has “Indian DNA” while addressing a gathering during Prime Minister Modi's state visit
 
-## ‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
-‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
-
-## Ridge set to be revived in 4 years, says Amit Shah,, launches campaign to plant 70 lakh trees in Delhi
+## No let-up in rain in Surat, Navsari; hundreds displaced, 3 more dead
 
 
-## Dissident camp maintains distance as Bhupesh Baghel holds meetings at Punjab Congress HQs
+## Several Gujarat district on alert for flash floods
 
 
-## ‘Appropriate; fair; just’: Families of those killed & injured in 2008 serial blasts on Gujarat High Court verdict
+## Surat man murders father with kitchen knife; arrested
 
 
-## ‘Crimes against women should unite society, not divide it’: Students, football fans sound clarion call over Baruipur case
+## Afzal Pathan, the modernist painter from Madhya Pradesh whom India forgot
 
 
-## Lawrence Bishnoi gang charged in Hardeep Singh Nijjar murder: US indictment
+## ‘Can’t assume dual role of investigator, punisher’: Court pulls up CBI over custodial torture claims
 
 
-## Rain respite in Pune from today: Light to moderate rain forecast
+## School bus sinks as road caves in, traffic crawls: Gurgaon halts due to heavy rain
 
 
-## Rain disrupts supply chains; vegetable and fruit prices swing at Pune’s Gultekdi Market
+## How doctor’s ‘servant’, small plot owner are linked to Rs 700-crore medical fraud
 
 
-## India crash to record 125-run defeat against England in 3rd T20I
+## Security guard killed, another feared trapped in landslide at Khandala
 
+
+## How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge
+For decades, warnings of Hong Kong’s terminal decline have arrived in periodic waves. When Stephen Roach, the former chairman of Morgan Stanley Asia, ignited a firestorm with his February 2024 assertion that “Hong Kong is over”, he pointed to a toxic cocktail of domestic and external pressures. Roac
 
 ## China extends gold-buying binge to 20th month amid Beijing’s de-dollarisation push
 China’s central bank extended its gold-buying streak to a 20th straight month in June, adding 480,000 troy ounces (14.93 tonnes) to its reserves as policymakers continued to accumulate bullion amid de-dollarisation discussions. The People’s Bank of China said gold holdings rose to 75.44 million troy
@@ -159,8 +162,11 @@ Hong Kong’s office property market is likely to see its empty spaces plateau a
 ## Hong Kong drops to 4th costliest city for wealthy amid change in luxury spending
 Hong Kong now ranks lower among the costliest cities for rich people “living well”, with Singapore the most expensive for a fourth consecutive year, according to Swiss private bank Julius Baer. This year’s “Global Wealth and Lifestyle Report”, released by the bank on Tuesday, assessed the costs of l
 
-## Singapore named world’s most expensive city for luxury spending for fourth year in a row
-Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe. Zurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 
+## The Myth of Chinese Birth Tourism
+The United States has recast a small industry as a national security threat.
+
+## NATO Goes Shopping
+Alliance members tout defense investments to try to head off Trump’s complaints.
 
 ## Xi Is Defining History on His Own Terms
 The language of the “new era” leaves real reform behind.
@@ -179,12 +185,6 @@ Iranians in Europe say governments aren’t taking threats from Tehran seriously
 
 ## Europe Is Struggling to Lead NATO
 Germany and France are at the center of a clash over the alliance’s future.
-
-## Everyone Wants in on Brazil’s Rare Earths
-But is Brasília ready to meet the moment?
-
-## Erdogan Has Laid a Trap in Ankara
-No matter what happens at the NATO summit, the Turkish strongman wins.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US says strikes launched as explosions heard in southern Iran
+US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.
+
+## Nasdaq vs Dow: How are the key indices different as SpaceX joins one?
+SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.
+
 ## Venezuela buries earthquake victims as death toll reaches 3,535
 Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira
 
@@ -275,12 +281,6 @@ Leaders have gathered in Ankara for a two-day summit slated to cover defence spe
 
 ## Deadly landslide buries tunnel construction site in India
 At least five people were killed after a massive landslide buried a tunnel construction site in Kerala
-
-## What was the VAR controversy in the second half of Argentina vs Egypt?
-A disallowed goal by VAR, a string of yellow cards for Egypt, and contrasting emotions from both captains capped the match.
-
-## Trump criticises NATO allies over Iran conflict support
-US President Donald Trump criticised NATO allies for refusing to back the United States during its conflict with Iran.
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
