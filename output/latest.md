@@ -1,67 +1,79 @@
 # AION Intelligence
 
-## Has the Iran war changed the world order? Submit a question to Gideon Rachman
-Take part in a live Ask an Expert Q&A with the FT’s chief foreign affairs commentator today at 10.30am BST
+## Energy transition or energy addition? What the latest data shows
+Ten takeaways from the Energy Institute’s 75th annual Statistical Review of World Energy
+
+## Explosions shake Damascus as Macron visits
+French president is first EU leader to travel to Syria since fall of Assad regime
+
+## Bank of England plans to ease bank capital rule
+Officials say move is intended to boost lending and support financial markets in a crisis
+
+## Has the Iran war changed the world order? You asked, Gideon Rachman answered
+The FT’s chief foreign affairs commentator replied to reader questions in an Ask an Expert Q&A
+
+## FirstFT: How Europe would fight without America
+Also in today’s newsletter: HSBC’s private credit exposure and Platner takes ‘time to reflect’
+
+## Burnham warned of ‘unsustainable’ public finances by UK fiscal watchdog
+Office for Budget Responsibility’s annual report says urgent action is needed to cut spending
+
+## Japanese wages continue to rise, boosting BoJ normalisation policy
+Uptick in wages alongside inflation is what central bank wants to see to persist with lifting interest rates
+
+## SpaceX wins bullish recommendations from Wall Street banks
+Morgan Stanley gives Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO
+
+## Top banking watchdogs issue stark warning over AI-driven cyber attacks
+IT weaknesses could be exploited by frontier models in a ‘matter of minutes or hours’, say ECB and ESRB
+
+## Microsoft to axe 4,800 jobs as it resets Xbox
+Gaming unit under pressure from weak margins and the industry’s sharp hardware downturn
+
+## Qatari gas tanker hit in Strait of Hormuz
+Al Rekayyat comes under fire close to coast of Oman
 
 ## Samsung shares tumble 10% despite record quarterly profit from AI boom
 Investor concerns about massive investments outweigh April-to-June earnings fuelled by high memory chip prices
 
-## K-pop, markets edition
-On Kospi index concentration
-
-## China gives its investors more access to bonds in Hong Kong
-Authorities raise quota for offshore Connect scheme in bid to boost international use of renminbi
-
-## Nato opens its cheque books in bid to keep Trump engaged
-Also in this newsletter: Poland joins UK-led push for joint European defence procurement
-
-## The death of secular stagnation
-And the interest-rate reckoning to come
-
-## Platner to ‘reflect’ on US Senate campaign after sexual assault allegations
-Populist Democratic candidate denies accusation as deadline looms to replace him on Maine ballot
-
-## FirstFT: How Europe would fight without America
-Also in today’s newsletter: HSBC’s private credit exposure and Burnham says no to Treasury split
-
 ## Google and XTX back German fusion start-up as nuclear bets proliferate
 Proxima Fusion valued at €2.4bn in €400mn funding round as AI boom spurs the race for energy’s holy grail
 
-## UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business
-Acquistion of 580 service stations and other assets marks latest overseas expansion by Adnoc subsidiary
+## Kerala fishing boat operators seek wider consultations on Merchant Shipping Rules
+The Federation of Fishing Boat and Fishery Industries of Kerala noted that the proposed rules could have far-reaching implications and therefore should be finalized after extensive consultations with all stakeholders
 
-## Masa Son’s greatest gamble
-The SoftBank founder has bet the house on AI
+## Govt approves pan-India rollout of PM-SETU, clears ₹1,237 crore ITI upgrade plans
+The committee also cleared ₹1,237.58 crore in strategic investments for industry-led modernisation of ITIs.
 
-## How to stop AI becoming the enemy of younger workers
-‘Seniority-biased’ hiring patterns in South Korea carry a lesson for the rest of the world
+## Shawl exports surge, but Kashmir handicrafts recovery remains uneven
+Official data from the Directorate of Handicrafts, Export Promotion show exports of shawls rose to ₹588.23 crore during 2025-26 from ₹305.52 crore in the previous financial year
 
-## EU to delay pre-authorised travel system after border chaos
-US-style pre-checks unlikely to be rolled out this year
+## Reliance’s Strand Life Sciences secures Indian patent for liquid biopsy platform
+More than 1.5 million new cancer cases are estimated to occur annually, and several patients are still diagnosed at advanced stages
 
-## Tata Power to set up new solar manufacturing facility in Odisha; sees renewables driving next phase of growth
-The company has crossed 26 GW of generation capacity, including projects under development
+## Blurgs AI raises $2.2 million to expand maritime intelligence platform
+The funding will strengthen Blurgs AI’s platform, expand its team and support global growth
 
-## SAUDI INTRODUCES "PACKAGE VISA", INTEGRATING TRAVEL BOOKING WITH EASIER VISA APPLICATION
-SAUDI INTRODUCES "PACKAGE VISA", INTEGRATING TRAVEL BOOKING WITH EASIER VISA APPLICATION
+## Property title search engine Landeed to invest ₹30cr in FY27 for biz growth
+The company has so far raised around ₹100 crore from investors, including Y Combinator, Draper Associates and Bayhouse Capital
 
-## Sensex today | Stock Markets Live Updates: IT stocks power Nifty; Trent crashes 12% as midday trade holds gains
-Sensex, Nifty, Share Prices LIVE: At 1.21 pm, markets erased early gains and traded flat. Sensex traded at 78,289.08, and Nifty 50 stood at 24,425.25.
+## Hitachi signs MoU with TN Govt for ₹1,000 crore expansion of Chennai, Chengalpattu facilities
+The investments, planned over the next 3-5 years, are expected to create 1,000 additional high-quality technology jobs
 
-## Smartworks acquires Singapore’s Workstudio Spaces for SGD 2.47 million
-Smartworks’ Singapore portfolio now spans four operational centres with a combined footprint of approximately 76,000 sq. ft. and seating capacity of over 1,500
+## Lakshadweep aims to increase annual tuna production to 50,000 tonnes in 5 years
+Aimed at creating livelihood opportunities for island fishing communities, the plan envisages a range of proposals, including expansion of deep-sea tuna fishing, mariculture, seaweed farming and infrastructure development.
 
-## Aye Finance AUM jumps 28% to ₹7,329 crore in Q1 FY27; stock slips 5%
-Disbursements for the quarter stood at ₹1,219 crore, a 22 per cent increase year-on-year, though they declined sharply by 26 per cent compared to ₹1,655 crore in Q4 FY26
+## The biggest hurdle in India's chip race isn't the plan—it's execution
+India's semiconductor strategy draws on proven Asian models for growth. Execution, not strategy, presents the nation's primary challenge now. Developing skilled workers and strengthening local supply chains are crucial steps. The country focuses on outsourced assembly and mature process nodes. Meeti
 
-## Titan shares hit new highs post Q1 update
-Shares climb over 2.5% as the company reports 41% YoY growth, driven by robust jewellery demand and a surge in international business.
+## Flights, hotels, visa in one go: 10 things to know about Saudi’s Package Visa
+Saudi Arabia has introduced a new pilot Package Visa service for tourists. This digital initiative integrates flight and accommodation bookings with visa applications. Eligible travelers can now book their entire trip through a single, unified travel package. The service aims to simplify the visitor
 
-## Markets hit 11-week high as IT rally offsets broader market weakness
-IT stocks drive benchmarks higher; Infosys, Tech Mahindra, TCS, HCL Tech lead gainers
+## Want a stake in Cochin Shipyard? Centre launches offer for sale at Rs 1,400 per share
+The Centre is selling a 2.52% stake in Cochin Shipyard Limited through an Offer for Sale. Non-retail investors can bid on July 7, 2026, and retail investors on July 8, 2026. This divestment supports the government's extensive maritime ecosystem expansion programs. Initiatives like the Maritime Devel
 
-## IMD: Heavy rains lash Gujarat, Konkan, Costal Karnataka, Madhya Maharashtra
-Monday’s depression weakens into well-marked low-pressure area, set to weaken further, as rains head north and east towards Himalayan foothills
+## Back with a bang! Foreign investors bet on financials, record fortnightly inflows seen in second half of June
+The renewed interest in financial stocks helped overseas investors emerge as net buyers of Indian equities worth more than Rs 14,000 crore during the June 16-30 period, reversing net outflows of Rs 63,450 crore recorded in the first fortnight of the month, according to NSDL data.
 
 ## India's strategic gas storage: LNG buffer mandate for terminals in the works - what it means
 The disruption to LNG shipments through the Strait of Hormuz during the Iran conflict highlighted India's exposure to supply disruptions, prompting the government to revisit the idea of creating strategic gas reserves. Policymakers are evaluating a plan under which LNG terminal operators would be re
@@ -75,65 +87,59 @@ The Indian rupee opened stronger against the US dollar on Tuesday. Lower crude o
 ## Kospi's AI party over? South Korean benchmark tumbles 7%, sell-side sidecar activated
 South Korean stocks experienced a significant decline on Tuesday. Investors rushed to secure profits after strong earnings reports were released. Heavyweight technology stocks led the broad sell-off across the market. This sharp reversal followed a period of record highs driven by AI optimism. The m
 
-## Top stocks to buy today: Stock market recommendations for July 7, 2026 - check list
-Stock market recommendations: Mankind Pharma, Bajaj Auto, UNO Minda, and Jubilant FoodWorks - Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan has identified these four as the top stocks to buy on July 7, 2026:
+## Viral video leads to arrest of 3 in Bengaluru-Mysuru expressway road rage case
+Police have arrested three men, seized two vehicles allegedly used in the incident and are searching for two others
 
-## Stock market opens in green as Sensex jumps over 80 points, Nifty50 trades above 24,470
+## What caused Wayanad landslide? Kerala minister calls incident ‘man-made’
+Kerala's agriculture minister linked the Wayanad landslide to the ongoing tunnel project, citing unscientific dumping of excavated soil as a possible cause.
 
+## Family with children attacked by mob on Bengaluru-Mysuru Expressway, shocking road rage video surfaces
+Three men have been arrested in connection with the incident after a complaint was filed by the driver.
 
-## Oil price today: Crude benchmarks inch higher as focus shifts to supply, demand and Hormuz shipments
-Oil prices saw a slight increase Tuesday after a tanker was struck near the Strait of Hormuz. This incident raised security concerns on a vital global oil shipping route. However, market gains were limited as traders focused on rising crude supplies. The United Arab Emirates and OPEC+ have agreed to
+## Ethanol blending in fuel: What Brazil does, and where other countries stand
+Currently, blends up to E30 are more common in Brazil, though reports say the country is looking to increase the cap.
 
-## 'Growth Gems' biz to power Mahindra's next leap
-Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These "Growth Gems" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and ae
+## ‘Brought two nations closer’: PM Modi's big praise for Biju Patnaik in Indonesia
+Narendra Modi pointed out that Biju Patnaik safely brought Indonesia's then-Prime Minister Sutan Sjahrir and Vice President Mohammad Hatta to India
 
-## Gujarat 2008 blasts: HC upholds death sentence for 38 convicts; life term for 11
-The special court’s 2022 order also marked the first time an Indian court awarded the death penalty to 38 convicts in a single case
+## Assam CM Himanta Biswa Sarma assures stringent measures against drug menace
+Minister Pijush Hazarika told the state assembly that 14,823 cases were filed in the state under the NDPS Act between 2021 and 2025
 
-## Prashant Kishor's bet on Nitin Nabin's bastion in focus: TMC MP calls it 'dhamaka'; BJP downplays bid
-Prashant Kishor's victory in this seat would be a big boost for the Jan Suraaj Party, which drew a blank in the Bihar Assembly elections last year.
+## Wayanad landslide LIVE updates: Two killed, 7 missing after landslide hits tunnel project; heavy rain alerts in Kerala
+Wayanad landslide LIVE updates: The landslide, which occurred at Kalladi near Meppady, hit a tunnel project underway, trapping several workers. Seven of them remain missing.
 
-## Ahmedabad blasts: HC upholds death penalties, orders higher victim compensation
-A bench of Justice AY Kogje and Justice SJ Dave heard appeals against the 7,015-page special court judgment
+## Red alert issued in Kerala's Wayanad as landslide kills one amid heavy rain
+The alert was issued at 12.30 pm after the landslide at the Kalladi tunnel project site in Wayanad at around 11 am.
 
-## Newlywed who died in Delhi's Lodhi Road hid abuse for weeks, ‘hoped job would end taunts’, says brother
-The brother alleged that she was repeatedly taunted for not bringing sufficient household items from her parental home.
-
-## India, Indonesia seal BrahMos, Astra missile deals; deepen strategic partnership
-Indonesia’s President Prabowo Subianto said both sides want an Indo-Pacific region that is open and transparent, with an order-based international law.
-
-## Baruipur rape-murder: Accused took victim to shack where two others were waiting, say police
-Incidentally, the preliminary post-mortem findings indicate ante-mortem drowning, which means the victim was alive when she was thrown into the water.
-
-## Big win for Cockroach Janta Party as Delhi HC orders unblocking of its X account: ‘Concern no longer relevant’
-The government told the court that the CJP X account was blocked light of the NEET re-exam as certain posts “could have created chaos” among students.
-
-## Bengaluru man held for murder of 11-month-old daughter; forensic evidence exposes cover-up
-His wife, who is also under investigation, has not been traced despite police notices directing her to appear for questioning.
-
-## Even Donald Trump cannot bend football to his will
+## ED raids 5 Kolkata locations over Trinamool funds, Abhishek Banerjee’s chartered flights
 
 
-## NEET-UG 2027 in 1,000 centres over 5-6 days, ‘top to bottom’ NTA revamp
+## C Raja Mohan writes: Beyond US and China, India and others are building a ‘G Minus Two’ for Indo-Pacific
 
 
-## After crackdown, U-turn: Maharashtra to legalise bike taxis from Aug 1, domicile must for drivers
+## University of Hyderabad opens UG, Integrated PG admissions at uohyd.ac.in; apply by July 21
 
 
-## ‘Whose tears were these, Cristiano’? Portugal’s press turns on Ronaldo
+## ‘Go back’ slogans for rebel TMC MP Saayoni Ghosh in town on edge after child’s rape-murder
 
 
-## No bail to 2020 Delhi riots accused Athar Khan; HC says ‘can influence witnesses’
+## 116-year-old climbs 3,000 Tirumala steps, wins hearts, earns praise from Andhra CM
 
 
-## India renews US lobbying contract with Trump aide Jason Miller’s firm
+## Before Ketan’s killing, did Siya and Chetan secretly marry? Police investigate
 
 
-## Insurer’s ‘hidden illness’ excuse backfires: Consumer court orders Rs 50.60 lakh payout
+## Why Channi is emerging as a new power centre in Punjab Congress politics
 
 
-## In Mumbai’s deluge, a lesson: You can’t engineer your way around water systems
+## 10 years after LPG death, court awards Rs 7 lakh to Nagpur family
 
+
+## Hong Kong yuan facility to expand 150% to US$73.6 billion to meet international demand
+Hong Kong will substantially increase its yuan facilities for banks from this Friday, while the city will also introduce a new electronic fixed income and currency (FIC) trading system as part of its latest efforts to promote yuan trading, according to local market regulators on Tuesday. Hong Kong M
+
+## To boost manufacturing, India need not choose between Japan and China
+Last week, Japanese Prime Minister Sanae Takaichi led a business delegation to New Delhi for the 16th India-Japan annual summit. During last year’s summit in Tokyo, Takaichi’s predecessor, Shigeru Ishiba, and Indian Prime Minister Narendra Modi outlined the Japan-India Joint Vision for the next deca
 
 ## Zhipu AI, MiniMax shares to provide gut check for Hong Kong investors as lock-ups end
 Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and MiniMax. Meanwhile analysts warned of rising fears of a drain on liquidity as ma
@@ -153,11 +159,11 @@ Singapore is the world’s most expensive city for luxury spending for a fourth 
 ## ‘Real-world’ competition tests students’ financial literacy and teamwork
 A few pages of business information, a blank sheet of paper and a room of senior executives waiting for answers – that is where the Global Finals of the annual HSBC/HKU Business Case Challenge begins. The latest event held in Hong Kong, supported by The Hongkong Bank Foundation – the charity arm of 
 
-## Hong Kong’s IPO surge
-–
+## Europe Is Struggling to Lead NATO
+Germany and France are at the center of a clash over the alliance’s future.
 
-## Beijing unveils policy enhancements to give ‘vitality’ to Hong Kong markets
-Mainland China’s foreign reserves would continue to increase asset allocation in Hong Kong, providing further momentum to the city’s capital market development, the governor of the People’s Bank of China (PBOC) said on Tuesday. Speaking at the Hong Kong FIC & Bond Connect Summit, Pan Gongsheng unvei
+## Everyone Wants in on Brazil’s Rare Earths
+But is Brasília ready to meet the moment?
 
 ## Erdogan Has Laid a Trap in Ankara
 No matter what happens at the NATO summit, the Turkish strongman wins.
@@ -176,12 +182,6 @@ An anti-Abraham Accords is taking shape. That would be a big mistake.
 
 ## War Has Become Pointless
 Military conflict has always existed. It’s just stopped making sense.
-
-## The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says
-Sen. Tammy Duckworth tells FP why she is traveling to Taiwan.
-
-## Jimmy Carter Knew What Ails America
-One of history’s most misunderstood speeches is also one of its most important.
 
 ## Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’
 The affirmations come after an Indonesian minister raised the idea of imposing a levy on vessels passing through the vital chokepoint.
@@ -255,29 +255,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Explosions heard in Syria’s Damascus during French President Macron’s visit
-Television footage shows plumes of smoke rising in the sky; cause of the blasts not immediately clear.
+## The Responsibility to Protect doctrine can be resurrected
+The legal norm has been manipulated and forgotten. But today it is needed more than ever
 
-## NATO’s Turkiye summit live: Trump, leaders to meet in Ankara
-Defence spending and support for Ukraine's military needs are expected to top the agenda of summit in Turkish capital.
+## Bangladesh landslides kill nine, including eight Rohingya in refugee camp
+Hillsides collapse at four locations at camps in Cox's Bazar in southeastern Bangladesh amid monsoon rains.
 
-## France’s Court of Appeal to rule on Le Pen conviction – what it’s all about
-The far-right leader could be prevented from running for president in 2027 if embezzlement charges are upheld.
+## Ukrainian drones hit Russian fuel tankers
+Ukrainian drones hit Russian fuel tankers
 
-## NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?
-Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.
+## What is the new Gaza administration as Hamas dissolves government?
+The NCAG will oversee civilian affairs such as health and education, as well as security.
 
-## China sentences former local official to death in $324m corruption case
-Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.
+## UK High Court to rule in Prince Harry’s Daily Mail privacy case
+UK High Court to rule on a privacy case brought by Prince Harry against Daily Mail publisher.
 
-## Palestine weekly: One thousand days of genocide in Gaza
-Gaza marks 1,000 days of Israel's genocidal war, with at least 1,072 killed since October 'ceasefire'.
+## Explosions in Damascus during Macron visit: What we know
+Blasts occurred near hotel French president was reportedly staying in shortly after he departs for presidential palace.
 
-## Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve
-Belgium midfielder Nicolas Raskin said his side’s win felt like a measure of justice after FIFA’s decision on Balogun.
+## Syria’s capital rocked by blasts during Macron visit
+Syria’s capital rocked by blasts during Macron visit
 
-## ‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims
-Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially or completely blinded by pellet shotguns.
+## USA crashes out after 4–1 defeat to Belgium
+Belgium thrashed the USA 4–1 to knock the host nation out of the World Cup, leaving home fans stunned.
+
+## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
+DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
@@ -300,8 +303,8 @@ As GST enters its tenth year, perhaps the debate should move beyond tax rates an
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
 
-## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
-Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
+## NFRA chief declines comment on Rajesh Exports' SEBI submission, says probe process is systematic
+National Financial Reporting Authority (NFRA) Chairperson Nitin Gupta on Tuesday declined to comment on claims made by Rajesh Exports regarding the submission of records to market regulator SEBI, saying the matter falls within SEBI's jurisdiction.
 
 ## Sebi reintroduces open mkt share buyback from Aug 1
 Sebi has reintroduced open-market share buybacks through stock exchanges starting August 1. Companies can now repurchase their own shares using regular trading mechanisms without a dedicated window. The execution period for these buybacks is capped at sixty-six working days from the offer opening. T
@@ -323,7 +326,4 @@ Falling global crude oil prices are giving the Reserve Bank of India (RBI) and s
 
 ## Five years of the Ministry of Cooperation: The next phase of India's cooperative revolution
 Five years after its creation, the Ministry of Cooperation is poised for a new phase focused on knowledge sharing, urban cooperatives, women-led institutions, youth engagement and innovative financing.
-
-## India, Australia set to seal uranium supply pact during PM Modi’s visit
-Discussions will also cover critical minerals, cybersecurity, and clean energy. This follows a decade-old framework and aims to deepen economic ties, building on the landmark ECTA trade agreement which has already boosted bilateral trade to $54.4 billion.
 
