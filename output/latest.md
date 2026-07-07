@@ -1,163 +1,157 @@
 # AION Intelligence
 
-## China fires ballistic missile into Pacific nuclear-free zone
-Submarine-launched projectile carrying dummy warhead draws condemnation from Japan, Australia and New Zealand
+## FirstFT: How Europe would fight without America
+Also in today’s newsletter: HSBC’s private credit exposure and Burnham says no to Treasury split
 
-## Top Fed official backs Kevin Warsh’s rethink of forward guidance
-Christopher Waller sides with central bank’s new chair in call for revamping communication to market
+## UAE’s Adnoc strikes $1bn deal for Shell’s South African fuels business
+Acquistion of 580 service stations and other assets marks latest overseas expansion by Adnoc subsidiary
 
-## Samsung boasts third straight quarter of record profit on AI demand
-High memory chip prices fuel April to June earnings
+## Masa Son’s greatest gamble
+The SoftBank founder has bet the house on AI
 
-## Burnham urged to end freeze in salary threshold for student loan repayments
-MPs accuse ministers of mis-selling finance to young people
+## Andy Burnham rules out splitting Treasury to avoid disruption
+Likely next prime minister has been rethinking Britain’s economic levers to promote regional growth
 
-## Platner to ‘reflect’ on Senate campaign after sexual assault allegations
-Populist Democratic candidate denies accusation as deadline looms to replace him on the ballot
+## How far can a ‘Messi strategy’ get Argentina?
+A team shaped around the 39-year-old relies on controlled possession
 
-## Canada chooses Germany’s TKMS for landmark submarine contract
-Joint German-Norwegian team wins multibillion-dollar deal as Ottawa pivots away from US
+## Labour and the Tories need to outflank the extremists
+Kemi Badenoch and Andy Burnham must remember that elections are not fought and won on issues of culture alone
 
-## Honeywell spin-off targets AI supply chain with $14.5bn deal for Element
-Deal will create a leading advanced materials company with a combined enterprise value of roughly $29bn
+## How to stop AI becoming the enemy of younger workers
+‘Seniority-biased’ hiring patterns in South Korea carry a lesson for the rest of the world
 
-## Toronto nude spot emerges as unlikely flashpoint over Canada investment
-Airport expansion crucial to $1tn foreign investment plan threatens the birthplace of country’s gay pride movement
+## EU to delay pre-authorised travel system after border chaos
+US-style pre-checks unlikely to be rolled out this year
 
-## Who started it?
-CLSA offers an interesting sell-side take on some recent conflicts
+## Growing UK pension surpluses fuel debate over what to do with excess funds
+Corporate defined benefit schemes have seen an improvement in funding levels since 2019 thanks to rising gilt yields
 
-## Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO
-Situational Awareness joins UK investor Baillie Gifford backing the South Korean memory maker’s American debut
+## London’s Tube nears a decade without new air-conditioned trains
+The capital is experiencing its third heatwave of the year this week, with temperatures forecast to reach 34C
 
-## EasyJet’s sale could be surprisingly good for its rivals
-Budget airline will comfort its competitors if the destination remains largely the same
+## Retailers warn over potential scale of Burnham’s proposed warehouse tax
+Prospective UK premier wants to fund business rates cut for pubs, clubs and music venues by placing higher levies on warehouses and other large commercial sites
 
-## The next frontier for defence companies is the deep blue sea
-Countries have a whole host of relatively new vulnerabilities lying on the seabed
+## FIIs return, crude eases: Markets open higher with Nifty at 24,453
+The Sensex opened at 78,461.16 against its previous close of 78,285.07
 
-## China steps up oil purchases from Middle East as prices fall
-Move comes as Saudi Arabia cuts pricing on exports to Asia to 6-year low
+## Nvidia server delay report sends Asian tech stocks sliding
+The stock declines showed investors are wary of any potential negative developments after big run-ups in AI-related stocks
 
-## IDFC FIRST Bank launches EPFO-integrated PF payment services for businesses
-The bank said the service will help businesses improve cash flow management and ensure timely statutory compliance
+## Iran missiles reportedly hit ships in Hormuz, testing US talks
+The attacks come as US President Donald Trump is set to head to a NATO leaders’ summit in Turkey
 
-## AAI builds a new runway, expands into the pilot training business
-Move aligns with India’s projected need for 30,000 pilots in 15-20 years
+## Indian stocks to open higher on positive global cues
+Ponmudi R, CEO of Enrich Money, said Indian equities are expected to trade with a constructive bias, supported by favourable global cues, resilient domestic fundamentals and improving investor sentiment
 
-## No reply from CEA: CERC
-CERC flags difficulties faced by Central Transmission Utility of India in granting connectivity to renewable energy developers
+## Sensex today | Stock Markets Live Updates: FIIs return, crude oil eases; Markets open higher with Nifty at 24,453
+Sensex, Nifty, Share Prices LIVE: Markets opened on a positive note on Tuesday, with the Nifty 50 trading at 24,453.80, up 23.45 points or 0.10%, after closing at 24,430.35 on Monday. The Sensex opened at 78,461.16 against its previous close of 78,285.07 and was trading at 78,345.45, a gain of 60.38
 
-## Alternative-fuel vehicles cross 40% share of India’s passenger vehicle market for first time
-Overall vehicles retail sales across segments grow 22% YoY to 25,57,234 units in June
+## Stocks surge on chip news, oil holds at pre-war levels
+The Dow Jones Industrial Average ended the day up 0.29%, while the S&P 500 jumped 0.72% and the Nasdaq Composite climbed 1.12%
 
-## How luxury cars are becoming easier to own
-Structured ownership is rewriting India’s Rs 5,000-crore luxury car market, especially in EVs
+## Stocks to watch, July 7: Cochin Shipyard, Tanfac, Central Mine, Mamata Machinery
+Here are the latest updated for Cochin Shipyard, Tanfac, Central Mine, Mamata Machinery, Zen Tech, Mobikwik, PowerGrid, Varun Beverages, Blue Jet
 
-## Pocket
+## Crude oil futures gain on reports of attacks on ships in Strait of Hormuz
+The United Kingdom Maritime Trade Operations said a tanker has reported being hit by an unknown projectile on the port side causing a fire, whilst travelling southbound
+
+## Top stocks to buy today: Stock market recommendations for July 7, 2026 - check list
+Stock market recommendations: Mankind Pharma, Bajaj Auto, UNO Minda, and Jubilant FoodWorks - Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan has identified these four as the top stocks to buy on July 7, 2026:
+
+## Stock market opens in green as Sensex jumps over 80 points, Nifty50 trades above 24,470
 
 
-## Microsoft cuts 4,800 jobs, including 1,600 at Xbox
-Microsoft said the layoffs are not AI-driven and will also spin off four game development studios as part of the restructuring
+## Oil price today: Crude benchmarks inch higher as focus shifts to supply, demand and Hormuz shipments
+Oil prices saw a slight increase Tuesday after a tanker was struck near the Strait of Hormuz. This incident raised security concerns on a vital global oil shipping route. However, market gains were limited as traders focused on rising crude supplies. The United Arab Emirates and OPEC+ have agreed to
 
-## BJP govt in Bengal started implementing promises made by party in election manifesto, says Amit Shah
-Shah said the Centre will soon complete the process of granting citizenship to refugee families, under Citizenship Amendment Act (CAA)
+## 'Growth Gems' biz to power Mahindra's next leap
+Mahindra Group is expanding into fast-growing businesses beyond its core operations. The conglomerate has set ambitious expansion targets across multiple sectors. These "Growth Gems" are positioned to benefit from structural economic trends. Mahindra Lifespaces saw profit increase seven-fold, and ae
+
+## Fuel-efficient car companies may get a new revenue stream
+
+
+## Flipkart greenlights cashing out up to 5% of vested stock options
+Flipkart's board has approved a second employee stock option liquidity event. Eligible employees can now liquidate up to five percent of their vested options. This event is estimated to be around twenty-five million dollars. Payouts to employees are scheduled to be made in August. The company's grow
+
+## Saudi Arabia effects deepest crude price cut in 26 years
+Saudi Arabia significantly reduced crude oil prices, reflecting intense competition among producers. Major Persian Gulf nations are increasing their oil output, restoring pre-war export levels. This move coincides with OPEC+ allies agreeing to further boost production targets for August. Lower oil p
 
 ## Markets rise to 10-week high, easing crude aids climb
 
 
-## Semicon 2.0 to widen chip incentives
+## Ex-IAS officer's son brutally assaults woman for refusing proposal in UP's Bithoor, arrested
+The victim's sister alleged that Devashish Nigam had been continuously pressuring her sister to marry him and had issued threats in the past.
+
+## PM Modi receives grand welcome in Indonesia, talks on defence, food security and more on cards
+Modi arrived in Indonesia on Monday, where he was welcomes with an escort by an Indonesian Air Force fighter jet and a personal reception by the President.
+
+## Acreage gap narrows as kharif sowing picks up
+Sowing of crops in the ongoing Kharif season picked up modestly over the past week, spurred by a stronger monsoon in parts of the country
+
+## Bill to revamp Hyderabad’s civic administration on anvil
+The Telangana government has proposed introducing a new bill to replace the seven-decade-old Greater Hyderabad Municipal Corporation (GHMC) Act to govern Hyderabad’s civic administration, in view of the massive expansion of the metropolitan region over the years, officials familiar with the developm
+
+## K’taka SIR supervisor’s death in accident sparks stir, work pressure alleged
+The death of a 26-year-old village administrative officer engaged in Karnataka’s special intensive revision (SIR) of electoral rolls set off overnight protests by revenue department employees, who alleged that officials assigned to the exercise were working under excessive administrative pressure
+
+## As Rains Falter, North Karnataka’s Annual Migration Begins Early
+BIDAR/BELAGAVI: The annual migration of farm workers from North Karnataka has begun weeks earlier than residents say it ordinarily would, with inadequate monsoon rainfall leaving fields unsown, newly planted crops withering and rural employment disappearing
+
+## Bypolls to 3 Rajya Sabha seats on July 24; three assembly seats to go to polls July 30
+According to ECI, nominations for the assembly bypolls will close on July 13, scrutiny on July 14 and withdrawal by July 16. The polling will take place on July 30 and counting on August 3.
+
+## Kuki cop being questioned for death of 6 abducted Naga men in Manipur
+The National Investigation Agency (NIA) is investigating the case and questioning the suspected police constable.
+
+## India news LIVE updates, 7 July 2026: Mumbai schools shut as orange alert issued, man loses wife and four children in Mankhurd building collapse, Modi gets ceremonial welcome in Jakarta, Ronaldo’s World Cup dream ends
 
 
-## Manipal Health gets Sebi nod for Rs 8,000-crore IPO
-India's IPO pipeline is gaining momentum with significant upcoming public issues. The National Stock Exchange is planning a substantial Rs 30,000-crore offering. Manipal Health Enterprises has secured approval for its Rs 8,000-crore public issue. Rentomojo also received market regulator nod for its 
-
-## Power and infra drive behind 17% credit growth to industry
-Bank lending to industry saw power sector lead growth in early FY27. Chemicals and vehicles also experienced significant increases in credit allocation. Telecommunications exposure declined, reflecting a shift in lender priorities. Overall infrastructure sector growth was positive, excluding telecom
-
-## CNG, EV make up record 40% car sales in June
+## Indian-origin man poses as ‘CIA agent’ to secure Indonesia defence deal
 
 
-## Railway minister Vaishnaw launches new train services: Check routes, extensions and details
-Railway Minister Ashwini Vaishnaw launched new train services and route extensions. These improvements enhance rail connectivity across Maharashtra, Uttar Pradesh, and Uttarakhand. New services connect Nanded to Mumbai and Tanakpur to Nanded. Existing routes were extended, and special services were 
-
-## Wall Street opens higher as AI stocks rebound; Nasdaq gains 0.8%
-Wall Street opened higher as artificial intelligence stocks rebounded strongly. Markets also assessed a planned mega share sale by SK Hynix. Oil prices edged lower after OPEC+ agreed to increase production. US Treasury yields eased, while European and Asian markets traded lower. Hong Kong's Hang Sen
-
-## 'For the first time from Oval': Donald Trump rings NYSE and Nasdaq opening bell to launch Trump Accounts
-President Trump launched a new investment program for children, "Trump Accounts," from the Oval Office, coinciding with the Republican's 2025 tax law. This initiative aims to boost equity market participation, with Treasury Secretary Scott Bessent highlighting that many American families lack stock 
-
-## Shivakumar rejects charge of govt interference in SIR, accuses Oppn of 'indulging in politics'
-Asserting that officials involved in the SIR were working under the guidance of the Election Commission of India, he said, "Let the EC probe the allegations."
-
-## Centre to unveil digital platform TribeX as national workshop on Tribal Research Institutes begins Tuesday
-The workshop will introduce TribeX, a digital learning platform aimed at preserving and promoting tribal arts, culture, and knowledge.
-
-## On camera: Lioness pins down man in Gujarat village. How he escaped
-The man, who appeared to be bleeding, remained still throughout the ordeal and at one point even gently reached out to touch the big cat
-
-## 2 Assam Rifles personnel killed in an ambush in Manipur: Official
-Manipur police in a separate statement issued on the same day said operations are underway to neutralise the militants
-
-## Apple brings card payments back to App Store in India, RuPay cards are next
-Cards on Mastercard and Visa networks can be set as a payment method to add money to the Apple Account
-
-## Who is Krishna Mohan, named Ram Temple Trust's interim general secretary after Champat Rai's resignation?
-According to the Shri Ram Janmabhoomi Teerth Kshetra Trust, Krishna Mohan is currently engaged in social service activities in Hardoi.
-
-## FDA busts racket of synthetic milk across five districts in Maharashtra
-Simultaneous raids were conducted across five districts, including Thane, Ahilyanagar, Solapur, Jalna and Pune
-
-## Married woman killed by lover over mobile chat in UP's Jaunpur; body dismembered
-Police said an argument broke out between the two over a mobile phone chat.
-
-## Cuba hit with nationwide blackout as US pressure continues
+## ‘Even if Govinda has 50 affairs, I won’t leave him’: Sunita Ahuja snaps at Shilpa Shinde
 
 
-## Delhi govt planning major administrative rejig, officers ‘in comfort zones’ in focus
+## The Odyssey first reactions: Critics hail Christopher Nolan’s ‘crowning achievement’
 
 
-## 7 vacancies in DCPCR 3 years on as Delhi eyes child protection panels in all schools
+## Bengaluru couple allegedly kill 11-month-old daughter, claim infant ‘fell from cot’
 
 
-## Delhi Confidential: On-field Huddles
+## Daily Briefing: India’s push for cleaner transport hits roadblocks amid E25 rethink, EV challenges
 
 
-## Article 370 abrogation fulfilled dream of Syama Prasad Mookerjee: PM Narendra Modi
+## Serena Williams on injury that forced Wimbledon exit: ‘Photo of the syringes…’
 
 
-## PM Narendra Modi’s three-nation tour: Defence, critical minerals on table at India-Indonesia meeting today
+## Adults can’t be subjected to parents’ custody battle, says Karnataka High Court
 
 
-## Two injured in separate lion attacks in Gujarat, says forest dept
+## Hong Kong office vacancy rates to plateau as Central hits 43-month low
+Hong Kong’s office property market is likely to see its empty spaces plateau at 14 per cent as vacancy rates in Central fell to more than a three-and-a-half-year low in June, according to JLL. The property consultancy said that although the overall vacancy rate for the office property sector fell to
 
+## Hong Kong drops to 4th costliest city for wealthy amid change in luxury spending
+Hong Kong now ranks lower among the costliest cities for rich people “living well”, with Singapore the most expensive for a fourth consecutive year, according to Swiss private bank Julius Baer. This year’s “Global Wealth and Lifestyle Report”, released by the bank on Tuesday, assessed the costs of l
 
-## ZEE5 removes ‘Satluj’ after govt cites security, IT Rules; SGPC and SAD slam move
+## Singapore named world’s most expensive city for luxury spending for fourth year in a row
+Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe. Zurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 
 
+## ‘Real-world’ competition tests students’ financial literacy and teamwork
+A few pages of business information, a blank sheet of paper and a room of senior executives waiting for answers – that is where the Global Finals of the annual HSBC/HKU Business Case Challenge begins. The latest event held in Hong Kong, supported by The Hongkong Bank Foundation – the charity arm of 
+
+## Hong Kong’s IPO surge
+–
+
+## Beijing unveils policy enhancements to give ‘vitality’ to Hong Kong markets
+Mainland China’s foreign reserves would continue to increase asset allocation in Hong Kong, providing further momentum to the city’s capital market development, the governor of the People’s Bank of China (PBOC) said on Tuesday. Speaking at the Hong Kong FIC & Bond Connect Summit, Pan Gongsheng unvei
+
+## Hong Kong inaugurates trial operation of gold clearing and settlement system
+Hong Kong inaugurated the trial operation of a gold clearing and settlement system on Tuesday, a step towards building the city into a trading hub and price-setter for the precious metal. The decision was announced at the Hong Kong FIC & Bond Connect Summit by Chief Executive John Lee Ka-chiu, who h
 
 ## Hong Kong’s pension fund suffers a loss in June but reports first-half gains
 Hong Kong’s Mandatory Provident Fund (MPF), the city’s compulsory retirement scheme covering 4.8 million members, recorded a HK$24.4 billion (US$3.12 billion) loss in June, eroding the gains it made in the first half of this year to HK$88.8 billion. On average, each MPF member saw their pension savi
-
-## Hong Kong US dollar gold futures trading hits record high ahead of clearing system launch
-Hong Kong’s gold futures trading has surged on the back of a fee waiver and as the city government presses ahead with plans to become an international trading hub for the precious metal, with volumes breaking a record on Monday. A total of 6,676 US dollar gold futures contracts were traded during th
-
-## EU should think twice before weaponising its market against China
-For much of the post-Cold-War era, the European Union understood economic interdependence as a source of mutual prosperity. Open markets, free trade and multilateral rules were regarded not merely as economic principles but as the foundations of European normative influence. That assumption is rapid
-
-## Beijing opens lithium futures to foreign traders to cement pricing power over US
-Beijing has unveiled new measures to keep its tight grip on lithium prices, in a move that may give it an edge over the US in the key material vital for electric vehicle and energy storage. Following mining endeavours worldwide to secure supplies, Chinese authorities announced they would allow offsh
-
-## China’s latest nuclear reactor goes live, first in Greater Bay Area with Hualong One tech
-China’s domestic design is fuelling a nuclear reactor-building spree in the country’s largest provincial economy of Guangdong, with a new Hualong One reactor counting down to entering commercial operation this week ahead of peak demand for electricity this summer. China General Nuclear Power Group (
-
-## Global investors pivot from access to scale in yuan operations, anchored by Hong Kong
-Global institutional investors are pivoting away from basic market entry to scaling up their yuan operations, with offshore hubs such as Hong Kong emerging as the central infrastructure for that shift, a new survey showed. The survey, conducted by HSBC and polling more than 120 institutional investo
-
-## China’s EV deliveries remain stuck in downward spiral, exacerbating industry worries
-China’s electric vehicle (EV) deliveries in June failed to match their year-on-year numbers for the sixth month in a row, even as carmakers offered promotions to attract budget-conscious consumers, exacerbating worries about Chinese EV firms’ profitability. A total of 1.04 million pure electric and 
-
-## Hong Kong targets 2026 securities law overhaul to boost Reits, IPOs
-Hong Kong will seek to amend its securities laws later this year and upgrade its listing regime in a bid to attract more companies and real estate investment trusts (Reits) to list in the city, strengthening its role as an international financial centre, government and regulatory officials told lawm
 
 ## Erdogan Has Laid a Trap in Ankara
 No matter what happens at the NATO summit, the Turkish strongman wins.
@@ -216,7 +210,7 @@ What do you do when two identities that make up your deepest self find themselve
 ## Happy 250th Birthday, America!
 Editor’s Note: Few rivalries in American history have been as consequential — or as personal — as the one between John Adams and Thomas Jefferson. The two men could hardly have been more different. Adams, the stocky and combative Massachusetts lawyer, was blunt to a fault and quick to suspicion. Jef
 
-## The Integrated Circuit and the Future of AI Leadership
+## The Integrated Circuit and the Future of American AI Leadership
 Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
 ## Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says
-Save the Children says families in and around the city of el-Obeid are facing increasingly difficult conditions.
+## Hamas dissolves civilian governing body in Gaza after 20 years
+Hamas has announced the dissolution of its civilian governing body in Gaza after nearly 20 years of administration.
 
-## Leading US Democrats withdraw support for Platner after assault allegations
-Monday's accusations are the latest in a long string of controversies surrounding the Maine Democratic Senate candidate.
+## Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan
+Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.
 
-## All to know about Ronaldo’s World Cup career as it ends in Spain loss
-The Portuguese captain became the only player to score in six different World Cups after his brace against Uzbekistan.
+## Cuba sees nationwide power blackout for third time in six months
+People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.
 
-## Late Spain goal eliminates Portugal, ends Ronaldo’s international career?
-Sub Mikel Merino scores in stoppage time to give Spain a 1-0 win over Portugal in the last 16.
+## Russia sends weapons to help Mali’s government hold off rebel siege
+The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.
 
-## Canada picks Germany’s TKMS for new submarines
-The German-owned naval shipbuilder made the bid with NATO ally Norway, beating out South Korea's Hanwha Ocean.
+## FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’
+Raphael Claus is 'one of the world's leading professional referees', FIFA says, following Trump's comments.
 
-## ‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy
-USA supporters divided on Trump's intervention and FIFA's decision to suspend striker's ban in Belgium World Cup match.
+## Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal
+Folarin Balogun's starting place, after a suspended red card, unable to influence USA, who succumb to superior Belgium.
 
-## One Phone Call, One Vanishing Red Card — The Balogun Scandal
-Al Jazeera's Basel Ghazoghli (@baselgazi) breaks down how the White House helped Folarin Balogun stay in the World Cup.
+## Venezuela earthquakes death toll jumps to more than 3,500
+Experts warn of an impending health crisis, with thousands sleeping in crowded temporary shelters.
 
-## Morocco says it has dismantled ISIL-linked cell planning attack
-Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.
+## ‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row
+Football experts, officials warn of 'dangerous precedent' set by FIFA after U-turn on red card for USA forward Balogun.
 
 ## Exclusive: ICAI seeks law backed crypto assets framework, says no divergence from RBI's position
 People aware of the matter told ETCFO that the accounting body urged a cautious, legislation backed approach to Virtual Digital Assets before the Parliamentary Standing Committee on Finance while making it clear that it neither endorsed such assets nor expressed any view contrary to the Reserve Bank
@@ -303,6 +297,12 @@ The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to add
 ## GST at 9: India Inc seeks GST 2.0 with faster ITC refunds, AI-led compliance and lower litigation
 Finance chiefs say the indirect tax reform has transformed business over the past nine years, but call for quicker input tax credit refunds, simpler compliance, consistent tax interpretation and technology-driven administration as GST enters its next phase.
 
+## Direct cash transfers to women boost savings, spending: EAC-PM
+Direct cash transfers to women boost household savings and spending effectively. Schemes in Maharashtra and Odisha showed significant improvements in savings. Monthly account balances increased substantially for beneficiaries in both states. Consumption spending also saw notable increases after thes
+
+## RBI to auction Rs 32,000 crore government bonds on Friday
+The Reserve Bank of India will auction Government of India dated securities worth Rs 32,000 crore on Friday.
+
 ## Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report
 India's market regulator is set to nearly double the number of stocks available for short selling, aiming to invigorate the cash market and steer investors from riskier derivatives. Collateral requirements are also slated for reduction. These moves follow past tightening of rules and seek to include
 
@@ -320,10 +320,4 @@ India and Japan's recent summit in Delhi has sparked concern in Beijing. Agreeme
 
 ## Banks register rise in NRI deposits under RBI's new scheme
 Banks have registered a gradual increase in the flow of overseas funds after the rollout of the Reserve Bank of India's (RBI) revised Foreign Currency Non-Resident Bank (FCNR-B) deposit scheme, and expect collections to accelerate further this month as awareness among NRIs is growing.
-
-## SEBI proposes INR-based registration fee payment for FPIs, FVCIs to simplify processes
-The Securities and Exchange Board of India (SEBI) on Friday proposed that foreign portfolio investors (FPIs) and foreign venture capital investors (FVCIs) pay registration and related fees in Indian rupees (INR), replacing the existing system of payments in US dollars (USD), according to board meeti
-
-## RBI backs crypto containment and keeps ban on table, officials tell house panel
-The Reserve Bank of India has strongly advised a prohibition strategy for crypto assets, recommending that banks and financial institutions be completely shielded from them. Officials argued that allowing exposure could legitimize speculative products with no economic benefit and pose financial stab
 
