@@ -1,67 +1,67 @@
 # AION Intelligence
 
+## Top banking watchdogs issue stark warning over AI-driven cyber attacks
+IT weaknesses could be exploited by frontier models in a ‘matter of minutes’, say ECB and ESRB
+
+## Prince Harry loses phone-hacking case against publisher of Daily Mail
+High Court in London rules against Duke of Sussex and six other claimants
+
+## Trump’s intervention hangs over World Cup as US crashes out
+Also in today’s newsletter, Zelenskyy tells the FT that Trump changed his mind about Russia-Ukraine war
+
+## Nato countries unveil billions in defence deals to mollify Trump
+Announcement comes as European allies strain to convince US president of their commitment to continent’s defence
+
+## Vale’s corporate governance battle intensifies as chair steps down
+Daniel Stieler leaves Brazilian mining group amid warnings of possible political interference in boardroom process
+
+## French far-right leader Le Pen cleared to run for president
+Appeals court shortens sentence for embezzlement but electronic monitoring could hinder her ability to campaign
+
+## SpaceX wins bullish recommendations from Wall Street banks
+Morgan Stanley gives Elon Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO
+
+## Monaco bombing suspect shot dead in Kyiv
+Ukrainian authorities say intelligence officer confessed to paying and killing Anastasia Berezovska
+
+## The space bit of SpaceX is worth $8 a share, says Morgan Stanley
+You miss all the moonshots you don’t take
+
+## London IPO candidate CFC hires ex-Direct Line chief as new boss
+Private equity-backed business is exploring strategic options including a potential listing on the LSE
+
 ## Energy transition or energy addition? What the latest data shows
 Ten takeaways from the Energy Institute’s 75th annual Statistical Review of World Energy
 
-## Explosions shake Damascus as Macron visits
-French president is first EU leader to travel to Syria since fall of Assad regime
+## Pocket
 
-## Bank of England plans to ease bank capital rule
-Officials say move is intended to boost lending and support financial markets in a crisis
 
-## Has the Iran war changed the world order? You asked, Gideon Rachman answered
-The FT’s chief foreign affairs commentator replied to reader questions in an Ask an Expert Q&A
+## MakeMyTrip launches OneCircle rewards programme with 10% points on hotel bookings
+The programme covers 13,376 properties, including hotels, homestays and villas across 134 destinations in 39 countries, with each reward point valued at ₹1 and redeemable on future stays
 
-## FirstFT: How Europe would fight without America
-Also in today’s newsletter: HSBC’s private credit exposure and Platner takes ‘time to reflect’
+## Wayanad mudslide at tunnel site leaves three dead, several missing
+Rescue teams are searching for those trapped, while officials probe whether accumulated excavated soil triggered the mudslide
 
-## Burnham warned of ‘unsustainable’ public finances by UK fiscal watchdog
-Office for Budget Responsibility’s annual report says urgent action is needed to cut spending
+## NATO unveils billions in arms deals to prove its firepower as Trump arrives in Ankara
+NATO as an organisation does not own any weapons — these are the property of the 32 member countries — but it does have a fleet of 14 AWACS early warning radar surveillance planes that are about 50 years old, along with some newer surveillance drones
 
-## Japanese wages continue to rise, boosting BoJ normalisation policy
-Uptick in wages alongside inflation is what central bank wants to see to persist with lifting interest rates
+## US trade gap jumps in May as AI investment drives capital goods imports
+Imports climbed to a record $395.3 billion, led by capital goods purchases, while exports declined, leaving trade as a drag on US economic growth for the second consecutive quarter
 
-## SpaceX wins bullish recommendations from Wall Street banks
-Morgan Stanley gives Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO
+## SBI eco research team says time opportune to revise priority sector lending guidelines
+The RBI had devised PSL mechanism in 1972 to ensure credit flow to underserving sectors
 
-## Top banking watchdogs issue stark warning over AI-driven cyber attacks
-IT weaknesses could be exploited by frontier models in a ‘matter of minutes or hours’, say ECB and ESRB
+## L&W Constructions Private Limited highlights Bengaluru Court ruling in dispute involving Lee Kim Tah suit against Woh Hup nominee directors
+L&W Constructions Private Limited highlights Bengaluru Court ruling in dispute involving Lee Kim Tah suit against Woh Hup nominee directors
 
-## Microsoft to axe 4,800 jobs as it resets Xbox
-Gaming unit under pressure from weak margins and the industry’s sharp hardware downturn
+## Piramal Pharma's FY2026 Annual Report showcases global scale, innovation-led growth and sustainability milestones
+Piramal Pharma's FY2026 Annual Report showcases global scale, innovation-led growth and sustainability milestones
 
-## Qatari gas tanker hit in Strait of Hormuz
-Al Rekayyat comes under fire close to coast of Oman
+## India's economy passed the Iran war test. Could El Nino spoil the party?
+Economists say that the world’s fastest growing economy may even end up clocking a 7% GDP growth number this year. But, domestically a poor monsoon caused by El Nino is painting a grim picture for inflation. Is the worst really over for the Indian economy?
 
-## Samsung shares tumble 10% despite record quarterly profit from AI boom
-Investor concerns about massive investments outweigh April-to-June earnings fuelled by high memory chip prices
-
-## Google and XTX back German fusion start-up as nuclear bets proliferate
-Proxima Fusion valued at €2.4bn in €400mn funding round as AI boom spurs the race for energy’s holy grail
-
-## Kerala fishing boat operators seek wider consultations on Merchant Shipping Rules
-The Federation of Fishing Boat and Fishery Industries of Kerala noted that the proposed rules could have far-reaching implications and therefore should be finalized after extensive consultations with all stakeholders
-
-## Govt approves pan-India rollout of PM-SETU, clears ₹1,237 crore ITI upgrade plans
-The committee also cleared ₹1,237.58 crore in strategic investments for industry-led modernisation of ITIs.
-
-## Shawl exports surge, but Kashmir handicrafts recovery remains uneven
-Official data from the Directorate of Handicrafts, Export Promotion show exports of shawls rose to ₹588.23 crore during 2025-26 from ₹305.52 crore in the previous financial year
-
-## Reliance’s Strand Life Sciences secures Indian patent for liquid biopsy platform
-More than 1.5 million new cancer cases are estimated to occur annually, and several patients are still diagnosed at advanced stages
-
-## Blurgs AI raises $2.2 million to expand maritime intelligence platform
-The funding will strengthen Blurgs AI’s platform, expand its team and support global growth
-
-## Property title search engine Landeed to invest ₹30cr in FY27 for biz growth
-The company has so far raised around ₹100 crore from investors, including Y Combinator, Draper Associates and Bayhouse Capital
-
-## Hitachi signs MoU with TN Govt for ₹1,000 crore expansion of Chennai, Chengalpattu facilities
-The investments, planned over the next 3-5 years, are expected to create 1,000 additional high-quality technology jobs
-
-## Lakshadweep aims to increase annual tuna production to 50,000 tonnes in 5 years
-Aimed at creating livelihood opportunities for island fishing communities, the plan envisages a range of proposals, including expansion of deep-sea tuna fishing, mariculture, seaweed farming and infrastructure development.
+## China weighs curbs on overseas access to their advanced AI models: Report
+Chinese officials are discussing restricting overseas access to advanced artificial intelligence models. These talks involve major technology firms like Alibaba and ByteDance. The government views cutting-edge AI as a strategic national asset amid global competition. Discussions also covered strengt
 
 ## The biggest hurdle in India's chip race isn't the plan—it's execution
 India's semiconductor strategy draws on proven Asian models for growth. Execution, not strategy, presents the nation's primary challenge now. Developing skilled workers and strengthening local supply chains are crucial steps. The country focuses on outsourced assembly and mature process nodes. Meeti
@@ -81,59 +81,56 @@ The disruption to LNG shipments through the Strait of Hormuz during the Iran con
 ## IIM campus, UPI, AI & more: PM Modi heralds 'golden chapter' of India, Indonesia ties
 India and Indonesia are enhancing cooperation in defense and maritime security. Discussions covered trade, energy, and critical minerals for future growth. Both nations agreed to boost technology sharing and startup collaborations. Educational ties will strengthen with an Indian Institute of Managem
 
-## Rupee recovers 15 paise to 95.28 against US dollar in early trade
-The Indian rupee opened stronger against the US dollar on Tuesday. Lower crude oil price expectations and easing Middle East tensions improved market sentiment. Saudi Arabia's decision to cut oil prices for Asian buyers added to the positive mood. Foreign institutional investors remained net buyers 
+## Bangladeshi man who entered India to meet wife, daughter detained in Assam: Cop
+Preliminary investigation revealed that he entered the country through an unauthorised route along the India-Bangladesh border from Sribhumi district in Assam
 
-## Kospi's AI party over? South Korean benchmark tumbles 7%, sell-side sidecar activated
-South Korean stocks experienced a significant decline on Tuesday. Investors rushed to secure profits after strong earnings reports were released. Heavyweight technology stocks led the broad sell-off across the market. This sharp reversal followed a period of record highs driven by AI optimism. The m
+## 'Chose to remain silent as...': Champat Rai's first remark on Ram Temple donation row
+Champat Rai urged everyone to wait for the SIT's final decision, saying that “appropriate responses” should be given “only after investigation is completed”.
 
-## Viral video leads to arrest of 3 in Bengaluru-Mysuru expressway road rage case
-Police have arrested three men, seized two vehicles allegedly used in the incident and are searching for two others
+## Flight operations hit in Delhi, Mumbai due to rains | Check airlines' advisories
+Air India has cautioned passengers that adverse weather could affect flights operating to and from Delhi.
 
-## What caused Wayanad landslide? Kerala minister calls incident ‘man-made’
-Kerala's agriculture minister linked the Wayanad landslide to the ongoing tunnel project, citing unscientific dumping of excavated soil as a possible cause.
+## India, Indonesia strike key defence deal on BrahMos missile system
+PM Narendra Modi's visit to Indonesia will be followed by state visits to Australia and New Zealand as India tries to build its influence in the region
 
-## Family with children attacked by mob on Bengaluru-Mysuru Expressway, shocking road rage video surfaces
-Three men have been arrested in connection with the incident after a complaint was filed by the driver.
+## 15,000 people to march to Vidhan Bhavan over Navi Mumbai airport naming delay
+The demand to name NMIA after DB Patil has remained one of the region’s most emotive political issues for more than a decade
 
-## Ethanol blending in fuel: What Brazil does, and where other countries stand
-Currently, blends up to E30 are more common in Brazil, though reports say the country is looking to increase the cap.
+## Why Pakistan-occupied Kashmir is migraine for Rawalpindi
+These incidents belie Pakistan’s claims of championing the cause of Indian Kashmiri Muslims while it ill-treats Kashmiris in its own backyard.
 
-## ‘Brought two nations closer’: PM Modi's big praise for Biju Patnaik in Indonesia
-Narendra Modi pointed out that Biju Patnaik safely brought Indonesia's then-Prime Minister Sutan Sjahrir and Vice President Mohammad Hatta to India
+## 2 people killed, 7 missing in mudslide near tunnel project in Kerala’s Wayanad
+CCTV footage from a nearby shop showed the debris sweeping away over half a dozen vehicles, including a tanker truck, and bystanders
 
-## Assam CM Himanta Biswa Sarma assures stringent measures against drug menace
-Minister Pijush Hazarika told the state assembly that 14,823 cases were filed in the state under the NDPS Act between 2021 and 2025
+## Truck swept, people run for life: Video shows moment when landslide hit Wayanad
+As per reports, at least seven people are confirmed to have gone missing due to the landslide, while seven others have been rescued and are now injured.
 
-## Wayanad landslide LIVE updates: Two killed, 7 missing after landslide hits tunnel project; heavy rain alerts in Kerala
-Wayanad landslide LIVE updates: The landslide, which occurred at Kalladi near Meppady, hit a tunnel project underway, trapping several workers. Seven of them remain missing.
-
-## Red alert issued in Kerala's Wayanad as landslide kills one amid heavy rain
-The alert was issued at 12.30 pm after the landslide at the Kalladi tunnel project site in Wayanad at around 11 am.
-
-## ED raids 5 Kolkata locations over Trinamool funds, Abhishek Banerjee’s chartered flights
+## Prince Harry loses privacy case against Daily Mail publisher
 
 
-## C Raja Mohan writes: Beyond US and China, India and others are building a ‘G Minus Two’ for Indo-Pacific
+## After Portugal’s World Cup exit, Madeira gives Ronaldo a spectacular farewell
 
 
-## University of Hyderabad opens UG, Integrated PG admissions at uohyd.ac.in; apply by July 21
+## From the Urdu Press: ‘BJP under pressure over Ram temple theft row’, ‘Prashant Kishor’s fate in the balance’
 
 
-## ‘Go back’ slogans for rebel TMC MP Saayoni Ghosh in town on edge after child’s rape-murder
+## Talaq-e-Hasan valid when pronounced as per Muslim law: Allahabad High Court
 
 
-## 116-year-old climbs 3,000 Tirumala steps, wins hearts, earns praise from Andhra CM
+## Declared dead, family jailed, woman walks back: Maharashtra CM Fadnavis admits police blunder
 
 
-## Before Ketan’s killing, did Siya and Chetan secretly marry? Police investigate
+## Rath Yatra abroad: At odds with ISKCON, Puri temple admin writes to President, PM
 
 
-## Why Channi is emerging as a new power centre in Punjab Congress politics
+## Trump likely to back F-35 jets sale to Turkey despite Netanyahu’s power balance warning
 
 
-## 10 years after LPG death, court awards Rs 7 lakh to Nagpur family
+## Can Marine Le Pen run in France’s 2027 presidential election? Court says yes, but with an ankle bracelet
 
+
+## China extends gold-buying binge to 20th month amid Beijing’s de-dollarisation push
+China’s central bank extended its gold-buying streak to a 20th straight month in June, adding 480,000 troy ounces (14.93 tonnes) to its reserves as policymakers continued to accumulate bullion amid de-dollarisation discussions. The People’s Bank of China said gold holdings rose to 75.44 million troy
 
 ## Hong Kong yuan facility to expand 150% to US$73.6 billion to meet international demand
 Hong Kong will substantially increase its yuan facilities for banks from this Friday, while the city will also introduce a new electronic fixed income and currency (FIC) trading system as part of its latest efforts to promote yuan trading, according to local market regulators on Tuesday. Hong Kong M
@@ -145,7 +142,7 @@ Last week, Japanese Prime Minister Sanae Takaichi led a business delegation to N
 Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and MiniMax. Meanwhile analysts warned of rising fears of a drain on liquidity as ma
 
 ## Peak oil: China’s crude demand set to fall as EV bets ease Hormuz fears
-China’s crude oil demand is expected to peak this year, according to executives from the country’s largest oil firm, a scenario set to further reshape the global energy market following the Strait of Hormuz crisis. The world’s top oil importer would record slowing demand as reductions in the use of 
+China’s demand for crude oil is expected to peak in the coming years, a scenario set to further reshape the global energy market following the Strait of Hormuz crisis. The shift was due to Beijing’s massive efforts to develop renewable energy while also revamping the country’s transport sector by be
 
 ## Hong Kong office vacancy rates to plateau as Central hits 43-month low
 Hong Kong’s office property market is likely to see its empty spaces plateau at 14 per cent as vacancy rates in Central fell to more than a three-and-a-half-year low in June, according to JLL. The property consultancy said that although the overall vacancy rate for the office property sector fell to
@@ -155,9 +152,6 @@ Hong Kong now ranks lower among the costliest cities for rich people “living w
 
 ## Singapore named world’s most expensive city for luxury spending for fourth year in a row
 Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe. Zurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 
-
-## ‘Real-world’ competition tests students’ financial literacy and teamwork
-A few pages of business information, a blank sheet of paper and a room of senior executives waiting for answers – that is where the Global Finals of the annual HSBC/HKU Business Case Challenge begins. The latest event held in Hong Kong, supported by The Hongkong Bank Foundation – the charity arm of 
 
 ## Europe Is Struggling to Lead NATO
 Germany and France are at the center of a clash over the alliance’s future.
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## The Responsibility to Protect doctrine can be resurrected
-The legal norm has been manipulated and forgotten. But today it is needed more than ever
+## Two mothers, each certain a viral Gaza prisoner photo shows her son
+Two Palestinian mothers believe a viral image of a bound Gaza detainee shows their missing son.
 
-## Bangladesh landslides kill nine, including eight Rohingya in refugee camp
-Hillsides collapse at four locations at camps in Cox's Bazar in southeastern Bangladesh amid monsoon rains.
+## At least nine police officers killed in southwestern Pakistan attack
+Shahid Rind, a spokesman for the Balochistan government, says 15 assailants killed in 'clearance operations'.
 
-## Ukrainian drones hit Russian fuel tankers
-Ukrainian drones hit Russian fuel tankers
+## Displaced Gaza farmers turn to dirt near tents to grow crops
+Israel has devastated 95 percent of Gaza's farms, engineering starvation and aid dependency, experts warn.
 
-## What is the new Gaza administration as Hamas dissolves government?
-The NCAG will oversee civilian affairs such as health and education, as well as security.
+## Argentina vs Egypt LIVE: FIFA World Cup 2026
+Live coverage and text updates as Argentina play Egypt in the round of 16 knockout stage.
 
-## UK High Court to rule in Prince Harry’s Daily Mail privacy case
-UK High Court to rule on a privacy case brought by Prince Harry against Daily Mail publisher.
+## France appeals court opens door for Le Pen presidential run, with ankle tag
+Paris appeals court rules Le Pen guilty of misusing public funds but reduces the ban on her holding public office.
 
-## Explosions in Damascus during Macron visit: What we know
-Blasts occurred near hotel French president was reportedly staying in shortly after he departs for presidential palace.
+## Ships attacked in the Strait of Hormuz: What that means for ongoing talks
+While marine traffic in Hormuz has steadily risen, vague provisions on the strait remain contentious in peace talks.
 
-## Syria’s capital rocked by blasts during Macron visit
-Syria’s capital rocked by blasts during Macron visit
+## Watch World Cup Day 26: Co-hosts USA and Ronaldo’s Portugal eliminated
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## USA crashes out after 4–1 defeat to Belgium
-Belgium thrashed the USA 4–1 to knock the host nation out of the World Cup, leaving home fans stunned.
+## What does Trump want from his NATO allies?
+What does Trump want from his NATO allies?
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
