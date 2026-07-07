@@ -1,67 +1,73 @@
 # AION Intelligence
 
-## Trump signals reversal of Turkey F-35 ban
-US president strikes friendlier tone with Turkish counterpart than Nato allies
+## Farage by-election gambit undercut by rivals’ refusal to participate
+Kemi Badenoch said Conservatives would not field candidate in ‘fake’ vote that comes amid growing scrutiny of Reform UK leader
+
+## Saudi Arabia blocking payments to UAE accounts, businesses say
+Transfers from kingdom to companies and individuals in Dubai repeatedly returned or delayed in a sign of economic tension
+
+## Nigel Farage tries to ‘take back control’
+Why the Reform party leader is quitting as an MP
+
+## A quick guide to Nigel Farage’s gamble
+Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
+
+## High-spending online gamblers will face financial checks in UK
+People with net deposits of more than £1,000 a day will be assessed by companies for risk of vulnerability
+
+## Tories and Labour try to call Nigel Farage’s bluff
+Mainstream parties denounce Reform UK leader’s by-election ‘gimmick’ and decide not to stand against him
+
+## Trump threatens to remove all US troops from Europe
+US president revives calls for his country to take over Greenland
+
+## Nigel Farage quits as MP to force by-election
+Tories and Labour refuse to participate in contest as Reform UK leader denies wrongdoing over donations
+
+## How AI is changing the world of retail investment
+Excessive regulation could hamper innovation and harm savers
+
+## Disney accuses US media regulator of trying ‘to sit in the editor’s chair’
+Media giant claims FCC investigation into talk show ‘The View’ could violate First Amendment of American constitution
+
+## Hertz gets a helping hand from an unlikely source: short sellers
+Convertible bonds should keep the rental car company out of immediate trouble
+
+## Airbus to make first foray into engine manufacturing with hydrogen tie-up
+European aircraft maker to form joint venture with Germany’s MTU Aero Engines to take on China and US rivals
 
 ## Top banking watchdogs issue stark warning over AI-driven cyber attacks
 IT weaknesses could be exploited by frontier models in a ‘matter of minutes’, say ECB and ESRB
 
-## South Africa suspends funds for Johannesburg over ‘wasteful’ spending
-Africa’s richest city one of dozens of municipalities to be hit over alleged legal breaches
-
 ## Bank of England plans to ease capital rule for UK lenders
 Officials say move intended to boost lending and support financial markets in a crisis
-
-## Explosions shake Damascus as Macron visits
-French president is first EU leader to travel to Syria since fall of Assad regime
-
-## Farage bids to be ringmaster of his own circus
-In forcing a by-election, the Reform UK leader is making the only smart move available to him
-
-## Trump revives calls for US to control Greenland
-US president threatens to withdraw all troops from Europe as he says he wants to take over Danish-owned Arctic island
-
-## French far-right leader Le Pen cleared to run for president
-Appeals court shortens sentence for embezzlement but she must now decide whether to run
 
 ## Terry Smith accuses Unilever of misleading him over $66bn food deal
 Veteran fund manager says management told him before the spin-off there would not be any more major asset sales
 
-## SpaceX wins bullish recommendations from Wall Street banks
-Morgan Stanley gives Elon Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO
+## Airlines seek GST on ATF at 5% with full tax credit to help cut costs
 
-## Prince Harry loses phone-hacking case against publisher of Daily Mail
-High Court in London rules against Duke of Sussex and six other claimants
 
-## Vale’s corporate governance battle intensifies as chair steps down
-Daniel Stieler leaves Brazilian mining group amid warnings of possible political interference in boardroom process
+## Bombay HC rejects Atyati’s plea to bar Cognizant from using ‘C’ logo
+The court ruled there is distinct separation of nature and scale of services offered and the class of customers who avail these services
 
-## The space bit of SpaceX is worth $8 a share, says Morgan Stanley
-You miss all the moonshots you don’t take
+## Knowingly, deliberately target ads featuring children, inaccurate: Meta on CSEAM issue
+The post came after the MeitY on July 4 issued a notice ordering Instagram to disable all ads and content promoting and facilitating access to CSEAM
+
+## Inspira Global completes acquisition of controlling stake in Restaurant Brands Asia
+The deal makes Inspira the new promoter of the company, which operates Burger King in India and Popeyes in Indonesia
+
+## Trent shares crash 12.4% at close as Q1 update disappoints analysts
+The stock opened at ₹3,080, hit a low of ₹2,920, and saw heavy selling pressure with sell orders outpacing buy orders by roughly 72:28
+
+## Rupee logs biggest single-day gain in over 3-weeks; closes below 95-mark
+The Indian unit closed 44 paise stronger at 94.96 per US dollar
+
+## RBI lending curbs dent proprietary trading, drag derivatives turnover lower
+Average daily derivatives turnover on the NSE and BSE down 25% and 30%, respectively, over the last four trading sessions
 
 ## Modi, Prabowo push deeper cooperation on critical minerals and rare earths
 The two countries also signed nearly a dozen agreements covering critical minerals, technology, food security, medicines and maritime security during Modi’s visit to Jakarta
-
-## PM Council study blames slow battery adoption for solar-induced stress
-The ultra-low prices of electricity during midday (average ₹1.11 a kWhr in May) and high igh prices during the nights (₹9.71) shows the “stress”
-
-## ‘Sustainability in data centres is a minimal requirement for clients’
-Companies will have to rehaul their conventional cooling systems to more sustainable alternatives, says Thiru Prakassh, Regional Data Centre Lead (APAC), OVHcloud
-
-## Fractal Selected as Preferred Services Partner in the Claude Partner Network
-Fractal Selected as Preferred Services Partner in the Claude Partner Network
-
-## 60% of organizations will adopt smaller software engineering teams by 2029: Gartner
-
-
-## AAI builds a new runway, expands into the pilot training business
-Move aligns with India’s projected need for 30,000 pilots in 15-20 years
-
-## Labour markets need state intervention
-A freely functioning labour market is a fallacy. State intervention and institutional support are essential for inclusive growth
-
-## The carbohydrate nation
-India is becoming the diabetes capital of the world before it becomes rich. The thali needs rebalancing
 
 ## India strengthens position as investment destination; FDI rises by 44% to $39 billion in 2025
 South Asia witnessed a sharp rise in FDI inflows, which climbed from $34 billion to $46 billion, largely driven by India, where inflows expanded to $39 billion, the report noted. At the same time, UNCTAD observed that project-related indicators suggested a more cautious investment environment despit
@@ -87,52 +93,52 @@ Chinese officials are discussing restricting overseas access to advanced artific
 ## The biggest hurdle in India's chip race isn't the plan—it's execution
 India's semiconductor strategy draws on proven Asian models for growth. Execution, not strategy, presents the nation's primary challenge now. Developing skilled workers and strengthening local supply chains are crucial steps. The country focuses on outsourced assembly and mature process nodes. Meeti
 
+## 'Automobile manufacturers say no difficulty with E20 fuel': Hardeep Puri
+Petroleum minister Hardeep Puri said the government was not rushing the decision on E25, adding that tests on the blended fuel were underway.
+
+## ‘2+6 is equal to?’: PM Modi, Indonesian President dive into number 8. Here's why
+Before PM Narendra Modi took the stage, Indonesian President Subianto addressed the crowd, telling them the importance of the number 8 in his life.
+
+## ‘We turned footpaths into pav bhaji stalls’: Bombay HC says Mumbai's flooding ‘our own creation’, can't blame BMC
+Bombay High Court states Mumbai's flooding issues involve more than just BMC's actions, citing encroachments and blocked drains as significant factors.
+
+## Four states sign pact to settle long-pending Narmada project dues
+Shah said the pending payments under the Narmada Award, which remained unresolved for years, had been settled amicably through consensus
+
+## Diljit Dosanjh’s Satluj was taken off Zee5 over pro-Khalistani content: Official
+The ministry of information and broadcasting (MIB) issued a takedown order to Zee5 under Section 69A of the Information Technology (IT) Act
+
+## 'Every time I hear Indian music, I find my body moving': Indonesian President during PM Modi's visit
+Indonesian President Prabowo Subianto revealed that he has “Indian DNA” while addressing a gathering during Prime Minister Modi's state visit
+
+## ‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
+‘Categorically inaccurate’: Meta responds to Instagram child abuse ads in India
+
 ## Natural History Museum in Aizawl notified as India’s 21st ‘designated repository’
 Designated repositories are mandated to keep in safe custody the biological material including voucher specimens deposited with them
 
-## Tripura govt mandates singing full version of national song in schools
-Tripura chief minister Dr Manik Saha shared a notification on X that the classes in all the schools will begin with singing the full version of the “Vande Mataram”
-
-## Operations continue in Manipur after ambush that killed 2 Assam Rifles personnel
-According to officials, the wreath laying ceremony is scheduled for Wednesday at Imphal International Airport
-
-## When Biju Patnaik rescued ex-Indonesian PM on order of Jawaharlal Nehru | Throwback
-Biju Patnaik played a death-defying role in the Indonesian National Revolution against Dutch colonial rule in 1947.
-
-## Jaipur woman gets mother 'killed' to get government job, stages road accident
-The case took a turn after the victim's brother filed a complaint alleging foul play and named his niece and others in the FIR.
-
-## Siya, Chetan's chats indicate they ‘married secretly’: Pune police in Ketan Agarwal murder case
-Goyal and Chaudhary are accused of killing 25-year-old Pune-based realtor Ketan Agarwal by allegedly pushing him off a clip at the Lohagad fort on June 18.
-
-## TribeX launched to take tribal knowledge global through digital learning platform
-The platform was unveiled by Union tribal affairs minister Jual Oram during the National Workshop on Strengthening Tribal Research Institutes in Bhubaneswar.
-
-## Calcutta HC allows Mamata-led TMC to hold rally on Wednesday
-Justice Saugata Bhattacharya directed that the rally would start from Ballygunge Phari, move along Hazra Road and end at Hazra four-point intersection
-
-## Bengal CM seeks report on ‘police lapses’ in Baruipur rape-murder probe, says lynched youth was ‘innocent’
+## After Folarin Balogun fracas, how Belgium did their talking on the pitch vs USA
 
 
-## Gul Panag reacts to Satluj removal from ZEE5: ‘Don’t stop telling difficult stories’
+## Messi, Argentina pull off heist, defeat Egypt 3-2 to qualify for quarterfinal
 
 
-## Now Badrinath donations under scanner, office staffer suspended
+## Woman stabbed multiple times inside Goa hospital
 
 
-## Trump revives Greenland push, says NATO allies ‘let us down’ as summit opens in Ankara
+## Isha Ambani, Cardi B add front row glam to Rahul Mishra’s show at Paris Haute Couture Week 2026
 
 
-## Can Mumbai’s tree roots co-exist with utilities? BMC turns to IIT, MU for answers
+## Obituary: Shapoor Zadran had you at hello
 
 
-## Ravi Mohan revokes decision to quit acting amid divorce: ‘I won’t betray my fans anymore’
+## Bobby Deol, Rakul Preet Singh join Boney Kapoor at Anshula Kapoor’s reception, see videos
 
 
-## Madhavan on GD Naidu biopic: ‘Film is a success only when India includes him in syllabus’
+## Central Railway refunds Rs 5.91 crore to passengers after Karjat-Lonavala landslide
 
 
-## After Mankhurd tragedy, BMC vows crackdown on illegal structures
+## Three tankers attacked in Strait of Hormuz in a day as tensions with Iran escalate
 
 
 ## China extends gold-buying binge to 20th month amid Beijing’s de-dollarisation push
@@ -159,6 +165,9 @@ Hong Kong now ranks lower among the costliest cities for rich people “living w
 ## Singapore named world’s most expensive city for luxury spending for fourth year in a row
 Singapore is the world’s most expensive city for luxury spending for a fourth consecutive year, as prices on items such as watches and jewellery surge around the globe. Zurich climbed to second place, edging out London, while Monaco entered the top three for the first time since the survey began in 
 
+## How Trump Lost America the World Cup
+A host is supposed to harvest the world’s goodwill, not burn it.
+
 ## Putin May Escalate, but Ukraine Is Winning
 In the ongoing battle of narratives, Kyiv’s supporters have every reason to hold the course.
 
@@ -180,32 +189,29 @@ It’s a precarious time for the world’s largest military alliance.
 ## Are U.S.-India Ties Really Thawing?
 As the two sides near a final trade deal, a few sticking points remain.
 
-## Why This Year’s NATO Summit Is Different for Ukraine
-Ukraine’s ambassador to the United States breaks it down in a new interview.
+## Not Just Rare Earths – Is This China’s Next Economic Weapon?
+China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
+
+## Whither an International Response to China’s Ethnic Unity Law?
+The conventional tools previously used to penalize China for its rights abuses – sanctions, public pressure, condemnation, institutional mechanisms, and more – have all been blunted.
+
+## China’s Submarine-launched Ballistic Missile Test Was a Message to the Pacific
+The list of countries notified in advance, as well as the timing, suggests that China’s purpose was not merely a straightforward display of military power.
+
+## As the Dalai Lama Turns 91, India and China Are Fighting for the Future of Buddhism
+With the revered Tibetan leader over 90 years old the rivalry between New Delhi and Beijing over who speaks for the Buddhist world is entering its most consequential phase.
+
+## From Partnership to Union: Australia and Fiji Sign 2 New Security Agreements
+With the Vuvale Union and the Veitacini Treaty, Canberra and Suva chart a new course for regional security.
+
+## Pakistan Ups the Ante on Indus Water Dispute With India
+There is growing eagerness in Pakistan to involve China, the other upper riparian country, more directly in the issue.
+
+## China’s Pacific SLBM Test Signals a New Phase in Undersea Nuclear Competition
+The test, likely involving the JL-3 and coming just after the United States’ 250th Independence Day, underscored China's increasingly credible sea-based nuclear deterrent.
 
 ## Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’
 The affirmations come after an Indonesian minister raised the idea of imposing a levy on vessels passing through the vital chokepoint.
-
-## Malaysia’s Upcoming State Elections: Allies Are Rivals Again
-Despite being partners at the federal level, the Pakatan Harapan and Barisan Nasional coalitions are competing to become the dominant force of tomorrow.
-
-## The Rot Within: Thailand’s Interior Ministry In Focus
-A series of recent scandals within the Ministry likely reflect tensions within the leadership of the ruling Bhumjaithai party.
-
-## China’s Closest Island to Taiwan Is a Monument to Reunification
-Pingtan is marketed as mainland China's “closest point to Taiwan.” Today, the cross-strait ties that once made the island a thriving location for exchanges have all but disappeared.
-
-## Philippine Vice President Sara Duterte Responds to Impeachment Allegations
-The 48-year-old faces charges of corruption, bribery, and an alleged plot to assassinate her rival, President Ferdinand Marcos Jr.
-
-## Philippine Senate Opens Impeachment Trial of Vice President Sara Duterte
-The 48-year-old faces charges of corruption, bribery, and an alleged plot to assassinate her rival, President Ferdinand Marcos Jr.
-
-## Luv Puri on the Unrest Roiling Pakistan-administered Jammu and Kashmir
-“The recurring protests point to accumulating grievances over governance, representation, and the relationship between the region and Pakistan's federal establishment.”
-
-## US Tariffs Won’t End Forced Labor, But They Can Change the Incentives That Drive It
-Properly designed and tied to labor-based risk, U.S. tariffs could change the incentives that sustain labor abuse, especially in China.
 
 ## Gathering Clouds: Building Digital Strategic Depth in the Compute Age
 The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digital backbone of military power and economic
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Nigel Farage resigns as MP, will run in UK by-election
-Reform UK leader Nigel Farage says he will resign as an MP to trigger a by-election and stand again.
+## French far-right leader Le Pen says will run in 2027 presidential election
+Her announcement followed a court ruling that meant she would have to wear an electronic tag while campaigning.
 
-## How much does playing in the World Cup pay?
-How much does playing in the World Cup pay?
+## Several hurt in Damascus blasts as Macron meets Syria’s Sharaa
+Several hurt in Damascus blasts as Macron meets Syria's Sharaa
 
-## Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts
-After Netanyahu's statements on Lebanese Christians were denounced in Lebanon, analysts call Israel's PM a liar.
+## Tornadoes kill 17 in central China as Typhoon Bavi looms offshore
+Severe rain and winds lash southern Guangxi and central Hubei provinces, with President Xi urging an 'all out' response.
 
-## Reform UK’s Farage resigns as MP amid funding scandal, forcing by-election
-Nigel Farage says he's 'done nothing wrong' as parliament investigates undeclared benefits he accepted from a fraudster.
+## How conflict minerals fuel war in eastern DR Congo amid US sanctions
+The US has imposed sanctions on Rwandan companies it says helped finance armed groups through the illicit minerals trade
 
-## The World Cup is exposing the contradictions of national identity
-Teams shaped by migration and diaspora are challenging exclusionary ideas of who belongs.
+## South Africans line up for jobs after exodus of foreign workers
+Many South Africans are hoping to secure the jobs left vacant by the departure of foreigners
 
-## Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know
-Footballers of African descent are often subjected to racist abuse on and off the pitch.
+## IOC lifts suspension, paves way for Russians to compete at LA 2028 Olympics
+No decision yet on whether Russia may display its flag, colours or have its anthem played at ​the Games.
 
-## Two mothers, each certain a viral Gaza prisoner photo shows her son
-Two Palestinian mothers believe a viral image of a bound Gaza detainee shows their missing son.
+## What happened in the first half of the Argentina vs Egypt World Cup match?
+Egypt score a goal and then save a Messi penalty to keep the reigning champions at bay in Atlanta.
 
-## At least nine police officers killed in southwestern Pakistan attack
-Shahid Rind, a spokesman for the Balochistan government, says 15 assailants killed in 'clearance operations'.
+## Switzerland vs Colombia LIVE: FIFA World Cup 2026 round of 16
+Live coverage and text updates from our commentary stream as Switzerland play Colombia in round of 16 knockout stage.
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
