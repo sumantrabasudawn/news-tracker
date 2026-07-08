@@ -1,34 +1,40 @@
 # AION Intelligence
 
-## US says it has launched new strikes on Iran
-Attacks come after Donald Trump told a Nato summit the ceasefire with Tehran is “over”
+## US launches second day of strikes against Iran
+Attacks come hours after Donald Trump told a Nato summit the ceasefire with Tehran is ‘over’
+
+## Oil prices rise after Washington renews conflict with Tehran
+Donald Trump says US attacks will ‘get much worse’ if Iran hits more ships
+
+## FirstFT: Trump declares US-Iran ceasefire ‘over’
+Also in today’s newsletter: US rare earths flow to Asia, and Santander axes top China banker
+
+## Trump’s surprise Ukraine shift steadies nervous Nato allies
+A summit that threatened new acrimony among the allies ended with free guns and ‘love in the room’
+
+## Starmer planning bank holiday if England wins World Cup
+Businesses argue jubilation would offset any economic setback while pubs say it would be a ‘dream come true’
 
 ## Hawkish Fed minutes indicate some support for rate increases
 Policymakers worried about inflation and ‘several’ said they did not believe current borrowing costs were restrictive
 
-## Some Fed officials saw need for future rate rises to contain inflation
-Minutes from last month’s meeting highlighted lingering concern about price pressures remaining high
+## Inflation fears mount at Warsh’s first Fed meeting
+Some Fed officials saw need for future rate rises to contain inflation
 
 ## Warsh’s minute minutes
 Downwards doc
 
-## Burnham’s economic blueprint focuses on small business and cost of living
-Plan drawn up by key adviser Miatta Fahnbulleh aims to unite different wings of Labour Party
-
-## Le Pen, Farage and the people’s verdict
-The two rightwing leaders seek salvation through the ballot box
-
-## Russia bans diesel exports in fuel crunch
-Ukrainian drone strikes on refineries have created petrol and diesel shortages and brought the war home for Russians
-
-## Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead
-Reform UK leader’s rivals are running scared, say senior party figures
+## Sizewell nuclear plant extended as part of UK’s net zero push
+Suffolk facility started running in 1995 and remains Britain’s most recently built nuclear installation
 
 ## UniCredit’s bid for Commerzbank ends with a win and a puzzle
 The market is awash with ideas on how Andrea Orcel secured nearly 18% of the German bank’s shares
 
 ## FCA charges lawyer with insider trading over Seraphine sale
 M&A solicitor who worked at Goodwin Procter’s London office accused of 5 counts of using inside information
+
+## Russia bans diesel exports in fuel crunch
+Ukrainian drone strikes on refineries have created petrol and diesel shortages and brought the war home for Russians
 
 ## FCA says lenders want to let ‘foxes guard the henhouse’ on car finance
 UK regulator alleges in court filing that lenders want to determine own liability for compensation
@@ -41,9 +47,6 @@ UK property group believes 925p a share offer by Prologis undervalues its wareho
 
 ## Scientist proposes tiny satellites to sniff out nuclear weapons in space
 Idea would help deal with danger of conflict in increasingly crowded orbits around Earth
-
-## Why the US and Iran are stuck in a cycle of tit-for-tat strikes
-Trump’s push to get ships moving through the Strait of Hormuz keeps colliding with Tehran’s resistance to cede control
 
 ## Ancient quasars deepen a major unsolved problem in astrophysics
 The Euclid space telescope has identified 31 ancient quasars, including the earliest known, challenging existing theories of black hole growth in the early universe
@@ -117,6 +120,9 @@ India’s higher education enrolment reached a record 45 million in 2023-24, whi
 ## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
 NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
 
+## ‘Don’t want to deal with Iranians anymore, they’re scum’: What Trump said on Iran
+
+
 ## Modi to meet Australian PM Albanese in Melbourne today, to discuss cooperation in Indo-Pacific region
 
 
@@ -136,9 +142,6 @@ NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Far
 
 
 ## FIFA World Cup | Disallowed Egypt goal: All VARs are equal, some more equal than others
-
-
-## Why a ‘self-critical’ Novak Djokovic keeps chasing greatness at 39
 
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
@@ -165,6 +168,15 @@ Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s su
 ## Beyond the Noise: How Quality Journalism Drives Real-World Influence
 Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
+## Trump Hands NATO a Mixed Bag
+The alliance wanted to look united. In walked Trump.
+
+## Is the U.S.-Iran Cease-Fire Over?
+Trump calls continued peace talks a “waste of time” as strikes resume.
+
+## Modi Seeks to Project Influence on Asia-Pacific Trip
+The Indian prime minister visits Indonesia, Australia, and New Zealand this week.
+
 ## Propaganda Sustains Russians Fighting in Ukraine
 Belief in Kremlin narratives dehumanizes Ukrainians and sustains the will to fight.
 
@@ -179,15 +191,6 @@ The far-right U.K. leader has been hit by multiple scandals.
 
 ## NATO’s New Enemy Is the Thermometer
 Extreme heat events are threatening the alliance’s plans.
-
-## What Will Happen to Iran’s Sea Mines?
-The overlooked technology wreaked havoc on the Strait of Hormuz—and global trade.
-
-## The Ankara Summit Declaration
-Read the text outlining agreements at the 2026 NATO summit in Turkey.
-
-## Confronting Russia’s Shadow Fleet in Broad Daylight
-The Kremlin is claiming and arming its smuggling fleet. European governments need to respond.
 
 ## India, Indonesia Put in Place a Blueprint for a Durable Strategic Partnership
 The highlight of the Indian prime minister's visit to Indonesia was the finalization of a long-pending agreement on the supply of BrahMos missile system and Astra air-to-air missiles.
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US summer travel slumps under rising fares and fuel expenses
-US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses.
+## Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show
+FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup.
 
-## Marine Le Pen cleared to run in France’s 2027 Presidential election
-A French court ruling has reopened Marine Le Pen’s path to the 2027 presidential election.
+## Family demands investigation after US man killed by ICE agent in Texas
+Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.
 
-## Trump ordered to pay E Jean Carroll $5.8m after failed appeal
-Trump ordered to pay $5.8m after the US Supreme Court rejected his appeal in the Carroll defamation and abuse case.
+## US moves to delist Syria as a ‘state sponsor of terrorism’
+President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.
 
-## Search under way for crew of Pakistani cargo plane that crashed into sea
-Rescuers have located submerged wreckage from the aircraft that disappeared as it approached Karachi.
+## Former Wisconsin judge avoids prison in ICE obstruction case
+Hannah Dugan's sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.
 
-## Five key takeaways from the NATO summit in Ankara
-Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support
+## France lose appeal against Olise’s yellow card in Paraguay World Cup clash
+If Olise is cautioned again against Morocco, he will be suspended for a potential semifinal against Spain or Belgium.
 
-## Argentina fans accused of violence, racism by Egypt, Cape Verde supporters
-Fans tell Al Jazeera Argentina supporters hurled beer bottles and abuse at them when their team scored in knockout games.
+## Deadly strikes in Gaza leave 5 dead, children wounded
+Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children.
 
-## Mass cleanup underway after severe flooding in China
-Residents and volunteers in China’s Guangxi province have begun clearing up their flooded homes.
+## Former rebel turned government ally proposes a path to peace for Sudan
+Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.
 
-## Trump says US ‘may take over Kharg Island’: Here’s what you need to know
-Kharg Island, pivotal to Iran's oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.
+## Trump departs NATO summit on older Air Force One
+Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
