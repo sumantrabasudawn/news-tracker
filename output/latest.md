@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## FirstFT: Trump declares US-Iran ceasefire ‘over’
-Also in today’s newsletter: Italy’s UniCredit close to securing control of Germany’s Commerzbank and Japan’s borrowing costs hit a 30-year high
+## US and Iran trade strikes after attacks on tankers
+Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing
 
-## Family behind top US egg producer reaped $320mn after price surge
-Descendants of Cal-Maine founder sold controlling stake near a record high after what authorities said was an effort to rig the market
+## IMF warns inflation threat looms large over global economy
+Fund raises its projections for price growth as Trump declares ceasefire with Iran is ‘over’
 
-## Apple to buy $30bn of US-made chips from Broadcom
-iPhone maker continues its attempt to curry favour with Donald Trump via investments in Colorado plant
+## Europe must have the financial power to match its economic heft
+The continent’s savings should be used to invest in its own future, not someone else’s
 
-## Nigel Farage’s rivals are ‘running scared’, says Reform
-Senior figures dismiss claims that decision to call by-election in Clacton seat has backfired
+## Foreign investors look past US uncertainty to long-term opportunity
+Overseas companies are still expanding in America even as tariffs, labour shortages and shifting policy complicate investment plans
 
 ## UniCredit secures 48% stake in Commerzbank
-Italian bank closing in on majority control of German lender after end of tender period
+Italian bank closes in on majority control of German lender after end of tender period
 
-## Outspoken Chinese economist who doubted official GDP data dies
-Gao Shanwen lauded by online commenters as ‘truth teller’ in country known for strict censorship
+## Ukraine intensifies attacks on Russian ships in Azov Sea
+Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 
-## Re-election would not put Farage in the clear
-Opposition parties refuse to stand against scandal-hit politician in Reform’s safest seat of Clacton
+## The unsustainable upward trajectory of UK debt
+Over time, if there is no tax-and-spend adjustment, the changes needed to public finances will be painful
 
-## US and Iran trade strikes after attacks on tankers
-Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ after round of tit-for-tat bombing
+## Obsessed with: tramezzini — Venice’s addictive signature snack
+They might not look like much. But these soft, crustless sandwiches are full of surprises — and just what’s needed after a day of sightseeing or festival-going
 
-## The Newton’s Cradle of credit today
-‘Technicals have not merely supported fundamental pricing this cycle — they have displaced it’
+## BBC and Channel 4 in talks to create British streaming champion
+Broadcaster’s new director-general Matt Brittin says UK needs platform to compete with Netflix
 
-## The male wellness guide to peptides
-Injectable amino acids are being used for muscle gain, sexual health and skin tanning — but the benefits are questionable
+## Maybe the trusty conglomerate playbook is due a rewrite
+Perhaps it’s managers, not markets, that are inefficient
 
-## Tesco explores sale of European business
-Disposal would refocus UK’s biggest grocer on home market and end decades-long attempt to build major global operation
+## The great AI data centre cover-up
+Tech companies need to come clean about the mounting environmental fallout of their race to build more hubs
 
-## India seeks safe passage for nine ships as Hormuz truce falters
-The government is closely monitoring the vessels as renewed attacks around the Strait of Hormuz threaten an already fragile interim ceasefire between the US and Iran
+## Inside the world’s biggest battery maker
+What does CATL’s extraordinary rise mean for the world?
 
-## Broker’s Call: Minda Corp (Buy)
-Monarch Networth Capital
+## When Indian artistry meets French couture
+Dior’s show recognised the role of Indian craft, but many luxury brands have long been reluctant to reveal how heavily they rely on it
 
-## Sun Mobility t3-55T electric trucks with world’s first modular battery swapping at Pravaas 5.0
-Unlike passenger cars, commercial vehicles are judged primarily on operating economics rather than technology. Sun Mobility is betting that battery swapping can tip that equation by cutting upfront vehicle costs, reducing charging downtime and creating a shared energy network that multiple truck and
+## HP Eliteboard G1a: A keyboard that doubles as your next hybrid work PC
+A PC in a keyboard—but is this the future of workstations?
 
-## EPFO processing interest payment on provident funds for FY26; members can check updates by next week
-Last month, the government approved the 8.25% interest payment on provident funds
+## Indian biotechs are scaling abroad before coming home
+Global-first strategy helps Indian biotech startups fund research and accelerate growth
 
-## MAHE and Novo Nordisk GBS expand collaboration in pharmacometrics
-Novo Nordisk GBS will provide financial support of ₹1.75 crore over five years to enhance specialised talent development, research capacity and advanced infrastructure in quantitative drug development.
+## Agri-commodity markets have not priced in fertilizer supply risks, say analysts
+High prices of the crop nutrients could lead to less utilisation as China, India will likely face problems
 
-## ISMA defends E20 fuel, silent on mileage drop
-Sugar industry body says concerns over ethanol-blended fuel are driven by misinformation, not evidence.
+## Battery storage tariffs in India set to rise as higher costs squeeze low-priced projects
+Rising costs are ​making some storage projects unviable
 
-## GJEPC prepares ground for FTA with UK from July 15
-GJEPC estimates that India’s gem and jewellery exports to the UK can more than triple from $2.5 billion to $7 billion over the coming years on the back of bilateral trade
+## Glacier water breathes new life into Leh’s wasteland
+According to experts, over 90 per cent of Ladakh’s land is barren and devoid of vegetation
 
-## BioCompute enlarges funding plan for DNA storage
-BioCompute's proposition is an attempt to rethink how the world's rapidly growing digital data is archived
+## Indian Bank, VIT Chennai felicitate PSBS Hackathon 2026 winners for anti-fraud innovations
+The hackathon focused on developing innovative solutions to detect and prevent banking fraud, including mule accounts and supply chain fraud
+
+## National Payments Corporation of India seeks approval to set up ‘techfin’ centre in GIFT City
+NPCI seeks approval to establish a techfin centre in GIFT City, enhancing India’s digital payment and financial technology landscape.
+
+## ZIEL Network Expands Its Specialist Ecosystem; Partners with Poppy Seed Communication and Launches ZIEL42
+New Delhi, Delhi, India – Business Wire India
+
+## US-Iran war impact: IMF lowers India’s GDP growth forecast marginally; still tags it among fastest growing economies
+According to the IMF, the global economy has so far avoided a steeper slowdown despite the war, as strong demand linked to the technology sector has helped offset the impact of reduced energy supplies caused by the conflict.
 
 ## Income tax notices decoded: What every taxpayer should know about ITR filing to avoid scrutiny
 One important thing to understand is this: In the current compliance environment, tax notices are increasingly driven by data inconsistencies rather than intent. A tax notice can not only mean a process of explaining discrepancies but can also put any refund claims on hold till the matter is resolve
@@ -78,56 +87,59 @@ According to policymakers and trade experts, the pace of the investigation sugge
 ## Rupee erases previous gains, tumbles 20 paise against US dollar
 The Indian rupee opened weaker against the US dollar on Wednesday. Rising crude oil prices and geopolitical events impacted currency markets. The dollar index strengthened, and Brent crude futures climbed significantly. Domestic stock markets also mirrored this cautious sentiment, opening lower. For
 
-## Top stocks to buy today: Stock recommendations for July 8, 2026 - check list
-Stock market recommendations: Hero MotoCorp, Tata Steel are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 7, 2026. He also recommends buying Nippon India ETF Nifty IT (ITBEES).
+## DMK’s Senthil Balaji gets anticipatory bail in MLA poaching case
+The Madras High Court directed Senthil Balaji and his brother to appear before the investigating officer twice daily and cooperate with the probe.
 
-## ‘Paper sold for ₹2.25 lakh’: After NEET, Rahul alleges UGC-NET Sociology paper leak, claims ‘90 questions matched’
-A response from the National Testing Agency (NTA), which conducts the UGC NET exam, is awaited.
+## Cancer will afflict one in five in our lifetime: WHO report
+Health system performance in cancer management can be a catalyst for change or a driver of human, financial and societal crises, says the report
 
-## Nagpur airport to get multi-phase upgrade; ₹300cr investment in first phase
-As part of the first phase, GMR Airports will invest about ₹300 crore over the next 12 to 18 months to modernise the existing airport
+## Uttarakhand CM approves ₹495 crore for infrastructure, civic projects and Kumbh 2027 preparations
+Uttarakhand has allocated ₹495 crore for vital infrastructure and public welfare projects, focusing on road improvements and tourism enhancements.
 
-## ‘Got what he deserved’: Mother of Baruipur rape-murder accused refuses to ‘see his face’ after son killed in ‘encounter’
-The accused died in an alleged encounter after he “snatched a firearm from a policeman and tried to escape from custody”.
+## Indian researcher Devesh Nandal named to Harvard-led UAP Science Advisory Council
+Indian astrophysicist Dr. Devesh Nandal has been appointed to Harvard's UAP Science Advisory Council, tasked with analyzing unexplained aerial phenomena.
 
-## Goa wants to curb rental Thars: Why SUVs aren't able to outrun reckless-driving perception
-Minister's remark revives a debate that goes beyond one vehicle. Here's what studies say about SUVs, status and risky driving.
+## Home minister, aviation minister review passenger facilities at major airports
+Amit Shah directed a comprehensive framework for airport entry, check-in, security and immigration to ensure seamless passenger movement.
 
-## 'Case against Dada is completely false': Pregnant patient's family defends Shiv Sena corporator in hospital assault row
-The patient's mother claimed doctors refused to treat her daughter despite repeated pleas.
+## Sonam Wangchuk loses over 7 kg of weight after 10 days of hunger strike, claims CJP
+The protest is centred on demands for Union Education Minister Pradhan's resignation and greater government accountability over alleged exam-related lapses.
 
-## Govt issues draft notification to bring iron, steel sectors under CCTS
-The proposed rules expand the scope of CCTS, notified in 2023, which covers sectors such as aluminium, cement, petroleum refineries and textiles
+## Protesters, leaders detained at march over Navi Mumbai airport naming delay: Cop
+Police stopped the march within minutes of its start, detaining several leaders, activists and protesters, and escorting them into police vans
 
-## 16 feared trapped as civic building collapses in Pune's Pimpri Chinchwad
-The building that collapsed in Pimpri Chinchwad is situated in the premises of legacy waste dumping yard, officials said.
+## ‘Bank did not enforce…’: What Champat Rai blamed SBI for in his written submission amid Ram Temple ‘theft’ case
+In his one-page written Hindi submission before the SIT, accessed by HT, Rai alleged that the rules set by the bank but were flouted but never flagged.
 
-## ‘Welcome to UP 2.0’: TMC MPs slam Bengal govt's 'jungle law' after Baruipur rape-murder accused's encounter killing
-Prabhas Mondal, the prime suspect in the rape and murder of a 12-year-old girl in Baruipur, in South 24 Parganas, was killed in an encounter, earlier today.
-
-## “I regret altercation, but didn’t hit woman doctor”: Shiv Sena corporator on Thane hospital assault
+## Rs 12.26 lakh crore infra projects, flood control projects: Maharashtra CM outlines MMR growth
 
 
-## Rs 35-crore haul: What raid on retired UP transport officer’s home uncovered
+## Senior citizens can reclaim house from daughter-in-law: Karnataka High Court
 
 
-## Karnataka police constable dies by suicide during D K Shivakumar’s visit
+## Maharashtra rain: Why the Western Ghats received historically high rainfall this July
 
 
-## Indira Point: Why Centre wants to protect landmark lighthouse and develop tourism hub
+## No power, water or lifts: Vasai-Virar residents stranded for over 48 hours after heavy rain
 
 
-## ‘I nearly hate doing’: Ankur Warikoo on why he’s taken cold showers for 4 years
+## Delhi High Court upholds late DTC driver’s 1988 dismissal, says 1-day enquiry not unfair
 
 
-## Customer orders size 8 shoes online gets size 7, wins consumer payout
+## Mahesh Bhatt’s first wife was thrown out of orphanage, defended his marriage to Soni Razdan
 
 
-## Kareena Kapoor gushes over ‘hot husband’ Saif Ali Khan during summer vacation
+## Trump says US may hit Iran again tonight, ‘take over Kharg Island’
 
 
-## TTE ‘illegally’ occupies passenger’s seat, Southern Railway ordered to pay Rs 60,000
+## Save for retirement or fund kid’s Masters abroad? You learnt the answer when they were a baby
 
+
+## Beijing seeks chip stability and fair market access during Dutch trade minister’s trip
+Beijing has urged the Netherlands to ensure fair treatment for Chinese companies and maintain stable chip supply chains during a visit by the Dutch trade minister, as the two sides navigate tech tensions with Washington while seeking a “clean break” from friction over Nexperia. “We hope the Dutch go
+
+## Chinese profit-taking triggers record gold ETF outflows amid shift to equities
+Chinese investors pulled a record US$2.91 billion out of domestic gold exchange-traded funds (ETFs) in June, taking profits as a stock-market surge and a strong yuan dimmed the appeal of the safe-haven metal, according to the World Gold Council (WGC). Mainland Chinese funds were the biggest drag on 
 
 ## Hong Kong IPO debut delayed in rare move over missing regulatory data: sources
 Hong Kong witnessed a rare delay of an initial public offering (IPO) debut on Wednesday, the first in more than eight months, triggered by a regulatory requirement for additional client information, according to people familiar with the matter. On Tuesday night, just before its scheduled listing on 
@@ -147,11 +159,8 @@ Business and marketing leaders gathered on a late-June afternoon in Hong Kong at
 ## BYD surpasses Tesla in global race; ‘do-or-die’ crisis in China’s market: 7 EV reads
 We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s BYD surpasses Tesla to regain lead in global EV race China’s electric vehicle 
 
-## Mainland Chinese tech firms find more than just deep capital pools in Hong Kong
-Mainland Chinese technology companies newly listed on Hong Kong’s stock exchange are deepening their engagement with the city, tapping not only its capital markets but also its global connectivity to refine products, forge international partnerships and expand overseas, according to executives. For 
-
-## China’s biotech firms challenge US with rapidly developing RAS-targeted cancer therapies
-When the shares of Revolution Medicines surged after the US biotech firm unveiled a landmark result – its drug nearly doubled the overall survival for late-stage pancreatic cancer patients to 13.2 months – investment banks and scientists flagged that the company’s Chinese rivals racing to target the
+## The Global Energy Map Is Being Redrawn in Real Time
+Confidence in the Strait of Hormuz has been shattered. Trust is now among the most important commodities in the energy world.
 
 ## Marco Rubio Burned Down the House to Fix a Sink
 The secretary of state must be seen as the chief architect of the Trump administration’s assault on the rules-based order.
@@ -173,9 +182,6 @@ The language of the “new era” leaves real reform behind.
 
 ## Taiwan Believes Japan Will Help Defend Against China
 Opinion polling shows that trust in Tokyo is surprisingly deep.
-
-## How Trump Lost America the World Cup
-A host is supposed to harvest the world’s goodwill, not burn it.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -249,29 +255,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals
-Messi is the top goal scorer after tallying his eighth against Egypt, with Erling Haaland and Kylian Mbappe next best.
+## UN inquiry urges release of Palestinian doctor jailed by Israel
+The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered 'severe abuse'.
 
-## Switzerland fans’ joy as team reaches World Cup quarter-final
-Switzerland fans’ joy as team reaches World Cup quarter-final
+## Iran’s supreme leader’s coffin arrives in Najaf
+Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.
 
-## Trump says ceasefire ‘over’ after US, Iran trade attacks
-Trump made the announcement at a NATO summit after Iran attacked bases hosting US forces in Kuwait and Bahrain.
+## Syria in tough balancing act as it tightens security after Damascus blasts
+Authorities increase security measures after back-to-back deadly explosions rattle residents.
 
-## Nigeria’s counterterrorism gains carry a warning
-Mass surrenders may weaken armed groups, but reintegration without justice risks fuelling resentment.
+## Iran signals defiance as Trump fumes over Strait of Hormuz strikes
+Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.
 
-## Why have US-Iran strikes resumed and what does it mean for peace?
-Both sides have accused each other of violating the memorandum of understanding signed in June.
+## Trump threatens Spain trade, demands US take over Greenland at NATO summit
+The US president described Spain as a 'terrible partner' over its actions during the US-Israel war on Iran.
 
-## Pakistan searches for Boeing cargo plane missing over Arabian Sea
-Karachi-bound aircraft lost contact with air traffic control after reporting navigation ⁠system fault.
+## FIFA World Cup 2026: Biggest takeaways from the round of 16
+The last-16 phase is now behind us with plenty of key talking points as the tournament enters the quarterfinals.
 
-## European MPs call for probe of FIFA boss Infantino over red card suspension
-Lawmakers call FIFA decision to scrap Balogun suspension after Trump intervention 'a disgrace'.
+## Trump says MoU ‘over’ after latest US and Iranian attacks
+President Donald Trump has said the Memorandum of Understanding with Iran is ‘over’, after the latest strikes.
 
-## Trump says MoU with ‘vicious, violent’ Iran is over
-Trump says MoU with 'vicious, violent' Iran is over
+## Gaza aid worker killed minutes before World Cup screening he organised
+Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.
+
+## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
+In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
 
 ## NFRA raises bar for audit sign-offs, says uncorrected errors can distort financial statements
 Chairperson Nitin Gupta asks auditors to evaluate cumulative and qualitative impact of misstatements, strengthen communication with audit committees and boards before issuing audit opinions.
@@ -293,9 +302,6 @@ Foreign investors are receiving unexpected tax notices in India, even for transa
 
 ## Fall in global crude prices brightens fiscal outlook, El Nino risks linger
 Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agr
-
-## GST at 9; Over 50,000 Appeals at GSTAT
-As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
 
 ## RBI backs crypto ban, tax department warns of evasion risks, documents show
 India's central bank has reiterated its preference for a cryptocurrency policy "leaning towards prohibition," warning that crypto assets and stablecoins could threaten financial stability and monetary sovereignty, according to internal government documents reviewed by Reuters.
