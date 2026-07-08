@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Some Fed officials saw need for future rate rises to contain inflation
+Minutes from last month’s meeting highlighted lingering concern about price pressures remaining high
+
+## Warsh’s minute minutes
+Downwards doc
+
+## Burnham’s economic blueprint focuses on small business and cost of living
+Plan drawn up by key adviser Miatta Fahnbulleh aims to unite different wings of Labour Party
+
+## Le Pen, Farage and the people’s verdict
+The two rightwing leaders seek salvation through the ballot box
+
 ## Russia bans diesel exports in fuel crunch
 Ukrainian drone strikes on refineries have created petrol and diesel shortages and brought the war home for Russians
 
@@ -12,20 +24,14 @@ UK regulator alleges in court filing that lenders want to determine own liabilit
 ## Javier Milei wants US-style government shutdowns in Argentina
 Government should suspend functions when lawmakers reach an impasse on spending, says rightwing leader
 
-## How Trump brought non-alignment back from the dead
-The US president is single-handedly reviving a doctrine of the postcolonial left
-
-## Trump grants Ukraine licence to produce Patriot missiles
-US president agrees to longstanding demand from Kyiv to make its own PAC-3 interceptors
-
-## Le Pen revives presidential bid echoing Trump
-French far-right leader portrays herself as a modern-day Joan of Arc going against the political establishment
-
-## Ukraine intensifies attacks on Russian ships in Azov Sea
-Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
+## UniCredit’s bid for Commerzbank ends with a win and a puzzle
+The market is awash with ideas on how Andrea Orcel secured nearly 18% of the German bank’s shares
 
 ## FCA charges lawyer with insider trading over Seraphine sale
 M&A solicitor who worked at Goodwin Procter’s London office accused of 5 counts of using inside information
+
+## Ukraine intensifies attacks on Russian ships in Azov Sea
+Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 
 ## Segro lays out defence as it battles £12.6bn takeover attempt by US rival
 UK property group believes 925p a share offer by Prologis undervalues its warehouse and data centres business
@@ -35,9 +41,6 @@ Idea would help deal with danger of conflict in increasingly crowded orbits arou
 
 ## Why the US and Iran are stuck in a cycle of tit-for-tat strikes
 Trump’s push to get ships moving through the Strait of Hormuz keeps colliding with Tehran’s resistance to cede control
-
-## US and Iran trade strikes after attacks on tankers
-Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing
 
 ## Ancient quasars deepen a major unsolved problem in astrophysics
 The Euclid space telescope has identified 31 ancient quasars, including the earliest known, challenging existing theories of black hole growth in the early universe
@@ -111,6 +114,9 @@ India’s higher education enrolment reached a record 45 million in 2023-24, whi
 ## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
 NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
 
+## Why US attacked Iran and Trump said ceasefire ‘is over’
+
+
 ## World Cup 2026 controversy: Messi, Trump, and a conspiracy thriller
 
 
@@ -130,9 +136,6 @@ NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Far
 
 
 ## Congress leader flags delays in SIR in Andheri
-
-
-## Churches, Christian Missionary owned land parcels will be probed across Maharashtra: Bawankule
 
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
@@ -159,6 +162,12 @@ Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s su
 ## Beyond the Noise: How Quality Journalism Drives Real-World Influence
 Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
+## Energy Markets’ False Dawn May Be Over
+The U.S.-Iran deal has devolved into fighting again, with potentially ugly implications for oil prices.
+
+## Nigel Farage’s Path to Power Just Got Harder
+The far-right U.K. leader has been hit by multiple scandals.
+
 ## NATO’s New Enemy Is the Thermometer
 Extreme heat events are threatening the alliance’s plans.
 
@@ -176,12 +185,6 @@ Confidence in the Strait of Hormuz has been shattered. Trust is now among the mo
 
 ## Marco Rubio Burned Down the House to Fix a Sink
 The secretary of state must be seen as the chief architect of the Trump administration’s assault on the rules-based order.
-
-## The Philippines’ ‘Trial of the Century’ Begins
-A pall of cynicism hangs over proceedings against Vice President Sara Duterte.
-
-## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
-France remains committed to bolstering cooperation with Syria.
 
 ## India, Indonesia Put in Place a Blueprint for a Durable Strategic Partnership
 The highlight of the Indian prime minister's visit to Indonesia was the finalization of a long-pending agreement on the supply of BrahMos missile system and Astra air-to-air missiles.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’
-Trump says US will 'show' Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.
+## Five key takeaways from the NATO summit in Ankara
+Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support
 
-## The Strait of Hormuz is now at the centre of Iranian and US calculus
-The fate of the strait is directly linked to what happens next to the world economy.
+## Argentina fans accused of violence, racism by Egypt, Cape Verde supporters
+Fans tell Al Jazeera Argentina supporters hurled beer bottles and abuse at them when their team scored in knockout games.
 
-## US charges Indian crime leader in Sikh activist’s assassination
-US indicts Indian crime boss, links him to Sikh leader's killing that strained India-Canada relations.
+## Mass cleanup underway after severe flooding in China
+Residents and volunteers in China’s Guangxi province have begun clearing up their flooded homes.
 
-## Egypt criticises ‘influential refereeing’ in Argentina World Cup match
-Egyptian football officials have reportedly lodged a complaint with FIFA against the referees in their last-16 match.
+## Trump says US ‘may take over Kharg Island’: Here’s what you need to know
+Kharg Island, pivotal to Iran's oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.
 
-## Far-right leader Le Pen starts campaign, faces mixed reactions in France
-A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France.
+## War on Gaza draws large crowds to Khamenei’s funeral in Iraq
+More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.
 
-## Pakistan military says 42 killed in fighter attacks in Balochistan
-Military spokesman warns fighters 'we will chase you, we will hurt you' amid the spate of deadly ambushes.
+## Israeli air strikes in Gaza kill eight, including two children
+Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.
 
-## Oil for unity: What is the US mediation plan in Libya?
-The plan, led by Trump relative Massad Boulos, promises oil investments if rival factions work together.
+## Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target
+US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated
 
-## Germany urges US-Iran negotiations, offers to minesweep Hormuz
-German Foreign Minister Johann Wadephul urged the US and Iran to resume negotiations.
+## Spanish football legend Alexia Putellas joins London City Lionesses
+Women's Super League club lands the two-time Ballon d'Or winner after her exit from Barcelona following a 14-year career.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
