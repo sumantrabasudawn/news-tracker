@@ -1,67 +1,70 @@
 # AION Intelligence
 
+## FirstFT: Le Pen to run for French presidency
+Also in today’s newsletter: Farage’s by-election gambit and US troops in Europe
+
 ## US launches new wave of Iran strikes after attacks on tankers
 Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher
 
-## A quick guide to Nigel Farage’s gamble
-Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
+## Introducing: The Story of Money
+A new video podcast from The FT exploring the history of finance
 
-## Farage by-election gambit undercut by rivals’ refusal to participate
-Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+## Iran projects regional power as Khamenei funeral heads to Iraq
+Slain supreme leader’s body will be on display in Shia holy cities as Tehran seeks to revive axis of influence
 
-## Rachel Reeves calls for rival international defence schemes to merge
-UK chancellor says competing funding bodies should be brought together
+## The battle for the future of democratic republics
+Celebrations in the US for its 250th anniversary are in part a wake
 
-## FirstFT: US strikes Iran in response to attacks on tankers
-Also in today’s newsletter: France’s Le Pen announces run for president, and Samsung shares tumble despite record quarterly profit
+## Ships to pay higher EU carbon fees as Brussels seeks to close loophole
+Move to strengthen rules on emissions charges risks causing tensions with trading partners
 
-## Le Pen is posing as the victim of a politicised judiciary
-The strategy might play well with the far-right leader’s core voters, but the French as a whole don’t buy it
+## Value of UK takeover bids outstrips new London listings by 27 to 1
+Bids for listed companies worth nearly £60bn while combined market value of new entrants stands at only £2.2bn
 
-## French far-right leader Marine Le Pen says she will run for president
-Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
+## US rare earths flow to Asia as domestic demand is slow to emerge
+Miners backed by Trump administration sell to Japan and South Korea despite push to develop domestic supply chain
 
-## ‘Nigel can fix it’ — what Clacton voters think of Farage’s gambit
-Many people in the seaside town, whether supporters of the rightwing populist or not, are pleased with move by Reform UK leader
+## The maths on London’s IPO drought
+The value of bids for companies on the London Stock Exchange is 27 times greater than the value of new entrants this year
 
-## US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz
-Qatari and Saudi ships among targets near Oman coast
+## Ocado’s troubles show the ‘founder trap’ in miniature
+While Tim Steiner may have lost some credibility, it’s hard to imagine a professional manager turning the business around
 
-## Software stocks got crushed. Did they have it coming?
-The market may be overreacting to AI risks faced by software companies
+## Crude oil futures trade higher as US strikes Iran, revokes oil waiver
+The US strikes follow Iranian attacks on three ships in the Strait of Hormuz, including an LNG carrier and an oil tanker, a commodities report said
 
-## How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
-Judgment marks potentially fatal setback in self-declared crusade to hold British tabloid press accountable
+## Nifty Prediction Today – July 08, 2026: Nifty 50 Futures: Can fall more. Stay out of the market
+The region around 24,130 is a good support. We expect the Nifty to reverse higher from around 24,130 and go back up to 24,300. A strong rise above 24,300 is now needed to turn the sentiment positive
 
-## Meta releases first image model since Zuckerberg’s AI overhaul
-Muse Spark Image will be integrated into tech giant’s AI chatbot and its Instagram photo app
+## Sensex today | Stock Market Live: Sensex opens lower, down 600 pts; Nifty slips 186 pts to 24,212.55
+Sensex, Nifty, Share Prices LIVE: Benchmarks opened sharply lower on Wednesday morning, weighed down by a surge in crude oil prices after fresh US military strikes on Iran and the revocation of a waiver that had allowed Iran to sell crude in global markets, triggering a risk-off mood among investors
 
-## Aberdeen-backed internet provider seeks buyer after steep losses
-Airband initiates process to find new owner in move that puts £200mn of investors’ money at risk
+## Mahesh Pai to take charge at South Indian Bank from Oct 1, 2026
+Pai is currently Chief General Manager at Canara Bank
 
-## Top Business & Market Headlines Today — BL Morning Report, July 08, 2026
-BL Morning Report, July 07, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
+## Rupee declines 20 paise to 95.16 against US dollar in early trade
+At the interbank foreign exchange market, the rupee opened at 95.15 against the US dollar before slipping further to 95.16, down 20 paise from its previous close
 
-## Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction
-Airport sources said the takeoff was aborted because an arriving Air India Express Boeing 737 had not yet vacated the runway
+## The Latest Home Loan Interest Rates: Jul 03, 2026
+The Latest Home Loan Interest Rates: Jul 03, 2026
 
-## Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt
-A high-level review assessed the likely impact of El Nino on the kharif season and other sectors
+## The Latest Fixed Deposit Interest Rates: Jul 03, 2026
+The Latest Fixed Deposit Interest Rates: Jul 03, 2026
 
-## Lionel Messi leads Argentina’s stunning 3-2 comeback over Egypt to reach World Cup quarter-finals
-The defending champions advanced to the quarter-finals, where they will face either Switzerland or Colombia
+## Stocks to Watch, July 8: RCF, ideaForge, IFB Agro, HCL Tech, RRP Defense, BHEL, Refex Ind
+Discover key stocks to watch on July 12, including major developments in defense, infrastructure, and automotive sectors
 
-## Airlines seek GST on ATF at 5% with full tax credit to help cut costs
+## Top stocks to buy today: Stock recommendations for July 8, 2026 - check list
+Stock market recommendations: Hero MotoCorp, Tata Steel are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 7, 2026. He also recommends buying Nippon India ETF Nifty IT (ITBEES).
+
+## Gold price today: Spot gold hits one-week low, slips to $4,100 per ounce
 
 
-## Bombay HC rejects Atyati’s plea to bar Cognizant from using ‘C’ logo
-The court ruled there is distinct separation of nature and scale of services offered and the class of customers who avail these services
+## Stock market today: Will NSE Nifty50 and BSE Sensex shake off Tuesday's losses?
 
-## Knowingly, deliberately target ads featuring children, inaccurate: Meta on CSEAM issue
-The post came after the MeitY on July 4 issued a notice ordering Instagram to disable all ads and content promoting and facilitating access to CSEAM
 
-## Inspira Global completes acquisition of controlling stake in Restaurant Brands Asia
-The deal makes Inspira the new promoter of the company, which operates Burger King in India and Popeyes in Indonesia
+## Crude loses cool: Oil prices soar 3% as Middle East tensions flare again
+Oil prices rose sharply after United States military strikes targeted Iran. These actions followed attacks on commercial vessels in the Strait of Hormuz. Qatar blamed Iran for striking a liquefied natural gas tanker and an oil supertanker. Maritime security warned of severe threats to ships crossing
 
 ## India moves up 2 places in FDI inflow ranking
 
@@ -75,65 +78,62 @@ The deal makes Inspira the new promoter of the company, which operates Burger Ki
 ## NBFC loans grow 14.2% to Rs 58. 6L crore, trail banks
 
 
-## Tata Power's aim: 2x profits, over Rs 1L crore revenue by FY30
+## Delhi court slams police for trying to treat a murder case as accident, orders action
+The case relates to the death of Chandresh alias Monu, who was allegedly assaulted and run over by a man identified as Nagender on January 26.
+
+## Baruipur rape-murder case: Key accused killed in encounter, say police
+The accused was taken to Surjyapur in the Baruipur area of South 24 Parganas district on Tuesday night for the reconstruction of the crime scene
+
+## Bhiwandi’s ‘Spider-Man’ uses his ‘power’ to responsibly help commuters cross waterlogged streets
+The man in a Spider-Man costume in Bhiwandi said he drew inspiration from the superhero movie to help people during the rains.
+
+## A flight plan for IndiGo’s future
+After the Covid-19 pandemic, the airline looked at possible growth paths and concluded that long-haul international was the way to go.
+
+## Prabhas Mondal, accused in Bengal's Baruipur rape-murder case from, killed in police encounter
+The accused, identified as Prabhas Mondal, was being taken by police for the reconstruction of events related to the case when the incident occurred.
+
+## As PM Modi visits key Indonesian temple, a look at how India revived shared heritage over the years
+It has supported the conservation of several temples and heritage sites linked to its centuries-old cultural ties with neighbouring and Southeast Asian nations.
+
+## Inside India-Indonesia defence deals: Jakarta eyes $200 million BrahMos purchase
+Indonesia wants $200 million worth BrahMos from India, Astra missile numbers to be worked out
+
+## Disaster averted at Mumbai airport after Air India, AI Express come face-to-face
+The incident took place around 10 pm when the Air India flight bound for Delhi was getting ready to depart.
+
+## FBI puts $50,000 reward on Goldy Brar, wanted in Lawrence Bishnoi gang case
 
 
-## US companies' caution higher tariffs may hit manufacturing push
+## ‘Personal liberty priceless’: Man behind bars for 52 months in jail, gets bail
 
 
-## Listing rewards: Startup backers cash out Rs 97,000 crore
-VC, PE Funds Use IPOs, Post-Listing Deals To Return Capital After Backing Pvt Cos For Yrs
-
-## Govt urges USTR to review its move to levy new tariffs
+## Sikh body urges public screenings of Satluj; Honey Trehan says Diljit did film for free
 
 
-## Operation Hard Ball: 24 with links to India-based gangs arrested in US, Canada, Europe
-As part of this investigation, law enforcement has seized about 1,000 kg of cocaine and 1 kilogram of heroin along with $40,000 in cash and a dozen firearms.
-
-## Ram Temple donation row: SIT puts Anil Mishra under lens, says he knew frisking norms weren’t enforced
-SIT attributed supervisory accountability to Dr Mishra, saying his failure to ensure enforcement of the SOP created conditions that enabled misappropriation
-
-## 'Automobile manufacturers say no difficulty with E20 fuel': Hardeep Puri
-Petroleum minister Hardeep Puri said the government was not rushing the decision on E25, adding that tests on the blended fuel were underway.
-
-## ‘2+6 is equal to?’: PM Modi, Indonesian President dive into number 8. Here's why
-Before PM Narendra Modi took the stage, Indonesian President Subianto addressed the crowd, telling them the importance of the number 8 in his life.
-
-## ‘We turned footpaths into pav bhaji stalls’: Bombay HC says Mumbai's flooding ‘our own creation’, can't blame BMC
-Bombay High Court states Mumbai's flooding issues involve more than just BMC's actions, citing encroachments and blocked drains as significant factors.
-
-## Four states sign pact to settle long-pending Narmada project dues
-Shah said the pending payments under the Narmada Award, which remained unresolved for years, had been settled amicably through consensus
-
-## Diljit Dosanjh’s Satluj was taken off Zee5 over pro-Khalistani content: Official
-The ministry of information and broadcasting (MIB) issued a takedown order to Zee5 under Section 69A of the Information Technology (IT) Act
-
-## 'Every time I hear Indian music, I find my body moving': Indonesian President during PM Modi's visit
-Indonesian President Prabowo Subianto revealed that he has “Indian DNA” while addressing a gathering during Prime Minister Modi's state visit
-
-## Jaishankar meets Bahrain’s Dy PM Khalid bin Abdulla Al Khalifa
+## Oil prices rise nearly 2% as Hormuz threat rises to ‘severe’ after US strikes Iran
 
 
-## Egypt coach accuses FIFA of bias towards Argentina after World Cup round of 16 loss
+## Perplexity says it plans to use Nvidia’s new CPU
 
 
-## On a tricky turf, how Punjab polls challenge key contenders – AAP to Congress, SAD to BJP
+## Lisa Ray on surviving cancer, freezing eggs and dealing with menopause at 37: ‘Today, I run with my daughters’
 
 
-## Now, more than ever, the strategic legacy of Imam Khamenei can be a guide
+## No evidence linking India to Hardeep Singh Nijjar killing, says Canada
 
 
-## The Scotland Redemption: When a suspicion in Glasgow became a sentence for a Mumbai family
+## Government school enrolment shrinks by 86 lakh in 2 years despite lower dropout rates: UDISE report
 
 
-## Shreyas Iyer remains winless as India T20I captain after record 125-run defeat
+## Hong Kong stocks rebound as concerns ease over lock-up expiries
+Hong Kong stocks rebounded on Wednesday as concerns over a wave of lock-up expiries, long seen as a major headwind for the city’s equities, showed early signs of easing, while continued strength in technology stocks lifted broader market sentiment. The Hang Seng Index rose 2.4 per cent to 24,057 at 
 
+## Mainland China court claims jurisdiction over Hong Kong-listed company in investor lawsuit
+A mainland Chinese court has claimed jurisdiction over an investor lawsuit against a Hong Kong-listed firm for the first time, with the move likely to increase scrutiny of corporate disclosures. Mainland investors filed the lawsuit with the Beijing Financial Court, alleging that an overseas-incorpor
 
-## The RSS is not a transparent organisation. It uses opacity as a shield
-
-
-## The end of Brazil’s football superpowerdom
-
+## Mainland China markets follow US in embracing tech stock dominance
+Mainland China’s stock markets are converging with those in the US when it comes to the concentration of technology companies, with the sector becoming the biggest constituent of key equity benchmarks. Technology stocks now represent 27 per cent of the weighting in the CSI 300 Index – which tracks t
 
 ## Hong Kong’s property market set to cool despite run of record-breaking deals
 Hong Kong’s residential property market has regained momentum in recent months amid a string of record-breaking deals. But analysts warn that the rally is likely to cool in the second half of the year, as a weaker stock market weighs on investor sentiment. A string of huge deals in the city has gene
@@ -149,15 +149,6 @@ Hong Kong will substantially increase its yuan facilities for banks from this Fr
 
 ## To boost manufacturing, India need not choose between Japan and China
 Last week, Japanese Prime Minister Sanae Takaichi led a business delegation to New Delhi for the 16th India-Japan annual summit. During last year’s summit in Tokyo, Takaichi’s predecessor, Shigeru Ishiba, and Indian Prime Minister Narendra Modi outlined the Japan-India Joint Vision for the next deca
-
-## Zhipu AI, MiniMax shares to provide gut check for Hong Kong investors as lock-ups end
-Hong Kong’s stock market could face sell-off pressure amid a torrent of new share supply in coming days as the six-month lock-up period ends for hot artificial intelligence and semiconductor picks including Zhipu AI and MiniMax. Meanwhile analysts warned of rising fears of a drain on liquidity as ma
-
-## Peak oil: China’s crude demand set to fall as EV bets ease Hormuz fears
-China’s demand for crude oil is expected to peak in the coming years, a scenario set to further reshape the global energy market following the Strait of Hormuz crisis. The shift was due to Beijing’s massive efforts to develop renewable energy while also revamping the country’s transport sector by be
-
-## Hong Kong office vacancy rates to plateau as Central hits 43-month low
-Hong Kong’s office property market is likely to see its empty spaces plateau at 14 per cent as vacancy rates in Central fell to more than a three-and-a-half-year low in June, according to JLL. The property consultancy said that although the overall vacancy rate for the office property sector fell to
 
 ## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
 France remains committed to bolstering cooperation with Syria.
@@ -255,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Marine Le Pen to run for French Presidency despite criminal conviction
-Marine Le Pen, the far-right French politician, announced Tuesday she is running for president next year.
+## Triumph to disaster: Egypt’s pride remains as they bow out of World Cup
+Proud Egyptians celebrate their team's historic run at the World Cup but blame bias for a heartbreaking exit.
 
-## Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon
-Gauff defeats Pegula to set up semifinal against Muchova, who overcame four-time Grand Slam champion Osaka.
+## Oil prices surge as US strikes Iran, reversing slide to pre-war levels
+Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.
 
-## Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks
-Explosions in Iran's Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waivers on Iranian oil exports.
+## IOC eases restrictions on Russian athletes ahead of 2028 games
+The International Olympic Committee has lifted some of the restrictions on Russian athletes.
 
-## Switzerland face Argentina in World Cup quarterfinal after beating Colombia
-Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina.
+## FIFA condemns fan’s racist attack on IShowSpeed at Argentina World Cup match
+An Argentina supporter told Speed to 'go cry at the zoo' on his livestream at the match against Cape Verde in Miami.
 
-## Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week
-The attacks have triggered fires in two districts of Kyiv, according to the city's mayor.
+## Experts warn Trump is playing politics with US intelligence
+Former officials warn that Trump's intelligence overhaul risks politicising national security.
 
-## Egypt buoyed by praise for World Cup heroics despite controversial exit
-From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.
+## VAR call, Argentina win over Egypt raise questions of legitimacy at World Cup
+Experts question political influence and the need to keep Lionel Messi's side in the World Cup amid Egypt's heartbreak.
 
-## Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says
-'Perhaps they wanted to keep the world champions in the competition,' Hassan said after his team was knocked out.
+## US immigration officer shoots and kills man in Texas
+Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.
 
-## US says strikes launched as explosions heard in southern Iran
-US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.
+## Argentina fans hurl beer at Egypt supporters after final whistle
+A video circulating on social media shows Argentina fans throwing beer and taunting Egypt supporters in the stands.
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
@@ -303,6 +294,12 @@ As GST enters its tenth year, perhaps the debate should move beyond tax rates an
 ## ICAI, ICSI, ICoAI must truly collaborate to make Corporate Mitra Scheme a success, say experts
 The Ministry of Corporate Affairs has launched the Corporate Mitra scheme to address the skill gap in MSMEs, offering compliance and financial guidance. Accounting bodies like ICAI, ICSI, and ICoAI are involved in training and implementation. Experts, while lauding the initiative, emphasize the need
 
+## Smartphone PLI plan exceeds targets, value addition quadruples: Industry informs Centre
+The industry told commerce minister Piyush Goyal that the scheme had exceeded all its targets with production more than doubling to $71 billion in FY26 from $30 billion in FY20 and exports rising 10 times to $29.4 billion from $3 billion.
+
+## India should aim higher than $5 bn in toy market: FM Sitharaman urges industry to target bigger global market share
+Union Finance Minister Nirmala Sitharaman on Tuesday called on the Indian toy industry to set more ambitious export goals, saying India has the capability to capture a much larger slice of the projected USD 179 billion global toy market by 2032, instead of limiting itself to the projected USD 5 bill
+
 ## NFRA chief declines comment on Rajesh Exports' SEBI submission, says probe process is systematic
 National Financial Reporting Authority (NFRA) Chairperson Nitin Gupta on Tuesday declined to comment on claims made by Rajesh Exports regarding the submission of records to market regulator SEBI, saying the matter falls within SEBI's jurisdiction.
 
@@ -320,10 +317,4 @@ The Reserve Bank of India will auction Government of India dated securities wort
 
 ## Sebi aims to ease shorting by nearly doubling stocks eligible for borrowing: Report
 India's market regulator is set to nearly double the number of stocks available for short selling, aiming to invigorate the cash market and steer investors from riskier derivatives. Collateral requirements are also slated for reduction. These moves follow past tightening of rules and seek to include
-
-## Falling crude prices give RBI more room to support growth: Standard Chartered
-Falling global crude oil prices are giving the Reserve Bank of India (RBI) and several other Asian central banks greater flexibility to focus on supporting economic growth, as lower energy costs ease inflationary pressures and improve external balances, according to Standard Chartered's Weekly Marke
-
-## Five years of the Ministry of Cooperation: The next phase of India's cooperative revolution
-Five years after its creation, the Ministry of Cooperation is poised for a new phase focused on knowledge sharing, urban cooperatives, women-led institutions, youth engagement and innovative financing.
 
