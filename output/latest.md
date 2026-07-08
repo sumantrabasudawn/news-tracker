@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## US and Iran trade strikes after attacks on tankers
-Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing
+## Trump grants Ukraine licence to produce Patriot missiles
+US president agrees to longstanding demand from Kyiv to make its own PAC-3 interceptors
 
-## IMF warns inflation threat looms large over global economy
-Fund raises its projections for price growth as Trump declares ceasefire with Iran is ‘over’
+## Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead
+Reform UK leader’s rivals are running scared, say senior party figures
 
-## Europe must have the financial power to match its economic heft
-The continent’s savings should be used to invest in its own future, not someone else’s
-
-## Foreign investors look past US uncertainty to long-term opportunity
-Overseas companies are still expanding in America even as tariffs, labour shortages and shifting policy complicate investment plans
-
-## UniCredit secures 48% stake in Commerzbank
-Italian bank closes in on majority control of German lender after end of tender period
+## Le Pen revives presidential bid echoing Trump
+French far-right leader portrays herself as a modern-day Joan of Arc going against the political establishment
 
 ## Ukraine intensifies attacks on Russian ships in Azov Sea
 Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 
-## The unsustainable upward trajectory of UK debt
-Over time, if there is no tax-and-spend adjustment, the changes needed to public finances will be painful
+## Segro lays out defence as it battles £12.6bn takeover attempt by US rival
+UK property group believes 925p a share offer by Prologis undervalues its warehouse and data centres business
 
-## Obsessed with: tramezzini — Venice’s addictive signature snack
-They might not look like much. But these soft, crustless sandwiches are full of surprises — and just what’s needed after a day of sightseeing or festival-going
+## UK scientists propose tiny satellites to sniff out nuclear weapons in space
+Idea would help deal with danger of conflict in increasingly crowded orbits around Earth
+
+## Why the US and Iran are stuck in a cycle of tit-for-tat strikes
+Trump’s push to get ships moving through the Strait of Hormuz keeps colliding with Tehran’s resistance to cede control
+
+## Nigel Farage’s unusual by-election opponent: Count Binface
+Comedy candidate is becoming a vehicle for opposition to Reform UK’s leader
+
+## US and Iran trade strikes after attacks on tankers
+Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing
+
+## UniCredit secures 48% stake in Commerzbank
+Italian bank closes in on majority control of German lender after end of tender period
 
 ## BBC and Channel 4 in talks to create British streaming champion
 Broadcaster’s new director-general Matt Brittin says UK needs platform to compete with Netflix
@@ -30,38 +36,38 @@ Broadcaster’s new director-general Matt Brittin says UK needs platform to comp
 ## Maybe the trusty conglomerate playbook is due a rewrite
 Perhaps it’s managers, not markets, that are inefficient
 
-## The great AI data centre cover-up
-Tech companies need to come clean about the mounting environmental fallout of their race to build more hubs
+## Story TV appoints former Yashraj Films executive as SVP of content and strategy
+Former Yash Raj Films executive Manan Mehta will lead Story TV’s premium vertical storytelling, original IP development and content partnerships
 
-## Inside the world’s biggest battery maker
-What does CATL’s extraordinary rise mean for the world?
+## SBI Mutual Fund to launch IPO on July 14
+Price band to be announced later
 
-## When Indian artistry meets French couture
-Dior’s show recognised the role of Indian craft, but many luxury brands have long been reluctant to reveal how heavily they rely on it
+## Pocket
 
-## HP Eliteboard G1a: A keyboard that doubles as your next hybrid work PC
-A PC in a keyboard—but is this the future of workstations?
 
-## Indian biotechs are scaling abroad before coming home
-Global-first strategy helps Indian biotech startups fund research and accelerate growth
+## Mahesh Pai to take charge at South Indian Bank from Oct 1, 2026
+Pai is currently Chief General Manager at Canara Bank
 
-## Agri-commodity markets have not priced in fertilizer supply risks, say analysts
-High prices of the crop nutrients could lead to less utilisation as China, India will likely face problems
+## Demand for GLP-1 weight-loss and diabetes drugs plateaus, says industry tracker
+A total of 31 generic semaglutide brands contributed to 82 per cent of the unit sales of the month
 
-## Battery storage tariffs in India set to rise as higher costs squeeze low-priced projects
-Rising costs are ​making some storage projects unviable
+## Centre approves copra and Totapuri mango procurement in Tamil Nadu
+The Centre has approved the procurement of 87,226 tonnes of copra and 96,879 tonnes of Totapuri mangoes from Tamil Nadu farmers
 
-## Glacier water breathes new life into Leh’s wasteland
-According to experts, over 90 per cent of Ladakh’s land is barren and devoid of vegetation
+## 60% of organizations will adopt smaller software engineering teams by 2029: Gartner
 
-## Indian Bank, VIT Chennai felicitate PSBS Hackathon 2026 winners for anti-fraud innovations
-The hackathon focused on developing innovative solutions to detect and prevent banking fraud, including mule accounts and supply chain fraud
 
-## National Payments Corporation of India seeks approval to set up ‘techfin’ centre in GIFT City
-NPCI seeks approval to establish a techfin centre in GIFT City, enhancing India’s digital payment and financial technology landscape.
+## Mutual fund assets surpass FPIs for the first time, driven by strong SIP inflows
+Mutual funds now hold higher overall assets than FPIs, even as foreign investors remain the biggest equity holders.
 
-## ZIEL Network Expands Its Specialist Ecosystem; Partners with Poppy Seed Communication and Launches ZIEL42
-New Delhi, Delhi, India – Business Wire India
+## ‘India-US trade deal will unleash animal spirits’: Economist Surjit Bhalla sees China benefitting if doesn’t happen
+The trade deal has the potential to boost competitiveness and accelerate India’s journey towards becoming a developed nation, Surjit Bhalla said. However, he warned that prolonged delays in concluding such an agreement would ultimately work to China's advantage.
+
+## How India’s silver import restrictions have created shortages; white metal trading at significant premium to global prices
+As India relies on imports to meet more than 80% of its silver requirement, the sharp decline in overseas purchases could weigh on international silver prices while helping reduce the country's trade deficit and easing pressure on the rupee.
+
+## Bot calls, AI chat generated Rs 5520 crore loans in FY26: Sanjiv Bajaj
+Bajaj Finance is transforming lending by analyzing conversational data with AI bots. This AI integration enabled over Rs 5,520 crore in loan disbursals in FY2026. The company aims to become a financial AI enterprise, embedding intelligence in every decision. This strategic pivot will enhance custome
 
 ## US-Iran war impact: IMF lowers India’s GDP growth forecast marginally; still tags it among fastest growing economies
 According to the IMF, the global economy has so far avoided a steeper slowdown despite the war, as strong demand linked to the technology sector has helped offset the impact of reduced energy supplies caused by the conflict.
@@ -78,62 +84,56 @@ The Employees Provident Fund Organisation has completed its portal migration and
 ## Stock market crash: Bloodbath on Dalal Street! Sensex, Nifty50 tank 2% as Trump declares end of truce with Iran - top reasons for sharp fall
 Stock market crash: Selling pressure gathered pace during the second half of the session after US President Donald Trump declared that the interim agreement with Iran to end the conflict was "over," reigniting fears of further escalation in the Middle East.
 
-## Amid E20 petrol debate, why oil marketing companies are not too keen to expand E85 rollout
-Automobiles manufactured between 2012 and March 2023 were designed to run on fuel containing up to 10% ethanol, while vehicles produced before April 2025 are not fully compatible with E20 blends either.
+## Uranium deal, defence ties on agenda for PM Modi’s Australia visit
+Prime Minister Narendra Modi arrived in Australia from Indonesia on Wednesday evening as part of a three-nation tour that will also take him to New Zealand
 
-## Fresh Trump tariff threat looms: India’s strong stand on US Section 301 probe that proposes 12.5% duties - explained
-According to policymakers and trade experts, the pace of the investigation suggests that the US may replace the existing 10% tariff, which remains in force until July 24, with the proposed forced labour-related tariff. The United States Trade Representative (USTR) has advanced one of its two investi
+## Manipur to launch new operations to nab those who killed 2 Assam Rifle personnel
+Govindas said he convened a meeting with the director general of the CRPF and other senior security officials
 
-## Rupee erases previous gains, tumbles 20 paise against US dollar
-The Indian rupee opened weaker against the US dollar on Wednesday. Rising crude oil prices and geopolitical events impacted currency markets. The dollar index strengthened, and Brent crude futures climbed significantly. Domestic stock markets also mirrored this cautious sentiment, opening lower. For
+## After newlywed couple decorates 1st AC coupe, Railways suspends ticket checker, orders inquiry over 'serious lapse'
+The action came after a video of the decorated compartment went viral on social media.
 
-## DMK’s Senthil Balaji gets anticipatory bail in MLA poaching case
-The Madras High Court directed Senthil Balaji and his brother to appear before the investigating officer twice daily and cooperate with the probe.
+## MP woman delivers quadruplets in autorickshaw; all four newborns die
+The woman allegedly could not get an ambulance in time and gave birth to four premature babies inside an autorickshaw on the way to a hospital.
 
-## Cancer will afflict one in five in our lifetime: WHO report
-Health system performance in cancer management can be a catalyst for change or a driver of human, financial and societal crises, says the report
+## Modi, Prabowo inaugurate ASI-led Prambanan temple restoration project in Indonesia
+The Archaeological Survey of India will conserve the UNESCO-listed Prambanan Temple under an agreement reached during Prabowo’s 2025 India visit.
 
-## Uttarakhand CM approves ₹495 crore for infrastructure, civic projects and Kumbh 2027 preparations
-Uttarakhand has allocated ₹495 crore for vital infrastructure and public welfare projects, focusing on road improvements and tourism enhancements.
+## BJP supporters attacked TMC rally, assaulted women, says Mamata Banerjee
+On Tuesday, the high court allowed the Mamata Banerjee-led TMC to hold the rally over the rape and murder of a 12-year-old girl in Baruipur
 
-## Indian researcher Devesh Nandal named to Harvard-led UAP Science Advisory Council
-Indian astrophysicist Dr. Devesh Nandal has been appointed to Harvard's UAP Science Advisory Council, tasked with analyzing unexplained aerial phenomena.
+## Waiting for your PF interest? EPFO says 8.25% credit will be visible by July 15
+Labour Minister Mansukh Mandaviya said the annual interest at the approved rate of 8.25 per cent is being processed for around 34 crore member accounts.
 
-## Home minister, aviation minister review passenger facilities at major airports
-Amit Shah directed a comprehensive framework for airport entry, check-in, security and immigration to ensure seamless passenger movement.
+## PM Modi gets a musical gift from Indonesian President; leaders enjoy 'Kuch Kuch Hota Hai' melody played on it
+Indonesian President Subianto told PM Narendra Modi that the angklung instrument was “for your collection”.
 
-## Sonam Wangchuk loses over 7 kg of weight after 10 days of hunger strike, claims CJP
-The protest is centred on demands for Union Education Minister Pradhan's resignation and greater government accountability over alleged exam-related lapses.
-
-## Protesters, leaders detained at march over Navi Mumbai airport naming delay: Cop
-Police stopped the march within minutes of its start, detaining several leaders, activists and protesters, and escorting them into police vans
-
-## ‘Bank did not enforce…’: What Champat Rai blamed SBI for in his written submission amid Ram Temple ‘theft’ case
-In his one-page written Hindi submission before the SIT, accessed by HT, Rai alleged that the rules set by the bank but were flouted but never flagged.
-
-## Rs 12.26 lakh crore infra projects, flood control projects: Maharashtra CM outlines MMR growth
+## Bitter tasting smoothie, secret Secunderabad girlfriend: techie arrested in US for wife’s murder
 
 
-## Senior citizens can reclaim house from daughter-in-law: Karnataka High Court
+## Ram Temple Trust hands key role to new 3-member panel
 
 
-## Maharashtra rain: Why the Western Ghats received historically high rainfall this July
+## Delhi air cleanest this year after rain, temperatures dip; yellow alert for Thursday
 
 
-## No power, water or lifts: Vasai-Virar residents stranded for over 48 hours after heavy rain
+## From Canadian scrutiny to FBI’s Operation Hard Ball: How net tightened around Lawrence Bishnoi
 
 
-## Delhi High Court upholds late DTC driver’s 1988 dismissal, says 1-day enquiry not unfair
+## FDA suspends licence of iconic Mumbai ice cream outlet K Rustom over food safety violations
 
 
-## Mahesh Bhatt’s first wife was thrown out of orphanage, defended his marriage to Soni Razdan
+## Sourav Ganguly thanks Jay Shah, ICC for hall of fame induction
 
 
-## Trump says US may hit Iran again tonight, ‘take over Kharg Island’
+## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on flex-fuel vehicles, Astra’ missile and more (Week 170)
 
 
-## Save for retirement or fund kid’s Masters abroad? You learnt the answer when they were a baby
+## Remembering Shahrnush Parsipur, the Iranian feminist literary icon
 
+
+## China’s circuit-board makers push capex towards record to feed AI boom
+China’s printed circuit board (PCB) makers are embarking on a factory-building spree to feed demand fuelled by the global artificial intelligence boom, a rush that is expected to push their capital expenditure to a record high. In the first half of the year, more than 20 Chinese PCB companies – incl
 
 ## Beijing seeks chip stability and fair market access during Dutch trade minister’s trip
 Beijing has urged the Netherlands to ensure fair treatment for Chinese companies and maintain stable chip supply chains during a visit by the Dutch trade minister, as the two sides navigate tech tensions with Washington while seeking a “clean break” from friction over Nexperia. “We hope the Dutch go
@@ -156,8 +156,11 @@ Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s su
 ## Beyond the Noise: How Quality Journalism Drives Real-World Influence
 Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
-## BYD surpasses Tesla in global race; ‘do-or-die’ crisis in China’s market: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s BYD surpasses Tesla to regain lead in global EV race China’s electric vehicle 
+## The Ankara Summit Declaration
+Read the text outlining agreements at the 2026 NATO summit in Turkey.
+
+## Confronting Russia’s Shadow Fleet in Broad Daylight
+The Kremlin is claiming and arming its smuggling fleet. European governments need to respond.
 
 ## The Global Energy Map Is Being Redrawn in Real Time
 Confidence in the Strait of Hormuz has been shattered. Trust is now among the most important commodities in the energy world.
@@ -176,12 +179,6 @@ The United States has recast a small industry as a national security threat.
 
 ## NATO Goes Shopping
 Alliance members tout defense investments to try to head off Trump’s complaints.
-
-## Xi Is Defining History on His Own Terms
-The language of the “new era” leaves real reform behind.
-
-## Taiwan Believes Japan Will Help Defend Against China
-Opinion polling shows that trust in Tokyo is surprisingly deep.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UN inquiry urges release of Palestinian doctor jailed by Israel
-The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered 'severe abuse'.
+## Man sets wheelchair user in flames with Molotov cocktail
+US police have released video showing the moment a man set a wheelchair user on fire.
 
-## Iran’s supreme leader’s coffin arrives in Najaf
-Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.
+## FIFA World Cup: Quarterfinal brackets, match schedule and game previews
+Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.
 
-## Syria in tough balancing act as it tightens security after Damascus blasts
-Authorities increase security measures after back-to-back deadly explosions rattle residents.
+## Zelenskyy seeks NATO support as Russia continues attacks
+At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.
 
-## Iran signals defiance as Trump fumes over Strait of Hormuz strikes
-Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.
+## Why have 100,000 people been signed off work with ADHD in the UK?
+New government statistics find four million people claimed disability benefits in April.
 
-## Trump threatens Spain trade, demands US take over Greenland at NATO summit
-The US president described Spain as a 'terrible partner' over its actions during the US-Israel war on Iran.
+## Trump on Iran: ‘We’ll probably hit them hard again tonight’
+US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.
 
-## FIFA World Cup 2026: Biggest takeaways from the round of 16
-The last-16 phase is now behind us with plenty of key talking points as the tournament enters the quarterfinals.
+## ‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera
+‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funeral
 
-## Trump says MoU ‘over’ after latest US and Iranian attacks
-President Donald Trump has said the Memorandum of Understanding with Iran is ‘over’, after the latest strikes.
+## Why has UK Reform’s Nigel Farage resigned as MP? What happens next?
+Farage faces intense scrutiny over undeclared donations before 2024 elections as he says he'll run in by-election.
 
-## Gaza aid worker killed minutes before World Cup screening he organised
-Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.
+## Timeline: 20 years of Hamas rule in Gaza, from election to political exit
+A chronological look at key milestones from Hamas's 2006 election victory to its 2026 exit from governing Gaza.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
