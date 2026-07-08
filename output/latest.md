@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Trump grants Ukraine licence to produce Patriot missiles
-US president agrees to longstanding demand from Kyiv to make its own PAC-3 interceptors
+## Russia bans diesel exports in fuel crunch
+Ukrainian drone strikes on refineries have created petrol and diesel shortages and brought the war home for Russians
 
 ## Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead
 Reform UK leader’s rivals are running scared, say senior party figures
+
+## FCA says lenders want to let ‘foxes guard the henhouse’ on car finance
+UK regulator alleges in court filing that lenders want to determine own liability for compensation
+
+## Javier Milei wants US-style government shutdowns in Argentina
+Government should suspend functions when lawmakers reach an impasse on spending, says rightwing leader
+
+## How Trump brought non-alignment back from the dead
+The US president is single-handedly reviving a doctrine of the postcolonial left
+
+## Trump grants Ukraine licence to produce Patriot missiles
+US president agrees to longstanding demand from Kyiv to make its own PAC-3 interceptors
 
 ## Le Pen revives presidential bid echoing Trump
 French far-right leader portrays herself as a modern-day Joan of Arc going against the political establishment
@@ -12,53 +24,53 @@ French far-right leader portrays herself as a modern-day Joan of Arc going again
 ## Ukraine intensifies attacks on Russian ships in Azov Sea
 Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 
+## FCA charges lawyer with insider trading over Seraphine sale
+M&A solicitor who worked at Goodwin Procter’s London office accused of 5 counts of using inside information
+
 ## Segro lays out defence as it battles £12.6bn takeover attempt by US rival
 UK property group believes 925p a share offer by Prologis undervalues its warehouse and data centres business
 
-## UK scientists propose tiny satellites to sniff out nuclear weapons in space
+## Scientist proposes tiny satellites to sniff out nuclear weapons in space
 Idea would help deal with danger of conflict in increasingly crowded orbits around Earth
 
 ## Why the US and Iran are stuck in a cycle of tit-for-tat strikes
 Trump’s push to get ships moving through the Strait of Hormuz keeps colliding with Tehran’s resistance to cede control
 
-## Nigel Farage’s unusual by-election opponent: Count Binface
-Comedy candidate is becoming a vehicle for opposition to Reform UK’s leader
-
 ## US and Iran trade strikes after attacks on tankers
 Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ following round of tit-for-tat bombing
 
-## UniCredit secures 48% stake in Commerzbank
-Italian bank closes in on majority control of German lender after end of tender period
+## Ancient quasars deepen a major unsolved problem in astrophysics
+The Euclid space telescope has identified 31 ancient quasars, including the earliest known, challenging existing theories of black hole growth in the early universe
 
-## BBC and Channel 4 in talks to create British streaming champion
-Broadcaster’s new director-general Matt Brittin says UK needs platform to compete with Netflix
+## Agri-commodity markets have not priced in fertilizer supply risks, say analysts
+High prices of the crop nutrients could lead to less utilisation as China, India will likely face problems
 
-## Maybe the trusty conglomerate playbook is due a rewrite
-Perhaps it’s managers, not markets, that are inefficient
+## Construction equipment sales slump 41% in June: FADA data
+Slowdown was due to high base and subdued demand environment
 
-## Story TV appoints former Yashraj Films executive as SVP of content and strategy
-Former Yash Raj Films executive Manan Mehta will lead Story TV’s premium vertical storytelling, original IP development and content partnerships
+## Crude oil price surges more than 6% after Trump says ceasefire with Iran is 'over'
+Brent crude price jumps 6.3% to $78.80 a barrel
 
-## SBI Mutual Fund to launch IPO on July 14
-Price band to be announced later
+## Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt
+A high-level review assessed the likely impact of El Nino on the kharif season and other sectors
 
-## Pocket
+## Rupee sees worst single-day fall in a month
+G-Sec yields spike as crude oil prices harden
 
+## Coal Ministry invites applications for ₹37,500-crore coal gasification programme
+The scheme aims to boost energy security, reduce import dependence and promote coal-to-chemicals manufacturing
 
-## Mahesh Pai to take charge at South Indian Bank from Oct 1, 2026
-Pai is currently Chief General Manager at Canara Bank
+## Tata Steel posts 3% growth in June quarter sales, India production jumps 11%
+Branded products, retail sales and e-commerce posted strong growth, while the UK business advanced its Port Talbot EAF project
 
-## Demand for GLP-1 weight-loss and diabetes drugs plateaus, says industry tracker
-A total of 31 generic semaglutide brands contributed to 82 per cent of the unit sales of the month
-
-## Centre approves copra and Totapuri mango procurement in Tamil Nadu
-The Centre has approved the procurement of 87,226 tonnes of copra and 96,879 tonnes of Totapuri mangoes from Tamil Nadu farmers
-
-## 60% of organizations will adopt smaller software engineering teams by 2029: Gartner
+## Clean energy share in power mix breached 50% mark on July 6
 
 
-## Mutual fund assets surpass FPIs for the first time, driven by strong SIP inflows
-Mutual funds now hold higher overall assets than FPIs, even as foreign investors remain the biggest equity holders.
+## Trump’s ceasefire ‘over’ remarks & fresh Strait of Hormuz disruptions: What it means for India
+Before the conflict, the Strait of Hormuz handled nearly 40% of India's crude oil imports, around 60% of its LNG imports and approximately 90% of its LPG supplies, underlining the country's heavy dependence on the strategic waterway.
+
+## US stocks today: Oil jumps nearly 5%, shares tumble as Trump declares Iran ceasefire 'over'
+Global stock markets declined and oil prices surged on Wednesday. US President Donald Trump cast doubt on the temporary Iran conflict truce. This raised fears that renewed fighting could disrupt global energy supplies. Wall Street opened lower after Trump suggested the ceasefire was effectively over
 
 ## ‘India-US trade deal will unleash animal spirits’: Economist Surjit Bhalla sees China benefitting if doesn’t happen
 The trade deal has the potential to boost competitiveness and accelerate India’s journey towards becoming a developed nation, Surjit Bhalla said. However, he warned that prolonged delays in concluding such an agreement would ultimately work to China's advantage.
@@ -75,61 +87,52 @@ According to the IMF, the global economy has so far avoided a steeper slowdown d
 ## Income tax notices decoded: What every taxpayer should know about ITR filing to avoid scrutiny
 One important thing to understand is this: In the current compliance environment, tax notices are increasingly driven by data inconsistencies rather than intent. A tax notice can not only mean a process of explaining discrepancies but can also put any refund claims on hold till the matter is resolve
 
-## Are Indians swiping less? Credit card story has grown bigger, user base hasn’t
-India's credit card market has grown significantly over the past decade. However, credit card penetration remains low compared to global benchmarks. Younger consumers and semi-urban areas now show increased credit card ownership. Credit cards now face competition from digital payment methods like UP
+## Sonam Wangchuk calls for Parliament march on July 20: ‘Do a little more’
+Activist Sonam Wangchuk's call for Parliament on July 20, first day of monsoon session, comes amid the CJP's ongoing protest over the NEET paper leak scam.
 
-## New EPFO portal: Faster claims, smarter processing & more — what changes for PF members
-The Employees Provident Fund Organisation has completed its portal migration and restored online services. Members can now benefit from automated claim pre-validation and upfront error flagging. The new system offers a unified dashboard for viewing all membership details and balances. Interest credi
+## Scientifically Speaking: Do early winners become winning adults?
+A new Science study challenges the belief that child prodigies and early toppers become most successful adults, offering lessons for India’s education system
 
-## Stock market crash: Bloodbath on Dalal Street! Sensex, Nifty50 tank 2% as Trump declares end of truce with Iran - top reasons for sharp fall
-Stock market crash: Selling pressure gathered pace during the second half of the session after US President Donald Trump declared that the interim agreement with Iran to end the conflict was "over," reigniting fears of further escalation in the Middle East.
+## ‘Police acting as BJP arm’: Mamata accuses ruling party of blocking TMC protest on Baruipur rape-murder
+Mamata Banerjee claimed that the police had failed to discharge their duties impartially, and alleged that the cops had become “an arm of the BJP organisation”.
 
-## Uranium deal, defence ties on agenda for PM Modi’s Australia visit
-Prime Minister Narendra Modi arrived in Australia from Indonesia on Wednesday evening as part of a three-nation tour that will also take him to New Zealand
+## Mamata Banerjee's slap at Baruipur protest caught on camera; BJP shares video
+In a post on X, BJP spokesperson Pradeep Bhandari claimed that Mamata Banerjee had slapped a TMC worker.
 
-## Manipur to launch new operations to nab those who killed 2 Assam Rifle personnel
-Govindas said he convened a meeting with the director general of the CRPF and other senior security officials
+## India expresses deep concern at fresh West Asia tensions, calls for dialogue
+India urged all parties to exercise restraint and return to dialogue after fresh attacks in West Asia threatened the fragile Iran-US ceasefire and energy flows.
 
-## After newlywed couple decorates 1st AC coupe, Railways suspends ticket checker, orders inquiry over 'serious lapse'
-The action came after a video of the decorated compartment went viral on social media.
+## Baruipur horror: A 12-year-old's rape and murder has spiralled into a political flashpoint in Bengal
+The alleged “encounter” of one of the accused has also been in focus, with BJP terming in “divine justice” and Mamata Banerjee-led TMC calling it “jungle law”.
 
-## MP woman delivers quadruplets in autorickshaw; all four newborns die
-The woman allegedly could not get an ambulance in time and gave birth to four premature babies inside an autorickshaw on the way to a hospital.
+## Higher education enrolment hits 45 million, women gain ground in STEM: AISHE report
+India’s higher education enrolment reached a record 45 million in 2023-24, while women’s participation in STEM programmes rose to 44%, AISHE data showed.
 
-## Modi, Prabowo inaugurate ASI-led Prambanan temple restoration project in Indonesia
-The Archaeological Survey of India will conserve the UNESCO-listed Prambanan Temple under an agreement reached during Prabowo’s 2025 India visit.
+## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
+NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
 
-## BJP supporters attacked TMC rally, assaulted women, says Mamata Banerjee
-On Tuesday, the high court allowed the Mamata Banerjee-led TMC to hold the rally over the rape and murder of a 12-year-old girl in Baruipur
-
-## Waiting for your PF interest? EPFO says 8.25% credit will be visible by July 15
-Labour Minister Mansukh Mandaviya said the annual interest at the approved rate of 8.25 per cent is being processed for around 34 crore member accounts.
-
-## PM Modi gets a musical gift from Indonesian President; leaders enjoy 'Kuch Kuch Hota Hai' melody played on it
-Indonesian President Subianto told PM Narendra Modi that the angklung instrument was “for your collection”.
-
-## Bitter tasting smoothie, secret Secunderabad girlfriend: techie arrested in US for wife’s murder
+## World Cup 2026 controversy: Messi, Trump, and a conspiracy thriller
 
 
-## Ram Temple Trust hands key role to new 3-member panel
+## Priyanka Chopra’s airport hack for stress-free travel: ‘I hate going and being called back’
 
 
-## Delhi air cleanest this year after rain, temperatures dip; yellow alert for Thursday
+## ICC contacts ECB over Ben Stokes retirement video released mid-Test vs NZ
 
 
-## From Canadian scrutiny to FBI’s Operation Hard Ball: How net tightened around Lawrence Bishnoi
+## Sharad Pawar meets Eknath Shinde amid ‘talks’ in NCP(SP) over joining NDA
 
 
-## FDA suspends licence of iconic Mumbai ice cream outlet K Rustom over food safety violations
+## FIFA World Cup | Disallowed Egypt goal: All VARs are equal, some more equal than others
 
 
-## Sourav Ganguly thanks Jay Shah, ICC for hall of fame induction
+## Why a ‘self-critical’ Novak Djokovic keeps chasing greatness at 39
 
 
-## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on flex-fuel vehicles, Astra’ missile and more (Week 170)
+## Congress leader flags delays in SIR in Andheri
 
 
-## Remembering Shahrnush Parsipur, the Iranian feminist literary icon
+## Churches, Christian Missionary owned land parcels will be probed across Maharashtra: Bawankule
 
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
@@ -156,6 +159,12 @@ Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s su
 ## Beyond the Noise: How Quality Journalism Drives Real-World Influence
 Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
+## NATO’s New Enemy Is the Thermometer
+Extreme heat events are threatening the alliance’s plans.
+
+## What Will Happen to Iran’s Sea Mines?
+The overlooked technology wreaked havoc on the Strait of Hormuz—and global trade.
+
 ## The Ankara Summit Declaration
 Read the text outlining agreements at the 2026 NATO summit in Turkey.
 
@@ -174,35 +183,32 @@ A pall of cynicism hangs over proceedings against Vice President Sara Duterte.
 ## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
 France remains committed to bolstering cooperation with Syria.
 
-## The Myth of Chinese Birth Tourism
-The United States has recast a small industry as a national security threat.
+## India, Indonesia Put in Place a Blueprint for a Durable Strategic Partnership
+The highlight of the Indian prime minister's visit to Indonesia was the finalization of a long-pending agreement on the supply of BrahMos missile system and Astra air-to-air missiles.
 
-## NATO Goes Shopping
-Alliance members tout defense investments to try to head off Trump’s complaints.
+## 4-Way Race for Democratic Party Leadership Tests Lee Jae-myung’s Influence
+With Former Prime Minister Kim Min-seok’s formal confirmation of his bid for the leadership, the race may likely be intense, given the tensions between the pro-Lee and pro-Jung factions.
 
-## Not Just Rare Earths – Is This China’s Next Economic Weapon?
-China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
+## More and More of East Asia’s Youth Have Given up on Finding Jobs
+A broken social bargain calls for a new approach to youth employment.
 
-## Whither an International Response to China’s Ethnic Unity Law?
-The conventional tools previously used to penalize China for its rights abuses – sanctions, public pressure, condemnation, institutional mechanisms, and more – have all been blunted.
+## Taiwan and Poland’s Drone Industry Convergence
+Insights from Dorota Maczuga
 
-## China’s Submarine-launched Ballistic Missile Test Was a Message to the Pacific
-The list of countries notified in advance, as well as the timing, suggests that China’s purpose was not merely a straightforward display of military power.
+## Why is India Allowing Chinese Equipment in Critical Government Projects Again?
+Even sectors that are showcased as symbols of India's economic success often depend on Chinese inputs somewhere in the production chain.
 
-## As the Dalai Lama Turns 91, India and China Are Fighting for the Future of Buddhism
-With the revered Tibetan leader over 90 years old the rivalry between New Delhi and Beijing over who speaks for the Buddhist world is entering its most consequential phase.
+## The New Constitution Reset the Presidential Clock in Kazakhstan. But Will Tokayev Run?
+Kazakhstan's Constitutional Court confirmed this week that the president is eligible to run for another single seven-year term under the new constitution.
 
-## From Partnership to Union: Australia and Fiji Sign 2 New Security Agreements
-With the Vuvale Union and the Veitacini Treaty, Canberra and Suva chart a new course for regional security.
+## Despite Sanctions, the Myanmar Government Continues to Procure High Volumes of Jet Fuel
+An independent group examined official documents from Myanmar ports, leaked bank documents and open-source data to chart the network that supplies Myanmar with jet fuel.
 
-## Pakistan Ups the Ante on Indus Water Dispute With India
-There is growing eagerness in Pakistan to involve China, the other upper riparian country, more directly in the issue.
+## Uzbekistan’s Race to Build a Digital State
+As in many rapidly digitalizing countries, Uzbekistan’s technological transformation may be advancing faster than the necessary regulatory frameworks.
 
-## China’s Pacific SLBM Test Signals a New Phase in Undersea Nuclear Competition
-The test, likely involving the JL-3 and coming just after the United States’ 250th Independence Day, underscored China's increasingly credible sea-based nuclear deterrent.
-
-## Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’
-The affirmations come after an Indonesian minister raised the idea of imposing a levy on vessels passing through the vital chokepoint.
+## A Fresh Look at the Houthi Threat to Maritime Shipping
+In 2024, Allison Minor wrote, “Solving the Houthi Threat to Freedom of Navigation,” where she argued the international response to Houthi attacks on shipping in the Red Sea has so far been inadequate and proposed a U.N.-led solution. Two years later, with global attention once again focused on marit
 
 ## The Davis Wing, the B-24 Liberator, and the Self-Made Bet That Paid Off
 The most produced American military aircraft of World War II was not a small fighter, a trainer, or a simple utility airplane — it was a complex four-engine heavy bomber called the B-24 Liberator. Over the course of five years, American industry produced a staggering 18,482 of these bombers, and the
@@ -224,9 +230,6 @@ What do you do when two identities that make up your deepest self find themselve
 
 ## Happy 250th Birthday, America!
 Editor’s Note: Few rivalries in American history have been as consequential — or as personal — as the one between John Adams and Thomas Jefferson. The two men could hardly have been more different. Adams, the stocky and combative Massachusetts lawyer, was blunt to a fault and quick to suspicion. Jef
-
-## The Integrated Circuit and the Future of American AI Leadership
-Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Man sets wheelchair user in flames with Molotov cocktail
-US police have released video showing the moment a man set a wheelchair user on fire.
+## NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’
+Trump says US will 'show' Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.
 
-## FIFA World Cup: Quarterfinal brackets, match schedule and game previews
-Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.
+## The Strait of Hormuz is now at the centre of Iranian and US calculus
+The fate of the strait is directly linked to what happens next to the world economy.
 
-## Zelenskyy seeks NATO support as Russia continues attacks
-At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.
+## US charges Indian crime leader in Sikh activist’s assassination
+US indicts Indian crime boss, links him to Sikh leader's killing that strained India-Canada relations.
 
-## Why have 100,000 people been signed off work with ADHD in the UK?
-New government statistics find four million people claimed disability benefits in April.
+## Egypt criticises ‘influential refereeing’ in Argentina World Cup match
+Egyptian football officials have reportedly lodged a complaint with FIFA against the referees in their last-16 match.
 
-## Trump on Iran: ‘We’ll probably hit them hard again tonight’
-US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.
+## Far-right leader Le Pen starts campaign, faces mixed reactions in France
+A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France.
 
-## ‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera
-‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funeral
+## Pakistan military says 42 killed in fighter attacks in Balochistan
+Military spokesman warns fighters 'we will chase you, we will hurt you' amid the spate of deadly ambushes.
 
-## Why has UK Reform’s Nigel Farage resigned as MP? What happens next?
-Farage faces intense scrutiny over undeclared donations before 2024 elections as he says he'll run in by-election.
+## Oil for unity: What is the US mediation plan in Libya?
+The plan, led by Trump relative Massad Boulos, promises oil investments if rival factions work together.
 
-## Timeline: 20 years of Hamas rule in Gaza, from election to political exit
-A chronological look at key milestones from Hamas's 2006 election victory to its 2026 exit from governing Gaza.
+## Germany urges US-Iran negotiations, offers to minesweep Hormuz
+German Foreign Minister Johann Wadephul urged the US and Iran to resume negotiations.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
