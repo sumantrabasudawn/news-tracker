@@ -1,10 +1,22 @@
 # AION Intelligence
 
+## UniCredit secures 48% stake in Commerzbank
+Italian bank closing in on majority control of German lender after end of tender period
+
+## Outspoken Chinese economist who doubted official GDP data dies
+Gao Shanwen lauded by online commenters as ‘truth teller’ in country known for strict censorship
+
+## Re-election would not put Farage in the clear
+Opposition parties refuse to stand against scandal-hit politician in Reform’s safest seat of Clacton
+
+## US and Iran trade strikes after attacks on tankers
+Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ after round of tit-for-tat bombing
+
 ## Farage by-election gambit undercut by rivals’ refusal to participate
 Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
 
-## Virgin Media O2 fined for likely mishandling millions of calls in delay tactics
-Ofcom uncovers tactics such as excessive call transfers to prevent customers from cancelling contracts
+## Virgin Media fined £28mn for preventing customers from cancelling contracts
+Ofcom uncovers delay tactics that meant millions of calls were likely to have been mishandled
 
 ## South Korea falls into bear market as traders fret over AI chipmakers’ prospects
 Kospi retreats more than 20% from June peak as sentiment starts to turn on Samsung Electronics and SK Hynix
@@ -12,62 +24,44 @@ Kospi retreats more than 20% from June peak as sentiment starts to turn on Samsu
 ## Singapore’s Temasek doubles down on AI and private credit
 State investor focuses on accelerating returns after several lacklustre years
 
-## New Zealand central bank chief hails growth ‘rebound’
-RBNZ raises interest rates for first time in 3 years as inflation persists
+## Tesco explores sale of European business
+Disposal would refocus UK’s biggest grocer on home market and end decades-long attempt to build major global operation
 
-## Trump ‘completely committed’ to Nato despite renewed threats, Rutte says
-US president has threatened to remove US troops from Europe and revived calls to take control of Greenland
-
-## The BoE vs AI exuberance
-AI bonds are the new gilts
-
-## US launches new wave of Iran strikes after attacks on tankers
-Nato secretary-general Rutte backs US action as ‘absolutely necessary’ as Revolutionary Guards retaliate
+## Vistry shares slide as it warns of first-half loss and finance chief quits
+Struggling UK housebuilder outlines plan to slim business as it grapples with market slowdown
 
 ## FirstFT: Le Pen to run for French presidency
 Also in today’s newsletter: Farage’s by-election gambit and US troops in Europe
 
-## Introducing: The Story of Money
-A new video podcast from The FT exploring the history of finance
+## Sensex today | Stock Market Live: Sensex plunges over 1800 pts, Nifty 50 below 23,800 level
+Sensex, Nifty, Share Prices LIVE: Sensex traded 1831.13 pts or 2.34% lower at 76,349.59, and Nifty 50 depreciated 566.80 pts or 2.32% to 23,831.90.
 
-## The maths on London’s IPO drought
-The value of bids for companies on the London Stock Exchange is 27 times greater than the value of new entrants this year
+## Pallikaranai Ramsar curbs could impact ₹72,000 crore economic activity, affect one lakh landowners: CREDAI
+According to CREDAI’s assessment, the planning freeze could affect ₹51,735.88 crore worth of real estate business.
 
-## Ships to pay higher EU carbon fees as Brussels seeks to close loophole
-Move to strengthen rules on emissions charges risks causing tensions with trading partners
+## ICICI Prudential Life Insurance reports 14.6% APE growth in June quarter, stocks in red
+Retail Weighted Received Premium (RWRP) for Q1-FY2027 grew 13.4% to ₹15.38 billion, with June contributing ₹6.23 billion, a 12.7% year-on-year increase
 
-## Value of UK takeover bids outstrips new London listings by 27 to 1
-Bids for listed companies worth nearly £60bn while combined market value of new entrants stands at only £2.2bn
+## Ola Electric counters NCLT insolvency claims
+According to Ola Electric, the vendors filed the insolvency petitions under Section 9 of the IBC only after the arbitration proceedings had commenced, in an attempt to bypass the quality dispute
 
-## Ocado’s troubles show the ‘founder trap’ in miniature
-While Tim Steiner may have lost some credibility, it’s hard to imagine a professional manager turning the business around
+## NATO Summit: Trump escalates feud with Spain, orders trade cutoff
+The US president called Madrid a “terrible partner” in the alliance;, says he wanted no business with ‌Spain
 
-## US rare earths flow to Asia as domestic demand is slow to emerge
-Miners backed by Trump administration sell to Japan and South Korea despite push to develop domestic supply chain
+## PM Modi leaves for Australia after Indonesia visit
+During the visit, Modi held bilateral talks with Indonesian President Prabowo Subianto, who personally dropped him off at the airport in a special gesture
 
-## JLR sees growth revival on new models, modern luxury push after challenging FY26
-Tariff pressures and a cyber incident weighed on FY26, but Chairman N Chandrasekaran says Jaguar Land Rover is entering its next growth phase under CEO PB Balaji with next-generation vehicles, a Modern Luxury strategy and closer collaboration with Tata Motors Passenger Vehicles
+## Gold falls, crude oil rises after Trump says Iran peace deal ‘over’
+Trump says interim accord with Iran to end war is ‘over’
 
-## Marksans Pharma to acquire Germany-based ABCnow GmbH
-ABCnow GmbH is a pharmaceutical company with front-end sales, marketing, and distribution capabilities across the German healthcare market
+## Temasek stays optimistic on India’s long-term investment outlook
+Temasek remains focused on India’s consumer, financial services and healthcare sectors, citing strong structural growth driver
 
-## Sensex today | Stock Market Live: Sensex down 680 pts, trades at 77,502.24; Nifty slips 210 pts; JioFinance, IndiGo top losers
-Sensex, Nifty, Share Prices LIVE: Benchmark equity indices Sensex and Nifty tumble amid renewed US-Iran tensions and a fresh spike in crude oil prices
+## Stock market crash: Bloodbath on Dalal Street! Sensex, Nifty50 tank 2% as Trump declares end of truce with Iran - top reasons for sharp fall
+Stock market crash: Selling pressure gathered pace during the second half of the session after US President Donald Trump declared that the interim agreement with Iran to end the conflict was "over," reigniting fears of further escalation in the Middle East.
 
-## Indian refiner MRPL cancels West Asia vessel charter, sources say
-It was not ‌clear whether the ​chartering failed due to heightened tension ⁠in the Strait of Hormuz, the sources ‌said
-
-## NATO leaders meet in Ankara as US ceasefire with Iran teeters
-NATO Secretary General Mark Rutte defended the new ‌U.S. strikes ⁠as "absolutely necessary" and played down Trump's disappointment with allies as "isolated cases"
-
-## Sensex falls over 680 pts, Nifty slips below 24,200 mark as crude oil spike weighs; FMCGs, oil & gas stocks drag
-Broader markets also traded lower, with the Nifty Midcap and Smallcap indices slipping 0.18% and 0.17%, respectively.
-
-## Tata Motors Passenger Vehicles targets 1.2 million annual sales, 20% market share in FY31 growth plan
-Tata Motors Chairman N. Chandrasekaran says the company’s passenger vehicles listed entity will ‘grow the business by 10x’ over FY20-FY31, backed by six new nameplates, 20-plus product refreshes and EVs contributing over 30% of volumes
-
-## Ford Motor launches third India technology and business services centre at Coimbatore
-The 800-seat centre in Coimbatore will predominantly house the company’s accounting, financing (Ford Credit) and other business operations
+## Amid E20 petrol debate, why oil marketing companies are not too keen to expand E85 rollout
+Automobiles manufactured between 2012 and March 2023 were designed to run on fuel containing up to 10% ethanol, while vehicles produced before April 2025 are not fully compatible with E20 blends either.
 
 ## Fresh Trump tariff threat looms: India’s strong stand on US Section 301 probe that proposes 12.5% duties - explained
 According to policymakers and trade experts, the pace of the investigation suggests that the US may replace the existing 10% tariff, which remains in force until July 24, with the proposed forced labour-related tariff. The United States Trade Representative (USTR) has advanced one of its two investi
@@ -87,83 +81,80 @@ Stock market recommendations: Hero MotoCorp, Tata Steel are the top stocks to bu
 ## Crude loses cool: Oil prices soar 3% as Middle East tensions flare again
 Oil prices rose sharply after United States military strikes targeted Iran. These actions followed attacks on commercial vessels in the Strait of Hormuz. Qatar blamed Iran for striking a liquefied natural gas tanker and an oil supertanker. Maritime security warned of severe threats to ships crossing
 
-## India moves up 2 places in FDI inflow ranking
+## ‘Name one car’: Nitin Gadkari's big challenge amid criticism over E20 fuel rollout
+Gadkari said India's dependence on fossil fuels is both an economic burden and an environmental challenge.
+
+## Worst possible day for Sensex, Nifty in 2 months: Why is market down today?
+Worst possible day for Sensex, Nifty in 2 months: Why is market down today?
+
+## Sensex crashes by 1700 points after Trump hints at Iran war resumption
+Sensex crashes by 1700 points after Trump hints at Iran war resumption
+
+## 'Will company compensate if…': Kejriwal's letter to Maruti, Toyota and Hero seeking clarification on E20 fuel policy
+Addressing a press conference in Delhi, AAP leader Kejriwal said that he had sent separate letters to three companies: Maruti, Toyota, and Hero.
+
+## Missing blood-stained towel from Kochi court resurfaces in Fazal murder trial
+A crucial blood-stained towel, evidence in the murder case of Mohammed Fazal, has been recovered after being reported missing from the Ernakulam CJM Court.
+
+## PM Modi in the Pacific: India’s push for economic security
+Bilateral trade has crossed US$25 billion annually, supported by the India-Australia Economic Cooperation and Trade Agreement
+
+## Manipur CM pays tribute to Assam Rifles personnel killed in Ukhrul ambush
+The two Assam Rifles personnel succumbed to bullet injuries sustained during the ambush carried out by unidentified armed miscreants about 16km from the Ukhrul around 1.30pm on July 6.
+
+## Your Money: How much life insurance is enough?
+A ₹1 crore cover may not be sufficient to protect your family. Here’s how to calculate what you actually need
+
+## Building collapses in Maharashtra’s Pimpri Chinchwad after heavy rain, around 15 feared trapped under debris
 
 
-## Services Index Release: Govt to roll out new ISP from July 14; health, education excluded
+## Tokyo to Nagoya in 40 minutes: Japan approves 500 kmph high-speed Maglev train project
 
 
-## Shiv Sena's Ramesh Mhatre breaks silence on viral hospital assault video: 'Didn't raise hand, never hit female doc'
-The corporator added that the altercation stemmed from the doctor allegedly failing to listen to the grievance and talking on the phone.
-
-## Shiv Sena corporator assaults doctors, nurses at hospital, viral video sparks row; UBT Sena slams ‘goondagiri’
-Mhatre and five others were seen on CCTV footage while attacking doctors Srishti Bawiskar and Vaibhav Salunkhe at a civic-run hospital in Kalyan on Monday.
-
-## MP woman goes into labour inside auto, all newborns die; family alleges abscence of ambulance
-Health officials said the babies were born prematurely, while the family claims the lack of an ambulance cost the newborns their lives
-
-## Court orders inquiry after man alleges torture by CBI
-The order was passed by special judge Sushant Changotra of Rouse Avenue Courts after the accused, Prabhat Kumar, arrested on June 16 by the federal agency
-
-## BJP, RSS plan outreach to counter Ram Temple donation row ahead of UP polls
-The RSS is also working on a similar outreach programme that could include a door-to-door campaign to reassure devotees.
-
-## More rain, thunderstorms expected in Delhi; IMD issues yellow alert
-The India Meteorological Department (IMD) said parts of Delhi received light rain late on Tuesday night and early Wednesday morning
-
-## Mahadev founder Sourabh Chandrakar detained in Oman, extradition request being sent
-Officials who didn’t want to be named said Chandrakar, whose last location was in the UAE, was taken into custody by Royal Oman police based on an Interpol notice issued by Indian agencies
-
-## PM Modi shares stunning aerial view of Prambanan Temple during Indonesia visit: ‘Majestic!’
-PM Modi shared an aerial view of Indonesia's Prambanan Temple ahead of launching an India-backed conservation project with Indonesian President Prabowo.
-
-## Drug regulators may soon publicly name firms facing licence suspension, recall orders
+## Maharashtra teachers to shut schools tomorrow to protest TET rule, SIR work
 
 
-## Domestic violence law also for couples who shared a home once: Allahabad High Court
+## 5 minors among 6 booked for blocking ambulance in Bengaluru stunt ride
 
 
-## XAT 2027 registration begins July 15; day 1 applicants to get first-choice exam city
+## Mumbai-Pune Expressway landslide: Unavoidable disaster, or a preventable failure?
 
 
-## World Cup 2026: Ticket prices drop by 50 percent after Portugal, USA exits
+## ‘Wanted to wear sindoori red’: Anshula Kapoor wows in custom Banarasi corseted creation at wedding reception
 
 
-## 2 Mumbai lakes are overflowing: Should you worry about flooding?
+## Adultery no longer a crime’: Jharkhand High Court reinstates dismissed constable
 
 
-## Bryan Johnson says his stomach couldn’t absorb iron for 11 years
+## Ambulance unavailable, woman loses quadruplets after delivering in autorickshaw in Madhya Pradesh
 
 
-## Forced to attend conference in borrowed suit after airline loses bag, banker wins Rs 15,000
+## China further boosts Hong Kong’s role as offshore yuan hub
+China’s central bank announced more measures to expand Hong Kong’s role as an offshore yuan hub, injecting “vitality” into the city’s markets and supporting efforts to grow international use of the currency. Institutions in mainland China would be able to buy a net 800 billion yuan (US$118 billion) 
 
+## Are the US’ AI models better than China’s? That may be beside the point
+As another heatwave rolled across Europe, the warehouses emptied before the politics could catch up. Air conditioners and fans sold out across Spain, Italy and Germany, most of them Chinese. Fan sales in Spain alone on the retail platform of Alibaba Group Holding (which owns the South China Morning 
 
-## Shinde Sena distances itself from accused corporator in Thane hospital assault; 3 held
+## BYD challenges Porsche’s 911 with launch of electric supercar in Europe
+Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s supercars with plans to sell its Denza-branded new models in developed markets, the latest sign of its increasing heft in designing and manufacturing premium vehicles. The Shenzhen-based carmaker planned to unveil the Denza 
 
+## Beyond the Noise: How Quality Journalism Drives Real-World Influence
+Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
+
+## BYD surpasses Tesla in global race; ‘do-or-die’ crisis in China’s market: 7 EV reads
+We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. China’s BYD surpasses Tesla to regain lead in global EV race China’s electric vehicle 
 
 ## Mainland Chinese tech firms find more than just deep capital pools in Hong Kong
-Mainland Chinese technology companies newly listed in Hong Kong are deepening their engagement with the city, tapping not only its capital markets but also its global connectivity to refine products, forge international partnerships and expand overseas, according to executives. For Beijing-based ser
+Mainland Chinese technology companies newly listed on Hong Kong’s stock exchange are deepening their engagement with the city, tapping not only its capital markets but also its global connectivity to refine products, forge international partnerships and expand overseas, according to executives. For 
 
 ## China’s biotech firms challenge US with rapidly developing RAS-targeted cancer therapies
 When the shares of Revolution Medicines surged after the US biotech firm unveiled a landmark result – its drug nearly doubled the overall survival for late-stage pancreatic cancer patients to 13.2 months – investment banks and scientists flagged that the company’s Chinese rivals racing to target the
 
 ## Hong Kong stocks rise as rallies from Alibaba, SMIC, other tech giants lift market sentiment
-Hong Kong stocks extended their gains on Wednesday afternoon as concerns over a wave of lock-up expiries, long seen as a major headwind for the city’s equities, showed early signs of easing, while surging rallies in tech heavyweights lifted broader market sentiment. The Hang Seng Index, which entere
+Hong Kong stocks closed on a sharp high on Wednesday, led by technology shares, as concerns over a wave of post-IPO lock-up expiries eased after newly unlocked shares were absorbed into the market without triggering a sell-off. The benchmark Hang Seng Index finished the session up 3 per cent, while 
 
-## Mainland China court claims jurisdiction over Hong Kong-listed company in investor lawsuit
-A mainland Chinese court has claimed jurisdiction over an investor lawsuit against a Hong Kong-listed firm for the first time, with the move likely to increase scrutiny of corporate disclosures. Mainland investors filed the lawsuit with the Beijing Financial Court, alleging that an overseas-incorpor
-
-## Mainland China markets follow US in embracing tech stock dominance
-Mainland China’s stock markets are converging with those in the US when it comes to the concentration of technology companies, with the sector becoming the biggest constituent of key equity benchmarks. Technology stocks now represent 27 per cent of the weighting in the CSI 300 Index – which tracks t
-
-## Hong Kong’s property market set to cool despite run of record-breaking deals
-Hong Kong’s residential property market has regained momentum in recent months amid a string of record-breaking deals. But analysts warn that the rally is likely to cool in the second half of the year, as a weaker stock market weighs on investor sentiment. A string of huge deals in the city has gene
-
-## How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge
-For decades, warnings of Hong Kong’s terminal decline have arrived in periodic waves. When Stephen Roach, the former chairman of Morgan Stanley Asia, ignited a firestorm with his February 2024 assertion that “Hong Kong is over”, he pointed to a toxic cocktail of domestic and external pressures. Roac
-
-## China extends gold-buying binge to 20th month amid Beijing’s de-dollarisation push
-China’s central bank extended its gold-buying streak to a 20th straight month in June, adding 480,000 troy ounces (14.93 tonnes) to its reserves as policymakers continued to accumulate bullion amid de-dollarisation discussions. The People’s Bank of China said gold holdings rose to 75.44 million troy
+## The Philippines’ ‘Trial of the Century’ Begins
+A pall of cynicism hangs over proceedings against Vice President Sara Duterte.
 
 ## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
 France remains committed to bolstering cooperation with Syria.
@@ -185,9 +176,6 @@ A host is supposed to harvest the world’s goodwill, not burn it.
 
 ## Putin May Escalate, but Ukraine Is Winning
 In the ongoing battle of narratives, Kyiv’s supporters have every reason to hold the course.
-
-## Iran Is Still Fighting a War Against Dissidents Abroad
-Iranians in Europe say governments aren’t taking threats from Tehran seriously.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -213,6 +201,12 @@ The test, likely involving the JL-3 and coming just after the United States’ 2
 ## Indonesia and Singapore Pledge That Malacca Strait Will Remain ‘Open to All’
 The affirmations come after an Indonesian minister raised the idea of imposing a levy on vessels passing through the vital chokepoint.
 
+## The Davis Wing, the B-24 Liberator, and the Self-Made Bet That Paid Off
+The most produced American military aircraft of World War II was not a small fighter, a trainer, or a simple utility airplane — it was a complex four-engine heavy bomber called the B-24 Liberator. Over the course of five years, American industry produced a staggering 18,482 of these bombers, and the
+
+## Somali Pirates Are Back — But the Coalition That Beat Them Isn’t Coming
+Numerous recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that the conditions for resurgence can return quickly.It took years of sustained, coordinated effort by multinational naval coalitions, the shipping industry, and internati
+
 ## Gathering Clouds: Building Digital Strategic Depth in the Compute Age
 The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digital backbone of military power and economic
 
@@ -230,12 +224,6 @@ Editor’s Note: Few rivalries in American history have been as consequential �
 
 ## The Integrated Circuit and the Future of American AI Leadership
 Editor’s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe
-For many observers, Secretary of Defense Pete Hegseth’s speech on the future of NATO, delivered in Brussels on June 18, 2026, constituted a perfect example of how the Trump administration is angrily abandoning the longstanding U.S. commitment to European security. The prevailing picture is that the 
-
-## The Blind Spots in Chinese Military Studies
-During a recent conference on the People’s Liberation Army, I heard the same question posed to attendees and paper writers: “How would China react to U.S. force posture change X, Y, or Z?” or “How would the Chinese military respond to U.S. strikes in certain locations?” Having participated in dozens
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## NATO summit live: Trump, world leaders meet in Turkiye’s Ankara
-The second and final day of the key gathering is under way in Turkiye's capital.
+## European MPs call for probe of FIFA boss Infantino over red card suspension
+Lawmakers call FIFA decision to scrap Balogun suspension after Trump intervention 'a disgrace'.
 
-## Iran’s economy faces long road to recovery as fragile truce tested
-The devastation that industrial facilities have taken from two wars in a year might take years to reverse, say analysts.
+## Trump says MoU with ‘vicious, violent’ Iran is over
+Trump says MoU with 'vicious, violent' Iran is over
 
-## Egypt fans react to emotional World Cup exit after unforgettable campaign
-Al Jazeera spoke with Egypt fans gathered at Obour City to watch the FIFA World Cup Round of 16 match against Argentina.
+## Watch World Cup Day 27: Egypt exits after controversial loss to Argentina
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## France, Mbappe play Morocco in FIFA World Cup quarterfinal: What we know
-Key talking points as Kylian Mbappe leads France into a rematch after Les Bleus beat Morocco in the 2022 World Cup.
+## The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals
+From Bushehr to the world stage, Mehdi Taremi reflects on football, sacrifice and representing Iran.
 
-## At UN, Cuba rallies support against ‘ruthless’ US blockade
-Diplomatic tensions between Washington and Havana have widened in recent months.
+## World Cup: Which teams made the quarterfinals, and what’s the schedule?
+Complete FIFA World Cup 2026 quarterfinals lineup, with match start times and venue locations inside the United States.
 
-## Childhood on hold: How Gaza’s children spend a summer without play
-Gaza mothers describe a third wartime summer where children carry adult burdens, deprived of play and art.
+## Why have half a million Russians gone bankrupt amid Ukraine war?
+European intelligence report warns of strain on Russia's banks, but experts say a full-blown crisis is unlikely
 
-## Syria grapples with unrest as government faces old and new threats
-Damascus shaken by twin blasts during Macron's visit, marking heightened threats to Syria's fragile stability
+## World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute
+World Cup quarterfinals are set, with eight teams advancing as Egypt’s FIFA controversy and VAR decisions prompt debate.
 
-## Argentina fan waves Israeli flag at World Cup match with Egypt
-An Argentina fan waves the Israeli flag during his team’s Round of 16 match against Egypt.
+## Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq
+Khamenei's coffin made its way through the streets of Najaf to the shrine of Imam Ali, Prophet Muhammad's son-in-law.
 
 ## NFRA raises bar for audit sign-offs, says uncorrected errors can distort financial statements
 Chairperson Nitin Gupta asks auditors to evaluate cumulative and qualitative impact of misstatements, strengthen communication with audit committees and boards before issuing audit opinions.
@@ -309,6 +297,9 @@ Easing West Asian tensions have significantly improved India's fiscal outlook, w
 ## GST at 9; Over 50,000 Appeals at GSTAT
 As GST enters its tenth year, perhaps the debate should move beyond tax rates and revenue collections. The larger question is whether the system has matured enough to minimise disputes before they arise. A successful tax regime is not merely one that collects revenue efficiently, but one that inspir
 
+## RBI backs crypto ban, tax department warns of evasion risks, documents show
+India's central bank has reiterated its preference for a cryptocurrency policy "leaning towards prohibition," warning that crypto assets and stablecoins could threaten financial stability and monetary sovereignty, according to internal government documents reviewed by Reuters.
+
 ## SEBI shifts FPI registration fees from US dollar to rupee denomination
 The Securities and Exchange Board of India (SEBI) has notified amendments to the Foreign Portfolio Investors (FPI) Regulations, replacing the US dollar-denominated fee structure with a rupee-denominated payment mechanism for foreign investors and foreign venture capital investors (FVCIs).
 
@@ -329,7 +320,4 @@ The Reserve Bank of India will auction government securities worth thirty-two th
 
 ## Direct cash transfers to women boost savings, spending: EAC-PM
 Direct cash transfers to women boost household savings and spending effectively. Schemes in Maharashtra and Odisha showed significant improvements in savings. Monthly account balances increased substantially for beneficiaries in both states. Consumption spending also saw notable increases after thes
-
-## RBI to auction Rs 32,000 crore government bonds on Friday
-The Reserve Bank of India will auction Government of India dated securities worth Rs 32,000 crore on Friday.
 
