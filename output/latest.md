@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## A quick guide to Nigel Farage’s gamble
-Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
-
 ## US launches new wave of Iran strikes after attacks on tankers
 Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher
+
+## A quick guide to Nigel Farage’s gamble
+Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
 
 ## Farage by-election gambit undercut by rivals’ refusal to participate
 Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
@@ -39,6 +39,9 @@ Muse Spark Image will be integrated into tech giant’s AI chatbot and its Insta
 ## Aberdeen-backed internet provider seeks buyer after steep losses
 Airband initiates process to find new owner in move that puts £200mn of investors’ money at risk
 
+## Top Business & Market Headlines Today — BL Morning Report, July 08, 2026
+BL Morning Report, July 07, 2026: Get today’s top business news, market headlines about key market insights, economic highlights, and the latest updates from India and global markets.
+
 ## Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction
 Airport sources said the takeoff was aborted because an arriving Air India Express Boeing 737 had not yet vacated the runway
 
@@ -60,32 +63,29 @@ The post came after the MeitY on July 4 issued a notice ordering Instagram to di
 ## Inspira Global completes acquisition of controlling stake in Restaurant Brands Asia
 The deal makes Inspira the new promoter of the company, which operates Burger King in India and Popeyes in Indonesia
 
-## Trent shares crash 12.4% at close as Q1 update disappoints analysts
-The stock opened at ₹3,080, hit a low of ₹2,920, and saw heavy selling pressure with sell orders outpacing buy orders by roughly 72:28
+## India moves up 2 places in FDI inflow ranking
 
-## US revokes Iran oil waiver amid attacks on British tankers in Strait of Hormuz
-The United States revoked an Iran oil sanctions waiver after recent tanker attacks. Three tankers were struck by projectiles in the Strait of Hormuz. One vessel caught fire off the coast of Oman following the incident. The Iranian foreign ministry condemned the US move as a breach of commitment. The
 
-## Getty Images calls off Shutterstock merger after UK regulator's divestment demand
-Getty Image has ended its planned $3.7 billion merger with Shutterstock. The UK competition regulator required Shutterstock to sell its editorial business. Getty's board decided this condition was not in the company's best interests. The companies had unveiled the deal in January 2025 to build a vis
+## Services Index Release: Govt to roll out new ISP from July 14; health, education excluded
 
-## India strengthens position as investment destination; FDI rises by 44% to $39 billion in 2025
-South Asia witnessed a sharp rise in FDI inflows, which climbed from $34 billion to $46 billion, largely driven by India, where inflows expanded to $39 billion, the report noted. At the same time, UNCTAD observed that project-related indicators suggested a more cautious investment environment despit
 
-## Wall Street sees mixed performance; Dow rises 0.3%, Nasdaq falls 0.8% as AI stocks slide
-US stocks traded mixed on Tuesday as technology shares faced pressure. Declines in artificial intelligence and semiconductor stocks weighed on the Nasdaq Composite. The S&P 500 also slipped, while the Dow Jones Industrial Average saw gains. This weakness followed a sharp sell-off in Asian markets, p
+## Rupee gains on cheaper oil, FII buying
 
-## India urges US to reconsider proposed 12.5% tariff over 'forced labour' probe under USTR's Sec 301
-India has asked the United States to withdraw proposed tariffs on its imports. The nation argues the US lacks adequate evidence for its claims. India's submission highlights a broad approach by the USTR investigation. It states the current framework does not distort trade unfairly. India remains ope
 
-## El Nino impact: India’s hydropower generation sees steepest drop since Feb 2024; piles pressure on grid
-Data from the India Meteorological Department showed that cumulative rainfall across the country was 38% below normal until July 1, largely due to the development of El Niño conditions over the Pacific Ocean, which affected the southwest monsoon running from June to September.
+## NBFC loans grow 14.2% to Rs 58. 6L crore, trail banks
 
-## India bets on critical minerals, rare earths and chips partnerships
-India has launched the National Critical Mineral Mission (NCMM) in January 2025 for a seven-year period from 2024-25 to 2030-31. The mission goes far beyond a conventional mining initiative. It lays out a long-term strategy aimed at strengthening India's energy security, accelerating industrial deve
 
-## India's economy passed the Iran war test. Could El Nino spoil the party?
-Economists say that the world’s fastest growing economy may even end up clocking a 7% GDP growth number this year. But, domestically a poor monsoon caused by El Nino is painting a grim picture for inflation. Is the worst really over for the Indian economy?
+## Tata Power's aim: 2x profits, over Rs 1L crore revenue by FY30
+
+
+## US companies' caution higher tariffs may hit manufacturing push
+
+
+## Listing rewards: Startup backers cash out Rs 97,000 crore
+VC, PE Funds Use IPOs, Post-Listing Deals To Return Capital After Backing Pvt Cos For Yrs
+
+## Govt urges USTR to review its move to levy new tariffs
+
 
 ## Operation Hard Ball: 24 with links to India-based gangs arrested in US, Canada, Europe
 As part of this investigation, law enforcement has seized about 1,000 kg of cocaine and 1 kilogram of heroin along with $40,000 in cash and a dozen firearms.
@@ -111,29 +111,32 @@ The ministry of information and broadcasting (MIB) issued a takedown order to Ze
 ## 'Every time I hear Indian music, I find my body moving': Indonesian President during PM Modi's visit
 Indonesian President Prabowo Subianto revealed that he has “Indian DNA” while addressing a gathering during Prime Minister Modi's state visit
 
-## Audit performance of disciplinary mechanism for lawyers: Supreme Court to Bar Council of India
+## Jaishankar meets Bahrain’s Dy PM Khalid bin Abdulla Al Khalifa
 
 
-## Delhi Confidential: Global Capital
+## Egypt coach accuses FIFA of bias towards Argentina after World Cup round of 16 loss
 
 
-## PMO takes stock of El Nino impact, monitoring level & preparedness
+## On a tricky turf, how Punjab polls challenge key contenders – AAP to Congress, SAD to BJP
 
 
-## Four beneficiary states sign pact on Narmada outstanding dues
+## Now, more than ever, the strategic legacy of Imam Khamenei can be a guide
 
 
-## ‘1.4 billion aspirations in motion’: PM Narendra Modi sums up India’s growth in Jakarta
+## The Scotland Redemption: When a suspicion in Glasgow became a sentence for a Mumbai family
 
 
-## FIFA World Cup: Switzerland beat Colombia in dramatic penalty shootout
+## Shreyas Iyer remains winless as India T20I captain after record 125-run defeat
 
 
-## Hang him with others, if he is involved: Mother of accused in Bengal rape-murder case
+## The RSS is not a transparent organisation. It uses opacity as a shield
 
 
-## 5 hours 15 mins! Djokovic beats Auger-Aliassime in longest Wimbledon quarterfinal
+## The end of Brazil’s football superpowerdom
 
+
+## Hong Kong’s property market set to cool despite run of record-breaking deals
+Hong Kong’s residential property market has regained momentum in recent months amid a string of record-breaking deals. But analysts warn that the rally is likely to cool in the second half of the year, as a weaker stock market weighs on investor sentiment. A string of huge deals in the city has gene
 
 ## How Hong Kong is fighting to redefine its future with an institutional moat, wealth surge
 For decades, warnings of Hong Kong’s terminal decline have arrived in periodic waves. When Stephen Roach, the former chairman of Morgan Stanley Asia, ignited a firestorm with his February 2024 assertion that “Hong Kong is over”, he pointed to a toxic cocktail of domestic and external pressures. Roac
@@ -155,9 +158,6 @@ China’s demand for crude oil is expected to peak in the coming years, a scenar
 
 ## Hong Kong office vacancy rates to plateau as Central hits 43-month low
 Hong Kong’s office property market is likely to see its empty spaces plateau at 14 per cent as vacancy rates in Central fell to more than a three-and-a-half-year low in June, according to JLL. The property consultancy said that although the overall vacancy rate for the office property sector fell to
-
-## Hong Kong drops to 4th costliest city for wealthy amid change in luxury spending
-Hong Kong now ranks lower among the costliest cities for rich people “living well”, with Singapore the most expensive for a fourth consecutive year, according to Swiss private bank Julius Baer. This year’s “Global Wealth and Lifestyle Report”, released by the bank on Tuesday, assessed the costs of l
 
 ## Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
 France remains committed to bolstering cooperation with Syria.
@@ -255,8 +255,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian missile strikes hit Ukraine’s capital Kyiv for third time in a week
-The attack has triggered fires in two districts of Kyiv according to the city's mayor.
+## Marine Le Pen to run for French Presidency despite criminal conviction
+Marine Le Pen, the far-right French politician, announced Tuesday she is running for president next year.
+
+## Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon
+Gauff defeats Pegula to set up semifinal against Muchova, who overcame four-time Grand Slam champion Osaka.
+
+## Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks
+Explosions in Iran's Sirik, Bandar Abbas and Qeshm as US launches attacks after revoking waivers on Iranian oil exports.
+
+## Switzerland face Argentina in World Cup quarterfinal after beating Colombia
+Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina.
+
+## Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week
+The attacks have triggered fires in two districts of Kyiv, according to the city's mayor.
 
 ## Egypt buoyed by praise for World Cup heroics despite controversial exit
 From fans in Gaza to world leaders and supporters on social media, Egypt won hearts, even if they lost to Argentina.
@@ -266,18 +278,6 @@ From fans in Gaza to world leaders and supporters on social media, Egypt won hea
 
 ## US says strikes launched as explosions heard in southern Iran
 US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.
-
-## Nasdaq vs Dow: How are the key indices different as SpaceX joins one?
-SpaceX joins Nasdaq-100 after IPO, bypassing traditional three-month trading rule for inclusion in the tech-heavy index.
-
-## Venezuela buries earthquake victims as death toll reaches 3,535
-Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira
-
-## Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’
-‘No one is safe anymore.’ This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.
-
-## Prolonged hospitalisation of US Republican Mitch McConnell raises questions
-The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.
 
 ## Gold Monetisation Scheme could boost organised jewellers as recycled gold gains momentum: DP Abhushan CFO
 DP Abhushan expects 25–30 per cent revenue growth and 30–35 per cent PAT growth in FY27 as it continues showroom expansion, gradually increases its lower-carat jewellery portfolio, and sees silver emerging as a fast-growing category.
