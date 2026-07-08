@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US says it has launched new strikes on Iran
+Attacks come after Donald Trump told a Nato summit the ceasefire with Tehran is “over”
+
+## Hawkish Fed minutes indicate some support for rate increases
+Policymakers worried about inflation and ‘several’ said they did not believe current borrowing costs were restrictive
+
 ## Some Fed officials saw need for future rate rises to contain inflation
 Minutes from last month’s meeting highlighted lingering concern about price pressures remaining high
 
@@ -18,17 +24,14 @@ Ukrainian drone strikes on refineries have created petrol and diesel shortages a
 ## Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead
 Reform UK leader’s rivals are running scared, say senior party figures
 
-## FCA says lenders want to let ‘foxes guard the henhouse’ on car finance
-UK regulator alleges in court filing that lenders want to determine own liability for compensation
-
-## Javier Milei wants US-style government shutdowns in Argentina
-Government should suspend functions when lawmakers reach an impasse on spending, says rightwing leader
-
 ## UniCredit’s bid for Commerzbank ends with a win and a puzzle
 The market is awash with ideas on how Andrea Orcel secured nearly 18% of the German bank’s shares
 
 ## FCA charges lawyer with insider trading over Seraphine sale
 M&A solicitor who worked at Goodwin Procter’s London office accused of 5 counts of using inside information
+
+## FCA says lenders want to let ‘foxes guard the henhouse’ on car finance
+UK regulator alleges in court filing that lenders want to determine own liability for compensation
 
 ## Ukraine intensifies attacks on Russian ships in Azov Sea
 Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
@@ -114,6 +117,9 @@ India’s higher education enrolment reached a record 45 million in 2023-24, whi
 ## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
 NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
 
+## Modi to meet Australian PM Albanese in Melbourne today, to discuss cooperation in Indo-Pacific region
+
+
 ## Why US attacked Iran and Trump said ceasefire ‘is over’
 
 
@@ -133,9 +139,6 @@ NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Far
 
 
 ## Why a ‘self-critical’ Novak Djokovic keeps chasing greatness at 39
-
-
-## Congress leader flags delays in SIR in Andheri
 
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
@@ -162,6 +165,12 @@ Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s su
 ## Beyond the Noise: How Quality Journalism Drives Real-World Influence
 Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
+## Propaganda Sustains Russians Fighting in Ukraine
+Belief in Kremlin narratives dehumanizes Ukrainians and sustains the will to fight.
+
+## Can Zambia’s Historic Debt Swap Drive Economic Growth?
+The country has agreed to invest interest savings in its electric grid.
+
 ## Energy Markets’ False Dawn May Be Over
 The U.S.-Iran deal has devolved into fighting again, with potentially ugly implications for oil prices.
 
@@ -179,12 +188,6 @@ Read the text outlining agreements at the 2026 NATO summit in Turkey.
 
 ## Confronting Russia’s Shadow Fleet in Broad Daylight
 The Kremlin is claiming and arming its smuggling fleet. European governments need to respond.
-
-## The Global Energy Map Is Being Redrawn in Real Time
-Confidence in the Strait of Hormuz has been shattered. Trust is now among the most important commodities in the energy world.
-
-## Marco Rubio Burned Down the House to Fix a Sink
-The secretary of state must be seen as the chief architect of the Trump administration’s assault on the rules-based order.
 
 ## India, Indonesia Put in Place a Blueprint for a Durable Strategic Partnership
 The highlight of the Indian prime minister's visit to Indonesia was the finalization of a long-pending agreement on the supply of BrahMos missile system and Astra air-to-air missiles.
@@ -258,6 +261,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US summer travel slumps under rising fares and fuel expenses
+US summer trips decline as 45 percent of Americans skip holidays due to soaring airfares and car travel expenses.
+
+## Marine Le Pen cleared to run in France’s 2027 Presidential election
+A French court ruling has reopened Marine Le Pen’s path to the 2027 presidential election.
+
+## Trump ordered to pay E Jean Carroll $5.8m after failed appeal
+Trump ordered to pay $5.8m after the US Supreme Court rejected his appeal in the Carroll defamation and abuse case.
+
+## Search under way for crew of Pakistani cargo plane that crashed into sea
+Rescuers have located submerged wreckage from the aircraft that disappeared as it approached Karachi.
+
 ## Five key takeaways from the NATO summit in Ankara
 Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support
 
@@ -269,18 +284,6 @@ Residents and volunteers in China’s Guangxi province have begun clearing up th
 
 ## Trump says US ‘may take over Kharg Island’: Here’s what you need to know
 Kharg Island, pivotal to Iran's oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.
-
-## War on Gaza draws large crowds to Khamenei’s funeral in Iraq
-More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.
-
-## Israeli air strikes in Gaza kill eight, including two children
-Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.
-
-## Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target
-US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated
-
-## Spanish football legend Alexia Putellas joins London City Lionesses
-Women's Super League club lands the two-time Ballon d'Or winner after her exit from Barcelona following a 14-year career.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
