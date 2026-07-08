@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## FirstFT: Trump declares US-Iran ceasefire ‘over’
+Also in today’s newsletter: Italy’s UniCredit close to securing control of Germany’s Commerzbank and Japan’s borrowing costs hit a 30-year high
+
+## Family behind top US egg producer reaped $320mn after price surge
+Descendants of Cal-Maine founder sold controlling stake near a record high after what authorities said was an effort to rig the market
+
+## Apple to buy $30bn of US-made chips from Broadcom
+iPhone maker continues its attempt to curry favour with Donald Trump via investments in Colorado plant
+
+## Nigel Farage’s rivals are ‘running scared’, says Reform
+Senior figures dismiss claims that decision to call by-election in Clacton seat has backfired
+
 ## UniCredit secures 48% stake in Commerzbank
 Italian bank closing in on majority control of German lender after end of tender period
 
@@ -12,50 +24,47 @@ Opposition parties refuse to stand against scandal-hit politician in Reform’s 
 ## US and Iran trade strikes after attacks on tankers
 Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ after round of tit-for-tat bombing
 
-## Farage by-election gambit undercut by rivals’ refusal to participate
-Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+## The Newton’s Cradle of credit today
+‘Technicals have not merely supported fundamental pricing this cycle — they have displaced it’
 
-## Virgin Media fined £28mn for preventing customers from cancelling contracts
-Ofcom uncovers delay tactics that meant millions of calls were likely to have been mishandled
-
-## South Korea falls into bear market as traders fret over AI chipmakers’ prospects
-Kospi retreats more than 20% from June peak as sentiment starts to turn on Samsung Electronics and SK Hynix
-
-## Singapore’s Temasek doubles down on AI and private credit
-State investor focuses on accelerating returns after several lacklustre years
+## The male wellness guide to peptides
+Injectable amino acids are being used for muscle gain, sexual health and skin tanning — but the benefits are questionable
 
 ## Tesco explores sale of European business
 Disposal would refocus UK’s biggest grocer on home market and end decades-long attempt to build major global operation
 
-## Vistry shares slide as it warns of first-half loss and finance chief quits
-Struggling UK housebuilder outlines plan to slim business as it grapples with market slowdown
+## India seeks safe passage for nine ships as Hormuz truce falters
+The government is closely monitoring the vessels as renewed attacks around the Strait of Hormuz threaten an already fragile interim ceasefire between the US and Iran
 
-## FirstFT: Le Pen to run for French presidency
-Also in today’s newsletter: Farage’s by-election gambit and US troops in Europe
+## Broker’s Call: Minda Corp (Buy)
+Monarch Networth Capital
 
-## Sensex today | Stock Market Live: Sensex plunges over 1800 pts, Nifty 50 below 23,800 level
-Sensex, Nifty, Share Prices LIVE: Sensex traded 1831.13 pts or 2.34% lower at 76,349.59, and Nifty 50 depreciated 566.80 pts or 2.32% to 23,831.90.
+## Sun Mobility t3-55T electric trucks with world’s first modular battery swapping at Pravaas 5.0
+Unlike passenger cars, commercial vehicles are judged primarily on operating economics rather than technology. Sun Mobility is betting that battery swapping can tip that equation by cutting upfront vehicle costs, reducing charging downtime and creating a shared energy network that multiple truck and
 
-## Pallikaranai Ramsar curbs could impact ₹72,000 crore economic activity, affect one lakh landowners: CREDAI
-According to CREDAI’s assessment, the planning freeze could affect ₹51,735.88 crore worth of real estate business.
+## EPFO processing interest payment on provident funds for FY26; members can check updates by next week
+Last month, the government approved the 8.25% interest payment on provident funds
 
-## ICICI Prudential Life Insurance reports 14.6% APE growth in June quarter, stocks in red
-Retail Weighted Received Premium (RWRP) for Q1-FY2027 grew 13.4% to ₹15.38 billion, with June contributing ₹6.23 billion, a 12.7% year-on-year increase
+## MAHE and Novo Nordisk GBS expand collaboration in pharmacometrics
+Novo Nordisk GBS will provide financial support of ₹1.75 crore over five years to enhance specialised talent development, research capacity and advanced infrastructure in quantitative drug development.
 
-## Ola Electric counters NCLT insolvency claims
-According to Ola Electric, the vendors filed the insolvency petitions under Section 9 of the IBC only after the arbitration proceedings had commenced, in an attempt to bypass the quality dispute
+## ISMA defends E20 fuel, silent on mileage drop
+Sugar industry body says concerns over ethanol-blended fuel are driven by misinformation, not evidence.
 
-## NATO Summit: Trump escalates feud with Spain, orders trade cutoff
-The US president called Madrid a “terrible partner” in the alliance;, says he wanted no business with ‌Spain
+## GJEPC prepares ground for FTA with UK from July 15
+GJEPC estimates that India’s gem and jewellery exports to the UK can more than triple from $2.5 billion to $7 billion over the coming years on the back of bilateral trade
 
-## PM Modi leaves for Australia after Indonesia visit
-During the visit, Modi held bilateral talks with Indonesian President Prabowo Subianto, who personally dropped him off at the airport in a special gesture
+## BioCompute enlarges funding plan for DNA storage
+BioCompute's proposition is an attempt to rethink how the world's rapidly growing digital data is archived
 
-## Gold falls, crude oil rises after Trump says Iran peace deal ‘over’
-Trump says interim accord with Iran to end war is ‘over’
+## Income tax notices decoded: What every taxpayer should know about ITR filing to avoid scrutiny
+One important thing to understand is this: In the current compliance environment, tax notices are increasingly driven by data inconsistencies rather than intent. A tax notice can not only mean a process of explaining discrepancies but can also put any refund claims on hold till the matter is resolve
 
-## Temasek stays optimistic on India’s long-term investment outlook
-Temasek remains focused on India’s consumer, financial services and healthcare sectors, citing strong structural growth driver
+## Are Indians swiping less? Credit card story has grown bigger, user base hasn’t
+India's credit card market has grown significantly over the past decade. However, credit card penetration remains low compared to global benchmarks. Younger consumers and semi-urban areas now show increased credit card ownership. Credit cards now face competition from digital payment methods like UP
+
+## New EPFO portal: Faster claims, smarter processing & more — what changes for PF members
+The Employees Provident Fund Organisation has completed its portal migration and restored online services. Members can now benefit from automated claim pre-validation and upfront error flagging. The new system offers a unified dashboard for viewing all membership details and balances. Interest credi
 
 ## Stock market crash: Bloodbath on Dalal Street! Sensex, Nifty50 tank 2% as Trump declares end of truce with Iran - top reasons for sharp fall
 Stock market crash: Selling pressure gathered pace during the second half of the session after US President Donald Trump declared that the interim agreement with Iran to end the conflict was "over," reigniting fears of further escalation in the Middle East.
@@ -72,62 +81,56 @@ The Indian rupee opened weaker against the US dollar on Wednesday. Rising crude 
 ## Top stocks to buy today: Stock recommendations for July 8, 2026 - check list
 Stock market recommendations: Hero MotoCorp, Tata Steel are the top stocks to buy recommended by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 7, 2026. He also recommends buying Nippon India ETF Nifty IT (ITBEES).
 
-## Gold price today: Spot gold hits one-week low, slips to $4,100 per ounce
+## ‘Paper sold for ₹2.25 lakh’: After NEET, Rahul alleges UGC-NET Sociology paper leak, claims ‘90 questions matched’
+A response from the National Testing Agency (NTA), which conducts the UGC NET exam, is awaited.
+
+## Nagpur airport to get multi-phase upgrade; ₹300cr investment in first phase
+As part of the first phase, GMR Airports will invest about ₹300 crore over the next 12 to 18 months to modernise the existing airport
+
+## ‘Got what he deserved’: Mother of Baruipur rape-murder accused refuses to ‘see his face’ after son killed in ‘encounter’
+The accused died in an alleged encounter after he “snatched a firearm from a policeman and tried to escape from custody”.
+
+## Goa wants to curb rental Thars: Why SUVs aren't able to outrun reckless-driving perception
+Minister's remark revives a debate that goes beyond one vehicle. Here's what studies say about SUVs, status and risky driving.
+
+## 'Case against Dada is completely false': Pregnant patient's family defends Shiv Sena corporator in hospital assault row
+The patient's mother claimed doctors refused to treat her daughter despite repeated pleas.
+
+## Govt issues draft notification to bring iron, steel sectors under CCTS
+The proposed rules expand the scope of CCTS, notified in 2023, which covers sectors such as aluminium, cement, petroleum refineries and textiles
+
+## 16 feared trapped as civic building collapses in Pune's Pimpri Chinchwad
+The building that collapsed in Pimpri Chinchwad is situated in the premises of legacy waste dumping yard, officials said.
+
+## ‘Welcome to UP 2.0’: TMC MPs slam Bengal govt's 'jungle law' after Baruipur rape-murder accused's encounter killing
+Prabhas Mondal, the prime suspect in the rape and murder of a 12-year-old girl in Baruipur, in South 24 Parganas, was killed in an encounter, earlier today.
+
+## “I regret altercation, but didn’t hit woman doctor”: Shiv Sena corporator on Thane hospital assault
 
 
-## Stock market today: Will NSE Nifty50 and BSE Sensex shake off Tuesday's losses?
+## Rs 35-crore haul: What raid on retired UP transport officer’s home uncovered
 
 
-## Crude loses cool: Oil prices soar 3% as Middle East tensions flare again
-Oil prices rose sharply after United States military strikes targeted Iran. These actions followed attacks on commercial vessels in the Strait of Hormuz. Qatar blamed Iran for striking a liquefied natural gas tanker and an oil supertanker. Maritime security warned of severe threats to ships crossing
-
-## ‘Name one car’: Nitin Gadkari's big challenge amid criticism over E20 fuel rollout
-Gadkari said India's dependence on fossil fuels is both an economic burden and an environmental challenge.
-
-## Worst possible day for Sensex, Nifty in 2 months: Why is market down today?
-Worst possible day for Sensex, Nifty in 2 months: Why is market down today?
-
-## Sensex crashes by 1700 points after Trump hints at Iran war resumption
-Sensex crashes by 1700 points after Trump hints at Iran war resumption
-
-## 'Will company compensate if…': Kejriwal's letter to Maruti, Toyota and Hero seeking clarification on E20 fuel policy
-Addressing a press conference in Delhi, AAP leader Kejriwal said that he had sent separate letters to three companies: Maruti, Toyota, and Hero.
-
-## Missing blood-stained towel from Kochi court resurfaces in Fazal murder trial
-A crucial blood-stained towel, evidence in the murder case of Mohammed Fazal, has been recovered after being reported missing from the Ernakulam CJM Court.
-
-## PM Modi in the Pacific: India’s push for economic security
-Bilateral trade has crossed US$25 billion annually, supported by the India-Australia Economic Cooperation and Trade Agreement
-
-## Manipur CM pays tribute to Assam Rifles personnel killed in Ukhrul ambush
-The two Assam Rifles personnel succumbed to bullet injuries sustained during the ambush carried out by unidentified armed miscreants about 16km from the Ukhrul around 1.30pm on July 6.
-
-## Your Money: How much life insurance is enough?
-A ₹1 crore cover may not be sufficient to protect your family. Here’s how to calculate what you actually need
-
-## Building collapses in Maharashtra’s Pimpri Chinchwad after heavy rain, around 15 feared trapped under debris
+## Karnataka police constable dies by suicide during D K Shivakumar’s visit
 
 
-## Tokyo to Nagoya in 40 minutes: Japan approves 500 kmph high-speed Maglev train project
+## Indira Point: Why Centre wants to protect landmark lighthouse and develop tourism hub
 
 
-## Maharashtra teachers to shut schools tomorrow to protest TET rule, SIR work
+## ‘I nearly hate doing’: Ankur Warikoo on why he’s taken cold showers for 4 years
 
 
-## 5 minors among 6 booked for blocking ambulance in Bengaluru stunt ride
+## Customer orders size 8 shoes online gets size 7, wins consumer payout
 
 
-## Mumbai-Pune Expressway landslide: Unavoidable disaster, or a preventable failure?
+## Kareena Kapoor gushes over ‘hot husband’ Saif Ali Khan during summer vacation
 
 
-## ‘Wanted to wear sindoori red’: Anshula Kapoor wows in custom Banarasi corseted creation at wedding reception
+## TTE ‘illegally’ occupies passenger’s seat, Southern Railway ordered to pay Rs 60,000
 
 
-## Adultery no longer a crime’: Jharkhand High Court reinstates dismissed constable
-
-
-## Ambulance unavailable, woman loses quadruplets after delivering in autorickshaw in Madhya Pradesh
-
+## Hong Kong IPO debut delayed in rare move over missing regulatory data: sources
+Hong Kong witnessed a rare delay of an initial public offering (IPO) debut on Wednesday, the first in more than eight months, triggered by a regulatory requirement for additional client information, according to people familiar with the matter. On Tuesday night, just before its scheduled listing on 
 
 ## China further boosts Hong Kong’s role as offshore yuan hub
 China’s central bank announced more measures to expand Hong Kong’s role as an offshore yuan hub, injecting “vitality” into the city’s markets and supporting efforts to grow international use of the currency. Institutions in mainland China would be able to buy a net 800 billion yuan (US$118 billion) 
@@ -150,8 +153,8 @@ Mainland Chinese technology companies newly listed on Hong Kong’s stock exchan
 ## China’s biotech firms challenge US with rapidly developing RAS-targeted cancer therapies
 When the shares of Revolution Medicines surged after the US biotech firm unveiled a landmark result – its drug nearly doubled the overall survival for late-stage pancreatic cancer patients to 13.2 months – investment banks and scientists flagged that the company’s Chinese rivals racing to target the
 
-## Hong Kong stocks rise as rallies from Alibaba, SMIC, other tech giants lift market sentiment
-Hong Kong stocks closed on a sharp high on Wednesday, led by technology shares, as concerns over a wave of post-IPO lock-up expiries eased after newly unlocked shares were absorbed into the market without triggering a sell-off. The benchmark Hang Seng Index finished the session up 3 per cent, while 
+## Marco Rubio Burned Down the House to Fix a Sink
+The secretary of state must be seen as the chief architect of the Trump administration’s assault on the rules-based order.
 
 ## The Philippines’ ‘Trial of the Century’ Begins
 A pall of cynicism hangs over proceedings against Vice President Sara Duterte.
@@ -173,9 +176,6 @@ Opinion polling shows that trust in Tokyo is surprisingly deep.
 
 ## How Trump Lost America the World Cup
 A host is supposed to harvest the world’s goodwill, not burn it.
-
-## Putin May Escalate, but Ukraine Is Winning
-In the ongoing battle of narratives, Kyiv’s supporters have every reason to hold the course.
 
 ## Not Just Rare Earths – Is This China’s Next Economic Weapon?
 China’s dominance in the entire fluorine value chain is an overlooked source of geopolitical leverage.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals
+Messi is the top goal scorer after tallying his eighth against Egypt, with Erling Haaland and Kylian Mbappe next best.
+
+## Switzerland fans’ joy as team reaches World Cup quarter-final
+Switzerland fans’ joy as team reaches World Cup quarter-final
+
+## Trump says ceasefire ‘over’ after US, Iran trade attacks
+Trump made the announcement at a NATO summit after Iran attacked bases hosting US forces in Kuwait and Bahrain.
+
+## Nigeria’s counterterrorism gains carry a warning
+Mass surrenders may weaken armed groups, but reintegration without justice risks fuelling resentment.
+
+## Why have US-Iran strikes resumed and what does it mean for peace?
+Both sides have accused each other of violating the memorandum of understanding signed in June.
+
+## Pakistan searches for Boeing cargo plane missing over Arabian Sea
+Karachi-bound aircraft lost contact with air traffic control after reporting navigation ⁠system fault.
+
 ## European MPs call for probe of FIFA boss Infantino over red card suspension
 Lawmakers call FIFA decision to scrap Balogun suspension after Trump intervention 'a disgrace'.
 
 ## Trump says MoU with ‘vicious, violent’ Iran is over
 Trump says MoU with 'vicious, violent' Iran is over
-
-## Watch World Cup Day 27: Egypt exits after controversial loss to Argentina
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals
-From Bushehr to the world stage, Mehdi Taremi reflects on football, sacrifice and representing Iran.
-
-## World Cup: Which teams made the quarterfinals, and what’s the schedule?
-Complete FIFA World Cup 2026 quarterfinals lineup, with match start times and venue locations inside the United States.
-
-## Why have half a million Russians gone bankrupt amid Ukraine war?
-European intelligence report warns of strain on Russia's banks, but experts say a full-blown crisis is unlikely
-
-## World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute
-World Cup quarterfinals are set, with eight teams advancing as Egypt’s FIFA controversy and VAR decisions prompt debate.
-
-## Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq
-Khamenei's coffin made its way through the streets of Najaf to the shrine of Imam Ali, Prophet Muhammad's son-in-law.
 
 ## NFRA raises bar for audit sign-offs, says uncorrected errors can distort financial statements
 Chairperson Nitin Gupta asks auditors to evaluate cumulative and qualitative impact of misstatements, strengthen communication with audit committees and boards before issuing audit opinions.
