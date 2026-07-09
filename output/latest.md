@@ -1,10 +1,22 @@
 # AION Intelligence
 
-## Stride promises tax cuts as Tories seek to draw dividing line with Burnham
-Shadow chancellor vows ‘responsible radicalism’ and decries ‘managerial incrementalism, which we have had for too long’
+## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
+Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
+
+## ‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader
+Ex-Manchester mayor says it is starting to feel ‘very real’ as 322 out of 403 Labour MPs nominate him to succeed Keir Starmer
 
 ## Andy Burnham apologises for Labour’s Gaza war stance
 Britain’s likely next prime minister seeks to win back leftwing voters outraged by Keir Starmer’s approach to Israel
+
+## Goldman Sachs limits prediction market betting for employees
+Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks
+
+## Kevin Warsh names high-profile figures to help modernise the Fed
+US central bank chair chooses business and academic leaders to head five new task forces
+
+## Tory shadow chancellor promises tax cuts
+Mel Stride vows ‘responsible radicalism’ as party draws dividing line with Labour under probable new leader Andy Burnham
 
 ## Gazans flock to World Cup screenings
 Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
@@ -12,35 +24,23 @@ Tournament provides welcome moments of respite as Palestinians follow progress o
 ## There is no grand plan on Iran
 An over-reaching Tehran seems to be looking at America’s confused moves and wondering what it may be missing
 
+## The Fed’s silent treatment
+Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?
+
+## Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
+Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure
+
 ## Suspicious trading before 41% of takeovers sets new UK record
 Annual FCA data shows abnormal trades hitting new highs amid deal frenzy for UK companies
 
 ## Microsoft’s early AI lead has become a test of faith
 The only certainty is that capital spending is going through the roof
 
-## Britain’s unsustainable mental health bill
-Reducing spending on disability benefits is a major test for Andy Burnham
-
-## Ukrainian spy accused of killing Monaco hit woman shifts blame
-Vladyslav Reut says accomplice pulled the trigger on the woman they hired to carry out a hit on a Ukrainian tycoon
-
-## Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
-Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure
-
 ## AstraZeneca shares slide after heart treatment disappoints in trial
 UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
 
 ## Chemicals companies hit out at UK science funding cuts
 Particle accelerator used by both public and private sector scientists is part of 15% research centre savings
-
-## Banijay picks London as new HQ for TV maker after $8bn merger
-UK base for production group behind ‘The Traitors’ is another boost to country’s creative sector
-
-## World faces growing diesel supply crunch as Russia cuts off exports
-Ukraine drone strikes have hammered Russia’s refineries
-
-## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
-Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
 
 ## Anthropic appoints former Fed chair Ben Bernanke to AI oversight trust
 The trust, whose members have no financial stake in the company, can appoint and remove a majority of Anthropic’s board members.
@@ -114,28 +114,28 @@ BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial
 ## Three-year-old dies after slipping into rainwater outside Ghaziabad home
 Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
 
-## Moga police station blast: Stopped from ‘inspecting’ site, says Bittu; Congress demands CM’s resignation
+## Worker falls from 22nd floor of Wadala high-rise, dies
 
 
-## 4 Deepak Nandal gang members killed in Gurgaon encounter, 3 cops injured
+## Gujarat Confidential: Fight over machine
 
 
-## AAP denies any proposal for premature release of convicts in Jaswant Singh Khalra murder case
+## Plea in Punjab and Haryana HC wants ‘Satluj’ back on OTT platform: ‘Can citizens be deprived of artistic, historical expression?’
 
 
-## ‘That’s what I’m doing with India’: Netanyahu eyes India as key ally beyond US
+## Calcutta High Court allows Mamata Banerjee-led TMC to partially operate its bank accounts
 
 
-## Besides Hardeep Singh Nijjar, US charges Lawrence Bishnoi for attacks on Salman Khan, Gippy Grewal, Moosewala
+## Waste mountain flattens building in Pune, traps 18: Day after nine were rescued, one of those trapped found dead, eight still missing
 
 
-## Grok 4.5 arrives alongside OpenAI’s new voice models for live conversations
+## France vs Morocco Football Live Score, FIFA World Cup 2026 Quarterfinal: 0-0 at half-time as Mbappe misses penalty
 
 
-## Turmeric, ginger, infrared light, shockwave therapy: Recovery at FIFA World Cup
+## Power ministry mulls advisory amid El Niño uncertainty
 
 
-## FIFA World Cup: Why Pele’s daughter thinks Brazilian football is broken
+## Government waives import duty on inputs for manufacturing batteries, display assemblies
 
 
 ## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US expands Iran strikes Iran hitting fishing piers near nuclear plant
-Iranian officials say US strikes across Bushehr province damaged civilian infrastructure
+## Mexico seeks prosecutions over migrant deaths in the US
+Mexico will seek state and federal prosecutions in the United States over the deaths of Mexican migrants.
 
-## England’s Quansah banned for two matches after World Cup last-16 red card
-Quansah will miss England's quarterfinal against Norway after being sent off for a sliding studs-up tackle.
+## UK Labour’s Burnham apologises for response to Israel’s Gaza violence
+UK's likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.
 
-## Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’
-World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence.
+## Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships
+Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.
 
-## Mexico to seek US criminal complaints over ICE-related deaths of citizens
-Claudia Sheinbaum announces Mexico’s strongest response yet to deaths in ICE custody and during immigration enforcement.
+## South African protesters intimidate migrants as aid group issues warning
+Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.
 
-## Gaza artists honour Egypt coach Hossam Hassan with sand portrait
-Artists in Gaza have created a sand portrait of Egypt coach Hossam Hassan.
+## Why the US Strategic Petroleum Reserve matters amid US-Iran tensions
+US oil reserves hit lowest levels since 1983 amid growing tensions with Iran and global supply concerns.
 
-## Palestinian legislative elections set for November 28
-Palestinian President Mahmoud Abbas announces first legislative elections in 20 years.
+## Two more men plead guilty in US for deadly 2021 human-smuggling truck crash
+Five Guatemalan nationals have now plead guilty in the migrant smuggling case linked to the deaths of 55 migrants.
 
-## Is this France’s far-right National Rally’s best chance to take power?
-A court ruling clears the way for Marine Le Pen to run for president next year.
+## What happened to the beautiful game?
+Has football lost its soul? From Pele’s “Joga Bonito” to billion-dollar World Cups, the game has changed.
 
-## Will NATO get involved in securing Strait of Hormuz?
-Iran war overshadows defence alliance's summit in Turkiye.
+## How Lyhanna’s rape and murder put France’s justice system under scrutiny
+The rape and murder of 11-year-old Lyhanna has sparked outrage in France.
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
