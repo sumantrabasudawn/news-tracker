@@ -1,13 +1,46 @@
 # AION Intelligence
 
+## US strikes Iranian railway bridges on route to city of Khamenei’s burial
+Late supreme leader set to be interred in Mashhad on Thursday
+
+## Labour MPs queue up to back Burnham as next leader
+Former Manchester mayor moves a step closer to being Britain’s next prime minister
+
+## Peking duck dispute heightens EU-China trade tensions
+European Commission launches probe into alleged dumping of subsidised meat
+
+## Minutes from the ECB’s June meeting confirm rise in inflation risks
+Central bank’s baseline projections showed above-target inflation despite the inclusion of almost three rate rises
+
+## US renews strikes against Iran
+Also in today’s newsletter, political rhetoric around the ‘Epstein class’ is gaining traction among Democratic candidates
+
+## Italy expels Russian diplomats suspected of running spy ring
+Expulsion comes after arrest of two retired Italian officers who allegedly passed on information to Moscow
+
+## Argentina repays $4bn as it resists return to global markets
+Cash-strapped nation says it can meet huge debt obligations without issuing new sovereign bonds
+
+## Futureproofing fantasy fashion in Paris
+Couture may be for the 0.1 per cent, but houses like Chanel, Dior and Schiaparelli are still vying to make it feel relevant
+
+## Wall Street set for bumper $140mn payday from SK Hynix listing
+Secondary US listing of trillion-dollar South Korean chipmaker expected to be one of largest public offerings in history
+
+## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
+Recovery in sales volumes runs out of steam in second quarter as squeeze on budgets hits snack and soda group
+
+## Leading UK research facility Diamond Light Source faces cost cuts
+Particle accelerator used by both public and private sector scientists is part of 15% research centre savings
+
+## Will Silicon Valley unleash a new wave of philanthropy?
+Oliver Hanney of development economics hub VoxDev weighs in on the potential recipients of donations
+
 ## Burnham must not succumb to a populist techlash
 It would be a crime to lose the UK’s envied tech and life science status within Europe
 
-## Is Europe prepared for a world of extreme heat?
-In an air-conditioned Luxembourg meeting, ministers call for a ‘business case’ for coping with the world’s fastest-warming continent
-
-## Devolution has no easy answers on ‘fairness’
-The consensus backing more local power sharing rarely confronts fundamental trade-offs
+## Are deep reservoirs the next frontier in the US shale revolution?
+Also in today’s newsletter: tax credits for US renewables industry expire and how El Niño threatens countries reliant on hydroelectric power
 
 ## FirstFT: Big Oil vs Trump
 Also in today’s newsletter: Platner ends Senate campaign and why private assets could work for retail investors
@@ -15,47 +48,35 @@ Also in today’s newsletter: Platner ends Senate campaign and why private asset
 ## China could be the US tech hedge
 Diversification is not about finding a market without risk — it is about finding a market whose risks are different
 
-## European heatwave damps sales growth at clothing retailer Uniqlo
-Hot weather forces some stores to close temporarily
+## From battery swapping to premium coaches, bus-makers unveil next-gen mobility solutions at Prawaas 5.0
+Bus and electric mobility manufacturers unveiled a range of new passenger transport platforms at Prawaas 5.0 in Gandhinagar on Thursday
 
-## Europe’s ‘China shock’ panic is ill-informed
-EU industry is largely weathering the competition well
+## Power Grid secures loan from JBIC to advance India’s HVDC push
+The green loan emphasises Power Grid’s continued commitment to supporting India’s energy transition goals while adhering to the environmental, social, and governance (ESG) standards, the Maharatna company said
 
-## RayJay thinks SpaceX will soon be worth $10tn
-‘The defining industrial innovation of our generation,’ apparently
+## Growing importance of debt funding for Indian start-ups
+Though the time taken to receive the first round of angel funding is not very different from that of VC funding, the VC funding rounds are about 6.8 times larger than that of an angel round.
 
-## Are deep reservoirs the next frontier in the US shale revolution?
-Also in today’s newsletter: tax credits for US renewables industry expire and how El Niño threatens countries reliant on hydroelectric power
+## Cognizant committs to scale its ‘Frontier-certified workforce’
+Cognizant commits to expanding its Frontier workforce to enhance AI capabilities, targeting 5,000 engineers and 10,000 operators by 2026
 
-## Hugo Boss urges shareholders to reject Frasers’ €2.7bn takeover bid
-German fashion group says offer from its largest shareholder is ‘inadequate’
+## The Case for Adaptive Investing Across Market Cycles
 
-## TCS Q1 results: Net profit rises 4.7% to ₹13,420 crore, AI revenue tops $2.6 billion
-TCS continued hiring during the June quarter, adding 9,729 employees to take its workforce to 593,798, with voluntary attrition at 13.6 per cent
 
-## TCS Q1 Results LIVE: TCS Q1 net profit rises 4.61% to ₹13,349 cr; revenues jump 14%; stock ends flat
-TCS Q1 Results LIVE: Follow our live coverage as Tata Consultancy Services announces its Q1 FY27 earnings. Track management commentary, key financial metrics, share price movement, and the latest updates from the earnings season, including results from Anand Rathi Wealth, GM Breweries, Eimco Elecon 
+## Olayinka Hakeem Babalola Takes Office as President of Rotary International
+Two Rotary leaders from India take on global leadership roles, strengthening India’s voice in Rotary’s humanitarian work
 
-## Sensex today | Stock Market Highlights: Sensex ends 238 points higher; Nifty closes above 23,950
-Sensex, Nifty, Share Prices Highlights: Indian markets closed modestly higher, with the Sensex rising 0.31 per cent and the Nifty gaining 0.34 per cent. Advancing stocks outnumbered decliners by more than two to one, reflecting broad-based buying interest.
+## Two Ducati Riders Complete Epic 13,765 Km Journey From India to Italy for Ducati’s 100th Anniversary
+New Delhi, Delhi, India --- Business Wire India
 
-## AustralianSuper invests another AU$500 million in India’s NIIF
-The fresh investment takes the Australian pension fund’s total exposure to India to AU$3.3 billion
+## FIMER India Strengthens Education in the Rural Schools Through CSR Initiative in Association With Aapat-Sahaaya Foundation, Supporting 5,000 Students Across 30 Schools in Karnataka
 
-## Google appeals Indian ruling over its ads platform, citing consumer harm
-To ensure their ads are promoted by Google and target ‌the right customers, companies bid on keywords that online consumers type into the ‌search ⁠engine
-
-## Happiest Health Announces Launch of Speciality Clinics: Happiest Paediatrics, Happiest Orthopaedics, Happiest Gynaecology, Happiest Endocrinology & Your Personal Physician
-Happiest Health Announces Launch of Speciality Clinics: Happiest Paediatrics, Happiest Orthopaedics, Happiest Gynaecology, Happiest Endocrinology & Your Personal Physician
-
-## Dainik Bhaskar Unveils an Innovation That Turns Newspapers Into Plants
-Dainik Bhaskar Unveils an Innovation That Turns Newspapers Into Plants
-
-## TCS Q1 results: Net profit rises 4.6%, revenue grows 14%, AI revenue exceeds $2.6 billion
-A strong $9.5 billion order book, rising AI business and an $800 million SKF deal underscored TCS’s growth momentum in the first quarter.
 
 ## New EPF Scheme 2026: 10 questions employees are asking about contributions, withdrawals and retirement savings
 EPF Scheme 2026: The good news is that many core features of the provident fund system remain familiar. Existing PF accounts continue, contribution rates broadly remain unchanged and accumulated balances remain protected.
+
+## US stock market today: Wall Street, oil prices steady after sharp swings yesterday
+Before the Iran war began, Brent was trading near $72 per barrel. More recently, optimism surrounding an interim peace agreement had pushed prices back to roughly their pre-war levels.
 
 ## TCS Q1 FY27 results: Tata Consultancy Services reports 5% y-o-y increase in net profit to Rs 13,349 crore
 TCS said its annualised AI revenue run rate reached $2.6 billion in the first quarter of FY27, reflecting a 13.6% sequential increase. The company added that it won multiple AI-focused contracts spanning IT operations, software engineering.
@@ -75,55 +96,52 @@ India, Australia, and Canada will enhance technology and innovation cooperation 
 ## India flags inconsistencies in US approach to Section 301 forced labour law, points to selective exemptions
 India questions US plans for new tariffs linked to alleged forced labor practices. New Delhi argues the US approach contains inconsistencies and prefers bilateral trade negotiations. Proposed tariffs could increase costs for Indian exporters and American consumers alike. India maintains its constitu
 
-## India-Australia ties: Early trade pact, $500 million investment, clean energy and more —Top highlights from PM Modi's visit
-India and Australia are strengthening economic ties and bilateral cooperation. Prime Minister Modi invited Australian businesses to invest in India's expanding economy. AustralianSuper announced a significant new investment in India's infrastructure fund. Discussions covered opportunities in clean e
+## 'Ek ke sath ek gyarah' to 'Indians like sugar in milk': PM Modi's top quotes from Australia visit
+PM Narendra Modi and Australian Prime Minister Anthony Albanese held delegation-level talks as part of the Australia-India Annual Leaders' Summit
 
-## Air India ranked world’s 4th most punctual airline in June: Report
-Air India recorded an on-time arrival rate of 86.85 per cent across 15,135 flights tracked during the month.
+## India and Australia seal major uranium deal, elevate Indo-Pacific defence
+PM Narendra Modi and Anthony Albanese sealed a landmark uranium supply deal as India and Australia expanded cooperation in defence, maritime security and energy
 
-## Internet suspended in Rajasthan’s Karauli amid Gurjar-Meena row over Panchana dam water
-Divisional commissioner of Bharatpur Nalini Kathotia said the internet services will remain suspended until Thursday night as a precautionary measure.
+## Teenager apprehended after 8-year-old girl allegedly abducted, raped, killed in Assam: Police
+Teenager apprehended after 8-year-old girl was abducted, raped, killed in Assam’s Sribhumi district, police said on Thursday.
 
-## PM Modi praises Australia's under-16 social media ban, says India is ‘taking lessons’
-Narendra Modi said Australia’s efforts to regulate social media and protect young users were setting an important precedent.
+## Chhattisgarh cabinet clears draft Ease of Doing Business Bill
+The Chhattisgarh cabinet has approved the draft Ease of Doing Business Bill, 2026, aimed at simplifying regulatory processes and enhancing investor confidence.
 
-## 8-year-old girl abducted, raped, murdered in Assam; teenager held: Police
-Police said the accused went around looking for the girl when she was missing, pretending that he did not know anything about the incident
+## When will Delhi-NCR's wet spell end? IMD says rainfall likely to continue till...
+For those wondering when the rain will ease, the IMD has indicated that the current weather is likely to continue for the next two days.
 
-## IMD issues landslide warning for Shimla and other Himachal districts; tourists advised caution
-The IMD forecasts ongoing monsoon activity in Himachal Pradesh, with heavy rainfall likely in certain districts. Advisories recommend residents stay cautious
+## Former TMC Rajya Sabha MPs Sushmita Dev, Sukhendu Sekhar Ray, Prakash Chik Baraik join BJP in Kolkata
+The three leaders were inducted into the party in the presence of West Bengal BJP president Samik Bhattacharya.
 
-## Rain in Delhi-NCR due to ‘influence of low-pressure area, monsoon trough’: What does that mean?
-From convergence to condensation, a 'low' over MP and a shifting monsoon trough are driving rainfall in Delhi-NCR.
+## Southwest monsoon covers entire India; IMD forecasts below-normal rains from July 15
+The southwest monsoon covered all of India on July 9, but IMD said the active spell has ended and below-normal rainfall is likely from July 15.
 
-## PM Modi brings up Operation Sindoor in Australia: 'Blasts hit terror camps, echoes were heard across the world'
-Speaking at a diaspora event, PM Narendra Modi said that the world his now witnessing the credibility of India's defence platforms.
+## From defence and nuclear energy to trade: PM Modi concludes Australia visit with 18 outcomes | Full list
+From nuclear energy and uranium supply to deeper maritime security cooperation in the Indo-Pacific, here's a look at the total outcomes announced.
 
-## Shocking theft in Bihar: 100m of 25,000-volt overhead railway wire stolen, train services hit
-The Railway Protection Force (RPF) has recovered the stolen material, and an investigation has been launched to identify and arrest those involved.
-
-## R Madhavan’s simple habit to keep his skin firm: ‘Even though I grow…’
+## Serum Institute of India ties up with DNDi for Phase III trial of dengue therapy
 
 
-## Thane doctors’ assault: Maharashtra has a law against attacks on medics. Why hasn’t it worked?
+## UPSC Key: Prambanan Temple, Kashmir’s militancy landscape and Astra missile
 
 
-## Munna Bhai’s ‘M Bole Toh’ was written for Shah Rukh, says Farhad Samji: ‘English will suit SRK’
+## Probe into Nashik Ring Road Alignment to be conducted within 3 days, says Maharashtra minister Bawankule
 
 
-## From Hormuz to Malacca, Delhi must draw the right lessons
+## What constitutes public authority under the RTI Act
 
 
-## Haryana can prescribe higher qualifications than UGC: High Court
+## The Daily Catch-Up: Your 3-minute evening briefing
 
 
-## Court’s ‘lesson’ for morphing minor’s pics: Man banned from social media for 3 years
+## TCS reports 8.5% rise in net profit for Q1FY27
 
 
-## ‘India not for beginners’: Man sleeps on bull’s belly on busy road; video goes viral
+## When Norway beat England: “Maggie Thatcher, your boys took a hell of a beating”
 
 
-## Man accused of morphing pics of female students on Instagram, gets bail
+## Gujarat launches data centre policy, aims to become hub for ‘hyperscalers’
 
 
 ## Xiaomi preps for fierce EV race with new SUV line, long-range battery tech
@@ -204,7 +222,7 @@ Joe Jewell left academia and his role directing hypersonic wind tunnels to overs
 ## The Pentagon’s AI Strategy Has a Funding Problem
 In the span of two weeks, the White House issued two of the most ambitious artificial intelligence directives in American history. On June 2, President Donald Trump signed an executive order mandating rapid AI adoption and hardened cyber defense across the government. Three days later, National Secu
 
-## Victory for al-Qaeda’s Affiliate in Mali Would be a Regional Catastrophe
+## Victory for al-Qaeda’s Affiliate in Mali Would be a Catastrophe
 Mali is not Syria, and Jama’at Nusrat al-Islam wal-Muslimin is not Hay’at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama’at Nusrat al-Islam wal-Mus
 
 ## A Fresh Look at the Houthi Threat to Maritime Shipping
@@ -246,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran prepares to bury slain leader Khamenei after mass funeral processions
-The late supreme leader will be buried in his hometown, the eastern holy city of Mashhad.
+## Photos: Iran to bury slain supreme leader in culmination of mass funeral
+Iranians gather in sweltering heat for Ayatollah Ali Khamenei’s funeral in his hometown of Mashhad.
 
-## US strikes Iran for second night – is the peace process all over now?
-Neither side has officially called off the interim peace agreement, despite the escalation.
+## FIFA World Cup: Which quarterfinal team has best chance to win the trophy?
+Form guide on the final eight teams as they battle it out for the FIFA World Cup 2026 trophy in the United States.
 
-## UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide
-UN Fact-Finding Mission found that the paramilitary's systematic campaign of violence in Darfur amounted to genocide.
+## Graham Platner drops Maine Senate bid: What that means for Democrats
+Democrats are scrambling to field a candidate as popular as Platner to clinch Maine in the midterms.
 
-## Australia to begin selling uranium to India for peaceful purposes
-Australia to begin selling uranium to India for peaceful purposes
+## EU lawmakers call for probe into FIFA’s Infantino
+EU lawmakers call for probe into FIFA’s Infantino
 
-## Air raid sirens in Bahrain after uneasy night of US-Iran strikes
-After a tense night of overnight US-led strikes on Iran, air raid alerts sounded across Gulf states.
+## Indonesian farmer goes viral using a drone as transportation
+Indonesian farmer goes viral using a drone as transportation
 
-## Who is Zeynep Sonmez, the Wimbledon with the ‘Palestine’ watermelon racket?
-Turkish tennis player Zeynep Sonmez defies a Wimbledon ban to stand in solidarity with Palestine.
+## Trump targets Spain, NATO backs Ukraine: Is the alliance still united?
+While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity.
 
-## World Cup: France vs Morocco prediction, schedule, Hakimi vs Mbappe rivalry
-Hakimi meets Mbappe as France face Morocco in the opening World Cup quarterfinal, with Opta backing Les Bleus to win.
+## Mosque model placed on top of Northern Ireland bonfire
+Pro-UK loyalists in Northern Ireland have placed a replica mosque at the top of a bonfire, which is due to be lit.
 
-## Australia, India strike deal on uranium exports during PM Modi’s visit
-India has long eyed Australia's uranium to help meet a target of 100 gigawatts of nuclear energy capacity by 2047.
+## Ukraine targets Russian oil depots and tankers in drone attacks
+Ukraine hit two oil tankers in Sea of Azov and several oil facilities across Russia in drone attacks.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
@@ -294,6 +312,9 @@ Foreign investors are receiving unexpected tax notices in India, even for transa
 ## Fall in global crude prices brightens fiscal outlook, El Nino risks linger
 Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agr
 
+## India consumer inflation likely topped RBI's 4% target in June: Reuters poll
+Wholesale price inflation also remained elevated despite easing slightly from the previous month. Core inflation, excluding volatile food and fuel, was expected to be around 3.95 percent. This rise could impact the central bank's future monetary policy decisions.
+
 ## Govt plans fresh policy interventions to strengthen MSME manufacturing ecosystem
 The ministry has launched a nationwide consultation exercise to strengthen the MSME ecosystem and their manufacturing base; it has received more than 2,000 suggestions so far, says Mercy Epao, Joint Secretary, MSME ministry.
 
@@ -314,7 +335,4 @@ National Financial Reporting Authority (NFRA) Chairperson Nitin Gupta on Tuesday
 
 ## Sebi reintroduces open mkt share buyback from Aug 1
 Sebi has reintroduced open-market share buybacks through stock exchanges starting August 1. Companies can now repurchase their own shares using regular trading mechanisms without a dedicated window. The execution period for these buybacks is capped at sixty-six working days from the offer opening. T
-
-## RBI to auction Rs 32,000 crore government bonds on Friday
-The Reserve Bank of India will auction government securities worth thirty-two thousand crore rupees. This auction involves re-issuing two specific bonds with different maturity dates. The government holds an option to retain additional subscriptions for each security. Bids will be submitted electron
 
