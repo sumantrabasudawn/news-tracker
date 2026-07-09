@@ -1,28 +1,34 @@
 # AION Intelligence
 
-## US launches second day of strikes against Iran
-Trump claims Iran has ‘called’ to negotiate but the president casts doubt on the prospects of a deal
+## The superstar banker pay problem
+New York’s boutique investment banks are consistently spending more than the 60% industry benchmark on staff
 
-## Police launch probe into donations to Jenrick’s Tory leadership campaign
-Investigation by Metropolitan Police follows allegations that money wrongly came from an overseas donor
+## TPG and Blackstone seek more than $4bn for Hologic unit to unlock cash
+Private equity groups look to pay down debt and repay investors from one of last year’s biggest leveraged buyouts
 
-## Oil prices rise after Washington steps up conflict with Tehran
-Donald Trump says US attacks will ‘get much worse’ if Iran hits more ships
+## Iran war windfall puts Big Oil on collision course with Trump
+Fuel price surge triggered by conflict brings pain for consumers but profit gusher for US groups
+
+## How Ukraine’s drone strikes brought war home to 50mn Russians
+Kyiv’s campaign against energy infrastructure leads to long queues for fuel, with Cossacks deployed to stop fights
+
+## The Iran global inflation crisis that stubbornly refuses to happen
+Neither the war in the Gulf nor the Covid-Ukraine price spike has taken us back to the stagflationary 1970s
+
+## Burnham discussing plans for deputy PM to lead ‘Number 10 North’
+Attempt to give more power to Manchester office expected to focus on economic strategy
+
+## Iran after Ali Khamenei
+Supreme leader’s burial leaves his son Mojtaba — about whom Iranians know little — to confront enormous challenges facing the regime
+
+## Ministers look at restricting cash payments as disability benefits bill soars
+Rise in claims since 2019 has been driven by mental health and neuro-developmental conditions
+
+## South Korea’s AI chip boom separates the haves from the have-mores
+Huge bonuses for semiconductor workers are leaving those in traditionally prestigious jobs feeling relatively worse off
 
 ## FirstFT: Trump declares US-Iran ceasefire ‘over’
 Also in today’s newsletter: US rare earths flow to Asia, and Santander axes top China banker
-
-## Trump’s surprise Ukraine shift steadies nervous Nato allies
-A summit that threatened new acrimony among the allies ended with free guns and ‘love in the room’
-
-## Starmer planning bank holiday if England wins World Cup
-Businesses argue jubilation would offset any economic setback while pubs say it would be a ‘dream come true’
-
-## Hawkish Fed minutes indicate some support for rate increases
-Policymakers worried about inflation and ‘several’ said they did not believe current borrowing costs were restrictive
-
-## Inflation fears mount at Warsh’s first Fed meeting
-Some Fed officials saw need for future rate rises to contain inflation
 
 ## Sizewell nuclear plant extended as part of UK’s net zero push
 Suffolk facility started running in 1995 and remains Britain’s most recently built nuclear installation
@@ -42,104 +48,116 @@ UK regulator alleges in court filing that lenders want to determine own liabilit
 ## Ukraine intensifies attacks on Russian ships in Azov Sea
 Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 
-## Segro lays out defence as it battles £12.6bn takeover attempt by US rival
-UK property group believes 925p a share offer by Prologis undervalues its warehouse and data centres business
+## Govt waives basic customs duty on key components for electronics manufacturing
+The duty waiver covers goods used in manufacture of display assemblies, the lithium ion cell and the inductor coil module in a boost for domestic production of smartphones, laptops, wearables and smart TVs
 
-## Sun Mobility offers T3-55T electric trucks with world’s first modular battery swapping at Pravaas 5.0
-Unlike passenger cars, commercial vehicles are judged primarily on operating economics rather than technology. Sun Mobility is betting that battery swapping can tip that equation by cutting upfront vehicle costs, reducing charging downtime and creating a shared energy network that multiple truck and
+## Nifty rebounds 137 points at open after worst day in three months; IT stocks drag as TCS results due
+Sensex opened at ₹76,576.14 and rose to ₹76,985.96, up 0.63%, while Nifty 50 opened at ₹23,928.95 and increased to ₹24,019.15, up 0.57%, as of 9:25 AM
 
-## Ancient quasars deepen a major unsolved problem in astrophysics
-The Euclid space telescope has identified 31 ancient quasars, including the earliest known, challenging existing theories of black hole growth in the early universe
+## Sensex today | Stock Market Live: Sensex rises 370 pts to 76,840; Nifty up 115 pts to 23,997; Eternal, Titan top gainers
+Sensex, Nifty, Share Prices LIVE: Despite the uncertain global backdrop, Foreign Institutional Investors (FIIs) remained net buyers of domestic equities, investing ₹1,962.80 crore on Wednesday
 
-## Agri-commodity markets have not priced in fertilizer supply risks, say analysts
-High prices of the crop nutrients could lead to less utilisation as China, India will likely face problems
+## TCS Q1 Results LIVE: TCS set to announce Q1 FY27 earnings today; IT sector, Street outlook in focus
+TCS Q1 Results LIVE: Follow our live coverage as Tata Consultancy Services announces its Q1 FY27 earnings. Track management commentary, key financial metrics, share price movement, and the latest updates from the earnings season, including results from Anand Rathi Wealth, GM Breweries, Eimco Elecon 
 
-## Construction equipment sales slump 41% in June: FADA data
-Slowdown was due to high base and subdued demand environment
+## PM Modi invites Australian businesses to invest in India, seeks early conclusion of economic cooperation pact
+Modi highlights ‘vast opportunities’ available in India in sectors, including manufacturing, clean energy, critical minerals, mining, infrastructure, artificial intelligence, fintech, and digital economy
 
-## Crude oil price surges more than 6% after Trump says ceasefire with Iran is 'over'
-Brent crude price jumps 6.3% to $78.80 a barrel
+## Crude oil futures rise as US continues attacks on Iran
+“The past few days’ price action makes one thing clear: markets were far too relaxed about the risks surrounding the deal -- and far too bullish on how quickly regional supply could rebound”
 
-## Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt
-A high-level review assessed the likely impact of El Nino on the kharif season and other sectors
+## Honda to create over 3,800 jobs in India by 2028 with 2-wheeler capacity expansion
+India is becoming crucial to Honda’s global manufacturing and export strategy, with production capacity aimed at both domestic demand and international markets, Otani
 
-## Rupee sees worst single-day fall in a month
-G-Sec yields spike as crude oil prices harden
+## Five Trends That Will Shape the Future of Obesity Care in India: Ajanta Pharma Shares Its Perspective on the Next Decade of Metabolic Health
+Five Trends That Will Shape the Future of Obesity Care in India: Ajanta Pharma Shares Its Perspective on the Next Decade of Metabolic Health
 
-## Coal Ministry invites applications for ₹37,500-crore coal gasification programme
-The scheme aims to boost energy security, reduce import dependence and promote coal-to-chemicals manufacturing
+## India-Australia ties: Early trade pact, $500 million investment, clean energy and more —Top highlights from PM Modi's visit
+India and Australia are strengthening economic ties and bilateral cooperation. Prime Minister Modi invited Australian businesses to invest in India's expanding economy. AustralianSuper announced a significant new investment in India's infrastructure fund. Discussions covered opportunities in clean e
 
-## Trump's threat makes Dalal Street nervous, Sensex falls 1,700 points
+## Crude nears $80 a barrel again after Trump declares US-Iran ceasefire ‘over’
+Global oil markets are experiencing renewed chaos as crude prices surged significantly. US President Donald Trump declared the ceasefire agreement with Iran was over. Fresh US military strikes on Iranian targets heightened fears of supply disruptions. Maritime authorities raised the threat level for
 
-
-## Clean energy share in power mix breached 50% mark on July 6
-
-
-## Trump’s ceasefire ‘over’ remarks & fresh Strait of Hormuz disruptions: What it means for India
-Before the conflict, the Strait of Hormuz handled nearly 40% of India's crude oil imports, around 60% of its LNG imports and approximately 90% of its LPG supplies, underlining the country's heavy dependence on the strategic waterway.
-
-## US stocks today: Oil jumps nearly 5%, shares tumble as Trump declares Iran ceasefire 'over'
-Global stock markets declined and oil prices surged on Wednesday. US President Donald Trump cast doubt on the temporary Iran conflict truce. This raised fears that renewed fighting could disrupt global energy supplies. Wall Street opened lower after Trump suggested the ceasefire was effectively over
-
-## ‘India-US trade deal will unleash animal spirits’: Economist Surjit Bhalla sees China benefitting if doesn’t happen
-The trade deal has the potential to boost competitiveness and accelerate India’s journey towards becoming a developed nation, Surjit Bhalla said. However, he warned that prolonged delays in concluding such an agreement would ultimately work to China's advantage.
-
-## How India’s silver import restrictions have created shortages; white metal trading at significant premium to global prices
-As India relies on imports to meet more than 80% of its silver requirement, the sharp decline in overseas purchases could weigh on international silver prices while helping reduce the country's trade deficit and easing pressure on the rupee.
-
-## Bot calls, AI chat generated Rs 5520 crore loans in FY26: Sanjiv Bajaj
-Bajaj Finance is transforming lending by analyzing conversational data with AI bots. This AI integration enabled over Rs 5,520 crore in loan disbursals in FY2026. The company aims to become a financial AI enterprise, embedding intelligence in every decision. This strategic pivot will enhance custome
-
-## US-Iran war impact: IMF lowers India’s GDP growth forecast marginally; still tags it among fastest growing economies
-According to the IMF, the global economy has so far avoided a steeper slowdown despite the war, as strong demand linked to the technology sector has helped offset the impact of reduced energy supplies caused by the conflict.
-
-## Sonam Wangchuk calls for Parliament march on July 20: ‘Do a little more’
-Activist Sonam Wangchuk's call for Parliament on July 20, first day of monsoon session, comes amid the CJP's ongoing protest over the NEET paper leak scam.
-
-## Scientifically Speaking: Do early winners become winning adults?
-A new Science study challenges the belief that child prodigies and early toppers become most successful adults, offering lessons for India’s education system
-
-## ‘Police acting as BJP arm’: Mamata accuses ruling party of blocking TMC protest on Baruipur rape-murder
-Mamata Banerjee claimed that the police had failed to discharge their duties impartially, and alleged that the cops had become “an arm of the BJP organisation”.
-
-## Mamata Banerjee's slap at Baruipur protest caught on camera; BJP shares video
-In a post on X, BJP spokesperson Pradeep Bhandari claimed that Mamata Banerjee had slapped a TMC worker.
-
-## India expresses deep concern at fresh West Asia tensions, calls for dialogue
-India urged all parties to exercise restraint and return to dialogue after fresh attacks in West Asia threatened the fragile Iran-US ceasefire and energy flows.
-
-## Baruipur horror: A 12-year-old's rape and murder has spiralled into a political flashpoint in Bengal
-The alleged “encounter” of one of the accused has also been in focus, with BJP terming in “divine justice” and Mamata Banerjee-led TMC calling it “jungle law”.
-
-## Higher education enrolment hits 45 million, women gain ground in STEM: AISHE report
-India’s higher education enrolment reached a record 45 million in 2023-24, while women’s participation in STEM programmes rose to 44%, AISHE data showed.
-
-## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
-NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
-
-## RMO assaulted by Shiv Sena corporator: ‘I was the only male doctor, so I became their punching bag… fear for my safety’
+## 'Tata Group eyeing $100bn in auto revenue by 2031'
 
 
-## From Tihar to Rohini prisons: To decongest, Delhi government looks for land in 48 urban villages
+## Citing high crude, IMF, ADB trim growth forecast for India
 
 
-## Accused in Baruipur minor girl’s rape and murder killed in Bengal police ‘encounter’
+## 'Banks opt to deepen card usage within existing base'
 
 
-## PM Christopher Luxon interview: ‘New Zealand, working with India, needs to remake case for a rules-based system’
+## Oversight of Trai has hit us: Truecaller
 
 
-## ‘Don’t want to deal with Iranians anymore, they’re scum’: What Trump said on Iran
+## Startup IPO Valuation Pushback: Investors resist lofty pricing; Zepto, PhonePe rethink plans
+Investors Get Selective About Valuations, May Affect Cos In Line For Listing This Year
+
+## Mercedes, BMW see highest-ever sales in H1, EVs drive growth
 
 
-## Modi to meet Australian PM Albanese in Melbourne today, to discuss cooperation in Indo-Pacific region
+## PM Modi begins key Australia visit with Guard of Honour, bilateral talks
+Prime Minister Modi received a ceremonial welcome in Australia, where he addressed business leaders about India's clean energy ambitions.
+
+## ‘Massive rain event’, ‘stay indoors’: Nonstop downpour in Delhi, Ghaziabad, Noida, Gurugram
+IMD issued red and orange alerts for Delhi-NCR due to expected heavy rainfall. Up to 200 mm predicted for east NCR, including Noida, Ghaziabad.
+
+## ‘Suhagrat Express’ video deleted: Decorator booked over bedroom-style decor in 1st AC coupe
+The South Central Railway stated that the decorator who decorated the 1st AC coupe was booked under the extant provisions of the Railway Act.
+
+## Myanmar won’t allow misuse of its land against India, says MHA
+The two-day meeting, held on July 7-8, was led by Union home secretary Govind Mohan and Myanmar deputy home minister Major General Min Thu.
+
+## India, Afghanistan to plan agriculture, livestock collaboration, form a ‘Joint Working Group’
+India and Afghanistan have agreed to work towards setting up a Joint Working Group to prepare a long-term roadmap for cooperation in agriculture and livestock.
+
+## Weather today LIVE: Rain red alert in Delhi today; power cuts ruin WFH in Pune amid downpour
+Weather today LIVE updates: In Gujarat’s Surat, officials said at least 9 people were reported dead over the last few days as heavy rains battered the city.
+
+## Police question three accused in Ram Temple donation row, SIT set to visit Ayodhya before finalising report
+Lavkush Mishra, Anukalp Mishra and Karunesh Pandey — the three main accused — were confronted with CCTV footage, witness statements, attendance registers.
+
+## Donation 'irregularities' at Badrinath Dham; FIR against temple committee's suspended employee
+Pramod Nautiyal was serving as a personal assistant in the chairman’s office. A show-cause notice was issued to him after the allegations came to light.
+
+## Saif Ali Khan admits problems with Kartavya ending: ‘Villain should have faced consequences’
 
 
-## Why US attacked Iran and Trump said ceasefire ‘is over’
+## India news LIVE updates, 9 July 2026: Bengaluru Metro Green Line faces delays due to technical issue, says BMRCL
 
 
-## World Cup 2026 controversy: Messi, Trump, and a conspiracy thriller
+## ED freezes 3 bank accounts of TMC: ‘Used party corpus to invest in aviation firm to buy jet and chopper’
 
+
+## ‘Shorts were never meant for me’: Actor Debinna Bonnerjee reveals reason behind stubborn thigh fat
+
+
+## ‘Would you do it naked?’: Saif Ali Khan recalls Vishal Bhardwaj’s request for Omkara scene
+
+
+## US-Iran War Live Updates: Iran says it hit US military bases in Bahrain, Kuwait in retaliation for American strikes
+
+
+## TG EAPCET 2026: Round one first seat allotment results on July 10 at tgeapcet.nic.in
+
+
+## Emmy nominations 2026: The Pitt tops with 25 nominations, Hacks scores 24 nods
+
+
+## Hong Kong top retirement choice for ultra-rich expats, St James’s Place says
+Two-thirds of ultra-rich expatriates living in Hong Kong plan to retire in the city, thanks to stronger financial benefits, according to a survey by St James’s Place. The findings were published after the British financial advice and wealth management company surveyed 450 affluent and high-net-worth
+
+## Yuan: global ambitions
+–
+
+## Goldman Sachs forecasts 50% jump for battery giant CATL’s shares as energy storage takes off
+Contemporary Amperex Technology Co Limited (CATL) will see 50 per cent growth in its share price to a record high over the next 12 months, as it benefits from rising demand for energy independence, according to Goldman Sachs. The Wall Street investment bank expected CATL’s battery energy storage sys
+
+## AXA Global Private makes Hong Kong debut
+[The content of this article has been produced by our advertising partner.] AXA Group has rolled out AXA Global Private as a unified platform to better serve high-net-worth (HNW) and ultra-high-net-worth (UHNW) individuals together with globally mobile families across Asia. The announcement was made
+
+## China now has 7 of world’s 10 biggest banks as Beijing’s financial ambitions grow
+China’s “big four” state-run banks are the largest in the world in terms of asset scale, a new report has found, underscoring Beijing’s rising ambitions to build the country into a global financial powerhouse. The ranking released by The Banker magazine on Wednesday was topped by the four Chinese ba
 
 ## When will Hong Kong’s retail leasing market see a turnaround?
 Hong Kong’s retail leasing market remained under pressure with rental rates far below the pre-pandemic levels, while Beijing’s crackdown on capital flight and a potential rate hike in the second half of the year by the US Federal Reserve would add to sector uncertainties, according to analysts. The 
@@ -149,21 +167,6 @@ The owners of luxury hotel brand The Peninsula and logistics firm SF Holding hav
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
 China’s printed circuit board (PCB) makers are embarking on a factory-building spree to feed demand fuelled by the global artificial intelligence boom, a rush that is expected to push their capital expenditure to a record high. In the first half of the year, more than 20 Chinese PCB companies – incl
-
-## Beijing seeks chip stability and fair market access during Dutch trade minister’s trip
-Beijing has urged the Netherlands to ensure fair treatment for Chinese companies and maintain stable chip supply chains during a visit by the Dutch trade minister, as the two sides navigate tech tensions with Washington while seeking a “clean break” from friction over Nexperia. “We hope the Dutch go
-
-## Chinese profit-taking triggers record gold ETF outflows amid shift to equities
-Chinese investors pulled a record US$2.91 billion out of domestic gold exchange-traded funds (ETFs) in June, taking profits as a stock-market surge and a strong yuan dimmed the appeal of the safe-haven metal, according to the World Gold Council (WGC). Mainland Chinese funds were the biggest drag on 
-
-## Hong Kong IPO debut delayed in rare move over missing regulatory data: sources
-Hong Kong witnessed a rare delay of an initial public offering (IPO) debut on Wednesday, the first in more than eight months, triggered by a regulatory requirement for additional client information, according to people familiar with the matter. On Tuesday night, just before its scheduled listing on 
-
-## China further boosts Hong Kong’s role as offshore yuan hub
-China’s central bank announced more measures to expand Hong Kong’s role as an offshore yuan hub, injecting “vitality” into the city’s markets and supporting efforts to grow international use of the currency. Institutions in mainland China would be able to buy a net 800 billion yuan (US$118 billion) 
-
-## Are the US’ AI models better than China’s? That may be beside the point
-As another heatwave rolled across Europe, the warehouses emptied before the politics could catch up. Air conditioners and fans sold out across Spain, Italy and Germany, most of them Chinese. Fan sales in Spain alone on the retail platform of Alibaba Group Holding (which owns the South China Morning 
 
 ## Trump Hands NATO a Mixed Bag
 The alliance wanted to look united. In walked Trump.
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Indonesia’s free meals programme plagued by alleged corruption and waste
-Indonesian President Prabowo Subianto's initiative has been criticised for misdirecting resources to affluent regions.
+## US court rules that Trump’s name must stay off Kennedy Center during appeal
+Trump’s name was removed from the centre's facade and signage last month, after a judge ordered its removal.
 
-## Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova
-A partisan Centre Court backed home hope and world number 114 Fery in his incredible fairytale run to the last four.
+## Do fans still trust referees and VAR at the World Cup?
+Do fans still trust referees and VAR at the World Cup?
 
-## US expands military strikes on Iran after Trump says he’ll ‘hit them hard’
-US forces have expanded their military strikes on Iran, after blaming Tehran for breaking the MoU to end the war.
+## What’s with Trump’s sudden fixation on communism?
+US President Donald Trump has denounced communism more than 80 times in the past two weeks.
 
-## Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show
-FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup.
+## IMF cuts 2026 world growth forecast, citing Iran war fallout
+Global economy to grow 3 percent in 2026, as AI demand partly offsets energy shock from Iran war, IMF says.
 
-## Family demands investigation after US man killed by ICE agent in Texas
-Calls for answers after Lorenzo Salgado Araujo fatally shot during traffic stop in Houston in latest ICE killing.
+## Would the US protect NATO allies if they were attacked?
+This is America: Jim Townsend says he is unsure whether the US would send troops if a NATO ally were attacked.
 
-## US moves to delist Syria as a ‘state sponsor of terrorism’
-President Trump announces a move to delist Syria, citing efforts by Ahmed al-Sharaa to unify the country.
+## US Senate nominee Platner halts campaign after assault allegations
+A string of high-profile Democrats have withdrawn support for Platner following sexual assault allegation.
 
-## Former Wisconsin judge avoids prison in ICE obstruction case
-Hannah Dugan's sentence comes after she helped an immigrant in the US avoid ICE agents waiting to arrest him in 2025.
+## Confirmed Ebola deaths in DR Congo hit 600
+The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.
 
-## France lose appeal against Olise’s yellow card in Paraguay World Cup clash
-If Olise is cautioned again against Morocco, he will be suspended for a potential semifinal against Spain or Belgium.
+## Trump to ask US Supreme Court for new hearing on birthright citizenship
+In June, the Supreme Court ruled against Trump’s order to end birthright citizenship for individuals born in the US.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
@@ -309,6 +312,9 @@ Foreign investors are receiving unexpected tax notices in India, even for transa
 ## Fall in global crude prices brightens fiscal outlook, El Nino risks linger
 Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agr
 
+## Govt plans fresh policy interventions to strengthen MSME manufacturing ecosystem
+The ministry has launched a nationwide consultation exercise to strengthen the MSME ecosystem and their manufacturing base; it has received more than 2,000 suggestions so far, says Mercy Epao, Joint Secretary, MSME ministry.
+
 ## RBI backs crypto ban, tax department warns of evasion risks, documents show
 India's central bank has reiterated its preference for a cryptocurrency policy "leaning towards prohibition," warning that crypto assets and stablecoins could threaten financial stability and monetary sovereignty, according to internal government documents reviewed by Reuters.
 
@@ -329,7 +335,4 @@ Sebi has reintroduced open-market share buybacks through stock exchanges startin
 
 ## RBI to auction Rs 32,000 crore government bonds on Friday
 The Reserve Bank of India will auction government securities worth thirty-two thousand crore rupees. This auction involves re-issuing two specific bonds with different maturity dates. The government holds an option to retain additional subscriptions for each security. Bids will be submitted electron
-
-## Direct cash transfers to women boost savings, spending: EAC-PM
-Direct cash transfers to women boost household savings and spending effectively. Schemes in Maharashtra and Odisha showed significant improvements in savings. Monthly account balances increased substantially for beneficiaries in both states. Consumption spending also saw notable increases after thes
 
