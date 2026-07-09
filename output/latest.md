@@ -1,79 +1,76 @@
 # AION Intelligence
 
-## US strikes Iranian railway bridges on route to city of Khamenei’s burial
-Late supreme leader set to be interred in Mashhad on Thursday
+## Microsoft’s early AI lead has become a test of faith
+The only certainty is that capital spending is going through the roof
 
-## Labour MPs queue up to back Burnham as next leader
-Former Manchester mayor moves a step closer to being Britain’s next prime minister
+## Britain’s unsustainable mental health bill
+Reducing spending on disability benefits is a major test for Andy Burnham
 
-## Peking duck dispute heightens EU-China trade tensions
-European Commission launches probe into alleged dumping of subsidised meat
-
-## Minutes from the ECB’s June meeting confirm rise in inflation risks
-Central bank’s baseline projections showed above-target inflation despite the inclusion of almost three rate rises
-
-## US renews strikes against Iran
-Also in today’s newsletter, political rhetoric around the ‘Epstein class’ is gaining traction among Democratic candidates
-
-## Italy expels Russian diplomats suspected of running spy ring
-Expulsion comes after arrest of two retired Italian officers who allegedly passed on information to Moscow
-
-## Argentina repays $4bn as it resists return to global markets
-Cash-strapped nation says it can meet huge debt obligations without issuing new sovereign bonds
-
-## Futureproofing fantasy fashion in Paris
-Couture may be for the 0.1 per cent, but houses like Chanel, Dior and Schiaparelli are still vying to make it feel relevant
-
-## Wall Street set for bumper $140mn payday from SK Hynix listing
-Secondary US listing of trillion-dollar South Korean chipmaker expected to be one of largest public offerings in history
-
-## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
-Recovery in sales volumes runs out of steam in second quarter as squeeze on budgets hits snack and soda group
+## Ukrainian spy accused of killing Monaco hit woman shifts blame
+Vladyslav Reut says accomplice pulled the trigger on the woman they hired to carry out a hit on a Ukrainian tycoon
 
 ## Leading UK research facility Diamond Light Source faces cost cuts
 Particle accelerator used by both public and private sector scientists is part of 15% research centre savings
 
-## Will Silicon Valley unleash a new wave of philanthropy?
-Oliver Hanney of development economics hub VoxDev weighs in on the potential recipients of donations
+## Banijay picks London as new HQ for TV maker after $8bn merger
+UK base for production group behind ‘The Traitors’ is another boost to country’s creative sector
 
-## Burnham must not succumb to a populist techlash
-It would be a crime to lose the UK’s envied tech and life science status within Europe
+## World faces growing diesel supply crunch as Russia cuts off exports
+Ukraine drone strikes have hammered Russia’s refineries
 
-## Are deep reservoirs the next frontier in the US shale revolution?
-Also in today’s newsletter: tax credits for US renewables industry expire and how El Niño threatens countries reliant on hydroelectric power
+## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
+Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
 
-## FirstFT: Big Oil vs Trump
-Also in today’s newsletter: Platner ends Senate campaign and why private assets could work for retail investors
+## Democrats race to salvage US Senate bid after Graham Platner scandal
+Populist progressive quits Maine contest after rape allegations
 
-## China could be the US tech hedge
-Diversification is not about finding a market without risk — it is about finding a market whose risks are different
+## AstraZeneca shares slide after heart treatment disappoints in trial
+UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
 
-## From battery swapping to premium coaches, bus-makers unveil next-gen mobility solutions at Prawaas 5.0
-Bus and electric mobility manufacturers unveiled a range of new passenger transport platforms at Prawaas 5.0 in Gandhinagar on Thursday
+## Business model in terminal decline? Try a round of golf
+Versant Media hopes to get back in play with its purchase of simulator maker Full Swing
 
-## Power Grid secures loan from JBIC to advance India’s HVDC push
-The green loan emphasises Power Grid’s continued commitment to supporting India’s energy transition goals while adhering to the environmental, social, and governance (ESG) standards, the Maharatna company said
+## Computacenter shares rise as FTSE 100 new entrant taps into AI boom
+Hardware reseller one of few London-listed tech groups to capitalise on demand for data centre infrastructure
 
-## Growing importance of debt funding for Indian start-ups
-Though the time taken to receive the first round of angel funding is not very different from that of VC funding, the VC funding rounds are about 6.8 times larger than that of an angel round.
+## How much is AI hacking your emotions?
+Disinformation and deepfakes are known risks but biased LLMs could also be used to influence public opinion
 
-## Cognizant committs to scale its ‘Frontier-certified workforce’
-Cognizant commits to expanding its Frontier workforce to enhance AI capabilities, targeting 5,000 engineers and 10,000 operators by 2026
+## India questions WTO DG’s role, seeks clarity on legal basis of proposed e-commerce agreement
+New Delhi has also questioned the use of WTO Secretariat resources to service the pact
 
-## The Case for Adaptive Investing Across Market Cycles
+## JK Tyre plans additional 5%-6% price hikes by September-end
+The hikes reflect pressure in the auto-parts sector due to an oil price rally linked to the West Asia conflict
+
+## Macroeconomic uncertainty weighs on TCS across geographies and business verticals
+However for the consumer business or retail, management flagged a combination of inflationary pressures and ongoing geopolitical uncertainties are impacting discretionary spend.
+
+## Work-integrated education gains traction as industries prefer job-ready graduates
+Only 43% of Indian graduates considered employable despite millions entering workforce each year, according to India Graduate Skill Index 2025 by Mercer Mettl
+
+## Earthquake of magnitude 5.5 strikes Czech Republic and Slovakia, GFZ says
 
 
-## Olayinka Hakeem Babalola Takes Office as President of Rotary International
-Two Rotary leaders from India take on global leadership roles, strengthening India’s voice in Rotary’s humanitarian work
+## India approves Dixon-Vivo joint venture to boost local smartphone production
+The JV, owned 51% by Dixon and 49% by Vivo, will produce smartphones and other electronic devices for Vivo and potentially other brands.
 
-## Two Ducati Riders Complete Epic 13,765 Km Journey From India to Italy for Ducati’s 100th Anniversary
-New Delhi, Delhi, India --- Business Wire India
+## Synergys E&C Global bags orders worth ₹76 cr
+Fresh orders enhance Synergys E&C Global’s order book to ₹916 crore for FY27
 
-## FIMER India Strengthens Education in the Rural Schools Through CSR Initiative in Association With Aapat-Sahaaya Foundation, Supporting 5,000 Students Across 30 Schools in Karnataka
+## New residential project launches grow 4%; Pune, Mumbai lead : Knight Frank
+National Capital Region, Kolkata and Hyderabad declined in launch numbers
 
+## US airstrikes: Iran is rushing its oil exports out as conflict resumes, but who will buy?
+The 11 million barrels shipped over the past day are roughly equal to Iran's pre-war crude exports for an entire week. It remains uncertain, however, whether buyers will be available for those cargoes.
 
 ## New EPF Scheme 2026: 10 questions employees are asking about contributions, withdrawals and retirement savings
 EPF Scheme 2026: The good news is that many core features of the provident fund system remain familiar. Existing PF accounts continue, contribution rates broadly remain unchanged and accumulated balances remain protected.
+
+## Stationary vehicle does not escape liability if improperly parked; Calcutta High Court enhances compensation for deceased homemaker
+Justice Biswaroop Chowdhury partly allowed an appeal filed by Bajaj Allianz General Insurance Company Limited and enhanced compensation payable for the death of a homemaker from Rs.9.17 lakh to Rs.11 lakh, while dismissing the insurer's challenge to a separate award of Rs.2.10 crore granted for the 
+
+## Strait of Hormuz toll proposal: What are the key waterways in the world & is there a fee to transit them?
+The possibility of imposing transit charges in the Strait of Hormuz has drawn fresh attention to the dependence of global supply chains on a small number of strategically important waterways.
 
 ## US stock market today: Wall Street, oil prices steady after sharp swings yesterday
 Before the Iran war began, Brent was trading near $72 per barrel. More recently, optimism surrounding an interim peace agreement had pushed prices back to roughly their pre-war levels.
@@ -87,62 +84,56 @@ ITR filing FY 2025-26: The deadline to file ITR for salaried taxpayers is July 3
 ## Silent layoffs: Around 35,000 tech jobs may be eliminated this year; India’s IT sector sees AI shift
 The latest trend reflects a new phase in the restructuring of India's IT services industry, which is valued at over $315 billion. Companies are continuing to rationalise the workforce built up during the pandemic hiring surge after grappling with weaker business conditions over the past three years.
 
-## Gold rush: India’s holdings of US Treasuries fall to near 6-year low; points to shift in RBI strategy
-The strategic importance of gold came into sharper focus in 2022 after Western sanctions led to the freezing of a substantial portion of Russia's foreign exchange reserves. The episode underscored gold's value as a reserve asset.
+## BSNL launches satellite phone priced at ₹1.34 lakh: Who can buy it and what makes it special?
+BSNL said the new satellite phone was designed to be an “ideal solution” for defence, maritime, disaster response, and other such challenging areas.
 
-## India-Australia-Canada form tech triangle: New pact to boost AI, critical minerals and supply chains
-India, Australia, and Canada will enhance technology and innovation cooperation through a new partnership. This pact aims to boost collaboration in critical and emerging technologies for mutual benefit. The agreement will focus on green energy, resilient supply chains, and critical minerals developm
+## 3 ex-TMC MPs join BJP; to contest Rajya Sabha bypolls from seats they vacated
+Sukhendu Sekhar Roy, Sushmita Dev and Prakash Chik Baraik, three TMC leaders who resigned from the Rajya Sabha in June, joined the BJP in Kolkata on Thursday
 
-## India flags inconsistencies in US approach to Section 301 forced labour law, points to selective exemptions
-India questions US plans for new tariffs linked to alleged forced labor practices. New Delhi argues the US approach contains inconsistencies and prefers bilateral trade negotiations. Proposed tariffs could increase costs for Indian exporters and American consumers alike. India maintains its constitu
+## Now, Opposition plans to send its letter on SIR, ECI role to all Supreme Court judges
+TMC leader Derek O’Brien said the Opposition was discussing a plan to circulate the letter to all SC judges since they hadn’t received a response from the CJI
 
-## 'Ek ke sath ek gyarah' to 'Indians like sugar in milk': PM Modi's top quotes from Australia visit
-PM Narendra Modi and Australian Prime Minister Anthony Albanese held delegation-level talks as part of the Australia-India Annual Leaders' Summit
+## CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Raut slam BJP leader over 'arrogance'
+Missing Link between Mumbai and Pune was briefly shut early this week after heavy rainfall triggered landslides outside one of its tunnels.
 
-## India and Australia seal major uranium deal, elevate Indo-Pacific defence
-PM Narendra Modi and Anthony Albanese sealed a landmark uranium supply deal as India and Australia expanded cooperation in defence, maritime security and energy
+## Bengaluru clears 430 km of footpaths, plans new ID cards for street vendors
+The government will also remove other obstructions on footpaths to ensure continuous and accessible walkways across the city.
 
-## Teenager apprehended after 8-year-old girl allegedly abducted, raped, killed in Assam: Police
-Teenager apprehended after 8-year-old girl was abducted, raped, killed in Assam’s Sribhumi district, police said on Thursday.
+## Centre firm on territorial integrity, will not accept separate administration: Manipur BJP chief
+BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial integrity and reject the Kuki-Zo demand for a separate administration.
 
-## Chhattisgarh cabinet clears draft Ease of Doing Business Bill
-The Chhattisgarh cabinet has approved the draft Ease of Doing Business Bill, 2026, aimed at simplifying regulatory processes and enhancing investor confidence.
+## Three-year-old dies after slipping into rainwater outside Ghaziabad home
+Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
 
-## When will Delhi-NCR's wet spell end? IMD says rainfall likely to continue till...
-For those wondering when the rain will ease, the IMD has indicated that the current weather is likely to continue for the next two days.
+## Boats out, car and scooter plunge into roadside ditch: Ghaziabad battered by over 160mm rain | Videos
+Ghaziabad experienced heavy rainfall on Thursday. The downpour submerged roads, disrupted traffic, and led to a road collapse in Vasundhara.
 
-## Former TMC Rajya Sabha MPs Sushmita Dev, Sukhendu Sekhar Ray, Prakash Chik Baraik join BJP in Kolkata
-The three leaders were inducted into the party in the presence of West Bengal BJP president Samik Bhattacharya.
-
-## Southwest monsoon covers entire India; IMD forecasts below-normal rains from July 15
-The southwest monsoon covered all of India on July 9, but IMD said the active spell has ended and below-normal rainfall is likely from July 15.
-
-## From defence and nuclear energy to trade: PM Modi concludes Australia visit with 18 outcomes | Full list
-From nuclear energy and uranium supply to deeper maritime security cooperation in the Indo-Pacific, here's a look at the total outcomes announced.
-
-## Serum Institute of India ties up with DNDi for Phase III trial of dengue therapy
+## Naga Vamsi says Akhil Akkineni isn’t coming as a ‘boy born with a golden spoon’ in Lenin
 
 
-## UPSC Key: Prambanan Temple, Kashmir’s militancy landscape and Astra missile
+## Better roads, foot massage, cleaner toilets: Pilgrims welcome improved facilities on the Wari route
 
 
-## Probe into Nashik Ring Road Alignment to be conducted within 3 days, says Maharashtra minister Bawankule
+## Varun Chakaravarthy, Harshit Rana ruled out of remainder of ENG T20I series
 
 
-## What constitutes public authority under the RTI Act
+## Incredible places in India where you can see wild elephants up close
 
 
-## The Daily Catch-Up: Your 3-minute evening briefing
+## ‘We thought maybe we should separate’: Prince Narula breaks silence on marriage trouble
 
 
-## TCS reports 8.5% rise in net profit for Q1FY27
+## Why is Truecaller feuding with TRAI over spam calls, and how will it affect users?
 
 
-## When Norway beat England: “Maggie Thatcher, your boys took a hell of a beating”
+## ‘Only face-saving exercises being done’: Supreme Court pulls up civic authorities over illegal constructions in Delhi-NCR
 
 
-## Gujarat launches data centre policy, aims to become hub for ‘hyperscalers’
+## ‘Jaldi theek ho ja yaar’: Akshay Kumar ‘concerned’ about Rajesh Sharma’s slow recovery
 
+
+## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
+[The content of this article has been produced by our advertising partner.] Artificial intelligence is rapidly moving from experimentation to execution, and business veteran Bruce Rockowitz believes the technology could become a critical competitive advantage across industries ranging from wellness 
 
 ## Xiaomi preps for fierce EV race with new SUV line, long-range battery tech
 Xiaomi, the smartphone vendor that has become one of Tesla’s biggest challengers in mainland China after entering the electric vehicle (EV) market, has doubled down on research and development to combat a slowdown in domestic sales. The Beijing-based tech giant announced on Thursday it would assembl
@@ -165,8 +156,8 @@ Two-thirds of ultra-rich expatriates living in Hong Kong plan to retire in the c
 ## Yuan: global ambitions
 –
 
-## Goldman Sachs forecasts 50% jump for battery giant CATL’s shares as energy storage takes off
-Contemporary Amperex Technology Co Limited (CATL) will see 50 per cent growth in its share price to a record high over the next 12 months, as it benefits from rising demand for energy independence, according to Goldman Sachs. The Wall Street investment bank expected CATL’s battery energy storage sys
+## Will Iraq’s New Prime Minister Really Take On Corruption?
+Ali al-Zaidi tackles a perpetual challenge under the watchful eyes of Iraqis and Washington.
 
 ## Ukraine Finally Has a Theory of Victory. Will It Work?
 Kyiv has developed a strategy for winning the war. Now all it needs is time.
@@ -188,9 +179,6 @@ The country has agreed to invest interest savings in its electric grid.
 
 ## Energy Markets’ False Dawn May Be Over
 The U.S.-Iran deal has devolved into fighting again, with potentially ugly implications for oil prices.
-
-## Nigel Farage’s Path to Power Just Got Harder
-The far-right U.K. leader has been hit by multiple scandals.
 
 ## 1 Year On, Cambodia Is Still Feeling the Impact of USAID’s Demise
 To many in the country's development sector, the sudden collapse of the U.S. aid agency felt “like an earthquake.”
@@ -264,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Photos: Iran to bury slain supreme leader in culmination of mass funeral
-Iranians gather in sweltering heat for Ayatollah Ali Khamenei’s funeral in his hometown of Mashhad.
+## LIVE: France vs Morocco – FIFA World Cup 2026 quarterfinal
+Live coverage, text updates and build-up from our full text commentary stream as Mbappe's France face Morocco.
 
-## FIFA World Cup: Which quarterfinal team has best chance to win the trophy?
-Form guide on the final eight teams as they battle it out for the FIFA World Cup 2026 trophy in the United States.
+## Former US Olympian pleads not guilty in DC reflecting pool vandalism case
+Former Olympic canoeist David Hearn denies damaging Donald Trump’s Washington, DC reflecting pool renovation.
 
-## Graham Platner drops Maine Senate bid: What that means for Democrats
-Democrats are scrambling to field a candidate as popular as Platner to clinch Maine in the midterms.
+## A quest for closure: In search of the missing after Venezuela’s earthquakes
+Tens of thousands of people remain unaccounted for nearly two weeks after a pair of deadly earthquakes struck the coast.
 
-## EU lawmakers call for probe into FIFA’s Infantino
-EU lawmakers call for probe into FIFA’s Infantino
+## Chemical weapons watchdog restores Syria’s voting rights, citing progress
+Syria regains voting rights in the OPCW as new leadership makes progress in addressing chemical weapons issues.
 
-## Indonesian farmer goes viral using a drone as transportation
-Indonesian farmer goes viral using a drone as transportation
+## Lebanon Latest: concerns about latest escalation in regional fighting
+Al Jazeera’s Robert McBride has the latest from Beirut with concerns on how renewed fighting could impact Lebanon.
 
-## Trump targets Spain, NATO backs Ukraine: Is the alliance still united?
-While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity.
+## Strait of Hormuz: What has happened since the US-Iran MoU on June 17?
+More than 500 ships have passed through the strait since June 17, but many remain stuck.
 
-## Mosque model placed on top of Northern Ireland bonfire
-Pro-UK loyalists in Northern Ireland have placed a replica mosque at the top of a bonfire, which is due to be lit.
+## Erdogan gifts NATO leaders engraved revolvers with live ammunition
+NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.
 
-## Ukraine targets Russian oil depots and tankers in drone attacks
-Ukraine hit two oil tankers in Sea of Azov and several oil facilities across Russia in drone attacks.
+## At least 28 people killed as fire engulfs shoe factory in China
+Beijing demands 'all-out' effort to extinguish the blaze, search for survivors and treat the injured.
+
+## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
+KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
@@ -308,9 +299,6 @@ Foreign investors are pouring money into Indian debt, with record inflows in Jun
 
 ## Income tax department slaps notices on foreign investors with no earnings
 Foreign investors are receiving unexpected tax notices in India, even for transactions where no profit or dividend was earned. The tax department is initiating reassessment proceedings, questioning the absence of income tax returns for share purchases. Experts highlight that such notices, potentiall
-
-## Fall in global crude prices brightens fiscal outlook, El Nino risks linger
-Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agr
 
 ## India consumer inflation likely topped RBI's 4% target in June: Reuters poll
 Wholesale price inflation also remained elevated despite easing slightly from the previous month. Core inflation, excluding volatile food and fuel, was expected to be around 3.95 percent. This rise could impact the central bank's future monetary policy decisions.
