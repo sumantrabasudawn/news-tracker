@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
+US central bank chair chooses business and academic leaders to head five new task forces
+
+## Police investigate £500,000 in Reform UK donations made by mother of Farage aide
+Officers have been looking at possible offences relating to alleged ‘evasion of restrictions on donations’
+
+## FirstFT: Wall Street bankers in line for bumper $140mn payday from SK Hynix listing
+Also in today’s newsletter: EU-China trade tensions and European heatwave damps Uniqlo sales growth
+
 ## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
 Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
 
@@ -12,17 +21,8 @@ Britain’s likely next prime minister seeks to win back leftwing voters outrage
 ## Goldman Sachs limits prediction market betting for employees
 Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks
 
-## Kevin Warsh names high-profile figures to help modernise the Fed
-US central bank chair chooses business and academic leaders to head five new task forces
-
 ## Tory shadow chancellor promises tax cuts
 Mel Stride vows ‘responsible radicalism’ as party draws dividing line with Labour under probable new leader Andy Burnham
-
-## Gazans flock to World Cup screenings
-Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
-
-## There is no grand plan on Iran
-An over-reaching Tehran seems to be looking at America’s confused moves and wondering what it may be missing
 
 ## The Fed’s silent treatment
 Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?
@@ -38,9 +38,6 @@ The only certainty is that capital spending is going through the roof
 
 ## AstraZeneca shares slide after heart treatment disappoints in trial
 UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
-
-## Chemicals companies hit out at UK science funding cuts
-Particle accelerator used by both public and private sector scientists is part of 15% research centre savings
 
 ## Anthropic appoints former Fed chair Ben Bernanke to AI oversight trust
 The trust, whose members have no financial stake in the company, can appoint and remove a majority of Anthropic’s board members.
@@ -114,28 +111,28 @@ BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial
 ## Three-year-old dies after slipping into rainwater outside Ghaziabad home
 Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
 
-## Worker falls from 22nd floor of Wadala high-rise, dies
+## FIFA World Cup: Mbappe draws level with Messi in Golden Boot race as France beat Morocco 2-0, reach semifinal
 
 
-## Gujarat Confidential: Fight over machine
+## Iranians bury Ali Khamenei 4 months after deadly US-Israel strikes
 
 
-## Plea in Punjab and Haryana HC wants ‘Satluj’ back on OTT platform: ‘Can citizens be deprived of artistic, historical expression?’
+## Minister chairs key wildlife body meetings, reviews over 100 projects for clearance
 
 
-## Calcutta High Court allows Mamata Banerjee-led TMC to partially operate its bank accounts
+## Delhi Confidential: Bypoll Relief
 
 
-## Waste mountain flattens building in Pune, traps 18: Day after nine were rescued, one of those trapped found dead, eight still missing
+## Hungry, tired children come home 4 hours late: School buses crawl on Gurgaon roads amid rain
 
 
-## France vs Morocco Football Live Score, FIFA World Cup 2026 Quarterfinal: 0-0 at half-time as Mbappe misses penalty
+## Rain fury: Flooded Ghaziabad and Delhi claim lives of toddler, 7-year-old
 
 
-## Power ministry mulls advisory amid El Niño uncertainty
+## The café on canvas: A slice of life in the modern city captured in art
 
 
-## Government waives import duty on inputs for manufacturing batteries, display assemblies
+## 2 more bodies recovered from rubble, toll climbs to 3 a day after Rohini collapse
 
 
 ## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
@@ -162,6 +159,12 @@ Two-thirds of ultra-rich expatriates living in Hong Kong plan to retire in the c
 ## Yuan: global ambitions
 –
 
+## NATO’s Waiting Game
+Less Trump. More Europe. What’s next?
+
+## U.S., Iran Return to the Brink of All-Out War
+As both sides intensify strikes, future peace talks appear uncertain.
+
 ## Will Iraq’s New Prime Minister Really Take On Corruption?
 Ali al-Zaidi tackles a perpetual challenge under the watchful eyes of Iraqis and Washington.
 
@@ -179,12 +182,6 @@ The Indian prime minister visits Indonesia, Australia, and New Zealand this week
 
 ## Propaganda Sustains Russians Fighting in Ukraine
 Belief in Kremlin narratives dehumanizes Ukrainians and sustains the will to fight.
-
-## Can Zambia’s Historic Debt Swap Drive Economic Growth?
-The country has agreed to invest interest savings in its electric grid.
-
-## Energy Markets’ False Dawn May Be Over
-The U.S.-Iran deal has devolved into fighting again, with potentially ugly implications for oil prices.
 
 ## A World on Fire Needs Australia’s Conflict Mediation Prowess
 Australia can help itself and its region by burnishing its credentials as a trusted international mediator.
@@ -258,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syria says cell behind ‘terrorist bombings’ in Damascus arrested
+Explosions rocked the Syrian capital on Tuesday as French President Emmanuel Macron visited the city.
+
+## How Strait of Hormuz dispute led to latest US-Iran cycle of fighting
+Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.
+
+## Trump airport name change sparks backlash in Florida
+Trump airport name change sparks backlash in Florida
+
+## NYT-led group asks court to sanction OpenAI in US copyright dispute
+The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.
+
+## US military denies involvement after explosions heard in Iran
+Iranian media report loud explosions in several locations as Israeli officials say war is 'not over'.
+
 ## Mexico seeks prosecutions over migrant deaths in the US
 Mexico will seek state and federal prosecutions in the United States over the deaths of Mexican migrants.
 
@@ -266,21 +278,6 @@ UK's likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza vi
 
 ## Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships
 Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.
-
-## South African protesters intimidate migrants as aid group issues warning
-Doctors Without Borders (MSF) warns of growing humanitarian needs as tens of thousands of African migrants displaced.
-
-## Why the US Strategic Petroleum Reserve matters amid US-Iran tensions
-US oil reserves hit lowest levels since 1983 amid growing tensions with Iran and global supply concerns.
-
-## Two more men plead guilty in US for deadly 2021 human-smuggling truck crash
-Five Guatemalan nationals have now plead guilty in the migrant smuggling case linked to the deaths of 55 migrants.
-
-## What happened to the beautiful game?
-Has football lost its soul? From Pele’s “Joga Bonito” to billion-dollar World Cups, the game has changed.
-
-## How Lyhanna’s rape and murder put France’s justice system under scrutiny
-The rape and murder of 11-year-old Lyhanna has sparked outrage in France.
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
