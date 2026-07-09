@@ -1,9 +1,12 @@
 # AION Intelligence
 
 ## US launches second day of strikes against Iran
-Attacks come hours after Donald Trump told a Nato summit the ceasefire with Tehran is ‘over’
+Trump claims Iran has ‘called’ to negotiate but the president casts doubt on the prospects of a deal
 
-## Oil prices rise after Washington renews conflict with Tehran
+## Police launch probe into donations to Jenrick’s Tory leadership campaign
+Investigation by Metropolitan Police follows allegations that money wrongly came from an overseas donor
+
+## Oil prices rise after Washington steps up conflict with Tehran
 Donald Trump says US attacks will ‘get much worse’ if Iran hits more ships
 
 ## FirstFT: Trump declares US-Iran ceasefire ‘over’
@@ -20,9 +23,6 @@ Policymakers worried about inflation and ‘several’ said they did not believe
 
 ## Inflation fears mount at Warsh’s first Fed meeting
 Some Fed officials saw need for future rate rises to contain inflation
-
-## Warsh’s minute minutes
-Downwards doc
 
 ## Sizewell nuclear plant extended as part of UK’s net zero push
 Suffolk facility started running in 1995 and remains Britain’s most recently built nuclear installation
@@ -45,8 +45,8 @@ Eight small fuel tankers supplying Crimea were hit overnight, says Kyiv
 ## Segro lays out defence as it battles £12.6bn takeover attempt by US rival
 UK property group believes 925p a share offer by Prologis undervalues its warehouse and data centres business
 
-## Scientist proposes tiny satellites to sniff out nuclear weapons in space
-Idea would help deal with danger of conflict in increasingly crowded orbits around Earth
+## Sun Mobility offers T3-55T electric trucks with world’s first modular battery swapping at Pravaas 5.0
+Unlike passenger cars, commercial vehicles are judged primarily on operating economics rather than technology. Sun Mobility is betting that battery swapping can tip that equation by cutting upfront vehicle costs, reducing charging downtime and creating a shared energy network that multiple truck and
 
 ## Ancient quasars deepen a major unsolved problem in astrophysics
 The Euclid space telescope has identified 31 ancient quasars, including the earliest known, challenging existing theories of black hole growth in the early universe
@@ -69,8 +69,8 @@ G-Sec yields spike as crude oil prices harden
 ## Coal Ministry invites applications for ₹37,500-crore coal gasification programme
 The scheme aims to boost energy security, reduce import dependence and promote coal-to-chemicals manufacturing
 
-## Tata Steel posts 3% growth in June quarter sales, India production jumps 11%
-Branded products, retail sales and e-commerce posted strong growth, while the UK business advanced its Port Talbot EAF project
+## Trump's threat makes Dalal Street nervous, Sensex falls 1,700 points
+
 
 ## Clean energy share in power mix breached 50% mark on July 6
 
@@ -92,9 +92,6 @@ Bajaj Finance is transforming lending by analyzing conversational data with AI b
 
 ## US-Iran war impact: IMF lowers India’s GDP growth forecast marginally; still tags it among fastest growing economies
 According to the IMF, the global economy has so far avoided a steeper slowdown despite the war, as strong demand linked to the technology sector has helped offset the impact of reduced energy supplies caused by the conflict.
-
-## Income tax notices decoded: What every taxpayer should know about ITR filing to avoid scrutiny
-One important thing to understand is this: In the current compliance environment, tax notices are increasingly driven by data inconsistencies rather than intent. A tax notice can not only mean a process of explaining discrepancies but can also put any refund claims on hold till the matter is resolve
 
 ## Sonam Wangchuk calls for Parliament march on July 20: ‘Do a little more’
 Activist Sonam Wangchuk's call for Parliament on July 20, first day of monsoon session, comes amid the CJP's ongoing protest over the NEET paper leak scam.
@@ -120,6 +117,18 @@ India’s higher education enrolment reached a record 45 million in 2023-24, whi
 ## Ghaziabad to Noida Airport in 50 minutes? All you need to know about new rapid transit corridor plan
 NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Faridabad-Gurgaon corridors are currently undergoing DPR preparation.
 
+## RMO assaulted by Shiv Sena corporator: ‘I was the only male doctor, so I became their punching bag… fear for my safety’
+
+
+## From Tihar to Rohini prisons: To decongest, Delhi government looks for land in 48 urban villages
+
+
+## Accused in Baruipur minor girl’s rape and murder killed in Bengal police ‘encounter’
+
+
+## PM Christopher Luxon interview: ‘New Zealand, working with India, needs to remake case for a rules-based system’
+
+
 ## ‘Don’t want to deal with Iranians anymore, they’re scum’: What Trump said on Iran
 
 
@@ -132,17 +141,11 @@ NCRTC Managing Director Shalabh Goel said that the Ghaziabad-Jewar and Noida-Far
 ## World Cup 2026 controversy: Messi, Trump, and a conspiracy thriller
 
 
-## Priyanka Chopra’s airport hack for stress-free travel: ‘I hate going and being called back’
+## When will Hong Kong’s retail leasing market see a turnaround?
+Hong Kong’s retail leasing market remained under pressure with rental rates far below the pre-pandemic levels, while Beijing’s crackdown on capital flight and a potential rate hike in the second half of the year by the US Federal Reserve would add to sector uncertainties, according to analysts. The 
 
-
-## ICC contacts ECB over Ben Stokes retirement video released mid-Test vs NZ
-
-
-## Sharad Pawar meets Eknath Shinde amid ‘talks’ in NCP(SP) over joining NDA
-
-
-## FIFA World Cup | Disallowed Egypt goal: All VARs are equal, some more equal than others
-
+## The Peninsula’s owner and SF Holding set up captive insurers in Hong Kong
+The owners of luxury hotel brand The Peninsula and logistics firm SF Holding have gained approval from Hong Kong’s insurance regulator to set up captive insurers, marking the latest step in the city’s drive to develop into a risk management centre. Hong Kong’s Insurance Authority (IA) said on Wednes
 
 ## China’s circuit-board makers push capex towards record to feed AI boom
 China’s printed circuit board (PCB) makers are embarking on a factory-building spree to feed demand fuelled by the global artificial intelligence boom, a rush that is expected to push their capital expenditure to a record high. In the first half of the year, more than 20 Chinese PCB companies – incl
@@ -161,12 +164,6 @@ China’s central bank announced more measures to expand Hong Kong’s role as a
 
 ## Are the US’ AI models better than China’s? That may be beside the point
 As another heatwave rolled across Europe, the warehouses emptied before the politics could catch up. Air conditioners and fans sold out across Spain, Italy and Germany, most of them Chinese. Fan sales in Spain alone on the retail platform of Alibaba Group Holding (which owns the South China Morning 
-
-## BYD challenges Porsche’s 911 with launch of electric supercar in Europe
-Chinese electric vehicle (EV) assembler BYD has set its sights on Porsche’s supercars with plans to sell its Denza-branded new models in developed markets, the latest sign of its increasing heft in designing and manufacturing premium vehicles. The Shenzhen-based carmaker planned to unveil the Denza 
-
-## Beyond the Noise: How Quality Journalism Drives Real-World Influence
-Business and marketing leaders gathered on a late-June afternoon in Hong Kong at the South China Morning Post’s The Lede Summit, which focused on how quality journalism resonates with decision-makers and drives measurable impact. The summit was preceded by two exclusive sessions earlier in the day: 
 
 ## Trump Hands NATO a Mixed Bag
 The alliance wanted to look united. In walked Trump.
@@ -264,6 +261,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Indonesia’s free meals programme plagued by alleged corruption and waste
+Indonesian President Prabowo Subianto's initiative has been criticised for misdirecting resources to affluent regions.
+
+## Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova
+A partisan Centre Court backed home hope and world number 114 Fery in his incredible fairytale run to the last four.
+
+## US expands military strikes on Iran after Trump says he’ll ‘hit them hard’
+US forces have expanded their military strikes on Iran, after blaming Tehran for breaking the MoU to end the war.
+
 ## Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show
 FIFA expects 'a couple of billion' to tune in to the 11-minute performance, the first at a World Cup.
 
@@ -278,15 +284,6 @@ Hannah Dugan's sentence comes after she helped an immigrant in the US avoid ICE 
 
 ## France lose appeal against Olise’s yellow card in Paraguay World Cup clash
 If Olise is cautioned again against Morocco, he will be suspended for a potential semifinal against Spain or Belgium.
-
-## Deadly strikes in Gaza leave 5 dead, children wounded
-Israeli strikes in Khan Yunis and Gaza City killed five people and wounded others, including children.
-
-## Former rebel turned government ally proposes a path to peace for Sudan
-Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.
-
-## Trump departs NATO summit on older Air Force One
-Trump departed the NATO summit on an older Air Force One after arriving aboard the new Qatar-gifted aircraft.
 
 ## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
 In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
