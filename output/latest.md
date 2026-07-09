@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Stride promises tax cuts as Tories seek to draw dividing line with Burnham
+Shadow chancellor vows ‘responsible radicalism’ and decries ‘managerial incrementalism, which we have had for too long’
+
+## Andy Burnham apologises for Labour’s Gaza war stance
+Britain’s likely next prime minister seeks to win back leftwing voters outraged by Keir Starmer’s approach to Israel
+
+## Gazans flock to World Cup screenings
+Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
+
+## There is no grand plan on Iran
+An over-reaching Tehran seems to be looking at America’s confused moves and wondering what it may be missing
+
+## Suspicious trading before 41% of takeovers sets new UK record
+Annual FCA data shows abnormal trades hitting new highs amid deal frenzy for UK companies
+
 ## Microsoft’s early AI lead has become a test of faith
 The only certainty is that capital spending is going through the roof
 
@@ -9,7 +24,13 @@ Reducing spending on disability benefits is a major test for Andy Burnham
 ## Ukrainian spy accused of killing Monaco hit woman shifts blame
 Vladyslav Reut says accomplice pulled the trigger on the woman they hired to carry out a hit on a Ukrainian tycoon
 
-## Leading UK research facility Diamond Light Source faces cost cuts
+## Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
+Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure
+
+## AstraZeneca shares slide after heart treatment disappoints in trial
+UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
+
+## Chemicals companies hit out at UK science funding cuts
 Particle accelerator used by both public and private sector scientists is part of 15% research centre savings
 
 ## Banijay picks London as new HQ for TV maker after $8bn merger
@@ -21,44 +42,29 @@ Ukraine drone strikes have hammered Russia’s refineries
 ## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
 Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
 
-## Democrats race to salvage US Senate bid after Graham Platner scandal
-Populist progressive quits Maine contest after rape allegations
+## Anthropic appoints former Fed chair Ben Bernanke to AI oversight trust
+The trust, whose members have no financial stake in the company, can appoint and remove a majority of Anthropic’s board members.
 
-## AstraZeneca shares slide after heart treatment disappoints in trial
-UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
+## OpenAI launches ChatGPT Work for workplace automation and complex tasks
+Powered by GPT-5.6, ChatGPT Work can operate for hours, creating documents, spreadsheets, presentations, and web apps
 
-## Business model in terminal decline? Try a round of golf
-Versant Media hopes to get back in play with its purchase of simulator maker Full Swing
+## Investments in gold ETFs turned negative in Q2 as investors pressed exit buttons
+Over 50% of outflows were witnessed in June, with US and China leading encashments, according to WGC data
 
-## Computacenter shares rise as FTSE 100 new entrant taps into AI boom
-Hardware reseller one of few London-listed tech groups to capitalise on demand for data centre infrastructure
+## TCS Q1 results: Net profit rises 4.7% to ₹13,420 crore, AI revenue tops $2.6 billion
+TCS continued hiring during the June quarter, adding 9,729 employees to take its workforce to 593,798, with voluntary attrition at 13.6 per cent
 
-## How much is AI hacking your emotions?
-Disinformation and deepfakes are known risks but biased LLMs could also be used to influence public opinion
+## Growing importance of debt funding for Indian start-ups
+Though the time taken to receive the first round of angel funding is not very different from that of VC funding, the VC funding rounds are about 6.8 times larger than that of an angel round.
 
-## India questions WTO DG’s role, seeks clarity on legal basis of proposed e-commerce agreement
-New Delhi has also questioned the use of WTO Secretariat resources to service the pact
+## Meta launches Muse Spark 1.1 AI model and opens API access for developers
+The new paid API positions Meta in direct competition with OpenAI and Anthropic
 
-## JK Tyre plans additional 5%-6% price hikes by September-end
-The hikes reflect pressure in the auto-parts sector due to an oil price rally linked to the West Asia conflict
+## AU Small Finance Bank and Zaggle launch co-branded retail credit card with flexible rewards
+The card features a Zagg Coins-to-cashback rewards program, flexible payment options, and customizable Value Passes, allowing customers to personalize benefits and earn higher cashback on UPI and contactless spends
 
-## Macroeconomic uncertainty weighs on TCS across geographies and business verticals
-However for the consumer business or retail, management flagged a combination of inflationary pressures and ongoing geopolitical uncertainties are impacting discretionary spend.
-
-## Work-integrated education gains traction as industries prefer job-ready graduates
-Only 43% of Indian graduates considered employable despite millions entering workforce each year, according to India Graduate Skill Index 2025 by Mercer Mettl
-
-## Earthquake of magnitude 5.5 strikes Czech Republic and Slovakia, GFZ says
-
-
-## India approves Dixon-Vivo joint venture to boost local smartphone production
-The JV, owned 51% by Dixon and 49% by Vivo, will produce smartphones and other electronic devices for Vivo and potentially other brands.
-
-## Synergys E&C Global bags orders worth ₹76 cr
-Fresh orders enhance Synergys E&C Global’s order book to ₹916 crore for FY27
-
-## New residential project launches grow 4%; Pune, Mumbai lead : Knight Frank
-National Capital Region, Kolkata and Hyderabad declined in launch numbers
+## India aspires to shape next-generation technologies, products, enterprises, says Sitharaman
+FM urges India Inc for greater engagement with the State governments and city administrations
 
 ## US airstrikes: Iran is rushing its oil exports out as conflict resumes, but who will buy?
 The 11 million barrels shipped over the past day are roughly equal to Iran's pre-war crude exports for an entire week. It remains uncertain, however, whether buyers will be available for those cargoes.
@@ -84,6 +90,9 @@ ITR filing FY 2025-26: The deadline to file ITR for salaried taxpayers is July 3
 ## Silent layoffs: Around 35,000 tech jobs may be eliminated this year; India’s IT sector sees AI shift
 The latest trend reflects a new phase in the restructuring of India's IT services industry, which is valued at over $315 billion. Companies are continuing to rationalise the workforce built up during the pandemic hiring surge after grappling with weaker business conditions over the past three years.
 
+## 'What was objectionable?': Dipke says video pleading with police for tents at Jantar Mantar protest ‘deleted by govt’
+Earlier in the day, Abhijeet Dipke accused Delhi Police of refusing to allow tarpaulins at the protest site despite heavy rain lashing the national capital.
+
 ## BSNL launches satellite phone priced at ₹1.34 lakh: Who can buy it and what makes it special?
 BSNL said the new satellite phone was designed to be an “ideal solution” for defence, maritime, disaster response, and other such challenging areas.
 
@@ -105,31 +114,28 @@ BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial
 ## Three-year-old dies after slipping into rainwater outside Ghaziabad home
 Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
 
-## Boats out, car and scooter plunge into roadside ditch: Ghaziabad battered by over 160mm rain | Videos
-Ghaziabad experienced heavy rainfall on Thursday. The downpour submerged roads, disrupted traffic, and led to a road collapse in Vasundhara.
-
-## Naga Vamsi says Akhil Akkineni isn’t coming as a ‘boy born with a golden spoon’ in Lenin
+## Moga police station blast: Stopped from ‘inspecting’ site, says Bittu; Congress demands CM’s resignation
 
 
-## Better roads, foot massage, cleaner toilets: Pilgrims welcome improved facilities on the Wari route
+## 4 Deepak Nandal gang members killed in Gurgaon encounter, 3 cops injured
 
 
-## Varun Chakaravarthy, Harshit Rana ruled out of remainder of ENG T20I series
+## AAP denies any proposal for premature release of convicts in Jaswant Singh Khalra murder case
 
 
-## Incredible places in India where you can see wild elephants up close
+## ‘That’s what I’m doing with India’: Netanyahu eyes India as key ally beyond US
 
 
-## ‘We thought maybe we should separate’: Prince Narula breaks silence on marriage trouble
+## Besides Hardeep Singh Nijjar, US charges Lawrence Bishnoi for attacks on Salman Khan, Gippy Grewal, Moosewala
 
 
-## Why is Truecaller feuding with TRAI over spam calls, and how will it affect users?
+## Grok 4.5 arrives alongside OpenAI’s new voice models for live conversations
 
 
-## ‘Only face-saving exercises being done’: Supreme Court pulls up civic authorities over illegal constructions in Delhi-NCR
+## Turmeric, ginger, infrared light, shockwave therapy: Recovery at FIFA World Cup
 
 
-## ‘Jaldi theek ho ja yaar’: Akshay Kumar ‘concerned’ about Rajesh Sharma’s slow recovery
+## FIFA World Cup: Why Pele’s daughter thinks Brazilian football is broken
 
 
 ## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
@@ -180,6 +186,21 @@ The country has agreed to invest interest savings in its electric grid.
 ## Energy Markets’ False Dawn May Be Over
 The U.S.-Iran deal has devolved into fighting again, with potentially ugly implications for oil prices.
 
+## A World on Fire Needs Australia’s Conflict Mediation Prowess
+Australia can help itself and its region by burnishing its credentials as a trusted international mediator.
+
+## Why Is the India-US Bilateral Trade Agreement Still On Hold?
+Conflicting domestic economic policies, sudden judicial disruptions, and fresh American tariff investigations have upended the India-U.S. trade deal.
+
+## India’s Indo-Pacific Strategy Is a Search for Options, Not Substitutes
+New Delhi wants more capitals it can call on, not fewer.
+
+## Ayodhya’s Ram Temple, Narendra Modi’s Pet Project, is Mired in Corruption
+Devotees’ donations have allegedly been siphoned away under the watch of Sangh Parivar leaders. With elections in Uttar Pradesh due next year, the BJP has swung into damage control mode.
+
+## India’s Organized Crime is No Longer Merely an Indian Problem
+An Indian organized crime syndicate led by Lawrence Bishnoi is being treated as a transnational security threat requiring coordinated international action.
+
 ## 1 Year On, Cambodia Is Still Feeling the Impact of USAID’s Demise
 To many in the country's development sector, the sudden collapse of the U.S. aid agency felt “like an earthquake.”
 
@@ -189,20 +210,8 @@ The price of a "certificate for entitlement" for a small vehicle rose to nearly 
 ## How Southeast Asia’s Tourism Sector Changed in 2025
 Thailand remains the biggest regional draw for foreign tourists, but the sector is undergoing some interesting and potentially significant shifts.
 
-## India’s PM Winds Up Visit to Indonesia, Hails ‘New Avenues’ For Cooperation
-The two sides signed 14 agreements, including a landmark deal for the provision of BrahMos supersonic missiles to the Indonesian armed forces.
-
-## How Cambodia Can Fix Its Tourism Problem
-The country can learn a lot from its neighbors about how to sell itself in a competitive international market.
-
-## India, Indonesia Put in Place a Blueprint for a Durable Strategic Partnership
-The highlight of the Indian prime minister's visit to Indonesia was the finalization of a long-pending agreement on the supply of BrahMos missile system and Astra air-to-air missiles.
-
-## 4-Way Race for Democratic Party Leadership Tests Lee Jae-myung’s Influence
-With Former Prime Minister Kim Min-seok’s formal confirmation of his bid for the leadership, the race may likely be intense, given the tensions between the pro-Lee and pro-Jung factions.
-
-## More and More of East Asia’s Youth Have Given up on Finding Jobs
-A broken social bargain calls for a new approach to youth employment.
+## Fraying Deals and Rising Strikes
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThree weeks after it was signed, the memorandum of understanding between the United States and Iran seems to
 
 ## The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter
 Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon’s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon’s science enterprise, why he thinks academia is the envy of America’s closes
@@ -224,9 +233,6 @@ Numerous recent pirate attacks, especially the hijacking of three merchant vesse
 
 ## Gathering Clouds: Building Digital Strategic Depth in the Compute Age
 The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digital backbone of military power and economic
-
-## Sinews of War at Sea: The Armed Services Need a Common Watercraft Family
-To sustain future maritime operations, the U.S military will need to run supplies through an environment that spans thousands of miles of open ocean, denied ports, contested straits, and archipelagic chokepoints against adversaries that have spent decades studying how to target American logistics. T
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## LIVE: France vs Morocco – FIFA World Cup 2026 quarterfinal
-Live coverage, text updates and build-up from our full text commentary stream as Mbappe's France face Morocco.
+## US expands Iran strikes Iran hitting fishing piers near nuclear plant
+Iranian officials say US strikes across Bushehr province damaged civilian infrastructure
 
-## Former US Olympian pleads not guilty in DC reflecting pool vandalism case
-Former Olympic canoeist David Hearn denies damaging Donald Trump’s Washington, DC reflecting pool renovation.
+## England’s Quansah banned for two matches after World Cup last-16 red card
+Quansah will miss England's quarterfinal against Norway after being sent off for a sliding studs-up tackle.
 
-## A quest for closure: In search of the missing after Venezuela’s earthquakes
-Tens of thousands of people remain unaccounted for nearly two weeks after a pair of deadly earthquakes struck the coast.
+## Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’
+World Central Kitchen condemns deadly air strike on aid driver, calls for accountability amid escalating Gaza violence.
 
-## Chemical weapons watchdog restores Syria’s voting rights, citing progress
-Syria regains voting rights in the OPCW as new leadership makes progress in addressing chemical weapons issues.
+## Mexico to seek US criminal complaints over ICE-related deaths of citizens
+Claudia Sheinbaum announces Mexico’s strongest response yet to deaths in ICE custody and during immigration enforcement.
 
-## Lebanon Latest: concerns about latest escalation in regional fighting
-Al Jazeera’s Robert McBride has the latest from Beirut with concerns on how renewed fighting could impact Lebanon.
+## Gaza artists honour Egypt coach Hossam Hassan with sand portrait
+Artists in Gaza have created a sand portrait of Egypt coach Hossam Hassan.
 
-## Strait of Hormuz: What has happened since the US-Iran MoU on June 17?
-More than 500 ships have passed through the strait since June 17, but many remain stuck.
+## Palestinian legislative elections set for November 28
+Palestinian President Mahmoud Abbas announces first legislative elections in 20 years.
 
-## Erdogan gifts NATO leaders engraved revolvers with live ammunition
-NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.
+## Is this France’s far-right National Rally’s best chance to take power?
+A court ruling clears the way for Marine Le Pen to run for president next year.
 
-## At least 28 people killed as fire engulfs shoe factory in China
-Beijing demands 'all-out' effort to extinguish the blaze, search for survivors and treat the injured.
+## Will NATO get involved in securing Strait of Hormuz?
+Iran war overshadows defence alliance's summit in Turkiye.
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
