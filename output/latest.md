@@ -1,64 +1,76 @@
 # AION Intelligence
 
+## IEA warns of petrol and diesel supply crunch
+Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
+
+## EasyJet: the orange upstart that changed flying prepares to go private
+Pivotal moment for Europe’s low-cost pioneer as US suitors circle
+
+## At least 12 die in Spanish wildfire as heatwave grips Europe
+Alarm over summer of blazes as third wave of extreme heat hits region
+
+## SK Hynix raises $26.5bn in US market debut
+South Korean memory chipmaker completes largest-ever US listing by a foreign company
+
+## Former Conservative minister Ann Widdecombe dies aged 78
+MP was a fervent supporter of Brexit and held ministerial roles under John Major before eventually backing Nigel Farage
+
+## Erika McEntarfer: ‘You really can just fire the BLS commissioner’
+The former labour statistics chief on the fragility (and strength) of US economic data
+
+## New EU ‘scale-up’ fund expects to burst past its €5bn target size
+Also in this newsletter: IEA urges Brussels to reconsider its opposition to Arctic oil and gas exploration
+
 ## FirstFT: US AI models sold to blacklisted Chinese groups
 Also in today’s newsletter: Mervyn King picked for Fed reform and largest US listing by foreign group
 
-## Japan finance minister urges giant pension fund to invest more at home
-Yen, bonds and stocks buoyed by Satsuki Katayama’s call for investors to shift from foreign to domestic assets
+## Apollo trumps Castlelake with £5.7bn deal to buy easyJet
+Low-cost airline says offer ‘delivers a superior outcome for easyJet shareholders’
+
+## French billionaire Xavier Niel becomes Vodafone’s top shareholder
+Niel’s Vega entity acquired £4.4bn stake from Emirati group e&
 
 ## Wall Street’s giant memory windfall
 The blockbuster listing of South Korean chipmaker SK Hynix could earn investment bankers nine figures in fees
 
-## The secret of Spain’s impenetrable World Cup defence
-‘La Roja’ have not conceded a goal in the tournament despite aiming to have every outfield player in the other team’s half
+## American climate body NOAA sees 81% chance of a very strong El Niño by year-end
+With a 97% probability, El Niño is expected to remain active through early 2027, says the US weather body
 
-## How AI changes the rules of engagement for sports viewers
-Spectators will see more opportunity to move from pricey subscriptions and rigid schedules to more personalised feeds
+## Sensex today | Stock Market Live Updates: Sensex up 700 pts, Nifty up 206 pts and trades at 24,169.50; Jio Finance, HDFC Life, Infosys top gainers
+Stock Market Live: Of 4,211 stocks traded on the BSE, 2,786 advanced against 1,222 declines, with 203 unchanged
 
-## Founder of energy group DCC blasts board for backing takeover ‘on the cheap’
-Jim Flavin joins other major shareholders of FTSE 100 company in rejecting £5.7bn private equity offer
+## Silver futures decline to ₹2.24 lakh/kg
+On MCX, silver contracts for September delivery declined by ₹1,934, or 0.85 per cent, to ₹2,24,443 per kg in a business turnover of 2,345 lots.
 
-## NHS hospitals admit to errors in data used to defend Palantir contract
-Four trusts confirm there were errors in the underlying hospital data on discharge delays after FT probe
+## YES Bank: Positive rating upgrades reflect sustained strengthening of credit profile
+Credit rating agencies such as S&P, Moody’s, ICRA and CareEdge have affirmed or upgraded the lender’s ratings, citing stronger fundamentals and a stable outlook.
 
-## SK Hynix’s jumbo share sale a sign of overheated times
-Perhaps it will be some comfort to those with longer time horizons that market anomalies don’t last for ever
+## Sheikh Hasina plans December return to Bangladesh to surrender
+“They may arrest me on my return, they may even kill me,” Hasina, 78, said she and senior Awami League leaders plan to return from exile in India despite facing a death sentence
 
-## UK pharmacies report high demand as weight-loss pills go on sale
-Rollout likely to accelerate the hit being felt by supermarkets as users of the drugs buy less food
+## Gold futures drop to ₹1,44,670/10g
+On the Multi Commodity Exchange, August gold contracts fell by Rs 630, or 0.43%, to Rs 1,44,670 per 10 grams, with a turnover of 975 lots
 
-## HSBC looks for buyers of Hong Kong subsidiary Hang Seng’s risky loans
-Debt sale an early sign of how UK bank intends to overhaul retail lender after taking it private this year
+## Health Ministry tightens norms for high alcohol-containing drugs to prevent misuse
+Formulations containing more than 12% ethyl alcohol, in quantities exceeding 30 ml, would no longer be covered under the exemption provided to them under Schedule K
 
-## UBS helped trigger exodus from Blue Owl private credit fund
-Bank advised some clients to cut exposure, hitting a fund it had been instrumental in setting up
+## Garware Fulflex Completes Acquisition of 300,000-Square-Foot Fully Automated Medical Products Manufacturing Facility in The United States
+Garware Fulflex Completes Acquisition of 300,000-Square-Foot Fully Automated Medical Products Manufacturing Facility in The United States
 
-## EasyJet: orange upstart that changed flying prepares to go private
-European low-cost pioneer is set to be bought by private credit group Castlelake for £5.5bn three decades after its launch
+## India, among world’s largest exporters of refined oil products, set to see 25% rise in petroleum product exports
+Although India imports around 90% of its crude oil requirement, it has become one of the world's largest exporters of refined petroleum products by using its large and sophisticated refineries.
 
-## Microsoft faces social media backlash over Xbox layoffs after H-1B visa approvals
-Tech giant to cut about 4,800 jobs including 1,600 in gaming division as it receives approval to hire foreign workers
+## India should not blink first in US trade negotiations, says SBI report
+India should avoid early trade concessions with the United States. Washington is using uncertainty as a bargaining instrument across many issues. India possesses unique strategic strengths that should be leveraged. The nation should play the long game and test US resolve. This approach will improve 
 
-## Sensex today | Stock Market Live Updates: Sensex rises 770 pts to 77,506.98; Nifty rises 220 pts to 24,183.85 as markets open
-Stock Market Live: Markets open on a firm note on Friday, with benchmark indices gaining ground on the back of a strong overnight rally in global technology stocks, easing geopolitical fears, and stabilising crude oil prices
+## E20 costlier to produce than pure petrol: Government
+The petroleum ministry clarified E20 petrol production costs versus pure petrol. Ethanol blending protects Indian consumers from volatile international oil prices. This program has saved India significant foreign exchange and crude oil imports. It also provides greater fuel price stability and incre
 
-## US says Iran technical talks to continue despite recent strikes
-The US is still committed to finding a solution with Iran
+## A weak monsoon could trigger a storm in India's economy
+A weaker monsoon poses risks to India's rural economy and farm incomes. This could increase food inflation and slow down consumption demand in coming months. Agriculture and related sectors face the biggest impact from below-normal rainfall. Microfinance institutions are more vulnerable than banks d
 
-## Q1 Results Today Live: Elecon Engineering Company, Waaree Renewable Technologies, GK Energy, Yash Highvoltage to announce Q1 results
-Q1 results today live: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Elecon Engineering Company, Waaree Renewable Technologies, GK Energy and Yash Highvoltage report their June quarter results.
-
-## Crude oil futures gain on reports of Iranian strikes on US military targets in West Asia
-At 9.36 am on Friday, September Brent oil futures were at $76.64, up by 0.45%, and August crude oil futures on WTI (West Texas Intermediate) were at $72.40, up by 0.44%
-
-## Tencent in talks to become AI startup Manus' largest shareholder, sources say
-Tencent and Manus’ original investors, including ZhenFund and HSG, plan to buy the company back from Meta for at least $2 billion
-
-## Automobile dealers’ summit to tackle auto lending, EV finance, dealer funding
-The FADA Banking & Insurance Summit will bring together leading banks, NBFCs, insurers and auto retail executives
-
-## India, Australia seal uranium deal, to enhance defence and maritime cooperation
-The leaders noted growing geostrategic uncertainty and threats to regional peace and stability, calling for disputes to be resolved peacefully without the threat or use of force or coercion and in accordance with international law
+## Gold price prediction: Will gold price see a bullish movement? Check July 10, 2026 outlook
+​​Gold price prediction today: Gold prices - MCX Gold August futures - are seeing a positive bias and a buy on dips strategy is favoured, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities.
 
 ## Top shares to buy: Stock recommendations for today - check list
 Stock market recommendations: Bharti Airtel, and HDFC Bank - these are the top 2 stocks that Bajaj Broking Research has recommended for buying on July 10, 2026:
@@ -69,68 +81,56 @@ Stock market recommendations: Bharti Airtel, and HDFC Bank - these are the top 2
 ## Crude dips but eyes weekly gain as US-Iran conflict stokes supply fears
 Oil prices saw a slight decrease but are set for significant weekly gains. Renewed military exchanges between the United States and Iran kept crude supply concerns elevated. The conflict has delayed the reopening of the Strait of Hormuz, a critical energy chokepoint. Worries over slowing global dema
 
-## Li-ion, electronics parts get customs duty waiver
+## 40-foot illegal pipeline found linked to IOCL crude oil line in Rajasthan: Police
+IOCL detected an abnormal pressure drop before discovering a 40-foot illegal pipeline connected to its crude oil network in Rajasthan’s Tonk district.
+
+## ‘Terror group trainer’ Matthew Aaron VanDyke seeks ‘American-style diet’ as Tihar Jail food ‘too spicy, oily’
+Plea seeks items such as pasta, chicken, fish, olive oil; VanDyke and 6 Ukrainians were arrested in March for allegedly training anti-India terror groups
+
+## ‘Was there enough police?’: Vijay slams 'political mileage' in first Karur visit as Tamil Nadu CM after stampede
+'Lost children of our sisters': Vijay during first Karur visit after becoming Tamil Nadu CM
+
+## Child found facedown, lifeless: Ghaziabad rain kills 3-year-old outside her own house; locals protest
+Heavy rainfall in Ghaziabad and Noida resulted in at least three deaths on Thursday, including that of a three-year-old girl who drowned outside her house.
+
+## How BSNL's new ₹1.34 lakh satellite phone can make calls without mobile towers
+In a post on X (formerly Twitter), state-run BSNL informed about the satellite phone and stated that it is priced at ₹1,34,166 apiece, including all taxes.
+
+## Govt says E25 only being tested for now: All your questions on ethanol-blended fuel answered
+From mileage loss to fuel-cap stickers, everything you need to know about E10, E20, E85 and the E25 plan.
+
+## Couple held for involvement in killing of 6 Nagas in ethnic violence-hit Manipur
+The six were among 20 Nagas abducted in Leilon Vaiphei village in the aftermath of a twin ambush in Kangpokpi and Noney districts
+
+## Chhattisgarh girl accused of shoplifting dies by suicide, three booked: Police
+Police said the girl and her sister were at a supermarket on July 7 to purchase household items when they were accused of shoplifting
+
+## Beyond Curry, Cricket and Commonwealth: What I learnt about the depth of India-Australia partnership on Australian soil
 
 
-## Markets pare gains over late profit booking
+## Watch: Indonesian farmer rides giant drone across field, goes viral
 
 
-## Is AI affecting GCC pace? Govt to assess
+## The Odyssey: Tickets at Rs 3100, IMAX venues full; Nolan to attend Mumbai premiere
 
 
-## Bloomberg introduces global trade in Indian bonds
+## CBI says Mahadev App ‘one of largest illegal betting syndicates in the country’
 
 
-## India emerges as global hub for Philips' AI healthcare solutions
+## 53% of Indians bought a new smartphone early due to broken glass: Corning study
 
 
-## RSS meet private, needs no permission: Priyank
-A three-day Rashtriya Swayamsevak Sangh (RSS) meeting beginning in Belagavi on Friday does not require government permission because it is a private event, Karnataka home minister Priyank Kharge said, adding that any procession or gathering on public roads must receive police approval after an asses
-
-## Heavy rains, inundated roads disrupt traffic movement for hours in Delhi
-Overnight showers, which turned into a heavy downpour in the morning, left several arterial roads waterlogged and stranded officegoers during morning rush hour.
-
-## Weather today LIVE: Schools closed in Ghaziabad, Himachal’s Paonta amid heavy rain; IMD issues ‘Orange’ alert for Delhi
-Weather today LIVE: IMD has issued an Orange alert for the day as heavy rainfall, accompanied by thunderstorms is likely in the region.
-
-## Are schools closed in Delhi, Noida, Ghaziabad amid heavy rains? Here's what we know
-Among the major NCR cities, schools in Ghaziabad have been ordered shut due to extremely heavy rainfall.
-
-## WhatsApp, Telegram respond to MeitY notices over username feature
-MeitY had issued notices to WhatsApp, Telegram and Signal over concerns that username-based messaging could increase the risks of impersonation
-
-## Rohini building collapse: Death toll rises to 3 as 14-hour rescue operation ends
-Police said they also registered a case under charges of culpable homicide not amounting to murder and negligent conduct, with respect to the construction.
-
-## At least four dead as heavy showers flood parts of NCR
-A seven-year-old allegedly drowned in a waterlogged vacant plot in Sanjay Colony in the Samaypur Badli area, northwest Delhi.
-
-## Infrastructure takes battering across India in wake of widespread rains
-According to the IMD, the monsoon reached the final remaining parts of the north Arabian Sea, Rajasthan, Haryana, and Punjab one day later.
-
-## Allahabad High Court declines PIL over police action against display of Khamenei portraits
+## Switzerland’s invisible empire in India: The story behind Voltas
 
 
-## Bengaluru woman accused of killing parents, sister seeks to confess before court
+## Turkey’s gift to NATO leaders had security and customs teams scrambling. Here’s why
 
 
-## Daily Briefing: Political storm grows as Ram Temple trust seeks CEO to restore faith; Mamdani’s love for soccer
+## ‘This is the transition phase’: Shreyas Iyer blames inexperience after India’s another T20I series loss
 
 
-## Can India refuse to extradite Lawrence Bishnoi? Here’s what the law says
-
-
-## Ramayana first look to screen at San Diego Comic-Con on July 23; Ranbir, Yash to attend
-
-
-## ‘I was deteriorating’: Why Tannaz Irani needed a full hip replacement surgery
-
-
-## Meta to put AI chip into production in September as it looks to double computing capacity, memo shows
-
-
-## Chennai confirmed hosts of BBL 2026 opener: Renegades face Scorchers on Dec 12
-
+## China’s appeal as portfolio diversifier grows, BlackRock strategist says
+China is increasingly being viewed by global investors as not only a growth opportunity but also a potential portfolio diversifier, as higher inflation, market volatility and changing correlations challenge traditional asset-allocation strategies, according to BlackRock’s global chief investment str
 
 ## Hong Kong exchange marks progress in luring more listings from abroad
 The Hong Kong stock exchange is drawing a growing number of foreign companies from across Asia and North America that are seeking international capital, as the bourse marks progress in its ambition to be a global magnet for fundraising. The latest firm seeking to join the cohort is Kazakhstan Temir 
@@ -152,9 +152,6 @@ Xiaomi, the smartphone vendor that has become one of Tesla’s biggest challenge
 
 ## Small-cap IPOs struggle in Hong Kong amid lack of AI megadeals
 The streak of strong returns in the Hong Kong initial public offering (IPO) market has ended, as smaller companies face a liquidity squeeze and the broader market chases mega-deals like Zhipu AI instead. Of the 13 IPOs that debuted this week, five broke below their issue prices on day one, including
-
-## China’s top DRAM maker sets date for US$4.3b Shanghai IPO amid memory boom
-Chinese memory giant ChangXin Memory Technologies (CXMT) kicked off the final stage of its Shanghai listing, setting a subscription date for a share offering that is expected to raise at least 29.5 billion yuan (US$4.3 billion) and would rank as the second-largest on the tech-focused Star Market. Ch
 
 ## Why We Know More About China’s Next-Generation Fighters Than America’s
 As internet sleuthing replaces traditional intelligence collection, one big mystery about the PLA remains.
@@ -204,6 +201,9 @@ An Indian organized crime syndicate led by Lawrence Bishnoi is being treated as 
 ## 1 Year On, Cambodia Is Still Feeling the Impact of USAID’s Demise
 To many in the country's development sector, the sudden collapse of the U.S. aid agency felt “like an earthquake.”
 
+## Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore
+When the United States and Iran announced their framework agreement on June 15, attention focused on the direct U.S.-Iran dimensions of the deal, including the reopening of the Strait of Hormuz, the lifting of the U.S. naval blockade, and the fate of Iran’s nuclear program. But the agreement also in
+
 ## Fraying Deals and Rising Strikes
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThree weeks after it was signed, the memorandum of understanding between the United States and Iran seems to
 
@@ -224,9 +224,6 @@ The most produced American military aircraft of World War II was not a small fig
 
 ## Somali Pirates Are Back — But the Coalition That Beat Them Isn’t Coming
 Numerous recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that the conditions for resurgence can return quickly.It took years of sustained, coordinated effort by multinational naval coalitions, the shipping industry, and internati
-
-## Gathering Clouds: Building Digital Strategic Depth in the Compute Age
-The wars in Ukraine and the Middle East have exposed a strategic reality that military planners are only beginning to confront: In a data-centric age, digital infrastructure has become part of the battlespace. Data centers and cloud regions are now the digital backbone of military power and economic
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Zelenskyy urges urgent efforts in Ukraine to start Patriot production
-US President Donald Trump gave his blessing earlier this week to domestic Ukrainian production of the missiles.
+## Bodies found in cars as deadly Spain wildfire kills at least 12
+Bodies found in cars as deadly Spain wildfire kills at least 12
 
-## Iran says strikes hit southern areas, but US denies it carried attacks
-Iranian state media reported that military headquarters were hit by strikes in Bushehr province and the city of Konarak.
+## Administration without sovereignty will not free Palestine
+The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.
 
-## Strait of Hormuz traffic plunges as US, Iran resume fighting
-Brent crude holds steady despite a plunge in traffic in the critical waterway.
+## Bayeux Tapestry smuggled into Britain for first visit in 1,000 years
+The loan of the artwork is seen as symbolic of French-British relations as London works to mend ties post-Brexit.
 
-## Muchova beats Gauff in tie-break thriller to reach first Wimbledon final
-Muchova sets up final against compatriot Noskova, who overcame Kostyuk in the other women's semifinal.
+## England vs Norway: All to know ahead of FIFA World Cup quarterfinal
+Haaland vs Kane and other key factors before World Cup 2026 showdown between England and Norway in Miami.
 
-## Gaza mourns aid worker killed by Israel who helped them see the World Cup
-Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.
+## Wildfires in southern Spain kill at least 12
+Andalusia's deadliest fire comes as heatwaves across Europe have left swaths of the continent highly vulnerable.
 
-## Can the US Supreme Court stay independent?
-Kim Wehle says rising threats against judges are eroding the rule of law.
+## The US is building a new pressure architecture against Iran
+Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it.
 
-## How World Bank and IMF loans are reshaping policymaking in Africa
-As debt pressures grow, African governments are reassessing the trade-offs of concessional financing.
+## ‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams
+Morocco came to the quarterfinal with high hopes and revenge on their minds, only to be met with the in-form team.
 
-## Britain’s likely PM says will work to ‘stop the suffering’ in Gaza
-Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.
+## South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO
+South Korean chip giant makes largest-ever debut by a foreign firm in the US, eclipsing Alibaba's 2014 IPO.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
@@ -300,6 +297,9 @@ Indian companies are gearing up for a promising boost in exports to the UK as a 
 ## FPIs double down on Indian debt, keep equity bets on hold
 Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a recent rupee recovery, concerns remain a
 
+## BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks
+The Reserve Bank of India (RBI) is likely to keep policy rates unchanged in the near term, but BofA Securities expects a cumulative 50 basis points (bps) rate hike from December 2026 as inflation risks become increasingly driven by domestic factors.
+
 ## India consumer inflation likely topped RBI's 4% target in June: Reuters poll
 Wholesale price inflation also remained elevated despite easing slightly from the previous month. Core inflation, excluding volatile food and fuel, was expected to be around 3.95 percent. This rise could impact the central bank's future monetary policy decisions.
 
@@ -317,7 +317,4 @@ The industry told commerce minister Piyush Goyal that the scheme had exceeded al
 
 ## India should aim higher than $5 bn in toy market: FM Sitharaman urges industry to target bigger global market share
 Union Finance Minister Nirmala Sitharaman on Tuesday called on the Indian toy industry to set more ambitious export goals, saying India has the capability to capture a much larger slice of the projected USD 179 billion global toy market by 2032, instead of limiting itself to the projected USD 5 bill
-
-## NFRA chief declines comment on Rajesh Exports' SEBI submission, says probe process is systematic
-National Financial Reporting Authority (NFRA) Chairperson Nitin Gupta on Tuesday declined to comment on claims made by Rajesh Exports regarding the submission of records to market regulator SEBI, saying the matter falls within SEBI's jurisdiction.
 
