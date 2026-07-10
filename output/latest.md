@@ -1,31 +1,34 @@
 # AION Intelligence
 
+## US sends team to Beirut to shore up Israel-Hizbollah ceasefire
+Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
+
+## Apple sues OpenAI, alleging it stole top-secret information
+Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley
+
+## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
+Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
+
+## SK Hynix’s US shares jump 13% on Nasdaq debut
+South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149
+
+## Bezos-backed fusion start-up to become first to go public
+General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut
+
 ## At least 12 people die in Spanish wildfire as heatwave grips Europe
 Alarm over summer of blazes as third wave of extreme heat hits region
 
 ## US senators strike deal with White House to tighten Russia sanctions
 Potential breakthrough comes days after Donald Trump signalled shift towards more support for Kyiv
 
-## US sends team to Beirut to shore up Israel-Hizbollah ceasefire
-Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
-
-## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
-Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
-
 ## UK to sign up to €60bn EU defence loan scheme for Ukraine
 Keir Starmer keen to leave Downing Street with positive signal to Europe by pledging financial commitment
 
+## Carmakers fight off bulk of multibillion-pound UK ‘dieselgate’ case
+About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
+
 ## ‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid
 Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival
-
-## SK Hynix’s US shares jump 14% on Nasdaq debut
-South Korean memory chipmaker’s US-listed stock price rose as high as $175 after pricing at $149
-
-## Investors sell longer-dated AI debt amid Big Tech borrowing spree
-Waning demand highlights scepticism over sector’s long-term profitability
-
-## Carmakers fight off bulk of multibillion-pound ‘diseselgate’ case
-About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
 
 ## Billionaire Xavier Niel could be the jolt Vodafone needs
 Investors hope £4.4bn move for telecoms group augurs quicker and sharper improvements
@@ -38,9 +41,6 @@ Our experts discuss which companies to buy, sell or hold this week
 
 ## The superpower of public equity
 Liquidity is tempting companies back to the public markets — but it is not available to all
-
-## Ryanair plane makes emergency landing after window breaks
-Passenger sitting next to window was nearly sucked out of Boeing 737 aircraft, according to reports
 
 ## Europe’s deadly heatwave & India’s rainfall crisis explained | EP 105 | Subramani Ra Mancombu
 
@@ -114,6 +114,9 @@ PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tou
 ## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
 The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
+## Sarvesh Kushare becomes first Indian to finish in top 3 on Diamond League debut
+
+
 ## How Sinner outclassed Djokovic to seal 2nd consecutive Wimbledon final spot
 
 
@@ -132,10 +135,7 @@ The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantan
 ## Trying to flee to Malaysia, key accused in Rs 12.30-lakh immigration fraud arrested
 
 
-## Pakistan K2 Airways plane crash: More debris recovered, 5 crew still missing. What we know so far
-
-
-## Spain’s backline bulwark Pau Cubarsi will make life tough for Belgium
+## Pakistan K2 Airways cargo plane crash: More debris found, 5 crew still missing. What we know so far
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
@@ -162,6 +162,12 @@ The Hong Kong stock exchange is drawing a growing number of foreign companies fr
 ## Uniqlo defies sluggish China market with double-digit profit growth
 Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
+## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
+Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
+
+## Evacuating Art From Ukraine’s Front Lines
+The Lithuanian curators working to protect paintings from Putin.
+
 ## The CIA’s First Failed Coup
 Kim Philby, parachute drops, and what really happened in communist Albania.
 
@@ -179,12 +185,6 @@ Former Ukrainian Foreign Minister Dmytro Kuleba on the White House’s seeming c
 
 ## What in the World?
 Test yourself on the week of July 4: China test-fires a missile, the Philippines begins an impeachment trial, and Turkey hosts the NATO leaders’ summit.
-
-## Is Ukraine’s Decentralized Drone Innovation a Blip or a Revolution?
-Weapons reworked on the front are driving Kyiv’s recent successes.
-
-## What the World Cup Meant to Mexico
-The country is done hosting the tournament, but it will remember the “collective joy.”
 
 ## Israel’s Pivot to Asia
 Israel's reliance on longstanding partnerships with the United States and a handful of European countries is no longer sufficient. But can it build durable relationships in Asia?
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon historic sites destroyed by Israeli strikes
+Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.
+
+## How Wong Kim Ark’s legacy reignited the fight for birthright citizenship
+Sandra Wong did not know her great-grandfather growing up. But his legacy would catapult her into the public eye.
+
+## Ukrainian attacks cause chaos at fuel stations across Russia
+Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.
+
+## Donald Trump removes final members of independent US election commission
+The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.
+
+## Egypt World Cup team return home to hero’s welcome after historic run
+Egypt’s squad has returned home to a hero’s welcome following their controversial exit from the World Cup.
+
+## Why are politicians and sanctioned states embracing crypto?
+Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.
+
 ## What happened at France v Morocco
 France faced Morocco in a rematch of the 2022 World Cup semi-final.
 
 ## EU says ‘addictive’ features on Instagram and Facebook breach its rules
 Bloc says some design features on platforms built by Meta can cause users' brains to go into 'autopilot mode'.
-
-## Witnesses contest the Trump administration’s account of Texas ICE killing
-Those present say Lorenzo Salgado Araujo did not ram or 'weaponise' his vehicle, as the US government claimed.
-
-## Can the agreement between Iran and the US be rescued?
-Latest attacks jeopardise ceasefire and memorandum of understanding.
-
-## Eliminated Morocco turn attention to cohosting 2030 World Cup
-Morocco were eliminated from the 2026 World Cup by a 2-0 defeat by France in the quarterfinals, but host next edition.
-
-## Clinical Sinner demolishes Djokovic to set up Wimbledon final with Zverev
-Sinner is targeting his fifth Grand Slam title, which would bring him within two of the tally of rival Carlos Alcaraz.
-
-## Indian cricket board to review T20 team’s ‘bad phase’ after England defeats
-India slumped to a nine-wicket defeat in the fourth T20 against England, following a 2-0 series whitewash in Ireland.
-
-## UK police arrest man suspected of murdering former MP Ann Widdecombe
-Reform UK politician Widdecombe, 78, was found dead at her home on Thursday with serious injuries.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
