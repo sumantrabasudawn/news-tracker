@@ -1,31 +1,37 @@
 # AION Intelligence
 
+## US strikes Iranian railway bridges on route to city of Khamenei’s burial
+Late supreme leader interred in Mashhad in early hours of Friday morning
+
+## Labour MPs push for permanent ban on crypto political donations
+Proposals come amid controversy over Reform UK funding
+
+## Multinationals still avoiding UK tax after US opts out of reforms, MPs warn
+New global ‘pillar 2’ rules require companies to pay top-up levies
+
+## Gazans flock to World Cup screenings
+Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
+
+## SK Hynix raises $26.5bn in US market debut
+South Korean memory chipmaker completes largest-ever US listing by a foreign company
+
 ## Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
 US central bank chair chooses business and academic leaders to head five new task forces
 
 ## Police investigate £500,000 in Reform UK donations made by mother of Farage aide
 Officers have been looking at possible offences relating to alleged ‘evasion of restrictions on donations’
 
-## FirstFT: Wall Street bankers in line for bumper $140mn payday from SK Hynix listing
+## FirstFT: SK Hynix raises $26.5bn in Nasdaq debut
 Also in today’s newsletter: EU-China trade tensions and European heatwave damps Uniqlo sales growth
 
 ## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
 Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
 
-## ‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader
-Ex-Manchester mayor says it is starting to feel ‘very real’ as 322 out of 403 Labour MPs nominate him to succeed Keir Starmer
-
-## Andy Burnham apologises for Labour’s Gaza war stance
-Britain’s likely next prime minister seeks to win back leftwing voters outraged by Keir Starmer’s approach to Israel
+## The Fed’s silent treatment
+Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?
 
 ## Goldman Sachs limits prediction market betting for employees
 Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks
-
-## Tory shadow chancellor promises tax cuts
-Mel Stride vows ‘responsible radicalism’ as party draws dividing line with Labour under probable new leader Andy Burnham
-
-## The Fed’s silent treatment
-Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?
 
 ## Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
 Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure
@@ -35,9 +41,6 @@ Annual FCA data shows abnormal trades hitting new highs amid deal frenzy for UK 
 
 ## Microsoft’s early AI lead has become a test of faith
 The only certainty is that capital spending is going through the roof
-
-## AstraZeneca shares slide after heart treatment disappoints in trial
-UK pharmaceutical company said Wainua drug did not meet goal of reducing cardiovascular deaths
 
 ## Anthropic appoints former Fed chair Ben Bernanke to AI oversight trust
 The trust, whose members have no financial stake in the company, can appoint and remove a majority of Anthropic’s board members.
@@ -111,29 +114,35 @@ BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial
 ## Three-year-old dies after slipping into rainwater outside Ghaziabad home
 Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
 
-## FIFA World Cup: Mbappe draws level with Messi in Golden Boot race as France beat Morocco 2-0, reach semifinal
+## Madhya Pradesh Congress chief Jitu Patwari’s brother named in drug probe, political storm erupts
 
 
-## Iranians bury Ali Khamenei 4 months after deadly US-Israel strikes
+## Row over Rath Yatra abroad: After Puri royal’s latest salvo, ISKCON ‘bows out of discussion’
 
 
-## Minister chairs key wildlife body meetings, reviews over 100 projects for clearance
+## Think tank CSDS likely to face funding cuts from Centre
 
 
-## Delhi Confidential: Bypoll Relief
+## Hours after joining BJP, 3 former TMC MPs fielded for Rajya Sabha bypolls in Bengal
 
 
-## Hungry, tired children come home 4 hours late: School buses crawl on Gurgaon roads amid rain
+## After dogs, registration of pet cats a must in Ahmedabad
 
 
-## Rain fury: Flooded Ghaziabad and Delhi claim lives of toddler, 7-year-old
+## India, Australia ink defence pacts, fast-track trade deal
 
 
-## The café on canvas: A slice of life in the modern city captured in art
+## Gujarat CM Bhupendra Patel announces Rs 500 crore for creek project in Surat
 
 
-## 2 more bodies recovered from rubble, toll climbs to 3 a day after Rohini collapse
+## Rainfall in eastern river basins down 20% since 1951: Study on water availability in Indus river system
 
+
+## How the RMB Business Facility will help consolidate Hong Kong’s financial role
+Hong Kong’s updated yuan financing tool for banks, featuring a quota 150 per cent larger than before, was launched on Friday, giving a significant boost to the use of the Chinese currency in daily global business. What is the RMB Business Facility? The RMB Business Facility is a funding window run b
+
+## At high-end Hong Kong hotels, rates check in above pre-pandemic highs, outpace market
+Hong Kong’s luxury hotels have outpaced the city’s broader hospitality market since last year, with their room rates exceeding 2018 levels as demand recovers, according to a report by global property consultancy Jones Lang LaSalle (JLL). Citing official tourism figures, JLL said high-end properties 
 
 ## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
 [The content of this article has been produced by our advertising partner.] Artificial intelligence is rapidly moving from experimentation to execution, and business veteran Bruce Rockowitz believes the technology could become a critical competitive advantage across industries ranging from wellness 
@@ -152,12 +161,6 @@ Shares of Chinese artificial intelligence model developer Zhipu AI and chipmaker
 
 ## Hong Kong stocks retreat as regional tech volatility offsets short covering
 Hong Kong stocks closed mixed on Thursday as a rally in major technology firms and solid mainland inflows offset a broader market sell-off driven by escalating Middle East tensions. The Hang Seng Index retreated 0.7 per cent to close at 24,030, reversing some of the previous session’s strong gains, 
-
-## Hong Kong top retirement choice for ultra-rich expats, St James’s Place says
-Two-thirds of ultra-rich expatriates living in Hong Kong plan to retire in the city, thanks to stronger financial benefits, according to a survey by St James’s Place. The findings were published after the British financial advice and wealth management company surveyed 450 affluent and high-net-worth
-
-## Yuan: global ambitions
-–
 
 ## NATO’s Waiting Game
 Less Trump. More Europe. What’s next?
@@ -255,8 +258,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Syria says cell behind ‘terrorist bombings’ in Damascus arrested
-Explosions rocked the Syrian capital on Tuesday as French President Emmanuel Macron visited the city.
+## Venezuela earthquakes toll rises to 3,889 as risk of disease grows
+The United Nations launched an appeal for roughly $300 million to assist survivors of Venezuela's earthquakes
+
+## New Mexico accuses US Justice Department of impeding Epstein investigation
+State Attorney General Raul Torrez accused the Trump administration of withholding records, harming his investigation.
+
+## Waiting for Moses: Africa’s sons in Russia’s war
+Russia's war in Ukraine is leaving African families to count the cost.
+
+## Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal
+France beat Morocco 2-0 in quarterfinals at FIFA World Cup 2026 and will meet Spain or Belgium next.
+
+## Syria says captured Damascus bombing suspects are affiliated with ISIL
+Two explosions in the Syrian capital earlier this week came as French President Emmanuel Macron was visiting.
 
 ## How Strait of Hormuz dispute led to latest US-Iran cycle of fighting
 Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.
@@ -266,18 +281,6 @@ Trump airport name change sparks backlash in Florida
 
 ## NYT-led group asks court to sanction OpenAI in US copyright dispute
 The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.
-
-## US military denies involvement after explosions heard in Iran
-Iranian media report loud explosions in several locations as Israeli officials say war is 'not over'.
-
-## Mexico seeks prosecutions over migrant deaths in the US
-Mexico will seek state and federal prosecutions in the United States over the deaths of Mexican migrants.
-
-## UK Labour’s Burnham apologises for response to Israel’s Gaza violence
-UK's likely next PM Burnham pushes for ceasefire, tougher sanctions over Gaza violence and settlement trade bans.
-
-## Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships
-Carney and Saudi Crown Prince Bin Salman strengthen partnerships after years of strained relations under Trudeau.
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
