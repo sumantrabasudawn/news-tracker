@@ -1,28 +1,28 @@
 # AION Intelligence
 
-## At least 12 people die in Spanish wildfire as heatwave grips Europe
-Alarm over summer of blazes as third wave of extreme heat hits region
-
-## FirstFT: SK Hynix completes biggest US IPO by a foreign company
-Also in today’s newsletter: Mervyn King picked for Fed reform and Spanish forest fires kill 12
-
-## Have you joined the tartan army?
-21 ways to find your clan
-
-## EU warns Meta over Facebook and Instagram’s addictive feeds
-Brussels says tech group has failed to adequately assess and mitigate risks that could have a negative impact on users
-
 ## IEA warns of petrol and diesel supply crunch
 Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
 
-## Japan sheds ties as price index shake-up reflects changing habits
-Revision of inflation ‘basket’ ditches office wear in favour of protein powder and pet insurance
+## Farage in a fix; Burnham unbeatable
+Plus: Starmer’s swansong summit in Ankara
 
-## Bayer sells stake in contraceptives business to Apollo in €3bn financing deal
-Sale will help German pharmaceuticals group to bolster its balance sheet after years of litigation over Roundup weedkiller
+## Classicist Emily Wilson: ‘Odysseus is a different kind of conman’
+The acclaimed translator who helped to inspire Christopher Nolan’s new film on the resonance of Homer’s epics — and which Greek hero Donald Trump most resembles
 
-## Skills are shaping up to be Burnham’s next crusade
-Whether it’s good public transport or young people’s futures, he knows where to make government matter to voters
+## China claims rocket first as it catches booster in floating sea net
+State media hails successful test in step towards reusable rocket technology for space flights
+
+## What does America mean to you? FT readers respond
+To mark the US’s semiquincentennial, we asked our readers to reflect on their experience of the country — here are your responses
+
+## China drops urban employment target as economic pressures build
+Latest five-year plan omits figure for jobs growth, a fixture of economic planning, for first time in decades
+
+## Delta reports record demand but falling profits as fuel costs hit results
+Iran war drove jet fuel costs 77% higher than year-ago levels in preview of wider knock to US corporate profits
+
+## At least 12 people die in Spanish wildfire as heatwave grips Europe
+Alarm over summer of blazes as third wave of extreme heat hits region
 
 ## The billionaire dreaming of AI data centres in the desert
 Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei
@@ -33,35 +33,44 @@ BBC and ITV are exploring tech advances to cut down lags that have frustrated vi
 ## French billionaire Xavier Niel becomes Vodafone’s top shareholder
 Analysts expect Niel to push for cost cuts at UK company after his Vega entity acquired £4.4bn stake from Emirati group e&
 
-## Delta reports record demand but falling profits as fuel costs hit results
-Iran war drove jet fuel costs 77% higher than year-ago levels in preview of wider knock to US corporate profits
+## FirstFT: SK Hynix completes biggest US IPO by a foreign company
+Also in today’s newsletter: Mervyn King picked for Fed reform and Spanish forest fires kill 12
 
-## Argentina envoy says India has become country’s 6th-largest economic partner
-Economic relationship between the two countries reached almost $6 billion in 2025, says Argentine Ambassador to India Mariano Caucino
+## EU warns Meta over Facebook and Instagram’s addictive feeds
+Brussels says tech group has failed to adequately assess and mitigate risks that could have a negative impact on users
 
-## EU demands Facebook, Instagram dismantle ‘addictive’ design features
-Meta “needs to implement design changes” to Instagram and Facebook, such as disabling “key addictive features” like autoplay, infinite scroll so they're not turned on by default, the European Commission has said
+## Financiers drive confidence as India’s used EV market enters growth phase
+Improved financing, battery-health checks and organised retail channels boost buyer confidence
 
-## NABARD facilitates GI registration for 28 new products
-Bamboo craft from Assam, Himachal wood carving are among the new products that are GI registered
+## India's forex reserves jumps $7.26 bn to $674.19 bn
+Value of gold reserves also jumped $2.669 billion to $105.205 billion during the week
 
-## Milky Mist eyes ₹2,035-crore IPO by July-end
-The proposed offering comprises a fresh issue of shares worth as much as ₹1,785 crore and an offer for sale of up to ₹250 crore by founders, according to the draft prospectus.
+## Q1 Results Today Live: Indian Bank, Bank of Maharashtra, Elecon Engineering post gains; Waaree Renewable Technologies, GK Energy, Yash Highvoltage to announce Q1 results
+Q1 results today live: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Elecon Engineering Company, Waaree Renewable Technologies, GK Energy and Yash Highvoltage report their June quarter results.
 
-## Advait Energy secures over ₹251 crore power infrastructure orders in Gujarat
-The contracts involve converting 11 kV HT and LT overhead power line networks into underground cable networks at various locations across Gujarat.
+## Havmor Ice-cream garners double-digit growth in H1
+In the past two years, quick commerce contribution to overall sales has tripled
 
-## Google challenges Delhi HC ruling over use of trademark for AdWords
-The tech giant seeks a stay on the single judge order which directed Google to pay ₹30 lakh as damages to Hindware for using its trademark as keywords for its AdWords Programme
+## India should opt for need-based grain purchases, allow private sector to buy more: Ramesh Chand
+Calling for alternative procurement policy, the former NITI Aayog member says the government should ensure MSP to farmers via price differential payment
 
-## Ayushman Bharat Digital Mission crosses 93.95 crore health accounts: Centre
-India’s Ayushman Bharat Digital Mission has linked 105 crore health records and enrolled over 5.33 lakh health facilities, marking a major digital healthcare milestone
+## ALMM Phase 2 Explained: Cost of solar self-reliance runs into several lakhs of crores
 
-## Are the markets witnessing ‘AI fatigue’? Jefferies says US tech earnings to test investment cycle
-Report says investors now focused on quarterly results of four major US hyperscalers - Alphabet, Amazon, Meta and Microsoft
+
+## Indian Bank Q1FY27 profit up 10% at ₹3,273 crore
+Total income grew to ₹20,724 crore during the quarter, up from ₹18,721 crore in the same quarter of FY26
+
+## Indian Bank sees fresh FCNR (B) deposits worth $140 million since new RBI rule; optimistic of clocking $2 b till Sept
+Indian Bank currently offers a rate of interest of 6 per cent on such FCNR (B) deposits
 
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## Forex reserves rise by $7.3 billion in week ended July 3
+
+
+## Bank of Maharashtra net profit up 27% to Rs 2023 crore
+
 
 ## India’s first hydrogen-powered train notified: Know route, launch date & what makes it special
 The government says that project underscores Indian Railways' wider focus on technological innovation, improved energy efficiency and environmentally sustainable transportation, while supporting India's national objectives on clean energy and achieving net-zero carbon emissions.
@@ -78,59 +87,59 @@ The petroleum ministry clarified E20 petrol production costs versus pure petrol.
 ## A weak monsoon could trigger a storm in India's economy
 A weaker monsoon poses risks to India's rural economy and farm incomes. This could increase food inflation and slow down consumption demand in coming months. Agriculture and related sectors face the biggest impact from below-normal rainfall. Microfinance institutions are more vulnerable than banks d
 
-## Gold price prediction: Will gold price see a bullish movement? Check July 10, 2026 outlook
-​​Gold price prediction today: Gold prices - MCX Gold August futures - are seeing a positive bias and a buy on dips strategy is favoured, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities.
+## NGT halts activity in 3 major cricket stadiums incuding Mumbai's DY Patil over groundwater use
+The CGWA's counsel said that these three stadiums have been repeatedly served, yet they have not filed a response.
 
-## Top shares to buy: Stock recommendations for today - check list
-Stock market recommendations: Bharti Airtel, and HDFC Bank - these are the top 2 stocks that Bajaj Broking Research has recommended for buying on July 10, 2026:
+## Kerala medical student killed in Uzbekistan; family alleges classmate forced her to convert
+The victim's parents have demanded that the investigation be carried out in Kerala and that the accused be extradited from Uzbekistan.
 
-## Why ‘Satluj’ stopped being just a film
-How Satluj, the Jaswant Singh Khalra biopic stalled over CBFC objections, became India's latest symbol of film censorship after its ZEE5 block.
+## Phone calls from 1600 number series cannot be blocked as ‘spam’, TRAI clarifies amid row over Truecaller, other apps
+Authority also clarified that promotional calls from 140 number series can't be filtered by an app, and can be blocked only by DND registry managed by it.
 
-## Maha BJP leader admits 'our own government's delay' in conferring Bharat Ratna on Savarkar
-Earlier, in March, Mungantiwar had moved a resolution in the assembly seeking the posthumous conferment Bharat Ratna on Vinayak Damodar Savarkar.
+## Verify consent to operate status of 49 Mussoorie hotels, seeks compliance report: NGT
+The NGT has directed the UKPCB to verify the Consent to Operate status of 49 Uttarakhand hotels and file a fresh compliance report within six weeks.
 
-## ‘Blind spots, unqualified teachers’: Fresh revelations in Jaipur Class 4 student suicide
-The family alleges that the fresh CCTV footage from inside the class supports their claim that their daughter was bullied shortly before the incident.
+## Amid mass exodus in Trinamool Congress, here's who is still in Team Mamata
+With TMC's tally down, many loyalists have continued to back Mamata Banerjee as the party leader.
 
-## Baba Barfani ice lingam melts over 90% just days into Amarnath Yatra: ‘Climate change is reason’
-The Amarnath Yatra began on July 3 this year under unprecedented security following the April 2025 Pahalgam terror attack that killed 26 civilians.
+## High-alcohol formulations to require licence, prescription as Centre amends rules
+The health ministry has ended the Schedule K exemption for high-alcohol medicinal formulations, bringing them under Schedule H1 to curb misuse and addiction.
 
-## PM Modi's special, framed gift for cricket legend Steve Waugh during Australia trip
-Prime Minister Narendra Modi highlighted India and Australia's deep sporting bond and expressed delight at witnessing young talent in action at MCG
+## Trudeau’s charges on Nijjar murder were absurd, politically motivated: Ex-envoy
+In October 2024, Verma had to leave Canada after law enforcement named him and a few other Indian diplomats as “persons of interest” in the murder case.
 
-## Bhilai Steel Plant GM among 2 BSP staff arrested in iron scrap theft case: Police
-Police arrested two Bhilai Steel Plant employees, including a general manager, in an alleged iron scrap theft racket. The total arrests in the case have risen to 15.
+## 'Ye de dena… CJI ko': Drama in Supreme Court as petitioner uses cuss words, 'orders' bench to take action
+The petitioner, identified as Prabal Pratap, addressed the dual judge bench of justice KV Vishwanath and justice Alok Aradhe as “judicial servant”.
 
-## PM Modi ‘famously avoids’ press conferences: Aussie journo's quip in Melbourne reignites issue | Watch
-Remark renewed attention to issue that surfaced during Modi's visits abroad — such as in Norway earlier this year — as well as in domestic politics
-
-## Delhi HC upholds Rajpal Yadav's conviction in cheque bounce case, cuts jail term to 3 months
-The Delhi High Court has upheld Rajpal Yadav's conviction in a cheque bounce case, while reducing his jail sentence.
-
-## Bengaluru woman stabbed by ex-boyfriend after refusing to marry him
+## Three Asiatic lion cubs born at Delhi zoo, second successful litter for breeding pair in two years
 
 
-## Rajpal Yadav claimed he had ‘Rs 1200 cr worth of work’ before getting 3 month prison sentence
+## Two Chinese military pilots killed during PLA training; Beijing stays silent: Report
 
 
-## Railway Board approves 4 new trains, extends one service; check routes, stations and stops
+## 30 years after Srinagar violence, Shabir Shah among 6 Hurriyat leaders chargesheeted by NIA
 
 
-## Madhavan rejected Vijay’s 3 Idiots remake: ‘Shankar called it a quickie, rang alarm bells’
+## Theft at Ram Temple is betrayal of public trust. Reform must follow
 
 
-## OpenAI to shut down ChatGPT Atlas browser: Here’s why
+## Madras High Court restrains ECI from notifying bypolls to five Assembly seats until July 31
 
 
-## Lonavala landslides: Central Railway cancels 30 trains till July 17, Deccan Queen hit
+## Ryanair passenger nearly sucked out after cabin window breaks mid-air: Report
 
 
-## Black SUV, filmed attack, London handler: Inside Gurgaon’s 40-minute shootout
+## Months before confirming divorce, Gaurav Khanna again proposed to Akanksha Chamola: ‘Be mine’
 
 
-## Rima Kallingal on her chenda arangetram: ‘Learning a new art changed my life’
+## Buyer gets wrong size bamboo poles, wins Rs 1.5 lakh after supplier’s admission on chat
 
+
+## Shein receives approval for Hong Kong IPO from Chinese regulators
+Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong. The firm plans to issue up to 341.6 million shares and list on the Hong Kong stock exchange, according to a Friday statement by the C
+
+## Top Chinese political journal calls for ‘patient capital’ amid AI investment frenzy
+The top theoretical journal of China’s ruling Communist Party has run commentaries urging the country to cultivate “patient capital” for three days straight, as Beijing seeks to harness investment to boost long-term innovation amid fears of speculative excess in the artificial intelligence sector. T
 
 ## Hong Kong keeps tight grip on housing land supply despite property rebound
 Hong Kong’s government will release just one residential site for sale in the July to September quarter, maintaining a cautious approach even as the housing market rebounds, while officials argue that supply from other channels will keep the city on track to meet its housing targets. A 5,170-square-
@@ -150,11 +159,11 @@ The Hong Kong stock exchange is drawing a growing number of foreign companies fr
 ## Uniqlo defies sluggish China market with double-digit profit growth
 Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
-## How the RMB Business Facility will help consolidate Hong Kong’s financial role
-Hong Kong’s updated yuan financing tool for banks, featuring a quota 150 per cent larger than before, was launched on Friday, giving a significant boost to the use of the Chinese currency in daily global business. What is the RMB Business Facility? The RMB Business Facility is a funding window run b
+## What the World Cup Meant to Mexico
+The country is done hosting the tournament, but it will remember the “collective joy.”
 
-## At high-end Hong Kong hotels, rates check in above pre-pandemic highs, outpace market
-Hong Kong’s luxury hotels have outpaced the city’s broader hospitality market since last year, with their room rates exceeding 2018 levels as demand recovers, according to a report by global property consultancy Jones Lang LaSalle (JLL). Citing official tourism figures, JLL said high-end properties 
+## Why Netanyahu Is Crying Wolf on Turkey
+Election politics give the Israeli leader an incentive to inflate the threat.
 
 ## Why We Know More About China’s Next-Generation Fighters Than America’s
 As internet sleuthing replaces traditional intelligence collection, one big mystery about the PLA remains.
@@ -173,12 +182,6 @@ Kyiv has developed a strategy for winning the war. Now all it needs is time.
 
 ## Trump Hands NATO a Mixed Bag
 The alliance wanted to look united. In walked Trump.
-
-## Is the U.S.-Iran Cease-Fire Over?
-Trump calls continued peace talks a “waste of time” as strikes resume.
-
-## Modi Seeks to Project Influence on Asia-Pacific Trip
-The Indian prime minister visits Indonesia, Australia, and New Zealand this week.
 
 ## Thailand Needs to Soak Its Own Rich, Not Just Wealthy Tourists
 While the government focuses on burnishing its appeal to well-heeled tourists, massive holdings of Thai elite wealth remain effectively untaxed.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pride despite defeat as Morocco’s World Cup run ends
-Pride despite defeat as Morocco's World Cup run ends
+## Sudan’s El Obeid faces intensifying RSF drone attacks
+Sudan’s El Obeid faces intensifying RSF drone attacks
 
-## Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know
-McGregor, who won the first bout against Holloway in 2013, has not fought in the Octagon since July 2021.
+## Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news
+Erling Haaland's Norway will be out to chase more FIFA World Cup history when they face Harry Kane's England in Miami.
 
-## How an Egypt-Argentina World Cup game became a referendum on Palestine
-Contested calls and rival flags showed how Palestine now shapes debates over power and fairness in sport.
+## Philippines landslides kill 15 as Typhoon Bavi threatens region
+Typhoon Bavi is intensifying seasonal monsoon rains across the region as it moves towards Taiwan and China.
 
-## Fall in funding cuts aid to 1 million women: UN
-The US was the first to slash billions in foreign assistance in 2025, but other major donors have followed suit.
+## Paramount-Warner merger: could it reshape the media?
+The UK is considering intervening in the Paramount-Warner merger over concerns about media plurality.
 
-## How Hamas Governed Gaza
-Hamas is dissolving its government and handing power over to a new technocratic administration.
+## First Palestinian legislative elections in 20 years announced
+First Palestinian legislative elections in 20 years announced
 
-## India is becoming a shaping power
-Modi’s tour of Indonesia, Australia and New Zealand reveals a broader Asia Pacific strategy.
+## US-Iran escalation threatens oil supply recovery, warns IEA
+Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.
 
-## UK police confront Morocco fans over unrest after World Cup loss
-UK police confront Morocco fans over unrest after World Cup loss
+## US-Iran war: Will peace talks resume, and when?
+While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.
 
-## EU states do not need ‘consensus’ to hold Israel accountable
-As foreign ministers meet on Gaza and the West Bank, national governments cannot hide behind EU paralysis.
+## Condemned ex-PM Hasina plans December return to Bangladesh
+Despite facing a death sentence, exiled Sheikh Hasina pledges to return, setting up a legal clash with Dhaka’s leaders.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
@@ -300,6 +303,9 @@ Indian companies are gearing up for a promising boost in exports to the UK as a 
 ## FPIs double down on Indian debt, keep equity bets on hold
 Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a recent rupee recovery, concerns remain a
 
+## SEBI bars Osiajee Texfab in manipulation probe
+SEBI has barred Osiajee Texfab from trading shares. The regulator found a coordinated scheme to artificially inflate the company's stock price. Evidence showed a nearly tenfold surge in share value despite negligible textile revenue. Investigations revealed synchronised trades and financial linkages
+
 ## BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks
 The Reserve Bank of India (RBI) is likely to keep policy rates unchanged in the near term, but BofA Securities expects a cumulative 50 basis points (bps) rate hike from December 2026 as inflation risks become increasingly driven by domestic factors.
 
@@ -317,7 +323,4 @@ The Securities and Exchange Board of India (SEBI) has notified amendments to the
 
 ## Smartphone PLI plan exceeds targets, value addition quadruples: Industry informs Centre
 The industry told commerce minister Piyush Goyal that the scheme had exceeded all its targets with production more than doubling to $71 billion in FY26 from $30 billion in FY20 and exports rising 10 times to $29.4 billion from $3 billion.
-
-## India should aim higher than $5 bn in toy market: FM Sitharaman urges industry to target bigger global market share
-Union Finance Minister Nirmala Sitharaman on Tuesday called on the Indian toy industry to set more ambitious export goals, saying India has the capability to capture a much larger slice of the projected USD 179 billion global toy market by 2032, instead of limiting itself to the projected USD 5 bill
 
