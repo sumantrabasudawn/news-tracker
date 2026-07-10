@@ -1,142 +1,142 @@
 # AION Intelligence
 
-## US strikes Iranian railway bridges on route to city of Khamenei’s burial
-Late supreme leader interred in Mashhad in early hours of Friday morning
+## FirstFT: US AI models sold to blacklisted Chinese groups
+Also in today’s newsletter: Mervyn King picked for Fed reform and largest US listing by foreign group
 
-## Labour MPs push for permanent ban on crypto political donations
-Proposals come amid controversy over Reform UK funding
+## Japan finance minister urges giant pension fund to invest more at home
+Yen, bonds and stocks buoyed by Satsuki Katayama’s call for investors to shift from foreign to domestic assets
 
-## Multinationals still avoiding UK tax after US opts out of reforms, MPs warn
-New global ‘pillar 2’ rules require companies to pay top-up levies
+## Wall Street’s giant memory windfall
+The blockbuster listing of South Korean chipmaker SK Hynix could earn investment bankers nine figures in fees
 
-## Gazans flock to World Cup screenings
-Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
+## The secret of Spain’s impenetrable World Cup defence
+‘La Roja’ have not conceded a goal in the tournament despite aiming to have every outfield player in the other team’s half
 
-## SK Hynix raises $26.5bn in US market debut
-South Korean memory chipmaker completes largest-ever US listing by a foreign company
+## How AI changes the rules of engagement for sports viewers
+Spectators will see more opportunity to move from pricey subscriptions and rigid schedules to more personalised feeds
 
-## Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
-US central bank chair chooses business and academic leaders to head five new task forces
+## Founder of energy group DCC blasts board for backing takeover ‘on the cheap’
+Jim Flavin joins other major shareholders of FTSE 100 company in rejecting £5.7bn private equity offer
 
-## Police investigate £500,000 in Reform UK donations made by mother of Farage aide
-Officers have been looking at possible offences relating to alleged ‘evasion of restrictions on donations’
+## NHS hospitals admit to errors in data used to defend Palantir contract
+Four trusts confirm there were errors in the underlying hospital data on discharge delays after FT probe
 
-## FirstFT: SK Hynix raises $26.5bn in Nasdaq debut
-Also in today’s newsletter: EU-China trade tensions and European heatwave damps Uniqlo sales growth
+## SK Hynix’s jumbo share sale a sign of overheated times
+Perhaps it will be some comfort to those with longer time horizons that market anomalies don’t last for ever
 
-## PepsiCo warns of ‘rising inflationary pressures’ for US consumers
-Recovery in sales volumes runs out of steam in second quarter as surge in fuel costs hits snack and soda group
+## UK pharmacies report high demand as weight-loss pills go on sale
+Rollout likely to accelerate the hit being felt by supermarkets as users of the drugs buy less food
 
-## The Fed’s silent treatment
-Markets are experiencing bursts of volatility, so why is the new Fed chair keeping quiet?
+## HSBC looks for buyers of Hong Kong subsidiary Hang Seng’s risky loans
+Debt sale an early sign of how UK bank intends to overhaul retail lender after taking it private this year
 
-## Goldman Sachs limits prediction market betting for employees
-Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks
+## UBS helped trigger exodus from Blue Owl private credit fund
+Bank advised some clients to cut exposure, hitting a fund it had been instrumental in setting up
 
-## Carlyle to sell $2.6bn data centre power unit to EQT for fivefold return
-Deal underscores bright spot for private equity portfolio company sales amid strong demand for AI infrastructure
+## EasyJet: orange upstart that changed flying prepares to go private
+European low-cost pioneer is set to be bought by private credit group Castlelake for £5.5bn three decades after its launch
 
-## Suspicious trading before 41% of takeovers sets new UK record
-Annual FCA data shows abnormal trades hitting new highs amid deal frenzy for UK companies
+## Microsoft faces social media backlash over Xbox layoffs after H-1B visa approvals
+Tech giant to cut about 4,800 jobs including 1,600 in gaming division as it receives approval to hire foreign workers
 
-## Microsoft’s early AI lead has become a test of faith
-The only certainty is that capital spending is going through the roof
+## Sensex today | Stock Market Live Updates: Sensex rises 770 pts to 77,506.98; Nifty rises 220 pts to 24,183.85 as markets open
+Stock Market Live: Markets open on a firm note on Friday, with benchmark indices gaining ground on the back of a strong overnight rally in global technology stocks, easing geopolitical fears, and stabilising crude oil prices
 
-## Anthropic appoints former Fed chair Ben Bernanke to AI oversight trust
-The trust, whose members have no financial stake in the company, can appoint and remove a majority of Anthropic’s board members.
+## US says Iran technical talks to continue despite recent strikes
+The US is still committed to finding a solution with Iran
 
-## OpenAI launches ChatGPT Work for workplace automation and complex tasks
-Powered by GPT-5.6, ChatGPT Work can operate for hours, creating documents, spreadsheets, presentations, and web apps
+## Q1 Results Today Live: Elecon Engineering Company, Waaree Renewable Technologies, GK Energy, Yash Highvoltage to announce Q1 results
+Q1 results today live: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Elecon Engineering Company, Waaree Renewable Technologies, GK Energy and Yash Highvoltage report their June quarter results.
 
-## Investments in gold ETFs turned negative in Q2 as investors pressed exit buttons
-Over 50% of outflows were witnessed in June, with US and China leading encashments, according to WGC data
+## Crude oil futures gain on reports of Iranian strikes on US military targets in West Asia
+At 9.36 am on Friday, September Brent oil futures were at $76.64, up by 0.45%, and August crude oil futures on WTI (West Texas Intermediate) were at $72.40, up by 0.44%
 
-## TCS Q1 results: Net profit rises 4.7% to ₹13,420 crore, AI revenue tops $2.6 billion
-TCS continued hiring during the June quarter, adding 9,729 employees to take its workforce to 593,798, with voluntary attrition at 13.6 per cent
+## Tencent in talks to become AI startup Manus' largest shareholder, sources say
+Tencent and Manus’ original investors, including ZhenFund and HSG, plan to buy the company back from Meta for at least $2 billion
 
-## Growing importance of debt funding for Indian start-ups
-Though the time taken to receive the first round of angel funding is not very different from that of VC funding, the VC funding rounds are about 6.8 times larger than that of an angel round.
+## Automobile dealers’ summit to tackle auto lending, EV finance, dealer funding
+The FADA Banking & Insurance Summit will bring together leading banks, NBFCs, insurers and auto retail executives
 
-## Meta launches Muse Spark 1.1 AI model and opens API access for developers
-The new paid API positions Meta in direct competition with OpenAI and Anthropic
+## India, Australia seal uranium deal, to enhance defence and maritime cooperation
+The leaders noted growing geostrategic uncertainty and threats to regional peace and stability, calling for disputes to be resolved peacefully without the threat or use of force or coercion and in accordance with international law
 
-## AU Small Finance Bank and Zaggle launch co-branded retail credit card with flexible rewards
-The card features a Zagg Coins-to-cashback rewards program, flexible payment options, and customizable Value Passes, allowing customers to personalize benefits and earn higher cashback on UPI and contactless spends
+## Top shares to buy: Stock recommendations for today - check list
+Stock market recommendations: Bharti Airtel, and HDFC Bank - these are the top 2 stocks that Bajaj Broking Research has recommended for buying on July 10, 2026:
 
-## India aspires to shape next-generation technologies, products, enterprises, says Sitharaman
-FM urges India Inc for greater engagement with the State governments and city administrations
-
-## US airstrikes: Iran is rushing its oil exports out as conflict resumes, but who will buy?
-The 11 million barrels shipped over the past day are roughly equal to Iran's pre-war crude exports for an entire week. It remains uncertain, however, whether buyers will be available for those cargoes.
-
-## New EPF Scheme 2026: 10 questions employees are asking about contributions, withdrawals and retirement savings
-EPF Scheme 2026: The good news is that many core features of the provident fund system remain familiar. Existing PF accounts continue, contribution rates broadly remain unchanged and accumulated balances remain protected.
-
-## Stationary vehicle does not escape liability if improperly parked; Calcutta High Court enhances compensation for deceased homemaker
-Justice Biswaroop Chowdhury partly allowed an appeal filed by Bajaj Allianz General Insurance Company Limited and enhanced compensation payable for the death of a homemaker from Rs.9.17 lakh to Rs.11 lakh, while dismissing the insurer's challenge to a separate award of Rs.2.10 crore granted for the 
-
-## Strait of Hormuz toll proposal: What are the key waterways in the world & is there a fee to transit them?
-The possibility of imposing transit charges in the Strait of Hormuz has drawn fresh attention to the dependence of global supply chains on a small number of strategically important waterways.
-
-## US stock market today: Wall Street, oil prices steady after sharp swings yesterday
-Before the Iran war began, Brent was trading near $72 per barrel. More recently, optimism surrounding an interim peace agreement had pushed prices back to roughly their pre-war levels.
-
-## TCS Q1 FY27 results: Tata Consultancy Services reports 5% y-o-y increase in net profit to Rs 13,349 crore
-TCS said its annualised AI revenue run rate reached $2.6 billion in the first quarter of FY27, reflecting a 13.6% sequential increase. The company added that it won multiple AI-focused contracts spanning IT operations, software engineering.
-
-## ITR filing FY 2025-26: What Part A and Part B of Form 16 tell salaried taxpayers - explained
-ITR filing FY 2025-26: The deadline to file ITR for salaried taxpayers is July 31, 2026. In case you are confused about what details your Form 16 has and what are the top things to check in it, we have you covered.
-
-## Silent layoffs: Around 35,000 tech jobs may be eliminated this year; India’s IT sector sees AI shift
-The latest trend reflects a new phase in the restructuring of India's IT services industry, which is valued at over $315 billion. Companies are continuing to rationalise the workforce built up during the pandemic hiring surge after grappling with weaker business conditions over the past three years.
-
-## 'What was objectionable?': Dipke says video pleading with police for tents at Jantar Mantar protest ‘deleted by govt’
-Earlier in the day, Abhijeet Dipke accused Delhi Police of refusing to allow tarpaulins at the protest site despite heavy rain lashing the national capital.
-
-## BSNL launches satellite phone priced at ₹1.34 lakh: Who can buy it and what makes it special?
-BSNL said the new satellite phone was designed to be an “ideal solution” for defence, maritime, disaster response, and other such challenging areas.
-
-## 3 ex-TMC MPs join BJP; to contest Rajya Sabha bypolls from seats they vacated
-Sukhendu Sekhar Roy, Sushmita Dev and Prakash Chik Baraik, three TMC leaders who resigned from the Rajya Sabha in June, joined the BJP in Kolkata on Thursday
-
-## Now, Opposition plans to send its letter on SIR, ECI role to all Supreme Court judges
-TMC leader Derek O’Brien said the Opposition was discussing a plan to circulate the letter to all SC judges since they hadn’t received a response from the CJI
-
-## CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Raut slam BJP leader over 'arrogance'
-Missing Link between Mumbai and Pune was briefly shut early this week after heavy rainfall triggered landslides outside one of its tunnels.
-
-## Bengaluru clears 430 km of footpaths, plans new ID cards for street vendors
-The government will also remove other obstructions on footpaths to ensure continuous and accessible walkways across the city.
-
-## Centre firm on territorial integrity, will not accept separate administration: Manipur BJP chief
-BJP state chief Sharda Devi says the Centre will protect Manipur’s territorial integrity and reject the Kuki-Zo demand for a separate administration.
-
-## Three-year-old dies after slipping into rainwater outside Ghaziabad home
-Upasana Pandey, ACP, Vijayanagar, said the police would inspect the site and ensure all necessary legal and departmental action is taken.
-
-## Madhya Pradesh Congress chief Jitu Patwari’s brother named in drug probe, political storm erupts
+## Gold, silver rate today: Yellow metal steadies; silver tumbles
 
 
-## Row over Rath Yatra abroad: After Puri royal’s latest salvo, ISKCON ‘bows out of discussion’
+## Crude dips but eyes weekly gain as US-Iran conflict stokes supply fears
+Oil prices saw a slight decrease but are set for significant weekly gains. Renewed military exchanges between the United States and Iran kept crude supply concerns elevated. The conflict has delayed the reopening of the Strait of Hormuz, a critical energy chokepoint. Worries over slowing global dema
+
+## Li-ion, electronics parts get customs duty waiver
 
 
-## Think tank CSDS likely to face funding cuts from Centre
+## Markets pare gains over late profit booking
 
 
-## Hours after joining BJP, 3 former TMC MPs fielded for Rajya Sabha bypolls in Bengal
+## Is AI affecting GCC pace? Govt to assess
 
 
-## After dogs, registration of pet cats a must in Ahmedabad
+## Bloomberg introduces global trade in Indian bonds
 
 
-## India, Australia ink defence pacts, fast-track trade deal
+## India emerges as global hub for Philips' AI healthcare solutions
 
 
-## Gujarat CM Bhupendra Patel announces Rs 500 crore for creek project in Surat
+## RSS meet private, needs no permission: Priyank
+A three-day Rashtriya Swayamsevak Sangh (RSS) meeting beginning in Belagavi on Friday does not require government permission because it is a private event, Karnataka home minister Priyank Kharge said, adding that any procession or gathering on public roads must receive police approval after an asses
+
+## Heavy rains, inundated roads disrupt traffic movement for hours in Delhi
+Overnight showers, which turned into a heavy downpour in the morning, left several arterial roads waterlogged and stranded officegoers during morning rush hour.
+
+## Weather today LIVE: Schools closed in Ghaziabad, Himachal’s Paonta amid heavy rain; IMD issues ‘Orange’ alert for Delhi
+Weather today LIVE: IMD has issued an Orange alert for the day as heavy rainfall, accompanied by thunderstorms is likely in the region.
+
+## Are schools closed in Delhi, Noida, Ghaziabad amid heavy rains? Here's what we know
+Among the major NCR cities, schools in Ghaziabad have been ordered shut due to extremely heavy rainfall.
+
+## WhatsApp, Telegram respond to MeitY notices over username feature
+MeitY had issued notices to WhatsApp, Telegram and Signal over concerns that username-based messaging could increase the risks of impersonation
+
+## Rohini building collapse: Death toll rises to 3 as 14-hour rescue operation ends
+Police said they also registered a case under charges of culpable homicide not amounting to murder and negligent conduct, with respect to the construction.
+
+## At least four dead as heavy showers flood parts of NCR
+A seven-year-old allegedly drowned in a waterlogged vacant plot in Sanjay Colony in the Samaypur Badli area, northwest Delhi.
+
+## Infrastructure takes battering across India in wake of widespread rains
+According to the IMD, the monsoon reached the final remaining parts of the north Arabian Sea, Rajasthan, Haryana, and Punjab one day later.
+
+## Allahabad High Court declines PIL over police action against display of Khamenei portraits
 
 
-## Rainfall in eastern river basins down 20% since 1951: Study on water availability in Indus river system
+## Bengaluru woman accused of killing parents, sister seeks to confess before court
 
+
+## Daily Briefing: Political storm grows as Ram Temple trust seeks CEO to restore faith; Mamdani’s love for soccer
+
+
+## Can India refuse to extradite Lawrence Bishnoi? Here’s what the law says
+
+
+## Ramayana first look to screen at San Diego Comic-Con on July 23; Ranbir, Yash to attend
+
+
+## ‘I was deteriorating’: Why Tannaz Irani needed a full hip replacement surgery
+
+
+## Meta to put AI chip into production in September as it looks to double computing capacity, memo shows
+
+
+## Chennai confirmed hosts of BBL 2026 opener: Renegades face Scorchers on Dec 12
+
+
+## Hong Kong exchange marks progress in luring more listings from abroad
+The Hong Kong stock exchange is drawing a growing number of foreign companies from across Asia and North America that are seeking international capital, as the bourse marks progress in its ambition to be a global magnet for fundraising. The latest firm seeking to join the cohort is Kazakhstan Temir 
+
+## Uniqlo defies sluggish China market with double-digit profit growth
+Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
 ## How the RMB Business Facility will help consolidate Hong Kong’s financial role
 Hong Kong’s updated yuan financing tool for banks, featuring a quota 150 per cent larger than before, was launched on Friday, giving a significant boost to the use of the Chinese currency in daily global business. What is the RMB Business Facility? The RMB Business Facility is a funding window run b
@@ -156,11 +156,8 @@ The streak of strong returns in the Hong Kong initial public offering (IPO) mark
 ## China’s top DRAM maker sets date for US$4.3b Shanghai IPO amid memory boom
 Chinese memory giant ChangXin Memory Technologies (CXMT) kicked off the final stage of its Shanghai listing, setting a subscription date for a share offering that is expected to raise at least 29.5 billion yuan (US$4.3 billion) and would rank as the second-largest on the tech-focused Star Market. Ch
 
-## Shares soar as recently-listed Zhipu AI and Iluvatar CoreX launch secondary placements
-Shares of Chinese artificial intelligence model developer Zhipu AI and chipmaker Iluvatar CoreX Semiconductor surged on Thursday after the tech companies launched separate secondary share placements to raise billions of Hong Kong dollars for hardware and research. Zhipu AI, which trades as Knowledge
-
-## Hong Kong stocks retreat as regional tech volatility offsets short covering
-Hong Kong stocks closed mixed on Thursday as a rally in major technology firms and solid mainland inflows offset a broader market sell-off driven by escalating Middle East tensions. The Hang Seng Index retreated 0.7 per cent to close at 24,030, reversing some of the previous session’s strong gains, 
+## Why We Know More About China’s Next-Generation Fighters Than America’s
+As internet sleuthing replaces traditional intelligence collection, one big mystery about the PLA remains.
 
 ## NATO’s Waiting Game
 Less Trump. More Europe. What’s next?
@@ -183,8 +180,11 @@ Trump calls continued peace talks a “waste of time” as strikes resume.
 ## Modi Seeks to Project Influence on Asia-Pacific Trip
 The Indian prime minister visits Indonesia, Australia, and New Zealand this week.
 
-## Propaganda Sustains Russians Fighting in Ukraine
-Belief in Kremlin narratives dehumanizes Ukrainians and sustains the will to fight.
+## Can Indo-Pacific Powers Deter China Without the US?
+The Indo-Pacific is dead; long live the Indo-Pacific.
+
+## What Did China’s Missile Test Have to Do With the Marco Polo Bridge Incident?
+A CASC poster connected the recent SLBM launch to the start of the Second Sino-Japanese War.
 
 ## A World on Fire Needs Australia’s Conflict Mediation Prowess
 Australia can help itself and its region by burnishing its credentials as a trusted international mediator.
@@ -203,12 +203,6 @@ An Indian organized crime syndicate led by Lawrence Bishnoi is being treated as 
 
 ## 1 Year On, Cambodia Is Still Feeling the Impact of USAID’s Demise
 To many in the country's development sector, the sudden collapse of the U.S. aid agency felt “like an earthquake.”
-
-## Cost of Car Ownership in Singapore Hits a New Record High
-The price of a "certificate for entitlement" for a small vehicle rose to nearly $100,000 in the latest round of bidding.
-
-## How Southeast Asia’s Tourism Sector Changed in 2025
-Thailand remains the biggest regional draw for foreign tourists, but the sector is undergoing some interesting and potentially significant shifts.
 
 ## Fraying Deals and Rising Strikes
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThree weeks after it was signed, the memorandum of understanding between the United States and Iran seems to
@@ -258,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Venezuela earthquakes toll rises to 3,889 as risk of disease grows
-The United Nations launched an appeal for roughly $300 million to assist survivors of Venezuela's earthquakes
+## Zelenskyy urges urgent efforts in Ukraine to start Patriot production
+US President Donald Trump gave his blessing earlier this week to domestic Ukrainian production of the missiles.
 
-## New Mexico accuses US Justice Department of impeding Epstein investigation
-State Attorney General Raul Torrez accused the Trump administration of withholding records, harming his investigation.
+## Iran says strikes hit southern areas, but US denies it carried attacks
+Iranian state media reported that military headquarters were hit by strikes in Bushehr province and the city of Konarak.
 
-## Waiting for Moses: Africa’s sons in Russia’s war
-Russia's war in Ukraine is leaving African families to count the cost.
+## Strait of Hormuz traffic plunges as US, Iran resume fighting
+Brent crude holds steady despite a plunge in traffic in the critical waterway.
 
-## Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal
-France beat Morocco 2-0 in quarterfinals at FIFA World Cup 2026 and will meet Spain or Belgium next.
+## Muchova beats Gauff in tie-break thriller to reach first Wimbledon final
+Muchova sets up final against compatriot Noskova, who overcame Kostyuk in the other women's semifinal.
 
-## Syria says captured Damascus bombing suspects are affiliated with ISIL
-Two explosions in the Syrian capital earlier this week came as French President Emmanuel Macron was visiting.
+## Gaza mourns aid worker killed by Israel who helped them see the World Cup
+Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.
 
-## How Strait of Hormuz dispute led to latest US-Iran cycle of fighting
-Clashing interpretations of vague memorandum of understanding language on Hormuz at heart of escalation, analysts say.
+## Can the US Supreme Court stay independent?
+Kim Wehle says rising threats against judges are eroding the rule of law.
 
-## Trump airport name change sparks backlash in Florida
-Trump airport name change sparks backlash in Florida
+## How World Bank and IMF loans are reshaping policymaking in Africa
+As debt pressures grow, African governments are reassessing the trade-offs of concessional financing.
 
-## NYT-led group asks court to sanction OpenAI in US copyright dispute
-The news firms allege ChatGPT maker is hiding evidence important to what could be landmark copyright infringement trial.
+## Britain’s likely PM says will work to ‘stop the suffering’ in Gaza
+Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.
+
+## Is India's Growth Shifting to the Next 100 Cities?
+India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
@@ -303,9 +300,6 @@ Indian companies are gearing up for a promising boost in exports to the UK as a 
 ## FPIs double down on Indian debt, keep equity bets on hold
 Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a recent rupee recovery, concerns remain a
 
-## Income tax department slaps notices on foreign investors with no earnings
-Foreign investors are receiving unexpected tax notices in India, even for transactions where no profit or dividend was earned. The tax department is initiating reassessment proceedings, questioning the absence of income tax returns for share purchases. Experts highlight that such notices, potentiall
-
 ## India consumer inflation likely topped RBI's 4% target in June: Reuters poll
 Wholesale price inflation also remained elevated despite easing slightly from the previous month. Core inflation, excluding volatile food and fuel, was expected to be around 3.95 percent. This rise could impact the central bank's future monetary policy decisions.
 
@@ -326,7 +320,4 @@ Union Finance Minister Nirmala Sitharaman on Tuesday called on the Indian toy in
 
 ## NFRA chief declines comment on Rajesh Exports' SEBI submission, says probe process is systematic
 National Financial Reporting Authority (NFRA) Chairperson Nitin Gupta on Tuesday declined to comment on claims made by Rajesh Exports regarding the submission of records to market regulator SEBI, saying the matter falls within SEBI's jurisdiction.
-
-## Sebi reintroduces open mkt share buyback from Aug 1
-Sebi has reintroduced open-market share buybacks through stock exchanges starting August 1. Companies can now repurchase their own shares using regular trading mechanisms without a dedicated window. The execution period for these buybacks is capped at sixty-six working days from the offer opening. T
 
