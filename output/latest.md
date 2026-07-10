@@ -1,73 +1,76 @@
 # AION Intelligence
 
-## Murder inquiry launched into death of former Tory minister Ann Widdecombe
+## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
 Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
+
+## UK to sign up to €60bn EU defence loan scheme for Ukraine
+Keir Starmer keen to leave Downing Street with positive signal to Europe by pledging financial commitment
+
+## ‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid
+Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival
+
+## SK Hynix’s US shares jump 14% on Nasdaq debut
+South Korean memory chipmaker’s US-listed stock price rose as high as $175 after pricing at $149
+
+## Investors sell longer-dated AI debt amid Big Tech borrowing spree
+Waning demand highlights scepticism over sector’s long-term profitability
 
 ## Trump says US has agreed to continue talks with Iran
 President declares that ceasefire is ‘over’ despite ongoing negotiations
 
-## SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs
-Leading investment platforms say banks and brokers are looking to boost retail participation in upcoming launches
+## Mass immigration is not the silver bullet economists think it is
+As with the free-trade debate in recent years, consensus is shifting
 
-## Don’t underestimate Farage in this Very British Farce
-The ‘establishment’ he is so fond of bashing must beware of playing into stereotype
+## Nato’s carnival of Trumpian caprice
+Alliance summits have become an exercise in managing an erratic US president
 
-## At least 12 people die in Spanish wildfire as heatwave grips Europe
-Alarm over summer of blazes as third wave of extreme heat hits region
+## Carmakers fight off bulk of multibillion-pound ‘diseselgate’ case
+About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
 
-## UK regulators to scrutinise top US cloud groups
-Designating Microsoft, Google, Amazon and Oracle as ‘critical third parties’ will help improve resilience, says Treasury
+## Billionaire Xavier Niel could be the jolt Vodafone needs
+Investors hope £4.4bn move for telecoms group augurs quicker and sharper improvements
 
-## Shein wins Chinese approval for long-awaited IPO
-China’s securities regulator grants permission for fast-fashion retailer to list its shares in Hong Kong after years of delays
+## Directors’ Deals: Rosebank executives add to stakes
+Purchases come after group ascended into the FTSE 250 last month
 
-## Iran is seeing through Trump’s bluff
-The US president finds himself stuck in a cul-de-sac of his own making
+## Stockpickers: BTG Consulting, Jet2, Currys
+Our experts discuss which companies to buy, sell or hold this week
 
-## Apollo trumps Castlelake with £5.7bn deal to buy easyJet
-Low-cost airline says offer ‘delivers a superior outcome for easyJet shareholders’
-
-## Inside the secretive Fifa committee that suspended the US red card
-The body that suspended US star Folarin Balogun’s ban is run by an Emirati ex-lawmaker who can make unilateral rulings
+## The superpower of public equity
+Liquidity is tempting companies back to the public markets — but it is not available to all
 
 ## Ryanair plane makes emergency landing after window breaks
 Passenger sitting next to window was nearly sucked out of Boeing 737 aircraft, according to reports
 
-## IEA warns of petrol and diesel supply crunch
-Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
+## Europe’s deadly heatwave & India’s rainfall crisis explained | EP 105 | Subramani Ra Mancombu
 
-## China successfully uses giant floating net to recover rocket booster
-State media hails successful test in step towards reusable rocket technology for space flights
 
-## The billionaire dreaming of AI data centres in the desert
-Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei
+## Ethanol blending to shield consumers from oil price shocks: Govt
+E20 only turns cheaper at $120-130 per barrel oil, but Indian crude crossed $100 only 3 times in 3 years
 
-## DGFT notifies procedure for cheaper UK car imports under new trade deal
-Under CETA, India has agreed to undertake a phased reduction of import duties on automotive imports
+## Kotak Bank has navigated challenges over the last two and a half years to emerge stronger : Chief Vaswani
+The Kotak Bank chief observed that the Bank’s structural strength lies in its diversified financial conglomerate model, which offers virtually every financial product
+
+## SP Group raises $650 million through 3-year bond at 14.5%
+The refinancing package is also expected to include a rupee-denominated component
+
+## Govt orders action against NCERT officials in paper procurement case
+The High Court granted interim relief to the paper supplier, restraining NCERT from taking coercive steps or encashing its bank guarantee ahead of the July 20 hearing
+
+## Indian Bank Q1FY27 profit up 10% at ₹3,273 crore
+Total income grew to ₹20,724 crore during the quarter, up from ₹18,721 crore in the same quarter of FY26
+
+## Rabi harvest blues: Key crops sell 3-8% below MSP as maize plummets 24%
+However, the season’s main oilseed crop, mustard, emerged as the winner.
 
 ## Edelweiss MF stops fresh inflow in 7 overseas schemes
 However, existing SIP, STPs to continue in 7 overseas schemes
 
-## Exide Industries to invest ₹1,400 crore in FY27 for lithium-ion cell plant in Bengaluru
-The plant is expected to start generating revenue from the third quarter
-
-## Bank of Maharashtra reports 27% profit increase in Q1FY27
-BoM’s net interest income was up 14.53 per cent y-o-y at Rs ₹3,770 crore (Rs ₹3,292 crore in the year ago period)
-
-## FTA, $20 billion investment top Modi’s New Zealand agenda
-PM, Luxon to discuss trade pact rollout, visa pathway and defence co-operation
-
-## Letters to the Editor dated July 10, 2026
-
-
-## Health Ministry tightens norms for high alcohol-containing drugs to prevent misuse
-Formulations containing more than 12% ethyl alcohol, in quantities exceeding 30 ml, would no longer be covered under the exemption provided to them under Schedule K
-
-## Embraer eyes 500-aircraft opportunity in India after DGCA clears E-Jet family
-Brazilian aircraft maker says certification strengthens its ability to serve regional connectivity demand and underserved city pairs
-
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## India building strategic oil reserves: ONGC board approves plan for 1.75-million-tonne storage capacity
+As the world's third-largest importer and consumer of crude oil, India relies on imports for more than 88 per cent of its crude oil requirements. Against the backdrop of geopolitical uncertainty and fluctuations in global oil markets.
 
 ## US stocks today: Market trades flat, heads towards subdued end to week; oil prices stable
 As uncertainty surrounding the strait persists, investors on Wall Street have begun shifting their attention to the upcoming earnings season, when companies will report their spring-quarter financial results.
@@ -87,8 +90,14 @@ The government has said that the Ethanol Blended Petrol (EBP) Programme is a maj
 ## India’s first hydrogen-powered train notified: Know route, launch date & what makes it special
 The government says that project underscores Indian Railways' wider focus on technological innovation, improved energy efficiency and environmentally sustainable transportation, while supporting India's national objectives on clean energy and achieving net-zero carbon emissions.
 
-## India, among world’s largest exporters of refined oil products, set to see 25% rise in petroleum product exports
-Although India imports around 90% of its crude oil requirement, it has become one of the world's largest exporters of refined petroleum products by using its large and sophisticated refineries.
+## NCERT blacklists firm, skips court date to defend decision; Pradhan orders probe
+The ministry has also asked NCERT to examine how the firm was awarded the contract for supply of Maplitho paper for academic year 2026-27
+
+## ‘No graveyard in Kashmir without Pakistani terrorists’: Hizbul Mujahideen commander's admission on cam
+Shamsheer Khan is also heard talking about the connection between Pakistan and Kashmir and says that no one can create hatred between the two regions.
+
+## 'Jammu and Kashmir is India's': Diplomat calls out 'incorrect' Indian map at Bangladesh event
+Following the objection, ambassador Tariq Karim clarified that the map was used for “representational purposes only” and “doesn't project actual boundaries”.
 
 ## Far-right protestor heckles PM Modi at Melbourne hotel, says ‘no more Indians…this country is for Australians’
 Police quickly dragged the protester away from the first-floor balcony overlooking the lobby as he continued hurling slogans.
@@ -105,37 +114,28 @@ PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tou
 ## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
 The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
-## 'BJP is scared of Prashant Kishor': Jan Suraaj after Abhishek Kumar Sinha withdraws nomination
-The reaction came after BJP's original candidate, Abhishek Kumar Sinha, withdrew his nomination a day after filing his papers, citing family reasons.
-
-## New anti-crime laws to be enforced in Bengal from July 13: CM Suvendu Adhikari
-West Bengal’s new anti-crime law, allowing preventive detention and tougher action against organised crime, will come into force from July 13.
-
-## Weather Bee: Why Meerut, Delhi rained like Mumbai this week
-Why is it more normal for the western coast to get heavy rain than for Delhi or western Uttar Pradesh? Because of the physics of rainfall.
-
-## ‘Significant deficiencies’ in Ladki Bahin scheme’s financial management: CAG
+## How severe anxiety affected Prince Narula’s health and marriage with Yuvika Chaudhary
 
 
-## BJP man drops out of Bihar bypoll race against Prashant Kishor
+## AIMIM, NCP lose one BMC corporator each after caste certificates invalidated
 
 
-## Maharashtra CM Fadnavis announces Rs 2 lakh waiver for Mahatma Phule scheme farmers
+## Trying to flee to Malaysia, key accused in Rs 12.30-lakh immigration fraud arrested
 
 
-## 53 teapots, a Chinese bed: Inside Roja actor Madhoo Shah’s stunning sea-facing home
+## Pakistan K2 Airways plane crash: More debris recovered, 5 crew still missing. What we know so far
 
 
-## UPSC Essentials daily subject quiz : Environment and Geography MCQs (Week 170)
+## Spain’s backline bulwark Pau Cubarsi will make life tough for Belgium
 
 
-## As Vijay’s Jana Nayagan eyes July 24 release, advance bookings open in the UK
+## Insolvency threat ends: NARCL buys out Metro 1 debt
 
 
-## Tuchel-ball: Special ops substitutions, internal competition for spots
+## TRAI ordered Truecaller to hide ‘Spam’ labels on 140 and 1600 numbers. Now, its CEO explains how it backfired
 
 
-## Chhattisgarh Cabinet approves Ease of Doing Business Bill 2026
+## Civic body blames rain for Moshi building collapse, demand for FIR cuts across party lines
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
@@ -186,29 +186,29 @@ Ali al-Zaidi tackles a perpetual challenge under the watchful eyes of Iraqis and
 ## Ukraine Finally Has a Theory of Victory. Will It Work?
 Kyiv has developed a strategy for winning the war. Now all it needs is time.
 
-## Thailand Needs to Soak Its Own Rich, Not Just Wealthy Tourists
-While the government focuses on burnishing its appeal to well-heeled tourists, massive holdings of Thai elite wealth remain effectively untaxed.
+## Israel’s Pivot to Asia
+Israel's reliance on longstanding partnerships with the United States and a handful of European countries is no longer sufficient. But can it build durable relationships in Asia?
 
-## Philippine Defense Chief Dismisses Chinese Scholars’ Claim Over Northernmost Province
-The scholars described the Batanes Islands as a “natural geographical extension” of Taiwan, which therefore belonged to China.
+## BNP’s First 100 Days Raise Troubling National Questions
+Political exclusion, economic uncertainty, security concerns, and diplomatic imbalance mark Prime Minister Tarique Rahman’s fledgling regime.
 
-## India and Sri Lanka’s Deep Sea Mining Deadlock
-Regional geopolitical tensions and a legal stalemate are constraining both countries' cobalt ambitions in the Afanasy Nikitin Seamount.
+## Vietnam’s Economic Statecraft in the Global Chip Race
+Hanoi is ramping up semiconductor investment, but will it succeed in boosting domestic capabilities?
 
-## Is AI Truly Transforming Work in the Asia-Pacific?
-While AI use is proliferating, it is unclear whether it is moving into the areas of the economy where most of the region’s 2 billion workers are actually employed.
+## Why Russia May Share Intelligence – Not Satellites – With North Korea
+Rather than helping North Korea build military satellites, what if Moscow simply shares the intelligence collected by its existing satellite network?
 
-## ASEAN Foreign Ministers to Meet Myanmar Foreign Minister This Weekend
-Tin Maung Swe is likely to press the case for diplomatic normalization between ASEAN and the military-backed government in Naypyidaw.
+## Why Kazakhstan Is Changing Where Its History Begins
+Under Tokayev, Kazakhstan is reshaping its official understanding of statehood, extending the country's historical narrative centuries beyond independence
 
-## Can Indo-Pacific Powers Deter China Without the US?
-The Indo-Pacific is dead; long live the Indo-Pacific.
+## Modi in Melbourne: Wide-ranging Australia-India Cooperation Deepens
+The contemporary Australia-India relationship is built on an increasingly interconnected web of institutional cooperation.
 
-## What Did China’s Missile Test Have to Do With the Marco Polo Bridge Incident?
-A CASC poster connected the recent SLBM launch to the start of the Second Sino-Japanese War.
+## Tibet’s Role in China’s Green Energy Supply Chain
+Tibet stands at the forefront of China’s wind, solar, and hydropower. But the Tibetan people have no say over how their resources are used.
 
-## A World on Fire Needs Australia’s Conflict Mediation Prowess
-Australia can help itself and its region by burnishing its credentials as a trusted international mediator.
+## The Power Struggle at the Heart of Nepal’s Ruling Party
+Differences between Prime Minister Balendra Shah and RSP chief Rabi Lamichhane, two politicians with competing centers of authority, were inevitable.
 
 ## Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore
 When the United States and Iran announced their framework agreement on June 15, attention focused on the direct U.S.-Iran dimensions of the deal, including the reopening of the Strait of Hormuz, the lifting of the U.S. naval blockade, and the fate of Iran’s nuclear program. But the agreement also in
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian attacks kill four as Ukraine continues to target oil infrastructure
+Ukrainian official says Russia's attack on Kramatorsk kills four, including a teenager, and injures nine.
+
+## Hundreds give hero’s welcome to Egypt after best World Cup run
+Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.
+
+## Trump hints at further Iran negotiations after exchange of fire over Hormuz
+Iran has not responded to Trump's latest claim, which comes as new attacks threaten the full resumption of war.
+
+## Who is Fadel Shaker? Lebanese pop star released on bail
+In 2012, singing star Shaker quit his music career, before being accused of joining an armed group in Lebanon.
+
+## Ruthless Zverev spoils Fery’s Wimbledon dream to power into final
+Alexander Zverev will face reigning Wimbledon champion Jannik Sinner or seven-time winner Novak ​Djokovic in the final.
+
+## Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week
+The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.
+
 ## Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal
 Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.
 
 ## Trump refuses to sign US housing bill over voting act standoff
 The housing legislation will become US law at midnight with or without President Donald Trump's signature.
-
-## Family mourns baby after Israeli forces blocked journey to hospital
-Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.
-
-## The search for Gaza’s missing brings heartbreak and closure for loved ones
-Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.
-
-## Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply
-Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.
-
-## Israeli drones strike Lebanon despite US-brokered framework deal
-The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.
-
-## Super typhoon as wide as France heads to East Asia
-As Super Typhoon Bavi approaches, residents in Taiwan, Japan and China have been stockpiling supplies.
-
-## Ukrainian court detains alleged killers of Monaco bomb attack suspect
-Motives for the killing of Anastasiia Berezovska remain unclear as the unfolding saga grips both countries.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
@@ -306,6 +306,9 @@ Indian companies are gearing up for a promising boost in exports to the UK as a 
 ## FPIs double down on Indian debt, keep equity bets on hold
 Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a recent rupee recovery, concerns remain a
 
+## India-UK FTA: Pharma industry flags regulatory priorities ahead of July 15 rollout
+Industry stakeholders expect stronger trade, investment, and research partnerships but say implementation clarity will determine the pact’s long-term impact.
+
 ## SEBI bars Osiajee Texfab in manipulation probe
 SEBI has barred Osiajee Texfab from trading shares. The regulator found a coordinated scheme to artificially inflate the company's stock price. Evidence showed a nearly tenfold surge in share value despite negligible textile revenue. Investigations revealed synchronised trades and financial linkages
 
@@ -323,7 +326,4 @@ India's central bank has reiterated its preference for a cryptocurrency policy "
 
 ## SEBI shifts FPI registration fees from US dollar to rupee denomination
 The Securities and Exchange Board of India (SEBI) has notified amendments to the Foreign Portfolio Investors (FPI) Regulations, replacing the US dollar-denominated fee structure with a rupee-denominated payment mechanism for foreign investors and foreign venture capital investors (FVCIs).
-
-## Smartphone PLI plan exceeds targets, value addition quadruples: Industry informs Centre
-The industry told commerce minister Piyush Goyal that the scheme had exceeded all its targets with production more than doubling to $71 billion in FY26 from $30 billion in FY20 and exports rising 10 times to $29.4 billion from $3 billion.
 
