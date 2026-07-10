@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## Apple sues OpenAI alleging theft of top-secret information
+Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley
+
+## US relaxes export controls on advanced chips and drones for UAE
+Gulf state will receive access to sophisticated American technology
+
 ## US sends team to Beirut to shore up Israel-Hizbollah ceasefire
 Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
-
-## Apple sues OpenAI, alleging it stole top-secret information
-Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley
 
 ## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
 Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
@@ -20,9 +23,6 @@ Alarm over summer of blazes as third wave of extreme heat hits region
 
 ## US senators strike deal with White House to tighten Russia sanctions
 Potential breakthrough comes days after Donald Trump signalled shift towards more support for Kyiv
-
-## UK to sign up to €60bn EU defence loan scheme for Ukraine
-Keir Starmer keen to leave Downing Street with positive signal to Europe by pledging financial commitment
 
 ## Carmakers fight off bulk of multibillion-pound UK ‘dieselgate’ case
 About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
@@ -111,6 +111,12 @@ PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tou
 ## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
 The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
+## Narendra Modi first Indian PM to visit New Zealand in 40 years, trade and sports top agenda
+
+
+## Government panel wants ban on Satluj to stay, says film whitewashes terror
+
+
 ## Sarvesh Kushare becomes first Indian to finish in top 3 on Diamond League debut
 
 
@@ -127,12 +133,6 @@ The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantan
 
 
 ## AIMIM, NCP lose one BMC corporator each after caste certificates invalidated
-
-
-## Trying to flee to Malaysia, key accused in Rs 12.30-lakh immigration fraud arrested
-
-
-## Pakistan K2 Airways cargo plane crash: More debris found, 5 crew still missing. What we know so far
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Colombia’s Jaminton Campaz receives death threats after World Cup exit
+Campaz was threatened after failing to score in the last-16 match against Switzerland, which Colombia lost on penalties.
+
+## Under Lula, Amazon deforestation falls to lowest level in a decade
+The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.
+
+## Canada’s Bill C-36 tackles AI privacy. Is it enough?
+Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.
+
 ## Spain leave it late to book semifinal date with France
 Mikel Merino comes off the bench to break Belgian hearts after slip from sub keeper Senne Lammens.
 
@@ -269,15 +278,6 @@ Sandra Wong did not know her great-grandfather growing up. But his legacy would 
 
 ## Ukrainian attacks cause chaos at fuel stations across Russia
 Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.
-
-## Donald Trump removes final members of independent US election commission
-The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.
-
-## Egypt World Cup team return home to hero’s welcome after historic run
-Egypt’s squad has returned home to a hero’s welcome following their controversial exit from the World Cup.
-
-## Why are politicians and sanctioned states embracing crypto?
-Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
