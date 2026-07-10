@@ -39,9 +39,6 @@ Purchases come after group ascended into the FTSE 250 last month
 ## Stockpickers: BTG Consulting, Jet2, Currys
 Our experts discuss which companies to buy, sell or hold this week
 
-## The superpower of public equity
-Liquidity is tempting companies back to the public markets — but it is not available to all
-
 ## Europe’s deadly heatwave & India’s rainfall crisis explained | EP 105 | Subramani Ra Mancombu
 
 
@@ -258,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Spain leave it late to book semifinal date with France
+Mikel Merino comes off the bench to break Belgian hearts after slip from sub keeper Senne Lammens.
+
+## Dozens of abducted schoolchildren and teachers rescued in Nigeria
+The hostages were taken from three separate schools in the southwestern state of Oyo in May.
+
 ## Lebanon historic sites destroyed by Israeli strikes
 Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.
 
@@ -275,12 +278,6 @@ Egypt’s squad has returned home to a hero’s welcome following their controve
 
 ## Why are politicians and sanctioned states embracing crypto?
 Bitcoin is falling, yet cryptocurrency is spreading beyond investing into politics, sanctions and global finance.
-
-## What happened at France v Morocco
-France faced Morocco in a rematch of the 2022 World Cup semi-final.
-
-## EU says ‘addictive’ features on Instagram and Facebook breach its rules
-Bloc says some design features on platforms built by Meta can cause users' brains to go into 'autopilot mode'.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
