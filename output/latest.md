@@ -1,61 +1,70 @@
 # AION Intelligence
 
+## At least 12 people die in Spanish wildfire as heatwave grips Europe
+Alarm over summer of blazes as third wave of extreme heat hits region
+
+## FirstFT: SK Hynix completes biggest US IPO by a foreign company
+Also in today’s newsletter: Mervyn King picked for Fed reform and Spanish forest fires kill 12
+
+## Have you joined the tartan army?
+21 ways to find your clan
+
+## EU warns Meta over Facebook and Instagram’s addictive feeds
+Brussels says tech group has failed to adequately assess and mitigate risks that could have a negative impact on users
+
 ## IEA warns of petrol and diesel supply crunch
 Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
 
-## EasyJet: the orange upstart that changed flying prepares to go private
-Pivotal moment for Europe’s low-cost pioneer as US suitors circle
+## Japan sheds ties as price index shake-up reflects changing habits
+Revision of inflation ‘basket’ ditches office wear in favour of protein powder and pet insurance
 
-## At least 12 die in Spanish wildfire as heatwave grips Europe
-Alarm over summer of blazes as third wave of extreme heat hits region
+## Bayer sells stake in contraceptives business to Apollo in €3bn financing deal
+Sale will help German pharmaceuticals group to bolster its balance sheet after years of litigation over Roundup weedkiller
 
-## SK Hynix raises $26.5bn in US market debut
-South Korean memory chipmaker completes largest-ever US listing by a foreign company
+## Skills are shaping up to be Burnham’s next crusade
+Whether it’s good public transport or young people’s futures, he knows where to make government matter to voters
 
-## Former Conservative minister Ann Widdecombe dies aged 78
-MP was a fervent supporter of Brexit and held ministerial roles under John Major before eventually backing Nigel Farage
+## The billionaire dreaming of AI data centres in the desert
+Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei
 
-## Erika McEntarfer: ‘You really can just fire the BLS commissioner’
-The former labour statistics chief on the fragility (and strength) of US economic data
-
-## New EU ‘scale-up’ fund expects to burst past its €5bn target size
-Also in this newsletter: IEA urges Brussels to reconsider its opposition to Arctic oil and gas exploration
-
-## FirstFT: US AI models sold to blacklisted Chinese groups
-Also in today’s newsletter: Mervyn King picked for Fed reform and largest US listing by foreign group
-
-## Apollo trumps Castlelake with £5.7bn deal to buy easyJet
-Low-cost airline says offer ‘delivers a superior outcome for easyJet shareholders’
+## The fastest way to find out the World Cup score? Old-fashioned radio
+BBC and ITV are exploring tech advances to cut down lags that have frustrated viewers of sporting events
 
 ## French billionaire Xavier Niel becomes Vodafone’s top shareholder
-Niel’s Vega entity acquired £4.4bn stake from Emirati group e&
+Analysts expect Niel to push for cost cuts at UK company after his Vega entity acquired £4.4bn stake from Emirati group e&
 
-## Wall Street’s giant memory windfall
-The blockbuster listing of South Korean chipmaker SK Hynix could earn investment bankers nine figures in fees
+## Delta reports record demand but falling profits as fuel costs hit results
+Iran war drove jet fuel costs 77% higher than year-ago levels in preview of wider knock to US corporate profits
 
-## American climate body NOAA sees 81% chance of a very strong El Niño by year-end
-With a 97% probability, El Niño is expected to remain active through early 2027, says the US weather body
+## Argentina envoy says India has become country’s 6th-largest economic partner
+Economic relationship between the two countries reached almost $6 billion in 2025, says Argentine Ambassador to India Mariano Caucino
 
-## Sensex today | Stock Market Live Updates: Sensex up 700 pts, Nifty up 206 pts and trades at 24,169.50; Jio Finance, HDFC Life, Infosys top gainers
-Stock Market Live: Of 4,211 stocks traded on the BSE, 2,786 advanced against 1,222 declines, with 203 unchanged
+## EU demands Facebook, Instagram dismantle ‘addictive’ design features
+Meta “needs to implement design changes” to Instagram and Facebook, such as disabling “key addictive features” like autoplay, infinite scroll so they're not turned on by default, the European Commission has said
 
-## Silver futures decline to ₹2.24 lakh/kg
-On MCX, silver contracts for September delivery declined by ₹1,934, or 0.85 per cent, to ₹2,24,443 per kg in a business turnover of 2,345 lots.
+## NABARD facilitates GI registration for 28 new products
+Bamboo craft from Assam, Himachal wood carving are among the new products that are GI registered
 
-## YES Bank: Positive rating upgrades reflect sustained strengthening of credit profile
-Credit rating agencies such as S&P, Moody’s, ICRA and CareEdge have affirmed or upgraded the lender’s ratings, citing stronger fundamentals and a stable outlook.
+## Milky Mist eyes ₹2,035-crore IPO by July-end
+The proposed offering comprises a fresh issue of shares worth as much as ₹1,785 crore and an offer for sale of up to ₹250 crore by founders, according to the draft prospectus.
 
-## Sheikh Hasina plans December return to Bangladesh to surrender
-“They may arrest me on my return, they may even kill me,” Hasina, 78, said she and senior Awami League leaders plan to return from exile in India despite facing a death sentence
+## Advait Energy secures over ₹251 crore power infrastructure orders in Gujarat
+The contracts involve converting 11 kV HT and LT overhead power line networks into underground cable networks at various locations across Gujarat.
 
-## Gold futures drop to ₹1,44,670/10g
-On the Multi Commodity Exchange, August gold contracts fell by Rs 630, or 0.43%, to Rs 1,44,670 per 10 grams, with a turnover of 975 lots
+## Google challenges Delhi HC ruling over use of trademark for AdWords
+The tech giant seeks a stay on the single judge order which directed Google to pay ₹30 lakh as damages to Hindware for using its trademark as keywords for its AdWords Programme
 
-## Health Ministry tightens norms for high alcohol-containing drugs to prevent misuse
-Formulations containing more than 12% ethyl alcohol, in quantities exceeding 30 ml, would no longer be covered under the exemption provided to them under Schedule K
+## Ayushman Bharat Digital Mission crosses 93.95 crore health accounts: Centre
+India’s Ayushman Bharat Digital Mission has linked 105 crore health records and enrolled over 5.33 lakh health facilities, marking a major digital healthcare milestone
 
-## Garware Fulflex Completes Acquisition of 300,000-Square-Foot Fully Automated Medical Products Manufacturing Facility in The United States
-Garware Fulflex Completes Acquisition of 300,000-Square-Foot Fully Automated Medical Products Manufacturing Facility in The United States
+## Are the markets witnessing ‘AI fatigue’? Jefferies says US tech earnings to test investment cycle
+Report says investors now focused on quarterly results of four major US hyperscalers - Alphabet, Amazon, Meta and Microsoft
+
+## Reverse oil flow: India supplies gasoline to Russia - why it matters
+Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## India’s first hydrogen-powered train notified: Know route, launch date & what makes it special
+The government says that project underscores Indian Railways' wider focus on technological innovation, improved energy efficiency and environmentally sustainable transportation, while supporting India's national objectives on clean energy and achieving net-zero carbon emissions.
 
 ## India, among world’s largest exporters of refined oil products, set to see 25% rise in petroleum product exports
 Although India imports around 90% of its crude oil requirement, it has become one of the world's largest exporters of refined petroleum products by using its large and sophisticated refineries.
@@ -75,59 +84,62 @@ A weaker monsoon poses risks to India's rural economy and farm incomes. This cou
 ## Top shares to buy: Stock recommendations for today - check list
 Stock market recommendations: Bharti Airtel, and HDFC Bank - these are the top 2 stocks that Bajaj Broking Research has recommended for buying on July 10, 2026:
 
-## Gold, silver rate today: Yellow metal steadies; silver tumbles
+## Why ‘Satluj’ stopped being just a film
+How Satluj, the Jaswant Singh Khalra biopic stalled over CBFC objections, became India's latest symbol of film censorship after its ZEE5 block.
+
+## Maha BJP leader admits 'our own government's delay' in conferring Bharat Ratna on Savarkar
+Earlier, in March, Mungantiwar had moved a resolution in the assembly seeking the posthumous conferment Bharat Ratna on Vinayak Damodar Savarkar.
+
+## ‘Blind spots, unqualified teachers’: Fresh revelations in Jaipur Class 4 student suicide
+The family alleges that the fresh CCTV footage from inside the class supports their claim that their daughter was bullied shortly before the incident.
+
+## Baba Barfani ice lingam melts over 90% just days into Amarnath Yatra: ‘Climate change is reason’
+The Amarnath Yatra began on July 3 this year under unprecedented security following the April 2025 Pahalgam terror attack that killed 26 civilians.
+
+## PM Modi's special, framed gift for cricket legend Steve Waugh during Australia trip
+Prime Minister Narendra Modi highlighted India and Australia's deep sporting bond and expressed delight at witnessing young talent in action at MCG
+
+## Bhilai Steel Plant GM among 2 BSP staff arrested in iron scrap theft case: Police
+Police arrested two Bhilai Steel Plant employees, including a general manager, in an alleged iron scrap theft racket. The total arrests in the case have risen to 15.
+
+## PM Modi ‘famously avoids’ press conferences: Aussie journo's quip in Melbourne reignites issue | Watch
+Remark renewed attention to issue that surfaced during Modi's visits abroad — such as in Norway earlier this year — as well as in domestic politics
+
+## Delhi HC upholds Rajpal Yadav's conviction in cheque bounce case, cuts jail term to 3 months
+The Delhi High Court has upheld Rajpal Yadav's conviction in a cheque bounce case, while reducing his jail sentence.
+
+## Bengaluru woman stabbed by ex-boyfriend after refusing to marry him
 
 
-## Crude dips but eyes weekly gain as US-Iran conflict stokes supply fears
-Oil prices saw a slight decrease but are set for significant weekly gains. Renewed military exchanges between the United States and Iran kept crude supply concerns elevated. The conflict has delayed the reopening of the Strait of Hormuz, a critical energy chokepoint. Worries over slowing global dema
-
-## 40-foot illegal pipeline found linked to IOCL crude oil line in Rajasthan: Police
-IOCL detected an abnormal pressure drop before discovering a 40-foot illegal pipeline connected to its crude oil network in Rajasthan’s Tonk district.
-
-## ‘Terror group trainer’ Matthew Aaron VanDyke seeks ‘American-style diet’ as Tihar Jail food ‘too spicy, oily’
-Plea seeks items such as pasta, chicken, fish, olive oil; VanDyke and 6 Ukrainians were arrested in March for allegedly training anti-India terror groups
-
-## ‘Was there enough police?’: Vijay slams 'political mileage' in first Karur visit as Tamil Nadu CM after stampede
-'Lost children of our sisters': Vijay during first Karur visit after becoming Tamil Nadu CM
-
-## Child found facedown, lifeless: Ghaziabad rain kills 3-year-old outside her own house; locals protest
-Heavy rainfall in Ghaziabad and Noida resulted in at least three deaths on Thursday, including that of a three-year-old girl who drowned outside her house.
-
-## How BSNL's new ₹1.34 lakh satellite phone can make calls without mobile towers
-In a post on X (formerly Twitter), state-run BSNL informed about the satellite phone and stated that it is priced at ₹1,34,166 apiece, including all taxes.
-
-## Govt says E25 only being tested for now: All your questions on ethanol-blended fuel answered
-From mileage loss to fuel-cap stickers, everything you need to know about E10, E20, E85 and the E25 plan.
-
-## Couple held for involvement in killing of 6 Nagas in ethnic violence-hit Manipur
-The six were among 20 Nagas abducted in Leilon Vaiphei village in the aftermath of a twin ambush in Kangpokpi and Noney districts
-
-## Chhattisgarh girl accused of shoplifting dies by suicide, three booked: Police
-Police said the girl and her sister were at a supermarket on July 7 to purchase household items when they were accused of shoplifting
-
-## Beyond Curry, Cricket and Commonwealth: What I learnt about the depth of India-Australia partnership on Australian soil
+## Rajpal Yadav claimed he had ‘Rs 1200 cr worth of work’ before getting 3 month prison sentence
 
 
-## Watch: Indonesian farmer rides giant drone across field, goes viral
+## Railway Board approves 4 new trains, extends one service; check routes, stations and stops
 
 
-## The Odyssey: Tickets at Rs 3100, IMAX venues full; Nolan to attend Mumbai premiere
+## Madhavan rejected Vijay’s 3 Idiots remake: ‘Shankar called it a quickie, rang alarm bells’
 
 
-## CBI says Mahadev App ‘one of largest illegal betting syndicates in the country’
+## OpenAI to shut down ChatGPT Atlas browser: Here’s why
 
 
-## 53% of Indians bought a new smartphone early due to broken glass: Corning study
+## Lonavala landslides: Central Railway cancels 30 trains till July 17, Deccan Queen hit
 
 
-## Switzerland’s invisible empire in India: The story behind Voltas
+## Black SUV, filmed attack, London handler: Inside Gurgaon’s 40-minute shootout
 
 
-## Turkey’s gift to NATO leaders had security and customs teams scrambling. Here’s why
+## Rima Kallingal on her chenda arangetram: ‘Learning a new art changed my life’
 
 
-## ‘This is the transition phase’: Shreyas Iyer blames inexperience after India’s another T20I series loss
+## Hong Kong keeps tight grip on housing land supply despite property rebound
+Hong Kong’s government will release just one residential site for sale in the July to September quarter, maintaining a cautious approach even as the housing market rebounds, while officials argue that supply from other channels will keep the city on track to meet its housing targets. A 5,170-square-
 
+## Why Payward chose Hong Kong to be its Asian stablecoin gateway
+With its multi-currency advantages and regulatory clarity, Hong Kong has become a critical gateway connecting stablecoins – cryptocurrencies pegged to a stable asset like the US dollar – with traditional finance. Executives said this would help businesses cut costs, lower risks and support expansion
+
+## Nvidia gets China boost, Iran ceasefire breaks, GDP release
+China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is among select businesses that will be eligible to buy H200s, Nvidia’s second-bes
 
 ## China’s appeal as portfolio diversifier grows, BlackRock strategist says
 China is increasingly being viewed by global investors as not only a growth opportunity but also a potential portfolio diversifier, as higher inflation, market volatility and changing correlations challenge traditional asset-allocation strategies, according to BlackRock’s global chief investment str
@@ -143,15 +155,6 @@ Hong Kong’s updated yuan financing tool for banks, featuring a quota 150 per c
 
 ## At high-end Hong Kong hotels, rates check in above pre-pandemic highs, outpace market
 Hong Kong’s luxury hotels have outpaced the city’s broader hospitality market since last year, with their room rates exceeding 2018 levels as demand recovers, according to a report by global property consultancy Jones Lang LaSalle (JLL). Citing official tourism figures, JLL said high-end properties 
-
-## Bruce Rockowitz Sees Al as Growth Engine for Wellness, Dining and Media Businesses
-[The content of this article has been produced by our advertising partner.] Artificial intelligence is rapidly moving from experimentation to execution, and business veteran Bruce Rockowitz believes the technology could become a critical competitive advantage across industries ranging from wellness 
-
-## Xiaomi preps for fierce EV race with new SUV line, long-range battery tech
-Xiaomi, the smartphone vendor that has become one of Tesla’s biggest challengers in mainland China after entering the electric vehicle (EV) market, has doubled down on research and development to combat a slowdown in domestic sales. The Beijing-based tech giant announced on Thursday it would assembl
-
-## Small-cap IPOs struggle in Hong Kong amid lack of AI megadeals
-The streak of strong returns in the Hong Kong initial public offering (IPO) market has ended, as smaller companies face a liquidity squeeze and the broader market chases mega-deals like Zhipu AI instead. Of the 13 IPOs that debuted this week, five broke below their issue prices on day one, including
 
 ## Why We Know More About China’s Next-Generation Fighters Than America’s
 As internet sleuthing replaces traditional intelligence collection, one big mystery about the PLA remains.
@@ -177,6 +180,21 @@ Trump calls continued peace talks a “waste of time” as strikes resume.
 ## Modi Seeks to Project Influence on Asia-Pacific Trip
 The Indian prime minister visits Indonesia, Australia, and New Zealand this week.
 
+## Thailand Needs to Soak Its Own Rich, Not Just Wealthy Tourists
+While the government focuses on burnishing its appeal to well-heeled tourists, massive holdings of Thai elite wealth remain effectively untaxed.
+
+## Philippine Defense Chief Dismisses Chinese Scholars’ Claim Over Northernmost Province
+The scholars described the Batanes Islands as a “natural geographical extension” of Taiwan, which therefore belonged to China.
+
+## India and Sri Lanka’s Deep Sea Mining Deadlock
+Regional geopolitical tensions and a legal stalemate are constraining both countries' cobalt ambitions in the Afanasy Nikitin Seamount.
+
+## Is AI Truly Transforming Work in the Asia-Pacific?
+While AI use is proliferating, it is unclear whether it is moving into the areas of the economy where most of the region’s 2 billion workers are actually employed.
+
+## ASEAN Foreign Ministers to Meet Myanmar Foreign Minister This Weekend
+Tin Maung Swe is likely to press the case for diplomatic normalization between ASEAN and the military-backed government in Naypyidaw.
+
 ## Can Indo-Pacific Powers Deter China Without the US?
 The Indo-Pacific is dead; long live the Indo-Pacific.
 
@@ -185,21 +203,6 @@ A CASC poster connected the recent SLBM launch to the start of the Second Sino-J
 
 ## A World on Fire Needs Australia’s Conflict Mediation Prowess
 Australia can help itself and its region by burnishing its credentials as a trusted international mediator.
-
-## Why Is the India-US Bilateral Trade Agreement Still On Hold?
-Conflicting domestic economic policies, sudden judicial disruptions, and fresh American tariff investigations have upended the India-U.S. trade deal.
-
-## India’s Indo-Pacific Strategy Is a Search for Options, Not Substitutes
-New Delhi wants more capitals it can call on, not fewer.
-
-## Ayodhya’s Ram Temple, Narendra Modi’s Pet Project, is Mired in Corruption
-Devotees’ donations have allegedly been siphoned away under the watch of Sangh Parivar leaders. With elections in Uttar Pradesh due next year, the BJP has swung into damage control mode.
-
-## India’s Organized Crime is No Longer Merely an Indian Problem
-An Indian organized crime syndicate led by Lawrence Bishnoi is being treated as a transnational security threat requiring coordinated international action.
-
-## 1 Year On, Cambodia Is Still Feeling the Impact of USAID’s Demise
-To many in the country's development sector, the sudden collapse of the U.S. aid agency felt “like an earthquake.”
 
 ## Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore
 When the United States and Iran announced their framework agreement on June 15, attention focused on the direct U.S.-Iran dimensions of the deal, including the reopening of the Strait of Hormuz, the lifting of the U.S. naval blockade, and the fate of Iran’s nuclear program. But the agreement also in
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Bodies found in cars as deadly Spain wildfire kills at least 12
-Bodies found in cars as deadly Spain wildfire kills at least 12
+## Pride despite defeat as Morocco’s World Cup run ends
+Pride despite defeat as Morocco's World Cup run ends
 
-## Administration without sovereignty will not free Palestine
-The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.
+## Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know
+McGregor, who won the first bout against Holloway in 2013, has not fought in the Octagon since July 2021.
 
-## Bayeux Tapestry smuggled into Britain for first visit in 1,000 years
-The loan of the artwork is seen as symbolic of French-British relations as London works to mend ties post-Brexit.
+## How an Egypt-Argentina World Cup game became a referendum on Palestine
+Contested calls and rival flags showed how Palestine now shapes debates over power and fairness in sport.
 
-## England vs Norway: All to know ahead of FIFA World Cup quarterfinal
-Haaland vs Kane and other key factors before World Cup 2026 showdown between England and Norway in Miami.
+## Fall in funding cuts aid to 1 million women: UN
+The US was the first to slash billions in foreign assistance in 2025, but other major donors have followed suit.
 
-## Wildfires in southern Spain kill at least 12
-Andalusia's deadliest fire comes as heatwaves across Europe have left swaths of the continent highly vulnerable.
+## How Hamas Governed Gaza
+Hamas is dissolving its government and handing power over to a new technocratic administration.
 
-## The US is building a new pressure architecture against Iran
-Trump’s NATO diplomacy is part of a wider effort to weaken Tehran by reshaping the region around it.
+## India is becoming a shaping power
+Modi’s tour of Indonesia, Australia and New Zealand reveals a broader Asia Pacific strategy.
 
-## ‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams
-Morocco came to the quarterfinal with high hopes and revenge on their minds, only to be met with the in-form team.
+## UK police confront Morocco fans over unrest after World Cup loss
+UK police confront Morocco fans over unrest after World Cup loss
 
-## South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO
-South Korean chip giant makes largest-ever debut by a foreign firm in the US, eclipsing Alibaba's 2014 IPO.
+## EU states do not need ‘consensus’ to hold Israel accountable
+As foreign ministers meet on Gaza and the West Bank, national governments cannot hide behind EU paralysis.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
