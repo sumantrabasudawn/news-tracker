@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## At least 12 people die in Spanish wildfire as heatwave grips Europe
+Alarm over summer of blazes as third wave of extreme heat hits region
+
+## US senators strike deal with White House to tighten Russia sanctions
+Potential breakthrough comes days after Donald Trump signalled shift towards more support for Kyiv
+
+## US sends team to Beirut to shore up Israel-Hizbollah ceasefire
+Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
+
 ## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
 Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
 
@@ -14,15 +23,6 @@ South Korean memory chipmaker’s US-listed stock price rose as high as $175 aft
 
 ## Investors sell longer-dated AI debt amid Big Tech borrowing spree
 Waning demand highlights scepticism over sector’s long-term profitability
-
-## Trump says US has agreed to continue talks with Iran
-President declares that ceasefire is ‘over’ despite ongoing negotiations
-
-## Mass immigration is not the silver bullet economists think it is
-As with the free-trade debate in recent years, consensus is shifting
-
-## Nato’s carnival of Trumpian caprice
-Alliance summits have become an exercise in managing an erratic US president
 
 ## Carmakers fight off bulk of multibillion-pound ‘diseselgate’ case
 About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
@@ -114,6 +114,15 @@ PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tou
 ## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
 The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
+## How Sinner outclassed Djokovic to seal 2nd consecutive Wimbledon final spot
+
+
+## Smriti Mandhana shines with 83 as India bowled out for 285
+
+
+## Modi, Albanese announce Big Bash League opener in Chennai
+
+
 ## How severe anxiety affected Prince Narula’s health and marriage with Yuvika Chaudhary
 
 
@@ -127,15 +136,6 @@ The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantan
 
 
 ## Spain’s backline bulwark Pau Cubarsi will make life tough for Belgium
-
-
-## Insolvency threat ends: NARCL buys out Metro 1 debt
-
-
-## TRAI ordered Truecaller to hide ‘Spam’ labels on 140 and 1600 numbers. Now, its CEO explains how it backfired
-
-
-## Civic body blames rain for Moshi building collapse, demand for FIR cuts across party lines
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
@@ -162,29 +162,29 @@ The Hong Kong stock exchange is drawing a growing number of foreign companies fr
 ## Uniqlo defies sluggish China market with double-digit profit growth
 Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
+## The CIA’s First Failed Coup
+Kim Philby, parachute drops, and what really happened in communist Albania.
+
+## Surviving an Oil Spill in Louisiana, and More New Fiction for July
+Stephanie Soileau’s ‘Should the Waters Take Us’ depicts a Cajun community in Louisiana.
+
+## A World of Scams
+‘The Yahoo Boys’ shows how con artists can be victims too.
+
+## Are Movies to Blame?
+A renowned film historian asks if moving pictures led us to something rotten.
+
+## How Ukraine Figured Out Trump World
+Former Ukrainian Foreign Minister Dmytro Kuleba on the White House’s seeming change in tone toward Kyiv.
+
+## What in the World?
+Test yourself on the week of July 4: China test-fires a missile, the Philippines begins an impeachment trial, and Turkey hosts the NATO leaders’ summit.
+
 ## Is Ukraine’s Decentralized Drone Innovation a Blip or a Revolution?
 Weapons reworked on the front are driving Kyiv’s recent successes.
 
 ## What the World Cup Meant to Mexico
 The country is done hosting the tournament, but it will remember the “collective joy.”
-
-## Why Netanyahu Is Crying Wolf on Turkey
-Election politics give the Israeli leader an incentive to inflate the threat.
-
-## Why We Know More About China’s Next-Generation Fighters Than America’s
-As internet sleuthing replaces traditional intelligence collection, one big mystery about the PLA remains.
-
-## NATO’s Waiting Game
-Less Trump. More Europe. What’s next?
-
-## U.S., Iran Return to the Brink of All-Out War
-As both sides intensify strikes, future peace talks appear uncertain.
-
-## Will Iraq’s New Prime Minister Really Take On Corruption?
-Ali al-Zaidi tackles a perpetual challenge under the watchful eyes of Iraqis and Washington.
-
-## Ukraine Finally Has a Theory of Victory. Will It Work?
-Kyiv has developed a strategy for winning the war. Now all it needs is time.
 
 ## Israel’s Pivot to Asia
 Israel's reliance on longstanding partnerships with the United States and a handful of European countries is no longer sufficient. But can it build durable relationships in Asia?
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russian attacks kill four as Ukraine continues to target oil infrastructure
-Ukrainian official says Russia's attack on Kramatorsk kills four, including a teenager, and injures nine.
+## What happened at France v Morocco
+France faced Morocco in a rematch of the 2022 World Cup semi-final.
 
-## Hundreds give hero’s welcome to Egypt after best World Cup run
-Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.
+## EU says ‘addictive’ features on Instagram and Facebook breach its rules
+Bloc says some design features on platforms built by Meta can cause users' brains to go into 'autopilot mode'.
 
-## Trump hints at further Iran negotiations after exchange of fire over Hormuz
-Iran has not responded to Trump's latest claim, which comes as new attacks threaten the full resumption of war.
+## Witnesses contest the Trump administration’s account of Texas ICE killing
+Those present say Lorenzo Salgado Araujo did not ram or 'weaponise' his vehicle, as the US government claimed.
 
-## Who is Fadel Shaker? Lebanese pop star released on bail
-In 2012, singing star Shaker quit his music career, before being accused of joining an armed group in Lebanon.
+## Can the agreement between Iran and the US be rescued?
+Latest attacks jeopardise ceasefire and memorandum of understanding.
 
-## Ruthless Zverev spoils Fery’s Wimbledon dream to power into final
-Alexander Zverev will face reigning Wimbledon champion Jannik Sinner or seven-time winner Novak ​Djokovic in the final.
+## Eliminated Morocco turn attention to cohosting 2030 World Cup
+Morocco were eliminated from the 2026 World Cup by a 2-0 defeat by France in the quarterfinals, but host next edition.
 
-## Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week
-The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.
+## Clinical Sinner demolishes Djokovic to set up Wimbledon final with Zverev
+Sinner is targeting his fifth Grand Slam title, which would bring him within two of the tally of rival Carlos Alcaraz.
 
-## Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal
-Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.
+## Indian cricket board to review T20 team’s ‘bad phase’ after England defeats
+India slumped to a nine-wicket defeat in the fourth T20 against England, following a 2-0 series whitewash in Ireland.
 
-## Trump refuses to sign US housing bill over voting act standoff
-The housing legislation will become US law at midnight with or without President Donald Trump's signature.
+## UK police arrest man suspected of murdering former MP Ann Widdecombe
+Reform UK politician Widdecombe, 78, was found dead at her home on Thursday with serious injuries.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
