@@ -1,70 +1,82 @@
 # AION Intelligence
 
-## IEA warns of petrol and diesel supply crunch
-Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
+## Murder inquiry launched into death of former Tory minister Ann Widdecombe
+Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
 
-## Farage in a fix; Burnham unbeatable
-Plus: Starmer’s swansong summit in Ankara
+## Trump says US has agreed to continue talks with Iran
+President declares that ceasefire is ‘over’ despite ongoing negotiations
 
-## Classicist Emily Wilson: ‘Odysseus is a different kind of conman’
-The acclaimed translator who helped to inspire Christopher Nolan’s new film on the resonance of Homer’s epics — and which Greek hero Donald Trump most resembles
+## SpaceX listing ‘lays groundwork’ to attract UK retail investors to IPOs
+Leading investment platforms say banks and brokers are looking to boost retail participation in upcoming launches
 
-## China claims rocket first as it catches booster in floating sea net
-State media hails successful test in step towards reusable rocket technology for space flights
-
-## What does America mean to you? FT readers respond
-To mark the US’s semiquincentennial, we asked our readers to reflect on their experience of the country — here are your responses
-
-## China drops urban employment target as economic pressures build
-Latest five-year plan omits figure for jobs growth, a fixture of economic planning, for first time in decades
-
-## Delta reports record demand but falling profits as fuel costs hit results
-Iran war drove jet fuel costs 77% higher than year-ago levels in preview of wider knock to US corporate profits
+## Don’t underestimate Farage in this Very British Farce
+The ‘establishment’ he is so fond of bashing must beware of playing into stereotype
 
 ## At least 12 people die in Spanish wildfire as heatwave grips Europe
 Alarm over summer of blazes as third wave of extreme heat hits region
 
+## UK regulators to scrutinise top US cloud groups
+Designating Microsoft, Google, Amazon and Oracle as ‘critical third parties’ will help improve resilience, says Treasury
+
+## Shein wins Chinese approval for long-awaited IPO
+China’s securities regulator grants permission for fast-fashion retailer to list its shares in Hong Kong after years of delays
+
+## Iran is seeing through Trump’s bluff
+The US president finds himself stuck in a cul-de-sac of his own making
+
+## Apollo trumps Castlelake with £5.7bn deal to buy easyJet
+Low-cost airline says offer ‘delivers a superior outcome for easyJet shareholders’
+
+## Inside the secretive Fifa committee that suspended the US red card
+The body that suspended US star Folarin Balogun’s ban is run by an Emirati ex-lawmaker who can make unilateral rulings
+
+## Ryanair plane makes emergency landing after window breaks
+Passenger sitting next to window was nearly sucked out of Boeing 737 aircraft, according to reports
+
+## IEA warns of petrol and diesel supply crunch
+Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
+
+## China successfully uses giant floating net to recover rocket booster
+State media hails successful test in step towards reusable rocket technology for space flights
+
 ## The billionaire dreaming of AI data centres in the desert
 Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei
 
-## The fastest way to find out the World Cup score? Old-fashioned radio
-BBC and ITV are exploring tech advances to cut down lags that have frustrated viewers of sporting events
+## DGFT notifies procedure for cheaper UK car imports under new trade deal
+Under CETA, India has agreed to undertake a phased reduction of import duties on automotive imports
 
-## French billionaire Xavier Niel becomes Vodafone’s top shareholder
-Analysts expect Niel to push for cost cuts at UK company after his Vega entity acquired £4.4bn stake from Emirati group e&
+## Edelweiss MF stops fresh inflow in 7 overseas schemes
+However, existing SIP, STPs to continue in 7 overseas schemes
 
-## FirstFT: SK Hynix completes biggest US IPO by a foreign company
-Also in today’s newsletter: Mervyn King picked for Fed reform and Spanish forest fires kill 12
+## Exide Industries to invest ₹1,400 crore in FY27 for lithium-ion cell plant in Bengaluru
+The plant is expected to start generating revenue from the third quarter
 
-## EU warns Meta over Facebook and Instagram’s addictive feeds
-Brussels says tech group has failed to adequately assess and mitigate risks that could have a negative impact on users
+## Bank of Maharashtra reports 27% profit increase in Q1FY27
+BoM’s net interest income was up 14.53 per cent y-o-y at Rs ₹3,770 crore (Rs ₹3,292 crore in the year ago period)
 
-## Financiers drive confidence as India’s used EV market enters growth phase
-Improved financing, battery-health checks and organised retail channels boost buyer confidence
+## FTA, $20 billion investment top Modi’s New Zealand agenda
+PM, Luxon to discuss trade pact rollout, visa pathway and defence co-operation
 
-## India's forex reserves jumps $7.26 bn to $674.19 bn
-Value of gold reserves also jumped $2.669 billion to $105.205 billion during the week
-
-## Q1 Results Today Live: Indian Bank, Bank of Maharashtra, Elecon Engineering post gains; Waaree Renewable Technologies, GK Energy, Yash Highvoltage to announce Q1 results
-Q1 results today live: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies including Elecon Engineering Company, Waaree Renewable Technologies, GK Energy and Yash Highvoltage report their June quarter results.
-
-## Havmor Ice-cream garners double-digit growth in H1
-In the past two years, quick commerce contribution to overall sales has tripled
-
-## India should opt for need-based grain purchases, allow private sector to buy more: Ramesh Chand
-Calling for alternative procurement policy, the former NITI Aayog member says the government should ensure MSP to farmers via price differential payment
-
-## ALMM Phase 2 Explained: Cost of solar self-reliance runs into several lakhs of crores
+## Letters to the Editor dated July 10, 2026
 
 
-## Indian Bank Q1FY27 profit up 10% at ₹3,273 crore
-Total income grew to ₹20,724 crore during the quarter, up from ₹18,721 crore in the same quarter of FY26
+## Health Ministry tightens norms for high alcohol-containing drugs to prevent misuse
+Formulations containing more than 12% ethyl alcohol, in quantities exceeding 30 ml, would no longer be covered under the exemption provided to them under Schedule K
 
-## Indian Bank sees fresh FCNR (B) deposits worth $140 million since new RBI rule; optimistic of clocking $2 b till Sept
-Indian Bank currently offers a rate of interest of 6 per cent on such FCNR (B) deposits
+## Embraer eyes 500-aircraft opportunity in India after DGCA clears E-Jet family
+Brazilian aircraft maker says certification strengthens its ability to serve regional connectivity demand and underserved city pairs
 
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## US stocks today: Market trades flat, heads towards subdued end to week; oil prices stable
+As uncertainty surrounding the strait persists, investors on Wall Street have begun shifting their attention to the upcoming earnings season, when companies will report their spring-quarter financial results.
+
+## Auto financiers push industry to embed financing into car sales to make it seamless
+
+
+## E20 petrol row: Govt answers 9 FAQs on ethanol-blended petrol’s impact on mileage, performance, damage, pricing & more
+The government has said that the Ethanol Blended Petrol (EBP) Programme is a major component of India's energy strategy, designed to strengthen energy security, support the farming community and lower environmental impact by increasing the use of domestically produced renewable fuel.
 
 ## Forex reserves rise by $7.3 billion in week ended July 3
 
@@ -78,65 +90,56 @@ The government says that project underscores Indian Railways' wider focus on tec
 ## India, among world’s largest exporters of refined oil products, set to see 25% rise in petroleum product exports
 Although India imports around 90% of its crude oil requirement, it has become one of the world's largest exporters of refined petroleum products by using its large and sophisticated refineries.
 
-## India should not blink first in US trade negotiations, says SBI report
-India should avoid early trade concessions with the United States. Washington is using uncertainty as a bargaining instrument across many issues. India possesses unique strategic strengths that should be leveraged. The nation should play the long game and test US resolve. This approach will improve 
+## Far-right protestor heckles PM Modi at Melbourne hotel, says ‘no more Indians…this country is for Australians’
+Police quickly dragged the protester away from the first-floor balcony overlooking the lobby as he continued hurling slogans.
 
-## E20 costlier to produce than pure petrol: Government
-The petroleum ministry clarified E20 petrol production costs versus pure petrol. Ethanol blending protects Indian consumers from volatile international oil prices. This program has saved India significant foreign exchange and crude oil imports. It also provides greater fuel price stability and incre
+## ‘Not weak, coward CM like Mamata’: Suvendu warns Humayun Kabir over ‘reckless remarks’
+He made the remarks at a rally in Rejinagar in Bengal's Murshidabad district on Friday, which will see a bypoll.
 
-## A weak monsoon could trigger a storm in India's economy
-A weaker monsoon poses risks to India's rural economy and farm incomes. This could increase food inflation and slow down consumption demand in coming months. Agriculture and related sectors face the biggest impact from below-normal rainfall. Microfinance institutions are more vulnerable than banks d
+## Ahmedabad ranks world's 2nd most heat-risk city; Bengaluru among India's 14 in top 50: Report
+More than 95 per cent of the most at-risk cities are in South and Southeast Asia and Sub-Saharan Africa.
 
-## NGT halts activity in 3 major cricket stadiums incuding Mumbai's DY Patil over groundwater use
-The CGWA's counsel said that these three stadiums have been repeatedly served, yet they have not filed a response.
+## PM Modi arrives in New Zealand on final leg of three-nation tour
+PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tour to strengthen trade, security and Indo-Pacific cooperation.
 
-## Kerala medical student killed in Uzbekistan; family alleges classmate forced her to convert
-The victim's parents have demanded that the investigation be carried out in Kerala and that the accused be extradited from Uzbekistan.
+## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
+The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
-## Phone calls from 1600 number series cannot be blocked as ‘spam’, TRAI clarifies amid row over Truecaller, other apps
-Authority also clarified that promotional calls from 140 number series can't be filtered by an app, and can be blocked only by DND registry managed by it.
+## 'BJP is scared of Prashant Kishor': Jan Suraaj after Abhishek Kumar Sinha withdraws nomination
+The reaction came after BJP's original candidate, Abhishek Kumar Sinha, withdrew his nomination a day after filing his papers, citing family reasons.
 
-## Verify consent to operate status of 49 Mussoorie hotels, seeks compliance report: NGT
-The NGT has directed the UKPCB to verify the Consent to Operate status of 49 Uttarakhand hotels and file a fresh compliance report within six weeks.
+## New anti-crime laws to be enforced in Bengal from July 13: CM Suvendu Adhikari
+West Bengal’s new anti-crime law, allowing preventive detention and tougher action against organised crime, will come into force from July 13.
 
-## Amid mass exodus in Trinamool Congress, here's who is still in Team Mamata
-With TMC's tally down, many loyalists have continued to back Mamata Banerjee as the party leader.
+## Weather Bee: Why Meerut, Delhi rained like Mumbai this week
+Why is it more normal for the western coast to get heavy rain than for Delhi or western Uttar Pradesh? Because of the physics of rainfall.
 
-## High-alcohol formulations to require licence, prescription as Centre amends rules
-The health ministry has ended the Schedule K exemption for high-alcohol medicinal formulations, bringing them under Schedule H1 to curb misuse and addiction.
-
-## Trudeau’s charges on Nijjar murder were absurd, politically motivated: Ex-envoy
-In October 2024, Verma had to leave Canada after law enforcement named him and a few other Indian diplomats as “persons of interest” in the murder case.
-
-## 'Ye de dena… CJI ko': Drama in Supreme Court as petitioner uses cuss words, 'orders' bench to take action
-The petitioner, identified as Prabal Pratap, addressed the dual judge bench of justice KV Vishwanath and justice Alok Aradhe as “judicial servant”.
-
-## Three Asiatic lion cubs born at Delhi zoo, second successful litter for breeding pair in two years
+## ‘Significant deficiencies’ in Ladki Bahin scheme’s financial management: CAG
 
 
-## Two Chinese military pilots killed during PLA training; Beijing stays silent: Report
+## BJP man drops out of Bihar bypoll race against Prashant Kishor
 
 
-## 30 years after Srinagar violence, Shabir Shah among 6 Hurriyat leaders chargesheeted by NIA
+## Maharashtra CM Fadnavis announces Rs 2 lakh waiver for Mahatma Phule scheme farmers
 
 
-## Theft at Ram Temple is betrayal of public trust. Reform must follow
+## 53 teapots, a Chinese bed: Inside Roja actor Madhoo Shah’s stunning sea-facing home
 
 
-## Madras High Court restrains ECI from notifying bypolls to five Assembly seats until July 31
+## UPSC Essentials daily subject quiz : Environment and Geography MCQs (Week 170)
 
 
-## Ryanair passenger nearly sucked out after cabin window breaks mid-air: Report
+## As Vijay’s Jana Nayagan eyes July 24 release, advance bookings open in the UK
 
 
-## Months before confirming divorce, Gaurav Khanna again proposed to Akanksha Chamola: ‘Be mine’
+## Tuchel-ball: Special ops substitutions, internal competition for spots
 
 
-## Buyer gets wrong size bamboo poles, wins Rs 1.5 lakh after supplier’s admission on chat
+## Chhattisgarh Cabinet approves Ease of Doing Business Bill 2026
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
-Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong. The firm plans to issue up to 341.6 million shares and list on the Hong Kong stock exchange, according to a Friday statement by the C
+Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong, a long-awaited step for the firm after its attempts to list in New York or London stalled. The firm plans to issue up to 341.6 millio
 
 ## Top Chinese political journal calls for ‘patient capital’ amid AI investment frenzy
 The top theoretical journal of China’s ruling Communist Party has run commentaries urging the country to cultivate “patient capital” for three days straight, as Beijing seeks to harness investment to boost long-term innovation amid fears of speculative excess in the artificial intelligence sector. T
@@ -159,6 +162,9 @@ The Hong Kong stock exchange is drawing a growing number of foreign companies fr
 ## Uniqlo defies sluggish China market with double-digit profit growth
 Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
+## Is Ukraine’s Decentralized Drone Innovation a Blip or a Revolution?
+Weapons reworked on the front are driving Kyiv’s recent successes.
+
 ## What the World Cup Meant to Mexico
 The country is done hosting the tournament, but it will remember the “collective joy.”
 
@@ -179,9 +185,6 @@ Ali al-Zaidi tackles a perpetual challenge under the watchful eyes of Iraqis and
 
 ## Ukraine Finally Has a Theory of Victory. Will It Work?
 Kyiv has developed a strategy for winning the war. Now all it needs is time.
-
-## Trump Hands NATO a Mixed Bag
-The alliance wanted to look united. In walked Trump.
 
 ## Thailand Needs to Soak Its Own Rich, Not Just Wealthy Tourists
 While the government focuses on burnishing its appeal to well-heeled tourists, massive holdings of Thai elite wealth remain effectively untaxed.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Sudan’s El Obeid faces intensifying RSF drone attacks
-Sudan’s El Obeid faces intensifying RSF drone attacks
+## Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal
+Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.
 
-## Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news
-Erling Haaland's Norway will be out to chase more FIFA World Cup history when they face Harry Kane's England in Miami.
+## Trump refuses to sign US housing bill over voting act standoff
+The housing legislation will become US law at midnight with or without President Donald Trump's signature.
 
-## Philippines landslides kill 15 as Typhoon Bavi threatens region
-Typhoon Bavi is intensifying seasonal monsoon rains across the region as it moves towards Taiwan and China.
+## Family mourns baby after Israeli forces blocked journey to hospital
+Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.
 
-## Paramount-Warner merger: could it reshape the media?
-The UK is considering intervening in the Paramount-Warner merger over concerns about media plurality.
+## The search for Gaza’s missing brings heartbreak and closure for loved ones
+Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.
 
-## First Palestinian legislative elections in 20 years announced
-First Palestinian legislative elections in 20 years announced
+## Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply
+Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.
 
-## US-Iran escalation threatens oil supply recovery, warns IEA
-Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.
+## Israeli drones strike Lebanon despite US-brokered framework deal
+The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.
 
-## US-Iran war: Will peace talks resume, and when?
-While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.
+## Super typhoon as wide as France heads to East Asia
+As Super Typhoon Bavi approaches, residents in Taiwan, Japan and China have been stockpiling supplies.
 
-## Condemned ex-PM Hasina plans December return to Bangladesh
-Despite facing a death sentence, exiled Sheikh Hasina pledges to return, setting up a legal clash with Dhaka’s leaders.
+## Ukrainian court detains alleged killers of Monaco bomb attack suspect
+Motives for the killing of Anastasiia Berezovska remain unclear as the unfolding saga grips both countries.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
