@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Police release man arrested on suspicion of murder of Ann Widdecombe
+Devon and Cornwall force says 26-year-old is no longer part of the investigation and issues renewed appeal for help
+
 ## Democrats’ strategic misfires laid bare by Platner’s implosion in Maine
 The party faces a void in its bid to reclaim the Senate after missing warning signs about a flawed candidate
 
@@ -11,9 +14,6 @@ Suspense over the far-right leader’s fate plays into her party’s hands
 
 ## UK inflation is not distributed equally
 The poorest pay the most in an energy shock
-
-## Police release man arrested on suspicion of murder of Ann Widdecombe
-Devon and Cornwall force says 26-year-old is no longer part of the investigation
 
 ## Sadiq Khan lobbies for Ed Miliband to become chancellor
 Energy secretary wins support from London mayor but faces opposition from some Labour MPs over his net zero policies
@@ -39,6 +39,18 @@ Changing terminology risks misleading policymakers and harming those in most nee
 ## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
 Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
+## India’s natural gas demand likely to decline by 8% in 2026
+IEA pointed out that despite a significant softening in gas demand, India’s weak domestic gas production kept LNG imports up on the year
+
+## Swiggy says Toing FSSAI issue resolved after licence update; no food safety concerns
+In a regulatory filing, the company said it had received a prohibition order dated July 6 from the FSSAI’s designated officer in Karnataka over certain observations related to its FSSAI licence for Toing
+
+## DMart Board approves ₹1,000 crore NCD Issue as Q1 profit rises 12.8%
+Revenue rose 15.1% to ₹18,343 crore, and the retailer added three stores during the quarter
+
+## Think. Over the week
+Explore our Editorial’s insights on fiscal challenges, AI in courts, WhatsApp privacy, and the rupee’s stability this week
+
 ## Regenerative mustard programme to strengthen India’s edible oil value chain: AWL Agri Business
 A media statement said the encouraging results reinforce the potential of regenerative farming practices to strengthen India’s edible oil value chain while enhancing farmer livelihoods
 
@@ -50,18 +62,6 @@ As on : Jul 11, 2026
 
 ## Over 2 lakh micro food processing enterprises covered under PMFME: Chirag Paswan
 Around ₹6,000 crore given as subsidy so far under PMFME scheme, Paswan says
-
-## VOC Port signs MoU with Port of Antwerp-Bruges for green & digital port development
-The MoU aims to explore opportunities for cooperation through capacity building, Ttraining, Wworkshops, Ssharing best practices, with a strong focus on greening of port operations and integration of digital applications for port management
-
-## D-Mart owner Avenue Supermarts’ Q1 net profit jumps 11.3% to ₹860.44 cr, sales rise 14.9%
-Revenue from operations increase 14.9% to ₹18,794.53 crore during the quarter
-
-## India, New Zealand eye strategic partnership; aim to double trade to ₹35,000 cr by 2030
-The two countries have resolved in strategic partnership roadmap to work together on next steps for the India-New Zealand FTA to “ensure its early entry into force and effective implementation”
-
-## Alpine Texworld to raise ₹126 cr through IPO for capacity expansion
-Alpine Texworld to issue 1.20 crore equity shares in the price band of ₹100 - ₹105 a share
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -87,6 +87,21 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
+## Omar Abdullah claims BJP offered his MLA ₹20-30 crore, ministerial berth, J&K ‘statehood’ to switch sides
+Abdullah said the MLA rejected the offer given by the BJP official, who also happens to be a Supreme Court lawyer, and informed him about the approach.
+
+## Two held after mob torches 6 houses in Manipur; tensions escalate: Police
+A large group of people protesting against inter-district economic blockade from Kangpokpi district, a Kuki dominated district, set the houses ablaze
+
+## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
+A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
+
+## Narottam Mishra gets an unusual offer after BJP ticket snub triggers violence in Madhya Pradesh
+State unit chief said if Mishra accepted the offer, Uddhav Thackeray and other senior leaders would campaign for him in Datia.
+
+## Vietnam boat accident LIVE: 'A big wave hit us', says survivor after 15 killed
+Vietnam boat accident LIVE: Telangana set up a control room after the accident to provide information to the families of the tourists from the state who went to Vietnam, said officials.
+
 ## Think tanks urge MoHUA to boost women e-bus drivers under PM scheme
 The report recommended that MoHUA launch a dedicated programme for women e-bus drivers aligned with the PM e-Bus Sewa scheme
 
@@ -96,43 +111,28 @@ Mishra also denied that any violence had taken place in Datia by his supporters,
 ## Bihar man, 48, arrested for raping 12-yr-old girl in Assam: Police
 Police said that the victim has been undergoing treatment since she fell ill and her mandatory medical examinations have been ordered
 
-## ‘No candidate of calibre for Bankipur bypoll': Prashant Kishor attacks BJP, says Abhishek Sinha ‘ran away’
-Kishor said it was unprecedented for a BJP candidate to withdraw, as earlier, rival party candidates used to pull out fearing the saffron party.
-
-## When ‘compromised’ came home: Rahul Gandhi's favourite word for PM Modi hits Punjab Congress ranks
-Channi camp's Sukhjinder Singh Randhawa said party needs “not a compromising leader”, Raja Warring hit back with some loaded agreement.
-
-## Radicals behind Baruipur lynching, says CM Adhikari; gives his kin job
-The 12-year-old girl’s body from Baruipur was recovered from a pond on July 5, a day after she went missing
-
-## 'Extremely saddened': PM Modi condoles deaths of Indian tourists in Vietnam boat tragedy
-PM Modi extended condolences to the bereaved families of 15 Indian tourists who have died in the boat capsizing incident in Vietnam.
-
-## Days after Jaipur woman held for mother's murder, relative alleges she killed father too
-Neeraj Sharma was allegedly run over by a speeding SUV in Jaipur's Pratap Nagar a week ago, in a murder allegedly orchestrated by her daughter.
-
-## Abu Salem in prison: Jail seeks clarity over Rs 16.51 lakh pending fine
+## Dropping Vaibhav Sooryavanshi has exposed a lack of clarity from Gambhir and Iyer
 
 
-## Pakistani woman, son held in Karnataka for overstaying visa, holding Indian documents
+## Throat slit, pushed down a gorge in Himachal, woman climbs back; husband, 2 others arrested
 
 
-## Pune building collapse: Seven bodies recovered after 72-hour search, one still missing
+## Punjab Congress crisis deepens as Channi sharpens ‘oust Warring’ pitch at key huddle
 
 
-## Worker killed, another injured as temple dome collapses during demolition drive in UP’s Chandauli
+## UN Special Rapporteurs flag ‘discrimination’ in SIR exercise, seek government’s response
 
 
-## Vaibhav Sooryavanshi dropped from India’s XI for fifth T20I against England
+## All-women staff, panic buttons: Delhi govt plans to expand ladies special bus service
 
 
-## Belgium’s golden generation leaves without trophies, but not without relevance
+## Legendary playback singer S Janaki dies at 88; granddaughter shares emotional note
 
 
-## UPSC Key: PM Modi in New Zealand, Kerala birth rate and E20
+## Bengaluru man sends videos to son detailing harassment over loan, dies by suicide
 
 
-## Suniel Shetty reveals why he never had alcohol in life: ‘Went towards martial arts…’
+## Mohali court denies bail to two alleged Lucky Patial gang members in Rs 1 crore extortion, firing case
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -255,6 +255,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UK police free suspect in ex-MP Ann Widdecombe murder investigation
+The former government minister is believed to have been attacked a full day before her body was discovered.
+
 ## Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist
 Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.
 
@@ -275,9 +278,6 @@ The Indian embassy says it has set up control rooms to respond to victims' famil
 
 ## Land sold for Kushner-backed Albania resort suspected of forged deeds
 Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.
-
-## World cup wrap day 30
-World cup wrap day 30
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
