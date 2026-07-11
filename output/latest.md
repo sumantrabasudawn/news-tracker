@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## How AI rebrands fail to deliver a lasting share price boost
+Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found
+
 ## Police release man arrested on suspicion of murder of Ann Widdecombe
 Devon and Cornwall force says 26-year-old is no longer part of the investigation and issues renewed appeal for help
 
@@ -21,11 +24,11 @@ Energy secretary wins support from London mayor but faces opposition from some L
 ## Europe’s slow electrification is a ‘major mistake’, warns IEA chief
 Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis
 
-## London rental affordability improves despite recent rise
-The salary needed to afford a rental home in the capital has fallen by 17% in the past year
-
 ## World Cup TV rights in the US: no longer a discount
 Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
+
+## London rental affordability improves despite recent rise
+The salary needed to afford a rental home in the capital has fallen by 17% in the past year
 
 ## Lawn Tennis Association set to move into venture capital investing
 Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines
@@ -36,32 +39,29 @@ Vessels that dare to use route close to Oman’s coast face increased risk of Ir
 ## What’s really going on with mental health?
 Changing terminology risks misleading policymakers and harming those in most need
 
-## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
-Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
+## Phu Quoc boat tragedy: 15 Indian tourists die after speedboat overturns in Vietnam
+The victims included 10 from Tamil Nadu, three from Andhra Pradesh and two from Kerala.
 
-## Buy ITC put option
-The stock finds an immediate resistance at ₹300 followed by ₹325
+## Bandu’s Blockbusters for July 12, 2026
+Guess the stock that will give the best return by next Friday
 
-## SME IPO mirage: Debut dazzle, long-term damage
-BITTER AFTERTASTE. Over 500 SME IPOs from the past decade are under water; 46 per cent of 100x-subscribed issues are trading below offer price
+## Will share amalgamation attract capital gains tax?
 
-## SBI’s OFS size in SBI MF IPO reduces by 2.88 crore equity shares following secondary share sale
-In the wake of the pre-IPO share sale, the size of the OFS by SBI in SBI MF’s IPO has been revised from up to 12.83 crore equity shares
 
-## Who am I? July 12, 2026
-Are you an avid investor? How well do you know corporate India?
+## Tech Query: KPIT Technologies, ONGC, Indraprastha Medical Corporation, Everest Kanto Cylinder - What is the outlook? Where are these stocks headed?
+We look at the prospects of KPIT Technologies and three other stocks – ONGC, Indraprastha Medical Corporation and Everest Kanto Cylinder
 
-## Emcure subsidiary Gennova to transfer mRNA business to Immunoscript Life Science for ₹139 crore
-Gennova brought out India’s first mRNA Covid vaccine
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of CDSL, Great Eastern Shipping Company and Olectra Greentech
 
-## DMart looks beyond Metros, after same-store sales slow to 5.5%
-With same-store (like-for-like) sales growth slowing to 5.5% from 7.1% and older metro stores posting flat growth, Avenue Supermarts is sharpening its focus on non-metro markets
+## Does asset allocation really work?
+Yes, it does, proves a live testing of a 60-30-10 portfolio over the last 11 years
 
-## Emirates is ready to introduce its Airbus A380 services to Hyderabad
-The CM also invited Emirates to establish Maintenance, Repair and Overhaul (MRO) facilities at the proposed airports in Warangal and Adilabad, positioning Telangana as an emerging aviation hub
+## Gland Pharma: What should you do?
+Margin improvement from higher value-added products and expanding portfolio should support earnings growth
 
-## Edelweiss MF stops fresh inflow in 7 overseas schemes
-However, existing SIP, STPs to continue in 7 overseas schemes
+## More upside left
+The benchmark indices have room to rise further
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -87,6 +87,12 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
+## Mamata Banerjee's loyalist Anubrata Mandal joins Ritabrata-led rebel faction, named Birbhum district president
+Speculation over Mandal's switch had been circulating for some time, but it was confirmed after Ritabrata Banerjee announced the new district leadership.
+
+## Vietnam boat capsize: Two people from Andhra killed, 3 others hospitalised
+The accident claimed the lives of 15 Indian tourists, while 21 others were rescued.
+
 ## India, New Zealand elevate ties, target ₹35,000 crore trade by 2030
 New Zealand was the final destination of Modi’s three-nation tour, which also included Indonesia and Australia and was focused on forging closer economic
 
@@ -105,34 +111,28 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
-## Narottam Mishra gets an unusual offer after BJP ticket snub triggers violence in Madhya Pradesh
-State unit chief said if Mishra accepted the offer, Uddhav Thackeray and other senior leaders would campaign for him in Datia.
-
-## Vietnam boat accident LIVE: Boat carrying Indians had barely travelled 300 metres when it capsized, says eyewitness
-Vietnam boat accident LIVE: Telangana set up a control room after the accident to provide information to the families of the tourists from the state who went to Vietnam, said officials.
-
-## The nightingale who sang in twenty tongues: The life and legacy of S Janaki
+## The Odyssey premiere: Nolan, Damon, Holland sip chai; Dimple Kapadia, Shruti Haasan attend
 
 
-## Look at performance over gender inclusivity in armed forces: Ex-CoAS Manoj Naravane
+## Lawyer booked for assault, wrongful confinement of Army officer at Panchkula court
 
 
-## South Africa’s FIFA World Cup star Jayden Adams dies at 25 in Cape Town
+## Arnav Paparkar, the Pune boy who made history at Wimbledon
 
 
-## Gujarat High Court grants default bail to accused in Salaya narco-terror case
+## High Court relief to Himachal PWD minister: allows passports to be renewed
 
 
-## Trump vs Supreme Leader Mojtaba: US warns it will ‘destroy all areas of Iran’; Tehran vows Khamenei revenge
+## 2 bridges set to become operational by August 31, BMC sets deadline
 
 
-## BJP-linked lawyer offered my MLA Rs 30 crore: Omar Abdullah before statehood protest
+## Foreign tourists drive UK-themed auto-rickshaw on Shimla’s Mall Road, fined Rs 1,500
 
 
-## Dual-lock donation boxes, mandatory annual audits: Himachal Pradesh government issues guidelines for state-owned temples
+## On way to Somnath, 6 of family killed in SUV-truck collision
 
 
-## Annual trip sponsored by mobile firm turned tragic in Vietnam
+## Monsoon intensifies in Himachal Pradesh: Heavy rain damages roads, bridges, cuts off several areas
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -255,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA is not an independent sporting organisation; it is a political tool.
+Football fans around the world are only now finding out what Palestinians have long known.
+
+## Hormuz shipping in focus as Iran-US rhetoric heats up
+Analysts say door to diplomacy still open despite exchange of attacks and threats.
+
 ## Syrians optimistic but cautious as sanctions removal revives economic hopes
 US decision to delist Syria as a 'state sponsor of terrorism' prompts cautious optimism among businesses and citizens.
 
@@ -272,12 +278,6 @@ Gaza is suffering from an energy crisis, affecting hospitals struggling to treat
 
 ## What is going on in Yemen?
 Tensions are rising in the battlefield and political sphere. Will the conflict reignite?
-
-## China prepares as Typhoon Bavi leaves Taiwan
-China prepares as Typhoon Bavi leaves Taiwan
-
-## Zimbabweans return home amid xenophobic violence in South Africa
-Zimbabweans return home amid xenophobic violence in South Africa
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
