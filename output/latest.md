@@ -39,32 +39,35 @@ Some believe the boom-bust cycle in memory chips has ended — the market thinks
 ## How to find a restaurant on holiday
 Swerve the tourist traps this summer with Marina O’Loughlin’s tried-and-tested tips
 
+## India seeks review of proposed tariff, cites flaws in USTR's report on forced labour probe
+The USTR has not satisfied the relevant legal standards under Section 301(d) of the Trade Act
+
+## HDFC Bank firmly rooted in corporate governance, merger related synergies progressing well: Keki Mistry
+‘We remain committed to maintaining the highest standards of transparency, accountability and oversight,’ Mistry said in a message to shareholders
+
+## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
+The consumer complaints have alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
+
+## Ratification process for India-NZ FTA has begun, no set timeline yet: MEA
+Secretary (East) in the MEA, Rudrendra Tandon, stated that New Zealand assured India of bipartisan support for the agreement and a swift ratification process
+
+## India, New Zealand express concern over Ukraine
+Both countries resolve to support efforts towards achievement of a just and lasting peace through dialogue and diplomacy
+
+## EAM Jaishankar to launch India’s UNSC campaign, meet UNSG Guterres next week
+He will launch India’s official campaign for the UN Security Council tenure 2028-29 at a special event in the UN headquarters on Monday
+
+## Kharif sowing drives tractor sales past one lakh units in June
+Market leader Mahindra & Mahindra (M&M) further consolidated its dominance across both its Mahindra and Swaraj brands
+
 ## Passenger partially sucked out of window on Ryanair flight from Greece
 The incident happened on a morning flight from the northern Greek city of Thessaloniki to Memmingen, near Munich, which was operated by Ryanair subsidiary Malta Air
 
-## NPPA fixes retail prices of 39 new drug formulations
-The notification issued on July 8 is a retail price fixation order for new drug formulations under DPCO, 2013, not a price reduction order
-
-## Trump says US, Iran agree to continue talks but ceasefire over
-
-
-## Govt, industry brainstorms on ways to achieve $150 billion exports target for electronics
-Commerce Secretary Rajesh Agrawal emphasised that India’s policy must provide the predictability and stability essential for the growth of global electronics value chains
-
-## India set to play larger role in building global fintech infrastructure, says Payoneer
-The country is no longer seen as a large user market for digital payments. It is becoming a place where financial platforms are built for multiple geographies, currencies, customers and regulatory environments
-
-## What to know bout the parasite sickening people across the US
-A diarrhea-causing parasite has infected people in 31 states already, with multiple places reporting an uptick in the resulting illness in the last two weeks compared to a year ago, according to the US Centers for Disease Control and Prevention
-
-## Shapoorji Refinancing kickoff eases investor debt concerns
-Separately, the group raised $650 million through a three-year dollar bond on Friday at a yield of 14.5%, other people said
-
-## Gadkari to chair BRICS transport ministers' meet in Nagpur
-The two-day meeting is being organised under India's BRICS Chairship theme 'Building for Resilience, Innovation, Cooperation and Sustainability'
-
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## NSE Indices launches Nifty500 Ahimsa Index: From 'ethical' filters to screening, how the benchmark works
+NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned with non-violence principles. This new index targets investors seeking animal welfare considerations in their portfolios. Companies are screened using the Ahimsagain Foundation's AIM framework for eligibility. The index o
 
 ## Sebi clears IPOs of Zetwerk, Rentomojo
 
@@ -84,56 +87,56 @@ Indian refiners are well equipped from a product-quality standpoint to supply th
 ## Amfi data: Equity flows via SIPs increase 2.7% in June
 
 
-## Vivo-Dixon JV: A template for Chinese phone companies in India
+## ‘Who abandoned Karur?’ Senthil Balaji hits back at CM Vijay over stampede remarks
+In response to CM Vijay's comments about the stampede, DMK's V Senthil Balaji defended his party's actions during the crisis.
+
+## 'Won't term it lynching': West Bengal CM on killing of Indrajit Mondal after Baruipur unrest
+Indrajit Mondal was beaten to death by a mob amid widespread outrage over the girl's killing.
+
+## 3 Delhi residents killed, 4 injured after car hits parked canter on UP’s Rampur road
+Three Delhi residents were killed and four injured after their car hit a parked canter in Uttar Pradesh’s Rampur while travelling to Corbett National Park.
+
+## 'Not the way': BJP's Narottam Mishra after supporters turn violent over Datia poll ticket pick
+Narottam Mishra said the BJP's decision should be respected and differences should be raised through the party's internal forums.
+
+## Movie-like gunfight in Gurugram's upscale Sushant Lok kills 4, puts spotlight again on rapper-gangster Deepak Nandal
+Encounter unfolded after five alleged members of Nandal's gang entered home of property dealer and held him hostage, police said.
+
+## SpaceX Falcon lands on legs, China's on a net — how will Isro's reusable rocket come home?
+From helicopter drop-tests to a still-unscheduled orbital trial, what Isro's RLV programme has achieved, and how it differs from SpaceX and China.
+
+## New Zealand journalist asks why PM Modi doesn't hold press conferences. Diplomat's response is this
+During the interaction, a New Zealand journalist asked Indian diplomats: “Why has PM Modi not done a press conference?”
+
+## Navy gets new stealth frigate as Rajnath Singh commissions INS Mahendragiri
+Named after the Mahendragiri mountain range in the Eastern Ghats, the frigate symbolises resilience, strength and unwavering resolve.
+
+## Taylor Swift paid $160k for Madison Square Garden wedding permit, security: Mayor Mamdani
 
 
-## IFS officer Satyanjal Pandey likely to be India's next charge d'affaires in Islamabad
-Satyanjal Pandey, IFS officer and current Deputy High Commissioner in Sri Lanka, is expected to be appointed as India's charge d'affaires in Islamabad
-
-## BJP's Narottam Mishra ticket row turns violent in Datia, curfew imposed
-Datia tense: Agitated supporters pelted stones at the police, vandalised trucks, and created chaos on NH-44.
-
-## 18-month-old dies days after anaesthesia for lip injury in Kerala, doctor booked
-An 18-month-old boy who had remained in critical condition for five days after being given anaesthesia to stitch a cut lip died at a private hospital in Kannur.
-
-## Telangana man kills own family then complainant, her kin while out on bail in POCSO case
-Police said the 28-year-old allegedly murdered the 17-year-old complainant, her mother and grandmother, and his own wife and two sons days after securing bail.
-
-## Sharad Pawar, Eknath Shinde meet sparks buzz, Supriya Sule steps in to calm storm
-The controversy erupted after Sharad Pawar met Eknath Shinde in the deputy chief minister's office inside the Vidhan Sabha premises
-
-## Highway blocked for 12 hours, stones pelted: Major protest by BJP leader Narottam Mishra's supporters over poll ticket
-The BJP on Friday announced Ashutosh Tiwari as its candidate for the Datia assembly bypoll, a decision that angered Mishra's supporters.
-
-## India, New Zealand forge ₹35,000 crore strategic partnership to boost trade
-India and New Zealand elevated their ties to a strategic partnership, targeting ₹35,000 crore in annual bilateral trade by 2030.
-
-## CBI charge sheet in NEET UG leak may not name officials
-The CBI found no government officials involved in the NEET UG 2026 paper leak. The charge sheet will be filed this month, focusing on 13 private individuals
-
-## ‘Search my name…’: Erling Haaland’s Google Easter egg celebrates Norway’s viral ‘Viking Row’
+## West Bengal Police freeze 12 more TMC accounts, Rs 1,000 crore locked
 
 
-## Government Medical College in Srinagar to have 50 more MBBS seats
+## ‘Don’t mistake tumour markers for cancer screening’: Oncologist explains why
 
 
-## US gives Iran Saturday deadline to renounce Strait of Hormuz attacks as Trump says ceasefire is ‘over’
+## New FCRA Rules threaten very existence of India’s civil society
 
 
-## Who is Andy Burnham, the Labour leader set to become Britain’s next Prime Minister?
+## Income Tax job, interview at MCD building. Then Delhi guard lost Rs 2 lakh
 
 
-## AIBE 2026 final answer keys released at allindiabarexamination.com; results next
+## World Cup 2026: Why substitutes keep deciding matches in the final 20 minutes
 
 
-## ‘We scre**d up’: Iran admitted that Hormuz attacks were a ‘mistake’, say US officials
+## US visa fraud: Four ex-police chiefs plead guilty over fake U-Visas for foreigners
 
 
-## Wife’s maintenance doubled as court says Rs 10,000 ‘too meagre’ for dignified life
+## Punjab Congress meeting: Channi camp holds talks with Baghel amid leadership row
 
 
-## Unsung Hero| Meet Rahul Bavaji, the conservationist educating tribal children in Karnataka
-
+## Volkswagen China deliveries see 26% drop year on year to lowest point since 2010
+Volkswagen Group’s deliveries in China slumped during the first half of 2026 to their lowest level in 16 years, as local electric vehicle (EV) brands further siphoned off buyers’ interest in petrol cars amid a slowing market. Through its three ventures with Chinese partners, the German car brand han
 
 ## Expanding AI and chip firms push up rents in Beijing’s hi-tech district
 Demand for Beijing’s grade-A office buildings increased in the first half of the year, with artificial intelligence and semiconductor companies making the Zhongguancun area a hot property at a time when office markets nationwide are still struggling. Home to the capital’s densest cluster of hi-tech 
@@ -155,9 +158,6 @@ With its multi-currency advantages and regulatory clarity, Hong Kong has become 
 
 ## Nvidia gets China boost, Iran ceasefire breaks, GDP release
 China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is among select businesses that will be eligible to buy H200s, Nvidia’s second-bes
-
-## China’s appeal as portfolio diversifier grows, BlackRock strategist says
-China is increasingly being viewed by global investors as not only a growth opportunity but also a potential portfolio diversifier, as higher inflation, market volatility and changing correlations challenge traditional asset-allocation strategies, according to BlackRock’s global chief investment str
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russian overnight strikes on Kyiv injure ten
+Russian overnight strikes on Kyiv injure ten
+
+## ‘Sealed in blood’: Where does the China-North Korea alliance stand today?
+China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.
+
+## Trump threatens Iran after chants for his death erupted at Khamenei funeral
+US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.
+
+## Wembanyama signs contract with Spurs for five years, $252m: Report
+Victor Wemnanyama, the NBA's tallest player, inked the third-largest rookie extension in history.
+
+## World Cup quarterfinals today: Schedule, predictions, Haaland’s viral rise
+England face Norway and Argentina take on Switzerland for the final two World Cup semifinal spots.
+
+## Argentina vs Switzerland: World Cup quarterfinal – Messi, prediction, news
+Lionel Messi's Argentina faces Breel Embolo's Switzerland for a place in the semifinals of the FIFA World Cup 2026.
+
 ## Venezuelan doctors convert restaurant into a clinic after earthquake
 Volunteers in La Guaira have transformed a fast-food restaurant into an emergency clinic.
 
 ## Meta backtracks on AI-image feature for Instagram due to privacy backlash
 Meta has rolled back its ‘Muse Image’ AI feature after widespread backlash over privacy and consent.
-
-## Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’
-A muscle strain threatened to derail Messi's tournament, but his coach says he's still world's best player.
-
-## Are the US and Iran at war again?
-Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over'.
-
-## ‘We are the lost generation of Sudan’: Students in exile
-Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.
-
-## Conor McGregor weighs in at 170.5 pounds for UFC 329 bout vs Max Holloway
-Irishman McGregor, former two-division champion and still one of UFC's most famous fighters, has not fought since 2021.
-
-## Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers
-Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.
-
-## Yamal does not mind lack of goals if Spain win World Cup 2026
-Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
