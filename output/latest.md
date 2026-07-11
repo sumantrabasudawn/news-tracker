@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## China braces for back-to-back typhoons as extreme weather risks rise
+Record rains, tornadoes and landslides batter southern regions while floods unleash cobras and zoo animals
+
 ## Trump says US has agreed to continue talks with Iran
 President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz
 
@@ -13,16 +16,13 @@ Gulf state will receive access to sophisticated American technology
 Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
 
 ## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
-Devon and Cornwall Police say Widdecombe, 78, sustained ‘serious injuries’
+Devon and Cornwall Police say the 78-year-old politician sustained ‘serious injuries’
 
 ## SK Hynix’s US shares jump 13% on Nasdaq debut
 South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149
 
 ## Bezos-backed fusion start-up to become first to go public
 General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut
-
-## At least 12 people die in Spanish wildfire as heatwave grips Europe
-Alarm over summer of blazes as third wave of extreme heat hits region
 
 ## Carmakers fight off bulk of multibillion-pound UK ‘dieselgate’ case
 About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
@@ -39,32 +39,38 @@ Purchases come after group ascended into the FTSE 250 last month
 ## Stockpickers: BTG Consulting, Jet2, Currys
 Our experts discuss which companies to buy, sell or hold this week
 
-## Europe’s deadly heatwave & India’s rainfall crisis explained | EP 105 | Subramani Ra Mancombu
+## Climate resilience must become the organising principle of Indian agriculture
+As climate risks grow and events like El Nino are redefining the risks, the need to farm smarter, diversify and strengthen resilience has never been greater
 
+## Meta appeals verdict in social media addiction lawsuit
+The case centred on a 20-year-old woman who said she became addicted to social media as a child and that it worsened her mental health struggles
 
-## Ethanol blending to shield consumers from oil price shocks: Govt
-E20 only turns cheaper at $120-130 per barrel oil, but Indian crude crossed $100 only 3 times in 3 years
+## India’s next white revolution will be powered by smarter feed and farm technology
+By combining science-led nutrition with smarter farm technologies, India can build a dairy sector that delivers higher productivity, improved farmer livelihoods and a more resilient food system
 
-## Kotak Bank has navigated challenges over the last two and a half years to emerge stronger : Chief Vaswani
-The Kotak Bank chief observed that the Bank’s structural strength lies in its diversified financial conglomerate model, which offers virtually every financial product
+## DGCA warns IndiGo on cargo spillage
+The airline stated that the warning letter has no significant impact on its financials, operations, or activities
 
-## SP Group raises $650 million through 3-year bond at 14.5%
-The refinancing package is also expected to include a rupee-denominated component
+## Meta scraps AI image feature days after launch following privacy backlash
+“Our intent was to provide a useful creative tool and to give people control over ‌whether their public content could be referenced in this way,” Meta said in a statement
 
-## Govt orders action against NCERT officials in paper procurement case
-The High Court granted interim relief to the paper supplier, restraining NCERT from taking coercive steps or encashing its bank guarantee ahead of the July 20 hearing
+## New Zealand, India upgrade ties as PM Modi visits Auckland
+In Auckland, leaders elevated bilateral relations to a “strategic partnership,” highlighting shared democratic values, strong ties, and common interests in the Indo-Pacific
 
-## Indian Bank Q1FY27 profit up 10% at ₹3,273 crore
-Total income grew to ₹20,724 crore during the quarter, up from ₹18,721 crore in the same quarter of FY26
+## Monsoon’s recovery helps improve storage in India’s major reservoirs
+However, over 50 per cent of the dams are still half-empty
 
-## Rabi harvest blues: Key crops sell 3-8% below MSP as maize plummets 24%
-However, the season’s main oilseed crop, mustard, emerged as the winner.
-
-## Edelweiss MF stops fresh inflow in 7 overseas schemes
-However, existing SIP, STPs to continue in 7 overseas schemes
+## IREDA classifies Gensol Engineering, subsidiary as fraud accounts
+IREDA said Gensol Engineering’s account has been classified as fraud on grounds of alleged ‘misappropriation and criminal breach of trust’ and ‘forgery with the intention to commit fraud’
 
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+
+## Sebi clears IPOs of Zetwerk, Rentomojo
+
+
+## Markets rally for 2nd day, sensex up 827 points
+
 
 ## Oyo-Zostel appeal to be heard on August 12
 
@@ -81,59 +87,59 @@ Indian refiners are well equipped from a product-quality standpoint to supply th
 ## Vivo-Dixon JV: A template for Chinese phone companies in India
 
 
-## Indian Bank targets $2 billion through FCNR deposits
+## After username row, MeitY eyes uniform standards for messaging apps
+The ministry of electronics and information technology (Meity) is working on common standards for messaging platforms operating in India, as it moves to formally oppose WhatsApp’s proposed username feature over concerns that it could fuel impersonation, online fraud and digital arrest scams while ma
+
+## Shekhar Suman’s associate faces ED action in FEMA case
+The Enforcement Directorate (ED) conducted searches under the Foreign Exchange Management Act (FEMA) against Kalanee Impex Pvt Ltd and its director, businessman Dharmesh Sangani, over allegations of undisclosed foreign assets, foreign bank accounts and violations relating to export proceeds, officia
+
+## ‘No right to stay in Odisha’: Kalinga Sena threatens ISKCON over untimely Rath Yatra row
+The Sena activists led by their president Hemant Rath pledged to ensure that the ISKCON devotees do not enter Puri during the upcoming rath yatra on July 16.
+
+## Education minister Dharmendra Pradhan orders probe into delay by NCERT in case against vendor
+The administrative lapse by NCERT resulted in interim relief for the company challenging the council’s order. The matter will next be heard on July 20.
+
+## Hope fades as 8 still trapped at Pune garbage depot after 55 hours of collapse, rescue op continue
+Officials involved in the multi-agency rescue operation said they were unable to make contact with the trapped workers and believe they may not have survived.
+
+## Meters to be made mandatory on all borewells in Delhi, will help decide water bills
+Officials said the draft has been prepared, although the government is yet to finalise the tariff for groundwater extraction.
+
+## NDA cadet, 17, dies during PT session, roughly two weeks after joining academy
+The cadet, identified as Abhinav Bajpai from Kanpur, Uttar Pradesh, had complained of uneasiness and suddenly lost consciousness during morning PT session.
+
+## PM Modi receives traditional Maori powhiri welcome at Government House in Auckland
+Prime Minister Narenda Modi is scheduled to interact with prominent business and sports personalities
+
+## Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds
 
 
-## EV ownership cost rises with battery-as-service
+## Qubool Hai actor Surbhi Jyoti reveals pregnancy morning routine: ‘My favourite meal of the day’
 
 
-## NCERT blacklists firm, skips court date to defend decision; Pradhan orders probe
-The ministry has also asked NCERT to examine how the firm was awarded the contract for supply of Maplitho paper for academic year 2026-27
-
-## ‘No graveyard in Kashmir without Pakistani terrorists’: Hizbul Mujahideen commander's admission on cam
-Shamsheer Khan is also heard talking about the connection between Pakistan and Kashmir and says that no one can create hatred between the two regions.
-
-## 'Jammu and Kashmir is India's': Diplomat calls out 'incorrect' Indian map at Bangladesh event
-Following the objection, ambassador Tariq Karim clarified that the map was used for “representational purposes only” and “doesn't project actual boundaries”.
-
-## Far-right protestor heckles PM Modi at Melbourne hotel, says ‘no more Indians…this country is for Australians’
-Police quickly dragged the protester away from the first-floor balcony overlooking the lobby as he continued hurling slogans.
-
-## ‘Not weak, coward CM like Mamata’: Suvendu warns Humayun Kabir over ‘reckless remarks’
-He made the remarks at a rally in Rejinagar in Bengal's Murshidabad district on Friday, which will see a bypoll.
-
-## Ahmedabad ranks world's 2nd most heat-risk city; Bengaluru among India's 14 in top 50: Report
-More than 95 per cent of the most at-risk cities are in South and Southeast Asia and Sub-Saharan Africa.
-
-## PM Modi arrives in New Zealand on final leg of three-nation tour
-PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tour to strengthen trade, security and Indo-Pacific cooperation.
-
-## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
-The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
-
-## Nara Lokesh at Express Adda: ‘In Andhra, Namo means Naidu ji and Modi ji ki jodi’
+## Daily Briefing: The Satluj controversy raises uncomfortable questions about history, memory and free expression
 
 
-## After 4 months, FIIs start returning to Indian stocks — but not much has changed
+## 10.14s! Animesh Kujur records fastest 100m by an Indian on foreign soil
 
 
-## Why more people are choosing Tai Chi walking for better health
+## ‘1,000 missiles locked to decimate Iran’: Trump on ‘Tehran’s assassination plot’ report
 
 
-## Four teams, 4 plans, 1 result: How France keep winning at this FIFA World Cup
+## US-Iran War Live Updates: Tehran may be rebuilding nuclear facilities, show satellite pics
 
 
-## In Assam Budget, satellite city near Guwahati airport, semiconductor push
+## ‘Hard to explain’: What Vinicius Jr finally said about Brazil’s heartbreak at FIFA World Cup 2026
 
 
-## ‘We don’t travel by train anymore’: 20 years after 7/11 Mumbai blasts, survivors wait for justice
+## Chef At Home: Meet private chef Harsh Dixit, who cooks for the country’s biggest celebrities and industrialists
 
 
-## Pune landslide: Satellite image shows office to garbage mound distance was 16 metres and not 30
+## Expanding AI and chip firms push up rents in Beijing’s hi-tech district
+Demand for Beijing’s grade-A office buildings increased in the first half of the year, with artificial intelligence and semiconductor companies making the Zhongguancun area a hot property at a time when office markets nationwide are still struggling. Home to the capital’s densest cluster of hi-tech 
 
-
-## As Satluj creates ripples… Centre considers amending IT rules, make certification must for non-theatre films too
-
+## Star Market at 7: tech-centric stock exchange powers China’s innovation rise
+President Xi Jinping gave investors a surprise in 2018 when he floated the idea of a tech-focused board on the Shanghai Stock Exchange (SSE). He also gave China a powerful asset, as the board – later dubbed the Star Market – has become a financial engine powering breakthroughs in frontier technologi
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
 Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong, a long-awaited step for the firm after its attempts to list in New York or London stalled. The firm plans to issue up to 341.6 millio
@@ -152,12 +158,6 @@ China eased a boycott of higher-end Nvidia processors, seeking to balance concer
 
 ## China’s appeal as portfolio diversifier grows, BlackRock strategist says
 China is increasingly being viewed by global investors as not only a growth opportunity but also a potential portfolio diversifier, as higher inflation, market volatility and changing correlations challenge traditional asset-allocation strategies, according to BlackRock’s global chief investment str
-
-## Hong Kong exchange marks progress in luring more listings from abroad
-The Hong Kong stock exchange is drawing a growing number of foreign companies from across Asia and North America that are seeking international capital, as the bourse marks progress in its ambition to be a global magnet for fundraising. The latest firm seeking to join the cohort is Kazakhstan Temir 
-
-## Uniqlo defies sluggish China market with double-digit profit growth
-Japanese apparel retailer Uniqlo posted higher revenue and double-digit profit growth in mainland China over the three-month period ending in May, defying sluggish domestic consumption and lingering bilateral tensions. Same-store sales rose, driven by enhanced marketing and “buoyant demand” for summ
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -183,6 +183,18 @@ Former Ukrainian Foreign Minister Dmytro Kuleba on the White House’s seeming c
 ## What in the World?
 Test yourself on the week of July 4: China test-fires a missile, the Philippines begins an impeachment trial, and Turkey hosts the NATO leaders’ summit.
 
+## Debate in Delhi on Trump, Trust, and Strategic Choices
+Are India’s fraying relations with the US transient, or do they represent a fundamental rupture with long-term impacts on US-India relations and India’s growth story?
+
+## Space Technology is Redefining Maritime Security in South Asia
+The future of maritime security in the Indian Ocean will be defined not by control of sea lanes alone, but by the ability to monitor, interpret, and act in real time.
+
+## What the Pentagon’s CMC List Means for China-US Relations
+The new list of Chinese Military Companies includes some of China’s best-known private firms: Tencent, DJI, Unitree, and Alibaba.
+
+## India and Australia Are Reshaping What It Means To Be Strategic Partners
+Amid power shifts in the Indo-Pacific, there is greater realization in both countries of each other’s value as a stable, reliable partner.
+
 ## Israel’s Pivot to Asia
 Israel's reliance on longstanding partnerships with the United States and a handful of European countries is no longer sufficient. But can it build durable relationships in Asia?
 
@@ -194,18 +206,6 @@ Hanoi is ramping up semiconductor investment, but will it succeed in boosting do
 
 ## Why Russia May Share Intelligence – Not Satellites – With North Korea
 Rather than helping North Korea build military satellites, what if Moscow simply shares the intelligence collected by its existing satellite network?
-
-## Why Kazakhstan Is Changing Where Its History Begins
-Under Tokayev, Kazakhstan is reshaping its official understanding of statehood, extending the country's historical narrative centuries beyond independence
-
-## Modi in Melbourne: Wide-ranging Australia-India Cooperation Deepens
-The contemporary Australia-India relationship is built on an increasingly interconnected web of institutional cooperation.
-
-## Tibet’s Role in China’s Green Energy Supply Chain
-Tibet stands at the forefront of China’s wind, solar, and hydropower. But the Tibetan people have no say over how their resources are used.
-
-## The Power Struggle at the Heart of Nepal’s Ruling Party
-Differences between Prime Minister Balendra Shah and RSP chief Rabi Lamichhane, two politicians with competing centers of authority, were inevitable.
 
 ## Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore
 When the United States and Iran announced their framework agreement on June 15, attention focused on the direct U.S.-Iran dimensions of the deal, including the reopening of the Strait of Hormuz, the lifting of the U.S. naval blockade, and the fate of Iran’s nuclear program. But the agreement also in
@@ -255,11 +255,20 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers
+Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.
+
+## Yamal does not mind lack of goals if Spain win World Cup 2026
+Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.
+
+## Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts
+Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.
+
 ## Why the new US housing bill won’t fix the crisis
 Why the new US housing bill won't fix the crisis.
 
-## Iran war live: US demands Iran publicly state Strait of Hormuz open for all
-US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz
+## Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him
+US president says orders given to 'decimate and destroy all areas of Iran' if he is assassinated
 
 ## Nicaragua strips lawyers of certification in latest crackdown on dissent
 The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.
@@ -269,15 +278,6 @@ US President Donald Trump has placed the Caribbean island under a de facto oil b
 
 ## Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets
 The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.
-
-## Colombia’s Jaminton Campaz receives death threats after World Cup exit
-Campaz was threatened after failing to score in the last-16 match against Switzerland, which Colombia lost on penalties.
-
-## Under Lula, Amazon deforestation falls to lowest level in a decade
-The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.
-
-## Canada’s Bill C-36 tackles AI privacy. Is it enough?
-Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
