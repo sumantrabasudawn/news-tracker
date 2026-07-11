@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Donald Trump clears path for $4.5bn bridge between Canada and US
+President drops objection to much delayed project after claiming to have won ‘much better deal’
+
 ## Police ‘pursuing enquiries’ in Widdecombe murder case after releasing arrested man
 Devon and Cornwall force said 26-year-old was no longer part of the investigation and issued appeal for help
 
@@ -20,9 +23,6 @@ Suspense over the far-right leader’s fate plays into her party’s hands
 
 ## UK inflation is not distributed equally
 The poorest pay the most in an energy shock
-
-## Sadiq Khan lobbies for Ed Miliband to become chancellor
-Energy secretary wins support from London mayor but faces opposition from some Labour MPs over his net zero policies
 
 ## World Cup TV rights in the US: no longer a discount
 Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
@@ -114,10 +114,13 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
+## Argentina vs Switzerland LIVE Score, FIFA World Cup 2026 Quarterfinal: Eyes on Messi as ARG eye semis spot
+
+
 ## Express News Quiz: Sunny Deol, FIFA World Cup and Diljit Dosanjh’s film pulled
 
 
-## Norway vs England Live, FIFA World Cup: Goalless after 15 mins in Miami
+## Norway vs England Live, FIFA World Cup: Jude Bellingham scores; NOR 1-1 ENG at half-time
 
 
 ## Following Kvitova’s footsteps, Linda Noskova crowns Wimbledon dream
@@ -133,9 +136,6 @@ A speedboat carrying 32 Indian tourists and four crew members overturned about 4
 
 
 ## Bollywood at Wimbledon: Throwback to the best celeb fashion moments courtside
-
-
-## Neeru Dhanda wins India’s first-ever gold medal in women’s trap at ISSF World Cup
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge dismisses January 6 case against Proud Boys after Trump order
+The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters.
+
+## Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal
+Live coverage and updates from our text commentary stream as Messi's Argentina face Switzerland in the quarterfinals.
+
 ## UK police investigate murder of politician Ann Widdecombe
 Politician Ann Widdecombe was found dead with serious injuries, with police confirming a murder investigation underway
 
@@ -275,12 +281,6 @@ US Rep Ro Khanna speaks out about being harassed by Israeli settlers
 
 ## Trump administration subpoenas New York Times reporters over coverage
 Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.
-
-## South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup
-South Africa and Mamelodi Sundowns midfielder died after featuring in his nation's run to the World Cup round of 32.
-
-## US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal
-Sources tell Al Jazeera that talks are focused on establishing mechanism for first of two so-called "pilot zones".
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
