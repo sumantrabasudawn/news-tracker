@@ -114,6 +114,12 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
+## Express News Quiz: Sunny Deol, FIFA World Cup and Diljit Dosanjh’s film pulled
+
+
+## Norway vs England Live, FIFA World Cup: Goalless after 15 mins in Miami
+
+
 ## Following Kvitova’s footsteps, Linda Noskova crowns Wimbledon dream
 
 
@@ -130,12 +136,6 @@ A speedboat carrying 32 Indian tourists and four crew members overturned about 4
 
 
 ## Neeru Dhanda wins India’s first-ever gold medal in women’s trap at ISSF World Cup
-
-
-## S Janaki (1938-2026): Vijay, Rajinikanth, Chiranjeevi and others pay tribute to legendary singer
-
-
-## The Odyssey premiere: Nolan, Damon, Holland sip chai; Dimple Kapadia, Shruti Haasan attend
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UK police investigate murder of politician Ann Widdecombe
+Politician Ann Widdecombe was found dead with serious injuries, with police confirming a murder investigation underway
+
+## What’s behind Pakistan’s mass deportation of Afghans?
+Islamabad cites national security concerns, returns thousands of undocumented migrants.
+
 ## Thousands gather in Srebrenica to mark 31 years since genocide
 Ten newly identified victims were buried as the more than 8,000 Bosnian Muslim men and boys killed were remembered.
 
@@ -275,12 +281,6 @@ South Africa and Mamelodi Sundowns midfielder died after featuring in his nation
 
 ## US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal
 Sources tell Al Jazeera that talks are focused on establishing mechanism for first of two so-called "pilot zones".
-
-## Evacuations as landslide threatens Indian village, construction firm blamed
-A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate
-
-## Noskova defeats Muchova in Wimbledon final to record first Grand Slam title
-Linda Noskova's victory over Karolina Muchova makes her the third Czech women's singles champion in past four years.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
