@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Marine Le Pen’s redemption story
+Suspense over the far-right leader’s fate plays into her party’s hands
+
+## UK inflation is not distributed equally
+The poorest pay the most in an energy shock
+
 ## Police release man arrested on suspicion of murder of Ann Widdecombe
 Devon and Cornwall force says 26-year-old is no longer part of the investigation
 
@@ -18,11 +24,8 @@ Potential hotspots include a reformist new Fed chair, weak Japanese yen and high
 ## Wealthy warned over HMRC’s use of AI in tax crackdown
 Advisers put rich on alert after authority says digital tools brought in billions in tax last year
 
-## Inside the risky race through the Strait of Hormuz
-Vessels that dare to use route close to Oman’s coast face increased risk of Iranian missiles
-
-## Further increases to UK minimum wage would be risky, warns Low Pay Commission
-Economy may not be able to absorb raising wage floor further towards median earnings, says advisory body
+## Trump ups the pressure on US companies in drive to lower prices
+Critics fear shift to ‘hyper-populist playbook’ as inflation lingers
 
 ## World Cup TV rights in the US: no longer a discount
 Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
@@ -30,14 +33,23 @@ Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to
 ## Lawn Tennis Association set to move into venture capital investing
 Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines
 
+## Inside the risky race through the Strait of Hormuz
+Vessels that dare to use route close to Oman’s coast face increased risk of Iranian missiles
+
 ## What’s really going on with mental health?
 Changing terminology risks misleading policymakers and harming those in most need
 
 ## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
 Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
-## Why the chips are down despite the AI boom
-Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise
+## Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
+Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
+
+## Nifty and Nifty Bank Prediction for the week 13-Jul’26 to 17 Jul’26 by BL GURU
+
+
+## 15 people, including Indian tourists, feared dead in Vietnam boat capsize incident: local media
+According to VN Express International, the speedboat was carrying 32 Indian tourists and four crew members from Hon May Rut to An Thoi Port when it capsized off Hon May Rut Ngoai
 
 ## Reliance Anil Ambani Group money laundering case: ED attaches fresh assets worth over ₹1,000 cr
 The investigation stems from a CBI FIR against Reliance Home Finance Limited (RHFL) and Reliance Commercial Finance Limited (RCFL)
@@ -54,17 +66,8 @@ Despite the improvement in rainfall, the report cautioned that Kharif sowing rem
 ## Over 1.7 cr ITRs filed for AY 2026-27: I-T dept
 The last date to file ITRs 1 and 2 for income earned in 2025-26 fiscal year is July 31
 
-## Indian envoy in Sri Lanka meets visiting business delegation
-They discussed expanding Indian exports and strengthening the bilateral trade partnership, including building stronger supply chains
-
-## Multiple New York Times reporters issued subpoenas over Air Force One reporting
-The subpoenas aim to compel reporters to testify before a Manhattan federal grand jury on Wednesday, with some being delivered to their homes
-
-## India seeks review of proposed tariff, cites flaws in USTR's report on forced labour probe
-The USTR has not satisfied the relevant legal standards under Section 301(d) of the Trade Act
-
-## Reverse oil flow: India supplies gasoline to Russia - why it matters
-Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
+## How trains running at 160 kmph aim to transform Delhi-NCR and cities around it
+The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.
 
 ## NSE Indices launches Nifty500 Ahimsa Index: From 'ethical' filters to screening, how the benchmark works
 NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned with non-violence principles. This new index targets investors seeking animal welfare considerations in their portfolios. Companies are screened using the Ahimsagain Foundation's AIM framework for eligibility. The index o
@@ -87,11 +90,20 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## Amfi data: Equity flows via SIPs increase 2.7% in June
 
 
+## Aero India-2027 to be held in Bengaluru from February 8-12
+Aero India-2027 will be held from February 8-12 in Bengaluru, aiming to boost India's defense manufacturing and exports, marking its largest edition yet.
+
+## Panchayat polls in Karnataka likely in October or November, says state minister
+The Minister for Rural Development and Panchayat Raj revealed that the proposal will be submitted to EC after completing delimitation and reservation matrix
+
+## ‘Want to light a fire here?’: Omar attacks Centre on delay in restoring Jammu and Kashmir statehood
+“It is our patience that we are still working like donkeys to achieve something for the people of Jammu and Kashmir,” CM Omar Abdullah said.
+
 ## Choppy waters, boat overturned: Video from spot where 15 Indians died in Vietnam
 The Indian embassy has said it is in touch with local authorities and closely monitoring the situation.
 
 ## Helle Lyng, who questioned PM Modi's media policy in Norway, hails redux in Australia, NZ: ‘Impact spreading’
-Norwegian journalist says debate over Indian PM's media interactions and “decline of press freedom”is spreading, “small countries can make a difference”
+Norwegian journalist says debate over Indian PM's media interactions and “decline of press freedom” is spreading, “small countries can make a difference”
 
 ## Who are BJP's surprise picks for bypolls? Candidate change in Bihar's Bankipur, new face in MP's Datia
 The BJP replaced its nominee in Bihar’s Bankipur seat and chose a new face over senior leader Narottam Mishra in Madhya Pradesh’s Datia.
@@ -102,37 +114,28 @@ It was pulled from OTT platforms for viewers in India 2 days after its release a
 ## India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations
 India has strongly objected to USTR's proposed tariff, saying it has engaged sincerely on forced labour issues, urging the US to reconsider its determination
 
-## Elephant attacks claim two more lives in Chhattisgarh, panic grips villages
-2 persons were killed in separate attacks by wild elephants in Chhattisgarh's Raigarh , taking the number of such fatalities in the state to 3 this week alone.
-
-## Norway to Australia and now New Zealand, questions chase PM Modi's no-press-conference policy
-New Zealand exchange came day after remark by Australian TV reporter about Modi's media policy went viral; two months after big row in Oslo, Norway
-
-## New Oxford University study on heat-risk cities includes 14 from India: See full top 50 list here
-The Oxford University study, published in the Sustainable Cities and Society journal, looked at heat vulnerability rather than mere exposure.
-
-## India vs England 5th T20I Live score and updates: IND will lock horns with ENG in Rose Bowl
+## Wading through floodwater, Mumbai woman develops painful red bumps and fever: What is leptospirosis?
 
 
-## Police to conduct brain-mapping test on Bengaluru triple murder accused
+## Many of the dead in Vietnam boat tragedy worked with Lava Mobiles, are residents of Andhra Pradesh
 
 
-## Cancelled by your future self? The fear isn’t censorship. It’s permanence
+## Morbi fire destroys Rs 42 crore groundnuts: Why Gujarat’s peanut warehouses are prone to fires
 
 
-## Boat carrying Indian tourists capsizes in Vietnam’s Phu Quoc
+## Court lets US Green Card holder depose via video in late husband’s will case
 
 
-## Ranbir Kapoor’s Ramayana: Part 1 gets trailer release date; makers reveal details
+## DU receives over 1.9 lakh applications for UG admissions; first allotment list on July 16
 
 
-## Bengaluru family of 4 found dead, police suspect triple murder-suicide
+## Delhi High Court’s ruling on Telegram marks a tectonic shift in digital law
 
 
-## How tribal land disputes persist in Jharkhand despite legal safeguards
+## Amid Datia blowback, a question: Why BJP blocked Narottam Mishra’s comeback
 
 
-## Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’
+## Vietnam boat capsize updates: Indian embassy sets up control room, says details being probed
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -255,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Land sold for Kushner-backed Albania resort suspected of forged deeds
+Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.
+
+## World cup wrap day 30
+World cup wrap day 30
+
 ## Hundreds of thousands evacuated as Typhoon Bavi barrels towards China
 Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.
 
@@ -272,12 +281,6 @@ Latest match highlights, reaction and previews from the FIFA World Cup 2026 in N
 
 ## Russian overnight strikes on Kyiv injure ten
 Russian overnight strikes on Kyiv injure ten
-
-## ‘Sealed in blood’: Where does the China-North Korea alliance stand today?
-China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.
-
-## Trump threatens Iran after chants for his death erupted at Khamenei funeral
-US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
