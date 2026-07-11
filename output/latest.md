@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump says US has agreed to continue talks with Iran
+President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz
+
 ## Apple sues OpenAI alleging theft of top-secret information
 Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley
 
@@ -20,9 +23,6 @@ General Fusion’s ‘steampunk’ approach to the technology is under scrutiny 
 
 ## At least 12 people die in Spanish wildfire as heatwave grips Europe
 Alarm over summer of blazes as third wave of extreme heat hits region
-
-## US senators strike deal with White House to tighten Russia sanctions
-Potential breakthrough comes days after Donald Trump signalled shift towards more support for Kyiv
 
 ## Carmakers fight off bulk of multibillion-pound UK ‘dieselgate’ case
 About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
@@ -66,26 +66,26 @@ However, existing SIP, STPs to continue in 7 overseas schemes
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
 
-## India building strategic oil reserves: ONGC board approves plan for 1.75-million-tonne storage capacity
-As the world's third-largest importer and consumer of crude oil, India relies on imports for more than 88 per cent of its crude oil requirements. Against the backdrop of geopolitical uncertainty and fluctuations in global oil markets.
-
-## US stocks today: Market trades flat, heads towards subdued end to week; oil prices stable
-As uncertainty surrounding the strait persists, investors on Wall Street have begun shifting their attention to the upcoming earnings season, when companies will report their spring-quarter financial results.
-
-## Auto financiers push industry to embed financing into car sales to make it seamless
+## Oyo-Zostel appeal to be heard on August 12
 
 
-## E20 petrol row: Govt answers 9 FAQs on ethanol-blended petrol’s impact on mileage, performance, damage, pricing & more
-The government has said that the Ethanol Blended Petrol (EBP) Programme is a major component of India's energy strategy, designed to strengthen energy security, support the farming community and lower environmental impact by increasing the use of domestically produced renewable fuel.
-
-## Forex reserves rise by $7.3 billion in week ended July 3
+## Tractors defy rain concerns as Q1 sales jump 19%
 
 
-## Bank of Maharashtra net profit up 27% to Rs 2023 crore
+## $1bn SEZs in the works to boost seafood exports
 
 
-## India’s first hydrogen-powered train notified: Know route, launch date & what makes it special
-The government says that project underscores Indian Railways' wider focus on technological innovation, improved energy efficiency and environmentally sustainable transportation, while supporting India's national objectives on clean energy and achieving net-zero carbon emissions.
+## Amfi data: Equity flows via SIPs increase 2.7% in June
+
+
+## Vivo-Dixon JV: A template for Chinese phone companies in India
+
+
+## Indian Bank targets $2 billion through FCNR deposits
+
+
+## EV ownership cost rises with battery-as-service
+
 
 ## NCERT blacklists firm, skips court date to defend decision; Pradhan orders probe
 The ministry has also asked NCERT to examine how the firm was awarded the contract for supply of Maplitho paper for academic year 2026-27
@@ -111,28 +111,28 @@ PM Narendra Modi arrived in New Zealand on the final leg of his three-nation tou
 ## ED files chargesheet against Shantanu Sinha Biswas in Bengal land grabbing case
 The ED filed a PMLA chargesheet against suspended Kolkata police officer Shantanu Sinha Biswas in the multi-crore property grabbing and land deals case.
 
-## Narendra Modi first Indian PM to visit New Zealand in 40 years, trade and sports top agenda
+## Nara Lokesh at Express Adda: ‘In Andhra, Namo means Naidu ji and Modi ji ki jodi’
 
 
-## Government panel wants ban on Satluj to stay, says film whitewashes terror
+## After 4 months, FIIs start returning to Indian stocks — but not much has changed
 
 
-## Sarvesh Kushare becomes first Indian to finish in top 3 on Diamond League debut
+## Why more people are choosing Tai Chi walking for better health
 
 
-## How Sinner outclassed Djokovic to seal 2nd consecutive Wimbledon final spot
+## Four teams, 4 plans, 1 result: How France keep winning at this FIFA World Cup
 
 
-## Smriti Mandhana shines with 83 as India bowled out for 285
+## In Assam Budget, satellite city near Guwahati airport, semiconductor push
 
 
-## Modi, Albanese announce Big Bash League opener in Chennai
+## ‘We don’t travel by train anymore’: 20 years after 7/11 Mumbai blasts, survivors wait for justice
 
 
-## How severe anxiety affected Prince Narula’s health and marriage with Yuvika Chaudhary
+## Pune landslide: Satellite image shows office to garbage mound distance was 16 metres and not 30
 
 
-## AIMIM, NCP lose one BMC corporator each after caste certificates invalidated
+## As Satluj creates ripples… Centre considers amending IT rules, make certification must for non-theatre films too
 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why the new US housing bill won’t fix the crisis
+Why the new US housing bill won't fix the crisis.
+
+## Iran war live: US demands Iran publicly state Strait of Hormuz open for all
+US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz
+
+## Nicaragua strips lawyers of certification in latest crackdown on dissent
+The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.
+
+## Cuba suffers second island-wide blackout in a week amid Trump fuel blockade
+US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.
+
+## Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets
+The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.
+
 ## Colombia’s Jaminton Campaz receives death threats after World Cup exit
 Campaz was threatened after failing to score in the last-16 match against Switzerland, which Colombia lost on penalties.
 
@@ -263,21 +278,6 @@ The figures come months before Brazil’s presidential election, with Lula promi
 
 ## Canada’s Bill C-36 tackles AI privacy. Is it enough?
 Canada’s new privacy bill promises stronger protections for children, but experts say it still misses risks in the AI world.
-
-## Spain leave it late to book semifinal date with France
-Mikel Merino comes off the bench to break Belgian hearts after slip from sub keeper Senne Lammens.
-
-## Dozens of abducted schoolchildren and teachers rescued in Nigeria
-The hostages were taken from three separate schools in the southwestern state of Oyo in May.
-
-## Lebanon historic sites destroyed by Israeli strikes
-Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.
-
-## How Wong Kim Ark’s legacy reignited the fight for birthright citizenship
-Sandra Wong did not know her great-grandfather growing up. But his legacy would catapult her into the public eye.
-
-## Ukrainian attacks cause chaos at fuel stations across Russia
-Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
