@@ -114,6 +114,9 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
+## Following Kvitova’s footsteps, Linda Noskova crowns Wimbledon dream
+
+
 ## Total surrender by India in England, Shreyas Iyer’s team swept 4-0
 
 
@@ -133,9 +136,6 @@ A speedboat carrying 32 Indian tourists and four crew members overturned about 4
 
 
 ## The Odyssey premiere: Nolan, Damon, Holland sip chai; Dimple Kapadia, Shruti Haasan attend
-
-
-## Lawyer booked for assault, wrongful confinement of Army officer at Panchkula court
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Thousands gather in Srebrenica to mark 31 years since genocide
+Ten newly identified victims were buried as the more than 8,000 Bosnian Muslim men and boys killed were remembered.
+
+## ‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes
+As the death toll in Venezuela surges past 4,000, families continue to hold out hope that loved ones might be found.
+
+## US Rep Ro Khanna speaks out about being harassed by Israeli settlers
+US Rep Ro Khanna speaks out about being harassed by Israeli settlers
+
 ## Trump administration subpoenas New York Times reporters over coverage
 Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.
 
@@ -272,15 +281,6 @@ A landslide during heavy monsoon rains tore through the Indian hill town of Shim
 
 ## Noskova defeats Muchova in Wimbledon final to record first Grand Slam title
 Linda Noskova's victory over Karolina Muchova makes her the third Czech women's singles champion in past four years.
-
-## England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal
-Live coverage and text updates as England play Norway in a quarterfinal clash in Miami.
-
-## US lawmaker slams Israeli army after settlers detain him on Palestine trip
-Lawmaker Khanna accuses soldiers of supporting the settlers, warning that Israeli forces made a 'huge mistake'.
-
-## FIFA is not an independent sporting organisation; it is a political tool.
-Football fans around the world are only now finding out what Palestinians have long known.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
