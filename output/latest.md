@@ -24,6 +24,9 @@ Vessels that dare to use route close to Oman’s coast face increased risk of Ir
 ## Further increases to UK minimum wage would be risky, warns Low Pay Commission
 Economy may not be able to absorb raising wage floor further towards median earnings, says advisory body
 
+## World Cup TV rights in the US: no longer a discount
+Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
+
 ## Lawn Tennis Association set to move into venture capital investing
 Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines
 
@@ -36,32 +39,29 @@ Sandwich chain’s float a test of appetite for a sector pinched by concerns ove
 ## Why the chips are down despite the AI boom
 Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise
 
-## How to find a restaurant on holiday
-Swerve the tourist traps this summer with Marina O’Loughlin’s tried-and-tested tips
+## Reliance Anil Ambani Group money laundering case: ED attaches fresh assets worth over ₹1,000 cr
+The investigation stems from a CBI FIR against Reliance Home Finance Limited (RHFL) and Reliance Commercial Finance Limited (RCFL)
+
+## "Indian Navy not just a fighting force, but strong guardian of India's economic interests": Rajnath Singh
+"Recent events have once again demonstrated how essential a capable and responsive navy is for any nation," Rajnath Singh
+
+## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
+The consumer complaints relate to alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
+
+## Monsoon deficit narrows sharply, but weak Kharif sowing remains a key risk: Report
+Despite the improvement in rainfall, the report cautioned that Kharif sowing remains significantly behind last year's pace
+
+## Over 1.7 cr ITRs filed for AY 2026-27: I-T dept
+The last date to file ITRs 1 and 2 for income earned in 2025-26 fiscal year is July 31
+
+## Indian envoy in Sri Lanka meets visiting business delegation
+They discussed expanding Indian exports and strengthening the bilateral trade partnership, including building stronger supply chains
+
+## Multiple New York Times reporters issued subpoenas over Air Force One reporting
+The subpoenas aim to compel reporters to testify before a Manhattan federal grand jury on Wednesday, with some being delivered to their homes
 
 ## India seeks review of proposed tariff, cites flaws in USTR's report on forced labour probe
 The USTR has not satisfied the relevant legal standards under Section 301(d) of the Trade Act
-
-## HDFC Bank firmly rooted in corporate governance, merger related synergies progressing well: Keki Mistry
-‘We remain committed to maintaining the highest standards of transparency, accountability and oversight,’ Mistry said in a message to shareholders
-
-## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
-The consumer complaints have alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
-
-## Ratification process for India-NZ FTA has begun, no set timeline yet: MEA
-Secretary (East) in the MEA, Rudrendra Tandon, stated that New Zealand assured India of bipartisan support for the agreement and a swift ratification process
-
-## India, New Zealand express concern over Ukraine
-Both countries resolve to support efforts towards achievement of a just and lasting peace through dialogue and diplomacy
-
-## EAM Jaishankar to launch India’s UNSC campaign, meet UNSG Guterres next week
-He will launch India’s official campaign for the UN Security Council tenure 2028-29 at a special event in the UN headquarters on Monday
-
-## Kharif sowing drives tractor sales past one lakh units in June
-Market leader Mahindra & Mahindra (M&M) further consolidated its dominance across both its Mahindra and Swaraj brands
-
-## Passenger partially sucked out of window on Ryanair flight from Greece
-The incident happened on a morning flight from the northern Greek city of Thessaloniki to Memmingen, near Munich, which was operated by Ryanair subsidiary Malta Air
 
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
@@ -87,53 +87,56 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## Amfi data: Equity flows via SIPs increase 2.7% in June
 
 
-## ‘Who abandoned Karur?’ Senthil Balaji hits back at CM Vijay over stampede remarks
-In response to CM Vijay's comments about the stampede, DMK's V Senthil Balaji defended his party's actions during the crisis.
+## Choppy waters, boat overturned: Video from spot where 15 Indians died in Vietnam
+The Indian embassy has said it is in touch with local authorities and closely monitoring the situation.
 
-## 'Won't term it lynching': West Bengal CM on killing of Indrajit Mondal after Baruipur unrest
-Indrajit Mondal was beaten to death by a mob amid widespread outrage over the girl's killing.
+## Helle Lyng, who questioned PM Modi's media policy in Norway, hails redux in Australia, NZ: ‘Impact spreading’
+Norwegian journalist says debate over Indian PM's media interactions and “decline of press freedom”is spreading, “small countries can make a difference”
 
-## 3 Delhi residents killed, 4 injured after car hits parked canter on UP’s Rampur road
-Three Delhi residents were killed and four injured after their car hit a parked canter in Uttar Pradesh’s Rampur while travelling to Corbett National Park.
+## Who are BJP's surprise picks for bypolls? Candidate change in Bihar's Bankipur, new face in MP's Datia
+The BJP replaced its nominee in Bihar’s Bankipur seat and chose a new face over senior leader Narottam Mishra in Madhya Pradesh’s Datia.
 
-## 'Not the way': BJP's Narottam Mishra after supporters turn violent over Datia poll ticket pick
-Narottam Mishra said the BJP's decision should be respected and differences should be raised through the party's internal forums.
+## Govt appointed committee backs ban on ‘Satluj’, cites ‘sovereignty’ and 'security' concerns
+It was pulled from OTT platforms for viewers in India 2 days after its release after the Ministry of Information and Broadcasting cited security concerns.
 
-## Movie-like gunfight in Gurugram's upscale Sushant Lok kills 4, puts spotlight again on rapper-gangster Deepak Nandal
-Encounter unfolded after five alleged members of Nandal's gang entered home of property dealer and held him hostage, police said.
+## India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations
+India has strongly objected to USTR's proposed tariff, saying it has engaged sincerely on forced labour issues, urging the US to reconsider its determination
 
-## SpaceX Falcon lands on legs, China's on a net — how will Isro's reusable rocket come home?
-From helicopter drop-tests to a still-unscheduled orbital trial, what Isro's RLV programme has achieved, and how it differs from SpaceX and China.
+## Elephant attacks claim two more lives in Chhattisgarh, panic grips villages
+2 persons were killed in separate attacks by wild elephants in Chhattisgarh's Raigarh , taking the number of such fatalities in the state to 3 this week alone.
 
-## New Zealand journalist asks why PM Modi doesn't hold press conferences. Diplomat's response is this
-During the interaction, a New Zealand journalist asked Indian diplomats: “Why has PM Modi not done a press conference?”
+## Norway to Australia and now New Zealand, questions chase PM Modi's no-press-conference policy
+New Zealand exchange came day after remark by Australian TV reporter about Modi's media policy went viral; two months after big row in Oslo, Norway
 
-## Navy gets new stealth frigate as Rajnath Singh commissions INS Mahendragiri
-Named after the Mahendragiri mountain range in the Eastern Ghats, the frigate symbolises resilience, strength and unwavering resolve.
+## New Oxford University study on heat-risk cities includes 14 from India: See full top 50 list here
+The Oxford University study, published in the Sustainable Cities and Society journal, looked at heat vulnerability rather than mere exposure.
 
-## Taylor Swift paid $160k for Madison Square Garden wedding permit, security: Mayor Mamdani
-
-
-## West Bengal Police freeze 12 more TMC accounts, Rs 1,000 crore locked
+## India vs England 5th T20I Live score and updates: IND will lock horns with ENG in Rose Bowl
 
 
-## ‘Don’t mistake tumour markers for cancer screening’: Oncologist explains why
+## Police to conduct brain-mapping test on Bengaluru triple murder accused
 
 
-## New FCRA Rules threaten very existence of India’s civil society
+## Cancelled by your future self? The fear isn’t censorship. It’s permanence
 
 
-## Income Tax job, interview at MCD building. Then Delhi guard lost Rs 2 lakh
+## Boat carrying Indian tourists capsizes in Vietnam’s Phu Quoc
 
 
-## World Cup 2026: Why substitutes keep deciding matches in the final 20 minutes
+## Ranbir Kapoor’s Ramayana: Part 1 gets trailer release date; makers reveal details
 
 
-## US visa fraud: Four ex-police chiefs plead guilty over fake U-Visas for foreigners
+## Bengaluru family of 4 found dead, police suspect triple murder-suicide
 
 
-## Punjab Congress meeting: Channi camp holds talks with Baghel amid leadership row
+## How tribal land disputes persist in Jharkhand despite legal safeguards
 
+
+## Meta pulls AI image feature after privacy backlash, says ‘it missed the mark’
+
+
+## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
+BYD, the world’s largest electric vehicle (EV) maker, has intensified efforts to promote its high-performance batteries and superfast charging technology around the world as it tests a car that it says boasts the world’s longest driving range in a journey from Rome to Hong Kong. A fleet of upgraded 
 
 ## Volkswagen China deliveries see 26% drop year on year to lowest point since 2010
 Volkswagen Group’s deliveries in China slumped during the first half of 2026 to their lowest level in 16 years, as local electric vehicle (EV) brands further siphoned off buyers’ interest in petrol cars amid a slowing market. Through its three ventures with Chinese partners, the German car brand han
@@ -155,9 +158,6 @@ Hong Kong’s government will release just one residential site for sale in the 
 
 ## Why Payward chose Hong Kong to be its Asian stablecoin gateway
 With its multi-currency advantages and regulatory clarity, Hong Kong has become a critical gateway connecting stablecoins – cryptocurrencies pegged to a stable asset like the US dollar – with traditional finance. Executives said this would help businesses cut costs, lower risks and support expansion
-
-## Nvidia gets China boost, Iran ceasefire breaks, GDP release
-China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is among select businesses that will be eligible to buy H200s, Nvidia’s second-bes
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Hundreds of thousands evacuated as Typhoon Bavi barrels towards China
+Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.
+
+## Cuba suffers second nationwide blackout in five days
+Cuba suffers second nationwide blackout in five days
+
+## Russian missile attacks wound 11 in Kyiv
+In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.
+
+## Indonesia’s anti-graft prosecutor quits after police seize gold and cash
+Police seized 74kg of gold bars and $20m cash in various currencies.
+
+## Watch World Cup: Merino, Spain beats Belgium, move on to semifinals
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
 ## Russian overnight strikes on Kyiv injure ten
 Russian overnight strikes on Kyiv injure ten
 
@@ -263,21 +278,6 @@ China and North Korea are celebrating the 65th anniversary of a friendship treat
 
 ## Trump threatens Iran after chants for his death erupted at Khamenei funeral
 US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.
-
-## Wembanyama signs contract with Spurs for five years, $252m: Report
-Victor Wemnanyama, the NBA's tallest player, inked the third-largest rookie extension in history.
-
-## World Cup quarterfinals today: Schedule, predictions, Haaland’s viral rise
-England face Norway and Argentina take on Switzerland for the final two World Cup semifinal spots.
-
-## Argentina vs Switzerland: World Cup quarterfinal – Messi, prediction, news
-Lionel Messi's Argentina faces Breel Embolo's Switzerland for a place in the semifinals of the FIFA World Cup 2026.
-
-## Venezuelan doctors convert restaurant into a clinic after earthquake
-Volunteers in La Guaira have transformed a fast-food restaurant into an emergency clinic.
-
-## Meta backtracks on AI-image feature for Instagram due to privacy backlash
-Meta has rolled back its ‘Muse Image’ AI feature after widespread backlash over privacy and consent.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
