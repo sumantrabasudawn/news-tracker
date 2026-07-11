@@ -39,29 +39,29 @@ Changing terminology risks misleading policymakers and harming those in most nee
 ## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
 Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
-## India’s natural gas demand likely to decline by 8% in 2026
-IEA pointed out that despite a significant softening in gas demand, India’s weak domestic gas production kept LNG imports up on the year
+## Buy ITC put option
+The stock finds an immediate resistance at ₹300 followed by ₹325
 
-## Swiggy says Toing FSSAI issue resolved after licence update; no food safety concerns
-In a regulatory filing, the company said it had received a prohibition order dated July 6 from the FSSAI’s designated officer in Karnataka over certain observations related to its FSSAI licence for Toing
+## SME IPO mirage: Debut dazzle, long-term damage
+BITTER AFTERTASTE. Over 500 SME IPOs from the past decade are under water; 46 per cent of 100x-subscribed issues are trading below offer price
 
-## DMart Board approves ₹1,000 crore NCD Issue as Q1 profit rises 12.8%
-Revenue rose 15.1% to ₹18,343 crore, and the retailer added three stores during the quarter
+## SBI’s OFS size in SBI MF IPO reduces by 2.88 crore equity shares following secondary share sale
+In the wake of the pre-IPO share sale, the size of the OFS by SBI in SBI MF’s IPO has been revised from up to 12.83 crore equity shares
 
-## Think. Over the week
-Explore our Editorial’s insights on fiscal challenges, AI in courts, WhatsApp privacy, and the rupee’s stability this week
+## Who am I? July 12, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Regenerative mustard programme to strengthen India’s edible oil value chain: AWL Agri Business
-A media statement said the encouraging results reinforce the potential of regenerative farming practices to strengthen India’s edible oil value chain while enhancing farmer livelihoods
+## Emcure subsidiary Gennova to transfer mRNA business to Immunoscript Life Science for ₹139 crore
+Gennova brought out India’s first mRNA Covid vaccine
 
-## Monsoon’s recovery helps improve storage in India’s major reservoirs
-However, over 50 per cent of the dams are still half-empty
+## DMart looks beyond Metros, after same-store sales slow to 5.5%
+With same-store (like-for-like) sales growth slowing to 5.5% from 7.1% and older metro stores posting flat growth, Avenue Supermarts is sharpening its focus on non-metro markets
 
-## Mutual Funds returns
-As on : Jul 11, 2026
+## Emirates is ready to introduce its Airbus A380 services to Hyderabad
+The CM also invited Emirates to establish Maintenance, Repair and Overhaul (MRO) facilities at the proposed airports in Warangal and Adilabad, positioning Telangana as an emerging aviation hub
 
-## Over 2 lakh micro food processing enterprises covered under PMFME: Chirag Paswan
-Around ₹6,000 crore given as subsidy so far under PMFME scheme, Paswan says
+## Edelweiss MF stops fresh inflow in 7 overseas schemes
+However, existing SIP, STPs to continue in 7 overseas schemes
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -87,7 +87,16 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## Omar Abdullah claims BJP offered his MLA ₹20-30 crore, ministerial berth, J&K ‘statehood’ to switch sides
+## India, New Zealand elevate ties, target ₹35,000 crore trade by 2030
+New Zealand was the final destination of Modi’s three-nation tour, which also included Indonesia and Australia and was focused on forging closer economic
+
+## Nita Ambani tops Fortune India Most Powerful Women 2026 list
+Fortune India Most Powerful Women 2026 list recognised100 women whose leadership is shaping India's economic and business landscape
+
+## Odisha orders Crime Branch probe into textbook errors; FIR to be filed: Govt
+The decision to hand the case over to the Crime Branch followed Majhi’s remarks that a “conspiracy” could be behind the factual inaccuracies
+
+## Omar Abdullah claims MLA was offered ₹20-30 crore, ministerial berth, J&K statehood to switch sides; BJP reacts
 Abdullah said the MLA rejected the offer given by the BJP official, who also happens to be a Supreme Court lawyer, and informed him about the approach.
 
 ## Two held after mob torches 6 houses in Manipur; tensions escalate: Police
@@ -99,40 +108,31 @@ A speedboat carrying 32 Indian tourists and four crew members overturned about 4
 ## Narottam Mishra gets an unusual offer after BJP ticket snub triggers violence in Madhya Pradesh
 State unit chief said if Mishra accepted the offer, Uddhav Thackeray and other senior leaders would campaign for him in Datia.
 
-## Vietnam boat accident LIVE: 'A big wave hit us', says survivor after 15 killed
+## Vietnam boat accident LIVE: Boat carrying Indians had barely travelled 300 metres when it capsized, says eyewitness
 Vietnam boat accident LIVE: Telangana set up a control room after the accident to provide information to the families of the tourists from the state who went to Vietnam, said officials.
 
-## Think tanks urge MoHUA to boost women e-bus drivers under PM scheme
-The report recommended that MoHUA launch a dedicated programme for women e-bus drivers aligned with the PM e-Bus Sewa scheme
-
-## Narottam Mishra says 'not sad at all' after BJP denies ticket for Datia bypoll
-Mishra also denied that any violence had taken place in Datia by his supporters, saying there was no vandalism
-
-## Bihar man, 48, arrested for raping 12-yr-old girl in Assam: Police
-Police said that the victim has been undergoing treatment since she fell ill and her mandatory medical examinations have been ordered
-
-## Dropping Vaibhav Sooryavanshi has exposed a lack of clarity from Gambhir and Iyer
+## The nightingale who sang in twenty tongues: The life and legacy of S Janaki
 
 
-## Throat slit, pushed down a gorge in Himachal, woman climbs back; husband, 2 others arrested
+## Look at performance over gender inclusivity in armed forces: Ex-CoAS Manoj Naravane
 
 
-## Punjab Congress crisis deepens as Channi sharpens ‘oust Warring’ pitch at key huddle
+## South Africa’s FIFA World Cup star Jayden Adams dies at 25 in Cape Town
 
 
-## UN Special Rapporteurs flag ‘discrimination’ in SIR exercise, seek government’s response
+## Gujarat High Court grants default bail to accused in Salaya narco-terror case
 
 
-## All-women staff, panic buttons: Delhi govt plans to expand ladies special bus service
+## Trump vs Supreme Leader Mojtaba: US warns it will ‘destroy all areas of Iran’; Tehran vows Khamenei revenge
 
 
-## Legendary playback singer S Janaki dies at 88; granddaughter shares emotional note
+## BJP-linked lawyer offered my MLA Rs 30 crore: Omar Abdullah before statehood protest
 
 
-## Bengaluru man sends videos to son detailing harassment over loan, dies by suicide
+## Dual-lock donation boxes, mandatory annual audits: Himachal Pradesh government issues guidelines for state-owned temples
 
 
-## Mohali court denies bail to two alleged Lucky Patial gang members in Rs 1 crore extortion, firing case
+## Annual trip sponsored by mobile firm turned tragic in Vietnam
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrians optimistic but cautious as sanctions removal revives economic hopes
+US decision to delist Syria as a 'state sponsor of terrorism' prompts cautious optimism among businesses and citizens.
+
+## Moldova’s president nominates businessman Vasile Tofan as prime minister
+The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.
+
+## Algeria and Mali restore diplomatic ties following yearlong rift
+Relations begin to thaw as both countries reinstate ambassadors, reopen airspace closed to each other since April 2025.
+
 ## UK police free suspect in ex-MP Ann Widdecombe murder investigation
 The former government minister is believed to have been attacked a full day before her body was discovered.
 
@@ -269,15 +278,6 @@ China prepares as Typhoon Bavi leaves Taiwan
 
 ## Zimbabweans return home amid xenophobic violence in South Africa
 Zimbabweans return home amid xenophobic violence in South Africa
-
-## Sheinbaum takes on cartels, Trump and the legacy of 1968
-Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO's shadow.
-
-## Speedboat accident in southern Vietnam kills 15 Indian tourists
-The Indian embassy says it has set up control rooms to respond to victims' families.
-
-## Land sold for Kushner-backed Albania resort suspected of forged deeds
-Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
