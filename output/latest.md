@@ -42,6 +42,15 @@ Changing terminology risks misleading policymakers and harming those in most nee
 ## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
 Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
+## Alpine Texworld to raise ₹126 cr through IPO for capacity expansion
+Alpine Texworld to issue 1.20 crore equity shares in the price band of ₹100 - ₹105 a share
+
+## Indian Navy protected ₹9,000 cr cargo during West Asia crisis, says Rajnath Singh
+He said this during the official commissioning ceremony of the indigenously-built advanced stealth frigate INS Mahendragiri at the Naval Dockyard in Visakhapatnam
+
+## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
+The consumer complaints relate to alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
+
 ## Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
 Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
 
@@ -57,14 +66,8 @@ The investigation stems from a CBI FIR against Reliance Home Finance Limited (RH
 ## "Indian Navy not just a fighting force, but strong guardian of India's economic interests": Rajnath Singh
 "Recent events have once again demonstrated how essential a capable and responsive navy is for any nation," Rajnath Singh
 
-## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
-The consumer complaints relate to alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
+## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
-## Monsoon deficit narrows sharply, but weak Kharif sowing remains a key risk: Report
-Despite the improvement in rainfall, the report cautioned that Kharif sowing remains significantly behind last year's pace
-
-## Over 1.7 cr ITRs filed for AY 2026-27: I-T dept
-The last date to file ITRs 1 and 2 for income earned in 2025-26 fiscal year is July 31
 
 ## How trains running at 160 kmph aim to transform Delhi-NCR and cities around it
 The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.
@@ -87,8 +90,17 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## Amfi data: Equity flows via SIPs increase 2.7% in June
+## ‘Waka is symbol of our shared journey’: PM Modi in New Zealand
+Prime Minister Narendra Modi used the traditional canoe from New Zealand's indigenous culture to highlight ties between the two countries
 
+## Punjab Cong rift widens despite Baghel's mediation: Channi camp's ‘compromising’ jibe draws sharp response from Warring
+Sukhjinder Singh Randhawa spoke after meeting between AICC Punjab in-charge Bhupesh Baghel and leaders close to former CM Charanjit Singh Channi
+
+## Vietnam tragedy: 32 Indian tourists were onboard boat which capsized | See list
+he speedboat was carrying 32 Indian tourists, according to the Embassy of India in Hanoi, Vietnam.
+
+## ‘My vehicle has never faced any issue’: BJP MP defends E20, admits mileage drop
+BJP MP Brij Lal claimed that the criticism surrounding the blended petrol is a politically motivated campaign by those opposed to the country's development.
 
 ## Aero India-2027 to be held in Bengaluru from February 8-12
 Aero India-2027 will be held from February 8-12 in Bengaluru, aiming to boost India's defense manufacturing and exports, marking its largest edition yet.
@@ -102,40 +114,28 @@ The Minister for Rural Development and Panchayat Raj revealed that the proposal 
 ## Choppy waters, boat overturned: Video from spot where 15 Indians died in Vietnam
 The Indian embassy has said it is in touch with local authorities and closely monitoring the situation.
 
-## Helle Lyng, who questioned PM Modi's media policy in Norway, hails redux in Australia, NZ: ‘Impact spreading’
-Norwegian journalist says debate over Indian PM's media interactions and “decline of press freedom” is spreading, “small countries can make a difference”
+## Meg Mason wants to keep the ‘grittiness’ in literature. Just don’t ask her to Tweet about it.
 
-## Who are BJP's surprise picks for bypolls? Candidate change in Bihar's Bankipur, new face in MP's Datia
-The BJP replaced its nominee in Bihar’s Bankipur seat and chose a new face over senior leader Narottam Mishra in Madhya Pradesh’s Datia.
 
-## Govt appointed committee backs ban on ‘Satluj’, cites ‘sovereignty’ and 'security' concerns
-It was pulled from OTT platforms for viewers in India 2 days after its release after the Ministry of Information and Broadcasting cited security concerns.
+## ‘I thought it was a scam’: How a random street encounter in Bombay led Madhavan to acting
 
-## India asks US to drop proposed 12.5% tariff, pushes for bilateral trade negotiations
-India has strongly objected to USTR's proposed tariff, saying it has engaged sincerely on forced labour issues, urging the US to reconsider its determination
+
+## IIT Delhi, NatWest Group launch FinTech Frontier Program for research & startup collaboration
+
+
+## ‘My girls are not allowed to put makeup’: Farah Khan on parenting boundaries
+
+
+## Maharashtra CM buzz: Raut says Fadnavis could move to Delhi, Bawankule may fill in
+
+
+## Tom Holland thought Christopher Nolan wasn’t happy with his performance on The Odyssey
+
 
 ## Wading through floodwater, Mumbai woman develops painful red bumps and fever: What is leptospirosis?
 
 
 ## Many of the dead in Vietnam boat tragedy worked with Lava Mobiles, are residents of Andhra Pradesh
-
-
-## Morbi fire destroys Rs 42 crore groundnuts: Why Gujarat’s peanut warehouses are prone to fires
-
-
-## Court lets US Green Card holder depose via video in late husband’s will case
-
-
-## DU receives over 1.9 lakh applications for UG admissions; first allotment list on July 16
-
-
-## Delhi High Court’s ruling on Telegram marks a tectonic shift in digital law
-
-
-## Amid Datia blowback, a question: Why BJP blocked Narottam Mishra’s comeback
-
-
-## Vietnam boat capsize updates: Indian embassy sets up control room, says details being probed
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zimbabweans return home amid xenophobic violence in South Africa
+Zimbabweans return home amid xenophobic violence in South Africa
+
+## Sheinbaum takes on cartels, Trump and the legacy of 1968
+Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO's shadow.
+
+## Speedboat accident in southern Vietnam kills 15 Indian tourists
+The Indian embassy says it has set up control rooms to respond to victims' families.
+
 ## Land sold for Kushner-backed Albania resort suspected of forged deeds
 Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.
 
@@ -270,17 +279,8 @@ Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists sa
 ## Cuba suffers second nationwide blackout in five days
 Cuba suffers second nationwide blackout in five days
 
-## Russian missile attacks wound 11 in Kyiv
+## Russian missile and drone barrage kills two and wounds 19 in Ukraine
 In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.
-
-## Indonesia’s anti-graft prosecutor quits after police seize gold and cash
-Police seized 74kg of gold bars and $20m cash in various currencies.
-
-## Watch World Cup: Merino, Spain beats Belgium, move on to semifinals
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## Russian overnight strikes on Kyiv injure ten
-Russian overnight strikes on Kyiv injure ten
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
