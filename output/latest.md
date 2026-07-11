@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## Police ‘pursuing enquiries’ in Widdecombe murder case after releasing arrested man
+Devon and Cornwall force said 26-year-old was no longer part of the investigation and issued appeal for help
+
+## Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK
+Thailand-based crypto billionaire paused US lawsuit for nearly a year until January 2026
+
 ## How AI rebrands fail to deliver a lasting share price boost
 Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found
-
-## Police release man arrested on suspicion of murder of Ann Widdecombe
-Devon and Cornwall force says 26-year-old is no longer part of the investigation and issues renewed appeal for help
 
 ## Democrats’ strategic misfires laid bare by Platner’s implosion in Maine
 The party faces a void in its bid to reclaim the Senate after missing warning signs about a flawed candidate
@@ -21,11 +24,11 @@ The poorest pay the most in an energy shock
 ## Sadiq Khan lobbies for Ed Miliband to become chancellor
 Energy secretary wins support from London mayor but faces opposition from some Labour MPs over his net zero policies
 
-## Europe’s slow electrification is a ‘major mistake’, warns IEA chief
-Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis
-
 ## World Cup TV rights in the US: no longer a discount
 Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
+
+## Europe’s slow electrification is a ‘major mistake’, warns IEA chief
+Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis
 
 ## London rental affordability improves despite recent rise
 The salary needed to afford a rental home in the capital has fallen by 17% in the past year
@@ -39,8 +42,20 @@ Vessels that dare to use route close to Oman’s coast face increased risk of Ir
 ## What’s really going on with mental health?
 Changing terminology risks misleading policymakers and harming those in most need
 
+## Aditya Birla Group to invest additional ₹12,000 crore in Odisha alumina refinery expansion
+The expansion is expected to generate jobs, strengthen downstream industries and reinforce Odisha’s position as a leading aluminium and metallurgy hub.
+
+## Legendary playback singer S Janaki, voice behind 48,000 songs, dies at 88
+Four-time National Award winner S Janaki, whose timeless voice captivated generations, will receive full state honours in Karnataka as tributes continue to pour in
+
 ## Phu Quoc boat tragedy: 15 Indian tourists die after speedboat overturns in Vietnam
 The victims included 10 from Tamil Nadu, three from Andhra Pradesh and two from Kerala.
+
+## Vietnam boat tragedy: Kerala confirms death of Kottarakkara couple in Phu Quoc accident
+The victims were identified as A C Thomas (57) and his wife Loveni Thomas (56), both natives of Kottarakkara
+
+## Vietnam boat tragedy: Tamil Nadu leaders mourn victims, seek swift repatriation of bodies
+Leaders across Tamil Nadu’s political spectrum condoled the deaths in the Vietnam boat tragedy and urged swift repatriation of the victims’ bodies besides support for the affected families.
 
 ## Bandu’s Blockbusters for July 12, 2026
 Guess the stock that will give the best return by next Friday
@@ -50,18 +65,6 @@ Guess the stock that will give the best return by next Friday
 
 ## Tech Query: KPIT Technologies, ONGC, Indraprastha Medical Corporation, Everest Kanto Cylinder - What is the outlook? Where are these stocks headed?
 We look at the prospects of KPIT Technologies and three other stocks – ONGC, Indraprastha Medical Corporation and Everest Kanto Cylinder
-
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of CDSL, Great Eastern Shipping Company and Olectra Greentech
-
-## Does asset allocation really work?
-Yes, it does, proves a live testing of a 60-30-10 portfolio over the last 11 years
-
-## Gland Pharma: What should you do?
-Margin improvement from higher value-added products and expanding portfolio should support earnings growth
-
-## More upside left
-The benchmark indices have room to rise further
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -111,28 +114,28 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
+## Total surrender by India in England, Shreyas Iyer’s team swept 4-0
+
+
+## Kranti Gaud takes maiden fifer as India seize 269-run lead on day 2 at Lord’s
+
+
+## India lose No 1 T20I spot after 56-run loss completes 4-0 sweep by England
+
+
+## Bollywood at Wimbledon: Throwback to the best celeb fashion moments courtside
+
+
+## Neeru Dhanda wins India’s first-ever gold medal in women’s trap at ISSF World Cup
+
+
+## S Janaki (1938-2026): Vijay, Rajinikanth, Chiranjeevi and others pay tribute to legendary singer
+
+
 ## The Odyssey premiere: Nolan, Damon, Holland sip chai; Dimple Kapadia, Shruti Haasan attend
 
 
 ## Lawyer booked for assault, wrongful confinement of Army officer at Panchkula court
-
-
-## Arnav Paparkar, the Pune boy who made history at Wimbledon
-
-
-## High Court relief to Himachal PWD minister: allows passports to be renewed
-
-
-## 2 bridges set to become operational by August 31, BMC sets deadline
-
-
-## Foreign tourists drive UK-themed auto-rickshaw on Shimla’s Mall Road, fined Rs 1,500
-
-
-## On way to Somnath, 6 of family killed in SUV-truck collision
-
-
-## Monsoon intensifies in Himachal Pradesh: Heavy rain damages roads, bridges, cuts off several areas
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump administration subpoenas New York Times reporters over coverage
+Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.
+
+## South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup
+South Africa and Mamelodi Sundowns midfielder died after featuring in his nation's run to the World Cup round of 32.
+
+## US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal
+Sources tell Al Jazeera that talks are focused on establishing mechanism for first of two so-called "pilot zones".
+
+## Evacuations as landslide threatens Indian village, construction firm blamed
+A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate
+
+## Noskova defeats Muchova in Wimbledon final to record first Grand Slam title
+Linda Noskova's victory over Karolina Muchova makes her the third Czech women's singles champion in past four years.
+
+## England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal
+Live coverage and text updates as England play Norway in a quarterfinal clash in Miami.
+
+## US lawmaker slams Israeli army after settlers detain him on Palestine trip
+Lawmaker Khanna accuses soldiers of supporting the settlers, warning that Israeli forces made a 'huge mistake'.
+
 ## FIFA is not an independent sporting organisation; it is a political tool.
 Football fans around the world are only now finding out what Palestinians have long known.
-
-## Hormuz shipping in focus as Iran-US rhetoric heats up
-Analysts say door to diplomacy still open despite exchange of attacks and threats.
-
-## Syrians optimistic but cautious as sanctions removal revives economic hopes
-US decision to delist Syria as a 'state sponsor of terrorism' prompts cautious optimism among businesses and citizens.
-
-## Moldova’s president nominates businessman Vasile Tofan as prime minister
-The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.
-
-## Algeria and Mali restore diplomatic ties following yearlong rift
-Relations begin to thaw as both countries reinstate ambassadors, reopen airspace closed to each other since April 2025.
-
-## UK police free suspect in ex-MP Ann Widdecombe murder investigation
-The former government minister is believed to have been attacked a full day before her body was discovered.
-
-## Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist
-Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.
-
-## What is going on in Yemen?
-Tensions are rising in the battlefield and political sphere. Will the conflict reignite?
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
