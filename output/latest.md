@@ -1,67 +1,67 @@
 # AION Intelligence
 
-## China braces for back-to-back typhoons as extreme weather risks rise
-Record rains, tornadoes and landslides batter southern regions while floods unleash cobras and zoo animals
+## Police release man arrested on suspicion of murder of Ann Widdecombe
+Devon and Cornwall force says 26-year-old is no longer part of the investigation
 
-## Trump says US has agreed to continue talks with Iran
-President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz
+## Sadiq Khan lobbies for Ed Miliband to become chancellor
+Energy secretary wins support from London mayor but faces opposition from some Labour MPs over his net zero policies
 
-## Apple sues OpenAI alleging theft of top-secret information
-Lawsuit marks collapse of relationship between two of the biggest names in Silicon Valley
+## Europe’s slow electrification is a ‘major mistake’, warns IEA chief
+Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis
 
-## US relaxes export controls on advanced chips and drones for UAE
-Gulf state will receive access to sophisticated American technology
+## London rental affordability improves despite recent rise
+The salary needed to afford a rental home in the capital has fallen by 17% in the past year
 
-## US sends team to Beirut to shore up Israel-Hizbollah ceasefire
-Lebanese president calls for ‘pressure’ on Israel to start pulling back forces
+## Prepare for a perilous summer in markets
+Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season
 
-## Man, 26, arrested on suspicion of murder after death of former Tory minister Ann Widdecombe
-Devon and Cornwall Police say the 78-year-old politician sustained ‘serious injuries’
+## Wealthy warned over HMRC’s use of AI in tax crackdown
+Advisers put rich on alert after authority says digital tools brought in billions in tax last year
 
-## SK Hynix’s US shares jump 13% on Nasdaq debut
-South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149
+## Inside the risky race through the Strait of Hormuz
+Vessels that dare to use route close to Oman’s coast face increased risk of Iranian missiles
 
-## Bezos-backed fusion start-up to become first to go public
-General Fusion’s ‘steampunk’ approach to the technology is under scrutiny ahead of Nasdaq debut
+## Further increases to UK minimum wage would be risky, warns Low Pay Commission
+Economy may not be able to absorb raising wage floor further towards median earnings, says advisory body
 
-## Carmakers fight off bulk of multibillion-pound UK ‘dieselgate’ case
-About 1.6mn UK motorists sued manufacturers including Ford and Nissan over ‘defeat devices’
+## Lawn Tennis Association set to move into venture capital investing
+Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines
 
-## ‘It’s all about the number’: how Apollo gazumped Castlelake’s easyJet bid
-Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival
+## What’s really going on with mental health?
+Changing terminology risks misleading policymakers and harming those in most need
 
-## Billionaire Xavier Niel could be the jolt Vodafone needs
-Investors hope £4.4bn move for telecoms group augurs quicker and sharper improvements
+## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
+Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
-## Directors’ Deals: Rosebank executives add to stakes
-Purchases come after group ascended into the FTSE 250 last month
+## Why the chips are down despite the AI boom
+Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise
 
-## Stockpickers: BTG Consulting, Jet2, Currys
-Our experts discuss which companies to buy, sell or hold this week
+## How to find a restaurant on holiday
+Swerve the tourist traps this summer with Marina O’Loughlin’s tried-and-tested tips
 
-## Climate resilience must become the organising principle of Indian agriculture
-As climate risks grow and events like El Nino are redefining the risks, the need to farm smarter, diversify and strengthen resilience has never been greater
+## Passenger partially sucked out of window on Ryanair flight from Greece
+The incident happened on a morning flight from the northern Greek city of Thessaloniki to Memmingen, near Munich, which was operated by Ryanair subsidiary Malta Air
 
-## Meta appeals verdict in social media addiction lawsuit
-The case centred on a 20-year-old woman who said she became addicted to social media as a child and that it worsened her mental health struggles
+## NPPA fixes retail prices of 39 new drug formulations
+The notification issued on July 8 is a retail price fixation order for new drug formulations under DPCO, 2013, not a price reduction order
 
-## India’s next white revolution will be powered by smarter feed and farm technology
-By combining science-led nutrition with smarter farm technologies, India can build a dairy sector that delivers higher productivity, improved farmer livelihoods and a more resilient food system
+## Trump says US, Iran agree to continue talks but ceasefire over
 
-## DGCA warns IndiGo on cargo spillage
-The airline stated that the warning letter has no significant impact on its financials, operations, or activities
 
-## Meta scraps AI image feature days after launch following privacy backlash
-“Our intent was to provide a useful creative tool and to give people control over ‌whether their public content could be referenced in this way,” Meta said in a statement
+## Govt, industry brainstorms on ways to achieve $150 billion exports target for electronics
+Commerce Secretary Rajesh Agrawal emphasised that India’s policy must provide the predictability and stability essential for the growth of global electronics value chains
 
-## New Zealand, India upgrade ties as PM Modi visits Auckland
-In Auckland, leaders elevated bilateral relations to a “strategic partnership,” highlighting shared democratic values, strong ties, and common interests in the Indo-Pacific
+## India set to play larger role in building global fintech infrastructure, says Payoneer
+The country is no longer seen as a large user market for digital payments. It is becoming a place where financial platforms are built for multiple geographies, currencies, customers and regulatory environments
 
-## Monsoon’s recovery helps improve storage in India’s major reservoirs
-However, over 50 per cent of the dams are still half-empty
+## What to know bout the parasite sickening people across the US
+A diarrhea-causing parasite has infected people in 31 states already, with multiple places reporting an uptick in the resulting illness in the last two weeks compared to a year ago, according to the US Centers for Disease Control and Prevention
 
-## IREDA classifies Gensol Engineering, subsidiary as fraud accounts
-IREDA said Gensol Engineering’s account has been classified as fraud on grounds of alleged ‘misappropriation and criminal breach of trust’ and ‘forgery with the intention to commit fraud’
+## Shapoorji Refinancing kickoff eases investor debt concerns
+Separately, the group raised $650 million through a three-year dollar bond on Friday at a yield of 14.5%, other people said
+
+## Gadkari to chair BRICS transport ministers' meet in Nagpur
+The two-day meeting is being organised under India's BRICS Chairship theme 'Building for Resilience, Innovation, Cooperation and Sustainability'
 
 ## Reverse oil flow: India supplies gasoline to Russia - why it matters
 Indian refiners are well equipped from a product-quality standpoint to supply the gasoline grades required by Russia. However, Oil minister Hardeep Singh Puri has said that Indian companies are not directly selling gasoline to Russia.
@@ -87,52 +87,52 @@ Indian refiners are well equipped from a product-quality standpoint to supply th
 ## Vivo-Dixon JV: A template for Chinese phone companies in India
 
 
-## After username row, MeitY eyes uniform standards for messaging apps
-The ministry of electronics and information technology (Meity) is working on common standards for messaging platforms operating in India, as it moves to formally oppose WhatsApp’s proposed username feature over concerns that it could fuel impersonation, online fraud and digital arrest scams while ma
+## IFS officer Satyanjal Pandey likely to be India's next charge d'affaires in Islamabad
+Satyanjal Pandey, IFS officer and current Deputy High Commissioner in Sri Lanka, is expected to be appointed as India's charge d'affaires in Islamabad
 
-## Shekhar Suman’s associate faces ED action in FEMA case
-The Enforcement Directorate (ED) conducted searches under the Foreign Exchange Management Act (FEMA) against Kalanee Impex Pvt Ltd and its director, businessman Dharmesh Sangani, over allegations of undisclosed foreign assets, foreign bank accounts and violations relating to export proceeds, officia
+## BJP's Narottam Mishra ticket row turns violent in Datia, curfew imposed
+Datia tense: Agitated supporters pelted stones at the police, vandalised trucks, and created chaos on NH-44.
 
-## ‘No right to stay in Odisha’: Kalinga Sena threatens ISKCON over untimely Rath Yatra row
-The Sena activists led by their president Hemant Rath pledged to ensure that the ISKCON devotees do not enter Puri during the upcoming rath yatra on July 16.
+## 18-month-old dies days after anaesthesia for lip injury in Kerala, doctor booked
+An 18-month-old boy who had remained in critical condition for five days after being given anaesthesia to stitch a cut lip died at a private hospital in Kannur.
 
-## Education minister Dharmendra Pradhan orders probe into delay by NCERT in case against vendor
-The administrative lapse by NCERT resulted in interim relief for the company challenging the council’s order. The matter will next be heard on July 20.
+## Telangana man kills own family then complainant, her kin while out on bail in POCSO case
+Police said the 28-year-old allegedly murdered the 17-year-old complainant, her mother and grandmother, and his own wife and two sons days after securing bail.
 
-## Hope fades as 8 still trapped at Pune garbage depot after 55 hours of collapse, rescue op continue
-Officials involved in the multi-agency rescue operation said they were unable to make contact with the trapped workers and believe they may not have survived.
+## Sharad Pawar, Eknath Shinde meet sparks buzz, Supriya Sule steps in to calm storm
+The controversy erupted after Sharad Pawar met Eknath Shinde in the deputy chief minister's office inside the Vidhan Sabha premises
 
-## Meters to be made mandatory on all borewells in Delhi, will help decide water bills
-Officials said the draft has been prepared, although the government is yet to finalise the tariff for groundwater extraction.
+## Highway blocked for 12 hours, stones pelted: Major protest by BJP leader Narottam Mishra's supporters over poll ticket
+The BJP on Friday announced Ashutosh Tiwari as its candidate for the Datia assembly bypoll, a decision that angered Mishra's supporters.
 
-## NDA cadet, 17, dies during PT session, roughly two weeks after joining academy
-The cadet, identified as Abhinav Bajpai from Kanpur, Uttar Pradesh, had complained of uneasiness and suddenly lost consciousness during morning PT session.
+## India, New Zealand forge ₹35,000 crore strategic partnership to boost trade
+India and New Zealand elevated their ties to a strategic partnership, targeting ₹35,000 crore in annual bilateral trade by 2030.
 
-## PM Modi receives traditional Maori powhiri welcome at Government House in Auckland
-Prime Minister Narenda Modi is scheduled to interact with prominent business and sports personalities
+## CBI charge sheet in NEET UG leak may not name officials
+The CBI found no government officials involved in the NEET UG 2026 paper leak. The charge sheet will be filed this month, focusing on 13 private individuals
 
-## Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds
-
-
-## Qubool Hai actor Surbhi Jyoti reveals pregnancy morning routine: ‘My favourite meal of the day’
+## ‘Search my name…’: Erling Haaland’s Google Easter egg celebrates Norway’s viral ‘Viking Row’
 
 
-## Daily Briefing: The Satluj controversy raises uncomfortable questions about history, memory and free expression
+## Government Medical College in Srinagar to have 50 more MBBS seats
 
 
-## 10.14s! Animesh Kujur records fastest 100m by an Indian on foreign soil
+## US gives Iran Saturday deadline to renounce Strait of Hormuz attacks as Trump says ceasefire is ‘over’
 
 
-## ‘1,000 missiles locked to decimate Iran’: Trump on ‘Tehran’s assassination plot’ report
+## Who is Andy Burnham, the Labour leader set to become Britain’s next Prime Minister?
 
 
-## US-Iran War Live Updates: Tehran may be rebuilding nuclear facilities, show satellite pics
+## AIBE 2026 final answer keys released at allindiabarexamination.com; results next
 
 
-## ‘Hard to explain’: What Vinicius Jr finally said about Brazil’s heartbreak at FIFA World Cup 2026
+## ‘We scre**d up’: Iran admitted that Hormuz attacks were a ‘mistake’, say US officials
 
 
-## Chef At Home: Meet private chef Harsh Dixit, who cooks for the country’s biggest celebrities and industrialists
+## Wife’s maintenance doubled as court says Rs 10,000 ‘too meagre’ for dignified life
+
+
+## Unsung Hero| Meet Rahul Bavaji, the conservationist educating tribal children in Karnataka
 
 
 ## Expanding AI and chip firms push up rents in Beijing’s hi-tech district
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Venezuelan doctors convert restaurant into a clinic after earthquake
+Volunteers in La Guaira have transformed a fast-food restaurant into an emergency clinic.
+
+## Meta backtracks on AI-image feature for Instagram due to privacy backlash
+Meta has rolled back its ‘Muse Image’ AI feature after widespread backlash over privacy and consent.
+
+## Scaloni not surprised by Messi’s World Cup form at 39 – ‘He’s a machine’
+A muscle strain threatened to derail Messi's tournament, but his coach says he's still world's best player.
+
+## Are the US and Iran at war again?
+Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over'.
+
+## ‘We are the lost generation of Sudan’: Students in exile
+Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.
+
+## Conor McGregor weighs in at 170.5 pounds for UFC 329 bout vs Max Holloway
+Irishman McGregor, former two-division champion and still one of UFC's most famous fighters, has not fought since 2021.
+
 ## Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers
 Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.
 
 ## Yamal does not mind lack of goals if Spain win World Cup 2026
 Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.
-
-## Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts
-Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.
-
-## Why the new US housing bill won’t fix the crisis
-Why the new US housing bill won't fix the crisis.
-
-## Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him
-US president says orders given to 'decimate and destroy all areas of Iran' if he is assassinated
-
-## Nicaragua strips lawyers of certification in latest crackdown on dissent
-The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.
-
-## Cuba suffers second island-wide blackout in a week amid Trump fuel blockade
-US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.
-
-## Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets
-The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
