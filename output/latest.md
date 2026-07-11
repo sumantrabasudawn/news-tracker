@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## UK police make new arrest in Ann Widdecombe murder case
+Detention of 28-year-old man came hours after the release of a different suspect in the death of former Conservative minister
+
 ## Donald Trump clears path for $4.5bn bridge between Canada and US
 President drops objection to much delayed project after claiming to have won ‘much better deal’
-
-## Police ‘pursuing enquiries’ in Widdecombe murder case after releasing arrested man
-Devon and Cornwall force said 26-year-old was no longer part of the investigation and issued appeal for help
 
 ## Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK
 Thailand-based crypto billionaire paused US lawsuit for nearly a year until January 2026
@@ -114,28 +114,28 @@ A large group of people protesting against inter-district economic blockade from
 ## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
 A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
 
-## Argentina vs Switzerland LIVE Score, FIFA World Cup 2026 Quarterfinal: Eyes on Messi as ARG eye semis spot
+## India seeks review of US’ forced labour investigation
+
+
+## ‘Satluj’ row: Government panel raises UAPA spectre, ‘misuse’ by Pakistan
+
+
+## In Punjab villages, crowds at Satluj shows, a chorus: ‘Those dark days should never return’
+
+
+## Election Commission changes Form 6 for new voters, inserts section asking them about parents in SIR
+
+
+## A century later, Dhyan Chand tour still unites India and New Zealand
+
+
+## Will seek extradition of Lawrence Bishnoi: US Justice Department confirms
+
+
+## Argentina vs Switzerland LIVE, FIFA World Cup 2026: Messi’s ARG eye semifinal spot vs SUI
 
 
 ## Express News Quiz: Sunny Deol, FIFA World Cup and Diljit Dosanjh’s film pulled
-
-
-## Norway vs England Live, FIFA World Cup: Jude Bellingham scores; NOR 1-1 ENG at half-time
-
-
-## Following Kvitova’s footsteps, Linda Noskova crowns Wimbledon dream
-
-
-## Total surrender by India in England, Shreyas Iyer’s team swept 4-0
-
-
-## Kranti Gaud takes maiden fifer as India seize 269-run lead on day 2 at Lord’s
-
-
-## India lose No 1 T20I spot after 56-run loss completes 4-0 sweep by England
-
-
-## Bollywood at Wimbledon: Throwback to the best celeb fashion moments courtside
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,10 +258,13 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA to sell pieces of World Cup final stadium pitch, could earn millions
+Pieces from the turf used at the stadium will go on sale as memorabilia and will be priced from $450 to $1,200.
+
 ## US judge dismisses January 6 case against Proud Boys after Trump order
 The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters.
 
-## Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal
+## Argentina vs Switzerland LIVE: FIFA World Cup 2026
 Live coverage and updates from our text commentary stream as Messi's Argentina face Switzerland in the quarterfinals.
 
 ## UK police investigate murder of politician Ann Widdecombe
@@ -278,9 +281,6 @@ As the death toll in Venezuela surges past 4,000, families continue to hold out 
 
 ## US Rep Ro Khanna speaks out about being harassed by Israeli settlers
 US Rep Ro Khanna speaks out about being harassed by Israeli settlers
-
-## Trump administration subpoenas New York Times reporters over coverage
-Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
