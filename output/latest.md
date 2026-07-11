@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Democrats’ strategic misfires laid bare by Platner’s implosion in Maine
+The party faces a void in its bid to reclaim the Senate after missing warning signs about a flawed candidate
+
+## Trump ups the pressure on US companies in drive to lower prices
+Critics fear shift to ‘hyper-populist playbook’ as inflation lingers
+
 ## Marine Le Pen’s redemption story
 Suspense over the far-right leader’s fate plays into her party’s hands
 
@@ -18,15 +24,6 @@ Fatih Birol says EU should have moved faster to achieve energy independence afte
 ## London rental affordability improves despite recent rise
 The salary needed to afford a rental home in the capital has fallen by 17% in the past year
 
-## Prepare for a perilous summer in markets
-Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season
-
-## Wealthy warned over HMRC’s use of AI in tax crackdown
-Advisers put rich on alert after authority says digital tools brought in billions in tax last year
-
-## Trump ups the pressure on US companies in drive to lower prices
-Critics fear shift to ‘hyper-populist playbook’ as inflation lingers
-
 ## World Cup TV rights in the US: no longer a discount
 Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
 
@@ -42,29 +39,29 @@ Changing terminology risks misleading policymakers and harming those in most nee
 ## Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich
 Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending
 
+## Regenerative mustard programme to strengthen India’s edible oil value chain: AWL Agri Business
+A media statement said the encouraging results reinforce the potential of regenerative farming practices to strengthen India’s edible oil value chain while enhancing farmer livelihoods
+
+## Monsoon’s recovery helps improve storage in India’s major reservoirs
+However, over 50 per cent of the dams are still half-empty
+
+## Mutual Funds returns
+As on : Jul 11, 2026
+
+## Over 2 lakh micro food processing enterprises covered under PMFME: Chirag Paswan
+Around ₹6,000 crore given as subsidy so far under PMFME scheme, Paswan says
+
+## VOC Port signs MoU with Port of Antwerp-Bruges for green & digital port development
+The MoU aims to explore opportunities for cooperation through capacity building, Ttraining, Wworkshops, Ssharing best practices, with a strong focus on greening of port operations and integration of digital applications for port management
+
+## D-Mart owner Avenue Supermarts’ Q1 net profit jumps 11.3% to ₹860.44 cr, sales rise 14.9%
+Revenue from operations increase 14.9% to ₹18,794.53 crore during the quarter
+
+## India, New Zealand eye strategic partnership; aim to double trade to ₹35,000 cr by 2030
+The two countries have resolved in strategic partnership roadmap to work together on next steps for the India-New Zealand FTA to “ensure its early entry into force and effective implementation”
+
 ## Alpine Texworld to raise ₹126 cr through IPO for capacity expansion
 Alpine Texworld to issue 1.20 crore equity shares in the price band of ₹100 - ₹105 a share
-
-## Indian Navy protected ₹9,000 cr cargo during West Asia crisis, says Rajnath Singh
-He said this during the official commissioning ceremony of the indigenously-built advanced stealth frigate INS Mahendragiri at the Naval Dockyard in Visakhapatnam
-
-## Food standards authority issues 9 notices to Swiggy Instamart over consumer complaints
-The consumer complaints relate to alleged supply of expired, spoiled, rotten, contaminated and otherwise unsafe food products in some instances
-
-## Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
-Ryan Group of Institutions Launches Golden Jubilee Celebrations with Spectacular The Mumbai Revue at NMACC
-
-## Nifty and Nifty Bank Prediction for the week 13-Jul’26 to 17 Jul’26 by BL GURU
-
-
-## 15 people, including Indian tourists, feared dead in Vietnam boat capsize incident: local media
-According to VN Express International, the speedboat was carrying 32 Indian tourists and four crew members from Hon May Rut to An Thoi Port when it capsized off Hon May Rut Ngoai
-
-## Reliance Anil Ambani Group money laundering case: ED attaches fresh assets worth over ₹1,000 cr
-The investigation stems from a CBI FIR against Reliance Home Finance Limited (RHFL) and Reliance Commercial Finance Limited (RCFL)
-
-## "Indian Navy not just a fighting force, but strong guardian of India's economic interests": Rajnath Singh
-"Recent events have once again demonstrated how essential a capable and responsive navy is for any nation," Rajnath Singh
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -90,52 +87,52 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## ‘Waka is symbol of our shared journey’: PM Modi in New Zealand
-Prime Minister Narendra Modi used the traditional canoe from New Zealand's indigenous culture to highlight ties between the two countries
+## Think tanks urge MoHUA to boost women e-bus drivers under PM scheme
+The report recommended that MoHUA launch a dedicated programme for women e-bus drivers aligned with the PM e-Bus Sewa scheme
 
-## Punjab Cong rift widens despite Baghel's mediation: Channi camp's ‘compromising’ jibe draws sharp response from Warring
-Sukhjinder Singh Randhawa spoke after meeting between AICC Punjab in-charge Bhupesh Baghel and leaders close to former CM Charanjit Singh Channi
+## Narottam Mishra says 'not sad at all' after BJP denies ticket for Datia bypoll
+Mishra also denied that any violence had taken place in Datia by his supporters, saying there was no vandalism
 
-## Vietnam tragedy: 32 Indian tourists were onboard boat which capsized | See list
-he speedboat was carrying 32 Indian tourists, according to the Embassy of India in Hanoi, Vietnam.
+## Bihar man, 48, arrested for raping 12-yr-old girl in Assam: Police
+Police said that the victim has been undergoing treatment since she fell ill and her mandatory medical examinations have been ordered
 
-## ‘My vehicle has never faced any issue’: BJP MP defends E20, admits mileage drop
-BJP MP Brij Lal claimed that the criticism surrounding the blended petrol is a politically motivated campaign by those opposed to the country's development.
+## ‘No candidate of calibre for Bankipur bypoll': Prashant Kishor attacks BJP, says Abhishek Sinha ‘ran away’
+Kishor said it was unprecedented for a BJP candidate to withdraw, as earlier, rival party candidates used to pull out fearing the saffron party.
 
-## Aero India-2027 to be held in Bengaluru from February 8-12
-Aero India-2027 will be held from February 8-12 in Bengaluru, aiming to boost India's defense manufacturing and exports, marking its largest edition yet.
+## When ‘compromised’ came home: Rahul Gandhi's favourite word for PM Modi hits Punjab Congress ranks
+Channi camp's Sukhjinder Singh Randhawa said party needs “not a compromising leader”, Raja Warring hit back with some loaded agreement.
 
-## Panchayat polls in Karnataka likely in October or November, says state minister
-The Minister for Rural Development and Panchayat Raj revealed that the proposal will be submitted to EC after completing delimitation and reservation matrix
+## Radicals behind Baruipur lynching, says CM Adhikari; gives his kin job
+The 12-year-old girl’s body from Baruipur was recovered from a pond on July 5, a day after she went missing
 
-## ‘Want to light a fire here?’: Omar attacks Centre on delay in restoring Jammu and Kashmir statehood
-“It is our patience that we are still working like donkeys to achieve something for the people of Jammu and Kashmir,” CM Omar Abdullah said.
+## 'Extremely saddened': PM Modi condoles deaths of Indian tourists in Vietnam boat tragedy
+PM Modi extended condolences to the bereaved families of 15 Indian tourists who have died in the boat capsizing incident in Vietnam.
 
-## Choppy waters, boat overturned: Video from spot where 15 Indians died in Vietnam
-The Indian embassy has said it is in touch with local authorities and closely monitoring the situation.
+## Days after Jaipur woman held for mother's murder, relative alleges she killed father too
+Neeraj Sharma was allegedly run over by a speeding SUV in Jaipur's Pratap Nagar a week ago, in a murder allegedly orchestrated by her daughter.
 
-## Meg Mason wants to keep the ‘grittiness’ in literature. Just don’t ask her to Tweet about it.
-
-
-## ‘I thought it was a scam’: How a random street encounter in Bombay led Madhavan to acting
+## Abu Salem in prison: Jail seeks clarity over Rs 16.51 lakh pending fine
 
 
-## IIT Delhi, NatWest Group launch FinTech Frontier Program for research & startup collaboration
+## Pakistani woman, son held in Karnataka for overstaying visa, holding Indian documents
 
 
-## ‘My girls are not allowed to put makeup’: Farah Khan on parenting boundaries
+## Pune building collapse: Seven bodies recovered after 72-hour search, one still missing
 
 
-## Maharashtra CM buzz: Raut says Fadnavis could move to Delhi, Bawankule may fill in
+## Worker killed, another injured as temple dome collapses during demolition drive in UP’s Chandauli
 
 
-## Tom Holland thought Christopher Nolan wasn’t happy with his performance on The Odyssey
+## Vaibhav Sooryavanshi dropped from India’s XI for fifth T20I against England
 
 
-## Wading through floodwater, Mumbai woman develops painful red bumps and fever: What is leptospirosis?
+## Belgium’s golden generation leaves without trophies, but not without relevance
 
 
-## Many of the dead in Vietnam boat tragedy worked with Lava Mobiles, are residents of Andhra Pradesh
+## UPSC Key: PM Modi in New Zealand, Kerala birth rate and E20
+
+
+## Suniel Shetty reveals why he never had alcohol in life: ‘Went towards martial arts…’
 
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
@@ -258,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist
+Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.
+
+## What is going on in Yemen?
+Tensions are rising in the battlefield and political sphere. Will the conflict reignite?
+
+## China prepares as Typhoon Bavi leaves Taiwan
+China prepares as Typhoon Bavi leaves Taiwan
+
 ## Zimbabweans return home amid xenophobic violence in South Africa
 Zimbabweans return home amid xenophobic violence in South Africa
 
@@ -272,15 +278,6 @@ Albanian prosecutors probe forged deeds tied to Kushner resort land as protests 
 
 ## World cup wrap day 30
 World cup wrap day 30
-
-## Hundreds of thousands evacuated as Typhoon Bavi barrels towards China
-Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.
-
-## Cuba suffers second nationwide blackout in five days
-Cuba suffers second nationwide blackout in five days
-
-## Russian missile and drone barrage kills two and wounds 19 in Ukraine
-In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
