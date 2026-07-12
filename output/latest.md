@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## US launches more strikes after Iran declares Strait of Hormuz closed
-IRGC hits commercial ship transiting through waterway, with Centcom saying crew member was missing from vessel
+## US Senator Lindsey Graham dies aged 71
+South Carolina senator was one of the most influential and hawkish Republicans
+
+## US launches more strikes after Tehran declares Strait of Hormuz closed
+Iran hits commercial ship transiting the waterway, with Centcom saying crew member is missing from vessel
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -21,9 +24,6 @@ Side agreements and special purpose funds could bypass the usual trench warfare
 ## Airbnb lures fans from US hotels after World Cup marketing push
 Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
-## US states push to repurpose abandoned oil wells
-Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
-
 ## Quantum is exciting, but watch out for the Schrödinger’s cat bounce
 The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time away
 
@@ -33,26 +33,29 @@ Shrinking pool of recipients points to coming wave of so-called zombie firms
 ## AstraZeneca CEO: ‘Biology will catch up with me at some point’
 Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secure growth in China and US
 
-## China EVs average 1.8 years on road, less than cell phones
+## US states push to repurpose abandoned oil wells
+Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
+
+## One Indian national missing after attack on vessel off Oman, foreign ministry says
 
 
-## ONGC drills second geothermal well in Ladakh
-Fresh success at Puga Valley brings India closer to commissioning its first 1-MW pilot geothermal power plant.
+## HDFC Bank workforce drops by over 3,300 as operations automated
+As of March 31, the bank’s staff decreased to 211,178, with new hires down by 3,811, according to its annual report released Saturday
 
-## US military says it has completed latest round of airstrikes targeting Iran
-The US military’s Central Command stated that targets included missile and drone sites, ammo dumps, communication equipment, and more
+## Three publishers arrested over books with ‘inappropriate content’ in J&K
+The three publishers arrested include Inderpaul from Oberoi Book Service and Amardeep Singh and Girish Arora from the Noida-based Dominant Publishers.
 
-## Delhi records low of 28.3 degrees celsius, partly cloudy sky forecast for day
-Relative humidity was recorded at 64 per cent at 8.30 am
+## EPFO invites applications from PF trusts for amnesty scheme
+Employers, stakeholders and the general public are advised to take note of the scheme, which will remain open for six months
 
-## Pune building collapse: Toll up at 9 as last body recovered
-The body of Waman Kasbe, the last missing person, was recovered from the rubble in the wee hours of Sunday, raising the death toll to nine, while 14 persons have been rescued
+## Trump’s close aid, US Senator Lindsey Graham, dies at 71
+Graham, a senator from South Carolina, died on Saturday after a “brief and sudden” illness, according to his office.
 
-## US attacks Iran over ship being hit in Hormuz; Tehran lashes out at Gulf Arab states
-Container ship set ablaze in the Strait of Hormuz as Iran widens its response with missile and drone attacks across the Gulf.
+## Mandaviya to inaugurate seven ESI healthcare projects on Tuesday
+He will virtually inaugurate the six projects
 
-## United Arab Emirates warns public of incoming missile and drone attack as explosions heard in Qatar
-Escalating tensions in the region prompt air raid sirens across the Gulf, as Iran retaliates following a US military strike, raising fears of broader conflict amidst ongoing hostilities
+## SC to hear plea seeking guidelines to curb airfare fluctuations on July 13
+Justices Vikram Nath and Sandeep Mehta will hear S Laxminarayanan’s plea for an independent regulator to ensure transparency and passenger protection in civil aviation
 
 ## Setting the record straight on India’s fuel transition
 India’s energy security hinges on steady, evidence-led execution of a domestic strategy and on citizens
@@ -81,53 +84,56 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## 15 Indians killed as tourist boat capsizes in Vietnam
-The vessel was carrying 32 Indian tourists and four crew when it overturned. All the dead were recovered; the injured were taken to hospitals.
+## Mother and son Pakistani, father and 3 other kids Indian: Curious case in Karnataka via UAE
+Mother and son had allegedly obtained ration card and voter identity card by suppressing facts about their nationality
 
-## The big-stakes fight to save pygmy hog, the world's tiniest wild pig
-The pygmy hog will be added to India's list of ‘critically endangered’ species under a centrally sponsored scheme, Integrated Development of Wildlife Habitats.
+## 'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast amid US-Iran war
+The Ministry of External Affairs stated it is closely monitoring the statement and has called for immediate de-escalation.
 
-## BJP vs Omar Abdullah: ‘Proof’ demanded for ‘ ₹20-30 crore’ MLA poaching claim
-The J&K chief minister alleged that attempts were being made to engineer a split in the NC but claimed that none of his party's MLAs would "sell" themselves.
+## Administrator or prolific builder? The legacy of ‘Raja’ Tikait Rai
+Tikait Rai was actively involved in the construction of several bridges, temples, mosques, wells, serais (inns), ghats, markets and walled gardens.
 
-## Pune: Moshi garbage depot toll rises to 9 as 83-hour rescue operation ends
-The deceased employee was identified as Waman Kasbe. His body was recovered around 1 am on Sunday and taken to Yashwantrao Chavan Memorial Hospital (YCMH) in Pimpri.
+## Navy key protector of India’s economic interests: Rajnath Singh
+Defence minister Rajnath Singh on Saturday said the Indian Navy is not just a fighting force but also a key protector of the country’s economic interests
 
-## 11-year-old boy killed in lion attack during Girnar pilgrimage in Gujarat
-An 11-year-old pilgrim died in a lion attack near the Girnar staircase in Gujarat, prompting authorities to close the route and capture three lions.
+## TN govt deputes IPS officer to expedite victims’ repatriation after Vietnam boat tragedy
+Tamil Nadu deputed IPS officer Santosh Hadimani to Vietnam to expedite repatriation of mortal remains of 10 victims killed in the Phu Quoc boat tragedy.
 
-## Karnataka man kills 3 of his kin, dies by suicide
-A 34-year-old man allegedly hacked his mother, grandmother and uncle to death before dying by suicide early on Saturday in Bengaluru’s Kottigepalya, police said
+## Landslide blocks Kedarnath Highway near Sonprayag as heavy rain disrupts Yatra
+Kedarnath Yatra is continuing smoothly despite the temporary road blockage, officials have said.
 
-## Defence minister inducts INS Mahendragiri into Navy fleet, highlights military tech push
-Union defence minister Rajnath on Saturday said that the Centre was investing heavily in advanced defence technology to improve the country’s security capabilities
+## Missing after 8pm, stray dogs help, body found at midnight | What we know about Ghaziabad rape-murder case
+The 7-year-old girl was found in the basement of the under-construction building in Raj Nagar extension, nearly 5 hours after she went missing.
 
-## POCSO accused out on bail kills six including his wife and sons
-A 35-year-old man accused in a Protection of Children from Sexual Offences (POCSO) Act case allegedly murdered six people, including his wife, two young sons, a 17-year-old girl who had filed a sexual harassment complaint against him, her mother and grandmother in Telangana’s Rangareddy district, po
+## Book Box: How not to tell a story
+Returning to Mumbai, I revisited my bookshelves but found recent business reads disappointing. Instead, Asimov's sci-fi gave insightful storytelling I needed
 
-## Jamia allows final-year students to clear backlogs through compartment exams
-
-
-## UPSC Ethics Simplified | Why the world needs virtuous leaders more than ever: Aristotle’s timeless lesson
+## Shekhar Kapur would give his ‘right arm’ to work with Matt Damon now: ‘It’s time’
 
 
-## Sunita Ahuja exits Lock Upp 2 on health grounds; opens up about her film debut
+## Lock Upp 2: Ram Kapoor apologises to Shilpa Shinde, opens up about being molested
 
 
-## India captain Shreyas Iyer lists out reasons for England series loss
+## Tied to pole, beaten: Woman alleges assault by TMC goons in Narendrapur
 
 
-## Science is a public good, not an abstract pursuit: Soumya Swaminathan at IISc convocation
+## Zerodha’s Nithin Kamath and Nikhil Kamath take mother shopping in London
 
 
-## Making of ‘Spider’: In Messi’s shadow, how Alvarez became Argentina’s hero
+## This is what happens if you have overnight soaked oats for breakfast for 1 month
 
 
-## Highest paid tennis players in the world 2026: Alcaraz leads, Coco Gauff at No.3
+## Prince Harry joins goat yoga, plays water bombs at charity event for military families
 
 
-## Inside Khabar Lahariya: the fearless women reporters rewriting rural journalism in India
+## US Senator Lindsey Graham, staunch Trump supporter, dead at 71
 
+
+## At World Championships in Delhi why badminton needs Gen Z, Gen Alpha watchers
+
+
+## Does Hong Kong’s housing market rebound need local owners to sustain it?
+Hong Kong’s housing market has rebounded faster than expected this year, but analysts say the pace of the recovery could undermine its own momentum as rising prices begin to erase the affordability that had started drawing local buyers back into the market. Jeremy Wong, a financial professional in h
 
 ## Tech stocks capture China’s elderly retail investors amid faith in nation’s tech sector
 Technology stocks have become the new darlings of China’s retail investors who are betting their savings on chipmakers and artificial intelligence (AI) developers amid belief in the country’s technology ascendancy. “Foam is the best bit of a beer,” Fang Yan’an, a veteran investor in his late 70s, to
@@ -149,9 +155,6 @@ Demand for Beijing’s grade-A office buildings increased in the first half of t
 
 ## Star Market at 7: tech-centric stock exchange powers China’s innovation rise
 President Xi Jinping gave investors a surprise in 2018 when he floated the idea of a tech-focused board on the Shanghai Stock Exchange (SSE). He also gave China a powerful asset, as the board – later dubbed the Star Market – has become a financial engine powering breakthroughs in frontier technologi
-
-## Shein receives approval for Hong Kong IPO from Chinese regulators
-Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong, a long-awaited step for the firm after its attempts to list in New York or London stalled. The firm plans to issue up to 341.6 millio
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Injured Conor McGregor’s UFC comeback ends in defeat to Max Holloway
-Facing Holloway at UFC 329, McGregor seemed to injure his right knee in the first round when jumping in with a kick.
+## US Senator Lindsey Graham passes away
+This is a breaking news story.
 
-## Argentina beat Switzerland to set up World Cup 2026 semifinal with England
-Argentina need extra time to beat Switzerland 3-1 in the quarterfinals to set up a showdown with England on Wednesday.
+## Ghana slavery apology: Why many descendants say words are not enough
+Descendants of enslaved Africans say symbolic apologies cannot repair generations of loss and injustice.
 
-## England fans revel in World Cup win over Norway
-Fans celebrated at a London watch party after England's 2-1 extra-time win over Norway in the World Cup quarter-finals.
+## Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar
+The Father Emir oversaw the meteoric rise of the small gas-rich nation.
 
-## Nigeria rescues dozens of abducted school children in Oyo state
-Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.
+## Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
+Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich country's development.
 
-## Mediators push US-Iran talks in Qatar and Oman to avert escalation
-Regional mediators are stepping up efforts to prevent further escalation between Iran and the US.
+## US forces launch new strikes on Iran; Tehran closes Strait of Hormuz
+US forces have launched a third round of strikes on Iran in a week.
 
-## Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis
-Jude Bellingham scores in extra-time to send England into the World Cup semifinals for first time since 2018.
+## Why doesn’t Indian PM Modi hold unscripted press conferences?
+Why doesn't Indian PM Modi hold unscripted press conferences?
 
-## Iran war live: Tehran attacks Jordan, Gulf states after US bombardment
-Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar
+## Iran launches attacks across the Gulf after more US strikes
+Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.
 
-## Indian tourists killed after speedboat capsizes in Vietnam
-Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.
+## What was the mistaken identity red card shown in Argentina vs Switzerland?
+Switzerland's Breel Embolo became the first player to be sent off after a VAR review in the last World Cup quarterfinal.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
