@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US launches fresh strikes after Tehran declares Strait of Hormuz closed
+American forces claim waterway is open after Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar
+
+## Police ‘open minded’ on motive for Widdecombe killing after second arrest
+Former Conservative minister was found dead at her home in Devon on Thursday
+
+## The great reinvention of Hunter Biden
+You have to hand it to him — the man knows how to troll with the best of them
+
+## A three-way nuclear arms race
+Today’s world has alarming echoes of the era before weapons controls
+
 ## Why are China and India so bad at football?
 Despite large populations and economies, the countries consistently fail to qualify for the World Cup
 
@@ -9,20 +21,11 @@ Market Questions is the FT’s guide to the week ahead
 ## Knives out at US Supreme Court as justices’ squabbles go public
 The spilling-over of partisan divisions on the normally collegiate bench erodes public support for the institution
 
-## US launches fresh strikes after Tehran declares Strait of Hormuz closed
-Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar
-
 ## US senator Lindsey Graham dies aged 71
 South Carolina politician was one of the most influential and hawkish Republicans
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
-
-## Stranded pollock prompt EU to delay fish import controls for US
-System introduced to crack down on illegal fishing has left cargoes stuck in docks for days
-
-## The ‘innovators and disrupters’ hired to bring AI to the UK public sector
-Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services
 
 ## Quantum is exciting, but watch out for the Schrödinger’s cat bounce
 The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time away
@@ -37,10 +40,19 @@ Shrinking pool of recipients points to coming wave of so-called zombie firms
 Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
 ## AstraZeneca CEO: ‘Biology will catch up with me at some point’
-Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secure growth in China and US
+Long-serving pharma chief Sir Pascal Soriot hopes research and risk-taking will secure growth in China and US
 
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
+
+## Union aviation ministry says no communication with TN on Parandur airport, decision rests with the State
+Chief Minister C Joseph Vijay had backed villagers and farmers opposing the project before he assumed office
+
+## Rising cancer cases generate up to 25% revenue for top private hospitals
+Overstretched public hospitals push patients to high-cost private care
+
+## Flying into the future: Inside Bhogapuram’s new high-tech international airport
+To offer travellers a seamless, digitally enabled experience, while emerging as a catalyst for trade, tourism, logistics and business growth
 
 ## India’s auto retail sector aims for 3 crore sales amid financing overhaul
 Even asIndia’s vehicle finance market has grown to around ₹2.65 lakh crore and motor insurance to nearly ₹1.25 lakh crore as leaders from India’s auto retail sector are push for real-time funding dashboards, dealer-centric credit assessment and deeper digital integration to improve working capital a
@@ -57,14 +69,11 @@ Dealers cite steady freight activity, e-commerce-linked movement and normalising
 ## Maharashtra starts ₹150-crore electric boat manufacturing hub for Mumbai Water Metro
 Maharashtra signs an agreement with Zoya Marine Services to establish a ₹150-crore electric boat manufacturing facility in Sindhudurg to build vessels for the ₹6,067-crore Mumbai Water Metro
 
-## GEMA refutes allegations of vehicle damage from ethanol-blended fuel
-The industry body says there is no evidence of engine damage, but concedes a 3-5% drop in mileage
+## EPFO launches one-time Amnesty Scheme for exempted PF trusts after portal revamp: What it means
+EPFO introduced a one-time Amnesty Scheme for exempted Provident Fund Trusts. This scheme allows establishments to regularize their compliance status under the EPF Act. Eligible employers can obtain retrospective exemption and resolve pending issues. The amnesty offers relief from litigation and wai
 
-## World’s wealth gap is widening, UBS Global Wealth Report shows
-Average wealth rises notably in 2026, median wealth declines in most markets, states report
-
-## Mastering Derivatives: Trading advantages of Nifty options
-As index options are cash-settled, you can avoid delivery margins
+## Gold, silver rate outlook: Middle East conflict, inflation data to drive prices this week
+Precious metals are expected to remain under pressure in the coming week. Geopolitical uncertainty in the Middle East weighs against upcoming inflation data. Investors are awaiting economic indicators that could shape global interest rate expectations. Bullion prices ended the week sharply lower, mi
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -84,58 +93,52 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## Oyo-Zostel appeal to be heard on August 12
 
 
-## Tractors defy rain concerns as Q1 sales jump 19%
+## 69 roads shut in Uttarakhand as monsoon rain triggers landslides
+Emergency services, district administrations, the State Disaster Response Force (SDRF) and police teams have been placed on high alert
 
+## 6-month-old baby falls ill after Kerala doctor prescribes overdose of paracetamol, case filed
+The police registered a case against a doctor attached to the Aluva Government District Hospital based on a complaint filed by the infant's father on Saturday.
 
-## $1bn SEZs in the works to boost seafood exports
+## Vietnamese police arrest captain of boat that capsized, killing 15 Indians
+The boat capsized near southern Phu Quoc island due to extreme weather conditions, killing 15 Indian tourists
 
+## Bodies of 15 Indians killed in Vietnam boat tragedy reach Ho Chi Minh City
+The Embassy informed that the mortal remains of the deceased will be transported to India following the completion of necessary formalities.
+
+## MeitY reviews Meta response on child sexual abuse content
+The ministry had also given the company seven days to explain how such advertisements were allowed to appear on Instagram
+
+## ‘Don’t you dare lie’: Karnataka minister suspends BMTC bus conductor during surprise inspection; video sparks debate
+In one of the videos posted on X, the minister is seen reprimanding a conductor for allegedly not stopping the bus at a designated bus stop.
 
 ## 'Will commit suicide': What Manmohan Singh told former CEC Quraishi during 2012 elections
 As per Quraishi, this backlash was triggered by Salman Khurshid's censure for breaking the Model Code of Conduct (MCC)
 
-## Rivals in state, together at Centre: Why DMK is not yet ready for INDIA bloc formula to ally with Vijay's TVK
+## Rivals in state, together vs Modi regime: DMK not yet ready for this INDIA bloc formula to ally with Vijay's TVK
 Kerala and Bengal model won't work in Tamil Nadu, a DMK MP has said; but DMK has not quite exited the INDIA bloc even as Cong went with Vijay's TVK in state
 
-## 92-yr-old veteran of China, Pak wars now battles to reclaim his Jaisalmer land
-A 92-year-old veteran fights to reclaim land sold under forged documents. He alleges fraud involving impersonation by a land mafia in Rajasthan.
-
-## 'Blood on crops', ‘psycho’: BRS vs Revanth Reddy war of words over Kaleshwaram project in Telangana
-BRS demanded an unconditional apology from Telangana CM Revanth Reddy over his 'blood on crops' and 'belt treatment' remarks amid the Kaleshwaram row.
-
-## Manipur farmer shot dead while working in field; probe underway: Police
-Officers said it is yet to be ascertained who was involved in the crime, and an investigation is underway to nab the perpetrators
-
-## IAF officer critically injured in Jodhpur land dispute; FIR against 7 kin
-A violent land dispute in Jodhpur left an Air Force officer critically injured; police registered an FIR against seven family members, with no arrests made.
-
-## Four siblings drown while bathing in Rajasthan pond, father saves 2 kids
-Four family members drowned in Vatrak pond, Dungarpur; two children rescued. Victims included Hina, Pratik, and Ishita Damor, aged 15-24.
-
-## India's most popular vlogger Sourav Joshi slams ethanol-blended E20 petrol: ‘Average down from 17 to 9, now 5’ | Watch
-Joshi, who operates out of Haldwani, Uttarakhand, said his vehicle's efficiency has plummeted to an unprecedented low within a span of just 48 hours.
-
-## Sohail Khan on divorce from Seema Sajdeh: ‘Wasn’t in the right frame of mind’
+## McCullum steps down as England Test coach, set to continue in white ball formats
 
 
-## 3 publishers arrested in J-K for books that ‘glorified separatists, militants’
+## Today News Headlines for School Assembly, July 13, 2026: ECI revises Form-6 for new voters, Indian-origin NASA astronaut Anil Menon heads to ISS
 
 
-## No more neckties: Why Haryana schools will see an urgent uniform policy change
+## Agra Cantt incident: RPF personnel suspended after viral video of clash with Deputy Station Superintendent
 
 
-## Why vitamin C serums come in dark bottles. Expert decodes the science
+## Foreign student enrolment in India rises 47% in a decade; Nepal remains top source
 
 
-## Samantha Ruth Prabhu exposes exhibitor’s remark before Maa Inti Bangaram hit Rs 100 cr mark
+## Strait of Hormuz blocked, oil flows diverted: Is there a way out?
 
 
-## Why BJP’s candidate switch in Nitin Nabin’s seat can give ammo to Prashant Kishor’s bid
+## Sinner vs Zverev: Check out their head to head stats before Wimbledon final
 
 
-## Chandigarh tops India in household spending, richest after Bengaluru: Report
+## Bombay High Court ruling that could change cluster redevelopment of old buildings in Mumbai forever
 
 
-## Parth Pawar to get engaged to Kaynaat Dhar on July 29, Rohit Pawar confirms
+## Kusha Kapila clarifies viral selfie with Samay Raina is AI-generated: ‘Not friends’
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -258,6 +261,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup 2026: Biggest takeaways from the quarterfinals
+The quarterfinals are now behind us with plenty of key moments and incidents as the tournament enters the final four.
+
+## Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani
+Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani
+
+## British police make new arrest in Ann Widdecombe murder investigation
+Police arrest 28-year-old suspect in South Yorkshire in connection with the murder of former MP Ann Widdecombe.
+
+## Typhoon Bavi weakens to tropical storm as it slams into eastern China
+Storm the size of France expected to bring days of heavy rains and strong winds to eastern and northern provinces.
+
 ## IRGC releases video of retaliatory missile strikes
 IRGC releases video of retaliatory missile strikes
 
@@ -269,18 +284,6 @@ Sheikh Hamad, who ruled Qatar from 1995 to 2013 and stepped aside to make his so
 
 ## The spectacle and symbolism of Khamenei’s funeral
 How coverage of the supreme leader's funeral exposed the limits of familiar narratives about Iran.
-
-## Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions
-After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.
-
-## Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know
-Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.
-
-## Watch World Cup: England beats Norway to set up semifinal against Argentina
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## US CENTCOM completes third round of strikes on Iran
-US CENTCOM completes third round of strikes on Iran
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
