@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## FirstFT: US launches new strikes on Iran in fight over Strait of Hormuz
+Also in today’s newsletter: Lindsey Graham dies aged 71 and Zelenskyy dismisses Ukraine’s prime minister
+
+## US launches another round of strikes on Iran as ceasefire teeters
+Trump administration insists that the Strait of Hormuz remains open after Tehran declared it closed
+
+## US senator Lindsey Graham dies aged 71
+South Carolina politician, who died from cardiovascular disease, was one of the most influential and hawkish Republicans
+
 ## Iran bets Trump will blink first
 Tehran takes high-stakes gamble with US over Strait of Hormuz
 
@@ -17,12 +26,6 @@ Former ruler was known for modernising gas-rich Gulf state and pursuing regional
 
 ## Yes, peer review has problems. But Trump’s solution is dangerous
 Replacing academic judgment with political alignment undermines the very engine of discovery
-
-## Andy Burnham explores holding expanded autumn Budget
-UK’s incoming PM is considering combining fiscal statement with spending review to set out his political strategy
-
-## Zelenskyy dismisses Ukraine’s PM in cabinet shake-up
-Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -255,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks
+Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.
+
+## Israel releases video of huge detonations in Lebanon
+The Israeli military has released video showing huge explosions and detonations in villages in southern Lebanon.
+
+## Deadly Israeli strikes pound Gaza
+Israel’s military has attacked several places across Gaza.
+
 ## Israel to hold national elections on October 27, parliament says
 Netanyahu, Israel's longest-serving prime minister, has confirmed that he will run for office again.
 
@@ -269,15 +281,6 @@ Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.
 
 ## Fire engulfs popular Bangkok pub, killing 27 people and injuring 63
 Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.
-
-## Sinner beats Zverev to defend Wimbledon men’s singles tennis title
-Italy's Jannik Sinner beats Germany's Alexander Zverev 6-7 (7-9) 7-6 (7-2) 6-3 6-4 to claim his fifth Grand Slam.
-
-## Qatar’s former emir remembered as ‘a man of vision and courage’
-US diplomat Adam Ereli remembers Qatar’s former Emir Sheikh as a personable and charismatic leader.
-
-## How will Qatar’s Father Emir be remembered?
-Former Emir Sheikh Hamad Bin Khalifa Al Thani has died
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
