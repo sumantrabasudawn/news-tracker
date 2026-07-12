@@ -1,7 +1,16 @@
 # AION Intelligence
 
-## US launches fresh strikes after Tehran declares Strait of Hormuz closed
-American forces claim waterway is open after Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar
+## US and Iran exchange fresh strikes in battle over Strait of Hormuz
+Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
+
+## Zelenskyy dismisses Ukraine’s PM in cabinet shake-up
+Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle
+
+## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
+Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
+
+## Reeves makes last-minute pitch for senior job under Burnham
+Chancellor will say in Mansion House speech on Tuesday that she has left the economy in a good state for incoming PM
 
 ## Police ‘open minded’ on motive for Widdecombe killing after second arrest
 Former Conservative minister was found dead at her home in Devon on Thursday
@@ -14,15 +23,6 @@ Today’s world has alarming echoes of the era before weapons controls
 
 ## Why are China and India so bad at football?
 Despite large populations and economies, the countries consistently fail to qualify for the World Cup
-
-## Will Warsh offer any clues on Fed rates outlook?
-Market Questions is the FT’s guide to the week ahead
-
-## Knives out at US Supreme Court as justices’ squabbles go public
-The spilling-over of partisan divisions on the normally collegiate bench erodes public support for the institution
-
-## US senator Lindsey Graham dies aged 71
-South Carolina politician was one of the most influential and hawkish Republicans
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -45,29 +45,35 @@ Long-serving pharma chief Sir Pascal Soriot hopes research and risk-taking will 
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
+## SIF assets jump 29 per cent in June to ₹17,858 crore driven by hybrid long-short strategies
+Monthly inflows surge 171 per cent to ₹3,782 crore; hybrid strategies account for 72 per cent of industry assets
+
+## Companies running private PF trusts given 6 months to certify under new amnesty scheme
+The scheme will remain open for six months from June 29, 2026, when it was notified
+
+## NSE unveils growth plan ahead of IPO: New products to global partnerships, here’s what’s in focus
+NSE’s investor presentation argues its growth initiatives are backed by favourable structural trends in India’s economy and capital markets
+
+## Hormuz closure threatens India’s gas, crude supplies
+Exporters brace for higher energy costs
+
+## Airtel remains a reliable, privileged partner to nation: Sunil Mittal
+Mittal said that India amongst the fastest-growing large economies, underpinned by domestic demand, policy continuity and expanding national capabilities
+
+## Mutual Fund Sahi Hai: SBI Fund Management IPO creates 13 crorepati employees
+Deputy Managing Director, DP Singh and CIO, Srinivasan Rama Iyer top the list, with holdings worth more than ₹100 crore each
+
+## India among countries with severe housing crisis; WEF says people’s wealth, health under threat
+Monthly mortgage and rental payments exceed 100% of an individual’s average monthly earnings in India, says report
+
 ## Union aviation ministry says no communication with TN on Parandur airport, decision rests with the State
 Chief Minister C Joseph Vijay had backed villagers and farmers opposing the project before he assumed office
 
-## Rising cancer cases generate up to 25% revenue for top private hospitals
-Overstretched public hospitals push patients to high-cost private care
+## E20 controversy explained: Why an old roadmap is back in spotlight
 
-## Flying into the future: Inside Bhogapuram’s new high-tech international airport
-To offer travellers a seamless, digitally enabled experience, while emerging as a catalyst for trade, tourism, logistics and business growth
 
-## India’s auto retail sector aims for 3 crore sales amid financing overhaul
-Even asIndia’s vehicle finance market has grown to around ₹2.65 lakh crore and motor insurance to nearly ₹1.25 lakh crore as leaders from India’s auto retail sector are push for real-time funding dashboards, dealer-centric credit assessment and deeper digital integration to improve working capital a
-
-## Indian team ranks first at International Physics Olympaid; all five members clinch gold
-This is the second time that India has won five gold medals at the IPhO, the other occasion being in 2018
-
-## Dovetail eyes custody business; raise ₹100 crore to fund next growth phase
-The company plans to apply for a custody licence within the next 30-45 days, betting on the growing opportunity in asset servicing as foreign and domestic investment flows into India continue to rise
-
-## Rural demand drives commercial vehicle retail growth in June 2026; Tata Motors and M&M strengthen lead
-Dealers cite steady freight activity, e-commerce-linked movement and normalising supplies, FADA says
-
-## Maharashtra starts ₹150-crore electric boat manufacturing hub for Mumbai Water Metro
-Maharashtra signs an agreement with Zoya Marine Services to establish a ₹150-crore electric boat manufacturing facility in Sindhudurg to build vessels for the ₹6,067-crore Mumbai Water Metro
+## India-UK FTA opens doors, but tariff cuts alone won't lift exports: GTRI
+India's new trade pact with the UK opens market access for exporters. However, strengthening quality standards and logistics is crucial for success. Food and engineering sectors face specific regulatory and certification requirements. Labour-intensive industries like garments and textiles offer sign
 
 ## EPFO launches one-time Amnesty Scheme for exempted PF trusts after portal revamp: What it means
 EPFO introduced a one-time Amnesty Scheme for exempted Provident Fund Trusts. This scheme allows establishments to regularize their compliance status under the EPF Act. Eligible employers can obtain retrospective exemption and resolve pending issues. The amnesty offers relief from litigation and wai
@@ -87,11 +93,17 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## Sebi clears IPOs of Zetwerk, Rentomojo
 
 
-## Markets rally for 2nd day, sensex up 827 points
+## Assam police arrest land rights activist Pranab Doley over Kaziranga luxury hotel
+Doley, who contested the 2021 assembly polls independently, was picked up by a team of Dispur police station in Guwahati
 
+## 'Lindsay Graham sent to hell': Iranian state TV 'congratulates' citizens after US Senator's sudden death
+In the viral clip, the anchor describes Graham as ‘war-mongering’ and ‘anti-Iranian’. The US Senator was a supporter of war on Iran was a ‘friend’ of Israel.
 
-## Oyo-Zostel appeal to be heard on August 12
+## 'Enough is enough': Omar Abdullah takes J&K statehood campaign to Delhi, protest on July 20
+The meeting, his first major public rally in Jammu in several years, assumed significance as it was held in what is considered a BJP stronghold.
 
+## ‘BJP respects democratic traditions’: NDA leaders defend against Omar Abdullah's ‘trying to break my party’ charge
+“No obstacles were placed in way of [NC and Cong] forming a government in J&K” said NCP's Patel; Omar has accused BJP of breaking TMC, Sena, AAP among others.
 
 ## 69 roads shut in Uttarakhand as monsoon rain triggers landslides
 Emergency services, district administrations, the State Disaster Response Force (SDRF) and police teams have been placed on high alert
@@ -105,40 +117,28 @@ The boat capsized near southern Phu Quoc island due to extreme weather condition
 ## Bodies of 15 Indians killed in Vietnam boat tragedy reach Ho Chi Minh City
 The Embassy informed that the mortal remains of the deceased will be transported to India following the completion of necessary formalities.
 
-## MeitY reviews Meta response on child sexual abuse content
-The ministry had also given the company seven days to explain how such advertisements were allowed to appear on Instagram
-
-## ‘Don’t you dare lie’: Karnataka minister suspends BMTC bus conductor during surprise inspection; video sparks debate
-In one of the videos posted on X, the minister is seen reprimanding a conductor for allegedly not stopping the bus at a designated bus stop.
-
-## 'Will commit suicide': What Manmohan Singh told former CEC Quraishi during 2012 elections
-As per Quraishi, this backlash was triggered by Salman Khurshid's censure for breaking the Model Code of Conduct (MCC)
-
-## Rivals in state, together vs Modi regime: DMK not yet ready for this INDIA bloc formula to ally with Vijay's TVK
-Kerala and Bengal model won't work in Tamil Nadu, a DMK MP has said; but DMK has not quite exited the INDIA bloc even as Cong went with Vijay's TVK in state
-
-## McCullum steps down as England Test coach, set to continue in white ball formats
+## Day after Vietnam boat tragedy, families seek ‘clear information’, await return of remains
 
 
-## Today News Headlines for School Assembly, July 13, 2026: ECI revises Form-6 for new voters, Indian-origin NASA astronaut Anil Menon heads to ISS
+## ‘I was not careful enough’: Desi Bling’s Dyuti Parruck on ‘fractured’ marriage with Iryna Kinakh
 
 
-## Agra Cantt incident: RPF personnel suspended after viral video of clash with Deputy Station Superintendent
+## ‘Do we have to go to Trump?’: Omar Abdullah says time for ‘new method’ in push for J&K statehood
 
 
-## Foreign student enrolment in India rises 47% in a decade; Nepal remains top source
+## 8 adjournments, no prosecutor: How a State decision put 2020 Vadodara custodial death case trial in limbo
 
 
-## Strait of Hormuz blocked, oil flows diverted: Is there a way out?
+## ‘Please give me a job. I have 2 daughters’: Bhagyashri Borse on her father begging for work
 
 
-## Sinner vs Zverev: Check out their head to head stats before Wimbledon final
+## Maharashtra’s bike taxi rollout from August 1 divides Pune: Unions threaten protest, commuters welcome move
 
 
-## Bombay High Court ruling that could change cluster redevelopment of old buildings in Mumbai forever
+## Amid Baruipur fallout, Kolkata Police tightens SOPs for handover of Zero FIR
 
 
-## Kusha Kapila clarifies viral selfie with Samay Raina is AI-generated: ‘Not friends’
+## UPSC Key: India-New Zealand relations, Akashvani, and India’s first hydrogen train
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FIFA World Cup 2026: Biggest takeaways from the quarterfinals
-The quarterfinals are now behind us with plenty of key moments and incidents as the tournament enters the final four.
+## Driven by desperation: Yemenis resort to dangerous energy alternatives
+Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.
 
-## Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani
-Qatar mourns Father Emir Sheikh Hamad bin Khalifa Al Thani
+## Friends turned foes: The split reshaping Senegal
+Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.
 
-## British police make new arrest in Ann Widdecombe murder investigation
-Police arrest 28-year-old suspect in South Yorkshire in connection with the murder of former MP Ann Widdecombe.
+## Marc Marquez dominates Germany MotoGP to close in on championship lead
+Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.
 
-## Typhoon Bavi weakens to tropical storm as it slams into eastern China
-Storm the size of France expected to bring days of heavy rains and strong winds to eastern and northern provinces.
+## Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko
+Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.
 
-## IRGC releases video of retaliatory missile strikes
-IRGC releases video of retaliatory missile strikes
+## Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup
+Senegal part ways with head coach after national side's elimination from the football tournament at the last-32 stage.
 
-## Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life
-Sheikh Hamad's 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.
+## Former Emir Sheikh Hamad Bin Khalifa Al Thani’s legacy in Palestine
+Former Emir Sheikh Hamad Bin Khalifa Al Thani's legacy in Palestine
 
-## Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani
-Sheikh Hamad, who ruled Qatar from 1995 to 2013 and stepped aside to make his son Sheikh Tamim emir, dies aged 74.
+## Republican Lindsey Graham dies at 71: World leaders, US politicians react
+The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.
 
-## The spectacle and symbolism of Khamenei’s funeral
-How coverage of the supreme leader's funeral exposed the limits of familiar narratives about Iran.
+## How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power
+Leader known as Qatar's father emir was able to redefine his nation's position on the political map of the Middle East.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
