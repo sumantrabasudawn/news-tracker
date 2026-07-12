@@ -1,10 +1,10 @@
 # AION Intelligence
 
-## US Senator Lindsey Graham dies aged 71
-South Carolina senator was one of the most influential and hawkish Republicans
+## US senator Lindsey Graham dies aged 71
+South Carolina politician was one of the most influential and hawkish Republicans
 
-## US launches more strikes after Tehran declares Strait of Hormuz closed
-Iran hits commercial ship transiting the waterway, with Centcom saying crew member is missing from vessel
+## US launches fresh strikes after Tehran declares Strait of Hormuz closed
+Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -36,29 +36,29 @@ Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secu
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
-## One Indian national missing after attack on vessel off Oman, foreign ministry says
+## Retail inflation likely to have breached 4% mark in June
+Under the new 2024 base series, CPI inflation rose from 2.74% in January 2026 to 3.93% in May, increasing 45 basis points in the past month
 
+## Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions
+TCS is increasing its investment in AI talent and acquisitions to tackle IT service disruptions, emphasizing the need for skilled engineers to integrate AI solutions for clients
 
-## HDFC Bank workforce drops by over 3,300 as operations automated
-As of March 31, the bank’s staff decreased to 211,178, with new hires down by 3,811, according to its annual report released Saturday
+## Rising cancer cases generate up to 25% revenue for top private hospitals
+Overstretched public hospitals push patients to high-cost private care
 
-## Three publishers arrested over books with ‘inappropriate content’ in J&K
-The three publishers arrested include Inderpaul from Oberoi Book Service and Amardeep Singh and Girish Arora from the Noida-based Dominant Publishers.
+## Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs
+Volkswagen said its “fundamental realignment” over the past three years had reached its next phase, announcing plans to streamline the model lineup by up to half
 
-## EPFO invites applications from PF trusts for amnesty scheme
-Employers, stakeholders and the general public are advised to take note of the scheme, which will remain open for six months
+## Gold, silver may stay under pressure as US-Iran tensions, inflation data hold key: Analysts
+Analysts said any further escalation in the conflict could drive crude oil prices higher, revive inflation concerns and strengthen safe-haven assets such as the US dollar and Treasury yields, limiting the upside for precious metals
 
-## Trump’s close aid, US Senator Lindsey Graham, dies at 71
-Graham, a senator from South Carolina, died on Saturday after a “brief and sudden” illness, according to his office.
+## Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died
+Sheikh Hamad presided over one of the most consequential periods in the country’s history, driving a rapid transformation of the tiny desert state that reshaped its economy, global profile and political ambition
 
-## Mandaviya to inaugurate seven ESI healthcare projects on Tuesday
-He will virtually inaugurate the six projects
+## Par panel recommends ‘suspension’ not removal of PM, CMs detained for 30 days on serious charges
+It also proposed an automatic reversal clause if such persons are acquitted or the prosecution does not proceed within a specified period.
 
-## SC to hear plea seeking guidelines to curb airfare fluctuations on July 13
-Justices Vikram Nath and Sandeep Mehta will hear S Laxminarayanan’s plea for an independent regulator to ensure transparency and passenger protection in civil aviation
-
-## Setting the record straight on India’s fuel transition
-India’s energy security hinges on steady, evidence-led execution of a domestic strategy and on citizens
+## Goyal to visit Spain, Belgium, Finland this week
+The delegation comprises leading Indian companies across sectors, including advanced manufacturing, clean energy, digital technologies, gems and jewellery, food processing, healthcare, and design
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -84,53 +84,56 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## Mother and son Pakistani, father and 3 other kids Indian: Curious case in Karnataka via UAE
-Mother and son had allegedly obtained ration card and voter identity card by suppressing facts about their nationality
+## 'Unsafe in my own home': Flipkart delivery agent enters Bengaluru woman's flat, makes obscene gesture, arrested
+According to the woman, she repeatedly refused his request and told him that she does not allow strangers inside her home.
 
-## 'Deeply worrisome': India condemns attack on GFS Galaxy vessel off Oman's coast amid US-Iran war
-The Ministry of External Affairs stated it is closely monitoring the statement and has called for immediate de-escalation.
+## Hyderabad student in Finland, missing for over 2 months, found dead at sea; family calls for probe
+The student, who has been identified as Manideep Reddy, was last seen on May 5 at a mall in Helsinki,
 
-## Administrator or prolific builder? The legacy of ‘Raja’ Tikait Rai
-Tikait Rai was actively involved in the construction of several bridges, temples, mosques, wells, serais (inns), ghats, markets and walled gardens.
+## One held after Bengal woman alleges assault by ex-TMC MLA’s supporters: Police
+The woman and her husband, both supporters of the BJP, alleged that associates of then TMC’s Sonarpur North MLA Firdousi Begum targeted them
 
-## Navy key protector of India’s economic interests: Rajnath Singh
-Defence minister Rajnath Singh on Saturday said the Indian Navy is not just a fighting force but also a key protector of the country’s economic interests
+## CJP's Dipke uses Taylor Swift's 'Anti-hero' song to target Dharmendra Pradhan: 'It's me, hi, I'm the problem'
+A video shared by Abhijeet Dipke syncs clips of Dharmendra Pradhan while showing PM Modi during the line, ‘At tea time.’
 
-## TN govt deputes IPS officer to expedite victims’ repatriation after Vietnam boat tragedy
-Tamil Nadu deputed IPS officer Santosh Hadimani to Vietnam to expedite repatriation of mortal remains of 10 victims killed in the Phu Quoc boat tragedy.
+## Amarnath pilgrims pause to admire a manmade wonder: World's highest railway arch bridge on the Chenab | Video
+Many are pausing at designated viewpoints to admire the bridge's soaring steel arch, capturing photographs and videos
 
-## Landslide blocks Kedarnath Highway near Sonprayag as heavy rain disrupts Yatra
-Kedarnath Yatra is continuing smoothly despite the temporary road blockage, officials have said.
+## MP woman raped after masked men break into house in MP, wooden object inserted into private parts
+The woman suffered serious injuries and was later referred to a hospital in Indore, where she underwent surgery, police said.
 
-## Missing after 8pm, stray dogs help, body found at midnight | What we know about Ghaziabad rape-murder case
-The 7-year-old girl was found in the basement of the under-construction building in Raj Nagar extension, nearly 5 hours after she went missing.
+## 3 Lawrence Bishnoi gang shooters arrested in Delhi, police foil targeted killing plot
+The Delhi Police's Rohini District Special Staff has arrested three shooters associated with the Lawrence Bishnoi gang, who were planning a targeted killing.
 
-## Book Box: How not to tell a story
-Returning to Mumbai, I revisited my bookshelves but found recent business reads disappointing. Instead, Asimov's sci-fi gave insightful storytelling I needed
+## ‘Family honour’ or fodder scam blot? Why BJP changed its candidate vs Prashant Kishor in Bihar's Bankipur bypoll
+“After being implicated by CBI, my wife and I are out on bail; our appeals pending before the HC,” Abhishek Sinha's father explained on fodder scam “role”.
 
-## Shekhar Kapur would give his ‘right arm’ to work with Matt Damon now: ‘It’s time’
-
-
-## Lock Upp 2: Ram Kapoor apologises to Shilpa Shinde, opens up about being molested
+## From Corridors of Power: When Satluj swept, TN Seshan of Punjab and Warring’s Churi bomb, jeevan-daan to Khuddian
 
 
-## Tied to pole, beaten: Woman alleges assault by TMC goons in Narendrapur
+## India’s first hydrogen train: 6 things passengers should know before its launch
 
 
-## Zerodha’s Nithin Kamath and Nikhil Kamath take mother shopping in London
+## Former Shiv Sena MP Vinayak Raut, family booked on daughter-in-law’s complaint of cruelty, marriage fraud
 
 
-## This is what happens if you have overnight soaked oats for breakfast for 1 month
+## IIT Guwahati 28th Convocation: 2,265 degrees awarded, 412 PhD scholars among graduates
 
 
-## Prince Harry joins goat yoga, plays water bombs at charity event for military families
+## R Rajaraman, the Indian physicist recruited by Robert Oppenheimer who always wanted to come home
 
 
-## US Senator Lindsey Graham, staunch Trump supporter, dead at 71
+## ‘Special 26’ in Kolkata: Fake cops loot Rs 2 crore from businessman’s office
 
 
-## At World Championships in Delhi why badminton needs Gen Z, Gen Alpha watchers
+## IB Results 2026: India records 10.5% rise in students over 3 years, higher average scores globally
 
+
+## A Hyderabad businessman, a US investor with ‘Trump links’ and a derailed World Cup bid
+
+
+## Markets, not politics, will make China’s yuan a global currency
+The yuan’s next global push will fall short if it is treated as persuasion. The test is not whether Beijing wants an international currency or whether Hong Kong can host summits around it. It is whether a treasurer in Jakarta, a bank in Riyadh or a Gulf central bank can fund, hedge, invest and exit 
 
 ## Does Hong Kong’s housing market rebound need local owners to sustain it?
 Hong Kong’s housing market has rebounded faster than expected this year, but analysts say the pace of the recovery could undermine its own momentum as rising prices begin to erase the affordability that had started drawing local buyers back into the market. Jeremy Wong, a financial professional in h
@@ -152,9 +155,6 @@ Volkswagen Group’s deliveries in China slumped during the first half of 2026 t
 
 ## Expanding AI and chip firms push up rents in Beijing’s hi-tech district
 Demand for Beijing’s grade-A office buildings increased in the first half of the year, with artificial intelligence and semiconductor companies making the Zhongguancun area a hot property at a time when office markets nationwide are still struggling. Home to the capital’s densest cluster of hi-tech 
-
-## Star Market at 7: tech-centric stock exchange powers China’s innovation rise
-President Xi Jinping gave investors a surprise in 2018 when he floated the idea of a tech-focused board on the Shanghai Stock Exchange (SSE). He also gave China a powerful asset, as the board – later dubbed the Star Market – has become a financial engine powering breakthroughs in frontier technologi
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US Senator Lindsey Graham passes away
-This is a breaking news story.
+## Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know
+Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.
+
+## Watch World Cup: England beats Norway to set up semifinal against Argentina
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## US CENTCOM completes third round of strikes on Iran
+US CENTCOM completes third round of strikes on Iran
+
+## Missiles and drones fired at Gulf states after night of US strikes on Iran
+Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.
+
+## France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats
+European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas.
+
+## IRGC vows ‘crushing response’ to any further US attacks
+IRGC vows ‘crushing response’ to any further US attacks
+
+## Lindsey Graham, one of Israel’s strongest US Senate allies, dies at 71
+The US Republican senator died of a sudden illness, his office said. He was 71.
 
 ## Ghana slavery apology: Why many descendants say words are not enough
 Descendants of enslaved Africans say symbolic apologies cannot repair generations of loss and injustice.
-
-## Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar
-The Father Emir oversaw the meteoric rise of the small gas-rich nation.
-
-## Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
-Sheikh Hamad, who ruled Qatar from 1995 to 2013, was a key architect of the energy-rich country's development.
-
-## US forces launch new strikes on Iran; Tehran closes Strait of Hormuz
-US forces have launched a third round of strikes on Iran in a week.
-
-## Why doesn’t Indian PM Modi hold unscripted press conferences?
-Why doesn't Indian PM Modi hold unscripted press conferences?
-
-## Iran launches attacks across the Gulf after more US strikes
-Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.
-
-## What was the mistaken identity red card shown in Argentina vs Switzerland?
-Switzerland's Breel Embolo became the first player to be sent off after a VAR review in the last World Cup quarterfinal.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
