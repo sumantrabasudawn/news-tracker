@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel to hold national elections on October 27, parliament says
+Netanyahu, Israel's longest-serving prime minister, has confirmed that he will run for office again.
+
+## Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia
+Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London's Tower Bridge.
+
+## Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71
+US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.
+
+## The man who changed the Arab world
+Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.
+
+## Fire engulfs popular Bangkok pub, killing 27 people and injuring 63
+Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.
+
+## Sinner beats Zverev to defend Wimbledon men’s singles tennis title
+Italy's Jannik Sinner beats Germany's Alexander Zverev 6-7 (7-9) 7-6 (7-2) 6-3 6-4 to claim his fifth Grand Slam.
+
 ## Qatar’s former emir remembered as ‘a man of vision and courage’
 US diplomat Adam Ereli remembers Qatar’s former Emir Sheikh as a personable and charismatic leader.
 
 ## How will Qatar’s Father Emir be remembered?
 Former Emir Sheikh Hamad Bin Khalifa Al Thani has died
-
-## Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team
-Mariano Rajoy condemned for opinion piece on Spanish website El Debate ahead of World Cup semifinal.
-
-## Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island
-New explosions have been heard in Bandar Abbas and Qeshm Island.
-
-## Nine dead as Russia and Ukraine trade drone and missile salvos
-Ukraine is particularly vulnerable to Russian ballistic missiles due to critical shortage of Patriot munitions.
-
-## Iraqi PM to meet US President Trump in Washington to deepen strategic ties
-Oil and gas deals are expected ⁠to be signed as part of a broader push ​for economic, trade and investment cooperation.
-
-## England vs Argentina: Greatest moments before FIFA World Cup semifinal
-England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.
-
-## Why the Iran-US ceasefire is falling apart
-Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
