@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Why are China and India so bad at football?
+Despite large populations and economies, the countries consistently fail to qualify for the World Cup
+
+## Will Warsh offer any clues on Fed rates outlook?
+Market Questions is the FT’s guide to the week ahead
+
+## Knives out at US Supreme Court as justices’ squabbles go public
+The spilling-over of partisan divisions on the normally collegiate bench erodes public support for the institution
+
 ## US launches fresh strikes after Tehran declares Strait of Hormuz closed
 Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar
 
@@ -15,20 +24,17 @@ System introduced to crack down on illegal fishing has left cargoes stuck in doc
 ## The ‘innovators and disrupters’ hired to bring AI to the UK public sector
 Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services
 
-## Big Tech to face fines for consumer protection failures, says EU official
-Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards
-
-## The EU has ways out of its budget trap
-Side agreements and special purpose funds could bypass the usual trench warfare
-
-## Airbnb lures fans from US hotels after World Cup marketing push
-Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
-
 ## Quantum is exciting, but watch out for the Schrödinger’s cat bounce
 The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time away
 
+## Big Tech to face fines for consumer protection failures, says EU official
+Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards
+
 ## Big private equity firms pull in more cash as winners take all
 Shrinking pool of recipients points to coming wave of so-called zombie firms
+
+## Airbnb lures fans from US hotels after World Cup marketing push
+Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
 ## AstraZeneca CEO: ‘Biology will catch up with me at some point’
 Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secure growth in China and US
@@ -36,29 +42,29 @@ Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secu
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
+## India’s auto retail sector aims for 3 crore sales amid financing overhaul
+Even asIndia’s vehicle finance market has grown to around ₹2.65 lakh crore and motor insurance to nearly ₹1.25 lakh crore as leaders from India’s auto retail sector are push for real-time funding dashboards, dealer-centric credit assessment and deeper digital integration to improve working capital a
+
+## Indian team ranks first at International Physics Olympaid; all five members clinch gold
+This is the second time that India has won five gold medals at the IPhO, the other occasion being in 2018
+
+## Dovetail eyes custody business; raise ₹100 crore to fund next growth phase
+The company plans to apply for a custody licence within the next 30-45 days, betting on the growing opportunity in asset servicing as foreign and domestic investment flows into India continue to rise
+
+## Rural demand drives commercial vehicle retail growth in June 2026; Tata Motors and M&M strengthen lead
+Dealers cite steady freight activity, e-commerce-linked movement and normalising supplies, FADA says
+
+## Maharashtra starts ₹150-crore electric boat manufacturing hub for Mumbai Water Metro
+Maharashtra signs an agreement with Zoya Marine Services to establish a ₹150-crore electric boat manufacturing facility in Sindhudurg to build vessels for the ₹6,067-crore Mumbai Water Metro
+
+## GEMA refutes allegations of vehicle damage from ethanol-blended fuel
+The industry body says there is no evidence of engine damage, but concedes a 3-5% drop in mileage
+
 ## World’s wealth gap is widening, UBS Global Wealth Report shows
 Average wealth rises notably in 2026, median wealth declines in most markets, states report
 
 ## Mastering Derivatives: Trading advantages of Nifty options
 As index options are cash-settled, you can avoid delivery margins
-
-## Bhogapuram can emerge as an aviation hub for India’s eastern coast: Rammohan Naidu
-In an exclusive interview with businessline, Civil Aviation Minister K Rammohan Naidu disclosed that the government is targeting at least five major domestic carriers with fleets exceeding 100 aircraft each to match soaring demand
-
-## Indian diaspora group plans to build museum in Washington DC, showcase ‘Vedic Foundation’, ‘spiritual prowess’
-India Heritage Centre estimates total project cost to be between $12 million and $14 million
-
-## Airtel remains a reliable, privileged partner to nation: Sunil Mittal
-Mittal said that India amongst the fastest-growing large economies, underpinned by domestic demand, policy continuity and expanding national capabilities
-
-## SEBI employees will need to liquidate all ‘non-permitted investment’, disclose professional interests
-New rules require SEBI employees to exit or freeze non-permitted investments and disclose professional interests from the previous three years.
-
-## Simaero plans to add more simulators, tap local engg talent in India: CEO
-The company also has plans to transfer knowledge and technical expertise to India
-
-## 14 nations, EU reaffirm 2016 ruling invalidating China's claims in South China Sea
-A joint statement from 14 nations rejected “destabilising” actions in the disputed waters threatening regional stability
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -84,6 +90,15 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
+## 'Will commit suicide': What Manmohan Singh told former CEC Quraishi during 2012 elections
+As per Quraishi, this backlash was triggered by Salman Khurshid's censure for breaking the Model Code of Conduct (MCC)
+
+## Rivals in state, together at Centre: Why DMK is not yet ready for INDIA bloc formula to ally with Vijay's TVK
+Kerala and Bengal model won't work in Tamil Nadu, a DMK MP has said; but DMK has not quite exited the INDIA bloc even as Cong went with Vijay's TVK in state
+
+## 92-yr-old veteran of China, Pak wars now battles to reclaim his Jaisalmer land
+A 92-year-old veteran fights to reclaim land sold under forged documents. He alleges fraud involving impersonation by a land mafia in Rajasthan.
+
 ## 'Blood on crops', ‘psycho’: BRS vs Revanth Reddy war of words over Kaleshwaram project in Telangana
 BRS demanded an unconditional apology from Telangana CM Revanth Reddy over his 'blood on crops' and 'belt treatment' remarks amid the Kaleshwaram row.
 
@@ -99,38 +114,32 @@ Four family members drowned in Vatrak pond, Dungarpur; two children rescued. Vic
 ## India's most popular vlogger Sourav Joshi slams ethanol-blended E20 petrol: ‘Average down from 17 to 9, now 5’ | Watch
 Joshi, who operates out of Haldwani, Uttarakhand, said his vehicle's efficiency has plummeted to an unprecedented low within a span of just 48 hours.
 
-## 'Unsafe in my own home': Flipkart delivery agent enters Bengaluru woman's flat, makes obscene gesture, arrested
-According to the woman, she repeatedly refused his request and told him that she does not allow strangers inside her home.
-
-## Hyderabad student in Finland, missing for over 2 months, found dead at sea; family calls for probe
-The student, who has been identified as Manideep Reddy, was last seen on May 5 at a mall in Helsinki,
-
-## One held after Bengal woman alleges assault by ex-TMC MLA’s supporters: Police
-The woman and her husband, both supporters of the BJP, alleged that associates of then TMC’s Sonarpur North MLA Firdousi Begum targeted them
-
-## Who is Mahabali Shera, who knocked out ex-WWE champ Jake Hager in Power Slap 21?
+## Sohail Khan on divorce from Seema Sajdeh: ‘Wasn’t in the right frame of mind’
 
 
-## Anshula Kapoor shares unseen wedding reception photos; Ranveer Singh, Arjun Kapoor party hard
+## 3 publishers arrested in J-K for books that ‘glorified separatists, militants’
 
 
-## Chennai Metro new rule: Playing music without earphones can attract Rs 2,500 fine
+## No more neckties: Why Haryana schools will see an urgent uniform policy change
 
 
-## Alia Bhatt sets bridesmaid goals at Akansha Ranjan’s wedding to Sharan Sharma
+## Why vitamin C serums come in dark bottles. Expert decodes the science
 
 
-## India’s one-geared cantering ponies shown up outside IPL pastures
+## Samantha Ruth Prabhu exposes exhibitor’s remark before Maa Inti Bangaram hit Rs 100 cr mark
 
 
-## Anjali Anand: ‘I was in Bell Bottom only so a terrorist could fall on top of me’
+## Why BJP’s candidate switch in Nitin Nabin’s seat can give ammo to Prashant Kishor’s bid
 
 
-## Baruipur lynching: Man ‘seen dragging’ Indrajit Mondal among 2 more arrested
+## Chandigarh tops India in household spending, richest after Bengaluru: Report
 
 
-## Amid ‘Satluj’ storm in Punjab, why CM Bhagwant Mann remains silent
+## Parth Pawar to get engaged to Kaynaat Dhar on July 29, Rohit Pawar confirms
 
+
+## Five Guys to open in Beijing as more US chains hunger for success in China
+American burger chain Five Guys will debut its first Beijing store next month, the company said last week, joining a group of US fast-food brands newly entering or accelerating their expansion in China. Chains including Wendy’s, Chili’s, Texas Chicken and Popeyes are hoping to grab a slice of the wo
 
 ## Markets, not politics, will make China’s yuan a global currency
 The yuan’s next global push will fall short if it is treated as persuasion. The test is not whether Beijing wants an international currency or whether Hong Kong can host summits around it. It is whether a treasurer in Jakarta, a bank in Riyadh or a Gulf central bank can fund, hedge, invest and exit 
@@ -152,9 +161,6 @@ BYD, the world’s largest electric vehicle (EV) maker, has intensified efforts 
 
 ## Volkswagen China deliveries see 26% drop year on year to lowest point since 2010
 Volkswagen Group’s deliveries in China slumped during the first half of 2026 to their lowest level in 16 years, as local electric vehicle (EV) brands further siphoned off buyers’ interest in petrol cars amid a slowing market. Through its three ventures with Chinese partners, the German car brand han
-
-## Expanding AI and chip firms push up rents in Beijing’s hi-tech district
-Demand for Beijing’s grade-A office buildings increased in the first half of the year, with artificial intelligence and semiconductor companies making the Zhongguancun area a hot property at a time when office markets nationwide are still struggling. Home to the capital’s densest cluster of hi-tech 
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -252,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## IRGC releases video of retaliatory missile strikes
+IRGC releases video of retaliatory missile strikes
+
+## Key moments from former Qatar Emir Sheikh Hamad bin Khalifa Al Thani’s life
+Sheikh Hamad's 18-year rule catapulted Qatar to prosperity and reshaped its domestic, regional and global footprint.
+
+## Photos: Qatari Father Emir Sheikh Hamad bin Khalifa Al Thani
+Sheikh Hamad, who ruled Qatar from 1995 to 2013 and stepped aside to make his son Sheikh Tamim emir, dies aged 74.
+
 ## The spectacle and symbolism of Khamenei’s funeral
 How coverage of the supreme leader's funeral exposed the limits of familiar narratives about Iran.
 
@@ -266,15 +281,6 @@ Latest match highlights, reaction and previews from the FIFA World Cup 2026 in N
 
 ## US CENTCOM completes third round of strikes on Iran
 US CENTCOM completes third round of strikes on Iran
-
-## Missiles and drones fired at Gulf states after night of US strikes on Iran
-Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.
-
-## France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats
-European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas.
-
-## IRGC vows ‘crushing response’ to any further US attacks
-IRGC vows ‘crushing response’ to any further US attacks
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
