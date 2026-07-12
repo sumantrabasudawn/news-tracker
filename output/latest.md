@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## FirstFT: US launches new strikes on Iran in fight over Strait of Hormuz
-Also in today’s newsletter: Lindsey Graham dies aged 71 and Zelenskyy dismisses Ukraine’s prime minister
+## More than 2,700 deaths linked to UK heatwaves
+For the first time on record temperatures of 35C or higher had been recorded in May, June and July of the same year in UK
 
 ## US launches another round of strikes on Iran as ceasefire teeters
-Trump administration insists that the Strait of Hormuz remains open after Tehran declared it closed
+Fighting escalates as Trump insists the Strait of Hormuz remains open while Tehran says it is closed
+
+## Oil prices jump as US and Iran step up tit-for-tat strikes
+Traders fear escalating hostilities could further restrict the flow of crude through the Strait of Hormuz
+
+## FirstFT: US launches new strikes on Iran in fight over Strait of Hormuz
+Also in today’s newsletter: Lindsey Graham dies aged 71 and Zelenskyy dismisses Ukraine’s prime minister
 
 ## US senator Lindsey Graham dies aged 71
 South Carolina politician, who died from cardiovascular disease, was one of the most influential and hawkish Republicans
@@ -17,12 +23,6 @@ Britain’s next PM to be rubber-stamped while Wall Street lenders to roar ahead
 
 ## US launches new strikes on Iran in battle over Strait of Hormuz
 Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
-
-## Lindsey Graham, Republican senator, 1955-2026
-Veteran proponent of US power was a Trump critic who became one of the president’s most influential advocates
-
-## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
-Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
 
 ## Yes, peer review has problems. But Trump’s solution is dangerous
 Replacing academic judgment with political alignment undermines the very engine of discovery
@@ -38,9 +38,6 @@ Justice commissioner Michael McGrath says Brussels seeks to strengthen social me
 
 ## Big private equity firms pull in more cash as winners take all
 Shrinking pool of recipients points to coming wave of so-called zombie firms
-
-## Airbnb lures fans from US hotels after World Cup marketing push
-Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
 ## IMD: Monsoon activity subdued in large parts of India, Uttarakhand on red alert
 IMD predicts ‘isolated heavy to very heavy rainfall’ likely over northeast India, West Bengal, and Bihar during the next 2-3 days and isolated heavy falls over east Uttar Pradesh in 4-5 days
@@ -66,6 +63,9 @@ India’s demand for critical minerals is rising, and this could be leveraged by
 ## Is India drinking itself dry for AI economy?
 India’s challenge is not whether to build for the AI economy, but whether it can do so without exhausting the very resources that sustain growth
 
+## Oil companies plan expanding 10-kg LPG cylinder sales
+State-run oil companies are considering expanding lightweight 10-kg LPG cylinders for commercial use. These cylinders will likely be sold at commercial LPG rates if approved by authorities. This move could benefit migrant workers, tenants, and street vendors needing LPG. The advanced composite cylin
+
 ## Four top-10 firms add Rs 93,000 crore in mcap despite weak market; HDFC Bank, Airtel lead gains
 Four of India's top ten companies added significant market value last week. HDFC Bank and Bharti Airtel led these gains, increasing their valuations substantially. Reliance Industries also saw its market capitalization rise, retaining its top position. However, Hindustan Unilever and Larsen & Toubro
 
@@ -86,9 +86,6 @@ Precious metals are expected to remain under pressure in the coming week. Geopol
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
-
-## How trains running at 160 kmph aim to transform Delhi-NCR and cities around it
-The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.
 
 ## Tied to pole, given electric shocks: Youths tortured over theft suspicion in Madhya Pradesh
 The youths were allegedly accused of stealing a water pump motor, and were thereafter taken to a farm, wherein they were tortured.
@@ -114,6 +111,18 @@ The declaration was added in the Bihar SIR rolled out in June last year. New vot
 ## ‘Taken to babas, forced to drink cow urine’: Ex-Sena UBT MP's daughter-in-law alleges black magic, torture
 In her complaint, Girija complained that several people, including two self-proclaimed godmen, had performed various indecent acts on her.
 
+## Delhi Confidential: Special Mention In Auckland
+
+
+## Central Vista should be called Kartavya Bhawan area: Union Minister Manohar Lal
+
+
+## Fire engulfs popular Bangkok pub, killing 27 people and injuring dozens
+
+
+## Week-long rain break in most parts of country
+
+
 ## Israel to hold elections on October 27: What it means for Netanyahu
 
 
@@ -126,17 +135,8 @@ In her complaint, Girija complained that several people, including two self-proc
 ## IND vs ENG: Yastika Bhatia’s century takes India closer to Lord’s win
 
 
-## US-Iran tensions soar: Fresh strikes on Qeshm Island as Hormuz status remains at odds
-
-
-## Iltija Mufti says under house detention with mother Mehbooba ahead of Martyr’s Day in Kashmir
-
-
-## Vaibhav Sooryavanshi attends Wimbledon, picks Jannik Sinner as winner
-
-
-## From Ladakh to Tibet: 7 monasteries perched among the peaks
-
+## Hong Kong developers ready new home launches amid forecasts of muted price increases
+Some of Hong Kong’s largest developers, including Sun Hung Kai Properties (SHKP) and Wheelock Properties, are set to release new units in residential projects this month amid an expected cooling of price increases. SHKP, the city’s largest developer in terms of market capitalisation, released the pr
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
 American burger chain Five Guys will debut its first Beijing store next month, the company said last week, joining a group of US fast-food brands newly entering or accelerating their expansion in China. Chains including Wendy’s, Chili’s, Texas Chicken and Popeyes are hoping to grab a slice of the wo
@@ -158,9 +158,6 @@ China’s first four exchange-traded real estate investment trusts (Reits) backe
 
 ## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
 BYD, the world’s largest electric vehicle (EV) maker, has intensified efforts to promote its high-performance batteries and superfast charging technology around the world as it tests a car that it says boasts the world’s longest driving range in a journey from Rome to Hong Kong. A fleet of upgraded 
-
-## Volkswagen China deliveries see 26% drop year on year to lowest point since 2010
-Volkswagen Group’s deliveries in China slumped during the first half of 2026 to their lowest level in 16 years, as local electric vehicle (EV) brands further siphoned off buyers’ interest in petrol cars amid a slowing market. Through its three ventures with Chinese partners, the German car brand han
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -258,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mitch McConnell releases health update, says he is ‘regaining’ strength
+The Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.
+
+## US launches new wave of strikes against Iran, aimed at ‘degrading’ military
+Sunday's attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.
+
 ## Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks
 Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.
 
@@ -275,12 +278,6 @@ Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London
 
 ## Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71
 US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.
-
-## The man who changed the Arab world
-Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.
-
-## Fire engulfs popular Bangkok pub, killing 27 people and injuring 63
-Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
