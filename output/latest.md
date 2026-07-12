@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
+Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
+
+## Iran bets Trump will blink first
+Tehran takes high-stakes gamble with US over Strait of Hormuz
+
+## Yes, peer review has problems. But Trump’s solution is dangerous
+Replacing academic judgment with political alignment undermines the very engine of discovery
+
+## Andy Burnham explores holding expanded autumn Budget
+UK’s incoming PM is considering combining fiscal statement with spending review to set out his political strategy
+
 ## US and Iran exchange fresh strikes in battle over Strait of Hormuz
 Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
 
 ## Zelenskyy dismisses Ukraine’s PM in cabinet shake-up
 Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle
 
-## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
-Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
-
 ## Reeves makes last-minute pitch for senior job under Burnham
 Chancellor will say in Mansion House speech on Tuesday that she has left the economy in a good state for incoming PM
 
 ## Police ‘open minded’ on motive for Widdecombe killing after second arrest
 Former Conservative minister was found dead at her home in Devon on Thursday
-
-## The great reinvention of Hunter Biden
-You have to hand it to him — the man knows how to troll with the best of them
-
-## A three-way nuclear arms race
-Today’s world has alarming echoes of the era before weapons controls
-
-## Why are China and India so bad at football?
-Despite large populations and economies, the countries consistently fail to qualify for the World Cup
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -45,29 +45,32 @@ Long-serving pharma chief Sir Pascal Soriot hopes research and risk-taking will 
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
+## India’s growth story needs more women at work
+Taking care. To fully tap women’s work potential the government must invest in the care economy
+
+## The mineral gap India cannot afford to ignore
+India’s demand for critical minerals is rising, and this could be leveraged by countries that control output and refining
+
+## Is India drinking itself dry for AI economy?
+India’s challenge is not whether to build for the AI economy, but whether it can do so without exhausting the very resources that sustain growth
+
+## Wayfaring through life
+Uncertainty requires a deliberate way of thinking, argues the author
+
+## Editorial. Good problem
+Many ways to resolve daytime solar power oversupply
+
+## TCS announces new Global Business Units amid AI-led transformation
+TCS has carved out ‘Autonomous Business Operations’, a dedicated sales organisation focused on driving sales motions specific to such operations.
+
+## How quick commerce is silently eliminating India’s middlemen and benefitting horticulture farmers
+The quick commerce companies are also pleased to see a constant growth – daily potato procurement in the national capital region of a leading delivery platform is 130-150 tonne
+
 ## SIF assets jump 29 per cent in June to ₹17,858 crore driven by hybrid long-short strategies
 Monthly inflows surge 171 per cent to ₹3,782 crore; hybrid strategies account for 72 per cent of industry assets
 
-## Companies running private PF trusts given 6 months to certify under new amnesty scheme
-The scheme will remain open for six months from June 29, 2026, when it was notified
-
-## NSE unveils growth plan ahead of IPO: New products to global partnerships, here’s what’s in focus
-NSE’s investor presentation argues its growth initiatives are backed by favourable structural trends in India’s economy and capital markets
-
-## Hormuz closure threatens India’s gas, crude supplies
-Exporters brace for higher energy costs
-
-## Airtel remains a reliable, privileged partner to nation: Sunil Mittal
-Mittal said that India amongst the fastest-growing large economies, underpinned by domestic demand, policy continuity and expanding national capabilities
-
-## Mutual Fund Sahi Hai: SBI Fund Management IPO creates 13 crorepati employees
-Deputy Managing Director, DP Singh and CIO, Srinivasan Rama Iyer top the list, with holdings worth more than ₹100 crore each
-
-## India among countries with severe housing crisis; WEF says people’s wealth, health under threat
-Monthly mortgage and rental payments exceed 100% of an individual’s average monthly earnings in India, says report
-
-## Union aviation ministry says no communication with TN on Parandur airport, decision rests with the State
-Chief Minister C Joseph Vijay had backed villagers and farmers opposing the project before he assumed office
+## Stock market this week: Q1 earnings, inflation data, Middle East tensions to keep D-Street volatile
+The upcoming week will see investors focus on corporate earnings and key economic data. India's inflation figures and foreign exchange reserves are scheduled for release soon. Global developments, including West Asia tensions, will also influence market sentiment. Foreign institutional investors hav
 
 ## E20 controversy explained: Why an old roadmap is back in spotlight
 
@@ -90,55 +93,52 @@ The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger
 ## NSE Indices launches Nifty500 Ahimsa Index: From 'ethical' filters to screening, how the benchmark works
 NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned with non-violence principles. This new index targets investors seeking animal welfare considerations in their portfolios. Companies are screened using the Ahimsagain Foundation's AIM framework for eligibility. The index o
 
-## Sebi clears IPOs of Zetwerk, Rentomojo
+## India declares a day of mourning for Father Amir of Qatar
+Prime Minister Narendra Modi condoled the death of Sheikh Hamad and described him as a true friend of India and a visionary leader who led the development of Qatar
 
+## India declares one-day national mourning for Qatar's Father Amir Sheikh Hamad bin Khalifa Al-Thani
+The national flag will fly at half-mast across the country, and there will be no official entertainment on the day.
+
+## AI engineer stabs girlfriend to death in Gurugram PG, dies by suicide hours later
+The incident surfaced after woman's family approached the Sector-56 police station on Saturday when they were unable to get in touch with her.
+
+## Flipkart sacks delivery agent after Bengaluru woman alleges obscene act
+Whitefield deputy commissioner of police Saidulu Adavath said police registered a case under sections 75, 79 and 329(2) of the Bharatiya Nyaya Sanhita
+
+## New voters must provide parents' SIR details to get on electoral rolls: Election Commission
+The declaration was added in the Bihar SIR rolled out in June last year. New voters were made to file the declaration along with Form 6.
+
+## ‘Taken to babas, forced to drink cow urine’: Ex-Sena UBT MP's daughter-in-law alleges black magic, torture
+In her complaint, Girija complained that several people, including two self-proclaimed godmen, had performed various indecent acts on her.
+
+## 'No need to display religion': Ex-BJP leader Annamalai on being a 'true Hindu' in fiery speech
+In his address in Pollachi, Annamalai said he was a proud nationalist, adding that he “locks up” his caste and religion inside his house when he steps out.
 
 ## Assam police arrest land rights activist Pranab Doley over Kaziranga luxury hotel
 Doley, who contested the 2021 assembly polls independently, was picked up by a team of Dispur police station in Guwahati
 
-## 'Lindsay Graham sent to hell': Iranian state TV 'congratulates' citizens after US Senator's sudden death
-In the viral clip, the anchor describes Graham as ‘war-mongering’ and ‘anti-Iranian’. The US Senator was a supporter of war on Iran was a ‘friend’ of Israel.
-
-## 'Enough is enough': Omar Abdullah takes J&K statehood campaign to Delhi, protest on July 20
-The meeting, his first major public rally in Jammu in several years, assumed significance as it was held in what is considered a BJP stronghold.
-
-## ‘BJP respects democratic traditions’: NDA leaders defend against Omar Abdullah's ‘trying to break my party’ charge
-“No obstacles were placed in way of [NC and Cong] forming a government in J&K” said NCP's Patel; Omar has accused BJP of breaking TMC, Sena, AAP among others.
-
-## 69 roads shut in Uttarakhand as monsoon rain triggers landslides
-Emergency services, district administrations, the State Disaster Response Force (SDRF) and police teams have been placed on high alert
-
-## 6-month-old baby falls ill after Kerala doctor prescribes overdose of paracetamol, case filed
-The police registered a case against a doctor attached to the Aluva Government District Hospital based on a complaint filed by the infant's father on Saturday.
-
-## Vietnamese police arrest captain of boat that capsized, killing 15 Indians
-The boat capsized near southern Phu Quoc island due to extreme weather conditions, killing 15 Indian tourists
-
-## Bodies of 15 Indians killed in Vietnam boat tragedy reach Ho Chi Minh City
-The Embassy informed that the mortal remains of the deceased will be transported to India following the completion of necessary formalities.
-
-## Day after Vietnam boat tragedy, families seek ‘clear information’, await return of remains
+## India to hold 1-day mourning as Qatar’s former Emir Sheikh Hamad dies
 
 
-## ‘I was not careful enough’: Desi Bling’s Dyuti Parruck on ‘fractured’ marriage with Iryna Kinakh
+## After axing Brendon McCullum, England want RCB coach Andy Flower
 
 
-## ‘Do we have to go to Trump?’: Omar Abdullah says time for ‘new method’ in push for J&K statehood
+## They came as children. Decades later, they’re still here
 
 
-## 8 adjournments, no prosecutor: How a State decision put 2020 Vadodara custodial death case trial in limbo
+## Bangladesh busts alleged extremist network masquerading as ‘martial arts group’
 
 
-## ‘Please give me a job. I have 2 daughters’: Bhagyashri Borse on her father begging for work
+## 5 protein shake red flags to know
 
 
-## Maharashtra’s bike taxi rollout from August 1 divides Pune: Unions threaten protest, commuters welcome move
+## Satluj row: What legal records reveal about Jaswant Singh Khalra’s lifework, and murder
 
 
-## Amid Baruipur fallout, Kolkata Police tightens SOPs for handover of Zero FIR
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 170) — Check out answers with explanations
 
 
-## UPSC Key: India-New Zealand relations, Akashvani, and India’s first hydrogen train
+## Vandita Mishra writes: The regional party does not hold
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syrian parliament convenes for first time following al-Assad’s overthrow
+President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.
+
+## Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign
+Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?
+
+## Israeli forces kill five Palestinians in latest attacks on Gaza
+Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.
+
+## What made US Republican Senator Lindsey Graham a controversial figure
+Graham was known for his hawkish views on US defence and foreign policies.
+
+## FIFA, Infantino, to examine 64-team World Cup for 2030 tournament
+FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.
+
+## The architect of Qatari autonomy
+Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.
+
 ## Driven by desperation: Yemenis resort to dangerous energy alternatives
 Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.
 
-## Friends turned foes: The split reshaping Senegal
-Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.
-
 ## Marc Marquez dominates Germany MotoGP to close in on championship lead
 Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.
-
-## Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko
-Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.
-
-## Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup
-Senegal part ways with head coach after national side's elimination from the football tournament at the last-32 stage.
-
-## Former Emir Sheikh Hamad Bin Khalifa Al Thani’s legacy in Palestine
-Former Emir Sheikh Hamad Bin Khalifa Al Thani's legacy in Palestine
-
-## Republican Lindsey Graham dies at 71: World leaders, US politicians react
-The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.
-
-## How Sheikh Hamad bin Khalifa Al Thani built Qatar’s soft power
-Leader known as Qatar's father emir was able to redefine his nation's position on the political map of the Middle East.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
