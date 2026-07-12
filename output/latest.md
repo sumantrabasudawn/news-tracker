@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US launches new strikes on Iran in battle over Strait of Hormuz
+Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
+
+## Lindsey Graham, Republican senator, 1955-2026
+Veteran proponent of US power was a Trump critic who became one of the president’s most influential advocates
+
 ## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
 Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
 
@@ -12,17 +18,11 @@ Replacing academic judgment with political alignment undermines the very engine 
 ## Andy Burnham explores holding expanded autumn Budget
 UK’s incoming PM is considering combining fiscal statement with spending review to set out his political strategy
 
-## US and Iran exchange fresh strikes in battle over Strait of Hormuz
-Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
-
 ## Zelenskyy dismisses Ukraine’s PM in cabinet shake-up
 Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle
 
 ## Reeves makes last-minute pitch for senior job under Burnham
 Chancellor will say in Mansion House speech on Tuesday that she has left the economy in a good state for incoming PM
-
-## Police ‘open minded’ on motive for Widdecombe killing after second arrest
-Former Conservative minister was found dead at her home in Devon on Thursday
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -42,8 +42,17 @@ Hotel bookings fall short of expectations as price-conscious fans opt to stay in
 ## AstraZeneca CEO: ‘Biology will catch up with me at some point’
 Long-serving pharma chief Sir Pascal Soriot hopes research and risk-taking will secure growth in China and US
 
-## US states push to repurpose abandoned oil wells
-Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
+## IMD: Monsoon activity subdued in large parts of India, Uttarakhand on red alert
+IMD predicts ‘isolated heavy to very heavy rainfall’ likely over northeast India, West Bengal, and Bihar during the next 2-3 days and isolated heavy falls over east Uttar Pradesh in 4-5 days
+
+## Union aviation ministry says no communication with TN on Parandur airport, decision rests with the State
+Chief Minister C Joseph Vijay had backed villagers and farmers opposing the project before he assumed office
+
+## Business lessons from the top of the world
+Binod Chaudhary’s story is rooted in Nepal, but its relevance extends to economies where political uncertainty, institutional gaps, and external dependencies shape business decisions
+
+## Wipro Q1 preview: Brokerages see weak quarter, muted Q2 guidance
+Net profit is estimated at ₹3,394 crore to ₹3,528 crore, reflecting a 3.1% to 9% sequential decline and a 1.4% to 4% drop year-on-year, according to brokerage estimates
 
 ## India’s growth story needs more women at work
 Taking care. To fully tap women’s work potential the government must invest in the care economy
@@ -57,17 +66,8 @@ India’s challenge is not whether to build for the AI economy, but whether it c
 ## Wayfaring through life
 Uncertainty requires a deliberate way of thinking, argues the author
 
-## Editorial. Good problem
-Many ways to resolve daytime solar power oversupply
-
-## TCS announces new Global Business Units amid AI-led transformation
-TCS has carved out ‘Autonomous Business Operations’, a dedicated sales organisation focused on driving sales motions specific to such operations.
-
-## How quick commerce is silently eliminating India’s middlemen and benefitting horticulture farmers
-The quick commerce companies are also pleased to see a constant growth – daily potato procurement in the national capital region of a leading delivery platform is 130-150 tonne
-
-## SIF assets jump 29 per cent in June to ₹17,858 crore driven by hybrid long-short strategies
-Monthly inflows surge 171 per cent to ₹3,782 crore; hybrid strategies account for 72 per cent of industry assets
+## Four top-10 firms add Rs 93,000 crore in mcap despite weak market; HDFC Bank, Airtel lead gains
+Four of India's top ten companies added significant market value last week. HDFC Bank and Bharti Airtel led these gains, increasing their valuations substantially. Reliance Industries also saw its market capitalization rise, retaining its top position. However, Hindustan Unilever and Larsen & Toubro
 
 ## Stock market this week: Q1 earnings, inflation data, Middle East tensions to keep D-Street volatile
 The upcoming week will see investors focus on corporate earnings and key economic data. India's inflation figures and foreign exchange reserves are scheduled for release soon. Global developments, including West Asia tensions, will also influence market sentiment. Foreign institutional investors hav
@@ -90,8 +90,8 @@ Precious metals are expected to remain under pressure in the coming week. Geopol
 ## How trains running at 160 kmph aim to transform Delhi-NCR and cities around it
 The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.
 
-## NSE Indices launches Nifty500 Ahimsa Index: From 'ethical' filters to screening, how the benchmark works
-NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned with non-violence principles. This new index targets investors seeking animal welfare considerations in their portfolios. Companies are screened using the Ahimsagain Foundation's AIM framework for eligibility. The index o
+## Man kills his two children, dies by suicide after wife leaves him in Tamil Nadu
+According to police, the man, was distraught after his wife left the family around six months ago and was reportedly living with another man.
 
 ## India declares a day of mourning for Father Amir of Qatar
 Prime Minister Narendra Modi condoled the death of Sheikh Hamad and described him as a true friend of India and a visionary leader who led the development of Qatar
@@ -114,31 +114,28 @@ In her complaint, Girija complained that several people, including two self-proc
 ## 'No need to display religion': Ex-BJP leader Annamalai on being a 'true Hindu' in fiery speech
 In his address in Pollachi, Annamalai said he was a proud nationalist, adding that he “locks up” his caste and religion inside his house when he steps out.
 
-## Assam police arrest land rights activist Pranab Doley over Kaziranga luxury hotel
-Doley, who contested the 2021 assembly polls independently, was picked up by a team of Dispur police station in Guwahati
+## 6-year-old girl on way to school dies in road mishap, PMPML bus driver booked
+
+
+## ‘Ritabrata-TMC is the real TMC’: Ritabrata cites ‘court order’
+
+
+## ‘Robbery that never was’: Rs 5 lakh cash found hidden under complainant’s car bonnet
+
+
+## Inside Vikas Khanna’s childhood home in Amritsar: Family photos, desi kitchen, lush green garden
+
+
+## Speeding Mercedes runs over two outside Sector 26 nightclub, driver flees
+
+
+## Pune Moshi collapse: Probe begins into deaths of 9 workers
+
 
 ## India to hold 1-day mourning as Qatar’s former Emir Sheikh Hamad dies
 
 
 ## After axing Brendon McCullum, England want RCB coach Andy Flower
-
-
-## They came as children. Decades later, they’re still here
-
-
-## Bangladesh busts alleged extremist network masquerading as ‘martial arts group’
-
-
-## 5 protein shake red flags to know
-
-
-## Satluj row: What legal records reveal about Jaswant Singh Khalra’s lifework, and murder
-
-
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 170) — Check out answers with explanations
-
-
-## Vandita Mishra writes: The regional party does not hold
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -261,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Sheikh Hamad will be fondly remembered across the Gulf’
+‘Sheikh Hamad will be fondly remembered across the Gulf’
+
+## Iran war: US strategic success or diplomatic failure?
+Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.
+
+## FIFA World Cup 2026: Day 31
+Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.
+
+## United States at 250: Seven tests of the American experiment
+Seven stories test America’s promises of freedom, opportunity and power as the United States marks its 250th year.
+
+## UK ambassador remembers former emir of Qatar as humble and humorous
+Former UK Ambassador to Qatar Sir Graham Boyce remembers the late Emir Sheikh Hamad Bin Khalifa Al Thani.
+
 ## Syrian parliament convenes for first time following al-Assad’s overthrow
 President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.
 
@@ -269,21 +281,6 @@ Cuba has often refused to accept deportations from the US. Where does that leave
 
 ## Israeli forces kill five Palestinians in latest attacks on Gaza
 Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.
-
-## What made US Republican Senator Lindsey Graham a controversial figure
-Graham was known for his hawkish views on US defence and foreign policies.
-
-## FIFA, Infantino, to examine 64-team World Cup for 2030 tournament
-FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.
-
-## The architect of Qatari autonomy
-Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.
-
-## Driven by desperation: Yemenis resort to dangerous energy alternatives
-Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.
-
-## Marc Marquez dominates Germany MotoGP to close in on championship lead
-Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
