@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## US launches fresh strikes after Tehran declares Strait of Hormuz closed
+Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar
+
 ## US senator Lindsey Graham dies aged 71
 South Carolina politician was one of the most influential and hawkish Republicans
-
-## US launches fresh strikes after Tehran declares Strait of Hormuz closed
-Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -36,29 +36,29 @@ Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secu
 ## US states push to repurpose abandoned oil wells
 Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
-## Retail inflation likely to have breached 4% mark in June
-Under the new 2024 base series, CPI inflation rose from 2.74% in January 2026 to 3.93% in May, increasing 45 basis points in the past month
+## World’s wealth gap is widening, UBS Global Wealth Report shows
+Average wealth rises notably in 2026, median wealth declines in most markets, states report
 
-## Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions
-TCS is increasing its investment in AI talent and acquisitions to tackle IT service disruptions, emphasizing the need for skilled engineers to integrate AI solutions for clients
+## Mastering Derivatives: Trading advantages of Nifty options
+As index options are cash-settled, you can avoid delivery margins
 
-## Rising cancer cases generate up to 25% revenue for top private hospitals
-Overstretched public hospitals push patients to high-cost private care
+## Bhogapuram can emerge as an aviation hub for India’s eastern coast: Rammohan Naidu
+In an exclusive interview with businessline, Civil Aviation Minister K Rammohan Naidu disclosed that the government is targeting at least five major domestic carriers with fleets exceeding 100 aircraft each to match soaring demand
 
-## Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs
-Volkswagen said its “fundamental realignment” over the past three years had reached its next phase, announcing plans to streamline the model lineup by up to half
+## Indian diaspora group plans to build museum in Washington DC, showcase ‘Vedic Foundation’, ‘spiritual prowess’
+India Heritage Centre estimates total project cost to be between $12 million and $14 million
 
-## Gold, silver may stay under pressure as US-Iran tensions, inflation data hold key: Analysts
-Analysts said any further escalation in the conflict could drive crude oil prices higher, revive inflation concerns and strengthen safe-haven assets such as the US dollar and Treasury yields, limiting the upside for precious metals
+## Airtel remains a reliable, privileged partner to nation: Sunil Mittal
+Mittal said that India amongst the fastest-growing large economies, underpinned by domestic demand, policy continuity and expanding national capabilities
 
-## Former Qatar ruler Sheikh Hamad, a moderniser who seized power, has died
-Sheikh Hamad presided over one of the most consequential periods in the country’s history, driving a rapid transformation of the tiny desert state that reshaped its economy, global profile and political ambition
+## SEBI employees will need to liquidate all ‘non-permitted investment’, disclose professional interests
+New rules require SEBI employees to exit or freeze non-permitted investments and disclose professional interests from the previous three years.
 
-## Par panel recommends ‘suspension’ not removal of PM, CMs detained for 30 days on serious charges
-It also proposed an automatic reversal clause if such persons are acquitted or the prosecution does not proceed within a specified period.
+## Simaero plans to add more simulators, tap local engg talent in India: CEO
+The company also has plans to transfer knowledge and technical expertise to India
 
-## Goyal to visit Spain, Belgium, Finland this week
-The delegation comprises leading Indian companies across sectors, including advanced manufacturing, clean energy, digital technologies, gems and jewellery, food processing, healthcare, and design
+## 14 nations, EU reaffirm 2016 ruling invalidating China's claims in South China Sea
+A joint statement from 14 nations rejected “destabilising” actions in the disputed waters threatening regional stability
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -84,6 +84,21 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
+## 'Blood on crops', ‘psycho’: BRS vs Revanth Reddy war of words over Kaleshwaram project in Telangana
+BRS demanded an unconditional apology from Telangana CM Revanth Reddy over his 'blood on crops' and 'belt treatment' remarks amid the Kaleshwaram row.
+
+## Manipur farmer shot dead while working in field; probe underway: Police
+Officers said it is yet to be ascertained who was involved in the crime, and an investigation is underway to nab the perpetrators
+
+## IAF officer critically injured in Jodhpur land dispute; FIR against 7 kin
+A violent land dispute in Jodhpur left an Air Force officer critically injured; police registered an FIR against seven family members, with no arrests made.
+
+## Four siblings drown while bathing in Rajasthan pond, father saves 2 kids
+Four family members drowned in Vatrak pond, Dungarpur; two children rescued. Victims included Hina, Pratik, and Ishita Damor, aged 15-24.
+
+## India's most popular vlogger Sourav Joshi slams ethanol-blended E20 petrol: ‘Average down from 17 to 9, now 5’ | Watch
+Joshi, who operates out of Haldwani, Uttarakhand, said his vehicle's efficiency has plummeted to an unprecedented low within a span of just 48 hours.
+
 ## 'Unsafe in my own home': Flipkart delivery agent enters Bengaluru woman's flat, makes obscene gesture, arrested
 According to the woman, she repeatedly refused his request and told him that she does not allow strangers inside her home.
 
@@ -93,43 +108,28 @@ The student, who has been identified as Manideep Reddy, was last seen on May 5 a
 ## One held after Bengal woman alleges assault by ex-TMC MLA’s supporters: Police
 The woman and her husband, both supporters of the BJP, alleged that associates of then TMC’s Sonarpur North MLA Firdousi Begum targeted them
 
-## CJP's Dipke uses Taylor Swift's 'Anti-hero' song to target Dharmendra Pradhan: 'It's me, hi, I'm the problem'
-A video shared by Abhijeet Dipke syncs clips of Dharmendra Pradhan while showing PM Modi during the line, ‘At tea time.’
-
-## Amarnath pilgrims pause to admire a manmade wonder: World's highest railway arch bridge on the Chenab | Video
-Many are pausing at designated viewpoints to admire the bridge's soaring steel arch, capturing photographs and videos
-
-## MP woman raped after masked men break into house in MP, wooden object inserted into private parts
-The woman suffered serious injuries and was later referred to a hospital in Indore, where she underwent surgery, police said.
-
-## 3 Lawrence Bishnoi gang shooters arrested in Delhi, police foil targeted killing plot
-The Delhi Police's Rohini District Special Staff has arrested three shooters associated with the Lawrence Bishnoi gang, who were planning a targeted killing.
-
-## ‘Family honour’ or fodder scam blot? Why BJP changed its candidate vs Prashant Kishor in Bihar's Bankipur bypoll
-“After being implicated by CBI, my wife and I are out on bail; our appeals pending before the HC,” Abhishek Sinha's father explained on fodder scam “role”.
-
-## From Corridors of Power: When Satluj swept, TN Seshan of Punjab and Warring’s Churi bomb, jeevan-daan to Khuddian
+## Who is Mahabali Shera, who knocked out ex-WWE champ Jake Hager in Power Slap 21?
 
 
-## India’s first hydrogen train: 6 things passengers should know before its launch
+## Anshula Kapoor shares unseen wedding reception photos; Ranveer Singh, Arjun Kapoor party hard
 
 
-## Former Shiv Sena MP Vinayak Raut, family booked on daughter-in-law’s complaint of cruelty, marriage fraud
+## Chennai Metro new rule: Playing music without earphones can attract Rs 2,500 fine
 
 
-## IIT Guwahati 28th Convocation: 2,265 degrees awarded, 412 PhD scholars among graduates
+## Alia Bhatt sets bridesmaid goals at Akansha Ranjan’s wedding to Sharan Sharma
 
 
-## R Rajaraman, the Indian physicist recruited by Robert Oppenheimer who always wanted to come home
+## India’s one-geared cantering ponies shown up outside IPL pastures
 
 
-## ‘Special 26’ in Kolkata: Fake cops loot Rs 2 crore from businessman’s office
+## Anjali Anand: ‘I was in Bell Bottom only so a terrorist could fall on top of me’
 
 
-## IB Results 2026: India records 10.5% rise in students over 3 years, higher average scores globally
+## Baruipur lynching: Man ‘seen dragging’ Indrajit Mondal among 2 more arrested
 
 
-## A Hyderabad businessman, a US investor with ‘Trump links’ and a derailed World Cup bid
+## Amid ‘Satluj’ storm in Punjab, why CM Bhagwant Mann remains silent
 
 
 ## Markets, not politics, will make China’s yuan a global currency
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The spectacle and symbolism of Khamenei’s funeral
+How coverage of the supreme leader's funeral exposed the limits of familiar narratives about Iran.
+
+## Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions
+After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.
+
 ## Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know
 Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.
 
@@ -269,12 +275,6 @@ European football titans France and Spain meet in a blockbuster FIFA World Cup 2
 
 ## IRGC vows ‘crushing response’ to any further US attacks
 IRGC vows ‘crushing response’ to any further US attacks
-
-## Lindsey Graham, one of Israel’s strongest US Senate allies, dies at 71
-The US Republican senator died of a sudden illness, his office said. He was 71.
-
-## Ghana slavery apology: Why many descendants say words are not enough
-Descendants of enslaved Africans say symbolic apologies cannot repair generations of loss and injustice.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
