@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Iran bets Trump will blink first
+Tehran takes high-stakes gamble with US over Strait of Hormuz
+
+## A big week for US banks and Andy Burnham
+Britain’s next PM to be rubber-stamped while Wall Street lenders to roar ahead of the earnings season charge
+
 ## US launches new strikes on Iran in battle over Strait of Hormuz
 Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’
 
@@ -9,9 +15,6 @@ Veteran proponent of US power was a Trump critic who became one of the president
 ## Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74
 Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation
 
-## Iran bets Trump will blink first
-Tehran takes high-stakes gamble with US over Strait of Hormuz
-
 ## Yes, peer review has problems. But Trump’s solution is dangerous
 Replacing academic judgment with political alignment undermines the very engine of discovery
 
@@ -20,9 +23,6 @@ UK’s incoming PM is considering combining fiscal statement with spending revie
 
 ## Zelenskyy dismisses Ukraine’s PM in cabinet shake-up
 Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle
-
-## Reeves makes last-minute pitch for senior job under Burnham
-Chancellor will say in Mansion House speech on Tuesday that she has left the economy in a good state for incoming PM
 
 ## UK launches national dementia registry to speed up search for treatments
 Platform aims to improve access to clinical trials and boost life sciences investment in the country
@@ -39,9 +39,6 @@ Shrinking pool of recipients points to coming wave of so-called zombie firms
 ## Airbnb lures fans from US hotels after World Cup marketing push
 Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
-## AstraZeneca CEO: ‘Biology will catch up with me at some point’
-Long-serving pharma chief Sir Pascal Soriot hopes research and risk-taking will secure growth in China and US
-
 ## IMD: Monsoon activity subdued in large parts of India, Uttarakhand on red alert
 IMD predicts ‘isolated heavy to very heavy rainfall’ likely over northeast India, West Bengal, and Bihar during the next 2-3 days and isolated heavy falls over east Uttar Pradesh in 4-5 days
 
@@ -54,6 +51,9 @@ Binod Chaudhary’s story is rooted in Nepal, but its relevance extends to econo
 ## Wipro Q1 preview: Brokerages see weak quarter, muted Q2 guidance
 Net profit is estimated at ₹3,394 crore to ₹3,528 crore, reflecting a 3.1% to 9% sequential decline and a 1.4% to 4% drop year-on-year, according to brokerage estimates
 
+## Mutual Fund Sahi Hai: SBI Fund Management IPO creates 13 crorepati employees
+Deputy Managing Director, DP Singh and CIO, Srinivasan Rama Iyer top the list, with holdings worth more than ₹100 crore each
+
 ## India’s growth story needs more women at work
 Taking care. To fully tap women’s work potential the government must invest in the care economy
 
@@ -62,9 +62,6 @@ India’s demand for critical minerals is rising, and this could be leveraged by
 
 ## Is India drinking itself dry for AI economy?
 India’s challenge is not whether to build for the AI economy, but whether it can do so without exhausting the very resources that sustain growth
-
-## Wayfaring through life
-Uncertainty requires a deliberate way of thinking, argues the author
 
 ## Four top-10 firms add Rs 93,000 crore in mcap despite weak market; HDFC Bank, Airtel lead gains
 Four of India's top ten companies added significant market value last week. HDFC Bank and Bharti Airtel led these gains, increasing their valuations substantially. Reliance Industries also saw its market capitalization rise, retaining its top position. However, Hindustan Unilever and Larsen & Toubro
@@ -90,6 +87,9 @@ Precious metals are expected to remain under pressure in the coming week. Geopol
 ## How trains running at 160 kmph aim to transform Delhi-NCR and cities around it
 The Delhi-Meerut RRTS corridor is just the first stepping stone to a much larger urban mobility plan that aims to transform connectivity in and around Delhi-NCR, with an ambition to develop satellite cities as hubs for growth and development.
 
+## Tied to pole, given electric shocks: Youths tortured over theft suspicion in Madhya Pradesh
+The youths were allegedly accused of stealing a water pump motor, and were thereafter taken to a farm, wherein they were tortured.
+
 ## Man kills his two children, dies by suicide after wife leaves him in Tamil Nadu
 According to police, the man, was distraught after his wife left the family around six months ago and was reportedly living with another man.
 
@@ -111,31 +111,28 @@ The declaration was added in the Bihar SIR rolled out in June last year. New vot
 ## ‘Taken to babas, forced to drink cow urine’: Ex-Sena UBT MP's daughter-in-law alleges black magic, torture
 In her complaint, Girija complained that several people, including two self-proclaimed godmen, had performed various indecent acts on her.
 
-## 'No need to display religion': Ex-BJP leader Annamalai on being a 'true Hindu' in fiery speech
-In his address in Pollachi, Annamalai said he was a proud nationalist, adding that he “locks up” his caste and religion inside his house when he steps out.
+## IND vs ENG: Yastika Bhatia’s century takes India closer to Lord’s win
+
+
+## US-Iran tensions soar: Fresh strikes on Qeshm Island as Hormuz status remains at odds
+
+
+## Iltija Mufti says under house detention with mother Mehbooba ahead of Martyr’s Day in Kashmir
+
+
+## Vaibhav Sooryavanshi attends Wimbledon, picks Jannik Sinner as winner
+
+
+## From Ladakh to Tibet: 7 monasteries perched among the peaks
+
+
+## ‘Blood money’ to 500% tariffs: How India found itself in Lindsey Graham’s crosshairs
+
+
+## Assam activist protesting Kaziranga luxury hotels project detained, Opposition slams ‘bid to silence’
+
 
 ## 6-year-old girl on way to school dies in road mishap, PMPML bus driver booked
-
-
-## ‘Ritabrata-TMC is the real TMC’: Ritabrata cites ‘court order’
-
-
-## ‘Robbery that never was’: Rs 5 lakh cash found hidden under complainant’s car bonnet
-
-
-## Inside Vikas Khanna’s childhood home in Amritsar: Family photos, desi kitchen, lush green garden
-
-
-## Speeding Mercedes runs over two outside Sector 26 nightclub, driver flees
-
-
-## Pune Moshi collapse: Probe begins into deaths of 9 workers
-
-
-## India to hold 1-day mourning as Qatar’s former Emir Sheikh Hamad dies
-
-
-## After axing Brendon McCullum, England want RCB coach Andy Flower
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -258,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Who will replace Trump ally Lindsey Graham in the US Senate?
+The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina.
+
+## Concern for renewed war in Iran as US attacks military, civilian targets
+US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.
+
+## Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha
+Sheikh Hamad bin ⁠Khalifa Al Thani, who ruled Qatar from 1995 to 2013, will be laid to rest at Lusail Cemetery in Doha.
+
+## UK Christians protest for Church of England to recognise genocide in Gaza
+UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II
+
+## Funeral prayers held for Qatar’s Father Emir Sheikh Hamad
+Funeral prayers have been held for the Father Emir, Sheikh Hamad bin Khalifa Al Thani, at Qatar’s national mosque.
+
 ## ‘Sheikh Hamad will be fondly remembered across the Gulf’
 ‘Sheikh Hamad will be fondly remembered across the Gulf’
 
@@ -266,21 +278,6 @@ Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US
 
 ## FIFA World Cup 2026: Day 31
 Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.
-
-## United States at 250: Seven tests of the American experiment
-Seven stories test America’s promises of freedom, opportunity and power as the United States marks its 250th year.
-
-## UK ambassador remembers former emir of Qatar as humble and humorous
-Former UK Ambassador to Qatar Sir Graham Boyce remembers the late Emir Sheikh Hamad Bin Khalifa Al Thani.
-
-## Syrian parliament convenes for first time following al-Assad’s overthrow
-President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.
-
-## Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign
-Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?
-
-## Israeli forces kill five Palestinians in latest attacks on Gaza
-Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
