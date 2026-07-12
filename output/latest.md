@@ -1,67 +1,61 @@
 # AION Intelligence
 
 ## US launches more strikes after Iran declares Strait of Hormuz closed
-IRGC hits commercial ship transiting through waterway, with Centcom saying a crew member was missing from vessel
+IRGC hits commercial ship transiting through waterway, with Centcom saying crew member was missing from vessel
 
-## UK police make new arrest in Ann Widdecombe murder case
-Detention of 28-year-old man came hours after the release of a different suspect in the death of former Conservative minister
+## UK launches national dementia registry to speed up search for treatments
+Platform aims to improve access to clinical trials and boost life sciences investment in the country
 
-## Donald Trump clears path for $4.5bn bridge between Canada and US
-President drops objection to much delayed project after claiming to have won ‘much better deal’
+## Stranded pollock prompt EU to delay fish import controls for US
+System introduced to crack down on illegal fishing has left cargoes stuck in docks for days
 
-## Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK
-Thailand-based crypto billionaire paused US lawsuit for nearly a year until January 2026
+## The ‘innovators and disrupters’ hired to bring AI to the UK public sector
+Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services
 
-## How AI rebrands fail to deliver a lasting share price boost
-Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found
+## Big Tech to face fines for consumer protection failures, says EU official
+Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards
 
-## Democrats’ strategic misfires laid bare by Platner’s implosion in Maine
-The party faces a void in its bid to reclaim the Senate after missing warning signs about a flawed candidate
+## The EU has ways out of its budget trap
+Side agreements and special purpose funds could bypass the usual trench warfare
 
-## Trump ups the pressure on US companies in drive to lower prices
-Critics fear shift to ‘hyper-populist playbook’ as inflation lingers
+## Airbnb lures fans from US hotels after World Cup marketing push
+Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
 
-## Marine Le Pen’s redemption story
-Suspense over the far-right leader’s fate plays into her party’s hands
+## US states push to repurpose abandoned oil wells
+Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
 
-## World Cup TV rights in the US: no longer a discount
-Also in today’s newsletter: F1 on horseback and Lawn Tennis Association set to move into VC investing
+## Quantum is exciting, but watch out for the Schrödinger’s cat bounce
+The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time away
 
-## Europe’s slow electrification is a ‘major mistake’, warns IEA chief
-Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis
+## Big private equity firms pull in more cash as winners take all
+Shrinking pool of recipients points to coming wave of so-called zombie firms
 
-## London rental affordability improves despite recent rise
-The salary needed to afford a rental home in the capital has fallen by 17% in the past year
+## AstraZeneca CEO: ‘Biology will catch up with me at some point’
+Long-serving pharma chief Pascal Soriot hopes research and risk-taking will secure growth in China and US
 
-## Lawn Tennis Association set to move into venture capital investing
-Governing body partners with Redrice Ventures to invest in sport start-ups as income from Wimbledon declines
+## China EVs average 1.8 years on road, less than cell phones
 
-## Inside the risky race through the Strait of Hormuz
-Vessels that dare to use route close to Oman’s coast face increased risk of Iranian missiles
 
-## England defeat Norway 2-1 as Jude Bellingham shines in World Cup quarterfinal
-England will face Argentina or Switzerland in the World Cup semifinals after ending Norway’s dream run and keeping Erling Haaland scoreless for the first time in the tournament
+## ONGC drills second geothermal well in Ladakh
+Fresh success at Puga Valley brings India closer to commissioning its first 1-MW pilot geothermal power plant.
 
-## Iran says Strait of Hormuz is closed after striking vessel using ‘unauthorised route’
-Trump’s warning of massive retaliation and fresh strikes in Iran heightened concerns over the Strait of Hormuz, a key global oil shipping route
+## US military says it has completed latest round of airstrikes targeting Iran
+The US military’s Central Command stated that targets included missile and drone sites, ammo dumps, communication equipment, and more
 
-## Trump suggests standing order to attack Iran if it assassinates him, but Vance would make the call
-Experts say any US retaliation after a president’s death would be decided by Vice President JD Vance, not triggered automatically
+## Delhi records low of 28.3 degrees celsius, partly cloudy sky forecast for day
+Relative humidity was recorded at 64 per cent at 8.30 am
 
-## Aditya Birla Group to invest additional ₹12,000 crore in Odisha alumina refinery expansion
-The expansion is expected to generate jobs, strengthen downstream industries and reinforce Odisha’s position as a leading aluminium and metallurgy hub.
+## Pune building collapse: Toll up at 9 as last body recovered
+The body of Waman Kasbe, the last missing person, was recovered from the rubble in the wee hours of Sunday, raising the death toll to nine, while 14 persons have been rescued
 
-## Legendary playback singer S Janaki, voice behind 48,000 songs, dies at 88
-Four-time National Award winner S Janaki, whose timeless voice captivated generations, will receive full state honours in Karnataka as tributes continue to pour in
+## US attacks Iran over ship being hit in Hormuz; Tehran lashes out at Gulf Arab states
+Container ship set ablaze in the Strait of Hormuz as Iran widens its response with missile and drone attacks across the Gulf.
 
-## Phu Quoc boat tragedy: 15 Indian tourists die after speedboat overturns in Vietnam
-The victims included 10 from Tamil Nadu, three from Andhra Pradesh and two from Kerala.
+## United Arab Emirates warns public of incoming missile and drone attack as explosions heard in Qatar
+Escalating tensions in the region prompt air raid sirens across the Gulf, as Iran retaliates following a US military strike, raising fears of broader conflict amidst ongoing hostilities
 
-## Vietnam boat tragedy: Kerala confirms death of Kottarakkara couple in Phu Quoc accident
-The victims were identified as A C Thomas (57) and his wife Loveni Thomas (56), both natives of Kottarakkara
-
-## Vietnam boat tragedy: Tamil Nadu leaders mourn victims, seek swift repatriation of bodies
-Leaders across Tamil Nadu’s political spectrum condoled the deaths in the Vietnam boat tragedy and urged swift repatriation of the victims’ bodies besides support for the affected families.
+## Setting the record straight on India’s fuel transition
+India’s energy security hinges on steady, evidence-led execution of a domestic strategy and on citizens
 
 ## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
 
@@ -87,53 +81,59 @@ NSE Indices has launched the Nifty500 Ahimsa Index, tracking companies aligned w
 ## $1bn SEZs in the works to boost seafood exports
 
 
-## Mamata Banerjee's loyalist Anubrata Mandal joins Ritabrata-led rebel faction, named Birbhum district president
-Speculation over Mandal's switch had been circulating for some time, but it was confirmed after Ritabrata Banerjee announced the new district leadership.
+## 15 Indians killed as tourist boat capsizes in Vietnam
+The vessel was carrying 32 Indian tourists and four crew when it overturned. All the dead were recovered; the injured were taken to hospitals.
 
-## Vietnam boat capsize: Two people from Andhra killed, 3 others hospitalised
-The accident claimed the lives of 15 Indian tourists, while 21 others were rescued.
+## The big-stakes fight to save pygmy hog, the world's tiniest wild pig
+The pygmy hog will be added to India's list of ‘critically endangered’ species under a centrally sponsored scheme, Integrated Development of Wildlife Habitats.
 
-## India, New Zealand elevate ties to strategic bond, target ₹35,000 crore trade by 2030
-Modi’s visit came less than three months after the signing of a free trade agreement with New Zealand, and the two sides set the goal of doubling annual trade.
+## BJP vs Omar Abdullah: ‘Proof’ demanded for ‘ ₹20-30 crore’ MLA poaching claim
+The J&K chief minister alleged that attempts were being made to engineer a split in the NC but claimed that none of his party's MLAs would "sell" themselves.
 
-## Nita Ambani tops Fortune India Most Powerful Women 2026 list
-Fortune India Most Powerful Women 2026 list recognised100 women whose leadership is shaping India's economic and business landscape
+## Pune: Moshi garbage depot toll rises to 9 as 83-hour rescue operation ends
+The deceased employee was identified as Waman Kasbe. His body was recovered around 1 am on Sunday and taken to Yashwantrao Chavan Memorial Hospital (YCMH) in Pimpri.
 
-## Odisha orders Crime Branch probe into textbook errors; FIR to be filed: Govt
-The decision to hand the case over to the Crime Branch followed Majhi’s remarks that a “conspiracy” could be behind the factual inaccuracies
+## 11-year-old boy killed in lion attack during Girnar pilgrimage in Gujarat
+An 11-year-old pilgrim died in a lion attack near the Girnar staircase in Gujarat, prompting authorities to close the route and capture three lions.
 
-## Omar Abdullah claims MLA was offered ₹20-30 crore, ministerial berth, J&K statehood to switch sides; BJP reacts
-Abdullah said the MLA rejected the offer given by the BJP official, who also happens to be a Supreme Court lawyer, and informed him about the approach.
+## Karnataka man kills 3 of his kin, dies by suicide
+A 34-year-old man allegedly hacked his mother, grandmother and uncle to death before dying by suicide early on Saturday in Bengaluru’s Kottigepalya, police said
 
-## Two held after mob torches 6 houses in Manipur; tensions escalate: Police
-A large group of people protesting against inter-district economic blockade from Kangpokpi district, a Kuki dominated district, set the houses ablaze
+## Defence minister inducts INS Mahendragiri into Navy fleet, highlights military tech push
+Union defence minister Rajnath on Saturday said that the Centre was investing heavily in advanced defence technology to improve the country’s security capabilities
 
-## Lava Mobiles employees among Vietnam boat tragedy victims, firm says 'saddened'
-A speedboat carrying 32 Indian tourists and four crew members overturned about 400 meters (1,310 feet) from Hon May Rut Ngoai Island in Vietnam.
+## POCSO accused out on bail kills six including his wife and sons
+A 35-year-old man accused in a Protection of Children from Sexual Offences (POCSO) Act case allegedly murdered six people, including his wife, two young sons, a 17-year-old girl who had filed a sexual harassment complaint against him, her mother and grandmother in Telangana’s Rangareddy district, po
 
-## Controversy over Jude Bellingham’s goal vs Norway after FIFA’s Sky Cam ‘assist’
-
-
-## Tavleen Singh writes: Delusions and distractions
+## Jamia allows final-year students to clear backlogs through compartment exams
 
 
-## Joe Sacco traces anatomy of Muzaffarnagar riots with care, without closure
+## UPSC Ethics Simplified | Why the world needs virtuous leaders more than ever: Aristotle’s timeless lesson
 
 
-## Can you pass these 3 movement tests before turning 40?
+## Sunita Ahuja exits Lock Upp 2 on health grounds; opens up about her film debut
 
 
-## US-Iran War Live Updates: US launches new Iran strikes after IRGC declares Strait of Hormuz ‘closed’
+## India captain Shreyas Iyer lists out reasons for England series loss
 
 
-## Trade Minister to lead business delegation in October: ‘Canada CEPA intends to provide preferential market access in India’
+## Science is a public good, not an abstract pursuit: Soumya Swaminathan at IISc convocation
 
 
-## The greatest misunderstanding about love
+## Making of ‘Spider’: In Messi’s shadow, how Alvarez became Argentina’s hero
 
 
-## ‘Don’t want another Nandigram, Singur’: Suvendu Adhikari announces direct land purchase policy in Bengal
+## Highest paid tennis players in the world 2026: Alcaraz leads, Coco Gauff at No.3
 
+
+## Inside Khabar Lahariya: the fearless women reporters rewriting rural journalism in India
+
+
+## Tech stocks capture China’s elderly retail investors amid faith in nation’s tech sector
+Technology stocks have become the new darlings of China’s retail investors who are betting their savings on chipmakers and artificial intelligence (AI) developers amid belief in the country’s technology ascendancy. “Foam is the best bit of a beer,” Fang Yan’an, a veteran investor in his late 70s, to
+
+## EU isn’t just selling aircraft to China. It’s helping strengthen a competitor
+Last month, China Eastern ordered 25 A330neo jets from Airbus, which come at a catalogue price of US$9.35 billion. The airline, which operates the inaugural commercial routes of the C919, China’s home-grown passenger jet, had placed another Airbus order just three months earlier. Why is this major C
 
 ## China’s developers eagerly line up to offer commercial-property Reits amid recovery signs
 China’s first four exchange-traded real estate investment trusts (Reits) backed by commercial properties have opened the floodgates for fundraising by office developers, shopping centre builders and hotel owners amid investors’ heightened hopes for a market recovery. According to data provider Wind 
@@ -152,12 +152,6 @@ President Xi Jinping gave investors a surprise in 2018 when he floated the idea 
 
 ## Shein receives approval for Hong Kong IPO from Chinese regulators
 Online retail giant Shein Global Holdings has secured approval from the China Securities Regulatory Commission (CSRC) to seek an initial public offering in Hong Kong, a long-awaited step for the firm after its attempts to list in New York or London stalled. The firm plans to issue up to 341.6 millio
-
-## Top Chinese political journal calls for ‘patient capital’ amid AI investment frenzy
-The top theoretical journal of China’s ruling Communist Party has run commentaries urging the country to cultivate “patient capital” for three days straight, as Beijing seeks to harness investment to boost long-term innovation amid fears of speculative excess in the artificial intelligence sector. T
-
-## Hong Kong keeps tight grip on housing land supply despite property rebound
-Hong Kong’s government will release just one residential site for sale in the July to September quarter, maintaining a cautious approach even as the housing market rebounds, while officials argue that supply from other channels will keep the city on track to meet its housing targets. A 5,170-square-
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Injured Conor McGregor’s UFC comeback ends in defeat to Max Holloway
+Facing Holloway at UFC 329, McGregor seemed to injure his right knee in the first round when jumping in with a kick.
+
+## Argentina beat Switzerland to set up World Cup 2026 semifinal with England
+Argentina need extra time to beat Switzerland 3-1 in the quarterfinals to set up a showdown with England on Wednesday.
+
+## England fans revel in World Cup win over Norway
+Fans celebrated at a London watch party after England's 2-1 extra-time win over Norway in the World Cup quarter-finals.
+
+## Nigeria rescues dozens of abducted school children in Oyo state
+Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.
+
 ## Mediators push US-Iran talks in Qatar and Oman to avert escalation
 Regional mediators are stepping up efforts to prevent further escalation between Iran and the US.
 
 ## Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis
 Jude Bellingham scores in extra-time to send England into the World Cup semifinals for first time since 2018.
 
-## Iran war live: IRGC declares Strait of Hormuz closed over US interference
-Move comes as Israel continues attacks on Gaza and Lebanon, killing and wounding several civilians.
+## Iran war live: Tehran attacks Jordan, Gulf states after US bombardment
+Iran targets Jordan and Gulf states after US bombs Iranian cities including Bandar Abbas, Sirik and Chabahar
 
 ## Indian tourists killed after speedboat capsizes in Vietnam
 Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.
-
-## Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump
-Democratic Senator Sheldon Whitehouse details rusting columns, uneven paint and unnecessary demolition under Trump.
-
-## FIFA to sell pieces of World Cup final stadium pitch, could earn millions
-Pieces from the turf used at the stadium will go on sale as memorabilia and will be priced from $450 to $1,200.
-
-## US judge dismisses January 6 case against Proud Boys after Trump order
-The case is the latest instance of the Trump administration seeking to unravel prosecutions against January 6 rioters.
-
-## Argentina vs Switzerland LIVE: FIFA World Cup 2026
-Live coverage and updates from our text commentary stream as Messi's Argentina face Switzerland in the quarterfinals.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
