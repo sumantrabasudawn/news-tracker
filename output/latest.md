@@ -111,6 +111,15 @@ The declaration was added in the Bihar SIR rolled out in June last year. New vot
 ## ‘Taken to babas, forced to drink cow urine’: Ex-Sena UBT MP's daughter-in-law alleges black magic, torture
 In her complaint, Girija complained that several people, including two self-proclaimed godmen, had performed various indecent acts on her.
 
+## Israel to hold elections on October 27: What it means for Netanyahu
+
+
+## Jannik Sinner defeats Alexander Zverev to win back to back Wimbledon titles
+
+
+## Why Vijay Sethupathi refused to romance Krithi Shetty on-screen; expert on workplace boundaries
+
+
 ## IND vs ENG: Yastika Bhatia’s century takes India closer to Lord’s win
 
 
@@ -124,15 +133,6 @@ In her complaint, Girija complained that several people, including two self-proc
 
 
 ## From Ladakh to Tibet: 7 monasteries perched among the peaks
-
-
-## ‘Blood money’ to 500% tariffs: How India found itself in Lindsey Graham’s crosshairs
-
-
-## Assam activist protesting Kaziranga luxury hotels project detained, Opposition slams ‘bid to silence’
-
-
-## 6-year-old girl on way to school dies in road mishap, PMPML bus driver booked
 
 
 ## Five Guys to open in Beijing as more US chains hunger for success in China
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## England vs Argentina: Greatest moments before FIFA World Cup semifinal
+England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.
+
+## Why the Iran-US ceasefire is falling apart
+Iran, US resumed fighting because they don’t see each other as ‘reliable negotiating partners’, says analyst Ali Vaez.
+
+## Anti-migrant display set alight in Northern Ireland bonfire
+The flags of Palestine, Syria, Sudan and Somalia were draped over a huge bonfire tower before it was set alight.
+
+## Friends turned foes: The split reshaping Senegal
+Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.
+
+## Some 30 Malian soldiers killed during Anefis retaking, says army chief
+General Jean Elysee Dao says 60 others also wounded as army retakes key town after nearly a week of fighting.
+
+## Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad
+Thousands gathered in Doha to bid farewell to Qatar's Father Emir, Sheikh Hamad bin Khalifa Al Thani.
+
 ## Who will replace Trump ally Lindsey Graham in the US Senate?
 The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina.
 
 ## Concern for renewed war in Iran as US attacks military, civilian targets
 US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.
-
-## Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha
-Sheikh Hamad bin ⁠Khalifa Al Thani, who ruled Qatar from 1995 to 2013, will be laid to rest at Lusail Cemetery in Doha.
-
-## UK Christians protest for Church of England to recognise genocide in Gaza
-UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II
-
-## Funeral prayers held for Qatar’s Father Emir Sheikh Hamad
-Funeral prayers have been held for the Father Emir, Sheikh Hamad bin Khalifa Al Thani, at Qatar’s national mosque.
-
-## ‘Sheikh Hamad will be fondly remembered across the Gulf’
-‘Sheikh Hamad will be fondly remembered across the Gulf’
-
-## Iran war: US strategic success or diplomatic failure?
-Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.
-
-## FIFA World Cup 2026: Day 31
-Al Jazeera’s Basel Ghazoghli has your #FIFAworldcup26 day 31 recap, as England and Argentina reach the semi-finals.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
