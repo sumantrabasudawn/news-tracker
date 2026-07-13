@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## US launches strikes after Trump warns Washington will hit Iran ‘hard’
-Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare
+## US launches air strikes as Iran targets tankers with cruise missiles
+Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights
+
+## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
+Ruling casts doubt on whether president and his family can benefit from immunity deal
 
 ## Andy Burnham tells Labour MPs he will rein in Britain’s outsourcing industry
 PM-in-waiting tells hustings he will appoint a ‘broad church’ ministerial team and bring government contracts in-house
@@ -111,6 +114,9 @@ While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Z
 ## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
 The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
+## 300 km around Delhi: The biggest coal polluters have one thing in common
+
+
 ## ‘20% is too much, we’ll be fair’: Iran mocks Trump over Hormuz cargo fees
 
 
@@ -130,9 +136,6 @@ The injured personnel have been admitted to the Christian Institute of Health Sc
 
 
 ## Video: Saudi Arabia strikes Yemen airport to block Iranian flight, Houthis vow revenge
-
-
-## College student says five assaulted, attempted to run him over at Chandigarh nightclub
 
 
 ## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
@@ -255,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate
+South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027.
+
+## Nine deaths tied to Trump’s immigration enforcement operations in US
+Fatal shooting in Biddeford, Maine, is latest in at least nine deaths linked to US president's immigration crackdown.
+
 ## Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit
 A crowd of more than 100,000, an open-top bus parade and a royal reception welcomed back the Norwegian World Cup squad.
 
@@ -262,7 +271,7 @@ A crowd of more than 100,000, an open-top bus parade and a royal reception welco
 The country's football players' union confirmed Adams's death on Saturday, but the cause has not been revealed.
 
 ## US, Iran exchange attacks around Strait of Hormuz
-This is a breaking news story.
+Washington and Tehran both claim to be in control of the strategic waterway as fighting escalates.
 
 ## Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter
 Late US senator backed invasion of Iraq, war on Iran and approach of 'more for Israel' as he became a Trump confidant.
@@ -272,12 +281,6 @@ Apple files a lawsuit against OpenAI, accusing it of stealing trade secrets.
 
 ## Andy Burnham in line to become British PM after securing party support
 Burnham's bid cannot be challenged by fellow MPs, as he now has the support of almost the entire parliamentary party.
-
-## Argentina vs England World Cup tickets more expensive than France vs Spain
-Prices for the Argentina vs England semifinal have seen a 34 percent increase over the past three days.
-
-## US strikes Iranian ship with drone boats in first-of-its-kind attack
-US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
