@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Stocks and bonds drop as mounting US-Iran tensions spook investors
+Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
+
+## Trump says US will hit Iran ‘hard’ this week
+Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare
+
+## US appeals court revives lawsuits linking painkiller Tylenol to autism
+Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
+
 ## Oil surges past $80 on Trump threat to impose 20% Hormuz fee
 President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels
 
@@ -12,14 +21,8 @@ Four-year truce under threat as pro-Iran militants respond to strike on Sana’a
 ## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
 Ruling casts doubt on whether president and his family can benefit from immunity deal
 
-## US appeals court revives lawsuits linking painkiller Tylenol to autism
-Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
-
 ## Shell sells Indian wind and solar business for $1.8bn
 Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
-
-## What will Burnham do on immigration?
-Likely next prime minister is looking to satisfy calls for tougher borders while appealing to Labour’s liberal supporters
 
 ## Democratic states sue to block Paramount’s $110bn WBD acquisition
 Lawsuit could delay deal and cost studio tens of millions of dollars
@@ -105,6 +108,12 @@ While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Z
 ## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
 The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
+## ‘20% is too much, we’ll be fair’: Iran mocks Trump over Hormuz cargo fees
+
+
+## UK warns Pakistan of visa restrictions if it refuses Rochdale gang leader Shabir Ahmed’s return
+
+
 ## ‘Was helping citizens, had no grudge against doctor’: Shiv Sena corporator seeks bail
 
 
@@ -121,12 +130,6 @@ The injured personnel have been admitted to the Christian Institute of Health Sc
 
 
 ## College student says five assaulted, attempted to run him over at Chandigarh nightclub
-
-
-## ‘Targeted for being Hindu’: Intelligence Bureau staffer’s family after Delhi riots verdict
-
-
-## Moshi collapse: Antony Waste Group announces Rs 25 lakh aid for each victim’s family
 
 
 ## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
@@ -153,6 +156,9 @@ Chinese-American billionaire investor Duan Yongping has increased his holdings i
 ## Why Forthright Securities is Anchoring Its Next-Gen AI Hub in the Heart of Hong Kong
 [The content of this article has been produced by our advertising partner.] As Hong Kong’s financial landscape matures and the line between virtual platforms and traditional wealth management blurs, digital-native brokerages opening physical branches has, almost paradoxically, become a mainstream st
 
+## Russian Energy Is Now at Ukraine’s Mercy
+Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.
+
 ## Stop Overreacting to China’s Missile Test
 It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.
 
@@ -173,9 +179,6 @@ Regional powers push Washington and Tehran to pause strikes to allow for negotia
 
 ## Evacuating Art From Ukraine’s Front Lines
 The Lithuanian curators working to protect paintings from Putin.
-
-## The CIA’s First Failed Coup
-Kim Philby, parachute drops, and what really happened in communist Albania.
 
 ## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
 The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## UK arrests 12 over extreme right-wing ‘terror’ threat to Muslim event
-Arrests come against a backdrop of rising racial tensions and hate crimes across Britain.
+## Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter
+Late US senator supported invasion of Iraq, war on Iran and approach of 'more for Israel' and became a top Trump ally.
 
-## Spanish PM visits site of deadly wildfire
-Spain’s Prime Minister, Pedro Sanchez met with firefighters and emergency crews who battled a wildfire in Almeria.
+## How is the US tech industry regulated?
+Apple files a lawsuit against OpenAI, accusing it of stealing trade secrets.
 
-## US judge voids Trump’s IRS settlement, alleges self-dealing
-Judge rules that US president, Department of Justice misused courts in settlement that led to 'anti-weaponization' fund.
+## Andy Burnham in line to become British PM after securing party support
+Burnham's bid cannot be challenged by fellow MPs, as he now has the support of almost the entire parliamentary party.
 
-## UK designates IRGC as terrorist organisation
-The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.
+## Argentina vs England World Cup tickets more expensive than France vs Spain
+Prices for the Argentina vs England semifinal have seen a 34 percent increase over the past three days.
 
-## Locked exits, burning decor: inside Bangkok’s deadly pub fire
-Survivors recount the horror after a deadly blaze engulfed a popular pub on a busy street in Bangkok.
+## US strikes Iranian ship with drone boats in first-of-its-kind attack
+US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility
 
-## FIFA World Cup: Five biggest controversies of the 2026 tournament
-Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.
+## Ukraine and allies launch coalition to tackle Russia’s ballistic missiles
+Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.
 
-## Trump administration vows to ‘disable’ International Criminal Court
-US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.
+## Iran military warns US against Strait of Hormuz ‘interference’
+Iran's military has warned it will not allow the United States to ‘interfere’ in the management of the Strait of Hormuz.
 
-## UK to list Iran’s IRGC as ‘terror’ threat
-London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.
+## Artist sews names of Gaza children killed by Israel into gown
+Welsh artist Diana Williams stitched the names of 300 babies killed by Israel’s genocidal war on Gaza into a gown.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
