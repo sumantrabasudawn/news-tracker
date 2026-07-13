@@ -1,31 +1,34 @@
 # AION Intelligence
 
-## Intel to invest €5bn in Irish plant as AI chip demand surges
-Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing
+## US quantum computing needs a national buyer
+Washington’s demand signal could do for the technology what early defence contracts did for silicon
 
-## UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
-Iranian group ‘almost certainly directed’ antisemitic attacks in UK earlier this year, says minister
+## US to resume Strait of Hormuz blockade and charge fees on ships, Trump says
+President claims Washington will be ‘guardian’ of waterway and seek 20 per cent reimbursement for goods shipped
 
-## Counter-terror police take over Widdecombe murder probe
-Former Conservative minister was found dead at her home in Devon on Thursday
+## Twelve arrests over alleged far-right threat to Muslim event in Suffolk
+Organisers of religious festival ended event early after police warning about threat of ‘disorder’
 
-## Global tech stocks fall as Asian memory chipmakers hammered
-Oil jumps as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
+## Wall Street tech stocks fall after Asian chipmakers hammered
+Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
 
-## China-proofing European cleantech is a tricky business
-Crude tariffs won’t be enough to promote EU renewable energy
+## UK and Switzerland to loosen visa restrictions as part of services trade deal
+Agreement will also enable British travellers to use automated passport gates at Swiss airports
 
-## Trump’s plan for Europe is falling apart
-The US president has a genius for alienating existing and potential allies
+## Dubai plans new port to bypass Strait of Hormuz
+Project to build capacity on UAE’s east coast represents a major shift after US-Iran war
 
-## US launches more strikes on Iran as ceasefire teeters
-Fighting escalates as Trump insists Strait of Hormuz remains open while Tehran says it is closed
-
-## Ukraine’s drone swarms test Moscow air defences
-Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis
+## Counterterror police take over Widdecombe murder probe
+Police say ‘new information and evidence’ have come to light over killing of former Conservative minister
 
 ## De Beers halts output at South African diamond mine as weak prices weigh on sale
-Anglo American looking to sell diamond business as competition from lab-grown stones intensifies
+Anglo American looks to sell diamond business as competition from lab-grown stones intensifies
+
+## Volkswagen chief confirms plan to cut 50,000 more jobs
+Carmaker’s supervisory board failed to agree on proposed staff reduction proposals but talks set to continue
+
+## Intel to invest €5bn in Irish plant as AI chip demand surges
+Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing
 
 ## Legal sector regulator in England and Wales has ‘lost its way’, review finds
 Report into Legal Services Board follows a number of high-profile law firm collapses in recent years
@@ -33,44 +36,41 @@ Report into Legal Services Board follows a number of high-profile law firm colla
 ## When the ducks are quacking, feed them
 Memory mania redux
 
-## EU moves towards social media ban for children under 13
+## EU moves towards social media ban for children
 Brussels will propose gradual access for different ages in response to concerns over child safety online
 
 ## FirstFT: Stocks tumble on Iran and AI fears
 Also in today’s newsletter: Western companies turn to Chinese AI models and the ruthless remake of Citigroup
 
-## Moneybox picks London’s Pisces market for employee share sale
-£45mn offering gives further boost to private markets platform after Wayve became first big company to use it
+## Rupee closes at a four-week low
+The Indian currency closed at 95.62 per US dollar against the previous close of 95.33.
 
-## A global supermarket chain remains retail’s great white whale
-Tesco’s retreat is sensible
+## Letters to Editor
 
-## Nippon Paint offers €7.5bn for Akzo unit in attempt to gatecrash rival deal
-Japanese group makes bid for decorative coatings business that includes Dulux brand
 
-## Laser Power and Infra IPO fetches 38.94 times subscription on final day
-Strong QIB demand at 92.25 times drives overall subscription amid anchor investment of ₹223 crore
+## Hydrogen-powered trucks, buses get 7-year permit exemption given to EVs, ethanol-powered vehicles
+Tata Motors, Ashok Leyland and VE Commercial Vehicles could benefit from the Ministry decision
 
-## Airties acquires Aprecomm to widen reach, provide better service
-The combined company now has an unmatched foundation to further accelerate expansion across Asia-Pacific and into South America, says Airties CEO
+## CERC offers one-time relief to RE developers for unlocking stranded transmission capacity
+The regulator has relaxed some provisions of the GNA Regulations providing developers with a 60-day window to choose one of the four options.
 
-## Private radio’s fight to get its voice heard
-From live IPs to digital content and tier-3 reach, FM channels are tuning into multi-platform audience preferences
+## Pocket
 
-## 30 tonnes of pineapples sold at Meghalaya Festival in Delhi
-The volume sold was almost double than the 15.5 tonnes sold last year at the festival
 
-## Markets stage comeback amid global sell-off, IT earnings boost
-Nifty 50 closed at 24,211.65, up just 4.75 points or 0.02%, while the BSE Sensex ended at 77,616.40, gaining 47 points or 0.06%
+## Dhruva Space bags maiden funding from Antariksh Venture Capital Fund
+Dhruva gets ₹60 cr funding from spacetech fund
 
-## Cochin Shipyard bids for Bharat Container Shipping Line orders; eyes surge in domestic shipbuilding
-Jose V.J., Director (Finance) of CSL, told that the consortium was formed to reduce India’s dependence on foreign shipping lines and cut freight outgo
+## Biocon to see block deals, as Viatris plans to exit
+Floor price has been fixed as ₹378.50 a share, a discount of 7.9 per cent to current price
 
-## Sensex today | Stock Market Highlights: Stock markets end flat as West Asia tensions, higher oil prices weigh on sentiment
-Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended flat on Monday as a sharp rally in crude oil prices due to escalating tensions in West Asia weighed on overall investor sentiment.
+## LTM enters FY27 with positive momentum as AI spending gathers pace: Venu Lambu
 
-## Honda eyes sub-4 metre SUV, EV push to drive growth
-Behl said Honda is also accelerating its electrification roadmap with plans to launch its first India-developed Battery Electric Vehicle SUV
+
+## Donald Trump announces 20% toll on ships in Strait of Hormuz; to ‘reinstate’ Iran blockade
+Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supplies moved through the strategic waterwa
+
+## ‘To be signed at right time’: India-US trade deal framework ‘ready’, says official
+India-US trade deal: India is seeking a tariff structure under the proposed agreement that provides it with a comparative advantage over competing countries.
 
 ## Retail inflation jumps to 4.38% in June, driven by food, jewellery prices; breaches RBI's 4% target
 India's retail inflation increased to 4.38 percent in June from May's 3.93 percent. Higher food prices significantly pushed up the overall Consumer Price Index for the month. Ginger and tomatoes saw substantial year-on-year price increases, contributing to the overall rise. However, some items like 
@@ -90,58 +90,52 @@ India's merchandise imports surged thirty-one percent year-on-year in June. Expo
 ## Supreme Court: Bank merger without landlord's consent can attract eviction under Delhi Rent Control Act
 The Supreme Court has ruled that a bank cannot resist eviction under the Delhi Rent Control Act merely because it came into possession of leased premises through a statutory amalgamation.
 
-## Spain's Submer to invest $2 billion in Madhya Pradesh semiconductor sector, may create 5,000 jobs
-Spain's Submer Group will invest two billion dollars in Madhya Pradesh's semiconductor sector. This significant investment is expected to generate approximately five thousand direct employment opportunities. The company plans to establish a manufacturing facility for advanced liquid cooling solution
+## ‘Customised Article 371 framework’: Ladakh to get UT-level body, hill councils for all seven districts
+While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Zanskar, and Drass – were notified in April this year.
 
-## Nifty Realty Index: How NSE measures performance of real estate sector
-The Nifty Realty Index tracks India's listed real estate companies' performance. It comprises ten firms selected by free-float market capitalization and rebalanced semi-annually. DLF, Phoenix Mills, and Lodha Developers hold the largest weights within the index. Companies must meet specific criteria
+## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
+The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
-## Ram Temple Trust seeks first CEO on 3-year contract; age limit 50-70
-The CEO would be responsible for the overall administration, management and day-to-day functioning of the Ram Mandir complex
+## ‘My intention was never…’: Top vlogger Sourav Joshi's U-turn on E20 after Mercedes clarification
+Sourav Joshi's statement comes after Mercedes-Benz India issued an advisory stating that all its BS VI petrol vehicles are fully compatible with E20 petrol.
 
-## Bihar: Prashant Kishor, BJP's Neeraj Sinha file nomination papers for Bankipur bypoll
-Kishor, who seeks to wrest the BJP bastion vacated by its national president Nitin Nabin a couple of months ago, was accompanied by his wife.
+## ‘I will kill again’: Kerala man in court after being convicted in double murder
+The remarks were made by Chenthamara (58) in the Additional District and Sessions Court in Kerala’s Palakkad district
 
-## Satluj row: Khalra's wife Paramjit Kaur urges Akal Takht to form 'People's Commission'
-Kaur's remarks followed renewed public attention on the Khalra case after the release, and takedown, of the Diljit Dosanjh-starrer film 'Satluj' from Zee5.
+## US national held at Nepal border, ‘had entered India via sea route without valid documents’
+Upon questioning, it was revealed that the American national, identified as Jordan Brown, had entered India in 2025, police said.
 
-## ‘Lives at stake’: CJP's Dipke flags concern as Sonam Wangchuk's hunger strike enters Day 16
-Wangchuk has lost 8.2 kg since his indefinite hunger strike at the Jantar Mantar began.
+## Assam man, 20, arrested for raping 14-yr-old girl, sharing video on social media
+Police said the statements of both the accused and the victim, along with their family members, have been recorded
 
-## ‘Completely false’: Piyush Goyal slams report that says ‘India rejected quick trade deal with US’
-“This news is completely false, baseless and misleading. I had fantastic meetings with USTR Jamieson Greer,” Goyal said in a post on X.
+## 6 killed as private and TN govt buses collide near Madurai: Police
+According to the police, seven passengers sustained serious injuries while 15 people suffered light injuries are under treatment
 
-## Denied ticket, BJP's Narottam Mishra in tears at candidate rally in Datia, days after supporters turned violent: Watch
-Narottam Mishra's supporters had blocked National Highway-44 on Friday after the BJP announced Ashutosh Tiwari as its candidate for the Datia Assembly bypoll.
+## West Bengal to give ₹5 lakh to each 60 rath yatra committee: CM Adhikari
+Adhikari also announced that helicopters will shower flower petals on devotees undertaking the 30-km long Shravan yatra
 
-## Keeping up with UP: Will Bharat Ratna to Kanshi Ram tilt 2027 poll scales
-Kanshi Ram is remembered more for empowering Dalits than for his aggressive language against powerful leaders of all parties
-
-## Omar fires satire at BJP after ‘backdoor’ charge: ₹100-crore ‘love letter’ and a jibe featuring Donald Trump
-In the fake post, Donald Trump is shown to have given Abdullah a “shoutout” for his campaign for the restoration of statehood for Jammu and Kashmir.
-
-## Delhi UPSC teacher ‘helped’ Lawrence Bishnoi gang threaten businessman, arrested
+## Amitabh Bachchan says FIFA World Cup has disrupted his routine: ‘Time has gone awry’
 
 
-## Anna Konidela shares emotional post as Pawan Kalyan recovers from shoulder surgery
+## ‘Gold-plated’ lies: How Karnataka gang cheated banks of Rs 27 lakh for over a year
 
 
-## India crush England by 270 runs to win historic first women’s test at Lord’s
+## Nagpur Ram Mandir trust’s ‘no protest’ diktat ahead of Uddhav’s ‘Andolan’
 
 
-## Expert Explains: Why Indo-Pacific powers, including India, should worry about China’s new ballistic missile test
+## Don’t Trouble the Trouble teaser: Fahadh Faasil unleashes accidental supernatural powers
 
 
-## Ash Gardner’s estranged wife accuses her of having affair with teammate
+## Pilot flying into Surat reports laser flash in cockpit, second such incident in 15 days
 
 
-## Delayed flats, unpaid compensation: Supreme Court freezes Parsvnath accounts
+## Bodies of 9 fishermen recovered from sunken trawler in Bay of Bengal
 
 
-## Supreme Court orders SIT probe into death of former Madhya Pradesh Congress MLA’s driver
+## Didn’t get results we wanted: McCullum after stepping down as England Test coach
 
 
-## Policyholder dies by suicide, insurer rejects full claim of father, who wins Rs 11.76 lakh
+## Incentives, waivers part of Delhi’s plan to phase out old trucks and buses, curb pollution
 
 
 ## Futu expects mainland brokerage business to shrink but vows to keep Hong Kong outlets
@@ -264,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## South Korea rolls out plan to tackle youth suicide crisis
-South Korea rolls out plan to tackle youth suicide crisis
+## FIFA World Cup: Key players to watch as France play Spain in semifinal
+Spain-France clash is filled with superstars like Kylian Mbappe, Ousmane Dembele and Lamine Yamal, among others.
 
-## Al Jazeera bids farewell to founder Sheikh Hamad
-Al Jazeera bids farewell to founder Sheikh Hamad
+## Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls
+Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.
 
-## Yemen government says its forces attacked Sanaa airport
-Gov't says its forces carried out a strike at Sanaa airport to prevent an Iranian aircraft from landing there.
+## What is the EU’s plan to cut trade with illegal Israeli settlements?
+Foreign ministers' meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.
 
-## Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says
-FIFA president says during the first World Cup to feature 48 teams that it's under consideration.
+## How Sheikh Hamad revolutionised Arab media through Al Jazeera
+The late Father Emir broke the regional monopoly of state-controlled broadcasting and challenged Western media hegemony.
 
-## EU countries consider sanctions on trade from illegal Israeli settlements
-Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.
+## Yemeni government forces strike Sanaa airport
+Yemeni government forces strike Sanaa airport
 
-## France vs Spain: World Cup semifinal – Mbappe, Yamal, predictions, kickoff
-Kylian Mbappe's France continue their quest for the world title, facing Lamine Yamal's Spain in a blockbuster semifinal.
+## EU sanctions nine people over alleged Russian cyber-spying campaign
+EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.
 
-## Wildfires near Paris force evacuations, disrupt train lines and motorway
-Wildfires spread over 800 hectares near Fontainebleau, as authorities sent two ​waterbombing planes to tackle blazes.
+## Hamas denies UN accusations over Gaza aid distribution interference
+UN accuses Hamas of obstructing aid and risking workers' safety, but the group denies it and defends its actions.
 
-## ‘It’s expensive’: Syria’s electricity has improved, but challenges remain
-Damascus residents say state-supplied power has noticeably improved recently but complain about the cost of energy.
+## FIFA World Cup England vs Argentina: What to know ahead of second semifinal
+Argentina and England meet at the World Cup for the sixth time, facing off in Wednesday's semifinal in Atlanta.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
@@ -312,6 +306,9 @@ In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusse
 ## NFRA raises bar for audit sign-offs, says uncorrected errors can distort financial statements
 Chairperson Nitin Gupta asks auditors to evaluate cumulative and qualitative impact of misstatements, strengthen communication with audit committees and boards before issuing audit opinions.
 
+## SEBI introduces stricter service rules, investment norms for employees
+The Securities and Exchange Board of India (SEBI) has tightened its employee conduct framework by notifying sweeping changes to its service regulations, introducing stricter conflict-of-interest safeguards, tighter investment restrictions and enhanced disclosure requirements.
+
 ## RBI steps up scrutiny of Corporate India's foreign investments
 Indian banks are now mandated to disclose their anti-money laundering measures concerning international business partners. Corporations with overseas investments will relay this information to the Reserve Bank of India.
 
@@ -329,7 +326,4 @@ Wholesale price inflation also remained elevated despite easing slightly from th
 
 ## Govt plans fresh policy interventions to strengthen MSME manufacturing ecosystem
 The ministry has launched a nationwide consultation exercise to strengthen the MSME ecosystem and their manufacturing base; it has received more than 2,000 suggestions so far, says Mercy Epao, Joint Secretary, MSME ministry.
-
-## RBI backs crypto ban, tax department warns of evasion risks, documents show
-India's central bank has reiterated its preference for a cryptocurrency policy "leaning towards prohibition," warning that crypto assets and stablecoins could threaten financial stability and monetary sovereignty, according to internal government documents reviewed by Reuters.
 
