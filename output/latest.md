@@ -1,73 +1,79 @@
 # AION Intelligence
 
+## Yemen’s Houthis accuse Saudi Arabia of attacking international airport
+Militant group threatens retaliation for assault apparently aiming to prevent Iranian aircraft from landing
+
+## Top Fed official warns ‘hot’ inflation could trigger rate rise
+Christopher Waller says a further elevated reading may prompt central bank to tighten policy
+
+## Fees for seas: a history of taxing waterways
+From Ottoman sultans to Danish kings, Iran’s toll system for Strait of Hormuz revives an old maritime fight
+
+## El Salvador’s Bukele set to run for third term
+Authoritarian leader wins party primary unopposed
+
+## The deceptive promises of America’s democratic socialists
+The way forward for the party is not to swing to the left
+
+## Why Mastercard is playing the polite guest in the UK
+The card giant is considering making a strategic exit — by selling a majority stake in payments subsidiary Vocalink
+
+## Burnham will struggle to exorcise Labour’s historic weakness
+History shows us that the party will default to over-optimism and spending money that isn’t there
+
+## Hungary’s MPs oust president in purge of Orbán loyalists
+Prime Minister Péter Magyar calls Tamás Sulyok a ‘puppet’ of illiberal former leader in speech to parliament before vote
+
+## Shell sells Indian wind and solar business for $1.8bn
+Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
+
+## Democratic states sue to block Paramount’s $110bn WBD acquisition
+Lawsuit could delay deal and cost studio tens of millions of dollars
+
+## US appeals court revives lawsuits linking painkiller Tylenol to autism
+Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
+
 ## US quantum computing needs a national buyer
 Washington’s demand signal could do for the technology what early defence contracts did for silicon
-
-## US to resume Strait of Hormuz blockade and charge fees on ships, Trump says
-President claims Washington will be ‘guardian’ of waterway and seek 20 per cent reimbursement for goods shipped
-
-## Twelve arrests over alleged far-right threat to Muslim event in Suffolk
-Organisers of religious festival ended event early after police warning about threat of ‘disorder’
-
-## Wall Street tech stocks fall after Asian chipmakers hammered
-Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
-
-## UK and Switzerland to loosen visa restrictions as part of services trade deal
-Agreement will also enable British travellers to use automated passport gates at Swiss airports
 
 ## Dubai plans new port to bypass Strait of Hormuz
 Project to build capacity on UAE’s east coast represents a major shift after US-Iran war
 
-## Counterterror police take over Widdecombe murder probe
-Police say ‘new information and evidence’ have come to light over killing of former Conservative minister
-
 ## De Beers halts output at South African diamond mine as weak prices weigh on sale
 Anglo American looks to sell diamond business as competition from lab-grown stones intensifies
 
-## Volkswagen chief confirms plan to cut 50,000 more jobs
-Carmaker’s supervisory board failed to agree on proposed staff reduction proposals but talks set to continue
+## Teacher deployment gaps persist as many schools report no students or just one teacher
+The UDISE+ data show that 5,663 schools across the listed States and Union Territories reported zero enrolment
 
-## Intel to invest €5bn in Irish plant as AI chip demand surges
-Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing
+## HCLTech to invest ₹3,500 crore on full-stack AI data centres in India
+Company’s Q1 FY27 net up 20% YoY to Rs.4,624 crore
 
-## Legal sector regulator in England and Wales has ‘lost its way’, review finds
-Report into Legal Services Board follows a number of high-profile law firm collapses in recent years
+## Aditya Birla Group acquires Sprng Energy in ₹17,200 crore deal
+The acquisition takes Aditya Birla Group’s renewable energy capacity to 9.3 GWp, positioning it as one India’s largest renewable energy players
 
-## When the ducks are quacking, feed them
-Memory mania redux
+## Markets stage comeback amid global sell-off, IT earnings boost
+Nifty 50 closed at 24,211.65, up just 4.75 points or 0.02%, while the BSE Sensex ended at 77,616.40, gaining 47 points or 0.06%
 
-## EU moves towards social media ban for children
-Brussels will propose gradual access for different ages in response to concerns over child safety online
+## One in four social media posts is AI-speak
+LinkedIn and Medium top the list as AI-generated posts proliferate, says Pangram report
 
-## FirstFT: Stocks tumble on Iran and AI fears
-Also in today’s newsletter: Western companies turn to Chinese AI models and the ruthless remake of Citigroup
+## India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent
+Investment in aAuto has shrunk to $1.46 billion from nearly $2.8 billion in the first half; Q2 as deal volumes tumbled by 43 per cent as investors concentrated on mobility platforms
 
-## Rupee closes at a four-week low
-The Indian currency closed at 95.62 per US dollar against the previous close of 95.33.
+## CPI climbs to 4.4% in June, but experts predict August policy status quo
+The jump is mainly due to rising food prices and precious metals
 
-## Letters to Editor
+## Goods exports rise 15.5% in June
+Import surge pushes trade deficit to five-month high
 
-
-## Hydrogen-powered trucks, buses get 7-year permit exemption given to EVs, ethanol-powered vehicles
-Tata Motors, Ashok Leyland and VE Commercial Vehicles could benefit from the Ministry decision
-
-## CERC offers one-time relief to RE developers for unlocking stranded transmission capacity
-The regulator has relaxed some provisions of the GNA Regulations providing developers with a 60-day window to choose one of the four options.
-
-## Pocket
-
-
-## Dhruva Space bags maiden funding from Antariksh Venture Capital Fund
-Dhruva gets ₹60 cr funding from spacetech fund
-
-## Biocon to see block deals, as Viatris plans to exit
-Floor price has been fixed as ₹378.50 a share, a discount of 7.9 per cent to current price
-
-## LTM enters FY27 with positive momentum as AI spending gathers pace: Venu Lambu
-
+## Renewable energy boost: Aditya Birla Group to buy Shell-backed Sprng Energy; deal worth $1.8 billion
+The acquisition will bring nearly 5 gigawatt-peak (GWp) of contracted renewable energy capacity into ABRen's portfolio, comprising around 3.3 GWp of operational projects and another 1.7 GWp currently under construction. Following the transaction, ABRen's total portfolio will expand to about 9.3 GWp.
 
 ## Donald Trump announces 20% toll on ships in Strait of Hormuz; to ‘reinstate’ Iran blockade
 Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supplies moved through the strategic waterwa
+
+## Why Dubai's housing market slowed in 2026; sales fell 16%, prices dipped by 7%
+Dubai's residential property sales saw a sixteen percent decrease in early 2026. This slowdown occurred as regional geopolitical tensions impacted buyer sentiment and demand. Despite this, sales remained fifteen percent higher than in the first half of 2024. Residential property prices saw a slight 
 
 ## ‘To be signed at right time’: India-US trade deal framework ‘ready’, says official
 India-US trade deal: India is seeking a tariff structure under the proposed agreement that provides it with a comparative advantage over competing countries.
@@ -84,11 +90,20 @@ India's merchandise imports surged thirty-one percent year-on-year in June. Expo
 ## 'Completely false and misleading': Piyush Goyal rebuts report of India holding up US trade pact
 
 
-## 'Unpredictable fluctuations' in airfares: SC asks Centre to place rules before it within 2 weeks
+## Over 1,600 illegal Bangladeshis repatriated from Assam in 2 years: Himanta Biswa Sarma
+Sarma said a total of 1,679 illegal immigrants have been repatriated (deported/sent back/expelled) from Assam to Bangladesh in the last two years
 
+## Kin of IB officer killed in 2020 Delhi riots want ex-AAP leader Tahir Hussain, other convicts hanged
+A Delhi court on Monday convicted Hussain and four others for being involved in the killing of Ankit Sharma, who was killed during the 2020 Delhi riots.
 
-## Supreme Court: Bank merger without landlord's consent can attract eviction under Delhi Rent Control Act
-The Supreme Court has ruled that a bank cannot resist eviction under the Delhi Rent Control Act merely because it came into possession of leased premises through a statutory amalgamation.
+## How can State prevent elopement of boy and girl, says SC; flags POCSO misuse
+The bench observed that parents often resort to criminal proceedings to protect their so-called "honour" when teenage girls run away with their partners.
+
+## BJP's Narottam Mishra sees fall in political coin: From acting as censor board, to tears over ticket denial in Datia
+Mishra is 6-time ex-MLA; was minister in Shivraj Chouhan cabinet; on ticket denial now, he has said, “Must be some shortcomings in me. I'll become introverted."
+
+## Class 11 student dies after falling from 10th floor of a Bhubaneswar apt: Cop
+The boy went to the apartment to meet his female classmate when she was alone at home around 10.30am
 
 ## ‘Customised Article 371 framework’: Ladakh to get UT-level body, hill councils for all seven districts
 While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Zanskar, and Drass – were notified in April this year.
@@ -99,44 +114,32 @@ The injured personnel have been admitted to the Christian Institute of Health Sc
 ## ‘My intention was never…’: Top vlogger Sourav Joshi's U-turn on E20 after Mercedes clarification
 Sourav Joshi's statement comes after Mercedes-Benz India issued an advisory stating that all its BS VI petrol vehicles are fully compatible with E20 petrol.
 
-## ‘I will kill again’: Kerala man in court after being convicted in double murder
-The remarks were made by Chenthamara (58) in the Additional District and Sessions Court in Kerala’s Palakkad district
-
-## US national held at Nepal border, ‘had entered India via sea route without valid documents’
-Upon questioning, it was revealed that the American national, identified as Jordan Brown, had entered India in 2025, police said.
-
-## Assam man, 20, arrested for raping 14-yr-old girl, sharing video on social media
-Police said the statements of both the accused and the victim, along with their family members, have been recorded
-
-## 6 killed as private and TN govt buses collide near Madurai: Police
-According to the police, seven passengers sustained serious injuries while 15 people suffered light injuries are under treatment
-
-## West Bengal to give ₹5 lakh to each 60 rath yatra committee: CM Adhikari
-Adhikari also announced that helicopters will shower flower petals on devotees undertaking the 30-km long Shravan yatra
-
-## Amitabh Bachchan says FIFA World Cup has disrupted his routine: ‘Time has gone awry’
+## Video: Saudi Arabia strikes Yemen airport to block Iranian flight, Houthis vow revenge
 
 
-## ‘Gold-plated’ lies: How Karnataka gang cheated banks of Rs 27 lakh for over a year
+## College student says five assaulted, attempted to run him over at Chandigarh nightclub
 
 
-## Nagpur Ram Mandir trust’s ‘no protest’ diktat ahead of Uddhav’s ‘Andolan’
+## ‘Crossing that drain broke us’: Intelligence Bureau staffer’s family after Delhi riots verdict
 
 
-## Don’t Trouble the Trouble teaser: Fahadh Faasil unleashes accidental supernatural powers
+## Moshi collapse: Antony Waste Group announces Rs 25 lakh aid for each victim’s family
 
 
-## Pilot flying into Surat reports laser flash in cockpit, second such incident in 15 days
+## In emotional speech after supporters’ protest, Narottam Mishra backs BJP’s Datia candidate
 
 
-## Bodies of 9 fishermen recovered from sunken trawler in Bay of Bengal
+## 9 killed in Moshi mishap: Garbage depot head among 2 charged with negligence
 
 
-## Didn’t get results we wanted: McCullum after stepping down as England Test coach
+## CSK and Stephen Fleming end 18-year partnership, MS Dhoni’s role in focus
 
 
-## Incentives, waivers part of Delhi’s plan to phase out old trucks and buses, curb pollution
+## Maharashtra Government orders high-level probe into Pune building collapse
 
+
+## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
+[The content of this article has been produced by our advertising partner.] Cheung Kong Center II (CKCII), one of the premier super Grade-A commercial properties in Cheung Kong Asset’s portfolio, has commissioned an iconic installation by Mr. David Griggs. A U.S. sculptor, Griggs has completed over 
 
 ## Futu expects mainland brokerage business to shrink but vows to keep Hong Kong outlets
 Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets. Mainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined s
@@ -159,8 +162,11 @@ Chinese-American billionaire investor Duan Yongping has increased his holdings i
 ## Why Forthright Securities is Anchoring Its Next-Gen AI Hub in the Heart of Hong Kong
 [The content of this article has been produced by our advertising partner.] As Hong Kong’s financial landscape matures and the line between virtual platforms and traditional wealth management blurs, digital-native brokerages opening physical branches has, almost paradoxically, become a mainstream st
 
-## Xpeng, armed with road-tested tech, ready to take on Tesla overseas: executive
-The president of Chinese electric vehicle (EV) maker Xpeng said the company aims to challenge Tesla in international markets, having tested its self-driving technology in the fiercely competitive home market. “We are very confident that we can be head-to-head competitors with Tesla,” said Brian Gu H
+## Stop Overreacting to China’s Missile Test
+It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.
+
+## Washington Shouldn’t Fear NATO Expansion
+New allies bring powerful assets—whatever Donald Trump thinks.
 
 ## Will Lula Win the Century?
 Brazil’s president is democratic, successful, and globally respected.
@@ -179,12 +185,6 @@ The Lithuanian curators working to protect paintings from Putin.
 
 ## The CIA’s First Failed Coup
 Kim Philby, parachute drops, and what really happened in communist Albania.
-
-## Surviving an Oil Spill in Louisiana, and More New Fiction for July
-Stephanie Soileau’s ‘Should the Waters Take Us’ depicts a Cajun community in Louisiana.
-
-## A World of Scams
-‘The Yahoo Boys’ shows how con artists can be victims too.
 
 ## ASEAN Foreign Ministers Hold ‘Icebreaker’ Meeting With Myanmar Counterpart
 The Southeast Asian bloc reaffirmed its adherence to its Five-Point Consensus initiative, which was last week rejected by Myanmar’s military-dominated parliament.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## FIFA World Cup: Key players to watch as France play Spain in semifinal
-Spain-France clash is filled with superstars like Kylian Mbappe, Ousmane Dembele and Lamine Yamal, among others.
+## Bangkok pub fire kills 27, wounds dozens: What we know
+The blaze – one of Thailand’s worst in recent history – also injured more than 70 people, many of them critically.
 
-## Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls
-Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.
+## EU unveils $1bn fund for Gaza war recovery
+The scheme falls critically short of the $71bn reportedly needed for Gaza's recovery over the next 10 years.
 
-## What is the EU’s plan to cut trade with illegal Israeli settlements?
-Foreign ministers' meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.
+## Person killed in shooting involving ICE agents in US state of Maine
+State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.
 
-## How Sheikh Hamad revolutionised Arab media through Al Jazeera
-The late Father Emir broke the regional monopoly of state-controlled broadcasting and challenged Western media hegemony.
+## US imposes new sanctions on Cuba tourism ministry, state-owned companies
+The US Treasury Department posted the new directive on its website on Monday.
 
-## Yemeni government forces strike Sanaa airport
-Yemeni government forces strike Sanaa airport
+## Anti-terror police take over probe into death of UK politician Widdecombe
+A 28-year-old man has been re-arrested on suspicion of the commission, preparation or instigation of acts of terrorism.
 
-## EU sanctions nine people over alleged Russian cyber-spying campaign
-EU announces sanctions on nine individuals and four entities over alleged years-long cyber-espionage campaign.
+## India thrash England in historic first women’s cricket Test match at Lord’s
+England, setting record-breaking target of 457 for victory, are dismissed for 186 shortly before lunch on the final day.
 
-## Hamas denies UN accusations over Gaza aid distribution interference
-UN accuses Hamas of obstructing aid and risking workers' safety, but the group denies it and defends its actions.
+## Trump: US will ‘take over’ Strait of Hormuz
+President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.
 
-## FIFA World Cup England vs Argentina: What to know ahead of second semifinal
-Argentina and England meet at the World Cup for the sixth time, facing off in Wednesday's semifinal in Atlanta.
+## Iraqi PM heads to US seeking balance between security and economy
+PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
