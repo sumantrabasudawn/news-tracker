@@ -1,28 +1,43 @@
 # AION Intelligence
 
-## EU moves towards social media ban for children under 13
-Brussels will propose gradual access for different ages in response to concerns over child safety online
+## Intel to invest €5bn in Irish plant as AI chip demand surges
+Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing
 
-## Top civil servant seeks judicial review over sacking in Mandelson scandal
-Olly Robbins says Keir Starmer’s actions were ‘unlawful’ and ‘unreasonable’
+## UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+Iranian group ‘almost certainly directed’ antisemitic attacks in UK earlier this year, says minister
 
-## FirstFT: Stocks tumble on Iran and AI fears
-Also in today’s newsletter: Western companies turn to Chinese AI models and the ruthless remake of Citigroup
+## Counter-terror police take over Widdecombe murder probe
+Former Conservative minister was found dead at her home in Devon on Thursday
 
-## Global stocks fall as Asian memory chipmakers hammered
+## Global tech stocks fall as Asian memory chipmakers hammered
 Oil jumps as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
 
-## A bold, unpopular Budget could pay off
-Getting big and controversial reforms out of the way can reap dividends for governments closer to election time
+## China-proofing European cleantech is a tricky business
+Crude tariffs won’t be enough to promote EU renewable energy
+
+## Trump’s plan for Europe is falling apart
+The US president has a genius for alienating existing and potential allies
 
 ## US launches more strikes on Iran as ceasefire teeters
 Fighting escalates as Trump insists Strait of Hormuz remains open while Tehran says it is closed
 
-## EU urged to follow its own rules and ban trade with Israeli settlements
-Also in this newsletter: No ‘single measure’ will protect kids online, says justice commissioner
+## Ukraine’s drone swarms test Moscow air defences
+Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis
 
-## Dimon pressed over whether he lobbied UK government on Epstein’s advice
-US Senator Elizabeth Warren demands JPMorgan boss explain any links with paedophile over proposed tax on bankers’ bonuses
+## De Beers halts output at South African diamond mine as weak prices weigh on sale
+Anglo American looking to sell diamond business as competition from lab-grown stones intensifies
+
+## Legal sector regulator in England and Wales has ‘lost its way’, review finds
+Report into Legal Services Board follows a number of high-profile law firm collapses in recent years
+
+## When the ducks are quacking, feed them
+Memory mania redux
+
+## EU moves towards social media ban for children under 13
+Brussels will propose gradual access for different ages in response to concerns over child safety online
+
+## FirstFT: Stocks tumble on Iran and AI fears
+Also in today’s newsletter: Western companies turn to Chinese AI models and the ruthless remake of Citigroup
 
 ## Moneybox picks London’s Pisces market for employee share sale
 £45mn offering gives further boost to private markets platform after Wayve became first big company to use it
@@ -33,107 +48,110 @@ Tesco’s retreat is sensible
 ## Nippon Paint offers €7.5bn for Akzo unit in attempt to gatecrash rival deal
 Japanese group makes bid for decorative coatings business that includes Dulux brand
 
-## Mastercard examines sale of UK payments subsidiary Vocalink
-Discussions to sell majority stake back to British banks come as unit seeks contract to develop next-generation platform
+## Laser Power and Infra IPO fetches 38.94 times subscription on final day
+Strong QIB demand at 92.25 times drives overall subscription amid anchor investment of ₹223 crore
 
-## Speeding up digital finance shift ‘could deliver £33bn boost’ to UK economy
-Chair of new task force predicts ‘huge prize’ if progress is made in areas such as issuing sovereign bonds on blockchain
+## Airties acquires Aprecomm to widen reach, provide better service
+The combined company now has an unmatched foundation to further accelerate expansion across Asia-Pacific and into South America, says Airties CEO
 
-## CERC tells clean energy firms to lose grid connection or generate power
-Power producers must surrender unused transmission rights or post higher bank guarantees to free up grid capacity
+## Private radio’s fight to get its voice heard
+From live IPs to digital content and tier-3 reach, FM channels are tuning into multi-platform audience preferences
 
-## Volkswagen CEO threatens 50,000 more job cuts in memo to staff
-“We are currently ​assessing across all brands, companies ⁠and regions how many adjustments ⁠are actually necessary and feasible,” Blume ‌said
+## 30 tonnes of pineapples sold at Meghalaya Festival in Delhi
+The volume sold was almost double than the 15.5 tonnes sold last year at the festival
 
-## India must build resilient software and hardware systems to withstand cyber threats: MeitY Secretary
-Highlighting the importance of cybersecurity, Krishnan said digitisation has yielded significant benefits by reducing friction in transactions, making them faster and making life easier
+## Markets stage comeback amid global sell-off, IT earnings boost
+Nifty 50 closed at 24,211.65, up just 4.75 points or 0.02%, while the BSE Sensex ended at 77,616.40, gaining 47 points or 0.06%
 
-## Bajaj Consumer Care Q1 Results: Posts record Q1 as stock hits 52-week high
-EBITDA jumps 101.2% to ₹84.4 crore; margin expands to 24.7% from 15.8% YoY
+## Cochin Shipyard bids for Bharat Container Shipping Line orders; eyes surge in domestic shipbuilding
+Jose V.J., Director (Finance) of CSL, told that the consortium was formed to reduce India’s dependence on foreign shipping lines and cut freight outgo
 
-## Sensex today | Stock Market Live: Sensex, Nifty recover from weak start as IT stocks lift markets
-Sensex, Nifty, Share Prices LIVE: Sensex and Nifty recovered from a gap-down opening to trade in the green, supported by strong gains in IT stocks. Rising crude oil prices, geopolitical tensions and weak Asian cues continued to cap broader market sentiment during Monday's session.
+## Sensex today | Stock Market Highlights: Stock markets end flat as West Asia tensions, higher oil prices weigh on sentiment
+Sensex, Nifty, Share Prices Highlights: Benchmark indices Sensex and Nifty ended flat on Monday as a sharp rally in crude oil prices due to escalating tensions in West Asia weighed on overall investor sentiment.
 
-## LTM shares jump over 9% in a week; brokerages split as Q1 growth signals improve
-The stock has gained 5.81 per cent over the past month and 9.13 per cent over the past week, though it remains down 33.44 per cent year-to-date and 21.86 per cent over one year
+## Honda eyes sub-4 metre SUV, EV push to drive growth
+Behl said Honda is also accelerating its electrification roadmap with plans to launch its first India-developed Battery Electric Vehicle SUV
 
-## Adani Ports & SEZ, Gujarat Pipavav Port report higher container volumes in Q1 FY27
-Container volumes at India’s 12 major ports rose 9% year-on-year in the April-June quarter of FY27, reflecting resilience in the broader port sector
+## Retail inflation jumps to 4.38% in June, driven by food, jewellery prices; breaches RBI's 4% target
+India's retail inflation increased to 4.38 percent in June from May's 3.93 percent. Higher food prices significantly pushed up the overall Consumer Price Index for the month. Ginger and tomatoes saw substantial year-on-year price increases, contributing to the overall rise. However, some items like 
 
-## Goldman Sachs sees Nifty at 26,500 by June 2027 on return of foreign flows and domestic recovery
-Goldman Sachs expects a rotation in market leadership from growth to value stocks and from mid-cap companies to large-caps
+## ITR filing: 10 penalties taxpayers should not ignore - from late filing fee to under-reporting defaults
+ITR filing: What are the various sections under which income tax penalties are applicable? When does a default happen and what are the penalty amounts that have to be paid by taxpayers? Here is a list of 10 top 10 penalties that can be imposed:
+
+## India's commerce portfolio: Imports outpace exports, trade deficit expands to $30.4 billion
+India's merchandise imports surged thirty-one percent year-on-year in June. Exports also rose fifteen point five percent, while imports climbed sharply. The country's trade deficit stood at thirty point four three billion dollars for the month. During the April-June quarter, exports increased fiftee
+
+## 'Completely false and misleading': Piyush Goyal rebuts report of India holding up US trade pact
+
+
+## 'Unpredictable fluctuations' in airfares: SC asks Centre to place rules before it within 2 weeks
+
+
+## Supreme Court: Bank merger without landlord's consent can attract eviction under Delhi Rent Control Act
+The Supreme Court has ruled that a bank cannot resist eviction under the Delhi Rent Control Act merely because it came into possession of leased premises through a statutory amalgamation.
 
 ## Spain's Submer to invest $2 billion in Madhya Pradesh semiconductor sector, may create 5,000 jobs
 Spain's Submer Group will invest two billion dollars in Madhya Pradesh's semiconductor sector. This significant investment is expected to generate approximately five thousand direct employment opportunities. The company plans to establish a manufacturing facility for advanced liquid cooling solution
 
-## 'Won't cede ground on agriculture': India on US trade talks, seeks tariff edge before signing deal, says report
-
-
 ## Nifty Realty Index: How NSE measures performance of real estate sector
 The Nifty Realty Index tracks India's listed real estate companies' performance. It comprises ten firms selected by free-float market capitalization and rebalanced semi-annually. DLF, Phoenix Mills, and Lodha Developers hold the largest weights within the index. Companies must meet specific criteria
 
-## Global funds fall in love with Indian stocks again; buy $1 billion in equities as foreign investors rush back
-Foreign investors, who resumed buying Indian debt in June, have extended that renewed interest to equities in July. After several months of continuous selling, foreign portfolio investors (FPIs) have become net buyers this month, investing $2.59 billion (Rs 24,662 crore) during the first 10 days of 
+## Ram Temple Trust seeks first CEO on 3-year contract; age limit 50-70
+The CEO would be responsible for the overall administration, management and day-to-day functioning of the Ram Mandir complex
 
-## Stocks to buy: What's the outlook for Nifty for July 13-July 17 week? Check list of top stock recommendations
-Stock market recommendations: Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities recommends Indian Hotels Company, and Equitas Small Finance Bank as top stocks to buy for the July 13-July 17, 2026 week. Technical outlooks for Nifty, and Bank Nifty have also been shared:
+## Bihar: Prashant Kishor, BJP's Neeraj Sinha file nomination papers for Bankipur bypoll
+Kishor, who seeks to wrest the BJP bastion vacated by its national president Nitin Nabin a couple of months ago, was accompanied by his wife.
 
-## Gold price prediction today: Any end to gold fall in sight? Check outlook for July 13, 2026 week
-Gold price prediction today: Gold prices are trading with a bearish bias as geopolitical events weigh on investor sentiment, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## Satluj row: Khalra's wife Paramjit Kaur urges Akal Takht to form 'People's Commission'
+Kaur's remarks followed renewed public attention on the Khalra case after the release, and takedown, of the Diljit Dosanjh-starrer film 'Satluj' from Zee5.
 
-## Top stocks to buy: Stock recommendations for July 13, 2026 week - check list
-Stock market recommendations: Motilal Oswal Wealth Management Research Desk recommends buying GE Vernova T&D India, and Apollo Hospitals as the top stocks for the week starting July 13, 2026:
+## ‘Lives at stake’: CJP's Dipke flags concern as Sonam Wangchuk's hunger strike enters Day 16
+Wangchuk has lost 8.2 kg since his indefinite hunger strike at the Jantar Mantar began.
 
-## Kospi dream rally fumbles: World's best-performing stock plunges 7% - what's behind crash?
-South Korea's Kospi index experienced a significant 7% decline on Monday. Rising Middle East tensions and oil price spikes rattled global investors worldwide. Technology stocks, including SK Hynix and Samsung Electronics, led the sharp fall. The market correction intensified concerns over AI-linked 
+## ‘Completely false’: Piyush Goyal slams report that says ‘India rejected quick trade deal with US’
+“This news is completely false, baseless and misleading. I had fantastic meetings with USTR Jamieson Greer,” Goyal said in a post on X.
 
-## HDFC Bank cuts over 3,300 jobs as automation drive gathers pace
-The bank’s total staff fell to 211,178 as of March 31 from a year earlier, with new hiring dropping by 3,811, according to its annual report.
+## Denied ticket, BJP's Narottam Mishra in tears at candidate rally in Datia, days after supporters turned violent: Watch
+Narottam Mishra's supporters had blocked National Highway-44 on Friday after the BJP announced Ashutosh Tiwari as its candidate for the Datia Assembly bypoll.
 
-## Delhi cop and wife were on a scooter, had an argument, he shot her: Kalyanpuri shocker
-According to the cops, the constable and his wife were travelling on a scooter when argument broke out. He stopped vehicle and allegedly shot the woman.
+## Keeping up with UP: Will Bharat Ratna to Kanshi Ram tilt 2027 poll scales
+Kanshi Ram is remembered more for empowering Dalits than for his aggressive language against powerful leaders of all parties
 
-## BJP vs Omar takes a ‘love letter’ turn: Party sends ₹100-cr defamation notice to J-K CM over ‘ ₹20-30 cr offer’ claim
-The J-K unit of the BJP has served a legal notice to CM Abdullah. Reacting to the development, the CM referred to the legal notice as a "love letter."
+## Omar fires satire at BJP after ‘backdoor’ charge: ₹100-crore ‘love letter’ and a jibe featuring Donald Trump
+In the fake post, Donald Trump is shown to have given Abdullah a “shoutout” for his campaign for the restoration of statehood for Jammu and Kashmir.
 
-## SC calls action plan to curb online porn an issue of paramount public importance
-The court said that the issue requires urgent consideration as minors are increasingly indulging in sexual crimes due to easy access to porn
-
-## Amid trade deal talks, India-US move to deepen ties with ‘Mission $500 billion’ | Explained
-Mission $500 billion was first announced in the framework of the India-US trade deal, which was announced in February 2026.
-
-## Suvendu Adhikari defends Kolkata airport mosque removal, cites national security
-The Bankra mosque, believed to be over 130 years old, is situated nearly 165 metres from the secondary runway of the Kolkata airport.
-
-## 6.4 kg hydroponic weed found in aircraft lavatories, under seats, baggage at Delhi airport, 3 held
-The three seizures, involving passengers arriving from Bangkok and Phuket, resulted in the recovery of 6.37 kg of the suspected contraband, officials said.
-
-## Uddhav Thackeray backs Cockroach Janta Party protest, drops a message for Rahul Gandhi
-Uddhav Thackeray appealed to political parties across the country to organise similar protests in their respective states.
-
-## Security concerns, runway limits: Kolkata airport’s century-old mosque temporarily closed
+## Delhi UPSC teacher ‘helped’ Lawrence Bishnoi gang threaten businessman, arrested
 
 
-## Money, gold and silver coins pocketed from Badrinath temple donation, 1 arrested
+## Anna Konidela shares emotional post as Pawan Kalyan recovers from shoulder surgery
 
 
-## Jaswant Khalra’s wife seeks people’s commission on Punjab disappearances
+## India crush England by 270 runs to win historic first women’s test at Lord’s
 
 
-## Sikkim High Court cites Demi Lovato’s song to uphold punishment in minor’s rape case
+## Expert Explains: Why Indo-Pacific powers, including India, should worry about China’s new ballistic missile test
 
 
-## Expert on Barun Sobti and Pashmeen Manchanda’s long-distance love: ‘Came back a month…’
+## Ash Gardner’s estranged wife accuses her of having affair with teammate
 
 
-## Chandigarh’s new 4-bin waste rule: Bin colours, waste categories, fine
+## Delayed flats, unpaid compensation: Supreme Court freezes Parsvnath accounts
 
 
-## 1 click on loan ad, Rs 17 lakh extorted: fraud forces banker to leave Mumbai
+## Supreme Court orders SIT probe into death of former Madhya Pradesh Congress MLA’s driver
 
 
-## New Karnataka High Court building: State to allocate Bangalore Turf Club land
+## Policyholder dies by suicide, insurer rejects full claim of father, who wins Rs 11.76 lakh
 
+
+## Futu expects mainland brokerage business to shrink but vows to keep Hong Kong outlets
+Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets. Mainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined s
+
+## China’s Midea dispatches 20,000 air conditioners in race to cool heat-stricken France
+Chinese home appliance giant Midea says it has rushed production and shipment of 20,000 air conditioners to France in just seven days to meet soaring demand fuelled by the intense heatwave across Europe. To speed up output, Midea doubled capacity to 6,000 portable air conditioners per day by opening
+
+## China’s drug industry pivots to AI-powered candidates to drive next wave of deals
+After China’s cross-border deals for innovative drugs hit a record US$110 billion in the first half of 2026, the sector is now pivoting towards artificial intelligence-powered candidates to drive the next wave of transactions. China accounted for about 30 per cent of all new drugs currently under de
 
 ## Chairman of global tech brand TCL sees digital future in ‘Screen Universe’
 Li Dongsheng, founder and chairman of TCL – a global technology brand serving users across more than 160 countries and regions – was among the speakers at the World Economic Forum’s Annual Meeting of the New Champions last month. Under the theme, “Innovating at Scale”, the forum, also known as “Summ
@@ -150,14 +168,11 @@ Chinese-American billionaire investor Duan Yongping has increased his holdings i
 ## Xpeng, armed with road-tested tech, ready to take on Tesla overseas: executive
 The president of Chinese electric vehicle (EV) maker Xpeng said the company aims to challenge Tesla in international markets, having tested its self-driving technology in the fiercely competitive home market. “We are very confident that we can be head-to-head competitors with Tesla,” said Brian Gu H
 
-## AIA Alta’s Optimal Longevity Index shows health and wealth go hand in hand
-Hong Kong’s 2024 census reveals a staggering life expectancy of 82.7 years for men and 88.2 years for women – figures that consistently rank amongst the world’s highest. However, while people in Hong Kong may be champions in longer lifespans, the inaugural AIA Alta High-Net-Worth Optimal Longevity I
+## Will Lula Win the Century?
+Brazil’s president is democratic, successful, and globally respected.
 
-## Chinese hard tech giants see value surge in first half as global investors pour in capital
-Overseas capital has poured into China’s hard technology champions at an unprecedented pace, driving the market value of their mainland equity holdings to an all-time high by the end of this year’s second quarter. Global investors have increased their exposure to China’s advanced manufacturing and t
-
-## Meet CXMT’s Zhu Yiming: the engineer building China’s answer to global memory-chip giants
-When ChangXin Memory Technologies (CXMT) – China’s attempt to build a home-grown rival to the world’s top makers of memory chips – kicked off one of the country’s most anticipated initial public offerings (IPOs) of 2026 last week, the spotlight fell on its founder Zhu Yiming. The Shanghai offering, 
+## NATO Is Still a Sick Puppy
+The Ankara summit only kicked the can down the road.
 
 ## The Politicization of the U.S. Military Did Not Start With Trump
 Nostalgia about the U.S. armed forces being above the partisan fray is not borne out by history.
@@ -176,12 +191,6 @@ Stephanie Soileau’s ‘Should the Waters Take Us’ depicts a Cajun community 
 
 ## A World of Scams
 ‘The Yahoo Boys’ shows how con artists can be victims too.
-
-## Are Movies to Blame?
-A renowned film historian asks if moving pictures led us to something rotten.
-
-## How Ukraine Figured Out Trump World
-Former Ukrainian Foreign Minister Dmytro Kuleba on the White House’s seeming change in tone toward Kyiv.
 
 ## ASEAN Foreign Ministers Hold ‘Icebreaker’ Meeting With Myanmar Counterpart
 The Southeast Asian bloc reaffirmed its adherence to its Five-Point Consensus initiative, which was last week rejected by Myanmar’s military-dominated parliament.
@@ -255,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Explosions and large fires following Ukrainian attacks on Russia
-Explosions and large fires following Ukrainian attacks on Russia
+## South Korea rolls out plan to tackle youth suicide crisis
+South Korea rolls out plan to tackle youth suicide crisis
 
-## New Iran strikes on Gulf as US attacks escalate: What we know
-Iran targets its Gulf neighbours in third round of tit-for-tat attacks with US in a week.
+## Al Jazeera bids farewell to founder Sheikh Hamad
+Al Jazeera bids farewell to founder Sheikh Hamad
 
-## US and Iran trade strikes as ceasefire comes under growing strain
-Iran's IRGC says it attacked sites linked to the US military in Kuwait, Bahrain and Oman after latest US bombardment.
+## Yemen government says its forces attacked Sanaa airport
+Gov't says its forces carried out a strike at Sanaa airport to prevent an Iranian aircraft from landing there.
 
-## Typhoon Bavi pummels China’s eastern coast
-Dramatic video captured the moment waves caused by Typhoon Bavi slammed into a house in China’s Zhejiang province.
+## Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says
+FIFA president says during the first World Cup to feature 48 teams that it's under consideration.
 
-## Watch World Cup: Preview ahead of Spain-France semifinal 1
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## EU countries consider sanctions on trade from illegal Israeli settlements
+Pressure from EU member states to impose sanctions has increased in recent months amid escalating settler violence.
 
-## More than 2,700 deaths in UK linked to May, June heatwaves
-The UK has experienced two record heatwaves this year, with temperatures reaching 35.1C in May and 37.7C in June.
+## France vs Spain: World Cup semifinal – Mbappe, Yamal, predictions, kickoff
+Kylian Mbappe's France continue their quest for the world title, facing Lamine Yamal's Spain in a blockbuster semifinal.
 
-## Kimmit: Renewed US-Iran fighting could reignite wider regional conflict
-Retired US General Mark Kimmitt warns renewed attacks in the Strait of Hormuz could push the US and Iran
+## Wildfires near Paris force evacuations, disrupt train lines and motorway
+Wildfires spread over 800 hectares near Fontainebleau, as authorities sent two ​waterbombing planes to tackle blazes.
 
-## In Iran, Pezeshkian will be the scapegoat for the failed MoU
-Putting all the blame on the Iranian president covers up tensions between competing factions in Tehran.
+## ‘It’s expensive’: Syria’s electricity has improved, but challenges remain
+Damascus residents say state-supplied power has noticeably improved recently but complain about the cost of energy.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
