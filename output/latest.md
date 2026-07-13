@@ -39,29 +39,44 @@ Justice commissioner Michael McGrath says Brussels seeks to strengthen social me
 ## Big private equity firms pull in more cash as winners take all
 Shrinking pool of recipients points to coming wave of so-called zombie firms
 
-## IMD: Monsoon activity subdued in large parts of India, Uttarakhand on red alert
-IMD predicts ‘isolated heavy to very heavy rainfall’ likely over northeast India, West Bengal, and Bihar during the next 2-3 days and isolated heavy falls over east Uttar Pradesh in 4-5 days
+## Sensex today | Stock Market Live: Stock to buy today: Piramal Pharma
+Sensex, Nifty, Share Prices LIVE: The stock of Piramal Pharma has been in an uptrend after it found support at ₹132 in March. While there was some correction in May and June, the broader picture remains positive. The chart shows that the stock has formed a higher low at ₹158 compared to the support 
 
-## Union aviation ministry says no communication with TN on Parandur airport, decision rests with the State
-Chief Minister C Joseph Vijay had backed villagers and farmers opposing the project before he assumed office
+## Nifty may open 200 points lower as Iran tensions hit sentiment
+Focus will be on results, FPI activity
 
-## Business lessons from the top of the world
-Binod Chaudhary’s story is rooted in Nepal, but its relevance extends to economies where political uncertainty, institutional gaps, and external dependencies shape business decisions
+## NTPC board clears ₹20,456.7 crore Lara Stage-III power project in Chhattisgarh
+The project comprises two 800 MW units to help meet rising power demand
 
-## Wipro Q1 preview: Brokerages see weak quarter, muted Q2 guidance
-Net profit is estimated at ₹3,394 crore to ₹3,528 crore, reflecting a 3.1% to 9% sequential decline and a 1.4% to 4% drop year-on-year, according to brokerage estimates
+## Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna to Support Southeast Asia's Growing Tuna Industry
+Tetra Pak Introduces Industry-first Carton Packaging for Shelf-stable Tuna to Support Southeast Asia's Growing Tuna Industry
 
-## Mutual Fund Sahi Hai: SBI Fund Management IPO creates 13 crorepati employees
-Deputy Managing Director, DP Singh and CIO, Srinivasan Rama Iyer top the list, with holdings worth more than ₹100 crore each
+## A dozen stocks, including PSU names SAIL, IREDA, Power Grid, Mazagon Dock and ONGC, to remain in focus on Monday
+Stocks across infrastructure, energy, defence, pharmaceuticals, hospitality and manufacturing are expected to attract investor attention on Monday following a series of corporate announcements and regulatory filings
 
-## India’s growth story needs more women at work
-Taking care. To fully tap women’s work potential the government must invest in the care economy
+## Gaganyaan mission: ISRO conducts three successful crew module system tests
+Three successful tests have validated key Gaganyaan systems for splashdown recovery, re-entry and parachute deployment
 
-## The mineral gap India cannot afford to ignore
-India’s demand for critical minerals is rising, and this could be leveraged by countries that control output and refining
+## Wimbledon 2026: Jannik Sinner defends title with win over Alexander Zverev
+With another Wimbledon title, Jannik Sinner joined an elite list of champions to successfully defend the men’s singles crown
 
-## Is India drinking itself dry for AI economy?
-India’s challenge is not whether to build for the AI economy, but whether it can do so without exhausting the very resources that sustain growth
+## Tech billionaire Vinod Khosla to acquire Seattle Seahawks in $9.6 billion deal
+The Seattle Seahawks’ reported $9.6-billion sale to Vinod Khosla underscores the soaring value of premium global sports franchises
+
+## Chaos returns to Middle East: Oil prices jump 4% as US-Iran exchange strikes
+Oil prices surged sharply as renewed military action between Iran and the United States escalated tensions. Fresh strikes expanded to Qatar and the United Arab Emirates over the weekend. This escalation has clouded the future of the interim US-Iran agreement signed last month. Market participants re
+
+## Auto lenders bet on embedded finance
+Auto financiers are pushing for embedded finance and digital credit integration. This shift aims to make car purchases more seamless for customers. Traditional installment loans still dominate the Indian auto finance market. Dealers seek more transparent wholesale funding and quicker rate reductions
+
+## After two years, pharma volumes pick up pace
+Domestic pharmaceutical retail growth shows strong signs of demand-led expansion. Volume growth in June exceeded three percent, a significant positive shift. Industry growth outlook is now revised upwards to over eleven percent this year. Higher sales of lipid-lowering and cardiac therapies led the 
+
+## Government weighs cybersecurity framework for IoT devices
+India is considering a cybersecurity framework for internet-connected devices. This initiative aims to enhance security standards for smart meters and other IoT products. The government is exploring measures for stricter security and certification requirements. This move follows a similar mandate fo
+
+## Foreign investors return to India, equities lead revival
+Foreign investors have returned to Indian markets, showing renewed interest in equities during July. This shift follows months of consistent selling, with significant inflows recorded in early July. Equities have become the primary destination for foreign capital, attracting substantial investments.
 
 ## Oil companies plan expanding 10-kg LPG cylinder sales
 State-run oil companies are considering expanding lightweight 10-kg LPG cylinders for commercial use. These cylinders will likely be sold at commercial LPG rates if approved by authorities. This move could benefit migrant workers, tenants, and street vendors needing LPG. The advanced composite cylin
@@ -72,68 +87,59 @@ Four of India's top ten companies added significant market value last week. HDFC
 ## Stock market this week: Q1 earnings, inflation data, Middle East tensions to keep D-Street volatile
 The upcoming week will see investors focus on corporate earnings and key economic data. India's inflation figures and foreign exchange reserves are scheduled for release soon. Global developments, including West Asia tensions, will also influence market sentiment. Foreign institutional investors hav
 
-## E20 controversy explained: Why an old roadmap is back in spotlight
+## ‘He said he’ll call soon…': Kin of deceased in Vietnam boat tragedy
+Families of the 10 victims who lost their lives in a boat accident have appealed to the TN and Central govts to expedite the process to bring back the bodies.
 
+## CDS Subramani to seek approval of theatre commands from defence minister Rajnath Singh
+CDS to make a presentation before defence minister Rajnath Singh at month end for permission to get CCS approval.
 
-## India-UK FTA opens doors, but tariff cuts alone won't lift exports: GTRI
-India's new trade pact with the UK opens market access for exporters. However, strengthening quality standards and logistics is crucial for success. Food and engineering sectors face specific regulatory and certification requirements. Labour-intensive industries like garments and textiles offer sign
+## RSS expresses grief over Ram Mandir donation theft, says probe to soon reach ‘decisive turn’
+The alleged irregularities relate to claims that crores of rupees from cash and other offerings made at the Ram Temple in UP's Ayodhya were embezzled.
 
-## EPFO launches one-time Amnesty Scheme for exempted PF trusts after portal revamp: What it means
-EPFO introduced a one-time Amnesty Scheme for exempted Provident Fund Trusts. This scheme allows establishments to regularize their compliance status under the EPF Act. Eligible employers can obtain retrospective exemption and resolve pending issues. The amnesty offers relief from litigation and wai
+## Gyanvapi, Mathura and Sambhal litigants decline Supreme Court's mediation offer
+The dispute concerns claims by Hindu litigants that the Gyanvapi mosque was built after the demolition of a Kashi Vishwanath temple during Mughal era.
 
-## Gold, silver rate outlook: Middle East conflict, inflation data to drive prices this week
-Precious metals are expected to remain under pressure in the coming week. Geopolitical uncertainty in the Middle East weighs against upcoming inflation data. Investors are awaiting economic indicators that could shape global interest rate expectations. Bullion prices ended the week sharply lower, mi
+## Trust, distrust converge in Ayodhya amid Ram Mandir donation theft case
+Over a weeklong investigation, HT found ad-hoc rules and flexible systems, rubber-stamp meetings, power struggles, and a test of faith for ordinary people.
 
-## Age-related discrimination could wipe out $500 billion in OECD productivity: Report
+## Monsoon mayhem: Heavy rain brings landslides in Uttarakhand, flash floods in J&K
+At least 69 roads remained closed due to rain-induced disruptions, while a woman sustained injuries after a retaining wall collapsed in Dehradun.
 
+## CJI Surya Kant forms four special benches to fast-track Supreme Court's oldest cases
+The CJI told HT that the initiative was intended to reaffirm public confidence in the justice delivery system.
 
 ## Tied to pole, given electric shocks: Youths tortured over theft suspicion in Madhya Pradesh
 The youths were allegedly accused of stealing a water pump motor, and were thereafter taken to a farm, wherein they were tortured.
 
-## Man kills his two children, dies by suicide after wife leaves him in Tamil Nadu
-According to police, the man, was distraught after his wife left the family around six months ago and was reportedly living with another man.
-
-## India declares a day of mourning for Father Amir of Qatar
-Prime Minister Narendra Modi condoled the death of Sheikh Hamad and described him as a true friend of India and a visionary leader who led the development of Qatar
-
-## India declares one-day national mourning for Qatar's Father Amir Sheikh Hamad bin Khalifa Al-Thani
-The national flag will fly at half-mast across the country, and there will be no official entertainment on the day.
-
-## AI engineer stabs girlfriend to death in Gurugram PG, dies by suicide hours later
-The incident surfaced after woman's family approached the Sector-56 police station on Saturday when they were unable to get in touch with her.
-
-## Flipkart sacks delivery agent after Bengaluru woman alleges obscene act
-Whitefield deputy commissioner of police Saidulu Adavath said police registered a case under sections 75, 79 and 329(2) of the Bharatiya Nyaya Sanhita
-
-## New voters must provide parents' SIR details to get on electoral rolls: Election Commission
-The declaration was added in the Bihar SIR rolled out in June last year. New voters were made to file the declaration along with Form 6.
-
-## ‘Taken to babas, forced to drink cow urine’: Ex-Sena UBT MP's daughter-in-law alleges black magic, torture
-In her complaint, Girija complained that several people, including two self-proclaimed godmen, had performed various indecent acts on her.
-
-## Delhi Confidential: Special Mention In Auckland
+## CJI unveils Tower of Justice in Gurgaon, says judiciary must be efficient, impartial
 
 
-## Central Vista should be called Kartavya Bhawan area: Union Minister Manohar Lal
+## Railways roadmap to improve passenger behaviour: counselling to CCTVs, Coach Mitra app to track boarding
 
 
-## Fire engulfs popular Bangkok pub, killing 27 people and injuring dozens
+## World Athletics VP Adille Sumariwalla at Idea Exchange: ‘National records are being broken again and again. This shows we have bench strength’
 
 
-## Week-long rain break in most parts of country
+## England vs Argentina: A rivalry forged by war, on-field spats and history of cons
 
 
-## Israel to hold elections on October 27: What it means for Netanyahu
+## Delhi CM seeks Rs 100 crore from Centre to speed up regularisation of unauthorised colonies
 
 
-## How Jannik Sinner blunted Zverev 2.0 to retain Wimbledon title
+## How Narendra Modi government mounts a new bid for women’s Bill: DMK, NCP(SP) outreach to abstentions
 
 
-## Why Vijay Sethupathi refused to romance Krithi Shetty on-screen; expert on workplace boundaries
+## ‘This is against Congress rules’: Why Bihar Congress’s digital outreach sparks discontent
 
 
-## IND vs ENG: Yastika Bhatia’s century takes India closer to Lord’s win
+## Delhi’s ‘expiry date’ racket: How relabelled food products may have reached consumers through e-commerce apps
 
+
+## Meet CXMT’s Zhu Yiming: the engineer building China’s answer to global memory-chip giants
+When ChangXin Memory Technologies (CXMT) – China’s attempt to build a home-grown rival to the world’s top makers of memory chips – kicked off one of the country’s most anticipated initial public offerings (IPOs) of 2026 last week, the spotlight fell on its founder Zhu Yiming. The Shanghai offering, 
+
+## Are HSBC shares set for a turnover bump owing to Hong Kong’s board-lot reform?
+Brokers expect HSBC Holdings, a staple in the portfolios of Hongkongers, to see a large increase in interest from both local and international investors, as the stock’s minimum trading unit is set to change as part of the stock exchange’s board-lot reform process. Investors have long sought the chan
 
 ## Hong Kong developers ready new home launches amid forecasts of muted price increases
 Some of Hong Kong’s largest developers, including Sun Hung Kai Properties (SHKP) and Wheelock Properties, are set to release new units in residential projects this month amid an expected cooling of price increases. SHKP, the city’s largest developer in terms of market capitalisation, released the pr
@@ -152,12 +158,6 @@ Technology stocks have become the new darlings of China’s retail investors who
 
 ## EU isn’t just selling aircraft to China. It’s helping strengthen a competitor
 Last month, China Eastern ordered 25 A330neo jets from Airbus, which come at a catalogue price of US$9.35 billion. The airline, which operates the inaugural commercial routes of the C919, China’s home-grown passenger jet, had placed another Airbus order just three months earlier. Why is this major C
-
-## China’s developers eagerly line up to offer commercial-property Reits amid recovery signs
-China’s first four exchange-traded real estate investment trusts (Reits) backed by commercial properties have opened the floodgates for fundraising by office developers, shopping centre builders and hotel owners amid investors’ heightened hopes for a market recovery. According to data provider Wind 
-
-## BYD showcases battery, charging technology in 15,000km journey from Rome to Hong Kong
-BYD, the world’s largest electric vehicle (EV) maker, has intensified efforts to promote its high-performance batteries and superfast charging technology around the world as it tests a car that it says boasts the world’s longest driving range in a journey from Rome to Hong Kong. A fleet of upgraded 
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle
+The Israeli Army has released footage of what it says are hidden tunnels under Lebanon’s historic Beaufort Castle.
+
+## At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market
+At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.
+
+## Japan’s pet care industry booms as ‘fur babies’ outnumber infants
+Japanese baby product manufacturers are turning their attention to the pet market amid collapsing birthrate.
+
+## Can Nigeria’s drone industry deliver Africa’s defence sovereignty
+Military manufacturing may be growing, but defence sovereignty depends on far more than production.
+
+## US launches more strikes on Iran as Strait of Hormuz standoff deepens
+The US has launched a new wave of strikes on Iran targeting Tehran's ability to threaten shipping in the strait.
+
+## Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies
+Iranian state media report explosions in port cities of Bandar Abbas, Sirik and Jask, as well as Qeshm Island.
+
 ## Mitch McConnell releases health update, says he is ‘regaining’ strength
-The Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.
+The US Republican senator has been absent from Congress during a weeks-long hospitalisation, spurring party concern.
 
 ## US launches new wave of strikes against Iran, aimed at ‘degrading’ military
 Sunday's attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.
-
-## Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks
-Progressive congressman accuses Israeli military of 'lying' after settlers held up his van in the occupied West Bank.
-
-## Israel releases video of huge detonations in Lebanon
-The Israeli military has released video showing huge explosions and detonations in villages in southern Lebanon.
-
-## Deadly Israeli strikes pound Gaza
-Israel’s military has attacked several places across Gaza.
-
-## Israel to hold national elections on October 27, parliament says
-Netanyahu, Israel's longest-serving prime minister, has confirmed that he will run for office again.
-
-## Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia
-Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London's Tower Bridge.
-
-## Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71
-US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
