@@ -1,12 +1,21 @@
 # AION Intelligence
 
+## US launches strikes after Trump warns Washington will hit Iran ‘hard’
+Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare
+
+## Andy Burnham tells Labour MPs he will rein in Britain’s outsourcing industry
+PM-in-waiting tells hustings he will appoint a ‘broad church’ ministerial team and bring government contracts in-house
+
+## What will Burnham do on immigration?
+Likely next prime minister is looking to satisfy calls for tougher borders while appealing to Labour’s liberal supporters
+
+## FirstFT: Investors cut back bets on Asia’s chipmakers
+Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup
+
 ## Stocks and bonds drop as mounting US-Iran tensions spook investors
 Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
 
-## Trump says US will hit Iran ‘hard’ this week
-Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare
-
-## US appeals court revives lawsuits linking painkiller Tylenol to autism
+## US court revives lawsuits linking painkiller Tylenol to autism
 Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
 
 ## Oil surges past $80 on Trump threat to impose 20% Hormuz fee
@@ -14,12 +23,6 @@ President claims Washington will be ‘guardian’ of waterway and seek reimburs
 
 ## Mexican food chain Chipotle takes its burritos and bowls to Mexico
 Company expands in international push as domestic sales growth slows amid high inflation
-
-## Yemen’s Houthis fire missiles at Saudi Arabia
-Four-year truce under threat as pro-Iran militants respond to strike on Sana’a International Airport
-
-## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
-Ruling casts doubt on whether president and his family can benefit from immunity deal
 
 ## Shell sells Indian wind and solar business for $1.8bn
 Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
@@ -156,6 +159,9 @@ Chinese-American billionaire investor Duan Yongping has increased his holdings i
 ## Why Forthright Securities is Anchoring Its Next-Gen AI Hub in the Heart of Hong Kong
 [The content of this article has been produced by our advertising partner.] As Hong Kong’s financial landscape matures and the line between virtual platforms and traditional wealth management blurs, digital-native brokerages opening physical branches has, almost paradoxically, become a mainstream st
 
+## Trump Is Taking a Page Out of Iran’s Playbook
+The White House vows to charge all commercial ships passing through the Strait of Hormuz.
+
 ## Russian Energy Is Now at Ukraine’s Mercy
 Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.
 
@@ -176,9 +182,6 @@ Nostalgia about the U.S. armed forces being above the partisan fray is not borne
 
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
-
-## Evacuating Art From Ukraine’s Front Lines
-The Lithuanian curators working to protect paintings from Putin.
 
 ## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
 The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
@@ -252,8 +255,17 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit
+A crowd of more than 100,000, an open-top bus parade and a royal reception welcomed back the Norwegian World Cup squad.
+
+## Police in South Africa open probe into post-World Cup death of Jayden Adams
+The country's football players' union confirmed Adams's death on Saturday, but the cause has not been revealed.
+
+## US, Iran exchange attacks around Strait of Hormuz
+This is a breaking news story.
+
 ## Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter
-Late US senator supported invasion of Iraq, war on Iran and approach of 'more for Israel' and became a top Trump ally.
+Late US senator backed invasion of Iraq, war on Iran and approach of 'more for Israel' as he became a Trump confidant.
 
 ## How is the US tech industry regulated?
 Apple files a lawsuit against OpenAI, accusing it of stealing trade secrets.
@@ -266,15 +278,6 @@ Prices for the Argentina vs England semifinal have seen a 34 percent increase ov
 
 ## US strikes Iranian ship with drone boats in first-of-its-kind attack
 US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility
-
-## Ukraine and allies launch coalition to tackle Russia’s ballistic missiles
-Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.
-
-## Iran military warns US against Strait of Hormuz ‘interference’
-Iran's military has warned it will not allow the United States to ‘interfere’ in the management of the Strait of Hormuz.
-
-## Artist sews names of Gaza children killed by Israel into gown
-Welsh artist Diana Williams stitched the names of 300 babies killed by Israel’s genocidal war on Gaza into a gown.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
