@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## US appeals court revives lawsuits linking painkiller Tylenol to autism
+Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
+
+## Shell sells Indian wind and solar business for $1.8bn
+Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
+
+## What will Burnham do on immigration?
+Likely next prime minister is looking to satisfy calls for tougher borders while appealing to Labour’s liberal supporters
+
+## Democratic states sue to block Paramount’s $110bn WBD acquisition
+Lawsuit could delay deal and cost studio tens of millions of dollars
+
 ## Yemen’s Houthis accuse Saudi Arabia of attacking international airport
 Militant group threatens retaliation for assault apparently aiming to prevent Iranian aircraft from landing
 
@@ -12,26 +24,8 @@ From Ottoman sultans to Danish kings, Iran’s toll system for Strait of Hormuz 
 ## El Salvador’s Bukele set to run for third term
 Authoritarian leader wins party primary unopposed
 
-## The deceptive promises of America’s democratic socialists
-The way forward for the party is not to swing to the left
-
 ## Why Mastercard is playing the polite guest in the UK
 The card giant is considering making a strategic exit — by selling a majority stake in payments subsidiary Vocalink
-
-## Burnham will struggle to exorcise Labour’s historic weakness
-History shows us that the party will default to over-optimism and spending money that isn’t there
-
-## Hungary’s MPs oust president in purge of Orbán loyalists
-Prime Minister Péter Magyar calls Tamás Sulyok a ‘puppet’ of illiberal former leader in speech to parliament before vote
-
-## Shell sells Indian wind and solar business for $1.8bn
-Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
-
-## Democratic states sue to block Paramount’s $110bn WBD acquisition
-Lawsuit could delay deal and cost studio tens of millions of dollars
-
-## US appeals court revives lawsuits linking painkiller Tylenol to autism
-Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
 
 ## US quantum computing needs a national buyer
 Washington’s demand signal could do for the technology what early defence contracts did for silicon
@@ -90,6 +84,9 @@ India's merchandise imports surged thirty-one percent year-on-year in June. Expo
 ## 'Completely false and misleading': Piyush Goyal rebuts report of India holding up US trade pact
 
 
+## AAP says northeast Delhi riots convict Tahir Hussain has no association with party since 2020 suspension
+The BJP, meanwhile, slammed the AAP following Hussain's conviction, with several leaders calling on AAP leaders to apologise for their association with him.
+
 ## Over 1,600 illegal Bangladeshis repatriated from Assam in 2 years: Himanta Biswa Sarma
 Sarma said a total of 1,679 illegal immigrants have been repatriated (deported/sent back/expelled) from Assam to Bangladesh in the last two years
 
@@ -111,8 +108,14 @@ While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Z
 ## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
 The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
-## ‘My intention was never…’: Top vlogger Sourav Joshi's U-turn on E20 after Mercedes clarification
-Sourav Joshi's statement comes after Mercedes-Benz India issued an advisory stating that all its BS VI petrol vehicles are fully compatible with E20 petrol.
+## Man claims US Navy past, caught near Nepal border with Chinese passport
+
+
+## 100 cars, ponies, miniature waterfalls: Inside Yohan Poonawalla’s 7.5-acre Pune mansion
+
+
+## In Prashant Kishor’s election affidavit, Rs 96 crore in own assets, wife’s assets worth Rs 101 crore
+
 
 ## Video: Saudi Arabia strikes Yemen airport to block Iranian flight, Houthis vow revenge
 
@@ -120,22 +123,13 @@ Sourav Joshi's statement comes after Mercedes-Benz India issued an advisory stat
 ## College student says five assaulted, attempted to run him over at Chandigarh nightclub
 
 
-## ‘Crossing that drain broke us’: Intelligence Bureau staffer’s family after Delhi riots verdict
+## ‘Targeted for being Hindu’: Intelligence Bureau staffer’s family after Delhi riots verdict
 
 
 ## Moshi collapse: Antony Waste Group announces Rs 25 lakh aid for each victim’s family
 
 
 ## In emotional speech after supporters’ protest, Narottam Mishra backs BJP’s Datia candidate
-
-
-## 9 killed in Moshi mishap: Garbage depot head among 2 charged with negligence
-
-
-## CSK and Stephen Fleming end 18-year partnership, MS Dhoni’s role in focus
-
-
-## Maharashtra Government orders high-level probe into Pune building collapse
 
 
 ## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
@@ -153,7 +147,7 @@ After China’s cross-border deals for innovative drugs hit a record US$110 bill
 ## Chairman of global tech brand TCL sees digital future in ‘Screen Universe’
 Li Dongsheng, founder and chairman of TCL – a global technology brand serving users across more than 160 countries and regions – was among the speakers at the World Economic Forum’s Annual Meeting of the New Champions last month. Under the theme, “Innovating at Scale”, the forum, also known as “Summ
 
-## The new space race: how China plans to break SpaceX’s launch monopoly with IPO push
+## How China plans to break SpaceX’s launch monopoly with IPO push in new space race
 To challenge the global launch market dominance of Elon Musk’s SpaceX, Beijing is adopting a coordinated, multi-company “wolf-pack” strategy fuelled by recent engineering breakthroughs in reusable rocketry. The milestones come as a wave of aerospace firms push to secure the capital needed to scale o
 
 ## What Labubu fatigue? Billionaire investor doubles down on Pop Mart stake
@@ -186,29 +180,32 @@ The Lithuanian curators working to protect paintings from Putin.
 ## The CIA’s First Failed Coup
 Kim Philby, parachute drops, and what really happened in communist Albania.
 
+## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
+The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
+
+## Afghanistan’s Former Spy Chief on Russia, China, and the Taliban’s Legitimization Strategy
+Masoud Andarabi, previously Afghanistan’s interior minister, says that “Afghans will see the world through Chinese algorithms.”
+
+## Expanding Export Control to ‘Remote Access’ May Backfire on US AI Ambitions
+The proposed Remote Access Security Act (RASA) could end up delivering Chinese cloud operators the opportunity to displace U.S. tech around the world.
+
+## E20 Debate Reveals India’s Uneven Energy Transition Trade-offs
+India’s ethanol push boosts energy security and farm incomes, but consumers remain unconvinced amid mileage and price concerns.
+
+## South Korea and Mongolia Enter a ‘Golden Era’ of Partnership
+Lee’s state visit emphasized a new level of Mongolia-South Korea ties in a changing regional geopolitical environment.
+
+## 10 Years Ago, the Philippines Won a Major Victory in the South China Sea. Did It Matter?
+What did the arbitral tribunal's award actually achieve?
+
 ## ASEAN Foreign Ministers Hold ‘Icebreaker’ Meeting With Myanmar Counterpart
 The Southeast Asian bloc reaffirmed its adherence to its Five-Point Consensus initiative, which was last week rejected by Myanmar’s military-dominated parliament.
 
 ## Malaysian PM’s Coalition Suffers Significant Defeat in Johor State Election
 Barisan Nasional, the Grand Old Party of Malaysian politics, has been aided by a growing disillusionment with Anwar's leadership and discord among its Malay-Muslim rivals.
 
-## Debate in Delhi on Trump, Trust, and Strategic Choices
-Are India’s fraying relations with the US transient, or do they represent a fundamental rupture with long-term impacts on US-India relations and India’s growth story?
-
-## Space Technology is Redefining Maritime Security in South Asia
-The future of maritime security in the Indian Ocean will be defined not by control of sea lanes alone, but by the ability to monitor, interpret, and act in real time.
-
-## What the Pentagon’s CMC List Means for China-US Relations
-The new list of Chinese Military Companies includes some of China’s best-known private firms: Tencent, DJI, Unitree, and Alibaba.
-
-## India and Australia Are Reshaping What It Means To Be Strategic Partners
-Amid power shifts in the Indo-Pacific, there is greater realization in both countries of each other’s value as a stable, reliable partner.
-
-## Israel’s Pivot to Asia
-Israel's reliance on longstanding partnerships with the United States and a handful of European countries is no longer sufficient. But can it build durable relationships in Asia?
-
-## BNP’s First 100 Days Raise Troubling National Questions
-Political exclusion, economic uncertainty, security concerns, and diplomatic imbalance mark Prime Minister Tarique Rahman’s fledgling regime.
+## Big Promises, Bigger Blind Spots for Ukraine’s Security
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East
 On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission’s goals was the overthrow of the Islamic Republic. “When we are finished,” Trump told the Iranian people, “take over your government. It
@@ -230,9 +227,6 @@ Mali is not Syria, and Jama’at Nusrat al-Islam wal-Muslimin is not Hay’at Ta
 
 ## A Fresh Look at the Houthi Threat to Maritime Shipping
 In 2024, Allison Minor wrote, “Solving the Houthi Threat to Freedom of Navigation,” where she argued the international response to Houthi attacks on shipping in the Red Sea has so far been inadequate and proposed a U.N.-led solution. Two years later, with global attention once again focused on marit
-
-## The Davis Wing, the B-24 Liberator, and the Self-Made Bet That Paid Off
-The most produced American military aircraft of World War II was not a small fighter, a trainer, or a simple utility airplane — it was a complex four-engine heavy bomber called the B-24 Liberator. Over the course of five years, American industry produced a staggering 18,482 of these bombers, and the
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup: Five biggest controversies of the 2026 tournament
+Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.
+
+## Trump administration vows to ‘disable’ International Criminal Court
+US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.
+
+## UK to list Iran’s IRGC as ‘terror’ threat
+London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.
+
+## How Lyhanna’s murder case is shedding light on child abuse in France
+The rape and murder of 11-year-old Lyhanna exposed years of alleged police and judicial failures in France.
+
+## Staff at DR Congo Ebola centre strike as virus continues spreading
+Walkout over late payments comes as public health officials confirm that the virus has reached two more provinces.
+
 ## Bangkok pub fire kills 27, wounds dozens: What we know
 The blaze – one of Thailand’s worst in recent history – also injured more than 70 people, many of them critically.
 
@@ -266,21 +275,6 @@ The scheme falls critically short of the $71bn reportedly needed for Gaza's reco
 
 ## Person killed in shooting involving ICE agents in US state of Maine
 State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.
-
-## US imposes new sanctions on Cuba tourism ministry, state-owned companies
-The US Treasury Department posted the new directive on its website on Monday.
-
-## Anti-terror police take over probe into death of UK politician Widdecombe
-A 28-year-old man has been re-arrested on suspicion of the commission, preparation or instigation of acts of terrorism.
-
-## India thrash England in historic first women’s cricket Test match at Lord’s
-England, setting record-breaking target of 457 for victory, are dismissed for 186 shortly before lunch on the final day.
-
-## Trump: US will ‘take over’ Strait of Hormuz
-President Donald Trump has said the US will ‘take over’ the Strait of Hormuz, accusing Iran of breaking the deal.
-
-## Iraqi PM heads to US seeking balance between security and economy
-PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
