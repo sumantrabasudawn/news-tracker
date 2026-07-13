@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Oil surges past $80 on Trump threat to impose 20% Hormuz fee
+President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels
+
+## Mexican food chain Chipotle takes its burritos and bowls to Mexico
+Company expands in international push as domestic sales growth slows amid high inflation
+
+## Yemen’s Houthis fire missiles at Saudi Arabia
+Four-year truce under threat as pro-Iran militants respond to strike on Sana’a International Airport
+
+## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
+Ruling casts doubt on whether president and his family can benefit from immunity deal
+
 ## US appeals court revives lawsuits linking painkiller Tylenol to autism
 Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
 
@@ -12,29 +24,14 @@ Likely next prime minister is looking to satisfy calls for tougher borders while
 ## Democratic states sue to block Paramount’s $110bn WBD acquisition
 Lawsuit could delay deal and cost studio tens of millions of dollars
 
-## Yemen’s Houthis accuse Saudi Arabia of attacking international airport
-Militant group threatens retaliation for assault apparently aiming to prevent Iranian aircraft from landing
-
-## Top Fed official warns ‘hot’ inflation could trigger rate rise
-Christopher Waller says a further elevated reading may prompt central bank to tighten policy
-
 ## Fees for seas: a history of taxing waterways
 From Ottoman sultans to Danish kings, Iran’s toll system for Strait of Hormuz revives an old maritime fight
-
-## El Salvador’s Bukele set to run for third term
-Authoritarian leader wins party primary unopposed
 
 ## Why Mastercard is playing the polite guest in the UK
 The card giant is considering making a strategic exit — by selling a majority stake in payments subsidiary Vocalink
 
 ## US quantum computing needs a national buyer
 Washington’s demand signal could do for the technology what early defence contracts did for silicon
-
-## Dubai plans new port to bypass Strait of Hormuz
-Project to build capacity on UAE’s east coast represents a major shift after US-Iran war
-
-## De Beers halts output at South African diamond mine as weak prices weigh on sale
-Anglo American looks to sell diamond business as competition from lab-grown stones intensifies
 
 ## Teacher deployment gaps persist as many schools report no students or just one teacher
 The UDISE+ data show that 5,663 schools across the listed States and Union Territories reported zero enrolment
@@ -108,6 +105,9 @@ While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Z
 ## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
 The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
+## ‘Was helping citizens, had no grudge against doctor’: Shiv Sena corporator seeks bail
+
+
 ## Man claims US Navy past, caught near Nepal border with Chinese passport
 
 
@@ -127,9 +127,6 @@ The injured personnel have been admitted to the Christian Institute of Health Sc
 
 
 ## Moshi collapse: Antony Waste Group announces Rs 25 lakh aid for each victim’s family
-
-
-## In emotional speech after supporters’ protest, Narottam Mishra backs BJP’s Datia candidate
 
 
 ## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
@@ -252,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UK arrests 12 over extreme right-wing ‘terror’ threat to Muslim event
+Arrests come against a backdrop of rising racial tensions and hate crimes across Britain.
+
+## Spanish PM visits site of deadly wildfire
+Spain’s Prime Minister, Pedro Sanchez met with firefighters and emergency crews who battled a wildfire in Almeria.
+
+## US judge voids Trump’s IRS settlement, alleges self-dealing
+Judge rules that US president, Department of Justice misused courts in settlement that led to 'anti-weaponization' fund.
+
+## UK designates IRGC as terrorist organisation
+The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.
+
+## Locked exits, burning decor: inside Bangkok’s deadly pub fire
+Survivors recount the horror after a deadly blaze engulfed a popular pub on a busy street in Bangkok.
+
 ## FIFA World Cup: Five biggest controversies of the 2026 tournament
 Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.
 
@@ -260,21 +272,6 @@ US State Department ups pressure campaign on international tribunal, threatening
 
 ## UK to list Iran’s IRGC as ‘terror’ threat
 London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.
-
-## How Lyhanna’s murder case is shedding light on child abuse in France
-The rape and murder of 11-year-old Lyhanna exposed years of alleged police and judicial failures in France.
-
-## Staff at DR Congo Ebola centre strike as virus continues spreading
-Walkout over late payments comes as public health officials confirm that the virus has reached two more provinces.
-
-## Bangkok pub fire kills 27, wounds dozens: What we know
-The blaze – one of Thailand’s worst in recent history – also injured more than 70 people, many of them critically.
-
-## EU unveils $1bn fund for Gaza war recovery
-The scheme falls critically short of the $71bn reportedly needed for Gaza's recovery over the next 10 years.
-
-## Person killed in shooting involving ICE agents in US state of Maine
-State lawmaker says one person was killed by immigration agents in Biddeford, days after another ICE shooting in Texas.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
