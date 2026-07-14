@@ -63,6 +63,9 @@ Balancing equal representation and federalism amid impending seat redistribution
 ## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
 Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
 
+## India moves to block imports linked to forced labour amid USTR probe
+India is inserting a new clause into its foreign trade policy. This clause will allow blocking imports produced using forced labour. The government will use the International Labour Organisation's definition of forced labour. This move strengthens India's legal framework for trade negotiations. The 
+
 ## US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%
 US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It also targets Russia's shadow fleet and fina
 
@@ -83,9 +86,6 @@ India's government has launched a new Index of Services Production. Fourteen of 
 
 ## US stocks today: Wall Street trades in green; stocks steady as US inflation data better than expected
 The market drew support from declining bond yields after data showed US consumer prices rose 3.5 per cent in June compared with a year earlier, reflecting higher costs for gasoline, food and other everyday items.
-
-## Trump’s 'guardian' fee: How much would a supertanker have to pay to cross Strait of Hormuz?
-Unlike man-made canals such as the Suez and Panama, which are sovereign infrastructure and levy substantial transit tolls, most natural international waterways - including the Strait of Hormuz, Strait of Malacca, Taiwan Strait, Strait of Gibraltar and Cape of Good Hope—generally do not charge transi
 
 ## Spiritual leader Dhirendra Shastri's brother, 3 others booked for assault over land dispute
 Shastri, the head of Bageshwar Dham, a religious centre, said if his brother is found guilty, he should be punished according to the law.
@@ -111,29 +111,32 @@ The ED launched its probe in 2022 based on FIRs registered by police in Chhattis
 ## Odisha CID arrests former SCERT director in school textbook error case
 Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
-## India through art of a remarkable early Victorian woman, now on display in Delhi
+## CM meets Union Minister Shivraj Chouhan Centre approves one lakh rural houses, allocates Rs 1,000-cr for 2400 km roads
 
 
-## Before Tahir Hussain’s conviction, judicial panel visited scene of crime
+## If UP can, why can’t we?: CM launches plantation drive, pitches for coconut
 
 
-## Court relies on the testimony of key witness to convict four and acquit two
+## Shaheedi’ memorial to be built at Harike Pattan, says Akal Takht Jathedar amid ‘Satluj’ row
 
 
-## 1 in 10 government school buildings in Delhi ‘unsafe’, ‘dangerous’; seven may be razed soon
+## Court sentences convict in 2020 IS-linked terror plot to 7 years in prision
 
 
-## Delhi government set to distribute free cycles to Class 9 girls from July-end
+## Amid Satluj row, focus on strength of judiciary and role Justice Kuldip Singh played
 
 
-## Hours after he murdered his wife on her b’day, Delhi Police constable kills self
+## Civic body launches pilot project to cut noise pollution in Ahmedabad
 
 
-## Ankit Sharma’s murder during 2020 northeast Delhi riots: ‘Savage and relentless assault’ on IB staffer, says court on Tahir Hussain’s conviction
+## ‘Right to vote has nothing to do with delimitation’: Supreme Court refuses to hear plea
 
 
-## Delhi introduces single-machine: ‘Spray, Injection, Patching’ method to repair potholes under 5 minutes
+## After July 7 deluge, one billion litre water pumped out of Surat basements
 
+
+## Hong Kong urged to pave path for Greater Bay Area firms going global
+Hong Kong has been urged to carve out a pivotal role helping Greater Bay Area companies navigate overseas expansion, as supply chain relocation and geopolitical pressures reshape trade routes. Speakers at the Greater Bay Area Global Business Expansion Summit on Tuesday highlighted the city’s strengt
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
 Louis Vuitton is set to face off against China’s trademark regulator in a Chinese intellectual property court on Thursday, as the French luxury brand deals with public backlash in China over a separate legal battle against a local milk tea brand. Louis Vuitton Malletier filed the administrative laws
@@ -156,8 +159,8 @@ The Evergrande debt crisis exposed vulnerabilities in China’s property sector,
 ## How Yung Kee and other Hong Kong heritage brands innovate to thrive in challenging times
 From franchising to diversification, Hong Kong’s heritage brands and long-running family businesses are looking for ways to navigate challenging times amid changing consumption patterns and soaring costs. Second- and third-generation stewards of three local brands – charcoal-roasted goose restaurant
 
-## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
-The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
+## China Wants to Regulate AI Companions
+With the latest rules, Beijing hopes to rein in a booming industry.
 
 ## Trump Pivots His Strait of Hormuz Strategy—Again
 Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
@@ -179,9 +182,6 @@ At a perilous moment, Washington is smart to invest in a bigger defense budget.
 
 ## AOC Meets World
 The congresswoman’s rise was powered mostly by domestic issues. But she is slowly expanding to foreign affairs.
-
-## Trump Is Taking a Page Out of Iran’s Playbook
-The White House vows to charge all commercial ships passing through the Strait of Hormuz.
 
 ## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
 Australia and India are framing new minilateral coalitions to maximize their strategic options.
