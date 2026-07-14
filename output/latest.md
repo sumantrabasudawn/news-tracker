@@ -1,70 +1,70 @@
 # AION Intelligence
 
-## Oil hits $85 as battle for Strait of Hormuz alarms energy markets
+## FirstFT: Chinese car exports surge
+Also in today’s newsletter: oil surges above $85 a barrel and Wall Street’s ‘Super Tuesday’
+
+## DeepSeek weighs new fundraising a month after closing first round
+Unusually swift pace of capital injection comes as Chinese AI start-up seeks to build out infrastructure
+
+## The payments darling in Trump’s crosshairs
+US tariff threats against Brazil over payments platform Pix provoke a political storm ahead of elections
+
+## We are not on course for a Nato divorce — yet
+The best possible case is US support in the short term and European rearmament over the next two to three years
+
+## Wall Street to report bumper quarter as dealmaking returns
+Goldman Sachs, JPMorgan Chase, Bank of America, Citigroup and Wells Fargo all have results on Tuesday
+
+## Oil hits $87 as battle for Strait of Hormuz alarms energy markets
 Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
 
-## India presses banks to court diaspora’s deposits as rupee weakens
-Foreign exchange reserves have dwindled by $54bn since start of Iran war
+## ECB recruits digital euro critics for pilot
+Deutsche Bank, DZ Bank and Groupe BPCE among 36 institutions selected for test of digital currency next year
 
-## How QE changed banks, and why that makes QT dangerous
-An interview with Jill Cetina
-
-## US launches air strikes as Iran targets tankers with cruise missiles
-Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz
-
-## Serbia’s Vučić urges EU to admit Western Balkan states as a group
-Also in this newsletter: the EU is not doing enough to shield farmers, says Spain’s agriculture minister
-
-## You should be glad your boss is so well paid
-Because it probably means you’re being paid well too
-
-## FirstFT: US retaliates after Iran hit tankers with missiles
-Also in today’s newsletter: Nvidia halves Asia buyer list and Rothschild’s UK investment bank
-
-## China’s growth: five things to watch as economic pressure mounts
-Monthly indicators show weakness in retail sales and investment ahead of second-quarter figure
+## UK borrowing costs hit highest level since May as oil surges
+Ten-year yield back above 5% just days before Andy Burnham set to become prime minister
 
 ## Watches of Switzerland defies luxury slowdown with strong US sales
-Retailer of high-end timepieces reports 13% jump in sales to £1.83bn
+High-end timepieces retailer reports 13% jump in sales to £1.83bn
 
 ## BP cuts net debt after Iran war drives oil price surge
 Higher prices help cut borrowing as oil major tries to show financial discipline under new boss
 
-## SoftBank’s Son ridicules AI critics for ‘spitting upwards’
-Business leaders unwilling to embrace technology ‘should play the role of spouse’, says controversial investor
+## How QE changed banks, and why that makes QT dangerous
+An interview with Jill Cetina
 
-## Silicon shadows: inside the black market for AI chips | FT Film
-As the US tightens export controls, a thriving black market is helping advanced AI semiconductors reach China
+## India to ban import of goods made using forced labour
 
-## AI and the new Mechanical Turk
-The evolution of the technology offers fresh opportunities for hoodwinkers and charlatans
 
-## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Madhya Bharat Agro & Dhampur Bio Organics profit up in Q1
+## Sensex today | Stock Market Live: Sensex ended at 77,054.94; Nifty 50 settled at 24,052.05
+Sensex, Nifty, Stock Price Live Updates: Sensex ended 561.46 pts or 0.72% lower at 77,054.94, and Nifty 50 settled at 24,052.05, down 158.95 pts or 0.66%.
+
+## Net direct tax collection grows over 16% so far in FY27
+Net corporate tax collection grew over 22% to around ₹2.40 lakh crore, while net non-corporate tax collection recorded increased around 12% to ₹3.85 lakh crore
+
+## Fresh low-pressure area over Bay to revive monsoon after weak spell
+The weak phase has widened rainfall deficits with the South Peninsula logging a deficit of 22% and Central India 8%, reversing gains made during last week’s heavy rains
+
+## Q1 Results Today Live: Jindal Saw Q1 PAT tumbles, LTTS, Tata Elxsi, Anand Rathi Share, Den Networks to announce Q1 results
 Q1 Results Today, 14th July 2026 Live Updates: Follow latest Q1 updates from businessline here
 
-## Income tax dept places ₹4 cr penalty on Titan over under-reporting allegations
-The department’s orders were passed on June 26th under the Section 270A of the Income Tax Act, 1961, alleging an “under-reporting of income” due to adjustments made to the company’s tax assessment
+## India's trade deficit may stay elevated amid West Asia risks, oil prices: Report
+While India’s exports have remained resilient, stronger import growth has widened the merchandise trade deficit
 
-## Sensex today | Stock Market Live: Sensex drops over 450 points; Nifty slips below 24,100
-Sensex, Nifty, Stock Price Live Updates: Indian equity markets traded lower on Tuesday, with the Sensex falling over 450 points, as escalating US-Iran tensions, Brent crude hovering around $85 a barrel, renewed FPI selling and persistent geopolitical uncertainty kept investors cautious despite resil
+## HCL Tech shares decline as unchanged FY27 guidance signals slower recovery
+Brokerages divided on the stock’s outlook following the results
 
-## India supports UN membership for Palestine: MEA
-India has been backing a vision of a "two-state" solution with Israel and Palestine living side by side in peace and security
+## Cement prices likely to stay flat in Q2FY27 as monsoon, rising costs squeeze margins: Report
+On the pricing front, gains remained modest despite rising energy and packaging costs, with cement prices increasing by up to 3 per cent q-o-q across regions
 
-## Iran jitters, Rupee slide keep Sensex, Nifty under pressure; HCL Tech, HDFC Life lead losses
-The Nifty Auto index was the worst-performing sector, down 1.4 per cent
+## China's exports surge 27% in June on AI boom, trade surplus widens to $125.6 billion
 
-## Government, LIC evaluate revised bids for IDBI Bank stake sale
-The strategic disinvestment, valued at around $5.7 billion, is expected to conclude within a month, subject to regulatory and procedural clearances
-
-## India’s wholesale inflation accelerates to 9.9% in June, driven by fuel costs
-West Asia crisis, effective Strait of Hormuz blockade and food price spillover lift WPI inflation sharply
-
-## AstraZeneca to license lung cancer drug from China's Dizal Pharmaceutical
-Under ‌the deal, Dizal is eligible to receive $600 million upfront and up to $900 million more based on clinical and sales milestones
 
 ## US-Iran war hits home: WPI inflation rises to 9.87%; food prices see spike
 It reflects the impact of the West Asia conflict and the effective blockade of the Strait of Hormuz, a key route through which most of India's crude oil imports arrive, along with the resulting spillover into food prices.
+
+## Sensex closes 561 points lower at 77,054; Nifty settles at 24,052
+
 
 ## Amid Trump’s blockade threats, how Iran is quietly sneaking oil tankers through Strait of Hormuz
 According to ship-tracking data, six US-sanctioned supertankers with a carrying capacity of 12 million barrels of crude combined have crossed the Strait of Hormuz into the Gulf of Oman over the past week while keeping their transponders switched off.
@@ -78,62 +78,65 @@ Gold price prediction today: Gold prices will continue to be influenced by devel
 ## Rupee slips past 96 against US dollar for first time since May as oil prices soar again
 
 
-## Stock Market Live Updates: Sensex plunges over 500 points, Nifty slips below 24,100 as US-Iran tensions escalate
-
-
 ## Top stocks to buy today: Stock market recommendations for July 14, 2026 - check list
 Stock market recommendations: Divi's Laboratories, Bajaj Finserv, Bharat Forge, and Coforge are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for July 14, 2026:
 
-## Oil prices today: Crude surges to one-month high as US-Iran conflict escalates
+## PM Modi hailed by ‘Man vs Wild’ host: When the episode led to row amid Pulwama terror attack in 2019
+The Congress had alleged that PM Modi continued shooting with Bear Grylls for the show even after knowing about the Pulwama attack; govt, BJP denied this.
+
+## No rift in NCP, Sachchidanand Singh's letter carries no weight, says Praful Patel
+On Monday, Praful Patel said it is difficult to fill the vacuum created by the demise of Ajit Pawar, even as he stressed for "corrective steps" by the NCP.
+
+## Trees Don’t Just Fall. They Are Failed by Cities.
+The high court has described a tree as “a living being” and emphasised that solitary mature trees deserve the highest degree of protection
+
+## Punjab: Man accused in 2020 sacrilege case hacked to death
+Mewa Singh was at home with his family when the assailant allegedly scaled the boundary wall, entered the house, and attacked him. He succumbed to his injuries.
+
+## Calcutta HC seeks details from ED on TMC’s frozen bank accounts
+The court appointed retired judge Subrata Talukdar as special officer till September 30 to supervise the use of accounts.
+
+## Affair, murder and body parts dumped in forest: How Navi Mumbai man was killed by wife, her lover
+The body parts were allegedly dumped at different spots in the dense Gawli Dev hill forest area in Navi Mumbai.
+
+## 7 Indian vessels with 148 Indian seafarers remain in Persian Gulf: A Strait of Hormuz status check
+On Tuesday, an Indian seafarer was killed and six others were injured when missiles struck two Emirati oil tankers crossing the Strait of Hormuz.
+
+## Sonam Wangchuk gets big political backing amid hunger strike: Check names
+Wangchuk joined the already ongoing CJP agitation on June 28 and has remained on an indefinite hunger strike since then.
+
+## Supreme Court pulls up Samay Raina, Ranveer Allahbadia over non-compliance of order
 
 
-## Bihar father-son duo find ₹1,500 crore in accounts during bank visit for pension, then a twist
-Kameshwar Mishra, who receives a monthly social security pension of ₹1,100, noticed the unusually high balance when he visited the bank.
-
-## Supreme Court seeks status report over alleged assault of Delhi lawyer
-The Supreme Court sought a report on the investigation and whether any action was taken on the subsequent complaint about a threat
-
-## How the Iran war turned deadly for Indian sailors: List of seafarers killed since US-Israeli attacks
-An Indian sailor was killed after Iranian missiles hit two UAE oil tankers. India has now summoned Iran's deputy chief of mission Mohammad Javad Hosseini.
-
-## Myanmar to India: Northeast emerges as the new gold smuggling corridor
-Officials say the Northeast is no longer viewed merely as a border entry point but as a carefully organised transit network
-
-## Crude oil today: US-Iran conflict puts pressure on global energy market | Check petrol, diesel prices in India
-Brent crude, the global oil benchmark, quoted 1.63 per cent higher at USD 84.60 per barrel. Check petrol and diesel prices in some of the major Indian cities.
-
-## No murder, affair proof: SC clears woman of killing husband after 19 years
-The Supreme Court exonerated the woman, Monika Kiran Suryawanshi, ruling that suspicion, however grave, cannot replace legal proof
-
-## Dowry taunts, mother-in-law ‘wanted full salary’: Big claims by family of woman shot dead by cop husband in Delhi
-The accused is her husband Manish Bhati, a Delhi Police constable posted with the Anti-Auto Theft Squad of the East district.
-
-## 'Best ones are never loudest': Bear Gyrlls' ‘most powerful leader’ shoutout to PM Modi
-Grylls' post comes seven years after his Man vs Wild episode with PM Modi, which was filmed in Uttarakhand's Jim Corbett National Park.
-
-## Flight cancellation during monsoon: What passengers can claim from airlines
+## Surat lawyer representing minor girl arrested for allegedly raping her
 
 
-## Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models
+## Charged Rs 100 extra by shop on MRP for T-shirt, Punjab man wins Rs 8,000 payout
 
 
-## Knowledge Nugget | SpaceX’s latest launch raises a question: What powers satellites?
+## What a mango can teach us about escaping the hustle culture
 
 
-## Two Covid deaths in Andhra, eight cases: Is this a cause for concern?
+## England vs Argentina, London vs Buenos Aires: Football’s greatest cultural duel
 
 
-## Non-bailable warrant against Hafiz Saeed paves way for Pahalgam attack trial in absentia
+## Kiku Sharda says 70% of Kapil Sharma’s show is scripted: ‘Salman Khan impossible to predict’
 
 
-## Rohit Sharma and Virat Kohli return to England: their stunning ODI record on British soil
+## Mumbai rains: When will it shower again? Here’s what IMD says
 
 
-## Why Fahadh Faasil rejected Tom Cruise’s Digger: ‘Stay in US for 4 months, but wouldn’t pay’
+## Long before Supreme Court ruling, how Ambedkar grappled with Assam’s citizenship question
 
 
-## Was fake silver worth Rs 500 crore offered at Vaishno Devi? Court seeks answers
+## As IPOs surge, Hong Kong’s audit regulator vows tougher scrutiny
+Hong Kong’s auditing watchdog has vowed to strengthen inspections of newly listed companies as a surge in initial public offerings raises concerns about the quality of financial reporting. The Accounting and Financial Reporting Council (AFRC), the city’s independent accounting regulator, said evalua
 
+## Hilton launches Tempo hotel brand amid expanding China travel demand
+Global hotel chain operator Hilton has introduced a new brand to China, a move an executive says reflects the company’s belief tourism will remain a strong growth engine in the world’s second-largest economy. The US hospitality group announced on Tuesday that its Tempo by Hilton lifestyle brand woul
+
+## Where is the priciest residential property? Hong Kong keeps crown, but livability drops
+Hong Kong has retained its position as the world’s most expensive residential property market despite a 10 per cent price decline from pre-pandemic levels, according to a new Deutsche Bank report warning that housing affordability continues to weigh on living standards. The investment bank lowered t
 
 ## 5 years after Evergrande, why a China think tank says stock market signals a turnaround
 The Evergrande debt crisis exposed vulnerabilities in China’s property sector, but a prominent Beijing-based macroeconomic think tank suggests the country may have already moved past the worst of the slump, with the nation’s stock market now supported by a “more favourable macro environment”. Accord
@@ -149,15 +152,6 @@ Facing anti-corruption policies and profit squeezing at home, Chinese innovative
 
 ## Hong Kong banks sweeten mortgage rebates as competition heats up amid property rebound
 Hong Kong banks are raising mortgage cash rebates to their highest levels in more than two years as they compete for a growing pool of homebuyers, betting generous incentives will help them win customers even as uncertainty over US interest rate hikes lingers. Major lenders including Bank of China (
-
-## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
-[The content of this article has been produced by our advertising partner.] Cheung Kong Center II (CKCII), one of the premier super Grade-A commercial properties in Cheung Kong Asset’s portfolio, has commissioned an iconic installation by Mr. David Griggs. A U.S. sculptor, Griggs has completed over 
-
-## Futu expects mainland brokerage business to shrink but vows to keep Hong Kong outlets
-Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by China’s securities regulator, said it expects a gradual fall off in mainland business but has no plan to cut Hong Kong outlets. Mainland Chinese-funded accounts had dropped to 13 per cent of its total and their combined s
-
-## China’s Midea dispatches 20,000 air conditioners in race to cool heat-stricken France
-Chinese home appliance giant Midea says it has rushed production and shipment of 20,000 air conditioners to France in just seven days to meet soaring demand fuelled by the intense heatwave across Europe. To speed up output, Midea doubled capacity to 6,000 portable air conditioners per day by opening
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
@@ -183,6 +177,21 @@ Nostalgia about the U.S. armed forces being above the partisan fray is not borne
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
 
+## Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims
+The visit comes amid a campaign by Naypyidaw to normalize its relations with the Association of Southeast Asian Nations (ASEAN) and its member states.
+
+## Ratings Agency Maintains Indonesia Credit Rating, Predicting Economic Recovery
+The news will no doubt come as a relief for the Prabowo administration, whose economic policymaking has spooked international investors.
+
+## Examining the Evolving Virtual Front of the Southern Thailand Insurgency
+Supporters of the separatist movement are using social media to reinforce grievances, propagate resistance narratives, and sustain support for the insurgency.
+
+## Indonesia’s Capital Problems
+The country needs something that works better than Jakarta, but at what cost?
+
+## India’s Expanding SSBN Force and What It Means for Pakistan
+As India’s expanding fleet of Arihant-class subs improves its second-strike capability, Islamabad has to pursue the development and deployment of its own SSBN force.
+
 ## Far More Than Ruins: Life in Engilcheck, Kyrgyzstan
 The ruins of Engilcheck, a Soviet-era mining boomtown in the Tien Shan mountains, are still home to a small but thriving community.
 
@@ -191,21 +200,6 @@ Modi’s visit signaled India’s willingness to strengthen ties with New Zealan
 
 ## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
 The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
-
-## Afghanistan’s Former Spy Chief on Russia, China, and the Taliban’s Legitimization Strategy
-Masoud Andarabi, previously Afghanistan’s interior minister, says that “Afghans will see the world through Chinese algorithms.”
-
-## Expanding Export Control to ‘Remote Access’ May Backfire on US AI Ambitions
-The proposed Remote Access Security Act (RASA) could end up delivering Chinese cloud operators the opportunity to displace U.S. tech around the world.
-
-## E20 Debate Reveals India’s Uneven Energy Transition Trade-offs
-India’s ethanol push boosts energy security and farm incomes, but consumers remain unconvinced amid mileage and price concerns.
-
-## South Korea and Mongolia Enter a ‘Golden Era’ of Partnership
-Lee’s state visit emphasized a new level of Mongolia-South Korea ties in a changing regional geopolitical environment.
-
-## 10 Years Ago, the Philippines Won a Major Victory in the South China Sea. Did It Matter?
-What did the arbitral tribunal's award actually achieve?
 
 ## A Return to Mass: Russian Force Expansion in the War with Ukraine
 Joseph Stalin famously said that quantity has a quality of its own. Yet the course of the Russo-Ukrainian War shows both the benefits and the eventual limitations of that approach. As the quantitative advantage grew on the Russian side, its ability to employ force at scale decreased. The resulting d
@@ -255,35 +249,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US military releases video of its latest strikes on Iran
-US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands.
+## Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League
+Alexander, who signed a two-way deal with the Jazz last week. was injured in game against Chicago Bulls.
 
-## Who will win the 2026 FIFA World Cup? Here’s what AI predicts
-Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men's World Cup champion.
+## What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?
+Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran.
 
-## Bangkok bar fire death toll rises to 30 as police probe possible negligence
-Thailand authorities say that 24 people remain in critical condition in hospital after the blaze at a pub.
+## Argentina war vets urge focus on football for England World Cup semifinal
+One of sport's great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition's semifinal.
 
-## With US-Iran trust broken again, can Pakistan bring them back to talks?
-Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.
+## ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?
+More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power.
 
-## Why is India blocking film on a man who counted Punjab insurgency killings?
-Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.
+## Emir of Qatar receives condolences on the death of the Father Emir
+Condolences from several government leaders, who expressed their sincere sympathy to Qatar, its leadership and people.
 
-## Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira
-US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran
+## FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction
+France face Spain in the first World Cup semifinal, as Argentina prepare to renew their rivalry with England.
 
-## ‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks
-A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.
+## US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?
+While Trump has threatened to hit targets in Iran including Pickaxe Mountain, he has said a deal is possible.
 
-## Birthday present for Spain’s Yamal? World Cup semifinal win over France
-Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York.
+## Photos: Wildfires ravage historic forest near Paris
+Wildfires near Paris scorch 1,300 hectares as France endures its third heatwave in three months.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
 
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
+
+## CBIC allows self-certification for origin declarations under India-UK CETA
+The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular operationalising the self-certification framework for origin declarations under the India-UK Comprehensive Economic and Trade Agreement (CETA), which comes into force on July 15, 2026. The move replaces the conventional sys
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
@@ -299,9 +296,6 @@ India's top 100 cities together account for nearly one-third of the country's co
 
 ## CBIC ends manual paperwork for duty free import containers. Here's what changes
 The CBIC has removed manual documentation for duty-free imported containers. This move digitizes customs processes and reduces paperwork at Indian ports. Shipping lines will now use electronic reports for container re-export monitoring. The new system enhances ease of doing business and supports por
-
-## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
-KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
 
 ## SEBI introduces stricter service rules, investment norms for employees
 The Securities and Exchange Board of India (SEBI) has tightened its employee conduct framework by notifying sweeping changes to its service regulations, introducing stricter conflict-of-interest safeguards, tighter investment restrictions and enhanced disclosure requirements.
