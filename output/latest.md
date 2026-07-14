@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Oil hits $85 as battle for Strait of Hormuz alarms energy markets
+Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
+
+## India presses banks to court diaspora’s deposits as rupee weakens
+Foreign exchange reserves have dwindled by $54bn since start of Iran war
+
 ## How QE changed banks, and why that makes QT dangerous
 An interview with Jill Cetina
 
@@ -18,11 +24,11 @@ Also in today’s newsletter: Nvidia halves Asia buyer list and Rothschild’s U
 ## China’s growth: five things to watch as economic pressure mounts
 Monthly indicators show weakness in retail sales and investment ahead of second-quarter figure
 
-## The political fast lane keeps making the same scandal mistake
-A story might be reported to no great acclaim for months before it finally blows up in the public consciousness
+## Watches of Switzerland defies luxury slowdown with strong US sales
+Retailer of high-end timepieces reports 13% jump in sales to £1.83bn
 
-## Has Jane Fraser remade Citigroup?
-The bank outperformed peers over the past year but still has far to go to match the profitability of its bigger rivals
+## BP cuts net debt after Iran war drives oil price surge
+Higher prices help cut borrowing as oil major tries to show financial discipline under new boss
 
 ## SoftBank’s Son ridicules AI critics for ‘spitting upwards’
 Business leaders unwilling to embrace technology ‘should play the role of spouse’, says controversial investor
@@ -33,29 +39,38 @@ As the US tightens export controls, a thriving black market is helping advanced 
 ## AI and the new Mechanical Turk
 The evolution of the technology offers fresh opportunities for hoodwinkers and charlatans
 
-## Sensex today | Stock Market Live: Sensex drops over 350 points; Nifty slips below 24,130
-Sensex, Nifty, Stock Price Live Updates: Indian equity markets traded lower on Tuesday, with the Sensex falling over 500 points, as escalating US-Iran tensions, Brent crude hovering around $85 a barrel, renewed FPI selling and persistent geopolitical uncertainty kept investors cautious despite resil
-
-## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Madhya Bharat Agro Q1 profit up y-o-y
+## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Madhya Bharat Agro & Dhampur Bio Organics profit up in Q1
 Q1 Results Today, 14th July 2026 Live Updates: Follow latest Q1 updates from businessline here
 
-## ICICI Prudential AMC shares fall 2% after cost-led earnings miss; analysts stay bullish
-Despite the price pressure, brokerages have broadly maintained their constructive stance on the stock
+## Income tax dept places ₹4 cr penalty on Titan over under-reporting allegations
+The department’s orders were passed on June 26th under the Section 270A of the Income Tax Act, 1961, alleging an “under-reporting of income” due to adjustments made to the company’s tax assessment
 
-## India charts self-reliance roadmap in nuclear energy to meet 2070 net-zero goal
-A parliamentary panel reviewed plans to boost nuclear self-reliance through domestic R&D, uranium imports and faster expansion of nuclear and solar energy
+## Sensex today | Stock Market Live: Sensex drops over 450 points; Nifty slips below 24,100
+Sensex, Nifty, Stock Price Live Updates: Indian equity markets traded lower on Tuesday, with the Sensex falling over 450 points, as escalating US-Iran tensions, Brent crude hovering around $85 a barrel, renewed FPI selling and persistent geopolitical uncertainty kept investors cautious despite resil
 
-## Mahesh Kanchan appointed MD, India & Southeast Asia, Bacardi
-Kanchan, currently Managing Director, Southeast Asia, brings more than 30 years of experience, across both alcoholic beverages and FMCG industries
+## India supports UN membership for Palestine: MEA
+India has been backing a vision of a "two-state" solution with Israel and Palestine living side by side in peace and security
 
-## India receives revised bids from Fairfax, Emirates NBD for IDBI Bank stake sale
+## Iran jitters, Rupee slide keep Sensex, Nifty under pressure; HCL Tech, HDFC Life lead losses
+The Nifty Auto index was the worst-performing sector, down 1.4 per cent
 
+## Government, LIC evaluate revised bids for IDBI Bank stake sale
+The strategic disinvestment, valued at around $5.7 billion, is expected to conclude within a month, subject to regulatory and procedural clearances
 
-## Piyush Goyal meets Spanish Industry and Tourism Minister Jordi Hereu to strengthen bilateral trade, investment and manufacturing ties
-Addressing the India-Spain Business Forum, Goyal welcomed a proposal by Spain's Minister of Economy, Trade and Business, Carlos Cuerpo, to jointly prepare a roadmap for future economic cooperation
+## India’s wholesale inflation accelerates to 9.9% in June, driven by fuel costs
+West Asia crisis, effective Strait of Hormuz blockade and food price spillover lift WPI inflation sharply
 
-## Rupee breaches 96 as Trump’s Iran escalation sends crude soaring
-Currency hits 96.17 intraday, weakest since May 2026, as Brent jumps to $85/barrel
+## AstraZeneca to license lung cancer drug from China's Dizal Pharmaceutical
+Under ‌the deal, Dizal is eligible to receive $600 million upfront and up to $900 million more based on clinical and sales milestones
+
+## US-Iran war hits home: WPI inflation rises to 9.87%; food prices see spike
+It reflects the impact of the West Asia conflict and the effective blockade of the Strait of Hormuz, a key route through which most of India's crude oil imports arrive, along with the resulting spillover into food prices.
+
+## Amid Trump’s blockade threats, how Iran is quietly sneaking oil tankers through Strait of Hormuz
+According to ship-tracking data, six US-sanctioned supertankers with a carrying capacity of 12 million barrels of crude combined have crossed the Strait of Hormuz into the Gulf of Oman over the past week while keeping their transponders switched off.
+
+## Rupee back in red! Impact of RBI’s forex boost fades; currency breaches 96 versus dollar on rising crude prices
+The rupee has weakened by more than 0.8% so far in the current fiscal year. On Monday, the one-month forward premium on the rupee stood at 3.17%, whereas the one-year forward premium was 2.83%.
 
 ## Gold price prediction today: Will gold prices continue to fall? Check July 14, 2026 outlook
 Gold price prediction today: Gold prices will continue to be influenced by developments on the US-Iran conflict front in the near-term, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
@@ -72,62 +87,56 @@ Stock market recommendations: Divi's Laboratories, Bajaj Finserv, Bharat Forge, 
 ## Oil prices today: Crude surges to one-month high as US-Iran conflict escalates
 
 
-## HCLTech to up AI game, invest 3,500 crore in data centres of up to 50 MW
-HCLTech plans a significant investment in new AI data centers. This move targets growing demand for sovereign AI infrastructure. The company reported its first-quarter revenue figures on Monday. Revenue saw a slight sequential decrease but a year-over-year increase. This investment follows HCLTech's
+## Bihar father-son duo find ₹1,500 crore in accounts during bank visit for pension, then a twist
+Kameshwar Mishra, who receives a monthly social security pension of ₹1,100, noticed the unusually high balance when he visited the bank.
 
-## Supreme Court appoints ex-judge Rao to mediate Kalyani family feud
-The Supreme Court appointed a retired judge to mediate a family dispute. This mediation concerns over one lakh crore rupees in assets between Baba Kalyani and his sister. The court gave the parties two weeks to attempt a settlement. Earlier, the Bombay High Court refused to send the dispute to media
+## Supreme Court seeks status report over alleged assault of Delhi lawyer
+The Supreme Court sought a report on the investigation and whether any action was taken on the subsequent complaint about a threat
 
-## Sitharaman tells banks: Devise ways to sustain foreign currency deposits
-Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non-Resident Indians. She called for introducing innovative deposit products to sustain foreign currency deposit momentum. Banks reported significant interest from NRIs in several key global locations. Attractive returns are bein
+## How the Iran war turned deadly for Indian sailors: List of seafarers killed since US-Israeli attacks
+An Indian sailor was killed after Iranian missiles hit two UAE oil tankers. India has now summoned Iran's deputy chief of mission Mohammad Javad Hosseini.
 
-## India summons Iranian diplomats after sailor killed in attack on oil tankers
-As per the Ministry of External Affairs, these summons were issued over the recent attacks on merchant vessels in the Strait of Hormuz.
+## Myanmar to India: Northeast emerges as the new gold smuggling corridor
+Officials say the Northeast is no longer viewed merely as a border entry point but as a carefully organised transit network
 
-## Woman, 2 children found dead in Andhra village; cops probe murder-suicide angle
-According to preliminary investigations, the woman is suspected to have killed her two sons before taking her own life.
+## Crude oil today: US-Iran conflict puts pressure on global energy market | Check petrol, diesel prices in India
+Brent crude, the global oil benchmark, quoted 1.63 per cent higher at USD 84.60 per barrel. Check petrol and diesel prices in some of the major Indian cities.
 
-## SC refuses to cancel Lalu Prasad Yadav’s bail in fodder scam
-The court said it would be inappropriate to interfere with his liberty after six years and instead directed that the pending appeals be expedited
+## No murder, affair proof: SC clears woman of killing husband after 19 years
+The Supreme Court exonerated the woman, Monika Kiran Suryawanshi, ruling that suspicion, however grave, cannot replace legal proof
 
-## Bank, Bhopal management college officials booked for siphoning off scholarships
-The Central Bureau of Investigation (CBI) said 118 fraudulent bank accounts at UCO Bank’s Habibganj branch in were used for the fraud
+## Dowry taunts, mother-in-law ‘wanted full salary’: Big claims by family of woman shot dead by cop husband in Delhi
+The accused is her husband Manish Bhati, a Delhi Police constable posted with the Anti-Auto Theft Squad of the East district.
 
-## ‘Do you know he may die?’ 3 Idiots’ ‘Silencer’ speaks up for Sonam Wangchuk as hunger strike enters day 17
-Omi Vaidya made an emotional appeal, saying, "I don't want Phunsukh Wangdu to die," referring to the beloved character from 3 Idiots.
+## 'Best ones are never loudest': Bear Gyrlls' ‘most powerful leader’ shoutout to PM Modi
+Grylls' post comes seven years after his Man vs Wild episode with PM Modi, which was filmed in Uttarakhand's Jim Corbett National Park.
 
-## Himachal Pradesh: Pregnant buffalo gets new lease on life after 66 metal objects removed from stomach
-A detailed medical examination, blood tests and an ultrasound confirmed the presence of a large number of metallic foreign bodies in the animal's stomach.
-
-## Indian sailor killed in Iranian attack on oil tankers: UAE defence ministry
-Six Indian nationals were also injured when two oil tankers were targeted by Iranian missiles in the Strait of Hormuz, the UAE defence ministry said
-
-## ‘Govt doesn't care': Calls for Sonam Wangchuk to call off hunger strike grow; Mahua, Uddhav, Dipke issue appeals
-Today (Tuesday, July 14) marks the 17th day of Wangchuk’s hunger strike and 25th day of CJP protest against education minister Dharmendra Pradhan.
-
-## Centre summons Iran envoy to protest attack on Indian sailors
+## Flight cancellation during monsoon: What passengers can claim from airlines
 
 
-## Project head arrested, safety officer booked in Pune building collapse case
+## Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models
 
 
-## KCET 2026 provisional seat allotment result out, objection window closes today
+## Knowledge Nugget | SpaceX’s latest launch raises a question: What powers satellites?
 
 
-## As US-Iran tensions flare up, vessel transits through Hormuz crash to pre-MoU levels. Here’s why
+## Two Covid deaths in Andhra, eight cases: Is this a cause for concern?
 
 
-## ‘Opposites may attract, but…’: 5 daily habits of couples with lasting relationships
+## Non-bailable warrant against Hafiz Saeed paves way for Pahalgam attack trial in absentia
 
 
-## Trump’s blockade, oil shock, toll: Key questions answered on renewed Iran war
+## Rohit Sharma and Virat Kohli return to England: their stunning ODI record on British soil
 
 
-## ‘Not for private profit’: Court cancels transfer of 184 Rajasthan plots for marginalised group
+## Why Fahadh Faasil rejected Tom Cruise’s Digger: ‘Stay in US for 4 months, but wouldn’t pay’
 
 
-## Karnataka Lokayukta seeks governor’s nod to prosecute MLA Zameer Ahmed Khan
+## Was fake silver worth Rs 500 crore offered at Vaishno Devi? Court seeks answers
 
+
+## 5 years after Evergrande, why a China think tank says stock market signals a turnaround
+The Evergrande debt crisis exposed vulnerabilities in China’s property sector, but a prominent Beijing-based macroeconomic think tank suggests the country may have already moved past the worst of the slump, with the nation’s stock market now supported by a “more favourable macro environment”. Accord
 
 ## How Yung Kee and other Hong Kong heritage brands innovate to thrive in challenging times
 From franchising to diversification, Hong Kong’s heritage brands and long-running family businesses are looking for ways to navigate challenging times amid changing consumption patterns and soaring costs. Second- and third-generation stewards of three local brands – charcoal-roasted goose restaurant
@@ -149,9 +158,6 @@ Futu Holdings, the Nasdaq listed Chinese broker that was recently penalised by C
 
 ## China’s Midea dispatches 20,000 air conditioners in race to cool heat-stricken France
 Chinese home appliance giant Midea says it has rushed production and shipment of 20,000 air conditioners to France in just seven days to meet soaring demand fuelled by the intense heatwave across Europe. To speed up output, Midea doubled capacity to 6,000 portable air conditioners per day by opening
-
-## China’s drug industry pivots to AI-powered candidates to drive next wave of deals
-After China’s cross-border deals for innovative drugs hit a record US$110 billion in the first half of 2026, the sector is now pivoting towards artificial intelligence-powered candidates to drive the next wave of transactions. China accounted for about 30 per cent of all new drugs currently under de
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
@@ -201,6 +207,12 @@ Lee’s state visit emphasized a new level of Mongolia-South Korea ties in a cha
 ## 10 Years Ago, the Philippines Won a Major Victory in the South China Sea. Did It Matter?
 What did the arbitral tribunal's award actually achieve?
 
+## A Return to Mass: Russian Force Expansion in the War with Ukraine
+Joseph Stalin famously said that quantity has a quality of its own. Yet the course of the Russo-Ukrainian War shows both the benefits and the eventual limitations of that approach. As the quantitative advantage grew on the Russian side, its ability to employ force at scale decreased. The resulting d
+
+## Outgunned, But Not Outplayed: Iran’s Theory of Victory
+Nineteen weeks ago, Iran faced the combined might of the most powerful country in the world and the most advanced military in the Middle East. Today, it is dictating the terms of the peace.When the memorandum of understanding was signed last month, President Donald Trump declared, “The Deal with the
+
 ## Big Promises, Bigger Blind Spots for Ukraine’s Security
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -218,12 +230,6 @@ Joe Jewell left academia and his role directing hypersonic wind tunnels to overs
 
 ## The Pentagon’s AI Strategy Has a Funding Problem
 In the span of two weeks, the White House issued two of the most ambitious artificial intelligence directives in American history. On June 2, President Donald Trump signed an executive order mandating rapid AI adoption and hardened cyber defense across the government. Three days later, National Secu
-
-## Victory for al-Qaeda’s Affiliate in Mali Would be a Catastrophe
-Mali is not Syria, and Jama’at Nusrat al-Islam wal-Muslimin is not Hay’at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama’at Nusrat al-Islam wal-Mus
-
-## A Fresh Look at the Houthi Threat to Maritime Shipping
-In 2024, Allison Minor wrote, “Solving the Houthi Threat to Freedom of Navigation,” where she argued the international response to Houthi attacks on shipping in the Red Sea has so far been inadequate and proposed a U.N.-led solution. Two years later, with global attention once again focused on marit
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US military releases video of its latest strikes on Iran
+US Central Command has released video showing its latest wave of attacks reportedly hitting Iran's mainland and islands.
+
+## Who will win the 2026 FIFA World Cup? Here’s what AI predicts
+Al Jazeera put nine leading AI models to the test to predict the 2026 FIFA Men's World Cup champion.
+
+## Bangkok bar fire death toll rises to 30 as police probe possible negligence
+Thailand authorities say that 24 people remain in critical condition in hospital after the blaze at a pub.
+
+## With US-Iran trust broken again, can Pakistan bring them back to talks?
+Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.
+
 ## Why is India blocking film on a man who counted Punjab insurgency killings?
 Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.
 
@@ -261,18 +279,6 @@ A US trade expert says the US, Mexico, and Canada need to hold trilateral talks 
 ## Birthday present for Spain’s Yamal? World Cup semifinal win over France
 Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York.
 
-## Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths
-Mexico to formally ask prosecutors to file cases in US courts over its citizens' deaths in immigration operations.
-
-## Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport
-Yemen's Houthis say they struck Saudi Arabia's Abha airport in retaliation for a strike on Sanaa’s international airport
-
-## Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days
-Top court bars former President Jair Bolsonaro's son from visiting his father under house arrest over social media post.
-
-## ‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal
-French coach Deschamps says his team will be fully prepared for a midfield battle against the European champions.
-
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
 
@@ -282,9 +288,6 @@ Ministry's observations centre on who should issue the framework; ICAI pauses ro
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
 
-## CBIC ends manual paperwork for duty free import containers. Here's what changes
-The CBIC has removed manual documentation for duty-free imported containers. This move digitizes customs processes and reduces paperwork at Indian ports. Shipping lines will now use electronic reports for container re-export monitoring. The new system enhances ease of doing business and supports por
-
 ## RBI steps up scrutiny of Corporate India's foreign investments
 Indian banks are now mandated to disclose their anti-money laundering measures concerning international business partners. Corporations with overseas investments will relay this information to the Reserve Bank of India.
 
@@ -293,6 +296,9 @@ Hindustan Unilever and Dabur reduced permanent staff while others increased head
 
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
+
+## CBIC ends manual paperwork for duty free import containers. Here's what changes
+The CBIC has removed manual documentation for duty-free imported containers. This move digitizes customs processes and reduces paperwork at Indian ports. Shipping lines will now use electronic reports for container re-export monitoring. The new system enhances ease of doing business and supports por
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
