@@ -1,7 +1,19 @@
 # AION Intelligence
 
+## China’s monthly car exports surge past 1mn as overall trade soars
+World’s leading exporter now also second-largest importer, Beijing says
+
+## Nvidia halves Asia buyer list in China chip crackdown
+Tougher vetting in Singapore, Malaysia and Japan reflects Washington’s push to close export-control loopholes
+
 ## US launches air strikes as Iran targets tankers with cruise missiles
-Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights
+Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz
+
+## China’s vast air clean-up marred by wartime coal power surge
+FT analysis shows extent of enormous progress since ‘airpocalypse’ — and latest emissions increase
+
+## Dr Reddy’s runs into trouble with its weight-loss drug
+Also in this newsletter, the UK-India trade deal goes live this week
 
 ## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
 Ruling casts doubt on whether president and his family can benefit from immunity deal
@@ -15,122 +27,113 @@ Likely next prime minister is looking to satisfy calls for tougher borders while
 ## FirstFT: Investors cut back bets on Asia’s chipmakers
 Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup
 
-## Stocks and bonds drop as mounting US-Iran tensions spook investors
-Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
-
 ## US court revives lawsuits linking painkiller Tylenol to autism
 Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
 
 ## Oil surges past $80 on Trump threat to impose 20% Hormuz fee
 President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels
 
-## Mexican food chain Chipotle takes its burritos and bowls to Mexico
-Company expands in international push as domestic sales growth slows amid high inflation
+## Sensex today | Stock Market Live: Sensex drops nearly 400 points; Nifty slips below 24,150 at open
+Sensex, Nifty, Stock Price Live Updates: Indian equity markets opened lower on Tuesday, with the Sensex falling nearly 400 points and the Nifty slipping below 24,150, as escalating US-Iran tensions, elevated crude oil prices and renewed FPI selling weighed on investor sentiment.
 
-## Shell sells Indian wind and solar business for $1.8bn
-Aditya Birla Renewables takes on Shell’s renewable assets in India as energy major continues to refocus on oil and gas
+## China's exports surge 27% from year earlier as AI boom drives strong demand
+June’s export increase exceeded economists’ expectations, rising 19.4% year-on-year in May
 
-## Democratic states sue to block Paramount’s $110bn WBD acquisition
-Lawsuit could delay deal and cost studio tens of millions of dollars
+## A year after 'Nila', Kerala's HEX20 reaches space again
+Around 40 minutes after deployment, HEX20 received KOYO's first beacon signals, which were decoded by the SatNOGS amateur satellite community, confirming that the satellite was operational
 
-## Fees for seas: a history of taxing waterways
-From Ottoman sultans to Danish kings, Iran’s toll system for Strait of Hormuz revives an old maritime fight
+## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Bajaj Consumer Care, HCL Tech, ICICI Pru AMC shares in focus
+Q1 Results Today, 14th July 2026 Live Updates: Follow latest Q1 updates from businessline here
 
-## One in four social media posts is AI-speak
-LinkedIn and Medium top the list as AI-generated posts proliferate, says Pangram report
-
-## Teacher deployment gaps persist as many schools report no students or just one teacher
-The UDISE+ data show that 5,663 schools across the listed States and Union Territories reported zero enrolment
-
-## HCLTech to invest ₹3,500 crore on full-stack AI data centres in India
-Company’s Q1 FY27 net up 20% YoY to Rs.4,624 crore
+## India, EU to soon finish legal scrubbing of trade pact text: Goyal
+"India EU free trade agreement legal scrub should be over in another week or two, Goyal said while addressing the India-Spain Business Forum
 
 ## Aditya Birla Group acquires Sprng Energy in ₹17,200 crore deal
 The acquisition takes Aditya Birla Group’s renewable energy capacity to 9.3 GWp, positioning it as one India’s largest renewable energy players
 
-## Markets stage comeback amid global sell-off, IT earnings boost
-Nifty 50 closed at 24,211.65, up just 4.75 points or 0.02%, while the BSE Sensex ended at 77,616.40, gaining 47 points or 0.06%
+## Centre approves Puducherry’s ₹14,300-crore Budget for FY27
+The President has also cleared the annual financial statement to be tabled in the Union Territory’s Legislative Assembly
 
-## India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent
-Investment in aAuto has shrunk to $1.46 billion from nearly $2.8 billion in the first half; Q2 as deal volumes tumbled by 43 per cent as investors concentrated on mobility platforms
+## Amazon India signs MoU with Telangana govt to set up five Ashray centres in Hyderabad
+With the addition of the upcoming five centres, Amazon will operate a total of 14 Ashray centres in the city
 
-## CPI climbs to 4.4% in June, but experts predict August policy status quo
-The jump is mainly due to rising food prices and precious metals
+## Top stocks to buy today: Stock market recommendations for July 14, 2026 - check list
+Stock market recommendations: Divi's Laboratories, Bajaj Finserv, Bharat Forge, and Coforge are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for July 14, 2026:
 
-## Goods exports rise 15.5% in June
-Import surge pushes trade deficit to five-month high
-
-## Renewable energy boost: Aditya Birla Group to buy Shell-backed Sprng Energy; deal worth $1.8 billion
-The acquisition will bring nearly 5 gigawatt-peak (GWp) of contracted renewable energy capacity into ABRen's portfolio, comprising around 3.3 GWp of operational projects and another 1.7 GWp currently under construction. Following the transaction, ABRen's total portfolio will expand to about 9.3 GWp.
-
-## Donald Trump announces 20% toll on ships in Strait of Hormuz; to ‘reinstate’ Iran blockade
-Trump's announcement comes after another major exchange of fire cast fresh uncertainty over efforts to negotiate an end to the conflict. Before Iran asserted control over the Strait of Hormuz after the war began, about one-fifth of the world's oil and gas supplies moved through the strategic waterwa
-
-## Why Dubai's housing market slowed in 2026; sales fell 16%, prices dipped by 7%
-Dubai's residential property sales saw a sixteen percent decrease in early 2026. This slowdown occurred as regional geopolitical tensions impacted buyer sentiment and demand. Despite this, sales remained fifteen percent higher than in the first half of 2024. Residential property prices saw a slight 
-
-## ‘To be signed at right time’: India-US trade deal framework ‘ready’, says official
-India-US trade deal: India is seeking a tariff structure under the proposed agreement that provides it with a comparative advantage over competing countries.
-
-## Retail inflation jumps to 4.38% in June, driven by food, jewellery prices; breaches RBI's 4% target
-India's retail inflation increased to 4.38 percent in June from May's 3.93 percent. Higher food prices significantly pushed up the overall Consumer Price Index for the month. Ginger and tomatoes saw substantial year-on-year price increases, contributing to the overall rise. However, some items like 
-
-## ITR filing: 10 penalties taxpayers should not ignore - from late filing fee to under-reporting defaults
-ITR filing: What are the various sections under which income tax penalties are applicable? When does a default happen and what are the penalty amounts that have to be paid by taxpayers? Here is a list of 10 top 10 penalties that can be imposed:
-
-## India's commerce portfolio: Imports outpace exports, trade deficit expands to $30.4 billion
-India's merchandise imports surged thirty-one percent year-on-year in June. Exports also rose fifteen point five percent, while imports climbed sharply. The country's trade deficit stood at thirty point four three billion dollars for the month. During the April-June quarter, exports increased fiftee
-
-## 'Completely false and misleading': Piyush Goyal rebuts report of India holding up US trade pact
+## Oil prices today: Crude surges to one-month high as US-Iran conflict escalates
 
 
-## AAP says northeast Delhi riots convict Tahir Hussain has no association with party since 2020 suspension
-The BJP, meanwhile, slammed the AAP following Hussain's conviction, with several leaders calling on AAP leaders to apologise for their association with him.
+## HCLTech to up AI game, invest 3,500 crore in data centres of up to 50 MW
+HCLTech plans a significant investment in new AI data centers. This move targets growing demand for sovereign AI infrastructure. The company reported its first-quarter revenue figures on Monday. Revenue saw a slight sequential decrease but a year-over-year increase. This investment follows HCLTech's
 
-## Over 1,600 illegal Bangladeshis repatriated from Assam in 2 years: Himanta Biswa Sarma
-Sarma said a total of 1,679 illegal immigrants have been repatriated (deported/sent back/expelled) from Assam to Bangladesh in the last two years
+## Supreme Court appoints ex-judge Rao to mediate Kalyani family feud
+The Supreme Court appointed a retired judge to mediate a family dispute. This mediation concerns over one lakh crore rupees in assets between Baba Kalyani and his sister. The court gave the parties two weeks to attempt a settlement. Earlier, the Bombay High Court refused to send the dispute to media
 
-## Kin of IB officer killed in 2020 Delhi riots want ex-AAP leader Tahir Hussain, other convicts hanged
-A Delhi court on Monday convicted Hussain and four others for being involved in the killing of Ankit Sharma, who was killed during the 2020 Delhi riots.
+## Sitharaman tells banks: Devise ways to sustain foreign currency deposits
+Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non-Resident Indians. She called for introducing innovative deposit products to sustain foreign currency deposit momentum. Banks reported significant interest from NRIs in several key global locations. Attractive returns are bein
 
-## How can State prevent elopement of boy and girl, says SC; flags POCSO misuse
-The bench observed that parents often resort to criminal proceedings to protect their so-called "honour" when teenage girls run away with their partners.
+## Supreme Court upholds Sebi action against Kotak AMC, MD & other executives
+The Supreme Court upheld SEBI's action against Kotak Mahindra Asset Management Company. Senior executives, including Nilesh Shah, faced penalties for mutual fund rule violations. The court rejected the defense that investors did not suffer any financial losses. It emphasized regulatory compliance ov
 
-## BJP's Narottam Mishra sees fall in political coin: From acting as censor board, to tears over ticket denial in Datia
-Mishra is 6-time ex-MLA; was minister in Shivraj Chouhan cabinet; on ticket denial now, he has said, “Must be some shortcomings in me. I'll become introverted."
+## Retail inflation goes past 4%, first time in 17 months
+Retail inflation rose to 4.4% in June, crossing the 4% mark. Food prices accelerated, and fuel price hikes contributed to this increase. Restaurants and accommodation services saw inflation rise to 6.9 percent. Personal transportation costs also increased significantly after recent fuel price adjust
 
-## Class 11 student dies after falling from 10th floor of a Bhubaneswar apt: Cop
-The boy went to the apartment to meet his female classmate when she was alone at home around 10.30am
+## India's trade deficit hits 5-month high as imports surge
+India's trade deficit reached a five-month high as imports surged significantly. Exports showed continued growth, but were overshadowed by increased import costs. Crude oil and fertilizer imports saw substantial year-on-year expansion in June. Electronics and engineering goods led export growth, whi
 
-## ‘Customised Article 371 framework’: Ladakh to get UT-level body, hill councils for all seven districts
-While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Zanskar, and Drass – were notified in April this year.
+## Bidadi survey team attacked, 2 attempt to murder cases filed
+Police in Ramanagara district on Monday registered two attempted murder cases after government officials deputed to carry out a land survey for the proposed Bidadi Township project were allegedly attacked in Mandalahalli village, officers aware of the matter said
 
-## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
-The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
+## Ex-Supreme Court judge to mediate ₹1 lakh-crore Kalyani family wealth dispute
+The court also directed that proceedings before the Bombay High Court shall remain stayed and posted the matter for hearing after two weeks.
 
-## Sonam Wangchuk on CJP’s protest: ‘This platform has no political colour… PM should be sensitive, not rigid’
+## Kharif sowing trails last year’s pace despite rainfall revival in early July
+Despite an improvement in rainfall during the first 10 days of July, kharif sowing in India continued to trail last year’s pace
+
+## Amar Chitra Katha set to launch HAL comic book
+Lovers of India’s iconic comic book series, Amar Chitra Katha (ACK), may be surprised by the protagonist in the new title launching next month—Bengaluru-based aircraft maker Hindustan Aeronautics Limited (HAL)
+
+## SC upholds Centre’s mining royalty calculation formula
+The Supreme Court held that the measure adopted by the government was intended to curb under-invoicing and manipulation of mineral prices.
+
+## Sunset clause for reappointment likely in 130th amendment bill to safeguard lawmakers’ acquittal
+New Delhi: The Joint Committee reviewing the Constitution amendment bill to remove arrested ministers is set to recommend a sunset provision — an automatic reversal clause— in the bill to allow reappointment of ministers for failure of the prosecution to proceed within a defined period, people famil
+
+## Supreme Court rejects 350 Bengal madrasah staffers’ claims of wage arrears over recruitment violations
+Dismissing the entire batch of 350 persons, the order said, “The appointments in question are a blot on the system; they must, therefore, be erased and not protected.”
+
+## Kharif sowing trails last year’s pace despite rainfall revival in early July
+As of Monday, several key agricultural regions continued to record rainfall deficits exceeding 20%, with some areas facing shortfalls of up to 47%.
+
+## Lock Upp 2: Akanksha Chamola, who revealed she’s bisexual days ago, now says she’s asexual
 
 
-## With uncertainty looming, challenges and opportunities for India’s Act East policy
+## Delhi weather today: Clouds return, but heat is here to stay
 
 
-## Yogendra Yadav writes: Demolition of CSDS has begun, due process can wait
+## Ahead of The Odyssey, ranking Christopher Nolan’s movies, from Memento to Oppenheimer
 
 
-## Nightingale S Janaki falls silent, her song lives
+## Akshay Kumar jumped at Welcome To The Jungle’s flop actor sequence: Farhad Samji
 
 
-## On SIR, listen to digital governance and Aadhaar pioneer
+## Your BP may be high even when you feel normal: Why you must begin screening at 18
 
 
-## Weekly vs daily insulin: Which option is better for diabetes patients?
+## UK to declare Iran’s IRGC a terror organisation after rise in antisemitic attacks
 
 
-## On J&K statehood, Omar Abdullah is spot on. He doesn’t need Trump clickbait
+## India Vs England 1st ODI Live Streaming: When And Where To Watch IND Vs ENG Match on TV & online
 
 
-## ‘Gun licence doesn’t mean…’: Why Bihar police opposed Khan Sir’s plea to quash FIR
+## MP police on their heels, woman of Kumbh Mela fame, husband in hiding in Kerala
 
+
+## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
+The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
+
+## Chinese medical device makers push into Europe as anti-corruption squeeze bites at home
+Facing anti-corruption policies and profit squeezing at home, Chinese innovative medical device companies are accelerating their push into the European market despite mounting cross-border trade protectionism. Government-backed hospital purchases of medical devices in China fell about 12 per cent ye
 
 ## Hong Kong banks sweeten mortgage rebates as competition heats up amid property rebound
 Hong Kong banks are raising mortgage cash rebates to their highest levels in more than two years as they compete for a growing pool of homebuyers, betting generous incentives will help them win customers even as uncertainty over US interest rate hikes lingers. Major lenders including Bank of China (
@@ -149,12 +152,6 @@ After China’s cross-border deals for innovative drugs hit a record US$110 bill
 
 ## Chairman of global tech brand TCL sees digital future in ‘Screen Universe’
 Li Dongsheng, founder and chairman of TCL – a global technology brand serving users across more than 160 countries and regions – was among the speakers at the World Economic Forum’s Annual Meeting of the New Champions last month. Under the theme, “Innovating at Scale”, the forum, also known as “Summ
-
-## How China plans to break SpaceX’s launch monopoly with IPO push in new space race
-To challenge the global launch market dominance of Elon Musk’s SpaceX, Beijing is adopting a coordinated, multi-company “wolf-pack” strategy fuelled by recent engineering breakthroughs in reusable rocketry. The milestones come as a wave of aerospace firms push to secure the capital needed to scale o
-
-## What Labubu fatigue? Billionaire investor doubles down on Pop Mart stake
-Chinese-American billionaire investor Duan Yongping has increased his holdings in Pop Mart for a third time, reinforcing his long-term bullish view on the toy brand, as some questioned the sustainability of demand for the company’s intellectual property (IP) portfolio led by the blockbuster Labubu d
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
@@ -180,6 +177,12 @@ Nostalgia about the U.S. armed forces being above the partisan fray is not borne
 ## U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Regional powers push Washington and Tehran to pause strikes to allow for negotiations.
 
+## Far More Than Ruins: Life in Engilcheck, Kyrgyzstan
+The ruins of Engilcheck, a Soviet-era mining boomtown in the Tien Shan mountains, are still home to a small but thriving community.
+
+## Modi’s New Zealand Visit Closed a 40-Year Gap
+Modi’s visit signaled India’s willingness to strengthen ties with New Zealand, despite the geographical distance.
+
 ## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
 The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
 
@@ -197,12 +200,6 @@ Lee’s state visit emphasized a new level of Mongolia-South Korea ties in a cha
 
 ## 10 Years Ago, the Philippines Won a Major Victory in the South China Sea. Did It Matter?
 What did the arbitral tribunal's award actually achieve?
-
-## ASEAN Foreign Ministers Hold ‘Icebreaker’ Meeting With Myanmar Counterpart
-The Southeast Asian bloc reaffirmed its adherence to its Five-Point Consensus initiative, which was last week rejected by Myanmar’s military-dominated parliament.
-
-## Malaysian PM’s Coalition Suffers Significant Defeat in Johor State Election
-Barisan Nasional, the Grand Old Party of Malaysian politics, has been aided by a growing disillusionment with Anwar's leadership and discord among its Malay-Muslim rivals.
 
 ## Big Promises, Bigger Blind Spots for Ukraine’s Security
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -252,29 +249,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook
+Brent crude nears $85 a barrel amid renewed hostiles between Washington and Tehran.
+
+## ICE officer kills motorist in Maine; the second fatality in a week
+An Immigration and Customs Enforcement officer has fatally shot a motorist in Maine.
+
+## Hungary’s parliament votes to oust president in latest anti-Orban move
+Hungarian parliament passes amendment that would remove President Sulyok, appointed under ex-Prime Minister Orban.
+
+## Trump demands payment to protect Gulf nations from Iranian attacks
+US President Donald Trump says the US should be paid by ‘rich’ oil-producing Gulf nations to secure the Strait of Hormuz
+
+## Record El Niño threatens to unleash floods across East Africa and Asia
+Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.
+
+## Indonesia’s jailing of Gojek founder raises fears for investor confidence
+Authorities say Nadiem Makarim abused his authority to favour Google in the procurement of laptops for school kids.
+
 ## How Kenyan volunteers hunt polio’s hidden trail
 Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.
 
 ## Iran war live: US launches more attacks; UAE says 1 killed in tanker strike
 US has carried out more attacks on Iran, with Iranian media reporting explosions in Kish, Qeshm and Bandar Abbas.
 
-## Hundreds of experts warn the world must prepare now for AI’s impact
-More than 200 economists and AI researchers call on leaders to immediately prepare for sweeping economic disruption.
+## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
+The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
 
-## Three Palestinians killed, 15 wounded in Israeli attacks across Gaza
-Israel shows no sign of letting up its attacks on the devastated Palestinian territory, despite a 'ceasefire' in place.
-
-## Norway ‘rows’ at the royal palace to welcome back World Cup heroes
-More than 100,000 people turned out to celebrate Norway's national football team after their World Cup exit.
-
-## Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate
-South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027.
-
-## Nine deaths tied to Trump’s immigration enforcement operations in US
-Fatal shooting in Biddeford, Maine, is latest in at least nine deaths linked to US president's immigration crackdown.
-
-## Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit
-A crowd of more than 100,000, an open-top bus parade and a royal reception welcomed back the Norwegian World Cup squad.
+## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
+Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
@@ -293,12 +296,6 @@ India's top 100 cities together account for nearly one-third of the country's co
 
 ## KRBL, India's basmati leader, is quietly building a ₹1,000 crore real estate portfolio: CFO explains why
 KRBL plans a ₹1,000 crore real estate venture, leveraging significant business surpluses. The company aims to return its export revenue mix to fifty-fifty. New product categories like edible oils and masalas are also being developed. KRBL is also focusing on technology integration for real-time anal
-
-## Nexus Select Trust has $1 bn debt headroom for acquisitions: CFO Rajesh Deo
-In an exclusive interview with ETCFO, Nexus Select Trust CFO Rajesh Deo discusses the REIT's acquisition strategy, debt headroom, rental growth outlook, and FY27 priorities.
-
-## NFRA raises bar for audit sign-offs, says uncorrected errors can distort financial statements
-Chairperson Nitin Gupta asks auditors to evaluate cumulative and qualitative impact of misstatements, strengthen communication with audit committees and boards before issuing audit opinions.
 
 ## SEBI introduces stricter service rules, investment norms for employees
 The Securities and Exchange Board of India (SEBI) has tightened its employee conduct framework by notifying sweeping changes to its service regulations, introducing stricter conflict-of-interest safeguards, tighter investment restrictions and enhanced disclosure requirements.
