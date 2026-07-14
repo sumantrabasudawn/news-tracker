@@ -1,61 +1,70 @@
 # AION Intelligence
 
-## China’s monthly car exports surge past 1mn as overall trade soars
-World’s leading exporter now also second-largest importer, Beijing says
-
-## Nvidia halves Asia buyer list in China chip crackdown
-Tougher vetting in Singapore, Malaysia and Japan reflects Washington’s push to close export-control loopholes
+## How QE changed banks, and why that makes QT dangerous
+An interview with Jill Cetina
 
 ## US launches air strikes as Iran targets tankers with cruise missiles
 Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz
 
-## China’s vast air clean-up marred by wartime coal power surge
-FT analysis shows extent of enormous progress since ‘airpocalypse’ — and latest emissions increase
+## Serbia’s Vučić urges EU to admit Western Balkan states as a group
+Also in this newsletter: the EU is not doing enough to shield farmers, says Spain’s agriculture minister
 
-## Dr Reddy’s runs into trouble with its weight-loss drug
-Also in this newsletter, the UK-India trade deal goes live this week
+## You should be glad your boss is so well paid
+Because it probably means you’re being paid well too
 
-## Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
-Ruling casts doubt on whether president and his family can benefit from immunity deal
+## FirstFT: US retaliates after Iran hit tankers with missiles
+Also in today’s newsletter: Nvidia halves Asia buyer list and Rothschild’s UK investment bank
 
-## Andy Burnham tells Labour MPs he will rein in Britain’s outsourcing industry
-PM-in-waiting tells hustings he will appoint a ‘broad church’ ministerial team and bring government contracts in-house
+## China’s growth: five things to watch as economic pressure mounts
+Monthly indicators show weakness in retail sales and investment ahead of second-quarter figure
 
-## What will Burnham do on immigration?
-Likely next prime minister is looking to satisfy calls for tougher borders while appealing to Labour’s liberal supporters
+## The political fast lane keeps making the same scandal mistake
+A story might be reported to no great acclaim for months before it finally blows up in the public consciousness
 
-## FirstFT: Investors cut back bets on Asia’s chipmakers
-Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup
+## Has Jane Fraser remade Citigroup?
+The bank outperformed peers over the past year but still has far to go to match the profitability of its bigger rivals
 
-## US court revives lawsuits linking painkiller Tylenol to autism
-Federal panel in New York finds trial judge wrongly excluded expert testimony in dismissing litigation
+## SoftBank’s Son ridicules AI critics for ‘spitting upwards’
+Business leaders unwilling to embrace technology ‘should play the role of spouse’, says controversial investor
 
-## Oil surges past $80 on Trump threat to impose 20% Hormuz fee
-President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels
+## Silicon shadows: inside the black market for AI chips | FT Film
+As the US tightens export controls, a thriving black market is helping advanced AI semiconductors reach China
 
-## Sensex today | Stock Market Live: Sensex drops nearly 400 points; Nifty slips below 24,150 at open
-Sensex, Nifty, Stock Price Live Updates: Indian equity markets opened lower on Tuesday, with the Sensex falling nearly 400 points and the Nifty slipping below 24,150, as escalating US-Iran tensions, elevated crude oil prices and renewed FPI selling weighed on investor sentiment.
+## AI and the new Mechanical Turk
+The evolution of the technology offers fresh opportunities for hoodwinkers and charlatans
 
-## China's exports surge 27% from year earlier as AI boom drives strong demand
-June’s export increase exceeded economists’ expectations, rising 19.4% year-on-year in May
+## Sensex today | Stock Market Live: Sensex drops over 350 points; Nifty slips below 24,130
+Sensex, Nifty, Stock Price Live Updates: Indian equity markets traded lower on Tuesday, with the Sensex falling over 500 points, as escalating US-Iran tensions, Brent crude hovering around $85 a barrel, renewed FPI selling and persistent geopolitical uncertainty kept investors cautious despite resil
 
-## A year after 'Nila', Kerala's HEX20 reaches space again
-Around 40 minutes after deployment, HEX20 received KOYO's first beacon signals, which were decoded by the SatNOGS amateur satellite community, confirming that the satellite was operational
-
-## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Bajaj Consumer Care, HCL Tech, ICICI Pru AMC shares in focus
+## Q1 Results Today Live: LTTS, Tata Elxsi, Jindal Saw, SG FINSERVE, Anand Rathi Share, Den Networks to announce Q1 results, Madhya Bharat Agro Q1 profit up y-o-y
 Q1 Results Today, 14th July 2026 Live Updates: Follow latest Q1 updates from businessline here
 
-## India, EU to soon finish legal scrubbing of trade pact text: Goyal
-"India EU free trade agreement legal scrub should be over in another week or two, Goyal said while addressing the India-Spain Business Forum
+## ICICI Prudential AMC shares fall 2% after cost-led earnings miss; analysts stay bullish
+Despite the price pressure, brokerages have broadly maintained their constructive stance on the stock
 
-## Aditya Birla Group acquires Sprng Energy in ₹17,200 crore deal
-The acquisition takes Aditya Birla Group’s renewable energy capacity to 9.3 GWp, positioning it as one India’s largest renewable energy players
+## India charts self-reliance roadmap in nuclear energy to meet 2070 net-zero goal
+A parliamentary panel reviewed plans to boost nuclear self-reliance through domestic R&D, uranium imports and faster expansion of nuclear and solar energy
 
-## Centre approves Puducherry’s ₹14,300-crore Budget for FY27
-The President has also cleared the annual financial statement to be tabled in the Union Territory’s Legislative Assembly
+## Mahesh Kanchan appointed MD, India & Southeast Asia, Bacardi
+Kanchan, currently Managing Director, Southeast Asia, brings more than 30 years of experience, across both alcoholic beverages and FMCG industries
 
-## Amazon India signs MoU with Telangana govt to set up five Ashray centres in Hyderabad
-With the addition of the upcoming five centres, Amazon will operate a total of 14 Ashray centres in the city
+## India receives revised bids from Fairfax, Emirates NBD for IDBI Bank stake sale
+
+
+## Piyush Goyal meets Spanish Industry and Tourism Minister Jordi Hereu to strengthen bilateral trade, investment and manufacturing ties
+Addressing the India-Spain Business Forum, Goyal welcomed a proposal by Spain's Minister of Economy, Trade and Business, Carlos Cuerpo, to jointly prepare a roadmap for future economic cooperation
+
+## Rupee breaches 96 as Trump’s Iran escalation sends crude soaring
+Currency hits 96.17 intraday, weakest since May 2026, as Brent jumps to $85/barrel
+
+## Gold price prediction today: Will gold prices continue to fall? Check July 14, 2026 outlook
+Gold price prediction today: Gold prices will continue to be influenced by developments on the US-Iran conflict front in the near-term, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+
+## Rupee slips past 96 against US dollar for first time since May as oil prices soar again
+
+
+## Stock Market Live Updates: Sensex plunges over 500 points, Nifty slips below 24,100 as US-Iran tensions escalate
+
 
 ## Top stocks to buy today: Stock market recommendations for July 14, 2026 - check list
 Stock market recommendations: Divi's Laboratories, Bajaj Finserv, Bharat Forge, and Coforge are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for July 14, 2026:
@@ -72,62 +81,56 @@ The Supreme Court appointed a retired judge to mediate a family dispute. This me
 ## Sitharaman tells banks: Devise ways to sustain foreign currency deposits
 Finance Minister Nirmala Sitharaman urged banks to enhance outreach to Non-Resident Indians. She called for introducing innovative deposit products to sustain foreign currency deposit momentum. Banks reported significant interest from NRIs in several key global locations. Attractive returns are bein
 
-## Supreme Court upholds Sebi action against Kotak AMC, MD & other executives
-The Supreme Court upheld SEBI's action against Kotak Mahindra Asset Management Company. Senior executives, including Nilesh Shah, faced penalties for mutual fund rule violations. The court rejected the defense that investors did not suffer any financial losses. It emphasized regulatory compliance ov
+## India summons Iranian diplomats after sailor killed in attack on oil tankers
+As per the Ministry of External Affairs, these summons were issued over the recent attacks on merchant vessels in the Strait of Hormuz.
 
-## Retail inflation goes past 4%, first time in 17 months
-Retail inflation rose to 4.4% in June, crossing the 4% mark. Food prices accelerated, and fuel price hikes contributed to this increase. Restaurants and accommodation services saw inflation rise to 6.9 percent. Personal transportation costs also increased significantly after recent fuel price adjust
+## Woman, 2 children found dead in Andhra village; cops probe murder-suicide angle
+According to preliminary investigations, the woman is suspected to have killed her two sons before taking her own life.
 
-## India's trade deficit hits 5-month high as imports surge
-India's trade deficit reached a five-month high as imports surged significantly. Exports showed continued growth, but were overshadowed by increased import costs. Crude oil and fertilizer imports saw substantial year-on-year expansion in June. Electronics and engineering goods led export growth, whi
+## SC refuses to cancel Lalu Prasad Yadav’s bail in fodder scam
+The court said it would be inappropriate to interfere with his liberty after six years and instead directed that the pending appeals be expedited
 
-## Bidadi survey team attacked, 2 attempt to murder cases filed
-Police in Ramanagara district on Monday registered two attempted murder cases after government officials deputed to carry out a land survey for the proposed Bidadi Township project were allegedly attacked in Mandalahalli village, officers aware of the matter said
+## Bank, Bhopal management college officials booked for siphoning off scholarships
+The Central Bureau of Investigation (CBI) said 118 fraudulent bank accounts at UCO Bank’s Habibganj branch in were used for the fraud
 
-## Ex-Supreme Court judge to mediate ₹1 lakh-crore Kalyani family wealth dispute
-The court also directed that proceedings before the Bombay High Court shall remain stayed and posted the matter for hearing after two weeks.
+## ‘Do you know he may die?’ 3 Idiots’ ‘Silencer’ speaks up for Sonam Wangchuk as hunger strike enters day 17
+Omi Vaidya made an emotional appeal, saying, "I don't want Phunsukh Wangdu to die," referring to the beloved character from 3 Idiots.
 
-## Kharif sowing trails last year’s pace despite rainfall revival in early July
-Despite an improvement in rainfall during the first 10 days of July, kharif sowing in India continued to trail last year’s pace
+## Himachal Pradesh: Pregnant buffalo gets new lease on life after 66 metal objects removed from stomach
+A detailed medical examination, blood tests and an ultrasound confirmed the presence of a large number of metallic foreign bodies in the animal's stomach.
 
-## Amar Chitra Katha set to launch HAL comic book
-Lovers of India’s iconic comic book series, Amar Chitra Katha (ACK), may be surprised by the protagonist in the new title launching next month—Bengaluru-based aircraft maker Hindustan Aeronautics Limited (HAL)
+## Indian sailor killed in Iranian attack on oil tankers: UAE defence ministry
+Six Indian nationals were also injured when two oil tankers were targeted by Iranian missiles in the Strait of Hormuz, the UAE defence ministry said
 
-## SC upholds Centre’s mining royalty calculation formula
-The Supreme Court held that the measure adopted by the government was intended to curb under-invoicing and manipulation of mineral prices.
+## ‘Govt doesn't care': Calls for Sonam Wangchuk to call off hunger strike grow; Mahua, Uddhav, Dipke issue appeals
+Today (Tuesday, July 14) marks the 17th day of Wangchuk’s hunger strike and 25th day of CJP protest against education minister Dharmendra Pradhan.
 
-## Sunset clause for reappointment likely in 130th amendment bill to safeguard lawmakers’ acquittal
-New Delhi: The Joint Committee reviewing the Constitution amendment bill to remove arrested ministers is set to recommend a sunset provision — an automatic reversal clause— in the bill to allow reappointment of ministers for failure of the prosecution to proceed within a defined period, people famil
-
-## Supreme Court rejects 350 Bengal madrasah staffers’ claims of wage arrears over recruitment violations
-Dismissing the entire batch of 350 persons, the order said, “The appointments in question are a blot on the system; they must, therefore, be erased and not protected.”
-
-## Kharif sowing trails last year’s pace despite rainfall revival in early July
-As of Monday, several key agricultural regions continued to record rainfall deficits exceeding 20%, with some areas facing shortfalls of up to 47%.
-
-## Lock Upp 2: Akanksha Chamola, who revealed she’s bisexual days ago, now says she’s asexual
+## Centre summons Iran envoy to protest attack on Indian sailors
 
 
-## Delhi weather today: Clouds return, but heat is here to stay
+## Project head arrested, safety officer booked in Pune building collapse case
 
 
-## Ahead of The Odyssey, ranking Christopher Nolan’s movies, from Memento to Oppenheimer
+## KCET 2026 provisional seat allotment result out, objection window closes today
 
 
-## Akshay Kumar jumped at Welcome To The Jungle’s flop actor sequence: Farhad Samji
+## As US-Iran tensions flare up, vessel transits through Hormuz crash to pre-MoU levels. Here’s why
 
 
-## Your BP may be high even when you feel normal: Why you must begin screening at 18
+## ‘Opposites may attract, but…’: 5 daily habits of couples with lasting relationships
 
 
-## UK to declare Iran’s IRGC a terror organisation after rise in antisemitic attacks
+## Trump’s blockade, oil shock, toll: Key questions answered on renewed Iran war
 
 
-## India Vs England 1st ODI Live Streaming: When And Where To Watch IND Vs ENG Match on TV & online
+## ‘Not for private profit’: Court cancels transfer of 184 Rajasthan plots for marginalised group
 
 
-## MP police on their heels, woman of Kumbh Mela fame, husband in hiding in Kerala
+## Karnataka Lokayukta seeks governor’s nod to prosecute MLA Zameer Ahmed Khan
 
+
+## How Yung Kee and other Hong Kong heritage brands innovate to thrive in challenging times
+From franchising to diversification, Hong Kong’s heritage brands and long-running family businesses are looking for ways to navigate challenging times amid changing consumption patterns and soaring costs. Second- and third-generation stewards of three local brands – charcoal-roasted goose restaurant
 
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
@@ -149,9 +152,6 @@ Chinese home appliance giant Midea says it has rushed production and shipment of
 
 ## China’s drug industry pivots to AI-powered candidates to drive next wave of deals
 After China’s cross-border deals for innovative drugs hit a record US$110 billion in the first half of 2026, the sector is now pivoting towards artificial intelligence-powered candidates to drive the next wave of transactions. China accounted for about 30 per cent of all new drugs currently under de
-
-## Chairman of global tech brand TCL sees digital future in ‘Screen Universe’
-Li Dongsheng, founder and chairman of TCL – a global technology brand serving users across more than 160 countries and regions – was among the speakers at the World Economic Forum’s Annual Meeting of the New Champions last month. Under the theme, “Innovating at Scale”, the forum, also known as “Summ
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Oil hits 1-month high as US-Iran fighting clouds Strait of Hormuz outlook
-Brent crude nears $85 a barrel amid renewed hostiles between Washington and Tehran.
+## Why is India blocking film on a man who counted Punjab insurgency killings?
+Satluj, based on life and murder of rights activist Jaswant Singh Khalra, is still finding its audience despite the ban.
 
-## ICE officer kills motorist in Maine; the second fatality in a week
-An Immigration and Customs Enforcement officer has fatally shot a motorist in Maine.
+## Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira
+US President Donald Trump is threatening to attack a heavily-fortified underground nuclear facility in Iran
 
-## Hungary’s parliament votes to oust president in latest anti-Orban move
-Hungarian parliament passes amendment that would remove President Sulyok, appointed under ex-Prime Minister Orban.
+## ‘Beijing is laughing’ at US-Mexico-Canada stalled trade talks
+A US trade expert says the US, Mexico, and Canada need to hold trilateral talks to get a cross-border trade deal signed.
 
-## Trump demands payment to protect Gulf nations from Iranian attacks
-US President Donald Trump says the US should be paid by ‘rich’ oil-producing Gulf nations to secure the Strait of Hormuz
+## Birthday present for Spain’s Yamal? World Cup semifinal win over France
+Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York.
 
-## Record El Niño threatens to unleash floods across East Africa and Asia
-Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.
+## Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths
+Mexico to formally ask prosecutors to file cases in US courts over its citizens' deaths in immigration operations.
 
-## Indonesia’s jailing of Gojek founder raises fears for investor confidence
-Authorities say Nadiem Makarim abused his authority to favour Google in the procurement of laptops for school kids.
+## Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport
+Yemen's Houthis say they struck Saudi Arabia's Abha airport in retaliation for a strike on Sanaa’s international airport
 
-## How Kenyan volunteers hunt polio’s hidden trail
-Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.
+## Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days
+Top court bars former President Jair Bolsonaro's son from visiting his father under house arrest over social media post.
 
-## Iran war live: US launches more attacks; UAE says 1 killed in tanker strike
-US has carried out more attacks on Iran, with Iranian media reporting explosions in Kish, Qeshm and Bandar Abbas.
+## ‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal
+French coach Deschamps says his team will be fully prepared for a midfield battle against the European champions.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
