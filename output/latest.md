@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## Trump says US to abandon proposed Strait of Hormuz cargo fee
+US military launches seventh wave of strikes after the president said he would ‘replace’ fees plan with Gulf investment
+
+## IBM shares plunge 25% as customers shift spending to AI
+Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
+
 ## US state department offers $3mn grants to Maga-aligned groups in Europe
 Agency seeks to repurpose foreign aid funds to help organisations that support Trump administration policies
 
 ## RIP the US state department
 America’s diplomats used to have global sway. Now they are besieged by their own president
-
-## Trump says US to abandon proposed Strait of Hormuz cargo fee
-US military launches seventh wave of strikes after the president said he will ‘replace’ fees plan with Gulf investment
 
 ## Buffett drops Gates Foundation from $6bn Berkshire donation
 Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
@@ -21,20 +24,17 @@ America’s president is trapped, but Tehran is overplaying its hand
 ## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
 JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
 
+## Everything is awesome for banks
+Lenders are riding the tech wave, too
+
 ## European defence groups plan interceptor system to destroy missiles in space
 Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
 
 ## AkzoNobel’s merger of equals looks distinctly second-best
 Investors do not seem to think the Dutch company will extract blockbuster value from its planned tie-up
 
-## IBM shares plunge 25% as customers shift spending to AI
-Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
-
 ## Wall Street banks smash records on stock trading boom
 Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO
-
-## Big banks and Big Tech are surfing the same wave
-Wall Street is no longer the only industry reaching into every corner of the economy
 
 ## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
 Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
@@ -60,6 +60,9 @@ Balancing equal representation and federalism amid impending seat redistribution
 ## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
 Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
 
+## US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%
+US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It also targets Russia's shadow fleet and fina
+
 ## India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%
 India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 p
 
@@ -80,9 +83,6 @@ The market drew support from declining bond yields after data showed US consumer
 
 ## Trump’s 'guardian' fee: How much would a supertanker have to pay to cross Strait of Hormuz?
 Unlike man-made canals such as the Suez and Panama, which are sovereign infrastructure and levy substantial transit tolls, most natural international waterways - including the Strait of Hormuz, Strait of Malacca, Taiwan Strait, Strait of Gibraltar and Cape of Good Hope—generally do not charge transi
-
-## Not so ‘treasured’ anymore! Why India, China are stacking up gold and trimming US Treasuries exposure
-India is among major economies that are stepping up purchases of gold, while trimming holdings of US Treasuries. Central banks have increasingly begun viewing gold not only as a hedge against inflation but also as a core store of value.
 
 ## Spiritual leader Dhirendra Shastri's brother, 3 others booked for assault over land dispute
 Shastri, the head of Bageshwar Dham, a religious centre, said if his brother is found guilty, he should be punished according to the law.
@@ -108,6 +108,9 @@ The ED launched its probe in 2022 based on FIRs registered by police in Chhattis
 ## Odisha CID arrests former SCERT director in school textbook error case
 Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
+## Oyarzabal, Porro score as Spain beat France 2-0, book spot in World Cup final
+
+
 ## RBI plans easier rules for bank stake acquisition
 
 
@@ -127,9 +130,6 @@ Manoj Padhi was arrested after prolonged questioning as part of the CID’s inve
 
 
 ## Poster saying ‘Muslims not allowed’ appear at Sinhagad fort entrance, Forest dept removes it
-
-
-## Family confirms death of Pune man missing after Hormuz ship attack
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -156,6 +156,9 @@ From franchising to diversification, Hong Kong’s heritage brands and long-runn
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
 
+## The Gulf States That Iran Thinks It Can Attack
+Why Bahrain and Kuwait have become Tehran’s preferred targets.
+
 ## China Is Ready to Get Tough
 Beijing’s diplomatic retaliation has limits—but fewer than before.
 
@@ -176,9 +179,6 @@ The White House vows to charge all commercial ships passing through the Strait o
 
 ## Russian Energy Is Now at Ukraine’s Mercy
 Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.
-
-## Stop Overreacting to China’s Missile Test
-It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.
 
 ## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
 Australia and India are framing new minilateral coalitions to maximize their strategic options.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping
-Iran's deputy foreign minister accuses US of destroying the interim peace deal.
+## World Cup: Key players to watch as England and Argentina clash in semifinal
+Lionel Messi, Jude Bellingham and Harry Kane will be among the stars on show during Wednesday's match in Atlanta.
 
-## US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi
-US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi to the White House.
+## Why the England shirt feels complicated for some fans this World Cup
+The World Cup has ignited debate in the UK over wearing or displaying the England flag.
 
-## Families claim bodies of victims of deadly Bangkok pub fire
-‘No one has been able to accept it yet.’
+## Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza
+Israel's grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.
 
-## US risks falling into ‘escalation trap’ if it deploys troops in Iran
-Analyst Alex Alfirraz Scheers says the US risks falling into an escalation trap if it launches a ground assault in Iran.
+## Sirens blare in Bahrain as Iran launches barrage of missiles, drones
+Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.
 
-## Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation
-Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.
+## US-Russian crew launches on mission to space station
+A US-Russian crew blasted off onboard a Soyuz spacecraft for an eight-month mission to the International Space Station.
 
-## US President Trump drops 20% Strait of Hormuz fee plan
-US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.
+## What is Iran’s Pickaxe Mountain?
+Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.
 
-## US, Russian astronauts launch into orbit for joint space mission
-NASA chief Jared Isaacman made a rare visit to the Russia-operated Baikonur Cosmodrome to witness the launch.
+## Worker killed in furnace explosion fire at Indian recycling plant
+A furnace explosion triggered a fire at Jain Resource Recycling's plant in the Indian state of Tamil Nadu.
 
-## Cuba’s power grid collapses again, triggering third blackout in 10 days
-Millions lost power as Cuba’s fifth nationwide blackout of 2026 hit amid a US-imposed oil blockade.
+## Why Yemen’s long ‘no war, no peace’ deadlock may be ending
+Mobilisation of fighters and attacks signal the collapse of Yemen's fragile peace, with regional implications looming.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
