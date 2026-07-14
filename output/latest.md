@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Oil hits $87 as battle for Strait of Hormuz alarms energy markets
-Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
+## IBM shares plunge 23% as customers shift spending to AI
+Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
-## Number of farms up for sale in England hits two-decade high
-Rising costs, falling subsidies and inheritance tax changes have hit demand for agricultural land
+## Benign CPI inflation takes Fed’s July rate rise off the table
+Headline and core inflation were below expectations in June and unlikely to persuade rate-setters to tighten policy
 
-## The Fed and BoE have a trust deficit
-Loss of faith in central banks could be driving up long-run inflation expectations
+## Spain begins Gibraltar airport checks as Brexit reaches the Rock
+Troubled EU entry system will be turned on from Wednesday, with UK territory in effect becoming part of Schengen zone
 
-## UK ‘wasted’ nearly £10bn on PPE during pandemic, inquiry says
-‘Vast’ sums squandered in health crisis, report finds, as it criticises so-called VIP lane for procurement
+## Brussels to propose easing banks’ capital requirements
+Proposal follows similar moves by US and UK as lenders push for loosening of regulation
+
+## US inflation fell more than expected to 3.5% in June as petrol prices tumbled
+Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war
+
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
+
+## Donald Trump returns to escalation against Iran
+Also in today’s newsletter, Lindsey Graham’s sudden death reverberates across Washington
+
+## UK borrowing costs hit highest level since May as oil surges
+Ten-year yield climbs above 5% just days before Andy Burnham set to become prime minister
+
+## Buffett drops Gates Foundation from $6bn Berkshire donation
+Billionaire chair of conglomerate says he plans to leave holdings in company to four family foundations
+
+## DeepMind chief Demis Hassabis calls for US-led body to test ‘frontier’ AI models
+Society has ‘precious window’ to prepare for technology advancing at historic speed, warns Nobel laureate
 
 ## Commercial fusion race shifts from laboratories to supply chains
 Investment rises in the sector in the hope that it can provide abundant carbon-free electricity
 
-## Democrats are not in great shape
-A fractious opposition is doing everything it can to spurn an open goal
-
-## UK borrowing costs hit highest level since May as oil surges
-Ten-year yield back above 5% just days before Andy Burnham set to become prime minister
+## Boomers, not Gen Z, are the generation cutting back most on alcohol
+New research overturns assumption that abstinent younger drinkers are behind weak demand
 
 ## FirstFT: Chinese car exports surge
 Also in today’s newsletter: oil surges above $85 a barrel and Wall Street’s ‘Super Tuesday’
 
-## Boomers, not Gen Z, are the generation cutting back most on alcohol
-New research overturns assumption that abstinent younger drinkers are behind weak demand
+## MPEDA to start fresh chilled fish exports to UK under India–UK CETA
+The UK continues to be an important market for Indian seafood, driven by strong demand from the large Indian diaspora and a growing consumer preference for processed seafood products
 
-## DeepSeek weighs new fundraising a month after closing first round
-Unusually swift pace of capital injection comes as Chinese AI start-up seeks to build out infrastructure
+## Broker’s Call: Bajaj Consumer Care (Add)
+Choice Institutional Equities
 
-## The payments darling in Trump’s crosshairs
-US tariff threats against Brazil over payments platform Pix provoke a political storm ahead of elections
+## Adani family tops Hurun’s real estate developers’ rich list
+Edges out DLF’s Rajiv Singh and family following a 73 per cent gain in wealth
 
-## Watches of Switzerland defies luxury slowdown with strong US sales
-High-end timepieces retailer reports 13% jump in sales to £1.83bn
+## India’s social protection coverage expands from 19% in 2015 to over 1 billion people in 2026: Mandaviya
+India will host the 2026 BRICS Labour and Employment Ministers’ Meeting (LEMM) in Hyderabad over two days from Wednesday
 
-## JPMorgan and Goldman profits surge on blockbuster trading haul
-Wall Street banks seize on jolt of volatility in equities markets to post stronger than expected results
+## Smartphone market set to post a steep 10 per cent decline in June quarter as price rise impacts demand
+Retailers across the country are reporting a drastic drop of nearly 30 per cent in sales volumes
 
-## ECB recruits digital euro critics for pilot
-Deutsche Bank, DZ Bank and Groupe BPCE among 36 institutions selected for test of digital currency next year
+## Broker’s Call: Elecon Engineering (Buy)
+Axis Securities
 
-## India-UK FTA to bolster business potential
-The pact will benefit labour-intensive exports and services in India apart from making input costs cheaper for domestic businesses
+## RBI to simplify regulatory framework governing acquisition of major shareholding in banks by institutional investors
+Draft norms simplify approvals while tightening disclosures for mutual funds, insurers and pension funds
 
-## Indian Deep-Tech Startup Meine Electric's Fast-Charging Iron-Air Battery Clears Independent Validation, Paving the Way for 24/7 Renewable Energy Storage
-Indian Deep-Tech Startup Meine Electric's Fast-Charging Iron-Air Battery Clears Independent Validation, Paving the Way for 24/7 Renewable Energy Storage
+## India set to ban Paraquat herbicide, issues draft Order
+Final notification on the bar likely to be issued after August 12 by the Ministry of Agriculture and Farmers’ Welfare
 
-## CLFMA organises dairy meet in Ludhiana
-Focus on scientific feeding, nutrition and knowledge sharing to boost productivity and resilience
+## Trump’s 'guardian' fee: How much would a supertanker have to pay to cross Strait of Hormuz?
+Unlike man-made canals such as the Suez and Panama, which are sovereign infrastructure and levy substantial transit tolls, most natural international waterways - including the Strait of Hormuz, Strait of Malacca, Taiwan Strait, Strait of Gibraltar and Cape of Good Hope—generally do not charge transi
 
-## India-UK CETA stands out for both its breadth and pace
-The agreement goes beyond tariff cuts and weaves together trade, investment, mobility and regulatory cooperation between the two nations
+## Not so ‘treasured’ anymore! Why India, China are stacking up gold and trimming US Treasuries exposure
+India is among major economies that are stepping up purchases of gold, while trimming holdings of US Treasuries. Central banks have increasingly begun viewing gold not only as a hedge against inflation but also as a core store of value.
 
-## Crude surge, geopolitical jitters pull D-Street lower; Rupee hits month’s low
-The Nifty 50 closed at 24,052, down 158 points or 0.66%, while the BSE Sensex settled at 77,054, shedding 561 points or 0.72%
-
-## Mining and construction capex to double to ₹10 lakh crore by 2030: Report
-CII-BCG report calls for faster tech adoption and localisation to boost competitiveness
-
-## India to ban import of goods made using forced labour
-The ‌notification, dated Monday, said it "empower(s) ‌the Central Government ​to prohibit, by ⁠notification, the import ‌of goods produced or manufactured, wholly or ‌in part, ​through the use of forced ⁠labour"
-
-## Indian solar companies turn to Africa as Gujarat-based Navitas Solar enters EPC market with Zambia project
-Industry experts believe Africa could emerge as one of the most significant overseas growth markets for Indian renewable energy companies, but success will depend on much more than competitive EPC pricing
+## Railways tightens norms for project contractors; unveils covered fly ash transport and rolls out unified licence
+Indian Railways introduced reforms for freight and logistics operations. Specialized containers will transport fly ash, reducing environmental pollution significantly. A unified license regime for container train operators aims for nationwide operations. Industries can now develop new freight wagon 
 
 ## China's exports surge 27% in June on AI boom, trade surplus widens to $125.6 billion
 
@@ -81,62 +87,56 @@ According to ship-tracking data, six US-sanctioned supertankers with a carrying 
 ## Rupee back in red! Impact of RBI’s forex boost fades; currency breaches 96 versus dollar on rising crude prices
 The rupee has weakened by more than 0.8% so far in the current fiscal year. On Monday, the one-month forward premium on the rupee stood at 3.17%, whereas the one-year forward premium was 2.83%.
 
-## Gold price prediction today: Will gold prices continue to fall? Check July 14, 2026 outlook
-Gold price prediction today: Gold prices will continue to be influenced by developments on the US-Iran conflict front in the near-term, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## KGMU Lucknow bans preparation of non-veg items at hostels after UP Governor's directions, ordering-in permitted
+Governor Anandiben Patel had reportedly questioned the need to serve non-vegetarian items twice a week in the hostel mess.
 
-## Rupee slips past 96 against US dollar for first time since May as oil prices soar again
+## Kharif crops: You reap what you sow — unless the monsoon has other plans
+Delayed rain has meant that farmers have sown less crops this year so far. The monsoon's timing and spread may matter more than the season's total rainfall.
 
+## US indictment, Canadian police findings match our stand on gang networks: India
+Jaiswal said India and the US have “strong and effective” cooperation in combating terrorism and trans-national organised crime
 
-## Top stocks to buy today: Stock market recommendations for July 14, 2026 - check list
-Stock market recommendations: Divi's Laboratories, Bajaj Finserv, Bharat Forge, and Coforge are the top stocks to buy recommended by Somil Mehta, Head of Retail Research at Mirae Asset Sharekhan for July 14, 2026:
+## ‘Apolitical’ Cockroach protest caught between absent Rahul, indifferent Modi govt while Wangchuk's health worsens
+Dipke has consistently rejected framing CJP as proxy for any party: “The movement does not depend on political parties to carry it forward.”
 
-## Where is Rahul Gandhi? Congress leader's absence from CJP protest sparks questions, Wangchuk's ‘pettiness’ jibe
-Even as the Congress has been raising issues such as NEET exam irregularities, its absence of a public statement in support of the CJP has raised eyebrows.
+## 6 months after Noida techie's death in water-filled pit, father seeks action: ‘No family should suffer…’
+Yuvraj Mehta died on the intervening night of January 16 and 17 after he allegedly lost control of his car and drove into a water-filled pit in Noida.
 
-## Shiv Sena UBT sends letter to 6 rebel MPs over ‘merger’ with Shinde camp
-The letter said that the party on whose ticket the MPs won has neither initiated, agreed to nor permitted any merger with Shinde-led Shiv Sena
+## India ‘in touch’ with Vietnam amid ongoing investigation in speedboat tragedy: MEA
+The investigation is ongoing to ensure any violations are strictly dealt with under Vietnamese law.
 
-## Pune murder victim's mother writes emotional letter to PM Modi: ‘Don't let Ketan be just another case file’
-Ketan Agarwal died after falling into a valley near Lohagad Fort. Subsequently, his fiancée, Siya, and her alleged lover, Chetan, were arrested.
+## Hunt to nab Delhi Police constable who shot wife dead; dowry claim being probed
+The deceased's family has alleged that she had been subjected to dowry harassment since her marriage in 2023.
 
-## AAP’s Arvind Kejriwal launches online campaign against E20 petrol, seeks fuel choice for consumers
-Arvind Kejriwal of the AAP has launched an online campaign against E20 petrol, advocating for consumer choice at the pump.
+## SC asks Odisha to decide remission plea of Dara Singh in Staines murder case
+In August 2024, the top court entertained his plea for premature release and sought the response of the state government
 
-## Woman sprinkles mustard seeds on judge's chair, arrested for ‘black magic’ in Karnataka
-Citing the preliminary investigation, a police officer said the woman may have resorted to the ritual in the hope of securing a favourable judgment in her case.
-
-## 'Hold Pakistan responsible': India's global appeal over use of force against PoK protests
-India called on the international community to hold Pakistan responsible for its actions in PoK.
-
-## Samay Raina 'has taken court for a ride': Supreme Court raps comedian; imposes fine on him, 4 others
-A Supreme Court bench passed the order after it was brought to their notice that Samay Raina had not invited any disabled persons to his show.
-
-## West Bengal government transfers 28 IPS and 5 WBPS officers
-This is the second major reshuffle in the state by the new Bharatiya Janata Party-government after it came to power in May this year
-
-## Claude is warmer in Hindi, more rigorous in English: Anthropic study on key AI language differences
+## UPSC Prelims 2027 Polity Quiz (Week 171): MCQs on Supreme Court regulations for use of AI in Courts, Narmada Water Disputes and more
 
 
-## Allahabad High Court upholds couple’s reproductive autonomy, eases surrogacy age bar
+## How to update passport details on your OCI card online: Here’s a guide
 
 
-## Russian woman shares 9 things that ‘just make sense’ after living in India: ‘Saying bro to everyone’
+## ‘Committed to combat terror, organised crime’: India on gangsters’ indictment in Nijjar killing
 
 
-## Satluj debate: What is a truth commission and why is one being sought in Punjab?
+## UPSC Key: Cow Slaughter Ban, Jagannath Rath Yatra and Judicial Pendency
 
 
-## UAE has a plan to bypass Strait of Hormuz amid Iran-US war. Here’s how
+## Google unveils ‘ATL Saathi’ app for Indian teachers, expands local AI cloud and security offerings
 
 
-## Madhavan rues not getting residuals for 3 Idiots, Rang De Basanti: ‘Could’ve fed generations’
+## Today News Headlines for School Assembly, July 15, 2026: CBSE three-language policy, Hormuz passage levy
 
 
-## CBSE Class 12 Results: SC to hear challenge to assessment formula for Gulf students
+## What are the emerging problems associated with chemical disinfection of water?
 
 
-## Novak Djokovic wears ear seeds: Experts explain the wellness trend
+## Retiring Zidane, 9-goal thriller: A history of France vs Spain ahead of World Cup semifinal
 
+
+## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
+Louis Vuitton is set to face off against China’s trademark regulator in a Chinese intellectual property court on Thursday, as the French luxury brand deals with public backlash in China over a separate legal battle against a local milk tea brand. Louis Vuitton Malletier filed the administrative laws
 
 ## China’s power exports to Asean surge 40% in first half of 2026 amid Hormuz tensions
 China’s power exports to Asean countries surged more than 40 per cent in the first half of the year, customs data showed, helping to buffer the region against volatility in energy markets triggered by tensions around the Strait of Hormuz. The increase also highlighted China’s growing role as a regio
@@ -159,8 +159,8 @@ From franchising to diversification, Hong Kong’s heritage brands and long-runn
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
 
-## Chinese medical device makers push into Europe as anti-corruption squeeze bites at home
-Facing anti-corruption policies and profit squeezing at home, Chinese innovative medical device companies are accelerating their push into the European market despite mounting cross-border trade protectionism. Government-backed hospital purchases of medical devices in China fell about 12 per cent ye
+## The Pentagon Needs $1.5 Trillion
+At a perilous moment, Washington is smart to invest in a bigger defense budget.
 
 ## AOC Meets World
 The congresswoman’s rise was powered mostly by domestic issues. But she is slowly expanding to foreign affairs.
@@ -182,9 +182,6 @@ Brazil’s president is democratic, successful, and globally respected.
 
 ## NATO Is Still a Sick Puppy
 The Ankara summit only kicked the can down the road.
-
-## The Politicization of the U.S. Military Did Not Start With Trump
-Nostalgia about the U.S. armed forces being above the partisan fray is not borne out by history.
 
 ## Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims
 The visit comes amid a campaign by Naypyidaw to normalize its relations with the Association of Southeast Asian Nations (ASEAN) and its member states.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How new Yemen tensions could complicate the global energy crisis
-If the fighting in Yemen expands, and the Houthis try to block the Bab al-Mandeb, the world economy faces a new shock.
+## ‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?
+Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.
 
-## Tour de France crash and concussion cases expose limits of roadside checks
-Three of the eight riders who have abandoned the Tour de France in the opening week have suffered concussions.
+## Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?
+Nine European countries and Ukraine have launched a coalition to build Europe's own defence against ballistic missiles.
 
-## Lebanon, Israel hold talks in Rome on implementing framework deal
-Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.
+## Indian activist Wangchuk urged to end hunger strike over exam paper leaks
+Sonam Wangchuk has been​ fasting in New Delhi since June 28 in solidarity with Gen Z-led Cockroach Janta Party.
 
-## Can Gulf countries defend themselves against renewed Iranian attacks?
-Expensive interceptor missiles are facing mounting pressure from Iran's cheaply produced drones.
+## Mexico files criminal complaints over migrant deaths during ICE operations
+Mexico files criminal complaints over migrant deaths during ICE operations
 
-## Dozens of healthcare workers in DRC strike amid Ebola outbreak
-Healthcare workers at an Ebola treatment centre in the Democratic Republic of the Congo have gone on strike.
+## Which world leaders are visiting Qatar to pay their condolences?
+Sheikh Hamad, who ruled the country from 1995 to 2013 and revolutionised modern-day Qatar, died on Thursday aged 74.
 
-## Schumer slams Trump over Iran war
-Schumer slams Trump over Iran war
+## Iran lawmakers present Hormuz management bill as US war heats up
+Hardline MPs table plan that aims to formalise control over the strait and undermine any negotiations.
 
-## Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League
-Alexander, who signed a two-way deal with the Jazz last week. was injured in game against Chicago Bulls.
+## Sheikh Hamad gave Arab media a voice
+A tribute to the late Father Emir whose vision and resolve made Al Jazeera possible.
 
-## What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?
-Tensions escalate as the US president threatens to destroy Iran's fortified nuclear site in the south of Tehran.
+## What’s behind the Sanaa Airport attack and latest Yemen tensions?
+A diverted Iranian plane, a strike on Sanaa Airport and threats of retaliation have reignited tensions in Yemen.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
