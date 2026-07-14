@@ -1,40 +1,43 @@
 # AION Intelligence
 
+## Manic markets show no mercy to IBM
+Failure will apparently not be tolerated
+
+## FirstFT: Wall Street banks shatter records on AI-stock trading frenzy
+Also in today’s newsletter: IBM shares plunge and DeepSeek weighs new fundraising
+
+## UK teenagers face midnight curfew on using social media platforms
+Addictive features such as autoplay videos and infinite scrolling will be switched off under planned laws
+
+## New Zealand PM warns against Ardern-era ‘sugar rush economics’
+Ex-Air New Zealand boss says financial discipline has put economy back on track after pandemic and recession
+
+## Miliband trails Mahmood in race to become Burnham’s chancellor
+Home secretary emerges as favourite for key role amid criticism of energy secretary’s radical net zero policies
+
 ## Trump says US to abandon proposed Strait of Hormuz cargo fee
 US military launches seventh wave of strikes after the president said he would ‘replace’ fees plan with Gulf investment
 
 ## IBM shares plunge 25% as customers shift spending to AI
 Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
-## US state department offers $3mn grants to Maga-aligned groups in Europe
-Agency seeks to repurpose foreign aid funds to help organisations that support Trump administration policies
+## US to fund Trump-aligned Europeans building ‘civilisational bonds’
+State department grants of up to $3mn are designed to boost groups pushing Maga-style policies
 
-## RIP the US state department
-America’s diplomats used to have global sway. Now they are besieged by their own president
-
-## Buffett drops Gates Foundation from $6bn Berkshire donation
-Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
-
-## Trump pays E Jean Carroll $5.6mn in assault and defamation case
-Funds president owed had been in a government account as he appealed against the verdict and judgment
-
-## Brinkmanship in the Strait of Hormuz
-America’s president is trapped, but Tehran is overplaying its hand
-
-## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
-JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
+## Lucid brings in turnaround advisers as EV sales slump
+Saudi-owned carmaker has hired AlixPartners to help ‘strengthen operations’
 
 ## Everything is awesome for banks
 Lenders are riding the tech wave, too
 
+## Buffett drops Gates Foundation from $6bn Berkshire donation
+Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
+
+## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
+JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
+
 ## European defence groups plan interceptor system to destroy missiles in space
 Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
-
-## AkzoNobel’s merger of equals looks distinctly second-best
-Investors do not seem to think the Dutch company will extract blockbuster value from its planned tie-up
-
-## Wall Street banks smash records on stock trading boom
-Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO
 
 ## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
 Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
@@ -108,28 +111,28 @@ The ED launched its probe in 2022 based on FIRs registered by police in Chhattis
 ## Odisha CID arrests former SCERT director in school textbook error case
 Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
-## Oyarzabal, Porro score as Spain beat France 2-0, book spot in World Cup final
+## India through art of a remarkable early Victorian woman, now on display in Delhi
 
 
-## RBI plans easier rules for bank stake acquisition
+## Before Tahir Hussain’s conviction, judicial panel visited scene of crime
 
 
-## FCNR(B) scheme: Inflows cool after netting $10 billion
+## Court relies on the testimony of key witness to convict four and acquit two
 
 
-## Mere participation in violent protest, sloganeering against Government does not mean sedition: HC
+## 1 in 10 government school buildings in Delhi ‘unsafe’, ‘dangerous’; seven may be razed soon
 
 
-## ‘Taken the court for a ride’: Supreme Court slaps Rs 3 lakh fine each on Samay Raina, two YouTubers for defying court
+## Delhi government set to distribute free cycles to Class 9 girls from July-end
 
 
-## 68% of SIR forms distributed in Maharashtra; Mumbai, Pune, Thane lag
+## Hours after he murdered his wife on her b’day, Delhi Police constable kills self
 
 
-## Kolkata Ring Road blueprint out: How the proposed road will avoid traffic, cut travel times across 4 Bengal districts
+## Ankit Sharma’s murder during 2020 northeast Delhi riots: ‘Savage and relentless assault’ on IB staffer, says court on Tahir Hussain’s conviction
 
 
-## Poster saying ‘Muslims not allowed’ appear at Sinhagad fort entrance, Forest dept removes it
+## Delhi introduces single-machine: ‘Spray, Injection, Patching’ method to repair potholes under 5 minutes
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -156,6 +159,9 @@ From franchising to diversification, Hong Kong’s heritage brands and long-runn
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
 
+## Trump Pivots His Strait of Hormuz Strategy—Again
+Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
+
 ## The Gulf States That Iran Thinks It Can Attack
 Why Bahrain and Kuwait have become Tehran’s preferred targets.
 
@@ -176,9 +182,6 @@ The congresswoman’s rise was powered mostly by domestic issues. But she is slo
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
-
-## Russian Energy Is Now at Ukraine’s Mercy
-Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.
 
 ## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
 Australia and India are framing new minilateral coalitions to maximize their strategic options.
@@ -252,7 +255,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## World Cup: Key players to watch as England and Argentina clash in semifinal
+## Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca
+Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.
+
+## Colombian father identified in deadly ICE shooting
+Colombian father identified in deadly ICE shooting
+
+## Spain deliver masterclass to beat France 2-0 and reach World Cup final
+European champions Spain beat France with controlled display to book final against Argentina or England.
+
+## Are countries prepared to cope with extreme weather?
+Severe weather conditions are likely to get worse due to climate change.
+
+## World Cup semifinal: Key players to watch in England vs Argentina clash
 Lionel Messi, Jude Bellingham and Harry Kane will be among the stars on show during Wednesday's match in Atlanta.
 
 ## Why the England shirt feels complicated for some fans this World Cup
@@ -263,18 +278,6 @@ Israel's grip on the occupied West Bank tightens through outposts, demolitions, 
 
 ## Sirens blare in Bahrain as Iran launches barrage of missiles, drones
 Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.
-
-## US-Russian crew launches on mission to space station
-A US-Russian crew blasted off onboard a Soyuz spacecraft for an eight-month mission to the International Space Station.
-
-## What is Iran’s Pickaxe Mountain?
-Donald Trump has threatened to strike Pickaxe Mountain, an underground nuclear-related complex.
-
-## Worker killed in furnace explosion fire at Indian recycling plant
-A furnace explosion triggered a fire at Jain Resource Recycling's plant in the Indian state of Tamil Nadu.
-
-## Why Yemen’s long ‘no war, no peace’ deadlock may be ending
-Mobilisation of fighters and attacks signal the collapse of Yemen's fragile peace, with regional implications looming.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
