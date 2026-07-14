@@ -1,7 +1,7 @@
 # AION Intelligence
 
 ## Buffett drops Gates Foundation from $6bn Berkshire donation
-Billionaire chair of conglomerate shifts charity plans after revelations about Microsoft founder’s Epstein ties
+Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
 
 ## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
 JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
@@ -33,29 +33,29 @@ Wall Street is no longer the only industry reaching into every corner of the eco
 ## How a financial crash created Britain’s first prime minister
 Robert Walpole rescued Britain’s economy – and pulled himself up with it
 
+## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
+Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
+
+## New York imposes one-year moratorium on large data centres over AI concerns
+The pause will allow New York to set environmental standards and assess the long-term impact of large data centres
+
+## Trump drops 20% Strait of Hormuz shipping fee, opts for Gulf trade deals
+Trump said the Strait of Hormuz will remain open to global shipping, except for vessels linked to Iran
+
+## Mylan exits Biocon, sells entire 5.64% stake for ₹3,679 crore via block deals
+Several institutional investors, including mutual funds, insurers and foreign funds, bought Biocon shares on the NSE
+
+## India orders real-time tracking of seafarers amid West Asia maritime security crisis
+Following deadly attacks on two merchant ships, the government ordered real-time monitoring, dedicated family support and tighter safety measures for Indian seafarers
+
+## New Services Index out; 14 sub-sectors grow strongly
+Work is underway to compile the ISP for sub-sectors such as health and residential care, education, and ownership of dwellings
+
+## Constitutional challenges in the delimitation math
+Balancing equal representation and federalism amid impending seat redistribution
+
 ## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
 Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
-
-## Wholesale inflation in June surged to 9.9%
-Economists expect softening in coming months but watch West Asia tensions and monsoon
-
-## India on alert as West Asia tensions flare again
-MEA protests Strait of Hormuz attacks that killed an Indian seafarer; Commerce Ministry says government panel to keep engaging with exporters
-
-## ₹ breaches 96/$ as oil rises on Gulf escalation
-Fall came as US President intensified military operations against Iran, triggering a sharp rise in global crude oil prices
-
-## IBM disappointment sparks crash in Infosys, Wipro ADRs as AI fears rattle tech sector
-The sector-wide rout was ignited by IBM releasing its preliminary second-quarter results ahead of schedule
-
-## Direct tax collection jumps 16% to ₹6.5 lakh crore
-This momentum was led by net corporate tax collections, which surged over 22% to approximately ₹2.40 lakh crore, while net personal income tax (non-corporate) collections grew by around 12% to ₹3.85 lakh crore
-
-## Primary market grows wary of new age IPOs
-The Redseer India IPO Report reveals interesting trends in India’s new age IPOs. The report identifies and analyses 53 digitally native businesses that have gone public in the last 10 years — including the likes of Eternal, Groww and Info Edge
-
-## Target has 40% of global tech workforce in Bengaluru
-Target says its India operations key to its global tech transformation
 
 ## Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important
 The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.
@@ -81,6 +81,9 @@ India is among major economies that are stepping up purchases of gold, while tri
 ## Railways tightens norms for project contractors; unveils covered fly ash transport and rolls out unified licence
 Indian Railways introduced reforms for freight and logistics operations. Specialized containers will transport fly ash, reducing environmental pollution significantly. A unified license regime for container train operators aims for nationwide operations. Industries can now develop new freight wagon 
 
+## Spiritual leader Dhirendra Shastri's brother, 3 others booked for assault over land dispute
+Shastri, the head of Bageshwar Dham, a religious centre, said if his brother is found guilty, he should be punished according to the law.
+
 ## ED summons TMC MLA Madan Mitra's wife, two sons in municipal recruitment ‘scam’
 The summons were issued after ED came across information linking the family members to certain financial transactions under scrutiny in the case, he said.
 
@@ -102,31 +105,28 @@ The ED launched its probe in 2022 based on FIRs registered by police in Chhattis
 ## Odisha CID arrests former SCERT director in school textbook error case
 Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
-## India backs 2016 tribunal award that rejected Beijing’s claims in South China Sea
-The external affairs ministry’s position is unlikely to go down well with Beijing, which has already been angered by the joint statement issued by 14 countries over the weekend.
-
-## 563 Peruvian babies named Haaland: Norway striker sparks bizarre naming trend
+## India get a much-awaited victory as Shubman Gill leads from the front in 1st ODI
 
 
-## Both sides skip Gyanvapi mediation talks, Hindus claim entire complex
+## Stephen Fleming linked with England coach role after CSK exit
 
 
-## Farooq Abdullah’s brother Mustafa Kamal, ex-minister who balanced politics with medical career, dies at 84
+## IBM loses nearly $70 billion in a day after CEO admits company ‘faltered’ on AI
 
 
-## Nagaland man living in Pune held by ANTF in cocaine supply chain probe
+## NYC heatwave: Why is New York opening hundreds of cooling centres?
 
 
-## Gastroenterologist calls amaranth India’s next superfood: ‘Naturally gluten-free and…’
+## Axar Patel, Shubman Gill star as India defeat England by 6 wickets in 1st ODI
 
 
-## India skipper Shubman Gill walks off field, retires hurt vs England in 1st ODI
+## World Cup spots reduced, rating qualification scrapped: FIDE’s new route to Candidates
 
 
-## Ease bike taxi rules: permit private bikes, phase electrification, says consumer advocacy group
+## Tannaz Irani on amniocentesis in 40s: ‘A long needle goes inside your belly button’
 
 
-## No water cut till July 22: Pune Mayor rejects civic chief’s plan
+## Graham Staines murder: As prime convict Dara Singh seeks release, Odisha told to decide in a month
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -177,29 +177,32 @@ New allies bring powerful assets—whatever Donald Trump thinks.
 ## Will Lula Win the Century?
 Brazil’s president is democratic, successful, and globally respected.
 
+## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
+Australia and India are framing new minilateral coalitions to maximize their strategic options.
+
+## It’s Time for Australia to Be a Good Neighbor to the Pacific
+Australia’s Pacific approach equates to long stretches of neglect punctuated by spurts of anxiety and activity. That's no way to build durable security.
+
+## As China Claims Philippines’ Batanes, Taiwan Emphasizes Kinship
+Historical links between the Indigenous peoples of Taiwan and the Philippines are dovetailing with present-day geopolitical concerns.
+
+## Pakistan’s Ahmadiyya Community Is Being Persecuted in Plain Sight
+Extremist-led mob violence in Pakistan often leads to further persecution – at the hands of the state.
+
+## Will Sheikh Hasina’s Planned Homecoming Revive the Awami League?
+Instead of being seen as a fugitive from justice, the former Bangladeshi prime minister could present herself as a political leader willing to face trial in her own country.
+
+## Sri Lanka Prison Riot Exposes Intertwined Crises of Drugs, Crime and Overcrowding
+A recent prison riot at Negombo underscores the need for the government to dismantle drug trafficking networks, contain criminal activity and carry out prison reforms.
+
+## Antonia Mulvey on the Pursuit of Justice in Myanmar
+"In the short term, the likelihood of Myanmar’s military leadership appearing before a court is low, but not impossible."
+
 ## Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims
 The visit comes amid a campaign by Naypyidaw to normalize its relations with the Association of Southeast Asian Nations (ASEAN) and its member states.
 
-## Ratings Agency Maintains Indonesia Credit Rating, Predicting Economic Recovery
-The news will no doubt come as a relief for the Prabowo administration, whose economic policymaking has spooked international investors.
-
-## Examining the Evolving Virtual Front of the Southern Thailand Insurgency
-Supporters of the separatist movement are using social media to reinforce grievances, propagate resistance narratives, and sustain support for the insurgency.
-
-## Indonesia’s Capital Problems
-The country needs something that works better than Jakarta, but at what cost?
-
-## India’s Expanding SSBN Force and What It Means for Pakistan
-As India’s expanding fleet of Arihant-class subs improves its second-strike capability, Islamabad has to pursue the development and deployment of its own SSBN force.
-
-## Far More Than Ruins: Life in Engilcheck, Kyrgyzstan
-The ruins of Engilcheck, a Soviet-era mining boomtown in the Tien Shan mountains, are still home to a small but thriving community.
-
-## Modi’s New Zealand Visit Closed a 40-Year Gap
-Modi’s visit signaled India’s willingness to strengthen ties with New Zealand, despite the geographical distance.
-
-## Xi Jinping’s ‘Forging’ of ‘Ethnic Unity and Progress’
-The new law consolidates a decades-long endeavor by the party-state to fundamentally remake ethnic minority policy.
+## NATO’s Unity on Paper and Fractures Beneath the Surface
+On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year’s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of the s
 
 ## A Return to Mass: Russian Force Expansion in the War with Ukraine
 Joseph Stalin famously said that quantity has a quality of its own. Yet the course of the Russo-Ukrainian War shows both the benefits and the eventual limitations of that approach. As the quantitative advantage grew on the Russian side, its ability to employ force at scale decreased. The resulting d
@@ -221,9 +224,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter
 Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon’s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon’s science enterprise, why he thinks academia is the envy of America’s closes
-
-## The Pentagon’s AI Strategy Has a Funding Problem
-In the span of two weeks, the White House issued two of the most ambitious artificial intelligence directives in American history. On June 2, President Donald Trump signed an executive order mandating rapid AI adoption and hardened cyber defense across the government. Three days later, National Secu
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US President Trump drops 20% Strait of Hormuz fee plan
+US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.
+
+## US, Russian astronauts launch into orbit for joint space mission
+NASA chief Jared Isaacman made a rare visit to the Russia-operated Baikonur Cosmodrome to witness the launch.
+
+## Cuba’s power grid collapses again, triggering third blackout in 10 days
+Millions lost power as Cuba’s fifth nationwide blackout of 2026 hit amid a US-imposed oil blockade.
+
+## Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’
+Iraqi prime minister says relations with US shifting from militaristic to economic, vows disarmament of factions.
+
+## Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP
+Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.
+
 ## US consumer prices drop in June as energy costs tumble
 Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.
 
@@ -257,21 +272,6 @@ Investigators are looking into what motivated the killing and how much preparati
 
 ## World leaders travel to Qatar to honour Father Emir
 Leaders from around the world have been in Qatar to offer condolences to Emir Sheikh Tamim.
-
-## Mexico: Football Without Fear
-As Mexico cohosts the World Cup, a mother confronts gender violence and seeks safety for her daughter through football.
-
-## Mexico begins legal action in US over deaths of its citizens in ICE custody
-Mexico files complaints and sends cease-and-desist letters over the deaths of 17 nationals in ICE custody or raids.
-
-## Israeli attack on north Gaza police station kills eight
-Gaza's interior ministry denounces 'horrific massacre' that killed station chief, other police personnel and a civilian.
-
-## France vs Spain LIVE: FIFA World Cup 2026 semifinal
-Live coverage and text updates as France play Spain in a semifinal clash between the two tournament favourites.
-
-## Jude Bellingham Station unveiled ahead of World Cup semi-final
-A station in southeast London has been temporarily renamed Jude Bellingham Station before the World Cup semi-finals.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
