@@ -36,11 +36,8 @@ Lawsuit could delay deal and cost studio tens of millions of dollars
 ## Fees for seas: a history of taxing waterways
 From Ottoman sultans to Danish kings, Iran’s toll system for Strait of Hormuz revives an old maritime fight
 
-## Why Mastercard is playing the polite guest in the UK
-The card giant is considering making a strategic exit — by selling a majority stake in payments subsidiary Vocalink
-
-## US quantum computing needs a national buyer
-Washington’s demand signal could do for the technology what early defence contracts did for silicon
+## One in four social media posts is AI-speak
+LinkedIn and Medium top the list as AI-generated posts proliferate, says Pangram report
 
 ## Teacher deployment gaps persist as many schools report no students or just one teacher
 The UDISE+ data show that 5,663 schools across the listed States and Union Territories reported zero enrolment
@@ -53,9 +50,6 @@ The acquisition takes Aditya Birla Group’s renewable energy capacity to 9.3 GW
 
 ## Markets stage comeback amid global sell-off, IT earnings boost
 Nifty 50 closed at 24,211.65, up just 4.75 points or 0.02%, while the BSE Sensex ended at 77,616.40, gaining 47 points or 0.06%
-
-## One in four social media posts is AI-speak
-LinkedIn and Medium top the list as AI-generated posts proliferate, says Pangram report
 
 ## India auto M&A and PE deals fall to $1.46 billion in H1 2026; Q2 transactions drop 43 per cent
 Investment in aAuto has shrunk to $1.46 billion from nearly $2.8 billion in the first half; Q2 as deal volumes tumbled by 43 per cent as investors concentrated on mobility platforms
@@ -114,29 +108,32 @@ While Ladakh earlier had two districts, five more – Sham, Nubra, Changthang, Z
 ## One Assam Rifles soldier killed in IED blast in Nagaland; 4 injured: Officials
 The injured personnel have been admitted to the Christian Institute of Health Sciences and Research Dimapur for medical attention
 
-## 300 km around Delhi: The biggest coal polluters have one thing in common
+## Sonam Wangchuk on CJP’s protest: ‘This platform has no political colour… PM should be sensitive, not rigid’
 
 
-## ‘20% is too much, we’ll be fair’: Iran mocks Trump over Hormuz cargo fees
+## With uncertainty looming, challenges and opportunities for India’s Act East policy
 
 
-## UK warns Pakistan of visa restrictions if it refuses Rochdale gang leader Shabir Ahmed’s return
+## Yogendra Yadav writes: Demolition of CSDS has begun, due process can wait
 
 
-## ‘Was helping citizens, had no grudge against doctor’: Shiv Sena corporator seeks bail
+## Nightingale S Janaki falls silent, her song lives
 
 
-## Man claims US Navy past, caught near Nepal border with Chinese passport
+## On SIR, listen to digital governance and Aadhaar pioneer
 
 
-## 100 cars, ponies, miniature waterfalls: Inside Yohan Poonawalla’s 7.5-acre Pune mansion
+## Weekly vs daily insulin: Which option is better for diabetes patients?
 
 
-## In Prashant Kishor’s election affidavit, Rs 96 crore in own assets, wife’s assets worth Rs 101 crore
+## On J&K statehood, Omar Abdullah is spot on. He doesn’t need Trump clickbait
 
 
-## Video: Saudi Arabia strikes Yemen airport to block Iranian flight, Houthis vow revenge
+## ‘Gun licence doesn’t mean…’: Why Bihar police opposed Khan Sir’s plea to quash FIR
 
+
+## Hong Kong banks sweeten mortgage rebates as competition heats up amid property rebound
+Hong Kong banks are raising mortgage cash rebates to their highest levels in more than two years as they compete for a growing pool of homebuyers, betting generous incentives will help them win customers even as uncertainty over US interest rate hikes lingers. Major lenders including Bank of China (
 
 ## Reaching for the Stars – An Iconic Art Installation Showcased at Cheung Kong Center II
 [The content of this article has been produced by our advertising partner.] Cheung Kong Center II (CKCII), one of the premier super Grade-A commercial properties in Cheung Kong Asset’s portfolio, has commissioned an iconic installation by Mr. David Griggs. A U.S. sculptor, Griggs has completed over 
@@ -158,9 +155,6 @@ To challenge the global launch market dominance of Elon Musk’s SpaceX, Beijing
 
 ## What Labubu fatigue? Billionaire investor doubles down on Pop Mart stake
 Chinese-American billionaire investor Duan Yongping has increased his holdings in Pop Mart for a third time, reinforcing his long-term bullish view on the toy brand, as some questioned the sustainability of demand for the company’s intellectual property (IP) portfolio led by the blockbuster Labubu d
-
-## Why Forthright Securities is Anchoring Its Next-Gen AI Hub in the Heart of Hong Kong
-[The content of this article has been produced by our advertising partner.] As Hong Kong’s financial landscape matures and the line between virtual platforms and traditional wealth management blurs, digital-native brokerages opening physical branches has, almost paradoxically, become a mainstream st
 
 ## Trump Is Taking a Page Out of Iran’s Playbook
 The White House vows to charge all commercial ships passing through the Strait of Hormuz.
@@ -258,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Kenyan volunteers hunt polio’s hidden trail
+Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.
+
+## Iran war live: US launches more attacks; UAE says 1 killed in tanker strike
+US has carried out more attacks on Iran, with Iranian media reporting explosions in Kish, Qeshm and Bandar Abbas.
+
+## Hundreds of experts warn the world must prepare now for AI’s impact
+More than 200 economists and AI researchers call on leaders to immediately prepare for sweeping economic disruption.
+
+## Three Palestinians killed, 15 wounded in Israeli attacks across Gaza
+Israel shows no sign of letting up its attacks on the devastated Palestinian territory, despite a 'ceasefire' in place.
+
+## Norway ‘rows’ at the royal palace to welcome back World Cup heroes
+More than 100,000 people turned out to celebrate Norway's national football team after their World Cup exit.
+
 ## Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate
 South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator's term until early 2027.
 
@@ -266,21 +275,6 @@ Fatal shooting in Biddeford, Maine, is latest in at least nine deaths linked to 
 
 ## Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit
 A crowd of more than 100,000, an open-top bus parade and a royal reception welcomed back the Norwegian World Cup squad.
-
-## Police in South Africa open probe into post-World Cup death of Jayden Adams
-The country's football players' union confirmed Adams's death on Saturday, but the cause has not been revealed.
-
-## US, Iran exchange attacks around Strait of Hormuz
-Washington and Tehran both claim to be in control of the strategic waterway as fighting escalates.
-
-## Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter
-Late US senator backed invasion of Iraq, war on Iran and approach of 'more for Israel' as he became a Trump confidant.
-
-## How is the US tech industry regulated?
-Apple files a lawsuit against OpenAI, accusing it of stealing trade secrets.
-
-## Andy Burnham in line to become British PM after securing party support
-Burnham's bid cannot be challenged by fellow MPs, as he now has the support of almost the entire parliamentary party.
 
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
