@@ -1,6 +1,21 @@
 # AION Intelligence
 
-## IBM shares plunge 23% as customers shift spending to AI
+## Ann Widdecombe killed in ‘targeted attack’, counterterror police say
+Ex-Conservative minister and Reform spokesperson was found dead at her home in Devon on Thursday
+
+## Trump says US to abandon proposed Strait of Hormuz cargo fee
+President says he will ‘replace’ plan with investment from Gulf states into the US
+
+## Kevin Warsh vows Federal Reserve will be ‘resolute’ in inflation fight
+Central bank chief says he would have ‘no tolerance’ for persistently elevated price growth
+
+## Oil touches $87 as battle for Strait of Hormuz alarms energy markets
+Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes
+
+## Ukraine targets Russian shipping in ‘unprecedented’ drone assault
+Over the past week, Kyiv has struck vessels in the Sea of Azov at a faster pace than during the 1980s Iran-Iraq tanker wars
+
+## IBM shares plunge 25% as customers shift spending to AI
 Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
 ## Benign CPI inflation takes Fed’s July rate rise off the table
@@ -9,23 +24,14 @@ Headline and core inflation were below expectations in June and unlikely to pers
 ## Spain begins Gibraltar airport checks as Brexit reaches the Rock
 Troubled EU entry system will be turned on from Wednesday, with UK territory in effect becoming part of Schengen zone
 
+## How a financial crash created Britain’s first prime minister
+Robert Walpole rescued Britain’s economy – and pulled himself up with it
+
 ## Brussels to propose easing banks’ capital requirements
 Proposal follows similar moves by US and UK as lenders push for loosening of regulation
 
-## US inflation fell more than expected to 3.5% in June as petrol prices tumbled
-Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war
-
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
-
-## Donald Trump returns to escalation against Iran
-Also in today’s newsletter, Lindsey Graham’s sudden death reverberates across Washington
-
-## UK borrowing costs hit highest level since May as oil surges
-Ten-year yield climbs above 5% just days before Andy Burnham set to become prime minister
-
 ## Buffett drops Gates Foundation from $6bn Berkshire donation
-Billionaire chair of conglomerate says he plans to leave holdings in company to four family foundations
+Billionaire chair of conglomerate shifts charity plans after revelations about Microsoft founder’s Epstein ties
 
 ## DeepMind chief Demis Hassabis calls for US-led body to test ‘frontier’ AI models
 Society has ‘precious window’ to prepare for technology advancing at historic speed, warns Nobel laureate
@@ -33,35 +39,41 @@ Society has ‘precious window’ to prepare for technology advancing at histori
 ## Commercial fusion race shifts from laboratories to supply chains
 Investment rises in the sector in the hope that it can provide abundant carbon-free electricity
 
-## Boomers, not Gen Z, are the generation cutting back most on alcohol
-New research overturns assumption that abstinent younger drinkers are behind weak demand
+## Zero tariffs, bigger opportunity: Indian exporters upbeat about competitive edge in UK market
+Rising enquiries from UK buyers boost confidence, though some exporters await greater clarity on operational procedures
 
-## FirstFT: Chinese car exports surge
-Also in today’s newsletter: oil surges above $85 a barrel and Wall Street’s ‘Super Tuesday’
+## India wins larger UK steel quota, paving way for $1 bn exports
+Commerce Secretary says New Delhi secured a higher quota than several other countries after fresh negotiations; discussions on CBAM still on
+
+## CMC Vellore, IIIT Hyderabad develop AI tool for cancer care
+The project, supported by the National Cancer Grid and META’s India AI initiative, has ethics approvals for clinical pilot studies involving patients
+
+## Letters to Editor
+
+
+## Pocket
+
 
 ## MPEDA to start fresh chilled fish exports to UK under India–UK CETA
 The UK continues to be an important market for Indian seafood, driven by strong demand from the large Indian diaspora and a growing consumer preference for processed seafood products
 
-## Broker’s Call: Bajaj Consumer Care (Add)
-Choice Institutional Equities
+## iD Fresh Foods charts global expansion with 10 manufacturing hubs
+The expansion comes as the Bengaluru-headquartered company, which crossed the ₹600-crore revenue mark in FY25, prepares for a potential public listing around October FY27
 
-## Adani family tops Hurun’s real estate developers’ rich list
-Edges out DLF’s Rajiv Singh and family following a 73 per cent gain in wealth
+## Oxford Vaccine Group launches world’s first Phase I Bundibugyo ebolavirus vaccine trial
+The BDBV strain is responsible for the ongoing ebola outbreak in the Democratic Republic of the Congo (DRC), and Uganda
 
-## India’s social protection coverage expands from 19% in 2015 to over 1 billion people in 2026: Mandaviya
-India will host the 2026 BRICS Labour and Employment Ministers’ Meeting (LEMM) in Hyderabad over two days from Wednesday
+## Export boost, cheaper cars & whisky: India-UK trade deal comes into effect from July 15 - How India & Indians will benefit
+With its implementation, the trade deal will become the sixth free trade agreement brought into force during the Narendra Modi government's tenure. India has previously implemented similar agreements with Mauritius, the UAE, Australia, the European Free Trade Association (EFTA) and Oman.
 
-## Smartphone market set to post a steep 10 per cent decline in June quarter as price rise impacts demand
-Retailers across the country are reporting a drastic drop of nearly 30 per cent in sales volumes
+## Why is IBM stock crashing today? Shares plunge over 25% - here’s what’s driving the fall
+IBM share price crash: The softer outlook comes as businesses increasingly direct their technology spending towards artificial intelligence infrastructure, including servers, storage and memory, resulting in lower expenditure on conventional software offerings.
 
-## Broker’s Call: Elecon Engineering (Buy)
-Axis Securities
+## Govt releases first services production index; 14 of 19 sub-sectors post double-digit growth
+India's government has launched a new Index of Services Production. Fourteen of nineteen formal services sub-sectors showed double-digit growth in April. Accommodation and food services expanded significantly, leading the growth figures. Air and railway transport were the only sub-sectors to record 
 
-## RBI to simplify regulatory framework governing acquisition of major shareholding in banks by institutional investors
-Draft norms simplify approvals while tightening disclosures for mutual funds, insurers and pension funds
-
-## India set to ban Paraquat herbicide, issues draft Order
-Final notification on the bar likely to be issued after August 12 by the Ministry of Agriculture and Farmers’ Welfare
+## US stocks today: Wall Street trades in green; stocks steady as US inflation data better than expected
+The market drew support from declining bond yields after data showed US consumer prices rose 3.5 per cent in June compared with a year earlier, reflecting higher costs for gasoline, food and other everyday items.
 
 ## Trump’s 'guardian' fee: How much would a supertanker have to pay to cross Strait of Hormuz?
 Unlike man-made canals such as the Suez and Panama, which are sovereign infrastructure and levy substantial transit tolls, most natural international waterways - including the Strait of Hormuz, Strait of Malacca, Taiwan Strait, Strait of Gibraltar and Cape of Good Hope—generally do not charge transi
@@ -75,17 +87,17 @@ Indian Railways introduced reforms for freight and logistics operations. Special
 ## China's exports surge 27% in June on AI boom, trade surplus widens to $125.6 billion
 
 
-## US-Iran war hits home: WPI inflation rises to 9.87%; food prices see spike
-It reflects the impact of the West Asia conflict and the effective blockade of the Strait of Hormuz, a key route through which most of India's crude oil imports arrive, along with the resulting spillover into food prices.
+## ED arrests businessman Vikas Garg in Mahadev, Skyexchange probe
+The ED launched its probe in 2022 based on FIRs registered by police in Chhattisgarh, Andhra Pradesh and West Bengal
 
-## Sensex closes 561 points lower at 77,054; Nifty settles at 24,052
+## Odisha CID arrests former SCERT director in school textbook error case
+Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
+## India backs 2016 tribunal award that rejected Beijing’s claims in South China Sea
+The external affairs ministry’s position is unlikely to go down well with Beijing, which has already been angered by the joint statement issued by 14 countries over the weekend.
 
-## Amid Trump’s blockade threats, how Iran is quietly sneaking oil tankers through Strait of Hormuz
-According to ship-tracking data, six US-sanctioned supertankers with a carrying capacity of 12 million barrels of crude combined have crossed the Strait of Hormuz into the Gulf of Oman over the past week while keeping their transponders switched off.
-
-## Rupee back in red! Impact of RBI’s forex boost fades; currency breaches 96 versus dollar on rising crude prices
-The rupee has weakened by more than 0.8% so far in the current fiscal year. On Monday, the one-month forward premium on the rupee stood at 3.17%, whereas the one-year forward premium was 2.83%.
+## TMC's latest rebel has formula to reunite Mamata’s party: ‘Oust Abhishek, at least for the time being’
+Rabindranath Ghosh said several leaders who have moved away from the Mamata camp could return if the party supremo took a firm stand against her nephew.
 
 ## KGMU Lucknow bans preparation of non-veg items at hostels after UP Governor's directions, ordering-in permitted
 Governor Anandiben Patel had reportedly questioned the need to serve non-vegetarian items twice a week in the hostel mess.
@@ -93,46 +105,34 @@ Governor Anandiben Patel had reportedly questioned the need to serve non-vegetar
 ## Kharif crops: You reap what you sow — unless the monsoon has other plans
 Delayed rain has meant that farmers have sown less crops this year so far. The monsoon's timing and spread may matter more than the season's total rainfall.
 
+## Bihar man, 26, dies in furnace blast at metal melting factory near Chennai: Cop
+According to the police, the incident happened around 10am and the deceased suffered serious burn injuries
+
 ## US indictment, Canadian police findings match our stand on gang networks: India
 Jaiswal said India and the US have “strong and effective” cooperation in combating terrorism and trans-national organised crime
 
-## ‘Apolitical’ Cockroach protest caught between absent Rahul, indifferent Modi govt while Wangchuk's health worsens
-Dipke has consistently rejected framing CJP as proxy for any party: “The movement does not depend on political parties to carry it forward.”
-
-## 6 months after Noida techie's death in water-filled pit, father seeks action: ‘No family should suffer…’
-Yuvraj Mehta died on the intervening night of January 16 and 17 after he allegedly lost control of his car and drove into a water-filled pit in Noida.
-
-## India ‘in touch’ with Vietnam amid ongoing investigation in speedboat tragedy: MEA
-The investigation is ongoing to ensure any violations are strictly dealt with under Vietnamese law.
-
-## Hunt to nab Delhi Police constable who shot wife dead; dowry claim being probed
-The deceased's family has alleged that she had been subjected to dowry harassment since her marriage in 2023.
-
-## SC asks Odisha to decide remission plea of Dara Singh in Staines murder case
-In August 2024, the top court entertained his plea for premature release and sought the response of the state government
-
-## UPSC Prelims 2027 Polity Quiz (Week 171): MCQs on Supreme Court regulations for use of AI in Courts, Narmada Water Disputes and more
+## Ashwini Vaishnaw announces eight reforms to increase freight movement, improve construction quality
 
 
-## How to update passport details on your OCI card online: Here’s a guide
+## ‘Mumbaikars may need oxygen cylinders’: High Court questions mangrove felling for bullet train project
 
 
-## ‘Committed to combat terror, organised crime’: India on gangsters’ indictment in Nijjar killing
+## Punjab farmers bring 4 lakh acre under Direct Seeded Rice; 36% jump over last year
 
 
-## UPSC Key: Cow Slaughter Ban, Jagannath Rath Yatra and Judicial Pendency
+## Missiles, drones and cancelled flights: Saudi airport attack raises West Asia tensions
 
 
-## Google unveils ‘ATL Saathi’ app for Indian teachers, expands local AI cloud and security offerings
+## Hotels, restaurants growing 35% every month, railway subdued: New MoSPI services data
 
 
-## Today News Headlines for School Assembly, July 15, 2026: CBSE three-language policy, Hormuz passage levy
+## ‘Spent 2 months 17 days in dark room’: Punjabi singer Sunanda Sharma recalls battle with depression
 
 
-## What are the emerging problems associated with chemical disinfection of water?
+## Can a woman over 50 opt for surrogacy? Allahabad High Court answers
 
 
-## Retiring Zidane, 9-goal thriller: A history of France vs Spain ahead of World Cup semifinal
+## Panchkula police arrest alleged mastermind of Rs 2.26-crore Income Tax refund fraud
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -159,6 +159,9 @@ From franchising to diversification, Hong Kong’s heritage brands and long-runn
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
 
+## Will a U.S.-Iran Deal Include Kurds?
+Attacks against Kurdish regions in Iran and Iraq never stopped.
+
 ## The Pentagon Needs $1.5 Trillion
 At a perilous moment, Washington is smart to invest in a bigger defense budget.
 
@@ -179,9 +182,6 @@ New allies bring powerful assets—whatever Donald Trump thinks.
 
 ## Will Lula Win the Century?
 Brazil’s president is democratic, successful, and globally respected.
-
-## NATO Is Still a Sick Puppy
-The Ankara summit only kicked the can down the road.
 
 ## Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims
 The visit comes amid a campaign by Naypyidaw to normalize its relations with the Association of Southeast Asian Nations (ASEAN) and its member states.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Jude Bellingham Station unveiled ahead of World Cup semi-final
+A station in southeast London has been temporarily renamed Jude Bellingham Station before the World Cup semi-finals.
+
+## Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack
+Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.
+
+## How the late Father Emir transformed Qatar’s economy
+How the late Father Emir transformed Qatar’s economy
+
+## Even if the Iran war ends, the next fossil fuel shock is already on its way
+To prepare, the world needs to focus on building energy independence through renewables and decentralisation.
+
+## FIFA World Cup: Meet Ismail Elfath, referee for England-Argentina semifinal
+American-Moroccan referee Elfath will take charge of England against Argentina, his fourth game at the 2026 World Cup.
+
+## India summons Iranian diplomat over missile killing of seafarer
+India summoned Iran's deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.
+
+## Olympic funding questioned by nine EU nations over Russia readmission
+Nine EU nations urge funding cuts for sports bodies including International Olympic Committee over readmitting Russians.
+
 ## ‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?
 Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.
-
-## Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?
-Nine European countries and Ukraine have launched a coalition to build Europe's own defence against ballistic missiles.
-
-## Indian activist Wangchuk urged to end hunger strike over exam paper leaks
-Sonam Wangchuk has been​ fasting in New Delhi since June 28 in solidarity with Gen Z-led Cockroach Janta Party.
-
-## Mexico files criminal complaints over migrant deaths during ICE operations
-Mexico files criminal complaints over migrant deaths during ICE operations
-
-## Which world leaders are visiting Qatar to pay their condolences?
-Sheikh Hamad, who ruled the country from 1995 to 2013 and revolutionised modern-day Qatar, died on Thursday aged 74.
-
-## Iran lawmakers present Hormuz management bill as US war heats up
-Hardline MPs table plan that aims to formalise control over the strait and undermine any negotiations.
-
-## Sheikh Hamad gave Arab media a voice
-A tribute to the late Father Emir whose vision and resolve made Al Jazeera possible.
-
-## What’s behind the Sanaa Airport attack and latest Yemen tensions?
-A diverted Iranian plane, a strike on Sanaa Airport and threats of retaliation have reignited tensions in Yemen.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
