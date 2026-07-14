@@ -1,67 +1,64 @@
 # AION Intelligence
 
+## Buffett drops Gates Foundation from $6bn Berkshire donation
+Billionaire chair of conglomerate shifts charity plans after revelations about Microsoft founder’s Epstein ties
+
+## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
+JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
+
+## European defence groups plan interceptor system to destroy missiles in space
+Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
+
+## Warsh does not hint at July tightening in Congress testimony
+Fed chair suggests inflation was his main concern but stopped short of signalling imminent tightening
+
+## US inflation fell more than expected to 3.5% in June as petrol prices tumbled
+Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war
+
 ## Ann Widdecombe killed in ‘targeted attack’, counterterror police say
 Ex-Conservative minister and Reform spokesperson was found dead at her home in Devon on Thursday
-
-## Trump says US to abandon proposed Strait of Hormuz cargo fee
-President says he will ‘replace’ plan with investment from Gulf states into the US
-
-## Kevin Warsh vows Federal Reserve will be ‘resolute’ in inflation fight
-Central bank chief says he would have ‘no tolerance’ for persistently elevated price growth
-
-## Oil touches $87 as battle for Strait of Hormuz alarms energy markets
-Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes
-
-## Ukraine targets Russian shipping in ‘unprecedented’ drone assault
-Over the past week, Kyiv has struck vessels in the Sea of Azov at a faster pace than during the 1980s Iran-Iraq tanker wars
 
 ## IBM shares plunge 25% as customers shift spending to AI
 Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
-## Benign CPI inflation takes Fed’s July rate rise off the table
-Headline and core inflation were below expectations in June and unlikely to persuade rate-setters to tighten policy
+## Wall Street banks smash records on stock trading boom
+Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO
 
-## Spain begins Gibraltar airport checks as Brexit reaches the Rock
-Troubled EU entry system will be turned on from Wednesday, with UK territory in effect becoming part of Schengen zone
+## AkzoNobel’s merger of equals looks distinctly second-best
+Investors do not seem to think the Dutch company will extract blockbuster value from its planned tie-up
+
+## Big banks and Big Tech are surfing the same wave
+Wall Street is no longer the only industry reaching into every corner of the economy
 
 ## How a financial crash created Britain’s first prime minister
 Robert Walpole rescued Britain’s economy – and pulled himself up with it
 
-## Brussels to propose easing banks’ capital requirements
-Proposal follows similar moves by US and UK as lenders push for loosening of regulation
+## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
+Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
 
-## Buffett drops Gates Foundation from $6bn Berkshire donation
-Billionaire chair of conglomerate shifts charity plans after revelations about Microsoft founder’s Epstein ties
+## Wholesale inflation in June surged to 9.9%
+Economists expect softening in coming months but watch West Asia tensions and monsoon
 
-## DeepMind chief Demis Hassabis calls for US-led body to test ‘frontier’ AI models
-Society has ‘precious window’ to prepare for technology advancing at historic speed, warns Nobel laureate
+## India on alert as West Asia tensions flare again
+MEA protests Strait of Hormuz attacks that killed an Indian seafarer; Commerce Ministry says government panel to keep engaging with exporters
 
-## Commercial fusion race shifts from laboratories to supply chains
-Investment rises in the sector in the hope that it can provide abundant carbon-free electricity
+## ₹ breaches 96/$ as oil rises on Gulf escalation
+Fall came as US President intensified military operations against Iran, triggering a sharp rise in global crude oil prices
 
-## Zero tariffs, bigger opportunity: Indian exporters upbeat about competitive edge in UK market
-Rising enquiries from UK buyers boost confidence, though some exporters await greater clarity on operational procedures
+## IBM disappointment sparks crash in Infosys, Wipro ADRs as AI fears rattle tech sector
+The sector-wide rout was ignited by IBM releasing its preliminary second-quarter results ahead of schedule
 
-## India wins larger UK steel quota, paving way for $1 bn exports
-Commerce Secretary says New Delhi secured a higher quota than several other countries after fresh negotiations; discussions on CBAM still on
+## Direct tax collection jumps 16% to ₹6.5 lakh crore
+This momentum was led by net corporate tax collections, which surged over 22% to approximately ₹2.40 lakh crore, while net personal income tax (non-corporate) collections grew by around 12% to ₹3.85 lakh crore
 
-## CMC Vellore, IIIT Hyderabad develop AI tool for cancer care
-The project, supported by the National Cancer Grid and META’s India AI initiative, has ethics approvals for clinical pilot studies involving patients
+## Primary market grows wary of new age IPOs
+The Redseer India IPO Report reveals interesting trends in India’s new age IPOs. The report identifies and analyses 53 digitally native businesses that have gone public in the last 10 years — including the likes of Eternal, Groww and Info Edge
 
-## Letters to Editor
+## Target has 40% of global tech workforce in Bengaluru
+Target says its India operations key to its global tech transformation
 
-
-## Pocket
-
-
-## MPEDA to start fresh chilled fish exports to UK under India–UK CETA
-The UK continues to be an important market for Indian seafood, driven by strong demand from the large Indian diaspora and a growing consumer preference for processed seafood products
-
-## iD Fresh Foods charts global expansion with 10 manufacturing hubs
-The expansion comes as the Bengaluru-headquartered company, which crossed the ₹600-crore revenue mark in FY25, prepares for a potential public listing around October FY27
-
-## Oxford Vaccine Group launches world’s first Phase I Bundibugyo ebolavirus vaccine trial
-The BDBV strain is responsible for the ongoing ebola outbreak in the Democratic Republic of the Congo (DRC), and Uganda
+## Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important
+The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.
 
 ## Export boost, cheaper cars & whisky: India-UK trade deal comes into effect from July 15 - How India & Indians will benefit
 With its implementation, the trade deal will become the sixth free trade agreement brought into force during the Narendra Modi government's tenure. India has previously implemented similar agreements with Mauritius, the UAE, Australia, the European Free Trade Association (EFTA) and Oman.
@@ -84,8 +81,20 @@ India is among major economies that are stepping up purchases of gold, while tri
 ## Railways tightens norms for project contractors; unveils covered fly ash transport and rolls out unified licence
 Indian Railways introduced reforms for freight and logistics operations. Specialized containers will transport fly ash, reducing environmental pollution significantly. A unified license regime for container train operators aims for nationwide operations. Industries can now develop new freight wagon 
 
-## China's exports surge 27% in June on AI boom, trade surplus widens to $125.6 billion
+## ED summons TMC MLA Madan Mitra's wife, two sons in municipal recruitment ‘scam’
+The summons were issued after ED came across information linking the family members to certain financial transactions under scrutiny in the case, he said.
 
+## Abhijeet Dipke thanks Uddhav Thackeray for supporting CJP, Wangchuk in protest over exam paper leaks
+Dipke thanks Uddhav for supporting CJP, Wangchuk in protest over exam paper leaks
+
+## ‘Cong already protesting, facing lathis’: Mevani on why Rahul not at CJP protest
+Jignesh Mevani said that the workers of the NSUI and Youth Congress have been protesting on streets against the paper leak scams.
+
+## NASA's Anil Menon embarks on 8-month sojourn to International Space Station, with drawings made by Indian kids
+Born in Minneapolis to Ukrainian and Indian immigrants, Anil Menon is an emergency medicine physician and a US Space Force colonel.
+
+## Chinese passport, religious books, AI device found on US national arrested near Nepal border
+Jordan Brown is believed to have entered India by sea in November last year. Authorities are now piecing together his movements over the past several months.
 
 ## ED arrests businessman Vikas Garg in Mahadev, Skyexchange probe
 The ED launched its probe in 2022 based on FIRs registered by police in Chhattisgarh, Andhra Pradesh and West Bengal
@@ -96,43 +105,28 @@ Manoj Padhi was arrested after prolonged questioning as part of the CID’s inve
 ## India backs 2016 tribunal award that rejected Beijing’s claims in South China Sea
 The external affairs ministry’s position is unlikely to go down well with Beijing, which has already been angered by the joint statement issued by 14 countries over the weekend.
 
-## TMC's latest rebel has formula to reunite Mamata’s party: ‘Oust Abhishek, at least for the time being’
-Rabindranath Ghosh said several leaders who have moved away from the Mamata camp could return if the party supremo took a firm stand against her nephew.
-
-## KGMU Lucknow bans preparation of non-veg items at hostels after UP Governor's directions, ordering-in permitted
-Governor Anandiben Patel had reportedly questioned the need to serve non-vegetarian items twice a week in the hostel mess.
-
-## Kharif crops: You reap what you sow — unless the monsoon has other plans
-Delayed rain has meant that farmers have sown less crops this year so far. The monsoon's timing and spread may matter more than the season's total rainfall.
-
-## Bihar man, 26, dies in furnace blast at metal melting factory near Chennai: Cop
-According to the police, the incident happened around 10am and the deceased suffered serious burn injuries
-
-## US indictment, Canadian police findings match our stand on gang networks: India
-Jaiswal said India and the US have “strong and effective” cooperation in combating terrorism and trans-national organised crime
-
-## Ashwini Vaishnaw announces eight reforms to increase freight movement, improve construction quality
+## 563 Peruvian babies named Haaland: Norway striker sparks bizarre naming trend
 
 
-## ‘Mumbaikars may need oxygen cylinders’: High Court questions mangrove felling for bullet train project
+## Both sides skip Gyanvapi mediation talks, Hindus claim entire complex
 
 
-## Punjab farmers bring 4 lakh acre under Direct Seeded Rice; 36% jump over last year
+## Farooq Abdullah’s brother Mustafa Kamal, ex-minister who balanced politics with medical career, dies at 84
 
 
-## Missiles, drones and cancelled flights: Saudi airport attack raises West Asia tensions
+## Nagaland man living in Pune held by ANTF in cocaine supply chain probe
 
 
-## Hotels, restaurants growing 35% every month, railway subdued: New MoSPI services data
+## Gastroenterologist calls amaranth India’s next superfood: ‘Naturally gluten-free and…’
 
 
-## ‘Spent 2 months 17 days in dark room’: Punjabi singer Sunanda Sharma recalls battle with depression
+## India skipper Shubman Gill walks off field, retires hurt vs England in 1st ODI
 
 
-## Can a woman over 50 opt for surrogacy? Allahabad High Court answers
+## Ease bike taxi rules: permit private bikes, phase electrification, says consumer advocacy group
 
 
-## Panchkula police arrest alleged mastermind of Rs 2.26-crore Income Tax refund fraud
+## No water cut till July 22: Pune Mayor rejects civic chief’s plan
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US consumer prices drop in June as energy costs tumble
+Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.
+
+## Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say
+Investigators are looking into what motivated the killing and how much preparation was involved.
+
+## World leaders travel to Qatar to honour Father Emir
+Leaders from around the world have been in Qatar to offer condolences to Emir Sheikh Tamim.
+
+## Mexico: Football Without Fear
+As Mexico cohosts the World Cup, a mother confronts gender violence and seeks safety for her daughter through football.
+
+## Mexico begins legal action in US over deaths of its citizens in ICE custody
+Mexico files complaints and sends cease-and-desist letters over the deaths of 17 nationals in ICE custody or raids.
+
+## Israeli attack on north Gaza police station kills eight
+Gaza's interior ministry denounces 'horrific massacre' that killed station chief, other police personnel and a civilian.
+
+## France vs Spain LIVE: FIFA World Cup 2026 semifinal
+Live coverage and text updates as France play Spain in a semifinal clash between the two tournament favourites.
+
 ## Jude Bellingham Station unveiled ahead of World Cup semi-final
 A station in southeast London has been temporarily renamed Jude Bellingham Station before the World Cup semi-finals.
-
-## Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack
-Speaking to Al Jazeera, leading Houthi Mohammed al-Bukhaiti warns of attacks on Saudi Arabia.
-
-## How the late Father Emir transformed Qatar’s economy
-How the late Father Emir transformed Qatar’s economy
-
-## Even if the Iran war ends, the next fossil fuel shock is already on its way
-To prepare, the world needs to focus on building energy independence through renewables and decentralisation.
-
-## FIFA World Cup: Meet Ismail Elfath, referee for England-Argentina semifinal
-American-Moroccan referee Elfath will take charge of England against Argentina, his fourth game at the 2026 World Cup.
-
-## India summons Iranian diplomat over missile killing of seafarer
-India summoned Iran's deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.
-
-## Olympic funding questioned by nine EU nations over Russia readmission
-Nine EU nations urge funding cuts for sports bodies including International Olympic Committee over readmitting Russians.
-
-## ‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?
-Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
