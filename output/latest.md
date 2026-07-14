@@ -1,7 +1,22 @@
 # AION Intelligence
 
+## US state department offers $3mn grants to Maga-aligned groups in Europe
+Agency seeks to repurpose foreign aid funds to help organisations that support Trump administration policies
+
+## RIP the US state department
+America’s diplomats used to have global sway. Now they are besieged by their own president
+
+## Trump says US to abandon proposed Strait of Hormuz cargo fee
+US military launches seventh wave of strikes after the president said he will ‘replace’ fees plan with Gulf investment
+
 ## Buffett drops Gates Foundation from $6bn Berkshire donation
 Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
+
+## Trump pays E Jean Carroll $5.6mn in assault and defamation case
+Funds president owed had been in a government account as he appealed against the verdict and judgment
+
+## Brinkmanship in the Strait of Hormuz
+America’s president is trapped, but Tehran is overplaying its hand
 
 ## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
 JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
@@ -9,14 +24,8 @@ JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
 ## European defence groups plan interceptor system to destroy missiles in space
 Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
 
-## Warsh does not hint at July tightening in Congress testimony
-Fed chair suggests inflation was his main concern but stopped short of signalling imminent tightening
-
-## US inflation fell more than expected to 3.5% in June as petrol prices tumbled
-Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war
-
-## Ann Widdecombe killed in ‘targeted attack’, counterterror police say
-Ex-Conservative minister and Reform spokesperson was found dead at her home in Devon on Thursday
+## AkzoNobel’s merger of equals looks distinctly second-best
+Investors do not seem to think the Dutch company will extract blockbuster value from its planned tie-up
 
 ## IBM shares plunge 25% as customers shift spending to AI
 Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
@@ -24,14 +33,8 @@ Chief executive Arvind Krishna says company ‘faltered’ as clients raced to b
 ## Wall Street banks smash records on stock trading boom
 Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO
 
-## AkzoNobel’s merger of equals looks distinctly second-best
-Investors do not seem to think the Dutch company will extract blockbuster value from its planned tie-up
-
 ## Big banks and Big Tech are surfing the same wave
 Wall Street is no longer the only industry reaching into every corner of the economy
-
-## How a financial crash created Britain’s first prime minister
-Robert Walpole rescued Britain’s economy – and pulled himself up with it
 
 ## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
 Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
@@ -57,6 +60,9 @@ Balancing equal representation and federalism amid impending seat redistribution
 ## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
 Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
 
+## India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%
+India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 p
+
 ## Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important
 The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.
 
@@ -77,9 +83,6 @@ Unlike man-made canals such as the Suez and Panama, which are sovereign infrastr
 
 ## Not so ‘treasured’ anymore! Why India, China are stacking up gold and trimming US Treasuries exposure
 India is among major economies that are stepping up purchases of gold, while trimming holdings of US Treasuries. Central banks have increasingly begun viewing gold not only as a hedge against inflation but also as a core store of value.
-
-## Railways tightens norms for project contractors; unveils covered fly ash transport and rolls out unified licence
-Indian Railways introduced reforms for freight and logistics operations. Specialized containers will transport fly ash, reducing environmental pollution significantly. A unified license regime for container train operators aims for nationwide operations. Industries can now develop new freight wagon 
 
 ## Spiritual leader Dhirendra Shastri's brother, 3 others booked for assault over land dispute
 Shastri, the head of Bageshwar Dham, a religious centre, said if his brother is found guilty, he should be punished according to the law.
@@ -105,28 +108,28 @@ The ED launched its probe in 2022 based on FIRs registered by police in Chhattis
 ## Odisha CID arrests former SCERT director in school textbook error case
 Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
 
-## India get a much-awaited victory as Shubman Gill leads from the front in 1st ODI
+## RBI plans easier rules for bank stake acquisition
 
 
-## Stephen Fleming linked with England coach role after CSK exit
+## FCNR(B) scheme: Inflows cool after netting $10 billion
 
 
-## IBM loses nearly $70 billion in a day after CEO admits company ‘faltered’ on AI
+## Mere participation in violent protest, sloganeering against Government does not mean sedition: HC
 
 
-## NYC heatwave: Why is New York opening hundreds of cooling centres?
+## ‘Taken the court for a ride’: Supreme Court slaps Rs 3 lakh fine each on Samay Raina, two YouTubers for defying court
 
 
-## Axar Patel, Shubman Gill star as India defeat England by 6 wickets in 1st ODI
+## 68% of SIR forms distributed in Maharashtra; Mumbai, Pune, Thane lag
 
 
-## World Cup spots reduced, rating qualification scrapped: FIDE’s new route to Candidates
+## Kolkata Ring Road blueprint out: How the proposed road will avoid traffic, cut travel times across 4 Bengal districts
 
 
-## Tannaz Irani on amniocentesis in 40s: ‘A long needle goes inside your belly button’
+## Poster saying ‘Muslims not allowed’ appear at Sinhagad fort entrance, Forest dept removes it
 
 
-## Graham Staines murder: As prime convict Dara Singh seeks release, Odisha told to decide in a month
+## Family confirms death of Pune man missing after Hormuz ship attack
 
 
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
@@ -153,6 +156,12 @@ From franchising to diversification, Hong Kong’s heritage brands and long-runn
 ## Appetite for yuan assets sees London Clearing House accept dim sum bonds as collateral
 The London Clearing House (LCH) has begun accepting offshore yuan-denominated Chinese government bonds as eligible non-cash collateral, marking a structural milestone in Beijing’s decade-long push to internationalise its currency and integrate its debt into global financial pipelines. The decision b
 
+## China Is Ready to Get Tough
+Beijing’s diplomatic retaliation has limits—but fewer than before.
+
+## The Houthis Have Joined the Chat
+Iran’s break-the-glass plan to strangle another key waterway may now be active.
+
 ## Will a U.S.-Iran Deal Include Kurds?
 Attacks against Kurdish regions in Iran and Iraq never stopped.
 
@@ -170,12 +179,6 @@ Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.
 
 ## Stop Overreacting to China’s Missile Test
 It was a milestone for Beijing’s nuclear forces—but not necessarily the provocation many analysts have made it out to be.
-
-## Washington Shouldn’t Fear NATO Expansion
-New allies bring powerful assets—whatever Donald Trump thinks.
-
-## Will Lula Win the Century?
-Brazil’s president is democratic, successful, and globally respected.
 
 ## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
 Australia and India are framing new minilateral coalitions to maximize their strategic options.
@@ -249,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US strikes new targets in Iran as Tehran hits Gulf states, Hormuz shipping
+Iran's deputy foreign minister accuses US of destroying the interim peace deal.
+
+## US President Trump meets with ‘fan of America’ Iraqi PM Ali al-Zaidi
+US President Donald Trump welcomed Iraqi Prime Minister Ali al-Zaidi to the White House.
+
+## Families claim bodies of victims of deadly Bangkok pub fire
+‘No one has been able to accept it yet.’
+
+## US risks falling into ‘escalation trap’ if it deploys troops in Iran
+Analyst Alex Alfirraz Scheers says the US risks falling into an escalation trap if it launches a ground assault in Iran.
+
+## Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation
+Donald Trump backs away from fee, says regional countries will instead invest in US in return for transit protection.
+
 ## US President Trump drops 20% Strait of Hormuz fee plan
 US President Donald Trump says he has abandoned his proposed 20% fee on cargo transiting the Strait of Hormuz.
 
@@ -257,21 +275,6 @@ NASA chief Jared Isaacman made a rare visit to the Russia-operated Baikonur Cosm
 
 ## Cuba’s power grid collapses again, triggering third blackout in 10 days
 Millions lost power as Cuba’s fifth nationwide blackout of 2026 hit amid a US-imposed oil blockade.
-
-## Trump meets with Iraq prime minister at White House, vows ‘a lot of deals’
-Iraqi prime minister says relations with US shifting from militaristic to economic, vows disarmament of factions.
-
-## Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP
-Renewed conflict and tensions in the Strait of Hormuz have slowed fertiliser shipments, worsening hunger in Sudan.
-
-## US consumer prices drop in June as energy costs tumble
-Inflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.
-
-## Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say
-Investigators are looking into what motivated the killing and how much preparation was involved.
-
-## World leaders travel to Qatar to honour Father Emir
-Leaders from around the world have been in Qatar to offer condolences to Emir Sheikh Tamim.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
