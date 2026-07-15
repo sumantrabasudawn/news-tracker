@@ -111,29 +111,32 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
-## Demolition order issued against 38 of 40 buildings at Azam Khan’s university
+## National Investment Policy to boost urea production
+
+
+## Messi’s assists vs England puts him into lead in FIFA World Cup Golden Boot race
+
+
+## Will rebuild the party… have done earlier, will do it again: Mamata Banerjee
+
+
+## Ram Temple donation ‘theft’ has hurt Rambhakts, but using it to defame Ayodhya is not justified: Yogi
+
+
+## IIT Bombay’s new finding could make drug discovery ‘faster, cheaper, more sustainable’
+
+
+## Pune sailor, missing since July 12 attack on ship off Oman coast, is dead: Dubai Consulate
+
+
+## ‘Built without permission’: Demolition order issued against 38 buildings at Jauhar University
 
 
 ## Mohan Bhagwat to deliver lecture on ‘contemporary motherhood’
 
 
-## Argentina break England hearts to book FIFA World Cup final vs Spain
-
-
-## Sumul Dairy polls: 7 out of 9 seats see ‘100% polling’
-
-
-## Noida building fire: The dos and don’ts of charging EVs at housing complexes
-
-
-## Calcutta High Court asks state for report on complaints against Abhishek Banerjee
-
-
-## ‘Lost 9 kg in 17 days’: Sonam Wangchuk currently stable, but next few days could prove critical, say doctors
-
-
-## Pune civic body to spend Rs 167.25 cr to redvelop 135.8 km road for Pune Grand Tour
-
+## Will UFC be a hit in China with a Shanghai bout – and a home-grown contender?
+The Ultimate Fighting Championship (UFC), one of US President Donald Trump’s favourite sports organisations, is set to hold a tournament in Shanghai next month, part of a broad effort by American sports leagues to tap into the world’s leading leisure and entertainment market. Weeks after UFC Freedom
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
 Officials from China’s central bank have pledged to introduce further measures to make it easier for global investors to access yuan-denominated assets, as Beijing views the recent appreciation of the yuan and surge in demand for panda bonds as reflecting rising global recognition of the Chinese cur
@@ -155,9 +158,6 @@ The recent pullback in Chinese technology stocks is a just blip that is unlikely
 
 ## AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round
 Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflecting unquenched investor enthusiasm for the company. The plan comes on the heels 
-
-## Chinese gem lab rakes in profits as world embraces artificial diamonds
-A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
 ## Russia Shifts Its Focus to the Black Sea
 Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.
@@ -255,8 +255,11 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran says peace deal voided, fighting ‘existential war’ after US attacks
+The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.
+
 ## Argentina stun England in 2-1 comeback win to reach 2026 World Cup final
-Holders Argentina will face Spain in the final after snatching victory England in ⁠a highly-charged encounter.
+Holders Argentina will face Spain in the final after snatching victory from England in ⁠a highly charged encounter.
 
 ## xAI sues user for exploiting AI tool to sexualise minors
 Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.
@@ -276,11 +279,8 @@ All the biggest moments, heated exchanges, fouls and stats from the first 45 min
 ## 10 years on from Turkiye’s failed coup attempt on Erdogan
 10 years on from Turkiye’s coup attempt to overthrow President Erdogan, the country remains divided over its legacy.
 
-## Pezeshkian vows Iran will defend ‘every inch’ of its territory
-President Masoud Pezeshkian vowed Iran will defend every inch of its territory, saying attempts to tear the country apar
-
-## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
-Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
+## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Tech Mahindra's Rohit Anand next
+An ETCFO analysis of annual reports of the country's largest IT companies shows Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Tech Mahindra's Rohit Anand and Wipro's Aparna Iyer.
 
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
