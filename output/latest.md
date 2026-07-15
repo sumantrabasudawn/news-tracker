@@ -1,16 +1,19 @@
 # AION Intelligence
 
-## Morgan Stanley profits jump 58% as Wall Street booms
-Investment bank becomes latest to shatter forecasts with revenues from equities trading
+## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
+
+## Oil traders warn market is close to running on empty as Hormuz shuts again
+Stockpiles that acted as shock absorbers early in Iran war are running low as key waterway closes once more
+
+## Morgan Stanley wealth management boosted by SpaceX millionaires
+Investment bank becomes latest to shatter forecasts on back of AI boom
 
 ## Thames Water warns over long-term future
 Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
 
 ## Zelenskyy expected to remove Ukraine’s popular defence minister
 Moderniser behind country’s drone development at risk of being ousted in cabinet reshuffle after just six months in post
-
-## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
-Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
 
 ## What Wisconsin socialists tell us about the Democratic fightback
 The gubernatorial primary is a test bed for a radical pitch to voters in Midwest Trump country
@@ -21,41 +24,38 @@ The Galileo satellite programme offers a model for funding joint defence project
 ## Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
 Jim Jordan warns culture secretary on UK move to force social media companies to boost trusted news
 
-## EU set to fine Google hundreds of millions of euros
-Decisions will test whether the EU can police digital markets without reigniting tensions with Washington
+## BrewDog co-founder James Watt makes new bid to buy back beer company
+Deal would restore ownership stakes of ‘equity punks’, says Watt
 
 ## Billionaire Drahi’s Altice International accused of defaulting on €2bn of debt
 Creditors say transactions that moved assets out of their reach breached borrowing terms
 
-## UK’s largest pub landlord Stonegate probed over treatment of tenants
+## UK’s biggest pub landlord probed over treatment of tenants
 Watchdog has ‘reasonable grounds’ to suspect company has broken rules over so-called beer tie
 
-## The energy transition’s last mile
-Lenders and investors are starting to fund households’ adoption of renewable technology
+## Athulya Senior Care’s Karthik Narayan to head CII Committee on Senior Care for 2026-27
+This demographic shift is expected to significantly increase the demand for organised senior care, geriatric healthcare, skilled caregivers and long-term care infrastructure
 
-## Immuneel, Tata Memorial Centre partner to advance cell and gene therapy research
-Among the first projects identified under the partnership is a Phase 2 extension study evaluating the safety and efficacy of IMN-003A cell therapy in adult and paediatric patients with relapsed or refractory CD19-positive B-cell malignancies
+## SBI Funds Management IPO subscribed nearly 3 times on Day 2, NIIs lead demand
+Supported by steady mutual fund inflows and record SIP investments, SBI Funds Management will close its IPO on July 16 ahead of its July 21 market debut
 
-## Aurrevia launches Category III AIF with $10 million anchor from Kothari Family Office
-The fund targets sophisticated investors and positions itself around capital preservation, long-term compounding, and process-driven portfolio construction within a governance-focused investment mandate
+## Destination Tripura conclave gets ₹1.21 lakh cr investment commitment
+Dr Manik Saha, Chief Minister of Tripura said the state’s Gross State Domestic Product has doubled in just six years, reflecting the impact of progressive reforms, infrastructure development and transparent governance
 
-## Cube Highways Trust sets ₹151-152 price band for ₹5,000-crore InvIT IPO
-The offer comprises an offer for sale (OFS) by existing unitholders as the privately listed infrastructure investment trust (InvIT) transitions to a publicly listed InvIT
+## India-UK trade deal opens new opportunities for Tamil Nadu exporters, says High Commissioner to the State
+For Tamil Nadu, Choudhury identified six sectors poised to benefit because of the state’s existing manufacturing strengths
 
-## Record rush for varsity jobs in Andhra Pradesh: 1.9 lakh PhD holders apply for 1,523 teaching posts
-Andhra Pradesh Minister for Human Resources Development and IT, Nara Lokesh, released a job calendar in March 2026 to fill 10,060 vacancies across government departments during the year
+## FinMin likely to table Monsoon Session SDG after 5 years; 3 key financial bills on anvil
+This move comes amid rising fiscal pressures linked to the West Asia conflict and challenges posed by a subpar monsoon
 
-## TVS Venu’s Home Credit India acquires Varthana for ₹967 crore to deepen lending play
-The acquisition marks Home Credit’s entry into education-focused lending
+## Indian Gas Exchange files for IPO
+IEX currently holds a 47.3 per cent stake in IGX. The offer for sale will reduce its stake to 25 per cent
 
-## OPPO Find X9 Ultra. The ‘sharpshooter’
-OPPO hits peak ultra with a fully loaded camera and cutting edge hardware
+## Class-action suit: SC to hear Jindal Poly Films investors’ plea on Friday
+Sibal sought the Court’s intervention into how a pending class action (an in rem proceeding, admitted before the NCLT) came to an abrupt halt by way of a settlement by one sole shareholder with the company
 
-## Zoho launches AI-powered Classes 2.0 LMS, targets regulated educational institutions
-Latest LMS features AI tutor, automated lesson planning and evaluation tools for teachers and students
-
-## Q1 Results Today Live: Groww Q1 PAT jumps, HDFC AMC, HDFC Life, Jana SFB, ICICI Pru Life, Union Bank, HDB Financial profit soars, ICICI Lombard, Angel One to announce Q1 results
-Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
+## Bharat Tex 2026: Where Bharat’s textile future is taking shape
+The future of textiles will belong to those who combine sustainability, technology and creativity
 
 ## Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid
 When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age, financial goals, income, risk tolerance
@@ -81,6 +81,21 @@ Dalal Street experienced a strong rebound on Wednesday, reversing previous sessi
 ## Gold price prediction today: Where are gold & silver headed? Check July 15, 2026 outlook
 Gold price prediction today: Gold prices are likely to see a constructive outlook in the near-term, while silver is supported for the long-term, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
+## ECI revises electoral roll verification schedule for four more states
+The nationwide SIR is being implemented in phases across states and Union Territories to update electoral rolls through extensive field verification
+
+## India-UK free trade pact new gold standard for trade deals, says British envoy
+Two-way trade is currently worth £48 billion, and Lindy Cameron said the FTA is expected to increase trade by more than £25 billion pounds annually in the long run
+
+## 'India fully deserves permanent seat at UN Security Council': Palestinian envoy
+Palestinian Ambassador to India Abdullah M Abu Shawesh said that any reform of the UN body must include major global powers such as India.
+
+## Gurugram Thar accident victim's family says driver brought body back to spot from hospital
+The victim was reportedly resting in the basement parking area when the SUV ran over her as the resident attempted to park the vehicle.
+
+## CCTV shows Badrinath donation theft accused stealing cash on 4 occasions: Cop
+Police said 34 rounds of donation counting have been conducted at the Badrinath temple since its opening for the current pilgrimage season
+
 ## ‘On special invitation of ED’: Mahua Moitra dismisses Madan Mitra's exit from Mamata's TMC for rebel camp | Watch
 Madan Mitra said he had “only changed my room in assembly”, and denied any connection between his move and the ED summons issued to his family.
 
@@ -90,43 +105,28 @@ The operationalisation of the India-UK CETA was announced by outgoing Prime Mini
 ## 'Flying buses soon': Nitin Gadkari has another big plan, cites 'plane that lands on water'
 Speaking at the inauguration of the Lucknow-Kanpur Expressway on Tuesday, Gadkari announced plans to introduce "flying buses".
 
-## ‘You want me to have heart attack, I’ll live to see your end': Mamata to BJP amid TMC rebellion
-Mamata said Mitra left because the E) had summoned his wife and two sons on Tuesday, adding that Abhishek Banerjee had nothing to do with his decision
-
-## BJP scared, says Cong after revocation of go-ahead for Rahul Gandhi’s Dehradun event
-The administration offered an alternative venue for “Chhatro Ki Goonj”, a nationwide campaign against paper leaks and examination irregularities
-
-## Man, 30, hacked to death in Hyderabad; police suspect hate crime
-On Wednesday around 11pm, five men arrived at the hostel in Ayyapa Society, where Bhaskar was staying and allegedly called him outside
-
-## How Modi govt's equation with Sonam Wangchuk collapsed: From ‘wonderful conversation’ to Jantar Mantar
-Back in 2023, Dharmendra Pradhan, whose resignation is Wangchuk's chief demand, had held a cordial meet with him; a lot has changed since.
-
-## Don’t want E20, go for pure petrol, says Gadkari: What drivers in India can actually buy at the pump
-Union minister Gadkari said motorists can opt for 100% petrol. In practice, that route is priced and stocked in a way that leaves most with little choice.
-
-## Top 10 India’s most valuable brands 2026: Tata leads for 10th year, Adani Group enters elite list
+## India-UK FTA kicks in: What changes for consumers, industry
 
 
-## Why Reena Dutta, Kiran Rao skipped Aamir Khan’s wedding; friend shares ceremony details
+## Karnataka won’t force farmers to give land for Bidadi township, assures CM D K Shivakumar
 
 
-## 5 animals with the most fascinating sleep habits
+## Aster facility in Kullu park: Matter pending before high court, green tribunal adjourns hearing
 
 
-## Bengaluru schoolboy attempts suicide after ‘punishment by teacher’; FIR filed
+## Now Jammu University orders audit of all books on its premises
 
 
-## Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks
+## How Didier Deschamps’s elite bunch fell short on big stage – 3 times to Spain
 
 
-## Karnataka CM D K Shivakumar sets August 6 deadline for feedback on Apartment Bill 2026
+## Promised dealership, Mumbai man duped of Rs 5.5 lakh on fake Tata Motors website
 
 
-## Iran threatens to halt West Asia energy exports after US reimposes Strait of Hormuz blockade
+## ‘Lot of it is silly, illogical’: Kiku Sharda reveals how Kapil Sharma’s show is written
 
 
-## Explained: What is in Gujarat’s new data centre policy?
+## ‘Don’t ignore hearing loss’: Neurosurgeon shares six brain health tips for people over 70
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -153,6 +153,9 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
+## Trump’s Boat Strikes Are Crimes Against Humanity
+Rodrigo Duterte’s prosecution at the International Criminal Court shows why U.S. officials should be worried.
+
 ## Putin’s War Comes Home to Russia
 Ukraine’s attacks have unleashed a crisis—but don’t expect repercussions for the regime.
 
@@ -173,9 +176,6 @@ Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
 
 ## The Gulf States That Iran Thinks It Can Attack
 Why Bahrain and Kuwait have become Tehran’s preferred targets.
-
-## China Is Ready to Get Tough
-Beijing’s diplomatic retaliation has limits—but fewer than before.
 
 ## New Caledonia Has a New, Pro-France President. What Now?
 New Caledonia has a new government, but the Pacific territory remains deeply divided between pro-independence and loyalist factions.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli air attack on Gaza apartment kills family of three
-One child survives hit on Deir el-Balah home as Israel escalates attacks across territory despite October 'ceasefire'.
+## Iraq’s prime minister carries the title, but not the power
+Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.
 
-## DRC Ebola cases surpass 2,000 as more health workers begin strike
-Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754.
+## What DOGE saved, and what it cost
+The US government project that slashed foreign aid died on July 4. AJLabs looks at the cost in lives around the world.
 
-## India-UK trade deal comes into effect: What’s cheaper in each country now?
-The deal cuts tariffs on thousands of goods and widens access for services firms and ​professionals in both markets.
+## World Cup final Lamine Yamal: What to know about teenage Spain prodigy
+One of the best players in the world, Spain's 19-year-old Lamine Yamal, is gearing up for his first World Cup final.
 
-## Why has Lindsey Graham’s sister inherited his Senate seat after his death?
-The late senator's sister, the politically inexperienced Darline Graham Nordone, has inherited his office and powers.
+## Far-right Israeli lawmaker raids Palestinian school and threatens shutdown
+Israel’s education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols.
 
-## ‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future
-Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.
+## Protest in Pakistan’s Kashmir stalls after nine killed in clashes
+At least 28 people have been killed since protests began in June, as the region braces for a major protest march.
 
-## Could the US take control of Iran’s southern islands?
-Operation would be a dramatic military spectacle but would carry costs analysts doubt Washington is willing to incur.
+## Spain’s Oscar-winning actor raises Palestine flag at World Cup match
+Spain's Oscar-winning actor Javier Bardem had a message for Palestinians as he raised Palestine flag during World Cup.
 
-## What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?
-What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?
+## US strikes marine control tower in Iran
+US strikes marine control tower in Iran
 
-## Cody Bellinger stars at MLB All-Star game, wins MVP award
-With his father - former big leaguer Clay Bellinger - in attendance, the New York Yankees player earned MVP honours.
+## As the US restarts war on Iran, is its weapons stockpile running low?
+The US has expended a significant number of munitions since the war began in February.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
