@@ -1,70 +1,61 @@
 # AION Intelligence
 
-## VAT is Burnham’s best tax-raising tool if UK public finances go off track, says OECD
-New report argues long-term reforms should focus on spending restraint, including end to pensions triple lock
+## Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
+Jim Jordan warns culture secretary on UK move to force social media companies to boost trusted news
 
-## Russia accused of planning attacks on Baltic or Polish infrastructure
-Lithuania’s president says intelligence points to ‘targeted’ kinetic operations against energy or transport assets
+## Brussels prepares fresh Google fines as Big Tech enforcement increases
+Decisions will test whether the EU can police digital markets without reigniting tensions with Washington
 
-## Consensus on chancellor shifts — but I still wouldn’t bet on it
-Nothing is certain as lobbying war rages on, but Westminster view is growing that Ed Miliband will be passed over
+## The US just passed the biggest housing law in 36 years. Will it help?
+Inside supply-side changes to the American market
 
-## Miliband trails Mahmood in race to become Burnham’s chancellor
-Home secretary emerges as favourite for role amid criticism of energy secretary’s net zero policies
+## Ukraine to buy Chinese drone parts with EU funds
+Brussels allows Kyiv to use part of €6bn tranche for items in short supply in Europe
 
-## Annual pay for nannies in the UK home counties nears £60,000
-Salaries outstrip those of inner London, with strong demand in the commuter belt
+## BlackRock assets rise to record $15.3tn
+Second-quarter net income at US-based asset manager jumped 20% to $1.9bn amid capital markets boom
 
-## Thames Water warns over long-term future
-Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
+## Goldman’s Ruemmler to testify to Congress about Epstein ties
+Lawyer is latest ex-Wall Street executive to be grilled over links to late child sex offender
 
-## Stripe and Advent make $53bn bid for PayPal
-Offer by payments start-up and private equity group comes at 28% premium to Tuesday’s closing share price
+## EU readies crisis team for China rare earths stand-off
+Crisis team will prepare for possible trade conflict when truce expires in October
 
-## China’s economy grows at one of lowest rates in decades
-Second-quarter GDP figure falls below annual target range as economic pressure mounts
+## A new economic order will be built piece by ad hoc piece
+Traditional trade deals will not address geopolitical concerns
 
-## Richemont sales surge on booming jewellery demand
-Cartier owner outperforms peers with consecutive quarters of double-digit growth
+## The energy transition’s last mile
+Lenders and investors are starting to fund households’ adoption of renewable technology
 
-## IBM’s share plunge is a warning to the IT sector
-AI demand is starting to crowd out other forms of sector spending
+## Billionaire Drahi’s Altice International accused of defaulting on €2bn of debt
+Creditors say transactions that moved assets out of their reach breached borrowing terms
 
-## Barratt Redrow launches £400mn buyback after investor pressure
-Housebuilder announces move after warning from activist
+## SBI Funds Management IPO fully subscribed by midday on Day 2, NIIs lead demand
+Supported by steady mutual fund inflows and record SIP investments, SBI Funds Management will close its IPO on July 16 ahead of its July 21 market debut
 
-## ASML raises forecasts as AI boom drives chipmaking demand
-Shares climb 7% as Dutch company strikes bullish tone on durability of AI boom
+## RIR Power Electronics to list on NSE on Thursday
+Gujarat-based semiconductor manufacturer expanding market access
 
-## Wall Street banks are AI stocks now
-Plus a nice cool CPI report
+## Sensex today | Stock Market Highlights: Sensex closed at 77,185.43; Nifty 50 was to 24,078.50
+Sensex, Nifty, Share Prices Updates: BSE Sensex closed 130.49 pts or 0.17% positive at 77,185.43, and Nifty 50 was up 26.45 pts or 0.11% to 24,078.50.
 
-## Chipmaker CXMT seeks $10bn in largest China IPO since 2010
-Chinese group capitalises on boom in demand for AI memory chips
+## Silver outlook July 2026: How is silver likely to perform in the next few weeks? | EP 106
+Why is silver so volatile right now? Key drivers explained.
 
-## Target has 40% of global tech workforce in Bengaluru
-Target says its India operations key to its global tech transformation
+## Wipro AGM: AI to drive next phase of enterprise transformation, says Rishad Premji
+As clients transition from experimentation to execution in AI, Wipro is investing heavily in capabilities, partnerships, and talent while navigating a cautious IT landscape.
 
-## Sensex today | Stock Market Live: Sensex, Nifty retreat from day's highs; Bank Nifty leads gains
-Sensex, Nifty, Share Prices LIVE: Indian benchmark indices trade higher on Wednesday, tracking positive global cues as investors shifted focus to the earnings season. Easing oil prices, optimism over the India-UK trade pact and encouraging early corporate results further supported market sentiment.
+## SBI Funds Management IPO subscribed 0.68 times on Day 1; NIIs lead demand
+The non-institutional investors’ portion was subscribed 1.39 times, while the retail investors’ category saw subscription of 0.62 times
 
-## Files relating to Kudankulam nuclear power plant exposed in ransomware data breach
-World Leaks posts nearly 19,000 files relating to the plant; Reliance Group confirms ‘partial breach’, says incident reported to the government
+## Tata Elxsi shares fall 5% as margin miss weighs on sentiment
+Brokerages highlighted a sharp margin contraction and uncertainty in key business segments.
 
-## BlackRock in talks to inject funds into Udaan
-The amount is part of a proposed $160 million fresh financing that Udaan announced on Tuesday
+## LTTS shares jump as Q1 profit and revenue rise, Anthropic partnership
+The company’s consolidated net profit for the quarter ended June 2026 rose 12.9 per cent y-o-y to ₹357.1 crore from ₹316.1 crore
 
-## Q1 Results Today Live: Groww Q1 PAT jumps, ICICI Pru Life, Union Bank & Steel Strips profit up, HDFC Life, HDFC AMC, ICICI Lombard, HDB Financial, Angel One to announce Q1 results
-Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
-
-## India data centres attract $1.56 billion foreign capital
-Funding surges in H1 2026 as global investors back India’s digital infrastructure story, driven by rising AI workloads, cloud adoption, and hyperscaler expansion plans
-
-## FIFA World Cup 2026: Spain becomes title favourites with impressive win over France
-Spain booked their place in the title clash with a commanding 2-0 victory over France
-
-## World of Hyatt Expands HYROX Collaboration to India
-World of Hyatt Expands HYROX Collaboration to India
+## Semicon 2.0, Varanasi projects, rail upgrades & more: 7 big decisions cleared by Cabinet
+The Union Cabinet approved seven significant decisions on Wednesday. These approvals covered infrastructure development and semiconductor manufacturing initiatives. Railway network upgradation and mobile phone manufacturing schemes were also sanctioned. A National Investment Policy for Urea was appr
 
 ## China's economic growth slows to weakest pace in three years despite export boom
 China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech g
@@ -87,56 +78,56 @@ India presents significant global investment opportunities, attracting companies
 ## Worse fall than 1987, $69 billion wipeout as IBM ‘falters’: Why stock price crashed 25% - analysts call it ‘ugly moment’
 ​​Shares of IBM plunged 25% on Tuesday, with the company seeing a steeper one-day decline than it experienced during the 1987 "Black Monday" market crash. The weakness also spread to other software stocks.
 
-## Top stocks to buy today: Stock recommendations for July 15, 2026 - check list
-Stock market recommendations: Route Mobile, Tata Power, and Dr. Reddy's Laboratories - these are the top stocks to buy picked by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 15, 2026.
+## From ‘wonderful conversation’ to Jantar Mantar: How Centre's equation with Wangchuk changed colour
+Back in 2023, Dharmendra Pradhan, whose resignation is Wangchuk's chief demand, had held a cordial meet with him; a lot has changed since.
 
-## 2 killed after fire breaks out at building in Mamura village in Noida's Sector 66
-2 killed after fire breaks out at building in Mamura village in Noida's Sector 66
+## Don’t want E20, go for pure petrol, says Gadkari: What drivers in India can actually buy at the pump
+Union minister Gadkari said motorists can opt for 100% petrol. In practice, that route is priced and stocked in a way that leaves most with little choice.
 
-## SC flags 'frustration' of students in CBSE’s digital marking system
-The top court has called in Solicitor General Tushar Mehta to hear a PIL in this regard and frame regulations for conducting exams through OSM.
+## No link to ED summons, says Mamata loyalist Madan Mitra after joining rebel camp
+Madan Mitra left the Mamata Banerjee-led TMC a day after ED summoned his wife and two sons for questioning in connection with recruitment by the Kamarhati municipality
 
-## PM Modi hails ‘significant moment’ as India-UK trade deal, social security agreement come into effect
-Describing it as a "significant moment," PM Modi emphasized that dual agreements would translate high-level diplomatic ambition into "tangible opportunities,"
+## Indian-origin teen Riddhi Chauhan leads 300 cadets in US Navy-backed school programme
+Riddhi is preparing to enter the Naval Academy Preparatory School, a stepping stone to the United States Naval Academy.
 
-## Why Punjab could define India’s new national security leadership
-Religious polarisation is on the rise in Punjab. Is India’s national security prepared for the challenge?
+## Ludhiana tops beneficiary list under Punjab's Mawan Dheeyan Satkar Yojana
+Ludhiana shines as the top beneficiary of Punjab's Mawan Dheeyan Satkar Yojana, registering 7.4 lakh beneficiaries.
 
-## 'India can stop the Ukraine war': Polish Deputy FM says Modi 'among few who can influence' Putin
-The Polish minister also discussed the developments of 2022, when India intervened in the war and called for nuclear de-escalation.
+## 13.5mn kids didn’t get even single vaccine in Ist year in 2025: WHO-Unicef report
+The estimated 13.5 million “zero-dose” children, included 679,000 in India, according to the annual WHO-UNICEF report
 
-## Mother of 9 kills husband with axe in his sleep over suspicion of affair in Madhya Pradesh
-The woman, Rumli Bai Dudwe (35), who allegedly killed her husband with an axe while he was asleep, has been arrested and sent to judicial custody by local court
+## Punjab's Mukh Mantri Sehat Yojna provides ₹4.15 crore cashless stroke treatment to 914 patients in 6 months
+Punjab's Mukh Mantri Sehat Yojna has revolutionized stroke treatment by providing ₹4.15 crore in cashless support to 914 patients.
 
-## Jolt to Tej Pratap's JJD as party candidate's nomination rejected in Bankipur over lack of signatures
-The Returning Officer (RO) rejected Vina Mandavi's nomination after scrutiny because the papers did not contain the required number of proposers' signatures.
+## ‘Straight out of Hollywood disaster movie’: Fire in Mumbai Coastal Road tunnel, no casualties but a jam, many questions
+Car catches fire in tunnel on Mumbai's Coastal Road; no casualties
 
-## Case against content creators for ‘defaming’ Nitin Gadkari amid E20 row
-Reacting to the FIR in a video, Manish Kasyap denied that his video contained false information and defended his criticism of the government's E20 programme.
-
-## UPSSSC introduces OTR system in PET exams
+## No ‘baja’ for baraat: Groom’s father wins Rs 39,000 after wedding band fails to arrive
 
 
-## Two dead, families rescued after massive fire in residential building in Noida
+## Jennifer Winget to tie the knot with William Ishmael in an intimate UK wedding: Report
 
 
-## The bittersweet realities of the India-UK FTA
+## ICC announces major revamp of ODI and T20 World Cup formats
 
 
-## Apple lets everyone try Siri AI with iOS 27 public beta
+## Court upholds 22-year-old rape convict’s life sentence term to prevent ‘mockery of justice’
 
 
-## Tuchel addressed post-match comments with team, cleared air after quarterfinal win
+## Fire at Gurgaon’s Kingdom of Dreams; no casualties at abandoned site
 
 
-## ‘Ready to roll out sex education in schools’: Centre tells Supreme Court
+## Cabinet approves Semiconductor Mission 2.0 with Rs 1.27 lakh crore outlay
 
 
-## Iran claims fresh missile strikes on US bases in Jordan, Bahrain and Kuwait; releases videos
+## BMC seeks Rs 22 crore from Taj Mahal Palace over post-26/11 security barriers
 
 
-## Madhuri Jain Grover evicted from Lock Upp 2, says, ‘Shared a special bond with Ram Kapoor’
+## Ethanol row: One influencer apologises as three accounts go offline after BJP FIR; another refuses to back down
 
+
+## Mainland China’s luxury housing boom is keeping wealthy buyers at home, report says
+China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market. A report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflow
 
 ## China’s slowing economic growth boosts case for stimulus
 China’s economy grew at the slowest pace in nearly four years in the second quarter, with sluggish consumption amid the fallout from the Iran war offsetting strong export growth. The 4.3 per cent increase in gross domestic product, down from 5 per cent in the first three months of the year, dragged 
@@ -159,8 +150,8 @@ A Chinese lab-grown diamond producer saw its profits triple over the first half 
 ## China’s first-tier home prices extend 4-month rebound amid market stabilisation
 New home prices in four Chinese first-tier cities rose by an average of 0.1 per cent last month, extending a four-month rebound and signalling a gradual recovery in market sentiment as housing stabilisation measures gain traction. Compared with May, home prices edged up 0.3 per cent in Shanghai and 
 
-## As consumption worries persist, Hong Kong investors shun mainland Chinese F&B stocks
-Mainland Chinese food and beverage (F&B) brands are struggling to win over Hong Kong investors, as persistent market concerns over the country’s weak consumption weigh on valuations. While more than 10 consumer and F&B chains successfully listed in 2025, this year presents a starkly different landsc
+## How the United States and Iran Can Solve Hormuz
+Fees for passage through the strait are likely inevitable.
 
 ## What Did the Nine-Dash Line Ruling Accomplish?
 Ten years on, the Philippines is stepping up its defense plans in the South China Sea.
@@ -183,8 +174,8 @@ Beijing’s diplomatic retaliation has limits—but fewer than before.
 ## The Houthis Have Joined the Chat
 Iran’s break-the-glass plan to strangle another key waterway may now be active.
 
-## Will a U.S.-Iran Deal Include Kurds?
-Attacks against Kurdish regions in Iran and Iraq never stopped.
+## New Caledonia Has a New, Pro-France President. What Now?
+New Caledonia has a new government, but the Pacific territory remains deeply divided between pro-independence and loyalist factions.
 
 ## Southeast Asia Has Weathered the Hormuz Crisis
 The region has shown real evidence of resilience.
@@ -206,9 +197,6 @@ Extremist-led mob violence in Pakistan often leads to further persecution – at
 
 ## Will Sheikh Hasina’s Planned Homecoming Revive the Awami League?
 Instead of being seen as a fugitive from justice, the former Bangladeshi prime minister could present herself as a political leader willing to face trial in her own country.
-
-## Sri Lanka Prison Riot Exposes Intertwined Crises of Drugs, Crime and Overcrowding
-A recent prison riot at Negombo underscores the need for the government to dismantle drug trafficking networks, contain criminal activity and carry out prison reforms.
 
 ## MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide
 Editor’s note: This is the third article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
@@ -258,29 +246,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?
+A new treaty signed by Britain and the EU includes the removal of border checks between Spain and Gibraltar.
+
+## FIFA World Cup brackets: Teams, predictions, schedule and road to the final
+Spain booked its place in the World Cup final while England and Argentina prepare for the game at Atlanta stadium.
+
+## Crowds cross between Spain and Gibraltar following UK-EU treaty
+A large crowd crossed between Spain and Gibraltar in the early hours of Wednesday morning, celebrating the UK-EU treaty.
+
+## ‘A role model’: Djed Spence, first Muslim England player, lifts hopes
+Britain swells with pride over the 25-year-old, the first Muslim to wear the England jersey at a FIFA World Cup.
+
+## Bangkok pub fire toll rises to 32 with 15 in intensive care
+Officials confirm two more deaths as 30 people remain in hospital, including 15 in intensive care units.
+
+## Sheikh Hamad bin Khalifa Al Thani and Al Jazeera
+A tribute to the late Father Emir from Al Jazeera's Chairman of Board of Directors Sheikh Hamad bin Thamer Al Thani.
+
 ## Iran launches attacks across region as US strikes continue
 Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.
 
 ## Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea
 At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.
-
-## US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?
-Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports.
-
-## Watch FIFA World Cup: Spain defeats France to reach final
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## US attacks Iran as IRGC claims strikes on US military sites in Gulf
-Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.
-
-## Lindsey Graham’s sister sworn in to fill his US Senate seat
-Lindsey Graham’s sister sworn in to fill his US Senate seat
-
-## Photos: Spain ends Mbappe and France’s World Cup dream to reach final
-France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final.
-
-## India’s ethanol rush prompts anger among vehicle owners, questions for gov’t
-Indian petrol stations now only offer fuel with 20 percent ethanol blended in. But the rushed move triggers criticism.
 
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
