@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Shabana Mahmood set to be named UK chancellor by Andy Burnham
+Current home secretary expected to succeed Rachel Reeves as finance minister
+
+## VAT is Burnham’s best tax-raising tool if UK public finances go off track, says OECD
+New report argues long-term reforms should focus on spending restraint, including end to pensions triple lock
+
+## The UK finally has a blueprint for innovation — now it must act on it
+The Whittle Lab aims to transform aerothermal engineering, one of the country’s strongest manufacturing industries
+
+## The UK is forgetting the dull bit of climate change policy
+Adaptation has never been the priority, but this summer’s heat is a message that the Treasury needs to act
+
 ## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
 Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
 
@@ -12,17 +24,8 @@ Investment bank becomes latest to shatter forecasts on back of AI boom
 ## Thames Water warns over long-term future
 Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
 
-## Zelenskyy expected to remove Ukraine’s popular defence minister
-Moderniser behind country’s drone development at risk of being ousted in cabinet reshuffle after just six months in post
-
-## What Wisconsin socialists tell us about the Democratic fightback
-The gubernatorial primary is a test bed for a radical pitch to voters in Midwest Trump country
-
-## One answer to EU strategic autonomy is orbiting overhead
-The Galileo satellite programme offers a model for funding joint defence projects and creating joint revenues
-
-## Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
-Jim Jordan warns culture secretary on UK move to force social media companies to boost trusted news
+## ASML raises forecasts as AI boom drives chipmaking demand
+Shares climb as Dutch company strikes bullish tone on durability of AI boom
 
 ## BrewDog co-founder James Watt makes new bid to buy back beer company
 Deal would restore ownership stakes of ‘equity punks’, says Watt
@@ -30,32 +33,35 @@ Deal would restore ownership stakes of ‘equity punks’, says Watt
 ## Billionaire Drahi’s Altice International accused of defaulting on €2bn of debt
 Creditors say transactions that moved assets out of their reach breached borrowing terms
 
-## UK’s biggest pub landlord probed over treatment of tenants
-Watchdog has ‘reasonable grounds’ to suspect company has broken rules over so-called beer tie
-
-## Athulya Senior Care’s Karthik Narayan to head CII Committee on Senior Care for 2026-27
-This demographic shift is expected to significantly increase the demand for organised senior care, geriatric healthcare, skilled caregivers and long-term care infrastructure
-
-## SBI Funds Management IPO subscribed nearly 3 times on Day 2, NIIs lead demand
-Supported by steady mutual fund inflows and record SIP investments, SBI Funds Management will close its IPO on July 16 ahead of its July 21 market debut
-
-## Destination Tripura conclave gets ₹1.21 lakh cr investment commitment
-Dr Manik Saha, Chief Minister of Tripura said the state’s Gross State Domestic Product has doubled in just six years, reflecting the impact of progressive reforms, infrastructure development and transparent governance
-
-## India-UK trade deal opens new opportunities for Tamil Nadu exporters, says High Commissioner to the State
-For Tamil Nadu, Choudhury identified six sectors poised to benefit because of the state’s existing manufacturing strengths
-
 ## FinMin likely to table Monsoon Session SDG after 5 years; 3 key financial bills on anvil
 This move comes amid rising fiscal pressures linked to the West Asia conflict and challenges posed by a subpar monsoon
 
-## Indian Gas Exchange files for IPO
-IEX currently holds a 47.3 per cent stake in IGX. The offer for sale will reduce its stake to 25 per cent
+## Low-pressure area set to deepen, bolsters monsoon over East India
+Boosting prospects of heavy rainfall over North-West India is the arrival of a couple of western disturbances and their likely interaction with easterly monsoon flows
 
-## Class-action suit: SC to hear Jindal Poly Films investors’ plea on Friday
-Sibal sought the Court’s intervention into how a pending class action (an in rem proceeding, admitted before the NCLT) came to an abrupt halt by way of a settlement by one sole shareholder with the company
+## Ladakh ships 5-tonne apricot consignment to UAE
+Lieutenant Governor Vinai Kumar Saxena flagged off the shipment from New Delhi
 
-## Bharat Tex 2026: Where Bharat’s textile future is taking shape
-The future of textiles will belong to those who combine sustainability, technology and creativity
+## Fractured monsoon: July recovery narrows overall deficit to 23%, but key regions remain dry
+According to the latest IMD data, India recorded 123.3 mm of rain during the first half of July against the historical normal of 128.9 mm, resulting in a minor overall deficit of 4%
+
+## MHI’s 10 GWh battery tender opens new growth market for India’s BESS sector
+The 10 GWh allocation alone will not make India self-reliant in battery manufacturing, as several upstream materials will continue to be imported.
+
+## Tata Motors opposes BEE’s mechanism on CO2 credit system under CAFE-2
+Says credits should be priced so that non-compliance is not made cheaper than compliance
+
+## Augmont Enterprises, NSE tie-up to boost electronic gold receipts adoption
+The company has developed the required IT infrastructure and expects to list its EGRs in the next three months, provided the GST issue is settled
+
+## ‘New mobile phone manufacturing scheme can aid Tamil Nadu's shift from assembly to value-added manufacturing’
+Tamil Nadu is well placed to benefit from MPMS with around 38-40 per cent of India’s smartphone shipments originating from Kanchipuram and Chengalpet districts.
+
+## US issues new non-proliferation sanctions targeting individuals, entities in Iran, Russia
+The United States has enacted fresh sanctions against seven individuals and entities linked to Iran's arms procurement activities. Targeting parties in Iran, Russia, Italy, and Nigeria, these sanctions aim to cut off financial support for Iran’s military. Consequently, any assets under US jurisdicti
+
+## JPMorgan Chase on track to become world's first bank with a $1 trillion valuation
+JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone for a bank. The lender's shares reached a record high after reporting its highest quarterly profit ever. Analysts expect dealmaking activity to remain strong through the rest of 2026. This achievement would place JPMorgan
 
 ## Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid
 When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age, financial goals, income, risk tolerance
@@ -75,11 +81,17 @@ The Union Cabinet approved seven significant decisions on Wednesday. These appro
 ## China's economic growth slows to weakest pace in three years despite export boom
 China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech g
 
-## Sensex jumps over 500 points, Nifty above 24,200: Top reasons driving stock market rally
-Dalal Street experienced a strong rebound on Wednesday, reversing previous session losses. Improving tech sentiments and a firmer rupee boosted investor confidence significantly. Geopolitical developments and global cues also supported the market's upward movement. Foreign investors turned net buyer
+## 2 property dealers arrested in MP’s Aishbagh double murder case: Police
+CCTV footage had earlier captured two suspects in raincoats, prompting police to announce a reward of ₹50,000 for information
 
-## Gold price prediction today: Where are gold & silver headed? Check July 15, 2026 outlook
-Gold price prediction today: Gold prices are likely to see a constructive outlook in the near-term, while silver is supported for the long-term, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
+## Bengaluru man, 24, slits grandmother's throat after repeated arguments over having no job
+Police said the accused returned to his home in KS Layout after committing the crime and allegedly confessed to his mother.
+
+## Abhishek Banerjee gives voice sample in Bengal assembly poll speech case
+TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to record his voice sample
+
+## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
+Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
 ## ECI revises electoral roll verification schedule for four more states
 The nationwide SIR is being implemented in phases across states and Union Territories to update electoral rolls through extensive field verification
@@ -93,40 +105,28 @@ Palestinian Ambassador to India Abdullah M Abu Shawesh said that any reform of t
 ## Gurugram Thar accident victim's family says driver brought body back to spot from hospital
 The victim was reportedly resting in the basement parking area when the SUV ran over her as the resident attempted to park the vehicle.
 
-## CCTV shows Badrinath donation theft accused stealing cash on 4 occasions: Cop
-Police said 34 rounds of donation counting have been conducted at the Badrinath temple since its opening for the current pilgrimage season
-
-## ‘On special invitation of ED’: Mahua Moitra dismisses Madan Mitra's exit from Mamata's TMC for rebel camp | Watch
-Madan Mitra said he had “only changed my room in assembly”, and denied any connection between his move and the ED summons issued to his family.
-
-## India-UK historic free trade deal, social security agreement comes into effect | All we know
-The operationalisation of the India-UK CETA was announced by outgoing Prime Minister Keir Starmer at the G7 Summit in France.
-
-## 'Flying buses soon': Nitin Gadkari has another big plan, cites 'plane that lands on water'
-Speaking at the inauguration of the Lucknow-Kanpur Expressway on Tuesday, Gadkari announced plans to introduce "flying buses".
-
-## India-UK FTA kicks in: What changes for consumers, industry
+## Meet ‘colourful boy’ Madan Mitra, Mamata loyalist who switched to ‘rebel’ TMC camp
 
 
-## Karnataka won’t force farmers to give land for Bidadi township, assures CM D K Shivakumar
+## The Odyssey eyes Rs 22 crore opening day, Rs 75 crore opening weekend in India
 
 
-## Aster facility in Kullu park: Matter pending before high court, green tribunal adjourns hearing
+## Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach
 
 
-## Now Jammu University orders audit of all books on its premises
+## The Odyssey review: A flawed hero’s homecoming meets Christopher Nolan’s boundless ambition
 
 
-## How Didier Deschamps’s elite bunch fell short on big stage – 3 times to Spain
+## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on Geostationary orbit, Soyuz MS-29 mission and more (Week 171)
 
 
-## Promised dealership, Mumbai man duped of Rs 5.5 lakh on fake Tata Motors website
+## SBI Funds Management IPO subscribed 2.77 times; NII category drives demand
 
 
-## ‘Lot of it is silly, illogical’: Kiku Sharda reveals how Kapil Sharma’s show is written
+## MCD, NDDB sign pact to set up biogas plants to utilise dairy waste
 
 
-## ‘Don’t ignore hearing loss’: Neurosurgeon shares six brain health tips for people over 70
+## FIFA World Cup | How Spain’s de la Fuente outwitted and outclassed France’s Deschamps
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -153,6 +153,9 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
+## The Other American Anniversary
+The 1826 Congress of Panama sought to resist the predations of great powers. It was as relevant then as it is now.
+
 ## Trump’s Boat Strikes Are Crimes Against Humanity
 Rodrigo Duterte’s prosecution at the International Criminal Court shows why U.S. officials should be worried.
 
@@ -173,9 +176,6 @@ With the latest rules, Beijing hopes to rein in a booming industry.
 
 ## Trump Pivots His Strait of Hormuz Strategy—Again
 Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
-
-## The Gulf States That Iran Thinks It Can Attack
-Why Bahrain and Kuwait have become Tehran’s preferred targets.
 
 ## New Caledonia Has a New, Pro-France President. What Now?
 New Caledonia has a new government, but the Pacific territory remains deeply divided between pro-independence and loyalist factions.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq’s prime minister carries the title, but not the power
-Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.
+## Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen
+A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.
 
-## What DOGE saved, and what it cost
-The US government project that slashed foreign aid died on July 4. AJLabs looks at the cost in lives around the world.
+## Trump urges ICE to keep using traffic stops after deadly incidents
+US president backs tactic despite agency announcing temporary pause after fatal shootings in Texas and Maine.
 
-## World Cup final Lamine Yamal: What to know about teenage Spain prodigy
-One of the best players in the world, Spain's 19-year-old Lamine Yamal, is gearing up for his first World Cup final.
+## Who is calling the shots in Iran amid the deadly war with the US?
+The IRGC has taken the lead in Iran, particularly over Hormuz - and the government says it's on the same page.
 
-## Far-right Israeli lawmaker raids Palestinian school and threatens shutdown
-Israel’s education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols.
+## England vs Argentina LIVE: FIFA World Cup 2026 semifinal
+Live coverage and text updates as England and Argentina renew one of football's great rivalries in the semifinal.
 
-## Protest in Pakistan’s Kashmir stalls after nine killed in clashes
-At least 28 people have been killed since protests began in June, as the region braces for a major protest march.
+## July 15, 10 years on: Turkiye’s will, Turkiye’s victory
+The defeat of the 2016 coup attempt helped usher in a decade of greater diplomatic, economic and military power.
 
-## Spain’s Oscar-winning actor raises Palestine flag at World Cup match
-Spain's Oscar-winning actor Javier Bardem had a message for Palestinians as he raised Palestine flag during World Cup.
+## How US-Iran escalation will test Iraq’s balancing act
+The Iraqi PM visited the White House to deepen economic ties, as Iraq-based allies of Iran threatened to fight the US.
 
-## US strikes marine control tower in Iran
-US strikes marine control tower in Iran
+## My Twitter, not X
+As Twitter, then X, marks 20 years since its launch, a journalist journeys through revolutions and wars.
 
-## As the US restarts war on Iran, is its weapons stockpile running low?
-The US has expended a significant number of munitions since the war began in February.
+## Legal challenge says Trump ICC sanctions tread on US citizens’ rights
+Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
