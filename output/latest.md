@@ -1,6 +1,15 @@
 # AION Intelligence
 
-## SpaceX sell-off wipes $800bn from Musk’s rocket group
+## Zelenskyy removes Ukraine’s popular defence minister
+Moderniser behind country’s drone development ousted in cabinet reshuffle after just six months in post
+
+## Uber nears €12.5bn deal to acquire Delivery Hero
+German food delivery group will spin off Turkish and some European operations to a different buyer
+
+## Thames Water warns over future as Burnham eyes state control
+Britain’s next prime minister is set to make an announcement on sector
+
+## SpaceX sell-off wipes $1tn from Musk’s rocket group
 Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
 
 ## Number of higher and additional UK taxpayers rises 35% in 3 years
@@ -15,15 +24,6 @@ Advent International and Stripe’s $53bn offer is a bargain for the buyers
 ## Ukraine’s self-defeating reshuffle
 Wartime leadership is not a popularity contest
 
-## UK statistics agency struggles to hire interviewers to restore survey quality
-ONS says recruitment under way as part of efforts to improve economic data output
-
-## Shabana Mahmood set to be named UK chancellor by Andy Burnham
-Current home secretary expected to succeed Rachel Reeves as finance minister
-
-## VAT is Burnham’s best tax-raising tool if UK public finances go off track, says OECD
-New report argues long-term reforms should focus on spending restraint, including end to pensions triple lock
-
 ## ASML raises forecasts as AI boom drives chipmaking demand
 Shares climb as Dutch company strikes bullish tone on durability of AI boom
 
@@ -35,12 +35,6 @@ Billionaire Berkshire chair says he could ‘picture’ himself making a similar
 
 ## BrewDog co-founder James Watt makes new bid to buy back beer company
 Deal would restore ownership stakes of ‘equity punks’, says Watt
-
-## Oil traders warn market is close to running on empty as Hormuz shuts again
-Stockpiles that acted as shock absorbers early in Iran war are running low as key waterway closes once more
-
-## Morgan Stanley wealth management boosted by SpaceX millionaires
-Investment bank becomes latest to shatter forecasts on back of AI boom
 
 ## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
 Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
@@ -114,28 +108,28 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
-## Pune fort death: Police probes Siya, Chetan’s visit to Rajasthan
+## Why Greater Tunb, Iran’s ‘unsinkable aircraft carrier’, was hit by US
 
 
-## Kotul excavations show site was a large trade hub during Satavahana period
+## After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricity dues
 
 
-## At Chennai Grand Masters, another Gukesh vs Nodirbek Abdusattorov battle loading
+## England vs Argentina FIFA World Cup 2026 Semifinal Match Live Updates: Messi faces ENG for first time as ARG look to book spot in second final in a row
 
 
-## Joe Biden’s memoir ‘Promise Me, America’ to hit shelves after US midterms amid Democratic unease
+## Prashant Kishor poll debut runs into rough weather, his party loses leaders to BJP
 
 
-## Water crisis grips New Sunny Enclave; RWA urges SDM to install three approved tubewells
+## ECI extends electoral roll revision in Punjab, draft now on Aug 13, final on Oct 12
 
 
-## ‘Are you Muslim?’: Indian-origin man stabbed 15 times in US after religion questioned
+## NEET-UG 2026 paper leak: 111 of 136 questions on Latur tutor’s phone matched NTA master set, CBI tells Delhi court
 
 
-## Publishers sue Google over use of copyrighted books for AI training
+## Supreme Court clears Uttar Pradesh’s night safari project in Kukrail Reserve Forest
 
 
-## Vijay Sethupathi recalls being with father as debt collectors came home: ‘I dealt with it’
+## Gujarat Confidential: Wrong Order
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -162,6 +156,9 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
+## Ukraine’s Drones Have Turned the Tide, but Can They Change the Map?
+Mid-range drone strikes may not be enough to regain Ukrainian territory.
+
 ## The Other American Anniversary
 The 1826 Congress of Panama sought to resist the predations of great powers. It was as relevant then as it is now.
 
@@ -182,9 +179,6 @@ Mark Carney and Mark Rutte offer competing visions for the future of the trans-A
 
 ## China Wants to Regulate AI Companions
 With the latest rules, Beijing hopes to rein in a booming industry.
-
-## Trump Pivots His Strait of Hormuz Strategy—Again
-Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
 
 ## Australia Wants to ‘Manage’ AI. What Will That Look Like?
 “This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing
-Blanche's actions have raised questions over the independence of the Department of Justice, which he currently leads.
+## Syrian authorities arrest ex-officer accused of chemical weapons crimes
+Former colonel Ahmed Habib Ali is accused of supervising the manufacture of sarin gas bombs.
 
-## Why are right-wing parties gaining ground in Latin America?
-Several recent elections have strengthened conservative forces across parts of Latin America.
+## European Athletics moves to curb on-screen sexualisation of female athletes
+The guidelines are based on feedback from athletes who said certain camera shots can cause discomfort and distractions.
 
-## Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash
-Argentina vice president's remarks made ahead of the World Cup semifinal against England and amid sovereignty dispute.
+## Palestinian homes sealed off by Israeli military restrictions
+An Israeli military order imposed after a series of settler attacks has left families cut off from parts of their home.
 
-## Cruise ship hotel left listing in China port after high tides
-A cruise ship-turned-luxury floating hotel that has been idle for about 14 years rolled onto its side while docked.
+## US intelligence director pick refuses to acknowledge Trump loss in 2020
+Jay Clayton, often in circuitous fashion, avoided saying Joe Biden won 2020 race during his confirmation hearing.
 
-## Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM
-Ukraine's parliament is expected to vote for the next prime minister on Thursday.
+## Lebanon and Israel end sixth round of US-brokered talks
+A US official said the two sides made progress on a plan for Israel to withdraw from 'pilot zones' in southern Lebanon.
 
-## Norway’s Waerenskjold wins fastest Tour de France stage in history
-At an average speed of 50.91kph, Soren Waerenskjold's sprint was the fastest road stage in the 113 editions of the Tour.
+## Iran unveils huge billboard showing Trump in coffin
+Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin.
 
-## Starmer bids MPs goodbye as British PM and pledges to support his successor
-Andy Burnham, who is set to formally replace Starmer on Monday, will become the UK’s seventh prime minister in a decade.
+## Prominent Moroccan journalist Ali Lmrabet released from custody
+Moroccan activists warn of an intensifying crackdown on regime critics after the arrest of a journalist and a rapper.
 
-## Father, mother, daughter killed in Israeli attack on Gaza home
-Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.
+## Gas tanker explodes in fire near army barracks in Lebanon
+A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
