@@ -1,19 +1,31 @@
 # AION Intelligence
 
+## Argentina break English hearts with late World Cup semi-final comeback
+Lionel Messi assists twice as reigning champions secure 2-1 win to reach back-to-back finals
+
+## Vote on US aid to Israel shows divide in Democratic Party
+Failed amendment to an annual defence spending bill would have eliminated the $3.3bn the US provides to Israel
+
+## Ukraine’s self-defeating reshuffle
+Sacking of the defence minister is a setback for the country’s military efforts
+
+## Blanche grilled over loyalty to Trump in tense confirmation hearing
+Acting attorney-general vows to resign if asked to act illegally but insists he serves at pleasure of the president
+
+## Athens opposes new EU sanctions on Russia to shield Greek shipping company
+George Prokopiou’s Dynagas specialises in transporting cargoes from Moscow’s Arctic LNG
+
 ## SpaceX sell-off wipes $1tn from Musk’s rocket group
 Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
 
 ## Oil traders warn market is close to running on empty as Hormuz shuts again
 Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again
 
-## Pentagon to offer testosterone treatment to US troops
-Defence secretary Pete Hegseth’s move comes amid focus on low sperm count and virility on American right
+## US troops to get testosterone treatment to make them strong
+Announcement from defence secretary Pete Hegseth comes amid focus on low sperm count and virility on American right
 
-## Volodymyr Zelenskyy sacks Ukraine’s popular defence minister
-Moderniser behind country’s drone development ousted in cabinet reshuffle after just six months in post
-
-## Vote on US aid to Israel set to lay bare divide in Democratic Party
-Amendment to an annual defence spending bill would eliminate all $3.3bn the US provides to Israel
+## Dan Ives and Trump family-linked securities group launch AI bank, because why not?
+Ives and Yorkville. Name a more iconic duo
 
 ## Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
 Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
@@ -21,20 +33,11 @@ Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
 ## European industries expected to win more time to emit carbon
 Heavy lobbying by polluting companies and countries over review of EU emissions trading scheme
 
-## Canadian wildfires prompt air quality warnings as far as New York City
-Smoke from more than 100 ‘out of control’ blazes spread across region
-
-## Dan Ives and Trump family-linked securities group launch AI bank, because why not?
-Ives and Yorkville. Name a more iconic duo
-
 ## Uber nears €12.5bn deal to acquire Delivery Hero
 German food delivery group will spin off Turkish and some European operations to a different buyer
 
 ## Thames Water warns over future as Burnham eyes state control
 Britain’s next prime minister is set to make an announcement on sector
-
-## PayPal investors can afford not to check out too hastily
-Advent International and Stripe’s $53bn offer is a bargain for the buyers
 
 ## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
 Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
@@ -108,6 +111,18 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
+## Demolition order issued against 38 of 40 buildings at Azam Khan’s university
+
+
+## Mohan Bhagwat to deliver lecture on ‘contemporary motherhood’
+
+
+## Argentina break England hearts to book FIFA World Cup final vs Spain
+
+
+## Sumul Dairy polls: 7 out of 9 seats see ‘100% polling’
+
+
 ## Noida building fire: The dos and don’ts of charging EVs at housing complexes
 
 
@@ -118,18 +133,6 @@ Temple was set up by Hindu families in the 1980s who had arrived in Britain afte
 
 
 ## Pune civic body to spend Rs 167.25 cr to redvelop 135.8 km road for Pune Grand Tour
-
-
-## Passport office gets third hoax bomb threat in five months
-
-
-## Elon Musk’s SpaceX sinks below IPO price weeks after blockbuster listing
-
-
-## SIR in Delhi: Deadlines extended only 15 per cent forms digitised so far
-
-
-## Varanasi to get two elevated highway corridors as Cabinet clears projects worth Rs 25,446 crore to ease congestion
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -156,6 +159,15 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
+## Russia Shifts Its Focus to the Black Sea
+Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.
+
+## Will Hasina Return to Bangladesh?
+The former prime minister set a timeline for her homecoming, despite the threat of arrest.
+
+## A New Law Heralds China’s Fraught Ethnic Future
+Xi Jinping’s push for assimilation won’t solve long-standing issues.
+
 ## Sudan Faces New Sanctions as Evidence of Atrocities Mounts
 But countries remain unwilling to directly sanction foreign actors enabling the war.
 
@@ -170,15 +182,6 @@ The 1826 Congress of Panama sought to resist the predations of great powers. It 
 
 ## Trump’s Boat Strikes Are Crimes Against Humanity
 Rodrigo Duterte’s prosecution at the International Criminal Court shows why U.S. officials should be worried.
-
-## Putin’s War Comes Home to Russia
-Ukraine’s attacks have unleashed a crisis—but don’t expect repercussions for the regime.
-
-## How the United States and Iran Can Solve Hormuz
-Fees for passage through the strait are likely inevitable.
-
-## What Did the Nine-Dash Line Ruling Accomplish?
-Ten years on, the Philippines is stepping up its defense plans in the South China Sea.
 
 ## Australia Wants to ‘Manage’ AI. What Will That Look Like?
 “This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Russia pounds Ukraine with missile, drone strikes
-Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.
+## Argentina stun England in 2-1 comeback win to reach 2026 World Cup final
+Holders Argentina will face Spain in the final after snatching victory England in ⁠a highly-charged encounter.
 
-## French Parliament approves landmark assisted-dying bill
-Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council.
+## xAI sues user for exploiting AI tool to sexualise minors
+Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.
 
-## Ukraine strikes 20 Russian vessels
-Ukraine released video of strikes on 20 Russian vessels in the Black Sea, including 17 oil tankers.
+## Authors, publishers sue Google over alleged AI copyright infringement
+Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.
 
-## The history of the US and Iraq’s complicated relationship
-As Iraq’s prime minister visits Washington seeking deeper economic ties.
+## Sheinbaum rejects US claim that Mexico’s government is linked to cartels
+Sheinbaum has denounced remarks from DEA head Terry Cole as a baseless 'political statement' about Mexico.
 
-## Protests in Paris, Gaza for release of Hussam Abu Safia
-Protests were held in Paris and Gaza demanding the release of Palestinian doctor Hussam Abu Safia.
+## What are the obstacles to peace between Israel and Lebanon?
+Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.
 
-## Fourteen-year-old boy charged over alleged plot targeting London mosques
-Suspect is charged with 'preparation of terrorist acts - linked to extreme right-wing terrorism', say British police.
+## What happened in the first half of the England vs Argentina semifinal?
+All the biggest moments, heated exchanges, fouls and stats from the first 45 minutes of the heated semifinal in Atlanta.
 
-## Argentina fans flood Atlanta ahead of England World Cup match
-Thousands of Argentina fans held a banderazo in the streets of Atlanta ahead of their World Cup semi-final.
+## 10 years on from Turkiye’s failed coup attempt on Erdogan
+10 years on from Turkiye’s coup attempt to overthrow President Erdogan, the country remains divided over its legacy.
 
-## Syrian authorities arrest ex-officer accused of chemical weapons crimes
-Former colonel Ahmed Habib Ali is accused of supervising the manufacture of sarin gas bombs.
+## Pezeshkian vows Iran will defend ‘every inch’ of its territory
+President Masoud Pezeshkian vowed Iran will defend every inch of its territory, saying attempts to tear the country apar
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
