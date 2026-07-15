@@ -1,142 +1,142 @@
 # AION Intelligence
 
-## City leaders chew over Reeves’ successor at Mansion House banquet
-Conversations at annual gathering focus on who will take key job of chancellor in new Burnham government
+## FirstFT: Ukraine to buy Chinese drone parts with EU funds
+Also in today’s newsletter: Trump’s return to war with Iran and BYD signals wider European expansion
 
-## Spain reach second World Cup final with comfortable win over France
-Spanish players put on calm and controlled display in 2-0 victory over the tournament favourites
+## The Story of Money
+Watch the latest episode from the FT podcast exploring the history of finance
 
-## Manic markets show no mercy to IBM
-Failure will apparently not be tolerated
+## China reports lowest GDP growth in more than 3 years
+Second-quarter figure falls below annual target range as monthly indicators highlight economic pressures
 
-## FirstFT: Wall Street banks shatter records on AI-stock trading frenzy
-Also in today’s newsletter: IBM shares plunge and DeepSeek weighs new fundraising
+## As good as it gets in banking?
+Wall Street banks have unveiled record quarterly profits but risks loom
 
-## UK teenagers face midnight curfew on using social media platforms
-Addictive features such as autoplay videos and infinite scrolling will be switched off under planned laws
+## Oracle leads race to supply Japan with top-secret cloud services
+Larry Ellison’s group proposes ‘air-gapped’ network as US pressures Tokyo to tighten security of sensitive data
 
-## New Zealand PM warns against Ardern-era ‘sugar rush economics’
-Ex-Air New Zealand boss says financial discipline has put economy back on track after pandemic and recession
+## Unprecedented UK stretch above 30C stokes ‘firewave’ and strains emergency services
+Swath of the nation from Kent to Lincolnshire records significantly more rapid warming than the rest of the UK
 
-## Miliband trails Mahmood in race to become Burnham’s chancellor
-Home secretary emerges as favourite for key role amid criticism of energy secretary’s radical net zero policies
+## The former Britpop stalwart at the heart of Burnham’s machine
+Anneliese Midgley, who previously advised Jeremy Corbyn and Sir Keir Starmer, has been credited as a key influence on the incoming PM
 
-## Trump says US to abandon proposed Strait of Hormuz cargo fee
-US military launches seventh wave of strikes after the president said he would ‘replace’ fees plan with Gulf investment
+## Is the US or Europe better off?
+Comparing the two economies is harder than it seems
 
-## Circle clashed with Tether-backed fund over market manipulation concerns
-New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group
+## Brand Bellingham heads for the big league after World Cup heroics
+England star Jude Bellingham’s match-winning performances are likely to be rewarded with new brand endorsement deals
 
-## Lucid brings in turnaround advisers as EV sales slump
-Saudi-owned carmaker has hired AlixPartners to help ‘strengthen operations’
+## Airtel Africa taps more bankers for rare London IPO of mobile money business
+Flotation could raise around $1.5bn and provide a much-needed boost for the UK’s depressed public markets
 
-## IBM shares plunge 25% as customers shift spending to AI
-Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
+## Is Rightmove taking us for a ride?
+Estate agents are convinced the UK’s most popular property portal exploits its dominant position — but determining whether vendors foot the bill is tricky
 
-## Everything is awesome for banks
-Lenders are riding the tech wave, too
+## Daniel Ek’s body-scanning start-up raises $700mn for US push
+Funding round sees Neko Health’s valuation jump fourfold to almost $7bn for Spotify founder
 
-## Buffett drops Gates Foundation from $6bn Berkshire donation
-Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
+## CAC49 adopts 7 Codex standards developed under India’s leadership
+Fresh curry leaves, dried coriander and five other Codex texts adopted under India’s chairmanship and co-chairmanship.
 
-## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
-JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
+## Hero MotoCorp doubles down on Ather with ₹1,000 crore bet as EV strategy enters next phase
+Hero MotoCorp will invest up to ₹1,000 crore more in listed electric scooter maker Ather Energy, despite the EV company continuing to report losses
 
-## Spain’s anaconda grip strangles France’s World Cup dream
-Relentless pressing, flawless possession and clinical finishing powered Spain past France 2-0, moving the European champions one step from World Cup glory
+## Q1 Results Today Live: UBI, Groww, HDFC Life, HDFC AMC, ICICI Lombard, ICICI Pru, HDB Financial, Angel One to announce Q1 results, LTTS, Tata Elxsi, Jindal Saw, Anand Rathi Share in focus
+Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
 
-## Sensex today | Stock Market Live: Stock to buy today: Caplin Point Laboratories
-Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Caplin Point Laboratories. The stock has been consolidating within its broader uptrend for more than two weeks between ₹2,500 and ₹2,700. We expect the stock to make a bullish breakout above ₹2,700 and resume the broader uptrend
+## The University of Western Australia appoints SRM Technologies as Information Technology Partner for its India Branch Campuses
+The University of Western Australia appoints SRM Technologies as Information Technology Partner for its India Branch Campuses
 
-## US reimposes blockade on Iranian ports as Strait of Hormuz tensions escalate
-The move came alongside fresh US strikes on Iran, while Bahrain and Kuwait activated missile defences against Iranian attacks
+## Making Strides in Cardiac Healthcare at Zydus Hospitals, Gujarat
+Making Strides in Cardiac Healthcare at Zydus Hospitals, Gujarat
 
-## Stocks to watch: Why these 16 shares will be in focus today
-L&T Tech, Hero MotoCorp, ICICI Lombard, J&K Bank, KEC International, Lemon Tree Hotels, Kirloskar Brothers, Vraj Iron, 3i Infotech and more are expected to remain in focus today
+## Sensex today | Stock Market Live: Sensex jumps nearly 550 points, Nifty tops 24,200 as earnings lift sentiment
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices trade higher on Wednesday, tracking positive global cues as investors shifted focus to the earnings season. Easing oil prices, optimism over the India-UK trade pact and encouraging early corporate results further supported market sentiment.
 
-## NASA astronaut Anil Menon and two Russian cosmonauts reach International Space Station
-During his eight-month ISS mission, Menon will conduct research on long-duration spaceflight, microgravity, artificial intelligence, and advanced medical technologies.
+## Aokah and Industry Leaders Identify Five Trends Reshaping Global Capability Centers
+Aokah and Industry Leaders Identify Five Trends Reshaping Global Capability Centers
 
-## Spain beat France 2-0 to reach FIFA World Cup final after Lamine Yamal shines
-Spain reached their first FIFA World Cup final since 2010 and will face Argentina or England, while France now turn their attention to the third-place playoff
+## Mach Travel Solutions Limited Crosses 85,000 Yatri Milestone Under Mukh Mantri Teerth Yatra Scheme
+Mach Travel Solutions Limited Crosses 85,000 Yatri Milestone Under Mukh Mantri Teerth Yatra Scheme
 
-## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
-Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
+## India a 'huge growth opportunity': UK-India investment pact can boost FDI, says former FTA negotiator
+India presents significant global investment opportunities, attracting companies with its long-term growth potential. A proposed Bilateral Investment Treaty between India and the UK could boost investor confidence. The India-UK Comprehensive Economic and Trade Agreement offers preferential market ac
 
-## New York imposes one-year moratorium on large data centres over AI concerns
-The pause will allow New York to set environmental standards and assess the long-term impact of large data centres
-
-## With 73% rise, Adani Properties top realty gainer
-Adani Properties saw significant wealth surge, moving to fourth position on the property list. DLF retained its top valuation despite a notable decline in its overall worth. Lodha Developers and Indian Hotels Company also experienced valuation decreases this year. The Indian real estate sector showe
-
-## Raising bank stakes gets easier for DIIs
-The Reserve Bank of India has proposed changes to bank shareholding norms. These amendments aim to ease investment by domestic institutional investors. Governance rules will also be revised for bank boards to focus on strategy. The central bank seeks to refine acquisition norms for portfolio manager
-
-## Led by NRI deposits, RBI swaps may draw $80-85 billion
-Bankers anticipate India will attract eighty to eighty-five billion dollars through RBI's swap-backed initiatives. Early inflows are expected from FCNR(B) deposits, which are already seeing traction. Public sector undertakings and banks are adopting a wait-and-watch approach on other issuances. Thes
-
-## IDBI stake sale back on table, government keen to speed up process
-Government is accelerating the IDBI Bank stake sale process. Two bidders, Fairfax and Emirates NDB, are being considered. This follows the rejection of earlier bids below the reserve price. Recent foreign investments in Indian banking include Yes Bank and RBL Bank. Mitsubishi UFJ Financial Group als
-
-## FTA with UK comes into effect today, exports to get a boost
-The India-UK free trade agreement begins implementation, boosting Indian exports to the UK. Indian service providers and professionals will gain greater access to the United Kingdom market. Many Indian products will enter the UK duty-free, enhancing export competitiveness significantly. Digital serv
-
-## India moves to block imports linked to forced labour amid USTR probe
-India is inserting a new clause into its foreign trade policy. This clause will allow blocking imports produced using forced labour. The government will use the International Labour Organisation's definition of forced labour. This move strengthens India's legal framework for trade negotiations. The 
-
-## US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%
-US senators unveiled a revised Russia sanctions bill targeting major energy buyers. This legislation seeks to pressure Moscow and its key oil and gas importers. The updated bill reduces previously proposed tariffs on top purchasers like China and India. It also targets Russia's shadow fleet and fina
-
-## India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%
-India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 p
-
-## Tahir Hussain, armed mob dragged and murdered IB officer Ankit Sharma: Delhi court
-The Delhi court held Tahir Hussain and four others guilty in the murder of Ankit Sharma. Six others were acquitted of all charges in the case.
-
-## 'Will not entertain': Supreme Court rejects plea against SRK’s Mannat revamp
-The petition sought to quash the coastal regulation zone (CRZ) clearance on January 3, 2025 granted for constructing the seventh and eighth floors.
-
-## Ram temple donation row: Treasurer Govind Giri refuses to step down, blames SBI
-Addressing reporters in Pune, Giri Maharaj said his “penance” was to prevent a recurrence, not resignation.
-
-## 20 rebel TMC MPs likely to get new Lok Sabha seats: 'Speaker has assured us'
-20 of the party’s 28 Lok Sabha MPs decided to merge with the NCPI and aligned themselves with the ruling National Democratic Alliance (NDA).
-
-## Delhi Police cop who shot wife dead kills self using same service pistol
-Prima facie, Kumar said, it appeared that the constable had shot himself 10 to 15 minutes before his body was discovered.
-
-## 'Dreams shattered': Family of Indian sailor killed in Iranian attack mourns loss
-The sailor was killed and 10 other Indian nationals were injured, two of them seriously, in missiles attacks on two Emirati oil tankers.
-
-## AI-171 crash probe may end in 6 weeks, 'draft final report' by year-end: Centre to Supreme Court
-Air India flight 171 crashed moments after take off on June 12, 2025. Except for one, all on board and 19 people on the ground were killed.
-
-## New US bill proposes up to 100% tariffs on India, others over Russian oil purchase
-The bill - which has been backed by the White House - could be passed before August and aims to cripple Russia’s revenues from its energy exports.
-
-## Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journey
+## Gold Silver Rate Today Live Updates: Gold rallies over 2% to $4,063 as weak US data boosts investor sentiments
 
 
-## Hindu man’s ‘fast broken’ after drinking ‘moldy’ juice, wins Rs 70,000 payout
+## Stock market today: BSE Sensex jumps 550 points, NSE Nifty50 crosses 24,200
 
 
-## All eyes on Rahul as Punjab Congress mired in factionalism, can mar its prospects in 2027
+## Worse fall than 1987, $69 billion wipeout as IBM ‘falters’: Why stock price crashed 25% - analysts call it ‘ugly moment’
+​​Shares of IBM plunged 25% on Tuesday, with the company seeing a steeper one-day decline than it experienced during the 1987 "Black Monday" market crash. The weakness also spread to other software stocks.
+
+## Top stocks to buy today: Stock recommendations for July 15, 2026 - check list
+Stock market recommendations: Route Mobile, Tata Power, and Dr. Reddy's Laboratories - these are the top stocks to buy picked by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 15, 2026.
+
+## Oil price today: Crude tops $85 a barrel as US restores Strait of Hormuz blockade
+Oil prices surged beyond eighty-five dollars per barrel on Wednesday. This occurred after the United States reinstated a naval blockade on Iran. Fighting between Washington and Tehran escalated, raising concerns over crude supplies. The United Arab Emirates reported Iranian cruise missile attacks on
+
+## IBM shares tank 26% after initial results disappoint
+International Business Machines reported disappointing preliminary results on Tuesday. This news caused significant drops in software and IT services company shares. Investors are now concerned about a capital spending pivot impacting the entire industry. Many software stocks experienced notable dec
+
+## Air transport down 14% in April: ISP data
+Air transport output contracted nearly fourteen percent in April, reflecting high fuel costs. Railways also saw a slight decline in output during the same month. Fourteen of nineteen services sub-sectors registered double-digit growth, showing overall resilience. Food and accommodation recorded the 
+
+## Madras HC’s appeal on online relationships urges youngsters to exercise caution
+The court issued the advisory while dismissing a man’s appeal against his conviction in a case of rape and sexual assault
+
+## India to account for each seafarer irrespective of vessel flag: Govt's big announcement after sailor killed in Hormuz
+The move comes amid an escalating maritime security crisis in West Asia following attacks on two merchant vessels in the Strait of Hormuz.
+
+## Trump's ‘knock out’ warning to Iran, US bases targeted in the Gulf as war escalates: Top points
+Oil prices climbed amid fears of further disruption to global energy supplies even as Trump warned of hitting Iran's power plants and bridges ‘next week’.
+
+## Manipur: Four arrested in connection with Assam Rifles convoy ambush
+Officials said the four were arrested during an operation conducted at Sharakphung (Sikibung) village, TM Kasom and Lungphu village of Kamjong district of Manipur on Tuesday
+
+## Sonam Wangchuk hunger strike LIVE: Petition in Delhi HC seeks force-feeding, hospitalisation of Wangchuk
+Sonam Wangchuk hunger strike LIVE: Activist Sonam Wangchuk's hunger strike at Jantar Mantar entered day 18 on Wednesday. A petition has now been filed before the Delhi high court, urging him to be taken to a hospital and ensure he receives the required medical treatment, including force-feeding.
+
+## 3 convicted prisoners escape from Kalaburagi jail, one caught: Police
+Police in Kalaburagi district on Tuesday managed to foil a Pocso convict’s escape attempt, hours after he and two others escaped Kalaburagi Central Prison, allegedly after cutting through iron bars in a washroom window and scaling the compound wall, setting off a statewide manhunt and a probe into t
+
+## Telangana CM seeks Centre’s approval to kick start projects
+Telangana chief minister A Revanth Reddy on Tuesday sought the Centre’s approval for the northern section of the Regional Ring Road (RRR) and sought the immediate commencement of construction works
+
+## Kerala HC rejects Pulsar Suni’s plea to suspend sentence
+The Kerala high court on Tuesday dismissed a plea by Sunil NS, alias Pulsar Suni, seeking suspension of the sentence imposed on him in the 2017 actress assault case
+
+## RBI overhauls board governance framework: shifts focus to strategy, risk oversight
 
 
-## Did referee rob France of a World Cup final spot? Deschamps questions after Spain defeat
+## Advocate moves Delhi High Court, seeks directions to force-feed activist Sonam Wangchuk
 
 
-## ‘Counsel, you are on mute’: The world of virtual courts
+## Stone pelting, arson, teargas as mob targets Assam Rifles camp in Manipur
 
 
-## Who are the Ravidassias and why do they want a separate religion category in Census?
+## Fujifilm Instax Mini Evo Cinema review: A weird, fun retro camera
 
 
-## Goa: No seminars by outsiders without govt nod, educational institutions told
+## Guest lecturers also entitled to maternity pay, rules Chhattisgarh High Court
 
 
-## Worli concert death: Toxicology report finds MDMA, alcohol in law graduate’s samples
+## Sonam Wangchuk Hunger Strike News Live Updates: PIL before Delhi High Court seeks force feeding
 
+
+## Karnataka High Court upholds Power TV MD’s conviction, cuts jail term to 1 day
+
+
+## Woman, three children consume pesticide in Kapurthala, 6-year-old girl dies, three critical
+
+
+## Chinese gem lab rakes in profits as world embraces artificial diamonds
+A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
+
+## China’s first-tier home prices extend 4-month rebound amid market stabilisation
+New home prices in four Chinese first-tier cities rose by an average of 0.1 per cent last month, extending a four-month rebound and signalling a gradual recovery in market sentiment as housing stabilisation measures gain traction. Compared with May, home prices edged up 0.3 per cent in Shanghai and 
 
 ## As consumption worries persist, Hong Kong investors shun mainland Chinese F&B stocks
 Mainland Chinese food and beverage (F&B) brands are struggling to win over Hong Kong investors, as persistent market concerns over the country’s weak consumption weigh on valuations. While more than 10 consumer and F&B chains successfully listed in 2025, this year presents a starkly different landsc
@@ -156,11 +156,8 @@ China’s power exports to Asean countries surged more than 40 per cent in the f
 ## As IPOs surge, Hong Kong’s audit regulator vows tougher scrutiny
 Hong Kong’s auditing watchdog has vowed to strengthen inspections of newly listed companies as a surge in initial public offerings raises concerns about the quality of financial reporting. The Accounting and Financial Reporting Council (AFRC), the city’s independent accounting regulator, said evalua
 
-## Hilton launches Tempo hotel brand amid expanding China travel demand
-Global hotel chain operator Hilton has introduced a new brand to China, a move an executive says reflects the company’s belief tourism will remain a strong growth engine in the world’s second-largest economy. The US hospitality group announced on Tuesday that its Tempo by Hilton lifestyle brand woul
-
-## Where is the priciest residential property? Hong Kong keeps crown, but livability drops
-Hong Kong has retained its position as the world’s most expensive residential property market despite a 10 per cent price decline from pre-pandemic levels, according to a new Deutsche Bank report warning that housing affordability continues to weigh on living standards. The investment bank lowered t
+## NATO Is Splitting in Two
+Mark Carney and Mark Rutte offer competing visions for the future of the trans-Atlantic alliance.
 
 ## China Wants to Regulate AI Companions
 With the latest rules, Beijing hopes to rein in a booming industry.
@@ -182,9 +179,6 @@ Attacks against Kurdish regions in Iran and Iraq never stopped.
 
 ## The Pentagon Needs $1.5 Trillion
 At a perilous moment, Washington is smart to invest in a bigger defense budget.
-
-## AOC Meets World
-The congresswoman’s rise was powered mostly by domestic issues. But she is slowly expanding to foreign affairs.
 
 ## Southeast Asia Has Weathered the Hormuz Crisis
 The region has shown real evidence of resilience.
@@ -258,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## T.Rex skeleton sells for $50.1 million at New York auction
+A T.Rex skeleton nicknamed ‘Gus’ sold for a record $50 million at an auction in New York.
+
+## Saving shea: How a Ugandan woman is turning waste into clean energy
+As demand for charcoal threatens indigenous trees, communities are finding new value in what was once treated as waste.
+
+## Nearly 75% of Americans think there’s too much money in politics
+The US is set to have some of the most expensive elections in history.
+
+## Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’
+US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.
+
+## Argentina happy to be in World Cup semifinal, coach Scaloni says
+Argentina are 'in good shape' and have no concerns over fatigue as the world champions look to book another final.
+
 ## Mbappe blames technical, tactical blunders for World Cup semifinal loss
 France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.
 
@@ -267,26 +276,11 @@ Dreams of reaching the World Cup final for a third time running were dashed when
 ## US star Balogun knew red card reversal would ‘cause a lot of controversy’
 Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.
 
-## Spain fans erupt as team reaches World Cup final
-Fans erupted in celebration after Spain beat France 2-0 in the semifinals, securing their place in the 2026 Finals
-
-## LIVE: Trump says ‘strikes on Iran will continue until I say enough’
-Iran's bridges, power plants possible targets, Trump said as IRGC says it attacked US forces in Kuwait, Bahrain, Jordan.
-
-## Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca
-Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.
-
-## Colombian father identified in deadly ICE shooting
-Colombian father identified in deadly ICE shooting
-
-## Spain deliver masterclass to beat France 2-0 and reach World Cup final
-European champions Spain beat France with controlled display to book final against Argentina or England.
+## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
+Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
-
-## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
-Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
 ## CBIC allows self-certification for origin declarations under India-UK CETA
 The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular operationalising the self-certification framework for origin declarations under the India-UK Comprehensive Economic and Trade Agreement (CETA), which comes into force on July 15, 2026. The move replaces the conventional sys
