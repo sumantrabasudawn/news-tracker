@@ -1,19 +1,40 @@
 # AION Intelligence
 
+## SpaceX sell-off wipes $800bn from Musk’s rocket group
+Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
+
+## Number of higher and additional UK taxpayers rises 35% in 3 years
+Fiscal drag helps bring 480,000 more people into the top two tax bands in the past year
+
+## New SK Hynix ADRs are trading at a BIG premium
+Memory markets are looking loopy (not LOOP-y)
+
+## PayPal investors can afford not to check out too hastily
+Advent International and Stripe’s $53bn offer is a bargain for the buyers
+
+## Ukraine’s self-defeating reshuffle
+Wartime leadership is not a popularity contest
+
+## UK statistics agency struggles to hire interviewers to restore survey quality
+ONS says recruitment under way as part of efforts to improve economic data output
+
 ## Shabana Mahmood set to be named UK chancellor by Andy Burnham
 Current home secretary expected to succeed Rachel Reeves as finance minister
 
 ## VAT is Burnham’s best tax-raising tool if UK public finances go off track, says OECD
 New report argues long-term reforms should focus on spending restraint, including end to pensions triple lock
 
+## ASML raises forecasts as AI boom drives chipmaking demand
+Shares climb as Dutch company strikes bullish tone on durability of AI boom
+
 ## The UK finally has a blueprint for innovation — now it must act on it
 The Whittle Lab aims to transform aerothermal engineering, one of the country’s strongest manufacturing industries
 
-## The UK is forgetting the dull bit of climate change policy
-Adaptation has never been the priority, but this summer’s heat is a message that the Treasury needs to act
-
 ## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
 Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
+
+## BrewDog co-founder James Watt makes new bid to buy back beer company
+Deal would restore ownership stakes of ‘equity punks’, says Watt
 
 ## Oil traders warn market is close to running on empty as Hormuz shuts again
 Stockpiles that acted as shock absorbers early in Iran war are running low as key waterway closes once more
@@ -21,41 +42,35 @@ Stockpiles that acted as shock absorbers early in Iran war are running low as ke
 ## Morgan Stanley wealth management boosted by SpaceX millionaires
 Investment bank becomes latest to shatter forecasts on back of AI boom
 
-## Thames Water warns over long-term future
-Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
+## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
+Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
 
-## ASML raises forecasts as AI boom drives chipmaking demand
-Shares climb as Dutch company strikes bullish tone on durability of AI boom
+## June passenger vehicle sales rise 24.1%: SIAM
+Looking ahead to the second quarter of FY27, SIAM said vehicle demand is expected to remain steady
 
-## BrewDog co-founder James Watt makes new bid to buy back beer company
-Deal would restore ownership stakes of ‘equity punks’, says Watt
+## Chinese AI narrows gap with US rivals, but India’s language test remains
+Currently, the strongest published score on Indian financial and regulatory language belongs to a US flagship rather than any Chinese contender
 
-## Billionaire Drahi’s Altice International accused of defaulting on €2bn of debt
-Creditors say transactions that moved assets out of their reach breached borrowing terms
+## TN bureaucrat Arun Roy now CMD of TNEB in a series of IAS reshuffle
+Roy will also function as Chairman, Tamil Nadu Power Generation Corporation, Tamil Nadu Transmission Corporation and Tamil Nadu Green Corporation
 
-## FinMin likely to table Monsoon Session SDG after 5 years; 3 key financial bills on anvil
-This move comes amid rising fiscal pressures linked to the West Asia conflict and challenges posed by a subpar monsoon
+## India’s overall BoP turns into a deficit in the first two months of FY27
+A BoP deficit can arise when a country imports more than it exports
 
-## Low-pressure area set to deepen, bolsters monsoon over East India
-Boosting prospects of heavy rainfall over North-West India is the arrival of a couple of western disturbances and their likely interaction with easterly monsoon flows
+## Union Bank of India Q1FY27 net profit up 30% at ₹5,332 crore
+Bank eyes $1.5-2 billion via fresh Foreign Currency Non-Resident (Bank)/ FCNR (B) deposits under the RBI’s concessional swap window
 
-## Ladakh ships 5-tonne apricot consignment to UAE
-Lieutenant Governor Vinai Kumar Saxena flagged off the shipment from New Delhi
+## ICICI Lombard Q1 net falls 46% at ₹403.17 crore
+The insurer’s net profit for the first quarter last fiscal stood at ₹747.08 crore. During Q1FY27, its net premium underwritten rose 17.70 per cent year-on-year at ₹6,603.73 crore from ₹5,610.52 crore in Q1FY26
 
-## Fractured monsoon: July recovery narrows overall deficit to 23%, but key regions remain dry
-According to the latest IMD data, India recorded 123.3 mm of rain during the first half of July against the historical normal of 128.9 mm, resulting in a minor overall deficit of 4%
+## ICICI Prudential Life Q1 net jumps 28% to ₹386.18 crore
+New premium income grows 14.65% to ₹9,749.33 crore in Q1FY27
 
-## MHI’s 10 GWh battery tender opens new growth market for India’s BESS sector
-The 10 GWh allocation alone will not make India self-reliant in battery manufacturing, as several upstream materials will continue to be imported.
+## SpaceX shares fall below IPO price for first time since market debut, wiping out post-listing gains
+SpaceX shares have fallen below their initial public offering price for the first time. This decline reflects a broader shift in market sentiment and investor enthusiasm. Analysts point to concerns over interest rates and AI stock momentum. Investors are now awaiting SpaceX's first quarterly earning
 
-## Tata Motors opposes BEE’s mechanism on CO2 credit system under CAFE-2
-Says credits should be priced so that non-compliance is not made cheaper than compliance
-
-## Augmont Enterprises, NSE tie-up to boost electronic gold receipts adoption
-The company has developed the required IT infrastructure and expects to list its EGRs in the next three months, provided the GST issue is settled
-
-## ‘New mobile phone manufacturing scheme can aid Tamil Nadu's shift from assembly to value-added manufacturing’
-Tamil Nadu is well placed to benefit from MPMS with around 38-40 per cent of India’s smartphone shipments originating from Kanchipuram and Chengalpet districts.
+## US stocks today: Markets open in green despite Iran war tensions, oil price swings
+US stock markets saw gains on Wednesday, driven by strong corporate earnings reports. Investors also reacted positively to recent inflation data, which showed a notable slowdown. This easing inflation reduced expectations for an imminent interest rate hike by the Federal Reserve. However, ongoing Mi
 
 ## US issues new non-proliferation sanctions targeting individuals, entities in Iran, Russia
 The United States has enacted fresh sanctions against seven individuals and entities linked to Iran's arms procurement activities. Targeting parties in Iran, Russia, Italy, and Nigeria, these sanctions aim to cut off financial support for Iran’s military. Consequently, any assets under US jurisdicti
@@ -75,11 +90,17 @@ Iran has warned of wider trade disruptions beyond the Strait of Hormuz. This thr
 ## Two Varanasi highway projects worth Rs 25,446 crore approved - how they will affect commuters
 The Cabinet Committee on Economic Affairs has greenlighted an ambitious infrastructure project in Varanasi, featuring a remarkable Rs 10,998.32 crore investment. The initiative is set to create a 43.2-km elevated corridor, referred to as the Varuna Expressway. This project aims to significantly alle
 
-## Semicon 2.0, Varanasi projects, rail upgrades & more: 7 big decisions cleared by Cabinet
-The Union Cabinet approved seven significant decisions on Wednesday. These approvals covered infrastructure development and semiconductor manufacturing initiatives. Railway network upgradation and mobile phone manufacturing schemes were also sanctioned. A National Investment Policy for Urea was appr
+## Gautam Adani denies knowledge of any DOJ quid pro quo offer linked to dismissal of charges against him
+Adani’s statement comes amid a tussle between a US court and DOJ regarding reasons behind the latter’s refusal to pursue legal action against the Adani group
 
-## China's economic growth slows to weakest pace in three years despite export boom
-China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech g
+## Meghalaya is taking its premium Pineapples to Indian markets with new retail partnerships
+The Meghalaya Pineapple Festival focuses on enhancing market access for pineapple growers through partnerships with retailers and digital marketplaces.
+
+## What's Rahul Gandhi planning amid buzz over absence from CJP-Wangchuk protest: ‘Are you rattled, Modi ji?’
+Congress leader is set for the next event of his own campaign on the same issues in Dehradun, also demanding Union education minister Pradhan's resignation.
+
+## SC orders Uttarakhand govt to grant land for new HC building
+The Supreme Court expedited the Uttarakhand high court relocation to Nainital, directing land transfer within six weeks, overriding a referendum order.
 
 ## 2 property dealers arrested in MP’s Aishbagh double murder case: Police
 CCTV footage had earlier captured two suspects in raincoats, prompting police to announce a reward of ₹50,000 for information
@@ -93,40 +114,28 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
-## ECI revises electoral roll verification schedule for four more states
-The nationwide SIR is being implemented in phases across states and Union Territories to update electoral rolls through extensive field verification
-
-## India-UK free trade pact new gold standard for trade deals, says British envoy
-Two-way trade is currently worth £48 billion, and Lindy Cameron said the FTA is expected to increase trade by more than £25 billion pounds annually in the long run
-
-## 'India fully deserves permanent seat at UN Security Council': Palestinian envoy
-Palestinian Ambassador to India Abdullah M Abu Shawesh said that any reform of the UN body must include major global powers such as India.
-
-## Gurugram Thar accident victim's family says driver brought body back to spot from hospital
-The victim was reportedly resting in the basement parking area when the SUV ran over her as the resident attempted to park the vehicle.
-
-## Meet ‘colourful boy’ Madan Mitra, Mamata loyalist who switched to ‘rebel’ TMC camp
+## Pune fort death: Police probes Siya, Chetan’s visit to Rajasthan
 
 
-## The Odyssey eyes Rs 22 crore opening day, Rs 75 crore opening weekend in India
+## Kotul excavations show site was a large trade hub during Satavahana period
 
 
-## Files relating to India’s largest nuclear power plant Kudankulam exposed in data breach
+## At Chennai Grand Masters, another Gukesh vs Nodirbek Abdusattorov battle loading
 
 
-## The Odyssey review: A flawed hero’s homecoming meets Christopher Nolan’s boundless ambition
+## Joe Biden’s memoir ‘Promise Me, America’ to hit shelves after US midterms amid Democratic unease
 
 
-## UPSC Essentials | Daily subject-wise quiz : Science and Technology MCQs on Geostationary orbit, Soyuz MS-29 mission and more (Week 171)
+## Water crisis grips New Sunny Enclave; RWA urges SDM to install three approved tubewells
 
 
-## SBI Funds Management IPO subscribed 2.77 times; NII category drives demand
+## ‘Are you Muslim?’: Indian-origin man stabbed 15 times in US after religion questioned
 
 
-## MCD, NDDB sign pact to set up biogas plants to utilise dairy waste
+## Publishers sue Google over use of copyrighted books for AI training
 
 
-## FIFA World Cup | How Spain’s de la Fuente outwitted and outclassed France’s Deschamps
+## Vijay Sethupathi recalls being with father as debt collectors came home: ‘I dealt with it’
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -177,29 +186,32 @@ With the latest rules, Beijing hopes to rein in a booming industry.
 ## Trump Pivots His Strait of Hormuz Strategy—Again
 Pressure from Gulf leaders prompted Trump to abandon proposed tolls.
 
-## New Caledonia Has a New, Pro-France President. What Now?
-New Caledonia has a new government, but the Pacific territory remains deeply divided between pro-independence and loyalist factions.
+## Australia Wants to ‘Manage’ AI. What Will That Look Like?
+“This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
 
-## Southeast Asia Has Weathered the Hormuz Crisis
-The region has shown real evidence of resilience.
+## India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency
+From floods to heatwaves, cascading climate disasters expose mounting vulnerabilities demanding coordinated scientific and policy responses.
 
-## Kyrgyzstan, Tajikistan Grit Their Teeth Amid Growing Central Asian Fuel Crisis
-With Ukrainian drone attacks putting the pinch on Russia’s oil industry, the Central Asian region faces a fuel crisis too.
+## The China Factor in Cuba-US Tensions
+Insights from Orlando J. Pérez
 
-## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
-Australia and India are framing new minilateral coalitions to maximize their strategic options.
+## South Korea’s Biggest Criminal Justice Reform
+Controversy is raging over how – and how much – to shave the prosecutors’ inordinate powers.
 
-## It’s Time for Australia to Be a Good Neighbor to the Pacific
-Australia’s Pacific approach equates to long stretches of neglect punctuated by spurts of anxiety and activity. That's no way to build durable security.
+## Amid the Afghanistan-Pakistan Conflict, India-Taliban Diplomatic Ties Are Strengthening
+India’s diplomatic outreach to the Taliban has increased tremendously over the last year.
 
-## As China Claims Philippines’ Batanes, Taiwan Emphasizes Kinship
-Historical links between the Indigenous peoples of Taiwan and the Philippines are dovetailing with present-day geopolitical concerns.
+## China Can’t Talk About Birth Rates Without Talking About Rural Pensions
+The need to support elderly parents, particularly in rural areas, is an underappreciated factor in China's declining birth rate.
 
-## Pakistan’s Ahmadiyya Community Is Being Persecuted in Plain Sight
-Extremist-led mob violence in Pakistan often leads to further persecution – at the hands of the state.
+## The Film ‘Satluj’ Revisits a Turbulent Chapter in India’s Counterinsurgency History
+A biopic on human rights activist Jaswant Singh Khalra puts the spotlight on thousands of enforced disappearances and secret cremations carried out by the Punjab Police.
 
-## Will Sheikh Hasina’s Planned Homecoming Revive the Awami League?
-Instead of being seen as a fugitive from justice, the former Bangladeshi prime minister could present herself as a political leader willing to face trial in her own country.
+## Pakistan’s Operation Shaban Targets Both the TTP and BLA in Balochistan
+Operation Shaban is in response to a deadly terrorist attack on July 7 in the Mangi Dam area, which claimed the lives of 27 police personnel.
+
+## One Size Doesn’t Fit All: The Many Faces of Africa’s Foreign Fighters
+In 2020, Austin Doctor wrote, “The Looming Influx of Foreign Fighters in Sub-Saharan Africa,” in which he predicted the region would see an influx of foreign fighters to aid Islamist extremist groups. Six years later, we asked Austin to revisit his arguments.Image: African Union Mission in Somalia (
 
 ## MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide
 Editor’s note: This is the third article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
@@ -221,9 +233,6 @@ Nineteen weeks ago, Iran faced the combined might of the most powerful country i
 
 ## Big Promises, Bigger Blind Spots for Ukraine’s Security
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East
-On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission’s goals was the overthrow of the Islamic Republic. “When we are finished,” Trump told the Iranian people, “take over your government. It
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen
-A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.
+## Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing
+Blanche's actions have raised questions over the independence of the Department of Justice, which he currently leads.
 
-## Trump urges ICE to keep using traffic stops after deadly incidents
-US president backs tactic despite agency announcing temporary pause after fatal shootings in Texas and Maine.
+## Why are right-wing parties gaining ground in Latin America?
+Several recent elections have strengthened conservative forces across parts of Latin America.
 
-## Who is calling the shots in Iran amid the deadly war with the US?
-The IRGC has taken the lead in Iran, particularly over Hormuz - and the government says it's on the same page.
+## Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash
+Argentina vice president's remarks made ahead of the World Cup semifinal against England and amid sovereignty dispute.
 
-## England vs Argentina LIVE: FIFA World Cup 2026 semifinal
-Live coverage and text updates as England and Argentina renew one of football's great rivalries in the semifinal.
+## Cruise ship hotel left listing in China port after high tides
+A cruise ship-turned-luxury floating hotel that has been idle for about 14 years rolled onto its side while docked.
 
-## July 15, 10 years on: Turkiye’s will, Turkiye’s victory
-The defeat of the 2016 coup attempt helped usher in a decade of greater diplomatic, economic and military power.
+## Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM
+Ukraine's parliament is expected to vote for the next prime minister on Thursday.
 
-## How US-Iran escalation will test Iraq’s balancing act
-The Iraqi PM visited the White House to deepen economic ties, as Iraq-based allies of Iran threatened to fight the US.
+## Norway’s Waerenskjold wins fastest Tour de France stage in history
+At an average speed of 50.91kph, Soren Waerenskjold's sprint was the fastest road stage in the 113 editions of the Tour.
 
-## My Twitter, not X
-As Twitter, then X, marks 20 years since its launch, a journalist journeys through revolutions and wars.
+## Starmer bids MPs goodbye as British PM and pledges to support his successor
+Andy Burnham, who is set to formally replace Starmer on Monday, will become the UK’s seventh prime minister in a decade.
 
-## Legal challenge says Trump ICC sanctions tread on US citizens’ rights
-Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression.
+## Father, mother, daughter killed in Israeli attack on Gaza home
+Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
