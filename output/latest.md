@@ -1,64 +1,70 @@
 # AION Intelligence
 
+## Stripe and Advent make $53bn bid for PayPal
+Offer by payments start-up and private equity group comes at 28% premium to Tuesday’s closing share price
+
+## China’s economy grows at one of lowest rates in decades
+Second-quarter GDP figure falls below annual target range as economic pressure mounts
+
+## Wall Street banks are AI stocks now
+Plus a nice cool CPI report
+
+## Brussels has delivered only a slice of Draghi reforms, report says
+Also in this newsletter: UAE presses Europe to play a bigger role in Gulf security
+
+## What could go wrong
+Assessing the world economy’s resilience
+
+## Chipmaker CXMT seeks $10bn in largest China IPO since 2010
+Chinese group capitalises on boom in demand for AI memory chips
+
 ## FirstFT: Ukraine to buy Chinese drone parts with EU funds
 Also in today’s newsletter: Trump’s return to war with Iran and BYD signals wider European expansion
 
 ## The Story of Money
 Watch the latest episode from the FT podcast exploring the history of finance
 
-## China reports lowest GDP growth in more than 3 years
-Second-quarter figure falls below annual target range as monthly indicators highlight economic pressures
+## ASML raises forecasts as AI boom drives chipmaking demand
+Shares climb 7% as Dutch company strikes bullish tone on durability AI boom
+
+## Thames Water says it can survive for another year
+British utility warns of ‘material uncertainty’ over its ability to secure enough liquidity
 
 ## As good as it gets in banking?
 Wall Street banks have unveiled record quarterly profits but risks loom
 
-## Oracle leads race to supply Japan with top-secret cloud services
-Larry Ellison’s group proposes ‘air-gapped’ network as US pressures Tokyo to tighten security of sensitive data
-
-## Unprecedented UK stretch above 30C stokes ‘firewave’ and strains emergency services
-Swath of the nation from Kent to Lincolnshire records significantly more rapid warming than the rest of the UK
-
-## The former Britpop stalwart at the heart of Burnham’s machine
-Anneliese Midgley, who previously advised Jeremy Corbyn and Sir Keir Starmer, has been credited as a key influence on the incoming PM
-
-## Is the US or Europe better off?
-Comparing the two economies is harder than it seems
-
-## Brand Bellingham heads for the big league after World Cup heroics
-England star Jude Bellingham’s match-winning performances are likely to be rewarded with new brand endorsement deals
-
-## Airtel Africa taps more bankers for rare London IPO of mobile money business
-Flotation could raise around $1.5bn and provide a much-needed boost for the UK’s depressed public markets
-
-## Is Rightmove taking us for a ride?
-Estate agents are convinced the UK’s most popular property portal exploits its dominant position — but determining whether vendors foot the bill is tricky
-
-## Daniel Ek’s body-scanning start-up raises $700mn for US push
-Funding round sees Neko Health’s valuation jump fourfold to almost $7bn for Spotify founder
-
-## CAC49 adopts 7 Codex standards developed under India’s leadership
-Fresh curry leaves, dried coriander and five other Codex texts adopted under India’s chairmanship and co-chairmanship.
-
-## Hero MotoCorp doubles down on Ather with ₹1,000 crore bet as EV strategy enters next phase
-Hero MotoCorp will invest up to ₹1,000 crore more in listed electric scooter maker Ather Energy, despite the EV company continuing to report losses
-
-## Q1 Results Today Live: UBI, Groww, HDFC Life, HDFC AMC, ICICI Lombard, ICICI Pru, HDB Financial, Angel One to announce Q1 results, LTTS, Tata Elxsi, Jindal Saw, Anand Rathi Share in focus
-Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
-
-## The University of Western Australia appoints SRM Technologies as Information Technology Partner for its India Branch Campuses
-The University of Western Australia appoints SRM Technologies as Information Technology Partner for its India Branch Campuses
-
-## Making Strides in Cardiac Healthcare at Zydus Hospitals, Gujarat
-Making Strides in Cardiac Healthcare at Zydus Hospitals, Gujarat
-
-## Sensex today | Stock Market Live: Sensex jumps nearly 550 points, Nifty tops 24,200 as earnings lift sentiment
+## Sensex today | Stock Market Live: Sensex gains 400 points, Nifty near 24,150 as earnings lift sentiment
 Sensex, Nifty, Share Prices LIVE: Indian benchmark indices trade higher on Wednesday, tracking positive global cues as investors shifted focus to the earnings season. Easing oil prices, optimism over the India-UK trade pact and encouraging early corporate results further supported market sentiment.
 
-## Aokah and Industry Leaders Identify Five Trends Reshaping Global Capability Centers
-Aokah and Industry Leaders Identify Five Trends Reshaping Global Capability Centers
+## Marine engineer missing following attack on ship off Oman coast is dead, says family
+New Delhi lodged a strong protest with ‌Iran after summoning its deputy ambassador over Tuesday's ​killing
 
-## Mach Travel Solutions Limited Crosses 85,000 Yatri Milestone Under Mukh Mantri Teerth Yatra Scheme
-Mach Travel Solutions Limited Crosses 85,000 Yatri Milestone Under Mukh Mantri Teerth Yatra Scheme
+## First cargo shipment under India-UK FTA flagged off from Amritsar airport
+Nearly 99% of Indian products to enjoy zero-duty access to UK market, says DGFT official
+
+## LTTS shares jump over 9% as Q1 profit and revenue rise, Anthropic partnership
+The company’s consolidated net profit for the quarter ended June 2026 rose 12.9 per cent y-o-y to ₹357.1 crore from ₹316.1 crore
+
+## Q1 Results Today Live: Groww Q1 PAT jumps, Union Bank & Steel Strips profit up, HDFC Life, HDFC AMC, ICICI Lombard, ICICI Pru, HDB Financial, Angel One to announce Q1 results, Ksolves India & Fedbank Financial shares jump
+Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
+
+## Tech Mahindra Q1 margins seen rising up to 50 bps on cost optimisation
+Analysts foresee revenue to increase around 1% sequentially, supported by telecom deal ramp-up and broad-based growth across verticals
+
+## Rupee at 96, soaring lithium and copper prices cloud auto industry’s festival season outlook
+Even as automakers gear up for robust festival demand with a slew of SUV and EV launches, a weakening rupee and soaring raw material costs are threatening margins and pricing strategies
+
+## India bans import of goods produced using forced labour: Here’s all you need to know
+Move gains significance against the backdrop of the US Trade Representative’s ongoing investigation under Section 301 of the Trade Act of 1974 against 60 countries, including India
+
+## China's economic growth slows to weakest pace in three years despite export boom
+China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech g
+
+## Sensex jumps over 500 points, Nifty above 24,200: Top reasons driving stock market rally
+Dalal Street experienced a strong rebound on Wednesday, reversing previous session losses. Improving tech sentiments and a firmer rupee boosted investor confidence significantly. Geopolitical developments and global cues also supported the market's upward movement. Foreign investors turned net buyer
+
+## Gold price prediction today: Where are gold & silver headed? Check July 15, 2026 outlook
+Gold price prediction today: Gold prices are likely to see a constructive outlook in the near-term, while silver is supported for the long-term, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
 ## India a 'huge growth opportunity': UK-India investment pact can boost FDI, says former FTA negotiator
 India presents significant global investment opportunities, attracting companies with its long-term growth potential. A proposed Bilateral Investment Treaty between India and the UK could boost investor confidence. The India-UK Comprehensive Economic and Trade Agreement offers preferential market ac
@@ -75,62 +81,59 @@ India presents significant global investment opportunities, attracting companies
 ## Top stocks to buy today: Stock recommendations for July 15, 2026 - check list
 Stock market recommendations: Route Mobile, Tata Power, and Dr. Reddy's Laboratories - these are the top stocks to buy picked by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 15, 2026.
 
-## Oil price today: Crude tops $85 a barrel as US restores Strait of Hormuz blockade
-Oil prices surged beyond eighty-five dollars per barrel on Wednesday. This occurred after the United States reinstated a naval blockade on Iran. Fighting between Washington and Tehran escalated, raising concerns over crude supplies. The United Arab Emirates reported Iranian cruise missile attacks on
+## Who has supported Sonam Wangchuk so far? A look at list of politicians, actors amid hunger strike concerns
+The CJP-led protest in New Delhi has now entered its 25th day. Wangchuk, 59, joined the demonstration on June 28 and began his indefinite hunger strike.
 
-## IBM shares tank 26% after initial results disappoint
-International Business Machines reported disappointing preliminary results on Tuesday. This news caused significant drops in software and IT services company shares. Investors are now concerned about a capital spending pivot impacting the entire industry. Many software stocks experienced notable dec
+## UP: Woman arrested for posing as IAS officer to marry, husband alleges ₹40 lakh extortion attempt
+Police said the accused allegedly used fake social media posts to pose as an IAS officer before marrying the complainant.
 
-## Air transport down 14% in April: ISP data
-Air transport output contracted nearly fourteen percent in April, reflecting high fuel costs. Railways also saw a slight decline in output during the same month. Fourteen of nineteen services sub-sectors registered double-digit growth, showing overall resilience. Food and accommodation recorded the 
+## Arrival from Bali, 6 weeks in Goa, missing passport: Mystery trail of US national arrested at Nepal border
+Jordan Brown, a US resident, was apprehended late on July 11 after he allegedly attempted to cross into Nepal through an unauthorised route in UP's Maharajganj.
 
-## Madras HC’s appeal on online relationships urges youngsters to exercise caution
-The court issued the advisory while dismissing a man’s appeal against his conviction in a case of rape and sexual assault
+## Odisha KG-to-PG free edu subject to 75% attendance, professional courses exempted
+The fee waiver would apply only to eligible regular courses in state universities, government colleges and private aided colleges
 
-## India to account for each seafarer irrespective of vessel flag: Govt's big announcement after sailor killed in Hormuz
-The move comes amid an escalating maritime security crisis in West Asia following attacks on two merchant vessels in the Strait of Hormuz.
+## Food vlogger's video at Sonam Wangchuk's hunger strike leaves internet divided
+This irony was also addressed by Sapra in his video, where he stated that he was here to review the food due to the high demand from his viewers.
 
-## Trump's ‘knock out’ warning to Iran, US bases targeted in the Gulf as war escalates: Top points
-Oil prices climbed amid fears of further disruption to global energy supplies even as Trump warned of hitting Iran's power plants and bridges ‘next week’.
+## ‘If someone seeks bribe, tell them...’: Vijay's remarks on corruption go viral
+Reassuring the public, CM Vijay said he stood with them and asked them to firmly say "no" when asked for a bribe.
 
-## Manipur: Four arrested in connection with Assam Rifles convoy ambush
-Officials said the four were arrested during an operation conducted at Sharakphung (Sikibung) village, TM Kasom and Lungphu village of Kamjong district of Manipur on Tuesday
+## SC refuses to entertain plea against influencer Nazia Elahi Khan
+The petition sought directions for registration of criminal proceedings against Khan for allegedly making blasphemous and inflammatory statements against Prophet Muhammad.
 
-## Sonam Wangchuk hunger strike LIVE: Petition in Delhi HC seeks force-feeding, hospitalisation of Wangchuk
-Sonam Wangchuk hunger strike LIVE: Activist Sonam Wangchuk's hunger strike at Jantar Mantar entered day 18 on Wednesday. A petition has now been filed before the Delhi high court, urging him to be taken to a hospital and ensure he receives the required medical treatment, including force-feeding.
+## 'Force feed Sonam Wangchuk': Plea in Delhi HC seeks liquid diet, hospitalisation for climate activist on hunger strike
+Filed by advocate Rakesh Kumar Saini, the plea urges the Centre and the Delhi government to immediately shift Wangchuk to a government hospital.
 
-## 3 convicted prisoners escape from Kalaburagi jail, one caught: Police
-Police in Kalaburagi district on Tuesday managed to foil a Pocso convict’s escape attempt, hours after he and two others escaped Kalaburagi Central Prison, allegedly after cutting through iron bars in a washroom window and scaling the compound wall, setting off a statewide manhunt and a probe into t
-
-## Telangana CM seeks Centre’s approval to kick start projects
-Telangana chief minister A Revanth Reddy on Tuesday sought the Centre’s approval for the northern section of the Regional Ring Road (RRR) and sought the immediate commencement of construction works
-
-## Kerala HC rejects Pulsar Suni’s plea to suspend sentence
-The Kerala high court on Tuesday dismissed a plea by Sunil NS, alias Pulsar Suni, seeking suspension of the sentence imposed on him in the 2017 actress assault case
-
-## RBI overhauls board governance framework: shifts focus to strategy, risk oversight
+## ‘Economic links to get deeper’: PM Modi as India-UK FTA comes into effect
 
 
-## Advocate moves Delhi High Court, seeks directions to force-feed activist Sonam Wangchuk
+## ‘Prasoon Joshi has not seen Satluj, but has problems with it’: Anurag Kashyap on film’s ban
 
 
-## Stone pelting, arson, teargas as mob targets Assam Rifles camp in Manipur
+## Aamir Khan on ‘love jihad’ claims: ‘Gauri not even Hindu; Kiran, Reena didn’t convert’
 
 
-## Fujifilm Instax Mini Evo Cinema review: A weird, fun retro camera
+## Russia slams Ukraine over drone attacks on ships: ‘Pirates at least keep the spoils’
 
 
-## Guest lecturers also entitled to maternity pay, rules Chhattisgarh High Court
+## ‘City was under red alert’: Anshula Kapoor’s wedding planner gives inside details
 
 
-## Sonam Wangchuk Hunger Strike News Live Updates: PIL before Delhi High Court seeks force feeding
+## Amid BJP tie-up buzz, Supriya Sule says NCP (SP) will back delimitation bill, with riders
 
 
-## Karnataka High Court upholds Power TV MD’s conviction, cuts jail term to 1 day
+## Karnataka Police recapture escaped Kalaburagi prisoner after encounter, search on for 2
 
 
-## Woman, three children consume pesticide in Kapurthala, 6-year-old girl dies, three critical
+## Zoho launches Classes 2.0, betting on AI to fix India’s education gaps
 
+
+## Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters
+The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two we
+
+## AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round
+Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflecting unquenched investor enthusiasm for the company. The plan comes on the heels 
 
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
@@ -150,11 +153,8 @@ Hong Kong has been urged to carve out a pivotal role helping Greater Bay Area co
 ## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
 Louis Vuitton is set to face off against China’s trademark regulator in a Chinese intellectual property court on Thursday, as the French luxury brand deals with public backlash in China over a separate legal battle against a local milk tea brand. Louis Vuitton Malletier filed the administrative laws
 
-## China’s power exports to Asean surge 40% in first half of 2026 amid Hormuz tensions
-China’s power exports to Asean countries surged more than 40 per cent in the first half of the year, customs data showed, helping to buffer the region against volatility in energy markets triggered by tensions around the Strait of Hormuz. The increase also highlighted China’s growing role as a regio
-
-## As IPOs surge, Hong Kong’s audit regulator vows tougher scrutiny
-Hong Kong’s auditing watchdog has vowed to strengthen inspections of newly listed companies as a surge in initial public offerings raises concerns about the quality of financial reporting. The Accounting and Financial Reporting Council (AFRC), the city’s independent accounting regulator, said evalua
+## What Did the Nine-Dash Line Ruling Accomplish?
+Ten years on, the Philippines is stepping up its defense plans in the South China Sea.
 
 ## NATO Is Splitting in Two
 Mark Carney and Mark Rutte offer competing visions for the future of the trans-Atlantic alliance.
@@ -176,9 +176,6 @@ Iran’s break-the-glass plan to strangle another key waterway may now be active
 
 ## Will a U.S.-Iran Deal Include Kurds?
 Attacks against Kurdish regions in Iran and Iraq never stopped.
-
-## The Pentagon Needs $1.5 Trillion
-At a perilous moment, Washington is smart to invest in a bigger defense budget.
 
 ## Southeast Asia Has Weathered the Hormuz Crisis
 The region has shown real evidence of resilience.
@@ -204,6 +201,9 @@ Instead of being seen as a fugitive from justice, the former Bangladeshi prime m
 ## Sri Lanka Prison Riot Exposes Intertwined Crises of Drugs, Crime and Overcrowding
 A recent prison riot at Negombo underscores the need for the government to dismantle drug trafficking networks, contain criminal activity and carry out prison reforms.
 
+## Breaking America’s Promise to Pacific Island Veterans
+In January, Robson Henry died at the age of 66. Chances are, you have never heard of Henry. He was not famous, rich, or powerful. In many ways, Henry was no different from the thousands of young men and women who, at the age of 18, chose to serve by enlisting in the U.S. Army. Nor does the fact that
+
 ## NATO’s Unity on Paper and Fractures Beneath the Surface
 On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year’s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of the s
 
@@ -224,9 +224,6 @@ When the United States and Iran announced their framework agreement on June 15, 
 
 ## Fraying Deals and Rising Strikes
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThree weeks after it was signed, the memorandum of understanding between the United States and Iran seems to
-
-## The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter
-Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon’s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon’s science enterprise, why he thinks academia is the envy of America’s closes
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,32 +249,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Spain recapture 2010 spirit after reaching World Cup final: De la Fuente
+After a masterclass against France in the semifinals, Spain are just one win from winning their second World Cup.
+
+## Waiting for Hassan: Another Gaza doctor held by Israel without charge
+Hassan Khalil Almukayed is among at least 15 Palestinian doctors from Gaza currently in Israeli detention.
+
+## How the failed 2016 coup reshaped Turkiye’s civil-military relations
+Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.
+
+## England vs Argentina: FIFA World Cup semifinal – Messi, Kane and prediction
+England and Argentina renew their World Cup rivalry after 24 years, as Harry Kane and Lionel Messi clash in the semis.
+
+## World Cup: England have ‘not peaked yet’, says Tuchel before semifinal
+England face Argentina in Wednesday's semifinal, hoping to reach the World Cup final for the first time since 1966.
+
+## How Iran’s southern coast is bearing the brunt of US attacks
+Donald Trump says the US is going to bomb Iran’s civilian infrastructure if there is no deal by next week.
+
+## Spain knock out France, prepare for World Cup final
+Spain beat France 2-0 to reach the World Cup final, shutting down Kylian Mbappe
+
 ## T.Rex skeleton sells for $50.1 million at New York auction
 A T.Rex skeleton nicknamed ‘Gus’ sold for a record $50 million at an auction in New York.
 
-## Saving shea: How a Ugandan woman is turning waste into clean energy
-As demand for charcoal threatens indigenous trees, communities are finding new value in what was once treated as waste.
-
-## Nearly 75% of Americans think there’s too much money in politics
-The US is set to have some of the most expensive elections in history.
-
-## Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’
-US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.
-
-## Argentina happy to be in World Cup semifinal, coach Scaloni says
-Argentina are 'in good shape' and have no concerns over fatigue as the world champions look to book another final.
-
-## Mbappe blames technical, tactical blunders for World Cup semifinal loss
-France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.
-
-## Spain crashes Paris party by beating France in the World Cup semis
-Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.
-
-## US star Balogun knew red card reversal would ‘cause a lot of controversy’
-Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.
-
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
+
+## GSTAT token mechanism safeguards appeal rights, but experts warn legal ambiguity could trigger fresh litigation
+Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard against portal-related disruptions, but caution that its long-term success will depend on statutory clarity, robust digital safeguards and a resilient e-filing system to prevent fresh litigation.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
@@ -297,8 +297,11 @@ Hindustan Unilever and Dabur reduced permanent staff while others increased head
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
 
-## CBIC ends manual paperwork for duty free import containers. Here's what changes
-The CBIC has removed manual documentation for duty-free imported containers. This move digitizes customs processes and reduces paperwork at Indian ports. Shipping lines will now use electronic reports for container re-export monitoring. The new system enhances ease of doing business and supports por
+## Sebi exempts Mehta Family Trust from Saurashtra Cement open offer
+Sebi exempted Mehta Family Trust from an open offer for Saurashtra Cement shares. This exemption allows internal family reorganisation and succession planning. Jay Mahendra Mehta and Juhi Chawla Mehta are trustees of the family trust. The transaction involves indirect acquisition of shares and votin
+
+## India Inc's overseas fundraise picks up pace in May to $4.7 bn: RBI data
+Indian companies' external commercial borrowings proposals saw a significant jump in May. Total filings reached USD 4.74 billion, a notable increase from April's figures. Prominent firms like Indian Railway Finance Corporation and NTPC filed substantial borrowing intentions. Kisetsu Saison Finance a
 
 ## SEBI introduces stricter service rules, investment norms for employees
 The Securities and Exchange Board of India (SEBI) has tightened its employee conduct framework by notifying sweeping changes to its service regulations, introducing stricter conflict-of-interest safeguards, tighter investment restrictions and enhanced disclosure requirements.
@@ -314,10 +317,4 @@ SEBI has barred Osiajee Texfab from trading shares. The regulator found a coordi
 
 ## BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks
 The Reserve Bank of India (RBI) is likely to keep policy rates unchanged in the near term, but BofA Securities expects a cumulative 50 basis points (bps) rate hike from December 2026 as inflation risks become increasingly driven by domestic factors.
-
-## India consumer inflation likely topped RBI's 4% target in June: Reuters poll
-Wholesale price inflation also remained elevated despite easing slightly from the previous month. Core inflation, excluding volatile food and fuel, was expected to be around 3.95 percent. This rise could impact the central bank's future monetary policy decisions.
-
-## Govt plans fresh policy interventions to strengthen MSME manufacturing ecosystem
-The ministry has launched a nationwide consultation exercise to strengthen the MSME ecosystem and their manufacturing base; it has received more than 2,000 suggestions so far, says Mercy Epao, Joint Secretary, MSME ministry.
 
