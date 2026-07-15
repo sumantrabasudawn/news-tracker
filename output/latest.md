@@ -1,7 +1,31 @@
 # AION Intelligence
 
-## Zelenskyy removes Ukraine’s popular defence minister
+## SpaceX sell-off wipes $1tn from Musk’s rocket group
+Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
+
+## Oil traders warn market is close to running on empty as Hormuz shuts again
+Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again
+
+## Pentagon to offer testosterone treatment to US troops
+Defence secretary Pete Hegseth’s move comes amid focus on low sperm count and virility on American right
+
+## Volodymyr Zelenskyy sacks Ukraine’s popular defence minister
 Moderniser behind country’s drone development ousted in cabinet reshuffle after just six months in post
+
+## Vote on US aid to Israel set to lay bare divide in Democratic Party
+Amendment to an annual defence spending bill would eliminate all $3.3bn the US provides to Israel
+
+## Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
+Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
+
+## European industries expected to win more time to emit carbon
+Heavy lobbying by polluting companies and countries over review of EU emissions trading scheme
+
+## Canadian wildfires prompt air quality warnings as far as New York City
+Smoke from more than 100 ‘out of control’ blazes spread across region
+
+## Dan Ives and Trump family-linked securities group launch AI bank, because why not?
+Ives and Yorkville. Name a more iconic duo
 
 ## Uber nears €12.5bn deal to acquire Delivery Hero
 German food delivery group will spin off Turkish and some European operations to a different buyer
@@ -9,32 +33,8 @@ German food delivery group will spin off Turkish and some European operations to
 ## Thames Water warns over future as Burnham eyes state control
 Britain’s next prime minister is set to make an announcement on sector
 
-## SpaceX sell-off wipes $1tn from Musk’s rocket group
-Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
-
-## Number of higher and additional UK taxpayers rises 35% in 3 years
-Fiscal drag helps bring 480,000 more people into the top two tax bands in the past year
-
-## New SK Hynix ADRs are trading at a BIG premium
-Memory markets are looking loopy (not LOOP-y)
-
 ## PayPal investors can afford not to check out too hastily
 Advent International and Stripe’s $53bn offer is a bargain for the buyers
-
-## Ukraine’s self-defeating reshuffle
-Wartime leadership is not a popularity contest
-
-## ASML raises forecasts as AI boom drives chipmaking demand
-Shares climb as Dutch company strikes bullish tone on durability of AI boom
-
-## The UK finally has a blueprint for innovation — now it must act on it
-The Whittle Lab aims to transform aerothermal engineering, one of the country’s strongest manufacturing industries
-
-## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
-Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
-
-## BrewDog co-founder James Watt makes new bid to buy back beer company
-Deal would restore ownership stakes of ‘equity punks’, says Watt
 
 ## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
 Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
@@ -60,6 +60,12 @@ The insurer’s net profit for the first quarter last fiscal stood at ₹747.08 
 ## ICICI Prudential Life Q1 net jumps 28% to ₹386.18 crore
 New premium income grows 14.65% to ₹9,749.33 crore in Q1FY27
 
+## India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation
+India exported over $140 million in goods duty-free to the UK on Wednesday. More than fifty export consignments were flagged off from over twenty locations. These shipments included electronics, pharmaceuticals, and textiles, reaching various global gateways. The Comprehensive Economic and Trade Agr
+
+## UK backs India’s security concerns, says trade deal based on trust
+The India-UK trade deal commenced, reflecting significant trust and cooperation between nations. This agreement is expected to boost both economies and enhance bilateral trade relations. Discussions also addressed national security and the extradition of financial fugitives. The pact aims to strengt
+
 ## SpaceX shares fall below IPO price for first time since market debut, wiping out post-listing gains
 SpaceX shares have fallen below their initial public offering price for the first time. This decline reflects a broader shift in market sentiment and investor enthusiasm. Analysts point to concerns over interest rates and AI stock momentum. Investors are now awaiting SpaceX's first quarterly earning
 
@@ -77,12 +83,6 @@ When building an investment portfolio, investors decide on an asset allocation. 
 
 ## HDB Financial Services Q1FY26 net profit up 38% at Rs 785 crore
 
-
-## Oil, LNG, fertilisers and maybe diamonds: What is at risk from Iran’s wider blockade threat
-Iran has warned of wider trade disruptions beyond the Strait of Hormuz. This threat could impact crucial energy and other export flows from the region. The Strait of Hormuz is a vital chokepoint for global oil and gas shipments. Asia, which receives most of these shipments, faces significant exposur
-
-## Two Varanasi highway projects worth Rs 25,446 crore approved - how they will affect commuters
-The Cabinet Committee on Economic Affairs has greenlighted an ambitious infrastructure project in Varanasi, featuring a remarkable Rs 10,998.32 crore investment. The initiative is set to create a 43.2-km elevated corridor, referred to as the Varuna Expressway. This project aims to significantly alle
 
 ## Gautam Adani denies knowledge of any DOJ quid pro quo offer linked to dismissal of charges against him
 Adani’s statement comes amid a tussle between a US court and DOJ regarding reasons behind the latter’s refusal to pursue legal action against the Adani group
@@ -108,28 +108,28 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
-## Why Greater Tunb, Iran’s ‘unsinkable aircraft carrier’, was hit by US
+## Noida building fire: The dos and don’ts of charging EVs at housing complexes
 
 
-## After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricity dues
+## Calcutta High Court asks state for report on complaints against Abhishek Banerjee
 
 
-## England vs Argentina FIFA World Cup 2026 Semifinal Match Live Updates: Messi faces ENG for first time as ARG look to book spot in second final in a row
+## ‘Lost 9 kg in 17 days’: Sonam Wangchuk currently stable, but next few days could prove critical, say doctors
 
 
-## Prashant Kishor poll debut runs into rough weather, his party loses leaders to BJP
+## Pune civic body to spend Rs 167.25 cr to redvelop 135.8 km road for Pune Grand Tour
 
 
-## ECI extends electoral roll revision in Punjab, draft now on Aug 13, final on Oct 12
+## Passport office gets third hoax bomb threat in five months
 
 
-## NEET-UG 2026 paper leak: 111 of 136 questions on Latur tutor’s phone matched NTA master set, CBI tells Delhi court
+## Elon Musk’s SpaceX sinks below IPO price weeks after blockbuster listing
 
 
-## Supreme Court clears Uttar Pradesh’s night safari project in Kukrail Reserve Forest
+## SIR in Delhi: Deadlines extended only 15 per cent forms digitised so far
 
 
-## Gujarat Confidential: Wrong Order
+## Varanasi to get two elevated highway corridors as Cabinet clears projects worth Rs 25,446 crore to ease congestion
 
 
 ## China eyes broader global access to yuan assets, as panda bond demand surges
@@ -156,6 +156,12 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
+## Sudan Faces New Sanctions as Evidence of Atrocities Mounts
+But countries remain unwilling to directly sanction foreign actors enabling the war.
+
+## Ukraine Isn’t Waiting Around for Patriots
+A new European coalition is looking to build quicker and cheaper anti-ballistic missile systems—off Ukrainian technology.
+
 ## Ukraine’s Drones Have Turned the Tide, but Can They Change the Map?
 Mid-range drone strikes may not be enough to regain Ukrainian territory.
 
@@ -173,12 +179,6 @@ Fees for passage through the strait are likely inevitable.
 
 ## What Did the Nine-Dash Line Ruling Accomplish?
 Ten years on, the Philippines is stepping up its defense plans in the South China Sea.
-
-## NATO Is Splitting in Two
-Mark Carney and Mark Rutte offer competing visions for the future of the trans-Atlantic alliance.
-
-## China Wants to Regulate AI Companions
-With the latest rules, Beijing hopes to rein in a booming industry.
 
 ## Australia Wants to ‘Manage’ AI. What Will That Look Like?
 “This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Russia pounds Ukraine with missile, drone strikes
+Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.
+
+## French Parliament approves landmark assisted-dying bill
+Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council.
+
+## Ukraine strikes 20 Russian vessels
+Ukraine released video of strikes on 20 Russian vessels in the Black Sea, including 17 oil tankers.
+
+## The history of the US and Iraq’s complicated relationship
+As Iraq’s prime minister visits Washington seeking deeper economic ties.
+
+## Protests in Paris, Gaza for release of Hussam Abu Safia
+Protests were held in Paris and Gaza demanding the release of Palestinian doctor Hussam Abu Safia.
+
+## Fourteen-year-old boy charged over alleged plot targeting London mosques
+Suspect is charged with 'preparation of terrorist acts - linked to extreme right-wing terrorism', say British police.
+
+## Argentina fans flood Atlanta ahead of England World Cup match
+Thousands of Argentina fans held a banderazo in the streets of Atlanta ahead of their World Cup semi-final.
+
 ## Syrian authorities arrest ex-officer accused of chemical weapons crimes
 Former colonel Ahmed Habib Ali is accused of supervising the manufacture of sarin gas bombs.
-
-## European Athletics moves to curb on-screen sexualisation of female athletes
-The guidelines are based on feedback from athletes who said certain camera shots can cause discomfort and distractions.
-
-## Palestinian homes sealed off by Israeli military restrictions
-An Israeli military order imposed after a series of settler attacks has left families cut off from parts of their home.
-
-## US intelligence director pick refuses to acknowledge Trump loss in 2020
-Jay Clayton, often in circuitous fashion, avoided saying Joe Biden won 2020 race during his confirmation hearing.
-
-## Lebanon and Israel end sixth round of US-brokered talks
-A US official said the two sides made progress on a plan for Israel to withdraw from 'pilot zones' in southern Lebanon.
-
-## Iran unveils huge billboard showing Trump in coffin
-Iran has installed a billboard in the capital Tehran showing US President Donald Trump lying in a coffin.
-
-## Prominent Moroccan journalist Ali Lmrabet released from custody
-Moroccan activists warn of an intensifying crackdown on regime critics after the arrest of a journalist and a rapper.
-
-## Gas tanker explodes in fire near army barracks in Lebanon
-A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
 Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
