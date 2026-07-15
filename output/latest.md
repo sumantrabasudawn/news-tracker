@@ -1,58 +1,73 @@
 # AION Intelligence
 
+## Morgan Stanley profits jump 58% as Wall Street booms
+Investment bank becomes latest to shatter forecasts with revenues from equities trading
+
+## Thames Water warns over long-term future
+Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
+
+## Zelenskyy expected to remove Ukraine’s popular defence minister
+Moderniser behind country’s drone development at risk of being ousted in cabinet reshuffle after just six months in post
+
+## Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
+
+## What Wisconsin socialists tell us about the Democratic fightback
+The gubernatorial primary is a test bed for a radical pitch to voters in Midwest Trump country
+
+## One answer to EU strategic autonomy is orbiting overhead
+The Galileo satellite programme offers a model for funding joint defence projects and creating joint revenues
+
 ## Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
 Jim Jordan warns culture secretary on UK move to force social media companies to boost trusted news
 
-## Brussels prepares fresh Google fines as Big Tech enforcement increases
+## EU set to fine Google hundreds of millions of euros
 Decisions will test whether the EU can police digital markets without reigniting tensions with Washington
-
-## The US just passed the biggest housing law in 36 years. Will it help?
-Inside supply-side changes to the American market
-
-## Ukraine to buy Chinese drone parts with EU funds
-Brussels allows Kyiv to use part of €6bn tranche for items in short supply in Europe
-
-## BlackRock assets rise to record $15.3tn
-Second-quarter net income at US-based asset manager jumped 20% to $1.9bn amid capital markets boom
-
-## Goldman’s Ruemmler to testify to Congress about Epstein ties
-Lawyer is latest ex-Wall Street executive to be grilled over links to late child sex offender
-
-## EU readies crisis team for China rare earths stand-off
-Crisis team will prepare for possible trade conflict when truce expires in October
-
-## A new economic order will be built piece by ad hoc piece
-Traditional trade deals will not address geopolitical concerns
-
-## The energy transition’s last mile
-Lenders and investors are starting to fund households’ adoption of renewable technology
 
 ## Billionaire Drahi’s Altice International accused of defaulting on €2bn of debt
 Creditors say transactions that moved assets out of their reach breached borrowing terms
 
-## SBI Funds Management IPO fully subscribed by midday on Day 2, NIIs lead demand
-Supported by steady mutual fund inflows and record SIP investments, SBI Funds Management will close its IPO on July 16 ahead of its July 21 market debut
+## UK’s largest pub landlord Stonegate probed over treatment of tenants
+Watchdog has ‘reasonable grounds’ to suspect company has broken rules over so-called beer tie
 
-## RIR Power Electronics to list on NSE on Thursday
-Gujarat-based semiconductor manufacturer expanding market access
+## The energy transition’s last mile
+Lenders and investors are starting to fund households’ adoption of renewable technology
 
-## Sensex today | Stock Market Highlights: Sensex closed at 77,185.43; Nifty 50 was to 24,078.50
-Sensex, Nifty, Share Prices Updates: BSE Sensex closed 130.49 pts or 0.17% positive at 77,185.43, and Nifty 50 was up 26.45 pts or 0.11% to 24,078.50.
+## Immuneel, Tata Memorial Centre partner to advance cell and gene therapy research
+Among the first projects identified under the partnership is a Phase 2 extension study evaluating the safety and efficacy of IMN-003A cell therapy in adult and paediatric patients with relapsed or refractory CD19-positive B-cell malignancies
 
-## Silver outlook July 2026: How is silver likely to perform in the next few weeks? | EP 106
-Why is silver so volatile right now? Key drivers explained.
+## Aurrevia launches Category III AIF with $10 million anchor from Kothari Family Office
+The fund targets sophisticated investors and positions itself around capital preservation, long-term compounding, and process-driven portfolio construction within a governance-focused investment mandate
 
-## Wipro AGM: AI to drive next phase of enterprise transformation, says Rishad Premji
-As clients transition from experimentation to execution in AI, Wipro is investing heavily in capabilities, partnerships, and talent while navigating a cautious IT landscape.
+## Cube Highways Trust sets ₹151-152 price band for ₹5,000-crore InvIT IPO
+The offer comprises an offer for sale (OFS) by existing unitholders as the privately listed infrastructure investment trust (InvIT) transitions to a publicly listed InvIT
 
-## SBI Funds Management IPO subscribed 0.68 times on Day 1; NIIs lead demand
-The non-institutional investors’ portion was subscribed 1.39 times, while the retail investors’ category saw subscription of 0.62 times
+## Record rush for varsity jobs in Andhra Pradesh: 1.9 lakh PhD holders apply for 1,523 teaching posts
+Andhra Pradesh Minister for Human Resources Development and IT, Nara Lokesh, released a job calendar in March 2026 to fill 10,060 vacancies across government departments during the year
 
-## Tata Elxsi shares fall 5% as margin miss weighs on sentiment
-Brokerages highlighted a sharp margin contraction and uncertainty in key business segments.
+## TVS Venu’s Home Credit India acquires Varthana for ₹967 crore to deepen lending play
+The acquisition marks Home Credit’s entry into education-focused lending
 
-## LTTS shares jump as Q1 profit and revenue rise, Anthropic partnership
-The company’s consolidated net profit for the quarter ended June 2026 rose 12.9 per cent y-o-y to ₹357.1 crore from ₹316.1 crore
+## OPPO Find X9 Ultra. The ‘sharpshooter’
+OPPO hits peak ultra with a fully loaded camera and cutting edge hardware
+
+## Zoho launches AI-powered Classes 2.0 LMS, targets regulated educational institutions
+Latest LMS features AI tutor, automated lesson planning and evaluation tools for teachers and students
+
+## Q1 Results Today Live: Groww Q1 PAT jumps, HDFC AMC, HDFC Life, Jana SFB, ICICI Pru Life, Union Bank, HDB Financial profit soars, ICICI Lombard, Angel One to announce Q1 results
+Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
+
+## Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid
+When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age, financial goals, income, risk tolerance
+
+## HDB Financial Services Q1FY26 net profit up 38% at Rs 785 crore
+
+
+## Oil, LNG, fertilisers and maybe diamonds: What is at risk from Iran’s wider blockade threat
+Iran has warned of wider trade disruptions beyond the Strait of Hormuz. This threat could impact crucial energy and other export flows from the region. The Strait of Hormuz is a vital chokepoint for global oil and gas shipments. Asia, which receives most of these shipments, faces significant exposur
+
+## Two Varanasi highway projects worth Rs 25,446 crore approved - how they will affect commuters
+The Cabinet Committee on Economic Affairs has greenlighted an ambitious infrastructure project in Varanasi, featuring a remarkable Rs 10,998.32 crore investment. The initiative is set to create a 43.2-km elevated corridor, referred to as the Varuna Expressway. This project aims to significantly alle
 
 ## Semicon 2.0, Varanasi projects, rail upgrades & more: 7 big decisions cleared by Cabinet
 The Union Cabinet approved seven significant decisions on Wednesday. These approvals covered infrastructure development and semiconductor manufacturing initiatives. Railway network upgradation and mobile phone manufacturing schemes were also sanctioned. A National Investment Policy for Urea was appr
@@ -66,65 +81,56 @@ Dalal Street experienced a strong rebound on Wednesday, reversing previous sessi
 ## Gold price prediction today: Where are gold & silver headed? Check July 15, 2026 outlook
 Gold price prediction today: Gold prices are likely to see a constructive outlook in the near-term, while silver is supported for the long-term, says Vedika Narvekar, Research Analyst - Commodities & Currencies, Anand Rathi Shares and Stock Brokers.
 
-## India a 'huge growth opportunity': UK-India investment pact can boost FDI, says former FTA negotiator
-India presents significant global investment opportunities, attracting companies with its long-term growth potential. A proposed Bilateral Investment Treaty between India and the UK could boost investor confidence. The India-UK Comprehensive Economic and Trade Agreement offers preferential market ac
+## ‘On special invitation of ED’: Mahua Moitra dismisses Madan Mitra's exit from Mamata's TMC for rebel camp | Watch
+Madan Mitra said he had “only changed my room in assembly”, and denied any connection between his move and the ED summons issued to his family.
 
-## Gold Silver Rate Today Live Updates: Gold rallies over 2% to $4,063 as weak US data boosts investor sentiments
+## India-UK historic free trade deal, social security agreement comes into effect | All we know
+The operationalisation of the India-UK CETA was announced by outgoing Prime Minister Keir Starmer at the G7 Summit in France.
 
+## 'Flying buses soon': Nitin Gadkari has another big plan, cites 'plane that lands on water'
+Speaking at the inauguration of the Lucknow-Kanpur Expressway on Tuesday, Gadkari announced plans to introduce "flying buses".
 
-## Stock market today: BSE Sensex jumps 550 points, NSE Nifty50 crosses 24,200
+## ‘You want me to have heart attack, I’ll live to see your end': Mamata to BJP amid TMC rebellion
+Mamata said Mitra left because the E) had summoned his wife and two sons on Tuesday, adding that Abhishek Banerjee had nothing to do with his decision
 
+## BJP scared, says Cong after revocation of go-ahead for Rahul Gandhi’s Dehradun event
+The administration offered an alternative venue for “Chhatro Ki Goonj”, a nationwide campaign against paper leaks and examination irregularities
 
-## Worse fall than 1987, $69 billion wipeout as IBM ‘falters’: Why stock price crashed 25% - analysts call it ‘ugly moment’
-​​Shares of IBM plunged 25% on Tuesday, with the company seeing a steeper one-day decline than it experienced during the 1987 "Black Monday" market crash. The weakness also spread to other software stocks.
+## Man, 30, hacked to death in Hyderabad; police suspect hate crime
+On Wednesday around 11pm, five men arrived at the hostel in Ayyapa Society, where Bhaskar was staying and allegedly called him outside
 
-## From ‘wonderful conversation’ to Jantar Mantar: How Centre's equation with Wangchuk changed colour
+## How Modi govt's equation with Sonam Wangchuk collapsed: From ‘wonderful conversation’ to Jantar Mantar
 Back in 2023, Dharmendra Pradhan, whose resignation is Wangchuk's chief demand, had held a cordial meet with him; a lot has changed since.
 
 ## Don’t want E20, go for pure petrol, says Gadkari: What drivers in India can actually buy at the pump
 Union minister Gadkari said motorists can opt for 100% petrol. In practice, that route is priced and stocked in a way that leaves most with little choice.
 
-## No link to ED summons, says Mamata loyalist Madan Mitra after joining rebel camp
-Madan Mitra left the Mamata Banerjee-led TMC a day after ED summoned his wife and two sons for questioning in connection with recruitment by the Kamarhati municipality
-
-## Indian-origin teen Riddhi Chauhan leads 300 cadets in US Navy-backed school programme
-Riddhi is preparing to enter the Naval Academy Preparatory School, a stepping stone to the United States Naval Academy.
-
-## Ludhiana tops beneficiary list under Punjab's Mawan Dheeyan Satkar Yojana
-Ludhiana shines as the top beneficiary of Punjab's Mawan Dheeyan Satkar Yojana, registering 7.4 lakh beneficiaries.
-
-## 13.5mn kids didn’t get even single vaccine in Ist year in 2025: WHO-Unicef report
-The estimated 13.5 million “zero-dose” children, included 679,000 in India, according to the annual WHO-UNICEF report
-
-## Punjab's Mukh Mantri Sehat Yojna provides ₹4.15 crore cashless stroke treatment to 914 patients in 6 months
-Punjab's Mukh Mantri Sehat Yojna has revolutionized stroke treatment by providing ₹4.15 crore in cashless support to 914 patients.
-
-## ‘Straight out of Hollywood disaster movie’: Fire in Mumbai Coastal Road tunnel, no casualties but a jam, many questions
-Car catches fire in tunnel on Mumbai's Coastal Road; no casualties
-
-## No ‘baja’ for baraat: Groom’s father wins Rs 39,000 after wedding band fails to arrive
+## Top 10 India’s most valuable brands 2026: Tata leads for 10th year, Adani Group enters elite list
 
 
-## Jennifer Winget to tie the knot with William Ishmael in an intimate UK wedding: Report
+## Why Reena Dutta, Kiran Rao skipped Aamir Khan’s wedding; friend shares ceremony details
 
 
-## ICC announces major revamp of ODI and T20 World Cup formats
+## 5 animals with the most fascinating sleep habits
 
 
-## Court upholds 22-year-old rape convict’s life sentence term to prevent ‘mockery of justice’
+## Bengaluru schoolboy attempts suicide after ‘punishment by teacher’; FIR filed
 
 
-## Fire at Gurgaon’s Kingdom of Dreams; no casualties at abandoned site
+## Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks
 
 
-## Cabinet approves Semiconductor Mission 2.0 with Rs 1.27 lakh crore outlay
+## Karnataka CM D K Shivakumar sets August 6 deadline for feedback on Apartment Bill 2026
 
 
-## BMC seeks Rs 22 crore from Taj Mahal Palace over post-26/11 security barriers
+## Iran threatens to halt West Asia energy exports after US reimposes Strait of Hormuz blockade
 
 
-## Ethanol row: One influencer apologises as three accounts go offline after BJP FIR; another refuses to back down
+## Explained: What is in Gujarat’s new data centre policy?
 
+
+## China eyes broader global access to yuan assets, as panda bond demand surges
+Officials from China’s central bank have pledged to introduce further measures to make it easier for global investors to access yuan-denominated assets, as Beijing views the recent appreciation of the yuan and surge in demand for panda bonds as reflecting rising global recognition of the Chinese cur
 
 ## Mainland China’s luxury housing boom is keeping wealthy buyers at home, report says
 China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market. A report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflow
@@ -147,8 +153,8 @@ Chinese frontier artificial intelligence start-up DeepSeek is in talks with inve
 ## Chinese gem lab rakes in profits as world embraces artificial diamonds
 A Chinese lab-grown diamond producer saw its profits triple over the first half of the year, as consumers around the world increasingly abandon natural diamonds in favour of cheaper artificial stones. The pivot had led De Beers to suspend production at South Africa’s largest diamond mine, Venetia, f
 
-## China’s first-tier home prices extend 4-month rebound amid market stabilisation
-New home prices in four Chinese first-tier cities rose by an average of 0.1 per cent last month, extending a four-month rebound and signalling a gradual recovery in market sentiment as housing stabilisation measures gain traction. Compared with May, home prices edged up 0.3 per cent in Shanghai and 
+## Putin’s War Comes Home to Russia
+Ukraine’s attacks have unleashed a crisis—but don’t expect repercussions for the regime.
 
 ## How the United States and Iran Can Solve Hormuz
 Fees for passage through the strait are likely inevitable.
@@ -170,9 +176,6 @@ Why Bahrain and Kuwait have become Tehran’s preferred targets.
 
 ## China Is Ready to Get Tough
 Beijing’s diplomatic retaliation has limits—but fewer than before.
-
-## The Houthis Have Joined the Chat
-Iran’s break-the-glass plan to strangle another key waterway may now be active.
 
 ## New Caledonia Has a New, Pro-France President. What Now?
 New Caledonia has a new government, but the Pacific territory remains deeply divided between pro-independence and loyalist factions.
@@ -246,29 +249,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?
-A new treaty signed by Britain and the EU includes the removal of border checks between Spain and Gibraltar.
+## Israeli air attack on Gaza apartment kills family of three
+One child survives hit on Deir el-Balah home as Israel escalates attacks across territory despite October 'ceasefire'.
 
-## FIFA World Cup brackets: Teams, predictions, schedule and road to the final
-Spain booked its place in the World Cup final while England and Argentina prepare for the game at Atlanta stadium.
+## DRC Ebola cases surpass 2,000 as more health workers begin strike
+Health workers in Democratic Republic of the Congo's Ituri province strike over unpaid wages as death toll rises to 754.
 
-## Crowds cross between Spain and Gibraltar following UK-EU treaty
-A large crowd crossed between Spain and Gibraltar in the early hours of Wednesday morning, celebrating the UK-EU treaty.
+## India-UK trade deal comes into effect: What’s cheaper in each country now?
+The deal cuts tariffs on thousands of goods and widens access for services firms and ​professionals in both markets.
 
-## ‘A role model’: Djed Spence, first Muslim England player, lifts hopes
-Britain swells with pride over the 25-year-old, the first Muslim to wear the England jersey at a FIFA World Cup.
+## Why has Lindsey Graham’s sister inherited his Senate seat after his death?
+The late senator's sister, the politically inexperienced Darline Graham Nordone, has inherited his office and powers.
 
-## Bangkok pub fire toll rises to 32 with 15 in intensive care
-Officials confirm two more deaths as 30 people remain in hospital, including 15 in intensive care units.
+## ‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future
+Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.
 
-## Sheikh Hamad bin Khalifa Al Thani and Al Jazeera
-A tribute to the late Father Emir from Al Jazeera's Chairman of Board of Directors Sheikh Hamad bin Thamer Al Thani.
+## Could the US take control of Iran’s southern islands?
+Operation would be a dramatic military spectacle but would carry costs analysts doubt Washington is willing to incur.
 
-## Iran launches attacks across region as US strikes continue
-Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.
+## What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?
+What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?
 
-## Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea
-At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.
+## Cody Bellinger stars at MLB All-Star game, wins MVP award
+With his father - former big leaguer Clay Bellinger - in attendance, the New York Yankees player earned MVP honours.
+
+## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Wipro's Aparna Iyer next
+Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Wipro's Aparna Iyer and Tech Mahindra's Rohit Anand. Tata Consultancy Services (TCS), meanwhile, did not disclose the actual remuneration of its CFO, while HC
 
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
@@ -290,9 +296,6 @@ Indian banks are now mandated to disclose their anti-money laundering measures c
 
 ## As automation spreads, India's FMCG companies rethink the size of their workforce
 Hindustan Unilever and Dabur reduced permanent staff while others increased headcount. Median employee remuneration saw increases ranging from six to twelve percent. Hindustan Unilever's permanent workforce declined by over seven hundred employees. Dabur India's permanent workforce also saw a signif
-
-## Is India's Growth Shifting to the Next 100 Cities?
-India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
 
 ## RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines
 Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the gov
