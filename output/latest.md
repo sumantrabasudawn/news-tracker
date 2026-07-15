@@ -1,61 +1,70 @@
 # AION Intelligence
 
+## VAT is Burnham’s best tax-raising tool if UK public finances go off track, says OECD
+New report argues long-term reforms should focus on spending restraint, including end to pensions triple lock
+
+## Russia accused of planning attacks on Baltic or Polish infrastructure
+Lithuania’s president says intelligence points to ‘targeted’ kinetic operations against energy or transport assets
+
+## Consensus on chancellor shifts — but I still wouldn’t bet on it
+Nothing is certain as lobbying war rages on, but Westminster view is growing that Ed Miliband will be passed over
+
+## Miliband trails Mahmood in race to become Burnham’s chancellor
+Home secretary emerges as favourite for role amid criticism of energy secretary’s net zero policies
+
+## Annual pay for nannies in the UK home counties nears £60,000
+Salaries outstrip those of inner London, with strong demand in the commuter belt
+
+## Thames Water warns over long-term future
+Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
+
 ## Stripe and Advent make $53bn bid for PayPal
 Offer by payments start-up and private equity group comes at 28% premium to Tuesday’s closing share price
 
 ## China’s economy grows at one of lowest rates in decades
 Second-quarter GDP figure falls below annual target range as economic pressure mounts
 
+## Richemont sales surge on booming jewellery demand
+Cartier owner outperforms peers with consecutive quarters of double-digit growth
+
+## IBM’s share plunge is a warning to the IT sector
+AI demand is starting to crowd out other forms of sector spending
+
+## Barratt Redrow launches £400mn buyback after investor pressure
+Housebuilder announces move after warning from activist
+
+## ASML raises forecasts as AI boom drives chipmaking demand
+Shares climb 7% as Dutch company strikes bullish tone on durability of AI boom
+
 ## Wall Street banks are AI stocks now
 Plus a nice cool CPI report
-
-## Brussels has delivered only a slice of Draghi reforms, report says
-Also in this newsletter: UAE presses Europe to play a bigger role in Gulf security
-
-## What could go wrong
-Assessing the world economy’s resilience
 
 ## Chipmaker CXMT seeks $10bn in largest China IPO since 2010
 Chinese group capitalises on boom in demand for AI memory chips
 
-## FirstFT: Ukraine to buy Chinese drone parts with EU funds
-Also in today’s newsletter: Trump’s return to war with Iran and BYD signals wider European expansion
+## Target has 40% of global tech workforce in Bengaluru
+Target says its India operations key to its global tech transformation
 
-## The Story of Money
-Watch the latest episode from the FT podcast exploring the history of finance
-
-## ASML raises forecasts as AI boom drives chipmaking demand
-Shares climb 7% as Dutch company strikes bullish tone on durability AI boom
-
-## Thames Water says it can survive for another year
-British utility warns of ‘material uncertainty’ over its ability to secure enough liquidity
-
-## As good as it gets in banking?
-Wall Street banks have unveiled record quarterly profits but risks loom
-
-## Sensex today | Stock Market Live: Sensex gains 400 points, Nifty near 24,150 as earnings lift sentiment
+## Sensex today | Stock Market Live: Sensex, Nifty retreat from day's highs; Bank Nifty leads gains
 Sensex, Nifty, Share Prices LIVE: Indian benchmark indices trade higher on Wednesday, tracking positive global cues as investors shifted focus to the earnings season. Easing oil prices, optimism over the India-UK trade pact and encouraging early corporate results further supported market sentiment.
 
-## Marine engineer missing following attack on ship off Oman coast is dead, says family
-New Delhi lodged a strong protest with ‌Iran after summoning its deputy ambassador over Tuesday's ​killing
+## Files relating to Kudankulam nuclear power plant exposed in ransomware data breach
+World Leaks posts nearly 19,000 files relating to the plant; Reliance Group confirms ‘partial breach’, says incident reported to the government
 
-## First cargo shipment under India-UK FTA flagged off from Amritsar airport
-Nearly 99% of Indian products to enjoy zero-duty access to UK market, says DGFT official
+## BlackRock in talks to inject funds into Udaan
+The amount is part of a proposed $160 million fresh financing that Udaan announced on Tuesday
 
-## LTTS shares jump over 9% as Q1 profit and revenue rise, Anthropic partnership
-The company’s consolidated net profit for the quarter ended June 2026 rose 12.9 per cent y-o-y to ₹357.1 crore from ₹316.1 crore
-
-## Q1 Results Today Live: Groww Q1 PAT jumps, Union Bank & Steel Strips profit up, HDFC Life, HDFC AMC, ICICI Lombard, ICICI Pru, HDB Financial, Angel One to announce Q1 results, Ksolves India & Fedbank Financial shares jump
+## Q1 Results Today Live: Groww Q1 PAT jumps, ICICI Pru Life, Union Bank & Steel Strips profit up, HDFC Life, HDFC AMC, ICICI Lombard, HDB Financial, Angel One to announce Q1 results
 Q1 Results Today, 15th July 2026 Live Updates: Catch live updates
 
-## Tech Mahindra Q1 margins seen rising up to 50 bps on cost optimisation
-Analysts foresee revenue to increase around 1% sequentially, supported by telecom deal ramp-up and broad-based growth across verticals
+## India data centres attract $1.56 billion foreign capital
+Funding surges in H1 2026 as global investors back India’s digital infrastructure story, driven by rising AI workloads, cloud adoption, and hyperscaler expansion plans
 
-## Rupee at 96, soaring lithium and copper prices cloud auto industry’s festival season outlook
-Even as automakers gear up for robust festival demand with a slew of SUV and EV launches, a weakening rupee and soaring raw material costs are threatening margins and pricing strategies
+## FIFA World Cup 2026: Spain becomes title favourites with impressive win over France
+Spain booked their place in the title clash with a commanding 2-0 victory over France
 
-## India bans import of goods produced using forced labour: Here’s all you need to know
-Move gains significance against the backdrop of the US Trade Representative’s ongoing investigation under Section 301 of the Trade Act of 1974 against 60 countries, including India
+## World of Hyatt Expands HYROX Collaboration to India
+World of Hyatt Expands HYROX Collaboration to India
 
 ## China's economic growth slows to weakest pace in three years despite export boom
 China's economic growth slowed in the second quarter, impacted by weak domestic demand. Strong exports, particularly in electric vehicles and AI, provided some support. Consumer spending and investment remain subdued amid property market uncertainty. The nation faces challenges balancing high-tech g
@@ -81,53 +90,62 @@ India presents significant global investment opportunities, attracting companies
 ## Top stocks to buy today: Stock recommendations for July 15, 2026 - check list
 Stock market recommendations: Route Mobile, Tata Power, and Dr. Reddy's Laboratories - these are the top stocks to buy picked by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares for July 15, 2026.
 
-## Who has supported Sonam Wangchuk so far? A look at list of politicians, actors amid hunger strike concerns
-The CJP-led protest in New Delhi has now entered its 25th day. Wangchuk, 59, joined the demonstration on June 28 and began his indefinite hunger strike.
+## 2 killed after fire breaks out at building in Mamura village in Noida's Sector 66
+2 killed after fire breaks out at building in Mamura village in Noida's Sector 66
 
-## UP: Woman arrested for posing as IAS officer to marry, husband alleges ₹40 lakh extortion attempt
-Police said the accused allegedly used fake social media posts to pose as an IAS officer before marrying the complainant.
+## SC flags 'frustration' of students in CBSE’s digital marking system
+The top court has called in Solicitor General Tushar Mehta to hear a PIL in this regard and frame regulations for conducting exams through OSM.
 
-## Arrival from Bali, 6 weeks in Goa, missing passport: Mystery trail of US national arrested at Nepal border
-Jordan Brown, a US resident, was apprehended late on July 11 after he allegedly attempted to cross into Nepal through an unauthorised route in UP's Maharajganj.
+## PM Modi hails ‘significant moment’ as India-UK trade deal, social security agreement come into effect
+Describing it as a "significant moment," PM Modi emphasized that dual agreements would translate high-level diplomatic ambition into "tangible opportunities,"
 
-## Odisha KG-to-PG free edu subject to 75% attendance, professional courses exempted
-The fee waiver would apply only to eligible regular courses in state universities, government colleges and private aided colleges
+## Why Punjab could define India’s new national security leadership
+Religious polarisation is on the rise in Punjab. Is India’s national security prepared for the challenge?
 
-## Food vlogger's video at Sonam Wangchuk's hunger strike leaves internet divided
-This irony was also addressed by Sapra in his video, where he stated that he was here to review the food due to the high demand from his viewers.
+## 'India can stop the Ukraine war': Polish Deputy FM says Modi 'among few who can influence' Putin
+The Polish minister also discussed the developments of 2022, when India intervened in the war and called for nuclear de-escalation.
 
-## ‘If someone seeks bribe, tell them...’: Vijay's remarks on corruption go viral
-Reassuring the public, CM Vijay said he stood with them and asked them to firmly say "no" when asked for a bribe.
+## Mother of 9 kills husband with axe in his sleep over suspicion of affair in Madhya Pradesh
+The woman, Rumli Bai Dudwe (35), who allegedly killed her husband with an axe while he was asleep, has been arrested and sent to judicial custody by local court
 
-## SC refuses to entertain plea against influencer Nazia Elahi Khan
-The petition sought directions for registration of criminal proceedings against Khan for allegedly making blasphemous and inflammatory statements against Prophet Muhammad.
+## Jolt to Tej Pratap's JJD as party candidate's nomination rejected in Bankipur over lack of signatures
+The Returning Officer (RO) rejected Vina Mandavi's nomination after scrutiny because the papers did not contain the required number of proposers' signatures.
 
-## 'Force feed Sonam Wangchuk': Plea in Delhi HC seeks liquid diet, hospitalisation for climate activist on hunger strike
-Filed by advocate Rakesh Kumar Saini, the plea urges the Centre and the Delhi government to immediately shift Wangchuk to a government hospital.
+## Case against content creators for ‘defaming’ Nitin Gadkari amid E20 row
+Reacting to the FIR in a video, Manish Kasyap denied that his video contained false information and defended his criticism of the government's E20 programme.
 
-## ‘Economic links to get deeper’: PM Modi as India-UK FTA comes into effect
-
-
-## ‘Prasoon Joshi has not seen Satluj, but has problems with it’: Anurag Kashyap on film’s ban
+## UPSSSC introduces OTR system in PET exams
 
 
-## Aamir Khan on ‘love jihad’ claims: ‘Gauri not even Hindu; Kiran, Reena didn’t convert’
+## Two dead, families rescued after massive fire in residential building in Noida
 
 
-## Russia slams Ukraine over drone attacks on ships: ‘Pirates at least keep the spoils’
+## The bittersweet realities of the India-UK FTA
 
 
-## ‘City was under red alert’: Anshula Kapoor’s wedding planner gives inside details
+## Apple lets everyone try Siri AI with iOS 27 public beta
 
 
-## Amid BJP tie-up buzz, Supriya Sule says NCP (SP) will back delimitation bill, with riders
+## Tuchel addressed post-match comments with team, cleared air after quarterfinal win
 
 
-## Karnataka Police recapture escaped Kalaburagi prisoner after encounter, search on for 2
+## ‘Ready to roll out sex education in schools’: Centre tells Supreme Court
 
 
-## Zoho launches Classes 2.0, betting on AI to fix India’s education gaps
+## Iran claims fresh missile strikes on US bases in Jordan, Bahrain and Kuwait; releases videos
 
+
+## Madhuri Jain Grover evicted from Lock Upp 2, says, ‘Shared a special bond with Ram Kapoor’
+
+
+## China’s slowing economic growth boosts case for stimulus
+China’s economy grew at the slowest pace in nearly four years in the second quarter, with sluggish consumption amid the fallout from the Iran war offsetting strong export growth. The 4.3 per cent increase in gross domestic product, down from 5 per cent in the first three months of the year, dragged 
+
+## Connect scheme for gold shines light on China’s financial liberalisation
+When Hong Kong launched its latest Connect programme on July 7, most of the attention focused on gold. That misses the bigger story. Delivery Connect, part of the city’s new gold clearing and settlement system, is not simply another financial initiative but the latest evidence that Beijing has settl
+
+## Will diversification restore Hong Kong’s IPO title? Think tank maps out plan
+Hong Kong needs to diversify the source of its listed companies and investors if it is to reclaim its recently lost crown as the world’s top initial public offering (IPO) venue, according to a government think tank. “Hong Kong should continue to find ways to diversify both its listing issuers as wel
 
 ## Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters
 The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two we
@@ -143,15 +161,6 @@ New home prices in four Chinese first-tier cities rose by an average of 0.1 per 
 
 ## As consumption worries persist, Hong Kong investors shun mainland Chinese F&B stocks
 Mainland Chinese food and beverage (F&B) brands are struggling to win over Hong Kong investors, as persistent market concerns over the country’s weak consumption weigh on valuations. While more than 10 consumer and F&B chains successfully listed in 2025, this year presents a starkly different landsc
-
-## China’s top lithium firms project up to 50-fold profit surge amid energy transition boom
-China’s two largest lithium producers are set to report soaring earnings in the first half of the year, with profits projected to surge by as much as 50 times on the back of global demand for energy independence. Tianqi Lithium estimated net profit of between 2.85 billion yuan (US$420 million) and 4
-
-## Hong Kong urged to pave path for Greater Bay Area firms going global
-Hong Kong has been urged to carve out a pivotal role helping Greater Bay Area companies navigate overseas expansion, as supply chain relocation and geopolitical pressures reshape trade routes. Speakers at the Greater Bay Area Global Business Expansion Summit on Tuesday highlighted the city’s strengt
-
-## Louis Vuitton takes China’s trademark regulator to court as legal drive continues
-Louis Vuitton is set to face off against China’s trademark regulator in a Chinese intellectual property court on Thursday, as the French luxury brand deals with public backlash in China over a separate legal battle against a local milk tea brand. Louis Vuitton Malletier filed the administrative laws
 
 ## What Did the Nine-Dash Line Ruling Accomplish?
 Ten years on, the Philippines is stepping up its defense plans in the South China Sea.
@@ -201,6 +210,12 @@ Instead of being seen as a fugitive from justice, the former Bangladeshi prime m
 ## Sri Lanka Prison Riot Exposes Intertwined Crises of Drugs, Crime and Overcrowding
 A recent prison riot at Negombo underscores the need for the government to dismantle drug trafficking networks, contain criminal activity and carry out prison reforms.
 
+## MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide
+Editor’s note: This is the third article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
+
+## Before the Next Mythos Moment: The Case for an AI Threat Fusion Center
+Earlier this spring, Claude’s developers found the cyber potential of Anthropic’s model, Mythos 5, hazardous enough to pump the brakes on model release, creating the Project Glasswing collaboration to give cyber defenders the upper hand through controlled access to the model. Despite these efforts, 
+
 ## Breaking America’s Promise to Pacific Island Veterans
 In January, Robson Henry died at the age of 66. Chances are, you have never heard of Henry. He was not famous, rich, or powerful. In many ways, Henry was no different from the thousands of young men and women who, at the age of 18, chose to serve by enlisting in the U.S. Army. Nor does the fact that
 
@@ -218,12 +233,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East
 On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission’s goals was the overthrow of the Islamic Republic. “When we are finished,” Trump told the Iranian people, “take over your government. It
-
-## Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore
-When the United States and Iran announced their framework agreement on June 15, attention focused on the direct U.S.-Iran dimensions of the deal, including the reopening of the Strait of Hormuz, the lifting of the U.S. naval blockade, and the fate of Iran’s nuclear program. But the agreement also in
-
-## Fraying Deals and Rising Strikes
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThree weeks after it was signed, the memorandum of understanding between the United States and Iran seems to
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spain recapture 2010 spirit after reaching World Cup final: De la Fuente
-After a masterclass against France in the semifinals, Spain are just one win from winning their second World Cup.
+## Iran launches attacks across region as US strikes continue
+Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre.
 
-## Waiting for Hassan: Another Gaza doctor held by Israel without charge
-Hassan Khalil Almukayed is among at least 15 Palestinian doctors from Gaza currently in Israeli detention.
+## Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea
+At least three people killed and three others wounded in Russian strikes on Odesa, city's military administrator says.
 
-## How the failed 2016 coup reshaped Turkiye’s civil-military relations
-Takeover bid 10 years ago sped up efforts to expand civilian oversight, experts say, reducing chances of another coup.
+## US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?
+Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports.
 
-## England vs Argentina: FIFA World Cup semifinal – Messi, Kane and prediction
-England and Argentina renew their World Cup rivalry after 24 years, as Harry Kane and Lionel Messi clash in the semis.
+## Watch FIFA World Cup: Spain defeats France to reach final
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## World Cup: England have ‘not peaked yet’, says Tuchel before semifinal
-England face Argentina in Wednesday's semifinal, hoping to reach the World Cup final for the first time since 1966.
+## US attacks Iran as IRGC claims strikes on US military sites in Gulf
+Oil prices rise as the US renews a blockade on Iranian ports and carries out a wave of air strikes.
 
-## How Iran’s southern coast is bearing the brunt of US attacks
-Donald Trump says the US is going to bomb Iran’s civilian infrastructure if there is no deal by next week.
+## Lindsey Graham’s sister sworn in to fill his US Senate seat
+Lindsey Graham’s sister sworn in to fill his US Senate seat
 
-## Spain knock out France, prepare for World Cup final
-Spain beat France 2-0 to reach the World Cup final, shutting down Kylian Mbappe
+## Photos: Spain ends Mbappe and France’s World Cup dream to reach final
+France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final.
 
-## T.Rex skeleton sells for $50.1 million at New York auction
-A T.Rex skeleton nicknamed ‘Gus’ sold for a record $50 million at an auction in New York.
+## India’s ethanol rush prompts anger among vehicle owners, questions for gov’t
+Indian petrol stations now only offer fuel with 20 percent ethanol blended in. But the rushed move triggers criticism.
 
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
@@ -297,6 +306,12 @@ Hindustan Unilever and Dabur reduced permanent staff while others increased head
 ## Is India's Growth Shifting to the Next 100 Cities?
 India's top 100 cities together account for nearly one-third of the country's consumption while housing less than one-fifth of its population. Together they represent an annual consumption economy of nearly $844 billion, underlining that the country's economic story is no longer confined to a few me
 
+## RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines
+Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the gov
+
+## Raising bank stakes gets easier for DIIs
+The Reserve Bank of India announces proposed amendments to bank shareholding regulations, designed to more effectively facilitate investments from domestic institutional investors. Additionally, the central bank emphasizes stronger disclosure and monitoring protocols. The new directives will provide
+
 ## Sebi exempts Mehta Family Trust from Saurashtra Cement open offer
 Sebi exempted Mehta Family Trust from an open offer for Saurashtra Cement shares. This exemption allows internal family reorganisation and succession planning. Jay Mahendra Mehta and Juhi Chawla Mehta are trustees of the family trust. The transaction involves indirect acquisition of shares and votin
 
@@ -314,7 +329,4 @@ Industry stakeholders expect stronger trade, investment, and research partnershi
 
 ## SEBI bars Osiajee Texfab in manipulation probe
 SEBI has barred Osiajee Texfab from trading shares. The regulator found a coordinated scheme to artificially inflate the company's stock price. Evidence showed a nearly tenfold surge in share value despite negligible textile revenue. Investigations revealed synchronised trades and financial linkages
-
-## BofA sees RBI holding rates near term, expects 50 bps hike from Dec 2026 amid domestic inflation risks
-The Reserve Bank of India (RBI) is likely to keep policy rates unchanged in the near term, but BofA Securities expects a cumulative 50 basis points (bps) rate hike from December 2026 as inflation risks become increasingly driven by domestic factors.
 
