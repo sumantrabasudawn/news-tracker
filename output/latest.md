@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## City leaders chew over Reeves’ successor at Mansion House banquet
+Conversations at annual gathering focus on who will take key job of chancellor in new Burnham government
+
+## Spain reach second World Cup final with comfortable win over France
+Spanish players put on calm and controlled display in 2-0 victory over the tournament favourites
+
 ## Manic markets show no mercy to IBM
 Failure will apparently not be tolerated
 
@@ -18,14 +24,14 @@ Home secretary emerges as favourite for key role amid criticism of energy secret
 ## Trump says US to abandon proposed Strait of Hormuz cargo fee
 US military launches seventh wave of strikes after the president said he would ‘replace’ fees plan with Gulf investment
 
-## IBM shares plunge 25% as customers shift spending to AI
-Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
-
-## US to fund Trump-aligned Europeans building ‘civilisational bonds’
-State department grants of up to $3mn are designed to boost groups pushing Maga-style policies
+## Circle clashed with Tether-backed fund over market manipulation concerns
+New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group
 
 ## Lucid brings in turnaround advisers as EV sales slump
 Saudi-owned carmaker has hired AlixPartners to help ‘strengthen operations’
+
+## IBM shares plunge 25% as customers shift spending to AI
+Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
 
 ## Everything is awesome for banks
 Lenders are riding the tech wave, too
@@ -36,8 +42,23 @@ Billionaire chair of conglomerate shifts personal charity plans after revelation
 ## US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
 JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
 
-## European defence groups plan interceptor system to destroy missiles in space
-Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
+## Spain’s anaconda grip strangles France’s World Cup dream
+Relentless pressing, flawless possession and clinical finishing powered Spain past France 2-0, moving the European champions one step from World Cup glory
+
+## Sensex today | Stock Market Live: Stock to buy today: Caplin Point Laboratories
+Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Caplin Point Laboratories. The stock has been consolidating within its broader uptrend for more than two weeks between ₹2,500 and ₹2,700. We expect the stock to make a bullish breakout above ₹2,700 and resume the broader uptrend
+
+## US reimposes blockade on Iranian ports as Strait of Hormuz tensions escalate
+The move came alongside fresh US strikes on Iran, while Bahrain and Kuwait activated missile defences against Iranian attacks
+
+## Stocks to watch: Why these 16 shares will be in focus today
+L&T Tech, Hero MotoCorp, ICICI Lombard, J&K Bank, KEC International, Lemon Tree Hotels, Kirloskar Brothers, Vraj Iron, 3i Infotech and more are expected to remain in focus today
+
+## NASA astronaut Anil Menon and two Russian cosmonauts reach International Space Station
+During his eight-month ISS mission, Menon will conduct research on long-duration spaceflight, microgravity, artificial intelligence, and advanced medical technologies.
+
+## Spain beat France 2-0 to reach FIFA World Cup final after Lamine Yamal shines
+Spain reached their first FIFA World Cup final since 2010 and will face Argentina or England, while France now turn their attention to the third-place playoff
 
 ## Russia launches American astronaut and two cosmonauts to space station amid rare NASA chief visit
 Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian cosmonauts to the International Space Station
@@ -45,23 +66,20 @@ Russia launched Soyuz MS-29 carrying NASA astronaut Anil Menon and two Russian c
 ## New York imposes one-year moratorium on large data centres over AI concerns
 The pause will allow New York to set environmental standards and assess the long-term impact of large data centres
 
-## Trump drops 20% Strait of Hormuz shipping fee, opts for Gulf trade deals
-Trump said the Strait of Hormuz will remain open to global shipping, except for vessels linked to Iran
+## With 73% rise, Adani Properties top realty gainer
+Adani Properties saw significant wealth surge, moving to fourth position on the property list. DLF retained its top valuation despite a notable decline in its overall worth. Lodha Developers and Indian Hotels Company also experienced valuation decreases this year. The Indian real estate sector showe
 
-## Mylan exits Biocon, sells entire 5.64% stake for ₹3,679 crore via block deals
-Several institutional investors, including mutual funds, insurers and foreign funds, bought Biocon shares on the NSE
+## Raising bank stakes gets easier for DIIs
+The Reserve Bank of India has proposed changes to bank shareholding norms. These amendments aim to ease investment by domestic institutional investors. Governance rules will also be revised for bank boards to focus on strategy. The central bank seeks to refine acquisition norms for portfolio manager
 
-## India orders real-time tracking of seafarers amid West Asia maritime security crisis
-Following deadly attacks on two merchant ships, the government ordered real-time monitoring, dedicated family support and tighter safety measures for Indian seafarers
+## Led by NRI deposits, RBI swaps may draw $80-85 billion
+Bankers anticipate India will attract eighty to eighty-five billion dollars through RBI's swap-backed initiatives. Early inflows are expected from FCNR(B) deposits, which are already seeing traction. Public sector undertakings and banks are adopting a wait-and-watch approach on other issuances. Thes
 
-## New Services Index out; 14 sub-sectors grow strongly
-Work is underway to compile the ISP for sub-sectors such as health and residential care, education, and ownership of dwellings
+## IDBI stake sale back on table, government keen to speed up process
+Government is accelerating the IDBI Bank stake sale process. Two bidders, Fairfax and Emirates NDB, are being considered. This follows the rejection of earlier bids below the reserve price. Recent foreign investments in Indian banking include Yes Bank and RBL Bank. Mitsubishi UFJ Financial Group als
 
-## Constitutional challenges in the delimitation math
-Balancing equal representation and federalism amid impending seat redistribution
-
-## Union Minister Shivraj Singh Chouhan announces approval for 1 lakh houses under PMAY-G for West Bengal
-Survey deadline extended to August 15; over ₹12,000 crore allocated for rural development
+## FTA with UK comes into effect today, exports to get a boost
+The India-UK free trade agreement begins implementation, boosting Indian exports to the UK. Indian service providers and professionals will gain greater access to the United Kingdom market. Many Indian products will enter the UK duty-free, enhancing export competitiveness significantly. Digital serv
 
 ## India moves to block imports linked to forced labour amid USTR probe
 India is inserting a new clause into its foreign trade policy. This clause will allow blocking imports produced using forced labour. The government will use the International Labour Organisation's definition of forced labour. This move strengthens India's legal framework for trade negotiations. The 
@@ -72,68 +90,59 @@ US senators unveiled a revised Russia sanctions bill targeting major energy buye
 ## India Post crosses Rs 4,000 crore quarterly revenue for first time; Q1 turnover jumps 22%
 India Post achieved its highest-ever first-quarter revenue of Rs 4,008 crore. This revenue marks a significant 22.2 percent increase from the previous year. The parcel and mail segments showed substantial revenue growth during this period. Citizen-centric services also experienced an impressive 86 p
 
-## Trump admin’s Section 301 probe: Why India’s ban on import of goods produced through use of forced labour is important
-The move comes against the backdrop of a US investigation into forced labour practices across 60 economies, including India. The notification said the new provisions will take effect after the completion of 30 days from the date of their publication in the Official Gazette.
+## Tahir Hussain, armed mob dragged and murdered IB officer Ankit Sharma: Delhi court
+The Delhi court held Tahir Hussain and four others guilty in the murder of Ankit Sharma. Six others were acquitted of all charges in the case.
 
-## Export boost, cheaper cars & whisky: India-UK trade deal comes into effect from July 15 - How India & Indians will benefit
-With its implementation, the trade deal will become the sixth free trade agreement brought into force during the Narendra Modi government's tenure. India has previously implemented similar agreements with Mauritius, the UAE, Australia, the European Free Trade Association (EFTA) and Oman.
+## 'Will not entertain': Supreme Court rejects plea against SRK’s Mannat revamp
+The petition sought to quash the coastal regulation zone (CRZ) clearance on January 3, 2025 granted for constructing the seventh and eighth floors.
 
-## Why is IBM stock crashing today? Shares plunge over 25% - here’s what’s driving the fall
-IBM share price crash: The softer outlook comes as businesses increasingly direct their technology spending towards artificial intelligence infrastructure, including servers, storage and memory, resulting in lower expenditure on conventional software offerings.
+## Ram temple donation row: Treasurer Govind Giri refuses to step down, blames SBI
+Addressing reporters in Pune, Giri Maharaj said his “penance” was to prevent a recurrence, not resignation.
 
-## Govt releases first services production index; 14 of 19 sub-sectors post double-digit growth
-India's government has launched a new Index of Services Production. Fourteen of nineteen formal services sub-sectors showed double-digit growth in April. Accommodation and food services expanded significantly, leading the growth figures. Air and railway transport were the only sub-sectors to record 
+## 20 rebel TMC MPs likely to get new Lok Sabha seats: 'Speaker has assured us'
+20 of the party’s 28 Lok Sabha MPs decided to merge with the NCPI and aligned themselves with the ruling National Democratic Alliance (NDA).
 
-## US stocks today: Wall Street trades in green; stocks steady as US inflation data better than expected
-The market drew support from declining bond yields after data showed US consumer prices rose 3.5 per cent in June compared with a year earlier, reflecting higher costs for gasoline, food and other everyday items.
+## Delhi Police cop who shot wife dead kills self using same service pistol
+Prima facie, Kumar said, it appeared that the constable had shot himself 10 to 15 minutes before his body was discovered.
 
-## Spiritual leader Dhirendra Shastri's brother, 3 others booked for assault over land dispute
-Shastri, the head of Bageshwar Dham, a religious centre, said if his brother is found guilty, he should be punished according to the law.
+## 'Dreams shattered': Family of Indian sailor killed in Iranian attack mourns loss
+The sailor was killed and 10 other Indian nationals were injured, two of them seriously, in missiles attacks on two Emirati oil tankers.
 
-## ED summons TMC MLA Madan Mitra's wife, two sons in municipal recruitment ‘scam’
-The summons were issued after ED came across information linking the family members to certain financial transactions under scrutiny in the case, he said.
+## AI-171 crash probe may end in 6 weeks, 'draft final report' by year-end: Centre to Supreme Court
+Air India flight 171 crashed moments after take off on June 12, 2025. Except for one, all on board and 19 people on the ground were killed.
 
-## Abhijeet Dipke thanks Uddhav Thackeray for supporting CJP, Wangchuk in protest over exam paper leaks
-Dipke thanks Uddhav for supporting CJP, Wangchuk in protest over exam paper leaks
+## New US bill proposes up to 100% tariffs on India, others over Russian oil purchase
+The bill - which has been backed by the White House - could be passed before August and aims to cripple Russia’s revenues from its energy exports.
 
-## ‘Cong already protesting, facing lathis’: Mevani on why Rahul not at CJP protest
-Jignesh Mevani said that the workers of the NSUI and Youth Congress have been protesting on streets against the paper leak scams.
-
-## NASA's Anil Menon embarks on 8-month sojourn to International Space Station, with drawings made by Indian kids
-Born in Minneapolis to Ukrainian and Indian immigrants, Anil Menon is an emergency medicine physician and a US Space Force colonel.
-
-## Chinese passport, religious books, AI device found on US national arrested near Nepal border
-Jordan Brown is believed to have entered India by sea in November last year. Authorities are now piecing together his movements over the past several months.
-
-## ED arrests businessman Vikas Garg in Mahadev, Skyexchange probe
-The ED launched its probe in 2022 based on FIRs registered by police in Chhattisgarh, Andhra Pradesh and West Bengal
-
-## Odisha CID arrests former SCERT director in school textbook error case
-Manoj Padhi was arrested after prolonged questioning as part of the CID’s investigation into errors found in newly published textbooks for Classes I to VIII
-
-## CM meets Union Minister Shivraj Chouhan Centre approves one lakh rural houses, allocates Rs 1,000-cr for 2400 km roads
+## Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journey
 
 
-## If UP can, why can’t we?: CM launches plantation drive, pitches for coconut
+## Hindu man’s ‘fast broken’ after drinking ‘moldy’ juice, wins Rs 70,000 payout
 
 
-## Shaheedi’ memorial to be built at Harike Pattan, says Akal Takht Jathedar amid ‘Satluj’ row
+## All eyes on Rahul as Punjab Congress mired in factionalism, can mar its prospects in 2027
 
 
-## Court sentences convict in 2020 IS-linked terror plot to 7 years in prision
+## Did referee rob France of a World Cup final spot? Deschamps questions after Spain defeat
 
 
-## Amid Satluj row, focus on strength of judiciary and role Justice Kuldip Singh played
+## ‘Counsel, you are on mute’: The world of virtual courts
 
 
-## Civic body launches pilot project to cut noise pollution in Ahmedabad
+## Who are the Ravidassias and why do they want a separate religion category in Census?
 
 
-## ‘Right to vote has nothing to do with delimitation’: Supreme Court refuses to hear plea
+## Goa: No seminars by outsiders without govt nod, educational institutions told
 
 
-## After July 7 deluge, one billion litre water pumped out of Surat basements
+## Worli concert death: Toxicology report finds MDMA, alcohol in law graduate’s samples
 
+
+## As consumption worries persist, Hong Kong investors shun mainland Chinese F&B stocks
+Mainland Chinese food and beverage (F&B) brands are struggling to win over Hong Kong investors, as persistent market concerns over the country’s weak consumption weigh on valuations. While more than 10 consumer and F&B chains successfully listed in 2025, this year presents a starkly different landsc
+
+## China’s top lithium firms project up to 50-fold profit surge amid energy transition boom
+China’s two largest lithium producers are set to report soaring earnings in the first half of the year, with profits projected to surge by as much as 50 times on the back of global demand for energy independence. Tianqi Lithium estimated net profit of between 2.85 billion yuan (US$420 million) and 4
 
 ## Hong Kong urged to pave path for Greater Bay Area firms going global
 Hong Kong has been urged to carve out a pivotal role helping Greater Bay Area companies navigate overseas expansion, as supply chain relocation and geopolitical pressures reshape trade routes. Speakers at the Greater Bay Area Global Business Expansion Summit on Tuesday highlighted the city’s strengt
@@ -152,12 +161,6 @@ Global hotel chain operator Hilton has introduced a new brand to China, a move a
 
 ## Where is the priciest residential property? Hong Kong keeps crown, but livability drops
 Hong Kong has retained its position as the world’s most expensive residential property market despite a 10 per cent price decline from pre-pandemic levels, according to a new Deutsche Bank report warning that housing affordability continues to weigh on living standards. The investment bank lowered t
-
-## 5 years after Evergrande, why a China think tank says stock market signals a turnaround
-The Evergrande debt crisis exposed vulnerabilities in China’s property sector, but a prominent Beijing-based macroeconomic think tank suggests the country may have already moved past the worst of the slump, with the nation’s stock market now supported by a “more favourable macro environment”. Accord
-
-## How Yung Kee and other Hong Kong heritage brands innovate to thrive in challenging times
-From franchising to diversification, Hong Kong’s heritage brands and long-running family businesses are looking for ways to navigate challenging times amid changing consumption patterns and soaring costs. Second- and third-generation stewards of three local brands – charcoal-roasted goose restaurant
 
 ## China Wants to Regulate AI Companions
 With the latest rules, Beijing hopes to rein in a booming industry.
@@ -183,6 +186,12 @@ At a perilous moment, Washington is smart to invest in a bigger defense budget.
 ## AOC Meets World
 The congresswoman’s rise was powered mostly by domestic issues. But she is slowly expanding to foreign affairs.
 
+## Southeast Asia Has Weathered the Hormuz Crisis
+The region has shown real evidence of resilience.
+
+## Kyrgyzstan, Tajikistan Grit Their Teeth Amid Growing Central Asian Fuel Crisis
+With Ukrainian drone attacks putting the pinch on Russia’s oil industry, the Central Asian region faces a fuel crisis too.
+
 ## Modi’s Visit: Australia, India Seek to Gain Strength From Each Other
 Australia and India are framing new minilateral coalitions to maximize their strategic options.
 
@@ -200,12 +209,6 @@ Instead of being seen as a fugitive from justice, the former Bangladeshi prime m
 
 ## Sri Lanka Prison Riot Exposes Intertwined Crises of Drugs, Crime and Overcrowding
 A recent prison riot at Negombo underscores the need for the government to dismantle drug trafficking networks, contain criminal activity and carry out prison reforms.
-
-## Antonia Mulvey on the Pursuit of Justice in Myanmar
-"In the short term, the likelihood of Myanmar’s military leadership appearing before a court is low, but not impossible."
-
-## Myanmar’s Leader Min Aung Hlaing to Visit Thailand Next Month, Report Claims
-The visit comes amid a campaign by Naypyidaw to normalize its relations with the Association of Southeast Asian Nations (ASEAN) and its member states.
 
 ## NATO’s Unity on Paper and Fractures Beneath the Surface
 On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year’s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of the s
@@ -255,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Mbappe blames technical, tactical blunders for World Cup semifinal loss
+France striker admits Spain controlled the game and made them pay for errors in the semifinal in Dallas.
+
+## Spain crashes Paris party by beating France in the World Cup semis
+Dreams of reaching the World Cup final for a third time running were dashed when France were beaten 2-0 by Spain.
+
+## US star Balogun knew red card reversal would ‘cause a lot of controversy’
+Striker says FIFA's decision to suspend his one-match ban led to 'a lot of outside noise' before USA's knockout match.
+
+## Spain fans erupt as team reaches World Cup final
+Fans erupted in celebration after Spain beat France 2-0 in the semifinals, securing their place in the 2026 Finals
+
+## LIVE: Trump says ‘strikes on Iran will continue until I say enough’
+Iran's bridges, power plants possible targets, Trump said as IRGC says it attacked US forces in Kuwait, Bahrain, Jordan.
+
 ## Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca
 Activists say Moroccan authorities are intensifying repression of critical voices and the Gen Z protest movement.
 
@@ -263,21 +281,6 @@ Colombian father identified in deadly ICE shooting
 
 ## Spain deliver masterclass to beat France 2-0 and reach World Cup final
 European champions Spain beat France with controlled display to book final against Argentina or England.
-
-## Are countries prepared to cope with extreme weather?
-Severe weather conditions are likely to get worse due to climate change.
-
-## World Cup semifinal: Key players to watch in England vs Argentina clash
-Lionel Messi, Jude Bellingham and Harry Kane will be among the stars on show during Wednesday's match in Atlanta.
-
-## Why the England shirt feels complicated for some fans this World Cup
-The World Cup has ignited debate in the UK over wearing or displaying the England flag.
-
-## Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza
-Israel's grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.
-
-## Sirens blare in Bahrain as Iran launches barrage of missiles, drones
-Iranian state media is reporting that Tehran has targeted a US naval support base in Bahrain’s capital.
 
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
