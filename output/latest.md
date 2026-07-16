@@ -1,12 +1,18 @@
 # AION Intelligence
 
+## Netflix’s shares slide on disappointing growth forecasts
+Streaming giant projects weakest revenue increase in three years
+
+## Andy Burnham plans policy blitz on entering Number 10
+Cost of living, North Sea energy and devolution set to feature in early days and weeks of new premiership
+
 ## Zelenskyy government plunged into turmoil after defence minister fired
 Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
 
 ## Blanche’s confirmation as US attorney-general could hinge on meeting Epstein’s victims
 Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination
 
-## Trump administration says leftwing extremism is ‘fatal cancer to civilisation’
+## Trump adviser says leftwing extremism is ‘fatal cancer to civilisation’
 State department says violence from the left is international counterterrorism blind spot
 
 ## Shabana Mahmood to tackle MI5 after scathing report into officers’ conduct
@@ -18,32 +24,26 @@ City figure Jayne-Anne Gadhia confirmed by government as chair of Financial Repo
 ## Trump teleprompter operator faces scrutiny over prediction market bets
 Aide allegedly used advanced knowledge of president’s speeches to profit on ‘mention markets’ wagers
 
-## Monte dei Paschi claims €30.6bn bid from Intesa ‘undervalues’ bank
-MPS’s board says offer carries regulatory and execution risk, leaving door open to potential tie-up with Banco BPM
+## Trump Media to sell high-speed access to president’s social media posts
+Family company hopes large trading firms will pay for market-moving social media posts milliseconds early
 
-## The great British corporate sell-off
-The UK’s business case needs strengthening to stop a self-reinforcing exodus
+## Should private credit be public?
+The case for letting investors into private markets
+
+## Dassault Systèmes in talks to buy drug trial software company for about $2bn
+Potential purchase of ArisGlobal from Swedish buyout group would boost French conglomerate’s push into life sciences
 
 ## Advisers overseeing billions of pounds to leave St James’s Place
 Prospera and Wellesley have both left SJP, according to the FCA’s register
+
+## Monte dei Paschi claims €30.6bn bid from Intesa ‘undervalues’ bank
+MPS’s board says offer carries regulatory and execution risk, leaving door open to potential tie-up with Banco BPM
 
 ## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
 Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
 
 ## Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline
 Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack
-
-## Russian strikes threaten Ukraine’s Black Sea grain trade
-Wheat prices have surged as heavy attacks disrupt shipments
-
-## Uber’s super app ‘synergies’ deserve some suspension of disbelief
-Ride-hailing giant’s purchase of Delivery Hero may be more appetising than it looks
-
-## Paralysed man regains hand function through novel brain technology
-Patient went from not being able to lift his hands to his face to independently wiping his mouth
-
-## Estate agents fear retaliation over Rightmove lawsuit, tribunal told
-Proposed £1.6bn class action suit seeks to challenge high listings fees
 
 ## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
 Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
@@ -117,28 +117,28 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
 "Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
 
-## China overtakes US in global favourability for first time, finds Pew survey
+## Root’s unbeaten 99 makes India vs England 3rd ODI at Lord’s a series decider
 
 
-## Day after 3-year-old found dead in drain in Delhi, man arrested for murder
+## Woman calls man home to end relationship as he was unemployed, both found dead
 
 
-## LIGO India will be the most sensitive scientific device in the world: Prof Rana Adhikari
+## New target for Delhi Health Department: 1.49 lakh HPV vaccinations in 100 days
 
 
-## ‘Hygiene, safety lapses in production area’: FDA suspends licence of South Mumbai’s iconic 110-year-old Parsi Dairy Farm
+## Medical supplies fraud: Key accused flees India, got anticipatory bail in extortion case days earlier
 
 
-## Maharashtra implements aggregator policy, mandates licensing, fare safeguards
+## Delhi’s winter pollution plan: For last-mile delivery in city, cargo from diesel trucks to be transferred to EVs
 
 
-## Increasing financial burden: Maharashtra scraps scheme providing free saris for 25 lakh families
+## Muslim man assault case: After Supreme Court rap, Noida Police invokes hate crime charges
 
 
-## Inside Hydrogen Train, leak detectors, auto shutdown, real time safety monitoring
+## Tableau against Iran war, 18 elephants & 100 trucks: Thousands attend 149th Lord Jagannath Rath Yatra in Ahmedabad
 
 
-## 21-year-old man killed after crane collapses from 11th floor, falls inside housing complex
+## Joe Root stranded on 99 as he powers England to four-wicket win over India
 
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iraq says $19M found in hideouts linked to ex-oil minister
-Iraqi authorities say they seized the equivalent of $19 million in cash and several kilograms of gold jewelry
+## The hardest party to manage in the Iran talks isn’t Iran
+Washington's spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.
 
-## Ebola spreading more quickly in DRC, while Uganda is close to being virus-free
-Uganda ⁠⁠discharges last-remaining patient, as WHO says Ebola has 'expanded faster than any previous outbreak' in DRC.
+## Palestinians injured in Israeli settler attacks across West Bank
+More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.
 
-## What could a US ground invasion of Iran look like?
-Donald Trump has refused to rule out sending US troops into Iran as fighting resumes and US strikes continue.
+## Syria says it foiled Hezbollah weapons shipment
+Syrian authorities say they intercepted a shipment of missiles and drones allegedly destined for Hezbollah in Lebanon.
 
-## Iran condemns ‘barbaric’ US attack near children’s cancer hospital
-Iran accuses US of 'cowardly war crime' as doctor says blast was 'so close' they thought the hospital was struck.
+## Wildfire smoke blankets World Cup final stadium before kickoff
+Footage shows smoke from Canadian wildfires shrouding the New York New Jersey Stadium ahead of Sunday’s World Cup.
 
-## WHO: Ebola spreading faster than ever recorded in DR Congo
-The World Health Organization warns the Ebola outbreak in DR Congo is spreading faster than any previous outbreak.
+## How Syria is redefining ties with Russia
+After Bashar al-Assad's fall in 2024, Syria cut ties with some former allies but redefined its relationship with Russia.
 
-## In Syria’s Jobar, locals struggle to rebuild their destroyed homes
-Jobar was held by rebels for much of Syria's 13-year war but was destroyed by repeated government assaults.
+## Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah
+Hezbollah denies activity in Syria after interception of arms shipment including missiles, rockets and drones via Iraq.
 
-## US approves nearly $2bn in weapons sale to Saudi Arabia
-The sale intends to bolster Saudi air defence systems as the kingdom risks escalation with the Iran-backed Houthis.
+## Nicaragua severs diplomatic ties with Italy over 1978 murder case
+The rift follows Italy’s renewed demand for Nicaragua to extradite the man convicted of former prime minister's killing.
 
-## Rare protests in Kyiv over dismissal of defence minister
-Rare protests erupted in central Kyiv over Ukrainian President Zelenskyy’s dismissal of defence minister.
+## How serious is Iran’s threat to disrupt shipping in the Red Sea?
+After the Strait of Hormuz, Iran's IRGC warns it could next target Bab al-Mandeb.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
