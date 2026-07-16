@@ -111,6 +111,18 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
 "Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
 
+## BIMSTEC security chiefs vow to jointly combat terror, streamline maritime law enforcement
+
+
+## ‘Beef raid’ on house in UP: Police arrest four more after ‘encounter’
+
+
+## Rs 40 lakh, gold seized from Bengal madrasa: How arrest of a Bangladesh national in UP 4 years ago led to ED’s expansive raids in 4 states
+
+
+## Seed funding of up to Rs 10 lakh for students in Delhi government’s new start-up policy
+
+
 ## PM Narendra Modi speaks to Amir of Qatar, conveys condolences on passing of the Father Amir
 
 
@@ -123,17 +135,8 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## A second shot, a perfect finish: Delhi student tops NEET-UG with AIR 1, eyes AIIMS
 
 
-## Root sets up high-stakes finale versus India, Rohit Sharma’s future in focus
-
-
-## Woman calls man home to end relationship as he was unemployed, both found dead
-
-
-## New target for Delhi Health Department: 1.49 lakh HPV vaccinations in 100 days
-
-
-## Medical supplies fraud: Key accused flees India, got anticipatory bail in extortion case days earlier
-
+## Race against Tesla: China EV maker Xpeng to launch viral humanoid globally in 2027
+Chinese electric vehicle maker Xpeng expects to produce more than 1,000 humanoid robots a month by the end of 2026 as it competes with Tesla in a high-stakes race to dominate physical AI, the integration of intelligent software into robotics and machinery. The Guangzhou-based carmaker told the South
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
 As the global artificial intelligence race pushes the limits of scale with massive, trillion-parameter models, a parallel contest is heating up over smaller systems. Instead of relying on sprawling, power-hungry cloud data centres, a growing number of tech companies in China and elsewhere are turnin
@@ -156,8 +159,8 @@ A coordinated push towards global market diversification is urgently needed to s
 ## Cafe de Coral, in 1986, becomes first Hong Kong food chain to go public – SCMP archive
 This article was first published on July 17, 1986. Cafe de Coral the live wire in quiet market by John Mulcahy Fast-food counter Cafe de Coral hit the boards yesterday (July 16, 1986), trading up to $1.35 and recording the biggest volume of the day. Although 16.6 million Cafe de Coral shares traded,
 
-## What does South Korea’s Kospi chaos mean for China’s markets?
-The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
+## The America First Contradiction
+A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
 
 ## Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
 Defense Minister Mykhailo Fedorov was popular for his drone development push—but not enough to keep him in office.
@@ -179,9 +182,6 @@ Moscow is targeting trade routes and deepwater ports to strain Ukraine’s warti
 
 ## Will Hasina Return to Bangladesh?
 The former prime minister set a timeline for her homecoming, despite the threat of arrest.
-
-## A New Law Heralds China’s Fraught Ethnic Future
-Xi Jinping’s push for assimilation won’t solve long-standing issues.
 
 ## Why Gen Z Is Back on the Streets in Bangladesh
 A controversy centered on Bangladesh's Higher Secondary Certificate (HSC) exam brought students back out to protest.
@@ -255,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Former Italian motorway chief sentenced over bridge collapse
+The former CEO of Italy’s main highway operator has been given 12 years in prison.
+
+## Ilhan Omar renews push for US to join ICC amid Trump pressure
+The resolution comes days after US Secretary of State Marco Rubio pledged to 'dismantle' the international court.
+
 ## Grand Mosque of Paris celebrates 100-year anniversary
 The Grand Mosque of Paris is celebrating 100 years since its inauguration.
 
@@ -272,12 +278,6 @@ Washington's spoiler problem sits inside its own alliance, and the spoiler playb
 
 ## Palestinians injured in Israeli settler attacks across West Bank
 More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.
-
-## Syria says it foiled Hezbollah weapons shipment
-Syrian authorities say they intercepted a shipment of missiles and drones allegedly destined for Hezbollah in Lebanon.
-
-## Wildfire smoke blankets World Cup final stadium before kickoff
-Footage shows smoke from Canadian wildfires shrouding the New York New Jersey Stadium ahead of Sunday’s World Cup.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
