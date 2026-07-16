@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## India Inc goes on a foreign buying spree
-Outflows come as foreign investors flee country’s markets at fastest pace ever this year
+## UK economy grew 0.1% in May
+Figure comes as Andy Burnham prepares to enter No 10
+
+## An unelucidating post about the UK’s mysterious ‘Other’ direct debits
+Committing to debit
+
+## Merz and Macron to reset ties after fighter jet project collapse
+Also in this newsletter: former Norway premier calls for EU membership debate and Orbán ex-minister joins China’s BYD
+
+## FirstFT: UK business struggles to contact Burnham
+Also in today’s newsletter: Trump’s BBC lawsuit and energy IPOs
+
+## Trump administration slaps 25% tariff on Brazil as bilateral ties deteriorate
+Levy is part of a deepening rift between Washington and Brasília ahead of South American presidential election
 
 ## South Korea stocks slump after first rate rise in 3 years
-Bank of Korea’s first move under Shin Hyun-song comes amid concern over won weakness and reliance on energy imports
+Bank of Korea’s first move under Shin Hyun-song comes amid concern over persistent inflation and currency weakness
 
-## US hits tanker heading for Kharg Island under renewed Iran blockade
-Military clashes over control of Strait of Hormuz threaten global oil supplies
+## Will Stripe swipe PayPal?
+The cutting-edge tech start-up is pursuing the older payments group
 
-## US will not win Iran war from the air, Trump’s ex-defence chief warns
-Mark Esper tells FT more bombing will not change Tehran’s behaviour, as president vows to step up attacks
+## ‘Green shoots in every direction’: Prisons minister defends record despite watchdog’s criticism
+James Timpson acknowledges standards are still inconsistent but insists a corner has been turned
 
-## FirstFT: China’s economy grows at one of lowest rates in years
-Also in today’s newsletter: Oil traders warn over fresh supply crunch and Oracle leads race to supply Japan with top-secret cloud services
+## Chipmaker TSMC’s profits surge 77% on AI boom
+Net income in second quarter blows past expectations
 
-## Argentina break English hearts with late World Cup semi-final comeback
-Lionel Messi assists twice as reigning champions secure 2-1 win to reach back-to-back finals
+## BHP’s Australian iron ore workers go on strike
+Operations in key Pilbara region have been under threat from new projects including Simandou mine in Guinea
 
-## Vote on US aid to Israel shows divide in Democratic Party
-Failed amendment to an annual defence spending bill would have eliminated the $3.3bn the US provides to Israel
+## ABB buys UK engineering group Rotork in £4.1bn deal
+Acquisition adds to wave of interest from foreign buyers in London-listed companies
 
-## Ukraine’s self-defeating reshuffle
-Sacking of the defence minister is a setback for the country’s military efforts
+## Panama officials visit Beijing in bid to end shipping row
+Vessels have been rapidly removing Panamanian flags after China steps up detentions
 
-## Athens opposes new EU sanctions on Russia to shield Greek shipping company
-George Prokopiou’s Dynagas specialises in transporting cargoes from Moscow’s Arctic LNG
+## Cambridge university looks to boost UK manufacturing with pioneering wind tunnel
+Project is part of ambitious goal to cut development times drastically and ultimately attract venture capital backing
 
-## SpaceX sell-off wipes $1tn from Musk’s rocket group
-Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
+## Explained: Google AI chief says AGI is on the horizon, calls for safeguards
+Hassabis proposes creating a US-led Frontier AI Standards Body to test the most advanced AI models
 
-## Oil traders warn market is close to running on empty as Hormuz shuts again
-Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again
-
-## Dan Ives and Trump family-linked securities group launch AI bank, because why not?
-Ives and Yorkville. Name a more iconic duo
-
-## Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
-Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
-
-## European industries expected to win more time to emit carbon
-Heavy lobbying by polluting companies and countries over review of EU emissions trading scheme
-
-## Govt raises cost inflation index for FY27 to 384, lowering long-term capital gains tax
-The cost inflation index number assists in determining the long-term capital gains on which an assessee is required to pay taxes when they file income tax returns
-
-## GTPL Hathway Q1 FY27: Total Revenue crossed 1K Crore & EBITDA jumps 20% Q-o-Q
-GTPL Hathway Q1 FY27: Total Revenue crossed 1K Crore & EBITDA jumps 20% Q-o-Q
-
-## US weighs bond of $100,000 for some green-card applicants abroad
-
-
-## Sensex today | Stock Market Live: Indian equities edge higher as investors weigh global risks
-Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Thursday, supported by positive Wall Street cues, even as a sharp sell-off across Asian markets, elevated crude oil prices and escalating West Asia tensions kept investor sentiment cautious and limited gains.
-
-## Q1 Results Today Live: Wipro, Jio Financial, Tech Mahindra, Polycab, BHEL, ITC Hotels, CEAT, WeWork India to announce Q1 results, Union Bank, Groww, HDBFS, HDFC AMC, HDFC Life, ICICI Pru Life, ICICI Lombard, Angel One shares in focus
+## Q1 Results Today Live: Wipro, Jio Financial, Tech Mahindra, Polycab, BHEL, ITC Hotels, CEAT, WeWork India to announce Q1 results, ICICI Lombard shares slump after Q1 earnings, D B Corp profit rises
 Q1 Results Today, 16th July 2026 Live Updates: Catch live updates
 
-## Former ISRO chief Somanath S joins space start-up Agnikul Cosmos
-Somanath oversaw several landmark missions for ISRO, including the successful Chandrayaan-3 lunar landing near the Moon’s south pole and the launch of Aditya-L1, India’s first solar observatory
+## Tata Memorial stands by study on papaya-leaf extract’s impact on platelet count in chemotherapy patients
+They were responding to an “Expression of concern” notification from the journal that published the study.
 
-## Mondelez India betting strong on premiumisation in biscuits
-The company’s other recent launches include packaged brownie product under brand Cadbury on the e-commerce channel; Nitin Saini said that segment, though not well-developed in the country, offers strong growth potential
+## SpaceX selloff an ominous sign as lockup expiry looms
+The company's stock on Wednesday dipped as low as $132.15 before closing at $135.27
 
-## Karnataka to roll out data centre policy to power AI-led GCC growth
-Government plans to establish India’s first public sector-led AI University and a world-class AI Hub to advance AI research, innovation and commercialisation
+## Sensex today | Stock Market Live: Sensex gains 300 pts, Nifty trades above 24,100; geopolitical tensions cap gains
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Thursday, supported by positive Wall Street cues, even as a sharp sell-off across Asian markets, elevated crude oil prices and escalating West Asia tensions kept investor sentiment cautious and limited gains.
+
+## IEA sees $6.5 trillion at risk if China imposes rare-earth curbs
+The IEA report argues that countries should work multilaterally to stockpile 11 “high-risk” materials, which would require an initial purchase of $9.2 billion and with a net annual cost of $900 million
+
+## magicpin rolls out AI assistant Vera across 6 international markets, eyes further overseas expansion
+Launched in India during the recent LPG crisis, Vera provides restaurants and retailers with real-time order-volume insights to help them plan operations and manage demand more effectively
+
+## Deep dive into IFSCA’s Proposed Direct Listing Framework
+Direct listing refers to the listing of already-issued securities on a recognised IFSC exchange without a public issue
+
+## US Fed enlists ex-RBI guv Rajan, 2 other Indians for massive policy overhaul
+Former RBI governor Raghuram Rajan will help shape US monetary policy. He joins a Federal Reserve task force reviewing its policy framework. Rajan will examine balance sheet policy alongside other experts. Other panels will assess data, productivity, and inflation frameworks. These initiatives aim t
+
+## Bank holiday today: Will banks remain shut for Rath Yatra and Harela on July 16? Check state-wise list
+Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. These closures are for Ratha Yatra and the Harela festival celebrations. Customers can still use online and mobile banking services for transactions. Other regional holidays are scheduled later this month across various sta
+
+## Stock market Live Updates: BSE Sensex jumps over 150 points, Nifty50 climbs above 24,100 in early trade
+
 
 ## Top stocks to buy today: Stock recommendations for July 16, 2026 - check list
 Top stock market recommendations: Anant Raj, Sobha Ltd, and PNB Housing Finance have been identified as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for July 16, 2026. Views on Nifty and Bank Nifty have also been sh
@@ -81,62 +87,62 @@ The Union Cabinet approved two schemes totaling Rs 1.9 lakh crore for electronic
 ## Oil prices extend gain for fourth day, stay beyond $85 amid Middle East chaos
 Crude oil prices climbed for a fourth day, exceeding eighty-five dollars per barrel. Investors reacted to escalating United States and Iran conflict and shipping route security. United States strikes on Iran's missile sites and coastal defense positions occurred. This intensified worries over oil mo
 
-## TVS arm Home Credit to buy education loan company for Rs 967 crore
-Home Credit India will acquire Varthana Finance in an all-cash deal valued at Rs 967 crore. This transaction will make Varthana a wholly owned subsidiary of Home Credit India. The acquisition aims to diversify portfolios and improve business mix for the company. It is expected to create synergies in
+## Former RBI governor Raghuram Rajan, 2 other Indians appointed in key US Federal Reserve task forces
+The move from Federal Reserve Chairman, Kevin Warsh placed Raghuram Rajan, Raj Chetty and Asha Sharma among experts reviewing key areas of US monetary policy.
 
-## Tata Motors pips M&M to regain No 2 ranking
-India's passenger vehicle market recorded its strongest first quarter ever. Domestic sales increased significantly, driven by SUV demand and new model launches. Tata Motors reclaimed the second position, surpassing Mahindra & Mahindra in sales figures. Maruti Suzuki maintained its leading market sha
+## CM Mann says Punjab's journey to become No. 1 will continue with people's support
+In a public meeting, CM Mann declares that Punjab is on a journey to become the top-performing state in India, focusing on governance, education, and more.
 
-## Rising cost fuels rush for refurbished devices
-India's refurbished device market is set to significantly outperform new ones this year. Soaring memory costs are pushing up prices and driving consumers toward certified pre-owned alternatives. Leading brands are strengthening their official refurbished programs as the secondary market becomes main
+## Govt's first reaction to Sonam Wangchuk's hunger strike: ‘Can give medical assistance based on doctor's report'
+The Delhi High Court directed the government to monitor Sonam Wangchuk's health on a daily basis and decide on required medical intervention accordingly.
 
-## Traffic advisory issued for Jagannath Rath Yatra in Delhi's Hauz Khas | Check routes and diversions
-Traffic will be regulated on both carriageways of Aurobindo Marg between the IIT Flyover (Outer Ring Road) and the AIIMS Flyover Loop (Ring Road) from 2 to 7 pm
+## 93 hours a year in Chennai: Warmer nights are stealing India's sleep, and the South is losing the most
+A new analysis finds Tamil Nadu carrying India's strongest climate signal, with 7.9 extra hours of sleep lost per person a year to warmer nights.
 
-## Indian sailor missing after attack on GFS Galaxy vessel near Oman found dead
-The sailor's body was recovered nearly 60 hours after the attack, while 10 other Indian crew members were rescued.
+## 'Every life is precious': Delhi HC tells Centre over plea seeking Sonam Wangchuk's force-feeding
+Centre assured the Delhi HC on Thursday that Sonam Wangchuk's health would be monitored daily by government doctors.
 
-## Surge at voter facilitation centres across state increases wait time
-Voter Facilitation Centres across Karnataka are experiencing mounting crowds to submit the enumeration forms under the Special Intensive Revision of electoral rolls, leaving many applicants waiting for hours to complete procedures and raising complaints about inadequate assistance at several locatio
+## SC orders states, UTs to frame policy for early release of terminally ill prisoners
+The bench also directed that the policies be framed and implemented in coordination with the respective State Legal Services Authorities (SLSAs)
 
-## ‘100,000 houses installing solar systems a week under PM Surya Ghar’
-Union renewable energy secretary Santosh Kumar Sarangi on Wednesday said that around 100,000 households are now installing rooftop solar systems every week under the Centre’s flagship PM Surya Ghar: Muft Bijli Yojana, with the government expressing confidence that its target of covering 10 million h
+## Karnataka anaesthetist stabbed to death, son injured; doctor wife in custody
+A 45-year-old anaesthetist has allegedly been stabbed to death at his apartment here, while his eight-year-old son sustained serious stab injuries
 
-## Supreme Court clears road for country’s first night safari in Lucknow’s Kukrail Reserve Forest
-The Court directed the state to comply with all conditions imposed by various statutory authorities along with prior clearances before starting the work.
+## Who is Nitish Kaushal? Gangster added to FBI's most wanted list
+Nitish Kaushal is alleged to have carried out multiple crimes, including kidnappings and assaults, and is being sought in connection with those offences.
 
-## 679,000 ‘zero-dose’ Indian children didn’t receive single dose of vaccine in their first year in 2025: WHO report
-In 2025, an estimated 13.5 million “zero-dose” children did not receive a single vaccine in their first year.
-
-## Kerala HC seeks experts’ opinions on affordable breast cancer drugs
-The Kerala High Court on Wednesday sought expert opinions from four institutions on whether a cheaper off-patent breast cancer drug can be used as a substitute for a costlier patented alternative, even as it examined whether patients can be denied access to life-saving treatment because of the high 
-
-## High-speed rail proposal lacks details: CM Satheesan
-The Kerala cabinet has decided to put on hold the high-speed railway project proposed by ‘Metroman’ E Sreedharan and the Delhi Metro Rail Corporation (DMRC), acting on the recommendation of an expert committee that cited the absence of detailed environmental and social impact studies
-
-## Messi on facing Spain in final: ‘I know their players and philosophy very well’
+## Why Aamir Khan changed his mind about getting married at 60, reveals friend
 
 
-## Ankur Warikoo completes 10K steps, burns 2K calories before 9 am daily
+## Dharmasthala ‘secret burials’: SIT files final report, says allegations false
 
 
-## Ramayana trailer gets U certificate from CBFC; two versions cleared ahead of launch
+## Fresh violence on Mumbai local: Two injured in late-night fight aboard local train
 
 
-## Daily Briefing: Supriya Sule on Delimitation Bill; PM Modi’s planned visit to Punjab amid Satluj row
+## Amritsar Airport dispatches India-UK CETA garment shipment to Birmingham
 
 
-## OpenAI enters hardware with Codex Micro, a programmable macropad for Codex users
+## Paresh Rawal regrets angry tweets, targeting critic’s Dhurandhar review: ‘My BP shot up’
 
 
-## ‘Don’t pap me ever’: Mouni Roy asks paparazzi to stop photographing her, deletes post later
+## More trouble for Siya Goyal’s family, food safety watchdog halts business
 
 
-## US-Iran War News Live Updates: Iran targets US military communications, fuel storage tanks in Jordan
+## Don’t deploy Indian sailors on ships passing through Hormuz: India tells shipping firms
 
 
-## No wedding bells after 9 years, marriage bureau ordered to pay professor Rs 8,000
+## Samsung teases ‘brand new shape’ for Galaxy Z Fold 8 in Spider-Man short film
 
+
+## Cafe de Coral, in 1986, becomes first Hong Kong food chain to go public – SCMP archive
+This article was first published on July 17, 1986. Cafe de Coral the live wire in quiet market by John Mulcahy Fast-food counter Cafe de Coral hit the boards yesterday (July 16, 1986), trading up to $1.35 and recording the biggest volume of the day. Although 16.6 million Cafe de Coral shares traded,
+
+## What does South Korea’s Kospi chaos mean for China’s markets?
+The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
+
+## Goldman Sachs backs HKEX with ‘buy rating’, citing Beijing’s policy support, AI stock boost
+Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its “buy rating” on Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre. “We see multiple ta
 
 ## Mainland China funds increase stakes in Hong Kong biotech amid surge of licensing deals
 A growing number of mainland Chinese institutional fund managers have built up stakes in Hong Kong-listed biotechnology stocks over the past month, drawn by attractive valuations amid a surge in cross-border licensing deals in the sector. China’s largest mutual fund manager, E Fund Management, has t
@@ -153,14 +159,8 @@ The Ultimate Fighting Championship (UFC), one of US President Donald Trump’s f
 ## China eyes broader global access to yuan assets, as panda bond demand surges
 Officials from China’s central bank have pledged to introduce further measures to make it easier for global investors to access yuan-denominated assets, as Beijing views the recent appreciation of the yuan and surge in demand for panda bonds as reflecting rising global recognition of the Chinese cur
 
-## Mainland China’s luxury housing boom is keeping wealthy buyers at home, report says
-China’s booming luxury housing market is keeping more wealth onshore, a trend that analysts say may pose a growing challenge to Hong Kong’s still resilient high-end residential market. A report by Gavekal Dragonomics analyst Zhang Xiaoxi said Beijing’s tightening crackdown on illicit capital outflow
-
-## China’s slowing economic growth boosts case for stimulus
-China’s economy grew at the slowest pace in nearly four years in the second quarter, with sluggish consumption amid the fallout from the Iran war offsetting strong export growth. The 4.3 per cent increase in gross domestic product, down from 5 per cent in the first three months of the year, dragged 
-
-## Connect scheme for gold shines light on China’s financial liberalisation
-When Hong Kong launched its latest Connect programme on July 7, most of the attention focused on gold. That misses the bigger story. Delivery Connect, part of the city’s new gold clearing and settlement system, is not simply another financial initiative but the latest evidence that Beijing has settl
+## Iranian Attacks Need Not Change the Gulf’s AI Ambitions
+Ukraine offers lessons in how to keep infrastructure alive in wartime.
 
 ## Russia Shifts Its Focus to the Black Sea
 Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.
@@ -182,9 +182,6 @@ Mid-range drone strikes may not be enough to regain Ukrainian territory.
 
 ## The Other American Anniversary
 The 1826 Congress of Panama sought to resist the predations of great powers. It was as relevant then as it is now.
-
-## Trump’s Boat Strikes Are Crimes Against Humanity
-Rodrigo Duterte’s prosecution at the International Criminal Court shows why U.S. officials should be worried.
 
 ## Australia Wants to ‘Manage’ AI. What Will That Look Like?
 “This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
@@ -258,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump’s intelligence chief nominee won’t say Biden won 2020 election
+US President Trump’s nominee for top intel official, Jay Clayton, evaded directly stating that Biden won 2020 election
+
+## UK proposes voluntary overnight social media curfew for older teens
+Latest government measure aimed at curbing digital harm comes after under-16 social media ban announced last month.
+
+## Argentina’s Falklands banner sparks controversy at World Cup
+Argentina players held up a banner declaring ‘Las Malvinas son Argentinas’ after beating England.
+
+## Former US Ambassador says Iran miscalculated Trump’s resolve
+Nightly strikes between the US and Iran have been the heaviest since the Memorandum of Understanding (MOU) agreement.
+
 ## Senior Chinese delegation visits North Korea for talks
 China's fourth-highest-ranked official, Wang Huning, held talks with a top official of North Korea's governing party.
 
@@ -269,18 +278,6 @@ Monitor ranks Toronto as having the worst air quality on earth, surpassing Kinsh
 
 ## Iran launches strikes on Gulf, even as FM visits Qatar
 Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani
-
-## Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal
-Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.
-
-## France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals
-The trip highlights how Paris and Rabat are turning a diplomatic rapprochement into a broader strategic partnership.
-
-## Iranian doctor says US strike damaged children’s cancer hospital
-Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.
-
-## Celebrations erupt in Argentina’s capital after World Cup semifinal win
-Jubilant fans leapt with joy in Buenos Aires after Argentina defeated England 2-1 in Wednesday’s World Cup semifinal.
 
 ## State Bank of India appoints former LIC finance head Sunil Agrawal as CFO
 State Bank of India has named Sunil Agrawal its new Chief Financial Officer, bringing with him a wealth of experience from his 27 years at LIC. His role as key managerial personnel highlights his expertise in financial planning and regulatory matters. This significant appointment aligns with ongoing
