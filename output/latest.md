@@ -1,6 +1,21 @@
 # AION Intelligence
 
-## Netflix’s shares slide on disappointing growth forecasts
+## FirstFT: Ukraine plunged into political turmoil after Zelenskyy fires defence minister
+Also in today’s newsletter: China’s largest AI model to date and South Korea’s first rate rise in three years
+
+## US chip and memory stocks slide in fresh bout of Wall Street tumult
+Investors pull away from shares in companies that have led markets higher this year
+
+## Blanche to meet Epstein’s victims after senator’s confirmation ultimatum
+Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination
+
+## Trump Media to sell high-speed access to president’s social media posts
+Family company hopes large trading firms will pay for market-moving social media posts milliseconds early
+
+## Trump set to deliver primetime speech on election integrity
+The president has pre-emptively cast doubt on the security and validity of November’s midterms in recent months
+
+## Netflix shares slide on disappointing growth forecasts
 Streaming giant projects weakest revenue increase in three years
 
 ## Andy Burnham plans policy blitz on entering Number 10
@@ -8,24 +23,6 @@ Cost of living, North Sea energy and devolution set to feature in early days and
 
 ## Zelenskyy government plunged into turmoil after defence minister fired
 Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
-
-## Blanche’s confirmation as US attorney-general could hinge on meeting Epstein’s victims
-Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination
-
-## Trump adviser says leftwing extremism is ‘fatal cancer to civilisation’
-State department says violence from the left is international counterterrorism blind spot
-
-## Shabana Mahmood to tackle MI5 after scathing report into officers’ conduct
-Home secretary promises to hold security service to account following case in which an agent was accused of abusing women
-
-## MPs decline to endorse former Virgin Money chief’s appointment as regulator
-City figure Jayne-Anne Gadhia confirmed by government as chair of Financial Reporting Council
-
-## Trump teleprompter operator faces scrutiny over prediction market bets
-Aide allegedly used advanced knowledge of president’s speeches to profit on ‘mention markets’ wagers
-
-## Trump Media to sell high-speed access to president’s social media posts
-Family company hopes large trading firms will pay for market-moving social media posts milliseconds early
 
 ## Should private credit be public?
 The case for letting investors into private markets
@@ -41,9 +38,6 @@ MPS’s board says offer carries regulatory and execution risk, leaving door ope
 
 ## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
 Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
-
-## Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline
-Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack
 
 ## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
 Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
@@ -69,29 +63,29 @@ RBI can look through the spike in CPI in June
 ## Pocket
 
 
-## India’s First Hydrogen-Powered Train To Be Flagged Off On July 17: 10 Facts & Photos You Shouldn’t Miss
+## India's first hydrogen-powered train to be flagged off on July 17: 10 facts and photos you shouldn't miss
 India’s first hydrogen-powered train is ready for launch! Marking a major milestone for Indian Railways, the country’s first hydrogen will be flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard usi
 
-## ‘Aim to make India the world's most authentic experience destination:’ Shekhawat
+## Fuel-saving tech may be rewarded
+New fuel efficiency rules may reward various fuel-saving technologies. Manufacturers can earn compliance benefits for technologies like start-stop systems. These approved technologies will offer credits equivalent to grams of CO2 per kilometer. This framework encourages wider deployment of features 
+
+## Govt to take equity stakes in semiconductor startups
+Works on a model of larger, milestone-linked funding
+
+## Pricing, not volume, drives India Inc in Q1; revenue estimated to grow 11-11.5% despite supply disruptions: Crisil
 
 
-## In tough Q1, ITC Hotels sees profit, revenue zoom
+## Banks can't sell back seized assets to defaulters: RBI
+RBI has barred defaulting borrowers from repurchasing seized properties. New directions effective October 1, 2026, tighten norms for stressed accounts. Banks must adopt board-approved policies for asset recognition and recovery efforts. Assets must be disposed of through public auctions within seven
+
+## MG eyes up to 80% sales from 'new energy' vehicles
+JSW MG Motor India is increasing its focus on new-energy vehicles this year. Higher fuel costs and awareness of savings are driving EV adoption significantly. The company expects new-energy vehicles to comprise eighty percent of its total sales. MG will introduce its first plug-in hybrid later this 
+
+## Wipro Q1 trails peers; revenue down 1.4% to $2.6 bn
 
 
-## Cyberattack hits Japan's ice cream giant Glico after KFC, disrupts sushi and supermarket deliveries
-A cyberattack on Nichirei has disrupted ice cream and fast food supplies across Japan. Popular companies like Ezaki Glico and KFC Japan are experiencing significant product delays. Some restaurants may face temporary menu changes and potential store closures due to shortages. This incident follows o
-
-## 100 items, imports worth $51 billion: India eyes fresh domestic manufacturing push to reduce reliance on overseas suppliers
-The renewed focus on expanding domestic production comes as India faces heightened supply-chain risks arising from geopolitical tensions. At the same time, the government is seeking to lower its dependence on China while reducing the country's trade deficit.
-
-## US stocks today: AI stocks drop again; crude oil prices continue to climb
-The S&P 500 declined 0.4%, a day after coming within 0.5% of the record high it reached last month. As of 7:05 PM IST, the Dow Jones Industrial Average had gained 64 points, or 0.1%, while the Nasdaq Composite was down 0.8%.
-
-## Harsh reality for H-1B visa returnees: Changed Indian IT hiring landscape, lower salaries and fewer jobs
-Recruitment trends indicate that companies are hiring cautiously, and many returnees are getting jobs at less than their salary expectations. Artificial intelligence has compounded the challenge since many roles have become redundant.
-
-## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
-Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
+## Govt to take steps to boost liquidity for small biz
+The government plans new tools to boost liquidity for micro, small, and medium enterprises. Amendments to the MSME Development Act will be moved in Parliament soon. These changes aim to remove business hurdles and improve cash flow for these crucial companies. A new online dispute resolution mechani
 
 ## NEET UG 2026 state-wise toppers list: Check top rankers from every state
 Aryan Gupta of Punjab and Panshul Bansal of Haryana jointly secured the highest score of 715 out of 720.
@@ -117,7 +111,19 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
 "Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
 
-## Root’s unbeaten 99 makes India vs England 3rd ODI at Lord’s a series decider
+## PM Narendra Modi speaks to Amir of Qatar, conveys condolences on passing of the Father Amir
+
+
+## Delhi Confidential: History Lessons
+
+
+## NEET AIR 1 Aryan Gupta: “Had cried a lot when exam was cancelled… but then I wasn’t alone”
+
+
+## A second shot, a perfect finish: Delhi student tops NEET-UG with AIR 1, eyes AIIMS
+
+
+## Root sets up high-stakes finale versus India, Rohit Sharma’s future in focus
 
 
 ## Woman calls man home to end relationship as he was unemployed, both found dead
@@ -127,18 +133,6 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 
 
 ## Medical supplies fraud: Key accused flees India, got anticipatory bail in extortion case days earlier
-
-
-## Delhi’s winter pollution plan: For last-mile delivery in city, cargo from diesel trucks to be transferred to EVs
-
-
-## Muslim man assault case: After Supreme Court rap, Noida Police invokes hate crime charges
-
-
-## Tableau against Iran war, 18 elephants & 100 trucks: Thousands attend 149th Lord Jagannath Rath Yatra in Ahmedabad
-
-
-## Joe Root stranded on 99 as he powers England to four-wicket win over India
 
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
@@ -165,6 +159,9 @@ This article was first published on July 17, 1986. Cafe de Coral the live wire i
 ## What does South Korea’s Kospi chaos mean for China’s markets?
 The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
 
+## Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
+Defense Minister Mykhailo Fedorov was popular for his drone development push—but not enough to keep him in office.
+
 ## German Military Power Needs to Go It Alone
 NATO’s multinational forces are an unwieldy relic of a more peaceful past.
 
@@ -185,9 +182,6 @@ The former prime minister set a timeline for her homecoming, despite the threat 
 
 ## A New Law Heralds China’s Fraught Ethnic Future
 Xi Jinping’s push for assimilation won’t solve long-standing issues.
-
-## Sudan Faces New Sanctions as Evidence of Atrocities Mounts
-But countries remain unwilling to directly sanction foreign actors enabling the war.
 
 ## Why Gen Z Is Back on the Streets in Bangladesh
 A controversy centered on Bangladesh's Higher Secondary Certificate (HSC) exam brought students back out to protest.
@@ -261,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Grand Mosque of Paris celebrates 100-year anniversary
+The Grand Mosque of Paris is celebrating 100 years since its inauguration.
+
+## FIFA to probe Argentina’s Falklands banner display at World Cup semifinal
+FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.
+
+## US mounts sixth straight night of attacks as Iran warns of wider war
+Iranian media reports airport, bridge and communications tower targeted.
+
+## Donald Trump live: US president to deliver primetime address on elections
+Critics fear Trump may use his podium to spread spread doubt about election integrity before the 2026 midterms.
+
 ## The hardest party to manage in the Iran talks isn’t Iran
 Washington's spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.
 
@@ -272,18 +278,6 @@ Syrian authorities say they intercepted a shipment of missiles and drones allege
 
 ## Wildfire smoke blankets World Cup final stadium before kickoff
 Footage shows smoke from Canadian wildfires shrouding the New York New Jersey Stadium ahead of Sunday’s World Cup.
-
-## How Syria is redefining ties with Russia
-After Bashar al-Assad's fall in 2024, Syria cut ties with some former allies but redefined its relationship with Russia.
-
-## Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah
-Hezbollah denies activity in Syria after interception of arms shipment including missiles, rockets and drones via Iraq.
-
-## Nicaragua severs diplomatic ties with Italy over 1978 murder case
-The rift follows Italy’s renewed demand for Nicaragua to extradite the man convicted of former prime minister's killing.
-
-## How serious is Iran’s threat to disrupt shipping in the Red Sea?
-After the Strait of Hormuz, Iran's IRGC warns it could next target Bab al-Mandeb.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
