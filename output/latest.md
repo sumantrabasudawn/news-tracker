@@ -1,9 +1,18 @@
 # AION Intelligence
 
-## Trump administration warns leftwing extremism is ‘fatal cancer to civilisation’
+## Zelenskyy government plunged into turmoil after defence minister fired
+Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
+
+## Blanche’s confirmation as US attorney-general could hinge on meeting Epstein’s victims
+Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination
+
+## Trump administration says leftwing extremism is ‘fatal cancer to civilisation’
 State department says violence from the left is international counterterrorism blind spot
 
-## MPs decline to endorse former Virgin Money chief’s role as regulator
+## Shabana Mahmood to tackle MI5 after scathing report into officers’ conduct
+Home secretary promises to hold security service to account following case in which an agent was accused of abusing women
+
+## MPs decline to endorse former Virgin Money chief’s appointment as regulator
 City figure Jayne-Anne Gadhia confirmed by government as chair of Financial Reporting Council
 
 ## Trump teleprompter operator faces scrutiny over prediction market bets
@@ -15,17 +24,14 @@ MPS’s board says offer carries regulatory and execution risk, leaving door ope
 ## The great British corporate sell-off
 The UK’s business case needs strengthening to stop a self-reinforcing exodus
 
-## Zelenskyy government plunged into turmoil after defence minister fired
-Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
+## Advisers overseeing billions of pounds to leave St James’s Place
+Prospera and Wellesley have both left SJP, according to the FCA’s register
 
 ## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
 Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
 
 ## Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline
 Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack
-
-## Advisers overseeing billions of pounds to leave St James’s Place
-Prospera and Wellesley have both left SJP, according to the FCA’s register
 
 ## Russian strikes threaten Ukraine’s Black Sea grain trade
 Wheat prices have surged as heavy attacks disrupt shipments
@@ -87,6 +93,18 @@ Recruitment trends indicate that companies are hiring cautiously, and many retur
 ## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
 Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
 
+## NEET UG 2026 state-wise toppers list: Check top rankers from every state
+Aryan Gupta of Punjab and Panshul Bansal of Haryana jointly secured the highest score of 715 out of 720.
+
+## NEET UG results 2026: Full list of 138 candidates who scored 690 marks or above
+Nearly 20 lakh candidates appeared for the exam, which was held on June 21 at 5,440 centres across 551 cities in India and 14 cities abroad.
+
+## ‘Politics must have room for humanity,’ says Omar, wonders why govt has not met Sonam Wangchuk yet
+Omar Abdullah noted that the activist has only one demand: the resignation of Union Education Minister Dharmendra Pradhan.
+
+## NEET UG results 2026: Aryan Gupta, Panshul Bansal top exam; score 715 out of 720
+Among those who qualified, 58 per cent were women. The qualifying rate stood at 56.8 per cent for women and 55.1 per cent for men.
+
 ## Women outshine men in NEET UG 2026; make up over 58% of qualifiers
 The NEET UG re-exam was held on June 21 after the exam held on May 3 was cancelled over alleged paper leak.
 
@@ -99,40 +117,28 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
 "Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
 
-## NEET UG result likely tonight: NTA releases final answer key, drops 1 Physics question, awards 8 bonus marks
-One of the disputed questions involved a Vernier calipers problem that asked candidates to determine the length of a wire based on the instrument's reading.
-
-## Ex-chief secretary’s son posed as IPS, RAW and army officer, swindled lakhs; arrested
-Police said Yashovardhan, a retired IAS officer’s son, wanted to become an IPS officer but could not clear UPSC’s civi services exam despite multiple attempts
-
-## Gujarat man installs audio recording system at home to expose wife's affair, moves court to freeze joint bank locker
-The complainant alleged that the audio that he captured confirmed his suspicion that his wife was having an affair with the man.
-
-## 'We share our anguish and outrage': Congress appeals to Sonam Wangchuk to end fast
-Appealing to Wangchuk to call off his fast, Congress general secretary (organisation) K C Venugopal said his health had become a matter of concern.
-
-## Gates MRI, SII tie-up for manufacture TB vaccine candidate
+## China overtakes US in global favourability for first time, finds Pew survey
 
 
-## Govt calls for IOA panel to probe ex-hockey captain’s sexual harrasment allegations
+## Day after 3-year-old found dead in drain in Delhi, man arrested for murder
 
 
-## NEET UG Re-Exam 2026 Result: Meet the toppers – Aryan Gupta, Panshul Bansal
+## LIGO India will be the most sensitive scientific device in the world: Prof Rana Adhikari
 
 
-## Sonu Sood raises alarm over India’s loneliness crisis: ‘Bigger issue than most realise’
+## ‘Hygiene, safety lapses in production area’: FDA suspends licence of South Mumbai’s iconic 110-year-old Parsi Dairy Farm
 
 
-## After meeting Law Minister, Delhi HC lawyers call off strike over jurisdiction concerns
+## Maharashtra implements aggregator policy, mandates licensing, fare safeguards
 
 
-## DG Shipping advises firms to avoid deploying Indian seafarers on Strait of Hormuz
+## Increasing financial burden: Maharashtra scraps scheme providing free saris for 25 lakh families
 
 
-## Arjun Bijlani slams dating rumours with Mouni Roy: ‘Friendship doesn’t need romantic angle’
+## Inside Hydrogen Train, leak detectors, auto shutdown, real time safety monitoring
 
 
-## NEET UG 2026 result declared: 11.21 lakh qualify, over 58% successful candidates are women
+## 21-year-old man killed after crane collapses from 11th floor, falls inside housing complex
 
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
@@ -255,6 +261,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iraq says $19M found in hideouts linked to ex-oil minister
+Iraqi authorities say they seized the equivalent of $19 million in cash and several kilograms of gold jewelry
+
+## Ebola spreading more quickly in DRC, while Uganda is close to being virus-free
+Uganda ⁠⁠discharges last-remaining patient, as WHO says Ebola has 'expanded faster than any previous outbreak' in DRC.
+
+## What could a US ground invasion of Iran look like?
+Donald Trump has refused to rule out sending US troops into Iran as fighting resumes and US strikes continue.
+
+## Iran condemns ‘barbaric’ US attack near children’s cancer hospital
+Iran accuses US of 'cowardly war crime' as doctor says blast was 'so close' they thought the hospital was struck.
+
+## WHO: Ebola spreading faster than ever recorded in DR Congo
+The World Health Organization warns the Ebola outbreak in DR Congo is spreading faster than any previous outbreak.
+
 ## In Syria’s Jobar, locals struggle to rebuild their destroyed homes
 Jobar was held by rebels for much of Syria's 13-year war but was destroyed by repeated government assaults.
 
@@ -263,21 +284,6 @@ The sale intends to bolster Saudi air defence systems as the kingdom risks escal
 
 ## Rare protests in Kyiv over dismissal of defence minister
 Rare protests erupted in central Kyiv over Ukrainian President Zelenskyy’s dismissal of defence minister.
-
-## Eleven killed in Algeria orphanage fire
-Eleven people were killed and 19 injured after a fire tore through an orphanage in Algiers.
-
-## Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse
-In all, 32 convicted and 25 acquitted or cleared by statute ‌of limitations over 2018 Morandi bridge disaster.
-
-## US to impose new 25 percent tariffs on some Brazilian imports
-Beef, coffee, and rare-earth materials escaped US tariffs amid trade tensions with Brazil over alleged unfair practices.
-
-## Trump limits length of visas for students, exchange visitors, journalists
-New rule ends open-ended stays and requires extensions after fixed visa periods for students and foreign media.
-
-## How can Argentina and Messi beat Spain and Yamal to defend World Cup?
-Despite Lionel Messi's presence, Argentina enter the 2026 final as underdogs to Spain and their starlet Lamine Yamal.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
