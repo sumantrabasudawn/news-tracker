@@ -1,61 +1,70 @@
 # AION Intelligence
 
+## Trump administration slaps 25% tariff on Brazil as ties deteriorate
+Levy is part of a deepening rift between Washington and Brasília ahead of South American presidential election
+
+## From Manson cult to the children of a 1960s revolution
+With a shared theme of US counterculture, two contrasting books ask if lives lived violently were shaped by violence in American society
+
+## Vibes, not results, will dictate Burnham’s true election timetable
+The political realities point to the new PM going long — but not too long
+
+## Eli Lilly buys psychedelic biotech backed by Peter Thiel
+World’s biggest drugmaker agrees to buy Ataibeckley for up to $3.8bn
+
+## Italy’s parliament backs Meloni’s contentious electoral overhaul
+Controversial new law reduces risk of a hung parliament ahead of general elections due in 2027
+
+## Hormuz closure threatens renewed oil supply crunch
+Also in today’s newsletter: New York’s data centre crackdown and the new era of critical mineral diplomacy
+
 ## Varun Chandra to stay as Number 10 business adviser under Burnham
 Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
 
 ## UBS tries to crack the American market at last
 Swiss group wants to be valued as a global wealth manager rather than a European bank but lags far behind Wall St rivals
 
+## A&O Shearman hands partners £2.2mn as profits return to pre-merger levels
+Pay rise following 2024 tie-up indicates law firm has found its feet after senior lawyers axed during tumultuous period
+
+## Top shareholders oppose ‘improved’ £5.7bn bid for DCC
+Investors say latest offer from KKR and Energy Capital Partners significantly undervalues FTSE 100 energy group
+
+## Will cheap specialised AI models threaten the Big Tech chokehold?
+Chinese models trained with domain expertise could best American counterparts at a fraction of the cost
+
+## Ocado shares plunge 18% as tech licensing division struggles
+Shares hit 13-year low after UK grocery delivery group reports lower profits and says new installations will be delayed
+
 ## FirstFT: The pros and cons of California’s wealth tax
 Also in today’s newsletter: Uber agrees to buy rival Delivery Hero and US slaps tariffs on imports from Brazil
 
-## Beige Book shows robust US economy, labour market picking up
-Prices increasing ‘moderately’ ahead of renewed hostilities with Iran
+## Nike out of World Cup contention as Adidas-outfitted teams head to final
+Adidas had ⁠sponsored a total of 14 national teams in the tournament. None of Nike's 12 teams, including semi-finalists England and France, managed to secure a spot in the final match
 
-## The digital euro gets ready for beta testing
-A brave new world for EU digital finance
+## Fossil fuels vs green energy: The real battle isn’t what you think | Energonomics EP 34
+What if energy were marketed like Apple, not petrol?
 
-## US lawmakers urge Trump administration to ban Chinese memory chips
-Apple has been lobbying for clearance to buy from China’s CXMT during a global memory shortage
+## The future of energy marketing: Lessons for India’s energy transition | Energonomics EP 34
+Join Richa Mishra and Harish Bijoor in exploring the marketing clash between fossil fuels and renewable energy in this episode of Energonomics.
 
-## Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead
-Kimi K3 expected to exceed performance of Claude Opus 4.8 in sign of narrowing gap between US and China on frontier AI
+## Kashmir’s trekking ban deals blow to seasonal tourism economy
+The ban has affected the livelihoods of hundreds of people associated with trekking
 
-## Thousands of Ukrainians protest against Zelenskyy’s firing of defence minister
-Deputy air force commander resigns as president faces backlash over decision
+## PepsiCo cautiously optimistic on H2 amid robust demand, weather uncertainties: CEO
+Kotecha reiterates PepsiCo’s long-term commitment to the country and calls it one of their top priority markets globally
 
-## VPN use in UK doubles as people circumvent porn laws
-Regulator Ofcom finds evidence of children using the technology to get around age checks
-
-## PwC and partner fined more than £3mn over Babcock audit failings
-Regulator says Big Four firm committed ‘serious breaches’ in work on defence and aerospace group
-
-## ABB buys UK engineering group Rotork in £4.1bn deal
-Acquisition adds to wave of interest from foreign buyers in London-listed companies
-
-## Hero MotoCorp enters German market in partnership with KSR Group
-Company expands European presence to five markets with premium motorcycle portfolio
-
-## ICICI Lombard shares slump after weak Q1 results trigger brokerage downgrades
-Brokerages cut target prices amid concerns over earnings outlook
-
-## Laser Power & Infra shares end with 23% listing gains
-Stock debuts at ₹269 on BSE and ₹250 on NSE
-
-## Wipro Q1 profit nearly flat at ₹3,352 crore; revenue grows almost 11% to ₹24,478.6 crore
-Profit fell 4.2%, while revenue inched up marginally by 1%
-
-## Crude oil loading suspended at Iraqi terminals after drone hits tanker, sources say
-No damage or fire reported from incident at Basra terminal
-
-## Waaree Energies commissions 5.15 GWh BESS container manufacturing facility in Gujarat
-The facility has an annual capacity of 5.15 GWh, upgraded from the originally planned 3.5 GWh through production debottlenecking and improved battery cell energy density
-
-## Q1 Results Today Live: Wipro con. PAT flat in Q1, Tech Mahindra con. profit rises, BHEL logs ₹382 cr profit, Jio Financial, CEAT, WeWork to announce Q1 results, Polycab India, ITC Hotels profit up
+## Q1 Results Today Live: Wipro con. PAT flat in Q1, Tech Mahindra con. profit rises, BHEL logs ₹382 cr profit, Polycab India, ITC Hotels profit up; Jio Financial, CEAT, WeWork to announce Q1 results
 Q1 Results Today, 16th July 2026 Live Updates: Catch live updates
 
-## All clear for Skyroot Aerospace’s maiden test flight of Vikram-1 on July 18
-Vikram-1 will carry payloads from Grahaa Space, Cosmoserve, DCubed
+## Tech Mahindra Q1 net profit grows 32% to ₹1,486 crore
+EBITDA for the quarter increased 8.6% sequentially and 53.5% year-on-year to ₹2,264 crore, while EBIT margins improved by 60 bps to 14.4%
+
+## The Silent Sleep Crisis: Apollo Experts Warn That 80-90% of Sleep Apnoea Cases Go Undiagnosed
+The Silent Sleep Crisis: Apollo Experts Warn That 80-90% of Sleep Apnoea Cases Go Undiagnosed
+
+## Harsh reality for H-1B visa returnees: Changed Indian IT hiring landscape, lower salaries and fewer jobs
+Recruitment trends indicate that companies are hiring cautiously, and many returnees are getting jobs at less than their salary expectations. Artificial intelligence has compounded the challenge since many roles have become redundant.
 
 ## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
 Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
@@ -78,56 +87,59 @@ Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. The
 ## Top stocks to buy today: Stock recommendations for July 16, 2026 - check list
 Top stock market recommendations: Anant Raj, Sobha Ltd, and PNB Housing Finance have been identified as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for July 16, 2026. Views on Nifty and Bank Nifty have also been sh
 
-## 'Very cute': US President Donald Trump welcomes new $1 coin with his face on it
-A new US dollar coin will feature President Donald Trump for America's 250th birthday. This commemorative coin is scheduled for release in the autumn of 2026. The design includes Trump's image and traditional American symbols on both sides. Critics raised concerns about this move conflicting with an
+## Stampede-like situation during Jagannath Rath Yatra in Puri leaves 2 dead, nearly 100 hospitalised
+A stampede occurred at the Jagannath Rath Yatra in Puri, resulting in one death and nearly 100 hospitalisations.
+
+## 'PM afraid of Wangchuk': Kejriwal recalls Anna Hazare 2011 movement, proposes activist for education minister
+While “paying salute” to Wangchuk, Kejriwal said the activist was ready to “put his life at stake” for the students of the country.
+
+## MP high court stays ₹350 crore school uniform tender, seeks govt response
+The MP High Court stayed the ₹350-crore tender after a local apparel association alleged restrictive conditions excluded MSMEs and self-help groups.
+
+## Employees' provident fund interest credited on July 15: How to check updated PF balance
+This was the first time the interest was credited after the centralisation of EPFO.
+
+## Avoid deploying Indian seafarers via Hormuz amid West Asia conflict: DGMA
+DGMA issued an advisory asking shipowners and recruitment agencies to avoid deploying Indian seafarers on vessels transiting the Strait of Hormuz amid rising risks.
+
+## Deportation 'fear': Inside steep decline in Indians' illegal immigration to US
+The wave of Indians illegally immigrating to the US seems to be simmering down, with the figure seeing a huge 69% drop from FY2023.
+
+## May rethink over Delimitation Bill if Opposition's amendments incorporated: Sanjay Raut
+The government intends to bring the Constitution (131st Amendment) Bill proposing to raise Lok Sabha seats to 850 and initiate delimitation.
 
 ## Ajit Doval hosts 5th BIMSTEC National Security Chiefs' meeting in Delhi; members adopt key maritime security guidelines
 The NSAs and Heads of Delegations held extensive discussions on practical and result-oriented measures to strengthen regional security.
 
-## Hyderabad teacher fired after 'Islamic religious instructions' homework given to Hindu student
-A teacher in Hyderabad was terminated after allegedly assigning a six-year-old Hindu student homework on Islamic practices.
-
-## IRCTC launches beta website: No captcha, faster checkout and more; what's new for train bookings
-According to a statement released by the union ministry of railways, the IRCTC has made four major improvements in the beta version.
-
-## Will OnePlus exit India soon? Company shares plan amid speculation
-OnePlus has sought to clear the air, reiterating commitment to the market, as it prepares to replace OxygenOS with a unified ColorOS platform
-
-## Karnataka doctor murder: Wife found 'scrolling' phone beside husband's body, made 'incoherent' statements
-According to police, Honnannavar was found lying in a pool of blood on a mattress with fatal stab injuries to his neck on Wednesday.
-
-## Delhi HC strikes down Centre’s visa services tender process across four countries
-The court said that these deficiencies struck at the very heart of transparency, fairness and equality in the public procurement process
-
-## Over 100 scientists quit Isro, govt steps in to tighten exit norms amid mass resignations: Reports
-Centre has reportedly directed Isro centres not to accept resignation or voluntary retirement requests from some section of employees
-
-## Siya Goyal's father clarifies after FDA action on shop: ‘Not sealed but I am being punished…’
-The FDA had on Tuesday collected samples from and issued a notice to B.G. Goyal & Company, the dry fruits and spices shop in Market Yard owned by Praveen Goyal.
-
-## JD Vance admits Trump administration ‘absolutely screwed up’ Epstein files, claims Mossad links
+## ‘Sustenance not equal to survival’: Telangana High Court grants wife maintenance
 
 
-## Ramayana actor Addinath Kothare and Urmila Kanetkar part ways after 15 years of marriage
+## After Senapati tensions, CRPF deploys 100 bulletproof vehicles, revises Manipur strategy
 
 
-## ‘Amitabh Bachchan ko noch dala’: Paresh Rawal says Big B was persecuted, he only wants peace
+## Imran Khan, Sonakshi Sinha, Fatima Sana extend support to Sonam Wangchuk amid hunger strike
 
 
-## Falkland Islands: Why Argentina’s celebration after beating England has sparked controversy
+## Anjali Anand to influencer questioning her Dhamaal 4 role: ‘A bitter pill to run my house’
 
 
-## India vs England Live Score, 2nd ODI: Men in Blue look to seal series in Cardiff; Toss coming up
+## What it will take to raise the first AI-native generation
 
 
-## Parasite causing ‘explosive diarrhoea’: Why cyclospora is worrying doctors
+## Four arrested for misbehaving with Delhi poll official on SIR duty
 
 
-## 5.9 magnitude earthquake hits New Zealand, tsunami alert issued
+## A confident democracy does not fear Sonam Wangchuk
 
 
-## How 14% interest trap led to diversion of Haryana corporation’s Rs 50 crore
+## Beard, niqab, using Arabic expressions: MP flags ‘profiling’ in Gujarat’s ‘anti-radicalisation’ SOPs
 
+
+## China’s OnePlus bows out of Western markets as memory crisis hammers smartphone industry
+Chinese handset vendor OnePlus is retreating from the US and European markets amid deepening woes from a memory crisis hammering the global smartphone industry. “After thorough evaluation, OnePlus has decided to conclude product roll-outs in Europe and North America,” the brand operated under Chines
+
+## CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund
+As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the semiconductor industry. The 60-year-old stock investor from southwestern Sichuan 
 
 ## China memory-chip maker CXMT set for mega IPO
 Subscriptions began on Thursday for shares in memory-chip maker ChangXin Memory Technologies (CXMT) ahead of its listing on Shanghai’s Star Market in what could be mainland China’s second biggest initial public offering. With pricing set at 8.66 yuan (US$1.28) per share, the IPO of nearly 6.7 billio
@@ -146,12 +158,6 @@ The volatile state of South Korean stocks is reminiscent for some investors of C
 
 ## Goldman Sachs backs HKEX with ‘buy’ rating, citing Beijing’s policy support, AI stock boost
 Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its buy rating for Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre. Analysts Thomas Wang
-
-## Mainland China funds increase stakes in Hong Kong biotech amid surge of licensing deals
-A growing number of mainland Chinese institutional fund managers have built up stakes in Hong Kong-listed biotechnology stocks over the past month, drawn by attractive valuations amid a surge in cross-border licensing deals in the sector. China’s largest mutual fund manager, E Fund Management, has t
-
-## HKIC reports double-digit investment return as ‘patient capital’ strategy bears fruit
-The Hong Kong Investment Corporation (HKIC) recorded a major jump in investment income during its second year of operation, as it expanded its role as the city’s “patient capital” engine driving local economic development. The wholly state-owned investment firm generated about HK$6.46 billion (US$82
 
 ## Iranian Attacks Need Not Change the Gulf’s AI Ambitions
 Ukraine offers lessons in how to keep infrastructure alive in wartime.
@@ -249,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister
-Mykhailo Fedorov has been credited with reforming defence procurement and tackling corruption.
+## Palestinians in Gaza search through homes destroyed by Israeli strikes
+Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.
 
-## Fire at orphanage in Algeria kills 11 people, including children
-Eleven people died and 19 were injured after a fire swept through a state-run child welfare home in east Algiers.
+## FIFA World Cup 2026: Biggest takeaways from the semifinals
+The semifinals are now behind us, with plenty of key moments and incidents to digest ahead of Sunday's final.
 
-## Climate funding: Who pays for the transition?
-Developed nations are cutting climate funding, but developing countries still need billions to adapt.
+## Thousands to lose their homes as Ivory Coast demolitions begin
+Thousands to lose their homes as Ivory Coast demolitions begin
 
-## ‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU
-The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.
+## Iran claims strikes on US bases, warns of wider attacks on region
+Iran claims strikes on US bases, warns of wider attacks on region
 
-## What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak
-Cyclospora cases are rising across the US. Here's what to know about symptoms, spread, treatment and prevention.
+## EU court upholds Spanish amnesty law as compatible with EU law
+Amnesty for people involved in Catalonia independence movement introduced in 2024 by PM Pedro Sanchez's government.
 
-## More than 500 feared dead after reports of boats capsizing off Myanmar
-The IOM and UNHCR say two boats carrying mostly Rohingya passengers departed Rakhine State in late June.
+## Venezuela’s recovery clouded by uncertainty three weeks after earthquake
+In Venezuela, the focus has shifted from rescue to rebuilding three weeks after devastating earthquakes.
 
-## Photos: Messi’s Argentina stun England to reach World Cup final vs Spain
-Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.
+## ‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks
+Hussein Saleh describes an Israeli air attack in Tyre that killed his family, including his wife and his only child.
 
-## Decades of denial: Death certificate for disappeared reopens Kashmir wounds
-After years of searching and court battles, a judge declares what Junaid Rashid already believed: His father was dead.
+## Palestinians fight fires after settler attacks in the occupied West Bank
+Overnight Israeli settler attacks set farmlands ablaze in Masafer Yatta and burned vehicles near Tulkarem.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
