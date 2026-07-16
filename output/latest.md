@@ -1,10 +1,16 @@
 # AION Intelligence
 
-## US will not win Iran war from the air, Trump’s ex-defence chief warns
-Mark Esper tells FT more bombing will not change Tehran’s behaviour, as president vows to step up attacks
+## India Inc goes on a foreign buying spree
+Outflows come as foreign investors flee country’s markets at fastest pace ever this year
+
+## South Korea stocks slump after first rate rise in 3 years
+Bank of Korea’s first move under Shin Hyun-song comes amid concern over won weakness and reliance on energy imports
 
 ## US hits tanker heading for Kharg Island under renewed Iran blockade
 Military clashes over control of Strait of Hormuz threaten global oil supplies
+
+## US will not win Iran war from the air, Trump’s ex-defence chief warns
+Mark Esper tells FT more bombing will not change Tehran’s behaviour, as president vows to step up attacks
 
 ## FirstFT: China’s economy grows at one of lowest rates in years
 Also in today’s newsletter: Oil traders warn over fresh supply crunch and Oracle leads race to supply Japan with top-secret cloud services
@@ -17,9 +23,6 @@ Failed amendment to an annual defence spending bill would have eliminated the $3
 
 ## Ukraine’s self-defeating reshuffle
 Sacking of the defence minister is a setback for the country’s military efforts
-
-## Blanche grilled over loyalty to Trump in tense confirmation hearing
-Acting attorney-general vows to resign if asked to act illegally but insists he serves at pleasure of the president
 
 ## Athens opposes new EU sanctions on Russia to shield Greek shipping company
 George Prokopiou’s Dynagas specialises in transporting cargoes from Moscow’s Arctic LNG
@@ -39,104 +42,107 @@ Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
 ## European industries expected to win more time to emit carbon
 Heavy lobbying by polluting companies and countries over review of EU emissions trading scheme
 
-## Uber nears €12.5bn deal to acquire Delivery Hero
-German food delivery group will spin off Turkish and some European operations to a different buyer
+## Govt raises cost inflation index for FY27 to 384, lowering long-term capital gains tax
+The cost inflation index number assists in determining the long-term capital gains on which an assessee is required to pay taxes when they file income tax returns
 
-## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
-Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
+## GTPL Hathway Q1 FY27: Total Revenue crossed 1K Crore & EBITDA jumps 20% Q-o-Q
+GTPL Hathway Q1 FY27: Total Revenue crossed 1K Crore & EBITDA jumps 20% Q-o-Q
 
-## June passenger vehicle sales rise 24.1%: SIAM
-Looking ahead to the second quarter of FY27, SIAM said vehicle demand is expected to remain steady
-
-## Chinese AI narrows gap with US rivals, but India’s language test remains
-Currently, the strongest published score on Indian financial and regulatory language belongs to a US flagship rather than any Chinese contender
-
-## TN bureaucrat Arun Roy now CMD of TNEB in a series of IAS reshuffle
-Roy will also function as Chairman, Tamil Nadu Power Generation Corporation, Tamil Nadu Transmission Corporation and Tamil Nadu Green Corporation
-
-## India’s overall BoP turns into a deficit in the first two months of FY27
-A BoP deficit can arise when a country imports more than it exports
-
-## Union Bank of India Q1FY27 net profit up 30% at ₹5,332 crore
-Bank eyes $1.5-2 billion via fresh Foreign Currency Non-Resident (Bank)/ FCNR (B) deposits under the RBI’s concessional swap window
-
-## ICICI Lombard Q1 net falls 46% at ₹403.17 crore
-The insurer’s net profit for the first quarter last fiscal stood at ₹747.08 crore. During Q1FY27, its net premium underwritten rose 17.70 per cent year-on-year at ₹6,603.73 crore from ₹5,610.52 crore in Q1FY26
-
-## ICICI Prudential Life Q1 net jumps 28% to ₹386.18 crore
-New premium income grows 14.65% to ₹9,749.33 crore in Q1FY27
-
-## New technology helps EPFO clear claims faster
-EPFO's new technology is accelerating claim settlements and interest payments for members. Auto-processing now handles eighty-three percent of subscriber claims, a notable improvement. The organization recently processed a record eleven lakh claims, clearing a substantial backlog. This modernization
-
-## India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation
-India exported over $140 million in goods duty-free to the UK on Wednesday. More than fifty export consignments were flagged off from over twenty locations. These shipments included electronics, pharmaceuticals, and textiles, reaching various global gateways. The Comprehensive Economic and Trade Agr
-
-## UK backs India’s security concerns, says trade deal based on trust
-The India-UK trade deal commenced, reflecting significant trust and cooperation between nations. This agreement is expected to boost both economies and enhance bilateral trade relations. Discussions also addressed national security and the extradition of financial fugitives. The pact aims to strengt
-
-## SpaceX shares fall below IPO price for first time since market debut, wiping out post-listing gains
-SpaceX shares have fallen below their initial public offering price for the first time. This decline reflects a broader shift in market sentiment and investor enthusiasm. Analysts point to concerns over interest rates and AI stock momentum. Investors are now awaiting SpaceX's first quarterly earning
-
-## US stocks today: Markets open in green despite Iran war tensions, oil price swings
-US stock markets saw gains on Wednesday, driven by strong corporate earnings reports. Investors also reacted positively to recent inflation data, which showed a notable slowdown. This easing inflation reduced expectations for an imminent interest rate hike by the Federal Reserve. However, ongoing Mi
-
-## US issues new non-proliferation sanctions targeting individuals, entities in Iran, Russia
-The United States has enacted fresh sanctions against seven individuals and entities linked to Iran's arms procurement activities. Targeting parties in Iran, Russia, Italy, and Nigeria, these sanctions aim to cut off financial support for Iran’s military. Consequently, any assets under US jurisdicti
-
-## JPMorgan Chase on track to become world's first bank with a $1 trillion valuation
-JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone for a bank. The lender's shares reached a record high after reporting its highest quarterly profit ever. Analysts expect dealmaking activity to remain strong through the rest of 2026. This achievement would place JPMorgan
-
-## Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid
-When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age, financial goals, income, risk tolerance
-
-## Gautam Adani denies knowledge of any DOJ quid pro quo offer linked to dismissal of charges against him
-Adani’s statement comes amid a tussle between a US court and DOJ regarding reasons behind the latter’s refusal to pursue legal action against the Adani group
-
-## Meghalaya is taking its premium Pineapples to Indian markets with new retail partnerships
-The Meghalaya Pineapple Festival focuses on enhancing market access for pineapple growers through partnerships with retailers and digital marketplaces.
-
-## What's Rahul Gandhi planning amid buzz over absence from CJP-Wangchuk protest: ‘Are you rattled, Modi ji?’
-Congress leader is set for the next event of his own campaign on the same issues in Dehradun, also demanding Union education minister Pradhan's resignation.
-
-## SC orders Uttarakhand govt to grant land for new HC building
-The Supreme Court expedited the Uttarakhand high court relocation to Nainital, directing land transfer within six weeks, overriding a referendum order.
-
-## 2 property dealers arrested in MP’s Aishbagh double murder case: Police
-CCTV footage had earlier captured two suspects in raincoats, prompting police to announce a reward of ₹50,000 for information
-
-## Bengaluru man, 24, slits grandmother's throat after repeated arguments over having no job
-Police said the accused returned to his home in KS Layout after committing the crime and allegedly confessed to his mother.
-
-## Abhishek Banerjee gives voice sample in Bengal assembly poll speech case
-TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to record his voice sample
-
-## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
-Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
-
-## India raises taxes on diesel and jet fuel exports
+## US weighs bond of $100,000 for some green-card applicants abroad
 
 
-## Australian uranium fuels next phase in India’s n-programme
+## Sensex today | Stock Market Live: Indian equities edge higher as investors weigh global risks
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Thursday, supported by positive Wall Street cues, even as a sharp sell-off across Asian markets, elevated crude oil prices and escalating West Asia tensions kept investor sentiment cautious and limited gains.
+
+## Q1 Results Today Live: Wipro, Jio Financial, Tech Mahindra, Polycab, BHEL, ITC Hotels, CEAT, WeWork India to announce Q1 results, Union Bank, Groww, HDBFS, HDFC AMC, HDFC Life, ICICI Pru Life, ICICI Lombard, Angel One shares in focus
+Q1 Results Today, 16th July 2026 Live Updates: Catch live updates
+
+## Former ISRO chief Somanath S joins space start-up Agnikul Cosmos
+Somanath oversaw several landmark missions for ISRO, including the successful Chandrayaan-3 lunar landing near the Moon’s south pole and the launch of Aditya-L1, India’s first solar observatory
+
+## Mondelez India betting strong on premiumisation in biscuits
+The company’s other recent launches include packaged brownie product under brand Cadbury on the e-commerce channel; Nitin Saini said that segment, though not well-developed in the country, offers strong growth potential
+
+## Karnataka to roll out data centre policy to power AI-led GCC growth
+Government plans to establish India’s first public sector-led AI University and a world-class AI Hub to advance AI research, innovation and commercialisation
+
+## Top stocks to buy today: Stock recommendations for July 16, 2026 - check list
+Top stock market recommendations: Anant Raj, Sobha Ltd, and PNB Housing Finance have been identified as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for July 16, 2026. Views on Nifty and Bank Nifty have also been sh
+
+## 'Very cute': US President Donald Trump welcomes new $1 coin with his face on it
+A new US dollar coin will feature President Donald Trump for America's 250th birthday. This commemorative coin is scheduled for release in the autumn of 2026. The design includes Trump's image and traditional American symbols on both sides. Critics raised concerns about this move conflicting with an
+
+## China's economy stumbles with growth below target: Report
+China's economy slowed more than expected last quarter, reaching its weakest point in over three years. Gross domestic product grew 4.3% from a year ago, missing official targets. This slowdown will likely dominate upcoming Politburo meetings this month. Officials may accelerate public spending and 
+
+## Union Cabinet clears Rs 1.9 lakh crore push for chips, mobile phones
+The Union Cabinet approved two schemes totaling Rs 1.9 lakh crore for electronics manufacturing. These initiatives aim to boost semiconductor fabrication and mobile phone production significantly. The government plans to deepen domestic value addition and reduce import dependence. These schemes will
+
+## Oil prices extend gain for fourth day, stay beyond $85 amid Middle East chaos
+Crude oil prices climbed for a fourth day, exceeding eighty-five dollars per barrel. Investors reacted to escalating United States and Iran conflict and shipping route security. United States strikes on Iran's missile sites and coastal defense positions occurred. This intensified worries over oil mo
+
+## TVS arm Home Credit to buy education loan company for Rs 967 crore
+Home Credit India will acquire Varthana Finance in an all-cash deal valued at Rs 967 crore. This transaction will make Varthana a wholly owned subsidiary of Home Credit India. The acquisition aims to diversify portfolios and improve business mix for the company. It is expected to create synergies in
+
+## Tata Motors pips M&M to regain No 2 ranking
+India's passenger vehicle market recorded its strongest first quarter ever. Domestic sales increased significantly, driven by SUV demand and new model launches. Tata Motors reclaimed the second position, surpassing Mahindra & Mahindra in sales figures. Maruti Suzuki maintained its leading market sha
+
+## Rising cost fuels rush for refurbished devices
+India's refurbished device market is set to significantly outperform new ones this year. Soaring memory costs are pushing up prices and driving consumers toward certified pre-owned alternatives. Leading brands are strengthening their official refurbished programs as the secondary market becomes main
+
+## Traffic advisory issued for Jagannath Rath Yatra in Delhi's Hauz Khas | Check routes and diversions
+Traffic will be regulated on both carriageways of Aurobindo Marg between the IIT Flyover (Outer Ring Road) and the AIIMS Flyover Loop (Ring Road) from 2 to 7 pm
+
+## Indian sailor missing after attack on GFS Galaxy vessel near Oman found dead
+The sailor's body was recovered nearly 60 hours after the attack, while 10 other Indian crew members were rescued.
+
+## Surge at voter facilitation centres across state increases wait time
+Voter Facilitation Centres across Karnataka are experiencing mounting crowds to submit the enumeration forms under the Special Intensive Revision of electoral rolls, leaving many applicants waiting for hours to complete procedures and raising complaints about inadequate assistance at several locatio
+
+## ‘100,000 houses installing solar systems a week under PM Surya Ghar’
+Union renewable energy secretary Santosh Kumar Sarangi on Wednesday said that around 100,000 households are now installing rooftop solar systems every week under the Centre’s flagship PM Surya Ghar: Muft Bijli Yojana, with the government expressing confidence that its target of covering 10 million h
+
+## Supreme Court clears road for country’s first night safari in Lucknow’s Kukrail Reserve Forest
+The Court directed the state to comply with all conditions imposed by various statutory authorities along with prior clearances before starting the work.
+
+## 679,000 ‘zero-dose’ Indian children didn’t receive single dose of vaccine in their first year in 2025: WHO report
+In 2025, an estimated 13.5 million “zero-dose” children did not receive a single vaccine in their first year.
+
+## Kerala HC seeks experts’ opinions on affordable breast cancer drugs
+The Kerala High Court on Wednesday sought expert opinions from four institutions on whether a cheaper off-patent breast cancer drug can be used as a substitute for a costlier patented alternative, even as it examined whether patients can be denied access to life-saving treatment because of the high 
+
+## High-speed rail proposal lacks details: CM Satheesan
+The Kerala cabinet has decided to put on hold the high-speed railway project proposed by ‘Metroman’ E Sreedharan and the Delhi Metro Rail Corporation (DMRC), acting on the recommendation of an expert committee that cited the absence of detailed environmental and social impact studies
+
+## Messi on facing Spain in final: ‘I know their players and philosophy very well’
 
 
-## The sea has a seat at the table
+## Ankur Warikoo completes 10K steps, burns 2K calories before 9 am daily
 
 
-## Welcome back, Taslima Nasrin
+## Ramayana trailer gets U certificate from CBFC; two versions cleared ahead of launch
 
 
-## Government must talk to Sonam, that’s its duty
+## Daily Briefing: Supriya Sule on Delimitation Bill; PM Modi’s planned visit to Punjab amid Satluj row
 
 
-## Argentina players taunt England with Falkland banner after FIFA World Cup win
+## OpenAI enters hardware with Codex Micro, a programmable macropad for Codex users
 
 
-## A 26-year-old with Type 1 diabetes died after stopping insulin. Here’s what happened
+## ‘Don’t pap me ever’: Mouni Roy asks paparazzi to stop photographing her, deletes post later
 
 
-## CAG finds Chhattisgarh’s mining welfare fund strayed from its core purpose
+## US-Iran War News Live Updates: Iran targets US military communications, fuel storage tanks in Jordan
 
+
+## No wedding bells after 9 years, marriage bureau ordered to pay professor Rs 8,000
+
+
+## Mainland China funds increase stakes in Hong Kong biotech amid surge of licensing deals
+A growing number of mainland Chinese institutional fund managers have built up stakes in Hong Kong-listed biotechnology stocks over the past month, drawn by attractive valuations amid a surge in cross-border licensing deals in the sector. China’s largest mutual fund manager, E Fund Management, has t
+
+## HKIC reports double-digit investment return as ‘patient capital’ strategy bears fruit
+The Hong Kong Investment Corporation (HKIC) recorded a major jump in investment income during its second year of operation, as it expanded its role as the city’s “patient capital” engine driving local economic development. The wholly state-owned investment firm generated about HK$6.46 billion (US$82
 
 ## Taobao’s first physical shop in Hong Kong to close after lease ends in October: sources
 Taobao Hong Kong’s first furniture showroom will close its doors at a Tsim Sha Tsui mall when its lease expires in October, according to multiple people familiar with the matter, ending the retailer’s first offline furniture venture in the city after less than two years. The move means Taobao Hong K
@@ -155,12 +161,6 @@ China’s economy grew at the slowest pace in nearly four years in the second qu
 
 ## Connect scheme for gold shines light on China’s financial liberalisation
 When Hong Kong launched its latest Connect programme on July 7, most of the attention focused on gold. That misses the bigger story. Delivery Connect, part of the city’s new gold clearing and settlement system, is not simply another financial initiative but the latest evidence that Beijing has settl
-
-## Will diversification restore Hong Kong’s IPO title? Think tank maps out plan
-Hong Kong needs to diversify the source of its listed companies and investors if it is to reclaim its recently lost crown as the world’s top initial public offering (IPO) venue, according to a government think tank. “Hong Kong should continue to find ways to diversify both its listing issuers as wel
-
-## Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters
-The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two we
 
 ## Russia Shifts Its Focus to the Black Sea
 Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.
@@ -258,29 +258,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks
-'There was blood in the water, and we went for it,' Argentina coach said of the relentless late attacks against England.
+## Senior Chinese delegation visits North Korea for talks
+China's fourth-highest-ranked official, Wang Huning, held talks with a top official of North Korea's governing party.
 
-## Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker
-Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.
+## South Korea’s international adoptees seek justice, not homecoming
+South Korea's government has acknowledged wrongs, but advocates say accountability is still lacking.
 
-## Tuchel defends tactics after Argentina send England packing from World Cup
-England manager Tuchel swapped Reece James for Dan Burn, and Declan Rice for defender Nico O’Reilly in the 82nd minute.
+## Toronto engulfed by wildfire smoke as US cities threatened
+Monitor ranks Toronto as having the worst air quality on earth, surpassing Kinshasa, DR Congo, and New Delhi, India.
 
-## Argentina players brandish political Falklands flag after England match
-The banner, held up by Lisandro Martinez and Giovani Lo Celso, goes against FIFA’s Stadium Code of Conduct.
+## Iran launches strikes on Gulf, even as FM visits Qatar
+Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani
 
-## US Justice Department refuses New Mexico’s request for Epstein files
-New Mexico says the withheld records are critical to its criminal investigation into alleged abuse at Epstein’s ranch.
+## Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal
+Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.
 
-## ‘Really big news’: What to know about Trump’s primetime speech on Thursday
-The address comes as the White House revives scrutiny of the 2020 election and pushes new voting restrictions.
+## France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals
+The trip highlights how Paris and Rabat are turning a diplomatic rapprochement into a broader strategic partnership.
 
-## Iran says peace deal voided, fighting ‘existential war’ after US attacks
-The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.
+## Iranian doctor says US strike damaged children’s cancer hospital
+Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.
 
-## Argentina stun England in 2-1 comeback win to reach 2026 World Cup final
-Holders Argentina will face Spain in the final after snatching victory from England in ⁠a highly charged encounter.
+## Celebrations erupt in Argentina’s capital after World Cup semifinal win
+Jubilant fans leapt with joy in Buenos Aires after Argentina defeated England 2-1 in Wednesday’s World Cup semifinal.
+
+## State Bank of India appoints former LIC finance head Sunil Agrawal as CFO
+State Bank of India has named Sunil Agrawal its new Chief Financial Officer, bringing with him a wealth of experience from his 27 years at LIC. His role as key managerial personnel highlights his expertise in financial planning and regulatory matters. This significant appointment aligns with ongoing
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Tech Mahindra's Rohit Anand next
 An ETCFO analysis of annual reports of the country's largest IT companies shows Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Tech Mahindra's Rohit Anand and Wipro's Aparna Iyer.
@@ -303,8 +306,8 @@ A GST Council proposal will protect buyers from losing input tax credit. This pr
 ## RBI steps up scrutiny of Corporate India's foreign investments
 Indian banks are now mandated to disclose their anti-money laundering measures concerning international business partners. Corporations with overseas investments will relay this information to the Reserve Bank of India.
 
-## As automation spreads, India's FMCG companies rethink the size of their workforce
-Hindustan Unilever and Dabur reduced permanent staff while others increased headcount. Median employee remuneration saw increases ranging from six to twelve percent. Hindustan Unilever's permanent workforce declined by over seven hundred employees. Dabur India's permanent workforce also saw a signif
+## India, Brazil agree to cooperate on digital labour platforms, skills, social protection: Union minister Shobha Karandlaje
+During the meeting, the Indian side shared details of the country's Digital Public Infrastructure for labour, including the National Career Service Portal and the e-Shram Portal, described as the world's largest database of informal sector workers.
 
 ## RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines
 Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the gov
@@ -326,7 +329,4 @@ Indian banks are now mandated to disclose their anti-money laundering measures c
 
 ## India-UK FTA: Pharma industry flags regulatory priorities ahead of July 15 rollout
 Industry stakeholders expect stronger trade, investment, and research partnerships but say implementation clarity will determine the pact’s long-term impact.
-
-## SEBI bars Osiajee Texfab in manipulation probe
-SEBI has barred Osiajee Texfab from trading shares. The regulator found a coordinated scheme to artificially inflate the company's stock price. Evidence showed a nearly tenfold surge in share value despite negligible textile revenue. Investigations revealed synchronised trades and financial linkages
 
