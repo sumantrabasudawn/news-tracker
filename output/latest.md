@@ -1,31 +1,40 @@
 # AION Intelligence
 
+## Zelenskyy’s government plunged into turmoil by defence minister’s firing
+Ukrainian president forced into concession after ousting of popular minister prompts public and political backlash
+
+## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
+Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
+
+## Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline
+Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack
+
+## Russian strikes threaten Ukraine’s Black Sea grain trade
+Wheat prices have surged as heavy attacks disrupt shipments
+
+## Uber’s super app ‘synergies’ deserve some suspension of disbelief
+Ride-hailing giant’s purchase of Delivery Hero may be more appetising than it looks
+
+## TfL hackers ‘central’ to Scattered Spider group, says NCA
+Two men each sentenced to five years and six months in prison for 2024 cyber attack
+
 ## Varun Chandra to stay as Number 10 business adviser under Burnham
 Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
-
-## Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing
-Mykhailo Fedorov accuses Ukrainian president and top general of blocking much-needed military reforms
 
 ## We need humanities more than ever in the age of AI
 Subjects like literature, languages and history are vital to a thoughtful and prosperous society
 
-## MPs refuse to endorse former Virgin Money chief to lead accounting regulator
-Prominent City figure Jayne-Anne Gadhia is business secretary’s preferred candidate for FRC chair
+## Paralysed man regains hand function through novel brain technology
+Patient went from not being able to lift his hands to his face to independently wiping his mouth
 
-## IMF warns Burnham he cannot afford to boost public spending
-Fund says UK government response to Iran war energy shock should remain ‘targeted, temporary and budget-neutral’
-
-## Barrister accused of £2mn tax evasion faces retrial after case collapses
-Jury fails to reach verdict in case against Robert Venables who argued he was ‘entitled to take advantage of the system’
-
-## US targets Brazil with tariffs as relations deteriorate
-Also in today’s newsletter, Pete Hegseth launches a military testosterone programme and Wisconsin’s socialists
-
-## Why socialists should embrace luxury apartments
-High-end developments can be more effective at unlocking affordability than social housing programmes
+## Estate agents fear retaliation over Rightmove lawsuit, tribunal told
+Proposed £1.6bn class action suit seeks to challenge high listings fees
 
 ## FT readers respond: What is the real cost of AI?
 Commenters discuss the environmental impact of AI data centres and the need for greater transparency — join the debate
+
+## Why socialists should embrace luxury apartments
+High-end developments can be more effective at unlocking affordability than social housing programmes
 
 ## A&O Shearman hands partners £2.2mn as profits return to pre-merger levels
 Pay rise following 2024 tie-up indicates law firm has found its feet after senior lawyers axed during tumultuous period
@@ -33,41 +42,35 @@ Pay rise following 2024 tie-up indicates law firm has found its feet after senio
 ## Top shareholders oppose ‘improved’ £5.7bn bid for DCC
 Investors say latest offer from KKR and Energy Capital Partners significantly undervalues FTSE 100 energy group
 
-## Will cheap specialised AI models threaten the Big Tech chokehold?
-Chinese models trained with domain expertise could best American counterparts at a fraction of the cost
+## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
+Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
 
-## Ocado shares plunge 18% as tech licensing division struggles
-Shares hit 13-year low after UK grocery delivery group reports lower profits and says new installations will be delayed
+## SBI Funds Management IPO subscribed 41.66 times on final day, driven by QIBs demand
+The ₹9,813-crore IPO received bids for ₹2.98 lakh crore
 
-## Eli Lilly buys psychedelic biotech backed by Peter Thiel
-World’s biggest drugmaker agrees to buy Ataibeckley for up to $3.8bn
+## South Indian Bank posts 17% rise in net profit to ₹378 crore
+P R Seshadri, MD & CEO, noted consistent growth in targeted segments, focusing on quality asset acquisition in corporate lending, auto loans, and gold loans
 
-## Hormuz closure threatens renewed oil supply crunch
-Also in today’s newsletter: New York’s data centre crackdown and the new era of critical mineral diplomacy
+## Over 50% of Indian major reservoirs still half-empty
+59% of the country has received deficient or no rainfall as the monsoon is 24% below normal
 
-## NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform
-NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform
+## Russia to continue to meet half of India’s crude oil imports in July, August
+July imports will surpass 5 million barrels per day (mb/d) with Russia accounting for around 2.6-2.7 mb/d
 
-## Heritage Q1 PAT dips to ₹25 crore
-Consolidated revenue in the first quarter rose 18% to ₹1,338 crore
+## Barclays sees FCNR inflows falling short of market hype
+According to the report, expectations may have been inflated by comparisons with the RBI’s successful 2013 FCNR scheme
 
-## Centre designed Modified UDAN scheme after decade of feedback: Civil Aviation Minister
-Modified regional connectivity programme widens route eligibility, extends VGF support, and introduces operational support for smaller airports
+## Editorial. Inflated worries
+RBI can look through the spike in CPI in June
 
-## Myntra expands AI across shopping, seller operations to speed up product launches
-The company is also expanding AI-led shopping experiences through conversational commerce, contextual styling and virtual outfit recommendations.
+## Pocket
 
-## Piramal Finance’s Q1 FY27 consolidated net profit jumps 67% to ₹461 crore
-The non-banking finance company’s board on Thursday approved a fund raise of up to ₹4,000 crore
 
-## De Beers’ Forevermark Diamond Jewellery bets on India to build ₹1,000-crore business in five years
-The natural diamond jewellery brand aims to nearly double its network to 20 stores by December 2026
+## India’s First Hydrogen-Powered Train To Be Flagged Off On July 17: 10 Facts & Photos You Shouldn’t Miss
+India’s first hydrogen-powered train is ready for launch! Marking a major milestone for Indian Railways, the country’s first hydrogen will be flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard usi
 
-## Government targets 25% food processing levels by 2031, seeks investments
-PLI success prompts fresh investment push alongside export ambitions nationwide
+## ‘Aim to make India the world's most authentic experience destination:’ Shekhawat
 
-## Explained: How the India-UK CETA could boost pharma, medtech exports
-The UK imports nearly $30 billion worth of pharmaceutical products every year. Despite India’s reputation as the “pharmacy of the world” and its leadership in affordable generic medicines, exports to the UK remain below $1 billion, highlighting significant untapped potential.
 
 ## In tough Q1, ITC Hotels sees profit, revenue zoom
 
@@ -87,11 +90,14 @@ Recruitment trends indicate that companies are hiring cautiously, and many retur
 ## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
 Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
 
-## 100% US tariff threat over Russian oil: India may have reasons to stay calm
-This is not the first attempt by the US to penalise countries purchasing Russian oil. Last year, Washington imposed an additional 25% tariff on India over its imports of Russian crude, before reversing the measure in February.
+## NEET UG result likely tonight: NTA releases final answer key, drops 1 Physics question, awards 8 bonus marks
+One of the disputed questions involved a Vernier calipers problem that asked candidates to determine the length of a wire based on the instrument's reading.
 
-## India's first hydrogen train set for launch: All you need to know
-India will soon launch its first hydrogen fuel cell train on Friday. Prime Minister Narendra Modi will flag off the train in Haryana. This train generates its own electricity onboard using hydrogen fuel. The project establishes India's first integrated hydrogen railway ecosystem. This initiative mar
+## Ex-chief secretary’s son posed as IPS, RAW and army officer, swindled lakhs; arrested
+Police said Yashovardhan, a retired IAS officer’s son, wanted to become an IPS officer but could not clear UPSC’s civi services exam despite multiple attempts
+
+## Gujarat man installs audio recording system at home to expose wife's affair, moves court to freeze joint bank locker
+The complainant alleged that the audio that he captured confirmed his suspicion that his wife was having an affair with the man.
 
 ## 'We share our anguish and outrage': Congress appeals to Sonam Wangchuk to end fast
 Appealing to Wangchuk to call off his fast, Congress general secretary (organisation) K C Venugopal said his health had become a matter of concern.
@@ -108,37 +114,28 @@ Indian Railways says its 10-coach train represents one of the largest hydrogen-p
 ## US senators call for 100% tariffs over Russian oil purchase in new bill | What it means for India
 The final rate of the tariff will be determined after deliberations from the United States Trade Representative.
 
-## ‘Everybody does naare-baazi’: SC on plea to revive protest case against Bhagwant Mann
-The case was registered against Bhagwant Mann and other AAP leaders in January 2020 for protesting outside the then CM’s house against a power tariff hike
-
-## ICMR’s drone initiative cuts TB diagnosis turnaround time by 10 days in remote areas
-An ICMR study found its i-DRONE initiative cut TB diagnosis time from 15 to five days and sharply reduced patients’ travel costs in remote areas.
-
-## Stampede-like situation during Jagannath Rath Yatra in Puri leaves 2 dead, nearly 100 hospitalised
-A stampede occurred at the Jagannath Rath Yatra in Puri, resulting in one death and nearly 100 hospitalisations.
-
-## Lack of rhythm hurting Rohit Sharma’s batting as debate rages over his spot
+## NEET UG 2026 final answer keys out, results expected shortly
 
 
-## Iran says US military strikes near children’s cancer hospital, forcing chaotic emergency evacuation of 211 patients
+## Kandhamal riots probe among two reports ‘missing’, ex-CMO officials summoned in Odisha
 
 
-## Amid Rs 500-crore donation row, Vaishno Devi Shrine Board reviews offerings system
+## Where not to go this summer: 5 places in India best avoided during peak heat
 
 
-## Will Vijay promote Jana Nayagan actively as TN CM? Producer says ‘people come first’
+## ‘Thinking cops are real lords’: Bombay HC raps police over Shalarth FIRs based on ‘strangers’ complaints
 
 
-## Anatomy of a comeback: How Scaloni engineered another Argentine remontada
+## BREAKING: Lord’s ODI could be Rohit Sharma’s last match for India
 
 
-## ‘Maharashtra will not become Udta Punjab’: Pune City Police chief vows strict crackdown on drug addiciton
+## Trump administration to cap F, J and I US visas, tighten rules for students, journalists
 
 
-## Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report
+## Lohegaon Airport: PMC approves plan to acquire land for alternative road
 
 
-## Slovak leader thanks PM Modi for ‘thekua’: Why this Bihari cookie stays fresh for weeks
+## Indian consulate in Dubai temporarily shut, passport services halted: What applicants need to know
 
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
@@ -165,6 +162,9 @@ This article was first published on July 17, 1986. Cafe de Coral the live wire i
 ## What does South Korea’s Kospi chaos mean for China’s markets?
 The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
 
+## German Military Power Needs to Go It Alone
+NATO’s multinational forces are an unwieldy relic of a more peaceful past.
+
 ## A Divided World Is North Korea’s Greatest Asset
 Geopolitical fragmentation has hamstrung nuclear sanctions regimes. Pyongyang is taking advantage.
 
@@ -185,9 +185,6 @@ Xi Jinping’s push for assimilation won’t solve long-standing issues.
 
 ## Sudan Faces New Sanctions as Evidence of Atrocities Mounts
 But countries remain unwilling to directly sanction foreign actors enabling the war.
-
-## Ukraine Isn’t Waiting Around for Patriots
-A new European coalition is looking to build quicker and cheaper anti-ballistic missile systems—off Ukrainian technology.
 
 ## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
 The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
@@ -261,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’
+Attacks continue in violation of the October agreement with more than 1,100 Palestinians killed since then.
+
+## Hamas leadership run-off expected between Meshaal and al-Hayya
+Israeli assassinations of several key leaders force Hamas to find new head, a process expected to be completed next week
+
+## Air defences intercept drones over Erbil, Iraq
+Verified eyewitness video captures multiple aerial interceptions over Erbil, Iraq
+
+## UK urges FIFA to investigate Argentina over World Cup Falklands banner
+The United Kingdom and Argentina fought a brief war over the British overseas territory in 1982.
+
 ## What happens if Mitch McConnell is unable to finish his US Senate term?
 The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda.
 
@@ -272,18 +281,6 @@ With the world in chaos, many travellers are seeking healing experiences during 
 
 ## World Cup: Why is there a third-place playoff between France and England?
 When was it introduced, does it have an impact on the Golden Boot race and what do the managers think?
-
-## How World Cup football jerseys became political fashion in Latin America
-In both Brazil and Colombia, far-right political movements have coopted the national football team's jersey. But why?
-
-## Epstein linked to Israeli ‘deep state’, US intel, says Vance: What we know
-In podcast interview, Vance also acknowledges Trump administration 'screwed up' on communications around Epstein files.
-
-## US or Iran — Who needs a new truce deal more?
-Both sides face pressure points that could make a protracted war painful.
-
-## Sudanese minister says war has ‘profoundly reshaped’ nation’s demographics
-Sudan faces a population shift as conflict empties areas, burdens cities, and disrupts economic and social stability.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
