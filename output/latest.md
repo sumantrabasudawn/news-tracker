@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US will not win Iran war from the air, Trump’s ex-defence chief warns
+Mark Esper tells FT more bombing will not change Tehran’s behaviour, as president vows to step up attacks
+
+## US hits tanker heading for Kharg Island under renewed Iran blockade
+Military clashes over control of Strait of Hormuz threaten global oil supplies
+
+## FirstFT: China’s economy grows at one of lowest rates in years
+Also in today’s newsletter: Oil traders warn over fresh supply crunch and Oracle leads race to supply Japan with top-secret cloud services
+
 ## Argentina break English hearts with late World Cup semi-final comeback
 Lionel Messi assists twice as reigning champions secure 2-1 win to reach back-to-back finals
 
@@ -21,9 +30,6 @@ Stock trades below $135 for first time since AI and space conglomerate’s Wall 
 ## Oil traders warn market is close to running on empty as Hormuz shuts again
 Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again
 
-## US troops to get testosterone treatment to make them strong
-Announcement from defence secretary Pete Hegseth comes amid focus on low sperm count and virility on American right
-
 ## Dan Ives and Trump family-linked securities group launch AI bank, because why not?
 Ives and Yorkville. Name a more iconic duo
 
@@ -35,9 +41,6 @@ Heavy lobbying by polluting companies and countries over review of EU emissions 
 
 ## Uber nears €12.5bn deal to acquire Delivery Hero
 German food delivery group will spin off Turkish and some European operations to a different buyer
-
-## Thames Water warns over future as Burnham eyes state control
-Britain’s next prime minister is set to make an announcement on sector
 
 ## Cyber leak exposes Kudankulam, other Reliance Infra projects’ data
 Reliance Group faces data breach of Kudankulam Nuclear Power Plant, Sasan coal mine projects, Mumbai metro project and Pokharan solar project among a few, revealing sensitive project details but ensuring core systems remain secure.
@@ -63,6 +66,9 @@ The insurer’s net profit for the first quarter last fiscal stood at ₹747.08 
 ## ICICI Prudential Life Q1 net jumps 28% to ₹386.18 crore
 New premium income grows 14.65% to ₹9,749.33 crore in Q1FY27
 
+## New technology helps EPFO clear claims faster
+EPFO's new technology is accelerating claim settlements and interest payments for members. Auto-processing now handles eighty-three percent of subscriber claims, a notable improvement. The organization recently processed a record eleven lakh claims, clearing a substantial backlog. This modernization
+
 ## India exports $140 million worth of goods to UK at zero duty on Day 1 of trade pact implementation
 India exported over $140 million in goods duty-free to the UK on Wednesday. More than fifty export consignments were flagged off from over twenty locations. These shipments included electronics, pharmaceuticals, and textiles, reaching various global gateways. The Comprehensive Economic and Trade Agr
 
@@ -83,9 +89,6 @@ JPMorgan Chase is nearing a $1 trillion market valuation, a historic milestone f
 
 ## Investment 101: How to rebalance your portfolio for FY27 - top mistakes to avoid
 When building an investment portfolio, investors decide on an asset allocation. Let’s say, a portfolio comprising 70% equity and 30% debt investments. This allocation should be a well-thought out decision that an investor should make after considering his age, financial goals, income, risk tolerance
-
-## HDB Financial Services Q1FY26 net profit up 38% at Rs 785 crore
-
 
 ## Gautam Adani denies knowledge of any DOJ quid pro quo offer linked to dismissal of charges against him
 Adani’s statement comes amid a tussle between a US court and DOJ regarding reasons behind the latter’s refusal to pursue legal action against the Adani group
@@ -111,29 +114,32 @@ TMC MP Abhishek Banerjee had earlier skipped two dates set by the lower court to
 ## Community centre housing temple sold to Islamic charity in UK, Peterborough city council promises alternative
 Temple was set up by Hindu families in the 1980s who had arrived in Britain after being expelled from Uganda by dictator Idi Amin
 
-## National Investment Policy to boost urea production
+## India raises taxes on diesel and jet fuel exports
 
 
-## Messi’s assists vs England puts him into lead in FIFA World Cup Golden Boot race
+## Australian uranium fuels next phase in India’s n-programme
 
 
-## Will rebuild the party… have done earlier, will do it again: Mamata Banerjee
+## The sea has a seat at the table
 
 
-## Ram Temple donation ‘theft’ has hurt Rambhakts, but using it to defame Ayodhya is not justified: Yogi
+## Welcome back, Taslima Nasrin
 
 
-## IIT Bombay’s new finding could make drug discovery ‘faster, cheaper, more sustainable’
+## Government must talk to Sonam, that’s its duty
 
 
-## Pune sailor, missing since July 12 attack on ship off Oman coast, is dead: Dubai Consulate
+## Argentina players taunt England with Falkland banner after FIFA World Cup win
 
 
-## ‘Built without permission’: Demolition order issued against 38 buildings at Jauhar University
+## A 26-year-old with Type 1 diabetes died after stopping insulin. Here’s what happened
 
 
-## Mohan Bhagwat to deliver lecture on ‘contemporary motherhood’
+## CAG finds Chhattisgarh’s mining welfare fund strayed from its core purpose
 
+
+## Taobao’s first physical shop in Hong Kong to close after lease ends in October: sources
+Taobao Hong Kong’s first furniture showroom will close its doors at a Tsim Sha Tsui mall when its lease expires in October, according to multiple people familiar with the matter, ending the retailer’s first offline furniture venture in the city after less than two years. The move means Taobao Hong K
 
 ## Will UFC be a hit in China with a Shanghai bout – and a home-grown contender?
 The Ultimate Fighting Championship (UFC), one of US President Donald Trump’s favourite sports organisations, is set to hold a tournament in Shanghai next month, part of a broad effort by American sports leagues to tap into the world’s leading leisure and entertainment market. Weeks after UFC Freedom
@@ -155,9 +161,6 @@ Hong Kong needs to diversify the source of its listed companies and investors if
 
 ## Chinese AI stock trade remains intact despite 10% correction from jumbo IPO, Fed jitters
 The recent pullback in Chinese technology stocks is a just blip that is unlikely to disrupt the secular bull run on the artificial intelligence (AI) plays, according to fund managers and equity analysts. A decline of more than 10 per cent in the tech-centric Star Market 50 Index over the last two we
-
-## AI investor mania: China’s DeepSeek chases US$70 billion valuation in fresh round
-Chinese frontier artificial intelligence start-up DeepSeek is in talks with investors to raise a new financing round at around US$70 billion pre-investment valuation, shortly after closing a landmark first round, reflecting unquenched investor enthusiasm for the company. The plan comes on the heels 
 
 ## Russia Shifts Its Focus to the Black Sea
 Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks
+'There was blood in the water, and we went for it,' Argentina coach said of the relentless late attacks against England.
+
+## Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker
+Iranian media report explosions on Qeshm Island, Bandar Abbas and Chabahar, as Bahrain and Kuwait sound air raid sirens.
+
+## Tuchel defends tactics after Argentina send England packing from World Cup
+England manager Tuchel swapped Reece James for Dan Burn, and Declan Rice for defender Nico O’Reilly in the 82nd minute.
+
+## Argentina players brandish political Falklands flag after England match
+The banner, held up by Lisandro Martinez and Giovani Lo Celso, goes against FIFA’s Stadium Code of Conduct.
+
+## US Justice Department refuses New Mexico’s request for Epstein files
+New Mexico says the withheld records are critical to its criminal investigation into alleged abuse at Epstein’s ranch.
+
+## ‘Really big news’: What to know about Trump’s primetime speech on Thursday
+The address comes as the White House revives scrutiny of the 2020 election and pushes new voting restrictions.
+
 ## Iran says peace deal voided, fighting ‘existential war’ after US attacks
 The US announced a new wave of attacks Wednesday night, amid reported explosions in Bandar Abbas, Chabahar and Ahvaz.
 
 ## Argentina stun England in 2-1 comeback win to reach 2026 World Cup final
 Holders Argentina will face Spain in the final after snatching victory from England in ⁠a highly charged encounter.
-
-## xAI sues user for exploiting AI tool to sexualise minors
-Lawsuit accuses Terry Harwood of misusing xAI to bypass safeguards and produce explicit deepfakes involving minors.
-
-## Authors, publishers sue Google over alleged AI copyright infringement
-Hachette and Elsevier lead US legal action against Google, alleging misuse of books for Gemini AI model training.
-
-## Sheinbaum rejects US claim that Mexico’s government is linked to cartels
-Sheinbaum has denounced remarks from DEA head Terry Cole as a baseless 'political statement' about Mexico.
-
-## What are the obstacles to peace between Israel and Lebanon?
-Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.
-
-## What happened in the first half of the England vs Argentina semifinal?
-All the biggest moments, heated exchanges, fouls and stats from the first 45 minutes of the heated semifinal in Atlanta.
-
-## 10 years on from Turkiye’s failed coup attempt on Erdogan
-10 years on from Turkiye’s coup attempt to overthrow President Erdogan, the country remains divided over its legacy.
 
 ## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Tech Mahindra's Rohit Anand next
 An ETCFO analysis of annual reports of the country's largest IT companies shows Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Tech Mahindra's Rohit Anand and Wipro's Aparna Iyer.
