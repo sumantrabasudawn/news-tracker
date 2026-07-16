@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Trump administration slaps 25% tariff on Brazil as ties deteriorate
-Levy is part of a deepening rift between Washington and Brasília ahead of South American presidential election
-
-## From Manson cult to the children of a 1960s revolution
-With a shared theme of US counterculture, two contrasting books ask if lives lived violently were shaped by violence in American society
-
-## Vibes, not results, will dictate Burnham’s true election timetable
-The political realities point to the new PM going long — but not too long
-
-## Eli Lilly buys psychedelic biotech backed by Peter Thiel
-World’s biggest drugmaker agrees to buy Ataibeckley for up to $3.8bn
-
-## Italy’s parliament backs Meloni’s contentious electoral overhaul
-Controversial new law reduces risk of a hung parliament ahead of general elections due in 2027
-
-## Hormuz closure threatens renewed oil supply crunch
-Also in today’s newsletter: New York’s data centre crackdown and the new era of critical mineral diplomacy
-
 ## Varun Chandra to stay as Number 10 business adviser under Burnham
 Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
 
-## UBS tries to crack the American market at last
-Swiss group wants to be valued as a global wealth manager rather than a European bank but lags far behind Wall St rivals
+## Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing
+Mykhailo Fedorov accuses Ukrainian president and top general of blocking much-needed military reforms
+
+## We need humanities more than ever in the age of AI
+Subjects like literature, languages and history are vital to a thoughtful and prosperous society
+
+## MPs refuse to endorse former Virgin Money chief to lead accounting regulator
+Prominent City figure Jayne-Anne Gadhia is business secretary’s preferred candidate for FRC chair
+
+## IMF warns Burnham he cannot afford to boost public spending
+Fund says UK government response to Iran war energy shock should remain ‘targeted, temporary and budget-neutral’
+
+## Barrister accused of £2mn tax evasion faces retrial after case collapses
+Jury fails to reach verdict in case against Robert Venables who argued he was ‘entitled to take advantage of the system’
+
+## US targets Brazil with tariffs as relations deteriorate
+Also in today’s newsletter, Pete Hegseth launches a military testosterone programme and Wisconsin’s socialists
+
+## Why socialists should embrace luxury apartments
+High-end developments can be more effective at unlocking affordability than social housing programmes
+
+## FT readers respond: What is the real cost of AI?
+Commenters discuss the environmental impact of AI data centres and the need for greater transparency — join the debate
 
 ## A&O Shearman hands partners £2.2mn as profits return to pre-merger levels
 Pay rise following 2024 tie-up indicates law firm has found its feet after senior lawyers axed during tumultuous period
@@ -36,32 +39,47 @@ Chinese models trained with domain expertise could best American counterparts at
 ## Ocado shares plunge 18% as tech licensing division struggles
 Shares hit 13-year low after UK grocery delivery group reports lower profits and says new installations will be delayed
 
-## FirstFT: The pros and cons of California’s wealth tax
-Also in today’s newsletter: Uber agrees to buy rival Delivery Hero and US slaps tariffs on imports from Brazil
+## Eli Lilly buys psychedelic biotech backed by Peter Thiel
+World’s biggest drugmaker agrees to buy Ataibeckley for up to $3.8bn
 
-## Nike out of World Cup contention as Adidas-outfitted teams head to final
-Adidas had ⁠sponsored a total of 14 national teams in the tournament. None of Nike's 12 teams, including semi-finalists England and France, managed to secure a spot in the final match
+## Hormuz closure threatens renewed oil supply crunch
+Also in today’s newsletter: New York’s data centre crackdown and the new era of critical mineral diplomacy
 
-## Fossil fuels vs green energy: The real battle isn’t what you think | Energonomics EP 34
-What if energy were marketed like Apple, not petrol?
+## NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform
+NetAcct Solutions Launches Entries ERP Powered by the Entries AI Platform
 
-## The future of energy marketing: Lessons for India’s energy transition | Energonomics EP 34
-Join Richa Mishra and Harish Bijoor in exploring the marketing clash between fossil fuels and renewable energy in this episode of Energonomics.
+## Heritage Q1 PAT dips to ₹25 crore
+Consolidated revenue in the first quarter rose 18% to ₹1,338 crore
 
-## Kashmir’s trekking ban deals blow to seasonal tourism economy
-The ban has affected the livelihoods of hundreds of people associated with trekking
+## Centre designed Modified UDAN scheme after decade of feedback: Civil Aviation Minister
+Modified regional connectivity programme widens route eligibility, extends VGF support, and introduces operational support for smaller airports
 
-## PepsiCo cautiously optimistic on H2 amid robust demand, weather uncertainties: CEO
-Kotecha reiterates PepsiCo’s long-term commitment to the country and calls it one of their top priority markets globally
+## Myntra expands AI across shopping, seller operations to speed up product launches
+The company is also expanding AI-led shopping experiences through conversational commerce, contextual styling and virtual outfit recommendations.
 
-## Q1 Results Today Live: Wipro con. PAT flat in Q1, Tech Mahindra con. profit rises, BHEL logs ₹382 cr profit, Polycab India, ITC Hotels profit up; Jio Financial, CEAT, WeWork to announce Q1 results
-Q1 Results Today, 16th July 2026 Live Updates: Catch live updates
+## Piramal Finance’s Q1 FY27 consolidated net profit jumps 67% to ₹461 crore
+The non-banking finance company’s board on Thursday approved a fund raise of up to ₹4,000 crore
 
-## Tech Mahindra Q1 net profit grows 32% to ₹1,486 crore
-EBITDA for the quarter increased 8.6% sequentially and 53.5% year-on-year to ₹2,264 crore, while EBIT margins improved by 60 bps to 14.4%
+## De Beers’ Forevermark Diamond Jewellery bets on India to build ₹1,000-crore business in five years
+The natural diamond jewellery brand aims to nearly double its network to 20 stores by December 2026
 
-## The Silent Sleep Crisis: Apollo Experts Warn That 80-90% of Sleep Apnoea Cases Go Undiagnosed
-The Silent Sleep Crisis: Apollo Experts Warn That 80-90% of Sleep Apnoea Cases Go Undiagnosed
+## Government targets 25% food processing levels by 2031, seeks investments
+PLI success prompts fresh investment push alongside export ambitions nationwide
+
+## Explained: How the India-UK CETA could boost pharma, medtech exports
+The UK imports nearly $30 billion worth of pharmaceutical products every year. Despite India’s reputation as the “pharmacy of the world” and its leadership in affordable generic medicines, exports to the UK remain below $1 billion, highlighting significant untapped potential.
+
+## In tough Q1, ITC Hotels sees profit, revenue zoom
+
+
+## Cyberattack hits Japan's ice cream giant Glico after KFC, disrupts sushi and supermarket deliveries
+A cyberattack on Nichirei has disrupted ice cream and fast food supplies across Japan. Popular companies like Ezaki Glico and KFC Japan are experiencing significant product delays. Some restaurants may face temporary menu changes and potential store closures due to shortages. This incident follows o
+
+## 100 items, imports worth $51 billion: India eyes fresh domestic manufacturing push to reduce reliance on overseas suppliers
+The renewed focus on expanding domestic production comes as India faces heightened supply-chain risks arising from geopolitical tensions. At the same time, the government is seeking to lower its dependence on China while reducing the country's trade deficit.
+
+## US stocks today: AI stocks drop again; crude oil prices continue to climb
+The S&P 500 declined 0.4%, a day after coming within 0.5% of the record high it reached last month. As of 7:05 PM IST, the Dow Jones Industrial Average had gained 64 points, or 0.1%, while the Nasdaq Composite was down 0.8%.
 
 ## Harsh reality for H-1B visa returnees: Changed Indian IT hiring landscape, lower salaries and fewer jobs
 Recruitment trends indicate that companies are hiring cautiously, and many returnees are getting jobs at less than their salary expectations. Artificial intelligence has compounded the challenge since many roles have become redundant.
@@ -75,65 +93,56 @@ This is not the first attempt by the US to penalise countries purchasing Russian
 ## India's first hydrogen train set for launch: All you need to know
 India will soon launch its first hydrogen fuel cell train on Friday. Prime Minister Narendra Modi will flag off the train in Haryana. This train generates its own electricity onboard using hydrogen fuel. The project establishes India's first integrated hydrogen railway ecosystem. This initiative mar
 
-## US Fed enlists ex-RBI guv Rajan, 2 other Indians for massive policy overhaul
-Former RBI governor Raghuram Rajan will help shape US monetary policy. He joins a Federal Reserve task force reviewing its policy framework. Rajan will examine balance sheet policy alongside other experts. Other panels will assess data, productivity, and inflation frameworks. These initiatives aim t
+## 'We share our anguish and outrage': Congress appeals to Sonam Wangchuk to end fast
+Appealing to Wangchuk to call off his fast, Congress general secretary (organisation) K C Venugopal said his health had become a matter of concern.
 
-## Bank holiday today: Will banks remain shut for Rath Yatra and Harela on July 16? Check state-wise list
-Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. These closures are for Ratha Yatra and the Harela festival celebrations. Customers can still use online and mobile banking services for transactions. Other regional holidays are scheduled later this month across various sta
+## India’s first private orbital rocket Vikram-1 to launch on July 18
+Skyroot Aerospace’s Vikram-1 will become India’s first private orbital rocket to attempt a launch from Sriharikota on July 18 with four technology payloads.
 
-## Stock market today: Sensex ends flat; Nifty50 slips 5.75 points to close at 24,072.75
+## Mere smell of alcohol does not prove charge of drunk driving: Uttarakhand HC
+The court observed that it must be proven that the alcohol level in a person's body exceeded the limit prescribed under the Motor Vehicles Act, 1988.
 
+## PM Modi to launch India's first hydrogen train tomorrow: Check full Jind-Sonipat route, stations
+Indian Railways says its 10-coach train represents one of the largest hydrogen-powered passenger trainsets developed so far.
 
-## Top stocks to buy today: Stock recommendations for July 16, 2026 - check list
-Top stock market recommendations: Anant Raj, Sobha Ltd, and PNB Housing Finance have been identified as the top stocks to buy by Aakash K Hindocha, Vice President - Research, Nuvama Professional Clients Group/Nuvama Wealth Management for July 16, 2026. Views on Nifty and Bank Nifty have also been sh
+## US senators call for 100% tariffs over Russian oil purchase in new bill | What it means for India
+The final rate of the tariff will be determined after deliberations from the United States Trade Representative.
+
+## ‘Everybody does naare-baazi’: SC on plea to revive protest case against Bhagwant Mann
+The case was registered against Bhagwant Mann and other AAP leaders in January 2020 for protesting outside the then CM’s house against a power tariff hike
+
+## ICMR’s drone initiative cuts TB diagnosis turnaround time by 10 days in remote areas
+An ICMR study found its i-DRONE initiative cut TB diagnosis time from 15 to five days and sharply reduced patients’ travel costs in remote areas.
 
 ## Stampede-like situation during Jagannath Rath Yatra in Puri leaves 2 dead, nearly 100 hospitalised
 A stampede occurred at the Jagannath Rath Yatra in Puri, resulting in one death and nearly 100 hospitalisations.
 
-## 'PM afraid of Wangchuk': Kejriwal recalls Anna Hazare 2011 movement, proposes activist for education minister
-While “paying salute” to Wangchuk, Kejriwal said the activist was ready to “put his life at stake” for the students of the country.
-
-## MP high court stays ₹350 crore school uniform tender, seeks govt response
-The MP High Court stayed the ₹350-crore tender after a local apparel association alleged restrictive conditions excluded MSMEs and self-help groups.
-
-## Employees' provident fund interest credited on July 15: How to check updated PF balance
-This was the first time the interest was credited after the centralisation of EPFO.
-
-## Avoid deploying Indian seafarers via Hormuz amid West Asia conflict: DGMA
-DGMA issued an advisory asking shipowners and recruitment agencies to avoid deploying Indian seafarers on vessels transiting the Strait of Hormuz amid rising risks.
-
-## Deportation 'fear': Inside steep decline in Indians' illegal immigration to US
-The wave of Indians illegally immigrating to the US seems to be simmering down, with the figure seeing a huge 69% drop from FY2023.
-
-## May rethink over Delimitation Bill if Opposition's amendments incorporated: Sanjay Raut
-The government intends to bring the Constitution (131st Amendment) Bill proposing to raise Lok Sabha seats to 850 and initiate delimitation.
-
-## Ajit Doval hosts 5th BIMSTEC National Security Chiefs' meeting in Delhi; members adopt key maritime security guidelines
-The NSAs and Heads of Delegations held extensive discussions on practical and result-oriented measures to strengthen regional security.
-
-## ‘Sustenance not equal to survival’: Telangana High Court grants wife maintenance
+## Lack of rhythm hurting Rohit Sharma’s batting as debate rages over his spot
 
 
-## After Senapati tensions, CRPF deploys 100 bulletproof vehicles, revises Manipur strategy
+## Iran says US military strikes near children’s cancer hospital, forcing chaotic emergency evacuation of 211 patients
 
 
-## Imran Khan, Sonakshi Sinha, Fatima Sana extend support to Sonam Wangchuk amid hunger strike
+## Amid Rs 500-crore donation row, Vaishno Devi Shrine Board reviews offerings system
 
 
-## Anjali Anand to influencer questioning her Dhamaal 4 role: ‘A bitter pill to run my house’
+## Will Vijay promote Jana Nayagan actively as TN CM? Producer says ‘people come first’
 
 
-## What it will take to raise the first AI-native generation
+## Anatomy of a comeback: How Scaloni engineered another Argentine remontada
 
 
-## Four arrested for misbehaving with Delhi poll official on SIR duty
+## ‘Maharashtra will not become Udta Punjab’: Pune City Police chief vows strict crackdown on drug addiciton
 
 
-## A confident democracy does not fear Sonam Wangchuk
+## Nvidia, Tesla, Apple: Trump promoted companies after buying their stocks, says report
 
 
-## Beard, niqab, using Arabic expressions: MP flags ‘profiling’ in Gujarat’s ‘anti-radicalisation’ SOPs
+## Slovak leader thanks PM Modi for ‘thekua’: Why this Bihari cookie stays fresh for weeks
 
+
+## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
+As the global artificial intelligence race pushes the limits of scale with massive, trillion-parameter models, a parallel contest is heating up over smaller systems. Instead of relying on sprawling, power-hungry cloud data centres, a growing number of tech companies in China and elsewhere are turnin
 
 ## China’s OnePlus bows out of Western markets as memory crisis hammers smartphone industry
 Chinese handset vendor OnePlus is retreating from the US and European markets amid deepening woes from a memory crisis hammering the global smartphone industry. “After thorough evaluation, OnePlus has decided to conclude product roll-outs in Europe and North America,” the brand operated under Chines
@@ -156,8 +165,11 @@ This article was first published on July 17, 1986. Cafe de Coral the live wire i
 ## What does South Korea’s Kospi chaos mean for China’s markets?
 The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
 
-## Goldman Sachs backs HKEX with ‘buy’ rating, citing Beijing’s policy support, AI stock boost
-Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its buy rating for Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre. Analysts Thomas Wang
+## A Divided World Is North Korea’s Greatest Asset
+Geopolitical fragmentation has hamstrung nuclear sanctions regimes. Pyongyang is taking advantage.
+
+## Nigeria Is Quietly Becoming a Diplomatic Powerhouse
+Many analysts think Abuja’s foreign policy is on the decline. Here’s why that view is misguided.
 
 ## Iranian Attacks Need Not Change the Gulf’s AI Ambitions
 Ukraine offers lessons in how to keep infrastructure alive in wartime.
@@ -176,12 +188,6 @@ But countries remain unwilling to directly sanction foreign actors enabling the 
 
 ## Ukraine Isn’t Waiting Around for Patriots
 A new European coalition is looking to build quicker and cheaper anti-ballistic missile systems—off Ukrainian technology.
-
-## Ukraine’s Drones Have Turned the Tide, but Can They Change the Map?
-Mid-range drone strikes may not be enough to regain Ukrainian territory.
-
-## The Other American Anniversary
-The 1826 Congress of Panama sought to resist the predations of great powers. It was as relevant then as it is now.
 
 ## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
 The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Palestinians in Gaza search through homes destroyed by Israeli strikes
-Palestinians are inspecting the damage in Nuseirat after Israeli strikes reduced their homes to rubble.
+## What happens if Mitch McConnell is unable to finish his US Senate term?
+The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda.
 
-## FIFA World Cup 2026: Biggest takeaways from the semifinals
-The semifinals are now behind us, with plenty of key moments and incidents to digest ahead of Sunday's final.
+## Data breach reportedly targets India’s Kudankulam nuclear power plant
+Purported blueprints of parts of India's largest plant exposed by World Leaks ransomware group, Reuters reports.
 
-## Thousands to lose their homes as Ivory Coast demolitions begin
-Thousands to lose their homes as Ivory Coast demolitions begin
+## Has Bali’s Melukat ritual turned into a commodified religious ceremony?
+With the world in chaos, many travellers are seeking healing experiences during the summer holidays.
 
-## Iran claims strikes on US bases, warns of wider attacks on region
-Iran claims strikes on US bases, warns of wider attacks on region
+## World Cup: Why is there a third-place playoff between France and England?
+When was it introduced, does it have an impact on the Golden Boot race and what do the managers think?
 
-## EU court upholds Spanish amnesty law as compatible with EU law
-Amnesty for people involved in Catalonia independence movement introduced in 2024 by PM Pedro Sanchez's government.
+## How World Cup football jerseys became political fashion in Latin America
+In both Brazil and Colombia, far-right political movements have coopted the national football team's jersey. But why?
 
-## Venezuela’s recovery clouded by uncertainty three weeks after earthquake
-In Venezuela, the focus has shifted from rescue to rebuilding three weeks after devastating earthquakes.
+## Epstein linked to Israeli ‘deep state’, US intel, says Vance: What we know
+In podcast interview, Vance also acknowledges Trump administration 'screwed up' on communications around Epstein files.
 
-## ‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks
-Hussein Saleh describes an Israeli air attack in Tyre that killed his family, including his wife and his only child.
+## US or Iran — Who needs a new truce deal more?
+Both sides face pressure points that could make a protracted war painful.
 
-## Palestinians fight fires after settler attacks in the occupied West Bank
-Overnight Israeli settler attacks set farmlands ablaze in Masafer Yatta and burned vehicles near Tulkarem.
+## Sudanese minister says war has ‘profoundly reshaped’ nation’s demographics
+Sudan faces a population shift as conflict empties areas, burdens cities, and disrupts economic and social stability.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
