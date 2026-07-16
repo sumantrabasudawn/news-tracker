@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Zelenskyy’s government plunged into turmoil by defence minister’s firing
-Ukrainian president forced into concession after ousting of popular minister prompts public and political backlash
+## Trump administration warns leftwing extremism is ‘fatal cancer to civilisation’
+State department says violence from the left is international counterterrorism blind spot
+
+## MPs decline to endorse former Virgin Money chief’s role as regulator
+City figure Jayne-Anne Gadhia confirmed by government as chair of Financial Reporting Council
+
+## Trump teleprompter operator faces scrutiny over prediction market bets
+Aide allegedly used advanced knowledge of president’s speeches to profit on ‘mention markets’ wagers
+
+## Monte dei Paschi claims €30.6bn bid from Intesa ‘undervalues’ bank
+MPS’s board says offer carries regulatory and execution risk, leaving door open to potential tie-up with Banco BPM
+
+## The great British corporate sell-off
+The UK’s business case needs strengthening to stop a self-reinforcing exodus
+
+## Zelenskyy government plunged into turmoil after defence minister fired
+Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
 
 ## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
 Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
@@ -9,38 +24,20 @@ Former chief executive of Autostrade per l’Italia convicted for his role in 20
 ## Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline
 Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack
 
+## Advisers overseeing billions of pounds to leave St James’s Place
+Prospera and Wellesley have both left SJP, according to the FCA’s register
+
 ## Russian strikes threaten Ukraine’s Black Sea grain trade
 Wheat prices have surged as heavy attacks disrupt shipments
 
 ## Uber’s super app ‘synergies’ deserve some suspension of disbelief
 Ride-hailing giant’s purchase of Delivery Hero may be more appetising than it looks
 
-## TfL hackers ‘central’ to Scattered Spider group, says NCA
-Two men each sentenced to five years and six months in prison for 2024 cyber attack
-
-## Varun Chandra to stay as Number 10 business adviser under Burnham
-Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
-
-## We need humanities more than ever in the age of AI
-Subjects like literature, languages and history are vital to a thoughtful and prosperous society
-
 ## Paralysed man regains hand function through novel brain technology
 Patient went from not being able to lift his hands to his face to independently wiping his mouth
 
 ## Estate agents fear retaliation over Rightmove lawsuit, tribunal told
 Proposed £1.6bn class action suit seeks to challenge high listings fees
-
-## FT readers respond: What is the real cost of AI?
-Commenters discuss the environmental impact of AI data centres and the need for greater transparency — join the debate
-
-## Why socialists should embrace luxury apartments
-High-end developments can be more effective at unlocking affordability than social housing programmes
-
-## A&O Shearman hands partners £2.2mn as profits return to pre-merger levels
-Pay rise following 2024 tie-up indicates law firm has found its feet after senior lawyers axed during tumultuous period
-
-## Top shareholders oppose ‘improved’ £5.7bn bid for DCC
-Investors say latest offer from KKR and Energy Capital Partners significantly undervalues FTSE 100 energy group
 
 ## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
 Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
@@ -90,6 +87,18 @@ Recruitment trends indicate that companies are hiring cautiously, and many retur
 ## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
 Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
 
+## Women outshine men in NEET UG 2026; make up over 58% of qualifiers
+The NEET UG re-exam was held on June 21 after the exam held on May 3 was cancelled over alleged paper leak.
+
+## NEET UG 2026 results declared, 11.21 lakh candidates qualify | See how to check scorecard here
+The highest score of 715 out of 720 in the examination was obtained jointly by Aryan Gupta (Punjab) and Panshul Bansal (Haryana).
+
+## 'Don't appoint Smriti Irani in place of Dharmendra Pradhan': AAP leader's dig at BJP from CJP protest
+The CJP announced that they will march towards the Parliament on Monday, July 20, to make the government listen to them.
+
+## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
+"Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
+
 ## NEET UG result likely tonight: NTA releases final answer key, drops 1 Physics question, awards 8 bonus marks
 One of the disputed questions involved a Vernier calipers problem that asked candidates to determine the length of a wire based on the instrument's reading.
 
@@ -102,40 +111,28 @@ The complainant alleged that the audio that he captured confirmed his suspicion 
 ## 'We share our anguish and outrage': Congress appeals to Sonam Wangchuk to end fast
 Appealing to Wangchuk to call off his fast, Congress general secretary (organisation) K C Venugopal said his health had become a matter of concern.
 
-## India’s first private orbital rocket Vikram-1 to launch on July 18
-Skyroot Aerospace’s Vikram-1 will become India’s first private orbital rocket to attempt a launch from Sriharikota on July 18 with four technology payloads.
-
-## Mere smell of alcohol does not prove charge of drunk driving: Uttarakhand HC
-The court observed that it must be proven that the alcohol level in a person's body exceeded the limit prescribed under the Motor Vehicles Act, 1988.
-
-## PM Modi to launch India's first hydrogen train tomorrow: Check full Jind-Sonipat route, stations
-Indian Railways says its 10-coach train represents one of the largest hydrogen-powered passenger trainsets developed so far.
-
-## US senators call for 100% tariffs over Russian oil purchase in new bill | What it means for India
-The final rate of the tariff will be determined after deliberations from the United States Trade Representative.
-
-## NEET UG 2026 final answer keys out, results expected shortly
+## Gates MRI, SII tie-up for manufacture TB vaccine candidate
 
 
-## Kandhamal riots probe among two reports ‘missing’, ex-CMO officials summoned in Odisha
+## Govt calls for IOA panel to probe ex-hockey captain’s sexual harrasment allegations
 
 
-## Where not to go this summer: 5 places in India best avoided during peak heat
+## NEET UG Re-Exam 2026 Result: Meet the toppers – Aryan Gupta, Panshul Bansal
 
 
-## ‘Thinking cops are real lords’: Bombay HC raps police over Shalarth FIRs based on ‘strangers’ complaints
+## Sonu Sood raises alarm over India’s loneliness crisis: ‘Bigger issue than most realise’
 
 
-## BREAKING: Lord’s ODI could be Rohit Sharma’s last match for India
+## After meeting Law Minister, Delhi HC lawyers call off strike over jurisdiction concerns
 
 
-## Trump administration to cap F, J and I US visas, tighten rules for students, journalists
+## DG Shipping advises firms to avoid deploying Indian seafarers on Strait of Hormuz
 
 
-## Lohegaon Airport: PMC approves plan to acquire land for alternative road
+## Arjun Bijlani slams dating rumours with Mouni Roy: ‘Friendship doesn’t need romantic angle’
 
 
-## Indian consulate in Dubai temporarily shut, passport services halted: What applicants need to know
+## NEET UG 2026 result declared: 11.21 lakh qualify, over 58% successful candidates are women
 
 
 ## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
@@ -186,29 +183,29 @@ Xi Jinping’s push for assimilation won’t solve long-standing issues.
 ## Sudan Faces New Sanctions as Evidence of Atrocities Mounts
 But countries remain unwilling to directly sanction foreign actors enabling the war.
 
+## Why Gen Z Is Back on the Streets in Bangladesh
+A controversy centered on Bangladesh's Higher Secondary Certificate (HSC) exam brought students back out to protest.
+
+## Why China Will Not Sell 5th-Generation J-35 Fighter Jets to Pakistan (Yet)
+For China, the decision to sell the J-35 would carry ramifications far exceeding those of any previous Chinese arms sale.
+
+## The Gap Between Reform and Local Power in Uzbekistan
+One woman’s attempt to stand for election as mahalla chairperson reveals the barriers that remain to inclusive self-government in Uzbekistan.
+
+## Playing for a Place in the World Through Taiwan’s Baseball Diplomacy
+International sport offers something that conventional diplomacy often cannot: a stage on which Taiwan can appear before a global audience.
+
+## How Water Is Becoming Pakistan’s Nuclear Threshold
+The real danger lies not in the immediate scarcity of Indus water flowing from India into Pakistan but in the widening gap between how they interpret the same facts.
+
+## What the West Bengal Egg Row Says About Indian Society
+The BJP government, whose support base includes traditionalist Hindus, moved to drop eggs from the midday meal program in Kolkata.
+
 ## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
 The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
 
 ## Bloomberg Ordered to Pay $357,000 in Damages After Losing Singapore Defamation Case
 The High Court ruled that a 2024 article on the city-state's luxury real estate market maliciously defamed ministers Tan See Leng and K. Shanmugam.
-
-## Myanmar Military and Some Rebel Groups Ready For Talks, Thai FM Says
-ASEAN special envoy Ma. Theresa Lazaro held separate talks with military-backed negotiators and six rebel groups in Pattaya earlier this week.
-
-## Australia Wants to ‘Manage’ AI. What Will That Look Like?
-“This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
-
-## India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency
-From floods to heatwaves, cascading climate disasters expose mounting vulnerabilities demanding coordinated scientific and policy responses.
-
-## The China Factor in Cuba-US Tensions
-Insights from Orlando J. Pérez
-
-## South Korea’s Biggest Criminal Justice Reform
-Controversy is raging over how – and how much – to shave the prosecutors’ inordinate powers.
-
-## Amid the Afghanistan-Pakistan Conflict, India-Taliban Diplomatic Ties Are Strengthening
-India’s diplomatic outreach to the Taliban has increased tremendously over the last year.
 
 ## Reading through the Lines of the FY2027 NDAA
 The relationship between Congress and the Pentagon over the past year has been marked by public disagreements and frustrations over lawmakers’ concerns about the Iran War, and by what some lawmakers view as politically motivated firings of top military leaders. In many ways, the House and Senate ver
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’
-Attacks continue in violation of the October agreement with more than 1,100 Palestinians killed since then.
+## In Syria’s Jobar, locals struggle to rebuild their destroyed homes
+Jobar was held by rebels for much of Syria's 13-year war but was destroyed by repeated government assaults.
 
-## Hamas leadership run-off expected between Meshaal and al-Hayya
-Israeli assassinations of several key leaders force Hamas to find new head, a process expected to be completed next week
+## US approves nearly $2bn in weapons sale to Saudi Arabia
+The sale intends to bolster Saudi air defence systems as the kingdom risks escalation with the Iran-backed Houthis.
 
-## Air defences intercept drones over Erbil, Iraq
-Verified eyewitness video captures multiple aerial interceptions over Erbil, Iraq
+## Rare protests in Kyiv over dismissal of defence minister
+Rare protests erupted in central Kyiv over Ukrainian President Zelenskyy’s dismissal of defence minister.
 
-## UK urges FIFA to investigate Argentina over World Cup Falklands banner
-The United Kingdom and Argentina fought a brief war over the British overseas territory in 1982.
+## Eleven killed in Algeria orphanage fire
+Eleven people were killed and 19 injured after a fire tore through an orphanage in Algiers.
 
-## What happens if Mitch McConnell is unable to finish his US Senate term?
-The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda.
+## Ex-CEO of Italian motorway sentenced to 12 years for Genoa bridge collapse
+In all, 32 convicted and 25 acquitted or cleared by statute ‌of limitations over 2018 Morandi bridge disaster.
 
-## Data breach reportedly targets India’s Kudankulam nuclear power plant
-Purported blueprints of parts of India's largest plant exposed by World Leaks ransomware group, Reuters reports.
+## US to impose new 25 percent tariffs on some Brazilian imports
+Beef, coffee, and rare-earth materials escaped US tariffs amid trade tensions with Brazil over alleged unfair practices.
 
-## Has Bali’s Melukat ritual turned into a commodified religious ceremony?
-With the world in chaos, many travellers are seeking healing experiences during the summer holidays.
+## Trump limits length of visas for students, exchange visitors, journalists
+New rule ends open-ended stays and requires extensions after fixed visa periods for students and foreign media.
 
-## World Cup: Why is there a third-place playoff between France and England?
-When was it introduced, does it have an impact on the Golden Boot race and what do the managers think?
+## How can Argentina and Messi beat Spain and Yamal to defend World Cup?
+Despite Lionel Messi's presence, Argentina enter the 2026 final as underdogs to Spain and their starlet Lamine Yamal.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
