@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## VPN use in UK doubles as people circumvent porn laws
-Regulator Ofcom found evidence of children using the technology to get around curbs
+## Varun Chandra to stay as Number 10 business adviser under Burnham
+Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
+
+## UBS tries to crack the American market at last
+Swiss group wants to be valued as a global wealth manager rather than a European bank but lags far behind Wall St rivals
+
+## FirstFT: The pros and cons of California’s wealth tax
+Also in today’s newsletter: Uber agrees to buy rival Delivery Hero and US slaps tariffs on imports from Brazil
+
+## Beige Book shows robust US economy, labour market picking up
+Prices increasing ‘moderately’ ahead of renewed hostilities with Iran
+
+## The digital euro gets ready for beta testing
+A brave new world for EU digital finance
+
+## US lawmakers urge Trump administration to ban Chinese memory chips
+Apple has been lobbying for clearance to buy from China’s CXMT during a global memory shortage
+
+## Chinese AI start-up Moonshot to launch model challenging Anthropic’s lead
+Kimi K3 expected to exceed performance of Claude Opus 4.8 in sign of narrowing gap between US and China on frontier AI
 
 ## Thousands of Ukrainians protest against Zelenskyy’s firing of defence minister
 Deputy air force commander resigns as president faces backlash over decision
 
-## Shabana Mahmood ticks almost every box
-Home secretary is aligned with Andy Burnham but poor at selling tough policies to MPs
-
-## Varun Chandra to stay as Number 10 business adviser under Burnham
-Decision expected to be welcomed by UK business leaders
-
-## UK economy grew 0.1% in May
-Figure comes as Andy Burnham prepares to enter Number 10
-
-## Uber agrees €13bn deal to acquire Delivery Hero
-German food delivery group will spin off Turkish and some European operations to New York-based SSW Partners
-
-## An unelucidating post about the UK’s mysterious ‘Other’ direct debits
-Committing to debit
-
-## Merz and Macron to reset ties after fighter jet project collapse
-Also in this newsletter: former Norway premier calls for EU membership debate and Orbán ex-minister joins China’s BYD
+## VPN use in UK doubles as people circumvent porn laws
+Regulator Ofcom finds evidence of children using the technology to get around age checks
 
 ## PwC and partner fined more than £3mn over Babcock audit failings
 Regulator says Big Four firm committed ‘serious breaches’ in work on defence and aerospace group
@@ -30,38 +33,32 @@ Regulator says Big Four firm committed ‘serious breaches’ in work on defence
 ## ABB buys UK engineering group Rotork in £4.1bn deal
 Acquisition adds to wave of interest from foreign buyers in London-listed companies
 
-## Chipmaker TSMC to invest another $100bn in US production
-Total commitment rises to $265bn as world’s leading supplier of semiconductors lifts revenue forecasts and spending
+## Hero MotoCorp enters German market in partnership with KSR Group
+Company expands European presence to five markets with premium motorcycle portfolio
 
-## Huawei aims for growth, Malaysia moves into batteries
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
+## ICICI Lombard shares slump after weak Q1 results trigger brokerage downgrades
+Brokerages cut target prices amid concerns over earnings outlook
 
-## BHP’s Australian iron ore workers go on strike
-Operations in key Pilbara region have been under threat from new projects including Simandou mine in Guinea
+## Laser Power & Infra shares end with 23% listing gains
+Stock debuts at ₹269 on BSE and ₹250 on NSE
 
-## Naturis Cosmetics raises ₹100 cr in funding round led by Sharrp ventures
-Naturis Cosmetics recorded a revenue growth of over 50% CAGR over the last four years
+## Wipro Q1 profit nearly flat at ₹3,352 crore; revenue grows almost 11% to ₹24,478.6 crore
+Profit fell 4.2%, while revenue inched up marginally by 1%
 
-## TVK Govt’s maiden Budget to focus on efficient use of public funds and prudent spending, says Minister
-The new government is reviewing the State’s finances before finalising spending plans, Minister CTR Nirmal Kumar says.
+## Crude oil loading suspended at Iraqi terminals after drone hits tanker, sources say
+No damage or fire reported from incident at Basra terminal
 
-## Huawei Launches the latest Grid-Forming Strategy for Future Power Systems at The Smarter E 2026
-Huawei Launches the latest Grid-Forming Strategy for Future Power Systems at The Smarter E 2026
+## Waaree Energies commissions 5.15 GWh BESS container manufacturing facility in Gujarat
+The facility has an annual capacity of 5.15 GWh, upgraded from the originally planned 3.5 GWh through production debottlenecking and improved battery cell energy density
 
-## Angel Yeast Showcases Sustainable Protein Innovation at the Growth Asia Summit 2026
-Angel Yeast Showcases Sustainable Protein Innovation at the Growth Asia Summit 2026
-
-## Q1 Results Today Live: BHEL logs ₹382 cr profit in Q1FY27, Wipro, Jio Financial, Tech Mahindra, CEAT, WeWork to announce Q1 results, Polycab India, ITC Hotels profit rise
+## Q1 Results Today Live: Wipro con. PAT flat in Q1, Tech Mahindra con. profit rises, BHEL logs ₹382 cr profit, Jio Financial, CEAT, WeWork to announce Q1 results, Polycab India, ITC Hotels profit up
 Q1 Results Today, 16th July 2026 Live Updates: Catch live updates
 
-## Sensex today | Stock Market Live: Sensex rises 100 pts, Nifty above 24,000; SBI Life, Eternal lead losers
-Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Thursday, supported by positive Wall Street cues, even as a sharp sell-off across Asian markets, elevated crude oil prices and escalating West Asia tensions kept investor sentiment cautious and limited gains.
+## All clear for Skyroot Aerospace’s maiden test flight of Vikram-1 on July 18
+Vikram-1 will carry payloads from Grahaa Space, Cosmoserve, DCubed
 
-## AI-boom fuels 'K' shaped global economic growth: Moody's Analytics
-The agency said AI boom has driven a surge in data centre investment, exports in Asia's tech-heavy economies, and stock market valuations across the world
-
-## Sterling & Wilson Renewable Energy stock tumbles 7% despite record order book of ₹13,000 crore
-The stock opened at ₹241.76 and hit a low of ₹218.79 during the session, with sell-side pressure heavily dominant.
+## Why India’s trade deal with UK is not just about tariffs - the benefits extend beyond that
+Yes, the tariff story matters. Britain will eliminate duties on 99% of Indian tariff lines, and that is no small concession. But the real point is sectoral: the benefits fall squarely on labour-intensive industries that create jobs at scale.
 
 ## 100% US tariff threat over Russian oil: India may have reasons to stay calm
 This is not the first attempt by the US to penalise countries purchasing Russian oil. Last year, Washington imposed an additional 25% tariff on India over its imports of Russian crude, before reversing the measure in February.
@@ -75,7 +72,7 @@ Former RBI governor Raghuram Rajan will help shape US monetary policy. He joins 
 ## Bank holiday today: Will banks remain shut for Rath Yatra and Harela on July 16? Check state-wise list
 Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. These closures are for Ratha Yatra and the Harela festival celebrations. Customers can still use online and mobile banking services for transactions. Other regional holidays are scheduled later this month across various sta
 
-## Stock market Live Updates: BSE Sensex jumps over 150 points, Nifty50 climbs above 24,100 in early trade
+## Stock market today: Sensex ends flat; Nifty50 slips 5.75 points to close at 24,072.75
 
 
 ## Top stocks to buy today: Stock recommendations for July 16, 2026 - check list
@@ -84,55 +81,52 @@ Top stock market recommendations: Anant Raj, Sobha Ltd, and PNB Housing Finance 
 ## 'Very cute': US President Donald Trump welcomes new $1 coin with his face on it
 A new US dollar coin will feature President Donald Trump for America's 250th birthday. This commemorative coin is scheduled for release in the autumn of 2026. The design includes Trump's image and traditional American symbols on both sides. Critics raised concerns about this move conflicting with an
 
-## China's economy stumbles with growth below target: Report
-China's economy slowed more than expected last quarter, reaching its weakest point in over three years. Gross domestic product grew 4.3% from a year ago, missing official targets. This slowdown will likely dominate upcoming Politburo meetings this month. Officials may accelerate public spending and 
+## Ajit Doval hosts 5th BIMSTEC National Security Chiefs' meeting in Delhi; members adopt key maritime security guidelines
+The NSAs and Heads of Delegations held extensive discussions on practical and result-oriented measures to strengthen regional security.
 
-## Rath Yatra: Millions brave heavy rain as Jagannath chariots roll in Odisha’s Puri
-Despite over 200 mm of rain, millions of devotees gathered in Puri as Odisha deployed 12,000 security personnel for Lord Jagannath’s annual Rath Yatra.
+## Hyderabad teacher fired after 'Islamic religious instructions' homework given to Hindu student
+A teacher in Hyderabad was terminated after allegedly assigning a six-year-old Hindu student homework on Islamic practices.
 
-## ‘Global uncertainties need decisive actions’: Ajit Doval tells BIMSTEC on security challenges
-The NSA said the BIMSTEC grouping has strengthened cooperation across several security domains and made significant progress in tackling shared challenges.
+## IRCTC launches beta website: No captcha, faster checkout and more; what's new for train bookings
+According to a statement released by the union ministry of railways, the IRCTC has made four major improvements in the beta version.
 
-## 'Ram Mandir Trust treasurer must also be investigated': Sena UBT's Sanjay Raut amid donation scam row
-Sanjay Raut also addressed Maharashtra CM Devendra Fadnavis as a "devout devotee of Lord Ram" and recalled his association with the Ram Janmabhoomi movement.
+## Will OnePlus exit India soon? Company shares plan amid speculation
+OnePlus has sought to clear the air, reiterating commitment to the market, as it prepares to replace OxygenOS with a unified ColorOS platform
 
-## Kanwariyas vandalise pickup truck after vehicle allegedly brushed against Kanwar in UP's Muzaffarnagar
-The incident took place near Khadar Chowk in Purkazi town on Wednesday night when a group of kanwariyas, including Naveen, Prince and Navneet.
+## Karnataka doctor murder: Wife found 'scrolling' phone beside husband's body, made 'incoherent' statements
+According to police, Honnannavar was found lying in a pool of blood on a mattress with fatal stab injuries to his neck on Wednesday.
 
-## Tamil Nadu: Relatives stage overnight protest as man dies in judicial custody
-Relatives of S Sabari Varman, an undertrial prisoner who died in the sub-jail, staged an overnight protest demanding a second autopsy and an independent probe.
+## Delhi HC strikes down Centre’s visa services tender process across four countries
+The court said that these deficiencies struck at the very heart of transparency, fairness and equality in the public procurement process
 
-## 'Don't deploy Indian sailors…': India's big warning to shipowners over Hormuz amid renewed US-Iran tensions
-Two Indian nationals, 31-year-old Rohan Kumar from Bihar's Gopalganj and 30-year-old Herambh Karmarkar from Pune, have been killed in separate attacks on ships.
+## Over 100 scientists quit Isro, govt steps in to tighten exit norms amid mass resignations: Reports
+Centre has reportedly directed Isro centres not to accept resignation or voluntary retirement requests from some section of employees
 
-## 'Swastika connects India and Azerbaijan': Indian diplomat invokes ancient symbol amid strained ties
-Abhay Kumar's post comes against the backdrop of a relationship that has faced significant strain in recent months.
+## Siya Goyal's father clarifies after FDA action on shop: ‘Not sealed but I am being punished…’
+The FDA had on Tuesday collected samples from and issued a notice to B.G. Goyal & Company, the dry fruits and spices shop in Market Yard owned by Praveen Goyal.
 
-## Don’t burden class 9 students with a new language, SC tells Centre, CBSE
-The remarks by Justice BV Nagarathna assume significance as they come barely a fortnight after the CBSE announced a one-time relaxation for the current batch.
-
-## Trinamool MP Koel Mallick quits Rajya Sabha in latest setback for Mamata Banerjee
+## JD Vance admits Trump administration ‘absolutely screwed up’ Epstein files, claims Mossad links
 
 
-## Saif Ali Khan says he was refused Ajay Devgn’s role in Omkara: ‘You are too handsome’
+## Ramayana actor Addinath Kothare and Urmila Kanetkar part ways after 15 years of marriage
 
 
-## Over 500 feared dead as boat capsizes off Myanmar’s coast, says UN
+## ‘Amitabh Bachchan ko noch dala’: Paresh Rawal says Big B was persecuted, he only wants peace
 
 
-## Doctor sold old Grand Vitara to get E20-compliant model, Rs 1 lakh compensation, consumer forum says
+## Falkland Islands: Why Argentina’s celebration after beating England has sparked controversy
 
 
-## UPSC Mains Answer Practice — GS 2: India’s Act East Policy and vulnerability of global maritime trade routes (Week 163)
+## India vs England Live Score, 2nd ODI: Men in Blue look to seal series in Cardiff; Toss coming up
 
 
-## Stalker stabs schoolgirl to death near Kolkata after she spurned advances
+## Parasite causing ‘explosive diarrhoea’: Why cyclospora is worrying doctors
 
 
-## ‘I carried the trauma for years’: Sohail Khan reveals he was sexually harassed as a child
+## 5.9 magnitude earthquake hits New Zealand, tsunami alert issued
 
 
-## Falling slab kills 21-year-old in Uttarakhand tunnel 3 years after dramatic rescue of 41 workers
+## How 14% interest trap led to diversion of Haryana corporation’s Rs 50 crore
 
 
 ## China memory-chip maker CXMT set for mega IPO
@@ -150,8 +144,8 @@ This article was first published on July 17, 1986. Cafe de Coral the live wire i
 ## What does South Korea’s Kospi chaos mean for China’s markets?
 The volatile state of South Korean stocks is reminiscent for some investors of China’s rapid boom-to-bust cycle a decade ago, analysts say, when leveraged trading fuelled a meltdown that eventually wiped US$5 trillion from the market within months. The South Korean stock market’s frantic artificial 
 
-## Goldman Sachs backs HKEX with ‘buy rating’, citing Beijing’s policy support, AI stock boost
-Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its “buy rating” on Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre. “We see multiple ta
+## Goldman Sachs backs HKEX with ‘buy’ rating, citing Beijing’s policy support, AI stock boost
+Wall Street investment bank Goldman Sachs has cast a vote of confidence in Hong Kong’s financial future by reaffirming its buy rating for Hong Kong Exchanges and Clearing (HKEX), as Beijing ramps up policy support to cement the city’s status as an international financial centre. Analysts Thomas Wang
 
 ## Mainland China funds increase stakes in Hong Kong biotech amid surge of licensing deals
 A growing number of mainland Chinese institutional fund managers have built up stakes in Hong Kong-listed biotechnology stocks over the past month, drawn by attractive valuations amid a surge in cross-border licensing deals in the sector. China’s largest mutual fund manager, E Fund Management, has t
@@ -183,6 +177,15 @@ Mid-range drone strikes may not be enough to regain Ukrainian territory.
 ## The Other American Anniversary
 The 1826 Congress of Panama sought to resist the predations of great powers. It was as relevant then as it is now.
 
+## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
+The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
+
+## Bloomberg Ordered to Pay $357,000 in Damages After Losing Singapore Defamation Case
+The High Court ruled that a 2024 article on the city-state's luxury real estate market maliciously defamed ministers Tan See Leng and K. Shanmugam.
+
+## Myanmar Military and Some Rebel Groups Ready For Talks, Thai FM Says
+ASEAN special envoy Ma. Theresa Lazaro held separate talks with military-backed negotiators and six rebel groups in Pattaya earlier this week.
+
 ## Australia Wants to ‘Manage’ AI. What Will That Look Like?
 “This is our time to decide what AI looks like here in Australia,” Prime Minister Albanese said.
 
@@ -197,15 +200,6 @@ Controversy is raging over how – and how much – to shave the prosecutors’ 
 
 ## Amid the Afghanistan-Pakistan Conflict, India-Taliban Diplomatic Ties Are Strengthening
 India’s diplomatic outreach to the Taliban has increased tremendously over the last year.
-
-## China Can’t Talk About Birth Rates Without Talking About Rural Pensions
-The need to support elderly parents, particularly in rural areas, is an underappreciated factor in China's declining birth rate.
-
-## The Film ‘Satluj’ Revisits a Turbulent Chapter in India’s Counterinsurgency History
-A biopic on human rights activist Jaswant Singh Khalra puts the spotlight on thousands of enforced disappearances and secret cremations carried out by the Punjab Police.
-
-## Pakistan’s Operation Shaban Targets Both the TTP and BLA in Balochistan
-Operation Shaban is in response to a deadly terrorist attack on July 7 in the Mangi Dam area, which claimed the lives of 27 police personnel.
 
 ## Reading through the Lines of the FY2027 NDAA
 The relationship between Congress and the Pentagon over the past year has been marked by public disagreements and frustrations over lawmakers’ concerns about the Iran War, and by what some lawmakers view as politically motivated firings of top military leaders. In many ways, the House and Senate ver
@@ -255,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Vance says Epstein had connections to US, Israeli intelligence
-The US vice president says Epstein 'seemed' to be connected to elements of the 'Israeli deep state'.
+## Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister
+Mykhailo Fedorov has been credited with reforming defence procurement and tackling corruption.
 
-## US releases video of strikes on Iran
-US releases video of strikes on Iran
+## Fire at orphanage in Algeria kills 11 people, including children
+Eleven people died and 19 were injured after a fire swept through a state-run child welfare home in east Algiers.
 
-## US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest
-Strikes have hit closer to Tehran for the first time since the latest wave of attacks started.
+## Climate funding: Who pays for the transition?
+Developed nations are cutting climate funding, but developing countries still need billions to adapt.
 
-## Greece pins hopes on heat-seeking satellites to predict wildfires
-The country, which suffers each summer, builds an arsenal of high-tech surveillance to help pre-position firefighters.
+## ‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU
+The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.
 
-## US launches new attacks on Iran as Tehran targets Gulf sites
-Iran's Health Ministry has said at least 35 people have been killed and more than 300 injured since fighting resumed.
+## What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak
+Cyclospora cases are rising across the US. Here's what to know about symptoms, spread, treatment and prevention.
 
-## Watch FIFA World Cup: Argentina rallies past England to reach final
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+## More than 500 feared dead after reports of boats capsizing off Myanmar
+The IOM and UNHCR say two boats carrying mostly Rohingya passengers departed Rakhine State in late June.
 
-## ‘Escaping Beijing’: Why some young Chinese are quitting the capital
-A slowing economy and rising prices are making it harder for young Chinese to thrive in the city.
+## Photos: Messi’s Argentina stun England to reach World Cup final vs Spain
+Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.
 
-## Pete Hegseth says US military to start testosterone screening for over 30s
-US Defense Secretary says plan is 'about restoring and optimising ... natural capabilities' of troops.
+## Decades of denial: Death certificate for disappeared reopens Kashmir wounds
+After years of searching and court battles, a judge declares what Junaid Rashid already believed: His father was dead.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
@@ -303,6 +297,12 @@ The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular ope
 ## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
 A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
 
+## RBI to counter USD/INR volatility aggressively amid geopolitical crude shock: Kotak Securities' Anindya Banerjee
+The Reserve Bank of India (RBI) is expected to aggressively intervene in the currency markets if the rupee faces excessive downward pressure toward the 98 to 100 mark, though short-term capital inflows will provide a major cushion against global energy shocks, according to Anindya Banerjee, Head of 
+
+## SEBI clears over 5,000 investor complaints through 'SCORES' in June
+The Securities and Exchange Board of India (Sebi) resolved more than 5,000 investor complaints through its online grievance redressal platform 'SCORES' in June, while the number of pending complaints declined marginally during the month, according to data released by the capital markets regulator.
+
 ## NSE got SEBI's nod to launch derivatives on Nifty India FPI 150 Index from August 12
 The National Stock Exchange of India (NSE) has received SEBI's approval to launch derivatives on the Nifty India FPI 150 Index (NIFTYFPI) from August 12, as per a statement by the stock exchange.
 
@@ -320,10 +320,4 @@ The Reserve Bank of India announces proposed amendments to bank shareholding reg
 
 ## Sebi exempts Mehta Family Trust from Saurashtra Cement open offer
 Sebi exempted Mehta Family Trust from an open offer for Saurashtra Cement shares. This exemption allows internal family reorganisation and succession planning. Jay Mahendra Mehta and Juhi Chawla Mehta are trustees of the family trust. The transaction involves indirect acquisition of shares and votin
-
-## India Inc's overseas fundraise picks up pace in May to $4.7 bn: RBI data
-Indian companies' external commercial borrowings proposals saw a significant jump in May. Total filings reached USD 4.74 billion, a notable increase from April's figures. Prominent firms like Indian Railway Finance Corporation and NTPC filed substantial borrowing intentions. Kisetsu Saison Finance a
-
-## SEBI introduces stricter service rules, investment norms for employees
-The Securities and Exchange Board of India (SEBI) has tightened its employee conduct framework by notifying sweeping changes to its service regulations, introducing stricter conflict-of-interest safeguards, tighter investment restrictions and enhanced disclosure requirements.
 
