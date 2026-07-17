@@ -30,7 +30,7 @@ Price-comparison site set to enter crowded market against established providers
 ## EU set to delay fines for breaking methane rules after US pressure
 Move unlikely to satisfy energy companies that want a rewrite of law on leaks and flaring of polluting gas
 
-## PwC partners set for near-record £900,000 annual pay
+## PwC partners in line for near-record £900,000 annual pay
 Payout for top ranks of Big Four accounting firm set to rise despite challenging consulting market
 
 ## Directors’ Deals: Middle East conflict casts shadow over Energean
@@ -60,6 +60,9 @@ Revenue increased 10 per cent to ₹47,364 crore (₹43,147 crore)
 ## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
 
 
+## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
+Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
+
 ## Which states are the most investor friendly? Gujarat tops Niti Aayog index; Maharashtra & Tamil Nadu rank next
 The index evaluates states and UTs across eight key pillars: infrastructure, business climate, resources, government policy, regulatory ease, institutional environment, financial health and environmental resilience.
 
@@ -80,9 +83,6 @@ Brent crude prices in the spot market briefly surged to around $144 per barrel b
 
 ## India's current account deficit likely to widen to 1.5% of GDP in FY27 as higher oil prices weigh: Report
 India's current account deficit is projected to widen significantly by fiscal year 2027. Higher crude oil and commodity prices will drive this projected increase in the deficit. Merchandise imports grew faster than exports in June, widening the trade gap. Petroleum exports saw a substantial sequenti
-
-## Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan
-India's first bullet train project between Mumbai and Ahmedabad is progressing well. Initial operations will commence using Indian high-speed trains in 2027. Japan's next-generation E10 Shinkansen trains will be introduced later, after 2030. The first operational stretch will connect Surat and Bilim
 
 ## Delhi HC refuses interim bail to Al Falah university chairman Jawad Siddiqui in ED cases
 Siddiqui sought interim bail on the ground that his wife's health was critical and he wanted to be with her at this stage of her life.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US launches seventh straight night of strikes on Iran
+The US military says it's degrading Iran's military but has been accused by Tehran of targeting civilian infrastructure.
+
+## Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino
+Spanish midfielder says he has 'huge confidence' in his abilities after his impressive performances as a substitute.
+
+## Herbert leads British Open golf, equals record lowest score at a Major
+Australian golfer Herbert ended the second round of the British Open with a two-shot lead on eight-under.
+
+## Star speedcubers square off at European championship
+More than 1,200 speedcubers from 53 countries are descending are attending the European Speedcubing Championship.
+
+## ICE agent behind fatal shooting in Maine reportedly had troubled history
+Relatives of David Brouillette, the agent who shot and killed a man in Maine, said he had record of violent behaviour.
+
+## Food emergency deepens across Uganda’s Karamoja
+Food emergency deepens across Uganda’s Karamoja
+
+## World Cup winners to receive US-style championship rings, FIFA says
+Players' rings will be limited edition of 2,026 individually numbered pieces, with the rest available for public sale.
+
 ## Houthi supporters rally in Sanaa against ‘Saudi-led blockade’
 Thousands of Houthi supporters rallied in Sanaa against what they described as the Saudi-led blockade against Yemen.
-
-## Suspected Somali pirates seize tanker near Yemen amid wave of hijackings
-The seizure of the Astana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.
-
-## Top IRS lawyer to resign post amid disagreements with Trump administration
-Reports indicate a controversial settlement deal and disputes over tax audits may have prompted Ken Kies to step down.
-
-## Israel, Gaza and the future of US power
-Congressman Ro Khanna joins Sreenivasan Jain.
-
-## How an Italian sculptor created the iconic World Cup trophy
-In 1970, an Italian sculptor designed the iconic World Cup trophy that’s become familiar to generations of fans.
-
-## At least two dead as heavy rains, floods strike central Texas
-Officials in the southern state have seen new warning systems tested by the floods, after last year's deadly rainfall.
-
-## Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?
-World Cup organisers are monitoring the situation 'closely', with US and FIFA presidents meeting on Friday.
-
-## At least three killed and hundreds displaced by heavy rain in Chile
-Chilean President Jose Antonio Kast says that he is travelling to the Biobio region to survey flood damage.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
