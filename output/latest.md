@@ -1,40 +1,40 @@
 # AION Intelligence
 
+## How long can oil markets absorb the Hormuz shock?
+Improvements in oil intensity have cushioned the global economy so far — but could prompt reckless political choices
+
+## Britain’s Burnham and nostalgia for a semi-imaginary past
+The new prime minister has to set out a coherent and business-friendly platform
+
+## Jeffrey Donaldson seeks to appeal child sex convictions
+Hearing on the application could happen in September, say former DUP leader’s lawyers
+
+## EU set to delay fines for breaking methane rules after US pressure
+Move unlikely to satisfy energy companies that want a rewrite of law on leaks and flaring of polluting gas
+
+## Paris and Berlin vow to align on tougher trade measures against China
+French President Emmanuel Macron and German Chancellor Friedrich Merz to push for EU ‘safeguard’ trade measures
+
+## SpaceX and the myth of independent Wall St research
+Buy recommendations from IPO banks underscore the limits of post-dotcom reforms
+
+## Trump Media pitched $100,000 monthly fee for fast feed of president’s posts
+Family company has quoted the six-figure sum for high-speed access to Truth Social platform
+
 ## US chip stocks head for worst week in more than a year
 High-flying semiconductor shares fall as ‘momentum trades’ backfire
 
-## Robert Jenrick’s wife knew in 2024 about foreign payments to his top donor, lawyer claimed
-Police are investigating the legality of donations to the politician during his Conservative Party leadership bid
+## PwC partners set for near-record £900,000 annual pay
+Payout for top ranks of Big Four accounting firm set to rise despite challenging consulting market
 
-## Ukraine’s rift over battlefield strategy breaks into the open
-Sacking of popular defence minister exposes divisions over how to fight Russia
+## Directors’ Deals: Middle East conflict casts shadow over Energean
+Full-year guidance has been lowered and the dividend has been cut
 
-## Warsh’ington times
-The Fed chair offered little new information to Congress on his plans to shake up the central bank
+## Chanel offices searched by Italian authorities in labour abuse probe
+Luxury group has said it is co-operating and has terminated relationship with subcontractor in question
 
-## Jonathan Reynolds set to oversee beefed-up business department
-Incoming prime minister Andy Burnham discussing plans to give ministry more powers over science and energy policy
-
-## Reformation IPO bets fast fashion can keep up with Big Fashion
-Maker of eco-friendly clothes can hold its own against Spanish giant Inditex on several metrics
-
-## EU to give industry more time to pollute and more funds to clean up
-Climate commissioner defends extension of free allowances to heavily emitting sectors
-
-## South East Water warns it is struggling to secure new funding
-Utility blames public and political scrutiny for hurting investor confidence
-
-## Apple briefly leapfrogs Nvidia as world’s most valuable company
-Shares in iPhone maker have escaped AI sell-off that has hit chipmaker
-
-## Netflix shares slide on disappointing growth forecasts
-Streaming giant projects weakest revenue increase in three years
-
-## Chinese AI models narrow cyber gap with US rivals
-UK agency warns cheaper open models could leave companies less time to patch critical vulnerabilities
-
-## ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield
-Oil major will acquire a 42% stake in company as US groups return to Iraq
+## Anglo American poised to sell De Beers diamond business to former CEO
+Botswanan minister says miner has identified one consortium led by Gareth Penny as ‘preferred bidder’
 
 ## CSR must move from compliance to creating impact, say industry leaders
 Vinit Nayar, Founder-Chairman of the Sampark Foundation, argued that the social sector needs the same spirit of innovation and design thinking that transformed India’s IT industry
@@ -108,6 +108,12 @@ Showing a graphic titled "Paper Ka Rate", Gandhi claimed examination papers are 
 ## India-backed Chabahar terminal safe, says MEA; flags safety of civilian assets
 India urged countries in the West Asia conflict to avoid targeting civilian infrastructure.
 
+## Garry Sobers obituary: The cricketer who did not know he was like no one else
+
+
+## ‘That’s me’: Actor Yogita Bihani says she has thalassemia; expert explains condition
+
+
 ## Congress panel wiped out as BJP front wins 15 of 16 seats in Amul’s Surat-Tapi dairy
 
 
@@ -123,13 +129,7 @@ India urged countries in the West Asia conflict to avoid targeting civilian infr
 ## Name deletion under SIR does not mean automatic loss of citizenship, says top court
 
 
-## This historic cannon weighed 3.5 tonnes. Theives still found a way to disappear with it
-
-
-## SIR deadline for Maharashtra extended; voter verification to continue till August 8
-
-
-## How Delhi plans to curb waterlogging on key road connecting national capital and Gurgaon
+## This historic cannon weighed 3.5 tonnes. Thieves still found a way to disappear with it
 
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
@@ -156,6 +156,9 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
+## Inside the Race to Protect Ukrainian
+Kyiv’s language revitalization program seeks to save Ukrainians’ mother tongue through complex state law.
+
 ## What in the World?
 Test yourself on the week of July 11: China introduces AI regulations, Trump briefly imposes a toll on Hormuz, and Congo’s Ebola outbreak spreads.
 
@@ -177,32 +180,29 @@ Trump and Xi have brutally undermined the institutions and personnel responsible
 ## How to Isolate Tehran
 Opening Hormuz requires marrying force with effective diplomacy.
 
-## Latin America’s Oil Boom
-Some exporters are reaping financial benefits amid the Iran war.
+## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
+“When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
 
-## Philippines Issues Formal Protest to China Over ‘Dehumanizing’ State Media Video
-The Department of Foreign Affairs demanded the "immediate takedown” of the AI-generated video, in which the Philippines was depicted as a monkey.
+## The EU’s Contradictory Narratives on China
+Both sides are trying to sustain trade talks and practical cooperation, but the EU’s new security definition of China may complicate this progress.
 
-## The State of Cambodia’s Online Scamming Industry
-A conversation with journalist and advocate Nathan Paul Southern.
+## Europe Still Has Leverage Over China
+Brussels should use the leverage before it slips away.
 
-## More Than 500 Feared Dead After Reported Shipwrecks Off Myanmar’s Coast, UN Says
-The reports come on top of the 300 people already reported missing or drowned in the Andaman Sea and Bay of Bengal in 2026.
+## Is Taiwan Pinning Its Strategy on an Outdated Vision of America?
+Amid generational shifts and Trump-era transactionalism in the U.S., Taiwan should take a page from Singapore’s book.
 
-## New Zealand’s Trade Agreement With India Reflects a Foreign Policy Shift
-The nation is looking to expand and balance its economic and security relationships – and India is at the top of the list.
+## Pakistan Adopts Wait-and-Watch Approach as US and Iran Return to Hostilities
+Pakistan continues to view the Islamabad MoU that it facilitated as the most viable framework for de-escalation.
 
-## Why Gen Z Is Back on the Streets in Bangladesh
-A controversy centered on Bangladesh's Higher Secondary Certificate (HSC) exam brought students back out to protest.
+## Papua New Guinea Just Closed Taiwan’s Economic Office
+Taiwan’s diplomatic space is shrinking along a vital Pacific energy route.
 
-## Why China Will Not Sell 5th-Generation J-35 Fighter Jets to Pakistan (Yet)
-For China, the decision to sell the J-35 would carry ramifications far exceeding those of any previous Chinese arms sale.
+## What India’s Operationalization of Integrated Battle Groups Means for Pakistan
+Since the inception of the IBGs, they have been framed as formations to launch offensive operations against Pakistan under the nuclear overhang. Now they are finally a reality.
 
-## The Gap Between Reform and Local Power in Uzbekistan
-One woman’s attempt to stand for election as mahalla chairperson reveals the barriers that remain to inclusive self-government in Uzbekistan.
-
-## Playing for a Place in the World Through Taiwan’s Baseball Diplomacy
-International sport offers something that conventional diplomacy often cannot: a stage on which Taiwan can appear before a global audience.
+## China, North Korea Exchange High-Level Visits
+The visits extend a string of high-level exchanges as Beijing works to keep pace with Pyongyang’s deepening ties with Moscow.
 
 ## The Fedorov Dismissal: On Trust, Technology, and Turnover
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members.Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iranian forces: missiles and drones fired at US targets in Gulf States
-Iranian forces: missiles and drones fired at US targets in Gulf States.
+## At least three killed and hundreds displaced by heavy rain in Chile
+Chilean President Jose Antonio Kast says that he is travelling to the Biobio region to survey flood damage.
 
-## Apple regains top spot as world’s most valuable company
-Apple regained world’s top spot with $4.88 trillion valuation, overtaking Nvidia which saw a 3.5% market value drop.
+## All-time West Indies cricket great Garfield Sobers dies aged 89
+Arguably the greatest all-rounder of the game, Sobers led the West Indies at his peak, breaking Test cricket records.
 
-## Amazon’s Zoox recalls self-driving vehicles amid emergency response issues
-The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.
+## Germany’s Merz hails nuclear deterrence cooperation with France
+The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.
 
-## Eight killed, at least 34 missing after landslide in China’s Chongqing
-Landslide has buried homes and forced more than 1,100 people to evacuate.
+## Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria
+Germany, stripped of Russian pipeline gas, received Algeria's president with military honours and talked about LNG.
 
-## Pakistan cricketer Nawaz sanctioned after cannabis-related positive test
-Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.
+## Can the US and Iran reach a lasting deal to end the conflict?
+Air strikes intensify raising fear of an all-out war.
 
-## Israeli attacks on Gaza kill 14, including mourners attending funeral
-Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.
+## Life after amputation: Gaza women find recovery through football
+Palestinian women in Gaza who have lost limbs during Israel's genocidal war are using football as a way of recovering.
 
-## ‘They took our toilet’: How a settlement has squeezed a Palestinian village
-An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.
+## World Cup 2026: What did we learn?
+World Cup 2026: What did we learn?
 
-## Plainclothes ICE agents manhandle man during arrest attempt
-Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.
+## Burnham confirmed as Labour leader, vows new direction for UK
+Britain's governing Labour Party confirmed as Andy Burnham as its new leader, clearing the way for him to become PM
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
