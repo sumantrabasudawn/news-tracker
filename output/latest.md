@@ -1,64 +1,76 @@
 # AION Intelligence
 
-## Seven super swimming spots in Europe
-Plunge, swim, steam or bathe in these urban centres
-
-## Can Explora Journeys’ Greek odyssey convert a sceptic?
-The HTSI travel editor takes her first cruise
-
-## Zelenskyy government in turmoil after defence minister fired
-Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
-
 ## US escalates attacks on Iran as it expands range of targets
 American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
+
+## ‘Handsome’ and ‘a great fighter’: Iraq’s new leader woos Washington
+Ali al-Zaidi is seeking to keep Donald Trump onside while not alienating longtime ally Tehran
+
+## The ‘go big or stay home’ economy reshaping live music
+Consumers will spend multiples of an annual streaming subscription for three hours of music at a giant stadium
+
+## Apple targets dozens of OpenAI employees with legal letters
+iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab
+
+## FirstFT: Xi outlines China’s ambitions to challenge US dominance in AI
+Also in today’s newsletter: Netflix shares tumble and a breakthrough in the search for extraterrestrial life
 
 ## Global tech stocks fall as AI trade goes into reverse
 Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout
 
+## Burnham’s industrial revival will join up local needs and strengths
+Forward-looking centre in Rotherham collaborates with business, capitalising on ‘muscle memory’ and existing assets
+
+## Burnham to promise to ‘give back control’ as he is crowned Labour leader
+Incoming prime minister will argue that ‘Britain took a series of wrong turns in the 1980s’
+
+## EQT boosted by strong fundraising momentum and earnings growth
+Shares rally 13% as private equity group’s fee-generating assets under management beat expectations
+
+## Mishcon drops partner exit clampdown after internal pushback
+City law firm wanted to stop lawyers resigning en masse amid hiring boom in London market
+
+## Burberry boosted by healthy US demand as Iran war takes toll
+Shares fall as UK luxury group reports that the Iran war has hit tourist travel and spending in the Middle East
+
 ## Chip and memory stocks slide in fresh bout of Wall Street tumult
 Investors pull away from shares in companies that have led markets higher this year
-
-## The mega-IPO glut comes with a containment problem
-Never let your left hand know what your right hand is doing
-
-## Brussels seeks climate vs industry trade-offs in ETS revamp
-Also in this newsletter: Brussels seeks bigger, simpler banks in competitiveness overhaul
-
-## Burberry returns to growth boosted by US and China demand
-UK luxury brand has been particularly popular with Gen Z consumers
 
 ## Who pays for AI?
 And how much?
 
-## FirstFT: Burnham plans policy blitz
-Also in today’s newsletter: BoE bond sales and Accor’s chief executive
+## Singapore Tourism Board and Traveloka Renew Partnership to Welcome More Southeast Asian and Australian Travellers to Singapore
+Singapore Tourism Board and Traveloka Renew Partnership to Welcome More Southeast Asian and Australian Travellers to Singapore
 
-## London’s Messi relationship with listed companies
-There’s no end in sight for foreign takeovers of UK companies
-
-## Sensex today | Stock Market Live: Nifty breaks past 24,200 as IT stocks surge; broader market lags
-Sensex, Nifty, Share Prices LIVE: Markets extended gains through the afternoon session on Thursday, with the Sensex trading at 77,817.02, up 630.15 points or 0.82%, and the Nifty 50 at 24,219.60, up 146.85 points or 0.61%
-
-## Novo Nordisk’s obesity drug Wegovy gets CDSCO approval to treat liver condition
-The product is the first and only GLP-1 for adults with fatty liver disease in India, Novo Nordisk says
-
-## i2Cool Co-Founder and CEO Prof. Martin Zhu Honoured with 2025 Leader of the Year Young Entrepreneur Award
-i2Cool Co-Founder and CEO Prof. Martin Zhu Honoured with 2025 Leader of the Year Young Entrepreneur Award
-
-## 93.07% Bifaciality Module! Tongwei Leads Intersolar Europe 2026 with Global Launch of TNC 3.0 BIFIMAX Module
-93.07% Bifaciality Module! Tongwei Leads Intersolar Europe 2026 with Global Launch of TNC 3.0 BIFIMAX Module
-
-## Q1 Results Today Live: Havells India Q1 profit declines 15%, The Federal Bank & Central Bank of India profit up, Reliance shares up ahead of results, JSW Steel, Oberoi Realty, Tata Tech to announce Q1 results
+## Q1 Results Today Live: JSW Steel profit doubles, Havells India profit declines, Oberoi Realty, The Federal Bank, Central Bank of India profit up, Reliance & Tata Tech to announce Q1 results
 Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
 
-## Nifty breaks past 24,200 as IT stocks surge; broader market lags
-Tech Mahindra leads Nifty 50 gainers, rising 4.10% to ₹1,572.20
+## Crisil upgrades long-term ratings of Vedanta group companies
+The ratings agency upgraded the long-term ratings of Vedanta, Vedanta Aluminium Metal, and Vedanta Oil & Gas to AA+/stable, removing all three from 'Rating Watch with Developing Implications’
 
-## PSBs expect to raise $30 bn from RBI’s overseas deposit scheme, sources say
-RBI had announced a zero-cost foreign-exchange swap facility for deposits raised from non-resident Indians on June 5
+## Joyalukkas Lifestyle unveils 50-storey luxury residential project in Thrissur
+Spread across 2.2 acres, the development marks the company’s second flagship residential venture following Gold Tower Kochi
 
-## Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf
-The re-escalation in fighting between the ⁠U.S. and Iran has once again largely stopped traffic through Hormuz, the world's most important shipping route for oil and gas, driving up global energy prices
+## Sensex today | Stock Market Highlights: Sensex jumps 965 pts, Nifty ends above 24,334; financials rally ahead of key earnings
+Sensex, Nifty, Share Prices Highlights: Sensex settled 964.58 pts or 1.25% higher at 78,151.45; and Nifty 50 climbed 261.55 pts or 1.09% to 24,334.30.
+
+## Jio Financial shares surge 3% as Q1 profit jumps 156% y-o-y
+Its consolidated net profit for Q1FY27 rallied 156 per cent y-o-y to ₹830 crore.
+
+## Zepto is said to face sharply lower valuation for IPO
+Foreign investors value the company at around $4.5 billion, while some domestic institutional investors estimate it between $3 billion and $3.5 billion
+
+## India's development did not come to standstill despite oil supply crisis: PM Modi
+The prime minister said electrification of Indian Railways began in 1925, almost 100 years ago but in the nine decades from then to 2014 only 30% of the country's railway network was electrified
+
+## Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan
+India's first bullet train project between Mumbai and Ahmedabad is progressing well. Initial operations will commence using Indian high-speed trains in 2027. Japan's next-generation E10 Shinkansen trains will be introduced later, after 2030. The first operational stretch will connect Surat and Bilim
+
+## LPG subsidy bill races beyond budget, may hit Rs 1 lakh crore this fiscal
+LPG subsidy spending may surpass one lakh crore rupees in FY27. This projection significantly exceeds the budget's thirty thousand crore rupee allocation. Higher fuel prices and ongoing war uncertainty are driving this increased subsidy burden. Government finances face pressure from these rising sub
+
+## Niti Aayog's roadmap to turn India into $691 billion bioeconomy
+NITI Aayog proposes six national initiatives for India's biotechnology sector. This roadmap aims for a $691 billion bioeconomy by the year 2035. These missions will strengthen capabilities in healthcare and agriculture. They also focus on industrial biotechnology and disease surveillance. The plan i
 
 ## Why India's first hydrogen train is special - explained
 With the launch of a hydrogen train, India has undoubtedly taken a big leap in the sphere of greener transportation. India’s first hydrogen-powered train has 10 coaches, with the capacity to carry 2,600 passengers. It will run between Jind and Sonipat in Haryana.
@@ -75,62 +87,56 @@ The sharp rally in Indian equities came even as global markets remained under he
 ## India’s First Hydrogen-Powered Train Flagged Off by PM Modi: 10 Facts & Photos You Shouldn’t Miss
 ​India’s first hydrogen-powered train has been launched! Marking a major milestone for Indian Railways, the country’s first hydrogen was flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard using hy
 
-## India's first hydrogen-powered train flagged off by PM Modi; check route, timings, how it works
-India’s first hydrogen train is a 10-coach passenger offering. According to Indian Railways, globally the few operational or under testing hydrogen trains have 2-3 passenger coaches, making India’s first hydrogen train the longest of its type in the world.
+## ‘Government stands with the kanwariyas’: CM Yogi assures security to pilgrims, urges discipline
+The Uttar Pradesh CM urged kanwariyas to maintain discipline and uphold Lord Ram's 'maryada' (dignity), Lord Krishna's values and Lord Shiva's simplicity
 
-## Rupee rises 14 paise in early trade as Dalal Street cheers; oil adds limited gains
-The rupee opened stronger against the US dollar on Friday, gaining fourteen paise in early trade. Upbeat equity markets provided support for the domestic currency's early gains. However, sustained foreign fund outflows and firm crude oil prices capped further appreciation. Geopolitical tensions in t
+## 'You ignored because she was poor?': Supreme Court lambasts doctor, hospital for denying care to 4-year-old rape victim
+The three-judge bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana also questioned the doctor and the hospital’s empathy.
 
-## Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh & Punjab
-Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off India's first hydrogen-powered train from
+## When Indira Gandhi met Sonam Wangyal, Wangchuk's father, in Ladakh: 1984 story that brought Cong to CJP stage finally
+Congress MP Pawan Khera became an official party face to physically visit the protest site on Friday, July 17, meeting Sonam Wangchuk.
 
-## 'Had gone just to ask for money': Accused in Delhi IRS officer's daughter's rape-murder tells cops
-Police said accused Rahul Meena entered the house early morning on April 22 using prior knowledge of a spare key while the victim was alone, and raped her.
+## Sonam Wangchuk loses 9.5 kg weight after twenty days of hunger strike, vows to 'live till July 20 at any cost'
+The doctors noted that Wangchuk showed signs of mild dehydration but remained mentally alert.
 
-## Meet Tukaram Mundhe: 25 transfers in 21 years, now the face of food safety raids across Maharashtra
-IAS officer Tukaram Mundhe took charge as Maharashtra’s FDA commissioner on May 25. Since then, raids have been conducted on wholesalers, manufacturers, etc.
+## 'Showing a spine against govt not easy': RJD on Aamir Khan's comment on Sonam Wangchuk
+RJD MP Manoj Jha criticized Aamir Khan's recent comments about Phunsukh Wangdu's inspiration, questioning the timing of his clarification.
 
-## ‘Shows the govt is heartless’: Not only Sonam Wangchuk, AISA activists on parallel hunger strike ‘at high risk’ too
-AISA said the three would continue hunger strike in solidarity with Wangchuk. Doctor who examined the activists offered a grim assessment of their vitals.
+## 'Govt must listen, not look away': Cong's Pawan Khera meets Sonam Wangchuk, says 'protest is a constitutional right'
+The Congress leader recalled the engagement of former prime ministers Manmohan Singh and Indira Gandhi with protesters
 
-## Congress leader dies at Dehradun school during 'Chhatron Ki Goonj' preparations ahead of Rahul Gandhi's visit
-Congress leader Amar Mehta sustained fatal injuries after an iron cutter fell on his head at the venue as the preparations were underway for the programme.
+## JeM terror module case: Gujarat ATS arrests five more accused
+The arrests were made following disclosures during the police remand of the eight accused arrested earlier in the case registered under the Unlawful Activities (Prevention) Act (UAPA)
 
-## Terms of Trade: BJP’s different approach to different oppositions
-The government failing to muster a two-third majority to pass a bill that clubbed the rollout of women’s reservation with the delimitation of constituencies
+## India's first hydrogen-powered train flagged off: Key features, route and what makes it special
+Powered by a 3,200-horsepower propulsion system, the 10-coach train is among the world's longest and most powerful
 
-## 'Don't accept resignations': Govt tightens rules for ISRO exits amid mass appeals to quit
-The department has directed ISRO centres not to routinely accept resignation or voluntary retirement requests from Group 'A' scientific and technical personnel.
-
-## MH-60R Seahawk delivered to India, 2 more on the way: All about ace chopper central to US defence ties
-Another MH-60R Seahawk had been delivered to the Indian Navy in Kochi last week, with two more helicopters expected to arrive this week.
-
-## ‘Will study SC order, take appropriate steps,’ says collector on Bhojshala issue
-The administration said it would study the Supreme Court's directions before taking steps to ensure peace and implement the order.
-
-## NEET UG: Panshul Bansal grabs AIR 2 and a perfect Physics score, all without giving up video games
+## What is BIMSTEC, and why is it in focus ahead of its 30th anniversary?
 
 
-## Moonshot AI unveils Kimi K3, the world’s largest open-weight AI model: What to know
+## Modi launches India’s first hydrogen train in Haryana, calls it Make in India milestone
 
 
-## ‘Narrative has to be built… we were lacking’: General Naravane on Op Sindoor
+## CBI arrests Karnataka pharma firm MD in bribery case; seizes cash, gold
 
 
-## ‘Delayed possession’: Builder ordered to refund Rs 80.38 lakh to Himachal homebuyers
+## Why NBC and ABC skipped Trump’s primetime address despite severe threats of sanctions
 
 
-## ‘Some are trying to end Parth’s political career’: Internal NCP letter exposes party rift
+## Ranveer Singh goes to extremes to hide his new look for Pralay, watch
 
 
-## Kerala DHSE Plus One (+1) Result 2026: Websites to check – results.hse.kerala.gov.in, keralaresults.nic.in
+## Trump moves to replace foreign truckers with veterans: What it means for Indian drivers in the US
 
 
-## Are you hungry?’: Meet Gurgaon bus conductor who walked through rain to feed 18 students
+## Argentina almost lost Messi to Spain. A payphone hunt saved him
 
 
-## ‘It’s not a film, it’s an opera’: Anurag Kashyap heaps praise on Satyadev’s Rao Bahadur
+## Brussels-Chandigarh flight cancelled last moment, Army officer wins Rs 1.12 lakh
 
+
+## Hong Kong’s office market: Central booms, but noncore areas struggle
+Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say. The reluctance of banks to finance commercial-property purchases has reinforced the split, a
 
 ## Shein passes hearing for Hong Kong listing as valuation halves to below US$50b, sources say
 Online fast-fashion giant Shein has cleared its listing hearing with the Hong Kong stock exchange, according to people familiar with the matter, bringing it a step closer to an initial public offering (IPO) after attempts to float in New York and London stalled. The Singapore-headquartered company, 
@@ -152,9 +158,6 @@ Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of 
 
 ## AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director
 Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealth management industry, according to a director of Hong Kong Exchanges and Cleari
-
-## Citic Capital CEO on making China a financial powerhouse
-Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong as well as Harbin Pharmaceutical Group
 
 ## The America First Contradiction
 A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
@@ -180,6 +183,15 @@ Moscow is targeting trade routes and deepwater ports to strain Ukraine’s warti
 ## Will Hasina Return to Bangladesh?
 The former prime minister set a timeline for her homecoming, despite the threat of arrest.
 
+## Philippines Issues Formal Protest to China Over ‘Dehumanizing’ State Media Video
+The Department of Foreign Affairs demanded the "immediate takedown” of the AI-generated video, in which the Philippines was depicted as a monkey.
+
+## The State of Cambodia’s Online Scamming Industry
+A conversation with journalist and advocate Nathan Paul Southern.
+
+## More Than 500 Feared Dead After Reported Shipwrecks Off Myanmar’s Coast, UN Says
+The reports come on top of the 300 people already reported missing or drowned in the Andaman Sea and Bay of Bengal in 2026.
+
 ## New Zealand’s Trade Agreement With India Reflects a Foreign Policy Shift
 The nation is looking to expand and balance its economic and security relationships – and India is at the top of the list.
 
@@ -194,15 +206,6 @@ One woman’s attempt to stand for election as mahalla chairperson reveals the b
 
 ## Playing for a Place in the World Through Taiwan’s Baseball Diplomacy
 International sport offers something that conventional diplomacy often cannot: a stage on which Taiwan can appear before a global audience.
-
-## How Water Is Becoming Pakistan’s Nuclear Threshold
-The real danger lies not in the immediate scarcity of Indus water flowing from India into Pakistan but in the widening gap between how they interpret the same facts.
-
-## What the West Bengal Egg Row Says About Indian Society
-The BJP government, whose support base includes traditionalist Hindus, moved to drop eggs from the midday meal program in Kolkata.
-
-## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
-The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
 
 ## The Blood Bank and the Logistics of Wartime Medicine
 Before the twentieth century gave armies antibiotics, the leading killer of American soldiers in wartime was neither enemy fire nor shrapnel. Two-thirds of the roughly 620,000 deaths in the U.S. Civil War came from diseases like typhoid and dysentery. Spread through contaminated water and crowded ca
@@ -252,32 +255,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Gulf states come under Iranian fire as US strikes intensify
-Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.
+## India debuts hydrogen-powered train as part of sustainability drive
+India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.
 
-## US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?
-Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes.
+## World Cup third-place playoff: What are France and England playing for?
+Didier Deschamps takes charge ⁠of Les Bleus for the final time while Kylian Mbappe is chasing individual history.
 
-## Why is Pakistan’s Sindh province facing a major child HIV outbreak?
-The latest outbreak linked to a Karachi hospital is the newest in a series that experts say reflects systemic failures.
+## Knesset dissolves: How will Israel vote in October’s general election?
+Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.
 
-## John Esposito transformed how the West understood Islam
-The pioneering scholar, who died on July 15, challenged Orientalist orthodoxies and reshaped the study of Islam.
+## Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?
+Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.
 
-## China’s Xi says AI ‘should not be a solo performance by a single country’
-The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.
+## As Chinese economy slows, experts say there will be ‘problems for Beijing’
+While the 'export engine is running very hot', jobs are lagging, squeezing spending in China.
 
-## Texas floods ravage through southwestern areas of state
-At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.
+## FIFA World Cup: 10 things to know before Spain-Argentina final in New York
+From the viral photo of Lionel Messi with baby Lamine Yamal to Donald Trump's presence and the NFL-style half-time show.
 
-## Key takeaways from Donald Trump’s controversial speech on election security
-The president claimed China and 'deep state' actors had deceived US voters, but critics say his claims were misleading.
+## Israel headed for October election as parliament dissolved
+PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.
 
-## US bombards Iran in sixth-straight night of attacks
-The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.
+## Germany repeats call for EU force to replace UN peacekeepers in Lebanon
+Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
+
+## Cube Highways' public listing to strengthen access to capital for next growth phase: CFO Pankaj Vasani
+Cube Highways Trust's Rs 5,000 crore public issue marks a strategic transition beyond an Offer for Sale, with the listed InvIT looking to broaden its investor base, improve access to capital markets and support long term growth, says Group Chief Financial Officer Pankaj Vasani.
 
 ## Vanishing jobs in finance
 Globally, banks and financial institutions are rethinking workforce requirements as AI and automation become mainstream. Standard Chartered recently announced plans to reduce thousands of jobs over the next few years while accelerating AI adoption. Global lenders such as Citi, UBS, HSBC and Morgan S
@@ -297,8 +303,8 @@ Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard ag
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
-## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
-The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
+## NSE gets rare 'sell' rating ahead of planned IPO
+The National Stock Exchange of India (NSE) has received a 'sell' recommendation from a domestic brokerage ahead of its much-anticipated initial public offering (IPO), with Dolat Capital Markets warning that regulatory changes in the country's derivatives market could weigh on the exchange's future g
 
 ## Govt to replace WPI with Producer Price Index for future procurement contracts
 In a bid to modernize inflation measurement, the government is set to replace the Wholesale Price Index with the Producer Price Index for future government contracts and price changes. This initiative seeks to align India's procurement processes with global inflation metrics. Ministries are urged to
@@ -320,7 +326,4 @@ Revised RBI norms on bank guarantees could squeeze proprietary traders by sharpl
 
 ## India, Brazil agree to cooperate on digital labour platforms, skills, social protection: Union minister Shobha Karandlaje
 During the meeting, the Indian side shared details of the country's Digital Public Infrastructure for labour, including the National Career Service Portal and the e-Shram Portal, described as the world's largest database of informal sector workers.
-
-## RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines
-Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the gov
 
