@@ -1,67 +1,76 @@
 # AION Intelligence
 
-## Chinese AI start-up Moonshot launches model challenging Anthropic’s lead
-Kimi K3 shows narrowing gap between US and China on frontier AI
-
-## US escalates attacks on Iran as it expands range of targets
-American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
-
-## FirstFT: Ukraine plunged into political turmoil after Zelenskyy fires defence minister
-Also in today’s newsletter: China’s largest AI model to date and South Korea’s first rate rise in three years
-
 ## US chip and memory stocks slide in fresh bout of Wall Street tumult
 Investors pull away from shares in companies that have led markets higher this year
 
-## Blanche to meet Epstein’s victims after senator’s confirmation ultimatum
-Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination
+## London’s Messi relationship with listed companies
+There’s no end in sight for foreign takeovers of UK companies
 
-## Trump Media to sell high-speed access to president’s social media posts
-Family company hopes large trading firms will pay for market-moving social media posts milliseconds early
+## EU climate chief backs support for heavy industry while delaying emissions curbs
+Wopke Hoekstra confirms planned reduction in carbon permits will be softened
 
-## Trump set to deliver primetime speech on election integrity
-The president has pre-emptively cast doubt on the security and validity of November’s midterms in recent months
+## The year-long plan to make Burnham Labour leader
+Project ‘ABC’, Andy by conference, succeeds with two months to spare
 
-## Netflix shares slide on disappointing growth forecasts
-Streaming giant projects weakest revenue increase in three years
+## UK mortgage rates rise again after resumption of Middle East hostilities
+Several big lenders raised their fixed rates by as much as 0.35 percentage points
 
-## Should private credit be public?
-The case for letting investors into private markets
+## South Korean market’s extreme volatility alarms regulators
+Policymakers fear trading is being driven more by leverage than fundamentals
 
-## Dassault Systèmes in talks to buy drug trial software company for about $2bn
-Potential purchase of ArisGlobal from Swedish buyout group would boost French conglomerate’s push into life sciences
+## Why Iran is returning to war
+Its rulers believe that further escalation will force the US to offer the security and economic relief it craves
 
-## Advisers overseeing billions of pounds to leave St James’s Place
-Prospera and Wellesley have both left SJP, according to the FCA’s register
+## How far will Iran go for the Strait of Hormuz?
+After years of stand-off over Tehran’s nuclear programme, the waterway is now at the heart of the regime’s confrontation with the US
 
-## Monte dei Paschi claims €30.6bn bid from Intesa ‘undervalues’ bank
-MPS’s board says offer carries regulatory and execution risk, leaving door open to potential tie-up with Banco BPM
+## Anglian Water hands chief £1.3mn in retention pay despite bonus curbs
+Nearly two-thirds of £1.9mn pay package paid by parent company unregulated by Ofwat
 
-## ‘We plan to raise ore output to 12 lakh tonnes annually with ₹1,200 cr investment’
-Expansion, renewable energy, and ferrochrome capacity additions position IMFA for sustained growth ahead
+## A Europe that’s losing at tech could still achieve quantum supremacy
+The UK and EU have committed twice as much money as the US to investments in the computing sector
 
-## Pfizer suspends Premarin vaginal cream in India, raising concerns over menopause care
-Pfizer said it is working to restore Premarin supplies but has not provided a timeline
+## ‘The Odyssey’ leads the box office charge for a record 2026
+Summer numbers on course to be the best since 2019 as filmmaking capacity recovers after the pandemic and strikes
 
-## US introduces four-year limit for student and exchange visas, ends indefinite stay policy
-Under the new rule, F and J visa holders can stay for up to four years, with extensions requiring biometric checks and federal approval.
+## Imitation Games — how football became betting’s biggest winner
+Darragh McGee’s damning exposé connects the rapid rise of digital gambling with the Premier League’s success
 
-## Trump Media announces Truth PSI, a premium feed for faster access to Truth Social posts
-The move has raised ethical concerns because President Donald Trump’s Truth Social posts often influence financial markets
+## Sensex today | Stock Market Live: Sensex jumps over 420 points; Nifty tops 24,150 ahead of heavyweight earnings
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Friday, with the Sensex rising over 370 points, as investors awaited earnings from Reliance Industries, HDFC Bank and ICICI Bank despite elevated crude oil prices and continued foreign fund outflows.
 
-## NEET UG 2026 results: Punjab’s Aryan Gupta, Haryana’s Panshul Bansal top; 11.21 lakh qualify
-Women accounted for over 58 per cent of NEET-UG 2026 qualifiers, while Uttar Pradesh produced the highest number of successful candidates. The top 17 rankers hailed from eight states
+## Bank earnings ahead: What should investors keep an eye out for amid margin boost hopes, leadership changes?
+Foreign currency deposits from non-residents should improve liquidity after the RBI said it would bear the cost of currency hedging, says Nomura
 
-## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
-Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
+## Adani Enterprises arm to acquire remaining 44.6% stake in flight training firm FSSPL
+After the transaction, FSSPL will become a wholly owned subsidiary of ADSTL and ADSTL’s effective stake in FSTC, a subsidiary of FSSPL, will increase from 72.8% to 100%
 
-## SBI Funds Management IPO subscribed 41.66 times on final day, driven by QIBs demand
-The ₹9,813-crore IPO received bids for ₹2.98 lakh crore
+## Q1 Results Today Live: Reliance Industries, JSW Steel, Havells, Oberoi Realty, Tata Tech to announce Q1 results, Wipro, Tech Mahindra, Jio, ITC Hotels, CEAT, Polycab, BHEL shares in focus
+Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
 
-## South Indian Bank posts 17% rise in net profit to ₹378 crore
-P R Seshadri, MD & CEO, noted consistent growth in targeted segments, focusing on quality asset acquisition in corporate lending, auto loans, and gold loans
+## Exterro's ARMOURop Delivers a Force Multiplier for Digital Forensic Labs, Slashing Evidence Review Time by Up to 95%
+Exterro's ARMOURop Delivers a Force Multiplier for Digital Forensic Labs, Slashing Evidence Review Time by Up to 95%
+
+## India bonds seen steady ahead of fresh debt supply
+The benchmark 6.94% ​2036 bond yield is expected to move between ⁠6.72% and 6.76%, a trader at a private bank said
+
+## Gold is set for weekly fall amid West Asia tensions. What’s ahead?
+Bullion edged higher on Friday to near $3,980 an ounce, but was down 3.4% on the week so far
+
+## Parliamentary panel raises concerns over higher education regulator proposed in VBSA Bill
+The Bill proposes replacing the UGC, AICTE and NCTE with a single higher education regulator
 
 ## India's first hydrogen-powered train to be flagged off on July 17: 10 facts and photos you shouldn't miss
 India’s first hydrogen-powered train is ready for launch! Marking a major milestone for Indian Railways, the country’s first hydrogen will be flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard usi
+
+## Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh & Punjab
+Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off India's first hydrogen-powered train from
+
+## Where are gold and silver prices heading? Inflation, oil and Fed bets hold the key
+
+
+## Crude heads for biggest weekly gain in months amid intensifying Middle East crisis
+Oil prices surged as escalating US-Iran military tensions raised supply disruption concerns. Brent crude traded at $85.34 and WTI crude at $80.08 per barrel. Recent US strikes aimed to degrade Iranian military capabilities, while Iran retaliated against regional allies. Renewed hostilities revived f
 
 ## Fuel-saving tech may be rewarded
 New fuel efficiency rules may reward various fuel-saving technologies. Manufacturers can earn compliance benefits for technologies like start-stop systems. These approved technologies will offer credits equivalent to grams of CO2 per kilometer. This framework encourages wider deployment of features 
@@ -75,62 +84,62 @@ Works on a model of larger, milestone-linked funding
 ## Banks can't sell back seized assets to defaulters: RBI
 RBI has barred defaulting borrowers from repurchasing seized properties. New directions effective October 1, 2026, tighten norms for stressed accounts. Banks must adopt board-approved policies for asset recognition and recovery efforts. Assets must be disposed of through public auctions within seven
 
-## MG eyes up to 80% sales from 'new energy' vehicles
-JSW MG Motor India is increasing its focus on new-energy vehicles this year. Higher fuel costs and awareness of savings are driving EV adoption significantly. The company expects new-energy vehicles to comprise eighty percent of its total sales. MG will introduce its first plug-in hybrid later this 
+## ‘Missing body not missing murder’: SC says accused can be convicted even if victim's body never found
+The ruling states that an accused can be convicted of murder even in the absence of the dead body, alienating perpetrators from escaping justice.
 
-## Wipro Q1 trails peers; revenue down 1.4% to $2.6 bn
+## ‘Studied for 17 hours’: NEET topper Aryan Gupta with 715/720 shares secret to success
+Aryan Gupta emerged as the top scorer in NEET UG 2026, securing All India Rank (AIR) 1. He also advised other aspirants to listen to their teachers.
 
+## SC acts after courtroom chaos, tightens rules for litigants-in-person
+The decision was taken at a full court meeting of all Supreme Court judges on Wednesday and announced through an official statement on Thursday
 
-## Govt to take steps to boost liquidity for small biz
-The government plans new tools to boost liquidity for micro, small, and medium enterprises. Amendments to the MSME Development Act will be moved in Parliament soon. These changes aim to remove business hurdles and improve cash flow for these crucial companies. A new online dispute resolution mechani
+## TN govt bus driver held for sexually harassing girl
+A 36-year-old government bus driver was arrested for allegedly sexually harassing a four-year-old girl near Coimbatore, police said on Thursday
 
-## NEET UG 2026 state-wise toppers list: Check top rankers from every state
-Aryan Gupta of Punjab and Panshul Bansal of Haryana jointly secured the highest score of 715 out of 720.
+## Hyderabad private school teacher terminated over religious homework
+A private school teacher was terminated on Thursday for allegedly assigning practise of Islamic verses as homework to a Class 2 Hindu student in Hyderabad’s Old City, following protests by the child’s parents
 
-## NEET UG results 2026: Full list of 138 candidates who scored 690 marks or above
-Nearly 20 lakh candidates appeared for the exam, which was held on June 21 at 5,440 centres across 551 cities in India and 14 cities abroad.
+## Cabinet rejig delayed as Kharge misses key meet
+BENGALURU: The Congress leadership pushed back a decision on expanding Karnataka’s council of ministers until next week after party president Mallikarjun Kharge was unable to attend a key meeting in New Delhi, delaying what leaders expected would be the final round of consultations, leaders in the k
 
-## ‘Politics must have room for humanity,’ says Omar, wonders why govt has not met Sonam Wangchuk yet
-Omar Abdullah noted that the activist has only one demand: the resignation of Union Education Minister Dharmendra Pradhan.
+## Woman kills husband, attempts to kill son in Dharwad, arrested
+Bidar A 40-year-old ophthalmologist has been arrested for murdering her 43-year-old husband, an anesthesiologist, and attempting to kill their eight-year-old son in Karnataka’s Dharwad, police said on Thursday, adding that the accused later tried to die by suicide
 
-## NEET UG results 2026: Aryan Gupta, Panshul Bansal top exam; score 715 out of 720
-Among those who qualified, 58 per cent were women. The qualifying rate stood at 56.8 per cent for women and 55.1 per cent for men.
+## 7 escape in Vizag as fishing boat capsizes
+Seven fishermen had a narrow escape after their fishing boat capsized near the Visakhapatnam Fishing Harbour on Thursday morning amid rough sea conditions triggered by a well-marked low-pressure area over the Bay of Bengal along the Odisha coast, officials said
 
-## Women outshine men in NEET UG 2026; make up over 58% of qualifiers
-The NEET UG re-exam was held on June 21 after the exam held on May 3 was cancelled over alleged paper leak.
-
-## NEET UG 2026 results declared, 11.21 lakh candidates qualify | See how to check scorecard here
-The highest score of 715 out of 720 in the examination was obtained jointly by Aryan Gupta (Punjab) and Panshul Bansal (Haryana).
-
-## 'Don't appoint Smriti Irani in place of Dharmendra Pradhan': AAP leader's dig at BJP from CJP protest
-The CJP announced that they will march towards the Parliament on Monday, July 20, to make the government listen to them.
-
-## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
-"Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
-
-## At FIFA World Cup 2026, a game bigger than its grand spectacle
+## Akali Dal appeals to PM to announce reopening of Kartarpur Corridor
 
 
-## Why some lean and healthy people still experience blood sugar spikes
+## DHSE Kerala Plus One Result 2026 Live Updates: Results likely today dhsekerala.gov.in, results.hse.kerala.gov.in
 
 
-## Ahead of the India-US deal, strike a careful balance
+## Sindhu makes Japan Open semifinal after Nozomi Okuhara withdrawal
 
 
-## After ‘new kidney or euthanasia’ demand, what Kota administration promised 5 new mothers
+## Kiran Rao backs Sonam Wangchuk as Aamir Khan denies 3 Idiots’ Rancho was based on him
 
 
-## US-Iran War News Live Updates: Washington launches fresh wave of strikes as war with Iran shows little sign of de-escalating
+## Milind Soman skips tea and coffee: What the habit means for health
 
 
-## Vessels to and from India among top applicants for Strait of Hormuz passage
+## Aamir Khan denies 3 Idiots’ Rancho was inspired by Sonam Wangchuk: ‘Chatur was wrong’
 
 
-## US latest on immigration: Shrink visa duration for students, media
+## Daily Briefing: Sonam Wangchuk’s fast under court watch; The Odyssey releases today
 
 
-## ‘ISKCON can bring peace’: CM Suvendu Adhikari reiterates veg midday meals in Kolkata schools
+## Gambhir and Kohli spoke to each other about 10 times today, says batting coach Kotak
 
+
+## AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director
+Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealth management industry, according to a director of Hong Kong Exchanges and Cleari
+
+## Citic Capital CEO on making China a financial powerhouse
+Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong as well as Harbin Pharmaceutical Group
+
+## Hong Kong exchange returns IPO application sponsored by top Chinese investment bank
+The Hong Kong stock exchange has returned an IPO application sponsored by China’s leading investment bank, sending a strong signal of increased scrutiny. The listing application for Inner Mongolia Xingye Silver & Tin Mining, which is already listed on the A-share market in Shenzhen, was returned by 
 
 ## Retail rift: Hong Kong shops plead for rent relief, landlords see improving market
 Although retail sales in Hong Kong rose more than 10 per cent year on year in the first five months of 2026, a wave of shop closures continues, leaving tenants and landlords with vastly different assessments of the retail leasing market. Many tenants say that despite racking their brains for solutio
@@ -146,15 +155,6 @@ Chinese handset vendor OnePlus is retreating from the US and European markets am
 
 ## CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund
 As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the semiconductor industry. The 60-year-old stock investor from southwestern Sichuan 
-
-## China memory-chip maker CXMT set for mega IPO
-Subscriptions began on Thursday for shares in memory-chip maker ChangXin Memory Technologies (CXMT) ahead of its listing on Shanghai’s Star Market in what could be mainland China’s second biggest initial public offering. With pricing set at 8.66 yuan (US$1.28) per share, the IPO of nearly 6.7 billio
-
-## BYD aims to build 3,000 ‘flash-charging’ stations across Europe within months
-Chinese electric car giant BYD is building a network of 6,000 charging stations in overseas markets including Europe, as it looks to turbocharge its deliveries with the roll-out of cutting-edge flash-charging technology. The world’s largest electric vehicle (EV) maker aims to have 3,000 charging sta
-
-## Ex-World Bank official warns to diversify away from US markets, people ‘will suffer’
-A coordinated push towards global market diversification is urgently needed to shield savers from a potentially dangerous valuation correction in highly concentrated US equities, a former World Bank official has warned. Speaking at an event in Hong Kong on Thursday, Ian Goldin, the former World Bank
 
 ## The America First Contradiction
 A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
@@ -180,6 +180,9 @@ Moscow is targeting trade routes and deepwater ports to strain Ukraine’s warti
 ## Will Hasina Return to Bangladesh?
 The former prime minister set a timeline for her homecoming, despite the threat of arrest.
 
+## New Zealand’s Trade Agreement With India Reflects a Foreign Policy Shift
+The nation is looking to expand and balance its economic and security relationships – and India is at the top of the list.
+
 ## Why Gen Z Is Back on the Streets in Bangladesh
 A controversy centered on Bangladesh's Higher Secondary Certificate (HSC) exam brought students back out to protest.
 
@@ -200,9 +203,6 @@ The BJP government, whose support base includes traditionalist Hindus, moved to 
 
 ## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
 The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
-
-## Bloomberg Ordered to Pay $357,000 in Damages After Losing Singapore Defamation Case
-The High Court ruled that a 2024 article on the city-state's luxury real estate market maliciously defamed ministers Tan See Leng and K. Shanmugam.
 
 ## Reading through the Lines of the FY2027 NDAA
 The relationship between Congress and the Pentagon over the past year has been marked by public disagreements and frustrations over lawmakers’ concerns about the Iran War, and by what some lawmakers view as politically motivated firings of top military leaders. In many ways, the House and Senate ver
@@ -252,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Falling debris from intercepted Iranian strikes sparks fires in Kuwait
-Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.
+## China rebukes UK over nationalisation of British Steel
+The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.
 
-## Brazilian football legend Pele’s World Cup shirt sells for $4.9m
-The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.
+## Which players are favourites to be FIFA World Cup 2026 award winners?
+Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.
 
-## Iran war live: US carries out strikes on civilian infrastructure in south
-Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won't return to pre-war status.
+## Iranian sources say US strikes hit civilian infrastructure
+Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.
 
-## Venezuela earthquake: Number of known dead rises to nearly 5,000 victims
-The UN estimates 50,000 are missing, with many more feared dead under the rubble as the focus shifts to rebuilding.
+## IEA chief warns Strait of Hormuz crisis threatens global energy security
+Fatih Birol says 'oil security is still a critical issue' and world should be 'worried' if situation does not improve.
 
-## Vietnamese activist Bao Ngoc places rare national spotlight on Gaza
-Activist Bao Ngoc draws attention to plight of Palestinians in country where protest is tightly controlled.
+## Goa’s forgotten orchata drink lives on in family kitchens
+Once reserved for elite Catholic households, this almond drink survives thanks to Goans preserving tradition.
 
-## Qatar rejects Israeli reports of military action against Iran
-Qatar has rejected Israeli media reports claiming the Qataris agreed to participate in military action against Iran.
+## How three Ivorian firms are competing with global brands
+Homegrown firms are gaining ground in Ivory Coast's fuel, finance and cosmetics sectors.
 
-## Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers
-PM Keir Starmer's final honours list also includes campaigners, military leaders and senior civil servants.
+## ‘Trump Accounts’ are symbolic, not effective at closing wealth gap
+The wealth gap is wider than it’s been in three decades.
 
-## Former Italian motorway chief sentenced over bridge collapse
-The former CEO of Italy’s main highway operator has been given 12 years in prison.
+## North Korean leader Kim Jong Un meets with top Chinese official
+The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.
+
+## Vanishing jobs in finance
+Globally, banks and financial institutions are rethinking workforce requirements as AI and automation become mainstream. Standard Chartered recently announced plans to reduce thousands of jobs over the next few years while accelerating AI adoption. Global lenders such as Citi, UBS, HSBC and Morgan S
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
@@ -296,9 +299,6 @@ The finance function has seen a continued transformation over the last couple of
 
 ## CBIC allows self-certification for origin declarations under India-UK CETA
 The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular operationalising the self-certification framework for origin declarations under the India-UK Comprehensive Economic and Trade Agreement (CETA), which comes into force on July 15, 2026. The move replaces the conventional sys
-
-## GST law panel clears proposal to shield buyers' input tax credit from supplier defaults
-A GST Council proposal will protect buyers from losing input tax credit. This protection applies if suppliers fail to deposit taxes with the government.
 
 ## RBI to counter USD/INR volatility aggressively amid geopolitical crude shock: Kotak Securities' Anindya Banerjee
 The Reserve Bank of India (RBI) is expected to aggressively intervene in the currency markets if the rupee faces excessive downward pressure toward the 98 to 100 mark, though short-term capital inflows will provide a major cushion against global energy shocks, according to Anindya Banerjee, Head of 
