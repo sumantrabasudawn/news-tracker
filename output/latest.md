@@ -60,29 +60,29 @@ Revenue increased 10 per cent to ₹47,364 crore (₹43,147 crore)
 ## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
 
 
+## Textile sector to sew loose ends as FTAs kick in
+New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
+
+## NITI index: Gujarat, Maharashtra lead in wooing investors
+
+
+## Sensex soars 965 pts as Q1 results lift mood on Dalaal-Street
+
+
+## Pin code wars: Quick commerce cos add 900 dark stores in 3 months
+
+
+## 'Front-running patterns seen in PMS by Sebi's AI tools'
+Sebi is extensively deploying artificial intelligence tools for market surveillance. These advanced capabilities are generating actionable alerts for regulators. Patterns from these alerts suggest front-running is occurring within the PMS industry. The regulator is adopting a supportive approach for
+
+## RBI may look through price worries, high credit growth
+RBI governor Sanjay Malhotra indicated no immediate policy reaction to current inflation. He described price pressures as contained, attributing them to supply-side factors. Growth remains resilient, supported by domestic demand and investment. Credit expansion is brisk, with RBI monitoring fast-gro
+
+## Smartphone sales decline 10% in Q1, biggest in 3 years
+Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
+
 ## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
 Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
-
-## Which states are the most investor friendly? Gujarat tops Niti Aayog index; Maharashtra & Tamil Nadu rank next
-The index evaluates states and UTs across eight key pillars: infrastructure, business climate, resources, government policy, regulatory ease, institutional environment, financial health and environmental resilience.
-
-## SpaceX shares fall! Market cap of Elon Musk-led firm set to see $1 trillion drop from all-time high
-After dropping as much as 6.9% in early US trading to $122.12 per share, the stock recovered some of its losses. At that level, the company's market value stood at $1.61 trillion, down from its high of $2.64 trillion seen at the close of June 16.
-
-## Apple overtakes Nvidia to become world's most valuable company again
-Apple Inc. has regained its position as the world's most valuable company. Nvidia's stock experienced a sharp decline, reducing its market capitalization significantly. Investors are now favoring companies with strong long-term growth prospects over AI boom beneficiaries. Apple's recent share surge 
-
-## RIL Q2 FY27 results: Reliance Industries beats estimates with record quarterly EBITDA; revenue rises 25% yoy
-RIL results: Revenue from operations rose 25% year-on-year to Rs 3.11 lakh crore in the June quarter, compared with Rs 2.48 lakh crore in the same quarter last year. Quarterly EBITDA increased 10% from a year earlier to Rs 54,067 crore.
-
-## US stock market today: Fresh selling in AI-related stocks drags indices down; oil prices rise
-The S&P 500 declined 1.3%, putting it on course for its first weekly loss in three weeks and only its third losing week in the past 16. As of 9:35 a.m. Eastern time, the Dow Jones Industrial Average had fallen 451 points, or 0.9%, while the Nasdaq Composite was down 2.1%.
-
-## Strait of Hormuz closure: Why crude oil prices haven’t spiralled out of control amid US-Iran conflict
-Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one we
-
-## India's current account deficit likely to widen to 1.5% of GDP in FY27 as higher oil prices weigh: Report
-India's current account deficit is projected to widen significantly by fiscal year 2027. Higher crude oil and commodity prices will drive this projected increase in the deficit. Merchandise imports grew faster than exports in June, widening the trade gap. Petroleum exports saw a substantial sequenti
 
 ## Delhi HC refuses interim bail to Al Falah university chairman Jawad Siddiqui in ED cases
 Siddiqui sought interim bail on the ground that his wife's health was critical and he wanted to be with her at this stage of her life.
@@ -108,6 +108,15 @@ Showing a graphic titled "Paper Ka Rate", Gandhi claimed examination papers are 
 ## India-backed Chabahar terminal safe, says MEA; flags safety of civilian assets
 India urged countries in the West Asia conflict to avoid targeting civilian infrastructure.
 
+## Day 20 of hunger strike: Sonam Wangchuk vows to ‘stay alive’, march to Parliament on Monday
+
+
+## AAP corrupt, internal turmoil in Congress and SAD: PM Modi in Punjab
+
+
+## Ram temple ‘donation theft’ probe widens: After 8 held, 30 more under lens
+
+
 ## Garry Sobers obituary: The cricketer who did not know he was like no one else
 
 
@@ -121,15 +130,6 @@ India urged countries in the West Asia conflict to avoid targeting civilian infr
 
 
 ## Nakul Anand, The Night Manager who never quite checked out
-
-
-## Alireza Firouzja one-ups Gukesh D in 69-move nail-biter
-
-
-## Name deletion under SIR does not mean automatic loss of citizenship, says top court
-
-
-## This historic cannon weighed 3.5 tonnes. Thieves still found a way to disappear with it
 
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
@@ -156,6 +156,9 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
+## U.S., Iranian Forces Target Civilian Infrastructure
+Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
+
 ## Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else
 Their teams will face off in the upcoming FIFA Men’s World Cup final.
 
@@ -176,9 +179,6 @@ Test yourself on the week of July 11: China introduces AI regulations, Trump bri
 
 ## Syria’s Weak Parliament Still Matters
 The country’s newly opened assembly is by no means democratic, but it can still be more than a rubber stamp.
-
-## The U.S. and Iran Signed a Memorandum of Misunderstanding
-Detail and care matter in peacemaking, but not to this White House.
 
 ## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
 “When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
@@ -252,13 +252,22 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## EU urges Israel to halt settlement expansion as settlers attack children
+Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.
+
+## Trump threatens Canada with steeper tariff costs over wildfire smoke
+US president has frequently pushed false claims blaming the mismanagement of rival politicians for large wildfires.
+
+## Iraq signs deals with Western oil firms, including to revive Syria pipeline
+Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq's oil-rich Kirkuk to Syria's Baniyas.
+
 ## US launches seventh straight night of strikes on Iran
 The US military says it's degrading Iran's military but has been accused by Tehran of targeting civilian infrastructure.
 
 ## Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino
 Spanish midfielder says he has 'huge confidence' in his abilities after his impressive performances as a substitute.
 
-## Herbert leads British Open golf, equals record lowest score at a Major
+## Herbert leads British Open golf, equals record lowest score at a major
 Australian golfer Herbert ended the second round of the British Open with a two-shot lead on eight-under.
 
 ## Star speedcubers square off at European championship
@@ -266,15 +275,6 @@ More than 1,200 speedcubers from 53 countries are descending are attending the E
 
 ## ICE agent behind fatal shooting in Maine reportedly had troubled history
 Relatives of David Brouillette, the agent who shot and killed a man in Maine, said he had record of violent behaviour.
-
-## Food emergency deepens across Uganda’s Karamoja
-Food emergency deepens across Uganda’s Karamoja
-
-## World Cup winners to receive US-style championship rings, FIFA says
-Players' rings will be limited edition of 2,026 individually numbered pieces, with the rest available for public sale.
-
-## Houthi supporters rally in Sanaa against ‘Saudi-led blockade’
-Thousands of Houthi supporters rallied in Sanaa against what they described as the Saudi-led blockade against Yemen.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
