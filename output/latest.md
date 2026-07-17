@@ -1,25 +1,28 @@
 # AION Intelligence
 
-## Wall Street tech stocks slide as AI trade goes into reverse
-Index of US semiconductor stocks on track for worst week since last year’s ‘liberation day’ rout
-
-## South East Water warns it is struggling to secure new funding
-Utility blames public and political scrutiny for hurting investor confidence
+## Ukraine’s rift over battlefield strategy breaks into the open
+Sacking of popular defence minister exposes divisions over how to fight Russia
 
 ## Jonathan Reynolds set to oversee beefed-up business department
 Incoming prime minister Andy Burnham discussing plans to give ministry more powers over science and energy policy
 
-## Apple reclaims crown as world’s most valuable company from Nvidia
+## Wall Street tech stocks slide as AI trade goes into reverse
+Index of US semiconductor stocks on track for worst week since last year’s ‘liberation day’ rout
+
+## Reformation IPO bets fast fashion can keep up with Big Fashion
+Maker of eco-friendly clothes can hold its own against Spanish giant Inditex on several metrics
+
+## EU to give industry more time to pollute and more funds to clean up
+Climate commissioner defends extension of free allowances to heavily emitting sectors
+
+## South East Water warns it is struggling to secure new funding
+Utility blames public and political scrutiny for hurting investor confidence
+
+## Apple briefly leapfrogs Nvidia as world’s most valuable company
 Shares in iPhone maker have escaped AI sell-off that has hit chipmaker
 
 ## Netflix shares slide on disappointing growth forecasts
 Streaming giant projects weakest revenue increase in three years
-
-## Seven charts Britain’s next PM should see
-The incoming prime minister promises to boost growth across the country but faces several obstacles
-
-## America’s great World Cup
-Despite predictions of disaster, the tournament in the US has been a great success
 
 ## Chinese AI models narrow cyber gap with US rivals
 UK agency warns cheaper open models could leave companies less time to patch critical vulnerabilities
@@ -27,37 +30,40 @@ UK agency warns cheaper open models could leave companies less time to patch cri
 ## ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield
 Oil major will acquire a 42% stake in company as US groups return to Iraq
 
-## EU to give industry more time to pollute and more funds to clean up
-Climate commissioner defends extension of free allowances to heavily polluting sectors
+## India overtakes Spain to become fourth-largest LNG regasification market
+India commissioned the Chhara LNG terminal and expanded Dabhol, with four more projects set to add 11.3 mtpa of regasification capacity by 2028
 
-## How smart tech is being weaponised in the home
-Remote access to domestic devices is increasingly being used to manipulate, intimidate and disturb. Policymakers and tech companies are grappling with safeguards
+## Q1 Results Today Highlights: JSW Steel profit doubles, Havells India profit declines; Oberoi Realty, The Federal Bank, Central Bank of India profit up, Reliance & Tata Tech announce Q1 results
+Q1 Results Today, 17th July 2026 Highlights: Catch live updates
 
-## Maersk raises emergency surcharge on India-Europe shipments from August 1
-Move expected to increase logistics costs for Indian exporters
+## RIL Q1 Revenue jumps 25 per cent to ₹3.11 lakh crore; EBITDA hits record ₹47,517 crore
+Strong O2C recovery and rising digital services at Jio offset Retail margin pressure, helping Reliance beat EBITDA expectations
 
-## Chabahar port terminal has not faced damage after US strikes: MEA
-Talks on future operations continue with relevant stakeholders after expiry of US sanctions waiver
+## Urad prices surge on tight supplies, rise in rates in origins
+Concerns over weak monsoon hurting the kharif sowing, influence prices
 
-## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
+## Reliance Retail revenue rises 7%, JioMart orders more than double
+Reliance Retail’s Q1 FY27 growth was led by JioMart, where average daily orders jumped 116 per cent, helping transactions reach 568 million and the registered customer base expand to 396 million. The digital push, however, compressed the EBITDA margin by 80 basis points to 7.9 per cent despite doubl
+
+## Introduction to AI-nomics and how they matter to investors | Risk vs Reward | EP 04
 
 
-## Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45%
-The anchor book is expected to be 30 to 45% of the estimated ₹11,000 crore issue
+## IAMAI announces the launch of E-Commerce Council of India
+This initiative unites top digital commerce companies, including Amazon, Flipkart, Swiggy, Indiamart, MakeMyTrip, Uber, and eBay
 
-## NLC India Renewables appoints book running lead managers for IPO
-The proposed IPO is expected to strengthen NIRL’s capital base and support its long-term growth strategy in the renewable energy sector
+## Current surge in sugar prices unjustified as availability, stocks comfortable, say ISMA, NFCSF
+The leading associations in a meeting with the government assure of starting crushing operations quickly in the 2026-27 season
 
-## Q1 Results Today Live: JSW Steel profit doubles, Havells India profit declines; Oberoi Realty, The Federal Bank, Central Bank of India profit up, Reliance & Tata Tech announce Q1 results
-Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
+## Which states are the most investor friendly? Gujarat tops Niti Aayog index; Maharashtra & Tamil Nadu rank next
+The index evaluates states and UTs across eight key pillars: infrastructure, business climate, resources, government policy, regulatory ease, institutional environment, financial health and environmental resilience.
 
-## India's first hydrogen train: Salient features
-The train will run between the Jind and Sonipat railway stations and cover the 89-km distance in two hours, with halts at 12 intermediate stations
+## SpaceX shares fall! Market cap of Elon Musk-led firm set to see $1 trillion drop from all-time high
+After dropping as much as 6.9% in early US trading to $122.12 per share, the stock recovered some of its losses. At that level, the company's market value stood at $1.61 trillion, down from its high of $2.64 trillion seen at the close of June 16.
 
-## MTR bets on protein breakfast trend with six-SKU plant-based range
-Speaking to businessline, Sunay Bhasin, CEO, MTR Foods, said the company expects protein to emerge as a key growth lever within its breakfast portfolio as Indian consumers become increasingly conscious about nutrition
+## Apple overtakes Nvidia to become world's most valuable company again
+Apple Inc. has regained its position as the world's most valuable company. Nvidia's stock experienced a sharp decline, reducing its market capitalization significantly. Investors are now favoring companies with strong long-term growth prospects over AI boom beneficiaries. Apple's recent share surge 
 
-## RIL Q2 FY27 results: Reliance Industries posts 22% fall in profit on one-time Asian Paints caveat from last year; revenue rises 25% yoy
+## RIL Q2 FY27 results: Reliance Industries beats estimates with record quarterly EBITDA; revenue rises 25% yoy
 RIL results: Revenue from operations rose 25% year-on-year to Rs 3.11 lakh crore in the June quarter, compared with Rs 2.48 lakh crore in the same quarter last year. Quarterly EBITDA increased 10% from a year earlier to Rs 54,067 crore.
 
 ## US stock market today: Fresh selling in AI-related stocks drags indices down; oil prices rise
@@ -72,14 +78,11 @@ India's current account deficit is projected to widen significantly by fiscal ye
 ## Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan
 India's first bullet train project between Mumbai and Ahmedabad is progressing well. Initial operations will commence using Indian high-speed trains in 2027. Japan's next-generation E10 Shinkansen trains will be introduced later, after 2030. The first operational stretch will connect Surat and Bilim
 
-## LPG subsidy bill races beyond budget, may hit Rs 1 lakh crore this fiscal
-LPG subsidy spending may surpass one lakh crore rupees in FY27. This projection significantly exceeds the budget's thirty thousand crore rupee allocation. Higher fuel prices and ongoing war uncertainty are driving this increased subsidy burden. Government finances face pressure from these rising sub
+## India rejects Pak protest on cross-border terror text in jt statement with Japan
+After a meeting between PM Modi and Japan’s Sanae Takaichi, the two countries condemned all forms of terrorism, “including cross-border terrorism from Pakistan”
 
-## Niti Aayog's roadmap to turn India into $691 billion bioeconomy
-NITI Aayog proposes six national initiatives for India's biotechnology sector. This roadmap aims for a $691 billion bioeconomy by the year 2035. These missions will strengthen capabilities in healthcare and agriculture. They also focus on industrial biotechnology and disease surveillance. The plan i
-
-## Why India's first hydrogen train is special - explained
-With the launch of a hydrogen train, India has undoubtedly taken a big leap in the sphere of greener transportation. India’s first hydrogen-powered train has 10 coaches, with the capacity to carry 2,600 passengers. It will run between Jind and Sonipat in Haryana.
+## Central govt quarters licence fee revised from July 1
+The Union housing ministry has revised licence fees for GPRA quarters across Type-I to Type-VIII categories, with new rates effective from July 1, 2026.
 
 ## Faridabad hospital suspends 3 junior doctors, nurse over emergency ward absence
 Three junior doctors and a staff nurse were suspended at Faridabad’s SABVGMC hospital after a patient complaint over their absence from the emergency ward.
@@ -99,34 +102,28 @@ Congress has noted it has been demanding education minister Pradhan's resignatio
 ## Two killed in Uttarakhand truck accident; search on for boy swept away in Ganga
 Two men died after a truck plunged into a gorge in Rudraprayag, while SDRF teams continued searching for a 16-year-old swept away by the Ganga in Haridwar.
 
-## 'Sheer recklessness': Ex-Japan minister slams India for delays in bullet train project, MEA hits back
-Hideki Makihara, Japan’s former Justice Minister and a member of the ruling Liberal Democratic Party, had blamed India for delays in the Shinkansen project.
-
-## Kedarnath Yatra resumes after landslide blocks trek route; IMD issues alert
-Kedarnath Yatra resumed after a five-hour halt as authorities cleared a rain-triggered landslide, while IMD issued an orange alert for heavy rain in Uttarakhand
-
-## Aishwarya Rai’s co-star Abbas worked as a mechanic, drove taxis after becoming ‘destitute’
+## Brenda Fricker, first Irish actress to win an Oscar, dies at 81
 
 
-## Robert De Niro figures in Tarun Tejpal’s arguments in court
+## Messi missed, as did Mbappe: what’s behind legends fluffing penalties this WC
 
 
-## 8 towns famous for their iconic colours
+## Gujarat, Maharashtra & Tamil Nadu top Niti Aayog’s Investment Friendliness Index
 
 
-## Heartstopper Forever review: A heartfelt farewell to a generation’s defining queer romance
+## ‘Knowing the answers won’t be enough’: Amitabh Bachchan teases KBC 18’s new format. Watch
 
 
-## What led to Bengal train accident: Initial probe rules out signal glitch, blames ‘human error’
+## Jana Nayagan: Vijay drops emotional father-daughter track ‘Adiye En Poonthene’, watch
 
 
-## Art and Culture with Devdutt | Did Greeks influence Indian theatre?
+## 7.4 magnitude earthquake strikes off Mexico’s Chiapas coast, tsunami warning issued
 
 
-## Gas tanker explodes in Mumbai’s Chembur, driver killed
+## Department cleared my social media accounts: Suspended incharge of Himachal police orchestra
 
 
-## Apple overtakes Nvidia to become world’s most valuable company. Here’s how
+## Wanted men on a train, child held hostage, 2 ‘encounters’: A police chase in three acts
 
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
@@ -153,6 +150,9 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
+## Lebanon’s Peacekeepers Are Heading for the Exits
+As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.
+
 ## U.S.-China Relations Are More Volatile Than Ever
 Trump and Xi have brutally undermined the institutions and personnel responsible for safeguarding diplomacy.
 
@@ -173,9 +173,6 @@ Defense Minister Mykhailo Fedorov was popular for his drone development push—b
 
 ## German Military Power Needs to Go It Alone
 NATO’s multinational forces are an unwieldy relic of a more peaceful past.
-
-## A Divided World Is North Korea’s Greatest Asset
-Geopolitical fragmentation has hamstrung nuclear sanctions regimes. Pyongyang is taking advantage.
 
 ## Philippines Issues Formal Protest to China Over ‘Dehumanizing’ State Media Video
 The Department of Foreign Affairs demanded the "immediate takedown” of the AI-generated video, in which the Philippines was depicted as a monkey.
@@ -249,6 +246,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘They took our toilet’: How a settlement has squeezed a Palestinian village
+An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.
+
+## Plainclothes ICE agents manhandle man during arrest attempt
+Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.
+
+## Ukraine suffers port attacks as protests persist over defence shake-up
+Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.
+
+## France vs England – World Cup third-place playoff: Prediction, kickoff
+Losing semifinalists France and England meet in a playoff for the bronze medal, a day before the World Cup final.
+
 ## Uganda school bus crash kills 20 children and 1 adult
 Uganda halts school trips after bus crashes returning from waterfall field trip; at least a dozen also injured.
 
@@ -260,18 +269,6 @@ Beijing is likely to use the WAICO alliance to influence global AI regulations, 
 
 ## UN urges probe into deaths in Pakistani-administered Kashmir unrest
 Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.
-
-## Satellite images show damage inside Iran’s Bushehr nuclear power plant
-Satellite images reveal strikes between July 7 and 12 on Iran’s largest nuclear power plant.
-
-## Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis
-Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.
-
-## ‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?
-The Italian government can now offer children and wives of mafia bosses a way out of the family business.
-
-## Deadly storm leaves half a million without power in Chile
-Deadly storm leaves half a million without power in Chile
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
