@@ -1,40 +1,40 @@
 # AION Intelligence
 
-## How long can oil markets absorb the Hormuz shock?
-Improvements in oil intensity have cushioned the global economy so far — but could prompt reckless political choices
-
-## Britain’s Burnham and nostalgia for a semi-imaginary past
-The new prime minister has to set out a coherent and business-friendly platform
-
-## Jeffrey Donaldson seeks to appeal child sex convictions
-Hearing on the application could happen in September, say former DUP leader’s lawyers
-
-## EU set to delay fines for breaking methane rules after US pressure
-Move unlikely to satisfy energy companies that want a rewrite of law on leaks and flaring of polluting gas
-
-## Paris and Berlin vow to align on tougher trade measures against China
-French President Emmanuel Macron and German Chancellor Friedrich Merz to push for EU ‘safeguard’ trade measures
-
-## SpaceX and the myth of independent Wall St research
-Buy recommendations from IPO banks underscore the limits of post-dotcom reforms
-
 ## Trump Media pitched $100,000 monthly fee for fast feed of president’s posts
 Family company has quoted the six-figure sum for high-speed access to Truth Social platform
 
-## US chip stocks head for worst week in more than a year
+## US chip stocks notch up worst week in more than a year
 High-flying semiconductor shares fall as ‘momentum trades’ backfire
+
+## Apple briefly leapfrogs Nvidia as world’s most valuable company
+Shares in iPhone maker have escaped AI sell-off that has hit chipmaker
+
+## The Burnham era begins: Mahmood set for chancellor
+Plus, Starmer’s farewell
+
+## Reform UK volunteer who made homophobic remarks hosted patrons’ event
+George Jones presented the champagne and canapés gathering at the Caledonian Club in Belgravia
+
+## Burnham takes Labour reins as focus shifts to delivering on vision
+New Labour leader wins rapturous reception but faces immediate questions over how he will keep bold promises
+
+## Meta and Anthropic in talks for up to $10bn data centre deal
+Social media giant is considering launching a cloud business as it spends $145bn on infrastructure
+
+## How long can oil markets absorb the Hormuz shock?
+Improvements in oil intensity have cushioned the global economy so far — but could prompt reckless political choices
+
+## Moneysupermarket to launch investment platform
+Price-comparison site set to enter crowded market against established providers
+
+## EU set to delay fines for breaking methane rules after US pressure
+Move unlikely to satisfy energy companies that want a rewrite of law on leaks and flaring of polluting gas
 
 ## PwC partners set for near-record £900,000 annual pay
 Payout for top ranks of Big Four accounting firm set to rise despite challenging consulting market
 
 ## Directors’ Deals: Middle East conflict casts shadow over Energean
 Full-year guidance has been lowered and the dividend has been cut
-
-## Chanel offices searched by Italian authorities in labour abuse probe
-Luxury group has said it is co-operating and has terminated relationship with subcontractor in question
-
-## Anglo American poised to sell De Beers diamond business to former CEO
-Botswanan minister says miner has identified one consortium led by Gareth Penny as ‘preferred bidder’
 
 ## CSR must move from compliance to creating impact, say industry leaders
 Vinit Nayar, Founder-Chairman of the Sampark Foundation, argued that the social sector needs the same spirit of innovation and design thinking that transformed India’s IT industry
@@ -144,7 +144,7 @@ Online fast-fashion giant Shein has cleared its listing hearing with the Hong Ko
 ## Agentic AI: the next battleground for Chinese brands
 China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately buy. These personal concierges are starting to determine the best choices for e
 
-## How China’s resources deals have literally turned into a gold mine
+## How China’s resources deals have turned into a gold mine – literally
 Chinese gold producers have embarked on a wave of overseas acquisitions in recent years, snapping up mines in countries ranging from Kenya to Colombia. Now, they are reaping the rewards as sky-high gold prices lift their earnings. Prices for the precious metal soared to record highs last year and re
 
 ## China and UAE cross-border QR payment link to boost the global yuan
@@ -155,6 +155,15 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
+
+## Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
+China wants to use the ancient deity Mazu to push unification narratives.
+
+## The Battle for Borsch
+Ukraine is using the beet-based soup to fortify national identity in the face of Russian aggression.
+
+## The Soccer Surveillance State
+How the United States used the World Cup as a testing ground for policing technologies.
 
 ## Inside the Race to Protect Ukrainian
 Kyiv’s language revitalization program seeks to save Ukrainians’ mother tongue through complex state law.
@@ -170,15 +179,6 @@ Detail and care matter in peacemaking, but not to this White House.
 
 ## Does Cuba Really Have Iranian Drones?
 Experts say Trump is laying the pretext for U.S. military action against the island.
-
-## Lebanon’s Peacekeepers Are Heading for the Exits
-As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.
-
-## U.S.-China Relations Are More Volatile Than Ever
-Trump and Xi have brutally undermined the institutions and personnel responsible for safeguarding diplomacy.
-
-## How to Isolate Tehran
-Opening Hormuz requires marrying force with effective diplomacy.
 
 ## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
 “When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How an Italian sculptor created the iconic World Cup trophy
+In 1970, an Italian sculptor designed the iconic World Cup trophy that’s become familiar to generations of fans.
+
+## At least two dead as heavy rains, floods strike central Texas
+Officials in the southern state have seen new warning systems tested by the floods, after last year's deadly rainfall.
+
+## Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?
+World Cup organisers are monitoring the situation 'closely', with US and FIFA presidents meeting on Friday.
+
 ## At least three killed and hundreds displaced by heavy rain in Chile
 Chilean President Jose Antonio Kast says that he is travelling to the Biobio region to survey flood damage.
 
@@ -266,15 +275,6 @@ Germany, stripped of Russian pipeline gas, received Algeria's president with mil
 
 ## Can the US and Iran reach a lasting deal to end the conflict?
 Air strikes intensify raising fear of an all-out war.
-
-## Life after amputation: Gaza women find recovery through football
-Palestinian women in Gaza who have lost limbs during Israel's genocidal war are using football as a way of recovering.
-
-## World Cup 2026: What did we learn?
-World Cup 2026: What did we learn?
-
-## Burnham confirmed as Labour leader, vows new direction for UK
-Britain's governing Labour Party confirmed as Andy Burnham as its new leader, clearing the way for him to become PM
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
