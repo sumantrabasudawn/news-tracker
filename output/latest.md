@@ -1,7 +1,16 @@
 # AION Intelligence
 
-## US chip and memory stocks slide in fresh bout of Wall Street tumult
+## Chip and memory stocks slide in fresh bout of Wall Street tumult
 Investors pull away from shares in companies that have led markets higher this year
+
+## The mega-IPO glut comes with a containment problem
+Never let your left hand know what your right hand is doing
+
+## Brussels seeks climate vs industry trade-offs in ETS revamp
+Also in this newsletter: Brussels seeks bigger, simpler banks in competitiveness overhaul
+
+## FirstFT: Burnham plans policy blitz
+Also in today’s newsletter: BoE bond sales and Accor’s chief executive
 
 ## London’s Messi relationship with listed companies
 There’s no end in sight for foreign takeovers of UK companies
@@ -15,53 +24,47 @@ Project ‘ABC’, Andy by conference, succeeds with two months to spare
 ## UK mortgage rates rise again after resumption of Middle East hostilities
 Several big lenders raised their fixed rates by as much as 0.35 percentage points
 
-## South Korean market’s extreme volatility alarms regulators
-Policymakers fear trading is being driven more by leverage than fundamentals
+## Who pays for AI?
+And how much?
 
-## Why Iran is returning to war
-Its rulers believe that further escalation will force the US to offer the security and economic relief it craves
-
-## How far will Iran go for the Strait of Hormuz?
-After years of stand-off over Tehran’s nuclear programme, the waterway is now at the heart of the regime’s confrontation with the US
-
-## Anglian Water hands chief £1.3mn in retention pay despite bonus curbs
-Nearly two-thirds of £1.9mn pay package paid by parent company unregulated by Ofwat
-
-## A Europe that’s losing at tech could still achieve quantum supremacy
-The UK and EU have committed twice as much money as the US to investments in the computing sector
-
-## ‘The Odyssey’ leads the box office charge for a record 2026
-Summer numbers on course to be the best since 2019 as filmmaking capacity recovers after the pandemic and strikes
-
-## Imitation Games — how football became betting’s biggest winner
-Darragh McGee’s damning exposé connects the rapid rise of digital gambling with the Premier League’s success
-
-## Sensex today | Stock Market Live: Sensex jumps over 420 points; Nifty tops 24,150 ahead of heavyweight earnings
-Sensex, Nifty, Share Prices LIVE: Indian benchmark indices opened higher on Friday, with the Sensex rising over 370 points, as investors awaited earnings from Reliance Industries, HDFC Bank and ICICI Bank despite elevated crude oil prices and continued foreign fund outflows.
-
-## Bank earnings ahead: What should investors keep an eye out for amid margin boost hopes, leadership changes?
-Foreign currency deposits from non-residents should improve liquidity after the RBI said it would bear the cost of currency hedging, says Nomura
-
-## Adani Enterprises arm to acquire remaining 44.6% stake in flight training firm FSSPL
-After the transaction, FSSPL will become a wholly owned subsidiary of ADSTL and ADSTL’s effective stake in FSTC, a subsidiary of FSSPL, will increase from 72.8% to 100%
-
-## Q1 Results Today Live: Reliance Industries, JSW Steel, Havells, Oberoi Realty, Tata Tech to announce Q1 results, Wipro, Tech Mahindra, Jio, ITC Hotels, CEAT, Polycab, BHEL shares in focus
+## Q1 Results Today Live: Reliance shares up ahead of results, JSW Steel, Havells, Oberoi Realty, Tata Tech to announce Q1 results, Jio Financial, Tech Mahindra, BHEL soar after Q1, Wipro, WeWork, CEAT, Polycab shares decline
 Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
 
-## Exterro's ARMOURop Delivers a Force Multiplier for Digital Forensic Labs, Slashing Evidence Review Time by Up to 95%
-Exterro's ARMOURop Delivers a Force Multiplier for Digital Forensic Labs, Slashing Evidence Review Time by Up to 95%
+## Sensex today | Stock Market Live: Sensex jumps over 800 points, Nifty tops 24,280 as IT stocks rally
+Sensex, Nifty, Share Prices LIVE: Indian equities rallied on Friday, with IT stocks lifting the Sensex over 800 points and the Nifty above 24,280 as investors awaited earnings from Reliance Industries, HDFC Bank and ICICI Bank for fresh market direction.
 
-## India bonds seen steady ahead of fresh debt supply
-The benchmark 6.94% ​2036 bond yield is expected to move between ⁠6.72% and 6.76%, a trader at a private bank said
+## Polycab shares drops 3.8% despite Q1 beats; analysts split on outlook
+The stock opened at ₹9,169.50 and slipped to an intraday low of ₹8,861, with sell orders outweighing buys 62.5 per cent to 37.5 per cent.
 
-## Gold is set for weekly fall amid West Asia tensions. What’s ahead?
-Bullion edged higher on Friday to near $3,980 an ounce, but was down 3.4% on the week so far
+## Memory prices lead to India’s biggest June-quarter decline in smartphone shipments in 6 years
+Smartphone memory prices have increased nearly four times since September 2025 and are expected to rise further, potentially reaching five times their previous levels in the coming months
 
-## Parliamentary panel raises concerns over higher education regulator proposed in VBSA Bill
-The Bill proposes replacing the UGC, AICTE and NCTE with a single higher education regulator
+## BHEL hits 52-week high before retreating; analysts split as Q1 profit ends eight-year wait
+The stock has been among the standout performers in its index cohort
 
-## India's first hydrogen-powered train to be flagged off on July 17: 10 facts and photos you shouldn't miss
-India’s first hydrogen-powered train is ready for launch! Marking a major milestone for Indian Railways, the country’s first hydrogen will be flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard usi
+## ech Mahindra shares jump on Q1 results; analysts split on valuation
+Tech Mahindra’s net profit increased by 31.6% to ₹1,486 crore on an annual basis in the June-ending quarter
+
+## ‘New mobile phone manufacturing scheme can aid Tamil Nadu's shift from assembly to value-added manufacturing’
+Tamil Nadu is well placed to benefit from MPMS with around 38-40 per cent of India’s smartphone shipments originating from Kanchipuram and Chengalpet districts.
+
+## PM Modi flags off India’s first hydrogen-powered train in Haryana
+Developed with indigenous technology, the hydrogen-powered train generates onboard electricity and emits only water vapour, resulting in zero carbon emissions
+
+## Asian markets tumble as AI stock sell-off deepens; Nikkei sinks nearly 6%, HSI plunges 2%
+Asian stock markets experienced significant selling pressure on Friday. Japan's Nikkei 225 and Taiwan's benchmark saw sharp declines. Concerns over artificial intelligence stock valuations and Middle East conflict weighed on investors. Oil prices extended gains as Middle East tensions escalated. US 
+
+## Stock market rally: Sensex rises over 750 points, Nifty50 crosses 24,250 - top reasons for rise
+The sharp rally in Indian equities came even as global markets remained under heavy pressure. Japan's Nikkei tumbled more than 5%, while Taiwan's Weighted Index plunged 6% as the sell-off in semiconductor stocks continued.
+
+## India’s First Hydrogen-Powered Train Flagged Off by PM Modi: 10 Facts & Photos You Shouldn’t Miss
+​India’s first hydrogen-powered train has been launched! Marking a major milestone for Indian Railways, the country’s first hydrogen was flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard using hy
+
+## India's first hydrogen-powered train flagged off by PM Modi; check route, timings, how it works
+India’s first hydrogen train is a 10-coach passenger offering. According to Indian Railways, globally the few operational or under testing hydrogen trains have 2-3 passenger coaches, making India’s first hydrogen train the longest of its type in the world.
+
+## Rupee rises 14 paise in early trade as Dalal Street cheers; oil adds limited gains
+The rupee opened stronger against the US dollar on Friday, gaining fourteen paise in early trade. Upbeat equity markets provided support for the domestic currency's early gains. However, sustained foreign fund outflows and firm crude oil prices capped further appreciation. Geopolitical tensions in t
 
 ## Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh & Punjab
 Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off India's first hydrogen-powered train from
@@ -72,17 +75,23 @@ Prime Minister Narendra Modi will launch development projects exceeding twenty-f
 ## Crude heads for biggest weekly gain in months amid intensifying Middle East crisis
 Oil prices surged as escalating US-Iran military tensions raised supply disruption concerns. Brent crude traded at $85.34 and WTI crude at $80.08 per barrel. Recent US strikes aimed to degrade Iranian military capabilities, while Iran retaliated against regional allies. Renewed hostilities revived f
 
-## Fuel-saving tech may be rewarded
-New fuel efficiency rules may reward various fuel-saving technologies. Manufacturers can earn compliance benefits for technologies like start-stop systems. These approved technologies will offer credits equivalent to grams of CO2 per kilometer. This framework encourages wider deployment of features 
+## 2020 riots case: HC notice to Delhi Police on bail plea by Sharjeel Imam in UAPA case
+A bench of justices Prathiba M Singh and Vikas Mahajn sought Delhi police’s response and fixed August 27 as the next date of hearing
 
-## Govt to take equity stakes in semiconductor startups
-Works on a model of larger, milestone-linked funding
+## Rath Yatra: SC upholds temporary stay on animated movie, clears release after festival
+The SC bench modified the Orissa high court’s interim order to permit the nationwide release of the film on or after July 28.
 
-## Pricing, not volume, drives India Inc in Q1; revenue estimated to grow 11-11.5% despite supply disruptions: Crisil
+## ‘Will stay alive, come back as ghost if…’: Sonam Wangchuk urges support for Parliament march on July 20
+Activist Sonam Wangchuk's health has been impacted massively amid continued hunger strike against examination irregularities
 
+## CoBRA battalions get gender-sensitised before posting in Manipur
+The specialised CRPF CoBRA units were trained in gender sensitisation and crowd management before their first deployment outside anti-Naxal operations.
 
-## Banks can't sell back seized assets to defaulters: RBI
-RBI has barred defaulting borrowers from repurchasing seized properties. New directions effective October 1, 2026, tighten norms for stressed accounts. Banks must adopt board-approved policies for asset recognition and recovery efforts. Assets must be disposed of through public auctions within seven
+## 3 killed after train hits car carrying school kids at manned level crossing in WB
+The accident took place around 7:30am at a manned level crossing between Karnasubarna and Gobindopur railway stations near Berhampore
+
+## 60 US Senators back new bill proposing 100% tariffs on India, others for buying Russian oil
+US Senators clarified earlier this week that the tariffs will target China, India, Slovakia, Hungary and Azerbaijan for purchasing Russian oil
 
 ## ‘Missing body not missing murder’: SC says accused can be convicted even if victim's body never found
 The ruling states that an accused can be convicted of murder even in the absence of the dead body, alienating perpetrators from escaping justice.
@@ -90,47 +99,32 @@ The ruling states that an accused can be convicted of murder even in the absence
 ## ‘Studied for 17 hours’: NEET topper Aryan Gupta with 715/720 shares secret to success
 Aryan Gupta emerged as the top scorer in NEET UG 2026, securing All India Rank (AIR) 1. He also advised other aspirants to listen to their teachers.
 
-## SC acts after courtroom chaos, tightens rules for litigants-in-person
-The decision was taken at a full court meeting of all Supreme Court judges on Wednesday and announced through an official statement on Thursday
-
-## TN govt bus driver held for sexually harassing girl
-A 36-year-old government bus driver was arrested for allegedly sexually harassing a four-year-old girl near Coimbatore, police said on Thursday
-
-## Hyderabad private school teacher terminated over religious homework
-A private school teacher was terminated on Thursday for allegedly assigning practise of Islamic verses as homework to a Class 2 Hindu student in Hyderabad’s Old City, following protests by the child’s parents
-
-## Cabinet rejig delayed as Kharge misses key meet
-BENGALURU: The Congress leadership pushed back a decision on expanding Karnataka’s council of ministers until next week after party president Mallikarjun Kharge was unable to attend a key meeting in New Delhi, delaying what leaders expected would be the final round of consultations, leaders in the k
-
-## Woman kills husband, attempts to kill son in Dharwad, arrested
-Bidar A 40-year-old ophthalmologist has been arrested for murdering her 43-year-old husband, an anesthesiologist, and attempting to kill their eight-year-old son in Karnataka’s Dharwad, police said on Thursday, adding that the accused later tried to die by suicide
-
-## 7 escape in Vizag as fishing boat capsizes
-Seven fishermen had a narrow escape after their fishing boat capsized near the Visakhapatnam Fishing Harbour on Thursday morning amid rough sea conditions triggered by a well-marked low-pressure area over the Bay of Bengal along the Odisha coast, officials said
-
-## Akali Dal appeals to PM to announce reopening of Kartarpur Corridor
+## ‘Revenge’ still hangs over the Argentina-England rivalry
 
 
-## DHSE Kerala Plus One Result 2026 Live Updates: Results likely today dhsekerala.gov.in, results.hse.kerala.gov.in
+## 2020 Delhi riots: HC seeks police stand on Sharjeel Imam’s fresh bail plea
 
 
-## Sindhu makes Japan Open semifinal after Nozomi Okuhara withdrawal
+## Teleprompter operator under scanner for making $100k off Trump’s speech bets
 
 
-## Kiran Rao backs Sonam Wangchuk as Aamir Khan denies 3 Idiots’ Rancho was based on him
+## Boman Irani recalls Sunil Dutt refusing to eat alone on sets; psychiatrist explains psychology
 
 
-## Milind Soman skips tea and coffee: What the habit means for health
+## Pakistan PM Shehbaz Sharif says renewed tensions in West Asia could hit economy again
 
 
-## Aamir Khan denies 3 Idiots’ Rancho was inspired by Sonam Wangchuk: ‘Chatur was wrong’
+## Enzo Fernandez begged Messi to stay in 2016. Now he carries him
 
 
-## Daily Briefing: Sonam Wangchuk’s fast under court watch; The Odyssey releases today
+## NEET UG 2026 counselling: A complete guide to MCC process, quotas and eligibility
 
 
-## Gambhir and Kohli spoke to each other about 10 times today, says batting coach Kotak
+## Vicky Kaushal gives fans a peek into ‘jaan’ Katrina Kaif’s intimate 43rd birthday celebration
 
+
+## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
+Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
 ## AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director
 Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealth management industry, according to a director of Hong Kong Exchanges and Cleari
@@ -152,9 +146,6 @@ As the global artificial intelligence race pushes the limits of scale with massi
 
 ## China’s OnePlus bows out of Western markets as memory crisis hammers smartphone industry
 Chinese handset vendor OnePlus is retreating from the US and European markets amid deepening woes from a memory crisis hammering the global smartphone industry. “After thorough evaluation, OnePlus has decided to conclude product roll-outs in Europe and North America,” the brand operated under Chines
-
-## CXMT’s mega IPO draws frenzy from retail investors to DeepSeek founder’s fund
-As soon as ChangXin Memory Technologies opened its blockbuster initial public offering to public subscription on Thursday morning, Luo Yi applied for 86,000 shares – despite acknowledging that she knew little about the semiconductor industry. The 60-year-old stock investor from southwestern Sichuan 
 
 ## The America First Contradiction
 A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
@@ -252,6 +243,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## China’s Xi says AI ‘should not be a solo performance by a single country’
+The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.
+
+## Texas floods ravage through southwestern areas of state
+At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.
+
+## Key takeaways from Donald Trump’s controversial speech on election security
+The president claimed China and 'deep state' actors had deceived US voters, but critics say his claims were misleading.
+
+## US bombards Iran in sixth-straight night of attacks
+The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.
+
+## Israeli settlers attack Sinjil town in occupied West Bank
+Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.
+
 ## China rebukes UK over nationalisation of British Steel
 The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.
 
@@ -260,21 +266,6 @@ Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away
 
 ## Iranian sources say US strikes hit civilian infrastructure
 Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.
-
-## IEA chief warns Strait of Hormuz crisis threatens global energy security
-Fatih Birol says 'oil security is still a critical issue' and world should be 'worried' if situation does not improve.
-
-## Goa’s forgotten orchata drink lives on in family kitchens
-Once reserved for elite Catholic households, this almond drink survives thanks to Goans preserving tradition.
-
-## How three Ivorian firms are competing with global brands
-Homegrown firms are gaining ground in Ivory Coast's fuel, finance and cosmetics sectors.
-
-## ‘Trump Accounts’ are symbolic, not effective at closing wealth gap
-The wealth gap is wider than it’s been in three decades.
-
-## North Korean leader Kim Jong Un meets with top Chinese official
-The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.
 
 ## Vanishing jobs in finance
 Globally, banks and financial institutions are rethinking workforce requirements as AI and automation become mainstream. Standard Chartered recently announced plans to reduce thousands of jobs over the next few years while accelerating AI adoption. Global lenders such as Citi, UBS, HSBC and Morgan S
@@ -300,6 +291,9 @@ The finance function has seen a continued transformation over the last couple of
 ## CBIC allows self-certification for origin declarations under India-UK CETA
 The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular operationalising the self-certification framework for origin declarations under the India-UK Comprehensive Economic and Trade Agreement (CETA), which comes into force on July 15, 2026. The move replaces the conventional sys
 
+## Private insurers seek tweaks in unlisted investment plan
+Private insurers want Irdai to change proposed investment norms for unlisted companies. They suggest linking exposure limits to shareholders' funds instead of surplus. This change could unlock billions for investment in privately held businesses. The proposed framework may expand sector investment c
+
 ## RBI to counter USD/INR volatility aggressively amid geopolitical crude shock: Kotak Securities' Anindya Banerjee
 The Reserve Bank of India (RBI) is expected to aggressively intervene in the currency markets if the rupee faces excessive downward pressure toward the 98 to 100 mark, though short-term capital inflows will provide a major cushion against global energy shocks, according to Anindya Banerjee, Head of 
 
@@ -320,7 +314,4 @@ Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geop
 
 ## Raising bank stakes gets easier for DIIs
 The Reserve Bank of India announces proposed amendments to bank shareholding regulations, designed to more effectively facilitate investments from domestic institutional investors. Additionally, the central bank emphasizes stronger disclosure and monitoring protocols. The new directives will provide
-
-## Sebi exempts Mehta Family Trust from Saurashtra Cement open offer
-Sebi exempted Mehta Family Trust from an open offer for Saurashtra Cement shares. This exemption allows internal family reorganisation and succession planning. Jay Mahendra Mehta and Juhi Chawla Mehta are trustees of the family trust. The transaction involves indirect acquisition of shares and votin
 
