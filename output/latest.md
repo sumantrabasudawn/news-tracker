@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Chinese AI start-up Moonshot launches model challenging Anthropic’s lead
+Kimi K3 shows narrowing gap between US and China on frontier AI
+
+## US escalates attacks on Iran as it expands range of targets
+American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
+
 ## FirstFT: Ukraine plunged into political turmoil after Zelenskyy fires defence minister
 Also in today’s newsletter: China’s largest AI model to date and South Korea’s first rate rise in three years
 
@@ -18,12 +24,6 @@ The president has pre-emptively cast doubt on the security and validity of Novem
 ## Netflix shares slide on disappointing growth forecasts
 Streaming giant projects weakest revenue increase in three years
 
-## Andy Burnham plans policy blitz on entering Number 10
-Cost of living, North Sea energy and devolution set to feature in early days and weeks of new premiership
-
-## Zelenskyy government plunged into turmoil after defence minister fired
-Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
-
 ## Should private credit be public?
 The case for letting investors into private markets
 
@@ -36,8 +36,20 @@ Prospera and Wellesley have both left SJP, according to the FCA’s register
 ## Monte dei Paschi claims €30.6bn bid from Intesa ‘undervalues’ bank
 MPS’s board says offer carries regulatory and execution risk, leaving door open to potential tie-up with Banco BPM
 
-## Ex-motorway boss handed 12-year prison term over Genoa bridge disaster
-Former chief executive of Autostrade per l’Italia convicted for his role in 2018 tragedy in north-west Italy
+## ‘We plan to raise ore output to 12 lakh tonnes annually with ₹1,200 cr investment’
+Expansion, renewable energy, and ferrochrome capacity additions position IMFA for sustained growth ahead
+
+## Pfizer suspends Premarin vaginal cream in India, raising concerns over menopause care
+Pfizer said it is working to restore Premarin supplies but has not provided a timeline
+
+## US introduces four-year limit for student and exchange visas, ends indefinite stay policy
+Under the new rule, F and J visa holders can stay for up to four years, with extensions requiring biometric checks and federal approval.
+
+## Trump Media announces Truth PSI, a premium feed for faster access to Truth Social posts
+The move has raised ethical concerns because President Donald Trump’s Truth Social posts often influence financial markets
+
+## NEET UG 2026 results: Punjab’s Aryan Gupta, Haryana’s Panshul Bansal top; 11.21 lakh qualify
+Women accounted for over 58 per cent of NEET-UG 2026 qualifiers, while Uttar Pradesh produced the highest number of successful candidates. The top 17 rankers hailed from eight states
 
 ## Tech Mahindra outshines Wipro in Q1 with stronger growth, margin expansion
 Tech Mahindra’s revenue rose 17.6% y-o-y to ₹15,711 crore, with a net profit of ₹1,486 crore, up 31.6%; Wipro’s revenue increased 10.6% y-o-y to ₹24,479 crore, net profit fell 4.7%
@@ -47,21 +59,6 @@ The ₹9,813-crore IPO received bids for ₹2.98 lakh crore
 
 ## South Indian Bank posts 17% rise in net profit to ₹378 crore
 P R Seshadri, MD & CEO, noted consistent growth in targeted segments, focusing on quality asset acquisition in corporate lending, auto loans, and gold loans
-
-## Over 50% of Indian major reservoirs still half-empty
-59% of the country has received deficient or no rainfall as the monsoon is 24% below normal
-
-## Russia to continue to meet half of India’s crude oil imports in July, August
-July imports will surpass 5 million barrels per day (mb/d) with Russia accounting for around 2.6-2.7 mb/d
-
-## Barclays sees FCNR inflows falling short of market hype
-According to the report, expectations may have been inflated by comparisons with the RBI’s successful 2013 FCNR scheme
-
-## Editorial. Inflated worries
-RBI can look through the spike in CPI in June
-
-## Pocket
-
 
 ## India's first hydrogen-powered train to be flagged off on July 17: 10 facts and photos you shouldn't miss
 India’s first hydrogen-powered train is ready for launch! Marking a major milestone for Indian Railways, the country’s first hydrogen will be flagged off by Prime Minister Narendra Modi on July 17. This is the first time that India is introducing a train that produces its own electricity onboard usi
@@ -111,29 +108,32 @@ The CJP announced that they will march towards the Parliament on Monday, July 20
 ## Those under pressure should quit before July 21: Mamata after Koel Mallick's Rajya Sabha exit
 "Today I saw that another MP, who is also a respected and talented film artist, met a BJP leader and resigned," Banerjee said.
 
-## BIMSTEC security chiefs vow to jointly combat terror, streamline maritime law enforcement
+## At FIFA World Cup 2026, a game bigger than its grand spectacle
 
 
-## ‘Beef raid’ on house in UP: Police arrest four more after ‘encounter’
+## Why some lean and healthy people still experience blood sugar spikes
 
 
-## Rs 40 lakh, gold seized from Bengal madrasa: How arrest of a Bangladesh national in UP 4 years ago led to ED’s expansive raids in 4 states
+## Ahead of the India-US deal, strike a careful balance
 
 
-## Seed funding of up to Rs 10 lakh for students in Delhi government’s new start-up policy
+## After ‘new kidney or euthanasia’ demand, what Kota administration promised 5 new mothers
 
 
-## PM Narendra Modi speaks to Amir of Qatar, conveys condolences on passing of the Father Amir
+## US-Iran War News Live Updates: Washington launches fresh wave of strikes as war with Iran shows little sign of de-escalating
 
 
-## Delhi Confidential: History Lessons
+## Vessels to and from India among top applicants for Strait of Hormuz passage
 
 
-## NEET AIR 1 Aryan Gupta: “Had cried a lot when exam was cancelled… but then I wasn’t alone”
+## US latest on immigration: Shrink visa duration for students, media
 
 
-## A second shot, a perfect finish: Delhi student tops NEET-UG with AIR 1, eyes AIIMS
+## ‘ISKCON can bring peace’: CM Suvendu Adhikari reiterates veg midday meals in Kolkata schools
 
+
+## Retail rift: Hong Kong shops plead for rent relief, landlords see improving market
+Although retail sales in Hong Kong rose more than 10 per cent year on year in the first five months of 2026, a wave of shop closures continues, leaving tenants and landlords with vastly different assessments of the retail leasing market. Many tenants say that despite racking their brains for solutio
 
 ## Race against Tesla: China EV maker Xpeng to launch viral humanoid globally in 2027
 Chinese electric vehicle maker Xpeng expects to produce more than 1,000 humanoid robots a month by the end of 2026 as it competes with Tesla in a high-stakes race to dominate physical AI, the integration of intelligent software into robotics and machinery. The Guangzhou-based carmaker told the South
@@ -155,9 +155,6 @@ Chinese electric car giant BYD is building a network of 6,000 charging stations 
 
 ## Ex-World Bank official warns to diversify away from US markets, people ‘will suffer’
 A coordinated push towards global market diversification is urgently needed to shield savers from a potentially dangerous valuation correction in highly concentrated US equities, a former World Bank official has warned. Speaking at an event in Hong Kong on Thursday, Ian Goldin, the former World Bank
-
-## Cafe de Coral, in 1986, becomes first Hong Kong food chain to go public – SCMP archive
-This article was first published on July 17, 1986. Cafe de Coral the live wire in quiet market by John Mulcahy Fast-food counter Cafe de Coral hit the boards yesterday (July 16, 1986), trading up to $1.35 and recording the biggest volume of the day. Although 16.6 million Cafe de Coral shares traded,
 
 ## The America First Contradiction
 A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Falling debris from intercepted Iranian strikes sparks fires in Kuwait
+Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.
+
+## Brazilian football legend Pele’s World Cup shirt sells for $4.9m
+The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.
+
+## Iran war live: US carries out strikes on civilian infrastructure in south
+Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won't return to pre-war status.
+
+## Venezuela earthquake: Number of known dead rises to nearly 5,000 victims
+The UN estimates 50,000 are missing, with many more feared dead under the rubble as the focus shifts to rebuilding.
+
+## Vietnamese activist Bao Ngoc places rare national spotlight on Gaza
+Activist Bao Ngoc draws attention to plight of Palestinians in country where protest is tightly controlled.
+
+## Qatar rejects Israeli reports of military action against Iran
+Qatar has rejected Israeli media reports claiming the Qataris agreed to participate in military action against Iran.
+
+## Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers
+PM Keir Starmer's final honours list also includes campaigners, military leaders and senior civil servants.
+
 ## Former Italian motorway chief sentenced over bridge collapse
 The former CEO of Italy’s main highway operator has been given 12 years in prison.
-
-## Ilhan Omar renews push for US to join ICC amid Trump pressure
-The resolution comes days after US Secretary of State Marco Rubio pledged to 'dismantle' the international court.
-
-## Grand Mosque of Paris celebrates 100-year anniversary
-The Grand Mosque of Paris is celebrating 100 years since its inauguration.
-
-## FIFA to probe Argentina’s Falklands banner display at World Cup semifinal
-FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.
-
-## US mounts sixth straight night of attacks as Iran warns of wider war
-Iranian media reports airport, bridge and communications tower targeted.
-
-## Donald Trump live: US president to deliver primetime address on elections
-Critics fear Trump may use his podium to spread spread doubt about election integrity before the 2026 midterms.
-
-## The hardest party to manage in the Iran talks isn’t Iran
-Washington's spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.
-
-## Palestinians injured in Israeli settler attacks across West Bank
-More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.
 
 ## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
 Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
