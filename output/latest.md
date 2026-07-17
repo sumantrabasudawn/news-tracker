@@ -1,70 +1,67 @@
 # AION Intelligence
 
-## Burnham promises to be ‘pro-business’ as he is crowned Labour leader
-Incoming prime minister says he will ‘set a direction that is distinctively Labour’
+## Wall Street tech stocks slide as AI trade goes into reverse
+Index of US semiconductor stocks on track for worst week since last year’s ‘liberation day’ rout
+
+## South East Water warns it is struggling to secure new funding
+Utility blames public and political scrutiny for hurting investor confidence
+
+## Jonathan Reynolds set to oversee beefed-up business department
+Incoming prime minister Andy Burnham discussing plans to give ministry more powers over science and energy policy
+
+## Apple reclaims crown as world’s most valuable company from Nvidia
+Shares in iPhone maker have escaped AI sell-off that has hit chipmaker
+
+## Netflix shares slide on disappointing growth forecasts
+Streaming giant projects weakest revenue increase in three years
+
+## Seven charts Britain’s next PM should see
+The incoming prime minister promises to boost growth across the country but faces several obstacles
+
+## America’s great World Cup
+Despite predictions of disaster, the tournament in the US has been a great success
+
+## Chinese AI models narrow cyber gap with US rivals
+UK agency warns cheaper open models could leave companies less time to patch critical vulnerabilities
+
+## ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield
+Oil major will acquire a 42% stake in company as US groups return to Iraq
 
 ## EU to give industry more time to pollute and more funds to clean up
 Climate commissioner defends extension of free allowances to heavily polluting sectors
 
-## Global tech stocks fall as AI trade goes into reverse
-Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout
-
-## Trump envoy’s tour on $450mn superyacht stirs anger in Italy
-Rome declines to reveal cost of security for billionaire businessman Tilman Fertitta’s ‘coastal diplomacy’
-
-## Submit your questions: How will Andy Burnham govern the UK?
-Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley on Thursday July 23 at 1pm (BST)
-
-## The perils of relying on PE ratios
-Global gyrations in stock prices and earnings favour other markets
-
-## Andy Burnham’s Britain in seven charts
-The incoming prime minister promises to boost growth across the country but faces several obstacles
-
-## US escalates attacks on Iran as it expands range of targets
-American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
-
 ## How smart tech is being weaponised in the home
 Remote access to domestic devices is increasingly being used to manipulate, intimidate and disturb. Policymakers and tech companies are grappling with safeguards
 
-## What happens after the Bank of England has declared balance-sheet victory?
-It’s been a long road
+## Maersk raises emergency surcharge on India-Europe shipments from August 1
+Move expected to increase logistics costs for Indian exporters
 
-## EQT boosted by strong fundraising momentum and earnings growth
-Shares rally 13% as private equity group’s fee-generating assets under management beat expectations
+## Chabahar port terminal has not faced damage after US strikes: MEA
+Talks on future operations continue with relevant stakeholders after expiry of US sanctions waiver
 
-## Apple targets dozens of OpenAI employees with legal letters
-iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab
+## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
 
-## Mishcon drops partner exit clampdown after internal pushback
-City law firm wanted to stop lawyers resigning en masse amid hiring boom in London market
 
-## FirstFT: Xi outlines China’s ambitions to challenge US dominance in AI
-Also in today’s newsletter: Netflix shares tumble and a breakthrough in the search for extraterrestrial life
+## Zepto IPO anchor book nears closure; Norges, Motilal Oswal may take 40-45%
+The anchor book is expected to be 30 to 45% of the estimated ₹11,000 crore issue
 
-## Banking services must reach every village: Sitharaman
-The FM and AP Chief Minister distribute ₹3,216 crore in loans to over 1.03 lakh beneficiaries in Palnadu, AP
+## NLC India Renewables appoints book running lead managers for IPO
+The proposed IPO is expected to strengthen NIRL’s capital base and support its long-term growth strategy in the renewable energy sector
 
-## EPFO launches “VISHWAS 2026” with slashed penalty rates, simplified process to settle disputes
-The scheme, notified on June 29, will remain operational for six months
+## Q1 Results Today Live: JSW Steel profit doubles, Havells India profit declines; Oberoi Realty, The Federal Bank, Central Bank of India profit up, Reliance & Tata Tech announce Q1 results
+Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
 
-## Ultraviolette targets 1,000 monthly sales by year-end, plans to scale capacity to 1.5 lakh units
-Electric two-wheeler maker to begin deliveries of first electric scooter, Tesseract, in the first quarter of 2027
+## India's first hydrogen train: Salient features
+The train will run between the Jind and Sonipat railway stations and cover the 89-km distance in two hours, with halts at 12 intermediate stations
 
-## Bajaj Dominar: Done and Dusted
-In its quest to decimate the 350s, the Dominar has become one itself! Does that bode well for Bajaj’s touring flagship?
+## MTR bets on protein breakfast trend with six-SKU plant-based range
+Speaking to businessline, Sunay Bhasin, CEO, MTR Foods, said the company expects protein to emerge as a key growth lever within its breakfast portfolio as Indian consumers become increasingly conscious about nutrition
 
-## Tata Sierra.ev: At Ease
-The Sierra.ev is more than just an obvious extension of its ICE counterpart. Has Tata executed it to perfection, though?
+## RIL Q2 FY27 results: Reliance Industries posts 22% fall in profit on one-time Asian Paints caveat from last year; revenue rises 25% yoy
+RIL results: Revenue from operations rose 25% year-on-year to Rs 3.11 lakh crore in the June quarter, compared with Rs 2.48 lakh crore in the same quarter last year. Quarterly EBITDA increased 10% from a year earlier to Rs 54,067 crore.
 
-## Muthoot MCred ties up with South Indian Bank to expand affordable housing finance
-Under the partnership, SIB’s Affordable Housing Loans will be made available through select Muthoot MCred branches across various locations
-
-## Pudu Robotics Highlights Its "One Brain, Multiple Embodiments" Physical Agent at WAIC 2026
-Pudu Robotics Highlights Its "One Brain, Multiple Embodiments" Physical Agent at WAIC 2026
-
-## HCLTech opens 500-seat GIFT City fintech hub for high-end technology work
-Company to deliver AI, data engineering and emerging tech services to banking clients from new Global Technology Office
+## US stock market today: Fresh selling in AI-related stocks drags indices down; oil prices rise
+The S&P 500 declined 1.3%, putting it on course for its first weekly loss in three weeks and only its third losing week in the past 16. As of 9:35 a.m. Eastern time, the Dow Jones Industrial Average had fallen 451 points, or 0.9%, while the Nasdaq Composite was down 2.1%.
 
 ## Strait of Hormuz closure: Why crude oil prices haven’t spiralled out of control amid US-Iran conflict
 Brent crude prices in the spot market briefly surged to around $144 per barrel before easing as markets adjusted. Yet as ADB notes in its report - despite this unprecedented supply shock, crude oil prices did not reach levels seen during the 1973 Arab oil embargo or even the 1990 Gulf war, if one we
@@ -84,59 +81,56 @@ NITI Aayog proposes six national initiatives for India's biotechnology sector. T
 ## Why India's first hydrogen train is special - explained
 With the launch of a hydrogen train, India has undoubtedly taken a big leap in the sphere of greener transportation. India’s first hydrogen-powered train has 10 coaches, with the capacity to carry 2,600 passengers. It will run between Jind and Sonipat in Haryana.
 
-## Gold price prediction: Is it time to buy gold on dips? Check July 17, 2026 outlook
-Gold price prediction today: Gold prices are favouring a buy on dips strategy, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities.
+## Faridabad hospital suspends 3 junior doctors, nurse over emergency ward absence
+Three junior doctors and a staff nurse were suspended at Faridabad’s SABVGMC hospital after a patient complaint over their absence from the emergency ward.
 
-## Asian markets tumble as AI stock sell-off deepens; Nikkei sinks nearly 6%, HSI plunges 2%
-Asian stock markets experienced significant selling pressure on Friday. Japan's Nikkei 225 and Taiwan's benchmark saw sharp declines. Concerns over artificial intelligence stock valuations and Middle East conflict weighed on investors. Oil prices extended gains as Middle East tensions escalated. US 
+## Planning a Himalayas trip? Check IMD's weather forecast for Himachal, Uttarakhand before you pack
+The IMD has issued a yellow alert for Himachal Pradesh, while Uttarakhand is on high alert for flash floods and landslides.
 
-## Badrinath temple donation theft: Retired BKTC employee arrested by SIT
-Chamoli police's SIT arrested a retired BKTC employee after CCTV allegedly showed him stealing cash from the Badrinath temple donation room on three occasions.
+## Chase from train to bike to school, end in a field: 2 wanted men shot by cops in UP's Shikohabad
+Accused men were spotted at Shikohabad train station, then chase ensued as they got a bike and started firing back at the cops who chased them
 
-## How much does an ISRO scientist earn? Salary, eligibility explained amid resignation reports
-The Department of Space has tightened voluntary retirement and resignation norms amid a spate of resignations in ISRO.
+## Former NSG commando held in Jodhpur; ₹1.6 crore cash, 8 kg opium seized: Police
+Jodhpur Police arrested a former NSG commando after seizing ₹1.6 crore in cash, 8 kg of opium latex and a car during a raid linked to a drug trafficking case.
 
-## ‘Don't want to be blamed’: SC wants details on rape convict Asaram's health as he seeks interim bail
-Rajasthan govt's lawyer told SC, “There is some bleeding… but that appears to be a temporary phenomenon,” and that Asaram is taking medicine.
+## Indira’s past, Sonia’s push, Rahul’s parallel: How Gandhis’ Congress has 3-track policy on Wangchuk and CJP
+Congress has noted it has been demanding education minister Pradhan's resignation for nearly two months now. That demand is common with the CJP and Wangchuk.
 
-## ‘Government stands with the kanwariyas’: CM Yogi assures security to pilgrims, urges discipline
-The Uttar Pradesh CM urged kanwariyas to maintain discipline and uphold Lord Ram's 'maryada' (dignity), Lord Krishna's values and Lord Shiva's simplicity
+## Two killed in Uttarakhand truck accident; search on for boy swept away in Ganga
+Two men died after a truck plunged into a gorge in Rudraprayag, while SDRF teams continued searching for a 16-year-old swept away by the Ganga in Haridwar.
 
-## 'You ignored because she was poor?': Supreme Court lambasts doctor for denying care to 4-year-old rape victim
-The three-judge bench comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana also questioned the doctor and the hospital’s empathy.
+## 'Sheer recklessness': Ex-Japan minister slams India for delays in bullet train project, MEA hits back
+Hideki Makihara, Japan’s former Justice Minister and a member of the ruling Liberal Democratic Party, had blamed India for delays in the Shinkansen project.
 
-## When Indira Gandhi met Sonam Wangyal, Wangchuk's father, in Ladakh: 1984 story that brought Cong to CJP stage finally
-Congress MP Pawan Khera became an official party face to physically visit the protest site on Friday, July 17, meeting Sonam Wangchuk.
+## Kedarnath Yatra resumes after landslide blocks trek route; IMD issues alert
+Kedarnath Yatra resumed after a five-hour halt as authorities cleared a rain-triggered landslide, while IMD issued an orange alert for heavy rain in Uttarakhand
 
-## Sonam Wangchuk loses 9.5 kg weight after twenty days of hunger strike, vows to 'live till July 20 at any cost'
-The doctors noted that Wangchuk showed signs of mild dehydration but remained mentally alert.
-
-## 'Showing a spine against govt not easy': RJD on Aamir Khan's comment on Sonam Wangchuk
-RJD MP Manoj Jha criticized Aamir Khan's recent comments about Phunsukh Wangdu's inspiration, questioning the timing of his clarification.
-
-## Mahesh Tutorials shuts: Can parents get a refund? Here’s what you need to know
+## Aishwarya Rai’s co-star Abbas worked as a mechanic, drove taxis after becoming ‘destitute’
 
 
-## ‘Silly and childish’: Why Shah Rukh Khan became ‘Abhinav’ to win over Gauri Khan’s parents
+## Robert De Niro figures in Tarun Tejpal’s arguments in court
 
 
-## Infantino set for fourth FIFA term despite Balogun controversy & IOC complaint over Trump ties: Reports
+## 8 towns famous for their iconic colours
 
 
-## No proof alcohol, smoking caused cancer, patient wins Rs 1.65 lakh insurance claim
+## Heartstopper Forever review: A heartfelt farewell to a generation’s defining queer romance
 
 
-## ‘Dinner invitation accepted’: Erling Haaland finally replies to Tom Holland’s unanswered DM
+## What led to Bengal train accident: Initial probe rules out signal glitch, blames ‘human error’
 
 
-## Why South India’s fiery gunpowder masala deserves a place in every kitchen
+## Art and Culture with Devdutt | Did Greeks influence Indian theatre?
 
 
-## India now has the funds, the talent and the opening for a research leap
+## Gas tanker explodes in Mumbai’s Chembur, driver killed
 
 
-## Kuber Group owner’s son arrested in Rs 8.7 crore watch smuggling case, gets bail
+## Apple overtakes Nvidia to become world’s most valuable company. Here’s how
 
+
+## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
+Airbus has secured an order for 55 aircraft from two Chinese airlines, including 15 widebody A350 jets, strengthening the European giant’s widebody sales in the world’s second-largest air transport market. Air China, one of the country’s three major state-owned carriers, announced the deal on Friday
 
 ## Hong Kong’s office market: Central booms, but noncore areas struggle
 Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say. The reluctance of banks to finance commercial-property purchases has reinforced the split, a
@@ -159,8 +153,11 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
-## AI, chip boom is lifting Hong Kong’s ETP market to new heights: HKEX director
-Investor appetite for artificial intelligence and semiconductor plays will continue to drive fast growth in Hong Kong’s exchange-traded products (ETP) market in the second half of the year, strengthening the city’s wealth management industry, according to a director of Hong Kong Exchanges and Cleari
+## U.S.-China Relations Are More Volatile Than Ever
+Trump and Xi have brutally undermined the institutions and personnel responsible for safeguarding diplomacy.
+
+## How to Isolate Tehran
+Opening Hormuz requires marrying force with effective diplomacy.
 
 ## Latin America’s Oil Boom
 Some exporters are reaping financial benefits amid the Iran war.
@@ -179,12 +176,6 @@ NATO’s multinational forces are an unwieldy relic of a more peaceful past.
 
 ## A Divided World Is North Korea’s Greatest Asset
 Geopolitical fragmentation has hamstrung nuclear sanctions regimes. Pyongyang is taking advantage.
-
-## Nigeria Is Quietly Becoming a Diplomatic Powerhouse
-Many analysts think Abuja’s foreign policy is on the decline. Here’s why that view is misguided.
-
-## Iranian Attacks Need Not Change the Gulf’s AI Ambitions
-Ukraine offers lessons in how to keep infrastructure alive in wartime.
 
 ## Philippines Issues Formal Protest to China Over ‘Dehumanizing’ State Media Video
 The Department of Foreign Affairs demanded the "immediate takedown” of the AI-generated video, in which the Philippines was depicted as a monkey.
@@ -258,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US marines board commercial tanker in Gulf of Oman
-US marines board commercial tanker in Gulf of Oman
+## Uganda school bus crash kills 20 children and 1 adult
+Uganda halts school trips after bus crashes returning from waterfall field trip; at least a dozen also injured.
 
-## China slams Trump’s claims over 2020 US election interference
-China has responded to US President Donald Trump’s claims that China interfered in the 2020 US presidential election.
+## Burnham confirmed as leader of UK’s governing Labour Party, headed for PM
+Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.
 
-## Church of England backs Palestinian Christians despite backlash
-The Church of England passed a motion to learn about the experiences of Palestinian Christians in the Kairos documents.
+## China’s Xi Jinping launches new AI alliance: What is it?
+Beijing is likely to use the WAICO alliance to influence global AI regulations, analysts say.
 
-## Did China steal 2020 US election data, as Trump claims?
-Trump revived long-debunked theories regarding the 2020 elections in a primetime speech.
+## UN urges probe into deaths in Pakistani-administered Kashmir unrest
+Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.
 
-## ‘Yuba’ – My dear father
-My father, Sheikh Hamad bin Khalifa Al Thani, believed leadership meant putting Qatar and its people first.
+## Satellite images show damage inside Iran’s Bushehr nuclear power plant
+Satellite images reveal strikes between July 7 and 12 on Iran’s largest nuclear power plant.
 
-## The Church of England has taken a long-overdue step on Palestine
-By agreeing to hear Palestinian Christians, the Synod has begun to confront its history and responsibilities.
+## Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis
+Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.
 
-## Why is the US attacking southern Iran’s civilian infrastructure?
-Analysts say the goals range from targeting Iran's supply lines to curbing its influence in the Strait of Hormuz.
+## ‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?
+The Italian government can now offer children and wives of mafia bosses a way out of the family business.
 
-## Japan passes legislation banning violation of national flag
-Critics claim latest element of PM Takaichi's conservative drive threatens free speech, invites political abuse.
+## Deadly storm leaves half a million without power in Chile
+Deadly storm leaves half a million without power in Chile
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
@@ -306,6 +297,9 @@ Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard ag
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
+## India's economy remains strong amid West Asia, weak monsoon risks: RBI chief
+RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain strong, with a decent pace of economic expansion despite geopolitical uncertainties triggered by the West Asia crisis.
+
 ## RBI fixes underwriting commission rates for Rs 32,000 crore government securities auction
 The Reserve Bank of India (RBI) has fixed the underwriting commission cut-off rates for three government securities carrying a combined notified amount of Rs 32,000 crore.
 
@@ -326,7 +320,4 @@ The Securities and Exchange Board of India (Sebi) resolved more than 5,000 inves
 
 ## NSE got SEBI's nod to launch derivatives on Nifty India FPI 150 Index from August 12
 The National Stock Exchange of India (NSE) has received SEBI's approval to launch derivatives on the Nifty India FPI 150 Index (NIFTYFPI) from August 12, as per a statement by the stock exchange.
-
-## The Rs 1.5 lakh crore bank guarantee link that could rattle NSE, BSE and MCX
-Revised RBI norms on bank guarantees could squeeze proprietary traders by sharply reducing leverage and raising funding costs, potentially hurting derivatives trading volumes. Analysts say the move, along with higher STT, may weigh on the valuations of exchange operators such as NSE, BSE and MCX.
 
