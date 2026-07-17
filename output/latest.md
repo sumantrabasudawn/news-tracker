@@ -1,13 +1,19 @@
 # AION Intelligence
 
+## US chip stocks head for worst week in more than a year
+High-flying semiconductor shares fall as ‘momentum trades’ backfire
+
+## Robert Jenrick’s wife knew in 2024 about foreign payments to his top donor, lawyer claimed
+Police are investigating the legality of donations to the politician during his Conservative Party leadership bid
+
 ## Ukraine’s rift over battlefield strategy breaks into the open
 Sacking of popular defence minister exposes divisions over how to fight Russia
 
+## Warsh’ington times
+The Fed chair offered little new information to Congress on his plans to shake up the central bank
+
 ## Jonathan Reynolds set to oversee beefed-up business department
 Incoming prime minister Andy Burnham discussing plans to give ministry more powers over science and energy policy
-
-## Wall Street tech stocks slide as AI trade goes into reverse
-Index of US semiconductor stocks on track for worst week since last year’s ‘liberation day’ rout
 
 ## Reformation IPO bets fast fashion can keep up with Big Fashion
 Maker of eco-friendly clothes can hold its own against Spanish giant Inditex on several metrics
@@ -30,29 +36,29 @@ UK agency warns cheaper open models could leave companies less time to patch cri
 ## ConocoPhillips joins BP on redevelopment of supergiant Kirkuk oilfield
 Oil major will acquire a 42% stake in company as US groups return to Iraq
 
-## India overtakes Spain to become fourth-largest LNG regasification market
-India commissioned the Chhara LNG terminal and expanded Dabhol, with four more projects set to add 11.3 mtpa of regasification capacity by 2028
+## CSR must move from compliance to creating impact, say industry leaders
+Vinit Nayar, Founder-Chairman of the Sampark Foundation, argued that the social sector needs the same spirit of innovation and design thinking that transformed India’s IT industry
 
-## Q1 Results Today Highlights: JSW Steel profit doubles, Havells India profit declines; Oberoi Realty, The Federal Bank, Central Bank of India profit up, Reliance & Tata Tech announce Q1 results
-Q1 Results Today, 17th July 2026 Highlights: Catch live updates
+## DCM Shriram to acquire 26% stake in Serentica Renewables for ₹105 crore
+The investment will support a 58 MW hybrid renewable energy project to power DCM Shriram’s energy-intensive operations in Bharuch, Gujarat.
 
-## RIL Q1 Revenue jumps 25 per cent to ₹3.11 lakh crore; EBITDA hits record ₹47,517 crore
-Strong O2C recovery and rising digital services at Jio offset Retail margin pressure, helping Reliance beat EBITDA expectations
-
-## Urad prices surge on tight supplies, rise in rates in origins
-Concerns over weak monsoon hurting the kharif sowing, influence prices
-
-## Reliance Retail revenue rises 7%, JioMart orders more than double
-Reliance Retail’s Q1 FY27 growth was led by JioMart, where average daily orders jumped 116 per cent, helping transactions reach 568 million and the registered customer base expand to 396 million. The digital push, however, compressed the EBITDA margin by 80 basis points to 7.9 per cent despite doubl
-
-## Introduction to AI-nomics and how they matter to investors | Risk vs Reward | EP 04
-
+## Sir Garfield Sobers dies at 89, cricket loses its greatest all-rounder
+Cricket has lost one of its greatest icons. Sir Garfield Sobers, the legendary West Indies captain and all-rounder, leaves behind a legacy that will inspire generations.
 
 ## IAMAI announces the launch of E-Commerce Council of India
 This initiative unites top digital commerce companies, including Amazon, Flipkart, Swiggy, Indiamart, MakeMyTrip, Uber, and eBay
 
+## IMA Maharashtra calls a strike on Monday, against attack on healthcare workers at local hospital
+All routine healthcare services across the state will be withdrawn for 24 hours; gets support of several medical organisations
+
 ## Current surge in sugar prices unjustified as availability, stocks comfortable, say ISMA, NFCSF
 The leading associations in a meeting with the government assure of starting crushing operations quickly in the 2026-27 season
+
+## JSW Steel Q1 net doubles to ₹4,696 crore on better realisation
+Revenue increased 10 per cent to ₹47,364 crore (₹43,147 crore)
+
+## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
+
 
 ## Which states are the most investor friendly? Gujarat tops Niti Aayog index; Maharashtra & Tamil Nadu rank next
 The index evaluates states and UTs across eight key pillars: infrastructure, business climate, resources, government policy, regulatory ease, institutional environment, financial health and environmental resilience.
@@ -78,52 +84,52 @@ India's current account deficit is projected to widen significantly by fiscal ye
 ## Mumbai-Ahmedabad bullet train update: Progress so far and Japan's E10 plan
 India's first bullet train project between Mumbai and Ahmedabad is progressing well. Initial operations will commence using Indian high-speed trains in 2027. Japan's next-generation E10 Shinkansen trains will be introduced later, after 2030. The first operational stretch will connect Surat and Bilim
 
-## India rejects Pak protest on cross-border terror text in jt statement with Japan
-After a meeting between PM Modi and Japan’s Sanae Takaichi, the two countries condemned all forms of terrorism, “including cross-border terrorism from Pakistan”
+## Delhi HC refuses interim bail to Al Falah university chairman Jawad Siddiqui in ED cases
+Siddiqui sought interim bail on the ground that his wife's health was critical and he wanted to be with her at this stage of her life.
 
-## Central govt quarters licence fee revised from July 1
-The Union housing ministry has revised licence fees for GPRA quarters across Type-I to Type-VIII categories, with new rates effective from July 1, 2026.
+## CRISIL upgrades Vedanta Group companies, lifts flagship firm's rating to highest level in over a decade
+The latest action reflects CRISIL's assessment of the group's stronger financial position following the demerged structure.
 
-## Faridabad hospital suspends 3 junior doctors, nurse over emergency ward absence
-Three junior doctors and a staff nurse were suspended at Faridabad’s SABVGMC hospital after a patient complaint over their absence from the emergency ward.
+## ‘Heads are rolling’: AAP links Anurag Kumar's appointment as Delhi Police Commissioner to CJP protest
+Former intelligence bureau special director Anurag Kumar replaces Satish Golcha, who has been leading the Delhi Police since August 22, 2025.
 
-## Planning a Himalayas trip? Check IMD's weather forecast for Himachal, Uttarakhand before you pack
-The IMD has issued a yellow alert for Himachal Pradesh, while Uttarakhand is on high alert for flash floods and landslides.
+## Dhaka’s request for Sheikh Hasina’s extradition is being examined, says India
+Sheikh Hasina’s presence in India has remained an irritant in bilateral ties, which improved somewhat after the Tarique Rahman government came to power this year
 
-## Chase from train to bike to school, end in a field: 2 wanted men shot by cops in UP's Shikohabad
-Accused men were spotted at Shikohabad train station, then chase ensued as they got a bike and started firing back at the cops who chased them
+## India engages US over stricter visa rules affecting Indian students, visitors
+India said it is engaging US authorities after new visa rules restrict stays for foreign students, exchange visitors and journalists
 
-## Former NSG commando held in Jodhpur; ₹1.6 crore cash, 8 kg opium seized: Police
-Jodhpur Police arrested a former NSG commando after seizing ₹1.6 crore in cash, 8 kg of opium latex and a car during a raid linked to a drug trafficking case.
+## NEET UG 2026 records second-lowest attendance under NTA, but highest-ever qualifying cut-off
+The attendance rate in the June 21 re-examination was the lowest in any non-pandemic NEET conducted by the NTA, and the second-lowest overall.
 
-## Indira’s past, Sonia’s push, Rahul’s parallel: How Gandhis’ Congress has 3-track policy on Wangchuk and CJP
-Congress has noted it has been demanding education minister Pradhan's resignation for nearly two months now. That demand is common with the CJP and Wangchuk.
+## ' ₹40 lakh for a NEET UG question paper': Rahul Gandhi shares 'paper ka rate', claims high tech used in leaks
+Showing a graphic titled "Paper Ka Rate", Gandhi claimed examination papers are being sold like products with predetermined rates.
 
-## Two killed in Uttarakhand truck accident; search on for boy swept away in Ganga
-Two men died after a truck plunged into a gorge in Rudraprayag, while SDRF teams continued searching for a 16-year-old swept away by the Ganga in Haridwar.
+## India-backed Chabahar terminal safe, says MEA; flags safety of civilian assets
+India urged countries in the West Asia conflict to avoid targeting civilian infrastructure.
 
-## Brenda Fricker, first Irish actress to win an Oscar, dies at 81
-
-
-## Messi missed, as did Mbappe: what’s behind legends fluffing penalties this WC
+## Congress panel wiped out as BJP front wins 15 of 16 seats in Amul’s Surat-Tapi dairy
 
 
-## Gujarat, Maharashtra & Tamil Nadu top Niti Aayog’s Investment Friendliness Index
+## Do Androids dream of human hearts? What Ishiguro’s cyborgs teach us about love
 
 
-## ‘Knowing the answers won’t be enough’: Amitabh Bachchan teases KBC 18’s new format. Watch
+## Nakul Anand, The Night Manager who never quite checked out
 
 
-## Jana Nayagan: Vijay drops emotional father-daughter track ‘Adiye En Poonthene’, watch
+## Alireza Firouzja one-ups Gukesh D in 69-move nail-biter
 
 
-## 7.4 magnitude earthquake strikes off Mexico’s Chiapas coast, tsunami warning issued
+## Name deletion under SIR does not mean automatic loss of citizenship, says top court
 
 
-## Department cleared my social media accounts: Suspended incharge of Himachal police orchestra
+## This historic cannon weighed 3.5 tonnes. Theives still found a way to disappear with it
 
 
-## Wanted men on a train, child held hostage, 2 ‘encounters’: A police chase in three acts
+## SIR deadline for Maharashtra extended; voter verification to continue till August 8
+
+
+## How Delhi plans to curb waterlogging on key road connecting national capital and Gurgaon
 
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
@@ -150,6 +156,18 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
+## What in the World?
+Test yourself on the week of July 11: China introduces AI regulations, Trump briefly imposes a toll on Hormuz, and Congo’s Ebola outbreak spreads.
+
+## Syria’s Weak Parliament Still Matters
+The country’s newly opened assembly is by no means democratic, but it can still be more than a rubber stamp.
+
+## The U.S. and Iran Signed a Memorandum of Misunderstanding
+Detail and care matter in peacemaking, but not to this White House.
+
+## Does Cuba Really Have Iranian Drones?
+Experts say Trump is laying the pretext for U.S. military action against the island.
+
 ## Lebanon’s Peacekeepers Are Heading for the Exits
 As UNIFIL leave Lebanon, it’s not clear who—if anyone—will replace it.
 
@@ -161,18 +179,6 @@ Opening Hormuz requires marrying force with effective diplomacy.
 
 ## Latin America’s Oil Boom
 Some exporters are reaping financial benefits amid the Iran war.
-
-## Russia’s Arms Buyers Rejoice Over Trump’s Deal With Turkey
-India and other Kremlin customers will benefit from an easing of restrictions.
-
-## The America First Contradiction
-A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
-
-## Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
-Defense Minister Mykhailo Fedorov was popular for his drone development push—but not enough to keep him in office.
-
-## German Military Power Needs to Go It Alone
-NATO’s multinational forces are an unwieldy relic of a more peaceful past.
 
 ## Philippines Issues Formal Protest to China Over ‘Dehumanizing’ State Media Video
 The Department of Foreign Affairs demanded the "immediate takedown” of the AI-generated video, in which the Philippines was depicted as a monkey.
@@ -198,6 +204,12 @@ One woman’s attempt to stand for election as mahalla chairperson reveals the b
 ## Playing for a Place in the World Through Taiwan’s Baseball Diplomacy
 International sport offers something that conventional diplomacy often cannot: a stage on which Taiwan can appear before a global audience.
 
+## The Fedorov Dismissal: On Trust, Technology, and Turnover
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members.Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
+
+## The Fedorov Dismissal: On Trust, Technology, and Turnover
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary from across the political spectrum.Every Monday, War on the Rocks members get a curated selection of op-eds and editorials from Ukrainian-language media to understand how Ukrainians themselves debate the biggest issues shaping t
+
 ## The Blood Bank and the Logistics of Wartime Medicine
 Before the twentieth century gave armies antibiotics, the leading killer of American soldiers in wartime was neither enemy fire nor shrapnel. Two-thirds of the roughly 620,000 deaths in the U.S. Civil War came from diseases like typhoid and dysentery. Spread through contaminated water and crowded ca
 
@@ -215,12 +227,6 @@ Nothing reveals truths more effectively than patterns. If you can identify a pat
 
 ## Academia’s Critical Role in Developing an Economic Security Workforce
 Editor’s note: This is the tenth article in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the broader national security ecosystem. The special series is brought to you by the Potomac Institute for Polic
-
-## One Size Doesn’t Fit All: The Many Faces of Africa’s Foreign Fighters
-In 2020, Austin Doctor wrote, “The Looming Influx of Foreign Fighters in Sub-Saharan Africa,” in which he predicted the region would see an influx of foreign fighters to aid Islamist extremist groups. Six years later, we asked Austin to revisit his arguments.Image: African Union Mission in Somalia (
-
-## MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide
-Editor’s note: This is the third article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -246,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iranian forces: missiles and drones fired at US targets in Gulf States
+Iranian forces: missiles and drones fired at US targets in Gulf States.
+
+## Apple regains top spot as world’s most valuable company
+Apple regained world’s top spot with $4.88 trillion valuation, overtaking Nvidia which saw a 3.5% market value drop.
+
+## Amazon’s Zoox recalls self-driving vehicles amid emergency response issues
+The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.
+
+## Eight killed, at least 34 missing after landslide in China’s Chongqing
+Landslide has buried homes and forced more than 1,100 people to evacuate.
+
+## Pakistan cricketer Nawaz sanctioned after cannabis-related positive test
+Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.
+
+## Israeli attacks on Gaza kill 14, including mourners attending funeral
+Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.
+
 ## ‘They took our toilet’: How a settlement has squeezed a Palestinian village
 An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.
 
 ## Plainclothes ICE agents manhandle man during arrest attempt
 Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.
-
-## Ukraine suffers port attacks as protests persist over defence shake-up
-Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.
-
-## France vs England – World Cup third-place playoff: Prediction, kickoff
-Losing semifinalists France and England meet in a playoff for the bronze medal, a day before the World Cup final.
-
-## Uganda school bus crash kills 20 children and 1 adult
-Uganda halts school trips after bus crashes returning from waterfall field trip; at least a dozen also injured.
-
-## Burnham confirmed as leader of UK’s governing Labour Party, headed for PM
-Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.
-
-## China’s Xi Jinping launches new AI alliance: What is it?
-Beijing is likely to use the WAICO alliance to influence global AI regulations, analysts say.
-
-## UN urges probe into deaths in Pakistani-administered Kashmir unrest
-Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
