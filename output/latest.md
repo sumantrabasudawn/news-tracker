@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke
+President to call PM Mark Carney over ‘filthy, polluted’ air wafting over US cities
+
 ## Trump Media pitched $100,000 monthly fee for fast feed of president’s posts
 Family company has quoted the six-figure sum for high-speed access to Truth Social platform
 
@@ -20,9 +23,6 @@ New Labour leader wins rapturous reception but faces immediate questions over ho
 
 ## Meta and Anthropic in talks for up to $10bn data centre deal
 Social media giant is considering launching a cloud business as it spends $145bn on infrastructure
-
-## How long can oil markets absorb the Hormuz shock?
-Improvements in oil intensity have cushioned the global economy so far — but could prompt reckless political choices
 
 ## Moneysupermarket to launch investment platform
 Price-comparison site set to enter crowded market against established providers
@@ -156,6 +156,9 @@ More than 9.4 million investor accounts applied for shares in the blockbuster in
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
+## Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else
+Their teams will face off in the upcoming FIFA Men’s World Cup final.
+
 ## Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
 China wants to use the ancient deity Mazu to push unification narratives.
 
@@ -176,9 +179,6 @@ The country’s newly opened assembly is by no means democratic, but it can stil
 
 ## The U.S. and Iran Signed a Memorandum of Misunderstanding
 Detail and care matter in peacemaking, but not to this White House.
-
-## Does Cuba Really Have Iranian Drones?
-Experts say Trump is laying the pretext for U.S. military action against the island.
 
 ## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
 “When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Houthi supporters rally in Sanaa against ‘Saudi-led blockade’
+Thousands of Houthi supporters rallied in Sanaa against what they described as the Saudi-led blockade against Yemen.
+
+## Suspected Somali pirates seize tanker near Yemen amid wave of hijackings
+The seizure of the Astana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.
+
+## Top IRS lawyer to resign post amid disagreements with Trump administration
+Reports indicate a controversial settlement deal and disputes over tax audits may have prompted Ken Kies to step down.
+
+## Israel, Gaza and the future of US power
+Congressman Ro Khanna joins Sreenivasan Jain.
+
 ## How an Italian sculptor created the iconic World Cup trophy
 In 1970, an Italian sculptor designed the iconic World Cup trophy that’s become familiar to generations of fans.
 
@@ -263,18 +275,6 @@ World Cup organisers are monitoring the situation 'closely', with US and FIFA pr
 
 ## At least three killed and hundreds displaced by heavy rain in Chile
 Chilean President Jose Antonio Kast says that he is travelling to the Biobio region to survey flood damage.
-
-## All-time West Indies cricket great Garfield Sobers dies aged 89
-Arguably the greatest all-rounder of the game, Sobers led the West Indies at his peak, breaking Test cricket records.
-
-## Germany’s Merz hails nuclear deterrence cooperation with France
-The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.
-
-## Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria
-Germany, stripped of Russian pipeline gas, received Algeria's president with military honours and talked about LNG.
-
-## Can the US and Iran reach a lasting deal to end the conflict?
-Air strikes intensify raising fear of an all-out war.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
