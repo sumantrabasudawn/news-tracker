@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Seven super swimming spots in Europe
+Plunge, swim, steam or bathe in these urban centres
+
+## Can Explora Journeys’ Greek odyssey convert a sceptic?
+The HTSI travel editor takes her first cruise
+
+## Zelenskyy government in turmoil after defence minister fired
+Ukraine president forced into concession as ousting of popular minister prompts public and political backlash
+
+## US escalates attacks on Iran as it expands range of targets
+American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
+
+## Global tech stocks fall as AI trade goes into reverse
+Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout
+
 ## Chip and memory stocks slide in fresh bout of Wall Street tumult
 Investors pull away from shares in companies that have led markets higher this year
 
@@ -9,47 +24,47 @@ Never let your left hand know what your right hand is doing
 ## Brussels seeks climate vs industry trade-offs in ETS revamp
 Also in this newsletter: Brussels seeks bigger, simpler banks in competitiveness overhaul
 
+## Burberry returns to growth boosted by US and China demand
+UK luxury brand has been particularly popular with Gen Z consumers
+
+## Who pays for AI?
+And how much?
+
 ## FirstFT: Burnham plans policy blitz
 Also in today’s newsletter: BoE bond sales and Accor’s chief executive
 
 ## London’s Messi relationship with listed companies
 There’s no end in sight for foreign takeovers of UK companies
 
-## EU climate chief backs support for heavy industry while delaying emissions curbs
-Wopke Hoekstra confirms planned reduction in carbon permits will be softened
+## Sensex today | Stock Market Live: Nifty breaks past 24,200 as IT stocks surge; broader market lags
+Sensex, Nifty, Share Prices LIVE: Markets extended gains through the afternoon session on Thursday, with the Sensex trading at 77,817.02, up 630.15 points or 0.82%, and the Nifty 50 at 24,219.60, up 146.85 points or 0.61%
 
-## The year-long plan to make Burnham Labour leader
-Project ‘ABC’, Andy by conference, succeeds with two months to spare
+## Novo Nordisk’s obesity drug Wegovy gets CDSCO approval to treat liver condition
+The product is the first and only GLP-1 for adults with fatty liver disease in India, Novo Nordisk says
 
-## UK mortgage rates rise again after resumption of Middle East hostilities
-Several big lenders raised their fixed rates by as much as 0.35 percentage points
+## i2Cool Co-Founder and CEO Prof. Martin Zhu Honoured with 2025 Leader of the Year Young Entrepreneur Award
+i2Cool Co-Founder and CEO Prof. Martin Zhu Honoured with 2025 Leader of the Year Young Entrepreneur Award
 
-## Who pays for AI?
-And how much?
+## 93.07% Bifaciality Module! Tongwei Leads Intersolar Europe 2026 with Global Launch of TNC 3.0 BIFIMAX Module
+93.07% Bifaciality Module! Tongwei Leads Intersolar Europe 2026 with Global Launch of TNC 3.0 BIFIMAX Module
 
-## Q1 Results Today Live: Reliance shares up ahead of results, JSW Steel, Havells, Oberoi Realty, Tata Tech to announce Q1 results, Jio Financial, Tech Mahindra, BHEL soar after Q1, Wipro, WeWork, CEAT, Polycab shares decline
+## Q1 Results Today Live: Havells India Q1 profit declines 15%, The Federal Bank & Central Bank of India profit up, Reliance shares up ahead of results, JSW Steel, Oberoi Realty, Tata Tech to announce Q1 results
 Q1 Results Today, 17th July 2026 Live Updates: Catch live updates
 
-## Sensex today | Stock Market Live: Sensex jumps over 800 points, Nifty tops 24,280 as IT stocks rally
-Sensex, Nifty, Share Prices LIVE: Indian equities rallied on Friday, with IT stocks lifting the Sensex over 800 points and the Nifty above 24,280 as investors awaited earnings from Reliance Industries, HDFC Bank and ICICI Bank for fresh market direction.
+## Nifty breaks past 24,200 as IT stocks surge; broader market lags
+Tech Mahindra leads Nifty 50 gainers, rising 4.10% to ₹1,572.20
 
-## Polycab shares drops 3.8% despite Q1 beats; analysts split on outlook
-The stock opened at ₹9,169.50 and slipped to an intraday low of ₹8,861, with sell orders outweighing buys 62.5 per cent to 37.5 per cent.
+## PSBs expect to raise $30 bn from RBI’s overseas deposit scheme, sources say
+RBI had announced a zero-cost foreign-exchange swap facility for deposits raised from non-resident Indians on June 5
 
-## Memory prices lead to India’s biggest June-quarter decline in smartphone shipments in 6 years
-Smartphone memory prices have increased nearly four times since September 2025 and are expected to rise further, potentially reaching five times their previous levels in the coming months
+## Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf
+The re-escalation in fighting between the ⁠U.S. and Iran has once again largely stopped traffic through Hormuz, the world's most important shipping route for oil and gas, driving up global energy prices
 
-## BHEL hits 52-week high before retreating; analysts split as Q1 profit ends eight-year wait
-The stock has been among the standout performers in its index cohort
+## Why India's first hydrogen train is special - explained
+With the launch of a hydrogen train, India has undoubtedly taken a big leap in the sphere of greener transportation. India’s first hydrogen-powered train has 10 coaches, with the capacity to carry 2,600 passengers. It will run between Jind and Sonipat in Haryana.
 
-## ech Mahindra shares jump on Q1 results; analysts split on valuation
-Tech Mahindra’s net profit increased by 31.6% to ₹1,486 crore on an annual basis in the June-ending quarter
-
-## ‘New mobile phone manufacturing scheme can aid Tamil Nadu's shift from assembly to value-added manufacturing’
-Tamil Nadu is well placed to benefit from MPMS with around 38-40 per cent of India’s smartphone shipments originating from Kanchipuram and Chengalpet districts.
-
-## PM Modi flags off India’s first hydrogen-powered train in Haryana
-Developed with indigenous technology, the hydrogen-powered train generates onboard electricity and emits only water vapour, resulting in zero carbon emissions
+## Gold price prediction: Is it time to buy gold on dips? Check July 17, 2026 outlook
+Gold price prediction today: Gold prices are favouring a buy on dips strategy, says Jateen Trivedi, VP Research Analyst - Commodity and Currency, LKP Securities.
 
 ## Asian markets tumble as AI stock sell-off deepens; Nikkei sinks nearly 6%, HSI plunges 2%
 Asian stock markets experienced significant selling pressure on Friday. Japan's Nikkei 225 and Taiwan's benchmark saw sharp declines. Concerns over artificial intelligence stock valuations and Middle East conflict weighed on investors. Oil prices extended gains as Middle East tensions escalated. US 
@@ -69,59 +84,68 @@ The rupee opened stronger against the US dollar on Friday, gaining fourteen pais
 ## Hydrogen train, Rs 25K cr in projects: PM Modi's agenda in Haryana, Chandigarh & Punjab
 Prime Minister Narendra Modi will launch development projects exceeding twenty-four thousand eight hundred crore rupees. These initiatives span highways, railways, healthcare, and education infrastructure across three regions. The visit includes flagging off India's first hydrogen-powered train from
 
-## Where are gold and silver prices heading? Inflation, oil and Fed bets hold the key
+## 'Had gone just to ask for money': Accused in Delhi IRS officer's daughter's rape-murder tells cops
+Police said accused Rahul Meena entered the house early morning on April 22 using prior knowledge of a spare key while the victim was alone, and raped her.
+
+## Meet Tukaram Mundhe: 25 transfers in 21 years, now the face of food safety raids across Maharashtra
+IAS officer Tukaram Mundhe took charge as Maharashtra’s FDA commissioner on May 25. Since then, raids have been conducted on wholesalers, manufacturers, etc.
+
+## ‘Shows the govt is heartless’: Not only Sonam Wangchuk, AISA activists on parallel hunger strike ‘at high risk’ too
+AISA said the three would continue hunger strike in solidarity with Wangchuk. Doctor who examined the activists offered a grim assessment of their vitals.
+
+## Congress leader dies at Dehradun school during 'Chhatron Ki Goonj' preparations ahead of Rahul Gandhi's visit
+Congress leader Amar Mehta sustained fatal injuries after an iron cutter fell on his head at the venue as the preparations were underway for the programme.
+
+## Terms of Trade: BJP’s different approach to different oppositions
+The government failing to muster a two-third majority to pass a bill that clubbed the rollout of women’s reservation with the delimitation of constituencies
+
+## 'Don't accept resignations': Govt tightens rules for ISRO exits amid mass appeals to quit
+The department has directed ISRO centres not to routinely accept resignation or voluntary retirement requests from Group 'A' scientific and technical personnel.
+
+## MH-60R Seahawk delivered to India, 2 more on the way: All about ace chopper central to US defence ties
+Another MH-60R Seahawk had been delivered to the Indian Navy in Kochi last week, with two more helicopters expected to arrive this week.
+
+## ‘Will study SC order, take appropriate steps,’ says collector on Bhojshala issue
+The administration said it would study the Supreme Court's directions before taking steps to ensure peace and implement the order.
+
+## NEET UG: Panshul Bansal grabs AIR 2 and a perfect Physics score, all without giving up video games
 
 
-## Crude heads for biggest weekly gain in months amid intensifying Middle East crisis
-Oil prices surged as escalating US-Iran military tensions raised supply disruption concerns. Brent crude traded at $85.34 and WTI crude at $80.08 per barrel. Recent US strikes aimed to degrade Iranian military capabilities, while Iran retaliated against regional allies. Renewed hostilities revived f
-
-## 2020 riots case: HC notice to Delhi Police on bail plea by Sharjeel Imam in UAPA case
-A bench of justices Prathiba M Singh and Vikas Mahajn sought Delhi police’s response and fixed August 27 as the next date of hearing
-
-## Rath Yatra: SC upholds temporary stay on animated movie, clears release after festival
-The SC bench modified the Orissa high court’s interim order to permit the nationwide release of the film on or after July 28.
-
-## ‘Will stay alive, come back as ghost if…’: Sonam Wangchuk urges support for Parliament march on July 20
-Activist Sonam Wangchuk's health has been impacted massively amid continued hunger strike against examination irregularities
-
-## CoBRA battalions get gender-sensitised before posting in Manipur
-The specialised CRPF CoBRA units were trained in gender sensitisation and crowd management before their first deployment outside anti-Naxal operations.
-
-## 3 killed after train hits car carrying school kids at manned level crossing in WB
-The accident took place around 7:30am at a manned level crossing between Karnasubarna and Gobindopur railway stations near Berhampore
-
-## 60 US Senators back new bill proposing 100% tariffs on India, others for buying Russian oil
-US Senators clarified earlier this week that the tariffs will target China, India, Slovakia, Hungary and Azerbaijan for purchasing Russian oil
-
-## ‘Missing body not missing murder’: SC says accused can be convicted even if victim's body never found
-The ruling states that an accused can be convicted of murder even in the absence of the dead body, alienating perpetrators from escaping justice.
-
-## ‘Studied for 17 hours’: NEET topper Aryan Gupta with 715/720 shares secret to success
-Aryan Gupta emerged as the top scorer in NEET UG 2026, securing All India Rank (AIR) 1. He also advised other aspirants to listen to their teachers.
-
-## ‘Revenge’ still hangs over the Argentina-England rivalry
+## Moonshot AI unveils Kimi K3, the world’s largest open-weight AI model: What to know
 
 
-## 2020 Delhi riots: HC seeks police stand on Sharjeel Imam’s fresh bail plea
+## ‘Narrative has to be built… we were lacking’: General Naravane on Op Sindoor
 
 
-## Teleprompter operator under scanner for making $100k off Trump’s speech bets
+## ‘Delayed possession’: Builder ordered to refund Rs 80.38 lakh to Himachal homebuyers
 
 
-## Boman Irani recalls Sunil Dutt refusing to eat alone on sets; psychiatrist explains psychology
+## ‘Some are trying to end Parth’s political career’: Internal NCP letter exposes party rift
 
 
-## Pakistan PM Shehbaz Sharif says renewed tensions in West Asia could hit economy again
+## Kerala DHSE Plus One (+1) Result 2026: Websites to check – results.hse.kerala.gov.in, keralaresults.nic.in
 
 
-## Enzo Fernandez begged Messi to stay in 2016. Now he carries him
+## Are you hungry?’: Meet Gurgaon bus conductor who walked through rain to feed 18 students
 
 
-## NEET UG 2026 counselling: A complete guide to MCC process, quotas and eligibility
+## ‘It’s not a film, it’s an opera’: Anurag Kashyap heaps praise on Satyadev’s Rao Bahadur
 
 
-## Vicky Kaushal gives fans a peek into ‘jaan’ Katrina Kaif’s intimate 43rd birthday celebration
+## Shein passes hearing for Hong Kong listing as valuation halves to below US$50b, sources say
+Online fast-fashion giant Shein has cleared its listing hearing with the Hong Kong stock exchange, according to people familiar with the matter, bringing it a step closer to an initial public offering (IPO) after attempts to float in New York and London stalled. The Singapore-headquartered company, 
 
+## Agentic AI: the next battleground for Chinese brands
+China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately buy. These personal concierges are starting to determine the best choices for e
+
+## How China’s resources deals have literally turned into a gold mine
+Chinese gold producers have embarked on a wave of overseas acquisitions in recent years, snapping up mines in countries ranging from Kenya to Colombia. Now, they are reaping the rewards as sky-high gold prices lift their earnings. Prices for the precious metal soared to record highs last year and re
+
+## China and UAE cross-border QR payment link to boost the global yuan
+In the latest move to bypass Western-dominated financial systems and step up the internationalisation of the yuan, China is linking its retail payment networks with the United Arab Emirates. Users will soon be able to use domestic mobile apps to scan QR codes and make payments in either country, und
+
+## Chinese memory giant CXMT oversubscribed 212 times in mega Shanghai IPO
+More than 9.4 million investor accounts applied for shares in the blockbuster initial public offering (IPO) of ChangXin Memory Technologies (CXMT), with retail demand reaching about 212 times the shares initially available online. Investors submitted valid applications for nearly 817 billion shares 
 
 ## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
 Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
@@ -131,21 +155,6 @@ Investor appetite for artificial intelligence and semiconductor plays will conti
 
 ## Citic Capital CEO on making China a financial powerhouse
 Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong as well as Harbin Pharmaceutical Group
-
-## Hong Kong exchange returns IPO application sponsored by top Chinese investment bank
-The Hong Kong stock exchange has returned an IPO application sponsored by China’s leading investment bank, sending a strong signal of increased scrutiny. The listing application for Inner Mongolia Xingye Silver & Tin Mining, which is already listed on the A-share market in Shenzhen, was returned by 
-
-## Retail rift: Hong Kong shops plead for rent relief, landlords see improving market
-Although retail sales in Hong Kong rose more than 10 per cent year on year in the first five months of 2026, a wave of shop closures continues, leaving tenants and landlords with vastly different assessments of the retail leasing market. Many tenants say that despite racking their brains for solutio
-
-## Race against Tesla: China EV maker Xpeng to launch viral humanoid globally in 2027
-Chinese electric vehicle maker Xpeng expects to produce more than 1,000 humanoid robots a month by the end of 2026 as it competes with Tesla in a high-stakes race to dominate physical AI, the integration of intelligent software into robotics and machinery. The Guangzhou-based carmaker told the South
-
-## Giant models grab headlines, but some Chinese start-ups bet on smaller phone-ready AI
-As the global artificial intelligence race pushes the limits of scale with massive, trillion-parameter models, a parallel contest is heating up over smaller systems. Instead of relying on sprawling, power-hungry cloud data centres, a growing number of tech companies in China and elsewhere are turnin
-
-## China’s OnePlus bows out of Western markets as memory crisis hammers smartphone industry
-Chinese handset vendor OnePlus is retreating from the US and European markets amid deepening woes from a memory crisis hammering the global smartphone industry. “After thorough evaluation, OnePlus has decided to conclude product roll-outs in Europe and North America,” the brand operated under Chines
 
 ## The America First Contradiction
 A Pentagon official’s X thread exposes the cognitive dissonance of Trump’s foreign policy.
@@ -195,6 +204,15 @@ The BJP government, whose support base includes traditionalist Hindus, moved to 
 ## How Social Media Posts Are Fueling the Dehumanization of Malaysia’s Rohingya Population
 The growing negative sentiment about the community bears a disturbing resemblance to the narratives that justified their mass expulsion from Myanmar in 2017.
 
+## The Blood Bank and the Logistics of Wartime Medicine
+Before the twentieth century gave armies antibiotics, the leading killer of American soldiers in wartime was neither enemy fire nor shrapnel. Two-thirds of the roughly 620,000 deaths in the U.S. Civil War came from diseases like typhoid and dysentery. Spread through contaminated water and crowded ca
+
+## Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment
+It’s 2028, and the Fujian carrier strike group has just left Yulin, China, for an unknown destination. The U.S. Navy’s “Hedge Strategy” has let commanders disperse unmanned systems across regional choke points as forward-deployed scouts. But days before contact with Fujian, an unmanned undersea vehi
+
+## How Revolutions Break Their Believers
+Waguih Ghali, Beer in the Snooker Club (Vintage International, 2014)The noise, the noise, the unrelenting noise of the world: How is any writer with an interest in the long view supposed to escape it, if only for a couple hours to work, let alone maintain their sanity in the remainders of a day? It’
+
 ## Reading through the Lines of the FY2027 NDAA
 The relationship between Congress and the Pentagon over the past year has been marked by public disagreements and frustrations over lawmakers’ concerns about the Iran War, and by what some lawmakers view as politically motivated firings of top military leaders. In many ways, the House and Senate ver
 
@@ -209,15 +227,6 @@ In 2020, Austin Doctor wrote, “The Looming Influx of Foreign Fighters in Sub-S
 
 ## MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide
 Editor’s note: This is the third article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## Before the Next Mythos Moment: The Case for an AI Threat Fusion Center
-Earlier this spring, Claude’s developers found the cyber potential of Anthropic’s model, Mythos 5, hazardous enough to pump the brakes on model release, creating the Project Glasswing collaboration to give cyber defenders the upper hand through controlled access to the model. Despite these efforts, 
-
-## Breaking America’s Promise to Pacific Island Veterans
-In January, Robson Henry died at the age of 66. Chances are, you have never heard of Henry. He was not famous, rich, or powerful. In many ways, Henry was no different from the thousands of young men and women who, at the age of 18, chose to serve by enlisting in the U.S. Army. Nor does the fact that
-
-## NATO’s Unity on Paper and Fractures Beneath the Surface
-On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year’s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of the s
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -243,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gulf states come under Iranian fire as US strikes intensify
+Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.
+
+## US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?
+Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes.
+
+## Why is Pakistan’s Sindh province facing a major child HIV outbreak?
+The latest outbreak linked to a Karachi hospital is the newest in a series that experts say reflects systemic failures.
+
+## John Esposito transformed how the West understood Islam
+The pioneering scholar, who died on July 15, challenged Orientalist orthodoxies and reshaped the study of Islam.
+
 ## China’s Xi says AI ‘should not be a solo performance by a single country’
 The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.
 
@@ -255,17 +276,8 @@ The president claimed China and 'deep state' actors had deceived US voters, but 
 ## US bombards Iran in sixth-straight night of attacks
 The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.
 
-## Israeli settlers attack Sinjil town in occupied West Bank
-Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.
-
-## China rebukes UK over nationalisation of British Steel
-The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.
-
-## Which players are favourites to be FIFA World Cup 2026 award winners?
-Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.
-
-## Iranian sources say US strikes hit civilian infrastructure
-Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.
+## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
+In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
 
 ## Vanishing jobs in finance
 Globally, banks and financial institutions are rethinking workforce requirements as AI and automation become mainstream. Standard Chartered recently announced plans to reduce thousands of jobs over the next few years while accelerating AI adoption. Global lenders such as Citi, UBS, HSBC and Morgan S
@@ -288,8 +300,8 @@ Ministry's observations centre on who should issue the framework; ICAI pauses ro
 ## AI, automation redraw finance jobs: FP&A leads hiring as routine accounting roles continue to shrink
 The finance function has seen a continued transformation over the last couple of years and much of that is being driven by automation rather than artificial intelligence (AI). Organisations are either no longer hiring or are actively cutting repetitive job roles that are now handed over to automatio
 
-## CBIC allows self-certification for origin declarations under India-UK CETA
-The Central Board of Indirect Taxes and Customs (CBIC) has issued a circular operationalising the self-certification framework for origin declarations under the India-UK Comprehensive Economic and Trade Agreement (CETA), which comes into force on July 15, 2026. The move replaces the conventional sys
+## Govt to replace WPI with Producer Price Index for future procurement contracts
+In a bid to modernize inflation measurement, the government is set to replace the Wholesale Price Index with the Producer Price Index for future government contracts and price changes. This initiative seeks to align India's procurement processes with global inflation metrics. Ministries are urged to
 
 ## Private insurers seek tweaks in unlisted investment plan
 Private insurers want Irdai to change proposed investment norms for unlisted companies. They suggest linking exposure limits to shareholders' funds instead of surplus. This change could unlock billions for investment in privately held businesses. The proposed framework may expand sector investment c
@@ -311,7 +323,4 @@ During the meeting, the Indian side shared details of the country's Digital Publ
 
 ## RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines
 Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the gov
-
-## Raising bank stakes gets easier for DIIs
-The Reserve Bank of India announces proposed amendments to bank shareholding regulations, designed to more effectively facilitate investments from domestic institutional investors. Additionally, the central bank emphasizes stronger disclosure and monitoring protocols. The new directives will provide
 
