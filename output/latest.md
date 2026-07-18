@@ -36,6 +36,9 @@ Payout for top ranks of Big Four accounting firm set to rise despite challenging
 ## Directors’ Deals: Middle East conflict casts shadow over Energean
 Full-year guidance has been lowered and the dividend has been cut
 
+## Reliance earnings drop 22% in Q1 on one time stake sale; Revenue up 25%
+Strong O2C recovery and rising digital services at Jio offset Retail margin pressure, helping Reliance beat EBITDA expectations
+
 ## CSR must move from compliance to creating impact, say industry leaders
 Vinit Nayar, Founder-Chairman of the Sampark Foundation, argued that the social sector needs the same spirit of innovation and design thinking that transformed India’s IT industry
 
@@ -56,9 +59,6 @@ The leading associations in a meeting with the government assure of starting cru
 
 ## JSW Steel Q1 net doubles to ₹4,696 crore on better realisation
 Revenue increased 10 per cent to ₹47,364 crore (₹43,147 crore)
-
-## Foreign promoters trim stakes in fewer Nifty-500 firms in FY26, while increasing stakes in more
-
 
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
@@ -84,6 +84,9 @@ Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 ## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
 Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
 
+## Weather Bee: Will 2026 be the warmest year yet?
+Climate crisis: 2026 could become the second warmest year on record, with scientists warning that crossing the 1.5°C threshold is becoming easier.
+
 ## Delhi HC refuses interim bail to Al Falah university chairman Jawad Siddiqui in ED cases
 Siddiqui sought interim bail on the ground that his wife's health was critical and he wanted to be with her at this stage of her life.
 
@@ -105,31 +108,28 @@ The attendance rate in the June 21 re-examination was the lowest in any non-pand
 ## ' ₹40 lakh for a NEET UG question paper': Rahul Gandhi shares 'paper ka rate', claims high tech used in leaks
 Showing a graphic titled "Paper Ka Rate", Gandhi claimed examination papers are being sold like products with predetermined rates.
 
-## India-backed Chabahar terminal safe, says MEA; flags safety of civilian assets
-India urged countries in the West Asia conflict to avoid targeting civilian infrastructure.
-
-## Day 20 of hunger strike: Sonam Wangchuk vows to ‘stay alive’, march to Parliament on Monday
+## NITI seeks tech firms’ views on content blocking regime
 
 
-## AAP corrupt, internal turmoil in Congress and SAD: PM Modi in Punjab
+## Gujarat ATS arrests five more with Jaish links; 13 held so far
 
 
-## Ram temple ‘donation theft’ probe widens: After 8 held, 30 more under lens
+## PM Modi flags off India’s first hydrogen train: 2-hour Jind-Sonipat travel, 14 halts and zero emission
 
 
-## Garry Sobers obituary: The cricketer who did not know he was like no one else
+## Dengue fever and heart health: Expert warns of hidden cardiac risks to note
 
 
-## ‘That’s me’: Actor Yogita Bihani says she has thalassemia; expert explains condition
+## India raises with US issues of students, travellers: MEA on new visa rule
 
 
-## Congress panel wiped out as BJP front wins 15 of 16 seats in Amul’s Surat-Tapi dairy
+## Record turnouts evidence of public trust in poll process: CEC Gyanesh Kumar
 
 
-## Do Androids dream of human hearts? What Ishiguro’s cyborgs teach us about love
+## US-Iran War Live Updates: US launches another round of strikes after Iran widens its attacks on regional allies
 
 
-## Nakul Anand, The Night Manager who never quite checked out
+## Delhi Confidential: Opp’s Dilemma
 
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Landslide in southwest China kills eight and leaves 34 missing
+A landslide on the outskirts of the southwestern Chinese city of Chongqing has killed at least eight and left 34 missing
+
+## Trump Media reportedly mulling fee for first access to social media posts
+US president has frequently been accused of trading government influence for improper financial gain.
+
+## UK by-election sees record 34 candidates as Farage seeks return
+The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.
+
+## Homeland Security Secretary Mullin reiterates Trump threats about elections
+Mullin pledged to make Trump's election security demands 'mandatory' and implement a 'maximum pressure' campaign.
+
+## Iran war live: US and Iran exchange attacks for 7th consecutive night
+Fighting between the two sides rages as US attacks shift further into Iran’s interior
+
 ## EU urges Israel to halt settlement expansion as settlers attack children
 Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.
 
@@ -260,21 +275,6 @@ US president has frequently pushed false claims blaming the mismanagement of riv
 
 ## Iraq signs deals with Western oil firms, including to revive Syria pipeline
 Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq's oil-rich Kirkuk to Syria's Baniyas.
-
-## US launches seventh straight night of strikes on Iran
-The US military says it's degrading Iran's military but has been accused by Tehran of targeting civilian infrastructure.
-
-## Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino
-Spanish midfielder says he has 'huge confidence' in his abilities after his impressive performances as a substitute.
-
-## Herbert leads British Open golf, equals record lowest score at a major
-Australian golfer Herbert ended the second round of the British Open with a two-shot lead on eight-under.
-
-## Star speedcubers square off at European championship
-More than 1,200 speedcubers from 53 countries are descending are attending the European Speedcubing Championship.
-
-## ICE agent behind fatal shooting in Maine reportedly had troubled history
-Relatives of David Brouillette, the agent who shot and killed a man in Maine, said he had record of violent behaviour.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
