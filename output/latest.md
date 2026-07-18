@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?
+Palestinians who have endured Israel's genocidal war are still being targeted.
+
+## All to know about Canadian wildfire smoke, air quality and World Cup final
+A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.
+
+## Thousands rally in London in support of Gaza, demand new PM take action
+Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.
+
+## Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue
+Mojtaba Khamenei says Trump's signature is 'worthless' and that 'bullying' is a core element of US foreign policy.
+
+## Israeli attacks on residential areas in Gaza kill eight
+Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.
+
 ## New York’s Mamdani says looking into Netanyahu arrest during city visit
 Mamdani had pledged to arrest Netanyahu during campaign for mayor and says he is consulting city's legal advisers.
 
@@ -263,21 +278,6 @@ US strikes damaged bridges and a water desalination plant in Iran after a sevent
 
 ## US military says two service members killed in Iranian strike in Jordan
 US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.
-
-## France vs England LIVE: FIFA World Cup 2026 third-place playoff
-Live coverage and text updates from our commentary stream of the Bronze Final as Mbappe's France play Kane's England.
-
-## Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks
-The Lebanese and US presidents are expected to discuss the ceasefire, southern Lebanon, and Israel’s withdrawal.
-
-## UK’s Josh Kerr smashes longstanding world mile record in London
-Kerr ran a 3:42.66 mile at the London Diamond League, smashing Hicham El Guerrouj’s world record by 0.47 seconds.
-
-## What to expect after the US reimposes naval blockade on Iran’s ports?
-Pressure is expected to build on the Iranian public, as well as global energy markets due to the US blockade.
-
-## Armed groups attack Malian military convoy in Gao region
-Mali says counterattack under way as rebels claim they inflicted 'human losses' and 'material damage' on troops.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
