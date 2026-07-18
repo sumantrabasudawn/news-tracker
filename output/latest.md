@@ -6,7 +6,7 @@ National Energy System Operator’s task made more difficult by climate change a
 ## The London IPO market isn’t as bad as it looks
 It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
 
-## Why your odyssey to see ‘The Odyssey’ matters
+## Your odyssey to see ‘The Odyssey’ matters
 The extremes that film fanatics are going to in order to watch Nolan’s latest tell us something
 
 ## Asia AI bets power record equities run for Wall Street banks
@@ -36,29 +36,29 @@ A good financial planning session can sometimes feel like couples counselling
 ## Oil ‘wildcatter’ who cracked Alaska looks to Venezuela for repeat success
 Bill Armstrong’s draft deal with Caracas comes as he rides an exploration boom driven by Donald Trump
 
-## US student visa rule changes to raise costs, tighten timelines for international students
-Students will need to plan careers earlier as visa extensions become more complex
+## Xtranet Technologies plans ₹167-crore IPO to fund expansion and debt repayment
+Proceeds to support capital expenditure, working capital and business growth
 
 ## Q1 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results
 Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
 
-## Indian banks seen poised for strong FY27 on robust credit growth and healthy asset quality
-Strong loan demand, improving deposits and policy support expected to drive earnings
+## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
+Asset quality improves as retail, MSME and agriculture lending gains momentum
 
-## El Niño is a warning: It is time to regenerate Indian agriculture is now
-The country needs a much larger mission, one that restores soils, conserves water, revitalises biodiversity and rebuilds the ecological foundations of agriculture
+## Bengaluru launches towing drive to clear streets, public spaces of abandoned vehicles
+All seized vehicles will be put up for public auction as per statutory guidelines, officials say
 
-## EU rejects Chinese rice flour cargo for presence of GMOs
-An EU notification issued on Monday said the Netherlands had found the presence of GMOs in hydrolysed rice flour
+## India’s first private orbital-class rocket Vikram-1 successfully lifts off
+Mission Aagaman marks a major milestone for India’s commercial space sector
 
-## CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital
-Dipke’s announcement comes amid continued protests at Jantar Mantar, with AISA activists Neha, Aameen and Manish also carrying on with their hunger strike after Wangchuk’s hospitalisation
+## DCM Shriram to expand renewable energy capacity to 176 MW with new hybrid power project
+DCM Shriram inks pact with Serentica Renewables India 38
 
-## US visa rule changes: MEA spokesperson Jaiswal says India will try to ‘minimise difficulties’ for its people
-The regulatory shifts are projected to heavily influence the demographic of Indian students and academic visitors in the US
+## IDBI Bank privatisation: Officers, staff to go on nationwide strike on July 27
+The move has caused deep concern among employees with respect to job and social security benefits, including pension, the forum says
 
-## India's first private rocket to place tech payloads, postcard from PM into orbit
-Skyroot Aerospace’s Vikram-1 launch marks the entry of India’s private space sector into the orbital launch market
+## Chip stocks slide into bear market in AI unwind: Markets wrap
+A surprise breakthrough from Chinese AI startup Moonshot jolted the sector, which also joined broader equity losses on geopolitical tensions
 
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
@@ -84,52 +84,52 @@ Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 ## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
 Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
 
-## One dead, 12 injured after students fall into septic tank at Rajasthan madrasa: Cops
-The 12 injured students were admitted to a nearby hospital and are undergoing treatment. The incident took place at Mill Madrasa in the Gopalgarh area.
+## ‘Re-NEET tougher than last paper’: How toppers reacted to crucial exam results
+Gaurav Singh, who is the son of an Indian Army personnel and the AIR 9 rank holder, said that the re-NEET exam was "tougher".
 
-## ‘Modi govt’s defeat': Oppn as cops move Sonam Wangchuk out of Jantar Mantar, CJP claims ‘forcible’ removal
-Samajwadi Party's Dimple Yadav termed Sonam Wangchuk's removal from Jantar Mantar protest site an assault on the democracy and constitution.
+## TDP leader held for assaulting woman over water pump connection in Guntur: Cop
+During the attack, the accused allegedly outraged the woman’s modesty by tearing her clothes, physically assaulting her
 
-## Alibaba Qwen and Baidu: Clear contours of a remade Apple Intelligence for China
-Apple, Samsung, Xiaomi and other phone makers’ AI strategies are at an inflection point, with China approving localised versions built with domestic AI companies
+## Meerut school owner murdered; wife, three held in snakebite plot
+Police arrested four people, including the victim’s wife, after a Meerut school operator was allegedly sedated and killed in a staged snakebite murder.
 
-## ‘Taken against his will’: CJP alleges ‘Wangchuk dragged away forcibly by cops'
-CJP founder Abhijeet Dipke alleged that Wangchuk was forcibly taken away by the Delhi Police from the Jantar Mantar protest site against his will.
+## Vikram-1: All about India's first privately developed orbital rocket saying ‘hello’ to space
+The launch witnessed a brief delay after the mission control team placed the countdown on a planned hold minutes before the scheduled liftoff.
 
-## Sonam Wangchuk's wife breaks silence, says no treatment without her consent: ‘Will hold everyone accountable if…’
-Gitanjali J Angmo is at the Safdarjung hospital and asks authorities to not give him any medication without consulting either her, his family or his doctors.
+## India's first private orbital launch successful as Vikram-1 lifts off into space | VIDEO
+The launch vehicle is capable of carrying payloads weighing up to 350 kg into a 450-km Low Earth Orbit at a 60-degree inclination.
 
-## CJP's Abhijeet Dipke announces indefinite hunger strike after Wangchuk moved to hospital
-Abhijeet Dipke announced an indefinite hunger strike on Saturday. The CJP has been holding a protest, demanding the resignation of the Union Education Minister.
+## Ethanol blending won't lower fuel rates: Ex-HPCL chief busts ‘myth’
+The E20 petrol debate has ignited conversations across sectors. At this time, Surana dismissed the "myth" that ethanol blending should lower fuel prices.
 
-## Stalin's DMK, Vijay's TVK unite against delimitation, vow to oppose bill
-The DMK has been a vocal opponent of the delimitation proposal. Meanwhile, TVK chief and CM C Joseph Vijay has also opposed the exercise.
+## India in touch with US authorities amid complications over revised visa norms
+India announced that it is actively communicating with US authorities to mitigate complications encountered by Indian citizens due to revised visa policies.
 
-## PM Modi wishes Skyroot success ahead of Vikram-1's first orbital launch: ‘A historic new frontier for India’
-PM Modi said the launch, scheduled for 11:30 am, was a significant milestone for India's private space sector.
+## JNU's Neha Bora continues hunger strike after Wangchuk moved away, alleges police crackdown
+The All India Students' Association (AISA) had said Neha Bora's blood sugar level had dropped to a critically low level.
 
-## ‘Took Sonam sir away like a criminal’: CJP founder Dipke rallies protesters at Jantar Mantar
-
-
-## ‘Ask Leo’: Scaloni on Messi’s Argentina future after World Cup final
+## How domestic helps played a key role in Lutyens’ Delhi bungalow robbery
 
 
-## Paresh Rawal said Akshay Kumar didn’t give him OMG 2 credit; director slams him: ‘Why now?’
+## Twin-tower at ITO: Delhi Government’s plan for new Secretariat building
 
 
-## ‘Hardest part was starting all over again’: Jalandhar lad shoots into glory with AIR 8
+## Pune on my plate | 5 popular food spots not on influencer circuit
 
 
-## Meet the animals that breathe through their skin, gut, and more
+## Army Havildar dismissed, jailed for molesting Major General’s wife
 
 
-## ‘Lawrence Bishnoi gang’ threatens Aamir Khan over ‘love jihad’
+## Sonam Wangchuk hospitalised: How prolonged fasting affects the body — and can turn fatal
 
 
-## Scaloni criticises FIFA for forcing Argentina into ‘strange’ World Cup final training
+## Why Mehbooba’s party just declined Omar’s Jantar Mantar invite
 
 
-## Meta, Anthropic in talks for potential $10 billion compute lease deal: Report
+## Zerodha founders Nithin, Nikhil Kamath surprise mother with Wimbledon trip: ‘Unforgettable tour’
+
+
+## Bar Council asks law schools to enforce social media rules; students to sign compliance undertakings
 
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestine football fans honour Egyptian coach Hossam Hassan
+Palestine football fans honour Egyptian coach Hossam Hassan
+
+## World Cup final weekend: France vs England prediction, schedule, news
+France and England battle for third place before Argentina and Spain meet in the World Cup final.
+
+## Kolkata sings for Messi as World Cup fever takes hold
+South Asia’s greatest football city has united behind its footballing saint.
+
+## France vs England: Deschamps set for final World Cup match as Zidane waits
+Deschamps, who led France to the 2018 World Cup title, bids farewell after Saturday's third-place playoff with England.
+
 ## Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank
 A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.
 
 ## Canadian wildfire smoke shrouds US, potential risk for World Cup final
 Plumes of smoke from wildfires in Canada are pouring into major US cities.
 
-## England carry ‘scars’ of World Cup heartbreak into third-place playoff
-England face France in a third-place playoff on Saturday, shortly after suffering a late semifinal defeat to Argentina.
+## Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff
+England coach Thomas Tuchel says his side carry the pain of defeat into third-place playoff against France.
 
 ## Messi reflects on pressure and competition ahead of World Cup final
 Ahead of the World Cup final, Lionel Messi says growing up playing football taught him to enjoy the game.
-
-## A seventh night of US strikes cuts water to villages in Iran’s south
-The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.
-
-## Trump jokes that England turned Harry Kane into a ‘defensive player’
-US President Donald Trump joked that England turned captain Harry Kane into ‘a defensive player’
-
-## Mandela Day: What his legacy means in today’s South Africa
-As South Africa grapples with inequality and division, Mandela Day has taken on new political significance.
-
-## Manila protests ‘racist’ portrayal of Filipinos in China Daily videos
-The Philippines protests China Daily videos depicting Filipinos as monkeys amid South China Sea tensions.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
