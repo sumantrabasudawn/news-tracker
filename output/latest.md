@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Burnham scraps new digital ID scheme
+Incoming prime minister says money saved will go towards tackling cost-of-living crisis
+
 ## Two US servicemen killed in Iranian strikes on Jordan
 Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months
 
@@ -21,11 +24,11 @@ Crisis engulfs military after Ukrainian president dismissed his popular defence 
 ## The tranquil spot in rural Ireland accused of fuelling Russia’s war
 Aughinish Alumina plant linked to sanctioned oligarch Oleg Deripaska faces increasing scrutiny but locals fear for jobs
 
-## Rise of delivery apps takes a bite out of sales for Big Pizza
-Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
-
 ## Telecom Italia backs Poste Italiane takeover bid
 Cash and paper offer would give state-controlled postal service full control of telecoms group
+
+## Rise of delivery apps takes a bite out of sales for Big Pizza
+Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
 
 ## Is the hyper-commercial World Cup here to stay?
 Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
@@ -111,6 +114,9 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
+## France vs England FIFA World Cup 2026 Match Live Updates: FRA 0-1 ENG in 1st half; Declan Rice puts England ahead in 3rd min
+
+
 ## ‘We should have offered you better ending’: Mbappe’s farewell post to Deschamps
 
 
@@ -130,9 +136,6 @@ Football is not just celebrated during FIFA World Cup though. It starts from the
 
 
 ## Dipke’s family, Opposition, activists condemn Wangchuk’s shift to hospital
-
-
-## Why White House defended Argentina’s Falklands banner after World Cup semi win
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -255,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Cockroach Party protest intensifies after Wangchuk forcibly hospitalised
+Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.
+
+## Latin America unites to cheer against Argentina in FIFA World Cup final
+Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.
+
+## Palestinian teenage footballer dies a week after Israeli settler attack
+A week after he was shot in his West Bank village, Fadi al-Nassan's death comes amid a surge in settler violence.
+
+## Drone video shows scale of major wildfire in northern Spain
+Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned
+
 ## Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?
 Palestinians who have endured Israel's genocidal war are still being targeted.
 
@@ -266,18 +281,6 @@ Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure
 
 ## Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue
 Mojtaba Khamenei says Trump's signature is 'worthless' and that 'bullying' is a core element of US foreign policy.
-
-## Israeli attacks on residential areas in Gaza kill eight
-Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.
-
-## New York’s Mamdani says looking into Netanyahu arrest during city visit
-Mamdani had pledged to arrest Netanyahu during campaign for mayor and says he is consulting city's legal advisers.
-
-## Damage visible at Iran bridges and water plant after US attacks
-US strikes damaged bridges and a water desalination plant in Iran after a seventh straight night of attacks.
-
-## US military says two service members killed in Iranian strike in Jordan
-US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
