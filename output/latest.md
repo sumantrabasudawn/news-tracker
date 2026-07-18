@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## Two US servicemen killed in Iranian strikes on Jordan
+Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months
+
+## Trump to fund Maga-aligned projects in Europe as he reorders US aid
+Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’
+
 ## Surrogacy controversy sparks resignation of Merz’s parliamentary leader
 CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father
 
 ## Big Law braces for second fight with Trump over capitulation deals
 Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago
-
-## Iran strikes Saudi Arabia for first time in months
-Tit-for-tat strikes undermine efforts to reopen Strait of Hormuz
 
 ## Traders are increasingly betting against SpaceX just weeks after IPO
 Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time
@@ -20,9 +23,6 @@ Aughinish Alumina plant linked to sanctioned oligarch Oleg Deripaska faces incre
 
 ## Rise of delivery apps takes a bite out of sales for Big Pizza
 Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
-
-## German army looks to Ukraine for battlefield lessons
-Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes
 
 ## Telecom Italia backs Poste Italiane takeover bid
 Cash and paper offer would give state-controlled postal service full control of telecoms group
@@ -111,6 +111,12 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
+## ‘We should have offered you better ending’: Mbappe’s farewell post to Deschamps
+
+
+## India one away from reaching 100 grandmasters as Rathanvel becomes 99th
+
+
 ## Twinkle Khanna’s ‘hot flushes travel guide’ suggests drowning sorrows — ‘but not in alcohol’
 
 
@@ -127,12 +133,6 @@ Football is not just celebrated during FIFA World Cup though. It starts from the
 
 
 ## Why White House defended Argentina’s Falklands banner after World Cup semi win
-
-
-## Kumar Saptarshi, socialist leader and Yukrand founder, dies at 84
-
-
-## Bihar government faces first pushback from within: BJP and JDU leaders say don’t change education structure
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## New York’s Mamdani says looking into Netanyahu arrest during city visit
+Mamdani had pledged to arrest Netanyahu during campaign for mayor and says he is consulting city's legal advisers.
+
+## Damage visible at Iran bridges and water plant after US attacks
+US strikes damaged bridges and a water desalination plant in Iran after a seventh straight night of attacks.
+
+## US military says two service members killed in Iranian strike in Jordan
+US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.
+
+## France vs England LIVE: FIFA World Cup 2026 third-place playoff
+Live coverage and text updates from our commentary stream of the Bronze Final as Mbappe's France play Kane's England.
+
+## Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks
+The Lebanese and US presidents are expected to discuss the ceasefire, southern Lebanon, and Israel’s withdrawal.
+
 ## UK’s Josh Kerr smashes longstanding world mile record in London
 Kerr ran a 3:42.66 mile at the London Diamond League, smashing Hicham El Guerrouj’s world record by 0.47 seconds.
 
@@ -263,21 +278,6 @@ Pressure is expected to build on the Iranian public, as well as global energy ma
 
 ## Armed groups attack Malian military convoy in Gao region
 Mali says counterattack under way as rebels claim they inflicted 'human losses' and 'material damage' on troops.
-
-## Belgium bans imports from Israeli settlements in occupied Palestine
-The move comes as EU foreign ministers remain deadlocked over a bloc-wide ban on illegal settlement trade.
-
-## Venezuela quake death toll tops 5,000 as IMF releases emergency aid
-IMF releases £346m in emergency funds as new details emerge about the disaster response.
-
-## Plumes of smoke rise over Kuwait after repeated Iranian attacks
-Towering plumes of smoke rose over Kuwait after Iranian strikes hit multiple locations in Mangaf.
-
-## Iraq signs 48 deals with US companies during PM’s visit to Washington
-The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline, which could bypass the Strait of Hormuz.
-
-## China warns UK over British Steel nationalisation, demands fair resolution
-Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
