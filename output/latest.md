@@ -114,7 +114,7 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
-## France vs England FIFA World Cup 2026 Match Live Updates: FRA 0-1 ENG in 1st half; Declan Rice puts England ahead in 3rd min
+## France vs England FIFA World Cup 2026 Match Live Updates: FRA 1-4 ENG in 2nd half; Mbappe scores early in 2nd half
 
 
 ## ‘We should have offered you better ending’: Mbappe’s farewell post to Deschamps
