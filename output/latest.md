@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Traders are increasingly betting against SpaceX just weeks after IPO
+Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time
+
+## Zelenskyy considers sacking commander-in-chief as protests swell
+Crisis engulfs military after Ukrainian president dismissed his popular defence minister
+
+## The tranquil spot in rural Ireland accused of fuelling Russia’s war
+Aughinish Alumina plant linked to sanctioned oligarch Oleg Deripaska faces increasing scrutiny but locals fear for jobs
+
+## Rise of delivery apps takes a bite out of sales for Big Pizza
+Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
+
 ## German army looks to Ukraine for battlefield lessons
 Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes
 
@@ -12,23 +24,14 @@ It is easy to look enviously at New York, but the UK is on course to enjoy its b
 ## Your odyssey to see ‘The Odyssey’ matters
 The extremes that film fanatics are going to in order to watch Nolan’s latest tell us something
 
+## Is the hyper-commercial World Cup here to stay?
+Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
+
 ## Asia AI bets power record equities run for Wall Street banks
 Investments in semiconductors fuel growth in regional revenues for US banks
 
 ## Superdrug owner considers delay to planned London IPO
 Hong Kong-based AS Watson was aiming for a dual listing this autumn
-
-## Sheikh Hamad bin Khalifa al-Thani, former ruler of Qatar, 1952-2026
-The ‘Father Emir’ transformed the Gulf nation into a financial and geopolitical heavyweight
-
-## Gibraltar land grab stirs age-old dispute with Spain
-British overseas territory is expanding into the sea to relieve cramped living conditions
-
-## Rise of delivery apps takes a bite out of sales for Big Pizza
-Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
-
-## Is the hyper-commercial World Cup here to stay?
-Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
 
 ## Data errors mar UK regulator’s new short selling disclosure rules
 Findings raise questions over the quality of the FCA’s information
@@ -36,29 +39,44 @@ Findings raise questions over the quality of the FCA’s information
 ## How to fix the housing crisis
 Deregulation isn’t enough. Nor is government intervention. We need both
 
-## Tamil Nadu's first budget under CM Vijay-led govt to be presented in first week of August: Minister Maria Wilson
-Wilson said Chief Minister Vijay had been holding extensive review meetings with ministers and senior officials over the past two weeks to finalise the budget and policy priorities
+## Nifty and Nifty Bank Predictions for the week 20 Jul '26 to 24 Jul '26 by BL GURU
 
-## Vizhinjam Port to launch full EXIM operations from August 18
-The launch of EXIM services, part of the State Government’s 100-day action plan, will establish Vizhinjam as a comprehensive export-import gateway
 
-## Technology has erased boundaries; don’t let hesitation hold you back: FM Nirmala Sitharaman
-The finance minister also drew attention to Madurai’s entrepreneurial spirit, which she said, was rooted in over 2,500 years of recorded history
+## HCL working at fast pace to double Malanjkhand Copper Project capacity in MP by 2030: CMD
+"Our focus will be on completing the capital expenditure plan to achieve the production target of 12.2 million tonnes by 2030” CMD Anupam Mishra
 
-## Q1 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results
+## Q1 Results Today Live: Kotak Mahindra, YES Bank drive Q1 with 23%, 34% profit jump; ICICI up 16%, HDFC and IDBI post 5% growth
 Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
 
-## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
-Quarterly provisions increased to ₹541 crore from ₹424 crore in March, while fresh slippage fell to ₹2,080 crore from ₹2,758 crore
+## HDFC Bank profit rises 5% to ₹19,060 crore in Q1
+However, the total income of the bank in the quarter under review dropped to ₹92,184 crore from ₹99,200 crore in the same period a year ago
 
-## PHFI-IPHS steps up to meet growing demand for public health workforce
-India currently requires over 45,000 additional public health professionals to support its growing healthcare needs
+## YES Bank jumps 34%; asset quality improves, loan growth remains strong
+The private lender’s net interest income, which is the difference between interest earned and interest expenses, increased to 17% to ₹2,786 crore from ₹2,371.47 crore a year ago
 
-## ICICI Bank Q1 net profit jumps 13.88% to ₹15,440 crore
-The bank’s standalone net profit rose 15.95% to ₹14,804 crore for the April-June quarter, up from ₹12,768 crore a year earlier
+## Andhra Pradesh faces 48% rainfall deficit, CM Naidu calls for water conservation
+AP CM noted that declining inflows into the Krishna Delta over a decade ago severely impacted agriculture in the region, once known as the country’s “rice bowl”
 
-## Monsoon ‘low’ weakens, but signals heavy rain for North-West, Central India
-Fresh spell for North-West and Central India comes even as rain deficit for country as a whole has widened to 24% as of Friday
+## ISRO targets 7 launches this fiscal; Next mission within two months, says Chairman Narayanan
+The space agency’s upcoming operational schedule includes the first uncrewed mission under the Gaganyaan human spaceflight program, alongside the slated satellite launches
+
+## AIIEA urges goverment to extend RoDTEP benefits to DFIA exporters
+The issue has become particularly serious following the recent issuance of recovery notices to DFIA exporters, directing them to return the benefits claimed under the RoDTEP scheme
+
+## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
+With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
+
+## Punjab National Bank Q1FY27 net profit up 213% to Rs 5253 crore
+Punjab National Bank reported a substantial net profit increase for the quarter ending June 30, 2026. The bank's standalone net profit rose over 200 percent year-on-year. This growth was primarily driven by a sharp decline in tax outgo. Non-interest income saw a decrease, impacting overall operating
+
+## IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore
+IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. Lower provisions supported earnings, offsetting a weaker operating profit. Net interest income saw a slight decline while non-interest income dropped significantly. Deposits decreased sequentially, but advances showed mod
+
+## Nobody wants to wait on hold anymore. But can AI replace customer care?
+
+
+## Pakistan to revise fuel prices daily; current account slips into $139 million FY26 deficit
+Pakistan will now revise fuel prices daily due to volatile global oil markets. This change aims to increase transparency in fuel pricing mechanisms for consumers. The nation also reported a current account deficit after experiencing a surplus last year. Efforts are underway to boost domestic energy 
 
 ## New money? India's currency might soon get a plastic makeover
 India's Reserve Bank is exploring polymer banknotes for enhanced durability. Manufacturers are invited to bid for specialized plastic substrate materials. Polymer notes offer greater resistance to moisture and dirt than paper. This move aims to reduce currency replacement and printing costs. Advance
@@ -69,23 +87,14 @@ New free trade agreements offer Indian textile exporters significant tariff adva
 ## NITI index: Gujarat, Maharashtra lead in wooing investors
 
 
-## Sensex soars 965 pts as Q1 results lift mood on Dalaal-Street
+## Who is judge Veena Rani and why was she suspended by Delhi high court?
+The Delhi high court suspended judge Veena Rani at a full court meeting, which was officially announced on July 15.
 
-
-## Pin code wars: Quick commerce cos add 900 dark stores in 3 months
-
-
-## 'Front-running patterns seen in PMS by Sebi's AI tools'
-Sebi is extensively deploying artificial intelligence tools for market surveillance. These advanced capabilities are generating actionable alerts for regulators. Patterns from these alerts suggest front-running is occurring within the PMS industry. The regulator is adopting a supportive approach for
-
-## RBI may look through price worries, high credit growth
-RBI governor Sanjay Malhotra indicated no immediate policy reaction to current inflation. He described price pressures as contained, attributing them to supply-side factors. Growth remains resilient, supported by domestic demand and investment. Credit expansion is brisk, with RBI monitoring fast-gro
-
-## Smartphone sales decline 10% in Q1, biggest in 3 years
-Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
+## NIA arrests 2 more accused in abduction, killing of six Nagas in Manipur
+Twenty Nagas were abducted while travelling and held hostage following the May 13 twin ambush in Kangpokpi and Noney districts
 
 ## 'Asatya, Hinsa': Rahul Gandhi attacks government, calls 'removal' of Sonam Wangchuk from Jantar Mantar 'wrong'
-Rahul Gandhi targets Centre over Wangchuk's alleged removal from CJP protest site at Jantar Mantar in Delhi.
+In a post on X, the Leader of Opposition and Congress MP Rahul accused the Modi government of being guided by the principles of ‘falsehood’ and ‘violence’.
 
 ## FDA suspends Mumbai's KEM Hospital canteen licence over food safety lapses
 The Maharashtra FDA suspended the licence of KEM Hospital's canteen and ordered it to stop operations after finding hygiene and food safety violations.
@@ -102,35 +111,32 @@ The criteria also allow serving government officers in their final two years of 
 ## Two held for painting Sonam Wangchuk's mural on public wall in Guwahati
 According to the Guwahati Police, a patrolling party apprehended the two youths, who were allegedly trying to damage public property last night.
 
-## 'I'll lead if Sonam can't': Wangchuk's wife Gitanjali says July 20 march to Parliament is on
-Speaking to reporters on Saturday, Angmo said Wangchuk was brought from Jantar Mantar to Safdarjung hospital without either his or her consent
-
-## India becomes 3rd nation with private orbital launch after Vikram-1 success
-As tall as a seven-storey building, the multi-stage launch vehicle is designed to carry small satellites weighing up to 350kg to LEO
-
-## ‘Protest to continue despite Delhi Police action against Sonam Wangchuk’: Sharad Pawar
+## Peon runs job racket in Pune civic body, dupes engineers of lakhs
 
 
-## Moderate rain to return to Mumbai from weekend
+## Delhi Confidential: India bloc or Opposition meet? Post-poll strains cloud Monday huddle
 
 
-## Marc Cucurella says he will retire from football if Spain wins FIFA World Cup 2026
+## Meet new national minorities panel chief Harjeet Grewal: RSS member to BJP face during farm stir
 
 
-## Fake calls in Governor R N Ravi’s name: West Bengal Lok Bhavan seeks probe
+## Tom Brady slaps Logan Paul at Fanatics Fest, calls him ‘dork’ on X: Watch
 
 
-## Vishal Dadlani, Prakash Raj slam police action against Sonam Wangchuk: ‘Boiling with anger’
+## Google AI Mode adds more Connected Apps, including YouTube Music
 
 
-## Karnataka local polls by December, CM Shivakumar assures after Supreme Court deadline
+## AIBE 21 result out at allindiabarexamination.com; overall pass percentage at 65.92%
 
 
-## ‘Promised marriage, sold her to brothel’: Court convicts man who trafficked minor girl
+## ‘Not luxury’: CJI Surya Kant demands hospital-like infrastructure, parking solutions
 
 
-## Why you shouldn’t skip carbs after a workout, even if you’re eating enough protein
+## Railways to develop Rishikesh as feeder station to reduce pressure on Haridwar, boost train capacity
 
+
+## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
+Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capitalisation, has sold out the first batch of units at its Garden Regency project in the New Territories on Saturday, according to agents. By 3.30pm, all 138 flats the developer had launched in the Kam Tin North project in Yue
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
 China’s yoga apparel market is grappling with fierce competition and slowing growth amid sluggish domestic consumption, as middle-class shoppers diversify their activities, according to analysts. Lululemon, the Canadian athletic apparel brand popular among China’s middle class, continues to face sal
@@ -152,9 +158,6 @@ China’s companies have mastered social media marketing playbooks. Now, they mu
 
 ## How China’s resources deals have turned into a gold mine – literally
 Chinese gold producers have embarked on a wave of overseas acquisitions in recent years, snapping up mines in countries ranging from Kenya to Colombia. Now, they are reaping the rewards as sky-high gold prices lift their earnings. Prices for the precious metal soared to record highs last year and re
-
-## China and UAE cross-border QR payment link to boost the global yuan
-In the latest move to bypass Western-dominated financial systems and step up the internationalisation of the yuan, China is linking its retail payment networks with the United Arab Emirates. Users will soon be able to use domestic mobile apps to scan QR codes and make payments in either country, und
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -252,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India’s salt workers: The human cost of the world’s most popular seasoning
+101 East investigates the supply chain behind India’s booming salt industry.
+
+## Ukrainian drone attacks on Russia kill at least 8, wound dozens
+Russian officials say strikes on retailer's warehouses caused civilian casualties; Kyiv says sites used to make drones.
+
+## Indian police forcibly hospitalise activist after 20-day hunger strike
+Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a 'slight commotion'.
+
 ## Argentina’s New York fans share hopes before 2026 World Cup final
 Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.
 
@@ -266,15 +278,6 @@ Palestine football fans honour Egyptian coach Hossam Hassan
 
 ## World Cup: France vs England prediction, final schedule, latest news
 France and England battle for third place before Argentina and Spain meet in the World Cup final.
-
-## Kolkata sings for Messi as World Cup fever takes hold
-South Asia’s greatest football city has united behind its footballing saint.
-
-## France vs England: Deschamps set for final World Cup match as Zidane waits
-Deschamps, who led France to the 2018 World Cup title, bids farewell after Saturday's third-place playoff with England.
-
-## Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank
-A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
