@@ -39,26 +39,29 @@ Hong Kong-based AS Watson was aiming for a dual listing this autumn
 ## Crude Check: Oil back in bullish territory
 Technical charts indicate further upside after a sharp correction in May and June
 
-## Mastering Derivatives: The long and short of options
-The probability that the option you short will expire worthless is very high
+## Why the time is ticking for oil reserves
+The market absorbed the first Hormuz disruption by drawing down inventories and tapping spare capacity. Those stockpiles are now thinner, leaving crude prices more vulnerable to another supply shock
 
-## F&O Strategy: Buy SBI Cards call
-Consider buying August 650-call, which closed with a premium of ₹26.05
+## Who Am I? July 19, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Nifty 50 Outlook: Poised to rise
-The price action last week indicates lack of strong sellers in the market
+## ₹5,000-crore Cube Highways InvIT public issue: Should you subscribe or avoid?
+Unlike standard new listings, Cube is converting from a privately-listed InvIT (which debuted in April 2023) into a publicly-traded vehicle now
 
-## Nifty futures and Nifty Bank futures might advance
-Short covering lifts indices above key technical levels
+## What they say on their India plans
+Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
 
-## Bandu’s Blockbusters for July 19, 2026
-Guess the stock that will give the best return by next Friday
+## Apps and Eateries lace up to tackle football finale demand surge
+Brands prep up for World Cup windfall as some states allow joints to stay open late night
 
-## Tech Query: IRCTC, Avanti Feeds, Lloyds Engineering Works, Mindteck (India) – What is the outlook? Where are these stocks headed?
-We look at the prospects of IRCTC and three other stocks – Avanti Feeds, Lloyds Engineering Works and Mindteck (India)
+## US Market Outlook: Struggling to rise
+Failure to get a strong follow-through rise is a negative
 
-## Tamil Nadu has near-100% MoU conversion rate, says Niti Aayog report
-Tamil Nadu was ranked third in NITI Aayog’s Investment Friendliness Index report for States
+## LG Electronics India: What should you do?
+With a strong Summer expected, LG Electronics India has several drivers to regain momentum
+
+## Fans 1, Productivity 0: How FIFA World Cup 2026 could trigger $17bn loss worldwide
+
 
 ## India's power sector set for strong FY27 growth on rising demand, capacity additions: Report
 India's power sector anticipates sustained growth through fiscal year twenty twenty-seven. Surging electricity demand and record peak consumption fuel this positive outlook. Continued capacity additions, especially renewables, will strengthen utility performance. Thermal power remains central, provi
@@ -81,8 +84,23 @@ Pakistan will now revise fuel prices daily due to volatile global oil markets. T
 ## New money? India's currency might soon get a plastic makeover
 India's Reserve Bank is exploring polymer banknotes for enhanced durability. Manufacturers are invited to bid for specialized plastic substrate materials. Polymer notes offer greater resistance to moisture and dirt than paper. This move aims to reduce currency replacement and printing costs. Advance
 
-## Textile sector to sew loose ends as FTAs kick in
-New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
+## CBSE Class 10 Second Board 2026 results announced: Check steps to download marksheet
+Check how to download CBSE Class 10 second board result on DigiLocker
+
+## CBSE Class 10 Second Board Exam 2026 results declared
+CBSE announced the results of the Class 10 Second Board Examination 2026 on Saturday. Students can check their results via DigiLocker.
+
+## NGT orders sealing of chromium-tainted wells in Odisha’s Sukinda
+The Sukinda valley in Jajpur district holds roughly 97% of India’s chromite reserves and supplies 100% of the country’s domestic chrome ore production
+
+## First given milk laced with sleeping pills, the bitten by a snake: Inside the Meerut murder plot
+Police have arrested four people, including the victim's wife, her alleged lover and two snake charmers, in connection with the murder case.
+
+## In Srinagar, books drew bigger crowds than the summer heat could deter | Mega Chinar Book Festival inaugurated
+At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, thousands are expected to gather to embrace reading.
+
+## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
+Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
 ## 'I will resign within an hour': TMC's Abhishek Banerjee dares rebels to return to Mamata
 Abhishek Banerjee said those blaming him should first return to the TMC if they truly believed in Mamata Banerjee's leadership.
@@ -90,46 +108,28 @@ Abhishek Banerjee said those blaming him should first return to the TMC if they 
 ## Five tribal villagers, including 3 women, drown while fishing in Andhra: Police
 According to the primary investigation, a group of five tribal villagers went into the Godavari River early morning to catch fish
 
-## Former Prime Minister Deve Gowda's wife Chennamma passes away
-She was admitted to Manipal Hospital on Old Airport Road in Bengaluru on Wednesday night.
-
-## 'Shouldn't test Sonam Wangchuk's limits, say yes or no to his demands': Anna Hazare's appeal to Centre
-Activist Anna Hazare urged the Union government to engage in talks with Sonam Wangchuk to address the ongoing standoff related to his indefinite hunger strike.
-
-## 5 killed, ten injured in blast at illegal firecracker factory in Gujarat's Ahmedabad; PM condoles deaths
-A blast followed by a fire at allegedly an illegal firecracker factory in Ramtol area of Gujarat's Ahmedabad on Saturday
-
-## 1 injured in Kolkata residential blast, 1 detained; NIA launches probes
-The NIA reached the scene on Saturday and collected samples for forensic analysis to find out the explosives used
-
-## Meerut to Rishikesh in 3 hours: How Namo Bharat corridor extension will ease travel
-The semi-high-speed train, capable of running at up to 160 kmph, will cover the nearly 230-km journey in about three hours
-
-## Delhi cafes, restaurants to stay open till 4am for FIFA World Cup final, announces CM Rekha Gupta
-Delhi chief minister Rekha Gupta said the decision has been made possible under the city's 24x7 business-friendly operating framework
-
-## What was concerning about Rohit’s innings in 2nd ODI? Abhishek Nayar answers
+## J&K Police order SIT probe into Doda youth’s death amid protests, shutdown
 
 
-## UPSC Weekly Current Affairs Quiz (July 12 – July 18): 10 key questions with detailed answers for Prelims 2027
+## Neeta Lulla reveals why Aishwarya Rai Bachchan’s 10-metre Devdas sari can never be recreated
 
 
-## You may recover from less sleep, but your blood sugar may pay the price
+## CBSE Class 10 second board results declared, 96.78% overall pass percentage
 
 
-## Lord’s brings Gill a chance to stamp his authority on ODI side
+## Mirabai, Lovlina set to be India’s flagbearers in CWG opening ceremony
 
 
-## Not the first data breach at Kudankulam: Recalling 2019 cyberattack that targeted thorium info
+## ‘If Modi won’t sack Dharmendra Pradhan, he is responsible too’: Abhijeet Dipke to Express
 
 
-## Right-wing activists assault 2 Bangladeshis for ‘illegal stay’ near Bengaluru, booked
+## Iran tears up US peace deal, launches wider Gulf offensive hitting critical Kuwait water plant: 5 updates
 
 
-## Jennifer Winget marries William Ishmael in UK, shares wedding photos: ‘Our stars aligned
+## After alliance buzz: NCP (SP) top brass goes on offensive against BJP
 
 
-## Why the Supreme Court questioned the two-child rule for panchayat elections
+## Karnataka PDS probe: Lokayukta sets up high-level committee for systemic reforms
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Venezuela quake death toll tops 5,000 as IMF releases emergency aid
+IMF releases £346m in emergency funds as new details emerge about the disaster response.
+
+## Plumes of smoke rise over Kuwait after repeated Iranian attacks
+Towering plumes of smoke rose over Kuwait after Iranian strikes hit multiple locations in Mangaf.
+
+## Iraq signs 48 deals with US companies during PM’s visit to Washington
+The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline, which could bypass the Strait of Hormuz.
+
 ## China warns UK over British Steel nationalisation, demands fair resolution
 Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.
 
@@ -264,17 +273,8 @@ Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbu
 ## Death toll from Uganda school bus crash rises to 24
 Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.
 
-## Iran accuses US of striking critical infrastructure as war intensifies
-The conflict has been escalating since US President Donald Trump declared 10 days ago the peace deal with Iran is over.
-
-## Ukrainian strikes hit Russian logistics center
-Ukrainian strikes hit Russian logistics center
-
-## Europe should look to Africa for heatwave solutions
-African communities have spent decades developing practical, tested ways to live with extreme heat.
-
-## India achieves milestone with launch of first private-sector orbital rocket
-PM Narendra Modi says successful launch will 'encourage countless youngsters to dream bigger and innovate fearlessly'.
+## Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July
+Conflict has been escalating since US President Donald Trump declared 10 days ago that peace deal with Iran was over.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
