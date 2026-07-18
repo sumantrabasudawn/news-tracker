@@ -36,29 +36,32 @@ Investments in semiconductors fuel growth in regional revenues for US banks
 ## Superdrug owner considers delay to planned London IPO
 Hong Kong-based AS Watson was aiming for a dual listing this autumn
 
-## Blueprint for a successful redevelopment
-For apartment owners, redevelopment involves complex legal, financial, and technical considerations and warrants proper due diligence for a successful outcome
+## Crude Check: Oil back in bullish territory
+Technical charts indicate further upside after a sharp correction in May and June
 
-## Simply Put: Earnings seasonality
-Over a steaming cuppa, two friends discuss how the changing seasons can influence the earnings of companies
+## Mastering Derivatives: The long and short of options
+The probability that the option you short will expire worthless is very high
 
-## Punjab & Sind Bank registers over 23% rise in Q1 net profit
-Net profit increased to ₹331 crore in the April-June quarter, up from ₹269 crore
+## F&O Strategy: Buy SBI Cards call
+Consider buying August 650-call, which closed with a premium of ₹26.05
 
-## Movers & Shakers: Stocks that will see action this week
-Here is what the charts say about the shares of Authum Investment & Infrastructure, L&T Finance and Newgen Software Technologies
+## Nifty 50 Outlook: Poised to rise
+The price action last week indicates lack of strong sellers in the market
 
-## Q1 Results Today Live: Kotak Mahindra, YES Bank drive Q1 with 23%, 34% profit jump; ICICI up 16%, HDFC and IDBI post 5% growth
-Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
+## Nifty futures and Nifty Bank futures might advance
+Short covering lifts indices above key technical levels
 
-## Axis Bank Q1 net profit rises 23% on strong margins, asset quality improves
-Total income rose 6% to ₹40,721 crore from ₹38,322 crore last year; Net Interest Income increased 8% to ₹14,646 crore, with a Net Interest Margin of 3.46%
+## Bandu’s Blockbusters for July 19, 2026
+Guess the stock that will give the best return by next Friday
 
-## Hundia Infosolutions launches KARNAGE brand to meet gamers accessory needs
-KARNAGE has launched gaming keyboards, mice, headsets, mousepads, cabinets, and related components, featuring bold designs and strong performance
+## Tech Query: IRCTC, Avanti Feeds, Lloyds Engineering Works, Mindteck (India) – What is the outlook? Where are these stocks headed?
+We look at the prospects of IRCTC and three other stocks – Avanti Feeds, Lloyds Engineering Works and Mindteck (India)
 
-## Two years on, Ayushman cover reaches only 1.29 crore of 6 crore eligible seniors
-The National Health Authority (NHA) has asked states and Union Territories to prioritise enrolling all eligible beneficiaries under AB PM-JAY, expedite Ayushman Card generation, ensure complete coverage
+## Tamil Nadu has near-100% MoU conversion rate, says Niti Aayog report
+Tamil Nadu was ranked third in NITI Aayog’s Investment Friendliness Index report for States
+
+## India's power sector set for strong FY27 growth on rising demand, capacity additions: Report
+India's power sector anticipates sustained growth through fiscal year twenty twenty-seven. Surging electricity demand and record peak consumption fuel this positive outlook. Continued capacity additions, especially renewables, will strengthen utility performance. Thermal power remains central, provi
 
 ## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
 With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
@@ -81,8 +84,8 @@ India's Reserve Bank is exploring polymer banknotes for enhanced durability. Man
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
 
-## NITI index: Gujarat, Maharashtra lead in wooing investors
-
+## 'I will resign within an hour': TMC's Abhishek Banerjee dares rebels to return to Mamata
+Abhishek Banerjee said those blaming him should first return to the TMC if they truly believed in Mamata Banerjee's leadership.
 
 ## Five tribal villagers, including 3 women, drown while fishing in Andhra: Police
 According to the primary investigation, a group of five tribal villagers went into the Godavari River early morning to catch fish
@@ -105,31 +108,28 @@ The semi-high-speed train, capable of running at up to 160 kmph, will cover the 
 ## Delhi cafes, restaurants to stay open till 4am for FIFA World Cup final, announces CM Rekha Gupta
 Delhi chief minister Rekha Gupta said the decision has been made possible under the city's 24x7 business-friendly operating framework
 
-## Is using abusive words like ‘motherf***ker’ punishable under obscenity law? What Supreme Court says
-The court made the observation while partly allowing a man's appeal, who was convicted for obscenity for using the words “motherf***ker” during an altercation.
-
-## Ahead of FIFA World Cup final, every line in New York leads to Lionel Messi
+## What was concerning about Rohit’s innings in 2nd ODI? Abhishek Nayar answers
 
 
-## From Lagos to Kathmandu: Heroin trail dominates as 26 foreign nationals arrested in Panchkula over five years
+## UPSC Weekly Current Affairs Quiz (July 12 – July 18): 10 key questions with detailed answers for Prelims 2027
 
 
-## Shashi Tharoor spotlights Ramassery delicacy that ‘looks like a dosa but tastes like idli’
+## You may recover from less sleep, but your blood sugar may pay the price
 
 
-## Mumbai local train update: Railways to add 10 suburban services of 15-car rake from July 20 – Routes, timings
+## Lord’s brings Gill a chance to stamp his authority on ODI side
 
 
-## Morne Morkel on Rohit Sharma: ‘Brings calmness to the batting line-up’
+## Not the first data breach at Kudankulam: Recalling 2019 cyberattack that targeted thorium info
 
 
-## Why Iran hardliners are alleging a ‘coup’ after the US agreement
+## Right-wing activists assault 2 Bangladeshis for ‘illegal stay’ near Bengaluru, booked
 
 
-## Swiss woman leaves corporate job to build free school in India: ‘Never felt richer’
+## Jennifer Winget marries William Ishmael in UK, shares wedding photos: ‘Our stars aligned
 
 
-## BPSC 72nd CCE Prelims exam postponed; Bihar PSC to announce fresh exam date soon
+## Why the Supreme Court questioned the two-child rule for panchayat elections
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## China warns UK over British Steel nationalisation, demands fair resolution
+Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.
+
+## Top German conservative quits after surrogacy sparks backlash within party
+Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany's conservative coalition.
+
+## FIFA World Cup: Spain vs Argentina – What to know ahead of the final
+Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.
+
 ## Death toll from Uganda school bus crash rises to 24
 Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.
 
@@ -266,15 +275,6 @@ African communities have spent decades developing practical, tested ways to live
 
 ## India achieves milestone with launch of first private-sector orbital rocket
 PM Narendra Modi says successful launch will 'encourage countless youngsters to dream bigger and innovate fearlessly'.
-
-## India’s salt workers: The human cost of the world’s most popular seasoning
-101 East investigates the supply chain behind India’s booming salt industry.
-
-## Ukrainian drone attacks on Russia kill at least 8, wound dozens
-Russian officials say strikes on retailer's warehouses caused civilian casualties; Kyiv says sites used to make drones.
-
-## Indian police forcibly hospitalise activist after 20-day hunger strike
-Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a 'slight commotion'.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
