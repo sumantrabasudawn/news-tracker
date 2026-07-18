@@ -36,29 +36,29 @@ Payout for top ranks of Big Four accounting firm set to rise despite challenging
 ## Directors’ Deals: Middle East conflict casts shadow over Energean
 Full-year guidance has been lowered and the dividend has been cut
 
-## Reliance earnings drop 22% in Q1 on one time stake sale; Revenue up 25%
-Strong O2C recovery and rising digital services at Jio offset Retail margin pressure, helping Reliance beat EBITDA expectations
+## Small rivers need distinct conservation strategy, says NMCG draft framework
+The framework prioritises natural connectivity, catchment restoration, local water storage and nature-based solutions tailored to local ecosystems
 
-## CSR must move from compliance to creating impact, say industry leaders
-Vinit Nayar, Founder-Chairman of the Sampark Foundation, argued that the social sector needs the same spirit of innovation and design thinking that transformed India’s IT industry
+## IAF's Rafale to be part of ‘Pitch Black’ exercise in Australia
+The premier biennial multinational air combat exercise brings together Air Forces of 19 nations
 
-## DCM Shriram to acquire 26% stake in Serentica Renewables for ₹105 crore
-The investment will support a 58 MW hybrid renewable energy project to power DCM Shriram’s energy-intensive operations in Bharuch, Gujarat.
+## India's first private rocket to place tech payloads, postcard from PM into orbit
+Skyroot Aerospace’s Vikram-1 launch marks the entry of India’s private space sector into the orbital launch market
 
-## Sir Garfield Sobers dies at 89, cricket loses its greatest all-rounder
-Cricket has lost one of its greatest icons. Sir Garfield Sobers, the legendary West Indies captain and all-rounder, leaves behind a legacy that will inspire generations.
+## US prosecutor says Justice Department made call to drop Gautam Adani case
+Court filings showed Gautam Adani proposed a $10 billion US investment during settlement talks, though prosecutors said it was never tied to resolving the criminal case
 
-## IAMAI announces the launch of E-Commerce Council of India
-This initiative unites top digital commerce companies, including Amazon, Flipkart, Swiggy, Indiamart, MakeMyTrip, Uber, and eBay
+## Delhi Police shifts Sonam Wangchuk to hospital on 21st day of hunger strike
+In a statement, Delhi Police said Wangchuk was shifted for "essential medical care" following expert medical advice and in compliance with the high court's orders
 
-## IMA Maharashtra calls a strike on Monday, against attack on healthcare workers at local hospital
-All routine healthcare services across the state will be withdrawn for 24 hours; gets support of several medical organisations
+## Apple overtakes Nvidia to become world’s most valuable company
+Investors are increasingly favouring companies that can monetise AI through services, ecosystems and devices, rather than AI infrastructure alone
 
-## Current surge in sugar prices unjustified as availability, stocks comfortable, say ISMA, NFCSF
-The leading associations in a meeting with the government assure of starting crushing operations quickly in the 2026-27 season
+## US firms sign $60 billion Iraq deals to develop oil routes beyond Strait of Hormuz
+Iraq is positioning itself as a long-term investment hub while diversifying oil export routes through Syria and Turkey
 
-## JSW Steel Q1 net doubles to ₹4,696 crore on better realisation
-Revenue increased 10 per cent to ₹47,364 crore (₹43,147 crore)
+## Canada wildfire smoke blankets US Northeast, triggers air quality alerts
+Hazardous wildfire smoke engulfed Washington, Detroit and Chicago, forcing an MLB game postponement in Cleveland
 
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
@@ -84,53 +84,59 @@ Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 ## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
 Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
 
-## Weather Bee: Will 2026 be the warmest year yet?
-Climate crisis: 2026 could become the second warmest year on record, with scientists warning that crossing the 1.5°C threshold is becoming easier.
-
-## Delhi HC refuses interim bail to Al Falah university chairman Jawad Siddiqui in ED cases
-Siddiqui sought interim bail on the ground that his wife's health was critical and he wanted to be with her at this stage of her life.
-
-## CRISIL upgrades Vedanta Group companies, lifts flagship firm's rating to highest level in over a decade
-The latest action reflects CRISIL's assessment of the group's stronger financial position following the demerged structure.
-
-## ‘Heads are rolling’: AAP links Anurag Kumar's appointment as Delhi Police Commissioner to CJP protest
-Former intelligence bureau special director Anurag Kumar replaces Satish Golcha, who has been leading the Delhi Police since August 22, 2025.
-
-## Dhaka’s request for Sheikh Hasina’s extradition is being examined, says India
-Sheikh Hasina’s presence in India has remained an irritant in bilateral ties, which improved somewhat after the Tarique Rahman government came to power this year
-
-## India engages US over stricter visa rules affecting Indian students, visitors
-India said it is engaging US authorities after new visa rules restrict stays for foreign students, exchange visitors and journalists
-
-## NEET UG 2026 records second-lowest attendance under NTA, but highest-ever qualifying cut-off
-The attendance rate in the June 21 re-examination was the lowest in any non-pandemic NEET conducted by the NTA, and the second-lowest overall.
-
-## ' ₹40 lakh for a NEET UG question paper': Rahul Gandhi shares 'paper ka rate', claims high tech used in leaks
-Showing a graphic titled "Paper Ka Rate", Gandhi claimed examination papers are being sold like products with predetermined rates.
-
-## NITI seeks tech firms’ views on content blocking regime
+## BJP keen on merger of NCPs, but Sunetra not in favour
 
 
-## Gujarat ATS arrests five more with Jaish links; 13 held so far
+## Parl panel on PM, CMs’ removal bill defers draft report
+A joint parliamentary committee reviewing the bill to automatically remove ministers, chief ministers and prime ministers arrested for over 30 days, has decided against adopting its report, weeks after circulating the draft to the members
+
+## Nearly 400k trees on block after coal projects get nod
+The FAC recommended Stage-I forest clearance for 13 projects, including three coal mines involving diversion of over 2,000 hectares of forest land.
+
+## Coaches second class, not passengers: SC to Rlys
+The Supreme Court on Friday asked the Railways to clarify and reconsider the continued use of the term “second class passenger” in its manuals and official documents, observing that the class connotation should attach to the coach and not to the passenger, as the expression is “offensive to the spir
+
+## Bhojshala row: Dhar Muslims reject site earmarked for Friday namaz
+Muslims in Dhar denied offering Friday prayers at the site allotted by the administration, citing its distance from the Bhojshala complex.
+
+## SC to look into affordable access to life-saving cancer medicines
+The Supreme Court on Friday said it will examine the broader issue of affordable access to life-saving cancer medicines and judicial delays in cases involving the right to health, expressing concern that a breast cancer patient’s petition remained pending before the Kerala high court despite being l
+
+## A majority of senators back Russia oil bill
+More than 60 of the US Senate’s 100 members — including Senate Majority Leader John Thune — on Thursday backed a new bill that would grant President Donald Trump the authority to impose tariffs of up to 100% on India and four other countries for purchasing Russian oil, in a legislative push that has
+
+## Indians chosen in US varsities struggle for visa appointment
+Indian students admitted to universities in the US are struggling to secure visa appointments, sparking uncertainty and anxiety before the academic year begins in August and September – a situation that many describe as being worse than in recent years when visa dates have been persistently backlogg
+
+## ‘That picture with Lamine…it’s insane’: Messi opens up on iconic Yamal photo ahead of World Cup final
 
 
-## PM Modi flags off India’s first hydrogen train: 2-hour Jind-Sonipat travel, 14 halts and zero emission
+## When Kamal Haasan cried for an entire day after learning the ‘truth’ about his mother
 
 
-## Dengue fever and heart health: Expert warns of hidden cardiac risks to note
+## Hrithik Roshan, Shatrughan Sinha support Sonam Wangchuk: ‘This sounds true’
 
 
-## India raises with US issues of students, travellers: MEA on new visa rule
+## Parents win Rs 10 lakh from luxury Goa hotel after faulty lock traps kids in smoky room
 
 
-## Record turnouts evidence of public trust in poll process: CEC Gyanesh Kumar
+## The Catcher in the Rye at 75: A Bhagavad Gita-reading recluse and the Buddhist soul of an American classic
 
 
-## US-Iran War Live Updates: US launches another round of strikes after Iran widens its attacks on regional allies
+## Sindhu in Japan Open final after Chen Yufei pulls out after 21-19, 15-10 down
 
 
-## Delhi Confidential: Opp’s Dilemma
+## AMFI simplifies process for smooth transfer of mutual fund units to nominees, legal heirs
 
+
+## Anil Kapoor’s dad never gave a hit, family lived in Raj Kapoor’s servant quarters: ‘A sh*thole’
+
+
+## Fierce competition and shifting tastes squeeze China’s yoga apparel market
+China’s yoga apparel market is grappling with fierce competition and slowing growth amid sluggish domestic consumption, as middle-class shoppers diversify their activities, according to analysts. Lululemon, the Canadian athletic apparel brand popular among China’s middle class, continues to face sal
+
+## China’s Xpeng plants a flag in Germany’s auto heartland with Mona L03 launch
+Chinese electric vehicle maker Xpeng made its European ambitions clear on Thursday, as the firm unveiled its Mona L03 compact SUV at an event in the heart of Germany’s car industry, Munich. The launch, arguably the largest ever staged in Europe by a Chinese carmaker, was not just about introducing a
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
 Airbus has secured an order for 55 aircraft from two Chinese airlines, including 15 widebody A350 jets, strengthening the European giant’s widebody sales in the world’s second-largest air transport market. Air China, one of the country’s three major state-owned carriers, announced the deal on Friday
@@ -149,12 +155,6 @@ Chinese gold producers have embarked on a wave of overseas acquisitions in recen
 
 ## China and UAE cross-border QR payment link to boost the global yuan
 In the latest move to bypass Western-dominated financial systems and step up the internationalisation of the yuan, China is linking its retail payment networks with the United Arab Emirates. Users will soon be able to use domestic mobile apps to scan QR codes and make payments in either country, und
-
-## Chinese memory giant CXMT oversubscribed 212 times in mega Shanghai IPO
-More than 9.4 million investor accounts applied for shares in the blockbuster initial public offering (IPO) of ChangXin Memory Technologies (CXMT), with retail demand reaching about 212 times the shares initially available online. Investors submitted valid applications for nearly 817 billion shares 
-
-## South Korea’s turbulence seen as boon for Hong Kong stocks as capital migration under way
-Chinese technology stocks trading in Hong Kong are emerging as beneficiaries of tumult in the South Korean market, analysts say, pointing to investors rotating out of crowded bets and into undervalued assets, positioning for a rebound. The Hang Seng Tech Index, which tracks Alibaba and other key Hon
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -180,6 +180,9 @@ Test yourself on the week of July 11: China introduces AI regulations, Trump bri
 ## Syria’s Weak Parliament Still Matters
 The country’s newly opened assembly is by no means democratic, but it can still be more than a rubber stamp.
 
+## China, the US, and Nuclear Energy Geopolitics in Southeast Asia
+Nuclear reactor exports are becoming an increasingly important arena of strategic competition.
+
 ## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
 “When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
 
@@ -198,11 +201,8 @@ Pakistan continues to view the Islamabad MoU that it facilitated as the most via
 ## Papua New Guinea Just Closed Taiwan’s Economic Office
 Taiwan’s diplomatic space is shrinking along a vital Pacific energy route.
 
-## What India’s Operationalization of Integrated Battle Groups Means for Pakistan
+## What India’s Operation­alization of Integrated Battle Groups Means for Pakistan
 Since the inception of the IBGs, they have been framed as formations to launch offensive operations against Pakistan under the nuclear overhang. Now they are finally a reality.
-
-## China, North Korea Exchange High-Level Visits
-The visits extend a string of high-level exchanges as Beijing works to keep pace with Pyongyang’s deepening ties with Moscow.
 
 ## The Fedorov Dismissal: On Trust, Technology, and Turnover
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members.Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final
+Tournament has showcased unity and solidarity in Brooklyn's sizeable Arab American community, football fans say.
+
+## Five football players who rose to social media stardom at the World Cup
+On-pitch heroics and loveable personalities have skyrocketed the social media following of some footballers.
+
+## Iranian official says the policy of negotiating during war is over
+Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.
+
+## Israeli army destroys three schools in southern Lebanon, minister says
+At least 20 schools have now been completely destroyed in southern Lebanon, with 100 more damaged.
+
+## Targets of latest US strikes on Iran signal strategic shift
+The US has broadened its military campaign in Iran, says Al Jazeera’s Mike Hanna.
+
+## Analyst questions Trump’s renewed focus on US election integrity
+Eric Ham argues President Donald Trump’s renewed focus on election security is attempt to expand federal authority.
+
 ## Landslide in southwest China kills eight and leaves 34 missing
 A landslide on the outskirts of the southwestern Chinese city of Chongqing has killed at least eight and left 34 missing
 
 ## Trump Media reportedly mulling fee for first access to social media posts
 US president has frequently been accused of trading government influence for improper financial gain.
-
-## UK by-election sees record 34 candidates as Farage seeks return
-The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.
-
-## Homeland Security Secretary Mullin reiterates Trump threats about elections
-Mullin pledged to make Trump's election security demands 'mandatory' and implement a 'maximum pressure' campaign.
-
-## Iran war live: US and Iran exchange attacks for 7th consecutive night
-Fighting between the two sides rages as US attacks shift further into Iran’s interior
-
-## EU urges Israel to halt settlement expansion as settlers attack children
-Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.
-
-## Trump threatens Canada with steeper tariff costs over wildfire smoke
-US president has frequently pushed false claims blaming the mismanagement of rival politicians for large wildfires.
-
-## Iraq signs deals with Western oil firms, including to revive Syria pipeline
-Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq's oil-rich Kirkuk to Syria's Baniyas.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
@@ -300,6 +300,9 @@ Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard ag
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
+## US Senate bill seeks 100% tariffs on India, 4 other nations for buying Russian oil
+A bipartisan bill introduced in the US Senate proposes 100% tariffs on imports from the top five buyers of Russian oil or gas, including India, China, Slovakia, Hungary and Azerbaijan, to pressure Russia over its war in Ukraine.
+
 ## India's economy remains strong amid West Asia, weak monsoon risks: RBI chief
 RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain strong, with a decent pace of economic expansion despite geopolitical uncertainties triggered by the West Asia crisis.
 
@@ -320,7 +323,4 @@ The Reserve Bank of India (RBI) is expected to aggressively intervene in the cur
 
 ## SEBI clears over 5,000 investor complaints through 'SCORES' in June
 The Securities and Exchange Board of India (Sebi) resolved more than 5,000 investor complaints through its online grievance redressal platform 'SCORES' in June, while the number of pending complaints declined marginally during the month, according to data released by the capital markets regulator.
-
-## NSE got SEBI's nod to launch derivatives on Nifty India FPI 150 Index from August 12
-The National Stock Exchange of India (NSE) has received SEBI's approval to launch derivatives on the Nifty India FPI 150 Index (NIFTYFPI) from August 12, as per a statement by the stock exchange.
 
