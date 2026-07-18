@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## German army looks to Ukraine for battlefield lessons
+Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes
+
 ## Britain’s system for avoiding electricity blackouts faces scrutiny
 National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
 
@@ -21,8 +24,8 @@ The ‘Father Emir’ transformed the Gulf nation into a financial and geopoliti
 ## Gibraltar land grab stirs age-old dispute with Spain
 British overseas territory is expanding into the sea to relieve cramped living conditions
 
-## How long until there is a US markets reckoning over Trump’s damage?
-The patience of the bond markets will ultimately wear thin
+## Is the hyper-commercial World Cup here to stay?
+Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
 
 ## Data errors mar UK regulator’s new short selling disclosure rules
 Findings raise questions over the quality of the FCA’s information
@@ -33,14 +36,23 @@ Deregulation isn’t enough. Nor is government intervention. We need both
 ## Does your financial relationship with your partner need a reset?
 A good financial planning session can sometimes feel like couples counselling
 
-## Oil ‘wildcatter’ who cracked Alaska looks to Venezuela for repeat success
-Bill Armstrong’s draft deal with Caracas comes as he rides an exploration boom driven by Donald Trump
-
-## Xtranet Technologies plans ₹167-crore IPO to fund expansion and debt repayment
-Proceeds to support capital expenditure, working capital and business growth
+## ISRO, SCTIMST to take up research in Bioastronautics
+ISRO progressing towards its ambitious human spaceflight programme through the ‘Gaganyaan’ mission, SCTIMST says
 
 ## Q1 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results
 Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
+
+## Vizhinjam port to start full EXIM operations from Aug 18
+Kerala government to also officially unveil ‘Mission Samudra’, its long-term maritime development initiative
+
+## Kotak Mahindra Bank Q1 profit up 22.6% to ₹5,480.46 crore
+On a standalone basis, net profit of the bank stood at ₹4,122.96 crore in the June 2026 quarter, as compared to ₹3,281.68 crore in the year-ago period
+
+## IFSCA revises GIFT City credit rating rules, mandates issuer fact review before publication
+IFSCA clarified that issuers cannot influence rating opinions, with the final analytical judgment resting solely with the CRA
+
+## Xtranet Technologies plans ₹167-crore IPO to fund expansion and debt repayment
+Proceeds to support capital expenditure, working capital and business growth
 
 ## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
 Asset quality improves as retail, MSME and agriculture lending gains momentum
@@ -48,17 +60,8 @@ Asset quality improves as retail, MSME and agriculture lending gains momentum
 ## Bengaluru launches towing drive to clear streets, public spaces of abandoned vehicles
 All seized vehicles will be put up for public auction as per statutory guidelines, officials say
 
-## India’s first private orbital-class rocket Vikram-1 successfully lifts off
-Mission Aagaman marks a major milestone for India’s commercial space sector
-
-## DCM Shriram to expand renewable energy capacity to 176 MW with new hybrid power project
-DCM Shriram inks pact with Serentica Renewables India 38
-
-## IDBI Bank privatisation: Officers, staff to go on nationwide strike on July 27
-The move has caused deep concern among employees with respect to job and social security benefits, including pension, the forum says
-
-## Chip stocks slide into bear market in AI unwind: Markets wrap
-A surprise breakthrough from Chinese AI startup Moonshot jolted the sector, which also joined broader equity losses on geopolitical tensions
+## New money? India's currency might soon get a plastic makeover
+India's Reserve Bank is exploring polymer banknotes for enhanced durability. Manufacturers are invited to bid for specialized plastic substrate materials. Polymer notes offer greater resistance to moisture and dirt than paper. This move aims to reduce currency replacement and printing costs. Advance
 
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
@@ -81,55 +84,52 @@ RBI governor Sanjay Malhotra indicated no immediate policy reaction to current i
 ## Smartphone sales decline 10% in Q1, biggest in 3 years
 Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 
-## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
-Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
+## India becomes 3rd nation with private orbital launch after Vikram-1 success
+As tall as a seven-storey building, the multi-stage launch vehicle is designed to carry small satellites weighing up to 350kg to LEO
 
-## ‘Re-NEET tougher than last paper’: How toppers reacted to crucial exam results
-Gaurav Singh, who is the son of an Indian Army personnel and the AIR 9 rank holder, said that the re-NEET exam was "tougher".
+## Vikram-1 launch: PM Modi hails success of India's maiden private rocket
+Speaking to the CEO of Skyroot Aerospace, Pawan Kumar Chandana, and co-founder Naga Bharath Daka by phone, the PM congratulated them.
 
-## TDP leader held for assaulting woman over water pump connection in Guntur: Cop
-During the attack, the accused allegedly outraged the woman’s modesty by tearing her clothes, physically assaulting her
+## Maharashtra woman stabbed to death, accused dies by suicide hours later
+As per the preliminary probe, the victim and the accused had met on Friday evening. The attack may have stemmed from a one-sided love affair.
 
-## Meerut school owner murdered; wife, three held in snakebite plot
-Police arrested four people, including the victim’s wife, after a Meerut school operator was allegedly sedated and killed in a staged snakebite murder.
+## Why does Assam flood every year? It's not just the rain, expert says
+Assam's annual floods are driven by a combination of natural geography and human activities.
 
-## Vikram-1: All about India's first privately developed orbital rocket saying ‘hello’ to space
-The launch witnessed a brief delay after the mission control team placed the countdown on a planned hold minutes before the scheduled liftoff.
+## Video: Woman throws ink at Abhijeet Dipke as he sits on hunger strike after Sonam Wangchuk's 'removal'
+The woman's identity and the motive behind the act of throwing ink at Abhijeet Dipke were not immediately known.
 
-## India's first private orbital launch successful as Vikram-1 lifts off into space | VIDEO
-The launch vehicle is capable of carrying payloads weighing up to 350 kg into a 450-km Low Earth Orbit at a 60-degree inclination.
+## Sonam Wangchuk's final message hours before cops removed him from Jantar Mantar | Watch
+Despite his deteriorating health, Sonam Wangchuk said he remained mentally alert and defended the purpose of his agitation.
 
-## Ethanol blending won't lower fuel rates: Ex-HPCL chief busts ‘myth’
-The E20 petrol debate has ignited conversations across sectors. At this time, Surana dismissed the "myth" that ethanol blending should lower fuel prices.
+## Bar Council of India bans courtroom reels, issues social media rules for lawyers
+The Bar Council of India issued social media rules for lawyers and law students, banning courtroom reels and content that mocks or scandalises courts.
 
-## India in touch with US authorities amid complications over revised visa norms
-India announced that it is actively communicating with US authorities to mitigate complications encountered by Indian citizens due to revised visa policies.
+## White sheets, plainclothes cops: How Delhi Police ‘removed’ Sonam Wangchuk amid sea of protesters
+The next step was to identify a perfect opportunity, which the sources said came when Sonam Wangchuk's close aide Abhijit Dipke, was away from the protest venue
 
-## JNU's Neha Bora continues hunger strike after Wangchuk moved away, alleges police crackdown
-The All India Students' Association (AISA) had said Neha Bora's blood sugar level had dropped to a critically low level.
-
-## How domestic helps played a key role in Lutyens’ Delhi bungalow robbery
+## Iran threatens to move beyond retaliation as US attacks enter Day 7
 
 
-## Twin-tower at ITO: Delhi Government’s plan for new Secretariat building
+## Snake in room, bite marks on husband: Inside a chilling Meerut case
 
 
-## Pune on my plate | 5 popular food spots not on influencer circuit
+## TMC MP Abhishek Banerjee’s ‘illegal’ office demolished in West Bengal
 
 
-## Army Havildar dismissed, jailed for molesting Major General’s wife
+## 72nd National Film Awards winners to be announced today at 5:30 pm
 
 
-## Sonam Wangchuk hospitalised: How prolonged fasting affects the body — and can turn fatal
+## ‘I don’t eat breakfast….2-3 spoons of ghee’: Roja actor Madhoo shares food preferences
 
 
-## Why Mehbooba’s party just declined Omar’s Jantar Mantar invite
+## Donation theft at Badrinath Dham: CCTV reveals how accused operated, even saffron wasn’t spared
 
 
-## Zerodha founders Nithin, Nikhil Kamath surprise mother with Wimbledon trip: ‘Unforgettable tour’
+## One Tech Tip: How to soothe thumb pain when texting and scrolling
 
 
-## Bar Council asks law schools to enforce social media rules; students to sign compliance undertakings
+## life in uniform: Uniform, motherhood and the myth of having to choose
 
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
@@ -252,10 +252,19 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Argentina’s New York fans share hopes before 2026 World Cup final
+Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.
+
+## Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## World Cup final: Spain vs Argentina – Which team has best chance to win?
+What to know about both teams: Form, strengths, weaknesses, key players and what the coaches and players had to say.
+
 ## Palestine football fans honour Egyptian coach Hossam Hassan
 Palestine football fans honour Egyptian coach Hossam Hassan
 
-## World Cup final weekend: France vs England prediction, schedule, news
+## From France vs England to Messi vs Yamal: World Cup final weekend
 France and England battle for third place before Argentina and Spain meet in the World Cup final.
 
 ## Kolkata sings for Messi as World Cup fever takes hold
@@ -266,15 +275,6 @@ Deschamps, who led France to the 2018 World Cup title, bids farewell after Satur
 
 ## Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank
 A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.
-
-## Canadian wildfire smoke shrouds US, potential risk for World Cup final
-Plumes of smoke from wildfires in Canada are pouring into major US cities.
-
-## Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff
-England coach Thomas Tuchel says his side carry the pain of defeat into third-place playoff against France.
-
-## Messi reflects on pressure and competition ahead of World Cup final
-Ahead of the World Cup final, Lionel Messi says growing up playing football taught him to enjoy the game.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
