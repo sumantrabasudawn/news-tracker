@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Big Law braces for second fight with Trump over capitulation deals
+Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago
+
+## Iran strikes Saudi Arabia for first time in months
+Tit-for-tat strikes undermine efforts to reopen Strait of Hormuz
+
 ## Traders are increasingly betting against SpaceX just weeks after IPO
 Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time
 
@@ -18,14 +24,11 @@ Land forces chief says Kyiv’s military expertise is proving invaluable as Bund
 ## Britain’s system for avoiding electricity blackouts faces scrutiny
 National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
 
-## The London IPO market isn’t as bad as it looks
-It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
-
-## Your odyssey to see ‘The Odyssey’ matters
-The extremes that film fanatics are going to in order to watch Nolan’s latest tell us something
-
 ## Is the hyper-commercial World Cup here to stay?
 Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
+
+## The London IPO market isn’t as bad as it looks
+It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
 
 ## Asia AI bets power record equities run for Wall Street banks
 Investments in semiconductors fuel growth in regional revenues for US banks
@@ -33,35 +36,29 @@ Investments in semiconductors fuel growth in regional revenues for US banks
 ## Superdrug owner considers delay to planned London IPO
 Hong Kong-based AS Watson was aiming for a dual listing this autumn
 
-## Data errors mar UK regulator’s new short selling disclosure rules
-Findings raise questions over the quality of the FCA’s information
+## Blueprint for a successful redevelopment
+For apartment owners, redevelopment involves complex legal, financial, and technical considerations and warrants proper due diligence for a successful outcome
 
-## How to fix the housing crisis
-Deregulation isn’t enough. Nor is government intervention. We need both
+## Simply Put: Earnings seasonality
+Over a steaming cuppa, two friends discuss how the changing seasons can influence the earnings of companies
 
-## Nifty and Nifty Bank Predictions for the week 20 Jul '26 to 24 Jul '26 by BL GURU
+## Punjab & Sind Bank registers over 23% rise in Q1 net profit
+Net profit increased to ₹331 crore in the April-June quarter, up from ₹269 crore
 
-
-## HCL working at fast pace to double Malanjkhand Copper Project capacity in MP by 2030: CMD
-"Our focus will be on completing the capital expenditure plan to achieve the production target of 12.2 million tonnes by 2030” CMD Anupam Mishra
+## Movers & Shakers: Stocks that will see action this week
+Here is what the charts say about the shares of Authum Investment & Infrastructure, L&T Finance and Newgen Software Technologies
 
 ## Q1 Results Today Live: Kotak Mahindra, YES Bank drive Q1 with 23%, 34% profit jump; ICICI up 16%, HDFC and IDBI post 5% growth
 Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
 
-## HDFC Bank profit rises 5% to ₹19,060 crore in Q1
-However, the total income of the bank in the quarter under review dropped to ₹92,184 crore from ₹99,200 crore in the same period a year ago
+## Axis Bank Q1 net profit rises 23% on strong margins, asset quality improves
+Total income rose 6% to ₹40,721 crore from ₹38,322 crore last year; Net Interest Income increased 8% to ₹14,646 crore, with a Net Interest Margin of 3.46%
 
-## YES Bank jumps 34%; asset quality improves, loan growth remains strong
-The private lender’s net interest income, which is the difference between interest earned and interest expenses, increased to 17% to ₹2,786 crore from ₹2,371.47 crore a year ago
+## Hundia Infosolutions launches KARNAGE brand to meet gamers accessory needs
+KARNAGE has launched gaming keyboards, mice, headsets, mousepads, cabinets, and related components, featuring bold designs and strong performance
 
-## Andhra Pradesh faces 48% rainfall deficit, CM Naidu calls for water conservation
-AP CM noted that declining inflows into the Krishna Delta over a decade ago severely impacted agriculture in the region, once known as the country’s “rice bowl”
-
-## ISRO targets 7 launches this fiscal; Next mission within two months, says Chairman Narayanan
-The space agency’s upcoming operational schedule includes the first uncrewed mission under the Gaganyaan human spaceflight program, alongside the slated satellite launches
-
-## AIIEA urges goverment to extend RoDTEP benefits to DFIA exporters
-The issue has become particularly serious following the recent issuance of recovery notices to DFIA exporters, directing them to return the benefits claimed under the RoDTEP scheme
+## Two years on, Ayushman cover reaches only 1.29 crore of 6 crore eligible seniors
+The National Health Authority (NHA) has asked states and Union Territories to prioritise enrolling all eligible beneficiaries under AB PM-JAY, expedite Ayushman Card generation, ensure complete coverage
 
 ## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
 With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
@@ -87,52 +84,52 @@ New free trade agreements offer Indian textile exporters significant tariff adva
 ## NITI index: Gujarat, Maharashtra lead in wooing investors
 
 
-## Who is judge Veena Rani and why was she suspended by Delhi high court?
-The Delhi high court suspended judge Veena Rani at a full court meeting, which was officially announced on July 15.
+## Five tribal villagers, including 3 women, drown while fishing in Andhra: Police
+According to the primary investigation, a group of five tribal villagers went into the Godavari River early morning to catch fish
 
-## NIA arrests 2 more accused in abduction, killing of six Nagas in Manipur
-Twenty Nagas were abducted while travelling and held hostage following the May 13 twin ambush in Kangpokpi and Noney districts
+## Former Prime Minister Deve Gowda's wife Chennamma passes away
+She was admitted to Manipal Hospital on Old Airport Road in Bengaluru on Wednesday night.
 
-## 'Asatya, Hinsa': Rahul Gandhi attacks government, calls 'removal' of Sonam Wangchuk from Jantar Mantar 'wrong'
-In a post on X, the Leader of Opposition and Congress MP Rahul accused the Modi government of being guided by the principles of ‘falsehood’ and ‘violence’.
+## 'Shouldn't test Sonam Wangchuk's limits, say yes or no to his demands': Anna Hazare's appeal to Centre
+Activist Anna Hazare urged the Union government to engage in talks with Sonam Wangchuk to address the ongoing standoff related to his indefinite hunger strike.
 
-## FDA suspends Mumbai's KEM Hospital canteen licence over food safety lapses
-The Maharashtra FDA suspended the licence of KEM Hospital's canteen and ordered it to stop operations after finding hygiene and food safety violations.
+## 5 killed, ten injured in blast at illegal firecracker factory in Gujarat's Ahmedabad; PM condoles deaths
+A blast followed by a fire at allegedly an illegal firecracker factory in Ramtol area of Gujarat's Ahmedabad on Saturday
 
-## TVK functionary removed from party after moving court against leaders
-TVK removed functionary M Gnanasoundari after accusing her of violating party discipline and making allegations that tarnished its image.
+## 1 injured in Kolkata residential blast, 1 detained; NIA launches probes
+The NIA reached the scene on Saturday and collected samples for forensic analysis to find out the explosives used
 
-## Abhishek Banerjee's office in Diamond Harbour demolished: 'Illegal construction'
-People aware of the developments said bulldozers and drilling machines were brought in to demolish portions of the building at Amtala in Diamond Harbour
+## Meerut to Rishikesh in 3 hours: How Namo Bharat corridor extension will ease travel
+The semi-high-speed train, capable of running at up to 160 kmph, will cover the nearly 230-km journey in about three hours
 
-## In race to become Ram Temple Trust's first CEO, retired bureaucrats dominate applicant pool
-The criteria also allow serving government officers in their final two years of service, retired officers and eligible private-sector professionals to apply.
+## Delhi cafes, restaurants to stay open till 4am for FIFA World Cup final, announces CM Rekha Gupta
+Delhi chief minister Rekha Gupta said the decision has been made possible under the city's 24x7 business-friendly operating framework
 
-## Two held for painting Sonam Wangchuk's mural on public wall in Guwahati
-According to the Guwahati Police, a patrolling party apprehended the two youths, who were allegedly trying to damage public property last night.
+## Is using abusive words like ‘motherf***ker’ punishable under obscenity law? What Supreme Court says
+The court made the observation while partly allowing a man's appeal, who was convicted for obscenity for using the words “motherf***ker” during an altercation.
 
-## Peon runs job racket in Pune civic body, dupes engineers of lakhs
-
-
-## Delhi Confidential: India bloc or Opposition meet? Post-poll strains cloud Monday huddle
+## Ahead of FIFA World Cup final, every line in New York leads to Lionel Messi
 
 
-## Meet new national minorities panel chief Harjeet Grewal: RSS member to BJP face during farm stir
+## From Lagos to Kathmandu: Heroin trail dominates as 26 foreign nationals arrested in Panchkula over five years
 
 
-## Tom Brady slaps Logan Paul at Fanatics Fest, calls him ‘dork’ on X: Watch
+## Shashi Tharoor spotlights Ramassery delicacy that ‘looks like a dosa but tastes like idli’
 
 
-## Google AI Mode adds more Connected Apps, including YouTube Music
+## Mumbai local train update: Railways to add 10 suburban services of 15-car rake from July 20 – Routes, timings
 
 
-## AIBE 21 result out at allindiabarexamination.com; overall pass percentage at 65.92%
+## Morne Morkel on Rohit Sharma: ‘Brings calmness to the batting line-up’
 
 
-## ‘Not luxury’: CJI Surya Kant demands hospital-like infrastructure, parking solutions
+## Why Iran hardliners are alleging a ‘coup’ after the US agreement
 
 
-## Railways to develop Rishikesh as feeder station to reduce pressure on Haridwar, boost train capacity
+## Swiss woman leaves corporate job to build free school in India: ‘Never felt richer’
+
+
+## BPSC 72nd CCE Prelims exam postponed; Bihar PSC to announce fresh exam date soon
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -255,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Death toll from Uganda school bus crash rises to 24
+Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.
+
+## Iran accuses US of striking critical infrastructure as war intensifies
+The conflict has been escalating since US President Donald Trump declared 10 days ago the peace deal with Iran is over.
+
+## Ukrainian strikes hit Russian logistics center
+Ukrainian strikes hit Russian logistics center
+
+## Europe should look to Africa for heatwave solutions
+African communities have spent decades developing practical, tested ways to live with extreme heat.
+
+## India achieves milestone with launch of first private-sector orbital rocket
+PM Narendra Modi says successful launch will 'encourage countless youngsters to dream bigger and innovate fearlessly'.
+
 ## India’s salt workers: The human cost of the world’s most popular seasoning
 101 East investigates the supply chain behind India’s booming salt industry.
 
@@ -263,21 +275,6 @@ Russian officials say strikes on retailer's warehouses caused civilian casualtie
 
 ## Indian police forcibly hospitalise activist after 20-day hunger strike
 Police said protesters tried to stop them from seizing Sonam Wangchuk, causing a 'slight commotion'.
-
-## Argentina’s New York fans share hopes before 2026 World Cup final
-Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.
-
-## Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## World Cup final: Spain vs Argentina – Which team has best chance to win?
-What to know about both teams: Form, strengths, weaknesses, key players and what the coaches and players had to say.
-
-## Palestine football fans honour Egyptian coach Hossam Hassan
-Palestine football fans honour Egyptian coach Hossam Hassan
-
-## World Cup: France vs England prediction, final schedule, latest news
-France and England battle for third place before Argentina and Spain meet in the World Cup final.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
