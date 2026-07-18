@@ -1,64 +1,64 @@
 # AION Intelligence
 
-## Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke
-President to call PM Mark Carney over ‘filthy, polluted’ air wafting over US cities
+## Britain’s system for avoiding electricity blackouts faces scrutiny
+National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
 
-## Trump Media pitched $100,000 monthly fee for fast feed of president’s posts
-Family company has quoted the six-figure sum for high-speed access to Truth Social platform
+## The London IPO market isn’t as bad as it looks
+It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
 
-## US chip stocks notch up worst week in more than a year
-High-flying semiconductor shares fall as ‘momentum trades’ backfire
+## Why your odyssey to see ‘The Odyssey’ matters
+The extremes that film fanatics are going to in order to watch Nolan’s latest tell us something
 
-## Apple briefly leapfrogs Nvidia as world’s most valuable company
-Shares in iPhone maker have escaped AI sell-off that has hit chipmaker
+## Asia AI bets power record equities run for Wall Street banks
+Investments in semiconductors fuel growth in regional revenues for US banks
 
-## The Burnham era begins: Mahmood set for chancellor
-Plus, Starmer’s farewell
+## Superdrug owner considers delay to planned London IPO
+Hong Kong-based AS Watson was aiming for a dual listing this autumn
 
-## Reform UK volunteer who made homophobic remarks hosted patrons’ event
-George Jones presented the champagne and canapés gathering at the Caledonian Club in Belgravia
+## Sheikh Hamad bin Khalifa al-Thani, former ruler of Qatar, 1952-2026
+The ‘Father Emir’ transformed the Gulf nation into a financial and geopolitical heavyweight
 
-## Burnham takes Labour reins as focus shifts to delivering on vision
-New Labour leader wins rapturous reception but faces immediate questions over how he will keep bold promises
+## Gibraltar land grab stirs age-old dispute with Spain
+British overseas territory is expanding into the sea to relieve cramped living conditions
 
-## Meta and Anthropic in talks for up to $10bn data centre deal
-Social media giant is considering launching a cloud business as it spends $145bn on infrastructure
+## How long until there is a US markets reckoning over Trump’s damage?
+The patience of the bond markets will ultimately wear thin
 
-## Moneysupermarket to launch investment platform
-Price-comparison site set to enter crowded market against established providers
+## Data errors mar UK regulator’s new short selling disclosure rules
+Findings raise questions over the quality of the FCA’s information
 
-## EU set to delay fines for breaking methane rules after US pressure
-Move unlikely to satisfy energy companies that want a rewrite of law on leaks and flaring of polluting gas
+## How to fix the housing crisis
+Deregulation isn’t enough. Nor is government intervention. We need both
 
-## PwC partners in line for near-record £900,000 annual pay
-Payout for top ranks of Big Four accounting firm set to rise despite challenging consulting market
+## Does your financial relationship with your partner need a reset?
+A good financial planning session can sometimes feel like couples counselling
 
-## Directors’ Deals: Middle East conflict casts shadow over Energean
-Full-year guidance has been lowered and the dividend has been cut
+## Oil ‘wildcatter’ who cracked Alaska looks to Venezuela for repeat success
+Bill Armstrong’s draft deal with Caracas comes as he rides an exploration boom driven by Donald Trump
 
-## Small rivers need distinct conservation strategy, says NMCG draft framework
-The framework prioritises natural connectivity, catchment restoration, local water storage and nature-based solutions tailored to local ecosystems
+## US student visa rule changes to raise costs, tighten timelines for international students
+Students will need to plan careers earlier as visa extensions become more complex
 
-## IAF's Rafale to be part of ‘Pitch Black’ exercise in Australia
-The premier biennial multinational air combat exercise brings together Air Forces of 19 nations
+## Q1 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results
+Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
+
+## Indian banks seen poised for strong FY27 on robust credit growth and healthy asset quality
+Strong loan demand, improving deposits and policy support expected to drive earnings
+
+## El Niño is a warning: It is time to regenerate Indian agriculture is now
+The country needs a much larger mission, one that restores soils, conserves water, revitalises biodiversity and rebuilds the ecological foundations of agriculture
+
+## EU rejects Chinese rice flour cargo for presence of GMOs
+An EU notification issued on Monday said the Netherlands had found the presence of GMOs in hydrolysed rice flour
+
+## CJP founder Abhijit Dipke begins indefinite hunger strike after Wangchuk shifted to hospital
+Dipke’s announcement comes amid continued protests at Jantar Mantar, with AISA activists Neha, Aameen and Manish also carrying on with their hunger strike after Wangchuk’s hospitalisation
+
+## US visa rule changes: MEA spokesperson Jaiswal says India will try to ‘minimise difficulties’ for its people
+The regulatory shifts are projected to heavily influence the demographic of Indian students and academic visitors in the US
 
 ## India's first private rocket to place tech payloads, postcard from PM into orbit
 Skyroot Aerospace’s Vikram-1 launch marks the entry of India’s private space sector into the orbital launch market
-
-## US prosecutor says Justice Department made call to drop Gautam Adani case
-Court filings showed Gautam Adani proposed a $10 billion US investment during settlement talks, though prosecutors said it was never tied to resolving the criminal case
-
-## Delhi Police shifts Sonam Wangchuk to hospital on 21st day of hunger strike
-In a statement, Delhi Police said Wangchuk was shifted for "essential medical care" following expert medical advice and in compliance with the high court's orders
-
-## Apple overtakes Nvidia to become world’s most valuable company
-Investors are increasingly favouring companies that can monetise AI through services, ecosystems and devices, rather than AI infrastructure alone
-
-## US firms sign $60 billion Iraq deals to develop oil routes beyond Strait of Hormuz
-Iraq is positioning itself as a long-term investment hub while diversifying oil export routes through Syria and Turkey
-
-## Canada wildfire smoke blankets US Northeast, triggers air quality alerts
-Hazardous wildfire smoke engulfed Washington, Detroit and Chicago, forcing an MLB game postponement in Cleveland
 
 ## Textile sector to sew loose ends as FTAs kick in
 New free trade agreements offer Indian textile exporters significant tariff advantages. The UK deal eliminates up to twelve percent tariffs, boosting competitiveness against rivals. Companies anticipate increased orders and potential export growth over the next few years. However, fragmented supply 
@@ -84,52 +84,52 @@ Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 ## RIL Q1 profit plunges 25% to 23,000 crore, revenue up 25%
 Reliance Industries saw a 25% profit decline, yet revenue grew significantly. Strong performances from oil-to-chemicals and Jio digital services boosted overall results. Jio's earnings climbed, supported by subscriber growth and increased average revenue per user. Retail and oil and gas divisions sh
 
-## BJP keen on merger of NCPs, but Sunetra not in favour
+## One dead, 12 injured after students fall into septic tank at Rajasthan madrasa: Cops
+The 12 injured students were admitted to a nearby hospital and are undergoing treatment. The incident took place at Mill Madrasa in the Gopalgarh area.
+
+## ‘Modi govt’s defeat': Oppn as cops move Sonam Wangchuk out of Jantar Mantar, CJP claims ‘forcible’ removal
+Samajwadi Party's Dimple Yadav termed Sonam Wangchuk's removal from Jantar Mantar protest site an assault on the democracy and constitution.
+
+## Alibaba Qwen and Baidu: Clear contours of a remade Apple Intelligence for China
+Apple, Samsung, Xiaomi and other phone makers’ AI strategies are at an inflection point, with China approving localised versions built with domestic AI companies
+
+## ‘Taken against his will’: CJP alleges ‘Wangchuk dragged away forcibly by cops'
+CJP founder Abhijeet Dipke alleged that Wangchuk was forcibly taken away by the Delhi Police from the Jantar Mantar protest site against his will.
+
+## Sonam Wangchuk's wife breaks silence, says no treatment without her consent: ‘Will hold everyone accountable if…’
+Gitanjali J Angmo is at the Safdarjung hospital and asks authorities to not give him any medication without consulting either her, his family or his doctors.
+
+## CJP's Abhijeet Dipke announces indefinite hunger strike after Wangchuk moved to hospital
+Abhijeet Dipke announced an indefinite hunger strike on Saturday. The CJP has been holding a protest, demanding the resignation of the Union Education Minister.
+
+## Stalin's DMK, Vijay's TVK unite against delimitation, vow to oppose bill
+The DMK has been a vocal opponent of the delimitation proposal. Meanwhile, TVK chief and CM C Joseph Vijay has also opposed the exercise.
+
+## PM Modi wishes Skyroot success ahead of Vikram-1's first orbital launch: ‘A historic new frontier for India’
+PM Modi said the launch, scheduled for 11:30 am, was a significant milestone for India's private space sector.
+
+## ‘Took Sonam sir away like a criminal’: CJP founder Dipke rallies protesters at Jantar Mantar
 
 
-## Parl panel on PM, CMs’ removal bill defers draft report
-A joint parliamentary committee reviewing the bill to automatically remove ministers, chief ministers and prime ministers arrested for over 30 days, has decided against adopting its report, weeks after circulating the draft to the members
-
-## Nearly 400k trees on block after coal projects get nod
-The FAC recommended Stage-I forest clearance for 13 projects, including three coal mines involving diversion of over 2,000 hectares of forest land.
-
-## Coaches second class, not passengers: SC to Rlys
-The Supreme Court on Friday asked the Railways to clarify and reconsider the continued use of the term “second class passenger” in its manuals and official documents, observing that the class connotation should attach to the coach and not to the passenger, as the expression is “offensive to the spir
-
-## Bhojshala row: Dhar Muslims reject site earmarked for Friday namaz
-Muslims in Dhar denied offering Friday prayers at the site allotted by the administration, citing its distance from the Bhojshala complex.
-
-## SC to look into affordable access to life-saving cancer medicines
-The Supreme Court on Friday said it will examine the broader issue of affordable access to life-saving cancer medicines and judicial delays in cases involving the right to health, expressing concern that a breast cancer patient’s petition remained pending before the Kerala high court despite being l
-
-## A majority of senators back Russia oil bill
-More than 60 of the US Senate’s 100 members — including Senate Majority Leader John Thune — on Thursday backed a new bill that would grant President Donald Trump the authority to impose tariffs of up to 100% on India and four other countries for purchasing Russian oil, in a legislative push that has
-
-## Indians chosen in US varsities struggle for visa appointment
-Indian students admitted to universities in the US are struggling to secure visa appointments, sparking uncertainty and anxiety before the academic year begins in August and September – a situation that many describe as being worse than in recent years when visa dates have been persistently backlogg
-
-## ‘That picture with Lamine…it’s insane’: Messi opens up on iconic Yamal photo ahead of World Cup final
+## ‘Ask Leo’: Scaloni on Messi’s Argentina future after World Cup final
 
 
-## When Kamal Haasan cried for an entire day after learning the ‘truth’ about his mother
+## Paresh Rawal said Akshay Kumar didn’t give him OMG 2 credit; director slams him: ‘Why now?’
 
 
-## Hrithik Roshan, Shatrughan Sinha support Sonam Wangchuk: ‘This sounds true’
+## ‘Hardest part was starting all over again’: Jalandhar lad shoots into glory with AIR 8
 
 
-## Parents win Rs 10 lakh from luxury Goa hotel after faulty lock traps kids in smoky room
+## Meet the animals that breathe through their skin, gut, and more
 
 
-## The Catcher in the Rye at 75: A Bhagavad Gita-reading recluse and the Buddhist soul of an American classic
+## ‘Lawrence Bishnoi gang’ threatens Aamir Khan over ‘love jihad’
 
 
-## Sindhu in Japan Open final after Chen Yufei pulls out after 21-19, 15-10 down
+## Scaloni criticises FIFA for forcing Argentina into ‘strange’ World Cup final training
 
 
-## AMFI simplifies process for smooth transfer of mutual fund units to nominees, legal heirs
-
-
-## Anil Kapoor’s dad never gave a hit, family lived in Raj Kapoor’s servant quarters: ‘A sh*thole’
+## Meta, Anthropic in talks for potential $10 billion compute lease deal: Report
 
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## In New York’s ‘Little Palestine’, fans cheer for Spain in World Cup final
-Tournament has showcased unity and solidarity in Brooklyn's sizeable Arab American community, football fans say.
+## Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank
+A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.
 
-## Five football players who rose to social media stardom at the World Cup
-On-pitch heroics and loveable personalities have skyrocketed the social media following of some footballers.
+## Canadian wildfire smoke shrouds US, potential risk for World Cup final
+Plumes of smoke from wildfires in Canada are pouring into major US cities.
 
-## Iranian official says the policy of negotiating during war is over
-Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.
+## England carry ‘scars’ of World Cup heartbreak into third-place playoff
+England face France in a third-place playoff on Saturday, shortly after suffering a late semifinal defeat to Argentina.
 
-## Israeli army destroys three schools in southern Lebanon, minister says
-At least 20 schools have now been completely destroyed in southern Lebanon, with 100 more damaged.
+## Messi reflects on pressure and competition ahead of World Cup final
+Ahead of the World Cup final, Lionel Messi says growing up playing football taught him to enjoy the game.
 
-## Targets of latest US strikes on Iran signal strategic shift
-The US has broadened its military campaign in Iran, says Al Jazeera’s Mike Hanna.
+## A seventh night of US strikes cuts water to villages in Iran’s south
+The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.
 
-## Analyst questions Trump’s renewed focus on US election integrity
-Eric Ham argues President Donald Trump’s renewed focus on election security is attempt to expand federal authority.
+## Trump jokes that England turned Harry Kane into a ‘defensive player’
+US President Donald Trump joked that England turned captain Harry Kane into ‘a defensive player’
 
-## Landslide in southwest China kills eight and leaves 34 missing
-A landslide on the outskirts of the southwestern Chinese city of Chongqing has killed at least eight and left 34 missing
+## Mandela Day: What his legacy means in today’s South Africa
+As South Africa grapples with inequality and division, Mandela Day has taken on new political significance.
 
-## Trump Media reportedly mulling fee for first access to social media posts
-US president has frequently been accused of trading government influence for improper financial gain.
+## Manila protests ‘racist’ portrayal of Filipinos in China Daily videos
+The Philippines protests China Daily videos depicting Filipinos as monkeys amid South China Sea tensions.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
@@ -300,9 +300,6 @@ Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard ag
 ## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
 Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
 
-## US Senate bill seeks 100% tariffs on India, 4 other nations for buying Russian oil
-A bipartisan bill introduced in the US Senate proposes 100% tariffs on imports from the top five buyers of Russian oil or gas, including India, China, Slovakia, Hungary and Azerbaijan, to pressure Russia over its war in Ukraine.
-
 ## India's economy remains strong amid West Asia, weak monsoon risks: RBI chief
 RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain strong, with a decent pace of economic expansion despite geopolitical uncertainties triggered by the West Asia crisis.
 
@@ -323,4 +320,7 @@ The Reserve Bank of India (RBI) is expected to aggressively intervene in the cur
 
 ## SEBI clears over 5,000 investor complaints through 'SCORES' in June
 The Securities and Exchange Board of India (Sebi) resolved more than 5,000 investor complaints through its online grievance redressal platform 'SCORES' in June, while the number of pending complaints declined marginally during the month, according to data released by the capital markets regulator.
+
+## NSE got SEBI's nod to launch derivatives on Nifty India FPI 150 Index from August 12
+The National Stock Exchange of India (NSE) has received SEBI's approval to launch derivatives on the Nifty India FPI 150 Index (NIFTYFPI) from August 12, as per a statement by the stock exchange.
 
