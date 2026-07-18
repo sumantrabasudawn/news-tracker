@@ -24,6 +24,9 @@ The ‘Father Emir’ transformed the Gulf nation into a financial and geopoliti
 ## Gibraltar land grab stirs age-old dispute with Spain
 British overseas territory is expanding into the sea to relieve cramped living conditions
 
+## Rise of delivery apps takes a bite out of sales for Big Pizza
+Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
+
 ## Is the hyper-commercial World Cup here to stay?
 Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
 
@@ -33,32 +36,29 @@ Findings raise questions over the quality of the FCA’s information
 ## How to fix the housing crisis
 Deregulation isn’t enough. Nor is government intervention. We need both
 
-## Does your financial relationship with your partner need a reset?
-A good financial planning session can sometimes feel like couples counselling
+## Tamil Nadu's first budget under CM Vijay-led govt to be presented in first week of August: Minister Maria Wilson
+Wilson said Chief Minister Vijay had been holding extensive review meetings with ministers and senior officials over the past two weeks to finalise the budget and policy priorities
 
-## ISRO, SCTIMST to take up research in Bioastronautics
-ISRO progressing towards its ambitious human spaceflight programme through the ‘Gaganyaan’ mission, SCTIMST says
+## Vizhinjam Port to launch full EXIM operations from August 18
+The launch of EXIM services, part of the State Government’s 100-day action plan, will establish Vizhinjam as a comprehensive export-import gateway
+
+## Technology has erased boundaries; don’t let hesitation hold you back: FM Nirmala Sitharaman
+The finance minister also drew attention to Madurai’s entrepreneurial spirit, which she said, was rooted in over 2,500 years of recorded history
 
 ## Q1 Results Today Live: HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, PNB, IDBI Bank, Yes Bank, JK Cement, India Cements to announce Q1 results
 Q1 Results Today, 18th July 2026 Live Updates: Catch all the live updates here
 
-## Vizhinjam port to start full EXIM operations from Aug 18
-Kerala government to also officially unveil ‘Mission Samudra’, its long-term maritime development initiative
-
-## Kotak Mahindra Bank Q1 profit up 22.6% to ₹5,480.46 crore
-On a standalone basis, net profit of the bank stood at ₹4,122.96 crore in the June 2026 quarter, as compared to ₹3,281.68 crore in the year-ago period
-
-## IFSCA revises GIFT City credit rating rules, mandates issuer fact review before publication
-IFSCA clarified that issuers cannot influence rating opinions, with the final analytical judgment resting solely with the CRA
-
-## Xtranet Technologies plans ₹167-crore IPO to fund expansion and debt repayment
-Proceeds to support capital expenditure, working capital and business growth
-
 ## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
-Asset quality improves as retail, MSME and agriculture lending gains momentum
+Quarterly provisions increased to ₹541 crore from ₹424 crore in March, while fresh slippage fell to ₹2,080 crore from ₹2,758 crore
 
-## Bengaluru launches towing drive to clear streets, public spaces of abandoned vehicles
-All seized vehicles will be put up for public auction as per statutory guidelines, officials say
+## PHFI-IPHS steps up to meet growing demand for public health workforce
+India currently requires over 45,000 additional public health professionals to support its growing healthcare needs
+
+## ICICI Bank Q1 net profit jumps 13.88% to ₹15,440 crore
+The bank’s standalone net profit rose 15.95% to ₹14,804 crore for the April-June quarter, up from ₹12,768 crore a year earlier
+
+## Monsoon ‘low’ weakens, but signals heavy rain for North-West, Central India
+Fresh spell for North-West and Central India comes even as rain deficit for country as a whole has widened to 24% as of Friday
 
 ## New money? India's currency might soon get a plastic makeover
 India's Reserve Bank is exploring polymer banknotes for enhanced durability. Manufacturers are invited to bid for specialized plastic substrate materials. Polymer notes offer greater resistance to moisture and dirt than paper. This move aims to reduce currency replacement and printing costs. Advance
@@ -84,52 +84,52 @@ RBI governor Sanjay Malhotra indicated no immediate policy reaction to current i
 ## Smartphone sales decline 10% in Q1, biggest in 3 years
 Chinese brands feel the heat as below 15,000 segment plunges 45% in a year
 
+## 'Asatya, Hinsa': Rahul Gandhi attacks government, calls 'removal' of Sonam Wangchuk from Jantar Mantar 'wrong'
+Rahul Gandhi targets Centre over Wangchuk's alleged removal from CJP protest site at Jantar Mantar in Delhi.
+
+## FDA suspends Mumbai's KEM Hospital canteen licence over food safety lapses
+The Maharashtra FDA suspended the licence of KEM Hospital's canteen and ordered it to stop operations after finding hygiene and food safety violations.
+
+## TVK functionary removed from party after moving court against leaders
+TVK removed functionary M Gnanasoundari after accusing her of violating party discipline and making allegations that tarnished its image.
+
+## Abhishek Banerjee's office in Diamond Harbour demolished: 'Illegal construction'
+People aware of the developments said bulldozers and drilling machines were brought in to demolish portions of the building at Amtala in Diamond Harbour
+
+## In race to become Ram Temple Trust's first CEO, retired bureaucrats dominate applicant pool
+The criteria also allow serving government officers in their final two years of service, retired officers and eligible private-sector professionals to apply.
+
+## Two held for painting Sonam Wangchuk's mural on public wall in Guwahati
+According to the Guwahati Police, a patrolling party apprehended the two youths, who were allegedly trying to damage public property last night.
+
+## 'I'll lead if Sonam can't': Wangchuk's wife Gitanjali says July 20 march to Parliament is on
+Speaking to reporters on Saturday, Angmo said Wangchuk was brought from Jantar Mantar to Safdarjung hospital without either his or her consent
+
 ## India becomes 3rd nation with private orbital launch after Vikram-1 success
 As tall as a seven-storey building, the multi-stage launch vehicle is designed to carry small satellites weighing up to 350kg to LEO
 
-## Vikram-1 launch: PM Modi hails success of India's maiden private rocket
-Speaking to the CEO of Skyroot Aerospace, Pawan Kumar Chandana, and co-founder Naga Bharath Daka by phone, the PM congratulated them.
-
-## Maharashtra woman stabbed to death, accused dies by suicide hours later
-As per the preliminary probe, the victim and the accused had met on Friday evening. The attack may have stemmed from a one-sided love affair.
-
-## Why does Assam flood every year? It's not just the rain, expert says
-Assam's annual floods are driven by a combination of natural geography and human activities.
-
-## Video: Woman throws ink at Abhijeet Dipke as he sits on hunger strike after Sonam Wangchuk's 'removal'
-The woman's identity and the motive behind the act of throwing ink at Abhijeet Dipke were not immediately known.
-
-## Sonam Wangchuk's final message hours before cops removed him from Jantar Mantar | Watch
-Despite his deteriorating health, Sonam Wangchuk said he remained mentally alert and defended the purpose of his agitation.
-
-## Bar Council of India bans courtroom reels, issues social media rules for lawyers
-The Bar Council of India issued social media rules for lawyers and law students, banning courtroom reels and content that mocks or scandalises courts.
-
-## White sheets, plainclothes cops: How Delhi Police ‘removed’ Sonam Wangchuk amid sea of protesters
-The next step was to identify a perfect opportunity, which the sources said came when Sonam Wangchuk's close aide Abhijit Dipke, was away from the protest venue
-
-## Iran threatens to move beyond retaliation as US attacks enter Day 7
+## ‘Protest to continue despite Delhi Police action against Sonam Wangchuk’: Sharad Pawar
 
 
-## Snake in room, bite marks on husband: Inside a chilling Meerut case
+## Moderate rain to return to Mumbai from weekend
 
 
-## TMC MP Abhishek Banerjee’s ‘illegal’ office demolished in West Bengal
+## Marc Cucurella says he will retire from football if Spain wins FIFA World Cup 2026
 
 
-## 72nd National Film Awards winners to be announced today at 5:30 pm
+## Fake calls in Governor R N Ravi’s name: West Bengal Lok Bhavan seeks probe
 
 
-## ‘I don’t eat breakfast….2-3 spoons of ghee’: Roja actor Madhoo shares food preferences
+## Vishal Dadlani, Prakash Raj slam police action against Sonam Wangchuk: ‘Boiling with anger’
 
 
-## Donation theft at Badrinath Dham: CCTV reveals how accused operated, even saffron wasn’t spared
+## Karnataka local polls by December, CM Shivakumar assures after Supreme Court deadline
 
 
-## One Tech Tip: How to soothe thumb pain when texting and scrolling
+## ‘Promised marriage, sold her to brothel’: Court convicts man who trafficked minor girl
 
 
-## life in uniform: Uniform, motherhood and the myth of having to choose
+## Why you shouldn’t skip carbs after a workout, even if you’re eating enough protein
 
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
@@ -264,7 +264,7 @@ What to know about both teams: Form, strengths, weaknesses, key players and what
 ## Palestine football fans honour Egyptian coach Hossam Hassan
 Palestine football fans honour Egyptian coach Hossam Hassan
 
-## From France vs England to Messi vs Yamal: World Cup final weekend
+## World Cup: France vs England prediction, final schedule, latest news
 France and England battle for third place before Argentina and Spain meet in the World Cup final.
 
 ## Kolkata sings for Messi as World Cup fever takes hold
