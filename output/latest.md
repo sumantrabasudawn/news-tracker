@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Surrogacy controversy sparks resignation of Merz’s parliamentary leader
+CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father
+
 ## Big Law braces for second fight with Trump over capitulation deals
 Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago
 
@@ -21,14 +24,14 @@ Large corporate chains lose their edge as services such as DoorDash and Uber Eat
 ## German army looks to Ukraine for battlefield lessons
 Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes
 
-## Britain’s system for avoiding electricity blackouts faces scrutiny
-National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
-
 ## Telecom Italia backs Poste Italiane takeover bid
 Cash and paper offer would give state-controlled postal service full control of telecoms group
 
 ## Is the hyper-commercial World Cup here to stay?
 Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
+
+## Britain’s system for avoiding electricity blackouts faces scrutiny
+National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
 
 ## The London IPO market isn’t as bad as it looks
 It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
@@ -36,7 +39,10 @@ It is easy to look enviously at New York, but the UK is on course to enjoy its b
 ## Asia AI bets power record equities run for Wall Street banks
 Investments in semiconductors fuel growth in regional revenues for US banks
 
-## The valuation U-turn bank investors missed
+## AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
+AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
+
+## HDFC, Axis and Kotak Bank vs global banks: The valuation boomerang investors missed
 Large banks in low-growth developed economies trumped leaders in high-growth Indian economy
 
 ## HDFC Bank Q1 profit up 5%; CEO signals growth push says bank is ‘on the cusp of pressing the pedal’
@@ -56,9 +62,6 @@ Quarterly provisions increased to ₹541 crore from ₹424 crore in March, while
 
 ## Lower provisioning and recoveries boost Axis, Kotak and IDBI profit in Q1; YES Bank bucks the trend
 Lower provisioning and strong recoveries helped Axis Bank, Kotak Mahindra Bank and IDBI Bank post healthy profit growth in the June quarter, while YES Bank delivered a strong performance driven by the strength of its core earnings engine
-
-## Crude Check: Oil back in bullish territory
-Technical charts indicate further upside after a sharp correction in May and June
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -84,6 +87,12 @@ IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. L
 ## Nobody wants to wait on hold anymore. But can AI replace customer care?
 
 
+## Om Birla gives nod to merger of Uddhav rebels with Shinde Sena, TMC rebels with NCPI
+The changes come ahead of the all-party meeting on Sunday morning and the monsoon session from Monday onwards.
+
+## Ex-lover stabs Nashik woman to death, tells fiance in chilling call
+Residents rushed to the spot after hearing her screams, but the accused managed to flee. The woman died at the scene.
+
 ## CBSE Class 10 Second Board 2026 results announced: Check steps to download marksheet
 Check how to download CBSE Class 10 second board result on DigiLocker
 
@@ -102,34 +111,28 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
-## 'I will resign within an hour': TMC's Abhishek Banerjee dares rebels to return to Mamata
-Abhishek Banerjee said those blaming him should first return to the TMC if they truly believed in Mamata Banerjee's leadership.
-
-## Five tribal villagers, including 3 women, drown while fishing in Andhra: Police
-According to the primary investigation, a group of five tribal villagers went into the Godavari River early morning to catch fish
-
-## How to get rid of musty smells from furniture during the rainy season
+## Twinkle Khanna’s ‘hot flushes travel guide’ suggests drowning sorrows — ‘but not in alcohol’
 
 
-## PV Sindhu ‘definitely a threat’ for World Championships, LA 2028: Gopichand
+## Ranbir Kapoor, Yash, Sai Pallavi lead grand Ramayana event, Sunny Deol makes a surprise appearance
 
 
-## From Nagpur, Uddhav Thackeray targets BJP with Ram Raksha Andolan
+## Men’s rights activist, supported rape-accused Sengar: Woman who threw ink at Dipke
 
 
-## Researchers build AI camera that reconstructs particle paths using handful of photons
+## The monsoon that Kerala loved is now the one it fears
 
 
-## Arjun Erigaisi’s 43-move masterclass sends him into second at Chennai
+## Dipke’s family, Opposition, activists condemn Wangchuk’s shift to hospital
 
 
-## In 16-day crackdown on gangsters, Punjab Police arrests 3,949 individuals
+## Why White House defended Argentina’s Falklands banner after World Cup semi win
 
 
-## Yami Gautam on National Film Award win: ‘Article 370 was never just another film for me’
+## Kumar Saptarshi, socialist leader and Yukrand founder, dies at 84
 
 
-## Opposition unite over Wangchuk before Monsoon Session: ‘Taking him away government arrogance, shameful’
+## Bihar government faces first pushback from within: BJP and JDU leaders say don’t change education structure
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -252,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## UK’s Josh Kerr smashes longstanding world mile record in London
+Kerr ran a 3:42.66 mile at the London Diamond League, smashing Hicham El Guerrouj’s world record by 0.47 seconds.
+
+## What to expect after the US reimposes naval blockade on Iran’s ports?
+Pressure is expected to build on the Iranian public, as well as global energy markets due to the US blockade.
+
+## Armed groups attack Malian military convoy in Gao region
+Mali says counterattack under way as rebels claim they inflicted 'human losses' and 'material damage' on troops.
+
 ## Belgium bans imports from Israeli settlements in occupied Palestine
 The move comes as EU foreign ministers remain deadlocked over a bloc-wide ban on illegal settlement trade.
 
@@ -266,15 +278,6 @@ The deals include rebuilding the long-defunct Iraq-Syria crude oil pipeline, whi
 
 ## China warns UK over British Steel nationalisation, demands fair resolution
 Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.
-
-## Top German conservative quits after surrogacy sparks backlash within party
-Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany's conservative coalition.
-
-## FIFA World Cup: Spain vs Argentina – What to know ahead of the final
-Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.
-
-## Death toll from Uganda school bus crash rises to 24
-Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
