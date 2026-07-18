@@ -1,10 +1,10 @@
 # AION Intelligence
 
+## Two US servicemen killed in Iranian strikes on Jordan
+Battle for control of Strait of Hormuz escalates as American forces launch fresh assault and Iran hits Saudi Arabia
+
 ## Burnham scraps new digital ID scheme
 Incoming prime minister says money saved will go towards tackling cost-of-living crisis
-
-## Two US servicemen killed in Iranian strikes on Jordan
-Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months
 
 ## Trump to fund Maga-aligned projects in Europe as he reorders US aid
 Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’
@@ -114,28 +114,28 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
-## France vs England FIFA World Cup 2026 Match Live Updates: FRA 1-4 ENG in 2nd half; Mbappe scores early in 2nd half
+## Sonam Wangchuk gone, spotlight moves to Abhijeet Dipke
+
+
+## England beat France 6-4 in frantic FIFA World Cup bronze medal match
+
+
+## US new immigration rule threatens stay of over 3 lakh Indian students on F-1 visa
+
+
+## Maharashtra panel to examine if Scheduled Tribes who convert can still receive benefits
+
+
+## Hyderabad’s Skyroot start-up: Vikram-1 India’s first private orbital rocket mission; defining moment, says PM Modi
+
+
+## France vs England FIFA World Cup 2026 Match Live Updates: FRA 4-6 ENG in 2nd half; England seal bronze medal in 10-goal thriller
 
 
 ## ‘We should have offered you better ending’: Mbappe’s farewell post to Deschamps
 
 
 ## India one away from reaching 100 grandmasters as Rathanvel becomes 99th
-
-
-## Twinkle Khanna’s ‘hot flushes travel guide’ suggests drowning sorrows — ‘but not in alcohol’
-
-
-## Ranbir Kapoor, Yash, Sai Pallavi lead grand Ramayana event, Sunny Deol makes a surprise appearance
-
-
-## Men’s rights activist, supported rape-accused Sengar: Woman who threw ink at Dipke
-
-
-## The monsoon that Kerala loved is now the one it fears
-
-
-## Dipke’s family, Opposition, activists condemn Wangchuk’s shift to hospital
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -258,6 +258,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## World Cup final tickets near $2.3m mark on FIFA’s resale platform
+While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.
+
 ## Cockroach Party protest intensifies after Wangchuk forcibly hospitalised
 Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.
 
@@ -278,9 +281,6 @@ A thunderstorm rolled through the region causing disruption, and a haze raised a
 
 ## Thousands rally in London in support of Gaza, demand new PM take action
 Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.
-
-## Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue
-Mojtaba Khamenei says Trump's signature is 'worthless' and that 'bullying' is a core element of US foreign policy.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
