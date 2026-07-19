@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Burnham should pursue a devolution ‘big bang’
+If done right, radical decentralisation could boost UK productivity growth and living standards
+
+## UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders
+Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport
+
+## How will the ECB respond to the latest rise in oil prices?
+Market Questions is the FT’s guide to the week ahead
+
+## China’s Jingye demands payout over British Steel nationalisation
+UK government accused of disregarding group’s investment and offering ‘almost zero compensation’
+
+## US day traders flock to ‘the most dangerous product in crypto’
+Trump administration has opened American markets to highly leveraged perpetual futures
+
 ## US strikes Iran after two American troops killed in Jordan
 Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states
 
@@ -9,23 +24,11 @@ Video game retailer doubles stake in online marketplace as chief executive Ryan 
 ## No longer grim up north for UK banks as Burnham comes to power
 NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
 
-## How Maga fell hard for the gender binary
-Pete Hegseth’s championing of testosterone for troops is the latest manifestation of the rightwing movement’s aesthetic
-
-## Chinese leaders zero in on need for stimulus for economy
-Policymakers expected to prioritise spurring high-tech rather than ‘big bang’ for consumption, analysts say
+## Is Fifa’s hyper-commercialised World Cup here to stay?
+Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
 
 ## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
 Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
-
-## Can an ‘unelected’ prime minister succeed?
-Andy Burnham will take power without winning an election. So have most other recent British prime ministers
-
-## Why ‘rightwing’ is no longer such a dirty word in Britain
-When words like fascist and Nazi are thrown around, being merely conservative seems mild by comparison
-
-## Is Fifa’s hyper-commercialised World Cup here to stay?
-Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
 
 ## Defence giants to maintain grip on weapons market despite drone boom
 Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
@@ -33,35 +36,29 @@ Report finds industry’s ‘primes’ will still account for 80% of global sale
 ## AI should have senior lawyers sharpening their hunting spears
 More adoption of artificial intelligence will lead to more calls to cut fees
 
-## Luxury groups face inventory squeeze under EU destruction ban
-Ban particularly sensitive for industry that keeps products desirable by maintaining their scarcity
+## Tiruppur cluster abuzz with ‘Jana Nayagan’ frenzy as merchandise order surges
+“It is like a festival in Tiruppur. Jana Nayagan T-shirts are being printed everywhere,” said Balu, who runs a small garment manufacturing unit
 
-## Job crisis leaves newly qualified nurses struggling to secure roles
-A recruitment freeze and lack of NHS workforce planning mean graduates are fighting over fewer vacancies
-
-## AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal
-Aggarwal highlights the shift in customer expectations from punctuality to a holistic travel experience as Air India Express expands its UAE services amid rising operational costs
-
-## NCLAT upholds Sristi Hospitality's sale to consortium comprising Amit Jatia of Hardcastle Restaurants
-CIRP against Sristi Hospitality was initiated in February 2023
-
-## Show DND choice to users, not 'frequently blocked' label: TRAI on dedicated series row with Truecaller
-TRAI has mandated the use of 1600 series numbers for service and transaction calls by regulated banking, financial services and insurance or BFSI entities, and government-to-citizen communications
-
-## Reliance Retail to scale online business in FY27, aims to double pre-tax earnings in 3 years
-The company also plans to improve profitability through a higher share of private labels, increased monetisation opportunities and greater marketplace income
-
-## Critical mineral investment falls 9% despite booming demand in 2025: IEA
-The report attributed the slowdown to rising geopolitical tensions, price volatility and a more cautious investment environment, even as demand fundamentals remained strong
-
-## Continental AG-Spun-Off Aumovio eyes 45% revenue jump in FY27 on safety and software push
-Aumovio India, collaborating with OEMs like Tata Motors, Mahindra & Mahindra, and Hyundai-Kia, aims to surpass an automotive market growing at about 8%
+## For EVs to grow, more products needed in sub 4-meter category: JSW MG Motor
+“There is a lot of gap in the sub-4 meter...when you glance through the models, there is a stark difference between SUV style and EV body style” official at JSW MG Motor India said
 
 ## India continues Olympiad streak; sweeps all gold at Chemistry Olympiad
 This was India’s best performance in IChO with the first-ever all-gold haul. India was placed at the first position, jointly with China, Vietnam and others
 
-## Emerging markets poised to outperform in H2 2026 amid attractive valuations, AI-led growth: HSBC
-Emerging market equities delivered a 24% return in US dollar terms in the first half of 2026, more than double the performance of US and developed market equities excluding the US
+## Textiles Ministry may open fresh PLI application window as relaxed norms draw industry interest
+Progress was initially slow due to the pandemic, says minister; inclusion of cotton apparel is ruled out for now.
+
+## India bought record $5.14 billion worth of Russian crude oil in June
+Russian crude oil reached the highest level on record in June 2026
+
+## Gold, silver brace for another tough week amid oil surge, US-Iran conflict risks: Analysts
+Investors will monitor key US jobless claims, flash PMI, and monetary policy decisions from Europe and China for updates on global interest rates
+
+## IMD forecasts heavy rainfall in north Bengal, warns of possible landslides, flash floods
+According to the IMD, extremely heavy rain is likely in the districts of Jalpaiguri and Alipurduar, and very heavy rain in the other sub-Himalayan districts
+
+## AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal
+Aggarwal highlights the shift in customer expectations from punctuality to a holistic travel experience as Air India Express expands its UAE services amid rising operational costs
 
 ## India-UK ties to remain strong under new PM Andy Burnham, say strategic experts
 
@@ -87,52 +84,52 @@ Punjab National Bank reported a substantial net profit increase for the quarter 
 ## IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore
 IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. Lower provisions supported earnings, offsetting a weaker operating profit. Net interest income saw a slight decline while non-interest income dropped significantly. Deposits decreased sequentially, but advances showed mod
 
-## HC refuses Wangchuk's wife Angmo's immediate request to shift him out of govt hospital, seeks status report
+## Forced to work 15 hours a day without pay, Hyderabad woman stranded in Oman seeks govt's help to return home
+Her family alleged that she was not provided proper food or accommodation, and did not receive any salary during her four-month stay in Oman.
+
+## Patient dies hours after ceiling fan falls on him in Delhi's GTB hospital
+According to the patient's death certificate, reviewed by HT, Akbar died at around 12.16 am, less than three hours after the incident.
+
+## Mob assaults Muslim man for visiting Hindu woman friend in Uttarakhand
+The woman told the Uttarakhand Police that she had known the man for five years and had no objection to his visiting her house
+
+## Goa BJP MLA Jennifer Monserrate passes away after prolonged illness
+Monserrate, who was ailing for some time, had withdrawn from public life over the last few months as she prioritised her health
+
+## Police clear Ken-Betwa protest site on Day 17, shift fasting activist to hospital
+The administration has maintained that the Ken-Betwa Link Project is of national importance and will boost irrigation, drinking water supply and development.
+
+## Tribal kids en route to TN brought back to Rajasthan; BJP MP seeks conversion probe
+Officials said two girls and five boys were taken from their villages on July 15 and sent by bus to Gujarat’s Ahmedabad, and then by train to Goa
+
+## Delhi HC refuses Wangchuk's wife Angmo's immediate request to shift him out of govt hospital, seeks status report
 “30 cops on the floor, over 100 across the hospital, our movement is severely restricted. It is not medical care. It is illegal detention,” Angmo's plea said.
 
 ## Expansion on track; AI Express expects to induct 50-60 aircraft over 12-18 months
 The fleet expansion comes as Air India Express continues to integrate and modernise its operations following the Tata Group’s acquisition of Air India in 2022
 
-## Hyderabad woman battling mental health issues walks naked to temple, dies by suicide
-The woman had been living with her mother at Peerzadiguda in Hyderabad, while her father resides in Visakhapatnam following marital disputes between the couple.
-
-## MP cabinet approves UCC; up to 5-yr jail for married persons in live-in relationships
-Madhya Pradesh cabinet approved the Uniform Civil Code, introducing new rules on marriage, inheritance and live-in relationships, with STs exempted.
-
-## Calcutta high court halts demolition at TMC MP Abhishek Banerjee's office
-During an urgent hearing, the Calcutta High Court stayed the demolition work.
-
-## ‘Theft in uniform’: TMC's Abhishek Banerjee slams Bengal Police over office demolition
-Abhishek Banerjee accused the Bengal Police of acting unlawfully after his constituency office was demolished, calling the action "theft in uniform".
-
-## Kerala minister promises uninterrupted power supply throughout FIFA World final match
-He had been holding daily review meetings with the KSEB Chairman and senior officials to monitor the power situation and ensure uninterrupted electricity supply
-
-## 'Duty to invite everyone': Centre on Opposition storm over TMC rebels at all-party meeting
-The Opposition staged a symbolic walkout from the all-party meeting to protest the invitation extended to TMC rebels.
-
-## Military Digest: How Nehru sought early India-China military ties before 1962 war
+## No private hospital transfer for Sonam Wangchuk as court upholds forcible removal
 
 
-## ‘I came to support Sonam Sir’: Outside Safdarjung hospital, ‘Mohammad Deepak’ says ‘dark time for the country’
+## Spain vs Argentina FIFA World Cup 2026 Final: Live Streaming, Date, Time, and Where to Watch
 
 
-## Anand Mahindra, Jackie Shroff, Pawan Kalyan congratulate P V Sindhu on first Japan Open title
+## Kerala, Manipur schools closed on Monday as states declare holiday after FIFA World Cup final
 
 
-## Best tips to tackle post-lunch headaches: ‘Pulpy fruits are your friends’
+## Kushal Tandon-Vanshaj Singh fight on Alliance leaves Sohail Khan fuming: ‘Fail to understand’
 
 
-## Salman Khan’s latest appearance sparks concern among fans: ‘He looks sick’
+## Bystanders at Agra Summit, Kashmir leaders say if talks possible then, they are now
 
 
-## What is context bombing, a new AI defence technique turning hackers’ tricks against them?
+## CJP protest in Mumbai: How Azad Maidan became the city’s site of agitations, with restrictions
 
 
-## Cap on private school fees hike, refund for ‘extra’ fees: What’s in Punjab’s new ordinance?
+## Why Samsung’s passport-style foldable phone matters for the smartphone industry
 
 
-## Sonam Wangchuk’s wife seeks his discharge from hospital, alleges ‘pretext of treatment’
+## Quick Comment: How Jasprit Bumrah’s absence hurt India’s powerplay at Lord’s
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -255,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal
+In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.
+
+## Guyana ferry with 116 people on board capsizes; more than 50 rescued
+Rescue operations for remaining passengers and crew ongoing, authorities say.
+
+## Iranians suffer from power blackouts during war and heatwave
+Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.
+
+## Why is India vetting books in Kashmir in search of ‘anti-national’ content?
+Authorities in disputed region are auditing school, college and public libraries to look for ‘objectionable’ material.
+
 ## Gaza cheers for Spain as World Cup final anticipation mounts
 Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.
 
@@ -266,18 +275,6 @@ Spain face Argentina in the 2026 World Cup final as musicians perform before kic
 
 ## Five people rescued after Indonesia boat sinks, at least 20 still missing
 The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.
-
-## US launches new Iran strikes after two soldiers killed: What’s the latest?
-US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.
-
-## From settlements to blocked recovery: Israeli strategy taking shape in Gaza
-Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.
-
-## Spain fans bring the party to New York before World Cup final
-‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’
-
-## Spain vs Argentina: World Cup final predictions, schedule, Messi news
-Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
