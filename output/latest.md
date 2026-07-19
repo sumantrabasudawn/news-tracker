@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## US death toll climbs as Iran war expands
+A service member died in a ‘controlled detonation’ of a drone after two troops were killed in Jordan with another missing
+
+## Andy Burnham plans beefed-up control centre in Downing Street
+Incoming prime minister wants to be less reliant on ‘imperial’ Treasury as he bids to restore confidence in government
+
 ## Boeing says it will be ready to fund new plane programme by 2030
 US group expects to have firepower to start work on 737 Max successor but warns that demand may be more of a constraint
 
@@ -17,9 +23,6 @@ National capitals refuse to support measures that could hurt big companies
 
 ## India’s rupee problem has been misdiagnosed
 Currency weakness reflects subdued private investment and uncertainty over the business climate
-
-## Burnham should pursue a devolution ‘big bang’
-If done right, radical decentralisation could boost UK productivity growth and living standards
 
 ## UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders
 Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport
@@ -108,6 +111,12 @@ Wangchuk's wife alleged that his personal doctors, who had been monitoring his h
 ## 5 dead, four more missing after landslides in Nagaland’s Mon district
 Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
 
+## Torres’ strike helps Spain defeat Argentina 1-0, lift second World Cup trophy
+
+
+## 0 shots in 90 mins: Argentina’s unwanted record vs Spain in World Cup final
+
+
 ## Shubman Gill on Rohit Sharma’s future: He has not told us anything
 
 
@@ -120,17 +129,14 @@ Officials said at least 45 houses were completely destroyed in the landslides, w
 ## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
 
 
-## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Goalless after 80 mins; Extra time approaching
+## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Ferran Torres’ goal helps ESP dethrone 10-man ARG
 
 
 ## Rohit Sharma’s century at Lord’s came off Shardul Thakur’s bat
 
 
-## India lose in decisive 3rd ODI vs England at Lord’s, concede series 1-2
-
-
-## Express News Quiz: Sonam Wangchuk, Odyssey, and Haaland effect
-
+## Why buyout funds, not IPOs, may define China’s next capital market cycle: Zhang Yichen
+Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong, as well as Harbin Pharmaceutical Grou
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
 Sales of intangible heritage products are on the rise, highlighted by the online frenzy sparked by Elon Musk’s six-year-old son Little X wearing a Chinese-style silk jacket and carrying a tiger-head bag in May, when they accompanied US President Donald Trump on a state visit to Beijing. The surge is
@@ -152,9 +158,6 @@ Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capita
 
 ## Fierce competition and shifting tastes squeeze China’s yoga apparel market
 China’s yoga apparel market is grappling with fierce competition and slowing growth amid sluggish domestic consumption, as middle-class shoppers diversify their activities, according to analysts. Lululemon, the Canadian athletic apparel brand popular among China’s middle class, continues to face sal
-
-## China’s Xpeng plants a flag in Germany’s auto heartland with Mona L03 launch
-Chinese electric vehicle maker Xpeng made its European ambitions clear on Thursday, as the firm unveiled its Mona L03 compact SUV at an event in the heart of Germany’s car industry, Munich. The launch, arguably the largest ever staged in Europe by a Chinese carmaker, was not just about introducing a
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -252,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli ministers join march to Gaza to demand return of settlements
+Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.
+
+## World Cup 2026: What are the extra time and penalty shootout rules?
+Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.
+
 ## What happened in the first half of the Spain vs Argentina World Cup final?
 All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.
 
@@ -269,12 +278,6 @@ Five passengers, including a seven-year-old girl, were rescued from a passenger 
 
 ## Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash
 Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash.
-
-## Trump visit causes logistical delays at World Cup final
-Al Jazeera reporters faced lengthy queues to enter the stadium due to tighter security checks.
-
-## The story behind Gaza’s #TheyLiedToYou campaign
-The story behind Gaza’s #TheyLiedToYou campaign
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
