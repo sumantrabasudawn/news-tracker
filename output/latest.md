@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Burnham to maintain ban on North Sea exploration licences
+Decision criticised by oil and gas industry as well as trade union
+
+## India’s rupee problem has been misdiagnosed
+Currency weakness reflects subdued private investment and uncertainty over the business climate
+
 ## Burnham should pursue a devolution ‘big bang’
 If done right, radical decentralisation could boost UK productivity growth and living standards
 
@@ -15,17 +21,17 @@ UK government accused of disregarding group’s investment and offering ‘almos
 ## US day traders flock to ‘the most dangerous product in crypto’
 Trump administration has opened American markets to highly leveraged perpetual futures
 
-## US strikes Iran after two American troops killed in Jordan
-Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states
+## US strikes Iran after American troops killed in Jordan
+Iran accuses Washington of attacking under-construction nuclear plant and retaliates against countries around region as conflict escalates
 
 ## GameStop extends pursuit of eBay despite Wall Street scepticism
 Video game retailer doubles stake in online marketplace as chief executive Ryan Cohen presses ahead with quixotic deal
 
-## No longer grim up north for UK banks as Burnham comes to power
-NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
-
 ## Is Fifa’s hyper-commercialised World Cup here to stay?
 Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
+
+## No longer grim up north for UK banks as Burnham comes to power
+NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
 
 ## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
 Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
@@ -33,14 +39,20 @@ Elon Musk’s SUV remains top-selling electric vehicle in many parts of the worl
 ## Defence giants to maintain grip on weapons market despite drone boom
 Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
 
-## AI should have senior lawyers sharpening their hunting spears
-More adoption of artificial intelligence will lead to more calls to cut fees
+## Centre ring-fences 72 lakh tonne of FCI rice for ethanol push
+An additional 55 LT of 100% broken rice will be auctioned and may go to ethanol distilleries
+
+## India’s IT services sector hints at hiring stabilisation
+While the industry shows green shoots in hiring with higher headcount for some companies and improved attrition for others, experts advise monitoring of upcoming quarters to mark out a trend
+
+## ‘Additional volumes will mitigate cost pressure in Q2’
+The company is bullish on Indian economy and growth in domestic demand in the near future
+
+## How quick commerce is reshaping food retail consumption dynamics
+As per the latest report by FICCI-Deloitte, food retail through quick commerce is poised for significant growth, reaching $30-35 billion in retail value by 2030 from about $5-6 billion in 2025.’
 
 ## Ram temple donation theft, NEET paper leak to dominate India’s parliament session
-Congress said it will raise issues related to NEET paper leak, education reforms, employment, farmers, as well as Ram temple donation ‘theft’, ethanol, Manipur during the upcoming Monsoon session, starting Monday.
-
-## The simple and complex of I-T: ITR-1 got easier, ITR-2 got harder
-Three years of quiet redesign have redrawn who does what on India’s two most-used tax forms — and where the complexity now sits
+Congress said it will raise issues related to NEET paper leak, education reforms, employment, farmers, as well as Ram temple donation ‘theft’, ethanol, Manipur during the upcoming Monsoon session, starting Monday
 
 ## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
 Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
@@ -51,14 +63,8 @@ Margin funding, wealth and commodity businesses cushion impact of derivatives ru
 ## Heavy rain kills 11 in Jammu, Amarnath Yatra suspended
 Officials said several people were missing as rescue teams searched for survivors in the worst-hit areas
 
-## FIFA World Cup final: Kerala declares holiday for all educational institutions on Monday
-Chief Minister V D Satheesan said the decision was made after students expressed concerns about attending classes after staying up late for the World Cup match.
+## Gold, silver under pressure this week as US-Iran conflict, oil rally cloud outlook
 
-## Infosys Q1FY27 preview: Sequential growth likely to be aided by acquisitions
-Acquisitions, cost cuts support growth; FY outlook remains mixed
-
-## ‘Upcoming FTAs can create significant opportunities for Indian exporters’
-Despite tariff uncertainty, Indian exports have retained 80% competitiveness in US market; will remain competitive
 
 ## India-UK ties to remain strong under new PM Andy Burnham, say strategic experts
 
@@ -81,8 +87,11 @@ With the Income tax department increasingly using technology, data analytics, AI
 ## Punjab National Bank Q1FY27 net profit up 213% to Rs 5253 crore
 Punjab National Bank reported a substantial net profit increase for the quarter ending June 30, 2026. The bank's standalone net profit rose over 200 percent year-on-year. This growth was primarily driven by a sharp decline in tax outgo. Non-interest income saw a decrease, impacting overall operating
 
-## IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore
-IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. Lower provisions supported earnings, offsetting a weaker operating profit. Net interest income saw a slight decline while non-interest income dropped significantly. Deposits decreased sequentially, but advances showed mod
+## Planning a getaway to the hills? Himachal set for heavy monsoon rain in these areas
+Weather office in Shimla has issued a Red Warning for four districts for Monday, July 20, and five again for Tuesday
+
+## In space and on track: India marks twin milestones under 48 hours with Vikram-1 launch, first hydrogen train
+Together, the two developments reflect India's growing ambitions in commercial space technology and sustainable transportation.
 
 ## Convene all-party meet on delimitation, FCRA bills: TMC's Derek O'Brien writes to PM Modi
 In his letter, O'Brien noted that although no legislation on delimitation appears in the bulletin listing government business for the Monsoon session.
@@ -102,34 +111,28 @@ Party leader Sanjay Singh says Wangchuk was shifted to the hospital during his h
 ## Badrinath Dham donation theft: SIT seeks donation record of last 3 yrs from BKTC
 The SIT on Friday arrested retired BKTC temple officer Rajendra Chauhan for allegedly stealing the cash from the counting room on three occasions before his retirement on June 30
 
-## ‘Don't threaten them’: Arvind Kejriwal slams NTA over warning to NEET students
-In response to NTA’s warning over potential legal action against NEET students, Arvind Kejriwal urges the agency to prioritize student concerns.
-
-## Rajnath Singh to attend Kargil victory celebrations in Dras
-Top military officials, including army chief General Dhiraj Seth, will attend the event to commemorate victory in the limited war
-
-## Indian Railways clarifies after video of hydrogen train pulled by diesel engine goes viral
+## Malayalam cinema’s patriarch Madhu reveals why he quit acting, returned just for Mammootty
 
 
-## ‘Boss scam’: How a Microsoft Teams message almost cost a Pune firm Rs 2 cr
+## New Era: What can France expect from Zinedine Zidane as head coach?
 
 
-## India-Australia uranium deal: Why domestic reserves are not enough to fuel India’s nuclear ambitions
+## Smarter, not harder: 5 rookie gym mistakes beginners must avoid
 
 
-## CJP march to Parliament: Why police nod is needed for a public protest in India
+## FIFA World Cup Final 2026: Who are the referees in Argentina vs Spain clash?
 
 
-## ‘Otherwise it can be rage-bait’: Why Main Vaapas Aaunga writer balanced Partition scenes
+## CJP protest: Protesters gather at Mumbai’s Shivaji Park over Sonam Wangchuk detention
 
 
-## Today News Headlines for School Assembly, July 20, 2026: School holidays announced for FIFA finals, Delhi HC refuses shifting Wangchuk to private facility
+## Death toll rises to 18 as flash floods, landslides wreak havoc in J&K
 
 
-## ‘A personal choice’: Kajal Aggarwal on judgment female actors face for ‘bold’ scenes
+## Vande Mataram’s insult to soon be punishable offence as Amit Shah set to table Bill
 
 
-## Garry Sobers: The man who showed the world what cricket after empire could be
+## FIFA World Cup 2026 Final Prize Money: ₹83,000+ crore pool, champion to earn record ₹4,800+ crore
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,6 +255,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanon convicts influencer of smuggling drugs in biscuits
+Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.
+
+## Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?
+Influencer brothers arrested in Miami, as UK seeks extradition to face new charges of rape, sex trafficking and assault.
+
 ## Why have India’s Gen Z protesters called for a march to parliament?
 After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.
 
@@ -269,12 +278,6 @@ In an exclusive interview, Tobin Heath shares her insights before World Cup fina
 
 ## Guyana ferry with 116 people on board capsizes; more than 50 rescued
 Rescue operations for remaining passengers and crew ongoing, authorities say.
-
-## Iranians suffer from power blackouts during war and heatwave
-Collapsing grid, battered by military strikes and chronic underinvestment, leaves Iranians sweltering in the dark.
-
-## Why is India vetting books in Kashmir in search of ‘anti-national’ content?
-Authorities in disputed region are auditing school, college and public libraries to look for ‘objectionable’ material.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
