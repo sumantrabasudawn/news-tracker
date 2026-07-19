@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Spain beat Argentina to win World Cup for second time
+Extra-time winner from Ferran Torres is decisive moment in tight but completely one-sided final
+
+## FirstFT: Singapore weighs tax cuts for fund managers to rival Hong Kong
+Also in today’s newsletter: US-Iran war expands and EU faces crumbling support for new Russia sanctions
+
 ## US death toll climbs as Iran war expands
 A service member died in a ‘controlled detonation’ of a drone after two troops were killed in Jordan with another missing
 
@@ -21,9 +27,6 @@ Economists and politicians want to boost growth, but it must include people on t
 ## EU faces crumbling support for new Russia sanctions
 National capitals refuse to support measures that could hurt big companies
 
-## India’s rupee problem has been misdiagnosed
-Currency weakness reflects subdued private investment and uncertainty over the business climate
-
 ## UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders
 Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport
 
@@ -39,6 +42,15 @@ Dynamic ticket pricing and hydration breaks were unpopular with fans but the boo
 ## No longer grim up north for UK banks as Burnham comes to power
 NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
 
+## France’s Kylian Mbappé secures second World Cup Golden Boot with 10 goals
+Kylian Mbappé became the first player to finish as the top scorer at multiple World Cups, while Lionel Messi missed out after Argentina’s 1-0 extra-time defeat to Spain in the final
+
+## JD Vance and Usha Vance welcome fourth child, first born to a sitting US vice president in over 150 years
+The arrival of the couple’s fourth child comes as JD Vance remains a vocal advocate for higher birth rates and bigger families in the US
+
+## Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres’ goal
+Spain dominated throughout before Ferran Torres struck in extra time to beat 10-man Argentina 1-0, becoming the first nation to simultaneously hold both the men’s and women’s FIFA World Cup titles
+
 ## Armenia and Saudi Arabia among six nations eyeing India’s battle-tested Astra missiles
 Indonesia agreement fuels overseas demand for indigenous Astra air-to-air missiles
 
@@ -53,15 +65,6 @@ Tax considerations, narrowing India-US yield spreads and competing investment op
 
 ## CCPA initiates action against 41 restaurants for levying service charge by default
 CCPA fined Chaayos ₹50,000 for default and ordered a refund to affected customers, according to an official statement
-
-## Investment process has to be simple
-A simple core portfolio may not help earn more returns than a benchmark index but it could help you achieve your goals. The objective is to keep investment process simple and moderate regret
-
-## Don’t Want Data Centres in Residential Areas: Thane residents protest against Amazon data centre
-This is the first time that local residents in India are raising their concerns about the digital infrastructure.
-
-## Electronic Gold Receipts: A new way to own gold
-The yellow metal has long gone digital, but this time it is offering the convenience of electronic investing along with ownership of physical gold
 
 ## More brands in store, but price cuts may lag
 New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues 
@@ -111,6 +114,12 @@ Wangchuk's wife alleged that his personal doctors, who had been monitoring his h
 ## 5 dead, four more missing after landslides in Nagaland’s Mon district
 Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
 
+## 8 killed as rain triggers landslips in Nagaland
+
+
+## Mbappe wins Golden Boot: Check out all awards of 2026 FIFA World Cup
+
+
 ## Torres’ strike helps Spain defeat Argentina 1-0, lift second World Cup trophy
 
 
@@ -129,11 +138,8 @@ Officials said at least 45 houses were completely destroyed in the landslides, w
 ## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
 
 
-## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Ferran Torres’ goal helps ESP dethrone 10-man ARG
-
-
-## Rohit Sharma’s century at Lord’s came off Shardul Thakur’s bat
-
+## To survive China’s cost-conscious market, global brands embrace AI and robots
+Multinational companies have expanded their use of AI and robotics in China to survive “life or die” competition in the world’s second-largest consumer goods market, where local rivals have sharpened their edge and shoppers often switch between brands for better value, analysts said. L’Oréal, for ex
 
 ## Why buyout funds, not IPOs, may define China’s next capital market cycle: Zhang Yichen
 Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong, as well as Harbin Pharmaceutical Grou
@@ -155,9 +161,6 @@ Australia’s tourism appeal and property price correction are reinforcing the c
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
 Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capitalisation, has sold out the first batch of units at its Garden Regency project in the New Territories on Saturday, according to agents. By 3.30pm, all 138 flats the developer had launched in the Kam Tin North project in Yue
-
-## Fierce competition and shifting tastes squeeze China’s yoga apparel market
-China’s yoga apparel market is grappling with fierce competition and slowing growth amid sluggish domestic consumption, as middle-class shoppers diversify their activities, according to analysts. Lululemon, the Canadian athletic apparel brand popular among China’s middle class, continues to face sal
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## A bird’s-eye view as Donald Trump arrives for the World Cup final
+Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.
+
+## Fans in Madrid go wild as Spain beat Argentina to win second World Cup
+Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final.
+
+## When is the next FIFA World Cup? 2030 hosts, dates and format
+The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup's centenary.
+
+## Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup
+Ferran Torres scores the only goal of the game as Spain win their second World Cup.
+
+## When, where, and how Spain won the World Cup final against Argentina
+Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.
+
 ## Israeli ministers join march to Gaza to demand return of settlements
-Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.
+Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005
 
 ## World Cup 2026: What are the extra time and penalty shootout rules?
 Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.
 
 ## What happened in the first half of the Spain vs Argentina World Cup final?
 All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.
-
-## Andy Burnham’s in-tray: The challenges facing the new UK PM
-Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities.
-
-## Twin earthquakes strike Peru killing at least five
-Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.
-
-## The UK gets its seventh prime minister in 10 years
-Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.
-
-## Five passengers found drifting days after boat sinks in Indonesia
-Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.
-
-## Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash
-Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
