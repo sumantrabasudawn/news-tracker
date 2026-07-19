@@ -36,29 +36,29 @@ NatWest and Lloyds push regional lending credentials as they look to finance new
 ## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
 Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
 
-## A searing expose of ‘modern slavery’
-This book tells the story of the H-1B visa and how it was misused to exploit IT workers both Indian and American
-
-## Editorial. Systemic cancer
-India’s cancer burden needs a public health response
-
-## Amit Shah lays foundation stone for ₹700-crore Amul project in Bengal, says State witnessing new era of growth
-After virtually laying the foundation stone for the ₹700-crore Amul project at Sankrail in Howrah district, Shah said the transformation Bengal witnessed is unlike any political change seen elsewhere since Independence.
-
-## ‘Upcoming FTAs can create significant opportunities for Indian exporters’
-Despite tariff uncertainty, Indian exports have retained 80% competitiveness in US market; will remain competitive
-
-## Don’t Want Data Centres in Residential Areas: Thane residents protest against Amazon data centre
-This is the first time that local residents in India are raising their concerns about the digital infrastructure.
-
-## Indian prodigies create golden alchemy at Chemistry Olympiad
-Bag a rich haul of four golds and clinch joint top position worldwide against 93 competing nations
-
 ## Armenia and Saudi Arabia among six nations eyeing India’s battle-tested Astra missiles
 Indonesia agreement fuels overseas demand for indigenous Astra air-to-air missiles
 
 ## BRICS trade unions for universal social protection, pay equity
-The Hyderabad Declaration, which was unanimously adopted during the conference,
+The Hyderabad Declaration, which was unanimously adopted during the conference
+
+## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
+Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
+
+## CCPA initiates action against 41 restaurants for levying service charge by default
+CCPA fined Chaayos ₹50,000 for default and ordered a refund to affected customers, according to an official statement
+
+## Investment process has to be simple
+A simple core portfolio may not help earn more returns than a benchmark index but it could help you achieve your goals. The objective is to keep investment process simple and moderate regret
+
+## Don’t Want Data Centres in Residential Areas: Thane residents protest against Amazon data centre
+This is the first time that local residents in India are raising their concerns about the digital infrastructure.
+
+## Electronic Gold Receipts: A new way to own gold
+The yellow metal has long gone digital, but this time it is offering the convenience of electronic investing along with ownership of physical gold
+
+## Hidden life of trees
+A valuable deep ecology work on nurturing trees
 
 ## Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer
 
@@ -84,7 +84,16 @@ India's power sector anticipates sustained growth through fiscal year twenty twe
 ## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
 With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
 
-## Wangchuk is ready to end his hunger strike, says wife, sets condition ahead of CJP march to Parliament
+## Man kills wife, leaves her in a pool of blood at Delhi home; arrested after three-day chase
+Man arrested for allegedly killing his wife in Delhi's Seelampur. Police said he confessed, claiming the murder followed a dispute over an alleged affair
+
+## CJP's ‘Sansad Chalo’: What to expect on Monday as protesters set for Parliament march, police say no permission
+The convergence of the CJP protest with the opening day of Parliament has heightened security across the national capital.
+
+## FIFA World Cup final fever grips Delhi, Mumbai, Bengaluru as eateries stay open till late night; check city-wise timings
+As the FIFA World Cup final approaches, Indian cities extend restaurant hours. Eateries in Delhi, Mumbai, and Bengaluru will remain open late.
+
+## Sonam Wangchuk can end hunger strike, says wife, sets condition as crowd swells for CJP march to Parliament on July 20
 “Sonam Wangchuk can end his fast if political leaders meet him and assure to raise issue of accountability and education in Monsoon Session,” Angmo said.
 
 ## Amid fiery demands for his resignation over NEET leak, education minister Pradhan's meeting with topper. What he said
@@ -99,37 +108,28 @@ Officials said at least 45 houses were completely destroyed in the landslides, w
 ## Sleeping on roof, an argument, then a fall: Husband dead, woman injured in Delhi
 Preliminary investigation revealed that the couple had dinner with the family around 9 pm and then went to sleep on the rooftop of the house.
 
-## Planning a getaway to the hills? Himachal set for heavy monsoon rain in these areas
-Weather office in Shimla has issued a Red Warning for four districts for Monday, July 20, and five again for Tuesday
-
-## In space and on track: India marks twin milestones under 48 hours with Vikram-1 launch, first hydrogen train
-Together, the two developments reflect India's growing ambitions in commercial space technology and sustainable transportation.
-
-## Convene all-party meet on delimitation, FCRA bills: TMC's Derek O'Brien writes to PM Modi
-In his letter, O'Brien noted that although no legislation on delimitation appears in the bulletin listing government business for the Monsoon session.
-
-## Why Kaif thinks Kuldeep should pack bags, say goodbye to international cricket
+## ‘Students deserve better’: CJP supporters hold protest in Pune backing Sonam Wangchuk
 
 
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 171) — Check out answers with explanations
+## Rohit Sharma slams century vs England in decisive 3rd ODI at Lord’s
 
 
-## ‘I miss making money’: Maria Goretti on choosing motherhood over fame
+## Chandigarh consumes 38,000 liquor bottles a day, whisky leads the way
 
 
-## FIFA World Cup full list of winners and finals results: Argentina eye 4th title
+## FIR against contractor, others in Mira Road crane collapse death
 
 
-## Inside Kolkata SSKM’s rare surgery to remove a 23-cm ‘true human tail’
+## With the axe hanging, Rohit Sharma’s Lord’s innings says he isn’t done
 
 
-## Why did US-Iran ceasefire collapse? Timeline of peace deal that unravelled
+## Travelling by train with diabetes? Expert shares 4 safe snack options
 
 
-## Iran, US on brink of war again: For India, a lot to watch out for
+## Why did the draw against Nodirbek Abdusattorov made D Gukesh feel better
 
 
-## Dhurandhar singer Jasmine Sandlas allegedly mobbed, inappropriately touched during concert
+## Russia or China behind Iran’s deadly strike on key US base? Report raises questions
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Syria’s Al-Sharaa reshuffles security and intelligence leadership
+Government says the shake-up will strengthen security and clear the way for reconstruction.
+
+## Israeli settlers torch homes and mosque in Masafer Yatta
+Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.
+
+## 5.6 magnitude earthquake hits Peru
+Footage shows firefighters looking for a missing person amongst the rubble of a collapsed building in Pumpunya, Peru.
+
 ## Israel uses law to destroy Palestinian education in East Jerusalem
 Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.
 
@@ -266,15 +275,6 @@ Video shows the moment controversial influencer brothers Andrew Tate and Tristan
 
 ## Spain vs Argentina LIVE: FIFA World Cup 2026 final
 Live coverage and text updates as Spain play Argentina in the final of the 2026 World Cup.
-
-## Why is Argentina’s football team so white?
-Argentina prepares to face Spain in the World Cup final.
-
-## Iran attacks US Gulf allies, causing a fire at Kuwait power plant
-Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.
-
-## Who controls football in Palestine?
-For Palestinians fighting Israeli occupation, football has never been just a game.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
