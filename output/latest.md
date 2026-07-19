@@ -36,29 +36,29 @@ Report finds industry’s ‘primes’ will still account for 80% of global sale
 ## AI should have senior lawyers sharpening their hunting spears
 More adoption of artificial intelligence will lead to more calls to cut fees
 
-## Tiruppur cluster abuzz with ‘Jana Nayagan’ frenzy as merchandise order surges
-“It is like a festival in Tiruppur. Jana Nayagan T-shirts are being printed everywhere,” said Balu, who runs a small garment manufacturing unit
+## Ram temple donation theft, NEET paper leak to dominate India’s parliament session
+Congress said it will raise issues related to NEET paper leak, education reforms, employment, farmers, as well as Ram temple donation ‘theft’, ethanol, Manipur during the upcoming Monsoon session, starting Monday.
 
-## For EVs to grow, more products needed in sub 4-meter category: JSW MG Motor
-“There is a lot of gap in the sub-4 meter...when you glance through the models, there is a stark difference between SUV style and EV body style” official at JSW MG Motor India said
+## The simple and complex of I-T: ITR-1 got easier, ITR-2 got harder
+Three years of quiet redesign have redrawn who does what on India’s two most-used tax forms — and where the complexity now sits
 
-## India continues Olympiad streak; sweeps all gold at Chemistry Olympiad
-This was India’s best performance in IChO with the first-ever all-gold haul. India was placed at the first position, jointly with China, Vietnam and others
+## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
+Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
 
-## Textiles Ministry may open fresh PLI application window as relaxed norms draw industry interest
-Progress was initially slow due to the pandemic, says minister; inclusion of cotton apparel is ruled out for now.
+## PNB hopeful of achieving net interest margin, FCNR (B) targets
 
-## India bought record $5.14 billion worth of Russian crude oil in June
-Russian crude oil reached the highest level on record in June 2026
 
-## Gold, silver brace for another tough week amid oil surge, US-Iran conflict risks: Analysts
-Investors will monitor key US jobless claims, flash PMI, and monetary policy decisions from Europe and China for updates on global interest rates
+## Heavy rain kills 11 in Jammu, Amarnath Yatra suspended
+Officials said several people were missing as rescue teams searched for survivors in the worst-hit areas
 
-## IMD forecasts heavy rainfall in north Bengal, warns of possible landslides, flash floods
-According to the IMD, extremely heavy rain is likely in the districts of Jalpaiguri and Alipurduar, and very heavy rain in the other sub-Himalayan districts
+## FIFA World Cup final: Kerala declares holiday for all educational institutions on Monday
+Chief Minister V D Satheesan said the decision was made after students expressed concerns about attending classes after staying up late for the World Cup match.
 
-## AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal
-Aggarwal highlights the shift in customer expectations from punctuality to a holistic travel experience as Air India Express expands its UAE services amid rising operational costs
+## Infosys Q1FY27 preview: Sequential growth likely to be aided by acquisitions
+Acquisitions, cost cuts support growth; FY outlook remains mixed
+
+## ‘Upcoming FTAs can create significant opportunities for Indian exporters’
+Despite tariff uncertainty, Indian exports have retained 80% competitiveness in US market; will remain competitive
 
 ## India-UK ties to remain strong under new PM Andy Burnham, say strategic experts
 
@@ -84,52 +84,52 @@ Punjab National Bank reported a substantial net profit increase for the quarter 
 ## IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore
 IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. Lower provisions supported earnings, offsetting a weaker operating profit. Net interest income saw a slight decline while non-interest income dropped significantly. Deposits decreased sequentially, but advances showed mod
 
-## Forced to work 15 hours a day without pay, Hyderabad woman stranded in Oman seeks govt's help to return home
-Her family alleged that she was not provided proper food or accommodation, and did not receive any salary during her four-month stay in Oman.
+## Convene all-party meet on delimitation, FCRA bills: TMC's Derek O'Brien writes to PM Modi
+In his letter, O'Brien noted that although no legislation on delimitation appears in the bulletin listing government business for the Monsoon session.
 
-## Patient dies hours after ceiling fan falls on him in Delhi's GTB hospital
-According to the patient's death certificate, reviewed by HT, Akbar died at around 12.16 am, less than three hours after the incident.
+## Punjab govt data shows over half of Mawan Dheeyan Satkar Yojana beneficiaries are aged 36–59
+State says more than 33 lakh women have received financial assistance under the scheme so far.
 
-## Mob assaults Muslim man for visiting Hindu woman friend in Uttarakhand
-The woman told the Uttarakhand Police that she had known the man for five years and had no objection to his visiting her house
+## Heavy rain lashes Uttarakhand as IMD issues red alert for July 20
+District administrations across the state intensified disaster preparedness measures and imposed movement restrictions in vulnerable areas
 
-## Goa BJP MLA Jennifer Monserrate passes away after prolonged illness
-Monserrate, who was ailing for some time, had withdrawn from public life over the last few months as she prioritised her health
+## Young adults account for highest share of cashless cardiac procedures under Punjab health scheme
+135 patients have received treatment worth ₹2.71 crore under Mukh Mantri Sehat Yojna, according to State Health Agency data.
 
-## Police clear Ken-Betwa protest site on Day 17, shift fasting activist to hospital
-The administration has maintained that the Ken-Betwa Link Project is of national importance and will boost irrigation, drinking water supply and development.
+## AAP criticises police action against Sonam Wangchuk
+Party leader Sanjay Singh says Wangchuk was shifted to the hospital during his hunger strike and appeals for support to the proposed July 20 march.
 
-## Tribal kids en route to TN brought back to Rajasthan; BJP MP seeks conversion probe
-Officials said two girls and five boys were taken from their villages on July 15 and sent by bus to Gujarat’s Ahmedabad, and then by train to Goa
+## Badrinath Dham donation theft: SIT seeks donation record of last 3 yrs from BKTC
+The SIT on Friday arrested retired BKTC temple officer Rajendra Chauhan for allegedly stealing the cash from the counting room on three occasions before his retirement on June 30
 
-## Delhi HC refuses Wangchuk's wife Angmo's immediate request to shift him out of govt hospital, seeks status report
-“30 cops on the floor, over 100 across the hospital, our movement is severely restricted. It is not medical care. It is illegal detention,” Angmo's plea said.
+## ‘Don't threaten them’: Arvind Kejriwal slams NTA over warning to NEET students
+In response to NTA’s warning over potential legal action against NEET students, Arvind Kejriwal urges the agency to prioritize student concerns.
 
-## Expansion on track; AI Express expects to induct 50-60 aircraft over 12-18 months
-The fleet expansion comes as Air India Express continues to integrate and modernise its operations following the Tata Group’s acquisition of Air India in 2022
+## Rajnath Singh to attend Kargil victory celebrations in Dras
+Top military officials, including army chief General Dhiraj Seth, will attend the event to commemorate victory in the limited war
 
-## No private hospital transfer for Sonam Wangchuk as court upholds forcible removal
-
-
-## Spain vs Argentina FIFA World Cup 2026 Final: Live Streaming, Date, Time, and Where to Watch
+## Indian Railways clarifies after video of hydrogen train pulled by diesel engine goes viral
 
 
-## Kerala, Manipur schools closed on Monday as states declare holiday after FIFA World Cup final
+## ‘Boss scam’: How a Microsoft Teams message almost cost a Pune firm Rs 2 cr
 
 
-## Kushal Tandon-Vanshaj Singh fight on Alliance leaves Sohail Khan fuming: ‘Fail to understand’
+## India-Australia uranium deal: Why domestic reserves are not enough to fuel India’s nuclear ambitions
 
 
-## Bystanders at Agra Summit, Kashmir leaders say if talks possible then, they are now
+## CJP march to Parliament: Why police nod is needed for a public protest in India
 
 
-## CJP protest in Mumbai: How Azad Maidan became the city’s site of agitations, with restrictions
+## ‘Otherwise it can be rage-bait’: Why Main Vaapas Aaunga writer balanced Partition scenes
 
 
-## Why Samsung’s passport-style foldable phone matters for the smartphone industry
+## Today News Headlines for School Assembly, July 20, 2026: School holidays announced for FIFA finals, Delhi HC refuses shifting Wangchuk to private facility
 
 
-## Quick Comment: How Jasprit Bumrah’s absence hurt India’s powerplay at Lord’s
+## ‘A personal choice’: Kajal Aggarwal on judgment female actors face for ‘bold’ scenes
+
+
+## Garry Sobers: The man who showed the world what cricket after empire could be
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why have India’s Gen Z protesters called for a march to parliament?
+After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.
+
+## Indian court rejects bid to release hunger-striking activist from hospital
+The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.
+
+## Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions
+Former player predictions as the European and South American champions clash in a World Cup final for the first time.
+
+## India’s cockroach politics is no joke
+The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.
+
 ## FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal
 In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.
 
@@ -263,18 +275,6 @@ Collapsing grid, battered by military strikes and chronic underinvestment, leave
 
 ## Why is India vetting books in Kashmir in search of ‘anti-national’ content?
 Authorities in disputed region are auditing school, college and public libraries to look for ‘objectionable’ material.
-
-## Gaza cheers for Spain as World Cup final anticipation mounts
-Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.
-
-## Du Plessis makes winning return to UFC with dominant decision over Usman
-South African fighter held the middleweight belt ⁠from January 2024 until August 2025 when he lost to Chimaev.
-
-## World Cup 2026 final: Closing ceremony and half-time show – what to know
-Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break.
-
-## Five people rescued after Indonesia boat sinks, at least 20 still missing
-The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
