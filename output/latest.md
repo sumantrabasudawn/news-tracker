@@ -60,6 +60,12 @@ This is the first time that local residents in India are raising their concerns 
 ## Electronic Gold Receipts: A new way to own gold
 The yellow metal has long gone digital, but this time it is offering the convenience of electronic investing along with ownership of physical gold
 
+## Government may seek Parliamentary nod for additional spending
+Finance Minister Nirmala Sitharaman may seek parliamentary approval for additional spending. Increased expenditure on fertiliser subsidies and electronics manufacturing initiatives is driving this need. GST and direct tax revenues remain on track, and DIPAM is pushing for additional realisations. Th
+
+## Private bank chiefs temper NRI deposit mop-up expectations; Top lenders stay cautious, say several factors affect inflows
+
+
 ## Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer
 
 
@@ -77,12 +83,6 @@ IRDAI chairman Ajay Seth unveiled a new comic book series to improve life insura
 
 ## Fans 1, Productivity 0: How FIFA World Cup 2026 could trigger $17bn loss worldwide
 
-
-## India's power sector set for strong FY27 growth on rising demand, capacity additions: Report
-India's power sector anticipates sustained growth through fiscal year twenty twenty-seven. Surging electricity demand and record peak consumption fuel this positive outlook. Continued capacity additions, especially renewables, will strengthen utility performance. Thermal power remains central, provi
-
-## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
-With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
 
 ## Section 163 imposed in parts of New Delhi ahead of CJP's Parliament march: What it means and what's prohibited?
 Police are maintaining constant surveillance in and around the protest site, while additional personnel have been stationed at strategic locations.
@@ -108,10 +108,19 @@ Wangchuk's wife alleged that his personal doctors, who had been monitoring his h
 ## 5 dead, four more missing after landslides in Nagaland’s Mon district
 Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
 
+## Shubman Gill on Rohit Sharma’s future: He has not told us anything
+
+
+## Bloodshed in Balochistan: Why Pakistan’s resource-rich province remains in conflict
+
+
+## Iran hits US bases, downs MQ-9 Reaper drones as Middle East war escalates
+
+
 ## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
 
 
-## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: ESP hog the ball; goalless after 3 mins
+## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Shakira, Justin Bieber, Madonna light up half-time show
 
 
 ## Rohit Sharma’s century at Lord’s came off Shardul Thakur’s bat
@@ -121,15 +130,6 @@ Officials said at least 45 houses were completely destroyed in the landslides, w
 
 
 ## Express News Quiz: Sonam Wangchuk, Odyssey, and Haaland effect
-
-
-## Haaland’s Hermès to Ronaldo’s custom Gucci: Inside the luxury bags of football stars
-
-
-## ‘Right to raise voice peacefully’: Shabana Azmi joins CJP’s Jantar Mantar protest
-
-
-## FIFA World Cup 2026 Closing Ceremony LIVE: Post Malone stars in closing ceremony
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,6 +252,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Five passengers found drifting days after boat sinks in Indonesia
+Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.
+
+## Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash
+Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash.
+
+## Trump visit causes logistical delays at World Cup final
+Al Jazeera reporters faced lengthy queues to enter the stadium due to tighter security checks.
+
 ## The story behind Gaza’s #TheyLiedToYou campaign
 The story behind Gaza’s #TheyLiedToYou campaign
 
@@ -266,15 +275,6 @@ At least 50 Malian soldiers were killed after a joint Malian army and Russia's A
 
 ## Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks
 Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.
-
-## NYC swells with Spanish, Argentinian fans anticipating World Cup glory
-World Cup in NYC offered a chance for Mayor Zohran Mamdani to display progressive messaging on the world stage.
-
-## What happened to the Jewish left?
-Marc Lamont Hill speaks to Molly Crabapple about the Jewish Labour Bund, anti-Zionism and the Jewish left today.
-
-## Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners
-Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
