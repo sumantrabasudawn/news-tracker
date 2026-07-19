@@ -1,7 +1,7 @@
 # AION Intelligence
 
-## Two US servicemen killed in Iranian strikes on Jordan
-Battle for control of Strait of Hormuz escalates as American forces launch fresh assault and Iran hits Saudi Arabia
+## US strikes Iran after two American troops are killed in Jordan
+Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states
 
 ## Burnham scraps new digital ID scheme
 Incoming prime minister says money saved will go towards tackling cost-of-living crisis
@@ -42,6 +42,9 @@ It is easy to look enviously at New York, but the UK is on course to enjoy its b
 ## Asia AI bets power record equities run for Wall Street banks
 Investments in semiconductors fuel growth in regional revenues for US banks
 
+## Why, at 42.79%, record RE penetration is as much a cause for worry as cheer
+Beyond installing more solar panels and wind turbines, an urgent need is to make the electricity system flexible
+
 ## AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
 AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
 
@@ -62,9 +65,6 @@ India’s second largest private sector bank had recorded a net profit of Rs ₹
 
 ## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
 Quarterly provisions increased to ₹541 crore from ₹424 crore in March, while fresh slippage fell to ₹2,080 crore from ₹2,758 crore
-
-## Lower provisioning and recoveries boost Axis, Kotak and IDBI profit in Q1; YES Bank bucks the trend
-Lower provisioning and strong recoveries helped Axis Bank, Kotak Mahindra Bank and IDBI Bank post healthy profit growth in the June quarter, while YES Bank delivered a strong performance driven by the strength of its core earnings engine
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -114,28 +114,28 @@ At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, t
 ## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
 Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
 
-## Sonam Wangchuk gone, spotlight moves to Abhijeet Dipke
+## Do men really lose weight faster than women?
 
 
-## England beat France 6-4 in frantic FIFA World Cup bronze medal match
+## 2 US troops killed, 1 missing in Jordan as Iran strikes Washington allies across the Gulf
 
 
-## US new immigration rule threatens stay of over 3 lakh Indian students on F-1 visa
+## Bellingham becomes first England player to score 7 goals in single World Cup
 
 
-## Maharashtra panel to examine if Scheduled Tribes who convert can still receive benefits
+## Before Sonam Wangchuk, a look at India’s iconic fasts: Gandhi, Bhagat Singh to Sriramulu, Irom Sharmila
 
 
-## Hyderabad’s Skyroot start-up: Vikram-1 India’s first private orbital rocket mission; defining moment, says PM Modi
+## Mbappe pips Messi in Golden Boot race, all-time leading World Cup scorers’ list
 
 
-## France vs England FIFA World Cup 2026 Match Live Updates: FRA 4-6 ENG in 2nd half; England seal bronze medal in 10-goal thriller
+## US-Iran War News Live Updates: US renews strikes on Iran after two military personnel were killed by Iranian attack
 
 
-## ‘We should have offered you better ending’: Mbappe’s farewell post to Deschamps
+## Hunger strike taking a toll, but Wangchuk refusing medical help: Safdarjung bulletin
 
 
-## India one away from reaching 100 grandmasters as Rathanvel becomes 99th
+## Anurag Kumar’s 1st directive as Delhi Police Chief: Zero tolerance for corruption
 
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms
+Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.
+
+## A giant cake for Venezuelan quake child survivors as death toll passes 5000
+Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes
+
+## Netanyahu declares support for Argentina ahead of World Cup final
+Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.
+
+## Iran war live: US launches new strikes; Trump mourns killed soldiers
+US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.
+
+## Saka hat-trick helps England down France to win World Cup 2026 Bronze Final
+Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.
+
+## Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal
+Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.
+
 ## World Cup final tickets near $2.3m mark on FIFA’s resale platform
 While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.
 
 ## Cockroach Party protest intensifies after Wangchuk forcibly hospitalised
 Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.
-
-## Latin America unites to cheer against Argentina in FIFA World Cup final
-Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.
-
-## Palestinian teenage footballer dies a week after Israeli settler attack
-A week after he was shot in his West Bank village, Fadi al-Nassan's death comes amid a surge in settler violence.
-
-## Drone video shows scale of major wildfire in northern Spain
-Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned
-
-## Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?
-Palestinians who have endured Israel's genocidal war are still being targeted.
-
-## All to know about Canadian wildfire smoke, air quality and World Cup final
-A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.
-
-## Thousands rally in London in support of Gaza, demand new PM take action
-Demonstrators call on Andy Burnham to impose arms embargo on Israel and pressure its government to end genocide.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
