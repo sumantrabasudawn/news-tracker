@@ -3,6 +3,12 @@
 ## Burnham to maintain ban on North Sea exploration licences
 Decision criticised by oil and gas industry as well as trade union
 
+## UK must focus on insiders vs outsiders not north vs south
+Economists and politicians want to boost growth, but it must include people on the periphery of hotspots
+
+## EU faces crumbling support for new Russia sanctions
+National capitals refuse to support measures that could hurt big companies
+
 ## India’s rupee problem has been misdiagnosed
 Currency weakness reflects subdued private investment and uncertainty over the business climate
 
@@ -18,12 +24,6 @@ Market Questions is the FT’s guide to the week ahead
 ## China’s Jingye demands payout over British Steel nationalisation
 UK government accused of disregarding group’s investment and offering ‘almost zero compensation’
 
-## US day traders flock to ‘the most dangerous product in crypto’
-Trump administration has opened American markets to highly leveraged perpetual futures
-
-## US strikes Iran after American troops killed in Jordan
-Iran accuses Washington of attacking under-construction nuclear plant and retaliates against countries around region as conflict escalates
-
 ## GameStop extends pursuit of eBay despite Wall Street scepticism
 Video game retailer doubles stake in online marketplace as chief executive Ryan Cohen presses ahead with quixotic deal
 
@@ -36,32 +36,32 @@ NatWest and Lloyds push regional lending credentials as they look to finance new
 ## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
 Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
 
-## Defence giants to maintain grip on weapons market despite drone boom
-Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
+## A searing expose of ‘modern slavery’
+This book tells the story of the H-1B visa and how it was misused to exploit IT workers both Indian and American
 
-## Centre ring-fences 72 lakh tonne of FCI rice for ethanol push
-An additional 55 LT of 100% broken rice will be auctioned and may go to ethanol distilleries
+## Editorial. Systemic cancer
+India’s cancer burden needs a public health response
 
-## India’s IT services sector hints at hiring stabilisation
-While the industry shows green shoots in hiring with higher headcount for some companies and improved attrition for others, experts advise monitoring of upcoming quarters to mark out a trend
+## Amit Shah lays foundation stone for ₹700-crore Amul project in Bengal, says State witnessing new era of growth
+After virtually laying the foundation stone for the ₹700-crore Amul project at Sankrail in Howrah district, Shah said the transformation Bengal witnessed is unlike any political change seen elsewhere since Independence.
 
-## ‘Additional volumes will mitigate cost pressure in Q2’
-The company is bullish on Indian economy and growth in domestic demand in the near future
+## ‘Upcoming FTAs can create significant opportunities for Indian exporters’
+Despite tariff uncertainty, Indian exports have retained 80% competitiveness in US market; will remain competitive
 
-## How quick commerce is reshaping food retail consumption dynamics
-As per the latest report by FICCI-Deloitte, food retail through quick commerce is poised for significant growth, reaching $30-35 billion in retail value by 2030 from about $5-6 billion in 2025.’
+## Don’t Want Data Centres in Residential Areas: Thane residents protest against Amazon data centre
+This is the first time that local residents in India are raising their concerns about the digital infrastructure.
 
-## Ram temple donation theft, NEET paper leak to dominate India’s parliament session
-Congress said it will raise issues related to NEET paper leak, education reforms, employment, farmers, as well as Ram temple donation ‘theft’, ethanol, Manipur during the upcoming Monsoon session, starting Monday
+## Indian prodigies create golden alchemy at Chemistry Olympiad
+Bag a rich haul of four golds and clinch joint top position worldwide against 93 competing nations
 
-## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
-Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
+## Armenia and Saudi Arabia among six nations eyeing India’s battle-tested Astra missiles
+Indonesia agreement fuels overseas demand for indigenous Astra air-to-air missiles
 
-## PNB hopeful of achieving net interest margin, FCNR (B) targets
+## BRICS trade unions for universal social protection, pay equity
+The Hyderabad Declaration, which was unanimously adopted during the conference,
 
+## Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer
 
-## Heavy rain kills 11 in Jammu, Amarnath Yatra suspended
-Officials said several people were missing as rescue teams searched for survivors in the worst-hit areas
 
 ## Gold, silver under pressure this week as US-Iran conflict, oil rally cloud outlook
 
@@ -84,8 +84,20 @@ India's power sector anticipates sustained growth through fiscal year twenty twe
 ## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
 With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
 
-## Punjab National Bank Q1FY27 net profit up 213% to Rs 5253 crore
-Punjab National Bank reported a substantial net profit increase for the quarter ending June 30, 2026. The bank's standalone net profit rose over 200 percent year-on-year. This growth was primarily driven by a sharp decline in tax outgo. Non-interest income saw a decrease, impacting overall operating
+## Wangchuk is ready to end his hunger strike, says wife, sets condition ahead of CJP march to Parliament
+“Sonam Wangchuk can end his fast if political leaders meet him and assure to raise issue of accountability and education in Monsoon Session,” Angmo said.
+
+## Amid fiery demands for his resignation over NEET leak, education minister Pradhan's meeting with topper. What he said
+Dharmendra Pradhan shared photo with student a day after Delhi Police forcibly removed activist Sonam Wangchuk from his Jantar Mantar hunger strike.
+
+## 'No hospital can force its treatment on patient': Sonam Wangchuk's wife after HC denies request to shift activist
+Wangchuk's wife alleged that his personal doctors, who had been monitoring his health for years, were not being allowed access to him.
+
+## 5 dead, four more missing after landslides in Nagaland’s Mon district
+Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
+
+## Sleeping on roof, an argument, then a fall: Husband dead, woman injured in Delhi
+Preliminary investigation revealed that the couple had dinner with the family around 9 pm and then went to sleep on the rooftop of the house.
 
 ## Planning a getaway to the hills? Himachal set for heavy monsoon rain in these areas
 Weather office in Shimla has issued a Red Warning for four districts for Monday, July 20, and five again for Tuesday
@@ -96,43 +108,28 @@ Together, the two developments reflect India's growing ambitions in commercial s
 ## Convene all-party meet on delimitation, FCRA bills: TMC's Derek O'Brien writes to PM Modi
 In his letter, O'Brien noted that although no legislation on delimitation appears in the bulletin listing government business for the Monsoon session.
 
-## Punjab govt data shows over half of Mawan Dheeyan Satkar Yojana beneficiaries are aged 36–59
-State says more than 33 lakh women have received financial assistance under the scheme so far.
-
-## Heavy rain lashes Uttarakhand as IMD issues red alert for July 20
-District administrations across the state intensified disaster preparedness measures and imposed movement restrictions in vulnerable areas
-
-## Young adults account for highest share of cashless cardiac procedures under Punjab health scheme
-135 patients have received treatment worth ₹2.71 crore under Mukh Mantri Sehat Yojna, according to State Health Agency data.
-
-## AAP criticises police action against Sonam Wangchuk
-Party leader Sanjay Singh says Wangchuk was shifted to the hospital during his hunger strike and appeals for support to the proposed July 20 march.
-
-## Badrinath Dham donation theft: SIT seeks donation record of last 3 yrs from BKTC
-The SIT on Friday arrested retired BKTC temple officer Rajendra Chauhan for allegedly stealing the cash from the counting room on three occasions before his retirement on June 30
-
-## Malayalam cinema’s patriarch Madhu reveals why he quit acting, returned just for Mammootty
+## Why Kaif thinks Kuldeep should pack bags, say goodbye to international cricket
 
 
-## New Era: What can France expect from Zinedine Zidane as head coach?
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 171) — Check out answers with explanations
 
 
-## Smarter, not harder: 5 rookie gym mistakes beginners must avoid
+## ‘I miss making money’: Maria Goretti on choosing motherhood over fame
 
 
-## FIFA World Cup Final 2026: Who are the referees in Argentina vs Spain clash?
+## FIFA World Cup full list of winners and finals results: Argentina eye 4th title
 
 
-## CJP protest: Protesters gather at Mumbai’s Shivaji Park over Sonam Wangchuk detention
+## Inside Kolkata SSKM’s rare surgery to remove a 23-cm ‘true human tail’
 
 
-## Death toll rises to 18 as flash floods, landslides wreak havoc in J&K
+## Why did US-Iran ceasefire collapse? Timeline of peace deal that unravelled
 
 
-## Vande Mataram’s insult to soon be punishable offence as Amit Shah set to table Bill
+## Iran, US on brink of war again: For India, a lot to watch out for
 
 
-## FIFA World Cup 2026 Final Prize Money: ₹83,000+ crore pool, champion to earn record ₹4,800+ crore
+## Dhurandhar singer Jasmine Sandlas allegedly mobbed, inappropriately touched during concert
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Lebanon convicts influencer of smuggling drugs in biscuits
-Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.
+## Israel uses law to destroy Palestinian education in East Jerusalem
+Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.
 
-## Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?
-Influencer brothers arrested in Miami, as UK seeks extradition to face new charges of rape, sex trafficking and assault.
+## Kimi Antonelli wins Belgian Grand Prix to extend F1 championship lead
+Mercedes driver won his sixth GP of 2026 as championship rival and teammate George Russell crashes out on first lap.
 
-## Why have India’s Gen Z protesters called for a march to parliament?
-After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.
+## Designing cities for a hotter future
+Climate advocate Mina Hasman’s vision of designing cities that behave like forests and buildings that act like trees.
 
-## Indian court rejects bid to release hunger-striking activist from hospital
-The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.
+## Tate brothers arrested in the US
+Video shows the moment controversial influencer brothers Andrew Tate and Tristan Tate were arrested in Miami, US.
 
-## Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions
-Former player predictions as the European and South American champions clash in a World Cup final for the first time.
+## Spain vs Argentina LIVE: FIFA World Cup 2026 final
+Live coverage and text updates as Spain play Argentina in the final of the 2026 World Cup.
 
-## India’s cockroach politics is no joke
-The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.
+## Why is Argentina’s football team so white?
+Argentina prepares to face Spain in the World Cup final.
 
-## FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal
-In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.
+## Iran attacks US Gulf allies, causing a fire at Kuwait power plant
+Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.
 
-## Guyana ferry with 116 people on board capsizes; more than 50 rescued
-Rescue operations for remaining passengers and crew ongoing, authorities say.
+## Who controls football in Palestine?
+For Palestinians fighting Israeli occupation, football has never been just a game.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
