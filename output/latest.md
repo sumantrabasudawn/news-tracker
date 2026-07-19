@@ -24,6 +24,9 @@ Andy Burnham will take power without winning an election. So have most other rec
 ## Why ‘rightwing’ is no longer such a dirty word in Britain
 When words like fascist and Nazi are thrown around, being merely conservative seems mild by comparison
 
+## Is Fifa’s hyper-commercialised World Cup here to stay?
+Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
+
 ## Defence giants to maintain grip on weapons market despite drone boom
 Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
 
@@ -36,35 +39,32 @@ Ban particularly sensitive for industry that keeps products desirable by maintai
 ## Job crisis leaves newly qualified nurses struggling to secure roles
 A recruitment freeze and lack of NHS workforce planning mean graduates are fighting over fewer vacancies
 
-## Singapore weighs hedge fund tax cuts to rival Hong Kong
-City-state frets over portfolio managers relocating to Chinese territory
+## AI Express seeks to be value carrier; providing OTP is just not enough: Chairman Nipun Aggarwal
+Aggarwal highlights the shift in customer expectations from punctuality to a holistic travel experience as Air India Express expands its UAE services amid rising operational costs
 
-## Telecom Italia backs Poste Italiane takeover bid
-Cash and paper offer would give state-controlled postal service full control of telecoms group
+## NCLAT upholds Sristi Hospitality's sale to consortium comprising Amit Jatia of Hardcastle Restaurants
+CIRP against Sristi Hospitality was initiated in February 2023
 
-## 5paisa Capital partners with OpenAI for AI-powered investing
-5paisa plans to deploy AI across its platform
+## Show DND choice to users, not 'frequently blocked' label: TRAI on dedicated series row with Truecaller
+TRAI has mandated the use of 1600 series numbers for service and transaction calls by regulated banking, financial services and insurance or BFSI entities, and government-to-citizen communications
 
-## Dr Reddy’s Foundation soil lab nears 1 lakh samples before 2026 rabi season
-This soil testing facility is central to the Foundation's broader soil health and regenerative agriculture programme
+## Reliance Retail to scale online business in FY27, aims to double pre-tax earnings in 3 years
+The company also plans to improve profitability through a higher share of private labels, increased monetisation opportunities and greater marketplace income
 
-## Why, at 42.79%, record RE penetration is as much a cause for worry as cheer
-Beyond installing more solar panels and wind turbines, an urgent need is to make the electricity system flexible
+## Critical mineral investment falls 9% despite booming demand in 2025: IEA
+The report attributed the slowdown to rising geopolitical tensions, price volatility and a more cautious investment environment, even as demand fundamentals remained strong
 
-## IMD alert: Monsoon to intensify across North, Northeast; heavy rain forecast for Delhi
-Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days
+## Continental AG-Spun-Off Aumovio eyes 45% revenue jump in FY27 on safety and software push
+Aumovio India, collaborating with OEMs like Tata Motors, Mahindra & Mahindra, and Hyundai-Kia, aims to surpass an automotive market growing at about 8%
 
-## Sonam Wangchuk’s wife moves Delhi HC, seeks his transfer to private hospital
-Alleges ‘illegal confinement’ at Safdarjung Hospital
+## India continues Olympiad streak; sweeps all gold at Chemistry Olympiad
+This was India’s best performance in IChO with the first-ever all-gold haul. India was placed at the first position, jointly with China, Vietnam and others
 
-## Amit Shah reviews J&K flood situation; coordinates relief with LG Manoj Sinha, CM Omar Abdullah
-The district administration has urged the public to avoid visiting rivers, streams, and other flood-prone areas
+## Emerging markets poised to outperform in H2 2026 amid attractive valuations, AI-led growth: HSBC
+Emerging market equities delivered a 24% return in US dollar terms in the first half of 2026, more than double the performance of US and developed market equities excluding the US
 
-## Alembic Pharma partner NATCO gets USFDA tentative nod for generic Olaparib tablets; US market size at $1.4 bn
-Alembic Pharmaceuticals’ cumulative tally of USFDA ANDA approvals has risen to 244, comprising 224 final approvals and 20 tentative approvals
+## India-UK ties to remain strong under new PM Andy Burnham, say strategic experts
 
-## PV Sindhu stuns Yamaguchi to win maiden Japan Open title
-Sindhu raced to a 3-0 lead before a few unforced errors, coupled with some brilliant shot-making from Yamaguchi, allowed the Japanese to draw level at 3-3
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -87,8 +87,23 @@ Punjab National Bank reported a substantial net profit increase for the quarter 
 ## IDBI Bank Q1FY27 net profit rises 3.3% to Rs 2007 crore
 IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. Lower provisions supported earnings, offsetting a weaker operating profit. Net interest income saw a slight decline while non-interest income dropped significantly. Deposits decreased sequentially, but advances showed mod
 
-## Nobody wants to wait on hold anymore. But can AI replace customer care?
+## HC refuses Wangchuk's wife Angmo's immediate request to shift him out of govt hospital, seeks status report
+“30 cops on the floor, over 100 across the hospital, our movement is severely restricted. It is not medical care. It is illegal detention,” Angmo's plea said.
 
+## Expansion on track; AI Express expects to induct 50-60 aircraft over 12-18 months
+The fleet expansion comes as Air India Express continues to integrate and modernise its operations following the Tata Group’s acquisition of Air India in 2022
+
+## Hyderabad woman battling mental health issues walks naked to temple, dies by suicide
+The woman had been living with her mother at Peerzadiguda in Hyderabad, while her father resides in Visakhapatnam following marital disputes between the couple.
+
+## MP cabinet approves UCC; up to 5-yr jail for married persons in live-in relationships
+Madhya Pradesh cabinet approved the Uniform Civil Code, introducing new rules on marriage, inheritance and live-in relationships, with STs exempted.
+
+## Calcutta high court halts demolition at TMC MP Abhishek Banerjee's office
+During an urgent hearing, the Calcutta High Court stayed the demolition work.
+
+## ‘Theft in uniform’: TMC's Abhishek Banerjee slams Bengal Police over office demolition
+Abhishek Banerjee accused the Bengal Police of acting unlawfully after his constituency office was demolished, calling the action "theft in uniform".
 
 ## Kerala minister promises uninterrupted power supply throughout FIFA World final match
 He had been holding daily review meetings with the KSEB Chairman and senior officials to monitor the power situation and ensure uninterrupted electricity supply
@@ -96,47 +111,32 @@ He had been holding daily review meetings with the KSEB Chairman and senior offi
 ## 'Duty to invite everyone': Centre on Opposition storm over TMC rebels at all-party meeting
 The Opposition staged a symbolic walkout from the all-party meeting to protest the invitation extended to TMC rebels.
 
-## Former PM Deve Gowda's wife Chennamma dies at 89, CM announces state honours
-Shivakumar announced that the government has decided to accord full state honours to Chennamma, keeping in mind she was the wife of a former PM.
-
-## India-UK ties expected to stay the course with Andy Burnham as new PM: Reports
-Burnham, 56, was elected unopposed and will take over from Keir Starmer at Downing Street on Monday after the formal choreography of the handover of power.
-
-## Monsoon to intensify across North, Northeast India; IMD warns of heavy rain
-Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days.
-
-## ‘F-word’ may be offensive, but not obscene: Supreme Court on abusive language
-The court used the case to draw a clear legal distinction between obscene speech, which is punishable, and vulgar or abusive speech.
-
-## Kerala declares holiday for schools on Monday over Argentina vs Spain FIFA World Cup final
-The decision came after football-loving students requested a holiday so they could stay up to watch Sunday's title clash.
-
-## Manipur Police transfers 83 officers in major cadre reshuffle
-Manipur Police transferred 83 officers, including inspectors, in a major reshuffle across police stations, command units and specialised wings.
-
-## What Israel’s new law exempting Haredi from IDF means for its society, politics
+## Military Digest: How Nehru sought early India-China military ties before 1962 war
 
 
-## Rohit, Kohli set to become first Indian pair to play 400 matches together in Lord’s ODI
+## ‘I came to support Sonam Sir’: Outside Safdarjung hospital, ‘Mohammad Deepak’ says ‘dark time for the country’
 
 
-## JEE scores can get you into these IIM UG programmes after Class 12
+## Anand Mahindra, Jackie Shroff, Pawan Kalyan congratulate P V Sindhu on first Japan Open title
 
 
-## India vs England Live Score, 3rd ODI: Focus on Rohit Sharma as IND eye series win at Lord’s; Toss coming up
+## Best tips to tackle post-lunch headaches: ‘Pulpy fruits are your friends’
 
 
-## Dhamaal 4 box office collection: Ajay Devgn’s film set to cross the Rs 125 cr milestone
+## Salman Khan’s latest appearance sparks concern among fans: ‘He looks sick’
 
 
-## NYC Mayor Mamdani explores legal options to arrest Netanyahu upon US arrival
+## What is context bombing, a new AI defence technique turning hackers’ tricks against them?
 
 
-## Rajarhat bomb blast: Bengal Police arrest prime suspect, NIA collects forensic samples
+## Cap on private school fees hike, refund for ‘extra’ fees: What’s in Punjab’s new ordinance?
 
 
-## ‘Threw ink to protest insult to Hindu gods’: Woman who targeted CJP’s Abhijeet Dipke
+## Sonam Wangchuk’s wife seeks his discharge from hospital, alleges ‘pretext of treatment’
 
+
+## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
+Sales of intangible heritage products are on the rise, highlighted by the online frenzy sparked by Elon Musk’s six-year-old son Little X wearing a Chinese-style silk jacket and carrying a tiger-head bag in May, when they accompanied US President Donald Trump on a state visit to Beijing. The surge is
 
 ## Why China must end the lucrative marriage between property and banks
 Capital seeks sanctuary. In China’s property sector, however, that quest for safety had inadvertently erected a cage. The recent government takeover of Wuhan-based private lender Zhongbang Bank, expected to see a dilution of its private capital amid serious credit risks, is a calculated regulatory a
@@ -158,9 +158,6 @@ China’s yoga apparel market is grappling with fierce competition and slowing g
 
 ## China’s Xpeng plants a flag in Germany’s auto heartland with Mona L03 launch
 Chinese electric vehicle maker Xpeng made its European ambitions clear on Thursday, as the firm unveiled its Mona L03 compact SUV at an event in the heart of Germany’s car industry, Munich. The launch, arguably the largest ever staged in Europe by a Chinese carmaker, was not just about introducing a
-
-## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
-Airbus has secured an order for 55 aircraft from two Chinese airlines, including 15 widebody A350 jets, strengthening the European giant’s widebody sales in the world’s second-largest air transport market. Air China, one of the country’s three major state-owned carriers, announced the deal on Friday
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -258,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Gaza cheers for Spain as World Cup final anticipation mounts
+Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.
+
+## Du Plessis makes winning return to UFC with dominant decision over Usman
+South African fighter held the middleweight belt ⁠from January 2024 until August 2025 when he lost to Chimaev.
+
+## World Cup 2026 final: Closing ceremony and half-time show – what to know
+Spain face Argentina in the 2026 World Cup final as musicians perform before kickoff and during the half-time break.
+
 ## Five people rescued after Indonesia boat sinks, at least 20 still missing
 The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.
 
@@ -272,15 +278,6 @@ Setting up illegal settlements, erasing cities and obstructing aid serve goal of
 
 ## Spain vs Argentina: World Cup final predictions, schedule, Messi news
 Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.
-
-## Watch FIFA World Cup: Argentina, Spain make preparations ahead of final
-Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
-
-## Spain vs Argentina: How each team can win World Cup final 2026
-Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.
-
-## Israel demolishes Palestinian home in Masafer Yatta
-Israel demolishes Palestinian home in Masafer Yatta
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
