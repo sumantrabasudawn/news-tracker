@@ -60,6 +60,18 @@ This is the first time that local residents in India are raising their concerns 
 ## Electronic Gold Receipts: A new way to own gold
 The yellow metal has long gone digital, but this time it is offering the convenience of electronic investing along with ownership of physical gold
 
+## More brands in store, but price cuts may lag
+New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues 
+
+## PNB targets $2.5bn via FCNR(B)
+
+
+## Apple raises subscription prices in India
+
+
+## Industry seeks changes to Companies Bill
+The corporate sector proposes changes to the Companies Act amendment bill. Industry executives seek greater flexibility in conducting general meetings. Proposals related to auditor cooling-off periods are causing significant concern. Firms argue these changes could limit professional capabilities an
+
 ## Government may seek Parliamentary nod for additional spending
 Finance Minister Nirmala Sitharaman may seek parliamentary approval for additional spending. Increased expenditure on fertiliser subsidies and electronics manufacturing initiatives is driving this need. GST and direct tax revenues remain on track, and DIPAM is pushing for additional realisations. Th
 
@@ -70,18 +82,6 @@ Finance Minister Nirmala Sitharaman may seek parliamentary approval for addition
 
 
 ## Gold, silver under pressure this week as US-Iran conflict, oil rally cloud outlook
-
-
-## India-UK ties to remain strong under new PM Andy Burnham, say strategic experts
-
-
-## Making waves underground: India's first undersea rail tunnel takes shape
-India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
-
-## IRDAI launches comic book series to simplify life insurance for consumers
-IRDAI chairman Ajay Seth unveiled a new comic book series to improve life insurance literacy. This initiative aims to simplify complex insurance concepts for the general public. The stories feature a young advisor explaining financial decisions and their long-term impact. The launch supports IRDAI's
-
-## Fans 1, Productivity 0: How FIFA World Cup 2026 could trigger $17bn loss worldwide
 
 
 ## Section 163 imposed in parts of New Delhi ahead of CJP's Parliament march: What it means and what's prohibited?
@@ -120,7 +120,7 @@ Officials said at least 45 houses were completely destroyed in the landslides, w
 ## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
 
 
-## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Shakira, Justin Bieber, Madonna light up half-time show
+## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: Goalless after 80 mins; Extra time approaching
 
 
 ## Rohit Sharma’s century at Lord’s came off Shardul Thakur’s bat
@@ -252,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What happened in the first half of the Spain vs Argentina World Cup final?
+All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.
+
+## Andy Burnham’s in-tray: The challenges facing the new UK PM
+Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities.
+
+## Twin earthquakes strike Peru killing at least five
+Peruvian authorities say the magnitude 5.1 and 3.7 quakes were in the mountainous Junin region east of Lima.
+
+## The UK gets its seventh prime minister in 10 years
+Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.
+
 ## Five passengers found drifting days after boat sinks in Indonesia
 Five passengers, including a seven-year-old girl, were rescued from a passenger boat that sank in Indonesia.
 
@@ -263,18 +275,6 @@ Al Jazeera reporters faced lengthy queues to enter the stadium due to tighter se
 
 ## The story behind Gaza’s #TheyLiedToYou campaign
 The story behind Gaza’s #TheyLiedToYou campaign
-
-## Lebanese food influencer sentenced to life for drug smuggling
-Georges Hanna Dib, known as Dr Food, sentenced for smuggling hashish out of Lebanon in cake packaging.
-
-## ‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides
-Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.
-
-## At least 50 Malian soldiers killed in attack on military convoy
-At least 50 Malian soldiers were killed after a joint Malian army and Russia's Africa Corps convoy was ambushed.
-
-## Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks
-Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
