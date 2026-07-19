@@ -45,6 +45,9 @@ The Hyderabad Declaration, which was unanimously adopted during the conference
 ## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
 Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
 
+## FCNR(B) mobilisation starts slow; banks remain optimistic on September-end targets
+Tax considerations, narrowing India-US yield spreads and competing investment options keep NRI participation cautious, even as banks intensify outreach efforts and target higher collections by September
+
 ## CCPA initiates action against 41 restaurants for levying service charge by default
 CCPA fined Chaayos ₹50,000 for default and ordered a refund to affected customers, according to an official statement
 
@@ -56,9 +59,6 @@ This is the first time that local residents in India are raising their concerns 
 
 ## Electronic Gold Receipts: A new way to own gold
 The yellow metal has long gone digital, but this time it is offering the convenience of electronic investing along with ownership of physical gold
-
-## Hidden life of trees
-A valuable deep ecology work on nurturing trees
 
 ## Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer
 
@@ -108,28 +108,28 @@ Wangchuk's wife alleged that his personal doctors, who had been monitoring his h
 ## 5 dead, four more missing after landslides in Nagaland’s Mon district
 Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
 
+## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
+
+
+## Argentina vs Spain Live Score, FIFA World Cup 2026 Final: ESP hog the ball; goalless after 3 mins
+
+
+## Rohit Sharma’s century at Lord’s came off Shardul Thakur’s bat
+
+
+## India lose in decisive 3rd ODI vs England at Lord’s, concede series 1-2
+
+
+## Express News Quiz: Sonam Wangchuk, Odyssey, and Haaland effect
+
+
 ## Haaland’s Hermès to Ronaldo’s custom Gucci: Inside the luxury bags of football stars
 
 
 ## ‘Right to raise voice peacefully’: Shabana Azmi joins CJP’s Jantar Mantar protest
 
 
-## FIFA World Cup 2026 Closing Ceremony LIVE: Post Malone takes centre stage as closing ceremony gets underway
-
-
-## ‘We could have been bombed’: Iran FM reveals what he told Trump’s envoy
-
-
-## Vishy Anand: ‘Feels like we’re all beating Gukesh on the head (with his bad form)’
-
-
-## ‘Students deserve better’: CJP supporters hold protest in Pune backing Sonam Wangchuk
-
-
-## Rohit Sharma slams century vs England in decisive 3rd ODI at Lord’s
-
-
-## Chandigarh consumes 38,000 liquor bottles a day, whisky leads the way
+## FIFA World Cup 2026 Closing Ceremony LIVE: Post Malone stars in closing ceremony
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The story behind Gaza’s #TheyLiedToYou campaign
+The story behind Gaza’s #TheyLiedToYou campaign
+
+## Lebanese food influencer sentenced to life for drug smuggling
+Georges Hanna Dib, known as Dr Food, sentenced for smuggling hashish out of Lebanon in cake packaging.
+
+## ‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides
+Decree comes after hardline backers of the Iranian government accused officials of treason for signing an MoU with US.
+
+## At least 50 Malian soldiers killed in attack on military convoy
+At least 50 Malian soldiers were killed after a joint Malian army and Russia's Africa Corps convoy was ambushed.
+
+## Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks
+Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.
+
+## NYC swells with Spanish, Argentinian fans anticipating World Cup glory
+World Cup in NYC offered a chance for Mayor Zohran Mamdani to display progressive messaging on the world stage.
+
+## What happened to the Jewish left?
+Marc Lamont Hill speaks to Molly Crabapple about the Jewish Labour Bund, anti-Zionism and the Jewish left today.
+
 ## Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners
 Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.
-
-## Syria’s Al-Sharaa reshuffles security and intelligence leadership
-Government says the shake-up will strengthen security and clear the way for reconstruction.
-
-## Israeli settlers torch homes and mosque in Masafer Yatta
-Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.
-
-## 5.6 magnitude earthquake hits Peru
-Footage shows firefighters looking for a missing person amongst the rubble of a collapsed building in Pumpunya, Peru.
-
-## Israel uses law to destroy Palestinian education in East Jerusalem
-Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.
-
-## Kimi Antonelli wins Belgian Grand Prix to extend F1 championship lead
-Mercedes driver won his sixth GP of 2026 as championship rival and teammate George Russell crashes out on first lap.
-
-## Designing cities for a hotter future
-Climate advocate Mina Hasman’s vision of designing cities that behave like forests and buildings that act like trees.
-
-## Tate brothers arrested in the US
-Video shows the moment controversial influencer brothers Andrew Tate and Tristan Tate were arrested in Miami, US.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
