@@ -1,7 +1,10 @@
 # AION Intelligence
 
-## US strikes Iran after two American troops are killed in Jordan
+## US strikes Iran after two American troops killed in Jordan
 Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states
+
+## GameStop extends pursuit of eBay despite Wall Street scepticism
+Video game retailer doubles stake in online marketplace as chief executive Ryan Cohen presses ahead with quixotic deal
 
 ## No longer grim up north for UK banks as Burnham comes to power
 NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
@@ -21,9 +24,6 @@ Andy Burnham will take power without winning an election. So have most other rec
 ## Why ‘rightwing’ is no longer such a dirty word in Britain
 When words like fascist and Nazi are thrown around, being merely conservative seems mild by comparison
 
-## The art of knowing when to step down
-Only a few master one of the hardest career tricks of them all
-
 ## Defence giants to maintain grip on weapons market despite drone boom
 Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
 
@@ -42,29 +42,29 @@ City-state frets over portfolio managers relocating to Chinese territory
 ## Telecom Italia backs Poste Italiane takeover bid
 Cash and paper offer would give state-controlled postal service full control of telecoms group
 
-## Delhi to add 2,800 AC electric buses under PM E-Drive scheme
-Public transport fleet to expand to 14,000 buses by 2028-29
+## 5paisa Capital partners with OpenAI for AI-powered investing
+5paisa plans to deploy AI across its platform
 
-## IIM Kozhikode opens Kochi campus, launches Urban Learning Centre
-The campus is designed to deliver globally benchmarked, technology-enabled management education and foster stronger engagement with industry and professionals in the region
+## Dr Reddy’s Foundation soil lab nears 1 lakh samples before 2026 rabi season
+This soil testing facility is central to the Foundation's broader soil health and regenerative agriculture programme
 
-## "Clear war crime": Iraninan Embassy in India condemns US strikes on Chabahar Port
-In a post on X, CENTCOM said that the attack took place on Thursday as part of its continued military strikes on the Islamic Republic, now targeting civilian infrastructure
+## Why, at 42.79%, record RE penetration is as much a cause for worry as cheer
+Beyond installing more solar panels and wind turbines, an urgent need is to make the electricity system flexible
 
-## Equity norms under Semicon 2.0 to drive investment for advance chips design by Indian cos: IT Secy
-The government has not announced a cap for investment in advance chip design by Indian firms. It will provide incentive to Indian chip companies in the form of grant and equity or link it to royalty base payment
-
-## Container traffic to grow 7-9% as major ports outpace non-majors; POL, coal and iron ore trends diverge
-Coal traffic is likely to post a compounding decline of 2-4% as domestic production and renewables rise, while iron ore traffic is expected to recover at a 5-7% CAGR during FY26-FY28 on higher coastal movement
-
-## Downstream aluminium industry says duty structure hurting competitiveness, seeks relief
-The associations said India’s per capita aluminium consumption at 2.5 kg remains well below the global average of 11 kg, but the bigger concern is the sharp rise in input costs
+## IMD alert: Monsoon to intensify across North, Northeast; heavy rain forecast for Delhi
+Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days
 
 ## Sonam Wangchuk’s wife moves Delhi HC, seeks his transfer to private hospital
 Alleges ‘illegal confinement’ at Safdarjung Hospital
 
-## SEBI empanels 18 more forensic auditors for listed company audits
-The newly selected firms are in addition to the list of forensic auditors published by SEBI in April 2025
+## Amit Shah reviews J&K flood situation; coordinates relief with LG Manoj Sinha, CM Omar Abdullah
+The district administration has urged the public to avoid visiting rivers, streams, and other flood-prone areas
+
+## Alembic Pharma partner NATCO gets USFDA tentative nod for generic Olaparib tablets; US market size at $1.4 bn
+Alembic Pharmaceuticals’ cumulative tally of USFDA ANDA approvals has risen to 244, comprising 224 final approvals and 20 tentative approvals
+
+## PV Sindhu stuns Yamaguchi to win maiden Japan Open title
+Sindhu raced to a 3-0 lead before a few unforced errors, coupled with some brilliant shot-making from Yamaguchi, allowed the Japanese to draw level at 3-3
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -90,53 +90,56 @@ IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. L
 ## Nobody wants to wait on hold anymore. But can AI replace customer care?
 
 
-## TMC rebel leader Sudip Bandyopadhyay meets PM Modi after Lok Sabha Speaker's nod
-TMC rebel leader Sudip Bandyopadhyay met PM Narendra Modi after the Lok Sabha Speaker approved separate seating for the breakaway group's 20 MPs.
+## Kerala minister promises uninterrupted power supply throughout FIFA World final match
+He had been holding daily review meetings with the KSEB Chairman and senior officials to monitor the power situation and ensure uninterrupted electricity supply
 
-## Manipur: Crystal meth worth ₹85 crore seized, suspected drug peddler arrested
-Security forces seized 6.2 kg of crystal meth worth ₹85 crore in Manipur’s Imphal West and arrested a suspected drug peddler in a joint operation.
+## 'Duty to invite everyone': Centre on Opposition storm over TMC rebels at all-party meeting
+The Opposition staged a symbolic walkout from the all-party meeting to protest the invitation extended to TMC rebels.
 
-## Sonam Wangchuk’s wife moves Delhi HC to transfer activist from Safdarjung Hospital, cites lack of trust
-Safdarjung Hospital stated on Sunday that Wangchuk is receiving the "required medical intervention" and that he requires continuous medical care.
+## Former PM Deve Gowda's wife Chennamma dies at 89, CM announces state honours
+Shivakumar announced that the government has decided to accord full state honours to Chennamma, keeping in mind she was the wife of a former PM.
 
-## 'Devotees feel betrayed': Rahul Gandhi, Kharge write to PM Modi, seek probe into Ram temple donation theft
-The Congress leaders said the matter had shaken public confidence and argued that the prime minister's silence was "unacceptable".
+## India-UK ties expected to stay the course with Andy Burnham as new PM: Reports
+Burnham, 56, was elected unopposed and will take over from Keir Starmer at Downing Street on Monday after the formal choreography of the handover of power.
 
-## 8 dead, six missing as flash floods, heavy rain batter J&K; Amarnath Yatra suspended, CM Omar cuts Delhi trip short
-The worst-affected in Poonch was Surankote tehsil, where authorities have deployed rescue teams and intensified relief operations to reach stranded residents.
+## Monsoon to intensify across North, Northeast India; IMD warns of heavy rain
+Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days.
 
-## Amit Shah reviews border security in West Bengal, unveils three BSF projects
-The visit formed part of Amit Shah’s three-day tour of West Bengal, during which he is reviewing security arrangements along the India-Bangladesh border
+## ‘F-word’ may be offensive, but not obscene: Supreme Court on abusive language
+The court used the case to draw a clear legal distinction between obscene speech, which is punishable, and vulgar or abusive speech.
 
-## 'Approval is illegal’: Sena-UBT after Speaker's nod to six rebel MPs merger with Shinde camp, says will challenge move
-Shiv Sena (UBT) will challenge the Lok Sabha Speaker's approval of six MPs' merger with the Shinde faction, calling it illegal.
+## Kerala declares holiday for schools on Monday over Argentina vs Spain FIFA World Cup final
+The decision came after football-loving students requested a holiday so they could stay up to watch Sunday's title clash.
 
-## Book Box: Anna Karenina to Na Hanyate: Who gets to tell a marriage story?
-From Tolstoy’s Anna Karenina to Maitreyi Devi’s Na Hanyate, a reflection on women’s voices, betrayal, patriarchy and the enduring struggle to tell their truths.
+## Manipur Police transfers 83 officers in major cadre reshuffle
+Manipur Police transferred 83 officers, including inspectors, in a major reshuffle across police stations, command units and specialised wings.
 
-## ‘I get physically uncomfortable’: Dheeraj Dhoopar labels Akanksha Chamola a ‘red flag’
-
-
-## Alaya F completes the 97 Hard challenge: ‘A love letter to myself’
+## What Israel’s new law exempting Haredi from IDF means for its society, politics
 
 
-## Two months in, Kerala CM V D Satheesan faces first signs of discontent
+## Rohit, Kohli set to become first Indian pair to play 400 matches together in Lord’s ODI
 
 
-## Most goals in FIFA World Cup Finals: Can Messi break Mbappe’s all-time record?
+## JEE scores can get you into these IIM UG programmes after Class 12
 
 
-## Plan to cut 4,000 trees for Bhaniyawala-Rishikesh road on hold, took ‘serious note of concerns’: CM Dhami
+## India vs England Live Score, 3rd ODI: Focus on Rohit Sharma as IND eye series win at Lord’s; Toss coming up
 
 
-## ‘Lot of people asked what’s happening? Career done? But I kept believing’: Sindhu
+## Dhamaal 4 box office collection: Ajay Devgn’s film set to cross the Rs 125 cr milestone
 
 
-## ‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe
+## NYC Mayor Mamdani explores legal options to arrest Netanyahu upon US arrival
 
 
-## US seeks pretrial detention of Jaggu Bhagwanpuria gang operative Nitish Kaushal
+## Rajarhat bomb blast: Bengal Police arrest prime suspect, NIA collects forensic samples
 
+
+## ‘Threw ink to protest insult to Hindu gods’: Woman who targeted CJP’s Abhijeet Dipke
+
+
+## Why China must end the lucrative marriage between property and banks
+Capital seeks sanctuary. In China’s property sector, however, that quest for safety had inadvertently erected a cage. The recent government takeover of Wuhan-based private lender Zhongbang Bank, expected to see a dilution of its private capital amid serious credit risks, is a calculated regulatory a
 
 ## Hong Kong’s secondary property market braces for shift after strong first half
 Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies. They cited the effects of Beijing’s crackdown on capital outflow, whi
@@ -158,9 +161,6 @@ Chinese electric vehicle maker Xpeng made its European ambitions clear on Thursd
 
 ## Airbus sells 55 aircraft – including 15 widebody A350s – to 2 Chinese airlines
 Airbus has secured an order for 55 aircraft from two Chinese airlines, including 15 widebody A350 jets, strengthening the European giant’s widebody sales in the world’s second-largest air transport market. Air China, one of the country’s three major state-owned carriers, announced the deal on Friday
-
-## Hong Kong’s office market: Central booms, but noncore areas struggle
-Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say. The reluctance of banks to finance commercial-property purchases has reinforced the split, a
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US bombs Iran for eighth-straight night
-The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.
+## Five people rescued after Indonesia boat sinks, at least 20 still missing
+The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.
 
-## Moment Iranian missiles hit airbase in Jordan killing US soldiers
-A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.
+## US launches new Iran strikes after two soldiers killed: What’s the latest?
+US strikes target Iran's IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.
 
-## At least one killed as Russian ballistic missiles hit Kyiv
-Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.
+## From settlements to blocked recovery: Israeli strategy taking shape in Gaza
+Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.
 
-## US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases
-Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.
+## Spain fans bring the party to New York before World Cup final
+‘King [Messi] abdicates, but the prince [Lamine Yamal] takes the throne!’
 
-## Somalia races to save Radio Mogadishu’s fading archive
-A small team is working to digitise decades of Somali history in the country's main public radio station.
+## Spain vs Argentina: World Cup final predictions, schedule, Messi news
+Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.
 
-## Tate brothers arrested in Miami on rape and sex trafficking charges
-Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.
+## Watch FIFA World Cup: Argentina, Spain make preparations ahead of final
+Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
 
-## FIFA World Cup 2026 sees major increase in goals from outside the box
-A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.
+## Spain vs Argentina: How each team can win World Cup final 2026
+Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.
 
-## ‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final
-La Roja's World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.
+## Israel demolishes Palestinian home in Masafer Yatta
+Israel demolishes Palestinian home in Masafer Yatta
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
