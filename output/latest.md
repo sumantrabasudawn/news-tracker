@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Boeing says it will be ready to fund new plane programme by 2030
+US group expects to have firepower to start work on 737 Max successor but warns that demand may be more of a constraint
+
+## Burnham’s British reboot begins
+‘King of the North’ comes south, ECB rate decision, Trump returns to a rescheduled White House correspondents’ dinner
+
 ## Burnham to maintain ban on North Sea exploration licences
 Decision criticised by oil and gas industry as well as trade union
 
@@ -18,9 +24,6 @@ If done right, radical decentralisation could boost UK productivity growth and l
 ## UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders
 Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport
 
-## How will the ECB respond to the latest rise in oil prices?
-Market Questions is the FT’s guide to the week ahead
-
 ## China’s Jingye demands payout over British Steel nationalisation
 UK government accused of disregarding group’s investment and offering ‘almost zero compensation’
 
@@ -32,9 +35,6 @@ Dynamic ticket pricing and hydration breaks were unpopular with fans but the boo
 
 ## No longer grim up north for UK banks as Burnham comes to power
 NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
-
-## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
-Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
 
 ## Armenia and Saudi Arabia among six nations eyeing India’s battle-tested Astra missiles
 Indonesia agreement fuels overseas demand for indigenous Astra air-to-air missiles
@@ -84,6 +84,9 @@ India's power sector anticipates sustained growth through fiscal year twenty twe
 ## ITR filing: Sold shares, property or crypto this year? Here's what you must know before filing your income tax return
 With the Income tax department increasingly using technology, data analytics, AIS, broker reports, mutual fund disclosures and overseas information exchange, filing an accurate ITR now requires not only correct tax computation but also complete and consistent reporting.
 
+## Section 163 imposed in parts of New Delhi ahead of CJP's Parliament march: What it means and what's prohibited?
+Police are maintaining constant surveillance in and around the protest site, while additional personnel have been stationed at strategic locations.
+
 ## Man kills wife, leaves her in a pool of blood at Delhi home; arrested after three-day chase
 Man arrested for allegedly killing his wife in Delhi's Seelampur. Police said he confessed, claiming the murder followed a dispute over an alleged affair
 
@@ -105,8 +108,20 @@ Wangchuk's wife alleged that his personal doctors, who had been monitoring his h
 ## 5 dead, four more missing after landslides in Nagaland’s Mon district
 Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
 
-## Sleeping on roof, an argument, then a fall: Husband dead, woman injured in Delhi
-Preliminary investigation revealed that the couple had dinner with the family around 9 pm and then went to sleep on the rooftop of the house.
+## Haaland’s Hermès to Ronaldo’s custom Gucci: Inside the luxury bags of football stars
+
+
+## ‘Right to raise voice peacefully’: Shabana Azmi joins CJP’s Jantar Mantar protest
+
+
+## FIFA World Cup 2026 Closing Ceremony LIVE: Post Malone takes centre stage as closing ceremony gets underway
+
+
+## ‘We could have been bombed’: Iran FM reveals what he told Trump’s envoy
+
+
+## Vishy Anand: ‘Feels like we’re all beating Gukesh on the head (with his bad form)’
+
 
 ## ‘Students deserve better’: CJP supporters hold protest in Pune backing Sonam Wangchuk
 
@@ -115,21 +130,6 @@ Preliminary investigation revealed that the couple had dinner with the family ar
 
 
 ## Chandigarh consumes 38,000 liquor bottles a day, whisky leads the way
-
-
-## FIR against contractor, others in Mira Road crane collapse death
-
-
-## With the axe hanging, Rohit Sharma’s Lord’s innings says he isn’t done
-
-
-## Travelling by train with diabetes? Expert shares 4 safe snack options
-
-
-## Why did the draw against Nodirbek Abdusattorov made D Gukesh feel better
-
-
-## Russia or China behind Iran’s deadly strike on key US base? Report raises questions
 
 
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
@@ -252,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners
+Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.
+
 ## Syria’s Al-Sharaa reshuffles security and intelligence leadership
 Government says the shake-up will strengthen security and clear the way for reconstruction.
 
@@ -272,9 +275,6 @@ Climate advocate Mina Hasman’s vision of designing cities that behave like for
 
 ## Tate brothers arrested in the US
 Video shows the moment controversial influencer brothers Andrew Tate and Tristan Tate were arrested in Miami, US.
-
-## Spain vs Argentina LIVE: FIFA World Cup 2026 final
-Live coverage and text updates as Spain play Argentina in the final of the 2026 World Cup.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
