@@ -3,68 +3,68 @@
 ## US strikes Iran after two American troops are killed in Jordan
 Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states
 
-## Burnham scraps new digital ID scheme
-Incoming prime minister says money saved will go towards tackling cost-of-living crisis
+## No longer grim up north for UK banks as Burnham comes to power
+NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
 
-## Trump to fund Maga-aligned projects in Europe as he reorders US aid
-Objectives include countering ‘censorship’ from EU regulations and supporting ‘national sovereignty’
+## How Maga fell hard for the gender binary
+Pete Hegseth’s championing of testosterone for troops is the latest manifestation of the rightwing movement’s aesthetic
 
-## Surrogacy controversy sparks resignation of Merz’s parliamentary leader
-CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father
+## Chinese leaders zero in on need for stimulus for economy
+Policymakers expected to prioritise spurring high-tech rather than ‘big bang’ for consumption, analysts say
 
-## Law firms brace for second fight with Trump over capitulation deals
-Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago
+## Xpeng says China close to building ‘killer’ rival to Tesla Model Y
+Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China
 
-## Traders are increasingly betting against SpaceX just weeks after IPO
-Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time
+## Can an ‘unelected’ prime minister succeed?
+Andy Burnham will take power without winning an election. So have most other recent British prime ministers
 
-## Zelenskyy considers sacking commander-in-chief as protests swell
-Crisis engulfs military after Ukrainian president dismissed his popular defence minister
+## Why ‘rightwing’ is no longer such a dirty word in Britain
+When words like fascist and Nazi are thrown around, being merely conservative seems mild by comparison
 
-## The tranquil spot in rural Ireland accused of fuelling Russia’s war
-Aughinish Alumina plant linked to sanctioned oligarch Oleg Deripaska faces increasing scrutiny but locals fear for jobs
+## The art of knowing when to step down
+Only a few master one of the hardest career tricks of them all
+
+## Defence giants to maintain grip on weapons market despite drone boom
+Report finds industry’s ‘primes’ will still account for 80% of global sales well into the next decade
+
+## AI should have senior lawyers sharpening their hunting spears
+More adoption of artificial intelligence will lead to more calls to cut fees
+
+## Luxury groups face inventory squeeze under EU destruction ban
+Ban particularly sensitive for industry that keeps products desirable by maintaining their scarcity
+
+## Job crisis leaves newly qualified nurses struggling to secure roles
+A recruitment freeze and lack of NHS workforce planning mean graduates are fighting over fewer vacancies
+
+## Singapore weighs hedge fund tax cuts to rival Hong Kong
+City-state frets over portfolio managers relocating to Chinese territory
 
 ## Telecom Italia backs Poste Italiane takeover bid
 Cash and paper offer would give state-controlled postal service full control of telecoms group
 
-## Rise of delivery apps takes a bite out of sales for Big Pizza
-Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field
+## Delhi to add 2,800 AC electric buses under PM E-Drive scheme
+Public transport fleet to expand to 14,000 buses by 2028-29
 
-## Is the hyper-commercial World Cup here to stay?
-Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever
+## IIM Kozhikode opens Kochi campus, launches Urban Learning Centre
+The campus is designed to deliver globally benchmarked, technology-enabled management education and foster stronger engagement with industry and professionals in the region
 
-## Britain’s system for avoiding electricity blackouts faces scrutiny
-National Energy System Operator’s task made more difficult by climate change and increasing use of renewables
+## "Clear war crime": Iraninan Embassy in India condemns US strikes on Chabahar Port
+In a post on X, CENTCOM said that the attack took place on Thursday as part of its continued military strikes on the Islamic Republic, now targeting civilian infrastructure
 
-## The London IPO market isn’t as bad as it looks
-It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021
+## Equity norms under Semicon 2.0 to drive investment for advance chips design by Indian cos: IT Secy
+The government has not announced a cap for investment in advance chip design by Indian firms. It will provide incentive to Indian chip companies in the form of grant and equity or link it to royalty base payment
 
-## Asia AI bets power record equities run for Wall Street banks
-Investments in semiconductors fuel growth in regional revenues for US banks
+## Container traffic to grow 7-9% as major ports outpace non-majors; POL, coal and iron ore trends diverge
+Coal traffic is likely to post a compounding decline of 2-4% as domestic production and renewables rise, while iron ore traffic is expected to recover at a 5-7% CAGR during FY26-FY28 on higher coastal movement
 
-## JK Cement Q1 profit declines 15.3%
-Revenue from operations down over 20% y-o-y
+## Downstream aluminium industry says duty structure hurting competitiveness, seeks relief
+The associations said India’s per capita aluminium consumption at 2.5 kg remains well below the global average of 11 kg, but the bigger concern is the sharp rise in input costs
 
-## From farm to plate: The growing influence of ingredient-first dining
-Where an ingredient came from might start the conversation, but taste is what people actually remember
+## Sonam Wangchuk’s wife moves Delhi HC, seeks his transfer to private hospital
+Alleges ‘illegal confinement’ at Safdarjung Hospital
 
-## Centre extends exemption for select RE projects from sourcing solar cells from ALMM-listed manufacturers
-The Ministry said the limited ALMM relief will protect manufacturers’ investments, support domestic solar production, and ensure a smoother transition to sourcing solar PV cells from ALMM-listed manufacturers
-
-## Why, at 42.79%, record RE penetration is as much a cause for worry as cheer
-Beyond installing more solar panels and wind turbines, an urgent need is to make the electricity system flexible
-
-## AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
-AI-Powered Connectivity: APAC Charts a Path to a Smarter Digital Future
-
-## HDFC, Axis and Kotak Bank vs global banks: The valuation boomerang investors missed
-Large banks in low-growth developed economies trumped leaders in high-growth Indian economy
-
-## HDFC Bank Q1 profit up 5%; CEO signals growth push says bank is ‘on the cusp of pressing the pedal’
-The bank’s net profit rose by about 10% this quarter after adjusting last year’s profit for HDB Financial Services’ IPO gains, provisions, and tax credits
-
-## Why the time is ticking for oil reserves
-The market absorbed the first Hormuz disruption by drawing down inventories and tapping spare capacity. Those stockpiles are now thinner, leaving crude prices more vulnerable to another supply shock
+## SEBI empanels 18 more forensic auditors for listed company audits
+The newly selected firms are in addition to the list of forensic auditors published by SEBI in April 2025
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -90,53 +90,56 @@ IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. L
 ## Nobody wants to wait on hold anymore. But can AI replace customer care?
 
 
+## TMC rebel leader Sudip Bandyopadhyay meets PM Modi after Lok Sabha Speaker's nod
+TMC rebel leader Sudip Bandyopadhyay met PM Narendra Modi after the Lok Sabha Speaker approved separate seating for the breakaway group's 20 MPs.
+
+## Manipur: Crystal meth worth ₹85 crore seized, suspected drug peddler arrested
+Security forces seized 6.2 kg of crystal meth worth ₹85 crore in Manipur’s Imphal West and arrested a suspected drug peddler in a joint operation.
+
+## Sonam Wangchuk’s wife moves Delhi HC to transfer activist from Safdarjung Hospital, cites lack of trust
+Safdarjung Hospital stated on Sunday that Wangchuk is receiving the "required medical intervention" and that he requires continuous medical care.
+
+## 'Devotees feel betrayed': Rahul Gandhi, Kharge write to PM Modi, seek probe into Ram temple donation theft
+The Congress leaders said the matter had shaken public confidence and argued that the prime minister's silence was "unacceptable".
+
+## 8 dead, six missing as flash floods, heavy rain batter J&K; Amarnath Yatra suspended, CM Omar cuts Delhi trip short
+The worst-affected in Poonch was Surankote tehsil, where authorities have deployed rescue teams and intensified relief operations to reach stranded residents.
+
+## Amit Shah reviews border security in West Bengal, unveils three BSF projects
+The visit formed part of Amit Shah’s three-day tour of West Bengal, during which he is reviewing security arrangements along the India-Bangladesh border
+
+## 'Approval is illegal’: Sena-UBT after Speaker's nod to six rebel MPs merger with Shinde camp, says will challenge move
+Shiv Sena (UBT) will challenge the Lok Sabha Speaker's approval of six MPs' merger with the Shinde faction, calling it illegal.
+
 ## Book Box: Anna Karenina to Na Hanyate: Who gets to tell a marriage story?
 From Tolstoy’s Anna Karenina to Maitreyi Devi’s Na Hanyate, a reflection on women’s voices, betrayal, patriarchy and the enduring struggle to tell their truths.
 
-## Sonam Wangchuk ‘refusing’ treatment, ‘no’ permit to July 20 march: Top 10 updates on CJP protest
-CJP spokesperson Vaishnavi Gaur rejected the police version. “We had intimated them about the march way back. They know very well about the march and our plans”
-
-## 'India's 2nd freedom movement': Sonam Wangchuk's message from 'illegal detention' at Safdarjung
-In a message from his “illegal detention” at Safdarjung hospital, Wangchuk called this movement India's “second freedom movement.”
-
-## Just Like That: The Republic of the Unconcerned
-India’s bystander culture is costing lives as road accident victims, assault survivors, ambulance patients are denied timely help despite Good Samaritan laws
-
-## 59.95% students improve scores in CBSE’s Class 10 2nd board exam results
-The overall pass percentage in the Class 10 board examinations rose to 96
-
-## Tripura: 75-year-old man held for sexually harassing daughter-in-law
-Tripura police arrested a 75-year-old father-in-law in Gomati over alleged sexual harassment of his daughter-in-law and are investigating abetment of suicide.
-
-## Sonam Wangchuk news LIVE: Wife Geetanjali seeks HC intervention; warns 'if anything happens to him...'
-Sonam Wangchuk news LIVE: Senior Delhi Police officers said the proposed march would not be allowed because it could disrupt law and order in one of the capital's most sensitive security zones.
-
-## 'We should trust country's youth': Vikram-1 achieves India's first private orbital launch
-India entered the private orbital launch club as Skyroot's Vikram-1 successfully placed four payloads into low-Earth orbit.
-
-## ‘What’s wrong with holding discussions?’: Anna Hazare says Centre should not test Wangchuk’s limits
+## ‘I get physically uncomfortable’: Dheeraj Dhoopar labels Akanksha Chamola a ‘red flag’
 
 
-## Pune’s elevated roads to use Malaysian UHPFRC tech, will need fewer pillars: Gadkari
+## Alaya F completes the 97 Hard challenge: ‘A love letter to myself’
 
 
-## Watch: How a Chhattisgarh man rescued a stranded woman on a flooded road
+## Two months in, Kerala CM V D Satheesan faces first signs of discontent
 
 
-## The one-kanal miracle: from 1/8 of an acre, Moga farmer’s pigs earn him Rs 61 lakh per annum
+## Most goals in FIFA World Cup Finals: Can Messi break Mbappe’s all-time record?
 
 
-## India win five gold, three silver medals at the International Chemistry and Biology Olympiads
+## Plan to cut 4,000 trees for Bhaniyawala-Rishikesh road on hold, took ‘serious note of concerns’: CM Dhami
 
 
-## Christopher Nolan’s The Odyssey crosses Rs 39.4 cr in India; earns over $257.8M worldwide
+## ‘Lot of people asked what’s happening? Career done? But I kept believing’: Sindhu
 
 
-## Why Kajal Aggarwal doesn’t give her child store-bought milk: ‘Stopped when he was 1 year old’
+## ‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe
 
 
-## ‘Eyes say it all’: Yash on Ranbir Kapoor and Sai Pallavi’s ‘magic’ in Ramayana
+## US seeks pretrial detention of Jaggu Bhagwanpuria gang operative Nitish Kaushal
 
+
+## Hong Kong’s secondary property market braces for shift after strong first half
+Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies. They cited the effects of Beijing’s crackdown on capital outflow, whi
 
 ## Wealthy European clients eye Hong Kong for family offices, says BNP Paribas
 BNP Paribas, France’s largest lender and the second-largest in Europe, has found that an increasing number of wealthy European clients are seeking to establish family offices in Hong Kong to capitalise on growing opportunities in the region, according to a banker from the lender. A growing number of
@@ -158,9 +161,6 @@ Airbus has secured an order for 55 aircraft from two Chinese airlines, including
 
 ## Hong Kong’s office market: Central booms, but noncore areas struggle
 Hong Kong’s office market is becoming increasingly divided, with demand returning to prime business districts while noncore areas remain weighed down by weak leasing activity and scarce buyers, analysts say. The reluctance of banks to finance commercial-property purchases has reinforced the split, a
-
-## Shein passes hearing for Hong Kong listing as valuation halves to below US$50b, sources say
-Online fast-fashion giant Shein has cleared its listing hearing with the Hong Kong stock exchange, according to people familiar with the matter, bringing it a step closer to an initial public offering (IPO) after attempts to float in New York and London stalled. The Singapore-headquartered company, 
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -258,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US bombs Iran for eighth-straight night
+The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.
+
+## Moment Iranian missiles hit airbase in Jordan killing US soldiers
+A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.
+
+## At least one killed as Russian ballistic missiles hit Kyiv
+Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.
+
+## US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases
+Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.
+
 ## Somalia races to save Radio Mogadishu’s fading archive
 A small team is working to digitise decades of Somali history in the country's main public radio station.
 
@@ -269,18 +281,6 @@ A trend of teams defending deep has enticed forwards to take shots from outside 
 
 ## ‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final
 La Roja's World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.
-
-## Palestinian teenage footballer dies after Israeli settler attack
-Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.
-
-## Tate brothers arrested in Miami as UK adds rape, trafficking charges
-Andrew and his brother Tristan were arrested in the US on Saturday, and the UK is seeking their extradition.
-
-## WNBA coach Brondello suspended over inappropriate comment at Angel Reese
-Brondello suspended for a game after calling Reese a 'protected species' in Toronto Tempo's game against Atlanta Dream.
-
-## FIFA admits hydration breaks may not continue after World Cup criticism
-FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
