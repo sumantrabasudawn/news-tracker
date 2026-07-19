@@ -12,7 +12,7 @@ Objectives include countering ‘censorship’ from EU regulations and supportin
 ## Surrogacy controversy sparks resignation of Merz’s parliamentary leader
 CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father
 
-## Big Law braces for second fight with Trump over capitulation deals
+## Law firms brace for second fight with Trump over capitulation deals
 Department of Justice tells top firms their leaders must sit for depositions over agreements they reached over a year ago
 
 ## Traders are increasingly betting against SpaceX just weeks after IPO
@@ -42,6 +42,15 @@ It is easy to look enviously at New York, but the UK is on course to enjoy its b
 ## Asia AI bets power record equities run for Wall Street banks
 Investments in semiconductors fuel growth in regional revenues for US banks
 
+## JK Cement Q1 profit declines 15.3%
+Revenue from operations down over 20% y-o-y
+
+## From farm to plate: The growing influence of ingredient-first dining
+Where an ingredient came from might start the conversation, but taste is what people actually remember
+
+## Centre extends exemption for select RE projects from sourcing solar cells from ALMM-listed manufacturers
+The Ministry said the limited ALMM relief will protect manufacturers’ investments, support domestic solar production, and ensure a smoother transition to sourcing solar PV cells from ALMM-listed manufacturers
+
 ## Why, at 42.79%, record RE penetration is as much a cause for worry as cheer
 Beyond installing more solar panels and wind turbines, an urgent need is to make the electricity system flexible
 
@@ -56,15 +65,6 @@ The bank’s net profit rose by about 10% this quarter after adjusting last year
 
 ## Why the time is ticking for oil reserves
 The market absorbed the first Hormuz disruption by drawing down inventories and tapping spare capacity. Those stockpiles are now thinner, leaving crude prices more vulnerable to another supply shock
-
-## National awards: ‘Article 370’ named best feature film; actors Mammotty, Yami Gautam, Kartik Aaryan win honours
-Blockbuster films like Kalki 2898 AD, Amaran, Pushpa: The Rule Part-02 and Stree 2, also bagged major awards
-
-## ICICI Bank posts 16 per cent growth in Q1 profit at ₹14,805 crore; NIM remains stable
-India’s second largest private sector bank had recorded a net profit of Rs ₹12,768 crore in the year ago period
-
-## Punjab National Bank Q1 net profit surges over three-fold to ₹5,200 crore
-Quarterly provisions increased to ₹541 crore from ₹424 crore in March, while fresh slippage fell to ₹2,080 crore from ₹2,758 crore
 
 ## Making waves underground: India's first undersea rail tunnel takes shape
 India's first undersea rail tunnel excavation has commenced for the bullet train project. A giant Tunnel Boring Machine began its journey beneath Thane Creek on Saturday. This marks the start of excavation on the seven-kilometer undersea stretch. The machine is among the largest ever used for rail t
@@ -90,53 +90,59 @@ IDBI Bank reported a 3.3% rise in standalone net profit for June 2026 quarter. L
 ## Nobody wants to wait on hold anymore. But can AI replace customer care?
 
 
-## Om Birla gives nod to merger of Uddhav rebels with Shinde Sena, TMC rebels with NCPI
-The changes come ahead of the all-party meeting on Sunday morning and the monsoon session from Monday onwards.
+## Book Box: Anna Karenina to Na Hanyate: Who gets to tell a marriage story?
+From Tolstoy’s Anna Karenina to Maitreyi Devi’s Na Hanyate, a reflection on women’s voices, betrayal, patriarchy and the enduring struggle to tell their truths.
 
-## Ex-lover stabs Nashik woman to death, tells fiance in chilling call
-Residents rushed to the spot after hearing her screams, but the accused managed to flee. The woman died at the scene.
+## Sonam Wangchuk ‘refusing’ treatment, ‘no’ permit to July 20 march: Top 10 updates on CJP protest
+CJP spokesperson Vaishnavi Gaur rejected the police version. “We had intimated them about the march way back. They know very well about the march and our plans”
 
-## CBSE Class 10 Second Board 2026 results announced: Check steps to download marksheet
-Check how to download CBSE Class 10 second board result on DigiLocker
+## 'India's 2nd freedom movement': Sonam Wangchuk's message from 'illegal detention' at Safdarjung
+In a message from his “illegal detention” at Safdarjung hospital, Wangchuk called this movement India's “second freedom movement.”
 
-## CBSE Class 10 pass percentage rises to 96.78% after second board exam; over one-fourth of students took improvement test
-CBSE announced the results of the Class 10 Second Board Examination 2026 on Saturday. Students can check their results via DigiLocker.
+## Just Like That: The Republic of the Unconcerned
+India’s bystander culture is costing lives as road accident victims, assault survivors, ambulance patients are denied timely help despite Good Samaritan laws
 
-## NGT orders sealing of chromium-tainted wells in Odisha’s Sukinda
-The Sukinda valley in Jajpur district holds roughly 97% of India’s chromite reserves and supplies 100% of the country’s domestic chrome ore production
+## 59.95% students improve scores in CBSE’s Class 10 2nd board exam results
+The overall pass percentage in the Class 10 board examinations rose to 96
 
-## First given milk laced with sleeping pills, then bitten by a snake: Inside the Meerut murder plot
-Police have arrested four people, including the victim's wife, her alleged lover and two snake charmers, in connection with the murder case.
+## Tripura: 75-year-old man held for sexually harassing daughter-in-law
+Tripura police arrested a 75-year-old father-in-law in Gomati over alleged sexual harassment of his daughter-in-law and are investigating abetment of suicide.
 
-## In Srinagar, books drew bigger crowds than the summer heat could deter | Mega Chinar Book Festival inaugurated
-At the Chinar Book Festival, Jammu and Kashmir's largest literary celebration, thousands are expected to gather to embrace reading.
+## Sonam Wangchuk news LIVE: Wife Geetanjali seeks HC intervention; warns 'if anything happens to him...'
+Sonam Wangchuk news LIVE: Senior Delhi Police officers said the proposed march would not be allowed because it could disrupt law and order in one of the capital's most sensitive security zones.
 
-## Nagaland celebrates the World Cup: Mass screenings, mini-tournaments, flags, cut-outs
-Football is not just celebrated during FIFA World Cup though. It starts from the village level tournaments
+## 'We should trust country's youth': Vikram-1 achieves India's first private orbital launch
+India entered the private orbital launch club as Skyroot's Vikram-1 successfully placed four payloads into low-Earth orbit.
 
-## Do men really lose weight faster than women?
-
-
-## 2 US troops killed, 1 missing in Jordan as Iran strikes Washington allies across the Gulf
+## ‘What’s wrong with holding discussions?’: Anna Hazare says Centre should not test Wangchuk’s limits
 
 
-## Bellingham becomes first England player to score 7 goals in single World Cup
+## Pune’s elevated roads to use Malaysian UHPFRC tech, will need fewer pillars: Gadkari
 
 
-## Before Sonam Wangchuk, a look at India’s iconic fasts: Gandhi, Bhagat Singh to Sriramulu, Irom Sharmila
+## Watch: How a Chhattisgarh man rescued a stranded woman on a flooded road
 
 
-## Mbappe pips Messi in Golden Boot race, all-time leading World Cup scorers’ list
+## The one-kanal miracle: from 1/8 of an acre, Moga farmer’s pigs earn him Rs 61 lakh per annum
 
 
-## US-Iran War News Live Updates: US renews strikes on Iran after two military personnel were killed by Iranian attack
+## India win five gold, three silver medals at the International Chemistry and Biology Olympiads
 
 
-## Hunger strike taking a toll, but Wangchuk refusing medical help: Safdarjung bulletin
+## Christopher Nolan’s The Odyssey crosses Rs 39.4 cr in India; earns over $257.8M worldwide
 
 
-## Anurag Kumar’s 1st directive as Delhi Police Chief: Zero tolerance for corruption
+## Why Kajal Aggarwal doesn’t give her child store-bought milk: ‘Stopped when he was 1 year old’
 
+
+## ‘Eyes say it all’: Yash on Ranbir Kapoor and Sai Pallavi’s ‘magic’ in Ramayana
+
+
+## Wealthy European clients eye Hong Kong for family offices, says BNP Paribas
+BNP Paribas, France’s largest lender and the second-largest in Europe, has found that an increasing number of wealthy European clients are seeking to establish family offices in Hong Kong to capitalise on growing opportunities in the region, according to a banker from the lender. A growing number of
+
+## Tourism appeal adds to Australia’s edge in drawing mainland Chinese, Hong Kong homebuyers
+Australia’s tourism appeal and property price correction are reinforcing the case for mainland Chinese and Hong Kong investors to buy homes down under, according to agents. Education had long been a major draw for many mainland and Hong Kong buyers, but the country’s tourist attractions, relaxed lif
 
 ## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
 Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capitalisation, has sold out the first batch of units at its Garden Regency project in the New Territories on Saturday, according to agents. By 3.30pm, all 138 flats the developer had launched in the Kam Tin North project in Yue
@@ -155,12 +161,6 @@ Hong Kong’s office market is becoming increasingly divided, with demand return
 
 ## Shein passes hearing for Hong Kong listing as valuation halves to below US$50b, sources say
 Online fast-fashion giant Shein has cleared its listing hearing with the Hong Kong stock exchange, according to people familiar with the matter, bringing it a step closer to an initial public offering (IPO) after attempts to float in New York and London stalled. The Singapore-headquartered company, 
-
-## Agentic AI: the next battleground for Chinese brands
-China’s companies have mastered social media marketing playbooks. Now, they must learn to win the trust of artificial intelligence (AI) agents that will increasingly shape what consumers discover, consider and ultimately buy. These personal concierges are starting to determine the best choices for e
-
-## How China’s resources deals have turned into a gold mine – literally
-Chinese gold producers have embarked on a wave of overseas acquisitions in recent years, snapping up mines in countries ranging from Kenya to Colombia. Now, they are reaping the rewards as sky-high gold prices lift their earnings. Prices for the precious metal soared to record highs last year and re
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms
-Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.
+## Somalia races to save Radio Mogadishu’s fading archive
+A small team is working to digitise decades of Somali history in the country's main public radio station.
 
-## A giant cake for Venezuelan quake child survivors as death toll passes 5000
-Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes
+## Tate brothers arrested in Miami on rape and sex trafficking charges
+Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.
 
-## Netanyahu declares support for Argentina ahead of World Cup final
-Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.
+## FIFA World Cup 2026 sees major increase in goals from outside the box
+A trend of teams defending deep has enticed forwards to take shots from outside the penalty area, Jurgen Klinsmann says.
 
-## Iran war live: US launches new strikes; Trump mourns killed soldiers
-US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.
+## ‘Spanish style’ wins over New York’s die-hard World Cup fans ahead of final
+La Roja's World Cup success has built a new coalition of loyal and recently converted Spanish fans across New York City.
 
-## Saka hat-trick helps England down France to win World Cup 2026 Bronze Final
-Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.
+## Palestinian teenage footballer dies after Israeli settler attack
+Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.
 
-## Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal
-Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.
+## Tate brothers arrested in Miami as UK adds rape, trafficking charges
+Andrew and his brother Tristan were arrested in the US on Saturday, and the UK is seeking their extradition.
 
-## World Cup final tickets near $2.3m mark on FIFA’s resale platform
-While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.
+## WNBA coach Brondello suspended over inappropriate comment at Angel Reese
+Brondello suspended for a game after calling Reese a 'protected species' in Toronto Tempo's game against Atlanta Dream.
 
-## Cockroach Party protest intensifies after Wangchuk forcibly hospitalised
-Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.
+## FIFA admits hydration breaks may not continue after World Cup criticism
+FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
