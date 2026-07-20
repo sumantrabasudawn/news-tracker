@@ -1,67 +1,85 @@
 # AION Intelligence
 
-## US launches fresh Iran strikes as death toll climbs
-A service member died in a ‘controlled detonation’ of a drone after two soldiers were killed in Jordan with another missing
+## Oil returns above $90 as Iran hits tankers
+US carries out fresh wave of attacks as the number of American casualties rises
 
-## The AI revolution takes on the world’s most cyclical industry
-Massive investment plans lead to investor fears of a new boom and bust in memory chips
+## FirstFT: Burnham weighs Number 10 overhaul
+Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
 
-## Spain beat Argentina to win World Cup for second time
-Extra-time winner from Ferran Torres is decisive moment in tight but completely one-sided final
+## Sinaloa cartel founder set for $15bn forfeiture order and life sentence
+‘El Mayo’, who co-founded cartel alongside ‘El Chapo’, is expected to be sentenced to life in prison
 
-## FirstFT: Singapore weighs tax cuts for fund managers to rival Hong Kong
-Also in today’s newsletter: US-Iran war expands and EU faces crumbling support for new Russia sanctions
+## UK pension insurers raise exposure to opaque private credit
+S&P warns on hard-to-price private assets that make up more than 10% of portfolios at L&G, Standard Life and Just Group
 
-## Andy Burnham plans beefed-up control centre in Downing Street
-Incoming prime minister wants to be less reliant on ‘imperial’ Treasury as he bids to restore confidence in government
+## Burnham urged to use flexibility in fiscal rules to boost investment
+Incoming prime minister could mobilise an extra £16bn for infrastructure over remainder of the decade
 
-## Boeing says it will be ready to fund new plane programme by 2030
-US group expects to have firepower to start work on 737 Max successor but warns that demand may be more of a constraint
+## Burnham must remember the first rule of government
+The biggest mistake of all would be to imagine the country enjoys a free fiscal lunch. In fact, it only has hard choices
 
-## Burnham’s British reboot begins
-‘King of the North’ comes south, ECB rate decision, Trump returns to a rescheduled White House correspondents’ dinner
+## The man running against Benjamin Netanyahu
+Former military chief Gadi Eisenkot is the main opponent to Israel’s divisive premier ahead of October election
 
-## Burnham to maintain ban on North Sea exploration licences
-Decision criticised by oil and gas industry as well as trade union
+## Iran’s currency tumbles as renewed conflict threatens economy
+US blockades ports and targets infrastructure as Donald Trump tries to force Tehran’s hand over Strait of Hormuz
 
-## EU faces crumbling support for new Russia sanctions
-National capitals refuse to support measures that could hurt big companies
+## An odyssey through Metlen’s interconnected solar empire
+Because sunlight is the best disinfectant
 
-## UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders
-Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport
+## Coffee drinkers turning to whole beans as prices soar, says Lavazza
+Chair of Italian family-owned group says consumers are opting for ‘less but better’
 
-## China’s Jingye demands payout over British Steel nationalisation
-UK government accused of disregarding group’s investment and offering ‘almost zero compensation’
+## AstraZeneca highlights rare diseases in $80bn revenue push
+Chief executive of subsidiary Alexion says rare disease medicine is a largely untapped area
 
-## GameStop extends pursuit of eBay despite Wall Street scepticism
-Video game retailer doubles stake in online marketplace as chief executive Ryan Cohen presses ahead with quixotic deal
+## UK consumers paid to cut electricity use to help manage grid
+The energy system operator is increasingly turning to households and businesses to better balance supply and demand
 
-## Is Fifa’s hyper-commercialised World Cup here to stay?
-Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
+## Ode to the convertible
+Sales are plummeting, but there’s still nothing sexier than an open-top adventure
 
-## Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres’ goal
-Spain dominated throughout before Ferran Torres struck in extra time to beat 10-man Argentina 1-0, becoming the first nation to simultaneously hold both the men’s and women’s FIFA World Cup titles
+## Surge in ransomware hacks deepens divide over whether to pay
+Governments look at banning ransom payments as organisations face increasingly sophisticated threats
 
-## France’s Kylian Mbappé secures second World Cup Golden Boot with 10 goals
-Kylian Mbappé became the first player to finish as the top scorer at multiple World Cups, while Lionel Messi missed out after Argentina’s 1-0 extra-time defeat to Spain in the final
+## South Korea's share market losses deepen as leveraged AI bets take a heavy toll
+KOSPI fell as much as 4.7% as traders returned after a long ‌weekend
 
-## JD Vance and Usha Vance welcome fourth child, first born to a sitting US vice president in over 150 years
-The arrival of the couple’s fourth child comes as JD Vance remains a vocal advocate for higher birth rates and bigger families in the US
+## Bank Stocks Underperform: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline
+In today’s session, ICICI Bank shares rose 2.4% to ₹1,480 on the NSE after reporting healthy earnings growth backed by higher net interest income, non-interest income and lower provisions
 
-## We try to make people’s quality of lives better: TMF’s Pras Ganesh
-Ganesh emphasised that this project reflects Toyota’s broader mission to improve lives, transcending traditional corporate social responsibility.
+## Dhanlaxmi Bank eyes revenue milestone to mark centenary year
+Temple-linked lender aims for ₹50,000 crore business by 2027 after three-digit net profit last year
 
-## Layering trust over AI-led fintech
-Why Beams Fintech Fund profitability sees governance and AI usage as the defining metrics for fintech startups
+## Sensex today | Stock Market Live: Sensex down 500 pts, Nifty holds 24,200 dragged by banking stocks; Brent crude tops $90 amid US-Iran war
+Sensex, Nifty, Share Prices Live Updates: At 10:00, Sensex dropped 576.84 points (-0.74%) to 77,574.61, while Nifty was down 152.00 points (-0.62%) to 24,182.30
 
-## AI and colour-coded wayfinding solutions to manage crowds at Varanasi
-Toyota Mobility Foundation’s Sustainable Cities Challenge unearths exciting innovations to solve the holy city’s chronic crowd problem
+## Oil tanker appears to halt in Hormuz after Iran targets vessels
+The Kavomaleas, a products tanker, signalled early Monday near the tip of the Musandam Peninsula, indicating that it was anchored and empty
 
-## Inox Clean jumpstarts green growth
-Inox Clean has spent over ₹25,000 crore in the past year on buyouts to build a global clean energy platform
+## Brent crude trades above $90 a barrel on escalating US-Iran hostilities
+September Brent oil futures were at $90.33, up by 2.53%, and September crude oil futures on WTI (West Texas Intermediate) were at $83.63, up by 2.26%
 
-## Inside L&T Vyoma’s AI factory in Chennai
-The digital infrastructure arm of L&T is competing hard in the AI data centre race, leveraging its parent’s engineering capabilities
+## Q1 Results Today Live: UltraTech, Paytm, IOB, KVB, Shyam Metalics, Sobha, JP Power, Bluestone to announce Q1 results, RIL & ICICI Bank gain after Q1, HDFC Bank, Kotak Mahindra, Axis Bank shares fall
+Q1 Results Today, 20th July 2026 Live Updates:
+
+## Nifty Prediction Today – July 20, 2026: Nifty 50 Futures: Support can limit the downside; go long on dips
+Nifty 50 July Futures contract can bounce back from the 24,100-24,080 support zone
+
+## US import prices up 7.1% in June, highest annual gain since August 2022
+United States import prices saw an unexpected rise in June. Nonfuel import costs increased, offsetting lower fuel prices during the month. Industrial supplies and materials became more expensive, driven by chemicals and finished nonmetals. Fuel prices showed mixed movements, with petroleum falling a
+
+## Stock market today: BSE Sensex tumbles over 670 points, NSE Nifty50 trades below 24,200
+
+
+## Top stocks to buy: Stock recommendations for July 20, 2026 week - check list
+Stock market recommendations: Saatvik Green Energy, and Unimech Aerospace - Motilal Oswal Wealth Management Research Desk has picked these as the top stocks to buy for the week starting July 20, 2026:
+
+## Gold, Silver Rate Today Live Updates: International gold slips as Middle East tensions push crude higher
+
+
+## Oil prices jump 3% as US-Iran conflict intensifies, Brent crude tops $90 per barrel
+Oil prices climbed significantly as United States and Iran conflict intensified. Shipping through the Strait of Hormuz faced increasing pressure and disruptions. US military actions continued for a ninth consecutive night against Iran. Bahrain and Kuwait reported fresh missile and drone strikes acro
 
 ## More brands in store, but price cuts may lag
 New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues 
@@ -72,68 +90,65 @@ New British brands are expected to enter Indian markets, offering consumers more
 ## Apple raises subscription prices in India
 
 
-## Industry seeks changes to Companies Bill
-The corporate sector proposes changes to the Companies Act amendment bill. Industry executives seek greater flexibility in conducting general meetings. Proposals related to auditor cooling-off periods are causing significant concern. Firms argue these changes could limit professional capabilities an
+## Wangchuk’s wife challenges HC order disallowing his transfer to private hospital
+Gitanjali Agmo’s petition was expected to be mentioned before a bench of Chief Justice DK Upadhyaya and Justice Tejas Karia at 10:30am
 
-## Government may seek Parliamentary nod for additional spending
-Finance Minister Nirmala Sitharaman may seek parliamentary approval for additional spending. Increased expenditure on fertiliser subsidies and electronics manufacturing initiatives is driving this need. GST and direct tax revenues remain on track, and DIPAM is pushing for additional realisations. Th
+## Smart City Mission funds likely to run out by September, hubs under strain
+16 months after the Smart Cities Mission officially ended in March 2025 with the cessation of central funding, that digital backbone is under severe strain.
 
-## Private bank chiefs temper NRI deposit mop-up expectations; Top lenders stay cautious, say several factors affect inflows
+## 'Keep it peaceful, carry a rose and...': Abhijeet Dipke's message as CJP prepares for Sansad March
+The Boston University graduate also warned of attempts to disrupt the march and called on supporters to stay alert and vigilant.
 
+## Sonam Wangchuk's wife moves Delhi HC again over activist's hospital transfer; hearing at 10:30 am
+Gitanjali Angmo's petition will be mentioned before a bench of chief justice DK Upadhyaya and justice Tejas Karia at 10:30 am on Monday, for urgent listing.
 
-## Top-5 valued firms add Rs 1.54 lakh crore in market cap; TCS emerges biggest gainer
+## Who is Gitanjali J Angmo, Sonam Wangchuk's wife set to lead CJP's Parliament march today
+Gitanjali Angmo is the founding CEO of the Himalayan Institute of Alternatives, Ladakh. She is trained in Odissi, Russian ballet and has a black belt in Karate.
 
+## 3 Delhi metro stations closed; Rajiv Chowk resumes ops after brief halt ahead of CJP's march
+Ahead of the Cockroach Janta Party's march to the Parliament, several metro station gates have been closed.
 
-## Gold, silver under pressure this week as US-Iran conflict, oil rally cloud outlook
+## What are CJP's demands as supporters gear up for Parliament march?
+CJP reiterated its demands for accountability, ₹1 crore relief and Sonam Wangchuk’s release before the march.
 
+## Students rally behind Wangchuk in B’luru
+Hundreds of people, most of them students, gathered at Bengaluru’s Freedom Park on Sunday to back climate and education activist Sonam Wangchuk, linking his ongoing hunger strike with demands for accountability over the NEET paper leak and the resignation of Union education minister Dharmendra Pradh
 
-## 'Will end fast if...': Sonam Wangchuk announces big terms ahead of CJP Parliament march today
-In a handwritten note from Safdarjung Hospital, Sonam Wangchuk alleged being "illegally detained".
-
-## Section 163 imposed in parts of New Delhi ahead of CJP's Parliament march: What it means and what's prohibited?
-Police are maintaining constant surveillance in and around the protest site, while additional personnel have been stationed at strategic locations.
-
-## Man kills wife, leaves her in a pool of blood at Delhi home; arrested after three-day chase
-Man arrested for allegedly killing his wife in Delhi's Seelampur. Police said he confessed, claiming the murder followed a dispute over an alleged affair
-
-## CJP's ‘Sansad Chalo’: What to expect on Monday as protesters set for Parliament march, police say no permission
-The convergence of the CJP protest with the opening day of Parliament has heightened security across the national capital.
-
-## FIFA World Cup final fever grips Delhi, Mumbai, Bengaluru as eateries stay open till late night; check city-wise timings
-As the FIFA World Cup final approaches, Indian cities extend restaurant hours. Eateries in Delhi, Mumbai, and Bengaluru will remain open late.
-
-## Sonam Wangchuk can end hunger strike, says wife, sets condition as crowd swells for CJP march to Parliament on July 20
-“Sonam Wangchuk can end his fast if political leaders meet him and assure to raise issue of accountability and education in Monsoon Session,” Angmo said.
-
-## Amid fiery demands for his resignation over NEET leak, education minister Pradhan's meeting with topper. What he said
-Dharmendra Pradhan shared photo with student a day after Delhi Police forcibly removed activist Sonam Wangchuk from his Jantar Mantar hunger strike.
-
-## 'No hospital can force its treatment on patient': Sonam Wangchuk's wife after HC denies request to shift activist
-Wangchuk's wife alleged that his personal doctors, who had been monitoring his health for years, were not being allowed access to him.
-
-## Gill on mounting injury list: Players are not able to finish 2-3 matches here
+## Watch: What Mumbai’s Juhu Beach looked like in 1939, before plastic and crowds took over
 
 
-## India once dominated the textile trade. It needs institutions to make a mark again
+## ‘Unable to achieve goal’, Kanpur B.Tech gold medallist dies by suicide; father says was addicted to online games
 
 
-## Patents should not put cancer care out of reach
+## Delhi Police’s 1400-cops alert after crowd swells at Jantar Mantar protest
 
 
-## Omar Abdullah writes: Don’t judge my speech on J&K statehood on a single line
+## Man risks life, swims 3 hours through floodwaters to rescue parents, they scold him
 
 
-## Weekly Horoscope, 20-July to 26-July-2026: Explore our weekly horoscope and navigate the week ahead with confidence
+## CJP protest: Shabana Azmi kisses protesters hands, Prakash Raj says, ‘I am with you’
 
 
-## An uncertain world needs food, fuel, forex buffers
+## Users of Meta’s Facebook, Instagram report suffering some outages
 
 
-## Opposition must find its voice in Monsoon Session
+## Amaal Mallik reacts to Tanishk Bagchi saying he earned Rs 0 from Saiyaara: ‘Fought the system alone’
 
 
-## Are blood sugar spikes after meals harmful?
+## Not just us — even Kriti Sanon admits she’s ‘addicted to Reels’
 
+
+## Trip.com faces verdict as China to wrap up antitrust probes as soon as this week: sources
+China’s market regulator is poised to announce the outcome of its months-long antitrust investigation into Trip.com Group, the country’s largest online travel services provider, as soon as this week, according to three people familiar with the matter. The probes, launched in January by the State Adm
+
+## Citi upgrades China to ‘overweight’ amid AI volatility, geopolitical friction
+Wall Street giant Citigroup has adjusted its emerging market asset allocation recommendation, upgrading China to “overweight”, saying that investors should increase their exposure to assets that could benefit from a broadening market rally. The bank acknowledged that while China’s relative earnings-
+
+## For retired businessman and lifelong sailor, trust anchors the process of building wealth
+For Duke Ha, trust has factored into every aspect of his life, spanning professional and personal successes across borders. It is measured by actions rather than words, and reflected by steadfast reliance on a process. The retired construction businessman and avid sailor hails from Vietnam, where he
+
+## China’s A-share rebounds amid state purchase, anticipation of more support from regulators
+China’s securities regulator is said to convene a meeting with market participants to discuss how to stabilise the stock market in an effort to shore up investor confidence, after AI scepticism roiled global equity markets and sent a key benchmark of technology stocks trading in Shanghai tumbling. T
 
 ## Rule change urged for Hong Kong pension fund to allow wider ETF choice for 4.8m members
 The Chamber of Hong Kong Listed Companies is urging the pension regulator to relax rules so the 4.8 million members of the Mandatory Provident Fund (MPF) can invest more in Hong Kong-listed exchange-traded funds (ETFs), according to its chairman. “ETFs can provide stable returns to MPF members while
@@ -147,17 +162,8 @@ Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading p
 ## Musk son’s viral tiger-head bag shines light on China’s US$14.8b heritage e-commerce
 Sales of intangible heritage products are on the rise, highlighted by the online frenzy sparked by Elon Musk’s six-year-old son Little X wearing a Chinese-style silk jacket and carrying a tiger-head bag in May, when they accompanied US President Donald Trump on a state visit to Beijing. The surge is
 
-## Why China must end the lucrative marriage between property and banks
-Capital seeks sanctuary. In China’s property sector, however, that quest for safety had inadvertently erected a cage. The recent government takeover of Wuhan-based private lender Zhongbang Bank, expected to see a dilution of its private capital amid serious credit risks, is a calculated regulatory a
-
-## Hong Kong’s secondary property market braces for shift after strong first half
-Hong Kong’s secondary residential market is expected to hit a turning point at the start of the second half of the year following a steep price increase during the six months to June, according to multiple local property agencies. They cited the effects of Beijing’s crackdown on capital outflow, whi
-
-## Wealthy European clients eye Hong Kong for family offices, says BNP Paribas
-BNP Paribas, France’s largest lender and the second-largest in Europe, has found that an increasing number of wealthy European clients are seeking to establish family offices in Hong Kong to capitalise on growing opportunities in the region, according to a banker from the lender. A growing number of
-
-## Tourism appeal adds to Australia’s edge in drawing mainland Chinese, Hong Kong homebuyers
-Australia’s tourism appeal and property price correction are reinforcing the case for mainland Chinese and Hong Kong investors to buy homes down under, according to agents. Education had long been a major draw for many mainland and Hong Kong buyers, but the country’s tourist attractions, relaxed lif
+## The Liberal Origins of the War Against the Deep State
+In the 1970s, fears of an out-of-control executive branch emanated from Democrats, not Republicans.
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -179,9 +185,6 @@ Kyiv’s language revitalization program seeks to save Ukrainians’ mother tong
 
 ## What in the World?
 Test yourself on the week of July 11: China introduces AI regulations, Trump briefly imposes a toll on Hormuz, and Congo’s Ebola outbreak spreads.
-
-## Syria’s Weak Parliament Still Matters
-The country’s newly opened assembly is by no means democratic, but it can still be more than a rubber stamp.
 
 ## China, the US, and Nuclear Energy Geopolitics in Southeast Asia
 Nuclear reactor exports are becoming an increasingly important arena of strategic competition.
@@ -255,29 +258,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: US military carries out another wave of strikes on Iran
-US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.
+## Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel
+US President Donald Trump said the latest strikes on Iran were carried out 'in honour' of killed US military personnel.
 
-## US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone
-The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.
+## US releases footage of ninth consecutive night of strikes on Iran
+The US military carried out its ninth consecutive night of strikes on Iran.
 
-## US Vice President JD Vance and his wife announce birth of fourth child
-JD and Usha Vance welcome a baby boy, the first child born to a sitting vice president in more than 150 years.
+## Tearful Scaloni uncertain of Argentina future after World Cup loss
+Manager says it would be difficult to assemble another squad capable of reaching two consecutive World Cup finals.
 
-## A bird’s-eye view as Donald Trump arrives for the World Cup final
-Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.
+## Women’s tennis players must take one-time gene test for eligibility
+Players will need to take a test ​for the SRY gene, which helps to determine biological sex, the WTA says.
 
-## Fans in Madrid go wild as Spain beat Argentina to win second World Cup
-Fans in Madrid erupted in celebration after Spain beat Argentina 1-0 in the World Cup final.
+## Fans in Madrid party all night long after Spain’s World Cup victory
+Spanish fans spent the night partying in Madrid after their team defeated Argentina 1-0 in the final of the World Cup.
 
-## When is the next FIFA World Cup? 2030 hosts, dates and format
-The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup's centenary.
+## Argentinians show pride in Buenos Aires despite World Cup final defeat
+Argentinians filled the streets of Buenos Aires to honour their team despite its World Cup final defeat.
 
-## Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup
-Ferran Torres scores the only goal of the game as Spain win their second World Cup.
+## How a young and cohesive Spain took down Lionel Messi’s Argentina
+La Roja nullified and frustrated Argentina as they secured victory in New Jersey to win their second World Cup.
 
-## When, where, and how Spain won the World Cup final against Argentina
-Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.
+## Andy Burnham to become UK’s PM on Monday: What happens next?
+Andy Burnham will become UK prime minister. Here's how the transition of power will unfold.
+
+## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
+Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
+
+## JPC weighs key changes to Corporate Laws Bill, reviews AIF-to-LLP conversion and CSR norms
+A parliamentary panel is examining changes to corporate law amendments. Investors may become partners in newly formed LLPs instead of trustees. The committee also debates proposed relaxations in corporate social responsibility norms. A framework for overseas companies to re-domicile in India is unde
+
+## Sebi empanels 18 more forensic auditors for listed company audits
+The Securities and Exchange Board of India has added eighteen new firms to its forensic audit panel. These firms will conduct financial statement audits for listed companies facing scrutiny. The empanelment follows a selection process initiated through public procurement notices. This move aims to e
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
@@ -294,14 +306,11 @@ Tribunal dismisses appeal against NFRA's disciplinary action, holding that audit
 ## State Bank of India appoints former LIC finance head Sunil Agrawal as CFO
 State Bank of India has named Sunil Agrawal its new Chief Financial Officer, bringing with him a wealth of experience from his 27 years at LIC. His role as key managerial personnel highlights his expertise in financial planning and regulatory matters. This significant appointment aligns with ongoing
 
-## Infosys CFO Jayesh Sanghrajka tops IT sector CFO pay in FY26; Tech Mahindra's Rohit Anand next
-An ETCFO analysis of annual reports of the country's largest IT companies shows Infosys CFO Jayesh Sanghrajka emerged as the highest-paid finance chief among companies that have disclosed remuneration details, followed by Tech Mahindra's Rohit Anand and Wipro's Aparna Iyer.
+## RBI, FinMin likely to take up UAE curbs on Indian banks’ FCNR(B) mobilisation; lenders activate alternate channels
+With RBI targeting roughly USD 20 billion each from public and private sector banks under its FCNR(B) mobilisation drive, lenders have sought government level intervention after the UAE barred representative offices from business facilitation, cross selling and deposit documentation activities, whil
 
-## GSTAT token mechanism safeguards appeal rights, but experts warn legal ambiguity could trigger fresh litigation
-Tax experts say GSTAT's token-based appeal mechanism is a pragmatic safeguard against portal-related disruptions, but caution that its long-term success will depend on statutory clarity, robust digital safeguards and a resilient e-filing system to prevent fresh litigation.
-
-## Exclusive: MCA flags jurisdiction issue over ICAI's Global Networking Guidelines
-Ministry's observations centre on who should issue the framework; ICAI pauses rollout and president is likely to discuss the matter with MCA officials.
+## Govt to introduce income tax, MSME reforms among 5 new bills in monsoon session
+The Centre is set to introduce five new bills during the monsoon session of Parliament which kicks off on Monday, which include proposals related to income tax and MSME reforms, an increase in the strength of Supreme Court judges and changes in the birth registration laws.
 
 ## India's economy remains strong amid West Asia, weak monsoon risks: RBI chief
 RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain strong, with a decent pace of economic expansion despite geopolitical uncertainties triggered by the West Asia crisis.
@@ -320,10 +329,4 @@ Private insurers want Irdai to change proposed investment norms for unlisted com
 
 ## RBI to counter USD/INR volatility aggressively amid geopolitical crude shock: Kotak Securities' Anindya Banerjee
 The Reserve Bank of India (RBI) is expected to aggressively intervene in the currency markets if the rupee faces excessive downward pressure toward the 98 to 100 mark, though short-term capital inflows will provide a major cushion against global energy shocks, according to Anindya Banerjee, Head of 
-
-## SEBI clears over 5,000 investor complaints through 'SCORES' in June
-The Securities and Exchange Board of India (Sebi) resolved more than 5,000 investor complaints through its online grievance redressal platform 'SCORES' in June, while the number of pending complaints declined marginally during the month, according to data released by the capital markets regulator.
-
-## NSE got SEBI's nod to launch derivatives on Nifty India FPI 150 Index from August 12
-The National Stock Exchange of India (NSE) has received SEBI's approval to launch derivatives on the Nifty India FPI 150 Index (NIFTYFPI) from August 12, as per a statement by the stock exchange.
 
