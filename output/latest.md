@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Andy Burnham makes more appointments for his first cabinet
+John Healey becomes chancellor while Shabana Mahmood stays at the home office and Ed Miliband moves to the foreign office
+
+## Trump to meet Lebanon’s president as US pushes ahead with peace deal
+Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
+
+## US petrol prices climb back above $4 as Iran war intensifies
+Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
+
 ## Who is in Andy Burnham’s new cabinet?
 UK prime minister announces top team, with some experienced faces returning to government
 
@@ -15,20 +24,11 @@ UK prime minister’s choice of former defence minister surprises allies
 ## Big Tech’s AI backstops risk ignominy
 Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
 
-## Andy Burnham’s tenure begins with troubling signals
-Britain needs to revive animal spirits, not return to a statist past
-
 ## US judge pauses Paramount’s $110bn Warner Bros acquisition
 Federal court grants request for temporary halt to merger while examining impact on competition in Hollywood
 
-## Trump to meet Lebanon’s president as US pushes ahead with peace deal
-Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
-
 ## US probes insurers owned by billionaire Mark Walter over asset disclosures
 Prosecutors and securities regulators examine whether companies failed to disclose holdings in affiliated entities
-
-## US petrol prices climb back above $4 as Iran war intensifies
-Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
 
 ## Lockheed seeks European production for cheaper Patriot missile
 US defence group seeking approval from Washington to build out supply chain in region
@@ -114,6 +114,15 @@ ALPA India has urged the ministry and DGCA to “immediately suspend all commerc
 ## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
 Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
+## CJP’s Parliament march: 118 personnel injured, 70 protesters detained, says Delhi Police
+
+
+## Sons injured during CJP’s Parliament march, a mother breaks down: ‘Attack on country’s children’
+
+
+## ‘Ready to be here till the end’: At midnight, protesters regroup at Jantar Mantar
+
+
 ## Protesters storm heart of Delhi, police use lathis and tear gas to stop march
 
 
@@ -129,14 +138,8 @@ Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that 
 ## Trump says Netanyahu won’t be arrested in US as Mamdani weighs legal options
 
 
-## Ferran Torres’s path to FIFA World Cup-winning goal goes through Navi Mumbai
-
-
-## Russia-Ukraine war: 4 Indian sailors among 10 killed as missile hits ship
-
-
-## Sohail Khan says he feels ‘lovely’ meeting ex-wife Seema Sajdeh; expert on healthy healing
-
+## China won’t waste its reserves to cushion oil price impact of Iran war
+Oil prices are set to rise once more as renewed US attacks on Iran leave the Strait of Hormuz, a major artery of oil trade, closed again. With US strategic petroleum reserves at their lowest in over 40 years, America will have trouble keeping oil prices below US$100 a barrel, as it has mostly done i
 
 ## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
 Hungary’s government announced an investigation on Monday into a large foreign investment by Chinese carmaker BYD negotiated by a former foreign minister who last week resigned from parliament to take an executive position at the company. Peter Szijjarto’s announcement last Wednesday that he would t
@@ -159,8 +162,8 @@ China’s market regulator is poised to announce the outcome of its months-long 
 ## Citi upgrades China to ‘overweight’ amid AI volatility, geopolitical friction
 Wall Street giant Citigroup has adjusted its emerging market asset allocation recommendation, upgrading China to “overweight”, saying that investors should increase their exposure to assets that could benefit from a broadening market rally. The bank acknowledged that while China’s relative earnings-
 
-## For retired businessman and lifelong sailor, trust anchors the process of building wealth
-For Duke Ha, trust has factored into every aspect of his life, spanning professional and personal successes across borders. It is measured by actions rather than words, and reflected by steadfast reliance on a process. The retired construction businessman and avid sailor hails from Vietnam, where he
+## Houthis Declare a Naval Blockade on Saudi Arabia
+The move could increase pressure on already-strained global energy markets.
 
 ## The Slow Death of the Global Commons
 Hormuz is a sign of worse things to come.
@@ -182,9 +185,6 @@ Keir Starmer allowed his country to be humiliated by Washington. Burnham should 
 
 ## Flamingos Against Autocrats
 How a Gen Z-led protest movement in Albania is calling out corruption and global oligarchy.
-
-## Banning AI Models Doesn’t Add Up to a Policy
-What is needed is an actionable agenda that ensures safe release and stable access.
 
 ## With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
 The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran condemns US attacks on civilian infrastructure
-Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.
+## Albanian protesters pelt lawmakers’ cars over resort projects
+Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.
 
-## What does Khalil al-Hayya’s election win mean for Gaza?
-Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression
+## FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final
+Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.
 
-## Yemeni women support families through enterprise as economic crisis bites
-Amid Yemen’s harsh economic crisis, securing viable employment has become increasingly difficult for men.
+## Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes
+US president insists Netanyahu will not be arrested, despite ICC warrant.
 
-## EU pauses methane penalties amid energy crisis, US pressure
-The European Commission says waiving penalties will ensure the security of energy supply.
+## King of Spain celebrates World Cup winners in Madrid
+Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.
 
-## US judge orders pause on Paramount–Warner Bros merger
-Paramount risks $650m quarterly fees if merger delays extend beyond September, as per the merger agreement terms.
+## Gaza residents weigh in on election of new Hamas leader
+Gaza residents weigh in on election of new Hamas leader
 
-## A tournament of contradictions: What did we learn at World Cup 2026?
-A look back at the World Cup's moments of glory and controversy, and their impact on fans, teams and the sport.
+## How will Zelenskyy handle the growing political crisis at home?
+Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.
 
-## Protests in Italy after Moroccan man dies during arrest
-Outrage across Italy's political spectrum following death in Bologna likened to killing of George Floyd in 2020.
+## Ortega insists no more elections for Nicaragua
+The Central American state's longtime leader intends to block the opposition from challenging his rule.
 
-## Houthis announce maritime blockade on Saudi Arabia
-Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire
+## Man arrested after fire outside New York immigration court
+A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
