@@ -1,67 +1,79 @@
 # AION Intelligence
 
+## Oil touches $90 as Iran hits tankers
+Crude later falls back after Tehran says it has received proposals from mediators about the war
+
+## The Fed’s independence is still under threat, warns Slaughter
+Regulator fired by Donald Trump says Supreme Court decision is not ‘durable’
+
+## FirstFT: Andy Burnham weighs Number 10 overhaul
+Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
+
+## EU fines AliExpress €550mn for failing to prevent sale of illegal goods
+Record penalty under bloc’s Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms
+
 ## Bad cabinet appointments will steal Burnham’s precious hours
 Incoming leader would do well to take Rishi Sunak’s advice on maximising your time as prime minister
-
-## China’s ‘national team’ buys shares worth $9bn to prop up market
-State-owned funds announce stock purchases after sharp AI tech sell-off last week
-
-## Lockheed to build cheaper Patriot missile to counter drone threat
-US defence group says new weapon will be less than half the cost of current flagship interceptor
 
 ## Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist
 London-listed group declines third offer in escalating battle
 
-## Oil back above $90 as Iran hits tankers
-US carries out fresh wave of attacks as the number of American casualties rises
+## India’s ‘Cockroach’ protests mount on streets of Delhi
+Anger over education system threatens to turn into wider challenge to Narendra Modi’s government
+
+## How the UK can be cleverer about stamp duty
+Complaints about stamp duty are as old as the tax
+
+## Is this the Louis Vuitton of lamb?
+In New South Wales, KS7 claims to be the world’s first ultra-premium brand
+
+## Lockheed to build cheaper Patriot missile to counter drone threat
+US defence group says new weapon will be less than half the cost of current flagship interceptor
 
 ## Samsung Biologics buys Swiss peptide maker for $1.8bn
 PolyPeptide takeover is latest example of South Korean companies expanding abroad through acquisitions
 
-## Portfolio construction in the shadow of the AI bubble
-Hard choices on all sides
+## Ryanair profits fall 34% as Middle East war hits ticket and fuel prices
+Budget carrier declines to issue full-year guidance and warns it is ‘heavily dependent’ on late bookings
 
 ## Paris and Berlin set year-end deadline for options to reform EU’s diplomatic arm
 Also in this newsletter: EU’s biggest economies call for lighter bank rules
 
-## Ryanair profits fall 34% as Middle East war hits ticket and fuel prices
-Budget carrier declines to issue full-year guidance and warns it is ‘heavily dependent’ on late bookings
+## Kerala aims to attract $1 billion in shipbuilding from investors
+The state government has facilitated a joint venture between Malabar Cements Ltd. and Artsun Engineering Ltd., a part of the Tata Projects Group, to set up a shipbuilding unit at Cochin Port, and all the necessary approvals have been received for the project
 
-## Trump Media’s pitched fee for early access to posts
-Plus, St James’s Place adviser exodus and American Photographs at the V&A London
+## Takeda’s QDENGA approved in India, can be given despite pre-exposure to dengue
+It is India’s first dengue vaccine approved for use in individuals regardless of prior exposure, without pre-vaccination testing, the multinational healthcare company stated
 
-## FirstFT: Burnham weighs Number 10 overhaul
-Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
+## Dhanlaxmi Bank eyes revenue milestone to mark centenary year
+Temple-linked lender aims for ₹50,000 crore business by 2027 after three-digit net profit last year
 
-## UK pension insurers raise exposure to opaque private credit
-S&P warns on hard-to-price private assets that make up over 10% of portfolios at L&G, Standard Life and Just Group
+## Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most
+Sensex, Nifty, Share Prices Highlights: The 30-share BSE Sensex declined 442.93 points, or 0.57 per cent, to settle at 77,708.52. The 50-share NSE Nifty edged lower by 95.80 points, or 0.39 per cent, to end at 24,238.50.
 
-## An odyssey through Metlen’s interconnected solar empire
-Because sunlight is the best disinfectant
+## No plan to remove LTCG tax on equity investments, Finance Ministry tells Parliament
+The clarification follows last month’s decision to exempt FPIs from LTCG tax on government securities to attract long-term foreign capital.
 
-## Sensex today | Stock Market Live: Sensex down 400 pts, Nifty above 24,200 in choppy trade; Axis, HDFC Bank lead losers
-Sensex, Nifty, Share Prices Live Updates: Axis Bank was the worst performer on the Nifty50, crashing ₹75.60 or 5.69% to ₹1,252.90 on heavy volume of over 1.81 crore shares worth ₹2,29,489.21 lakh
+## Andhra govt to roll out 500 ‘Thalli-Bidda Express’ vehicles for mothers, newborns
+The CM inspected designated SUVs and MUVs, reviewing their design, safety features, facilities for mothers and infants, and branding for the initiative
 
-## SEBI empanels 18 firms for forensic audits of listed companies
-The newly selected firms are in addition to the list of forensic auditors published by SEBI in April 2025.
+## Absolute Projects, Jindal Supreme secure SEBI's nod to float IPOs
+Shares of both companies will be listed on the BSE and NSE
 
-## Q1 Results Today Live: IOB Q1 PAT climbs 49% y-o-y, Mahindra Logistics, Dynamic Cables & Shyam Metalics zoom, UltraTech, Paytm, KVB, Sobha, JP Power, Bluestone to announce Q1 results
-Q1 Results Today, 20th July 2026 Live Updates:
+## ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline after Q1 results
+In today’s session, ICICI Bank shares rose after reporting healthy earnings growth backed by higher net interest income, non-interest income and lower provisions
 
-## Ascentium Welcomes MGI Dobbyn Carafa, Strengthening Advisory Capability in Australia
-Ascentium Welcomes MGI Dobbyn Carafa, Strengthening Advisory Capability in Australia
+## US fuel prices rise: Gasoline returns to $4 per gallon after Middle East flare-up
+Average petrol prices in the United States have now reached four dollars per gallon. This increase follows recent flare-ups and rising tensions in the Middle East region. Motorists in several states have been paying more than four dollars for some time. Crude oil prices have risen, impacting global 
 
-## Avanse Financial Services Introduces Avanse EdSure & Avanse EdSure+
-Avanse Financial Services Introduces Avanse EdSure & Avanse EdSure+
+## Era of cheap borrowing may be over as world enters 'a new macro regime': Moody's
+The era of ultra-low interest rates is ending, ushering in higher borrowing costs. Investors anticipate sustained investment in artificial intelligence and infrastructure projects. Geopolitical risks are also expected to remain elevated in the coming years. Bond markets reflect expectations of struc
 
-## China, India reported largest decline in LNG imports in 2025
-The International Gas Union cites weaker Asian demand, with China’s imports down 8.9 MT and India’s falling 1.5 MT.
+## Nifty500 Ahimsa: NSE Indices launches new thematic index for exposure to companies aligned with non-violence principles - how it works
+The index draws its constituents from the broad-based Nifty 500 universe, enabling diversified sectoral representation while giving preference to companies whose business practices exhibit a stronger commitment to responsible and sustainable principles.
 
-## Consumer sector sees 97 M&A deals of $ 981 million in June quarter: Report
-The top M&A deal of the quarter was Emami Ltd’s acquisition of a 60% stake in IncNut Digital Pvt Ltd (Vedix and Skinkraft) for $ 34 million
-
-## Banking rout deepens: Sensex tumbles 718 points, Nifty below 24,200 as HDFC Bank, Axis bleed
-Axis Bank was the worst performer on the Nifty50, crashing ₹75.60 or 5.69% to ₹1,252.90 on heavy volume of over 1.81 crore shares worth ₹2,29,489.21 lakh
+## Indigenous bullet train, inter-operable signalling system: What’s happening on India’s first high-speed rail project
+India is planning to begin trials of its domestically developed bullet trains by the middle of 2027. Civil construction on the 97-km Surat-Vapi high-speed rail stretch is scheduled to be completed this year.
 
 ## After cars, now ethanol may make its way to your kitchen: Plans in the works to introduce it as mainstream cooking fuel alongside LPG
 As part of the proposed framework, the government is expected to examine subsidy mechanisms and measures to develop the necessary supply chain for wider adoption of ethanol.
@@ -75,65 +87,59 @@ Gold price prediction today: Gold prices continue to trade on a weak note as geo
 ## Rupee tumbles 12 paise against US dollar as Middle East tensions lift crude prices
 The Indian Rupee opened lower against the US dollar on Monday. Rising crude oil prices and Middle East tensions fueled dollar demand. Foreign capital outflows from equity markets also weakened the local currency. Indian stock markets traded lower, with Sensex and Nifty declining. India's foreign exc
 
-## US import prices up 7.1% in June, highest annual gain since August 2022
-United States import prices saw an unexpected rise in June. Nonfuel import costs increased, offsetting lower fuel prices during the month. Industrial supplies and materials became more expensive, driven by chemicals and finished nonmetals. Fuel prices showed mixed movements, with petroleum falling a
+## Jodhpur woman dies post-delivery, latest in series of maternal deaths in Rajasthan
+Other women who developed complications after childbirth remain admitted to Jodhpur’s two major maternity hospitals
 
-## Stock market today: BSE Sensex tumbles over 670 points, NSE Nifty50 trades below 24,200
+## Ken-Betwa project protests explained: Behind 'chita' and 'faansi' demonstrations in Madhya Pradesh
+Previously, police broke up the protest against the Ken-Betwa Link in MP's Chhatarpur district. Families affected by the project launched a ‘Chita Andolan’.
 
+## Amid CJP protest, Omar Abdullah's Delhi auto ride for Jammu and Kashmir statehood demand stir
+Omar Abdullah said the party was stopped from holding a peaceful protest but insisted that its fight for statehood had "only just begun".
 
-## Top stocks to buy: Stock recommendations for July 20, 2026 week - check list
-Stock market recommendations: Saatvik Green Energy, and Unimech Aerospace - Motilal Oswal Wealth Management Research Desk has picked these as the top stocks to buy for the week starting July 20, 2026:
+## ₹1 crore compensation for NEET aspirants, Wangchuk's release: The 3 demands made by CJP during meeting with JP Nadda
+CJP leader Saurav Das said the delegation submitted a written memorandum outlining the demands.
 
-## Gold, Silver Rate Today Live Updates: International gold slips as Middle East tensions push crude higher
+## Fight elections, Kangana dares CJP, says elected govt has the right to make decisions
+BJP an actor Kangana Ranaut said, “Our parliamentary session is on, so we can discuss all issues in detail, and the government is held accountable, but…"
 
+## Army joins rescue ops; IAF on standby as flood situation in Assam deteriorates
+Low to moderate flood alerts have been issued for Sivasagar, Charaideo, Jorhat, Golaghat, Chirang, Dibrugarh and Tinsukia
 
-## BJP mandates use of Bengali language at every level of Bengal govt starting September 1
-Amit Shah had, in a letter, urged CM Adhikari to take steps for extensive use of the Bengali language at every level of state administration.
+## Nine feared dead as torrential rains trigger landslides in Nagaland town
+At least 45 houses were destroyed by landslides that occurred in multiple locations across the town between 6 am and 2 pm, deputy commissioner of Mon said.
 
-## SC stays high court order granting Pinjra Tod activist Devangana Kalita access to documents
-The police had alleged that Kalita, along with other activists, conspired to create unrest in Jafrabad in northeast Delhi in 2020 under the guise of peaceful protests.
+## TMC's Derek O Brien requests all-party meet from PM Modi for FCRA and delimitation
+Citing the government's “dubious record of mocking parliamentary rules of procedure and conventions, O' Brien questioned the governing party's "intention".
 
-## Govt moves to raise Supreme Court judges’ strength to 38, replace ordinance
-The Bill moved on the opening day of Parliament’s Monsoon Session will replace an ordinance promulgated in May
-
-## You cannot arm-twist government: Kangana Ranaut slams Opposition for creating ruckus in Parliament
-Kangana Ranaut, took a dig at Opposition for disrupting parliamentary proceedings, asserting that an elected government has the right to decide its functioning
-
-## Course for only teacher degree for post-2030 jobs scaled up without framework
-Academics say a programme handbook cannot replace a curriculum framework and raise concerns about running ITEP courses
-
-## NCERT staff unpaid for four months; 200 contractual employees struggle with loans, rent
-Affected employees, requesting anonymity fearing retaliation, told HT that they are under huge financial burden because of salary delay.
-
-## Delhi HC declines urgent hearing on plea challenging Sonam Wangchuk's shift to hospital
-On Sunday, a Single Judge of the Delhi High Court declined to direct Wangchuk's transfer to a private hospital
-
-## 'Allow me to leave hospital': Wangchuk issues appeal, seeks to join Parliament march
-The Delhi HC has agreed to hear an appeal by Sonam Wangchuk's wife challenging a judge's refusal to permit his transfer to a private hospital of his choice.
-
-## Harappan town in Gujarat, Hormuz tensions, RBI’s growth optimism: Today’s Premium reads
+## Salman Khan returns as Bigg Boss 20 host; JioStar announces six simultaneous editions
 
 
-## Wangchuk’s ultimatum, lathicharge, talks with centre: A timeline of CJP’s ‘Sansad Chalo’ march
+## Married at 19, Naseeruddin Shah was ‘obnoxious’ to first wife; ‘absent dad’ to daughter Heeba
 
 
-## Yogi Adityanath launches disaster management headquarter in Lucknow
+## 102 mg alcohol in blood: Karnataka High Court cuts compensation for drunk rider’s family
 
 
-## ‘Economic death’: Court cancels Canara Bank employee’s dismissal after 28 years’ service
+## Can a husband’s employer be involved in matrimonial litigation? What SC said about the practice
 
 
-## Mohanlal, Sanjay Kapoor attend FIFA World Cup 2026 final; Shakira, BTS, Madonna perform
+## Hema Malini breaks down, says daughters Esha, Ahana struggling after Dharmendra’s death
 
 
-## Death toll in Ahmedabad firecracker factory blast rises to 10
+## Chipmakers head for big profit gains, but will it be enough?
 
 
-## Caught on camera: Tourist plunges 40 feet after zipline safety lock fails at Karnataka resort
+## Meta faces Tennessee trial over allegations Instagram was designed to be addictive
 
 
-## ‘Recite Vande Mataram without teleprompter’: Sanjay Raut dares PM Modi ahead of Bill introduction
+## Actor Naresh calls E20 petrol a ‘nightmare,’ says it cost his friend Rs 3.5 lakh
 
+
+## ‘Systemic leap’: China’s drug innovation push yields bumper crop
+Domestically produced novel drugs accounted for more than 80 per cent of market approvals in China in the first half of the year, reflecting a “leap” in the quality of the country’s pharmaceutical innovation, according to a government spokesman. A total of 38 innovative drugs were cleared for sale i
+
+## Hong Kong bourse operator weighs longer trading hours to sharpen hub edge, sources say
+Bourse operator Hong Kong Exchanges and Clearing (HKEX) is considering extending trading hours to align with moves by global peers and sharpen the city’s competitiveness as an international financial centre. HKEX and the Securities and Futures Commission (SFC) confirmed that they were discussing the
 
 ## Ikea’s China remodelling: parent firm puts 8 former retail sites on block
 Ikea’s parent company Ingka Group has hired property consultancy JLL as its sole sales agent to offload eight retail properties in mainland China, the multinational furniture brand’s largest asset disposal since it entered the market nearly 30 years ago. Seven of the properties were Ikea stores that
@@ -147,17 +153,11 @@ Wall Street giant Citigroup has adjusted its emerging market asset allocation re
 ## For retired businessman and lifelong sailor, trust anchors the process of building wealth
 For Duke Ha, trust has factored into every aspect of his life, spanning professional and personal successes across borders. It is measured by actions rather than words, and reflected by steadfast reliance on a process. The retired construction businessman and avid sailor hails from Vietnam, where he
 
-## CSRC chairman vows ‘stable market’ after A-share market rebounds on concerted buying
-China is doubling down on efforts to stabilise the country’s US$15 trillion stock market, with its securities regulator pledging to arrest declines on the market and state entities conducting concerted buying, after the unwinding of the AI trade roiled global equity markets and sent a key benchmark 
+## CSRC chairman vows ‘stable market’ as A-share market rebounds on concerted buying
+China has doubled down on efforts to stabilise the country’s US$15 trillion stock market, with its securities regulator pledging to arrest equity declines and state entities conducting concerted buying, after the unwinding of the AI trade roiled global markets and sent a benchmark of technology stoc
 
 ## Rule change urged for Hong Kong pension fund to allow wider ETF choice for 4.8m members
 The Chamber of Hong Kong Listed Companies is urging the pension regulator to relax rules so the 4.8 million members of the Mandatory Provident Fund (MPF) can invest more in Hong Kong-listed exchange-traded funds (ETFs), according to its chairman. “ETFs can provide stable returns to MPF members while
-
-## To survive China’s cost-conscious market, global brands embrace AI and robots
-Multinational companies have expanded their use of AI and robotics in China to survive “life or die” competition in the world’s second-largest consumer goods market, where local rivals have sharpened their edge and shoppers often switch between brands for better value, analysts said. L’Oréal, for ex
-
-## Why buyout funds, not IPOs, may define China’s next capital market cycle: Zhang Yichen
-Zhang Yichen is chairman and CEO of Citic Capital Holdings, one of the leading players in China’s capital market, and the chairman of Trustar Capital. He heads several companies, including the McDonald’s master franchise business in mainland China and Hong Kong, as well as Harbin Pharmaceutical Grou
 
 ## Banning AI Models Doesn’t Add Up to a Policy
 What is needed is an actionable agenda that ensures safe release and stable access.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US renews attacks on Iran after US soldier killed: What’s the latest?
-Iran's IRGC claims an attack on Jordan while the US embassy issues a warning to Americans in Bahrain.
+## Jubilation in Spain as La Roja beat Argentina to win second World Cup title
+La Roja defeat Argentina to win the title for the second time with a goal by Ferran Torres in extra-time.
 
-## Singapore minister resigns over ‘interactions with a woman’, PM says
-The People's Action Party, which prides itself on ​a clean reputation, has been rocked by a series of scandals recently.
+## World Cup: Spain to be welcomed home by million-strong Madrid crowd
+Spain beat Argentina 1-0 in Sunday's final in the US, and are expected to parade the trophy in Madrid on Monday.
 
-## Infantino tries to usher Trump away as Spain lift World Cup
-Infantino tries to usher Trump away as Spain lift World Cup
+## Occupied West Bank World Cup screening halted for funeral
+A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.
 
-## Last night, I was Spanish, and so were millions around the world
-For many of us, Gaza was on our mind when we watched and celebrated Spain’s triumph at the World Cup.
+## What does Iran’s attack on Kuwait infrastructure mean for Gulf?
+What does Iran’s attack on Kuwait infrastructure mean for Gulf?
 
-## Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo
-Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.
+## World Cup: Spanish boy, 13, killed in fountain collapse during celebrations
+Tragedy struck in the Salamanca province when the 13-year-old died during celebrations for the win against Argentina.
 
-## Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel
-US President Donald Trump said the latest strikes on Iran were carried out 'in honour' of killed US military personnel.
+## Police attack Cockroach activists as thousands march on Indian parliament
+More than 10,000 protesters braved tear gas and baton charges in their largest challenge yet to PM Modi's government.
 
-## US releases footage of ninth consecutive night of strikes on Iran
-The US military carried out its ninth consecutive night of strikes on Iran.
+## Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?
+Turkiye's expanding military ties in eastern Libya raise new questions about regional security and Egypt's red lines.
 
-## Tearful Scaloni uncertain of Argentina future after World Cup loss
-Manager says it would be difficult to assemble another squad capable of reaching two consecutive World Cup finals.
+## Indian police beat ‘Cockroach’ march protesters
+Indian police beat ‘Cockroach’ march protesters
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
