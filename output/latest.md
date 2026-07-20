@@ -1,10 +1,31 @@
 # AION Intelligence
 
-## Oil touches $90 as Iran hits tankers
+## Why Mullin is struggling to keep ICE out of the headlines
+Two killings by federal agents in the space of a week have drawn attention to the downsides of a DHS hiring spree
+
+## UK businesses are not deepening their use of AI, suggests ONS data
+Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products
+
+## Yemen’s Houthi rebels threaten blockade against Saudi Arabia
+Renewed fighting puts kingdom’s crude exports through Red Sea at risk
+
+## How I got into Berghain, Berlin’s notoriously selective club
+The mystique of its intimidating door policy still convinces people to fly in from all around the world
+
+## Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return
+Ukrainian president under pressure to replace commander-in-chief who clashed with Mykhailo Fedorov
+
+## Oil touches $90 after Iran hits tankers
 Crude later falls back after Tehran says it has received proposals from mediators about the war
 
-## The Fed’s independence is still under threat, warns Slaughter
-Regulator fired by Donald Trump says Supreme Court decision is not ‘durable’
+## The ‘decayed’ impact of Trump’s Truth Social bombs
+Markets are gradually learning to ignore the president
+
+## Trump orders the ceremonial changing of the tariff guard
+The bogus rationale for duties has rotated from economic emergency to balance of payments to unfair trade
+
+## Anduril launches helicopter strike drone
+Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in their arsenal
 
 ## FirstFT: Andy Burnham weighs Number 10 overhaul
 Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
@@ -12,56 +33,41 @@ Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI de
 ## EU fines AliExpress €550mn for failing to prevent sale of illegal goods
 Record penalty under bloc’s Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms
 
-## Bad cabinet appointments will steal Burnham’s precious hours
-Incoming leader would do well to take Rishi Sunak’s advice on maximising your time as prime minister
+## Is this the Louis Vuitton of lamb?
+In New South Wales, KS7 claims to be the world’s first ultra-premium brand
 
 ## Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist
 London-listed group declines third offer in escalating battle
 
-## India’s ‘Cockroach’ protests mount on streets of Delhi
-Anger over education system threatens to turn into wider challenge to Narendra Modi’s government
-
-## How the UK can be cleverer about stamp duty
-Complaints about stamp duty are as old as the tax
-
-## Is this the Louis Vuitton of lamb?
-In New South Wales, KS7 claims to be the world’s first ultra-premium brand
-
 ## Lockheed to build cheaper Patriot missile to counter drone threat
-US defence group says new weapon will be less than half the cost of current flagship interceptor
+US defence group says new weapon will be less than half cost of current flagship interceptor
 
 ## Samsung Biologics buys Swiss peptide maker for $1.8bn
 PolyPeptide takeover is latest example of South Korean companies expanding abroad through acquisitions
 
-## Ryanair profits fall 34% as Middle East war hits ticket and fuel prices
-Budget carrier declines to issue full-year guidance and warns it is ‘heavily dependent’ on late bookings
+## Q1 Results Today Live: UltraTech PAT up, IOB, KVB Q1 PAT climb, Mahindra Logistics, Dynamic Cables & Shyam Metalics zoom, Paytm, Sobha, JP Power, Bluestone to announce Q1 results
+Q1 Results Today, 20th July 2026 Live Updates:
 
-## Paris and Berlin set year-end deadline for options to reform EU’s diplomatic arm
-Also in this newsletter: EU’s biggest economies call for lighter bank rules
+## Ford delegation meets Tamil Nadu CM, engine production plant at Maraimalai Nagar among discussion points
+Ford is establishing what is expected to be its first powertrain manufacturing facility outside the US, at Maraimalai Nagar.
 
-## Kerala aims to attract $1 billion in shipbuilding from investors
-The state government has facilitated a joint venture between Malabar Cements Ltd. and Artsun Engineering Ltd., a part of the Tata Projects Group, to set up a shipbuilding unit at Cochin Port, and all the necessary approvals have been received for the project
+## Broker’s call: WeWork India (Buy)
+ICICI Securities
 
-## Takeda’s QDENGA approved in India, can be given despite pre-exposure to dengue
-It is India’s first dengue vaccine approved for use in individuals regardless of prior exposure, without pre-vaccination testing, the multinational healthcare company stated
+## Karnataka Bank appoints Aruna Shyam as Additional Director
+Aruna Shyam is a postgraduate in Business Law and holds a doctorate in Law
 
-## Dhanlaxmi Bank eyes revenue milestone to mark centenary year
-Temple-linked lender aims for ₹50,000 crore business by 2027 after three-digit net profit last year
+## India-Tibet barter trade via Lipulekh Pass to resume next month after 7 years
+Indian traders have been granted permission to enter the market in Purang (Taklakot), Tibet, and the trade will commence on August 1
 
-## Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most
-Sensex, Nifty, Share Prices Highlights: The 30-share BSE Sensex declined 442.93 points, or 0.57 per cent, to settle at 77,708.52. The 50-share NSE Nifty edged lower by 95.80 points, or 0.39 per cent, to end at 24,238.50.
+## CropLife India expands sustainable farming initiatives for tea, spices
+CropLife India has also undertaken initiatives to expand the availability of registered crop protection products for tea through science-based regulatory processes
 
-## No plan to remove LTCG tax on equity investments, Finance Ministry tells Parliament
-The clarification follows last month’s decision to exempt FPIs from LTCG tax on government securities to attract long-term foreign capital.
+## Omar, Farooq Abdullah lead protest in Delhi seeking J&K statehood
+The protest, led by Chief Minister Omar Abdullah and National Conference president Farooq Abdullah, drew dozens of party legislators, its MPs and senior leaders.
 
-## Andhra govt to roll out 500 ‘Thalli-Bidda Express’ vehicles for mothers, newborns
-The CM inspected designated SUVs and MUVs, reviewing their design, safety features, facilities for mothers and infants, and branding for the initiative
-
-## Absolute Projects, Jindal Supreme secure SEBI's nod to float IPOs
-Shares of both companies will be listed on the BSE and NSE
-
-## ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline after Q1 results
-In today’s session, ICICI Bank shares rose after reporting healthy earnings growth backed by higher net interest income, non-interest income and lower provisions
+## Indian Hotels Company launches heritage-style property in Tamil Nadu’s Chettinad
+The brownfield project involves the conversion of an existing heritage-style property into a 20-key hotel which houses an all-day dining restaurant and lounge
 
 ## US fuel prices rise: Gasoline returns to $4 per gallon after Middle East flare-up
 Average petrol prices in the United States have now reached four dollars per gallon. This increase follows recent flare-ups and rising tensions in the Middle East region. Motorists in several states have been paying more than four dollars for some time. Crude oil prices have risen, impacting global 
@@ -87,53 +93,56 @@ Gold price prediction today: Gold prices continue to trade on a weak note as geo
 ## Rupee tumbles 12 paise against US dollar as Middle East tensions lift crude prices
 The Indian Rupee opened lower against the US dollar on Monday. Rising crude oil prices and Middle East tensions fueled dollar demand. Foreign capital outflows from equity markets also weakened the local currency. Indian stock markets traded lower, with Sensex and Nifty declining. India's foreign exc
 
-## Jodhpur woman dies post-delivery, latest in series of maternal deaths in Rajasthan
-Other women who developed complications after childbirth remain admitted to Jodhpur’s two major maternity hospitals
+## ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
+The Internet Freedom Foundation criticised the internet shutdown, saying no suspension order had been made public in violation of the law laid down by the Supreme Court.
 
-## Ken-Betwa project protests explained: Behind 'chita' and 'faansi' demonstrations in Madhya Pradesh
-Previously, police broke up the protest against the Ken-Betwa Link in MP's Chhatarpur district. Families affected by the project launched a ‘Chita Andolan’.
+## Leopard spotted in Ahmedabad housing society; forest teams launch search
+A leopard was caught on CCTV inside a residential society in Ahmedabad’s Ghuma, prompting the Gujarat forest department to launch a search and trapping operation.
 
-## Amid CJP protest, Omar Abdullah's Delhi auto ride for Jammu and Kashmir statehood demand stir
-Omar Abdullah said the party was stopped from holding a peaceful protest but insisted that its fight for statehood had "only just begun".
+## 'Most anti-youth PM ever': Rahul Gandhi attacks Narendra Modi in first reaction on CJP march
+Accusing PM Narendra Modi of being “the most youth-hostile PM”, Rahul Gandhi said the punishment for the alleged paper leaks was given to the students.
 
-## ₹1 crore compensation for NEET aspirants, Wangchuk's release: The 3 demands made by CJP during meeting with JP Nadda
-CJP leader Saurav Das said the delegation submitted a written memorandum outlining the demands.
+## CJP vows to continue protest until Dharmendra Pradhan resigns: ‘This is a long fight’
+Even after the protest site was cleared, CJP leaders, including, wife of activist Sonam Wangchuk, continued their sit-in near Kerala House.
 
-## Fight elections, Kangana dares CJP, says elected govt has the right to make decisions
-BJP an actor Kangana Ranaut said, “Our parliamentary session is on, so we can discuss all issues in detail, and the government is held accountable, but…"
+## Keeping up with UP | Sexual assault: Preaching, practice and politics
+Governor Anandiben Patel’s remarks on abandoned children reignite debate on sexual assault, women’s safety, sex education and political accountability in Uttar Pradesh.
 
-## Army joins rescue ops; IAF on standby as flood situation in Assam deteriorates
-Low to moderate flood alerts have been issued for Sivasagar, Charaideo, Jorhat, Golaghat, Chirang, Dibrugarh and Tinsukia
+## ‘No widespread issues’: On E20, govt faces question in Parliament, minister say this in reply
+In a written reply to the Rajya Sabha, Suresh Gopi said the Ethanol Blending Programme has been implemented through a phased, scientifically validated process.
 
-## Nine feared dead as torrential rains trigger landslides in Nagaland town
-At least 45 houses were destroyed by landslides that occurred in multiple locations across the town between 6 am and 2 pm, deputy commissioner of Mon said.
+## Talks over with Nadda, here's what CJP got as assurance from Modi's minister | Watch
+Speaking to reporters, Nadda said the protesters' delegation met him and submitted a written petition following detailed discussions.
 
-## TMC's Derek O Brien requests all-party meet from PM Modi for FCRA and delimitation
-Citing the government's “dubious record of mocking parliamentary rules of procedure and conventions, O' Brien questioned the governing party's "intention".
+## ‘Don’t play politics’: SC says SIT can oversee Ram Mandir donation probe
+The Supreme Court said it was a simple and prima facie case of commission of an offence and investigations have to be taken to their logical end
 
-## Salman Khan returns as Bigg Boss 20 host; JioStar announces six simultaneous editions
-
-
-## Married at 19, Naseeruddin Shah was ‘obnoxious’ to first wife; ‘absent dad’ to daughter Heeba
+## Mumbai court sentences 44 Somali pirates to life imprisonment in 2024 hijacking cases
 
 
-## 102 mg alcohol in blood: Karnataka High Court cuts compensation for drunk rider’s family
+## When Sonam Wangchuk stood up for Pune’s environmental causes
 
 
-## Can a husband’s employer be involved in matrimonial litigation? What SC said about the practice
+## ‘Hit on every inch of my body’: Protester from viral ‘maaro sir’ video
 
 
-## Hema Malini breaks down, says daughters Esha, Ahana struggling after Dharmendra’s death
+## New series propels June core sector growth to 5%, iron ore debuts with 43.9% rise
 
 
-## Chipmakers head for big profit gains, but will it be enough?
+## Why India pacers struggle in Jasprit Bumrah’s absence?
 
 
-## Meta faces Tennessee trial over allegations Instagram was designed to be addictive
+## Gujarat Police book 2 Vapi BJP corporators over alleged fake School Leaving Certificate
 
 
-## Actor Naresh calls E20 petrol a ‘nightmare,’ says it cost his friend Rs 3.5 lakh
+## In Ahmedabad, several detained as police crack down on protests in support of Wangchuk
 
+
+## 853 passes, one goal and total control: How Spain won FIFA World Cup
+
+
+## Chinese immigrants emerge as pivotal players in Canada’s property market amid foreign ban
+Mainland Chinese immigrants were estimated to have bought as much as C$5.7 billion (US$4 billion) worth of homes in Canada last year, making them a key group of non-local investors propping up the residential property market, according to one estimate. Ottawa barred most foreigners from purchasing h
 
 ## ‘Systemic leap’: China’s drug innovation push yields bumper crop
 Domestically produced novel drugs accounted for more than 80 per cent of market approvals in China in the first half of the year, reflecting a “leap” in the quality of the country’s pharmaceutical innovation, according to a government spokesman. A total of 38 innovative drugs were cleared for sale i
@@ -156,8 +165,14 @@ For Duke Ha, trust has factored into every aspect of his life, spanning professi
 ## CSRC chairman vows ‘stable market’ as A-share market rebounds on concerted buying
 China has doubled down on efforts to stabilise the country’s US$15 trillion stock market, with its securities regulator pledging to arrest equity declines and state entities conducting concerted buying, after the unwinding of the AI trade roiled global markets and sent a benchmark of technology stoc
 
-## Rule change urged for Hong Kong pension fund to allow wider ETF choice for 4.8m members
-The Chamber of Hong Kong Listed Companies is urging the pension regulator to relax rules so the 4.8 million members of the Mandatory Provident Fund (MPF) can invest more in Hong Kong-listed exchange-traded funds (ETFs), according to its chairman. “ETFs can provide stable returns to MPF members while
+## Fixing U.S. Security Assistance
+A new bill aims to stop the United States from “funding abuse.”
+
+## Britain’s New Prime Minister Must Stand Up to Trump
+Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes.
+
+## Flamingos Against Autocrats
+How a Gen Z-led protest movement in Albania is calling out corruption and global oligarchy.
 
 ## Banning AI Models Doesn’t Add Up to a Policy
 What is needed is an actionable agenda that ensures safe release and stable access.
@@ -173,15 +188,6 @@ Their teams will face off in the upcoming FIFA Men’s World Cup final.
 
 ## Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
 China wants to use the ancient deity Mazu to push unification narratives.
-
-## The Battle for Borsch
-Ukraine is using the beet-based soup to fortify national identity in the face of Russian aggression.
-
-## The Soccer Surveillance State
-How the United States used the World Cup as a testing ground for policing technologies.
-
-## Inside the Race to Protect Ukrainian
-Kyiv’s language revitalization program seeks to save Ukrainians’ mother tongue through complex state law.
 
 ## China, the US, and Nuclear Energy Geopolitics in Southeast Asia
 Nuclear reactor exports are becoming an increasingly important arena of strategic competition.
@@ -255,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Jubilation in Spain as La Roja beat Argentina to win second World Cup title
-La Roja defeat Argentina to win the title for the second time with a goal by Ferran Torres in extra-time.
+## Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?
+We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.
 
-## World Cup: Spain to be welcomed home by million-strong Madrid crowd
-Spain beat Argentina 1-0 in Sunday's final in the US, and are expected to parade the trophy in Madrid on Monday.
+## ‘I want to be honest with you’ says new UK PM Andy Burnham
+‘I want to be honest with you’ says new UK PM Andy Burnham
 
-## Occupied West Bank World Cup screening halted for funeral
-A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.
+## Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones
+Ukraine launches hundreds of drones towards Moscow a day after Russia unleashed a massive barrage of ballistic missiles.
 
-## What does Iran’s attack on Kuwait infrastructure mean for Gulf?
-What does Iran’s attack on Kuwait infrastructure mean for Gulf?
+## India’s Rohit Sharma ends retirement talk as World Cup 2027 still in sight
+Rohit struck 138 off 110 balls in defeat by England in third ODI, which some speculated could be his last for India.
 
-## World Cup: Spanish boy, 13, killed in fountain collapse during celebrations
-Tragedy struck in the Salamanca province when the 13-year-old died during celebrations for the win against Argentina.
+## Argentina fans throw stones at police after World Cup defeat
+Argentina fans throw stones at police after World Cup defeat
 
-## Police attack Cockroach activists as thousands march on Indian parliament
-More than 10,000 protesters braved tear gas and baton charges in their largest challenge yet to PM Modi's government.
+## Don’t believe Andy Burnham’s PR machine
+As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.
 
-## Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?
-Turkiye's expanding military ties in eastern Libya raise new questions about regional security and Egypt's red lines.
+## Why is Christopher Nolan’s Odyssey so controversial?
+Controversy has centred largely on casting, but it also reflects broader debates on who gets to retell this epic story.
 
-## Indian police beat ‘Cockroach’ march protesters
-Indian police beat ‘Cockroach’ march protesters
+## Iran says Spain World Cup win brings joy to critics of US, Israel
+Iran praises Spain's win over Argentina after Spanish government's condemnation of policies on Gaza and war on Iran.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
@@ -303,6 +309,9 @@ Tribunal dismisses appeal against NFRA's disciplinary action, holding that audit
 ## State Bank of India appoints former LIC finance head Sunil Agrawal as CFO
 State Bank of India has named Sunil Agrawal its new Chief Financial Officer, bringing with him a wealth of experience from his 27 years at LIC. His role as key managerial personnel highlights his expertise in financial planning and regulatory matters. This significant appointment aligns with ongoing
 
+## Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush
+Banks anticipate a surge in FCNR-B deposits before the September deadline. Initial inflows have been below expectations, but partnerships are being forged. Demand from non-resident Indians remains strong, especially from the Middle East. Lenders are intensifying outreach efforts to attract more over
+
 ## India's EXIM Bank plans $300 million dollar bond sale under RBI hedging facility
 Export-Import Bank of India plans to raise $300 million through dollar bonds. This move utilizes the central bank's subsidized hedging facility for overseas fundraising. The state-run institution will issue three-year floating-rate bonds priced over SOFR. Other development finance institutions and b
 
@@ -323,7 +332,4 @@ The National Stock Exchange of India (NSE) has received a 'sell' recommendation 
 
 ## Govt to replace WPI with Producer Price Index for future procurement contracts
 In a bid to modernize inflation measurement, the government is set to replace the Wholesale Price Index with the Producer Price Index for future government contracts and price changes. This initiative seeks to align India's procurement processes with global inflation metrics. Ministries are urged to
-
-## Private insurers seek tweaks in unlisted investment plan
-Private insurers want Irdai to change proposed investment norms for unlisted companies. They suggest linking exposure limits to shareholders' funds instead of surplus. This change could unlock billions for investment in privately held businesses. The proposed framework may expand sector investment c
 
