@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Who is in Andy Burnham’s new cabinet?
+UK prime minister announces top team, with some experienced faces returning to government
+
 ## Man charged with Ann Widdecombe murder
 Joshua Kerry will appear in court on Tuesday in relation to the killing of former Conservative minister
 
@@ -8,9 +11,6 @@ Andy Burnham said he will ‘use any flexibility’ within the fiscal rules
 
 ## Burnham stuns Labour MPs by choosing Healey as new chancellor
 UK prime minister’s choice of former defence minister surprises allies
-
-## Who is in Andy Burnham’s new cabinet?
-UK prime minister announces top team, with a number of experienced faces returning to government
 
 ## Big Tech’s AI backstops risk ignominy
 Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
@@ -114,6 +114,12 @@ ALPA India has urged the ministry and DGCA to “immediately suspend all commerc
 ## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
 Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
+## Protesters storm heart of Delhi, police use lathis and tear gas to stop march
+
+
+## Stone pelted on India’s first hydrogen train? Indian Railways responds to viral video
+
+
 ## AAP govt to distribute 4 lakh schoolbags with Chief Minister Bhagwant Mann’s photo today
 
 
@@ -130,12 +136,6 @@ Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that 
 
 
 ## Sohail Khan says he feels ‘lovely’ meeting ex-wife Seema Sajdeh; expert on healthy healing
-
-
-## Residents throng PCMC, demand Moshi garbage depot’s shift
-
-
-## PCMC extends SIR drive; BLO house visits until August 8
 
 
 ## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran condemns US attacks on civilian infrastructure
+Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.
+
+## What does Khalil al-Hayya’s election win mean for Gaza?
+Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression
+
+## Yemeni women support families through enterprise as economic crisis bites
+Amid Yemen’s harsh economic crisis, securing viable employment has become increasingly difficult for men.
+
+## EU pauses methane penalties amid energy crisis, US pressure
+The European Commission says waiving penalties will ensure the security of energy supply.
+
+## US judge orders pause on Paramount–Warner Bros merger
+Paramount risks $650m quarterly fees if merger delays extend beyond September, as per the merger agreement terms.
+
+## A tournament of contradictions: What did we learn at World Cup 2026?
+A look back at the World Cup's moments of glory and controversy, and their impact on fans, teams and the sport.
+
+## Protests in Italy after Moroccan man dies during arrest
+Outrage across Italy's political spectrum following death in Bologna likened to killing of George Floyd in 2020.
+
 ## Houthis announce maritime blockade on Saudi Arabia
 Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire
-
-## Trump vows Iran will ‘pay’ for killing US soldiers
-The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.
-
-## ‘Now or never’: Students defy Delhi lockdown to march on India’s parliament
-Youth-led protesters answer call of Cockroach Janta Party to demand accountability, sweeping reforms after exam scandal.
-
-## Petrol prices climb as US–Iran tensions disrupt markets
-US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.
-
-## FIFA World Cup: Five key takeaways from 2026 edition won by Spain
-Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The 'dark arts'?
-
-## Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison
-US judge hands life sentence to Ismael Zambada for leading one of Mexico's most violent drug cartels for decades.
-
-## Spain team arrives home after winning the World Cup
-World champions Spain have landed home carrying the World Cup trophy a day after defeating Argentina in the final.
-
-## Israeli air strike injures 14 in Gaza City
-An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
