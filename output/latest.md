@@ -1,13 +1,16 @@
 # AION Intelligence
 
+## US launches fresh Iran strikes as death toll climbs
+A service member died in a ‘controlled detonation’ of a drone after two soldiers were killed in Jordan with another missing
+
+## The AI revolution takes on the world’s most cyclical industry
+Massive investment plans lead to investor fears of a new boom and bust in memory chips
+
 ## Spain beat Argentina to win World Cup for second time
 Extra-time winner from Ferran Torres is decisive moment in tight but completely one-sided final
 
 ## FirstFT: Singapore weighs tax cuts for fund managers to rival Hong Kong
 Also in today’s newsletter: US-Iran war expands and EU faces crumbling support for new Russia sanctions
-
-## US death toll climbs as Iran war expands
-A service member died in a ‘controlled detonation’ of a drone after two troops were killed in Jordan with another missing
 
 ## Andy Burnham plans beefed-up control centre in Downing Street
 Incoming prime minister wants to be less reliant on ‘imperial’ Treasury as he bids to restore confidence in government
@@ -20,9 +23,6 @@ US group expects to have firepower to start work on 737 Max successor but warns 
 
 ## Burnham to maintain ban on North Sea exploration licences
 Decision criticised by oil and gas industry as well as trade union
-
-## UK must focus on insiders vs outsiders not north vs south
-Economists and politicians want to boost growth, but it must include people on the periphery of hotspots
 
 ## EU faces crumbling support for new Russia sanctions
 National capitals refuse to support measures that could hurt big companies
@@ -39,8 +39,8 @@ Video game retailer doubles stake in online marketplace as chief executive Ryan 
 ## Is Fifa’s hyper-commercialised World Cup here to stay?
 Dynamic ticket pricing and hydration breaks were unpopular with fans but the boost in revenues could be irresistible
 
-## No longer grim up north for UK banks as Burnham comes to power
-NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda
+## Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres’ goal
+Spain dominated throughout before Ferran Torres struck in extra time to beat 10-man Argentina 1-0, becoming the first nation to simultaneously hold both the men’s and women’s FIFA World Cup titles
 
 ## France’s Kylian Mbappé secures second World Cup Golden Boot with 10 goals
 Kylian Mbappé became the first player to finish as the top scorer at multiple World Cups, while Lionel Messi missed out after Argentina’s 1-0 extra-time defeat to Spain in the final
@@ -48,23 +48,20 @@ Kylian Mbappé became the first player to finish as the top scorer at multiple W
 ## JD Vance and Usha Vance welcome fourth child, first born to a sitting US vice president in over 150 years
 The arrival of the couple’s fourth child comes as JD Vance remains a vocal advocate for higher birth rates and bigger families in the US
 
-## Spain win the World Cup, beat Argentina 1-0 in extra time on Ferran Torres’ goal
-Spain dominated throughout before Ferran Torres struck in extra time to beat 10-man Argentina 1-0, becoming the first nation to simultaneously hold both the men’s and women’s FIFA World Cup titles
+## We try to make people’s quality of lives better: TMF’s Pras Ganesh
+Ganesh emphasised that this project reflects Toyota’s broader mission to improve lives, transcending traditional corporate social responsibility.
 
-## Armenia and Saudi Arabia among six nations eyeing India’s battle-tested Astra missiles
-Indonesia agreement fuels overseas demand for indigenous Astra air-to-air missiles
+## Layering trust over AI-led fintech
+Why Beams Fintech Fund profitability sees governance and AI usage as the defining metrics for fintech startups
 
-## BRICS trade unions for universal social protection, pay equity
-The Hyderabad Declaration, which was unanimously adopted during the conference
+## AI and colour-coded wayfinding solutions to manage crowds at Varanasi
+Toyota Mobility Foundation’s Sustainable Cities Challenge unearths exciting innovations to solve the holy city’s chronic crowd problem
 
-## Brokerages extend earnings recovery in Q1 as diversified revenue streams drive growth
-Margin funding, wealth and commodity businesses cushion impact of derivatives rule changes; digital brokers continue to outpace the industry
+## Inox Clean jumpstarts green growth
+Inox Clean has spent over ₹25,000 crore in the past year on buyouts to build a global clean energy platform
 
-## FCNR(B) mobilisation starts slow; banks remain optimistic on September-end targets
-Tax considerations, narrowing India-US yield spreads and competing investment options keep NRI participation cautious, even as banks intensify outreach efforts and target higher collections by September
-
-## CCPA initiates action against 41 restaurants for levying service charge by default
-CCPA fined Chaayos ₹50,000 for default and ordered a refund to affected customers, according to an official statement
+## Inside L&T Vyoma’s AI factory in Chennai
+The digital infrastructure arm of L&T is competing hard in the AI data centre race, leveraging its parent’s engineering capabilities
 
 ## More brands in store, but price cuts may lag
 New British brands are expected to enter Indian markets, offering consumers more retail choices. While duty cuts are beneficial, rupee depreciation may limit immediate price reductions. Some brands are pausing price hikes and reducing costs on specific product categories. Global supply chain issues 
@@ -90,6 +87,9 @@ Finance Minister Nirmala Sitharaman may seek parliamentary approval for addition
 ## Gold, silver under pressure this week as US-Iran conflict, oil rally cloud outlook
 
 
+## 'Will end fast if...': Sonam Wangchuk announces big terms ahead of CJP Parliament march today
+In a handwritten note from Safdarjung Hospital, Sonam Wangchuk alleged being "illegally detained".
+
 ## Section 163 imposed in parts of New Delhi ahead of CJP's Parliament march: What it means and what's prohibited?
 Police are maintaining constant surveillance in and around the protest site, while additional personnel have been stationed at strategic locations.
 
@@ -111,32 +111,32 @@ Dharmendra Pradhan shared photo with student a day after Delhi Police forcibly r
 ## 'No hospital can force its treatment on patient': Sonam Wangchuk's wife after HC denies request to shift activist
 Wangchuk's wife alleged that his personal doctors, who had been monitoring his health for years, were not being allowed access to him.
 
-## 5 dead, four more missing after landslides in Nagaland’s Mon district
-Officials said at least 45 houses were completely destroyed in the landslides, which struck multiple locations across the town between 6am and 2pm
-
-## 8 killed as rain triggers landslips in Nagaland
+## Gill on mounting injury list: Players are not able to finish 2-3 matches here
 
 
-## Mbappe wins Golden Boot: Check out all awards of 2026 FIFA World Cup
+## India once dominated the textile trade. It needs institutions to make a mark again
 
 
-## Torres’ strike helps Spain defeat Argentina 1-0, lift second World Cup trophy
+## Patents should not put cancer care out of reach
 
 
-## 0 shots in 90 mins: Argentina’s unwanted record vs Spain in World Cup final
+## Omar Abdullah writes: Don’t judge my speech on J&K statehood on a single line
 
 
-## Shubman Gill on Rohit Sharma’s future: He has not told us anything
+## Weekly Horoscope, 20-July to 26-July-2026: Explore our weekly horoscope and navigate the week ahead with confidence
 
 
-## Bloodshed in Balochistan: Why Pakistan’s resource-rich province remains in conflict
+## An uncertain world needs food, fuel, forex buffers
 
 
-## Iran hits US bases, downs MQ-9 Reaper drones as Middle East war escalates
+## Opposition must find its voice in Monsoon Session
 
 
-## Rohit Sharma’s century goes in vain as England clinch ODI series with 27-run win
+## Are blood sugar spikes after meals harmful?
 
+
+## Rule change urged for Hong Kong pension fund to allow wider ETF choice for 4.8m members
+The Chamber of Hong Kong Listed Companies is urging the pension regulator to relax rules so the 4.8 million members of the Mandatory Provident Fund (MPF) can invest more in Hong Kong-listed exchange-traded funds (ETFs), according to its chairman. “ETFs can provide stable returns to MPF members while
 
 ## To survive China’s cost-conscious market, global brands embrace AI and robots
 Multinational companies have expanded their use of AI and robotics in China to survive “life or die” competition in the world’s second-largest consumer goods market, where local rivals have sharpened their edge and shoppers often switch between brands for better value, analysts said. L’Oréal, for ex
@@ -158,9 +158,6 @@ BNP Paribas, France’s largest lender and the second-largest in Europe, has fou
 
 ## Tourism appeal adds to Australia’s edge in drawing mainland Chinese, Hong Kong homebuyers
 Australia’s tourism appeal and property price correction are reinforcing the case for mainland Chinese and Hong Kong investors to buy homes down under, according to agents. Education had long been a major draw for many mainland and Hong Kong buyers, but the country’s tourist attractions, relaxed lif
-
-## Hong Kong homebuyers snap up 138 Garden Regency flats in New Territories project
-Sun Hung Kai Properties (SHKP), Hong Kong’s largest developer by market capitalisation, has sold out the first batch of units at its Garden Regency project in the New Territories on Saturday, according to agents. By 3.30pm, all 138 flats the developer had launched in the Kam Tin North project in Yue
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
@@ -258,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: US military carries out another wave of strikes on Iran
+US forces attack Iran for ninth consecutive night as one US soldier killed in northern Iraq.
+
+## US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone
+The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.
+
+## US Vice President JD Vance and his wife announce birth of fourth child
+JD and Usha Vance welcome a baby boy, the first child born to a sitting vice president in more than 150 years.
+
 ## A bird’s-eye view as Donald Trump arrives for the World Cup final
 Donald Trump arrived at the 2026 FIFA World Cup final between Spain and Argentina aboard Marine One.
 
@@ -272,15 +278,6 @@ Ferran Torres scores the only goal of the game as Spain win their second World C
 
 ## When, where, and how Spain won the World Cup final against Argentina
 Spain are world champions for the second time after Ferran Torres scored the winner against Argentina in extra time.
-
-## Israeli ministers join march to Gaza to demand return of settlements
-Hundreds gather near the border as far-right figures push to rebuild settlements removed in 2005
-
-## World Cup 2026: What are the extra time and penalty shootout rules?
-Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.
-
-## What happened in the first half of the Spain vs Argentina World Cup final?
-All the biggest talking points and statistics from the first 45 minutes of a goalless World Cup final in New Jersey.
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
