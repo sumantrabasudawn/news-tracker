@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Sinaloa cartel founder handed $15bn forfeiture order and life sentence
+‘El Mayo’, who co-founded group alongside ‘El Chapo’, was sentenced to life in prison
+
+## Ebola death toll rises to 930, as outbreak spreads at record pace
+Africa Centres for Disease Control and Prevention and partners plan trial of two existing jabs
+
+## Labour has handed Burnham a blank cheque
+The new premier’s MPs think they have backed a winner but have no idea what his programme will be
+
+## Don’t blame colonialism for Africa’s trade woes
+The continent’s growth is being hemmed in by blocked trade arteries, not arbitrary borders drawn in Berlin in 1885
+
+## US petrol prices climb back above $4 as Iran war intensifies
+Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
+
 ## Lockheed seeks European production for cheaper Patriot missile
 US defence group seeking approval from Washington to build out supply chain in region
 
@@ -9,20 +24,8 @@ Trust is not a prerequisite for peacemaking — and Iran and its neighbours shou
 ## Andy Burnham’s first speech as PM: what he said and what he meant
 Downing Street address offers succinct outline of new leader’s politics — and the problems he will face
 
-## Yemen’s Houthi rebels threaten blockade against Saudi Arabia
-Renewed fighting puts kingdom’s crude exports through Red Sea at risk
-
-## Oil touches $90 after Iran hits tankers
-Crude later falls back after Tehran says it has received proposals from mediators about the war
-
-## Why Mullin is struggling to keep ICE out of the headlines
-Two killings by federal agents in the space of a week have drawn attention to the downsides of a DHS hiring spree
-
 ## UK businesses are not deepening their use of AI, suggests ONS data
 Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products
-
-## How I got into Berghain, Berlin’s notoriously selective club
-The mystique of its intimidating door policy still convinces people to fly in from all around the world
 
 ## Anduril launches helicopter strike drone
 Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in their arsenal
@@ -39,32 +42,41 @@ In New South Wales, KS7 claims to be the world’s first ultra-premium brand
 ## Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist
 London-listed group declines third offer in escalating battle
 
-## Samsung Biologics buys Swiss peptide maker for $1.8bn
-PolyPeptide takeover is latest example of South Korean companies expanding abroad through acquisitions
+## Malware attack lapses: SEBI imposes ₹1 crore fine on CDSL
+Regulator says cybersecurity failures exposed critical systems to attack
 
-## Lotus Petal opens first SSE bond issue since CSR rule change
-₹1-crore issue opens today with 12% subscribed on Day 1 as corporates begin using the Social Stock Exchange route for CSR
+## Tata Steel announces ₹10,000 crore investment in Jharkhand, to create 2,000 jobs
+The investment includes ₹7,000 crore for Hisarna and Easy Melting Technology to expand low-carbon steelmaking in India
 
-## Godrej Agrovet inaugurates integrated oil palm complex in Telangana
-₹300 crore seed-to-refinery complex to boost firm’s expansion plans
+## NEET paper leak: Lakhs march to Parliament, seek Education Minister’s resignation
+Police and protesters clash when march was stopped with barricades and teargas shells
 
-## Caliber Mining IPO subscribed 23.37 times on day 2
-The IPO has a fresh issue of equity shares worth ₹400 crore and an offer-for-sale of shares worth ₹50 crore by promoters
+## Rallis India Q1 net profit jumps 31% to ₹125 cr on higher revenues
+Revenues rise 7% to ₹1,022 crore on growth in crop care, seeds, soil and plant health segment
 
-## Sugar trade body AISTA dismisses concern over shortage amid price rise
-The sugar body urges members to maintain availability and avoid panic buying.
+## IndiGo orders record 1,000 LEAP engines for Airbus planes, plans repair shop
+The LEAP engine is one of the two power plant options for Airbus A320neo and Boeing 737 Max planes
 
-## IndiGo selects Honeywell systems for 810 Airbus aircraft
-Agreement marks Honeywell Aerospace’s largest-ever commercial equipment and services deal
+## Small onion prices may rule at ₹30-35/kg during upcoming harvest
+In Tamil Nadu, small onions account for nearly 80% of the State’s total onion production
 
-## What investors need to glean from HDFC Bank’s Q1 FY27 results
-Market’s reaction reflects concerns over NIM compression but the bank has long-term levers for margin expansion
+## iD Fresh Food elevates India CEO Rajat Diwakar to its board
+Diwakar joined iD Fresh Food in 2024 as CEO for India
 
-## Mumbai Port taps top law firms to recover ₹3500 crore lease dues
-The port owns vast swathes of land and has several high profile tenants with whom it has rent related disputes
+## NHA de-empanels over 2,000 hospitals in fraud crackdown under AB PM-JAY: Report
+National Anti-Fraud Unit under AB PM-JAY imposes penalties worth ₹114.06 crore on hospitals, report says
 
-## Smaller companies dominate NCLT approvals while larger companies are bogged down by litigations
-While the volume of approvals has increased, the average value of each approved resolution plan has fallen sharply, highlighting that smaller insolvency cases are reaching closure faster than large corporate defaults
+## E20 petrol debate: Govt cites data for 23 crore vehicles, says 'no verified evidence' of widespread engine failure
+Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been "phased, calibrated and evidence-based," noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 following "scientific evaluation and stakeholder
+
+## India's forex boost: RBI's swap scheme raises $20.72 billion so far
+The Reserve Bank of India's special swap facility attracted $20.72 billion by July 17. Most of this money arrived through Foreign Currency Non-Resident deposits. Overseas Foreign Currency Borrowings and External Commercial Borrowings also contributed to inflows. This facility was launched to strengt
+
+## Coca-Cola adds fizz to India bottling unit IPO plan, appoints JPMorgan & Citi as bankers
+Coca-Cola's Indian bottling unit IPO plans are advancing. JPMorgan and Citi have been appointed to manage the proposed 2027 listing. The company is also exploring the sale of a portion of its stake. This move aligns with Coca-Cola's global asset-light strategy. Hindustan Coca-Cola Beverages is a lea
+
+## Fresh threat to global oil supply: Saudi Arabia’s crude exports at risk as Yemen’s Houthis look to impose maritime blockade
+Relations between Saudi Arabia and the Houthis have deteriorated since last week after Riyadh carried out an attack on Sana'a airport. Any disruption to Red Sea shipments, currently the primary route for Saudi Arabia's crude exports, would further intensify the impact of the conflict on global oil t
 
 ## DGCA's new eGCA platform aims to make aviation incident reporting faster
 The DGCA is developing a digital platform for faster aviation incident reporting. This initiative aims to enhance the country's aviation safety oversight capabilities. Airfare pricing is determined by dynamic supply and demand forces. The government generally avoids regulating airfares to maintain m
@@ -78,17 +90,23 @@ The S&P 500 advanced 0.6%, following its first weekly loss in three weeks and on
 ## Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels
 China's commitment to maintain supplies of critical materials, including rare-earth magnets, formed a central element of the October agreement under which Trump and Chinese President Xi Jinping agreed to pause the trade war.
 
-## US fuel prices rise: Gasoline returns to $4 per gallon after Middle East flare-up
-Average petrol prices in the United States have now reached four dollars per gallon. This increase follows recent flare-ups and rising tensions in the Middle East region. Motorists in several states have been paying more than four dollars for some time. Crude oil prices have risen, impacting global 
+## Indus Waters Treaty won’t work in present form as Pakistan backs terror: India
+The people dismissed Pakistan’s efforts at creating a “victim narrative” on the false premise that India intends to cut off water supplies.
 
-## Era of cheap borrowing may be over as world enters 'a new macro regime': Moody's
-The era of ultra-low interest rates is ending, ushering in higher borrowing costs. Investors anticipate sustained investment in artificial intelligence and infrastructure projects. Geopolitical risks are also expected to remain elevated in the coming years. Bond markets reflect expectations of struc
+## Lathis, tears, barricades: How CJP march was halted by police | Ground Report
+It began as a peaceful march carrying flowers for police personnel. By late afternoon, the main protest stage at Jantar Mantar had been entirely dismantled.
 
-## Nifty500 Ahimsa: NSE Indices launches new thematic index for exposure to companies aligned with non-violence principles - how it works
-The index draws its constituents from the broad-based Nifty 500 universe, enabling diversified sectoral representation while giving preference to companies whose business practices exhibit a stronger commitment to responsible and sustainable principles.
+## CJI Surya Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
+At heart of Sanjay Raut's post was a courtroom observation CJI Surya Kant made in mid-May; thereafter the Cockroach Janta Party came up as satire at first
 
-## Indigenous bullet train, inter-operable signalling system: What’s happening on India’s first high-speed rail project
-India is planning to begin trials of its domestically developed bullet trains by the middle of 2027. Civil construction on the 97-km Surat-Vapi high-speed rail stretch is scheduled to be completed this year.
+## Gujarat man arrested for rape, killing 4-yr-old shot dead trying to escape: Cops
+Police said Parmar was arrested in the Borsad area on Sunday evening and was being brought to the police station when the incident took place.
+
+## Pilots' association writes to aviation ministry and DGCA, flags risks to Indian flights amid West Asia conflict
+ALPA India has urged the ministry and DGCA to “immediately suspend all commercial flight operations by Indian operators to the affected Gulf destinations".
+
+## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
+Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
 ## ‘Lied to family, faced lathis here’: Young women at CJP march recount experience, ‘like cockroaches, we'll return’
 One of the protesters was a 17-year-old girl who, before leaving home on Monday morning, told her family that she was going to school.
@@ -96,47 +114,32 @@ One of the protesters was a 17-year-old girl who, before leaving home on Monday 
 ## Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
 She also backed the government's approach to addressing the issue, saying concerns should be resolved through discussions rather than demonstrations.
 
-## Two barge into Imphal East home, shoot man dead, injure wife: Manipur police
-Police said that some unknown miscreants entered a residential house at Keirao Wangkhem Mamang Leikai in Imphal East and attacked the couple
-
-## 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
-Sonam Wangchuk said that he was touched and moved by how the youth have held on to peace despite provocation.
-
-## Who called whom? JP Nadda, CJP leaders differ on how the talks happened
-In a post on X after the meeting, JP Nadda said the initiative had come from the protesters.
-
-## ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
-The Internet Freedom Foundation criticised the internet shutdown, saying no suspension order had been made public in violation of the law laid down by the Supreme Court.
-
-## Leopard spotted in Ahmedabad housing society; forest teams launch search
-A leopard was caught on CCTV inside a residential society in Ahmedabad’s Ghuma, prompting the Gujarat forest department to launch a search and trapping operation.
-
-## 'Most anti-youth PM ever': Rahul Gandhi attacks Narendra Modi in first reaction on CJP march
-Accusing PM Narendra Modi of being “the most youth-hostile PM”, Rahul Gandhi said the punishment for the alleged paper leaks was given to the students.
-
-## ‘Revolver Rani’ of Bengal: A jute bag, an interstate arms syndicate, and the woman ‘running’ an interstate syndicate
+## Pune youngster kills father’s ‘killer’ after 23 years
 
 
-## No Detailed Project Report received for metro rail extension upto Rishikesh: Centre
+## How Seoul’s outdoor libraries are turning parks into open-air reading rooms
 
 
-## Explosion outside FBI, ICE building in New York; suspect held in anti-ICE attack
+## Assam floods disrupt rail services: Over 30 trains cancelled, diverted and short-terminated – Full list
 
 
-## Why government is talking to CJP, but stopping short of concessions
+## Banks mobilise $17.40 billion under special FCNR(B) scheme
 
 
-## Gujarat High Court asks why no inquiry against Surat municipal chief over demolition
+## Goalkeeper Emiliano Martinez: Argentina player with most touches of ball
 
 
-## Lawyers facing criminal cases cannot practice, says Allahabad High Court
+## 4 Indians killed after commercial vessel attacked near Ukraine’s Odesa Port
 
 
-## Shabana Azmi, Prakash Raj sit in truck with CJP protesters; Kangana, Hema Malini back govt
+## Chennai Grand Masters: Gukesh loses to Erigaisi in game that he was winning
 
 
-## The Daily Catch-Up: Your essential evening round-up of today’s stories
+## Japan PM says she’s running on 3 hours’ sleep—and ironing her own clothes
 
+
+## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
+Hungary’s government announced an investigation on Monday into a large foreign investment by Chinese carmaker BYD negotiated by a former foreign minister who last week resigned from parliament to take an executive position at the company. Peter Szijjarto’s announcement last Wednesday that he would t
 
 ## Chinese immigrants emerge as pivotal players in Canada’s property market amid foreign ban
 Mainland Chinese immigrants were estimated to have bought as much as C$5.7 billion (US$4 billion) worth of homes in Canada last year, making them a key group of non-local investors propping up the residential property market, according to one estimate. Ottawa barred most foreigners from purchasing h
@@ -159,8 +162,11 @@ Wall Street giant Citigroup has adjusted its emerging market asset allocation re
 ## For retired businessman and lifelong sailor, trust anchors the process of building wealth
 For Duke Ha, trust has factored into every aspect of his life, spanning professional and personal successes across borders. It is measured by actions rather than words, and reflected by steadfast reliance on a process. The retired construction businessman and avid sailor hails from Vietnam, where he
 
-## CSRC chairman vows ‘stable market’ as A-share market rebounds on concerted buying
-China has doubled down on efforts to stabilise the country’s US$15 trillion stock market, with its securities regulator pledging to arrest equity declines and state entities conducting concerted buying, after the unwinding of the AI trade roiled global markets and sent a benchmark of technology stoc
+## Europe Is Back in 1952
+France and Germany again locked into military rivalry is bad news for the rest of Europe.
+
+## A New Great Game Is Underway in Central Asia
+The world’s great powers are engaging a new battleground in their search for critical minerals.
 
 ## Fixing U.S. Security Assistance
 A new bill aims to stop the United States from “funding abuse.”
@@ -179,12 +185,6 @@ In the 1970s, fears of an out-of-control executive branch emanated from Democrat
 
 ## U.S., Iranian Forces Target Civilian Infrastructure
 Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
-
-## Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else
-Their teams will face off in the upcoming FIFA Men’s World Cup final.
-
-## Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
-China wants to use the ancient deity Mazu to push unification narratives.
 
 ## China, the US, and Nuclear Energy Geopolitics in Southeast Asia
 Nuclear reactor exports are becoming an increasingly important arena of strategic competition.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Andy Burnham pledges end to political instability as he becomes UK PM
-Britain's seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.
+## Israeli air strike injures 14 in Gaza City
+An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.
 
-## What are ‘civilian’ sites in international law and where have US, Iran hit?
-The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.
+## Philippine sailor injured during clash with Chinese coast guard
+A member of China’s coast guard is accused of injuring a Philippine sailor after striking him with a wooden baton.
 
-## What we know about US soldiers killed in Iran war, and Iranian casualties
-Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.
+## At least 25 killed as floods and landslides hit northern India
+Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.
 
-## Petro to give farewell speech amid Colombia transfer-of-power tensions
-The outgoing president has called for protests as he continues to dispute the results of last month's election.
+## Lebanon’s military starts ‘pilot zone’ takeover in south
+Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.
 
-## Israeli ministers and settlers call for return to Gaza settlements
-‘Gaza is ours.’
+## Iran says diplomatic efforts ongoing via mediators amid fighting with US
+An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.
 
-## Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism
-Digital inclusion and civil liberties campaigners welcome the U-turn — for different reasons. But some are unhappy.
+## Spain go back to the top of FIFA rankings, Morocco reach record high
+Norway saw the biggest jump in their rankings, climbing 12 spots to 19th after reaching the World Cup quarterfinals.
 
-## Why Palestinians in Gaza are celebrating Spain’s World Cup win
-Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.
+## Former England manager and two-time Ballon d’Or winner Keegan dies aged 75
+Kevin Keegan, the iconic striker for Liverpool, Newcastle and England, was diagnosed with stage four cancer last year.
 
-## Who is Khalil al-Hayya, Hamas’s newly elected political chief?
-Veteran negotiator assumes Palestinian group's overall leadership following a wartime election process.
+## China, immigration, drugs: Behind US policy in Latin America
+Latin America analyst Brian Winter argues that Trump sees Venezuela as a foreign policy success… and Cuba may be next.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
