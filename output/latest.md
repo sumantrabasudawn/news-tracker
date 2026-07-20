@@ -1,28 +1,28 @@
 # AION Intelligence
 
+## Lockheed seeks European production for cheaper Patriot missile
+US defence group seeking approval from Washington to build out supply chain in region
+
+## The Middle East needs its own Helsinki Act
+Trust is not a prerequisite for peacemaking — and Iran and its neighbours should follow the example of cold war détente
+
+## Andy Burnham’s first speech as PM: what he said and what he meant
+Downing Street address offers succinct outline of new leader’s politics — and the problems he will face
+
+## Yemen’s Houthi rebels threaten blockade against Saudi Arabia
+Renewed fighting puts kingdom’s crude exports through Red Sea at risk
+
+## Oil touches $90 after Iran hits tankers
+Crude later falls back after Tehran says it has received proposals from mediators about the war
+
 ## Why Mullin is struggling to keep ICE out of the headlines
 Two killings by federal agents in the space of a week have drawn attention to the downsides of a DHS hiring spree
 
 ## UK businesses are not deepening their use of AI, suggests ONS data
 Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products
 
-## Yemen’s Houthi rebels threaten blockade against Saudi Arabia
-Renewed fighting puts kingdom’s crude exports through Red Sea at risk
-
 ## How I got into Berghain, Berlin’s notoriously selective club
 The mystique of its intimidating door policy still convinces people to fly in from all around the world
-
-## Zelenskyy’s crisis deepens as ex-defence minister rejects offer to return
-Ukrainian president under pressure to replace commander-in-chief who clashed with Mykhailo Fedorov
-
-## Oil touches $90 after Iran hits tankers
-Crude later falls back after Tehran says it has received proposals from mediators about the war
-
-## The ‘decayed’ impact of Trump’s Truth Social bombs
-Markets are gradually learning to ignore the president
-
-## Trump orders the ceremonial changing of the tariff guard
-The bogus rationale for duties has rotated from economic emergency to balance of payments to unfair trade
 
 ## Anduril launches helicopter strike drone
 Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in their arsenal
@@ -39,35 +39,44 @@ In New South Wales, KS7 claims to be the world’s first ultra-premium brand
 ## Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist
 London-listed group declines third offer in escalating battle
 
-## Lockheed to build cheaper Patriot missile to counter drone threat
-US defence group says new weapon will be less than half cost of current flagship interceptor
-
 ## Samsung Biologics buys Swiss peptide maker for $1.8bn
 PolyPeptide takeover is latest example of South Korean companies expanding abroad through acquisitions
 
-## Q1 Results Today Live: UltraTech PAT up, IOB, KVB Q1 PAT climb, Mahindra Logistics, Dynamic Cables & Shyam Metalics zoom, Paytm, Sobha, JP Power, Bluestone to announce Q1 results
-Q1 Results Today, 20th July 2026 Live Updates:
+## Lotus Petal opens first SSE bond issue since CSR rule change
+₹1-crore issue opens today with 12% subscribed on Day 1 as corporates begin using the Social Stock Exchange route for CSR
 
-## Ford delegation meets Tamil Nadu CM, engine production plant at Maraimalai Nagar among discussion points
-Ford is establishing what is expected to be its first powertrain manufacturing facility outside the US, at Maraimalai Nagar.
+## Godrej Agrovet inaugurates integrated oil palm complex in Telangana
+₹300 crore seed-to-refinery complex to boost firm’s expansion plans
 
-## Broker’s call: WeWork India (Buy)
-ICICI Securities
+## Caliber Mining IPO subscribed 23.37 times on day 2
+The IPO has a fresh issue of equity shares worth ₹400 crore and an offer-for-sale of shares worth ₹50 crore by promoters
 
-## Karnataka Bank appoints Aruna Shyam as Additional Director
-Aruna Shyam is a postgraduate in Business Law and holds a doctorate in Law
+## Sugar trade body AISTA dismisses concern over shortage amid price rise
+The sugar body urges members to maintain availability and avoid panic buying.
 
-## India-Tibet barter trade via Lipulekh Pass to resume next month after 7 years
-Indian traders have been granted permission to enter the market in Purang (Taklakot), Tibet, and the trade will commence on August 1
+## IndiGo selects Honeywell systems for 810 Airbus aircraft
+Agreement marks Honeywell Aerospace’s largest-ever commercial equipment and services deal
 
-## CropLife India expands sustainable farming initiatives for tea, spices
-CropLife India has also undertaken initiatives to expand the availability of registered crop protection products for tea through science-based regulatory processes
+## What investors need to glean from HDFC Bank’s Q1 FY27 results
+Market’s reaction reflects concerns over NIM compression but the bank has long-term levers for margin expansion
 
-## Omar, Farooq Abdullah lead protest in Delhi seeking J&K statehood
-The protest, led by Chief Minister Omar Abdullah and National Conference president Farooq Abdullah, drew dozens of party legislators, its MPs and senior leaders.
+## Mumbai Port taps top law firms to recover ₹3500 crore lease dues
+The port owns vast swathes of land and has several high profile tenants with whom it has rent related disputes
 
-## Indian Hotels Company launches heritage-style property in Tamil Nadu’s Chettinad
-The brownfield project involves the conversion of an existing heritage-style property into a 20-key hotel which houses an all-day dining restaurant and lounge
+## Smaller companies dominate NCLT approvals while larger companies are bogged down by litigations
+While the volume of approvals has increased, the average value of each approved resolution plan has fallen sharply, highlighting that smaller insolvency cases are reaching closure faster than large corporate defaults
+
+## DGCA's new eGCA platform aims to make aviation incident reporting faster
+The DGCA is developing a digital platform for faster aviation incident reporting. This initiative aims to enhance the country's aviation safety oversight capabilities. Airfare pricing is determined by dynamic supply and demand forces. The government generally avoids regulating airfares to maintain m
+
+## Hormuz disruptions: India’s crude oil imports from Russia remain near all-time high in July despite no sanctions waiver from US
+Industry experts say India's crude procurement pattern during the US-Iran conflict reflects a flexible and well-diversified sourcing strategy. India’s crude oil imports from Russia in July so far have averaged at around 2.45 million barrels per day.
+
+## US stock market today: Wall Street back in green; AI-related, chipmaker stocks rebound
+The S&P 500 advanced 0.6%, following its first weekly loss in three weeks and only its third weekly decline since the end of March. Nvidia rose 1.9%, helping lift the broader market after being the biggest drag on the S&P 500 during Friday's session. Sandisk also recovered, jumping 6.7% after slidin
+
+## Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels
+China's commitment to maintain supplies of critical materials, including rare-earth magnets, formed a central element of the October agreement under which Trump and Chinese President Xi Jinping agreed to pause the trade war.
 
 ## US fuel prices rise: Gasoline returns to $4 per gallon after Middle East flare-up
 Average petrol prices in the United States have now reached four dollars per gallon. This increase follows recent flare-ups and rising tensions in the Middle East region. Motorists in several states have been paying more than four dollars for some time. Crude oil prices have risen, impacting global 
@@ -81,17 +90,20 @@ The index draws its constituents from the broad-based Nifty 500 universe, enabli
 ## Indigenous bullet train, inter-operable signalling system: What’s happening on India’s first high-speed rail project
 India is planning to begin trials of its domestically developed bullet trains by the middle of 2027. Civil construction on the 97-km Surat-Vapi high-speed rail stretch is scheduled to be completed this year.
 
-## After cars, now ethanol may make its way to your kitchen: Plans in the works to introduce it as mainstream cooking fuel alongside LPG
-As part of the proposed framework, the government is expected to examine subsidy mechanisms and measures to develop the necessary supply chain for wider adoption of ethanol.
+## ‘Lied to family, faced lathis here’: Young women at CJP march recount experience, ‘like cockroaches, we'll return’
+One of the protesters was a 17-year-old girl who, before leaving home on Monday morning, told her family that she was going to school.
 
-## Stocks to buy: What's the outlook for Nifty for July 20-July 24 week? Check list of top stock recommendations
-Stock market recommendations: Bharat Forge, and Bajaj Finance - these are the top stocks to buy that Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities has recommended for the July 20-July 24, 2026 week.
+## Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
+She also backed the government's approach to addressing the issue, saying concerns should be resolved through discussions rather than demonstrations.
 
-## Gold price prediction today: Why are gold prices under pressure? Check outlook for July 20, 2026 week
-Gold price prediction today: Gold prices continue to trade on a weak note as geopolitical developments keep investors wary, says Manav Modi, Senior Analyst, Commodity Research at Motilal Oswal Financial Services Ltd.
+## Two barge into Imphal East home, shoot man dead, injure wife: Manipur police
+Police said that some unknown miscreants entered a residential house at Keirao Wangkhem Mamang Leikai in Imphal East and attacked the couple
 
-## Rupee tumbles 12 paise against US dollar as Middle East tensions lift crude prices
-The Indian Rupee opened lower against the US dollar on Monday. Rising crude oil prices and Middle East tensions fueled dollar demand. Foreign capital outflows from equity markets also weakened the local currency. Indian stock markets traded lower, with Sensex and Nifty declining. India's foreign exc
+## 'Will continue my fast': Sonam Wangchuk after 'brutality on peaceful protesters'
+Sonam Wangchuk said that he was touched and moved by how the youth have held on to peace despite provocation.
+
+## Who called whom? JP Nadda, CJP leaders differ on how the talks happened
+In a post on X after the meeting, JP Nadda said the initiative had come from the protesters.
 
 ## ‘Govt ordered mobile internet shutdown till 6 pm around Jantar Mantar’
 The Internet Freedom Foundation criticised the internet shutdown, saying no suspension order had been made public in violation of the law laid down by the Supreme Court.
@@ -102,43 +114,28 @@ A leopard was caught on CCTV inside a residential society in Ahmedabad’s Ghuma
 ## 'Most anti-youth PM ever': Rahul Gandhi attacks Narendra Modi in first reaction on CJP march
 Accusing PM Narendra Modi of being “the most youth-hostile PM”, Rahul Gandhi said the punishment for the alleged paper leaks was given to the students.
 
-## CJP vows to continue protest until Dharmendra Pradhan resigns: ‘This is a long fight’
-Even after the protest site was cleared, CJP leaders, including, wife of activist Sonam Wangchuk, continued their sit-in near Kerala House.
-
-## Keeping up with UP | Sexual assault: Preaching, practice and politics
-Governor Anandiben Patel’s remarks on abandoned children reignite debate on sexual assault, women’s safety, sex education and political accountability in Uttar Pradesh.
-
-## ‘No widespread issues’: On E20, govt faces question in Parliament, minister say this in reply
-In a written reply to the Rajya Sabha, Suresh Gopi said the Ethanol Blending Programme has been implemented through a phased, scientifically validated process.
-
-## Talks over with Nadda, here's what CJP got as assurance from Modi's minister | Watch
-Speaking to reporters, Nadda said the protesters' delegation met him and submitted a written petition following detailed discussions.
-
-## ‘Don’t play politics’: SC says SIT can oversee Ram Mandir donation probe
-The Supreme Court said it was a simple and prima facie case of commission of an offence and investigations have to be taken to their logical end
-
-## Mumbai court sentences 44 Somali pirates to life imprisonment in 2024 hijacking cases
+## ‘Revolver Rani’ of Bengal: A jute bag, an interstate arms syndicate, and the woman ‘running’ an interstate syndicate
 
 
-## When Sonam Wangchuk stood up for Pune’s environmental causes
+## No Detailed Project Report received for metro rail extension upto Rishikesh: Centre
 
 
-## ‘Hit on every inch of my body’: Protester from viral ‘maaro sir’ video
+## Explosion outside FBI, ICE building in New York; suspect held in anti-ICE attack
 
 
-## New series propels June core sector growth to 5%, iron ore debuts with 43.9% rise
+## Why government is talking to CJP, but stopping short of concessions
 
 
-## Why India pacers struggle in Jasprit Bumrah’s absence?
+## Gujarat High Court asks why no inquiry against Surat municipal chief over demolition
 
 
-## Gujarat Police book 2 Vapi BJP corporators over alleged fake School Leaving Certificate
+## Lawyers facing criminal cases cannot practice, says Allahabad High Court
 
 
-## In Ahmedabad, several detained as police crack down on protests in support of Wangchuk
+## Shabana Azmi, Prakash Raj sit in truck with CJP protesters; Kangana, Hema Malini back govt
 
 
-## 853 passes, one goal and total control: How Spain won FIFA World Cup
+## The Daily Catch-Up: Your essential evening round-up of today’s stories
 
 
 ## Chinese immigrants emerge as pivotal players in Canada’s property market amid foreign ban
@@ -261,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?
-We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.
+## Andy Burnham pledges end to political instability as he becomes UK PM
+Britain's seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.
 
-## ‘I want to be honest with you’ says new UK PM Andy Burnham
-‘I want to be honest with you’ says new UK PM Andy Burnham
+## What are ‘civilian’ sites in international law and where have US, Iran hit?
+The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.
 
-## Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones
-Ukraine launches hundreds of drones towards Moscow a day after Russia unleashed a massive barrage of ballistic missiles.
+## What we know about US soldiers killed in Iran war, and Iranian casualties
+Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.
 
-## India’s Rohit Sharma ends retirement talk as World Cup 2027 still in sight
-Rohit struck 138 off 110 balls in defeat by England in third ODI, which some speculated could be his last for India.
+## Petro to give farewell speech amid Colombia transfer-of-power tensions
+The outgoing president has called for protests as he continues to dispute the results of last month's election.
 
-## Argentina fans throw stones at police after World Cup defeat
-Argentina fans throw stones at police after World Cup defeat
+## Israeli ministers and settlers call for return to Gaza settlements
+‘Gaza is ours.’
 
-## Don’t believe Andy Burnham’s PR machine
-As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.
+## Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism
+Digital inclusion and civil liberties campaigners welcome the U-turn — for different reasons. But some are unhappy.
 
-## Why is Christopher Nolan’s Odyssey so controversial?
-Controversy has centred largely on casting, but it also reflects broader debates on who gets to retell this epic story.
+## Why Palestinians in Gaza are celebrating Spain’s World Cup win
+Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.
 
-## Iran says Spain World Cup win brings joy to critics of US, Israel
-Iran praises Spain's win over Argentina after Spanish government's condemnation of policies on Gaza and war on Iran.
+## Who is Khalil al-Hayya, Hamas’s newly elected political chief?
+Veteran negotiator assumes Palestinian group's overall leadership following a wartime election process.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
