@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## Sinaloa cartel founder handed $15bn forfeiture order and life sentence
-‘El Mayo’, who co-founded group alongside ‘El Chapo’, was sentenced to life in prison
+## Man charged with Ann Widdecombe murder
+Joshua Kerry will appear in court on Tuesday in relation to the killing of former Conservative minister
 
-## Ebola death toll rises to 930, as outbreak spreads at record pace
-Africa Centres for Disease Control and Prevention and partners plan trial of two existing jabs
+## Gilts under pressure as investors brace for higher spending under new PM
+Andy Burnham said he will ‘use any flexibility’ within the fiscal rules
 
-## Labour has handed Burnham a blank cheque
-The new premier’s MPs think they have backed a winner but have no idea what his programme will be
+## Burnham stuns Labour MPs by choosing Healey as new chancellor
+UK prime minister’s choice of former defence minister surprises allies
 
-## Don’t blame colonialism for Africa’s trade woes
-The continent’s growth is being hemmed in by blocked trade arteries, not arbitrary borders drawn in Berlin in 1885
+## Who is in Andy Burnham’s new cabinet?
+UK prime minister announces top team, with a number of experienced faces returning to government
+
+## Big Tech’s AI backstops risk ignominy
+Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
+
+## Andy Burnham’s tenure begins with troubling signals
+Britain needs to revive animal spirits, not return to a statist past
+
+## US judge pauses Paramount’s $110bn Warner Bros acquisition
+Federal court grants request for temporary halt to merger while examining impact on competition in Hollywood
+
+## Trump to meet Lebanon’s president as US pushes ahead with peace deal
+Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
+
+## US probes insurers owned by billionaire Mark Walter over asset disclosures
+Prosecutors and securities regulators examine whether companies failed to disclose holdings in affiliated entities
 
 ## US petrol prices climb back above $4 as Iran war intensifies
 Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
 
 ## Lockheed seeks European production for cheaper Patriot missile
 US defence group seeking approval from Washington to build out supply chain in region
-
-## The Middle East needs its own Helsinki Act
-Trust is not a prerequisite for peacemaking — and Iran and its neighbours should follow the example of cold war détente
-
-## Andy Burnham’s first speech as PM: what he said and what he meant
-Downing Street address offers succinct outline of new leader’s politics — and the problems he will face
 
 ## UK businesses are not deepening their use of AI, suggests ONS data
 Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products
@@ -32,15 +41,6 @@ Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in th
 
 ## FirstFT: Andy Burnham weighs Number 10 overhaul
 Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
-
-## EU fines AliExpress €550mn for failing to prevent sale of illegal goods
-Record penalty under bloc’s Digital Services Act comes amid broader crackdown on Chinese ecommerce platforms
-
-## Is this the Louis Vuitton of lamb?
-In New South Wales, KS7 claims to be the world’s first ultra-premium brand
-
-## Segro rejects £13.5bn bid by US rival Prologis in latest takeover twist
-London-listed group declines third offer in escalating battle
 
 ## Malware attack lapses: SEBI imposes ₹1 crore fine on CDSL
 Regulator says cybersecurity failures exposed critical systems to attack
@@ -90,6 +90,12 @@ The S&P 500 advanced 0.6%, following its first weekly loss in three weeks and on
 ## Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels
 China's commitment to maintain supplies of critical materials, including rare-earth magnets, formed a central element of the October agreement under which Trump and Chinese President Xi Jinping agreed to pause the trade war.
 
+## Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
+Police said, despite repeated warnings and lawful directions, the protesters “refused to disperse and deliberately violated the prohibitory orders in force”.
+
+## Condemn such attacks, says MEA after Russian missile kills 4 Indians on vessel
+The Odesa region and Ukraine’s last remaining maritime export corridor have come under sustained attack in recent weeks as Russia has stepped up its offensive.
+
 ## Indus Waters Treaty won’t work in present form as Pakistan backs terror: India
 The people dismissed Pakistan’s efforts at creating a “victim narrative” on the false premise that India intends to cut off water supplies.
 
@@ -108,34 +114,28 @@ ALPA India has urged the ministry and DGCA to “immediately suspend all commerc
 ## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
 Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
-## ‘Lied to family, faced lathis here’: Young women at CJP march recount experience, ‘like cockroaches, we'll return’
-One of the protesters was a 17-year-old girl who, before leaving home on Monday morning, told her family that she was going to school.
-
-## Protest makes no sense, says BJP's Hema Malini; Kangana dares CJP to fight polls
-She also backed the government's approach to addressing the issue, saying concerns should be resolved through discussions rather than demonstrations.
-
-## Pune youngster kills father’s ‘killer’ after 23 years
+## AAP govt to distribute 4 lakh schoolbags with Chief Minister Bhagwant Mann’s photo today
 
 
-## How Seoul’s outdoor libraries are turning parks into open-air reading rooms
+## Messi posts after losing World Cup final: Will take time for this wound to heal
 
 
-## Assam floods disrupt rail services: Over 30 trains cancelled, diverted and short-terminated – Full list
+## Trump says Netanyahu won’t be arrested in US as Mamdani weighs legal options
 
 
-## Banks mobilise $17.40 billion under special FCNR(B) scheme
+## Ferran Torres’s path to FIFA World Cup-winning goal goes through Navi Mumbai
 
 
-## Goalkeeper Emiliano Martinez: Argentina player with most touches of ball
+## Russia-Ukraine war: 4 Indian sailors among 10 killed as missile hits ship
 
 
-## 4 Indians killed after commercial vessel attacked near Ukraine’s Odesa Port
+## Sohail Khan says he feels ‘lovely’ meeting ex-wife Seema Sajdeh; expert on healthy healing
 
 
-## Chennai Grand Masters: Gukesh loses to Erigaisi in game that he was winning
+## Residents throng PCMC, demand Moshi garbage depot’s shift
 
 
-## Japan PM says she’s running on 3 hours’ sleep—and ironing her own clothes
+## PCMC extends SIR drive; BLO house visits until August 8
 
 
 ## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
@@ -162,6 +162,12 @@ Wall Street giant Citigroup has adjusted its emerging market asset allocation re
 ## For retired businessman and lifelong sailor, trust anchors the process of building wealth
 For Duke Ha, trust has factored into every aspect of his life, spanning professional and personal successes across borders. It is measured by actions rather than words, and reflected by steadfast reliance on a process. The retired construction businessman and avid sailor hails from Vietnam, where he
 
+## The Slow Death of the Global Commons
+Hormuz is a sign of worse things to come.
+
+## Suwayda’s Struggle
+Syria’s Druze are trapped between Israeli protection and Damascus’s rule.
+
 ## Europe Is Back in 1952
 France and Germany again locked into military rivalry is bad news for the rest of Europe.
 
@@ -180,35 +186,32 @@ How a Gen Z-led protest movement in Albania is calling out corruption and global
 ## Banning AI Models Doesn’t Add Up to a Policy
 What is needed is an actionable agenda that ensures safe release and stable access.
 
-## The Liberal Origins of the War Against the Deep State
-In the 1970s, fears of an out-of-control executive branch emanated from Democrats, not Republicans.
+## With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
+The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.
 
-## U.S., Iranian Forces Target Civilian Infrastructure
-Attacks on bridges, power plants, and desalination facilities could be considered war crimes.
+## Australia’s Tuvalu Migration Deal Tests the Limits of Climate Mobility
+The Falepili Union offers Tuvaluans “mobility with dignity.” But unless Australia also protects Tuvalu’s workforce, the landmark agreement could weaken the country years before rising seas make it uninhabitable.
 
-## China, the US, and Nuclear Energy Geopolitics in Southeast Asia
-Nuclear reactor exports are becoming an increasingly important arena of strategic competition.
+## Philippines’ Lazaro Dismisses Criticisms Over ASEAN’s ‘Informal Meeting’ With Myanmar FM
+Last week, the Special Advisory Council for Myanmar said that agreeing to the meeting was a sign of the ASEAN special envoy's "timidity and poor judgment."
 
-## A Conversation With Mahabat Sadyrbek About the Kyrgyz Language
-“When a language becomes accessible, it becomes visible. And when it becomes visible, it becomes part of international scholarship and global dialogue."
+## 5 Myths About the Five Eyes
+There are persistent misunderstandings about what the intelligence partnership is, and what it actually does.
 
-## The EU’s Contradictory Narratives on China
-Both sides are trying to sustain trade talks and practical cooperation, but the EU’s new security definition of China may complicate this progress.
+## Australia Updates Travel Warning For Laos After Announcement of Methanol Poisoning Charges
+Foreign Minister Penny Wong said that she was “deeply frustrated and bitterly disappointed" at the leniency of the charges announced on Friday.
 
-## Europe Still Has Leverage Over China
-Brussels should use the leverage before it slips away.
+## Why Europe’s China Anxiety Is About More Than China
+Brussels no longer sees China only as an economic actor. It sees China as a challenge to the organization of global order itself.
 
-## Is Taiwan Pinning Its Strategy on an Outdated Vision of America?
-Amid generational shifts and Trump-era transactionalism in the U.S., Taiwan should take a page from Singapore’s book.
+## Is Thailand’s PM More Concerned About Sound Cannabis Policy or Political Optics?
+Amid a rise in smuggling, Anutin Charnvirakul has recently come out against the policy he once championed: the decriminalization of marijuana.
 
-## Pakistan Adopts Wait-and-Watch Approach as US and Iran Return to Hostilities
-Pakistan continues to view the Islamabad MoU that it facilitated as the most viable framework for de-escalation.
+## The Romanovs and ‘Invictus’ in the Impeachment Trial of Philippine Vice President
+Sara Duterte claimed that she is "bloodied but unbowed" in the face of persecution by President Ferdinand Marcos Jr. and his administration.
 
-## Papua New Guinea Just Closed Taiwan’s Economic Office
-Taiwan’s diplomatic space is shrinking along a vital Pacific energy route.
-
-## What India’s Operation­alization of Integrated Battle Groups Means for Pakistan
-Since the inception of the IBGs, they have been framed as formations to launch offensive operations against Pakistan under the nuclear overhang. Now they are finally a reality.
+## Corruption Takes Center Stage in Ukraine’s National Conversation
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
 ## Before Q-Day: The Race to Quantum First
 Somewhere, a hard drive is filling up with secrets no one can read yet, and its owner is waiting for the machine that opens them all at once. On March 30, 2026, that wait got shorter.Two independent research teams lowered the public estimates for breaking the encryption that secures banking, communi
@@ -230,9 +233,6 @@ It’s 2028, and the Fujian carrier strike group has just left Yulin, China, for
 
 ## How Revolutions Break Their Believers
 Waguih Ghali, Beer in the Snooker Club (Vintage International, 2014)The noise, the noise, the unrelenting noise of the world: How is any writer with an interest in the long view supposed to escape it, if only for a couple hours to work, let alone maintain their sanity in the remainders of a day? It’
-
-## Reading through the Lines of the FY2027 NDAA
-The relationship between Congress and the Pentagon over the past year has been marked by public disagreements and frustrations over lawmakers’ concerns about the Iran War, and by what some lawmakers view as politically motivated firings of top military leaders. In many ways, the House and Senate ver
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Houthis announce maritime blockade on Saudi Arabia
+Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire
+
+## Trump vows Iran will ‘pay’ for killing US soldiers
+The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.
+
+## ‘Now or never’: Students defy Delhi lockdown to march on India’s parliament
+Youth-led protesters answer call of Cockroach Janta Party to demand accountability, sweeping reforms after exam scandal.
+
+## Petrol prices climb as US–Iran tensions disrupt markets
+US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.
+
+## FIFA World Cup: Five key takeaways from 2026 edition won by Spain
+Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The 'dark arts'?
+
+## Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison
+US judge hands life sentence to Ismael Zambada for leading one of Mexico's most violent drug cartels for decades.
+
+## Spain team arrives home after winning the World Cup
+World champions Spain have landed home carrying the World Cup trophy a day after defeating Argentina in the final.
+
 ## Israeli air strike injures 14 in Gaza City
 An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.
-
-## Philippine sailor injured during clash with Chinese coast guard
-A member of China’s coast guard is accused of injuring a Philippine sailor after striking him with a wooden baton.
-
-## At least 25 killed as floods and landslides hit northern India
-Monsoon rains devastate communities, with rescue and relief operations intensifying and the death toll rising.
-
-## Lebanon’s military starts ‘pilot zone’ takeover in south
-Implementation of the trilateral framework agreement between Israel, Lebanon and the US is to start in three villages.
-
-## Iran says diplomatic efforts ongoing via mediators amid fighting with US
-An Iranian army spokesman asserts the war will continue until deterrence against further attacks has been achieved.
-
-## Spain go back to the top of FIFA rankings, Morocco reach record high
-Norway saw the biggest jump in their rankings, climbing 12 spots to 19th after reaching the World Cup quarterfinals.
-
-## Former England manager and two-time Ballon d’Or winner Keegan dies aged 75
-Kevin Keegan, the iconic striker for Liverpool, Newcastle and England, was diagnosed with stage four cancer last year.
-
-## China, immigration, drugs: Behind US policy in Latin America
-Latin America analyst Brian Winter argues that Trump sees Venezuela as a foreign policy success… and Cuba may be next.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
