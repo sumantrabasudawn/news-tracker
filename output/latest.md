@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Burnham surprises Labour MPs by choosing Healey as new chancellor
+UK prime minister’s choice of former defence minister surprises allies
+
+## Six things we learnt from Andy Burnham’s choices for his top team
+New prime minister signals he will depart from Keir Starmer’s approach in some areas while stressing continuity in others
+
+## US to hit Canada with 50% tariffs on wide range of goods
+Washington accuses neighbour of engaging in unfair practices in move that could reignite trade war
+
+## Who is in Andy Burnham’s new cabinet?
+UK prime minister announces top team, with many experienced faces returning to government
+
+## FirstFT: Indian police crack down on ‘Cockroach’ protesters
+Also in today’s newsletter: Andy Burnham becomes UK prime minister and US petrol prices climb back above $4
+
 ## Andy Burnham makes more appointments for his first cabinet
 John Healey becomes chancellor while Shabana Mahmood stays at the home office and Ed Miliband moves to the foreign office
 
@@ -8,18 +23,6 @@ Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withd
 
 ## US petrol prices climb back above $4 as Iran war intensifies
 Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
-
-## Who is in Andy Burnham’s new cabinet?
-UK prime minister announces top team, with some experienced faces returning to government
-
-## Man charged with Ann Widdecombe murder
-Joshua Kerry will appear in court on Tuesday in relation to the killing of former Conservative minister
-
-## Gilts under pressure as investors brace for higher spending under new PM
-Andy Burnham said he will ‘use any flexibility’ within the fiscal rules
-
-## Burnham stuns Labour MPs by choosing Healey as new chancellor
-UK prime minister’s choice of former defence minister surprises allies
 
 ## Big Tech’s AI backstops risk ignominy
 Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
@@ -38,9 +41,6 @@ Free tools are the most widely used by companies with focus on efficiency saving
 
 ## Anduril launches helicopter strike drone
 Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in their arsenal
-
-## FirstFT: Andy Burnham weighs Number 10 overhaul
-Also in today’s newsletter: Oil rises above $90 and Morgan Stanley takes AI deal crown
 
 ## Malware attack lapses: SEBI imposes ₹1 crore fine on CDSL
 Regulator says cybersecurity failures exposed critical systems to attack
@@ -66,29 +66,29 @@ Diwakar joined iD Fresh Food in 2024 as CEO for India
 ## NHA de-empanels over 2,000 hospitals in fraud crackdown under AB PM-JAY: Report
 National Anti-Fraud Unit under AB PM-JAY imposes penalties worth ₹114.06 crore on hospitals, report says
 
-## E20 petrol debate: Govt cites data for 23 crore vehicles, says 'no verified evidence' of widespread engine failure
-Minister of State for Petroleum and Natural Gas Suresh Gopi said the shift to E20 fuel has been "phased, calibrated and evidence-based," noting that the ethanol blending rate was gradually raised from 1.53 per cent in 2013-14 to 20 per cent in 2025-26 following "scientific evaluation and stakeholder
+## NSE’s Ahimsa index targets cruelty-free investing
+NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gauge includes companies that do not harm animals in their business. The index aligns with non-violence principles and excludes certain firms. It aims to redirect capital towards compassionate and cruelty-free investing. Thi
 
-## India's forex boost: RBI's swap scheme raises $20.72 billion so far
-The Reserve Bank of India's special swap facility attracted $20.72 billion by July 17. Most of this money arrived through Foreign Currency Non-Resident deposits. Overseas Foreign Currency Borrowings and External Commercial Borrowings also contributed to inflows. This facility was launched to strengt
+## Ex-tech execs’ startups find favour with VCs, says report
+Startups founded by former tech professionals are attracting venture capital investment. These operator-led ventures, though few, are securing a growing share of funding. They consistently receive larger funding rounds and higher valuations compared to others. Experienced founders bring valuable com
 
-## Coca-Cola adds fizz to India bottling unit IPO plan, appoints JPMorgan & Citi as bankers
-Coca-Cola's Indian bottling unit IPO plans are advancing. JPMorgan and Citi have been appointed to manage the proposed 2027 listing. The company is also exploring the sale of a portion of its stake. This move aligns with Coca-Cola's global asset-light strategy. Hindustan Coca-Cola Beverages is a lea
+## Hyundai lays groundwork for mass-market EV launch
+Hyundai Motor India is expanding charging infrastructure and component localization. The company plans to launch its first mass-market electric SUV this fiscal year. This move targets the affordable, sub-Rs 15 lakh segment of the EV market. Hyundai has previously focused on premium electric vehicle 
 
-## Fresh threat to global oil supply: Saudi Arabia’s crude exports at risk as Yemen’s Houthis look to impose maritime blockade
-Relations between Saudi Arabia and the Houthis have deteriorated since last week after Riyadh carried out an attack on Sana'a airport. Any disruption to Red Sea shipments, currently the primary route for Saudi Arabia's crude exports, would further intensify the impact of the conflict on global oil t
+## Stocks, rupee slide as oil spike fuels pressure
+Indian markets closed lower as fluctuating crude prices and global risk-off cues weighed. Banking stocks led the decline after mixed earnings reports from major lenders. The rupee weakened against the dollar due to rising oil prices and geopolitical tensions. Crude prices rose to a one-month high am
 
-## DGCA's new eGCA platform aims to make aviation incident reporting faster
-The DGCA is developing a digital platform for faster aviation incident reporting. This initiative aims to enhance the country's aviation safety oversight capabilities. Airfare pricing is determined by dynamic supply and demand forces. The government generally avoids regulating airfares to maintain m
+## At 5% in June, core sector grows fastest in 5 mths
 
-## Hormuz disruptions: India’s crude oil imports from Russia remain near all-time high in July despite no sanctions waiver from US
-Industry experts say India's crude procurement pattern during the US-Iran conflict reflects a flexible and well-diversified sourcing strategy. India’s crude oil imports from Russia in July so far have averaged at around 2.45 million barrels per day.
 
-## US stock market today: Wall Street back in green; AI-related, chipmaker stocks rebound
-The S&P 500 advanced 0.6%, following its first weekly loss in three weeks and only its third weekly decline since the end of March. Nvidia rose 1.9%, helping lift the broader market after being the biggest drag on the S&P 500 during Friday's session. Sandisk also recovered, jumping 6.7% after slidin
+## Monetisation of assets helps NHAI pare debt
+The National Highways Authority of India has prepaid over Rs 1.2 lakh crore in loans. This accelerated asset monetisation has reduced its overall debt significantly. The authority has not borrowed directly from the market since 2022. Asset monetisation hit a record high of Rs 41,079 crore in the las
 
-## Despite Trump-Xi agreement, China’s rare earth magnet exports to US remain 20% below pre-trade war levels
-China's commitment to maintain supplies of critical materials, including rare-earth magnets, formed a central element of the October agreement under which Trump and Chinese President Xi Jinping agreed to pause the trade war.
+## No move to scrap LTCG tax on equities: Govt
+The government has informed Parliament about no current plans to abolish long-term capital gains tax on equities. Tax policies are revised periodically as part of the annual budgetary process and legislative revisions. This statement addresses investor demands for changes in long-term capital gains 
+
+## Not referring cases to internal ombudsman a concern: RBI
+RBI deputy governor Swaminathan J expressed concern over banks bypassing internal ombudsman. He stated that many customer grievances resolved by the RBI ombudsman were never referred internally. This situation undermines the purpose of the internal ombudsman framework, he noted. Banks must refer all
 
 ## Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
 Police said, despite repeated warnings and lawful directions, the protesters “refused to disperse and deliberately violated the prohibitory orders in force”.
@@ -114,6 +114,15 @@ ALPA India has urged the ministry and DGCA to “immediately suspend all commerc
 ## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
 Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
+## ‘Hit on head multiple times… now in ICU’: More than 100 CJP protesters at RML emergency
+
+
+## Students, parents, delivery agents, architects — the faces behind the CJP’s march to Parliament
+
+
+## From Jantar Mantar to near Parliament: A protest march that took on a life on its own
+
+
 ## CJP’s Parliament march: 118 personnel injured, 70 protesters detained, says Delhi Police
 
 
@@ -129,14 +138,8 @@ Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that 
 ## Stone pelted on India’s first hydrogen train? Indian Railways responds to viral video
 
 
-## AAP govt to distribute 4 lakh schoolbags with Chief Minister Bhagwant Mann’s photo today
-
-
-## Messi posts after losing World Cup final: Will take time for this wound to heal
-
-
-## Trump says Netanyahu won’t be arrested in US as Mamdani weighs legal options
-
+## ‘Payback’: why China’s world-beating car industry faces plunging sales at home
+China’s electric vehicle (EV) industry sits at the centre of numerous economic and geopolitical trends: consumer spending, environmental protection, trade policy, high-end manufacturing, technology and more. In this short series, we assess the current state of the sector within these broader context
 
 ## China won’t waste its reserves to cushion oil price impact of Iran war
 Oil prices are set to rise once more as renewed US attacks on Iran leave the Strait of Hormuz, a major artery of oil trade, closed again. With US strategic petroleum reserves at their lowest in over 40 years, America will have trouble keeping oil prices below US$100 a barrel, as it has mostly done i
@@ -159,8 +162,8 @@ Ikea’s parent company Ingka Group has hired property consultancy JLL as its so
 ## Trip.com faces verdict as China to wrap up antitrust probes as soon as this week: sources
 China’s market regulator is poised to announce the outcome of its months-long antitrust investigation into Trip.com Group, the country’s largest online travel services provider, as soon as this week, according to three people familiar with the matter. The probes, launched in January by the State Adm
 
-## Citi upgrades China to ‘overweight’ amid AI volatility, geopolitical friction
-Wall Street giant Citigroup has adjusted its emerging market asset allocation recommendation, upgrading China to “overweight”, saying that investors should increase their exposure to assets that could benefit from a broadening market rally. The bank acknowledged that while China’s relative earnings-
+## State Department Frames Cuba as Major Threat via Left-Wing Groups
+The report comes amid growing U.S. efforts to overturn Cuba’s government.
 
 ## Houthis Declare a Naval Blockade on Saudi Arabia
 The move could increase pressure on already-strained global energy markets.
@@ -182,9 +185,6 @@ A new bill aims to stop the United States from “funding abuse.”
 
 ## Britain’s New Prime Minister Must Stand Up to Trump
 Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes.
-
-## Flamingos Against Autocrats
-How a Gen Z-led protest movement in Albania is calling out corruption and global oligarchy.
 
 ## With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
 The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.
@@ -226,7 +226,7 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary from across the political spectrum.Every Monday, War on the Rocks members get a curated selection of op-eds and editorials from Ukrainian-language media to understand how Ukrainians themselves debate the biggest issues shaping t
 
 ## The Blood Bank and the Logistics of Wartime Medicine
-Before the twentieth century gave armies antibiotics, the leading killer of American soldiers in wartime was neither enemy fire nor shrapnel. Two-thirds of the roughly 620,000 deaths in the U.S. Civil War came from diseases like typhoid and dysentery. Spread through contaminated water and crowded ca
+Editor’s note: This is the fourth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
 
 ## Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment
 It’s 2028, and the Fujian carrier strike group has just left Yulin, China, for an unknown destination. The U.S. Navy’s “Hedge Strategy” has let commanders disperse unmanned systems across regional choke points as forward-deployed scouts. But days before contact with Fujian, an unmanned undersea vehi
@@ -258,6 +258,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Chaos in India as ‘Cockroach activists’ march on parliament
+Chaos outside India's parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.
+
+## War on Iran: War resumes 30 days after MoU
+30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.
+
+## Moroccan-born man dies while detained by police in Italy
+A video showing the final moments of Moroccan-born Abderrahim Fakir as he was detained by police has sparked protests.
+
+## World Cup champions Spain return to royal welcome, parade through Madrid
+Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square.
+
 ## Albanian protesters pelt lawmakers’ cars over resort projects
 Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.
 
@@ -269,18 +281,6 @@ US president insists Netanyahu will not be arrested, despite ICC warrant.
 
 ## King of Spain celebrates World Cup winners in Madrid
 Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.
-
-## Gaza residents weigh in on election of new Hamas leader
-Gaza residents weigh in on election of new Hamas leader
-
-## How will Zelenskyy handle the growing political crisis at home?
-Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.
-
-## Ortega insists no more elections for Nicaragua
-The Central American state's longtime leader intends to block the opposition from challenging his rule.
-
-## Man arrested after fire outside New York immigration court
-A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
