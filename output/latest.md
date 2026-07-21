@@ -1,31 +1,46 @@
 # AION Intelligence
 
-## Axing UK science department risks slower policymaking, say tech leaders
-Industry figures welcome Kanishka Narayan’s promotion as AI minister but warn shake-up could push sector down agenda
+## India police detain opposition leader Rahul Gandhi as tensions rise
+Opposition leader defiant as police remove him from sit-in outside Prime Minister Modi’s residence
 
-## Ann Widdecombe died after being ‘struck 21 times with hammer’
-Prosecutors set out details of what police said was a ‘targeted attack’ on 78-year-old former minister
+## The bear hug is an increasingly sensible way to play UK M&A
+Negotiations are being played out in public — no bad thing given boards and investors may see things differently
 
-## Trump to meet Lebanon’s president as US pushes ahead with peace deal
-Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
+## Monetary Policy Radar preview: ECB’s July meeting
+The FT’s guide on what to look out for in Thursday’s session
 
-## Trump threatens to reignite trade war with fresh 50% tariffs on Canada
-Also in today’s newsletter: petrol prices climb back above $4 a gallon, and Trump’s fundraising Super Pac rakes in more than any other
+## IEA warns of risk to energy supplies from escalation of Iran conflict
+Intergovernmental agency says ‘no room for complacency’ and points to tightness in refined products
 
-## Six foolish mistakes for the new chancellor to avoid
-John Healey will be under pressure on many fronts, but bear-pits are lurking . . .
+## Andy Burnham’s cabinet: who’s in, who’s out?
+Plus: policy announcements and how to fund them
 
-## How we made it: China’s air pollution clean-up — and the rebound
-Guide to the Climate Graphic of the Week
+## The Yahoo Boys — the true stories of four Nigerian online love scammers
+A quest to expose fraudsters in Lagos led Carlos Barragán to a criminal racket fuelled by poverty — and by western loneliness
 
-## Who is in Andy Burnham’s new cabinet?
-UK prime minister announces top team, with many experienced faces returning to government
+## Turkish opposition leader to create breakaway party to take on Erdoğan
+Move by Özgür Özel could threaten longtime Turkish leader at next election scheduled for 2028
 
-## Japan is flirting with its own Liz Truss moment
-Energy subsidies, fiscal stimulus, a weak currency and threats to central bank independence. Sound familiar?
+## Burnham backs away from costly increase to income tax allowance
+New prime minister had explored raising £12,570 personal allowance before taking office on Monday
+
+## Liverpool FC owner in talks to sell stake to Mittal family-backed consortium
+Deal would value English Premier League side at more than $6bn
+
+## Bidder accuses Segro of ‘aspirational’ projections to justify rejecting £13.5bn offer
+UK property group has resisted three proposals from US-listed real estate giant Prologis
 
 ## Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads
 Danish group claims rival used outdated data to support claims that its products were more effective than Wegovy
+
+## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
+Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’ says Lorenzo Mariani
+
+## Maker of Mike Lynch’s Bayesian superyacht loses CEO and board as difficulties mount
+Vessel made by The Italian Sea Group’s Perini Navi sank off the coast of Sicily in 2024
+
+## Axing UK science department risks slower policymaking, say tech leaders
+Industry figures welcome Kanishka Narayan’s promotion as AI minister but warn shake-up could push sector down agenda
 
 ## National Grid taps into US AI power boom
 The UK utility company is investing $1.75bn in a developer focused on supplying power to data centres
@@ -33,41 +48,35 @@ The UK utility company is investing $1.75bn in a developer focused on supplying 
 ## FirstFT: Trump prepares to meet Lebanon’s leader
 Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
 
-## Berenberg alleges accounting manipulation designed to flatter profits
-Auditor signs off delayed 2025 accounts, showing net profit fell from €81.6mn to €20.2mn
+## Cube Highways Trust raises ₹1,687.5 crore from anchor investors ahead of InvIT IPO
+Premji Invest-backed Prazim Trading and Investment Co led the anchor book, with strong participation from insurers and mutual funds
 
-## Thames Water lenders to offer ‘golden share’ to UK government
-Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
+## Oil climbs as traders weigh slew of risks from Hormuz to Red Sea
+The global benchmark rose about 2% to around $91 a barrel as the US continued its 10th day of strikes on Iran
 
-## Mitie agrees £3.1bn takeover by rival outsourcer OCS
-Facilities management group is latest London-listed company to agree deal
+## ICMR hands over three homegrown medical technologies to Emcure, Biological E for commercial development
+One of the transferred technologies is SHetA2, a drug candidate licensed to Emcure Pharmaceuticals for treating the precancerous cervical condition CIN
 
-## Julius Baer earnings rebound on early turnaround signs
-Zurich-based bank’s net profits more than double to SFr673mn
+## PLI schemes attract ₹2.4 lakh crore investments, generate over 14 lakh jobs till March
+Solar modules, pharmaceuticals and automobiles lead investments as cumulative exports cross ₹15.2 lakh crore
 
-## Merlinhawk Aerospace and Boeing partner to boost fleet readiness for Indian navy
-Merlinhawk Aerospace will utilize its L3Harris WESCAM Authorized Service Centre in Bengaluru for maintenance, repair, and support of advanced EO/IR systems
+## India’s moong sowing dips 11% on lower rainfall, likely to gather pace
+Over 62% of targeted area has been covered; current spell of rain brings relief to farmers
 
-## Ashok Leyland bets on AI to boost manufacturing, connected vehicles and service
-Ashok Leyland’s Uptime Solution Centre monitors over 1.7 lakh connected vehicles and processes nearly 1 TB of data daily to improve fleet availability
+## TFCI Q1 profit doubles to ₹61 crore on higher interest and other income
+TFCI’s gross NPA ratio rose marginally to 0.41 per cent, while net NPAs remained nil due to full provisioning
 
-## Pocket
+## Meta integrates Xbox Game Pass Starter into Horizon+ subscription
+The move gives Horizon+ subscribers access to over 50 Xbox Game Pass titles and 10 hours of cloud gaming each month
 
+## Gold, silver smuggling surges after Indian govt more than doubles import duty
+Data provided in the Lok Sabha show over 186% rise in gold and 10% increase in silver
 
-## Microsoft signs multibillion-dollar AI infrastructure deal with France’s Mistral
-Under the partnership, Microsoft Azure customers will be able to develop AI applications on Mistral’s French data centres, with Mistral’s AI models also becoming available through Foundry, Copilot Studio and Azure Local
+## Russia, Latin American suppliers to rescue: India’s Middle East oil imports dip in April-June on Hormuz disruptions
+India stepped up imports from Moscow once Washington granted a temporary waiver, helping offset reduced supplies from Gulf producers caused by the disruption of traffic through the strategically important Strait of Hormuz.
 
-## Dealing with war stress
-‘Start-stop’ Iran war is testing India’s policy agility
-
-## Punjab & Sind Bank expects relaxation in FCNR(B) norms for banks without foreign branches
-Bank outlines long-term strategy to expand its total business mix to ₹4 lakh crore by FY29
-
-## Fresh data centre capacity rises 59% annually to 258 MW IT in Jan-Jun: Savills
-Real estate consultant Savills India said, "The new data centre capacity additions in India surged to 258 MW IT in the first half of 2026, compared to 162 MW IT in H1 2025"
-
-## Q1 Results Today Live: ATGL Q1 PAT down 14%, Adani Energy PAT zooms, TVS Motor, Bajaj Auto & Granules India profit rise, CRISIL, Mastek to announce Q1 results
-Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
+## Donald Trump's tariff tornado returns as India deal stalls
+Donald Trump plans to impose new tariffs on many countries, including India. These tariffs will affect global trade and financial markets significantly. India's trade deal negotiations with the US face potential complications. The US administration cites unfair trade practices and forced labor conce
 
 ## US stock market today: AI stocks extend rally; Brent crude prices go above $90
 Following a prolonged surge fuelled by heavy investment in AI chips and data centres, these stocks have faced selling pressure in recent weeks amid concerns that valuations had become stretched.
@@ -87,13 +96,13 @@ Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Sa
 ## New warning on oil: Goldman Sachs says crude prices could cross $120 if Strait of Hormuz disruptions continue
 In a note dated July 20, Goldman Sachs analysts said, “Escalation in the Middle East and the decline in estimated Persian Gulf flows to below 45% of pre-war levels have pushed oil prices back up.”
 
-## SBI Funds Management listing makes some employees crorepatis; stock debuts at 7% premium to IPO price
-SBI Funds Management made a strong debut on Dalal Street today, listing at a premium of around 7% over its IPO price. The stock opened at Rs 610 on the BSE, which is a gain of 6.27% from the issue price of Rs 574, while it listed at Rs 613.30 on the NSE.
+## Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
+The former Odisha CM described the situation as “very serious” and “very grave”, saying protests were not limited to Delhi
 
-## Gold price prediction today: Why are gold prices under pressure? Check July 21, 2026 outlook
-Gold price prediction today: Gold prices continue to be under pressure and downside risks remain, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+## Worried but won’t ask him to step back, say Abhijeet Dipke’s parents after police action
+Abhijeet’s mother, Anita, also criticised the police action, questioning why students aged 18 to 20 were being treated as terrorists.
 
-## AAP sees ‘jugalbandi’ in Rahul Gandhi's protest near PM house: ‘Modi allowed it to weaken CJP’
+## ‘Modi allowed it to weaken CJP’: AAP sees ‘jugalbandi’ in Rahul's protest near PM house, Cong and BJP react
 AAP MP Sanjay Singh, in a post on X, alleged Modi had got Rahul Gandhi to sit in protest at his own residence to weaken the CJP's movement.
 
 ## Jaishankar to meet Quad counterparts on sidelines of ASEAN meet in Manila
@@ -111,34 +120,28 @@ According to the Saudi Foreign Ministry, Ajit Doval met Prince Faisal bin Farhan
 ## Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
 The advisory, issued by the registrar’s office on Monday, said that students and employees are not permitted to make political statements
 
-## AI chatbot helped plan Bengaluru triple murder, say police, seek chat history
-On June 22, 52-year-old Somasundar, his wife, 48-year-old Muthulaxmi, and their 19-year-old daughter Supriya were found stabbed to death.
-
-## 'Attempt was made to humbly explain': Minister on talks with Rahul Gandhi at dharna over CJP crackdown
-Earlier on Tuesday, Rahul Gandhi issued a big call, urging “patriotic Indians” to join his protest outside the official residence of PM Narendra Modi in Delhi.
-
-## IIM Calcutta to develop case study on BJP’s Bengal poll win
+## Actor Amol Parashar says he joined CJP protest, saw youngsters bleeding: ‘Cried myself to sleep’
 
 
-## ‘Freedom struggle’: Prakash Raj shares CJP protest clip; Honey Singh cancels teaser
+## Woman, her two minor children die in fire at Lodhi Colony residence in Delhi
 
 
-## Madhavan to host Farooq Shaikh’s Jeena Isi Ka Naam Hai: ‘I’ll carry forward the legacy’
+## Arijit Singh not coming back with Awarapan 2, confirms manager: ‘Old commitments’
 
 
-## Commonwealth Games 2026: Who will win India medals, and how many?
+## Amitabh Bachchan clarifies he didn’t undergo surgery: ‘It’s a misunderstood post’
 
 
-## UPSC Key: Dengue Vaccine, Right to protest and EPF Scheme
+## 5 of India’s oldest markets that have survived for centuries
 
 
-## Rahul Gandhi’s protest outside PM home ‘delays’ Karnataka Cabinet expansion
+## Trump dismisses Houthi Red Sea blockade threat, says ‘US ready to respond’
 
 
-## Brand Chandigarh: From planned city to premium India
+## Uttar Pradesh Cabinet approves purchase of 250 electric buses for state transport fleet
 
 
-## Legionnaires’ disease outbreak: What to know after fourth death in New York City
+## Uttar Pradesh Cabinet approves Monsoon Session
 
 
 ## Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources
@@ -165,6 +168,9 @@ A sharp pullback in US space-technology giant SpaceX and renewed valuation press
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
 
+## There’s a Fix for Israel’s Image Crisis
+A reluctant opposition needs a radically new pathway on Palestine.
+
 ## Modi’s Great Anglo Paradox
 Cultural decolonization advances alongside unprecedented Western partnerships.
 
@@ -185,9 +191,6 @@ The move could increase pressure on already-strained global energy markets.
 
 ## The Slow Death of the Global Commons
 Hormuz is a sign of worse things to come.
-
-## Suwayda’s Struggle
-Syria’s Druze are trapped between Israeli protection and Damascus’s rule.
 
 ## ‘There Is Zero Accountability’: India’s ‘Cockroaches’ Question Modi and a Broken System
 The Cockroach Janata Party is leading a youth-heavy protest movement that embodies the public anger with the BJP.
@@ -261,29 +264,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US appeals court overturns ruling that freed Columbia activist Mahdawi
+The decision is the latest court victory for US President Donald Trump’s campaign targeting foreign student protesters.
+
+## US eyes new tariffs as existing trade duties near expiration
+US Trade Rep Jamieson Greer hints at new tariffs on 60 trading partners as Trump's temporary tariffs expire on Friday.
+
+## Italy’s Meloni slams protesters following clashes in Bologna
+PM pledges probe into death of Moroccan man under police restraint, condemns violence as protests injure 56 officers.
+
+## UK PM Burnham: ‘We need to be a cost-of-living government’
+At his first cabinet meeting as UK prime minister, Burnham told ministers they must be a "cost-of-living government".
+
+## FIFA ‘destroying football’ for the World Cup, says Spanish football chief
+In a scathing interview, La Liga President Javier Tebas says FIFA chief Gianni Infantino’s time is 'over'.
+
+## Israel has ‘no interest’ in joining US war on Iran, says Smotrich
+Israeli Finance Minister says Israel has "no interest" in joining the renewed US military campaign against Iran.
+
 ## Saudi condemns Houthi blockade: How will the rest of the world be impacted?
 Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.
 
 ## Searching for closure: Venezuela families refuse to give up after quakes
 Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.
-
-## Japan’s AI gamble: Can technology offset the cost of an ageing society?
-From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.
-
-## ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis
-Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.
-
-## What does a heatwave cost?
-What does a heatwave cost?
-
-## Clashes between police and people protesting Italy arrest death
-Clashes between police and people protesting Italy arrest death
-
-## India tunnel collapse at a hydropower project kills 10 as 17 remain missing
-Rescue teams have been struggling to reach the 17 people trapped because of hazardous conditions inside the tunnel.
-
-## ‘There is ‌no safe place’: Israeli attack kills family of six in Gaza
-Israeli forces launch regular attacks on Gaza despite a US-backed 'ceasefire' agreed in October.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
