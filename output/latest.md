@@ -1,5 +1,17 @@
 # AION Intelligence
 
+## Axing UK science department risks slower policymaking, say tech leaders
+Industry figures welcome Kanishka Narayan’s promotion as AI minister but warn shake-up could push sector down agenda
+
+## Ann Widdecombe died after being ‘struck 21 times with hammer’
+Prosecutors set out details of what police said was a ‘targeted attack’ on 78-year-old former minister
+
+## Trump to meet Lebanon’s president as US pushes ahead with peace deal
+Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
+
+## Trump threatens to reignite trade war with fresh 50% tariffs on Canada
+Also in today’s newsletter: petrol prices climb back above $4 a gallon, and Trump’s fundraising Super Pac rakes in more than any other
+
 ## Six foolish mistakes for the new chancellor to avoid
 John Healey will be under pressure on many fronts, but bear-pits are lurking . . .
 
@@ -12,62 +24,56 @@ UK prime minister announces top team, with many experienced faces returning to g
 ## Japan is flirting with its own Liz Truss moment
 Energy subsidies, fiscal stimulus, a weak currency and threats to central bank independence. Sound familiar?
 
-## Why the world trusts China more than America
-Countries suspicious of the US are to be found on every continent, not just in its own back yard
-
-## What we learnt from the new PM’s choices for his top team
-New leader signals he will depart from Keir Starmer’s approach in some areas while stressing continuity in others
-
-## Trump to meet Lebanon’s president as US pushes ahead with peace deal
-Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
-
-## FirstFT: Trump prepares to meet Lebanon’s leader
-Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
-
 ## Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads
 Danish group claims rival used outdated data to support claims that its products were more effective than Wegovy
 
 ## National Grid taps into US AI power boom
 The UK utility company is investing $1.75bn in a developer focused on supplying power to data centres
 
-## Berenberg discovers accounting manipulation designed to flatter profits
+## FirstFT: Trump prepares to meet Lebanon’s leader
+Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
+
+## Berenberg alleges accounting manipulation designed to flatter profits
 Auditor signs off delayed 2025 accounts, showing net profit fell from €81.6mn to €20.2mn
 
 ## Thames Water lenders to offer ‘golden share’ to UK government
 Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
 
 ## Mitie agrees £3.1bn takeover by rival outsourcer OCS
-Facilities management group is latest London-listed company to agree a deal
+Facilities management group is latest London-listed company to agree deal
 
 ## Julius Baer earnings rebound on early turnaround signs
 Zurich-based bank’s net profits more than double to SFr673mn
 
-## Indian asset manager’s debut revives hopes for local IPO market
-Shares of SBI Funds Management jump nearly 9% in country’s largest listing so far this year
+## Merlinhawk Aerospace and Boeing partner to boost fleet readiness for Indian navy
+Merlinhawk Aerospace will utilize its L3Harris WESCAM Authorized Service Centre in Bengaluru for maintenance, repair, and support of advanced EO/IR systems
 
-## VIT signs MoU with venture capital firms to fund campus startups
-The firms will jointly invest ₹10 crore in early-stage startups founded by VIT students, with each contributing ₹5 crore
+## Ashok Leyland bets on AI to boost manufacturing, connected vehicles and service
+Ashok Leyland’s Uptime Solution Centre monitors over 1.7 lakh connected vehicles and processes nearly 1 TB of data daily to improve fleet availability
 
-## Zaggle to acquire 20% stake in Unobanc for ₹7.96 crore
+## Pocket
 
 
-## Telangana prepares action plan to tackle El Nino: Deputy CM Bhatti
-Bhatti stated the government aims to combine scientific planning with public awareness, so every family and village understands and prepares for El Niño risks
+## Microsoft signs multibillion-dollar AI infrastructure deal with France’s Mistral
+Under the partnership, Microsoft Azure customers will be able to develop AI applications on Mistral’s French data centres, with Mistral’s AI models also becoming available through Foundry, Copilot Studio and Azure Local
 
-## NSA Doval to receive Lokmanya Tilak Award on Aug 1
-Union Home Minister Amit Shah will present the award to Doval at a function in Pune on August 1.
+## Dealing with war stress
+‘Start-stop’ Iran war is testing India’s policy agility
 
-## Hines elevates Diwan as head of Asia Pacific, West Asia
-Diwan has nearly 25 years of experience across India and the Asia Pacific region
+## Punjab & Sind Bank expects relaxation in FCNR(B) norms for banks without foreign branches
+Bank outlines long-term strategy to expand its total business mix to ₹4 lakh crore by FY29
 
-## Granules Q1 net up 60% at ₹180 crore
-The total revenue of the Hyderabad-based company increased 22% at ₹1,477 crore against ₹1,210 crore in the year-ago period
-
-## Monsoon 2026: Will El Niño derail India’s rainfall? | Trending Commodity Picks | EP 107
-After a 40% June rainfall deficit, what lies ahead for India’s monsoon?
+## Fresh data centre capacity rises 59% annually to 258 MW IT in Jan-Jun: Savills
+Real estate consultant Savills India said, "The new data centre capacity additions in India surged to 258 MW IT in the first half of 2026, compared to 162 MW IT in H1 2025"
 
 ## Q1 Results Today Live: ATGL Q1 PAT down 14%, Adani Energy PAT zooms, TVS Motor, Bajaj Auto & Granules India profit rise, CRISIL, Mastek to announce Q1 results
 Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
+
+## US stock market today: AI stocks extend rally; Brent crude prices go above $90
+Following a prolonged surge fuelled by heavy investment in AI chips and data centres, these stocks have faced selling pressure in recent weeks amid concerns that valuations had become stretched.
+
+## Strait of Hormuz disruptions: Two state-run refiners cancel plans to lift Iraqi oil amid renewed US-Iran tensions
+Before the conflict escalated, the Strait of Hormuz, located between Iran and Oman, served as the principal transit route for nearly one-fifth of the world's energy supplies.
 
 ## The future of flying? US speeds up plans for air taxis, supersonic planes and drones
 The FAA is updating aviation rules to encourage new technologies. It supports air taxis and supersonic passenger flights with new regulations. Pilot programs are preparing for the safe integration of electric air taxis. Companies are developing charging infrastructure for electric aircraft operation
@@ -87,61 +93,55 @@ SBI Funds Management made a strong debut on Dalal Street today, listing at a pre
 ## Gold price prediction today: Why are gold prices under pressure? Check July 21, 2026 outlook
 Gold price prediction today: Gold prices continue to be under pressure and downside risks remain, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## 'Direct violation': Canada vows to protect workers after Trump slaps 50% tariffs on select goods
-Canadian Prime Minister Carney stated new US tariffs violate the CUSMA trade agreement. He affirmed continued government support for Canadian workers and businesses. These tariffs target Canadian exports like vehicles and dairy products. Canada has proposed detailed solutions and remains open to neg
+## AAP sees ‘jugalbandi’ in Rahul Gandhi's protest near PM house: ‘Modi allowed it to weaken CJP’
+AAP MP Sanjay Singh, in a post on X, alleged Modi had got Rahul Gandhi to sit in protest at his own residence to weaken the CJP's movement.
 
-## Rupee slips 6 paise against US dollar in early trade
+## Jaishankar to meet Quad counterparts on sidelines of ASEAN meet in Manila
+Jaishankar is visiting the Philippines’ capital of Manila during July 22-23 to participate in meetings of foreign ministers under the ASEAN framework
 
+## MeitY to consult civil society on child safety, study social media harms
+MeitY is also looking to conduct a study to assess the harms children face on social media and understand the current landscape
 
-## Amid CJP protests, IIT Roorkee asks students, staff not to partake in political activity
+## 46 insurgents of banned outfit surrender in Manipur; hand over 28 weapons: Govt
+Under the rehabilitation scheme, each surrendered cadre will receive a one-time financial assistance of ₹4 lakh
+
+## NSA Ajit Doval holds talks with Saudi foreign minister on energy security and West Asia situation
+According to the Saudi Foreign Ministry, Ajit Doval met Prince Faisal bin Farhan in Riyadh on Monday.
+
+## Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
 The advisory, issued by the registrar’s office on Monday, said that students and employees are not permitted to make political statements
 
 ## AI chatbot helped plan Bengaluru triple murder, say police, seek chat history
 On June 22, 52-year-old Somasundar, his wife, 48-year-old Muthulaxmi, and their 19-year-old daughter Supriya were found stabbed to death.
 
-## 'Join us at dharna outside PM house': Rahul Gandhi's big call over crackdown on CJP march
-The call came a day after a Delhi police crackdown on a student protest march to Parliament organised by the CJP over alleged paper leaks.
+## 'Attempt was made to humbly explain': Minister on talks with Rahul Gandhi at dharna over CJP crackdown
+Earlier on Tuesday, Rahul Gandhi issued a big call, urging “patriotic Indians” to join his protest outside the official residence of PM Narendra Modi in Delhi.
 
-## Delhi HC declines to suspend BJP MLA’s conviction in celebratory firing case
-The trial court had in June convicted Singh under section 304 part II of the Indian Penal Code and under provisions of the Arms Act
-
-## Why Assam floods: The obvious answer is Brahmaputra, but there's so much more to it
-The floodwaters spreading across Assam this week have killed almost a dozen people, displaced over 3.63 lakh and inundated 15 districts.
-
-## 2 sadhus murdered, buried in forest near Haridwar temple; probe underway: Cop
-The two were identified as Sewa Giri and Uttam Giri by the police after they were alerted of their disappearance since Monday by temple staff
-
-## IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued, as per conduct rules’
-Reacting to the advisory, TMC MP Mahua Moitra criticised IIT Roorkee in a post on X.
-
-## Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges
-Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges
-
-## With a page out of China book, Tamil Nadu maintains lead in share of women workers
+## IIM Calcutta to develop case study on BJP’s Bengal poll win
 
 
-## Cockroach Janta Party sacks Vijeta Dahiya as spokesperson after viral video
+## ‘Freedom struggle’: Prakash Raj shares CJP protest clip; Honey Singh cancels teaser
 
 
-## Hanumankind joins CJP protest, slams police action: ‘No justification for this’
+## Madhavan to host Farooq Shaikh’s Jeena Isi Ka Naam Hai: ‘I’ll carry forward the legacy’
 
 
-## ‘Terrible’: Bombay HC steps in to save mangroves, orders removal of encroachments at Kandivali pond
+## Commonwealth Games 2026: Who will win India medals, and how many?
 
 
-## Samsung launches first Galaxy credit card with up to 5% cash rewards
+## UPSC Key: Dengue Vaccine, Right to protest and EPF Scheme
 
 
-## Beed student claims 522 marks in NEET-UG, alleges NTA awarded only 95; moves Bombay HC
+## Rahul Gandhi’s protest outside PM home ‘delays’ Karnataka Cabinet expansion
 
 
-## Installed ‘faulty’ lift for ailing wife, mother at home, man wins Rs 1.25 lakh payout
+## Brand Chandigarh: From planned city to premium India
 
 
-## After 35, belly fat can have different causes. Here’s what matters
+## Legionnaires’ disease outbreak: What to know after fourth death in New York City
 
 
-## Zhongji Innolight aims for Hong Kong’s biggest IPO in 7 years with US$8b sale
+## Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources
 Zhongji Innolight has attracted more than 30 cornerstone investors for its blockbuster initial public offering in Hong Kong, which could become the city’s biggest listing in seven years, according to people familiar with the matter. The Chinese maker of optical transceivers – which are widely used i
 
 ## US biotech firm developing therapies for infant brain injuries plans Hong Kong listing
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How a 64-team World Cup could transform football’s economics
-Spain, Portugal and Morocco are the cohosts of the 2030 edition, but we await confirmation of 48 or 64 competitors.
+## Saudi condemns Houthi blockade: How will the rest of the world be impacted?
+Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.
 
-## India’s ‘cockroach’ protest movement halts marches after police violence
-Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi.
+## Searching for closure: Venezuela families refuse to give up after quakes
+Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.
 
-## Hunger is falling but is still higher than pre-COVID levels: UN report
-Global hunger has declined, yet millions of people are still going hungry.
+## Japan’s AI gamble: Can technology offset the cost of an ageing society?
+From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.
 
-## Hamas’s new leader must bridge a movement divided over Iran
-After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence.
+## ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis
+Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.
 
-## ‘Won’t back down’: Indian student protesters return after police crackdown
-More than 100 students injured in police action against thousands of demonstrators during march on parliament.
+## What does a heatwave cost?
+What does a heatwave cost?
 
-## Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal
-Aoun is in Washington, DC seeking US backing to end the fighting and secure an Israeli withdrawal from southern Lebanon.
+## Clashes between police and people protesting Italy arrest death
+Clashes between police and people protesting Italy arrest death
 
-## Arizona’s primary elections: Which US races to watch and why they matter
-From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.
+## India tunnel collapse at a hydropower project kills 10 as 17 remain missing
+Rescue teams have been struggling to reach the 17 people trapped because of hazardous conditions inside the tunnel.
 
-## Lebanon’s Joseph Aoun to meet Trump: What to expect
-The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.
+## ‘There is ‌no safe place’: Israeli attack kills family of six in Gaza
+Israeli forces launch regular attacks on Gaza despite a US-backed 'ceasefire' agreed in October.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
