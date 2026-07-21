@@ -1,67 +1,82 @@
 # AION Intelligence
 
-## Burnham to remove VAT on household electricity bills
-New prime minister has vowed to help households with the cost of living
+## Thames Water lenders to offer ‘golden share’ to UK government
+Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
 
-## Nearly 100 US troops injured in two weeks since Iran war resumed
-The Pentagon says most soldiers suffered ‘minor concussions’ and have returned to duty
+## Who is in Andy Burnham’s new cabinet?
+UK prime minister announces top team, with many experienced faces returning to government
 
-## Broken valuation metrics?
-Maybe stocks are not that expensive after all
+## UK wage growth continues to cool while unemployment rate steady
+Bank of England will probably hold rates again in July amid mixed labour market signals
 
-## EU tech tsar spars with justice chief over new online rule book
-Also in this newsletter: Meloni pushes pardon for jeweller jailed over fatal shooting of robbers
+## Continuity and change in Burnham’s new cabinet
+Chancellor from Labour’s ‘old right’ is experienced but unlikely to meaningfully diverge from previous set up
 
-## FirstFT: Healey’s formidable in-tray as UK chancellor
-Also in today’s newsletter: LSE plans round-the-clock trading and AI as a geopolitical weapon
-
-## UK chancellor John Healey inherits tricky finances
-Prime minister’s choice of former defence minister surprises allies
-
-## Linklaters partners handed record £2.5mn payday as Asia business booms
-‘Magic circle’ law firm cites Hong Kong listings work and growth in US as it reports bumper payouts for top ranks
-
-## US authorities probe Mark Walter’s insurance empire
-Regulators and prosecutors are investigating the insurance-private capital nexus
-
-## Mitie agrees £3.1bn takeover by rival outsourcer OCS Group
+## Mitie agrees £3.1bn takeover by rival outsourcer OCS
 Facilities management group is latest London-listed company to agree a deal
+
+## Indian asset manager’s debut revives hopes for local IPO market
+Shares of SBI Funds Management jump nearly 9% in country’s largest listing so far this year
+
+## Brazil faces unforgiving economics after election
+Whoever wins the presidential race will have to face up to the need for fiscal consolidation
+
+## Burnham move to eliminate VAT on electricity bills sparks funding row
+Government claim that measure would be funded by scrapping digital ID scheme disputed by former minister
+
+## Julius Baer earnings rebound on early turnaround signs
+Zurich-based bank’s net profits more than double to SFr673mn
 
 ## Adnoc to invest in $6.2bn natural gas schemes as UAE bids for self-sufficiency
 Abu Dhabi oil group races to keep pace with domestic demand while facing potential end of gas supply deal with Qatar
 
+## FirstFT: Healey’s formidable in-tray as UK chancellor
+Also in today’s newsletter: LSE plans round-the-clock trading and AI as a geopolitical weapon
+
+## Linklaters partners handed record £2.5mn payday as Asia business booms
+‘Magic circle’ law firm cites Hong Kong listings work and growth in US as it reports bumper payouts for top ranks
+
 ## Tom Hayes says UBS’s ‘Project Chocolate’ probe shows he was targeted from outset
 Trader nicknamed ‘Tommy Chocolate’ argues bank’s rate-fixing investigation was stacked against him
 
-## Psychedelic drugs are going mainstream
-Commercial success is looking less theoretical for treatments based on mushrooms and LSD
+## Karur Vysya Bank shares jump 14% after Q1 profit hits record ₹756 crore
+The stock’s gains came despite the bank maintaining a cautious and moderate growth outlook for FY26-27.
 
-## The wealthy Londoners betting on a luxury retirement
-Riverstone is pioneering club-like housing schemes for asset-rich over-65s
-
-## Sensex today | Stock Market Live: Sensex drops 250 pts, Nifty below 24,200; HDFC Bank lead losers
-Sensex, Nifty, Share Prices LIVE: At 11.03 am, Sensex traded 212.51 pts or 0.27% lower at 77,496.01; and Nifty 50 dipped 46.05 pts or 0.19% to 24,192.45.
-
-## Tariff policy successful, more measures coming to replace those overturned by Supreme Court: USTR Greer
-The US’ approach has helped it negotiate trade deals with the UK, the European Union, Indonesia, India and Japan: Greer
-
-## Why these 10 stocks will be in focus on Tuesday
-TAFE, CDSL, SPML Infra, Emcure Pharma, Redington, Wanbury, RITES, KCP Sugar, Mafatlal and Monarch Surveyors
-
-## Iran claims strike on Amazon infrastructure in Bahrain
-The Revolutionary Guards say they targeted Amazon-linked infrastructure, though Bahrain has not confirmed the claim.
-
-## Q1 Results Today Live: Bajaj Auto, Granules, Adani Energy, TVS Motor, ATGL, CRISIL, Mastek, IndiaMART, Cyient DLM, Sagility, Canara Robeco to announce Q1 results, KVB shares jump 11%, UltraTech, IOB, Sobha shares gain, Paytm slips
+## Q1 Results Today Live: TVS Motor & Bajaj Auto Q1 profit rises, Adani Energy posts mixed Q1, Granules India, Kirloskar Pneumatic PAT up, E2E turns profitable, ATGL, CRISIL, Mastek to announce Q1 results
 Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
 
-## Insurance sector sees sharp rebound in June; health, motor to drive growth outlook: Report
-Retail health premiums surge 33%; Motor insurance also gains pace with 14% growth; fire insurance continues to weigh on industry performance, with premiums declining 23%
+## Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification
+Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification
 
-## Wangchuk's vital parameters remain stable: Safdarjung Hospital
-Wangchuk receivings oral rehydration therapy and oral potassium supplementation; however, he has declined intravenous fluids and glucose administration
+## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty 50 falls to 24,150; IT, Banking stocks drag mid-session
+Sensex, Nifty, Share Prices LIVE: At 1:06 pm, Sensex traded 330.01 pts or 0.42% lower at 77,378.51, and Nifty 50 fell 89.65 pts or 0.37% to 24,148.85.
 
-## Gujarat records 33% rainfall deficit, yet kharif sowing crosses 50 lakh hectares
-Despite the patchy rains, farmers have completed sowing over 50 lakh hectares against the normal three-year average of 85.3 lakh hectares
+## Teja Engineering wins ₹18-crore O&M orders from ONGC
+The company is currently undertaking projects for ONGC, GAIL, Adani, AG&P, BPCL, IOAGPL, Torrent Gas, ATGL, ThinkGas, Gujarat Gas and SGL
+
+## Ashok Leyland CEO pay jumps 49%; CFO sees 58% rise
+Executive Chairman Dheeraj Hinduja’s remuneration rose 9 per cent to ₹31.25 crore in FY26; new term could carry annual pay of up to ₹33 crore.
+
+## Domestic airlines carry 864.04 lakh passengers in first half of 2026, up 1.44% from a year ago
+The ministry's traffic report showed that passenger traffic during the first six months of 2026 continued to grow on a year-on-year basis, although passenger numbers declined on a monthly basis
+
+## India signed 8.4 mtpa of long term LNG contracts in 2025: GIIGNL
+GIIGNL’s 2026 annual report pointed out that the last calendar was an exceptionally active year for LNG contracting, with 83 long-term sale purchase agreements (SPAs) signed, nearly double the 47 recorded in 2024
+
+## Stock market today: Sensex falls over 225 points; Nifty slips below 24,200 in afternoon trade
+
+
+## New warning on oil: Goldman Sachs says crude prices could cross $120 if Strait of Hormuz disruptions continue
+In a note dated July 20, Goldman Sachs analysts said, “Escalation in the Middle East and the decline in estimated Persian Gulf flows to below 45% of pre-war levels have pushed oil prices back up.”
+
+## SBI Funds Management listing makes some employees crorepatis; stock debuts at 7% premium to IPO price
+SBI Funds Management made a strong debut on Dalal Street today, listing at a premium of around 7% over its IPO price. The stock opened at Rs 610 on the BSE, which is a gain of 6.27% from the issue price of Rs 574, while it listed at Rs 613.30 on the NSE.
+
+## Gold price prediction today: Why are gold prices under pressure? Check July 21, 2026 outlook
+Gold price prediction today: Gold prices continue to be under pressure and downside risks remain, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
+
+## 'Direct violation': Canada vows to protect workers after Trump slaps 50% tariffs on select goods
+Canadian Prime Minister Carney stated new US tariffs violate the CUSMA trade agreement. He affirmed continued government support for Canadian workers and businesses. These tariffs target Canadian exports like vehicles and dairy products. Canada has proposed detailed solutions and remains open to neg
 
 ## Rupee slips 6 paise against US dollar in early trade
 
@@ -72,68 +87,62 @@ NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gaug
 ## Ex-tech execs’ startups find favour with VCs, says report
 Startups founded by former tech professionals are attracting venture capital investment. These operator-led ventures, though few, are securing a growing share of funding. They consistently receive larger funding rounds and higher valuations compared to others. Experienced founders bring valuable com
 
-## Hyundai lays groundwork for mass-market EV launch
-Hyundai Motor India is expanding charging infrastructure and component localization. The company plans to launch its first mass-market electric SUV this fiscal year. This move targets the affordable, sub-Rs 15 lakh segment of the EV market. Hyundai has previously focused on premium electric vehicle 
+## India approves its first dengue vaccine Qdenga: How it works, who is eligible, and why it isn't a silver bullet
+Qdenga, cleared this week for ages 4 to 60, is one of only a few dengue vaccines in the world. It is to be injected in two doses three months apart.
 
-## Stocks, rupee slide as oil spike fuels pressure
-Indian markets closed lower as fluctuating crude prices and global risk-off cues weighed. Banking stocks led the decline after mixed earnings reports from major lenders. The rupee weakened against the dollar due to rising oil prices and geopolitical tensions. Crude prices rose to a one-month high am
+## Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
+Rahul Gandhi alleged government resistance to discuss the protest in parliament; went to meet those injured at RML Hospital.
 
-## At 5% in June, core sector grows fastest in 5 mths
+## Meghalaya landslide kills 7-year-old boy, injures four family members: Police
+Ri-Bhoi superintendent of police, Giri Prasad M said preliminary inquiry revealed that the landslide was caused by heavy overnight rainfall
 
+## ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
+Vijay Daniel, a protester who came from Hyderabad to join the march, said the violence erupted moments before it was to begin
 
-## Monetisation of assets helps NHAI pare debt
-The National Highways Authority of India has prepaid over Rs 1.2 lakh crore in loans. This accelerated asset monetisation has reduced its overall debt significantly. The authority has not borrowed directly from the market since 2022. Asset monetisation hit a record high of Rs 41,079 crore in the las
+## Monsoon revives in Rajasthan; rainfall lash eastern part of state
+Monsoon revives in Rajasthan; rainfall lash eastern part of state
 
-## No move to scrap LTCG tax on equities: Govt
-The government has informed Parliament about no current plans to abolish long-term capital gains tax on equities. Tax policies are revised periodically as part of the annual budgetary process and legislative revisions. This statement addresses investor demands for changes in long-term capital gains 
+## 'This is gunda gardi': Uttarakhand HC tears into police over detention of leader backing Sonam Wangchuk
+The HC questioned the legal basis for the action and asked whether the police were protecting the government's image instead of citizens' constitutional rights.
 
-## CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
-Police alleged protestors assembled unlawfully, disrupted public order, obstructed government officials, indulged in violence, and damaged public property
+## 'Nepal-style plans' vs 'mics turned off': Centre, Opposition spar over CJP protest at Jantar Mantar
+Union Minister Kiren Rijiju said PM Modi told MPs that the government took action immediately after reports of the paper leak surfaced.
 
-## Those involved in NEET paper leak will be punished: PM Modi at NDA parliamentary party meet
-The PM is learnt to have told lawmakers that students should be assured that their interests will be protected
+## Delhi HC proposes Wangchuk be shifted to hospital of his choice, ‘will pass order’
+A bench of Chief Justice DK Upadhyaya and Justice Tejas Karia said they would pass the final order after lunch.
 
-## Kerala seafarer killed in Russian missile strike on shipping vessel was set to marry in 2 months
-Akhil Joyan, 26, was the only son of a couple from Kerala.
-
-## Who is Harmanveer Singh? FBI manhunt on amid drug trafficking charges, link to Dhanda gang
-The 31-year-old man also goes by the aliases of "Hari Gautam" and "Harman Sandhu."
-
-## CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
-Abhijeet Dipke said that while the protest would continue, CJP will not attempt another march to Parliament.
-
-## 'Shared values': Modi congratulates new UK PM Andy Burnham, stresses trade ties
-The Prime Minister reiterated the significance of the Comprehensive Economic and Trade Agreement that came into force this month.
-
-## India summons Russian diplomat over death of four Indian seafarers in vessel attack off Ukraine coast
-The vessel, identified as MV Golden Leo, was struck as it departed Ukraine's southern port of Odesa on Sunday.
-
-## Thousands of farmers gather at Shambhu border ahead of march to Delhi. What's happening?
-Farmer leader Sarwan Singh Pandher accused the Haryana govt of barricading the Shambhu border to stop farmers from reaching Delhi for the Kisan Mahapanchayat.
-
-## IIIT Lucknow records highest-ever BTech placements; IIT Kanpur Director Manindra Agrawal takes additional charge
+## Hugging Face confirms data breach by AI agent: Why it has sparked a debate on cyber guardrails
 
 
-## TMC Martyrs’ Day stage vandalised in Kolkata, Mamata stays guard overnight
+## Fatty pancreas may be a warning sign for diabetes, pancreatitis and cancer: Global experts
 
 
-## Why is Lionel Messi staying back in US after World Cup final
+## Charged Rs 175 ‘extra’ for wine bottle, Himachal man wins Rs 20,000 payout
 
 
-## ‘I will protect till my death’: Raghav Juyal on shielding Shehnaaz Gill from paparazzi
+## RRB JE 2026 Recruitment: 4,098 vacancies announced for Railways Junior Engineer posts, apply from August 14
 
 
-## Indian man jailed in Singapore for Rs 1.49 crore diamond heist
+## Court refuses to cancel ED case against people who tried to sell banned notes
 
 
-## Mumbai rains weather forecast: Heavy rains to intensify, warns IMD; orange alert to continue as monsoon revives
+## ‘Will not be disappointed’: Siddharth Anand hails Ramayana trailer; Atlee praises Ranbir
 
 
-## Rapido driver refuses rides to those against CJP movement: ‘It’s about our future’
+## ‘She never said don’t touch me’: Shekhar Suman on filming Utsav with Rekha
 
 
-## Haryana drafts Right to Business Bill, proposes 3-year inspection-free period for MSMEs
+## Women run away for love, men over domestic issues: Devendra Fadnavis
 
+
+## China stocks rebound from AI sell-off amid national team support
+Mainland Chinese shares are surging back from a sell-off amid regulatory support and huge purchases by state investors and major companies. The CSI 300 index rose 3.1 per cent on Tuesday, following a 1.5 per cent gain on Monday after China Securities Regulatory Commission (CSRC) chairman Wu Qing met
+
+## China intensifies cross-border tax scrutiny as Beijing warns against offshore dodging
+Two Chinese state media outlets warned on Monday against offshore tax evasion by calling out an incident involving a major social media platform and its Hong Kong entity, sending a message that Beijing is intensifying its scrutiny of cross-border corporate structures. The China Securities Journal, w
+
+## As BYD marks Brazil milestone, Europe weighs response to surge in Chinese EVs
+BYD has rolled out its 100,000th new-energy vehicle from its Brazilian assembly line, underscoring the growth potential for Chinese products in South America, just as electric cars fuel fresh tension in Europe. China’s largest electric vehicle (EV) producer reached the landmark on July 16, reflectin
 
 ## SpaceX slump fails to dent Hong Kong tech as investors seen pivoting
 A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched v
@@ -141,23 +150,14 @@ A sharp pullback in US space-technology giant SpaceX and renewed valuation press
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
 
-## HKEX to allow confidential filings, lower market cap threshold for start-ups, sources say
+## HKEX to allow confidential filings, lower market cap threshold for start-ups: sources
 Hong Kong Exchanges and Clearing (HKEX) would proceed with its listing reform to allow confidential filings and a lower market capitalisation requirement, as part of the exchange operator’s plan to increase its international competitiveness, two sources told the South China Morning Post. The move wo
 
 ## Chinese stocks extend rise as state-backed insurers tout long-term investments
-Chinese stocks extended their gains into the midday break on Tuesday, adding to a recovery driven by official market-stabilisation measures and strong institutional backing following recent global market turbulence. On the mainland, the Shanghai Stock Exchange’s Star 50 Index, which tracks the excha
+Chinese stocks extended their gains to close higher on Tuesday, capping a session driven by official market-stabilisation measures and strong institutional backing following recent global market turbulence. On the mainland, the Shanghai Stock Exchange’s Star 50 Index led the market higher, ending th
 
 ## Fifa effect: Hong Kong developers bet on sport fever to keep shoppers spending
 From attracting tourist spending to live streaming world sports events like the Fifa World Cup, Hong Kong developers have tried to claw their way through a challenging retail market and found a rare boost to shopping malls. As crowds converged on neighbourhood malls to watch live broadcasts of World
-
-## New tech wealth sparks luxury property rush in Chinese city home to ‘Six Little Dragons’
-A luxury penthouse in Hangzhou has set record highs for both unit price and total value of high-rise flats in the city, as new tech wealth injects fresh momentum into the market. All 66 units at the high-end Wangtianji development’s initial batch were snapped up on the first day of launch on July 16
-
-## ‘Payback’: why China’s world-beating car industry faces plunging sales at home
-China’s electric vehicle (EV) industry sits at the centre of numerous economic and geopolitical trends: consumer spending, environmental protection, trade policy, high-end manufacturing, technology and more. In this short series, we assess the current state of the sector within these broader context
-
-## China won’t waste its reserves to cushion oil price impact of Iran war
-Oil prices are set to rise once more as renewed US attacks on Iran leave the Strait of Hormuz, a major artery of oil trade, closed again. With US strategic petroleum reserves at their lowest in over 40 years, America will have trouble keeping oil prices below US$100 a barrel, as it has mostly done i
 
 ## Trump Needs to Defy History to End the Iran War
 U.S. presidents are virtually never able to end the stalemated wars they start.
@@ -207,6 +207,12 @@ Amid a rise in smuggling, Anutin Charnvirakul has recently come out against the 
 ## The Romanovs and ‘Invictus’ in the Impeachment Trial of Philippine Vice President
 Sara Duterte claimed that she is "bloodied but unbowed" in the face of persecution by President Ferdinand Marcos Jr. and his administration.
 
+## Rebuilding America’s Critical Minerals Base
+There’s a clear consensus that America hollowed out its critical minerals base. How to rebuild it is less settled. Alex Grant of Magrathea Metals and Wes Spurlock of Principal Mineral join Jonathan to discuss the processing technology, labor force, and how government can catalyze private capital inv
+
+## Learning from the ‘Voyage of the Damned’: The Making of a Russian Naval Disaster
+Editorial Note: The dates cited in Eugene Politovsky’s account are from the old Russian Orthodox calendar, which is 13 days behind that of the (Gregorian) calendar system used in this article.A recent War on the Rocks article on the failure of the Spanish Reserve Fleet to prepare for war with the Un
+
 ## Corruption Takes Center Stage in Ukraine’s National Conversation
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -224,12 +230,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary from acr
 
 ## The Blood Bank and the Logistics of Wartime Medicine
 Editor’s note: This is the fourth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
-
-## Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment
-It’s 2028, and the Fujian carrier strike group has just left Yulin, China, for an unknown destination. The U.S. Navy’s “Hedge Strategy” has let commanders disperse unmanned systems across regional choke points as forward-deployed scouts. But days before contact with Fujian, an unmanned undersea vehi
-
-## How Revolutions Break Their Believers
-Waguih Ghali, Beer in the Snooker Club (Vintage International, 2014)The noise, the noise, the unrelenting noise of the world: How is any writer with an interest in the long view supposed to escape it, if only for a couple hours to work, let alone maintain their sanity in the remainders of a day? It’
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,31 +255,31 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli forces open fire on children in Syrian village
+Israeli forces open fire on children in Syrian village
+
+## Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return
+Australia return to full strength for two-Test series against Bangladesh, as injured trio return to strengthen squad.
+
+## Moment terrifying floodwaters sweep through Afghan village
+Moment terrifying floodwaters sweep through Afghan village
+
+## Five Palestinians die in fire after Israeli attack in Gaza
+An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.
+
+## World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’
+Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi's final World Cup game.
+
+## ‘Active in BDS’: Document reveals how Israel scrutinised global NGOs
+An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS.
+
+## ‘We just want to live’: Palestinians in Gaza react to Hamas election
+There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader.
+
 ## Many Christian voters in the US see Trump as ‘chosen’ by God to lead
 Many white evangelical Christians view Donald Trump as chosen by God to lead despite not seeing him as personally devout
 
-## Argentina players receive heroes’ welcome home despite World Cup defeat
-Argentina’s players were welcomed home by fans lining the streets as the team travelled from the airport.
-
-## China and Philippines trade accusations after sailor injured at sea
-Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.
-
-## Lebanese return to ‘pilot zone’ villages they say Israel never occupied
-Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.
-
-## Spain’s World Cup heroes welcomed by millions in Madrid
-More than half of Madrid’s population turned out to celebrate La Roja as the players returned to Spain
-
-## US military releases footage of tenth consecutive night of strikes on Iran
-US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.
-
-## Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?
-A series of diplomatic consultations in Cairo underscores the Horn of Africa's growing strategic importance.
-
-## Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny
-Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.
-
-## India Inc's highest-paid CFOs in FY26: L&T's R Shankar Raman leads the pack
+## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
 
 ## CBIC weighs centralised GST registration under one PAN
@@ -303,6 +303,9 @@ In the short-term, the micro finance company has set a target of taking the curr
 ## Cube Highways' public listing to strengthen access to capital for next growth phase: CFO Pankaj Vasani
 Cube Highways Trust's Rs 5,000 crore public issue marks a strategic transition beyond an Offer for Sale, with the listed InvIT looking to broaden its investor base, improve access to capital markets and support long term growth, says Group Chief Financial Officer Pankaj Vasani.
 
+## RBI's inflow push gets off to strong start, fortifying India's balance of payments
+Foreign currency inflows are strengthening India's balance of payments position. The Reserve Bank of India's measures have mobilized over twenty billion dollars. This inflow is significantly higher than anticipated by economists and analysts. Such robust initial response bodes well for future fund m
+
 ## Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush
 Banks anticipate a surge in FCNR-B deposits before the September deadline. Initial inflows have been below expectations, but partnerships are being forged. Demand from non-resident Indians remains strong, especially from the Middle East. Lenders are intensifying outreach efforts to attract more over
 
@@ -323,7 +326,4 @@ The Reserve Bank of India (RBI) has fixed the underwriting commission cut-off ra
 
 ## NSE gets rare 'sell' rating ahead of planned IPO
 The National Stock Exchange of India (NSE) has received a 'sell' recommendation from a domestic brokerage ahead of its much-anticipated initial public offering (IPO), with Dolat Capital Markets warning that regulatory changes in the country's derivatives market could weigh on the exchange's future g
-
-## Govt to replace WPI with Producer Price Index for future procurement contracts
-In a bid to modernize inflation measurement, the government is set to replace the Wholesale Price Index with the Producer Price Index for future government contracts and price changes. This initiative seeks to align India's procurement processes with global inflation metrics. Ministries are urged to
 
