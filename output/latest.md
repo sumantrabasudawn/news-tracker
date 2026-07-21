@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump reinstates direct US flights to Lebanon after meeting its president
+US leader declines to put a timeline on an Israeli withdrawal from the Middle East nation
+
 ## Trump vows to attack Iranian nuclear facility as Middle East war escalates
 Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
 
@@ -21,12 +24,6 @@ Cost of trying to protect domestic interests may be to embolden Moscow
 ## Ann Widdecombe died after being ‘struck 21 times with hammer’
 Prosecutors set out details of what police said was a ‘targeted attack’ on 78-year-old former minister
 
-## Rolls-Royce expects Airbus decision on new A350 version within a year
-UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
-
-## Trump reinstates direct US flights to Lebanon after meeting its president
-US leader declines to put a timeline on an Israeli withdrawal from the Middle East nation
-
 ## Meta’s unwinding of Manus shows even forced deals have merits
 Disposal of Chinese agentic AI start-up has left the Facebook owner better off than it might seem
 
@@ -38,6 +35,9 @@ Danish group claims rival used outdated data to support claims that its products
 
 ## Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks
 Shutdown of CPC pipeline could remove another 1mn barrels a day from the market
+
+## Rolls-Royce expects Airbus decision on new A350 version within a year
+UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
 
 ## Liverpool’s US owners in talks with Indian investors over stake valuing club at $6 billion: FT
 Liverpool owner Fenway Sports Group has confirmed discussions with an Amit Bhatia-led consortium, including members of the Mittal family, over a strategic minority stake
@@ -111,6 +111,15 @@ Both Saidur Rahman and Umme Marufa have made derogatory social media posts about
 ## Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe, Dipke focuses on Jantar Mantar
 Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on similar issues — was back at the centre of it all.
 
+## Future of youth beyond politics, says PM Modi, calls for ‘foolproof’ exams
+
+
+## Government signal: Ready for debate, demand for resignation political
+
+
+## Day after, injured back at Jantar Mantar protest site: ‘Weak in body, not in resolve’
+
+
 ## Government rescinds incorrect Rajya Sabha election results notification
 
 
@@ -126,14 +135,8 @@ Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on
 ## Delhi government to issue Smart Property Cards in 48 Lal Dora villages
 
 
-## Hanumankind attends CJP’s Jantar Mantar protest as Indian rap community backs NEET stir
-
-
-## ‘Doing seva’: Meet volunteers keeping Jantar Mantar functioning and clean
-
-
-## Farmer leader Raju Shetti, Mahadev Jankar picked up by Delhi police
-
+## What’s at stake as Beijing beats global peers with first approval of novel therapy
+China’s drug regulator has for the first time approved a novel, globally trialled medicine ahead of authorities in the United States, Japan and Europe, marking a “historic breakthrough” as the country doubles down on biopharmaceuticals as one of its growth engines. The drug was filed for market appr
 
 ## From Crisis to Cross-Border Growth: Bangchak’s Energy Reinvention
 When Chaiwat Kovavisarach first stepped into Bangchak Corporation Plc in the early 2000s, the Thai oil refiner was fighting for survival. The aftershocks of the 1997 Asian financial crisis were still reverberating through Thailand’s economy. Bangchak, then a small, state-linked refinery under the Mi
@@ -155,9 +158,6 @@ Two Chinese state media outlets warned on Monday against offshore tax evasion by
 
 ## As BYD marks Brazil milestone, Europe weighs response to surge in Chinese EVs
 BYD has rolled out its 100,000th new-energy vehicle from its Brazilian assembly line, underscoring the growth potential for Chinese products in South America, just as electric cars fuel fresh tension in Europe. China’s largest electric vehicle (EV) producer reached the landmark on July 16, reflectin
-
-## SpaceX slump fails to dent Hong Kong tech as investors seen pivoting
-A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched v
 
 ## Trump’s China Threats Don’t Match His China Policy
 The president’s allegations about election interference are the latest case in point.
@@ -255,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lebanese army deploys in ‘pilot zones’ under US-backed plan
+The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.
+
+## Trump administration attacks US left, alleging Cuba ties: Key takeaways
+US report says the beleaguered government in Havana is the 'connective tissue' of a global 'anti-American coalition'.
+
+## Moldova chooses new prime minister as it pushes for EU membership
+Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.
+
 ## Zelenskyy replaces Ukraine military chief after protests
 Replaced military chief Syrskyi clashed with former Defence Minister Fedorov, whose removal last week led to protests.
 
@@ -269,15 +278,6 @@ Iran has held funerals for 32 children killed in a US strike on a school in Mina
 
 ## How will Khalil al-Hayya’s leadership shape Hamas?
 Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.
-
-## Guyana reports ferry disaster death toll rises to 41
-Search continues for dozens more people unaccounted for after the MV Barima capsized on Saturday night.
-
-## Daytime Russian strike kills three in Zaporizhzhia
-A Russian guided aerial bomb attack on Zaporizhzhia, Ukraine, killed at least three people and injured 13 others.
-
-## French parliament passes social media ban for under-15s
-President Emmanuel Macron, who has championed the initiative, wants the ban in effect before the upcoming school year.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
