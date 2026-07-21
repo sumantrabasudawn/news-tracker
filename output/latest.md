@@ -1,13 +1,13 @@
 # AION Intelligence
 
-## Zelenskyy replaces top Ukraine general in biggest military shake-up since 2024
+## Trump vows to attack Iranian nuclear facility as Middle East war escalates
+Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
+
+## Zelenskyy replaces top Ukraine general after mass protests
 President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv’s military leadership
 
 ## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies
 AMG shares tumble after officials question explosive growth of tax-loss harvesting investment techniques
-
-## Trump vows to attack Iranian nuclear facility as Middle East war escalates
-Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
 
 ## New prime minister’s ‘Number 10 North’ is already up and running
 Government intends Manchester office to be ‘engine room of devolution and good growth in every postcode’
@@ -24,6 +24,12 @@ Prosecutors set out details of what police said was a ‘targeted attack’ on 7
 ## Rolls-Royce expects Airbus decision on new A350 version within a year
 UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
 
+## Trump reinstates direct US flights to Lebanon after meeting its president
+US leader declines to put a timeline on an Israeli withdrawal from the Middle East nation
+
+## Meta’s unwinding of Manus shows even forced deals have merits
+Disposal of Chinese agentic AI start-up has left the Facebook owner better off than it might seem
+
 ## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
 Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’, says Lorenzo Mariani
 
@@ -32,15 +38,6 @@ Danish group claims rival used outdated data to support claims that its products
 
 ## Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks
 Shutdown of CPC pipeline could remove another 1mn barrels a day from the market
-
-## Shares in UK defence groups rise on hopes Healey will boost military spending
-New chancellor backed by investors to find cash he previously said was required to keep country safe
-
-## The bear hug is an increasingly sensible way to play UK M&A
-Negotiations are being played out in public — no bad thing given boards and investors may see things differently
-
-## IEA warns of risk to energy supplies from escalation of Iran conflict
-Intergovernmental agency says ‘no room for complacency’ and points to tightness in refined products
 
 ## Liverpool’s US owners in talks with Indian investors over stake valuing club at $6 billion: FT
 Liverpool owner Fenway Sports Group has confirmed discussions with an Amit Bhatia-led consortium, including members of the Mittal family, over a strategic minority stake
@@ -162,29 +159,29 @@ BYD has rolled out its 100,000th new-energy vehicle from its Brazilian assembly 
 ## SpaceX slump fails to dent Hong Kong tech as investors seen pivoting
 A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched v
 
+## Trump’s China Threats Don’t Match His China Policy
+The president’s allegations about election interference are the latest case in point.
+
+## Why a Hunger Strike Is Rallying India’s Youth
+Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition.
+
+## The Oil Market Is Much More Vulnerable Than Trump Believes
+Depleted reserves and changed circumstances make price spikes more likely this time around.
+
+## Who Is Trump’s Next Tariff Target?
+Trump’s latest protectionist measures will likely exacerbate trade tensions and reignite legal battles.
+
 ## Israel’s Weapons Makers Have a Marketing Problem
 An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
 
 ## The Iran Expert Trump Fired
 Nate Swanson on the U.S. president’s unique top-down style—and his fondness for lobbying.
 
-## Dinosaurs Roam the Aspen Security Forum
+## The Aspen Security Forum Is the Land Time Forgot
 This year’s conference could have been held in 2003, 2008, or 2011.
 
 ## There’s a Fix for Israel’s Image Crisis
 A reluctant opposition needs a radically new pathway on Palestine.
-
-## Modi’s Great Anglo Paradox
-Cultural decolonization advances alongside unprecedented Western partnerships.
-
-## The Western Myth of Russian Greatness
-There is a long history of foreigners idealizing Russia and exaggerating its power.
-
-## Trump Needs to Defy History to End the Iran War
-U.S. presidents are virtually never able to end the stalemated wars they start.
-
-## Armenian Democracy Faces a Threat From Within
-A predatory opposition, fueled by external support, is gaining influence within the state.
 
 ## Does Myanmar Still Have One Government to Recognize?
 Much of the world still views Myanmar through a narrow diplomatic lens that cannot encompass the full political complexity of its conflict.
@@ -258,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Zelenskyy replaces Ukraine military chief after protests
+Replaced military chief Syrskyi clashed with former Defence Minister Fedorov, whose removal last week led to protests.
+
+## Drone shows scorched landscape after Spain wildfire
+A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.
+
+## US defence chief Hegseth puts Iran war cost at $37.5bn so far
+Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.
+
+## Iran holds funerals for children killed in Minab school strike
+Iran has held funerals for 32 children killed in a US strike on a school in Minab, Iran on February 28.
+
 ## How will Khalil al-Hayya’s leadership shape Hamas?
 Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.
 
@@ -269,18 +278,6 @@ A Russian guided aerial bomb attack on Zaporizhzhia, Ukraine, killed at least th
 
 ## French parliament passes social media ban for under-15s
 President Emmanuel Macron, who has championed the initiative, wants the ban in effect before the upcoming school year.
-
-## US funding cuts deal blow to global HIV treatment: Report
-UNAIDS chief calls for 'radical change' as aid cuts gut HIV clinics and treatment worldwide.
-
-## Deposed Turkish opposition leader plans new party
-Ozgur Ozel hopes to launch new main opposition after court removed him as leader of the CHP.
-
-## Carney says he and Trump have agreed to ‘intensify’ trade negotiations
-Relations between Canada and its largest trading partner have been tested by Trump's repeated jibes, threats and tariffs
-
-## Spain battles latest in series of major wildfires near Madrid
-Fire breaks out amid Spain's third heatwave of the summer, with temperatures forecast to rise above 40C.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
