@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Zelenskyy replaces top Ukraine general in biggest military shake-up since 2024
+President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv’s military leadership
+
+## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies
+AMG shares tumble after officials question explosive growth of tax-loss harvesting investment techniques
+
 ## Trump vows to attack Iranian nuclear facility as Middle East war escalates
 Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
 
@@ -18,12 +24,6 @@ Prosecutors set out details of what police said was a ‘targeted attack’ on 7
 ## Rolls-Royce expects Airbus decision on new A350 version within a year
 UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
 
-## Shares in UK defence groups rise on hopes Healey will boost military spending
-New chancellor backed by investors to find cash he previously said was required to keep country safe
-
-## India police detain opposition leader Rahul Gandhi as tensions rise
-Opposition leader defiant as police remove him from sit-in outside Prime Minister Modi’s residence
-
 ## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
 Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’, says Lorenzo Mariani
 
@@ -32,6 +32,9 @@ Danish group claims rival used outdated data to support claims that its products
 
 ## Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks
 Shutdown of CPC pipeline could remove another 1mn barrels a day from the market
+
+## Shares in UK defence groups rise on hopes Healey will boost military spending
+New chancellor backed by investors to find cash he previously said was required to keep country safe
 
 ## The bear hug is an increasingly sensible way to play UK M&A
 Negotiations are being played out in public — no bad thing given boards and investors may see things differently
@@ -63,6 +66,9 @@ One of the transferred technologies is SHetA2, a drug candidate licensed to Emcu
 ## PLI schemes attract ₹2.4 lakh crore investments, generate over 14 lakh jobs till March
 Solar modules, pharmaceuticals and automobiles lead investments as cumulative exports cross ₹15.2 lakh crore
 
+## Centre uses 40% of annual fertiliser subsidy in first 3.5 months
+
+
 ## India's growth remains strong, but trade barriers threaten 2047 goal: WTO
 India's strong economic growth continues, but structural reforms are needed for developed nation status. High trade costs and regulatory complexity present significant challenges to global integration. The World Trade Organization report notes progress in trade facilitation and financial inclusion. 
 
@@ -83,9 +89,6 @@ The FAA is updating aviation rules to encourage new technologies. It supports ai
 
 ## Another oil shock loading for India? How Red Sea route disruptions may hit not only Saudi, but also Russian crude supply
 Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Saudi Arabia. What this essentially means is that Saudi Arabia’s crude oil exports are set to be hit. And India which gets a big portion of its crude imports from the Middle East country.
-
-## Stock Market Today Highlights: Sensex ends over 230 points down; Nifty slips below 24,200
-
 
 ## Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
 Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
@@ -111,6 +114,15 @@ Both Saidur Rahman and Umme Marufa have made derogatory social media posts about
 ## Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe, Dipke focuses on Jantar Mantar
 Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on similar issues — was back at the centre of it all.
 
+## Government rescinds incorrect Rajya Sabha election results notification
+
+
+## J&K activist, journalist all set to walk out on bail as Delhi HC refuses to stay their release in UAPA case
+
+
+## Heavy rains likely in Pune Ghats, red alert issued
+
+
 ## Gujarat in education ministry’s ‘red zone’ as secondary school dropouts surge
 
 
@@ -126,14 +138,8 @@ Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on
 ## Farmer leader Raju Shetti, Mahadev Jankar picked up by Delhi police
 
 
-## ‘Would tell him salary of cook’: R Madhavan on teaching son Vedaant respect; expert reflects
-
-
-## BJP’s Pooja Wadhwa becomes Abohar’s first woman Mayor
-
-
-## The Pune ‘witch’ working magic with water hyacinth
-
+## From Crisis to Cross-Border Growth: Bangchak’s Energy Reinvention
+When Chaiwat Kovavisarach first stepped into Bangchak Corporation Plc in the early 2000s, the Thai oil refiner was fighting for survival. The aftershocks of the 1997 Asian financial crisis were still reverberating through Thailand’s economy. Bangchak, then a small, state-linked refinery under the Mi
 
 ## Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources
 Zhongji Innolight has attracted more than 30 cornerstone investors for its blockbuster initial public offering in Hong Kong, which could become the city’s biggest listing in seven years, according to people familiar with the matter. The Chinese maker of optical transceivers – which are widely used i
@@ -155,9 +161,6 @@ BYD has rolled out its 100,000th new-energy vehicle from its Brazilian assembly 
 
 ## SpaceX slump fails to dent Hong Kong tech as investors seen pivoting
 A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched v
-
-## Fintech firm Ant International raises US$1.2b to fuel global growth
-Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
 
 ## Israel’s Weapons Makers Have a Marketing Problem
 An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## India tunnel collapse kills 10 as toxic gases hamper rescue
-At least 10 people have died and 17 remain trapped after a suspected gas explosion caused a tunnel to collapse.
+## How will Khalil al-Hayya’s leadership shape Hamas?
+Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.
 
-## US agency proposes ending racial and gender workforce data collection
-Republican-led EEOC proposal to end workforce diversity reporting heads to public commentary amid sharp criticism.
+## Guyana reports ferry disaster death toll rises to 41
+Search continues for dozens more people unaccounted for after the MV Barima capsized on Saturday night.
 
-## Can mediators broker a truce between the US and Iran?
-With every new round of attacks raising political cost of compromise, analysts warn the window for peace may be closing.
+## Daytime Russian strike kills three in Zaporizhzhia
+A Russian guided aerial bomb attack on Zaporizhzhia, Ukraine, killed at least three people and injured 13 others.
 
-## Rescuers search for flood survivors in Afghanistan
-Rescuers in eastern Afghanistan are searching through mud and rubble after flash floods and a landslide
+## French parliament passes social media ban for under-15s
+President Emmanuel Macron, who has championed the initiative, wants the ban in effect before the upcoming school year.
 
-## Trump says he’s open to talks with Hezbollah, vows to help Lebanon
-US President Trump said he is open to direct talks with Hezbollah.
+## US funding cuts deal blow to global HIV treatment: Report
+UNAIDS chief calls for 'radical change' as aid cuts gut HIV clinics and treatment worldwide.
 
-## Instagram on trial for allegedly harming kids
-The trial between the state of Tennessee and Instagram is kicking off this week.
+## Deposed Turkish opposition leader plans new party
+Ozgur Ozel hopes to launch new main opposition after court removed him as leader of the CHP.
 
-## Netherlands to sanction trade with illegal Israeli settlements
-Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled.
+## Carney says he and Trump have agreed to ‘intensify’ trade negotiations
+Relations between Canada and its largest trading partner have been tested by Trump's repeated jibes, threats and tariffs
 
-## The Houthis may soon discover the limits of Saudi strategic patience
-Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.
+## Spain battles latest in series of major wildfires near Madrid
+Fire breaks out amid Spain's third heatwave of the summer, with temperatures forecast to rise above 40C.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
