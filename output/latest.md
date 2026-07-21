@@ -1,52 +1,55 @@
 # AION Intelligence
 
+## Trump vows to attack Iranian nuclear facility as Middle East war escalates
+Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
+
+## New prime minister’s ‘Number 10 North’ is already up and running
+Government intends Manchester office to be ‘engine room of devolution and good growth in every postcode’
+
+## Saudi tankers reverse course after Houthi threats
+At least four vessels make U-turns after warnings from Yemeni rebels, as fresh threat emerges to Red Sea shipping
+
+## The EU needs to hold together on Russia sanctions
+Cost of trying to protect domestic interests may be to embolden Moscow
+
+## Ann Widdecombe died after being ‘struck 21 times with hammer’
+Prosecutors set out details of what police said was a ‘targeted attack’ on 78-year-old former minister
+
+## Rolls-Royce expects Airbus decision on new A350 version within a year
+UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
+
+## Shares in UK defence groups rise on hopes Healey will boost military spending
+New chancellor backed by investors to find cash he previously said was required to keep country safe
+
 ## India police detain opposition leader Rahul Gandhi as tensions rise
 Opposition leader defiant as police remove him from sit-in outside Prime Minister Modi’s residence
 
-## The bear hug is an increasingly sensible way to play UK M&A
-Negotiations are being played out in public — no bad thing given boards and investors may see things differently
-
-## Monetary Policy Radar preview: ECB’s July meeting
-The FT’s guide on what to look out for in Thursday’s session
-
-## IEA warns of risk to energy supplies from escalation of Iran conflict
-Intergovernmental agency says ‘no room for complacency’ and points to tightness in refined products
-
-## Andy Burnham’s cabinet: who’s in, who’s out?
-Plus: policy announcements and how to fund them
-
-## The Yahoo Boys — the true stories of four Nigerian online love scammers
-A quest to expose fraudsters in Lagos led Carlos Barragán to a criminal racket fuelled by poverty — and by western loneliness
-
-## Turkish opposition leader to create breakaway party to take on Erdoğan
-Move by Özgür Özel could threaten longtime Turkish leader at next election scheduled for 2028
-
-## Burnham backs away from costly increase to income tax allowance
-New prime minister had explored raising £12,570 personal allowance before taking office on Monday
-
-## Liverpool FC owner in talks to sell stake to Mittal family-backed consortium
-Deal would value English Premier League side at more than $6bn
-
-## Bidder accuses Segro of ‘aspirational’ projections to justify rejecting £13.5bn offer
-UK property group has resisted three proposals from US-listed real estate giant Prologis
+## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
+Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’, says Lorenzo Mariani
 
 ## Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads
 Danish group claims rival used outdated data to support claims that its products were more effective than Wegovy
 
-## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
-Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’ says Lorenzo Mariani
+## Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks
+Shutdown of CPC pipeline could remove another 1mn barrels a day from the market
 
-## Maker of Mike Lynch’s Bayesian superyacht loses CEO and board as difficulties mount
-Vessel made by The Italian Sea Group’s Perini Navi sank off the coast of Sicily in 2024
+## The bear hug is an increasingly sensible way to play UK M&A
+Negotiations are being played out in public — no bad thing given boards and investors may see things differently
 
-## Axing UK science department risks slower policymaking, say tech leaders
-Industry figures welcome Kanishka Narayan’s promotion as AI minister but warn shake-up could push sector down agenda
+## IEA warns of risk to energy supplies from escalation of Iran conflict
+Intergovernmental agency says ‘no room for complacency’ and points to tightness in refined products
 
-## National Grid taps into US AI power boom
-The UK utility company is investing $1.75bn in a developer focused on supplying power to data centres
+## Liverpool’s US owners in talks with Indian investors over stake valuing club at $6 billion: FT
+Liverpool owner Fenway Sports Group has confirmed discussions with an Amit Bhatia-led consortium, including members of the Mittal family, over a strategic minority stake
 
-## FirstFT: Trump prepares to meet Lebanon’s leader
-Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
+## LatentView Analytics to double down on execution under new CEO
+Ramrakhiani intends to accelerate the company’s account-led growth strategy and strengthening relationships
+
+## Anant Raj to demerge data centre business into separate listed entity
+Under the restructuring, the data centre business will be transferred to Ashok Cloud, with existing shareholders receiving shares in the new entity
+
+## PFRDA opens on-tap registration for pension fund managers under NPS
+The move allows eligible firms to apply at any time to manage assets under the National Pension System and Unified Pension Scheme
 
 ## Cube Highways Trust raises ₹1,687.5 crore from anchor investors ahead of InvIT IPO
 Premji Invest-backed Prazim Trading and Investment Co led the anchor book, with strong participation from insurers and mutual funds
@@ -60,17 +63,8 @@ One of the transferred technologies is SHetA2, a drug candidate licensed to Emcu
 ## PLI schemes attract ₹2.4 lakh crore investments, generate over 14 lakh jobs till March
 Solar modules, pharmaceuticals and automobiles lead investments as cumulative exports cross ₹15.2 lakh crore
 
-## India’s moong sowing dips 11% on lower rainfall, likely to gather pace
-Over 62% of targeted area has been covered; current spell of rain brings relief to farmers
-
-## TFCI Q1 profit doubles to ₹61 crore on higher interest and other income
-TFCI’s gross NPA ratio rose marginally to 0.41 per cent, while net NPAs remained nil due to full provisioning
-
-## Meta integrates Xbox Game Pass Starter into Horizon+ subscription
-The move gives Horizon+ subscribers access to over 50 Xbox Game Pass titles and 10 hours of cloud gaming each month
-
-## Gold, silver smuggling surges after Indian govt more than doubles import duty
-Data provided in the Lok Sabha show over 186% rise in gold and 10% increase in silver
+## India's growth remains strong, but trade barriers threaten 2047 goal: WTO
+India's strong economic growth continues, but structural reforms are needed for developed nation status. High trade costs and regulatory complexity present significant challenges to global integration. The World Trade Organization report notes progress in trade facilitation and financial inclusion. 
 
 ## Russia, Latin American suppliers to rescue: India’s Middle East oil imports dip in April-June on Hormuz disruptions
 India stepped up imports from Moscow once Washington granted a temporary waiver, helping offset reduced supplies from Gulf producers caused by the disruption of traffic through the strategically important Strait of Hormuz.
@@ -93,13 +87,19 @@ Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Sa
 ## Stock Market Today Highlights: Sensex ends over 230 points down; Nifty slips below 24,200
 
 
-## New warning on oil: Goldman Sachs says crude prices could cross $120 if Strait of Hormuz disruptions continue
-In a note dated July 20, Goldman Sachs analysts said, “Escalation in the Middle East and the decline in estimated Persian Gulf flows to below 45% of pre-war levels have pushed oil prices back up.”
+## Swiggy-Zomato deliveries ‘for anyone who needs’, medicine stalls at Jantar Mantar as CJP support swells after crackdown
+Videos show delivery partners arriving at the protest site with orders which are already paid for, sometimes placed by people in other cities.
+
+## Bangladesh’s pick of spokespersons in Delhi, Kolkata raise eyebrows
+Both Saidur Rahman and Umme Marufa have made derogatory social media posts about India and its government. By Tuesday, several of these posts had been deleted
+
+## Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe, Dipke focuses on Jantar Mantar
+Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on similar issues — was back at the centre of it all.
 
 ## Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
 The former Odisha CM described the situation as “very serious” and “very grave”, saying protests were not limited to Delhi
 
-## Worried but won’t ask him to step back, say Abhijeet Dipke’s parents after police action
+## Worried but won’t ask him to step back, say Abhijeet Dipke’s parents after police action on Delhi CJP march
 Abhijeet’s mother, Anita, also criticised the police action, questioning why students aged 18 to 20 were being treated as terrorists.
 
 ## ‘Modi allowed it to weaken CJP’: AAP sees ‘jugalbandi’ in Rahul's protest near PM house, Cong and BJP react
@@ -111,37 +111,28 @@ Jaishankar is visiting the Philippines’ capital of Manila during July 22-23 to
 ## MeitY to consult civil society on child safety, study social media harms
 MeitY is also looking to conduct a study to assess the harms children face on social media and understand the current landscape
 
-## 46 insurgents of banned outfit surrender in Manipur; hand over 28 weapons: Govt
-Under the rehabilitation scheme, each surrendered cadre will receive a one-time financial assistance of ₹4 lakh
-
-## NSA Ajit Doval holds talks with Saudi foreign minister on energy security and West Asia situation
-According to the Saudi Foreign Ministry, Ajit Doval met Prince Faisal bin Farhan in Riyadh on Monday.
-
-## Amid CJP protests, IIT Roorkee asks students, staff not to take part in political activity
-The advisory, issued by the registrar’s office on Monday, said that students and employees are not permitted to make political statements
-
-## Actor Amol Parashar says he joined CJP protest, saw youngsters bleeding: ‘Cried myself to sleep’
+## Farmer leader Raju Shetti, Mahadev Jankar picked up by Delhi police
 
 
-## Woman, her two minor children die in fire at Lodhi Colony residence in Delhi
+## ‘Would tell him salary of cook’: R Madhavan on teaching son Vedaant respect; expert reflects
 
 
-## Arijit Singh not coming back with Awarapan 2, confirms manager: ‘Old commitments’
+## BJP’s Pooja Wadhwa becomes Abohar’s first woman Mayor
 
 
-## Amitabh Bachchan clarifies he didn’t undergo surgery: ‘It’s a misunderstood post’
+## The Pune ‘witch’ working magic with water hyacinth
 
 
-## 5 of India’s oldest markets that have survived for centuries
+## Day after police stopped them, over 500 gather at Mumbai’s Shivaji Park backing CJP
 
 
-## Trump dismisses Houthi Red Sea blockade threat, says ‘US ready to respond’
+## Madhya Pradesh Assembly passes UCC Bill, Congress slams ‘RSS agenda’
 
 
-## Uttar Pradesh Cabinet approves purchase of 250 electric buses for state transport fleet
+## ‘Fun guy’ Pranesh M becomes latest grandmaster to beat world champion D Gukesh
 
 
-## Uttar Pradesh Cabinet approves Monsoon Session
+## UP Assembly Monsoon session from August 3: Supplementary budget, ordinance replacement bills on agenda
 
 
 ## Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources
@@ -168,6 +159,12 @@ A sharp pullback in US space-technology giant SpaceX and renewed valuation press
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
 
+## The Iran Expert Trump Fired
+Nate Swanson on the U.S. president’s unique top-down style—and his fondness for lobbying.
+
+## Dinosaurs Roam the Aspen Security Forum
+This year’s conference could have been held in 2003, 2008, or 2011.
+
 ## There’s a Fix for Israel’s Image Crisis
 A reluctant opposition needs a radically new pathway on Palestine.
 
@@ -186,11 +183,14 @@ A predatory opposition, fueled by external support, is gaining influence within 
 ## State Department Frames Cuba as Major Threat via Left-Wing Groups
 The report comes amid growing U.S. efforts to overturn Cuba’s government.
 
-## Houthis Declare a Naval Blockade on Saudi Arabia
-The move could increase pressure on already-strained global energy markets.
+## Does Myanmar Still Have One Government to Recognize?
+Much of the world still views Myanmar through a narrow diplomatic lens that cannot encompass the full political complexity of its conflict.
 
-## The Slow Death of the Global Commons
-Hormuz is a sign of worse things to come.
+## China’s Live-Fire Drill Near Okinotorishima Tests Japan’s Maritime Nerves
+The exercise highlights growing China-Russia naval interoperability while exposing competing interpretations of maritime law.
+
+## UNCCD Executive Secretary Yasmine Fouad on Mongolia, Desertification, and COP17
+COP17, which will be hosted by Mongolia in August, “comes at a pivotal moment for global action on land.”
 
 ## ‘There Is Zero Accountability’: India’s ‘Cockroaches’ Question Modi and a Broken System
 The Cockroach Janata Party is leading a youth-heavy protest movement that embodies the public anger with the BJP.
@@ -207,14 +207,8 @@ The bloc's foreign ministers are set to call for "the restoration of the safe, u
 ## Philippine Marine Injured in Clash With China Coast Guard at Disputed South China Sea Shoal
 The two sides traded accusations over the confrontation at Second Thomas Shoal, a long-standing focus of maritime tensions between Manila and Beijing.
 
-## Truth as Resistance: Journalism’s Role in Defending Indigenous Asia
-Journalism can help ensure that climate governance is guided by transparency, accountability, and justice.
-
-## Japan’s New Flag Law Tests Free Expression
-The law forbids publicly damaging, removing, or defacing a Japanese flag in a manner likely to cause others “extreme discomfort or disgust.”
-
-## China’s New AI Club: The World Artificial Intelligence Cooperation Organization
-Global tech governance is taking an institutional turn as a bloc-based system continues to solidify.
+## How the War with Iran is Shaping Key U.S. Relations Beyond the Middle East
+The U.S. war with Iran has had political, economic, and military implications that spread far beyond the Middle East. We asked five experts to assess how the war with Iran has affected U.S. bilateral relations with key countries that illustrate some of the global ramifications: South Korea, India, U
 
 ## Rebuilding America’s Critical Minerals Base
 There’s a clear consensus that America hollowed out its critical minerals base. How to rebuild it is less settled. Alex Grant of Magrathea Metals and Wes Spurlock of Principal Mineral join Jonathan to discuss the processing technology, labor force, and how government can catalyze private capital inv
@@ -236,9 +230,6 @@ Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and anal
 
 ## The Fedorov Dismissal: On Trust, Technology, and Turnover
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary from across the political spectrum.Every Monday, War on the Rocks members get a curated selection of op-eds and editorials from Ukrainian-language media to understand how Ukrainians themselves debate the biggest issues shaping t
-
-## The Blood Bank and the Logistics of Wartime Medicine
-Editor’s note: This is the fourth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be sele
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -264,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US appeals court overturns ruling that freed Columbia activist Mahdawi
-The decision is the latest court victory for US President Donald Trump’s campaign targeting foreign student protesters.
+## The Houthis may soon discover the limits of Saudi strategic patience
+Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.
 
-## US eyes new tariffs as existing trade duties near expiration
-US Trade Rep Jamieson Greer hints at new tariffs on 60 trading partners as Trump's temporary tariffs expire on Friday.
+## Liverpool FC in talks to sell minority stake to Mittal-backed consortium
+The consortium is led by British-Indian investor Amit Bhatia, the son-in-law of Indian steel billionaire Lakshmi Mittal.
 
-## Italy’s Meloni slams protesters following clashes in Bologna
-PM pledges probe into death of Moroccan man under police restraint, condemns violence as protests injure 56 officers.
+## Iranians struggle to get by amid US war and domestic woes
+People are facing mounting pressures, including rising living costs, electricity cuts and bombarded infrastructure.
 
-## UK PM Burnham: ‘We need to be a cost-of-living government’
-At his first cabinet meeting as UK prime minister, Burnham told ministers they must be a "cost-of-living government".
+## Police detain Rahul Gandhi at protest outside PM Modi’s home
+Indian police have detained Congress leader Rahul Gandhi as he protested outside the residence of the Prime Minister.
 
-## FIFA ‘destroying football’ for the World Cup, says Spanish football chief
-In a scathing interview, La Liga President Javier Tebas says FIFA chief Gianni Infantino’s time is 'over'.
+## Rescuers search for survivors amid risk of fresh floods in Afghanistan
+Death toll rises to at least 23, with more than 100 people missing, as monsoon season spreads chaos across region.
 
-## Israel has ‘no interest’ in joining US war on Iran, says Smotrich
-Israeli Finance Minister says Israel has "no interest" in joining the renewed US military campaign against Iran.
+## Where will LeBron James go next? NBA star ‘not rushed’ to make a decision
+Reports have linked James to the Golden State Warriors, the Philadelphia 76ers, the Miami Heat, or the Cleveland Cavaliers.
 
-## Saudi condemns Houthi blockade: How will the rest of the world be impacted?
-Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.
+## Lebanon’s goal to end hostilities with Israel ‘forever’, says president
+Lebanese President Aoun told Trump that Lebanon's “ultimate objective” is to end hostilities with Israel “forever”.
 
-## Searching for closure: Venezuela families refuse to give up after quakes
-Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.
+## Salah to Besiktas? Football’s transfer window centre stage after World Cup
+Mohamed Salah's future tops the latest news, contract, salary rumours, and transfer agenda ahead of the new football season.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
