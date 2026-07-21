@@ -114,29 +114,32 @@ ALPA India has urged the ministry and DGCA to “immediately suspend all commerc
 ## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
 Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
 
-## ‘Hit on head multiple times… now in ICU’: More than 100 CJP protesters at RML emergency
+## Fake snakebite deaths, forged autopsies: Chhattisgarh probe leads to doctor’s arrest
 
 
-## Students, parents, delivery agents, architects — the faces behind the CJP’s march to Parliament
+## Indus Waters Treaty: Government focus on Chenab projects, renegotiation
 
 
-## From Jantar Mantar to near Parliament: A protest march that took on a life on its own
+## 2 IPS trainees, harassment complaint, ‘suicide’ attempt: Case that rocked Hyderabad police academy
 
 
-## CJP’s Parliament march: 118 personnel injured, 70 protesters detained, says Delhi Police
+## Delhi High Court recalls gag order on The Wire for future publications against former Chief Secretary
 
 
-## Sons injured during CJP’s Parliament march, a mother breaks down: ‘Attack on country’s children’
+## 6 months, a plan to kill & an AI tool: What police found in Bengaluru triple murder
 
 
-## ‘Ready to be here till the end’: At midnight, protesters regroup at Jantar Mantar
+## In hot pursuit of smugglers, Gujarat forest officer killed in vehicle pile-up
 
 
-## Protesters storm heart of Delhi, police use lathis and tear gas to stop march
+## Crowds disperse, stage dismantled at Jantar Mantar site before protest gains momentum again
 
 
-## Stone pelted on India’s first hydrogen train? Indian Railways responds to viral video
+## From 2021 poll violence to 2024 RG Kar rape, how BJP govt is reopening old cases in Bengal
 
+
+## New tech wealth sparks luxury property rush in Chinese city home to ‘Six Little Dragons’
+A luxury penthouse in Hangzhou has set record highs for both unit price and total value of high-rise flats in the city, as new tech wealth injects fresh momentum into the market. All 66 units at the high-end Wangtianji development’s initial batch were snapped up on the first day of launch on July 16
 
 ## ‘Payback’: why China’s world-beating car industry faces plunging sales at home
 China’s electric vehicle (EV) industry sits at the centre of numerous economic and geopolitical trends: consumer spending, environmental protection, trade policy, high-end manufacturing, technology and more. In this short series, we assess the current state of the sector within these broader context
@@ -158,9 +161,6 @@ Bourse operator Hong Kong Exchanges and Clearing (HKEX) is considering extending
 
 ## Ikea’s China remodelling: parent firm puts 8 former retail sites on block
 Ikea’s parent company Ingka Group has hired property consultancy JLL as its sole sales agent to offload eight retail properties in mainland China, the multinational furniture brand’s largest asset disposal since it entered the market nearly 30 years ago. Seven of the properties were Ikea stores that
-
-## Trip.com faces verdict as China to wrap up antitrust probes as soon as this week: sources
-China’s market regulator is poised to announce the outcome of its months-long antitrust investigation into Trip.com Group, the country’s largest online travel services provider, as soon as this week, according to three people familiar with the matter. The probes, launched in January by the State Adm
 
 ## State Department Frames Cuba as Major Threat via Left-Wing Groups
 The report comes amid growing U.S. efforts to overturn Cuba’s government.
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Suspect charged in fatal attack on UK politician Ann Widdecombe
+Police say a possible political motive is under investigation in the killing of the Reform UK figure.
+
+## Argentina, minus Messi, return home after World Cup final heartbreak
+Thousands wait to greet the team, who return without captain Messi and a few other players after the World Cup.
+
+## What are the new British Prime Minister’s biggest challenges?
+Britain has a new Prime Minister: Andy Burnham. The former Mayor of Manchester must now unite a divided nation.
+
 ## Chaos in India as ‘Cockroach activists’ march on parliament
 Chaos outside India's parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.
 
@@ -272,15 +281,6 @@ Tens of thousands of fans greet La Roja as they travel down Madrid's historic av
 
 ## Albanian protesters pelt lawmakers’ cars over resort projects
 Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.
-
-## FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final
-Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.
-
-## Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes
-US president insists Netanyahu will not be arrested, despite ICC warrant.
-
-## King of Spain celebrates World Cup winners in Madrid
-Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
