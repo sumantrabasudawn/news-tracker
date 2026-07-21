@@ -1,6 +1,21 @@
 # AION Intelligence
 
-## Six things we learnt from the new prime minister’s choices for his top team
+## Six foolish mistakes for the new chancellor to avoid
+John Healey will be under pressure on many fronts, but bear-pits are lurking . . .
+
+## How we made it: China’s air pollution clean-up — and the rebound
+Guide to the Climate Graphic of the Week
+
+## Who is in Andy Burnham’s new cabinet?
+UK prime minister announces top team, with many experienced faces returning to government
+
+## Japan is flirting with its own Liz Truss moment
+Energy subsidies, fiscal stimulus, a weak currency and threats to central bank independence. Sound familiar?
+
+## Why the world trusts China more than America
+Countries suspicious of the US are to be found on every continent, not just in its own back yard
+
+## What we learnt from the new PM’s choices for his top team
 New leader signals he will depart from Keir Starmer’s approach in some areas while stressing continuity in others
 
 ## Trump to meet Lebanon’s president as US pushes ahead with peace deal
@@ -9,23 +24,17 @@ Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withd
 ## FirstFT: Trump prepares to meet Lebanon’s leader
 Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
 
-## Trump prepares fresh tariff barrage with 10% levies set to expire
-US president to renew trade war after Supreme Court threw out reciprocal duties
+## Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads
+Danish group claims rival used outdated data to support claims that its products were more effective than Wegovy
 
-## Lack of UK jobs growth highlights challenges for Burnham
-Payroll employment has flatlined while private sector wage growth eases to slowest pace in five years, ONS figures show
-
-## Thames Water lenders to offer ‘golden share’ to UK government
-Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
-
-## Who is in Andy Burnham’s new cabinet?
-UK prime minister announces top team, with many experienced faces returning to government
-
-## UK wage growth continues to cool while unemployment rate steady
-Bank of England will probably hold rates again in July amid mixed labour market signals
+## National Grid taps into US AI power boom
+The UK utility company is investing $1.75bn in a developer focused on supplying power to data centres
 
 ## Berenberg discovers accounting manipulation designed to flatter profits
 Auditor signs off delayed 2025 accounts, showing net profit fell from €81.6mn to €20.2mn
+
+## Thames Water lenders to offer ‘golden share’ to UK government
+Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
 
 ## Mitie agrees £3.1bn takeover by rival outsourcer OCS
 Facilities management group is latest London-listed company to agree a deal
@@ -36,35 +45,35 @@ Zurich-based bank’s net profits more than double to SFr673mn
 ## Indian asset manager’s debut revives hopes for local IPO market
 Shares of SBI Funds Management jump nearly 9% in country’s largest listing so far this year
 
-## Adnoc to invest in $6.2bn natural gas schemes as UAE bids for self-sufficiency
-Abu Dhabi oil group races to keep pace with domestic demand while facing potential end of gas supply deal with Qatar
+## VIT signs MoU with venture capital firms to fund campus startups
+The firms will jointly invest ₹10 crore in early-stage startups founded by VIT students, with each contributing ₹5 crore
 
-## Linklaters partners handed record £2.5mn payday
-‘Magic circle’ law firm cites Hong Kong listings work and growth in US as it reports bumper payouts for top ranks
+## Zaggle to acquire 20% stake in Unobanc for ₹7.96 crore
 
-## HDFC Bank shares fall over 7 per cent in two days after Q1 earnings
-Despite a 5 per cent rise in profit, weaker margins and lower operating profit weighed on investor sentiment.
 
-## Govt rejects concern that weak rupee reflects weak economy, says macroeconomic fundamentals strong
-The minister said that despite these factors, the Indian economy continues to remain on a strong footing
+## Telangana prepares action plan to tackle El Nino: Deputy CM Bhatti
+Bhatti stated the government aims to combine scientific planning with public awareness, so every family and village understands and prepares for El Niño risks
 
-## PLI Textiles scheme generates over 33,000 jobs, attracts ₹8,117 cr investment; Tamil Nadu leads employment
-Tamil Nadu, with 17 approved companies, has generated 7,930 jobs and attracted investments of ₹1,277.16 crore
+## NSA Doval to receive Lokmanya Tilak Award on Aug 1
+Union Home Minister Amit Shah will present the award to Doval at a function in Pune on August 1.
 
-## Maharashtra tops PLI-Auto scheme with 66 manufacturing units; Tamil Nadu has 38
-Haryana had 35 manufacturing units, Karnataka 28, following Maharashtra, while Tamil Nadu, a key automobile hub, accounted for 38 units under the scheme
+## Hines elevates Diwan as head of Asia Pacific, West Asia
+Diwan has nearly 25 years of experience across India and the Asia Pacific region
 
-## Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix
-Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix
+## Granules Q1 net up 60% at ₹180 crore
+The total revenue of the Hyderabad-based company increased 22% at ₹1,477 crore against ₹1,210 crore in the year-ago period
 
-## PNB plans to enter acquisition finance from Q3
-Punjab National Bank plans to enter the acquisition finance business from Q3 FY27, following the RBI’s new regulatory framework
+## Monsoon 2026: Will El Niño derail India’s rainfall? | Trending Commodity Picks | EP 107
+After a 40% June rainfall deficit, what lies ahead for India’s monsoon?
 
-## GTRI urges stronger food safety regime before India-EU trade pact rollout
-The Global Trade Research Initiative warned that in the absence of the system, India risks opening its market further to European food products while continuing to see its own agricultural exports rejected at European borders
+## Q1 Results Today Live: ATGL Q1 PAT down 14%, Adani Energy PAT zooms, TVS Motor, Bajaj Auto & Granules India profit rise, CRISIL, Mastek to announce Q1 results
+Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
 
-## SBI Funds Management shares end with 6% listing gains
-The company’s long-term investment story remains strong, backed by the SBI brand and a vast distribution network, an analyst said
+## The future of flying? US speeds up plans for air taxis, supersonic planes and drones
+The FAA is updating aviation rules to encourage new technologies. It supports air taxis and supersonic passenger flights with new regulations. Pilot programs are preparing for the safe integration of electric air taxis. Companies are developing charging infrastructure for electric aircraft operation
+
+## Another oil shock loading for India? How Red Sea route disruptions may hit not only Saudi, but also Russian crude supply
+Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Saudi Arabia. What this essentially means is that Saudi Arabia’s crude oil exports are set to be hit. And India which gets a big portion of its crude imports from the Middle East country.
 
 ## Stock Market Today Highlights: Sensex ends over 230 points down; Nifty slips below 24,200
 
@@ -84,59 +93,56 @@ Canadian Prime Minister Carney stated new US tariffs violate the CUSMA trade agr
 ## Rupee slips 6 paise against US dollar in early trade
 
 
-## NSE’s Ahimsa index targets cruelty-free investing
-NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gauge includes companies that do not harm animals in their business. The index aligns with non-violence principles and excludes certain firms. It aims to redirect capital towards compassionate and cruelty-free investing. Thi
+## Amid CJP protests, IIT Roorkee asks students, staff not to partake in political activity
+The advisory, issued by the registrar’s office on Monday, said that students and employees are not permitted to make political statements
 
-## Ex-tech execs’ startups find favour with VCs, says report
-Startups founded by former tech professionals are attracting venture capital investment. These operator-led ventures, though few, are securing a growing share of funding. They consistently receive larger funding rounds and higher valuations compared to others. Experienced founders bring valuable com
+## AI chatbot helped plan Bengaluru triple murder, say police, seek chat history
+On June 22, 52-year-old Somasundar, his wife, 48-year-old Muthulaxmi, and their 19-year-old daughter Supriya were found stabbed to death.
 
-## Delhi-NCR weather update: Rain likely in national capital? Check IMD forecast
-Delhi is expected to have a "generally cloudy sky with moderate rain" on Wednesday. For Thursday, the weather agency has predicted moderate rain.
+## 'Join us at dharna outside PM house': Rahul Gandhi's big call over crackdown on CJP march
+The call came a day after a Delhi police crackdown on a student protest march to Parliament organised by the CJP over alleged paper leaks.
 
-## Day after CJP protest, farmers from Punjab and Haryana marching towards Delhi. What are their demands?
-A Kisan Mahapanchayat, under the banner of ‘Desh Bachao Morcha’, against the proposed India-US trade deal, is planned at Delhi's Kisan Ghat on Tuesday.
+## Delhi HC declines to suspend BJP MLA’s conviction in celebratory firing case
+The trial court had in June convicted Singh under section 304 part II of the Indian Penal Code and under provisions of the Arms Act
 
-## ‘Hurt in stampede-like situation, in ICU’: Family of 22-year-old injured in CJP Jantar Mantar protest
-Students who appeared for NEET-UG re-examination, were also present at the protest site and were injured.
+## Why Assam floods: The obvious answer is Brahmaputra, but there's so much more to it
+The floodwaters spreading across Assam this week have killed almost a dozen people, displaced over 3.63 lakh and inundated 15 districts.
 
-## SC agrees to hear UP's plea against Bombay HC order absolving Brahmos engineer of espionage charges
-SC agrees to hear UP's plea against Bombay HC order absolving Brahmos engineer of espionage charges
+## 2 sadhus murdered, buried in forest near Haridwar temple; probe underway: Cop
+The two were identified as Sewa Giri and Uttam Giri by the police after they were alerted of their disappearance since Monday by temple staff
 
-## Medical college assault case: Patient's family lodge cross FIR against trainee nurses
-Medical college assault case: Patient's family lodge cross FIR against trainee nurses
+## IIT Roorkee defends ‘gag order’ amid CJP protest, says ‘routinely issued, as per conduct rules’
+Reacting to the advisory, TMC MP Mahua Moitra criticised IIT Roorkee in a post on X.
 
-## Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
-Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+## Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges
+Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges
 
-## Centre tells SC fresh tribunal reforms Bill likely in Monsoon Session
-Attorney General R Venkataramani made the submission before a bench led by CJI Surya Kant, which was hearing a batch of petitions concerning functioning of central tribunal
-
-## Tunnel collapse: Bengal CM speaks to Sikkim counterpart, offers assistance
-Tunnel collapse: Bengal CM speaks to Sikkim counterpart, offers assistance
-
-## Why Aryan Khan never smiles in public? Raghav Juyal says Shah Rukh’s son ‘doesn’t want to fake it’
+## With a page out of China book, Tamil Nadu maintains lead in share of women workers
 
 
-## Doctor, hospital to pay Rs 5 lakh for woman’s injury after ‘negligent’ hysterectomy
+## Cockroach Janta Party sacks Vijeta Dahiya as spokesperson after viral video
 
 
-## Shwetha Menon denies taking money from BJP: ‘Fight is solely against power group in cine body’
+## Hanumankind joins CJP protest, slams police action: ‘No justification for this’
 
 
-## Imtiaz Ali says he’s ‘apolitical’: ‘Restrictive if you have a fixed political agenda’
+## ‘Terrible’: Bombay HC steps in to save mangroves, orders removal of encroachments at Kandivali pond
 
 
-## ‘People will think twice about sailor jobs’: UP village mourns man killed in Russian strike
+## Samsung launches first Galaxy credit card with up to 5% cash rewards
 
 
-## After CJP protests, India is angry. Why are we still asking the wrong questions?
+## Beed student claims 522 marks in NEET-UG, alleges NTA awarded only 95; moves Bombay HC
 
 
-## Cold storage sells farmer’s 48,000 kg carrots without consent, ordered to pay Rs 31.5 lakh
+## Installed ‘faulty’ lift for ailing wife, mother at home, man wins Rs 1.25 lakh payout
 
 
-## Booking app to pay Rs 21,000 for not refunding cancelled flight ticket
+## After 35, belly fat can have different causes. Here’s what matters
 
+
+## Zhongji Innolight aims for Hong Kong’s biggest IPO in 7 years with US$8b sale
+Zhongji Innolight has attracted more than 30 cornerstone investors for its blockbuster initial public offering in Hong Kong, which could become the city’s biggest listing in seven years, according to people familiar with the matter. The Chinese maker of optical transceivers – which are widely used i
 
 ## US biotech firm developing therapies for infant brain injuries plans Hong Kong listing
 A US-headquartered biotech firm plans to seek a primary listing in Hong Kong, joining a swelling pipeline of artificial intelligence-powered medical players raising capital in the city. Axiom Biosciences, which develops experimental therapies for newborns with severe brain injuries by using AI, is t
@@ -158,9 +164,6 @@ A sharp pullback in US space-technology giant SpaceX and renewed valuation press
 
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
-
-## HKEX to allow confidential filings, lower market cap threshold for start-ups: sources
-Hong Kong Exchanges and Clearing (HKEX) would proceed with its listing reform to allow confidential filings and a lower market capitalisation requirement, as part of the exchange operator’s plan to increase its international competitiveness, two sources told the South China Morning Post. The move wo
 
 ## Modi’s Great Anglo Paradox
 Cultural decolonization advances alongside unprecedented Western partnerships.
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How a 64-team World Cup could transform football’s economics
+Spain, Portugal and Morocco are the cohosts of the 2030 edition, but we await confirmation of 48 or 64 competitors.
+
+## India’s ‘cockroach’ protest movement halts marches after police violence
+Leaders of the movement say they will continue campaigning but will not stage another march through New Delhi.
+
+## Hunger is falling but is still higher than pre-COVID levels: UN report
+Global hunger has declined, yet millions of people are still going hungry.
+
+## Hamas’s new leader must bridge a movement divided over Iran
+After a one-vote victory, Khalil al-Hayya must reconcile rival currents while preserving Hamas’s independence.
+
+## ‘Won’t back down’: Indian student protesters return after police crackdown
+More than 100 students injured in police action against thousands of demonstrators during march on parliament.
+
+## Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal
+Aoun is in Washington, DC seeking US backing to end the fighting and secure an Israeli withdrawal from southern Lebanon.
+
 ## Arizona’s primary elections: Which US races to watch and why they matter
 From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.
 
 ## Lebanon’s Joseph Aoun to meet Trump: What to expect
 The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.
-
-## FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?
-FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.
-
-## Can AI systems make moral decisions in war?
-As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.
-
-## Australian MP interrupts tough interview to yell at dog
-Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.
-
-## Huge fire at Ukraine shopping centre after Russian drone strike
-A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.
-
-## Argentina deny World Cup villains’ role after Samuel Jackson-led slants
-Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.
-
-## Philippine Foreign Secretary says ASEAN must work together
-Philippine Foreign Secretary says ASEAN must work together
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
@@ -306,6 +309,9 @@ The Securities and Exchange Board of India has added eighteen new firms to its f
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
 
+## Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1
+Sebi has directed depositories to implement a new framework for freezing promoter holdings. This operational framework will be in place by August 1, 2026. The mechanism freezes promoter and promoter group holdings at the ISIN level. Exceptions allow promoters to tender shares in tender offer buyback
+
 ## RBI's inflow push gets off to strong start, fortifying India's balance of payments
 Foreign currency inflows are strengthening India's balance of payments position. The Reserve Bank of India's measures have mobilized over twenty billion dollars. This inflow is significantly higher than anticipated by economists and analysts. Such robust initial response bodes well for future fund m
 
@@ -326,7 +332,4 @@ RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain str
 
 ## RBI fixes underwriting commission rates for Rs 32,000 crore government securities auction
 The Reserve Bank of India (RBI) has fixed the underwriting commission cut-off rates for three government securities carrying a combined notified amount of Rs 32,000 crore.
-
-## NSE gets rare 'sell' rating ahead of planned IPO
-The National Stock Exchange of India (NSE) has received a 'sell' recommendation from a domestic brokerage ahead of its much-anticipated initial public offering (IPO), with Dolat Capital Markets warning that regulatory changes in the country's derivatives market could weigh on the exchange's future g
 
