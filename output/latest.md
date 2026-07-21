@@ -87,6 +87,21 @@ Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Sa
 ## Stock Market Today Highlights: Sensex ends over 230 points down; Nifty slips below 24,200
 
 
+## Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
+Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
+
+## SAD (Punar Surjit) faces rebellion as leaders extend support to Waris Punjab De; Jhunda expelled
+SAD (Punar Surjit) faces rebellion as leaders extend support to Waris Punjab De; Jhunda expelled
+
+## 21 killed in a day as flood situation worsens in Assam; 5.4 lakh people affected in 16 districts
+21 killed in a day as flood situation worsens in Assam; 5.4 lakh people affected in 16 districts
+
+## Nothing can shame people unfazed by Ram temple donation theft: HC
+Nothing can shame people unfazed by Ram temple donation theft: HC
+
+## Dharmendra Pradhan's first reaction to CJP protest: 'Rahul Gandhi using students as political tools'
+"Their objective was never solutions for students, it was disruption for political headlines," Dharmendra Pradhan said on the protests.
+
 ## Swiggy-Zomato deliveries ‘for anyone who needs’, medicine stalls at Jantar Mantar as CJP support swells after crackdown
 Videos show delivery partners arriving at the protest site with orders which are already paid for, sometimes placed by people in other cities.
 
@@ -96,20 +111,17 @@ Both Saidur Rahman and Umme Marufa have made derogatory social media posts about
 ## Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe, Dipke focuses on Jantar Mantar
 Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on similar issues — was back at the centre of it all.
 
-## Naveen Patnaik seeks Dharmendra Pradhan’s resignation over exam irregularities
-The former Odisha CM described the situation as “very serious” and “very grave”, saying protests were not limited to Delhi
+## Gujarat in education ministry’s ‘red zone’ as secondary school dropouts surge
 
-## Worried but won’t ask him to step back, say Abhijeet Dipke’s parents after police action on Delhi CJP march
-Abhijeet’s mother, Anita, also criticised the police action, questioning why students aged 18 to 20 were being treated as terrorists.
 
-## ‘Modi allowed it to weaken CJP’: AAP sees ‘jugalbandi’ in Rahul's protest near PM house, Cong and BJP react
-AAP MP Sanjay Singh, in a post on X, alleged Modi had got Rahul Gandhi to sit in protest at his own residence to weaken the CJP's movement.
+## Delhi government to issue Smart Property Cards in 48 Lal Dora villages
 
-## Jaishankar to meet Quad counterparts on sidelines of ASEAN meet in Manila
-Jaishankar is visiting the Philippines’ capital of Manila during July 22-23 to participate in meetings of foreign ministers under the ASEAN framework
 
-## MeitY to consult civil society on child safety, study social media harms
-MeitY is also looking to conduct a study to assess the harms children face on social media and understand the current landscape
+## Hanumankind attends CJP’s Jantar Mantar protest as Indian rap community backs NEET stir
+
+
+## ‘Doing seva’: Meet volunteers keeping Jantar Mantar functioning and clean
+
 
 ## Farmer leader Raju Shetti, Mahadev Jankar picked up by Delhi police
 
@@ -121,18 +133,6 @@ MeitY is also looking to conduct a study to assess the harms children face on so
 
 
 ## The Pune ‘witch’ working magic with water hyacinth
-
-
-## Day after police stopped them, over 500 gather at Mumbai’s Shivaji Park backing CJP
-
-
-## Madhya Pradesh Assembly passes UCC Bill, Congress slams ‘RSS agenda’
-
-
-## ‘Fun guy’ Pranesh M becomes latest grandmaster to beat world champion D Gukesh
-
-
-## UP Assembly Monsoon session from August 3: Supplementary budget, ordinance replacement bills on agenda
 
 
 ## Zhongji Innolight already has 30 cornerstone investors for US$8b IPO: sources
@@ -159,6 +159,9 @@ A sharp pullback in US space-technology giant SpaceX and renewed valuation press
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
 
+## Israel’s Weapons Makers Have a Marketing Problem
+An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
+
 ## The Iran Expert Trump Fired
 Nate Swanson on the U.S. president’s unique top-down style—and his fondness for lobbying.
 
@@ -179,9 +182,6 @@ U.S. presidents are virtually never able to end the stalemated wars they start.
 
 ## Armenian Democracy Faces a Threat From Within
 A predatory opposition, fueled by external support, is gaining influence within the state.
-
-## State Department Frames Cuba as Major Threat via Left-Wing Groups
-The report comes amid growing U.S. efforts to overturn Cuba’s government.
 
 ## Does Myanmar Still Have One Government to Recognize?
 Much of the world still views Myanmar through a narrow diplomatic lens that cannot encompass the full political complexity of its conflict.
@@ -207,6 +207,9 @@ The bloc's foreign ministers are set to call for "the restoration of the safe, u
 ## Philippine Marine Injured in Clash With China Coast Guard at Disputed South China Sea Shoal
 The two sides traded accusations over the confrontation at Second Thomas Shoal, a long-standing focus of maritime tensions between Manila and Beijing.
 
+## How Ukraine Put Russia on the Backfoot
+Ukraine’s expanding use of drones at all ranges has changed the war’s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasting advantage
+
 ## How the War with Iran is Shaping Key U.S. Relations Beyond the Middle East
 The U.S. war with Iran has had political, economic, and military implications that spread far beyond the Middle East. We asked five experts to assess how the war with Iran has affected U.S. bilateral relations with key countries that illustrate some of the global ramifications: South Korea, India, U
 
@@ -227,9 +230,6 @@ The secretary of defense’s November announcement on acquisition reform laid ou
 
 ## The Fedorov Dismissal: On Trust, Technology, and Turnover
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members.Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues s
-
-## The Fedorov Dismissal: On Trust, Technology, and Turnover
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary from across the political spectrum.Every Monday, War on the Rocks members get a curated selection of op-eds and editorials from Ukrainian-language media to understand how Ukrainians themselves debate the biggest issues shaping t
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India tunnel collapse kills 10 as toxic gases hamper rescue
+At least 10 people have died and 17 remain trapped after a suspected gas explosion caused a tunnel to collapse.
+
+## US agency proposes ending racial and gender workforce data collection
+Republican-led EEOC proposal to end workforce diversity reporting heads to public commentary amid sharp criticism.
+
+## Can mediators broker a truce between the US and Iran?
+With every new round of attacks raising political cost of compromise, analysts warn the window for peace may be closing.
+
+## Rescuers search for flood survivors in Afghanistan
+Rescuers in eastern Afghanistan are searching through mud and rubble after flash floods and a landslide
+
+## Trump says he’s open to talks with Hezbollah, vows to help Lebanon
+US President Trump said he is open to direct talks with Hezbollah.
+
+## Instagram on trial for allegedly harming kids
+The trial between the state of Tennessee and Instagram is kicking off this week.
+
+## Netherlands to sanction trade with illegal Israeli settlements
+Dutch ban on Israeli goods from occupied territory comes as efforts to implement EU-wide sanctions remain stalled.
+
 ## The Houthis may soon discover the limits of Saudi strategic patience
 Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.
-
-## Liverpool FC in talks to sell minority stake to Mittal-backed consortium
-The consortium is led by British-Indian investor Amit Bhatia, the son-in-law of Indian steel billionaire Lakshmi Mittal.
-
-## Iranians struggle to get by amid US war and domestic woes
-People are facing mounting pressures, including rising living costs, electricity cuts and bombarded infrastructure.
-
-## Police detain Rahul Gandhi at protest outside PM Modi’s home
-Indian police have detained Congress leader Rahul Gandhi as he protested outside the residence of the Prime Minister.
-
-## Rescuers search for survivors amid risk of fresh floods in Afghanistan
-Death toll rises to at least 23, with more than 100 people missing, as monsoon season spreads chaos across region.
-
-## Where will LeBron James go next? NBA star ‘not rushed’ to make a decision
-Reports have linked James to the Golden State Warriors, the Philadelphia 76ers, the Miami Heat, or the Cleveland Cavaliers.
-
-## Lebanon’s goal to end hostilities with Israel ‘forever’, says president
-Lebanese President Aoun told Trump that Lebanon's “ultimate objective” is to end hostilities with Israel “forever”.
-
-## Salah to Besiktas? Football’s transfer window centre stage after World Cup
-Mohamed Salah's future tops the latest news, contract, salary rumours, and transfer agenda ahead of the new football season.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
