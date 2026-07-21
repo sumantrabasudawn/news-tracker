@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Six things we learnt from the new prime minister’s choices for his top team
+New leader signals he will depart from Keir Starmer’s approach in some areas while stressing continuity in others
+
+## Trump to meet Lebanon’s president as US pushes ahead with peace deal
+Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
+
+## FirstFT: Trump prepares to meet Lebanon’s leader
+Also in today’s newsletter: US threatens Canada with 50% tariffs and judge pauses Paramount Skydance’s acquisition of Warner Bros Discovery
+
+## Trump prepares fresh tariff barrage with 10% levies set to expire
+US president to renew trade war after Supreme Court threw out reciprocal duties
+
+## Lack of UK jobs growth highlights challenges for Burnham
+Payroll employment has flatlined while private sector wage growth eases to slowest pace in five years, ONS figures show
+
 ## Thames Water lenders to offer ‘golden share’ to UK government
 Creditors plan improved offer in bid to avoid nationalisation by new Burnham government
 
@@ -9,61 +24,49 @@ UK prime minister announces top team, with many experienced faces returning to g
 ## UK wage growth continues to cool while unemployment rate steady
 Bank of England will probably hold rates again in July amid mixed labour market signals
 
-## Continuity and change in Burnham’s new cabinet
-Chancellor from Labour’s ‘old right’ is experienced but unlikely to meaningfully diverge from previous set up
+## Berenberg discovers accounting manipulation designed to flatter profits
+Auditor signs off delayed 2025 accounts, showing net profit fell from €81.6mn to €20.2mn
 
 ## Mitie agrees £3.1bn takeover by rival outsourcer OCS
 Facilities management group is latest London-listed company to agree a deal
 
-## Indian asset manager’s debut revives hopes for local IPO market
-Shares of SBI Funds Management jump nearly 9% in country’s largest listing so far this year
-
-## Brazil faces unforgiving economics after election
-Whoever wins the presidential race will have to face up to the need for fiscal consolidation
-
-## Burnham move to eliminate VAT on electricity bills sparks funding row
-Government claim that measure would be funded by scrapping digital ID scheme disputed by former minister
-
 ## Julius Baer earnings rebound on early turnaround signs
 Zurich-based bank’s net profits more than double to SFr673mn
+
+## Indian asset manager’s debut revives hopes for local IPO market
+Shares of SBI Funds Management jump nearly 9% in country’s largest listing so far this year
 
 ## Adnoc to invest in $6.2bn natural gas schemes as UAE bids for self-sufficiency
 Abu Dhabi oil group races to keep pace with domestic demand while facing potential end of gas supply deal with Qatar
 
-## FirstFT: Healey’s formidable in-tray as UK chancellor
-Also in today’s newsletter: LSE plans round-the-clock trading and AI as a geopolitical weapon
-
-## Linklaters partners handed record £2.5mn payday as Asia business booms
+## Linklaters partners handed record £2.5mn payday
 ‘Magic circle’ law firm cites Hong Kong listings work and growth in US as it reports bumper payouts for top ranks
 
-## Tom Hayes says UBS’s ‘Project Chocolate’ probe shows he was targeted from outset
-Trader nicknamed ‘Tommy Chocolate’ argues bank’s rate-fixing investigation was stacked against him
+## HDFC Bank shares fall over 7 per cent in two days after Q1 earnings
+Despite a 5 per cent rise in profit, weaker margins and lower operating profit weighed on investor sentiment.
 
-## Karur Vysya Bank shares jump 14% after Q1 profit hits record ₹756 crore
-The stock’s gains came despite the bank maintaining a cautious and moderate growth outlook for FY26-27.
+## Govt rejects concern that weak rupee reflects weak economy, says macroeconomic fundamentals strong
+The minister said that despite these factors, the Indian economy continues to remain on a strong footing
 
-## Q1 Results Today Live: TVS Motor & Bajaj Auto Q1 profit rises, Adani Energy posts mixed Q1, Granules India, Kirloskar Pneumatic PAT up, E2E turns profitable, ATGL, CRISIL, Mastek to announce Q1 results
-Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
+## PLI Textiles scheme generates over 33,000 jobs, attracts ₹8,117 cr investment; Tamil Nadu leads employment
+Tamil Nadu, with 17 approved companies, has generated 7,930 jobs and attracted investments of ₹1,277.16 crore
 
-## Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification
-Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification
+## Maharashtra tops PLI-Auto scheme with 66 manufacturing units; Tamil Nadu has 38
+Haryana had 35 manufacturing units, Karnataka 28, following Maharashtra, while Tamil Nadu, a key automobile hub, accounted for 38 units under the scheme
 
-## Sensex today | Stock Market Live: Sensex down 300 pts, Nifty 50 falls to 24,150; IT, Banking stocks drag mid-session
-Sensex, Nifty, Share Prices LIVE: At 1:06 pm, Sensex traded 330.01 pts or 0.42% lower at 77,378.51, and Nifty 50 fell 89.65 pts or 0.37% to 24,148.85.
+## Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix
+Apollo Hospitals Brings Next-Generation Lysin Science to India's Fight Against AMR - Collaborates with Precisio Biotix
 
-## Teja Engineering wins ₹18-crore O&M orders from ONGC
-The company is currently undertaking projects for ONGC, GAIL, Adani, AG&P, BPCL, IOAGPL, Torrent Gas, ATGL, ThinkGas, Gujarat Gas and SGL
+## PNB plans to enter acquisition finance from Q3
+Punjab National Bank plans to enter the acquisition finance business from Q3 FY27, following the RBI’s new regulatory framework
 
-## Ashok Leyland CEO pay jumps 49%; CFO sees 58% rise
-Executive Chairman Dheeraj Hinduja’s remuneration rose 9 per cent to ₹31.25 crore in FY26; new term could carry annual pay of up to ₹33 crore.
+## GTRI urges stronger food safety regime before India-EU trade pact rollout
+The Global Trade Research Initiative warned that in the absence of the system, India risks opening its market further to European food products while continuing to see its own agricultural exports rejected at European borders
 
-## Domestic airlines carry 864.04 lakh passengers in first half of 2026, up 1.44% from a year ago
-The ministry's traffic report showed that passenger traffic during the first six months of 2026 continued to grow on a year-on-year basis, although passenger numbers declined on a monthly basis
+## SBI Funds Management shares end with 6% listing gains
+The company’s long-term investment story remains strong, backed by the SBI brand and a vast distribution network, an analyst said
 
-## India signed 8.4 mtpa of long term LNG contracts in 2025: GIIGNL
-GIIGNL’s 2026 annual report pointed out that the last calendar was an exceptionally active year for LNG contracting, with 83 long-term sale purchase agreements (SPAs) signed, nearly double the 47 recorded in 2024
-
-## Stock market today: Sensex falls over 225 points; Nifty slips below 24,200 in afternoon trade
+## Stock Market Today Highlights: Sensex ends over 230 points down; Nifty slips below 24,200
 
 
 ## New warning on oil: Goldman Sachs says crude prices could cross $120 if Strait of Hormuz disruptions continue
@@ -87,53 +90,59 @@ NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gaug
 ## Ex-tech execs’ startups find favour with VCs, says report
 Startups founded by former tech professionals are attracting venture capital investment. These operator-led ventures, though few, are securing a growing share of funding. They consistently receive larger funding rounds and higher valuations compared to others. Experienced founders bring valuable com
 
-## India approves its first dengue vaccine Qdenga: How it works, who is eligible, and why it isn't a silver bullet
-Qdenga, cleared this week for ages 4 to 60, is one of only a few dengue vaccines in the world. It is to be injected in two doses three months apart.
+## Delhi-NCR weather update: Rain likely in national capital? Check IMD forecast
+Delhi is expected to have a "generally cloudy sky with moderate rain" on Wednesday. For Thursday, the weather agency has predicted moderate rain.
 
-## Rahul Gandhi demands PM Modi's resignation over CJP protest crackdown
-Rahul Gandhi alleged government resistance to discuss the protest in parliament; went to meet those injured at RML Hospital.
+## Day after CJP protest, farmers from Punjab and Haryana marching towards Delhi. What are their demands?
+A Kisan Mahapanchayat, under the banner of ‘Desh Bachao Morcha’, against the proposed India-US trade deal, is planned at Delhi's Kisan Ghat on Tuesday.
 
-## Meghalaya landslide kills 7-year-old boy, injures four family members: Police
-Ri-Bhoi superintendent of police, Giri Prasad M said preliminary inquiry revealed that the landslide was caused by heavy overnight rainfall
+## ‘Hurt in stampede-like situation, in ICU’: Family of 22-year-old injured in CJP Jantar Mantar protest
+Students who appeared for NEET-UG re-examination, were also present at the protest site and were injured.
 
-## ‘Hit as if we were criminals’: Protesters recount what they faced at CJP march
-Vijay Daniel, a protester who came from Hyderabad to join the march, said the violence erupted moments before it was to begin
+## SC agrees to hear UP's plea against Bombay HC order absolving Brahmos engineer of espionage charges
+SC agrees to hear UP's plea against Bombay HC order absolving Brahmos engineer of espionage charges
 
-## Monsoon revives in Rajasthan; rainfall lash eastern part of state
-Monsoon revives in Rajasthan; rainfall lash eastern part of state
+## Medical college assault case: Patient's family lodge cross FIR against trainee nurses
+Medical college assault case: Patient's family lodge cross FIR against trainee nurses
 
-## 'This is gunda gardi': Uttarakhand HC tears into police over detention of leader backing Sonam Wangchuk
-The HC questioned the legal basis for the action and asked whether the police were protecting the government's image instead of citizens' constitutional rights.
+## Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
+Left MPs visit Jantar Mantar, demand Amit Shah's statement in Parliament over police action
 
-## 'Nepal-style plans' vs 'mics turned off': Centre, Opposition spar over CJP protest at Jantar Mantar
-Union Minister Kiren Rijiju said PM Modi told MPs that the government took action immediately after reports of the paper leak surfaced.
+## Centre tells SC fresh tribunal reforms Bill likely in Monsoon Session
+Attorney General R Venkataramani made the submission before a bench led by CJI Surya Kant, which was hearing a batch of petitions concerning functioning of central tribunal
 
-## Delhi HC proposes Wangchuk be shifted to hospital of his choice, ‘will pass order’
-A bench of Chief Justice DK Upadhyaya and Justice Tejas Karia said they would pass the final order after lunch.
+## Tunnel collapse: Bengal CM speaks to Sikkim counterpart, offers assistance
+Tunnel collapse: Bengal CM speaks to Sikkim counterpart, offers assistance
 
-## Hugging Face confirms data breach by AI agent: Why it has sparked a debate on cyber guardrails
-
-
-## Fatty pancreas may be a warning sign for diabetes, pancreatitis and cancer: Global experts
+## Why Aryan Khan never smiles in public? Raghav Juyal says Shah Rukh’s son ‘doesn’t want to fake it’
 
 
-## Charged Rs 175 ‘extra’ for wine bottle, Himachal man wins Rs 20,000 payout
+## Doctor, hospital to pay Rs 5 lakh for woman’s injury after ‘negligent’ hysterectomy
 
 
-## RRB JE 2026 Recruitment: 4,098 vacancies announced for Railways Junior Engineer posts, apply from August 14
+## Shwetha Menon denies taking money from BJP: ‘Fight is solely against power group in cine body’
 
 
-## Court refuses to cancel ED case against people who tried to sell banned notes
+## Imtiaz Ali says he’s ‘apolitical’: ‘Restrictive if you have a fixed political agenda’
 
 
-## ‘Will not be disappointed’: Siddharth Anand hails Ramayana trailer; Atlee praises Ranbir
+## ‘People will think twice about sailor jobs’: UP village mourns man killed in Russian strike
 
 
-## ‘She never said don’t touch me’: Shekhar Suman on filming Utsav with Rekha
+## After CJP protests, India is angry. Why are we still asking the wrong questions?
 
 
-## Women run away for love, men over domestic issues: Devendra Fadnavis
+## Cold storage sells farmer’s 48,000 kg carrots without consent, ordered to pay Rs 31.5 lakh
 
+
+## Booking app to pay Rs 21,000 for not refunding cancelled flight ticket
+
+
+## US biotech firm developing therapies for infant brain injuries plans Hong Kong listing
+A US-headquartered biotech firm plans to seek a primary listing in Hong Kong, joining a swelling pipeline of artificial intelligence-powered medical players raising capital in the city. Axiom Biosciences, which develops experimental therapies for newborns with severe brain injuries by using AI, is t
+
+## Can Beijing’s stock support deliver a long bull run and fuel its high-stakes tech drive?
+China’s rapid move to stem a rout in its stock markets – through direct state buying and pledges of more stabilising measures – underscores the resolve of policymakers to protect the country’s high-stakes push for technology innovation and safeguard more than 200 million individual investors. Beijin
 
 ## China stocks rebound from AI sell-off amid national team support
 Mainland Chinese shares are surging back from a sell-off amid regulatory support and huge purchases by state investors and major companies. The CSI 300 index rose 3.1 per cent on Tuesday, following a 1.5 per cent gain on Monday after China Securities Regulatory Commission (CSRC) chairman Wu Qing met
@@ -153,11 +162,11 @@ Ant International, the affiliate of Chinese fintech giant Ant Group, has raised 
 ## HKEX to allow confidential filings, lower market cap threshold for start-ups: sources
 Hong Kong Exchanges and Clearing (HKEX) would proceed with its listing reform to allow confidential filings and a lower market capitalisation requirement, as part of the exchange operator’s plan to increase its international competitiveness, two sources told the South China Morning Post. The move wo
 
-## Chinese stocks extend rise as state-backed insurers tout long-term investments
-Chinese stocks extended their gains to close higher on Tuesday, capping a session driven by official market-stabilisation measures and strong institutional backing following recent global market turbulence. On the mainland, the Shanghai Stock Exchange’s Star 50 Index led the market higher, ending th
+## Modi’s Great Anglo Paradox
+Cultural decolonization advances alongside unprecedented Western partnerships.
 
-## Fifa effect: Hong Kong developers bet on sport fever to keep shoppers spending
-From attracting tourist spending to live streaming world sports events like the Fifa World Cup, Hong Kong developers have tried to claw their way through a challenging retail market and found a rare boost to shopping malls. As crowds converged on neighbourhood malls to watch live broadcasts of World
+## The Western Myth of Russian Greatness
+There is a long history of foreigners idealizing Russia and exaggerating its power.
 
 ## Trump Needs to Defy History to End the Iran War
 U.S. presidents are virtually never able to end the stalemated wars they start.
@@ -177,35 +186,29 @@ Hormuz is a sign of worse things to come.
 ## Suwayda’s Struggle
 Syria’s Druze are trapped between Israeli protection and Damascus’s rule.
 
-## Europe Is Back in 1952
-France and Germany again locked into military rivalry is bad news for the rest of Europe.
+## ‘There Is Zero Accountability’: India’s ‘Cockroaches’ Question Modi and a Broken System
+The Cockroach Janata Party is leading a youth-heavy protest movement that embodies the public anger with the BJP.
 
-## A New Great Game Is Underway in Central Asia
-The world’s great powers are engaging a new battleground in their search for critical minerals.
+## How China Is Aiding Kazakh Efforts to Become Hyper Modern
+As Kazakhstan pushes forward to become a leading tech hub in the region, China continues to prove itself a crucial partner.
 
-## With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
-The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.
+## China’s Arctic Comeback
+Many of China’s initial, ambitious Arctic objectives collided with political and logistical realities. Now Beijing is testing out an “Arctic 2.0” strategy.
 
-## Australia’s Tuvalu Migration Deal Tests the Limits of Climate Mobility
-The Falepili Union offers Tuvaluans “mobility with dignity.” But unless Australia also protects Tuvalu’s workforce, the landmark agreement could weaken the country years before rising seas make it uninhabitable.
+## ASEAN Foreign Ministers Convene Meeting Under the Shadow of Iran War, Regional Crises
+The bloc's foreign ministers are set to call for "the restoration of the safe, unimpeded, and continuous transit passage of vessels and aircraft in the Strait of Hormuz.”
 
-## Philippines’ Lazaro Dismisses Criticisms Over ASEAN’s ‘Informal Meeting’ With Myanmar FM
-Last week, the Special Advisory Council for Myanmar said that agreeing to the meeting was a sign of the ASEAN special envoy's "timidity and poor judgment."
+## Philippine Marine Injured in Clash With China Coast Guard at Disputed South China Sea Shoal
+The two sides traded accusations over the confrontation at Second Thomas Shoal, a long-standing focus of maritime tensions between Manila and Beijing.
 
-## 5 Myths About the Five Eyes
-There are persistent misunderstandings about what the intelligence partnership is, and what it actually does.
+## Truth as Resistance: Journalism’s Role in Defending Indigenous Asia
+Journalism can help ensure that climate governance is guided by transparency, accountability, and justice.
 
-## Australia Updates Travel Warning For Laos After Announcement of Methanol Poisoning Charges
-Foreign Minister Penny Wong said that she was “deeply frustrated and bitterly disappointed" at the leniency of the charges announced on Friday.
+## Japan’s New Flag Law Tests Free Expression
+The law forbids publicly damaging, removing, or defacing a Japanese flag in a manner likely to cause others “extreme discomfort or disgust.”
 
-## Why Europe’s China Anxiety Is About More Than China
-Brussels no longer sees China only as an economic actor. It sees China as a challenge to the organization of global order itself.
-
-## Is Thailand’s PM More Concerned About Sound Cannabis Policy or Political Optics?
-Amid a rise in smuggling, Anutin Charnvirakul has recently come out against the policy he once championed: the decriminalization of marijuana.
-
-## The Romanovs and ‘Invictus’ in the Impeachment Trial of Philippine Vice President
-Sara Duterte claimed that she is "bloodied but unbowed" in the face of persecution by President Ferdinand Marcos Jr. and his administration.
+## China’s New AI Club: The World Artificial Intelligence Cooperation Organization
+Global tech governance is taking an institutional turn as a bloc-based system continues to solidify.
 
 ## Rebuilding America’s Critical Minerals Base
 There’s a clear consensus that America hollowed out its critical minerals base. How to rebuild it is less settled. Alex Grant of Magrathea Metals and Wes Spurlock of Principal Mineral join Jonathan to discuss the processing technology, labor force, and how government can catalyze private capital inv
@@ -255,32 +258,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israeli forces open fire on children in Syrian village
-Israeli forces open fire on children in Syrian village
+## Arizona’s primary elections: Which US races to watch and why they matter
+From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.
 
-## Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return
-Australia return to full strength for two-Test series against Bangladesh, as injured trio return to strengthen squad.
+## Lebanon’s Joseph Aoun to meet Trump: What to expect
+The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.
 
-## Moment terrifying floodwaters sweep through Afghan village
-Moment terrifying floodwaters sweep through Afghan village
+## FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?
+FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.
 
-## Five Palestinians die in fire after Israeli attack in Gaza
-An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.
+## Can AI systems make moral decisions in war?
+As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.
 
-## World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’
-Argentina were beaten 1-0 in the final by Spain in what has been rumoured to be Lionel Messi's final World Cup game.
+## Australian MP interrupts tough interview to yell at dog
+Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.
 
-## ‘Active in BDS’: Document reveals how Israel scrutinised global NGOs
-An internal government file obtained by Al Jazeera shows how Israel collected data on groups it suspected supported BDS.
+## Huge fire at Ukraine shopping centre after Russian drone strike
+A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.
 
-## ‘We just want to live’: Palestinians in Gaza react to Hamas election
-There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader.
+## Argentina deny World Cup villains’ role after Samuel Jackson-led slants
+Hollywood actor Samuel L Jackson was among those who criticised Argentina at World Cup, with racism among allegations.
 
-## Many Christian voters in the US see Trump as ‘chosen’ by God to lead
-Many white evangelical Christians view Donald Trump as chosen by God to lead despite not seeing him as personally devout
+## Philippine Foreign Secretary says ASEAN must work together
+Philippine Foreign Secretary says ASEAN must work together
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
+
+## MCA plans unified digital platform for insolvency ecosystem; seeks stakeholder suggestions
+The Ministry of Corporate Affairs is proposing a new integrated digital platform for insolvency. This unified system aims to streamline processes and improve information exchange among stakeholders. It will digitize the entire insolvency lifecycle, from commencement to resolution and liquidation. Th
 
 ## CBIC weighs centralised GST registration under one PAN
 The proposal seeks to address a longstanding industry demand by examining whether businesses operating across multiple states can be administered by a single central GST authority instead of dealing with multiple field formations for different GST registrations.
@@ -299,9 +305,6 @@ The Securities and Exchange Board of India has added eighteen new firms to its f
 
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
-
-## Cube Highways' public listing to strengthen access to capital for next growth phase: CFO Pankaj Vasani
-Cube Highways Trust's Rs 5,000 crore public issue marks a strategic transition beyond an Offer for Sale, with the listed InvIT looking to broaden its investor base, improve access to capital markets and support long term growth, says Group Chief Financial Officer Pankaj Vasani.
 
 ## RBI's inflow push gets off to strong start, fortifying India's balance of payments
 Foreign currency inflows are strengthening India's balance of payments position. The Reserve Bank of India's measures have mobilized over twenty billion dollars. This inflow is significantly higher than anticipated by economists and analysts. Such robust initial response bodes well for future fund m
