@@ -1,25 +1,34 @@
 # AION Intelligence
 
-## Burnham surprises Labour MPs by choosing Healey as new chancellor
-UK prime minister’s choice of former defence minister surprises allies
+## Why the dirty martini is London’s new It-girl drink
+The briny version of the classic cocktail is on the rise, particularly among women drinkers in the capital. Could it signify a shift in tastes?
 
-## Six things we learnt from Andy Burnham’s choices for his top team
-New prime minister signals he will depart from Keir Starmer’s approach in some areas while stressing continuity in others
+## Revolut to challenge Australia’s Big Four banks
+UK fintech to target credit and savings customers after winning full banking licence
+
+## Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of 2026 midterms
+President’s allies have built biggest money machine in a non-presidential election year
+
+## Nearly 100 US troops injured in two weeks since Iran war resumed
+The Pentagon says most soldiers suffered ‘minor concussions’ and have returned to duty
+
+## Indian parliament starts session as student protests escalate
+Also in this newsletter, credit growth bump for private banks
 
 ## US to hit Canada with 50% tariffs on wide range of goods
 Washington accuses neighbour of engaging in unfair practices in move that could reignite trade war
 
-## Who is in Andy Burnham’s new cabinet?
-UK prime minister announces top team, with many experienced faces returning to government
+## Oracle could face $7bn collateral bill for Wisconsin data centre
+Increased power costs add to challenges facing tech giant’s AI ambition amid high spending and mounting debt
+
+## JPMorgan boss Jamie Dimon warns of ‘consequences’ if Andy Burnham taxes banks
+Banking chief says any tax raid by new UK prime minister would threaten bank’s planned £3bn London office
+
+## London Stock Exchange plans to launch round-the-clock trading next year
+New overnight venue will initially offer access to exchange-traded products
 
 ## FirstFT: Indian police crack down on ‘Cockroach’ protesters
 Also in today’s newsletter: Andy Burnham becomes UK prime minister and US petrol prices climb back above $4
-
-## Andy Burnham makes more appointments for his first cabinet
-John Healey becomes chancellor while Shabana Mahmood stays at the home office and Ed Miliband moves to the foreign office
-
-## Trump to meet Lebanon’s president as US pushes ahead with peace deal
-Lebanese army will move into ‘pilot zones’ as part of plan for Israeli withdrawal from the country
 
 ## US petrol prices climb back above $4 as Iran war intensifies
 Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
@@ -27,44 +36,29 @@ Resurgent costs drive frustration with President Donald Trump ahead of midterm e
 ## Big Tech’s AI backstops risk ignominy
 Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
 
-## US judge pauses Paramount’s $110bn Warner Bros acquisition
-Federal court grants request for temporary halt to merger while examining impact on competition in Hollywood
+## Officials sought phone records of NYT journalists, their relatives to unmask sources
+NYT revealed the government's actions as part of an ongoing legal challenge to quash subpoenas that the Justice Department served on three journalists who reported on security concerns involving the jet
 
-## US probes insurers owned by billionaire Mark Walter over asset disclosures
-Prosecutors and securities regulators examine whether companies failed to disclose holdings in affiliated entities
+## Sensex today | Stock Market Live: Sensex, Nifty open flat despite strong Asian markets
+Sensex, Nifty, Share Prices LIVE: Sensex slipped 43.50 pts or 0.06% to 77,665.02 at 9.16 am after opening at 77,649.63 from the previous close of 77,708.52. Nifty 50 dipped 4.70 pts or 0.02% to 24,233.80.
 
-## Lockheed seeks European production for cheaper Patriot missile
-US defence group seeking approval from Washington to build out supply chain in region
+## Q1 Results Today Live: Bajaj Auto, Granules, Adani Energy, TVS Motor, ATGL, CRISIL, Mastek, IndiaMART, Cyient DLM, Sagility, Canara Robeco to announce Q1 results, UltraTech, Paytm, IOB, KVB, Sobha in focus
+Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
 
-## UK businesses are not deepening their use of AI, suggests ONS data
-Free tools are the most widely used by companies with focus on efficiency savings rather than developing new products
+## Andhra govt approves ₹500 crore worth works to ensure uninterrupted power to Godavari Pushkaralu
+The approved works include the construction of new 33/11 kV substations, additional 33 kV and 11 kV power lines, augmentation of transformer capacity, and the development of other essential power infrastructure
 
-## Anduril launches helicopter strike drone
-Unveiling of ‘Thunder’ comes as militaries increase autonomous systems in their arsenal
+## US judge approves Anthropic's $1.5-billion settlement of copyright lawsuit
+The case relates to a lawsuit brought by a group of authors who accused it of misusing their books to train its AI chatbot Claude
 
-## Malware attack lapses: SEBI imposes ₹1 crore fine on CDSL
-Regulator says cybersecurity failures exposed critical systems to attack
+## Samsung Electronics launches robotics division to drive humanoid robot push
+The South ‌Korean conglomerate said the RX, or "Robotics eXperience", division will oversee its ‌mid-to-long-term robotics strategy, core technology development ‌and ⁠business execution
 
-## Tata Steel announces ₹10,000 crore investment in Jharkhand, to create 2,000 jobs
-The investment includes ₹7,000 crore for Hisarna and Easy Melting Technology to expand low-carbon steelmaking in India
+## Delhi police files FIR over Connaught Place violence during ‘Sansad Chalo’ protest, security stepped up
+This comes a day after clashes broke out between protesters and security personnel during the "Sansad Chalo" march, during which over 118 police personnel were injured and police vehicles were damaged.
 
-## NEET paper leak: Lakhs march to Parliament, seek Education Minister’s resignation
-Police and protesters clash when march was stopped with barricades and teargas shells
-
-## Rallis India Q1 net profit jumps 31% to ₹125 cr on higher revenues
-Revenues rise 7% to ₹1,022 crore on growth in crop care, seeds, soil and plant health segment
-
-## IndiGo orders record 1,000 LEAP engines for Airbus planes, plans repair shop
-The LEAP engine is one of the two power plant options for Airbus A320neo and Boeing 737 Max planes
-
-## Small onion prices may rule at ₹30-35/kg during upcoming harvest
-In Tamil Nadu, small onions account for nearly 80% of the State’s total onion production
-
-## iD Fresh Food elevates India CEO Rajat Diwakar to its board
-Diwakar joined iD Fresh Food in 2024 as CEO for India
-
-## NHA de-empanels over 2,000 hospitals in fraud crackdown under AB PM-JAY: Report
-National Anti-Fraud Unit under AB PM-JAY imposes penalties worth ₹114.06 crore on hospitals, report says
+## Canara HSBC Life Insurance Reports Strong Business Momentum, APE Up 19%, VNB rises by 29%
+Canara HSBC Life Insurance Reports Strong Business Momentum, APE Up 19%, VNB rises by 29%
 
 ## NSE’s Ahimsa index targets cruelty-free investing
 NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gauge includes companies that do not harm animals in their business. The index aligns with non-violence principles and excludes certain firms. It aims to redirect capital towards compassionate and cruelty-free investing. Thi
@@ -90,53 +84,65 @@ The government has informed Parliament about no current plans to abolish long-te
 ## Not referring cases to internal ombudsman a concern: RBI
 RBI deputy governor Swaminathan J expressed concern over banks bypassing internal ombudsman. He stated that many customer grievances resolved by the RBI ombudsman were never referred internally. This situation undermines the purpose of the internal ombudsman framework, he noted. Banks must refer all
 
-## Protesters were 'unruly, aggressive and violent': Delhi Police on CJP protest
-Police said, despite repeated warnings and lawful directions, the protesters “refused to disperse and deliberately violated the prohibitory orders in force”.
+## 22 killed as heavy rain wreaks havoc across Kashmir, Uttarakhand and Nagaland
+Jammu and Kashmir remained the most affected on Monday, where 11 people were killed due to fresh rain-related incidents.
 
-## Condemn such attacks, says MEA after Russian missile kills 4 Indians on vessel
-The Odesa region and Ukraine’s last remaining maritime export corridor have come under sustained attack in recent weeks as Russia has stepped up its offensive.
+## Row as K’taka to distribute free residency certificates amid SIR
+BENGALURU: Karnataka on Monday launched a statewide campaign to deliver permanent residence and caste certificates free of cost to eligible households, with chief minister DK Shivakumar presenting the initiative as an effort to protect citizens’ rights and improve access to government services
 
-## Indus Waters Treaty won’t work in present form as Pakistan backs terror: India
-The people dismissed Pakistan’s efforts at creating a “victim narrative” on the false premise that India intends to cut off water supplies.
+## Madras HC raps police over conduct in court
+After a police personnel allegedly appeared drunk before a district court in Tamil Nadu to depose as a witness, the Madras High Court has directed the state Director General of Police (DGP) to issue a circular mandating that police personnel attending courts wear proper uniforms and maintain “absolu
 
-## Lathis, tears, barricades: How CJP march was halted by police | Ground Report
-It began as a peaceful march carrying flowers for police personnel. By late afternoon, the main protest stage at Jantar Mantar had been entirely dismantled.
+## CM Vijay reviews Mekedatu issue, may announce further action in 10 days
+Tamil Nadu chief minister C Joseph Vijay on Monday chaired a high-level meeting on Karnataka’s proposed Mekedatu dam across the Cauvery and is expected to announce the state’s next course of action within the next 10 days, minister for energy resources and law R Nirmal Kumar said
 
-## CJI Surya Kant's ‘cockroach’ comment back in focus as MP says ‘thanks’ amid CJP march
-At heart of Sanjay Raut's post was a courtroom observation CJI Surya Kant made in mid-May; thereafter the Cockroach Janta Party came up as satire at first
+## Will continue fast till talks begin with MPs: Sonam Wangchuk
+In a handwritten note shared on Instagram from Safdarjung Hospital, Wangchuk lamented that peaceful protesters were being dealt with “brutality” and appealed to the government and police to facilitate dialogue. He captioned the post: “Day #23 I’ll continue my fast….”
 
-## Gujarat man arrested for rape, killing 4-yr-old shot dead trying to escape: Cops
-Police said Parmar was arrested in the Borsad area on Sunday evening and was being brought to the police station when the incident took place.
+## India’s groundwater improves overall since 2017, but many states log fresh stress: Govt
+Even though India’s groundwater situation has improved overall since 2017, the latest official assessment showed signs of renewed stress in several states
 
-## Pilots' association writes to aviation ministry and DGCA, flags risks to Indian flights amid West Asia conflict
-ALPA India has urged the ministry and DGCA to “immediately suspend all commercial flight operations by Indian operators to the affected Gulf destinations".
+## Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
+A bench of chief justice DK Upadhyaya and justice Tejas Karia observed that it would consider Wangchuk’s wife Gitanjali’s plea seeking his transfer to a hospital of his choice on Tuesday after examining the medical records.
 
-## Pakistan politician reminds Islamabad how its army refused dead bodies of soldiers in Kargil
-Fazal-ur-Rehman, who is the President of the Jamiat Ulema-e-Islam, alleged that the Pakistan Army concealed its casualties during the 1999 Kargil War.
+## Parliament monsoon session: Opposition slams Modi, Rahul calls him ‘anti-youth’ PM
+Opposition leaders on Monday slammed the Bharatiya Janata Party-led Union government over the students’ protest outside Parliament.
 
-## Fake snakebite deaths, forged autopsies: Chhattisgarh probe leads to doctor’s arrest
-
-
-## Indus Waters Treaty: Government focus on Chenab projects, renegotiation
+## CJP’s Jantar Mantar Protest Live Updates: Protest enters Day 24; heavy security in Delhi
 
 
-## 2 IPS trainees, harassment complaint, ‘suicide’ attempt: Case that rocked Hyderabad police academy
+## Who is Kanishka Narayan? Indian-origin MP named UK’s first AI Minister
 
 
-## Delhi High Court recalls gag order on The Wire for future publications against former Chief Secretary
+## ‘They cannot touch Virat and Rohit’: R Ashwin says duo undroppable from ODI squad
 
 
-## 6 months, a plan to kill & an AI tool: What police found in Bengaluru triple murder
+## Shabana Azmi claims authorities tried to blame students at CJP protest: ‘I was right there’
 
 
-## In hot pursuit of smugglers, Gujarat forest officer killed in vehicle pile-up
+## Kiara Advani on husband Sidharth Malhotra’s support in dealing with trolls
 
 
-## Crowds disperse, stage dismantled at Jantar Mantar site before protest gains momentum again
+## Goods train derailment near Delhi disrupts rail traffic; Over 50 trains cancelled and diverted
 
 
-## From 2021 poll violence to 2024 RG Kar rape, how BJP govt is reopening old cases in Bengal
+## At 35, Bengaluru woman had mild cholesterol: What doubled her heart attack risk then?
 
+
+## Water cannons used, women & children bleeding: Maharashtra students at Jantar mantar
+
+
+## Fintech firm Ant International raises US$1.2b to fuel global growth
+Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
+
+## HKEX to allow confidential filings, lower market cap threshold for start-ups, sources say
+Hong Kong Exchanges and Clearing (HKEX) would proceed with its listing reform to allow confidential filings and a lower market capitalisation requirement, as part of the exchange operator’s plan to increase its international competitiveness, two sources told the South China Morning Post. The move wo
+
+## Chinese stocks rose by 0.4 per cent as state-backed insurers tout long-term investment
+Chinese stocks rose, extending a rebound spurred by regulatory support after global-sell-offs dampened sentiment. The CSI 300 Index climbed 0.4 per cent as of 9.35am local time and the tech-heavy Star Market 50 index added 0.4 per cent. Hong Kong’s Hang Seng Index rose 0.3 per cent. In the latest si
+
+## Fifa effect: Hong Kong developers bet on sport fever to keep shoppers spending
+From attracting tourist spending to live streaming world sports events like the Fifa World Cup, Hong Kong developers have tried to claw their way through a challenging retail market and found a rare boost to shopping malls. As crowds converged on neighbourhood malls to watch live broadcasts of World
 
 ## New tech wealth sparks luxury property rush in Chinese city home to ‘Six Little Dragons’
 A luxury penthouse in Hangzhou has set record highs for both unit price and total value of high-rise flats in the city, as new tech wealth injects fresh momentum into the market. All 66 units at the high-end Wangtianji development’s initial batch were snapped up on the first day of launch on July 16
@@ -149,18 +155,6 @@ Oil prices are set to rise once more as renewed US attacks on Iran leave the Str
 
 ## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
 Hungary’s government announced an investigation on Monday into a large foreign investment by Chinese carmaker BYD negotiated by a former foreign minister who last week resigned from parliament to take an executive position at the company. Peter Szijjarto’s announcement last Wednesday that he would t
-
-## Chinese immigrants emerge as pivotal players in Canada’s property market amid foreign ban
-Mainland Chinese immigrants were estimated to have bought as much as C$5.7 billion (US$4 billion) worth of homes in Canada last year, making them a key group of non-local investors propping up the residential property market, according to one estimate. Ottawa barred most foreigners from purchasing h
-
-## ‘Systemic leap’: China’s drug innovation push yields bumper crop
-Domestically produced novel drugs accounted for more than 80 per cent of market approvals in China in the first half of the year, reflecting a “leap” in the quality of the country’s pharmaceutical innovation, according to a government spokesman. A total of 38 innovative drugs were cleared for sale i
-
-## Hong Kong bourse operator weighs longer trading hours to sharpen hub edge, sources say
-Bourse operator Hong Kong Exchanges and Clearing (HKEX) is considering extending trading hours to align with moves by global peers and sharpen the city’s competitiveness as an international financial centre. HKEX and the Securities and Futures Commission (SFC) confirmed that they were discussing the
-
-## Ikea’s China remodelling: parent firm puts 8 former retail sites on block
-Ikea’s parent company Ingka Group has hired property consultancy JLL as its sole sales agent to offload eight retail properties in mainland China, the multinational furniture brand’s largest asset disposal since it entered the market nearly 30 years ago. Seven of the properties were Ikea stores that
 
 ## State Department Frames Cuba as Major Threat via Left-Wing Groups
 The report comes amid growing U.S. efforts to overturn Cuba’s government.
@@ -258,29 +252,38 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Suspect charged in fatal attack on UK politician Ann Widdecombe
-Police say a possible political motive is under investigation in the killing of the Reform UK figure.
+## Lebanese return to ‘pilot zone’ villages they say Israel never occupied
+Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.
 
-## Argentina, minus Messi, return home after World Cup final heartbreak
-Thousands wait to greet the team, who return without captain Messi and a few other players after the World Cup.
+## Spain’s World Cup heroes welcomed by millions in Madrid
+More than half of Madrid’s population turned out to celebrate La Roja as the players returned to Spain
 
-## What are the new British Prime Minister’s biggest challenges?
-Britain has a new Prime Minister: Andy Burnham. The former Mayor of Manchester must now unite a divided nation.
+## US military releases footage of tenth consecutive night of strikes on Iran
+US Central Command (CENTCOM) released footage of its forces launching the latest round of strikes against Iran.
 
-## Chaos in India as ‘Cockroach activists’ march on parliament
-Chaos outside India's parliament as protesters tried to storm it; satirical Cockroach Janta Party gains traction.
+## Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?
+A series of diplomatic consultations in Cairo underscores the Horn of Africa's growing strategic importance.
 
-## War on Iran: War resumes 30 days after MoU
-30 days into the US-Iran MoU the worst fighting in months has erupted threatening to unravel the ceasefire.
+## Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny
+Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.
 
-## Moroccan-born man dies while detained by police in Italy
-A video showing the final moments of Moroccan-born Abderrahim Fakir as he was detained by police has sparked protests.
+## Why protests are growing in Ukraine over defence leadership and dismissals
+Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.
 
-## World Cup champions Spain return to royal welcome, parade through Madrid
-Tens of thousands of fans greet La Roja as they travel down Madrid's historic avenues to Cibeles Square.
+## Tate brothers vow to fight extradition as they appear at court in Miami
+Controversial ‘manosphere’ influencers Andrew and Tristan Tate appeared at a federal court hearing in Miami.
 
-## Albanian protesters pelt lawmakers’ cars over resort projects
-Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.
+## Trump imposes 50% US tariffs on some Canadian goods, citing discrimination
+Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.
+
+## India Inc's highest-paid CFOs in FY26: L&T's R Shankar Raman leads the pack
+An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
+
+## CBIC weighs centralised GST registration under one PAN
+The proposal seeks to address a longstanding industry demand by examining whether businesses operating across multiple states can be administered by a single central GST authority instead of dealing with multiple field formations for different GST registrations.
+
+## FCNR scheme: Withholding tax fear haunts US, Singapore NRIs
+Non-resident Indians residing in Singapore and the United States are expressing significant concerns over withholding taxes. These taxes threaten to diminish their net returns from leveraging FCNR deposit schemes. For instance, borrowing from Indian banks' GIFT City branches triggers Singapore withh
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
@@ -296,15 +299,6 @@ In the short-term, the micro finance company has set a target of taking the curr
 
 ## Cube Highways' public listing to strengthen access to capital for next growth phase: CFO Pankaj Vasani
 Cube Highways Trust's Rs 5,000 crore public issue marks a strategic transition beyond an Offer for Sale, with the listed InvIT looking to broaden its investor base, improve access to capital markets and support long term growth, says Group Chief Financial Officer Pankaj Vasani.
-
-## Vanishing jobs in finance
-Globally, banks and financial institutions are rethinking workforce requirements as AI and automation become mainstream. Standard Chartered recently announced plans to reduce thousands of jobs over the next few years while accelerating AI adoption. Global lenders such as Citi, UBS, HSBC and Morgan S
-
-## NCLAT upholds NFRA order, says 'statutory audit is not a ceremonial exercise'
-Tribunal dismisses appeal against NFRA's disciplinary action, holding that auditors cannot rely solely on management representations or anticipated settlements. Ruling underscores the mandatory nature of auditing standards, professional scepticism and robust audit documentation.
-
-## State Bank of India appoints former LIC finance head Sunil Agrawal as CFO
-State Bank of India has named Sunil Agrawal its new Chief Financial Officer, bringing with him a wealth of experience from his 27 years at LIC. His role as key managerial personnel highlights his expertise in financial planning and regulatory matters. This significant appointment aligns with ongoing
 
 ## Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush
 Banks anticipate a surge in FCNR-B deposits before the September deadline. Initial inflows have been below expectations, but partnerships are being forged. Demand from non-resident Indians remains strong, especially from the Middle East. Lenders are intensifying outreach efforts to attract more over
