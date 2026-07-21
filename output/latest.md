@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## Why the dirty martini is London’s new It-girl drink
-The briny version of the classic cocktail is on the rise, particularly among women drinkers in the capital. Could it signify a shift in tastes?
-
-## Revolut to challenge Australia’s Big Four banks
-UK fintech to target credit and savings customers after winning full banking licence
-
-## Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of 2026 midterms
-President’s allies have built biggest money machine in a non-presidential election year
+## Burnham to remove VAT on household electricity bills
+New prime minister has vowed to help households with the cost of living
 
 ## Nearly 100 US troops injured in two weeks since Iran war resumed
 The Pentagon says most soldiers suffered ‘minor concussions’ and have returned to duty
 
-## Indian parliament starts session as student protests escalate
-Also in this newsletter, credit growth bump for private banks
+## Broken valuation metrics?
+Maybe stocks are not that expensive after all
 
-## US to hit Canada with 50% tariffs on wide range of goods
-Washington accuses neighbour of engaging in unfair practices in move that could reignite trade war
+## EU tech tsar spars with justice chief over new online rule book
+Also in this newsletter: Meloni pushes pardon for jeweller jailed over fatal shooting of robbers
 
-## Oracle could face $7bn collateral bill for Wisconsin data centre
-Increased power costs add to challenges facing tech giant’s AI ambition amid high spending and mounting debt
+## FirstFT: Healey’s formidable in-tray as UK chancellor
+Also in today’s newsletter: LSE plans round-the-clock trading and AI as a geopolitical weapon
 
-## JPMorgan boss Jamie Dimon warns of ‘consequences’ if Andy Burnham taxes banks
-Banking chief says any tax raid by new UK prime minister would threaten bank’s planned £3bn London office
+## UK chancellor John Healey inherits tricky finances
+Prime minister’s choice of former defence minister surprises allies
 
-## London Stock Exchange plans to launch round-the-clock trading next year
-New overnight venue will initially offer access to exchange-traded products
+## Linklaters partners handed record £2.5mn payday as Asia business booms
+‘Magic circle’ law firm cites Hong Kong listings work and growth in US as it reports bumper payouts for top ranks
 
-## FirstFT: Indian police crack down on ‘Cockroach’ protesters
-Also in today’s newsletter: Andy Burnham becomes UK prime minister and US petrol prices climb back above $4
+## US authorities probe Mark Walter’s insurance empire
+Regulators and prosecutors are investigating the insurance-private capital nexus
 
-## US petrol prices climb back above $4 as Iran war intensifies
-Resurgent costs drive frustration with President Donald Trump ahead of midterm elections
+## Mitie agrees £3.1bn takeover by rival outsourcer OCS Group
+Facilities management group is latest London-listed company to agree a deal
 
-## Big Tech’s AI backstops risk ignominy
-Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply
+## Adnoc to invest in $6.2bn natural gas schemes as UAE bids for self-sufficiency
+Abu Dhabi oil group races to keep pace with domestic demand while facing potential end of gas supply deal with Qatar
 
-## Officials sought phone records of NYT journalists, their relatives to unmask sources
-NYT revealed the government's actions as part of an ongoing legal challenge to quash subpoenas that the Justice Department served on three journalists who reported on security concerns involving the jet
+## Tom Hayes says UBS’s ‘Project Chocolate’ probe shows he was targeted from outset
+Trader nicknamed ‘Tommy Chocolate’ argues bank’s rate-fixing investigation was stacked against him
 
-## Sensex today | Stock Market Live: Sensex, Nifty open flat despite strong Asian markets
-Sensex, Nifty, Share Prices LIVE: Sensex slipped 43.50 pts or 0.06% to 77,665.02 at 9.16 am after opening at 77,649.63 from the previous close of 77,708.52. Nifty 50 dipped 4.70 pts or 0.02% to 24,233.80.
+## Psychedelic drugs are going mainstream
+Commercial success is looking less theoretical for treatments based on mushrooms and LSD
 
-## Q1 Results Today Live: Bajaj Auto, Granules, Adani Energy, TVS Motor, ATGL, CRISIL, Mastek, IndiaMART, Cyient DLM, Sagility, Canara Robeco to announce Q1 results, UltraTech, Paytm, IOB, KVB, Sobha in focus
+## The wealthy Londoners betting on a luxury retirement
+Riverstone is pioneering club-like housing schemes for asset-rich over-65s
+
+## Sensex today | Stock Market Live: Sensex drops 250 pts, Nifty below 24,200; HDFC Bank lead losers
+Sensex, Nifty, Share Prices LIVE: At 11.03 am, Sensex traded 212.51 pts or 0.27% lower at 77,496.01; and Nifty 50 dipped 46.05 pts or 0.19% to 24,192.45.
+
+## Tariff policy successful, more measures coming to replace those overturned by Supreme Court: USTR Greer
+The US’ approach has helped it negotiate trade deals with the UK, the European Union, Indonesia, India and Japan: Greer
+
+## Why these 10 stocks will be in focus on Tuesday
+TAFE, CDSL, SPML Infra, Emcure Pharma, Redington, Wanbury, RITES, KCP Sugar, Mafatlal and Monarch Surveyors
+
+## Iran claims strike on Amazon infrastructure in Bahrain
+The Revolutionary Guards say they targeted Amazon-linked infrastructure, though Bahrain has not confirmed the claim.
+
+## Q1 Results Today Live: Bajaj Auto, Granules, Adani Energy, TVS Motor, ATGL, CRISIL, Mastek, IndiaMART, Cyient DLM, Sagility, Canara Robeco to announce Q1 results, KVB shares jump 11%, UltraTech, IOB, Sobha shares gain, Paytm slips
 Q1 Results Today, 21st July 2026 Live Updates: Catch live updates
 
-## Andhra govt approves ₹500 crore worth works to ensure uninterrupted power to Godavari Pushkaralu
-The approved works include the construction of new 33/11 kV substations, additional 33 kV and 11 kV power lines, augmentation of transformer capacity, and the development of other essential power infrastructure
+## Insurance sector sees sharp rebound in June; health, motor to drive growth outlook: Report
+Retail health premiums surge 33%; Motor insurance also gains pace with 14% growth; fire insurance continues to weigh on industry performance, with premiums declining 23%
 
-## US judge approves Anthropic's $1.5-billion settlement of copyright lawsuit
-The case relates to a lawsuit brought by a group of authors who accused it of misusing their books to train its AI chatbot Claude
+## Wangchuk's vital parameters remain stable: Safdarjung Hospital
+Wangchuk receivings oral rehydration therapy and oral potassium supplementation; however, he has declined intravenous fluids and glucose administration
 
-## Samsung Electronics launches robotics division to drive humanoid robot push
-The South ‌Korean conglomerate said the RX, or "Robotics eXperience", division will oversee its ‌mid-to-long-term robotics strategy, core technology development ‌and ⁠business execution
+## Gujarat records 33% rainfall deficit, yet kharif sowing crosses 50 lakh hectares
+Despite the patchy rains, farmers have completed sowing over 50 lakh hectares against the normal three-year average of 85.3 lakh hectares
 
-## Delhi police files FIR over Connaught Place violence during ‘Sansad Chalo’ protest, security stepped up
-This comes a day after clashes broke out between protesters and security personnel during the "Sansad Chalo" march, during which over 118 police personnel were injured and police vehicles were damaged.
+## Rupee slips 6 paise against US dollar in early trade
 
-## Canara HSBC Life Insurance Reports Strong Business Momentum, APE Up 19%, VNB rises by 29%
-Canara HSBC Life Insurance Reports Strong Business Momentum, APE Up 19%, VNB rises by 29%
 
 ## NSE’s Ahimsa index targets cruelty-free investing
 NSE Indices has launched the Nifty 500 Ahimsa Index for investors. This new gauge includes companies that do not harm animals in their business. The index aligns with non-violence principles and excludes certain firms. It aims to redirect capital towards compassionate and cruelty-free investing. Thi
@@ -81,56 +87,56 @@ The National Highways Authority of India has prepaid over Rs 1.2 lakh crore in l
 ## No move to scrap LTCG tax on equities: Govt
 The government has informed Parliament about no current plans to abolish long-term capital gains tax on equities. Tax policies are revised periodically as part of the annual budgetary process and legislative revisions. This statement addresses investor demands for changes in long-term capital gains 
 
-## Not referring cases to internal ombudsman a concern: RBI
-RBI deputy governor Swaminathan J expressed concern over banks bypassing internal ombudsman. He stated that many customer grievances resolved by the RBI ombudsman were never referred internally. This situation undermines the purpose of the internal ombudsman framework, he noted. Banks must refer all
+## CJP Parliament march violence: Delhi Police register 4 cases, 2 more to be filed
+Police alleged protestors assembled unlawfully, disrupted public order, obstructed government officials, indulged in violence, and damaged public property
 
-## 22 killed as heavy rain wreaks havoc across Kashmir, Uttarakhand and Nagaland
-Jammu and Kashmir remained the most affected on Monday, where 11 people were killed due to fresh rain-related incidents.
+## Those involved in NEET paper leak will be punished: PM Modi at NDA parliamentary party meet
+The PM is learnt to have told lawmakers that students should be assured that their interests will be protected
 
-## Row as K’taka to distribute free residency certificates amid SIR
-BENGALURU: Karnataka on Monday launched a statewide campaign to deliver permanent residence and caste certificates free of cost to eligible households, with chief minister DK Shivakumar presenting the initiative as an effort to protect citizens’ rights and improve access to government services
+## Kerala seafarer killed in Russian missile strike on shipping vessel was set to marry in 2 months
+Akhil Joyan, 26, was the only son of a couple from Kerala.
 
-## Madras HC raps police over conduct in court
-After a police personnel allegedly appeared drunk before a district court in Tamil Nadu to depose as a witness, the Madras High Court has directed the state Director General of Police (DGP) to issue a circular mandating that police personnel attending courts wear proper uniforms and maintain “absolu
+## Who is Harmanveer Singh? FBI manhunt on amid drug trafficking charges, link to Dhanda gang
+The 31-year-old man also goes by the aliases of "Hari Gautam" and "Harman Sandhu."
 
-## CM Vijay reviews Mekedatu issue, may announce further action in 10 days
-Tamil Nadu chief minister C Joseph Vijay on Monday chaired a high-level meeting on Karnataka’s proposed Mekedatu dam across the Cauvery and is expected to announce the state’s next course of action within the next 10 days, minister for energy resources and law R Nirmal Kumar said
+## CJP won't march to Parliament again, Dipke says 'police will hurt youth again'
+Abhijeet Dipke said that while the protest would continue, CJP will not attempt another march to Parliament.
 
-## Will continue fast till talks begin with MPs: Sonam Wangchuk
-In a handwritten note shared on Instagram from Safdarjung Hospital, Wangchuk lamented that peaceful protesters were being dealt with “brutality” and appealed to the government and police to facilitate dialogue. He captioned the post: “Day #23 I’ll continue my fast….”
+## 'Shared values': Modi congratulates new UK PM Andy Burnham, stresses trade ties
+The Prime Minister reiterated the significance of the Comprehensive Economic and Trade Agreement that came into force this month.
 
-## India’s groundwater improves overall since 2017, but many states log fresh stress: Govt
-Even though India’s groundwater situation has improved overall since 2017, the latest official assessment showed signs of renewed stress in several states
+## India summons Russian diplomat over death of four Indian seafarers in vessel attack off Ukraine coast
+The vessel, identified as MV Golden Leo, was struck as it departed Ukraine's southern port of Odesa on Sunday.
 
-## Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today
-A bench of chief justice DK Upadhyaya and justice Tejas Karia observed that it would consider Wangchuk’s wife Gitanjali’s plea seeking his transfer to a hospital of his choice on Tuesday after examining the medical records.
+## Thousands of farmers gather at Shambhu border ahead of march to Delhi. What's happening?
+Farmer leader Sarwan Singh Pandher accused the Haryana govt of barricading the Shambhu border to stop farmers from reaching Delhi for the Kisan Mahapanchayat.
 
-## Parliament monsoon session: Opposition slams Modi, Rahul calls him ‘anti-youth’ PM
-Opposition leaders on Monday slammed the Bharatiya Janata Party-led Union government over the students’ protest outside Parliament.
-
-## CJP’s Jantar Mantar Protest Live Updates: Protest enters Day 24; heavy security in Delhi
+## IIIT Lucknow records highest-ever BTech placements; IIT Kanpur Director Manindra Agrawal takes additional charge
 
 
-## Who is Kanishka Narayan? Indian-origin MP named UK’s first AI Minister
+## TMC Martyrs’ Day stage vandalised in Kolkata, Mamata stays guard overnight
 
 
-## ‘They cannot touch Virat and Rohit’: R Ashwin says duo undroppable from ODI squad
+## Why is Lionel Messi staying back in US after World Cup final
 
 
-## Shabana Azmi claims authorities tried to blame students at CJP protest: ‘I was right there’
+## ‘I will protect till my death’: Raghav Juyal on shielding Shehnaaz Gill from paparazzi
 
 
-## Kiara Advani on husband Sidharth Malhotra’s support in dealing with trolls
+## Indian man jailed in Singapore for Rs 1.49 crore diamond heist
 
 
-## Goods train derailment near Delhi disrupts rail traffic; Over 50 trains cancelled and diverted
+## Mumbai rains weather forecast: Heavy rains to intensify, warns IMD; orange alert to continue as monsoon revives
 
 
-## At 35, Bengaluru woman had mild cholesterol: What doubled her heart attack risk then?
+## Rapido driver refuses rides to those against CJP movement: ‘It’s about our future’
 
 
-## Water cannons used, women & children bleeding: Maharashtra students at Jantar mantar
+## Haryana drafts Right to Business Bill, proposes 3-year inspection-free period for MSMEs
 
+
+## SpaceX slump fails to dent Hong Kong tech as investors seen pivoting
+A sharp pullback in US space-technology giant SpaceX and renewed valuation pressure on Wall Street’s tech heavyweights are unlikely to trigger a major sell-off in Hong Kong equities, according to analysts, who note that local tech firms operate under distinct business models and lack the stretched v
 
 ## Fintech firm Ant International raises US$1.2b to fuel global growth
 Ant International, the affiliate of Chinese fintech giant Ant Group, has raised about US$1.2 billion in a Series A funding round to fuel its global expansion, the company said on Tuesday. Existing backers Ant Group and Alibaba Group Holding joined the equity financing alongside several international
@@ -138,8 +144,8 @@ Ant International, the affiliate of Chinese fintech giant Ant Group, has raised 
 ## HKEX to allow confidential filings, lower market cap threshold for start-ups, sources say
 Hong Kong Exchanges and Clearing (HKEX) would proceed with its listing reform to allow confidential filings and a lower market capitalisation requirement, as part of the exchange operator’s plan to increase its international competitiveness, two sources told the South China Morning Post. The move wo
 
-## Chinese stocks rose by 0.4 per cent as state-backed insurers tout long-term investment
-Chinese stocks rose, extending a rebound spurred by regulatory support after global-sell-offs dampened sentiment. The CSI 300 Index climbed 0.4 per cent as of 9.35am local time and the tech-heavy Star Market 50 index added 0.4 per cent. Hong Kong’s Hang Seng Index rose 0.3 per cent. In the latest si
+## Chinese stocks extend rise as state-backed insurers tout long-term investments
+Chinese stocks extended their gains into the midday break on Tuesday, adding to a recovery driven by official market-stabilisation measures and strong institutional backing following recent global market turbulence. On the mainland, the Shanghai Stock Exchange’s Star 50 Index, which tracks the excha
 
 ## Fifa effect: Hong Kong developers bet on sport fever to keep shoppers spending
 From attracting tourist spending to live streaming world sports events like the Fifa World Cup, Hong Kong developers have tried to claw their way through a challenging retail market and found a rare boost to shopping malls. As crowds converged on neighbourhood malls to watch live broadcasts of World
@@ -153,8 +159,11 @@ China’s electric vehicle (EV) industry sits at the centre of numerous economic
 ## China won’t waste its reserves to cushion oil price impact of Iran war
 Oil prices are set to rise once more as renewed US attacks on Iran leave the Strait of Hormuz, a major artery of oil trade, closed again. With US strategic petroleum reserves at their lowest in over 40 years, America will have trouble keeping oil prices below US$100 a barrel, as it has mostly done i
 
-## Hungary investigates deal with China’s BYD after ex-foreign minister takes job there
-Hungary’s government announced an investigation on Monday into a large foreign investment by Chinese carmaker BYD negotiated by a former foreign minister who last week resigned from parliament to take an executive position at the company. Peter Szijjarto’s announcement last Wednesday that he would t
+## Trump Needs to Defy History to End the Iran War
+U.S. presidents are virtually never able to end the stalemated wars they start.
+
+## Armenian Democracy Faces a Threat From Within
+A predatory opposition, fueled by external support, is gaining influence within the state.
 
 ## State Department Frames Cuba as Major Threat via Left-Wing Groups
 The report comes amid growing U.S. efforts to overturn Cuba’s government.
@@ -173,12 +182,6 @@ France and Germany again locked into military rivalry is bad news for the rest o
 
 ## A New Great Game Is Underway in Central Asia
 The world’s great powers are engaging a new battleground in their search for critical minerals.
-
-## Fixing U.S. Security Assistance
-A new bill aims to stop the United States from “funding abuse.”
-
-## Britain’s New Prime Minister Must Stand Up to Trump
-Keir Starmer allowed his country to be humiliated by Washington. Burnham should learn from his mistakes.
 
 ## With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence
 The World Artificial Intelligence Cooperation Organization may prove to be China's most ambitious effort yet to shape the future deployment and governance of AI.
@@ -252,6 +255,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Many Christian voters in the US see Trump as ‘chosen’ by God to lead
+Many white evangelical Christians view Donald Trump as chosen by God to lead despite not seeing him as personally devout
+
+## Argentina players receive heroes’ welcome home despite World Cup defeat
+Argentina’s players were welcomed home by fans lining the streets as the team travelled from the airport.
+
+## China and Philippines trade accusations after sailor injured at sea
+Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.
+
 ## Lebanese return to ‘pilot zone’ villages they say Israel never occupied
 Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.
 
@@ -266,15 +278,6 @@ A series of diplomatic consultations in Cairo underscores the Horn of Africa's g
 
 ## Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny
 Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.
-
-## Why protests are growing in Ukraine over defence leadership and dismissals
-Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.
-
-## Tate brothers vow to fight extradition as they appear at court in Miami
-Controversial ‘manosphere’ influencers Andrew and Tristan Tate appeared at a federal court hearing in Miami.
-
-## Trump imposes 50% US tariffs on some Canadian goods, citing discrimination
-Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.
 
 ## India Inc's highest-paid CFOs in FY26: L&T's R Shankar Raman leads the pack
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
