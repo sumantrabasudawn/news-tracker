@@ -1,64 +1,67 @@
 # AION Intelligence
 
-## Germany to buy stakes in defence start-ups
-Measure is one of more than 150 designed to boost funding for start-ups in Europe’s largest economy
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
+
+## Streeting refuses to commit to 3% defence spending ambition
+Previous defence minister resigned after warning current spending plan was not enough to keep UK safe
+
+## OpenAI admits AI ‘agent’ caused major cyber breach by itself
+AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face
 
 ## Trump threatens tit-for-tat strikes on Iranian infrastructure
 US president’s warning marks latest attempts to assert American control over the Strait of Hormuz
 
-## AMD to invest up to $5bn in Anthropic in chip deal
-AI group commits to buying tens of billions of dollars of AMD’s latest AI server chips
+## Can ‘Brand Burnham’ survive the move to Number 10?
+The new prime minister looks to be continuing the everyman style cultivated as mayor of Greater Manchester
 
-## Burnham signals review of early-release scheme for prisoners
-New prime minister makes first intervention in area of criminal justice in England and Wales
+## NHS England adds caveat to pro-Palantir data after watchdog probe
+Regulator urges health service to ensure communications about benefits are ‘clearly and appropriately labelled’
 
-## Environment Agency launches criminal proceedings against former Southern Water CEO
-Matthew Wright among four former employees facing allegations over rigging wastewater test results
+## Mercedes risks US sales ban under Senate China bill
+Commerce panel to vote on legislation barring companies with significant Chinese ownership from US market
 
-## The West Country: the UK’s most dysfunctional property market
-Unsold homes are piling up as locals can’t afford to buy properties at a price that homeowners are willing to sell for
+## Germany to buy stakes in defence start-ups
+Measure is one of more than 150 designed to boost funding for start-ups in Europe’s largest economy
 
-## What new EU rules mean for the aviation industry
-A clever compromise avoids reigniting Brussels-Washington trade tensions
+## The Lucid dream can continue on a bed of Saudi money
+With Riyadh’s backing, the electric-car maker could get through this crunch period
 
-## Zelenskyy replaces top Ukraine general after mass protests
-President picks 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in military leadership
+## Clifford Chance partners paid record £2.3mn despite US slowdown
+Asian IPOs lead revenue growth as ‘magic circle’ firm expands Wall Street presence
 
-## Nestlé nears deal to sell stake in Perrier unit
-Swiss group races to agree terms with Platinum Equity for water business, whose brands include San Pellegrino
+## Southern Water and ex-CEO face criminal charges over wastewater tests
+Matthew Wright faces fraud allegations in Environment Agency’s first charges against a water boss
 
-## NHS England adds caveat to Palantir claims after watchdog investigation
-Regulator urges health service to ensure communications about software’s benefits are ‘clearly and appropriately labelled’
+## Philip Morris International cuts guidance as rivals squeeze Zyn
+Tobacco group lowers outlook for third time this year as currency swings and US pouch competition slow momentum
 
-## European gas prices approach Iran war highs as traders fret over winter supplies
-Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
+## Letters to the Editor dated July 22, 2026
 
-## Deutsche Bank headquarters raided for third time this year
-Latest search threatens to detract from efforts to rehabilitate German lender
 
-## Liquid cooling to see fastest adoption among neoclouds and sovereign AI projects: Dell
-Dell Technologies India, discuss the company’s AI strategy, enterprise adoption trends and India’s growing role in the AI infrastructure landscape.
+## DailyObjects eyes ₹400 cr revenue in FY27, plans 150 stores over five years
+DailyObjects is also looking at international expansion, with the US emerging as an early focus market, says CEO
 
-## RBI draft foreign investment rules may reshape deal structures, speed policy implementation
-Proposed framework could reduce delays in implementing FDI reforms while changing how downstream investments and shareholder rights are assessed, experts said
+## 19-year-old student faces near-certain vision loss after pellet injury at Delhi protest
+Sahil is a final-year student at the School of Open Learning
 
-## Punjab introduces AI as main subject from Class 1-12
-Punjab becomes first state in India to do so
+## NABARD signs MoU with MAHAPREIT to promote green infra in rural India
+It will have a special focus on strengthening villages, Panchayati Raj Institutions and community-level infrastructure in Maharashtra.
 
-## Insurance distribution reforms must preserve commercial viability of intermediaries: IBAI President Narendra Kumar Bharindwal
-Insurance Brokers Association of India (IBAI) celebrates 25 years of contribution to the insurance industry this week
+## ‘Don’t waste our time’: CJI Kant declines to take cognisance of alleged police violence during CJP’s Parliament march
+The Chief Justice’s reported remark on “cockroach” in reference to fake law degree holders during the hearing of a writ petition on May 15 spawned public furore and a viral online platform, the Cockroach Janta Party
 
-## Titagarh-Ramkrishna Forgings set to start forged railway wheel production in August
-The plant will end Indian Railways’ decades-long dependence on imported forged wheels
+## Eternal’s consolidated net profit soars to ₹92 crore, NOV jumps by 56 per cent
+The company said that 200 net new dark stores were added during the quarter taking the total count to 2,443. Meanwhile, District’s NOV growth accelerated to 60 per cent year-on-year to Rs ₹3,218 crore
 
-## Mahindra Holidays posts ₹8.6 crore loss on higher expenses
-Overall revenue grew 5 per cent year on year to ₹740.2 crore led by domestic business
+## Q1 Results Highlights: Eternal logs ₹92 cr profit in Q1, Nestlé, Adani Power, Adani Green & SRF PAT rise, HPCL, Dr Reddy's Lab profit tumbles
+Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
 
-## Zen Tech gets ₹177.5 cr worth order for upgradation & integration of T-90 tank simulators
-The order from Ministry of Defence is for the upgradation and integration of T-90 tank’s driving and crew gunnery simulators, said Hyderabad-based Zen Technologies
+## J&K policeman shot dead in Anantnag, first such attack since Pahalgam attack
+The incident occurred two days after Chief Minister Omar Abdullah led a protest in New Delhi demanding the restoration of statehood.
 
-## India’s edible oil import bill up 20% in first 8 months
-Shipments likely to touch ₹1.75 lakh crore in 2025-26 oil year
+## US stock market today: Wall Street drifts in mixed trading; oil prices rise another 3%
+The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost 
 
 ## BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins
 Bharat Petroleum Corporation Ltd reported a significant net loss for the April-June quarter. Elevated crude oil prices and regulated fuel rates severely impacted marketing margins. The company incurred substantial LPG under-recoveries and unpaid subsidy dues. Revenue from operations increased, but t
@@ -81,8 +84,23 @@ Oil prices are climbing as geopolitical tensions between the US and Iran intensi
 ## Why did the stock market crash today? BSE Sensex ends over 700 points down, Nifty50 below 24,000; top reasons for fall
 Pharmaceutical stocks were among the biggest drags on the market after Trump announced a phased tariff framework for imported generic medicines, giving drugmakers a two-year transition period before higher duties come into force.
 
-## Donald Trump’s 200% tariffs on pharma: Why India’s generic medicines could still remain competitive
-US President Donald Trump on Tuesday announced the final stage of his pharmaceutical tariff plan, under which imported generic medicines will continue to enter the US without duties until August 1, 2028.
+## Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
+Hazare also raised concerns over reports of 22 students dying by suicide following the cancellation of the medical entrance exam.
+
+## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
+Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
+
+## Odisha police summon ex-IAS officer V.K. Pandian over missing inquiry reports
+The capital police station in Bhubaneswar issued a notice directing Pandian to appear before the assistant commissioner of police, Zone-I, at 11 am on July 25, according to the notice.
+
+## 'Nation needs you': Opposition MPs meet Sonam Wangchuk at hospital, appeal to call off indefinite fast
+Opposition MPs express gratitude for Sonam Wangchuk's dedication to youth and environmental issues, urging him to end his hunger strike.
+
+## Counsel students to study and not divert energy on protests, universities told
+AIU urges educational institutions to counsel students to prioritize their studies over participating in protests.
+
+## Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
+Activist Sonam Wangchuk will end his hunger strike if the government assures no legal action against young protesters advocating for education reform.
 
 ## Bengal: Toxic gases slow rescue ops in South Sikkim tunnel blast, toll reaches 13
 Rescuers battled methane, carbon monoxide, mud and darkness as the death toll in the south Sikkim tunnel explosion rose to 13, with 12 workers still missing.
@@ -90,46 +108,28 @@ Rescuers battled methane, carbon monoxide, mud and darkness as the death toll in
 ## Who was Aashiq Hussain Qureshi? Victim of first terror attack in J&K since Pahalgam killings
 Wednesday's terror attack is the first terror incident since the Pahalgam attack in 2025, which killed 26 tourists.
 
-## Unknown persons blow up PMGSY bridge in Manipur’s Kamjong; probe underway: Cops
-In another incident, a four-wheeler telecom vehicle parked on the bank of Namban Lok River was also set on fire
-
-## In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
-State BJP vice president Narendra Sawaikar was criticised after referring to protesters as “not just cockroaches also termites
-
-## Sonam Wangchuk ready to end fast if govt assures no action against protesters: 'Will ask students to halt movement'
-Climate activist Sonam Wangchuk expressed readiness to end his fast if the government assures no actions against protesters.
-
-## Wangchuk claims govt assured talks on Pradhan's resignation demand would be considered
-He also said the government had assured it would consider adequate compensation for the families of students who died by suicide following the ‘paper leak’.
-
-## Rahul Gandhi says Dharmendra Pradhan ‘incapable’ of being education minister; no mention of CJP in speech
-Rahul Gandhi appeared on stage wearing a black band on his right arm, in line with the Opposition's all-black appearance in Parliament today.
-
-## Onion prices in Maharashtra below production cost, govt tells Lok Sabha
-Several farmer associations have been demanding procurement at ₹3,000 per 100 kg or compensation for the gap
-
-## Abhijeet Bhattacharya questions Neha Kakkar’s Rs 1 cr fee claim: ‘Where’s she now?’
+## Ketan Agarwal murder: Eyewitness accounts helping reconstruct sequence of events, say police
 
 
-## Hema Malini reveals Dharmendra’s last message about family: Why it matters
+## ‘I didn’t react to Natasha’: Anita Hassanandani on changing her name briefly
 
 
-## US military confirms 3rd soldier killed in Iran-linked attack in Jordan, death toll hits 18
+## Why Malayalam cinema’s ‘ethereal beauty’ Suparna Anand quit industry just after 3 years
 
 
-## Today News Headlines for School Assembly, July 23, 2026: Union ministers have fresh round of talks with CJP as Jantar Mantar sees regrouping of crowd
+## ‘Just don’t ask me about politics’: How an Indonesian epic warns against staying silent
 
 
-## ‘South cinema wants its villains from Hindi cinema’: Bobby Deol on Jana Nayagan
+## Bengaluru suitcase murder: Debt-ridden neighbour kills elderly woman for gold
 
 
-## Shreyas Iyer on India’s Ireland lessons: ‘We got a reality check’
+## The day Avinash Sable made Kenya look over its shoulder
 
 
-## Everything Samsung announced at its big London event: Wider Fold 8, New Watch Ultra 2, and more
+## Delhi’s protests spawn Congress vs BJP street battles in several cities
 
 
-## Adobe integration with WhatsApp lets you edit PDFs without leaving messaging platform
+## Anurag Kashyap distances himself from Bandar, says criticism was ‘valid’: ‘Not my final cut’
 
 
 ## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
@@ -156,6 +156,9 @@ Investors are looking ahead to an economic policy gathering convened by China’
 ## China-dominated central bank digital currency platform touts largest transactions to date
 A leading Chinese bank has processed the largest cross-border transactions yet via mBridge, a multilateral central bank digital currency (CBDC) platform, marking a major milestone for the emerging payment network as well as Beijing’s global yuan ambitions. Two transactions, worth more than US$1.7 bi
 
+## Yemen’s Unsteady Stalemate
+As violence rises, both sides seek to increase their leverage without returning to war.
+
 ## China Pitches Its AI Leadership to the World
 A new organization includes five Southeast Asian members.
 
@@ -177,8 +180,17 @@ An arms show in Paris shows how global backlash is forcing the country’s boomi
 ## The Iran Expert Trump Fired
 Nate Swanson on the U.S. president’s unique top-down style—and his fondness for lobbying.
 
-## The Aspen Security Forum Is the Land Time Forgot
-This year’s conference could have been held in 2003, 2008, or 2011.
+## Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem
+To build a real “drone shield,” Taiwan cannot merely export hardware or components.
+
+## Amnesty: Deadly Pakistan Air Strikes on Kabul Drug Rehab Center a Possible War Crime
+The human rights organization’s new report found “no evidence of Pakistan’s claims” that the site hit on March 16 was a military target.
+
+## The Limits – and Dangers – of the China-Russia Partnership
+Insights from Mathieu Boulègue.
+
+## America Can’t Win the AI Race Behind Closed Doors
+With China’s latest launch of frontier model Kimi K3, the U.S. must also focus on open source AI.
 
 ## Security Issues Are Overshadowing Kashmir’s Worsening Climate Crisis
 Kashmir's mountains are going to keep getting hotter whether anyone notices or not.
@@ -191,18 +203,6 @@ Much of the world still views Myanmar through a narrow diplomatic lens that cann
 
 ## China’s Live-Fire Drill Near Okinotorishima Tests Japan’s Maritime Nerves
 The exercise highlights growing China-Russia naval interoperability while exposing competing interpretations of maritime law.
-
-## UNCCD Executive Secretary Yasmine Fouad on Mongolia, Desertification, and COP17
-COP17, which will be hosted by Mongolia in August, “comes at a pivotal moment for global action on land.”
-
-## ‘There Is Zero Accountability’: India’s ‘Cockroaches’ Question Modi and a Broken System
-The Cockroach Janata Party is leading a youth-heavy protest movement that embodies the public anger with the BJP.
-
-## How China Is Aiding Kazakh Efforts to Become Hyper Modern
-As Kazakhstan pushes forward to become a leading tech hub in the region, China continues to prove itself a crucial partner.
-
-## China’s Arctic Comeback
-Many of China’s initial, ambitious Arctic objectives collided with political and logistical realities. Now Beijing is testing out an “Arctic 2.0” strategy.
 
 ## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
 In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## French model recruiter with close ties to Jeffrey Epstein found dead
+Under investigation in France, Daniel Siad was accused of helping Epstein to traffic and abuse women.
+
+## Why Traore has opened a new front with Burkina Faso’s Muslim community
+New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.
+
+## Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?
+Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.
+
+## Nearly 1,000 people have died from Ebola in DR Congo
+According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.
+
+## Open AI says its AI model “went rogue”: What do we know?
+The system hacked into another company without being prompted by a human.
+
+## UK’s Miliband, Streeting: What are their foreign policy, defence records?
+Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.
+
 ## Israeli strike leaves two Palestinians burnt beyond recognition
 An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.
 
 ## The Indian football tournament where goats replace trophies
 GOATs are not players, but prizes at this football tournament in eastern India.
-
-## English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal
-Allegations of spying on rivals led to Southampton's expulsion from the Championship playoff final.
-
-## ‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’
-‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’
-
-## ‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’
-Lebanese army deploys into southern Lebanon's Zawtar al-Gharbiya as implementation of US-brokered framework deal begins.
-
-## Zelenskyy replaces Ukraine’s commander-in-chief after days of protests
-Zelenskyy replaces Ukraine’s commander-in-chief after days of protests
-
-## Settlers attack Palestinian towns in occupied West Bank
-Settlers attack Palestinian towns in Occupied West Bank
-
-## Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?
-About 6 million barrels of crude per day that pass through the strait to Asia are now at risk, experts say.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
