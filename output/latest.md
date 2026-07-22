@@ -1,31 +1,31 @@
 # AION Intelligence
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Segro board signals it would back £14bn takeover after battle with US bidder
+Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
 
-## Streeting refuses to commit to 3% defence spending ambition
-Previous defence minister resigned after warning current spending plan was not enough to keep UK safe
+## Vale shareholders elect new chair following governance dispute
+Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote
 
-## OpenAI admits AI ‘agent’ caused major cyber breach by itself
-AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face
+## Pakistan seeks $10bn US facility to shore up reserves
+Country seeks to gain from its role mediating between Washington and Tehran
 
-## Trump threatens tit-for-tat strikes on Iranian infrastructure
-US president’s warning marks latest attempts to assert American control over the Strait of Hormuz
+## EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid
+Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover
 
-## Can ‘Brand Burnham’ survive the move to Number 10?
-The new prime minister looks to be continuing the everyman style cultivated as mayor of Greater Manchester
-
-## NHS England adds caveat to pro-Palantir data after watchdog probe
-Regulator urges health service to ensure communications about benefits are ‘clearly and appropriately labelled’
-
-## Mercedes risks US sales ban under Senate China bill
-Commerce panel to vote on legislation barring companies with significant Chinese ownership from US market
-
-## Germany to buy stakes in defence start-ups
-Measure is one of more than 150 designed to boost funding for start-ups in Europe’s largest economy
+## The battle over America’s War Powers Act
+Trump, like Nixon before him, believes Congress should not constrain his belligerence
 
 ## The Lucid dream can continue on a bed of Saudi money
 With Riyadh’s backing, the electric-car maker could get through this crunch period
+
+## The deed thieves targeting New York brownstones
+As property values rise, more titles are being stolen from homeowners without their knowledge
+
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
+
+## European gas prices approach Iran war highs as traders fret over winter supplies
+Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
 
 ## Clifford Chance partners paid record £2.3mn despite US slowdown
 Asian IPOs lead revenue growth as ‘magic circle’ firm expands Wall Street presence
@@ -33,32 +33,41 @@ Asian IPOs lead revenue growth as ‘magic circle’ firm expands Wall Street pr
 ## Southern Water and ex-CEO face criminal charges over wastewater tests
 Matthew Wright faces fraud allegations in Environment Agency’s first charges against a water boss
 
-## Philip Morris International cuts guidance as rivals squeeze Zyn
-Tobacco group lowers outlook for third time this year as currency swings and US pouch competition slow momentum
+## Streeting refuses to commit to 3% defence spending ambition
+Previous defence minister resigned after warning current spending plan was not enough to keep UK safe
 
-## Letters to the Editor dated July 22, 2026
+## US tariff threat drags Nifty Pharma 1.3% lower at close; Lupin, PPL Pharma lead decline
+Only two of the index’s 20 constituents ended in positive territory, while 18 declined
+
+## Lower area under arhar in India’s Karnataka unlikely to be offset elsewhere
+This is despite higher coverage in U.P., Telangana and Andhra; Maharashtra and M.P. report double-digit decline
+
+## Nestle India Q1 results: Consolidated net profit surges 48% to ₹959 crore
+Consolidated revenue from operations increased 25.16% year-on-year to ₹6,378.18 crore.
+
+## India’s road to AI leadership
 
 
-## DailyObjects eyes ₹400 cr revenue in FY27, plans 150 stores over five years
-DailyObjects is also looking at international expansion, with the US emerging as an early focus market, says CEO
+## Mumbaikars gather in hordes in people-led march
+Mothers who had joined in the march condemned the government for turning a deaf ears on the children’s demands
 
-## 19-year-old student faces near-certain vision loss after pellet injury at Delhi protest
-Sahil is a final-year student at the School of Open Learning
+## Rain deficit shrinks to 21 % as wet spell intensifies in West, North-West
+Central India (deficit of 13 per cent) and North-West India (18 per cent) emerge as best-performing regions this week
 
-## NABARD signs MoU with MAHAPREIT to promote green infra in rural India
-It will have a special focus on strengthening villages, Panchayati Raj Institutions and community-level infrastructure in Maharashtra.
+## ‘Seriously evaluating very large renewable energy sites’: Adani Green after success in Gujarat’s Khavda
+Total income during the quarter rose 16% year-on-year to ₹4,663 crore, while revenue from power supply increased 29% to ₹4,280 crore
 
-## ‘Don’t waste our time’: CJI Kant declines to take cognisance of alleged police violence during CJP’s Parliament march
-The Chief Justice’s reported remark on “cockroach” in reference to fake law degree holders during the hearing of a writ petition on May 15 spawned public furore and a viral online platform, the Cockroach Janta Party
+## India’s April-June LPG imports lowest in 8 years
+LPG imports fell 45% year-on-year to 2.85 million tonnes in the April-June quarter, the lowest for the period in eight years, as disruptions in the Strait of Hormuz curbed supplies.
 
-## Eternal’s consolidated net profit soars to ₹92 crore, NOV jumps by 56 per cent
-The company said that 200 net new dark stores were added during the quarter taking the total count to 2,443. Meanwhile, District’s NOV growth accelerated to 60 per cent year-on-year to Rs ₹3,218 crore
+## Trump's 25% tariff hits Brazil: Trade tensions deepen as billions in exports at risk
 
-## Q1 Results Highlights: Eternal logs ₹92 cr profit in Q1, Nestlé, Adani Power, Adani Green & SRF PAT rise, HPCL, Dr Reddy's Lab profit tumbles
-Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
 
-## J&K policeman shot dead in Anantnag, first such attack since Pahalgam attack
-The incident occurred two days after Chief Minister Omar Abdullah led a protest in New Delhi demanding the restoration of statehood.
+## 'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai
+Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhan
+
+## Trump's 200% tariff plan may be a bitter pill for US consumers; Dr Reddy's warns of costlier medicines
+The United States plans significant tariffs on imported generic medicines. These duties will rise to 200% in the coming years. Dr Reddy's Laboratories anticipates higher medicine prices for American consumers. Shifting manufacturing to the US is currently considered impractical by the company. India
 
 ## US stock market today: Wall Street drifts in mixed trading; oil prices rise another 3%
 The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost 
@@ -75,14 +84,11 @@ Pakistan secured approximately twenty-seven billion dollars in foreign funding l
 ## Universal provident fund scheme: How PF for gig workers, self-employed could work & why it would be a game-changer
 The proposed framework aims to allow unorganised sector workers and self-employed to set aside a portion of their income for deposits under a universal provident fund scheme which will earn regular interest on par with the existing EPFO scheme.
 
-## Stock market today: Sensex closes 715 points lower; Nifty ends below 24,000
+## Uttarakhand: Nursing aspirant consumes phenyl during protest in Dehradun
+The nursing aspirants were protesting outside health minister Subodh Uniyal’s residence, demanding year-wise recruitment and other pending demands.
 
-
-## Boiling point? Brent crude touches five week high, here’s what analysts expect next for oil markets
-Oil prices are climbing as geopolitical tensions between the US and Iran intensify. Analysts expect crude prices to remain within a specific range for now. Current market prices do not indicate a major structural disruption to global oil supplies. Investors are also closely monitoring upcoming crude
-
-## Why did the stock market crash today? BSE Sensex ends over 700 points down, Nifty50 below 24,000; top reasons for fall
-Pharmaceutical stocks were among the biggest drags on the market after Trump announced a phased tariff framework for imported generic medicines, giving drugmakers a two-year transition period before higher duties come into force.
+## Govt responds to Rahul Gandhi's 150+ paper leaks claim, questions ‘selective outrage’
+JP Nadda also listed cases of paper leaks and exam irregularities in Opposition-ruled states and questioned Rahul Gandhi's “selective” outrage.
 
 ## Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
 Hazare also raised concerns over reports of 22 students dying by suicide following the cancellation of the medical entrance exam.
@@ -102,34 +108,28 @@ AIU urges educational institutions to counsel students to prioritize their studi
 ## Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
 Activist Sonam Wangchuk will end his hunger strike if the government assures no legal action against young protesters advocating for education reform.
 
-## Bengal: Toxic gases slow rescue ops in South Sikkim tunnel blast, toll reaches 13
-Rescuers battled methane, carbon monoxide, mud and darkness as the death toll in the south Sikkim tunnel explosion rose to 13, with 12 workers still missing.
-
-## Who was Aashiq Hussain Qureshi? Victim of first terror attack in J&K since Pahalgam killings
-Wednesday's terror attack is the first terror incident since the Pahalgam attack in 2025, which killed 26 tourists.
-
-## Ketan Agarwal murder: Eyewitness accounts helping reconstruct sequence of events, say police
+## Artefacts from Sanskriti Museum find a new home at Sunder Nursery
 
 
-## ‘I didn’t react to Natasha’: Anita Hassanandani on changing her name briefly
+## Opposition misleading students, trying to create anarchy: Yogi targets Rahul, Akhikesh
 
 
-## Why Malayalam cinema’s ‘ethereal beauty’ Suparna Anand quit industry just after 3 years
+## ‘Looking forward to returning to India’: Lalit Modi after Tribunal clears him in FEMA violation case
 
 
-## ‘Just don’t ask me about politics’: How an Indonesian epic warns against staying silent
+## Young Edge | Beyond NEET demands, Pune students debate Jantar Mantar protest
 
 
-## Bengaluru suitcase murder: Debt-ridden neighbour kills elderly woman for gold
+## Congress accuses MP minister Kailash Vijayvargiya of calling student protesters ‘insects’, ‘traitors’; he denies
 
 
-## The day Avinash Sable made Kenya look over its shoulder
+## ‘Rahul Gandhi misleading youth’: Gujarat BJP calls out Congress on stir outside PM’s house
 
 
-## Delhi’s protests spawn Congress vs BJP street battles in several cities
+## Foreign investment revival signals confidence in Indian economy: RBI’s State of the Economy article
 
 
-## Anurag Kashyap distances himself from Bandar, says criticism was ‘valid’: ‘Not my final cut’
+## Ladakh delegation says blocked from meeting Sonam Wangchuk
 
 
 ## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## French model recruiter with close ties to Jeffrey Epstein found dead
-Under investigation in France, Daniel Siad was accused of helping Epstein to traffic and abuse women.
+## Iran’s judiciary warns against ‘infiltrators’, announces new executions
+Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.
 
-## Why Traore has opened a new front with Burkina Faso’s Muslim community
-New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.
+## ‘Justice for Lorenzo’ protests disrupt Houston council meeting
+Protesters shouted ‘Justice for Lorenzo’ at a Houston, Texas, city council meeting on Tuesday after an ICE shooting.
 
-## Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?
-Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.
+## War on Iran: Hegseth wants $70B more to keep fighting
+Iran activated air defence systems across Tehran on the 11th night of US strikes.
 
-## Nearly 1,000 people have died from Ebola in DR Congo
-According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.
+## Proposed US-Saudi nuclear energy deal: What we know so far
+Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.
 
-## Open AI says its AI model “went rogue”: What do we know?
-The system hacked into another company without being prompted by a human.
+## Why are billionaires growing richer than ever?
+Billionaires are on the rise as the rest struggle with inequality, poverty and cost of living crisis.
 
-## UK’s Miliband, Streeting: What are their foreign policy, defence records?
-Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.
+## From towns to zones: Why Israel gives military names to civilian areas
+Israeli authorities are increasingly applying security terminology for residential areas where people live.
 
-## Israeli strike leaves two Palestinians burnt beyond recognition
-An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.
+## Elon and the Other Gaza
+How the world's richest man helped trigger an HIV crisis in one of the world's poorest countries.
 
-## The Indian football tournament where goats replace trophies
-GOATs are not players, but prizes at this football tournament in eastern India.
+## Trump threatens to bomb Iranian bridges, power plants over ship attacks
+Iranian official says Tehran would retaliate by targeting 'energy facilities in which the United States has interests'.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
