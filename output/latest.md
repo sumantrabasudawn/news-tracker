@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Trump plans 100% tariffs on generic drugs in 2028
+Latest trade measure intended to push companies towards manufacturing medications in the US
+
+## OpenAI admits an AI ‘agent’ caused a major cyber breach by itself
+AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face
+
+## Trump taps Big Tech critic as chief of DoJ antitrust division
+Adam Candeub authored a Project 2025 chapter calling for a sweeping shake-up of US competition enforcement
+
+## Japan’s trains are getting much faster as moonshot policy takes hold
+505km per hour rail project has taken on symbolic importance
+
+## MPs call on Burnham to extend employer tax break for under-25s
+New prime minister has pledged to help jobless young people find work
+
 ## Trump reinstates direct US flights to Lebanon after meeting its president
 US leader declines to put a timeline on an Israeli withdrawal from the Middle East nation
 
@@ -9,35 +24,14 @@ Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remain
 ## Zelenskyy replaces top Ukraine general after mass protests
 President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv’s military leadership
 
-## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies
-AMG shares tumble after officials question explosive growth of tax-loss harvesting investment techniques
-
-## New prime minister’s ‘Number 10 North’ is already up and running
-Government intends Manchester office to be ‘engine room of devolution and good growth in every postcode’
-
-## Saudi tankers reverse course after Houthi threats
-At least four vessels make U-turns after warnings from Yemeni rebels, as fresh threat emerges to Red Sea shipping
-
-## The EU needs to hold together on Russia sanctions
-Cost of trying to protect domestic interests may be to embolden Moscow
-
-## Ann Widdecombe died after being ‘struck 21 times with hammer’
-Prosecutors set out details of what police said was a ‘targeted attack’ on 78-year-old former minister
-
 ## Meta’s unwinding of Manus shows even forced deals have merits
 Disposal of Chinese agentic AI start-up has left the Facebook owner better off than it might seem
 
+## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies
+AMG shares tumble after officials question explosive growth of tax-loss harvesting investment techniques
+
 ## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
 Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’, says Lorenzo Mariani
-
-## Novo Nordisk sues Eli Lilly over ‘deliberately false’ weight-loss drug ads
-Danish group claims rival used outdated data to support claims that its products were more effective than Wegovy
-
-## Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks
-Shutdown of CPC pipeline could remove another 1mn barrels a day from the market
-
-## Rolls-Royce expects Airbus decision on new A350 version within a year
-UK aero-engine group could have to build bigger engine if planemaker goes ahead with larger wide-bodied jet
 
 ## Liverpool’s US owners in talks with Indian investors over stake valuing club at $6 billion: FT
 Liverpool owner Fenway Sports Group has confirmed discussions with an Amit Bhatia-led consortium, including members of the Mittal family, over a strategic minority stake
@@ -63,6 +57,9 @@ One of the transferred technologies is SHetA2, a drug candidate licensed to Emcu
 ## PLI schemes attract ₹2.4 lakh crore investments, generate over 14 lakh jobs till March
 Solar modules, pharmaceuticals and automobiles lead investments as cumulative exports cross ₹15.2 lakh crore
 
+## Trump announces 0% tariff on generic medicines for two years; 200% thereafter
+
+
 ## Centre uses 40% of annual fertiliser subsidy in first 3.5 months
 
 
@@ -84,8 +81,8 @@ Before the conflict escalated, the Strait of Hormuz, located between Iran and Om
 ## The future of flying? US speeds up plans for air taxis, supersonic planes and drones
 The FAA is updating aviation rules to encourage new technologies. It supports air taxis and supersonic passenger flights with new regulations. Pilot programs are preparing for the safe integration of electric air taxis. Companies are developing charging infrastructure for electric aircraft operation
 
-## Another oil shock loading for India? How Red Sea route disruptions may hit not only Saudi, but also Russian crude supply
-Iran-backed Yemeni group, the Houthis, have threatened a maritime blockade on Saudi Arabia. What this essentially means is that Saudi Arabia’s crude oil exports are set to be hit. And India which gets a big portion of its crude imports from the Middle East country.
+## 12 dead, 13 still trapped after suspected methane explosion in Sikkim tunnel; toll may rise
+The deceased included migrant workers from West Bengal, Punjab, Assam and Uttarakhand, a senior official said.
 
 ## Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
 Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
@@ -108,32 +105,32 @@ Videos show delivery partners arriving at the protest site with orders which are
 ## Bangladesh’s pick of spokespersons in Delhi, Kolkata raise eyebrows
 Both Saidur Rahman and Umme Marufa have made derogatory social media posts about India and its government. By Tuesday, several of these posts had been deleted
 
-## Cong-CJP differences in focus as Rahul's dharna draws AAP's ‘jugalbandi’ jibe, Dipke focuses on Jantar Mantar
-Rahul Gandhi's absence from the CJP protest — while he ran his own campaign on similar issues — was back at the centre of it all.
-
-## Future of youth beyond politics, says PM Modi, calls for ‘foolproof’ exams
+## How Modi faces his first broad-based protest ever — not one by specific interest groups
 
 
-## Government signal: Ready for debate, demand for resignation political
+## 17 involved in Moga police station grenade attack case held
 
 
-## Day after, injured back at Jantar Mantar protest site: ‘Weak in body, not in resolve’
+## This is what happens to your blood sugar after recovering from viral infections
 
 
-## Government rescinds incorrect Rajya Sabha election results notification
+## Ladki Bahin scheme lesson: Maharashtra govt tightens screening before farm loan-waiver rollout
 
 
-## J&K activist, journalist all set to walk out on bail as Delhi HC refuses to stay their release in UAPA case
+## Jaishankar to meet Quad counterparts in Manila on sidelines of ASEAN meet
 
 
-## Heavy rains likely in Pune Ghats, red alert issued
+## Washout in both Houses amid Opposition uproar over paper leaks, police action
 
 
-## Gujarat in education ministry’s ‘red zone’ as secondary school dropouts surge
+## Delhi Confidential: In Solidarity
 
 
-## Delhi government to issue Smart Property Cards in 48 Lal Dora villages
+## AI law may cover agent autonomy, deepfakes
 
+
+## Hong Kong’s red-hot rental market forces students to flat-hunt as early as April
+Competition for student housing is intensifying in Hong Kong even as more accommodation comes onto the market, with mainland Chinese students beginning their search for a home months earlier than in previous years and landlords leaving flats vacant to capture the annual influx. Kenny Zhang, an agent
 
 ## What’s at stake as Beijing beats global peers with first approval of novel therapy
 China’s drug regulator has for the first time approved a novel, globally trialled medicine ahead of authorities in the United States, Japan and Europe, marking a “historic breakthrough” as the country doubles down on biopharmaceuticals as one of its growth engines. The drug was filed for market appr
@@ -155,9 +152,6 @@ Mainland Chinese shares are surging back from a sell-off amid regulatory support
 
 ## China intensifies cross-border tax scrutiny as Beijing warns against offshore dodging
 Two Chinese state media outlets warned on Monday against offshore tax evasion by calling out an incident involving a major social media platform and its Hong Kong entity, sending a message that Beijing is intensifying its scrutiny of cross-border corporate structures. The China Securities Journal, w
-
-## As BYD marks Brazil milestone, Europe weighs response to surge in Chinese EVs
-BYD has rolled out its 100,000th new-energy vehicle from its Brazilian assembly line, underscoring the growth potential for Chinese products in South America, just as electric cars fuel fresh tension in Europe. China’s largest electric vehicle (EV) producer reached the landmark on July 16, reflectin
 
 ## Trump’s China Threats Don’t Match His China Policy
 The president’s allegations about election interference are the latest case in point.
@@ -255,6 +249,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn
+Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain 'very heavily'.
+
+## US strikes Iran for ’11th consecutive night’
+Explosions reported to have been heard in northwestern Iran's Tabriz, as well as capital Tehran and southern Iran.
+
 ## Lebanese army deploys in ‘pilot zones’ under US-backed plan
 The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.
 
@@ -265,19 +265,13 @@ US report says the beleaguered government in Havana is the 'connective tissue' o
 Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.
 
 ## Zelenskyy replaces Ukraine military chief after protests
-Replaced military chief Syrskyi clashed with former Defence Minister Fedorov, whose removal last week led to protests.
+Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.
 
 ## Drone shows scorched landscape after Spain wildfire
 A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.
 
 ## US defence chief Hegseth puts Iran war cost at $37.5bn so far
 Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.
-
-## Iran holds funerals for children killed in Minab school strike
-Iran has held funerals for 32 children killed in a US strike on a school in Minab, Iran on February 28.
-
-## How will Khalil al-Hayya’s leadership shape Hamas?
-Newly named Hamas leader al-Hayya faces pressure to cede power amid Gaza's fragile ceasefire.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
