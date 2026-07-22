@@ -1,64 +1,67 @@
 # AION Intelligence
 
+## Germany to buy stakes in defence start-ups
+Measure is one of more than 150 designed to boost funding for start-ups in Europe’s largest economy
+
+## Trump threatens tit-for-tat strikes on Iranian infrastructure
+US president’s warning marks latest attempts to assert American control over the Strait of Hormuz
+
+## AMD to invest up to $5bn in Anthropic in chip deal
+AI group commits to buying tens of billions of dollars of AMD’s latest AI server chips
+
+## Burnham signals review of early-release scheme for prisoners
+New prime minister makes first intervention in area of criminal justice in England and Wales
+
+## Environment Agency launches criminal proceedings against former Southern Water CEO
+Matthew Wright among four former employees facing allegations over rigging wastewater test results
+
+## The West Country: the UK’s most dysfunctional property market
+Unsold homes are piling up as locals can’t afford to buy properties at a price that homeowners are willing to sell for
+
+## What new EU rules mean for the aviation industry
+A clever compromise avoids reigniting Brussels-Washington trade tensions
+
 ## Zelenskyy replaces top Ukraine general after mass protests
 President picks 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in military leadership
 
-## Burnham can be the failure that Britain needs
-Big government must be tested to destruction for serious reform to finally happen
+## Nestlé nears deal to sell stake in Perrier unit
+Swiss group races to agree terms with Platinum Equity for water business, whose brands include San Pellegrino
 
-## Prologis lifts Segro offer to £14bn as takeover battle intensifies
-US real estate giant’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
+## NHS England adds caveat to Palantir claims after watchdog investigation
+Regulator urges health service to ensure communications about software’s benefits are ‘clearly and appropriately labelled’
 
-## FirstFT: Where is Venezuela’s oil money?
-Also in today’s newsletter: OpenAI ‘agent’ escapes testing and hacks into start-up, and Ukraine’s military shake-up
+## European gas prices approach Iran war highs as traders fret over winter supplies
+Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
 
-## US start-up wins EU approval for sight-restoring bionic eye
-Decision will allow Science Corp to treat patients with retina implants in coming months
+## Deutsche Bank headquarters raided for third time this year
+Latest search threatens to detract from efforts to rehabilitate German lender
 
-## Japan’s cup noodle pioneer gives cold shoulder to boiling water
-Nissin launches two instant Cup Noodle varieties in Japan that do not require putting the kettle on
+## Liquid cooling to see fastest adoption among neoclouds and sovereign AI projects: Dell
+Dell Technologies India, discuss the company’s AI strategy, enterprise adoption trends and India’s growing role in the AI infrastructure landscape.
 
-## Jesse Livermore’s life in the pink pages
-How the FT covered the Great Bear of Wall Street
+## RBI draft foreign investment rules may reshape deal structures, speed policy implementation
+Proposed framework could reduce delays in implementing FDI reforms while changing how downstream investments and shareholder rights are assessed, experts said
 
-## Cutting VAT from energy bills is a painkiller, not a cure
-Fighting cost-of-living pressures this way may symbolise change but it cannot be a long-term solution
+## Punjab introduces AI as main subject from Class 1-12
+Punjab becomes first state in India to do so
 
-## Citadel Securities opens Amsterdam options trading office
-Market maker is the latest to establish presence in Dutch capital as it expands European push for equity derivatives hub
+## Insurance distribution reforms must preserve commercial viability of intermediaries: IBAI President Narendra Kumar Bharindwal
+Insurance Brokers Association of India (IBAI) celebrates 25 years of contribution to the insurance industry this week
 
-## US food illnesses climb as authorities struggle to identify source
-Thousands have been sickened in an outbreak centred in the Midwest and believed to be tied to a parasite found on lettuce
+## Titagarh-Ramkrishna Forgings set to start forged railway wheel production in August
+The plant will end Indian Railways’ decades-long dependence on imported forged wheels
 
-## Lloyd’s says ex-CEO failed to disclose ‘close’ relationship with employee
-Insurance market says John Neal’s behaviour fell ‘significantly below the standards expected’
+## Mahindra Holidays posts ₹8.6 crore loss on higher expenses
+Overall revenue grew 5 per cent year on year to ₹740.2 crore led by domestic business
 
-## Wetherspoons issues fourth profit warning this year
-Pub chain hit by weak sales and cost rises
+## Zen Tech gets ₹177.5 cr worth order for upgradation & integration of T-90 tank simulators
+The order from Ministry of Defence is for the upgradation and integration of T-90 tank’s driving and crew gunnery simulators, said Hyderabad-based Zen Technologies
 
-## Brent crude above $95 drags Nifty below 24,000 for third straight session
-Realty, media, PSU banks and pharma led the sell-off, while auto and FMCG bucked the trend on strong earnings from Bajaj Auto and Nestlé India
+## India’s edible oil import bill up 20% in first 8 months
+Shipments likely to touch ₹1.75 lakh crore in 2025-26 oil year
 
-## IMD Update: Active monsoon to bring heavy rain in coastal districts of Bengal
-Coastal districts of North and South 24 Parganas and Purba Medinipur to receive heavy rainfall till July 24, IMD says
-
-## US tariff threat drags Nifty Pharma 1.3% lower at close; Lupin, PPL Pharma lead decline
-Only two of the index’s 20 constituents ended in positive territory, while 18 declined
-
-## JSW Energy Q1 profit falls 36% to ₹533 cr on higher depreciation, finance costs
-Moderation in revenue growth was largely due to a decline in thermal business revenue
-
-## Capacity addition, higher energy sales lift Adani Green Energy Q1FY27 profit by 19% to ₹983 crore
-Total income during the quarter rose 16% year-on-year to ₹4,663 crore, while revenue from power supply increased 29% to ₹4,280 crore
-
-## Q1 Results LIVE: Eternal logs ₹92 cr profit in Q1, Nestlé, Adani Power, Adani Green & SRF PAT rise, Dr Reddy's Lab profit tumbles, NTPC Green, HPCL, IndusInd to announce Q1 results today
-Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
-
-## Higher power demand, volumes lift Adani Power FY27 Q1 profit by 42%
-Company’s revenue from operations also increased 34 percent year-on-year to ₹18,902 crore during the quarter
-
-## Aye Finance posts 144% profit jump in Q1 FY27
-Aye Finance shares fall despite strong quarterly results
+## BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins
+Bharat Petroleum Corporation Ltd reported a significant net loss for the April-June quarter. Elevated crude oil prices and regulated fuel rates severely impacted marketing margins. The company incurred substantial LPG under-recoveries and unpaid subsidy dues. Revenue from operations increased, but t
 
 ## 'We literally have the paper': US says India trade deal could be signed in months
 A significant India-US trade agreement is expected within three to four months. Negotiations are nearly finalized, with the text effectively complete and ready for signing. The primary remaining hurdle involves ongoing US trade investigations, not bilateral disagreements. Washington's Section 301 pr
@@ -81,56 +84,59 @@ Pharmaceutical stocks were among the biggest drags on the market after Trump ann
 ## Donald Trump’s 200% tariffs on pharma: Why India’s generic medicines could still remain competitive
 US President Donald Trump on Tuesday announced the final stage of his pharmaceutical tariff plan, under which imported generic medicines will continue to enter the US without duties until August 1, 2028.
 
-## 'Discussed trade, tariffs & critical minerals': Jaishankar meets Rubio in Manila
+## Bengal: Toxic gases slow rescue ops in South Sikkim tunnel blast, toll reaches 13
+Rescuers battled methane, carbon monoxide, mud and darkness as the death toll in the south Sikkim tunnel explosion rose to 13, with 12 workers still missing.
+
+## Who was Aashiq Hussain Qureshi? Victim of first terror attack in J&K since Pahalgam killings
+Wednesday's terror attack is the first terror incident since the Pahalgam attack in 2025, which killed 26 tourists.
+
+## Unknown persons blow up PMGSY bridge in Manipur’s Kamjong; probe underway: Cops
+In another incident, a four-wheeler telecom vehicle parked on the bank of Namban Lok River was also set on fire
+
+## In Goa, FIR filed over candlelight march in support of Cockroach Janta Party
+State BJP vice president Narendra Sawaikar was criticised after referring to protesters as “not just cockroaches also termites
+
+## Sonam Wangchuk ready to end fast if govt assures no action against protesters: 'Will ask students to halt movement'
+Climate activist Sonam Wangchuk expressed readiness to end his fast if the government assures no actions against protesters.
+
+## Wangchuk claims govt assured talks on Pradhan's resignation demand would be considered
+He also said the government had assured it would consider adequate compensation for the families of students who died by suicide following the ‘paper leak’.
+
+## Rahul Gandhi says Dharmendra Pradhan ‘incapable’ of being education minister; no mention of CJP in speech
+Rahul Gandhi appeared on stage wearing a black band on his right arm, in line with the Opposition's all-black appearance in Parliament today.
+
+## Onion prices in Maharashtra below production cost, govt tells Lok Sabha
+Several farmer associations have been demanding procurement at ₹3,000 per 100 kg or compensation for the gap
+
+## Abhijeet Bhattacharya questions Neha Kakkar’s Rs 1 cr fee claim: ‘Where’s she now?’
 
 
-## Donald Trump administration's 10% tariff on most Indian goods expires on July 24: What happens after that?
-Possible outcomes: Tariffs could remain the same; rates could change depending on US investigations under Section 301; US could opt for a different instrument.
-
-## 'Huge security breach': Kangana Ranaut attacks Rahul Gandhi over protest near PM Modi's residence
-Responding to the Congress' demand for PM Modi's resignation over the alleged NEET paper leak issue, Ranaut defended the Centre's handling of the matter.
-
-## NHAI issues policy circular on monitoring social media platforms over complaints
-A key provision of the policy states citizens posting actionable complaints on social media are to be directed to the Rajmargyatra app
-
-## Lalit Modi looks forward to India return after tribunal quashes ED penalties
-"I am really looking forward to returning to India after a long long time. Stay well and stay safe," Lalit Modi posted on X.
-
-## Govt ready to discuss NEET paper leak; CJP won't go to 'anyone's house or office': What is happening?
-CJP declines JP Nadda's invitation for dialogue at his residence, insisting talks should happen directly at Jantar Mantar or a nearby neutral location.
-
-## Why was TMC's Kalyan Banerjee suspended from Lok Sabha for rest of Monsoon Session?
-Action comes days after Kakoli Ghosh Dastidar and other breakaway TMC MPs got separate seats, weeks after she accused Banerjee of misogynistic conduct.
-
-## Uttarakhand to establish Sanskrit commission, seeks suggestions
-The state government has invited suggestions from Sanskrit scholars, teachers, researchers, universities, and institutions by August 10
-
-## 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
-The court said the material must be preserved in accordance with the SOP issued by the Delhi Police or the Union government.
-
-## Pune railway station gets AI upgrade: 160 CCTV cameras to watch over passengers
+## Hema Malini reveals Dharmendra’s last message about family: Why it matters
 
 
-## ‘Shilpa Shetty hasn’t taken a single penny home from Bastian’: Raj Kundra on restaurant chain
+## US military confirms 3rd soldier killed in Iran-linked attack in Jordan, death toll hits 18
 
 
-## 13 years after fatal crash, Gauhati High Court hikes payout to driver’s family to Rs 8.43 lakh
+## Today News Headlines for School Assembly, July 23, 2026: Union ministers have fresh round of talks with CJP as Jantar Mantar sees regrouping of crowd
 
 
-## ‘It felt right’: Delivery workers find purpose amid CJP protest
+## ‘South cinema wants its villains from Hindi cinema’: Bobby Deol on Jana Nayagan
 
 
-## The story behind Sridevi’s Lamhe costume: ‘Something that looked very Rajasthani’
+## Shreyas Iyer on India’s Ireland lessons: ‘We got a reality check’
 
 
-## Commonwealth Games 2026: Live Streaming, India’s full schedule, top medal contenders & full squad for Glasgow
+## Everything Samsung announced at its big London event: Wider Fold 8, New Watch Ultra 2, and more
 
 
-## ‘Could be your family tomorrow’: Vismaya Mohanlal, Tovino Thomas support CJP protests
+## Adobe integration with WhatsApp lets you edit PDFs without leaving messaging platform
 
 
-## Rahul Gandhi, Opposition are amplifying youth concerns. BJP government is stifling them
+## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
+Despite Washington’s move to tighten policy on pharmaceutical trade with a fresh threat of 100 per cent tariffs on generic drug imports, analysts say China’s pharmaceutical rise is now tariff-proof, making its ascent in the global supply chain look irreversible. US President Donald Trump announced p
 
+## Despite regulatory crackdown, Chinese investors look to Hong Kong, US to diversify
+Around half of Chinese investors with assets over 1 million yuan (US$147,703) plan to increase their investments in Hong Kong and the United States over the next 12 months to diversify their portfolios, despite Beijing’s crackdown on cross-border brokerages, according to a new survey. The findings c
 
 ## China targets panda bond reform, mandates global credit mapping to lure foreign capital
 Chinese regulators moved on Tuesday to improve the quality of credit ratings for panda bonds – a yuan-denominated asset class that has seen a surge in interest from foreign sovereign and institutional investors this year as a key tool to bolster Beijing’s yuan-internationalisation push. Credit-ratin
@@ -149,12 +155,6 @@ Investors are looking ahead to an economic policy gathering convened by China’
 
 ## China-dominated central bank digital currency platform touts largest transactions to date
 A leading Chinese bank has processed the largest cross-border transactions yet via mBridge, a multilateral central bank digital currency (CBDC) platform, marking a major milestone for the emerging payment network as well as Beijing’s global yuan ambitions. Two transactions, worth more than US$1.7 bi
-
-## Foreign carmakers lose more traction in China as luxury stronghold erodes
-International luxury car brands from Mercedes-Benz to Land Rover took a further beating in China last month as wealthy consumers continued to shun expensive petrol-powered vehicles. Struggling against competition from China’s rising electric vehicle (EV) powerhouses, international marques would find
-
-## Hong Kong tipped to approve hedge fund tax breaks, attracting investment, talent
-Hong Kong’s determination to boost its role as a global wealth management hub has raised market expectations that the city will approve a bill offering tax relief to hedge funds this year. Speaking at a media briefing on Tuesday, Sandy Fung, KPMG China’s partner of tax and alternative investments, s
 
 ## China Pitches Its AI Leadership to the World
 A new organization includes five Southeast Asian members.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach
-Italy's football federation chief holds talks with Guardiola over vacant role, but appointment not yet confirmed.
+## Israeli strike leaves two Palestinians burnt beyond recognition
+An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.
 
-## Syrian people must not be failed again
-Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.
+## The Indian football tournament where goats replace trophies
+GOATs are not players, but prizes at this football tournament in eastern India.
 
-## Trump ally Andy Biggs wins Republican nomination for Arizona governor
-Biggs overwhelmingly defeats David Schweikert and will now face Democratic Governor Katie Hobbs in November.
+## English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal
+Allegations of spying on rivals led to Southampton's expulsion from the Championship playoff final.
 
-## US Secretary of State say Iran is in ‘a lot of trouble’
-US Secretary of State say Iran is in ‘a lot of trouble’
+## ‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’
+‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’
 
-## Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia
-Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.
+## ‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’
+Lebanese army deploys into southern Lebanon's Zawtar al-Gharbiya as implementation of US-brokered framework deal begins.
 
-## Austria turns Adolf Hitler’s birthplace into police station
-Austrian politicians hope the change will prevent neo-Nazis from visiting the building as a place of pilgrimage.
+## Zelenskyy replaces Ukraine’s commander-in-chief after days of protests
+Zelenskyy replaces Ukraine’s commander-in-chief after days of protests
 
-## Lebanese army deployed in ‘pilot zone’ as families wait to return home
-Lebanese army deployed in ‘pilot zone’ as families wait to return home
+## Settlers attack Palestinian towns in occupied West Bank
+Settlers attack Palestinian towns in Occupied West Bank
 
-## Graphic evidence shown as D4vd murder hearing begins
-Hearing in singer D4vd's murder case begins.
+## Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?
+About 6 million barrels of crude per day that pass through the strait to Asia are now at risk, experts say.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
