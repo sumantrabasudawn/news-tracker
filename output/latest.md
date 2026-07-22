@@ -1,31 +1,28 @@
 # AION Intelligence
 
+## Google reports $6bn cash burn last quarter as it raises AI spending again
+Search giant says it will commit up to $205bn to AI investments in 2026
+
+## US and Saudi Arabia agree landmark nuclear energy pact
+Critics warn agreement lacks safeguards to prevent future uranium enrichment and reprocessing
+
+## Uber founder Travis Kalanick raises $1.7bn for new start-up
+Andreessen Horowitz and the riding hailing group join funding round
+
+## OpenAI hacking incident exposes mounting risks in AI arms race
+Increasing use of aggressive training techniques sharpens threat of bad behaviour by leading models
+
+## FirstFT: Google burned through cash last quarter amid AI infrastructure splurge
+Also in today’s newsletter: OpenAI ‘agent’ hacks into start-up and India’s Gen Z takes on Modi
+
+## Russian gas cargoes to remain exempt as EU nears new sanctions deal
+Groups such as Greece’s Dynagas will be allowed to continue carrying Russian LNG
+
 ## Tesla profits plunge as discounts on EV models weigh on results
 Capital expenditures more than doubled as company accelerates pivot to semiconductors, autonomous taxis and humanoid robots
 
-## Google reports $6bn cash burn last quarter as it raises AI spending again
-Search giant says it will commit up to $205bn on AI investments in 2026
-
-## US and Saudi Arabia agree landmark nuclear energy pact
-Washington says deal would pave the way for ‘decades-long, multibillion-dollar partnership’
-
 ## Taiwan’s drone ambitions play to its tech manufacturing strengths
 Scaling up brings economies of scale, and the island is taking another lesson from China’s playbook: dual-use technology
-
-## Vale shareholders elect new chair following governance dispute
-Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote
-
-## Mercedes risks US sales ban under Senate China bill
-Commerce panel approves legislation barring companies with significant Chinese ownership from US market
-
-## Trump threatens to destroy Iranian bridges and power plants
-US president’s warning marks latest attempts to assert American control over Strait of Hormuz
-
-## Segro board signals it would back £14bn takeover after battle with US bidder
-Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
-
-## Aston Martin strikes £550mn debt deal despite creditor objections
-Cash-strapped carmaker defies lenders who branded transaction with BlackRock-owned HPS as ‘extraordinary’
 
 ## Scientists discover strange Milky Way planetary system unlike our solar system
 The unusual planetary system, 71 light-years from Earth, is unlike anything previously observed in the Milky Way
@@ -51,6 +48,15 @@ Mothers who had joined in the march condemned the government for turning a deaf 
 ## Rain deficit shrinks to 21 % as wet spell intensifies in West, North-West
 Central India (deficit of 13 per cent) and North-West India (18 per cent) emerge as best-performing regions this week
 
+## Q1 bank credit flow surges 10x as market mop-up collapses
+
+
+## Improving liquidity helping robust growth in credit: RBI
+India's economy shows resilience amid global uncertainties and fragile geopolitics. Liquidity conditions have improved, supporting robust credit growth across the nation. The external sector remains steady, with foreign investment inflows strengthening its outlook. Rural and urban demand conditions 
+
+## Pharma companies in a flux over Trump's 200% tariff move on generics
+2-year window, P 15
+
 ## Temasek widens scope of India investments
 Temasek is broadening its Indian investment focus beyond traditional sectors. The investor will now target industrials and artificial intelligence opportunities. Its India portfolio has grown significantly, reaching $42 billion by March 2026. The firm aims to double its recent capital deployment in 
 
@@ -65,15 +71,6 @@ The United States plans significant tariffs on imported generic medicines. These
 
 ## US stock market today: Wall Street drifts in mixed trading; oil prices rise another 3%
 The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost 
-
-## BPCL posts Rs 3,962 crore Q1 loss as high crude prices squeeze fuel margins
-Bharat Petroleum Corporation Ltd reported a significant net loss for the April-June quarter. Elevated crude oil prices and regulated fuel rates severely impacted marketing margins. The company incurred substantial LPG under-recoveries and unpaid subsidy dues. Revenue from operations increased, but t
-
-## 'We literally have the paper': US says India trade deal could be signed in months
-A significant India-US trade agreement is expected within three to four months. Negotiations are nearly finalized, with the text effectively complete and ready for signing. The primary remaining hurdle involves ongoing US trade investigations, not bilateral disagreements. Washington's Section 301 pr
-
-## Running on rollovers: Pakistan's reserves get $27 billion foreign loans from Saudi, China
-Pakistan secured approximately twenty-seven billion dollars in foreign funding last fiscal year. Saudi Arabia and China provided significant rollover support for existing loans. Fresh borrowing accounted for sixteen billion dollars of the total inflows. This foreign assistance primarily financed the
 
 ## ‘Don’t waste our time’: CJI declines urgent listing of police action pleas
 The lawyer cited videos purportedly showing police assaulting unarmed protesters and offered to submit videos, but the CJI declined to entertain the submission
@@ -99,7 +96,16 @@ Hazare also raised concerns over reports of 22 students dying by suicide followi
 ## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
 Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
 
-## Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the govt to fall
+## AAP sarpanch killed after being run over by car twice in Punjab’s Hoshiarpur
+
+
+## Lenders’ plan to get back money lands them in jail for ‘filmy abduction’ of a techie
+
+
+## Chennai man from Bangkok and 707 hidden exotic turtles: How Kolkata Customs officials stopped wildlife trafficking
+
+
+## Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the government to fall
 
 
 ## Chaos, frustration among commuters as 16 key Metro stations around Jantar Mantar shut
@@ -112,15 +118,6 @@ Officials seized medicines bearing names of reputed pharma companies, packaging 
 
 
 ## ‘Very serious issue’: Delhi High Court flags safety issues in HPV vaccine rollout drive
-
-
-## Amid Opposition-Government tussle, Lok Sabha disrupted for 3rd straight day
-
-
-## Ram Temple Trust forms Dharmik Committee of seers to run religious affairs, to review tie-up with SBI
-
-
-## Gold paste in shirt collars: 2 Maharashtra men held at Ahmedabad airport
 
 
 ## How China and Indonesia can build a truly sturdy partnership
@@ -147,6 +144,9 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Investors shift focus to China’s July Politburo meeting for stock-stimulus clues
 Investors are looking ahead to an economic policy gathering convened by China’s top leaders for clues on the direction of the stock market, after state intervention tentatively stabilised sentiment. The Communist Party is expected to kick off its July Politburo meeting next week, in which President 
 
+## Trump Approves Nuclear Deal With Saudi Arabia
+But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
+
 ## The Race to Contain the Fastest-Ever Ebola Outbreak
 According to the WHO, the epidemic is “outpacing” response efforts.
 
@@ -167,9 +167,6 @@ The president’s allegations about election interference are the latest case in
 
 ## Why a Hunger Strike Is Rallying India’s Youth
 Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition.
-
-## The Oil Market Is Much More Vulnerable Than Trump Believes
-Depleted reserves and changed circumstances make price spikes more likely this time around.
 
 ## The World Cup and the G2 Reality
 The international sporting event showcased American strengths. It's a reminder that both the U.S. and China should stop betting on each other’s decline.
@@ -243,29 +240,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Austrian home where Hitler was born reopened as police station
+For decades, neo-Nazis and far-right extremists flocked to the Austrian home where Adolf Hitler.
+
+## Yemen’s Houthis claim attack on two Saudi oil tankers
+Claimed attacks come days after Houthis announced naval embargo on Saudi vessels
+
+## Rubio says US, China must ‘work through’ big differences at ASEAN meeting
+Rubio met his Chinese counterpart to discuss managing tensions ahead of President Xi Jinping's upcoming US visit.
+
+## Iranian missiles show deadly precision amid US-Iran war escalation
+Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.
+
+## US launches new strikes as Iran warns of regional turmoil
+Tehran's chief negotiator says if Iran's 'security is not ensured, no infrastructure will be safe'.
+
+## Wounded Gaza journalists call for urgent medical evacuation
+Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.
+
+## US and Saudi Arabia announce nuclear cooperation deal
+Trump administration says 'historic' agreement will 'reinforce global nonproliferation standards' and create jobs in US.
+
 ## India’s Rahul Gandhi speaks out after release
 Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.
-
-## US regulators to weigh controversial peptides backed by RFK Jr
-FDA has questioned the evidence as demand surges for the compounds promoted for sleep, muscle growth, and anti-ageing.
-
-## Ukraine’s new military chief pledges to escalate retaliation against Russia
-Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.
-
-## Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘
-Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘
-
-## UN rights chief condemns Nicaragua’s decision to abolish elections
-UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.
-
-## Trump: Iran will ‘pay a big price’ for US troop deaths
-US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.
-
-## Gaza man returns home after family believed he was dead
-Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.
-
-## Water cannon deployed at India education system protests
-Indian police deployed water cannons in Raipur at student protests demanding the resignation of the education minister.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
