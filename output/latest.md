@@ -3,6 +3,18 @@
 ## Segro board signals it would back £14bn takeover after battle with US bidder
 Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
 
+## The real barrier to Africa’s solar energy boom
+Reducing the cost of capital is the only way to ensure the expansion of renewable energy across the continent
+
+## Greek tycoon’s tanker towed into Iranian waters
+Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
+
+## UK education secretary accused of misleading claim about Oxford entry
+Former Xaverian College pupils say Lucy Powell was not the ‘only one’ in her year to attend elite university
+
+## India should listen to its frustrated youth
+Gen Z protests reflect young people’s growing anxiety about their future
+
 ## Vale shareholders elect new chair following governance dispute
 Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote
 
@@ -12,35 +24,26 @@ Country seeks to gain from its role mediating between Washington and Tehran
 ## EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid
 Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover
 
-## The battle over America’s War Powers Act
-Trump, like Nixon before him, believes Congress should not constrain his belligerence
-
-## The Lucid dream can continue on a bed of Saudi money
-With Riyadh’s backing, the electric-car maker could get through this crunch period
-
-## The deed thieves targeting New York brownstones
-As property values rise, more titles are being stolen from homeowners without their knowledge
-
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Big Four’s use of offshore auditors sparks concern from UK accounting watchdog
+Financial Reporting Council says it will monitor how the largest firms manage their overseas teams for the next year
 
 ## European gas prices approach Iran war highs as traders fret over winter supplies
 Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
 
-## Clifford Chance partners paid record £2.3mn despite US slowdown
-Asian IPOs lead revenue growth as ‘magic circle’ firm expands Wall Street presence
+## The Lucid dream can continue on a bed of Saudi money
+With Riyadh’s backing, the electric-car maker could get through this crunch period
 
-## Southern Water and ex-CEO face criminal charges over wastewater tests
-Matthew Wright faces fraud allegations in Environment Agency’s first charges against a water boss
-
-## Streeting refuses to commit to 3% defence spending ambition
-Previous defence minister resigned after warning current spending plan was not enough to keep UK safe
+## Scientists discover strange Milky Way planetary system unlike our solar system
+The unusual planetary system, 71 light-years from Earth, is unlike anything previously observed in the Milky Way
 
 ## US tariff threat drags Nifty Pharma 1.3% lower at close; Lupin, PPL Pharma lead decline
 Only two of the index’s 20 constituents ended in positive territory, while 18 declined
 
 ## Lower area under arhar in India’s Karnataka unlikely to be offset elsewhere
 This is despite higher coverage in U.P., Telangana and Andhra; Maharashtra and M.P. report double-digit decline
+
+## FCNR (B) deposits: Small, mid-sized private banks reach out to GIFT City IBUs to offer leverage to NRIs
+This initiative aims to provide non-resident Indian (NRI) customers with access to leverage, enabling them to place higher deposits with tenors of 3-5 years.
 
 ## Nestle India Q1 results: Consolidated net profit surges 48% to ₹959 crore
 Consolidated revenue from operations increased 25.16% year-on-year to ₹6,378.18 crore.
@@ -54,11 +57,8 @@ Mothers who had joined in the march condemned the government for turning a deaf 
 ## Rain deficit shrinks to 21 % as wet spell intensifies in West, North-West
 Central India (deficit of 13 per cent) and North-West India (18 per cent) emerge as best-performing regions this week
 
-## ‘Seriously evaluating very large renewable energy sites’: Adani Green after success in Gujarat’s Khavda
-Total income during the quarter rose 16% year-on-year to ₹4,663 crore, while revenue from power supply increased 29% to ₹4,280 crore
-
-## India’s April-June LPG imports lowest in 8 years
-LPG imports fell 45% year-on-year to 2.85 million tonnes in the April-June quarter, the lowest for the period in eight years, as disruptions in the Strait of Hormuz curbed supplies.
+## Temasek widens scope of India investments
+Temasek is broadening its Indian investment focus beyond traditional sectors. The investor will now target industrials and artificial intelligence opportunities. Its India portfolio has grown significantly, reaching $42 billion by March 2026. The firm aims to double its recent capital deployment in 
 
 ## Trump's 25% tariff hits Brazil: Trade tensions deepen as billions in exports at risk
 
@@ -81,8 +81,14 @@ A significant India-US trade agreement is expected within three to four months. 
 ## Running on rollovers: Pakistan's reserves get $27 billion foreign loans from Saudi, China
 Pakistan secured approximately twenty-seven billion dollars in foreign funding last fiscal year. Saudi Arabia and China provided significant rollover support for existing loans. Fresh borrowing accounted for sixteen billion dollars of the total inflows. This foreign assistance primarily financed the
 
-## Universal provident fund scheme: How PF for gig workers, self-employed could work & why it would be a game-changer
-The proposed framework aims to allow unorganised sector workers and self-employed to set aside a portion of their income for deposits under a universal provident fund scheme which will earn regular interest on par with the existing EPFO scheme.
+## 'Cockroaches never die': Why RAF officer Sonia Sehrawat, her Instagram story are at the centre of CJP protest
+RAF officer Sonia Sehrawat purportedly posted a short reel on her Instagram story that read, “Can’t fix themselves and they wanna fix the country.”
+
+## NCB, Manipur police arrest alleged drug supplier wanted in NDPS cases
+The accused was allegedly part of a Myanmar-based drug trafficking syndicate that routed methamphetamine and heroin through the Northeast, NCB said.
+
+## 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest near Sansad Marg today
+The situation became tense near Park Hotel on Sansad Marg, where the crowd turned unruly and tear gas shells were fired.
 
 ## Uttarakhand: Nursing aspirant consumes phenyl during protest in Dehradun
 The nursing aspirants were protesting outside health minister Subodh Uniyal’s residence, demanding year-wise recruitment and other pending demands.
@@ -99,37 +105,28 @@ Officials seized medicines bearing names of reputed pharma companies, packaging 
 ## Odisha police summon ex-IAS officer V.K. Pandian over missing inquiry reports
 The capital police station in Bhubaneswar issued a notice directing Pandian to appear before the assistant commissioner of police, Zone-I, at 11 am on July 25, according to the notice.
 
-## 'Nation needs you': Opposition MPs meet Sonam Wangchuk at hospital, appeal to call off indefinite fast
-Opposition MPs express gratitude for Sonam Wangchuk's dedication to youth and environmental issues, urging him to end his hunger strike.
-
-## Counsel students to study and not divert energy on protests, universities told
-AIU urges educational institutions to counsel students to prioritize their studies over participating in protests.
-
-## Promise no legal action against protesters, will end hunger strike: Sonam Wangchuk tells govt
-Activist Sonam Wangchuk will end his hunger strike if the government assures no legal action against young protesters advocating for education reform.
-
-## Artefacts from Sanskriti Museum find a new home at Sunder Nursery
+## ADCP removed from Jantar Mantar after video of him slapping female protester goes viral
 
 
-## Opposition misleading students, trying to create anarchy: Yogi targets Rahul, Akhikesh
+## Iran’s Ghalibaf says ‘no oil sales’ if Tehran is blocked, warns on regional security
 
 
-## ‘Looking forward to returning to India’: Lalit Modi after Tribunal clears him in FEMA violation case
+## David Warner pleads guilty to drunk-driving charge
 
 
-## Young Edge | Beyond NEET demands, Pune students debate Jantar Mantar protest
+## ‘Would expect India to be concerned’: US Secretary Rubio on Trump’s generic drug tariffs
 
 
-## Congress accuses MP minister Kailash Vijayvargiya of calling student protesters ‘insects’, ‘traitors’; he denies
+## Salman Khan supports CJP protest: ‘Heart goes out to students who were hurt’
 
 
-## ‘Rahul Gandhi misleading youth’: Gujarat BJP calls out Congress on stir outside PM’s house
+## 200 detained, released after several gather to support Sonam Wangchuk
 
 
-## Foreign investment revival signals confidence in Indian economy: RBI’s State of the Economy article
+## Ayush Shetty beats Alwi Farhan in battle of future stars
 
 
-## Ladakh delegation says blocked from meeting Sonam Wangchuk
+## Priyanka Chopra says motherhood changed career priorities: ‘Don’t just pack bags and go…’
 
 
 ## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
@@ -156,6 +153,9 @@ Investors are looking ahead to an economic policy gathering convened by China’
 ## China-dominated central bank digital currency platform touts largest transactions to date
 A leading Chinese bank has processed the largest cross-border transactions yet via mBridge, a multilateral central bank digital currency (CBDC) platform, marking a major milestone for the emerging payment network as well as Beijing’s global yuan ambitions. Two transactions, worth more than US$1.7 bi
 
+## Trump’s Epic Fury Can’t Resolve His Iran Quagmire
+The clock is ticking for global oil markets, and Iran has the time.
+
 ## Yemen’s Unsteady Stalemate
 As violence rises, both sides seek to increase their leverage without returning to war.
 
@@ -176,9 +176,6 @@ Trump’s latest protectionist measures will likely exacerbate trade tensions an
 
 ## Israel’s Weapons Makers Have a Marketing Problem
 An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
-
-## The Iran Expert Trump Fired
-Nate Swanson on the U.S. president’s unique top-down style—and his fondness for lobbying.
 
 ## Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem
 To build a real “drone shield,” Taiwan cannot merely export hardware or components.
@@ -252,6 +249,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US judge sets 2027 trial date for Venezuela’s Maduro and wife
+Former President Maduro pleads not guilty to drug charges; lawyer plans to challenge legality of US military operation.
+
+## Anonymous food donations reach Indian student protesters
+Anonymous donors are using food delivery apps to send food to student protesters in New Delhi
+
+## Trump push for Syrian intervention against Hezbollah ‘short-sighted’
+Analysts say US president's pressure on Damascus to intervene in Lebanon could undermine domestic security.
+
+## Hamas’s new leader calls for permanent Gaza ceasefire
+In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.
+
 ## Iran’s judiciary warns against ‘infiltrators’, announces new executions
 Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.
 
@@ -263,18 +272,6 @@ Iran activated air defence systems across Tehran on the 11th night of US strikes
 
 ## Proposed US-Saudi nuclear energy deal: What we know so far
 Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.
-
-## Why are billionaires growing richer than ever?
-Billionaires are on the rise as the rest struggle with inequality, poverty and cost of living crisis.
-
-## From towns to zones: Why Israel gives military names to civilian areas
-Israeli authorities are increasingly applying security terminology for residential areas where people live.
-
-## Elon and the Other Gaza
-How the world's richest man helped trigger an HIV crisis in one of the world's poorest countries.
-
-## Trump threatens to bomb Iranian bridges, power plants over ship attacks
-Iranian official says Tehran would retaliate by targeting 'energy facilities in which the United States has interests'.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
