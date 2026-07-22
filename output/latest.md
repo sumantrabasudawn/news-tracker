@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Trump threatens to destroy Iranian bridges and power plants
+US president’s warning marks latest attempts to assert American control over Strait of Hormuz
+
 ## Segro board signals it would back £14bn takeover after battle with US bidder
 Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
 
@@ -21,14 +24,14 @@ Clash revived warnings of undue state influence in Brazilian mining company as p
 ## Pakistan seeks $10bn US facility to shore up reserves
 Country seeks to gain from its role mediating between Washington and Tehran
 
-## EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid
-Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover
-
 ## Big Four’s use of offshore auditors sparks concern from UK accounting watchdog
 Financial Reporting Council says it will monitor how the largest firms manage their overseas teams for the next year
 
 ## European gas prices approach Iran war highs as traders fret over winter supplies
 Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
+
+## EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid
+Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover
 
 ## The Lucid dream can continue on a bed of Saudi money
 With Riyadh’s backing, the electric-car maker could get through this crunch period
@@ -81,6 +84,9 @@ A significant India-US trade agreement is expected within three to four months. 
 ## Running on rollovers: Pakistan's reserves get $27 billion foreign loans from Saudi, China
 Pakistan secured approximately twenty-seven billion dollars in foreign funding last fiscal year. Saudi Arabia and China provided significant rollover support for existing loans. Fresh borrowing accounted for sixteen billion dollars of the total inflows. This foreign assistance primarily financed the
 
+## ‘Don’t waste our time’: CJI declines urgent listing of police action pleas
+The lawyer cited videos purportedly showing police assaulting unarmed protesters and offered to submit videos, but the CJI declined to entertain the submission
+
 ## 'Cockroaches never die': Why RAF officer Sonia Sehrawat, her Instagram story are at the centre of CJP protest
 RAF officer Sonia Sehrawat purportedly posted a short reel on her Instagram story that read, “Can’t fix themselves and they wanna fix the country.”
 
@@ -102,31 +108,28 @@ Hazare also raised concerns over reports of 22 students dying by suicide followi
 ## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
 Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
 
-## Odisha police summon ex-IAS officer V.K. Pandian over missing inquiry reports
-The capital police station in Bhubaneswar issued a notice directing Pandian to appear before the assistant commissioner of police, Zone-I, at 11 am on July 25, according to the notice.
+## Amid Opposition-Government tussle, Lok Sabha disrupted for 3rd straight day
+
+
+## Ram Temple Trust forms Dharmik Committee of seers to run religious affairs, to review tie-up with SBI
+
+
+## Gold paste in shirt collars: 2 Maharashtra men held at Ahmedabad airport
+
+
+## Sikkim tunnel blast toll 22, rescue window narrows
+
+
+## Breaking Bad in Ankleshwar: MD unit busted, drugs worth Rs 30 lakh seized
+
+
+## Students not terrorists, we fully support their demands: Rahul Gandhi on students protesting against paper leaks
+
 
 ## ADCP removed from Jantar Mantar after video of him slapping female protester goes viral
 
 
 ## Iran’s Ghalibaf says ‘no oil sales’ if Tehran is blocked, warns on regional security
-
-
-## David Warner pleads guilty to drunk-driving charge
-
-
-## ‘Would expect India to be concerned’: US Secretary Rubio on Trump’s generic drug tariffs
-
-
-## Salman Khan supports CJP protest: ‘Heart goes out to students who were hurt’
-
-
-## 200 detained, released after several gather to support Sonam Wangchuk
-
-
-## Ayush Shetty beats Alwi Farhan in battle of future stars
-
-
-## Priyanka Chopra says motherhood changed career priorities: ‘Don’t just pack bags and go…’
 
 
 ## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
@@ -177,29 +180,29 @@ Trump’s latest protectionist measures will likely exacerbate trade tensions an
 ## Israel’s Weapons Makers Have a Marketing Problem
 An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
 
+## The World Cup and the G2 Reality
+The international sporting event showcased American strengths. It's a reminder that both the U.S. and China should stop betting on each other’s decline.
+
+## India’s High-Stakes Gamble in the SCO
+In an era of diminishing multilateralism, can the SCO actually bring results?
+
+## Why a Tibetan Protester Set Himself on Fire Outside the United Nations
+Loga Rangzen’s self-immolation was intended to force Tibet back onto the international agenda. Instead, it exposed the challenges Tibetans face amid China's growing global influence.
+
+## Indian Army’s Integrated Battle Groups Are Crystallizing ‘Cold Start’ Doctrine
+Given the uncertainty in the region's escalation ladder, IBGs may be the answer if the need for a quick ground retort were to arise.
+
+## Keep an Eye on China’s AI Governance Offensive
+Beijing’s intensifying efforts to shape international norms on AI are aimed at catching up on the technology and exporting China’s illiberal values.
+
+## How South Korea’s Africa Pledges Are Faring on the Ground
+In western Uganda, a project funded by the Korea International Cooperation Agency (KOICA) serves as a test case for what South Korea can offer the continent.
+
 ## Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem
 To build a real “drone shield,” Taiwan cannot merely export hardware or components.
 
 ## Amnesty: Deadly Pakistan Air Strikes on Kabul Drug Rehab Center a Possible War Crime
 The human rights organization’s new report found “no evidence of Pakistan’s claims” that the site hit on March 16 was a military target.
-
-## The Limits – and Dangers – of the China-Russia Partnership
-Insights from Mathieu Boulègue.
-
-## America Can’t Win the AI Race Behind Closed Doors
-With China’s latest launch of frontier model Kimi K3, the U.S. must also focus on open source AI.
-
-## Security Issues Are Overshadowing Kashmir’s Worsening Climate Crisis
-Kashmir's mountains are going to keep getting hotter whether anyone notices or not.
-
-## Transnational Repression, Organized Crime, and Conflict in Southeast Asia
-A conversation with Phil Robertson, a Bangkok-based human rights advocate.
-
-## Does Myanmar Still Have One Government to Recognize?
-Much of the world still views Myanmar through a narrow diplomatic lens that cannot encompass the full political complexity of its conflict.
-
-## China’s Live-Fire Drill Near Okinotorishima Tests Japan’s Maritime Nerves
-The exercise highlights growing China-Russia naval interoperability while exposing competing interpretations of maritime law.
 
 ## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
 In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
@@ -249,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Water cannon deployed at India education system protests
+Indian police deployed water cannons in Raipur at student protests demanding the resignation of the education minister.
+
+## Key takeaways from Khalil al-Hayya’s first speech as Hamas leader
+The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.
+
+## Death toll from blast at Indian hydroelectric project rises to 20 people
+Rescuers say flooding and toxic gas in the collapsed tunnel make it unlikely any remaining trapped workers survived.
+
+## Why the US may stop collecting workplace race and gender data
+A newly proposed change would eliminate annual workplace demographic reporting used to monitor discrimination trends.
+
 ## US judge sets 2027 trial date for Venezuela’s Maduro and wife
 Former President Maduro pleads not guilty to drug charges; lawyer plans to challenge legality of US military operation.
 
@@ -260,18 +275,6 @@ Analysts say US president's pressure on Damascus to intervene in Lebanon could u
 
 ## Hamas’s new leader calls for permanent Gaza ceasefire
 In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.
-
-## Iran’s judiciary warns against ‘infiltrators’, announces new executions
-Many cases related to security offences are prosecuted using a law announced after last year's 12-day war with Israel.
-
-## ‘Justice for Lorenzo’ protests disrupt Houston council meeting
-Protesters shouted ‘Justice for Lorenzo’ at a Houston, Texas, city council meeting on Tuesday after an ICE shooting.
-
-## War on Iran: Hegseth wants $70B more to keep fighting
-Iran activated air defence systems across Tehran on the 11th night of US strikes.
-
-## Proposed US-Saudi nuclear energy deal: What we know so far
-Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
