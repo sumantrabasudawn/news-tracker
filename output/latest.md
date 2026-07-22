@@ -1,133 +1,142 @@
 # AION Intelligence
 
-## Trump plans 100% tariffs on generic drugs in 2028
-Latest trade measure intended to push companies towards manufacturing medications in the US
+## Tokyo vows to take ‘bold’ action as yen keeps sliding
+Japanese currency falls under ¥163 to the dollar for first time in almost 40 years
 
-## OpenAI admits an AI ‘agent’ caused a major cyber breach by itself
-AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face
+## The Story of Money
+Watch the latest episode from the FT podcast exploring the history of finance
 
-## Trump taps Big Tech critic as chief of DoJ antitrust division
-Adam Candeub authored a Project 2025 chapter calling for a sweeping shake-up of US competition enforcement
+## The train that derailed a private equity titan
+Fortress Investment Group’s ambitious intercity passenger rail project in Florida is so far a financial calamity
 
-## Japan’s trains are getting much faster as moonshot policy takes hold
-505km per hour rail project has taken on symbolic importance
+## New UK energy secretary previously called for acceleration of net zero target
+Fahnbulleh was head of a think-tank when it pushed for a total end to new drilling in the North Sea basin
 
-## MPs call on Burnham to extend employer tax break for under-25s
-New prime minister has pledged to help jobless young people find work
+## Private capital misses out as IPO and deal boom lifts Wall Street banks
+Reversal marks dramatic shift from recent years when sector was seen as more resilient to changes in financial markets
 
-## Trump reinstates direct US flights to Lebanon after meeting its president
-US leader declines to put a timeline on an Israeli withdrawal from the Middle East nation
+## Who will win the war of neo-mercantilists?
+China’s high degree of self-sufficiency also reduces its vulnerability to coercion by others
 
-## Trump vows to attack Iranian nuclear facility as Middle East war escalates
-Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’
+## Investors could do with their own ‘Number 10 North’
+Those willing to venture outside London should find they have less competition for good companies
 
-## Zelenskyy replaces top Ukraine general after mass protests
-President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv’s military leadership
+## How shifts in capital flows could change the dollar’s role
+The push and pull of capital is setting up a long-term battle for the US currency
 
-## Meta’s unwinding of Manus shows even forced deals have merits
-Disposal of Chinese agentic AI start-up has left the Facebook owner better off than it might seem
+## Nike to cut ties with online distributors in China sales overhaul
+US sportswear brand has struggled in one of its most important markets
 
-## US Treasury sends warning to hedge funds over ‘tax alpha’ strategies
-AMG shares tumble after officials question explosive growth of tax-loss harvesting investment techniques
+## Samsung in talks to invest in Mistral at €20bn valuation
+South Korean giant could invest as much as €1bn in French AI group seeking to be a leading alternative to US tech
 
-## ‘Major’ antitrust demands would destroy Europe space deal, warns Leonardo chief
-Calls by EU for structural concessions while also seeking European consolidation would be ‘absurd’, says Lorenzo Mariani
+## European heatwave wiped €2bn from value of grain crop, analysis estimates
+France and Hungary worst hit by lost production of maize and wheat
 
-## Liverpool’s US owners in talks with Indian investors over stake valuing club at $6 billion: FT
-Liverpool owner Fenway Sports Group has confirmed discussions with an Amit Bhatia-led consortium, including members of the Mittal family, over a strategic minority stake
+## Bandhan Bank shares tank 10% to lower circuit as FY27 RoA guidance cut spooks investors
+Nomura maintains a neutral rating with a target price of ₹190
 
-## LatentView Analytics to double down on execution under new CEO
-Ramrakhiani intends to accelerate the company’s account-led growth strategy and strengthening relationships
+## Sensex today | Stock Market Live: Sensex down 500 pts, Nifty slips to 24,000; Nifty Pharma index in red on Trump's tariffs
+Sensex, Nifty, Share Prices LIVE: Sensex fell 381.02 pts or 0.49% to 77,089.09 at 9.17 am after opening at 77,384.95 from the previous close of 77,470.11; Nifty 50 depreciated 106.75 pts or 0.44% to 24,080.95
 
-## Anant Raj to demerge data centre business into separate listed entity
-Under the restructuring, the data centre business will be transferred to Ashok Cloud, with existing shareholders receiving shares in the new entity
+## Bill to amend corporate laws is now expected to be taken up in the Winter Session
+Parliamentary panel looking into the bill has sought more time to finalise its report on the bill
 
-## PFRDA opens on-tap registration for pension fund managers under NPS
-The move allows eligible firms to apply at any time to manage assets under the National Pension System and Unified Pension Scheme
+## Nifty opens lower; pharma stocks bleed, auto sector shines
+The Sensex declined more than 400 points and the Nifty slipped below 24,100 in early trade amid higher crude oil prices and geopolitical concerns
 
-## Cube Highways Trust raises ₹1,687.5 crore from anchor investors ahead of InvIT IPO
-Premji Invest-backed Prazim Trading and Investment Co led the anchor book, with strong participation from insurers and mutual funds
+## EnKash Introduces India's First Meal Card with UPI Payments
+EnKash Introduces India's First Meal Card with UPI Payments
 
-## Oil climbs as traders weigh slew of risks from Hormuz to Red Sea
-The global benchmark rose about 2% to around $91 a barrel as the US continued its 10th day of strikes on Iran
+## Gene Solutions Showcases Global Evidence and Responsible Innovation in Prenatal and Women's Genomic Health at ISPD 2026
+Gene Solutions Showcases Global Evidence and Responsible Innovation in Prenatal and Women's Genomic Health at ISPD 2026
 
-## ICMR hands over three homegrown medical technologies to Emcure, Biological E for commercial development
-One of the transferred technologies is SHetA2, a drug candidate licensed to Emcure Pharmaceuticals for treating the precancerous cervical condition CIN
+## Q1 Results LIVE: Adani Green, Adani Power, Nestle, Eternal, Dr Reddy's Lab, NTPC Green, BPCL, HPCL, IndusInd Bank to announce Q1 results today, Bajaj Auto, TVS Motor shares gain, Bandhan Bank tanks 10%, ATGL & Adani Energy flat
+Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
 
-## PLI schemes attract ₹2.4 lakh crore investments, generate over 14 lakh jobs till March
-Solar modules, pharmaceuticals and automobiles lead investments as cumulative exports cross ₹15.2 lakh crore
+## Anthropic sued for infringing neural network technology patents
+Non-profit claims AI firm’s systems infringe its patents; seeks damages and injunction
 
-## Trump announces 0% tariff on generic medicines for two years; 200% thereafter
+## 0%, 100%, then 200%: How Trump's new generic drug tariff plan could hit India
+Donald Trump announced phased tariffs on imported generic medicines starting August 2026. These tariffs will gradually increase to 200 percent over three years. This policy aims to reshore pharmaceutical production back into America. India, a major supplier of affordable generics, faces significant 
 
-
-## Centre uses 40% of annual fertiliser subsidy in first 3.5 months
-
-
-## India's growth remains strong, but trade barriers threaten 2047 goal: WTO
-India's strong economic growth continues, but structural reforms are needed for developed nation status. High trade costs and regulatory complexity present significant challenges to global integration. The World Trade Organization report notes progress in trade facilitation and financial inclusion. 
-
-## Russia, Latin American suppliers to rescue: India’s Middle East oil imports dip in April-June on Hormuz disruptions
-India stepped up imports from Moscow once Washington granted a temporary waiver, helping offset reduced supplies from Gulf producers caused by the disruption of traffic through the strategically important Strait of Hormuz.
-
-## Donald Trump's tariff tornado returns as India deal stalls
-Donald Trump plans to impose new tariffs on many countries, including India. These tariffs will affect global trade and financial markets significantly. India's trade deal negotiations with the US face potential complications. The US administration cites unfair trade practices and forced labor conce
-
-## US stock market today: AI stocks extend rally; Brent crude prices go above $90
-Following a prolonged surge fuelled by heavy investment in AI chips and data centres, these stocks have faced selling pressure in recent weeks amid concerns that valuations had become stretched.
-
-## Strait of Hormuz disruptions: Two state-run refiners cancel plans to lift Iraqi oil amid renewed US-Iran tensions
-Before the conflict escalated, the Strait of Hormuz, located between Iran and Oman, served as the principal transit route for nearly one-fifth of the world's energy supplies.
-
-## The future of flying? US speeds up plans for air taxis, supersonic planes and drones
-The FAA is updating aviation rules to encourage new technologies. It supports air taxis and supersonic passenger flights with new regulations. Pilot programs are preparing for the safe integration of electric air taxis. Companies are developing charging infrastructure for electric aircraft operation
-
-## 12 dead, 13 still trapped after suspected methane explosion in Sikkim tunnel; toll may rise
-The deceased included migrant workers from West Bengal, Punjab, Assam and Uttarakhand, a senior official said.
-
-## Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
-Lawyers 'assaulted': HC asks Lucknow police commissioner, district judge to file reports
-
-## SAD (Punar Surjit) faces rebellion as leaders extend support to Waris Punjab De; Jhunda expelled
-SAD (Punar Surjit) faces rebellion as leaders extend support to Waris Punjab De; Jhunda expelled
-
-## 21 killed in a day as flood situation worsens in Assam; 5.4 lakh people affected in 16 districts
-21 killed in a day as flood situation worsens in Assam; 5.4 lakh people affected in 16 districts
-
-## Nothing can shame people unfazed by Ram temple donation theft: HC
-Nothing can shame people unfazed by Ram temple donation theft: HC
-
-## Dharmendra Pradhan's first reaction to CJP protest: 'Rahul Gandhi using students as political tools'
-"Their objective was never solutions for students, it was disruption for political headlines," Dharmendra Pradhan said on the protests.
-
-## Swiggy-Zomato deliveries ‘for anyone who needs’, medicine stalls at Jantar Mantar as CJP support swells after crackdown
-Videos show delivery partners arriving at the protest site with orders which are already paid for, sometimes placed by people in other cities.
-
-## Bangladesh’s pick of spokespersons in Delhi, Kolkata raise eyebrows
-Both Saidur Rahman and Umme Marufa have made derogatory social media posts about India and its government. By Tuesday, several of these posts had been deleted
-
-## How Modi faces his first broad-based protest ever — not one by specific interest groups
+## Gold, silver rate live updates today: Global cues, Fed outlook and geopolitics set to steer gold, silver prices
 
 
-## 17 involved in Moga police station grenade attack case held
+## Food products create most jobs among PLI sectors
 
 
-## This is what happens to your blood sugar after recovering from viral infections
+## Gabriel acquires promoter stake in JV, family holding up at 68%
 
 
-## Ladki Bahin scheme lesson: Maharashtra govt tightens screening before farm loan-waiver rollout
+## Karnataka sees fastest FDI rise among major states
 
 
-## Jaishankar to meet Quad counterparts in Manila on sidelines of ASEAN meet
+## Does money buy happiness? What India's spending power reveals about how we live
+Indian households now spend more on experiences and lifestyle choices. Average monthly spending has risen across both rural and urban areas. Food now constitutes a smaller portion of household expenditure. Easy credit options enable more accessible purchases and lifestyle upgrades. Despite increased
+
+## Brent crude tops $92, WTI above $85 as Hormuz tensions threaten global supplies
+Crude oil prices extended their rally as Middle East tensions escalated. Brent crude held above ninety dollars a barrel amid supply disruption fears. Houthi threats affected shipping activity in the Red Sea region. Military actions continued overnight impacting energy shipping routes. Global food in
+
+## USTR hints at 'action' ahead of tariff expiry
+Section 301 Levies May Cover 99% Of US Trade | New Tariffs On Canada & Brazil
+
+## Tanker with Indian crew was hit by US while drifting in Gulf of Oman, had engine off
+The Settebello had been moving Iranian oil for at least five years, though the ship was not under any US sanctions.
+
+## What Kamaraj’s legacy of governance can teach
+Over sixty years since he stepped down as chief minister of the erstwhile Madras State, the memory of K Kamaraj still persists in the collective consciousness of the state
+
+## Telangana govt frames strategy to mitigate impact of el Niño
+With Telangana facing drought-like conditions due to a monsoon rainfall deficit linked to El Niño, a political battle has intensified between the ruling Congress and the opposition Bharat Rashtra Samithi (BRS) over whether to operate the Kannepalli pump house of the Kaleshwaram Lift Irrigation Schem
+
+## Women are elected, husbands govern: Centre confirms proxy rule in Panchayat
+Three decades after India reserved a third of Panchayat seats for women, many of them still don’t get to govern
+
+## TN assembly speaker clarifies rules for arrest of sitting MLA
+Tamil Nadu Assembly Speaker J C D Prabhakar on Tuesday clarified that the Speaker’s office had no role in the arrest of DMK MLA Markandayan G V over his alleged remarks against chief minister C Joseph Vijay
+
+## Doctors rule out poison in trainee IPS officer’s suicide attempt case
+Trainee IPS officer M Uday Krishna Reddy, who was admitted to hospital on Monday after an alleged suicide attempt, did not consume any poisonous substance, doctors said on Tuesday, a day after he was booked for allegedly sexually harassing a fellow IPS probationer at the Sardar Vallabhbhai National 
+
+## No formal bid to shift Parandur airport site: DMK MP
+The Centre was yet to receive a formal request from the Tamil Nadu government to change the proposed site for the establishment of a new greenfield airport at Parandur in Kancheepuram district, DMK MP P Wilson said
+
+## Ex-Agniveers to get 50% reservation in CAPF, Assam Rifles vacancies: Centre tells Parl
+The ministry of home affairs (MHA) on Tuesday informed Parliament that retired Agniveers will be entitled to 50% reservation in the recruitment to constable (General Duty) and rifleman posts in the Central Armed Police Forces (CAPFs) and Assam Rifles, adding that they will be exempted from written e
+
+## Brows raised as Punjab orders fresh river desilting in the middle of monsoon
 
 
-## Washout in both Houses amid Opposition uproar over paper leaks, police action
+## Stocks slip, rupee drops as crude spikes to 5-week high
 
 
-## Delhi Confidential: In Solidarity
+## Trainer recalls Aamir Khan’s 3 am workouts for Laal Singh Chaddha
 
 
-## AI law may cover agent autonomy, deepfakes
+## What is Buzz, Jack Dorsey’s new app to take on Slack in the AI workplace era?
 
+
+## Ryan Gosling’s ‘La La Hand’ finally fixed on La La Land poster; Fans say, ‘waited 10 years’
+
+
+## Daily Briefing: Oppn takes student protest to PM’s doorsteps; Modi vows ‘foolproof’ exams; Rodri’s journey
+
+
+## Arnolds of Andhra: Kondavelagada, Amadalavalasa & Godalam’s weightlifting wizards
+
+
+## Deaf Godzilla actor Kaylee Hottle dies at 18 in car crash; Father says he ‘forgives’ driver
+
+
+## Foreign carmakers lose more traction in China as luxury stronghold erodes
+International luxury car brands from Mercedes-Benz to Land Rover took a further beating in China last month as wealthy consumers continued to shun expensive petrol-powered vehicles. Struggling against competition from China’s rising electric vehicle (EV) powerhouses, international marques would find
+
+## Hong Kong tipped to approve hedge fund tax breaks, attracting investment, talent
+Hong Kong’s determination to boost its role as a global wealth management hub has raised market expectation that the city will approve a bill offering tax relief to hedge funds within this year. Speaking at a media briefing on Tuesday, Sandy Fung, KPMG China’s partner of tax and alternative investme
+
+## China Merchants Securities drops South Korea ETF as Seoul stock volatility spills over
+A leading Chinese brokerage house has ended market making for the mainland’s only South Korea-focused exchange-traded fund (ETF), as Beijing steps up efforts to stabilise its capital markets and protect retail investors amid volatility in its East Asian neighbour’s stock market. Shenzhen-headquarter
 
 ## Hong Kong’s red-hot rental market forces students to flat-hunt as early as April
 Competition for student housing is intensifying in Hong Kong even as more accommodation comes onto the market, with mainland Chinese students beginning their search for a home months earlier than in previous years and landlords leaving flats vacant to capture the annual influx. Kenny Zhang, an agent
@@ -143,15 +152,6 @@ Zhongji Innolight has attracted more than 30 cornerstone investors for its block
 
 ## US biotech firm developing therapies for infant brain injuries plans Hong Kong listing
 A US-headquartered biotech firm plans to seek a primary listing in Hong Kong, joining a swelling pipeline of artificial intelligence-powered medical players raising capital in the city. Axiom Biosciences, which develops experimental therapies for newborns with severe brain injuries by using AI, is t
-
-## Can Beijing’s stock support deliver a long bull run and fuel its high-stakes tech drive?
-China’s rapid move to stem a rout in its stock markets – through direct state buying and pledges of more stabilising measures – underscores the resolve of policymakers to protect the country’s high-stakes push for technology innovation and safeguard more than 200 million individual investors. Beijin
-
-## China stocks rebound from AI sell-off amid national team support
-Mainland Chinese shares are surging back from a sell-off amid regulatory support and huge purchases by state investors and major companies. The CSI 300 index rose 3.1 per cent on Tuesday, following a 1.5 per cent gain on Monday after China Securities Regulatory Commission (CSRC) chairman Wu Qing met
-
-## China intensifies cross-border tax scrutiny as Beijing warns against offshore dodging
-Two Chinese state media outlets warned on Monday against offshore tax evasion by calling out an incident involving a major social media platform and its Hong Kong entity, sending a message that Beijing is intensifying its scrutiny of cross-border corporate structures. The China Securities Journal, w
 
 ## Trump’s China Threats Don’t Match His China Policy
 The president’s allegations about election interference are the latest case in point.
@@ -249,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn
-Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain 'very heavily'.
+## Palestine weekly: Ahead of elections, Israel doubles down on attacks
+Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.
 
-## US strikes Iran for ’11th consecutive night’
-Explosions reported to have been heard in northwestern Iran's Tabriz, as well as capital Tehran and southern Iran.
+## More than 140 dead, missing on refugee boat stranded off Mauritania
+Boat carrying migrants and refugees from Africa ran out of fuel, leading to a tragedy with 143 dead and 38 rescued.
 
-## Lebanese army deploys in ‘pilot zones’ under US-backed plan
-The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.
+## France becomes first EU country to officially ban social media for children
+France will ban social media for under-15s from September 1, following the UK and Australia’s moves toward blanket bans.
 
-## Trump administration attacks US left, alleging Cuba ties: Key takeaways
-US report says the beleaguered government in Havana is the 'connective tissue' of a global 'anti-American coalition'.
+## How armed group alliances are reshaping Mali’s conflict and the wider Sahel
+A deadly attack near Anefis exposes the growing challenges facing Mali's military leaders.
 
-## Moldova chooses new prime minister as it pushes for EU membership
-Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.
+## ‘Unprecedented’: OpenAI says AI models autonomously hacked another company
+OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.
 
-## Zelenskyy replaces Ukraine military chief after protests
-Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.
+## US targets China in move to ban military-grade drone imports
+Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.
 
-## Drone shows scorched landscape after Spain wildfire
-A drone has revealed what remains of this forest after a wildfire burned through over 30,000 hectares of it.
+## US says more than 1,400 infected by parasitic Cyclospora illness outbreak
+US officials claim evidence points to lettuce grown in Mexico, which Mexico's Health Ministry disputes.
 
-## US defence chief Hegseth puts Iran war cost at $37.5bn so far
-Latest cost comes as Hegseth and Joint Chiefs Chairman Caine seek a $1.5 trillion budget, including $70bn for Iran war.
+## Desperate families search rubble weeks after Venezuela earthquakes
+Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.
 
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
@@ -297,6 +297,12 @@ The Securities and Exchange Board of India has added eighteen new firms to its f
 ## Fusion Finance plans to double MSME loans to 25% of its portfolio in three years, eyes 20-25% AUM growth: CFO
 In the short-term, the micro finance company has set a target of taking the current 10-11% MSME lending to 14-15% by FY27. The MSME push is one leg of a broader secured lending diversification underway at the microfinance lender, following two difficult years for the sector marked by over-lending, a
 
+## PLI schemes attract Rs 2.4 lakh crore investment, create 14.15 lakh jobs: Govt
+The government's Production Linked Incentive (PLI) schemes have attracted actual investments of more than Rs 2.40 lakh crore, generated over 14.15 lakh direct and indirect jobs, and enabled exports worth Rs 15.2 lakh crore across 14 key sectors as of March 31, 2026, Parliament was informed on Tuesda
+
+## Trump announces new generic drugs tariff plan: No tariffs for 2 years, then 100%, and then 200%
+For Indian exporters, the two-year tariff-free period offers additional time to reassess supply chains and investment plans. While the immediate impact on exports is likely to be limited, the proposed escalation to 100% and eventually 200% tariffs could significantly alter the economics of supplying
+
 ## Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1
 Sebi has directed depositories to implement a new framework for freezing promoter holdings. This operational framework will be in place by August 1, 2026. The mechanism freezes promoter and promoter group holdings at the ISIN level. Exceptions allow promoters to tender shares in tender offer buyback
 
@@ -314,10 +320,4 @@ With RBI targeting roughly USD 20 billion each from public and private sector ba
 
 ## Govt to introduce income tax, MSME reforms among 5 new bills in monsoon session
 The Centre is set to introduce five new bills during the monsoon session of Parliament which kicks off on Monday, which include proposals related to income tax and MSME reforms, an increase in the strength of Supreme Court judges and changes in the birth registration laws.
-
-## India's economy remains strong amid West Asia, weak monsoon risks: RBI chief
-RBI Governor Sanjay Malhotra said on Friday that India's fundamentals remain strong, with a decent pace of economic expansion despite geopolitical uncertainties triggered by the West Asia crisis.
-
-## RBI fixes underwriting commission rates for Rs 32,000 crore government securities auction
-The Reserve Bank of India (RBI) has fixed the underwriting commission cut-off rates for three government securities carrying a combined notified amount of Rs 32,000 crore.
 
