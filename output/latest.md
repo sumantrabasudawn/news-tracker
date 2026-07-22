@@ -1,40 +1,31 @@
 # AION Intelligence
 
+## Tesla profits plunge as discounts on EV models weigh on results
+Capital expenditures more than doubled as company accelerates pivot to semiconductors, autonomous taxis and humanoid robots
+
+## Google reports $6bn cash burn last quarter as it raises AI spending again
+Search giant says it will commit up to $205bn on AI investments in 2026
+
+## US and Saudi Arabia agree landmark nuclear energy pact
+Washington says deal would pave the way for ‘decades-long, multibillion-dollar partnership’
+
+## Taiwan’s drone ambitions play to its tech manufacturing strengths
+Scaling up brings economies of scale, and the island is taking another lesson from China’s playbook: dual-use technology
+
+## Vale shareholders elect new chair following governance dispute
+Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote
+
+## Mercedes risks US sales ban under Senate China bill
+Commerce panel approves legislation barring companies with significant Chinese ownership from US market
+
 ## Trump threatens to destroy Iranian bridges and power plants
 US president’s warning marks latest attempts to assert American control over Strait of Hormuz
 
 ## Segro board signals it would back £14bn takeover after battle with US bidder
 Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
 
-## The real barrier to Africa’s solar energy boom
-Reducing the cost of capital is the only way to ensure the expansion of renewable energy across the continent
-
-## Greek tycoon’s tanker towed into Iranian waters
-Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
-
-## UK education secretary accused of misleading claim about Oxford entry
-Former Xaverian College pupils say Lucy Powell was not the ‘only one’ in her year to attend elite university
-
-## India should listen to its frustrated youth
-Gen Z protests reflect young people’s growing anxiety about their future
-
-## Vale shareholders elect new chair following governance dispute
-Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote
-
-## Pakistan seeks $10bn US facility to shore up reserves
-Country seeks to gain from its role mediating between Washington and Tehran
-
-## Big Four’s use of offshore auditors sparks concern from UK accounting watchdog
-Financial Reporting Council says it will monitor how the largest firms manage their overseas teams for the next year
-
-## European gas prices approach Iran war highs as traders fret over winter supplies
-Heatwaves and bidding war with Asian buyers leave market vulnerable to Strait of Hormuz disruption
-
-## EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid
-Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover
-
-## The Lucid dream can continue on a bed of Saudi money
-With Riyadh’s backing, the electric-car maker could get through this crunch period
+## Aston Martin strikes £550mn debt deal despite creditor objections
+Cash-strapped carmaker defies lenders who branded transaction with BlackRock-owned HPS as ‘extraordinary’
 
 ## Scientists discover strange Milky Way planetary system unlike our solar system
 The unusual planetary system, 71 light-years from Earth, is unlike anything previously observed in the Milky Way
@@ -108,6 +99,21 @@ Hazare also raised concerns over reports of 22 students dying by suicide followi
 ## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
 Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
 
+## Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the govt to fall
+
+
+## Chaos, frustration among commuters as 16 key Metro stations around Jantar Mantar shut
+
+
+## NEET paper leak: Crowd swells at Jantar Mantar, fresh clashes around Tolstoy Marg
+
+
+## 20 police teams probe CJP’s Parliament march, analyse chats, CCTV footage, mobile data
+
+
+## ‘Very serious issue’: Delhi High Court flags safety issues in HPV vaccine rollout drive
+
+
 ## Amid Opposition-Government tussle, Lok Sabha disrupted for 3rd straight day
 
 
@@ -117,20 +123,8 @@ Officials seized medicines bearing names of reputed pharma companies, packaging 
 ## Gold paste in shirt collars: 2 Maharashtra men held at Ahmedabad airport
 
 
-## Sikkim tunnel blast toll 22, rescue window narrows
-
-
-## Breaking Bad in Ankleshwar: MD unit busted, drugs worth Rs 30 lakh seized
-
-
-## Students not terrorists, we fully support their demands: Rahul Gandhi on students protesting against paper leaks
-
-
-## ADCP removed from Jantar Mantar after video of him slapping female protester goes viral
-
-
-## Iran’s Ghalibaf says ‘no oil sales’ if Tehran is blocked, warns on regional security
-
+## How China and Indonesia can build a truly sturdy partnership
+In April 1955, amid the Cold War, 304 representatives across 29 Asian and African nations convened in Bandung, Indonesia, to discuss the principles of a more complex future world order. Among them were India, China and host Indonesia. While India would go on to champion the non-aligned movement at t
 
 ## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
 Despite Washington’s move to tighten policy on pharmaceutical trade with a fresh threat of 100 per cent tariffs on generic drug imports, analysts say China’s pharmaceutical rise is now tariff-proof, making its ascent in the global supply chain look irreversible. US President Donald Trump announced p
@@ -153,8 +147,11 @@ We have put together stories from our coverage on electric and new energy vehicl
 ## Investors shift focus to China’s July Politburo meeting for stock-stimulus clues
 Investors are looking ahead to an economic policy gathering convened by China’s top leaders for clues on the direction of the stock market, after state intervention tentatively stabilised sentiment. The Communist Party is expected to kick off its July Politburo meeting next week, in which President 
 
-## China-dominated central bank digital currency platform touts largest transactions to date
-A leading Chinese bank has processed the largest cross-border transactions yet via mBridge, a multilateral central bank digital currency (CBDC) platform, marking a major milestone for the emerging payment network as well as Beijing’s global yuan ambitions. Two transactions, worth more than US$1.7 bi
+## The Race to Contain the Fastest-Ever Ebola Outbreak
+According to the WHO, the epidemic is “outpacing” response efforts.
+
+## India’s Cockroach Movement Delivers a Blow to the BJP
+The protests aren’t likely to turn into mass mobilization, but they are politically significant.
 
 ## Trump’s Epic Fury Can’t Resolve His Iran Quagmire
 The clock is ticking for global oil markets, and Iran has the time.
@@ -173,12 +170,6 @@ Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a l
 
 ## The Oil Market Is Much More Vulnerable Than Trump Believes
 Depleted reserves and changed circumstances make price spikes more likely this time around.
-
-## Who Is Trump’s Next Tariff Target?
-Trump’s latest protectionist measures will likely exacerbate trade tensions and reignite legal battles.
-
-## Israel’s Weapons Makers Have a Marketing Problem
-An arms show in Paris shows how global backlash is forcing the country’s booming defense industry to adapt.
 
 ## The World Cup and the G2 Reality
 The international sporting event showcased American strengths. It's a reminder that both the U.S. and China should stop betting on each other’s decline.
@@ -252,29 +243,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## India’s Rahul Gandhi speaks out after release
+Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.
+
+## US regulators to weigh controversial peptides backed by RFK Jr
+FDA has questioned the evidence as demand surges for the compounds promoted for sleep, muscle growth, and anti-ageing.
+
+## Ukraine’s new military chief pledges to escalate retaliation against Russia
+Russian Foreign Minister Sergei Lavrov is due to meet US counterpart Marco Rubio, but progress towards peace unlikely.
+
+## Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘
+Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘
+
+## UN rights chief condemns Nicaragua’s decision to abolish elections
+UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.
+
+## Trump: Iran will ‘pay a big price’ for US troop deaths
+US President Trump warned that Iran will ‘pay a big price’ right before he attended a dignified transfer ceremony.
+
+## Gaza man returns home after family believed he was dead
+Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.
+
 ## Water cannon deployed at India education system protests
 Indian police deployed water cannons in Raipur at student protests demanding the resignation of the education minister.
-
-## Key takeaways from Khalil al-Hayya’s first speech as Hamas leader
-The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.
-
-## Death toll from blast at Indian hydroelectric project rises to 20 people
-Rescuers say flooding and toxic gas in the collapsed tunnel make it unlikely any remaining trapped workers survived.
-
-## Why the US may stop collecting workplace race and gender data
-A newly proposed change would eliminate annual workplace demographic reporting used to monitor discrimination trends.
-
-## US judge sets 2027 trial date for Venezuela’s Maduro and wife
-Former President Maduro pleads not guilty to drug charges; lawyer plans to challenge legality of US military operation.
-
-## Anonymous food donations reach Indian student protesters
-Anonymous donors are using food delivery apps to send food to student protesters in New Delhi
-
-## Trump push for Syrian intervention against Hezbollah ‘short-sighted’
-Analysts say US president's pressure on Damascus to intervene in Lebanon could undermine domestic security.
-
-## Hamas’s new leader calls for permanent Gaza ceasefire
-In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
