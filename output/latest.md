@@ -1,70 +1,82 @@
 # AION Intelligence
 
+## Zelenskyy replaces top Ukraine general after mass protests
+President picks 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in military leadership
+
+## Burnham can be the failure that Britain needs
+Big government must be tested to destruction for serious reform to finally happen
+
+## Prologis lifts Segro offer to £14bn as takeover battle intensifies
+US real estate giant’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid
+
+## FirstFT: Where is Venezuela’s oil money?
+Also in today’s newsletter: OpenAI ‘agent’ escapes testing and hacks into start-up, and Ukraine’s military shake-up
+
+## US start-up wins EU approval for sight-restoring bionic eye
+Decision will allow Science Corp to treat patients with retina implants in coming months
+
+## Japan’s cup noodle pioneer gives cold shoulder to boiling water
+Nissin launches two instant Cup Noodle varieties in Japan that do not require putting the kettle on
+
 ## Jesse Livermore’s life in the pink pages
 How the FT covered the Great Bear of Wall Street
-
-## Prologis makes final Segro offer of £14bn
-US real estate giant’s fourth offer for London-listed rival follows previous bid of £13.5bn
 
 ## Cutting VAT from energy bills is a painkiller, not a cure
 Fighting cost-of-living pressures this way may symbolise change but it cannot be a long-term solution
 
-## Oil rises past $95 after Trump threatens further Iran escalation
-Goldman Sachs warns Brent crude price could jump to $120 if Strait of Hormuz remains ‘disrupted’
+## Citadel Securities opens Amsterdam options trading office
+Market maker is the latest to establish presence in Dutch capital as it expands European push for equity derivatives hub
 
-## UK inflation falls more than expected to 2.6% in June
-Figure comes as Prime Minister Andy Burnham seeks to cut cost of living
-
-## Wetherspoons issues fourth profit warning this year
-Pub chain hit by weak sales and cost rises
-
-## Burnham launches £2 cap on bus fares
-New prime minister says measure will reduce prices by up to a third for millions of people
-
-## June’s encouraging inflation will be discounted by Bank of England
-Falling fuel prices are a big contributor to lower annual rate, but US-Iran ceasefire collapse means trend won’t last
+## US food illnesses climb as authorities struggle to identify source
+Thousands have been sickened in an outbreak centred in the Midwest and believed to be tied to a parasite found on lettuce
 
 ## Lloyd’s says ex-CEO failed to disclose ‘close’ relationship with employee
 Insurance market says John Neal’s behaviour fell ‘significantly below the standards expected’
 
-## Santander profits curbed by TSB restructuring costs
-Spanish lender’s net income rises 3% after taking €250mn charge related to acquisition of UK high street bank
+## Wetherspoons issues fourth profit warning this year
+Pub chain hit by weak sales and cost rises
 
-## Why the EU faces a Russian oil vs LNG sanctions stand-off
-Also in this newsletter: more US-EU trade deal jitters
+## Brent crude above $95 drags Nifty below 24,000 for third straight session
+Realty, media, PSU banks and pharma led the sell-off, while auto and FMCG bucked the trend on strong earnings from Bajaj Auto and Nestlé India
 
-## FirstFT: French AI start-up Mistral in fundraising talks with Samsung
-Also in today’s newsletter: Ukraine military shake-up and Wirecard’s Marsalek
+## IMD Update: Active monsoon to bring heavy rain in coastal districts of Bengal
+Coastal districts of North and South 24 Parganas and Purba Medinipur to receive heavy rainfall till July 24, IMD says
 
-## Nike to reduce online distribution channels in China sales overhaul
-US sportswear brand has struggled in one of its most important markets
+## US tariff threat drags Nifty Pharma 1.3% lower at close; Lupin, PPL Pharma lead decline
+Only two of the index’s 20 constituents ended in positive territory, while 18 declined
 
-## The Story of Money
-Watch the latest episode from the FT podcast exploring the history of finance
-
-## Sensex today | Stock Market Live: Sensex down 750 pts, Nifty slips below 24,000 in afternoon session; banking, IT, pharma drag; auto bucks trend
-Sensex, Nifty, Share Prices LIVE: At 1:27 pm, Sensex traded 766.16 points lower to 76,703.95, Nifty lost 207.95 points (-0.86%) to 23,979.75.
-
-## India’s healthcare sector records strong FY26 growth
-Strong hospital performance, expanding diagnostics and sustained investor interest powered healthcare sector growth
-
-## Bayer’s Trance to help cotton farmers manage sucking pests
-New insecticide is available across all major cotton growing States from July
-
-## Q1 Results LIVE: Eternal clocks ₹92 cr con. profit in Q1, BPCL logs Q1 loss, Adani Green posts mixed results, Nestlé, Adani Power & SRF Q1 PAT rise, Dr Reddy's Lab, NTPC Green, HPCL, IndusInd to announce Q1 results today
-Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
-
-## TVS Motor bets on premiumization and EVs to drive next phase of growth
-TVS sold over 3.71 lakh electric two-wheelers during the last financial year, up 33 per cent from the previous year
-
-## TVS Motor indicates it may spin-off financial services business in future at ‘appropriate time’
-TVS Credit reported a total Income of ₹1,918 crores for Q1 FY27, a growth of 13% from Q1 FY26, and a net profit of ₹208 crores for Q1 FY27, a growth of 15% compared to the same period last year
+## JSW Energy Q1 profit falls 36% to ₹533 cr on higher depreciation, finance costs
+Moderation in revenue growth was largely due to a decline in thermal business revenue
 
 ## Capacity addition, higher energy sales lift Adani Green Energy Q1FY27 profit by 19% to ₹983 crore
 Total income during the quarter rose 16% year-on-year to ₹4,663 crore, while revenue from power supply increased 29% to ₹4,280 crore
 
+## Q1 Results LIVE: Eternal logs ₹92 cr profit in Q1, Nestlé, Adani Power, Adani Green & SRF PAT rise, Dr Reddy's Lab profit tumbles, NTPC Green, HPCL, IndusInd to announce Q1 results today
+Q1 Results Today, 22nd July 2026: Follow our Q1 live updates here
+
 ## Higher power demand, volumes lift Adani Power FY27 Q1 profit by 42%
 Company’s revenue from operations also increased 34 percent year-on-year to ₹18,902 crore during the quarter
+
+## Aye Finance posts 144% profit jump in Q1 FY27
+Aye Finance shares fall despite strong quarterly results
+
+## 'We literally have the paper': US says India trade deal could be signed in months
+A significant India-US trade agreement is expected within three to four months. Negotiations are nearly finalized, with the text effectively complete and ready for signing. The primary remaining hurdle involves ongoing US trade investigations, not bilateral disagreements. Washington's Section 301 pr
+
+## Running on rollovers: Pakistan's reserves get $27 billion foreign loans from Saudi, China
+Pakistan secured approximately twenty-seven billion dollars in foreign funding last fiscal year. Saudi Arabia and China provided significant rollover support for existing loans. Fresh borrowing accounted for sixteen billion dollars of the total inflows. This foreign assistance primarily financed the
+
+## Universal provident fund scheme: How PF for gig workers, self-employed could work & why it would be a game-changer
+The proposed framework aims to allow unorganised sector workers and self-employed to set aside a portion of their income for deposits under a universal provident fund scheme which will earn regular interest on par with the existing EPFO scheme.
+
+## Stock market today: Sensex closes 715 points lower; Nifty ends below 24,000
+
+
+## Boiling point? Brent crude touches five week high, here’s what analysts expect next for oil markets
+Oil prices are climbing as geopolitical tensions between the US and Iran intensify. Analysts expect crude prices to remain within a specific range for now. Current market prices do not indicate a major structural disruption to global oil supplies. Investors are also closely monitoring upcoming crude
+
+## Why did the stock market crash today? BSE Sensex ends over 700 points down, Nifty50 below 24,000; top reasons for fall
+Pharmaceutical stocks were among the biggest drags on the market after Trump announced a phased tariff framework for imported generic medicines, giving drugmakers a two-year transition period before higher duties come into force.
 
 ## Donald Trump’s 200% tariffs on pharma: Why India’s generic medicines could still remain competitive
 US President Donald Trump on Tuesday announced the final stage of his pharmaceutical tariff plan, under which imported generic medicines will continue to enter the US without duties until August 1, 2028.
@@ -72,70 +84,52 @@ US President Donald Trump on Tuesday announced the final stage of his pharmaceut
 ## 'Discussed trade, tariffs & critical minerals': Jaishankar meets Rubio in Manila
 
 
-## Stuck at ports: Why several fertiliser vessels are stranded at Indian ports during peak kharif sowing season
-Congestion has affected several major ports, including Kandla, Mundra, Jawaharlal Nehru Port (Nhava Sheva) and Chennai. Industry officials said that the situation has been aggravated by the rerouting of vessels due to geopolitical tensions.
+## Donald Trump administration's 10% tariff on most Indian goods expires on July 24: What happens after that?
+Possible outcomes: Tariffs could remain the same; rates could change depending on US investigations under Section 301; US could opt for a different instrument.
 
-## New worry for oil market: Tankers carrying Saudi crude for India, China make a U-turn in Red Sea on Houthi threats
-On Monday, the Houthis announced a naval blockade on Saudi Arabia, potentially opening another front in the US-Israeli conflict with Iran and increasing risks to global energy supplies and international trade beyond the Gulf region.
+## 'Huge security breach': Kangana Ranaut attacks Rahul Gandhi over protest near PM Modi's residence
+Responding to the Congress' demand for PM Modi's resignation over the alleged NEET paper leak issue, Ranaut defended the Centre's handling of the matter.
 
-## Top stocks to buy today: Stock recommendations for July 22, 2026 - check list
-Stock market recommendations: BSE, Reliance Industries, and PI Industries have been identified as the top stocks to buy today, July 22, 2026, by Mehul Kothari, DVP - Technical Research at Anand Rathi Shares.
+## NHAI issues policy circular on monitoring social media platforms over complaints
+A key provision of the policy states citizens posting actionable complaints on social media are to be directed to the Rajmargyatra app
 
-## Pharma stocks bleed after Trump announces upto 200% tariff on generic drugs
-Pharmaceutical stocks faced pressure after US President Trump unveiled a phased tariff plan for imported generic medicines. This plan introduces steep duties on generic drugs after a two-year tariff-free window. Indian drugmakers are reassessing supply chains and investment plans due to potential fu
+## Lalit Modi looks forward to India return after tribunal quashes ED penalties
+"I am really looking forward to returning to India after a long long time. Stay well and stay safe," Lalit Modi posted on X.
 
-## Rupee falls 11 paise to 96.36 against US dollar amid US-Iran tensions, rising crude
-The Indian rupee opened lower on Wednesday, facing pressure from rising crude oil prices. Geopolitical tensions and demand for safe-haven assets also weighed on the domestic currency. The Reserve Bank of India's measures are helping to cushion the rupee's decline. Meanwhile, Indian stock markets exp
+## Govt ready to discuss NEET paper leak; CJP won't go to 'anyone's house or office': What is happening?
+CJP declines JP Nadda's invitation for dialogue at his residence, insisting talks should happen directly at Jantar Mantar or a nearby neutral location.
 
-## Stock market today: Sensex plunges over 600 pts; Nifty slips below 24,050 in early trade
+## Why was TMC's Kalyan Banerjee suspended from Lok Sabha for rest of Monsoon Session?
+Action comes days after Kakoli Ghosh Dastidar and other breakaway TMC MPs got separate seats, weeks after she accused Banerjee of misogynistic conduct.
 
+## Uttarakhand to establish Sanskrit commission, seeks suggestions
+The state government has invited suggestions from Sanskrit scholars, teachers, researchers, universities, and institutions by August 10
 
-## People have courage to fight against injustice: Uddhav Thackeray on student protests
-Thackeray said that interaction with the protesters gave him a sense of people’s determination and courage to fight against injustice
+## 'Preserve CCTV': Delhi HC on plea alleging police brutality during CJP protest
+The court said the material must be preserved in accordance with the SOP issued by the Delhi Police or the Union government.
 
-## Expect 'constructive' debate during UP Assembly Monsoon session: Speaker
-Expect 'constructive' debate during UP Assembly Monsoon session: Speaker
-
-## LS adjourned twice as Opposition questions govt, seeks Pradhan’s resignation
-Samajwadi Party chief Akhilesh Yadav said the issue was not about any political party but about the students and youth of India
-
-## Harassment case: Telangana HC posts hearing on IPS officer's plea to quash FIR to July 27
-Harassment case: Telangana HC posts hearing on IPS officer's plea to quash FIR to July 27
-
-## Kalyan Banerjee suspended from Lok Sabha for 'unparliamentary language' against woman MP
-Announcing the decision, presiding officer Krishna Prasad Tenneti said Banerjee's remarks had "hurt the dignity of the House"
-
-## HC allows cutting of 21,022 trees for transmission lines in Maharashtra’s Palghar
-The Bombay high court considered assurance that the unsatisfactory state of mangrove re-plantation will be addressed
-
-## In Manila meeting, Jaishankar raises Black Sea death of 4 Indian crew with Lavrov
-Jaishankar and Lavrov, who met on the margins of ASEAN-related meetings in the Philippines capital of Manila, also reviewed bilateral relations
-
-## J&K cop Aashiq Hussain Qureshi killed in first terror attack since Pahalgam killings
-This is the first terror attack in Jammu and Kashmir since the deadly attack in Pahalgam in April last year claimed 26 lives.
-
-## Australian politician Barnaby Joyce snaps at dog during live interview, Internet reacts
+## Pune railway station gets AI upgrade: 160 CCTV cameras to watch over passengers
 
 
-## Zee5 unveils Scam The Leak, series inspired by the NEET paper leak. Watch
+## ‘Shilpa Shetty hasn’t taken a single penny home from Bastian’: Raj Kundra on restaurant chain
 
 
-## Pune dams fill up amid heavy rain, storage nears city’s annual need
+## 13 years after fatal crash, Gauhati High Court hikes payout to driver’s family to Rs 8.43 lakh
 
 
-## After summoning Russian envoy, Jaishankar presses Moscow on Indian seafarers’ safety
+## ‘It felt right’: Delivery workers find purpose amid CJP protest
 
 
-## Commonwealth Games 2026: Full India schedule – dates, events & timings for Glasgow edition
+## The story behind Sridevi’s Lamhe costume: ‘Something that looked very Rajasthani’
 
 
-## Sunaina Roshan reversed grade 3 fatty liver with this habit
+## Commonwealth Games 2026: Live Streaming, India’s full schedule, top medal contenders & full squad for Glasgow
 
 
-## India-bound oil tankers take U-turn in Red Sea after Houthi blockade threat
+## ‘Could be your family tomorrow’: Vismaya Mohanlal, Tovino Thomas support CJP protests
 
 
-## Son dead, crane collapse victim’s father goes on hunger strike: ‘What’s the use of cops’ uniform?’
+## Rahul Gandhi, Opposition are amplifying youth concerns. BJP government is stifling them
 
 
 ## China targets panda bond reform, mandates global credit mapping to lure foreign capital
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Al Jazeera reports from anti-US protest outside ASEAN summit
-Al Jazeera reports from anti-US protest outside ASEAN summit
+## Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach
+Italy's football federation chief holds talks with Guardiola over vacant role, but appointment not yet confirmed.
 
-## Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?
-Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.
+## Syrian people must not be failed again
+Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.
 
-## Mexico goalkeeper Guillermo Ochoa retires after 22-year career
-The 41-year-old, who played in six FIFA World Cups, announces he will retire from both club and country.
+## Trump ally Andy Biggs wins Republican nomination for Arizona governor
+Biggs overwhelmingly defeats David Schweikert and will now face Democratic Governor Katie Hobbs in November.
 
-## Chelsea signs Morgan Rogers from Aston Villa in record British deal
-The 23-year-old Rogers, one of the Premier League's top attacking talents, has signed a contract until 2033.
+## US Secretary of State say Iran is in ‘a lot of trouble’
+US Secretary of State say Iran is in ‘a lot of trouble’
 
-## Rabat demands answers after Moroccan man dies during arrest in Italy
-Italian Prime Minister Meloni says truth must be 'pursued to the very end' after death of Abderrahim Fakir in Bologna.
+## Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia
+Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.
 
-## FIFA World Cup final draws record viewership in United States
-Figures reveal that viewership remained strong even after the USA were eliminated from tournament.
+## Austria turns Adolf Hitler’s birthplace into police station
+Austrian politicians hope the change will prevent neo-Nazis from visiting the building as a place of pilgrimage.
 
-## US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says
-US Secretary of State says Iranian control over Strait of Hormuz sets 'dangerous precedent', as attacks continue.
+## Lebanese army deployed in ‘pilot zone’ as families wait to return home
+Lebanese army deployed in ‘pilot zone’ as families wait to return home
 
-## Air defences activate in Iran and flames rise from US attacks
-Explosions could be heard over Tehran as the US army said it had completed its 11th consecutive day of strikes on Iran.
+## Graphic evidence shown as D4vd murder hearing begins
+Hearing in singer D4vd's murder case begins.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
