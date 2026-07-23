@@ -1,64 +1,70 @@
 # AION Intelligence
 
-## Trump threatens to destroy Iranian bridges and power plants
-US president’s warning marks latest attempts to assert American control over Strait of Hormuz
+## Modi vows ‘swift’ justice for India exam leaks
+Prime minister makes first comments on scandal that triggered protests in Delhi this week
+
+## BASF warns EU carbon plans risk accelerating industrial decline
+Also in this newsletter: Death during police arrest fuels security debate in Italy
+
+## A practical problem with Andy Burnham’s postcode power-up plan
+We need stats, stat
 
 ## Iran-backed Houthis attack two Saudi Arabian oil tankers
 Brent prices rise after Yemeni rebels say they hit the Encelia and the Layla
 
-## DC’s new National Geographic Museum of Exploration is a triumph
-The reimagined showcase for the work of the revered society and magazine inspires both childlike wonder at the natural world and a desire to protect it
+## FirstFT: Google burns through $6bn in cash amid AI infrastructure splurge
+Also in today’s newsletter: Houthis attack two Saudi tankers and Jes Staley on Capitol Hill
 
-## US and Japan clash over meltdown liability in $40bn nuclear power deal
-Project is part of Tokyo’s commitment to invest $550bn in return for lower tariffs
+## Household inflation expectations in the US are worryingly high
+Much higher inflation expectations may well require action by the Fed, even as the market remains sanguine
 
-## New Zealand’s ‘rocket man’ takes on Musk and Bezos
-Peter Beck’s Rocket Lab builds out internet satellite business to rival Starlink and Amazon Leo
+## English football is for sale
+In the afterglow of the World Cup, some club owners are looking to do deals
 
-## Tesla’s profits plunge as Musk’s carmaker uses discounts to boost sales
-Capital expenditures more than doubled as company accelerates pivot to AI and robots
-
-## Why the US is losing Chinese AI stars
-More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley
-
-## How long can China defy history and logic with its imbalances?
-The country is demanding far too much of a world fixated on cheap consumer goods
+## Buyout groups hunt for software bargains after ‘SaaS-pocalypse’
+Francisco Partners co-founder Dipanjan ‘DJ’ Deb says AI will not kill software sector as firm raises $21bn
 
 ## Macquarie names banking head to succeed Wikramanayake as CEO
 Greg Ward appointed to lead Australian investing giant
 
-## Google burns through $6bn in cash as AI spending climbs again
-Search giant says it will commit up to $205bn to AI investments in 2026
+## BNP Paribas profits surge by a third after trading boom
+Revenues up 12% in second quarter from last year, with asset management division posting bumper gains
 
-## US and Saudi Arabia agree landmark nuclear energy pact
-Critics warn agreement lacks safeguards to prevent future uranium enrichment and reprocessing
+## FT Wealth: July
+In this edition: Our obsession with rich lists, and why that’s a problem; the Manhattan prosecutor battling the stolen antiquities trade; what wealth meant to Americans on the eve of independence; the aristocrats with unorthodox ideas for saving the family pile
 
-## Uber founder Travis Kalanick raises $1.7bn for new start-up
-Andreessen Horowitz and the riding hailing group join funding round
+## Jes Staley to testify on Capitol Hill over ties to Epstein
+Former Barclays chief to take questions from House oversight committee over his links to the late sex offender
 
-## Sensex today | Stock Market Live: Sensex down 390 pts at open, Nifty at 23,900 as Brent Crude surges past $96
-Sensex, Nifty, Share Prices LIVE: Sensex traded 357.83 pts or 0.47% lower at 76,397.22 at 9.17 am after opening at 76,515.10 from the previous close of 76,755.05; Nifty 50 fell 101.30 pts or 0.42% to 23,894.95
+## Why is England unable to fix social care?
+The failure of successive governments to confront the problem carries a heavy political cost
 
-## Q1 Results Today LIVE: Infosys, Mphasis, IndiGo, Cipla, Meesho, Cyient, PVR INOX, IEX, VMM to announce Q1 results today, Eternal, Nestle, Adani Power, AGEL, Tata Comm, BPCL, HPCL, Dr Reddy's, IndusInd shares in focus
+## Sensex today | Stock Market Live: Sensex slips 100 pts, Nifty near 24,000 in volatile trade
+Sensex, Nifty, Share Prices LIVE: At 11:04 am, Sensex lost 34.95 points (-0.05%) to trade at 76,720.10, while Nifty slipped 10.50 points (-0.04%) to 23,985.75
+
+## Indian auto parts industry seen growing at 10% CAGR till FY30: Goldman Sachs
+Diversification into semiconductors, defence, EVs and aerospace to drive revenue to $124.4 billion
+
+## Adani group eyes starting an airline, say sources
+The plan signals a change of strategy for the ports-to-cement ‌group which operates eight airports in India, including two in Mumbai, and has an $11 billion ‌expansion strategy
+
+## India's surging refined product exports ease Asia fuel crisis: Russell
+Refiners are taking advantage of the large premium being commanded by fuels like diesel and gasoline over crude oil
+
+## Maaza® marks 50 years with Special Cover; Mango farmers felicitated on National Mango Day
+Maaza® marks 50 years with Special Cover; Mango farmers felicitated on National Mango Day
+
+## Q1 Results Today LIVE: Infosys, Mphasis, IndiGo, Cipla, Meesho, Cyient, PVR INOX, IEX, VMM to announce Q1 results today, Eternal gains, NTPC Green zooms 9%, Dr Reddy’s Lab, IndusInd Bank, Nestle & HPCL shares in red following Q1 results
 Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
 
-## Silver imports slump as new licensing disrupts shipments
-In May, the country imposed silver import licensing to conserve foreign-exchange reserves, reducing shipments from 747 tons in January to an estimated 29 tons in June, according to Metals Focus
+## India and Myanmar signal closer rare earth mining ties
+The matter received high-level attention during an official visit by junta chief-turned-president Min Aung Hlaing to India in May-June
 
-## ICICI Bank sets initial guidance for first dollar bond in nearly 9 years
-The lender is expected to raise at least $500 million through this issue and ‌has provided guidance of a spread of 130 basis points over the corresponding US ‌Treasury yield
+## Rubio says US tariffs on generic drug imports 'not raised' during talks with EAM, 'might have with others'
+Trump says the policy is aimed at bringing generic pharmaceutical production back to the United States, with penalties for companies that choose not to establish manufacturing plants in the US
 
-## Jana Nayagan hits theatres after delays, sparks festive scenes across Tamil Nadu
-Supporters lined up outside theatres, danced in celebration and welcomed Tamil Nadu Chief Minister C Joseph Vijay’s latest film with first-day-first-show enthusiasm
-
-## Nasdaq to kick off tiny companies faster after SEC approves rule
-Companies valued below $5 million for 30 consecutive days could face swift suspension and delisting as regulators crack down on stock manipulation.
-
-## CJP Delhi protest: Students clash with Police as calls for Education Minister’s resignation intensify
-More than 10,000 people gathered at protest site; Delhi Metro Rail shuts 16 stations in and around central New Delhi on Thursday until further notice
-
-## IPO corner: Xtranet Tech issue opens at ₹120-127 price band
-Market lot is 110 shares
+## Rupee rises to 96.49 against US dollar, rising oil prices limit gains
+The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets
 
 ## More pulp, less tax: Govt panel hits the sweet spot with 'aam' proposal to help Totapuri farmers
 The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. This move aims to revive Totapuri mango pulp demand and improve beverage quality. An expert committee studied Totapuri price declines and suggested solutions for farmers. Recommendations include price stabilization committ
@@ -81,56 +87,62 @@ Crude oil prices surged as Middle East conflict escalated on Thursday. Brent cru
 ## Improving liquidity helping robust growth in credit: RBI
 India's economy shows resilience amid global uncertainties and fragile geopolitics. Liquidity conditions have improved, supporting robust credit growth across the nation. The external sector remains steady, with foreign investment inflows strengthening its outlook. Rural and urban demand conditions 
 
-## Pharma companies in a flux over Trump's 200% tariff move on generics
-2-year window, P 15
+## Sabarimala gold loss case probe continuing very slowly; govt unhappy: Minister Muraleedharan
+Sabarimala gold loss case probe continuing very slowly; govt unhappy: Minister Muraleedharan
 
-## Assam chief secy reviews flood situation, asks all depts to expedite relief work
-Assam chief secy reviews flood situation, asks all depts to expedite relief work
+## Senior CPI(M) leader P K Sreemathi to move police over fake pension claim
+Senior CPI(M) leader P K Sreemathi to move police over fake pension claim
 
-## 'What kept you waiting?': Annamalai questions BJP, Centre over talks with NEET protesters
-No accountability despite repeated paper leaks was what led students to ‘take to the streets to cry their hearts out’, K Annamalai said.
+## Protests are ‘wake-up call’: MK Stalin accuses Centre, demands abolition of NEET exam
+Stalin said the ongoing student protests should serve as a "wake-up call" for the Union Government and urged it to "trust the states" and abolish NEET.
 
-## Noida has UP's biggest backlog of court cases, Lucknow a distant second
-Noida’s case pendency is overwhelmingly driven by criminal cases. Civil cases account for less than 30,000 of the pending total disputes.
+## Chandigarh: BRICS delegates take part in walkathon at Sukhna Lake
+Chandigarh: BRICS delegates take part in walkathon at Sukhna Lake
 
-## Gujarat court rejects closure report in killing of man, minor son, 7 cops to face criminal case
-Gujarat court rejects closure report in killing of man, minor son, 7 cops to face criminal case
+## SC may hear plea on closure of metro stations if authorities fail to act: CJI
+Drawing attention to the inconvenience caused, SCBA president Singh said the closure of the Supreme Court metro station by the police had severely affected access to the court complex
 
-## India likely to cross target of 300 GW of renewable energy by August-end: Prahlad Joshi
-The minister said the country’s rapid growth in the clean energy sector will be backed up by considerable growth through energy storage.
+## ‘Why?’ CJP claims Delhi Police placed 'totally damaged car' outside Jantar Mantar protest site
+The Cockroach Janta Party (CJP) alleged that Delhi Police placed a damaged car outside the Jantar Mantar protest site, questioning the motive behind the move.
 
-## IIT Madras asks student body to delete pro-protest Instagram video
-A student body at the Indian Institute of Technology (IIT) Madras has alleged that senior institute officials asked it to delete an Instagram video posted in support with students protesting over examination irregularities and denied permission for a peaceful gathering, saying it could “disrupt” the
+## FBI arrests Harmanveer Singh on charges of drug trafficking for Dhanda gang
+US authorities arrested an Indian man in California after linking him to an alleged cross-border narcotics network operating across North America.
 
-## Will end fast if govt gives assurance on key demands: Wangchuk
-Activist Sonam Wangchuk on Wednesday said he was ready to break his 25-day-long hunger strike if the government gave him assurances on key demands, including no legal action against agitators who mounted a massive protest that rocked Delhi earlier this week
+## Anurag Jain appointed next NITI Aayog CEO. Who is he?
+Anurag Jain is a 1989-batch Indian Administrative Service (IAS) officer from the Madhya Pradesh cadre.
 
-## Chambal mining crackdown facing ‘practical constraints’: Panel seeks transfer of revenue land to forest department
-The CEC was informed that since a major chunk of the sanctuary land is not a notified forest, the statutory power of seizure under Section 52 of the 1927 Act is not available in respect of such areas.
-
-## PM Modi announces fast-track courts to ensure ‘justice’ in paper leak cases
+## Pune traffic advisory: Roads closed, diversions for VBA protest march today
 
 
-## Auto driver shot by police in Jammu’s Doda was ferrying men with ‘cattle smuggling’ past
+## ‘Cowards play backward’: Martinez and Lionel Messi’s half-time pep talk
 
 
-## Student admitted in ICU after march — corridors in RML quieter, security tighter
+## Why has the UK brought British Steel back into public ownership?
 
 
-## US, Saudi Arabia sign historic nuclear deal that could allow local uranium enrichment
+## Imran Khan keeps his doorbell off; psychology behind avoiding unexpected interruptions
 
 
-## ‘I am a termite’: In Goa, BJP leader’s remark stirs a new protest
+## Knowledge Nugget | Tenkasi excavation in Tamil Nadu: What makes it a landmark archaeological discovery?
 
 
-## 16 Delhi Metro stations shut for second day as protestors swell at Jantar Mantar
+## From 5.02 to 5.56 lakh: What changed in Indian Railways’ recruitment numbers in a year
 
 
-## Amazon reduces AGI workforce as it doubles down on core AI projects
+## Nandamuri Balakrishna suffers knee injury during shoot, hospitalised in Hyderabad
 
 
-## Indian-American Sikh teen’s family questions scoring in Trump-era civics contest
+## Mumbai rain IMD alert: Warning upgraded in city, expect heavy downpour; Palghar on red alert for 24 hours
 
+
+## Chinese funds cut Hong Kong stock holdings to 2-year low despite strong southbound flow
+Chinese mutual funds have reduced their Hong Kong stock holdings via the southbound Stock Connect to a more than two-year low in the second quarter, despite a lot of money moving southward over the same period. The share of Hong Kong stocks in their portfolios fell to 23.3 per cent in the second qua
+
+## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
+China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
+
+## Asia’s affluent families rethink legacy planning as complexity shifts focus to execution
+[The content of this article has been produced by our advertising partner.] Over the next 20 to 30 years, Asia is expected to experience significant intergenerational wealth transfers, with substantial assets changing hands. For the families involved, the scale is unprecedented – as is the level of 
 
 ## China’s power grid no longer keeping pace with green energy capacity, study says
 China is building more wind and solar capacity than the rest of the world combined, but transmission bottlenecks risk prolonging its reliance on coal, according to a report published on Tuesday by Global Energy Monitor (GEM). More than 500 gigawatts (GW) of China’s planned 1,360GW of utility-scale w
@@ -139,22 +151,13 @@ China is building more wind and solar capacity than the rest of the world combin
 As a potentially record-setting El Nino threatens to push up global food prices – with an impact as great as the Iran war – some global investment banks have warned investors to pay more attention to the risk of “climate black swan” events: sudden, unexpected shifts in the climate with the power to 
 
 ## Chinese investors rush into private funds, pouring US$1.2 trillion into securities
-China’s private securities investment funds surpassed 8 trillion yuan (US$1.2 trillion) for the first time at the end of June, emerging as the core engine driving the expansion of the country’s entire private fund industry, according to the Asset Management Association of China. Propelled by the hug
+China’s private securities investment funds surpassed 8 trillion yuan (US$1.2 trillion) for the first time at the end of June, emerging as the core engine driving the expansion of the country’s private fund industry, according to the Asset Management Association of China. Propelled by the huge growt
 
 ## Investors ‘bulk buying’ flats remains key in Hong Kong amid red-hot rental market
 Hong Kong’s bulk homebuyers are expected to remain a major force in the city’s new-home market in the second half of the year, after investor purchases hit record levels in the first six months on strong rental demand. A total of 654 buyers purchased two or more units in the primary market between J
 
 ## How China and Indonesia can build a truly sturdy partnership
 In April 1955, amid the Cold War, 304 representatives across 29 Asian and African nations convened in Bandung, Indonesia, to discuss the principles of a more complex future world order. Among them were India, China and host Indonesia. While India would go on to champion the non-aligned movement at t
-
-## What would 200% US tariffs on generic drugs mean for China’s pharmaceutical industry?
-Despite Washington’s move to tighten policy on pharmaceutical trade with a fresh threat of 100 per cent tariffs on generic drug imports, analysts say China’s pharmaceutical rise is now tariff-proof, making its ascent in the global supply chain look irreversible. US President Donald Trump announced p
-
-## Despite regulatory crackdown, Chinese investors look to Hong Kong, US to diversify
-Around half of Chinese investors with assets over 1 million yuan (US$147,703) plan to increase their investments in Hong Kong and the United States over the next 12 months to diversify their portfolios, despite Beijing’s crackdown on cross-border brokerages, according to a new survey. The findings c
-
-## China targets panda bond reform, mandates global credit mapping to lure foreign capital
-Chinese regulators moved on Tuesday to improve the quality of credit ratings for panda bonds – a yuan-denominated asset class that has seen a surge in interest from foreign sovereign and institutional investors this year as a key tool to bolster Beijing’s yuan-internationalisation push. Credit-ratin
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
@@ -252,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Armed attackers kill more than 20 in northwest Nigeria
-The attacks reflect a surge in violence as armed gangs continue raiding villages in northwest and central Nigeria.
+## Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia
+Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.
 
-## In Gaza, a long path to recovery for one woman who lost eye, and daughter
-Psychological wounds compound Najwa's physical injuries after losing her daughter in an Israeli air strike.
+## Will the war on Iran affect ASEAN’s efforts to tackle regional issues?
+Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila.
 
-## Why Abderrahim Fakir’s death reignited Italy’s police accountability debate
-A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.
+## Thousands forced to evacuate as wildfires sweep across southern France
+Thousands of people are being evacuated from areas of southern France as firefighters battle huge wildfires.
 
-## Spain and France battle raging wildfires, face high risk of more
-A wildfire in Spain's Guadalajara region has burned 32,000 hectares, in one of the country's largest recorded blazes.
+## US attacks Iran for 12th night as the House approves defence spending
+Strikes from the US on Iran are raining down for the 12th night in a row.
 
-## US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections
-With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.
+## Saudi Arabia and US agree to landmark nuclear deal for civilian purposes
+The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.
 
-## US House passes $1.15 trillion military bill expanding Israel cooperation
-Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.
+## Indian police accused of using pellet guns in crackdown on India’s protests
+Videos emerge showing police using pellet guns on protesters India’s student protest movement.
 
-## AI, China, ‘dark factories’ and the future of the US auto industry
-Economist Mary Lovely dismisses the claims that getting automakers to produce more cars in America proves tariffs work.
+## Israel building earthen barrier in Gaza to entrench division of the enclave
+The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.
 
-## Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers
-US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.
+## Guyana ferry disaster: families demand answers as around 100 feared dead
+Officials say 76 of the roughly 179 people believed to have been aboard survived, and 53 bodies have been found so far.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
