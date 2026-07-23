@@ -1,34 +1,40 @@
 # AION Intelligence
 
+## Apple revives automotive ambitions with Ford deal for in-car software
+iPhone maker’s new technology comes two years after ending its own efforts to build an electric vehicle
+
+## Oil hits $100 for first time since May
+Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies
+
+## Palestinian economy on ‘cliff edge’ as Israeli banks cut ties
+Move follows years of attempts by Israel’s far-right government to fatally undermine Palestinian Authority
+
+## Trump administration’s dealing in companies is on shaky ground
+Clearer rules are needed for when the US government takes equity stakes
+
 ## Oil price surge drives global bond sell-off
-Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations
+Brent crude’s rise above $100 threatens a prolonged surge in inflation and resetting interest rate expectations
 
-## ECB holds interest rates at 2.25%
-Central bank pauses despite renewed surge in oil prices
+## Tesla shares tumble 11% after discounts hit profits
+Capital expenditures more than doubled as company accelerates pivot to AI and robots
 
-## Inflation and interest rates tracker: see how your country compares
-Explore the latest data through interactive charts
+## Ireland stresses Europe’s need for alumina amid spat over Russian-owned plant
+European Commission weighs whether Aughinish Alumina factory in County Limerick should face sanctions
 
-## Laura Loomer meets Zelenskyy after pro-Ukraine conversion
-Far-right influencer abandoned opposition to war to praise Kyiv’s resilience against Russian aggression
+## Trump throws controversial US-Saudi Arabia nuclear pact into doubt
+Also in today’s newsletter, where is the US keeping $13bn of Venezuela’s oil money?
+
+## Trump says Saudi nuclear deal depends on relations with Israel
+Crown prince has insisted any rapprochement with Israel would depend on steps towards establishing Palestinian state
+
+## STMicroelectronics hit by doubts over AI spending boom
+Franco-Italian chipmaker’s third-quarter sales forecast misses analysts’ expectations
 
 ## Oil jumps to $99 after Houthis attack two Saudi Arabian tankers
 Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla
 
-## Live reader Q&A — How will Burnham govern the UK?
-Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley, now
-
-## Postcard from Italy: in the flower fields of Castelluccio
-On the high plains of the Apennines, the summer ‘flowering’ is one of the country’s great seasonal spectacles — though barely known overseas
-
 ## Iran war reignites debate over US energy-permitting reform
 Changes would enable infrastructure to be built faster in order to bolster the country’s energy security
-
-## ECB keeps interest rates on hold as expected
-Central bank says its energy price outlook remains “close” to June projections
-
-## STMicroelectronics hit by doubts over AI spending boom
-Franco-Italian chipmaker’s third-quarter sales forecast misses analysts’ expectations
 
 ## Blackstone says pace of withdrawals slowing at flagship private credit fund
 Investor concern over potential losses led to a surge in customers seeking to pull out money this year
@@ -36,35 +42,29 @@ Investor concern over potential losses led to a surge in customers seeking to pu
 ## FirstFT: Jes Staley faces questions over his links to sex offender Jeffrey Epstein
 Also in today’s newsletter: surge in oil prices reignites fears of an inflation shock and Google’s cash flow turns negative
 
-## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
-EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
+## IndiGo slips into Q1 loss as fuel costs, West Asia disruptions weigh on earnings
+Passenger revenue and yields remain resilient despite elevated ATF prices, adverse forex movement and network-related constraints
 
-## Houthi attacks threaten Saudi Arabia’s oil lifeline
-Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab
+## Parliamentary Panel to FSSAI: Notify front-of-pack labelling regulations in a time-bound manner
 
-## ‘Jana Nayagan’ opens to frenzy as fans throng theatres for CM Vijay’s final act in movies
-Fans thronged theaters for shows as early as 8:00 AM, dancing their hearts out outside the theaters in front of large banners of the actor
 
-## J&K aims to double start-ups by 2027 in J&K start-up summit
-Abdullah said governments were often risk-averse and preferred investments with predictable outcomes, but startups required a greater willingness to accept uncertainty.
+## Karnataka sets December operational date for 200-acre KWIN city semiconductor park
+To complement the infrastructure, the state announced its upcoming Aerospace and Defence Policy 2026–2031
 
-## The ePlane Company signs MoU with Apollo Hospitals for air ambulances and medical drones
-Apollo has expressed intent to procure The ePlane Company’s e200x air ambulances to facilitate rapid inter-hospital transfers, trauma response, cardiac and stroke emergencies and organ transport
+## India eases FDI rules for e-commerce firms to boost exports of locally made goods
+Restrictions on inventory-based e-commerce, B2C sales under the FDI policy will not apply for exports of goods produced in India: Press Note 3 of 2026
 
-## JSW Infra’s ₹600-crore mechanisation project at VOC Port set for FY27 Q4 completion
-The terminal is designed to handle a range of dry bulk cargo, including coal, coke, limestone, gypsum, rock phosphate and copper concentrate
+## Indian students win international robotics challenge in South Korea
+Noida’s Shiv Nadar School Class XI students Ayaan Suri and Tanash Garg win in competition featuring 27 international teams
 
-## Buffett indicator signals that Indian stock market is relatively less overheated
-Although valuations remain above the long-term average, India is considerably less overheated than several major equity markets, including the US, Taiwan, Japan and South Korea
+## Gujarat reels under torrential rains; 1,500 rescued & 27,000 evacuated amid widespread flooding
+Chief Minister orders additional NDRF, SDRF teams
 
-## South Gujarat deluge shatters records as another ‘low’ looms over Bay
-Valsad district and Union Territory of Dadra and Nagar Haveli found themselves in the eye of a raging rain storm through Wednesday to Thursday
+## Premium petrol to remain ethanol-free, government clarifies
+The government said there is no proposal to raise ethanol blending in petrol beyond 20% or to restore the supply of E0 and E10 petrol
 
-## Q1 Results Today LIVE: Infosys con. PAT up 12%, IndiGo loss at ₹382 cr, Cipla Q1 PAT declines, PVR INOX logs profit, Mphasis, Meesho, Cyient to announce Q1 results today
-Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
-
-## Ashok Leyland partners with Shriram Automall to unlock new opportunities in pre-owned CV market
-Pre-owned or re-purposed vehicles sector is experiencing exponential and consistent growth
+## Infosys Q1 profit slips 8.6% QoQ to ₹7,769 crore
+Infosys trims upper end of FY27 revenue growth guidance
 
 ## Longer routes, higher costs, 26,000 cancellations: US-Iran conflict hits Indian airlines
 Indian airlines have cancelled approximately 26,000 international flights due to Middle East airspace restrictions. These disruptions have led to flight diversions and delays, impacting airline operations significantly. Longer flight routes are increasing fuel consumption and raising overall operati
@@ -90,52 +90,52 @@ The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. Th
 ## Stock market today: NSE Nifty50 opens below 24,000, BSE Sensex sheds over 350 points
 
 
-## Supreme Court lawyers recite Constitution's Preamble seeking justice for students, CJP thanks them
-Senior Advocate Indira Jaising said the issue concerned the rights of students and that it was the duty of lawyers to stand with them and seek justice.
+## Maharashtra min Nitesh Rane acquitted in 2013 toll booth assault, vandalism case
+A Mapusa court acquitted Maharashtra minister Nitesh Rane in the 2013 Goa toll booth vandalism and assault case, citing lack of evidence.
 
-## Chennai man held at Kolkata airport with 707 Red-eared Slider turtles
-Customs officials at Kolkata airport seized 707 Red-eared Slider turtles from a Chennai passenger arriving from Bangkok and arrested him under wildlife laws.
+## BJP veteran Murli Manohar Joshi condemns use of force on protesters: ‘Young girls brutally mishandled’
+Joshi said their anxieties and concerns regarding the examination system are genuine and must be handled with empathy and a desire to find a lasting solution.
 
-## PM Modi's fast-track courts announcement for paper leaks draws mixed response: 'Took him 34 days'
-While Opposition leaders stayed firm on Dharmendra Pradhan's resignation demand, union ministers and BJP leaders welcomed PM Modi's announcement on paper leaks.
+## Pakistan asked about ongoing CJP protests in India. Their reply
+CJP on Thursday continued its protest for the 34th consecutive day, demanding the resignation of education minister Dharmendra Pradhan.
 
-## New draft rules: Unpaid traffic e-challans may freeze vehicle, licence services
-The Centre’s draft Motor Vehicles Rules propose blocking vehicle registration and driving licence services until unpaid e-challans are cleared.
+## 'Your resignation demand next': Abhijeet Dipke's message to PM Modi amid Pradhan's removal calls
+The CJP founder added that an incompetent and failed minister can't remain in office and should not be more important than the lives of crores of students.
 
-## CJP calls nationwide protest tomorrow against 'police brutality' on students, shares guidelines
-The party has called for peaceful demonstrations in every district in solidarity with those it says were subjected to police action.
+## Search on in Rajasthan for 400-year-old cannon stolen from Narwar Fort
+Police teams from Narwar in Madhya Pradesh and Karauli in Rajasthan have been camping in Gaonra Meena village since Wednesday afternoon
 
-## Who is Rhiya Ahir? Woman who broke internet by blocking police van at Mumbai CJP protest
-Rhiya Ahir, a 27-year-old model, believed the detainees were being removed unnecessarily and immediately rushed towards the vehicle to stop it.
+## 1,200 rescued from Umargam as flood situation worsens in south Gujarat
+Relief commissioner Gaurav Makwana said around 1,200 people were rescued from Umargam, with the Centre deploying Army personnel and additional NDRF teams.
 
-## BJP MP claims students using paper leak as excuse: ‘Trying to convince parents…’
-The BJP MP also remarked that Prime Minister Narendra Modi has called for the harshest punishment of the 13 people arrested in the NEET UG paper leak.
+## Chhattisgarh cops file FIR against Congress leaders over violence at BJP protest
+Bhupesh Baghel questioned the police move to register FIR against Congress workers over the BJP’s attack carried out under police protection.
 
-## IndiGo posts ₹238 crore net loss in Q1, cites West Asia conflict and fuel costs
-IndiGo Managing Director Rahul Bhatia said the first quarter was shaped by a volatile operating environment.
+## Delhi's Connaught Place advised to shut early, CJP doubts move: 'What's the government up to?'
+The advisory triggered sharp reactions from the CJP and Aam Aadmi Party (AAP), both of which questioned the government's decision to issue the closure order.
 
-## What’s inside IIT Madras’ freshers kit 2026? Here’s what the newest IITians are unboxing
-
-
-## UPSC Mains Answer Practice — GS 2: strategic significance of BIMSTEC and NATO’s transformation (Week 164)
+## UPSC Key: Police Actions in Protests, Marrakesh Agreement and QUAD
 
 
-## Wife claims HIV after marriage, Chhattisgarh High Court raises alimony to Rs 7 lakh
+## ‘Karisma Kapoor would cry’: Kareena recalled sister’s struggle as Bollywood didn’t support her
 
 
-## Amid renewed West Asia conflict, discounts on Russian oil for Indian refiners vanish
+## Paper leak protest politicised, affecting normal public life: Mayawati
 
 
-## Walking epidurals can ease labour pain, but they are still rare in India — here’s why
+## US Secret Service puts JD Vance’s security agent on leave after trip details leaked
 
 
-## ‘Budget for drugs at TV parties,’ claims Narayani Shastri, says seen actors ‘high on sets’
+## Infosys profit rises 12% in June quarter; Ashiss Kumar Dash named CEO designate
 
 
-## Jana Nayagan box office collection day 1 early report: Vijay’s film eyes Rs 80 cr globally
+## Bengaluru elderly couple die by suicide amid health, financial strain
 
 
-## Ashes 2027 dates out as England and Australia reignite iconic rivalry
+## Salman Khan urges Sonam Wangchuk to end protest, asks students to return home
+
+
+## Dropped after three failures, Sooryavanshi answers back with an 18-ball fifty
 
 
 ## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
@@ -162,6 +162,12 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
+## Beijing Is Celebrating a Race It Never Ran
+A new Pew survey shows the world likes China more than the United States. Look closer, and the win belongs to nobody.
+
+## Britain Is Losing the Falklands
+Will Argentina capitalize on growing momentum behind its claim to the islands?
+
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
 
@@ -179,12 +185,6 @@ As violence rises, both sides seek to increase their leverage without returning 
 
 ## China Pitches Its AI Leadership to the World
 A new organization includes five Southeast Asian members.
-
-## Trump’s China Threats Don’t Match His China Policy
-The president’s allegations about election interference are the latest case in point.
-
-## Why a Hunger Strike Is Rallying India’s Youth
-Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition.
 
 ## India and Japan’s Emerging Shipbuilding Partnership
 The future of India-Japan security cooperation lies in shipyards – and maybe with the Mogami-class frigate.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Cricket: No Ashes 2027 Tests to take place in the north of England
-England will not host Australia at Old Trafford or Headingley.
+## How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down
+Insurance rates through Hormuz are currently four times the five-year average.
 
-## EU hits Google with new $1bn fine, saying it broke digital antitrust rules
-The fine is part of a major crackdown on Big Tech by Brussels which says it is seeking to ensure fair competition.
+## Has Russia helped Iran target CIA sites in the Gulf?
+Reports of Iran targeting sites belonging to the US's CIA first emerged in the early days of the Iran war.
 
-## Can Iran withstand new pressure from the US?
-After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time
+## Ebola death toll in DR Congo surpasses 1,000
+More than 1,000 people have died in the latest Ebola outbreak in DR Congo, according to official government data.
 
-## Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?
-Iraqi Prime Minister Ali al-Zaid is visiting Tehran after a high-profile meeting with US President Donald Trump.
+## Why do some of the cheapest cities cost the most to live in?
+A worker in Cairo can afford 22 hamburgers a month. In Tel Aviv, more than 200. AJLabs counts a salary in Big Mac meals.
 
-## Several killed as Ukraine, Russia trade attacks deep behind the front line
-Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.
+## Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail
+Indian authorities release the two men after years in prison although both remain under tight court-imposed restrictions
 
-## Israel releases 35 detainees from Gaza
-Israel releases 35 detainees from Gaza
+## Rebuilding Gaza to cost $71bn, must include Palestinians, report finds
+Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.
 
-## Why a North Sea oilfield is emerging as British PM Burnham’s big test
-Reports suggesting the new British PM might allow drilling in the North Sea have excited Donald Trump, divided locals.
+## How are companies, governments responding to the OpenAI hack?
+OpenAI's AI models hacked into another company, prompting calls for scrutiny of safeguards for advanced AI systems.
 
-## Women’s Africa Cup of Nations 2026: What to know about the tournament
-Tournament format, venues, title favourites, groups, prize money and players to watch at the 2026 WAFCON in Morocco.
+## ‘Our fight is to fix the system’: India protesters demand accountability
+India's Cockroach Janta Party led weeks of protests over exam paper leaks.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
@@ -306,6 +306,9 @@ Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal mom
 ## JPC weighs key changes to Corporate Laws Bill, reviews AIF-to-LLP conversion and CSR norms
 A parliamentary panel is examining changes to corporate law amendments. Investors may become partners in newly formed LLPs instead of trustees. The committee also debates proposed relaxations in corporate social responsibility norms. A framework for overseas companies to re-domicile in India is unde
 
+## India in strongest credit growth phase since 2012 on robust corporate demand: Report
+India's credit expansion is currently its strongest since 2012. Corporate loan growth reached a thirteen-year high in May. Household loan growth has also remained resilient for four months. Non-banking financial companies saw retail loan growth accelerate significantly. Overall credit demand is expe
+
 ## Trump tariffs may stay alive as US set to impose new import taxes by Friday
 Donald Trump is likely planning new import duties on many nations by Friday. These levies aim to continue his tariff regime after current ones expire. The administration proposed these tariffs citing lax forced-labor standards. Temporary charges are set to expire Friday, avoiding any tariff gap. The
 
@@ -323,7 +326,4 @@ Foreign currency inflows are strengthening India's balance of payments position.
 
 ## Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush
 Banks anticipate a surge in FCNR-B deposits before the September deadline. Initial inflows have been below expectations, but partnerships are being forged. Demand from non-resident Indians remains strong, especially from the Middle East. Lenders are intensifying outreach efforts to attract more over
-
-## India's EXIM Bank plans $300 million dollar bond sale under RBI hedging facility
-Export-Import Bank of India plans to raise $300 million through dollar bonds. This move utilizes the central bank's subsidized hedging facility for overseas fundraising. The state-run institution will issue three-year floating-rate bonds priced over SOFR. Other development finance institutions and b
 
