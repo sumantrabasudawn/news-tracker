@@ -1,10 +1,31 @@
 # AION Intelligence
 
+## Trump threatens to destroy Iranian bridges and power plants
+US president’s warning marks latest attempts to assert American control over Strait of Hormuz
+
+## Iran-backed Houthis attack two Saudi Arabian oil tankers
+Brent prices rise after Yemeni rebels say they hit the Encelia and the Layla
+
+## DC’s new National Geographic Museum of Exploration is a triumph
+The reimagined showcase for the work of the revered society and magazine inspires both childlike wonder at the natural world and a desire to protect it
+
+## US and Japan clash over meltdown liability in $40bn nuclear power deal
+Project is part of Tokyo’s commitment to invest $550bn in return for lower tariffs
+
+## New Zealand’s ‘rocket man’ takes on Musk and Bezos
+Peter Beck’s Rocket Lab builds out internet satellite business to rival Starlink and Amazon Leo
+
+## Tesla’s profits plunge as Musk’s carmaker uses discounts to boost sales
+Capital expenditures more than doubled as company accelerates pivot to AI and robots
+
 ## Why the US is losing Chinese AI stars
 More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley
 
 ## How long can China defy history and logic with its imbalances?
 The country is demanding far too much of a world fixated on cheap consumer goods
+
+## Macquarie names banking head to succeed Wikramanayake as CEO
+Greg Ward appointed to lead Australian investing giant
 
 ## Google burns through $6bn in cash as AI spending climbs again
 Search giant says it will commit up to $205bn to AI investments in 2026
@@ -15,41 +36,38 @@ Critics warn agreement lacks safeguards to prevent future uranium enrichment and
 ## Uber founder Travis Kalanick raises $1.7bn for new start-up
 Andreessen Horowitz and the riding hailing group join funding round
 
-## OpenAI hacking incident exposes mounting risks in AI arms race
-Increasing use of aggressive training techniques sharpens threat of bad behaviour by leading models
+## Sensex today | Stock Market Live: Sensex down 390 pts at open, Nifty at 23,900 as Brent Crude surges past $96
+Sensex, Nifty, Share Prices LIVE: Sensex traded 357.83 pts or 0.47% lower at 76,397.22 at 9.17 am after opening at 76,515.10 from the previous close of 76,755.05; Nifty 50 fell 101.30 pts or 0.42% to 23,894.95
 
-## FirstFT: Google burned through cash last quarter amid AI infrastructure splurge
-Also in today’s newsletter: OpenAI ‘agent’ hacks into start-up and India’s Gen Z takes on Modi
+## Q1 Results Today LIVE: Infosys, Mphasis, IndiGo, Cipla, Meesho, Cyient, PVR INOX, IEX, VMM to announce Q1 results today, Eternal, Nestle, Adani Power, AGEL, Tata Comm, BPCL, HPCL, Dr Reddy's, IndusInd shares in focus
+Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
 
-## Russian gas cargoes to remain exempt as EU nears new sanctions deal
-Groups such as Greece’s Dynagas will be allowed to continue carrying Russian LNG
+## Silver imports slump as new licensing disrupts shipments
+In May, the country imposed silver import licensing to conserve foreign-exchange reserves, reducing shipments from 747 tons in January to an estimated 29 tons in June, according to Metals Focus
 
-## Tesla profits plunge as discounts on EV models weigh on results
-Capital expenditures more than doubled as company accelerates pivot to semiconductors, autonomous taxis and humanoid robots
+## ICICI Bank sets initial guidance for first dollar bond in nearly 9 years
+The lender is expected to raise at least $500 million through this issue and ‌has provided guidance of a spread of 130 basis points over the corresponding US ‌Treasury yield
 
-## Scientists discover strange Milky Way planetary system unlike our solar system
-The unusual planetary system, 71 light-years from Earth, is unlike anything previously observed in the Milky Way
+## Jana Nayagan hits theatres after delays, sparks festive scenes across Tamil Nadu
+Supporters lined up outside theatres, danced in celebration and welcomed Tamil Nadu Chief Minister C Joseph Vijay’s latest film with first-day-first-show enthusiasm
 
-## US tariff threat drags Nifty Pharma 1.3% lower at close; Lupin, PPL Pharma lead decline
-Only two of the index’s 20 constituents ended in positive territory, while 18 declined
+## Nasdaq to kick off tiny companies faster after SEC approves rule
+Companies valued below $5 million for 30 consecutive days could face swift suspension and delisting as regulators crack down on stock manipulation.
 
-## Lower area under arhar in India’s Karnataka unlikely to be offset elsewhere
-This is despite higher coverage in U.P., Telangana and Andhra; Maharashtra and M.P. report double-digit decline
+## CJP Delhi protest: Students clash with Police as calls for Education Minister’s resignation intensify
+More than 10,000 people gathered at protest site; Delhi Metro Rail shuts 16 stations in and around central New Delhi on Thursday until further notice
 
-## FCNR (B) deposits: Small, mid-sized private banks reach out to GIFT City IBUs to offer leverage to NRIs
-This initiative aims to provide non-resident Indian (NRI) customers with access to leverage, enabling them to place higher deposits with tenors of 3-5 years.
+## IPO corner: Xtranet Tech issue opens at ₹120-127 price band
+Market lot is 110 shares
 
-## Nestle India Q1 results: Consolidated net profit surges 48% to ₹959 crore
-Consolidated revenue from operations increased 25.16% year-on-year to ₹6,378.18 crore.
+## More pulp, less tax: Govt panel hits the sweet spot with 'aam' proposal to help Totapuri farmers
+The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. This move aims to revive Totapuri mango pulp demand and improve beverage quality. An expert committee studied Totapuri price declines and suggested solutions for farmers. Recommendations include price stabilization committ
 
-## India’s road to AI leadership
+## Stock market today: NSE Nifty50 opens below 24,000, BSE Sensex sheds over 350 points
 
 
-## Mumbaikars gather in hordes in people-led march
-Mothers who had joined in the march condemned the government for turning a deaf ears on the children’s demands
-
-## Rain deficit shrinks to 21 % as wet spell intensifies in West, North-West
-Central India (deficit of 13 per cent) and North-West India (18 per cent) emerge as best-performing regions this week
+## Oil prices touch six week high as Strait of Hormuz is 'completely closed'
+Crude oil prices surged as Middle East conflict escalated on Thursday. Brent crude rose above $96 a barrel and WTI climbed past $88. Fresh attacks on oil tankers in the Red Sea fueled supply concerns. Iran's Revolutionary Guards claimed control of the Strait of Hormuz. Houthi naval blockades further
 
 ## Under-recoveries push HPCL, BPCL into losses
 
@@ -66,62 +84,59 @@ India's economy shows resilience amid global uncertainties and fragile geopoliti
 ## Pharma companies in a flux over Trump's 200% tariff move on generics
 2-year window, P 15
 
-## Temasek widens scope of India investments
-Temasek is broadening its Indian investment focus beyond traditional sectors. The investor will now target industrials and artificial intelligence opportunities. Its India portfolio has grown significantly, reaching $42 billion by March 2026. The firm aims to double its recent capital deployment in 
+## Assam chief secy reviews flood situation, asks all depts to expedite relief work
+Assam chief secy reviews flood situation, asks all depts to expedite relief work
 
-## Trump's 25% tariff hits Brazil: Trade tensions deepen as billions in exports at risk
+## 'What kept you waiting?': Annamalai questions BJP, Centre over talks with NEET protesters
+No accountability despite repeated paper leaks was what led students to ‘take to the streets to cry their hearts out’, K Annamalai said.
 
+## Noida has UP's biggest backlog of court cases, Lucknow a distant second
+Noida’s case pendency is overwhelmingly driven by criminal cases. Civil cases account for less than 30,000 of the pending total disputes.
 
-## 'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai
-Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhan
+## Gujarat court rejects closure report in killing of man, minor son, 7 cops to face criminal case
+Gujarat court rejects closure report in killing of man, minor son, 7 cops to face criminal case
 
-## ‘Don’t waste our time’: CJI declines urgent listing of police action pleas
-The lawyer cited videos purportedly showing police assaulting unarmed protesters and offered to submit videos, but the CJI declined to entertain the submission
+## India likely to cross target of 300 GW of renewable energy by August-end: Prahlad Joshi
+The minister said the country’s rapid growth in the clean energy sector will be backed up by considerable growth through energy storage.
 
-## 'Cockroaches never die': Why RAF officer Sonia Sehrawat, her Instagram story are at the centre of CJP protest
-RAF officer Sonia Sehrawat purportedly posted a short reel on her Instagram story that read, “Can’t fix themselves and they wanna fix the country.”
+## IIT Madras asks student body to delete pro-protest Instagram video
+A student body at the Indian Institute of Technology (IIT) Madras has alleged that senior institute officials asked it to delete an Instagram video posted in support with students protesting over examination irregularities and denied permission for a peaceful gathering, saying it could “disrupt” the
 
-## NCB, Manipur police arrest alleged drug supplier wanted in NDPS cases
-The accused was allegedly part of a Myanmar-based drug trafficking syndicate that routed methamphetamine and heroin through the Northeast, NCB said.
+## Will end fast if govt gives assurance on key demands: Wangchuk
+Activist Sonam Wangchuk on Wednesday said he was ready to break his 25-day-long hunger strike if the government gave him assurances on key demands, including no legal action against agitators who mounted a massive protest that rocked Delhi earlier this week
 
-## 5 Delhi cops injured, internet cut, tear gas fired: Fresh chaos amid CJP protest near Sansad Marg today
-The situation became tense near Park Hotel on Sansad Marg, where the crowd turned unruly and tear gas shells were fired.
+## Chambal mining crackdown facing ‘practical constraints’: Panel seeks transfer of revenue land to forest department
+The CEC was informed that since a major chunk of the sanctuary land is not a notified forest, the statutory power of seizure under Section 52 of the 1927 Act is not available in respect of such areas.
 
-## Uttarakhand: Nursing aspirant consumes phenyl during protest in Dehradun
-The nursing aspirants were protesting outside health minister Subodh Uniyal’s residence, demanding year-wise recruitment and other pending demands.
-
-## Govt responds to Rahul Gandhi's 150+ paper leaks claim, questions ‘selective outrage’
-JP Nadda also listed cases of paper leaks and exam irregularities in Opposition-ruled states and questioned Rahul Gandhi's “selective” outrage.
-
-## Anna Hazare writes to PM Modi amid CJP protest, urges 'minister's resignation'
-Hazare also raised concerns over reports of 22 students dying by suicide following the cancellation of the medical entrance exam.
-
-## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
-Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
-
-## ‘Change its name if you have to… don’t end our careers’: At Jauhar University, a campus fears demolition, women voices loudest
+## PM Modi announces fast-track courts to ensure ‘justice’ in paper leak cases
 
 
-## Bus stolen by drunk man tears through town, Telangana police in hot pursuit
+## Auto driver shot by police in Jammu’s Doda was ferrying men with ‘cattle smuggling’ past
 
 
-## CJP protest: Sonam Wangchuk opens a window for talks as Government steps up efforts to resolve crisis
+## Student admitted in ICU after march — corridors in RML quieter, security tighter
 
 
-## Vadodara-Bharuch stretch gets own NHAI unit, after last year’s gridlocks
+## US, Saudi Arabia sign historic nuclear deal that could allow local uranium enrichment
 
 
-## Gujarat Confidential: CM Bhupendra Patel’s digital visit
+## ‘I am a termite’: In Goa, BJP leader’s remark stirs a new protest
 
 
-## DDA housing scheme for corporates and govt staff: 25 per cent discount for 1,200 Narela flats
+## 16 Delhi Metro stations shut for second day as protestors swell at Jantar Mantar
 
 
-## US says interim trade deal almost ready as Jaishankar meets Rubio in Philippines
+## Amazon reduces AGI workforce as it doubles down on core AI projects
 
 
-## Delhi Confidential: Refreshments
+## Indian-American Sikh teen’s family questions scoring in Trump-era civics contest
 
+
+## China’s power grid no longer keeping pace with green energy capacity, study says
+China is building more wind and solar capacity than the rest of the world combined, but transmission bottlenecks risk prolonging its reliance on coal, according to a report published on Tuesday by Global Energy Monitor (GEM). More than 500 gigawatts (GW) of China’s planned 1,360GW of utility-scale w
+
+## Why the spectre of ‘climate black swan’ events is haunting global investors
+As a potentially record-setting El Nino threatens to push up global food prices – with an impact as great as the Iran war – some global investment banks have warned investors to pay more attention to the risk of “climate black swan” events: sudden, unexpected shifts in the climate with the power to 
 
 ## Chinese investors rush into private funds, pouring US$1.2 trillion into securities
 China’s private securities investment funds surpassed 8 trillion yuan (US$1.2 trillion) for the first time at the end of June, emerging as the core engine driving the expansion of the country’s entire private fund industry, according to the Asset Management Association of China. Propelled by the hug
@@ -140,12 +155,6 @@ Around half of Chinese investors with assets over 1 million yuan (US$147,703) pl
 
 ## China targets panda bond reform, mandates global credit mapping to lure foreign capital
 Chinese regulators moved on Tuesday to improve the quality of credit ratings for panda bonds – a yuan-denominated asset class that has seen a surge in interest from foreign sovereign and institutional investors this year as a key tool to bolster Beijing’s yuan-internationalisation push. Credit-ratin
-
-## US levels AI sanctions threat as China models gain
-US Treasury Secretary Scott Bessent signalled potential action against open source artificial intelligence (AI) models amid accusations that Chinese developers are creating low-cost systems using stolen US intellectual property. “This administration supports open source models, but what we do not su
-
-## EQT Impact Challenge 2026 will help deep-tech start-ups think globally
-Hong Kong’s ecosystem of start-ups reached a record high of 5,221 last year – up from 4,694 in 2024, according to InvestHK, the government department tasked with attracting foreign direct investment to the city. Famed for its entrepreneurial culture, Hong Kong is also increasingly known for the stre
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
@@ -171,6 +180,12 @@ The president’s allegations about election interference are the latest case in
 ## Why a Hunger Strike Is Rallying India’s Youth
 Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition.
 
+## The First Japan-Brazil Foreign Ministers’ Strategic Dialogue
+An important first step, with much work still ahead.
+
+## China Coast Guard Exercises ‘Jurisdiction’ in Japan’s Exclusive Economic Zone
+Japan now needs to formulate its response.
+
 ## The World Cup and the G2 Reality
 The international sporting event showcased American strengths. It's a reminder that both the U.S. and China should stop betting on each other’s decline.
 
@@ -188,12 +203,6 @@ Beijing’s intensifying efforts to shape international norms on AI are aimed at
 
 ## How South Korea’s Africa Pledges Are Faring on the Ground
 In western Uganda, a project funded by the Korea International Cooperation Agency (KOICA) serves as a test case for what South Korea can offer the continent.
-
-## Beyond a ‘Non-Red’ Supply Chain, Taiwan Should Export a Drone Ecosystem
-To build a real “drone shield,” Taiwan cannot merely export hardware or components.
-
-## Amnesty: Deadly Pakistan Air Strikes on Kabul Drug Rehab Center a Possible War Crime
-The human rights organization’s new report found “no evidence of Pakistan’s claims” that the site hit on March 16 was a military target.
 
 ## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
 In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
@@ -243,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Austrian home where Hitler was born reopened as police station
-For decades, neo-Nazis and far-right extremists flocked to the Austrian home where Adolf Hitler.
+## Armed attackers kill more than 20 in northwest Nigeria
+The attacks reflect a surge in violence as armed gangs continue raiding villages in northwest and central Nigeria.
 
-## Yemen’s Houthis claim attack on two Saudi oil tankers
-Claimed attacks come days after Houthis announced naval embargo on Saudi vessels
+## In Gaza, a long path to recovery for one woman who lost eye, and daughter
+Psychological wounds compound Najwa's physical injuries after losing her daughter in an Israeli air strike.
 
-## Rubio says US, China must ‘work through’ big differences at ASEAN meeting
-Rubio met his Chinese counterpart to discuss managing tensions ahead of President Xi Jinping's upcoming US visit.
+## Why Abderrahim Fakir’s death reignited Italy’s police accountability debate
+A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.
 
-## Iranian missiles show deadly precision amid US-Iran war escalation
-Killing of three US soldiers at Jordan base shows Iran maintains the ability to exact deadly toll in grinding conflict.
+## Spain and France battle raging wildfires, face high risk of more
+A wildfire in Spain's Guadalajara region has burned 32,000 hectares, in one of the country's largest recorded blazes.
 
-## US launches new strikes as Iran warns of regional turmoil
-Tehran's chief negotiator says if Iran's 'security is not ensured, no infrastructure will be safe'.
+## US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections
+With Lula polling ahead and tariffs squeezing Brazil's economy, the Bolsonaro family's Washington strategy is faltering.
 
-## Wounded Gaza journalists call for urgent medical evacuation
-Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.
+## US House passes $1.15 trillion military bill expanding Israel cooperation
+Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.
 
-## US and Saudi Arabia announce nuclear cooperation deal
-Trump administration says 'historic' agreement will 'reinforce global nonproliferation standards' and create jobs in US.
+## AI, China, ‘dark factories’ and the future of the US auto industry
+Economist Mary Lovely dismisses the claims that getting automakers to produce more cars in America proves tariffs work.
 
-## India’s Rahul Gandhi speaks out after release
-Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.
+## Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers
+US and Iran trade attacks as more explosions are reported in Iranian cities, including Sirik, Ahvaz and Bushehr.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
@@ -291,6 +300,9 @@ A parliamentary panel is examining changes to corporate law amendments. Investor
 ## Sebi empanels 18 more forensic auditors for listed company audits
 The Securities and Exchange Board of India has added eighteen new firms to its forensic audit panel. These firms will conduct financial statement audits for listed companies facing scrutiny. The empanelment follows a selection process initiated through public procurement notices. This move aims to e
 
+## Trump tariffs may stay alive as US set to impose new import taxes by Friday
+Donald Trump is likely planning new import duties on many nations by Friday. These levies aim to continue his tariff regime after current ones expire. The administration proposed these tariffs citing lax forced-labor standards. Temporary charges are set to expire Friday, avoiding any tariff gap. The
+
 ## PLI schemes attract Rs 2.4 lakh crore investment, create 14.15 lakh jobs: Govt
 The government's Production Linked Incentive (PLI) schemes have attracted actual investments of more than Rs 2.40 lakh crore, generated over 14.15 lakh direct and indirect jobs, and enabled exports worth Rs 15.2 lakh crore across 14 key sectors as of March 31, 2026, Parliament was informed on Tuesda
 
@@ -311,7 +323,4 @@ Export-Import Bank of India plans to raise $300 million through dollar bonds. Th
 
 ## RBI, FinMin likely to take up UAE curbs on Indian banks’ FCNR(B) mobilisation; lenders activate alternate channels
 With RBI targeting roughly USD 20 billion each from public and private sector banks under its FCNR(B) mobilisation drive, lenders have sought government level intervention after the UAE barred representative offices from business facilitation, cross selling and deposit documentation activities, whil
-
-## Govt to introduce income tax, MSME reforms among 5 new bills in monsoon session
-The Centre is set to introduce five new bills during the monsoon session of Parliament which kicks off on Monday, which include proposals related to income tax and MSME reforms, an increase in the strength of Supreme Court judges and changes in the birth registration laws.
 
