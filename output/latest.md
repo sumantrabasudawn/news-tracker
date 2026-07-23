@@ -1,13 +1,22 @@
 # AION Intelligence
 
-## Intel shares rally after chipmaker posts fastest growth in 15 years
+## Intel posts fastest growth in 15 years as AI data centres demand fuels sales
 Chipmaker’s revenue jumped 25% in the second quarter
+
+## Oil hits $100 for first time since May while US stocks slide
+Donald Trump says Washington is weighing ‘massive attack’ on Iran as Middle East tensions increase
+
+## Sewage discharges flout guidance near 65 beaches in England since May
+Overflows at bathing sites come as tourists flock to coastal areas for summer holidays
+
+## Sun, football and Burnham push UK consumer confidence higher
+Survey was conducted in first half of July before new prime minister took office and ahead of latest escalation in US-Iran conflict
+
+## US hits 60 countries with new duties as Trump rebuilds tariff wall
+Administration pins measures on forced labour probe after Supreme Court struck down blanket levies
 
 ## FirstFT: China’s Xi Jinping pursues AI diplomacy to woo developing countries
 Also in today’s newsletter: US hits 60 countries with new tariffs and Modi vows ‘swift’ justice for India exam leaks
-
-## US hits 60 countries with new duties as Donald Trump rebuilds tariff wall
-Administration pins new measures on forced labour probe after Supreme Court struck down blanket levies
 
 ## China’s Xi pursues AI diplomacy to woo global south
 Beijing makes most ambitious offer yet to build alternative global order
@@ -15,26 +24,17 @@ Beijing makes most ambitious offer yet to build alternative global order
 ## Dangote secures record $2.5bn investment to expand Lagos refinery
 Billionaire Nigerian businessman is planning to grow capacity from about 650,000 barrels per day to 1.4mn b/d by 2028
 
-## Oil hits $100 for first time since May while US stocks slide
-Donald Trump warns US is weighing ‘massive attack’ on Iran as Middle East tensions ratchet higher
-
-## How Andy Burnham’s rise to PM was helped by those axed by Starmer
-List of people sacked or cast aside includes Louise Haigh, Lucy Powell and Anneliese Midgley, some of new premier’s most powerful allies
-
-## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
-EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
-
 ## Chinese AI models will slash adoption costs, says Singapore’s GIC
 Sovereign wealth fund expects strong growth in Chinese AI companies but is cautious about start-ups
 
 ## FDA panel supports access to peptides over scientist objections
 Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks
 
+## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
+EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
+
 ## US justice department to streamline company merger reviews
 Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions
-
-## North Sea oil and gas industry looks for answers from new energy secretary
-Miatta Fahnbulleh’s visit to Aberdeen comes as companies hope to sway Burnham’s government on new drilling licences
 
 ## Sonam Wangchuk ends hunger strike after Centre assures action on key demands
 A late-night meeting with Union Ministers JP Nadda and Jitendra Singh led to government assurances on protesters, exam reforms and the NEET paper leak issue
@@ -108,29 +108,32 @@ The IT major said the majority salary increases for senior employees would be im
 ## 480 Pak-based handles blocked: Delhi Police's big warning on 'fake news' amid student protests
 Delhi Police blocks 480 Pakistan-based social media accounts for spreading misleading content during student protests.
 
-## ‘Please talk to the children’: Physicswallah CEO appeals to government
+## Down a fort, now under the ground? Cops of two states search for 3,500-kg cannon
 
 
-## Opposition MPs visit Gandhi Smriti, pay tribute to students who died by suicide over NEET leak
+## Women separated from partners, ‘raped’ by tribal community leaders in Chhattisgarh
 
 
-## CJP seeks police nod for rally, extends support to SFI protest today
+## Rajasthan government paves way for political workers to join police’s community intel groups
 
 
-## Vadodara gets drinking water relief as rain fills Ajwa Lake, schools to remain shut on Friday
+## NEET 2024 leak: CBI says no evidence linking key accused Sanjeev Mukhiya to paper’s theft or distribution
 
 
-## Ravindra Dhangekar, wife get anticipatory bail in businessman suicide case
+## ‘Not CJP or BJP, it’s about student rights’: Protests rage nationwide; many detained
 
 
-## Sonam Wangchuk ends 26-day fast, cites ‘long negotiation’ on conditions, ‘possible violence’ in country
+## CJP protest: 3 treated for pellet injuries, CRPF probes chain of events, role of Rapid Action Force
 
 
-## Six inches of rain in 3 hours floods Ahmedabad; several rescued
+## Government says doors always open for talks; CJP, Opposition firm on Dharmendra Pradhan’s resignation
 
 
-## In midnight video message, PM promises tough new law for exam leaks
+## Delhi Confidential: ‘Odiya Style’
 
+
+## Hongkongers increase cross-border shopping splurges, spending data shows
+Even as local retail spending remains resilient, Hong Kong consumers are shopping more across the border in mainland China, drawn by lower prices and wider adoption of digital payments, according to data from payment giant UnionPay International. Offline UnionPay card spending in mainland China by H
 
 ## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
 Geely Auto, China’s second-largest carmaker, has struck a deal with Ford Motor to use the US company’s redundant capacity in Spain to build electric vehicles (EVs) amid its stepped-up push to expand globally. Multi-energy cars would be assembled at an idle factory in Almussafes, near Valencia, after
@@ -152,9 +155,6 @@ Alibaba Group Holding’s mapping unit has unveiled an upgrade to what it calls 
 
 ## Chinese funds cut Hong Kong stock holdings to 2-year low despite strong southbound flow
 Chinese mutual funds have reduced their Hong Kong stock holdings via the southbound Stock Connect to a more than two-year low in the second quarter, despite a lot of money moving southward over the same period. The share of Hong Kong stocks in their portfolios fell to 23.3 per cent in the second qua
-
-## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
-China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
 ## Is Cuba Trump’s Next Target?
 The regime in Havana is increasingly in the Trump administration’s crosshairs.
@@ -252,6 +252,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How the Houthi Red Sea blockade will impact the world
+The Houthis' blockade of Bab al-Mandeb threatens a vital global trade route.
+
+## Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque
+Israeli settlers' storming of Islam's holy site fuels 'hatred' and obstructs lasting peace, joint statement says.
+
 ## Is this Italy’s ‘George Floyd moment’?
 The death of Moroccan-born Abderrahim Fakir after he was restrained by police in Bologna has sparked protests.
 
@@ -269,12 +275,6 @@ A rally attendee seated directly behind Trump drew attention by mimicking the pr
 
 ## France wildfires force evacuation of over 20,000 people from tourist town
 About 800 firefighters and hundreds of gendarmes and soldiers deployed to battle the flames west of Bordeaux.
-
-## Videos show the moment police officer shoots man on street in Wisconsin
-Outrage is growing after videos show a police officer fatally shooting a man in the US state of Wisconsin.
-
-## White House says will not block Tate brothers’ extradition to UK
-Social media influencers to be extradited after UK authorities file dozens of new sex crime charges against them.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
