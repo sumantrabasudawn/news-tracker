@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Oil jumps to $98 after Houthis attack two Saudi Arabian tankers
+Yemeni rebels say they used missiles and drones to target the vessels Encelia and Layla
+
+## Burnham announces cut to business rates for pubs and clubs
+Prime minister says move will help boost high streets across UK
+
 ## Modi vows ‘swift’ justice for India exam leaks
 Prime minister makes first comments on scandal that triggered protests in Delhi this week
 
@@ -8,9 +14,6 @@ Also in this newsletter: Death during police arrest fuels security debate in Ita
 
 ## A practical problem with Andy Burnham’s postcode power-up plan
 We need stats, stat
-
-## Iran-backed Houthis attack two Saudi Arabian oil tankers
-Brent prices rise after Yemeni rebels say they hit the Encelia and the Layla
 
 ## FirstFT: Google burns through $6bn in cash amid AI infrastructure splurge
 Also in today’s newsletter: Houthis attack two Saudi tankers and Jes Staley on Capitol Hill
@@ -21,11 +24,14 @@ Much higher inflation expectations may well require action by the Fed, even as t
 ## English football is for sale
 In the afterglow of the World Cup, some club owners are looking to do deals
 
-## Buyout groups hunt for software bargains after ‘SaaS-pocalypse’
-Francisco Partners co-founder Dipanjan ‘DJ’ Deb says AI will not kill software sector as firm raises $21bn
-
 ## Macquarie names banking head to succeed Wikramanayake as CEO
 Greg Ward appointed to lead Australian investing giant
+
+## EasyJet profits tumble as Middle East war hits consumer confidence
+Quarterly earnings at low-cost airline drop to £85mn
+
+## Japan’s AI play and Taiwan’s space ambitions
+The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
 ## BNP Paribas profits surge by a third after trading boom
 Revenues up 12% in second quarter from last year, with asset management division posting bumper gains
@@ -36,32 +42,29 @@ In this edition: Our obsession with rich lists, and why that’s a problem; the 
 ## Jes Staley to testify on Capitol Hill over ties to Epstein
 Former Barclays chief to take questions from House oversight committee over his links to the late sex offender
 
-## Why is England unable to fix social care?
-The failure of successive governments to confront the problem carries a heavy political cost
+## A NEW CHAPTER BEGINS: PEACH BLOSSOMS RETURNS TO LEVEL 5 WITH THE DEBUT OF ITS BLACK PEARL ONE DIAMOND TASTING JOURNEY
+A NEW CHAPTER BEGINS: PEACH BLOSSOMS RETURNS TO LEVEL 5 WITH THE DEBUT OF ITS BLACK PEARL ONE DIAMOND TASTING JOURNEY
 
-## Sensex today | Stock Market Live: Sensex slips 100 pts, Nifty near 24,000 in volatile trade
-Sensex, Nifty, Share Prices LIVE: At 11:04 am, Sensex lost 34.95 points (-0.05%) to trade at 76,720.10, while Nifty slipped 10.50 points (-0.04%) to 23,985.75
+## CRIF India Launches Chennai Chapter of 'Credit Goes to HER' to Strengthen Women's Leadership in the Credit Ecosystem
+CRIF India Launches Chennai Chapter of 'Credit Goes to HER' to Strengthen Women's Leadership in the Credit Ecosystem
 
-## Indian auto parts industry seen growing at 10% CAGR till FY30: Goldman Sachs
-Diversification into semiconductors, defence, EVs and aerospace to drive revenue to $124.4 billion
+## Forevermark Diamond Jewellery Enters East India
+Forevermark Diamond Jewellery Enters East India
 
-## Adani group eyes starting an airline, say sources
-The plan signals a change of strategy for the ports-to-cement ‌group which operates eight airports in India, including two in Mumbai, and has an $11 billion ‌expansion strategy
-
-## India's surging refined product exports ease Asia fuel crisis: Russell
-Refiners are taking advantage of the large premium being commanded by fuels like diesel and gasoline over crude oil
-
-## Maaza® marks 50 years with Special Cover; Mango farmers felicitated on National Mango Day
-Maaza® marks 50 years with Special Cover; Mango farmers felicitated on National Mango Day
-
-## Q1 Results Today LIVE: Infosys, Mphasis, IndiGo, Cipla, Meesho, Cyient, PVR INOX, IEX, VMM to announce Q1 results today, Eternal gains, NTPC Green zooms 9%, Dr Reddy’s Lab, IndusInd Bank, Nestle & HPCL shares in red following Q1 results
+## Q1 Results Today LIVE: Cipla Q1 PAT declines, PVR INOX logs profit, Vishal Mega Mart mixed Q1, Infosys, Mphasis, IndiGo, Meesho, Cyient, IEX to announce Q1 results today
 Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
 
-## India and Myanmar signal closer rare earth mining ties
-The matter received high-level attention during an official visit by junta chief-turned-president Min Aung Hlaing to India in May-June
+## Sensex today | Stock Market Live: Sensex falls 500 pts, Nifty slips to 23,800 in volatile trade; IndusInd Bank down 6%
+Sensex, Nifty, Share Prices LIVE: At 1:00pm, Sensex traded 451.92 points or -0.59% lower at 76,303.13, Nifty traded at 23,851.70, down 144.55 points (-0.60%).
 
-## Rubio says US tariffs on generic drug imports 'not raised' during talks with EAM, 'might have with others'
-Trump says the policy is aimed at bringing generic pharmaceutical production back to the United States, with penalties for companies that choose not to establish manufacturing plants in the US
+## West Asia oil producers step up plans to bypass Strait of Hormuz
+Gulf countries planning to spend billions of dollars to build pipelines enabling them to redirect more supplies to ports along the Red Sea, Suez Canal and Gulf of Oman
+
+## Fusion CX expects to cut 90 per cent of debt after IPO
+The IT firm aims to scale AI data infrastructure business; pursuing two acquisitions this year
+
+## Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts
+Weaker vehicle sales, production disruptions and higher costs outweigh ‌support from a weaker won
 
 ## Rupee rises to 96.49 against US dollar, rising oil prices limit gains
 The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets
@@ -87,53 +90,62 @@ Crude oil prices surged as Middle East conflict escalated on Thursday. Brent cru
 ## Improving liquidity helping robust growth in credit: RBI
 India's economy shows resilience amid global uncertainties and fragile geopolitics. Liquidity conditions have improved, supporting robust credit growth across the nation. The external sector remains steady, with foreign investment inflows strengthening its outlook. Rural and urban demand conditions 
 
-## Sabarimala gold loss case probe continuing very slowly; govt unhappy: Minister Muraleedharan
-Sabarimala gold loss case probe continuing very slowly; govt unhappy: Minister Muraleedharan
+## Our children deserve to be protected, not portrayed as villains: Gitanjali J Angmo
+Our children deserve to be protected, not portrayed as villains: Gitanjali J Angmo
 
-## Senior CPI(M) leader P K Sreemathi to move police over fake pension claim
-Senior CPI(M) leader P K Sreemathi to move police over fake pension claim
+## Delhi Police fact-checks reports of protester's death at Jantar Mantar: ‘She’s stable'
+Sakshi was injured in a stampede-like situation at the July 20 march after the police began lathi-charging protestors on site.
 
-## Protests are ‘wake-up call’: MK Stalin accuses Centre, demands abolition of NEET exam
-Stalin said the ongoing student protests should serve as a "wake-up call" for the Union Government and urged it to "trust the states" and abolish NEET.
+## Thackeray brothers announce ‘United March’ on July 26, invite Congress, Pawar
+Uddhav Thackeray and Raj Thackeray announce a July 26 United March in Mumbai, inviting Congress and Sharad Pawar to join the rally.
 
-## Chandigarh: BRICS delegates take part in walkathon at Sukhna Lake
-Chandigarh: BRICS delegates take part in walkathon at Sukhna Lake
+## Delhi Police allowed to invoke NSA powers amid CJP protest? What's the truth behind claim
+Delhi Police clarified that the said NSA order is a routine extension, dismissing reports that the move has been taken in order to quell the CJP protests.
 
-## SC may hear plea on closure of metro stations if authorities fail to act: CJI
-Drawing attention to the inconvenience caused, SCBA president Singh said the closure of the Supreme Court metro station by the police had severely affected access to the court complex
+## CBI finds no evidence against 'mastermind' Sanjeev Mukhiya in 2024 NEET paper leak case
+The CBI said Sanjeev Mukhiya was taken into custody because he was named in the FIR, but no evidence of his involvement emerged during the probe.
 
-## ‘Why?’ CJP claims Delhi Police placed 'totally damaged car' outside Jantar Mantar protest site
-The Cockroach Janta Party (CJP) alleged that Delhi Police placed a damaged car outside the Jantar Mantar protest site, questioning the motive behind the move.
+## SC permits TTZ authority to process pending 400 applications for setting up non-polluting MSMEs
+SC permits TTZ authority to process pending 400 applications for setting up non-polluting MSMEs
 
-## FBI arrests Harmanveer Singh on charges of drug trafficking for Dhanda gang
-US authorities arrested an Indian man in California after linking him to an alleged cross-border narcotics network operating across North America.
+## Kerala HC declines to suspend sentence of two accused in 2017 actress assault case
+Kerala HC declines to suspend sentence of two accused in 2017 actress assault case
 
-## Anurag Jain appointed next NITI Aayog CEO. Who is he?
-Anurag Jain is a 1989-batch Indian Administrative Service (IAS) officer from the Madhya Pradesh cadre.
+## RSS, VHP leaders to meet Ayodhya seers amid Ram Temple donation theft controversy
+The meeting is seen as part of an attempt to contain the political fallout from the irregularities ahead of the Uttar Pradesh assembly elections due in early 2027
 
-## Pune traffic advisory: Roads closed, diversions for VBA protest march today
-
-
-## ‘Cowards play backward’: Martinez and Lionel Messi’s half-time pep talk
+## NTA’s income doubles in 5 years, reaches Rs 1,117 crore; expenditure tops Rs 1,040 crore
 
 
-## Why has the UK brought British Steel back into public ownership?
+## Sonu Nigam ducks question on CJP protest; Kangana Ranaut backs PM’s ‘decisive action’
 
 
-## Imran Khan keeps his doorbell off; psychology behind avoiding unexpected interruptions
+## Commonwealth Games 2026 Lawn Bowls Explainer: Rules, scoring, key terms & India’s medal hopes
 
 
-## Knowledge Nugget | Tenkasi excavation in Tamil Nadu: What makes it a landmark archaeological discovery?
+## Shashi Tharoor quotes Pakistani poet to take a dig at PM Modi amid NEET paper leak row
 
 
-## From 5.02 to 5.56 lakh: What changed in Indian Railways’ recruitment numbers in a year
+## Sri Lankan Navy arrests 9 Indian fishermen near Talaimannar
 
 
-## Nandamuri Balakrishna suffers knee injury during shoot, hospitalised in Hyderabad
+## Had dengue once? Here’s why you can get it again and be more careful
 
 
-## Mumbai rain IMD alert: Warning upgraded in city, expect heavy downpour; Palghar on red alert for 24 hours
+## CBSE issues guidelines for Class 12 supplementary exams 2026; practical exams to be held from July 29
 
+
+## Bengaluru man booked over ‘abusive’ video on PM Modi and Delhi protests
+
+
+## Zhongji sets highest subscription threshold in Hong Kong IPO history
+Zhongji Innolight, the largest IPO in Hong Kong in nearly seven years, has set the highest subscription threshold in the city’s history, dampening retail investors’ appetite, though institutional demand remains strong, with multiple oversubscriptions already placed, according to people familiar with
+
+## AI trade keeps capital – and risks – flowing to emerging markets
+For the most dramatic change in a benchmark index in financial markets in recent years, look no further than the stock markets of developing economies. Just over a year ago, mainland China and India had a combined weight of 50 per cent in the MSCI Emerging Markets Index. Fast forward to today, and i
+
+## Alibaba unit says 5-in-1 AI gives robots unified brain, body and limbs
+Alibaba Group Holding’s mapping unit has unveiled an upgrade to what it calls the world’s first technology framework that unites a robot’s “feet, hands, brains, central nerves and motor nerves” into a single system. Amap’s ABot system marks the latest move in Chinese tech players’ race to harness ar
 
 ## Chinese funds cut Hong Kong stock holdings to 2-year low despite strong southbound flow
 Chinese mutual funds have reduced their Hong Kong stock holdings via the southbound Stock Connect to a more than two-year low in the second quarter, despite a lot of money moving southward over the same period. The share of Hong Kong stocks in their portfolios fell to 23.3 per cent in the second qua
@@ -149,15 +161,6 @@ China is building more wind and solar capacity than the rest of the world combin
 
 ## Why the spectre of ‘climate black swan’ events is haunting global investors
 As a potentially record-setting El Nino threatens to push up global food prices – with an impact as great as the Iran war – some global investment banks have warned investors to pay more attention to the risk of “climate black swan” events: sudden, unexpected shifts in the climate with the power to 
-
-## Chinese investors rush into private funds, pouring US$1.2 trillion into securities
-China’s private securities investment funds surpassed 8 trillion yuan (US$1.2 trillion) for the first time at the end of June, emerging as the core engine driving the expansion of the country’s private fund industry, according to the Asset Management Association of China. Propelled by the huge growt
-
-## Investors ‘bulk buying’ flats remains key in Hong Kong amid red-hot rental market
-Hong Kong’s bulk homebuyers are expected to remain a major force in the city’s new-home market in the second half of the year, after investor purchases hit record levels in the first six months on strong rental demand. A total of 654 buyers purchased two or more units in the primary market between J
-
-## How China and Indonesia can build a truly sturdy partnership
-In April 1955, amid the Cold War, 304 representatives across 29 Asian and African nations convened in Bandung, Indonesia, to discuss the principles of a more complex future world order. Among them were India, China and host Indonesia. While India would go on to champion the non-aligned movement at t
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
@@ -207,6 +210,15 @@ Beijing’s intensifying efforts to shape international norms on AI are aimed at
 ## How South Korea’s Africa Pledges Are Faring on the Ground
 In western Uganda, a project funded by the Korea International Cooperation Agency (KOICA) serves as a test case for what South Korea can offer the continent.
 
+## America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down
+For 18 days in June, two of America’s most capable AI models went dark worldwide, not for technical or business reasons, but because the U.S. government ordered it. On June 12, 2026, the Commerce Department informed Anthropic that its Fable 5 and Mythos 5 models could no longer be provided to any fo
+
+## The King of Cool: Mobile Refrigeration and the Remaking of Global Logistics
+Editor’s note: This is the fifth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
+
+## The Importance of the Invasion of Sicily
+On July 10, 1943, the Allied invasion of Sicily — codenamed Operation Husky — put more assault troops ashore on its first day than the Normandy landings would 11 months later. Despite the scale of these amphibious and vertical assaults on the Mediterranean’s largest island, the images most carry of 
+
 ## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
 In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
 
@@ -221,15 +233,6 @@ There’s a clear consensus that America hollowed out its critical minerals base
 
 ## Learning from the ‘Voyage of the Damned’: The Making of a Russian Naval Disaster
 Editorial Note: The dates cited in Eugene Politovsky’s account are from the old Russian Orthodox calendar, which is 13 days behind that of the (Gregorian) calendar system used in this article.A recent War on the Rocks article on the failure of the Spanish Reserve Fleet to prepare for war with the Un
-
-## Corruption Takes Center Stage in Ukraine’s National Conversation
-Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
-
-## Before Q-Day: The Race to Quantum First
-Somewhere, a hard drive is filling up with secrets no one can read yet, and its owner is waiting for the machine that opens them all at once. On March 30, 2026, that wait got shorter.Two independent research teams lowered the public estimates for breaking the encryption that secures banking, communi
-
-## The Make-or-Buy Line has Moved
-The secretary of defense’s November announcement on acquisition reform laid out an unprecedented vision across the entire acquisition spectrum to improve the delivery speed of critical capabilities to our warfighters. One foundational pillar is the implementation of a commercial first policy, which 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -255,29 +258,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Indian activist Wangchuk sets conditions to end hunger strike
+Indian activist Wangchuk sets conditions to end hunger strike
+
+## Photos: Gaza’s shelter crisis
+Gaza faces a deepening housing crisis as more than 92 percent of homes have been damaged or destroyed by Israel.
+
+## Travellers panic as US attacks Iran-Iraq border crossing
+Travellers panic as US attacks Iran-Iraq border crossing
+
+## India’s Modi promises fast-track courts for exam fraud fuelling protests
+Cockroach Janta Party protesters are occupying streets in New Delhi, demanding Education Minister Pradhan resign.
+
+## Top US and Russian diplomats discuss Ukraine war in Manila
+Russian Foreign Minister Lavrov 'reaffirmed ​readiness' for political ​and diplomatic settlement to Russia-Ukraine war.
+
+## Arsenal defender Saliba sidelined for ‘extended period’ due to back injury
+Centre back William Saliba won't require surgery for injury sustained at World Cup, his club says.
+
 ## Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia
 Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.
 
 ## Will the war on Iran affect ASEAN’s efforts to tackle regional issues?
 Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila.
 
-## Thousands forced to evacuate as wildfires sweep across southern France
-Thousands of people are being evacuated from areas of southern France as firefighters battle huge wildfires.
-
-## US attacks Iran for 12th night as the House approves defence spending
-Strikes from the US on Iran are raining down for the 12th night in a row.
-
-## Saudi Arabia and US agree to landmark nuclear deal for civilian purposes
-The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.
-
-## Indian police accused of using pellet guns in crackdown on India’s protests
-Videos emerge showing police using pellet guns on protesters India’s student protest movement.
-
-## Israel building earthen barrier in Gaza to entrench division of the enclave
-The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.
-
-## Guyana ferry disaster: families demand answers as around 100 feared dead
-Officials say 76 of the roughly 179 people believed to have been aboard survived, and 53 bodies have been found so far.
+## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
+Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
@@ -300,9 +306,6 @@ Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal mom
 ## JPC weighs key changes to Corporate Laws Bill, reviews AIF-to-LLP conversion and CSR norms
 A parliamentary panel is examining changes to corporate law amendments. Investors may become partners in newly formed LLPs instead of trustees. The committee also debates proposed relaxations in corporate social responsibility norms. A framework for overseas companies to re-domicile in India is unde
 
-## Sebi empanels 18 more forensic auditors for listed company audits
-The Securities and Exchange Board of India has added eighteen new firms to its forensic audit panel. These firms will conduct financial statement audits for listed companies facing scrutiny. The empanelment follows a selection process initiated through public procurement notices. This move aims to e
-
 ## Trump tariffs may stay alive as US set to impose new import taxes by Friday
 Donald Trump is likely planning new import duties on many nations by Friday. These levies aim to continue his tariff regime after current ones expire. The administration proposed these tariffs citing lax forced-labor standards. Temporary charges are set to expire Friday, avoiding any tariff gap. The
 
@@ -323,7 +326,4 @@ Banks anticipate a surge in FCNR-B deposits before the September deadline. Initi
 
 ## India's EXIM Bank plans $300 million dollar bond sale under RBI hedging facility
 Export-Import Bank of India plans to raise $300 million through dollar bonds. This move utilizes the central bank's subsidized hedging facility for overseas fundraising. The state-run institution will issue three-year floating-rate bonds priced over SOFR. Other development finance institutions and b
-
-## RBI, FinMin likely to take up UAE curbs on Indian banks’ FCNR(B) mobilisation; lenders activate alternate channels
-With RBI targeting roughly USD 20 billion each from public and private sector banks under its FCNR(B) mobilisation drive, lenders have sought government level intervention after the UAE barred representative offices from business facilitation, cross selling and deposit documentation activities, whil
 
