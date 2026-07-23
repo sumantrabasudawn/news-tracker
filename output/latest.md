@@ -3,6 +3,15 @@
 ## Intel shares rally after chipmaker posts fastest growth in 15 years
 Chipmaker’s revenue jumped 25% in the second quarter
 
+## FirstFT: China’s Xi Jinping pursues AI diplomacy to woo developing countries
+Also in today’s newsletter: US hits 60 countries with new tariffs and Modi vows ‘swift’ justice for India exam leaks
+
+## US hits 60 countries with new duties as Donald Trump rebuilds tariff wall
+Administration pins new measures on forced labour probe after Supreme Court struck down blanket levies
+
+## China’s Xi pursues AI diplomacy to woo global south
+Beijing makes most ambitious offer yet to build alternative global order
+
 ## Dangote secures record $2.5bn investment to expand Lagos refinery
 Billionaire Nigerian businessman is planning to grow capacity from about 650,000 barrels per day to 1.4mn b/d by 2028
 
@@ -15,23 +24,17 @@ List of people sacked or cast aside includes Louise Haigh, Lucy Powell and Annel
 ## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
 EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
 
-## Trump’s dubious nuclear deal with Saudi Arabia
-An accord lacking ‘gold standard’ safeguards on enrichment would carry proliferation risks
+## Chinese AI models will slash adoption costs, says Singapore’s GIC
+Sovereign wealth fund expects strong growth in Chinese AI companies but is cautious about start-ups
+
+## FDA panel supports access to peptides over scientist objections
+Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks
 
 ## US justice department to streamline company merger reviews
 Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions
 
 ## North Sea oil and gas industry looks for answers from new energy secretary
 Miatta Fahnbulleh’s visit to Aberdeen comes as companies hope to sway Burnham’s government on new drilling licences
-
-## FDA panel supports access to peptides over scientist objections
-Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks
-
-## Jes Staley testifies on Capitol Hill over ties to Epstein
-Former Barclays chief took questions from House oversight committee over his links to the late sex offender
-
-## The US needs a new Manhattan Project for fusion energy
-If we are to outpace China and own the future of this technology, we must fund it properly
 
 ## Sonam Wangchuk ends hunger strike after Centre assures action on key demands
 A late-night meeting with Union Ministers JP Nadda and Jitendra Singh led to government assurances on protesters, exam reforms and the NEET paper leak issue
@@ -57,6 +60,9 @@ Annual recurring revenue stood at $12.15 million while the unexecuted order book
 ## Primary market shows signs of revival even as uncertainty looms
 SEBI, in April, extended the one year validity of IPO observation letters expiring between April 1 and September 30 to uniformly until September-end
 
+## US unveils fresh tariffs of up to 12.5% on 60 economies amid 'forced labour' probe; India gets lower 10% rate
+
+
 ## IndiGo offers crisis management plan to settle CCI probe into flight disruption case
 IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over ai
 
@@ -77,9 +83,6 @@ For an employee, the last salary from the previous organisation is not just a pa
 
 ## India's first hydrogen-powered train clocks around 900 km in five days
 India's first hydrogen fuel cell train has covered 900 kilometers on its initial operational route. This new train runs on hydrogen fuel cells, producing only water vapor and heat. Passenger fares remain consistent with ordinary diesel services on this pilot project. The train operates on the Jind-S
-
-## Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm
-Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand 
 
 ## Sonam Wangchuk ends hunger strike after 26 days; PM Modi, Abhijeet Dipke react
 The development came after Prime Minister Narendra Modi announced that stricter action against paper leaks would be discussed at the Cabinet meeting on Friday.
@@ -105,6 +108,21 @@ The IT major said the majority salary increases for senior employees would be im
 ## 480 Pak-based handles blocked: Delhi Police's big warning on 'fake news' amid student protests
 Delhi Police blocks 480 Pakistan-based social media accounts for spreading misleading content during student protests.
 
+## ‘Please talk to the children’: Physicswallah CEO appeals to government
+
+
+## Opposition MPs visit Gandhi Smriti, pay tribute to students who died by suicide over NEET leak
+
+
+## CJP seeks police nod for rally, extends support to SFI protest today
+
+
+## Vadodara gets drinking water relief as rain fills Ajwa Lake, schools to remain shut on Friday
+
+
+## Ravindra Dhangekar, wife get anticipatory bail in businessman suicide case
+
+
 ## Sonam Wangchuk ends 26-day fast, cites ‘long negotiation’ on conditions, ‘possible violence’ in country
 
 
@@ -112,21 +130,6 @@ Delhi Police blocks 480 Pakistan-based social media accounts for spreading misle
 
 
 ## In midnight video message, PM promises tough new law for exam leaks
-
-
-## Commonwealth Games 2026 Opening Ceremony Live Updates: CWG flag hoisted, speeches underway
-
-
-## Iran flew IRGC commanders, missile gear to Yemen’s Houthis: Report
-
-
-## Why Nepal PM Balendra Shah is meeting India, China ambassadors after 100 days in office
-
-
-## Higher Education Secretary replaced amid nationwide anger over exam paper leaks
-
-
-## With youngsters at her heels, Manika Batra aims to level up her game
 
 
 ## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
@@ -153,6 +156,15 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
+## Is Cuba Trump’s Next Target?
+The regime in Havana is increasingly in the Trump administration’s crosshairs.
+
+## How Iran Gained the Upper Hand
+And what that means for Washington’s options to extract itself from this quagmire.
+
+## Is the Red Sea the New Hormuz Crisis?
+Houthi attacks on Saudi shipping risk adding a new front to the Iran war.
+
 ## China Is AI-Maxxing
 Beijing may be closing the gap with Washington in the AI race.
 
@@ -167,15 +179,6 @@ Ma Xingrui’s fall shows how deep personnel problems run.
 
 ## Trump Is Triggering a Middle East Nuclear Arms Race
 His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
-
-## Beijing Is Celebrating a Race It Never Ran
-A new Pew survey shows the world likes China more than the United States. Look closer, and the win belongs to nobody.
-
-## Britain Is Losing the Falklands
-Will Argentina capitalize on growing momentum behind its claim to the islands?
-
-## Trump Approves Nuclear Deal With Saudi Arabia
-But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
 
 ## Nepali PM Balendra Shah’s Image as a Change Agent is at Risk
 Shah has shown less concern for the health and wellbeing of the poor, and is preoccupied with appearing as a ruthless executor of public plans.
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US government cancels subpoena against three New York Times reporters
-Withdrawal is latest instance of government's efforts to crack down on critical media facing setbacks in court.
+## Is this Italy’s ‘George Floyd moment’?
+The death of Moroccan-born Abderrahim Fakir after he was restrained by police in Bologna has sparked protests.
 
-## How Sudan war is putting cancer patients at risk
-How Sudan war is putting cancer patients at risk
+## US war on Iran: The $110 billion price tag
+America's war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.
 
-## Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks
-⁠Sonam ⁠Wangchuk says he ended his fast to demand education minister's resignation 'in view of possible violence'.
+## Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf
+The US president's threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.
 
-## Minnesota man who killed Democratic lawmaker sentenced to life in US prison
-Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.
+## US-Saudi nuclear deal hinges on normalisation with Israel
+President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords
 
-## Journalist killed in Mexico after years of exposing corruption
-Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.
+## Rally attendee steals the show by mimicking Trump’s gestures
+A rally attendee seated directly behind Trump drew attention by mimicking the president.
 
-## Resumption of oil exports: Will Yemen recover its economic lifeline?
-Yemen has proven oil reserves estimated at three billion barrels, but the security environment hinders its export.
+## France wildfires force evacuation of over 20,000 people from tourist town
+About 800 firefighters and hundreds of gendarmes and soldiers deployed to battle the flames west of Bordeaux.
 
-## Can India’s youth-led protest movement bring lasting change?
-Protesters refuse to back down until Education Minister Dharmendra Pradhan resigns.
+## Videos show the moment police officer shoots man on street in Wisconsin
+Outrage is growing after videos show a police officer fatally shooting a man in the US state of Wisconsin.
 
-## Children wounded in Israeli strike on Khan Younis
-Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.
+## White House says will not block Tate brothers’ extradition to UK
+Social media influencers to be extradited after UK authorities file dozens of new sex crime charges against them.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
