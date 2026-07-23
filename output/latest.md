@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## Intel shares rally after chipmaker posts fastest growth in 15 years
+Chipmaker’s revenue jumped 25% in the second quarter
+
+## Dangote secures record $2.5bn investment to expand Lagos refinery
+Billionaire Nigerian businessman is planning to grow capacity from about 650,000 barrels per day to 1.4mn b/d by 2028
+
 ## Oil hits $100 for first time since May while US stocks slide
 Donald Trump warns US is weighing ‘massive attack’ on Iran as Middle East tensions ratchet higher
 
@@ -18,11 +24,8 @@ Change entails focusing on top competition concerns in a deal rather than expans
 ## North Sea oil and gas industry looks for answers from new energy secretary
 Miatta Fahnbulleh’s visit to Aberdeen comes as companies hope to sway Burnham’s government on new drilling licences
 
-## UK employers should keep access to skilled trades visas, government advisers say
-Migration Advisory Committee says work permits for 28 roles should be granted on a temporary basis
-
-## The Nestlé supertanker’s turnaround is in train — under the surface
-Consumer goods group has made headway in the task of ditching sleepy brands for more lively ones
+## FDA panel supports access to peptides over scientist objections
+Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks
 
 ## Jes Staley testifies on Capitol Hill over ties to Epstein
 Former Barclays chief took questions from House oversight committee over his links to the late sex offender
@@ -30,11 +33,11 @@ Former Barclays chief took questions from House oversight committee over his lin
 ## The US needs a new Manhattan Project for fusion energy
 If we are to outpace China and own the future of this technology, we must fund it properly
 
-## US weapons makers’ sales soar as Iran war boosts order backlog
-Pentagon is pushing major defence contractors to increase production rates to rebuild depleted stockpiles
+## Sonam Wangchuk ends hunger strike after Centre assures action on key demands
+A late-night meeting with Union Ministers JP Nadda and Jitendra Singh led to government assurances on protesters, exam reforms and the NEET paper leak issue
 
-## Greek tycoon’s tanker towed into Iranian waters
-Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
+## Google introduces selfie video verification for account recovery
+The feature verifies users by matching a new selfie video with an encrypted reference recording and uses liveness detection to prevent spoofing
 
 ## Education Ministry reshuffle: Naresh Pal Gangwar named Higher Education Secretary, Vineet Joshi moved
 The reshuffle also appoints Sushil Kumar Lohani to head the Animal Husbandry Department and T K Anil Kumar as School Education Secretary.
@@ -53,12 +56,6 @@ Annual recurring revenue stood at $12.15 million while the unexecuted order book
 
 ## Primary market shows signs of revival even as uncertainty looms
 SEBI, in April, extended the one year validity of IPO observation letters expiring between April 1 and September 30 to uniformly until September-end
-
-## Infosys Q1 profit slips 8.6% QoQ to ₹7,769 crore
-Infosys trims upper end of FY27 revenue growth guidance
-
-## Buffett indicator signals that Indian stock market is relatively less overheated
-Although valuations remain above the long-term average, India is considerably less overheated than several major equity markets, including the US, Taiwan, Japan and South Korea
 
 ## IndiGo offers crisis management plan to settle CCI probe into flight disruption case
 IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over ai
@@ -84,6 +81,9 @@ India's first hydrogen fuel cell train has covered 900 kilometers on its initial
 ## Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm
 Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand 
 
+## Sonam Wangchuk ends hunger strike after 26 days; PM Modi, Abhijeet Dipke react
+The development came after Prime Minister Narendra Modi announced that stricter action against paper leaks would be discussed at the Cabinet meeting on Friday.
+
 ## Delhi HC notifies fast-track courts hours after PM Modi's announcement against paper leak cases
 Delhi High Court has created a fast-track court led by Judge Anu Grover Baliga to hear paper leak and exam cheating cases swiftly. Check more details.
 
@@ -105,10 +105,7 @@ The IT major said the majority salary increases for senior employees would be im
 ## 480 Pak-based handles blocked: Delhi Police's big warning on 'fake news' amid student protests
 Delhi Police blocks 480 Pakistan-based social media accounts for spreading misleading content during student protests.
 
-## No minimum gap needed between two pregnancies to get maternity leave: Allahabad HC
-The petitioner, Shikha Yadav, works as a regularly appointed staff nurse/nursing officer under the Department of Medical Education, Uttar Pradesh government.
-
-## Sonam Wangchuk ends 26-day hunger strike after PM’s midnight announcement
+## Sonam Wangchuk ends 26-day fast, cites ‘long negotiation’ on conditions, ‘possible violence’ in country
 
 
 ## Six inches of rain in 3 hours floods Ahmedabad; several rescued
@@ -117,7 +114,7 @@ The petitioner, Shikha Yadav, works as a regularly appointed staff nurse/nursing
 ## In midnight video message, PM promises tough new law for exam leaks
 
 
-## Commonwealth Games 2026 Opening Ceremony Live Updates: India contingent enters to huge cheers; Lovlina and Mirabai flag bearers
+## Commonwealth Games 2026 Opening Ceremony Live Updates: CWG flag hoisted, speeches underway
 
 
 ## Iran flew IRGC commanders, missile gear to Yemen’s Houthis: Report
@@ -156,6 +153,12 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
+## China Is AI-Maxxing
+Beijing may be closing the gap with Washington in the AI race.
+
+## Odysseus at the End of Civilization
+Nolan’s film confronts the betrayal of the West’s own values.
+
 ## There’s Only One Way Out of Trump’s Reckless War
 Pay off Iran to open Hormuz and freeze its nuclear program.
 
@@ -173,12 +176,6 @@ Will Argentina capitalize on growing momentum behind its claim to the islands?
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
-
-## The Race to Contain the Fastest-Ever Ebola Outbreak
-According to the WHO, the epidemic is “outpacing” response efforts.
-
-## India’s Cockroach Movement Delivers a Blow to the BJP
-The protests aren’t likely to turn into mass mobilization, but they are politically significant.
 
 ## Nepali PM Balendra Shah’s Image as a Change Agent is at Risk
 Shah has shown less concern for the health and wellbeing of the poor, and is preoccupied with appearing as a ruthless executor of public plans.
@@ -204,6 +201,9 @@ Prime Minister Anwar Ibrahim’s government has largely remained silent about th
 ## Philippine, Chinese Foreign Ministers Exchange Protests Over South China Sea Clash
 Both nations have accused the other for instigating the incident at Second Thomas Shoal, which has overshadowed this week's ASEAN meetings in Manila.
 
+## Chaotic Progress: European NATO’s Quest for Stronger Defense
+In 2024, Max Bergmann wrote, “NATO Missed a Chance to Transform Itself,” where he argued NATO’s leadership needs to facilitate a strong European pillar of the alliance through structural reforms in European institutions. Two years later, we asked Max to revisit his arguments.Image: The White House v
+
 ## America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down
 For 18 days in June, two of America’s most capable AI models went dark worldwide, not for technical or business reasons, but because the U.S. government ordered it. On June 12, 2026, the Commerce Department informed Anthropic that its Fable 5 and Mythos 5 models could no longer be provided to any fo
 
@@ -224,9 +224,6 @@ The U.S. war with Iran has had political, economic, and military implications th
 
 ## Rebuilding America’s Critical Minerals Base
 There’s a clear consensus that America hollowed out its critical minerals base. How to rebuild it is less settled. Alex Grant of Magrathea Metals and Wes Spurlock of Principal Mineral join Jonathan to discuss the processing technology, labor force, and how government can catalyze private capital inv
-
-## Learning from the ‘Voyage of the Damned’: The Making of a Russian Naval Disaster
-Editorial Note: The dates cited in Eugene Politovsky’s account are from the old Russian Orthodox calendar, which is 13 days behind that of the (Gregorian) calendar system used in this article.A recent War on the Rocks article on the failure of the Spanish Reserve Fleet to prepare for war with the Un
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,6 +249,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US government cancels subpoena against three New York Times reporters
+Withdrawal is latest instance of government's efforts to crack down on critical media facing setbacks in court.
+
+## How Sudan war is putting cancer patients at risk
+How Sudan war is putting cancer patients at risk
+
+## Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks
+⁠Sonam ⁠Wangchuk says he ended his fast to demand education minister's resignation 'in view of possible violence'.
+
+## Minnesota man who killed Democratic lawmaker sentenced to life in US prison
+Judge says that long sentence is merited for slaying of state Democratic lawmaker Melissa Hortman and her husband Mark.
+
 ## Journalist killed in Mexico after years of exposing corruption
 Mexican journalist Alejandro Leyva Aguilar was shot dead while eating at a street food stall in Oaxaca.
 
@@ -263,18 +272,6 @@ Protesters refuse to back down until Education Minister Dharmendra Pradhan resig
 
 ## Children wounded in Israeli strike on Khan Younis
 Children were rushed to hospital after an Israeli strike hit a tent sheltering displaced people in Khan Younis.
-
-## World Bank estimates Venezuela earthquakes caused $19.6bn in damage
-Report says 47 percent of physical damage from pair of earthquakes impacted residential buildings.
-
-## Iraqi PM makes first official visit to Iran in bid to deepen ties
-Ali al-Zaidi will hold talks with senior Iranian officials on cooperation, shared interests and security.
-
-## Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated
-A wildfire near Bordeaux, France, has burned 3,100 hectares (7,660 acres) of forest
-
-## UK’s Burnham tells Scotland new independence vote is off limits
-Visiting Scotland, Burnham says a new referendum would detract from efforts to grow the economy.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
