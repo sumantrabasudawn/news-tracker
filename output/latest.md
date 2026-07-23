@@ -1,70 +1,73 @@
 # AION Intelligence
 
-## Apple revives automotive ambitions with Ford deal for in-car software
-iPhone maker’s new technology comes two years after ending its own efforts to build an electric vehicle
+## US weapons makers’ sales soar as Iran war boosts order backlog
+Pentagon is pushing major defence contractors to increase production rates to rebuild depleted stockpiles
 
-## Oil hits $100 for first time since May
-Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies
-
-## Palestinian economy on ‘cliff edge’ as Israeli banks cut ties
-Move follows years of attempts by Israel’s far-right government to fatally undermine Palestinian Authority
-
-## Trump administration’s dealing in companies is on shaky ground
-Clearer rules are needed for when the US government takes equity stakes
+## Greek tycoon’s tanker towed into Iranian waters
+Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
 
 ## Oil price surge drives global bond sell-off
 Brent crude’s rise above $100 threatens a prolonged surge in inflation and resetting interest rate expectations
 
-## Tesla shares tumble 11% after discounts hit profits
-Capital expenditures more than doubled as company accelerates pivot to AI and robots
+## ECB holds interest rates at 2.25% after debating rise
+Some members of governing council ‘asked themselves whether we should not consider a hike’
 
-## Ireland stresses Europe’s need for alumina amid spat over Russian-owned plant
-European Commission weighs whether Aughinish Alumina factory in County Limerick should face sanctions
+## The US may find it hard to shrug off Moonshot’s AI shockwaves
+The latest Chinese models such as Kimi K3 look set to bring greater price competition
 
-## Trump throws controversial US-Saudi Arabia nuclear pact into doubt
-Also in today’s newsletter, where is the US keeping $13bn of Venezuela’s oil money?
+## Google burns through $6bn in cash as AI spending climbs again
+Search giant says it will commit up to $205bn to AI investments in 2026
 
 ## Trump says Saudi nuclear deal depends on relations with Israel
-Crown prince has insisted any rapprochement with Israel would depend on steps towards establishing Palestinian state
+Crown prince has insisted any rapprochement with Israel will depend on steps towards establishing Palestinian state
 
-## STMicroelectronics hit by doubts over AI spending boom
-Franco-Italian chipmaker’s third-quarter sales forecast misses analysts’ expectations
+## Europe could help get Ukraine and Russia to the negotiating table
+Only diplomacy will end this war — and Kyiv’s backers should seek to kick-start talks while the US is mired in Iran
 
-## Oil jumps to $99 after Houthis attack two Saudi Arabian tankers
-Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla
+## Jes Staley testifies on Capitol Hill over ties to Epstein
+Former Barclays chief took questions from House oversight committee over his links to the late sex offender
 
-## Iran war reignites debate over US energy-permitting reform
-Changes would enable infrastructure to be built faster in order to bolster the country’s energy security
+## Hedge funds grow at fastest rate in history as AI boom lifts markets
+Equity rally and inflows from institutional investors take global assets under management up by over $400bn
 
-## Blackstone says pace of withdrawals slowing at flagship private credit fund
-Investor concern over potential losses led to a surge in customers seeking to pull out money this year
+## Apple revives automotive ambitions with Ford deal for in-car software
+iPhone maker’s new technology comes two years after ending its own efforts to build an electric vehicle
 
-## FirstFT: Jes Staley faces questions over his links to sex offender Jeffrey Epstein
-Also in today’s newsletter: surge in oil prices reignites fears of an inflation shock and Google’s cash flow turns negative
+## Palestinian economy on ‘cliff edge’ as Israeli banks cut ties
+Move follows years of attempts by Israel’s far-right government to fatally undermine Palestinian Authority
 
-## IndiGo slips into Q1 loss as fuel costs, West Asia disruptions weigh on earnings
-Passenger revenue and yields remain resilient despite elevated ATF prices, adverse forex movement and network-related constraints
+## Regular payments from Bangladesh help in reducing its dues to Adani Power
+Adani Power seeks to reduce ₹3,863 crore receivables from Bangladesh as monthly payments stabilise, enhancing liquidity.
 
-## Parliamentary Panel to FSSAI: Notify front-of-pack labelling regulations in a time-bound manner
+## Ramco Systems Q1 revenue down 3% at $18.6 million
+Annual recurring revenue stood at $12.15 million while the unexecuted order book was at $152.3 million, the company said in an exchange filing
 
-
-## Karnataka sets December operational date for 200-acre KWIN city semiconductor park
-To complement the infrastructure, the state announced its upcoming Aerospace and Defence Policy 2026–2031
-
-## India eases FDI rules for e-commerce firms to boost exports of locally made goods
-Restrictions on inventory-based e-commerce, B2C sales under the FDI policy will not apply for exports of goods produced in India: Press Note 3 of 2026
-
-## Indian students win international robotics challenge in South Korea
-Noida’s Shiv Nadar School Class XI students Ayaan Suri and Tanash Garg win in competition featuring 27 international teams
-
-## Gujarat reels under torrential rains; 1,500 rescued & 27,000 evacuated amid widespread flooding
-Chief Minister orders additional NDRF, SDRF teams
-
-## Premium petrol to remain ethanol-free, government clarifies
-The government said there is no proposal to raise ethanol blending in petrol beyond 20% or to restore the supply of E0 and E10 petrol
+## Primary market shows signs of revival even as uncertainty looms
+SEBI, in April, extended the one year validity of IPO observation letters expiring between April 1 and September 30 to uniformly until September-end
 
 ## Infosys Q1 profit slips 8.6% QoQ to ₹7,769 crore
 Infosys trims upper end of FY27 revenue growth guidance
+
+## Buffett indicator signals that Indian stock market is relatively less overheated
+Although valuations remain above the long-term average, India is considerably less overheated than several major equity markets, including the US, Taiwan, Japan and South Korea
+
+## Meesho trims losses by half as revenue rises 48%
+The e-commerce marketplace posted a net loss of ₹132.8 crore in Q1 FY27, compared with ₹289.3 crore in the corresponding quarter of the previous fiscal year
+
+## Eight Roads, Flipkart among sellers in ₹1,048 crore Shadowfax block trade
+The deal involves up to 9.08% of the company’s total outstanding shares, with a floor price of ₹197 per share, representing a 9.9% discount to the July 23 closing price of ₹218.58
+
+## Copper market will likely witness volatility on West Asia developments
+Analysts say the red metal is currently caught between macro headwinds and US tariff uncertainty
+
+## US stocks today: Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points
+Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased
+
+## Premium petrol to remain ethanol-free; no plan to blend beyond 20% as of now: Govt to Parliament
+Premium petrol grades will continue to be ethanol-free for consumers. The government has no plans to reintroduce lower ethanol blends like E0 or E10. Current ethanol blending in regular petrol will remain at twenty percent. No widespread adverse impacts have been reported from E20 fuel usage. Future
+
+## Oil's $100 comeback: Brent hits a three-month high as Red Sea tensions escalate
+Crude oil prices surged past one hundred dollars per barrel amid Middle East tensions. Houthi attacks on Saudi oil tankers in the Red Sea caused market concern. This escalation has heightened fears over global energy supply safety and stability. Domestic crude futures also climbed significantly, mir
 
 ## Longer routes, higher costs, 26,000 cancellations: US-Iran conflict hits Indian airlines
 Indian airlines have cancelled approximately 26,000 international flights due to Middle East airspace restrictions. These disruptions have led to flight diversions and delays, impacting airline operations significantly. Longer flight routes are increasing fuel consumption and raising overall operati
@@ -81,61 +84,52 @@ Axis Asset Management Company is acquiring Axis Securities' portfolio management
 ## Beyond Hormuz: Gulf is spending billions to find new routes to global markets
 Gulf nations are accelerating pipeline projects to bypass the Strait of Hormuz. These new routes aim to move oil without relying on the narrow waterway. Several major pipeline projects are under construction or being planned. Diversification efforts aim to protect regional oil exports from disruptio
 
-## Rupee rises to 96.49 against US dollar, rising oil prices limit gains
-The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets
+## No minimum gap needed between two pregnancies to get maternity leave: Allahabad HC
+The petitioner, Shikha Yadav, works as a regularly appointed staff nurse/nursing officer under the Department of Medical Education, Uttar Pradesh government.
 
-## More pulp, less tax: Govt panel hits the sweet spot with 'aam' proposal to help Totapuri farmers
-The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. This move aims to revive Totapuri mango pulp demand and improve beverage quality. An expert committee studied Totapuri price declines and suggested solutions for farmers. Recommendations include price stabilization committ
+## 19-year-old NEET aspirant from MP gang-raped by 3 men in UP’s Chitrakoot: Police
+The woman was preparing for the NEET exam in Kota and had recently come to Chitrakoot district in UP to live with her relatives
 
-## Stock market today: NSE Nifty50 opens below 24,000, BSE Sensex sheds over 350 points
+## Thief steals ₹9 lakh belonging to women SHG from parked vehicle in Jalna district
+While the women were away, an unidentified thief broke the window of the vehicle and escaped with the bag containing the cash.
 
+## EAM Jaishankar participates in Asean Regional Forum meeting, East Asia Summit
+External affairs minister S Jaishankar attended Asean Regional Forum and East Asia Summit meetings, stressing zero tolerance towards terrorism.
 
-## Maharashtra min Nitesh Rane acquitted in 2013 toll booth assault, vandalism case
-A Mapusa court acquitted Maharashtra minister Nitesh Rane in the 2013 Goa toll booth vandalism and assault case, citing lack of evidence.
+## High drama in Delhi as Rahul Gandhi reaches Gandhi Smriti amid student protests: 'Barricades put up, bus parked'
+Gandhi alleged that the Opposition had first sought permission to visit India Gate in solidarity with students but was denied.
 
-## BJP veteran Murli Manohar Joshi condemns use of force on protesters: ‘Young girls brutally mishandled’
-Joshi said their anxieties and concerns regarding the examination system are genuine and must be handled with empathy and a desire to find a lasting solution.
+## ‘Genuine concerns’: Murli Manohar Joshi criticises use of ‘brutal force’ against protesters
+Joshi, a former BJP president, said the concerns and issues of students were genuine, and these ‘must be addressed with empathy and a vision for long-term solutions’
 
-## Pakistan asked about ongoing CJP protests in India. Their reply
-CJP on Thursday continued its protest for the 34th consecutive day, demanding the resignation of education minister Dharmendra Pradhan.
+## In 1997, Dharmendra Pradhan led a student protest against a paper leak in Odisha: Report
+In a major protest led by the Cockroach Janta Party, thousands of supporters and demonstrators have called for Pradhan's resignation.
 
-## 'Your resignation demand next': Abhijeet Dipke's message to PM Modi amid Pradhan's removal calls
-The CJP founder added that an incompetent and failed minister can't remain in office and should not be more important than the lives of crores of students.
+## CJP lists names of 34 cities protesting in support. Check here
+Party spokesperson Ashutosh Ranka on Thursday released a list, naming 34 cities in India where protests are ongoing.
 
-## Search on in Rajasthan for 400-year-old cannon stolen from Narwar Fort
-Police teams from Narwar in Madhya Pradesh and Karauli in Rajasthan have been camping in Gaonra Meena village since Wednesday afternoon
-
-## 1,200 rescued from Umargam as flood situation worsens in south Gujarat
-Relief commissioner Gaurav Makwana said around 1,200 people were rescued from Umargam, with the Centre deploying Army personnel and additional NDRF teams.
-
-## Chhattisgarh cops file FIR against Congress leaders over violence at BJP protest
-Bhupesh Baghel questioned the police move to register FIR against Congress workers over the BJP’s attack carried out under police protection.
-
-## Delhi's Connaught Place advised to shut early, CJP doubts move: 'What's the government up to?'
-The advisory triggered sharp reactions from the CJP and Aam Aadmi Party (AAP), both of which questioned the government's decision to issue the closure order.
-
-## UPSC Key: Police Actions in Protests, Marrakesh Agreement and QUAD
+## To ease Delhi traffic congestion, PWD to construct Karawal Nagar, Brittania Chowk elevated flyovers
 
 
-## ‘Karisma Kapoor would cry’: Kareena recalled sister’s struggle as Bollywood didn’t support her
+## ‘Immense respect’: Shubman Gill speaks up on CJP protest
 
 
-## Paper leak protest politicised, affecting normal public life: Mayawati
+## Suniel Shetty says he first met son-in-law KL Rahul as a fan, regrets not buying IPL team
 
 
-## US Secret Service puts JD Vance’s security agent on leave after trip details leaked
+## He stepped out to save his car. He returned to find his family buried beneath their ‘Taj Mahal’
 
 
-## Infosys profit rises 12% in June quarter; Ashiss Kumar Dash named CEO designate
+## From Ladakh to Coorg: 5 of India’s best off-roading destinations
 
 
-## Bengaluru elderly couple die by suicide amid health, financial strain
+## Supreme Court orders registration of FIR, SIT probe into alleged custodial death of Ahmedabad man
 
 
-## Salman Khan urges Sonam Wangchuk to end protest, asks students to return home
+## CBI arrests EPFO enforcement officer for ‘accepting’ Rs 2.5-lakh bribe, sent to judicial custody
 
 
-## Dropped after three failures, Sooryavanshi answers back with an 18-ball fifty
+## Abhijeet Bhattacharya reveals advice to Udit Narayan after kiss row: ‘Just say yes, I did’
 
 
 ## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
@@ -162,6 +156,9 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
+## Trump Is Triggering a Middle East Nuclear Arms Race
+His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
+
 ## Beijing Is Celebrating a Race It Never Ran
 A new Pew survey shows the world likes China more than the United States. Look closer, and the win belongs to nobody.
 
@@ -182,9 +179,6 @@ The clock is ticking for global oil markets, and Iran has the time.
 
 ## Yemen’s Unsteady Stalemate
 As violence rises, both sides seek to increase their leverage without returning to war.
-
-## China Pitches Its AI Leadership to the World
-A new organization includes five Southeast Asian members.
 
 ## India and Japan’s Emerging Shipbuilding Partnership
 The future of India-Japan security cooperation lies in shipyards – and maybe with the Mogami-class frigate.
@@ -258,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down
-Insurance rates through Hormuz are currently four times the five-year average.
+## Lebanon Latest: President Aoun visits White House to discuss Hezbollah
+Al Jazeera’s Zeina Khodr brings you the latest from Beirut.
 
-## Has Russia helped Iran target CIA sites in the Gulf?
-Reports of Iran targeting sites belonging to the US's CIA first emerged in the early days of the Iran war.
+## Lebanon Latest: President Aoun visits White House to discuss Hezbollah
+Al Jazeera’s Zeina Khodr brings you the latest from Beirut after Lebanon’s President meets with Donald Trump.
 
-## Ebola death toll in DR Congo surpasses 1,000
-More than 1,000 people have died in the latest Ebola outbreak in DR Congo, according to official government data.
+## Yemen faces a new challenge amid prospects of confrontation
+What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?
 
-## Why do some of the cheapest cities cost the most to live in?
-A worker in Cairo can afford 22 hamburgers a month. In Tel Aviv, more than 200. AJLabs counts a salary in Big Mac meals.
+## US House votes to limit Iran war for first time since ceasefire breakdown
+The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.
 
-## Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail
-Indian authorities release the two men after years in prison although both remain under tight court-imposed restrictions
+## The missing half of mediation
+The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.
 
-## Rebuilding Gaza to cost $71bn, must include Palestinians, report finds
-Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.
+## Norway Viking Row gets ‘resign’ twist in ‘Cockroach’ protest
+Cockroach Janty Party-led protesters in Mumbai, India recreated Norway’s viral Viking Row, replacing ‘ro’ with ‘resign’.
 
-## How are companies, governments responding to the OpenAI hack?
-OpenAI's AI models hacked into another company, prompting calls for scrutiny of safeguards for advanced AI systems.
+## Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze
+Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.
 
-## ‘Our fight is to fix the system’: India protesters demand accountability
-India's Cockroach Janta Party led weeks of protests over exam paper leaks.
+## In India, fear has switched sides
+By refusing to be intimidated, India’s students have turned a protest over education into a crisis for Narendra Modi.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
