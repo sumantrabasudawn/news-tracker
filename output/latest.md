@@ -1,40 +1,43 @@
 # AION Intelligence
 
+## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
+EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
+
+## Trump’s dubious nuclear deal with Saudi Arabia
+An accord lacking ‘gold standard’ safeguards on enrichment would carry proliferation risks
+
+## US justice department to streamline company merger reviews
+Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions
+
+## North Sea oil and gas industry looks for answers from new energy secretary
+Miatta Fahnbulleh’s visit to Aberdeen comes as companies hope to sway Burnham’s government on new drilling licences
+
+## Oil hits $100 for first time since May while US stocks slide
+Donald Trump warns US is weighing ‘massive attack’ on Iran as Middle East tensions ratchet higher
+
+## UK employers should keep access to skilled trades visas, government advisers say
+Migration Advisory Committee says work permits for 28 roles should be granted on a temporary basis
+
+## The Nestlé supertanker’s turnaround is in train — under the surface
+Consumer goods group has made headway in the task of ditching sleepy brands for more lively ones
+
 ## US weapons makers’ sales soar as Iran war boosts order backlog
 Pentagon is pushing major defence contractors to increase production rates to rebuild depleted stockpiles
-
-## Greek tycoon’s tanker towed into Iranian waters
-Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
-
-## Oil price surge drives global bond sell-off
-Brent crude’s rise above $100 threatens a prolonged surge in inflation and resetting interest rate expectations
-
-## ECB holds interest rates at 2.25% after debating rise
-Some members of governing council ‘asked themselves whether we should not consider a hike’
-
-## The US may find it hard to shrug off Moonshot’s AI shockwaves
-The latest Chinese models such as Kimi K3 look set to bring greater price competition
-
-## Google burns through $6bn in cash as AI spending climbs again
-Search giant says it will commit up to $205bn to AI investments in 2026
-
-## Trump says Saudi nuclear deal depends on relations with Israel
-Crown prince has insisted any rapprochement with Israel will depend on steps towards establishing Palestinian state
-
-## Europe could help get Ukraine and Russia to the negotiating table
-Only diplomacy will end this war — and Kyiv’s backers should seek to kick-start talks while the US is mired in Iran
 
 ## Jes Staley testifies on Capitol Hill over ties to Epstein
 Former Barclays chief took questions from House oversight committee over his links to the late sex offender
 
-## Hedge funds grow at fastest rate in history as AI boom lifts markets
-Equity rally and inflows from institutional investors take global assets under management up by over $400bn
+## The US needs a new Manhattan Project for fusion energy
+If we are to outpace China and own the future of this technology, we must fund it properly
 
-## Apple revives automotive ambitions with Ford deal for in-car software
-iPhone maker’s new technology comes two years after ending its own efforts to build an electric vehicle
+## Greek tycoon’s tanker towed into Iranian waters
+Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz
 
-## Palestinian economy on ‘cliff edge’ as Israeli banks cut ties
-Move follows years of attempts by Israel’s far-right government to fatally undermine Palestinian Authority
+## Weichai Group: 40 years in Vietnam, working together to create a new green and intelligent future
+Weichai Group: 40 years in Vietnam, working together to create a new green and intelligent future
+
+## Flooding in South Gujarat disrupts rail traffic to Mumbai; 14 trains, including Vande Bharat and Shatabdi, cancelled
+Flooding in South Gujarat forced Western Railway to suspend operations on a key rail bridge between Gholvad and Umargam Road, disrupting train services between Gujarat and Mumbai
 
 ## Regular payments from Bangladesh help in reducing its dues to Adani Power
 Adani Power seeks to reduce ₹3,863 crore receivables from Bangladesh as monthly payments stabilise, enhancing liquidity.
@@ -54,11 +57,8 @@ Although valuations remain above the long-term average, India is considerably le
 ## Meesho trims losses by half as revenue rises 48%
 The e-commerce marketplace posted a net loss of ₹132.8 crore in Q1 FY27, compared with ₹289.3 crore in the corresponding quarter of the previous fiscal year
 
-## Eight Roads, Flipkart among sellers in ₹1,048 crore Shadowfax block trade
-The deal involves up to 9.08% of the company’s total outstanding shares, with a floor price of ₹197 per share, representing a 9.9% discount to the July 23 closing price of ₹218.58
-
-## Copper market will likely witness volatility on West Asia developments
-Analysts say the red metal is currently caught between macro headwinds and US tariff uncertainty
+## IndiGo offers crisis management plan to settle CCI probe into flight disruption case
+IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over ai
 
 ## US stocks today: Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points
 Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased
@@ -81,8 +81,20 @@ India's first hydrogen fuel cell train has covered 900 kilometers on its initial
 ## Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm
 Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand 
 
-## Beyond Hormuz: Gulf is spending billions to find new routes to global markets
-Gulf nations are accelerating pipeline projects to bypass the Strait of Hormuz. These new routes aim to move oil without relying on the narrow waterway. Several major pipeline projects are under construction or being planned. Diversification efforts aim to protect regional oil exports from disruptio
+## 'Baseless': India rejects Pakistan minister Ishaq Dar's remarks on Kashmir at ASEAN meet
+External affairs ministry spokesperson Randhir Jaiswal said that India “categorically rejects the baseless and unwarranted comments” by Dar.
+
+## Delhi school announces hybrid mode classes amid protests
+The advisory comes amid heightened security arrangements across Central Delhi following recent protests .
+
+## 'May invite legal action': Delhi University asks students to stay away from protest at Jantar Mantar
+The University of Delhi, in a social media post, urged students to prioritise their well-being and stay away from any unlawful gatherings.
+
+## Infosys to roll out salary hikes in two phases; most employees to get raises in October
+The IT major said the majority salary increases for senior employees would be implemented in January.
+
+## 480 Pak-based handles blocked: Delhi Police's big warning on 'fake news' amid student protests
+Delhi Police blocks 480 Pakistan-based social media accounts for spreading misleading content during student protests.
 
 ## No minimum gap needed between two pregnancies to get maternity leave: Allahabad HC
 The petitioner, Shikha Yadav, works as a regularly appointed staff nurse/nursing officer under the Department of Medical Education, Uttar Pradesh government.
@@ -93,20 +105,20 @@ The woman was preparing for the NEET exam in Kota and had recently come to Chitr
 ## Thief steals ₹9 lakh belonging to women SHG from parked vehicle in Jalna district
 While the women were away, an unidentified thief broke the window of the vehicle and escaped with the bag containing the cash.
 
-## EAM Jaishankar participates in Asean Regional Forum meeting, East Asia Summit
-External affairs minister S Jaishankar attended Asean Regional Forum and East Asia Summit meetings, stressing zero tolerance towards terrorism.
+## Higher Education Secretary replaced amid nationwide anger over exam paper leaks
 
-## High drama in Delhi as Rahul Gandhi reaches Gandhi Smriti amid student protests: 'Barricades put up, bus parked'
-Gandhi alleged that the Opposition had first sought permission to visit India Gate in solidarity with students but was denied.
 
-## ‘Genuine concerns’: Murli Manohar Joshi criticises use of ‘brutal force’ against protesters
-Joshi, a former BJP president, said the concerns and issues of students were genuine, and these ‘must be addressed with empathy and a vision for long-term solutions’
+## With youngsters at her heels, Manika Batra aims to level up her game
 
-## In 1997, Dharmendra Pradhan led a student protest against a paper leak in Odisha: Report
-In a major protest led by the Cockroach Janta Party, thousands of supporters and demonstrators have called for Pradhan's resignation.
 
-## CJP lists names of 34 cities protesting in support. Check here
-Party spokesperson Ashutosh Ranka on Thursday released a list, naming 34 cities in India where protests are ongoing.
+## ‘Husband and I are proud…’: Why actor Pallavi Purohit says motherhood should never be forced
+
+
+## Indian-American doctor Amish Shah wins Arizona Democratic primary, to face Trump-backed rival
+
+
+## India hit by doping woes at CWG; judoka removed, weightlifting team sanctioned
+
 
 ## To ease Delhi traffic congestion, PWD to construct Karawal Nagar, Brittania Chowk elevated flyovers
 
@@ -115,21 +127,6 @@ Party spokesperson Ashutosh Ranka on Thursday released a list, naming 34 cities 
 
 
 ## Suniel Shetty says he first met son-in-law KL Rahul as a fan, regrets not buying IPL team
-
-
-## He stepped out to save his car. He returned to find his family buried beneath their ‘Taj Mahal’
-
-
-## From Ladakh to Coorg: 5 of India’s best off-roading destinations
-
-
-## Supreme Court orders registration of FIR, SIT probe into alleged custodial death of Ahmedabad man
-
-
-## CBI arrests EPFO enforcement officer for ‘accepting’ Rs 2.5-lakh bribe, sent to judicial custody
-
-
-## Abhijeet Bhattacharya reveals advice to Udit Narayan after kiss row: ‘Just say yes, I did’
 
 
 ## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
@@ -156,6 +153,12 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
 
+## There’s Only One Way Out of Trump’s Reckless War
+Pay off Iran to open Hormuz and freeze its nuclear program.
+
+## Xi’s Demands for Loyalty Are Breeding Corruption
+Ma Xingrui’s fall shows how deep personnel problems run.
+
 ## Trump Is Triggering a Middle East Nuclear Arms Race
 His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
 
@@ -173,12 +176,6 @@ According to the WHO, the epidemic is “outpacing” response efforts.
 
 ## India’s Cockroach Movement Delivers a Blow to the BJP
 The protests aren’t likely to turn into mass mobilization, but they are politically significant.
-
-## Trump’s Epic Fury Can’t Resolve His Iran Quagmire
-The clock is ticking for global oil markets, and Iran has the time.
-
-## Yemen’s Unsteady Stalemate
-As violence rises, both sides seek to increase their leverage without returning to war.
 
 ## India and Japan’s Emerging Shipbuilding Partnership
 The future of India-Japan security cooperation lies in shipyards – and maybe with the Mogami-class frigate.
@@ -252,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What are the security implications of the US-Saudi nuclear deal?
+Concerns are growing over a nuclear arms race in the Middle East.
+
+## Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election
+Israeli far-right Minister Ben-Gvir joins provocative incursion at Al-Aqsa, escalating tensions ahead of elections.
+
+## Oil surges past $100 in a first since May as Middle East conflicts rage
+Oil prices rise for a fifth day after Yemen's Houthis say they struck Saudi Arabian oil tankers in the Red Sea.
+
+## A Game of Double Standards
+Qatar 2022: a World Cup that exposed football’s politics, power struggles, and double standards.
+
+## Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords
+The US and Saudi Arabia have reached a civilian nuclear cooperation deal.
+
 ## Lebanon Latest: President Aoun visits White House to discuss Hezbollah
 Al Jazeera’s Zeina Khodr brings you the latest from Beirut.
 
@@ -260,21 +272,6 @@ Al Jazeera’s Zeina Khodr brings you the latest from Beirut after Lebanon’s P
 
 ## Yemen faces a new challenge amid prospects of confrontation
 What is the military balance of power in Yemen and the likelihood of confrontation between the government and Houthis?
-
-## US House votes to limit Iran war for first time since ceasefire breakdown
-The Senate was also expected to vote on War Powers resolution, in largely symbolic move attempting to reign in Trump.
-
-## The missing half of mediation
-The future of diplomacy between the US and Iran depends on giving mediators the backing needed to make agreements stick.
-
-## Norway Viking Row gets ‘resign’ twist in ‘Cockroach’ protest
-Cockroach Janty Party-led protesters in Mumbai, India recreated Norway’s viral Viking Row, replacing ‘ro’ with ‘resign’.
-
-## Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze
-Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.
-
-## In India, fear has switched sides
-By refusing to be intimidated, India’s students have turned a protest over education into a crisis for Narendra Modi.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
