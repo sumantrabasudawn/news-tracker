@@ -1,6 +1,12 @@
 # AION Intelligence
 
-## Google reports $6bn cash burn last quarter as it raises AI spending again
+## Why the US is losing Chinese AI stars
+More entrepreneurs from China believe there are now greater opportunities at home than in Silicon Valley
+
+## How long can China defy history and logic with its imbalances?
+The country is demanding far too much of a world fixated on cheap consumer goods
+
+## Google burns through $6bn in cash as AI spending climbs again
 Search giant says it will commit up to $205bn to AI investments in 2026
 
 ## US and Saudi Arabia agree landmark nuclear energy pact
@@ -20,9 +26,6 @@ Groups such as Greece’s Dynagas will be allowed to continue carrying Russian L
 
 ## Tesla profits plunge as discounts on EV models weigh on results
 Capital expenditures more than doubled as company accelerates pivot to semiconductors, autonomous taxis and humanoid robots
-
-## Taiwan’s drone ambitions play to its tech manufacturing strengths
-Scaling up brings economies of scale, and the island is taking another lesson from China’s playbook: dual-use technology
 
 ## Scientists discover strange Milky Way planetary system unlike our solar system
 The unusual planetary system, 71 light-years from Earth, is unlike anything previously observed in the Milky Way
@@ -48,6 +51,12 @@ Mothers who had joined in the march condemned the government for turning a deaf 
 ## Rain deficit shrinks to 21 % as wet spell intensifies in West, North-West
 Central India (deficit of 13 per cent) and North-West India (18 per cent) emerge as best-performing regions this week
 
+## Under-recoveries push HPCL, BPCL into losses
+
+
+## OpenAI's rogue AI breach may bolster India's case for frontier model access
+
+
 ## Q1 bank credit flow surges 10x as market mop-up collapses
 
 
@@ -65,12 +74,6 @@ Temasek is broadening its Indian investment focus beyond traditional sectors. Th
 
 ## 'Aam'ezing voyage: UP's mangoes make first sea journey to Dubai
 Indian mangoes reached Dubai via a 25-day sea journey. Nearly ninety percent of the fruit remained market-ready after transit. This successful shipment paves the way for cheaper and larger mango exports. The new protocol reduces reliance on expensive air freight for shipments. This development enhan
-
-## Trump's 200% tariff plan may be a bitter pill for US consumers; Dr Reddy's warns of costlier medicines
-The United States plans significant tariffs on imported generic medicines. These duties will rise to 200% in the coming years. Dr Reddy's Laboratories anticipates higher medicine prices for American consumers. Shifting manufacturing to the US is currently considered impractical by the company. India
-
-## US stock market today: Wall Street drifts in mixed trading; oil prices rise another 3%
-The S&P 500 slipped 0.2%, despite a majority of its constituent stocks trading higher. Artificial intelligence-related stocks have remained the key driver of recent market volatility. Micron Technology declined 1.6% after rallying 14.4% over the previous two trading sessions, a move that had almost 
 
 ## ‘Don’t waste our time’: CJI declines urgent listing of police action pleas
 The lawyer cited videos purportedly showing police assaulting unarmed protesters and offered to submit videos, but the CJI declined to entertain the submission
@@ -96,29 +99,35 @@ Hazare also raised concerns over reports of 22 students dying by suicide followi
 ## Uttarakhand: Fake medicines, packaging material seized in Dehradun raid
 Officials seized medicines bearing names of reputed pharma companies, packaging material and machinery during a raid at a Dehradun house.
 
-## AAP sarpanch killed after being run over by car twice in Punjab’s Hoshiarpur
+## ‘Change its name if you have to… don’t end our careers’: At Jauhar University, a campus fears demolition, women voices loudest
 
 
-## Lenders’ plan to get back money lands them in jail for ‘filmy abduction’ of a techie
+## Bus stolen by drunk man tears through town, Telangana police in hot pursuit
 
 
-## Chennai man from Bangkok and 707 hidden exotic turtles: How Kolkata Customs officials stopped wildlife trafficking
+## CJP protest: Sonam Wangchuk opens a window for talks as Government steps up efforts to resolve crisis
 
 
-## Anna Hazare writes to PM Narendra Modi, says Dharmendra Pradhan’s resignation will not cause the government to fall
+## Vadodara-Bharuch stretch gets own NHAI unit, after last year’s gridlocks
 
 
-## Chaos, frustration among commuters as 16 key Metro stations around Jantar Mantar shut
+## Gujarat Confidential: CM Bhupendra Patel’s digital visit
 
 
-## NEET paper leak: Crowd swells at Jantar Mantar, fresh clashes around Tolstoy Marg
+## DDA housing scheme for corporates and govt staff: 25 per cent discount for 1,200 Narela flats
 
 
-## 20 police teams probe CJP’s Parliament march, analyse chats, CCTV footage, mobile data
+## US says interim trade deal almost ready as Jaishankar meets Rubio in Philippines
 
 
-## ‘Very serious issue’: Delhi High Court flags safety issues in HPV vaccine rollout drive
+## Delhi Confidential: Refreshments
 
+
+## Chinese investors rush into private funds, pouring US$1.2 trillion into securities
+China’s private securities investment funds surpassed 8 trillion yuan (US$1.2 trillion) for the first time at the end of June, emerging as the core engine driving the expansion of the country’s entire private fund industry, according to the Asset Management Association of China. Propelled by the hug
+
+## Investors ‘bulk buying’ flats remains key in Hong Kong amid red-hot rental market
+Hong Kong’s bulk homebuyers are expected to remain a major force in the city’s new-home market in the second half of the year, after investor purchases hit record levels in the first six months on strong rental demand. A total of 654 buyers purchased two or more units in the primary market between J
 
 ## How China and Indonesia can build a truly sturdy partnership
 In April 1955, amid the Cold War, 304 representatives across 29 Asian and African nations convened in Bandung, Indonesia, to discuss the principles of a more complex future world order. Among them were India, China and host Indonesia. While India would go on to champion the non-aligned movement at t
@@ -137,12 +146,6 @@ US Treasury Secretary Scott Bessent signalled potential action against open sour
 
 ## EQT Impact Challenge 2026 will help deep-tech start-ups think globally
 Hong Kong’s ecosystem of start-ups reached a record high of 5,221 last year – up from 4,694 in 2024, according to InvestHK, the government department tasked with attracting foreign direct investment to the city. Famed for its entrepreneurial culture, Hong Kong is also increasingly known for the stre
-
-## BYD’s challenge to Porsche; why Chinese cars are struggling locally: 7 EV reads
-We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. BYD’s EV tech in the spotlight as it challenges Porsche’s 911 Chinese electric vehicle
-
-## Investors shift focus to China’s July Politburo meeting for stock-stimulus clues
-Investors are looking ahead to an economic policy gathering convened by China’s top leaders for clues on the direction of the stock market, after state intervention tentatively stabilised sentiment. The Communist Party is expected to kick off its July Politburo meeting next week, in which President 
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
