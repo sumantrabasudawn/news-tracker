@@ -1,70 +1,76 @@
 # AION Intelligence
 
+## Iran war reignites debate over US energy-permitting reform
+Changes would enable infrastructure to be built faster in order to bolster the country’s energy security
+
+## Blackstone says pace of withdrawals slowing at flagship private credit fund
+Investor concern over potential losses led to a surge in customers seeking to pull out money this year
+
+## Oil price surge drives global bond sell-off
+Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations
+
 ## Oil jumps to $98 after Houthis attack two Saudi Arabian tankers
-Yemeni rebels say they used missiles and drones to target the vessels Encelia and Layla
+Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla
 
-## Burnham announces cut to business rates for pubs and clubs
-Prime minister says move will help boost high streets across UK
+## The return of the political professional
+After years of duds and dilettantes, true operators have returned to Downing Street — but that won’t guarantee success
 
-## Modi vows ‘swift’ justice for India exam leaks
-Prime minister makes first comments on scandal that triggered protests in Delhi this week
+## Submit your questions: How will Burnham govern the UK?
+Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley today at 1pm (BST)
 
-## BASF warns EU carbon plans risk accelerating industrial decline
-Also in this newsletter: Death during police arrest fuels security debate in Italy
+## FirstFT: Jes Staley faces questions over his links to sex offender Jeffrey Epstein
+Also in today’s newsletter: surge in oil prices reignites fears of an inflation shock and Google’s cash flow turns negative
 
-## A practical problem with Andy Burnham’s postcode power-up plan
-We need stats, stat
+## Will Burnham go big or go home?
+Reasons to be sceptical about the UK’s new prime minister
 
-## FirstFT: Google burns through $6bn in cash amid AI infrastructure splurge
-Also in today’s newsletter: Houthis attack two Saudi tankers and Jes Staley on Capitol Hill
+## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
+EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
 
-## Household inflation expectations in the US are worryingly high
-Much higher inflation expectations may well require action by the Fed, even as the market remains sanguine
+## Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline
+Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab
 
-## English football is for sale
-In the afterglow of the World Cup, some club owners are looking to do deals
+## Nestlé shares tumble as coffee and cocoa prices hit profits
+Swiss food group’s new leaders are attempting a sweeping turnaround after years of underperformance
+
+## A stealth fighter jet could blow a hole in Healey’s budget
+To fly, Tempest and the GCAP need to defy the history of failed joint national projects
+
+## Ford hopes Spain tie-up with China’s Geely will revive European business
+Two carmakers say they will form a manufacturing joint venture at US group’s Valencia plant
 
 ## Macquarie names banking head to succeed Wikramanayake as CEO
 Greg Ward appointed to lead Australian investing giant
 
-## EasyJet profits tumble as Middle East war hits consumer confidence
-Quarterly earnings at low-cost airline drop to £85mn
+## Infosys reports lower-than-expected quarterly revenue, appoints CEO-designate
 
-## Japan’s AI play and Taiwan’s space ambitions
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
 
-## BNP Paribas profits surge by a third after trading boom
-Revenues up 12% in second quarter from last year, with asset management division posting bumper gains
+## Aastha Spintex board clears 1:1 bonus issue, expands into value-added textiles
+The company will raise its authorised share capital to Rs 100 crore for the bonus issue and support its expansion into value-added textile products
 
-## FT Wealth: July
-In this edition: Our obsession with rich lists, and why that’s a problem; the Manhattan prosecutor battling the stolen antiquities trade; what wealth meant to Americans on the eve of independence; the aristocrats with unorthodox ideas for saving the family pile
+## ITC aspires to be India’s No. 1 FMCG player, steps up profitability push: Sanjiv Puri
+ITC is leveraging an AI-led consumer insight ecosystem to drive micro-segmentation and develop differentiated products tailored to evolving consumer need
 
-## Jes Staley to testify on Capitol Hill over ties to Epstein
-Former Barclays chief to take questions from House oversight committee over his links to the late sex offender
+## Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870
+Sensex, Nifty, Share Prices Highlights: Sensex settled 363.66 pts or 0.47% lower at 76,391.39; and Nifty 50 fell 126.65 pts or 0.53% to 23,869.60.
 
-## A NEW CHAPTER BEGINS: PEACH BLOSSOMS RETURNS TO LEVEL 5 WITH THE DEBUT OF ITS BLACK PEARL ONE DIAMOND TASTING JOURNEY
-A NEW CHAPTER BEGINS: PEACH BLOSSOMS RETURNS TO LEVEL 5 WITH THE DEBUT OF ITS BLACK PEARL ONE DIAMOND TASTING JOURNEY
+## While the world was watching Spain and Argentina, South-East Asia is getting ready for something else
+For three decades, fan passion has been the Asean Championship’s driving force
 
-## CRIF India Launches Chennai Chapter of 'Credit Goes to HER' to Strengthen Women's Leadership in the Credit Ecosystem
-CRIF India Launches Chennai Chapter of 'Credit Goes to HER' to Strengthen Women's Leadership in the Credit Ecosystem
-
-## Forevermark Diamond Jewellery Enters East India
-Forevermark Diamond Jewellery Enters East India
-
-## Q1 Results Today LIVE: Cipla Q1 PAT declines, PVR INOX logs profit, Vishal Mega Mart mixed Q1, Infosys, Mphasis, IndiGo, Meesho, Cyient, IEX to announce Q1 results today
+## Q1 Results Today LIVE: Infosys con. PAT up 12%, IndiGo loss at ₹382 cr, Cipla Q1 PAT declines, PVR INOX logs profit, Mphasis, Meesho, Cyient to announce Q1 results today
 Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
 
-## Sensex today | Stock Market Live: Sensex falls 500 pts, Nifty slips to 23,800 in volatile trade; IndusInd Bank down 6%
-Sensex, Nifty, Share Prices LIVE: At 1:00pm, Sensex traded 451.92 points or -0.59% lower at 76,303.13, Nifty traded at 23,851.70, down 144.55 points (-0.60%).
+## SBI Life Insurance partners with Paralympic Committee of India (PCI) as 'Principal Partner' of Indian Contingent for 2026 Para Sports Season
+SBI Life Insurance partners with Paralympic Committee of India (PCI) as 'Principal Partner' of Indian Contingent for 2026 Para Sports Season
 
-## West Asia oil producers step up plans to bypass Strait of Hormuz
-Gulf countries planning to spend billions of dollars to build pipelines enabling them to redirect more supplies to ports along the Red Sea, Suez Canal and Gulf of Oman
+## Copper market will likely witness volatility on West Asia developments
+Analysts say the red metal is currently caught between macro headwinds and US tariff uncertainty
 
-## Fusion CX expects to cut 90 per cent of debt after IPO
-The IT firm aims to scale AI data infrastructure business; pursuing two acquisitions this year
+## Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm
+Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand 
 
-## Hyundai Motor reports 21% drop in Q2 operating profit, misses forecasts
-Weaker vehicle sales, production disruptions and higher costs outweigh ‌support from a weaker won
+## Beyond Hormuz: Gulf is spending billions to find new routes to global markets
+Gulf nations are accelerating pipeline projects to bypass the Strait of Hormuz. These new routes aim to move oil without relying on the narrow waterway. Several major pipeline projects are under construction or being planned. Diversification efforts aim to protect regional oil exports from disruptio
 
 ## Rupee rises to 96.49 against US dollar, rising oil prices limit gains
 The Indian rupee saw a slight gain against the US dollar on Thursday. Rising crude oil prices continue to exert pressure on the currency. The Reserve Bank of India's intervention is expected to limit sharper losses. Foreign investors showed mixed sentiment in Indian equities and bonds. Stock markets
@@ -84,59 +90,59 @@ Crude oil prices surged as Middle East conflict escalated on Thursday. Brent cru
 ## OpenAI's rogue AI breach may bolster India's case for frontier model access
 
 
-## Q1 bank credit flow surges 10x as market mop-up collapses
+## IndiGo posts ₹238 crore net loss in Q1, cites West Asia conflict and fuel costs
+IndiGo Managing Director Rahul Bhatia said the first quarter was shaped by a volatile operating environment.
+
+## Dharmendra Pradhan's old post with Sonam Wangchuk, his wife goes viral: 'Appreciate their passion'
+This post by the BJP leader has gone viral as Sonam Wangchuk continues his fast calling for Pradhan's resignation.
+
+## Who is Pawan Sangle? Mumbai cop suspended for threatening student protesters with drug case
+The widely circulated clip allegedly shows a police driver warning detained students that they would be implicated in false narcotics cases.
+
+## After letter to Modi, Anna Hazare holds silent protest to back students
+Hazare held the protest at the Mahatma Gandhi statue in Ahilyanagar before leaving for his village, Ralegan Siddhi, located in the same district.
+
+## 'Roots and Wings': Ashok Jhunjhunwala's life chronicled in biography
+At the event, commerce minister Piyush Goyal said that the book will plant ideas and seeds for budding entrepreneurs.
+
+## Wangchuk's wife slams Congress protest near PM's house: 'Public can't be fooled, join students at Jantar Mantar'
+Gitanjali Angmo, wife of activist Sonam Wangchuk, criticizes Congress's recent protest for failing to support the student's movement.
+
+## Mumbai policeman suspended for threatening to implicate students in drug case
+A video purportedly showing him threatening to implicate detained protesting students in a fake drug trafficking case went viral on social media
+
+## Union minister says govt approached CJP 4 times, ready to talk and find solution
+The minister said the government remained open to negotiations and once again appealed to the CJP leadership to come forward for talks.
+
+## ‘The India I wanted to see’: Protesters at Jantar Mantar distribute surplus food to hospital bystanders
 
 
-## Improving liquidity helping robust growth in credit: RBI
-India's economy shows resilience amid global uncertainties and fragile geopolitics. Liquidity conditions have improved, supporting robust credit growth across the nation. The external sector remains steady, with foreign investment inflows strengthening its outlook. Rural and urban demand conditions 
-
-## Our children deserve to be protected, not portrayed as villains: Gitanjali J Angmo
-Our children deserve to be protected, not portrayed as villains: Gitanjali J Angmo
-
-## Delhi Police fact-checks reports of protester's death at Jantar Mantar: ‘She’s stable'
-Sakshi was injured in a stampede-like situation at the July 20 march after the police began lathi-charging protestors on site.
-
-## Thackeray brothers announce ‘United March’ on July 26, invite Congress, Pawar
-Uddhav Thackeray and Raj Thackeray announce a July 26 United March in Mumbai, inviting Congress and Sharad Pawar to join the rally.
-
-## Delhi Police allowed to invoke NSA powers amid CJP protest? What's the truth behind claim
-Delhi Police clarified that the said NSA order is a routine extension, dismissing reports that the move has been taken in order to quell the CJP protests.
-
-## CBI finds no evidence against 'mastermind' Sanjeev Mukhiya in 2024 NEET paper leak case
-The CBI said Sanjeev Mukhiya was taken into custody because he was named in the FIR, but no evidence of his involvement emerged during the probe.
-
-## SC permits TTZ authority to process pending 400 applications for setting up non-polluting MSMEs
-SC permits TTZ authority to process pending 400 applications for setting up non-polluting MSMEs
-
-## Kerala HC declines to suspend sentence of two accused in 2017 actress assault case
-Kerala HC declines to suspend sentence of two accused in 2017 actress assault case
-
-## RSS, VHP leaders to meet Ayodhya seers amid Ram Temple donation theft controversy
-The meeting is seen as part of an attempt to contain the political fallout from the irregularities ahead of the Uttar Pradesh assembly elections due in early 2027
-
-## NTA’s income doubles in 5 years, reaches Rs 1,117 crore; expenditure tops Rs 1,040 crore
+## Trump’s Iran trap: No victory, no deal, no withdrawal
 
 
-## Sonu Nigam ducks question on CJP protest; Kangana Ranaut backs PM’s ‘decisive action’
+## Delhi-Chennai train operations to ease as Railways opens Kazipet-Balharshah third line
 
 
-## Commonwealth Games 2026 Lawn Bowls Explainer: Rules, scoring, key terms & India’s medal hopes
+## ‘Wagh Nakh’ on its crest, how submarine-hunter INS Malvan will help the Navy shield India’s coast
 
 
-## Shashi Tharoor quotes Pakistani poet to take a dig at PM Modi amid NEET paper leak row
+## For restoration of J&K statehood, Kashmir’s parties must first be pragmatic
 
 
-## Sri Lankan Navy arrests 9 Indian fishermen near Talaimannar
+## Charging customer Rs 5 extra on water bottle costs Andhra restaurant Rs 2,000
 
 
-## Had dengue once? Here’s why you can get it again and be more careful
+## CRPF may seek explanation from officer viral for ‘dead cockroach’ Insta story
 
 
-## CBSE issues guidelines for Class 12 supplementary exams 2026; practical exams to be held from July 29
+## Bengal birth, death certificates under scrutiny amid SIR-linked fraud claims
 
 
-## Bengaluru man booked over ‘abusive’ video on PM Modi and Delhi protests
+## Path opened for Malaysian firms to pursue secondary share listings in Hong Kong
+Hong Kong is reaping rewards from a charm offensive with Malaysia as it works to enhance its attractiveness to global fundraising activities, with deals reached on Thursday during a visit to the Southeast Asian country by the city’s financial services secretary. Bursa Malaysia will become the 21st s
 
+## HSBC summit turns future trends into wealth strategies
+[The content of this article has been produced by our advertising partner.] As AI breaks out of chatbots and into what is now called Physical AI, investors need to rethink how portfolios should be built, protected and put to work. Growth opportunities are being created across tech, mobility, consume
 
 ## Zhongji sets highest subscription threshold in Hong Kong IPO history
 Zhongji Innolight, the largest IPO in Hong Kong in nearly seven years, has set the highest subscription threshold in the city’s history, dampening retail investors’ appetite, though institutional demand remains strong, with multiple oversubscriptions already placed, according to people familiar with
@@ -155,12 +161,6 @@ China’s tepid consumer spending prompted one of the country’s biggest fund m
 
 ## Asia’s affluent families rethink legacy planning as complexity shifts focus to execution
 [The content of this article has been produced by our advertising partner.] Over the next 20 to 30 years, Asia is expected to experience significant intergenerational wealth transfers, with substantial assets changing hands. For the families involved, the scale is unprecedented – as is the level of 
-
-## China’s power grid no longer keeping pace with green energy capacity, study says
-China is building more wind and solar capacity than the rest of the world combined, but transmission bottlenecks risk prolonging its reliance on coal, according to a report published on Tuesday by Global Energy Monitor (GEM). More than 500 gigawatts (GW) of China’s planned 1,360GW of utility-scale w
-
-## Why the spectre of ‘climate black swan’ events is haunting global investors
-As a potentially record-setting El Nino threatens to push up global food prices – with an impact as great as the Iran war – some global investment banks have warned investors to pay more attention to the risk of “climate black swan” events: sudden, unexpected shifts in the climate with the power to 
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
@@ -186,6 +186,21 @@ The president’s allegations about election interference are the latest case in
 ## Why a Hunger Strike Is Rallying India’s Youth
 Sonam Wangchuk’s fast in solidarity with Cockroach movement protests joins a long tradition.
 
+## India and Japan’s Emerging Shipbuilding Partnership
+The future of India-Japan security cooperation lies in shipyards – and maybe with the Mogami-class frigate.
+
+## Whatever Happened to ‘Wolf Warrior’ Diplomacy?
+In recent years, Beijing has become a lot more selective in how, where, and when it deploys the assertive diplomatic tactic.
+
+## ASEAN Foreign Ministers Call for ‘Immediate Cessation’ of Middle East Hostilities
+The fighting between Iran and the United States is set to have “immediate and long-term effects” on Southeast Asia and its people, the ministers said.
+
+## Malaysia Must Reject Hate and Confront Myanmar Over the Rohingya Crisis
+Prime Minister Anwar Ibrahim’s government has largely remained silent about the recent online "hate campaign" targeting Rohingya refugees.
+
+## Philippine, Chinese Foreign Ministers Exchange Protests Over South China Sea Clash
+Both nations have accused the other for instigating the incident at Second Thomas Shoal, which has overshadowed this week's ASEAN meetings in Manila.
+
 ## The First Japan-Brazil Foreign Ministers’ Strategic Dialogue
 An important first step, with much work still ahead.
 
@@ -194,21 +209,6 @@ Japan now needs to formulate its response.
 
 ## The World Cup and the G2 Reality
 The international sporting event showcased American strengths. It's a reminder that both the U.S. and China should stop betting on each other’s decline.
-
-## India’s High-Stakes Gamble in the SCO
-In an era of diminishing multilateralism, can the SCO actually bring results?
-
-## Why a Tibetan Protester Set Himself on Fire Outside the United Nations
-Loga Rangzen’s self-immolation was intended to force Tibet back onto the international agenda. Instead, it exposed the challenges Tibetans face amid China's growing global influence.
-
-## Indian Army’s Integrated Battle Groups Are Crystallizing ‘Cold Start’ Doctrine
-Given the uncertainty in the region's escalation ladder, IBGs may be the answer if the need for a quick ground retort were to arise.
-
-## Keep an Eye on China’s AI Governance Offensive
-Beijing’s intensifying efforts to shape international norms on AI are aimed at catching up on the technology and exporting China’s illiberal values.
-
-## How South Korea’s Africa Pledges Are Faring on the Ground
-In western Uganda, a project funded by the Korea International Cooperation Agency (KOICA) serves as a test case for what South Korea can offer the continent.
 
 ## America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down
 For 18 days in June, two of America’s most capable AI models went dark worldwide, not for technical or business reasons, but because the U.S. government ordered it. On June 12, 2026, the Commerce Department informed Anthropic that its Fable 5 and Mythos 5 models could no longer be provided to any fo
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Norway to make formal complaint to FIFA over Balogun red card saga
+FIFA overturned the suspension for a red card for the USA forward at the World Cup after a request from President Trump.
+
+## Rubio says Iran ‘begging’ for a deal with US but not ready to make one
+Secretary of state says US has 'a head for an eye' policy as strikes hit Iran for a 12th straight night.
+
+## Thai sailors sue owners of cargo ship hit in Hormuz
+Thai sailors sue owners of cargo ship hit in Hormuz
+
+## Iran, Houthis strike tankers as US bombing continues: What’s the latest?
+With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.
+
+## ‘Televising our revolution’: India’s Gen Z flips Modi’s social media game
+For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.
+
+## More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem
+National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.
+
+## ‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people
+Palestinian's sudden return alive after family held his funeral highlights suffering of those still waiting for answers.
+
 ## Indian activist Wangchuk sets conditions to end hunger strike
 Indian activist Wangchuk sets conditions to end hunger strike
-
-## Photos: Gaza’s shelter crisis
-Gaza faces a deepening housing crisis as more than 92 percent of homes have been damaged or destroyed by Israel.
-
-## Travellers panic as US attacks Iran-Iraq border crossing
-Travellers panic as US attacks Iran-Iraq border crossing
-
-## India’s Modi promises fast-track courts for exam fraud fuelling protests
-Cockroach Janta Party protesters are occupying streets in New Delhi, demanding Education Minister Pradhan resign.
-
-## Top US and Russian diplomats discuss Ukraine war in Manila
-Russian Foreign Minister Lavrov 'reaffirmed ​readiness' for political ​and diplomatic settlement to Russia-Ukraine war.
-
-## Arsenal defender Saliba sidelined for ‘extended period’ due to back injury
-Centre back William Saliba won't require surgery for injury sustained at World Cup, his club says.
-
-## Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia
-Yemenis fear a maritime embargo on Saudi Arabia could reignite war, deepen shortages and worsen hunger.
-
-## Will the war on Iran affect ASEAN’s efforts to tackle regional issues?
-Renewed fighting between the US and Iran has overshadowed the ASEAN gathering in Manila.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
