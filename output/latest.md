@@ -1,70 +1,79 @@
 # AION Intelligence
 
+## Oil price surge drives global bond sell-off
+Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations
+
+## ECB holds interest rates at 2.25%
+Central bank pauses despite renewed surge in oil prices
+
+## Inflation and interest rates tracker: see how your country compares
+Explore the latest data through interactive charts
+
+## Laura Loomer meets Zelenskyy after pro-Ukraine conversion
+Far-right influencer abandoned opposition to war to praise Kyiv’s resilience against Russian aggression
+
+## Oil jumps to $99 after Houthis attack two Saudi Arabian tankers
+Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla
+
+## Live reader Q&A — How will Burnham govern the UK?
+Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley, now
+
+## Postcard from Italy: in the flower fields of Castelluccio
+On the high plains of the Apennines, the summer ‘flowering’ is one of the country’s great seasonal spectacles — though barely known overseas
+
 ## Iran war reignites debate over US energy-permitting reform
 Changes would enable infrastructure to be built faster in order to bolster the country’s energy security
+
+## ECB keeps interest rates on hold as expected
+Central bank says its energy price outlook remains “close” to June projections
+
+## STMicroelectronics hit by doubts over AI spending boom
+Franco-Italian chipmaker’s third-quarter sales forecast misses analysts’ expectations
 
 ## Blackstone says pace of withdrawals slowing at flagship private credit fund
 Investor concern over potential losses led to a surge in customers seeking to pull out money this year
 
-## Oil price surge drives global bond sell-off
-Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations
-
-## Oil jumps to $98 after Houthis attack two Saudi Arabian tankers
-Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla
-
-## The return of the political professional
-After years of duds and dilettantes, true operators have returned to Downing Street — but that won’t guarantee success
-
-## Submit your questions: How will Burnham govern the UK?
-Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley today at 1pm (BST)
-
 ## FirstFT: Jes Staley faces questions over his links to sex offender Jeffrey Epstein
 Also in today’s newsletter: surge in oil prices reignites fears of an inflation shock and Google’s cash flow turns negative
-
-## Will Burnham go big or go home?
-Reasons to be sceptical about the UK’s new prime minister
 
 ## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
 EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
 
-## Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline
+## Houthi attacks threaten Saudi Arabia’s oil lifeline
 Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab
 
-## Nestlé shares tumble as coffee and cocoa prices hit profits
-Swiss food group’s new leaders are attempting a sweeping turnaround after years of underperformance
+## ‘Jana Nayagan’ opens to frenzy as fans throng theatres for CM Vijay’s final act in movies
+Fans thronged theaters for shows as early as 8:00 AM, dancing their hearts out outside the theaters in front of large banners of the actor
 
-## A stealth fighter jet could blow a hole in Healey’s budget
-To fly, Tempest and the GCAP need to defy the history of failed joint national projects
+## J&K aims to double start-ups by 2027 in J&K start-up summit
+Abdullah said governments were often risk-averse and preferred investments with predictable outcomes, but startups required a greater willingness to accept uncertainty.
 
-## Ford hopes Spain tie-up with China’s Geely will revive European business
-Two carmakers say they will form a manufacturing joint venture at US group’s Valencia plant
+## The ePlane Company signs MoU with Apollo Hospitals for air ambulances and medical drones
+Apollo has expressed intent to procure The ePlane Company’s e200x air ambulances to facilitate rapid inter-hospital transfers, trauma response, cardiac and stroke emergencies and organ transport
 
-## Macquarie names banking head to succeed Wikramanayake as CEO
-Greg Ward appointed to lead Australian investing giant
+## JSW Infra’s ₹600-crore mechanisation project at VOC Port set for FY27 Q4 completion
+The terminal is designed to handle a range of dry bulk cargo, including coal, coke, limestone, gypsum, rock phosphate and copper concentrate
 
-## Infosys reports lower-than-expected quarterly revenue, appoints CEO-designate
+## Buffett indicator signals that Indian stock market is relatively less overheated
+Although valuations remain above the long-term average, India is considerably less overheated than several major equity markets, including the US, Taiwan, Japan and South Korea
 
-
-## Aastha Spintex board clears 1:1 bonus issue, expands into value-added textiles
-The company will raise its authorised share capital to Rs 100 crore for the bonus issue and support its expansion into value-added textile products
-
-## ITC aspires to be India’s No. 1 FMCG player, steps up profitability push: Sanjiv Puri
-ITC is leveraging an AI-led consumer insight ecosystem to drive micro-segmentation and develop differentiated products tailored to evolving consumer need
-
-## Sensex today | Stock Market Highlights: Markets slip for 4th straight day as crude rises; Sensex drops 363 pts, Nifty ends below 23,870
-Sensex, Nifty, Share Prices Highlights: Sensex settled 363.66 pts or 0.47% lower at 76,391.39; and Nifty 50 fell 126.65 pts or 0.53% to 23,869.60.
-
-## While the world was watching Spain and Argentina, South-East Asia is getting ready for something else
-For three decades, fan passion has been the Asean Championship’s driving force
+## South Gujarat deluge shatters records as another ‘low’ looms over Bay
+Valsad district and Union Territory of Dadra and Nagar Haveli found themselves in the eye of a raging rain storm through Wednesday to Thursday
 
 ## Q1 Results Today LIVE: Infosys con. PAT up 12%, IndiGo loss at ₹382 cr, Cipla Q1 PAT declines, PVR INOX logs profit, Mphasis, Meesho, Cyient to announce Q1 results today
 Q1 Results Today Live Updates, July 23, 2026: Follow businessline for more
 
-## SBI Life Insurance partners with Paralympic Committee of India (PCI) as 'Principal Partner' of Indian Contingent for 2026 Para Sports Season
-SBI Life Insurance partners with Paralympic Committee of India (PCI) as 'Principal Partner' of Indian Contingent for 2026 Para Sports Season
+## Ashok Leyland partners with Shriram Automall to unlock new opportunities in pre-owned CV market
+Pre-owned or re-purposed vehicles sector is experiencing exponential and consistent growth
 
-## Copper market will likely witness volatility on West Asia developments
-Analysts say the red metal is currently caught between macro headwinds and US tariff uncertainty
+## Longer routes, higher costs, 26,000 cancellations: US-Iran conflict hits Indian airlines
+Indian airlines have cancelled approximately 26,000 international flights due to Middle East airspace restrictions. These disruptions have led to flight diversions and delays, impacting airline operations significantly. Longer flight routes are increasing fuel consumption and raising overall operati
+
+## Will employees finally get paid faster after resignation? Understanding labour codes and full & final settlement
+For an employee, the last salary from the previous organisation is not just a payroll entry. It may be needed for rent, relocation expenses, family commitments, education fees, loan repayments or simply to manage the gap before the first salary from the new employer
+
+## India's first hydrogen-powered train clocks around 900 km in five days
+India's first hydrogen fuel cell train has covered 900 kilometers on its initial operational route. This new train runs on hydrogen fuel cells, producing only water vapor and heat. Passenger fares remain consistent with ordinary diesel services on this pilot project. The train operates on the Jind-S
 
 ## Axis Bank's MF arm acquires Rs 12,000 crore PMS business from securities arm
 Axis Asset Management Company is acquiring Axis Securities' portfolio management services business. This strategic move significantly expands their alternative investments platform and investor base. The combined portfolio management services assets under management will now exceed fifteen thousand 
@@ -81,62 +90,56 @@ The government proposes a 5% GST rate for mango drinks with 22-25% real pulp. Th
 ## Stock market today: NSE Nifty50 opens below 24,000, BSE Sensex sheds over 350 points
 
 
-## Oil prices touch six week high as Strait of Hormuz is 'completely closed'
-Crude oil prices surged as Middle East conflict escalated on Thursday. Brent crude rose above $96 a barrel and WTI climbed past $88. Fresh attacks on oil tankers in the Red Sea fueled supply concerns. Iran's Revolutionary Guards claimed control of the Strait of Hormuz. Houthi naval blockades further
+## Supreme Court lawyers recite Constitution's Preamble seeking justice for students, CJP thanks them
+Senior Advocate Indira Jaising said the issue concerned the rights of students and that it was the duty of lawyers to stand with them and seek justice.
 
-## Under-recoveries push HPCL, BPCL into losses
+## Chennai man held at Kolkata airport with 707 Red-eared Slider turtles
+Customs officials at Kolkata airport seized 707 Red-eared Slider turtles from a Chennai passenger arriving from Bangkok and arrested him under wildlife laws.
 
+## PM Modi's fast-track courts announcement for paper leaks draws mixed response: 'Took him 34 days'
+While Opposition leaders stayed firm on Dharmendra Pradhan's resignation demand, union ministers and BJP leaders welcomed PM Modi's announcement on paper leaks.
 
-## OpenAI's rogue AI breach may bolster India's case for frontier model access
+## New draft rules: Unpaid traffic e-challans may freeze vehicle, licence services
+The Centre’s draft Motor Vehicles Rules propose blocking vehicle registration and driving licence services until unpaid e-challans are cleared.
 
+## CJP calls nationwide protest tomorrow against 'police brutality' on students, shares guidelines
+The party has called for peaceful demonstrations in every district in solidarity with those it says were subjected to police action.
+
+## Who is Rhiya Ahir? Woman who broke internet by blocking police van at Mumbai CJP protest
+Rhiya Ahir, a 27-year-old model, believed the detainees were being removed unnecessarily and immediately rushed towards the vehicle to stop it.
+
+## BJP MP claims students using paper leak as excuse: ‘Trying to convince parents…’
+The BJP MP also remarked that Prime Minister Narendra Modi has called for the harshest punishment of the 13 people arrested in the NEET UG paper leak.
 
 ## IndiGo posts ₹238 crore net loss in Q1, cites West Asia conflict and fuel costs
 IndiGo Managing Director Rahul Bhatia said the first quarter was shaped by a volatile operating environment.
 
-## Dharmendra Pradhan's old post with Sonam Wangchuk, his wife goes viral: 'Appreciate their passion'
-This post by the BJP leader has gone viral as Sonam Wangchuk continues his fast calling for Pradhan's resignation.
-
-## Who is Pawan Sangle? Mumbai cop suspended for threatening student protesters with drug case
-The widely circulated clip allegedly shows a police driver warning detained students that they would be implicated in false narcotics cases.
-
-## After letter to Modi, Anna Hazare holds silent protest to back students
-Hazare held the protest at the Mahatma Gandhi statue in Ahilyanagar before leaving for his village, Ralegan Siddhi, located in the same district.
-
-## 'Roots and Wings': Ashok Jhunjhunwala's life chronicled in biography
-At the event, commerce minister Piyush Goyal said that the book will plant ideas and seeds for budding entrepreneurs.
-
-## Wangchuk's wife slams Congress protest near PM's house: 'Public can't be fooled, join students at Jantar Mantar'
-Gitanjali Angmo, wife of activist Sonam Wangchuk, criticizes Congress's recent protest for failing to support the student's movement.
-
-## Mumbai policeman suspended for threatening to implicate students in drug case
-A video purportedly showing him threatening to implicate detained protesting students in a fake drug trafficking case went viral on social media
-
-## Union minister says govt approached CJP 4 times, ready to talk and find solution
-The minister said the government remained open to negotiations and once again appealed to the CJP leadership to come forward for talks.
-
-## ‘The India I wanted to see’: Protesters at Jantar Mantar distribute surplus food to hospital bystanders
+## What’s inside IIT Madras’ freshers kit 2026? Here’s what the newest IITians are unboxing
 
 
-## Trump’s Iran trap: No victory, no deal, no withdrawal
+## UPSC Mains Answer Practice — GS 2: strategic significance of BIMSTEC and NATO’s transformation (Week 164)
 
 
-## Delhi-Chennai train operations to ease as Railways opens Kazipet-Balharshah third line
+## Wife claims HIV after marriage, Chhattisgarh High Court raises alimony to Rs 7 lakh
 
 
-## ‘Wagh Nakh’ on its crest, how submarine-hunter INS Malvan will help the Navy shield India’s coast
+## Amid renewed West Asia conflict, discounts on Russian oil for Indian refiners vanish
 
 
-## For restoration of J&K statehood, Kashmir’s parties must first be pragmatic
+## Walking epidurals can ease labour pain, but they are still rare in India — here’s why
 
 
-## Charging customer Rs 5 extra on water bottle costs Andhra restaurant Rs 2,000
+## ‘Budget for drugs at TV parties,’ claims Narayani Shastri, says seen actors ‘high on sets’
 
 
-## CRPF may seek explanation from officer viral for ‘dead cockroach’ Insta story
+## Jana Nayagan box office collection day 1 early report: Vijay’s film eyes Rs 80 cr globally
 
 
-## Bengal birth, death certificates under scrutiny amid SIR-linked fraud claims
+## Ashes 2027 dates out as England and Australia reignite iconic rivalry
 
+
+## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
+Geely Auto, China’s second-largest carmaker, has struck a deal with Ford Motor to use the US company’s redundant capacity in Spain to build electric vehicles (EVs) amid its stepped-up push to expand globally. Multi-energy cars would be assembled at an idle factory in Almussafes, near Valencia, after
 
 ## Path opened for Malaysian firms to pursue secondary share listings in Hong Kong
 Hong Kong is reaping rewards from a charm offensive with Malaysia as it works to enhance its attractiveness to global fundraising activities, with deals reached on Thursday during a visit to the Southeast Asian country by the city’s financial services secretary. Bursa Malaysia will become the 21st s
@@ -158,9 +161,6 @@ Chinese mutual funds have reduced their Hong Kong stock holdings via the southbo
 
 ## China’s star fund manager dumps long-held consumer bets in pivot to AI trade
 China’s tepid consumer spending prompted one of the country’s biggest fund managers to aggressively cut holdings in consumption-related stocks from liquor distillers to e-commerce platforms while rotating into artificial intelligence-linked names, abandoning years-long bets to align with the evolvin
-
-## Asia’s affluent families rethink legacy planning as complexity shifts focus to execution
-[The content of this article has been produced by our advertising partner.] Over the next 20 to 30 years, Asia is expected to experience significant intergenerational wealth transfers, with substantial assets changing hands. For the families involved, the scale is unprecedented – as is the level of 
 
 ## Trump Approves Nuclear Deal With Saudi Arabia
 But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.
@@ -258,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Norway to make formal complaint to FIFA over Balogun red card saga
-FIFA overturned the suspension for a red card for the USA forward at the World Cup after a request from President Trump.
+## Cricket: No Ashes 2027 Tests to take place in the north of England
+England will not host Australia at Old Trafford or Headingley.
 
-## Rubio says Iran ‘begging’ for a deal with US but not ready to make one
-Secretary of state says US has 'a head for an eye' policy as strikes hit Iran for a 12th straight night.
+## EU hits Google with new $1bn fine, saying it broke digital antitrust rules
+The fine is part of a major crackdown on Big Tech by Brussels which says it is seeking to ensure fair competition.
 
-## Thai sailors sue owners of cargo ship hit in Hormuz
-Thai sailors sue owners of cargo ship hit in Hormuz
+## Can Iran withstand new pressure from the US?
+After a truce, the US has returned to war with Iran. Alex Gatopoulos looks at what’s different this time
 
-## Iran, Houthis strike tankers as US bombing continues: What’s the latest?
-With the Houthi naval blockade, shipping disruptions now impact the Bab al-Mandeb strait in addition to Hormuz.
+## Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?
+Iraqi Prime Minister Ali al-Zaid is visiting Tehran after a high-profile meeting with US President Donald Trump.
 
-## ‘Televising our revolution’: India’s Gen Z flips Modi’s social media game
-For 12 years, Modi and his party have dominated Indian social media. Now, youth use the same platforms against him.
+## Several killed as Ukraine, Russia trade attacks deep behind the front line
+Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.
 
-## More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem
-National Security Minister Ben-Gvir joins settlers and far-right groups at holy site under heavy police protection.
+## Israel releases 35 detainees from Gaza
+Israel releases 35 detainees from Gaza
 
-## ‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people
-Palestinian's sudden return alive after family held his funeral highlights suffering of those still waiting for answers.
+## Why a North Sea oilfield is emerging as British PM Burnham’s big test
+Reports suggesting the new British PM might allow drilling in the North Sea have excited Donald Trump, divided locals.
 
-## Indian activist Wangchuk sets conditions to end hunger strike
-Indian activist Wangchuk sets conditions to end hunger strike
+## Women’s Africa Cup of Nations 2026: What to know about the tournament
+Tournament format, venues, title favourites, groups, prize money and players to watch at the 2026 WAFCON in Morocco.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
