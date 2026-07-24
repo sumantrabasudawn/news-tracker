@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## Law student charged after sophisticated bomb seized near Northern Irish border
+‘Radicalised republicans’ ready to mount attacks, police chief warns
+
 ## ICC ousts chief prosecutor Karim Khan after misconduct probe
 Member nations vote to remove him after allegations of sexual misconduct, which he has denied
 
@@ -20,9 +23,6 @@ Respected economist known as an interlocutor with foreign investors is probed fo
 
 ## Trump threatens new EU tariffs in retaliation for fines on US tech groups
 President says Washington will launch new probe into the bloc that could sharpen trade tensions
-
-## Number 10 North is no ‘gimmick’, says Andy Burnham
-Prime minister remains insistent that new Manchester office sends a more important signal to rest of the country
 
 ## Directors’ Deals: Fevara non-executive chair beefs up stake
 Livestock supplement producer has refocused in the past year
@@ -60,6 +60,9 @@ During the quarter, MUFG Bank, the Japanese banking giant and subsidiary of Mits
 ## IT firms post robust Q1 deal wins, face slower revenue realisation
 Despite robust deal wins, India’s IT firms are seeing slower revenue conversion as clients phase project execution and increasingly opt for outcome-based pricing
 
+## Trump slaps 10% tariff on India, no major impact seen
+'Not credible', P 19
+
 ## US stocks today: Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat
 Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms 
 
@@ -80,9 +83,6 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 
 ## Trump imposes new tariffs on 60 economies over forced labour concerns; India gets 10% duty - check full list
 
-
-## 10% US tariff on India: What it means for the country's exports
-United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
 ## No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
 No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
@@ -108,28 +108,28 @@ Satish Deshpande, who travelled from Madhya Pradesh to Jantar Mantar, insisted t
 ## India condemns Black Sea attack on vessel that killed Indian seafarer
 MV Omorfi, a bulk carrier with a crew of 10, including three Indian nationals, was attacked while transiting the Black Sea, on July 18
 
+## Bill criminalising insult to Vande Mataram introduced in House
+
+
+## India dismisses Pakistan flood claims, says Chenab water rise due to heavy rain
+
+
+## US-Iran war live updates: US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes
+
+
+## Using discarded wrappers, cops trace outlets sending food to Jantar Mantar protest site
+
+
+## The Pradhan impasse: Why Centre is not ready to blink as CJP deadline looms
+
+
+## Jail up to 10 years, Rs 10-cr fine for exam leak: Nod for tough new law
+
+
+## Rivers rising, BLOs in Punjab’s border areas take boats to meet SIR deadline
+
+
 ## CWG 2026: Para powerlifter Jhandu Kumar wins bronze, opens India’s account
-
-
-## ‘To maintain law & order’, liquor shops in Delhi to shut by 8 pm until Sunday
-
-
-## CWG 2026: Jadumani Singh’s 5kg gamble pays off, enters Round of 16
-
-
-## In new late-night video, Modi thanks students for ‘constructive’ responses
-
-
-## Abhinandh PB’s dream run continues as Goa enter UTT final
-
-
-## No IOC scrutiny for Infantino over Trump’s intervention at FIFA World Cup
-
-
-## Europe battles wildfires as heatwave forces 30,000 to evacuate across France, Spain
-
-
-## Sameera Reddy recalls being told to wear bum pads: Experts on lasting impact of body shaming
 
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
@@ -156,6 +156,9 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
+## Trump Swaps Out Tariffs for Even More Tariffs
+Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
+
 ## Andy Burnham and the New Manchesterism
 The economic philosophy of Britain’s latest prime minister.
 
@@ -176,9 +179,6 @@ A Cannes win has turned trans actors from outsiders to heroes.
 
 ## Trump’s Destruction of Iranian Life Is Strengthening the Regime
 Targeting civilian infrastructure is a foolish and cruel error.
-
-## How a U.S. Ground Operation in Iran Could Unfold
-Military experts said limited raids could happen, but a large-scale invasion is unlikely.
 
 ## What a Stray Dog’s Murder Tells us About Chinese Civil Society
 Wang Wang has appeared on billboards around the world – visible proof that China’s censorship does have limits.
@@ -270,7 +270,7 @@ The number of people forced to flee the heatwave-induced fires in Spain and Fran
 ## UNESCO places occupied West Bank, Lebanon sites on endangered heritage list
 Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.
 
-## US small businesses challenge Trump’s new ‘forced labor’ tariffs
+## US small businesses challenge Trump’s new forced labour tariffs
 In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.
 
 ## Israeli settlers escalate attacks on Palestinians near Nablus
