@@ -1,28 +1,40 @@
 # AION Intelligence
 
+## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
+Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
+
+## Oil hovers near $100 as Trump weighs ‘massive attack’
+Middle East tensions have risen after Red Sea attacks by Houthi militants threatened to squeeze global supplies further
+
+## Russia’s biggest online retailer becomes target in Ukraine drone war
+Strikes on Wildberries have killed nine people and left small sellers facing millions of roubles in losses
+
+## Sun, football and Burnham push consumer confidence and retail sales higher
+Perceptions of UK economy improved despite lack of clear evidence of gaining momentum
+
+## US hits 60 countries with new duties as Trump rebuilds tariff wall
+Washington moves to reimpose 10 per cent duties after previous blanket levies were struck down by Supreme Court
+
+## Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’
+Ruling against Chey Tae-won comes a decade after chair of chipmaker SK Hynix first revealed extramarital affair
+
 ## In the rates drama, oil is a minor character
 Plus, Japanese stocks
 
 ## Ireland pushes for breakthrough on EU capital markets reform
 Also in this newsletter: Trump reshapes Iceland’s EU referendum
 
-## US hits 60 countries with new duties as Trump rebuilds tariff wall
-Washington pins measures on forced labour probe after Supreme Court struck down blanket levies
+## Volkswagen slashes revenue outlook amid weak China sales
+Sharp cut heaps pressure on German carmaker’s chief executive as he looks to push through massive round of job cuts
 
-## Oil hits $100 as Trump weighs ‘massive attack’
-US stocks and bonds also sold off as Middle East tensions increase
+## How much does Wetherspoons make from its gambling machines?
+To a very daft question, we offer a very qualified answer
 
 ## FirstFT: US hits 60 countries with new tariffs
 Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel
 
-## Monetary Policy Radar preview: Federal Reserve’s July meeting
-The FT’s guide on what to look out for in Wednesday’s session
-
 ## Blackstone’s Stephen Schwarzman: ‘Our stock is on sale’
 Private capital group’s chief says company’s shares offer cheap exposure to AI
-
-## The fight to be the next Andy Burnham
-Election for new mayor of Greater Manchester takes place on July 30
 
 ## BNP Paribas shows there is life beyond Mars
 French bank’s results relied on more sustainable trends than the SpaceX IPO
@@ -30,41 +42,29 @@ French bank’s results relied on more sustainable trends than the SpaceX IPO
 ## Air taxis are nearing route to economic viability
 Electric vertical take-off and landing machines are starting to offer practical uses that are growing nearer to realisation
 
-## Burnham the builder: can British housebuilders deliver his ambition?
-New UK government must rely on sector in turmoil to deliver record amount of council homes
+## LPG under recovery of PSU OMCs at over ₹51,000 crore
+Even for July 2026, the implicit subsidy on each 14.2 kg domestic LPG cylinder is more than ₹500 per cylinder, says Oil Minister
 
-## Demand for ‘impact’ funds holds up despite ESG backlash
-Investors defied expectations they would abandon the theme after Donald Trump took aim at climate initiatives
+## Arvind Mediratta set to launch food retail chain FreshTerra; plans 12-15 stores in Delhi NCR by FY28
+The stores will also offer gourmet experience through an in-house cafe featuring chef-curated meals, artisanal coffee, and wholesome ready-to-eat options made using store-fresh ingredients, says Mediratta
 
-## Fund firms deploy ETF ‘spaghetti cannon’ in hunt for next hot trade
-Launches top 1,000 in 2026 as providers try to emulate success of hugely popular chip and bitcoin portfolios
+## Today’s Gold Rate in India July 24: Gold prices down in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
+22, 24 carat Gold prices down across Indian cities on July 24
 
-## Extreme heat drives demand for Nordic ‘coolcations’
-Scandinavian destinations in demand as scorching temperatures hit Europe
+## Education Ministry reshuffle: Naresh Pal Gangwar named Higher Education Secretary, Vineet Joshi moved
+The reshuffle also appoints Sushil Kumar Lohani to head the Animal Husbandry Department and T K Anil Kumar as School Education Secretary.
 
-## Despite a price increase, Indian smartphone consumers ready to spend more: Counterpoint report
-This behaviour is primarily driven by consumers aged 25-30 and they are willing to stretch their budgets, opt for affordability-driven payment options or even switch ecosystems
+## Mphasis posts Q1FY27 revenue growth of 9.9% y-o-y, eyes best sequential quarter in three years
+The company’s stock traded at ₹2,235.50 on the NSE, peaking at ₹2,340, but remains 26% below its 52-week high of ₹3,037.20 from September 2025
 
-## Coforge secures $230+ million five-year contract with European client
-Aims to combine modern Low-Code/No-Code platforms with AI-powered automation and accelerated, AI-infused software development practices to transform business operations for the client
+## Blenders, exporters lift prices of quality teas in Kochi auctions
+The orthodox dust market is firm to dearer with exporters and upcountry buyers covering a small quantity
 
-## Sensex today | Stock Market Crash Live: Sensex down 700 pts, Nifty near 23,650; IndiGo, Infosys drops 2%, Meesho falls 6% post Q2 results
+## Swiss FMCG major Nestle says India remains key growth driver, expects double-digit growth
+On Wednesday, Nestle India had reported a 48.26% on-year rise in consolidated net profit to ₹958.68 crore in the June quarter, supported by strong double-digit volume growth
+
+## Sensex today | Stock Market Live: Sensex off day's low, down 250 pts, Nifty near 23,800 at noon; Cipla, HCL Tech lead gainers
 Sensex, Nifty, Share Prices Live Updates: Rising crude oil prices, unwinding of yen trade, fresh US tariffs, weakening rupee hurts market sentiment
-
-## Quality control orders intended to achieve public policy objectives: India at WTO
-India's tariff reforms, customs simplification measures and ambitious Free Trade Agreement (FTA) strategy have steadily strengthened the country's integration with the global economy: Commerce Secretary
-
-## All you need to know about India’s CJP-led Gen Z protests
-Protesters are demanding resignation of Dharmendra Pradhan over exam irregularities, in addition to reforms to the examination system and long-pending constitutional safeguards for Ladakh
-
-## India secures lower 10% US forced-labour tariff under new Section 301 regime
-Tariff burden for most Indian exports unchanged as Section 122 levy ends, but textiles miss proposed US tariff quota relief planned for Bangladesh, Indonesia, Cambodia, Malaysia
-
-## FDI easing in e-commerce could pave way for wider opening of online retail sector: GTRI
-On Thursday, the government allowed FDI in inventory-based e-commerce for export purposes, aiming to boost India’s outbound shipments while protecting small retailers
-
-## Caliber Mining and Logistics shares list at up to 18.8% premium over IPO price
-At 10.44 am, the stock traded 15% above the offer price at ₹486, hitting a high of ₹510 on the NSE
 
 ## 'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19
 Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not
@@ -90,53 +90,59 @@ Oil prices have sharply rebounded, exceeding one hundred dollars per barrel. Att
 ## Eight Roads, 2 others to sell stake in Shadowfax
 
 
-## Road crash deaths rose by 3.5% to 183,382 in 2025, government tells Lok Sabha
-Uttar Pradesh recorded the sharpest rise in road fatalities, with deaths increasing from 24,118 in 2024 to 27,550 in 2025
+## Lok Sabha adjourned till Monday as Opposition continues protests over paper leaks
+Congress stuck to its demands for Pradhan’s resignation, action against those responsible for violence against student protesters, and Modi’s apology
 
-## Delhi HC to urgently hear plea against internet shutdown within 1.5 km of Jantar Mantar amid CJP protest
-The matter has been listed before the bench of chief justice DK Upadhyaya and justice Tejas Karia.
+## 'A very exceptional thing': Why Opposition wants to take up NEET paper leak in Parliament with an adjournment motion
+It suspends the day's business, ends in a vote and counts as censure if successful. That is why the Opposition wants it and why Speakers have rarely allowed it.
 
-## 'Desperate, hollow': Opposition reacts to PM Modi's midnight selfie video on NEET paper leak
-Opposition leaders reacted to the Prime Minister's midnight video talking about actions being taken by the government to address the paper leak controversy.
+## Assam flood toll rises to 47 as six more die; over 6.53 lakh people affected across 11 districts
+Earlier on Thursday, ASDMA reported that 10 people, including four children, had died in the floods over the previous 24 hours.
 
-## Who is Naresh Pal Gangwar? New education secretary appointed amid CJP protest
-A 1994-batch Rajasthan-cadre IAS officer, Gangwar will replace 1992-batch officer Vineet Joshi.
+## Rahul Gandhi, Opposition leaders slam DU's advisory urging students to ‘stay away’ from Jantar Mantar: ‘How dare you’
+The University of Delhi had asked students and faculty members to refrain from participating in any “unlawful assemblies or demonstrations” at Jantar Mantar.
 
-## India to test-fire 3 Kusha interceptors as Mission Sudarshan Chakra acquires speed
-The three interceptors under Project Kusha are all long-range surface to air missile ready to take out any aerial threat towards India.
+## Front cam, midnight post: How PM Modi's ‘GenZ-style’ video sparked its own story
+Some users compared the PM's selfie camera angle to the low, close, slightly-off shot via a peephole in a scene from the 2011 cult comedy ‘Delhi Belly’
 
-## CJP set to hold talks with govt at Constitution Club
-CJP set to hold talks with govt at Constitution Club
+## ED raids 8 premises in Delhi, UP and Punjab in an alleged ₹450 crore money laundering case
+The ED investigation stems from a CBI case relating to an alleged bank fraud involving approximately ₹450 crore availed from a consortium of banks.
 
-## What is the US' forced labour tariff and what it means for India?
-While India managed to secure a lower tariff than originally proposed 12.5%, the move adds another layer of uncertainty to ongoing India-US trade negotiations.
+## Bombay HC designates 2 special courts to fast-track trials in paper leak cases
+The Bombay high court said judges SV Pawar and Gulshan Kolte will preside over two special courts in Aurangabad and Nagpur
 
-## Students told to fete ‘NEET Champions’ amid paper leak protests; triggers backlash
-The emails feature individual posters of NEET-UG 2026 qualifiers hailing from rural and economically disadvantaged groups highlighting their personal journeys.
+## Remove encroachments along Ganga in Patna in 6 weeks: SC to Bihar govt
+The court was informed about encroachments between Nauzar Ghat to Nurpur Ghat in Patna and ongoing construction activity in Mathura district
 
-## The Odyssey earns Rs 100 crore in India, earns $332 million globally in 7 days
-
-
-## Mumbai IMD alert today: Intense showers to continue in city; relief in Thane, Palghar
+## Commonwealth Games Live: Powerlifters, paraswimmers chase medals at CWG
 
 
-## Adarsh Baal Vidyalaya review: Kay Kay Menon’s preachy school drama drowns in cliches
+## How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet
 
 
-## Elon Musk says AI could surpass human intelligence in 5 years, wants industry-wide safety talks
+## Meet Rhiya Ahir: The Mumbai model who stood down a police van
 
 
-## Global oil prices hits $100 amid West Asia tensions. Here’s why
+## Differences between Sonam Wangchuk and CJP? Saurav Das answers big question
 
 
-## Why the ED’s case against Lalit Modi was overturned and what it means for his return
+## US firm Anthropic tells Karnataka court it lacks jurisdiction in trademark suit
 
 
-## Aamir Khan recalls being called ‘one-film wonder’ after QSQT: ‘I used to come home, cry’
+## Musafir Cafe review: Vikrant Massey show could have been a pyaari prem kahani
 
 
-## From peels to plates: The Indian tradition of no‑waste cooking
+## No leave, no training: Delhi Police ramp up deployment amid CJP protests
 
+
+## Pune rain: Khadakwasla dam discharge continues, citizens advised to stay alert
+
+
+## Hong Kong insurers ride affluent demand to record sales as longevity and legacy needs grow
+Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs. The industry wrote HK$141.1 billion (US$18 billion) in new life policies in
+
+## Wall Street funds back China’s WuXi AppTec as weight-loss drug orders soar
+US global asset managers, including BlackRock, have expanded stakes in mainland Chinese pharmaceutical contractor WuXi AppTec over the past two months, betting that a surge in weight-loss drug manufacturing orders will lift earnings in the first half of the year. Global investors were increasingly i
 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
@@ -155,12 +161,6 @@ China’s A-share market has seen another high-profile divorce case result in a 
 
 ## Hongkongers increase cross-border shopping splurges, spending data shows
 Even as local retail spending remains resilient, Hong Kong consumers are shopping more across the border in mainland China, drawn by lower prices and wider adoption of digital payments, according to data from payment giant UnionPay International. Offline UnionPay card spending in mainland China by H
-
-## China’s Geely partners with Ford to revive Spain plant and deepen European EV drive
-Geely Auto, China’s second-largest carmaker, has struck a deal with Ford Motor to use the US company’s redundant capacity in Spain to build electric vehicles (EVs) amid its stepped-up push to expand globally. Multi-energy cars would be assembled at an idle factory in Almussafes, near Valencia, after
-
-## Path opened for Malaysian firms to pursue secondary share listings in Hong Kong
-Hong Kong is reaping rewards from a charm offensive with Malaysia as it works to enhance its attractiveness to global fundraising activities, with deals reached on Thursday during a visit to the Southeast Asian country by the city’s financial services secretary. Bursa Malaysia will become the 21st s
 
 ## Is Cuba Trump’s Next Target?
 The regime in Havana is increasingly in the Trump administration’s crosshairs.
@@ -210,6 +210,9 @@ The fighting between Iran and the United States is set to have “immediate and 
 ## Malaysia Must Reject Hate and Confront Myanmar Over the Rohingya Crisis
 Prime Minister Anwar Ibrahim’s government has largely remained silent about the recent online "hate campaign" targeting Rohingya refugees.
 
+## Before a Cyber Force, Fix Cyber Governance
+Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
+
 ## Chaotic Progress: European NATO’s Quest for Stronger Defense
 In 2024, Max Bergmann wrote, “NATO Missed a Chance to Transform Itself,” where he argued NATO’s leadership needs to facilitate a strong European pillar of the alliance through structural reforms in European institutions. Two years later, we asked Max to revisit his arguments.Image: The White House v
 
@@ -230,9 +233,6 @@ Ukraine’s expanding use of drones at all ranges has changed the war’s moment
 
 ## How the War with Iran is Shaping Key U.S. Relations Beyond the Middle East
 The U.S. war with Iran has had political, economic, and military implications that spread far beyond the Middle East. We asked five experts to assess how the war with Iran has affected U.S. bilateral relations with key countries that illustrate some of the global ramifications: South Korea, India, U
-
-## Rebuilding America’s Critical Minerals Base
-There’s a clear consensus that America hollowed out its critical minerals base. How to rebuild it is less settled. Alex Grant of Magrathea Metals and Wes Spurlock of Principal Mineral join Jonathan to discuss the processing technology, labor force, and how government can catalyze private capital inv
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ICC prosecutor Karim Khan faces removal vote: What’s the case about?
+ICC's 125 member states will vote by secret ballot Friday on the fate of Khan, who faces sexual misconduct allegations.
+
+## US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?
+The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.
+
+## Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job
+Former Man City and Barca boss Pep Guardiola is not the clear candidate for Italian job, as Carlo Ancelotti approached.
+
+## Indian activist Wangchuk ends 26-day hunger strike
+Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams
+
+## Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’
+President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.
+
 ## ‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo
 Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.
 
@@ -266,21 +281,6 @@ In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he
 
 ## Ukraine beheads its military as its performance begins to soar
 An unprecedented simultaneous replacement of the top defence and military brass comes amid a debate over strategy.
-
-## Trillion dollar US defence bill would deepen military ties with Israel
-A $1.15 trillion US defence bill passed by the House includes plans to expand military cooperation with Israel.
-
-## Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal
-Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.
-
-## Albanian police use water cannon on protesters over Kushner-linked resort
-Police used water cannons and pepper spray as protesters clashed outside Albania’s parliament.
-
-## As oil soars, experts watch Red Sea tankers for clarity on Houthi blockade
-Houthi attacks for now are shaping who moves Saudi crude, not whether it moves, analysts say, even as oil prices soar.
-
-## What are the Abraham Accords?
-US President Donald Trump has seemingly backpedalled on a nuclear deal with Saudi Arabia.
 
 ## Gen Z, Jobs and India Inc’s Hiring Problem
 The World Economic Forum estimates that nearly 40 per cent of workers' existing skills will require updating within the next five years as artificial intelligence, automation and digital technologies reshape industries. Ironically, because of this mismatch, many Indian businesses struggle to fill va
@@ -306,6 +306,9 @@ The proposal seeks to address a longstanding industry demand by examining whethe
 ## FCNR scheme: Withholding tax fear haunts US, Singapore NRIs
 Non-resident Indians residing in Singapore and the United States are expressing significant concerns over withholding taxes. These taxes threaten to diminish their net returns from leveraging FCNR deposit schemes. For instance, borrowing from Indian banks' GIFT City branches triggers Singapore withh
 
+## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
+Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
+
 ## US imposes 10% tariff on India, Pak, Bangladesh, UK, others in forced labour probe
 The United States has imposed 10% tariffs on goods from India and sixteen other nations. This action stems from their alleged failure to ban imports made with forced labor. India amended its foreign trade policy to prohibit such imports after the investigation began. Trading partners adopting and en
 
@@ -323,7 +326,4 @@ For Indian exporters, the two-year tariff-free period offers additional time to 
 
 ## Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1
 Sebi has directed depositories to implement a new framework for freezing promoter holdings. This operational framework will be in place by August 1, 2026. The mechanism freezes promoter and promoter group holdings at the ISIN level. Exceptions allow promoters to tender shares in tender offer buyback
-
-## RBI's inflow push gets off to strong start, fortifying India's balance of payments
-Foreign currency inflows are strengthening India's balance of payments position. The Reserve Bank of India's measures have mobilized over twenty billion dollars. This inflow is significantly higher than anticipated by economists and analysts. Such robust initial response bodes well for future fund m
 
