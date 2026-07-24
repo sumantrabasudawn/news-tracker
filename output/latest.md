@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## US hits 60 trading partners with new duties as Trump rebuilds tariff wall
+Washington moves to reimpose 10 per cent duties after previous blanket levies were struck down by Supreme Court
+
+## South East Water secures £200mn liquidity boost
+Cash-strapped British utility says financing will be used to help future bond issuance
+
+## Is a second home in New York or London more trouble than it’s worth?
+New York’s new tax on second homes is prompting owners to rethink. Are these city pads still worth it? It’s a question that those in London have long been asking
+
 ## Trump tracker: the latest data on US tariffs, trade and economy
 Follow the latest impact of tariffs amid the president’s ongoing trade war
 
@@ -15,53 +24,59 @@ Global competitiveness drive comes despite bourse being increasingly dominated b
 ## Japan’s June inflation figure poses no obstacle to BoJ tightening this year
 Headline and core price rises accelerated last month
 
-## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
-Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
-
-## What Manchester can’t tell you about Burnhamism
-His governing record in the city tells us what he would like to do but how it scales nationally remains uncertain
-
-## Is horse archery the queen of martial arts?
-Daniel Griffin thinks so – his ranch in South Africa is a hub for the ancient sport
-
 ## Volkswagen warns of weaker revenues ahead of record job cuts
 Sharp cut heaps pressure on German carmaker’s chief as he looks to push through massive workforce reduction
 
 ## Top UK law firm partners take home record pay
 Spate of listings in Hong Kong boosted IPO work and related transactions
 
+## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
+Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
+
 ## Reckitt to take £175mn hit from sale of Russian hygiene business
 Consumer goods group began process to dispose of division more than four years ago
+
+## Sun, football and political change push consumer and business confidence higher
+Economists warn optimism will not last if oil stays near $100 a barrel
 
 ## Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’
 Ruling against Chey Tae-won comes a decade after chair of chipmaker SK Hynix first revealed extramarital affair
 
-## How much does Wetherspoons make from its gambling machines?
-To a very daft question, we offer a very qualified answer
+## IndiGo assessing West Asia situation; Air India Express cancels Bahrain, Kuwait flights
+IndiGo operated around 160 flights daily to West Asia prior to March and that dropped to 20-30 flights a day during the peak of the crisis
 
-## Government disburses ₹35,354 crore under PLI schemes till March 2026
-The pharmaceuticals sector recorded cumulative sales of over ₹3.64 lakh crore under the PLI scheme, enabling the domestic manufacture of 1,931 products, including 191 bulk drugs produced in India for the first time
+## Indo-MIM IPO surges to 3.07x subscription on day 2; NII category crosses 8 times
+With one day of bidding remaining, the issue closes July 27, 2026, all categories are now fully subscribed
 
-## NSE to launch India's first domestic benchmark-based natural gas futures on July 27
-The cash-settled contract is aimed at enabling transparent, India-centric price discovery for the domestic natural gas market
+## J&K races to July 31 deadline to secure funding for two industrial parks
+J&K is proposing two plug-and-play industrial parks, one each for the Jammu and Kashmir divisions
 
-## Broker’s call: United Spirits (Reduce)
-Choice Equity Broking
+## Green Flag(ship)
+The ZRV arrives as a full import, with a strong hybrid, a Civic-derived platform, and a case to make about engineering in a segment that sells presence
 
-## India imports 25.08 lakh tonnes of urea, 7.11 lakh tonnes of DAP in Q1
-The government is diversifying import sources and has signed long-term supply agreements with Saudi Arabia and Russia to strengthen fertiliser security amid global supply disruptions
-
-## Phuket Marriott Resort & Spa, Merlin Beach Elevates Guest Experience with New Dining and Family Facilities
-Phuket Marriott Resort & Spa, Merlin Beach Elevates Guest Experience with New Dining and Family Facilities
-
-## Up to 10 years’ jail, ₹1 crore fine: Centre notified anti-paper leak law in 2024
-The proposed legislation builds on the Public Examinations (Prevention of Unfair Means) Act, 2024, which prescribes stringent penalties for paper leaks, organised cheating and other exam-related offences
-
-## Rupee recovers 18 paise to settle at 96.55 against US dollar
-Rupee opened weaker at 96.81 and traded in the range of 96.30-96.81 before eventually settling at 96.55 (provisional), up 18 paise from its previous close.
+## Peak Talk
+Ducati’s Multistrada V4 Pikes Peak is far from your everyday sport-tourer. Is it also a step too far, though?
 
 ## Q1 Results Today Live: Tata Consumer con. PAT up 28.4%, ACC PAT declines 61.5%, Shriram Finance, Hindustan Zinc, SBI Life, SBI Cards, Laurus Labs Q1 profit rise, BoB, NTPC, SAIL, KFin Tech to announce Q1 results
 Q1 Results Today, July 24, 2026, Live Updates: Follow businessline for more updates
+
+## Global steel output rises 1.7% in June
+India’s crude steel production climbs 4.5% in June and 7.1% in H1
+
+## India’s forex reserves rise by USD 1.08 billion to USD 676.24 billion
+The increase was driven by a USD 4.55 billion rise in foreign currency assets, which more than offset a USD 3.48 billion decline in gold reserves
+
+## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
+Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
+
+## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
+The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
+
+## 12.5% to 10%: Why Trump admin imposed reduced tariff rate on India & what it means
+US Trade Representative Jamieson Greer announced the revised tariffs on 60 economies on Thursday, one day before the expiry of the temporary additional 10% duties that had been imposed on imports from all countries.
+
+## India's fertiliser game plan: Over 32 lakh tonnes imported in Q1; strengthened supply chain through overseas deals
+India imported over 32 lakh tonnes of key fertilizers during the first quarter. Domestic production of fertilizers reached 115.72 lakh tonnes in the same period. The government is diversifying import sources to mitigate supply chain risks. Long-term agreements are being finalized with overseas suppl
 
 ## Trump imposes new tariffs on 60 economies over forced labour concerns; India gets 10% duty - check full list
 
@@ -75,65 +90,59 @@ Canada will not retaliate in advance against proposed US tariffs, preferring neg
 ## RBI intervention lifts rupee 22 paise to 96.5 despite Brent crude topping $100
 The Indian Rupee recovered 22 paise against the US dollar in early trade. This recovery occurred despite crude oil prices breaching the $100 a barrel mark. The Reserve Bank of India's intervention likely helped stabilize the domestic currency. Foreign institutional investor outflows and weak domesti
 
-## Stock market today: Sensex tanks 700 pts; Nifty slips below 23,700 as Brent tops $100
+## Punjab Roadways contractual workers announce three-day strike from Aug 3
+The union said rallies would be organised at all depots across the state on July 27 before the state-wide strike.
+
+## Six policemen injured in clash with villagers in Chhattisgarh’s Surajpur: Cop
+Addl SP Yogesh Dewangan said they had anticipated resistance and deployed a large police contingent for the operation.
+
+## Rahul Gandhi shows student's wounds on camera, claims pellet guns used during Jantar Mantar protest
+Rahul said that the pellet guns had been used while the students were protesting holding the Indian tricolour.
+
+## What's Dharmendra Pradhan doing amid ‘resign’ chorus by CJP, Cong: Group photos with MPs, reposting PM Modi's video
+Besides attack on Rahul Gandhi, Pradhan has mainly communicated by re-sharing PM Modi's promises since CJP protest grew after police action on Parliament march
+
+## ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends; Dipke and BJP react
+Congress MP Imran Masood referred to Sonam Wangchuk as “Anna Hazare part two,” and said that he too would “remain silent” now that he has ended his fast.
+
+## CJP meeting with govt lasts 2 hours, both sides share their version. Who said what
+The government on Friday held talks with the ‘Cockroach Janta Party’ for the second time amid ongoing protests at Jantar Mantar over exam irregularities.
+
+## 24.38 lakh cyber security incidents reported in 2025: Govt data
+The ministry reported that 11.46 lakh incidents were observed in 2023 which increased to 18.73 lakh in 2024. By 2025, the number of incidents recorded rose to 24.28 lakh
+
+## Army deployed for rescue ops as Gujarat continues to receive heavy rain
+The Army deployed relief and rescue columns, including engineer and medical teams, in Valsad, Navsari, Silvassa and Ahmedabad
+
+## From Automation to Collaboration in Chip Design
 
 
-## Bullion watch: Gold falls over 2%, silver drops nearly 4% as crude prices soar to $100
+## Anthropic expands Claude voice mode with Opus and Sonnet support, deeper app integration
 
 
-## Oil holds above $100 as Red Sea attacks and Kazakhstan outage tighten supplies
-Oil prices have sharply rebounded, exceeding one hundred dollars per barrel. Attacks on Saudi oil tankers in the Red Sea have revived supply fears. Kazakhstan's oil exports also faced disruptions, adding to global concerns. This marks a significant reversal from recent price declines seen earlier. T
-
-## US unveils fresh tariffs of up to 12.5% on 60 economies amid 'forced labour' probe; India gets lower 10% rate
+## Google introduces selfie video as a new way to sign in to accounts
 
 
-## In sixth order, govt extends mobile internet suspension till midnight
-On Friday, the Delhi high court agreed to urgently hear a petition challenging the suspension of mobile internet around Jantar Mantar
-
-## ‘To say is one thing…’: Mumbai model who stood before police van reacts to PM Modi's assurance on NEET paper leak
-The 27-year-old model gained widespread attention after videos of her blocking a police vehicle during student protests circulated online.
-
-## Bhojshala row: Supreme Court to hear Muslim side's plea over location of alternative namaz site on July 29
-The Muslim side is seeking a place near the Bhojshala complex for offering Friday prayers.
-
-## Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’ | What happened in meeting with ministers
-Demand for resignation, apology and more in letter submitted by CJP spokespersons Saurav Das and Ashutosh Ranka to ministers JP Nadda and Jitendra Singh
-
-## HistoriCity: How support for Palestine is likely rooted in Spain’s Islamic past
-For nearly 800 years, a vast territory of modern Spain was under the rule of the Caliphate, and adopted Islam, through both coercive and non-coercive means
-
-## Supreme Court to hear pleas on alleged police excesses during student protest
-The matter was listed after the CJI earlier strongly criticised reports suggesting that the court refused to entertain pleas over the July 20 police action
-
-## Government tables bill to penalise disruption during Vande Mataram rendition
-The proposed amendment seeks to expand the scope of the Prevention of Insults to National Honour Act, 1971, by bringing within its ambit acts of intentionally obstructing rendition of the national song
-
-## 'Govt will try to detain us tonight': Dipke raises alarm, says much bigger crowd expected to join this weekend
-Dipke warned the government against taking such a step, calling it "another mistake" that would only strengthen the movement.
-
-## Pooja Meri Jaan teaser: Huma Qureshi, Mrunal Thakur promise an unsettling courtroom drama
+## ‘Initial reviews always divided’: H Vinoth says Vijay’s Jana Nayagan will be a hit over time
 
 
-## Supreme Court bars recording, sharing of court proceedings without permission
+## Changing Cities | How a cable-stayed bridge across bullet train and railway line in Ghatkopar is set to ease traffic
 
 
-## Bank liable for employee’s ‘fraud’, 80-year-old Haryana woman wins Rs 4 lakh payout
+## Groom stuck at airport on wedding eve after flight cancellation, wins Rs 43,000 payout
 
 
-## Cabinet approves two new railway lines connecting Karnataka and Andhra Pradesh
+## 2 children from Rajasthan die of Chandipura virus: What is the infection and who is susceptible to it?
 
 
-## Employer pays Rs 4.25 lakh for driver’s heart surgery: ‘We are colleagues’
+## Why joint pain may worsen before it rains: ‘Barometric pressure can shift…’
 
 
-## Archana Puran Singh on treating sons’ partners as daughters: ‘Won’t repeat what I faced’
+## China places former deputy of top financial regulator under investigation
+China has placed one of its top former financial regulatory officials under investigation, according to state media reports. Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission, is suspected of “serious legal and disciplinary violations” and is currently undergoing an in
 
-
-## Fake PhDs, real Jobs: Karnataka finds 249 guest lecturers with bogus certificates
-
-
-## Max, Min & Meowzaki movie review: Adil Hussain holds warm dramedy together
-
+## Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar
+Chinese tech giant Tencent Holdings has fired a manager at its WeChat division after details of his multimillion-yuan bonus package leaked online, sparking animated discussion across social media. The employee, surnamed Ye, was dismissed for passing sensitive corporate information to external partie
 
 ## Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources
 MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially filed for a listing in Hong Kong, according to people familiar with the matter. The Shanghai-based company was targeting an initial public offering (IPO) by the end of this year, according to the sources, who asked not to
@@ -153,11 +162,8 @@ China’s securities watchdog has pledged to channel more medium- and long-term 
 ## HSBC agrees to US$2 billion deal to sell Singapore insurance branch to Allianz
 HSBC has agreed to sell its Singapore life and health insurance business to Germany’s Allianz for S$2.7 billion (US$2.08 billion), with the deal expected to be completed in the first half of 2027, HSBC Group announced on Friday morning before the start of trading. The disposal is expected to generat
 
-## Rare 6-month office flip suggests Hong Kong’s prime market is stabilising
-A buyer who bought an office in a top-tier location in Hong Kong has sold it for an apparent 19 per cent gain just over six months later, a rare transaction that suggests improving conditions in the city’s prime office market are beginning to reshape investment decisions. The 5,400 sq ft office on t
-
-## Hong Kong must wake up to the cold hard geopolitics of AI
-Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings of a city like Hong Kong. The geopolitics of AI are no longer abstract. They are
+## The End of Elections in Nicaragua
+Ortega’s announcement underscores the waning influence of pro-democracy pressure in Latin America.
 
 ## Is Cuba Trump’s Next Target?
 The regime in Havana is increasingly in the Trump administration’s crosshairs.
@@ -179,9 +185,6 @@ Pay off Iran to open Hormuz and freeze its nuclear program.
 
 ## Xi’s Demands for Loyalty Are Breeding Corruption
 Ma Xingrui’s fall shows how deep personnel problems run.
-
-## Trump Is Triggering a Middle East Nuclear Arms Race
-His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
 
 ## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
 Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
@@ -255,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Spain declares national emergency over wildfires
+At least 10,000 people have been evacuated following wildfires in the central region of Madrid.
+
+## Spain’s De la Fuente slams Argentina’s World Cup conduct as ‘unacceptable’
+While Argentina faced criticism through World Cup 2026, post-final altercations are now being investigated.
+
+## At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks
+Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.
+
+## Australia World Cup star Volpato faces speeding, cocaine charges
+Cristian Volpato, who switched from Italy to Australia before World Cup 2026, failed a roadside drug test in Sydney.
+
+## Is the US-Saudi nuclear deal on, or in limbo?
+Trump's last-minute demand for Saudi normalisation with Israel has complicated the already sensitive deal.
+
 ## South African court pauses impeachment process against president
 The 'Farmgate' scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.
 
@@ -264,20 +282,8 @@ As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales a
 ## Does this disappearing organ hold the secret of longevity?
 Scientists are increasingly focused on the thymus, an immune gland that naturally becomes less active with age.
 
-## Israel’s illegal settlements are Europe’s credibility test
-The EU has documented accelerating annexation. It must now use its collective power to confront it.
-
-## Four Palestinians killed as Israeli settlers raid occupied West Bank town
-One Israeli was also killed near town of Tal in Nablus, according to Israel's Magen David Adom rescue services.
-
-## Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues
-Jurgen Klopp last coached in 2024 at Liverpool but was Red Bull's head of global football, leading Leipzig and New York.
-
-## Philippines accuses China of using water cannon on vessels for second day
-The Philippine Coast Guard says 12 China Coast Guard vessels and three Chinese maritime militia vessels were involved.
-
-## Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?
-Countries accounting for almost all of the US's trade have been hit with tariffs between 10 and 12.5 percent.
+## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
+While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
 
 ## Gen Z, Jobs and India Inc’s Hiring Problem
 The World Economic Forum estimates that nearly 40 per cent of workers' existing skills will require updating within the next five years as artificial intelligence, automation and digital technologies reshape industries. Ironically, because of this mismatch, many Indian businesses struggle to fill va
@@ -299,9 +305,6 @@ An ETCFO analysis of annual reports and annual returns filed by some of India's 
 
 ## MCA plans unified digital platform for insolvency ecosystem; seeks stakeholder suggestions
 The Ministry of Corporate Affairs is proposing a new integrated digital platform for insolvency. This unified system aims to streamline processes and improve information exchange among stakeholders. It will digitize the entire insolvency lifecycle, from commencement to resolution and liquidation. Th
-
-## CBIC weighs centralised GST registration under one PAN
-The proposal seeks to address a longstanding industry demand by examining whether businesses operating across multiple states can be administered by a single central GST authority instead of dealing with multiple field formations for different GST registrations.
 
 ## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
 Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
