@@ -1,70 +1,73 @@
 # AION Intelligence
 
-## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
-Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
-
-## Oil hovers near $100 as Trump weighs ‘massive attack’
-Middle East tensions have risen after Red Sea attacks by Houthi militants threatened to squeeze global supplies further
-
-## Russia’s biggest online retailer becomes target in Ukraine drone war
-Strikes on Wildberries have killed nine people and left small sellers facing millions of roubles in losses
-
-## Sun, football and Burnham push consumer confidence and retail sales higher
-Perceptions of UK economy improved despite lack of clear evidence of gaining momentum
-
-## US hits 60 countries with new duties as Trump rebuilds tariff wall
-Washington moves to reimpose 10 per cent duties after previous blanket levies were struck down by Supreme Court
-
-## Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’
-Ruling against Chey Tae-won comes a decade after chair of chipmaker SK Hynix first revealed extramarital affair
-
-## In the rates drama, oil is a minor character
-Plus, Japanese stocks
-
-## Ireland pushes for breakthrough on EU capital markets reform
-Also in this newsletter: Trump reshapes Iceland’s EU referendum
-
-## Volkswagen slashes revenue outlook amid weak China sales
-Sharp cut heaps pressure on German carmaker’s chief executive as he looks to push through massive round of job cuts
-
-## How much does Wetherspoons make from its gambling machines?
-To a very daft question, we offer a very qualified answer
+## Trump tracker: the latest data on US tariffs, trade and economy
+Follow the latest impact of tariffs amid the president’s ongoing trade war
 
 ## FirstFT: US hits 60 countries with new tariffs
 Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel
 
-## Blackstone’s Stephen Schwarzman: ‘Our stock is on sale’
-Private capital group’s chief says company’s shares offer cheap exposure to AI
+## Wildfires force evacuation of Cap Ferret resort on Atlantic coast
+Tens of thousands ordered to safety in France and Spain as fires rage in summer of extreme heat
 
-## BNP Paribas shows there is life beyond Mars
-French bank’s results relied on more sustainable trends than the SpaceX IPO
+## Hong Kong stock exchange relaxes listing rules to compete with US rivals
+Global competitiveness drive comes despite bourse being increasingly dominated by Chinese companies
 
-## Air taxis are nearing route to economic viability
-Electric vertical take-off and landing machines are starting to offer practical uses that are growing nearer to realisation
+## Japan’s June inflation figure poses no obstacle to BoJ tightening this year
+Headline and core price rises accelerated last month
 
-## LPG under recovery of PSU OMCs at over ₹51,000 crore
-Even for July 2026, the implicit subsidy on each 14.2 kg domestic LPG cylinder is more than ₹500 per cylinder, says Oil Minister
+## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
+Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
 
-## Arvind Mediratta set to launch food retail chain FreshTerra; plans 12-15 stores in Delhi NCR by FY28
-The stores will also offer gourmet experience through an in-house cafe featuring chef-curated meals, artisanal coffee, and wholesome ready-to-eat options made using store-fresh ingredients, says Mediratta
+## What Manchester can’t tell you about Burnhamism
+His governing record in the city tells us what he would like to do but how it scales nationally remains uncertain
 
-## Today’s Gold Rate in India July 24: Gold prices down in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad
-22, 24 carat Gold prices down across Indian cities on July 24
+## Is horse archery the queen of martial arts?
+Daniel Griffin thinks so – his ranch in South Africa is a hub for the ancient sport
 
-## Education Ministry reshuffle: Naresh Pal Gangwar named Higher Education Secretary, Vineet Joshi moved
-The reshuffle also appoints Sushil Kumar Lohani to head the Animal Husbandry Department and T K Anil Kumar as School Education Secretary.
+## Volkswagen warns of weaker revenues ahead of record job cuts
+Sharp cut heaps pressure on German carmaker’s chief as he looks to push through massive workforce reduction
 
-## Mphasis posts Q1FY27 revenue growth of 9.9% y-o-y, eyes best sequential quarter in three years
-The company’s stock traded at ₹2,235.50 on the NSE, peaking at ₹2,340, but remains 26% below its 52-week high of ₹3,037.20 from September 2025
+## Top UK law firm partners take home record pay
+Spate of listings in Hong Kong boosted IPO work and related transactions
 
-## Blenders, exporters lift prices of quality teas in Kochi auctions
-The orthodox dust market is firm to dearer with exporters and upcountry buyers covering a small quantity
+## Reckitt to take £175mn hit from sale of Russian hygiene business
+Consumer goods group began process to dispose of division more than four years ago
 
-## Swiss FMCG major Nestle says India remains key growth driver, expects double-digit growth
-On Wednesday, Nestle India had reported a 48.26% on-year rise in consolidated net profit to ₹958.68 crore in the June quarter, supported by strong double-digit volume growth
+## Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’
+Ruling against Chey Tae-won comes a decade after chair of chipmaker SK Hynix first revealed extramarital affair
 
-## Sensex today | Stock Market Live: Sensex off day's low, down 250 pts, Nifty near 23,800 at noon; Cipla, HCL Tech lead gainers
-Sensex, Nifty, Share Prices Live Updates: Rising crude oil prices, unwinding of yen trade, fresh US tariffs, weakening rupee hurts market sentiment
+## How much does Wetherspoons make from its gambling machines?
+To a very daft question, we offer a very qualified answer
+
+## Government disburses ₹35,354 crore under PLI schemes till March 2026
+The pharmaceuticals sector recorded cumulative sales of over ₹3.64 lakh crore under the PLI scheme, enabling the domestic manufacture of 1,931 products, including 191 bulk drugs produced in India for the first time
+
+## NSE to launch India's first domestic benchmark-based natural gas futures on July 27
+The cash-settled contract is aimed at enabling transparent, India-centric price discovery for the domestic natural gas market
+
+## Broker’s call: United Spirits (Reduce)
+Choice Equity Broking
+
+## India imports 25.08 lakh tonnes of urea, 7.11 lakh tonnes of DAP in Q1
+The government is diversifying import sources and has signed long-term supply agreements with Saudi Arabia and Russia to strengthen fertiliser security amid global supply disruptions
+
+## Phuket Marriott Resort & Spa, Merlin Beach Elevates Guest Experience with New Dining and Family Facilities
+Phuket Marriott Resort & Spa, Merlin Beach Elevates Guest Experience with New Dining and Family Facilities
+
+## Up to 10 years’ jail, ₹1 crore fine: Centre notified anti-paper leak law in 2024
+The proposed legislation builds on the Public Examinations (Prevention of Unfair Means) Act, 2024, which prescribes stringent penalties for paper leaks, organised cheating and other exam-related offences
+
+## Rupee recovers 18 paise to settle at 96.55 against US dollar
+Rupee opened weaker at 96.81 and traded in the range of 96.30-96.81 before eventually settling at 96.55 (provisional), up 18 paise from its previous close.
+
+## Q1 Results Today Live: Tata Consumer con. PAT up 28.4%, ACC PAT declines 61.5%, Shriram Finance, Hindustan Zinc, SBI Life, SBI Cards, Laurus Labs Q1 profit rise, BoB, NTPC, SAIL, KFin Tech to announce Q1 results
+Q1 Results Today, July 24, 2026, Live Updates: Follow businessline for more updates
+
+## Trump imposes new tariffs on 60 economies over forced labour concerns; India gets 10% duty - check full list
+
+
+## 10% US tariff on India: What it means for the country's exports
+United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
 ## 'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19
 Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not
@@ -84,59 +87,59 @@ Oil prices have sharply rebounded, exceeding one hundred dollars per barrel. Att
 ## US unveils fresh tariffs of up to 12.5% on 60 economies amid 'forced labour' probe; India gets lower 10% rate
 
 
-## New launches, financing may give foldable phones a boost
+## In sixth order, govt extends mobile internet suspension till midnight
+On Friday, the Delhi high court agreed to urgently hear a petition challenging the suspension of mobile internet around Jantar Mantar
+
+## ‘To say is one thing…’: Mumbai model who stood before police van reacts to PM Modi's assurance on NEET paper leak
+The 27-year-old model gained widespread attention after videos of her blocking a police vehicle during student protests circulated online.
+
+## Bhojshala row: Supreme Court to hear Muslim side's plea over location of alternative namaz site on July 29
+The Muslim side is seeking a place near the Bhojshala complex for offering Friday prayers.
+
+## Read CJP's full letter to Modi govt: ‘Our demands are non-negotiable’ | What happened in meeting with ministers
+Demand for resignation, apology and more in letter submitted by CJP spokespersons Saurav Das and Ashutosh Ranka to ministers JP Nadda and Jitendra Singh
+
+## HistoriCity: How support for Palestine is likely rooted in Spain’s Islamic past
+For nearly 800 years, a vast territory of modern Spain was under the rule of the Caliphate, and adopted Islam, through both coercive and non-coercive means
+
+## Supreme Court to hear pleas on alleged police excesses during student protest
+The matter was listed after the CJI earlier strongly criticised reports suggesting that the court refused to entertain pleas over the July 20 police action
+
+## Government tables bill to penalise disruption during Vande Mataram rendition
+The proposed amendment seeks to expand the scope of the Prevention of Insults to National Honour Act, 1971, by bringing within its ambit acts of intentionally obstructing rendition of the national song
+
+## 'Govt will try to detain us tonight': Dipke raises alarm, says much bigger crowd expected to join this weekend
+Dipke warned the government against taking such a step, calling it "another mistake" that would only strengthen the movement.
+
+## Pooja Meri Jaan teaser: Huma Qureshi, Mrunal Thakur promise an unsettling courtroom drama
 
 
-## Eight Roads, 2 others to sell stake in Shadowfax
+## Supreme Court bars recording, sharing of court proceedings without permission
 
 
-## Lok Sabha adjourned till Monday as Opposition continues protests over paper leaks
-Congress stuck to its demands for Pradhan’s resignation, action against those responsible for violence against student protesters, and Modi’s apology
-
-## 'A very exceptional thing': Why Opposition wants to take up NEET paper leak in Parliament with an adjournment motion
-It suspends the day's business, ends in a vote and counts as censure if successful. That is why the Opposition wants it and why Speakers have rarely allowed it.
-
-## Assam flood toll rises to 47 as six more die; over 6.53 lakh people affected across 11 districts
-Earlier on Thursday, ASDMA reported that 10 people, including four children, had died in the floods over the previous 24 hours.
-
-## Rahul Gandhi, Opposition leaders slam DU's advisory urging students to ‘stay away’ from Jantar Mantar: ‘How dare you’
-The University of Delhi had asked students and faculty members to refrain from participating in any “unlawful assemblies or demonstrations” at Jantar Mantar.
-
-## Front cam, midnight post: How PM Modi's ‘GenZ-style’ video sparked its own story
-Some users compared the PM's selfie camera angle to the low, close, slightly-off shot via a peephole in a scene from the 2011 cult comedy ‘Delhi Belly’
-
-## ED raids 8 premises in Delhi, UP and Punjab in an alleged ₹450 crore money laundering case
-The ED investigation stems from a CBI case relating to an alleged bank fraud involving approximately ₹450 crore availed from a consortium of banks.
-
-## Bombay HC designates 2 special courts to fast-track trials in paper leak cases
-The Bombay high court said judges SV Pawar and Gulshan Kolte will preside over two special courts in Aurangabad and Nagpur
-
-## Remove encroachments along Ganga in Patna in 6 weeks: SC to Bihar govt
-The court was informed about encroachments between Nauzar Ghat to Nurpur Ghat in Patna and ongoing construction activity in Mathura district
-
-## Commonwealth Games Live: Powerlifters, paraswimmers chase medals at CWG
+## Bank liable for employee’s ‘fraud’, 80-year-old Haryana woman wins Rs 4 lakh payout
 
 
-## How a Snapchat ‘friend’ robbed Pune teacher’s house on their first meet
+## Cabinet approves two new railway lines connecting Karnataka and Andhra Pradesh
 
 
-## Meet Rhiya Ahir: The Mumbai model who stood down a police van
+## Employer pays Rs 4.25 lakh for driver’s heart surgery: ‘We are colleagues’
 
 
-## Differences between Sonam Wangchuk and CJP? Saurav Das answers big question
+## Archana Puran Singh on treating sons’ partners as daughters: ‘Won’t repeat what I faced’
 
 
-## US firm Anthropic tells Karnataka court it lacks jurisdiction in trademark suit
+## Fake PhDs, real Jobs: Karnataka finds 249 guest lecturers with bogus certificates
 
 
-## Musafir Cafe review: Vikrant Massey show could have been a pyaari prem kahani
+## Max, Min & Meowzaki movie review: Adil Hussain holds warm dramedy together
 
 
-## No leave, no training: Delhi Police ramp up deployment amid CJP protests
+## Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources
+MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially filed for a listing in Hong Kong, according to people familiar with the matter. The Shanghai-based company was targeting an initial public offering (IPO) by the end of this year, according to the sources, who asked not to
 
-
-## Pune rain: Khadakwasla dam discharge continues, citizens advised to stay alert
-
+## Hong Kong exchange’s biggest reform in 8 years opens gates to more IPOs
+Stock exchange operator Hong Kong Exchanges and Clearing (HKEX) will allow all listing applications to remain confidential and will reduce market-capitalisation requirements for listings by start-ups and international firms immediately, it announced on Friday. Confirming a report by the South China 
 
 ## Hong Kong insurers ride affluent demand to record sales as longevity and legacy needs grow
 Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs. The industry wrote HK$141.1 billion (US$18 billion) in new life policies in
@@ -155,12 +158,6 @@ A buyer who bought an office in a top-tier location in Hong Kong has sold it for
 
 ## Hong Kong must wake up to the cold hard geopolitics of AI
 Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings of a city like Hong Kong. The geopolitics of AI are no longer abstract. They are
-
-## Why the divorces of China’s A-share firm owners provoke market nerves
-China’s A-share market has seen another high-profile divorce case result in a massive asset split, involving the transfer of 6 billion yuan (US$886 million) – the highest this year – and raising concerns over corporate governance stability and share price fluctuations. Although the scope of the divo
-
-## Hongkongers increase cross-border shopping splurges, spending data shows
-Even as local retail spending remains resilient, Hong Kong consumers are shopping more across the border in mainland China, drawn by lower prices and wider adoption of digital payments, according to data from payment giant UnionPay International. Offline UnionPay card spending in mainland China by H
 
 ## Is Cuba Trump’s Next Target?
 The regime in Havana is increasingly in the Trump administration’s crosshairs.
@@ -186,29 +183,29 @@ Ma Xingrui’s fall shows how deep personnel problems run.
 ## Trump Is Triggering a Middle East Nuclear Arms Race
 His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
 
-## Hong Kong’s National Security Law Comes for the Bookstores
-The reorientation – and restriction – of the city's once-vibrant civil society continues.
+## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
+Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
 
-## Nepali PM Balendra Shah’s Image as a Change Agent is at Risk
-Shah has shown less concern for the health and wellbeing of the poor, and is preoccupied with appearing as a ruthless executor of public plans.
+## Myanmar’s Readmission to ASEAN Summits Still ‘Far Off,’ Special Envoy Says
+Ma. Theresa Lazaro said that the bloc wants to see more progress on the implementation of the Five-Point Consensus for resolving the country's conflict.
 
-## New Delhi’s Jantar Mantar Is Not Tahrir Square, But It Can Become One
-At its heart, this movement is demanding accountability, not upheaval.
+## Squabble Deepens Between People Power Party’s Current and Former Leaders
+Whether Han Dong-hoon and Jang Dong-hyuk mend ties will determine the future of South Korea’s main conservative party.
 
-## Why China Is Investing in Planetary Defense
-For China, planetary defense is about building its international image and strengthening national security. However, the same factors also constrain China's global contribution.
+## As the World Courts Beijing, Namibia Shows How Africa Can Sharpen Its China Strategy
+A recent state visit offers lessons for African governments on how to translate high-level diplomacy into industrial partnerships, value addition, and development outcomes.
 
-## India and Japan’s Emerging Shipbuilding Partnership
-The future of India-Japan security cooperation lies in shipyards – and maybe with the Mogami-class frigate.
+## Malaysia Orders UN Agency to Pause Registration of New Refugees
+With the creation of a new refugee agency in January, the country has asserted its control over the processing of asylum-seekers.
 
-## Whatever Happened to ‘Wolf Warrior’ Diplomacy?
-In recent years, Beijing has become a lot more selective in how, where, and when it deploys the assertive diplomatic tactic.
+## Nine Years in Limbo: Why Rohingya Repatriation Remains Stalled
+An analysis of the political, legal, security, and geopolitical dimensions of the Rohingya crisis.
 
-## ASEAN Foreign Ministers Call for ‘Immediate Cessation’ of Middle East Hostilities
-The fighting between Iran and the United States is set to have “immediate and long-term effects” on Southeast Asia and its people, the ministers said.
+## Rhyu Si-min, Once Lee Jae-myung’s Champion, Turns on the President He Helped Elect
+The liberal commentator’s escalating attacks on President Lee have opened a rare split inside the ruling Democratic Party.
 
-## Malaysia Must Reject Hate and Confront Myanmar Over the Rohingya Crisis
-Prime Minister Anwar Ibrahim’s government has largely remained silent about the recent online "hate campaign" targeting Rohingya refugees.
+## Ladakh Cannot Afford a Plastic Future
+A broken system continues to push disposable plastic into one of the world’s most fragile mountain ecosystems.
 
 ## Before a Cyber Force, Fix Cyber Governance
 Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
@@ -258,32 +255,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ICC prosecutor Karim Khan faces removal vote: What’s the case about?
-ICC's 125 member states will vote by secret ballot Friday on the fate of Khan, who faces sexual misconduct allegations.
+## South African court pauses impeachment process against president
+The 'Farmgate' scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.
 
-## US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?
-The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.
+## Andy Burnham’s Number 10 North changes the postcode, but not the politics
+As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.
 
-## Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job
-Former Man City and Barca boss Pep Guardiola is not the clear candidate for Italian job, as Carlo Ancelotti approached.
+## Does this disappearing organ hold the secret of longevity?
+Scientists are increasingly focused on the thymus, an immune gland that naturally becomes less active with age.
 
-## Indian activist Wangchuk ends 26-day hunger strike
-Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams
+## Israel’s illegal settlements are Europe’s credibility test
+The EU has documented accelerating annexation. It must now use its collective power to confront it.
 
-## Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’
-President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.
+## Four Palestinians killed as Israeli settlers raid occupied West Bank town
+One Israeli was also killed near town of Tal in Nablus, according to Israel's Magen David Adom rescue services.
 
-## ‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo
-Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.
+## Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues
+Jurgen Klopp last coached in 2024 at Liverpool but was Red Bull's head of global football, leading Leipzig and New York.
 
-## Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?
-In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?
+## Philippines accuses China of using water cannon on vessels for second day
+The Philippine Coast Guard says 12 China Coast Guard vessels and three Chinese maritime militia vessels were involved.
 
-## Ukraine beheads its military as its performance begins to soar
-An unprecedented simultaneous replacement of the top defence and military brass comes amid a debate over strategy.
+## Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly?
+Countries accounting for almost all of the US's trade have been hit with tariffs between 10 and 12.5 percent.
 
 ## Gen Z, Jobs and India Inc’s Hiring Problem
 The World Economic Forum estimates that nearly 40 per cent of workers' existing skills will require updating within the next five years as artificial intelligence, automation and digital technologies reshape industries. Ironically, because of this mismatch, many Indian businesses struggle to fill va
+
+## NFRA sets 10 principles for technology use in audits, says AI cannot replace auditor judgement
+The framework calls for pre deployment validation, continuous monitoring and stronger data safeguards as audit firms increasingly use analytics, automated tools and AI, while warning against automation bias and over reliance on machine generated outputs.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
@@ -302,9 +302,6 @@ The Ministry of Corporate Affairs is proposing a new integrated digital platform
 
 ## CBIC weighs centralised GST registration under one PAN
 The proposal seeks to address a longstanding industry demand by examining whether businesses operating across multiple states can be administered by a single central GST authority instead of dealing with multiple field formations for different GST registrations.
-
-## FCNR scheme: Withholding tax fear haunts US, Singapore NRIs
-Non-resident Indians residing in Singapore and the United States are expressing significant concerns over withholding taxes. These taxes threaten to diminish their net returns from leveraging FCNR deposit schemes. For instance, borrowing from Indian banks' GIFT City branches triggers Singapore withh
 
 ## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
 Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
