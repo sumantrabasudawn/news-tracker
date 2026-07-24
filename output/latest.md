@@ -1,5 +1,20 @@
 # AION Intelligence
 
+## Police seize sophisticated bomb near Northern Irish border
+‘Radicalised republicans’ ready to mount attacks, police chief warns
+
+## The return of monetarism
+Former Fed governor Stephen Miran is trying to bring the money supply back to central banking
+
+## Future hawks
+At the ECB’s meeting on Thursday, president Christine Lagarde teed up a September tightening
+
+## Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea
+Attacks from Iranian-backed Houthi rebels threaten further disruption to global oil supplies
+
+## What is driving the sharp decline in UK small boat crossings?
+The number of people arriving by such vessels between January 1 and July 23 this year is down 45%
+
 ## Wildfires force evacuation of Cap Ferret resort on Atlantic coast
 Tens of thousands ordered to safety in France and Spain as Madrid declares national emergency
 
@@ -9,20 +24,11 @@ Benjamin Netanyahu orders ‘forceful’ response to deadly confrontation betwee
 ## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
 US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
-## The Victorians have some lessons for Burnham on radical devolution
-Britain needs the social and economic glue of local power
+## Directors’ Deals: Fevara non-executive chair beefs up stake
+Livestock supplement producer has refocused in the past year
 
-## Yang Zhilin, the rock star founder behind China’s Moonshot AI
-Known as ‘Yang the genius’ by classmates, his new K3 model has closed the gap with leading US rivals
-
-## Police seize sophisticated bomb near Northern Irish border
-‘Radicalised republicans’ ready to mount attacks, police chief warns
-
-## Airbus and Boeing push to boost production to tackle record order backlogs
-Planemakers look to shake off supply-chain problems that have hampered output
-
-## Carmakers are the rare example of tariffs as the least bad option
-Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists
+## Stockpickers: Greencore, Kier, Gateley
+Our experts discuss which companies to buy, sell or hold this week
 
 ## Meta faces higher borrowing costs in latest $12bn data centre financing
 BlackRock-led deal meets investor anxiety over rising AI exposure
@@ -30,41 +36,35 @@ BlackRock-led deal meets investor anxiety over rising AI exposure
 ## Commerzbank chair calls for talks with UniCredit after takeover battle
 Jens Weidmann’s comments signal shift to more conciliatory tone from German lender
 
-## In praise of the free flow of human ingenuity
-Apple is suing OpenAI for alleged theft but Silicon Valley is founded on the exchange of ideas
+## Airbus and Boeing push to boost production to tackle record order backlogs
+Planemakers look to shake off supply-chain problems that have hampered output
 
-## Submit your questions: Has the market lost its mind over AI?
-Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore on Thursday July 30 at 1pm (BST)
+## Carmakers are the rare example of tariffs as the least bad option
+Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists
 
-## BP nears deal to sell solar business Lightsource to Kuwait-backed group
-Qualitas Energy and investment arm of sovereign wealth fund in advanced talks to purchase renewables business
+## REC posts net profit of ₹4,193 in Q1 FY27
+The infrastructure and logistic portfolio has grown to ₹59,289 crore, which is over 10 per cent of the overall loan assets, REC noted.
 
-## South East Water secures £200mn liquidity boost
-Cash-strapped British utility says financing will be used to help future bond issuance
+## BNP Paribas Cardif to acquire 26% stake in IndiaFirst Life from Warburg Pincus
+Following the transaction, Bank of Baroda will retain a 65% stake in IndiaFirst Life, while BNP Paribas Cardif will hold around 26%.
 
-## Crypto exchanges hail government’s SRO proposal as most ‘practical’ interim measure for VDA
-These regulatory bodies will operate under regulatory oversight until the government introduces a comprehensive framework
+## FDI easing for e-comm to open new doors for exports
+Experts caution it is important to ensure enough safeguards are put in place
 
-## Supreme Court to hear petitions alleging police violence against student protesters
-Expressing concern over the reportage, the Chief Justice said sections of the media had engaged in “reckless” reporting
+## Urad acreage up in North India as sowing picks up on recent rains
+Coverage surpasses last year’s levels by 8% as farmers in UP, MP plant more, attracted by higher prices
 
-## Lord’s Mark Industries to issue shares at ₹158 apiece
-Lord’s Mark Industries will issue over 10.28 lakh equity shares to Bennett, Coleman and Co at ₹158 apiece, signalling institutional confidence in its growth strategy
+## Nifty bleeds for fifth day as $100 oil rattles D-Street
+Rate-sensitive sectors bore the brunt of the sell-off, with private banks and realty stocks leading the losses, while FMCG emerged as the only major sectoral gainer
 
-## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
-Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
+## Hindustan Zinc net doubles to ₹5,469 cr on better realisation, lower cost
+Revenue increased 72 per cent to ₹13,033 crore (₹7,591 crore)
 
-## Danfoss India partners IITs to train power electronics engineers
-The initiative will train 30 engineering graduates annually with hands-on skills in power electronics, semiconductors and electric mobility
-
-## Telangana releases ₹740 crore for 1,569 rural health sub-centres
-
+## Shriram Finance Q1 Results: Net profit up 60% on NII growth
+During the quarter, MUFG Bank, the Japanese banking giant and subsidiary of Mitsubishi UFJ Financial Group, completed its acquisition of a 20 per cent equity stake in Shriram Finance
 
 ## IT firms post robust Q1 deal wins, face slower revenue realisation
 Despite robust deal wins, India’s IT firms are seeing slower revenue conversion as clients phase project execution and increasingly opt for outcome-based pricing
-
-## Alan Scott Enterprises appoints Shailesh Haribhakti as Group Chief Mentor
-Haribhakti is widely considered one of India’s foremost authorities on corporate governance, institution-building and responsible leadership
 
 ## US stocks today: Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat
 Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms 
@@ -90,6 +90,18 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 ## 10% US tariff on India: What it means for the country's exports
 United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
+## Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
+PIB Fact Check clarified that the video had been digitally altered using artificial intelligence and was being circulated by Pakistani propaganda accounts.
+
+## After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
+While DU and JNU directly warned students and faculty of legal consequences and asked them to stay away from the ongoing protest, JMI issued an indirect appeal.
+
+## Nirmala Sitharaman's remarks on paper leaks sparks row, Opposition, CJP criticise her
+Sitharaman suggested that while paper leaks initially hurt hardworking students, some candidates used extra time before re-exams to improve their preparations.
+
+## LPG tanker with 28 Indians aboard attacked in Iran waters, all crew safe
+The attack took place earlier on Friday and all 28 crew members are safe, a release by the Embassy of India in Tehran read.
+
 ## Monsoon, not India: MEA cites Pak’s advisory to rebut its ‘baseless’ flood claim
 The flood advisory in Pakistan said that the high flows at Marala were expected to persist before gradually receding as rainfall over the catchment increased
 
@@ -102,40 +114,28 @@ At least 13 people were killed after a rockfall struck a Tata Sumo vehicle near 
 ## A look at most common income tax penalties as ITR filing deadline approaches
 Any delays past the July 31 deadline, omissions, errors, incorrect disclosures or non-compliance can result in additional financial liabilities.
 
-## Who is Vineet Joshi? Top bureaucrat removed as higher education secretary amid NEET row
-The Centre has removed higher education secretary Vineet Joshi amid controversies including NEET-UG paper leaks.
-
-## Union minister Ravneet Singh Bittu quits post, President accepts resignation
-On the advice of Prime Minister Narendra Modi, Bittu's resignation was accepted by President Droupadi Murmu, with immediate effect.
-
-## CJI Surya Kant promises justice to youth, says Supreme Court doors are open 24 hours a day
-“The doors of the Supreme Court are open 24 hours a day for every citizen. The court will not allow injustice to prevail,” CJI Surya Kant said
-
-## ‘Baseless’: India rejects reports of ‘deliberate’ flooding as water level rises in Chenab; cites Pak’s weather advisory
-MEA spokesperson Randhir Jaiswal added that Pakistan had itself earlier attributed the high water levels in the Chenab River to heavy rainfall.
-
-## What happened to Madhu Sapre? The Miss India whose ad with Milind Soman sparked outrage
+## In new late-night video, Modi thanks students for ‘constructive’ responses
 
 
-## 294.6 mm in 24 hours: Ahmedabad city records fourth highest rainfall in its history
+## Abhinandh PB’s dream run continues as Goa enter UTT final
 
 
-## Make up for lost days by working on public holidays, South Gujarat schools told
+## No IOC scrutiny for Infantino over Trump’s intervention at FIFA World Cup
 
 
-## After Anantnag attack, Amit Shah tells slain policeman’s family: ‘His courage will remain etched in memory’
+## Europe battles wildfires as heatwave forces 30,000 to evacuate across France, Spain
 
 
-## 13 killed as falling boulders crush moving vehicle in Himachal Pradesh’s Lahaul-Spiti
+## Sameera Reddy recalls being told to wear bum pads: Experts on lasting impact of body shaming
 
 
-## ‘I cried’: Shekhar Suman calls out police action against student protesters at Jantar Mantar
+## 28 Indian crew members safe after LPG tanker attacked in Iranian waters, Embassy confirms
 
 
-## Rohit Sharma’s Lord’s century didn’t answer India’s real question
+## Attack on checkpoint in Pakistan’s Khyber Pakhtunkhwa kills 15 security personnel, 12 militants dead in retaliatory fire
 
 
-## Pune CNG dealers threaten sales halt, blame gas supplier for pressure issue
+## Cargo ship hit in Russian strikes in Black Sea was carrying grain: India
 
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
@@ -162,6 +162,9 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
+## Trump’s Destruction of Iranian Life Is Strengthening the Regime
+Targeting civilian infrastructure is a foolish and cruel error.
+
 ## How a U.S. Ground Operation in Iran Could Unfold
 Military experts said limited raids could happen, but a large-scale invasion is unlikely.
 
@@ -182,9 +185,6 @@ Houthi attacks on Saudi shipping risk adding a new front to the Iran war.
 
 ## China Is AI-Maxxing
 Beijing may be closing the gap with Washington in the AI race.
-
-## Odysseus at the End of Civilization
-Nolan’s film confronts the betrayal of the West’s own values.
 
 ## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
 Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
@@ -210,6 +210,9 @@ The liberal commentator’s escalating attacks on President Lee have opened a ra
 ## Ladakh Cannot Afford a Plastic Future
 A broken system continues to push disposable plastic into one of the world’s most fragile mountain ecosystems.
 
+## Global Risks Heating Up
+Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
+
 ## Before a Cyber Force, Fix Cyber Governance
 Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
 
@@ -230,9 +233,6 @@ In March 2025, China’s military researchers published a concept describing how
 
 ## How Ukraine Put Russia on the Backfoot
 Ukraine’s expanding use of drones at all ranges has changed the war’s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasting advantage
-
-## How the War with Iran is Shaping Key U.S. Relations Beyond the Middle East
-The U.S. war with Iran has had political, economic, and military implications that spread far beyond the Middle East. We asked five experts to assess how the war with Iran has affected U.S. bilateral relations with key countries that illustrate some of the global ramifications: South Korea, India, U
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Romanian jet fighter shoots down suspected Russian drone
+The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.
+
+## US records 2,318 measles cases, already surpassing 2025 total
+Scientists warn that falling vaccination rates leave vulnerable groups such as young children more exposed to disease.
+
+## Life without refrigerators: Gaza residents fight heat and food spoilage
+Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.
+
 ## ‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs
 Countries question Trump administration's latest round of tariffs, which relate to forced labour claims.
 
@@ -272,15 +281,6 @@ Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers.
 
 ## LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead
 Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.
-
-## Netanyahu to meet Trump at White House next week amid Iran war escalation
-Visit will be Netanyahu's seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.
-
-## Israel builds Gaza barrier as politicians push for settlements
-Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.
-
-## ‘I lost my home twice’: Sudanese mothers caught between two wars
-Sudanese mothers who fled one war now face another, struggling to rebuild their lives after displacement in Lebanon.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
