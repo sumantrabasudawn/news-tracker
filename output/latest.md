@@ -1,34 +1,40 @@
 # AION Intelligence
 
+## Waymo explores split with Uber as robotaxi tensions deepen
+Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles
+
+## China investigates former securities regulator Fang Xinghai
+Respected economist known as an interlocutor with foreign investors is probed for suspected ‘serious violations’
+
+## Trump threatens new EU tariffs in retaliation for fines on US tech groups
+President says Washington will launch new probe into the bloc that could sharpen trade tensions
+
+## Number 10 North is no ‘gimmick’, says Andy Burnham
+Prime minister remains insistent that new Manchester office sends a more important signal to rest of the country
+
+## Tory party ‘bans’ candidates who don’t back its human rights and net zero pledges
+Chair Kevin Hollinrake says would-be MPs need to endorse leader Kemi Badenoch’s UK agenda
+
+## Healey under pressure to raise taxes or cut UK spending as fiscal headroom shrinks
+US-Iran war and new spending commitments threaten to cut buffer to as little as £7bn, economists estimate
+
+## Modi struggles to calm Indian students’ anger over exam leaks
+Protests in cities swell despite late-night video message from premier
+
 ## Police seize sophisticated bomb near Northern Irish border
 ‘Radicalised republicans’ ready to mount attacks, police chief warns
-
-## The return of monetarism
-Former Fed governor Stephen Miran is trying to bring the money supply back to central banking
-
-## Future hawks
-At the ECB’s meeting on Thursday, president Christine Lagarde teed up a September tightening
-
-## Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea
-Attacks from Iranian-backed Houthi rebels threaten further disruption to global oil supplies
-
-## What is driving the sharp decline in UK small boat crossings?
-The number of people arriving by such vessels between January 1 and July 23 this year is down 45%
-
-## Wildfires force evacuation of Cap Ferret resort on Atlantic coast
-Tens of thousands ordered to safety in France and Spain as Madrid declares national emergency
-
-## Israel prepares ‘major’ West Bank operation after violent clash
-Benjamin Netanyahu orders ‘forceful’ response to deadly confrontation between Jewish settlers and Palestinians
-
-## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
-US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
 ## Directors’ Deals: Fevara non-executive chair beefs up stake
 Livestock supplement producer has refocused in the past year
 
 ## Stockpickers: Greencore, Kier, Gateley
 Our experts discuss which companies to buy, sell or hold this week
+
+## Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea
+Attacks from Iranian-backed Houthi rebels threaten further disruption to global oil supplies
+
+## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
+US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
 ## Meta faces higher borrowing costs in latest $12bn data centre financing
 BlackRock-led deal meets investor anxiety over rising AI exposure
@@ -38,9 +44,6 @@ Jens Weidmann’s comments signal shift to more conciliatory tone from German le
 
 ## Airbus and Boeing push to boost production to tackle record order backlogs
 Planemakers look to shake off supply-chain problems that have hampered output
-
-## Carmakers are the rare example of tariffs as the least bad option
-Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists
 
 ## REC posts net profit of ₹4,193 in Q1 FY27
 The infrastructure and logistic portfolio has grown to ₹59,289 crore, which is over 10 per cent of the overall loan assets, REC noted.
@@ -90,6 +93,21 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 ## 10% US tariff on India: What it means for the country's exports
 United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
+## Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
+Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
+
+## Sonam Wangchuk hits back at 'deal with govt' allegations after breaking 26-day fast: 'Do I need to prove my sincerity?'
+Sonam Wangchuk has denied allegations that he struck a 'deal' with the government to end his 26-day hunger strike.
+
+## Narendra Modi 'thanks friends' in Instagram reel after paper leak selfie video
+Prime Minister Narendra Modi thanked young viewers through a new Instagram reel following his paper leak message amid continuing student protests nationwide.
+
+## Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
+Satish Deshpande, who travelled from Madhya Pradesh to Jantar Mantar, insisted the demonstration must continue
+
+## India condemns Black Sea attack on vessel that killed Indian seafarer
+MV Omorfi, a bulk carrier with a crew of 10, including three Indian nationals, was attacked while transiting the Black Sea, on July 18
+
 ## Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
 PIB Fact Check clarified that the video had been digitally altered using artificial intelligence and was being circulated by Pakistani propaganda accounts.
 
@@ -99,20 +117,8 @@ While DU and JNU directly warned students and faculty of legal consequences and 
 ## Nirmala Sitharaman's remarks on paper leaks sparks row, Opposition, CJP criticise her
 Sitharaman suggested that while paper leaks initially hurt hardworking students, some candidates used extra time before re-exams to improve their preparations.
 
-## LPG tanker with 28 Indians aboard attacked in Iran waters, all crew safe
-The attack took place earlier on Friday and all 28 crew members are safe, a release by the Embassy of India in Tehran read.
+## CWG 2026: Jadumani Singh’s 5kg gamble pays off, enters Round of 16
 
-## Monsoon, not India: MEA cites Pak’s advisory to rebut its ‘baseless’ flood claim
-The flood advisory in Pakistan said that the high flows at Marala were expected to persist before gradually receding as rainfall over the catchment increased
-
-## How NHAI's new toll fee collection formula could make your highway journey cheaper
-The revised formula will apply to highway stretches containing one or more independent bridges, tunnels, flyovers or elevated highways.
-
-## 13 killed after landslide rocks hits car in Lahaul-Spiti, CM expresses grief
-At least 13 people were killed after a rockfall struck a Tata Sumo vehicle near Kahudu Nala in Himachal Pradesh's Lahaul-Spiti district on Friday, police said.
-
-## A look at most common income tax penalties as ITR filing deadline approaches
-Any delays past the July 31 deadline, omissions, errors, incorrect disclosures or non-compliance can result in additional financial liabilities.
 
 ## In new late-night video, Modi thanks students for ‘constructive’ responses
 
@@ -133,9 +139,6 @@ Any delays past the July 31 deadline, omissions, errors, incorrect disclosures o
 
 
 ## Attack on checkpoint in Pakistan’s Khyber Pakhtunkhwa kills 15 security personnel, 12 militants dead in retaliatory fire
-
-
-## Cargo ship hit in Russian strikes in Black Sea was carrying grain: India
 
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
@@ -162,6 +165,18 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
+## Riding the Greenland Ferry
+Traveling along the coast, Greenlanders explain what the world misunderstands about their island.
+
+## What in the World?
+Test yourself on the week of July 18: Ortega makes an alarming announcement, Zelensky holds cabinet talks, and the Houthis implement a blockade.
+
+## The Jonestown Massacre in Black and White
+A flawed book tries to put race and politics back into a pan-American tragedy.
+
+## Nepal’s Queer Cinema Is Becoming a National Triumph
+A Cannes win has turned trans actors from outsiders to heroes.
+
 ## Trump’s Destruction of Iranian Life Is Strengthening the Regime
 Targeting civilian infrastructure is a foolish and cruel error.
 
@@ -174,17 +189,20 @@ Washington is betting on strongmen and strong states to advance its interests in
 ## The End of Elections in Nicaragua
 Ortega’s announcement underscores the waning influence of pro-democracy pressure in Latin America.
 
-## Is Cuba Trump’s Next Target?
-The regime in Havana is increasingly in the Trump administration’s crosshairs.
+## What a Stray Dog’s Murder Tells us About Chinese Civil Society
+Wang Wang has appeared on billboards around the world – visible proof that China’s censorship does have limits.
 
-## How Iran Gained the Upper Hand
-And what that means for Washington’s options to extract itself from this quagmire.
+## NATO-IP4 Relations Remain Stronger Than the Last Two Summits Suggest
+Yes, the Indo-Pacific leaders were absent for the second year in a row. But that’s not because of a lack of interest in the partnership.
 
-## Is the Red Sea the New Hormuz Crisis?
-Houthi attacks on Saudi shipping risk adding a new front to the Iran war.
+## The Power Behind Japan’s Takaichi Government
+Nippon Ishin has, through its alliance with Takaichi, exerted an influence on the Japanese government that far exceeds its parliamentary strength.
 
-## China Is AI-Maxxing
-Beijing may be closing the gap with Washington in the AI race.
+## The Rise of North Korea’s Nuclear-Armed Navy
+North Korea has modified its hierarchy of defense priorities by elevating the importance of the KPAN.
+
+## Born in Jails, Popularized by Gandhi, Hunger Strikes Can Hit Authorities Hard. Conditions Apply.
+Sonam Wangchuk has ended his 26-day hunger strike supporting the Cockroach Janta Party’s demand for the education minister’s resignation. What did it achieve?
 
 ## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
 Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
@@ -194,21 +212,6 @@ Ma. Theresa Lazaro said that the bloc wants to see more progress on the implemen
 
 ## Squabble Deepens Between People Power Party’s Current and Former Leaders
 Whether Han Dong-hoon and Jang Dong-hyuk mend ties will determine the future of South Korea’s main conservative party.
-
-## As the World Courts Beijing, Namibia Shows How Africa Can Sharpen Its China Strategy
-A recent state visit offers lessons for African governments on how to translate high-level diplomacy into industrial partnerships, value addition, and development outcomes.
-
-## Malaysia Orders UN Agency to Pause Registration of New Refugees
-With the creation of a new refugee agency in January, the country has asserted its control over the processing of asylum-seekers.
-
-## Nine Years in Limbo: Why Rohingya Repatriation Remains Stalled
-An analysis of the political, legal, security, and geopolitical dimensions of the Rohingya crisis.
-
-## Rhyu Si-min, Once Lee Jae-myung’s Champion, Turns on the President He Helped Elect
-The liberal commentator’s escalating attacks on President Lee have opened a rare split inside the ruling Democratic Party.
-
-## Ladakh Cannot Afford a Plastic Future
-A broken system continues to push disposable plastic into one of the world’s most fragile mountain ecosystems.
 
 ## Global Risks Heating Up
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Car bomb attack kills 27 in northwest Pakistan
+The Pakistani Taliban said four suicide bombers carried out the assault in the country's northwest.
+
+## ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources
+Khan's team claim the case is a reaction to his pursuit of an arrest warrant against Israel’s Benjamin Netanyahu.
+
+## US school shooter pleads guilty in Georgia following father’s conviction
+Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.
+
+## Oman talking with Tehran on Hormuz as US and Iran continue strikes
+Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.
+
+## Trump’s Israel condition on Saudi nuclear deal
+Trump’s Israel condition on Saudi nuclear deal
+
+## Huge crater after back-to-back Israeli strikes on Gaza refugee camp
+Huge crater after back-to-back Israeli strikes on Gaza refugee camp.
+
+## Israel raids hospital, shuts off Nablus following deadly settler attack
+Israel has arrested wounded Palestinians in a hospital as it shuts off Nablus following Friday’s deadly settler attack
+
 ## Romanian jet fighter shoots down suspected Russian drone
 The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.
-
-## US records 2,318 measles cases, already surpassing 2025 total
-Scientists warn that falling vaccination rates leave vulnerable groups such as young children more exposed to disease.
-
-## Life without refrigerators: Gaza residents fight heat and food spoilage
-Gaza families endure scorching summers without refrigerators, struggling to preserve food, medicine and basics.
-
-## ‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs
-Countries question Trump administration's latest round of tariffs, which relate to forced labour claims.
-
-## Yemen’s valleys and farms are full of dangerous plastic waste
-Yemen's eastern Wadi Dawan valley is picturesque, but on closer inspection the scourge of plastic waste is clear to see.
-
-## LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers
-James's move comes after saying he was 'done' after his 23rd NBA season and it was his last with Los Angeles Lakers.
-
-## Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers
-Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers.
-
-## LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead
-Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
