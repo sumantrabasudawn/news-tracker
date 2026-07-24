@@ -1,70 +1,70 @@
 # AION Intelligence
 
-## US hits 60 trading partners with new duties as Trump rebuilds tariff wall
-Washington moves to reimpose 10 per cent duties after previous blanket levies were struck down by Supreme Court
+## Carmakers are the rare example of tariffs as the least bad option
+Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists
+
+## Zooming in on UK growth
+Maps power
+
+## In praise of the free flow of human ingenuity
+Apple is suing OpenAI for alleged theft but Silicon Valley is founded on the exchange of ideas
+
+## Submit your questions: Has the market lost its mind over AI?
+Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore on Thursday July 30 at 1pm (BST)
+
+## When a president’s thoughts are for sale
+Trump is openly monetising privileged access to his musings
+
+## Trump’s trade war shifts from shakedown to lock-in
+The administration wants to ensure the US ‘gets paid’ for the superpower services it provides to the world
+
+## Ukraine opens probe into defence event after deadly Russian strike
+Rare daytime missile attack on Kyiv killed at least 10 people on Friday
+
+## Burnham’s economic vision
+Plus: Can ‘Brand Burnham’ survive contact with No 10?
+
+## Meta faces higher borrowing costs in latest $12bn data centre financing
+BlackRock-led deal meets investor anxiety over rising AI exposure
+
+## BP nears deal to sell solar business Lightsource to Kuwait-backed group
+Qualitas Energy and investment arm of sovereign wealth fund in advanced talks to purchase renewables business
 
 ## South East Water secures £200mn liquidity boost
 Cash-strapped British utility says financing will be used to help future bond issuance
 
-## Is a second home in New York or London more trouble than it’s worth?
-New York’s new tax on second homes is prompting owners to rethink. Are these city pads still worth it? It’s a question that those in London have long been asking
-
-## Trump tracker: the latest data on US tariffs, trade and economy
-Follow the latest impact of tariffs amid the president’s ongoing trade war
+## Renewable jet fuel producer Neste swings to profit after Iran war sends prices soaring
+Airlines and industrial buyers look for supplies safe from continuing turmoil
 
 ## FirstFT: US hits 60 countries with new tariffs
 Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel
 
-## Wildfires force evacuation of Cap Ferret resort on Atlantic coast
-Tens of thousands ordered to safety in France and Spain as fires rage in summer of extreme heat
+## AI productivity offsets wage hikes, supports IT margins in Q1
+Experts say AI models help firms optimise their workforce and utilisation
 
-## Hong Kong stock exchange relaxes listing rules to compete with US rivals
-Global competitiveness drive comes despite bourse being increasingly dominated by Chinese companies
+## Cabinet clears Bill prescribing up to 10-year jail, up to ₹10 crore fine for paper leak convicts
+Proposed amendments strengthen anti-paper leak law with stricter punishment and speedy prosecution mechanisms
 
-## Japan’s June inflation figure poses no obstacle to BoJ tightening this year
-Headline and core price rises accelerated last month
+## ACC net down 60% in Q1 on higher cost, lower volumes
+The company said the profitability reflected the impact of planned maintenance at larger integrated units and a higher master supply agreement with the parent firm Ambuja Cements
 
-## Volkswagen warns of weaker revenues ahead of record job cuts
-Sharp cut heaps pressure on German carmaker’s chief as he looks to push through massive workforce reduction
+## Bank of Baroda’s Q1FY27 profit drops 72% due to a one-time NMC Group settlement
+Excluding the aforementioned impact of ₹Rs5,680 crore, the public sector bank’s net profit would have been ₹Rs5,528 crore
 
-## Top UK law firm partners take home record pay
-Spate of listings in Hong Kong boosted IPO work and related transactions
+## Karnataka announces Bengaluru Tech Summit 2026, launches Innoverse Foundation for DeepTech startups
+Bengaluru Tech Summit 2026 will focus on emerging technologies including AI, DeepTech, semiconductors, biotechnology, fintech, spacetech and digital infrastructure.
 
-## Wise’s US bank licence bid rejected over compliance ‘deficiencies’
-Regulator raises concerns over fintech’s anti-money laundering checks and understanding of banking law
+## CMI seeks closer industry partnerships in AI, mathematical sciences
+Soumya Swaminathan, Chairperson, MS Swaminathan Research Foundation, speaking at the event urged graduates to use their scientific training to address real-world challenges and ensure that the benefits of science reach those with fewer opportunities
 
-## Reckitt to take £175mn hit from sale of Russian hygiene business
-Consumer goods group began process to dispose of division more than four years ago
+## Fractal Analytics net profit grows 92% to ₹72.3 crore in Q1
+Operating revenue was up at ₹912.5 crore, a growth of 20 per cent year-on-year
 
-## Sun, football and political change push consumer and business confidence higher
-Economists warn optimism will not last if oil stays near $100 a barrel
+## Engineering leads industry-wise bank credit growth at 17% CAGR as capex gathers pace
+This was followed by gems and jewellery (12.4 per cent), petroleum, coal products and nuclear fuels (11.5 per cent) and other industries (11.4 per cent).
 
-## Tech billionaire ordered to pay $640mn in South Korea’s ‘divorce of the century’
-Ruling against Chey Tae-won comes a decade after chair of chipmaker SK Hynix first revealed extramarital affair
-
-## IndiGo assessing West Asia situation; Air India Express cancels Bahrain, Kuwait flights
-IndiGo operated around 160 flights daily to West Asia prior to March and that dropped to 20-30 flights a day during the peak of the crisis
-
-## Indo-MIM IPO surges to 3.07x subscription on day 2; NII category crosses 8 times
-With one day of bidding remaining, the issue closes July 27, 2026, all categories are now fully subscribed
-
-## J&K races to July 31 deadline to secure funding for two industrial parks
-J&K is proposing two plug-and-play industrial parks, one each for the Jammu and Kashmir divisions
-
-## Green Flag(ship)
-The ZRV arrives as a full import, with a strong hybrid, a Civic-derived platform, and a case to make about engineering in a segment that sells presence
-
-## Peak Talk
-Ducati’s Multistrada V4 Pikes Peak is far from your everyday sport-tourer. Is it also a step too far, though?
-
-## Q1 Results Today Live: Tata Consumer con. PAT up 28.4%, ACC PAT declines 61.5%, Shriram Finance, Hindustan Zinc, SBI Life, SBI Cards, Laurus Labs Q1 profit rise, BoB, NTPC, SAIL, KFin Tech to announce Q1 results
-Q1 Results Today, July 24, 2026, Live Updates: Follow businessline for more updates
-
-## Global steel output rises 1.7% in June
-India’s crude steel production climbs 4.5% in June and 7.1% in H1
-
-## India’s forex reserves rise by USD 1.08 billion to USD 676.24 billion
-The increase was driven by a USD 4.55 billion rise in foreign currency assets, which more than offset a USD 3.48 billion decline in gold reserves
+## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
+The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
@@ -87,8 +87,20 @@ United States imposed a ten percent tariff on Indian goods, offering some relief
 ## 'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19
 Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not
 
-## RBI intervention lifts rupee 22 paise to 96.5 despite Brent crude topping $100
-The Indian Rupee recovered 22 paise against the US dollar in early trade. This recovery occurred despite crude oil prices breaching the $100 a barrel mark. The Reserve Bank of India's intervention likely helped stabilize the domestic currency. Foreign institutional investor outflows and weak domesti
+## Massive boulder crushes vehicle in Himachal Pradesh, kills 13 including infant
+Deputy Commissioner Kiran Bhadana said the vehicle was buried under debris following a landslide and rockfall incident on the Sansari Nala-Killar-Thirot-Tandi road
+
+## ‘China in illegal occupation of Indian territories since 1963’: MEA on India's stance on sovereignty question
+“When it comes to sovereignty issues, it is actually India that should be and is raising them,” MEA Spokesperson Randhir Jaiswal said at a press briefing.
+
+## ‘Energy here is truly crazy’: Nisarga Adhikary, who hacked CBSE's exam portal, joins CJP's Jantar Mantar protest
+Nisarga posted on X a photo with CJP founder Abhijeet Dipke and NCP (SP) spokesperson Anish Gawande. “The energy here is truly crazy,” he wrote.
+
+## Mumbai model Rhiya Ahir who blocked police van says cops were 'respectful' towards her
+Rhiya Ahir said she had not slept for two nights, thinking about the students who continue to participate in the movement.
+
+## CCEA approves railway line expansion project in Karnataka, Andhra
+The capacity enhancement will improve rail connectivity to several prominent tourist destinations across the country, including Ballari Fort, Sri Kumara Swamy Temple
 
 ## Punjab Roadways contractual workers announce three-day strike from Aug 3
 The union said rallies would be organised at all depots across the state on July 27 before the state-wide strike.
@@ -99,47 +111,35 @@ Addl SP Yogesh Dewangan said they had anticipated resistance and deployed a larg
 ## Rahul Gandhi shows student's wounds on camera, claims pellet guns used during Jantar Mantar protest
 Rahul said that the pellet guns had been used while the students were protesting holding the Indian tricolour.
 
-## What's Dharmendra Pradhan doing amid ‘resign’ chorus by CJP, Cong: Group photos with MPs, reposting PM Modi's video
-Besides attack on Rahul Gandhi, Pradhan has mainly communicated by re-sharing PM Modi's promises since CJP protest grew after police action on Parliament march
-
-## ‘Anna part 2’: Congress MP says Wangchuk struck deal with govt as fast ends; Dipke and BJP react
-Congress MP Imran Masood referred to Sonam Wangchuk as “Anna Hazare part two,” and said that he too would “remain silent” now that he has ended his fast.
-
-## CJP meeting with govt lasts 2 hours, both sides share their version. Who said what
-The government on Friday held talks with the ‘Cockroach Janta Party’ for the second time amid ongoing protests at Jantar Mantar over exam irregularities.
-
-## 24.38 lakh cyber security incidents reported in 2025: Govt data
-The ministry reported that 11.46 lakh incidents were observed in 2023 which increased to 18.73 lakh in 2024. By 2025, the number of incidents recorded rose to 24.28 lakh
-
-## Army deployed for rescue ops as Gujarat continues to receive heavy rain
-The Army deployed relief and rescue columns, including engineer and medical teams, in Valsad, Navsari, Silvassa and Ahmedabad
-
-## From Automation to Collaboration in Chip Design
+## Mayank Yadav passes first Test with flying colours, but bigger challenges await
 
 
-## Anthropic expands Claude voice mode with Opus and Sonnet support, deeper app integration
+## Pradhan resignation key, non-negotiable: CJP; Govt says more talks today
 
 
-## Google introduces selfie video as a new way to sign in to accounts
+## A 12-year-old’s vision problem revealed a surprising cause: Frequent eye rubbing
 
 
-## ‘Initial reviews always divided’: H Vinoth says Vijay’s Jana Nayagan will be a hit over time
+## Centre plans standard design for bullet train network across 7 new corridors
 
 
-## Changing Cities | How a cable-stayed bridge across bullet train and railway line in Ghatkopar is set to ease traffic
+## UPSC Key: Fast Track Courts, Virtual Digital Assets and KUSHA Project
 
 
-## Groom stuck at airport on wedding eve after flight cancellation, wins Rs 43,000 payout
+## How a food delivery rider became a literary star, and what it says about China
 
 
-## 2 children from Rajasthan die of Chandipura virus: What is the infection and who is susceptible to it?
+## Youth protests: How Indian states’ expenditure on education has declined over 12 years
 
 
-## Why joint pain may worsen before it rains: ‘Barometric pressure can shift…’
+## India has the talent. So why do so many still choose to build elsewhere?
 
+
+## Chinese battery giant CATL posts record quarterly profits amid green energy boom
+Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly missed market estimates for second-quarter revenue and net profit, as China’s weakening demand for electric vehicles (EVs) outweighed benefits from the energy shock. The world’s largest battery maker reported a record 1
 
 ## China places former deputy of top financial regulator under investigation
-China has placed one of its top former financial regulatory officials under investigation, according to state media reports. Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission, is suspected of “serious legal and disciplinary violations” and is currently undergoing an in
+China has placed one of its top former financial regulatory officials under investigation, the nation’s main anti-corruption body announced on Friday. Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission (CSRC), is suspected of “serious legal and disciplinary violations” 
 
 ## Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar
 Chinese tech giant Tencent Holdings has fired a manager at its WeChat division after details of his multimillion-yuan bonus package leaked online, sparking animated discussion across social media. The employee, surnamed Ye, was dismissed for passing sensitive corporate information to external partie
@@ -159,8 +159,8 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
-## HSBC agrees to US$2 billion deal to sell Singapore insurance branch to Allianz
-HSBC has agreed to sell its Singapore life and health insurance business to Germany’s Allianz for S$2.7 billion (US$2.08 billion), with the deal expected to be completed in the first half of 2027, HSBC Group announced on Friday morning before the start of trading. The disposal is expected to generat
+## Trump’s Men in the Middle East
+Washington is betting on strongmen and strong states to advance its interests in a chaotic region. But will it work?
 
 ## The End of Elections in Nicaragua
 Ortega’s announcement underscores the waning influence of pro-democracy pressure in Latin America.
@@ -182,9 +182,6 @@ Nolan’s film confronts the betrayal of the West’s own values.
 
 ## There’s Only One Way Out of Trump’s Reckless War
 Pay off Iran to open Hormuz and freeze its nuclear program.
-
-## Xi’s Demands for Loyalty Are Breeding Corruption
-Ma Xingrui’s fall shows how deep personnel problems run.
 
 ## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
 Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Senegal gets CAS date for appeal to regain AFCON from Morocco
+Senegal given October date by CAS for appeal to regain AFCON title won in chaotic final against Morocco in January.
+
+## World Cup hero Rodri to undergo back surgery before Man City’s new season
+Spain and Man City midfielder Rodri will need surgery and rest before returning to the club, new coach Maresca said.
+
+## What to know about the White House Correspondents’ Dinner, take two
+Perennially controversial dinner is back, with Trump set to attend, after a gunman derailed the proceedings in April.
+
+## Indian student protests: What’s next after Modi’s promise on exam leaks?
+Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan.
+
+## Five killed in occupied West Bank after Israeli settlers attack
+Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till
+
+## US summons Malaysia envoy over Israel policy
+Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.
+
+## Bangladesh President Mohammed Shahabuddin resigns
+Shahabuddin, 76, cited health reasons for leaving two years before his five-year term was meant to expire.
+
 ## Spain declares national emergency over wildfires
 At least 10,000 people have been evacuated following wildfires in the central region of Madrid.
-
-## Spain’s De la Fuente slams Argentina’s World Cup conduct as ‘unacceptable’
-While Argentina faced criticism through World Cup 2026, post-final altercations are now being investigated.
-
-## At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks
-Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.
-
-## Australia World Cup star Volpato faces speeding, cocaine charges
-Cristian Volpato, who switched from Italy to Australia before World Cup 2026, failed a roadside drug test in Sydney.
-
-## Is the US-Saudi nuclear deal on, or in limbo?
-Trump's last-minute demand for Saudi normalisation with Israel has complicated the already sensitive deal.
-
-## South African court pauses impeachment process against president
-The 'Farmgate' scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.
-
-## Andy Burnham’s Number 10 North changes the postcode, but not the politics
-As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.
-
-## Does this disappearing organ hold the secret of longevity?
-Scientists are increasingly focused on the thymus, an immune gland that naturally becomes less active with age.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
