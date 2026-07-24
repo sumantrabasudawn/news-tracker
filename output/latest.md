@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## ICC ousts chief prosecutor Karim Khan after misconduct probe
+Member nations vote to remove him after allegations of sexual misconduct, which he has denied
+
+## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
+Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
+
 ## France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread
 Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
 
@@ -17,15 +23,6 @@ President says Washington will launch new probe into the bloc that could sharpen
 
 ## Number 10 North is no ‘gimmick’, says Andy Burnham
 Prime minister remains insistent that new Manchester office sends a more important signal to rest of the country
-
-## Tory party ‘bans’ candidates who don’t back its human rights and net zero pledges
-Chair Kevin Hollinrake says would-be MPs need to endorse leader Kemi Badenoch’s UK agenda
-
-## Healey under pressure to raise taxes or cut UK spending as fiscal headroom shrinks
-US-Iran war and new spending commitments threaten to cut buffer to as little as £7bn, economists estimate
-
-## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
-Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
 
 ## Directors’ Deals: Fevara non-executive chair beefs up stake
 Livestock supplement producer has refocused in the past year
@@ -87,6 +84,9 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 ## 10% US tariff on India: What it means for the country's exports
 United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
+## No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
+No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
+
 ## Haryana restored defrauded money to victims five times more than national rate: Officials
 Haryana restored defrauded money to victims five times more than national rate: Officials
 
@@ -108,10 +108,7 @@ Satish Deshpande, who travelled from Madhya Pradesh to Jantar Mantar, insisted t
 ## India condemns Black Sea attack on vessel that killed Indian seafarer
 MV Omorfi, a bulk carrier with a crew of 10, including three Indian nationals, was attacked while transiting the Black Sea, on July 18
 
-## Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
-PIB Fact Check clarified that the video had been digitally altered using artificial intelligence and was being circulated by Pakistani propaganda accounts.
-
-## CWG 2026: Para powerlifter Jhandu Kumar wins bronze in heavyweight category
+## CWG 2026: Para powerlifter Jhandu Kumar wins bronze, opens India’s account
 
 
 ## ‘To maintain law & order’, liquor shops in Delhi to shut by 8 pm until Sunday
@@ -255,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## China, Philippine coastguard vessels clash in South China Sea
+China, Philippine coastguard vessels clash in South China Sea.
+
+## Paramount agrees to pause Warner Bros deal while court case plays out
+The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.
+
+## Iran’s Abbas Araghchi vows ‘we fear no one’
+Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or 'succumb to pressures'.
+
+## Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown
+Tyson Fury forced his Polish opponent, Mariusz Wach, to retire in the fight at a Muay Thai stadium in Pattaya, Thailand.
+
+## Spanish police accuse tractor driver of sparking wildfire as blazes spread
+The number of people forced to flee the heatwave-induced fires in Spain and France has now passed the 100,000 mark.
+
+## UNESCO places occupied West Bank, Lebanon sites on endangered heritage list
+Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.
+
+## US small businesses challenge Trump’s new ‘forced labor’ tariffs
+In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.
+
 ## Israeli settlers escalate attacks on Palestinians near Nablus
 Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus
-
-## Venezuela to exit International Criminal Court, accusing it of ‘bias’
-Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to'disable' international court.
-
-## Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media
-This is a breaking news story.
-
-## Canada marks Gordie Howe bridge opening without US after trade war deepens
-Canada cancelled planned cross-border ribbon-cutting ceremony and the milestone opening was only among Canadians.
-
-## Who is Afrah al-Zouba, Yemen’s first female foreign minister?
-In a historic first, Afrah al-Zouba was appointed Yemeni foreign minister on July 23.
-
-## Wildfire survivors tell of narrow escape as Spain declares emergency
-More than 10,000 people have been forced to evacuate as firefighters struggle to contain wildfires in central Spain.
-
-## Car bomb attack kills 27 in northwest Pakistan
-The Pakistani Taliban said four suicide bombers carried out the assault in the country's northwest.
-
-## ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources
-Khan's team claim the case is a reaction to his pursuit of an arrest warrant against Israel’s Benjamin Netanyahu.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
