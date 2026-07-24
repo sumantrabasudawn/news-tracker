@@ -1,22 +1,43 @@
 # AION Intelligence
 
+## US hits 60 countries with new duties as Trump rebuilds tariff wall
+Administration pins measures on forced labour probe after Supreme Court struck down blanket levies
+
+## South Korea’s cash-rich winners of AI boom go on US buying spree
+Companies make biggest US investment push in years to build up tech capabilities and avoid Donald Trump’s tariffs
+
+## AI labs begin to muscle in on $6tn education market
+Anthropic and OpenAI are among groups providing free and cut-price tailored solutions for educators and students
+
+## Elite AI-powered schools insist they provide route to excellence
+Long-term effects of incorporating the technology into learning are still unknown, but inequalities are emerging
+
+## Universities drop AI detection tools over fears about accuracy
+Some institutions are overhauling assessment and trying to move away from the emphasis on surveillance
+
+## Universities should arm students with AI ‘eval’ powers
+Organisations will need people with the skills to test models constantly against what they actually need
+
+## Oil hits $100 as Trump weighs ‘massive attack’
+US stocks and bonds also sold off as Middle East tensions increase
+
+## Why India’s student protests are different
+Also in this newsletter: Trump’s new pharmaceutical tariffs
+
+## HSBC sells Singapore insurance business to Allianz for $2.1bn
+Deal is latest example of lender’s ‘ongoing simplification’ under Georges Elhedery
+
+## Meta faces higher borrowing costs in latest $12bn data centre financing
+BlackRock-led deal meets investor anxiety over rising AI exposure
+
 ## Intel posts fastest growth in 15 years as AI data centres demand fuels sales
 Chipmaker’s revenue jumped 25% in the second quarter
-
-## Oil hits $100 for first time since May while US stocks slide
-Donald Trump says Washington is weighing ‘massive attack’ on Iran as Middle East tensions increase
 
 ## Sewage discharges flout guidance near 65 beaches in England since May
 Overflows at bathing sites come as tourists flock to coastal areas for summer holidays
 
-## Sun, football and Burnham push UK consumer confidence higher
-Survey was conducted in first half of July before new prime minister took office and ahead of latest escalation in US-Iran conflict
-
-## US hits 60 countries with new duties as Trump rebuilds tariff wall
-Administration pins measures on forced labour probe after Supreme Court struck down blanket levies
-
-## FirstFT: China’s Xi Jinping pursues AI diplomacy to woo developing countries
-Also in today’s newsletter: US hits 60 countries with new tariffs and Modi vows ‘swift’ justice for India exam leaks
+## Chinese AI models will slash adoption costs, says Singapore’s GIC
+Sovereign wealth fund expects strong growth in Chinese AI companies but is cautious about start-ups
 
 ## China’s Xi pursues AI diplomacy to woo global south
 Beijing makes most ambitious offer yet to build alternative global order
@@ -24,113 +45,116 @@ Beijing makes most ambitious offer yet to build alternative global order
 ## Dangote secures record $2.5bn investment to expand Lagos refinery
 Billionaire Nigerian businessman is planning to grow capacity from about 650,000 barrels per day to 1.4mn b/d by 2028
 
-## Chinese AI models will slash adoption costs, says Singapore’s GIC
-Sovereign wealth fund expects strong growth in Chinese AI companies but is cautious about start-ups
-
 ## FDA panel supports access to peptides over scientist objections
 Vote is first step in broadening public access to so-called Wolverine peptide despite warnings about risks
 
-## EU fines Google €890mn in test of Trump’s threats to protect Big Tech
-EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant
+## Temasek-backed Manipal Health seeks to raise $960 million in IPO; price band set at ₹560-590
+Manipal Health will start taking investor orders on July 29 and plans to close bidding on July 31.
 
-## US justice department to streamline company merger reviews
-Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions
+## Smaller UPI players seek wider consultation on NPCI’s UPI Meta, warn of market concentration risks
+NPCI is targeting a launch around the Global Fintech Fest later this year as it looks to make UPI payments as seamless as tokenised card transactions, particularly amid the expected entry of Apple Pay into India
 
-## Sonam Wangchuk ends hunger strike after Centre assures action on key demands
-A late-night meeting with Union Ministers JP Nadda and Jitendra Singh led to government assurances on protesters, exam reforms and the NEET paper leak issue
+## Adani says not evaluating proposal to enter airline business
+Denies media reports and market speculation saying: “The ‌reports are ​entirely baseless and factually ⁠incorrect.”
 
-## Google introduces selfie video verification for account recovery
-The feature verifies users by matching a new selfie video with an encrypted reference recording and uses liveness detection to prevent spoofing
+## Q1 Results Today Live: Shriram Finance, TCP, BoB, Hindustan Zinc, Dalmia Bharat, Jindal Steel, Lodha, SBI Life, CG Power, NTPC, SAIL, Welspun Corp to announce Q1 results, Infosys, IndiGo, Cipla shares in focus
+Q1 Results Today, July 24, 2026, Live Updates: Follow businessline for more updates
 
-## Education Ministry reshuffle: Naresh Pal Gangwar named Higher Education Secretary, Vineet Joshi moved
-The reshuffle also appoints Sushil Kumar Lohani to head the Animal Husbandry Department and T K Anil Kumar as School Education Secretary.
+## Sensex today | Stock Market Live: Nifty likely to lose 200 pts at open amid fresh US tariffs, $100 crude oil
+Sensex, Nifty, Share Prices Live Updates: Rising crude oil prices, unwinding of yen carry trade, fresh US tariff, weakening rupee to hurt market sentiment
 
-## Weichai Group: 40 years in Vietnam, working together to create a new green and intelligent future
-Weichai Group: 40 years in Vietnam, working together to create a new green and intelligent future
+## Wangchuk ends 26-day hunger strike after govt assurances; Modi urges activist to regain health
+Union Ministers JP Nadda and Jitendra Singh met the activist at Medanta Hospital, giving the government’s assurance that his demands would be met; supporters say protests at Jantar Mantar will continue
 
-## Flooding in South Gujarat disrupts rail traffic to Mumbai; 14 trains, including Vande Bharat and Shatabdi, cancelled
-Flooding in South Gujarat forced Western Railway to suspend operations on a key rail bridge between Gholvad and Umargam Road, disrupting train services between Gujarat and Mumbai
+## US slaps 10% tariff on Indian imports over forced labour concerns
+USTR Jamieson Greer announced the new tariffs on 60 countries under Section 301 of the Trade Act on Thursday, a day before the expiration of 10% additional levies on all countries
 
-## Regular payments from Bangladesh help in reducing its dues to Adani Power
-Adani Power seeks to reduce ₹3,863 crore receivables from Bangladesh as monthly payments stabilise, enhancing liquidity.
+## Govt has agreed to our request to hold talks today at neutral venue, says CJP
+The discussions will take place at the Constitution Club of India.
 
-## Ramco Systems Q1 revenue down 3% at $18.6 million
-Annual recurring revenue stood at $12.15 million while the unexecuted order book was at $152.3 million, the company said in an exchange filing
+## Bullion watch: Gold falls over 2%, silver drops nearly 4% as crude prices soar to $100
 
-## Primary market shows signs of revival even as uncertainty looms
-SEBI, in April, extended the one year validity of IPO observation letters expiring between April 1 and September 30 to uniformly until September-end
+
+## Oil holds above $100 as Red Sea attacks and Kazakhstan outage tighten supplies
+Oil prices have sharply rebounded, exceeding one hundred dollars per barrel. Attacks on Saudi oil tankers in the Red Sea have revived supply fears. Kazakhstan's oil exports also faced disruptions, adding to global concerns. This marks a significant reversal from recent price declines seen earlier. T
 
 ## US unveils fresh tariffs of up to 12.5% on 60 economies amid 'forced labour' probe; India gets lower 10% rate
 
 
-## IndiGo offers crisis management plan to settle CCI probe into flight disruption case
-IndiGo has proposed commitments to the Competition Commission of India. These proposals aim to address concerns over past flight disruptions and unfair practices. The airline will establish a crisis management group and a passenger grievance mechanism. IndiGo also offered to temporarily hand over ai
-
-## US stocks today: Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips over 600 points
-Major stock markets opened lower as Big Tech's AI spending raised investor concerns. Alphabet and Tesla shares fell significantly after their latest quarterly earnings reports. Oil prices surged past one hundred dollars per barrel amid Middle East tensions. This geopolitical situation also increased
-
-## Premium petrol to remain ethanol-free; no plan to blend beyond 20% as of now: Govt to Parliament
-Premium petrol grades will continue to be ethanol-free for consumers. The government has no plans to reintroduce lower ethanol blends like E0 or E10. Current ethanol blending in regular petrol will remain at twenty percent. No widespread adverse impacts have been reported from E20 fuel usage. Future
-
-## Oil's $100 comeback: Brent hits a three-month high as Red Sea tensions escalate
-Crude oil prices surged past one hundred dollars per barrel amid Middle East tensions. Houthi attacks on Saudi oil tankers in the Red Sea caused market concern. This escalation has heightened fears over global energy supply safety and stability. Domestic crude futures also climbed significantly, mir
-
-## Longer routes, higher costs, 26,000 cancellations: US-Iran conflict hits Indian airlines
-Indian airlines have cancelled approximately 26,000 international flights due to Middle East airspace restrictions. These disruptions have led to flight diversions and delays, impacting airline operations significantly. Longer flight routes are increasing fuel consumption and raising overall operati
-
-## Will employees finally get paid faster after resignation? Understanding labour codes and full & final settlement
-For an employee, the last salary from the previous organisation is not just a payroll entry. It may be needed for rent, relocation expenses, family commitments, education fees, loan repayments or simply to manage the gap before the first salary from the new employer
-
-## India's first hydrogen-powered train clocks around 900 km in five days
-India's first hydrogen fuel cell train has covered 900 kilometers on its initial operational route. This new train runs on hydrogen fuel cells, producing only water vapor and heat. Passenger fares remain consistent with ordinary diesel services on this pilot project. The train operates on the Jind-S
-
-## Sonam Wangchuk ends hunger strike after 26 days; PM Modi, Abhijeet Dipke react
-The development came after Prime Minister Narendra Modi announced that stricter action against paper leaks would be discussed at the Cabinet meeting on Friday.
-
-## Delhi HC notifies fast-track courts hours after PM Modi's announcement against paper leak cases
-Delhi High Court has created a fast-track court led by Judge Anu Grover Baliga to hear paper leak and exam cheating cases swiftly. Check more details.
-
-## 'More strict actions': PM Modi vows tougher measures against paper leaks in Friday's Cabinet meet
-In a post on X, PM Modi said that the government has already taken several strict measures since the leaks came to light.
-
-## 'Baseless': India rejects Pakistan minister Ishaq Dar's remarks on Kashmir at ASEAN meet
-External affairs ministry spokesperson Randhir Jaiswal said that India “categorically rejects the baseless and unwarranted comments” by Dar.
-
-## Delhi school announces hybrid mode classes amid protests
-The advisory comes amid heightened security arrangements across Central Delhi following recent protests .
-
-## 'May invite legal action': Delhi University asks students to stay away from protest at Jantar Mantar
-The University of Delhi, in a social media post, urged students to prioritise their well-being and stay away from any unlawful gatherings.
-
-## Infosys to roll out salary hikes in two phases; most employees to get raises in October
-The IT major said the majority salary increases for senior employees would be implemented in January.
-
-## 480 Pak-based handles blocked: Delhi Police's big warning on 'fake news' amid student protests
-Delhi Police blocks 480 Pakistan-based social media accounts for spreading misleading content during student protests.
-
-## Down a fort, now under the ground? Cops of two states search for 3,500-kg cannon
+## New launches, financing may give foldable phones a boost
 
 
-## Women separated from partners, ‘raped’ by tribal community leaders in Chhattisgarh
+## Eight Roads, 2 others to sell stake in Shadowfax
 
 
-## Rajasthan government paves way for political workers to join police’s community intel groups
+## ITC is now 2nd largest FMCG co by revenue
 
 
-## NEET 2024 leak: CBI says no evidence linking key accused Sanjeev Mukhiya to paper’s theft or distribution
+## IndiGo opposes more say for airport operators in airlines
 
 
-## ‘Not CJP or BJP, it’s about student rights’: Protests rage nationwide; many detained
+## Flipkart to enter food delivery space in a month
+Set To Take On Zomato, Swiggy | Pilot Likely In B'luru | Separate App, ONDC Launch Planned
+
+## Land near Mahakal Temple sold to firm linked to Madhya Pradesh BJP MLA, high court issues notice
+The petition claimed that 1.877 hectares of land in Ujjain was recorded as government property in 1950.
+
+## 'End of hunger, beginning of accountability': Sonam Wangchuk on why he called off 26-day fast
+Sonam Wangchuk said that the government assured that families of suicide victims linked to the recent NEET paper leak would receive adequate compensation.
+
+## Delhi HC to hear petition seeking NIA probe into CJP protest violence: ‘So-called student agitation…’
+The court earlier sought responses from the Centre and Delhi Police on pleas seeking an inquiry into alleged police excesses during the demonstrations.
+
+## Pump dealers seek SOP and tools for ethanol-blended petrol testing
+Executives of OMCs said on condition of anonymity that they have intensified quality control efforts.
+
+## CJP calls for nationwide stir today, firm on Pradhan’s exit
+Late at night, the government moved out higher education secretary Vineet Joshi to the panchayati raj ministry and replaced him with Naresh Pal Gangwar.
+
+## Government ready to debate NEET paper leak in Parliament 'the way Opposition wants'
+Rahul Gandhi had called a meeting of all opposition lawmakers to chalk out new protest plans to highlight the students’ issue outside Parliament.
+
+## Sonam Wangchuk ends fast after 26 days; CJP's Dipke says protest to continue
+CJP convener Abhijeet Dipke welcomed Wangchuk’s decision to end his fast but added that their protest demanding Pradhan’s resignation will continue.
+
+## PM Modi promises new law to tackle paper leaks amid CJP protest; cabinet meet today
+Representatives of the government and the CJP, which is heading the Jantar Mantar stir and called for nationwide protests, are likely to meet on Friday.
+
+## Punishment same for 1 or 50 murders’: Chilling ‘red lotus’ tale of 3 murders
 
 
-## CJP protest: 3 treated for pellet injuries, CRPF probes chain of events, role of Rapid Action Force
+## Hair loss, the latest concern around GLP-1 drugs? A new study explains link
 
 
-## Government says doors always open for talks; CJP, Opposition firm on Dharmendra Pradhan’s resignation
+## Parliament Monsoon Session 2026 Day 5 Live Updates: Parliament set for fresh showdown between opposition and ruling party today
 
 
-## Delhi Confidential: ‘Odiya Style’
+## Satya Nadella says Microsoft’s MAI AI models outperform frontier AI in many use cases, cut costs
 
+
+## Jana Nayagan Box Office Collection Day 1 Live Update: Vijay’s last film earns over Rs 78 crore
+
+
+## Raghav Juyal defends Niharika NM amid actor vs influencer debate: ‘How can you judge?’
+
+
+## CJP Jantar Mantar Protest Live: 17 Metro Stations shut in Delhi as CJP pushes ahead with nationwide protests
+
+
+## Wangchuk broke his fast at midnight. Here’s how the protest site found out
+
+
+## HSBC agrees to US$2 billion deal to sell Singapore insurance branch to Allianz
+HSBC has agreed to sell its Singapore life and health insurance business to Germany’s Allianz for S$2.7 billion (US$2.08 billion), with the deal expected to be completed in the first half of 2027, HSBC Group announced on Friday morning before the start of trading. The disposal is expected to generat
+
+## Rare 6-month office flip suggests Hong Kong’s prime market is stabilising
+A buyer who bought an office in a top-tier location in Hong Kong has sold it for an apparent 19 per cent gain just over six months later, a rare transaction that suggests improving conditions in the city’s prime office market are beginning to reshape investment decisions. The 5,400 sq ft office on t
+
+## Hong Kong must wake up to the cold hard geopolitics of AI
+Officials talking about artificial intelligence (AI) often speak in terms of the next industrial revolution or existential risks. Such rhetoric ultimately does little to capture how AI filters into the ordinary workings of a city like Hong Kong. The geopolitics of AI are no longer abstract. They are
+
+## Why the divorces of China’s A-share firm owners provoke market nerves
+China’s A-share market has seen another high-profile divorce case result in a massive asset split, involving the transfer of 6 billion yuan (US$886 million) – the highest this year – and raising concerns over corporate governance stability and share price fluctuations. Although the scope of the divo
 
 ## Hongkongers increase cross-border shopping splurges, spending data shows
 Even as local retail spending remains resilient, Hong Kong consumers are shopping more across the border in mainland China, drawn by lower prices and wider adoption of digital payments, according to data from payment giant UnionPay International. Offline UnionPay card spending in mainland China by H
@@ -143,18 +167,6 @@ Hong Kong is reaping rewards from a charm offensive with Malaysia as it works to
 
 ## HSBC summit turns future trends into wealth strategies
 [The content of this article has been produced by our advertising partner.] As AI breaks out of chatbots and into what is now called Physical AI, investors need to rethink how portfolios should be built, protected and put to work. Growth opportunities are being created across tech, mobility, consume
-
-## Zhongji sets highest subscription threshold in Hong Kong IPO history
-Zhongji Innolight, the largest IPO in Hong Kong in nearly seven years, has set the highest subscription threshold in the city’s history, dampening retail investors’ appetite, though institutional demand remains strong, with multiple oversubscriptions already placed, according to people familiar with
-
-## AI trade keeps capital – and risks – flowing to emerging markets
-For the most dramatic change in a benchmark index in financial markets in recent years, look no further than the stock markets of developing economies. Just over a year ago, mainland China and India had a combined weight of 50 per cent in the MSCI Emerging Markets Index. Fast forward to today, and i
-
-## Alibaba unit says 5-in-1 AI gives robots unified brain, body and limbs
-Alibaba Group Holding’s mapping unit has unveiled an upgrade to what it calls the world’s first technology framework that unites a robot’s “feet, hands, brains, central nerves and motor nerves” into a single system. Amap’s ABot system marks the latest move in Chinese tech players’ race to harness ar
-
-## Chinese funds cut Hong Kong stock holdings to 2-year low despite strong southbound flow
-Chinese mutual funds have reduced their Hong Kong stock holdings via the southbound Stock Connect to a more than two-year low in the second quarter, despite a lot of money moving southward over the same period. The share of Hong Kong stocks in their portfolios fell to 23.3 per cent in the second qua
 
 ## Is Cuba Trump’s Next Target?
 The regime in Havana is increasingly in the Trump administration’s crosshairs.
@@ -180,6 +192,9 @@ Ma Xingrui’s fall shows how deep personnel problems run.
 ## Trump Is Triggering a Middle East Nuclear Arms Race
 His deal to provide nuclear technology to Saudi Arabia encourages weaponization.
 
+## Hong Kong’s National Security Law Comes for the Bookstores
+The reorientation – and restriction – of the city's once-vibrant civil society continues.
+
 ## Nepali PM Balendra Shah’s Image as a Change Agent is at Risk
 Shah has shown less concern for the health and wellbeing of the poor, and is preoccupied with appearing as a ruthless executor of public plans.
 
@@ -200,9 +215,6 @@ The fighting between Iran and the United States is set to have “immediate and 
 
 ## Malaysia Must Reject Hate and Confront Myanmar Over the Rohingya Crisis
 Prime Minister Anwar Ibrahim’s government has largely remained silent about the recent online "hate campaign" targeting Rohingya refugees.
-
-## Philippine, Chinese Foreign Ministers Exchange Protests Over South China Sea Clash
-Both nations have accused the other for instigating the incident at Second Thomas Shoal, which has overshadowed this week's ASEAN meetings in Manila.
 
 ## Chaotic Progress: European NATO’s Quest for Stronger Defense
 In 2024, Max Bergmann wrote, “NATO Missed a Chance to Transform Itself,” where he argued NATO’s leadership needs to facilitate a strong European pillar of the alliance through structural reforms in European institutions. Two years later, we asked Max to revisit his arguments.Image: The White House v
@@ -252,32 +264,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How the Houthi Red Sea blockade will impact the world
-The Houthis' blockade of Bab al-Mandeb threatens a vital global trade route.
+## US launches 13th night of strikes as Iran warns of escalation in the Gulf
+Al Jazeera’s Tohid Asadi reports from Tehran as the US launches strikes for the 13th consecutive night.
 
-## Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque
-Israeli settlers' storming of Islam's holy site fuels 'hatred' and obstructs lasting peace, joint statement says.
+## ‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads
+Health workers in the DRC battle a range of obstacles, from infection risk to angry mob attacks.
 
-## Is this Italy’s ‘George Floyd moment’?
-The death of Moroccan-born Abderrahim Fakir after he was restrained by police in Bologna has sparked protests.
+## US court affirms release of pro-Palestine scholar as legal battle continues
+Appeal judges' decision to side with Georgetown's Badar Khan Suri against Trump sets up Supreme Court intervention.
 
-## US war on Iran: The $110 billion price tag
-America's war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.
+## Ukraine’s Zelenskyy meets with far-right US activist Laura Loomer
+Pro-Israel Trump ally sits down with Ukrainian president as she says Russia is helping Iran kill US soldiers.
 
-## Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf
-The US president's threat comes after another day of Iranian attacks on Bahrain, Kuwait and Jordan.
+## Mike Waltz pressed over Al Jazeera video during congressional hearing
+Ted Lieu challenges UN Ambassador Mike Waltz after playing Al Jazeera footage of Iranian strikes in Jordan.
 
-## US-Saudi nuclear deal hinges on normalisation with Israel
-President Trump said a proposed US-Saudi civilian nuclear deal is subject to Saudi Arabia joining the Abraham Accords
+## Trump imposes new double-digit tariffs on dozens of countries
+With existing 10 percent levies set to expire, Trump issues new tariffs on 60 countries under forced labour provision.
 
-## Rally attendee steals the show by mimicking Trump’s gestures
-A rally attendee seated directly behind Trump drew attention by mimicking the president.
+## Analyst: voting against Iran war funding a tough sell for Congress
+The US says it has spent more than $37.5 billion on the Iran war so far.
 
-## France wildfires force evacuation of over 20,000 people from tourist town
-About 800 firefighters and hundreds of gendarmes and soldiers deployed to battle the flames west of Bordeaux.
+## Israel bombs Gaza after displacement orders, kills two Palestinians
+Humanitarian situation in Gaza is 'desperate', UN official says, as Israeli violations of 'ceasefire' intensify.
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
+
+## JSA Boardroom Connect Chennai Edition to examine India's evolvingmanufacturing regulatory and governance landscape
+The JSA Boardroom Connect in Chennai, scheduled for July 24, 2026, will bring together CXOs, legal, finance, and compliance leaders for a closed-door discussion on "The Indian Manufacturing Paradigm: The Evolving Regulatory & GovernanceLandscape."
 
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
@@ -296,9 +311,6 @@ Non-resident Indians residing in Singapore and the United States are expressing 
 
 ## Axis Bank appoints Rajeev Mantri as new finance chief, replacing Puneet Sharma
 Axis Bank welcomes Rajeev Mantri as its new finance chief, marking a pivotal moment in its leadership. With almost thirty years of expertise, previously as Chief Financial Officer at Bandhan Bank, Mantri steps into this role amidst a broader trend of significant transformations in India’s banking la
-
-## JPC weighs key changes to Corporate Laws Bill, reviews AIF-to-LLP conversion and CSR norms
-A parliamentary panel is examining changes to corporate law amendments. Investors may become partners in newly formed LLPs instead of trustees. The committee also debates proposed relaxations in corporate social responsibility norms. A framework for overseas companies to re-domicile in India is unde
 
 ## India in strongest credit growth phase since 2012 on robust corporate demand: Report
 India's credit expansion is currently its strongest since 2012. Corporate loan growth reached a thirteen-year high in May. Household loan growth has also remained resilient for four months. Non-banking financial companies saw retail loan growth accelerate significantly. Overall credit demand is expe
