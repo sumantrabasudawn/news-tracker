@@ -1,10 +1,34 @@
 # AION Intelligence
 
+## Wildfires force evacuation of Cap Ferret resort on Atlantic coast
+Tens of thousands ordered to safety in France and Spain as Madrid declares national emergency
+
+## Israel prepares ‘major’ West Bank operation after violent clash
+Benjamin Netanyahu orders ‘forceful’ response to deadly confrontation between Jewish settlers and Palestinians
+
+## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
+US tech groups and investors respond to calls for restrictions on advanced Chinese technology
+
+## The Victorians have some lessons for Burnham on radical devolution
+Britain needs the social and economic glue of local power
+
+## Yang Zhilin, the rock star founder behind China’s Moonshot AI
+Known as ‘Yang the genius’ by classmates, his new K3 model has closed the gap with leading US rivals
+
+## Police seize sophisticated bomb near Northern Irish border
+‘Radicalised republicans’ ready to mount attacks, police chief warns
+
+## Airbus and Boeing push to boost production to tackle record order backlogs
+Planemakers look to shake off supply-chain problems that have hampered output
+
 ## Carmakers are the rare example of tariffs as the least bad option
 Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists
 
-## Zooming in on UK growth
-Maps power
+## Meta faces higher borrowing costs in latest $12bn data centre financing
+BlackRock-led deal meets investor anxiety over rising AI exposure
+
+## Commerzbank chair calls for talks with UniCredit after takeover battle
+Jens Weidmann’s comments signal shift to more conciliatory tone from German lender
 
 ## In praise of the free flow of human ingenuity
 Apple is suing OpenAI for alleged theft but Silicon Valley is founded on the exchange of ideas
@@ -12,56 +36,38 @@ Apple is suing OpenAI for alleged theft but Silicon Valley is founded on the exc
 ## Submit your questions: Has the market lost its mind over AI?
 Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore on Thursday July 30 at 1pm (BST)
 
-## When a president’s thoughts are for sale
-Trump is openly monetising privileged access to his musings
-
-## Trump’s trade war shifts from shakedown to lock-in
-The administration wants to ensure the US ‘gets paid’ for the superpower services it provides to the world
-
-## Ukraine opens probe into defence event after deadly Russian strike
-Rare daytime missile attack on Kyiv killed at least 10 people on Friday
-
-## Burnham’s economic vision
-Plus: Can ‘Brand Burnham’ survive contact with No 10?
-
-## Meta faces higher borrowing costs in latest $12bn data centre financing
-BlackRock-led deal meets investor anxiety over rising AI exposure
-
 ## BP nears deal to sell solar business Lightsource to Kuwait-backed group
 Qualitas Energy and investment arm of sovereign wealth fund in advanced talks to purchase renewables business
 
 ## South East Water secures £200mn liquidity boost
 Cash-strapped British utility says financing will be used to help future bond issuance
 
-## Renewable jet fuel producer Neste swings to profit after Iran war sends prices soaring
-Airlines and industrial buyers look for supplies safe from continuing turmoil
+## Crypto exchanges hail government’s SRO proposal as most ‘practical’ interim measure for VDA
+These regulatory bodies will operate under regulatory oversight until the government introduces a comprehensive framework
 
-## FirstFT: US hits 60 countries with new tariffs
-Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel
+## Supreme Court to hear petitions alleging police violence against student protesters
+Expressing concern over the reportage, the Chief Justice said sections of the media had engaged in “reckless” reporting
 
-## AI productivity offsets wage hikes, supports IT margins in Q1
-Experts say AI models help firms optimise their workforce and utilisation
+## Lord’s Mark Industries to issue shares at ₹158 apiece
+Lord’s Mark Industries will issue over 10.28 lakh equity shares to Bennett, Coleman and Co at ₹158 apiece, signalling institutional confidence in its growth strategy
 
-## Cabinet clears Bill prescribing up to 10-year jail, up to ₹10 crore fine for paper leak convicts
-Proposed amendments strengthen anti-paper leak law with stricter punishment and speedy prosecution mechanisms
+## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
+Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
 
-## ACC net down 60% in Q1 on higher cost, lower volumes
-The company said the profitability reflected the impact of planned maintenance at larger integrated units and a higher master supply agreement with the parent firm Ambuja Cements
+## Danfoss India partners IITs to train power electronics engineers
+The initiative will train 30 engineering graduates annually with hands-on skills in power electronics, semiconductors and electric mobility
 
-## Bank of Baroda’s Q1FY27 profit drops 72% due to a one-time NMC Group settlement
-Excluding the aforementioned impact of ₹Rs5,680 crore, the public sector bank’s net profit would have been ₹Rs5,528 crore
+## Telangana releases ₹740 crore for 1,569 rural health sub-centres
 
-## Karnataka announces Bengaluru Tech Summit 2026, launches Innoverse Foundation for DeepTech startups
-Bengaluru Tech Summit 2026 will focus on emerging technologies including AI, DeepTech, semiconductors, biotechnology, fintech, spacetech and digital infrastructure.
 
-## CMI seeks closer industry partnerships in AI, mathematical sciences
-Soumya Swaminathan, Chairperson, MS Swaminathan Research Foundation, speaking at the event urged graduates to use their scientific training to address real-world challenges and ensure that the benefits of science reach those with fewer opportunities
+## IT firms post robust Q1 deal wins, face slower revenue realisation
+Despite robust deal wins, India’s IT firms are seeing slower revenue conversion as clients phase project execution and increasingly opt for outcome-based pricing
 
-## Fractal Analytics net profit grows 92% to ₹72.3 crore in Q1
-Operating revenue was up at ₹912.5 crore, a growth of 20 per cent year-on-year
+## Alan Scott Enterprises appoints Shailesh Haribhakti as Group Chief Mentor
+Haribhakti is widely considered one of India’s foremost authorities on corporate governance, institution-building and responsible leadership
 
-## Engineering leads industry-wise bank credit growth at 17% CAGR as capex gathers pace
-This was followed by gems and jewellery (12.4 per cent), petroleum, coal products and nuclear fuels (11.5 per cent) and other industries (11.4 per cent).
+## US stocks today: Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat
+Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms 
 
 ## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
 The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
@@ -84,55 +90,52 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 ## 10% US tariff on India: What it means for the country's exports
 United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
-## 'No need to respond in advance': Canadian PM Mark Carney rules out retaliatory tariffs before Aug 19
-Canada will not retaliate in advance against proposed US tariffs, preferring negotiations. Prime Minister Mark Carney stated that premature action would be counterproductive at this stage. Ottawa is intensifying efforts to strike a comprehensive trade agreement with the United States. Canada has not
+## Monsoon, not India: MEA cites Pak’s advisory to rebut its ‘baseless’ flood claim
+The flood advisory in Pakistan said that the high flows at Marala were expected to persist before gradually receding as rainfall over the catchment increased
 
-## Massive boulder crushes vehicle in Himachal Pradesh, kills 13 including infant
-Deputy Commissioner Kiran Bhadana said the vehicle was buried under debris following a landslide and rockfall incident on the Sansari Nala-Killar-Thirot-Tandi road
+## How NHAI's new toll fee collection formula could make your highway journey cheaper
+The revised formula will apply to highway stretches containing one or more independent bridges, tunnels, flyovers or elevated highways.
 
-## ‘China in illegal occupation of Indian territories since 1963’: MEA on India's stance on sovereignty question
-“When it comes to sovereignty issues, it is actually India that should be and is raising them,” MEA Spokesperson Randhir Jaiswal said at a press briefing.
+## 13 killed after landslide rocks hits car in Lahaul-Spiti, CM expresses grief
+At least 13 people were killed after a rockfall struck a Tata Sumo vehicle near Kahudu Nala in Himachal Pradesh's Lahaul-Spiti district on Friday, police said.
 
-## ‘Energy here is truly crazy’: Nisarga Adhikary, who hacked CBSE's exam portal, joins CJP's Jantar Mantar protest
-Nisarga posted on X a photo with CJP founder Abhijeet Dipke and NCP (SP) spokesperson Anish Gawande. “The energy here is truly crazy,” he wrote.
+## A look at most common income tax penalties as ITR filing deadline approaches
+Any delays past the July 31 deadline, omissions, errors, incorrect disclosures or non-compliance can result in additional financial liabilities.
 
-## Mumbai model Rhiya Ahir who blocked police van says cops were 'respectful' towards her
-Rhiya Ahir said she had not slept for two nights, thinking about the students who continue to participate in the movement.
+## Who is Vineet Joshi? Top bureaucrat removed as higher education secretary amid NEET row
+The Centre has removed higher education secretary Vineet Joshi amid controversies including NEET-UG paper leaks.
 
-## CCEA approves railway line expansion project in Karnataka, Andhra
-The capacity enhancement will improve rail connectivity to several prominent tourist destinations across the country, including Ballari Fort, Sri Kumara Swamy Temple
+## Union minister Ravneet Singh Bittu quits post, President accepts resignation
+On the advice of Prime Minister Narendra Modi, Bittu's resignation was accepted by President Droupadi Murmu, with immediate effect.
 
-## Punjab Roadways contractual workers announce three-day strike from Aug 3
-The union said rallies would be organised at all depots across the state on July 27 before the state-wide strike.
+## CJI Surya Kant promises justice to youth, says Supreme Court doors are open 24 hours a day
+“The doors of the Supreme Court are open 24 hours a day for every citizen. The court will not allow injustice to prevail,” CJI Surya Kant said
 
-## Six policemen injured in clash with villagers in Chhattisgarh’s Surajpur: Cop
-Addl SP Yogesh Dewangan said they had anticipated resistance and deployed a large police contingent for the operation.
+## ‘Baseless’: India rejects reports of ‘deliberate’ flooding as water level rises in Chenab; cites Pak’s weather advisory
+MEA spokesperson Randhir Jaiswal added that Pakistan had itself earlier attributed the high water levels in the Chenab River to heavy rainfall.
 
-## Rahul Gandhi shows student's wounds on camera, claims pellet guns used during Jantar Mantar protest
-Rahul said that the pellet guns had been used while the students were protesting holding the Indian tricolour.
-
-## Mayank Yadav passes first Test with flying colours, but bigger challenges await
+## What happened to Madhu Sapre? The Miss India whose ad with Milind Soman sparked outrage
 
 
-## Pradhan resignation key, non-negotiable: CJP; Govt says more talks today
+## 294.6 mm in 24 hours: Ahmedabad city records fourth highest rainfall in its history
 
 
-## A 12-year-old’s vision problem revealed a surprising cause: Frequent eye rubbing
+## Make up for lost days by working on public holidays, South Gujarat schools told
 
 
-## Centre plans standard design for bullet train network across 7 new corridors
+## After Anantnag attack, Amit Shah tells slain policeman’s family: ‘His courage will remain etched in memory’
 
 
-## UPSC Key: Fast Track Courts, Virtual Digital Assets and KUSHA Project
+## 13 killed as falling boulders crush moving vehicle in Himachal Pradesh’s Lahaul-Spiti
 
 
-## How a food delivery rider became a literary star, and what it says about China
+## ‘I cried’: Shekhar Suman calls out police action against student protesters at Jantar Mantar
 
 
-## Youth protests: How Indian states’ expenditure on education has declined over 12 years
+## Rohit Sharma’s Lord’s century didn’t answer India’s real question
 
 
-## India has the talent. So why do so many still choose to build elsewhere?
+## Pune CNG dealers threaten sales halt, blame gas supplier for pressure issue
 
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
@@ -159,6 +162,9 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
+## How a U.S. Ground Operation in Iran Could Unfold
+Military experts said limited raids could happen, but a large-scale invasion is unlikely.
+
 ## Trump’s Men in the Middle East
 Washington is betting on strongmen and strong states to advance its interests in a chaotic region. But will it work?
 
@@ -179,9 +185,6 @@ Beijing may be closing the gap with Washington in the AI race.
 
 ## Odysseus at the End of Civilization
 Nolan’s film confronts the betrayal of the West’s own values.
-
-## There’s Only One Way Out of Trump’s Reckless War
-Pay off Iran to open Hormuz and freeze its nuclear program.
 
 ## Jakarta, the Sinking Metropolis Where Millions Still Struggle to Access Piped Water
 Excessive groundwater extraction by households and industry is one of the primary reasons for the city's subsidence.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Senegal gets CAS date for appeal to regain AFCON from Morocco
-Senegal given October date by CAS for appeal to regain AFCON title won in chaotic final against Morocco in January.
+## ‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs
+Countries question Trump administration's latest round of tariffs, which relate to forced labour claims.
 
-## World Cup hero Rodri to undergo back surgery before Man City’s new season
-Spain and Man City midfielder Rodri will need surgery and rest before returning to the club, new coach Maresca said.
+## Yemen’s valleys and farms are full of dangerous plastic waste
+Yemen's eastern Wadi Dawan valley is picturesque, but on closer inspection the scourge of plastic waste is clear to see.
 
-## What to know about the White House Correspondents’ Dinner, take two
-Perennially controversial dinner is back, with Trump set to attend, after a gunman derailed the proceedings in April.
+## LeBron James is heading to the Philadelphia 76ers from Los Angeles Lakers
+James's move comes after saying he was 'done' after his 23rd NBA season and it was his last with Los Angeles Lakers.
 
-## Indian student protests: What’s next after Modi’s promise on exam leaks?
-Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan.
+## Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers
+Congress Party holds ‘funeral’ for India PM Modi and cabinet ministers.
 
-## Five killed in occupied West Bank after Israeli settlers attack
-Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till
+## LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead
+Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.
 
-## US summons Malaysia envoy over Israel policy
-Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.
+## Netanyahu to meet Trump at White House next week amid Iran war escalation
+Visit will be Netanyahu's seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.
 
-## Bangladesh President Mohammed Shahabuddin resigns
-Shahabuddin, 76, cited health reasons for leaving two years before his five-year term was meant to expire.
+## Israel builds Gaza barrier as politicians push for settlements
+Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.
 
-## Spain declares national emergency over wildfires
-At least 10,000 people have been evacuated following wildfires in the central region of Madrid.
+## ‘I lost my home twice’: Sudanese mothers caught between two wars
+Sudanese mothers who fled one war now face another, struggling to rebuild their lives after displacement in Lebanon.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
