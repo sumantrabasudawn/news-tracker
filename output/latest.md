@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread
+Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
+
+## US tech groups cut 140,000 jobs despite AI spending boom
+Investment spree is reshaping Silicon Valley while wider US jobs market holds steady
+
 ## Waymo explores split with Uber as robotaxi tensions deepen
 Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles
 
@@ -18,11 +24,8 @@ Chair Kevin Hollinrake says would-be MPs need to endorse leader Kemi Badenoch’
 ## Healey under pressure to raise taxes or cut UK spending as fiscal headroom shrinks
 US-Iran war and new spending commitments threaten to cut buffer to as little as £7bn, economists estimate
 
-## Modi struggles to calm Indian students’ anger over exam leaks
-Protests in cities swell despite late-night video message from premier
-
-## Police seize sophisticated bomb near Northern Irish border
-‘Radicalised republicans’ ready to mount attacks, police chief warns
+## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
+Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
 
 ## Directors’ Deals: Fevara non-executive chair beefs up stake
 Livestock supplement producer has refocused in the past year
@@ -35,15 +38,6 @@ Attacks from Iranian-backed Houthi rebels threaten further disruption to global 
 
 ## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
 US tech groups and investors respond to calls for restrictions on advanced Chinese technology
-
-## Meta faces higher borrowing costs in latest $12bn data centre financing
-BlackRock-led deal meets investor anxiety over rising AI exposure
-
-## Commerzbank chair calls for talks with UniCredit after takeover battle
-Jens Weidmann’s comments signal shift to more conciliatory tone from German lender
-
-## Airbus and Boeing push to boost production to tackle record order backlogs
-Planemakers look to shake off supply-chain problems that have hampered output
 
 ## REC posts net profit of ₹4,193 in Q1 FY27
 The infrastructure and logistic portfolio has grown to ₹59,289 crore, which is over 10 per cent of the overall loan assets, REC noted.
@@ -93,13 +87,19 @@ India imported over 32 lakh tonnes of key fertilizers during the first quarter. 
 ## 10% US tariff on India: What it means for the country's exports
 United States imposed a ten percent tariff on Indian goods, offering some relief. Economists believe the immediate impact on India's exports will be limited. Reducing dependence on single markets and broadening global reach is crucial. Certainty after months of shifting proposals is a positive devel
 
+## Haryana restored defrauded money to victims five times more than national rate: Officials
+Haryana restored defrauded money to victims five times more than national rate: Officials
+
+## UP CM directs foolproof arrangements for Kanwar Yatra
+UP CM directs foolproof arrangements for Kanwar Yatra
+
 ## Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
 Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
 
 ## Sonam Wangchuk hits back at 'deal with govt' allegations after breaking 26-day fast: 'Do I need to prove my sincerity?'
 Sonam Wangchuk has denied allegations that he struck a 'deal' with the government to end his 26-day hunger strike.
 
-## Narendra Modi 'thanks friends' in Instagram reel after paper leak selfie video
+## PM Modi 'thanks friends' in Instagram reel after paper leak selfie video
 Prime Minister Narendra Modi thanked young viewers through a new Instagram reel following his paper leak message amid continuing student protests nationwide.
 
 ## Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
@@ -111,11 +111,11 @@ MV Omorfi, a bulk carrier with a crew of 10, including three Indian nationals, w
 ## Govt fact-checks Pradhan's altered clip: 'Circulated by Pak propaganda accounts'
 PIB Fact Check clarified that the video had been digitally altered using artificial intelligence and was being circulated by Pakistani propaganda accounts.
 
-## After DU and JNU, Jamia Millia Islamia's appeal to students amid CJP protest
-While DU and JNU directly warned students and faculty of legal consequences and asked them to stay away from the ongoing protest, JMI issued an indirect appeal.
+## CWG 2026: Para powerlifter Jhandu Kumar wins bronze in heavyweight category
 
-## Nirmala Sitharaman's remarks on paper leaks sparks row, Opposition, CJP criticise her
-Sitharaman suggested that while paper leaks initially hurt hardworking students, some candidates used extra time before re-exams to improve their preparations.
+
+## ‘To maintain law & order’, liquor shops in Delhi to shut by 8 pm until Sunday
+
 
 ## CWG 2026: Jadumani Singh’s 5kg gamble pays off, enters Round of 16
 
@@ -133,12 +133,6 @@ Sitharaman suggested that while paper leaks initially hurt hardworking students,
 
 
 ## Sameera Reddy recalls being told to wear bum pads: Experts on lasting impact of body shaming
-
-
-## 28 Indian crew members safe after LPG tanker attacked in Iranian waters, Embassy confirms
-
-
-## Attack on checkpoint in Pakistan’s Khyber Pakhtunkhwa kills 15 security personnel, 12 militants dead in retaliatory fire
 
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
@@ -165,6 +159,12 @@ US global asset managers, including BlackRock, have expanded stakes in mainland 
 ## Securities watchdog to channel more medium- and long-term capital into China markets
 China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
+## Andy Burnham and the New Manchesterism
+The economic philosophy of Britain’s latest prime minister.
+
+## Ukraine’s Cardboard Maidan Shows That the People Still Matter
+Mass protests forced Zelensky to reverse course on the firing of a popular minister.
+
 ## Riding the Greenland Ferry
 Traveling along the coast, Greenlanders explain what the world misunderstands about their island.
 
@@ -182,12 +182,6 @@ Targeting civilian infrastructure is a foolish and cruel error.
 
 ## How a U.S. Ground Operation in Iran Could Unfold
 Military experts said limited raids could happen, but a large-scale invasion is unlikely.
-
-## Trump’s Men in the Middle East
-Washington is betting on strongmen and strong states to advance its interests in a chaotic region. But will it work?
-
-## The End of Elections in Nicaragua
-Ortega’s announcement underscores the waning influence of pro-democracy pressure in Latin America.
 
 ## What a Stray Dog’s Murder Tells us About Chinese Civil Society
 Wang Wang has appeared on billboards around the world – visible proof that China’s censorship does have limits.
@@ -261,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settlers escalate attacks on Palestinians near Nablus
+Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus
+
+## Venezuela to exit International Criminal Court, accusing it of ‘bias’
+Announcement comes as Venezuela has hewed close to Trump administration, who has pledged to'disable' international court.
+
+## Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media
+This is a breaking news story.
+
+## Canada marks Gordie Howe bridge opening without US after trade war deepens
+Canada cancelled planned cross-border ribbon-cutting ceremony and the milestone opening was only among Canadians.
+
+## Who is Afrah al-Zouba, Yemen’s first female foreign minister?
+In a historic first, Afrah al-Zouba was appointed Yemeni foreign minister on July 23.
+
+## Wildfire survivors tell of narrow escape as Spain declares emergency
+More than 10,000 people have been forced to evacuate as firefighters struggle to contain wildfires in central Spain.
+
 ## Car bomb attack kills 27 in northwest Pakistan
 The Pakistani Taliban said four suicide bombers carried out the assault in the country's northwest.
 
 ## ICC prosecutor Khan removed over ‘politicised’ sex abuse claims: Sources
 Khan's team claim the case is a reaction to his pursuit of an arrest warrant against Israel’s Benjamin Netanyahu.
-
-## US school shooter pleads guilty in Georgia following father’s conviction
-Colt Gray pleads guilty to killing two students and two teachers in 2024 attack, which upped scrutiny of parental role.
-
-## Oman talking with Tehran on Hormuz as US and Iran continue strikes
-Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.
-
-## Trump’s Israel condition on Saudi nuclear deal
-Trump’s Israel condition on Saudi nuclear deal
-
-## Huge crater after back-to-back Israeli strikes on Gaza refugee camp
-Huge crater after back-to-back Israeli strikes on Gaza refugee camp.
-
-## Israel raids hospital, shuts off Nablus following deadly settler attack
-Israel has arrested wounded Palestinians in a hospital as it shuts off Nablus following Friday’s deadly settler attack
-
-## Romanian jet fighter shoots down suspected Russian drone
-The incident adds to concern that Moscow’s war on Ukraine risks spilling over to entangle neighbouring NATO states.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
