@@ -45,29 +45,29 @@ Unlike the 1970s, there is a conversation to be had here
 ## Dropping quarterly company reports in US may not be a bad thing
 Despite backlash against SEC, it could be beneficial if done in the right way
 
+## IT’s a chasm between management and investors
+Despite bullish AI rhetoric, tepid growth and shrinking margins show IT services giants must prove their strategic relevance
+
 ## Should investors subscribe to Lohia Corp’s IPO?
 Lohia Corp’s cheap P/E multiple is offset by its exposure to cyclical end-market capex demand
 
-## Mass protests in India: Here’s a timeline of agitations over the last two decades
-The ‘cockroach’ movement is the latest in India’s long history of hitting the streets
+## Indo-MIM IPO: Should investors subscribe?
+At around 45 times trailing earnings, Indi-MIM’s long-term growth prospects appear to be already factored in
 
-## Silver, Shanghai Composite and the technicals of it
-Silver can also remain stuck in a wide sideways range if it follows the path of Shanghai Composite index
+## Tulsian, Asit C Mehta, ICICI Pru, Green Lantern, Sundaram: Here’s how top PMSes delivered alpha to investors
+PMS investing is primarily a manager-selection decision, not merely a choice between large-cap, mid-cap or small-cap strategies. A concentrated portfolio can produce exceptional alpha when the manager is right, but it can magnify stock-specific losses, drawdowns and tax costs when the calls go wrong
 
-## AU Small Finance Bank’s Q1FY27 net profit up 37% at ₹796 cr
-Net interest margin (NIM) rose to 5.9 per cent in Q1FY27 from 5.4 per cent in the year ago quarter
+## What they say on their India plans
+Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
 
-## Isuzu signs five-year pact with Kamarajar Port for vehicle exports
-Isuzu Motors India will receive concessional wharfage rates linked to export volumes for the next five years, a move aimed at enhancing the competitiveness of vehicle exports through the port
+## Who Am I? July 26, 2026
+Are you an avid investor? How well do you know corporate India?
 
-## Power Engineers’ Federation opposes Govt’s parallel distribution licence proposal
-AIPEF calls proposal ‘backdoor privatisation’ of electricity distribution
+## Government has to work on right regulations for V2X technology: Carmakers
+The Department of Telecommunications last month de-licensed spectrum bands for automotive radar and vehicle-to-everything (V2X) communications
 
-## Q1 Results Today Highlights: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
-Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
-
-## F&O Query: Analysis of GVT&D and Kaynes Technology options
-Bearish outlook suggests exiting or holding positions strategically
+## PhonePe FY26 revenue rises 11% to ₹7,920 crore; net loss widens 62% ahead of IPO
+Revenue in the second half rose to about ₹3,746 crore, indicating stronger business momentum during the latter part of the year
 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
@@ -93,6 +93,12 @@ The Union cabinet approved a Rs 1,264-crore railway project for new lines. This 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
 
+## The faces of CJP movement that drove big change: Boston graduate, IITian, JNU scholar, investigative journalist
+With education minister Dharmendra Pradhan's resignation and the government agreeing to other key demands, the CJP has now called off its 36-day protest.
+
+## 'Never asked for favor from government': Zoho's Sridhar Vembu defends X post backing Pradhan amid online backlash
+Sridhar Vembu asserts that his advice is free from political bias and remains steadfast amid criticism.
+
 ## EPFO urges employers to avail EEC-2026, Amnesty, Vishwaas schemes; highlights digital reforms under EPFO 3.0
 The EPFO has launched new compliance initiatives, including EEC-2026 and the Vishwaas and Amnesty schemes, aimed at expanding employee benefits.
 
@@ -111,34 +117,28 @@ Punjab's Mukh Mantri Mawan Dheeyan Satkar Yojana has directly transferred ₹1,1
 ## Dharmendra Pradhan resignation: AAP calls it victory for democracy, demands education reforms
 The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradhan as a triumph for democracy, attributing it to relentless student protests.
 
-## ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to CJP's Abhijeet Dipke to visit Bihar
-Tej Pratap Yadav made the appeal on social media shortly after the CJP called off its protest in Delhi.
-
-## Uttarakhand CM approves ₹62 crore for development works, Kumbh 2027 preparations and scholarships
-Uttarakhand has sanctioned over ₹62 crore for development projects, including Kumbh Mela 2027 preparations and scholarships for ex-servicemen's children.
-
-## Gymnast Swathish’s journey: From losing his way to finding joy on Still Rings
+## 40 killed in Gujarat; Army & police rescue hundreds stranded in flooded industrial park, warehouse on Sarkhej-Bavla highway
 
 
-## We, the students, looked fear in the eye
+## India at CWG 2026 Day 4 Schedule: Full list of Indian athletes in action on Sunday
 
 
-## Mamata joins students’ protest after High Court bars TMCP rally, says cops attacked her
+## A national-level basketball player, Army officer’s son dies as car falls into drain in Delhi
 
 
-## Triumph, euphoria at Jantar Mantar: ‘We took his resignation, (he) didn’t give it’
+## ‘We have done it,’ CJP founder breaks the news at protest site, says ‘youth will talk about jobs, the future’
 
 
-## UPSC Weekly Current Affairs Quiz (July 19 – July 25): 10 key questions with detailed answers for Prelims 2027
+## Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained
 
 
-## Kajal Aggarwal on postpartum body shaming: ‘Arey, you have become so thin’
+## All about Rabdentse Ruins, the ‘Machu Picchu of India’
 
 
-## July nightmare: Frequent power cuts plague Pimpri-Chinchwad
+## The Prez who lifted, the PM who bowled — when heads of state compete at CWG
 
 
-## Youth power pulled country from shadow of fear which is greatest achievement: Uddhav Thackeray
+## ‘As No.3 batter, once you’re set, you want to make it count’: Ishan Kishan
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -261,6 +261,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran’s government spars with state TV as mediators push talks with US
+Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.
+
+## Worker dies during reconstruction of Barcelona’s Camp Nou Stadium
+Barcelona offer condolences to family of a 54-year-old man who died during Camp Nou redevelopment after blow to head.
+
+## India win second T20 in Zimbabwe to take series as Kishan and Varma shine
+Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.
+
+## ‘We have done it’: Joy as ‘Cockroach’ protests push India minister out
+Education Minister Dharmendra Pradhan resigns after youth-led protests over exam leaks rattle PM Modi's government.
+
+## Syrian FM calls for Israeli withdrawal in meeting with UN chief
+Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria
+
 ## The Battle Over Al-Aqsa
 What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?
 
@@ -269,21 +284,6 @@ The education of millions of children is at risk because of the current global f
 
 ## Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG
 Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.
-
-## War on Iran: Phase II: Day 14
-War on Iran: Phase II: Day 14
-
-## F1 needs better balance between business and sport, says Norris
-Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.
-
-## What’s behind the ICC investigation into Karim Khan?
-Lawyers for the ICC’s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt
-
-## Iran blames US for Hormuz dispute as both sides confirm ongoing talks
-Iran reports no new US strikes overnight into Saturday for the first time in two weeks.
-
-## Baby rescued after Israeli settlers set home on fire amid raids
-A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
