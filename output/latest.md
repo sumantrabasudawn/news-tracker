@@ -1,5 +1,14 @@
 # AION Intelligence
 
+## Top Democrat says Trump administration is worsening chip shortage
+Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
+
+## Brazil denies visas to US officials over alleged election interference
+Government claims Trump appointees sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
+
+## Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine
+Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks
+
 ## France and Spain evacuate 260,000 as ‘unprecedented’ wildfires spread
 Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux
 
@@ -14,18 +23,6 @@ Gathering to consider forming an international maritime coalition to safeguard s
 
 ## Maha Inc: how companies tied to Kennedy’s movement are poised to benefit
 Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul
-
-## Investors increase bets on Federal Reserve rate rise after oil price surge
-Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say
-
-## Macron and Merz move on from fighter jet heartbreak
-The threat of a Le Pen presidency has provided an incentive for Paris and Berlin to come together
-
-## US immigration enforcement caught between Trump and public backlash
-Killings by ICE agents undermine support of voters but White House doubles down on deportation policy
-
-## Top Democrat says Trump administration is worsening chip shortage
-Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
 
 ## Intern arrested on suspicion of spying at Nato military HQ
 Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
@@ -93,6 +90,9 @@ The Union cabinet approved a Rs 1,264-crore railway project for new lines. This 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
 
+## Intent of infiltrators hasn’t changed since 1999 conflict, says Rajnath in Dras
+Intent of infiltrators hasn’t changed since 1999 conflict, says Rajnath in Dras
+
 ## Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
 Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
 
@@ -113,9 +113,6 @@ In Punjab, women are central to the anti-drug campaign as they support recovery 
 
 ## Former Uttarakhand constable accused of aiding gangster in land grab case, threatening widow to withdraw complaint
 A former Uttarakhand constable has been implicated in a sinister land-grab operation linked to jailed gangster Praveen Valmiki.
-
-## Punjab women praise DBT model as ₹1,149 crore reaches beneficiaries under Mukh Mantri Mawan Dheeyan Satkar Yojana
-Punjab's Mukh Mantri Mawan Dheeyan Satkar Yojana has directly transferred ₹1,149 crore to nearly 33 lakh women, revolutionizing welfare delivery.
 
 ## Global Gen Z protest movement: Which countries saw youth-led demonstrations
 
@@ -261,6 +258,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Head of Hamas-led police in northern Gaza killed by Israeli strike
+Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.
+
 ## At least 35 killed after two buses collide in eastern Syria
 At least 35 killed after two buses collide in eastern Syria
 
@@ -281,9 +281,6 @@ Barcelona offer condolences to family of a 54-year-old man who died during Camp 
 
 ## India win second T20 in Zimbabwe to take series as Kishan and Varma shine
 Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.
-
-## ‘We have done it’: Joy as ‘Cockroach’ protests push India minister out
-Education Minister Dharmendra Pradhan resigns after youth-led protests over exam leaks rattle PM Modi's government.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
