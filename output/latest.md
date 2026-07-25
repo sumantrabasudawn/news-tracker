@@ -1,25 +1,37 @@
 # AION Intelligence
 
-## Law student charged after sophisticated bomb seized near Northern Irish border
-‘Radicalised republicans’ ready to mount attacks, police chief warns
+## Guy Scott, former president of Zambia, 1944-2026
+The academic and farmer was the first and only white man to lead an African democracy
 
-## ICC ousts chief prosecutor Karim Khan after misconduct probe
-Member nations vote to remove him after allegations of sexual misconduct, which he has denied
+## India’s ‘Cockroach’ Gen Z has had enough
+The irreverence of the country’s youth brings to light the contrast between government promises and economic reality
+
+## Overpriced UK homes take ‘more than four times longer to sell’, study finds
+Pitching too high can disproportionately lengthen the time it takes to agree a sale
+
+## What the City needs from the Burnham government
+Unlike the 1970s, there is a conversation to be had here
+
+## Andy Burnham’s regional privilege
+Reflections on an under-scrutinised prime minister
+
+## Dropping quarterly company reports in US may not be a bad thing
+Despite backlash against SEC, it could be beneficial if done in the right way
+
+## More than 600,000 UK high earners could be dragged into pension trap by 2032
+If thresholds are not changed, 114,000 more taxpayers face being caught by the tapered annual allowance
+
+## India and South Africa lead push to amass emergency fuel stockpiles
+Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers
 
 ## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
 Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
-
-## France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread
-Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
 
 ## US tech groups cut 140,000 jobs despite AI spending boom
 Investment spree is reshaping Silicon Valley while wider US jobs market holds steady
 
 ## Waymo explores split with Uber as robotaxi tensions deepen
 Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles
-
-## China investigates former securities regulator Fang Xinghai
-Respected economist known as an interlocutor with foreign investors is probed for suspected ‘serious violations’
 
 ## Trump threatens new EU tariffs in retaliation for fines on US tech groups
 President says Washington will launch new probe into the bloc that could sharpen trade tensions
@@ -36,29 +48,35 @@ Attacks from Iranian-backed Houthi rebels threaten further disruption to global 
 ## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
 US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
-## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
-Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
+## India's exports to UK may reach $115 billion by 2030 due to trade pact: Assocham
+The agreement came into force on July 15 this year
 
-## REC posts net profit of ₹4,193 in Q1 FY27
-The infrastructure and logistic portfolio has grown to ₹59,289 crore, which is over 10 per cent of the overall loan assets, REC noted.
+## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
+Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## BNP Paribas Cardif to acquire 26% stake in IndiaFirst Life from Warburg Pincus
-Following the transaction, Bank of Baroda will retain a 65% stake in IndiaFirst Life, while BNP Paribas Cardif will hold around 26%.
+## PM raised issue of safety of India sailors during recent meet with Trump: Govt to LS
+“The PM addressed the safety of Indian maritime workers and sailors in his meetings with President Trump and at the G7 Summit on June 16, 2026,” said the MoS
 
-## FDI easing for e-comm to open new doors for exports
-Experts caution it is important to ensure enough safeguards are put in place
+## Paramount agrees to delay closing Warner buyout for months while judge considers states' challenge
+In a court filing, Paramount said it wouldn't close the merger until either a court ruling is made on the merits of the states' lawsuit or June 1, 2027
 
-## Urad acreage up in North India as sowing picks up on recent rains
-Coverage surpasses last year’s levels by 8% as farmers in UP, MP plant more, attracted by higher prices
+## Wangchuk rejects allegations of 'deal' with Centre, says ended fast fearing crackdown like Ladakh
+Agreed to end his indefinite fast only after the Centre gave a written assurance that no legal action would be taken against peaceful protesters
 
-## Nifty bleeds for fifth day as $100 oil rattles D-Street
-Rate-sensitive sectors bore the brunt of the sell-off, with private banks and realty stocks leading the losses, while FMCG emerged as the only major sectoral gainer
+## PM thanks people for responses, positive suggestions received for midnight video
+In a video message, Modi announced that a bill to address paper leaks will be introduced in Parliament next week
 
-## Hindustan Zinc net doubles to ₹5,469 cr on better realisation, lower cost
-Revenue increased 72 per cent to ₹13,033 crore (₹7,591 crore)
+## Nvidia CEO Jensen Huang backs open-weight AI, says openness key to American leadership
+The signatories said America's AI leadership should not be measured by the success of a single frontier model, but by its ability to build a strong and open ecosystem that allows AI to spread across industries and institutions
 
-## Shriram Finance Q1 Results: Net profit up 60% on NII growth
-During the quarter, MUFG Bank, the Japanese banking giant and subsidiary of Mitsubishi UFJ Financial Group, completed its acquisition of a 20 per cent equity stake in Shriram Finance
+## Trump threatens EU with trade probe, tariffs over fines on US Tech companies
+Trump accused the EU of repeatedly targeting major US companies and said Washington would not allow American businesses or taxpayers to be used as a ‘piggybank’ for Europe
+
+## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
+
+
+## Forex schemes: BoB, BoI target over $6bn mop-up
+
 
 ## Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee
 A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa fee. The court left in place a decision finding the fee unlawful while the government challenges it. Democratic attorneys general argued the administration created a new tax without congressional approval. A district judg
@@ -78,59 +96,56 @@ Indian stock markets closed lower for a fifth consecutive session on Friday. Ris
 ## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
 The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
 
-## 12.5% to 10%: Why Trump admin imposed reduced tariff rate on India & what it means
-US Trade Representative Jamieson Greer announced the revised tariffs on 60 economies on Thursday, one day before the expiry of the temporary additional 10% duties that had been imposed on imports from all countries.
+## Delhi Police welds extra barricades with chains, steps up security for weekend protests
+Delhi Police welds extra barricades with chains, steps up security for weekend protests
 
-## India's fertiliser game plan: Over 32 lakh tonnes imported in Q1; strengthened supply chain through overseas deals
-India imported over 32 lakh tonnes of key fertilizers during the first quarter. Domestic production of fertilizers reached 115.72 lakh tonnes in the same period. The government is diversifying import sources to mitigate supply chain risks. Long-term agreements are being finalized with overseas suppl
+## 'Yes or no': CJP seeks clarity on Dharmendra Pradhan's resignation from government
+CJP said it will take a tough stance if the Centre fails to clarify its stand on Dharmendra Pradhan's resignation, saying there's "no point" in further talks.
 
-## Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
-Two representatives from the CJP, Ashutosh Ranka and Saurav Das, met with Union ministers for two hours on Friday but remain firm on demand for Pradhan's exit.
+## Maharashtra TET paper leak main accused Bijendra Gupta arrested from Bihar
+According to the police, Gupta has been brought to Pune Airport and will be taken to Bhiwandi for further legal proceedings.
 
-## Cabinet clears bill proposing up to 10 years' jail, ₹10 crore fine for paper leaks
-The draft bill, which Modi mentioned in his video late on Thursday night, will now be tabled in the Lok Sabha on Monday, said a person privy to the details.
+## 'Pakistani propaganda accounts': PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
+It further alleged that the videos are being circulated by Pakistani propaganda accounts as part of a misinformation campaign.
 
-## 'Criminal education minister': Rahul Gandhi steps up attack on Dharmendra Pradhan
-Gandhi also demanded action against security personnel accused of using pellet guns and batons against protesters.
+## Shaurya Sandhya, motorcycle display: Army kicks off commemorative events to honour Kargil heroes
+Shaurya Sandhya, motorcycle display: Army kicks off commemorative events to honour Kargil heroes
 
-## CJP protest today LIVE updates: Wangchuk's 'character certificate' jibe at critics; 18 metro stations closed
-CJP protest today LIVE updates: Sonam Wangchuk reiterated that there was no deal with the government. He said his foremost concern during negotiations was ensuring that students participating in the protests were protected from violence and legal action.
+## Bid to reclaim political space: Fadnavis takes dig at Thackeray cousins' proposed Mumbai march
+Bid to reclaim political space: Fadnavis takes dig at Thackeray cousins' proposed Mumbai march
 
-## 'Have a heart': Sonam Wangchuk's wife urges people to not judge him for breaking 26-day fast
-Sonam Wangchuk broke his fast shortly after midnight on Thursday in the presence of Union ministers JP Nadda and Jitendra Singh.
+## 17 get life for 2014 Dalit man’s murder in Yadgir
+A dispute over banners during a village festival in Yadgir district that turned into a caste-driven killing over a decade ago came to a close on Thursday, with sessions court convicting 20 people in the 2014 murder of Dalit leader Devendrappa Bhimappa Dalapati, sentencing 17 of them to life imprison
 
-## Another Indian seafarer killed in Black Sea strike; LPG carrier comes under fire near Iran
-MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters, on July 18, the external affairs ministry said in a statement.
+## Bandh over NEET leak shuts schools, colleges in Telangana
+Educational institutions across Telangana remained closed on Friday as a statewide bandh called by student organisations
 
-## India lands at 10% under US forced-labour tariff, escapes steeper 12.5%
-India avoids a steeper US tariff, with exports facing a 10% Section 301 duty from Friday after New Delhi tightened rules against forced-labour imports.
-
-## No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
-No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
-
-## AI can guide forest restoration, but challenges remain: Indian Forest Service officer Pushpendra Rana
+## Shah Rukh Khan spotted in London on family vacation, maintains silence on CJP protests
 
 
-## Bank ‘deducts’ money from man’s ‘inactive’ credit card, ordered to refund Rs 1.26 lakh
+## India vs Zimbabwe 2nd T20I Playing XI: Squads, predicted 11 of IND vs ZIM match today
 
 
-## ‘Out of syllabus’, ‘errors’ in questions: Why Santhali candidates are seeking re-test of Jharkhand staff selection exam
+## Elon Musk’s Starship completes most successful test on 13th flight, delivers 20 Starlink satellites
 
 
-## Now Bengal: Prayers outside ancient mosque, BJP leader plans Shiva Lingam to strengthen ‘temple’ claim
+## Why Sukhbir Badal’s reading of Modi’s ‘Akali’ remark has created a storm
 
 
-## How the new US tariffs stack India against its competitors
+## After spending 2 years bedridden, Indian man breaks world record with 847 push-ups
 
 
-## What is the status of the West Asia war and negotiations with Iran? Here’s how Trump sees it
+## Karnataka man arrested for his baby’s murder, cops say ‘was upset over second girl’
 
 
-## Shine on, Dick Parry
+## Man wanted in 2023 Ajnala police station attack, 4 others arrested at Nepal border in UP
 
 
-## ‘What kind of arrogant government will not listen to kids?’: Actor Abhishek Banerjee joins protests in Goa
+## An amputation, a prosthetic leg and a NEET setback: 18-year-old remains focused on her dream of becoming a doctor
 
+
+## China hits Trip.com with US$765 million antitrust penalty after six-month investigation
+China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”. Trip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site S
 
 ## Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures
 On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories revea
@@ -152,9 +167,6 @@ Stock exchange operator Hong Kong Exchanges and Clearing (HKEX) will allow all l
 
 ## Hong Kong insurers ride affluent demand to record sales as longevity and legacy needs grow
 Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs. The industry wrote HK$141.1 billion (US$18 billion) in new life policies in
-
-## Wall Street funds back China’s WuXi AppTec as weight-loss drug orders soar
-US global asset managers, including BlackRock, have expanded stakes in mainland Chinese pharmaceutical contractor WuXi AppTec over the past two months, betting that a surge in weight-loss drug manufacturing orders will lift earnings in the first half of the year. Global investors were increasingly i
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -252,6 +264,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Funerals held for four Palestinians killed in deadly West Bank shooting
+Overnight funerals were held for four Palestinians killed near Nablus.
+
+## ‘The show must go on’: Trump returns to rescheduled White House press gala
+US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.
+
+## Firefighters battle fire after fertiliser explosion in England
+A fertiliser explosion at a farm in Essex triggered a major incident.
+
+## From palava huts to TikTok: How Liberians are preserving their past
+From podcasts to TikTok, young Liberians are using digital platforms to keep history alive and challenge old narratives.
+
 ## Sons of immigrant killed by ICE in Texas share grief, demand accountability
 Lorenzo Salgado Araujo's sons tell lawmakers their father worked hard 'to protect and provide' for his family.
 
@@ -263,18 +287,6 @@ GLP-1 drugs, originally developed to treat diabetes and now widely used for obes
 
 ## Saudi-led coalition strikes Houthi-controlled Hodeidah
 The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.
-
-## UN rights chief Turk wins second term despite US and Israeli opposition
-Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.
-
-## Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks
-US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.
-
-## Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel
-US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'.
-
-## Which matches and tournaments can football fans watch after the World Cup?
-Al Jazeera's guide to filling the football void with the Champions League, Premier League, La Liga, UEFA Super Cup and more.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
