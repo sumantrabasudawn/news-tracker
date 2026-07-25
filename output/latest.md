@@ -1,10 +1,13 @@
 # AION Intelligence
 
+## Iran says Ukrainian attack on vessel in Caspian Sea killed sailor
+Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region
+
 ## Top Democrat says Trump administration is worsening chip shortage
 Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
 
 ## Brazil denies visas to US officials over alleged election interference
-Government claims Trump appointees sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
+Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
 
 ## Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine
 Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks
@@ -114,28 +117,28 @@ In Punjab, women are central to the anti-drug campaign as they support recovery 
 ## Former Uttarakhand constable accused of aiding gangster in land grab case, threatening widow to withdraw complaint
 A former Uttarakhand constable has been implicated in a sinister land-grab operation linked to jailed gangster Praveen Valmiki.
 
-## Global Gen Z protest movement: Which countries saw youth-led demonstrations
+## 4th Justice G P Singh Memorial Lecture: Consuming chicken biryani no offence… dissent essence of democracy, says Justice Bhuyan
 
 
-## Inside Trump’s new Air Force One rush as Iran threat triggered plane swap
+## BJP leaders hail Pradhan for contributions as minister
 
 
-## Anahat Singh becomes 1st Indian Squash World Jr Champion on her 5th attempt
+## 1.25 billion reasons why ‘Hum honge kaamyab’ @Jantar Mantar
 
 
-## CWG Day 3: Women’s lawn bowls pair, boxer Siwach shine in ordinary day for India
+## 28 years on tentative list, Sarnath now a UNESCO World Heritage Site
 
 
-## Manush Shah’s decisive singles clinches U Mumba’s spot in UTT final
+## Woman in Delhi-bound train held with gold bars worth over Rs 7 crore
 
 
-## Shweta Tiwari shares gym bag essentials, skincare tips before workout
+## ‘Safeguard essential’: Supreme Court on withholding children’s Aadhaar details under APAAR scheme
 
 
-## 40 killed in Gujarat; Army & police rescue hundreds stranded in flooded industrial park, warehouse on Sarkhej-Bavla highway
+## Kolkata rally violence: Bengal Government invokes Goonda Act
 
 
-## India at CWG 2026 Day 4 Schedule: Full list of Indian athletes in action on Sunday
+## How many US troops have really died in the Iran war? Pentagon accused of hiding truth
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -258,7 +261,16 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event
+## What’s behind the Israeli crackdown in the occupied West Bank?
+Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.
+
+## Iran accuses Ukraine of deadly attack on Caspian commercial vessel
+Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.
+
+## Fire tears through Indonesian village in West Java
+A fire has torn through a traditional village in the Sukabumi Regency of Indonesia's West Java province.
+
+## One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event
 German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.
 
 ## Israeli forces target Gaza’s Al-Aqsa hospital
@@ -272,15 +284,6 @@ Israeli troops fired tear gas at Palestinians and journalists in Tal a day after
 
 ## How India’s ‘Cockroach’ protesters shook the Modi government
 India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.
-
-## Head of Hamas-led police in northern Gaza killed by Israeli strike
-Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.
-
-## At least 35 killed after two buses collide in eastern Syria
-At least 35 killed after two buses collide in eastern Syria
-
-## Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’
-The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
