@@ -117,6 +117,15 @@ Punjab's Mukh Mantri Mawan Dheeyan Satkar Yojana has directly transferred ₹1,1
 ## Dharmendra Pradhan resignation: AAP calls it victory for democracy, demands education reforms
 The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradhan as a triumph for democracy, attributing it to relentless student protests.
 
+## CWG Day 3: Women’s lawn bowls pair, boxer Siwach shine in ordinary day for India
+
+
+## Manush Shah’s decisive singles clinches U Mumba’s spot in UTT final
+
+
+## Shweta Tiwari shares gym bag essentials, skincare tips before workout
+
+
 ## 40 killed in Gujarat; Army & police rescue hundreds stranded in flooded industrial park, warehouse on Sarkhej-Bavla highway
 
 
@@ -130,15 +139,6 @@ The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradh
 
 
 ## Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained
-
-
-## All about Rabdentse Ruins, the ‘Machu Picchu of India’
-
-
-## The Prez who lifted, the PM who bowled — when heads of state compete at CWG
-
-
-## ‘As No.3 batter, once you’re set, you want to make it count’: Ishan Kishan
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -261,6 +261,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Why Epstein’s survivors are still fighting
+Why Epstein's survivors are still fighting
+
 ## Iran’s government spars with state TV as mediators push talks with US
 Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.
 
@@ -281,9 +284,6 @@ What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound und
 
 ## The Global South is being forced to choose creditors over children
 The education of millions of children is at risk because of the current global financial order. We need change
-
-## Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG
-Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
