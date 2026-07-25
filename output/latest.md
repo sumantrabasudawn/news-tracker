@@ -24,6 +24,9 @@ The threat of a Le Pen presidency has provided an incentive for Paris and Berlin
 ## US immigration enforcement caught between Trump and public backlash
 Killings by ICE agents undermine support of voters but White House doubles down on deportation policy
 
+## Top Democrat says Trump administration is worsening chip shortage
+Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
+
 ## Intern arrested on suspicion of spying at Nato military HQ
 Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
 
@@ -42,11 +45,8 @@ Pitching too high can disproportionately lengthen the time it takes to agree a s
 ## What the City needs from the Burnham government
 Unlike the 1970s, there is a conversation to be had here
 
-## Dropping quarterly company reports in US may not be a bad thing
-Despite backlash against SEC, it could be beneficial if done in the right way
-
-## IT’s a chasm between management and investors
-Despite bullish AI rhetoric, tepid growth and shrinking margins show IT services giants must prove their strategic relevance
+## TCS, Infosys, HCL Tech, Wipro and Tech Mahindra: IT’s a chasm between management and investors
+Despite bullish AI rhetoric, tepid growth and shrinking margins show IT services majors must prove their strategic relevance
 
 ## Should investors subscribe to Lohia Corp’s IPO?
 Lohia Corp’s cheap P/E multiple is offset by its exposure to cyclical end-market capex demand
@@ -93,6 +93,9 @@ The Union cabinet approved a Rs 1,264-crore railway project for new lines. This 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
 
+## Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
+Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
+
 ## The faces of CJP movement that drove big change: Boston graduate, IITian, JNU scholar, investigative journalist
 With education minister Dharmendra Pradhan's resignation and the government agreeing to other key demands, the CJP has now called off its 36-day protest.
 
@@ -114,8 +117,14 @@ A former Uttarakhand constable has been implicated in a sinister land-grab opera
 ## Punjab women praise DBT model as ₹1,149 crore reaches beneficiaries under Mukh Mantri Mawan Dheeyan Satkar Yojana
 Punjab's Mukh Mantri Mawan Dheeyan Satkar Yojana has directly transferred ₹1,149 crore to nearly 33 lakh women, revolutionizing welfare delivery.
 
-## Dharmendra Pradhan resignation: AAP calls it victory for democracy, demands education reforms
-The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradhan as a triumph for democracy, attributing it to relentless student protests.
+## Global Gen Z protest movement: Which countries saw youth-led demonstrations
+
+
+## Inside Trump’s new Air Force One rush as Iran threat triggered plane swap
+
+
+## Anahat Singh becomes 1st Indian Squash World Jr Champion on her 5th attempt
+
 
 ## CWG Day 3: Women’s lawn bowls pair, boxer Siwach shine in ordinary day for India
 
@@ -130,15 +139,6 @@ The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradh
 
 
 ## India at CWG 2026 Day 4 Schedule: Full list of Indian athletes in action on Sunday
-
-
-## A national-level basketball player, Army officer’s son dies as car falls into drain in Delhi
-
-
-## ‘We have done it,’ CJP founder breaks the news at protest site, says ‘youth will talk about jobs, the future’
-
-
-## Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -261,6 +261,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## At least 35 killed after two buses collide in eastern Syria
+At least 35 killed after two buses collide in eastern Syria
+
+## Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’
+The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.
+
+## How Netanyahu gov’t media reforms risk deepening Israeli press bias
+Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity.
+
 ## Why Epstein’s survivors are still fighting
 Why Epstein's survivors are still fighting
 
@@ -275,15 +284,6 @@ Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0
 
 ## ‘We have done it’: Joy as ‘Cockroach’ protests push India minister out
 Education Minister Dharmendra Pradhan resigns after youth-led protests over exam leaks rattle PM Modi's government.
-
-## Syrian FM calls for Israeli withdrawal in meeting with UN chief
-Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria
-
-## The Battle Over Al-Aqsa
-What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?
-
-## The Global South is being forced to choose creditors over children
-The education of millions of children is at risk because of the current global financial order. We need change
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
