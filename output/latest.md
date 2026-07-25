@@ -258,6 +258,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli forces tear gas journalists reporting Nablus shootout
+Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout
+
+## How India’s ‘Cockroach’ protesters shook the Modi government
+India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.
+
 ## Head of Hamas-led police in northern Gaza killed by Israeli strike
 Four other Palestinians were also killed by Israeli air strikes, and a policeman died from wounds sustained last week.
 
@@ -275,12 +281,6 @@ Why Epstein's survivors are still fighting
 
 ## Iran’s government spars with state TV as mediators push talks with US
 Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.
-
-## Worker dies during reconstruction of Barcelona’s Camp Nou Stadium
-Barcelona offer condolences to family of a 54-year-old man who died during Camp Nou redevelopment after blow to head.
-
-## India win second T20 in Zimbabwe to take series as Kishan and Varma shine
-Ishan Kishan and Tilak Varma sets up 90-run win over Zimbabwe as India takes 2-0 lead in T20 series.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
