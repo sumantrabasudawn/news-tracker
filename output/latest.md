@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread
+Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
+
 ## Guy Scott, former president of Zambia, 1944-2026
 The academic and farmer was the first and only white man to lead an African democracy
 
@@ -21,56 +24,44 @@ Despite backlash against SEC, it could be beneficial if done in the right way
 ## More than 600,000 UK high earners could be dragged into pension trap by 2032
 If thresholds are not changed, 114,000 more taxpayers face being caught by the tapered annual allowance
 
+## In a glum moment for budget airlines, Ryanair may have the last laugh
+Investors underestimate how balance-sheet strength might be a differentiating factor in what happens next
+
 ## India and South Africa lead push to amass emergency fuel stockpiles
 Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers
+
+## Forever chemicals are everywhere. Should we care?
+How the quest to detoxify our household items became charged with anxiety
+
+## Mexico’s Sheinbaum puts faith in petrol price cap
+Business leaders wary of president’s interventionist policies
 
 ## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
 Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
 
-## US tech groups cut 140,000 jobs despite AI spending boom
-Investment spree is reshaping Silicon Valley while wider US jobs market holds steady
+## India and Tanzania review trade, defence, and digital ties at 3rd Foreign Office Consultations
+The Ministry of External Affairs announced that the meeting was led by Janesh Kain of India’s MEA and Felister Rugambwa of Tanzania’s Ministry of Foreign Affairs
 
-## Waymo explores split with Uber as robotaxi tensions deepen
-Partnership between two groups has soured amid intense lobbying battle over rollout of autonomous vehicles
+## WestBridge said to be considering stake sale in Star Health
+WestBridge is reported to have spoken with financial advisers to evaluate a sale of its 40% stake in the insurance company
 
-## Trump threatens new EU tariffs in retaliation for fines on US tech groups
-President says Washington will launch new probe into the bloc that could sharpen trade tensions
+## Modi under pressure as CJP leaders set for further talks with government
+The CJP leaders have said Education Minister Pradhan should take responsibility for the NEET paper lead and step down
 
-## Directors’ Deals: Fevara non-executive chair beefs up stake
-Livestock supplement producer has refocused in the past year
+## Harrisons Malayalam pilots drone-based green leaf transport at Lockhart Estate
+The initiative, in partnership with Tropoworks, aims to improve field logistics, boost productivity, reduce manual handling, and expedite the movement of green leaf from field to factory
 
-## Stockpickers: Greencore, Kier, Gateley
-Our experts discuss which companies to buy, sell or hold this week
+## 386 private FM radio channels operational, 20% content should be in local language to promote regional culture: Union Minister L Murugan
+The Private FM Radio Phase-III policy permits broadcasters to access Prasar Bharati towers and sites, wherever available, for faster rollout
 
-## Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea
-Attacks from Iranian-backed Houthi rebels threaten further disruption to global oil supplies
-
-## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
-US tech groups and investors respond to calls for restrictions on advanced Chinese technology
-
-## India's exports to UK may reach $115 billion by 2030 due to trade pact: Assocham
-The agreement came into force on July 15 this year
+## 'You cannot stop food or protests': CJP accuses Delhi Police of blocking food supplies at Jantar Mantar
+CJP demonstration will go on until Dharmendra Pradhan steps down, the party said
 
 ## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
 Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## PM raised issue of safety of India sailors during recent meet with Trump: Govt to LS
-“The PM addressed the safety of Indian maritime workers and sailors in his meetings with President Trump and at the G7 Summit on June 16, 2026,” said the MoS
-
-## Paramount agrees to delay closing Warner buyout for months while judge considers states' challenge
-In a court filing, Paramount said it wouldn't close the merger until either a court ruling is made on the merits of the states' lawsuit or June 1, 2027
-
-## Wangchuk rejects allegations of 'deal' with Centre, says ended fast fearing crackdown like Ladakh
-Agreed to end his indefinite fast only after the Centre gave a written assurance that no legal action would be taken against peaceful protesters
-
-## PM thanks people for responses, positive suggestions received for midnight video
-In a video message, Modi announced that a bill to address paper leaks will be introduced in Parliament next week
-
-## Nvidia CEO Jensen Huang backs open-weight AI, says openness key to American leadership
-The signatories said America's AI leadership should not be measured by the success of a single frontier model, but by its ability to build a strong and open ecosystem that allows AI to spread across industries and institutions
-
-## Trump threatens EU with trade probe, tariffs over fines on US Tech companies
-Trump accused the EU of repeatedly targeting major US companies and said Washington would not allow American businesses or taxpayers to be used as a ‘piggybank’ for Europe
+## Tata Sons Chair N Chandrasekaran's reappointment to board to come up in AGM, process closely watched after Tata Trust restrictions
+Chandrasekaran is due to retire by rotation as a director under Tata Sons' Articles of Association
 
 ## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
 
@@ -96,52 +87,52 @@ Indian stock markets closed lower for a fifth consecutive session on Friday. Ris
 ## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
 The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
 
-## Delhi Police welds extra barricades with chains, steps up security for weekend protests
-Delhi Police welds extra barricades with chains, steps up security for weekend protests
+## Assam flood death toll climbs to 61; 14 more people lost their lives: ASDMA
+Sarma said that more than 1.1 million people across 2,000 villages are suffering and the government is trying to provide adequate support
 
-## 'Yes or no': CJP seeks clarity on Dharmendra Pradhan's resignation from government
-CJP said it will take a tough stance if the Centre fails to clarify its stand on Dharmendra Pradhan's resignation, saying there's "no point" in further talks.
+## Rajasthan YouTuber kidnapped from studio rescued, two men arrested: Police
+A YouTuber allegedly kidnapped from Rajasthan’s Tonk was rescued after a police blockade, with two accused arrested.
 
-## Maharashtra TET paper leak main accused Bijendra Gupta arrested from Bihar
-According to the police, Gupta has been brought to Pune Airport and will be taken to Bhiwandi for further legal proceedings.
+## Low-pressure area formed in Bay of Bengal, likely to bring heavy rain till Monday
+Low-pressure area formed in Bay of Bengal, likely to bring heavy rain till Monday
 
-## 'Pakistani propaganda accounts': PIB fact-checks AI-generated videos of Dharmendra Pradhan, Piyush Goyal
-It further alleged that the videos are being circulated by Pakistani propaganda accounts as part of a misinformation campaign.
+## 'Dharmendra Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
+In a post on X, Gandhi said, "Students' three demands non-negotiable; Pradhan has to be sacked," while expressing support for the protesters' demands.
 
-## Shaurya Sandhya, motorcycle display: Army kicks off commemorative events to honour Kargil heroes
-Shaurya Sandhya, motorcycle display: Army kicks off commemorative events to honour Kargil heroes
+## 'If I die of stress...': Wangchuk's confrontation with police in hospital goes viral; authorities issue clarification
+While lying on the floor, Sonam Wangchuk reiterates that the court's order is public knowledge, saying, "It is digitally everywhere. The world knows except you.
 
-## Bid to reclaim political space: Fadnavis takes dig at Thackeray cousins' proposed Mumbai march
-Bid to reclaim political space: Fadnavis takes dig at Thackeray cousins' proposed Mumbai march
+## ‘Couldn’t shut paper leaks': Opposition attacks Centre over Delhi metro, internet restrictions amid CJP protest
+The allegations came as 18 Delhi Metro stations across central Delhi remained closed for the fourth consecutive day on Saturday.
 
-## 17 get life for 2014 Dalit man’s murder in Yadgir
-A dispute over banners during a village festival in Yadgir district that turned into a caste-driven killing over a decade ago came to a close on Thursday, with sessions court convicting 20 people in the 2014 murder of Dalit leader Devendrappa Bhimappa Dalapati, sentencing 17 of them to life imprison
+## 57-year-old man dies during crowd surge at Bahuda Yatra in Puri: Police
+A 57-year-old devotee from Cuttack died during a crowd surge at Puri’s Bahuda Yatra, taking the reported death toll linked to this year’s Rath Yatra to four.
 
-## Bandh over NEET leak shuts schools, colleges in Telangana
-Educational institutions across Telangana remained closed on Friday as a statewide bandh called by student organisations
+## CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
 
-## Shah Rukh Khan spotted in London on family vacation, maintains silence on CJP protests
-
-
-## India vs Zimbabwe 2nd T20I Playing XI: Squads, predicted 11 of IND vs ZIM match today
+## Punjab AAP hits reset in seats before 2027 elections, sparks ticket struggle
 
 
-## Elon Musk’s Starship completes most successful test on 13th flight, delivers 20 Starlink satellites
+## Court strikes down Centre’s pan masala cess: Why the law failed Article 14 test
 
 
-## Why Sukhbir Badal’s reading of Modi’s ‘Akali’ remark has created a storm
+## US Senator brings in Bill seeking 3-year pause on H-1B visas, standardised $100,000 fee
 
 
-## After spending 2 years bedridden, Indian man breaks world record with 847 push-ups
+## Lock Upp 2: Apoorva Makhija asks Shivangi Joshi, Harshad Chopda if they’re ‘stuck in a TV serial’
 
 
-## Karnataka man arrested for his baby’s murder, cops say ‘was upset over second girl’
+## ‘We salute you’: Minister honours officials attacked during Bengaluru footpath drive
 
 
-## Man wanted in 2023 Ajnala police station attack, 4 others arrested at Nepal border in UP
+## ‘No reshuffle, sack Pradhan’: Rahul Gandhi backs protesting students
 
 
-## An amputation, a prosthetic leg and a NEET setback: 18-year-old remains focused on her dream of becoming a doctor
+## Nicobar project to safeguard Indo-Pacific interests, Rajnath tells Congress
+
+
+## This ‘core controller’ exercise is Kriti Sanon’s secret to toned abs
 
 
 ## China hits Trip.com with US$765 million antitrust penalty after six-month investigation
@@ -264,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump: ‘I’m running for a fourth term as President of the United States’
+During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.
+
+## Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion
+Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.
+
+## Venezuelans hold vigil one month after devastating earthquakes
+One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.
+
+## South Africa’s le Clos breaks Commonwealth Games record with 19th medal
+A record 19th medal took South Africa's Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England.
+
 ## Funerals held for four Palestinians killed in deadly West Bank shooting
 Overnight funerals were held for four Palestinians killed near Nablus.
 
@@ -275,18 +278,6 @@ A fertiliser explosion at a farm in Essex triggered a major incident.
 
 ## From palava huts to TikTok: How Liberians are preserving their past
 From podcasts to TikTok, young Liberians are using digital platforms to keep history alive and challenge old narratives.
-
-## Sons of immigrant killed by ICE in Texas share grief, demand accountability
-Lorenzo Salgado Araujo's sons tell lawmakers their father worked hard 'to protect and provide' for his family.
-
-## Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn
-EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.
-
-## GLP-1s are changing US healthcare, should everyone be on them?
-GLP-1 drugs, originally developed to treat diabetes and now widely used for obesity, are reshaping healthcare in the US.
-
-## Saudi-led coalition strikes Houthi-controlled Hodeidah
-The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
