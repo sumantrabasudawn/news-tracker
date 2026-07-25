@@ -258,6 +258,15 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event
+German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.
+
+## Israeli forces target Gaza’s Al-Aqsa hospital
+At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital
+
+## What’s next for Venezuela’s path to recovery from devastating earthquakes?
+The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.
+
 ## Israeli forces tear gas journalists reporting Nablus shootout
 Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout
 
@@ -272,15 +281,6 @@ At least 35 killed after two buses collide in eastern Syria
 
 ## Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’
 The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.
-
-## How Netanyahu gov’t media reforms risk deepening Israeli press bias
-Critics decry Israel's sweeping media reforms, warning of further risks to press freedom and election integrity.
-
-## Why Epstein’s survivors are still fighting
-Why Epstein's survivors are still fighting
-
-## Iran’s government spars with state TV as mediators push talks with US
-Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
