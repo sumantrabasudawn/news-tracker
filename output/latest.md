@@ -1,28 +1,19 @@
 # AION Intelligence
 
-## France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread
-Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
+## Investors bet on Federal Reserve rate rise after oil price surge
+Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say
 
-## Guy Scott, former president of Zambia, 1944-2026
-The academic and farmer was the first and only white man to lead an African democracy
+## Macron and Merz move on from fighter jet heartbreak
+The threat of a Le Pen presidency has provided an incentive for Paris and Berlin to come together
 
-## India’s ‘Cockroach’ Gen Z has had enough
-The irreverence of the country’s youth brings to light the contrast between government promises and economic reality
+## US immigration enforcement caught between Trump and public backlash
+Killings by ICE agents undermine support of voters but White House doubles down on deportation policy
 
-## Overpriced UK homes take ‘more than four times longer to sell’, study finds
-Pitching too high can disproportionately lengthen the time it takes to agree a sale
+## Saudi Arabia strikes Houthis after Iran-backed rebels target tankers
+Kingdom’s civil defence forces warn key energy sites at risk of retaliatory attacks
 
-## What the City needs from the Burnham government
-Unlike the 1970s, there is a conversation to be had here
-
-## Andy Burnham’s regional privilege
-Reflections on an under-scrutinised prime minister
-
-## Dropping quarterly company reports in US may not be a bad thing
-Despite backlash against SEC, it could be beneficial if done in the right way
-
-## More than 600,000 UK high earners could be dragged into pension trap by 2032
-If thresholds are not changed, 114,000 more taxpayers face being caught by the tapered annual allowance
+## Who owns shares?
+Household exposure to stocks varies dramatically across countries
 
 ## Intern arrested on suspicion of spying at Nato military HQ
 Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
@@ -30,38 +21,50 @@ Belgian officials say operations have not been compromised after a Canadian nati
 ## Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal
 Largest ever foreign investment in the Gulf state comes as it seeks to raise capital in face of Iranian attacks
 
+## France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread
+Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
+
 ## Who wants to buy a football club?
 Also in today’s newsletter: the new-look Hundred returns and the Commonwealth Games fight for relevance
 
 ## In a glum moment for budget airlines, Ryanair may have the last laugh
 Investors underestimate how balance-sheet strength might be a differentiating factor in what happens next
 
+## Overpriced UK homes take ‘more than four times longer to sell’, study finds
+Pitching too high can disproportionately lengthen the time it takes to agree a sale
+
+## What the City needs from the Burnham government
+Unlike the 1970s, there is a conversation to be had here
+
+## Dropping quarterly company reports in US may not be a bad thing
+Despite backlash against SEC, it could be beneficial if done in the right way
+
 ## India and South Africa lead push to amass emergency fuel stockpiles
 Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers
 
-## Govt likely to introduce bill to amend paper leak law in Parliament on Monday
-The Bill states that those involved in paper leaks or cheating in exams will face 5 to 10 years in prison and fines up to ₹50 lakh
-
-## NTPC board approves raising up to ₹12,000 cr via NCD issue
-The commercial power generation rose to 93.63 billion units (BU) in the quarter from 91.06 BU in the same period a year ago
-
-## Education Minister Dharmendra Pradhan resigned
-The minister announced ‌his resignation ​on X
+## Power Engineers’ Federation opposes Govt’s parallel distribution licence proposal
+AIPEF calls proposal ‘backdoor privatisation’ of electricity distribution
 
 ## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
 Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## New US Section 301 tariff puts Indian gems & jewellery exports under pressure
-Duty-free access for rival diamond hubs such as Belgium offsets benefit of India’s tariff advantage over China, Vietnam and some other competing countries
+## Education Minister Dharmendra Pradhan resigns after youth protests
+The minister announced ‌his resignation ​on X
 
-## SBI recruits 1,930 circle-based officers to strengthen banking operations
-The bank currently has a workforce of more than 2,45,000 employees
+## Will continue protest till all demands are met: CJP founder Abhijeet Dipke after Dharmendra Pradhan’s resignation
+Dipke says the two remaining demands are compensation for the families of students who committed suicide and the resignation of the Delhi Police personnel who carried out the lathi charge
 
-## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
-Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
+## Aster DM Quality Care to invest ₹1,315 crore in Karnataka
+As part of its expansion plans, Aster is developing the 550-bed Aster Hospital, Yeshwantpur, the 460-bed Aster Hospital, Sarjapur, and a 350-bed expansion at Aster CMI Hospital
 
-## Students are India's future, Modi is past; past can never fight the future: Rahul Gandhi
-Students’ demand to sack Dharmendra Pradhan is non-negotiable, he said
+## Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week
+As OpenAI faces backlash from its AI agent’s breach of Hugging Face, experts warn about the implications for AI safety and risks of more autonomous systems
+
+## Govt likely to introduce bill to amend paper leak law in Parliament on Monday
+The Bill states that those involved in paper leaks or cheating in exams will face 5 to 10 years in prison and fines up to ₹50 lakh
+
+## Delhi Police monitoring social media for fake posts linked to Jantar Mantar protest
+Police say several false narratives being circulated online to create panic and mislead people
 
 ## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
 
@@ -87,52 +90,52 @@ Indian stock markets closed lower for a fifth consecutive session on Friday. Ris
 ## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
 The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
 
-## ‘We have done it’: Abhijeet Dipke's first reaction as Dharmendra Pradhan resigns
-Abhijeet Dipke received a phone call about the resignation of Dharmendra Pradhan after which celebrations erupted.
+## ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
+Dharmendra Pradhan said he tendered the resignation to Prime Minister Narendra Modi, keeping the future and career of students in mind.
 
-## Dharmendra Pradhan resigns as education minister amid on-going protest
-The resignation comes in the wake of ongoing protest against paper leaks and other irregularities in the conduct of examinations
+## Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
+According to Delhi government officials, the decision to reduce liquor shop timings was taken based on inputs from Delhi Police.
 
-## 'Chhatra Shakti Zindabad': CJP celebrates Dharmendra Pradhan's resignation, calls it victory for students
-In a statement, the Cockroach Janta Party shared Dharmendra Pradhan's resignation letter, calling it a victory for the student movement.
+## 'People created obstacles…': Pradhan hits out at 'forces' blocking education reforms in resignation letter
+In his resignation letter posted on X, Pradhan gave his reasons for stepping down from the Narendra Modi cabinet.
 
-## Stiffer jail terms, task forces, faster trials: The changes paper-leak bill would introduce & state laws it could join
-The 2026 bill would compress investigation and trial timelines, raise penalties, and create a new task force route, besides similar laws in over a dozen states.
+## ‘Thanks for calling us cockroaches’: Abhijeet Dipke's message for CJI Surya Kant as Modi govt gives in, minister resigns
+CJP traces origin, name to May hearing at which CJI Kant used "cockroaches" and "parasites" for jobless youth and later clarified he meant fake degree holders
 
-## 'To ensure anti-national forces don't take advantage': What Dharmendra Pradhan's resignation letter says
-In a letter posted on X, Pradhan said he was taking moral responsibility for the developments surrounding the medical entrance examination.
+## 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
+Sonam Wangchuk hailed the resignation of Union Education Minister Dharmendra Pradhan as a victory of democracy.
 
-## Dharmendra Pradhan resigns as education minister amid massive paper leak protests
-Dharmendra Pradhan said that he was taking the decision to resign keeping the future and career of students in mind. He has sent his resignation to PM Modi.
+## What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
+CJP shared an updated list of its demands, marking Pradhan's resignation as fulfilled while reiterating its calls for ₹1 crore compensation and other demands.
 
-## Bharatiya Kisan Union to join students’ protest in Delhi; march on July 27
-The farmers’ body also plans to send volunteers and essential supplies, including dry rations, to help sustain the sit-in
+## New bill against paper leaks will have stricter punishments, faster trial: Govt
+Minister for DoPT Jitendra Singh, who is also the government interlocutor along with union health minister JP Nadda, is set to introduce the bill in the Lok Sabha on Monday
 
-## Faster trials, longer jail terms: What 2026 bill on paper leak amid CJP protest proposes, how it differs from 2024 law
-CJP and Cong insist on nothing less than resignation of education minister Dharmendra Pradhan; govt seeks to counter and assuage youth movement with law change.
+## Dharmendra Pradhan's resignation breaks with Modi govt's long-held line, ‘this is not UPA’
+Dharmendra Pradhan's resignation is first by a cabinet-rank minister as responsibility over a governance row during Modi's tenure of 12 years as PM so far.
 
-## ‘To ensure anti-national forces don’t exploit Jantar Mantar’: Here is the full text of Dharmendra Pradhan’s resignation letter to PM Modi
-
-
-## As Dharmendra Pradhan resigns, Centre moves in cops to clear protest sites in Delhi
+## 83-year-old bedridden man’s landline cut for 2 years, BSNL to pay Rs 15,000
 
 
-## ‘Cockroaches won, democracy won’: CJP on Dharmendra Pradhan’s resignation
+## TEDx and LinkedIn to gurukuls, social media: Meet Ram temple trust’s new ‘guidance’ panel
 
 
-## ‘I failed at it miserably’: Masaba Gupta reveals how a tennis setback shaped her success
+## ‘He was slapped, vilified’: Abhijeet Dipke’s parents celebrate big moment
 
 
-## ‘Sebaashray camp is a scam’: Bengal CM targets Abhishek Banerjee, warns of strict action
+## CJP protest: Prakash Raj congratulates ‘cockroaches’, Priyanka Chopra claps for Gen-Z
 
 
-## ‘These kids have courage’: Parents rally behind students at Jantar Mantar
+## Indian Railways to start train services from new platform 24 at Howrah station on July 27
 
 
-## Iranian threat to Air Force One prompted Trump to swap plane during NATO Summit
+## The rise and fall of Dharmendra Pradhan: BJP’s trusted organiser undone by NEET leak
 
 
-## 10 years in jail, Rs 10 crore in fines: What new anti-paper leak Bill says
+## The monsoon grocery list: 5 foods to stock up on and five you shouldn’t overbuy
+
+
+## Commonwealth Games Day 3 Live: Sachin enters round of 16 in men’s boxing
 
 
 ## Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang
@@ -255,11 +258,14 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## How Volker Turk won a new term as UN rights chief despite Israel opposition
+UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.
+
 ## Israel arrests dozens of Palestinians in West Bank amid settler attacks
 Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.
 
 ## India’s education minister resigns after weeks of ‘Cockroach’ protests
-This is a breaking news story.
+Dharmendra Pradhan quits in first major concession from PM Narendra Modi's government after nationwide demonstrations.
 
 ## Dodging snipers, housing crisis forces Yemenis to live on front line
 Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.
@@ -275,9 +281,6 @@ The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Securi
 
 ## Trump: ‘I’m running for a fourth term as President of the United States’
 During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.
-
-## Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion
-Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
