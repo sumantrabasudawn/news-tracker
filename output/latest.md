@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## France and Spain evacuate 260,000 as ‘unprecedented’ wildfires spread
+Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux
+
 ## India’s ‘cockroach’ movement halts protests after minister quits
 Dharmendra Pradhan’s departure was a key demand of the burgeoning student movement
 
@@ -8,9 +11,6 @@ Tit-for-tat attacks risk expanding the regional war in the Middle East
 
 ## Washington and London discuss plan for meeting to resolve Hormuz crisis
 Gathering to consider forming an international maritime coalition to safeguard shipping
-
-## France and Spain evacuate almost 250,000 people as ‘unprecedented’ wildfires spread
-Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux
 
 ## Maha Inc: how companies tied to Kennedy’s movement are poised to benefit
 Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul
@@ -45,29 +45,29 @@ Unlike the 1970s, there is a conversation to be had here
 ## Dropping quarterly company reports in US may not be a bad thing
 Despite backlash against SEC, it could be beneficial if done in the right way
 
-## PhonePe FY26 revenue rises 11% to ₹7,920 crore; net loss widens 62% ahead of IPO
-Revenue in the second half rose to about ₹3,746 crore, indicating stronger business momentum during the latter part of the year
+## Should investors subscribe to Lohia Corp’s IPO?
+Lohia Corp’s cheap P/E multiple is offset by its exposure to cyclical end-market capex demand
+
+## Mass protests in India: Here’s a timeline of agitations over the last two decades
+The ‘cockroach’ movement is the latest in India’s long history of hitting the streets
+
+## Silver, Shanghai Composite and the technicals of it
+Silver can also remain stuck in a wide sideways range if it follows the path of Shanghai Composite index
+
+## AU Small Finance Bank’s Q1FY27 net profit up 37% at ₹796 cr
+Net interest margin (NIM) rose to 5.9 per cent in Q1FY27 from 5.4 per cent in the year ago quarter
 
 ## Isuzu signs five-year pact with Kamarajar Port for vehicle exports
 Isuzu Motors India will receive concessional wharfage rates linked to export volumes for the next five years, a move aimed at enhancing the competitiveness of vehicle exports through the port
 
-## Andhra Pradesh to scale up use of drones for reforestation
-Andhra Pradesh aims to achieve 50% green cover; to step up seed ball dispersal
+## Power Engineers’ Federation opposes Govt’s parallel distribution licence proposal
+AIPEF calls proposal ‘backdoor privatisation’ of electricity distribution
 
-## Birla Corporation Q1 results: Profit dips 3.2% to ₹115.7 cr on lower cement prices, fuel cost surge
-Birla Corporation’s revenue from operations, however, rises 7.8% to ₹2,646.45 crore in Q1 FY27
-
-## IDFC FIRST Bank’s Q1FY27 net profit soars 132% to ₹1,075 cr
-In the reporting quarter, the Bank recorded a 21 per cent growth in net interest income at Rs ₹5,972 crore (Rs ₹4,933 crore in the year ago period)
-
-## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
+## Q1 Results Today Highlights: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
 Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## Dharmendra Pradhan’s resignation sparks jubilation at Jantar Mantar
-Even as protesters celebrated the minister’s resignation, they made it clear that the agitation was far from over
-
-## CJP withdraws protest in "good faith" after Pradhan's resignation, says govt agreed to all demands
-The government has agreed to provide suitable compensation to the families of the NEET aspirants who died by suicide and assured to withdraw the FIRs lodged against protesters anywhere in India
+## F&O Query: Analysis of GVT&D and Kaynes Technology options
+Bearish outlook suggests exiting or holding positions strategically
 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
@@ -93,52 +93,52 @@ The Union cabinet approved a Rs 1,264-crore railway project for new lines. This 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
 
-## 'Dharmendra Pradhan resigned under no pressure,' says BJP leader; urges parents not to send students to ‘such protests’
-Dubey praised Pradhan’s long association with the education sector and highlighted his role in introducing major reforms
+## EPFO urges employers to avail EEC-2026, Amnesty, Vishwaas schemes; highlights digital reforms under EPFO 3.0
+The EPFO has launched new compliance initiatives, including EEC-2026 and the Vishwaas and Amnesty schemes, aimed at expanding employee benefits.
 
-## NEET victims’ families seek reforms, say Pradhan’s resignation not enough
-Most of the parents said the government never understood pain of the students who appeared for NEET and their parents
+## Pradhan gone, Congress shifts focus to Amit Shah; memes put Nitin Gadkari in spotlight, anti-E20 group plans protest
+With Parliament set to reconvene on Monday, Rahul Gandhi sought to take the debate towards accountability for police action against the CJP march of July 20.
 
-## BJP veteran MM Joshi says ‘better late than never’ as Pradhan quits; had criticised use of force on CJP protesters
-Joshi has not shied away from critiquing Modi regime on policy issues and handling of political controversies, including the Cockroach Janta Party-led protests
+## Punjab highlights women’s role in anti-drug campaign as families drive addiction recovery
+In Punjab, women are central to the anti-drug campaign as they support recovery for those battling addiction.
 
-## Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep, was worried about him'
-Abhijeet Dipke's mother Anita had tears in her eyes as she recalled what her son witnessed over the past few days as he led the CJP protest in Delhi.
+## Former Uttarakhand constable accused of aiding gangster in land grab case, threatening widow to withdraw complaint
+A former Uttarakhand constable has been implicated in a sinister land-grab operation linked to jailed gangster Praveen Valmiki.
 
-## Peace in Manipur needs trust, IDP rehabilitation first: Conrad Sangma
-He acknowledged that there was no immediate solution to the crisis but stressed that sustained engagement and confidence-building measures were essential
+## Punjab women praise DBT model as ₹1,149 crore reaches beneficiaries under Mukh Mantri Mawan Dheeyan Satkar Yojana
+Punjab's Mukh Mantri Mawan Dheeyan Satkar Yojana has directly transferred ₹1,149 crore to nearly 33 lakh women, revolutionizing welfare delivery.
 
-## Rail accidents, wars, terror, corruption — and onions: Why Indian ministers, even a CM, have quit in the past
-From the 1956 Ariyalur train disaster to 2018 #MeToo exit, the moments that have made staying in office untenable for political leaders.
+## Dharmendra Pradhan resignation: AAP calls it victory for democracy, demands education reforms
+The Aam Aadmi Party hails the resignation of Education Minister Dharmendra Pradhan as a triumph for democracy, attributing it to relentless student protests.
 
-## 'Selfless service': BJP leaders hail Dharmendra Pradhan's tenure as education minister
-Education minister Dharmendra Pradhan resigned on Saturday, after weeks of massive student protests in Delhi .
+## ‘Help uproot BJP’: Tej Pratap Yadav's 'special appeal' to CJP's Abhijeet Dipke to visit Bihar
+Tej Pratap Yadav made the appeal on social media shortly after the CJP called off its protest in Delhi.
 
-## After Pradhan's resignation, PM Modi's first X post celebrates Unesco recognition: ‘Proud moment for every Indian’
-PM Modi wrote a message as he reposted official announcement by United Nations Educational, Scientific and Cultural Organization regarding Sarnath.
+## Uttarakhand CM approves ₹62 crore for development works, Kumbh 2027 preparations and scholarships
+Uttarakhand has sanctioned over ₹62 crore for development projects, including Kumbh Mela 2027 preparations and scholarships for ex-servicemen's children.
 
-## India defeat Zimbabwe by 90 runs, Shreyas Iyer wins first series as captain
-
-
-## The great breakfast debate: What experts really say about day’s ‘most important meal’
+## Gymnast Swathish’s journey: From losing his way to finding joy on Still Rings
 
 
-## Smriti Irani to Dharmendra Pradhan: BJP’s education ministers and their tenures
+## We, the students, looked fear in the eye
 
 
-## Mohun Bagan SG start season with 1-0 win over East Bengal in Durand Cup
+## Mamata joins students’ protest after High Court bars TMCP rally, says cops attacked her
 
 
-## Apara Mehta recalls fans burning her with cigarettes during Kyunki fame: ‘People went crazy’
+## Triumph, euphoria at Jantar Mantar: ‘We took his resignation, (he) didn’t give it’
 
 
-## Germany plane crash: Small aircraft hits house in Lower Saxony, 1 dead
+## UPSC Weekly Current Affairs Quiz (July 19 – July 25): 10 key questions with detailed answers for Prelims 2027
 
 
-## K C Venugopal: ‘Pradhan’s resignation is a united victory of youth, students, Rahul Gandhi and Oppn’
+## Kajal Aggarwal on postpartum body shaming: ‘Arey, you have become so thin’
 
 
-## How a paper leak led to education minister’s resignation: NEET-UG 2026 in a timeline
+## July nightmare: Frequent power cuts plague Pimpri-Chinchwad
+
+
+## Youth power pulled country from shadow of fear which is greatest achievement: Uddhav Thackeray
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -261,6 +261,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## The Battle Over Al-Aqsa
+What happened when thousands of Israelis stormed the Al-Aqsa Mosque compound under Israeli police protection?
+
+## The Global South is being forced to choose creditors over children
+The education of millions of children is at risk because of the current global financial order. We need change
+
 ## Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG
 Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.
 
@@ -278,12 +284,6 @@ Iran reports no new US strikes overnight into Saturday for the first time in two
 
 ## Baby rescued after Israeli settlers set home on fire amid raids
 A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.
-
-## At least 11 killed in Ukrainian and Russian strikes as holiday camp hit
-Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.
-
-## Trump faces backlash for using ‘Palestinian’ as an insult
-US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
