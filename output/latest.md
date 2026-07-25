@@ -36,6 +36,9 @@ Attacks from Iranian-backed Houthi rebels threaten further disruption to global 
 ## Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare
 US tech groups and investors respond to calls for restrictions on advanced Chinese technology
 
+## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
+Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
+
 ## REC posts net profit of ₹4,193 in Q1 FY27
 The infrastructure and logistic portfolio has grown to ₹59,289 crore, which is over 10 per cent of the overall loan assets, REC noted.
 
@@ -57,11 +60,11 @@ Revenue increased 72 per cent to ₹13,033 crore (₹7,591 crore)
 ## Shriram Finance Q1 Results: Net profit up 60% on NII growth
 During the quarter, MUFG Bank, the Japanese banking giant and subsidiary of Mitsubishi UFJ Financial Group, completed its acquisition of a 20 per cent equity stake in Shriram Finance
 
-## IT firms post robust Q1 deal wins, face slower revenue realisation
-Despite robust deal wins, India’s IT firms are seeing slower revenue conversion as clients phase project execution and increasingly opt for outcome-based pricing
+## Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee
+A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa fee. The court left in place a decision finding the fee unlawful while the government challenges it. Democratic attorneys general argued the administration created a new tax without congressional approval. A district judg
 
 ## Trump slaps 10% tariff on India, no major impact seen
-'Not credible', P 19
+
 
 ## US stocks today: Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat
 Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms 
@@ -81,56 +84,56 @@ US Trade Representative Jamieson Greer announced the revised tariffs on 60 econo
 ## India's fertiliser game plan: Over 32 lakh tonnes imported in Q1; strengthened supply chain through overseas deals
 India imported over 32 lakh tonnes of key fertilizers during the first quarter. Domestic production of fertilizers reached 115.72 lakh tonnes in the same period. The government is diversifying import sources to mitigate supply chain risks. Long-term agreements are being finalized with overseas suppl
 
-## Trump imposes new tariffs on 60 economies over forced labour concerns; India gets 10% duty - check full list
+## Govt steps up bid to end impasse, CJP firm on Dharmendra Pradhan’s exit
+Two representatives from the CJP, Ashutosh Ranka and Saurav Das, met with Union ministers for two hours on Friday but remain firm on demand for Pradhan's exit.
 
+## Cabinet clears bill proposing up to 10 years' jail, ₹10 crore fine for paper leaks
+The draft bill, which Modi mentioned in his video late on Thursday night, will now be tabled in the Lok Sabha on Monday, said a person privy to the details.
+
+## 'Criminal education minister': Rahul Gandhi steps up attack on Dharmendra Pradhan
+Gandhi also demanded action against security personnel accused of using pellet guns and batons against protesters.
+
+## CJP protest today LIVE updates: Wangchuk's 'character certificate' jibe at critics; 18 metro stations closed
+CJP protest today LIVE updates: Sonam Wangchuk reiterated that there was no deal with the government. He said his foremost concern during negotiations was ensuring that students participating in the protests were protected from violence and legal action.
+
+## 'Have a heart': Sonam Wangchuk's wife urges people to not judge him for breaking 26-day fast
+Sonam Wangchuk broke his fast shortly after midnight on Thursday in the presence of Union ministers JP Nadda and Jitendra Singh.
+
+## Another Indian seafarer killed in Black Sea strike; LPG carrier comes under fire near Iran
+MV Omorfi was attacked while transiting the Black Sea, reportedly in Russian territorial waters, on July 18, the external affairs ministry said in a statement.
+
+## India lands at 10% under US forced-labour tariff, escapes steeper 12.5%
+India avoids a steeper US tariff, with exports facing a 10% Section 301 duty from Friday after New Delhi tightened rules against forced-labour imports.
 
 ## No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
 No deal with Centre, ended fast fearing crackdown like Ladakh: Wangchuk
 
-## Haryana restored defrauded money to victims five times more than national rate: Officials
-Haryana restored defrauded money to victims five times more than national rate: Officials
-
-## UP CM directs foolproof arrangements for Kanwar Yatra
-UP CM directs foolproof arrangements for Kanwar Yatra
-
-## Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
-Rajnath to pay tribute to Kargil heroes at two-day anniversary event at Dras
-
-## Sonam Wangchuk hits back at 'deal with govt' allegations after breaking 26-day fast: 'Do I need to prove my sincerity?'
-Sonam Wangchuk has denied allegations that he struck a 'deal' with the government to end his 26-day hunger strike.
-
-## PM Modi 'thanks friends' in Instagram reel after paper leak selfie video
-Prime Minister Narendra Modi thanked young viewers through a new Instagram reel following his paper leak message amid continuing student protests nationwide.
-
-## Swelling crowds, defiant mood as protest stays firm at Jantar Mantar
-Satish Deshpande, who travelled from Madhya Pradesh to Jantar Mantar, insisted the demonstration must continue
-
-## India condemns Black Sea attack on vessel that killed Indian seafarer
-MV Omorfi, a bulk carrier with a crew of 10, including three Indian nationals, was attacked while transiting the Black Sea, on July 18
-
-## Bill criminalising insult to Vande Mataram introduced in House
+## AI can guide forest restoration, but challenges remain: Indian Forest Service officer Pushpendra Rana
 
 
-## India dismisses Pakistan flood claims, says Chenab water rise due to heavy rain
+## Bank ‘deducts’ money from man’s ‘inactive’ credit card, ordered to refund Rs 1.26 lakh
 
 
-## US-Iran war live updates: US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes
+## ‘Out of syllabus’, ‘errors’ in questions: Why Santhali candidates are seeking re-test of Jharkhand staff selection exam
 
 
-## Using discarded wrappers, cops trace outlets sending food to Jantar Mantar protest site
+## Now Bengal: Prayers outside ancient mosque, BJP leader plans Shiva Lingam to strengthen ‘temple’ claim
 
 
-## The Pradhan impasse: Why Centre is not ready to blink as CJP deadline looms
+## How the new US tariffs stack India against its competitors
 
 
-## Jail up to 10 years, Rs 10-cr fine for exam leak: Nod for tough new law
+## What is the status of the West Asia war and negotiations with Iran? Here’s how Trump sees it
 
 
-## Rivers rising, BLOs in Punjab’s border areas take boats to meet SIR deadline
+## Shine on, Dick Parry
 
 
-## CWG 2026: Para powerlifter Jhandu Kumar wins bronze, opens India’s account
+## ‘What kind of arrogant government will not listen to kids?’: Actor Abhishek Banerjee joins protests in Goa
 
+
+## Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures
+On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories revea
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
 Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly missed market estimates for second-quarter revenue and net profit, as China’s weakening demand for electric vehicles (EVs) outweighed benefits from the energy shock. The world’s largest battery maker reported a record 1
@@ -152,9 +155,6 @@ Life insurance sales in Hong Kong rose 51 per cent in the first quarter to anoth
 
 ## Wall Street funds back China’s WuXi AppTec as weight-loss drug orders soar
 US global asset managers, including BlackRock, have expanded stakes in mainland Chinese pharmaceutical contractor WuXi AppTec over the past two months, betting that a surge in weight-loss drug manufacturing orders will lift earnings in the first half of the year. Global investors were increasingly i
-
-## Securities watchdog to channel more medium- and long-term capital into China markets
-China’s securities watchdog has pledged to channel more medium- and long-term capital into the country’s stock markets and fortify financial defences against external shocks, as authorities move aggressively to stabilise sentiment following recent market turbulence. At a meeting on Thursday, the Chi
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -252,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## China, Philippine coastguard vessels clash in South China Sea
-China, Philippine coastguard vessels clash in South China Sea.
+## Sons of immigrant killed by ICE in Texas share grief, demand accountability
+Lorenzo Salgado Araujo's sons tell lawmakers their father worked hard 'to protect and provide' for his family.
 
-## Paramount agrees to pause Warner Bros deal while court case plays out
-The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.
+## Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn
+EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.
 
-## Iran’s Abbas Araghchi vows ‘we fear no one’
-Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or 'succumb to pressures'.
+## GLP-1s are changing US healthcare, should everyone be on them?
+GLP-1 drugs, originally developed to treat diabetes and now widely used for obesity, are reshaping healthcare in the US.
 
-## Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown
-Tyson Fury forced his Polish opponent, Mariusz Wach, to retire in the fight at a Muay Thai stadium in Pattaya, Thailand.
+## Saudi-led coalition strikes Houthi-controlled Hodeidah
+The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.
 
-## Spanish police accuse tractor driver of sparking wildfire as blazes spread
-The number of people forced to flee the heatwave-induced fires in Spain and France has now passed the 100,000 mark.
+## UN rights chief Turk wins second term despite US and Israeli opposition
+Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.
 
-## UNESCO places occupied West Bank, Lebanon sites on endangered heritage list
-Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.
+## Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks
+US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.
 
-## US small businesses challenge Trump’s new forced labour tariffs
-In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.
+## Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel
+US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the 'Abraham Accords'.
 
-## Israeli settlers escalate attacks on Palestinians near Nablus
-Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus
+## Which matches and tournaments can football fans watch after the World Cup?
+Al Jazeera's guide to filling the football void with the Champions League, Premier League, La Liga, UEFA Super Cup and more.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
