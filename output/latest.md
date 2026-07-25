@@ -1,6 +1,21 @@
 # AION Intelligence
 
-## Investors bet on Federal Reserve rate rise after oil price surge
+## India’s ‘cockroach’ movement halts protests after minister quits
+Dharmendra Pradhan’s departure was a key demand of the burgeoning student movement
+
+## Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites
+Tit-for-tat attacks risk expanding the regional war in the Middle East
+
+## Washington and London discuss plan for meeting to resolve Hormuz crisis
+Gathering to consider forming an international maritime coalition to safeguard shipping
+
+## France and Spain evacuate almost 250,000 people as ‘unprecedented’ wildfires spread
+Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux
+
+## Maha Inc: how companies tied to Kennedy’s movement are poised to benefit
+Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul
+
+## Investors increase bets on Federal Reserve rate rise after oil price surge
 Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say
 
 ## Macron and Merz move on from fighter jet heartbreak
@@ -9,20 +24,11 @@ The threat of a Le Pen presidency has provided an incentive for Paris and Berlin
 ## US immigration enforcement caught between Trump and public backlash
 Killings by ICE agents undermine support of voters but White House doubles down on deportation policy
 
-## Saudi Arabia strikes Houthis after Iran-backed rebels target tankers
-Kingdom’s civil defence forces warn key energy sites at risk of retaliatory attacks
-
-## Who owns shares?
-Household exposure to stocks varies dramatically across countries
-
 ## Intern arrested on suspicion of spying at Nato military HQ
 Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
 
 ## Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal
 Largest ever foreign investment in the Gulf state comes as it seeks to raise capital in face of Iranian attacks
-
-## France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread
-Extreme heat and high winds fuel fast-moving blazes as authorities in both countries battle to contain them
 
 ## Who wants to buy a football club?
 Also in today’s newsletter: the new-look Hundred returns and the Commonwealth Games fight for relevance
@@ -39,32 +45,32 @@ Unlike the 1970s, there is a conversation to be had here
 ## Dropping quarterly company reports in US may not be a bad thing
 Despite backlash against SEC, it could be beneficial if done in the right way
 
-## India and South Africa lead push to amass emergency fuel stockpiles
-Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers
+## PhonePe FY26 revenue rises 11% to ₹7,920 crore; net loss widens 62% ahead of IPO
+Revenue in the second half rose to about ₹3,746 crore, indicating stronger business momentum during the latter part of the year
 
-## Power Engineers’ Federation opposes Govt’s parallel distribution licence proposal
-AIPEF calls proposal ‘backdoor privatisation’ of electricity distribution
+## Isuzu signs five-year pact with Kamarajar Port for vehicle exports
+Isuzu Motors India will receive concessional wharfage rates linked to export volumes for the next five years, a move aimed at enhancing the competitiveness of vehicle exports through the port
+
+## Andhra Pradesh to scale up use of drones for reforestation
+Andhra Pradesh aims to achieve 50% green cover; to step up seed ball dispersal
+
+## Birla Corporation Q1 results: Profit dips 3.2% to ₹115.7 cr on lower cement prices, fuel cost surge
+Birla Corporation’s revenue from operations, however, rises 7.8% to ₹2,646.45 crore in Q1 FY27
+
+## IDFC FIRST Bank’s Q1FY27 net profit soars 132% to ₹1,075 cr
+In the reporting quarter, the Bank recorded a 21 per cent growth in net interest income at Rs ₹5,972 crore (Rs ₹4,933 crore in the year ago period)
 
 ## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
 Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## Education Minister Dharmendra Pradhan resigns after youth protests
-The minister announced ‌his resignation ​on X
+## Dharmendra Pradhan’s resignation sparks jubilation at Jantar Mantar
+Even as protesters celebrated the minister’s resignation, they made it clear that the agitation was far from over
 
-## Will continue protest till all demands are met: CJP founder Abhijeet Dipke after Dharmendra Pradhan’s resignation
-Dipke says the two remaining demands are compensation for the families of students who committed suicide and the resignation of the Delhi Police personnel who carried out the lathi charge
+## CJP withdraws protest in "good faith" after Pradhan's resignation, says govt agreed to all demands
+The government has agreed to provide suitable compensation to the families of the NEET aspirants who died by suicide and assured to withdraw the FIRs lodged against protesters anywhere in India
 
-## Aster DM Quality Care to invest ₹1,315 crore in Karnataka
-As part of its expansion plans, Aster is developing the 550-bed Aster Hospital, Yeshwantpur, the 460-bed Aster Hospital, Sarjapur, and a 350-bed expansion at Aster CMI Hospital
-
-## Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week
-As OpenAI faces backlash from its AI agent’s breach of Hugging Face, experts warn about the implications for AI safety and risks of more autonomous systems
-
-## Govt likely to introduce bill to amend paper leak law in Parliament on Monday
-The Bill states that those involved in paper leaks or cheating in exams will face 5 to 10 years in prison and fines up to ₹50 lakh
-
-## Delhi Police monitoring social media for fake posts linked to Jantar Mantar protest
-Police say several false narratives being circulated online to create panic and mislead people
+## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
+Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
 
 ## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
 
@@ -87,56 +93,56 @@ The Union cabinet approved a Rs 1,264-crore railway project for new lines. This 
 ## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
 Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
 
-## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
-The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
+## 'Dharmendra Pradhan resigned under no pressure,' says BJP leader; urges parents not to send students to ‘such protests’
+Dubey praised Pradhan’s long association with the education sector and highlighted his role in introducing major reforms
 
-## ‘Congratulations to India’: How politicians reacted to Pradhan's resignation
-Dharmendra Pradhan said he tendered the resignation to Prime Minister Narendra Modi, keeping the future and career of students in mind.
+## NEET victims’ families seek reforms, say Pradhan’s resignation not enough
+Most of the parents said the government never understood pain of the students who appeared for NEET and their parents
 
-## Internet, metro, liquor shops: What is restricted in Delhi amid CJP protest
-According to Delhi government officials, the decision to reduce liquor shop timings was taken based on inputs from Delhi Police.
+## BJP veteran MM Joshi says ‘better late than never’ as Pradhan quits; had criticised use of force on CJP protesters
+Joshi has not shied away from critiquing Modi regime on policy issues and handling of political controversies, including the Cockroach Janta Party-led protests
 
-## 'People created obstacles…': Pradhan hits out at 'forces' blocking education reforms in resignation letter
-In his resignation letter posted on X, Pradhan gave his reasons for stepping down from the Narendra Modi cabinet.
+## Abhijeet Dipke's mother breaks down as Pradhan resigns: ‘Couldn’t sleep, was worried about him'
+Abhijeet Dipke's mother Anita had tears in her eyes as she recalled what her son witnessed over the past few days as he led the CJP protest in Delhi.
 
-## ‘Thanks for calling us cockroaches’: Abhijeet Dipke's message for CJI Surya Kant as Modi govt gives in, minister resigns
-CJP traces origin, name to May hearing at which CJI Kant used "cockroaches" and "parasites" for jobless youth and later clarified he meant fake degree holders
+## Peace in Manipur needs trust, IDP rehabilitation first: Conrad Sangma
+He acknowledged that there was no immediate solution to the crisis but stressed that sustained engagement and confidence-building measures were essential
 
-## 'Victory of democracy': Sonam Wangchuk on Dharmendra Pradhan's resignation
-Sonam Wangchuk hailed the resignation of Union Education Minister Dharmendra Pradhan as a victory of democracy.
+## Rail accidents, wars, terror, corruption — and onions: Why Indian ministers, even a CM, have quit in the past
+From the 1956 Ariyalur train disaster to 2018 #MeToo exit, the moments that have made staying in office untenable for political leaders.
 
-## What's 'pending' after Dharmendra Pradhan resigns: CJP lists updated demands
-CJP shared an updated list of its demands, marking Pradhan's resignation as fulfilled while reiterating its calls for ₹1 crore compensation and other demands.
+## 'Selfless service': BJP leaders hail Dharmendra Pradhan's tenure as education minister
+Education minister Dharmendra Pradhan resigned on Saturday, after weeks of massive student protests in Delhi .
 
-## New bill against paper leaks will have stricter punishments, faster trial: Govt
-Minister for DoPT Jitendra Singh, who is also the government interlocutor along with union health minister JP Nadda, is set to introduce the bill in the Lok Sabha on Monday
+## After Pradhan's resignation, PM Modi's first X post celebrates Unesco recognition: ‘Proud moment for every Indian’
+PM Modi wrote a message as he reposted official announcement by United Nations Educational, Scientific and Cultural Organization regarding Sarnath.
 
-## Dharmendra Pradhan's resignation breaks with Modi govt's long-held line, ‘this is not UPA’
-Dharmendra Pradhan's resignation is first by a cabinet-rank minister as responsibility over a governance row during Modi's tenure of 12 years as PM so far.
-
-## 83-year-old bedridden man’s landline cut for 2 years, BSNL to pay Rs 15,000
+## India defeat Zimbabwe by 90 runs, Shreyas Iyer wins first series as captain
 
 
-## TEDx and LinkedIn to gurukuls, social media: Meet Ram temple trust’s new ‘guidance’ panel
+## The great breakfast debate: What experts really say about day’s ‘most important meal’
 
 
-## ‘He was slapped, vilified’: Abhijeet Dipke’s parents celebrate big moment
+## Smriti Irani to Dharmendra Pradhan: BJP’s education ministers and their tenures
 
 
-## CJP protest: Prakash Raj congratulates ‘cockroaches’, Priyanka Chopra claps for Gen-Z
+## Mohun Bagan SG start season with 1-0 win over East Bengal in Durand Cup
 
 
-## Indian Railways to start train services from new platform 24 at Howrah station on July 27
+## Apara Mehta recalls fans burning her with cigarettes during Kyunki fame: ‘People went crazy’
 
 
-## The rise and fall of Dharmendra Pradhan: BJP’s trusted organiser undone by NEET leak
+## Germany plane crash: Small aircraft hits house in Lower Saxony, 1 dead
 
 
-## The monsoon grocery list: 5 foods to stock up on and five you shouldn’t overbuy
+## K C Venugopal: ‘Pradhan’s resignation is a united victory of youth, students, Rahul Gandhi and Oppn’
 
 
-## Commonwealth Games Day 3 Live: Sachin enters round of 16 in men’s boxing
+## How a paper leak led to education minister’s resignation: NEET-UG 2026 in a timeline
 
+
+## What is a supernode, and why does it matter for the China-US tech rivalry?
+As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technolog
 
 ## Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang
 Yu Donglai, founder of viral local supermarket chain Pangdonglai, became a star addition to a recent high-level economic symposium chaired by Chinese Premier Li Qiang, where economists and leading entrepreneurs gathered to discuss the country’s economic outlook. The retailer, headquartered in Xuchan
@@ -158,9 +164,6 @@ Chinese tech giant Tencent Holdings has fired a manager at its WeChat division a
 
 ## Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources
 MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially filed for a listing in Hong Kong, according to people familiar with the matter. The Shanghai-based company was targeting an initial public offering (IPO) by the end of this year, according to the sources, who asked not to
-
-## Hong Kong exchange’s biggest reform in 8 years opens gates to more IPOs
-Stock exchange operator Hong Kong Exchanges and Clearing (HKEX) will allow all listing applications to remain confidential and will reduce market-capitalisation requirements for listings by start-ups and international firms immediately, it announced on Friday. Confirming a report by the South China 
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## How Volker Turk won a new term as UN rights chief despite Israel opposition
-UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.
+## Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG
+Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.
 
-## Israel arrests dozens of Palestinians in West Bank amid settler attacks
-Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.
+## War on Iran: Phase II: Day 14
+War on Iran: Phase II: Day 14
 
-## India’s education minister resigns after weeks of ‘Cockroach’ protests
-Dharmendra Pradhan quits in first major concession from PM Narendra Modi's government after nationwide demonstrations.
+## F1 needs better balance between business and sport, says Norris
+Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.
 
-## Dodging snipers, housing crisis forces Yemenis to live on front line
-Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.
+## What’s behind the ICC investigation into Karim Khan?
+Lawyers for the ICC’s ousted Chief Prosecutor Karim Khan say he is the victim of a political witchhunt
 
-## Wildfires in Spain and France force evacuation of 200,000 people
-France has appealed for international help, while Spain has declared a national emergency.
+## Iran blames US for Hormuz dispute as both sides confirm ongoing talks
+Iran reports no new US strikes overnight into Saturday for the first time in two weeks.
 
-## Born too soon: Premature babies fight for survival in Gaza
-Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.
+## Baby rescued after Israeli settlers set home on fire amid raids
+A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.
 
-## Guterres arrives in Syria in first official visit by a UN chief in 17 years
-The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.
+## At least 11 killed in Ukrainian and Russian strikes as holiday camp hit
+Separately, at least eight people killed in Ukrainian attacks on a Russian-controlled area.
 
-## Trump: ‘I’m running for a fourth term as President of the United States’
-During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.
+## Trump faces backlash for using ‘Palestinian’ as an insult
+US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
