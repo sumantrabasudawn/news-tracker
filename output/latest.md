@@ -24,44 +24,44 @@ Despite backlash against SEC, it could be beneficial if done in the right way
 ## More than 600,000 UK high earners could be dragged into pension trap by 2032
 If thresholds are not changed, 114,000 more taxpayers face being caught by the tapered annual allowance
 
+## Intern arrested on suspicion of spying at Nato military HQ
+Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
+
+## Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal
+Largest ever foreign investment in the Gulf state comes as it seeks to raise capital in face of Iranian attacks
+
+## Who wants to buy a football club?
+Also in today’s newsletter: the new-look Hundred returns and the Commonwealth Games fight for relevance
+
 ## In a glum moment for budget airlines, Ryanair may have the last laugh
 Investors underestimate how balance-sheet strength might be a differentiating factor in what happens next
 
 ## India and South Africa lead push to amass emergency fuel stockpiles
 Developing countries forced into rationing during Middle East conflict plan to build or expand official buffers
 
-## Forever chemicals are everywhere. Should we care?
-How the quest to detoxify our household items became charged with anxiety
+## Govt likely to introduce bill to amend paper leak law in Parliament on Monday
+The Bill states that those involved in paper leaks or cheating in exams will face 5 to 10 years in prison and fines up to ₹50 lakh
 
-## Mexico’s Sheinbaum puts faith in petrol price cap
-Business leaders wary of president’s interventionist policies
+## NTPC board approves raising up to ₹12,000 cr via NCD issue
+The commercial power generation rose to 93.63 billion units (BU) in the quarter from 91.06 BU in the same period a year ago
 
-## Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit
-Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up
-
-## India and Tanzania review trade, defence, and digital ties at 3rd Foreign Office Consultations
-The Ministry of External Affairs announced that the meeting was led by Janesh Kain of India’s MEA and Felister Rugambwa of Tanzania’s Ministry of Foreign Affairs
-
-## WestBridge said to be considering stake sale in Star Health
-WestBridge is reported to have spoken with financial advisers to evaluate a sale of its 40% stake in the insurance company
-
-## Modi under pressure as CJP leaders set for further talks with government
-The CJP leaders have said Education Minister Pradhan should take responsibility for the NEET paper lead and step down
-
-## Harrisons Malayalam pilots drone-based green leaf transport at Lockhart Estate
-The initiative, in partnership with Tropoworks, aims to improve field logistics, boost productivity, reduce manual handling, and expedite the movement of green leaf from field to factory
-
-## 386 private FM radio channels operational, 20% content should be in local language to promote regional culture: Union Minister L Murugan
-The Private FM Radio Phase-III policy permits broadcasters to access Prasar Bharati towers and sites, wherever available, for faster rollout
-
-## 'You cannot stop food or protests': CJP accuses Delhi Police of blocking food supplies at Jantar Mantar
-CJP demonstration will go on until Dharmendra Pradhan steps down, the party said
+## Education Minister Dharmendra Pradhan resigned
+The minister announced ‌his resignation ​on X
 
 ## Q1 Results Today Live: AU Small Finance Bank, IDFC First Bank, Dr. Reddy's Lab, Zen Tech, SBFC Finance, Birla Corporation to announce Q1 results
 Q1 Results Today, 25th July 2026 Live Updates: Track all the latest Q1 FY27 earnings announcements, corporate developments and management commentary as companies report their June quarter results.
 
-## Tata Sons Chair N Chandrasekaran's reappointment to board to come up in AGM, process closely watched after Tata Trust restrictions
-Chandrasekaran is due to retire by rotation as a director under Tata Sons' Articles of Association
+## New US Section 301 tariff puts Indian gems & jewellery exports under pressure
+Duty-free access for rival diamond hubs such as Belgium offsets benefit of India’s tariff advantage over China, Vietnam and some other competing countries
+
+## SBI recruits 1,930 circle-based officers to strengthen banking operations
+The bank currently has a workforce of more than 2,45,000 employees
+
+## Maruti Suzuki bets on Kharkhoda capacity to drive SUV growth
+Expanded Haryana facility to support Brezza, Fronx and Victoris production as carmaker looks to strengthen its position in India’s highly competitive SUV market
+
+## Students are India's future, Modi is past; past can never fight the future: Rahul Gandhi
+Students’ demand to sack Dharmendra Pradhan is non-negotiable, he said
 
 ## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
 
@@ -87,55 +87,58 @@ Indian stock markets closed lower for a fifth consecutive session on Friday. Ris
 ## BHAVYA Rasayan scheme: Cabinet approves Rs 3,030 crore for three chemical parks
 The Union cabinet approved a new Rs 3,030-crore scheme for three dedicated chemical parks. This initiative aims to strengthen India's chemicals sector with world-class infrastructure. The Bharat Audyogik Vikas Yojana Rasayan scheme will be implemented over five years. The Centre will provide up to R
 
-## Assam flood death toll climbs to 61; 14 more people lost their lives: ASDMA
-Sarma said that more than 1.1 million people across 2,000 villages are suffering and the government is trying to provide adequate support
+## ‘We have done it’: Abhijeet Dipke's first reaction as Dharmendra Pradhan resigns
+Abhijeet Dipke received a phone call about the resignation of Dharmendra Pradhan after which celebrations erupted.
 
-## Rajasthan YouTuber kidnapped from studio rescued, two men arrested: Police
-A YouTuber allegedly kidnapped from Rajasthan’s Tonk was rescued after a police blockade, with two accused arrested.
+## Dharmendra Pradhan resigns as education minister amid on-going protest
+The resignation comes in the wake of ongoing protest against paper leaks and other irregularities in the conduct of examinations
 
-## Low-pressure area formed in Bay of Bengal, likely to bring heavy rain till Monday
-Low-pressure area formed in Bay of Bengal, likely to bring heavy rain till Monday
+## 'Chhatra Shakti Zindabad': CJP celebrates Dharmendra Pradhan's resignation, calls it victory for students
+In a statement, the Cockroach Janta Party shared Dharmendra Pradhan's resignation letter, calling it a victory for the student movement.
 
-## 'Dharmendra Pradhan has to be sacked, non-negotiable': Rahul Gandhi after meeting students
-In a post on X, Gandhi said, "Students' three demands non-negotiable; Pradhan has to be sacked," while expressing support for the protesters' demands.
+## Stiffer jail terms, task forces, faster trials: The changes paper-leak bill would introduce & state laws it could join
+The 2026 bill would compress investigation and trial timelines, raise penalties, and create a new task force route, besides similar laws in over a dozen states.
 
-## 'If I die of stress...': Wangchuk's confrontation with police in hospital goes viral; authorities issue clarification
-While lying on the floor, Sonam Wangchuk reiterates that the court's order is public knowledge, saying, "It is digitally everywhere. The world knows except you.
+## 'To ensure anti-national forces don't take advantage': What Dharmendra Pradhan's resignation letter says
+In a letter posted on X, Pradhan said he was taking moral responsibility for the developments surrounding the medical entrance examination.
 
-## ‘Couldn’t shut paper leaks': Opposition attacks Centre over Delhi metro, internet restrictions amid CJP protest
-The allegations came as 18 Delhi Metro stations across central Delhi remained closed for the fourth consecutive day on Saturday.
+## Dharmendra Pradhan resigns as education minister amid massive paper leak protests
+Dharmendra Pradhan said that he was taking the decision to resign keeping the future and career of students in mind. He has sent his resignation to PM Modi.
 
-## 57-year-old man dies during crowd surge at Bahuda Yatra in Puri: Police
-A 57-year-old devotee from Cuttack died during a crowd surge at Puri’s Bahuda Yatra, taking the reported death toll linked to this year’s Rath Yatra to four.
+## Bharatiya Kisan Union to join students’ protest in Delhi; march on July 27
+The farmers’ body also plans to send volunteers and essential supplies, including dry rations, to help sustain the sit-in
 
-## CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
-CJP founder Abhijeet Dipke diagnosed with typhoid, says agitation will continue
+## Faster trials, longer jail terms: What 2026 bill on paper leak amid CJP protest proposes, how it differs from 2024 law
+CJP and Cong insist on nothing less than resignation of education minister Dharmendra Pradhan; govt seeks to counter and assuage youth movement with law change.
 
-## Punjab AAP hits reset in seats before 2027 elections, sparks ticket struggle
-
-
-## Court strikes down Centre’s pan masala cess: Why the law failed Article 14 test
+## ‘To ensure anti-national forces don’t exploit Jantar Mantar’: Here is the full text of Dharmendra Pradhan’s resignation letter to PM Modi
 
 
-## US Senator brings in Bill seeking 3-year pause on H-1B visas, standardised $100,000 fee
+## As Dharmendra Pradhan resigns, Centre moves in cops to clear protest sites in Delhi
 
 
-## Lock Upp 2: Apoorva Makhija asks Shivangi Joshi, Harshad Chopda if they’re ‘stuck in a TV serial’
+## ‘Cockroaches won, democracy won’: CJP on Dharmendra Pradhan’s resignation
 
 
-## ‘We salute you’: Minister honours officials attacked during Bengaluru footpath drive
+## ‘I failed at it miserably’: Masaba Gupta reveals how a tennis setback shaped her success
 
 
-## ‘No reshuffle, sack Pradhan’: Rahul Gandhi backs protesting students
+## ‘Sebaashray camp is a scam’: Bengal CM targets Abhishek Banerjee, warns of strict action
 
 
-## Nicobar project to safeguard Indo-Pacific interests, Rajnath tells Congress
+## ‘These kids have courage’: Parents rally behind students at Jantar Mantar
 
 
-## This ‘core controller’ exercise is Kriti Sanon’s secret to toned abs
+## Iranian threat to Air Force One prompted Trump to swap plane during NATO Summit
 
 
-## China hits Trip.com with US$765 million antitrust penalty after six-month investigation
+## 10 years in jail, Rs 10 crore in fines: What new anti-paper leak Bill says
+
+
+## Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang
+Yu Donglai, founder of viral local supermarket chain Pangdonglai, became a star addition to a recent high-level economic symposium chaired by Chinese Premier Li Qiang, where economists and leading entrepreneurs gathered to discuss the country’s economic outlook. The retailer, headquartered in Xuchan
+
+## China hits Trip.com with US$765 million antitrust penalty after 6-month investigation
 China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”. Trip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site S
 
 ## Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures
@@ -155,9 +158,6 @@ MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially f
 
 ## Hong Kong exchange’s biggest reform in 8 years opens gates to more IPOs
 Stock exchange operator Hong Kong Exchanges and Clearing (HKEX) will allow all listing applications to remain confidential and will reduce market-capitalisation requirements for listings by start-ups and international firms immediately, it announced on Friday. Confirming a report by the South China 
-
-## Hong Kong insurers ride affluent demand to record sales as longevity and legacy needs grow
-Life insurance sales in Hong Kong rose 51 per cent in the first quarter to another record high, driven by affluent customers from mainland China and overseas buying policies for wealth transfer, protection and medical needs. The industry wrote HK$141.1 billion (US$18 billion) in new life policies in
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel arrests dozens of Palestinians in West Bank amid settler attacks
+Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.
+
+## India’s education minister resigns after weeks of ‘Cockroach’ protests
+This is a breaking news story.
+
+## Dodging snipers, housing crisis forces Yemenis to live on front line
+Living near Taiz's front line forces families to make difficult choices amid sniper threats and economic hardships.
+
+## Wildfires in Spain and France force evacuation of 200,000 people
+France has appealed for international help, while Spain has declared a national emergency.
+
+## Born too soon: Premature babies fight for survival in Gaza
+Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.
+
+## Guterres arrives in Syria in first official visit by a UN chief in 17 years
+The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.
+
 ## Trump: ‘I’m running for a fourth term as President of the United States’
 During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.
 
 ## Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion
 Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.
-
-## Venezuelans hold vigil one month after devastating earthquakes
-One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.
-
-## South Africa’s le Clos breaks Commonwealth Games record with 19th medal
-A record 19th medal took South Africa's Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England.
-
-## Funerals held for four Palestinians killed in deadly West Bank shooting
-Overnight funerals were held for four Palestinians killed near Nablus.
-
-## ‘The show must go on’: Trump returns to rescheduled White House press gala
-US president makes jokes, mocks opponents at correspondents' dinner that was halted by a shooting in April.
-
-## Firefighters battle fire after fertiliser explosion in England
-A fertiliser explosion at a farm in Essex triggered a major incident.
-
-## From palava huts to TikTok: How Liberians are preserving their past
-From podcasts to TikTok, young Liberians are using digital platforms to keep history alive and challenge old narratives.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
