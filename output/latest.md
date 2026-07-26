@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## ‘Violent’ wildfires rage close to French and Spanish cities
+The two countries evacuate about 335,000 people as minister calls blazes ‘the most aggressive’ Spain has ever suffered
+
+## FirstFT: India’s Gen Z protests dent Narendra Modi’s aura of invincibility
+Also in today’s newsletter: China pours funding into green energy deals and the US pauses Iran strikes
+
 ## US pauses Iran strikes as Oman pursues Hormuz transit deal
 Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
 
@@ -17,12 +23,6 @@ The real problem is not overseas open-source but lack of co-ordination to protec
 
 ## Reform UK’s bank account was frozen during 2024 election
 Nigel Farage’s party faces increased scrutiny of finances ahead of Clacton by-election
-
-## Gibraltar should show Burnham a softer Brexit is the only option
-The recent deal again illustrates that closer alignment with the EU offers the best of both worlds
-
-## ‘Violent’ wildfires rage close to French and Spanish cities
-About 335,000 evacuated in worsening blazes
 
 ## Central bankers take centre stage
 Fed, BoE and BoJ to decide interest rates, Greater Manchester elects a new mayor, earnings season moves up a gear
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## What’s causing the unprecedented wildfires in Europe?
+France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.
+
+## Israeli government nods to international stabilisation force in Gaza
+The ISF, to be staffed by 'friendly countries', will operate in areas outside of Israel's military control.
+
+## Palestinians hope international peace force can rebuild Gaza
+Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.
+
+## US and Iran hit pause on strikes for second day
+The relative calm comes amid reports of renewed efforts to restore diplomatic talks.
+
+## Former President Hernandez returns to Honduras after Trump pardon
+Trump called Hernandez's drug-trafficking trial a set-up by the Biden administration.
+
 ## Houthis claim Saudi drone downed over northwestern Yemen
 Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.
 
@@ -263,21 +278,6 @@ Mediation efforts continue but uncertainty remains as risks of further disruptio
 
 ## Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon
 Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.
-
-## 46 people rescued from sunken ship in South China Sea
-Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.
-
-## Cuban president accuses US of genocide, seeking takeover
-Island has weathered a US oil embargo since January and is enduring one of its worst economic crises.
-
-## Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani
-Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel.
-
-## Israeli settlers burn two mosques in occupied West Bank
-Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.
-
-## Romania summons Russian envoy as it shoots down third intruding drone
-The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
