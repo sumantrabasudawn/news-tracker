@@ -1,13 +1,22 @@
 # AION Intelligence
 
-## One dead and 16 injured after van drives into Berlin Pride crowd
+## India’s Gen Z protesters puncture Modi’s aura of invincibility
+Long-serving premier the target of demonstrators’ anger
+
+## US economic anxieties on display in battle over digital store labels
+New Jersey becomes first state to halt electronic price tags partly on fears they could be used for surveillance
+
+## Deadly storm in Chile disrupts copper mines and raises AI supply concerns
+Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility
+
+## Burnham ‘rules out’ early election
+New UK prime minister says he will stand up to Donald Trump when in Britain’s interest
+
+## One dead and 16 injured as vehicle drives into Berlin Pride crowd
 Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
 
 ## Investors use crypto exchanges to avoid Chinese controls on AI stocks
 Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
-
-## Deadly storm in Chile disrupts copper mines and raises AI supply concerns
-Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility
 
 ## Defence giants provide record backing for military start-ups
 As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists
@@ -15,17 +24,11 @@ As drones and autonomous systems transform the battlefield, traditional defence 
 ## Chips and drones to be at heart of Burnham’s push to ‘reindustrialise’, AI minister says
 Kanishka Narayan tells FT that new prime minister views technology as way for Britain ‘to get its mojo back’
 
-## The British state school that is the first to open an overseas branch
-Queen Elizabeth’s School thinks it can be a model for others as it hunts for new revenue in Dubai and Delhi
-
-## Maga’s creepy baby obsession won’t solve the fertility crisis
-But neither will pretending that it’s merely an economic issue
+## British unicorn Humanoid points to way forward for European tech
+London-based company shows that while the continent is industrialising, it still has manufacturing clout
 
 ## Forget bazaars and saris: fast fashion takes off in India
 Chains such as Zudio are luring cost-conscious shoppers with cut-price designs and contemporary stores
-
-## British unicorn Humanoid points to way forward for European tech
-London-based company shows that while the continent is industrialising, it still has manufacturing clout
 
 ## Why workers are nostalgic for life before AI
 Many white-collar professionals worry about the tech inhibiting creativity and making errors
@@ -33,29 +36,35 @@ Many white-collar professionals worry about the tech inhibiting creativity and m
 ## Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit
 Chair says Bayesian manufacturer’s legal challenge against Mike Lynch’s estate is ‘very specific to one shipbuilder’
 
-## Nippon India MF tops mutual fund industry with over 4 cr folios
-The mutual fund industry had 27.86 crore folios at the end of June, with Nippon India MF accounting for 14.4% (4.02 crore folios) of the total
+## Air India modifying certain Dreamliners to address possible door assist handle issue
+FAA has asked airlines to make modifications in certain models since detachment of door assist handles could cause injuries to passengers, crew or maintenance personnel when opening the door.
 
-## PNB profit to cross ₹20,000-cr mark in FY27: MD Chandra
-PNB MD Ashok Chandra says the lender will build on its ₹5,000 crore-plus quarterly profit run while expanding retail, MSME and agri lending.
+## FSSAI suspends license of Westend Agro Products and Rehaan Healthcare
+Several food products were found with altered manufacturing dates, expiry dates, batch numbers and misleading label declarations
 
-## Tamil Nadu extends 7th State Finance Commission’s tenure till December 2026
-The Seventh State Finance Commission is chaired by retired IAS officer K. Allaudin, and was formed in May 2025
+## Lodha Developers targets 20% profit growth in FY27 to ₹4,100 cr
+Lodha Developers’ profit doubled to ₹1,373.1 crore in April-June from ₹675 crore in the year-ago period
 
-## Nepal requests India to recognise National ID card as valid travel document
-If approved, the biometric National Identity Card will become the third accepted ID for Nepali citizens travelling to India by air and land.
+## CCI avoiding suo motu cases unless nobody willing to come forward
+The watchdog has the mandate to curb unfair business practices, as well as foster fair competition, across sectors
 
-## AlcoBev company ABDL targets mid-teen growth in FY27, aims to cross ₹600 crore EBITDA
-The company reported a 5.8% y-o-y increase in operational income to ₹984 crore for the June quarter, driven by a premiumisation strategy and a volume of 9 million cases, up 6.2%
+## FM Sitharaman directs Income Tax dept to work for benefit of common people
+She expressed disappointment at the government’s “laidback” approach, which contributes to illegal occupation or encroachments on government lands
 
-## Oil prices, US Fed rate decision, West Asia crisis to drive mkts: Analysts
-Last week, the BSE benchmark Sensex tanked 2,091.68 points, or 2.67%, and the NSE Nifty declined 566.85 points, or 2.32%
+## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
+The tariff proposal, aimed at encouraging drug manufacturing in the US, has triggered a debate within India's pharmaceutical sector over its long-term implications.
 
-## Merchant vessel with 4 Indians struck at Ukraine’s Odesa port; 2 safe, fate of 2 awaited
-The Indian Embassy in Kyiv said search operations are underway after MV AGN Ragnar was hit at the Black Sea port, with information awaited on two Indian nationals.
+## PM highlights defence, self-reliance and environment in Mann Ki Baat, avoids reference to NEET unrest
+The Prime Minister avoided mentioning the Jantar Mantar issue, focusing instead on national pride, technological progress, conservation, and community initiatives
 
-## Mcap of nine of top-10 most valued firms erodes by Rs 2.74 lakh cr; HDFC Bank takes biggest hit
-Banking stocks emerged as the biggest drag following mixed Q1 FY27 earnings, while a risk-off environment and weakness in the rupee further curtailed buying interest
+## IT dept issues detailed crypto reporting norms, tightening tax oversight without changing levy
+Move follows Parliamentary Standing Committee on Finance’s call for a statutory and regulatory framework for VDAs
+
+## Market recap: Top-10 firms shed Rs 2.74 lakh crore in value; HDFC Bank takes biggest hit
+Indian stock markets experienced a significant downturn last week. Nine of the ten most-valued companies saw their market worth decline. HDFC Bank faced the largest valuation drop, while Hindustan Unilever gained value. Benchmark indices like the BSE Sensex and NSE Nifty also registered losses. This
+
+## Stock market outlook: Fed policy, crude oil prices and Q1 earnings to drive trade
+Markets anticipate another volatile week as investors track Middle East developments and oil prices. The US Federal Reserve's policy meeting outcome will also significantly influence investor sentiment. Domestic economic signals will emerge from the release of June Industrial Production data. A busy
 
 ## Tariffs on trial: Small businesses take Trump's latest trade levies back to court
 Two groups of small businesses are challenging Donald Trump's latest tariffs in court. These new levies target goods from sixty trading partners and cover nearly all US imports. Businesses argue the administration failed to justify these measures against individual economies. They contend the tariff
@@ -75,59 +84,56 @@ A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa f
 ## Trump slaps 10% tariff on India, no major impact seen
 
 
-## US stocks today: Wall Street inches higher as crude calms down; Dow jumps over 330 points, Nasdaq trades flat
-Wall Street saw some relief as oil prices fell, but weekly losses continued. Investors weighed geopolitical tensions, new US tariffs, and the Federal Reserve's policy outlook. Major indices like the S&P 500 and Dow Jones Industrial Average posted gains on Friday. However, losses in technology firms 
+## Nepal submits proposal to India for using ‘National Identity Card’ for travel verification
+Nepal's Department of Immigration has requested Indian authorities to consider the National Identity Card for travellers' identity verification.
 
-## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
-The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
+## Deluge in Assam: Factors that led to unprecedented flooding in 2 districts
+Experts believe that while the flooding in the two districts was of a mass scale, but the incident is part of a pattern that is being witnessed in several areas of the northeast
 
-## Awaiting fulfilment of promises 26 years after sacrifice: Kargil martyr'sfamily
-Awaiting fulfilment of promises 26 years after sacrifice: Kargil martyr'sfamily
+## From the first sit-in to the final breakthrough: A blow-by-blow account of CJP's Jantar Mantar protests
+The agitation began on June 6, when the CJP held its first protest at Jantar Mantar in New Delhi.
 
-## Delhi court upholds 4-year sentence to man in Arms Act case
-Delhi court upholds 4-year sentence to man in Arms Act case
+## 'Won't delete': BJP MP's daughter defends critical post on Pradhan's resignation; Instagram account now 'taken down'
+BJP leaders in Odisha criticize MP Aparajita Sarangi's daughter Rahar for her social media post on Dharmendra Pradhan's resignation.
 
-## PM Modi spotlights defence, student achievements and environment in Mann Ki Baat
-In the 136th episode of the radio programme, aired on Kargil Vijay Diwas, Modi began by paying tribute to soldiers who fought in the 1999 Kargil War
+## What PM Modi said in 24 hours since minister quit: ‘Mann ki Baat’ on X, nothing on Pradhan, quiet on Instagram
+PM Narendra Modi has made no statement on Pradhan's resignation amid CJP protest, though other ministers praised the senior BJP leader over his decision to quit
 
-## 'She may not follow her father…': Assam minister's daughter joins NEET protest; CM Himanta reacts
-Dibisa, the daughter of Assam revenue and disaster management minister and Asom Gana Parishad (AGP) leader Keshab Mahanta, joined the NEET protesters.
+## ‘No law bars eating chicken over Ganga’: SC judge slams arrest of Muslim students over biryani on boat ride
+Justice Ujjal Bhuyan also said that peaceful protest is central to a democracy, but ordinary acts of dissent are increasingly being treated as criminal conduct.
 
-## Vessel with 4 Indians struck at Ukraine's Odesa port, second such attack in a week
-As per an official statement from the Indian Embassy in Kyiv, two crew members have been confirmed safe, while information about the other two is still awaited.
+## Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Sanjay Raut
+The Shiv Sena UBT MP suggested that Pralhad Joshi's appointment as the new education minister was temporary and suggested Fadnavis for the role instead.
 
-## 'Dharmendra Pradhan offered to resign on Day 1 of protests’: BJP leader makes bombshell claim
-Kailash Vijayvargiya also claimed that Pradhan's resignation had "foiled the designs" of foreign forces seeking to destabilise India.
+## Karunanidhi's granddaughter booked for slapping SBI manager in Chennai; incident caught on CCTV
+The alleged incident took place on July 20 at the SBI's NRI branch in Adyar and was captured on the branch's CCTV cameras.
 
-## People no longer fear Modi-Shah regime, says Uddhav Thackeray
-He said that with the protest at Jantar Mantar, people across the country have now “overcome fear of the Modi-Shah regime of terror”
-
-## Arvind Kejriwal visits police station, AAP says 500 students assisted through legal helpline after protest detentions
-In a significant show of support, Arvind Kejriwal and the AAP provide legal assistance to 500 students arrested during recent protests in Delhi.
-
-## NEET PG 2026: Application correction begins, admit cards on August 27
+## Sam Altman says humanity already in the singularity, warns of AI authoritarianism
 
 
-## IMD issues Orange alert for Punjab, Haryana, Chandigarh; heavy rain likely from Tuesday
+## Don’t harass minister for daughter joining student protest; don’t be surprised if my son…: Assam CM Himanta
 
 
-## From English graduate to citrus king: Hisar farmer nets Rs 35 lakh annually
+## ‘Wanted to back out’: Tusshar Kapoor recalls facing cultural shock in 90s Bollywood
 
 
-## ‘Don’t make anyone king’: Hina Khan takes indirect digs at Shilpa Shinde on Lock Upp 2
+## Malshej Ghat tragedy: 2 youngsters drown at Maharashtra tourist spot, bodies retrieved
 
 
-## Commonwealth Games Medal Tally Live: India’s Standings, Medal Count, & Full Winners List from Glasgow
+## Is creatine bad for kidneys? Experts bust 6 common sports nutrition myths
 
 
-## ‘TMC-linked’ man among 14 arrested over violence at Kolkata NEET protest
+## ‘I’ll come back to meet my fellow cockroaches’: Last night at Jantar Mantar
 
 
-## You wash your vegetables — but is that enough to kill Cyclospora?
+## The story of Hiresh Madan: From classroom mentor to education entrepreneur
 
 
-## ‘Not considered very good in society’: Hina Khan on Aamir Khan’s third marriage
+## The crisis manager: Why BJP turned to Pralhad Joshi after Pradhan’s exit
 
+
+## Demand for Dubai homes cools as Middle East conflict drags on
+The US-Israel war on Iran has cooled demand for homes in Dubai as buyers hold off on making purchases and businesses delay relocations of executives and staff to the Middle East, according to analysts. The hostilities began in February with strikes in Tehran and later developed into a wider regional
 
 ## Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales
 Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China’s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives. The dire scenario could also dash Chinese consumers’ hopes for steep discounts, despite carm
@@ -149,9 +155,6 @@ On the surface, China’s cutting-edge tech sector – from the algorithmic brea
 
 ## Chinese battery giant CATL posts record quarterly profits amid green energy boom
 Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly missed market estimates for second-quarter revenue and net profit, as China’s weakening demand for electric vehicles (EVs) outweighed benefits from the energy shock. The world’s largest battery maker reported a record 1
-
-## China places former deputy of top financial regulator under investigation
-China has placed one of its top former financial regulatory officials under investigation, the nation’s main anti-corruption body announced on Friday. Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission (CSRC), is suspected of “serious legal and disciplinary violations” 
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -249,29 +252,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Israel raids West Bank live: Dozens of Palestinians detained during assault
-Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.
+## After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?
+Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?
 
-## Tour de France final stage shortened as emergency teams tackle wildfires
-Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.
+## Who is India’s new education minister?
+India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.
 
-## Israeli settlers set fire to mosque in occupied West Bank
-Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians
+## Japanese football legend ‘King Kazu’, 59, scores first goal in four years
+The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.
 
-## Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo
-The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.
+## Photos: Wildfires in France drive 250,000 people from their homes
+As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.
 
-## Joshua comes back twice to knock out Prenga and set up Fury showdown
-Anthony Joshua survives two knockdowns by Albania's Kristian Prenga before winning the fight in the second round.
+## Israeli protesters denounce deadly settler violence
+Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.
 
-## House of Hope: New film follows a Waldorf-inspired school in the West Bank
-Documentary follows children under occupation and the couple who run a holistic primary school as Israel's war persists.
+## The Cockroach Effect: Modi vs India’s Gen Z
+Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.
 
-## Typhoon Noul makes landfall in China, with hundreds of thousands evacuated
-Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.
+## Thousands rally against Tunisia’s president five years after power grab
+Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.
 
-## https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us
-At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire.
+## Becoming the story: Injured journalists battle to leave Gaza for treatment
+Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
