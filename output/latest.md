@@ -24,6 +24,15 @@ AI and a falling labour share of GDP risk accelerating decoupling trends across 
 ## Will the Fed raise interest rates at Kevin Warsh’s second meeting?
 Market Questions is the FT’s guide to the week ahead
 
+## Central bankers take centre stage
+Fed, BoE and BoJ to decide interest rates, Greater Manchester elects a new mayor, earnings season moves up a gear
+
+## Gatwick airport apologises after water shortage hits toilets
+Many bars and restaurants also forced to close but flights still running at UK’s second-busiest airport
+
+## The Exploration Company with SpaceX ambitions aiming for a $2bn valuation
+European start-up in talks to raise $300mn for reusable space capsules
+
 ## Trump’s systematic assault on science
 The government is politicising funding for basic research
 
@@ -36,14 +45,8 @@ New Jersey becomes first state to halt electronic price tags partly on fears the
 ## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
 Private equity groups have been hunting independent wealth management groups for their recurring earnings
 
-## Deadly storm in Chile disrupts copper mines and raises AI supply concerns
-Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility
-
-## British unicorn Humanoid points to way forward for European tech
-London-based company shows that while the continent is industrialising, it still has manufacturing clout
-
-## Investors use crypto exchanges to avoid Chinese controls on AI stocks
-Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
+## Inflation remains RBI’s foremost priority: Governor Sanjay Malhotra
+Measures led to $32 billion inflows, largely through FCNR(B), says RBI Governor
 
 ## Grain-based ethanol gains momentum: What it means for India’s blending programme
 It lifts farmer incomes, supports rural industry, and moves India closer to its clean energy goals
@@ -65,9 +68,6 @@ The auditor said West Bengal’s industrial development agency undervalued land 
 
 ## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
 The entire EPF auto refund process is expected to get ready by August end
-
-## Bhogapuram airport set to take flight on tribal beats
-13,000 tribal artistes from the Araku region to perform at the airport opening on August 1
 
 ## Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus
 Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globa
@@ -93,6 +93,9 @@ Two groups of small businesses are challenging Donald Trump's latest tariffs in 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
 
+## Rahul guns for Amit Shah over ‘pellets fired’ at CJP march as Parliament session resumes, , govt plans a bill move
+Rahul Gandhi has said Amit Shah first has to answer why Delhi Police acted the way it did at Cockroach Janta Party's ‘Sansad Chalo’ march on July 20.
+
 ## Shashi Tharoor's son asks for ‘boomers’ to be banned on WhatsApp, Congress MP outwits him
 The debate emerged as the Cockroach Janta Party-led protest resulted in the resignation of union education minister Dharmendra Pradhan over alleged paper leaks.
 
@@ -114,31 +117,28 @@ The complaints relate to a photograph taken during the July 24 demonstration in 
 ## Who's on PM Modi's task force for exam reforms? Here's what we know
 The committee will comprise a multidisciplinary group of domain experts to help revamp the NTA examination.
 
-## 'Beyond conflict, new Kashmir reads': 3rd edition of Chinar Book Festival sees massive turnout
-The Chinar Book Festival showcased Kashmir's vibrant literary scene from July 18 to July 26, attracting 57,000 to 100,000 visitors.
+## India at CWG 2026 Day 5 Schedule: Full list of Indian athletes in action on Monday
+
+
+## Man hits woman with pizza pan in face after she laughed during film screening
+
+
+## ‘Carrying your braincells?’ Mentor’s snide remark before Anahat’s Jr Worlds title
+
+
+## Inside Amaal Mallik’s 800-sq-ft home: Fan art, piano corner and a balcony retreat
+
+
+## ‘Reproductive patterns’: Shashi Tharoor’s cheeky response to son’s ‘ban boomers from WhatsApp’ post
+
+
+## Israeli settlers’ violence: How two West Bank mosques ended up in flames
+
 
 ## Punjab Police busts Pakistan-linked BKI terror module, arrests key operative
 
 
 ## p-tau217: What the new Alzheimer’s blood test can — and can’t — do
-
-
-## Indian Idol 16 winner Jyotirmayee Nayak takes home Rs 20 lakh; Tanishk Shukla comes second
-
-
-## No paper leak in Punjab in 4.5 years of AAP rule, says CM Bhagwant Mann
-
-
-## ‘Even a car could’ve plunged inside’: Father as child falls in pit in Greater Noida, dies
-
-
-## Nepal eases Rs 200, Rs 500 currency rules. What changes for Indian travellers
-
-
-## Protests over, Modi resets agenda: Exam reforms first, delimitation next
-
-
-## ‘Had to do a tummy tuck surgery’: Farah Khan on how she lost ‘extra skin’ post child birth
 
 
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
@@ -261,6 +261,12 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war
+Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.
+
+## Israel obstructing takeover of pilot zones in Lebanon’s south: Military
+Israel is violating agreements by shelling 'pilot villages', Lebanon's army asserts.
+
 ## Heatwave drives major wildfires across North Africa
 Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco.
 
@@ -278,12 +284,6 @@ Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the wo
 
 ## Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026
 Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.
-
-## More than 360,000 evacuated as wildfires rage in France and Spain
-French and Spanish authorities are struggling to contain the blazes, which are partly caused by successive heatwaves.
-
-## Israel carries out double tap strike in central Gaza
-Israel carries out double tap strike in central Gaza
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
