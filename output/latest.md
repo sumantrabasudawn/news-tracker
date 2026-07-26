@@ -1,5 +1,8 @@
 # AION Intelligence
 
+## What is the risk of using Chinese open AI models like Kimi K3?
+The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks
+
 ## One dead and 29 injured as vehicle drives into Berlin Pride crowd
 Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
 
@@ -42,32 +45,35 @@ London-based company shows that while the continent is industrialising, it still
 ## Investors use crypto exchanges to avoid Chinese controls on AI stocks
 Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
 
-## Defence giants provide record backing for military start-ups
-As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists
+## Grain-based ethanol gains momentum: What it means for India’s blending programme
+It lifts farmer incomes, supports rural industry, and moves India closer to its clean energy goals
 
-## Memory prices push smartphones out of customers’ reach; retailers fear for business survival
-Conversations with local retailers in Mumbai revealed that while the footfall of smartphone customers remains unchanged, the enthusiasm to buy the devices has lessened compared to last year. This trend is common across both small and large retailers.
+## Editorial. Positive indicator
+Q1 direct tax mop-up affirms growth prospects
 
 ## Nandan Nilekani to head high-powered task force on NTA exam reforms: PM
-the multidisciplinary panel will recommend reforms to revamp the NTA’s examination processes while also suggesting structural changes to strengthen the integrity and efficiency of the testing system
-
-## IT demand remains selective with AI-led sectors outperforming in Q1 FY27
-BFSI, GCCs, healthcare, manufacturing, and engineering-led enterprises among strongest growth drivers
-
-## Bhogapuram airport set to take flight on tribal beats
-13,000 tribal artistes from the Araku region to perform at the airport opening on August 1
-
-## An outspoken doctor’s reflective tale
-Delves into conditions, products that trigger liver health issues
-
-## TCPL pins growth on new-age portfolio as tea and salt remain steady
-Speaking during the company's post-quarter analyst call, Sunil D'Souza, Managing Director and CEO, said growth businesses now account for 36 per cent of the India business after expanding 47 per cent year-on-year
+The multidisciplinary panel will recommend reforms to revamp the NTA’s examination processes while also suggesting structural changes to strengthen the integrity and efficiency of the testing system
 
 ## MTF book hits fresh high of ₹1.43 lakh crore despite slower growth
 Shift towards leveraged cash-market trades continues as derivatives activity cools
 
+## Centre discontinues ATF price stabilisation scheme after airlines skip MoU deadline
+No domestic carrier signed mandatory agreements with oil marketing companies within prescribed timeframe
+
+## CAG flags ₹12.86 cr loss in WBIDC's land deal with Flipkart in West Bengal
+The auditor said West Bengal’s industrial development agency undervalued land at Haringhata Industrial Park by not factoring in non-allocable water bodies.
+
 ## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
 The entire EPF auto refund process is expected to get ready by August end
+
+## Bhogapuram airport set to take flight on tribal beats
+13,000 tribal artistes from the Araku region to perform at the airport opening on August 1
+
+## Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus
+Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globa
+
+## 'Don't make them run from pillar to post': FM Sitharaman asks income tax dept to work for common people
+Finance Minister Nirmala Sitharaman urged income tax officials to simplify citizen access to government services. She emphasized that citizens should not face undue difficulties when seeking departmental assistance. The minister also criticized the laidback approach leading to government land encroa
 
 ## India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next
 India's first hydrogen train has traveled over 1,200 kilometers during trial operations. This indigenous project has already saved over 3,200 liters of diesel fuel. The train generates electricity using hydrogen fuel cells, releasing only water vapor. Dedicated hydrogen storage and refuelling facili
@@ -87,13 +93,16 @@ Two groups of small businesses are challenging Donald Trump's latest tariffs in 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
 
-## HCLTech to set up Rs 14.3k cr AI data centre in Odisha
+## Shashi Tharoor's son asks for ‘boomers’ to be banned on WhatsApp, Congress MP outwits him
+The debate emerged as the Cockroach Janta Party-led protest resulted in the resignation of union education minister Dharmendra Pradhan over alleged paper leaks.
 
+## ‘I couldn’t feel my arm’: Hospital record notes protester’s ‘pellet’ injuries
+HT earlier reported three other alleged cases of pellet-like injuries involving Sheikh Irshad Mansuri; Sahil Lochab; and a 28-year-old reporter
 
-## Forex schemes: BoB, BoI target over $6bn mop-up
+## ‘What about panel formed in 2024?’: Cong says exam task force formed ‘only to fix PM’s image’ after Gen-Z protests
+Congress's Jairam Ramesh slammed Modi's creation of a task force for examination reforms.
 
-
-## Nandan Nilekani, technocrat whom govts keep calling back, to lead Modi govt's exam reforms after Gen-Z pushes it to wall
+## Nandan Nilekani to lead exam reforms: Amid Gen-Z ire, Modi taps all-season technocrat
 Nilekani has been on an exam-related panel before; in 2019, SC constituted a panel chaired by Justice Singhvi (retd) that included Nilekani among others
 
 ## Missing forest team near Assam-Nagaland border traced safe after 2 days: Official
@@ -108,37 +117,28 @@ The committee will comprise a multidisciplinary group of domain experts to help 
 ## 'Beyond conflict, new Kashmir reads': 3rd edition of Chinar Book Festival sees massive turnout
 The Chinar Book Festival showcased Kashmir's vibrant literary scene from July 18 to July 26, attracting 57,000 to 100,000 visitors.
 
-## 'Eye on the future': PM Modi announces task force on exam reforms, day after Pradhan's resignation
-The video comes after former Union education minister Dharmendra Pradhan resigned following weeks of sweeping protests led by the Cockroach Janta Party.
+## Punjab Police busts Pakistan-linked BKI terror module, arrests key operative
 
-## Besides the CJP: Neha and the AISA activists who fasted, made reels too, and danced in joy eventually
-Neha Bora captioned it, “If I can't dance, It won't be my revolution!”, as she posted a video of celebrations after Dharmendra Pradhan's resignation on July 25
 
-## 4 killed in Assam factory blast; probe underway: Police
-According to police, the explosion took place around 11am at Kade Global Infrastructure LLP’s metal processing unit in Pangram
+## p-tau217: What the new Alzheimer’s blood test can — and can’t — do
+
+
+## Indian Idol 16 winner Jyotirmayee Nayak takes home Rs 20 lakh; Tanishk Shukla comes second
+
+
+## No paper leak in Punjab in 4.5 years of AAP rule, says CM Bhagwant Mann
+
+
+## ‘Even a car could’ve plunged inside’: Father as child falls in pit in Greater Noida, dies
+
+
+## Nepal eases Rs 200, Rs 500 currency rules. What changes for Indian travellers
+
+
+## Protests over, Modi resets agenda: Exam reforms first, delimitation next
+
 
 ## ‘Had to do a tummy tuck surgery’: Farah Khan on how she lost ‘extra skin’ post child birth
-
-
-## Vaibhav Sooryavanshi leads India to clean sweep in Zimbabwe
-
-
-## Vishy Anand to run with Timur Turlov as Deputy President in FIDE elections
-
-
-## Mirabai Chanu wins CWG gold: How the lifter’s relationship with the Games evolved
-
-
-## UPSC Essentials daily subject quiz : International Relations MCQs (Week 172) — Check out answers with explanations
-
-
-## At Jantar Mantar, a protest erased under paint, yet its memories linger
-
-
-## Mirabai shatters records and wins India’s first gold of 2026 CWG
-
-
-## India beat Zimbabwe by 35 runs to finish 3-0 sweep of T20I series
 
 
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
@@ -261,6 +261,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Heatwave drives major wildfires across North Africa
+Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco.
+
+## Darfur: Weaponising Identity
+How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.
+
+## Typhoon Noul batters Southeast China
+Footage shows the aftermath of Typhoon Noul after it battered southern China's coastal regions.
+
+## Who is India’s new education minister Pralhad Joshi?
+Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.
+
+## Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans
+Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the world’s ‘worst-behaved countries’.
+
 ## Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026
 Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.
 
@@ -269,21 +284,6 @@ French and Spanish authorities are struggling to contain the blazes, which are p
 
 ## Israel carries out double tap strike in central Gaza
 Israel carries out double tap strike in central Gaza
-
-## Tunisia grapples with five years of crisis since Saied’s power grab
-Tunisians protest five years of President Kais Saied's rule amid economic crisis and political arrests.
-
-## Senegal’s Faye launches a new party, formalising his split with Sonko
-Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.
-
-## Controversial Argentina World Cup banner gets new life in print
-A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner
-
-## Israel and the cost paradox of the Iran war
-Israel instigated the war on Iran and yet it has borne few of its costs.
-
-## Israeli air strike on a vehicle in Gaza kills two Hamas security officials
-The head of internal security for Hamas in central Gaza was among the dead.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
