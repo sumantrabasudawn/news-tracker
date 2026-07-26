@@ -1,13 +1,13 @@
 # AION Intelligence
 
+## Brazil denies visas to US officials over alleged election interference
+Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
+
 ## Iran says Ukrainian attack on vessel in Caspian Sea killed sailor
 Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region
 
 ## Top Democrat says Trump administration is worsening chip shortage
 Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
-
-## Brazil denies visas to US officials over alleged election interference
-Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
 
 ## Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine
 Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks
@@ -45,6 +45,9 @@ Pitching too high can disproportionately lengthen the time it takes to agree a s
 ## What the City needs from the Burnham government
 Unlike the 1970s, there is a conversation to be had here
 
+## Technology as an enabler: Reimagining Indian agritech
+The next phase of Indian agritech is likely to be shaped by making the agricultural systems they already depend on more intelligent, connected, resilient and economically productive
+
 ## TCS, Infosys, HCL Tech, Wipro and Tech Mahindra: IT’s a chasm between management and investors
 Despite bullish AI rhetoric, tepid growth and shrinking margins show IT services majors must prove their strategic relevance
 
@@ -66,8 +69,8 @@ Are you an avid investor? How well do you know corporate India?
 ## Government has to work on right regulations for V2X technology: Carmakers
 The Department of Telecommunications last month de-licensed spectrum bands for automotive radar and vehicle-to-everything (V2X) communications
 
-## PhonePe FY26 revenue rises 11% to ₹7,920 crore; net loss widens 62% ahead of IPO
-Revenue in the second half rose to about ₹3,746 crore, indicating stronger business momentum during the latter part of the year
+## Tariffs on trial: Small businesses take Trump's latest trade levies back to court
+Two groups of small businesses are challenging Donald Trump's latest tariffs in court. These new levies target goods from sixty trading partners and cover nearly all US imports. Businesses argue the administration failed to justify these measures against individual economies. They contend the tariff
 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
@@ -90,55 +93,52 @@ Wall Street saw some relief as oil prices fell, but weekly losses continued. Inv
 ## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
 The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
 
-## Sensex down 900 points, Nifty50 ends below 23,800: Why stock market crashed today
-Indian stock markets closed lower for a fifth consecutive session on Friday. Rising oil prices and Middle East tensions fueled investor caution and market pressure. Foreign institutional investors continued their selling trend, impacting market sentiment negatively. Renewed concerns over US trade ta
+## Case Registered Against BJP MLC C.T. Ravi Over Alleged Hate Speech
+BJP MLC and former Karnataka minister C T Ravi has been booked by the Chikkamagaluru Town police for allegedly delivering a provocative speech that promoted hatred and communal disharmony during a public meeting held in connection with the controversy over the National Eligibility-cum-Entrance Test 
 
-## Intent of infiltrators hasn’t changed since 1999 conflict, says Rajnath in Dras
-Intent of infiltrators hasn’t changed since 1999 conflict, says Rajnath in Dras
+## Pralhad Joshi's first reaction after getting education ministry charge: ‘I accept this with humility'
+Pralhad Joshi said he would work with dedication to strengthen the education sector after taking charge of the Education Ministry.
 
-## Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
-Drone capabilities display, Shaurya Sandhya: Army hosts anniversary events to honour Kargil heroes
+## Maharashtra TET paper leak mastermind held in Bihar after month-long hunt
+Saturday’s arrests take the total number of individuals arrested in the case to 14, including Gupta’s wife, Suman Gupta.
 
-## The faces of CJP movement that drove big change: Boston graduate, IITian, JNU scholar, investigative journalist
-With education minister Dharmendra Pradhan's resignation and the government agreeing to other key demands, the CJP has now called off its 36-day protest.
+## All Delhi metro stations now open as CJP withdraws protest, curbs ease in capital
+In a post on X (formerly Twitter), the DMRC stated, "All stations of the Delhi Metro network are open (both entry and exit) for passenger services."
 
-## 'Never asked for favor from government': Zoho's Sridhar Vembu defends X post backing Pradhan amid online backlash
-Sridhar Vembu asserts that his advice is free from political bias and remains steadfast amid criticism.
+## Dharmendra Pradhan news LIVE: Dipke thanks supporters, critics in new video, says 'this is just the beginning'
+Dharmendra Pradhan news LIVE: Rashtrapati Bhavan announced that Pralhad Joshi, who currently heads the consumer affairs, food and public distribution, and new and renewable energy ministries, had been given additional charge of the education ministry.
 
-## EPFO urges employers to avail EEC-2026, Amnesty, Vishwaas schemes; highlights digital reforms under EPFO 3.0
-The EPFO has launched new compliance initiatives, including EEC-2026 and the Vishwaas and Amnesty schemes, aimed at expanding employee benefits.
+## 'Arbitration is starting to look like court process': CJI Surya Kant
+CJI Surya Kant said arbitration is becoming like court litigation, urging faster proceedings, stronger case management and judicial restraint.
 
-## Pradhan gone, Congress shifts focus to Amit Shah; memes put Nitin Gadkari in spotlight, anti-E20 group plans protest
-With Parliament set to reconvene on Monday, Rahul Gandhi sought to take the debate towards accountability for police action against the CJP march of July 20.
+## Dharmendra Pradhan steps down, Gen Z steps up
+Minister Pralhad Joshi gets additional charge of education, BJP leaders rally behind Pradhan after he resigns.
 
-## Punjab highlights women’s role in anti-drug campaign as families drive addiction recovery
-In Punjab, women are central to the anti-drug campaign as they support recovery for those battling addiction.
+## Assam flood toll rises to 62, PM Modi takes stock; over 7 lakh affected in state
+Assam's flood toll rose to 62, with over 7 lakh people affected, as relief operations continued and waters receded in some areas.
 
-## Former Uttarakhand constable accused of aiding gangster in land grab case, threatening widow to withdraw complaint
-A former Uttarakhand constable has been implicated in a sinister land-grab operation linked to jailed gangster Praveen Valmiki.
-
-## 4th Justice G P Singh Memorial Lecture: Consuming chicken biryani no offence… dissent essence of democracy, says Justice Bhuyan
+## The barefoot ‘gadfly’: Vijay Tankha’s new book brings the baffling, maddening Socrates back to life
 
 
-## BJP leaders hail Pradhan for contributions as minister
+## How Sai Praneeth ended India’s 36-year wait for a men’s singles Worlds medal
 
 
-## 1.25 billion reasons why ‘Hum honge kaamyab’ @Jantar Mantar
+## Indus Waters Treaty: A year on, India’s case for freezing it and what it plans next
 
 
-## 28 years on tentative list, Sarnath now a UNESCO World Heritage Site
+## Jantar Mantar Protest Live Updates: Abhijeet Dipke thanks supporters for victory in their ‘first campaign’ in fresh video
 
 
-## Woman in Delhi-bound train held with gold bars worth over Rs 7 crore
+## ‘Still a long way to go’: Mumbai marks Pradhan’s resignation with victory gathering
 
 
-## ‘Safeguard essential’: Supreme Court on withholding children’s Aadhaar details under APAAR scheme
+## Jana Nayagan Box Office Collection Day 3 Live Update: Vijay’s film earns Rs 171 cr worldwide
 
 
-## Kolkata rally violence: Bengal Government invokes Goonda Act
+## BEST bus rolls into office at Colaba depot after handbrake lapse
 
 
-## How many US troops have really died in the Iran war? Pentagon accused of hiding truth
+## Bengal govt tables 28 CAG reports, accuses TMC of ‘constitutional lapse’ while in power
 
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## French wildfires trigger mass evacuations around Bordeaux
+Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.
+
+## Flavio Bolsonaro launches Brazil presidential bid with Milei support
+Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.
+
+## Israel arrests nine at Tel Aviv protest against West Bank settler violence
+Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.
+
+## Yemen’s Houthis target Saudi oil facilities along the Red Sea
+Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.
+
+## Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos
+Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.
+
+## Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack
+Tehran says the Ukranian attack killed at least one sailor and wounded another.
+
 ## What’s behind the Israeli crackdown in the occupied West Bank?
 Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.
 
 ## Iran accuses Ukraine of deadly attack on Caspian commercial vessel
 Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.
-
-## Fire tears through Indonesian village in West Java
-A fire has torn through a traditional village in the Sukabumi Regency of Indonesia's West Java province.
-
-## One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event
-German police say they believe car drove into Tiergarten park, near the route of a Pride march, hitting several people.
-
-## Israeli forces target Gaza’s Al-Aqsa hospital
-At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital
-
-## What’s next for Venezuela’s path to recovery from devastating earthquakes?
-The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.
-
-## Israeli forces tear gas journalists reporting Nablus shootout
-Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout
-
-## How India’s ‘Cockroach’ protesters shook the Modi government
-India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
