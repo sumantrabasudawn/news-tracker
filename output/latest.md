@@ -1,5 +1,11 @@
 # AION Intelligence
 
+## One dead and 29 injured as vehicle drives into Berlin Pride crowd
+Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
+
+## US pauses Iran strikes as Oman pursues Hormuz transit deal
+Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
+
 ## Reform UK’s bank account was frozen during 2024 election
 Nigel Farage’s party faces increased scrutiny of finances ahead of Clacton by-election
 
@@ -15,14 +21,8 @@ AI and a falling labour share of GDP risk accelerating decoupling trends across 
 ## Will the Fed raise interest rates at Kevin Warsh’s second meeting?
 Market Questions is the FT’s guide to the week ahead
 
-## US pauses Iran strikes as Oman pursues Hormuz transit deal
-Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
-
 ## Trump’s systematic assault on science
 The government is politicising funding for basic research
-
-## India’s Gen Z protesters puncture Modi’s aura of invincibility
-Long-serving premier the target of demonstrators’ anger
 
 ## Saint-Gobain pushes ahead with US expansion despite slow housing market
 French building materials giant wants to more than double North American business through capex and acquisitions
@@ -45,29 +45,29 @@ Perpetual futures let investors circumvent restrictions on foreign access to Chi
 ## Defence giants provide record backing for military start-ups
 As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists
 
-## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
-The entire EPF auto refund process is expected to get ready by August end
+## Memory prices push smartphones out of customers’ reach; retailers fear for business survival
+Conversations with local retailers in Mumbai revealed that while the footfall of smartphone customers remains unchanged, the enthusiasm to buy the devices has lessened compared to last year. This trend is common across both small and large retailers.
 
-## MTF book hits fresh high of ₹1.43 lakh crore despite slower growth
-Shift towards leveraged cash-market trades continues as derivatives activity cools
+## Nandan Nilekani to head high-powered task force on NTA exam reforms: PM
+the multidisciplinary panel will recommend reforms to revamp the NTA’s examination processes while also suggesting structural changes to strengthen the integrity and efficiency of the testing system
 
-## Old Monk shortage: Why has India’s ‘Budha Sadhu’ gone missing from liquor shelves across Maharashtra?
-India’s iconic dark rum Old Monk has become increasingly difficult to find across liquor shelves in Mumbai, Pune, Nagpur and other parts of Maharashtra just as the monsoon, its peak season, drives up demand and pushes consumption
+## IT demand remains selective with AI-led sectors outperforming in Q1 FY27
+BFSI, GCCs, healthcare, manufacturing, and engineering-led enterprises among strongest growth drivers
 
-## India-US trade pact talks may gather pace only after Section 301 excess capacity findings
-Forced-labour probe outcome removes one uncertainty, but wider trade negotiations hinge on pending US investigations, sources say
-
-## A timely portrait of Karnataka’s new CM
-The book captures the man of the moment, but it could have been clearer on facts and provided an in-depth look at some aspects
+## Bhogapuram airport set to take flight on tribal beats
+13,000 tribal artistes from the Araku region to perform at the airport opening on August 1
 
 ## An outspoken doctor’s reflective tale
 Delves into conditions, products that trigger liver health issues
 
-## IT dept issues detailed crypto reporting norms, tightening tax oversight without changing levy
-Move follows Parliamentary Standing Committee on Finance’s call for a statutory and regulatory framework for VDAs
+## TCPL pins growth on new-age portfolio as tea and salt remain steady
+Speaking during the company's post-quarter analyst call, Sunil D'Souza, Managing Director and CEO, said growth businesses now account for 36 per cent of the India business after expanding 47 per cent year-on-year
 
-## FORVIA to invest ₹2,000 crore in India, targets €1-billion business by 2030
-The India push comes as FORVIA executes its global IGNITE transformation program to simplify its portfolio and strengthen its balance sheet by scaling its India operations
+## MTF book hits fresh high of ₹1.43 lakh crore despite slower growth
+Shift towards leveraged cash-market trades continues as derivatives activity cools
+
+## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
+The entire EPF auto refund process is expected to get ready by August end
 
 ## India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next
 India's first hydrogen train has traveled over 1,200 kilometers during trial operations. This indigenous project has already saved over 3,200 liters of diesel fuel. The train generates electricity using hydrogen fuel cells, releasing only water vapor. Dedicated hydrogen storage and refuelling facili
@@ -93,6 +93,21 @@ Once completed, the total strategic petroleum reserves capacity will increase to
 ## Forex schemes: BoB, BoI target over $6bn mop-up
 
 
+## Nandan Nilekani, technocrat whom govts keep calling back, to lead Modi govt's exam reforms after Gen-Z pushes it to wall
+Nilekani has been on an exam-related panel before; in 2019, SC constituted a panel chaired by Justice Singhvi (retd) that included Nilekani among others
+
+## Missing forest team near Assam-Nagaland border traced safe after 2 days: Official
+According to the DFO, the forests along the Dima Hasao-Karbi Anglong-Nagaland border are among the most rugged and inaccessible in the state
+
+## BJP seeks Sreelekha Mitra's arrest over PM Modi's 'obscene poster' at Kolkata students' protest
+The complaints relate to a photograph taken during the July 24 demonstration in the Esplanade area, where protesters had gathered.
+
+## Who's on PM Modi's task force for exam reforms? Here's what we know
+The committee will comprise a multidisciplinary group of domain experts to help revamp the NTA examination.
+
+## 'Beyond conflict, new Kashmir reads': 3rd edition of Chinar Book Festival sees massive turnout
+The Chinar Book Festival showcased Kashmir's vibrant literary scene from July 18 to July 26, attracting 57,000 to 100,000 visitors.
+
 ## 'Eye on the future': PM Modi announces task force on exam reforms, day after Pradhan's resignation
 The video comes after former Union education minister Dharmendra Pradhan resigned following weeks of sweeping protests led by the Cockroach Janta Party.
 
@@ -102,43 +117,28 @@ Neha Bora captioned it, “If I can't dance, It won't be my revolution!”, as s
 ## 4 killed in Assam factory blast; probe underway: Police
 According to police, the explosion took place around 11am at Kade Global Infrastructure LLP’s metal processing unit in Pangram
 
-## 40-year-old Ram Jhula bridge closed for commuting till December: Officials
-The closure, however, has not gone down well with local traders, who have raised concerns over its timing
-
-## Drunk man kills pregnant wife in UP's Mahoba; child helps police nab him
-The case blew open when the couple's five-year-old son told the police that his father, in an inebriated state, attacked his mother several times with a sickle
-
-## 'Long way to go': What next for CJP leaders after Jantar Mantar protest
-CJP leader Abhijeet Dipke said ending the protest did not mean the movement had ended.
-
-## Rajasthan’s Keoladeo National Park faces water crisis as Panchana Dam supply dries up
-Park officials say the wetland requires 550 million cubic feet (MCFT) of water every year, most of which is traditionally supplied from the Panchana Dam
-
-## Health, age and 'corrupted arena': Siddaramaiah on why he won't contest the 2028 Karnataka polls
-The Congress leader also added that his decision comes after public pressure on him to contest once again.
-
-## With Pradhan out, Opposition prepares Parliament offensive against Amit Shah
+## ‘Had to do a tummy tuck surgery’: Farah Khan on how she lost ‘extra skin’ post child birth
 
 
-## Nandan Nilekani to lead high-powered exam reform task force, says PM Modi
+## Vaibhav Sooryavanshi leads India to clean sweep in Zimbabwe
 
 
-## Rohit Roy’s 150 ml ghee shot explained: Is Panchakarma Snehapana safe for everyone?
+## Vishy Anand to run with Timur Turlov as Deputy President in FIDE elections
 
 
-## With 25 nat’l records in 2026, India’s aim for CWG highs in track & field
+## Mirabai Chanu wins CWG gold: How the lifter’s relationship with the Games evolved
 
 
-## ‘Cried like a child’: Cochin Haneefa kept his fatal illness a secret from friend Mammootty
+## UPSC Essentials daily subject quiz : International Relations MCQs (Week 172) — Check out answers with explanations
 
 
-## Four prompts that can tell you what chatbots really know about you
+## At Jantar Mantar, a protest erased under paint, yet its memories linger
 
 
-## UPSC Key: Sarnath becomes UNESCO World Heritage Site, APAAR ID, and Vizhinjam Port
+## Mirabai shatters records and wins India’s first gold of 2026 CWG
 
 
-## China This Week | Poll shows favourable view of China over US, new GDP data, and Rubio-Wang meeting
+## India beat Zimbabwe by 35 runs to finish 3-0 sweep of T20I series
 
 
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026
+Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.
+
+## More than 360,000 evacuated as wildfires rage in France and Spain
+French and Spanish authorities are struggling to contain the blazes, which are partly caused by successive heatwaves.
+
+## Israel carries out double tap strike in central Gaza
+Israel carries out double tap strike in central Gaza
+
+## Tunisia grapples with five years of crisis since Saied’s power grab
+Tunisians protest five years of President Kais Saied's rule amid economic crisis and political arrests.
+
+## Senegal’s Faye launches a new party, formalising his split with Sonko
+Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.
+
+## Controversial Argentina World Cup banner gets new life in print
+A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner
+
+## Israel and the cost paradox of the Iran war
+Israel instigated the war on Iran and yet it has borne few of its costs.
+
 ## Israeli air strike on a vehicle in Gaza kills two Hamas security officials
 The head of internal security for Hamas in central Gaza was among the dead.
-
-## Yemen’s health workers race to halt latest outbreak of deadly dengue fever
-Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.
-
-## From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home
-Sumaya Yaghi returns to what's left of her destroyed home in southern Lebanon.
-
-## Why are Israeli settlers on a rampage in the occupied West Bank?
-Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'.
-
-## Langton released from hospital after concussion at Commonwealth Games
-British gymnast Gabriel Langton admitted after headfirst crash off horizontal bar.
-
-## ‘New education minister can’t bring my dead daughter back’
-Parents of students who died by suicide following a paper leak in India say nothing can bring their loved ones back.
-
-## What next for India’s ‘Cockroach’ movement after education minister sacked
-The weeks-long Gen Z-led protests forced a key Modi minister to resign. Where does the movement go from here?
-
-## Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem
-The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
