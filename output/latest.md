@@ -24,41 +24,41 @@ As drones and autonomous systems transform the battlefield, traditional defence 
 ## Chips and drones to be at heart of Burnham’s push to ‘reindustrialise’, AI minister says
 Kanishka Narayan tells FT that new prime minister views technology as way for Britain ‘to get its mojo back’
 
+## Trump’s systematic assault on science
+The government is politicising funding for basic research
+
+## Saint-Gobain pushes ahead with US expansion despite slow housing market
+French building materials giant wants to more than double North American business through capex and acquisitions
+
+## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
+Private equity groups have been hunting independent wealth management groups for their recurring earnings
+
 ## British unicorn Humanoid points to way forward for European tech
 London-based company shows that while the continent is industrialising, it still has manufacturing clout
-
-## Forget bazaars and saris: fast fashion takes off in India
-Chains such as Zudio are luring cost-conscious shoppers with cut-price designs and contemporary stores
-
-## Why workers are nostalgic for life before AI
-Many white-collar professionals worry about the tech inhibiting creativity and making errors
-
-## Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit
-Chair says Bayesian manufacturer’s legal challenge against Mike Lynch’s estate is ‘very specific to one shipbuilder’
-
-## Air India modifying certain Dreamliners to address possible door assist handle issue
-FAA has asked airlines to make modifications in certain models since detachment of door assist handles could cause injuries to passengers, crew or maintenance personnel when opening the door.
 
 ## FSSAI suspends license of Westend Agro Products and Rehaan Healthcare
 Several food products were found with altered manufacturing dates, expiry dates, batch numbers and misleading label declarations
 
+## Russian supply disruption poses fresh risk to India’s August crude imports; Red Sea remains the second key variable
+Uncertainty over crude loadings from Russia’s Black Sea port of Novorossiysk after Ukrainian attacks
+
+## Gold and silver: What will drive prices this week?
+Analysts say US Fed action, oil swings to be in focus amid escalating West Asia tensions
+
+## Any talks with Pakistan would focus solely on PoK, an integral part of India: Rajnath
+Rajnath Singh said that the paths taken by India and Pakistan have diverged sharply after the Kargil War
+
+## Tiruppur textile industry seeks worker housing; puts forward request in Industrial Policy stakeholder discussion
+Industry says worker accommodation is key to retaining talent and leveraging FTA-led export growth
+
+## CAG flags ₹12.86 cr loss in WBIDC's land deal with Flipkart in West Bengal
+The auditor said West Bengal’s industrial development agency undervalued land at Haringhata Industrial Park by not factoring in non-allocable water bodies.
+
+## Air India modifying certain Dreamliners to address possible door assist handle issue
+FAA has asked airlines to make modifications in certain models since detachment of door assist handles could cause injuries to passengers, crew or maintenance personnel when opening the door.
+
 ## Lodha Developers targets 20% profit growth in FY27 to ₹4,100 cr
 Lodha Developers’ profit doubled to ₹1,373.1 crore in April-June from ₹675 crore in the year-ago period
-
-## CCI avoiding suo motu cases unless nobody willing to come forward
-The watchdog has the mandate to curb unfair business practices, as well as foster fair competition, across sectors
-
-## FM Sitharaman directs Income Tax dept to work for benefit of common people
-She expressed disappointment at the government’s “laidback” approach, which contributes to illegal occupation or encroachments on government lands
-
-## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
-The tariff proposal, aimed at encouraging drug manufacturing in the US, has triggered a debate within India's pharmaceutical sector over its long-term implications.
-
-## PM highlights defence, self-reliance and environment in Mann Ki Baat, avoids reference to NEET unrest
-The Prime Minister avoided mentioning the Jantar Mantar issue, focusing instead on national pride, technological progress, conservation, and community initiatives
-
-## IT dept issues detailed crypto reporting norms, tightening tax oversight without changing levy
-Move follows Parliamentary Standing Committee on Finance’s call for a statutory and regulatory framework for VDAs
 
 ## Market recap: Top-10 firms shed Rs 2.74 lakh crore in value; HDFC Bank takes biggest hit
 Indian stock markets experienced a significant downturn last week. Nine of the ten most-valued companies saw their market worth decline. HDFC Bank faced the largest valuation drop, while Hindustan Unilever gained value. Benchmark indices like the BSE Sensex and NSE Nifty also registered losses. This
@@ -84,53 +84,56 @@ A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa f
 ## Trump slaps 10% tariff on India, no major impact seen
 
 
+## Rajasthan’s Keoladeo National Park faces water crisis as Panchana Dam supply dries up
+Park officials say the wetland requires 550 million cubic feet (MCFT) of water every year, most of which is traditionally supplied from the Panchana Dam
+
+## Health, age and 'corrupted arena': Siddaramaiah on why he won't contest the 2028 Karnataka polls
+The Congress leader also added that his decision comes after public pressure on him to contest once again.
+
+## Contractor held after 6-year-old drowns in pit in Greater Noida; 2 officials removed
+The Greater Noida Authority said in a statement that it had also filed a complaint against the contractor at the Knowledge Park police station
+
+## What happened on Day 1 of Pralhad Joshi as education minister
+After taking charge, Joshi said his immediate priority would be to understand the functioning of the ministry before taking decisions.
+
+## ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
+Pralhad Joshi said that Prime Minister Narendra Modi has given him “this huge responsibility based on trust and belief”
+
 ## Nepal submits proposal to India for using ‘National Identity Card’ for travel verification
 Nepal's Department of Immigration has requested Indian authorities to consider the National Identity Card for travellers' identity verification.
 
 ## Deluge in Assam: Factors that led to unprecedented flooding in 2 districts
 Experts believe that while the flooding in the two districts was of a mass scale, but the incident is part of a pattern that is being witnessed in several areas of the northeast
 
-## From the first sit-in to the final breakthrough: A blow-by-blow account of CJP's Jantar Mantar protests
+## Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day Jantar Mantar protest
 The agitation began on June 6, when the CJP held its first protest at Jantar Mantar in New Delhi.
 
-## 'Won't delete': BJP MP's daughter defends critical post on Pradhan's resignation; Instagram account now 'taken down'
-BJP leaders in Odisha criticize MP Aparajita Sarangi's daughter Rahar for her social media post on Dharmendra Pradhan's resignation.
-
-## What PM Modi said in 24 hours since minister quit: ‘Mann ki Baat’ on X, nothing on Pradhan, quiet on Instagram
-PM Narendra Modi has made no statement on Pradhan's resignation amid CJP protest, though other ministers praised the senior BJP leader over his decision to quit
-
-## ‘No law bars eating chicken over Ganga’: SC judge slams arrest of Muslim students over biryani on boat ride
-Justice Ujjal Bhuyan also said that peaceful protest is central to a democracy, but ordinary acts of dissent are increasingly being treated as criminal conduct.
-
-## Devendra Fadnavis may replace Pralhad Joshi as education minister, claims Sanjay Raut
-The Shiv Sena UBT MP suggested that Pralhad Joshi's appointment as the new education minister was temporary and suggested Fadnavis for the role instead.
-
-## Karunanidhi's granddaughter booked for slapping SBI manager in Chennai; incident caught on CCTV
-The alleged incident took place on July 20 at the SBI's NRI branch in Adyar and was captured on the branch's CCTV cameras.
-
-## Sam Altman says humanity already in the singularity, warns of AI authoritarianism
+## Delhi University UG Admissions 2026: Students can now accept seat by July 27
 
 
-## Don’t harass minister for daughter joining student protest; don’t be surprised if my son…: Assam CM Himanta
+## Sena minister Sanjay Shirsat meets Abhijeet Dipke’s parents, promises security
 
 
-## ‘Wanted to back out’: Tusshar Kapoor recalls facing cultural shock in 90s Bollywood
+## Who kept the Jantar Mantar protest running? Meet the 12-member team
 
 
-## Malshej Ghat tragedy: 2 youngsters drown at Maharashtra tourist spot, bodies retrieved
+## Aviation vs Aeronautics: Which course should you choose after Class 12?
 
 
-## Is creatine bad for kidneys? Experts bust 6 common sports nutrition myths
+## Fresh protests in Punjab as job aspirants, power workers press government over demands
 
 
-## ‘I’ll come back to meet my fellow cockroaches’: Last night at Jantar Mantar
+## 3 quirky gadgets that saved my work trip to London, and why you might need them
 
 
-## The story of Hiresh Madan: From classroom mentor to education entrepreneur
+## Twinkle Khanna’s jute trick for empty walls is easy, affordable and stylish
 
 
-## The crisis manager: Why BJP turned to Pralhad Joshi after Pradhan’s exit
+## Top 10 institutions for social sciences research: American universities dominate list, Chinese university at No. 5
 
+
+## Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng
+In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in the background. With only a couple of photographs of him circulating online, the founder of Chinese a
 
 ## Demand for Dubai homes cools as Middle East conflict drags on
 The US-Israel war on Iran has cooled demand for homes in Dubai as buyers hold off on making purchases and businesses delay relocations of executives and staff to the Middle East, according to analysts. The hostilities began in February with strikes in Tehran and later developed into a wider regional
@@ -152,9 +155,6 @@ China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penal
 
 ## Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures
 On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories revea
-
-## Chinese battery giant CATL posts record quarterly profits amid green energy boom
-Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly missed market estimates for second-quarter revenue and net profit, as China’s weakening demand for electric vehicles (EVs) outweighed benefits from the energy shock. The world’s largest battery maker reported a record 1
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -252,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## ‘No accountability for settler war crimes against Palestinians’
+‘No accountability for settler war crimes against Palestinians’
+
+## Malaysia to host rescheduled Bahrain Grand Prix F1 race in October
+The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.
+
+## Anti-war protesters demand end to US use of UK airbase to strike Iran
+Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran
+
+## Female football referee suffers concussion amid male players’ melee
+Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France.
+
+## Why the UK cancelled a military exercise in Kenya – and what it means
+A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.
+
 ## After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?
 Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?
 
@@ -260,21 +275,6 @@ India’s government has picked Pralhad Joshi as the new education minister afte
 
 ## Japanese football legend ‘King Kazu’, 59, scores first goal in four years
 The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.
-
-## Photos: Wildfires in France drive 250,000 people from their homes
-As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.
-
-## Israeli protesters denounce deadly settler violence
-Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.
-
-## The Cockroach Effect: Modi vs India’s Gen Z
-Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.
-
-## Thousands rally against Tunisia’s president five years after power grab
-Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.
-
-## Becoming the story: Injured journalists battle to leave Gaza for treatment
-Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
