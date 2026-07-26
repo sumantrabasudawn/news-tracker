@@ -63,6 +63,9 @@ Shift towards leveraged cash-market trades continues as derivatives activity coo
 ## Centre discontinues ATF price stabilisation scheme after airlines skip MoU deadline
 No domestic carrier signed mandatory agreements with oil marketing companies within prescribed timeframe
 
+## July FPI inflows touch Rs 42,000 crore, top February record
+Foreign portfolio investors became net buyers of Indian equities in July. This marked a reversal after four months of significant outflows from the market. Total foreign inflows reached their strongest point this year, surpassing February's figures. Equity segment saw intense selling pressure earlie
+
 ## Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus
 Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globa
 
@@ -83,9 +86,6 @@ Markets anticipate another volatile week as investors track Middle East developm
 
 ## Tariffs on trial: Small businesses take Trump's latest trade levies back to court
 Two groups of small businesses are challenging Donald Trump's latest tariffs in court. These new levies target goods from sixty trading partners and cover nearly all US imports. Businesses argue the administration failed to justify these measures against individual economies. They contend the tariff
-
-## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
-Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
 
 ## Rahul Gandhi asks Amit Shah if he approved use of ‘lethal force’ on student protesters
 Rahul Gandhi has written to the Union home minister Amit Shah demanding accountability for the “barbaric assault” on peaceful protesters in Delhi on July 20
@@ -135,6 +135,9 @@ The complaints relate to a photograph taken during the July 24 demonstration in 
 ## Man hits woman with pizza pan in face after she laughed during film screening
 
 
+## Burberry sales jump: Are luxury goods back in fashion in China amid tech wealth?
+Luxury brands including Burberry and Cartier posted robust sales growth in China in the latest quarter until late June, and analysts believe the uptick might be due to the country’s strong asset market, leading to improved consumer sentiment. British luxury brand Burberry saw 5 per cent year-on-year
+
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
 Amid heightened geopolitical tensions and complex regulatory hurdles, Wall Street has become a more difficult listing destination for mainland Chinese companies – but some remain unwilling to abandon it. Only two mainland Chinese companies completed US debuts in the first half of the year, raising a
 
@@ -155,9 +158,6 @@ As the size of artificial intelligence models expands beyond 1 trillion paramete
 
 ## Meet Yu Donglai, founder of China’s viral supermarket chain and guest of Premier Li Qiang
 Yu Donglai, founder of viral local supermarket chain Pangdonglai, became a star addition to a recent high-level economic symposium chaired by Chinese Premier Li Qiang, where economists and leading entrepreneurs gathered to discuss the country’s economic outlook. The retailer, headquartered in Xuchan
-
-## China hits Trip.com with US$765 million antitrust penalty after 6-month investigation
-China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”. Trip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site S
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -207,30 +207,6 @@ Ma. Theresa Lazaro said that the bloc wants to see more progress on the implemen
 ## Squabble Deepens Between People Power Party’s Current and Former Leaders
 Whether Han Dong-hoon and Jang Dong-hyuk mend ties will determine the future of South Korea’s main conservative party.
 
-## Global Risks Heating Up
-Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
-
-## Before a Cyber Force, Fix Cyber Governance
-Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
-
-## Chaotic Progress: European NATO’s Quest for Stronger Defense
-In 2024, Max Bergmann wrote, “NATO Missed a Chance to Transform Itself,” where he argued NATO’s leadership needs to facilitate a strong European pillar of the alliance through structural reforms in European institutions. Two years later, we asked Max to revisit his arguments.Image: The White House v
-
-## America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down
-For 18 days in June, two of America’s most capable AI models went dark worldwide, not for technical or business reasons, but because the U.S. government ordered it. On June 12, 2026, the Commerce Department informed Anthropic that its Fable 5 and Mythos 5 models could no longer be provided to any fo
-
-## The King of Cool: Mobile Refrigeration and the Remaking of Global Logistics
-Editor’s note: This is the fifth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## The Importance of the Invasion of Sicily
-On July 10, 1943, the Allied invasion of Sicily — codenamed Operation Husky — put more assault troops ashore on its first day than the Normandy landings would 11 months later. Despite the scale of these amphibious and vertical assaults on the Mediterranean’s largest island, the images most carry of 
-
-## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
-In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
-
-## How Ukraine Put Russia on the Backfoot
-Ukraine’s expanding use of drones at all ranges has changed the war’s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasting advantage
-
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
 
@@ -255,6 +231,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Trump’s border czar probes possible vetting failures after ICE shooting
+ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.
+
 ## What’s causing the unprecedented wildfires in Europe?
 France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.
 
@@ -275,9 +254,6 @@ Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over
 
 ## What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?
 Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.
-
-## Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon
-Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
