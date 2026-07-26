@@ -1,13 +1,19 @@
 # AION Intelligence
 
-## What is the risk of using Chinese open AI models like Kimi K3?
-The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks
-
-## One dead and 29 injured as vehicle drives into Berlin Pride crowd
-Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
-
 ## US pauses Iran strikes as Oman pursues Hormuz transit deal
 Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
+
+## Gatwick airport apologises after water shortage hits toilets
+Many bars and restaurants were also forced to close, although flights were still running during the disruption
+
+## Police kill suspect after van-ramming attack on Berlin Pride event
+Assailant in terror incident had been identified as Abdul Ballout, a German citizen with a Lebanese background
+
+## The Exploration Company with SpaceX ambitions aiming for a $2bn valuation
+European start-up in talks to raise $300mn for reusable space capsules
+
+## What is the risk of using Chinese open AI models like Kimi K3?
+The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks
 
 ## Reform UK’s bank account was frozen during 2024 election
 Nigel Farage’s party faces increased scrutiny of finances ahead of Clacton by-election
@@ -18,20 +24,8 @@ The recent deal again illustrates that closer alignment with the EU offers the b
 ## ‘Violent’ wildfires rage close to French and Spanish cities
 About 335,000 evacuated in worsening blazes
 
-## Why wages and productivity look set to diverge further
-AI and a falling labour share of GDP risk accelerating decoupling trends across the rich world
-
-## Will the Fed raise interest rates at Kevin Warsh’s second meeting?
-Market Questions is the FT’s guide to the week ahead
-
 ## Central bankers take centre stage
 Fed, BoE and BoJ to decide interest rates, Greater Manchester elects a new mayor, earnings season moves up a gear
-
-## Gatwick airport apologises after water shortage hits toilets
-Many bars and restaurants also forced to close but flights still running at UK’s second-busiest airport
-
-## The Exploration Company with SpaceX ambitions aiming for a $2bn valuation
-European start-up in talks to raise $300mn for reusable space capsules
 
 ## Trump’s systematic assault on science
 The government is politicising funding for basic research
@@ -44,6 +38,9 @@ New Jersey becomes first state to halt electronic price tags partly on fears the
 
 ## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
 Private equity groups have been hunting independent wealth management groups for their recurring earnings
+
+## ‘We are committed to ensuring financial stability’
+We will do whatever is required first to maintain price stability and then to see to what extent we can support growth, says RBI Governor Sanjay Malhotra
 
 ## Inflation remains RBI’s foremost priority: Governor Sanjay Malhotra
 Measures led to $32 billion inflows, largely through FCNR(B), says RBI Governor
@@ -65,9 +62,6 @@ No domestic carrier signed mandatory agreements with oil marketing companies wit
 
 ## CAG flags ₹12.86 cr loss in WBIDC's land deal with Flipkart in West Bengal
 The auditor said West Bengal’s industrial development agency undervalued land at Haringhata Industrial Park by not factoring in non-allocable water bodies.
-
-## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
-The entire EPF auto refund process is expected to get ready by August end
 
 ## Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus
 Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globa
@@ -93,6 +87,9 @@ Two groups of small businesses are challenging Donald Trump's latest tariffs in 
 ## Energy security in focus: What India’s crude oil, LPG and LNG strategic reserves strategy should look like
 Once completed, the total strategic petroleum reserves capacity will increase to 11.88 MMT, enabling India to move significantly closer to the 90-day reserve target. India is working with the UAE for 30 million barrels of crude of storage capacity.
 
+## Rahul Gandhi asks Amit Shah if he approved use of ‘lethal force’ on student protesters
+Rahul Gandhi has written to the Union home minister Amit Shah demanding accountability for the “barbaric assault” on peaceful protesters in Delhi on July 20
+
 ## Rahul guns for Amit Shah over ‘pellets fired’ at CJP march as Parliament session resumes, , govt plans a bill move
 Rahul Gandhi has said Amit Shah first has to answer why Delhi Police acted the way it did at Cockroach Janta Party's ‘Sansad Chalo’ march on July 20.
 
@@ -114,8 +111,20 @@ According to the DFO, the forests along the Dima Hasao-Karbi Anglong-Nagaland bo
 ## BJP seeks Sreelekha Mitra's arrest over PM Modi's 'obscene poster' at Kolkata students' protest
 The complaints relate to a photograph taken during the July 24 demonstration in the Esplanade area, where protesters had gathered.
 
-## Who's on PM Modi's task force for exam reforms? Here's what we know
-The committee will comprise a multidisciplinary group of domain experts to help revamp the NTA examination.
+## Express News Quiz: Gen Z protests, T20I and more
+
+
+## Berlin Pride attack suspect shot dead after 24-hour manhunt
+
+
+## ‘Congress backed from outside, credit goes to youth’: Revanth Reddy on CJP protest
+
+
+## UTT final: Manush Shah’s masterclass powers U Mumba to back-to-back titles
+
+
+## London’s Gatwick Airport hit by major water outage; toilets, restaurants shut
+
 
 ## India at CWG 2026 Day 5 Schedule: Full list of Indian athletes in action on Monday
 
@@ -124,21 +133,6 @@ The committee will comprise a multidisciplinary group of domain experts to help 
 
 
 ## ‘Carrying your braincells?’ Mentor’s snide remark before Anahat’s Jr Worlds title
-
-
-## Inside Amaal Mallik’s 800-sq-ft home: Fan art, piano corner and a balcony retreat
-
-
-## ‘Reproductive patterns’: Shashi Tharoor’s cheeky response to son’s ‘ban boomers from WhatsApp’ post
-
-
-## Israeli settlers’ violence: How two West Bank mosques ended up in flames
-
-
-## Punjab Police busts Pakistan-linked BKI terror module, arrests key operative
-
-
-## p-tau217: What the new Alzheimer’s blood test can — and can’t — do
 
 
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
@@ -261,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli settlers burn two mosques in occupied West Bank
+Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.
+
+## Romania summons Russian envoy as it shoots down third intruding drone
+The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.
+
+## Al-Sharaa praises Trump’s decision to remove Syria from terrorism list
+Al-Sharaa praises Trump's decision to remove Syria from terrorism list.
+
+## Berlin police shoot dead suspect in car-ramming attack at Pride event
+Abdul Ballout was hunted for 'Islamic terror attack' after he drove a van into crowds at LGBT event in German capital.
+
+## Israel launches military incursion into Syria amid UN condemnation
+The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.
+
 ## ‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war
 Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.
 
@@ -269,21 +278,6 @@ Israel is violating agreements by shelling 'pilot villages', Lebanon's army asse
 
 ## Heatwave drives major wildfires across North Africa
 Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco.
-
-## Darfur: Weaponising Identity
-How land conflict, state neglect and racist ideology have driven Darfur towards alleged genocide.
-
-## Typhoon Noul batters Southeast China
-Footage shows the aftermath of Typhoon Noul after it battered southern China's coastal regions.
-
-## Who is India’s new education minister Pralhad Joshi?
-Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.
-
-## Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans
-Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the world’s ‘worst-behaved countries’.
-
-## Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026
-Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
