@@ -39,6 +39,9 @@ New Jersey becomes first state to halt electronic price tags partly on fears the
 ## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
 Private equity groups have been hunting independent wealth management groups for their recurring earnings
 
+## Breaking down barriers to hepatitis care
+World Hepatitis Day — July 28
+
 ## ‘We are committed to ensuring financial stability’
 We will do whatever is required first to maintain price stability and then to see to what extent we can support growth, says RBI Governor Sanjay Malhotra
 
@@ -59,9 +62,6 @@ Shift towards leveraged cash-market trades continues as derivatives activity coo
 
 ## Centre discontinues ATF price stabilisation scheme after airlines skip MoU deadline
 No domestic carrier signed mandatory agreements with oil marketing companies within prescribed timeframe
-
-## CAG flags ₹12.86 cr loss in WBIDC's land deal with Flipkart in West Bengal
-The auditor said West Bengal’s industrial development agency undervalued land at Haringhata Industrial Park by not factoring in non-allocable water bodies.
 
 ## Gold's next test: Fed verdict, crude oil and geopolitical tensions in focus
 Gold and silver prices are set for a week driven by major events. The US Federal Reserve's interest rate decision will be a key factor. Geopolitical tensions involving Iran and crude oil price movements also impact markets. Investors will monitor US economic data and central bank announcements globa
@@ -111,6 +111,9 @@ According to the DFO, the forests along the Dima Hasao-Karbi Anglong-Nagaland bo
 ## BJP seeks Sreelekha Mitra's arrest over PM Modi's 'obscene poster' at Kolkata students' protest
 The complaints relate to a photograph taken during the July 24 demonstration in the Esplanade area, where protesters had gathered.
 
+## Raja Muthupandi wins silver in 65kg weighlifting, India’s fourth medal at CWG 2026
+
+
 ## Express News Quiz: Gen Z protests, T20I and more
 
 
@@ -130,9 +133,6 @@ The complaints relate to a photograph taken during the July 24 demonstration in 
 
 
 ## Man hits woman with pizza pan in face after she laughed during film screening
-
-
-## ‘Carrying your braincells?’ Mentor’s snide remark before Anahat’s Jr Worlds title
 
 
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Houthis claim Saudi drone downed over northwestern Yemen
+Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.
+
+## What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?
+Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.
+
+## Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon
+Syrian President Ahmed al-Sharaa said Damascus is working towards a security agreement with Israel.
+
+## 46 people rescued from sunken ship in South China Sea
+Footage shows rescuers pulling survivors from a Vietnamese vessel that sank in the South China Sea.
+
+## Cuban president accuses US of genocide, seeking takeover
+Island has weathered a US oil embargo since January and is enduring one of its worst economic crises.
+
+## Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani
+Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel.
+
 ## Israeli settlers burn two mosques in occupied West Bank
 Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.
 
 ## Romania summons Russian envoy as it shoots down third intruding drone
 The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.
-
-## Al-Sharaa praises Trump’s decision to remove Syria from terrorism list
-Al-Sharaa praises Trump's decision to remove Syria from terrorism list.
-
-## Berlin police shoot dead suspect in car-ramming attack at Pride event
-Abdul Ballout was hunted for 'Islamic terror attack' after he drove a van into crowds at LGBT event in German capital.
-
-## Israel launches military incursion into Syria amid UN condemnation
-The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.
-
-## ‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war
-Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.
-
-## Israel obstructing takeover of pilot zones in Lebanon’s south: Military
-Israel is violating agreements by shelling 'pilot villages', Lebanon's army asserts.
-
-## Heatwave drives major wildfires across North Africa
-Extreme heat is fuelling wildfires across North Africa, with major fires burning in Tunisia, Algeria and Morocco.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
