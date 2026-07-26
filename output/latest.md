@@ -1,73 +1,61 @@
 # AION Intelligence
 
-## Brazil denies visas to US officials over alleged election interference
-Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro
+## One dead and 16 injured after van drives into Berlin Pride crowd
+Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
 
-## Iran says Ukrainian attack on vessel in Caspian Sea killed sailor
-Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region
+## Investors use crypto exchanges to avoid Chinese controls on AI stocks
+Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
 
-## Top Democrat says Trump administration is worsening chip shortage
-Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI
+## Deadly storm in Chile disrupts copper mines and raises AI supply concerns
+Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility
 
-## Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine
-Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks
+## Defence giants provide record backing for military start-ups
+As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists
 
-## France and Spain evacuate 260,000 as ‘unprecedented’ wildfires spread
-Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux
+## Chips and drones to be at heart of Burnham’s push to ‘reindustrialise’, AI minister says
+Kanishka Narayan tells FT that new prime minister views technology as way for Britain ‘to get its mojo back’
 
-## India’s ‘cockroach’ movement halts protests after minister quits
-Dharmendra Pradhan’s departure was a key demand of the burgeoning student movement
+## The British state school that is the first to open an overseas branch
+Queen Elizabeth’s School thinks it can be a model for others as it hunts for new revenue in Dubai and Delhi
 
-## Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites
-Tit-for-tat attacks risk expanding the regional war in the Middle East
+## Maga’s creepy baby obsession won’t solve the fertility crisis
+But neither will pretending that it’s merely an economic issue
 
-## Washington and London discuss plan for meeting to resolve Hormuz crisis
-Gathering to consider forming an international maritime coalition to safeguard shipping
+## Forget bazaars and saris: fast fashion takes off in India
+Chains such as Zudio are luring cost-conscious shoppers with cut-price designs and contemporary stores
 
-## Maha Inc: how companies tied to Kennedy’s movement are poised to benefit
-Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul
+## British unicorn Humanoid points to way forward for European tech
+London-based company shows that while the continent is industrialising, it still has manufacturing clout
 
-## Intern arrested on suspicion of spying at Nato military HQ
-Belgian officials say operations have not been compromised after a Canadian national of Chinese origin is detained
+## Why workers are nostalgic for life before AI
+Many white-collar professionals worry about the tech inhibiting creativity and making errors
 
-## Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal
-Largest ever foreign investment in the Gulf state comes as it seeks to raise capital in face of Iranian attacks
+## Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit
+Chair says Bayesian manufacturer’s legal challenge against Mike Lynch’s estate is ‘very specific to one shipbuilder’
 
-## Who wants to buy a football club?
-Also in today’s newsletter: the new-look Hundred returns and the Commonwealth Games fight for relevance
+## Iran war spreads to Red Sea and Caspian; No US attacks for first time in two weeks
+The U.S. military said on Saturday that ⁠its naval blockade against Iran “remains in full effect” but did not explain why it halted a streak of 13 nights of escalating strikes
 
-## In a glum moment for budget airlines, Ryanair may have the last laugh
-Investors underestimate how balance-sheet strength might be a differentiating factor in what happens next
+## India's next commodity cycle could be driven by scrap as organised metal recycling gains momentum
+The report said secondary metals offer the same metallurgical properties as primary metals while requiring significantly lower energy, capital and carbon intensity
 
-## Overpriced UK homes take ‘more than four times longer to sell’, study finds
-Pitching too high can disproportionately lengthen the time it takes to agree a sale
+## US Senator introduces Bill to suspend new H-1B visas for 3 years
+Republican Senator Tim Sheehy’s proposal also seeks to restore Trump’s $100,000 H-1B fee, tighten visa rules and prioritise American workers.
 
-## What the City needs from the Burnham government
-Unlike the 1970s, there is a conversation to be had here
+## Students are more important than any post: Amit Shah after Dharmendra Pradhan’s exit
+"The Modi government respects the sentiments of the country's youth and is committed to implementing the necessary reforms against paper leaks," he said in a post on X late Saturday night.
 
-## Technology as an enabler: Reimagining Indian agritech
-The next phase of Indian agritech is likely to be shaped by making the agricultural systems they already depend on more intelligent, connected, resilient and economically productive
+## Maruti Suzuki eyes 9 lakh units of CNG vehicle sales this fiscal
+Maruti Suzuki India currently sells 15 CNG models
 
-## TCS, Infosys, HCL Tech, Wipro and Tech Mahindra: IT’s a chasm between management and investors
-Despite bullish AI rhetoric, tepid growth and shrinking margins show IT services majors must prove their strategic relevance
+## India's housing boom cushions tiles industry against West Asia supply disruptions
+The optimism comes as India's residential real estate market continues to witness healthy momentum
 
-## Should investors subscribe to Lohia Corp’s IPO?
-Lohia Corp’s cheap P/E multiple is offset by its exposure to cyclical end-market capex demand
+## Reforms, infra investment critical to unlocking India's next phase of gas demand growth: Report
+The report argues that reforms to pricing mechanisms and market access will be essential to support sustained growth in gas demand
 
-## Indo-MIM IPO: Should investors subscribe?
-At around 45 times trailing earnings, Indi-MIM’s long-term growth prospects appear to be already factored in
-
-## Tulsian, Asit C Mehta, ICICI Pru, Green Lantern, Sundaram: Here’s how top PMSes delivered alpha to investors
-PMS investing is primarily a manager-selection decision, not merely a choice between large-cap, mid-cap or small-cap strategies. A concentrated portfolio can produce exceptional alpha when the manager is right, but it can magnify stock-specific losses, drawdowns and tax costs when the calls go wrong
-
-## What they say on their India plans
-Read on to know what CXOs of global corporations are saying about India and their perspectives and plans during this earnings season
-
-## Who Am I? July 26, 2026
-Are you an avid investor? How well do you know corporate India?
-
-## Government has to work on right regulations for V2X technology: Carmakers
-The Department of Telecommunications last month de-licensed spectrum bands for automotive radar and vehicle-to-everything (V2X) communications
+## Hyderabad Police Commissioner VC Sajjanar in NITI Aayog consultation on national food safety
+Consultation highlighted importance of a collaborative and technology-driven approach
 
 ## Tariffs on trial: Small businesses take Trump's latest trade levies back to court
 Two groups of small businesses are challenging Donald Trump's latest tariffs in court. These new levies target goods from sixty trading partners and cover nearly all US imports. Businesses argue the administration failed to justify these measures against individual economies. They contend the tariff
@@ -93,53 +81,56 @@ Wall Street saw some relief as oil prices fell, but weekly losses continued. Inv
 ## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
 The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
 
-## Case Registered Against BJP MLC C.T. Ravi Over Alleged Hate Speech
-BJP MLC and former Karnataka minister C T Ravi has been booked by the Chikkamagaluru Town police for allegedly delivering a provocative speech that promoted hatred and communal disharmony during a public meeting held in connection with the controversy over the National Eligibility-cum-Entrance Test 
+## 'Barbaric assault': Rahul Gandhi writes to Amit Shah, seeks accountability for July 20 crackdown on students
+The Congress leader also stated the use of pellet guns was “most shocking.”
 
-## Pralhad Joshi's first reaction after getting education ministry charge: ‘I accept this with humility'
-Pralhad Joshi said he would work with dedication to strengthen the education sector after taking charge of the Education Ministry.
+## Kargil Vijay Diwas: Punjab's Mann, Haryana's Saini pay tributes to soldiers
+Kargil Vijay Diwas: Punjab's Mann, Haryana's Saini pay tributes to soldiers
 
-## Maharashtra TET paper leak mastermind held in Bihar after month-long hunt
-Saturday’s arrests take the total number of individuals arrested in the case to 14, including Gupta’s wife, Suman Gupta.
+## Book Box: A masterclass in cockroaches
+The power of protests, poetry and the words that outlive us all
 
-## All Delhi metro stations now open as CJP withdraws protest, curbs ease in capital
-In a post on X (formerly Twitter), the DMRC stated, "All stations of the Delhi Metro network are open (both entry and exit) for passenger services."
+## ‘Resigned to stop anti-national forces': Dharmendra Pradhan's reason for resignation as education minister
+Dharmendra Pradhan said his resignation was to safeguard students' interests and prevent 'anti-national forces' from exploitation.
 
-## Dharmendra Pradhan news LIVE: Dipke thanks supporters, critics in new video, says 'this is just the beginning'
-Dharmendra Pradhan news LIVE: Rashtrapati Bhavan announced that Pralhad Joshi, who currently heads the consumer affairs, food and public distribution, and new and renewable energy ministries, had been given additional charge of the education ministry.
+## On Kargil Diwas, Rajnath Singh's sharp warning to Pakistan: ‘Response beyond imagination’
+Referring to Operation Sindoor, Rajnath Singh said, It “showed what will be the fate of those who indulge in terrorism”.
 
-## 'Arbitration is starting to look like court process': CJI Surya Kant
-CJI Surya Kant said arbitration is becoming like court litigation, urging faster proceedings, stronger case management and judicial restraint.
+## Kargil Diwas: The war was won, but India still needs to learn its hardest lesson
+Looking back at the past 27 years, India has paid very heavily in men and material cost due to lack of intelligence with agencies over the years
 
-## Dharmendra Pradhan steps down, Gen Z steps up
-Minister Pralhad Joshi gets additional charge of education, BJP leaders rally behind Pradhan after he resigns.
+## Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
+Three students were injured during clashes in Siwan as Bihar bandh over the NEET issue turned violent, prompting internet curbs.
 
-## Assam flood toll rises to 62, PM Modi takes stock; over 7 lakh affected in state
-Assam's flood toll rose to 62, with over 7 lakh people affected, as relief operations continued and waters receded in some areas.
+## Rajnath, Army chief lay wreaths at war memorial to pay tributes to Kargil heroes
+Rajnath, Army chief lay wreaths at war memorial to pay tributes to Kargil heroes
 
-## The barefoot ‘gadfly’: Vijay Tankha’s new book brings the baffling, maddening Socrates back to life
-
-
-## How Sai Praneeth ended India’s 36-year wait for a men’s singles Worlds medal
+## HDFC Bank ordered to pay Rs 2.2 lakh to cyber fraud victim
 
 
-## Indus Waters Treaty: A year on, India’s case for freezing it and what it plans next
+## Google confirms Pixel 11 price increase amid global RAM shortage
 
 
-## Jantar Mantar Protest Live Updates: Abhijeet Dipke thanks supporters for victory in their ‘first campaign’ in fresh video
+## Protistha Samanta’s CWG final journey: 4:30 am alarms, rain and a mother’s grit
 
 
-## ‘Still a long way to go’: Mumbai marks Pradhan’s resignation with victory gathering
+## ‘Zara laathi dheere chalana’: How classic and new-age poetry powered the Gen Z Cockroach protests
 
 
-## Jana Nayagan Box Office Collection Day 3 Live Update: Vijay’s film earns Rs 171 cr worldwide
+## CAT 2026 Notification issued at iimcat.ac.in; registrations start from August 3
 
 
-## BEST bus rolls into office at Colaba depot after handbrake lapse
+## Jana Nayagan: Vijay’s propaganda film makes even Sura and Villu look like masterpieces
 
 
-## Bengal govt tables 28 CAG reports, accuses TMC of ‘constitutional lapse’ while in power
+## ‘Arrest me or let me go’: In video, Sonam Wangchuk’s face-off with cops at Safdarjung Hospital
 
+
+## Sharad Pawar: Told PM to talk to students or face consequences
+
+
+## How Hong Kong developers are adapting to the ‘new normal’ in the Greater Bay Area
+Hong Kong developers operating in the Greater Bay Area are having to adapt to the ongoing debt crisis in mainland China’s property sector, which has led to deep and lasting changes in the nature and motivations of their buyers, according to agencies dealing in mainland real estate. Before the debt c
 
 ## What is a supernode, and why does it matter for the China-US tech rivalry?
 As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technolog
@@ -161,9 +152,6 @@ China has placed one of its top former financial regulatory officials under inve
 
 ## Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar
 Chinese tech giant Tencent Holdings has fired a manager at its WeChat division after details of his multimillion-yuan bonus package leaked online, sparking animated discussion across social media. The employee, surnamed Ye, was dismissed for passing sensitive corporate information to external partie
-
-## Chinese GPU maker confidentially files for Hong Kong IPO amid fundraising wave: sources
-MetaX, a Chinese maker of graphics processing units (GPUs), has confidentially filed for a listing in Hong Kong, according to people familiar with the matter. The Shanghai-based company was targeting an initial public offering (IPO) by the end of this year, according to the sources, who asked not to
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -261,29 +249,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## French wildfires trigger mass evacuations around Bordeaux
-Around 200,000 people have been evacuated around Bordeaux as wildfires tear through southwestern France.
+## House of Hope: New film follows a Waldorf-inspired school in the West Bank
+Documentary follows children under occupation and the couple who run a holistic primary school as Israel's war persists.
 
-## Flavio Bolsonaro launches Brazil presidential bid with Milei support
-Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.
+## Typhoon Noul makes landfall in China, with hundreds of thousands evacuated
+Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong winds and heavy rain to the region.
 
-## Israel arrests nine at Tel Aviv protest against West Bank settler violence
-Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.
+## https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us
+At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire.
 
-## Yemen’s Houthis target Saudi oil facilities along the Red Sea
-Yemen's Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.
+## New front in US-Iran war escalates as Houthis fire at Saudi oil facilities
+Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.
 
-## Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos
-Right-wing candidate Flavio Bolsonaro attracts foreign support, but struggles in polls ahead of matchup with Lula.
+## US military disables tanker accused of breaking the Iran blockade
+The US military has released footage it says shows forces boarding one tanker.
 
-## Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack
-Tehran says the Ukranian attack killed at least one sailor and wounded another.
+## Tunisians mark fifth year of emergency rule with calls for Saied to go
+Thousands rally in Tunis calling for 'fall of the regime' five years since President Kais Saied suspended parliament.
 
-## What’s behind the Israeli crackdown in the occupied West Bank?
-Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.
+## Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship
+Iran has condemned a Ukrainian attack on one of its commercial vessels.
 
-## Iran accuses Ukraine of deadly attack on Caspian commercial vessel
-Iran accuses Ukraine of attacking a Caspian vessel, killing one sailor and injuring another, calling it a criminal act.
+## Can Zimbabwe’s mineral ambitions benefit smaller producers?
+Zimbabwe wants to process more minerals at home, but smaller miners fear being left behind.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
