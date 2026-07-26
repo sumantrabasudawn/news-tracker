@@ -1,19 +1,43 @@
 # AION Intelligence
 
+## Reform UK’s bank account was frozen during 2024 election
+Nigel Farage’s party faces increased scrutiny of finances ahead of Clacton by-election
+
+## Gibraltar should show Burnham a softer Brexit is the only option
+The recent deal again illustrates that closer alignment with the EU offers the best of both worlds
+
+## ‘Violent’ wildfires rage close to French and Spanish cities
+About 335,000 evacuated in worsening blazes
+
+## Why wages and productivity look set to diverge further
+AI and a falling labour share of GDP risk accelerating decoupling trends across the rich world
+
+## Will the Fed raise interest rates at Kevin Warsh’s second meeting?
+Market Questions is the FT’s guide to the week ahead
+
+## US pauses Iran strikes as Oman pursues Hormuz transit deal
+Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
+
+## Trump’s systematic assault on science
+The government is politicising funding for basic research
+
 ## India’s Gen Z protesters puncture Modi’s aura of invincibility
 Long-serving premier the target of demonstrators’ anger
+
+## Saint-Gobain pushes ahead with US expansion despite slow housing market
+French building materials giant wants to more than double North American business through capex and acquisitions
 
 ## US economic anxieties on display in battle over digital store labels
 New Jersey becomes first state to halt electronic price tags partly on fears they could be used for surveillance
 
+## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
+Private equity groups have been hunting independent wealth management groups for their recurring earnings
+
 ## Deadly storm in Chile disrupts copper mines and raises AI supply concerns
 Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility
 
-## Burnham ‘rules out’ early election
-New UK prime minister says he will stand up to Donald Trump when in Britain’s interest
-
-## One dead and 16 injured as vehicle drives into Berlin Pride crowd
-Police seek suspect as city’s mayor condemns ‘attack on our free and open society’
+## British unicorn Humanoid points to way forward for European tech
+London-based company shows that while the continent is industrialising, it still has manufacturing clout
 
 ## Investors use crypto exchanges to avoid Chinese controls on AI stocks
 Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market
@@ -21,44 +45,35 @@ Perpetual futures let investors circumvent restrictions on foreign access to Chi
 ## Defence giants provide record backing for military start-ups
 As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists
 
-## Chips and drones to be at heart of Burnham’s push to ‘reindustrialise’, AI minister says
-Kanishka Narayan tells FT that new prime minister views technology as way for Britain ‘to get its mojo back’
+## EPFO traces 1.18 lakh of 7.11 lakh dormant ACs holding less than ₹1,000 for auto-refund of unclaimed funds
+The entire EPF auto refund process is expected to get ready by August end
 
-## Trump’s systematic assault on science
-The government is politicising funding for basic research
+## MTF book hits fresh high of ₹1.43 lakh crore despite slower growth
+Shift towards leveraged cash-market trades continues as derivatives activity cools
 
-## Saint-Gobain pushes ahead with US expansion despite slow housing market
-French building materials giant wants to more than double North American business through capex and acquisitions
+## Old Monk shortage: Why has India’s ‘Budha Sadhu’ gone missing from liquor shelves across Maharashtra?
+India’s iconic dark rum Old Monk has become increasingly difficult to find across liquor shelves in Mumbai, Pune, Nagpur and other parts of Maharashtra just as the monsoon, its peak season, drives up demand and pushes consumption
 
-## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
-Private equity groups have been hunting independent wealth management groups for their recurring earnings
+## India-US trade pact talks may gather pace only after Section 301 excess capacity findings
+Forced-labour probe outcome removes one uncertainty, but wider trade negotiations hinge on pending US investigations, sources say
 
-## British unicorn Humanoid points to way forward for European tech
-London-based company shows that while the continent is industrialising, it still has manufacturing clout
+## A timely portrait of Karnataka’s new CM
+The book captures the man of the moment, but it could have been clearer on facts and provided an in-depth look at some aspects
 
-## FSSAI suspends license of Westend Agro Products and Rehaan Healthcare
-Several food products were found with altered manufacturing dates, expiry dates, batch numbers and misleading label declarations
+## An outspoken doctor’s reflective tale
+Delves into conditions, products that trigger liver health issues
 
-## Russian supply disruption poses fresh risk to India’s August crude imports; Red Sea remains the second key variable
-Uncertainty over crude loadings from Russia’s Black Sea port of Novorossiysk after Ukrainian attacks
+## IT dept issues detailed crypto reporting norms, tightening tax oversight without changing levy
+Move follows Parliamentary Standing Committee on Finance’s call for a statutory and regulatory framework for VDAs
 
-## Gold and silver: What will drive prices this week?
-Analysts say US Fed action, oil swings to be in focus amid escalating West Asia tensions
+## FORVIA to invest ₹2,000 crore in India, targets €1-billion business by 2030
+The India push comes as FORVIA executes its global IGNITE transformation program to simplify its portfolio and strengthen its balance sheet by scaling its India operations
 
-## Any talks with Pakistan would focus solely on PoK, an integral part of India: Rajnath
-Rajnath Singh said that the paths taken by India and Pakistan have diverged sharply after the Kargil War
+## India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next
+India's first hydrogen train has traveled over 1,200 kilometers during trial operations. This indigenous project has already saved over 3,200 liters of diesel fuel. The train generates electricity using hydrogen fuel cells, releasing only water vapor. Dedicated hydrogen storage and refuelling facili
 
-## Tiruppur textile industry seeks worker housing; puts forward request in Industrial Policy stakeholder discussion
-Industry says worker accommodation is key to retaining talent and leveraging FTA-led export growth
-
-## CAG flags ₹12.86 cr loss in WBIDC's land deal with Flipkart in West Bengal
-The auditor said West Bengal’s industrial development agency undervalued land at Haringhata Industrial Park by not factoring in non-allocable water bodies.
-
-## Air India modifying certain Dreamliners to address possible door assist handle issue
-FAA has asked airlines to make modifications in certain models since detachment of door assist handles could cause injuries to passengers, crew or maintenance personnel when opening the door.
-
-## Lodha Developers targets 20% profit growth in FY27 to ₹4,100 cr
-Lodha Developers’ profit doubled to ₹1,373.1 crore in April-June from ₹675 crore in the year-ago period
+## IPO rush ahead: Zepto, Shiprocket and 12 more firms to hit primary market; eye Rs 25,000 crore-plus fundraising
+India's IPO market is preparing for a busy month with many companies planning public offerings. Over a dozen firms are expected to launch initial public offerings, raising over Rs 25,000 crore. These upcoming issues span diverse sectors like quick commerce, housing finance, and education infrastruct
 
 ## Market recap: Top-10 firms shed Rs 2.74 lakh crore in value; HDFC Bank takes biggest hit
 Indian stock markets experienced a significant downturn last week. Nine of the ten most-valued companies saw their market worth decline. HDFC Bank faced the largest valuation drop, while Hindustan Unilever gained value. Benchmark indices like the BSE Sensex and NSE Nifty also registered losses. This
@@ -78,11 +93,23 @@ Once completed, the total strategic petroleum reserves capacity will increase to
 ## Forex schemes: BoB, BoI target over $6bn mop-up
 
 
-## Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee
-A federal appeals court refused to lift a ruling blocking a $100,000 H-1B visa fee. The court left in place a decision finding the fee unlawful while the government challenges it. Democratic attorneys general argued the administration created a new tax without congressional approval. A district judg
+## 'Eye on the future': PM Modi announces task force on exam reforms, day after Pradhan's resignation
+The video comes after former Union education minister Dharmendra Pradhan resigned following weeks of sweeping protests led by the Cockroach Janta Party.
 
-## Trump slaps 10% tariff on India, no major impact seen
+## Besides the CJP: Neha and the AISA activists who fasted, made reels too, and danced in joy eventually
+Neha Bora captioned it, “If I can't dance, It won't be my revolution!”, as she posted a video of celebrations after Dharmendra Pradhan's resignation on July 25
 
+## 4 killed in Assam factory blast; probe underway: Police
+According to police, the explosion took place around 11am at Kade Global Infrastructure LLP’s metal processing unit in Pangram
+
+## 40-year-old Ram Jhula bridge closed for commuting till December: Officials
+The closure, however, has not gone down well with local traders, who have raised concerns over its timing
+
+## Drunk man kills pregnant wife in UP's Mahoba; child helps police nab him
+The case blew open when the couple's five-year-old son told the police that his father, in an inebriated state, attacked his mother several times with a sickle
+
+## 'Long way to go': What next for CJP leaders after Jantar Mantar protest
+CJP leader Abhijeet Dipke said ending the protest did not mean the movement had ended.
 
 ## Rajasthan’s Keoladeo National Park faces water crisis as Panchana Dam supply dries up
 Park officials say the wetland requires 550 million cubic feet (MCFT) of water every year, most of which is traditionally supplied from the Panchana Dam
@@ -90,47 +117,32 @@ Park officials say the wetland requires 550 million cubic feet (MCFT) of water e
 ## Health, age and 'corrupted arena': Siddaramaiah on why he won't contest the 2028 Karnataka polls
 The Congress leader also added that his decision comes after public pressure on him to contest once again.
 
-## Contractor held after 6-year-old drowns in pit in Greater Noida; 2 officials removed
-The Greater Noida Authority said in a statement that it had also filed a complaint against the contractor at the Knowledge Park police station
-
-## What happened on Day 1 of Pralhad Joshi as education minister
-After taking charge, Joshi said his immediate priority would be to understand the functioning of the ministry before taking decisions.
-
-## ‘This is a new subject for me’: Pralhad Joshi takes charge as education minister
-Pralhad Joshi said that Prime Minister Narendra Modi has given him “this huge responsibility based on trust and belief”
-
-## Nepal submits proposal to India for using ‘National Identity Card’ for travel verification
-Nepal's Department of Immigration has requested Indian authorities to consider the National Identity Card for travellers' identity verification.
-
-## Deluge in Assam: Factors that led to unprecedented flooding in 2 districts
-Experts believe that while the flooding in the two districts was of a mass scale, but the incident is part of a pattern that is being witnessed in several areas of the northeast
-
-## Hunger strike, police action, and Gen Z: Key moments from CJP's 36-day Jantar Mantar protest
-The agitation began on June 6, when the CJP held its first protest at Jantar Mantar in New Delhi.
-
-## Delhi University UG Admissions 2026: Students can now accept seat by July 27
+## With Pradhan out, Opposition prepares Parliament offensive against Amit Shah
 
 
-## Sena minister Sanjay Shirsat meets Abhijeet Dipke’s parents, promises security
+## Nandan Nilekani to lead high-powered exam reform task force, says PM Modi
 
 
-## Who kept the Jantar Mantar protest running? Meet the 12-member team
+## Rohit Roy’s 150 ml ghee shot explained: Is Panchakarma Snehapana safe for everyone?
 
 
-## Aviation vs Aeronautics: Which course should you choose after Class 12?
+## With 25 nat’l records in 2026, India’s aim for CWG highs in track & field
 
 
-## Fresh protests in Punjab as job aspirants, power workers press government over demands
+## ‘Cried like a child’: Cochin Haneefa kept his fatal illness a secret from friend Mammootty
 
 
-## 3 quirky gadgets that saved my work trip to London, and why you might need them
+## Four prompts that can tell you what chatbots really know about you
 
 
-## Twinkle Khanna’s jute trick for empty walls is easy, affordable and stylish
+## UPSC Key: Sarnath becomes UNESCO World Heritage Site, APAAR ID, and Vizhinjam Port
 
 
-## Top 10 institutions for social sciences research: American universities dominate list, Chinese university at No. 5
+## China This Week | Poll shows favourable view of China over US, new GDP data, and Rubio-Wang meeting
 
+
+## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
+Amid heightened geopolitical tensions and complex regulatory hurdles, Wall Street has become a more difficult listing destination for mainland Chinese companies – but some remain unwilling to abandon it. Only two mainland Chinese companies completed US debuts in the first half of the year, raising a
 
 ## Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng
 In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in the background. With only a couple of photographs of him circulating online, the founder of Chinese a
@@ -152,9 +164,6 @@ Yu Donglai, founder of viral local supermarket chain Pangdonglai, became a star 
 
 ## China hits Trip.com with US$765 million antitrust penalty after 6-month investigation
 China’s market regulator has imposed a 5.2 billion yuan (US$765 million) penalty on Trip.com Group, the country’s largest online travel services provider, for “monopolistic conduct”. Trip.com – operator of its namesake international platform, China-focused siblings Ctrip and Qunar, and global site S
-
-## Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures
-On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories revea
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -252,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## ‘No accountability for settler war crimes against Palestinians’
-‘No accountability for settler war crimes against Palestinians’
+## Israeli air strike on a vehicle in Gaza kills two Hamas security officials
+The head of internal security for Hamas in central Gaza was among the dead.
 
-## Malaysia to host rescheduled Bahrain Grand Prix F1 race in October
-The race in Bahrain was rescheduled in April amid the US-Israel war on Iran and will now be held in Malaysia.
+## Yemen’s health workers race to halt latest outbreak of deadly dengue fever
+Health workers are battling to contain the mosquito-borne disease amid growing concern over rising infections.
 
-## Anti-war protesters demand end to US use of UK airbase to strike Iran
-Anti-war activists have protested outside a UK airbase over US forces using it to bomb Iran
+## From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home
+Sumaya Yaghi returns to what's left of her destroyed home in southern Lebanon.
 
-## Female football referee suffers concussion amid male players’ melee
-Referee Mathilde Demoncay was knocked down as the players fought during a friendly club match in France.
+## Why are Israeli settlers on a rampage in the occupied West Bank?
+Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens 'more broad action'.
 
-## Why the UK cancelled a military exercise in Kenya – and what it means
-A dispute over military cooperation and accountability strains a decades-old UK-Kenya partnership.
+## Langton released from hospital after concussion at Commonwealth Games
+British gymnast Gabriel Langton admitted after headfirst crash off horizontal bar.
 
-## After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?
-Iran condemns what it calls a 'hostile and criminal' Ukrainian attack on commercial vessel. How will it affect the war?
+## ‘New education minister can’t bring my dead daughter back’
+Parents of students who died by suicide following a paper leak in India say nothing can bring their loved ones back.
 
-## Who is India’s new education minister?
-India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.
+## What next for India’s ‘Cockroach’ movement after education minister sacked
+The weeks-long Gen Z-led protests forced a key Modi minister to resign. Where does the movement go from here?
 
-## Japanese football legend ‘King Kazu’, 59, scores first goal in four years
-The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.
+## Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem
+The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
