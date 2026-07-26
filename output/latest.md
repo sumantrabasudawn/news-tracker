@@ -33,29 +33,29 @@ Many white-collar professionals worry about the tech inhibiting creativity and m
 ## Yachtmaker Azimut Benetti seeks to steady customer nerves after Bayesian suit
 Chair says Bayesian manufacturer’s legal challenge against Mike Lynch’s estate is ‘very specific to one shipbuilder’
 
-## Iran war spreads to Red Sea and Caspian; No US attacks for first time in two weeks
-The U.S. military said on Saturday that ⁠its naval blockade against Iran “remains in full effect” but did not explain why it halted a streak of 13 nights of escalating strikes
+## Nippon India MF tops mutual fund industry with over 4 cr folios
+The mutual fund industry had 27.86 crore folios at the end of June, with Nippon India MF accounting for 14.4% (4.02 crore folios) of the total
 
-## India's next commodity cycle could be driven by scrap as organised metal recycling gains momentum
-The report said secondary metals offer the same metallurgical properties as primary metals while requiring significantly lower energy, capital and carbon intensity
+## PNB profit to cross ₹20,000-cr mark in FY27: MD Chandra
+PNB MD Ashok Chandra says the lender will build on its ₹5,000 crore-plus quarterly profit run while expanding retail, MSME and agri lending.
 
-## US Senator introduces Bill to suspend new H-1B visas for 3 years
-Republican Senator Tim Sheehy’s proposal also seeks to restore Trump’s $100,000 H-1B fee, tighten visa rules and prioritise American workers.
+## Tamil Nadu extends 7th State Finance Commission’s tenure till December 2026
+The Seventh State Finance Commission is chaired by retired IAS officer K. Allaudin, and was formed in May 2025
 
-## Students are more important than any post: Amit Shah after Dharmendra Pradhan’s exit
-"The Modi government respects the sentiments of the country's youth and is committed to implementing the necessary reforms against paper leaks," he said in a post on X late Saturday night.
+## Nepal requests India to recognise National ID card as valid travel document
+If approved, the biometric National Identity Card will become the third accepted ID for Nepali citizens travelling to India by air and land.
 
-## Maruti Suzuki eyes 9 lakh units of CNG vehicle sales this fiscal
-Maruti Suzuki India currently sells 15 CNG models
+## AlcoBev company ABDL targets mid-teen growth in FY27, aims to cross ₹600 crore EBITDA
+The company reported a 5.8% y-o-y increase in operational income to ₹984 crore for the June quarter, driven by a premiumisation strategy and a volume of 9 million cases, up 6.2%
 
-## India's housing boom cushions tiles industry against West Asia supply disruptions
-The optimism comes as India's residential real estate market continues to witness healthy momentum
+## Oil prices, US Fed rate decision, West Asia crisis to drive mkts: Analysts
+Last week, the BSE benchmark Sensex tanked 2,091.68 points, or 2.67%, and the NSE Nifty declined 566.85 points, or 2.32%
 
-## Reforms, infra investment critical to unlocking India's next phase of gas demand growth: Report
-The report argues that reforms to pricing mechanisms and market access will be essential to support sustained growth in gas demand
+## Merchant vessel with 4 Indians struck at Ukraine’s Odesa port; 2 safe, fate of 2 awaited
+The Indian Embassy in Kyiv said search operations are underway after MV AGN Ragnar was hit at the Black Sea port, with information awaited on two Indian nationals.
 
-## Hyderabad Police Commissioner VC Sajjanar in NITI Aayog consultation on national food safety
-Consultation highlighted importance of a collaborative and technology-driven approach
+## Mcap of nine of top-10 most valued firms erodes by Rs 2.74 lakh cr; HDFC Bank takes biggest hit
+Banking stocks emerged as the biggest drag following mixed Q1 FY27 earnings, while a risk-off environment and weakness in the rupee further curtailed buying interest
 
 ## Tariffs on trial: Small businesses take Trump's latest trade levies back to court
 Two groups of small businesses are challenging Donald Trump's latest tariffs in court. These new levies target goods from sixty trading partners and cover nearly all US imports. Businesses argue the administration failed to justify these measures against individual economies. They contend the tariff
@@ -81,53 +81,56 @@ Wall Street saw some relief as oil prices fell, but weekly losses continued. Inv
 ## Cabinet approves Ballari-Guntakal rail project to boost freight, passenger connectivity
 The Union cabinet approved a Rs 1,264-crore railway project for new lines. This initiative will enhance freight movement and passenger connectivity across key states. The project aims to ease congestion and improve logistics efficiency significantly. Additional rail capacity will facilitate smoother
 
-## 'Barbaric assault': Rahul Gandhi writes to Amit Shah, seeks accountability for July 20 crackdown on students
-The Congress leader also stated the use of pellet guns was “most shocking.”
+## Awaiting fulfilment of promises 26 years after sacrifice: Kargil martyr'sfamily
+Awaiting fulfilment of promises 26 years after sacrifice: Kargil martyr'sfamily
 
-## Kargil Vijay Diwas: Punjab's Mann, Haryana's Saini pay tributes to soldiers
-Kargil Vijay Diwas: Punjab's Mann, Haryana's Saini pay tributes to soldiers
+## Delhi court upholds 4-year sentence to man in Arms Act case
+Delhi court upholds 4-year sentence to man in Arms Act case
 
-## Book Box: A masterclass in cockroaches
-The power of protests, poetry and the words that outlive us all
+## PM Modi spotlights defence, student achievements and environment in Mann Ki Baat
+In the 136th episode of the radio programme, aired on Kargil Vijay Diwas, Modi began by paying tribute to soldiers who fought in the 1999 Kargil War
 
-## ‘Resigned to stop anti-national forces': Dharmendra Pradhan's reason for resignation as education minister
-Dharmendra Pradhan said his resignation was to safeguard students' interests and prevent 'anti-national forces' from exploitation.
+## 'She may not follow her father…': Assam minister's daughter joins NEET protest; CM Himanta reacts
+Dibisa, the daughter of Assam revenue and disaster management minister and Asom Gana Parishad (AGP) leader Keshab Mahanta, joined the NEET protesters.
 
-## On Kargil Diwas, Rajnath Singh's sharp warning to Pakistan: ‘Response beyond imagination’
-Referring to Operation Sindoor, Rajnath Singh said, It “showed what will be the fate of those who indulge in terrorism”.
+## Vessel with 4 Indians struck at Ukraine's Odesa port, second such attack in a week
+As per an official statement from the Indian Embassy in Kyiv, two crew members have been confirmed safe, while information about the other two is still awaited.
 
-## Kargil Diwas: The war was won, but India still needs to learn its hardest lesson
-Looking back at the past 27 years, India has paid very heavily in men and material cost due to lack of intelligence with agencies over the years
+## 'Dharmendra Pradhan offered to resign on Day 1 of protests’: BJP leader makes bombshell claim
+Kailash Vijayvargiya also claimed that Pradhan's resignation had "foiled the designs" of foreign forces seeking to destabilise India.
 
-## Clashes erupt, gunshots fired at Bihar NEET protest; 3 students injured in Siwan
-Three students were injured during clashes in Siwan as Bihar bandh over the NEET issue turned violent, prompting internet curbs.
+## People no longer fear Modi-Shah regime, says Uddhav Thackeray
+He said that with the protest at Jantar Mantar, people across the country have now “overcome fear of the Modi-Shah regime of terror”
 
-## Rajnath, Army chief lay wreaths at war memorial to pay tributes to Kargil heroes
-Rajnath, Army chief lay wreaths at war memorial to pay tributes to Kargil heroes
+## Arvind Kejriwal visits police station, AAP says 500 students assisted through legal helpline after protest detentions
+In a significant show of support, Arvind Kejriwal and the AAP provide legal assistance to 500 students arrested during recent protests in Delhi.
 
-## HDFC Bank ordered to pay Rs 2.2 lakh to cyber fraud victim
-
-
-## Google confirms Pixel 11 price increase amid global RAM shortage
+## NEET PG 2026: Application correction begins, admit cards on August 27
 
 
-## Protistha Samanta’s CWG final journey: 4:30 am alarms, rain and a mother’s grit
+## IMD issues Orange alert for Punjab, Haryana, Chandigarh; heavy rain likely from Tuesday
 
 
-## ‘Zara laathi dheere chalana’: How classic and new-age poetry powered the Gen Z Cockroach protests
+## From English graduate to citrus king: Hisar farmer nets Rs 35 lakh annually
 
 
-## CAT 2026 Notification issued at iimcat.ac.in; registrations start from August 3
+## ‘Don’t make anyone king’: Hina Khan takes indirect digs at Shilpa Shinde on Lock Upp 2
 
 
-## Jana Nayagan: Vijay’s propaganda film makes even Sura and Villu look like masterpieces
+## Commonwealth Games Medal Tally Live: India’s Standings, Medal Count, & Full Winners List from Glasgow
 
 
-## ‘Arrest me or let me go’: In video, Sonam Wangchuk’s face-off with cops at Safdarjung Hospital
+## ‘TMC-linked’ man among 14 arrested over violence at Kolkata NEET protest
 
 
-## Sharad Pawar: Told PM to talk to students or face consequences
+## You wash your vegetables — but is that enough to kill Cyclospora?
 
+
+## ‘Not considered very good in society’: Hina Khan on Aamir Khan’s third marriage
+
+
+## Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales
+Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China’s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives. The dire scenario could also dash Chinese consumers’ hopes for steep discounts, despite carm
 
 ## How Hong Kong developers are adapting to the ‘new normal’ in the Greater Bay Area
 Hong Kong developers operating in the Greater Bay Area are having to adapt to the ongoing debt crisis in mainland China’s property sector, which has led to deep and lasting changes in the nature and motivations of their buyers, according to agencies dealing in mainland real estate. Before the debt c
@@ -149,9 +152,6 @@ Chinese battery giant Contemporary Amperex Technology Co Limited (CATL) slightly
 
 ## China places former deputy of top financial regulator under investigation
 China has placed one of its top former financial regulatory officials under investigation, the nation’s main anti-corruption body announced on Friday. Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission (CSRC), is suspected of “serious legal and disciplinary violations” 
-
-## Tencent fires WeChat manager after 7-figure bonus leaks online, sparks uproar
-Chinese tech giant Tencent Holdings has fired a manager at its WeChat division after details of his multimillion-yuan bonus package leaked online, sparking animated discussion across social media. The employee, surnamed Ye, was dismissed for passing sensitive corporate information to external partie
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -249,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israel raids West Bank live: Dozens of Palestinians detained during assault
+Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.
+
+## Tour de France final stage shortened as emergency teams tackle wildfires
+Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.
+
+## Israeli settlers set fire to mosque in occupied West Bank
+Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians
+
+## Cape Verde World Cup star Vozinha agrees deal with Chile’s Colo Colo
+The 40-year-old goalkeeper made global headlines after starring in Cape Verde’s historic run at the World Cup.
+
+## Joshua comes back twice to knock out Prenga and set up Fury showdown
+Anthony Joshua survives two knockdowns by Albania's Kristian Prenga before winning the fight in the second round.
+
 ## House of Hope: New film follows a Waldorf-inspired school in the West Bank
 Documentary follows children under occupation and the couple who run a holistic primary school as Israel's war persists.
 
@@ -257,21 +272,6 @@ Noul hit southern Guangdong province and neighbouring Hong Kong, bringing strong
 
 ## https://drive.google.com/drive/folders/17KZlAAj-H_rMiqJSrup6WfcERG75cAjR?us
 At least 14 people have died as wildfires continue to devastate Spain. Two blazes merged into one massive fire.
-
-## New front in US-Iran war escalates as Houthis fire at Saudi oil facilities
-Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.
-
-## US military disables tanker accused of breaking the Iran blockade
-The US military has released footage it says shows forces boarding one tanker.
-
-## Tunisians mark fifth year of emergency rule with calls for Saied to go
-Thousands rally in Tunis calling for 'fall of the regime' five years since President Kais Saied suspended parliament.
-
-## Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship
-Iran has condemned a Ukrainian attack on one of its commercial vessels.
-
-## Can Zimbabwe’s mineral ambitions benefit smaller producers?
-Zimbabwe wants to process more minerals at home, but smaller miners fear being left behind.
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
