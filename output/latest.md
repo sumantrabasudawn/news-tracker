@@ -12,10 +12,10 @@ UK PM draws on experience as Greater Manchester mayor in an attempt to get more 
 ## Trump says Israel ‘would not survive’ without US
 Remarks come ahead of meeting where Benjamin Netanyahu is expected to make case for expanding war with Iran
 
-## Andy Burnham doles out jobs in bid to avert Labour unrest
-New PM has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to vote with the government
+## PM doles out jobs in bid to avert Labour unrest
+New leader has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to the government
 
-## Oil tumbles as Iran and US pause strikes over Strait of Hormuz
+## Oil price tumbles as Iran and US pause strikes over Strait of Hormuz
 Brent 6% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
 
 ## Ares Management has held talks to buy Leonard Green & Partners
@@ -38,12 +38,6 @@ Legal warfare has broken out over whether payment of a debt obligation requires 
 
 ## North Sea pioneer Sir Ian Wood dies aged 84
 Wood turned a family engineering business into a global player during the UK’s energy boom years
-
-## The great tick explosion: a tiny threat tests America’s love of nature
-Changes in climate and land use mean unfamiliar ticks turning up in unexpected places, bringing exotic new illnesses
-
-## How much does Wetherspoons make from its gambling machines? UPDATED
-To a very daft question, we offer a very qualified answer
 
 ## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
 Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
@@ -117,6 +111,9 @@ Misri’s visit follows a meeting between external affairs minister S Jaishankar
 ## Nabanna building signage changes to saffron; part of maintenance, says official
 On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
+## India at CWG 2026 Day 6 Schedule: Full list of Indian athletes in action on Tuesday
+
+
 ## Dimple Kapadia’s ‘forever’ story with Rajesh Khanna sparks conversation on lasting love
 
 
@@ -136,9 +133,6 @@ On May 10, the entire Nabanna building was decorated with saffron lights, ahead 
 
 
 ## BJP leaders feel delay in resolving CJP protest left a dent, but no political damage
-
-
-## Jammu court rejects bail of Bengal man accused of passing defence info — ‘Release would be outrageous’
 
 
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
@@ -213,6 +207,9 @@ A new government report looks at Australia’s “Asia capability” and finds t
 ## Asia’s Overlooked Maritime Flashpoints
 Besides the South China Sea, there are various waterways under contention, from open ocean to marshlands and rivers.
 
+## Zelensky’s Political Storm Starts to Clear
+Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
+
 ## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
 Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
 
@@ -233,9 +230,6 @@ For 18 days in June, two of America’s most capable AI models went dark worldwi
 
 ## The King of Cool: Mobile Refrigeration and the Remaking of Global Logistics
 Editor’s note: This is the fifth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
-
-## The Importance of the Invasion of Sicily
-On July 10, 1943, the Allied invasion of Sicily — codenamed Operation Husky — put more assault troops ashore on its first day than the Normandy landings would 11 months later. Despite the scale of these amphibious and vertical assaults on the Mediterranean’s largest island, the images most carry of 
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -261,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Spain protests mass ‘touristification’ of Mallorca
+Thousands of protesters filled the streets of Palma to denounce mass tourism.
+
+## UN eyeing potential Israeli war crimes in Lebanon
+High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.
+
+## Why have US-Lebanon direct flights been banned for 40 years?
+Why have US-Lebanon direct flights been banned for 40 years?
+
+## Pakistan-administered Kashmir opens polls in violence-wracked vote
+First of three rounds of voting held after weeks of protests during which dozens of people were killed.
+
 ## Are the US and Iran heading towards a forever war?
 Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.
 
@@ -272,18 +278,6 @@ Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be
 
 ## War on Iran: Phase II: Day 16
 The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.
-
-## Burnham welcomes Zelenskyy as first international guest
-Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.
-
-## New UK PM Burnham assures Zelenskyy of continuing Ukraine support
-Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.
-
-## Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?
-Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.
-
-## What drove Venezuela’s decision to leave the ICC?
-The ICC says its investigation into alleged crimes against humanity will continue despite the withdrawal.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
