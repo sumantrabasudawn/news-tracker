@@ -1,70 +1,76 @@
 # AION Intelligence
 
-## Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions
+## Chinese chip champion CXMT soars more than 500% in market debut
+Tech group becomes China’s most valuable listed company in mainland’s biggest IPO since 2010
+
+## FirstFT: US AI companies pour money into lobbying
+Also in today’s newsletter: EU in sanctions rethink and ‘forever chemicals’
+
+## China’s industrial profits grow at slowest pace this year
+Official data highlights uneven earnings rebound among manufacturers
+
+## Oil falls more than 4% as Iran and US pause strikes over Strait of Hormuz
 Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel
 
-## Gatwick airport apologises after water shortage hits toilets
-Many bars and restaurants were also forced to close, although flights were still running during the disruption
+## Indonesia’s central bank chief resigns
+Perry Warjiyo had been under pressure over weakening rupiah
 
-## Prosecutors call for Barclays protesters to be sentenced under UK terror laws
-The defendants, who are affiliated with Palestine Action, were found guilty last month of criminal damage
+## BoE expected to hold rates despite jump in oil prices
+Consumer inflation has undershot expectations for three successive months
 
-## ‘Violent’ wildfires rage close to French and Spanish cities
-The two countries evacuate about 335,000 people as minister calls blazes ‘the most aggressive’ Spain has ever suffered
+## UK lenders accuse Bank of England of ignoring Wall Street’s capital edge
+Study estimates differences mean British banks carry £22.5bn extra capital burden relative to US rivals
 
-## FirstFT: India’s Gen Z protests dent Narendra Modi’s aura of invincibility
-Also in today’s newsletter: China pours funding into green energy deals and the US pauses Iran strikes
+## AI companies spend record sums on Washington lobbying
+Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy
 
-## US pauses Iran strikes as Oman pursues Hormuz transit deal
-Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war
+## France raises questions over UK participation in EU’s €5bn tech start-up fund
+Debate over British role shows strained relations during UK-EU ‘reset’ negotiations
 
-## Police kill suspect after van-ramming attack on Berlin Pride event
-Assailant in terror incident had been identified as Abdul Ballout, a German citizen with a Lebanese background
+## Palantir tool has not cut hospital discharge delays, study says
+Think-tank’s findings likely to add to calls for audit of NHS England claims around Federated Data Platform
 
-## The Exploration Company with SpaceX ambitions aiming for a $2bn valuation
-European start-up in talks to raise $300mn for reusable space capsules
+## Beware holographic markets
+Tokenised securities are mirror images of the real thing but pose new risks
 
-## Central bankers take centre stage
-Fed, BoE and BoJ to decide interest rates, Greater Manchester elects a new mayor, earnings season moves up a gear
+## TeamSystem’s private equity owners look at stake sale at €8bn valuation
+Process could test investors’ willingness to back business software groups with market roiled by AI disruption
 
-## What is the risk of using Chinese open AI models like Kimi K3?
-The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks
+## Nvidia in talks to back OpenAI lease of $500 billion data center
+Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio
 
-## Trump’s systematic assault on science
-The government is politicising funding for basic research
+## Govt bonds rebound as easing US-Iran tensions drag crude oil lower
+The benchmark 6.94% 2036 bond yield was at 6.7767%, as of 10:15 am, down from a closing level of 6.8253% on ‌Friday, when it notched a second consecutive weekly rise.
 
-## Saint-Gobain pushes ahead with US expansion despite slow housing market
-French building materials giant wants to more than double North American business through capex and acquisitions
+## Mapex AI Accelerates Global Growth in Geospatial Intelligence through Strategic Government Projects and International Partnerships
+Mapex AI Accelerates Global Growth in Geospatial Intelligence through Strategic Government Projects and International Partnerships
 
-## US economic anxieties on display in battle over digital store labels
-New Jersey becomes first state to halt electronic price tags partly on fears they could be used for surveillance
+## Search operations underway after suspected Pakistan drones movement in J-K's Samba, Rajouri
+The drone activity was observed by alert army troops in Nandpur, near the IB in Samba, and in Tarkundi-Saaj, near the LoC in Nowshera sector of Rajouri
 
-## Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal
-Private equity groups have been hunting independent wealth management groups for their recurring earnings
+## Q1 Results Today Live: BEL, Coal India, Tata Power, Canara Bank, Indus Towers, Coforge, HUDCO, Godfrey Phillips to announce Q1 results, Tata Consumer, Hindustan Zinc, IDFC First Bank & KFin shares gain, Zen Tech, Shakti Pumps decline
+Q1 Results Today, 27th July 2026 Live Updates: Follow businessline for more Q1FY27 updates
 
-## Brent crude drops below $93 as West Asia tensions show signs of easing
-Brent crude fell 4.9 per cent to $92.02 a barrel and WTI dropped 5.6 per cent to $84.34, though supply risks linked to the Strait of Hormuz continue to keep the market on edge
+## Sensex today | Stock Market Live: Sensex jumps over 575 points, Nifty at 23,934 on global rally, softer crude
+Sensex, Nifty, Share Prices LIVE: Indian equities rallied at the opening bell, tracking stronger global markets and easing crude oil prices after the US-Iran pause in hostilities. However, traders remain cautious as monthly F&O expiry, elevated India VIX and persistent FII short positions could fuel
 
-## Road crashes still claim 1.16 million lives
-UN declaration commits member states to implement road safety strategies
+## Nifty Prediction Today – July 27, 2026: Nifty futures: Resistance ahead; stay cautious
+A breakout of 24,000 can lift Nifty futures (Jul) to 24,250
 
-## RG Kar violence and after: Unfinished task of keeping hospitals safe
-Two years after a medic’s gruesome murder, healthcare workers remain vulnerable
+## Crude oil falls as US, Iran halt weekend strikes
+After 13 days of strikes, the US has held off on further strikes over the last two days, while Iran also paused retaliatory attacks
 
-## Breaking down barriers to hepatitis care
-World Hepatitis Day — July 28
+## Rupee jumps 28 paise against US dollar as crude price drops to $92 per barrel
+The Indian Rupee opened stronger against the US dollar on Monday. This rise was supported by declining crude oil prices and a weaker dollar. Easing Middle East hostilities between the US and Iran also improved global sentiment. Domestic equities traded higher, which further boosted the local currenc
 
-## NFHS-6 shows why health policy must recognise regional differences
-Why India must move from national templates to geography-specific, lifecycle-based and women-centred health planning
+## Top stocks to buy: Stock recommendations for July 27, 2026 week - check list
+Stock market recommendations: Federal Bank, and TVS Motors - Motilal Oswal Wealth Management Research Desk has recommended these two stocks as the top stock picks for the July 27, 2026 week:
 
-## No-call mornings, Iyengar yoga, books and spies to unwind with
-Diary of daily fitness
+## Gold, silver price live updates today: Gold prices jump over 1% as easing Middle East tensions drag oil lower, Fed decision in focus
 
-## Additive steps up lubrication
-How nanomaterial borophene can enhance castor oil’s lubricating property
 
-## Act II for Andhra Pradesh’s greenfield ports
-Andhra Pradesh commits ₹1,638.52 crore towards land acquisition for the expansion of three greenfield ports
+## Oil prices fall 5%: Crude cools as US-Iran pause fuels hopes of diplomatic breakthrough
+Oil prices dropped sharply as the United States and Iran held back from launching fresh strikes. This pause raised hopes that diplomacy could ease Middle East tensions and restore shipping. Brent crude futures fell significantly, trading at their lowest levels in nearly a week. Shipping through key 
 
 ## Cheaper, open, intelligent: Chinese AI models gain ground, as they make inroads in the US
 Chinese artificial intelligence models are increasingly adopted by American users and companies. These advanced systems offer greater affordability and efficiency compared to domestic alternatives. US tech giants face frustration as Chinese AI gains global traction and market share. Restrictions are
@@ -78,65 +84,56 @@ French labour authorities imposed a fine of €175,000 on Infosys. This penalty 
 ## Cyber frauds shift to on-call scams, mule networks
 
 
-## BNP to take bancassurance route for insurance re-entry
-BNP Paribas Cardif is acquiring a significant stake in IndiaFirst Life Insurance. This strategic investment marks Warburg Pincus's exit from the life insurer. The French insurer brings extensive global bancassurance expertise to the partnership. IndiaFirst Life will now operate as a three-way ventur
+## ‘Pradhan resigned, what about shameless Punjab education minister?’: Paper leaks in focus again
+The BJP referred to Punjab's education minister Harjot Singh Bains as “shameless” and demanded his resignation over alleged paper leak cases in Punjab.
 
-## Tata Sons' AGM may face hurdle over quorum clause
-Tata Sons' upcoming annual general meeting faces a quorum challenge. This issue could affect the reappointment of chairman N Chandrasekaran. A charity commissioner's order prevents a key trust from nominating a representative. Without this nominee, the meeting's quorum requirement cannot be met. Thi
+## Parliament monsoon session LIVE: Packed agenda in both houses; anti-paper leak bill in LS, national honour law in RS
+Parliament monsoon session LIVE updates: According to the Lok Sabha's List of Business for July 27, Union minister Jitendra Singh will introduce the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026.
 
-## India fuels Bitchat's global rise despite takedown order
-Bitchat, an internet-free messaging app, is gaining popularity in India. The app saw significant download increases in the week ending July 24. India accounted for over half of Bitchat's global downloads during this period. Civil liberty groups have criticized the government's actions as unconstitut
+## Ex-KPSC chief now faces probe in veterinary officers fraud case
+Former chairman of the Karnataka Public Service Commission, suspended this month over allegations involving the appointment of his daughters to government posts, is facing a fresh criminal investigation after police registered a case accusing him and others of manipulating the recruitment of veterin
 
-## July FPI inflows touch Rs 42,000 crore, top February record
-Foreign portfolio investors became net buyers of Indian equities in July. This marked a reversal after four months of significant outflows from the market. Total foreign inflows reached their strongest point this year, surpassing February's figures. Equity segment saw intense selling pressure earlie
+## Parsvnath moves SC to lift curbs after depositing ₹2.9 crore in homebuyers' case
+Parsvnath told the SC it deposited ₹2.9 crore for two Gurugram homebuyers, seeking removal of curbs after complying with the court's order.
 
-## Rahul Gandhi asks Amit Shah if he approved use of ‘lethal force’ on student protesters
-Rahul Gandhi has written to the Union home minister Amit Shah demanding accountability for the “barbaric assault” on peaceful protesters in Delhi on July 20
+## Experts call for overhaul of GM, GE crops framework
+New Delhi: Agricultural scientists, policymakers and industry representatives have called for a comprehensive overhaul of India’s regulatory framework for genetically modified (GM) and genome-edited (GE) crops, arguing that faster, science-based approvals are essential to improve climate resilience,
 
-## Rahul guns for Amit Shah over ‘pellets fired’ at CJP march as Parliament session resumes, , govt plans a bill move
-Rahul Gandhi has said Amit Shah first has to answer why Delhi Police acted the way it did at Cockroach Janta Party's ‘Sansad Chalo’ march on July 20.
+## 112 elephant, 23 tiger deaths in 2025-26: Parl data
+New Delhi: India recorded 112 elephant deaths and 23 tiger deaths in 2025-26 due to poaching, electrocution and train accidents, according to the latest data shared in the parliament
 
-## Shashi Tharoor's son asks for ‘boomers’ to be banned on WhatsApp, Congress MP outwits him
-The debate emerged as the Cockroach Janta Party-led protest resulted in the resignation of union education minister Dharmendra Pradhan over alleged paper leaks.
+## There’s no difference between Pak military and militants: Rajnath Singh
+Speaking at 27th Kargil Vijay Diwas celebrations in Dras, Singh asserted there was no distinction between military and militants in Pakistan where terrorism was a part of state policy.
 
-## ‘I couldn’t feel my arm’: Hospital record notes protester’s ‘pellet’ injuries
-HT earlier reported three other alleged cases of pellet-like injuries involving Sheikh Irshad Mansuri; Sahil Lochab; and a 28-year-old reporter
+## Politics corrupt, won’t contest polls anymore: Siddaramaiah
+Siddaramaiah announced on Sunday that he will not contest any elections in future, including the 2028 state assembly polls, citing advancing age.
 
-## ‘What about panel formed in 2024?’: Cong says exam task force formed ‘only to fix PM’s image’ after Gen-Z protests
-Congress's Jairam Ramesh slammed Modi's creation of a task force for examination reforms.
-
-## Nandan Nilekani to lead exam reforms: Amid Gen-Z ire, Modi taps all-season technocrat
-Nilekani has been on an exam-related panel before; in 2019, SC constituted a panel chaired by Justice Singhvi (retd) that included Nilekani among others
-
-## Missing forest team near Assam-Nagaland border traced safe after 2 days: Official
-According to the DFO, the forests along the Dima Hasao-Karbi Anglong-Nagaland border are among the most rugged and inaccessible in the state
-
-## BJP seeks Sreelekha Mitra's arrest over PM Modi's 'obscene poster' at Kolkata students' protest
-The complaints relate to a photograph taken during the July 24 demonstration in the Esplanade area, where protesters had gathered.
-
-## Can quantum computing make AI better at designing cancer vaccines? A scientist explains
+## ‘Body most truthful witness’: Madras High Court orders fresh autopsy of young wife
 
 
-## Saudi-US nuclear deal exposes alarming contradictions of new world order
+## 1 killed in communal clash in Nepal’s India-bordering Sunsari; prohibitory orders imposed
 
 
-## Setback in Delhi, not Odisha: Why Dharmendra Pradhan remains undiminished in state
+## Dhanush accepts his Raayan not best fit for National Award: ‘But when my best films lost, nobody said a word’
 
 
-## IPS officer Abhinav Kumar writes: From Jantar Mantar protest, lessons for police
+## He had no symptoms of Hepatitis B, yet it was too late: Why Indians need early therapy
 
 
-## NDA sees a bit of Gen Z dissent at home
+## India News Live Updates, 27 July 2026: Sonam Wangchuk will go to Rajghat today around 11 am
 
 
-## ‘We are here to stay’: US Congressmen push Indian-Americans to enter politics
+## Kanwar Yatra begins on July 30; UP govt orders extra buses, CCTV surveillance, 24×7 control rooms
 
 
-## Weekly Horoscope, 27-July to 02-August-2026: Explore our weekly horoscope and navigate the week ahead with confidence
+## Laughter Chefs 3 winners are Aly Goni and Jannat Zubair; take home trophy and smartphones
 
 
-## Small cars return to fast lane as first-time buyers power auto surg
+## ‘Tears of joy’: Mirabai Chanu moved as national anthem plays after Commonwealth Games gold
 
+
+## Fast-fashion giant Shein swings to US$99m first-quarter loss ahead of Hong Kong listing
+E-commerce giant Shein swung back to losses in the first quarter of 2026 as rising Western tariffs squeezed margins, according to its Hong Kong listing prospectus on Sunday. The Singapore-headquartered fast-fashion retailer, founded in China, recorded a US$99 million loss in the three months to Marc
 
 ## China cracks down on offshore trusts with new tax rules for the wealthy
 China will impose personal-income taxes on offshore trusts owned by wealthy individuals, plugging a loophole leveraged by rich mainland families to avoid taxation. Effective immediately, the tax will be levied on gains made from asset values, such as stocks and properties, after having initially bee
@@ -158,9 +155,6 @@ Narrowing profit margins due to higher raw material costs have dealt yet another
 
 ## How Hong Kong developers are adapting to the ‘new normal’ in the Greater Bay Area
 Hong Kong developers operating in the Greater Bay Area are having to adapt to the ongoing debt crisis in mainland China’s property sector, which has led to deep and lasting changes in the nature and motivations of their buyers, according to agencies dealing in mainland real estate. Before the debt c
-
-## What is a supernode, and why does it matter for the China-US tech rivalry?
-As the size of artificial intelligence models expands beyond 1 trillion parameters, a new concept is dominating the computing landscape: “supernode”. At this year’s World Artificial Intelligence Conference (WAIC), China’s top AI summit, domestic chipmakers from Huawei Technologies to Biren Technolog
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -258,29 +252,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya
-UN Secretary-General Antonio Guterres toured the notorious former ‘Assad prison’ in Sednaya.
+## Protests erupt in Libya’s Tripoli as anger grows over power cuts
+Protesters shut roads and ministries in Tripoli as a civil disobedience campaign over power cuts spreads to more areas.
 
-## Iran war live: Tehran halts retaliatory strikes after pause in US attacks
-The US has paused its two-week bombing campaign against Iran, prompting Tehran to suspend its retaliatory attacks.
+## Firefighters battle wildfires in Spain’s eastern Castellon province
+Wildfires in Spain’s Castellon region have burnt more than 4,300 hectares and forced 15,000 residents to evacuate.
 
-## Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon
-Iran's supreme leader calls for 'absolute, unconditional termination' of Israel's attacks on Lebanon.
+## Thousands march in Pakistan-administered Kashmir amid election unrest
+Thousands gathered in Rawalakot before marching towards Muzaffarabad in Pakistan-administered Kashmir.
 
-## Trump’s border czar probes possible vetting failures after ICE shooting
-ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.
+## Sudan’s army claims control of major highway linking Khartoum and el-Obeid
+Capture of Al Sadarat highway will help the Sudanese army block the RSF's push to seize el-Obeid in North Kordofan.
 
-## What’s causing the unprecedented wildfires in Europe?
-France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.
+## Vendor’s livestream captures chaos as gunfire erupts at Seattle Center
+A vendor livestreaming from the Bite of Seattle festival captured the moment shots rang out near the Space Needle.
 
-## Israeli government nods to international stabilisation force in Gaza
-The ISF, to be staffed by 'friendly countries', will operate in areas outside of Israel's military control.
+## Sudan’s army regains control of highway linking Khartoum with El Obeid
+Sudan's army says it has regained full control of Al Sadarat highway linking Khartoum to El Obeid
 
-## Palestinians hope international peace force can rebuild Gaza
-Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.
+## Russia and Ukraine trade attacks, killing 10, including child in Chernihiv
+Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.
 
-## US and Iran hit pause on strikes for second day
-The relative calm comes amid reports of renewed efforts to restore diplomatic talks.
+## Firefighters battle to contain wildfires still burning near Bordeaux
+Wildfires in southwestern France are continuing to burn near the city of Bordeaux.
+
+## August Rush: Over 2 dozen companies plan Street debut next month
+India's primary market momentum continues with over two dozen issuers planning IPOs. These companies aim to collectively raise approximately ₹35,000 crore in the upcoming month. New-age companies like Zepto and PhonePe are expected to lead this significant market activity. Investor appetite is retur
 
 ## MCA's single insolvency platform an efficiency boost, not cure for insolvency delays: Experts
 While experts agree that iPIE has the potential to streamline operational aspects of the insolvency framework, they believe the platform should be viewed as an efficiency enabler rather than a standalone solution. Unless accompanied by judicial capacity enhancements and procedural reforms
@@ -303,8 +300,11 @@ Tax experts say a PAN level administrative framework could bring greater consist
 ## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
 An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
 
-## MCA plans unified digital platform for insolvency ecosystem; seeks stakeholder suggestions
-The Ministry of Corporate Affairs is proposing a new integrated digital platform for insolvency. This unified system aims to streamline processes and improve information exchange among stakeholders. It will digitize the entire insolvency lifecycle, from commencement to resolution and liquidation. Th
+## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
+The tariffs, set to increase significantly from August 2029, could impact affordable medicine access. Experts emphasise strengthening domestic manufacturing while preserving global supply chain integration.
+
+## Budget has buffers to tackle global risks, no need to revisit its budget estimates yet: FM Sitharaman
+Speaking at the NDTV Profit Business Leadership Awards 2026 in Mumbai, Sitharaman said the government had made provisions to absorb the impact of rising oil prices, fertiliser imports and increased shipping costs arising from global developments.
 
 ## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
 Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
@@ -320,10 +320,4 @@ Donald Trump is likely planning new import duties on many nations by Friday. The
 
 ## PLI schemes attract Rs 2.4 lakh crore investment, create 14.15 lakh jobs: Govt
 The government's Production Linked Incentive (PLI) schemes have attracted actual investments of more than Rs 2.40 lakh crore, generated over 14.15 lakh direct and indirect jobs, and enabled exports worth Rs 15.2 lakh crore across 14 key sectors as of March 31, 2026, Parliament was informed on Tuesda
-
-## Trump announces new generic drugs tariff plan: No tariffs for 2 years, then 100%, and then 200%
-For Indian exporters, the two-year tariff-free period offers additional time to reassess supply chains and investment plans. While the immediate impact on exports is likely to be limited, the proposed escalation to 100% and eventually 200% tariffs could significantly alter the economics of supplying
-
-## Sebi asks depositories to put in place operational framework to implement buyback rules from Aug 1
-Sebi has directed depositories to implement a new framework for freezing promoter holdings. This operational framework will be in place by August 1, 2026. The mechanism freezes promoter and promoter group holdings at the ISIN level. Exceptions allow promoters to tender shares in tender offer buyback
 
