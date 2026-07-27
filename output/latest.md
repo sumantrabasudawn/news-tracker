@@ -1,31 +1,37 @@
 # AION Intelligence
 
-## Nvidia bets billions on Ilya Sutskever’s AI breakthrough
-Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
-
 ## France and Spain brace for more extreme heat as wildfires rage
-Blazes ‘far from being under control’ as another heatwave approaches, says France’s civil security agency
+French President Emmanuel Macron warns ‘weeks ahead will be hard’ on visit to firefighting centre in the Gironde region
 
-## Jodrell Bank observatory set to lose scientific funding
-Researchers hit out at budget cuts affecting world-famous radio telescope outside Manchester
+## CXMT’s roaring IPO isn’t the bubble signal it might appear
+The Chinese group and its peers could continue to benefit if cheaper computing power results in more demand for AI
+
+## Burnham looks to cut welfare bill by linking up schools and employers
+UK PM draws on experience as Greater Manchester mayor in an attempt to get more young people into work
+
+## Trump says Israel ‘would not survive’ without US
+Remarks come ahead of meeting where Benjamin Netanyahu is expected to make case for expanding war with Iran
+
+## Andy Burnham doles out jobs in bid to avert Labour unrest
+New PM has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to vote with the government
+
+## Oil tumbles as Iran and US pause strikes over Strait of Hormuz
+Brent 6% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
+
+## Ares Management has held talks to buy Leonard Green & Partners
+A deal between the LA groups would dramatically expand the size of Ares’ private equity business
+
+## Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough
+Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
 
 ## Amazon targets Musk’s Starlink with satellite constellation for mobile services
 Tech giant files to launch more than 5,000 satellites to provide global consumer service
 
-## Burnham rejects northern Labour MPs’ call to abolish council tax
-Downing Street says it is not considering replacing the levy and stamp duty with a new property tax
+## Dior rebound helps LVMH’s fashion business return to growth
+Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years
 
 ## Burnham and the problem of politics by social media
 The old tightly regulated party broadcast model is dead — for better and for worse
-
-## Andrew Tate’s extradition challenge could last almost a year, lawyers say
-Controversial social media influencer faces charges in UK of rape and sexual assault, along with brother Tristan
-
-## Oil tumbles as Iran and US pause strikes over Strait of Hormuz
-Brent nearly 7% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
-
-## Dior rebound helps LVMH’s fashion business return to growth
-Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years
 
 ## US courts diverge on latest front in debt brawls
 Legal warfare has broken out over whether payment of a debt obligation requires actual cash changing hands
@@ -38,9 +44,6 @@ Changes in climate and land use mean unfamiliar ticks turning up in unexpected p
 
 ## How much does Wetherspoons make from its gambling machines? UPDATED
 To a very daft question, we offer a very qualified answer
-
-## FirstFT: Oil prices plunge as Trump calls off strikes
-Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe
 
 ## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
 Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
@@ -105,7 +108,7 @@ VHP leader Laxmanananda Saraswati and four associates were shot dead by Maoists 
 ## Bihar govt relents, to withdraw youth protest-linked cases, release all arrested after CJP, Oppn threaten new stir
 Samrat govt announced it will not take punitive or retaliatory legal action against individuals involved in protests anywhere in Bihar prior to 6 pm, July 26
 
-## Vikram Misri meets Chinese leaders in Beijing days after Jaishankar-Wang meeting
+## Vikram Misri in Beijing to push ties, stress border peace and trade concerns
 Misri’s visit follows a meeting between external affairs minister S Jaishankar and his Chinese counterpart Wang Yi on July 22
 
 ## ‘Different flags, same playbook’: Sonam Wangchuk's wife slams BJP, Congress over labels
@@ -114,28 +117,28 @@ Misri’s visit follows a meeting between external affairs minister S Jaishankar
 ## Nabanna building signage changes to saffron; part of maintenance, says official
 On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
-## Esha Singh edges China shooter for World Cup gold, Manu Bhaker claims bronze
+## Dimple Kapadia’s ‘forever’ story with Rajesh Khanna sparks conversation on lasting love
 
 
-## Drunk man assaults policeman; CCTV footage goes viral, accused arrested
+## Egypt conquered, Asia next: Anahat Singh plots her route to direct LA28 spot
 
 
-## Tata Sons profit rises 21.8%, Air India losses double to Rs 22,238 crore
+## How a US commander’s advice changed Trump’s Iran strategy to shelve strikes
 
 
-## ‘Remained silent as I was afraid’: Isha Rikhi speaks out on marriage troubles with Badshah
+## Could Protistha Samanta have scored high with low-difficulty vaults in the final
 
 
-## 5 must-read books by Keigo Higashino, the master of Japanese mystery
+## Homes of 2 women linked to trafficking case demolished in Ajmer, officials cite ‘illegal construction’
 
 
-## CWG: Sachin Siwach fails to impress but advances to the quarterfinals
+## ‘Effort recession’ among Gen Z: Why more employees are rethinking going the extra mile
 
 
-## Spider-Man Brand New Day gets U/A 13+ certificate; kissing scene trimmed
+## BJP leaders feel delay in resolving CJP protest left a dent, but no political damage
 
 
-## Trump gives Iran ‘not much time’ as military warning looms
+## Jammu court rejects bail of Bengal man accused of passing defence info — ‘Release would be outrageous’
 
 
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
@@ -174,7 +177,7 @@ A guide to Tehran’s nine most strategic territories.
 ## Economic Integration in the Middle East Is a False God
 Washington loves the idea but would see few benefits.
 
-## Bill Clinton Ended Welfare and Paved the Way For MAGA
+## Bill Clinton Ended Welfare and Paved the Way for MAGA
 Republicans have since turned their attention to additional pillars of the social safety net.
 
 ## The Kremlin’s Easy Money Is Gone
@@ -186,29 +189,29 @@ Foreign leaders accuse the White House of using forced labor allegations as a sm
 ## Andy Burnham and the New Manchesterism
 The economic philosophy of Britain’s latest prime minister.
 
-## Thailand Says Goodbye to the ‘Land Bridge’ — For Now
-A government feasibility study found what many already expected: that the project's financial returns did not justify the massive capital outlay.
+## India Successfully Tests Kusha Long-range Surface-to-Air Missile
+This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
 
-## Vietnam Planning Social Media Restrictions for Children Under 16
-The proposed rules would would bar minors from posting, sharing, or commenting on social media platforms.
+## China, Japan, and the Memory Security Dilemma
+How historical memory distorts strategic signaling in Sino-Japanese relations.
 
-## Philippines Holds Joint Exercises With US, Japan in South China Sea Amid Tensions With China
-Manila and Beijing continue to trade accusations about a series of clashes at two disputed features in the South China Sea last week.
+## India’s Gen Z Protesters Score Major Victory Against Modi Government
+After angry students forced the education minister to resign, Prime Minister Modi’s aura of invincibility has been dented.
 
-## The Persistence of US Trade Remedies Against China
-Leader-level diplomacy gives the impression that the U.S. “trade war” has ended. That’s far from the truth.
+## New Global Trade Arrangement Gains Momentum – And It’s Worth Watching
+The Future of Investment and Trade Partnership, with 19 members and counting, is championing open and fair trade at a time when others are retreating.
 
-## What a Stray Dog’s Murder Tells us About Chinese Civil Society
-Wang Wang has appeared on billboards around the world – visible proof that China’s censorship does have limits.
+## Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation
+The costs of Pakistan’s dependence on imports for medicines and vaccines are huge. Chinese investment could end this reliance.
 
-## NATO-IP4 Relations Remain Stronger Than the Last Two Summits Suggest
-Yes, the Indo-Pacific leaders were absent for the second year in a row. But that’s not because of a lack of interest in the partnership.
+## Kashagan Environmental Fine Enforced in Kazakhstan
+An asset freeze could be the first step of an acrimonious fight with the foreign oil majors developing one of the country’s largest oil fields.
 
-## The Power Behind Japan’s Takaichi Government
-Nippon Ishin has, through its alliance with Takaichi, exerted an influence on the Japanese government that far exceeds its parliamentary strength.
+## Why Australia Struggles to Foster Asia Experts
+A new government report looks at Australia’s “Asia capability” and finds the country wanting.
 
-## The Rise of North Korea’s Nuclear-Armed Navy
-North Korea has modified its hierarchy of defense priorities by elevating the importance of the KPAN.
+## Asia’s Overlooked Maritime Flashpoints
+Besides the South China Sea, there are various waterways under contention, from open ocean to marshlands and rivers.
 
 ## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
 Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
@@ -258,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Iran: Currently no negotiations with the US
-Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.
+## Are the US and Iran heading towards a forever war?
+Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.
 
-## Israeli raid sparks fire at UN Palestinian refugee centre
-Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.
+## Lebanon’s displaced endure ‘exhaustion and despair’
+UN High Commissioner for Human Rights Volker said that Lebanon's displaced endure ‘exhaustion and despair’.
 
-## Mapping Israeli settler violence in the West Bank
-Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.
+## Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups
+Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.
 
-## How Israel uses settler-soldier terror to colonise the West Bank
-Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.
+## War on Iran: Phase II: Day 16
+The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.
 
-## Why Venezuela is leaving the ICC
-Venezuela is withdrawing from the International Criminal Court, accusing it of bias against the Global South.
+## Burnham welcomes Zelenskyy as first international guest
+Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.
 
-## Why a new war in Yemen could be different for the Houthis
-Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.
+## New UK PM Burnham assures Zelenskyy of continuing Ukraine support
+Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.
 
-## Tunisia bars family, lawyers from seeing Ghannouchi after prison collapse
-No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tells Al Jazeera.
+## Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?
+Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions.
 
-## Honduras’s Hernandez returns home after Trump pardon: How it happened
-Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.
+## What drove Venezuela’s decision to leave the ICC?
+The ICC says its investigation into alleged crimes against humanity will continue despite the withdrawal.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
