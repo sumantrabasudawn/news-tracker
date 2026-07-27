@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Italy’s search for national football coach stumbles over Russia links
-Andrea Pirlo, tipped to revive struggling team, is a global ambassador for Russian betting company
-
-## Brexit ‘reset’ could constrain UK’s freedom of movement on trade
-If Brussels pursues economic defences against Beijing, London might feel pressure to follow suit
-
-## Ukraine, Iran and how regional wars go global
-Conflicts in Europe and Asia are overlapping and two rival blocs may be forming
-
 ## France and Spain brace for more extreme heat as wildfires rage
 Blazes ‘far from being under control’ as another heatwave approaches, says France’s civil security agency
 
-## Oil falls 8% as Iran and US pause strikes over Strait of Hormuz
-Brent lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
+## Andrew Tate’s extradition challenge could last almost a year, lawyers say
+Controversial social media influencer faces charges in UK of rape and sexual assault, along with brother Tristan
 
-## FirstFT: Oil prices plunge as Trump calls off strikes
-Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe
+## Amazon targets Musk’s Starlink with satellite constellation for mobile services
+Tech giant files to launch more than 5,000 satellites to provide global consumer service
 
-## ECB on course to raise rates again in September
-Read the July forecast from the FT’s Monetary Policy Radar team
+## Oil tumbles as Iran and US pause strikes over Strait of Hormuz
+Brent nearly 7% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
 
-## The good, the bad and the mixed of Burnham’s government overhaul
-PM should have gone further in scrapping Cabinet Office, while handing Lisa Nandy an expanded brief is a gamble
+## Germany’s Merz sacks transport minister in cabinet shake-up
+Chancellor’s handling of reshuffle fuels dissent within his own party
+
+## Size matters when it comes to tariff threats
+European leaders are calling for more technology supply chain independence for security reasons
+
+## Burnham looks to cut welfare bill by linking up schools and employers
+PM draws on experience as Greater Manchester mayor in bid to get more young people into work
+
+## Italy’s search for national football coach stumbles over Russia links
+Andrea Pirlo, tipped to revive struggling team, is a global ambassador for Russian betting company
+
+## US courts diverge on latest front in debt brawls
+Legal warfare has broken out over whether payment of a debt obligation requires actual cash changing hands
 
 ## North Sea pioneer Sir Ian Wood dies aged 84
 Wood turned a family engineering business into a global player during the UK’s energy boom years
@@ -33,41 +36,41 @@ Changes in climate and land use mean unfamiliar ticks turning up in unexpected p
 ## How much does Wetherspoons make from its gambling machines? UPDATED
 To a very daft question, we offer a very qualified answer
 
+## FirstFT: Oil prices plunge as Trump calls off strikes
+Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe
+
 ## Vodafone raises profit guidance as billionaire Xavier Niel takes stake
 UK telecoms major posts first set of results since French mogul moved to take holding
 
 ## DCC board backs contentious £5.75bn private equity takeover
 KKR and Energy Capital Partners bid recommended despite objections from large shareholders
 
-## Chinese chip champion CXMT soars 466% in market debut
-Tech group briefly becomes China’s most valuable listed company in mainland’s biggest IPO since 2010
+## Rupee outperforms emerging market peers since March as RBI measures cushion war shocks
+While the rupee has lost 5.1 per cent against the dollar between February 27 and July 27 when the West Asia conflict kept crude oil prices volatile, it still outperformed several emerging market peers
 
-## Shein slumps to loss ahead of planned Hong Kong listing
-Fast-fashion retailer flags risk from US and EU trade tensions
+## Coal India net rises marginally to ₹8,850 crore
+CIL’s total income in Q1 increased 8.44% at ₹48,295 crore on the back of higher revenue from operations
 
-## Canara Bank Q1 profit rises 2% as credit growth stays strong
-The state-owned lender’s net interest income rose 13.39 per cent to ₹10,215 crore, while total income climbed 4.26 per cent to ₹39,684 crore.
+## Wheels India reports 30% increase in net profit
+Consolidated revenue increased 18 per cent to ₹1,491 crore
 
-## Amid mounting outrage over pellet guns, CRPF probes RAF action at student march
-CRPF DG assures ‘professional assessment’ of RAF’s action
+## Letters to the Editor dated July 27, 2026
 
-## Articura Launches a New Chapter for Sovereign Healthcare AI in Indonesia
-Articura Launches a New Chapter for Sovereign Healthcare AI in Indonesia
 
-## Setting a new benchmark in premium lifestyle living, Venus Group introduces 'The Universe' in Ahmedabad
-Setting a new benchmark in premium lifestyle living, Venus Group introduces 'The Universe' in Ahmedabad
+## Vehicle scrappage maximum in UP with around 2-lakh in last 3 years
+UP has 101 Registered Vehicle Scrapping Facilities, of which 50 centres are fully operational, followed by Haryana, Gujarat, Maharashtra
 
-## Chandigarh University MBA Students Secure 2,605 Job Offers from 300+ Leading MNCs in 2025 & 2026; 196 Students Receive Multiple Offers
-Chandigarh University MBA Students Secure 2,605 Job Offers from 300+ Leading MNCs in 2025 & 2026; 196 Students Receive Multiple Offers
+## Lohia Corp IPO subscribed 7.25 times on final day, QIBs lead the charge
+The strong finish was driven almost entirely by institutional investors who came in force on the final day, reversing the sluggish trend seen in the first two days
 
-## Customer data from Bank of Baroda leaked online
-The leaked data includes customer details, identification documents, loan papers and internal audit records
+## Xtranet Technologies IPO closes 12x subscribed; HNIs steal the show at 26x
+Net proceeds are earmarked primarily for working capital requirements (₹102 crore), debt repayment (₹20.2 crore), and capital expenditure (₹8.5 crore)
 
-## Gujarat unveils shipbuilding policy; offers 50-year concessions, targets ₹27,000-crore investments
-The approach is expected to reduce infrastructure costs for investors, speed up project execution and improve Gujarat’s competitiveness as a maritime manufacturing hub
+## LPG-DME blending has downsides of material compatibility, safety: Oil Ministry
+No procurement programme for DME by PSU OMCs has been finalised, says Minister
 
-## Tamil Nadu tops road accidents, Uttar Pradesh remains deadliest State
-
+## US stock market today: Wall Street rallies as US-Iran tensions ease; Nasdaq rises 1%
+Early trading saw the S&P 500 rise 0.8%, recovering after two consecutive weeks of losses. The Dow Jones Industrial Average advanced 581 points, while the Nasdaq Composite gained 1%.
 
 ## Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting
 Analysts anticipate the Indian rupee entering a stable phase soon. Global crude oil prices will continue to significantly influence the currency's movement. Sustained high oil prices may increase inflation and widen India's current account deficit. However, a steep depreciation in the rupee is not e
@@ -90,56 +93,59 @@ India's textile sector faces US market pressure despite a 10% tariff rate. Compe
 ## ITR filing deadline: What happens if you don’t file your income tax return by July 31, 2026? Penalty, consequences explained
 ITR filing FY 2025-26: Many individuals are unsure about whether they are required to file their income tax return or not at a particular income level. An income tax return needs to be filed if your taxable income is more than the basic exemption limit.
 
-## Over 500% jump! Why CXMT skyrocketed on stock market debut to become China’s most valuable listed company
-ChangXin Memory Technologies or CXMT, China's largest manufacturer of DRAM chips, raised 57.92 billion yuan ($8.6 billion) through Asia's biggest initial public offering this year.
+## How PR lessons from Boston University and AI helped Abhijeet Dipke power the CJP movement
+Dipke shared that he chose the "cockroach" as the identity of the party after learning the importance of "visual consistency" in a campaign.
 
-## Naveen Patnaik seeks Odisha education minister’s resignation over textbook errors
-Patnaik said the minister should accept moral responsibility for the lapses and step down, drawing a parallel with the recent resignation of Dharmendra Pradhan
+## Goa expects strong charter season, tourists from new markets: Govt
+On average, international visitors arriving on charter services stay in Goa for 10 to 14 nights, while an Indian tourist stays for 3-4 nights per visit.
 
-## Cook in Malviya Nagar hotel fire case gets bail; court says forensic report yet to establish cause
-The court observed that the forensic report determining the cause of the fire has not yet been submitted.
+## Cong puts Gen-Z faces upfront as Gurmehar Kaur, youth wing leaders announce party's legal aid for paper leak protesters
+Congress's choice of Gurmehar Kaur besides other youth wing leaders to make key announcement was notable as protests were fuelled by anger among Gen Z
 
-## ‘Please accept mine’: Gopinathan takes a dig at PM Modi over his IAS resignation pending for nod since 2019
-41-yr-old Gopinathan from Kerala, who resigned from IAS in 2019 and joined Congress last year, said, “No salary, no suspension, nothing. Just sitting on it.”
+## CJP to launch website linking protesters with lawyers, Kapil Sibal announces ₹1 crore legal fund
+Kapil Sibal said the website will also “identify lawyers who can help.”
 
-## 'Will be forced to protest again': CJP warns govt, asks it to drop FIRs against protesters
-In a fresh statement, CJP spokesperson Ashutosh Ranka has called on the government to ensure no charges are filed against protestors.
+## NEET paper leak case: First fast-track court hearing adjourned as CBI counsel skips proceedings
+The court adjourned the hearing to August 3 after the defence counsel requested more time.
 
-## 576 Indians reported ₹100 crore+ income in AY 2025-26, up from 142 in 2021-22: Govt
-In AY 2022-23, this number stood at 301 and in AY 2023-24 it was at 284, and 415 in AY 2024-25 before rising to 576 in AY 2025-26.
+## BJP vs Opposition after Bihar cop uses AK-47 in student protest: 'Entire system is downright murderous'
+The incident in Bihar's Siwan district occurred days after a violent police crackdown on protests in New Delhi on July 20.
 
-## Why wasn’t child sexual abuse content reported to police, NCPCR asks Meta
-The child rights body has extended the deadline for Meta to respond to its notice until August 6 after the company sought more time
+## Two days after Jantar Mantar protest ends, offers to help CJP volunteers get home emerge
+CJP spokesperson Aafreen Nawaz is the point of contact for everyone trying to get back home, one member of the Abhijeet Dipke-led outfit said.
 
-## Mumbai-Dubai flight makes emergency landing in Rajkot due to technical issue; all passengers safe
-The IndiGo flight was diverted as a precaution, and the aircraft is being inspected to determine the cause of the smoke alert, Rajkot airport authorities said.
+## Supreme Court reserves decision on Abu Salem plea for his release
+Salem was extradited to India after the Centre gave a sovereign assurance that he would not be sentenced to jail beyond 25 years.
 
-## Chhattisgarh: Man murders woman to death in Surajpur
-According to the preliminary investigation, an argument broke out between the two after the accused allegedly accused her of talking to another man
-
-## ‘Democracy won’: Meet the lawyers backing student protesters at Delhi’s Jantar Mantar
+## Gujarat High Court sets Friday deadline after government cites rain for delay in prosecutor decision
 
 
-## Today News Headlines for School Assembly, July 28, 2026: CJP warns of more protests, anti-paper leak law tabled, Mirabai Chanu’s Gold
+## BJP’s Tiranga Yatra sees sea of supporters in Kolkata; party leaders, workers join in
 
 
-## 2 more held over Kolkata NEET protest violence; police parade accused barefoot
+## Parliament deadlock may end as Lok Sabha set to discuss anti-paper leak Bill tomorrow
 
 
-## The big three OTTs should lead the march on accessibility
+## Another spell of heavy rain predicted in flood-hit South Gujarat on July 30, 31
 
 
-## Rohit Pawar alleges MPSC FDA recruitment paper leak
+## ‘You seek votes, then beat public’: Bombay HC raps Mhatre, transfers doctors’ assault probe to DCP
 
 
-## DU NCWEB first cut-off 2026 out for BA, BCom admissions; admission begins July 28
+## Azam Khan’s UP university gets interim relief from bulldozer action
 
 
-## Court gives relief to Salman Khan, orders removal of Kala Hiran teaser: What the film is about?
+## ‘Puke-inducing’: Kangana Ranaut wants ‘digital detox’ after watching Gen Z protest reels
 
 
-## Aishwarya Lekshmi calls Kangana Ranaut a ‘mad genius,’ praises her Parliament speeches
+## Varanasi teacher ‘brands’ 5-year-old’s private parts with hot knife, booked
 
+
+## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
+Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industry’s readiness. The Hong Kong Monetary Authority (HKMA) launched its first Quantu
+
+## What CXMT must do to grow global memory market share and build on its surge: analysts
+Shares of ChangXin Memory Technologies (CXMT) could more than double from Monday’s close as the Chinese chipmaker expands its global dynamic random-access memory (DRAM) market share to 18 per cent by 2028, according to Nomura, which set a price target of 116 yuan. The listing of CXMT, the country’s 
 
 ## Big Short trader Michael Burry’s rising bearish AI positions test China’s stock support
 China’s state support for its stock markets may face a test, as seasoned US hedge fund manager Michael Burry increased bearish wagers on artificial intelligence-linked stocks and Moody’s warned of debt risks from hyperscalers. Burry, famed for his prescient short against the US property market befor
@@ -159,11 +165,11 @@ When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s 
 ## Hong Kong home sales recovery expected to boost developers’ earnings
 Hong Kong property developers are expected to report stronger first-half earnings in the coming weeks, buoyed by a rebound in home sales and improving development margins, as investors look for clues on whether the sector’s recovery is sustainable. Bank of America Global Research expected Hong Kong 
 
-## Fast-fashion giant Shein swings to US$99m first-quarter loss ahead of Hong Kong listing
-E-commerce giant Shein swung back to losses in the first quarter of 2026 as rising Western tariffs squeezed margins, according to its Hong Kong listing prospectus on Sunday. The Singapore-headquartered fast-fashion retailer, founded in China, recorded a US$99 million loss in the three months to Marc
+## The Fight for International Justice Continues
+Despite setbacks, the powerful can still be held to account for their crimes.
 
-## China cracks down on offshore trusts with new tax rules for the wealthy
-China is moving to heighten the scrutiny of overseas assets controlled by the country’s richest families by imposing personal-income taxes on their offshore trusts, plugging a loophole long leveraged by the wealthy to eschew tax payments and alleviating fiscal stresses brought on in part by a perenn
+## Iran’s Arsenal Starts With Its Islands
+A guide to Tehran’s nine most strategic territories.
 
 ## Economic Integration in the Middle East Is a False God
 Washington loves the idea but would see few benefits.
@@ -182,12 +188,6 @@ The economic philosophy of Britain’s latest prime minister.
 
 ## Ukraine’s Cardboard Maidan Shows That the People Still Matter
 Mass protests forced Zelensky to reverse course on the firing of a popular minister.
-
-## Riding the Greenland Ferry
-Traveling along the coast, Greenlanders explain what the world misunderstands about their island.
-
-## What in the World?
-Test yourself on the week of July 18: Ortega makes an alarming announcement, Zelensky holds cabinet talks, and the Houthis implement a blockade.
 
 ## Thailand Says Goodbye to the ‘Land Bridge’ — For Now
 A government feasibility study found what many already expected: that the project's financial returns did not justify the massive capital outlay.
@@ -216,7 +216,7 @@ North Korea has modified its hierarchy of defense priorities by elevating the im
 ## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
 Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
 
-## Why Norway and Finland Should Preserve Two of Europe’s Most Important Demilitarized Zones
+## Why Norway and Finland Should Preserve Two of Europe’s Most Important Security Arrangements
 Svalbard is a stark archipelago of glaciers and coal mines lying 650 kilometers (403 miles) north of Norway’s North Cape, roughly halfway between the Norwegian mainland and the North Pole. It belongs to Norway but is governed under a 1920 treaty that grants nationals of more than 40 signatory states
 
 ## Global Risks Heating Up
@@ -261,29 +261,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Wildfires in southwest Europe: What we know so far
-More than 300,000 people have been evacuated from their homes to safety in France and Spain.
+## Why a new war in Yemen could be different for the Houthis
+Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.
 
-## Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20
-After a difficult start to his international career in England, teen prodigy Sooryavanshi stepped up against Zimbabwe.
+## Tunisia bars family, lawyers from seeing Ghannouchi after prison collapse
+No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tells Al Jazeera.
 
-## Photos: France, Spain battle ‘monster’ wildfires as more heat looms
-France and Spain are battling vast wildfires that have forced more than 325,000 people to flee, as a new heatwave looms.
+## Honduras’s Hernandez returns home after Trump pardon: How it happened
+Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.
 
-## Moment Ukrainian drones strike Russia’s Belgorod
-Dramatic videos captured the moment Ukrainian drones hit Belgorod, a Russian city near the Ukrainian border.
+## Five decades of Israeli covert strategy to push US, Iran into confrontation
+Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.
 
-## Why has the US halted its bombing of Iran?
-Tit-for-tat strikes have halted in the Middle East amid reports of depleted US weapons stocks.
+## Five years after Saied’s power grab, Tunisians are no better off
+Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.
 
-## Israeli forces storm multiple West Bank towns, settler violence worsens
-At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.
+## Australian court rejects racial discrimination appeal by Pauline Hanson
+⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful.
 
-## Sam Altman says AI has entered ‘singularity’: Should we be worried?
-The 'singularity' refers to the point at which AI outpaces human intelligence and becomes difficult to control.
+## Former Honduras president returns home after Trump pardon
+Former Honduras president returns home after Trump pardon
 
-## FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate
-FIFA faced criticism over several issues during the tournament, including a debate over US visa restrictions for teams.
+## Israel’s approval of limited Gaza force a calculated manoeuvre, experts say
+Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
