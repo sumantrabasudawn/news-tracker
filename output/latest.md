@@ -1,28 +1,31 @@
 # AION Intelligence
 
+## Nvidia bets billions on Ilya Sutskever’s AI breakthrough
+Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
+
 ## France and Spain brace for more extreme heat as wildfires rage
 Blazes ‘far from being under control’ as another heatwave approaches, says France’s civil security agency
 
-## Andrew Tate’s extradition challenge could last almost a year, lawyers say
-Controversial social media influencer faces charges in UK of rape and sexual assault, along with brother Tristan
+## Jodrell Bank observatory set to lose scientific funding
+Researchers hit out at budget cuts affecting world-famous radio telescope outside Manchester
 
 ## Amazon targets Musk’s Starlink with satellite constellation for mobile services
 Tech giant files to launch more than 5,000 satellites to provide global consumer service
 
+## Burnham rejects northern Labour MPs’ call to abolish council tax
+Downing Street says it is not considering replacing the levy and stamp duty with a new property tax
+
+## Burnham and the problem of politics by social media
+The old tightly regulated party broadcast model is dead — for better and for worse
+
+## Andrew Tate’s extradition challenge could last almost a year, lawyers say
+Controversial social media influencer faces charges in UK of rape and sexual assault, along with brother Tristan
+
 ## Oil tumbles as Iran and US pause strikes over Strait of Hormuz
 Brent nearly 7% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
 
-## Germany’s Merz sacks transport minister in cabinet shake-up
-Chancellor’s handling of reshuffle fuels dissent within his own party
-
-## Size matters when it comes to tariff threats
-European leaders are calling for more technology supply chain independence for security reasons
-
-## Burnham looks to cut welfare bill by linking up schools and employers
-PM draws on experience as Greater Manchester mayor in bid to get more young people into work
-
-## Italy’s search for national football coach stumbles over Russia links
-Andrea Pirlo, tipped to revive struggling team, is a global ambassador for Russian betting company
+## Dior rebound helps LVMH’s fashion business return to growth
+Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years
 
 ## US courts diverge on latest front in debt brawls
 Legal warfare has broken out over whether payment of a debt obligation requires actual cash changing hands
@@ -39,35 +42,35 @@ To a very daft question, we offer a very qualified answer
 ## FirstFT: Oil prices plunge as Trump calls off strikes
 Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe
 
-## Vodafone raises profit guidance as billionaire Xavier Niel takes stake
-UK telecoms major posts first set of results since French mogul moved to take holding
+## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
+Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
 
-## DCC board backs contentious £5.75bn private equity takeover
-KKR and Energy Capital Partners bid recommended despite objections from large shareholders
+## FSSAI gives 90 days timeline to energy drink brands for transition
+The industry has been urging the FSSAI to adopt a consultative, proportionate and risk-based approach on this issue
 
-## Rupee outperforms emerging market peers since March as RBI measures cushion war shocks
-While the rupee has lost 5.1 per cent against the dollar between February 27 and July 27 when the West Asia conflict kept crude oil prices volatile, it still outperformed several emerging market peers
+## HDFC Bank board issues warning letters, ₹ 1 lakh penalty to CEO, CFO in MSRDC deposit case
+This decision, made on July 23, 2026, came after a special committee found their actions to be “business overreach” rather than outright wrongdoing
 
-## Coal India net rises marginally to ₹8,850 crore
-CIL’s total income in Q1 increased 8.44% at ₹48,295 crore on the back of higher revenue from operations
+## ESIC amnesty scheme adds 1.38 lakh employers, 1.12 cr workers; Maharashtra leads among States, UTs
+Similarly, in Tamil Nadu 12683 companies and 12,65876 workers enrolled themselved with the ESIC
 
-## Wheels India reports 30% increase in net profit
-Consolidated revenue increased 18 per cent to ₹1,491 crore
+## Worldwide IT spending to grow 14.2% in 2026 to $6.37 trillion: Gartner
+Spending on data centre systems is forecast to jump 62.5 per cent
 
-## Letters to the Editor dated July 27, 2026
+## India’s kharif sowing deficit shrinks to 5%, as 71% of normal acreage covered
+The sowing area in on-going Kharif season has reached 787.38 lh as of July 24 compared with 826.19 lh in the year-ago period, down by 4.7%, the agriculture ministry said in its weekly update Monday
 
+## Tamil Nadu tops road accidents, Uttar Pradesh remains deadliest State
+There is a much wider gap between accidents and fatalities in TN than in UP. In 2025, TN recorded 3.86 accidents for every road fatality, compared with 1.80 accidents per fatality in UP
 
-## Vehicle scrappage maximum in UP with around 2-lakh in last 3 years
-UP has 101 Registered Vehicle Scrapping Facilities, of which 50 centres are fully operational, followed by Haryana, Gujarat, Maharashtra
+## Global buyers show interest in sourcing fireworks from Sivakasi
+Export logistics identified as key enabler
 
-## Lohia Corp IPO subscribed 7.25 times on final day, QIBs lead the charge
-The strong finish was driven almost entirely by institutional investors who came in force on the final day, reversing the sluggish trend seen in the first two days
+## Rs 100 crore club gets bigger: Number of nine-figure income filers quadruples in five years
+More Indians are reporting nine-figure incomes on tax returns. The number of these high-earners rose to 576 in the 2025-26 assessment year. This figure represents a fourfold increase from five years prior. The government is implementing measures to reduce income inequality. These measures include pr
 
-## Xtranet Technologies IPO closes 12x subscribed; HNIs steal the show at 26x
-Net proceeds are earmarked primarily for working capital requirements (₹102 crore), debt repayment (₹20.2 crore), and capital expenditure (₹8.5 crore)
-
-## LPG-DME blending has downsides of material compatibility, safety: Oil Ministry
-No procurement programme for DME by PSU OMCs has been finalised, says Minister
+## Why HDFC Bank’s board has imposed a Rs 1 lakh penalty each on its MD, CFO and Group head
+The board also issued warning letters to the other employees involved in the case, which relates to the mobilisation of large deposits from MSRDC between 2017 and 2021 through the alleged payment of around Rs 45 crore under the head of marketing expenses.
 
 ## US stock market today: Wall Street rallies as US-Iran tensions ease; Nasdaq rises 1%
 Early trading saw the S&P 500 rise 0.8%, recovering after two consecutive weeks of losses. The Dow Jones Industrial Average advanced 581 points, while the Nasdaq Composite gained 1%.
@@ -87,58 +90,52 @@ Improving relations between Iran and the US, softer crude oil prices and other s
 ## RBI's swap scheme may attract $80-85 billion in forex inflows, says SBI report
 
 
-## India gets a lower US tariff; here's why textile exporters are still worried
-India's textile sector faces US market pressure despite a 10% tariff rate. Competitors received tariff-rate quota exemptions which India missed out on. This absence weakens India's overall competitiveness against rival nations. However, India remains a relative beneficiary of the revised US tariff f
+## Did BJP remove youth wing leader Manika Rana over joining CJP protest? What she said
+Manika Rana clarified that she was not expelled from the post, instead she was relieved of it a few months ago, adding that she still is a part of the party.
 
-## ITR filing deadline: What happens if you don’t file your income tax return by July 31, 2026? Penalty, consequences explained
-ITR filing FY 2025-26: Many individuals are unsure about whether they are required to file their income tax return or not at a particular income level. An income tax return needs to be filed if your taxable income is more than the basic exemption limit.
+## Okayed trials for polymer notes for ₹10, 20; no plan to replace paper yet: Govt
+RBI, acting on a recommendation from its Central Board, proposed printing 1 billion each of ₹10 and ₹20 polymer banknotes for field trials
 
-## How PR lessons from Boston University and AI helped Abhijeet Dipke power the CJP movement
-Dipke shared that he chose the "cockroach" as the identity of the party after learning the importance of "visual consistency" in a campaign.
+## 101 murder accused among 989 identified in CJP protest: Delhi police officials
+Of the 2,873 people identified through CCTV footage, 989 were found to have criminal antecedents, including cases of murder, robbery and sexual assault.
 
-## Goa expects strong charter season, tourists from new markets: Govt
-On average, international visitors arriving on charter services stay in Goa for 10 to 14 nights, while an Indian tourist stays for 3-4 nights per visit.
+## Odisha Crime Branch to probe missing judicial report on VHP leader’s killing
+VHP leader Laxmanananda Saraswati and four associates were shot dead by Maoists at his ashram in Odisha’s Kandhamal district on Aug. 23, 2008
 
-## Cong puts Gen-Z faces upfront as Gurmehar Kaur, youth wing leaders announce party's legal aid for paper leak protesters
-Congress's choice of Gurmehar Kaur besides other youth wing leaders to make key announcement was notable as protests were fuelled by anger among Gen Z
+## Bihar govt relents, to withdraw youth protest-linked cases, release all arrested after CJP, Oppn threaten new stir
+Samrat govt announced it will not take punitive or retaliatory legal action against individuals involved in protests anywhere in Bihar prior to 6 pm, July 26
 
-## CJP to launch website linking protesters with lawyers, Kapil Sibal announces ₹1 crore legal fund
-Kapil Sibal said the website will also “identify lawyers who can help.”
+## Vikram Misri meets Chinese leaders in Beijing days after Jaishankar-Wang meeting
+Misri’s visit follows a meeting between external affairs minister S Jaishankar and his Chinese counterpart Wang Yi on July 22
 
-## NEET paper leak case: First fast-track court hearing adjourned as CBI counsel skips proceedings
-The court adjourned the hearing to August 3 after the defence counsel requested more time.
+## ‘Different flags, same playbook’: Sonam Wangchuk's wife slams BJP, Congress over labels
+“India needs more than just a change of government. It needs a change in the very grammar of politics,” Angmo said.
 
-## BJP vs Opposition after Bihar cop uses AK-47 in student protest: 'Entire system is downright murderous'
-The incident in Bihar's Siwan district occurred days after a violent police crackdown on protests in New Delhi on July 20.
+## Nabanna building signage changes to saffron; part of maintenance, says official
+On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
-## Two days after Jantar Mantar protest ends, offers to help CJP volunteers get home emerge
-CJP spokesperson Aafreen Nawaz is the point of contact for everyone trying to get back home, one member of the Abhijeet Dipke-led outfit said.
-
-## Supreme Court reserves decision on Abu Salem plea for his release
-Salem was extradited to India after the Centre gave a sovereign assurance that he would not be sentenced to jail beyond 25 years.
-
-## Gujarat High Court sets Friday deadline after government cites rain for delay in prosecutor decision
+## Esha Singh edges China shooter for World Cup gold, Manu Bhaker claims bronze
 
 
-## BJP’s Tiranga Yatra sees sea of supporters in Kolkata; party leaders, workers join in
+## Drunk man assaults policeman; CCTV footage goes viral, accused arrested
 
 
-## Parliament deadlock may end as Lok Sabha set to discuss anti-paper leak Bill tomorrow
+## Tata Sons profit rises 21.8%, Air India losses double to Rs 22,238 crore
 
 
-## Another spell of heavy rain predicted in flood-hit South Gujarat on July 30, 31
+## ‘Remained silent as I was afraid’: Isha Rikhi speaks out on marriage troubles with Badshah
 
 
-## ‘You seek votes, then beat public’: Bombay HC raps Mhatre, transfers doctors’ assault probe to DCP
+## 5 must-read books by Keigo Higashino, the master of Japanese mystery
 
 
-## Azam Khan’s UP university gets interim relief from bulldozer action
+## CWG: Sachin Siwach fails to impress but advances to the quarterfinals
 
 
-## ‘Puke-inducing’: Kangana Ranaut wants ‘digital detox’ after watching Gen Z protest reels
+## Spider-Man Brand New Day gets U/A 13+ certificate; kissing scene trimmed
 
 
-## Varanasi teacher ‘brands’ 5-year-old’s private parts with hot knife, booked
+## Trump gives Iran ‘not much time’ as military warning looms
 
 
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
@@ -165,6 +162,9 @@ When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s 
 ## Hong Kong home sales recovery expected to boost developers’ earnings
 Hong Kong property developers are expected to report stronger first-half earnings in the coming weeks, buoyed by a rebound in home sales and improving development margins, as investors look for clues on whether the sector’s recovery is sustainable. Bank of America Global Research expected Hong Kong 
 
+## Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
+“We were looking at how to support Ukraine—now we are looking at how Ukraine can support us.”
+
 ## The Fight for International Justice Continues
 Despite setbacks, the powerful can still be held to account for their crimes.
 
@@ -185,9 +185,6 @@ Foreign leaders accuse the White House of using forced labor allegations as a sm
 
 ## Andy Burnham and the New Manchesterism
 The economic philosophy of Britain’s latest prime minister.
-
-## Ukraine’s Cardboard Maidan Shows That the People Still Matter
-Mass protests forced Zelensky to reverse course on the firing of a popular minister.
 
 ## Thailand Says Goodbye to the ‘Land Bridge’ — For Now
 A government feasibility study found what many already expected: that the project's financial returns did not justify the massive capital outlay.
@@ -261,6 +258,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Iran: Currently no negotiations with the US
+Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.
+
+## Israeli raid sparks fire at UN Palestinian refugee centre
+Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.
+
+## Mapping Israeli settler violence in the West Bank
+Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.
+
+## How Israel uses settler-soldier terror to colonise the West Bank
+Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.
+
+## Why Venezuela is leaving the ICC
+Venezuela is withdrawing from the International Criminal Court, accusing it of bias against the Global South.
+
 ## Why a new war in Yemen could be different for the Houthis
 Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.
 
@@ -269,21 +281,6 @@ No word on jailed Tunisian opposition leader Ghannouchi for 11 days, his son tel
 
 ## Honduras’s Hernandez returns home after Trump pardon: How it happened
 Sentenced to 45 years in the US, Hernandez returns home to his family, party and supporters after Trump pardons him.
-
-## Five decades of Israeli covert strategy to push US, Iran into confrontation
-Successive Israeli governments have undermined diplomatic efforts and stoked tensions between Washington and Tehran.
-
-## Five years after Saied’s power grab, Tunisians are no better off
-Tunisia has seen no economic benefit from power consolidation, while liberties have dwindled.
-
-## Australian court rejects racial discrimination appeal by Pauline Hanson
-⁠Court upholds earlier ruling ⁠that a post directed at Greens Senator Mehreen Faruqi was unlawful.
-
-## Former Honduras president returns home after Trump pardon
-Former Honduras president returns home after Trump pardon
-
-## Israel’s approval of limited Gaza force a calculated manoeuvre, experts say
-Analysts say Israeli cabinet's decision aims to deflect US pressure and fragment the Gaza Strip.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
