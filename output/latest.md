@@ -1,22 +1,28 @@
 # AION Intelligence
 
+## FirstFT: Chinese chip champion CXMT surges 466% in market debut
+Also in today’s newsletter: Indonesia’s central bank chief resigns and Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough
+
+## Success of India’s ‘cockroach’ protests energises critics of Modi government
+Opponents of ruling BJP’s imposition of ethanol-blended fuel launch campaign inspired by student-led movement
+
+## Big Tech credit risks rise sharply as AI spending soars
+Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres
+
+## OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns
+Software giant says ‘no choice’ but to develop AI defences against onslaught of automated attacks
+
 ## France and Spain brace for more extreme heat as wildfires rage
 French President Emmanuel Macron warns ‘weeks ahead will be hard’ on visit to firefighting centre in the Gironde region
 
 ## CXMT’s roaring IPO isn’t the bubble signal it might appear
 The Chinese group and its peers could continue to benefit if cheaper computing power results in more demand for AI
 
-## Burnham looks to cut welfare bill by linking up schools and employers
-UK PM draws on experience as Greater Manchester mayor in an attempt to get more young people into work
+## Andy Burnham aims to cut welfare bill by getting young people into work
+UK premier draws on experience as Greater Manchester mayor with move to link up schools and employers
 
 ## Trump says Israel ‘would not survive’ without US
 Remarks come ahead of meeting where Benjamin Netanyahu is expected to make case for expanding war with Iran
-
-## PM doles out jobs in bid to avert Labour unrest
-New leader has appointed 61 private parliamentary secretaries, an unpaid role that binds the holder to the government
-
-## Oil price tumbles as Iran and US pause strikes over Strait of Hormuz
-Brent 6% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
 
 ## Ares Management has held talks to buy Leonard Green & Partners
 A deal between the LA groups would dramatically expand the size of Ares’ private equity business
@@ -32,12 +38,6 @@ Luxury giant’s crucial fashion and leather goods division back in growth for f
 
 ## Burnham and the problem of politics by social media
 The old tightly regulated party broadcast model is dead — for better and for worse
-
-## US courts diverge on latest front in debt brawls
-Legal warfare has broken out over whether payment of a debt obligation requires actual cash changing hands
-
-## North Sea pioneer Sir Ian Wood dies aged 84
-Wood turned a family engineering business into a global player during the UK’s energy boom years
 
 ## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
 Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
@@ -111,6 +111,9 @@ Misri’s visit follows a meeting between external affairs minister S Jaishankar
 ## Nabanna building signage changes to saffron; part of maintenance, says official
 On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
+## Commonwealth Games: Sarvesh Kushare bags silver in high jump
+
+
 ## India at CWG 2026 Day 6 Schedule: Full list of Indian athletes in action on Tuesday
 
 
@@ -130,9 +133,6 @@ On May 10, the entire Nabanna building was decorated with saffron lights, ahead 
 
 
 ## ‘Effort recession’ among Gen Z: Why more employees are rethinking going the extra mile
-
-
-## BJP leaders feel delay in resolving CJP protest left a dent, but no political damage
 
 
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
@@ -159,6 +159,9 @@ When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s 
 ## Hong Kong home sales recovery expected to boost developers’ earnings
 Hong Kong property developers are expected to report stronger first-half earnings in the coming weeks, buoyed by a rebound in home sales and improving development margins, as investors look for clues on whether the sector’s recovery is sustainable. Bank of America Global Research expected Hong Kong 
 
+## Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
+The pact would erase decades of U.S. counterproliferation policy.
+
 ## Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
 “We were looking at how to support Ukraine—now we are looking at how Ukraine can support us.”
 
@@ -179,9 +182,6 @@ Russia still has assets to tap for its war, but the political costs are growing.
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
-
-## Andy Burnham and the New Manchesterism
-The economic philosophy of Britain’s latest prime minister.
 
 ## India Successfully Tests Kusha Long-range Surface-to-Air Missile
 This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Spain protests mass ‘touristification’ of Mallorca
-Thousands of protesters filled the streets of Palma to denounce mass tourism.
+## Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions
+Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.
 
-## UN eyeing potential Israeli war crimes in Lebanon
-High Commissioner Turk discusses displacement and trauma in Lebanon, asserting Israel is violating international law.
+## Hopes of return to diplomacy as US-Iran hold fire for third day
+Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.
 
-## Why have US-Lebanon direct flights been banned for 40 years?
-Why have US-Lebanon direct flights been banned for 40 years?
+## Will Peru’s new leader Keiko Fujimori reject her father’s legacy?
+Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.
 
-## Pakistan-administered Kashmir opens polls in violence-wracked vote
-First of three rounds of voting held after weeks of protests during which dozens of people were killed.
+## British court dismisses Bahrain’s bid to block activists’ spyware lawsuit
+Ruling establishes that countries using spyware on people in the UK can be sued.
 
-## Are the US and Iran heading towards a forever war?
-Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.
+## Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign
+US House Democratic leader unveils 'Fighting for an Affordable America' agenda, blaming Donald Trump for rising costs.
 
-## Lebanon’s displaced endure ‘exhaustion and despair’
-UN High Commissioner for Human Rights Volker said that Lebanon's displaced endure ‘exhaustion and despair’.
+## Trump takes economic message to Michigan amid dwindling popularity
+US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies.
 
-## Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups
-Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.
+## Has Burnham kept his promise to do better on Israel’s war on Gaza?
+Will Britain's new cabinet change the country’s role in Israel’s war on Gaza?
 
-## War on Iran: Phase II: Day 16
-The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.
+## Unreleased footage reveals Lindsey Graham’s push for war on Iran
+Unreleased documentary footage shows late US Senator Lindsey Graham celebrating the war on Iran.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
