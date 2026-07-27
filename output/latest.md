@@ -1,7 +1,22 @@
 # AION Intelligence
 
-## Chinese chip champion CXMT soars more than 500% in market debut
-Tech group becomes China’s most valuable listed company in mainland’s biggest IPO since 2010
+## Chinese chip champion CXMT soars 466% in market debut
+Tech group briefly becomes China’s most valuable listed company in mainland’s biggest IPO since 2010
+
+## Oil falls more than 7% as Iran and US pause strikes over Strait of Hormuz
+Brent lower after two weeks of escalating violence had pushed crude to more than $100 a barrel
+
+## How tight is the labour market?
+The data is equivocal
+
+## Shein slumps to loss ahead of planned Hong Kong listing
+US and EU trade tensions hit fast-fashion retailer’s profits
+
+## Portugal’s first lobbying law faces immediate test
+Also in this newsletter: Belgium pushes back on Dutch calls to cut Sierra Leone aid over drug fugitive
+
+## The sting in the tail of Japan’s lost decades
+Bond market pressure is rising as Tokyo runs out of easy policy choices
 
 ## FirstFT: US AI companies pour money into lobbying
 Also in today’s newsletter: EU in sanctions rethink and ‘forever chemicals’
@@ -9,14 +24,11 @@ Also in today’s newsletter: EU in sanctions rethink and ‘forever chemicals�
 ## China’s industrial profits grow at slowest pace this year
 Official data highlights uneven earnings rebound among manufacturers
 
-## Oil falls more than 4% as Iran and US pause strikes over Strait of Hormuz
-Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel
+## DCC board backs contentious £5.75bn private equity takeover
+KKR and Energy Capital Partners bid recommended despite objections from large shareholders
 
-## Indonesia’s central bank chief resigns
-Perry Warjiyo had been under pressure over weakening rupiah
-
-## BoE expected to hold rates despite jump in oil prices
-Consumer inflation has undershot expectations for three successive months
+## Hedge funds grow at the fastest rate ever
+Plus, Wall Street balks at Trump Media charges, Asian private credit’s slump and Whistler at Tate Britain
 
 ## UK lenders accuse Bank of England of ignoring Wall Street’s capital edge
 Study estimates differences mean British banks carry £22.5bn extra capital burden relative to US rivals
@@ -27,38 +39,41 @@ Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing
 ## France raises questions over UK participation in EU’s €5bn tech start-up fund
 Debate over British role shows strained relations during UK-EU ‘reset’ negotiations
 
-## Palantir tool has not cut hospital discharge delays, study says
-Think-tank’s findings likely to add to calls for audit of NHS England claims around Federated Data Platform
+## Sensex today | Stock Market Live: Sensex jumps 655 pts, Nifty nears 23,960 in broad-based rally
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices traded sharply higher on Monday, supported by a global equity rally, softer crude oil prices and a stronger rupee. However, investors remained cautious ahead of Tuesday's monthly F&O expiry, persistent FII short positions and lingering geopo
 
-## Beware holographic markets
-Tokenised securities are mirror images of the real thing but pose new risks
-
-## TeamSystem’s private equity owners look at stake sale at €8bn valuation
-Process could test investors’ willingness to back business software groups with market roiled by AI disruption
-
-## Nvidia in talks to back OpenAI lease of $500 billion data center
-Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio
-
-## Govt bonds rebound as easing US-Iran tensions drag crude oil lower
-The benchmark 6.94% 2036 bond yield was at 6.7767%, as of 10:15 am, down from a closing level of 6.8253% on ‌Friday, when it notched a second consecutive weekly rise.
-
-## Mapex AI Accelerates Global Growth in Geospatial Intelligence through Strategic Government Projects and International Partnerships
-Mapex AI Accelerates Global Growth in Geospatial Intelligence through Strategic Government Projects and International Partnerships
-
-## Search operations underway after suspected Pakistan drones movement in J-K's Samba, Rajouri
-The drone activity was observed by alert army troops in Nandpur, near the IB in Samba, and in Tarkundi-Saaj, near the LoC in Nowshera sector of Rajouri
-
-## Q1 Results Today Live: BEL, Coal India, Tata Power, Canara Bank, Indus Towers, Coforge, HUDCO, Godfrey Phillips to announce Q1 results, Tata Consumer, Hindustan Zinc, IDFC First Bank & KFin shares gain, Zen Tech, Shakti Pumps decline
+## Q1 Results Today Live: TMB profit rises 35% y-o-y, Canara Bank up 2%, Andhra Cements loss at ₹36 cr, BEL, Coal India, Tata Power, Indus Towers, Coforge, HUDCO, Godfrey Phillips to announce Q1 results
 Q1 Results Today, 27th July 2026 Live Updates: Follow businessline for more Q1FY27 updates
 
-## Sensex today | Stock Market Live: Sensex jumps over 575 points, Nifty at 23,934 on global rally, softer crude
-Sensex, Nifty, Share Prices LIVE: Indian equities rallied at the opening bell, tracking stronger global markets and easing crude oil prices after the US-Iran pause in hostilities. However, traders remain cautious as monthly F&O expiry, elevated India VIX and persistent FII short positions could fuel
+## Indian textile exporters may lose competitiveness despite lower US tariff as rival countries get quota exemptions: Report
+The report said India has been subjected to a 10% Section 301 tariff, lower than the 12.5% imposed on countries such as China, Vietnam, Brazil and Thailand
 
-## Nifty Prediction Today – July 27, 2026: Nifty futures: Resistance ahead; stay cautious
-A breakout of 24,000 can lift Nifty futures (Jul) to 24,250
+## Piramal Alternatives concludes investment in Biodeal Pharmaceuticals
+Piramal Structured Credit Opportunities Fund invested ₹110 crore in Biodeal (2024) to support high-growth healthcare and pharmaceutical firms
 
-## Crude oil falls as US, Iran halt weekend strikes
-After 13 days of strikes, the US has held off on further strikes over the last two days, while Iran also paused retaliatory attacks
+## Luxmi Tea wins national POSH excellence award for championing safer workplaces across estates
+Awareness drives, trained committees and women-led initiatives reinforce inclusive workplace culture across the company
+
+## Gujarat launches 'Cyber Financial Fraud e-Zero FIR' service; victims can register complaints from home
+Complaints registered through the national cybercrime helpline 1930 will now automatically generate an e-Zero FIR, which will be forwarded to the concerned police station, enabling legal action to begin at the earliest
+
+## Sakar Healthcare doubles profit in Q1 on strong demand
+Revenue increased 38% to ₹73 crore, reflecting 38% YoY growth of ₹53 crore in Q1 FY26 on the back of entry into the new market and rise in demand
+
+## Dreame Technology Redefines Hands-free Cleaning with the Launch of the Dreame D30 Ultra Robot Vacuum
+Dreame Technology Redefines Hands-free Cleaning with the Launch of the Dreame D30 Ultra Robot Vacuum
+
+## Over 500% jump! Why CXMT skyrocketed on stock market debut to become China’s most valuable listed company
+ChangXin Memory Technologies or CXMT, China's largest manufacturer of DRAM chips, raised 57.92 billion yuan ($8.6 billion) through Asia's biggest initial public offering this year.
+
+## Discount, premium, discount, premium: How Russian crude prices swung as India stepped up procurement amid US-Iran war
+The effective closure of the Strait of Hormuz in early March left tankers carrying crude from Gulf producers stranded in the Persian Gulf, forcing refiners to urgently secure alternative supplies.
+
+## Stocks to buy: What's the outlook for Nifty for July 27-July 31 week? Check list of top stock recommendations
+Stock market recommendations: Hindustan Aeronautics Ltd (HAL), and United Spirits Ltd have been identified by Sudeep Shah, Head - Technical Research and Derivatives, SBI Securities as the top stocks to buy this week starting July 27, 2026.
+
+## Gold price prediction today: Gold rises, but will the upside be limited? Check outlook for July 27, 2026 week
+Gold price prediction today: Gold prices have staged a recovery as geopolitical tensions show signs of abating, but the gains are likely to be limited ahead of the US Federal Reserve’s policy this week, says Manav Modi.
 
 ## Rupee jumps 28 paise against US dollar as crude price drops to $92 per barrel
 The Indian Rupee opened stronger against the US dollar on Monday. This rise was supported by declining crude oil prices and a weaker dollar. Easing Middle East hostilities between the US and Iran also improved global sentiment. Domestic equities traded higher, which further boosted the local currenc
@@ -72,65 +87,65 @@ Stock market recommendations: Federal Bank, and TVS Motors - Motilal Oswal Wealt
 ## Oil prices fall 5%: Crude cools as US-Iran pause fuels hopes of diplomatic breakthrough
 Oil prices dropped sharply as the United States and Iran held back from launching fresh strikes. This pause raised hopes that diplomacy could ease Middle East tensions and restore shipping. Brent crude futures fell significantly, trading at their lowest levels in nearly a week. Shipping through key 
 
-## Cheaper, open, intelligent: Chinese AI models gain ground, as they make inroads in the US
-Chinese artificial intelligence models are increasingly adopted by American users and companies. These advanced systems offer greater affordability and efficiency compared to domestic alternatives. US tech giants face frustration as Chinese AI gains global traction and market share. Restrictions are
+## Punjab roadways contractual workers hold statewide gate rallies, demand regularisation
+Punjab roadways contractual workers hold statewide gate rallies, demand regularisation
 
-## IPO buzz: Over a dozen companies set to raise Rs 25,000 crore in August
-Next month is expected to see a surge in initial public offerings. Over a dozen companies, including Zepto and Shiprocket, are preparing to launch their IPOs. These upcoming issues are anticipated to collectively raise more than twenty-five thousand crore rupees. Companies are proceeding with their 
+## Cabinet secretary urges bureaucrats to break out of 'routine', improve work culture
+Dr TV Somanathan says "routine is routinely ignored", urges officers to focus on small behavioural changes that can improve governance.
 
-## Infosys faces €175,000 fine in France over time record system
-French labour authorities imposed a fine of €175,000 on Infosys. This penalty was due to its employee time-recording system not meeting local laws. The regional labour authority cited issues with reliability and auditability. Infosys stated the fine will not materially impact its financial performan
+## Govt introduces bill to penalise paper leak in Lok Sabha amid Opposition protest
+The government aims to tighten the paper leak rules after thousands of students came on streets demanding accountability for NEET paper leak
 
-## Cyber frauds shift to on-call scams, mule networks
+## Punjab minister inaugurates 'Aam Aadmi Clinic' at Hoshiarpur central jail
+Punjab minister inaugurates 'Aam Aadmi Clinic' at Hoshiarpur central jail
 
+## Rare camel breed faces extinction threat; conservation measures initiated
+Rare camel breed faces extinction threat; conservation measures initiated
 
-## ‘Pradhan resigned, what about shameless Punjab education minister?’: Paper leaks in focus again
-The BJP referred to Punjab's education minister Harjot Singh Bains as “shameless” and demanded his resignation over alleged paper leak cases in Punjab.
+## Cop who fired AK-47 during student protest in Bihar's Siwan suspended; Opposition attacks BJP
+Leader of Opposition in Lok Sabha Rahul Gandhi said that the system is “downright murderous against students”.
 
-## Parliament monsoon session LIVE: Packed agenda in both houses; anti-paper leak bill in LS, national honour law in RS
-Parliament monsoon session LIVE updates: According to the Lok Sabha's List of Business for July 27, Union minister Jitendra Singh will introduce the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026.
+## Bombay HC allows Gadkari to sue Meta, Google over ‘defamatory’ posts linking him to E20 profits
+Nitin Gadkari has alleged that some content on social media is linking him and his family to E20 profits despite the policy being run by the Petroleum Ministry.
 
-## Ex-KPSC chief now faces probe in veterinary officers fraud case
-Former chairman of the Karnataka Public Service Commission, suspended this month over allegations involving the appointment of his daughters to government posts, is facing a fresh criminal investigation after police registered a case accusing him and others of manipulating the recruitment of veterin
+## Sonam Wangchuk discharged from hospital, says he will return to the mountains
+Sonam Wangchuk had joined the agitation on June 28 and remained on an indefinite fast for 26 days.
 
-## Parsvnath moves SC to lift curbs after depositing ₹2.9 crore in homebuyers' case
-Parsvnath told the SC it deposited ₹2.9 crore for two Gurugram homebuyers, seeking removal of curbs after complying with the court's order.
-
-## Experts call for overhaul of GM, GE crops framework
-New Delhi: Agricultural scientists, policymakers and industry representatives have called for a comprehensive overhaul of India’s regulatory framework for genetically modified (GM) and genome-edited (GE) crops, arguing that faster, science-based approvals are essential to improve climate resilience,
-
-## 112 elephant, 23 tiger deaths in 2025-26: Parl data
-New Delhi: India recorded 112 elephant deaths and 23 tiger deaths in 2025-26 due to poaching, electrocution and train accidents, according to the latest data shared in the parliament
-
-## There’s no difference between Pak military and militants: Rajnath Singh
-Speaking at 27th Kargil Vijay Diwas celebrations in Dras, Singh asserted there was no distinction between military and militants in Pakistan where terrorism was a part of state policy.
-
-## Politics corrupt, won’t contest polls anymore: Siddaramaiah
-Siddaramaiah announced on Sunday that he will not contest any elections in future, including the 2028 state assembly polls, citing advancing age.
-
-## ‘Body most truthful witness’: Madras High Court orders fresh autopsy of young wife
+## ‘Our kids will spread the word’: Delhi transporters turn to Gen Z for E20 fuel protest
 
 
-## 1 killed in communal clash in Nepal’s India-bordering Sunsari; prohibitory orders imposed
+## At least 5 years in jail, Rs 50 lakh fine: New anti-paper leak law highlights
 
 
-## Dhanush accepts his Raayan not best fit for National Award: ‘But when my best films lost, nobody said a word’
+## Asked not to take video of CPR treatment, patient’s son assaults doctor at Sassoon hospital
 
 
-## He had no symptoms of Hepatitis B, yet it was too late: Why Indians need early therapy
+## Commonwealth Games Day 5 Live Updates: Sreeshankar and Gurindervir Singh in action in Glasgow
 
 
-## India News Live Updates, 27 July 2026: Sonam Wangchuk will go to Rajghat today around 11 am
+## This bird uses flowers, feathers and even bottle caps to build the perfect love nest
 
 
-## Kanwar Yatra begins on July 30; UP govt orders extra buses, CCTV surveillance, 24×7 control rooms
+## More time for Western Ghats panel as eco-sensitive area deadlock continues
 
 
-## Laughter Chefs 3 winners are Aly Goni and Jannat Zubair; take home trophy and smartphones
+## Delhi cab driver robbed, killed for ‘easy money’; three arrested
 
 
-## ‘Tears of joy’: Mirabai Chanu moved as national anthem plays after Commonwealth Games gold
+## Vijay’s Jana Nayagan shows halted, cancelled as children found watching A-Rated film
 
+
+## 7 Hong Kong developers bid for waterfront project as Kowloon renewal gathers pace
+Hong Kong’s Urban Renewal Authority (URA) received seven tender submissions for a major waterfront residential redevelopment project in Hung Hom, drawing bids from some of the city’s largest developers despite a subdued land market. The authority said on Monday that seven developers submitted tender
+
+## Quant funds blamed for driving Chinese equities slump, but data shows they were net buyers
+As Chinese equities suffered a fresh downturn in July, quantitative funds came under renewed scrutiny, accused by some investors of accelerating the sell-off through aggressive share dumping, margin lending or short positions in index futures. Industry data, however, tells a different story. Several
+
+## How UOB is turning regional scale into customer relevance
+When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s consumer banking businesses in four Asean markets, there was a clear strategic intent behind the deal. The goal for the Singapore-based financial institution was to scale up its business and advance its position as a leadi
+
+## Hong Kong home sales recovery expected to boost developers’ earnings
+Hong Kong property developers are expected to report stronger first-half earnings in the coming weeks, buoyed by a rebound in home sales and improving development margins, as investors look for clues on whether the sector’s recovery is sustainable. Bank of America Global Research expected Hong Kong 
 
 ## Fast-fashion giant Shein swings to US$99m first-quarter loss ahead of Hong Kong listing
 E-commerce giant Shein swung back to losses in the first quarter of 2026 as rising Western tariffs squeezed margins, according to its Hong Kong listing prospectus on Sunday. The Singapore-headquartered fast-fashion retailer, founded in China, recorded a US$99 million loss in the three months to Marc
@@ -144,17 +159,11 @@ Luxury brands including Burberry and Cartier posted robust sales growth in China
 ## Why do mainland Chinese firms refuse to give up on Wall Street IPOs?
 Amid heightened geopolitical tensions and complex regulatory hurdles, Wall Street has become a more difficult listing destination for mainland Chinese companies – but some remain unwilling to abandon it. Only two mainland Chinese companies completed US debuts in the first half of the year, raising a
 
-## Low profile, high AI ambition: what leaked comments reveal about DeepSeek’s Liang Wenfeng
-In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in the background. With only a couple of photographs of him circulating online, the founder of Chinese a
+## Bill Clinton Ended Welfare and Paved the Way For MAGA
+Republicans have since turned their attention to additional pillars of the social safety net.
 
-## Demand for Dubai homes cools as Middle East conflict drags on
-The US-Israel war on Iran has cooled demand for homes in Dubai as buyers hold off on making purchases and businesses delay relocations of executives and staff to the Middle East, according to analysts. The hostilities began in February with strikes in Tehran and later developed into a wider regional
-
-## Lower profit margins set to foil Chinese carmakers’ price war plans despite falling sales
-Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China’s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives. The dire scenario could also dash Chinese consumers’ hopes for steep discounts, despite carm
-
-## How Hong Kong developers are adapting to the ‘new normal’ in the Greater Bay Area
-Hong Kong developers operating in the Greater Bay Area are having to adapt to the ongoing debt crisis in mainland China’s property sector, which has led to deep and lasting changes in the nature and motivations of their buyers, according to agencies dealing in mainland real estate. Before the debt c
+## The Kremlin’s Easy Money Is Gone
+Russia still has assets to tap for its war, but the political costs are growing.
 
 ## Trump Swaps Out Tariffs for Even More Tariffs
 Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
@@ -173,12 +182,6 @@ Test yourself on the week of July 18: Ortega makes an alarming announcement, Zel
 
 ## The Jonestown Massacre in Black and White
 A flawed book tries to put race and politics back into a pan-American tragedy.
-
-## Nepal’s Queer Cinema Is Becoming a National Triumph
-A Cannes win has turned trans actors from outsiders to heroes.
-
-## Trump’s Destruction of Iranian Life Is Strengthening the Regime
-Targeting civilian infrastructure is a foolish and cruel error.
 
 ## What a Stray Dog’s Murder Tells us About Chinese Civil Society
 Wang Wang has appeared on billboards around the world – visible proof that China’s censorship does have limits.
@@ -204,6 +207,12 @@ Ma. Theresa Lazaro said that the bloc wants to see more progress on the implemen
 ## Squabble Deepens Between People Power Party’s Current and Former Leaders
 Whether Han Dong-hoon and Jang Dong-hyuk mend ties will determine the future of South Korea’s main conservative party.
 
+## Taiwan’s Tech Hurdles Threaten Military Capability and Potential Coalition Defense
+Taiwan produces the world’s most advanced semiconductors, yet the island’s own military is only in the opening stages of adopting artificial intelligence systems. This mismatch bears directly on Taiwan’s ability to deter Chinese aggression.Beijing is pushing to develop and field sophisticated AI-ena
+
+## Why Norway and Finland Should Preserve Two of Europe’s Most Important Demilitarized Zones
+Svalbard is a stark archipelago of glaciers and coal mines lying 650 kilometers (403 miles) north of Norway’s North Cape, roughly halfway between the Norwegian mainland and the North Pole. It belongs to Norway but is governed under a 1920 treaty that grants nationals of more than 40 signatory states
+
 ## Global Risks Heating Up
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
 
@@ -221,12 +230,6 @@ Editor’s note: This is the fifth article in a limited series celebrating Ameri
 
 ## The Importance of the Invasion of Sicily
 On July 10, 1943, the Allied invasion of Sicily — codenamed Operation Husky — put more assault troops ashore on its first day than the Normandy landings would 11 months later. Despite the scale of these amphibious and vertical assaults on the Mediterranean’s largest island, the images most carry of 
-
-## Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare
-In March 2025, China’s military researchers published a concept describing how to rapidly capture and subdue the city of Taipei. Distributed in restricted military channels, this approach argues Beijing can achieve victory “by blocking the city’s ability to receive external assistance, restricting i
-
-## How Ukraine Put Russia on the Backfoot
-Ukraine’s expanding use of drones at all ranges has changed the war’s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasting advantage
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,29 +255,32 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Protests erupt in Libya’s Tripoli as anger grows over power cuts
-Protesters shut roads and ministries in Tripoli as a civil disobedience campaign over power cuts spreads to more areas.
+## Greta Thunberg joins London rally in support of Indian students
+Climate activist Greta Thunberg joined a London rally in support of India’s Cockroach Janta Party-led student movement.
 
-## Firefighters battle wildfires in Spain’s eastern Castellon province
-Wildfires in Spain’s Castellon region have burnt more than 4,300 hectares and forced 15,000 residents to evacuate.
+## Spanish PM Pedro Sanchez thanks young Gaza artist for painting him
+Spanish Prime Minister Pedro Sanchez has thanked Layan Al Quqa, a young artist in Gaza for painting a mural of him
 
-## Thousands march in Pakistan-administered Kashmir amid election unrest
-Thousands gathered in Rawalakot before marching towards Muzaffarabad in Pakistan-administered Kashmir.
+## World’s oldest professional footballer scores first goal in years
+World’s oldest professional footballer scores first goal in years
 
-## Sudan’s army claims control of major highway linking Khartoum and el-Obeid
-Capture of Al Sadarat highway will help the Sudanese army block the RSF's push to seize el-Obeid in North Kordofan.
+## Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit
+Israeli Prime Minister Benjamin Netanyahu accused mayor Zohran Mamdani of 'fomenting hate'.
 
-## Vendor’s livestream captures chaos as gunfire erupts at Seattle Center
-A vendor livestreaming from the Bite of Seattle festival captured the moment shots rang out near the Space Needle.
+## The AI military complex: Which are the main companies in it?
+Billions of dollars are flowing into a handful of companies now leading the AI transformation of militaries.
 
-## Sudan’s army regains control of highway linking Khartoum with El Obeid
-Sudan's army says it has regained full control of Al Sadarat highway linking Khartoum to El Obeid
+## Tadej Pogacar wins Tour de France for a record-equalling fifth time
+The Tour triumph marks the Slovenian's third win in a row and draws him level with four others on the all-time list
 
-## Russia and Ukraine trade attacks, killing 10, including child in Chernihiv
-Kyiv says Russian strikes killed six, including a child at a supermarket, as Moscow says Ukrainian strikes killed four.
+## German arms export licences for Israel surge with focus on sub project
+A dramatic rise in export permissions marks the latest twist in Germany's approach to ally Israel.
 
-## Firefighters battle to contain wildfires still burning near Bordeaux
-Wildfires in southwestern France are continuing to burn near the city of Bordeaux.
+## Iran warns Ukraine of retaliation after deadly Caspian Sea strike
+Abbas Araghchi says the Ukrainian attack on the Iranian vessel in the Caspian Sea 'cannot go unanswered'.
+
+## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
+Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
 
 ## August Rush: Over 2 dozen companies plan Street debut next month
 India's primary market momentum continues with over two dozen issuers planning IPOs. These companies aim to collectively raise approximately ₹35,000 crore in the upcoming month. New-age companies like Zepto and PhonePe are expected to lead this significant market activity. Investor appetite is retur
@@ -297,8 +303,14 @@ The JSA Boardroom Connect in Chennai, scheduled for July 24, 2026, will bring to
 ## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
 Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
 
-## Top 10 Highest-Paid CFOs in India: L&T’s Shankar Raman Tops List
-An ETCFO analysis of annual reports and annual returns filed by some of India's largest listed companies shows Larsen & Toubro (L&T) CFO R Shankar Raman emerged as the highest-paid finance chief in FY26, drawing ₹54.02 crore, followed by Reliance Industries CFO Srikanth Venkatachari at ₹19.95 crore.
+## RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll
+Economists predict the Reserve Bank of India will maintain its key interest rate at 5.25% through August. This decision comes as the central bank assesses global war impacts and domestic price pressures. Inflation has risen above the target, but rate hikes are considered premature by many experts. T
+
+## Listed debt entities must list transferred unlisted NCDs after business restructuring: SEBI
+Market regulator Securities and Exchange Board of India (SEBI) has clarified that listed debt entities taking over outstanding unlisted non-convertible debentures (NCDs) as part of a corporate restructuring or business transfer cannot avoid mandatory listing requirements merely because no fresh debe
+
+## India may see up to $85 billion in forex inflows after RBI's FCNR move: Report
+India anticipates substantial Foreign Currency Non-Resident deposits, possibly reaching eighty to eighty-five billion dollars. Public sector banks are leading this significant mobilization effort, exceeding previous records. FCNR(B) deposits have already reached seventeen point forty-one billion dol
 
 ## US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts
 The tariffs, set to increase significantly from August 2029, could impact affordable medicine access. Experts emphasise strengthening domestic manufacturing while preserving global supply chain integration.
@@ -314,10 +326,4 @@ The United States has imposed 10% tariffs on goods from India and sixteen other 
 
 ## India in strongest credit growth phase since 2012 on robust corporate demand: Report
 India's credit expansion is currently its strongest since 2012. Corporate loan growth reached a thirteen-year high in May. Household loan growth has also remained resilient for four months. Non-banking financial companies saw retail loan growth accelerate significantly. Overall credit demand is expe
-
-## Trump tariffs may stay alive as US set to impose new import taxes by Friday
-Donald Trump is likely planning new import duties on many nations by Friday. These levies aim to continue his tariff regime after current ones expire. The administration proposed these tariffs citing lax forced-labor standards. Temporary charges are set to expire Friday, avoiding any tariff gap. The
-
-## PLI schemes attract Rs 2.4 lakh crore investment, create 14.15 lakh jobs: Govt
-The government's Production Linked Incentive (PLI) schemes have attracted actual investments of more than Rs 2.40 lakh crore, generated over 14.15 lakh direct and indirect jobs, and enabled exports worth Rs 15.2 lakh crore across 14 key sectors as of March 31, 2026, Parliament was informed on Tuesda
 
