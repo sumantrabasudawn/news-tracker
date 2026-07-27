@@ -36,9 +36,6 @@ Tech giant files to launch more than 5,000 satellites to provide global consumer
 ## Dior rebound helps LVMH’s fashion business return to growth
 Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years
 
-## Burnham and the problem of politics by social media
-The old tightly regulated party broadcast model is dead — for better and for worse
-
 ## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
 Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
 
@@ -111,6 +108,18 @@ Misri’s visit follows a meeting between external affairs minister S Jaishankar
 ## Nabanna building signage changes to saffron; part of maintenance, says official
 On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
+## Delhi Confidential: Stay Away
+
+
+## Sharmila Dhankar wins gold, Shilpa Shyla bronze in para shot put at CWG 2026
+
+
+## Ajaya Babu wins silver, India’s 6th weightlifting medal at 2026 CWG
+
+
+## Ministry pushing RBI to open licences for more urban cooperative banks: Secretary Ashish Kumar Bhutani
+
+
 ## Commonwealth Games: Sarvesh Kushare bags silver in high jump
 
 
@@ -123,17 +132,8 @@ On May 10, the entire Nabanna building was decorated with saffron lights, ahead 
 ## Egypt conquered, Asia next: Anahat Singh plots her route to direct LA28 spot
 
 
-## How a US commander’s advice changed Trump’s Iran strategy to shelve strikes
-
-
-## Could Protistha Samanta have scored high with low-difficulty vaults in the final
-
-
-## Homes of 2 women linked to trafficking case demolished in Ajmer, officials cite ‘illegal construction’
-
-
-## ‘Effort recession’ among Gen Z: Why more employees are rethinking going the extra mile
-
+## A tale of two markets: Wall Street cheers record highs while Beijing deflates bubbles
+When the S&P 500, Nasdaq and Dow Jones Industrial Average hit record highs in early July, US President Donald Trump hailed it as evidence of America’s economic revival. “This is WINNING. The Golden Age of America is beginning – and we are just getting started,” he wrote in a social media post on Jul
 
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
 Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industry’s readiness. The Hong Kong Monetary Authority (HKMA) launched its first Quantu
@@ -156,8 +156,8 @@ As Chinese equities suffered a fresh downturn in July, quantitative funds came u
 ## How UOB is turning regional scale into customer relevance
 When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s consumer banking businesses in four Asean markets, there was a clear strategic intent behind the deal. The goal for the Singapore-based financial institution was to scale up its business and advance its position as a leadi
 
-## Hong Kong home sales recovery expected to boost developers’ earnings
-Hong Kong property developers are expected to report stronger first-half earnings in the coming weeks, buoyed by a rebound in home sales and improving development margins, as investors look for clues on whether the sector’s recovery is sustainable. Bank of America Global Research expected Hong Kong 
+## What to Expect at the Trump-Netanyahu Showdown
+Once close allies, the two leaders are at odds on the Iran war.
 
 ## Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
 The pact would erase decades of U.S. counterproliferation policy.
@@ -179,9 +179,6 @@ Republicans have since turned their attention to additional pillars of the socia
 
 ## The Kremlin’s Easy Money Is Gone
 Russia still has assets to tap for its war, but the political costs are growing.
-
-## Trump Swaps Out Tariffs for Even More Tariffs
-Foreign leaders accuse the White House of using forced labor allegations as a smokescreen for protectionist measures.
 
 ## India Successfully Tests Kusha Long-range Surface-to-Air Missile
 This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
@@ -255,6 +252,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Shot fired outside US consulate in Canada for second time this year
+Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.
+
+## Video shows man subdued after stabbing three women in Paris
+Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.
+
+## Trump asks US Supreme Court to allow mail-in voting restrictions
+A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.
+
+## UN slams Israel’s expansion of illegal settlements in occupied West Bank
+UN chief Guterres says settlements a 'flagrant violation' of international law, amid escalating violence.
+
 ## Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions
 Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.
 
@@ -266,18 +275,6 @@ Keiko Fujimori was elected president and many people are sceptical she will be a
 
 ## British court dismisses Bahrain’s bid to block activists’ spyware lawsuit
 Ruling establishes that countries using spyware on people in the UK can be sued.
-
-## Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign
-US House Democratic leader unveils 'Fighting for an Affordable America' agenda, blaming Donald Trump for rising costs.
-
-## Trump takes economic message to Michigan amid dwindling popularity
-US president is suffering from low approval ratings in state that has become 'ground zero' for his trade policies.
-
-## Has Burnham kept his promise to do better on Israel’s war on Gaza?
-Will Britain's new cabinet change the country’s role in Israel’s war on Gaza?
-
-## Unreleased footage reveals Lindsey Graham’s push for war on Iran
-Unreleased documentary footage shows late US Senator Lindsey Graham celebrating the war on Iran.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
