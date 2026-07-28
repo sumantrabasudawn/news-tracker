@@ -1,67 +1,76 @@
 # AION Intelligence
 
+## US tech stocks enter correction as AI sell-off deepens
+Nasdaq 100 has lost more than 10% since June high as chipmakers tumble
+
+## Powerful earthquake hits Japan’s southern Kumamoto prefecture
+Reports of multiple deaths from blast at shopping centre and widespread damage to buildings and infrastructure
+
+## Trump sets stage for Netanyahu meeting amid tensions with Israeli PM
+Also in today’s newsletter, an uphill financial battle for Democrats in Maine Senate race
+
+## Air Force One refurbishment costs weigh on Boeing results
+Overhaul of presidential jet offsets continued improvement in group’s commercial airliner business
+
+## A truly progressive VAT would solve a lot of UK tax problems
+Ending exemptions while excluding low-income households would be fairer and bring in far more revenue
+
+## Fire-ravaged France evacuates tourists and braces for new heatwave
+Firefighters make progress on major blazes that have displaced hundreds of thousands of people
+
+## Trump’s waning sway over the world
+The habitual trolling that serves him at home is sapping his potency on the global stage
+
+## The bad equilibrium in the energy market
+Prices are bounded in a bad equilibrium while demand and supply look set to remain off-balance
+
+## Maybe the chips are down because memory’s too expensive
+DRAM, DRAM, DRAM / Did I ruin your plans, plans, plans?
+
+## GSK to shut historic Stevenage site and switch research centre to Cambridge
+UK drugmaker bets new site in university city will bolster pipelines of medicines
+
+## Fifa plans stake sale in new $20bn commercial vehicle
+World football’s governing body is seeking to cash in on the success of this summer’s World Cup
+
+## Coca-Cola and Unilever sales surge after World Cup marketing blitz
+Soft-drink maker’s marketing included promoting Powerade in mid-game ‘hydration breaks’
+
 ## How China’s grip on electrification metals could affect inflation
 Beijing’s supply-chain dominance poses major risks for the green transition
 
-## AI boom raises risks of monetary policy mistakes, warn BIS economists
-Assessing strength and timing of technology’s effect on GDP and inflation a challenge for central banks
+## Paradeep Phosphates Q1 net up 24% at ₹393 cr on higher sales
+Board approves Rs 250-cr investment in aluminium flouride plant at Paradeep
 
-## Powerful earthquake hits Japan’s southern Kumamoto prefecture
-Buildings and bridges collapse and blast reported at shopping centre as chipmaker TSMC evacuates workers from plant
+## Magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected
+Japan's Fire and Disaster Management Agency said there were no reports of damage to major public facilities and infrastructure, though authorities were still assessing the extent of damage
 
-## AI stock sell-off deepens as investors dump chipmakers
-South Korea’s tech-heavy Kospi leads declines in Asia
+## Hyderabad start-up ecosystem must focus on growth capital, market access: Report
+The index pegged the overall ecosystem confidence score at 6.5 (out of 10)
 
-## Sorry, but Spanish olive oil is far superior to Italian
-One grower makes a case
+## Broker’s call: Suntech Realty (Buy)
+Investec
 
-## FirstFT: Tech stocks spiral lower
-Also in today’s newsletter: AI’s rising risk gauge and the storms intensifying wildfires
+## Counterfeit handicrafts threaten Kashmir’s heritage crafts Industry
+According to artisans and officials, carpets, shawls, and walnut wood carvings are among the products that are frequently mislabeled by some traders
 
-## Singapore warns of economic risks if global AI boom falters
-Central bank in city-state says AI models and quantum computing pose cyber security threats
+## Voda-Idea records mobile net additions for fifth consecutive month in June
+Reliance Jio recorded a net addition of 21,46,980 subscribers, while Bharti Airtel added the most customers during the month with a net addition of 29,89,976 subscribers
 
-## Zelenskyy returns to Oval Office as Trump shifts towards Ukraine
-Kyiv hopes White House talks will turn improved relations with US into fresh backing against Russia
+## SIP inflows of most listed MFs hits a bump
+Sequential SIP inflows slow down in June quarter on weak returns
 
-## World’s largest listed hedge fund reverses outflows in key unit
-Man Group reported $2.3bn of net inflows into its lucrative absolute return division
+## City Union Bank Q1 profit rises 25% to ₹383 crore on NII growth
+We’re on track for 20% business growth in FY27, says CEO Vijay Anandh
 
-## EY fined £1.2mn for breaching standards on Made.com audit
-Regulator says Big Four firm relied on furniture retailer’s forecasts and did not carry out ‘adequate testing’
+## Big manufacturing push: How India is aiming to future proof its supply chains from global conflicts
+The idea is to reduce trade deficit, conserve foreign exchange reserves and also to position India as an alternative global manufacturing hub to China. What is being planned and how will the focus on the manufacturing sector help India reduce its dependence on global supplies?
 
-## Barclays profits boosted by market volatility gains
-Quarterly earnings rise 31% to £3.3bn but shares sell off as UK bank fails to match Wall Street peers
+## India’s 'looksmaxxing' economy: More science, more spending, fewer taboos
+India's beauty market is rapidly expanding, driven by evolving consumer attitudes and increased awareness. Skincare routines now feature advanced ingredients, replacing older methods. Cosmetic procedures are becoming mainstream, with many seeking subtle enhancements. Digital platforms and influencer
 
-## Unilever sales surge after World Cup marketing blitz
-Influencer-led campaigns help maker of Dove and Sure deliver best quarter of volume growth for 16 years
-
-## Mercedes-Benz cuts annual forecast amid China slump
-German carmaker joins Volkswagen and BMW in warning on tougher Chinese market
-
-## Emerging behavioural trends could be a policy challenge
-Savings, investments, housing, lifestyle and consumption patterns are shifting from conventional trends. Focussed research on these is imperative
-
-## South Korean market meltdown barely ruffles India; IT stocks steal the show
-The Nifty 50 closed at 23,985, down just 0.04%; Nifty IT index rallies 3.3%
-
-## Delhi High Court orders winding up of Paytm Payments Bank, says RBI
-The High Court has appointed an official liquidator to oversee the winding up of Paytm Payments Bank following the RBI’s decision to revoke its banking licence over regulatory violations.
-
-## Sundaram Clayton Q1 results: Consolidated net loss widens to ₹59 crore
-Cites rising input costs and geopolitical uncertainty as reasons; Consolidated revenue up 16% to ₹592 crore
-
-## Industrial output rises 7.3% in June on strong manufacturing performance
-Government data showed that 19 of 23 manufacturing industry groups expanded, with electrical equipment, automobiles and food products leading growth.
-
-## HUL shares fall 7% as Q1 attributable profit drops 3% to ₹2,673 crore
-Turnover grows to ₹17,184 crore, driven by 10% underlying sales growth and 5% volume growth
-
-## Canara Bank seeing strong credit demand from data centres, battery storage and power evacuation projects: MD&CEO
-We are also consciously growing our retail, agriculture and MSME portfolio, says Brajesh Kumar Singh
-
-## After Kuttipuram incident, Kerala launches 24x7 highway enforcement to curb overspeeding
-The national highway network will be divided into six stretches of around 100 km each, with dedicated enforcement teams deployed round the clock in every zone throughout the week, Transport Minister C P John said
+## IIP data: Industrial production posts strong growth; rises by 7.3% in June
+According to the NSO, the IIP growth rate accelerated to 7.3% in June 2026 from the quick estimate of 5% reported for May 2026. The revised estimate for May has since been lowered marginally to 5% from 5.1%.
 
 ## Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge
 
@@ -78,62 +87,56 @@ Gold price prediction today: Gold prices are rising but are still not out of the
 ## Oil prices fall to one-week low as hopes of US-Iran breakthrough ease supply concerns
 Oil prices extended losses as diplomatic talks eased supply disruption concerns. Brent crude futures and WTI crude touched their lowest levels since July. The Caspian Pipeline Consortium resumed oil loadings after a suspension. However, Middle East supply disruption fears persist amid drone attacks.
 
-## Top stocks to buy today: Stock market recommendations for July 28, 2026 - check list
-Stock market recommendations: REC Ltd, Wipro, LIC Housing Finance, and LTM - these stocks have been identified by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan as the top stocks to buy on July 28, 2026:
+## Former UP minister Nanak Ram Bhurji dies after fall from 7th floor in Lucknow; police probe cause of death
+The officer-in-charge of the MLA residence informed the local police about a man having fallen from an upper floor behind the legislators' residential complex.
 
-## Stock market today: Nifty IT index jumps nearly 4% as tech stocks lead market rally
+## ‘Character assassination’: Drama in Parliament as Priyanka, Rijiju spar over Pralhad Joshi's appointment as edu minister
+Kiren Rijiju said that Priyanka Gandhi comments amount to “character assassination” of Pralhad and urged the House to expunge her statement from the record.
 
+## PoJK polls a 'cosmetic exercise' to mask illegal occupation, says MEA
+MEA spokesperson Randhir Jaiswal's remarks came amid continuing protests in PoJK, where demonstrators have alleged widespread electoral rigging.
 
-## US firms training AI using Chinese examples: Beijing
-China's commerce ministry accused American artificial intelligence firms of using Chinese models. This statement follows recent US threats of sanctions against Chinese technology companies. Beijing stated that many US AI companies distilled Chinese models during their development processes. The mini
+## 'Desperate, fake attempts': India rejects Pakistan's claim on Indus Valley Civilisation legacy
+These remarks from the MEA spokesperson came in response to a question regarding Islamabad's recent references to the Indus Valley Civilization.
 
-## Uttarakhand: Approach road to new bridge caves in; Congress alleges corruption
-The ₹16-crore bridge over the Tons River was constructed after the previous bridge was washed away during last year’s monsoon
+## 'Wait for report': SC on Air India crash after father of pilot seeks 'fair, transparent' probe
+While hearing the petition, the top court noted that the simulator tests had been conducted to identify the cause of the plane crash.
 
-## Fadnavis orders withdrawal of cases against youths booked during student protests
-Devendra Fadnavis directed the Home Department to issue orders withdrawing cases registered against youths.
+## NIA to take over Nagaland IED blast case that killed one Assam Rifles soldier
+In a statement on Tuesday, the Nagaland police headquarters (PHQ) said the ministry of home affairs (MHA) communicated the development to the state government
 
-## Portion of newly constructed ₹16 crore bridge collapses in Dehradun after heavy rain | Video
-A bridge on the Dehradun-Paonta Sahib Highway collapsed after heavy rainfall, disrupting traffic.
+## Delhi govt to provide ₹2,500 monthly to women under Lakshmi Yojana; registrations from Aug 1
+The BJP leader added that after verification of the applications, the government will work towards releasing the first instalment by Raksha Bandhan.
 
-## 'What's your rate?': Bengaluru woman waiting for cab films harasser, man arrested
-In the post, she alleged that a scooter rider approached her while she was waiting by the roadside, made inappropriate remarks.
+## 10 years' jail, ₹50 lakh fine, two-month probes: How 2026 bill would rewrite the anti-paper leak law
+Amendments under debate in Lok Sabha places two-month cap on probes for paper leaks and gives fast-track courts statutory backing.
 
-## Committed to engaging with youth, incorporating their suggestions into policymaking: Rajasthan CM
-Committed to engaging with youth, incorporating their suggestions into policymaking: Rajasthan CM
-
-## C’garh MGNREGA graft case: Chargesheet filed against 8 ex-Kanker panchayat officials
-Investigators alleged that the procurement was carried out without following the prescribed tendering and purchase procedures
-
-## ‘Garlanding him as if he won war with Pakistan’: Congress slams Pradhan's felicitation in Parliament
-Dharmendra Pradhan recently resigned as education minister, bending to the demands of protesting students of government accountability over exam irregularities
-
-## YSRCP stages protests over DSC 'irregularities', TDP rejects charges
-YSRCP stages protests over DSC 'irregularities', TDP rejects charges
-
-## When students spoke, government listened
+## Clean up or pay Rs 1 lakh fine: Bengaluru residents urged to report vacant-plot waste
 
 
-## Expert Explains | What the entry of the Houthis means for the US-Iran conflict
+## ’33 years of pain’: K S Shilpa’s journey from losing a leg at 4 to Commonwealth Games medal
 
 
-## Days after its opening, massive crater appears on road leading to Rs 16-crore bridge in Dehradun
+## Why the vitality of pressure groups in a democracy remains incontestable
 
 
-## No more Gandhinagar trips: Gujarat raises district collectors’ land allotment powers
+## Industrial growth rises to 7.3% in June, highest in 23 months
 
 
-## Case pending since 2005, Punjab and Haryana High Court ‘saves’ 2 ‘from stigma of jail life’
+## India funds construction of school building in Nepal with NPR 75 million aid
 
 
-## ‘No promise to spare violent protesters’: Government sources counter CJP
+## ‘Previous disability no bar’: Delhi High Court backs Rs 5 lakh accident relief for Army man
 
 
-## Kerala businesswoman’s Rs 25 lakh bottling machine ‘fails’ to work, wins replacement, Rs 75,000
+## Rashmika Mandanna reveals skincare secrets; calls herself ‘a vitamin C person’
 
 
-## RBI needs to look beyond defending the rupee
+## Zinedine Zidane unveiled as France national team coach
 
+
+## From CXMT to Zhipu: How Alibaba’s investment pays off with a growing AI and chip portfolio
+ChangXin Memory Technologies (CXMT) and Zhipu AI have not only seen their share prices skyrocket, but they have also handed a windfall to their common backer: Alibaba Group Holding. Before the listing of China’s memory-chip giant on Monday, Alibaba owned nearly 5 per cent of CXMT, making it the chip
 
 ## Sun Life targets Asia’s booming wealth transfer market with new platform
 Canadian insurer Sun Life has launched a new platform targeting Asia’s fastest-growing wealth management markets, as high-net-worth individuals in the region increasingly seek to use insurance products to protect their wealth and pass it on to the next generation. The integrated platform – named Sun
@@ -156,8 +159,14 @@ Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the sec
 ## CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources
 NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) in Hong Kong as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology L
 
-## Singapore-based investors now the top non-local buyers of Hong Kong office assets
-Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain stea
+## Washington Can’t Keep Ignoring Minab
+A human rights-centered foreign policy is both a moral imperative and a geopolitical necessity.
+
+## Why Putin Will Escalate
+The coming months will mark the most dangerous phase of Russia’s war in Ukraine.
+
+## Netanyahu’s Palestine Philosophy Is Finally Exposed
+The Israeli prime minister’s thinking on Palestine has always been consistent—and consistently disastrous.
 
 ## The Economic War on Iran Is—and Isn’t—Working
 Devastating costs have been imposed on the Iranian economy—to unclear strategic ends.
@@ -173,15 +182,6 @@ The pact would erase decades of U.S. counterproliferation policy.
 
 ## The Fight for International Justice Continues
 Despite setbacks, the powerful can still be held to account for their crimes.
-
-## Iran’s Arsenal Starts With Its Islands
-A guide to Tehran’s nine most strategic territories.
-
-## Economic Integration in the Middle East Is a False God
-Washington loves the idea but would see few benefits.
-
-## Bill Clinton Ended Welfare and Paved the Way for MAGA
-Republicans have since turned their attention to additional pillars of the social safety net.
 
 ## Vietnam’s New AI Law and Its Strategic Implications
 The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
@@ -255,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued
-PM Sanae Takaichi urges people 'to remain vigilant for the possibility of another earthquake of similar magnitude'.
+## France and Spain brace for heatwave that could worsen raging wildfires
+Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.
 
-## Moment 7.1-magnitude earthquake rocks southern Japan
-A magnitude 7.1 earthquake has hit Kumamoto on Japan's southern island of Kyushu.
+## Roberto Mancini to be named Italy head coach for second time, source says
+Mancini coached the national side in 2018-2023 and reportedly returns to the job with Italy having missed the World Cup.
 
-## Zinedine Zidane named as France head coach following World Cup 2026
-Ex-superstar player succeeds Didier Deschamps as France manager after the national team’s bitter semifinal exit.
+## Israeli soldier runs marathon around Gaza outpost
+An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.
 
-## Netanyahu in the White House: What’s on the agenda and what’s next?
-The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.
+## Tate brothers face at least two more weeks in US jail as bail bid reviewed
+The conditions faced by the brothers in prison in Miami are a far cry from the luxury lifestyle they once flaunted.
 
-## ‘Future at stake’: India moves to demolish university Muslim leader founded
-Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University's 40 buildings were built illegally.
+## Trump says ‘good chance’ of progress in Iran talks. What we know
+Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.
 
-## Sixty Palestinians detained by Israel return to Gaza, describe abuses
-The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.
+## Pregnant Palestinian woman loses baby after Israeli checkpoint stop
+Pregnant Palestinian woman loses baby after Israeli checkpoint stop
 
-## Colombia’s president-elect to suspend Palestine embassy
-Colombia’s far-right president-elect says he'll close or suspend embassies in these countries
+## Moment Canadian politician accidentally reads AI prompt during speech
+‘Here’s a more natural flowing version of that section…’
 
-## ICE extends lease on Texas detention centre where three migrants died
-Three people have died in the Texas detainment centre Camp East Montana since it opened last year.
+## ‘We’re here to stay’: West Bank Palestinians defy Israeli attacks
+Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
