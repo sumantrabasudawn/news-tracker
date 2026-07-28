@@ -1,70 +1,61 @@
 # AION Intelligence
 
+## Ebay to pay $55.7mn to settle case over harassment of company critics
+Couple received threatening deliveries including funeral wreath and live cockroaches after chiding retailer in blog
+
+## The US should stay open to open-weight AI
+New and cheaper models could be a boon for the growth of the tech sector
+
+## Fire-ravaged France evacuates tourists and braces for new heatwave
+Firefighters make progress on blazes that have displaced hundreds of thousands of people
+
 ## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
-Kyiv hopes White House talks will turn improved relations with US into fresh backing against Russia
+Kyiv hopes White House talks will result in fresh US backing against Russia
 
 ## Chip stocks tumble as AI sell-off deepens
-Global semiconductor rout continues ahead of crucial Big Tech earnings
+Nasdaq 100 briefly falls into correction territory ahead of raft of Big Tech earnings
+
+## Co-chair of law firm Wachtell Lipton set to depart for rival Gibson Dunn
+Bill Savitt is planning to leave the corporate law powerhouse alongside several other partners
+
+## French shipping group boosted as customers stockpile to beat Trump tariffs
+The French container shipping company predicts heightened demand will persist
 
 ## Powerful earthquake hits Japan’s southern Kumamoto prefecture
 Reports of multiple deaths from blast at shopping centre and widespread damage to buildings and infrastructure
 
-## Wildfires are entering tipping-point territory
-Scientists need to update their models to understand how these extreme events start and spread
+## Kering sales return to growth as Gucci slowdown eases
+Fashion recovery and strong demand for jewellery and eyewear helped drive improved performance
 
-## Turkish politician hit by rent-a-crowd scandal
-Kemal Kılıçdaroğlu, court-appointed head of Turkey’s oldest party, denounced corruption during party event
+## Mike Ashley’s Frasers Group builds stake in Burberry
+Sports Direct owner discloses 4% position as it strives to establish itself in the luxury market
 
-## Wachtell Lipton co-chair set to depart for rival Gibson Dunn
-Bill Savitt planning to leave Wall Street law firm alongside several other partners
+## UK charities hit after specialist bank shuts off online services
+CAF Bank suspends internet banking after identifying attempted fraud
 
-## Lessons from companies learning to beat the heat
-Schneider Electric and Heineken are among large groups rolling out measures to protect workers as extreme weather intensifies
+## Suzlon picks Singapore as global hub to drive overseas expansion
+The Singapore office will function as the group’s international control centre, overseeing overseas sales, operations and maintenance services, banking and procurement
 
-## We need an OBR for infrastructure
-An independent expert body with the right capabilities can reassure investors that projects are worth the cost
+## HDFC Bank, Axis Bank, ICICI Bank collected more than all 12 PSBs for not maintaining minimum avg balance
+To enhance customer centricity and promote inclusive banking, PSBs have reviewed their service charge structures.
 
-## Apple tops $5tn valuation for first time
-Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
+## Net profit of PSBs surged to ₹1.98 lakh cr in FY26
+Gross advances of PSBs grew by 15.7 per cent to ₹127 lakh crore as on March 31, 2026
 
-## LA Dodgers-owner’s insurer acknowledges loans to ‘Dodger Tickets’
-Delaware Life reclassifies loans as level 1 related-party investments after labelling them unaffiliated for years
+## HUL Q1 net dips amid inflation, one-time tax credit in FY26
+Revenues grow 10 per cent YoY to ₹17,529 crore
 
-## Fifa plans $20bn commercial vehicle to lure external investors
-Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
-
-## Maybe the chips are down because memory’s too expensive
-DRAM, DRAM, DRAM / Did I ruin your plans, plans, plans?
-
-## GSK to shut historic Stevenage site and switch research centre to Cambridge
-UK drugmaker bets new site in university city will bolster pipelines of medicines
-
-## Boeing results dragged down by Air Force One refurbishment costs
-Overhaul of presidential jet offsets continued improvement in group’s commercial airliner business
+## SIP inflows of most listed MFs hit a bump
+Sequential SIP inflows slow down in June quarter on weak returns
 
 ## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
 Company confident of winning more orders from West Asia
 
-## Zepto likely to earmarks ₹2,298 crore anchor book, targets $3-billion valuation for IPO: Sources
-The company has begun discussions with prospective anchor investors, targeting a post-money valuation of around ₹29,106 crore
+## Purpose, scale and long-term bets build enduring businesses: Kumar Mangalam Birla
+Birla noted that India has the potential, the credentials and track record to become a global manufacturing powerhouse
 
-## Deep-tech startup Yaanendriya bags ₹15 crore seed round from Piper Serica
-The startup has also signed over 10 MoUs with Bharat Electronics Ltd (BEL); part of the funding to be invested in R&D to develop sensors for satellite and space applications
-
-## A plant-source Vitamin D3 looks to light-up Fermenta Biotech’s prospects
-Fermenta has a presence in the regular Vitamin D3 segment, but the company explored a sustainable natural source and found it in the byproduct of soyabean oil. Oil from soyabean seeds gets refined and goes into food, but the byproduct was available
-
-## India witnessed strong volume growth in June quarter, offers long-term growth opportunity: Coca-Cola says
-India and China outgrowing more developed markets such as Australia, Japan and Korea, Braun said
-
-## TruAlt Bioenergy Q1 net zooms to ₹59.27 crore on higher revenues
-The company reported a PAT of ₹59.27 crore for Q1FY27 over same period last year’s ₹4.73 crore; revenues for the quarter were up 96% at ₹641.41 crore against corresponding last quarter’s ₹326.63 crore
-
-## Tata Capital’s Q1FY27 consolidated net profit jumps 56% at ₹1,547 crore
-Once the Yogloans acquisition is complete, over the next two and a half to three years, TCL expects to add close to about 500 plus branches and with a portfolio of approximately ₹4,000 to ₹5,000 crores
-
-## Indian govt asks sugar dealers to hold maximum 400 tonnes stock till Nov
-Centre mandates traders to liquidate excess stock by August 1 from when the order will come into force
+## South Korean market meltdown barely ruffles India; IT stocks steal the show
+The Nifty 50 closed at 23,985, down just 0.04%; Nifty IT index rallies 3.3%
 
 ## US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop
 Broader market sentiment remained supported by another round of stronger-than-expected corporate earnings. Coca-Cola advanced 5.8% after reporting a 7% increase in revenue, despite what Chief Executive Officer Henrique Braun described as “a dynamic consumer landscape.”
@@ -90,8 +81,14 @@ Investor sentiment was also weighed down by developments in China, including the
 ## Gold price prediction today: Will gold prices stay range-bound? Check July 28, 2026 outlook
 Gold price prediction today: Gold prices are rising but are still not out of the woods, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## 'Not acceptable': CJP claims Supreme Court order on student FIRs contradicts govt assurances
-CJP founder Abhijeet Dipke also warned of fresh protest if the government missed the Tuesday deadline on FIR withdrawal.
+## 'Gaumutra expert': Priyanka Gandhi questions inclusion of IIT Madras director in PM's exam reforms panel, BJP hits back
+Responding to her remarks, BJP MP Anurag Thakur accused Gandhi of making an innocent face while covering up the wrongdoings of her own government's past.
+
+## ‘Nobody takes her seriously’: War of words escalates between Kangana and CJP after BJP MP's ‘Generation Gutter’ remark
+CJPs Saurav Das said Kangana Ranaut's own public remarks about her role as an MP reflected a lack of seriousness.
+
+## 'Massive betrayal': CJP claims Supreme Court order on student FIRs contradicts govt promises
+CJP spokesperson Saurav Das said the Supreme Court should not be ‘politicised’ and its orders ‘weaponised’ for the government’s ‘gains’.
 
 ## Schools to remain shut in 3 Odisha districts due to heavy rains: Officials
 Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur, Bargarh and Jharsuguda districts, for Wednesday
@@ -108,34 +105,28 @@ In a post on X, Dipke said the party would organise a large-scale peaceful demon
 ## India coordinates with Ukrainian authorities in search for 2 missing seafarers
 Over the past few weeks, the Indian side has repeatedly criticised attacks on merchant vessels in the Persian Gulf and the Black Sea
 
-## 'Defender of rapists is now India's education minister': Rahul slams PM Modi over Pralhad Joshi's appointment
-Congress leader Rahul Gandhi, condemned the Prime Minister's choice of Education Minister, alleging his defense of rapists.
-
-## India mocks sham election in PoK, says cosmetic exercise to cover up violations
-Jaiswal said mass protests in Pak-occupied J&K are direct consequence of its economic exploitation, denial of fundamental rights and administrative oppression
-
-## Embolo’s red vs Argentina in World Cup quarterfinal wrong, says IFAB
+## ‘People were blinded’: CJP warns of fresh nationwide protest over unfulfilled demands
 
 
-## Held after massive search, TET leak key accused taken to Bihar to recover evidence: police
+## Aishwarya Rai Bachchan gets candid about motherhood fatigue: ‘I have dozed off but…’
 
 
-## Cement-concrete (CC) roads to replace asphalt in Gujarat cities: Government
+## Government re-issues draft notification declaring over 56 K sq km of Western Ghats as eco-sensitive area
 
 
-## Santacruz-Chembur Link Road extension ready, awaits inauguration
+## Pak Gen Z should focus on India’s demand to end state-sponsored cross-border terror: MEA
 
 
-## Kangana Ranaut vs Saurav Das: BJP MP blasts CJP spokesperson over age, work, Gen Z protests
+## India launches first direct container freight train to Nepal, carrying 1,225 tonnes of canola from Kolkata port
 
 
-## ‘Paper leak’ heat against Punjab CM Mann and Education Minister intensifies, Kejriwal cancels visit
+## India curtails 8,133 GWh of solar power as grid struggles to absorb excess daytime supply
 
 
-## Delhi hit by heavy rain, waterlogging and traffic jams; IMD issues red alert
+## Italy turn back to Roberto Mancini to end World Cup exile
 
 
-## Japan earthquake: Aerial footage captures collapsed building, 400-year-old castle in ruins
+## 6 incredible coastal airports you should see at least once
 
 
 ## Turning tenants into sustainability partners
@@ -162,6 +153,9 @@ Competition among Chinese energy-storage firms is intensifying in the Middle Eas
 ## LVMH’s fashion and leather division reports 1% organic growth in second quarter
 Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
+## Compromised Candidates
+How backroom deals shape the race for secretary-general and prevent U.N. reform.
+
 ## What a Powerful El Niño Means for the World
 Governments are bracing for the fallout of the intense weather phenomenon.
 
@@ -182,9 +176,6 @@ Once close allies, the two leaders are at odds on the Iran war.
 
 ## Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
 The pact would erase decades of U.S. counterproliferation policy.
-
-## Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
-“We were looking at how to support Ukraine—now we are looking at how Ukraine can support us.”
 
 ## Vietnam’s New AI Law and Its Strategic Implications
 The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
@@ -210,6 +201,9 @@ Beijing’s engagement is more cautious, selective, and constrained than it appe
 ## India Successfully Tests Kusha Long-range Surface-to-Air Missile
 This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
 
+## Key Areas Where Water Scarcity Intensifies Risks of Conflict
+Water disputes can directly drive conflict, but more often, water scarcity acts as a catalyst — one that, combined with other pressures, raises the risk of conflict. This is nothing new; water has shaped human conflict for millennia. What’s changed is the accumulation of stress, as climate change, p
+
 ## The Octane Revolution: How Jimmy Doolittle Catalyzed a Wartime Industry
 Editor’s note: This is the sixth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
@@ -230,9 +224,6 @@ Svalbard is a stark archipelago of glaciers and coal mines lying 650 kilometers 
 
 ## Global Risks Heating Up
 Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranThe U.S.-Iranian ceasefire agreed in April began deteriorating — and the Memorandum of Understanding signed 
-
-## Before a Cyber Force, Fix Cyber Governance
-Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -258,6 +249,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Tributes paid to Lindsey Graham at US Capitol ceremony
+Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.
+
+## War on Iran: Phase II: Day 17
+Political déjà vu as US President Donald Trump says negotiations with Iran are back on.
+
+## Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House
+Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.
+
+## Online scam centres fuelling human trafficking worldwide, warns UN agency
+IOM chief says victims from more than 80 countries are lured into scam centres through fake job offers on social media.
+
+## What are Trump’s military options?
+The US president has at least three military options - none are good.
+
 ## Is Netanyahu’s Trump card losing its power in Israel?
 As US ties fray, Netanyahu's claim to unrivalled influence in Washington is under growing scrutiny.
 
@@ -266,21 +272,6 @@ Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be co
 
 ## Trump expresses frustration with Netanyahu before White House meeting
 US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.
-
-## German investigators find apparent motive after Berlin Pride attack
-Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).
-
-## FIFA World Cup: For India, qualification is still just a distant dream
-India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.
-
-## Iraqi PM visits Turkiye to boost ties despite complex challenges
-Discussions to focus on 'strategic cooperation', as well as issues related to security, water and the economy.
-
-## France and Spain brace for heatwave that could worsen raging wildfires
-Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.
-
-## Roberto Mancini named Italy head coach for second time
-Mancini coached the national side in 2018-2023 and returns to the job with Italy having missed the World Cup.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
