@@ -18,11 +18,17 @@ Kyiv hopes White House talks will result in fresh US backing against Russia
 ## Polish opposition rift hands Donald Tusk pre-election boost
 Ex-PM Mateusz Morawiecki prepares breakaway party after dozens of lawmakers expelled from rightwing PiS
 
-## Keiko Fujimori sworn in as Peru’s ninth president in 10 years
+## Dictator’s daughter Keiko Fujimori takes power in Peru
 Conservative daughter of former dictator becomes latest rightwing leader in Latin America
 
 ## Powerful earthquake hits Japan’s southern Kumamoto prefecture
 Reports of multiple deaths from tremor after blast at shopping centre and damage to factories, buildings and infrastructure
+
+## World’s biggest EV battery maker pivots to AI, grids and ships
+China’s CATL aims to become market leader for battery energy storage systems
+
+## Fifa faces fierce backlash over plans for $20bn commercial stake sale
+UK prime minister joins chorus of criticism as football’s governing body holds talks with Trump-linked investment vehicle
 
 ## Fifa plans $20bn commercial vehicle to lure external investors
 Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
@@ -32,12 +38,6 @@ Sports Direct owner discloses 4% position as it strives to establish itself in t
 
 ## Ares’ next big private capital deal looks deceptively close to home
 While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of culture
-
-## Kering sales return to growth as Gucci slowdown eases
-Fashion recovery and strong demand for jewellery and eyewear helped drive improved performance
-
-## Ebay pays couple $56mn for its role in cockroach harassment campaign
-Couple received threatening deliveries including funeral wreath after criticising ecommerce retailer in blog
 
 ## Suzlon picks Singapore as global hub to drive overseas expansion
 The Singapore office will function as the group’s international control centre, overseeing overseas sales, operations and maintenance services, banking and procurement
@@ -111,29 +111,32 @@ Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur,
 ## Karnataka man kills wife, films her hanging, shares video with family: Police
 Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
 
+## IPS trainee arrested in sexual harassment case that rocked National Police Academy
+
+
+## Panjab University scholar dies of electrocution on campus, students protest
+
+
+## BJP rejects report on Govt offer to change Pradhan portfolio
+
+
+## ‘Hit without provocation’: Ranchi woman who suffered ear injury during Sansad Chalo
+
+
+## ‘Masti must not stop’: 19-yr-old whose reels energised protest
+
+
+## ‘Copyright strikes used to extort creators’: Delhi HC asks Meta, Centre to respond
+
+
 ## In Delhi’s wholesale hub Sadar, choked drains and water inside shops
 
 
 ## Traffic snarls, water enters shops: Heavy rain sinks parts of Delhi
 
 
-## No cash in hand, aid for women with over 3 children in Delhi assistance scheme
-
-
-## CJP volunteer moves Supreme Court alleging illegal detention, harassment
-
-
-## Anti-paper leak Bill a visionary step towards safeguarding youth’s future: Govt
-
-
-## Opp: Govt not serious about education, students compelled to hit the streets
-
-
-## Gulveer Singh braves relentless rain to win historic men’s 10,000m silver at 2026 CWG
-
-
-## Harjinder Kaur wins silver, India’s 7th weightlifting medal at 2026 CWG
-
+## Elon Musk launches invite-only X Money where users can send cash to one another
+Elon Musk’s social media company X, formerly known as Twitter, launched its own bank account-like product where users can send money to one another. The service, known as X Money, is not a new bank. X Money is using technology and banking services provided by Cross River Bank and branding that backb
 
 ## Turning tenants into sustainability partners
 [The content of this article has been produced by our advertising partner.] In the built environment, long-term sustainability performance depends on how a building is designed and constructed, as well as how occupiers manage and use the space each day. That collective responsibility, carried by lan
@@ -155,9 +158,6 @@ Hong Kong’s push to draw Southeast Asian companies and markets into its financ
 
 ## CATL, BYD battle for supremacy in Middle East energy-storage market
 Competition among Chinese energy-storage firms is intensifying in the Middle East, as a massive deal that was expected to go to global electric vehicle (EV) battery king Contemporary Amperex Technology Ltd (CATL) was ultimately won by BYD and Sungrow Power Supply. Shenzhen-headquartered BYD, which m
-
-## LVMH’s fashion and leather division reports 1% organic growth in second quarter
-Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
 ## Scandal Exposes Limits of China’s Scientific Rise
 The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
@@ -255,6 +255,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Japan Kumamoto earthquake: What happened, damage, victims, latest updates
+A magnitude 6.8 earthquake struck Japan's Kyushu island, causing building collapses, fires and widespread damage.
+
 ## Israeli airstrike destroys Gaza City mosque near displacement camp
 Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
 
@@ -275,9 +278,6 @@ Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to 
 
 ## Protests in DC against Netanyahu’s meeting with Trump
 A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.
-
-## Keiko Fujimori sworn in as Peru president after narrow election win
-Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father's tactics.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
