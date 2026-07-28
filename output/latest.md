@@ -60,6 +60,9 @@ There is a much wider gap between accidents and fatalities in TN than in UP. In 
 ## Global buyers show interest in sourcing fireworks from Sivakasi
 Export logistics identified as key enabler
 
+## 'Extra payout' to Maharashtra PSU: HDFC board slaps Rs 1 lakh fines on MD, CFO
+HDFC Bank's board penalized top executives over deposit arrangements with MSRDC. The internal review found business overreach but no personal gain or mala fide intent. Top executives received nominal penalties and warning letters following the review's recommendations. This action comes as the RBI p
+
 ## Rs 100 crore club gets bigger: Number of nine-figure income filers quadruples in five years
 More Indians are reporting nine-figure incomes on tax returns. The number of these high-earners rose to 576 in the 2025-26 assessment year. This figure represents a fourfold increase from five years prior. The government is implementing measures to reduce income inequality. These measures include pr
 
@@ -79,9 +82,6 @@ India's government has not estimated E20 fuel compatible vehicles nationwide. Ho
 Improving relations between Iran and the US, softer crude oil prices and other supportive factors boosted investor confidence. Buying was broad-based.
 
 ## Stock market live: Sensex surges over 800 pts, Nifty tops 24,000 mark
-
-
-## RBI's swap scheme may attract $80-85 billion in forex inflows, says SBI report
 
 
 ## Did BJP remove youth wing leader Manika Rana over joining CJP protest? What she said
@@ -108,29 +108,35 @@ Misri’s visit follows a meeting between external affairs minister S Jaishankar
 ## Nabanna building signage changes to saffron; part of maintenance, says official
 On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
 
+## Kidnapped in Mali, Indian-origin diamond trader released after family pays Rs 44 crore ransom
+
+
+## ‘There would be firing… rapes and murders will happen’: Kerala to probe RSS leader’s remarks on Jantar Mantar protest
+
+
+## Constable suspended over use of AK-47, Bihar says action against protesters, all to be released
+
+
+## Rave parties in Parvati Valley: Supreme Court stays Himachal Pradesh High Court direction to file FIR against Kullu officials
+
+
+## Bihar, Assam to release NEET protesters; no order yet from West Bengal
+
+
+## Before Dharmendra Pradhan quit, Centre offered to change his portfolio; CJP said no
+
+
 ## Delhi Confidential: Stay Away
 
 
 ## Sharmila Dhankar wins gold, Shilpa Shyla bronze in para shot put at CWG 2026
 
 
-## Ajaya Babu wins silver, India’s 6th weightlifting medal at 2026 CWG
+## Singapore-based investors now the top non-local buyers of Hong Kong office assets
+Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain stea
 
-
-## Ministry pushing RBI to open licences for more urban cooperative banks: Secretary Ashish Kumar Bhutani
-
-
-## Commonwealth Games: Sarvesh Kushare bags silver in high jump
-
-
-## India at CWG 2026 Day 6 Schedule: Full list of Indian athletes in action on Tuesday
-
-
-## Dimple Kapadia’s ‘forever’ story with Rajesh Khanna sparks conversation on lasting love
-
-
-## Egypt conquered, Asia next: Anahat Singh plots her route to direct LA28 spot
-
+## Fortune roller-coaster: as Elon Musk loses US$130b, Chinese chip and AI founders gain
+Elon Musk poked fun at himself on social media on Saturday, saying he was a “(former) trillionaire” after losing around US$130 billion over five trading days just weeks after he became the first human to ascend beyond billionaire status. At the same time, the wealth of some executives at ChangXin Me
 
 ## A tale of two markets: Wall Street cheers record highs while Beijing deflates bubbles
 When the S&P 500, Nasdaq and Dow Jones Industrial Average hit record highs in early July, US President Donald Trump hailed it as evidence of America’s economic revival. “This is WINNING. The Golden Age of America is beginning – and we are just getting started,” he wrote in a social media post on Jul
@@ -149,12 +155,6 @@ Chipmaker CXMT surged more than fivefold on its Shanghai trading debut to become
 
 ## 7 Hong Kong developers bid for waterfront project as Kowloon renewal gathers pace
 Hong Kong’s Urban Renewal Authority (URA) received seven tender submissions for a major waterfront residential redevelopment project in Hung Hom, drawing bids from some of the city’s largest developers despite a subdued land market. The authority said on Monday that seven developers submitted tender
-
-## Quant funds blamed for driving Chinese equities slump, but data shows they were net buyers
-As Chinese equities suffered a fresh downturn in July, quantitative funds came under renewed scrutiny, accused by some investors of accelerating the sell-off through aggressive share dumping, margin lending or short positions in index futures. Industry data, however, tells a different story. Several
-
-## How UOB is turning regional scale into customer relevance
-When UOB decided in early 2022 to proceed with the acquisition of Citigroup’s consumer banking businesses in four Asean markets, there was a clear strategic intent behind the deal. The goal for the Singapore-based financial institution was to scale up its business and advance its position as a leadi
 
 ## What to Expect at the Trump-Netanyahu Showdown
 Once close allies, the two leaders are at odds on the Iran war.
@@ -252,6 +252,9 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## US diplomats walk out as France addresses UN Security Council
+US diplomats walk out of UN meeting during France's speech amid tensions over human rights chief's reappointment.
+
 ## Shot fired outside US consulate in Canada for second time this year
 Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.
 
@@ -272,9 +275,6 @@ Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile p
 
 ## Will Peru’s new leader Keiko Fujimori reject her father’s legacy?
 Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.
-
-## British court dismisses Bahrain’s bid to block activists’ spyware lawsuit
-Ruling establishes that countries using spyware on people in the UK can be sued.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
