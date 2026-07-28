@@ -1,10 +1,19 @@
 # AION Intelligence
 
-## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
-Kyiv hopes White House talks will result in fresh US backing against Russia
-
 ## Apple tops $5tn valuation for first time
 Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
+
+## Chip stocks tumble as AI sell-off deepens
+Nasdaq 100 briefly falls into correction territory ahead of Big Tech earnings
+
+## Burnham wants partnership with private sector, says UK business secretary
+Jonathan Reynolds tells FT that Starmer government dropped focus on economic growth because of ‘so many priorities’
+
+## Wachtell co-chair who grilled Musk departs for rival Gibson Dunn
+Bill Savitt leaves the corporate law powerhouse alongside five other partners
+
+## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
+Kyiv hopes White House talks will result in fresh US backing against Russia
 
 ## Polish opposition rift hands Donald Tusk pre-election boost
 Ex-PM Mateusz Morawiecki prepares breakaway party after dozens of lawmakers expelled from rightwing PiS
@@ -15,32 +24,20 @@ Conservative daughter of former dictator becomes latest rightwing leader in Lati
 ## Powerful earthquake hits Japan’s southern Kumamoto prefecture
 Reports of multiple deaths from tremor after blast at shopping centre and damage to factories, buildings and infrastructure
 
-## Fire-ravaged France evacuates tourists and braces for new heatwave
-Firefighters make progress on blazes that have displaced hundreds of thousands of people
-
-## Greens and Reform take a hit from the Burnham bounce
-Labour’s recovery appears to have come at the expense of Zack Polanski’s party
-
-## Ares’ next big private capital deal looks deceptively close to home
-While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of culture
-
 ## Fifa plans $20bn commercial vehicle to lure external investors
 Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
 
 ## Mike Ashley’s Frasers Group builds stake in Burberry
 Sports Direct owner discloses 4% position as it strives to establish itself in the luxury market
 
+## Ares’ next big private capital deal looks deceptively close to home
+While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of culture
+
 ## Kering sales return to growth as Gucci slowdown eases
 Fashion recovery and strong demand for jewellery and eyewear helped drive improved performance
 
 ## Ebay pays couple $56mn for its role in cockroach harassment campaign
 Couple received threatening deliveries including funeral wreath after criticising ecommerce retailer in blog
-
-## The US should stay open to open-weight AI
-New and cheaper models could be a boon for the growth of the tech sector
-
-## UK charities hit after specialist bank shuts off online services
-CAF Bank suspends internet banking after identifying attempted fraud
 
 ## Suzlon picks Singapore as global hub to drive overseas expansion
 The Singapore office will function as the group’s international control centre, overseeing overseas sales, operations and maintenance services, banking and procurement
@@ -114,6 +111,18 @@ Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur,
 ## Karnataka man kills wife, films her hanging, shares video with family: Police
 Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
 
+## Gulveer Singh wins India’s first men’s 10,000m medal at Commonwealth Games
+
+
+## Harjinder Kaur wins silver, India’s 7th weightlifting medal at 2026 CWG
+
+
+## 2,000 took Gujarat Ayurved varsity exam; V-C says paper ‘leak’ probe on
+
+
+## NMC releases eligibility guidelines for NEET candidates with disability – two weeks after results
+
+
 ## Himachal Pradesh: 179 roads blocked, 62 electricity distribution transformers & 59 drinking water affected
 
 
@@ -124,18 +133,6 @@ Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled 
 
 
 ## HC Bar suspends work till July 30, Bar Council reiterates support for review of LADC scheme
-
-
-## Preeti, Priya enter semis, assure India two boxing medals at CWG 2026
-
-
-## What is Oman-Iran Hormuz fee proposal, and can it break nuclear talks deadlock
-
-
-## Why do Indians account for nearly 60% of the drop in Canada’s permanent residency numbers
-
-
-## How a new US bill could ease green card path for Indian H-1B visa holders
 
 
 ## Turning tenants into sustainability partners
@@ -162,6 +159,12 @@ Competition among Chinese energy-storage firms is intensifying in the Middle Eas
 ## LVMH’s fashion and leather division reports 1% organic growth in second quarter
 Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
+## Washington’s Reset With Serbia Is a Mistake
+Trump is bolstering an aspiring autocrat’s political fortunes.
+
+## Trump’s Diplomatic Doubleheader
+The leaders of Ukraine and Israel both came to Washington to curry U.S. favor.
+
 ## Compromised Candidates
 How backroom deals shape the race for secretary-general and prevent U.N. reform.
 
@@ -179,12 +182,6 @@ The Israeli prime minister’s thinking on Palestine has always been consistent�
 
 ## The Economic War on Iran Is—and Isn’t—Working
 Devastating costs have been imposed on the Iranian economy—to unclear strategic ends.
-
-## What to Expect at the Trump-Netanyahu Showdown
-Once close allies, the two leaders are at odds on the Iran war.
-
-## Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
-The pact would erase decades of U.S. counterproliferation policy.
 
 ## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
 Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
@@ -258,29 +255,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack
+Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.
+
+## Protests in DC against Netanyahu’s meeting with Trump
+A group of demonstrators gathered near the White House to protest Benjamin Netanyahu’s visit to Washington.
+
+## Keiko Fujimori sworn in as Peru president after narrow election win
+Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father's tactics.
+
+## How US defence aid shaped Israel’s military developments since Oct 7, 2023
+US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.
+
+## New poll shows confusion over Democratic Socialists of America ideals
+Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows.
+
+## What will it take to stop the conflict in Sudan?
+The army says it's retaken a key highway linking Khartoum to El-Obeid.
+
+## West Bank quarry owner appeals to Trump after settler raid
+West Bank quarry owner appeals to Trump after settler raid
+
 ## ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
 At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel's genocide and blockade.
-
-## Malaysian foreign minister calls for review of UNHCR’s presence
-The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.
-
-## ‘No freedom at all’: Israeli closures leave West Bank patients trapped
-Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.
-
-## Uganda declares end to Ebola outbreak
-Health minister urges people in the country 'to remain alert' and continue observing public health measures.
-
-## Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows
-Excerpts from a planned documentary show the hawkish senator claiming credit for persuading Donald Trump to attack Iran.
-
-## Wildfire leaves Biscarrosse commercial district in ruins
-A devastating wildfire in southwestern France has left parts of Biscarrosse's commercial district in ruins
-
-## Inside the secret battle to document RSF abuses in Sudan
-Operating quietly, a human rights network is racing to document atrocities in Sudan before the evidence is erased.
-
-## New Party: Why Turkiye’s opposition suffered a split and what that means
-Former CHP chair Ozgur Ozel and other MPs form New Party, creating new political challenge for Erdogan's AK Party.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
