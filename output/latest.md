@@ -1,28 +1,31 @@
 # AION Intelligence
 
-## Education is not to blame for England’s Neet crisis
-Andy Burnham’s schools overhaul risks throwing babies out with the bathwater, as changes will probably require cuts elsewhere
+## How China’s grip on electrification metals could affect inflation
+Beijing’s supply-chain dominance poses major risks for the green transition
+
+## AI boom raises risks of monetary policy mistakes, warn BIS economists
+Assessing strength and timing of technology’s effect on GDP and inflation a challenge for central banks
+
+## Powerful earthquake hits Japan’s southern Kumamoto prefecture
+Buildings and bridges collapse and blast reported at shopping centre as chipmaker TSMC evacuates workers from plant
 
 ## AI stock sell-off deepens as investors dump chipmakers
 South Korea’s tech-heavy Kospi leads declines in Asia
 
-## Mercedes-Benz cuts annual forecast amid China slump
-German carmaker joins Volkswagen and BMW in warning on a tougher Chinese market
+## Sorry, but Spanish olive oil is far superior to Italian
+One grower makes a case
 
-## China’s Hefei reaps vast windfall from CXMT’s IPO
-Funds run by local government make gains of 5,000% from chipmaker’s blockbuster listing
-
-## Tariffs and Treasury yields
-Plus, re-equitisation
-
-## EU keeps firefighting planes on standby as France and Spain battle blazes
-Also in this newsletter: Meloni doubles down on tough-on-crime agenda
-
-## FirstFT: TotalEnergies to benefit from Russian sanctions U-turn
+## FirstFT: Tech stocks spiral lower
 Also in today’s newsletter: AI’s rising risk gauge and the storms intensifying wildfires
 
-## Bank of England to raise rates this year if energy prices stay high
-Read the July forecast from the FT’s Monetary Policy Radar team
+## Singapore warns of economic risks if global AI boom falters
+Central bank in city-state says AI models and quantum computing pose cyber security threats
+
+## Zelenskyy returns to Oval Office as Trump shifts towards Ukraine
+Kyiv hopes White House talks will turn improved relations with US into fresh backing against Russia
+
+## World’s largest listed hedge fund reverses outflows in key unit
+Man Group reported $2.3bn of net inflows into its lucrative absolute return division
 
 ## EY fined £1.2mn for breaching standards on Made.com audit
 Regulator says Big Four firm relied on furniture retailer’s forecasts and did not carry out ‘adequate testing’
@@ -30,35 +33,38 @@ Regulator says Big Four firm relied on furniture retailer’s forecasts and did 
 ## Barclays profits boosted by market volatility gains
 Quarterly earnings rise 31% to £3.3bn but shares sell off as UK bank fails to match Wall Street peers
 
-## Unilever sales volumes rise at fastest rate in 16 years
-World Cup promotions boost second-quarter sales in Latin America and help advance consumer goods group’s turnaround
+## Unilever sales surge after World Cup marketing blitz
+Influencer-led campaigns help maker of Dove and Sure deliver best quarter of volume growth for 16 years
 
-## Quant trading ≠ software company
-Software scales, but alpha decays
+## Mercedes-Benz cuts annual forecast amid China slump
+German carmaker joins Volkswagen and BMW in warning on tougher Chinese market
 
-## Bottled soft drinks see in-home penetration rise to 44% in March-May
-Gap between rural and urban in-home penetration reduces to 1.6%
+## Emerging behavioural trends could be a policy challenge
+Savings, investments, housing, lifestyle and consumption patterns are shifting from conventional trends. Focussed research on these is imperative
 
-## Q1 Results Today Live: CUB shares gain after Q1 results, Ambuja Cements, HUL, Suzlon Q1 profit dip, Pfizer & Radico PAT up, L&T, Cholamandalam, Tata Capital to announce Q1 results
-Q1 Results Today, 28th July 2026 Live Updates: Stay tuned for more from businessline
+## South Korean market meltdown barely ruffles India; IT stocks steal the show
+The Nifty 50 closed at 23,985, down just 0.04%; Nifty IT index rallies 3.3%
 
-## TTK Prestige quarterly profit more than doubles as consumers shift to induction cooktops
-The company reported consolidated net profit of ₹59.33 crore ($6.19 million) ‌for the quarter, up from ₹26.63 crore last ‌year
+## Delhi High Court orders winding up of Paytm Payments Bank, says RBI
+The High Court has appointed an official liquidator to oversee the winding up of Paytm Payments Bank following the RBI’s decision to revoke its banking licence over regulatory violations.
 
-## India's tobacco exports jump 166% in value over past decade to ₹17,192.04 crore
-Commerce Ministry says improved agricultural practices, transparent e-auctions and welfare schemes have boosted farmer incomes alongside record export growth.
+## Sundaram Clayton Q1 results: Consolidated net loss widens to ₹59 crore
+Cites rising input costs and geopolitical uncertainty as reasons; Consolidated revenue up 16% to ₹592 crore
 
-## Sensex today | Stock Market Live: Indian markets turn range-bound; Fed outlook, Q1 earnings keep investors cautious
-Sensex, Nifty, Share Prices LIVE: Indian equities remained range-bound on Tuesday as investors balanced easing crude oil prices against uncertainty surrounding the U.S. Federal Reserve's policy outlook. Mixed global market trends and ongoing corporate earnings also kept trading subdued despite conti
+## Industrial output rises 7.3% in June on strong manufacturing performance
+Government data showed that 19 of 23 manufacturing industry groups expanded, with electrical equipment, automobiles and food products leading growth.
 
-## Par panel summons Instagram, others over social media platforms regulation
-The meeting comes days after social media, particularly Instagram, was extensively used by the Cockroach Janta Party (CJP) to publicise and mobilise participants for its student protest at Jantar Mantar
+## HUL shares fall 7% as Q1 attributable profit drops 3% to ₹2,673 crore
+Turnover grows to ₹17,184 crore, driven by 10% underlying sales growth and 5% volume growth
 
-## Voda-Idea records mobile net additions for fifth consecutive month in June
-Reliance Jio recorded a net addition of 21,46,980 subscribers, while Bharti Airtel added the most customers during the month with a net addition of 29,89,976 subscribers
+## Canara Bank seeing strong credit demand from data centres, battery storage and power evacuation projects: MD&CEO
+We are also consciously growing our retail, agriculture and MSME portfolio, says Brajesh Kumar Singh
 
-## BJP leaders step up Instagram activity after PM's call for digital outreach
-The heightened activity comes days after Modi urged his Cabinet colleagues to engage more actively with young people through Instagram reels
+## After Kuttipuram incident, Kerala launches 24x7 highway enforcement to curb overspeeding
+The national highway network will be divided into six stretches of around 100 km each, with dedicated enforcement teams deployed round the clock in every zone throughout the week, Transport Minister C P John said
+
+## Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge
+
 
 ## Can using E20 petrol lead to insurance claim rejection? What the government said
 The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a valid reason for insurance claim rejection. Government sources have dismissed claims that using E20 fuel will invalidate vehicle insurance policies. Assertions about widespread engine damage or insect attraction from ethanol
@@ -81,56 +87,62 @@ Stock market recommendations: REC Ltd, Wipro, LIC Housing Finance, and LTM - the
 ## US firms training AI using Chinese examples: Beijing
 China's commerce ministry accused American artificial intelligence firms of using Chinese models. This statement follows recent US threats of sanctions against Chinese technology companies. Beijing stated that many US AI companies distilled Chinese models during their development processes. The mini
 
-## Canara Bank eyes $2.5 billion in foreign currency deposits
+## Uttarakhand: Approach road to new bridge caves in; Congress alleges corruption
+The ₹16-crore bridge over the Tons River was constructed after the previous bridge was washed away during last year’s monsoon
+
+## Fadnavis orders withdrawal of cases against youths booked during student protests
+Devendra Fadnavis directed the Home Department to issue orders withdrawing cases registered against youths.
+
+## Portion of newly constructed ₹16 crore bridge collapses in Dehradun after heavy rain | Video
+A bridge on the Dehradun-Paonta Sahib Highway collapsed after heavy rainfall, disrupting traffic.
+
+## 'What's your rate?': Bengaluru woman waiting for cab films harasser, man arrested
+In the post, she alleged that a scooter rider approached her while she was waiting by the roadside, made inappropriate remarks.
+
+## Committed to engaging with youth, incorporating their suggestions into policymaking: Rajasthan CM
+Committed to engaging with youth, incorporating their suggestions into policymaking: Rajasthan CM
+
+## C’garh MGNREGA graft case: Chargesheet filed against 8 ex-Kanker panchayat officials
+Investigators alleged that the procurement was carried out without following the prescribed tendering and purchase procedures
+
+## ‘Garlanding him as if he won war with Pakistan’: Congress slams Pradhan's felicitation in Parliament
+Dharmendra Pradhan recently resigned as education minister, bending to the demands of protesting students of government accountability over exam irregularities
+
+## YSRCP stages protests over DSC 'irregularities', TDP rejects charges
+YSRCP stages protests over DSC 'irregularities', TDP rejects charges
+
+## When students spoke, government listened
 
 
-## SC to hear Jagannath temple plea against animated film after Rath Yatra ends
-Justice Nagarathna observed that the court had consciously deferred the release until after the festival in view of public sensitivities.
-
-## Gurugram roads flooded after heavy rainfall as IMD sounds ‘red alert for more rains’
-Gurugram weather: Heavy rainfall hit Delhi-NCR, including Gurugram, leading the IMD to issue a red alert. The nowcast warning is active until 3:20 pm.
-
-## Kerala CM urges TN counterpart to ease curbs on stone transport
-Kerala CM urges TN counterpart to ease curbs on stone transport
-
-## School officials imprisoned, over ₹4.5 lakhs siphoned: Ghost student scam busted in Tamil Nadu
-Based on the DVAC report, the school's strength was significantly lower than the strength recorded on the official registry.
-
-## Meeting with MPs in Delhi ‘major success’: Karnataka chief minister DK Shivakumar
-The meeting, which took place, demonstrated "there is strength in unity" and reinforced the need for leaders across parties to work together for development.
-
-## Heavy rain inundates roads, markets, disrupts traffic across Delhi, NCR
-The IMD initially sounded a yellow alert before upgrading it to orange and then red around 12.25pm on Tuesday as the intensity of the rain increased
-
-## Non-compliance of IT rules, synthetically generated content: Why Centre summoned Meta's global head, Instagram chief
-A senior IT ministry official stated that the summons were sent due to the Indian policy team's inability to convey the seriousness of the issues to the US team
-
-## What CJI said on police excess, pellet gun claims and message for protesting 'cockroaches' | 5 top quotes
-Following the 'Cockroach Janta Party' protests and the alleged use of force on protesters, the SC emphasised the need for accountability in police actions.
-
-## FDA suspends licenses of milk suppliers, Bombay HC intervenes: ‘Drastic action’
+## Expert Explains | What the entry of the Houthis means for the US-Iran conflict
 
 
-## Why was Infosys fined nearly Rs 2 crore in France?
+## Days after its opening, massive crater appears on road leading to Rs 16-crore bridge in Dehradun
 
 
-## ‘Narak se swarag’: how one family turned hell into a Commonwealth gold medal
+## No more Gandhinagar trips: Gujarat raises district collectors’ land allotment powers
 
 
-## Batwara 1947 trailer: Sunny Deol takes on Pakistan again, this time for the ‘religion of Maa’
+## Case pending since 2005, Punjab and Haryana High Court ‘saves’ 2 ‘from stigma of jail life’
 
 
-## University ‘withholds’ student’s papers despite charging Rs 900 fee, ordered to pay Rs 2.55 lakh
+## ‘No promise to spare violent protesters’: Government sources counter CJP
 
 
-## ‘I am an orphan despite having a family’: Shilpa Shinde was forced to leave her Mumbai home
+## Kerala businesswoman’s Rs 25 lakh bottling machine ‘fails’ to work, wins replacement, Rs 75,000
 
 
-## Bengal Mukhya Mantri Swasthya Bima Yojana: eligibility, exclusions, how to apply
+## RBI needs to look beyond defending the rupee
 
 
-## Parliament debates examination Bill: How it compared with states’ anti-cheating laws
+## Sun Life targets Asia’s booming wealth transfer market with new platform
+Canadian insurer Sun Life has launched a new platform targeting Asia’s fastest-growing wealth management markets, as high-net-worth individuals in the region increasingly seek to use insurance products to protect their wealth and pass it on to the next generation. The integrated platform – named Sun
 
+## China’s home-grown DUV progress not the biggest threat to ASML, analysts say
+Western anxiety over a potential breakthrough in Chinese chipmaking gear may be rising, but home-grown machines are not the greatest threat facing industry leader ASML, according to analysts. The Dutch firm’s shares fell more than 8 per cent at one point on Monday in the US before closing down 5.8 p
+
+## Hong Kong’s Exchange Fund first-half earnings fall 37% on equity slump, softer bond income
+The Exchange Fund, the war chest used to defend the local currency, reported a 37 per cent decline in first-half earnings as losses in Hong Kong equities and weaker bond returns weighed on performance, the Hong Kong Monetary Authority (HKMA) said on Tuesday. Earnings stood at HK$134.7 billion (US$17
 
 ## Hong Kong’s Asean charm offensive bags US$1.5 billion Malaysian bond listing
 Hong Kong’s push to draw Southeast Asian companies and markets into its financing orbit has scored a milestone, with the Malaysian government preparing to list a US$1.5 billion Islamic bond in the international financial centre later this week. The dual listing – sold on Bursa Malaysia and Hong Kong
@@ -146,15 +158,6 @@ NASN Intelligent Tech, a mainland Chinese smart driving motion control technolog
 
 ## Singapore-based investors now the top non-local buyers of Hong Kong office assets
 Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain stea
-
-## Fortune roller-coaster: as Elon Musk loses US$130b, Chinese chip and AI founders gain
-Elon Musk poked fun at himself on social media on Saturday, saying he was a “(former) trillionaire” after losing around US$130 billion over five trading days just weeks after he became the first human to ascend beyond billionaire status. At the same time, the wealth of some executives at ChangXin Me
-
-## A tale of two markets: Wall Street cheers record highs while Beijing deflates bubbles
-When the S&P 500, Nasdaq and Dow Jones Industrial Average hit record highs in early July, US President Donald Trump hailed it as evidence of America’s economic revival. “This is WINNING. The Golden Age of America is beginning – and we are just getting started,” he wrote in a social media post on Jul
-
-## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
-Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industry’s readiness. The Hong Kong Monetary Authority (HKMA) launched its first Quantu
 
 ## The Economic War on Iran Is—and Isn’t—Working
 Devastating costs have been imposed on the Iranian economy—to unclear strategic ends.
@@ -180,29 +183,29 @@ Washington loves the idea but would see few benefits.
 ## Bill Clinton Ended Welfare and Paved the Way for MAGA
 Republicans have since turned their attention to additional pillars of the social safety net.
 
+## Vietnam’s New AI Law and Its Strategic Implications
+The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
+
+## The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?
+The vulnerabilities of Hormuz and Malacca are fundamentally different – but a closure of the Strait of Malacca would be far worse.
+
+## Indonesia’s Whoosh Feels the Squeeze in 2025
+The country's first high-speed rail line continues to operate at a loss. Will this place an unsustainable burden on its fiscal resources?
+
+## Malaysian Authorities Detain More Than 100 Rohingya Asylum Seekers Outside UNHCR Office
+The detention of the group, who were reportedly driven out of a settlement in Penang on Sunday, comes amid rising public hostility toward Rohingya refugees.
+
+## The Shifting Contours of Transnational Cybercrime in the Asia-Pacific
+A conversation with Bangkok-based anti-fraud advisor Ian Timberlake.
+
+## Resignation of Bank Indonesia Governor Shocks Markets, Raises Independence Questions
+Perry Warjiyo, who has served as governor of the central bank since 2018, said that he was stepping down for "personal reasons."
+
 ## The Limits of China’s Growing Influence at the United Nations
 Beijing’s engagement is more cautious, selective, and constrained than it appears.
 
 ## India Successfully Tests Kusha Long-range Surface-to-Air Missile
 This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
-
-## China, Japan, and the Memory Security Dilemma
-How historical memory distorts strategic signaling in Sino-Japanese relations.
-
-## India’s Gen Z Protesters Score Major Victory Against Modi Government
-After angry students forced the education minister to resign, Prime Minister Modi’s aura of invincibility has been dented.
-
-## New Global Trade Arrangement Gains Momentum – And It’s Worth Watching
-The Future of Investment and Trade Partnership, with 19 members and counting, is championing open and fair trade at a time when others are retreating.
-
-## Pakistan, China Sign $850 Million Deals to Boost Pharmaceutical Cooperation
-The costs of Pakistan’s dependence on imports for medicines and vaccines are huge. Chinese investment could end this reliance.
-
-## Kashagan Environmental Fine Enforced in Kazakhstan
-An asset freeze could be the first step of an acrimonious fight with the foreign oil majors developing one of the country’s largest oil fields.
-
-## Why Australia Struggles to Foster Asia Experts
-A new government report looks at Australia’s “Asia capability” and finds the country wanting.
 
 ## The Octane Revolution: How Jimmy Doolittle Catalyzed a Wartime Industry
 Editor’s note: This is the sixth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
@@ -252,6 +255,18 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued
+PM Sanae Takaichi urges people 'to remain vigilant for the possibility of another earthquake of similar magnitude'.
+
+## Moment 7.1-magnitude earthquake rocks southern Japan
+A magnitude 7.1 earthquake has hit Kumamoto on Japan's southern island of Kyushu.
+
+## Zinedine Zidane named as France head coach following World Cup 2026
+Ex-superstar player succeeds Didier Deschamps as France manager after the national team’s bitter semifinal exit.
+
+## Netanyahu in the White House: What’s on the agenda and what’s next?
+The Israeli PM's visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.
+
 ## ‘Future at stake’: India moves to demolish university Muslim leader founded
 Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University's 40 buildings were built illegally.
 
@@ -263,18 +278,6 @@ Colombia’s far-right president-elect says he'll close or suspend embassies in 
 
 ## ICE extends lease on Texas detention centre where three migrants died
 Three people have died in the Texas detainment centre Camp East Montana since it opened last year.
-
-## Justin Greaves sets new cricket bowling record with five wicket maiden
-Greaves, a West Indies paceman, becomes the first player in Test history to bowl five straight wicket maidens.
-
-## ‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC
-‘F*** you Bibi.’ ‘War criminal!’
-
-## Conor McGregor calls for third UFC fight against Max Holloway in 2027
-Star fighter wants another chance to take on Holloway after he sustained a knee injury at UFC 329 on July 11.
-
-## Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys
-Made up of mostly locals and some foreign visitors, a large group of volunteers step in to fix war damage.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
