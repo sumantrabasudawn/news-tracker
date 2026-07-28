@@ -1,28 +1,37 @@
 # AION Intelligence
 
-## US tech stocks enter correction as AI sell-off deepens
-Nasdaq 100 has lost more than 10% since June high as chipmakers tumble
+## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
+Kyiv hopes White House talks will turn improved relations with US into fresh backing against Russia
+
+## Chip stocks tumble as AI sell-off deepens
+Global semiconductor rout continues ahead of crucial Big Tech earnings
 
 ## Powerful earthquake hits Japan’s southern Kumamoto prefecture
 Reports of multiple deaths from blast at shopping centre and widespread damage to buildings and infrastructure
 
-## Trump sets stage for Netanyahu meeting amid tensions with Israeli PM
-Also in today’s newsletter, an uphill financial battle for Democrats in Maine Senate race
+## Wildfires are entering tipping-point territory
+Scientists need to update their models to understand how these extreme events start and spread
 
-## Air Force One refurbishment costs weigh on Boeing results
-Overhaul of presidential jet offsets continued improvement in group’s commercial airliner business
+## Turkish politician hit by rent-a-crowd scandal
+Kemal Kılıçdaroğlu, court-appointed head of Turkey’s oldest party, denounced corruption during party event
 
-## A truly progressive VAT would solve a lot of UK tax problems
-Ending exemptions while excluding low-income households would be fairer and bring in far more revenue
+## Wachtell Lipton co-chair set to depart for rival Gibson Dunn
+Bill Savitt planning to leave Wall Street law firm alongside several other partners
 
-## Fire-ravaged France evacuates tourists and braces for new heatwave
-Firefighters make progress on major blazes that have displaced hundreds of thousands of people
+## Lessons from companies learning to beat the heat
+Schneider Electric and Heineken are among large groups rolling out measures to protect workers as extreme weather intensifies
 
-## Trump’s waning sway over the world
-The habitual trolling that serves him at home is sapping his potency on the global stage
+## We need an OBR for infrastructure
+An independent expert body with the right capabilities can reassure investors that projects are worth the cost
 
-## The bad equilibrium in the energy market
-Prices are bounded in a bad equilibrium while demand and supply look set to remain off-balance
+## Apple tops $5tn valuation for first time
+Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
+
+## LA Dodgers-owner’s insurer acknowledges loans to ‘Dodger Tickets’
+Delaware Life reclassifies loans as level 1 related-party investments after labelling them unaffiliated for years
+
+## Fifa plans $20bn commercial vehicle to lure external investors
+Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
 
 ## Maybe the chips are down because memory’s too expensive
 DRAM, DRAM, DRAM / Did I ruin your plans, plans, plans?
@@ -30,38 +39,35 @@ DRAM, DRAM, DRAM / Did I ruin your plans, plans, plans?
 ## GSK to shut historic Stevenage site and switch research centre to Cambridge
 UK drugmaker bets new site in university city will bolster pipelines of medicines
 
-## Fifa plans stake sale in new $20bn commercial vehicle
-World football’s governing body is seeking to cash in on the success of this summer’s World Cup
+## Boeing results dragged down by Air Force One refurbishment costs
+Overhaul of presidential jet offsets continued improvement in group’s commercial airliner business
 
-## Coca-Cola and Unilever sales surge after World Cup marketing blitz
-Soft-drink maker’s marketing included promoting Powerade in mid-game ‘hydration breaks’
+## L&T profit up 14% at ₹4,123 crore, lifted by performance of energy, realty businesses
+Company confident of winning more orders from West Asia
 
-## How China’s grip on electrification metals could affect inflation
-Beijing’s supply-chain dominance poses major risks for the green transition
+## Zepto likely to earmarks ₹2,298 crore anchor book, targets $3-billion valuation for IPO: Sources
+The company has begun discussions with prospective anchor investors, targeting a post-money valuation of around ₹29,106 crore
 
-## Paradeep Phosphates Q1 net up 24% at ₹393 cr on higher sales
-Board approves Rs 250-cr investment in aluminium flouride plant at Paradeep
+## Deep-tech startup Yaanendriya bags ₹15 crore seed round from Piper Serica
+The startup has also signed over 10 MoUs with Bharat Electronics Ltd (BEL); part of the funding to be invested in R&D to develop sensors for satellite and space applications
 
-## Magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected
-Japan's Fire and Disaster Management Agency said there were no reports of damage to major public facilities and infrastructure, though authorities were still assessing the extent of damage
+## A plant-source Vitamin D3 looks to light-up Fermenta Biotech’s prospects
+Fermenta has a presence in the regular Vitamin D3 segment, but the company explored a sustainable natural source and found it in the byproduct of soyabean oil. Oil from soyabean seeds gets refined and goes into food, but the byproduct was available
 
-## Hyderabad start-up ecosystem must focus on growth capital, market access: Report
-The index pegged the overall ecosystem confidence score at 6.5 (out of 10)
+## India witnessed strong volume growth in June quarter, offers long-term growth opportunity: Coca-Cola says
+India and China outgrowing more developed markets such as Australia, Japan and Korea, Braun said
 
-## Broker’s call: Suntech Realty (Buy)
-Investec
+## TruAlt Bioenergy Q1 net zooms to ₹59.27 crore on higher revenues
+The company reported a PAT of ₹59.27 crore for Q1FY27 over same period last year’s ₹4.73 crore; revenues for the quarter were up 96% at ₹641.41 crore against corresponding last quarter’s ₹326.63 crore
 
-## Counterfeit handicrafts threaten Kashmir’s heritage crafts Industry
-According to artisans and officials, carpets, shawls, and walnut wood carvings are among the products that are frequently mislabeled by some traders
+## Tata Capital’s Q1FY27 consolidated net profit jumps 56% at ₹1,547 crore
+Once the Yogloans acquisition is complete, over the next two and a half to three years, TCL expects to add close to about 500 plus branches and with a portfolio of approximately ₹4,000 to ₹5,000 crores
 
-## Voda-Idea records mobile net additions for fifth consecutive month in June
-Reliance Jio recorded a net addition of 21,46,980 subscribers, while Bharti Airtel added the most customers during the month with a net addition of 29,89,976 subscribers
+## Indian govt asks sugar dealers to hold maximum 400 tonnes stock till Nov
+Centre mandates traders to liquidate excess stock by August 1 from when the order will come into force
 
-## SIP inflows of most listed MFs hits a bump
-Sequential SIP inflows slow down in June quarter on weak returns
-
-## City Union Bank Q1 profit rises 25% to ₹383 crore on NII growth
-We’re on track for 20% business growth in FY27, says CEO Vijay Anandh
+## US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop
+Broader market sentiment remained supported by another round of stronger-than-expected corporate earnings. Coca-Cola advanced 5.8% after reporting a 7% increase in revenue, despite what Chief Executive Officer Henrique Braun described as “a dynamic consumer landscape.”
 
 ## Big manufacturing push: How India is aiming to future proof its supply chains from global conflicts
 The idea is to reduce trade deficit, conserve foreign exchange reserves and also to position India as an alternative global manufacturing hub to China. What is being planned and how will the focus on the manufacturing sector help India reduce its dependence on global supplies?
@@ -84,56 +90,56 @@ Investor sentiment was also weighed down by developments in China, including the
 ## Gold price prediction today: Will gold prices stay range-bound? Check July 28, 2026 outlook
 Gold price prediction today: Gold prices are rising but are still not out of the woods, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
-## Oil prices fall to one-week low as hopes of US-Iran breakthrough ease supply concerns
-Oil prices extended losses as diplomatic talks eased supply disruption concerns. Brent crude futures and WTI crude touched their lowest levels since July. The Caspian Pipeline Consortium resumed oil loadings after a suspension. However, Middle East supply disruption fears persist amid drone attacks.
+## 'Not acceptable': CJP claims Supreme Court order on student FIRs contradicts govt assurances
+CJP founder Abhijeet Dipke also warned of fresh protest if the government missed the Tuesday deadline on FIR withdrawal.
 
-## Former UP minister Nanak Ram Bhurji dies after fall from 7th floor in Lucknow; police probe cause of death
-The officer-in-charge of the MLA residence informed the local police about a man having fallen from an upper floor behind the legislators' residential complex.
+## Schools to remain shut in 3 Odisha districts due to heavy rains: Officials
+Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur, Bargarh and Jharsuguda districts, for Wednesday
 
-## ‘Character assassination’: Drama in Parliament as Priyanka, Rijiju spar over Pralhad Joshi's appointment as edu minister
-Kiren Rijiju said that Priyanka Gandhi comments amount to “character assassination” of Pralhad and urged the House to expunge her statement from the record.
+## Karnataka man kills wife, films her hanging, shares video with family: Police
+Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
 
-## PoJK polls a 'cosmetic exercise' to mask illegal occupation, says MEA
-MEA spokesperson Randhir Jaiswal's remarks came amid continuing protests in PoJK, where demonstrators have alleged widespread electoral rigging.
+## 2 prosecutors assigned to paper leak fast-track court after judge’s message
+Senior public prosecutor VK Pathak and public prosecutor Arjun Anand would represent the State before special judge Anu Grover Baliga,
 
-## 'Desperate, fake attempts': India rejects Pakistan's claim on Indus Valley Civilisation legacy
-These remarks from the MEA spokesperson came in response to a question regarding Islamabad's recent references to the Indus Valley Civilization.
+## Abhijeet Dipke warns govt of 'massive protest' if 'witch-hunting' of students doesn't stop
+In a post on X, Dipke said the party would organise a large-scale peaceful demonstration if the alleged action against students continued.
 
-## 'Wait for report': SC on Air India crash after father of pilot seeks 'fair, transparent' probe
-While hearing the petition, the top court noted that the simulator tests had been conducted to identify the cause of the plane crash.
+## India coordinates with Ukrainian authorities in search for 2 missing seafarers
+Over the past few weeks, the Indian side has repeatedly criticised attacks on merchant vessels in the Persian Gulf and the Black Sea
 
-## NIA to take over Nagaland IED blast case that killed one Assam Rifles soldier
-In a statement on Tuesday, the Nagaland police headquarters (PHQ) said the ministry of home affairs (MHA) communicated the development to the state government
+## 'Defender of rapists is now India's education minister': Rahul slams PM Modi over Pralhad Joshi's appointment
+Congress leader Rahul Gandhi, condemned the Prime Minister's choice of Education Minister, alleging his defense of rapists.
 
-## Delhi govt to provide ₹2,500 monthly to women under Lakshmi Yojana; registrations from Aug 1
-The BJP leader added that after verification of the applications, the government will work towards releasing the first instalment by Raksha Bandhan.
+## India mocks sham election in PoK, says cosmetic exercise to cover up violations
+Jaiswal said mass protests in Pak-occupied J&K are direct consequence of its economic exploitation, denial of fundamental rights and administrative oppression
 
-## 10 years' jail, ₹50 lakh fine, two-month probes: How 2026 bill would rewrite the anti-paper leak law
-Amendments under debate in Lok Sabha places two-month cap on probes for paper leaks and gives fast-track courts statutory backing.
-
-## Clean up or pay Rs 1 lakh fine: Bengaluru residents urged to report vacant-plot waste
+## Embolo’s red vs Argentina in World Cup quarterfinal wrong, says IFAB
 
 
-## ’33 years of pain’: K S Shilpa’s journey from losing a leg at 4 to Commonwealth Games medal
+## Held after massive search, TET leak key accused taken to Bihar to recover evidence: police
 
 
-## Why the vitality of pressure groups in a democracy remains incontestable
+## Cement-concrete (CC) roads to replace asphalt in Gujarat cities: Government
 
 
-## Industrial growth rises to 7.3% in June, highest in 23 months
+## Santacruz-Chembur Link Road extension ready, awaits inauguration
 
 
-## India funds construction of school building in Nepal with NPR 75 million aid
+## Kangana Ranaut vs Saurav Das: BJP MP blasts CJP spokesperson over age, work, Gen Z protests
 
 
-## ‘Previous disability no bar’: Delhi High Court backs Rs 5 lakh accident relief for Army man
+## ‘Paper leak’ heat against Punjab CM Mann and Education Minister intensifies, Kejriwal cancels visit
 
 
-## Rashmika Mandanna reveals skincare secrets; calls herself ‘a vitamin C person’
+## Delhi hit by heavy rain, waterlogging and traffic jams; IMD issues red alert
 
 
-## Zinedine Zidane unveiled as France national team coach
+## Japan earthquake: Aerial footage captures collapsed building, 400-year-old castle in ruins
 
+
+## Turning tenants into sustainability partners
+[The content of this article has been produced by our advertising partner.] In the built environment, long-term sustainability performance depends on how a building is designed and constructed, as well as how occupiers manage and use the space each day. That collective responsibility, carried by lan
 
 ## From CXMT to Zhipu: How Alibaba’s investment pays off with a growing AI and chip portfolio
 ChangXin Memory Technologies (CXMT) and Zhipu AI have not only seen their share prices skyrocket, but they have also handed a windfall to their common backer: Alibaba Group Holding. Before the listing of China’s memory-chip giant on Monday, Alibaba owned nearly 5 per cent of CXMT, making it the chip
@@ -156,8 +162,8 @@ Competition among Chinese energy-storage firms is intensifying in the Middle Eas
 ## LVMH’s fashion and leather division reports 1% organic growth in second quarter
 Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
-## CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources
-NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) in Hong Kong as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology L
+## What a Powerful El Niño Means for the World
+Governments are bracing for the fallout of the intense weather phenomenon.
 
 ## Washington Can’t Keep Ignoring Minab
 A human rights-centered foreign policy is both a moral imperative and a geopolitical necessity.
@@ -179,9 +185,6 @@ The pact would erase decades of U.S. counterproliferation policy.
 
 ## Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
 “We were looking at how to support Ukraine—now we are looking at how Ukraine can support us.”
-
-## The Fight for International Justice Continues
-Despite setbacks, the powerful can still be held to account for their crimes.
 
 ## Vietnam’s New AI Law and Its Strategic Implications
 The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
@@ -255,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Is Netanyahu’s Trump card losing its power in Israel?
+As US ties fray, Netanyahu's claim to unrivalled influence in Washington is under growing scrutiny.
+
+## Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban
+Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.
+
+## Trump expresses frustration with Netanyahu before White House meeting
+US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.
+
+## German investigators find apparent motive after Berlin Pride attack
+Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).
+
+## FIFA World Cup: For India, qualification is still just a distant dream
+India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.
+
+## Iraqi PM visits Turkiye to boost ties despite complex challenges
+Discussions to focus on 'strategic cooperation', as well as issues related to security, water and the economy.
+
 ## France and Spain brace for heatwave that could worsen raging wildfires
 Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.
 
-## Roberto Mancini to be named Italy head coach for second time, source says
-Mancini coached the national side in 2018-2023 and reportedly returns to the job with Italy having missed the World Cup.
-
-## Israeli soldier runs marathon around Gaza outpost
-An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.
-
-## Tate brothers face at least two more weeks in US jail as bail bid reviewed
-The conditions faced by the brothers in prison in Miami are a far cry from the luxury lifestyle they once flaunted.
-
-## Trump says ‘good chance’ of progress in Iran talks. What we know
-Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.
-
-## Pregnant Palestinian woman loses baby after Israeli checkpoint stop
-Pregnant Palestinian woman loses baby after Israeli checkpoint stop
-
-## Moment Canadian politician accidentally reads AI prompt during speech
-‘Here’s a more natural flowing version of that section…’
-
-## ‘We’re here to stay’: West Bank Palestinians defy Israeli attacks
-Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.
+## Roberto Mancini named Italy head coach for second time
+Mancini coached the national side in 2018-2023 and returns to the job with Italy having missed the World Cup.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
