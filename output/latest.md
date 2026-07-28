@@ -1,34 +1,43 @@
 # AION Intelligence
 
-## Ebay to pay $55.7mn to settle case over harassment of company critics
-Couple received threatening deliveries including funeral wreath and live cockroaches after chiding retailer in blog
+## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
+Kyiv hopes White House talks will result in fresh US backing against Russia
 
-## The US should stay open to open-weight AI
-New and cheaper models could be a boon for the growth of the tech sector
+## Apple tops $5tn valuation for first time
+Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sector
+
+## Polish opposition rift hands Donald Tusk pre-election boost
+Ex-PM Mateusz Morawiecki prepares breakaway party after dozens of lawmakers expelled from rightwing PiS
+
+## Keiko Fujimori sworn in as Peru’s ninth president in 10 years
+Conservative daughter of former dictator becomes latest rightwing leader in Latin America
+
+## Powerful earthquake hits Japan’s southern Kumamoto prefecture
+Reports of multiple deaths from tremor after blast at shopping centre and damage to factories, buildings and infrastructure
 
 ## Fire-ravaged France evacuates tourists and braces for new heatwave
 Firefighters make progress on blazes that have displaced hundreds of thousands of people
 
-## Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine
-Kyiv hopes White House talks will result in fresh US backing against Russia
+## Greens and Reform take a hit from the Burnham bounce
+Labour’s recovery appears to have come at the expense of Zack Polanski’s party
 
-## Chip stocks tumble as AI sell-off deepens
-Nasdaq 100 briefly falls into correction territory ahead of raft of Big Tech earnings
+## Ares’ next big private capital deal looks deceptively close to home
+While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of culture
 
-## Co-chair of law firm Wachtell Lipton set to depart for rival Gibson Dunn
-Bill Savitt is planning to leave the corporate law powerhouse alongside several other partners
+## Fifa plans $20bn commercial vehicle to lure external investors
+Joshua Kushner set to lead investor group as football’s governing body moves to cash in on World Cup
 
-## French shipping group boosted as customers stockpile to beat Trump tariffs
-The French container shipping company predicts heightened demand will persist
-
-## Powerful earthquake hits Japan’s southern Kumamoto prefecture
-Reports of multiple deaths from blast at shopping centre and widespread damage to buildings and infrastructure
+## Mike Ashley’s Frasers Group builds stake in Burberry
+Sports Direct owner discloses 4% position as it strives to establish itself in the luxury market
 
 ## Kering sales return to growth as Gucci slowdown eases
 Fashion recovery and strong demand for jewellery and eyewear helped drive improved performance
 
-## Mike Ashley’s Frasers Group builds stake in Burberry
-Sports Direct owner discloses 4% position as it strives to establish itself in the luxury market
+## Ebay pays couple $56mn for its role in cockroach harassment campaign
+Couple received threatening deliveries including funeral wreath after criticising ecommerce retailer in blog
+
+## The US should stay open to open-weight AI
+New and cheaper models could be a boon for the growth of the tech sector
 
 ## UK charities hit after specialist bank shuts off online services
 CAF Bank suspends internet banking after identifying attempted fraud
@@ -81,13 +90,22 @@ Investor sentiment was also weighed down by developments in China, including the
 ## Gold price prediction today: Will gold prices stay range-bound? Check July 28, 2026 outlook
 Gold price prediction today: Gold prices are rising but are still not out of the woods, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
+## Odisha govt orders evacuation as over 1 lakh hit by floods
+Odisha govt orders evacuation as over 1 lakh hit by floods
+
+## Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official
+Reports on cybersecurity incident involving DRDO 'incorrect, unverified': Official
+
+## Assam govt hikes ex gratia for flood victims' kin, relaxes norms for compensation
+Assam govt hikes ex gratia for flood victims' kin, relaxes norms for compensation
+
 ## 'Gaumutra expert': Priyanka Gandhi questions inclusion of IIT Madras director in PM's exam reforms panel, BJP hits back
 Responding to her remarks, BJP MP Anurag Thakur accused Gandhi of making an innocent face while covering up the wrongdoings of her own government's past.
 
 ## ‘Nobody takes her seriously’: War of words escalates between Kangana and CJP after BJP MP's ‘Generation Gutter’ remark
 CJPs Saurav Das said Kangana Ranaut's own public remarks about her role as an MP reflected a lack of seriousness.
 
-## 'Massive betrayal': CJP claims Supreme Court order on student FIRs contradicts govt promises
+## 'Not acceptable': CJP claims Supreme Court order on student FIRs contradicts govt promises
 CJP spokesperson Saurav Das said the Supreme Court should not be ‘politicised’ and its orders ‘weaponised’ for the government’s ‘gains’.
 
 ## Schools to remain shut in 3 Odisha districts due to heavy rains: Officials
@@ -96,37 +114,28 @@ Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur,
 ## Karnataka man kills wife, films her hanging, shares video with family: Police
 Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
 
-## 2 prosecutors assigned to paper leak fast-track court after judge’s message
-Senior public prosecutor VK Pathak and public prosecutor Arjun Anand would represent the State before special judge Anu Grover Baliga,
-
-## Abhijeet Dipke warns govt of 'massive protest' if 'witch-hunting' of students doesn't stop
-In a post on X, Dipke said the party would organise a large-scale peaceful demonstration if the alleged action against students continued.
-
-## India coordinates with Ukrainian authorities in search for 2 missing seafarers
-Over the past few weeks, the Indian side has repeatedly criticised attacks on merchant vessels in the Persian Gulf and the Black Sea
-
-## ‘People were blinded’: CJP warns of fresh nationwide protest over unfulfilled demands
+## Himachal Pradesh: 179 roads blocked, 62 electricity distribution transformers & 59 drinking water affected
 
 
-## Aishwarya Rai Bachchan gets candid about motherhood fatigue: ‘I have dozed off but…’
+## 10-yr-old girl raped, 4-yr-old sister sexually abused; 61-yr-old held
 
 
-## Government re-issues draft notification declaring over 56 K sq km of Western Ghats as eco-sensitive area
+## NEET UG paper leak: CBI files charges against 13 accused
 
 
-## Pak Gen Z should focus on India’s demand to end state-sponsored cross-border terror: MEA
+## HC Bar suspends work till July 30, Bar Council reiterates support for review of LADC scheme
 
 
-## India launches first direct container freight train to Nepal, carrying 1,225 tonnes of canola from Kolkata port
+## Preeti, Priya enter semis, assure India two boxing medals at CWG 2026
 
 
-## India curtails 8,133 GWh of solar power as grid struggles to absorb excess daytime supply
+## What is Oman-Iran Hormuz fee proposal, and can it break nuclear talks deadlock
 
 
-## Italy turn back to Roberto Mancini to end World Cup exile
+## Why do Indians account for nearly 60% of the drop in Canada’s permanent residency numbers
 
 
-## 6 incredible coastal airports you should see at least once
+## How a new US bill could ease green card path for Indian H-1B visa holders
 
 
 ## Turning tenants into sustainability partners
@@ -177,29 +186,29 @@ Once close allies, the two leaders are at odds on the Iran war.
 ## Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
 The pact would erase decades of U.S. counterproliferation policy.
 
+## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
+Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
+
+## America’s Changing Policy on Afghanistan
+Washington has moved from an emphasis on human rights to “selective” contacts driven by specific cases. That's a win for the Taliban.
+
+## Sri Lanka’s Tariff Concession May Carry a Diplomatic Cost With China
+To avoid higher US tariffs, Sri Lanka is having to act as if allegations of forced labor against China, a country with a high level of mechanization, are credible.
+
+## What Ails India’s Education Sector
+What India needs is deep systemic changes to its education system, economy, and more generally, the life that it offers its youth.
+
+## Uzbekistan Launches Its First Tax-Free Crypto Mining Zone
+Uzbekistan wants to reap the economic benefits of cryptocurrency, while keeping the industry regulated.
+
+## RIMPAC 2026 and the Future of Multinational Maritime Operations in the Indo-Pacific
+This year's iteration of the exercise reflects several important strategic concepts – and a focus on countering China's navy.
+
 ## Vietnam’s New AI Law and Its Strategic Implications
 The country's government is leading Southeast Asian efforts to regulate AI technologies, but its approach has several important shortcomings.
 
 ## The Strait of Malacca: The Indo-Pacific’s Most Critical Chokepoint?
 The vulnerabilities of Hormuz and Malacca are fundamentally different – but a closure of the Strait of Malacca would be far worse.
-
-## Indonesia’s Whoosh Feels the Squeeze in 2025
-The country's first high-speed rail line continues to operate at a loss. Will this place an unsustainable burden on its fiscal resources?
-
-## Malaysian Authorities Detain More Than 100 Rohingya Asylum Seekers Outside UNHCR Office
-The detention of the group, who were reportedly driven out of a settlement in Penang on Sunday, comes amid rising public hostility toward Rohingya refugees.
-
-## The Shifting Contours of Transnational Cybercrime in the Asia-Pacific
-A conversation with Bangkok-based anti-fraud advisor Ian Timberlake.
-
-## Resignation of Bank Indonesia Governor Shocks Markets, Raises Independence Questions
-Perry Warjiyo, who has served as governor of the central bank since 2018, said that he was stepping down for "personal reasons."
-
-## The Limits of China’s Growing Influence at the United Nations
-Beijing’s engagement is more cautious, selective, and constrained than it appears.
-
-## India Successfully Tests Kusha Long-range Surface-to-Air Missile
-This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
 
 ## Key Areas Where Water Scarcity Intensifies Risks of Conflict
 Water disputes can directly drive conflict, but more often, water scarcity acts as a catalyst — one that, combined with other pressures, raises the risk of conflict. This is nothing new; water has shaped human conflict for millennia. What’s changed is the accumulation of stress, as climate change, p
@@ -249,29 +258,29 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Tributes paid to Lindsey Graham at US Capitol ceremony
-Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.
+## ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
+At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel's genocide and blockade.
 
-## War on Iran: Phase II: Day 17
-Political déjà vu as US President Donald Trump says negotiations with Iran are back on.
+## Malaysian foreign minister calls for review of UNHCR’s presence
+The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.
 
-## Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House
-Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.
+## ‘No freedom at all’: Israeli closures leave West Bank patients trapped
+Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.
 
-## Online scam centres fuelling human trafficking worldwide, warns UN agency
-IOM chief says victims from more than 80 countries are lured into scam centres through fake job offers on social media.
+## Uganda declares end to Ebola outbreak
+Health minister urges people in the country 'to remain alert' and continue observing public health measures.
 
-## What are Trump’s military options?
-The US president has at least three military options - none are good.
+## Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows
+Excerpts from a planned documentary show the hawkish senator claiming credit for persuading Donald Trump to attack Iran.
 
-## Is Netanyahu’s Trump card losing its power in Israel?
-As US ties fray, Netanyahu's claim to unrivalled influence in Washington is under growing scrutiny.
+## Wildfire leaves Biscarrosse commercial district in ruins
+A devastating wildfire in southwestern France has left parts of Biscarrosse's commercial district in ruins
 
-## Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban
-Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.
+## Inside the secret battle to document RSF abuses in Sudan
+Operating quietly, a human rights network is racing to document atrocities in Sudan before the evidence is erased.
 
-## Trump expresses frustration with Netanyahu before White House meeting
-US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.
+## New Party: Why Turkiye’s opposition suffered a split and what that means
+Former CHP chair Ozgur Ozel and other MPs form New Party, creating new political challenge for Erdogan's AK Party.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
