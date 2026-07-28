@@ -1,55 +1,73 @@
 # AION Intelligence
 
-## Johnson & Johnson settles US talcum powder lawsuit with $5.5bn payout
-About 76,000 plaintiffs claimed drugmaker’s products caused ovarian cancer
+## The unexpected winners from China’s blockbuster chip IPO
+Funds run by Hefei’s local government make gains of 5,000% from CXMT listing
+
+## Tariffs and Treasury yields
+Plus, re-equitisation
 
 ## AI stock sell-off deepens as investors dump chipmakers
-SK Hynix and Samsung shares slide and trading halt triggered on South Korea’s Kospi
+SK Hynix and Samsung shares tumble, pushing South Korea’s Kospi down more than 10%
 
-## Amazon wins as India allows foreign money into consumer ecommerce
-Also in this newsletter, first legal win for OpenAI
+## EU keeps firefighting planes on standby as France and Spain battle blazes
+Also in this newsletter: Meloni doubles down on tough-on-crime agenda
 
-## Trump seeks to revive his bond with blue-collar America
-President aims to court voters in industrial heartland as his support flags ahead of November midterms
+## FirstFT: TotalEnergies to benefit from Russian sanctions U-turn
+Also in today’s newsletter: AI’s rising risk gauge and the storms intensifying wildfires
 
-## FirstFT: Chinese chip champion CXMT surges 466% in market debut
-Also in today’s newsletter: Indonesia’s central bank chief resigns and Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough
+## Bank of England to raise rates this year if energy prices stay high
+Read the July forecast from the FT’s Monetary Policy Radar team
 
-## What next for India’s protesters?
-Opponents of ruling BJP’s imposition of ethanol-blended fuel launch campaign inspired by student-led movement
+## BYD takes on Japan’s ‘kei’ car market with tiny EV
+Chinese company challenges Toyota on home turf in bid to become world’s largest carmaker in five years
 
-## Big Tech credit risks rise sharply as AI spending soars
-Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres
+## TotalEnergies benefits from EU sanctions reprieve on Russian gas
+French energy major can continue selling LNG from its Yamal project in Siberia to Asian customers
 
-## OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns
-Software giant says ‘no choice’ but to develop AI defences against onslaught of automated attacks
+## Quant trading ≠ software company
+Software scales, but alpha decays
 
-## CXMT’s roaring IPO isn’t the bubble signal it might appear
-The Chinese group and its peers could continue to benefit if cheaper computing power results in more demand for AI
+## DCC board grapples with an M&A ‘laggard’s dilemma’
+Its price-to-earnings ratio fell from nearly 25 times in 2016 to around 11 times in early April, before its suitors emerged
 
-## US, India expanding cooperation in defence, civil nuclear sector: Senior US official
-Last year, India and the US signed a framework for a major defence partnership to strengthen interoperability across all domains, including land, sea, air, space and cyberspace
+## Is a private equity megadeal brewing?
+One of the premier private lenders on Wall Street has held talks to acquire one of the oldest and most profitable private equity firms
 
-## Anthropic’s Dario Amodei rejects open model ban but calls for testing
-Dozens of tech companies — including Anthropic’s main competitor OpenAI — have banded together to urge Washington to shy away from curbs on open-source models
+## Don’t underestimate the economic power of a UK vibe shift
+The economy still has plenty of challenges but there’s something to be said for facing them with a smile
 
-## Johnson & Johnson reaches $5.5 billion deal in baby powder cancer litigation
-J&J has maintained that its talc products are safe and asbestos-free. The company stopped selling talc-based baby powder in the US in 2020, while litigation resumed in 2025
+## Sensex today | Stock Market Live: Sensex, Nifty trade flat after firm start as investors await fresh triggers
+Sensex, Nifty, Share Prices LIVE: Indian benchmark indices surrendered most of their early gains to trade in a narrow range on Tuesday as investors turned cautious despite easing crude oil prices, with market participants awaiting fresh domestic and global cues to determine the next direction.
 
-## Sensex today | Stock Market Live: Sensex, Nifty likely to open flat as crude eases; Fed decision, chip selloff in focus
-Sensex, Nifty, Share Prices LIVE: Indian equities are expected to open flat on Tuesday as easing crude oil prices and hopes of a pause in Middle East hostilities are offset by caution ahead of the U.S. Federal Reserve's policy decision and a sharp global semiconductor selloff.
+## Cauvery water dispute: Despite farmers' opposition, Tamil Nadu CM Vijay to pursue bilateral talks with Karnataka
+Farmer representatives who attended a consultative meeting with state Agriculture Minister R Vinoth argued that direct negotiations would bypass the established legal protocol and contradict the Supreme Court verdict.
 
-## TVS Racing: The Apache legacy starts young
-The purpose-built TVS Apache RR 200 Mini will form the backbone of a structured rider development programme for aspiring racers aged 10–14 years
+## Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages
+Relations with Zelenskiy have ‌warmed as Ukraine has blunted Russian advances, while Netanyahu arrives amid growing White House frustration over the lack of progress ​toward a broader settlement in the Iran conflict
 
-## Telangana launches electronic Family Register, enables certificates through MeeSeva
-The digital Family Register aims to simplify access to government services by providing citizens with an authenticated record of their family details through the MeeSeva platform.
-
-## California Energy Commission, California Public Utilities Commission and Rajasthan Electricity Regulatory Commission Sign Landmark Memorandum of Intent to Advance Clean Energy Collaboration
-California Energy Commission, California Public Utilities Commission and Rajasthan Electricity Regulatory Commission Sign Landmark Memorandum of Intent to Advance Clean Energy Collaboration
-
-## Q1 Results Today Live: L&T, HUL, Ambuja Cements, Cholamandalam, Pfizer, Radico, Tata Capital, Suzlon, Supreme Ind, Netweb Tech to announce Q1 results, BEL, Coal India, Coforge, HUDCO, Tata Power, Canara Bank in focus
+## Q1 Results Today Live: Hindustan Unilever shares fall 5% as Q1 profit dip, L&T, Ambuja Cements, Cholamandalam, Pfizer, Radico, Tata Capital, Suzlon, Supreme Ind, Netweb Tech to announce Q1 results
 Q1 Results Today, 28th July 2026 Live Updates: Stay tuned for more from businessline
+
+## Nuvoco expects Gujarat business to match North India profitability in 2-3 years
+Backed by new capacity and wider distribution, the company is confident its western market investments will deliver stronger financial returns soon
+
+## Google rivals line up seeking damages after record $1 billion fine
+Having already absorbed billions of dollars in EU fines since 2017, Alphabet's search giant is now ​facing lawsuits from smaller rivals across Europe
+
+## MCX Aluminium: Vulnerable to fall
+MCX Aluminium contract can break ₹338 and fall to ₹328.
+
+## FSSAI gives 90 days timeline to energy drink brands for transition
+The industry has been urging the FSSAI to adopt a consultative, proportionate and risk-based approach on this issue
+
+## Oil prices fall to one-week low as hopes of US-Iran breakthrough ease supply concerns
+Oil prices extended losses as diplomatic talks eased supply disruption concerns. Brent crude futures and WTI crude touched their lowest levels since July. The Caspian Pipeline Consortium resumed oil loadings after a suspension. However, Middle East supply disruption fears persist amid drone attacks.
+
+## Top stocks to buy today: Stock market recommendations for July 28, 2026 - check list
+Stock market recommendations: REC Ltd, Wipro, LIC Housing Finance, and LTM - these stocks have been identified by Somil Mehta, Head of Retail Research, Mirae Asset ShareKhan as the top stocks to buy on July 28, 2026:
+
+## Stock market today: Nifty IT index jumps nearly 4% as tech stocks lead market rally
+
 
 ## US firms training AI using Chinese examples: Beijing
 China's commerce ministry accused American artificial intelligence firms of using Chinese models. This statement follows recent US threats of sanctions against Chinese technology companies. Beijing stated that many US AI companies distilled Chinese models during their development processes. The mini
@@ -66,65 +84,62 @@ The government has allowed the Reserve Bank of India to print two billion polyme
 ## Compromised email led to data leak, says Bank of Baroda
 
 
-## Access to bond markets must be widened: RBI
+## Rain lashes Delhi, Noida; IMD issues 'orange' alert for next two hours | Weather updates
+The Indian Meteorological Department (IMD) has warned of cloudy skies with moderate rain accompanied by gusty winds.
+
+## BJP slams Telangana govt over 'family register', alleges protection of illegal vote banks
+He asserted that his party will not allow a single illegal Rohingya, Bangladeshi or Pakistani to remain on the state's electoral rolls.
+
+## RAF fired multiple munitions during July 20 protests, 2 rounds of non-lethal plastic pellets
+RAF fired multiple munitions during July 20 protests, 2 rounds of non-lethal plastic pellets
+
+## 'Take to task whoever committed excesses': Supreme Court's stern message on security crackdown during CJP protest
+During the hearing, the top court stated that whoever committed excesses or took the law in their own hands, should be sent to task.
+
+## Centre draws more flak over E20: Gadkari and Puri's sacking demand, transport union's protest call, AAP campaign
+While AAP has announced a campaign against the E20 policy starting next month, transport unions in the national capital are also planning a protest march.
+
+## What is happening in Assam? Floods batter villages, over 4 lakh impacted, 60+ dead | Visuals
+Officials said that Assam's flood situation improved, with the number of affected people decreasing to 4.45 lakh.
+
+## RSS condemns Mohandas' controversial remarks, says views are personal
+RSS condemns Mohandas' controversial remarks, says views are personal
+
+## Smoke alert diverts Mumbai to Dubai IndiGo flight to Rajkot; all passengers safe
+The cause of the smoke indication is yet to be ascertained. The flight was operating from Dubai to Mumbai when the incident took place.
+
+## Sufi Motiwala recalls being abused by his roommate: ‘Locked myself in bathroom for 12 hours’
 
 
-## Tata Sons profit jumps 22%, new bets lose nearly 29,000 crore
+## Woman jail warder entitled to child care leave despite staff crunch: Chhattisgarh High Court
 
 
-## Rs 100 crore+ income club sees most entries in 4 years
-Government data shows 576 individuals disclosed over Rs 100 crore income in FY2024-25. This number includes 161 new high-income earners added during the past year. Most of these super-rich taxpayers are non-salaried, reflecting past income trends. Direct tax collection's share in total revenue has s
-
-## Parliament monsoon session LIVE: Stage set for anti-paper leak bill debate, Oppn to take call on next course of action
-Parliament monsoon session LIVE: Lok Sabha speaker Om Birla on Monday allotted 6 hours for the debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill, in the backdrop of student protests that forced Dharmendra Pradhan to resign.
-
-## Tejashwi Yadav warned of mass protests if Bihar didn't withdraw NEET protesters' case: 'If Samrat Chaudhary...'
-Tejashwi Yadav announced that a massive protest will take place in Bihar if chief minister Samrat Chaudhary doesn't undo the police action against students.
-
-## 8-year-old falls into water-filled rly pit in Raichur, dies: Police
-An eight-year-old boy drowned after slipping into a water filled pit dug for a railway construction project in Karnataka’s Raichur district on Sunday, police said
-
-## Cong faces no Siddaramaiah test in 2028 polls
-The Congress has weathered the transition from Siddaramaiah to DK Shivakumar in government
-
-## Cabinet expansion decision to wrap up this week, says CM
-Karnataka’s prolonged wait for a cabinet expansion entered what Congress leaders described as its final phase on Monday, with chief minister DK Shivakumar travelling to New Delhi for talks expected to settle the composition of his ministry after weeks of internal consultations
-
-## Parliament panel questions Centre’s handling of fertiliser PSU disinvestment, seeks review
-The Standing Committee on Chemicals and Fertilisers on Monday said the Department of Fertilisers had satisfactorily accepted only four of its 18 recommendations, while its replies on 11 recommendations were found inadequate, prompting the panel to reiterate its earlier observations.
-
-## Agreement being breached, CJP tells govt, threatens to resume protest
-The Cockroach Janta Party (CJP) on Monday said students and protesters were being detained or arrested in various states, particularly Assam, Bihar and West Bengal, in violation of the agreement with the Centre last week, and threatened to return to street protests if it didn’t stop
-
-## BJP seeks to regain control over narrative after student protests
-The Bharatiya Janata Party (BJP) has set out to regain control of the political narrative after the Union government was pushed on the back foot over student protests that forced the resignation of Dharmendra Pradhan as education minister, said people aware of the details
-
-## ‘I’ve decided to play on my terms’: Samson on quitting India selection ‘rat race’
+## Nearly 24,000 shift to CBSE government schools in Himachal; 330 PG medical seats planned
 
 
-## Apple reclaims title as the world’s most valuable public company
+## 11 years after losing son, Telangana High Court grants surrogacy nod to couple
 
 
-## Heart attack patients have higher levels of microplastics in their blood, says study
+## 39 Amarnath pilgrims’ narrow escape after bus crashes into house
 
 
-## Felt something hit my arm … blood dripped down to my fingers: Artist recalls moment pellets struck him during CJP protest
+## With no family in India, 44 Somali pirates seek first-ever transfer home under treaty
 
 
-## What is X Money? Elon Musk’s new app offers payments, banking and 6% yield
+## From geography to geometry of interests: The evolution of India’s strategic outlook
 
 
-## Cheap AI visuals undermine Vijay’s Rs 500 crore farewell film Jana Nayagan
+## ‘Soldier is a blank cheque written to country’: Kerala High Court upholds disability pension
 
 
-## Jana Nayagan Box Office Collection Day 5 Updates: Vijay’s film crosses Rs 230 cr mark
+## CATL, BYD battle for supremacy in Middle East energy-storage market
+Competition among Chinese energy-storage firms is intensifying in the Middle East, as a massive deal that was expected to go to global electric vehicle (EV) battery king Contemporary Amperex Technology Ltd (CATL) was ultimately won by BYD and Sungrow Power Supply. Shenzhen-headquartered BYD, which m
 
-
-## Cell Block 2B: Inside the Meerut jail barrack housing five women accused of killing their husbands
-
+## LVMH’s fashion and leather division reports 1% organic growth in second quarter
+Louis Vuitton Moët Hennessy (LVMH) reported a 1 per cent organic growth in the second quarter at its core fashion and leather goods division on Monday, ending seven straight quarters of decline, opening a busy week of French luxury results on a positive note. Over the first half, organic sales at th
 
 ## CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources
-NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology Ltd (CATL), re
+NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) in Hong Kong as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology L
 
 ## Singapore-based investors now the top non-local buyers of Hong Kong office assets
 Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain stea
@@ -140,12 +155,6 @@ Hong Kong’s banking sector is still in the early stages of preparing for cyber
 
 ## What CXMT must do to grow global memory market share and build on its surge: analysts
 Shares of ChangXin Memory Technologies (CXMT) could more than double from Monday’s close as the Chinese chipmaker expands its global dynamic random-access memory (DRAM) market share to 18 per cent by 2028, according to Nomura, which set a price target of 116 yuan. The listing of CXMT, the country’s 
-
-## Big Short trader Michael Burry’s rising bearish AI positions test China’s stock support
-China’s state support for its stock markets may face a test, as seasoned US hedge fund manager Michael Burry increased bearish wagers on artificial intelligence-linked stocks and Moody’s warned of debt risks from hyperscalers. Burry, famed for his prescient short against the US property market befor
-
-## CXMT surge shows why China stock buyers see IPOs as one-way bet
-Chipmaker CXMT surged more than fivefold on its Shanghai trading debut to become the largest mainland-listed company by market value as the artificial intelligence boom stokes demand for memory chips. The stock closed at 49 yuan, versus a sale price of 8.66 yuan. That gave the Hefei-based company a 
 
 ## What to Expect at the Trump-Netanyahu Showdown
 Once close allies, the two leaders are at odds on the Iran war.
@@ -243,6 +252,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Palestine weekly: West Bank in flames after Tal killings
+Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.
+
+## Mamdani tackles cost of living crisis in New York with 30% discounts
+New York City Mayor Zohran Mamdani has announced a new plan to sell discounted grocery baskets at city-run stores.
+
+## Malaysia detains more than 100 Rohingya seeking help from the UN
+Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.
+
+## Trump calls protester ‘communist’ after Michigan speech interruption
+A protester was removed after interrupting US President Donald Trump’s remarks at a Michigan auto event.
+
+## Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’
+Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.
+
 ## Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge
 The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.
 
@@ -252,23 +276,11 @@ US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection 
 ## Trump says Iran talks taking place during pause in US military strikes
 US President Donald Trump says talks with Iran are continuing during a pause in US military strikes
 
-## Ebola response workers strike in DR Congo as death toll spikes
-Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.
-
-## How telehealth is helping close the healthcare gap in rural Zimbabwe
-Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.
-
-## Former senior ICE official says rush for numbers is causing deaths
-Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.
-
-## Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits
-Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.
-
-## Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM
-Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.
-
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
+
+## EMPLOYEE WELLNESS: Is it Important for Businesses?
+For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
 
 ## HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case
 In a notable move, HDFC Bank has penalized senior executives and delivered warning letters after conducting an internal assessment of a deposit arrangement from 2017 and 2021. The bank's board determined that the actions were categorized as business overreach, lacking any improper intentions. Conseq
@@ -287,9 +299,6 @@ The framework calls for pre deployment validation, continuous monitoring and str
 
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
-
-## JSA Boardroom Connect Chennai Edition to examine India's evolvingmanufacturing regulatory and governance landscape
-The JSA Boardroom Connect in Chennai, scheduled for July 24, 2026, will bring together CXOs, legal, finance, and compliance leaders for a closed-door discussion on "The Indian Manufacturing Paradigm: The Evolving Regulatory & GovernanceLandscape."
 
 ## RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll
 Economists predict the Reserve Bank of India will maintain its key interest rate at 5.25% through August. This decision comes as the central bank assesses global war impacts and domestic price pressures. Inflation has risen above the target, but rate hikes are considered premature by many experts. T
