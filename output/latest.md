@@ -1,9 +1,21 @@
 # AION Intelligence
 
+## Johnson & Johnson settles US talcum powder lawsuit with $5.5bn payout
+About 76,000 plaintiffs claimed drugmaker’s products caused ovarian cancer
+
+## AI stock sell-off deepens as investors dump chipmakers
+SK Hynix and Samsung shares slide and trading halt triggered on South Korea’s Kospi
+
+## Amazon wins as India allows foreign money into consumer ecommerce
+Also in this newsletter, first legal win for OpenAI
+
+## Trump seeks to revive his bond with blue-collar America
+President aims to court voters in industrial heartland as his support flags ahead of November midterms
+
 ## FirstFT: Chinese chip champion CXMT surges 466% in market debut
 Also in today’s newsletter: Indonesia’s central bank chief resigns and Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough
 
-## Success of India’s ‘cockroach’ protests energises critics of Modi government
+## What next for India’s protesters?
 Opponents of ruling BJP’s imposition of ethanol-blended fuel launch campaign inspired by student-led movement
 
 ## Big Tech credit risks rise sharply as AI spending soars
@@ -12,125 +24,107 @@ Investors are increasingly concerned over rush of borrowing to fund huge investm
 ## OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns
 Software giant says ‘no choice’ but to develop AI defences against onslaught of automated attacks
 
-## France and Spain brace for more extreme heat as wildfires rage
-French President Emmanuel Macron warns ‘weeks ahead will be hard’ on visit to firefighting centre in the Gironde region
-
 ## CXMT’s roaring IPO isn’t the bubble signal it might appear
 The Chinese group and its peers could continue to benefit if cheaper computing power results in more demand for AI
 
-## Andy Burnham aims to cut welfare bill by getting young people into work
-UK premier draws on experience as Greater Manchester mayor with move to link up schools and employers
+## US, India expanding cooperation in defence, civil nuclear sector: Senior US official
+Last year, India and the US signed a framework for a major defence partnership to strengthen interoperability across all domains, including land, sea, air, space and cyberspace
 
-## Trump says Israel ‘would not survive’ without US
-Remarks come ahead of meeting where Benjamin Netanyahu is expected to make case for expanding war with Iran
+## Anthropic’s Dario Amodei rejects open model ban but calls for testing
+Dozens of tech companies — including Anthropic’s main competitor OpenAI — have banded together to urge Washington to shy away from curbs on open-source models
 
-## Ares Management has held talks to buy Leonard Green & Partners
-A deal between the LA groups would dramatically expand the size of Ares’ private equity business
+## Johnson & Johnson reaches $5.5 billion deal in baby powder cancer litigation
+J&J has maintained that its talc products are safe and asbestos-free. The company stopped selling talc-based baby powder in the US in 2020, while litigation resumed in 2025
 
-## Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough
-Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research
+## Sensex today | Stock Market Live: Sensex, Nifty likely to open flat as crude eases; Fed decision, chip selloff in focus
+Sensex, Nifty, Share Prices LIVE: Indian equities are expected to open flat on Tuesday as easing crude oil prices and hopes of a pause in Middle East hostilities are offset by caution ahead of the U.S. Federal Reserve's policy decision and a sharp global semiconductor selloff.
 
-## Amazon targets Musk’s Starlink with satellite constellation for mobile services
-Tech giant files to launch more than 5,000 satellites to provide global consumer service
+## TVS Racing: The Apache legacy starts young
+The purpose-built TVS Apache RR 200 Mini will form the backbone of a structured rider development programme for aspiring racers aged 10–14 years
 
-## Dior rebound helps LVMH’s fashion business return to growth
-Luxury giant’s crucial fashion and leather goods division back in growth for first time in almost two years
+## Telangana launches electronic Family Register, enables certificates through MeeSeva
+The digital Family Register aims to simplify access to government services by providing citizens with an authenticated record of their family details through the MeeSeva platform.
 
-## Clarity on tax regulation indicates government’s commitment for total visibility in crypto trading: experts
-Experts view this move as a significant step toward curbing illicit transactions and aligning India’s tax standards with global frameworks.
+## California Energy Commission, California Public Utilities Commission and Rajasthan Electricity Regulatory Commission Sign Landmark Memorandum of Intent to Advance Clean Energy Collaboration
+California Energy Commission, California Public Utilities Commission and Rajasthan Electricity Regulatory Commission Sign Landmark Memorandum of Intent to Advance Clean Energy Collaboration
 
-## FSSAI gives 90 days timeline to energy drink brands for transition
-The industry has been urging the FSSAI to adopt a consultative, proportionate and risk-based approach on this issue
+## Q1 Results Today Live: L&T, HUL, Ambuja Cements, Cholamandalam, Pfizer, Radico, Tata Capital, Suzlon, Supreme Ind, Netweb Tech to announce Q1 results, BEL, Coal India, Coforge, HUDCO, Tata Power, Canara Bank in focus
+Q1 Results Today, 28th July 2026 Live Updates: Stay tuned for more from businessline
 
-## HDFC Bank board issues warning letters, ₹ 1 lakh penalty to CEO, CFO in MSRDC deposit case
-This decision, made on July 23, 2026, came after a special committee found their actions to be “business overreach” rather than outright wrongdoing
+## US firms training AI using Chinese examples: Beijing
+China's commerce ministry accused American artificial intelligence firms of using Chinese models. This statement follows recent US threats of sanctions against Chinese technology companies. Beijing stated that many US AI companies distilled Chinese models during their development processes. The mini
 
-## ESIC amnesty scheme adds 1.38 lakh employers, 1.12 cr workers; Maharashtra leads among States, UTs
-Similarly, in Tamil Nadu 12683 companies and 12,65876 workers enrolled themselved with the ESIC
-
-## Worldwide IT spending to grow 14.2% in 2026 to $6.37 trillion: Gartner
-Spending on data centre systems is forecast to jump 62.5 per cent
-
-## India’s kharif sowing deficit shrinks to 5%, as 71% of normal acreage covered
-The sowing area in on-going Kharif season has reached 787.38 lh as of July 24 compared with 826.19 lh in the year-ago period, down by 4.7%, the agriculture ministry said in its weekly update Monday
-
-## Tamil Nadu tops road accidents, Uttar Pradesh remains deadliest State
-There is a much wider gap between accidents and fatalities in TN than in UP. In 2025, TN recorded 3.86 accidents for every road fatality, compared with 1.80 accidents per fatality in UP
-
-## Global buyers show interest in sourcing fireworks from Sivakasi
-Export logistics identified as key enabler
-
-## 'Extra payout' to Maharashtra PSU: HDFC board slaps Rs 1 lakh fines on MD, CFO
-HDFC Bank's board penalized top executives over deposit arrangements with MSRDC. The internal review found business overreach but no personal gain or mala fide intent. Top executives received nominal penalties and warning letters following the review's recommendations. This action comes as the RBI p
-
-## Rs 100 crore club gets bigger: Number of nine-figure income filers quadruples in five years
-More Indians are reporting nine-figure incomes on tax returns. The number of these high-earners rose to 576 in the 2025-26 assessment year. This figure represents a fourfold increase from five years prior. The government is implementing measures to reduce income inequality. These measures include pr
-
-## Why HDFC Bank’s board has imposed a Rs 1 lakh penalty each on its MD, CFO and Group head
-The board also issued warning letters to the other employees involved in the case, which relates to the mobilisation of large deposits from MSRDC between 2017 and 2021 through the alleged payment of around Rs 45 crore under the head of marketing expenses.
-
-## US stock market today: Wall Street rallies as US-Iran tensions ease; Nasdaq rises 1%
-Early trading saw the S&P 500 rise 0.8%, recovering after two consecutive weeks of losses. The Dow Jones Industrial Average advanced 581 points, while the Nasdaq Composite gained 1%.
-
-## Oil on edge, rupee steady: How geopolitics and RBI are lifting the currency ahead of Monetary policy committee meeting
-Analysts anticipate the Indian rupee entering a stable phase soon. Global crude oil prices will continue to significantly influence the currency's movement. Sustained high oil prices may increase inflation and widen India's current account deficit. However, a steep depreciation in the rupee is not e
-
-## Ethanol-blended petrol rollout: Govt says 'no assessment done' on number of E20-compatible vehicles
-India's government has not estimated E20 fuel compatible vehicles nationwide. However, the ethanol blending program is scientifically validated and consultative. Studies and industry data confirm E20 fuel is safe for vehicle use. Legacy vehicles showed no significant performance variations or wear o
-
-## Stock market today: BSE Sensex rallies over 750 points, Nifty50 ends shy of 24,000 - top reasons for rise
-Improving relations between Iran and the US, softer crude oil prices and other supportive factors boosted investor confidence. Buying was broad-based.
-
-## Stock market live: Sensex surges over 800 pts, Nifty tops 24,000 mark
+## Canara Bank eyes $2.5 billion in foreign currency deposits
 
 
-## Did BJP remove youth wing leader Manika Rana over joining CJP protest? What she said
-Manika Rana clarified that she was not expelled from the post, instead she was relieved of it a few months ago, adding that she still is a part of the party.
+## Rupee surges 66 paise on RBI governor's remark, sensex up 776 points
+The rupee strengthened significantly against the US dollar on Monday. RBI governor Sanjay Malhotra indicated the domestic currency was undervalued. Foreign currency inflows, particularly FCNR(B) deposits, also supported the rupee's rise. Global crude prices declined sharply, further aiding the curre
 
-## Okayed trials for polymer notes for ₹10, 20; no plan to replace paper yet: Govt
-RBI, acting on a recommendation from its Central Board, proposed printing 1 billion each of ₹10 and ₹20 polymer banknotes for field trials
+## Government nod for 2 billion polymer banknotes of Rs 10 & Rs 20
+The government has allowed the Reserve Bank of India to print two billion polymer notes. These new polymer notes will be printed for field trials and regular issuance. The minister stated that paper and polymer currency will coexist in circulation. RBI is currently sourcing materials for these polym
 
-## 101 murder accused among 989 identified in CJP protest: Delhi police officials
-Of the 2,873 people identified through CCTV footage, 989 were found to have criminal antecedents, including cases of murder, robbery and sexual assault.
-
-## Odisha Crime Branch to probe missing judicial report on VHP leader’s killing
-VHP leader Laxmanananda Saraswati and four associates were shot dead by Maoists at his ashram in Odisha’s Kandhamal district on Aug. 23, 2008
-
-## Bihar govt relents, to withdraw youth protest-linked cases, release all arrested after CJP, Oppn threaten new stir
-Samrat govt announced it will not take punitive or retaliatory legal action against individuals involved in protests anywhere in Bihar prior to 6 pm, July 26
-
-## Vikram Misri in Beijing to push ties, stress border peace and trade concerns
-Misri’s visit follows a meeting between external affairs minister S Jaishankar and his Chinese counterpart Wang Yi on July 22
-
-## ‘Different flags, same playbook’: Sonam Wangchuk's wife slams BJP, Congress over labels
-“India needs more than just a change of government. It needs a change in the very grammar of politics,” Angmo said.
-
-## Nabanna building signage changes to saffron; part of maintenance, says official
-On May 10, the entire Nabanna building was decorated with saffron lights, ahead of CM Suvendu Adhikari’s first administrative meeting
-
-## Kidnapped in Mali, Indian-origin diamond trader released after family pays Rs 44 crore ransom
+## Compromised email led to data leak, says Bank of Baroda
 
 
-## ‘There would be firing… rapes and murders will happen’: Kerala to probe RSS leader’s remarks on Jantar Mantar protest
+## Access to bond markets must be widened: RBI
 
 
-## Constable suspended over use of AK-47, Bihar says action against protesters, all to be released
+## Tata Sons profit jumps 22%, new bets lose nearly 29,000 crore
 
 
-## Rave parties in Parvati Valley: Supreme Court stays Himachal Pradesh High Court direction to file FIR against Kullu officials
+## Rs 100 crore+ income club sees most entries in 4 years
+Government data shows 576 individuals disclosed over Rs 100 crore income in FY2024-25. This number includes 161 new high-income earners added during the past year. Most of these super-rich taxpayers are non-salaried, reflecting past income trends. Direct tax collection's share in total revenue has s
+
+## Parliament monsoon session LIVE: Stage set for anti-paper leak bill debate, Oppn to take call on next course of action
+Parliament monsoon session LIVE: Lok Sabha speaker Om Birla on Monday allotted 6 hours for the debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill, in the backdrop of student protests that forced Dharmendra Pradhan to resign.
+
+## Tejashwi Yadav warned of mass protests if Bihar didn't withdraw NEET protesters' case: 'If Samrat Chaudhary...'
+Tejashwi Yadav announced that a massive protest will take place in Bihar if chief minister Samrat Chaudhary doesn't undo the police action against students.
+
+## 8-year-old falls into water-filled rly pit in Raichur, dies: Police
+An eight-year-old boy drowned after slipping into a water filled pit dug for a railway construction project in Karnataka’s Raichur district on Sunday, police said
+
+## Cong faces no Siddaramaiah test in 2028 polls
+The Congress has weathered the transition from Siddaramaiah to DK Shivakumar in government
+
+## Cabinet expansion decision to wrap up this week, says CM
+Karnataka’s prolonged wait for a cabinet expansion entered what Congress leaders described as its final phase on Monday, with chief minister DK Shivakumar travelling to New Delhi for talks expected to settle the composition of his ministry after weeks of internal consultations
+
+## Parliament panel questions Centre’s handling of fertiliser PSU disinvestment, seeks review
+The Standing Committee on Chemicals and Fertilisers on Monday said the Department of Fertilisers had satisfactorily accepted only four of its 18 recommendations, while its replies on 11 recommendations were found inadequate, prompting the panel to reiterate its earlier observations.
+
+## Agreement being breached, CJP tells govt, threatens to resume protest
+The Cockroach Janta Party (CJP) on Monday said students and protesters were being detained or arrested in various states, particularly Assam, Bihar and West Bengal, in violation of the agreement with the Centre last week, and threatened to return to street protests if it didn’t stop
+
+## BJP seeks to regain control over narrative after student protests
+The Bharatiya Janata Party (BJP) has set out to regain control of the political narrative after the Union government was pushed on the back foot over student protests that forced the resignation of Dharmendra Pradhan as education minister, said people aware of the details
+
+## ‘I’ve decided to play on my terms’: Samson on quitting India selection ‘rat race’
 
 
-## Bihar, Assam to release NEET protesters; no order yet from West Bengal
+## Apple reclaims title as the world’s most valuable public company
 
 
-## Before Dharmendra Pradhan quit, Centre offered to change his portfolio; CJP said no
+## Heart attack patients have higher levels of microplastics in their blood, says study
 
 
-## Delhi Confidential: Stay Away
+## Felt something hit my arm … blood dripped down to my fingers: Artist recalls moment pellets struck him during CJP protest
 
 
-## Sharmila Dhankar wins gold, Shilpa Shyla bronze in para shot put at CWG 2026
+## What is X Money? Elon Musk’s new app offers payments, banking and 6% yield
 
+
+## Cheap AI visuals undermine Vijay’s Rs 500 crore farewell film Jana Nayagan
+
+
+## Jana Nayagan Box Office Collection Day 5 Updates: Vijay’s film crosses Rs 230 cr mark
+
+
+## Cell Block 2B: Inside the Meerut jail barrack housing five women accused of killing their husbands
+
+
+## CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources
+NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology Ltd (CATL), re
 
 ## Singapore-based investors now the top non-local buyers of Hong Kong office assets
 Singapore-based investors have become the largest group of non-local buyers of commercial properties in Hong Kong, drawn by the sizeable correction in the prices of distressed assets amid a slump in the city’s office segment, according to Colliers. The demand from Singapore was likely to remain stea
@@ -152,9 +146,6 @@ China’s state support for its stock markets may face a test, as seasoned US he
 
 ## CXMT surge shows why China stock buyers see IPOs as one-way bet
 Chipmaker CXMT surged more than fivefold on its Shanghai trading debut to become the largest mainland-listed company by market value as the artificial intelligence boom stokes demand for memory chips. The stock closed at 49 yuan, versus a sale price of 8.66 yuan. That gave the Hefei-based company a 
-
-## 7 Hong Kong developers bid for waterfront project as Kowloon renewal gathers pace
-Hong Kong’s Urban Renewal Authority (URA) received seven tender submissions for a major waterfront residential redevelopment project in Hung Hom, drawing bids from some of the city’s largest developers despite a subdued land market. The authority said on Monday that seven developers submitted tender
 
 ## What to Expect at the Trump-Netanyahu Showdown
 Once close allies, the two leaders are at odds on the Iran war.
@@ -180,6 +171,9 @@ Republicans have since turned their attention to additional pillars of the socia
 ## The Kremlin’s Easy Money Is Gone
 Russia still has assets to tap for its war, but the political costs are growing.
 
+## The Limits of China’s Growing Influence at the United Nations
+Beijing’s engagement is more cautious, selective, and constrained than it appears.
+
 ## India Successfully Tests Kusha Long-range Surface-to-Air Missile
 This is an important milestone in India’s evolving multi-layered long-range air defense architecture envisaged under Mission Sudarshan Chakra.
 
@@ -200,9 +194,6 @@ An asset freeze could be the first step of an acrimonious fight with the foreign
 
 ## Why Australia Struggles to Foster Asia Experts
 A new government report looks at Australia’s “Asia capability” and finds the country wanting.
-
-## Asia’s Overlooked Maritime Flashpoints
-Besides the South China Sea, there are various waterways under contention, from open ocean to marshlands and rivers.
 
 ## Zelensky’s Political Storm Starts to Clear
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
@@ -252,32 +243,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## US diplomats walk out as France addresses UN Security Council
-US diplomats walk out of UN meeting during France's speech amid tensions over human rights chief's reappointment.
+## Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge
+The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.
 
-## Shot fired outside US consulate in Canada for second time this year
-Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.
+## US warns hundreds of Boeing jets may require seat safety inspections
+US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection of 453 US-registered jets.
 
-## Video shows man subdued after stabbing three women in Paris
-Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.
+## Trump says Iran talks taking place during pause in US military strikes
+US President Donald Trump says talks with Iran are continuing during a pause in US military strikes
 
-## Trump asks US Supreme Court to allow mail-in voting restrictions
-A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.
+## Ebola response workers strike in DR Congo as death toll spikes
+Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.
 
-## UN slams Israel’s expansion of illegal settlements in occupied West Bank
-UN chief Guterres says settlements a 'flagrant violation' of international law, amid escalating violence.
+## How telehealth is helping close the healthcare gap in rural Zimbabwe
+Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.
 
-## Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions
-Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.
+## Former senior ICE official says rush for numbers is causing deaths
+Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.
 
-## Hopes of return to diplomacy as US-Iran hold fire for third day
-Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.
+## Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits
+Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.
 
-## Will Peru’s new leader Keiko Fujimori reject her father’s legacy?
-Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.
+## Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM
+Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.
 
 ## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
 Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
+
+## HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case
+In a notable move, HDFC Bank has penalized senior executives and delivered warning letters after conducting an internal assessment of a deposit arrangement from 2017 and 2021. The bank's board determined that the actions were categorized as business overreach, lacking any improper intentions. Conseq
 
 ## August Rush: Over 2 dozen companies plan Street debut next month
 India's primary market momentum continues with over two dozen issuers planning IPOs. These companies aim to collectively raise approximately ₹35,000 crore in the upcoming month. New-age companies like Zepto and PhonePe are expected to lead this significant market activity. Investor appetite is retur
@@ -296,9 +290,6 @@ Latest Parliament data show third pilot round has already surpassed physical joi
 
 ## JSA Boardroom Connect Chennai Edition to examine India's evolvingmanufacturing regulatory and governance landscape
 The JSA Boardroom Connect in Chennai, scheduled for July 24, 2026, will bring together CXOs, legal, finance, and compliance leaders for a closed-door discussion on "The Indian Manufacturing Paradigm: The Evolving Regulatory & GovernanceLandscape."
-
-## Centralised GST administration can cut duplicate audits, compliance costs; Centre State jurisdiction key, say experts
-Tax experts say a PAN level administrative framework could bring greater consistency to audits and tax positions for multi state businesses, but caution that the model must preserve State oversight, avoid overlapping powers and be backed by a unified digital system.
 
 ## RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll
 Economists predict the Reserve Bank of India will maintain its key interest rate at 5.25% through August. This decision comes as the central bank assesses global war impacts and domestic price pressures. Inflation has risen above the target, but rate hikes are considered premature by many experts. T
