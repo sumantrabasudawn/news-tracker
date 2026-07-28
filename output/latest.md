@@ -1,13 +1,19 @@
 # AION Intelligence
 
-## The unexpected winners from China’s blockbuster chip IPO
-Funds run by Hefei’s local government make gains of 5,000% from CXMT listing
+## Education is not to blame for England’s Neet crisis
+Andy Burnham’s schools overhaul risks throwing babies out with the bathwater, as changes will probably require cuts elsewhere
+
+## AI stock sell-off deepens as investors dump chipmakers
+South Korea’s tech-heavy Kospi leads declines in Asia
+
+## Mercedes-Benz cuts annual forecast amid China slump
+German carmaker joins Volkswagen and BMW in warning on a tougher Chinese market
+
+## China’s Hefei reaps vast windfall from CXMT’s IPO
+Funds run by local government make gains of 5,000% from chipmaker’s blockbuster listing
 
 ## Tariffs and Treasury yields
 Plus, re-equitisation
-
-## AI stock sell-off deepens as investors dump chipmakers
-SK Hynix and Samsung shares tumble, pushing South Korea’s Kospi down more than 10%
 
 ## EU keeps firefighting planes on standby as France and Spain battle blazes
 Also in this newsletter: Meloni doubles down on tough-on-crime agenda
@@ -18,47 +24,50 @@ Also in today’s newsletter: AI’s rising risk gauge and the storms intensifyi
 ## Bank of England to raise rates this year if energy prices stay high
 Read the July forecast from the FT’s Monetary Policy Radar team
 
-## BYD takes on Japan’s ‘kei’ car market with tiny EV
-Chinese company challenges Toyota on home turf in bid to become world’s largest carmaker in five years
+## EY fined £1.2mn for breaching standards on Made.com audit
+Regulator says Big Four firm relied on furniture retailer’s forecasts and did not carry out ‘adequate testing’
 
-## TotalEnergies benefits from EU sanctions reprieve on Russian gas
-French energy major can continue selling LNG from its Yamal project in Siberia to Asian customers
+## Barclays profits boosted by market volatility gains
+Quarterly earnings rise 31% to £3.3bn but shares sell off as UK bank fails to match Wall Street peers
+
+## Unilever sales volumes rise at fastest rate in 16 years
+World Cup promotions boost second-quarter sales in Latin America and help advance consumer goods group’s turnaround
 
 ## Quant trading ≠ software company
 Software scales, but alpha decays
 
-## DCC board grapples with an M&A ‘laggard’s dilemma’
-Its price-to-earnings ratio fell from nearly 25 times in 2016 to around 11 times in early April, before its suitors emerged
+## Bottled soft drinks see in-home penetration rise to 44% in March-May
+Gap between rural and urban in-home penetration reduces to 1.6%
 
-## Is a private equity megadeal brewing?
-One of the premier private lenders on Wall Street has held talks to acquire one of the oldest and most profitable private equity firms
-
-## Don’t underestimate the economic power of a UK vibe shift
-The economy still has plenty of challenges but there’s something to be said for facing them with a smile
-
-## Sensex today | Stock Market Live: Sensex, Nifty trade flat after firm start as investors await fresh triggers
-Sensex, Nifty, Share Prices LIVE: Indian benchmark indices surrendered most of their early gains to trade in a narrow range on Tuesday as investors turned cautious despite easing crude oil prices, with market participants awaiting fresh domestic and global cues to determine the next direction.
-
-## Cauvery water dispute: Despite farmers' opposition, Tamil Nadu CM Vijay to pursue bilateral talks with Karnataka
-Farmer representatives who attended a consultative meeting with state Agriculture Minister R Vinoth argued that direct negotiations would bypass the established legal protocol and contradict the Supreme Court verdict.
-
-## Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages
-Relations with Zelenskiy have ‌warmed as Ukraine has blunted Russian advances, while Netanyahu arrives amid growing White House frustration over the lack of progress ​toward a broader settlement in the Iran conflict
-
-## Q1 Results Today Live: Hindustan Unilever shares fall 5% as Q1 profit dip, L&T, Ambuja Cements, Cholamandalam, Pfizer, Radico, Tata Capital, Suzlon, Supreme Ind, Netweb Tech to announce Q1 results
+## Q1 Results Today Live: CUB shares gain after Q1 results, Ambuja Cements, HUL, Suzlon Q1 profit dip, Pfizer & Radico PAT up, L&T, Cholamandalam, Tata Capital to announce Q1 results
 Q1 Results Today, 28th July 2026 Live Updates: Stay tuned for more from businessline
 
-## Nuvoco expects Gujarat business to match North India profitability in 2-3 years
-Backed by new capacity and wider distribution, the company is confident its western market investments will deliver stronger financial returns soon
+## TTK Prestige quarterly profit more than doubles as consumers shift to induction cooktops
+The company reported consolidated net profit of ₹59.33 crore ($6.19 million) ‌for the quarter, up from ₹26.63 crore last ‌year
 
-## Google rivals line up seeking damages after record $1 billion fine
-Having already absorbed billions of dollars in EU fines since 2017, Alphabet's search giant is now ​facing lawsuits from smaller rivals across Europe
+## India's tobacco exports jump 166% in value over past decade to ₹17,192.04 crore
+Commerce Ministry says improved agricultural practices, transparent e-auctions and welfare schemes have boosted farmer incomes alongside record export growth.
 
-## MCX Aluminium: Vulnerable to fall
-MCX Aluminium contract can break ₹338 and fall to ₹328.
+## Sensex today | Stock Market Live: Indian markets turn range-bound; Fed outlook, Q1 earnings keep investors cautious
+Sensex, Nifty, Share Prices LIVE: Indian equities remained range-bound on Tuesday as investors balanced easing crude oil prices against uncertainty surrounding the U.S. Federal Reserve's policy outlook. Mixed global market trends and ongoing corporate earnings also kept trading subdued despite conti
 
-## FSSAI gives 90 days timeline to energy drink brands for transition
-The industry has been urging the FSSAI to adopt a consultative, proportionate and risk-based approach on this issue
+## Par panel summons Instagram, others over social media platforms regulation
+The meeting comes days after social media, particularly Instagram, was extensively used by the Cockroach Janta Party (CJP) to publicise and mobilise participants for its student protest at Jantar Mantar
+
+## Voda-Idea records mobile net additions for fifth consecutive month in June
+Reliance Jio recorded a net addition of 21,46,980 subscribers, while Bharti Airtel added the most customers during the month with a net addition of 29,89,976 subscribers
+
+## BJP leaders step up Instagram activity after PM's call for digital outreach
+The heightened activity comes days after Modi urged his Cabinet colleagues to engage more actively with young people through Instagram reels
+
+## Can using E20 petrol lead to insurance claim rejection? What the government said
+The Ministry of Petroleum and Natural Gas clarified E20 petrol use is not a valid reason for insurance claim rejection. Government sources have dismissed claims that using E20 fuel will invalidate vehicle insurance policies. Assertions about widespread engine damage or insect attraction from ethanol
+
+## South Korea's KOSPI crashes around 11%: Circuit breaker triggered, market sees worst session in 5 months
+Investor sentiment was also weighed down by developments in China, including the blockbuster listing of ChangXin Memory Technologies (CXMT) and reports that a Chinese state-backed company has started manufacturing immersion DUV lithography equipment.
+
+## Gold price prediction today: Will gold prices stay range-bound? Check July 28, 2026 outlook
+Gold price prediction today: Gold prices are rising but are still not out of the woods, says Praveen Singh, Head Currencies and Commodities, Mirae Asset ShareKhan.
 
 ## Oil prices fall to one-week low as hopes of US-Iran breakthrough ease supply concerns
 Oil prices extended losses as diplomatic talks eased supply disruption concerns. Brent crude futures and WTI crude touched their lowest levels since July. The Caspian Pipeline Consortium resumed oil loadings after a suspension. However, Middle East supply disruption fears persist amid drone attacks.
@@ -75,68 +84,62 @@ China's commerce ministry accused American artificial intelligence firms of usin
 ## Canara Bank eyes $2.5 billion in foreign currency deposits
 
 
-## Rupee surges 66 paise on RBI governor's remark, sensex up 776 points
-The rupee strengthened significantly against the US dollar on Monday. RBI governor Sanjay Malhotra indicated the domestic currency was undervalued. Foreign currency inflows, particularly FCNR(B) deposits, also supported the rupee's rise. Global crude prices declined sharply, further aiding the curre
+## SC to hear Jagannath temple plea against animated film after Rath Yatra ends
+Justice Nagarathna observed that the court had consciously deferred the release until after the festival in view of public sensitivities.
 
-## Government nod for 2 billion polymer banknotes of Rs 10 & Rs 20
-The government has allowed the Reserve Bank of India to print two billion polymer notes. These new polymer notes will be printed for field trials and regular issuance. The minister stated that paper and polymer currency will coexist in circulation. RBI is currently sourcing materials for these polym
+## Gurugram roads flooded after heavy rainfall as IMD sounds ‘red alert for more rains’
+Gurugram weather: Heavy rainfall hit Delhi-NCR, including Gurugram, leading the IMD to issue a red alert. The nowcast warning is active until 3:20 pm.
 
-## Compromised email led to data leak, says Bank of Baroda
+## Kerala CM urges TN counterpart to ease curbs on stone transport
+Kerala CM urges TN counterpart to ease curbs on stone transport
 
+## School officials imprisoned, over ₹4.5 lakhs siphoned: Ghost student scam busted in Tamil Nadu
+Based on the DVAC report, the school's strength was significantly lower than the strength recorded on the official registry.
 
-## Rain lashes Delhi, Noida; IMD issues 'orange' alert for next two hours | Weather updates
-The Indian Meteorological Department (IMD) has warned of cloudy skies with moderate rain accompanied by gusty winds.
+## Meeting with MPs in Delhi ‘major success’: Karnataka chief minister DK Shivakumar
+The meeting, which took place, demonstrated "there is strength in unity" and reinforced the need for leaders across parties to work together for development.
 
-## BJP slams Telangana govt over 'family register', alleges protection of illegal vote banks
-He asserted that his party will not allow a single illegal Rohingya, Bangladeshi or Pakistani to remain on the state's electoral rolls.
+## Heavy rain inundates roads, markets, disrupts traffic across Delhi, NCR
+The IMD initially sounded a yellow alert before upgrading it to orange and then red around 12.25pm on Tuesday as the intensity of the rain increased
 
-## RAF fired multiple munitions during July 20 protests, 2 rounds of non-lethal plastic pellets
-RAF fired multiple munitions during July 20 protests, 2 rounds of non-lethal plastic pellets
+## Non-compliance of IT rules, synthetically generated content: Why Centre summoned Meta's global head, Instagram chief
+A senior IT ministry official stated that the summons were sent due to the Indian policy team's inability to convey the seriousness of the issues to the US team
 
-## 'Take to task whoever committed excesses': Supreme Court's stern message on security crackdown during CJP protest
-During the hearing, the top court stated that whoever committed excesses or took the law in their own hands, should be sent to task.
+## What CJI said on police excess, pellet gun claims and message for protesting 'cockroaches' | 5 top quotes
+Following the 'Cockroach Janta Party' protests and the alleged use of force on protesters, the SC emphasised the need for accountability in police actions.
 
-## Centre draws more flak over E20: Gadkari and Puri's sacking demand, transport union's protest call, AAP campaign
-While AAP has announced a campaign against the E20 policy starting next month, transport unions in the national capital are also planning a protest march.
-
-## What is happening in Assam? Floods batter villages, over 4 lakh impacted, 60+ dead | Visuals
-Officials said that Assam's flood situation improved, with the number of affected people decreasing to 4.45 lakh.
-
-## RSS condemns Mohandas' controversial remarks, says views are personal
-RSS condemns Mohandas' controversial remarks, says views are personal
-
-## Smoke alert diverts Mumbai to Dubai IndiGo flight to Rajkot; all passengers safe
-The cause of the smoke indication is yet to be ascertained. The flight was operating from Dubai to Mumbai when the incident took place.
-
-## Sufi Motiwala recalls being abused by his roommate: ‘Locked myself in bathroom for 12 hours’
+## FDA suspends licenses of milk suppliers, Bombay HC intervenes: ‘Drastic action’
 
 
-## Woman jail warder entitled to child care leave despite staff crunch: Chhattisgarh High Court
+## Why was Infosys fined nearly Rs 2 crore in France?
 
 
-## Nearly 24,000 shift to CBSE government schools in Himachal; 330 PG medical seats planned
+## ‘Narak se swarag’: how one family turned hell into a Commonwealth gold medal
 
 
-## 11 years after losing son, Telangana High Court grants surrogacy nod to couple
+## Batwara 1947 trailer: Sunny Deol takes on Pakistan again, this time for the ‘religion of Maa’
 
 
-## 39 Amarnath pilgrims’ narrow escape after bus crashes into house
+## University ‘withholds’ student’s papers despite charging Rs 900 fee, ordered to pay Rs 2.55 lakh
 
 
-## With no family in India, 44 Somali pirates seek first-ever transfer home under treaty
+## ‘I am an orphan despite having a family’: Shilpa Shinde was forced to leave her Mumbai home
 
 
-## From geography to geometry of interests: The evolution of India’s strategic outlook
+## Bengal Mukhya Mantri Swasthya Bima Yojana: eligibility, exclusions, how to apply
 
 
-## ‘Soldier is a blank cheque written to country’: Kerala High Court upholds disability pension
+## Parliament debates examination Bill: How it compared with states’ anti-cheating laws
 
+
+## Hong Kong’s Asean charm offensive bags US$1.5 billion Malaysian bond listing
+Hong Kong’s push to draw Southeast Asian companies and markets into its financing orbit has scored a milestone, with the Malaysian government preparing to list a US$1.5 billion Islamic bond in the international financial centre later this week. The dual listing – sold on Bursa Malaysia and Hong Kong
 
 ## CATL, BYD battle for supremacy in Middle East energy-storage market
 Competition among Chinese energy-storage firms is intensifying in the Middle East, as a massive deal that was expected to go to global electric vehicle (EV) battery king Contemporary Amperex Technology Ltd (CATL) was ultimately won by BYD and Sungrow Power Supply. Shenzhen-headquartered BYD, which m
 
 ## LVMH’s fashion and leather division reports 1% organic growth in second quarter
-Louis Vuitton Moët Hennessy (LVMH) reported a 1 per cent organic growth in the second quarter at its core fashion and leather goods division on Monday, ending seven straight quarters of decline, opening a busy week of French luxury results on a positive note. Over the first half, organic sales at th
+Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
 ## CATL-backed smart driving tech firm to kick off Hong Kong IPO this week: sources
 NASN Intelligent Tech, a mainland Chinese smart driving motion control technologies company, is seeking to kick off its initial public offering (IPO) in Hong Kong as soon as Thursday, according to people familiar with the matter. The company, backed by battery giant Contemporary Amperex Technology L
@@ -153,8 +156,8 @@ When the S&P 500, Nasdaq and Dow Jones Industrial Average hit record highs in ea
 ## Hong Kong banks in early stages of preparing for quantum computing threats, HKMA says
 Hong Kong’s banking sector is still in the early stages of preparing for cybersecurity risks posed by quantum computing, the city’s de facto central bank said on Monday as it unveiled a new benchmark to track the industry’s readiness. The Hong Kong Monetary Authority (HKMA) launched its first Quantu
 
-## What CXMT must do to grow global memory market share and build on its surge: analysts
-Shares of ChangXin Memory Technologies (CXMT) could more than double from Monday’s close as the Chinese chipmaker expands its global dynamic random-access memory (DRAM) market share to 18 per cent by 2028, according to Nomura, which set a price target of 116 yuan. The listing of CXMT, the country’s 
+## The Economic War on Iran Is—and Isn’t—Working
+Devastating costs have been imposed on the Iranian economy—to unclear strategic ends.
 
 ## What to Expect at the Trump-Netanyahu Showdown
 Once close allies, the two leaders are at odds on the Iran war.
@@ -176,9 +179,6 @@ Washington loves the idea but would see few benefits.
 
 ## Bill Clinton Ended Welfare and Paved the Way for MAGA
 Republicans have since turned their attention to additional pillars of the social safety net.
-
-## The Kremlin’s Easy Money Is Gone
-Russia still has assets to tap for its war, but the political costs are growing.
 
 ## The Limits of China’s Growing Influence at the United Nations
 Beijing’s engagement is more cautious, selective, and constrained than it appears.
@@ -204,6 +204,15 @@ An asset freeze could be the first step of an acrimonious fight with the foreign
 ## Why Australia Struggles to Foster Asia Experts
 A new government report looks at Australia’s “Asia capability” and finds the country wanting.
 
+## The Octane Revolution: How Jimmy Doolittle Catalyzed a Wartime Industry
+Editor’s note: This is the sixth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
+
+## The First Waves of Amphibious Assault Will Be Unmanned
+In the Pacific War, the U.S. Navy’s underwater demolition teams prepared the way for U.S. and allied amphibious landings on enemy-held islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for the first waves of amphibious assaults con
+
+## How Orbán’s Fall Changed Serbia’s Political Future
+In the speech announcing his invasion of Ukraine on Feb. 24, 2022, Vladimir Putin took only minutes to arrive at the original sin in his catalogue of Western crimes. Before Iraq, before Libya, before Syria, came Belgrade: “First a bloody military operation was waged against Belgrade, without the U.N
+
 ## Zelensky’s Political Storm Starts to Clear
 Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues 
 
@@ -218,15 +227,6 @@ Welcome to The Adversarial. Every other week, we’ll provide you with expert an
 
 ## Before a Cyber Force, Fix Cyber Governance
 Let’s not start picking out uniforms just yet. The chorus calling for a Cyber Force continues to grow by the day, but the debate has its priorities backward. In June, an amendment from Sen. Kirsten Gillibrand (D-NY) calling for the creation of a cyber service within the Department of the Army failed
-
-## Chaotic Progress: European NATO’s Quest for Stronger Defense
-In 2024, Max Bergmann wrote, “NATO Missed a Chance to Transform Itself,” where he argued NATO’s leadership needs to facilitate a strong European pillar of the alliance through structural reforms in European institutions. Two years later, we asked Max to revisit his arguments.Image: The White House v
-
-## America Needs an Off-Ramp Between Doing Nothing and Shutting AI Down
-For 18 days in June, two of America’s most capable AI models went dark worldwide, not for technical or business reasons, but because the U.S. government ordered it. On June 12, 2026, the Commerce Department informed Anthropic that its Fable 5 and Mythos 5 models could no longer be provided to any fo
-
-## The King of Cool: Mobile Refrigeration and the Remaking of Global Logistics
-Editor’s note: This is the fifth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 250th anniversary, and winners will be selec
 
 ## The Bio-Pharma Industry and Society
 The Bio-Pharma Industry and Society Listing Summary Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-pharmaceutical firms can better support the critically important societal goals of improved affordability, access, quality, 
@@ -252,35 +252,35 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Palestine weekly: West Bank in flames after Tal killings
-Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.
+## ‘Future at stake’: India moves to demolish university Muslim leader founded
+Authorities in BJP-ruled Uttar Pradesh allege 38 of Mohammad Ali Jauhar University's 40 buildings were built illegally.
 
-## Mamdani tackles cost of living crisis in New York with 30% discounts
-New York City Mayor Zohran Mamdani has announced a new plan to sell discounted grocery baskets at city-run stores.
+## Sixty Palestinians detained by Israel return to Gaza, describe abuses
+The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.
 
-## Malaysia detains more than 100 Rohingya seeking help from the UN
-Malaysian police have detained more than 100 Rohingya refugees and asylum seekers who were seeking help from the UN.
+## Colombia’s president-elect to suspend Palestine embassy
+Colombia’s far-right president-elect says he'll close or suspend embassies in these countries
 
-## Trump calls protester ‘communist’ after Michigan speech interruption
-A protester was removed after interrupting US President Donald Trump’s remarks at a Michigan auto event.
+## ICE extends lease on Texas detention centre where three migrants died
+Three people have died in the Texas detainment centre Camp East Montana since it opened last year.
 
-## Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’
-Settler violence in the occupied West Bank endangers Israel’s future, 550 former officials tell Trump.
+## Justin Greaves sets new cricket bowling record with five wicket maiden
+Greaves, a West Indies paceman, becomes the first player in Test history to bowl five straight wicket maidens.
 
-## Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge
-The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.
+## ‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC
+‘F*** you Bibi.’ ‘War criminal!’
 
-## US warns hundreds of Boeing jets may require seat safety inspections
-US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection of 453 US-registered jets.
+## Conor McGregor calls for third UFC fight against Max Holloway in 2027
+Star fighter wants another chance to take on Holloway after he sustained a knee injury at UFC 329 on July 11.
 
-## Trump says Iran talks taking place during pause in US military strikes
-US President Donald Trump says talks with Iran are continuing during a pause in US military strikes
-
-## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
-Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
+## Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys
+Made up of mostly locals and some foreign visitors, a large group of volunteers step in to fix war damage.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
+
+## CBDT issues crypto reporting guidance; experts see stronger tax transparency, no change in taxation
+Guidance for Reporting Crypto Asset Service Providers explains obligations under the new income tax framework and operationalises India's adoption of the OECD's Crypto Asset Reporting Framework.
 
 ## HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case
 In a notable move, HDFC Bank has penalized senior executives and delivered warning letters after conducting an internal assessment of a deposit arrangement from 2017 and 2021. The bank's board determined that the actions were categorized as business overreach, lacking any improper intentions. Conseq
@@ -300,6 +300,12 @@ The framework calls for pre deployment validation, continuous monitoring and str
 ## PM Internship Scheme sees 1.65 lakh-plus offers in first two rounds, just 16,068 join; Round III crosses 10,000 joinings
 Latest Parliament data show third pilot round has already surpassed physical joinings recorded in either of the first two rounds.
 
+## India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report
+India's IPO activity has continued to stay resilient with 175 companies currently holding valid SEBI observations for their draft IPO papers and another 70 firms awaiting regulatory clearance, as per a report by Equirus.
+
+## Govt approves RBI's trials of ₹10, ₹20 polymer notes; no plan to replace paper currency
+The government has approved the Reserve Bank of India's proposal for polymer banknotes. One billion pieces each of ten and twenty rupee polymer notes will undergo field trials. These new notes are expected to be more durable and have a longer lifespan. The introduction of polymer notes is still in a
+
 ## RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll
 Economists predict the Reserve Bank of India will maintain its key interest rate at 5.25% through August. This decision comes as the central bank assesses global war impacts and domestic price pressures. Inflation has risen above the target, but rate hikes are considered premature by many experts. T
 
@@ -317,10 +323,4 @@ Speaking at the NDTV Profit Business Leadership Awards 2026 in Mumbai, Sitharama
 
 ## Parliamentary panel backs Sebi board expansion, longer cooling-off period for top brass
 Standing Committee on Finance, headed by Bhartruhari Mahtab, backs key provisions of the Securities Markets Code Bill, including raising Sebi board strength to 15 from 9, and calls for a regulatory framework for virtual digital assets
-
-## US imposes 10% tariff on India, Pak, Bangladesh, UK, others in forced labour probe
-The United States has imposed 10% tariffs on goods from India and sixteen other nations. This action stems from their alleged failure to ban imports made with forced labor. India amended its foreign trade policy to prohibit such imports after the investigation began. Trading partners adopting and en
-
-## India in strongest credit growth phase since 2012 on robust corporate demand: Report
-India's credit expansion is currently its strongest since 2012. Corporate loan growth reached a thirteen-year high in May. Household loan growth has also remained resilient for four months. Non-banking financial companies saw retail loan growth accelerate significantly. Overall credit demand is expe
 
