@@ -111,28 +111,28 @@ Indian Meteorological Department issued a red warning for Sundargarh, Sambalpur,
 ## Karnataka man kills wife, films her hanging, shares video with family: Police
 Praveen Ashok Jigalur allegedly hanged his wife and filmed her as she struggled while hanging from a noose, investigators said.
 
-## Gulveer Singh wins India’s first men’s 10,000m medal at Commonwealth Games
+## In Delhi’s wholesale hub Sadar, choked drains and water inside shops
+
+
+## Traffic snarls, water enters shops: Heavy rain sinks parts of Delhi
+
+
+## No cash in hand, aid for women with over 3 children in Delhi assistance scheme
+
+
+## CJP volunteer moves Supreme Court alleging illegal detention, harassment
+
+
+## Anti-paper leak Bill a visionary step towards safeguarding youth’s future: Govt
+
+
+## Opp: Govt not serious about education, students compelled to hit the streets
+
+
+## Gulveer Singh braves relentless rain to win historic men’s 10,000m silver at 2026 CWG
 
 
 ## Harjinder Kaur wins silver, India’s 7th weightlifting medal at 2026 CWG
-
-
-## 2,000 took Gujarat Ayurved varsity exam; V-C says paper ‘leak’ probe on
-
-
-## NMC releases eligibility guidelines for NEET candidates with disability – two weeks after results
-
-
-## Himachal Pradesh: 179 roads blocked, 62 electricity distribution transformers & 59 drinking water affected
-
-
-## 10-yr-old girl raped, 4-yr-old sister sexually abused; 61-yr-old held
-
-
-## NEET UG paper leak: CBI files charges against 13 accused
-
-
-## HC Bar suspends work till July 30, Bar Council reiterates support for review of LADC scheme
 
 
 ## Turning tenants into sustainability partners
@@ -159,6 +159,9 @@ Competition among Chinese energy-storage firms is intensifying in the Middle Eas
 ## LVMH’s fashion and leather division reports 1% organic growth in second quarter
 Louis Vuitton Moet Hennessy (LVMH) reported 1 per cent organic growth in the second quarter for its core fashion and leather goods division on Monday, ending seven straight quarters of decline and opening a busy week of French luxury results on a positive note. Over the first half, organic sales at 
 
+## Scandal Exposes Limits of China’s Scientific Rise
+The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
+
 ## Washington’s Reset With Serbia Is a Mistake
 Trump is bolstering an aspiring autocrat’s political fortunes.
 
@@ -179,9 +182,6 @@ The coming months will mark the most dangerous phase of Russia’s war in Ukrain
 
 ## Netanyahu’s Palestine Philosophy Is Finally Exposed
 The Israeli prime minister’s thinking on Palestine has always been consistent—and consistently disastrous.
-
-## The Economic War on Iran Is—and Isn’t—Working
-Devastating costs have been imposed on the Iranian economy—to unclear strategic ends.
 
 ## The Cockroach Uprising: How the CJP Protest Exposed India’s Broken Institutions
 Journalist and author Snigdhendu Bhattacharya joins host Tushar Shetty to examine what the Cockroach Janata Party protests reveal about the erosion of India's democratic institutions.
@@ -255,6 +255,21 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
+## Israeli airstrike destroys Gaza City mosque near displacement camp
+Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium
+
+## Donald Trump and world leaders attend Lindsey Graham’s funeral
+Donald Trump said Lindsey Graham was a force in politics at the late senator's funeral in DC.
+
+## Iran and Oman exchange proposals to manage Strait of Hormuz
+Omani proposal is based on the Strait of Malacca model, where ships that use the strait provide voluntary fees.
+
+## Rome’s viral graffiti cleaner is taking on an ancient problem
+Graffiti has marked the walls of Rome for millennia. One content creator builds a following cleaning spray-paint.
+
+## Many feared dead from 7.1-magnitude quake in Kumamoto, Japan
+A powerful 7.1-magnitude earthquake struck Kumamoto, Japan, causing widespread damage, injuries and fears of deaths.
+
 ## Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack
 Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.
 
@@ -263,21 +278,6 @@ A group of demonstrators gathered near the White House to protest Benjamin Netan
 
 ## Keiko Fujimori sworn in as Peru president after narrow election win
 Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father's tactics.
-
-## How US defence aid shaped Israel’s military developments since Oct 7, 2023
-US-Israel defence cooperation spans decades, including a $33bn, 10-year memorandum of understanding signed in 2016.
-
-## New poll shows confusion over Democratic Socialists of America ideals
-Democratic socialists face mixed understanding, with 49% of Americans saying they grasp their policies, poll shows.
-
-## What will it take to stop the conflict in Sudan?
-The army says it's retaken a key highway linking Khartoum to El-Obeid.
-
-## West Bank quarry owner appeals to Trump after settler raid
-West Bank quarry owner appeals to Trump after settler raid
-
-## ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
-At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel's genocide and blockade.
 
 ## EMPLOYEE WELLNESS: Is it Important for Businesses?
 For seasoned finance veteran Robin Banerjee, business success rests on more than money and ideas. It depends equally on people and their wellbeing. In this thought-provoking piece, Banerjee examines the financial, physical and emotional health of employees, and why caring for them ultimately strengt
