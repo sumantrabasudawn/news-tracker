@@ -1,16 +1,19 @@
 # AION Intelligence
 
+## Qualcomm posts shrinking sales and profits as rising costs hit smartphone market
+Net income falls 25% as higher memory chip prices hurt device business
+
+## Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’
+Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint
+
+## FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady
+Also in today’s newsletter: Mark Zuckerberg says US should not ban Chinese AI and SK Hynix profits disappoint
+
 ## Microsoft’s cloud business boosts sales as capex climbs to $41bn
 Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn
 
 ## US borrowing costs hit 19-year high as Fed defies inflation fears
 Central bank stands pat on rates even as investors worry Trump’s Iran war will ignite jolt of price growth
-
-## Meta tumbles 6% as sales forecast and profits disappoint
-Mark Zuckerberg under pressure over huge AI spending
-
-## Qualcomm posts shrinking sales and profits as rising costs hit smartphone market
-Net income fell 25% as higher memory chip prices hurt device business
 
 ## Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack
 Washington says Tehran launched an attempted ‘surprise attack’ on US military installations in the Middle East
@@ -21,9 +24,6 @@ The committee reiterated that it would ‘deliver price stability’ but chair K
 ## Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19
 Republican lawmakers threaten to hold scientist in contempt for failing to answer questions
 
-## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
-Jon Reeves lost his job after he took six months off to look after his baby
-
 ## Infantino defends $20bn Fifa commercial venture after mounting backlash
 President of world football’s governing body says plan to sell stake to investors ‘is an opportunity and not an obligation’
 
@@ -32,6 +32,9 @@ World’s largest planemaker hands over 237 aircraft as supply-chain snags ease
 
 ## For sale: Saba repellent
 You’ve got a nice trust there. Would be a shame if something happened to it
+
+## Ex-Goldman executive awarded £1.45mn after paternity leave ‘stigma’
+Jon Reeves lost his job after he took six months off to look after his baby
 
 ## Social care reform is a test of UK politics
 Efforts to fix England’s broken system must answer the question: who pays?
@@ -108,6 +111,15 @@ On the anti-paper leak bill passed in the Lok Sabha, Abhijeet Dipke said laws wo
 ## ‘Unstable approach’: Delhi-Hyderabad flight with CM Reddy onboard lands in 2nd attempt after go-around amid rain, wind
 An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onboard had an “unstable approach” at the Hyderabad airport
 
+## ‘Bhadohi to be renamed Sant Ravidas Nagar again’: Yogi Adityanath at Varanasi event
+
+
+## Ram Temple Trust seized cash from donation ‘theft’ accused before police filed FIR, reveals Champat Rai’s letter
+
+
+## Amid Opposition protest, Rajya Sabha passes Bill criminalising insult to Vande Mataram
+
+
 ## Delhi Confidential: Kiren Rijiju guest Appearance
 
 
@@ -121,15 +133,6 @@ An IndiGo flight from Delhi to Hyderabad that had Telangana CM Revanth Reddy onb
 
 
 ## AAP attacks BJP over Laxmi Yojana, says govt wants to exclude most women in Capital
-
-
-## Digital to cash: The changing way in which people pay for Delhi Metro rides
-
-
-## Government appoints members of Delhi Medical Council over a year after it was dissolved over ‘irregularities’
-
-
-## CWG: Sreeshankar bags silver in long jump at Glasgow
 
 
 ## Powering Hong Kong’s Future
@@ -156,6 +159,9 @@ China’s Moonshot AI, whose recently released Kimi K3 model stunned with perfor
 ## Why is Zhongji unveiling US$1.2 billion in buy-backs before its Hong Kong debut?
 Zhongji Innolight’s buy-back plan – worth as much as 8 billion yuan (US$1.2 billion) in the run-up to its offshore listing in Hong Kong – may give global investors an anchor for pricing, as the Chinese supplier of US hyperscalers seeks to pre-empt a shaky start to trading in the city. The Chinese ma
 
+## Anti-Government Protests Resurge in North Africa
+Amid extreme heat, demonstrators are protesting power cuts—and the governments behind them.
+
 ## U.S.-Saudi Strikes Add a New Front to the Iran War
 Iraqi militias backed by Tehran are the latest targets in the ever-expanding conflict.
 
@@ -176,9 +182,6 @@ After oil refineries and cargo ships, Ukraine is now taking out Russian e-commer
 
 ## An ASEAN Summit Consumed by Middle East Worries
 The South China Sea ran a distant second.
-
-## Scandal Exposes Limits of China’s Scientific Rise
-The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.
 
 ## Who is Responsible for the June 20 Police Brutalities in New Delhi?
 Delhi Police and the Rapid Action Force, which unleashed the violence on student protesters, fall under the direct jurisdiction of Home Minister Amit Shah.
@@ -252,8 +255,11 @@ Statesmen's Forum: The Right Honourable Theresa May, MP, Home Secretary, United 
 ## Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris
 Strategic Opportunities in the Indo-Asia-Pacific with Admiral Harry B. Harris Listing Summary Please join us for a discussion with Admiral Harry B. Harris, Commander, U.S. Pacific Command, on the Strategic Opportunities in the Indo-Asia-Pacific. Drupal Admin Tue, 01/26/2016 - 11:20 Featured Image Im
 
-## Is Fifa selling parts of the World Cup to private investors?
-This week Fifa announced it will form a new subsidiary company to run part of the World Cup and offer a 20% stake.
+## Sam Altman meets lawmakers on back of OpenAI agents hacking companies
+US President Donald Trump says he is considering 'AI controls' following OpenAI's disclosure.
+
+## Is FIFA selling parts of the World Cup to private investors?
+This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.
 
 ## Myanmar court sentences activists to 37 years over election protest
 Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
@@ -272,9 +278,6 @@ Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged
 
 ## Algeria elects first-ever woman speaker of parliament
 Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
-
-## How is Islamabad handling crisis in Pakistan-administered Kashmir?
-Fatal confrontations between security forces and protesters have marred local elections.
 
 ## ITC fraud detection under GST hits Rs 74,782 crore as cases nearly double; experts say ‘prevention must now outpace detection’
 Fake GST registrations using forged PAN and Aadhaar fall sharply, but experts flag a shift towards more sophisticated fraud networks generating larger fraudulent credits.
